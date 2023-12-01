@@ -31,7 +31,7 @@ You can use Obsidian for your TTRPG notes, however it required some efforts and 
 	![example of PC page](https://github.com/he1lhamster/Pathfinder2e-Obsidian-Vault/blob/main/img/leaflet_example.png)
 
 ## Licenses
-This vault is absolutely free for use and distributed under Paizo Community Use Policy and OGL. For more information check [[Licenses]].
+This vault is absolutely free for use and distributed under Paizo Community Use Policy and OGL. For more information check '_Licenses_'.
 
 ## What's Next
 Planning to update this vault with new remaster content and maybe add some pre-made templates for PC, Campaign Track and others.
