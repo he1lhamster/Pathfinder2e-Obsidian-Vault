@@ -1,0 +1,90 @@
+﻿---
+ac: null
+actions: null
+alignment: null
+base_item: null
+bulk: null
+burrow_speed: null
+climb_speed: null
+damage: null
+deity: null
+duration: null
+element: null
+favored_weapon: null
+fly_speed: null
+fortitude: null
+frequency: null
+hands: null
+hardness: null
+hp: null
+id: '2473'
+item_category: Services
+item_subcategory: null
+land_speed: null
+level: '0'
+max_speed: null
+name: Smuggling
+onset: null
+price: 150 gp
+range: null
+rarity: Common
+reflex: null
+requirement: null
+resistance: null
+saving_throw: null
+school: null
+size: null
+source: '[[DATABASE/source/Firebrands|Firebrands]]'
+spell: null
+stage: null
+subcategory: service
+swim_speed: null
+trait: null
+trigger: null
+type: Item
+usage: null
+weapon_category: null
+weapon_group: null
+weapon_type: null
+
+---
+# Smuggling<span class="item-type">Item 0+</span>
+
+**Source** [[Firebrands]]
+**Bulk** —
+
+---
+Smuggling involves the discrete transport of people or goods. Examples include moving weapons through a neutral nation to supply a hidden army, transporting endangered creatures out of hostile territory for protection, and dispersing stolen resources to the needy. While smugglers are often associated with illicit substances and illegal activities, Firebrands use smuggling as a way to move people and resources undetected across great distances; they do this by using their own networks or by hiring local experts. Many of the Firebrands' operations involve spectacles as misdirection, and it's not uncommon for them to cause a stir to allow goods to be smuggled more easily elsewhere. In particular, they work with the Bellflower Network to aid in the relocation of displaced peoples across borders.
+ Smugglers transport goods by either taking unconventional routes, offering bribes to guards and inspectors, hiding smuggled goods or people, or disguising or declaring the goods as something different. Borders and conflict zones are areas where smuggling thrives, although smaller or more specialized rings can be found all across the Inner Sea region. Smuggling rings typically operate along particular routes or between specific locations, and the availability of smuggling services and the capacity of those services is up to GM discretion.
+ The cost of smuggling services depends on distance, as determined by the level of service, and includes transportation fees and a fund for the bribes required to have inspectors look the other way. Level 1 services accept items up to 25 Bulk or a single creature, level 2 services accept items up to 100 Bulk or 3 creatures, level 3 services accept items up to 200 Bulk or 6 creatures, level 4 services accept items up to 300 Bulk or 10 creatures, and level 5 services accept items up to 500 Bulk or up to 20 creatures. More dangerous or difficult subjects of transport, such as explosives or high-level creatures, generally double the cost of the service.
+ Smuggling services are generally presumed to succeed. In some cases, the GM might rule that the smuggling could fail, leading to the discovery and possible capture of the goods or people, but GMs are encouraged to warn the players in such cases and offer alternatives, such as paying a higher cost for a more secure smuggling attempt or smuggling the goods themselves.
+
+## Smuggling (Level 1)<span class="item-type">Item 0</span>
+
+**Source** [[Firebrands]]
+**Price** 10 gp
+**Ammunition** per 50 miles
+
+## Smuggling (Level 2)<span class="item-type">Item 0</span>
+
+**Source** [[Firebrands]]
+**Price** 20 gp
+**Ammunition** per 50 miles
+
+## Smuggling (Level 3)<span class="item-type">Item 0</span>
+
+**Source** [[Firebrands]]
+**Price** 50 gp
+**Ammunition** per 50 miles
+
+## Smuggling (Level 4)<span class="item-type">Item 0</span>
+
+**Source** [[Firebrands]]
+**Price** 90 gp
+**Ammunition** per 50 miles
+
+## Smuggling (Level 5)<span class="item-type">Item 0</span>
+
+**Source** [[Firebrands]]
+**Price** 150 gp
+**Ammunition** per 50 miles

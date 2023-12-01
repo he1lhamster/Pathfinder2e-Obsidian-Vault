@@ -1,0 +1,18 @@
+﻿---
+id: '81'
+name: Xanmba
+rarity: Uncommon
+source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
+trait:
+- '[[DATABASE/trait/Uncommon|Uncommon]]'
+type: Language
+
+---
+# Xanmba
+
+**Source** [[The Mwangi Expanse]] 
+The below entries contain speakers of Xanmba.
+
+## Monsters (1)
+
+[[Takulu Ot, Kindly Teacher of Incoming Students]]

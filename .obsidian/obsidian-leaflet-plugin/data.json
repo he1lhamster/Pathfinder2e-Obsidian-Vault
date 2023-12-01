@@ -1,0 +1,6200 @@
+{
+  "mapMarkers": [
+    {
+      "id": "fmap",
+      "locked": false,
+      "lastAccessed": 1676582311754,
+      "markers": [],
+      "overlays": [],
+      "shapes": [
+        {
+          "type": "rectangle",
+          "color": "#6a1b1b",
+          "vertices": [
+            {
+              "lat": -1.184906005859375,
+              "lng": 1.6162109375,
+              "id": "ID_d8ebfa480b28",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -1.184906005859375,
+              "lng": 2.0732421875,
+              "id": "ID_3a8a2a89fb2b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -1.356781005859375,
+              "lng": 2.0732421875,
+              "id": "ID_09e9f8587bb9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -1.356781005859375,
+              "lng": 1.6162109375,
+              "id": "ID_39cb19fb6a29",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ]
+        }
+      ],
+      "files": [
+        "GM Tools List.md"
+      ]
+    },
+    {
+      "id": "overland-map",
+      "lastAccessed": 1678122470304,
+      "markers": [
+        {
+          "type": "District",
+          "loc": [
+            -29.3193359375,
+            31.359439259727935
+          ],
+          "link": "The Cinderlands",
+          "layer": "%5B%5Boverland.png%5D%5D",
+          "id": "ID_cb889a2aaae9",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "type": "District",
+          "loc": [
+            -60.4443359375,
+            23.044289781714653
+          ],
+          "link": "Harse",
+          "layer": "%5B%5Boverland.png%5D%5D",
+          "id": "ID_bb49e8ca5bca",
+          "command": false,
+          "description": null,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Curse Crimson Throne/Korvosa/Overland Map.md"
+      ]
+    },
+    {
+      "id": "leaflet-map",
+      "locked": true,
+      "lastAccessed": 1678122820404,
+      "markers": [
+        {
+          "id": "ID_19eb68281bab",
+          "type": "District",
+          "loc": [
+            -18.994140625,
+            24.40625
+          ],
+          "link": "Old Korvosa",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f9180b7b688b",
+          "type": "District",
+          "loc": [
+            -47.181640625,
+            52.15625
+          ],
+          "link": "East Shore",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1bf84b781949",
+          "type": "District",
+          "loc": [
+            -25.369140625,
+            32.96875
+          ],
+          "link": "North Point",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a9ea5b8afad9",
+          "type": "District",
+          "loc": [
+            -40.431640625,
+            18.53125
+          ],
+          "link": "The Heights",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ea48eaa9fa9b",
+          "type": "District",
+          "loc": [
+            -66.431640625,
+            17.15625
+          ],
+          "link": "South Shore",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3a499ba9da39",
+          "type": "District",
+          "loc": [
+            -64.056640625,
+            31.21875
+          ],
+          "link": "Gray",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ba6a8aa97a2a",
+          "type": "District",
+          "loc": [
+            -40.869140625,
+            33.21875
+          ],
+          "link": "Midland",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7939a87baaaa",
+          "type": "District",
+          "loc": [
+            -45.994140625,
+            20.682884070362213
+          ],
+          "link": "Castle Korvosa",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_18d8b969ca39",
+          "type": "default",
+          "loc": [
+            -19.681640625,
+            39.23079379270707
+          ],
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": 1,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eb0ab9fb4b0b",
+          "type": "Home or Inn",
+          "loc": [
+            -10.119140625,
+            48.85886710517913
+          ],
+          "link": "Places in Campaign#H5. Soldado Home (Outskirts):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e918bb99aafb",
+          "type": "Place",
+          "loc": [
+            -13.306640625,
+            20.53676799284756
+          ],
+          "link": "Old Korvosa#Гарнизонный холм",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_caf80b1a4a49",
+          "type": "Place",
+          "loc": [
+            -23.9345703125,
+            15.328948208697874
+          ],
+          "link": "Old Korvosa#Бриджфронт",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a828a83bdb09",
+          "type": "District",
+          "loc": [
+            -13.6533203125,
+            33.30342574557762
+          ],
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3a58c99bba99",
+          "type": "Place",
+          "loc": [
+            -16.869140625,
+            14.72199294335526
+          ],
+          "link": "Old Korvosa#Форт Корвоса",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0ac9caaa1b78",
+          "type": "Place",
+          "loc": [
+            -13.5595703125,
+            33.17893463822722
+          ],
+          "link": "Old Korvosa#Старый док",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5999f92a88c9",
+          "type": "Home or Inn",
+          "loc": [
+            -15.6220703125,
+            16.360906667092408
+          ],
+          "link": "Places in Campaign#H1. Arkona Palace (Old Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_48891858f83b",
+          "type": "Home or Inn",
+          "loc": [
+            -13.9658203125,
+            36.8674524235264
+          ],
+          "link": "Places in Campaign#H4. Pilts’s Palace (Old Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4a0acb3a0a49",
+          "type": "Home or Inn",
+          "loc": [
+            -16.5283203125,
+            22.613042020563256
+          ],
+          "link": "Places in Campaign#H2. Vencarlo’s Home (Old Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3b283878bb98",
+          "type": "Site of Interest",
+          "loc": [
+            -15.3408203125,
+            19.174314691231878
+          ],
+          "link": "Places in Campaign#V1. Old City Hall (Old Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_18d82aebbad9",
+          "type": "Site of Interest",
+          "loc": [
+            -14.9033203125,
+            38.14912151159078
+          ],
+          "link": "Places in Campaign#V2. Exemplary Execrables (Old Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8acb58588b69",
+          "type": "default",
+          "loc": [
+            -19.2470703125,
+            15.892016971070948
+          ],
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": 0,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1b2af9a9bbca",
+          "type": "Site of Interest",
+          "loc": [
+            -16.2470703125,
+            47.55345568043936
+          ],
+          "link": "Places in Campaign#V4. Wreck of the Direption (Jeggare River):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5a18aa88e83b",
+          "type": "default",
+          "loc": [
+            -19.1845703125,
+            16.109210358260427
+          ],
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": 0,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d9397aaa4b7a",
+          "type": "default",
+          "loc": [
+            -19.3720703125,
+            15.956382910786129
+          ],
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": 0,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_797a09f8ebf8",
+          "type": "default",
+          "loc": [
+            -18.9658203125,
+            15.893154495817102
+          ],
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": 0,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4a7b8bb98988",
+          "type": "default",
+          "loc": [
+            -19.1220703125,
+            15.955674452391596
+          ],
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": 0,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f8396838d909",
+          "type": "Restaurant or Tavern",
+          "loc": [
+            -15.1533203125,
+            31.711601555016287
+          ],
+          "link": "Places in Campaign#R3. Traveling Man (Old Korvosa; standard):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_58499bc9eaab",
+          "type": "Site of Interest",
+          "loc": [
+            -15.9970703125,
+            35.55657888434766
+          ],
+          "link": "Places in Campaign#V3. Temple of Aroden (Old Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_385b3bbab938",
+          "type": "Restaurant or Tavern",
+          "loc": [
+            -11.3095703125,
+            34.743819448879236
+          ],
+          "link": "Places in Campaign#R1. Sticky Mermaid (Old Korvosa; squalid):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8a4b38fb8a18",
+          "type": "Restaurant or Tavern",
+          "loc": [
+            -11.1220703125,
+            38.33871695191264
+          ],
+          "link": "Places in Campaign#R2. Jeggare’s Jug (Old Korvosa; squalid):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c808bb983ba9",
+          "type": "Temple or School",
+          "loc": [
+            -14.8720703125,
+            22.049913388466695
+          ],
+          "link": "Places in Campaign#T1. Orisini Academy (Old Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bb795a1ba9ea",
+          "type": "Temple or School",
+          "loc": [
+            -14.4970703125,
+            24.0505519988505
+          ],
+          "link": "Places in Campaign#T2. Endrin Military Academy (Old Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4b0aba7b5b7a",
+          "type": "Home or Inn",
+          "loc": [
+            -17.8095703125,
+            32.240666310109205
+          ],
+          "link": "Places in Campaign#H3. Salvator’s Home (Old Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ab9a7a28ab7a",
+          "type": "default",
+          "loc": [
+            -19.2158203125,
+            15.797917731017305
+          ],
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": 0,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3bdada3a0b2a",
+          "type": "default",
+          "loc": [
+            -8.06103515625,
+            25.447405445750046
+          ],
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": 0,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1bb9b8a99ad8",
+          "type": "Shop or Service",
+          "loc": [
+            -12.6220703125,
+            29.461661424739766
+          ],
+          "link": "Places in Campaign#S1. Reefclaw Run Market (Old Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cad849f8f8cb",
+          "type": "Shop or Service",
+          "loc": [
+            -13.2783203125,
+            39.24603462864806
+          ],
+          "link": "Places in Campaign#S2. Copper-Beater Hall (Old Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ca7908abe87b",
+          "type": "Shop or Service",
+          "loc": [
+            -15.7783203125,
+            39.646936266683696
+          ],
+          "link": "Places in Campaign#S3. Eel’s End (Old Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2b7a3a7bfa68",
+          "type": "Shop or Service",
+          "loc": [
+            -16.3408203125,
+            29.393663388466695
+          ],
+          "link": "Places in Campaign#S4. Hessim, Newby, and Sage Paint Manufactory (Old Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_dbd8e82bcbf8",
+          "type": "Shop or Service",
+          "loc": [
+            -19.3095703125,
+            15.79557283351427
+          ],
+          "link": "Places in Campaign#S5. Giotorri’s Toys (Old Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_dae89bebf93b",
+          "type": "Shop or Service",
+          "loc": [
+            -19.4345703125,
+            19.140390510249695
+          ],
+          "link": "Places in Campaign#S6. Ironworks (Old Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ebeae978fa7a",
+          "type": "Place",
+          "loc": [
+            -32.8095703125,
+            11.580095711731271
+          ],
+          "link": "The Heights#Цитадельный Гребень",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7aa8986a9a3b",
+          "type": "Place",
+          "loc": [
+            -24.3720703125,
+            25.70960589756689
+          ],
+          "link": "The Heights#",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0a68797ba8f8",
+          "type": "Place",
+          "loc": [
+            -33.8408203125,
+            28.616783878280856
+          ],
+          "link": "The Heights#Университет",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3b4bbaa8bb9b",
+          "type": "Place",
+          "loc": [
+            -52.2470703125,
+            15.800192780509608
+          ],
+          "link": "The Heights#Обрыв (Клиффсайд)",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_58392a387a0a",
+          "type": "Government and Military",
+          "loc": [
+            -9.7158203125,
+            10.394212194265279
+          ],
+          "link": "Places in Campaign#G1. Jeggare Light (Outskirts): Свет Джеггара",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ebb988ebc81b",
+          "type": "Government and Military",
+          "loc": [
+            -26.7470703125,
+            17.831622389680057
+          ],
+          "link": "Places in Campaign#G5. Great Tower (The Heights): Великая башня",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4b98ea389b39",
+          "type": "Home or Inn",
+          "loc": [
+            -25.8095703125,
+            20.207380739510825
+          ],
+          "link": "Places in Campaign#H6. Posh and Turtle (North Point; luxurious):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ba592b29ba8b",
+          "type": "Site of Interest",
+          "loc": [
+            -24.6845703125,
+            22.020459480171148
+          ],
+          "link": "Places in Campaign#V5. Avenue of Arms (North Point):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bafbeb89dbb9",
+          "type": "Home or Inn",
+          "loc": [
+            -33.8720703125,
+            14.92444440896609
+          ],
+          "link": "Places in Campaign#H9. Upslope House (The Heights; luxurious):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_89da3b2b4ab9",
+          "type": "Home or Inn",
+          "loc": [
+            -36.0595703125,
+            14.799404495817102
+          ],
+          "link": "Places in Campaign#H10. Frisky Unicorn (The Heights; standard):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_69399b8a6809",
+          "type": "Shop or Service",
+          "loc": [
+            -36.4970703125,
+            17.45650265023309
+          ],
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c97bc8a8d9bb",
+          "type": "Shop or Service",
+          "loc": [
+            -37.9345703125,
+            18.738161760010218
+          ],
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e889384999c8",
+          "type": "Temple or School",
+          "loc": [
+            -38.1533203125,
+            12.204826297975606
+          ],
+          "link": "Places in Campaign#T7. Temple of Asmodeus (The Heights):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_dabbc80b2ab8",
+          "type": "Temple or School",
+          "loc": [
+            -31.7470703125,
+            20.708208937352317
+          ],
+          "link": "Places in Campaign#T5. Acadamae (The Heights):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0859d9fa3a0a",
+          "type": "Home or Inn",
+          "loc": [
+            -37.0283203125,
+            27.616664138833897
+          ],
+          "link": "Places in Campaign#H11. Wise Dragon Inn (The Heights; luxurious):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_dbeaf8cad8b8",
+          "type": "Home or Inn",
+          "loc": [
+            -43.3720703125,
+            26.084925202758797
+          ],
+          "link": "Places in Campaign#H12. Tenna’s (The Heights; luxurious):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_894a891949eb",
+          "type": "Home or Inn",
+          "loc": [
+            -41.6220703125,
+            29.42974287949422
+          ],
+          "link": "Places in Campaign#H13. Trinia’s Flat (Midland):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ba298a28a93b",
+          "type": "Home or Inn",
+          "loc": [
+            -43.8720703125,
+            30.02368246695191
+          ],
+          "link": "Places in Campaign#H14. Girrigz’s Den (Midland):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6a9adbaae8c9",
+          "type": "Temple or School",
+          "loc": [
+            -35.8720703125,
+            30.08620242352641
+          ],
+          "link": "Places in Campaign#T6. University of Korvosa (The Heights):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d9f9fae998ba",
+          "type": "Restaurant or Tavern",
+          "loc": [
+            -31.3095703125,
+            30.648882032696854
+          ],
+          "link": "Places in Campaign#R5. Jittery Quill (The Heights; standard):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ca689b184a19",
+          "type": "Site of Interest",
+          "loc": [
+            -50.8095703125,
+            20.678405789003126
+          ],
+          "link": "Places in Campaign#V7. Marbledome (The Heights)",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c9a80aa8bb5b",
+          "type": "Site of Interest",
+          "loc": [
+            -56.0908203125,
+            9.080953844434509
+          ],
+          "link": "Places in Campaign#V8. Gatefoot (The Heights):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0af82a5aaab8",
+          "type": "Site of Interest",
+          "loc": [
+            -59.2470703125,
+            16.895948416246245
+          ],
+          "link": "Places in Campaign#V9. Kendall Amphitheater (The Heights):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a9ca9b4bf98a",
+          "type": "Restaurant or Tavern",
+          "loc": [
+            -54.6220703125,
+            11.331672281116289
+          ],
+          "link": "Places in Campaign#R6. Overlook (The Heights; luxurious):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3b2b48f99948",
+          "type": "Restaurant or Tavern",
+          "loc": [
+            -55.8408203125,
+            15.645549284756369
+          ],
+          "link": "Places in Campaign#R7. Crested Falcon (The Heights; luxurious):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_085a6b9b69f9",
+          "type": "Temple or School",
+          "loc": [
+            -54.2470703125,
+            14.582710022989971
+          ],
+          "link": "Places in Campaign#T8. Temple of Sarenrae (The Heights):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7ac92a4a8a89",
+          "type": "Place",
+          "loc": [
+            -45.3720703125,
+            27.555601012197457
+          ],
+          "link": "Midland#Склон",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6b29c92ad97b",
+          "type": "Place",
+          "loc": [
+            -45.0908203125,
+            34.68287606168976
+          ],
+          "link": "Midland#Западные пристани",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c999ba8b2819",
+          "type": "Place",
+          "loc": [
+            -54.0595703125,
+            26.273941902420333
+          ],
+          "link": "Midland#ПилларХилл",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ca59ea29087b",
+          "type": "Place",
+          "loc": [
+            -58.9345703125,
+            32.68223745130595
+          ],
+          "link": "Midland#Высокий мост (ХайБридж)",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_38fae8a949b8",
+          "type": "Place",
+          "loc": [
+            -24.3408203125,
+            26.26819440896609
+          ],
+          "link": "North Point#Риджфилд",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ebe88a4b98b9",
+          "type": "Place",
+          "loc": [
+            -20.8095703125,
+            39.80376500734402
+          ],
+          "link": "North Point#Большой Берег",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c9eadac95a69",
+          "type": "Place",
+          "loc": [
+            -24.7470703125,
+            44.18016196755859
+          ],
+          "link": "North Point#Северные Врата",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4ba9e80beac8",
+          "type": "Place",
+          "loc": [
+            -30.3720703125,
+            38.05320622325819
+          ],
+          "link": "North Point#Пять Углов",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_581a2a1a68b8",
+          "type": "Government and Military",
+          "loc": [
+            -65.8720703125,
+            5.916900823807396
+          ],
+          "link": "Places in Campaign#G13. Jeggare Isle (Outskirts): Остров Джеггара",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_796b09c9cb29",
+          "type": "Shop or Service",
+          "loc": [
+            -63.7783203125,
+            12.450236285842008
+          ],
+          "link": "Places in Campaign#S17. Orkatto’s Feathers and Fur (Southern Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5b8a0ae81a69",
+          "type": "Home or Inn",
+          "loc": [
+            -68.2158203125,
+            13.012915895012453
+          ],
+          "link": "Places in Campaign#H19. Carowyn Manor (Southern Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e838f9c9792b",
+          "type": "Shop or Service",
+          "loc": [
+            -69.6220703125,
+            14.732214700811035
+          ],
+          "link": "Places in Campaign#S18. Green Market (Southern Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2a380a5aaab8",
+          "type": "Home or Inn",
+          "loc": [
+            -64.2158203125,
+            18.327112203844433
+          ],
+          "link": "Places in Campaign#H18. Leftover’s (East Shore; standard):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cb28d89b9b9b",
+          "type": "Site of Interest",
+          "loc": [
+            -62.4033203125,
+            18.139552334120953
+          ],
+          "link": "Places in Campaign#V11. Pillar Wall (Southern Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_397a3a586b08",
+          "type": "Restaurant or Tavern",
+          "loc": [
+            -64.1845703125,
+            20.390270770802733
+          ],
+          "link": "Places in Campaign#R10. Jade Circle (Southern Korvosa; luxurious):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_38081b29ab3a",
+          "type": "Temple or School",
+          "loc": [
+            -66.1220703125,
+            21.015470336547672
+          ],
+          "link": "Places in Campaign#T10. Pantheon of Many (Southern Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d80a692a085b",
+          "type": "Temple or School",
+          "loc": [
+            -64.8408203125,
+            25.54816718819848
+          ],
+          "link": "Places in Campaign#T11. Grand Cathedral of Pharasma (Southern Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_081a68da6b2a",
+          "type": "Site of Interest",
+          "loc": [
+            -65.4033203125,
+            27.736365668305766
+          ],
+          "link": "Places in Campaign#V12. Great Tomb of Leadership (Southern Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_08c80939183a",
+          "type": "Site of Interest",
+          "loc": [
+            -66.8720703125,
+            31.0186633884667
+          ],
+          "link": "Places in Campaign#V13. Dead Warrens (Southern Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e94bd9592b0a",
+          "type": "Government and Military",
+          "loc": [
+            -57.0595703125,
+            24.203988121846862
+          ],
+          "link": "Places in Campaign#G11. Dawnflower House (Midland): Дом восходящего солнца",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_58ca696aa8eb",
+          "type": "Shop or Service",
+          "loc": [
+            -58.5908203125,
+            26.235886710517917
+          ],
+          "link": "Places in Campaign#S15. Pestico’s Dolls and Figurines (Midland):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6bd8791899f9",
+          "type": "Government and Military",
+          "loc": [
+            -47.6845703125,
+            32.73796219426528
+          ],
+          "link": "Places in Campaign#G9. Hospice of the Blessed Maiden (Midland): Хоспис святой девы",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_38c81998aacb",
+          "type": "Restaurant or Tavern",
+          "loc": [
+            -47.6845703125,
+            34.70734082636184
+          ],
+          "link": "Places in Campaign#R8. Bailer’s Retreat (Midland; squalid):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_19ba482b6b3a",
+          "type": "Home or Inn",
+          "loc": [
+            -49.4033203125,
+            33.80080145603168
+          ],
+          "link": "Places in Campaign#H15. Zellara’s Home (Midland):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fabbbb583878",
+          "type": "Shop or Service",
+          "loc": [
+            -51.5908203125,
+            32.394102433105566
+          ],
+          "link": "Places in Campaign#S14. Eodred’s Walk (Midland):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8a4a39e9dacb",
+          "type": "Shop or Service",
+          "loc": [
+            -52.8720703125,
+            30.612802541669325
+          ],
+          "link": "Places in Campaign#S13. Gold Market (Midland):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a9e94ab968ea",
+          "type": "Home or Inn",
+          "loc": [
+            -53.6533203125,
+            36.520938437959
+          ],
+          "link": "Places in Campaign#H16. Creaky Hammock (Midland; standard):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a8e978b969d9",
+          "type": "Government and Military",
+          "loc": [
+            -51.3095703125,
+            37.990157417459606
+          ],
+          "link": "Places in Campaign#G10. Citadel Volshyenek (Midland): Цитадель Вольшенек",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3888db59583a",
+          "type": "Site of Interest",
+          "loc": [
+            -57.2783203125,
+            36.11455872022479
+          ],
+          "link": "Places in Campaign#V10. Eodred’s Square (Midland):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7b5a48591ba8",
+          "type": "Restaurant or Tavern",
+          "loc": [
+            -54.1533203125,
+            45.64885209783511
+          ],
+          "link": "Places in Campaign#R9. Shoreline Drinkhall (East Shore; standard):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_59ebaa7bca9a",
+          "type": "Shop or Service",
+          "loc": [
+            -42.6220703125,
+            36.02039961044767
+          ],
+          "link": "Places in Campaign#S12. Old Fishery (Midland):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ba3b6a6a488a",
+          "type": "Shop or Service",
+          "loc": [
+            -37.5908203125,
+            34.582440609234304
+          ],
+          "link": "Places in Campaign#S11. Bookmaker (Midland):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ea68097b8bba",
+          "type": "Government and Military",
+          "loc": [
+            -36.6845703125,
+            40.33427661408774
+          ],
+          "link": "Places in Campaign#G8. Riverside House (Midland): Прибрежный дом",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_59093839ea5a",
+          "type": "Government and Military",
+          "loc": [
+            -34.9345703125,
+            39.646557091768315
+          ],
+          "link": "Places in Campaign#G7. Scrapper Hall (Midland): Зал задиры",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e81bb9cad9cb",
+          "type": "Shop or Service",
+          "loc": [
+            -31.9658203125,
+            44.99201337888754
+          ],
+          "link": "Places in Campaign#S8. All the World’s Meat (North Point):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d8f9abea68cb",
+          "type": "Home or Inn",
+          "loc": [
+            -19.2158203125,
+            35.489239415032884
+          ],
+          "link": "Places in Campaign#H7. Laughing Wave Inn (North Point; standard):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b8d8292bcb9b",
+          "type": "Shop or Service",
+          "loc": [
+            -22.2158203125,
+            36.52081869851204
+          ],
+          "link": "Places in Campaign#S7. Dock Trade (North Point):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_08a918899acb",
+          "type": "Temple or School",
+          "loc": [
+            -28.1533203125,
+            38.17759754773613
+          ],
+          "link": "Places in Campaign#T4. Sanctuary of Shelyn (North Point):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bb39bb6a39d9",
+          "type": "Government and Military",
+          "loc": [
+            -23.7783203125,
+            39.45925665751325
+          ],
+          "link": "Places in Campaign#G2. Longacre Building (North Point): Здание Лонгакра",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a97b8908da09",
+          "type": "Government and Military",
+          "loc": [
+            -23.4658203125,
+            40.77217574557762
+          ],
+          "link": "Places in Campaign#G3. City Hall (North Point): Ратуша",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e8c8e86babc8",
+          "type": "Home or Inn",
+          "loc": [
+            -22.6845703125,
+            42.89785426911041
+          ],
+          "link": "Places in Campaign#H8. Whitecaps (North Point; squalid):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_09eae9daaab9",
+          "type": "Temple or School",
+          "loc": [
+            -26.1845703125,
+            42.17887476850373
+          ],
+          "link": "Places in Campaign#T3. Bank of Abadar (North Point):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fb1978ea795b",
+          "type": "Government and Military",
+          "loc": [
+            -28.0908203125,
+            44.33581327032377
+          ],
+          "link": "Places in Campaign#G4. Korvosa’s Mercy (North Point): Милосердие Корвосы",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6b387b0afb09",
+          "type": "Restaurant or Tavern",
+          "loc": [
+            -29.3408203125,
+            42.272654703365475
+          ],
+          "link": "Places in Campaign#R4. Three Rings Tavern (North Point; standard):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c9abba4818c9",
+          "type": "Site of Interest",
+          "loc": [
+            -31.3095703125,
+            33.768653410179446
+          ],
+          "link": "Places in Campaign#V6. Jeggare Museum (The Heights):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a828ea884879",
+          "type": "Shop or Service",
+          "loc": [
+            -48.9658203125,
+            52.49219298805798
+          ],
+          "link": "Places in Campaign#S16. Horse Shop (East Shore):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_58594adbea0a",
+          "type": "Government and Military",
+          "loc": [
+            -45.5595703125,
+            54.30527172871831
+          ],
+          "link": "Places in Campaign#H12. Tenna’s (The Heights; luxurious):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c98a590be8a8",
+          "type": "Home or Inn",
+          "loc": [
+            -42.8720703125,
+            50.085174659939966
+          ],
+          "link": "Places in Campaign#H17. Bard’s End (Southern Korvosa; standard):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6bd9abb888ca",
+          "type": "Temple or School",
+          "loc": [
+            -40.2158203125,
+            56.8998499265598
+          ],
+          "link": "Places in Campaign#T9. Theumanexus College (East Shore):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Curse Crimson Throne/Korvosa/Map.md"
+      ]
+    },
+    {
+      "id": "korvosa-city-map",
+      "lastAccessed": 1678122831565,
+      "markers": [
+        {
+          "id": "ID_19eb68281bab;",
+          "type": "District",
+          "loc": [
+            -18.994140625,
+            24.40625
+          ],
+          "link": "Old Korvosa",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f9180b7b688b;",
+          "type": "District",
+          "loc": [
+            -47.181640625,
+            52.15625
+          ],
+          "link": "East Shore",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1bf84b781949;",
+          "type": "District",
+          "loc": [
+            -25.369140625,
+            32.96875
+          ],
+          "link": "North Point",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a9ea5b8afad9;",
+          "type": "District",
+          "loc": [
+            -40.431640625,
+            18.53125
+          ],
+          "link": "The Heights",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ea48eaa9fa9b;",
+          "type": "District",
+          "loc": [
+            -66.431640625,
+            17.15625
+          ],
+          "link": "South Shore",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3a499ba9da39;",
+          "type": "District",
+          "loc": [
+            -64.056640625,
+            31.21875
+          ],
+          "link": "Gray",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ba6a8aa97a2a;",
+          "type": "District",
+          "loc": [
+            -40.869140625,
+            33.21875
+          ],
+          "link": "Midland",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7939a87baaaa;",
+          "type": "District",
+          "loc": [
+            -45.994140625,
+            20.682884070362213
+          ],
+          "link": "Castle Korvosa",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eb0ab9fb4b0b;",
+          "type": "Home or Inn",
+          "loc": [
+            -10.119140625,
+            48.85886710517913
+          ],
+          "link": "Places in Campaign#H5. Soldado Home (Outskirts):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e918bb99aafb;",
+          "type": "Place",
+          "loc": [
+            -13.306640625,
+            20.53676799284756
+          ],
+          "link": "Old Korvosa#Гарнизонный холм",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_caf80b1a4a49;",
+          "type": "Place",
+          "loc": [
+            -23.9345703125,
+            15.328948208697874
+          ],
+          "link": "Old Korvosa#Бриджфронт",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3a58c99bba99;",
+          "type": "Place",
+          "loc": [
+            -16.869140625,
+            14.72199294335526
+          ],
+          "link": "Old Korvosa#Форт Корвоса",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0ac9caaa1b78;",
+          "type": "Place",
+          "loc": [
+            -13.5595703125,
+            33.17893463822722
+          ],
+          "link": "Old Korvosa#Старый док",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5999f92a88c9;",
+          "type": "Home or Inn",
+          "loc": [
+            -15.6220703125,
+            16.360906667092408
+          ],
+          "link": "Places in Campaign#H1. Arkona Palace (Old Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_48891858f83b;",
+          "type": "Home or Inn",
+          "loc": [
+            -13.9658203125,
+            36.8674524235264
+          ],
+          "link": "Places in Campaign#H4. Pilts’s Palace (Old Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4a0acb3a0a49;",
+          "type": "Home or Inn",
+          "loc": [
+            -16.5283203125,
+            22.613042020563256
+          ],
+          "link": "Places in Campaign#H2. Vencarlo’s Home (Old Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3b283878bb98;",
+          "type": "Site of Interest",
+          "loc": [
+            -15.3408203125,
+            19.174314691231878
+          ],
+          "link": "Places in Campaign#V1. Old City Hall (Old Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_18d82aebbad9;",
+          "type": "Site of Interest",
+          "loc": [
+            -14.9033203125,
+            38.14912151159078
+          ],
+          "link": "Places in Campaign#V2. Exemplary Execrables (Old Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1b2af9a9bbca;",
+          "type": "Site of Interest",
+          "loc": [
+            -16.2470703125,
+            47.55345568043936
+          ],
+          "link": "Places in Campaign#V4. Wreck of the Direption (Jeggare River):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_58499bc9eaab;",
+          "type": "Site of Interest",
+          "loc": [
+            -15.9970703125,
+            35.55657888434766
+          ],
+          "link": "Places in Campaign#V3. Temple of Aroden (Old Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c808bb983ba9;",
+          "type": "Temple or School",
+          "loc": [
+            -14.8720703125,
+            22.049913388466695
+          ],
+          "link": "Places in Campaign#T1. Orisini Academy (Old Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bb795a1ba9ea;",
+          "type": "Temple or School",
+          "loc": [
+            -14.4970703125,
+            24.0505519988505
+          ],
+          "link": "Places in Campaign#T2. Endrin Military Academy (Old Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4b0aba7b5b7a;",
+          "type": "Home or Inn",
+          "loc": [
+            -17.8095703125,
+            32.240666310109205
+          ],
+          "link": "Places in Campaign#H3. Salvator’s Home (Old Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1bb9b8a99ad8;",
+          "type": "Shop or Service",
+          "loc": [
+            -12.6220703125,
+            29.461661424739766
+          ],
+          "link": "Places in Campaign#S1. Reefclaw Run Market (Old Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cad849f8f8cb;",
+          "type": "Shop or Service",
+          "loc": [
+            -13.2783203125,
+            39.24603462864806
+          ],
+          "link": "Places in Campaign#S2. Copper-Beater Hall (Old Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ca7908abe87b;",
+          "type": "Shop or Service",
+          "loc": [
+            -15.7783203125,
+            39.646936266683696
+          ],
+          "link": "Places in Campaign#S3. Eel’s End (Old Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Old Korvosa",
+          "type": "District",
+          "loc": [
+            -18.994140625,
+            24.40625
+          ],
+          "link": "ID_19eb68281bab",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "East Shore",
+          "type": "District",
+          "loc": [
+            -47.181640625,
+            52.15625
+          ],
+          "link": "ID_f9180b7b688b",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "North Point",
+          "type": "District",
+          "loc": [
+            -25.369140625,
+            32.96875
+          ],
+          "link": "ID_1bf84b781949",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "The Heights",
+          "type": "District",
+          "loc": [
+            -40.431640625,
+            18.53125
+          ],
+          "link": "ID_a9ea5b8afad9",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "South Shore",
+          "type": "District",
+          "loc": [
+            -66.431640625,
+            17.15625
+          ],
+          "link": "ID_ea48eaa9fa9b",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Gray",
+          "type": "District",
+          "loc": [
+            -64.056640625,
+            31.21875
+          ],
+          "link": "ID_3a499ba9da39",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Midland",
+          "type": "District",
+          "loc": [
+            -40.869140625,
+            33.21875
+          ],
+          "link": "ID_ba6a8aa97a2a",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Castle Korvosa",
+          "type": "District",
+          "loc": [
+            -45.994140625,
+            20.682884070362213
+          ],
+          "link": "ID_7939a87baaaa",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#H5. Soldado Home (Outskirts):",
+          "type": "Home or Inn",
+          "loc": [
+            -10.119140625,
+            48.85886710517913
+          ],
+          "link": "ID_eb0ab9fb4b0b",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Old Korvosa#Гарнизонный холм",
+          "type": "Place",
+          "loc": [
+            -13.306640625,
+            20.53676799284756
+          ],
+          "link": "ID_e918bb99aafb",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Old Korvosa#Бриджфронт",
+          "type": "Place",
+          "loc": [
+            -23.9345703125,
+            15.328948208697874
+          ],
+          "link": "ID_caf80b1a4a49",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Old Korvosa#Форт Корвоса",
+          "type": "Place",
+          "loc": [
+            -16.869140625,
+            14.72199294335526
+          ],
+          "link": "ID_3a58c99bba99",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Old Korvosa#Старый док",
+          "type": "Place",
+          "loc": [
+            -13.5595703125,
+            33.17893463822722
+          ],
+          "link": "ID_0ac9caaa1b78",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#H1. Arkona Palace (Old Korvosa):",
+          "type": "Home or Inn",
+          "loc": [
+            -15.6220703125,
+            16.360906667092408
+          ],
+          "link": "ID_5999f92a88c9",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#H4. Pilts’s Palace (Old Korvosa):",
+          "type": "Home or Inn",
+          "loc": [
+            -13.9658203125,
+            36.8674524235264
+          ],
+          "link": "ID_48891858f83b",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#H2. Vencarlo’s Home (Old Korvosa):",
+          "type": "Home or Inn",
+          "loc": [
+            -16.5283203125,
+            22.613042020563256
+          ],
+          "link": "ID_4a0acb3a0a49",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#V1. Old City Hall (Old Korvosa):",
+          "type": "Site of Interest",
+          "loc": [
+            -15.3408203125,
+            19.174314691231878
+          ],
+          "link": "ID_3b283878bb98",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#V2. Exemplary Execrables (Old Korvosa):",
+          "type": "Site of Interest",
+          "loc": [
+            -14.9033203125,
+            38.14912151159078
+          ],
+          "link": "ID_18d82aebbad9",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#V4. Wreck of the Direption (Jeggare River):",
+          "type": "Site of Interest",
+          "loc": [
+            -16.2470703125,
+            47.55345568043936
+          ],
+          "link": "ID_1b2af9a9bbca",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#R3. Traveling Man (Old Korvosa; standard):",
+          "type": "Restaurant or Tavern",
+          "loc": [
+            -15.1533203125,
+            31.711601555016287
+          ],
+          "link": "ID_f8396838d909",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#V3. Temple of Aroden (Old Korvosa):",
+          "type": "Site of Interest",
+          "loc": [
+            -15.9970703125,
+            35.55657888434766
+          ],
+          "link": "ID_58499bc9eaab",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#R1. Sticky Mermaid (Old Korvosa; squalid):",
+          "type": "Restaurant or Tavern",
+          "loc": [
+            -11.3095703125,
+            34.743819448879236
+          ],
+          "link": "ID_385b3bbab938",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#R2. Jeggare’s Jug (Old Korvosa; squalid):",
+          "type": "Restaurant or Tavern",
+          "loc": [
+            -11.1220703125,
+            38.33871695191264
+          ],
+          "link": "ID_8a4b38fb8a18",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#T1. Orisini Academy (Old Korvosa):",
+          "type": "Temple or School",
+          "loc": [
+            -14.8720703125,
+            22.049913388466695
+          ],
+          "link": "ID_c808bb983ba9",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#T2. Endrin Military Academy (Old Korvosa):",
+          "type": "Temple or School",
+          "loc": [
+            -14.4970703125,
+            24.0505519988505
+          ],
+          "link": "ID_bb795a1ba9ea",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#H3. Salvator’s Home (Old Korvosa):",
+          "type": "Home or Inn",
+          "loc": [
+            -17.8095703125,
+            32.240666310109205
+          ],
+          "link": "ID_4b0aba7b5b7a",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#S1. Reefclaw Run Market (Old Korvosa):",
+          "type": "Shop or Service",
+          "loc": [
+            -12.6220703125,
+            29.461661424739766
+          ],
+          "link": "ID_1bb9b8a99ad8",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#S2. Copper-Beater Hall (Old Korvosa):",
+          "type": "Shop or Service",
+          "loc": [
+            -13.2783203125,
+            39.24603462864806
+          ],
+          "link": "ID_cad849f8f8cb",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#S3. Eel’s End (Old Korvosa):",
+          "type": "Shop or Service",
+          "loc": [
+            -15.7783203125,
+            39.646936266683696
+          ],
+          "link": "ID_ca7908abe87b",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#S4. Hessim, Newby, and Sage Paint Manufactory (Old Korvosa):",
+          "type": "Shop or Service",
+          "loc": [
+            -16.3408203125,
+            29.393663388466695
+          ],
+          "link": "ID_2b7a3a7bfa68",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#S6. Ironworks (Old Korvosa):",
+          "type": "Shop or Service",
+          "loc": [
+            -19.4345703125,
+            19.140390510249695
+          ],
+          "link": "ID_dae89bebf93b",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "The Heights#Цитадельный Гребень",
+          "type": "Place",
+          "loc": [
+            -32.8095703125,
+            11.580095711731271
+          ],
+          "link": "ID_ebeae978fa7a",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "The Heights#",
+          "type": "Place",
+          "loc": [
+            -24.3720703125,
+            25.70960589756689
+          ],
+          "link": "ID_7aa8986a9a3b",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "The Heights#Университет",
+          "type": "Place",
+          "loc": [
+            -33.8408203125,
+            28.616783878280856
+          ],
+          "link": "ID_0a68797ba8f8",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "The Heights#Обрыв (Клиффсайд)",
+          "type": "Place",
+          "loc": [
+            -52.2470703125,
+            15.800192780509608
+          ],
+          "link": "ID_3b4bbaa8bb9b",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#G1. Jeggare Light (Outskirts): Свет Джеггара",
+          "type": "Government and Military",
+          "loc": [
+            -9.7158203125,
+            10.394212194265279
+          ],
+          "link": "ID_58392a387a0a",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#G5. Great Tower (The Heights): Великая башня",
+          "type": "Government and Military",
+          "loc": [
+            -26.7470703125,
+            17.831622389680057
+          ],
+          "link": "ID_ebb988ebc81b",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#H6. Posh and Turtle (North Point; luxurious):",
+          "type": "Home or Inn",
+          "loc": [
+            -25.8095703125,
+            20.207380739510825
+          ],
+          "link": "ID_4b98ea389b39",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#V5. Avenue of Arms (North Point):",
+          "type": "Site of Interest",
+          "loc": [
+            -24.6845703125,
+            22.020459480171148
+          ],
+          "link": "ID_ba592b29ba8b",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#H9. Upslope House (The Heights; luxurious):",
+          "type": "Home or Inn",
+          "loc": [
+            -33.8720703125,
+            14.92444440896609
+          ],
+          "link": "ID_bafbeb89dbb9",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#H10. Frisky Unicorn (The Heights; standard):",
+          "type": "Home or Inn",
+          "loc": [
+            -36.0595703125,
+            14.799404495817102
+          ],
+          "link": "ID_89da3b2b4ab9",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4a3af9d9fad9",
+          "type": "Shop or Service",
+          "loc": [
+            -36.4970703125,
+            17.45650265023309
+          ],
+          "link": "ID_69399b8a6809",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7879fabb4a8b",
+          "type": "Shop or Service",
+          "loc": [
+            -37.9345703125,
+            18.738161760010218
+          ],
+          "link": "ID_c97bc8a8d9bb",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#T7. Temple of Asmodeus (The Heights):",
+          "type": "Temple or School",
+          "loc": [
+            -38.1533203125,
+            12.204826297975606
+          ],
+          "link": "ID_e889384999c8",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#T5. Acadamae (The Heights):",
+          "type": "Temple or School",
+          "loc": [
+            -31.7470703125,
+            20.708208937352317
+          ],
+          "link": "ID_dabbc80b2ab8",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#H11. Wise Dragon Inn (The Heights; luxurious):",
+          "type": "Home or Inn",
+          "loc": [
+            -37.0283203125,
+            27.616664138833897
+          ],
+          "link": "ID_0859d9fa3a0a",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#H13. Trinia’s Flat (Midland):",
+          "type": "Home or Inn",
+          "loc": [
+            -41.6220703125,
+            29.42974287949422
+          ],
+          "link": "ID_894a891949eb",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#H14. Girrigz’s Den (Midland):",
+          "type": "Home or Inn",
+          "loc": [
+            -43.8720703125,
+            30.02368246695191
+          ],
+          "link": "ID_ba298a28a93b",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#T6. University of Korvosa (The Heights):",
+          "type": "Temple or School",
+          "loc": [
+            -35.8720703125,
+            30.08620242352641
+          ],
+          "link": "ID_6a9adbaae8c9",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#R5. Jittery Quill (The Heights; standard):",
+          "type": "Restaurant or Tavern",
+          "loc": [
+            -31.3095703125,
+            30.648882032696854
+          ],
+          "link": "ID_d9f9fae998ba",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#V7. Marbledome (The Heights)",
+          "type": "Site of Interest",
+          "loc": [
+            -50.8095703125,
+            20.678405789003126
+          ],
+          "link": "ID_ca689b184a19",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#V8. Gatefoot (The Heights):",
+          "type": "Site of Interest",
+          "loc": [
+            -56.0908203125,
+            9.080953844434509
+          ],
+          "link": "ID_c9a80aa8bb5b",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#V9. Kendall Amphitheater (The Heights):",
+          "type": "Site of Interest",
+          "loc": [
+            -59.2470703125,
+            16.895948416246245
+          ],
+          "link": "ID_0af82a5aaab8",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#R6. Overlook (The Heights; luxurious):",
+          "type": "Restaurant or Tavern",
+          "loc": [
+            -54.6220703125,
+            11.331672281116289
+          ],
+          "link": "ID_a9ca9b4bf98a",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#R7. Crested Falcon (The Heights; luxurious):",
+          "type": "Restaurant or Tavern",
+          "loc": [
+            -55.8408203125,
+            15.645549284756369
+          ],
+          "link": "ID_3b2b48f99948",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#T8. Temple of Sarenrae (The Heights):",
+          "type": "Temple or School",
+          "loc": [
+            -54.2470703125,
+            14.582710022989971
+          ],
+          "link": "ID_085a6b9b69f9",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Midland#Склон",
+          "type": "Place",
+          "loc": [
+            -45.3720703125,
+            27.555601012197457
+          ],
+          "link": "ID_7ac92a4a8a89",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Midland#Западные пристани",
+          "type": "Place",
+          "loc": [
+            -45.0908203125,
+            34.68287606168976
+          ],
+          "link": "ID_6b29c92ad97b",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Midland#ПилларХилл",
+          "type": "Place",
+          "loc": [
+            -54.0595703125,
+            26.273941902420333
+          ],
+          "link": "ID_c999ba8b2819",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Midland#Высокий мост (ХайБридж)",
+          "type": "Place",
+          "loc": [
+            -58.9345703125,
+            32.68223745130595
+          ],
+          "link": "ID_ca59ea29087b",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "North Point#Риджфилд",
+          "type": "Place",
+          "loc": [
+            -24.3408203125,
+            26.26819440896609
+          ],
+          "link": "ID_38fae8a949b8",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "North Point#Большой Берег",
+          "type": "Place",
+          "loc": [
+            -20.8095703125,
+            39.80376500734402
+          ],
+          "link": "ID_ebe88a4b98b9",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "North Point#Северные Врата",
+          "type": "Place",
+          "loc": [
+            -24.7470703125,
+            44.18016196755859
+          ],
+          "link": "ID_c9eadac95a69",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "North Point#Пять Углов",
+          "type": "Place",
+          "loc": [
+            -30.3720703125,
+            38.05320622325819
+          ],
+          "link": "ID_4ba9e80beac8",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#G13. Jeggare Isle (Outskirts): Остров Джеггара",
+          "type": "Government and Military",
+          "loc": [
+            -65.8720703125,
+            5.916900823807396
+          ],
+          "link": "ID_581a2a1a68b8",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#S17. Orkatto’s Feathers and Fur (Southern Korvosa):",
+          "type": "Shop or Service",
+          "loc": [
+            -63.7783203125,
+            12.450236285842008
+          ],
+          "link": "ID_796b09c9cb29",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#H19. Carowyn Manor (Southern Korvosa):",
+          "type": "Home or Inn",
+          "loc": [
+            -68.2158203125,
+            13.012915895012453
+          ],
+          "link": "ID_5b8a0ae81a69",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#S18. Green Market (Southern Korvosa):",
+          "type": "Shop or Service",
+          "loc": [
+            -69.6220703125,
+            14.732214700811035
+          ],
+          "link": "ID_e838f9c9792b",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#H18. Leftover’s (East Shore; standard):",
+          "type": "Home or Inn",
+          "loc": [
+            -64.2158203125,
+            18.327112203844433
+          ],
+          "link": "ID_2a380a5aaab8",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#V11. Pillar Wall (Southern Korvosa):",
+          "type": "Site of Interest",
+          "loc": [
+            -62.4033203125,
+            18.139552334120953
+          ],
+          "link": "ID_cb28d89b9b9b",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#R10. Jade Circle (Southern Korvosa; luxurious):",
+          "type": "Restaurant or Tavern",
+          "loc": [
+            -64.1845703125,
+            20.390270770802733
+          ],
+          "link": "ID_397a3a586b08",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#T10. Pantheon of Many (Southern Korvosa):",
+          "type": "Temple or School",
+          "loc": [
+            -66.1220703125,
+            21.015470336547672
+          ],
+          "link": "ID_38081b29ab3a",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#T11. Grand Cathedral of Pharasma (Southern Korvosa):",
+          "type": "Temple or School",
+          "loc": [
+            -64.8408203125,
+            25.54816718819848
+          ],
+          "link": "ID_d80a692a085b",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#V12. Great Tomb of Leadership (Southern Korvosa):",
+          "type": "Site of Interest",
+          "loc": [
+            -65.4033203125,
+            27.736365668305766
+          ],
+          "link": "ID_081a68da6b2a",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#V13. Dead Warrens (Southern Korvosa):",
+          "type": "Site of Interest",
+          "loc": [
+            -66.8720703125,
+            31.0186633884667
+          ],
+          "link": "ID_08c80939183a",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#G11. Dawnflower House (Midland): Дом восходящего солнца",
+          "type": "Government and Military",
+          "loc": [
+            -57.0595703125,
+            24.203988121846862
+          ],
+          "link": "ID_e94bd9592b0a",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#S15. Pestico’s Dolls and Figurines (Midland):",
+          "type": "Shop or Service",
+          "loc": [
+            -58.5908203125,
+            26.235886710517917
+          ],
+          "link": "ID_58ca696aa8eb",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#G9. Hospice of the Blessed Maiden (Midland): Хоспис святой девы",
+          "type": "Government and Military",
+          "loc": [
+            -47.6845703125,
+            32.73796219426528
+          ],
+          "link": "ID_6bd8791899f9",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#R8. Bailer’s Retreat (Midland; squalid):",
+          "type": "Restaurant or Tavern",
+          "loc": [
+            -47.6845703125,
+            34.70734082636184
+          ],
+          "link": "ID_38c81998aacb",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#H15. Zellara’s Home (Midland):",
+          "type": "Home or Inn",
+          "loc": [
+            -49.4033203125,
+            33.80080145603168
+          ],
+          "link": "ID_19ba482b6b3a",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#S14. Eodred’s Walk (Midland):",
+          "type": "Shop or Service",
+          "loc": [
+            -51.5908203125,
+            32.394102433105566
+          ],
+          "link": "ID_fabbbb583878",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#S13. Gold Market (Midland):",
+          "type": "Shop or Service",
+          "loc": [
+            -52.8720703125,
+            30.612802541669325
+          ],
+          "link": "ID_8a4a39e9dacb",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#H16. Creaky Hammock (Midland; standard):",
+          "type": "Home or Inn",
+          "loc": [
+            -53.6533203125,
+            36.520938437959
+          ],
+          "link": "ID_a9e94ab968ea",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#G10. Citadel Volshyenek (Midland): Цитадель Вольшенек",
+          "type": "Government and Military",
+          "loc": [
+            -51.3095703125,
+            37.990157417459606
+          ],
+          "link": "ID_a8e978b969d9",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#V10. Eodred’s Square (Midland):",
+          "type": "Site of Interest",
+          "loc": [
+            -57.2783203125,
+            36.11455872022479
+          ],
+          "link": "ID_3888db59583a",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#R9. Shoreline Drinkhall (East Shore; standard):",
+          "type": "Restaurant or Tavern",
+          "loc": [
+            -54.1533203125,
+            45.64885209783511
+          ],
+          "link": "ID_7b5a48591ba8",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#S12. Old Fishery (Midland):",
+          "type": "Shop or Service",
+          "loc": [
+            -42.6220703125,
+            36.02039961044767
+          ],
+          "link": "ID_59ebaa7bca9a",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#S11. Bookmaker (Midland):",
+          "type": "Shop or Service",
+          "loc": [
+            -37.5908203125,
+            34.582440609234304
+          ],
+          "link": "ID_ba3b6a6a488a",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#G8. Riverside House (Midland): Прибрежный дом",
+          "type": "Government and Military",
+          "loc": [
+            -36.6845703125,
+            40.33427661408774
+          ],
+          "link": "ID_ea68097b8bba",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#G7. Scrapper Hall (Midland): Зал задиры",
+          "type": "Government and Military",
+          "loc": [
+            -34.9345703125,
+            39.646557091768315
+          ],
+          "link": "ID_59093839ea5a",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#S8. All the World’s Meat (North Point):",
+          "type": "Shop or Service",
+          "loc": [
+            -31.9658203125,
+            44.99201337888754
+          ],
+          "link": "ID_e81bb9cad9cb",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#H7. Laughing Wave Inn (North Point; standard):",
+          "type": "Home or Inn",
+          "loc": [
+            -19.2158203125,
+            35.489239415032884
+          ],
+          "link": "ID_d8f9abea68cb",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#S7. Dock Trade (North Point):",
+          "type": "Shop or Service",
+          "loc": [
+            -22.2158203125,
+            36.52081869851204
+          ],
+          "link": "ID_b8d8292bcb9b",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#T4. Sanctuary of Shelyn (North Point):",
+          "type": "Temple or School",
+          "loc": [
+            -28.1533203125,
+            38.17759754773613
+          ],
+          "link": "ID_08a918899acb",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#G2. Longacre Building (North Point): Здание Лонгакра",
+          "type": "Government and Military",
+          "loc": [
+            -23.7783203125,
+            39.45925665751325
+          ],
+          "link": "ID_bb39bb6a39d9",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#G3. City Hall (North Point): Ратуша",
+          "type": "Government and Military",
+          "loc": [
+            -23.4658203125,
+            40.77217574557762
+          ],
+          "link": "ID_a97b8908da09",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#H8. Whitecaps (North Point; squalid):",
+          "type": "Home or Inn",
+          "loc": [
+            -22.6845703125,
+            42.89785426911041
+          ],
+          "link": "ID_e8c8e86babc8",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#T3. Bank of Abadar (North Point):",
+          "type": "Temple or School",
+          "loc": [
+            -26.1845703125,
+            42.17887476850373
+          ],
+          "link": "ID_09eae9daaab9",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#G4. Korvosa’s Mercy (North Point): Милосердие Корвосы",
+          "type": "Government and Military",
+          "loc": [
+            -28.0908203125,
+            44.33581327032377
+          ],
+          "link": "ID_fb1978ea795b",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#R4. Three Rings Tavern (North Point; standard):",
+          "type": "Restaurant or Tavern",
+          "loc": [
+            -29.3408203125,
+            42.272654703365475
+          ],
+          "link": "ID_6b387b0afb09",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#V6. Jeggare Museum (The Heights):",
+          "type": "Site of Interest",
+          "loc": [
+            -31.3095703125,
+            33.768653410179446
+          ],
+          "link": "ID_c9abba4818c9",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#S16. Horse Shop (East Shore):",
+          "type": "Shop or Service",
+          "loc": [
+            -48.9658203125,
+            52.49219298805798
+          ],
+          "link": "ID_a828ea884879",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#H12. Tenna’s (The Heights; luxurious):",
+          "type": "Government and Military",
+          "loc": [
+            -45.5595703125,
+            54.30527172871831
+          ],
+          "link": "ID_58594adbea0a",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#H17. Bard’s End (Southern Korvosa; standard):",
+          "type": "Home or Inn",
+          "loc": [
+            -42.8720703125,
+            50.085174659939966
+          ],
+          "link": "ID_c98a590be8a8",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Places in Campaign#T9. Theumanexus College (East Shore):",
+          "type": "Temple or School",
+          "loc": [
+            -40.2158203125,
+            56.8998499265598
+          ],
+          "link": "ID_6bd9abb888ca",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d8180a4b4b58",
+          "type": "Shop or Service",
+          "loc": [
+            -18.81103515625,
+            15.430322682695351
+          ],
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Curse Crimson Throne/Korvosa/Map.md"
+      ]
+    },
+    {
+      "id": "korvosa-map",
+      "lastAccessed": 1678665538160,
+      "markers": [
+        {
+          "id": "ID_19eb68281bab",
+          "type": "District",
+          "loc": [
+            -18.994140625,
+            24.40625
+          ],
+          "link": "Old Korvosa",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f9180b7b688b",
+          "type": "District",
+          "loc": [
+            -47.181640625,
+            52.15625
+          ],
+          "link": "East Shore",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1bf84b781949",
+          "type": "District",
+          "loc": [
+            -25.369140625,
+            32.96875
+          ],
+          "link": "North Point",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a9ea5b8afad9",
+          "type": "District",
+          "loc": [
+            -40.431640625,
+            18.53125
+          ],
+          "link": "The Heights",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ea48eaa9fa9b",
+          "type": "District",
+          "loc": [
+            -66.431640625,
+            17.15625
+          ],
+          "link": "South Shore",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3a499ba9da39",
+          "type": "District",
+          "loc": [
+            -64.056640625,
+            31.21875
+          ],
+          "link": "Gray",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ba6a8aa97a2a",
+          "type": "District",
+          "loc": [
+            -40.869140625,
+            33.21875
+          ],
+          "link": "Midland",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7939a87baaaa",
+          "type": "District",
+          "loc": [
+            -45.994140625,
+            20.682884070362213
+          ],
+          "link": "Castle Korvosa",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eb0ab9fb4b0b",
+          "type": "Home or Inn",
+          "loc": [
+            -10.119140625,
+            48.85886710517913
+          ],
+          "link": "Places in Campaign#H5. Soldado Home (Outskirts):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e918bb99aafb",
+          "type": "Place",
+          "loc": [
+            -13.306640625,
+            20.53676799284756
+          ],
+          "link": "Old Korvosa#Гарнизонный холм",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_caf80b1a4a49",
+          "type": "Place",
+          "loc": [
+            -23.9345703125,
+            15.328948208697874
+          ],
+          "link": "Old Korvosa#Бриджфронт",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3a58c99bba99",
+          "type": "Place",
+          "loc": [
+            -16.869140625,
+            14.72199294335526
+          ],
+          "link": "Old Korvosa#Форт Корвоса",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0ac9caaa1b78",
+          "type": "Place",
+          "loc": [
+            -13.5595703125,
+            33.17893463822722
+          ],
+          "link": "Old Korvosa#Старый док",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5999f92a88c9",
+          "type": "Home or Inn",
+          "loc": [
+            -15.6220703125,
+            16.360906667092408
+          ],
+          "link": "Places in Campaign#H1. Arkona Palace (Old Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_48891858f83b",
+          "type": "Home or Inn",
+          "loc": [
+            -13.9658203125,
+            36.8674524235264
+          ],
+          "link": "Places in Campaign#H4. Pilts’s Palace (Old Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4a0acb3a0a49",
+          "type": "Home or Inn",
+          "loc": [
+            -16.5283203125,
+            22.613042020563256
+          ],
+          "link": "Places in Campaign#H2. Vencarlo’s Home (Old Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3b283878bb98",
+          "type": "Site of Interest",
+          "loc": [
+            -15.3408203125,
+            19.174314691231878
+          ],
+          "link": "Places in Campaign#V1. Old City Hall (Old Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_18d82aebbad9",
+          "type": "Site of Interest",
+          "loc": [
+            -14.9033203125,
+            38.14912151159078
+          ],
+          "link": "Places in Campaign#V2. Exemplary Execrables (Old Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1b2af9a9bbca",
+          "type": "Site of Interest",
+          "loc": [
+            -16.2470703125,
+            47.55345568043936
+          ],
+          "link": "Places in Campaign#V4. Wreck of the Direption (Jeggare River):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f8396838d909",
+          "type": "Restaurant or Tavern",
+          "loc": [
+            -15.1533203125,
+            31.711601555016287
+          ],
+          "link": "Places in Campaign#R3. Traveling Man (Old Korvosa; standard):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_58499bc9eaab",
+          "type": "Site of Interest",
+          "loc": [
+            -15.9970703125,
+            35.55657888434766
+          ],
+          "link": "Places in Campaign#V3. Temple of Aroden (Old Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_385b3bbab938",
+          "type": "Restaurant or Tavern",
+          "loc": [
+            -11.3095703125,
+            34.743819448879236
+          ],
+          "link": "Places in Campaign#R1. Sticky Mermaid (Old Korvosa; squalid):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8a4b38fb8a18",
+          "type": "Restaurant or Tavern",
+          "loc": [
+            -11.1220703125,
+            38.33871695191264
+          ],
+          "link": "Places in Campaign#R2. Jeggare’s Jug (Old Korvosa; squalid):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c808bb983ba9",
+          "type": "Temple or School",
+          "loc": [
+            -14.8720703125,
+            22.049913388466695
+          ],
+          "link": "Places in Campaign#T1. Orisini Academy (Old Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bb795a1ba9ea",
+          "type": "Temple or School",
+          "loc": [
+            -14.4970703125,
+            24.0505519988505
+          ],
+          "link": "Places in Campaign#T2. Endrin Military Academy (Old Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4b0aba7b5b7a",
+          "type": "Home or Inn",
+          "loc": [
+            -17.8095703125,
+            32.240666310109205
+          ],
+          "link": "Places in Campaign#H3. Salvator’s Home (Old Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1bb9b8a99ad8",
+          "type": "Shop or Service",
+          "loc": [
+            -12.6220703125,
+            29.461661424739766
+          ],
+          "link": "Places in Campaign#S1. Reefclaw Run Market (Old Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cad849f8f8cb",
+          "type": "Shop or Service",
+          "loc": [
+            -13.2783203125,
+            39.24603462864806
+          ],
+          "link": "Places in Campaign#S2. Copper-Beater Hall (Old Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ca7908abe87b",
+          "type": "Shop or Service",
+          "loc": [
+            -15.7783203125,
+            39.646936266683696
+          ],
+          "link": "Places in Campaign#S3. Eel’s End (Old Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2b7a3a7bfa68",
+          "type": "Shop or Service",
+          "loc": [
+            -16.3408203125,
+            29.393663388466695
+          ],
+          "link": "Places in Campaign#S4. Hessim, Newby, and Sage Paint Manufactory (Old Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_dae89bebf93b",
+          "type": "Shop or Service",
+          "loc": [
+            -19.4345703125,
+            19.140390510249695
+          ],
+          "link": "Places in Campaign#S6. Ironworks (Old Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ebeae978fa7a",
+          "type": "Place",
+          "loc": [
+            -32.8095703125,
+            11.580095711731271
+          ],
+          "link": "The Heights#Цитадельный Гребень",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0a68797ba8f8",
+          "type": "Place",
+          "loc": [
+            -33.8408203125,
+            28.616783878280856
+          ],
+          "link": "The Heights#Университет",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3b4bbaa8bb9b",
+          "type": "Place",
+          "loc": [
+            -52.2470703125,
+            15.800192780509608
+          ],
+          "link": "The Heights#Обрыв (Клиффсайд)",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_58392a387a0a",
+          "type": "Government and Military",
+          "loc": [
+            -9.7158203125,
+            10.394212194265279
+          ],
+          "link": "Places in Campaign#G1. Jeggare Light (Outskirts): Свет Джеггара",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ebb988ebc81b",
+          "type": "Government and Military",
+          "loc": [
+            -26.7470703125,
+            17.831622389680057
+          ],
+          "link": "Places in Campaign#G5. Great Tower (The Heights): Великая башня",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4b98ea389b39",
+          "type": "Home or Inn",
+          "loc": [
+            -25.8095703125,
+            20.207380739510825
+          ],
+          "link": "Places in Campaign#H6. Posh and Turtle (North Point; luxurious):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ba592b29ba8b",
+          "type": "Site of Interest",
+          "loc": [
+            -24.6845703125,
+            22.020459480171148
+          ],
+          "link": "Places in Campaign#V5. Avenue of Arms (North Point):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bafbeb89dbb9",
+          "type": "Home or Inn",
+          "loc": [
+            -33.8720703125,
+            14.92444440896609
+          ],
+          "link": "Places in Campaign#H9. Upslope House (The Heights; luxurious):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_89da3b2b4ab9",
+          "type": "Home or Inn",
+          "loc": [
+            -36.0595703125,
+            14.799404495817102
+          ],
+          "link": "Places in Campaign#H10. Frisky Unicorn (The Heights; standard):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_69399b8a6809",
+          "type": "Shop or Service",
+          "loc": [
+            -36.4970703125,
+            17.45650265023309
+          ],
+          "link": "ID_4a3af9d9fad9",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c97bc8a8d9bb",
+          "type": "Shop or Service",
+          "loc": [
+            -37.9345703125,
+            18.738161760010218
+          ],
+          "link": "ID_7879fabb4a8b",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e889384999c8",
+          "type": "Temple or School",
+          "loc": [
+            -38.1533203125,
+            12.204826297975606
+          ],
+          "link": "Places in Campaign#T7. Temple of Asmodeus (The Heights):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_dabbc80b2ab8",
+          "type": "Temple or School",
+          "loc": [
+            -31.7470703125,
+            20.708208937352317
+          ],
+          "link": "Places in Campaign#T5. Acadamae (The Heights):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0859d9fa3a0a",
+          "type": "Home or Inn",
+          "loc": [
+            -37.0283203125,
+            27.616664138833897
+          ],
+          "link": "Places in Campaign#H11. Wise Dragon Inn (The Heights; luxurious):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_dbeaf8cad8b8",
+          "type": "Home or Inn",
+          "loc": [
+            -43.3720703125,
+            26.084925202758797
+          ],
+          "link": "Places in Campaign#H12. Tenna’s (The Heights; luxurious):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_894a891949eb",
+          "type": "Home or Inn",
+          "loc": [
+            -41.6220703125,
+            29.42974287949422
+          ],
+          "link": "Places in Campaign#H13. Trinia’s Flat (Midland):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ba298a28a93b",
+          "type": "Home or Inn",
+          "loc": [
+            -43.8720703125,
+            30.02368246695191
+          ],
+          "link": "Places in Campaign#H14. Girrigz’s Den (Midland):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6a9adbaae8c9",
+          "type": "Temple or School",
+          "loc": [
+            -35.8720703125,
+            30.08620242352641
+          ],
+          "link": "Places in Campaign#T6. University of Korvosa (The Heights):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d9f9fae998ba",
+          "type": "Restaurant or Tavern",
+          "loc": [
+            -31.3095703125,
+            30.648882032696854
+          ],
+          "link": "Places in Campaign#R5. Jittery Quill (The Heights; standard): [[The Heights#R5. «Пугливая Свирель»]]",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ca689b184a19",
+          "type": "Site of Interest",
+          "loc": [
+            -50.8095703125,
+            20.678405789003126
+          ],
+          "link": "Places in Campaign#V7. Marbledome (The Heights)",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c9a80aa8bb5b",
+          "type": "Site of Interest",
+          "loc": [
+            -56.0908203125,
+            9.080953844434509
+          ],
+          "link": "Places in Campaign#V8. Gatefoot (The Heights):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0af82a5aaab8",
+          "type": "Site of Interest",
+          "loc": [
+            -59.2470703125,
+            16.895948416246245
+          ],
+          "link": "Places in Campaign#V9. Kendall Amphitheater (The Heights):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a9ca9b4bf98a",
+          "type": "Restaurant or Tavern",
+          "loc": [
+            -54.6220703125,
+            11.331672281116289
+          ],
+          "link": "Places in Campaign#R6. Overlook (The Heights; luxurious):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3b2b48f99948",
+          "type": "Restaurant or Tavern",
+          "loc": [
+            -55.8408203125,
+            15.645549284756369
+          ],
+          "link": "Places in Campaign#R7. Crested Falcon (The Heights; luxurious):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_085a6b9b69f9",
+          "type": "Temple or School",
+          "loc": [
+            -54.2470703125,
+            14.582710022989971
+          ],
+          "link": "Places in Campaign#T8. Temple of Sarenrae (The Heights):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7ac92a4a8a89",
+          "type": "Place",
+          "loc": [
+            -45.3720703125,
+            27.555601012197457
+          ],
+          "link": "Midland#Склон",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6b29c92ad97b",
+          "type": "Place",
+          "loc": [
+            -45.0908203125,
+            34.68287606168976
+          ],
+          "link": "Midland#Западные пристани",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c999ba8b2819",
+          "type": "Place",
+          "loc": [
+            -54.0595703125,
+            26.273941902420333
+          ],
+          "link": "Midland#ПилларХилл",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ca59ea29087b",
+          "type": "Place",
+          "loc": [
+            -58.9345703125,
+            32.68223745130595
+          ],
+          "link": "Midland#Высокий мост (ХайБридж)",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_38fae8a949b8",
+          "type": "Place",
+          "loc": [
+            -24.3408203125,
+            26.26819440896609
+          ],
+          "link": "North Point#Риджфилд",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ebe88a4b98b9",
+          "type": "Place",
+          "loc": [
+            -20.8095703125,
+            39.80376500734402
+          ],
+          "link": "North Point#Большой Берег",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c9eadac95a69",
+          "type": "Place",
+          "loc": [
+            -24.7470703125,
+            44.18016196755859
+          ],
+          "link": "North Point#Северные Врата",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4ba9e80beac8",
+          "type": "Place",
+          "loc": [
+            -30.3720703125,
+            38.05320622325819
+          ],
+          "link": "North Point#Пять Углов",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_581a2a1a68b8",
+          "type": "Government and Military",
+          "loc": [
+            -65.8720703125,
+            5.916900823807396
+          ],
+          "link": "Places in Campaign#G13. Jeggare Isle (Outskirts): Остров Джеггара",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_796b09c9cb29",
+          "type": "Shop or Service",
+          "loc": [
+            -63.7783203125,
+            12.450236285842008
+          ],
+          "link": "Places in Campaign#S17. Orkatto’s Feathers and Fur (Southern Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5b8a0ae81a69",
+          "type": "Home or Inn",
+          "loc": [
+            -68.2158203125,
+            13.012915895012453
+          ],
+          "link": "Places in Campaign#H19. Carowyn Manor (Southern Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e838f9c9792b",
+          "type": "Shop or Service",
+          "loc": [
+            -69.6220703125,
+            14.732214700811035
+          ],
+          "link": "Places in Campaign#S18. Green Market (Southern Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2a380a5aaab8",
+          "type": "Home or Inn",
+          "loc": [
+            -64.2158203125,
+            18.327112203844433
+          ],
+          "link": "Places in Campaign#H18. Leftover’s (East Shore; standard):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cb28d89b9b9b",
+          "type": "Site of Interest",
+          "loc": [
+            -62.4033203125,
+            18.139552334120953
+          ],
+          "link": "Places in Campaign#V11. Pillar Wall (Southern Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_397a3a586b08",
+          "type": "Restaurant or Tavern",
+          "loc": [
+            -64.1845703125,
+            20.390270770802733
+          ],
+          "link": "Places in Campaign#R10. Jade Circle (Southern Korvosa; luxurious):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_38081b29ab3a",
+          "type": "Temple or School",
+          "loc": [
+            -66.1220703125,
+            21.015470336547672
+          ],
+          "link": "Places in Campaign#T10. Pantheon of Many (Southern Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d80a692a085b",
+          "type": "Temple or School",
+          "loc": [
+            -64.8408203125,
+            25.54816718819848
+          ],
+          "link": "Places in Campaign#T11. Grand Cathedral of Pharasma (Southern Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_081a68da6b2a",
+          "type": "Site of Interest",
+          "loc": [
+            -65.4033203125,
+            27.736365668305766
+          ],
+          "link": "Places in Campaign#V12. Great Tomb of Leadership (Southern Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_08c80939183a",
+          "type": "Site of Interest",
+          "loc": [
+            -66.8720703125,
+            31.0186633884667
+          ],
+          "link": "Places in Campaign#V13. Dead Warrens (Southern Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e94bd9592b0a",
+          "type": "Government and Military",
+          "loc": [
+            -57.0595703125,
+            24.203988121846862
+          ],
+          "link": "Places in Campaign#G11. Dawnflower House (Midland): Дом восходящего солнца",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_58ca696aa8eb",
+          "type": "Shop or Service",
+          "loc": [
+            -58.5908203125,
+            26.235886710517917
+          ],
+          "link": "Places in Campaign#S15. Pestico’s Dolls and Figurines (Midland):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6bd8791899f9",
+          "type": "Government and Military",
+          "loc": [
+            -47.6845703125,
+            32.73796219426528
+          ],
+          "link": "Places in Campaign#G9. Hospice of the Blessed Maiden (Midland): Хоспис святой девы",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_38c81998aacb",
+          "type": "Restaurant or Tavern",
+          "loc": [
+            -47.6845703125,
+            34.70734082636184
+          ],
+          "link": "Places in Campaign#R8. Bailer’s Retreat (Midland; squalid):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_19ba482b6b3a",
+          "type": "Home or Inn",
+          "loc": [
+            -49.4033203125,
+            33.80080145603168
+          ],
+          "link": "Places in Campaign#H15. Zellara’s Home (Midland):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fabbbb583878",
+          "type": "Shop or Service",
+          "loc": [
+            -51.5908203125,
+            32.394102433105566
+          ],
+          "link": "Places in Campaign#S14. Eodred’s Walk (Midland):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8a4a39e9dacb",
+          "type": "Shop or Service",
+          "loc": [
+            -52.8720703125,
+            30.612802541669325
+          ],
+          "link": "Places in Campaign#S13. Gold Market (Midland):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a9e94ab968ea",
+          "type": "Home or Inn",
+          "loc": [
+            -53.6533203125,
+            36.520938437959
+          ],
+          "link": "Places in Campaign#H16. Creaky Hammock (Midland; standard):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a8e978b969d9",
+          "type": "Government and Military",
+          "loc": [
+            -51.3095703125,
+            37.990157417459606
+          ],
+          "link": "Places in Campaign#G10. Citadel Volshyenek (Midland): Цитадель Вольшенек",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3888db59583a",
+          "type": "Site of Interest",
+          "loc": [
+            -57.2783203125,
+            36.11455872022479
+          ],
+          "link": "Places in Campaign#V10. Eodred’s Square (Midland):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7b5a48591ba8",
+          "type": "Restaurant or Tavern",
+          "loc": [
+            -54.1533203125,
+            45.64885209783511
+          ],
+          "link": "Places in Campaign#R9. Shoreline Drinkhall (East Shore; standard):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_59ebaa7bca9a",
+          "type": "Shop or Service",
+          "loc": [
+            -42.6220703125,
+            36.02039961044767
+          ],
+          "link": "Places in Campaign#S12. Old Fishery (Midland):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ba3b6a6a488a",
+          "type": "Shop or Service",
+          "loc": [
+            -37.5908203125,
+            34.582440609234304
+          ],
+          "link": "Places in Campaign#S11. Bookmaker (Midland):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ea68097b8bba",
+          "type": "Government and Military",
+          "loc": [
+            -36.6845703125,
+            40.33427661408774
+          ],
+          "link": "Places in Campaign#G8. Riverside House (Midland): Прибрежный дом",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_59093839ea5a",
+          "type": "Government and Military",
+          "loc": [
+            -34.9345703125,
+            39.646557091768315
+          ],
+          "link": "Places in Campaign#G7. Scrapper Hall (Midland): Зал задиры",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e81bb9cad9cb",
+          "type": "Shop or Service",
+          "loc": [
+            -31.9658203125,
+            44.99201337888754
+          ],
+          "link": "Places in Campaign#S8. All the World’s Meat (North Point):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d8f9abea68cb",
+          "type": "Home or Inn",
+          "loc": [
+            -19.2158203125,
+            35.489239415032884
+          ],
+          "link": "Places in Campaign#H7. Laughing Wave Inn (North Point; standard):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b8d8292bcb9b",
+          "type": "Shop or Service",
+          "loc": [
+            -22.2158203125,
+            36.52081869851204
+          ],
+          "link": "Places in Campaign#S7. Dock Trade (North Point):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_08a918899acb",
+          "type": "Temple or School",
+          "loc": [
+            -28.1533203125,
+            38.17759754773613
+          ],
+          "link": "Places in Campaign#T4. Sanctuary of Shelyn (North Point):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bb39bb6a39d9",
+          "type": "Government and Military",
+          "loc": [
+            -23.7783203125,
+            39.45925665751325
+          ],
+          "link": "Places in Campaign#G2. Longacre Building (North Point): Здание Лонгакра",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a97b8908da09",
+          "type": "Government and Military",
+          "loc": [
+            -23.4658203125,
+            40.77217574557762
+          ],
+          "link": "Places in Campaign#G3. City Hall (North Point): Ратуша",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e8c8e86babc8",
+          "type": "Home or Inn",
+          "loc": [
+            -22.6845703125,
+            42.89785426911041
+          ],
+          "link": "Places in Campaign#H8. Whitecaps (North Point; squalid):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_09eae9daaab9",
+          "type": "Temple or School",
+          "loc": [
+            -26.1845703125,
+            42.17887476850373
+          ],
+          "link": "Places in Campaign#T3. Bank of Abadar (North Point):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fb1978ea795b",
+          "type": "Government and Military",
+          "loc": [
+            -28.0908203125,
+            44.33581327032377
+          ],
+          "link": "Places in Campaign#G4. Korvosa’s Mercy (North Point): Милосердие Корвосы",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6b387b0afb09",
+          "type": "Restaurant or Tavern",
+          "loc": [
+            -39.625,
+            42.81267795001582
+          ],
+          "link": "Places in Campaign#R4. Three Rings Tavern (North Point; standard):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6666694376644798,
+            0.47015202076381163
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c9abba4818c9",
+          "type": "Site of Interest",
+          "loc": [
+            -31.3095703125,
+            33.768653410179446
+          ],
+          "link": "Places in Campaign#V6. Jeggare Museum (The Heights):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a828ea884879",
+          "type": "Shop or Service",
+          "loc": [
+            -48.9658203125,
+            52.49219298805798
+          ],
+          "link": "Places in Campaign#S16. Horse Shop (East Shore):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_58594adbea0a",
+          "type": "Government and Military",
+          "loc": [
+            -45.5595703125,
+            54.30527172871831
+          ],
+          "link": "Places in Campaign#H12. Tenna’s (The Heights; luxurious):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c98a590be8a8",
+          "type": "Home or Inn",
+          "loc": [
+            -42.8720703125,
+            50.085174659939966
+          ],
+          "link": "Places in Campaign#H17. Bard’s End (Southern Korvosa; standard):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6bd9abb888ca",
+          "type": "Temple or School",
+          "loc": [
+            -40.2158203125,
+            56.8998499265598
+          ],
+          "link": "Places in Campaign#T9. Theumanexus College (East Shore):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4ad9e8e92b8a",
+          "type": "Shop or Service",
+          "loc": [
+            -18.81103515625,
+            15.430322682695351
+          ],
+          "link": "Places in Campaign#S5. Giotorri’s Toys (Old Korvosa):",
+          "layer": "%5B%5BKorvosa%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Curse Crimson Throne/Korvosa/Map.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    },
+    "isImage": false
+  },
+  "markerIcons": [
+    {
+      "type": "District",
+      "iconName": "square",
+      "color": "#872222",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Home or Inn",
+      "iconName": "home",
+      "color": "#f7db22",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Restaurant or Tavern",
+      "iconName": "beer",
+      "color": "#f19327",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Temple or School",
+      "iconName": "church",
+      "color": "#dbdd55",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Site of Interest",
+      "iconName": "archway",
+      "color": "#0a0a0a",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Place",
+      "iconName": "arrow-alt-circle-down",
+      "color": "#775eb0",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Shop or Service",
+      "iconName": "shopping-cart",
+      "color": "#0fa320",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Government and Military",
+      "iconName": "shield-alt",
+      "color": "#b62fa4",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "5.2.5",
+  "version": {
+    "major": 5,
+    "minor": 2,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": "false",
+    "defaultZoom": 5,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "700px",
+    "image": "[[Korvosa Map.png]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[Korvosa Map.png]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 7,
+    "minZoom": 1,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 1,
+    "zoomFeatures": false,
+    "id": "leaflet-map",
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultAttribution": "Map tiles by <a href=\"http://stamen.com\">Stamen Design</a>, under <a href=\"http://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>. Data by <a href=\"http://openstreetmap.org\">OpenStreetMap</a>, under <a href=\"http://www.openstreetmap.org/copyright\">ODbL</a>."
+}

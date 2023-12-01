@@ -1,0 +1,72 @@
+﻿---
+id: '196'
+level: '2'
+name: Corpse Tender
+prerequisite: Trained in [[DATABASE/skill/Religion|Religion]]
+rarity: Uncommon
+source: '[[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie Feast]]'
+trait:
+- '[[DATABASE/trait/Uncommon|Uncommon]]'
+type: Archetype
+
+---
+# Corpse Tender
+
+**Source** [[Pathfinder 181. Zombie Feast]]
+You tend to mindless undead, such as the [[Zombie]] farmhands and farm animals throughout Geb.
+
+## [[Corpse Tender Dedication]] <span class="item-type">Feat 2</span>
+
+<span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Archetype</span><span class="item-trait">Dedication</span>
+**Source** [[Pathfinder 181. Zombie Feast]]
+**Archetype** [[Corpse Tender]]
+**Prerequisites** evil alignment; trained in [[Religion]]
+
+---
+You have a connection to mindless undead that allows you to communicate your intentions to them on a rudimentary level. You can use [[Diplomacy]] to [[Make an Impression]] on mindless undead and to make very simple [[Request]] of them; their mindless trait doesn't grant immunity to these mental effects. Most mindless undead are likely [[Hostile]] toward you by default and must be kept at a safe distance to give you time to Make an Impression.
+ You become trained in Diplomacy; if already trained, you instead become trained in another skill of your choice.
+**Special** You can't select another dedication feat until you have gained two other feats from the corpse tender archetype.
+
+## [[Command Corpse]] <span class="item-type">Feat 4</span>
+
+<span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Archetype</span>
+**Source** [[Pathfinder 181. Zombie Feast]]
+**Archetype** [[Corpse Tender]]
+**Prerequisites** [[Corpse Tender Dedication]]; ability to cast [[Harm]]
+
+---
+You gain the [[Command Undead]] feat, but you can use it only to transform the effects of _harm_ spells you cast on mindless undead. These spells can control creatures with a level equal to or lower than your level – 1 (instead of your level – 3).
+
+## [[Corpse Tender's Font]] <span class="item-type">Feat 4</span>
+
+<span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Archetype</span>
+**Source** [[Pathfinder 181. Zombie Feast]]
+**Archetype** [[Corpse Tender]]
+**Prerequisites** [[Corpse Tender Dedication]]
+
+---
+You easily tend to the wounds of the dead. You can cast [[Harm]] as a divine innate spell once per day. This spell is heightened to half your level, rounded up. You can target only mindless undead with this spell.
+
+## [[Improved Command Corpse]] <span class="item-type">Feat 8</span>
+
+<span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Archetype</span>
+**Source** [[Pathfinder 181. Zombie Feast]]
+**Archetype** [[Corpse Tender]]
+**Prerequisites** [[Command Corpse]]
+
+---
+When you use [[Command Undead]] on a mindless undead, if the undead succeeds at its save but doesn't critically succeed, it becomes your minion for 1 round. If the undead fails its save, it becomes your minion for 1 hour. If it critically fails, it becomes your minion for 24 hours.
+
+## [[Imbue Mindlessness]] <span class="item-type">Feat 12</span>
+
+<span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Archetype</span>
+**Source** [[Pathfinder 181. Zombie Feast]]
+**Archetype** [[Corpse Tender]]
+**Prerequisites** [[Command Corpse]]
+
+---
+You grasp the mind of an undead creature and temporarily wipe it as empty as a [[Zombie]] brain. You can target any undead with your divine innate [[Harm]] spell, not just mindless undead. When you target one non-mindless undead creature with this spell, you can transform its effects. Instead of harm's normal effects, the target must attempt a Will save.
+**Critical Success** The target is unaffected.
+**Success** The target is [[Stupefied]] for 1 round.
+**Failure** The target is stupefied 2 for 1 minute. While it is stupefied, you can use your Corpse Tender feats on the target as though it were mindless.
+**Critical Failure** As failure, except the target is stupefied 3 for 10 minutes.

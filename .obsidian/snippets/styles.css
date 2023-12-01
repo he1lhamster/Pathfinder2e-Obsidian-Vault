@@ -1,0 +1,158 @@
+@charset "UTF-8";
+@import "nullstyle.css";
+@font-face {
+  font-family: "Pathfinder2eActions";
+  src: url("fonts/Pathfinder2eActions.ttf");
+}
+ul {
+	font-family: "Roboto";
+  margin-top: 3px !important;
+  margin-bottom: 0 !important;
+}
+
+
+p {
+  margin-top: 3px !important;
+  margin-bottom: 0px !important;
+
+	font-family: "Roboto";
+}
+
+h1{
+  margin-top: 15px !important;
+  margin-bottom: 0px !important;
+  font-family: "FF Good Pro Cond Black" !important;
+  font-size: 36px !important;
+  color: #5a0e0e !important;
+  text-transform: uppercase !important;
+  align-items: baseline;
+  display: flex;
+}
+
+h2 {
+  margin-top: 10px !important;
+  margin-bottom: 0px !important;
+  font-family: "FF Good Pro Cond Black" !important;
+  font-size: 30px !important;
+  color: #002564 !important;
+  text-transform: uppercase;
+  align-items: baseline;
+  display: flex;
+}
+
+.item-type {
+  display: inline-flex;
+  margin-left:auto
+}
+
+
+h3 {
+  margin-top: 5px !important;
+  margin-bottom: 0px !important;
+  font-family: "FF Good Pro Cond Black" !important;
+  font-size: 24px !important;
+  color: #5e0000 !important;
+  text-transform: uppercase;
+  align-items: baseline;
+  display: flex;
+}
+
+h4 {
+  font-family: "FF Good Pro Cond Black" !important;
+  color: #a86753 !important;
+  font-size: 20px !important;
+  margin-top: 15px;
+  margin-bottom: 0px !important;
+  text-transform: uppercase;
+  font-variant: small-caps;
+  align-items: baseline;
+  display: flex;
+}
+
+h5 {
+  margin-top: 10px;
+  font-family: "FF Good Pro Cond";
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 0px !important;
+  text-transform: uppercase;
+  align-items: baseline;
+  display: flex;
+}
+
+.action-icon {
+  font-size: 1.5em;
+  font-family: "Pathfinder2eActions";
+  margin-left: 0.1em;
+  margin-right: 0.1em;
+  color: black
+
+}
+
+.item-trait {
+  background-color: #5a0e0e;
+  cursor: help;
+  color: white;
+  padding: 3px;
+  font-family: "FF Good Pro Cond Medium";
+  letter-spacing: 0.05em;
+  text-transform: capitalize;
+  font-variant: small-caps;
+  text-align: center;
+  margin: 2px 0;
+  font-size: 1.3em;
+  border: 2px solid #d8c483;
+}
+.trait-uncommon {
+  background-color: #c45500;
+}
+.trait-rare {
+  background-color: #0c1466;
+}
+.trait-unique {
+  background-color: #800080;
+}
+.trait-alignment {
+  background-color: #4287f5;
+}
+.trait-size {
+  background-color: #478c42;
+}
+.item-trait:hover {
+  text-decoration: underline;
+}
+
+table {
+  font-family: "Roboto";
+  text-align: left;
+  margin-top: 5px;
+  margin-bottom: 1em;
+  border-collapse: collapse;
+
+}
+
+
+thead {
+  background-color: rgb(165,165,165) !important;
+  color: white !important;
+}
+
+
+hr {
+  margin: 3px;
+}
+
+.in-box-ability {
+  display: block;
+  text-indent: -1em;
+  padding-left: 1em;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+a {
+  color:#5e0000 !important;
+  text-decoration: underline !important;
+}

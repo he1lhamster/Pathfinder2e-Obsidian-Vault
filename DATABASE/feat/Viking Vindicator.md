@@ -1,0 +1,43 @@
+﻿---
+actions: null
+cost: null
+element: null
+feat: Viking Vindicator
+frequency: null
+heighten_level: null
+id: '3619'
+level: '8'
+name: Viking Vindicator
+prerequisite: '[[DATABASE/feat/Viking Dedication|Viking Dedication]]'
+rarity: Uncommon
+requirement: null
+school: null
+source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
+subcategory: null
+trait:
+- '[[DATABASE/trait/Archetype|Archetype]]'
+- '[[DATABASE/trait/Uncommon|Uncommon]]'
+trigger: null
+type: Feat
+
+---
+# Viking Vindicator <span class="item-type">Feat 8</span>
+
+<span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Archetype</span>
+**Source** [[Knights of Lastwall]]
+**Archetype** [[Viking]]
+**Prerequisites** [[Viking Dedication]]
+**Access** Knights of Lastwall have access to this feat.
+
+---
+You are one of the raiders eagerly planning to launch an assault by sea on the Whispering Tyrant's Isle of Terror. You gain the [[Sudden Charge]] fighter feat, though it's a viking feat for you instead. As normal when gaining an additional feat from an archetype feat, gaining Sudden Charge doesn't count toward fulfilling the special requirement for Viking Dedication. If you already had Sudden Charge, you can retrain it as part of gaining this feat. When you use Sudden Charge to Strike a target in shallow water, the target is [[Flat-Footed]] against your Strike, as you use the water kicked up by your passage to camouflage your angle of attack. If you have [[Viking Weapon Familiarity]] or [[Viking Weapon Specialist]], add the [[Bastard Sword]] and [[Rapier]] to the list of weapons in those feats.
+
+## Traits
+
+**Archetype:**
+
+This feat belongs to an archetype.
+
+**Uncommon:**
+
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.

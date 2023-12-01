@@ -1,0 +1,49 @@
+﻿---
+actions: '[two-actions]'
+area: null
+bloodline: '[[DATABASE/sorcererbloodline/Nymph|Nymph]]'
+component:
+- Somatic
+- Verbal
+cost: null
+deity: null
+domain: null
+duration: 1 minute
+element: null
+heighten: 4th
+heighten_level: 1, 4
+id: '785'
+lesson: null
+level: '1'
+mystery: null
+name: Nymph's Token
+patron_theme: null
+range: null
+rarity: Uncommon
+requirement: null
+saving_throw: null
+school: Enchantment
+source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
+target: null
+tradition: null
+trait:
+- '[[DATABASE/trait/Enchantment|Enchantment]]'
+- '[[DATABASE/trait/Sorcerer|Sorcerer]]'
+- '[[DATABASE/trait/Uncommon|Uncommon]]'
+trigger: null
+type: Focus
+
+---
+# Nymph's Token<span class="item-type">Focus 1</span>
+
+<span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Enchantment</span><span class="item-trait">Sorcerer</span>
+**Source** [[Advanced Player's Guide]] 
+**Bloodline** [[Nymph]]
+**Cast** <span class="action-icon">2</span> somatic, verbal
+**Duration** 1 minute
+
+---
+You grant an ally a token of favor. You create a token, such as a lock of your hair or a flower, that persists for the spell's duration; as part of Casting the Spell, you can Interact to pass the token to an ally within your reach. As long as the ally has the token on their person, they gain a +1 status bonus to [[Performance]] checks and Will saves. You can Dismiss the spell as a free action.
+
+---
+**Heightened (4th)** As long as the ally has the token on their person, you can cast spells that have a range of touch on them at a range of 30 feet.

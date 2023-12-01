@@ -1,0 +1,18 @@
+﻿---
+id: '90'
+name: Minatan
+rarity: Rare
+source: '[[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]'
+trait:
+- '[[DATABASE/trait/Rare|Rare]]'
+type: Language
+
+---
+# Minatan
+
+**Source** [[Pathfinder 167. Ready Fight!]]
+The below entries contain speakers of Minatan.
+
+## NPCs (3)
+
+[[Amihan]], [[Joon-seo]], [[Maalya]]

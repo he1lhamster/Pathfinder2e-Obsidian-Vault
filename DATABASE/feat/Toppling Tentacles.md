@@ -1,0 +1,38 @@
+﻿---
+actions: null
+cost: null
+element: null
+feat: Toppling Tentacles
+frequency: null
+heighten_level: null
+id: '3391'
+level: '10'
+name: Toppling Tentacles
+prerequisite: '[[DATABASE/feat/Spell Trickster Dedication|Spell Trickster Dedication]]
+  ; ability to cast [[DATABASE/spell/Black Tentacles|black tentacles]]'
+rarity: Common
+requirement: null
+school: null
+source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
+subcategory: null
+trait:
+- '[[DATABASE/trait/Archetype|Archetype]]'
+trigger: null
+type: Feat
+
+---
+# Toppling Tentacles <span class="item-type">Feat 10</span>
+
+<span class="item-trait">Archetype</span>
+**Source** [[Grand Bazaar]]
+**Archetype** [[Spell Trickster]]
+**Prerequisites** [[Spell Trickster Dedication]]; ability to cast [[Black Tentacles]]
+
+---
+When you cast _black tentacles_, replace the spell's standard effects with the following: Tentacles slither along the ground in the area, attempting to hinder anyone within. Sticky black tentacles attempt to [[Trip]] each creature in the area. Attempt spell attack rolls against the Reflex DCs of each affected creature. Any creature you succeed against is knocked [[Prone]] and takes 3d6 bludgeoning damage. Whenever a creature ends its turn in the area, the tentacles attempt to Trip that creature if it isn't already prone, and they deal 1d6 bludgeoning damage to any creature already prone. Creatures treat the spell's area as difficult terrain.
+
+## Traits
+
+**Archetype:**
+
+This feat belongs to an archetype.

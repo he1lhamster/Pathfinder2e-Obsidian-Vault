@@ -1,0 +1,19 @@
+﻿---
+id: '35'
+name: PFS Scenario 1-19. Iolite Squad Alpha
+rarity: Common
+source: null
+trait: null
+type: Source
+
+---
+# PFS Scenario #1-19: Iolite Squad Alpha
+
+**Product Page** Paizo Store
+**Release Date** 4/27/2020
+**Product Line** Society
+**Source Group** Pathfinder Society
+
+## Backgrounds [1]
+
+[[Iolite Trainee Hobgoblin]]

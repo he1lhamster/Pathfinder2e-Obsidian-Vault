@@ -1,0 +1,45 @@
+﻿---
+actions: null
+cost: null
+element: null
+feat: Courtly Graces
+frequency: null
+heighten_level: null
+id: '772'
+level: '1'
+name: Courtly Graces
+prerequisite: Trained in [[DATABASE/skill/Society|Society]]
+rarity: Common
+requirement: null
+school: null
+source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
+subcategory: society
+trait:
+- '[[DATABASE/trait/General|General]]'
+- '[[DATABASE/trait/Skill|Skill]]'
+trigger: null
+type: Feat
+
+---
+# Courtly Graces <span class="item-type">Feat 1</span>
+
+<span class="item-trait">General</span><span class="item-trait">Skill</span>
+**Source** [[Core Rulebook]] 
+**Prerequisites** trained in [[Society]]
+
+---
+You were raised among the nobility or have learned proper etiquette and bearing, allowing you to present yourself as a noble and play games of influence and politics. You can use Society to Make an Impression on a noble, as well as with Impersonate to pretend to be a noble if you aren’t one. If you want to impersonate a specific noble, you still need to use Deception to Impersonate normally, and to Lie when necessary.
+
+## Courtly Graces Leads To...
+
+[[Connections]]
+
+## Traits
+
+**General:**
+
+A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.
+
+**Skill:**
+
+A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.

@@ -1,0 +1,132 @@
+﻿---
+ac: '26'
+alignment: LE
+all_resistance: null
+burrow_speed: null
+charisma: '+2'
+climb_speed: null
+constitution: '+5'
+creature_ability:
+- Gem Gaze
+- Gemsight
+- Light Sickness
+- Stone Curse
+creature_family: null
+description: 'Withered hermits wrapped in tattered rags, these scarred, eyeless creatures
+  command strange secrets of the earth and interpret the fateful energies of the subterranean
+  depths. In some regions, stygiras are worshipped as seers or even gods, although
+  they lack the ability to grant spells to clerics and are often not aware of their
+  worshippers at all. In other areas, they have strange ties to the ancient empires
+  of the [[DATABASE/monsterfamily/Cyclops|cyclopes]] , often dwelling in the oversized
+  ruins those creatures left behind long ago. To many stygiras, gemstones harvested
+  from ancient cyclopean mosaics have even greater magical properties than other crystals.<br/><br/>
+  Although technically blind, stygiras do have vestigial eyes hidden beneath the stony,
+  scarred flesh of their faces. Capable of sensing bright lights even through their
+  scars, stygiras are sickened and distracted by these flashing glimpses, so they
+  keep to their caves during the day and wander into the world above only after nightfall.
+  Far from benevolent, they seek out unwary travelers or explorers to capture and
+  reduce them down to the base chemicals and supernatural humors the stygiras require
+  to infuse gemstones with the capacity to give them sight and magical power.<br/><br/><b><u>Recall
+  Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 25<br/><b><u>Unspecific
+  Lore</u></b>: DC 23<br/><b><u>Specific Lore</u></b>: DC 20'
+dexterity: '+4'
+element: Earth
+fly_speed: null
+fortitude: '+15'
+hardness: null
+hp: '80'
+id: '821'
+immunity:
+- '[[DATABASE/condition/Paralyzed|paralyzed]]'
+- '[[DATABASE/condition/Petrified|petrified]]'
+- '[[DATABASE/trait/Visual|visual]]'
+intelligence: '+4'
+land_speed: '25'
+language:
+- '[[DATABASE/language/Aklo|Aklo]]'
+- '[[DATABASE/language/Cyclops|Cyclops]]'
+- '[[DATABASE/language/Jotun|Jotun]]'
+- '[[DATABASE/language/Terran|Terran]]'
+level: '7'
+max_speed: '25'
+name: Stygira
+perception: '+17'
+rarity: Uncommon
+reflex: '+13'
+resistance:
+- physical 10 (except adamantine)
+rus_type_level: null
+school: null
+sense:
+- gemsight
+size: Medium
+skill:
+- '[[DATABASE/skill/Athletics|Athletics]] +15'
+- '[[DATABASE/skill/Deception|Deception]] +15'
+- '[[DATABASE/skill/Lore|Gem Lore]] +17'
+- '[[DATABASE/skill/Nature|Nature]] +17'
+- '[[DATABASE/skill/Occultism|Occultism]] +17'
+source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
+speed:
+- 25 feet
+spell:
+- '[[DATABASE/spell/Augury|Augury]]'
+- '[[DATABASE/spell/Clairaudience|Clairaudience]]'
+- '[[DATABASE/spell/Clairvoyance|Clairvoyance]]'
+- '[[DATABASE/spell/Earthbind|Earthbind]]'
+- '[[DATABASE/spell/Know Direction|KnowDirection]]'
+- '[[DATABASE/spell/Read Aura|Read Aura]]'
+- '[[DATABASE/spell/Read Omens|Read Omens]]'
+- '[[DATABASE/spell/Shape Stone|ShapeStone]]'
+- '[[DATABASE/spell/Undetectable Alignment|Undetectable Alignment]]'
+strength: '+4'
+strength_req: '4'
+strongest_save:
+- Will
+swim_speed: null
+trait:
+- '[[DATABASE/trait/Earth|Earth]]'
+- '[[DATABASE/trait/Fey|Fey]]'
+- '[[DATABASE/trait/Uncommon|Uncommon]]'
+type: Creature
+vision: null
+weakest_save:
+- Reflex
+weakness:
+- cold iron 5
+will: '+19'
+wisdom: '+6'
+
+---
+# Stygira
+
+Withered hermits wrapped in tattered rags, these scarred, eyeless creatures command strange secrets of the earth and interpret the fateful energies of the subterranean depths. In some regions, stygiras are worshipped as seers or even gods, although they lack the ability to grant spells to clerics and are often not aware of their worshippers at all. In other areas, they have strange ties to the ancient empires of the [[Cyclops]], often dwelling in the oversized ruins those creatures left behind long ago. To many stygiras, gemstones harvested from ancient cyclopean mosaics have even greater magical properties than other crystals.
+ Although technically blind, stygiras do have vestigial eyes hidden beneath the stony, scarred flesh of their faces. Capable of sensing bright lights even through their scars, stygiras are sickened and distracted by these flashing glimpses, so they keep to their caves during the day and wander into the world above only after nightfall. Far from benevolent, they seek out unwary travelers or explorers to capture and reduce them down to the base chemicals and supernatural humors the stygiras require to infuse gemstones with the capacity to give them sight and magical power.
+**Recall Knowledge - Fey ([[Nature]])**: DC 25
+**Unspecific Lore**: DC 23
+**Specific Lore**: DC 20
+
+# Stygira<span class="item-type">Creature 7</span>
+
+<span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Earth</span><span class="item-trait">Fey</span>
+**Source** [[Bestiary 2]] 
+**Perception** +17; gemsight
+**Languages** [[Aklo]], [[Cyclops]], [[Jotun]], [[Terran]]
+**Skills** [[Athletics]] +15, [[Deception]] +15, [[Lore]] +17, [[Nature]] +17, [[Occultism]] +17
+**Str** +4, **Dex** +4, **Con** +5, **Int** +4, **Wis** +6, **Cha** +2
+**Gemsight** As long as the stygira holds a gemstone, they can see through the gem with [[Darkvision]] and the effects of [[True Seeing]]. The stygira is [[Blinded]] when they are not holding a gem in a hand.
+**Items** gemstone
+
+---
+**AC** 26; **Fort** +15, **Ref** +13, **Will** +19; +1 status to all saves vs. magic
+**HP** 80; **Immunities** [[Paralyzed]], [[Petrified]], visual; **Resistances** physical 10 (except adamantine); **Weaknesses** cold iron 5
+<span class="in-box-ability">**Light Sickness** A stygira in an area of bright light is [[Sickened]].</span>
+
+---
+**Speed** 25 feet
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +17 [+13/+9] (agile), **Damage** 2d6+10 slashing plus stone curse</span>**Occult Innate Spells** DC 25; **4th** _[[Clairvoyance]]_, _[[Read Omens]]_, _[[Shape Stone]]_; **3rd** _[[Clairaudience]]_, _[[Earthbind]]_; **2nd** _[[Augury]]_, _[[Undetectable Alignment]]_; **Cantrips** **(4th)** _[[Know Direction]]_, _[[Read Aura]]_
+<span class="in-box-ability">**Gem Gaze** <span class="action-icon">1</span> (emotion, fear, mental, primal) The stygira holds aloft a gem and gazes into the mind of a creature within 30 feet, infusing the creature's thoughts with visions of the creature's own dead body slowly petrifying. The creature must succeed at a DC 25 Will save or become [[Frightened]] (frightened 2 on a critical failure).</span><span class="in-box-ability">**Stone Curse** (curse, primal, transmutation) Wounds dealt by the stygira's claws leave the flesh bleached of color and turn the blood that runs from them dark gray. Each time a creature is damaged by the stygira's claw Strike, it must succeed at a DC 25 Fortitude save or become permanently [[Slowed]] (slowed 2 on a critical failure) as its flesh stiffens like stone. If a creature is reduced to 0 Hit Points from the stygira's claw Strike and fails the saving throw against stone curse, it is [[Petrified]]. A creature that spends 8 hours in direct sunlight can attempt a new saving throw to remove the effects of stone curse, even if it has been petrified.</span>
+
+###  Stygira Gems
+
+The gem a stygira carries does not need to be particularly valuable, but some stygiras prefer to use more expensive gems as an affectation. More powerful stygiras have developed methods of using particularly expensive gems to enhance their gem gaze ability, allowing some to charm those they gaze upon, light them on fire, or even afflict them with crippling poison.

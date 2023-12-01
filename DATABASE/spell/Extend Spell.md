@@ -1,0 +1,45 @@
+﻿---
+actions: '[one-action]'
+area: null
+bloodline: '[[DATABASE/sorcererbloodline/Imperial|Imperial]]'
+component:
+- Verbal
+cost: null
+deity: null
+domain: null
+duration: null
+element: null
+heighten: null
+heighten_level: '3'
+id: '507'
+lesson: null
+level: '3'
+mystery: null
+name: Extend Spell
+patron_theme: null
+range: null
+rarity: Uncommon
+requirement: null
+saving_throw: null
+school: Divination
+source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
+target: null
+tradition: null
+trait:
+- '[[DATABASE/trait/Divination|Divination]]'
+- '[[DATABASE/trait/Metamagic|Metamagic]]'
+- '[[DATABASE/trait/Sorcerer|Sorcerer]]'
+- '[[DATABASE/trait/Uncommon|Uncommon]]'
+trigger: null
+type: Focus
+
+---
+# Extend Spell<span class="item-type">Focus 3</span>
+
+<span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Divination</span><span class="item-trait">Metamagic</span><span class="item-trait">Sorcerer</span>
+**Source** [[Core Rulebook]] 
+**Bloodline** [[Imperial]]
+**Cast** <span class="action-icon">1</span> verbal
+
+---
+You call upon your blood's knowledge of the ancients to extend your magic. If your next action is to Cast a Spell with a duration of 1 minute and a single target, the spell instead lasts 10 minutes. You can extend a spell only if you cast it from a spell slot lower than your highest spell slot, and you can have only one active spell at a time extended in this way.

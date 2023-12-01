@@ -1,0 +1,40 @@
+﻿---
+actions: null
+cost: null
+element: null
+feat: Improved Poison Weapon
+frequency: null
+heighten_level: null
+id: '573'
+level: '8'
+name: Improved Poison Weapon
+prerequisite: '[[DATABASE/feat/Poison Weapon|Poison Weapon]]'
+rarity: Common
+requirement: null
+school: null
+source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
+subcategory: null
+trait:
+- '[[DATABASE/trait/Rogue|Rogue]]'
+trigger: null
+type: Feat
+
+---
+# Improved Poison Weapon <span class="item-type">Feat 8</span>
+
+<span class="item-trait">Rogue</span>
+**Source** [[Core Rulebook]] 
+**Archetypes** [[Assassin]]*, [[Poisoner]]*
+**Prerequisites** [[Poison Weapon]]
+* This archetype offers Improved Poison Weapon at a different level than displayed here.
+
+---
+You deliver poisons in ways that maximize their harmful effects. When you apply a simple poison with Poison Weapon, the poison deals 2d4 poison damage instead of 1d4 poison damage. You don’t waste a poison you apply with Poison Weapon on a critically failed attack roll.
+
+## Archetype Use
+
+This feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.
+
+## Improved Poison Weapon Leads To...
+
+[[Deadly Poison Weapon]]

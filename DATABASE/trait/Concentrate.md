@@ -1,0 +1,43 @@
+﻿---
+id: '32'
+name: Concentrate
+rarity: Common
+source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
+trait:
+- Concentrate
+type: Trait
+
+---
+# Concentrate
+
+**Source** [[Core Rulebook]] 
+An action with this trait requires a degree of mental concentration and discipline.
+
+## Actions
+
+[[Arcane Cascade]], [[Badger Rage]], [[Blend into the Night]], [[Bolster Confidence]], [[Borrow an Arcane Spell]], [[Camp Management]], [[Change Shape]], [[Change Shape]], [[Change Shape]], [[Clue In]], [[Coerce]], [[Collect Spirit Remnant]], [[Command an Animal]], [[Cover Tracks]], [[Dawnflower's Blessing]], [[Decipher Writing]], [[Demoralize]], [[Detect Magic]], [[Devise a Stratagem]], [[Discover]], [[Dismiss]], [[Enhance Campfire]], [[Enhance Weapons]], [[Enter the Harrow Court]], [[Fling Magic]], [[Follow the Expert]], [[Forgive Foe]], [[Hunt Prey]], [[Identify Alchemy]], [[Identify Magic]], [[Impersonate]], [[Influence]], [[Intensify Vulnerability]], [[Intimidating Posture]], [[Investigate]], [[Learn a Spell]], [[Learn from a Companion]], [[Lie]], [[Make an Impression]], [[Manifest Eidolon]], [[Map the Area]], [[DATABASE/action/Mesmerizing Performance|Mesmerizing Performance
+]], [[Perform]], [[Pointed Question]], [[Prepare Campsite]], [[Prove Peace]], [[Provide Aid]], [[Psychic Defense]], [[Pursue a Lead]], [[Rage]], [[Ready]], [[Recall Knowledge]], [[Recenter]], [[Reconnoiter]], [[Refocus]], [[Repeat a Spell]], [[Request]], [[Scout]], [[Search]], [[Seek]], [[Seething Frenzy]], [[Sense Motive]], [[Set Alarms]], [[Share Senses]], [[Sustain a Spell]], [[Sustain an Activation]], [[Tap Ley Line]], [[Tell Campfire Story]], [[Track]], [[Undead Guardians]], [[Water Hazards]], [[Wilderness Survival]], [[Wyrm's Breath]]
+
+## Activities
+
+Detect Magic, Follow the Expert, Investigate, Repeat a Spell, Scout, Search
+
+## Feats
+
+[[Accompany]], [[Animal Rage]], [[Aquatic Adaptation]], [[Archer's Aim]], [[Aura Sight]], [[Automatic Writing]], [[Awesome Blow]], [[Bat Form]], [[Beastmaster's Call]], [[Benevolent Spirit Deck]], [[Blazing Aura]], [[Blessed Spell]], [[Blood in the Air]], [[Bon Mot]], [[Bone Swarm]], [[Call and Response]], [[Call Bonded Item]], [[Cast Down]], [[Cast Out]], [[Cat Nap]], [[Catchy Tune]], [[Caterwaul]], [[Cleansing Light]], [[Come and Get Me]], [[Command Undead]], [[Community Knowledge]], [[Conceal Spell]], [[Connect the Dots]], [[Consecrate Spell]], [[Coordinated Distraction]], [[Core Cannon]], [[Courageous Advance]], [[Courageous Assault]], [[Courageous Onslaught]], [[Courageous Opportunity]], [[Cruelty]], [[Cryptic Spell]], [[Crystal Luminescence]], [[Current Spell]], [[Current Spell]], [[Dance of Thunder]], [[Dead Reckoning]], [[Deadeye]], [[Defensive Coordination]], [[Defensive Recovery]], [[Determination]], [[Detonating Spell]], [[Devil in Plain Sight]], [[Disarming Smile]], [[Dragon Transformation]], [[Dragon's Rage Breath]], [[Duo's Aim]], [[Eat Fortune]], [[Ebb and Flow]], [[Echoes in Stone]], [[Echoing Channel]], [[Echoing Spell]], [[Eclectic Sword Mastery]], [[Educate Allies]], [[Eerie Proclamation]], [[Eerie Traces]], [[Elaborate Flourish]], [[Elemental Assault]], [[Elemental Explosion]], [[Emotional Surge]], [[Energize Wings]], [[Energy Fusion]], [[Expand Aura]], [[Familiar's Eyes]], [[Favorable Winds]], [[Ferocious Gust]], [[Final Form]], [[Flame Jump]], [[Flourishing Finish]], [[Focused Juggler]], [[Focused Shot]], [[Foresee Danger]], [[Forestall Curse]], [[Form of the Bat]], [[Ghost Blade]], [[Giant's Lunge]], [[Grovel]], [[Guide the Timeline]], [[Harmonize]], [[Headshot]], [[Heroic Recovery]], [[Holy Light]], [[Hunter's Aim]], [[Hydraulic Deflection]], [[Hydraulic Maneuvers]], [[Hypnotic Lure]], [[Incredible Aim]], [[Incredible Ricochet]], [[Inner Strength]], [[Inspirit Hazard]], [[Instant Opening]], [[Into the Future]], [[Juggle]], [[Just the Tool]], [[Knockback Strike]], [[Leyline Conduit]], [[Liberate Soul]], [[Long-Nosed Form]], [[Melodious Spell]], [[Mercy]], [[Metallic Skin]], [[Metamagic Channel]], [[Mind Shards]], [[Miraculous Repair]], [[Mistaken Identity]], [[Moment of Clarity]], [[Muscle Mimicry]], [[Nanite Shroud]], [[Nanite Surge]], [[Necrotic Infusion]], [[Night's Warning]], [[No Cause for Alarm]], [[No! No! I Created You!]], [[One for All]], [[Orc Superstition]], [[Ostentatious Arrival]], [[Overwhelming Breath]], [[Perfect Clarity]], [[Phase Out]], [[Pit of Snakes]], [[Planar Sidestep]], [[Play to the Crowd]], [[Plot the Future]], [[Prayer Attack]], [[Project Persona]], [[Psi Burst]], [[Psi Catastrophe]], [[Purge of Moments]], [[Purifying Spell]], [[Quickened Attunement]], [[Quickened Casting]], [[Radiant Circuitry]], [[Radiant Infusion]], [[Rapid Reattunement]], [[Rat Form]], [[Reach Spell]], [[Reactive Distraction]], [[Read Psychometric Resonance]], [[Reading the Signs]], [[Reconstruct the Scene]], [[Recover Spell]], [[Reflexive Catch]], [[Remediate]], [[Renewed Vigor]], [[Repair Module]], [[Resounding Finale]], [[Reveal Hidden Self]], [[Reveal True Name]], [[Ricochet Shot]], [[Safeguarded Spell]], [[Saoc Astrology]], [[Scintillating Spell]], [[Sepulchral Sublimation]], [[Shake it Off]], [[Shared Sight]], [[Shrink Down]], [[Silent Spell]], [[Sniper's Aim]], [[Soul Flare]], [[Sow Spell]], [[Spell Relay]], [[Spell Shroud]], [[Spell Tinker]], [[Spiral Sworn]], [[Spirit's Wrath]], [[Spiritual Guides]], [[Split Hex]], [[Split Shot]], [[Steam Spell]], [[Storm Shroud]], [[Summoner's Call]], [[Sunder Spell]], [[Tap Vitality]], [[Targeting Shot]], [[Terraforming Spell]], [[Terrain Form]], [[Their Master's Call]], [[Through Spell]], [[Tidal Shield]], [[Timeline-Splitting Spell]], [[Towering Presence]], [[Transpose]], [[Triangle Shot]], [[Trickster's Ace]], [[True Gaze]], [[True Shapeshifter]], [[Turn Back the Clock]], [[Turn to Mist]], [[Unlimited Potential]], [[Unusual Composition]], [[Uzunjati Storytelling]], [[Vessel's Form]], [[Vigorous Inspiration]], [[Voice Cold as Death]], [[Wandering Thoughts]], [[Warped Reflection]], [[Watchful Gaze]], [[What Could Have Been]], [[Wild Winds Gust]], [[Wind-Tossed Spell]], [[Wind-Tossed Spell]], [[Wood Ward]], [[Work Yourself Up]]
+
+## Focus Spells
+
+[[Arms of Nature]], [[Beastmaster Trance]], [[Combustion]], [[Crushing Ground]], [[Diviner's Sight]], [[Powerful Inhalation]], [[Pulverizing Cascade]], [[Stone Lance]], [[Tireless Worker]], [[Updraft]], [[Wildfire]], [[Wood Walk]]
+
+## Skills
+
+[[Arcana]], [[Intimidation]], [[Nature]], [[Survival]], [[Intimidation]], [[Crafting]], [[Deception]], [[Deception]], [[Diplomacy]], [[Performance]], [[Diplomacy]], [[Survival]]
+
+## Skills (General)
+
+[[Decipher Writing]], [[Identify Magic]], [[Learn a Spell]], [[Recall Knowledge]], [[Tap Ley Line]]
+
+## Spells
+
+[[Airlift]], [[Arrow Salvo]], [[Beheading Buzz Saw]], [[Blastback]], [[Blazing Armory]], [[Brine Dragon Bile]], [[Buoyant Bubbles]], [[Burrow Ward]], [[Cauterize Wounds]], [[Cave Fangs]], [[Cinder Swarm]], [[Clad in Metal]], [[Cleanse Air]], [[Conductive Weapon]], [[Coral Scourge]], [[Dancing Fountain]], [[Dehydrate]], [[Detect Metal]], [[Dive and Breach]], [[Draw Moisture]], [[Elemental Breath]], [[Elemental Counter]], [[Elemental Sense]], [[Engrave Memory]], [[Entwined Roots]], [[Exploding Earth]], [[Falsify Heat]], [[Ferrous Form]], [[Field of Razors]], [[Fireproof]], [[Fire's Pathway]], [[Flame Dancer]], [[Flames of Ego]], [[Flourishing Flora]], [[Fold Metal]], [[Freezing Rain]], [[Frost Pillar]], [[Gentle Breeze]], [[Glass Form]], [[Glass Shield]], [[Grasp of the Deep]], [[Grasping Earth]], [[Heatvision]], [[Heaving Earth]], [[Helpful Wood Spirits]], [[Hungry Depths]], [[Instant Pottery]], [[Life-Draining Roots]], [[Lignify]], [[Lotus Walk]], [[Magnetic Dominion]], [[Mantle of the Melting Heart]], [[Mantle of the Unwavering Heart]], [[Mercurial Stride]], [[Misty Memory]], [[Needle Darts]], [[Noxious Metals]], [[Pave Ground]], [[Personal Ocean]], [[Phantom Orchestra]], [[Phoenix Ward]], [[Pillar of Water]], [[Pollen Pods]], [[Pressure Zone]], [[Rainbow Fumarole]], [[Rigid Form]], [[Root Reading]], [[Rousing Splash]], [[Rubble Step]], [[Rust Cloud]], [[Sand Form]], [[Scrying Ripples]], [[Shielded Arm]], [[Shock to the System]], [[Signal Skyrocket]], [[Slashing Gust]], [[Sliding Blocks]], [[Splinter Volley]], [[Stifling Stillness]], [[Summon Elemental Herald]], [[Tempest Cloak]], [[Thermal Remedy]], [[Timber]], [[Tremorsense]], [[Vacuum]], [[Verdant Sprout]], [[Vitrifying Blast]], [[Voice on the Breeze]], [[Wall of Metal]], [[Wall of Shrubs]], [[Waterproof]], [[Weaken Earth]], [[Weave Wood]], [[Whirlpool]], [[Wisdom of the Winds]], [[Wooden Fists]], [[Ymeri's Mark]]

@@ -1,0 +1,39 @@
+﻿---
+actions: null
+cost: null
+element: null
+feat: Crystal Ward Spells
+frequency: null
+heighten_level: null
+id: '1147'
+level: '4'
+name: Crystal Ward Spells
+prerequisite: '[[DATABASE/feat/Crystal Keeper Dedication|Crystal Keeper Dedication]]'
+rarity: Common
+requirement: null
+school: null
+source: '[[DATABASE/source/Pathfinder 148. Fires of the Haunted City|Pathfinder #148:
+  Fires of the Haunted City]]'
+subcategory: null
+trait:
+- '[[DATABASE/trait/Archetype|Archetype]]'
+trigger: null
+type: Feat
+
+---
+# Crystal Ward Spells <span class="item-type">Feat 4</span>
+
+<span class="item-trait">Archetype</span>
+**Source** [[Pathfinder 148. Fires of the Haunted City]]
+**Archetype** [[Crystal Keeper]]
+**Prerequisites** [[Crystal Keeper Dedication]]
+
+---
+Your study of crystals and the energies held within a gem’s facets grants you special arcane crystal ward spells, which are a type of focus spell. It costs 1 Focus Point to cast a focus spell, and you start with a focus pool of 1 Focus Point. You refill your focus pool when you make your next daily preparations, and you can regain 1 Focus Point by spending 10 minutes using the Refocus activity to research and memorize the properties of gems.
+ Focus spells are automatically heightened to half your level rounded up. Certain feats can give you more focus spells and increase the size of your focus pool, though your focus pool can never hold more than 3 Focus Points. You gain the [[Electrified Crystal Ward]] focus spell, and you are trained in arcane spell attack rolls and spell DCs. Your spellcasting ability is Intelligence.
+
+## Traits
+
+**Archetype:**
+
+This feat belongs to an archetype.

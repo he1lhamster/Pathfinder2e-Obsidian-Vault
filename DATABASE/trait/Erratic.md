@@ -1,0 +1,18 @@
+﻿---
+id: '275'
+name: Erratic
+rarity: Common
+source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
+trait:
+- Erratic
+type: Trait
+
+---
+# Erratic
+
+**Source** [[Gamemastery Guide]]
+Planes with this trait have a flow of time that slows down or speeds up relative to other planes.
+
+## Planes
+
+[[Dimension of Time]], [[First World]]

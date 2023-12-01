@@ -1,0 +1,44 @@
+﻿---
+actions: '[two-actions]'
+cost: null
+element: null
+feat: Mammoth Charge
+frequency: null
+heighten_level: null
+id: '3444'
+level: '6'
+name: Mammoth Charge
+prerequisite: '[[DATABASE/feat/Mammoth Lord Dedication|Mammoth Lord Dedication]]'
+rarity: Common
+requirement: You are riding your megafauna companion.
+school: null
+source: '[[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burning
+  Tundra]]'
+subcategory: null
+trait:
+- '[[DATABASE/trait/Archetype|Archetype]]'
+- '[[DATABASE/trait/Flourish|Flourish]]'
+trigger: null
+type: Feat
+
+---
+# Mammoth Charge <span class="action-icon">2</span> <span class="item-type">Feat 6</span>
+
+<span class="item-trait">Archetype</span><span class="item-trait">Flourish</span>
+**Source** [[Pathfinder 177. Burning Tundra]]
+**Archetype** [[Mammoth Lord]]
+**Prerequisites** [[Mammoth Lord Dedication]]
+**Requirements** You are riding your megafauna companion.
+
+---
+You [[Command an Animal]] to order your megafauna companion to Stride twice. At any point during this movement, you can make a melee Strike against one enemy within reach.
+
+## Traits
+
+**Archetype:**
+
+This feat belongs to an archetype.
+
+**Flourish:**
+
+Flourish actions are actions that require too much exertion to perform a large number in a row. You can use only 1 action with the flourish trait per turn.

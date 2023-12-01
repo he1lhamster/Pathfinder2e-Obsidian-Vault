@@ -1,0 +1,45 @@
+﻿---
+ac: null
+all_resistance: null
+complexity: Simple
+element: null
+fortitude: null
+hardness: null
+hazard_type: Trap
+hp: null
+id: '422'
+immunity: null
+level: '3'
+name: Rusty Spike Launcher
+rarity: Uncommon
+reflex: null
+resistance: null
+school: null
+source: '[[DATABASE/source/Rusthenge|Rusthenge]]'
+trait:
+- '[[DATABASE/trait/Magical|Magical]]'
+- '[[DATABASE/trait/Trap|Trap]]'
+- '[[DATABASE/trait/Uncommon|Uncommon]]'
+type: Hazard
+weakness: null
+will: null
+
+---
+# Rusty Spike Launcher<span class="item-type">Hazard 3</span>
+
+<span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Magical</span><span class="item-trait">Trap</span>
+**Source** [[Rusthenge]]
+**Complexity** Simple
+**Stealth** DC 20 (trained)
+**Description** As the large rusty door swings open, a mass of rusty spikes appear out of nowhere in the open doorway and launch violently into the room.
+
+---
+**Disable** DC 20 [[Thievery]] to decouple the triggering rods that cause the spikes to extend, or [[Dispel Magic]] (2nd level; counteract DC 18) to counteract the trap
+**Launch Spikes** <span class="action-icon">5</span> **Trigger** a creature opens the door without uttering a prayer to Xar-Azmak first; **Effect** A mass of rusty spikes appears in the open doorway and then fire into area **E1**. The rusty spikes curve through the air to seek targets—all creatures in area **E1** must attempt a DC 20 Reflex save.
+**Critical Success** The creature avoids the spikes and takes no damage.
+**Success** A spike grazes the creature, inflicting 2d10 piercing damage.
+**Failure** A spike impales the creature, inflicting 2d10+13 piercing damage.
+**Critical Failure** As failure, but the spike also exposes the creature to [[Tetanus]].
+
+---
+**Reset** The trap automatically resets once the door is closed.

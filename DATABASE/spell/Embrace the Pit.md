@@ -1,0 +1,50 @@
+﻿---
+actions: '[one-action]'
+area: null
+bloodline: '[[DATABASE/sorcererbloodline/Diabolic|Diabolic]]'
+component:
+- Verbal
+cost: null
+deity: null
+domain: null
+duration: 1 minute
+element: null
+heighten: '+2'
+heighten_level: 3, 5, 7, 9
+id: '506'
+lesson: null
+level: '3'
+mystery: null
+name: Embrace the Pit
+patron_theme: null
+range: null
+rarity: Uncommon
+requirement: null
+saving_throw: null
+school: Transmutation
+source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
+target: null
+tradition: null
+trait:
+- '[[DATABASE/trait/Evil|Evil]]'
+- '[[DATABASE/trait/Morph|Morph]]'
+- '[[DATABASE/trait/Sorcerer|Sorcerer]]'
+- '[[DATABASE/trait/Transmutation|Transmutation]]'
+- '[[DATABASE/trait/Uncommon|Uncommon]]'
+trigger: null
+type: Focus
+
+---
+# Embrace the Pit<span class="item-type">Focus 3</span>
+
+<span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Evil</span><span class="item-trait">Morph</span><span class="item-trait">Sorcerer</span><span class="item-trait">Transmutation</span>
+**Source** [[Core Rulebook]] 
+**Bloodline** [[Diabolic]]
+**Cast** <span class="action-icon">1</span> verbal
+**Duration** 1 minute
+
+---
+Devil horns grow from your skull, and your skin takes on features of the devil responsible for your diabolic bloodline. You gain resistance 5 to evil, fire, and poison, and resistance 1 to physical damage (except silver). You can take good damage, even if you aren't evil, and you gain weakness 5 to good damage.
+
+---
+**Heightened (+2)** The resistance to evil, fire, and poison increases by 5, the resistance to physical damage (except silver) by 2, and the weakness to good damage by 5.

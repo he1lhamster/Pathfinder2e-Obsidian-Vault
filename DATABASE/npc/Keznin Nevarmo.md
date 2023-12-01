@@ -1,0 +1,94 @@
+﻿---
+ac: '26'
+alignment: NE
+all_resistance: null
+burrow_speed: null
+charisma: '+3'
+climb_speed: null
+constitution: '+0'
+creature_ability:
+- Expert Herbalist
+- Risky Treatment
+creature_family: null
+description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
+  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 36<br/><b><u>Unspecific
+  Lore</u></b>: DC 34<br/><b><u>Specific Lore</u></b>: DC 31'
+dexterity: '+3'
+element: null
+fly_speed: null
+fortitude: '+15'
+hp: '150'
+id: '1646'
+immunity: null
+intelligence: '+4'
+land_speed: '25'
+language:
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Elven|Elven]]'
+- '[[DATABASE/language/Tengu|Tengu]]'
+level: '9'
+max_speed: '25'
+name: Keznin Nevarmo
+perception: '+18'
+rarity: Unique
+reflex: '+18'
+resistance: null
+rus_type_level: null
+sense:
+- '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
+size: Medium
+skill:
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +18'
+- '[[DATABASE/skill/Medicine|Medicine]] +17'
+- '[[DATABASE/skill/Nature|Nature]] +21'
+- '[[DATABASE/skill/Religion|Religion]] +17'
+- '[[DATABASE/skill/Society|Society]] +19'
+- '[[DATABASE/skill/Survival|Survival]] +17'
+source: '[[DATABASE/source/Night of the Gray Death|Night of the Gray Death]]'
+speed:
+- 25 feet
+spell: null
+strength: '+0'
+strength_req: '0'
+strongest_save:
+- Will
+swim_speed: null
+trait:
+- '[[DATABASE/trait/Humanoid|Humanoid]]'
+- '[[DATABASE/trait/Tengu|Tengu]]'
+- '[[DATABASE/trait/Unique|Unique]]'
+type: Creature
+vision: Low-light vision
+weakest_save:
+- Fortitude
+weakness: null
+will: '+21'
+wisdom: '+4'
+
+---
+# Keznin Nevarmo
+
+This creature did not include a description.
+**Recall Knowledge - Humanoid ([[Society]])**: DC 36
+**Unspecific Lore**: DC 34
+**Specific Lore**: DC 31
+
+# Keznin Nevarmo<span class="item-type">Creature 9</span>
+
+<span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Humanoid</span><span class="item-trait">Tengu</span>
+**Source** [[Night of the Gray Death]]
+Male tengu herbalist
+**Perception** +18; [[Low-Light Vision]]
+**Languages** [[Common]], [[Elven]], [[Tengu]]
+**Skills** [[Diplomacy]] +18, [[Medicine]] +17, [[Nature]] +21, [[Religion]] +17, [[Society]] +19, [[Survival]] +17
+**Str** +0, **Dex** +3, **Con** +0, **Int** +4, **Wis** +4, **Cha** +3
+**Expert Herbalist** Keznin can use Nature instead of Medicine to [[Treat Disease]], [[Treat Poison]], and [[Treat Wounds]], and he can use Nature instead of Crafting to craft alchemical items with the healing trait, [[Antidote]], and [[Antiplague]].
+**Items** [[Antidote]], [[Antiplague]], [[Elixir of Life]], [[Healer's Tools]], [[Religious Symbol]] of [[Pharasma]]
+
+---
+**AC** 26; **Fort** +15, **Ref** +18, **Will** +21
+**HP** 150
+
+---
+**Speed** 25 feet
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> beak +19 [+14/+9] (finesse, unarmed), **Damage** 1d6+4 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> staff +16 [+11/+6] (magical, two-hand d8), **Damage** 1d4+4 bludgeoning</span><span class="in-box-ability">**Risky Treatment** <span class="action-icon">5</span> (concentrate, fortune, manipulate) **Trigger** Keznin rolls a critical failure on a check to [[Treat Disease]], [[Treat Poison]], or [[Treat Wounds]]; **Effect** Keznin gives an emergency application of dangerous herbs to avert further harm. The creature Keznin is treating takes 2d6 poison damage, and Keznin rerolls the check.</span>

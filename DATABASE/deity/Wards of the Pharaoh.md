@@ -1,0 +1,58 @@
+﻿---
+ability:
+- Constitution
+- Intelligence
+ability_boost:
+- Constitution
+- Intelligence
+alignment: NG
+deity:
+- '[[DATABASE/deity/Wards of the Pharaoh|Wards of the Pharaoh]]'
+- '[[DATABASE/deity/Isis|Isis]]'
+- '[[DATABASE/deity/Nethys|Nethys]]'
+- '[[DATABASE/deity/Selket|Selket]]'
+- '[[DATABASE/deity/Thoth|Thoth]]'
+deity_category: Pantheons
+divine_font: Harm or Heal
+domain:
+- '[[DATABASE/domain/Family Domain|Family]]'
+- '[[DATABASE/domain/Glyph Domain|Glyph]]'
+- '[[DATABASE/domain/Healing Domain|Healing]]'
+- '[[DATABASE/domain/Knowledge Domain|Knowledge]]'
+- '[[DATABASE/domain/Magic Domain|Magic]]'
+- '[[DATABASE/domain/Protection Domain|Protection]]'
+favored_weapon: '[[DATABASE/weapon/Staff|Staff]]'
+follower_alignment:
+- LN
+- NG
+- N
+- CG
+id: '208'
+name: Wards of the Pharaoh
+rarity: Common
+skill:
+- '[[DATABASE/skill/Medicine|Medicine]]'
+source: '[[DATABASE/source/Friends in High Places|Friends in High Places]]'
+trait: null
+type: Deity
+
+---
+# Wards of the Pharaoh [NG]
+
+**Source** [[Friends in High Places]]
+**Category** Pantheons
+**Edicts** Use magic to defend yourself and your allies, maintain magical wards, seek greater magical knowledge
+**Anathema** Destroy wards that are actively protecting innocents, refuse to use your magic to help those in need who ask you
+**Areas of Concern** Abjuration magic, protection, self-improvement
+**Follower Alignments** NG, CG, LN, N
+**Pantheon Members** [[Isis]], [[Nethys]], [[Selket]], [[Thoth]]
+
+## Devotee Benefits
+
+**[[Raised by Belief]]** Constitution or Intelligence
+**Divine Font** _[[Harm]]_ or _[[Heal]]_
+**Divine Skill** [[Medicine]]
+**Favored Weapon** [[Staff]]
+**Domains** [[Family Domain]], [[Knowledge Domain]], [[Magic Domain]], [[Protection Domain]]
+**Alternate Domains** [[Glyph Domain]], [[Healing Domain]]
+**Cleric Spells** 1st: _[[Soothe]]_, 4th: _[[Resilient Sphere]]_, 9th: _[[Disjunction]]_

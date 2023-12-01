@@ -1,0 +1,66 @@
+﻿---
+ac: null
+actions: '[two-actions]'
+alignment: null
+base_item: null
+bulk: L
+burrow_speed: null
+climb_speed: null
+damage: null
+deity: null
+duration: null
+element: null
+favored_weapon: null
+fly_speed: null
+fortitude: null
+frequency: null
+hands: null
+hardness: null
+hp: null
+id: '1802'
+item_category: Alchemical Items
+item_subcategory: Alchemical Tools
+land_speed: null
+level: '7'
+max_speed: null
+name: Condensed Mana
+onset: null
+price: 69 gp
+range: null
+rarity: Rare
+reflex: null
+requirement: null
+resistance: null
+saving_throw: null
+school: null
+size: null
+source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
+spell: null
+stage: null
+subcategory: alchemical/tool
+swim_speed: null
+trait:
+- '[[DATABASE/trait/Alchemical|Alchemical]]'
+- '[[DATABASE/trait/Consumable|Consumable]]'
+- '[[DATABASE/trait/Rare|Rare]]'
+trigger: null
+type: Item
+usage: held in 1 hand
+weapon_category: null
+weapon_group: null
+weapon_type: null
+
+---
+# Condensed Mana<span class="item-type">Item 7</span>
+
+<span class="trait-rare item-trait">Rare</span><span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span>
+**Source** [[Impossible Lands]]
+**Price** 69 gp
+**Usage** held in 1 hand; **Bulk** L
+**Activate** <span class="action-icon">2</span> Strike
+
+---
+Condensed mana is a crystal vial filled with concentrated miasma from the Mana Wastes. The colors shift abruptly and unpredictably within and the opening of the bottle is sealed tighter than any other potion or alchemical item, emphasizing its dangers.
+ On a successful Strike, the creature takes 1 force damage. Then, roll on the Wellspring Surge table. The result affects all creatures within the emanation indiscriminately. For the purpose of determining the effects of the surge, use a spell level of 4 and a DC of 23. The person Striking with this vial is considered to be the caster for the purposes of determining effects on the Mana Surge table. The emanation is centered on the target's space, and both the caster and the target of the wellspring surge are the target of the condensed mana. On a failed Strike, the surge only has an effect if it would normally affect an area; if you roll an effect that depends on a caster or a target, nothing happens. If the effect normally doesn't have a DC, creatures affected by the surge or within the surge's area must attempt a DC 23 Reflex save instead. On a critical failure on any saving throw against condensed mana, the creature is stunned 1 by the wild energies of the surge.
+ Sometimes a wellspring surge's effects make it difficult to determine exactly who is affected. The GM makes the determination, basing it on creatures directly affected; for example, while many creatures can hear the music from the surge “strike up the band,” only the creature emanating the music is directly affected by it.
+**Craft Requirements** You must be in or adjacent to an area of Mana Wastes miasma.

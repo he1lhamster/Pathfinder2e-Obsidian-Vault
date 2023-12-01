@@ -1,0 +1,68 @@
+﻿---
+ac: null
+actions: null
+alignment: null
+base_item: null
+bulk: null
+burrow_speed: null
+climb_speed: null
+damage: null
+deity: null
+duration: null
+element: null
+favored_weapon: null
+fly_speed: null
+fortitude: null
+frequency: null
+hands: null
+hardness: null
+hp: null
+id: '344'
+item_category: Snares
+item_subcategory: null
+land_speed: null
+level: '4'
+max_speed: null
+name: Stalker Bane Snare
+onset: null
+price: 15 gp
+range: null
+rarity: Uncommon
+reflex: null
+requirement: null
+resistance: null
+saving_throw: null
+school: null
+size: null
+source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
+spell: null
+stage: null
+subcategory: snare
+swim_speed: null
+trait:
+- '[[DATABASE/trait/Consumable|Consumable]]'
+- '[[DATABASE/trait/Mechanical|Mechanical]]'
+- '[[DATABASE/trait/Snare|Snare]]'
+- '[[DATABASE/trait/Trap|Trap]]'
+- '[[DATABASE/trait/Uncommon|Uncommon]]'
+trigger: null
+type: Item
+usage: null
+weapon_category: null
+weapon_group: null
+weapon_type: null
+
+---
+# Stalker Bane Snare<span class="item-type">Item 4</span>
+
+<span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Consumable</span><span class="item-trait">Mechanical</span><span class="item-trait">Snare</span><span class="item-trait">Trap</span>
+**Source** [[Core Rulebook]] 
+**Price** 15 gp
+**Bulk** —
+
+---
+This snare explodes in a burst of cloying powder that can cling to a creature stepping into its square. A creature that enters the square of a stalker bane snare must attempt a DC 20 Reflex save. 
+**Critical Success** The target is unaffected.
+**Success** Powder sticks to the target, causing it to leave behind telltale footprints. Being invisible makes the target hidden, rather than undetected, to creatures that could see it if it weren’t invisible.
+**Failure** Powder clumps on the target, constantly flaking away. Being invisible makes the target concealed, rather than hidden or undetected, to creatures that could see it if it weren’t invisible.
+**Critical Failure** As failure, and the creature is blinded until the end of its next turn.

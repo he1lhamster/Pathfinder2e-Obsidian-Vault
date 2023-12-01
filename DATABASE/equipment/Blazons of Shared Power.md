@@ -1,0 +1,72 @@
+﻿---
+ac: null
+actions: null
+alignment: null
+base_item: null
+bulk: null
+burrow_speed: null
+climb_speed: null
+damage: null
+deity: null
+duration: null
+element: null
+favored_weapon: null
+fly_speed: null
+fortitude: null
+frequency: null
+hands: null
+hardness: null
+hp: null
+id: '1221'
+item_category: Worn Items
+item_subcategory: Other Worn Items
+land_speed: null
+level: '11'
+max_speed: null
+name: Blazons of Shared Power
+onset: null
+price: 1,350 gp
+range: null
+rarity: Common
+reflex: null
+requirement: null
+resistance: null
+saving_throw: null
+school: Evocation
+size: null
+source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
+spell: null
+stage: null
+subcategory: wornitem
+swim_speed: null
+trait:
+- '[[DATABASE/trait/Evocation|Evocation]]'
+- '[[DATABASE/trait/Invested|Invested]]'
+- '[[DATABASE/trait/Magical|Magical]]'
+trigger: null
+type: Item
+usage: worn and attached to two weapons (see below)
+weapon_category: null
+weapon_group: null
+weapon_type: null
+
+---
+# Blazons of Shared Power<span class="item-type">Item 3+</span>
+
+<span class="item-trait">Evocation</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span>
+**Source** [[Guns & Gears]]
+**Usage** worn and attached to two weapons (see below); **Bulk** —
+
+---
+These brass emblems come in a variety of designs, usually customized to the purchaser to reflect the heraldry of a family or guild. _Blazons of shared power_ come in sets of three. When you invest the blazons, you wear one of the three on your chest, and you attach the others to a pair of one-handed weapons, choosing one as the primary weapon and one as the secondary weapon. These weapons can be either melee weapons or ranged weapons. As long as you're wielding both the primary weapon and the secondary weapon, the secondary weapon gains the benefit of the fundamental runes on the primary weapon. A weapon can only have a single blazon of shared power attached to it at a time.
+
+## Blazons of Shared Power<span class="item-type">Item 3</span>
+
+**Source** [[Guns & Gears]]
+**Price** 52 gp
+
+## Blazons of Shared Power (Greater)<span class="item-type">Item 11</span>
+
+**Source** [[Guns & Gears]]
+**Price** 1,350 gp
+A set of _greater blazons of shared power_ also replicates property runes from the primary weapon, so long as the secondary weapon meets all the prerequisites for a given rune and isn't a specific weapon. The secondary weapon gains the benefits of those runes. All of its own runes are suppressed. When you invest the blazons, you can elect for them to transfer only fundamental runes, in which case they function as standard _blazons of shared power_.

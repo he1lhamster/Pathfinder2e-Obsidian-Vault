@@ -1,0 +1,38 @@
+﻿---
+actions: '[one-action]'
+cost: null
+element: null
+feat: Twin Takedown
+frequency: once per round
+heighten_level: null
+id: '494'
+level: '1'
+name: Twin Takedown
+prerequisite: null
+rarity: Common
+requirement: You are wielding two melee weapons, each in a different hand.
+school: null
+source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
+subcategory: null
+trait:
+- '[[DATABASE/trait/Flourish|Flourish]]'
+- '[[DATABASE/trait/Ranger|Ranger]]'
+trigger: null
+type: Feat
+
+---
+# Twin Takedown <span class="action-icon">1</span> <span class="item-type">Feat 1</span>
+
+<span class="item-trait">Flourish</span><span class="item-trait">Ranger</span>
+**Source** [[Core Rulebook]] 
+**Frequency** once per round
+**Requirements** You are wielding two melee weapons, each in a different hand.
+
+---
+You swiftly attack your hunted prey with both weapons. Make two Strikes against your hunted prey, one with each of the required weapons. If both hit the same hunted prey, combine their damage for the purpose of its resistances and weaknesses. Apply your multiple attack penalty to each Strike normally.
+
+## Traits
+
+**Flourish:**
+
+Flourish actions are actions that require too much exertion to perform a large number in a row. You can use only 1 action with the flourish trait per turn.

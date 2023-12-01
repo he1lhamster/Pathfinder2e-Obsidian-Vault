@@ -1,0 +1,14 @@
+{
+  "accentColor": "#841022",
+  "theme": "moonstone",
+  "cssTheme": "",
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "Roboto",
+    "FFGoodProCond",
+    "styles",
+    "supercharged-links-gen"
+  ],
+  "nativeMenus": true,
+  "baseFontSizeAction": false
+}

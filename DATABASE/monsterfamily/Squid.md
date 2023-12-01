@@ -1,0 +1,18 @@
+﻿---
+creature_family: Squid
+id: '155'
+name: Squid
+rarity: Common
+source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
+trait: null
+type: Creature Family
+
+---
+# Squid
+
+**Source** [[Bestiary 2]] 
+The unusual shape of these swift, voracious predators has prompted many a nautical tale.
+
+### Members
+
+[[Giant Squid]] (Creature 9), [[Vampire Squid]] (Creature 0)

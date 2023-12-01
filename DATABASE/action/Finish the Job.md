@@ -1,0 +1,27 @@
+﻿---
+actions: '[one-action]'
+cost: null
+element: null
+frequency: null
+id: '908'
+name: Finish the Job
+rarity: Common
+requirement: On your last action, you failed (but didn't critically fail) a Strike
+  with a firearm or crossbowyou're holding in one hand, and your other hand is either
+  wielding a melee weapon or empty.
+school: null
+source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
+trait:
+- '[[DATABASE/trait/Gunslinger|Gunslinger]]'
+trigger: null
+type: Action
+
+---
+# Finish the Job <span class="action-icon">1</span>
+
+<span class="item-trait">Gunslinger</span>
+**Source** [[Guns & Gears]]
+**Requirements** On your last action, you failed (but didn't critically fail) a Strike with a firearm or crossbow you're holding in one hand, and your other hand is either wielding a melee weapon or empty.
+
+---
+Your last attack failed, but it set you up for another. Make a Strike with your other hand, using a one-handed melee weapon or unarmed attack. This Strike uses the same multiple attack penalty as the Strike that failed on the last action. Afterward, increase your multiple attack penalty normally.
