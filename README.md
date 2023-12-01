@@ -23,10 +23,10 @@ It's greatly recommended to install community plugin [Dataview](https://obsidian
 ## Other Obsidian plugins for TTRPG
 You can use Obsidian for your TTRPG notes, however it required some efforts and preparations beforehand. Below you can find some Obsidian community plugins which i found very helpful for taking notes.
 
-1. [Templater](obsidian://show-plugin?id=templater-obsidian)
+1. [Templater](https://obsidian.md/plugins?id=templater-obsidian)
 	Create your own templates for specific pages, for PC, NPC, quests, locations e.t.c. This allow you to quickly create pages according to a given template and properties in YAML format.
 	![example of templater](https://github.com/he1lhamster/Pathfinder2e-Obsidian-Vault/blob/main/img/templater_example.png)
-1.  [Obsidian Leaflet](obsidian://show-plugin?id=obsidian-leaflet-plugin)
+1.  [Obsidian Leaflet](https://obsidian.md/plugins?id=obsidian-leaflet-plugin)
 	Allow you to create intercactive maps with your own custom marks, notes and links
 	![example of PC page](https://github.com/he1lhamster/Pathfinder2e-Obsidian-Vault/blob/main/img/leaflet_example.png)
 
