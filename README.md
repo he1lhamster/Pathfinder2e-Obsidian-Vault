@@ -4,7 +4,7 @@ This is an [Obsidian](https://obsidian.md/) vault with (almost) full database fo
 
 ## What's inside?
 All items stored in _DATABASE_ folder, sorted by type and located in corresponding folders. All pages have properties in the YAML format which can be used with different plugins (see example with 'Dataview' plugin below), you can change YAML visibility via '_Settings -> Editor -> Properties in document_'. Item pages have cross links to each other facilitating easy navigation.
-![example of item](https://github.com/he1lhamster/Pathfinder2e-Obsidian-Vault/blob/main/img/item_example.png)
+![example of item](https://github.com/he1lhamster/Pathfinder2e-Obsidian-Vault/blob/main/img/Item_example.png)
 ![yaml properties](https://github.com/he1lhamster/Pathfinder2e-Obsidian-Vault/blob/main/img/YAML_properties.png)
 ### Styles and fonts
 
