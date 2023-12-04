@@ -77,25 +77,25 @@ wisdom: '+3'
 # Starved Staff
 
 This creature did not include a description.
-**Recall Knowledge - Undead ([[Religion]])**: DC 42
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 42
 **Unspecific Lore**: DC 40
 **Specific Lore**: DC 37
 
 # Starved Staff<span class="item-type">Creature 14</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Huge</span><span class="item-trait">Undead</span>
-**Source** [[Pathfinder 154. Siege of the Dinosaurs]]
-Elite [[Gashadokuro]]
-**Perception** +26; [[Darkvision]]
-**Languages** [[Common]]; (can't speak any language)
-**Skills** [[Athletics]] +29, [[Intimidation]] +26
+**Source** [[DATABASE/source/Pathfinder 154. Siege of the Dinosaurs|Pathfinder #154: Siege of the Dinosaurs]]
+Elite [[DATABASE/monster/Gashadokuro|gashadokuro]]
+**Perception** +26; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]]; (can't speak any language)
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +29, [[DATABASE/skill/Intimidation|Intimidation]] +26
 **Str** +8, **Dex** +4, **Con** +5, **Int** -3, **Wis** +3, **Cha** +3
 
 ---
 **AC** 32; **Fort** +24, **Ref** +16, **Will** +21
-**HP** 250 ([[Negative Healing]]); **Immunities** death effects, disease, [[Paralyzed]], poison, [[Unconscious]]; **Resistances** cold 10, electricity 10, fire 10, piercing 10, slashing 10
-<span class="in-box-ability">**Starvation Aura** (aura, divine, mental, necromancy) 60 feet. Any creature that ends its turn in the aura feels the intense pain of starvation and must attempt a DC 32 Fortitude save. On a failure, the creature becomes [[Fatigued]] and takes 7d6 damage. The damage and fatigue a creature takes from this aura can't be healed until the affected creature has eaten a full meal.</span>
+**HP** 250 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects, disease, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Unconscious|unconscious]]; **Resistances** cold 10, electricity 10, fire 10, piercing 10, slashing 10
+<span class="in-box-ability">**Starvation Aura** (aura, divine, mental, necromancy) 60 feet. Any creature that ends its turn in the aura feels the intense pain of starvation and must attempt a DC 32 Fortitude save. On a failure, the creature becomes [[DATABASE/condition/Fatigued|fatigued]] and takes 7d6 damage. The damage and fatigue a creature takes from this aura can't be healed until the affected creature has eaten a full meal.</span>
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +29 [+24/+19] (reach 10 feet), **Damage** 3d12+16 piercing plus [[Grab]]</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +29 [+25/+21] (agile, reach 15 feet), **Damage** 3d8+16 slashing</span><span class="in-box-ability">**Breath Weapon** <span class="action-icon">2</span> (divine, necromancy) The gashadokuro breathes a spray of bone shards in a 30-foot cone. Each creature in the area takes 9d12 piercing damage (DC 36 basic Reflex save). It can't use Breath Weapon again for 1d4 rounds.</span><span class="in-box-ability">**Corpse Consumption** (divine, necromancy) If the gashadokuro kills a creature with Swallow Whole, it immediately regains Hit Points equal to the swallowed creature's level. As long as the gashadokuro still exists, creatures consumed in this way can't be resurrected except by [[Wish]] or a similarly powerful effect.</span><span class="in-box-ability">**[[Swallow Whole]]** <span class="action-icon">1</span> (attack) Large, 3d10 bludgeoning, Rupture 26</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +29 [+24/+19] (reach 10 feet), **Damage** 3d12+16 piercing plus [[DATABASE/monsterability/Grab|Grab]]</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +29 [+25/+21] (agile, reach 15 feet), **Damage** 3d8+16 slashing</span><span class="in-box-ability">**Breath Weapon** <span class="action-icon">2</span> (divine, necromancy) The gashadokuro breathes a spray of bone shards in a 30-foot cone. Each creature in the area takes 9d12 piercing damage (DC 36 basic Reflex save). It can't use Breath Weapon again for 1d4 rounds.</span><span class="in-box-ability">**Corpse Consumption** (divine, necromancy) If the gashadokuro kills a creature with Swallow Whole, it immediately regains Hit Points equal to the swallowed creature's level. As long as the gashadokuro still exists, creatures consumed in this way can't be resurrected except by [[DATABASE/spell/Wish|wish]] or a similarly powerful effect.</span><span class="in-box-ability">**[[DATABASE/monsterability/Swallow Whole|Swallow Whole]]** <span class="action-icon">1</span> (attack) Large, 3d10 bludgeoning, Rupture 26</span>

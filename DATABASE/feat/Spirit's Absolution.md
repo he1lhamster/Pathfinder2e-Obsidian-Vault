@@ -11,6 +11,7 @@ name: Spirit's Absolution
 prerequisite: '[[DATABASE/feat/Exorcist Dedication|Exorcist Dedication]]'
 rarity: Common
 requirement: You are holding yourspirit dwelling.
+rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 subcategory: null
@@ -26,10 +27,10 @@ type: Feat
 # Spirit's Absolution <span class="action-icon">1</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Healing</span><span class="item-trait">Necromancy</span><span class="item-trait">Positive</span>
-**Source** [[Book of the Dead]]
-**Archetype** [[Exorcist]]
+**Source** [[DATABASE/source/Book of the Dead|Book of the Dead]]
+**Archetype** [[DATABASE/archetype/Exorcist|Exorcist]]
 **Cost** 1 spirit wisp or spirit remnant from your _spirit dwelling_
-**Prerequisites** [[Exorcist Dedication]]
+**Prerequisites** [[DATABASE/feat/Exorcist Dedication|Exorcist Dedication]]
 **Requirements** You are holding your _spirit dwelling_.
 
 ---
@@ -51,4 +52,4 @@ Effects and magic items with this trait are associated with the necromancy schoo
 
 **Positive:**
 
-Effects with this trait heal living creatures with positive energy, deal positive energy damage to undead, or manipulate positive energy. Planes with this trait are awash with life energy of such intensity that it can harm living creatures. Creatures with this trait are natives of the [[Positive Energy Plane]]. They can survive the basic environmental effects of the Positive Energy Plane.
+Effects with this trait heal living creatures with positive energy, deal positive energy damage to undead, or manipulate positive energy. Planes with this trait are awash with life energy of such intensity that it can harm living creatures. Creatures with this trait are natives of the [[DATABASE/plane/Positive Energy Plane|Positive Energy Plane]]. They can survive the basic environmental effects of the Positive Energy Plane.

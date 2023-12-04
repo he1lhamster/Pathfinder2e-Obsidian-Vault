@@ -92,27 +92,27 @@ wisdom: '-1'
 # Dero Magister
 
 Dero magisters are leaders among dero society. They perform the bulk of the cruel operations and memory-altering procedures inflicted upon their victims.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 22
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 22
 **Unspecific Lore**: DC 20
 **Specific Lore**: DC 17
 
 # Dero Magister<span class="item-type">Creature 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Small</span><span class="item-trait">Dero</span><span class="item-trait">Humanoid</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +8; darkvision
-**Languages** [[Aklo]], [[Undercommon]]
-**Skills** [[Crafting]] +12, [[Medicine]] +8, [[Occultism]] +12, [[Stealth]] +11
+**Languages** [[DATABASE/language/Aklo|Aklo]], [[DATABASE/language/Undercommon|Undercommon]]
+**Skills** [[DATABASE/skill/Crafting|Crafting]] +12, [[DATABASE/skill/Medicine|Medicine]] +8, [[DATABASE/skill/Occultism|Occultism]] +12, [[DATABASE/skill/Stealth|Stealth]] +11
 **Str** +1, **Dex** +4, **Con** +2, **Int** +3, **Wis** -1, **Cha** +5
-**Items** [[Aklys]]
+**Items** [[DATABASE/weapon/Aklys|aklys]]
 
 ---
 **AC** 22; **Fort** +10, **Ref** +13, **Will** +10
-**HP** 65; **Immunities** [[Confused]]; **Weaknesses** vulnerable to sunlight
+**HP** 65; **Immunities** [[DATABASE/condition/Confused|confusion]]; **Weaknesses** vulnerable to sunlight
 <span class="in-box-ability">**Vulnerable to Sunlight** A dero magister takes 10 damage for every hour they're exposed to sunlight.</span>
 
 ---
 **Speed** 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> aklys +10 [+5/+0] (trip), **Damage** 1d6+3 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> aklys +13 [+8/+3] (ranged trip, tethered, thrown 20 feet), **Damage** 1d6+3 bludgeoning</span>**Occult Innate Spells** DC 24; **4th** _[[Modify Memory]]_; **2nd** _[[Darkness]]_ (at will), _[[Sound Burst]]_; **Cantrips** **(1st)** _[[Daze]]_, _[[Ghost Sound]]_
-**Occult Spontaneous Spells** DC 24; **3rd** _[[Blindness]]_, _[[Vampiric Touch]]_ (3 slots); **2nd** _[[Hideous Laughter]]_, _[[Paranoia]]_, _[[Spectral Hand]]_, _[[Touch of Idiocy]]_ (4 slots); **1st** _[[Grim Tendrils]]_, _[[Magic Missile]]_, _[[Phantom Pain]]_, _[[Soothe]]_ (4 slots); **Cantrips** **(3rd)** _[[Chill Touch]]_, _[[Dancing Lights]]_, _[[Detect Magic]]_, _[[Forbidding Ward]]_, _[[Message]]_
-<span class="in-box-ability">**Cytillesh Stare** <span class="action-icon">1</span> (concentrate, incapacitation, mental, visual) **Frequency** once per round; **Effect** The magister focuses their gaze on a creature they can see within 30 feet. The target is [[Dazzled]] for 1 round and must succeed at a DC 24 Will saving throw or be [[Confused]] for 1 round.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> aklys +10 [+5/+0] (trip), **Damage** 1d6+3 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> aklys +13 [+8/+3] (ranged trip, tethered, thrown 20 feet), **Damage** 1d6+3 bludgeoning</span>**Occult Innate Spells** DC 24; **4th** _[[DATABASE/spell/Modify Memory|modify memory]]_; **2nd** _[[DATABASE/spell/Darkness|darkness]]_ (at will), _[[DATABASE/spell/Sound Burst|sound burst]]_; **Cantrips** **(1st)** _[[DATABASE/spell/Daze|daze]]_, _[[DATABASE/spell/Ghost Sound|ghost sound]]_
+**Occult Spontaneous Spells** DC 24; **3rd** _[[DATABASE/spell/Blindness|blindness]]_, _[[DATABASE/spell/Vampiric Touch|vampiric touch]]_ (3 slots); **2nd** _[[DATABASE/spell/Hideous Laughter|hideous laughter]]_, _[[DATABASE/spell/Paranoia|paranoia]]_, _[[DATABASE/spell/Spectral Hand|spectral hand]]_, _[[DATABASE/spell/Touch of Idiocy|touch of idiocy]]_ (4 slots); **1st** _[[DATABASE/spell/Grim Tendrils|grim tendrils]]_, _[[DATABASE/spell/Magic Missile|magic missile]]_, _[[DATABASE/spell/Phantom Pain|phantom pain]]_, _[[DATABASE/spell/Soothe|soothe]]_ (4 slots); **Cantrips** **(3rd)** _[[DATABASE/spell/Chill Touch|chill touch]]_, _[[DATABASE/spell/Dancing Lights|dancing lights]]_, _[[DATABASE/spell/Detect Magic|detect magic]]_, _[[DATABASE/spell/Forbidding Ward|forbidding ward]]_, _[[DATABASE/spell/Message|message]]_
+<span class="in-box-ability">**Cytillesh Stare** <span class="action-icon">1</span> (concentrate, incapacitation, mental, visual) **Frequency** once per round; **Effect** The magister focuses their gaze on a creature they can see within 30 feet. The target is [[DATABASE/condition/Dazzled|dazzled]] for 1 round and must succeed at a DC 24 Will saving throw or be [[DATABASE/condition/Confused|confused]] for 1 round.</span>

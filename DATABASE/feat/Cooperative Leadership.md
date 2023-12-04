@@ -11,6 +11,7 @@ name: Cooperative Leadership
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 subcategory: null
@@ -24,10 +25,10 @@ type: Feat
 # Cooperative Leadership <span class="item-type">Feat 1</span>
 
 <span class="item-trait">General</span><span class="item-trait">Kingdom</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 
 ---
-Your leaders are skilled at working with one another. When a leader uses the [[Focused Attention]] kingdom activity to aid another leader's kingdom check, the circumstance bonus granted by a success is increased to +3.
+Your leaders are skilled at working with one another. When a leader uses the [[DATABASE/action/Focused Attention|Focused Attention]] kingdom activity to aid another leader's kingdom check, the circumstance bonus granted by a success is increased to +3.
  At 11th level, your leaders' collaborative style leads them to ever greater successes when they work together. When a leader uses the Focused Attention kingdom activity to aid another leader's check, treat a critical failure on the aided check as a failure. If your kingdom has at least the expert rank in the skill used in the aided check, treat a failure on the check as a success. (This does not allow you to ever improve a critical failure to a success.)
 
 ## Traits

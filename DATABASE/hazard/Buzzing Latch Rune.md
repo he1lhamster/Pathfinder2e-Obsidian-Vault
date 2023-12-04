@@ -17,6 +17,7 @@ name: Buzzing Latch Rune
 rarity: Common
 reflex: '+19'
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 154. Siege of the Dinosaurs|Pathfinder #154:
   Siege of the Dinosaurs]]'
@@ -33,18 +34,18 @@ will: null
 # Buzzing Latch Rune<span class="item-type">Hazard 13</span>
 
 <span class="item-trait">Electricity</span><span class="item-trait">Magical</span><span class="item-trait">Sonic</span><span class="item-trait">Trap</span>
-**Source** [[Pathfinder 154. Siege of the Dinosaurs]]
+**Source** [[DATABASE/source/Pathfinder 154. Siege of the Dinosaurs|Pathfinder #154: Siege of the Dinosaurs]]
 **Complexity** Simple
 **Stealth** DC 32 (master)
 **Description** An invisible rune on the door begins emitting a very loud buzzing sound, potentially paralyzing an intruder.
 
 ---
-**Disable** DC 34 [[Thievery]] (master) to disrupt the rune without triggering it or [[Dispel Magic]] (6th level; counteract DC 31) to magically counteract the rune
+**Disable** DC 34 [[DATABASE/skill/Thievery|Thievery]] (master) to disrupt the rune without triggering it or [[DATABASE/spell/Dispel Magic|dispel magic]] (6th level; counteract DC 31) to magically counteract the rune
 **AC** 33, **Fort** +25, **Ref** +19
 **Hardness** 21, **HP** 84 (BT 42); **Immunities** critical hits, object immunities, precision damage
 **Jolting Buzz** <span class="action-icon">5</span> (electricity, evocation, primal, sonic) **Trigger** A creature attempts to open the door without using the key; **Effect** The trap makes a loud buzz and deals 5d10 electricity damage and 5d10 sonic damage to the triggering creature (DC 32 basic Reflex save; this save applies to both the electricity damage and the sonic damage). Further, the creature must attempt a DC 32 Fortitude save.
 **Critical Success** No effect.
-**Success** The target is [[Paralyzed]] for 1 round.
+**Success** The target is [[DATABASE/condition/Paralyzed|paralyzed]] for 1 round.
 **Failure** The target is paralyzed for 1d4 rounds. At the end of each of its turns, it can attempt a new DC 32 Fortitude save to reduce the remaining duration by 1 round, or end it entirely on a critical success.
 **Critical Failure** The target is paralyzed for 1 minute. At the end of each of its turns, it can attempt a new Fortitude save to reduce the remaining duration by 1 round, or end it entirely on a critical success.
 

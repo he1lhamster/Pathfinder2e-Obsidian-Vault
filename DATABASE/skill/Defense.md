@@ -4,6 +4,7 @@ ability_boost: null
 id: '21'
 name: Defense
 rarity: Common
+rus_type_level: null
 skill:
 - Defense
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
@@ -13,10 +14,10 @@ type: Skill
 ---
 # Defense (Stability)
 
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 Defense measures the kingdom’s ability to police and protect itself and its citizens from bandits, monsters, criminals, outside incursions, and pestilence or plague, but not natural disasters (see Wilderness on page 530). It includes both physical fortifications and barriers as well as dedicated individuals guarding the land.
 
-* **[[Focused Attention]]**
+* **[[DATABASE/generalskillaction/Focused Attention|Focused Attention]]**
 
 ### Related Feats
 
@@ -24,10 +25,10 @@ To see a list of Feats related to Defense, click here.
 
 # Defense Untrained Actions
 
-## [[Fortify Hex]]
+## [[DATABASE/action/Fortify Hex|Fortify Hex]]
 
 <span class="item-trait">Downtime</span><span class="item-trait">Region</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 **Requirements** The target hex must be claimed by your kingdom and must not have a settlement in it.
 
 ---
@@ -37,10 +38,10 @@ Your command your engineers to construct a protected encampment, such as a fort 
 **Failure** You fail to fortify the hex.
 **Critical Failure** Your attempt ends in disaster. Not only do you fail to build a structure, but you lose several workers to an accident, banditry, a vicious monster, or some other unforeseen occurrence. Gain 1 Unrest.
 
-## [[Provide Care]]
+## [[DATABASE/action/Provide Care|Provide Care]]
 
 <span class="item-trait">Downtime</span><span class="item-trait">Leadership</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 
 ---
 Attempt a basic check to organize and encourage your settlements' healers, apothecaries, medics, and other caregivers to provide care and support for citizens in need.

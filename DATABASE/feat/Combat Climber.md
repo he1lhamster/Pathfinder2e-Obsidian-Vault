@@ -11,6 +11,7 @@ name: Combat Climber
 prerequisite: Trained in [[DATABASE/skill/Athletics|Athletics]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: athletics
@@ -24,8 +25,8 @@ type: Feat
 # Combat Climber <span class="item-type">Feat 1</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** trained in [[Athletics]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** trained in [[DATABASE/skill/Athletics|Athletics]]
 
 ---
 Your techniques allow you to fight as you climb. You’re not flat-footed while Climbing and can Climb with a hand occupied. You must still use another hand and both legs to Climb.

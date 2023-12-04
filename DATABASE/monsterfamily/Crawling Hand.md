@@ -3,6 +3,7 @@ creature_family: Crawling Hand
 id: '130'
 name: Crawling Hand
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Crawling Hand
 
-**Source** [[Bestiary 2]] 
-Typically, crawling hands are formed when severed appendages are endowed with a crude sentience by evil necromantic energies that turn them into tireless killers. Yet crawling hands can also arise spontaneously, usually when a creature loses an appendage in a place rife with necromantic energy or with a connection to the [[Negative Energy Plane]].
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+Typically, crawling hands are formed when severed appendages are endowed with a crude sentience by evil necromantic energies that turn them into tireless killers. Yet crawling hands can also arise spontaneously, usually when a creature loses an appendage in a place rife with necromantic energy or with a connection to the [[DATABASE/plane/Negative Energy Plane|Negative Energy Plane]].
 
 ### Members
 
-[[Crawling Hand]] (Creature -1), [[Giant Crawling Hand]] (Creature 5)
+[[DATABASE/monster/Crawling Hand|Crawling Hand]] (Creature -1), [[DATABASE/monster/Giant Crawling Hand|Giant Crawling Hand]] (Creature 5)
 
 ###  Crawling Hand Origins
 

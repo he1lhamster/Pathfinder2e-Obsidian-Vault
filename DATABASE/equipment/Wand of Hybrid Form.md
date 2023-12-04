@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -56,7 +57,7 @@ weapon_type: null
 # Wand of Hybrid Form<span class="item-type">Item 6+</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Magical</span><span class="item-trait">Polymorph</span><span class="item-trait">Transmutation</span><span class="item-trait">Wand</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Usage** held in 1 hand; **Bulk** L
 
 ---
@@ -66,48 +67,48 @@ The grain of this simple wooden wand forms shifting images of sharp claws, snapp
 
 ## Wand of Hybrid Form (2nd-Level Spell)<span class="item-type">Item 6</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 200 gp
 **Bulk** L
 
 ## Wand of Hybrid Form (3rd-Level Spell)<span class="item-type">Item 8</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 450 gp
 **Bulk** L
 
 ## Wand of Hybrid Form (4th-Level Spell)<span class="item-type">Item 10</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 850 gp
 **Bulk** L
 
 ## Wand of Hybrid Form (5th-Level Spell)<span class="item-type">Item 12</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 1,750 gp
 **Bulk** L
 
 ## Wand of Hybrid Form (6th-Level Spell)<span class="item-type">Item 14</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 3,750 gp
 **Bulk** L
 
 ## Wand of Hybrid Form (7th-Level Spell)<span class="item-type">Item 16</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 8,000 gp
 **Bulk** L
 
 ## Wand of Hybrid Form (8th-Level Spell)<span class="item-type">Item 18</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 19,000 gp
 **Bulk** L
 
 ## Wand of Hybrid Form (9th-Level Spell)<span class="item-type">Item 20</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 55,000 gp
 **Bulk** L

@@ -73,16 +73,16 @@ wisdom: '+2'
 
 Wolves live and hunt in packs, which, contrary to popular belief, are not led by the strongest in the group, but typically consist of a mated pair, their pups, and juvenile offspring from previous mating seasons. Offspring generally leave their parents’ pack upon reaching maturity, at which point they seek out mates of their own to go form their own packs elsewhere.
  Humanoids are not traditionally viewed as prey animals by wolves, but extraordinary circumstances can lead these animals to attack people, especially in winter months and other situations where traditional prey (deer and elk, mainly) is scarce. Some beings, such as powerful vampires, can call upon wolves to aid them in combat.
-**Recall Knowledge - Animal ([[Nature]])**: DC 15
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Wolf<span class="item-type">Creature 1</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +7; low-light vision, scent (imprecise) 30 feet
-**Skills** [[Acrobatics]] +7, [[Athletics]] +5, [[Stealth]] +7, [[Survival]] +7
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +7, [[DATABASE/skill/Athletics|Athletics]] +5, [[DATABASE/skill/Stealth|Stealth]] +7, [[DATABASE/skill/Survival|Survival]] +7
 **Str** +2, **Dex** +4, **Con** +1, **Int** -4, **Wis** +2, **Cha** -2
 
 ---

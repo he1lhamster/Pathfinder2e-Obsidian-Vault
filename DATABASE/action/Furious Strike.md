@@ -7,6 +7,7 @@ id: '760'
 name: Furious Strike
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 trait:
@@ -18,7 +19,7 @@ type: Action
 # Furious Strike <span class="action-icon">2</span>
 
 <span class="item-trait">Eidolon</span>
-**Source** [[Secrets of Magic]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]]
 
 ---
 Your eidolon channels its anger into a furious attack. It makes a melee Strike. This counts as two attacks when calculating your multiple attack penalty. If this Strike hits, your eidolon deals an extra die of weapon damage and gains a +1 circumstance bonus to the damage roll. 

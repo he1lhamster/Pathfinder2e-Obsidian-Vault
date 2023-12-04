@@ -11,6 +11,7 @@ name: The Shattered Mountain Weeps
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -27,10 +28,10 @@ type: Feat
 # The Shattered Mountain Weeps <span class="action-icon">3</span> <span class="item-type">Feat 18</span>
 
 <span class="item-trait">Earth</span><span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Overflow</span><span class="item-trait">Primal</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
-A massive sphere of rock explodes, unleashing a cataclysm of falling debris and deadly shrapnel. Its destruction falls in a 20-foot burst within 120 feet. Creatures in the area take 9d10 bludgeoning damage with a basic Fortitude save against your class DC. Those who fail are knocked [[Prone]]. For the next minute, rocks continue to fall, making the area difficult terrain and dealing 3d10 bludgeoning damage to any creature that ends its turn in the area. If you use this impulse again, any previous one ends.
+A massive sphere of rock explodes, unleashing a cataclysm of falling debris and deadly shrapnel. Its destruction falls in a 20-foot burst within 120 feet. Creatures in the area take 9d10 bludgeoning damage with a basic Fortitude save against your class DC. Those who fail are knocked [[DATABASE/condition/Prone|prone]]. For the next minute, rocks continue to fall, making the area difficult terrain and dealing 3d10 bludgeoning damage to any creature that ends its turn in the area. If you use this impulse again, any previous one ends.
 
 ---
 **Level (20th)** The initial damage is 10d10, and the area damage is 4d10.
@@ -47,7 +48,7 @@ The primary magical actions kineticists use are called impulses. You can use an 
 
 **Overflow:**
 
-Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
+Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[DATABASE/action/Channel Elements|Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
 
 **Primal:**
 

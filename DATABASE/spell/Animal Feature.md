@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
@@ -38,7 +39,7 @@ type: Focus
 # Animal Feature<span class="item-type">Focus 2</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Morph</span><span class="item-trait">Ranger</span><span class="item-trait">Transmutation</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Cast** <span class="action-icon">1</span> somatic, verbal
 **Duration** 1 minute
 

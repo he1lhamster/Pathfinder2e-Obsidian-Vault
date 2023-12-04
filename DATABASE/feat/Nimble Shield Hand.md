@@ -11,6 +11,7 @@ name: Nimble Shield Hand
 prerequisite: '[[DATABASE/feat/Bastion Dedication|Bastion Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,12 +24,12 @@ type: Feat
 # Nimble Shield Hand <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Bastion]]
-**Prerequisites** [[Bastion Dedication]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Bastion|Bastion]]
+**Prerequisites** [[DATABASE/feat/Bastion Dedication|Bastion Dedication]]
 
 ---
-You are so used to wielding a shield that you can do so even while using the hand that's holding it for other purposes. The hand you use to wield a shield counts as a free hand for the purposes of the Interact action. You can also hold another object in this hand (but you still can't use it to wield a weapon). This benefit doesn't apply to [[Tower Shield]], which are still too cumbersome.
+You are so used to wielding a shield that you can do so even while using the hand that's holding it for other purposes. The hand you use to wield a shield counts as a free hand for the purposes of the Interact action. You can also hold another object in this hand (but you still can't use it to wield a weapon). This benefit doesn't apply to [[DATABASE/shield/Tower Shield|tower shields]], which are still too cumbersome.
 
 ## Traits
 

@@ -11,6 +11,7 @@ name: Second Shield
 prerequisite: '[[DATABASE/feat/Viking Dedication|Viking Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,13 +25,13 @@ type: Feat
 # Second Shield <span class="action-icon">4</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Viking]]
-**Prerequisites** [[Viking Dedication]]
-**Trigger** Your [[Shield Block]] causes your shield to break or be destroyed.
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Viking|Viking]]
+**Prerequisites** [[DATABASE/feat/Viking Dedication|Viking Dedication]]
+**Trigger** Your [[DATABASE/feat/Shield Block|Shield Block]] causes your shield to break or be destroyed.
 
 ---
-You're used to your shield breaking in the middle of battle, and you're prepared to use a backup or any convenient nearby object to defend yourself. You can Interact to draw a shield on your person or an unattended shield within your reach. If there is an object within your reach that could serve as an improvised shield—for example, a table or chair— you can Interact to draw it with this feat. The GM determines if something can be used as an improvised shield. Your new shield isn't raised until you use the [[Raise a Shield]] action, as normal.
+You're used to your shield breaking in the middle of battle, and you're prepared to use a backup or any convenient nearby object to defend yourself. You can Interact to draw a shield on your person or an unattended shield within your reach. If there is an object within your reach that could serve as an improvised shield—for example, a table or chair— you can Interact to draw it with this feat. The GM determines if something can be used as an improvised shield. Your new shield isn't raised until you use the [[DATABASE/action/Raise a Shield|Raise a Shield]] action, as normal.
 
 ## Traits
 

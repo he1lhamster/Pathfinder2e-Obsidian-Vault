@@ -13,6 +13,7 @@ name: Blowgun
 price: 1 sp
 range: 20 ft.
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Agile|Agile]]'
@@ -26,12 +27,12 @@ weapon_type: Ranged
 # Blowgun
 
 <span class="item-trait">Agile</span><span class="item-trait">Nonlethal</span>
-**Source** [[Core Rulebook]] 
-**Favored Weapon** [[Picoperi]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Favored Weapon** [[DATABASE/deity/Picoperi|Picoperi]]
 **Price** 1 sp; **Damage** 1 P; **Bulk** L
 **Hands** 1; **Range** 20 ft.; **Reload** 1
-**Type** Ranged; **Category** Simple; **Group** [[Dart]]
-**Ammunition** [[Blowgun Darts]]
+**Type** Ranged; **Category** Simple; **Group** [[DATABASE/weapongroup/Dart|Dart]]
+**Ammunition** [[DATABASE/weapon/Blowgun Darts|Blowgun Darts]]
 
 ---
 This long, narrow tube is used for shooting blowgun darts, using only the power of a forcefully exhaled breath.
@@ -48,6 +49,6 @@ An effect with this trait is not inherently deadly. Damage from a nonlethal effe
 
 ## Critical Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
-**Dart**: The target takes 1d6 [[Persistent Damage]]. You gain an item bonus to this bleed damage equal to the weapon's item bonus to attack rolls.
+**Dart**: The target takes 1d6 [[DATABASE/condition/Persistent Damage|persistent bleed damage]]. You gain an item bonus to this bleed damage equal to the weapon's item bonus to attack rolls.

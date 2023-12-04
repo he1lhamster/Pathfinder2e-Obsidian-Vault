@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Basic Magus Spellcasting|Basic Magus Spellcasting
   ; Master in [[DATABASE/skill/Arcana|Arcana]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -24,16 +25,16 @@ type: Feat
 # Expert Magus Spellcasting <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Secrets of Magic]] 
-**Archetype** [[Magus]]
-**Prerequisites** [[Basic Magus Spellcasting]]; master in [[Arcana]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
+**Archetype** [[DATABASE/archetype/Magus|Magus]]
+**Prerequisites** [[DATABASE/feat/Basic Magus Spellcasting|Basic Magus Spellcasting]]; master in [[DATABASE/skill/Arcana|Arcana]]
 
 ---
 You gain the expert bounded spellcasting benefits.
 
 ## Expert Magus Spellcasting Leads To...
 
-[[Master Magus Spellcasting]]
+[[DATABASE/feat/Master Magus Spellcasting|Master Magus Spellcasting]]
 
 ## Traits
 

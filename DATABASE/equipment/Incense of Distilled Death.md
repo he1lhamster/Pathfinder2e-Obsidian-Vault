@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Incense of Distilled Death<span class="item-type">Item 12</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Magical</span><span class="item-trait">Necromancy</span><span class="item-trait">Negative</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Price** 350 gp
 **Usage** held in 1 hand; **Bulk** —
 **Activate** <span class="action-icon">1</span> Interact

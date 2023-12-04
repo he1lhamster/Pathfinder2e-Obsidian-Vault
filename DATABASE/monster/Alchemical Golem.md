@@ -98,16 +98,16 @@ wisdom: '+0'
 # Alchemical Golem
 
 This golem is a walking alchemical nightmare capable of inflicting all manner of painful wounds. Its ability to follow orders is granted by the otherwise mindless humanoid brain that floats in its dome-like head. In exceptionally rare cases, the brain used in its creation might retain fragments of memories or even actual intellect, resulting in an alchemical golem with a personality and agenda of its own.
-**Recall Knowledge - Construct ([[Arcana]], [[Crafting]])**: DC 28
+**Recall Knowledge - Construct ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Crafting|Crafting]])**: DC 28
 **Unspecific Lore**: DC 26
 **Specific Lore**: DC 23
 
 # Alchemical Golem<span class="item-type">Creature 9</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Alchemical</span><span class="item-trait">Construct</span><span class="item-trait">Golem</span><span class="item-trait">Mindless</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +15; darkvision
-**Skills** [[Athletics]] +22
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +22
 **Str** +6, **Dex** +4, **Con** +3, **Int** -5, **Wis** +0, **Cha** -5
 
 ---
@@ -117,7 +117,7 @@ This golem is a walking alchemical nightmare capable of inflicting all manner of
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> syringe +22 [+17/+12] (magical, reach 10 feet), **Damage** 2d10+6 piercing plus alchemical injection</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> bomb +20 [+15/+10] (magical, thrown 20 feet), **Effect** see Generate Bomb</span><span class="in-box-ability">**Alchemical Injection** When an alchemical golem hits a creature with a syringe Strike, roll 1d6 on the alchemical chambers list to determine the additional effect of the attack. The syringe deals an additional 2d6 damage of the appropriate type (or exposes the target to the sickness effect, as appropriate).</span><span class="in-box-ability">**Generate Bomb** <span class="action-icon">1</span> (manipulate) The golem fills an empty vial from one of its alchemical chambers to create a bomb and then makes a bomb Strike. Determine the type of bomb created by rolling 1d6 on the alchemical chambers list above. On a roll of 1–4, it creates the corresponding greater alchemical bomb: an [[Acid Flask]] from chamber 1, a [[Frost Vial]] from chamber 2, [[Bottled Lightning]] from chamber 3, or [[Alchemist's Fire]] from chamber 4. On a roll of 5, it creates a poisonous bomb that deals 3d10 poison damage and 3 poison splash damage with no other effects. On a roll of 6, it creates a sickness bomb, which exposes the target and all creatures in the splash radius to the sickness effect; creatures hit by only the splash receive a +2 circumstance bonus to their Fortitude saves.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> syringe +22 [+17/+12] (magical, reach 10 feet), **Damage** 2d10+6 piercing plus alchemical injection</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> bomb +20 [+15/+10] (magical, thrown 20 feet), **Effect** see Generate Bomb</span><span class="in-box-ability">**Alchemical Injection** When an alchemical golem hits a creature with a syringe Strike, roll 1d6 on the alchemical chambers list to determine the additional effect of the attack. The syringe deals an additional 2d6 damage of the appropriate type (or exposes the target to the sickness effect, as appropriate).</span><span class="in-box-ability">**Generate Bomb** <span class="action-icon">1</span> (manipulate) The golem fills an empty vial from one of its alchemical chambers to create a bomb and then makes a bomb Strike. Determine the type of bomb created by rolling 1d6 on the alchemical chambers list above. On a roll of 1–4, it creates the corresponding greater alchemical bomb: an [[DATABASE/equipment/Acid Flask|acid flask]] from chamber 1, a [[DATABASE/equipment/Frost Vial|frost vial]] from chamber 2, [[DATABASE/equipment/Bottled Lightning|bottled lightning]] from chamber 3, or [[DATABASE/equipment/Alchemist's Fire|alchemist’s fire]] from chamber 4. On a roll of 5, it creates a poisonous bomb that deals 3d10 poison damage and 3 poison splash damage with no other effects. On a roll of 6, it creates a sickness bomb, which exposes the target and all creatures in the splash radius to the sickness effect; creatures hit by only the splash receive a +2 circumstance bonus to their Fortitude saves.</span>
 
 ###  Alchemical Golems
 

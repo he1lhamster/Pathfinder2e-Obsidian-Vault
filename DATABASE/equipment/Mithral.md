@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -53,7 +54,7 @@ weapon_type: null
 # Mithral<span class="item-type">Item 0+</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Precious</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Bulk** —
 
 ---
@@ -61,41 +62,43 @@ Mithral is renowned for its lightness, durability, and effectiveness against a r
 
 ## Mithral Items
 
-| ('Mithral Items', 'Thin Items')   |   ('Hardness', 'Unnamed: 1_level_1') |   ('HP', 'Unnamed: 2_level_1') |   ('BT', 'Unnamed: 3_level_1') |
-|:----------------------------------|-------------------------------------:|-------------------------------:|-------------------------------:|
-| Standard-grade                    |                                    5 |                             20 |                             10 |
-| High-grade                        |                                    8 |                             32 |                             16 |
-| Items                             |                                  nan |                            nan |                            nan |
-| Standard-grade                    |                                    9 |                             36 |                             18 |
-| High-grade                        |                                   12 |                             48 |                             24 |
-| Structure                         |                                  nan |                            nan |                            nan |
-| Standard-grade                    |                                   18 |                             72 |                             36 |
-| High-grade                        |                                   24 |                             96 |                             48 |
+| 0 | 1 | 2 | 3 |
+|:---------------|:---------|:----|:----|
+| Mithral Items | Hardness | HP | BT |
+| Thin Items | nan | nan | nan |
+| Standard-grade | 5 | 20 | 10 |
+| High-grade | 8 | 32 | 16 |
+| Items | nan | nan | nan |
+| Standard-grade | 9 | 36 | 18 |
+| High-grade | 12 | 48 | 24 |
+| Structure | nan | nan | nan |
+| Standard-grade | 18 | 72 | 36 |
+| High-grade | 24 | 96 | 48 |
 
 ### Material Uses
 
-[[Mithral Armor]]
-[[Mithral Shield]]
-[[Mithral Weapon]]
+[[DATABASE/equipment/Mithral Armor|Mithral Armor]]
+[[DATABASE/equipment/Mithral Shield|Mithral Shield]]
+[[DATABASE/equipment/Mithral Weapon|Mithral Weapon]]
 
 ## Mithral Chunk<span class="item-type">Item 0</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 500 gp
 **Bulk** L
 
 ## Mithral Ingot<span class="item-type">Item 0</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 5,000 gp
 **Bulk** 1
 
 ## Mithral Object (Standard-Grade)<span class="item-type">Item 8</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 350 gp (per Bulk)
 
 ## Mithral Object (High-Grade)<span class="item-type">Item 16</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 6,000 gp (per Bulk)

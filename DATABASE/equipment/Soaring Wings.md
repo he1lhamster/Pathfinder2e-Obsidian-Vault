@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Soaring Wings<span class="item-type">Item 9+</span>
 
 <span class="item-trait">Invested</span><span class="item-trait">Magical</span><span class="item-trait">Tattoo</span><span class="item-trait">Transmutation</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Usage** tattooed on the body; **Bulk** —
 
 ---
@@ -64,17 +65,17 @@ Wings, normally tattooed on the upper back, enable you to fly when activated. Th
 
 ## Soaring Wings<span class="item-type">Item 9</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 750 gp
 
 ## Soaring Wings (Greater)<span class="item-type">Item 14</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 3,800 gp
 You can activate the tattoo once per hour.
 
 ## Soaring Wings (Major)<span class="item-type">Item 19</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 38,000 gp
 You can activate the tattoo any number of times, and the effect lasts until you Dismiss the activation.

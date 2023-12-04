@@ -2,6 +2,7 @@
 id: '62'
 name: No-Prep Character. Morlibint
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -15,4 +16,4 @@ type: Source
 
 ## NPCs [1]
 
-[[Morlibint, Small-Town Bookseller]]
+[[DATABASE/npc/Morlibint, Small-Town Bookseller|Morlibint]]

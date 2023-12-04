@@ -11,6 +11,7 @@ name: Legendary Professional
 prerequisite: Legendary in [[DATABASE/skill/Lore|Lore]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: lore
@@ -24,11 +25,11 @@ type: Feat
 # Legendary Professional <span class="item-type">Feat 15</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** legendary in [[Lore]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** legendary in [[DATABASE/skill/Lore|Lore]]
 
 ---
-Your fame has spread throughout the lands (for instance, if you have Warfare Lore, you might be a legendary general or tactician). This works as [[Legendary Performer]], except you gain higher-level jobs when you Earn Income with Lore.
+Your fame has spread throughout the lands (for instance, if you have Warfare Lore, you might be a legendary general or tactician). This works as [[DATABASE/feat/Legendary Performer|Legendary Performer]], except you gain higher-level jobs when you Earn Income with Lore.
 
 ## Traits
 

@@ -2,6 +2,7 @@
 id: '171'
 name: Chapter 2. Into the Wild
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source

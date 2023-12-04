@@ -2,6 +2,7 @@
 id: '190'
 name: Gatewalkers Player's Guide
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -16,8 +17,8 @@ type: Source
 
 ## Backgrounds [6]
 
-[[Dreams of Vengeance]], [[Lost Loved One]], [[Sense of Belonging]], [[Total Power]], [[Wanderlust]], [[Wishes for Riches]]
+[[DATABASE/background/Dreams of Vengeance|Dreams of Vengeance]], [[DATABASE/background/Lost Loved One|Lost Loved One]], [[DATABASE/background/Sense of Belonging|Sense of Belonging]], [[DATABASE/background/Total Power|Total Power]], [[DATABASE/background/Wanderlust|Wanderlust]], [[DATABASE/background/Wishes for Riches|Wishes for Riches]]
 
 ## Feats [14]
 
-[[Awakened Power]], [[Blasting Beams]], [[Bone Spikes]], [[Consume Energy]], [[Distant Wandering]], [[Eerie Flicker]], [[Enervating Wail]], [[Ghostly Grasp (Deviant)]], [[Greater Awakened Power]], [[High-Speed Regeneration]], [[Propulsive Leap]], [[Storming Breath]], [[Tectonic Stomp]], [[Titan Swing]]
+[[DATABASE/feat/Awakened Power|Awakened Power]], [[DATABASE/feat/Blasting Beams|Blasting Beams]], [[DATABASE/feat/Bone Spikes|Bone Spikes]], [[DATABASE/feat/Consume Energy|Consume Energy]], [[DATABASE/feat/Distant Wandering|Distant Wandering]], [[DATABASE/feat/Eerie Flicker|Eerie Flicker]], [[DATABASE/feat/Enervating Wail|Enervating Wail]], [[DATABASE/feat/Ghostly Grasp (Deviant)|Ghostly Grasp (Deviant)]], [[DATABASE/feat/Greater Awakened Power|Greater Awakened Power]], [[DATABASE/feat/High-Speed Regeneration|High-Speed Regeneration]], [[DATABASE/feat/Propulsive Leap|Propulsive Leap]], [[DATABASE/feat/Storming Breath|Storming Breath]], [[DATABASE/feat/Tectonic Stomp|Tectonic Stomp]], [[DATABASE/feat/Titan Swing|Titan Swing]]

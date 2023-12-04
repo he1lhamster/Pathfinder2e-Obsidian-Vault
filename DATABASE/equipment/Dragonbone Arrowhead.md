@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: You're an expert with the affixed weapon.
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -56,7 +57,7 @@ weapon_type: null
 # Dragonbone Arrowhead<span class="item-type">Item 4</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Evocation</span><span class="item-trait">Magical</span><span class="item-trait">Talisman</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Price** 20 gp
 **Usage** affixed to a melee weapon or a ranged weapon with the thrown trait; **Bulk** —
 **Activate** <span class="action-icon">1</span> Interact **Requirements** You're an expert with the affixed weapon.

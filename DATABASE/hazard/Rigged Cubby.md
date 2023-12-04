@@ -17,6 +17,7 @@ name: Rigged Cubby
 rarity: Common
 reflex: '+0'
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 158. Sixty Feet Under|Pathfinder #158: Sixty
   Feet Under]]'
@@ -31,13 +32,13 @@ will: null
 # Rigged Cubby<span class="item-type">Hazard 6</span>
 
 <span class="item-trait">Mechanical</span><span class="item-trait">Trap</span>
-**Source** [[Pathfinder 158. Sixty Feet Under]]
+**Source** [[DATABASE/source/Pathfinder 158. Sixty Feet Under|Pathfinder #158: Sixty Feet Under]]
 **Complexity** Simple
 **Stealth** DC 25 (expert)
 **Description** A hidden string connected to precariously stacked bricks causes the cubby to collapse in on itself when the string is pulled.
 
 ---
-**Disable** [[Thievery]] DC 20 to cut the string without setting off the trap
+**Disable** [[DATABASE/skill/Thievery|Thievery]] DC 20 to cut the string without setting off the trap
 **AC** 25, **Fort** 0, **Ref** 0
 **Hardness** 0, **HP** 1; **Immunities** critical hits, object immunities, precision damage
 **Collapse** <span class="action-icon">5</span> **Trigger** A creature touches the sickle in the cubby; **Effect** The heavy bricks above the cubby collapse, leaving the sickle unscathed but dealing 4d6+10 bludgeoning damage (DC 26 basic Reflex save) to the triggering creature.

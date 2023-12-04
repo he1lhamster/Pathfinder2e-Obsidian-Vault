@@ -12,6 +12,7 @@ prerequisite: You've been brought to 0 Hit Points by an enemy that has the [[DAT
   trait or an enemy's ability that has the fire trait.
 rarity: Rare
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -26,11 +27,11 @@ type: Feat
 # Dormant Eruption <span class="item-type">Feat 14</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Aftermath</span><span class="item-trait">Fire</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Prerequisites** You've been brought to 0 Hit Points by an enemy that has the fire trait or an enemy's ability that has the fire trait.
 
 ---
-A sweltering heat and sparks of flame that take the form of tiny copies of you surround your body. You're hot to the touch, gaining resistance 5 to cold and fire. Whenever an adjacent creature Strikes you with a melee attack or touches you, it takes 1d6 [[Persistent Damage]]. You gain the Thermal Eruption action.
+A sweltering heat and sparks of flame that take the form of tiny copies of you surround your body. You're hot to the touch, gaining resistance 5 to cold and fire. Whenever an adjacent creature Strikes you with a melee attack or touches you, it takes 1d6 [[DATABASE/condition/Persistent Damage|persistent fire damage]]. You gain the Thermal Eruption action.
  **Thermal Eruption** <span class="action-icon">2</span> (evocation, fire, primal) **Frequency** once per day; **Effect** You concentrate your thermal energy and explode it outward. All creatures in a 20-foot emanation take 14d6 fire damage with a basic Reflex save. Afterward, you lose all effects of the Dormant Eruption feat until your next daily preparations.
 
 ## Traits
@@ -45,4 +46,4 @@ Effects with the fire trait deal fire damage or either conjure or manipulate fir
 
 **Rare:**
 
-This rarity indicates that a rules element is very difficult to find in the game world. A rare feat, spell, item or the like is available to players only if the GM decides to include it in the game, typically through discovery during play. Creatures with this trait are rare. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creatures is increased by 5.
+This rarity indicates that a rules element is very difficult to find in the game world. A rare feat, spell, item or the like is available to players only if the GM decides to include it in the game, typically through discovery during play. Creatures with this trait are rare. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creatures is increased by 5.

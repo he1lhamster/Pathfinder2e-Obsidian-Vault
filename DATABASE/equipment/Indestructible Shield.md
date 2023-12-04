@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 size: null
@@ -54,11 +55,11 @@ weapon_type: null
 # Indestructible Shield<span class="item-type">Item 18</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Abjuration</span><span class="item-trait">Magical</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 24,000 gp
 **Usage** held in 1 hand; **Bulk** 1
-**Base Shield** [[Steel Shield]]
+**Base Shield** [[DATABASE/shield/Steel Shield|Steel Shield]]
 
 ---
-An _indestructible shield_ is a [[Adamantine Shield]] [[Steel Shield]] (Hardness 13, HP 90) that can withstand just about any damage. It can be damaged only by a [[Disintegrate]] spell (roll damage as if against a creature that failed its save) or by an artifact tied to destruction, such as a [[Sphere of Annihilation]].
+An _indestructible shield_ is a [[DATABASE/equipment/Adamantine Shield|high-grade adamantine]] [[DATABASE/shield/Steel Shield|shield]] (Hardness 13, HP 90) that can withstand just about any damage. It can be damaged only by a [[DATABASE/spell/Disintegrate|disintegrate]] spell (roll damage as if against a creature that failed its save) or by an artifact tied to destruction, such as a [[DATABASE/equipment/Sphere of Annihilation|sphere of annihilation]].
 **Craft Requirements** The raw materials must include at least 4,400 gp of adamantine.

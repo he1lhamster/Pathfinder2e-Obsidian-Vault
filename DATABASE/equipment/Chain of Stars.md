@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -56,10 +57,10 @@ weapon_type: null
 # Chain of Stars<span class="item-type">Item 8</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Evocation</span><span class="item-trait">Force</span><span class="item-trait">Magical</span><span class="item-trait">Talisman</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 100 gp
 **Usage** affixed to a thrown weapon; **Bulk** —
 **Activate** <span class="action-icon">4</span> envision **Trigger** You hit a creature with the affixed weapon.
 
 ---
-This delicate mithral chain strung with tiny shuriken is wound tightly around the handle of the affixed weapon. When you Activate the chain, three _+1 [[Striking]] [[Shuriken]]_ made from magical force materialize in the target's space and split off to attack other creatures. Attempt up to three shuriken Strikes that must each target a different creature and can't target the creature you hit to trigger this talisman. These Strikes use your attack modifier but originate from the hit creature's space. These attacks count toward your multiple attack penalty, but the penalty doesn't increase until after all three attacks have been made. The shuriken deal force damage instead of their normal type, and each shuriken vanishes after its attack.
+This delicate mithral chain strung with tiny shuriken is wound tightly around the handle of the affixed weapon. When you Activate the chain, three _+1 [[DATABASE/equipment/Striking|striking]] [[DATABASE/weapon/Shuriken|shuriken]]_ made from magical force materialize in the target's space and split off to attack other creatures. Attempt up to three shuriken Strikes that must each target a different creature and can't target the creature you hit to trigger this talisman. These Strikes use your attack modifier but originate from the hit creature's space. These attacks count toward your multiple attack penalty, but the penalty doesn't increase until after all three attacks have been made. The shuriken deal force damage instead of their normal type, and each shuriken vanishes after its attack.

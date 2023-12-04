@@ -11,6 +11,7 @@ name: Unlimited Potential
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -26,7 +27,7 @@ type: Feat
 # Unlimited Potential <span class="action-icon">1</span> <span class="item-type">Feat 20</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Manipulate</span><span class="item-trait">Metamagic</span><span class="item-trait">Psychic</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Frequency** once per minute
 
 ---

@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: You are trained in Athletics
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Wolf Fang<span class="item-type">Item 1</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Evocation</span><span class="item-trait">Magical</span><span class="item-trait">Talisman</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 4 gp
 **Usage** affixed to armor; **Bulk** —
 **Activate** <span class="action-icon">4</span> envision **Trigger** You successfully Trip a foe; **Requirements** You are trained in Athletics

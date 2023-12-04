@@ -70,20 +70,20 @@ wisdom: '+2'
 # Sludgespine Killers
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 15
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Sludgespine Killers<span class="item-type">Creature -1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Gnoll</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 178. Punks in a Powderkeg]]
-Mutated [[Gnoll]] murderers
+**Source** [[DATABASE/source/Pathfinder 178. Punks in a Powderkeg|Pathfinder #178: Punks in a Powderkeg]]
+Mutated [[DATABASE/ancestry/Gnoll|gnoll]] murderers
 **Perception** +5
-**Languages** [[Common]], [[Gnoll]]
-**Skills** [[Athletics]] +5, [[Intimidation]] +4, [[Stealth]] +4, [[Thievery]] +4
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Gnoll|Gnoll]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +5, [[DATABASE/skill/Intimidation|Intimidation]] +4, [[DATABASE/skill/Stealth|Stealth]] +4, [[DATABASE/skill/Thievery|Thievery]] +4
 **Str** +0, **Dex** +1, **Con** +3, **Int** -1, **Wis** +2, **Cha** -1
-**Items** [[Bola]], [[Leather Armor]], [[Sap]]
+**Items** [[DATABASE/weapon/Bola|bola (2)]], [[DATABASE/armor/Leather Armor|leather armor]], [[DATABASE/weapon/Sap|sap]]
 
 ---
 **AC** 14; **Fort** +6, **Ref** +5, **Will** +5
@@ -92,4 +92,4 @@ Mutated [[Gnoll]] murderers
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +6 [+1/-4] (unarmed), **Damage** 1d6 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> sap +6 [+2/-2] (agile, nonlethal), **Damage** 1d6 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> bola +5 [+0/-5] (nonlethal, range 20 feet, ranged trip, thrown), **Damage** 1d6 bludgeoning</span><span class="in-box-ability">**Pack Attack** A gnoll deals 1d4 extra damage to any creature that's within reach of at least two of the gnoll's allies.</span><span class="in-box-ability">**Stealthy Abduction** When a Sludgespine killer successfully [[Grapple]] a creature, that creature makes no sound; other creatures can't notice the grapple by hearing alone. As long as it's grappled, the creature can't use actions with the auditory trait or cast spells with a verbal component.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +6 [+1/-4] (unarmed), **Damage** 1d6 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> sap +6 [+2/-2] (agile, nonlethal), **Damage** 1d6 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> bola +5 [+0/-5] (nonlethal, range 20 feet, ranged trip, thrown), **Damage** 1d6 bludgeoning</span><span class="in-box-ability">**Pack Attack** A gnoll deals 1d4 extra damage to any creature that's within reach of at least two of the gnoll's allies.</span><span class="in-box-ability">**Stealthy Abduction** When a Sludgespine killer successfully [[DATABASE/action/Grapple|Grapples]] a creature, that creature makes no sound; other creatures can't notice the grapple by hearing alone. As long as it's grappled, the creature can't use actions with the auditory trait or cast spells with a verbal component.</span>

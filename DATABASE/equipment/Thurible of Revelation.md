@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 size: null
@@ -53,7 +54,7 @@ weapon_type: null
 # Thurible of Revelation<span class="item-type">Item 3+</span>
 
 <span class="item-trait">Divination</span><span class="item-trait">Divine</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** held in 1 hand; **Bulk** 1
 
 ---
@@ -62,17 +63,17 @@ This brass censer dangles on a length of chain. Most _thuribles of revelation_ a
 
 ## Thurible of Revelation (Lesser)<span class="item-type">Item 3</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 55 gp
 
 ## Thurible of Revelation (Moderate)<span class="item-type">Item 10</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 900 gp
-The thurible grants a +2 bonus. Once per day, when you activate the thurible, you can increase its revelations. During that activation, you can hold the thurible up to your eyes with an Interact action to gain the effects of [[See Invisibility]] for 1 round by peering through the smoke.
+The thurible grants a +2 bonus. Once per day, when you activate the thurible, you can increase its revelations. During that activation, you can hold the thurible up to your eyes with an Interact action to gain the effects of [[DATABASE/spell/See Invisibility|see invisibility]] for 1 round by peering through the smoke.
 
 ## Thurible of Revelation (Greater)<span class="item-type">Item 18</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 19,000 gp
-The thurible grants a +3 bonus. The greater version shares the once-per-day enhanced revelations of the moderate version, except peering through the smoke also grants you the effects of [[True Seeing]].
+The thurible grants a +3 bonus. The greater version shares the once-per-day enhanced revelations of the moderate version, except peering through the smoke also grants you the effects of [[DATABASE/spell/True Seeing|true seeing]].

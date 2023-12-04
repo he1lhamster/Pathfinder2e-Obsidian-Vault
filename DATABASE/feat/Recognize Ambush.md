@@ -11,6 +11,7 @@ name: Recognize Ambush
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Recognize Ambush <span class="action-icon">4</span> <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Hobgoblin</span>
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 **Trigger** You roll initiative.
 
 ---

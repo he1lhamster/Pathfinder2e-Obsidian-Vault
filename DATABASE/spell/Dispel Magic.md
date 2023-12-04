@@ -21,6 +21,7 @@ patron_theme: null
 range: 120 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -40,10 +41,10 @@ type: Spell
 # Dispel Magic<span class="item-type">Spell 2</span>
 
 <span class="item-trait">Abjuration</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, divine, occult, primal
 **Spell List** elemental
-**Bloodline** [[Imperial]]
+**Bloodline** [[DATABASE/sorcererbloodline/Imperial|imperial]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 120 feet; **Targets** 1 spell effect or unattended magic item
 

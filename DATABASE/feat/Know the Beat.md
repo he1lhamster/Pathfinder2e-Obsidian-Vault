@@ -11,6 +11,7 @@ name: Know the Beat
 prerequisite: '[[DATABASE/feat/Zephyr Guard Dedication|Zephyr Guard Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 149. Against the Scarlet Triad|Pathfinder #149:
   Against the Scarlet Triad]]'
@@ -25,12 +26,12 @@ type: Feat
 # Know the Beat <span class="item-type">Feat 3</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Skill</span>
-**Source** [[Pathfinder 149. Against the Scarlet Triad]]
-**Archetype** [[Zephyr Guard]]
-**Prerequisites** [[Zephyr Guard Dedication]]
+**Source** [[DATABASE/source/Pathfinder 149. Against the Scarlet Triad|Pathfinder #149: Against the Scarlet Triad]]
+**Archetype** [[DATABASE/archetype/Zephyr Guard|Zephyr Guard]]
+**Prerequisites** [[DATABASE/feat/Zephyr Guard Dedication|Zephyr Guard Dedication]]
 
 ---
-You become trained in your choice of Guild [[Lore]], Legal Lore, Mercantile Lore, or Underworld Lore. You gain a +1 circumstance bonus to [[Diplomacy]] checks to [[Gather Information]] and to checks made to investigate crimes.
+You become trained in your choice of Guild [[DATABASE/skill/Lore|Lore]], Legal Lore, Mercantile Lore, or Underworld Lore. You gain a +1 circumstance bonus to [[DATABASE/skill/Diplomacy|Diplomacy]] checks to [[DATABASE/action/Gather Information|Gather Information]] and to checks made to investigate crimes.
 
 ## Traits
 

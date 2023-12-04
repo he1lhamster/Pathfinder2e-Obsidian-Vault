@@ -75,16 +75,16 @@ wisdom: '+0'
 # Spider Swarm
 
 An abundance of food, the sudden hatching of a clutch of eggs, or magical influence can cause smaller spiders to gather in terrifying, deadly masses.
-**Recall Knowledge - Animal ([[Nature]])**: DC 14
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 14
 **Unspecific Lore**: DC 12
 **Specific Lore**: DC 9
 
 # Spider Swarm<span class="item-type">Creature 0</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Animal</span><span class="item-trait">Swarm</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +4; darkvision, web sense
-**Skills** [[Acrobatics]] +5, [[Athletics]] +2, [[Stealth]] +5
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +5, [[DATABASE/skill/Athletics|Athletics]] +2, [[DATABASE/skill/Stealth|Stealth]] +5
 **Str** -2, **Dex** +3, **Con** +0, **Int** -5, **Wis** +0, **Cha** -4
 **Web Sense** The spider swarm has imprecise tremorsense to detect the vibrations of creatures touching its web.
 

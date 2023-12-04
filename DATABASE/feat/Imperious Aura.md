@@ -12,6 +12,7 @@ prerequisite: one or more [[DATABASE/trait/Stance|stance]] [[DATABASE/trait/Impu
   that affect your kinetic aura
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -26,7 +27,7 @@ type: Feat
 # Imperious Aura <span class="action-icon">4</span> <span class="item-type">Feat 16</span>
 
 <span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Primal</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Prerequisites** one or more stance impulses that affect your kinetic aura
 **Trigger** Your turn begins.
 

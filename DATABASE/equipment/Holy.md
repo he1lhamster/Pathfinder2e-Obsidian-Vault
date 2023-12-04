@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -54,9 +55,9 @@ weapon_type: null
 # Holy<span class="item-type">Item 11</span>
 
 <span class="item-trait">Evocation</span><span class="item-trait">Good</span><span class="item-trait">Magical</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 1,400 gp
-**Usage** etched onto a weapon without an [[Unholy]]; **Bulk** —
+**Usage** etched onto a weapon without an [[DATABASE/equipment/Unholy|unholy rune]]; **Bulk** —
 
 ---
 _Holy_ weapons command powerful celestial energy. A weapon with this rune deals an extra 1d6 good damage against evil targets. If you are evil, you are enfeebled 2 while carrying or wielding this weapon.

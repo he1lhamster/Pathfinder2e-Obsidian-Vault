@@ -2,6 +2,7 @@
 id: '3'
 name: Identify Magic
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait: null
 type: General Skill Action
@@ -9,32 +10,28 @@ type: General Skill Action
 ---
 # Identify Magic (Trained)
 
-**Source** [[Core Rulebook]] 
-Using the skill related to the appropriate tradition, as explained in Magical Traditions and Skills on page 238, you can attempt to identify a magical item, location, or ongoing effect. In many cases, you can use a skill to attempt to Identify Magic of a tradition other than your own at a higher DC. The GM determines whether you can do this and what the DC is.<span>Item Bonuses for Identify Magic - Common Items</span>
-
-| Item                                                     |   Bonus |   Level | Category        | Consumable?   | Note                     |
-|:---------------------------------------------------------|--------:|--------:|:----------------|:--------------|:-------------------------|
-| [[Auric Noodles]]       |       1 |       3 | Alchemical Food | Yes           | Checks to Identify Magic |
-| [[Whispering Staff]] |       3 |      20 | Staves          | No            | —                        |
-
-<span>Item Bonuses for Identify Magic - Uncommon/Rare/Unique Items</span>
-
-| Item                                                                 |   Bonus |   Level | Category            | Consumable?   | Note                                      |
-|:---------------------------------------------------------------------|--------:|--------:|:--------------------|:--------------|:------------------------------------------|
-| [[Exploration Lens]] |       2 |      10 | Held Items          | No            | Checks to Identify Magic within the light |
-| [[The Vision]]                         |       2 |      20 | The Deck of Destiny | No            | —                                         |
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+Using the skill related to the appropriate tradition, as explained in Magical Traditions and Skills on page 238, you can attempt to identify a magical item, location, or ongoing effect. In many cases, you can use a skill to attempt to Identify Magic of a tradition other than your own at a higher DC. The GM determines whether you can do this and what the DC is.<span>Item Bonuses for Identify Magic - Common Items</span>| 0 | 1 | 2 | 3 | 4 | 5 |
+|:---------------------------------------------------------|:------|:------|:----------------|:------------|:-------------------------|
+| Item | Bonus | Level | Category | Consumable? | Note |
+| [[Auric Noodles]] | +1 | 3 | Alchemical Food | Yes | Checks to Identify Magic |
+| [[Whispering Staff]] | +3 | 20 | Staves | No | — |<span>Item Bonuses for Identify Magic - Uncommon/Rare/Unique Items</span>| 0 | 1 | 2 | 3 | 4 | 5 |
+|:---------------------------------------------------------------------|:------|:------|:--------------------|:------------|:------------------------------------------|
+| Item | Bonus | Level | Category | Consumable? | Note |
+| [[Exploration Lens]] | +2 | 10 | Held Items | No | Checks to Identify Magic within the light |
+| [[The Vision]] | +2 | 20 | The Deck of Destiny | No | — |
 
 ## Skill Uses
 
-[[Arcana]] Identify Magic, particularly arcane magic.
-[[Nature]] Identify Magic, particularly primal magic.
-[[Occultism]] Identify Magic, particularly occult magic.
-[[Religion]] Identify Magic, particularly divine magic.
+[[DATABASE/skill/Arcana|Arcana]] Identify Magic, particularly arcane magic.
+[[DATABASE/skill/Nature|Nature]] Identify Magic, particularly primal magic.
+[[DATABASE/skill/Occultism|Occultism]] Identify Magic, particularly occult magic.
+[[DATABASE/skill/Religion|Religion]] Identify Magic, particularly divine magic.
 
-## [[Identify Magic]]
+## [[DATABASE/action/Identify Magic|Identify Magic]]
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Exploration</span><span class="item-trait">Secret</span>
-**Source** [[Core Rulebook]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
 Once you discover that an item, location, or ongoing effect is magical, you can spend 10 minutes to try to identify the particulars of its magic. If your attempt is interrupted, you must start over. The GM sets the DC for your check. Cursed or esoteric subjects usually have higher DCs or might even be impossible to identify using this activity alone. Heightening a spell doesn’t increase the DC to identify it.
@@ -45,11 +42,10 @@ Once you discover that an item, location, or ongoing effect is magical, you can 
 
 ### Magical Traditions and Skills
 
-Each magical tradition has a corresponding skill, as shown on the table below. You must have the trained proficiency rank in a skill to use it to Identify Magic or [[Learn a Spell]]. Something without a specific tradition, such as an item with the magical trait, can be identified using any of these skills.
-
-| Magical Tradition   | Corresponding Skill                    |
-|:--------------------|:---------------------------------------|
-| Arcane              | [[Arcana]]       |
-| Divine              | [[Religion]]   |
-| Occult              | [[Occultism]] |
-| Primal              | [[Nature]]       |
+Each magical tradition has a corresponding skill, as shown on the table below. You must have the trained proficiency rank in a skill to use it to Identify Magic or [[DATABASE/action/Learn a Spell|Learn a Spell]]. Something without a specific tradition, such as an item with the magical trait, can be identified using any of these skills. | 0 | 1 |
+|:------------------|:---------------------------------------|
+| Magical Tradition | Corresponding Skill |
+| Arcane | [[Arcana]] |
+| Divine | [[Religion]] |
+| Occult | [[Occultism]] |
+| Primal | [[Nature]] |

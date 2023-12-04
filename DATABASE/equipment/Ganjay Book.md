@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -54,10 +55,10 @@ weapon_type: null
 # Ganjay Book<span class="item-type">Item 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Magical</span><span class="item-trait">Transmutation</span>
-**Source** [[PFS Guide]]
+**Source** [[DATABASE/source/PFS Guide|PFS Guide]]
 **Price** 10 gp
 **Bulk** L (or —)
 
 ---
-This item is a [[Formula Book (Blank)]], [[Religious Text]], or [[Spellbook (Blank)]] that has been creased—possibly by Princess Ganjay herself—to fold up into an impossibly small shape. When folded up, the book can't be read or used, but its Bulk is reduced by 1 (a book that is 1 Bulk becomes light Bulk, and a book that is light Bulk becomes negligible in weight).
+This item is a [[DATABASE/equipment/Formula Book (Blank)|formula book]], [[DATABASE/equipment/Religious Text|religious text]], or [[DATABASE/equipment/Spellbook (Blank)|spellbook]] that has been creased—possibly by Princess Ganjay herself—to fold up into an impossibly small shape. When folded up, the book can't be read or used, but its Bulk is reduced by 1 (a book that is 1 Bulk becomes light Bulk, and a book that is light Bulk becomes negligible in weight).
 **Activate** 1 minute (Interact) ; **Effect** You fold or unfold the _Ganjay book_, manipulating the cunning creases.

@@ -79,26 +79,26 @@ wisdom: '+2'
 # Clockwork Shambler Horde
 
 This creature did not include a description.
-**Recall Knowledge - Construct ([[Arcana]], [[Crafting]])**: DC 28
+**Recall Knowledge - Construct ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Crafting|Crafting]])**: DC 28
 **Unspecific Lore**: DC 26
 **Specific Lore**: DC 23
 
 # Clockwork Shambler Horde<span class="item-type">Creature 9</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Gargantuan</span><span class="item-trait">Construct</span><span class="item-trait">Mindless</span><span class="item-trait">Troop</span><span class="item-trait">Zombie</span>
-**Source** [[Pathfinder 180. The Smoking Gun]]
-Variant [[Shambler Troop]]
-**Perception** +14; [[Darkvision]]
+**Source** [[DATABASE/source/Pathfinder 180. The Smoking Gun|Pathfinder #180: The Smoking Gun]]
+Variant [[DATABASE/monster/Shambler Troop|shambler troop]]
+**Perception** +14; [[DATABASE/monsterability/Darkvision|darkvision]]
 **Str** +6, **Dex** +0, **Con** +4, **Int** -5, **Wis** +2, **Cha** -2
-**Slow** A shambler horde is permanently [[Slowed]] and can't use reactions.
+**Slow** A shambler horde is permanently [[DATABASE/condition/Slowed|slowed 1]] and can't use reactions.
 
 ---
 **AC** 25; **Fort** +21, **Ref** +16, **Will** +17
-**HP** 240; **Thresholds** 160 (12 squares), 80 (8 squares); **Immunities** death effects, disease, mental, [[Paralyzed]], poison, [[Unconscious]]; **Weaknesses** area damage 10, slashing 10, splash damage 5
+**HP** 240; **Thresholds** 160 (12 squares), 80 (8 squares); **Immunities** death effects, disease, mental, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Unconscious|unconscious]]; **Weaknesses** area damage 10, slashing 10, splash damage 5
 <span class="in-box-ability">**Troop Defenses** </span>
 
 ---
 **Speed** 20 feet; troop movement
-<span class="in-box-ability">**[[Form Up]]** <span class="action-icon">1</span> </span><span class="in-box-ability">**Grave Tide** The shambler troop is less organized than most troops. It can move into other creatures' spaces, and other creatures can move into its spaces. Its spaces are difficult terrain to other creatures.</span><span class="in-box-ability">**Shambling Onslaught** <span class="action-icon">1</span> to <span class="action-icon">2</span> **Frequency** once per round; **Effect** The shamblers lash out at any enemies in their squares or within 5 feet (DC 25 basic Reflex save). The damage depends on the number of actions.
+<span class="in-box-ability">**[[DATABASE/monsterability/Form Up|Form Up]]** <span class="action-icon">1</span> </span><span class="in-box-ability">**Grave Tide** The shambler troop is less organized than most troops. It can move into other creatures' spaces, and other creatures can move into its spaces. Its spaces are difficult terrain to other creatures.</span><span class="in-box-ability">**Shambling Onslaught** <span class="action-icon">1</span> to <span class="action-icon">2</span> **Frequency** once per round; **Effect** The shamblers lash out at any enemies in their squares or within 5 feet (DC 25 basic Reflex save). The damage depends on the number of actions.
  <span class="action-icon">1</span> 3d6+9 bludgeoning damage
  <span class="action-icon">2</span> 3d8+13 bludgeoning damage</span><span class="in-box-ability">**Troop Movement** Whenever a troop Strides, it first Forms Up as a free action to condense into a 20-foot-by-20-foot area (minus any missing squares), then moves up to its Speed. This works just like a Gargantuan creature moving; for instance, if any square of the troop enters difficult terrain, the extra movement cost applies to the whole troop.</span>

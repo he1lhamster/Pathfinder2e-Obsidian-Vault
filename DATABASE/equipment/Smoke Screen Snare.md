@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -57,23 +58,23 @@ weapon_type: null
 # Smoke Screen Snare<span class="item-type">Item 1+</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Consumable</span><span class="item-trait">Mechanical</span><span class="item-trait">Snare</span><span class="item-trait">Trap</span>
-**Source** [[Pathfinder 176. Lost Mammoth Valley]]
+**Source** [[DATABASE/source/Pathfinder 176. Lost Mammoth Valley|Pathfinder #176: Lost Mammoth Valley]]
 **Bulk** —
 
 ---
-You create a snare that releases a dense cloud of smoke when a creature enters the square, filling a specified area. All creatures within that area are [[Concealed]], and all other creatures are concealed to them. The smoke lasts for 1 minute or until dispersed by a strong wind.
-**Craft Requirements** Supply a [[Smokestick]] for the lesser snare or a greater smokestick for the greater snare.
+You create a snare that releases a dense cloud of smoke when a creature enters the square, filling a specified area. All creatures within that area are [[DATABASE/condition/Concealed|concealed]], and all other creatures are concealed to them. The smoke lasts for 1 minute or until dispersed by a strong wind.
+**Craft Requirements** Supply a [[DATABASE/equipment/Smokestick|lesser smokestick]] for the lesser snare or a greater smokestick for the greater snare.
 
 ## Smoke Screen Snare (Lesser)<span class="item-type">Item 1</span>
 
-**Source** [[Pathfinder 176. Lost Mammoth Valley]]
+**Source** [[DATABASE/source/Pathfinder 176. Lost Mammoth Valley|Pathfinder #176: Lost Mammoth Valley]]
 **Price** 3 gp
 **Bulk** L
 The smoke fills the snare's square and all adjacent squares.
 
 ## Smoke Screen Snare (Greater)<span class="item-type">Item 7</span>
 
-**Source** [[Pathfinder 176. Lost Mammoth Valley]]
+**Source** [[DATABASE/source/Pathfinder 176. Lost Mammoth Valley|Pathfinder #176: Lost Mammoth Valley]]
 **Price** 60 gp
 **Bulk** L
 The smoke fills a 20-foot burst centered on the snare's square.

@@ -11,6 +11,7 @@ name: Proximity Alert
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Proximity Alert <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Android</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
 You're unnaturally in tune with your surroundings and react instinctively to danger. You gain a +2 circumstance bonus to Perception checks made as initiative rolls.

@@ -3,6 +3,7 @@ creature_family: Laborers
 id: '188'
 name: Laborers
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait: null
 type: Creature Family
@@ -10,16 +11,16 @@ type: Creature Family
 ---
 # Laborers
 
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 Every day, laborers perform backbreaking physical work.
 
 ### Members
 
-[[Dockhand]] (Creature 0), [[Farmer]] (Creature 0), [[Gravedigger]] (Creature 1), [[Miner]] (Creature 0), [[Servant]] (Creature -1)
+[[DATABASE/npc/Dockhand|Dockhand]] (Creature 0), [[DATABASE/npc/Farmer|Farmer]] (Creature 0), [[DATABASE/npc/Gravedigger|Gravedigger]] (Creature 1), [[DATABASE/npc/Miner|Miner]] (Creature 0), [[DATABASE/npc/Servant|Servant]] (Creature -1)
 
 ###  Forced Labor
 
-Many creatures and societies still practice forced labor, whether through full enslavement or indebted labor to pay a society for their crimes. The [[Dockhand]], [[Farmer]], [[Miner]], and [[Servant]] could also be forced laborers. Forced laborers could become allies or at least informants to PCs who free them.
+Many creatures and societies still practice forced labor, whether through full enslavement or indebted labor to pay a society for their crimes. The [[DATABASE/npc/Dockhand|dockhand]], [[DATABASE/npc/Farmer|farmer]], [[DATABASE/npc/Miner|miner]], and [[DATABASE/npc/Servant|servant]] could also be forced laborers. Forced laborers could become allies or at least informants to PCs who free them.
 
 ###  Laborer Games
 

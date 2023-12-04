@@ -10,6 +10,7 @@ requirement: "You can Activate an Item with the invested trait only if it\u2019s
   \ by you. If the item requiresyou to Interact with it, you must be wielding it (if\
   \ it\u2019s a held item) or touching it with a freehand (if it\u2019s another type\
   \ of item)."
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait: null
@@ -19,7 +20,7 @@ type: Action
 ---
 # Activate an Item
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Requirements** You can Activate an Item with the invested trait only if it’s invested by you. If the item requires you to Interact with it, you must be wielding it (if it’s a held item) or touching it with a free hand (if it’s another type of item).
 
 ---
@@ -47,9 +48,9 @@ This component is a specific image or phenomenon you need to imagine. Activate a
 
 ### Interact
 
-This component works like the [[Interact]] basic action. Activate an Item gains the manipulate trait and requires you to use your hands, just like with any Interact action.
+This component works like the [[DATABASE/action/Interact|Interact]] basic action. Activate an Item gains the manipulate trait and requires you to use your hands, just like with any Interact action.
 
 ### Cast a Spell
 
-If an item lists “Cast a Spell” after “Activate,” the activation requires you to use the [[Cast a Spell]] activity to Activate the Item. This happens when the item replicates a spell. You must have a spellcasting class feature to Activate an Item with this activation component. If the item can be used for a specific spell, the action icon for that spell is provided. If it's an item like a staff, which can be used for many spells, the icon is omitted, and you must refer to each spell to determine which actions you must spend to Activate the Item to cast it.
+If an item lists “Cast a Spell” after “Activate,” the activation requires you to use the [[DATABASE/action/Cast a Spell|Cast a Spell]] activity to Activate the Item. This happens when the item replicates a spell. You must have a spellcasting class feature to Activate an Item with this activation component. If the item can be used for a specific spell, the action icon for that spell is provided. If it's an item like a staff, which can be used for many spells, the icon is omitted, and you must refer to each spell to determine which actions you must spend to Activate the Item to cast it.
  In this case, Activate an Item gains all the traits from the relevant components of the Cast a Spell activity.

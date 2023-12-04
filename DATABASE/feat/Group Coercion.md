@@ -11,6 +11,7 @@ name: Group Coercion
 prerequisite: Trained in [[DATABASE/skill/Intimidation|Intimidation]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: intimidation
@@ -24,8 +25,8 @@ type: Feat
 # Group Coercion <span class="item-type">Feat 1</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** trained in [[Intimidation]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** trained in [[DATABASE/skill/Intimidation|Intimidation]]
 
 ---
 When you Coerce, you can compare your Intimidation check result to the Will DCs of two targets instead of one. It’s possible to get a different degree of success for each target. The number of targets you can Coerce in a single action increases to four if you’re an expert, 10 if you’re a master, and 25 if you’re legendary.

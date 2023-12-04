@@ -3,6 +3,7 @@ creature_family: Beetle
 id: '14'
 name: Beetle
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Beetle
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Not all beetles are harmless creatures that can be easily crushed underfoot. Oversized and ravenous giant beetles can be found throughout the temperate and tropical regions of the world. They are often benign creatures, though when threatened or roused, giant beetles are quite dangerous. Their powerful mandibles and tough exoskeletons make for a challenging combatant.
 
 ### Members
 
-[[Flash Beetle]] (Creature -1), [[Giant Stag Beetle]] (Creature 4)
+[[DATABASE/monster/Flash Beetle|Flash Beetle]] (Creature -1), [[DATABASE/monster/Giant Stag Beetle|Giant Stag Beetle]] (Creature 4)
 
 ###  Beetle Species
 

@@ -11,6 +11,7 @@ name: Echoing Spell
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,8 +26,8 @@ type: Feat
 # Echoing Spell <span class="action-icon">1</span> <span class="item-type">Feat 18</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Metamagic</span><span class="item-trait">Sorcerer</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetypes** [[Time Mage]]*, [[Wellspring Mage]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetypes** [[DATABASE/archetype/Time Mage|Time Mage]]*, [[DATABASE/archetype/Wellspring Mage|Wellspring Mage]]
 * This archetype offers Echoing Spell at a different level than displayed here.
 
 ---

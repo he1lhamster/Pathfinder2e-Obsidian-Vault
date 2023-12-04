@@ -11,6 +11,7 @@ name: Dogfang Bite
 prerequisite: '[[DATABASE/heritage/Dogtooth Tengu|Dogtooth Tengu]] heritage'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Dogfang Bite <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Tengu</span>
-**Source** [[Ancestry Guide]] 
-**Prerequisites** [[Dogtooth Tengu]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
+**Prerequisites** [[DATABASE/heritage/Dogtooth Tengu|Dogtooth Tengu]]
 
 ---
 You can swing your beak to slash your foes when piercing attacks won't do. Your beak unarmed attack gains the versatile S weapon trait.

@@ -107,17 +107,17 @@ wisdom: '+3'
 Bronze dragons are among the most common of metallic dragons and the most likely to ally with mortals on worthy quests. However, they are naturally scholarly creatures who would rather remain in their lairs studying esoteric lore than go off on a wild adventure. These aloof and stoic dragons also act as preservationists, guarding storehouses of ancient lore from destruction or perversion. Bronze dragons are principled and protective, but while their silver cousins are quick to crusade for justice, bronze dragons prefer to find an important location worthy of their protection and guard it against any attack or unwelcome intrusion.
  Bronze dragons’ mastery over water and affinity for electricity means they are a boon to sailors caught in thunderstorms. A bronze dragon’s enemies quickly discover neither cloudy sky nor turbulent sea provides shelter from their wrath. Bronze dragons lair along shorelines, often in partially submerged sea caves.
  While all dragons keep hoards of treasure, the hoard of a bronze dragon more resembles a vast library—with the shelves kept carefully above the waterline, of course. In addition to their collections of esoteric lore, bronze dragons keep treasures associated with the sea, such as beautiful scrimshaw, flawless pearls, and equipment inlaid with mother-of-pearl and abalone shell.
-**Recall Knowledge - Dragon ([[Arcana]])**: DC 26
+**Recall Knowledge - Dragon ([[DATABASE/skill/Arcana|Arcana]])**: DC 26
 **Unspecific Lore**: DC 24
 **Specific Lore**: DC 21
 
 # Young Bronze Dragon<span class="item-type">Creature 9</span>
 
 <span class="trait-alignment item-trait">LG</span><span class="trait-size item-trait">Large</span><span class="item-trait">Amphibious</span><span class="item-trait">Dragon</span><span class="item-trait">Water</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +18; darkvision, scent (imprecise) 60 feet
-**Languages** [[Aquan]], [[Common]], [[Draconic]], [[Dwarven]], [[Elven]]; [[Speak with Animals]]
-**Skills** [[Acrobatics]] +16, [[Arcana]] +20, [[Athletics]] +18, [[Diplomacy]] +18, [[Intimidation]] +18, [[Occultism]] +18, [[Society]] +16, [[Stealth]] +16
+**Languages** [[DATABASE/language/Aquan|Aquan]], [[DATABASE/language/Common|Common]], [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Dwarven|Dwarven]], [[DATABASE/language/Elven|Elven]]; [[DATABASE/spell/Speak with Animals|speak with animals]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +16, [[DATABASE/skill/Arcana|Arcana]] +20, [[DATABASE/skill/Athletics|Athletics]] +18, [[DATABASE/skill/Diplomacy|Diplomacy]] +18, [[DATABASE/skill/Intimidation|Intimidation]] +18, [[DATABASE/skill/Occultism|Occultism]] +18, [[DATABASE/skill/Society|Society]] +16, [[DATABASE/skill/Stealth|Stealth]] +16
 **Str** +5, **Dex** +1, **Con** +3, **Int** +3, **Wis** +3, **Cha** +3
 
 ---
@@ -127,7 +127,7 @@ Bronze dragons are among the most common of metallic dragons and the most likely
 
 ---
 **Speed** 30 feet, fly 120 feet, swim 40 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +21 [+16/+11] (electricity, reach 10 feet), **Damage** 2d8+11 piercing plus 1d12 electricity</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +21 [+17/+13] (agile), **Damage** 2d8+11 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> tail +19 [+14/+9] (reach 10 feet), **Damage** 1d8+9 bludgeoning</span>**Arcane Innate Spells** DC 28; **Constant** **(2nd)** _[[Speak with Animals]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +21 [+16/+11] (electricity, reach 10 feet), **Damage** 2d8+11 piercing plus 1d12 electricity</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +21 [+17/+13] (agile), **Damage** 2d8+11 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> tail +19 [+14/+9] (reach 10 feet), **Damage** 1d8+9 bludgeoning</span>**Arcane Innate Spells** DC 28; **Constant** **(2nd)** _[[DATABASE/spell/Speak with Animals|speak with animals]]_
 <span class="in-box-ability">**Breath Weapon** <span class="action-icon">2</span> The bronze dragon breathes in one of two ways. The dragon can’t use Breath Weapon again for 1d4 rounds.
 
 * **Lightning** (arcane, electricity, evocation); The dragon breathes lightning in a 60-foot line that deals 6d12 electricity damage (DC 28 basic Reflex save).
@@ -139,4 +139,4 @@ Bronze dragons are among the most common of metallic dragons and the most likely
 
 Bronze dragon spellcasters tend to cast the following spells.
 **Young Bronze Dragon**
-**Arcane Prepared Spells** DC 28, attack +21; **4th** [[Dimension Door]], [[Solid Fog]]; **3rd** [[Dispel Magic]], [[Mind Reading]], [[Slow]]; **2nd** [[Comprehend Language]], [[Mirror Image]], [[Resist Energy]]; **1st** [[Alarm]], [[Hydraulic Push]], [[True Strike]]; **Cantrips (4th)** [[Detect Magic]], [[Light]], [[Message]], [[Read Aura]], [[Shield]]
+**Arcane Prepared Spells** DC 28, attack +21; **4th** [[DATABASE/spell/Dimension Door|dimension door]], [[DATABASE/spell/Solid Fog|solid fog]]; **3rd** [[DATABASE/spell/Dispel Magic|dispel magic]], [[DATABASE/spell/Mind Reading|mind reading]], [[DATABASE/spell/Slow|slow]]; **2nd** [[DATABASE/spell/Comprehend Language|comprehend language]], [[DATABASE/spell/Mirror Image|mirror image]], [[DATABASE/spell/Resist Energy|resist energy]]; **1st** [[DATABASE/spell/Alarm|alarm]], [[DATABASE/spell/Hydraulic Push|hydraulic push]], [[DATABASE/spell/True Strike|true strike]]; **Cantrips (4th)** [[DATABASE/spell/Detect Magic|detect magic]], [[DATABASE/spell/Light|light]], [[DATABASE/spell/Message|message]], [[DATABASE/spell/Read Aura|read aura]], [[DATABASE/spell/Shield|shield]]

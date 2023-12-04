@@ -31,6 +31,7 @@ rarity: Unique
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -55,11 +56,11 @@ weapon_type: null
 # Ugly Cute's Gift<span class="item-type">Item 4</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="item-trait">Magical</span><span class="item-trait">Transmutation</span>
-**Source** [[Pathfinder 196. The Summer That Never Was]]
+**Source** [[DATABASE/source/Pathfinder 196. The Summer That Never Was|Pathfinder #196: The Summer That Never Was]]
 **Price** 60 gp
 **Usage** held in 1 hand; **Bulk** 1
-**Base Weapon** [[Spiked Gauntlet]]
+**Base Weapon** [[DATABASE/weapon/Spiked Gauntlet|Spiked Gauntlet]]
 
 ---
-This spiky, stony fragment shed from Ugly Cute's carapace fits quite comfortably over the hand. Though a little bulkier than the typical gauntlet, it still functions as a _+1 [[Spiked Gauntlet]]_.
-**Activate** <span class="action-icon">2</span> command, Interact **Frequency** once per day; **Effect** You draw upon Ugly Cute's latent spiritual energy to infuse the gauntlet with forceful power. For 1 minute, Ugly Cute's gift gains the advantages of a [[Ghost Touch]] property rune and deals an additional 2 force damage on a successful Strike.
+This spiky, stony fragment shed from Ugly Cute's carapace fits quite comfortably over the hand. Though a little bulkier than the typical gauntlet, it still functions as a _+1 [[DATABASE/weapon/Spiked Gauntlet|spiked gauntlet]]_.
+**Activate** <span class="action-icon">2</span> command, Interact **Frequency** once per day; **Effect** You draw upon Ugly Cute's latent spiritual energy to infuse the gauntlet with forceful power. For 1 minute, Ugly Cute's gift gains the advantages of a [[DATABASE/equipment/Ghost Touch|ghost touch]] property rune and deals an additional 2 force damage on a successful Strike.

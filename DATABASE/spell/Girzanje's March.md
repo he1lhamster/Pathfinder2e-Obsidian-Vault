@@ -20,6 +20,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Enchantment
 source: '[[DATABASE/source/Pathfinder 171. Hurricane''s Howl|Pathfinder #171: Hurricane''s
@@ -41,7 +42,7 @@ type: Spell
 # Girzanje's March<span class="item-type">Spell 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Auditory</span><span class="item-trait">Enchantment</span><span class="item-trait">Linguistic</span><span class="item-trait">Mental</span>
-**Source** [[Pathfinder 171. Hurricane's Howl]]
+**Source** [[DATABASE/source/Pathfinder 171. Hurricane's Howl|Pathfinder #171: Hurricane's Howl]]
 **Traditions** divine, occult
 **Cast** <span class="action-icon">2</span> verbal
 **Area** 30-foot burst

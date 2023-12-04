@@ -73,17 +73,17 @@ wisdom: '+2'
 # Fungus Leshy
 
 Fungus leshys guard caves, bogs, and damp, dark places. Their fungus gardens are bizarre by most standards, but fungus leshys are extremely proud of their works.
-**Recall Knowledge - Fungus ([[Nature]])**: DC 16
+**Recall Knowledge - Fungus ([[DATABASE/skill/Nature|Nature]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
 # Fungus Leshy<span class="item-type">Creature 2</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Small</span><span class="item-trait">Fungus</span><span class="item-trait">Leshy</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +6; darkvision
-**Languages** [[Common]], [[Druidic]], [[Sylvan]]; [[Speak with Plants]] (fungi only)
-**Skills** [[Athletics]] +6, [[Nature]] +6, [[Stealth]] +8
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Druidic|Druidic]], [[DATABASE/language/Sylvan|Sylvan]]; [[DATABASE/spell/Speak with Plants|speak with plants]] (fungi only)
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +6, [[DATABASE/skill/Nature|Nature]] +6, [[DATABASE/skill/Stealth|Stealth]] +8
 **Str** +2, **Dex** +4, **Con** +2, **Int** -1, **Wis** +2, **Cha** +0
 
 ---
@@ -93,5 +93,5 @@ Fungus leshys guard caves, bogs, and damp, dark places. Their fungus gardens are
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +10 [+6/+2] (agile, finesse), **Damage** 1d6+2 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> spore pod +10 [+5/+0] (range increment 30 feet), **Damage** 1d6+2 bludgeoning plus spores</span>**Primal Innate Spells** DC 16; **4th** _[[Speak with Plants]]_
-<span class="in-box-ability">**[[Change Shape]]** <span class="action-icon">1</span> (concentrate, polymorph, primal, transmutation) The fungus leshy transforms into a Small giant mushroom or patch of fungi. This ability otherwise uses the effects of [[Tree Shape]].</span><span class="in-box-ability">**Spore Cloud** <span class="action-icon">2</span> (poison) A fungus leshy can unleash a cloud of spores that irritates the eyes and throats of non-fungi creatures in a 15-foot emanation. Each creature must succeed at a DC 16 Fortitude save or take 1 persistent poison damage. A creature has its vision reduced as long as the persistent damage continues and can see only within 20 feet (or 10 feet, on a critical failure).</span><span class="in-box-ability">**Spores** A creature that takes damage from a fungus leshy’s spore pod Strike must attempt a saving throw with the same DC and effect as its Spore Cloud ability</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +10 [+6/+2] (agile, finesse), **Damage** 1d6+2 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> spore pod +10 [+5/+0] (range increment 30 feet), **Damage** 1d6+2 bludgeoning plus spores</span>**Primal Innate Spells** DC 16; **4th** _[[DATABASE/spell/Speak with Plants|speak with plants]]_
+<span class="in-box-ability">**[[DATABASE/monsterability/Change Shape|Change Shape]]** <span class="action-icon">1</span> (concentrate, polymorph, primal, transmutation) The fungus leshy transforms into a Small giant mushroom or patch of fungi. This ability otherwise uses the effects of [[DATABASE/spell/Tree Shape|tree shape]].</span><span class="in-box-ability">**Spore Cloud** <span class="action-icon">2</span> (poison) A fungus leshy can unleash a cloud of spores that irritates the eyes and throats of non-fungi creatures in a 15-foot emanation. Each creature must succeed at a DC 16 Fortitude save or take 1 persistent poison damage. A creature has its vision reduced as long as the persistent damage continues and can see only within 20 feet (or 10 feet, on a critical failure).</span><span class="in-box-ability">**Spores** A creature that takes damage from a fungus leshy’s spore pod Strike must attempt a saving throw with the same DC and effect as its Spore Cloud ability</span>

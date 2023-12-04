@@ -31,6 +31,7 @@ rarity: Unique
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 size: null
@@ -56,7 +57,7 @@ weapon_type: null
 # Guiding Chisel<span class="item-type">Item 16</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="item-trait">Conjuration</span><span class="item-trait">Elf</span><span class="item-trait">Magical</span>
-**Source** [[Pathfinder 148. Fires of the Haunted City]]
+**Source** [[DATABASE/source/Pathfinder 148. Fires of the Haunted City|Pathfinder #148: Fires of the Haunted City]]
 **Price** 10,000 gp
 **Usage** held in 1 hand; **Bulk** 1
 

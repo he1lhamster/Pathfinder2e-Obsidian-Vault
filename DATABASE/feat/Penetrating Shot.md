@@ -11,6 +11,7 @@ name: Penetrating Shot
 prerequisite: null
 rarity: Common
 requirement: You are wielding a ranged weapon.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Penetrating Shot <span class="action-icon">2</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Open</span><span class="item-trait">Ranger</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Requirements** You are wielding a ranged weapon.
 
 ---

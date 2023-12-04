@@ -11,6 +11,7 @@ name: Enlightened Presence
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -26,7 +27,7 @@ type: Feat
 # Enlightened Presence <span class="item-type">Feat 16</span>
 
 <span class="item-trait">Aura</span><span class="item-trait">Emotion</span><span class="item-trait">Mental</span><span class="item-trait">Monk</span>
-**Source** [[Core Rulebook]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
 You exude an aura of resolve. You and allies within 15 feet of you gain a +2 status bonus to Will saving throws against mental effects.

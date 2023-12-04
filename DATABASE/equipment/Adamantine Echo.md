@@ -31,6 +31,7 @@ rarity: Unique
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 size: null
@@ -58,13 +59,13 @@ weapon_type: null
 # Adamantine Echo<span class="item-type">Item 5</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="item-trait">Abjuration</span><span class="item-trait">Earth</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span><span class="item-trait">Relic</span>
-**Source** [[Pathfinder 193. Mantle of Gold]]
+**Source** [[DATABASE/source/Pathfinder 193. Mantle of Gold|Pathfinder #193: Mantle of Gold]]
 **Usage** incorporated into armor; **Bulk** L
 **Aspects** earth, luck
 
 ---
-Made from glossy, nearly black adamantine, this large fragment of a plate armor vambrace provides little protection on its own. However, when incorporated into an intact suit of armor, it functions as a [[Armor Potency]] rune.
- **Forming the Bond** The PCs complete the [[Rite of Repatriation]].
+Made from glossy, nearly black adamantine, this large fragment of a plate armor vambrace provides little protection on its own. However, when incorporated into an intact suit of armor, it functions as a [[DATABASE/equipment/Armor Potency|+1 armor potency]] rune.
+ **Forming the Bond** The PCs complete the [[DATABASE/ritual/Rite of Repatriation|rite of repatriation]].
  **Advancing the Bond** Survive (or even triumph against) seemingly impossible odds.
- **Minor Gifts** [[Beginner's Luck]], [[Ease Burden]], [[Shattered Earth]]
- **Major Gifts** [[Raise Ramparts]], [[Steal Luck]]
+ **Minor Gifts** [[DATABASE/relic/Beginner's Luck|beginner's luck]], [[DATABASE/relic/Ease Burden|ease burden]], [[DATABASE/relic/Shattered Earth|shattered earth]]
+ **Major Gifts** [[DATABASE/relic/Raise Ramparts|raise ramparts]], [[DATABASE/relic/Steal Luck|steal luck]]

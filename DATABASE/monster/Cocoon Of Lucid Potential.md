@@ -83,26 +83,26 @@ wisdom: '+1'
 # Cocoon Of Lucid Potential
 
 This creature did not include a description.
-**Recall Knowledge - Aberration ([[Occultism]])**: DC 41
+**Recall Knowledge - Aberration ([[DATABASE/skill/Occultism|Occultism]])**: DC 41
 **Unspecific Lore**: DC 39
 **Specific Lore**: DC 36
 
 # Cocoon Of Lucid Potential<span class="item-type">Creature 13</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Gargantuan</span><span class="item-trait">Aberration</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Perception** +26
-**Languages** [[Common]], [[Tien]]; (can't speak any language)
-**Skills** [[Acrobatics]] +30, [[Athletics]] +30
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Tien|Tien]]; (can't speak any language)
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +30, [[DATABASE/skill/Athletics|Athletics]] +30
 **Str** +5, **Dex** +1, **Con** +5, **Int** +1, **Wis** +1, **Cha** +8
 **Anchored in Silk** The cocoon is incapable of movement beyond slight wriggling in place. It has no Speed and can't move or be moved, even through means such as teleportation, as the Weaver's threads tether it in place physically and astrally. The cocoon casts any spells psychically, substituting verbal and somatic components for expressions of pure unbridled will and removing the manipulate trait from its Cast a Spell action.
 
 ---
 **AC** 33; **Fort** +26, **Ref** +20, **Will** +29
 **HP** 290; **Weaknesses** in there somewhere
-<span class="in-box-ability">**In There Somewhere** Killia's individuality still rests within the cocoon, yet trying to resist assimilation. If a PC succeeds at a DC 32 [[Diplomacy]] check on the cocoon, the cocoon takes 5d6 mental damage and is [[Stunned]] as Killia's consciousness fights the Weaver. The cocoon can't be affected in this way more than once per turn.</span><span class="in-box-ability">**Give of Oneself <span class="action-icon">4</span> ** **Trigger** The Weaver would be reduced to 0 Hit Points; Effect The cocoon's vitality is linked to the Weaver's. It loses 30 Hit Points, restoring 15 Hit Points to the Weaver. It can use this ability even if it would otherwise be unable to act.</span>
+<span class="in-box-ability">**In There Somewhere** Killia's individuality still rests within the cocoon, yet trying to resist assimilation. If a PC succeeds at a DC 32 [[DATABASE/skill/Diplomacy|Diplomacy]] check on the cocoon, the cocoon takes 5d6 mental damage and is [[DATABASE/condition/Stunned|stunned 1]] as Killia's consciousness fights the Weaver. The cocoon can't be affected in this way more than once per turn.</span><span class="in-box-ability">**Give of Oneself <span class="action-icon">4</span> ** **Trigger** The Weaver would be reduced to 0 Hit Points; Effect The cocoon's vitality is linked to the Weaver's. It loses 30 Hit Points, restoring 15 Hit Points to the Weaver. It can use this ability even if it would otherwise be unable to act.</span>
 
 ---
 **Speed** 0 feet
-<span class="in-box-ability">**Ranged** <span class="action-icon">1</span> psychic scream +27 [+22/+17] (mental, occult, range 120 feet, sonic), **Damage** 4d6 sonic plus 4d6 mental</span>**Occult Spontaneous Spells** DC 33, attack +27; **7th** _[[Invisibility Curtain]]_, _[[Spirit Blast]]_, _[[Telekinetic Bombardment]]_ (3 slots); **6th** _[[Collective Transposition]]_, _[[Dispel Magic]]_, _[[Feeblemind]]_, _[[Soothe]]_ (4 slots); **5th** _[[Darkness]]_, _[[Etheric Shards]]_, _[[Sea of Thought]]_, _[[Synaptic Pulse]]_ (4 slots); **Cantrips** **(7th)** _[[Daze]]_, _[[Mage Hand]]_, _[[Phase Bolt]]_, _[[Shield]]_, _[[Telekinetic Projectile]]_
-<span class="in-box-ability">**Of Same Essence** The cocoon and the Weaver share the same essence. Its spells never affect the Weaver if they would harm him, and the Weaver can ignore the any of the cocoon's active spell effects if he desires (such as [[Sea of Thought]]).</span>
+<span class="in-box-ability">**Ranged** <span class="action-icon">1</span> psychic scream +27 [+22/+17] (mental, occult, range 120 feet, sonic), **Damage** 4d6 sonic plus 4d6 mental</span>**Occult Spontaneous Spells** DC 33, attack +27; **7th** _[[DATABASE/spell/Invisibility Curtain|invisibility curtain]]_, _[[DATABASE/spell/Spirit Blast|spirit blast]]_, _[[DATABASE/spell/Telekinetic Bombardment|telekinetic bombardment]]_ (3 slots); **6th** _[[DATABASE/spell/Collective Transposition|collective transposition]]_, _[[DATABASE/spell/Dispel Magic|dispel magic]]_, _[[DATABASE/spell/Feeblemind|feeblemind]]_, _[[DATABASE/spell/Soothe|soothe]]_ (4 slots); **5th** _[[DATABASE/spell/Darkness|darkness]]_, _[[DATABASE/spell/Etheric Shards|etheric shards]]_, _[[DATABASE/spell/Sea of Thought|sea of thought]]_, _[[DATABASE/spell/Synaptic Pulse|synaptic pulse]]_ (4 slots); **Cantrips** **(7th)** _[[DATABASE/spell/Daze|daze]]_, _[[DATABASE/spell/Mage Hand|mage hand]]_, _[[DATABASE/spell/Phase Bolt|phase bolt]]_, _[[DATABASE/spell/Shield|shield]]_, _[[DATABASE/spell/Telekinetic Projectile|telekinetic projectile]]_
+<span class="in-box-ability">**Of Same Essence** The cocoon and the Weaver share the same essence. Its spells never affect the Weaver if they would harm him, and the Weaver can ignore the any of the cocoon's active spell effects if he desires (such as [[DATABASE/spell/Sea of Thought|sea of thought]]).</span>

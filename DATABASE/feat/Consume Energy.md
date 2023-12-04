@@ -11,6 +11,7 @@ name: Consume Energy
 prerequisite: null
 rarity: Rare
 requirement: null
+rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Gatewalkers Player''s Guide|Gatewalkers Player''s Guide]]'
 subcategory: null
@@ -27,7 +28,7 @@ type: Feat
 # Consume Energy <span class="action-icon">5</span> <span class="item-type">Feat 2</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Abjuration</span><span class="item-trait">Deviant</span><span class="item-trait">Magical</span>
-**Source** [[Gatewalkers Player's Guide]], [[Dark Archive]]
+**Source** [[DATABASE/source/Gatewalkers Player's Guide|Gatewalkers Player's Guide]], [[DATABASE/source/Dark Archive|Dark Archive]]
 **Trigger** An enemy within 60 feet uses an ability that has the trait corresponding to your deviation damage type.
 
 ---
@@ -52,4 +53,4 @@ Something with the magical trait is imbued with magical energies not tied to a s
 
 **Rare:**
 
-This rarity indicates that a rules element is very difficult to find in the game world. A rare feat, spell, item or the like is available to players only if the GM decides to include it in the game, typically through discovery during play. Creatures with this trait are rare. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creatures is increased by 5.
+This rarity indicates that a rules element is very difficult to find in the game world. A rare feat, spell, item or the like is available to players only if the GM decides to include it in the game, typically through discovery during play. Creatures with this trait are rare. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creatures is increased by 5.

@@ -11,6 +11,7 @@ name: Basic Wizard Spellcasting
 prerequisite: '[[DATABASE/feat/Wizard Dedication|Wizard Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,16 +24,16 @@ type: Feat
 # Basic Wizard Spellcasting <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Wizard]]
-**Prerequisites** [[Wizard Dedication]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Wizard|Wizard]]
+**Prerequisites** [[DATABASE/feat/Wizard Dedication|Wizard Dedication]]
 
 ---
 You gain the basic spellcasting benefits. Each time you gain a spell slot of a new level from the wizard archetype, add two common spells of that level to your spellbook.
 
 ## Basic Wizard Spellcasting Leads To...
 
-[[Arcane Breadth]], [[Expert Wizard Spellcasting]]
+[[DATABASE/feat/Arcane Breadth|Arcane Breadth]], [[DATABASE/feat/Expert Wizard Spellcasting|Expert Wizard Spellcasting]]
 
 ## Traits
 

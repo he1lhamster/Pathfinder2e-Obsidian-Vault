@@ -11,6 +11,7 @@ name: Calculated Splash
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Calculated Splash <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Alchemist</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Demolitionist]]*
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Demolitionist|Demolitionist]]*
 * This archetype offers Calculated Splash at a different level than displayed here.
 
 ---
@@ -36,4 +37,4 @@ This feat can be used for one or more Archetypes in addition to the listed Class
 
 ## Calculated Splash Leads To...
 
-[[Controlled Blast]], [[Expanded Splash]]
+[[DATABASE/feat/Controlled Blast|Controlled Blast]], [[DATABASE/feat/Expanded Splash|Expanded Splash]]

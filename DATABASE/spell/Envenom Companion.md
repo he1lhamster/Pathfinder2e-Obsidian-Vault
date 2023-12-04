@@ -21,6 +21,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -37,14 +38,14 @@ type: Spell
 # Envenom Companion<span class="item-type">Spell 3</span>
 
 <span class="item-trait">Necromancy</span><span class="item-trait">Poison</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Traditions** primal
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet; **Targets** your companion or eidolon
 **Duration** 1 minute
 
 ---
-You envenom your companion or eidolon's attacks, which drip with highly toxic venom for the spell's duration. The first time each round the target hits a creature with an unarmed Strike that deals piercing or slashing damage, that Strike deals an additional 1d8 poison damage. A creature that is damaged by this poison must attempt a Fortitude save. On a failure, it's also [[Clumsy]] for 1 round.
+You envenom your companion or eidolon's attacks, which drip with highly toxic venom for the spell's duration. The first time each round the target hits a creature with an unarmed Strike that deals piercing or slashing damage, that Strike deals an additional 1d8 poison damage. A creature that is damaged by this poison must attempt a Fortitude save. On a failure, it's also [[DATABASE/condition/Clumsy|clumsy 1]] for 1 round.
  This spell can't target familiars.
 
 ---

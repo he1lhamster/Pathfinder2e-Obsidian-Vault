@@ -11,6 +11,7 @@ name: Forge-Blessed Shot
 prerequisite: worshipper of [[DATABASE/deity/Torag|Torag]] or [[DATABASE/deity/Angradd|Angradd]]
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -25,9 +26,9 @@ type: Feat
 # Forge-Blessed Shot <span class="action-icon">4</span> <span class="item-type">Feat 17</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Divine</span><span class="item-trait">Dwarf</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Frequency** once per day
-**Prerequisites** worshipper of [[Torag]] or [[Angradd]]
+**Prerequisites** worshipper of [[DATABASE/deity/Torag|Torag]] or [[DATABASE/deity/Angradd|Angradd]]
 **Access** You are from Dongun Hold or Alkenstar.
 **Trigger** You attempt a ranged Strike.
 
@@ -42,8 +43,8 @@ This magic comes from the divine tradition, drawing power from deities or simila
 
 **Dwarf:**
 
-A creature with this trait is a member of the dwarf ancestry. Dwarves are stout folk who often live underground and typically have [[Darkvision]]. An ability with this trait can be used or selected only by dwarves. An item with this trait is created and used by dwarves.
+A creature with this trait is a member of the dwarf ancestry. Dwarves are stout folk who often live underground and typically have [[DATABASE/monsterability/Darkvision|darkvision]]. An ability with this trait can be used or selected only by dwarves. An item with this trait is created and used by dwarves.
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.

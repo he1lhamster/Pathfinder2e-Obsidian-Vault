@@ -13,6 +13,7 @@ id: '18'
 name: Summoner
 perception_proficiency: Trained
 rarity: Common
+rus_type_level: null
 skill_proficiency:
 - Trained in one or more skills determined by your eidolon
 - Trained in a number of additional skills equal to 3 plus your Intelligence modifier
@@ -27,7 +28,7 @@ type: Class
 
 ---
 # Summoner
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 _You can magically beckon a powerful being called an eidolon to your side, serving as the mortal conduit that anchors it to the world. Whether your eidolon is a friend, a servant, or even a personal god, your connection to it marks you as extraordinary, shaping the course of your life dramatically_
 **Key Ability: CHARISMA**
 At 1st level, your class gives you an ability boost to Charisma.
@@ -43,7 +44,7 @@ The following key terms can be found in many summoner class features.
 
 ## Summoning Spells
 
-When the [[Master Summoner]], [[Ostentatious Arrival]], and [[Legendary Summoner]] feats refer to summoning spells, they mean spells that conjure a creature with the summoned trait. The spells that qualify from the _Core Rulebook_ and this book are [[Summon Anarch]], [[Summon Animal]], [[Summon Axiom]], [[Summon Elemental]], [[Summon Entity]], [[Summon Fey]], [[Summon Fiend]], [[Summon Lesser Servitor]], and [[Summon Plant or Fungus]]. Your GM might add other spells from future books that work like these spells.
+When the [[DATABASE/feat/Master Summoner|Master Summoner]], [[DATABASE/feat/Ostentatious Arrival|Ostentatious Arrival]], and [[DATABASE/feat/Legendary Summoner|Legendary Summoner]] feats refer to summoning spells, they mean spells that conjure a creature with the summoned trait. The spells that qualify from the _Core Rulebook_ and this book are [[DATABASE/spell/Summon Anarch|summon anarch]], [[DATABASE/spell/Summon Animal|summon animal]], [[DATABASE/spell/Summon Axiom|summon axiom]], [[DATABASE/spell/Summon Elemental|summon elemental]], [[DATABASE/spell/Summon Entity|summon entity]], [[DATABASE/spell/Summon Fey|summon fey]], [[DATABASE/spell/Summon Fiend|summon fiend]], [[DATABASE/spell/Summon Lesser Servitor|summon lesser servitor]], and [[DATABASE/spell/Summon Plant or Fungus|summon plant or fungus]]. Your GM might add other spells from future books that work like these spells.
 
 # Roleplaying the Summoner
 
@@ -61,7 +62,7 @@ Whether you remain on alert for the presence of strange magic or keep an eye out
 
 ## In Downtime...
 
-You might attempt to learn more about the nature of your eidolon and delve deeper into the secrets of its magical tradition to [[Learn a Spell]], [[Craft]] magic items with your eidolon's help, or make allies using your social skills.
+You might attempt to learn more about the nature of your eidolon and delve deeper into the secrets of its magical tradition to [[DATABASE/action/Learn a Spell|Learn a Spell]], [[DATABASE/action/Craft|Craft]] magic items with your eidolon's help, or make allies using your social skills.
 
 ## You Might...
 
@@ -110,53 +111,51 @@ Trained in spell attack rolls of your spellcasting tradition, determined by your
 
 # Class Features
 
-You gain these features as a Summoner. Abilities gained at higher levels list the levels at which you gain them next to the features' names.
-
-|   Your Level | Class Features                                                                                                                |
-|-------------:|:------------------------------------------------------------------------------------------------------------------------------|
-|            1 | Ancestry and background, initial proficiencies, eidolon, evolution feat, link spells, spell repertoire, summoner spellcasting |
-|            2 | Skill feat, summoner feat                                                                                                     |
-|            3 | 2nd-level spells, general feat, shared vigilance, skill increase, unlimited signature spells                                  |
-|            4 | Skill feat, summoner feat                                                                                                     |
-|            5 | 3rd-level spells, ability boosts, ancestry feat, eidolon unarmed expertise, skill increase                                    |
-|            6 | Skill feat, summoner feat                                                                                                     |
-|            7 | 4th-level spells, eidolon symbiosis, eidolon weapon specialization, general feat, skill increase                              |
-|            8 | Skill feat, summoner feat                                                                                                     |
-|            9 | 5th-level spells, ancestry feat, expert spellcaster, shared reflexes, skill increase                                          |
-|           10 | Ability boosts, skill feat, summoner feat                                                                                     |
-|           11 | 6th-level spells, eidolon defensive expertise, general feat, simple weapon expertise, skill increase, twin juggernauts        |
-|           12 | Skill feat, summoner feat                                                                                                     |
-|           13 | 7th-level spells, ancestry feat, defensive robes, eidolon unarmed mastery, skill increase, weapon specialization              |
-|           14 | Skill feat, summoner feat                                                                                                     |
-|           15 | 8th-level spells, ability boosts, greater eidolon specialization, general feat, shared resolve, skill increase                |
-|           16 | Skill feat, summoner feat                                                                                                     |
-|           17 | 9th-level spells, ancestry feat, eidolon transcendence, master spellcaster, skill increase                                    |
-|           18 | Skill feat, summoner feat                                                                                                     |
-|           19 | General feat, eidolon defensive mastery, instant manifestation, skill increase                                                |
-|           20 | Ability boosts, skill feat, summoner feat                                                                                     |
-
-|   Your Level |   Cantrips | 1st   | 2nd   | 3rd   | 4th   | 5th   | 6th   | 7th   | 8th   | 9th   |
-|-------------:|-----------:|:------|:------|:------|:------|:------|:------|:------|:------|:------|
-|            1 |          5 | 1     | —     | —     | —     | —     | —     | —     | —     | —     |
-|            2 |          5 | 2     | —     | —     | —     | —     | —     | —     | —     | —     |
-|            3 |          5 | 2     | 1     | —     | —     | —     | —     | —     | —     | —     |
-|            4 |          5 | 2     | 2     | —     | —     | —     | —     | —     | —     | —     |
-|            5 |          5 | —     | 2     | 2     | —     | —     | —     | —     | —     | —     |
-|            6 |          5 | —     | 2     | 2     | —     | —     | —     | —     | —     | —     |
-|            7 |          5 | —     | —     | 2     | 2     | —     | —     | —     | —     | —     |
-|            8 |          5 | —     | —     | 2     | 2     | —     | —     | —     | —     | —     |
-|            9 |          5 | —     | —     | —     | 2     | 2     | —     | —     | —     | —     |
-|           10 |          5 | —     | —     | —     | 2     | 2     | —     | —     | —     | —     |
-|           11 |          5 | —     | —     | —     | —     | 2     | 2     | —     | —     | —     |
-|           12 |          5 | —     | —     | —     | —     | 2     | 2     | —     | —     | —     |
-|           13 |          5 | —     | —     | —     | —     | —     | 2     | 2     | —     | —     |
-|           14 |          5 | —     | —     | —     | —     | —     | 2     | 2     | —     | —     |
-|           15 |          5 | —     | —     | —     | —     | —     | —     | 2     | 2     | —     |
-|           16 |          5 | —     | —     | —     | —     | —     | —     | 2     | 2     | —     |
-|           17 |          5 | —     | —     | —     | —     | —     | —     | —     | 2     | 2     |
-|           18 |          5 | —     | —     | —     | —     | —     | —     | —     | 2     | 2     |
-|           19 |          5 | —     | —     | —     | —     | —     | —     | —     | 2     | 2     |
-|           20 |          5 | —     | —     | —     | —     | —     | —     | —     | 2     | 2     |
+You gain these features as a Summoner. Abilities gained at higher levels list the levels at which you gain them next to the features' names.| 0 | 1 |
+|:-----------|:------------------------------------------------------------------------------------------------------------------------------|
+| Your Level | Class Features |
+| 1 | Ancestry and background, initial proficiencies, eidolon, evolution feat, link spells, spell repertoire, summoner spellcasting |
+| 2 | Skill feat, summoner feat |
+| 3 | 2nd-level spells, general feat, shared vigilance, skill increase, unlimited signature spells |
+| 4 | Skill feat, summoner feat |
+| 5 | 3rd-level spells, ability boosts, ancestry feat, eidolon unarmed expertise, skill increase |
+| 6 | Skill feat, summoner feat |
+| 7 | 4th-level spells, eidolon symbiosis, eidolon weapon specialization, general feat, skill increase |
+| 8 | Skill feat, summoner feat |
+| 9 | 5th-level spells, ancestry feat, expert spellcaster, shared reflexes, skill increase |
+| 10 | Ability boosts, skill feat, summoner feat |
+| 11 | 6th-level spells, eidolon defensive expertise, general feat, simple weapon expertise, skill increase, twin juggernauts |
+| 12 | Skill feat, summoner feat |
+| 13 | 7th-level spells, ancestry feat, defensive robes, eidolon unarmed mastery, skill increase, weapon specialization |
+| 14 | Skill feat, summoner feat |
+| 15 | 8th-level spells, ability boosts, greater eidolon specialization, general feat, shared resolve, skill increase |
+| 16 | Skill feat, summoner feat |
+| 17 | 9th-level spells, ancestry feat, eidolon transcendence, master spellcaster, skill increase |
+| 18 | Skill feat, summoner feat |
+| 19 | General feat, eidolon defensive mastery, instant manifestation, skill increase |
+| 20 | Ability boosts, skill feat, summoner feat || 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|:-----------|:---------|:----|:----|:----|:----|:----|:----|:----|:----|:-----|
+| Your Level | Cantrips | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| 1 | 5 | 1 | — | — | — | — | — | — | — | — |
+| 2 | 5 | 2 | — | — | — | — | — | — | — | — |
+| 3 | 5 | 2 | 1 | — | — | — | — | — | — | — |
+| 4 | 5 | 2 | 2 | — | — | — | — | — | — | — |
+| 5 | 5 | — | 2 | 2 | — | — | — | — | — | — |
+| 6 | 5 | — | 2 | 2 | — | — | — | — | — | — |
+| 7 | 5 | — | — | 2 | 2 | — | — | — | — | — |
+| 8 | 5 | — | — | 2 | 2 | — | — | — | — | — |
+| 9 | 5 | — | — | — | 2 | 2 | — | — | — | — |
+| 10 | 5 | — | — | — | 2 | 2 | — | — | — | — |
+| 11 | 5 | — | — | — | — | 2 | 2 | — | — | — |
+| 12 | 5 | — | — | — | — | 2 | 2 | — | — | — |
+| 13 | 5 | — | — | — | — | — | 2 | 2 | — | — |
+| 14 | 5 | — | — | — | — | — | 2 | 2 | — | — |
+| 15 | 5 | — | — | — | — | — | — | 2 | 2 | — |
+| 16 | 5 | — | — | — | — | — | — | 2 | 2 | — |
+| 17 | 5 | — | — | — | — | — | — | — | 2 | 2 |
+| 18 | 5 | — | — | — | — | — | — | — | 2 | 2 |
+| 19 | 5 | — | — | — | — | — | — | — | 2 | 2 |
+| 20 | 5 | — | — | — | — | — | — | — | 2 | 2 |
 
 ## Ancestry And Background
 
@@ -170,10 +169,10 @@ At 1st level, you gain a number of proficiencies that represent your basic train
 
 You have a connection with a powerful and usually otherworldly entity called an eidolon, and you can use your life force as a conduit to manifest this ephemeral entity into the mortal world. Magic also flows through this conduit from your eidolon into you, so your eidolon determines the type of spells you cast and the spell list you choose from (as described in Summoner Spellcasting below). Choose a type of eidolon from the options starting on page 59 and other eidolons you have access to. When you choose your eidolon, you also determine its appearance and general form, within the parameters for that particular type of eidolon. Once you establish your eidolon's type and general appearance, these features can't be changed later, except by selecting special evolution feats that can cause your eidolon to develop new features. Your magical connection with your eidolon takes the form of a sigil on each of your bodies. As long as your eidolon is manifested, the sigil glows with light and can't be covered or disguised via any means; it will shine through clothing, appear over cloaks, and remain unaffected by obfuscating magic. This, combined with the way that the two of you clearly act in tandem, makes it readily apparent to an intelligent observer that the two of you are connected in some way, even if the person has never encountered a summoner before. You bring your eidolon into reality with the Manifest Eidolon action.
 
-### [[Manifest Eidolon]] <span class="action-icon">3</span>
+### [[DATABASE/action/Manifest Eidolon|Manifest Eidolon]] <span class="action-icon">3</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Conjuration</span><span class="item-trait">Manipulate</span><span class="item-trait">Summoner</span><span class="item-trait">Teleportation</span>
-**Source** [[Secrets of Magic]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]]
 
 ---
 Your eidolon appears in an open space adjacent to you, and can then take a single action. If your eidolon was already manifested, you unmanifest it instead.
@@ -182,20 +181,20 @@ Your eidolon appears in an open space adjacent to you, and can then take a singl
 Your eidolon is no mere minion. It doesn't have the minion or summoned trait, and the two of you work together and coordinate your actions. You and your eidolon share your actions and multiple attack penalty. Each round, you can use any of your actions (including reactions and free actions) for yourself or your eidolon.
  You coordinate your actions with your eidolon more efficiently when you Act Together.
 
-### [[Act Together]] <span class="action-icon">1</span> to <span class="action-icon">3</span>
+### [[DATABASE/action/Act Together|Act Together]] <span class="action-icon">1</span> to <span class="action-icon">3</span>
 
 <span class="item-trait">Summoner</span><span class="item-trait">Tandem</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Frequency** once per round
 
 ---
-You and your eidolon act as one. Either you or your eidolon takes an action or activity using the same number of actions as Act Together, and the other takes a single action. For example, if you spent 2 actions to Act Together, you could cast [[Burning Hands]] (2 actions) and your eidolon could Strike (1 action), or your eidolon could use its Breath Weapon (2 actions) and you could Stride (1 action).
- This lets you each use separate exploration activities like [[Avoid Notice]] as you travel.Your connection with your eidolon allows you to communicate with it telepathically at all times, even when it isn't manifested. You also gain the Share Senses action.
+You and your eidolon act as one. Either you or your eidolon takes an action or activity using the same number of actions as Act Together, and the other takes a single action. For example, if you spent 2 actions to Act Together, you could cast [[DATABASE/spell/Burning Hands|burning hands]] (2 actions) and your eidolon could Strike (1 action), or your eidolon could use its Breath Weapon (2 actions) and you could Stride (1 action).
+ This lets you each use separate exploration activities like [[DATABASE/action/Avoid Notice|Avoid Notice]] as you travel.Your connection with your eidolon allows you to communicate with it telepathically at all times, even when it isn't manifested. You also gain the Share Senses action.
 
-### [[Share Senses]] <span class="action-icon">1</span>
+### [[DATABASE/action/Share Senses|Share Senses]] <span class="action-icon">1</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Divination</span><span class="item-trait">Scrying</span><span class="item-trait">Summoner</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Requirements** Your eidolon is manifested.
 
 ---
@@ -207,17 +206,17 @@ You project your senses into your eidolon, allowing you to perceive through it. 
 Your eidolon can't wear or use magic items, except for items with the eidolon trait. An eidolon can have up to two items invested. Your eidolon's link to you means it can benefit from certain magic items invested by you.
 
 * Your eidolon gains item bonuses to Perception and skills from any magical items that you have invested.
-* Your eidolon increases its item bonus to AC based on your armor's [[Armor Potency]] or [[Bracers of Armor]]. It also gains an item bonus to its saves from the [[Resilient]] rune on your armor or from your _bracers of armor_. Other permanent items that grant or increase item bonuses to AC and saves might convey a similar benefit, as determined by the GM.
-* Your eidolon's Strikes benefit from the fundamental and property runes on your [[Handwraps of Mighty Blows]]. Alternatively, you can [[Invest an Item]] a magic weapon (even though magic weapons can't normally be Invested) to share its fundamental and property runes with your eidolon. You share these benefits only while you're holding the weapon, and you can have no more than one weapon invested in this way at a time. In either case, the eidolon gains only the benefits that can apply to its attacks, with the same limitations noted in _handwraps of mighty blows_.
+* Your eidolon increases its item bonus to AC based on your armor's [[DATABASE/equipment/Armor Potency|armor potency rune]] or [[DATABASE/equipment/Bracers of Armor|bracers of armor]]. It also gains an item bonus to its saves from the [[DATABASE/equipment/Resilient|resilient]] rune on your armor or from your _bracers of armor_. Other permanent items that grant or increase item bonuses to AC and saves might convey a similar benefit, as determined by the GM.
+* Your eidolon's Strikes benefit from the fundamental and property runes on your [[DATABASE/equipment/Handwraps of Mighty Blows|handwraps of mighty blows]]. Alternatively, you can [[DATABASE/action/Invest an Item|Invest]] a magic weapon (even though magic weapons can't normally be Invested) to share its fundamental and property runes with your eidolon. You share these benefits only while you're holding the weapon, and you can have no more than one weapon invested in this way at a time. In either case, the eidolon gains only the benefits that can apply to its attacks, with the same limitations noted in _handwraps of mighty blows_.
 
 ### Lost And Altered Actions
 
-If you or your eidolon becomes [[Slowed]], [[Stunned]], [[Quickened]], or otherwise affected by something that changes the actions you gain at the start of each turn, it affects your shared actions. However, if you are both subject to such an effect, apply only the more severe one. For instance, if you or your eidolon were slowed 1, you would start your turn with one fewer action, but if you were both slowed 1, you would still lose only one action, rather than adding the two slowed effects together. However, if you were slowed 1 and your eidolon slowed 2, you'd have two fewer actions, because that's the more severe effect. If only one of you becomes restricted in how you can spend your actions, that restriction doesn't automatically extend to the other; for example, if your eidolon became [[Immobilized]] or [[Petrified]], it wouldn't be able to move, but you could still use your actions to move. The GM resolves any situation that's unclear.
- You, as the player, control both your summoner and your eidolon, and the two are generally considered to cooperate unless you decide for them not to. While a summoner's link with an eidolon is a partnership, ultimately the eidolon is linked to you, not the other way around. If there's ever a conflict of who should act, you win out over your eidolon. This means that if the eidolon comes under an effect that would take its actions out of your control, such as the [[Confused]] or [[Controlled]] condition, you can use all of your shared actions so your eidolon doesn't have any actions remaining to cause trouble (as long as you are able to act). However, if you came under such an effect, you would simply use all of your shared actions, preventing your eidolon from acting.
+If you or your eidolon becomes [[DATABASE/condition/Slowed|slowed]], [[DATABASE/condition/Stunned|stunned]], [[DATABASE/condition/Quickened|quickened]], or otherwise affected by something that changes the actions you gain at the start of each turn, it affects your shared actions. However, if you are both subject to such an effect, apply only the more severe one. For instance, if you or your eidolon were slowed 1, you would start your turn with one fewer action, but if you were both slowed 1, you would still lose only one action, rather than adding the two slowed effects together. However, if you were slowed 1 and your eidolon slowed 2, you'd have two fewer actions, because that's the more severe effect. If only one of you becomes restricted in how you can spend your actions, that restriction doesn't automatically extend to the other; for example, if your eidolon became [[DATABASE/condition/Immobilized|immobilized]] or [[DATABASE/condition/Petrified|petrified]], it wouldn't be able to move, but you could still use your actions to move. The GM resolves any situation that's unclear.
+ You, as the player, control both your summoner and your eidolon, and the two are generally considered to cooperate unless you decide for them not to. While a summoner's link with an eidolon is a partnership, ultimately the eidolon is linked to you, not the other way around. If there's ever a conflict of who should act, you win out over your eidolon. This means that if the eidolon comes under an effect that would take its actions out of your control, such as the [[DATABASE/condition/Confused|confused]] or [[DATABASE/condition/Controlled|controlled]] condition, you can use all of your shared actions so your eidolon doesn't have any actions remaining to cause trouble (as long as you are able to act). However, if you came under such an effect, you would simply use all of your shared actions, preventing your eidolon from acting.
 
 ## Summoner Spellcasting
 
-Your link to your eidolon grants you limited magic connected to your eidolon's nature. You can cast spells using the Cast a Spell activity, and you can supply material, somatic, and verbal components when casting spells. Because of the magic you draw from your eidolon, you can usually replace material components with somatic components, so you don't need a [[Material Component Pouch]].
+Your link to your eidolon grants you limited magic connected to your eidolon's nature. You can cast spells using the Cast a Spell activity, and you can supply material, somatic, and verbal components when casting spells. Because of the magic you draw from your eidolon, you can usually replace material components with somatic components, so you don't need a [[DATABASE/equipment/Material Component Pouch|material component pouch]].
  Each day, you can cast one 1st-level spell and five cantrips. You must know spells to cast them, and you learn them via the spell repertoire class feature. The number of spells you can cast each day is called your spell slots.
  As you increase in level as a summoner, the magical link with your eidolon grants you additional, more powerful spell slots. Your total number of spell slots and the highest level of spells you can cast are shown in Table 2–4: Summoner Spells per Day. Because of the way you draw magic from your connection to your eidolon, you begin to lose lower-level spell slots once you reach 5th level. The maximum number of spell slots you get from the summoner class is four, starting when you reach 4th level.
  Some of your spells require you to attempt a spell attack roll to see how effective they are, or have your enemies roll against your spell DC (typically by attempting a saving throw). Since your key ability is Charisma, your spell attack rolls and spell DCs use your Charisma modifier. Details on calculating these statistics appear in Spell Attack Roll.
@@ -245,12 +244,12 @@ At 6th level and every even level thereafter, you can swap out any number of you
 
 Your connection to your eidolon allows you to cast link spells, special spells that have been forged through your shared connection with your eidolon. Link spells are a type of focus spell. It costs 1 Focus Point to cast a focus spell, and you start with a focus pool of 1 Focus Point. You refill your focus pool during your daily preparations, and you can regain 1 Focus Point by spending 10 minutes using the Refocus activity to specifically connect with your eidolon, such as by having a heart-to-heart conversation, playing together, or meditating in unison on the nature of your bond.
  Focus spells are automatically heightened to half your level rounded up, much like cantrips. Focus spells don't require spell slots, and you can't cast them using spell slots. Taking feats can give you more focus spells and increase the size of your focus pool, though your focus pool can never hold more than 3 Focus Points. The full rules for focus spells appear here.
- You learn the [[Evolution Surge]] link spell, which allows you to grant your eidolon one of several useful benefits.
+ You learn the [[DATABASE/spell/Evolution Surge|evolution surge]] link spell, which allows you to grant your eidolon one of several useful benefits.
 
 ### Link Cantrips
 
 Link cantrips are special link spells that don't cost Focus Points, so you can cast them as often as you like. Link cantrips are in addition to the cantrips you choose from your tradition's spell list. Generally, only feats can give you more link cantrips. Unlike other cantrips, you can't swap out link cantrips gained from summoner feats at a later level, unless you swap out the specific feat via retraining. 
-You learn the [[Boost Eidolon]] link cantrip, which briefly improves your eidolon's capabilities, allowing it to attack with greater power.
+You learn the [[DATABASE/spell/Boost Eidolon|boost eidolon]] link cantrip, which briefly improves your eidolon's capabilities, allowing it to attack with greater power.
 
 ## Evolution Feat
 

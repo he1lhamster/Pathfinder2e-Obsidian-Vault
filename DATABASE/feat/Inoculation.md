@@ -11,6 +11,7 @@ name: Inoculation
 prerequisite: Trained in [[DATABASE/skill/Medicine|Medicine]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: medicine
@@ -25,11 +26,11 @@ type: Feat
 # Inoculation <span class="item-type">Feat 1</span>
 
 <span class="item-trait">General</span><span class="item-trait">Healing</span><span class="item-trait">Skill</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** trained in [[Medicine]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** trained in [[DATABASE/skill/Medicine|Medicine]]
 
 ---
-You have practice combating plague, and your patients are less likely to succumb to the same disease again for a time. When you successfully [[Treat Disease]] on someone and they fully recover from the disease, they gain a +2 circumstance bonus to saving throws against that same disease for 1 week.
+You have practice combating plague, and your patients are less likely to succumb to the same disease again for a time. When you successfully [[DATABASE/action/Treat Disease|Treat Disease]] on someone and they fully recover from the disease, they gain a +2 circumstance bonus to saving throws against that same disease for 1 week.
 
 ## Traits
 

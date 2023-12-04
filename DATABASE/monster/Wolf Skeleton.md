@@ -76,22 +76,22 @@ wisdom: '+2'
 # Wolf Skeleton
 
 Without the burden of flesh, skeletal wolves charge across the battlefield with terrifying speed.
-**Recall Knowledge - Undead ([[Religion]])**: DC 14
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 14
 **Unspecific Lore**: DC 12
 **Specific Lore**: DC 9
 
 # Wolf Skeleton<span class="item-type">Creature 0</span>
 
 <span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Mindless</span><span class="item-trait">Skeleton</span><span class="item-trait">Undead</span>
-**Source** [[Book of the Dead]]
-**Perception** +8; [[Darkvision]]
-**Skills** [[Acrobatics]] +6, [[Athletics]] +4, [[Stealth]] +6
+**Source** [[DATABASE/source/Book of the Dead|Book of the Dead]]
+**Perception** +8; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +6, [[DATABASE/skill/Athletics|Athletics]] +4, [[DATABASE/skill/Stealth|Stealth]] +6
 **Str** +2, **Dex** +4, **Con** +1, **Int** -5, **Wis** +2, **Cha** +0
 
 ---
 **AC** 16; **Fort** +3, **Ref** +8, **Will** +6
-**HP** 12 ([[Negative Healing]]); **Immunities** death effects, disease, mental, [[Paralyzed]], poison, [[Unconscious]]; **Resistances** cold 5, electricity 5, fire 5, piercing 5, slashing 5
+**HP** 12 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects, disease, mental, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Unconscious|unconscious]]; **Resistances** cold 5, electricity 5, fire 5, piercing 5, slashing 5
 
 ---
 **Speed** 35 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +8 [+3/-2], **Damage** 1d4+2 piercing plus [[Knockdown]]</span><span class="in-box-ability">**Surge of Speed** <span class="action-icon">2</span> The wolf skeleton Strides three times, but it's [[Flat-Footed]] until the start of its next turn.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +8 [+3/-2], **Damage** 1d4+2 piercing plus [[DATABASE/monsterability/Knockdown|Knockdown]]</span><span class="in-box-ability">**Surge of Speed** <span class="action-icon">2</span> The wolf skeleton Strides three times, but it's [[DATABASE/condition/Flat-Footed|flat-footed]] until the start of its next turn.</span>

@@ -23,6 +23,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Abjuration
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -39,9 +40,9 @@ type: Spell
 # Animus Mine<span class="item-type">Spell 2</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Mental</span>
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Traditions** occult
-**Deity** [[Arazni]]
+**Deity** [[DATABASE/deity/Arazni|Arazni]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Saving Throw** Will; **Duration** 1 hour
 
@@ -50,7 +51,7 @@ You implant a mental mine within your psyche that detonates against anyone attem
  The first creature that uses a magical mental effect against you triggers the _animus mine_, causing the spell to end. The _animus mine_ deals 4d8 mental damage to the triggering creature, which must attempt a Will save.
 **Critical Success** The creature is unaffected.
 **Success** The creature takes half damage.
-**Failure** The creature takes full damage and is [[Stunned]].
+**Failure** The creature takes full damage and is [[DATABASE/condition/Stunned|stunned 1]].
 **Critical Failure** The creature takes double damage and is stunned 1. You are unaffected by the triggering mental effect.
 
 ---

@@ -12,6 +12,7 @@ prerequisite: null
 rarity: Uncommon
 requirement: "You must spend 10 minutes just after your daily preparations examining\
   \ the sky or consulting a starchart or you can\u2019t use this action that day."
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 subcategory: null
@@ -26,7 +27,7 @@ type: Feat
 # Saoc Astrology <span class="action-icon">1</span> <span class="item-type">Feat 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Concentrate</span><span class="item-trait">Human</span>
-**Source** [[Character Guide]] 
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
 **Frequency** 3 times per day
 **Access** Lirgeni nationality
 **Requirements** You must spend 10 minutes just after your daily preparations examining the sky or consulting a star chart or you can’t use this action that day.
@@ -36,7 +37,7 @@ The ancient Saoc Brethren were the masters of astrology, and while your knowledg
 
 ## Saoc Astrology Leads To...
 
-[[Heir of the Saoc]]
+[[DATABASE/feat/Heir of the Saoc|Heir of the Saoc]]
 
 ## Traits
 
@@ -46,8 +47,8 @@ An action with this trait requires a degree of mental concentration and discipli
 
 **Human:**
 
-A creature with this trait is a member of the [[Human]] ancestry. Humans are a diverse array of people known for their adaptability. An ability with this trait can be used or selected only by humans.
+A creature with this trait is a member of the [[DATABASE/ancestry/Human|human]] ancestry. Humans are a diverse array of people known for their adaptability. An ability with this trait can be used or selected only by humans.
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.

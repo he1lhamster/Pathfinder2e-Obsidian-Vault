@@ -23,6 +23,7 @@ follower_alignment:
 id: '155'
 name: Jaidi
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Nature|Nature]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -32,7 +33,7 @@ type: Deity
 ---
 # Jaidi (The Blessing and Bounty) [NG]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Category** Other Gods
 **Edicts** Encourage hard work that benefits all, ensure the health of crops and vegetation
 **Anathema** Destroy healthy crops, waste food, refuse to help others in your community
@@ -40,9 +41,9 @@ type: Deity
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Strength or Constitution
-**Divine Font** _[[Heal]]_
-**Divine Skill** [[Nature]]
-**Favored Weapon** [[Scythe]]
-**Domains** [[Family Domain]], [[Might Domain]], [[Nature Domain]], [[Sun Domain]]
-**Cleric Spells** 1st: _[[Temporary Tool]]_, 2nd: _[[Shape Wood]]_, 3rd: _[[Wall of Thorns]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Strength or Constitution
+**Divine Font** _[[DATABASE/spell/Heal|heal]]_
+**Divine Skill** [[DATABASE/skill/Nature|Nature]]
+**Favored Weapon** [[DATABASE/weapon/Scythe|scythe]]
+**Domains** [[DATABASE/domain/Family Domain|family]], [[DATABASE/domain/Might Domain|might]], [[DATABASE/domain/Nature Domain|nature]], [[DATABASE/domain/Sun Domain|sun]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Temporary Tool|temporary tool]]_, 2nd: _[[DATABASE/spell/Shape Wood|shape wood]]_, 3rd: _[[DATABASE/spell/Wall of Thorns|wall of thorns]]_

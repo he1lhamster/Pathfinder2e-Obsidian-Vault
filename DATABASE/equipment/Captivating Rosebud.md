@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -56,7 +57,7 @@ weapon_type: null
 # Captivating Rosebud<span class="item-type">Item 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Consumable</span><span class="item-trait">Emotion</span><span class="item-trait">Magical</span><span class="item-trait">Wood</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Price** 10 gp
 **Usage** held in 1 hand; **Bulk** —
 
@@ -66,5 +67,5 @@ Named because of its popularity among thieves to distract any authorities in pur
 **Critical Success** The creature is unaffected.
 **Success** The creature takes a –1 status penalty to Perception checks for 10 minutes.
 **Failure** As success, but a –2 penalty.
-**Critical Failure** As success, but a –2 penalty and the creature is [[Fascinated]] by the rosebush.
-**Activate****—Rose Vines** 10 minutes (manipulate); **Effect** You plant the _captivating rosebud_ into a square adjacent to a building or other structure. It grows into a rosebush that stretches up to 30 feet tall. You and your allies can use the rosebush as a ladder to [[Climb]] easily up and down the side of the adjacent structure, but all other creatures must succeed at a DC 17 Will saving throw or fail to notice the rosebush's presence.
+**Critical Failure** As success, but a –2 penalty and the creature is [[DATABASE/condition/Fascinated|fascinated]] by the rosebush.
+**Activate****—Rose Vines** 10 minutes (manipulate); **Effect** You plant the _captivating rosebud_ into a square adjacent to a building or other structure. It grows into a rosebush that stretches up to 30 feet tall. You and your allies can use the rosebush as a ladder to [[DATABASE/action/Climb|Climb]] easily up and down the side of the adjacent structure, but all other creatures must succeed at a DC 17 Will saving throw or fail to notice the rosebush's presence.

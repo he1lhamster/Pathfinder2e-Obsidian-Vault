@@ -11,6 +11,7 @@ name: Precious Arrow
 prerequisite: '[[DATABASE/feat/Eldritch Archer Dedication|Eldritch Archer Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,12 +26,12 @@ type: Feat
 # Precious Arrow <span class="action-icon">1</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Magical</span><span class="item-trait">Transmutation</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Eldritch Archer]]
-**Prerequisites** [[Eldritch Archer Dedication]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Eldritch Archer|Eldritch Archer]]
+**Prerequisites** [[DATABASE/feat/Eldritch Archer Dedication|Eldritch Archer Dedication]]
 
 ---
-You enchant a piece of ammunition with the magical essence of a precious material, allowing you to leverage certain creatures' weaknesses. Choose [[Cold Iron Weapon]] or [[Silver Weapon]]; if you shoot the arrow before the end of your turn, it counts as that material. At 14th level, add [[Adamantine Weapon]] to the list of materials you can choose from.
+You enchant a piece of ammunition with the magical essence of a precious material, allowing you to leverage certain creatures' weaknesses. Choose [[DATABASE/equipment/Cold Iron Weapon|cold iron]] or [[DATABASE/equipment/Silver Weapon|silver]]; if you shoot the arrow before the end of your turn, it counts as that material. At 14th level, add [[DATABASE/equipment/Adamantine Weapon|adamantine]] to the list of materials you can choose from.
 
 ## Traits
 

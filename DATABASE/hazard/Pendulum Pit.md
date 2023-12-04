@@ -14,6 +14,7 @@ name: Pendulum Pit
 rarity: Common
 reflex: null
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Night of the Gray Death|Night of the Gray Death]]'
 trait:
@@ -29,13 +30,13 @@ will: null
 # Pendulum Pit<span class="item-type">Hazard 20</span>
 
 <span class="item-trait">Complex</span><span class="item-trait">Magical</span><span class="item-trait">Mechanical</span><span class="item-trait">Trap</span>
-**Source** [[Night of the Gray Death]]
+**Source** [[DATABASE/source/Night of the Gray Death|Night of the Gray Death]]
 **Complexity** Complex
 **Stealth** +36 (Legendary) to realize the chamber is a complex rotating trap before it triggers. No check is necessary to notice the platforms and the pit.
 **Description** Several swinging pendulums of force cleave through the room across the platforms, knocking people into the pit.
 
 ---
-**Disable** DC 48 [[Arcana]] (legendary), DC 44 [[Thievery]] (master), or [[Dispel Magic]] (9th level; counteract DC 44) on a platform to deactivate its pendulum blade; once all five platforms have been deactivated, the trap is disabled and the room rotates back into position along the exits. DC 48 [[Thievery]] (legendary) from any blocked exit to activate the rotating mechanism and rotate the room back into position before the trap has been disabled.
+**Disable** DC 48 [[DATABASE/skill/Arcana|Arcana]] (legendary), DC 44 [[DATABASE/skill/Thievery|Thievery]] (master), or [[DATABASE/spell/Dispel Magic|dispel magic]] (9th level; counteract DC 44) on a platform to deactivate its pendulum blade; once all five platforms have been deactivated, the trap is disabled and the room rotates back into position along the exits. DC 48 [[DATABASE/skill/Thievery|Thievery]] (legendary) from any blocked exit to activate the rotating mechanism and rotate the room back into position before the trap has been disabled.
 **Locking Room** <span class="action-icon">5</span> **Trigger** A creature disturbs any of the platforms, or anything falls into the pit; **Effect** The room rotates 45 degrees, closing of the room by shifting its exits to face bare walls. A pendulum of force swings across the platform with the armor on it, knocking the armor into the pit and making a pendulum blade Strike against a creature on that platform (if any). The trap then rolls for initiative.
 
 ---

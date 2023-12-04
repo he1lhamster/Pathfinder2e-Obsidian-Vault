@@ -2,6 +2,7 @@
 id: '71'
 name: Pathfinder 163. Ruins of Gauntlight
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -16,23 +17,23 @@ type: Source
 
 ## Archetypes [1]
 
-[[Ghost Hunter]]
+[[DATABASE/archetype/Ghost Hunter|Ghost Hunter]]
 
 ## Equipment [7]
 
-[[Gauntlight]], [[Lantern of Empty Light]], [[Skeptic's Elixir]], [[Skeptic's Elixir]], [[Skeptic's Elixir]], [[Skeptic's Elixir]], [[The Whispering Reeds]]
+[[DATABASE/equipment/Gauntlight|Gauntlight]], [[DATABASE/equipment/Lantern of Empty Light|Lantern of Empty Light]], [[DATABASE/equipment/Skeptic's Elixir|Skeptic's Elixir]], [[DATABASE/equipment/Skeptic's Elixir|Skeptic's Elixir (Greater)]], [[DATABASE/equipment/Skeptic's Elixir|Skeptic's Elixir (Lesser)]], [[DATABASE/equipment/Skeptic's Elixir|Skeptic's Elixir (Moderate)]], [[DATABASE/equipment/The Whispering Reeds|The Whispering Reeds]]
 
 ## Feats [6]
 
-[[Ghost Hunter Dedication]], [[Ghost Strike]], [[Grave's Voice]], [[Investigate Haunting]], [[Peer Beyond]], [[Spirit Spells]]
+[[DATABASE/feat/Ghost Hunter Dedication|Ghost Hunter Dedication]], [[DATABASE/feat/Ghost Strike|Ghost Strike]], [[DATABASE/feat/Grave's Voice|Grave's Voice]], [[DATABASE/feat/Investigate Haunting|Investigate Haunting]], [[DATABASE/feat/Peer Beyond|Peer Beyond]], [[DATABASE/feat/Spirit Spells|Spirit Spells]]
 
 ## Monsters [7]
 
-[[Corpselight]], [[Flickerwisp]], [[Morlock Cultist]], [[Morlock Engineer]], [[Morlock Scavenger]], [[Scalathrax]], [[Voidglutton]]
+[[DATABASE/monster/Corpselight|Corpselight]], [[DATABASE/monster/Flickerwisp|Flickerwisp]], [[DATABASE/monster/Morlock Cultist|Morlock Cultist]], [[DATABASE/monster/Morlock Engineer|Morlock Engineer]], [[DATABASE/monster/Morlock Scavenger|Morlock Scavenger]], [[DATABASE/monster/Scalathrax|Scalathrax]], [[DATABASE/monster/Voidglutton|Voidglutton]]
 
 ## Rituals [1]
 
-[[Awaken Portal]]
+[[DATABASE/ritual/Awaken Portal|Awaken Portal]]
 
 ## Setting Articles [1]
 
@@ -40,4 +41,4 @@ Otari Gazetteer
 
 ## Spells [1]
 
-[[Worm's Repast]]
+[[DATABASE/spell/Worm's Repast|Worm's Repast]]

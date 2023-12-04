@@ -7,6 +7,7 @@ id: '316'
 name: Resist Elf Magic
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 trait: null
@@ -17,7 +18,7 @@ type: Action
 ---
 # Resist Elf Magic <span class="action-icon">5</span>
 
-**Source** [[Character Guide]] 
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
 **Trigger** You attempt a saving throw against a magical effect but haven’t rolled yet.
 
 ---

@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Mammoth Lord Dedication|Mammoth Lord Dedication]]
   Master in [[DATABASE/skill/Diplomacy|Diplomacy]] ; Master in [[DATABASE/skill/Intimidation|Intimidation]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burning
   Tundra]]'
@@ -26,12 +27,12 @@ type: Feat
 # Speech of the Mammoth Lords <span class="item-type">Feat 7</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Skill</span>
-**Source** [[Pathfinder 177. Burning Tundra]]
-**Archetype** [[Mammoth Lord]]
-**Prerequisites** [[Mammoth Lord Dedication]]; master in [[Diplomacy]] and [[Intimidation]]
+**Source** [[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burning Tundra]]
+**Archetype** [[DATABASE/archetype/Mammoth Lord|Mammoth Lord]]
+**Prerequisites** [[DATABASE/feat/Mammoth Lord Dedication|Mammoth Lord Dedication]]; master in [[DATABASE/skill/Diplomacy|Diplomacy]] and [[DATABASE/skill/Intimidation|Intimidation]]
 
 ---
-You've learned the ancient tongue spoken by the creatures of the far north. You can ask questions of, receive answers from, use the [[Diplomacy]] skill with, and [[Coerce]] megafauna. In most cases, megafauna of the Realm of the Mammoth Lords will hear you out.
+You've learned the ancient tongue spoken by the creatures of the far north. You can ask questions of, receive answers from, use the [[DATABASE/skill/Diplomacy|Diplomacy]] skill with, and [[DATABASE/action/Coerce|Coerce]] megafauna. In most cases, megafauna of the Realm of the Mammoth Lords will hear you out.
 
 ## Traits
 

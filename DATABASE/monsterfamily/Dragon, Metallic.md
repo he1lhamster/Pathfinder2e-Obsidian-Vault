@@ -3,6 +3,7 @@ creature_family: Dragon, Metallic
 id: '35'
 name: Dragon, Metallic
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,9 +11,9 @@ type: Creature Family
 ---
 # Dragon, Metallic
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Paragons of virtue, nobility, and grace, metallic dragons are benevolent entities revered as mythic beings akin to gods in both their power and majesty. Few have ever seen a metallic dragon firsthand, but tales of their intervention in mortals' lives—and of their passing—always spread far and wide. Named for the way their scales resemble the shining metals humanoids use in commerce, warfare, and industry, these immense beings are diverse in their interests and abilities, and they don't seem to mind being associated with such mundane materials. After all, to compare a gold dragon to a gold coin is like comparing an ocean to a glass of water—though they may seem similar at first glance, the raw power, breadth, and grandeur of one simply overwhelms the other.
- In addition to metallic dragons and their [[Dragon, Chromatic]], other types of dragons roam the world and the rest of the multiverse. In the legendary lands of Tian Xia on the other side of the globe are the imperial dragons, serpentine beings who protect the cosmic balance and defend their ancient homeland. Outside the Material Plane, primal dragons such as the domineering brine dragon and reclusive cloud dragon shape the nature and goings-on of the Elemental Planes. Countless other types of dragons are sure to exist, including dragons on far-fiung planes of existence and, it is rumored, primeval dragons who soar between the stars.
+ In addition to metallic dragons and their [[DATABASE/monsterfamily/Dragon, Chromatic|chromatic counterparts]], other types of dragons roam the world and the rest of the multiverse. In the legendary lands of Tian Xia on the other side of the globe are the imperial dragons, serpentine beings who protect the cosmic balance and defend their ancient homeland. Outside the Material Plane, primal dragons such as the domineering brine dragon and reclusive cloud dragon shape the nature and goings-on of the Elemental Planes. Countless other types of dragons are sure to exist, including dragons on far-fiung planes of existence and, it is rumored, primeval dragons who soar between the stars.
 
 ## Shape-Changing Dragons
 
@@ -30,7 +31,7 @@ Metallic dragons are found throughout the Inner Sea region, especially in pocket
 
 ### Members
 
-[[Dragon, Brass]], [[Dragon, Bronze]], [[Dragon, Copper]], [[Dragon, Gold]], [[Dragon, Silver]]
+[[DATABASE/monsterfamily/Dragon, Brass|Dragon, Brass]], [[DATABASE/monsterfamily/Dragon, Bronze|Dragon, Bronze]], [[DATABASE/monsterfamily/Dragon, Copper|Dragon, Copper]], [[DATABASE/monsterfamily/Dragon, Gold|Dragon, Gold]], [[DATABASE/monsterfamily/Dragon, Silver|Dragon, Silver]]
 
 ###  Apsu
 

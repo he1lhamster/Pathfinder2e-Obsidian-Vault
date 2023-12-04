@@ -11,6 +11,7 @@ name: Qlippoth Magic
 prerequisite: '[[DATABASE/feat/Riftmarked|Riftmarked]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,14 +24,14 @@ type: Feat
 # Qlippoth Magic <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Tiefling</span>
-**Source** [[Ancestry Guide]] 
-**Prerequisites** [[Riftmarked]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
+**Prerequisites** [[DATABASE/feat/Riftmarked|Riftmarked]]
 
 ---
-You've deeply studied the secrets of your blood and can force reality to act against its own wishes. You can cast [[Blur]] and [[Silence]] once per day each as 2nd-level divine innate spells.
+You've deeply studied the secrets of your blood and can force reality to act against its own wishes. You can cast [[DATABASE/spell/Blur|blur]] and [[DATABASE/spell/Silence|silence]] once per day each as 2nd-level divine innate spells.
 
 ## Traits
 
 **Tiefling:**
 
-A creature with this trait has the tiefling versatile heritage. Tieflings are [[Planar Scion]] descended from fiends. An ability with this trait can be used or selected only by tieflings.
+A creature with this trait has the tiefling versatile heritage. Tieflings are [[DATABASE/monsterfamily/Planar Scion|planar scions]] descended from fiends. An ability with this trait can be used or selected only by tieflings.

@@ -11,6 +11,7 @@ name: Telekinetic Slip
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -26,12 +27,12 @@ type: Feat
 # Telekinetic Slip <span class="action-icon">5</span> <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Evocation</span><span class="item-trait">Kashrishi</span><span class="item-trait">Occult</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 **Frequency** once per day
-**Trigger** Your turn begins, and you're [[Grabbed]] or [[Restrained]].
+**Trigger** Your turn begins, and you're [[DATABASE/condition/Grabbed|grabbed]] or [[DATABASE/condition/Restrained|restrained]].
 
 ---
-A thin shell of telekinetic energy pushes from your skin, widening your enemy's grasp enough for you to slip free. You gain a +2 status bonus to checks to [[Escape]] from whatever has you grabbed or restrained. This bonus lasts until either you're no longer grabbed or restrained, or you fall [[Unconscious]].
+A thin shell of telekinetic energy pushes from your skin, widening your enemy's grasp enough for you to slip free. You gain a +2 status bonus to checks to [[DATABASE/action/Escape|Escape]] from whatever has you grabbed or restrained. This bonus lasts until either you're no longer grabbed or restrained, or you fall [[DATABASE/condition/Unconscious|unconscious]].
 
 ## Traits
 

@@ -67,16 +67,16 @@ wisdom: '+2'
 # Lion
 
 Lions are cooperative hunters, ambushing dangerous prey in groups of lionesses that work in tandem to trap and kill their prey. Male lions are typically larger, with long manes, and when they hunt, they tend to do so on their own.
-**Recall Knowledge - Animal ([[Nature]])**: DC 18
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Lion<span class="item-type">Creature 3</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +9; low-light vision, scent (imprecise) 30 feet
-**Skills** [[Acrobatics]] +8, [[Athletics]] +11, [[Stealth]] +10
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +8, [[DATABASE/skill/Athletics|Athletics]] +11, [[DATABASE/skill/Stealth|Stealth]] +10
 **Str** +4, **Dex** +3, **Con** +2, **Int** -4, **Wis** +2, **Cha** -2
 
 ---
@@ -85,4 +85,4 @@ Lions are cooperative hunters, ambushing dangerous prey in groups of lionesses t
 
 ---
 **Speed** 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +11 [+6/+1], **Damage** 1d10+6 piercing plus Grab</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +11 [+7/+3] (agile), **Damage** 1d8+6 slashing</span><span class="in-box-ability">**Pack Attack** The lion deals 1d4 extra damage to any creature that's within reach of at least two of the lion's allies</span><span class="in-box-ability">**Pounce** <span class="action-icon">1</span> The lion Strides and makes a Strike at the end of that movement. If the lion began this action hidden, it remains hidden until after this ability's Strike.</span><span class="in-box-ability">**[[Sneak Attack]]** The lion deals 1d6 extra precision damage to flat-footed creatures.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +11 [+6/+1], **Damage** 1d10+6 piercing plus Grab</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +11 [+7/+3] (agile), **Damage** 1d8+6 slashing</span><span class="in-box-ability">**Pack Attack** The lion deals 1d4 extra damage to any creature that's within reach of at least two of the lion's allies</span><span class="in-box-ability">**Pounce** <span class="action-icon">1</span> The lion Strides and makes a Strike at the end of that movement. If the lion began this action hidden, it remains hidden until after this ability's Strike.</span><span class="in-box-ability">**[[DATABASE/monsterability/Sneak Attack|Sneak Attack]]** The lion deals 1d6 extra precision damage to flat-footed creatures.</span>

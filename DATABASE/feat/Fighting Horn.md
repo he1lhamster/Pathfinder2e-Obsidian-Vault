@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Puncturing Horn|Puncturing Horn]] or [[DATABASE/h
   heritage'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Fighting Horn <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Kashrishi</span>
-**Source** [[Impossible Lands]]
-**Prerequisites** [[Puncturing Horn]], or [[Xyloshi]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
+**Prerequisites** [[DATABASE/feat/Puncturing Horn|Puncturing Horn]], or [[DATABASE/heritage/Xyloshi|Xyloshi]]
 
 ---
 You can modify the size and shape of your horn over time using your mental powers. Choose two of the following weapon traits: disarm, grapple, shove, and trip. Your horn gains the chosen traits.

@@ -11,6 +11,7 @@ name: Garuda's Squall
 prerequisite: '[[DATABASE/feat/Plumekith|Plumekith]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -24,17 +25,17 @@ type: Feat
 # Garuda's Squall <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Aasimar</span><span class="item-trait">Lineage</span>
-**Source** [[Ancestry Guide]] 
-**Prerequisites** [[Plumekith]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
+**Prerequisites** [[DATABASE/feat/Plumekith|Plumekith]]
 
 ---
-[[Garuda]] marksmanship and magic are second nature to you. Whenever you critically hit using a bow, you apply the weapon's critical specialization effect.
+[[DATABASE/monster/Garuda|Garudas']] marksmanship and magic are second nature to you. Whenever you critically hit using a bow, you apply the weapon's critical specialization effect.
 
 ## Traits
 
 **Aasimar:**
 
-A creature with this trait has the aasimar versatile heritage. Aasimars are [[Planar Scion]] descended from celestial beings. An ability with this trait can be used or selected only by aasimars.
+A creature with this trait has the aasimar versatile heritage. Aasimars are [[DATABASE/monsterfamily/Planar Scion|planar scions]] descended from celestial beings. An ability with this trait can be used or selected only by aasimars.
 
 **Lineage:**
 

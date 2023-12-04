@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -38,7 +39,7 @@ type: Spell
 # Element Embodied<span class="item-type">Spell 10</span>
 
 <span class="item-trait">Polymorph</span><span class="item-trait">Transmutation</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Traditions** primal
 **Spell List** elemental
 **Cast** <span class="action-icon">2</span> somatic, verbal
@@ -51,19 +52,19 @@ Drawing upon the deepest wells of magic in an elemental plane, you transform int
 * AC = 25 + your level. Ignore your armor's check penalty and Speed reduction.
 * 30 temporary Hit Points.
 * Darkvision.
-* One or more attacks specific to the battle form you choose, which are the only attacks you can use. You're trained with them. Your attack modifier is +34, and you use the listed damage. These attacks are Dexterity based if you choose an air or fire elemental, or Strength based if you choose an earth or water elemental. (This distinction doesn't change the statistics, but matters for the [[Enfeebled]] and [[Clumsy]] conditions, for example). If your unarmed attack modifier is higher, you can use it instead.
-* [[Acrobatics]] modifier of +36 for air or fire elemental or [[Athletics]] modifier of +36 for earth or water elemental, unless your own modifier is higher.
+* One or more attacks specific to the battle form you choose, which are the only attacks you can use. You're trained with them. Your attack modifier is +34, and you use the listed damage. These attacks are Dexterity based if you choose an air or fire elemental, or Strength based if you choose an earth or water elemental. (This distinction doesn't change the statistics, but matters for the [[DATABASE/condition/Enfeebled|enfeebled]] and [[DATABASE/condition/Clumsy|clumsy]] conditions, for example). If your unarmed attack modifier is higher, you can use it instead.
+* [[DATABASE/skill/Acrobatics|Acrobatics]] modifier of +36 for air or fire elemental or [[DATABASE/skill/Athletics|Athletics]] modifier of +36 for earth or water elemental, unless your own modifier is higher.
 
 You also gain specific abilities based on the type of elemental you choose:
 
 ### Secrets of Magic
 
-* **Air Elemental** fly Speed 80 feet; **High Winds** (air, aura) 30 feet. Air within the emanation is difficult terrain for flying creatures that don't have the air trait; **Swiftness** Your movement doesn't trigger reactions; **Melee** <span class="action-icon">1</span> gust (reach 25 feet), **Damage** 3d12+11 bludgeoning plus [[Push]] 10 feet; **Ranged** <span class="action-icon">1</span> lightning lash (range increment 80 feet), **Damage** 3d12+4 electricity.
+* **Air Elemental** fly Speed 80 feet; **High Winds** (air, aura) 30 feet. Air within the emanation is difficult terrain for flying creatures that don't have the air trait; **Swiftness** Your movement doesn't trigger reactions; **Melee** <span class="action-icon">1</span> gust (reach 25 feet), **Damage** 3d12+11 bludgeoning plus [[DATABASE/monsterability/Push|Push]] 10 feet; **Ranged** <span class="action-icon">1</span> lightning lash (range increment 80 feet), **Damage** 3d12+4 electricity.
 * **Earth Elemental** 30 feet, burrow 20 feet; resistance 5 to physical; **Spike Stones** (aura, earth) 30 feet. The area is difficult terrain and hazardous terrain. A creature without the earth trait that moves on the ground in the area takes 5 piercing damage for every square of that area it moves into; **Rocky Toughness** You gain 40 temporary Hit Points when you choose this form instead of 30; **Melee** <span class="action-icon">1</span> fist (reach 25 feet), **Damage** 3d12+15 bludgeoning; **Ranged** <span class="action-icon">1</span> rock (range increment 40 feet), **Damage** 4d8+6 bludgeoning.
-* **Fire Elemental** 50 feet; immunity to fire; weakness to cold 10; **Intense Heat** (aura, fire) 30 feet. A creature that enters the aura or starts its turn in the aura takes 5d6 fire damage with a basic Reflex save against your spell DC. A creature can take damage from the aura only once per round; **Melee** <span class="action-icon">1</span> tendril (reach 25 feet), **Damage** 3d10+12 fire plus 2d6 [[Persistent Damage]]; **Ranged** <span class="action-icon">1</span> fire mote (range increment 60 feet), **Damage** 4d8+6 bludgeoning.
-* **Water Elemental** 40 feet, swim 80 feet; resistance 10 to fire; **Vortex** (aura, water) 30 feet. Water within the aura that is part of the same body of water you occupy is difficult terrain for [[Swim]] creatures that don't have the water trait; **Melee** <span class="action-icon">1</span> wave (reach 25 feet), **Damage** 3d12+18 bludgeoning plus [[Push]] or Pull 10 feet; **Ranged** <span class="action-icon">1</span> water spout (range increment 60 feet), **Damage** 4d8+6 bludgeoning.
+* **Fire Elemental** 50 feet; immunity to fire; weakness to cold 10; **Intense Heat** (aura, fire) 30 feet. A creature that enters the aura or starts its turn in the aura takes 5d6 fire damage with a basic Reflex save against your spell DC. A creature can take damage from the aura only once per round; **Melee** <span class="action-icon">1</span> tendril (reach 25 feet), **Damage** 3d10+12 fire plus 2d6 [[DATABASE/condition/Persistent Damage|persistent fire]]; **Ranged** <span class="action-icon">1</span> fire mote (range increment 60 feet), **Damage** 4d8+6 bludgeoning.
+* **Water Elemental** 40 feet, swim 80 feet; resistance 10 to fire; **Vortex** (aura, water) 30 feet. Water within the aura that is part of the same body of water you occupy is difficult terrain for [[DATABASE/action/Swim|Swimming]] creatures that don't have the water trait; **Melee** <span class="action-icon">1</span> wave (reach 25 feet), **Damage** 3d12+18 bludgeoning plus [[DATABASE/monsterability/Push|Push]] or Pull 10 feet; **Ranged** <span class="action-icon">1</span> water spout (range increment 60 feet), **Damage** 4d8+6 bludgeoning.
 
 ### Rage of Elements
 
 * **Metal Elemental** 40 feet, fly 40 feet; resistance 10 to electricity; **Arcing Electricity** (aura, electricity, metal) 30 feet. A creature that enters the aura or starts its turn in the aura takes 2d12 electricity damage with a basic Reflex save against your spell DC; a creature made of metal, with the metal trait, or wearing metal armor takes a –1 circumstance penalty on this save. A creature can take damage from the aura only once per round; **Melee** <span class="action-icon">1</span> blade (reach 25 feet, versatile slashing), **Damage** 3d12+15 piercing; **Ranged** <span class="action-icon">1</span> metal shard (range increment 40 feet, versatile slashing), **Damage** 4d8+6 piercing. The metal Strike is Dexterity based. 
-* **Wood Elemental** 30 feet, climb 35 feet; resistance 5 to physical; weakness to [[Axe]] 10; **Lush Growth** (aura, wood) 30 feet. Ground in the area is difficult terrain, and any time a creature in the area regains HP from a healing vitality effect, the aura grants a +5 status bonus to the healing; **Woody Toughness** You gain 40 temporary Hit Points when you choose this form instead of 30; **Melee** <span class="action-icon">1</span> branch (reach 25 feet), **Damage** 3d10+18 bludgeoning; **Ranged** <span class="action-icon">1</span> seed (range increment 40 feet), **Damage** 4d8+6 bludgeoning. The wood Strike is Strength based.
+* **Wood Elemental** 30 feet, climb 35 feet; resistance 5 to physical; weakness to [[DATABASE/weapongroup/Axe|axes]] 10; **Lush Growth** (aura, wood) 30 feet. Ground in the area is difficult terrain, and any time a creature in the area regains HP from a healing vitality effect, the aura grants a +5 status bonus to the healing; **Woody Toughness** You gain 40 temporary Hit Points when you choose this form instead of 30; **Melee** <span class="action-icon">1</span> branch (reach 25 feet), **Damage** 3d10+18 bludgeoning; **Ranged** <span class="action-icon">1</span> seed (range increment 40 feet), **Damage** 4d8+6 bludgeoning. The wood Strike is Strength based.

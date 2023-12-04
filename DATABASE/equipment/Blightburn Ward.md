@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 size: null
@@ -56,9 +57,9 @@ weapon_type: null
 # Blightburn Ward<span class="item-type">Item 13</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Abjuration</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span>
-**Source** [[Pathfinder 155. Lord of the Black Sands]]
+**Source** [[DATABASE/source/Pathfinder 155. Lord of the Black Sands|Pathfinder #155: Lord of the Black Sands]]
 **Price** 2,300 gp
 **Usage** worn necklace; **Bulk** —
 
 ---
-This heavy iron necklace is decorated with tiny gems that resemble the stars in the ceiling high above the Vault of the Black Desert. While you have invested this item, you cannot contract blightburn sickness. It doesn't cure [[Blightburn Sickness]] if you already have it, but the disease's stage can't progress while you wear it.
+This heavy iron necklace is decorated with tiny gems that resemble the stars in the ceiling high above the Vault of the Black Desert. While you have invested this item, you cannot contract blightburn sickness. It doesn't cure [[DATABASE/disease/Blightburn Sickness|blightburn sickness]] if you already have it, but the disease's stage can't progress while you wear it.

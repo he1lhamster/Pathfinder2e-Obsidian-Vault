@@ -2,6 +2,7 @@
 id: '194'
 name: Pathfinder 188. They Watched the Stars
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -16,39 +17,39 @@ type: Source
 
 ## Archetypes [1]
 
-[[Scions of Domora]]
+[[DATABASE/archetype/Scions of Domora|Scions of Domora]]
 
 ## Curses [1]
 
-[[Moon Hag's Eye]]
+[[DATABASE/curse/Moon Hag's Eye|Moon Hag's Eye]]
 
 ## Equipment [11]
 
-[[Astrolabe]], [[Astrolabe]], [[Astrolabe]], [[Astrolabe of Falling Stars]], [[Pickled Demon Tongue]], [[Pickled Demon Tongue]], [[Pickled Demon Tongue]], [[Polished Demon Horn]], [[Polished Demon Horn]], [[Polished Demon Horn]], [[Stargazer's Spyglass]]
+[[DATABASE/equipment/Astrolabe|Astrolabe]], [[DATABASE/equipment/Astrolabe|Astrolabe (Mariner's)]], [[DATABASE/equipment/Astrolabe|Astrolabe (Standard)]], [[DATABASE/equipment/Astrolabe of Falling Stars|Astrolabe of Falling Stars]], [[DATABASE/equipment/Pickled Demon Tongue|Pickled Demon Tongue]], [[DATABASE/equipment/Pickled Demon Tongue|Pickled Demon Tongue (Greater)]], [[DATABASE/equipment/Pickled Demon Tongue|Pickled Demon Tongue (Major)]], [[DATABASE/equipment/Polished Demon Horn|Polished Demon Horn]], [[DATABASE/equipment/Polished Demon Horn|Polished Demon Horn (Greater)]], [[DATABASE/equipment/Polished Demon Horn|Polished Demon Horn (Major)]], [[DATABASE/equipment/Stargazer's Spyglass|Stargazer's Spyglass]]
 
 ## Familiar Abilities [2]
 
-[[Bound to Mortal]], [[Spiritual Recall]]
+[[DATABASE/familiarability/Bound to Mortal|Bound to Mortal (familiar)]], [[DATABASE/familiarability/Spiritual Recall|Spiritual Recall (familiar)]]
 
 ## Familiars (Specific) [1]
 
-[[Spirit Guide]]
+[[DATABASE/familiarspecific/Spirit Guide|Spirit Guide]]
 
 ## Feats [8]
 
-[[Guardian's Embrace]], [[Guided Skill]], [[Invigorating Breath]], [[Scion of Domora Dedication]], [[Spirit Guide Form]], [[Spiritual Aid]], [[Spiritual Flurry]], [[Spiritual Strike]]
+[[DATABASE/feat/Guardian's Embrace|Guardian's Embrace]], [[DATABASE/feat/Guided Skill|Guided Skill]], [[DATABASE/feat/Invigorating Breath|Invigorating Breath]], [[DATABASE/feat/Scion of Domora Dedication|Scion of Domora Dedication]], [[DATABASE/feat/Spirit Guide Form|Spirit Guide Form]], [[DATABASE/feat/Spiritual Aid|Spiritual Aid]], [[DATABASE/feat/Spiritual Flurry|Spiritual Flurry]], [[DATABASE/feat/Spiritual Strike|Spiritual Strike]]
 
 ## Hazards [6]
 
-[[Freezing Floor]], [[Memory of Osoyo]], [[Shroud of Silence]], [[Test of the God Caller]], [[Toppling Shelves]], [[Valmar's Pit Trap]]
+[[DATABASE/hazard/Freezing Floor|Freezing Floor]], [[DATABASE/hazard/Memory of Osoyo|Memory of Osoyo]], [[DATABASE/hazard/Shroud of Silence|Shroud of Silence]], [[DATABASE/hazard/Test of the God Caller|Test of the God Caller]], [[DATABASE/hazard/Toppling Shelves|Toppling Shelves]], [[DATABASE/hazard/Valmar's Pit Trap|Valmar's Pit Trap]]
 
 ## Monsters [9]
 
-[[Capstan Swabbie]], [[Glimmervine]], [[Nimble Guide]], [[Kithangian (Beast Demon)]], [[Kvernknurr]], [[Myroga]], [[Skin Beetle]], [[Skin Beetle Swarm]], [[Sage Guide]]
+[[DATABASE/monster/Capstan Swabbie|Capstan Swabbie]], [[DATABASE/monster/Glimmervine|Glimmervine]], [[DATABASE/monster/Nimble Guide|Green Monkey]], [[DATABASE/monster/Kithangian (Beast Demon)|Kithangian]], [[DATABASE/monster/Kvernknurr|Kvernknurr]], [[DATABASE/monster/Myroga|Myroga]], [[DATABASE/monster/Skin Beetle|Skin Beetle]], [[DATABASE/monster/Skin Beetle Swarm|Skin Beetle Swarm]], [[DATABASE/monster/Sage Guide|Stone-Breasted Owl]]
 
 ## Rituals [1]
 
-[[Phantom Ship]]
+[[DATABASE/ritual/Phantom Ship|Phantom Ship]]
 
 ## Setting Articles [1]
 
@@ -56,4 +57,4 @@ The Lake
 
 ## Spells [3]
 
-[[Advanced Scurvy]], [[Briny Bolt]], [[Lashing Rope]]
+[[DATABASE/spell/Advanced Scurvy|Advanced Scurvy]], [[DATABASE/spell/Briny Bolt|Briny Bolt]], [[DATABASE/spell/Lashing Rope|Lashing Rope]]

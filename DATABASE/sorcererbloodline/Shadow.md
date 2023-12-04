@@ -3,6 +3,7 @@ bloodline: Shadow
 id: '14'
 name: Shadow
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 spell:
 - '[[DATABASE/spell/Chill Touch|Chill Touch]]'
@@ -24,10 +25,10 @@ type: Sorcerer Bloodline
 ---
 # Shadow
 
-**Source** [[Advanced Player's Guide]] 
-Whether due to a [[Velstrac]] manipulations or a planar jaunt gone horribly wrong, your bloodline was infused with a vein of shadow.
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+Whether due to a [[DATABASE/monsterfamily/Velstrac|velstrac's]] manipulations or a planar jaunt gone horribly wrong, your bloodline was infused with a vein of shadow.
 **Spell List** occult
-**Bloodline Skills** [[Occultism]], [[Stealth]]
-**Granted Spells** cantrip: [[Chill Touch]], 1st: [[Grim Tendrils]], 2nd: [[Darkness]], 3rd: [[Chilling Darkness]], 4th: [[Phantasmal Killer]], 5th: [[Shadow Siphon]], 6th: [[Collective Transposition]], 7th: [[Duplicate Foe]], 8th: [[Disappearance]], 9th: [[Weird]]
-**Bloodline Spells** initial: [[Dim the Light]], advanced: [[Steal Shadow]], greater: [[Consuming Darkness]]
+**Bloodline Skills** [[DATABASE/skill/Occultism|Occultism]], [[DATABASE/skill/Stealth|Stealth]]
+**Granted Spells** cantrip: [[DATABASE/spell/Chill Touch|chill touch]], 1st: [[DATABASE/spell/Grim Tendrils|grim tendrils]], 2nd: [[DATABASE/spell/Darkness|darkness]], 3rd: [[DATABASE/spell/Chilling Darkness|chilling darkness]], 4th: [[DATABASE/spell/Phantasmal Killer|phantasmal killer]], 5th: [[DATABASE/spell/Shadow Siphon|shadow siphon]], 6th: [[DATABASE/spell/Collective Transposition|collective transposition]], 7th: [[DATABASE/spell/Duplicate Foe|duplicate foe]], 8th: [[DATABASE/spell/Disappearance|disappearance]], 9th: [[DATABASE/spell/Weird|weird]]
+**Bloodline Spells** initial: [[DATABASE/spell/Dim the Light|dim the light]], advanced: [[DATABASE/spell/Steal Shadow|steal shadow]], greater: [[DATABASE/spell/Consuming Darkness|consuming darkness]]
 **Blood Magic** Shadows grow deeper around you or one target, either granting a +1 status bonus to Stealth or imposing a –1 status penalty to Perception for 1 round.

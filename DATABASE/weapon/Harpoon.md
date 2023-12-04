@@ -12,6 +12,7 @@ name: Harpoon
 price: 1 gp
 range: 30 ft.
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
 - '[[DATABASE/trait/Tethered|Tethered]]'
@@ -25,13 +26,13 @@ weapon_type: Ranged
 # Harpoon
 
 <span class="item-trait">Tethered</span><span class="item-trait">Thrown</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 1 gp; **Damage** 1d8 P; **Bulk** 1
 **Hands** 2; **Range** 30 ft.
-**Type** Ranged; **Category** Martial; **Group** [[Dart]]
+**Type** Ranged; **Category** Martial; **Group** [[DATABASE/weapongroup/Dart|Dart]]
 
 ---
-Often used for hunting exceptionally large aquatic creatures, the harpoon is similar to a [[Javelin]] but features a barbed head and rope tether so it (or the corpse it's attached to) can be easily retrieved.
+Often used for hunting exceptionally large aquatic creatures, the harpoon is similar to a [[DATABASE/weapon/Javelin|javelin]] but features a barbed head and rope tether so it (or the corpse it's attached to) can be easily retrieved.
 
 ## Traits
 
@@ -45,6 +46,6 @@ You can throw this weapon as a ranged attack, and it is a ranged weapon when thr
 
 ## Critical Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
-**Dart**: The target takes 1d6 [[Persistent Damage]]. You gain an item bonus to this bleed damage equal to the weapon's item bonus to attack rolls.
+**Dart**: The target takes 1d6 [[DATABASE/condition/Persistent Damage|persistent bleed damage]]. You gain an item bonus to this bleed damage equal to the weapon's item bonus to attack rolls.

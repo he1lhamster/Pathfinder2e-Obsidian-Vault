@@ -76,26 +76,26 @@ wisdom: '+4'
 # Chronicler
 
 Exploration means very little if no account of the details exist. Members of adventuring bands cherish chroniclers who record tales of their deeds.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 18
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Chronicler<span class="item-type">Creature 3</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Perception** +14
-**Languages** [[Common]]
-**Skills** [[Lore]] +17, [[Nature]] +14, [[Lore]] +17, [[Society]] +12, [[Survival]] +14
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Lore|Map Lore]] +17, [[DATABASE/skill/Nature|Nature]] +14, [[DATABASE/skill/Lore|Scribing Lore]] +17, [[DATABASE/skill/Society|Society]] +12, [[DATABASE/skill/Survival|Survival]] +14
 **Str** +2, **Dex** +2, **Con** +1, **Int** +4, **Wis** +4, **Cha** +0
-**Items** [[Crossbow]], [[Dagger]], journal, [[Leather Armor]], maps, _scroll of [[Acid Arrow]]_, _scroll of [[Heal]]_, [[Staff]]
+**Items** [[DATABASE/weapon/Crossbow|crossbow (20 bolts)]], [[DATABASE/weapon/Dagger|dagger]], journal, [[DATABASE/armor/Leather Armor|leather armor]], maps, _scroll of [[DATABASE/spell/Acid Arrow|acid arrow]]_, _scroll of [[DATABASE/spell/Heal|heal]]_, [[DATABASE/weapon/Staff|staff]]
 
 ---
 **AC** 18; **Fort** +8, **Ref** +9, **Will** +9
 **HP** 45
-<span class="in-box-ability">**Live to Tell the Tale <span class="action-icon">5</span> ** **Frequency** once per day; **Trigger** The chronicler is [[Dying]]; **Effect** The chronicler reduces their dying condition by 1. If the chronicler is no longer dying, they remain [[Unconscious]] for at least 1 hour or until they regain 1 Hit Point.</span>
+<span class="in-box-ability">**Live to Tell the Tale <span class="action-icon">5</span> ** **Frequency** once per day; **Trigger** The chronicler is [[DATABASE/condition/Dying|dying]]; **Effect** The chronicler reduces their dying condition by 1. If the chronicler is no longer dying, they remain [[DATABASE/condition/Unconscious|unconscious]] for at least 1 hour or until they regain 1 Hit Point.</span>
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> dagger +7 [+3/-1] (agile, thrown 10 feet, versatile S), **Damage** 1d4+2 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> staff +7 [+2/-3] (two-hand d8), **Damage** 1d4+2 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> crossbow +7 [+2/-3] (range increment 120 feet, reload 1), **Damage** 1d8 piercing</span>**Primal Prepared Spells** DC 20, attack +12; **2nd** _[[Entangle]]_, _[[Flaming Sphere]]_; **1st** _[[Fleet Step]]_, _[[Longstrider]]_, _[[Pass Without Trace]]_; **Cantrips** **(2nd)** _[[Know Direction]]_, _[[Light]]_, _[[Ray of Frost]]_, _[[Sigil]]_, _[[Tanglefoot]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> dagger +7 [+3/-1] (agile, thrown 10 feet, versatile S), **Damage** 1d4+2 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> staff +7 [+2/-3] (two-hand d8), **Damage** 1d4+2 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> crossbow +7 [+2/-3] (range increment 120 feet, reload 1), **Damage** 1d8 piercing</span>**Primal Prepared Spells** DC 20, attack +12; **2nd** _[[DATABASE/spell/Entangle|entangle]]_, _[[DATABASE/spell/Flaming Sphere|flaming sphere]]_; **1st** _[[DATABASE/spell/Fleet Step|fleet step]]_, _[[DATABASE/spell/Longstrider|longstrider]]_, _[[DATABASE/spell/Pass Without Trace|pass without trace]]_; **Cantrips** **(2nd)** _[[DATABASE/spell/Know Direction|know direction]]_, _[[DATABASE/spell/Light|light]]_, _[[DATABASE/spell/Ray of Frost|ray of frost]]_, _[[DATABASE/spell/Sigil|sigil]]_, _[[DATABASE/spell/Tanglefoot|tanglefoot]]_
 <span class="in-box-ability">**Scroll Mastery** The chronicler can activate any scroll of a 2nd-level spell or lower as if they had the spell on their spell list, regardless of its magical tradition.</span>

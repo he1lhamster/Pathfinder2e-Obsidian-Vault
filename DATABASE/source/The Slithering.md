@@ -2,6 +2,7 @@
 id: '41'
 name: The Slithering
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -16,16 +17,16 @@ type: Source
 
 ## Archetypes [1]
 
-[[Oozemorph]]
+[[DATABASE/archetype/Oozemorph|Oozemorph]]
 
 ## Equipment [24]
 
-[[Flaying Knife]], [[Gluttonous Spear]], [[Oily Button]], [[Putrescent Glob]], [[Sixfingers Elixir]], [[Sixfingers Elixir]], [[Sixfingers Elixir]], [[Sixfingers Elixir]], [[Slime Whip]], [[Slippery Ribbon]], [[Wand of Noisome Acid]], [[Wand of Noisome Acid]], [[Wand of Noisome Acid]], [[Wand of Noisome Acid]], [[Wand of Noisome Acid]], [[Wand of Teeming Ghosts]], [[Wand of Teeming Ghosts]], [[Wand of Teeming Ghosts]], [[Wand of Teeming Ghosts]], [[Wand of Teeming Ghosts]], [[Wand of Teeming Ghosts]], [[Wand of Teeming Ghosts]], [[Wand of Teeming Ghosts]], [[Wand of Teeming Ghosts]]
+[[DATABASE/equipment/Flaying Knife|Flaying Knife]], [[DATABASE/equipment/Gluttonous Spear|Gluttonous Spear]], [[DATABASE/equipment/Oily Button|Oily Button]], [[DATABASE/equipment/Putrescent Glob|Putrescent Glob]], [[DATABASE/equipment/Sixfingers Elixir|Sixfingers Elixir]], [[DATABASE/equipment/Sixfingers Elixir|Sixfingers Elixir (Greater)]], [[DATABASE/equipment/Sixfingers Elixir|Sixfingers Elixir (Lesser)]], [[DATABASE/equipment/Sixfingers Elixir|Sixfingers Elixir (Moderate)]], [[DATABASE/equipment/Slime Whip|Slime Whip]], [[DATABASE/equipment/Slippery Ribbon|Slippery Ribbon]], [[DATABASE/equipment/Wand of Noisome Acid|Wand of Noisome Acid]], [[DATABASE/equipment/Wand of Noisome Acid|Wand of Noisome Acid (2nd-Level Spell)]], [[DATABASE/equipment/Wand of Noisome Acid|Wand of Noisome Acid (4th-Level Spell)]], [[DATABASE/equipment/Wand of Noisome Acid|Wand of Noisome Acid (6th-Level Spell)]], [[DATABASE/equipment/Wand of Noisome Acid|Wand of Noisome Acid (8th-Level Spell)]], [[DATABASE/equipment/Wand of Teeming Ghosts|Wand of Teeming Ghosts]], [[DATABASE/equipment/Wand of Teeming Ghosts|Wand of Teeming Ghosts (2nd-Level Spell)]], [[DATABASE/equipment/Wand of Teeming Ghosts|Wand of Teeming Ghosts (3rd-Level Spell)]], [[DATABASE/equipment/Wand of Teeming Ghosts|Wand of Teeming Ghosts (4th-Level Spell)]], [[DATABASE/equipment/Wand of Teeming Ghosts|Wand of Teeming Ghosts (5th-Level Spell)]], [[DATABASE/equipment/Wand of Teeming Ghosts|Wand of Teeming Ghosts (6th-Level Spell)]], [[DATABASE/equipment/Wand of Teeming Ghosts|Wand of Teeming Ghosts (7th-Level Spell)]], [[DATABASE/equipment/Wand of Teeming Ghosts|Wand of Teeming Ghosts (8th-Level Spell)]], [[DATABASE/equipment/Wand of Teeming Ghosts|Wand of Teeming Ghosts (9th-Level Spell)]]
 
 ## Feats [8]
 
-[[Disturbing Defense]], [[Hideous Ululation]], [[Ooze Empathy]], [[Oozemorph Dedication]], [[Peculiar Anatomy]], [[Rubbery Skin]], [[Uncanny Suction]], [[Vacate Vision]]
+[[DATABASE/feat/Disturbing Defense|Disturbing Defense]], [[DATABASE/feat/Hideous Ululation|Hideous Ululation]], [[DATABASE/feat/Ooze Empathy|Ooze Empathy]], [[DATABASE/feat/Oozemorph Dedication|Oozemorph Dedication]], [[DATABASE/feat/Peculiar Anatomy|Peculiar Anatomy]], [[DATABASE/feat/Rubbery Skin|Rubbery Skin]], [[DATABASE/feat/Uncanny Suction|Uncanny Suction]], [[DATABASE/feat/Vacate Vision|Vacate Vision]]
 
 ## Monsters [2]
 
-[[Ahvothian]], [[Fuming Sludge]]
+[[DATABASE/monster/Ahvothian|Ahvothian]], [[DATABASE/monster/Fuming Sludge|Fuming Sludge]]

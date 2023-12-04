@@ -11,6 +11,7 @@ name: Skull Creeper
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Skull Creeper <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Ratfolk</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-You wear skulls to demoralize foes. You become trained in [[Intimidation]] and gain the [[Intimidating Glare]] skill feat. If you're already trained in Intimidation, you instead become trained in a skill of your choice. If you pay 50 gp for a splendid skull mask, the mask grants you a +1 item bonus to Intimidation; its usage is worn (mask).
+You wear skulls to demoralize foes. You become trained in [[DATABASE/skill/Intimidation|Intimidation]] and gain the [[DATABASE/feat/Intimidating Glare|Intimidating Glare]] skill feat. If you're already trained in Intimidation, you instead become trained in a skill of your choice. If you pay 50 gp for a splendid skull mask, the mask grants you a +1 item bonus to Intimidation; its usage is worn (mask).
 
 ## Traits
 

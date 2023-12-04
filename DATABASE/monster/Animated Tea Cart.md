@@ -80,22 +80,22 @@ wisdom: '+0'
 # Animated Tea Cart
 
 This creature did not include a description.
-**Recall Knowledge - Construct ([[Arcana]], [[Crafting]])**: DC 26
+**Recall Knowledge - Construct ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Crafting|Crafting]])**: DC 26
 **Unspecific Lore**: DC 24
 **Specific Lore**: DC 21
 
 # Animated Tea Cart<span class="item-type">Creature 8</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Construct</span><span class="item-trait">Mindless</span>
-**Source** [[Pathfinder 183. Field of Maidens]]
-**Perception** +13; [[Darkvision]]
-**Skills** [[Athletics]] +18, [[Stealth]] +16
+**Source** [[DATABASE/source/Pathfinder 183. Field of Maidens|Pathfinder #183: Field of Maidens]]
+**Perception** +13; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +18, [[DATABASE/skill/Stealth|Stealth]] +16
 **Str** +4, **Dex** +6, **Con** +4, **Int** -5, **Wis** +0, **Cha** -5
 **Items** dishes
 
 ---
 **AC** 28 (24 when broken, construct armor); **Fort** +16, **Ref** +18, **Will** +12
-**HP** 120; **Hardness** 8; **Immunities** bleed, death effects, disease, [[Doomed]], [[Drained]], [[Fatigued]], healing, mental, necromancy, nonlethal attacks, [[Paralyzed]], poison, [[Sickened]], [[Unconscious]]
+**HP** 120; **Hardness** 8; **Immunities** bleed, death effects, disease, [[DATABASE/condition/Doomed|doomed]], [[DATABASE/condition/Drained|drained]], [[DATABASE/condition/Fatigued|fatigued]], healing, mental, necromancy, nonlethal attacks, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Sickened|sickened]], [[DATABASE/condition/Unconscious|unconscious]]
 <span class="in-box-ability">**Construct Armor** Like normal objects, an animated tea cart has Hardness. This Hardness reduces any damage the tea cart takes by an amount equal to the Hardness. Once an animated tea cart is reduced to fewer than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks, removing the Hardness and reducing its Armor Class to 24.</span>
 
 ---

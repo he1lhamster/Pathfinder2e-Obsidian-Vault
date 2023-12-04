@@ -11,6 +11,7 @@ name: Catchy Tune
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -27,11 +28,11 @@ type: Feat
 # Catchy Tune <span class="action-icon">1</span> <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Auditory</span><span class="item-trait">Concentrate</span><span class="item-trait">Emotion</span><span class="item-trait">Mental</span><span class="item-trait">Sprite</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-You create a tune so catchy, your foes can't help but dance along. Attempt a [[Performance]] check against the Will DCs of all enemies in a 30-foot emanation.
-**Critical Success** The target takes a –10-foot status penalty to its Speed and is [[Flat-Footed]], both for 1 round.
+You create a tune so catchy, your foes can't help but dance along. Attempt a [[DATABASE/skill/Performance|Performance]] check against the Will DCs of all enemies in a 30-foot emanation.
+**Critical Success** The target takes a –10-foot status penalty to its Speed and is [[DATABASE/condition/Flat-Footed|flat-footed]], both for 1 round.
 **Success** The target takes a –5-foot status penalty to its Speed for 1 round.
 **Critical Failure** The target is temporarily immune for 1 hour.
 
@@ -39,7 +40,7 @@ You create a tune so catchy, your foes can't help but dance along. Attempt a [[P
 
 **Auditory:**
 
-Auditory actions and effects rely on sound. An action with the auditory trait can be successfully performed only if the creature using the action can speak or otherwise produce the required sounds. A spell or effect with the auditory trait has its effect only if the target can hear it. This applies only to sound-based parts of the effect, as determined by the GM. This is different from a sonic effect, which still affects targets who can't hear it (such as [[Deafened]] targets) as long as the effect itself makes sound.
+Auditory actions and effects rely on sound. An action with the auditory trait can be successfully performed only if the creature using the action can speak or otherwise produce the required sounds. A spell or effect with the auditory trait has its effect only if the target can hear it. This applies only to sound-based parts of the effect, as determined by the GM. This is different from a sonic effect, which still affects targets who can't hear it (such as [[DATABASE/condition/Deafened|deaf]] targets) as long as the effect itself makes sound.
 
 **Concentrate:**
 

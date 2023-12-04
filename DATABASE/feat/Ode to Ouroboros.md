@@ -11,6 +11,7 @@ name: Ode to Ouroboros
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Ode to Ouroboros <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Bard</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
-You learn the [[Ode to Ouroboros]] composition spell, which enables you to temporarily spare your allies from death.
+You learn the [[DATABASE/spell/Ode to Ouroboros|ode to ouroboros]] composition spell, which enables you to temporarily spare your allies from death.

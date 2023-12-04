@@ -70,16 +70,16 @@ wisdom: '+0'
 
 What first appears to be a simple shrub suddenly stirs to life.
 The bloodlash bush attempts to lacerate its foes, using its weeping wounds to irrigate the ground around itself. The seeds of a bloodlash bush can take root only in soil that has been soaked in blood.
-**Recall Knowledge - Plant ([[Nature]])**: DC 16
+**Recall Knowledge - Plant ([[DATABASE/skill/Nature|Nature]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
 # Bloodlash Bush<span class="item-type">Creature 2</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Small</span><span class="item-trait">Plant</span>
-**Source** [[The Fall of Plaguestone]]
+**Source** [[DATABASE/source/The Fall of Plaguestone|The Fall of Plaguestone]]
 **Perception** +6; tremorsense (imprecise) 30 feet
-**Skills** [[Athletics]] +8, [[Stealth]] +6
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +8, [[DATABASE/skill/Stealth|Stealth]] +6
 **Str** +4, **Dex** +2, **Con** +4, **Int** -4, **Wis** +0, **Cha** +0
 
 ---

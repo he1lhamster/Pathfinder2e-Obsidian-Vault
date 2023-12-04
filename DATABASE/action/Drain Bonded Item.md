@@ -7,6 +7,7 @@ id: '13'
 name: Drain Bonded Item
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
@@ -19,7 +20,7 @@ type: Action
 # Drain Bonded Item <span class="action-icon">4</span>
 
 <span class="item-trait">Arcane</span><span class="item-trait">Wizard</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Frequency** once per day
 
 ---

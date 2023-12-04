@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Tome of Restorative Cleansing<span class="item-type">Item 5+</span>
 
 <span class="item-trait">Grimoire</span><span class="item-trait">Magical</span><span class="item-trait">Necromancy</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Bulk** L
 
 ---
@@ -63,21 +64,21 @@ This book is dark blue on the night of the new moon, gradually shifting to brigh
 
 ## Tome of Restorative Cleansing (Lesser)<span class="item-type">Item 5</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 130 gp
 **Bulk** L
 The creature gains 1d8 temporary Hit Points.
 
 ## Tome of Restorative Cleansing (Moderate)<span class="item-type">Item 9</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 600 gp
 **Bulk** L
 The creature gains 2d8 temporary Hit Points.
 
 ## Tome of Restorative Cleansing (Greater)<span class="item-type">Item 14</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 3,750 gp
 **Bulk** L
 The creature gains 3d8 temporary Hit Points.

@@ -14,6 +14,7 @@ name: Barzillai's Hounds
 rarity: Rare
 reflex: null
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 147. Tomorrow Must Burn|Pathfinder #147: Tomorrow
   Must Burn]]'
@@ -29,14 +30,14 @@ will: null
 # Barzillai's Hounds<span class="item-type">Hazard 6</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Complex</span><span class="item-trait">Haunt</span>
-**Source** [[Pathfinder 147. Tomorrow Must Burn]]
+**Source** [[DATABASE/source/Pathfinder 147. Tomorrow Must Burn|Pathfinder #147: Tomorrow Must Burn]]
 **Complexity** Complex
 **Stealth** +17
 **Description** Hell hounds invisible to all but their lone target burn their chosen victim.
 
 ---
-**Disable** [[Religion]] DC 24 (expert) to perform an exorcism (with 2 actions)
-**Begin the Hunt** <span class="action-icon">5</span> (conjuration, occult); **Trigger** A creature that doesn't openly wear the symbol of [[Asmodeus]] comes within 60 feet of the haunt's initial location. **Effect** The hounds appear before the chosen target and begin to chase that creature, howling wildly. The haunt rolls initiative. Others cannot see or hear this baying and must [[Seek]] to determine the hounds' location.
+**Disable** [[DATABASE/skill/Religion|Religion]] DC 24 (expert) to perform an exorcism (with 2 actions)
+**Begin the Hunt** <span class="action-icon">5</span> (conjuration, occult); **Trigger** A creature that doesn't openly wear the symbol of [[DATABASE/deity/Asmodeus|Asmodeus]] comes within 60 feet of the haunt's initial location. **Effect** The hounds appear before the chosen target and begin to chase that creature, howling wildly. The haunt rolls initiative. Others cannot see or hear this baying and must [[DATABASE/action/Seek|Seek]] to determine the hounds' location.
 
 ---
 **Routine** (2 actions) The haunt uses its first action to Stride, then its second action for a jaws Strike against its designated target if it is in reach. If the target is not in reach, the haunt resets.

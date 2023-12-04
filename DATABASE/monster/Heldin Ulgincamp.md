@@ -73,19 +73,19 @@ wisdom: '+4'
 # Heldin Ulgincamp
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 25
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 25
 **Unspecific Lore**: DC 23
 **Specific Lore**: DC 20
 
 # Heldin Ulgincamp<span class="item-type">Creature 1</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Dwarf</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 193. Mantle of Gold]]
+**Source** [[DATABASE/source/Pathfinder 193. Mantle of Gold|Pathfinder #193: Mantle of Gold]]
 **Perception** +7; darkvision
-**Languages** [[Common]], [[Dwarven]], [[Petran]]
-**Skills** [[Crafting]] +7, [[Diplomacy]] +5, [[Religion]] +8
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Dwarven|Dwarven]], [[DATABASE/language/Petran|Petran]]
+**Skills** [[DATABASE/skill/Crafting|Crafting]] +7, [[DATABASE/skill/Diplomacy|Diplomacy]] +5, [[DATABASE/skill/Religion|Religion]] +8
 **Str** +1, **Dex** +0, **Con** +1, **Int** +3, **Wis** +4, **Cha** +1
-**Items** [[Candle]], [[Chain Shirt]], [[Flint and Steel]], [[Gi]], [[Repair Kit]], [[Hammer]]
+**Items** [[DATABASE/equipment/Candle|candles (10)]], [[DATABASE/armor/Chain Shirt|chain shirt]], [[DATABASE/equipment/Flint and Steel|flint and steel]], [[DATABASE/armor/Gi|religious symbol]], [[DATABASE/equipment/Repair Kit|repair kit]], [[DATABASE/equipment/Hammer|warhammer]]
 
 ---
 **AC** 16; **Fort** +7, **Ref** +4, **Will** +10
@@ -93,7 +93,7 @@ This creature did not include a description.
 
 ---
 **Speed** 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> warhammer +7 [+2/-3] (shove), **Damage** 1d8+1 bludgeoning</span>**Divine Prepared Spells** DC 17; **1st** _[[Heal]]_, _[[Magic Weapon]]_; **Cantrips** **(1st)** _[[Chill Touch]]_, _[[Shield]]_, _[[Stabilize]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> warhammer +7 [+2/-3] (shove), **Damage** 1d8+1 bludgeoning</span>**Divine Prepared Spells** DC 17; **1st** _[[DATABASE/spell/Heal|heal]]_, _[[DATABASE/spell/Magic Weapon|magic weapon]]_; **Cantrips** **(1st)** _[[DATABASE/spell/Chill Touch|chill touch]]_, _[[DATABASE/spell/Shield|shield]]_, _[[DATABASE/spell/Stabilize|stabilize]]_
 <span class="in-box-ability">**Anchor the Unliving** <span class="action-icon">2</span> (divine, necromancy) Heldin displays their religious symbol at an undead creature within 30 feet. The creature must attempt a DC 17 Fortitude save. 
 **Critical Success** The creature is unaffected
 **Success** Reduce the creature’s resistances by 1 for 1d4 rounds, after which it’s immune to this ability for 1 round.

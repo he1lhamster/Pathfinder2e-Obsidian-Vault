@@ -13,6 +13,7 @@ name: Maul
 price: 3 gp
 range: null
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Shove|Shove]]'
@@ -25,11 +26,11 @@ weapon_type: Melee
 # Maul
 
 <span class="item-trait">Shove</span>
-**Source** [[Core Rulebook]] 
-**Favored Weapon** [[Uvuko]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Favored Weapon** [[DATABASE/deity/Uvuko|Uvuko]]
 **Price** 3 gp; **Damage** 1d12 B; **Bulk** 2
 **Hands** 2
-**Type** Melee; **Category** Martial; **Group** [[Hammer]]
+**Type** Melee; **Category** Martial; **Group** [[DATABASE/weapongroup/Hammer|Hammer]]
 
 ---
 Mauls are massive warhammers that must be swung with two hands.
@@ -38,10 +39,10 @@ Mauls are massive warhammers that must be swung with two hands.
 
 **Shove:**
 
-You can use this weapon to [[Shove]] with the [[Athletics]] skill even if you don't have a free hand. This uses the weapon's reach (if different from your own) and adds the weapon's item bonus to attack rolls as an item bonus to the Athletics check. If you critically fail a check to Shove using the weapon, you can drop the weapon to take the effects of a failure instead of a critical failure.
+You can use this weapon to [[DATABASE/action/Shove|Shove]] with the [[DATABASE/skill/Athletics|Athletics]] skill even if you don't have a free hand. This uses the weapon's reach (if different from your own) and adds the weapon's item bonus to attack rolls as an item bonus to the Athletics check. If you critically fail a check to Shove using the weapon, you can drop the weapon to take the effects of a failure instead of a critical failure.
 
 ## Critical Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
-**Hammer**: The target is knocked [[Prone]].
+**Hammer**: The target is knocked [[DATABASE/condition/Prone|prone]].

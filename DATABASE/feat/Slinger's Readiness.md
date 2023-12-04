@@ -11,6 +11,7 @@ name: Slinger's Readiness
 prerequisite: '[[DATABASE/feat/Gunslinger Dedication|Gunslinger Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Slinger's Readiness <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Guns & Gears]]
-**Archetype** [[Gunslinger]]
-**Prerequisites** [[Gunslinger Dedication]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Archetype** [[DATABASE/archetype/Gunslinger|Gunslinger]]
+**Prerequisites** [[DATABASE/feat/Gunslinger Dedication|Gunslinger Dedication]]
 
 ---
 You've learned a gunslinger's tricks for staking out your territory in a fight. You gain the initial deed for the way you selected with Gunslinger's Dedication.

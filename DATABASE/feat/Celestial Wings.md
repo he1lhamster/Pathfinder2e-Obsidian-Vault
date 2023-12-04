@@ -11,6 +11,7 @@ name: Celestial Wings
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -26,7 +27,7 @@ type: Feat
 # Celestial Wings <span class="action-icon">2</span> <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Aasimar</span><span class="item-trait">Divine</span><span class="item-trait">Morph</span><span class="item-trait">Transmutation</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Frequency** once per day
 
 ---
@@ -34,13 +35,13 @@ With effort, you can call forth magical wings from your back, similar in appeara
 
 ## Celestial Wings Leads To...
 
-[[Eternal Wings (Aasimar)]]
+[[DATABASE/feat/Eternal Wings (Aasimar)|Eternal Wings (Aasimar)]]
 
 ## Traits
 
 **Aasimar:**
 
-A creature with this trait has the aasimar versatile heritage. Aasimars are [[Planar Scion]] descended from celestial beings. An ability with this trait can be used or selected only by aasimars.
+A creature with this trait has the aasimar versatile heritage. Aasimars are [[DATABASE/monsterfamily/Planar Scion|planar scions]] descended from celestial beings. An ability with this trait can be used or selected only by aasimars.
 
 **Divine:**
 

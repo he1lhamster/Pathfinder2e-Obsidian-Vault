@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/class_/Champion|divine ally (blade)]] ; [[DATABASE/cha
   of good]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Smite Evil <span class="action-icon">1</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Champion</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Champion]]; [[Good]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/class_/Champion|divine ally (blade)]]; [[DATABASE/championtenet/Good|tenets of good]]
 
 ---
 Your blade ally becomes an even more powerful tool against evildoers. Select one foe you can see. Until the start of your next turn, your Strikes with the weapon your blade ally inhabits against that foe deal an extra 4 good damage, increasing to 6 if you have master proficiency with this weapon.

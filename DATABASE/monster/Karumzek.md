@@ -81,18 +81,18 @@ wisdom: '+2'
 ---
 # Karumzek
 
-Karumzeks work with [[Norgorber]] to further the secretive deity's goals.
-**Recall Knowledge - Aberration ([[Occultism]])**: DC 21
+Karumzeks work with [[DATABASE/deity/Norgorber|Norgorberites]] to further the secretive deity's goals.
+**Recall Knowledge - Aberration ([[DATABASE/skill/Occultism|Occultism]])**: DC 21
 **Unspecific Lore**: DC 19
 **Specific Lore**: DC 16
 
 # Karumzek<span class="item-type">Creature 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Aberration</span>
-**Source** [[Pathfinder 171. Hurricane's Howl]]
-**Perception** +11; [[Darkvision]], poison sense (precise) 30 feet
-**Languages** [[Abyssal]], [[Common]], [[Infernal]], [[Undercommon]]
-**Skills** [[Acrobatics]] +10, [[Crafting]] +12, [[Nature]] +8, [[Religion]] +10, [[Stealth]] +12
+**Source** [[DATABASE/source/Pathfinder 171. Hurricane's Howl|Pathfinder #171: Hurricane's Howl]]
+**Perception** +11; [[DATABASE/monsterability/Darkvision|darkvision]], poison sense (precise) 30 feet
+**Languages** [[DATABASE/language/Abyssal|Abyssal]], [[DATABASE/language/Common|Common]], [[DATABASE/language/Infernal|Infernal]], [[DATABASE/language/Undercommon|Undercommon]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +10, [[DATABASE/skill/Crafting|Crafting]] +12, [[DATABASE/skill/Nature|Nature]] +8, [[DATABASE/skill/Religion|Religion]] +10, [[DATABASE/skill/Stealth|Stealth]] +12
 **Str** +3, **Dex** +4, **Con** +3, **Int** -1, **Wis** +2, **Cha** +0
 **Poison Sense** A karumzek senses any poisoned creature. It can spend an action with the concentrate trait to determine the poison's type and current stage.
 
@@ -102,5 +102,5 @@ Karumzeks work with [[Norgorber]] to further the secretive deity's goals.
 
 ---
 **Speed** 40 feet, climb 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> bite +12 [+7/+2], **Damage** 2d6+4 piercing plus karumzek venom</span>**Occult Innate Spells** DC 21; **2nd** _[[Death Knell]]_, _[[Invisibility]]_ (at will; self only), _[[Vomit Swarm]]_; **Constant** **(2nd)** _[[Negate Aroma]]_
-<span class="in-box-ability">**[[Change Shape]]** (arcane, concentrate, polymorph, transmutation) A karumzek can take the shape of a Tiny spider. This doesn't change its Speed or Strikes.</span><span class="in-box-ability">**Karumzek Venom** (poison, virulent) **Saving Throw** DC 19 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 1d6 poison (1 round); **Stage 2** 1d6 poison and [[Enfeebled]] (1 round); **Stage 3** 2d6 poison, [[Clumsy]], and enfeebled 1 (1 round)</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> bite +12 [+7/+2], **Damage** 2d6+4 piercing plus karumzek venom</span>**Occult Innate Spells** DC 21; **2nd** _[[DATABASE/spell/Death Knell|death knell]]_, _[[DATABASE/spell/Invisibility|invisibility]]_ (at will; self only), _[[DATABASE/spell/Vomit Swarm|vomit swarm]]_; **Constant** **(2nd)** _[[DATABASE/spell/Negate Aroma|negate aroma]]_
+<span class="in-box-ability">**[[DATABASE/monsterability/Change Shape|Change Shape]]** (arcane, concentrate, polymorph, transmutation) A karumzek can take the shape of a Tiny spider. This doesn't change its Speed or Strikes.</span><span class="in-box-ability">**Karumzek Venom** (poison, virulent) **Saving Throw** DC 19 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 1d6 poison (1 round); **Stage 2** 1d6 poison and [[DATABASE/condition/Enfeebled|enfeebled 1]] (1 round); **Stage 3** 2d6 poison, [[DATABASE/condition/Clumsy|clumsy 1]], and enfeebled 1 (1 round)</span>

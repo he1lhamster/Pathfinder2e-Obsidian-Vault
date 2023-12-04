@@ -11,6 +11,7 @@ name: Tangled Forest Rake
 prerequisite: '[[DATABASE/feat/Tangled Forest Stance|Tangled Forest Stance]]'
 rarity: Common
 requirement: You are in Tangled Forest Stance.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Tangled Forest Rake <span class="action-icon">1</span> <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Monk</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Tangled Forest Stance]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/feat/Tangled Forest Stance|Tangled Forest Stance]]
 **Requirements** You are in Tangled Forest Stance.
 
 ---

@@ -11,6 +11,7 @@ name: Hell of 1,000,000 Needles
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -27,10 +28,10 @@ type: Feat
 # Hell of 1,000,000 Needles <span class="action-icon">3</span> <span class="item-type">Feat 18</span>
 
 <span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Metal</span><span class="item-trait">Overflow</span><span class="item-trait">Primal</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
-The landscape fills with monumental filaments of metal. The needles lance into a cube 30 feet on a side within 500 feet. Each creature in the area takes 13d6 piercing damage, with a basic Reflex save against your class DC. Each creature that fails its save is impaled, becoming [[Immobilized]] until it [[Escape]] (the DC is your class DC); a creature that critically failed is also [[Off-Guard]] as long as it's impaled.
+The landscape fills with monumental filaments of metal. The needles lance into a cube 30 feet on a side within 500 feet. Each creature in the area takes 13d6 piercing damage, with a basic Reflex save against your class DC. Each creature that fails its save is impaled, becoming [[DATABASE/condition/Immobilized|immobilized]] until it [[DATABASE/action/Escape|Escapes]] (the DC is your class DC); a creature that critically failed is also [[DATABASE/condition/Off-Guard|off-guard]] as long as it's impaled.
  The hell remains until the end of your next turn, but you can Sustain it up to 1 minute. Using this impulse again ends any previous one. The first time you Sustain it each round, lightning crisscrosses the needles. Each creature in the area takes 3d12 electricity damage with a basic Reflex save against your class DC. Squares in the area are hazardous terrain. A creature takes 6 piercing damage for every square of the area it moves through.
 
 ---
@@ -48,7 +49,7 @@ Effects with the metal trait conjure or manipulate metal. Those that manipulate 
 
 **Overflow:**
 
-Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
+Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[DATABASE/action/Channel Elements|Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
 
 **Primal:**
 

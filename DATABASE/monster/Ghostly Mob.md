@@ -93,32 +93,32 @@ wisdom: '+4'
 # Ghostly Mob
 
 When a horrific tragedy results in mass death, the restless spirits of the numerous dead might arise as a ghostly mob. Like other ghosts, ghostly mobs are often unaware they're dead. The spirits trapped within the mob may try to carry out a semblance of their former lives, even though their memories are fragmentary and their forms are insubstantial. When forced to confront their true state, the spirits lash out in pain and violence.
-**Recall Knowledge - Undead ([[Religion]])**: DC 26
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 26
 **Unspecific Lore**: DC 24
 **Specific Lore**: DC 21
 
 # Ghostly Mob<span class="item-type">Creature 8</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Gargantuan</span><span class="item-trait">Ghost</span><span class="item-trait">Incorporeal</span><span class="item-trait">Troop</span><span class="item-trait">Undead</span>
-**Source** [[Pathfinder 182. Graveclaw]]
-**Perception** +16; [[Darkvision]]
-**Languages** [[Common]], [[Necril]]
-**Skills** [[Acrobatics]] +16, [[Lore]] +14, [[Stealth]] +16
+**Source** [[DATABASE/source/Pathfinder 182. Graveclaw|Pathfinder #182: Graveclaw]]
+**Perception** +16; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Necril|Necril]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +16, [[DATABASE/skill/Lore|Local Lore]] +14, [[DATABASE/skill/Stealth|Stealth]] +16
 **Str** -5, **Dex** +4, **Con** +3, **Int** +0, **Wis** +4, **Cha** +4
 **Site Bound** A ghostly mob can stray only a moderate distance from where its members were killed or the place it haunts. A typical limit is 240 feet.
 
 ---
 **AC** 25; **Fort** +15, **Ref** +14, **Will** +18
-**HP** 105 ([[Negative Healing]], rejuvenation); **Thresholds** 70 (12 squares), 35 (8 squares); **Immunities** death effects, disease, [[Paralyzed]], poison, precision, sleep; **Resistances** all damage 10 (except force, [[Ghost Touch]], or positive; double resistance vs. non-magical); **Weaknesses** area damage 15, splash damage 10
-<span class="in-box-ability">**Rejuvenation** (divine, necromancy) When a ghostly mob is destroyed, it re-forms after 2d4 days, fully healed. A ghostly mob can be permanently destroyed only if someone determines the reason for its existence and sets right whatever prevents the troop from resting.</span><span class="in-box-ability">**[[Troop Defenses]]** </span>
+**HP** 105 ([[DATABASE/monsterability/Negative Healing|negative healing]], rejuvenation); **Thresholds** 70 (12 squares), 35 (8 squares); **Immunities** death effects, disease, [[DATABASE/condition/Paralyzed|paralyzed]], poison, precision, sleep; **Resistances** all damage 10 (except force, [[DATABASE/equipment/Ghost Touch|ghost touch]], or positive; double resistance vs. non-magical); **Weaknesses** area damage 15, splash damage 10
+<span class="in-box-ability">**Rejuvenation** (divine, necromancy) When a ghostly mob is destroyed, it re-forms after 2d4 days, fully healed. A ghostly mob can be permanently destroyed only if someone determines the reason for its existence and sets right whatever prevents the troop from resting.</span><span class="in-box-ability">**[[DATABASE/monsterability/Troop Defenses|Troop Defenses]]** </span>
 
 ---
 **Speed** fly 25 feet, troop movement
 <span class="in-box-ability">**Clutching Hands** <span class="action-icon">1</span> to <span class="action-icon">3</span> (divine, necromancy) **Frequency** once per round; **Effect** The troop attacks enemies within 5 feet (DC 25 basic Reflex save), with damage depending on the number of actions.
  <span class="action-icon">1</span> 1d6+3 negative damage
  <span class="action-icon">2</span> 3d6+6 negative damage
- <span class="action-icon">3</span> 4d6+9 negative damage</span><span class="in-box-ability">**[[Form Up]]** <span class="action-icon">1</span> </span><span class="in-box-ability">**Frightful Chorus** <span class="action-icon">2</span> (auditory, divine, emotion, enchantment, fear, mental) The ghostly mob howls in anguish, forcing each living creature in a 30-foot emanation to attempt a DC 25 Will save or become [[Frightened]] (frightened 3 on a critical failure). Regardless of the save result, the creature is then temporarily immune to the troop's Frightful Chorus for 1 minute.</span><span class="in-box-ability">**Troop Movement** Whenever the ghostly mob Strides, it first [[Form Up]] as a free action to condense into a 20-foot-by-20-foot area (minus any missing squares), and then moves. This works just like a Gargantuan creature moving; for instance, if any of the ghostly mob's squares enter difficult terrain, the extra movement cost applies to the whole group.</span>
+ <span class="action-icon">3</span> 4d6+9 negative damage</span><span class="in-box-ability">**[[DATABASE/monsterability/Form Up|Form Up]]** <span class="action-icon">1</span> </span><span class="in-box-ability">**Frightful Chorus** <span class="action-icon">2</span> (auditory, divine, emotion, enchantment, fear, mental) The ghostly mob howls in anguish, forcing each living creature in a 30-foot emanation to attempt a DC 25 Will save or become [[DATABASE/condition/Frightened|frightened 2]] (frightened 3 on a critical failure). Regardless of the save result, the creature is then temporarily immune to the troop's Frightful Chorus for 1 minute.</span><span class="in-box-ability">**Troop Movement** Whenever the ghostly mob Strides, it first [[DATABASE/monsterability/Form Up|Forms Up]] as a free action to condense into a 20-foot-by-20-foot area (minus any missing squares), and then moves. This works just like a Gargantuan creature moving; for instance, if any of the ghostly mob's squares enter difficult terrain, the extra movement cost applies to the whole group.</span>
 
 ###  Echoes of Tragedy
 
-The specific tragedy that created a ghostly mob might alter its abilities. For example, a ghostly mob spawned from a fire might have Burning Grasp rather than Clutching Hands, which deals fire damage instead of negative damage. A ghostly mob created in an earthquake might have Earthshaking Chorus rather than Frightful Chorus, which causes living victims to be [[Slowed]] rather than [[Frightened]].
+The specific tragedy that created a ghostly mob might alter its abilities. For example, a ghostly mob spawned from a fire might have Burning Grasp rather than Clutching Hands, which deals fire damage instead of negative damage. A ghostly mob created in an earthquake might have Earthshaking Chorus rather than Frightful Chorus, which causes living victims to be [[DATABASE/condition/Slowed|slowed]] rather than [[DATABASE/condition/Frightened|frightened]].

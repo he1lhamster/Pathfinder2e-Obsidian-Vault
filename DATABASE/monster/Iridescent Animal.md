@@ -1,0 +1,100 @@
+﻿---
+ac: '34'
+alignment: NE
+all_resistance: null
+burrow_speed: null
+charisma: '+4'
+climb_speed: null
+constitution: '+6'
+creature_ability:
+- Disfigure
+- Tail Drag
+- Voice Imitation
+creature_family: null
+description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
+  - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
+  )</b>: DC 41<br/><b><u>Unspecific Lore</u></b>: DC 39<br/><b><u>Specific Lore</u></b>:
+  DC 36'
+dexterity: '+6'
+element: null
+fly_speed: null
+fortitude: '+25'
+hardness: null
+hp: '235'
+id: '2238'
+immunity: null
+intelligence: '+0'
+land_speed: '25'
+language:
+- '[[DATABASE/language/Aklo|Aklo]]'
+- '[[DATABASE/language/Common|Common]]'
+level: '13'
+max_speed: '35'
+name: Irahkatu
+perception: '+22'
+rarity: Unique
+reflex: '+21'
+resistance: null
+rus_type_level: null
+school: null
+sense:
+- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+size: Large
+skill:
+- '[[DATABASE/skill/Athletics|Athletics]] +25'
+- '[[DATABASE/skill/Deception|Deception]] +23'
+- '[[DATABASE/skill/Stealth|Stealth]] +25'
+source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
+speed:
+- 25 feet
+- swim 35 feet
+spell: null
+strength: '+8'
+strength_req: '8'
+strongest_save:
+- Fortitude
+swim_speed: '35'
+trait:
+- '[[DATABASE/trait/Amphibious|Amphibious]]'
+- '[[DATABASE/trait/Beast|Beast]]'
+- '[[DATABASE/trait/Unique|Unique]]'
+type: Creature
+vision: Darkvision
+weakest_save:
+- Will
+weakness: null
+will: '+20'
+wisdom: '+5'
+
+---
+# Iridescent Animal
+
+An iridescent animal is a wild or domesticated animal that has undergone a magical transformation to become a luminescent beast that can glow in the dark and use dazzling light-based powers. Although the effect is glamorous, the life of an iridescent animal is a sad one. The change drastically weakens the animal, diminishing both its strength and its vitality. This effect is desirable for some—particularly the circuses, menageries, and royal courts that typically purchase these glowing beasts—but never for the animal itself. Because the effects of the transformation are so deleterious, the act of creating an iridescent animal is strongly frowned upon by druids and other naturalists, some of whom dedicate their lives to rescuing and fostering these maltreated creatures. The procedure cannot be reversed, and few iridescent animals are fit to live in the wild after the transformation, cementing their lot in life to serve as showy beasts of burden or objects of entertainment and ridicule.
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 25
+**Unspecific Lore**: DC 23
+**Specific Lore**: DC 20
+
+# Iridescent Elephant<span class="item-type">Creature 7</span>
+
+<span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Huge</span><span class="item-trait">Animal</span>
+**Source** [[DATABASE/source/Pathfinder 152. Legacy of the Lost God|Pathfinder #152: Legacy of the Lost God]]
+**Perception** +11; scent (imprecise) 30 feet
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +15, [[DATABASE/skill/Survival|Survival]] +13
+**Str** +7, **Dex** +0, **Con** +2, **Int** -4, **Wis** +2, **Cha** +0
+
+---
+**AC** 21; **Fort** +16, **Ref** +9, **Will** +14
+**HP** 110
+<span class="in-box-ability">**Glowing Bones** An iridescent animal emits phosphorescent bright light in a 15-foot aura. The animal can suppress this display until the end of its next turn as a single action, which has the concentrate trait. The color of the light is determined by the iridescent animal’s creator.</span>
+
+---
+**Speed** 40 feet
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> tusk +14 [+9/+4] (reach 10 feet), **Damage** 3d8+7 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> trunk +16 [+11/+6] (reach 15 feet), **Effect** grabbing trunk</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> foot +14 [+9/+4] (reach 10 feet), **Damage** 2d10+7 bludgeoning plus color splash</span><span class="in-box-ability">**Color Splash** (visual) When the iridescent elephant stomps its foot, a bright, disorienting burst of light pulses through its leg. Each creatures adjacent to the iridescent elephant when it makes a foot Strike (regardless of whether or not it hit) must succeed at a DC 24 Will save or be [[DATABASE/condition/Flat-Footed|flat-footed]] until the beginning of the elephant’s next turn.</span><span class="in-box-ability">**Grabbing Trunk** A Medium or smaller creature hit by the elephant’s trunk is [[DATABASE/condition/Grabbed|grabbed]]. If the elephant moves, it can bring the grabbed creature along with it.</span><span class="in-box-ability">**[[DATABASE/monsterability/Trample|Trample]]** <span class="action-icon">3</span> Large or smaller, foot, DC 22</span><span class="in-box-ability">**Trunk Beam** (visual, light) **Frequency** once per day; **Effect** The iridescent elephant blasts a beam of light from its trunk in a 30-foot line. Each creature in the area must attempt a DC 22 Fortitude save. 
+**Critical Success** The creature is unaffected.
+**Success** The creature is [[DATABASE/condition/Dazzled|dazzled]] for 1 round.
+**Failure** The creature is [[DATABASE/condition/Blinded|blinded]] for 1 minute.
+**Critical Failure** The creature is blinded permanently.</span>
+
+###  Iridescent Beasts
+
+Intelligent beasts can also become iridescent animals, though they are never willing to undergo such a change and typically do anything in their power to exact revenge on the magician who transformed them.

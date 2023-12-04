@@ -25,6 +25,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Reflex
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -42,10 +43,10 @@ type: Spell
 # Flaming Sphere<span class="item-type">Spell 2</span>
 
 <span class="item-trait">Evocation</span><span class="item-trait">Fire</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, primal
-**Bloodline** [[Diabolic]]
-**Deities** [[Lubaiko]], [[Nurgal]], [[Ra]], [[The Path of the Heavens]]
+**Bloodline** [[DATABASE/sorcererbloodline/Diabolic|diabolic]]
+**Deities** [[DATABASE/deity/Lubaiko|Lubaiko]], [[DATABASE/deity/Nurgal|Nurgal]], [[DATABASE/deity/Ra|Ra]], [[DATABASE/deity/The Path of the Heavens|The Path of the Heavens]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet; **Area** 1 5-foot square
 **Saving Throw** Reflex; **Duration** sustained up to 1 minute

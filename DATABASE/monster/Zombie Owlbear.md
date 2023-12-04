@@ -74,28 +74,28 @@ wisdom: '+1'
 ---
 # Zombie Owlbear
 
-Zombie owlbears combine an [[Owlbear]] ferocity with mindless undead hatred. Once it draws near, it often stands up, unleashing a guttural, wet roar, before charging into combat without thought of self-preservation.
-**Recall Knowledge - Undead ([[Religion]])**: DC 18
+Zombie owlbears combine an [[DATABASE/monster/Owlbear|owlbear's]] ferocity with mindless undead hatred. Once it draws near, it often stands up, unleashing a guttural, wet roar, before charging into combat without thought of self-preservation.
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Zombie Owlbear<span class="item-type">Creature 3</span>
 
 <span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Mindless</span><span class="item-trait">Undead</span><span class="item-trait">Zombie</span>
-**Source** [[Book of the Dead]]
-**Perception** +8; [[Darkvision]]
-**Skills** [[Acrobatics]] +5, [[Athletics]] +12
+**Source** [[DATABASE/source/Book of the Dead|Book of the Dead]]
+**Perception** +8; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +5, [[DATABASE/skill/Athletics|Athletics]] +12
 **Str** +4, **Dex** +0, **Con** +3, **Int** -5, **Wis** +1, **Cha** -3
-**Slow** A zombie owlbear is permanently [[Slowed]] and can't use reactions.
+**Slow** A zombie owlbear is permanently [[DATABASE/condition/Slowed|slowed 1]] and can't use reactions.
 
 ---
 **AC** 16; **Fort** +8, **Ref** +5, **Will** +6
-**HP** 85 ([[Negative Healing]]); **Immunities** death effects, disease, mental, [[Paralyzed]], poison, [[Unconscious]]; **Weaknesses** positive 10, slashing 10
+**HP** 85 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects, disease, mental, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Unconscious|unconscious]]; **Weaknesses** positive 10, slashing 10
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> talon +12 [+7/+2], **Damage** 1d10+7 piercing plus [[Grab]]</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> beak +12 [+7/+2], **Damage** 1d12+7 piercing</span><span class="in-box-ability">**Ground Slam** <span class="action-icon">2</span> (attack) **Requirements** The zombie owlbear has a creature [[Grabbed]] or [[Restrained]] with its talons; **Effect** The zombie owlbear repeatedly slams the creature into the ground. This deals 1d10+7 bludgeoning damage (DC 20 basic Fortitude save). On a critical failure, the creature is [[Stunned]], and on a critical success the creature is no longer grabbed or restrained.</span><span class="in-box-ability">**Horrifying Screech** <span class="action-icon">1</span> (auditory, emotion, fear, mental) The zombie owlbear unleashes a broken, snarling screech that unnerves those who hear it. Each creature in a 60-foot emanation must attempt a DC 19 Will save. Regardless of the result, creatures are temporarily immune for 1 minute.
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> talon +12 [+7/+2], **Damage** 1d10+7 piercing plus [[DATABASE/monsterability/Grab|Grab]]</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> beak +12 [+7/+2], **Damage** 1d12+7 piercing</span><span class="in-box-ability">**Ground Slam** <span class="action-icon">2</span> (attack) **Requirements** The zombie owlbear has a creature [[DATABASE/condition/Grabbed|grabbed]] or [[DATABASE/condition/Restrained|restrained]] with its talons; **Effect** The zombie owlbear repeatedly slams the creature into the ground. This deals 1d10+7 bludgeoning damage (DC 20 basic Fortitude save). On a critical failure, the creature is [[DATABASE/condition/Stunned|stunned 1]], and on a critical success the creature is no longer grabbed or restrained.</span><span class="in-box-ability">**Horrifying Screech** <span class="action-icon">1</span> (auditory, emotion, fear, mental) The zombie owlbear unleashes a broken, snarling screech that unnerves those who hear it. Each creature in a 60-foot emanation must attempt a DC 19 Will save. Regardless of the result, creatures are temporarily immune for 1 minute.
  **Critical Success** The creature is unaffected.
- **Success** The creature is [[Frightened]].
+ **Success** The creature is [[DATABASE/condition/Frightened|frightened 1]].
  **Failure** The creature is frightened 2.
- **Critical Failure** The creature is [[Fleeing]] for 1 round and frightened 3.</span>
+ **Critical Failure** The creature is [[DATABASE/condition/Fleeing|fleeing]] for 1 round and frightened 3.</span>

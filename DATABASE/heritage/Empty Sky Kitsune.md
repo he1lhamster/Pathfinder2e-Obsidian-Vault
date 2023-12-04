@@ -2,6 +2,7 @@
 id: '138'
 name: Empty Sky Kitsune
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 trait: null
 type: Heritage
@@ -9,5 +10,5 @@ type: Heritage
 ---
 # Empty Sky Kitsune
 
-**Source** [[Ancestry Guide]] 
-Your spirit is open to the secrets of beyond, granting you greater access to kitsune magic. You gain the [[Kitsune Spell Familiarity]] ancestry feat. Your alternate form is a common Medium humanoid ancestry prevalent where you grew up (typically [[Human]]), called a tailless form.
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
+Your spirit is open to the secrets of beyond, granting you greater access to kitsune magic. You gain the [[DATABASE/feat/Kitsune Spell Familiarity|Kitsune Spell Familiarity]] ancestry feat. Your alternate form is a common Medium humanoid ancestry prevalent where you grew up (typically [[DATABASE/ancestry/Human|human]]), called a tailless form.

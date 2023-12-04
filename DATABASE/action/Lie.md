@@ -7,6 +7,7 @@ id: '47'
 name: Lie
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
@@ -22,7 +23,7 @@ type: Action
 # Lie
 
 <span class="item-trait">Auditory</span><span class="item-trait">Concentrate</span><span class="item-trait">Linguistic</span><span class="item-trait">Mental</span><span class="item-trait">Secret</span>
-**Source** [[Core Rulebook]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
 You try to fool someone with an untruth. Doing so takes at least 1 round, or longer if the lie is elaborate. You roll a single Deception check and compare it against the Perception DC of every creature you are trying to fool. The GM might give them a circumstance bonus based on the situation and the nature of the lie you are trying to tell. Elaborate or highly unbelievable lies are much harder to get a creature to believe than simpler and more believable lies, and some lies are so big that it’s impossible to get anyone to believe them.

@@ -7,6 +7,7 @@ id: '42'
 name: Repair
 rarity: Common
 requirement: You have a [[DATABASE/equipment/Repair Kit|repair kit]] .
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
@@ -19,8 +20,8 @@ type: Action
 # Repair
 
 <span class="item-trait">Exploration</span><span class="item-trait">Manipulate</span>
-**Source** [[Core Rulebook]] 
-**Requirements** You have a [[Repair Kit]].
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Requirements** You have a [[DATABASE/equipment/Repair Kit|repair kit]].
 
 ---
 You spend 10 minutes attempting to fix a damaged item, placing the item on a stable surface and using the repair kit with both hands. The GM sets the DC, but it’s usually about the same DC to Repair a given item as it is to Craft it in the first place. You can’t Repair a destroyed item.

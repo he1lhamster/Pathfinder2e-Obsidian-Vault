@@ -73,16 +73,16 @@ wisdom: '+0'
 # Scorpion Swarm
 
 While a single scorpion is itself a menace, swarms of these vermin can be outright devastating. These skittering droves of death swiftly bring down their prey before devouring everything short of the victim’s bones.
-**Recall Knowledge - Animal ([[Nature]])**: DC 19
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 19
 **Unspecific Lore**: DC 17
 **Specific Lore**: DC 14
 
 # Scorpion Swarm<span class="item-type">Creature 4</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Animal</span><span class="item-trait">Swarm</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +11; darkvision
-**Skills** [[Acrobatics]] +11, [[Athletics]] +6, [[Stealth]] +11
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +11, [[DATABASE/skill/Athletics|Athletics]] +6, [[DATABASE/skill/Stealth|Stealth]] +11
 **Str** +0, **Dex** +5, **Con** +2, **Int** -5, **Wis** +0, **Cha** -4
 
 ---
@@ -91,4 +91,4 @@ While a single scorpion is itself a menace, swarms of these vermin can be outrig
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Scorpion Venom** (poison) **Saving Throw** DC 18 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 1d6 poison damage (1 round); **Stage 2** 1d6 poison damage and [[Enfeebled]] (1 round)</span><span class="in-box-ability">**Swarming Stings** <span class="action-icon">1</span> Each enemy in the swarm’s space takes 2d8 piercing damage (DC 21 basic Reflex save) and is exposed to scorpion venom.</span>
+<span class="in-box-ability">**Scorpion Venom** (poison) **Saving Throw** DC 18 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 1d6 poison damage (1 round); **Stage 2** 1d6 poison damage and [[DATABASE/condition/Enfeebled|enfeebled 1]] (1 round)</span><span class="in-box-ability">**Swarming Stings** <span class="action-icon">1</span> Each enemy in the swarm’s space takes 2d8 piercing damage (DC 21 basic Reflex save) and is exposed to scorpion venom.</span>

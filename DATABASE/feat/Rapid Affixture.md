@@ -11,6 +11,7 @@ name: Rapid Affixture
 prerequisite: Master in [[DATABASE/skill/Crafting|Crafting]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: crafting
@@ -24,11 +25,11 @@ type: Feat
 # Rapid Affixture <span class="item-type">Feat 7</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** master in [[Crafting]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** master in [[DATABASE/skill/Crafting|Crafting]]
 
 ---
-You take only 1 minute to [[Affix a Talisman]]. If you're legendary in [[Crafting]], you can Affix a Talisman as a 3-action activity.
+You take only 1 minute to [[DATABASE/action/Affix a Talisman|Affix a Talisman]]. If you're legendary in [[DATABASE/skill/Crafting|Crafting]], you can Affix a Talisman as a 3-action activity.
 
 ## Traits
 

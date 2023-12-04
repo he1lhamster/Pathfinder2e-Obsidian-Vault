@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 size: null
@@ -55,11 +56,10 @@ weapon_type: null
 # Belt of Good Health<span class="item-type">Item 4</span>
 
 <span class="item-trait">Invested</span><span class="item-trait">Magical</span><span class="item-trait">Necromancy</span>
-**Source** [[Pathfinder Beginner Box. Game Master's Guide]]
+**Source** [[DATABASE/source/Pathfinder Beginner Box. Game Master's Guide|Pathfinder Beginner Box: Game Master's Guide]]
 **Price** 85 gp
 **Usage** worn belt; **Bulk** L
 
 ---
 When you put on this belt, its silver buckle begins to glow, which slowly spreads into the heart-shaped jewel in the center. You increase your maximum Hit Points and current Hit Points by 4.
  If you remove the belt, you immediately decrease both your maximum and current HP by 4.
- "_**Note from Nethys**: If these items are being used for Beginner Box content then you can ignore the Invested trait; this trait is not used in Beginner Box material._

@@ -11,6 +11,7 @@ name: Climbing Claws
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Climbing Claws <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Catfolk</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
 You can extend your claws to aid you in climbing. You gain a climb Speed of 10 feet.
@@ -32,4 +33,4 @@ You can extend your claws to aid you in climbing. You gain a climb Speed of 10 f
 
 **Catfolk:**
 
-A creature with this trait is a member of the [[Catfolk]] ancestry. Catfolk are humanoids with feline features. An ability with this trait can be used or selected only by catfolk. An item with this trait is created and used by catfolk.
+A creature with this trait is a member of the [[DATABASE/ancestry/Catfolk|catfolk]] ancestry. Catfolk are humanoids with feline features. An ability with this trait can be used or selected only by catfolk. An item with this trait is created and used by catfolk.

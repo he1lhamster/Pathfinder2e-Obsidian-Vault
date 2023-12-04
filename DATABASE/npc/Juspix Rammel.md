@@ -104,21 +104,21 @@ wisdom: '+5'
 # Juspix Rammel
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 42
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 42
 **Unspecific Lore**: DC 40
 **Specific Lore**: DC 37
 
 # Juspix Rammel<span class="item-type">Creature 14</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Small</span><span class="item-trait">Halfling</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 167. Ready Fight!]]
-Male [[Halfling]] witch
-**Perception** +27; [[Halfling]]
-**Languages** [[Common]], [[Goblin]], [[Halfling]], [[Skald]], [[Tien]]
-**Skills** [[Acrobatics]] +27, [[Arcana]] +27, [[Nature]] +27, [[Occultism]] +27, [[Stealth]] +27
+**Source** [[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]
+Male [[DATABASE/ancestry/Halfling|halfling]] witch
+**Perception** +27; [[DATABASE/ancestry/Halfling|keen eyes]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Goblin|Goblin]], [[DATABASE/language/Halfling|Halfling]], [[DATABASE/language/Skald|Skald]], [[DATABASE/language/Tien|Tien]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +27, [[DATABASE/skill/Arcana|Arcana]] +27, [[DATABASE/skill/Nature|Nature]] +27, [[DATABASE/skill/Occultism|Occultism]] +27, [[DATABASE/skill/Stealth|Stealth]] +27
 **Str** -1, **Dex** +5, **Con** +2, **Int** +5, **Wis** +5, **Cha** +2
-**Ceaseless Shadows** Juspix doesn't need concealment or cover to [[Hide]] or [[Sneak]]. If he has lesser cover from creatures, he instead has cover and can [[Take Cover]]. If he has cover from creatures, he instead has greater cover.
-**Items** _+2 [[Striking]] [[Filcher's Fork]]_, _[[Bracers of Armor]]_
+**Ceaseless Shadows** Juspix doesn't need concealment or cover to [[DATABASE/action/Hide|Hide]] or [[DATABASE/action/Sneak|Sneak]]. If he has lesser cover from creatures, he instead has cover and can [[DATABASE/action/Take Cover|Take Cover]]. If he has cover from creatures, he instead has greater cover.
+**Items** _+2 [[DATABASE/equipment/Striking|striking]] [[DATABASE/weapon/Filcher's Fork|filcher's fork]]_, _[[DATABASE/equipment/Bracers of Armor|bracers of armor II]]_
 
 ---
 **AC** 33; **Fort** +22, **Ref** +27, **Will** +27
@@ -126,6 +126,6 @@ Male [[Halfling]] witch
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _filcher's fork_ +25 [+21/+17] (agile, backstabber, deadly 1d6, finesse, magical), **Damage** 2d4+3 piercing plus 3d6 cold</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _filcher's fork_ +25 [+21/+17] (agile, backstabber, deadly 1d6, magical, thrown 20 feet), **Damage** 2d4+3 piercing plus 3d6 cold</span>**Primal Prepared Spells** DC 35, attack +27; **7th** _[[Dragon Form]]_, _[[Eclipse Burst]]_, _[[Energy Aegis]]_, _[[Unfettered Pack]]_; **6th** _[[Baleful Polymorph]]_, _[[Blinding Fury]]_, _[[Chain Lightning]]_, _[[True Seeing]]_; **5th** _[[Cone of Cold]]_, _[[Dispel Magic]]_, _[[Wall of Ice]]_ (×2); **4th** _[[Air Walk]]_ (×3), _[[Freedom of Movement]]_; **3rd** _[[Earthbind]]_ (×2), _[[Haste]]_, _[[Heal]]_; **2nd** _[[Dispel Magic]]_, _[[Glitterdust]]_ (×2), _[[Obscuring Mist]]_; **1st** _[[Alarm]]_, _[[Fleet Step]]_, _[[Heal]]_, _[[Jump]]_; **Cantrips** **(7th)** _[[Detect Magic]]_, _[[Electric Arc]]_, _[[Light]]_, _[[Ray of Frost]]_, _[[Stabilize]]_
-**Witch Hexes** DC 35, 3 Focus Points; **7th** _[[Cackle]]_, _[[Elemental Betrayal]]_, _[[Life Boost]]_, _[[Personal Blizzard]]_, _[[Phase Familiar]]_; **Cantrips** **(7th)** _[[Clinging Ice]]_
-<span class="in-box-ability">**Familiar** Juspix's familiar is a wildcat named Ontiok. Ontiok has a Speed of 40 feet, [[Darkvision]], and the [[Damage Avoidance]] familiar ability. Juspix has the [[Lifelink]] and [[Spell Delivery]] master abilities.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _filcher's fork_ +25 [+21/+17] (agile, backstabber, deadly 1d6, finesse, magical), **Damage** 2d4+3 piercing plus 3d6 cold</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _filcher's fork_ +25 [+21/+17] (agile, backstabber, deadly 1d6, magical, thrown 20 feet), **Damage** 2d4+3 piercing plus 3d6 cold</span>**Primal Prepared Spells** DC 35, attack +27; **7th** _[[DATABASE/spell/Dragon Form|dragon form]]_, _[[DATABASE/spell/Eclipse Burst|eclipse burst]]_, _[[DATABASE/spell/Energy Aegis|energy aegis]]_, _[[DATABASE/spell/Unfettered Pack|unfettered pack]]_; **6th** _[[DATABASE/spell/Baleful Polymorph|baleful polymorph]]_, _[[DATABASE/spell/Blinding Fury|blinding fury]]_, _[[DATABASE/spell/Chain Lightning|chain lightning]]_, _[[DATABASE/spell/True Seeing|true seeing]]_; **5th** _[[DATABASE/spell/Cone of Cold|cone of cold]]_, _[[DATABASE/spell/Dispel Magic|dispel magic]]_, _[[DATABASE/spell/Wall of Ice|wall of ice]]_ (×2); **4th** _[[DATABASE/spell/Air Walk|air walk]]_ (×3), _[[DATABASE/spell/Freedom of Movement|freedom of movement]]_; **3rd** _[[DATABASE/spell/Earthbind|earthbind]]_ (×2), _[[DATABASE/spell/Haste|haste]]_, _[[DATABASE/spell/Heal|heal]]_; **2nd** _[[DATABASE/spell/Dispel Magic|dispel magic]]_, _[[DATABASE/spell/Glitterdust|glitterdust]]_ (×2), _[[DATABASE/spell/Obscuring Mist|obscuring mist]]_; **1st** _[[DATABASE/spell/Alarm|alarm]]_, _[[DATABASE/spell/Fleet Step|fleet step]]_, _[[DATABASE/spell/Heal|heal]]_, _[[DATABASE/spell/Jump|jump]]_; **Cantrips** **(7th)** _[[DATABASE/spell/Detect Magic|detect magic]]_, _[[DATABASE/spell/Electric Arc|electric arc]]_, _[[DATABASE/spell/Light|light]]_, _[[DATABASE/spell/Ray of Frost|ray of frost]]_, _[[DATABASE/spell/Stabilize|stabilize]]_
+**Witch Hexes** DC 35, 3 Focus Points; **7th** _[[DATABASE/spell/Cackle|cackle]]_, _[[DATABASE/spell/Elemental Betrayal|elemental betrayal]]_, _[[DATABASE/spell/Life Boost|life boost]]_, _[[DATABASE/spell/Personal Blizzard|personal blizzard]]_, _[[DATABASE/spell/Phase Familiar|phase familiar]]_; **Cantrips** **(7th)** _[[DATABASE/spell/Clinging Ice|clinging ice]]_
+<span class="in-box-ability">**Familiar** Juspix's familiar is a wildcat named Ontiok. Ontiok has a Speed of 40 feet, [[DATABASE/familiarability/Darkvision|darkvision]], and the [[DATABASE/familiarability/Damage Avoidance|damage avoidance (Reflex)]] familiar ability. Juspix has the [[DATABASE/familiarability/Lifelink|lifelink]] and [[DATABASE/familiarability/Spell Delivery|spell delivery]] master abilities.</span>

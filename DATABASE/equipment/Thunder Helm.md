@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 size: null
@@ -56,7 +57,7 @@ weapon_type: null
 # Thunder Helm<span class="item-type">Item 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Conjuration</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span>
-**Source** [[Pathfinder 179. Cradle of Quartz]]
+**Source** [[DATABASE/source/Pathfinder 179. Cradle of Quartz|Pathfinder #179: Cradle of Quartz]]
 **Price** 160 gp
 **Usage** worn headwear; **Bulk** L
 

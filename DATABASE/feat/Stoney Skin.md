@@ -11,6 +11,7 @@ name: Stoney Skin
 prerequisite: '[[DATABASE/feat/Stone Brawler Dedication|Stone Brawler Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 195. Heavy is the Crown|Pathfinder #195: Heavy
   is the Crown]]'
@@ -24,12 +25,12 @@ type: Feat
 # Stoney Skin <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Pathfinder 195. Heavy is the Crown]]
-**Archetype** [[Stone Brawler]]
-**Prerequisites** [[Stone Brawler Dedication]]
+**Source** [[DATABASE/source/Pathfinder 195. Heavy is the Crown|Pathfinder #195: Heavy is the Crown]]
+**Archetype** [[DATABASE/archetype/Stone Brawler|Stone Brawler]]
+**Prerequisites** [[DATABASE/feat/Stone Brawler Dedication|Stone Brawler Dedication]]
 
 ---
-Your skin takes on the hardness of stone. You gain resistance to physical damage (except [[Adamantine Weapon]]) equal to your number of class feats from the Stone Brawler archetype.
+Your skin takes on the hardness of stone. You gain resistance to physical damage (except [[DATABASE/equipment/Adamantine Weapon|adamantine]]) equal to your number of class feats from the Stone Brawler archetype.
 
 ## Traits
 

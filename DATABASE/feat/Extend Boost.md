@@ -11,6 +11,7 @@ name: Extend Boost
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Extend Boost <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Summoner</span>
-**Source** [[Secrets of Magic]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]]
 
 ---
-You can increase the duration of your eidolon's boosts. You learn the [[Extend Boost]] link spell. Increase the number of Focus Points in your focus pool by 1.
+You can increase the duration of your eidolon's boosts. You learn the [[DATABASE/spell/Extend Boost|extend boost]] link spell. Increase the number of Focus Points in your focus pool by 1.

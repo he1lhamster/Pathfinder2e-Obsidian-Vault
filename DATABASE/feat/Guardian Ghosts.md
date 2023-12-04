@@ -11,6 +11,7 @@ name: Guardian Ghosts
 prerequisite: '[[DATABASE/feat/Undead Master Dedication|Undead Master Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 subcategory: null
@@ -26,10 +27,10 @@ type: Feat
 # Guardian Ghosts <span class="action-icon">5</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Divine</span><span class="item-trait">Necromancy</span>
-**Source** [[Book of the Dead]]
-**Archetype** [[Undead Master]]
+**Source** [[DATABASE/source/Book of the Dead|Book of the Dead]]
+**Archetype** [[DATABASE/archetype/Undead Master|Undead Master]]
 **Frequency** once per 10 minutes
-**Prerequisites** [[Undead Master Dedication]]
+**Prerequisites** [[DATABASE/feat/Undead Master Dedication|Undead Master Dedication]]
 **Trigger** You would take damage from a Strike while one of your undead companions is adjacent to you.
 
 ---

@@ -70,17 +70,17 @@ wisdom: '+3'
 # Storm Lord
 
 Storm lords wage battles to claim important territory within the Plane of Air.
-**Recall Knowledge - Elemental ([[Arcana]], [[Nature]])**: DC 26
+**Recall Knowledge - Elemental ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 26
 **Unspecific Lore**: DC 24
 **Specific Lore**: DC 21
 
 # Storm Lord<span class="item-type">Creature 9</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Air</span><span class="item-trait">Elemental</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +18; darkvision
-**Languages** [[Auran]]
-**Skills** [[Acrobatics]] +20, [[Stealth]] +18
+**Languages** [[DATABASE/language/Auran|Auran]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +20, [[DATABASE/skill/Stealth|Stealth]] +18
 **Str** +4, **Dex** +7, **Con** +4, **Int** -1, **Wis** +3, **Cha** +0
 
 ---

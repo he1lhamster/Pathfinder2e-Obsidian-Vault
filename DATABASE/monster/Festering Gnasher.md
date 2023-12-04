@@ -68,22 +68,22 @@ wisdom: '+3'
 # Festering Gnasher
 
 A festering gnasher is a floating head covered in infectious pustules and hollowed out by decay.
-**Recall Knowledge - Undead ([[Religion]])**: DC 15
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Festering Gnasher<span class="item-type">Creature 1</span>
 
 <span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Tiny</span><span class="item-trait">Undead</span>
-**Source** [[Book of the Dead]]
-**Perception** +8; [[Darkvision]]
-**Skills** [[Acrobatics]] +7 (+9 to [[Maneuver in Flight]])
+**Source** [[DATABASE/source/Book of the Dead|Book of the Dead]]
+**Perception** +8; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +7 (+9 to [[DATABASE/action/Maneuver in Flight|Maneuver in Flight]])
 **Str** +3, **Dex** +4, **Con** +1, **Int** -3, **Wis** +3, **Cha** +0
 
 ---
 **AC** 16; **Fort** +4, **Ref** +9, **Will** +6
-**HP** 18 ([[Negative Healing]]); **Immunities** death effects, disease, [[Paralyzed]], poison, [[Unconscious]]; **Weaknesses** positive 2
+**HP** 18 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects, disease, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Unconscious|unconscious]]; **Weaknesses** positive 2
 
 ---
 **Speed** 15 feet, fly 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +9 [+5/+1] (agile, finesse, reach 0 feet), **Damage** 1d4+3 piercing plus brain rot</span><span class="in-box-ability">**Brain Rot** (disease) **Saving Throw** DC 14 Fortitude; **Onset** 1 day; **Stage 1** [[Stupefied]] (3 days); **Stage 2** stupefied 2 and [[Slowed]] (1 day); **Stage 3** [[Paralyzed]] with spasms (1 day); **Stage 4** death</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +9 [+5/+1] (agile, finesse, reach 0 feet), **Damage** 1d4+3 piercing plus brain rot</span><span class="in-box-ability">**Brain Rot** (disease) **Saving Throw** DC 14 Fortitude; **Onset** 1 day; **Stage 1** [[DATABASE/condition/Stupefied|stupefied 1]] (3 days); **Stage 2** stupefied 2 and [[DATABASE/condition/Slowed|slowed 1]] (1 day); **Stage 3** [[DATABASE/condition/Paralyzed|paralyzed]] with spasms (1 day); **Stage 4** death</span>

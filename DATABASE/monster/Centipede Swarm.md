@@ -79,21 +79,21 @@ wisdom: '+0'
 # Centipede Swarm
 
 Swarms of centipedes are dangerous indeed, ravenous carpets of skittering hunger capable of devouring a traveler whole in a matter of minutes. Some alchemists submerge whole centipedes taken from swarms in their elixirs and some mutagens, claiming such infusions increase potency, though other say this is nothing more than quackish claptrap. Kobolds and mitflits are both known to incorporate swarms of centipedes into cunning traps, from simple pits filled with vermin or more complex affairs involving chutes that dump the vermin onto the heads of unwary intruders.
-**Recall Knowledge - Animal ([[Nature]])**: DC 18
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Centipede Swarm<span class="item-type">Creature 3</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Animal</span><span class="item-trait">Swarm</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +9; darkvision, tremorsense (imprecise) 30 feet
-**Skills** [[Acrobatics]] +9, [[Athletics]] +7, [[Stealth]] +9
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +9, [[DATABASE/skill/Athletics|Athletics]] +7, [[DATABASE/skill/Stealth|Stealth]] +9
 **Str** +2, **Dex** +4, **Con** +3, **Int** -5, **Wis** +0, **Cha** -4
 
 ---
 **AC** 18; **Fort** +8, **Ref** +11, **Will** +5
-**HP** 30; **Immunities** precision, [[Swarm Mind]]
+**HP** 30; **Immunities** precision, [[DATABASE/monsterability/Swarm Mind|swarm mind]]
 ; **Resistances** bludgeoning 5, piercing 5, slashing 2; **Weaknesses** area damage 5, splash damage 5
 
 ---

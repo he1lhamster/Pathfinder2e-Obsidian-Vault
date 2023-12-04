@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -56,15 +57,15 @@ weapon_type: null
 # Gloaming Arc<span class="item-type">Item 11</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Evocation</span><span class="item-trait">Magical</span><span class="item-trait">Shadow</span>
-**Source** [[Pathfinder 183. Field of Maidens]]
+**Source** [[DATABASE/source/Pathfinder 183. Field of Maidens|Pathfinder #183: Field of Maidens]]
 **Price** 1,250 gp
 **Usage** held in 1 hand; **Bulk** 1
-**Base Weapon** [[Scimitar]]
+**Base Weapon** [[DATABASE/weapon/Scimitar|Scimitar]]
 
 ---
-This black _+2 [[Striking]] [[Scimitar]]_ reflects light only along its edge, like a thin crescent moon. It grants a +1 item bonus to [[Stealth]] while you're holding it, increasing to a +2 item bonus if it has a [[Weapon Potency]].
+This black _+2 [[DATABASE/equipment/Striking|striking]] [[DATABASE/weapon/Scimitar|scimitar]]_ reflects light only along its edge, like a thin crescent moon. It grants a +1 item bonus to [[DATABASE/skill/Stealth|Stealth]] while you're holding it, increasing to a +2 item bonus if it has a [[DATABASE/equipment/Weapon Potency|+3 weapon potency rune]].
 **Activate** <span class="action-icon">3</span> envision, Interact **Frequency** once per day; **Effect** Attempt a melee Strike with the _gloaming arc_. On a hit, you slice away the target's shadow from its body and it must attempt a DC 30 Fortitude save.
 **Critical Success** The target is unaffected.
-**Success** The target is [[Enfeebled]] for 1 round.
-**Failure** The target is enfeebled 2 for 1 minute and [[Drained]]. The target doesn't cast a shadow until it is no longer drained.
+**Success** The target is [[DATABASE/condition/Enfeebled|enfeebled 1]] for 1 round.
+**Failure** The target is enfeebled 2 for 1 minute and [[DATABASE/condition/Drained|drained 1]]. The target doesn't cast a shadow until it is no longer drained.
 **Critical Failure** As failure, but drained 2.

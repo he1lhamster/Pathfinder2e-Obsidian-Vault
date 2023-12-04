@@ -20,6 +20,7 @@ patron_theme: null
 range: 120 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -42,7 +43,7 @@ type: Cantrip
 # Message<span class="item-type">Cantrip 1</span>
 
 <span class="item-trait">Auditory</span><span class="item-trait">Cantrip</span><span class="item-trait">Illusion</span><span class="item-trait">Linguistic</span><span class="item-trait">Mental</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, divine, occult
 **Spell List** elemental
 **Cast** <span class="action-icon">1</span> verbal

@@ -24,6 +24,7 @@ follower_alignment:
 id: '195'
 name: Raumya
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Performance|Performance]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -33,7 +34,7 @@ type: Deity
 ---
 # Raumya (The Evil Prince) [NE]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Category** Vudrani Gods
 **Edicts** Improve yourself with music and literature, take what you want, seek power above others
 **Anathema** Abuse a loyal subject, harm or kill a non-combatant
@@ -41,9 +42,9 @@ type: Deity
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Strength or Charisma
-**Divine Font** _[[Harm]]_ or _[[Heal]]_
-**Divine Skill** [[Performance]]
-**Favored Weapon** [[Trident]]
-**Domains** [[Confidence Domain]], [[Knowledge Domain]], [[Might Domain]], [[Wealth Domain]]
-**Cleric Spells** 1st: _[[True Strike]]_, 2nd: _[[Invisibility]]_, 4th: _[[Weapon Storm]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Strength or Charisma
+**Divine Font** _[[DATABASE/spell/Harm|harm]]_ or _[[DATABASE/spell/Heal|heal]]_
+**Divine Skill** [[DATABASE/skill/Performance|Performance]]
+**Favored Weapon** [[DATABASE/weapon/Trident|trident]]
+**Domains** [[DATABASE/domain/Confidence Domain|confidence]], [[DATABASE/domain/Knowledge Domain|knowledge]], [[DATABASE/domain/Might Domain|might]], [[DATABASE/domain/Wealth Domain|wealth]]
+**Cleric Spells** 1st: _[[DATABASE/spell/True Strike|true strike]]_, 2nd: _[[DATABASE/spell/Invisibility|invisibility]]_, 4th: _[[DATABASE/spell/Weapon Storm|weapon storm]]_

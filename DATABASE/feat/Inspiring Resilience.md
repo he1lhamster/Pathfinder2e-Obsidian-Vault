@@ -11,6 +11,7 @@ name: Inspiring Resilience
 prerequisite: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
 subcategory: null
@@ -29,7 +30,7 @@ type: Feat
 # Inspiring Resilience <span class="action-icon">5</span> <span class="item-type">Feat 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Bard</span><span class="item-trait">Champion</span><span class="item-trait">Emotion</span><span class="item-trait">Mental</span>
-**Source** [[Knights of Lastwall]]
+**Source** [[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]
 **Access** Knights of Lastwall have access to this feat.
 **Trigger** You and at least one other creature become the target of a spell or effect with the emotion, fear, or mental trait that allows a saving throw, and you haven't rolled the save yet.
 
@@ -48,4 +49,4 @@ A mental effect can alter the target's mind. It has no effect on an object or a 
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.

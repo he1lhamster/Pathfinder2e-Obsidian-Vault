@@ -5,6 +5,7 @@ item_category: Relics
 name: Lightning Storm
 prerequisite: null
 rarity: Common
+rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
@@ -17,7 +18,7 @@ type: Relic Major Gift
 # Lightning Storm<span class="item-type">Major Gift</span>
 
 <span class="item-trait">Air</span><span class="item-trait">Electricity</span><span class="item-trait">Evocation</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Aspect** air
 
 ---

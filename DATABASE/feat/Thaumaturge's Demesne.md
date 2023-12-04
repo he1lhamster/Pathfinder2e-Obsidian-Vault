@@ -11,6 +11,7 @@ name: Thaumaturge's Demesne
 prerequisite: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -26,15 +27,15 @@ type: Feat
 # Thaumaturge's Demesne <span class="item-type">Feat 12</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Abjuration</span><span class="item-trait">Arcane</span><span class="item-trait">Thaumaturge</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 
 ---
 You have claimed an area or location as your demesne, granting you the ability to ward and protect it. When you select this feat, choose a demesne, an area of no more than 2,000 square feet. You must legitimately own the area or, if its a public area, you must lay claim to the area without anyone contesting it.
- Once you've chosen your demesne, it's automatically protected by an arcane [[Private Sanctum]] spell with an unlimited duration, heightened to half your level rounded up and using your thaumaturge class DC in place of a spell DC, if necessary. Additionally, the demesne is attended by three unseen custodians, as a successful [[Unseen Custodians]] ritual, and one object in the area gains an elemental sentinel, as a successful [[Elemental Sentinel]] ritual.
+ Once you've chosen your demesne, it's automatically protected by an arcane [[DATABASE/spell/Private Sanctum|private sanctum]] spell with an unlimited duration, heightened to half your level rounded up and using your thaumaturge class DC in place of a spell DC, if necessary. Additionally, the demesne is attended by three unseen custodians, as a successful [[DATABASE/ritual/Unseen Custodians|unseen custodians]] ritual, and one object in the area gains an elemental sentinel, as a successful [[DATABASE/ritual/Elemental Sentinel|elemental sentinel]] ritual.
 
 ## Thaumaturge's Demesne Leads To...
 
-[[Unlimited Demesne]]
+[[DATABASE/feat/Unlimited Demesne|Unlimited Demesne]]
 
 ## Traits
 
@@ -48,4 +49,4 @@ This magic comes from the arcane tradition, which is built on logic and rational
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.

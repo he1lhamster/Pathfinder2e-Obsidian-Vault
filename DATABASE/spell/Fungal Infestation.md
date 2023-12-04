@@ -21,6 +21,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Fortitude
 school: Conjuration
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
@@ -36,14 +37,14 @@ type: Spell
 # Fungal Infestation<span class="item-type">Spell 2</span>
 
 <span class="item-trait">Conjuration</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Traditions** primal
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** touch; **Area** 15-foot cone
 **Saving Throw** Fortitude
 
 ---
-Toxic spores swarm over creatures in the area, causing them to erupt in grotesque fungal growths. These noxious growths deal 2d6 [[Persistent Damage]], and each creature must attempt a Fortitude save.
+Toxic spores swarm over creatures in the area, causing them to erupt in grotesque fungal growths. These noxious growths deal 2d6 [[DATABASE/condition/Persistent Damage|persistent poison damage]], and each creature must attempt a Fortitude save.
 **Critical Success** The creature is unaffected.
 **Success** The target takes half the persistent poison damage.
 **Failure** The target takes the full persistent poison damage. While it is taking this persistent poison damage, it has weakness 1 to fire and weakness 1 to slashing.

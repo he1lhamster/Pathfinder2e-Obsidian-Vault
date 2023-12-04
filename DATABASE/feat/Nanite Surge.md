@@ -11,6 +11,7 @@ name: Nanite Surge
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Nanite Surge <span class="action-icon">5</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Android</span><span class="item-trait">Concentrate</span>
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 **Frequency** once per hour
 **Trigger** You attempt a skill check requiring three actions or fewer.
 
@@ -33,7 +34,7 @@ You stimulate your nanites, forcing your body to temporarily increase its effici
 
 ## Nanite Surge Leads To...
 
-[[Consistent Surge]], [[Offensive Subroutine]], [[Protective Subroutine]]
+[[DATABASE/feat/Consistent Surge|Consistent Surge]], [[DATABASE/feat/Offensive Subroutine|Offensive Subroutine]], [[DATABASE/feat/Protective Subroutine|Protective Subroutine]]
 
 ## Traits
 

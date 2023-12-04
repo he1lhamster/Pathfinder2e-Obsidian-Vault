@@ -27,6 +27,7 @@ patron_theme: null
 range: 500 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -44,11 +45,11 @@ type: Spell
 # Control Water<span class="item-type">Spell 5</span>
 
 <span class="item-trait">Evocation</span><span class="item-trait">Water</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, primal
-**Deities** [[Gozreh]], [[Isis]], [[Lady Nanbyo]], [[Lysianassa]], [[Seafarer's Hope]]
+**Deities** [[DATABASE/deity/Gozreh|Gozreh]], [[DATABASE/deity/Isis|Isis]], [[DATABASE/deity/Lady Nanbyo|Lady Nanbyo]], [[DATABASE/deity/Lysianassa|Lysianassa]], [[DATABASE/deity/Seafarer's Hope|Seafarer's Hope]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 500 feet; **Area** 50 feet long by 50 feet wide
 
 ---
-By imposing your will upon the water, you can raise or lower the level of water in the chosen area by 10 feet. Water creatures in the area are subjected to the effects of [[Slow]].
+By imposing your will upon the water, you can raise or lower the level of water in the chosen area by 10 feet. Water creatures in the area are subjected to the effects of [[DATABASE/spell/Slow|slow]].

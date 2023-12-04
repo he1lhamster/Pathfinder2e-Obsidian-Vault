@@ -11,6 +11,7 @@ name: Terrain Form
 prerequisite: '[[DATABASE/feat/Mummy Dedication|Mummy Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 subcategory: null
@@ -26,13 +27,13 @@ type: Feat
 # Terrain Form <span class="action-icon">1</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Concentrate</span><span class="item-trait">Divine</span><span class="item-trait">Transmutation</span>
-**Source** [[Book of the Dead]]
-**Archetype** [[Mummy]]
+**Source** [[DATABASE/source/Book of the Dead|Book of the Dead]]
+**Archetype** [[DATABASE/archetype/Mummy|Mummy]]
 **Frequency** once per day
-**Prerequisites** [[Mummy Dedication]]
+**Prerequisites** [[DATABASE/feat/Mummy Dedication|Mummy Dedication]]
 
 ---
-You crumble to pieces, becoming composed of the very terrain to which you're bound, with the effects of the [[Gaseous Form]] spell, or you reconstitute into your normal form. The substance you're formed of depends upon your bound terrain, and the action gains the corresponding trait or traits.
+You crumble to pieces, becoming composed of the very terrain to which you're bound, with the effects of the [[DATABASE/spell/Gaseous Form|gaseous form]] spell, or you reconstitute into your normal form. The substance you're formed of depends upon your bound terrain, and the action gains the corresponding trait or traits.
  
 **Arctic** Snow (water) 
 **Desert** Sand (earth) 

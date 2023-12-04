@@ -11,6 +11,7 @@ name: Secret Eater
 prerequisite: '[[DATABASE/feat/Ghoul Dedication|Ghoul Dedication]]'
 rarity: Rare
 requirement: null
+rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Pathfinder 184. The Ghouls Hunger|Pathfinder #184: The
   Ghouls Hunger]]'
@@ -28,16 +29,16 @@ type: Feat
 # Secret Eater <span class="item-type">Feat 12</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Archetype</span><span class="item-trait">Divine</span><span class="item-trait">Necromancy</span><span class="item-trait">Occult</span>
-**Source** [[Pathfinder 184. The Ghouls Hunger]]
-**Archetype** [[Ghoul]]
-**Prerequisites** [[Ghoul Dedication]]; worshipper of [[Kabriri]]
+**Source** [[DATABASE/source/Pathfinder 184. The Ghouls Hunger|Pathfinder #184: The Ghouls Hunger]]
+**Archetype** [[DATABASE/archetype/Ghoul|Ghoul]]
+**Prerequisites** [[DATABASE/feat/Ghoul Dedication|Ghoul Dedication]]; worshipper of [[DATABASE/deity/Kabriri|Kabriri]]
 
 ---
-You have discovered and found favor with the cult within the church of Kabriri known as the Secret Eaters. You have maggots that writhe under your skin with the power to wriggle out from between your teeth, glean secrets from those you devour, and whisper them telepathically into your mind. Once per hour when you [[Ghoul Dedication]], you can select a single Intelligence-, Wisdom-, or Charisma-based skill whose secrets you wish to uncover. You become subject to the effects of [[Corpse Communion]] as if you had critically succeeded at casting the ritual: you learn a significant piece of lore, a forgotten secret, or some other tantalizing nugget of knowledge that is of immediate use to you.
+You have discovered and found favor with the cult within the church of Kabriri known as the Secret Eaters. You have maggots that writhe under your skin with the power to wriggle out from between your teeth, glean secrets from those you devour, and whisper them telepathically into your mind. Once per hour when you [[DATABASE/feat/Ghoul Dedication|Consume Flesh]], you can select a single Intelligence-, Wisdom-, or Charisma-based skill whose secrets you wish to uncover. You become subject to the effects of [[DATABASE/ritual/Corpse Communion|corpse communion]] as if you had critically succeeded at casting the ritual: you learn a significant piece of lore, a forgotten secret, or some other tantalizing nugget of knowledge that is of immediate use to you.
 
 ## Secret Eater Leads To...
 
-[[Bodysnatcher]], [[Breath of Hungry Death]], [[Graveshift]], [[Wrath of the First Ghoul]]
+[[DATABASE/feat/Bodysnatcher|Bodysnatcher]], [[DATABASE/feat/Breath of Hungry Death|Breath of Hungry Death]], [[DATABASE/feat/Graveshift|Graveshift]], [[DATABASE/feat/Wrath of the First Ghoul|Wrath of the First Ghoul]]
 
 ## Traits
 
@@ -59,4 +60,4 @@ This magic comes from the occult tradition, calling upon bizarre and ephemeral m
 
 **Rare:**
 
-This rarity indicates that a rules element is very difficult to find in the game world. A rare feat, spell, item or the like is available to players only if the GM decides to include it in the game, typically through discovery during play. Creatures with this trait are rare. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creatures is increased by 5.
+This rarity indicates that a rules element is very difficult to find in the game world. A rare feat, spell, item or the like is available to players only if the GM decides to include it in the game, typically through discovery during play. Creatures with this trait are rare. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creatures is increased by 5.

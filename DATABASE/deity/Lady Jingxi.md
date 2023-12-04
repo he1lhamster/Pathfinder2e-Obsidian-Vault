@@ -22,6 +22,7 @@ follower_alignment:
 id: '178'
 name: Lady Jingxi
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Performance|Performance]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -31,7 +32,7 @@ type: Deity
 ---
 # Lady Jingxi (The Poet of Dawn and Dusk) [NG]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Category** Tian Gods
 **Edicts** Create art with words, master the written language, display the soft beauty of natural colors
 **Anathema** Destroy a natural plum tree, drink excessive amounts of alcohol, act rude or boorish
@@ -39,9 +40,9 @@ type: Deity
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Intelligence or Wisdom
-**Divine Font** _[[Heal]]_
-**Divine Skill** [[Performance]]
-**Favored Weapon** [[Fighting Fan]]
-**Domains** [[Creation Domain]], [[Glyph Domain]], [[Knowledge Domain]], [[Repose Domain]]
-**Cleric Spells** 1st: _[[Sleep]]_, 2nd: _[[Mirror Image]]_, 5th: _[[Chromatic Wall]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Intelligence or Wisdom
+**Divine Font** _[[DATABASE/spell/Heal|heal]]_
+**Divine Skill** [[DATABASE/skill/Performance|Performance]]
+**Favored Weapon** [[DATABASE/weapon/Fighting Fan|fighting fan]]
+**Domains** [[DATABASE/domain/Creation Domain|creation]], [[DATABASE/domain/Glyph Domain|glyph]], [[DATABASE/domain/Knowledge Domain|knowledge]], [[DATABASE/domain/Repose Domain|repose]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Sleep|sleep]]_, 2nd: _[[DATABASE/spell/Mirror Image|mirror image]]_, 5th: _[[DATABASE/spell/Chromatic Wall|chromatic wall]]_

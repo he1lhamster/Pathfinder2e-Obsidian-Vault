@@ -7,6 +7,7 @@ id: '1380'
 name: Quell Unrest
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
@@ -19,7 +20,7 @@ type: Action
 # Quell Unrest
 
 <span class="item-trait">Downtime</span><span class="item-trait">Leadership</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 
 ---
 You send your agents among the citizenry with the charge of suppressing dissent and calming unrest. You can attempt a basic Arts, Folklore, Intrigue, Magic, Politics, or Warfare check to Quell Unrest, but you can never use the same skill for this activity in consecutive Kingdom turns. This activity cannot be attempted more than once per Kingdom turn.

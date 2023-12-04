@@ -77,22 +77,22 @@ wisdom: '+1'
 # Chimpanzee Visitant
 
 Common circus animals viewed as expendable by their caretakers are perhaps the most likely to rise as visitants. Animals that die en masse—such as in a tent fire or other disaster—can even form packs of roving undead.
-**Recall Knowledge - Animal ([[Nature]])**: DC 18
-**Recall Knowledge - Undead ([[Religion]])**: DC 18
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 18
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Chimpanzee Visitant<span class="item-type">Creature 3</span>
 
 <span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Small</span><span class="item-trait">Animal</span><span class="item-trait">Undead</span>
-**Source** [[Pathfinder 152. Legacy of the Lost God]]
+**Source** [[DATABASE/source/Pathfinder 152. Legacy of the Lost God|Pathfinder #152: Legacy of the Lost God]]
 **Perception** +9; darkvision, lifesense (imprecise) 60 feet
-**Skills** [[Acrobatics]] +11, [[Athletics]] +10
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +11, [[DATABASE/skill/Athletics|Athletics]] +10
 **Str** +3, **Dex** +4, **Con** +3, **Int** -4, **Wis** +1, **Cha** -1
 
 ---
 **AC** 18; **Fort** +8, **Ref** +11, **Will** +10
-**HP** 55 ([[Negative Healing]]); **Immunities** death effects, disease, paralyzed, poison, unconscious; **Weaknesses** positive 5, whip vulnerability
+**HP** 55 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects, disease, paralyzed, poison, unconscious; **Weaknesses** positive 5, whip vulnerability
 <span class="in-box-ability">**Vengeful Presence** (aura, emotion, enchantment, mental) 20 feet. A creature that starts its turn within the visitant’s aura must succeed at a DC 16 Will save or be overcome with a thirst for vengeance. For 1d4 rounds (1 minute on a critical failure), if the affected creature was attacked within the last round (whether or not the attack hit), the creature must use at least 1 action per round to Strike or use a hostile action toward its last attacker as long as the attacker is still alive. Failure to do so deals the affected creature 1d6 mental damage, plus 1d6 for every 5 levels the visitant has.</span><span class="in-box-ability"> **Whip Vulnerability** A chimpanzee visitant takes 5 additional damage from whips.</span>
 
 ---

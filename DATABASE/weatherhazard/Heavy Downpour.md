@@ -5,6 +5,7 @@ level: '0'
 name: Heavy Downpour
 rarity: Common
 requirement: null
+rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 trait:
 - '[[DATABASE/trait/Weather|Weather]]'
@@ -14,7 +15,7 @@ type: Weather Hazard
 # Heavy Downpour<span class="item-type">Hazard 0</span>
 
 <span class="item-trait">Weather</span>
-**Source** [[Kingmaker Companion Guide]]
+**Source** [[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]
 **Survival** DC 16
 **Description** The clouds above darken, and a significant amount of precipitation unloads over the region.
 

@@ -80,26 +80,26 @@ wisdom: '+0'
 # Apothecary's Cabinet
 
 This creature did not include a description.
-**Recall Knowledge - Construct ([[Arcana]], [[Crafting]])**: DC 27
+**Recall Knowledge - Construct ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Crafting|Crafting]])**: DC 27
 **Unspecific Lore**: DC 25
 **Specific Lore**: DC 22
 
 # Apothecary's Cabinet<span class="item-type">Creature 6</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Construct</span><span class="item-trait">Mindless</span>
-**Source** [[Pathfinder 188. They Watched the Stars]]
-**Perception** +11; [[Darkvision]]
-**Skills** [[Athletics]] +15
+**Source** [[DATABASE/source/Pathfinder 188. They Watched the Stars|Pathfinder #188: They Watched the Stars]]
+**Perception** +11; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +15
 **Str** +6, **Dex** -3, **Con** +5, **Int** -5, **Wis** +0, **Cha** -5
 
 ---
 **AC** 24 (20 when broken); **Fort** +17, **Ref** +11, **Will** +11; construct armor
-**HP** 80; **Hardness** 10; **Immunities** bleed, death effects, disease, [[Doomed]], [[Drained]], [[Fatigued]], healing, mental, necromancy, nonlethal attacks, [[Paralyzed]], poison, [[Sickened]], [[Unconscious]]
+**HP** 80; **Hardness** 10; **Immunities** bleed, death effects, disease, [[DATABASE/condition/Doomed|doomed]], [[DATABASE/condition/Drained|drained]], [[DATABASE/condition/Fatigued|fatigued]], healing, mental, necromancy, nonlethal attacks, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Sickened|sickened]], [[DATABASE/condition/Unconscious|unconscious]]
 <span class="in-box-ability">**Construct Armor** Like normal objects, an apothecary's cabinet has Hardness. This Hardness reduces any damage it takes by an amount equal to the Hardness. Once an apothecary's cabinet is reduced to fewer than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks and its Armor Class is reduced to 20.</span>
 
 ---
 **Speed** 15 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> drawer +17 [+12/+7] (magical), **Damage** 2d8+9 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> poison bottle +14 [+9/+4] (magical, thrown 20 feet), **Damage** 2d6+3 bludgeoning plus poison stock</span><span class="in-box-ability">**Poison Stock** When the cabinet hits a creature with its poison bottle Strike, roll 1d4 to determine what kind of poison splashes onto the struck creature: **1** nerve poison ([[Clumsy]]); **2** weakening poison ([[Enfeebled]]); **3** noxious poison ([[Sickened]]); **4** clouded mind poison ([[Stupefied]]). The target must attempt a DC 24 Fortitude save.
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> drawer +17 [+12/+7] (magical), **Damage** 2d8+9 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> poison bottle +14 [+9/+4] (magical, thrown 20 feet), **Damage** 2d6+3 bludgeoning plus poison stock</span><span class="in-box-ability">**Poison Stock** When the cabinet hits a creature with its poison bottle Strike, roll 1d4 to determine what kind of poison splashes onto the struck creature: **1** nerve poison ([[DATABASE/condition/Clumsy|clumsy 1]]); **2** weakening poison ([[DATABASE/condition/Enfeebled|enfeebled 1]]); **3** noxious poison ([[DATABASE/condition/Sickened|sickened 1]]); **4** clouded mind poison ([[DATABASE/condition/Stupefied|stupefied 1]]). The target must attempt a DC 24 Fortitude save.
  **Critical Success** The creature is unaffected.
  **Success** The creature takes 1d6 poison damage.
  **Failure** The creature takes 2d6 poison damage and is afflicted with the rolled poison's associated condition until the end of its next turn.

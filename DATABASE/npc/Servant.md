@@ -63,24 +63,24 @@ wisdom: '+1'
 # Servant
 
 Maids, butlers, and majordomos alike, servants are skilled at keeping a home in working order and protecting the interests of their employers.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 13
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 13
 **Unspecific Lore**: DC 11
 **Specific Lore**: DC 8
 
 # Servant<span class="item-type">Creature -1</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Perception** +9
-**Languages** [[Common]]
-**Skills** [[Acrobatics]] +5, [[Diplomacy]] +4, [[Lore]] +4, [[Society]] +2
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +5, [[DATABASE/skill/Diplomacy|Diplomacy]] +4, [[DATABASE/skill/Lore|Household Lore]] +4, [[DATABASE/skill/Society|Society]] +2
 **Str** +1, **Dex** +3, **Con** +1, **Int** +0, **Wis** +1, **Cha** +2
-**Items** cutlery (10), [[Clothing]], serving platter (Hardness 3, HP 6, BT 3)
+**Items** cutlery (10), [[DATABASE/equipment/Clothing|servant's uniform]], serving platter (Hardness 3, HP 6, BT 3)
 
 ---
 **AC** 15 (16 with platter raised); **Fort** +5, **Ref** +7, **Will** +3
 **HP** 9
-<span class="in-box-ability">**Raise a Shield <span class="action-icon">1</span> ** The serving platter has the same statistics as a [[Buckler]], but requires a hand to hold.</span>
+<span class="in-box-ability">**Raise a Shield <span class="action-icon">1</span> ** The serving platter has the same statistics as a [[DATABASE/shield/Buckler|buckler]], but requires a hand to hold.</span>
 
 ---
 **Speed** 25 feet

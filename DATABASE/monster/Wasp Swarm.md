@@ -75,16 +75,16 @@ wisdom: '+2'
 # Wasp Swarm
 
 Wasp nests are made of chewed wood fibers foraged from the surrounding flora, which the wasps make into a material similar to paper. A single wasp nest can house thousands of individuals that emerge as a massive swarm. Most swarms attack only to protect their nest or if otherwise agitated, though druids and other primal enchanters can bend these venomous vermin to their will—to deadly effect.
-**Recall Knowledge - Animal ([[Nature]])**: DC 19
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 19
 **Unspecific Lore**: DC 17
 **Specific Lore**: DC 14
 
 # Wasp Swarm<span class="item-type">Creature 4</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Animal</span><span class="item-trait">Swarm</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +10; darkvision
-**Skills** [[Acrobatics]] +12
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +12
 **Str** -4, **Dex** +4, **Con** +2, **Int** -5, **Wis** +2, **Cha** -1
 
 ---

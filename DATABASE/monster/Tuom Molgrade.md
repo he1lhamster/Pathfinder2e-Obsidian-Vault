@@ -80,19 +80,19 @@ wisdom: '+2'
 # Tuom Molgrade
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 30
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 30
 **Unspecific Lore**: DC 28
 **Specific Lore**: DC 25
 
 # Tuom Molgrade<span class="item-type">Creature 5</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Dwarf</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 193. Mantle of Gold]]
+**Source** [[DATABASE/source/Pathfinder 193. Mantle of Gold|Pathfinder #193: Mantle of Gold]]
 **Perception** +12; darkvision
-**Languages** [[Common]], [[Dwarven]], [[Pyric]], [[Undercommon]]
-**Skills** [[Arcana]] +12, [[Athletics]] +11, [[Crafting]] +14, [[Deception]] +9, [[Thievery]] +11
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Dwarven|Dwarven]], [[DATABASE/language/Pyric|Pyric]], [[DATABASE/language/Undercommon|Undercommon]]
+**Skills** [[DATABASE/skill/Arcana|Arcana]] +12, [[DATABASE/skill/Athletics|Athletics]] +11, [[DATABASE/skill/Crafting|Crafting]] +14, [[DATABASE/skill/Deception|Deception]] +9, [[DATABASE/skill/Thievery|Thievery]] +11
 **Str** +5, **Dex** +1, **Con** +3, **Int** +4, **Wis** +2, **Cha** +1
-**Items** [[Hammer]], [[Hatchet]], key to area I8, [[Scale Mail]], spellbook, [[Tool]], [[Thieves' Tools]]
+**Items** [[DATABASE/equipment/Hammer|+1 striking warhammer]], [[DATABASE/weapon/Hatchet|hatchet]], key to area I8, [[DATABASE/armor/Scale Mail|scale mail]], spellbook, [[DATABASE/equipment/Tool|sterling blacksmith tools]], [[DATABASE/equipment/Thieves' Tools|thieves' tools]]
 
 ---
 **AC** 22; **Fort** +13, **Ref** +9, **Will** +14
@@ -100,4 +100,4 @@ This creature did not include a description.
 
 ---
 **Speed** 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _warhammer_ +15 [+10/+5] (shove), **Damage** 2d8+7 bludgeoning</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> hatchet +14 [+10/+6] (agile, sweep, thrown 10 feet), **Damage** 1d6+7 slashing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> hatchet +14 [+10/+6] (agile, sweep, thrown 10 feet), **Damage** 1d6+7 slashing</span>**Arcane Prepared Spells** DC 21, attack +14; **3rd** _[[Fireball]]_; **2nd** _[[Glitterdust]]_, _[[Shocking Grasp]]_; **1st** _[[Floating Disk]]_, _[[Jump]]_; **Cantrips** **(3rd)** _[[Light]]_, _[[Mage Hand]]_, _[[Produce Flame]]_, _[[Read Aura]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _warhammer_ +15 [+10/+5] (shove), **Damage** 2d8+7 bludgeoning</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> hatchet +14 [+10/+6] (agile, sweep, thrown 10 feet), **Damage** 1d6+7 slashing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> hatchet +14 [+10/+6] (agile, sweep, thrown 10 feet), **Damage** 1d6+7 slashing</span>**Arcane Prepared Spells** DC 21, attack +14; **3rd** _[[DATABASE/spell/Fireball|fireball]]_; **2nd** _[[DATABASE/spell/Glitterdust|glitterdust]]_, _[[DATABASE/spell/Shocking Grasp|shocking grasp]]_; **1st** _[[DATABASE/spell/Floating Disk|floating disk]]_, _[[DATABASE/spell/Jump|jump]]_; **Cantrips** **(3rd)** _[[DATABASE/spell/Light|light]]_, _[[DATABASE/spell/Mage Hand|mage hand]]_, _[[DATABASE/spell/Produce Flame|produce flame]]_, _[[DATABASE/spell/Read Aura|read aura]]_

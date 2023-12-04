@@ -69,24 +69,24 @@ wisdom: '+2'
 # Jurgrindor
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 28
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 28
 **Unspecific Lore**: DC 26
 **Specific Lore**: DC 23
 
 # Jurgrindor<span class="item-type">Creature 3</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Cold</span><span class="item-trait">Giant</span><span class="item-trait">Humanoid</span>
-**Source** [[Kingmaker Adventure Path]]
-**Perception** +9; [[Low-Light Vision]]
-**Languages** [[Common]], [[Jotun]]
-**Skills** [[Athletics]] +10, [[Crafting]] +7, [[Intimidation]] +9, [[Stealth]] +8
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
+**Perception** +9; [[DATABASE/monsterability/Low-Light Vision|low-light vision]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Jotun|Jotun]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +10, [[DATABASE/skill/Crafting|Crafting]] +7, [[DATABASE/skill/Intimidation|Intimidation]] +9, [[DATABASE/skill/Stealth|Stealth]] +8
 **Str** +5, **Dex** +1, **Con** +3, **Int** +0, **Wis** +2, **Cha** +0
-**Items** [[Breastplate]]
+**Items** [[DATABASE/armor/Breastplate|battered breastplate]]
 
 ---
 **AC** 17; **Fort** +12, **Ref** +6, **Will** +9
 **HP** 50 (currently 25)
-<span class="in-box-ability">**Wounded Arm** Jurgrindor's left arm is dreadfully wounded, courtesy of Amiri's greatsword. The discomfort of this wound causes Jurgrindor to take a –2 circumstance penalty to his Armor Class and Strikes (these modifications are included in his stats). At the end of each of his turns, Jurgrindor must succeed at a DC 12 flat check or the wound begins to bleed again, dealing him 1d6 [[Persistent Damage]]. He can't use [[Catch Rock]] or [[Throw Rock]] (as typical giants) until he's healed back to full hit points.</span>
+<span class="in-box-ability">**Wounded Arm** Jurgrindor's left arm is dreadfully wounded, courtesy of Amiri's greatsword. The discomfort of this wound causes Jurgrindor to take a –2 circumstance penalty to his Armor Class and Strikes (these modifications are included in his stats). At the end of each of his turns, Jurgrindor must succeed at a DC 12 flat check or the wound begins to bleed again, dealing him 1d6 [[DATABASE/condition/Persistent Damage|persistent bleed damage]]. He can't use [[DATABASE/monsterability/Catch Rock|Catch Rock]] or [[DATABASE/monsterability/Throw Rock|Throw Rock]] (as typical giants) until he's healed back to full hit points.</span>
 
 ---
 **Speed** 30 feet

@@ -2,6 +2,7 @@
 id: '8'
 name: Tempest
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 trait: null
 type: Oracle Mystery
@@ -9,18 +10,18 @@ type: Oracle Mystery
 ---
 # Tempest
 
-**Source** [[Advanced Player's Guide]] 
-The fury of the wind and waves pounds in your heart, whether your power flows from natural storms, a conduit to the elemental [[Plane of Air]] and [[Plane of Water]], or through reverence of deities such as [[Gozreh]], the tengu god of storms [[Hei Feng]], the demon lord [[Dagon]], or the elemental lords of air and water.
-**Mystery Benefit** You can see perfectly through wind and water, and you send electric charges through both air and water. You never take penalties to Perception from wind, rain, fog, or other precipitation, or from looking through water or being underwater, and such conditions don't cause anything to be [[Concealed]] from you.
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+The fury of the wind and waves pounds in your heart, whether your power flows from natural storms, a conduit to the elemental [[DATABASE/plane/Plane of Air|Planes of Air]] and [[DATABASE/plane/Plane of Water|Water]], or through reverence of deities such as [[DATABASE/deity/Gozreh|Gozreh]], the tengu god of storms [[DATABASE/deity/Hei Feng|Hei Feng]], the demon lord [[DATABASE/deity/Dagon|Dagon]], or the elemental lords of air and water.
+**Mystery Benefit** You can see perfectly through wind and water, and you send electric charges through both air and water. You never take penalties to Perception from wind, rain, fog, or other precipitation, or from looking through water or being underwater, and such conditions don't cause anything to be [[DATABASE/condition/Concealed|concealed]] from you.
  When you deal physical damage with a non-cantrip air or water spell, you deal an additional 1 electricity damage per spell level.
-**Trained Skill** [[Nature]]
-**Granted Cantrip** _[[Electric Arc]]_
-**Revelation Spells** initial: _[[Tempest Touch]]_; advanced: _[[Thunderburst]]_; greater: _[[Tempest Form]]_
-**Related Domains** [[Air Domain]], [[Water Domain]]
+**Trained Skill** [[DATABASE/skill/Nature|Nature]]
+**Granted Cantrip** _[[DATABASE/spell/Electric Arc|electric arc]]_
+**Revelation Spells** initial: _[[DATABASE/spell/Tempest Touch|tempest touch]]_; advanced: _[[DATABASE/spell/Thunderburst|thunderburst]]_; greater: _[[DATABASE/spell/Tempest Form|tempest form]]_
+**Related Domains** [[DATABASE/domain/Air Domain|air]], [[DATABASE/domain/Water Domain|water]]
 
 ## Curse of the Perpetual Storm
 
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 You are the center of your own tiny tempest, ever surrounded by wind and rain that worsens the more you tap into your elemental powers. Even when you are calm and at rest, your hair and clothing are blown about by gentle winds, you are slightly damp, and your touch often comes with a static shock.
 **Minor Curse** An aura of a whirling storm whips up in a 5-foot emanation around you and in your space. The aura puts out small non-magical fires 1 round after they're lit or brought into your aura.
  Electrical energy builds up within your storm, turning you into a lightning rod; you gain weakness 2 to electricity, and electricity spells or effects that have additional effects for a creature wearing or holding metal treat you as though you were wearing metal.

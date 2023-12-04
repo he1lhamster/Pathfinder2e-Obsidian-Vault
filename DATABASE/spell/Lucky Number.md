@@ -22,6 +22,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -40,7 +41,7 @@ type: Spell
 # Lucky Number<span class="item-type">Spell 2</span>
 
 <span class="item-trait">Contingency</span><span class="item-trait">Divination</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Traditions** arcane, divine, occult
 **Cast** 10 minutes (material, somatic, verbal)
 **Duration** until the next time you make your daily preparations

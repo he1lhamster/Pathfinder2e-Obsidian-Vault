@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Unexpected Sharpshooter Dedication|Unexpected Sha
   Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -25,10 +26,10 @@ type: Feat
 # Lucky Escape <span class="action-icon">5</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Misfortune</span>
-**Source** [[Guns & Gears]]
-**Archetype** [[Unexpected Sharpshooter]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Archetype** [[DATABASE/archetype/Unexpected Sharpshooter|Unexpected Sharpshooter]]
 **Frequency** once per day
-**Prerequisites** [[Unexpected Sharpshooter Dedication]]
+**Prerequisites** [[DATABASE/feat/Unexpected Sharpshooter Dedication|Unexpected Sharpshooter Dedication]]
 **Trigger** A creature targets you with an attack, even if you aren't aware of it.
 
 ---

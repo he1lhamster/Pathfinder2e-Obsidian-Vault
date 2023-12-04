@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Familiar Tattoo<span class="item-type">Item 3</span>
 
 <span class="item-trait">Invested</span><span class="item-trait">Magical</span><span class="item-trait">Tattoo</span><span class="item-trait">Transmutation</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Price** 60 gp
 **Usage** tattooed on the body; **Bulk** —
 

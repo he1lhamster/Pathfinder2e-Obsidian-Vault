@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Rogue Dedication|Rogue Dedication]] ; expert in R
   saves'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Evasiveness (Rogue) <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Rogue]]
-**Prerequisites** [[Rogue Dedication]]; expert in Reflex saves
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Rogue|Rogue]]
+**Prerequisites** [[DATABASE/feat/Rogue Dedication|Rogue Dedication]]; expert in Reflex saves
 
 ---
 Your proficiency rank for Reflex saves increases to master.

@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -57,7 +58,7 @@ weapon_type: null
 # Dragonfly Potion<span class="item-type">Item 12</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Consumable</span><span class="item-trait">Magical</span><span class="item-trait">Morph</span><span class="item-trait">Potion</span><span class="item-trait">Transmutation</span>
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 310 gp
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact

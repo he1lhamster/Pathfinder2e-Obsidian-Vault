@@ -96,16 +96,16 @@ wisdom: '+4'
 Scourges of the upper Darklands, these enormous, mole-like monstrosities slice and burrow through solid stone with massive forearms and adamantine-strong claws. Shulns grow to about 20 feet long and have four tiny, nearly imperceptible eyes; a long, pale snout; four thick-muscled legs that end in long, serrated claws; and a stubby pink tail. As a young shuln matures, its unique metabolism produces adamantine that becomes infused throughout its skeletal system. In addition to making their claws and fangs nearly unbreakable, this unique physiological trait makes shulns unparalleled burrowers and highly sought by monster hunters who hope to harvest the precious material from their corpses.
  Shulns have a ravenous appetite and eat nearly anything they can catch, but their preferred diet consists almost entirely of large invertebrates, especially cave worms. They rely on tiny sensory whiskers that cover their snoutfland allow them to detect subtle movements in the air and ground without the use of vision. When it detects suitable prey, a shuln bites the target at the first opportunity, injecting it with a potent paralytic toxin present in its saliva. So strong is this poison that it is capable of subduing even the near-unstoppable purple worm, making the shuln a valuable (if dangerous) companion to have for anyone making excursions into worm-infested regions of the Darklands. Shulns’ notoriously ill-tempered dispositions and their knack for digging into areas of an underground settlement where digging ought not occur makes them frustrating creatures to keep around, but when the alternative is an unpredictable but deadly visit from an enormous, hungry cave worm, the annoyances are well worth the trouble.
  Encounters with much larger shuln-like entities on the Plane of Earth suggest that these creatures may have originated from that place. The larger shulns still retain their elemental qualities, are quite a bit smarter, and have their own suite of earth-themed innate primal spells—but for all that, they still love the taste of cave worm.
-**Recall Knowledge - Beast ([[Arcana]], [[Nature]])**: DC 35
+**Recall Knowledge - Beast ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 35
 **Unspecific Lore**: DC 33
 **Specific Lore**: DC 30
 
 # Shuln<span class="item-type">Creature 12</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Huge</span><span class="item-trait">Beast</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +20; scent 30 feet, tremorsense (imprecise) 60 feet
-**Skills** [[Athletics]] +25, [[Survival]] +22
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +25, [[DATABASE/skill/Survival|Survival]] +22
 **Str** +7, **Dex** +4, **Con** +6, **Int** -3, **Wis** +4, **Cha** +1
 
 ---
@@ -114,7 +114,7 @@ Scourges of the upper Darklands, these enormous, mole-like monstrosities slice a
 
 ---
 **Speed** 40 feet, burrow 20 feet; unstoppable burrow
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> [[Adamantine]] claw +25 [+21/+17] (agile, reach 15 feet), **Damage** 3d8+10 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> [[Adamantine]] fangs +25 [+20/+15] (reach 15 feet), **Damage** 3d10+10 piercing plus shuln saliva</span><span class="in-box-ability">**Armor-Rending** Any time the shuln scores a critical hit with a melee Strike, it also deals the same amount of damage to the target’s armor, bypassing any Hardness lower than 10, like [[Adamantine]].</span><span class="in-box-ability">**Shuln Saliva** (incapacitation, poison) **Saving Throw** DC 32 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 2d6 poison damage and [[Slowed]] (1 round); **Stage 2** 3d6 poison damage, and [[Slowed]] (1 round); **Stage 3** 4d6 poison damage and [[Paralyzed]] for 2d6 hours. Shuln saliva overcomes the inexorable ability.</span><span class="in-box-ability">**Unstoppable Burrow** Shulns can burrow into solid rock and any metal with a hardness less than that of [[Adamantine]] like it is soil or loose rubble, leaving a tunnel 10 feet in diameter.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> [[DATABASE/equipment/Adamantine|adamantine]] claw +25 [+21/+17] (agile, reach 15 feet), **Damage** 3d8+10 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> [[DATABASE/equipment/Adamantine|adamantine]] fangs +25 [+20/+15] (reach 15 feet), **Damage** 3d10+10 piercing plus shuln saliva</span><span class="in-box-ability">**Armor-Rending** Any time the shuln scores a critical hit with a melee Strike, it also deals the same amount of damage to the target’s armor, bypassing any Hardness lower than 10, like [[DATABASE/equipment/Adamantine|adamantine]].</span><span class="in-box-ability">**Shuln Saliva** (incapacitation, poison) **Saving Throw** DC 32 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 2d6 poison damage and [[DATABASE/condition/Slowed|slowed 1]] (1 round); **Stage 2** 3d6 poison damage, and [[DATABASE/condition/Slowed|slowed 1]] (1 round); **Stage 3** 4d6 poison damage and [[DATABASE/condition/Paralyzed|paralyzed]] for 2d6 hours. Shuln saliva overcomes the inexorable ability.</span><span class="in-box-ability">**Unstoppable Burrow** Shulns can burrow into solid rock and any metal with a hardness less than that of [[DATABASE/equipment/Adamantine|adamantine]] like it is soil or loose rubble, leaving a tunnel 10 feet in diameter.</span>
 
 ###  Shuln Resources
 

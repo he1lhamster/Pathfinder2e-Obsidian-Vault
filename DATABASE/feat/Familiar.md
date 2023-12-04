@@ -11,6 +11,7 @@ name: Familiar
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -26,8 +27,8 @@ type: Feat
 # Familiar <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Magus</span><span class="item-trait">Sorcerer</span><span class="item-trait">Thaumaturge</span><span class="item-trait">Wizard</span>
-**Source** [[Dark Archive]], [[Core Rulebook]] , [[Secrets of Magic]] 
-**Archetypes** [[Elementalist]]*, [[Elementalist]]*, [[Shadowcaster]]*, [[Soul Warden]]*
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]], [[DATABASE/source/Core Rulebook|Core Rulebook]] , [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
+**Archetypes** [[DATABASE/archetype/Elementalist|Elementalist]]*, [[DATABASE/archetype/Elementalist|Elementalist]]*, [[DATABASE/archetype/Shadowcaster|Shadowcaster]]*, [[DATABASE/archetype/Soul Warden|Soul Warden]]*
 * This archetype offers Familiar at a different level than displayed here.
 
 ---
@@ -39,4 +40,4 @@ This feat can be used for one or more Archetypes in addition to the listed Class
 
 ## Familiar Leads To...
 
-[[Elemental Familiar]], [[Elemental Familiar]]
+[[DATABASE/feat/Elemental Familiar|Elemental Familiar]], [[DATABASE/feat/Elemental Familiar|Elemental Familiar]]

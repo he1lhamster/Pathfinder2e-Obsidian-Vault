@@ -11,6 +11,7 @@ name: Grave Mummification
 prerequisite: '[[DATABASE/feat/Mummy Dedication|Mummy Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Grave Mummification <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Book of the Dead]]
-**Archetype** [[Mummy]]
-**Prerequisites** [[Mummy Dedication]]
+**Source** [[DATABASE/source/Book of the Dead|Book of the Dead]]
+**Archetype** [[DATABASE/archetype/Mummy|Mummy]]
+**Prerequisites** [[DATABASE/feat/Mummy Dedication|Mummy Dedication]]
 
 ---
 Exposure to the elements, magic, alchemy, and other phenomena intensified the changes from your mummification. You gain the advanced undead benefits.

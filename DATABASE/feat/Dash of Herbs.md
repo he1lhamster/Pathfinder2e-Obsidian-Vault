@@ -11,6 +11,7 @@ name: Dash of Herbs
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -29,10 +30,10 @@ type: Feat
 # Dash of Herbs <span class="action-icon">2</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Healing</span><span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Plant</span><span class="item-trait">Primal</span><span class="item-trait">Vitality</span><span class="item-trait">Wood</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
-A small cloud of medicinal herbs heal a creature. The type of herbs depends on which malady you decide to treat: [[Confused]], disease, poison, [[Sickened]], or injuries. Target one living creature within 30 feet, who regains 2d8+4 HP and can attempt a new save against one malady of the chosen kind. If you chose injuries, instead increase the healing dice to d10s. The creature becomes temporarily immune to Dash of Herbs for 10 minutes. 
+A small cloud of medicinal herbs heal a creature. The type of herbs depends on which malady you decide to treat: [[DATABASE/condition/Confused|confused]], disease, poison, [[DATABASE/condition/Sickened|sickened]], or injuries. Target one living creature within 30 feet, who regains 2d8+4 HP and can attempt a new save against one malady of the chosen kind. If you chose injuries, instead increase the healing dice to d10s. The creature becomes temporarily immune to Dash of Herbs for 10 minutes. 
 Alternatively, you can add the herbs to a dish of food being prepared for up to six people. Creatures who partake in the meal gain the benefits. The herbs' healing effects wear off if not eaten within an hour, though their flavor remains.
 
 ---

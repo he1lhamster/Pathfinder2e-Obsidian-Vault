@@ -7,6 +7,7 @@ id: '1485'
 name: Bolster Confidence
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 trait:
@@ -22,8 +23,7 @@ type: Action
 # Bolster Confidence
 
 <span class="item-trait">Auditory</span><span class="item-trait">Camping</span><span class="item-trait">Concentrate</span><span class="item-trait">Linguistic</span><span class="item-trait">Mental</span>
-**Source** [[Kingmaker Companion Guide]]
+**Source** [[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]
 
 ---
-_Nethys note: This camping activity requires that Linzi is camping with the PCs (but see [[Learn from a Companion]])._
-Linzi's enthusiasm inspires everyone around her. Checks on all other Camping activities while Linzi does so gain a +1 circumstance bonus. If Linzi is master in [[Performance]], this becomes a +2 circumstance bonus.
+Linzi's enthusiasm inspires everyone around her. Checks on all other Camping activities while Linzi does so gain a +1 circumstance bonus. If Linzi is master in [[DATABASE/skill/Performance|Performance]], this becomes a +2 circumstance bonus.

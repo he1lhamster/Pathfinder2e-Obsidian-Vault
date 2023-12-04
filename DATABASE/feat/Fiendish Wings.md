@@ -11,6 +11,7 @@ name: Fiendish Wings
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -26,7 +27,7 @@ type: Feat
 # Fiendish Wings <span class="action-icon">2</span> <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Divine</span><span class="item-trait">Morph</span><span class="item-trait">Tiefling</span><span class="item-trait">Transmutation</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Frequency** once per day
 
 ---
@@ -34,7 +35,7 @@ You can strain to call forth bat-like or otherwise fiendish wings from your back
 
 ## Fiendish Wings Leads To...
 
-[[Relentless Wings]]
+[[DATABASE/feat/Relentless Wings|Relentless Wings]]
 
 ## Traits
 
@@ -49,7 +50,7 @@ Your morph effects might also end if you are polymorphed and the polymorph effec
 
 **Tiefling:**
 
-A creature with this trait has the tiefling versatile heritage. Tieflings are [[Planar Scion]] descended from fiends. An ability with this trait can be used or selected only by tieflings.
+A creature with this trait has the tiefling versatile heritage. Tieflings are [[DATABASE/monsterfamily/Planar Scion|planar scions]] descended from fiends. An ability with this trait can be used or selected only by tieflings.
 
 **Transmutation:**
 

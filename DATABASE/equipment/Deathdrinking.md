@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 size: null
@@ -55,9 +56,9 @@ weapon_type: null
 # Deathdrinking<span class="item-type">Item 7</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Magical</span><span class="item-trait">Necromancy</span>
-**Source** [[Kingmaker Companion Guide]]
+**Source** [[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]
 **Price** 360 gp
-**Usage** etched onto a weapon without a [[Disrupting]] rune; **Bulk** —
+**Usage** etched onto a weapon without a [[DATABASE/equipment/Disrupting|disrupting]] rune; **Bulk** —
 
 ---
 A weapon etched with a _deathdrinking_ rune shimmers with dark purple energy. When held by a living creature, the weapon causes twinges of hunger to manifest. 

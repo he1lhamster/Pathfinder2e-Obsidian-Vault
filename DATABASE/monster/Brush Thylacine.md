@@ -68,16 +68,16 @@ wisdom: '+2'
 # Brush Thylacine
 
 These ferociously territorial thylacines often attack creatures without provocation, and they are prone to leaving barely eaten carcasses strewn about their territories as additional markers of their dominance.
-**Recall Knowledge - Animal ([[Nature]])**: DC 18
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Brush Thylacine<span class="item-type">Creature 2</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Small</span><span class="item-trait">Animal</span>
-**Source** [[Kingmaker Adventure Path]]
-**Perception** +8; [[Low-Light Vision]], [[Scent]] (imprecise) 30 feet
-**Skills** [[Athletics]] +8, [[Intimidation]] +6, [[Stealth]] +8, [[Survival]] +6
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
+**Perception** +8; [[DATABASE/monsterability/Low-Light Vision|low-light vision]], [[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +8, [[DATABASE/skill/Intimidation|Intimidation]] +6, [[DATABASE/skill/Stealth|Stealth]] +8, [[DATABASE/skill/Survival|Survival]] +6
 **Str** +4, **Dex** +2, **Con** +3, **Int** -4, **Wis** +2, **Cha** +0
 
 ---
@@ -86,4 +86,4 @@ These ferociously territorial thylacines often attack creatures without provocat
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +10 [+5/+0] (deadly 1d8), **Damage** 1d6+6 piercing</span><span class="in-box-ability">**Hunting Cry** <span class="action-icon">1</span> (auditory, emotion, mental) The thylacine growls, hisses, and bares its jaws in a frightening manner as it attempts to [[Demoralize]] a creature. It gains a +2 circumstance bonus to this [[Intimidation]] check, and the attempt is not penalized if the target can't understand the thylacine.</span><span class="in-box-ability">**Pounce** <span class="action-icon">1</span> The brush thylacine Strides and makes a Strike at the end of that movement. If the brush thylacine began this action [[Hidden]], it remains hidden until after this ability's Strike.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +10 [+5/+0] (deadly 1d8), **Damage** 1d6+6 piercing</span><span class="in-box-ability">**Hunting Cry** <span class="action-icon">1</span> (auditory, emotion, mental) The thylacine growls, hisses, and bares its jaws in a frightening manner as it attempts to [[DATABASE/action/Demoralize|Demoralize]] a creature. It gains a +2 circumstance bonus to this [[DATABASE/skill/Intimidation|Intimidation]] check, and the attempt is not penalized if the target can't understand the thylacine.</span><span class="in-box-ability">**Pounce** <span class="action-icon">1</span> The brush thylacine Strides and makes a Strike at the end of that movement. If the brush thylacine began this action [[DATABASE/condition/Hidden|hidden]], it remains hidden until after this ability's Strike.</span>

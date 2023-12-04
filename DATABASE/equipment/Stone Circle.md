@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Stone Circle<span class="item-type">Item 10+</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Conjuration</span><span class="item-trait">Magical</span><span class="item-trait">Structure</span>
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Usage** held in 1 hand; **Bulk** when not activated
 
 ---
@@ -65,11 +66,11 @@ A _stone circle_ appears to be a thumb-sized rectangular gray stone until activa
 
 ## Stone Circle<span class="item-type">Item 10</span>
 
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 1,000 gp
 
 ## Stone Circle (Greater)<span class="item-type">Item 19</span>
 
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 32,000 gp
 The circle can be activated once per day. It provides its benefit when casting a ritual of any level, and it improves the secondary check with the worst degree of success by one degree of success, even if that secondary check succeeded.

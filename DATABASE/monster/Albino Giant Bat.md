@@ -65,17 +65,17 @@ wisdom: '+4'
 # Albino Giant Bat
 
 This creature did not include a description.
-**Recall Knowledge - Animal ([[Nature]])**: DC 20
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 20
 **Unspecific Lore**: DC 18
 **Specific Lore**: DC 15
 
 # Albino Giant Bat<span class="item-type">Creature 5</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Animal</span>
-**Source** [[Crown of the Kobold King]]
-Variant [[Giant Bat]]
-**Perception** +15; echolocation (precise) 40 feet, [[Low-Light Vision]]
-**Skills** [[Acrobatics]] +12, [[Athletics]] +12, [[Stealth]] +12
+**Source** [[DATABASE/source/Crown of the Kobold King|Crown of the Kobold King]]
+Variant [[DATABASE/monster/Giant Bat|giant bat]]
+**Perception** +15; echolocation (precise) 40 feet, [[DATABASE/monsterability/Low-Light Vision|low-light vision]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +12, [[DATABASE/skill/Athletics|Athletics]] +12, [[DATABASE/skill/Stealth|Stealth]] +12
 **Str** +5, **Dex** +3, **Con** +4, **Int** -4, **Wis** +4, **Cha** -2
 **Echolocation** A bat can use its hearing as a precise sense at the listed range.
 

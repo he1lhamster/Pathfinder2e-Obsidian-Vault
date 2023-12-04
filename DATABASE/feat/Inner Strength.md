@@ -11,6 +11,7 @@ name: Inner Strength
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,10 +26,10 @@ type: Feat
 # Inner Strength <span class="action-icon">1</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Barbarian</span><span class="item-trait">Concentrate</span><span class="item-trait">Rage</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
-Your strength is part of your rage, so as long as your anger remains, you can gather your strength and rage to overcome any sort of enfeeblement. You reduce your [[Enfeebled]] condition's value by 1.
+Your strength is part of your rage, so as long as your anger remains, you can gather your strength and rage to overcome any sort of enfeeblement. You reduce your [[DATABASE/condition/Enfeebled|enfeebled]] condition's value by 1.
 
 ## Traits
 

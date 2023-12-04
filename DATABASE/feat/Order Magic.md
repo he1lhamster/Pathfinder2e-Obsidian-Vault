@@ -11,6 +11,7 @@ name: Order Magic
 prerequisite: '[[DATABASE/feat/Order Explorer|Order Explorer]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Order Magic <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Druid</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Order Explorer]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/feat/Order Explorer|Order Explorer]]
 
 ---
 You have delved deeper into the teaching of a new order, gaining access to a coveted order spell. Choose an order you have selected with Order Explorer. You gain the initial order spell from that order.

@@ -2,6 +2,7 @@
 id: '8'
 name: Abandon Hex
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait: null
 type: General Skill Action
@@ -9,17 +10,17 @@ type: General Skill Action
 ---
 # Abandon Hex (Untrained)
 
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 
 ## Skill Uses
 
-[[Exploration]] Abandon Hex
-[[Wilderness]] Abandon Hex
+[[DATABASE/skill/Exploration|Exploration]] Abandon Hex
+[[DATABASE/skill/Wilderness|Wilderness]] Abandon Hex
 
-## [[Abandon Hex]]
+## [[DATABASE/action/Abandon Hex|Abandon Hex]]
 
 <span class="item-trait">Downtime</span><span class="item-trait">Region</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 **Requirements** The hex to be abandoned must be controlled.
 
 ---

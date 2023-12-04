@@ -72,19 +72,19 @@ wisdom: '+3'
 # Web Lurker
 
 Web lurkers, known also as ettercaps, are ugly monsters that not only dwell within the lairs of spiders and swarms, but actively cultivate and shepherd such vermin.
-**Recall Knowledge - Aberration ([[Occultism]])**: DC 18
+**Recall Knowledge - Aberration ([[DATABASE/skill/Occultism|Occultism]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Web Lurker<span class="item-type">Creature 3</span>
 
 <span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Aberration</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +10; darkvision, tremorsense (imprecise) 30 feet (creatures touching its web)
-**Languages** [[Aklo]]; spider speak
-**Skills** [[Acrobatics]] +9, [[Athletics]] +9, [[Crafting]] +8 (+12 to craft traps and snares), [[Stealth]] +11
+**Languages** [[DATABASE/language/Aklo|Aklo]]; spider speak
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +9, [[DATABASE/skill/Athletics|Athletics]] +9, [[DATABASE/skill/Crafting|Crafting]] +8 (+12 to craft traps and snares), [[DATABASE/skill/Stealth|Stealth]] +11
 **Str** +4, **Dex** +4, **Con** +3, **Int** +1, **Wis** +3, **Cha** -1
-**Spider Speak** The web lurker can speak with spiders, with the same effects and limitations as [[Speak with Animals]].
+**Spider Speak** The web lurker can speak with spiders, with the same effects and limitations as [[DATABASE/spell/Speak with Animals|speak with animals]].
 
 ---
 **AC** 19; **Fort** +10, **Ref** +11, **Will** +8

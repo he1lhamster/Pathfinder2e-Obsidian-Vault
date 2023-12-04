@@ -11,6 +11,7 @@ name: Soothing Ballad
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Soothing Ballad <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Bard</span>
-**Source** [[Core Rulebook]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
-You soothe your allies’ wounds with the power of your performance. You learn the [[Soothing Ballad]] composition spell. Increase the number of Focus Points in your focus pool by 1.
+You soothe your allies’ wounds with the power of your performance. You learn the [[DATABASE/spell/Soothing Ballad|soothing ballad]] composition spell. Increase the number of Focus Points in your focus pool by 1.

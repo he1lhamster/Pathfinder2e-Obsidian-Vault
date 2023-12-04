@@ -7,6 +7,7 @@ id: '315'
 name: Energy Emanation
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 trait:
@@ -19,7 +20,7 @@ type: Action
 # Energy Emanation <span class="action-icon">2</span>
 
 <span class="item-trait">Evocation</span><span class="item-trait">Primal</span>
-**Source** [[Character Guide]] 
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
 **Frequency** once per day
 
 ---

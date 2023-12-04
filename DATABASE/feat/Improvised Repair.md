@@ -11,6 +11,7 @@ name: Improvised Repair
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Improvised Repair <span class="action-icon">3</span> <span class="item-type">Feat 3</span>
 
 <span class="item-trait">General</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
-You are skilled at making quick fixes to damaged equipment, but your fixes aren't meant to last forever. You make a quick repair to a [[Broken]] non-magical item in your possession. Until the item takes damage again, you can still use it as a shoddy item of its type. This repair restores no Hit Points, so the item is easy to destroy. Once the item is [[Repair]] normally such that it is no longer broken, it is also no longer shoddy.
+You are skilled at making quick fixes to damaged equipment, but your fixes aren't meant to last forever. You make a quick repair to a [[DATABASE/condition/Broken|broken]] non-magical item in your possession. Until the item takes damage again, you can still use it as a shoddy item of its type. This repair restores no Hit Points, so the item is easy to destroy. Once the item is [[DATABASE/action/Repair|Repaired]] normally such that it is no longer broken, it is also no longer shoddy.
 
 ## Traits
 

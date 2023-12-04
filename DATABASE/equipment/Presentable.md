@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Enchantment
 size: null
@@ -54,20 +55,20 @@ weapon_type: null
 # Presentable<span class="item-type">Item 3+</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Enchantment</span><span class="item-trait">Magical</span>
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Usage** applied to any visible article of clothing; **Bulk** —
 
 ---
-A garment with this rune is always clean, as though it had just been affected by [[Prestidigitation]]. You gain a +1 item bonus to [[Make an Impression]] on those who would be impressed by a particular _presentable_ outfit while wearing this garment.
+A garment with this rune is always clean, as though it had just been affected by [[DATABASE/spell/Prestidigitation|prestidigitation]]. You gain a +1 item bonus to [[DATABASE/action/Make an Impression|Make an Impression]] on those who would be impressed by a particular _presentable_ outfit while wearing this garment.
 
 ## Presentable<span class="item-type">Item 3</span>
 
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 50 gp
 
 ## Presentable (Greater)<span class="item-type">Item 10</span>
 
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 900 gp
 This rune grants a +2 item bonus and has an activation.
-**Activate** <span class="action-icon">2</span> envision, Interact **Frequency** once per day; **Effect** You cast [[Suggestion]].
+**Activate** <span class="action-icon">2</span> envision, Interact **Frequency** once per day; **Effect** You cast [[DATABASE/spell/Suggestion|suggestion]].

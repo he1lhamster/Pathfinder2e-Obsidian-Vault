@@ -11,6 +11,7 @@ name: Experienced Tracker
 prerequisite: Trained in [[DATABASE/skill/Survival|Survival]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: survival
@@ -24,15 +25,15 @@ type: Feat
 # Experienced Tracker <span class="item-type">Feat 1</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** trained in [[Survival]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** trained in [[DATABASE/skill/Survival|Survival]]
 
 ---
 Tracking is second nature to you, and when necessary you can follow a trail without pause. You can Track while moving at full Speed by taking a –5 penalty to your Survival check. If you’re a master in Survival, you don’t take the –5 penalty. If you’re legendary in Survival, you no longer need to roll a new Survival check every hour when tracking, though you still need to roll whenever there are significant changes in the trail.
 
 ## Experienced Tracker Leads To...
 
-[[Swift Tracker]]
+[[DATABASE/feat/Swift Tracker|Swift Tracker]]
 
 ## Traits
 

@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: DC 36 Fortitude
 school: null
 size: null
@@ -56,11 +57,11 @@ weapon_type: null
 # Nightmare Vapor<span class="item-type">Item 16</span>
 
 <span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Inhaled</span><span class="item-trait">Poison</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 1,400 gp
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
 ---
 Purportedly sourced from any number of outlandish locales, nightmare vapor is most often created by boiling the sweat collected from humanoids caught in the throes of terrible nightmares.
-**Saving Throw** DC 36 Fortitude; **Onset** 1 round; **Maximum Duration** 6 rounds; **Stage 1** [[Confused]] (1 round); **Stage 2** confused and [[Flat-Footed]] (1 round); **Stage 3** confused, flat-footed, and [[Stupefied]] (1 round)
+**Saving Throw** DC 36 Fortitude; **Onset** 1 round; **Maximum Duration** 6 rounds; **Stage 1** [[DATABASE/condition/Confused|confused]] (1 round); **Stage 2** confused and [[DATABASE/condition/Flat-Footed|flat-footed]] (1 round); **Stage 3** confused, flat-footed, and [[DATABASE/condition/Stupefied|stupefied 2]] (1 round)

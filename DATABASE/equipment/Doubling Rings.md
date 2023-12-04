@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Doubling Rings<span class="item-type">Item 3+</span>
 
 <span class="item-trait">Evocation</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** worn; **Bulk** —
 
 ---
@@ -63,11 +64,11 @@ This item consists of two magically linked rings: an intricate, gleaming golden 
 
 ## Doubling Rings<span class="item-type">Item 3</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 50 gp
 
 ## Doubling Rings (Greater)<span class="item-type">Item 11</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 1,300 gp
 The rings also replicate property runes from the weapon in the gold-ringed hand, so long as the weapon in the iron-ringed hand meets all the prerequisites for a given rune and is not a specific weapon. The weapon in the iron-ringed hand gains the benefits of those runes. All its own runes are suppressed. When you invest the rings, you can elect for the rings to transfer only fundamental runes, in which case they function as standard _doubling rings_.

@@ -11,6 +11,7 @@ name: Sodbuster
 prerequisite: '[[DATABASE/feat/Dig Quickly|Dig Quickly]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 153. Life''s Long Shadows|Pathfinder #153: Life''s
   Long Shadows]]'
@@ -24,8 +25,8 @@ type: Feat
 # Sodbuster <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Shoony</span>
-**Source** [[Pathfinder 153. Life's Long Shadows]]
-**Prerequisites** [[Dig Quickly]]
+**Source** [[DATABASE/source/Pathfinder 153. Life's Long Shadows|Pathfinder #153: Life's Long Shadows]]
+**Prerequisites** [[DATABASE/feat/Dig Quickly|Dig Quickly]]
 
 ---
 Years toiling in soil have made you an expert digger. You gain a burrow Speed of 10 feet through loose soil or dirt.
@@ -33,5 +34,3 @@ Years toiling in soil have made you an expert digger. You gain a burrow Speed of
 ## Traits
 
 **Shoony:**
-
-_Note from Nethys: no description was provided for this trait_

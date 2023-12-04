@@ -23,6 +23,7 @@ follower_alignment:
 id: '157'
 name: Naderi
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Diplomacy|Diplomacy]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -32,7 +33,7 @@ type: Deity
 ---
 # Naderi (The Lost Maiden) [N]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Category** Other Gods
 **Edicts** Comfort and encourage lovers, help the suffering escape their circumstances in life or in death
 **Anathema** Dismiss or mock a creature’s grief, separate lovers, torture a creature
@@ -40,9 +41,9 @@ type: Deity
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Constitution or Charisma
-**Divine Font** _[[Harm]]_
-**Divine Skill** [[Diplomacy]]
-**Favored Weapon** [[Dagger]]
-**Domains** [[Death Domain]], [[Passion Domain]], [[Sorrow Domain]], [[Water Domain]]
-**Cleric Spells** 1st: _[[Soothe]]_, 4th: _[[Crushing Despair]]_, 5th: _[[Drop Dead]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Constitution or Charisma
+**Divine Font** _[[DATABASE/spell/Harm|harm]]_
+**Divine Skill** [[DATABASE/skill/Diplomacy|Diplomacy]]
+**Favored Weapon** [[DATABASE/weapon/Dagger|dagger]]
+**Domains** [[DATABASE/domain/Death Domain|death]], [[DATABASE/domain/Passion Domain|passion]], [[DATABASE/domain/Sorrow Domain|sorrow]], [[DATABASE/domain/Water Domain|water]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Soothe|soothe]]_, 4th: _[[DATABASE/spell/Crushing Despair|crushing despair]]_, 5th: _[[DATABASE/spell/Drop Dead|drop dead]]_

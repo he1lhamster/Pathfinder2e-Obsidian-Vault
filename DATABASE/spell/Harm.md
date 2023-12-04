@@ -19,6 +19,7 @@ patron_theme: null
 range: varies
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -35,9 +36,9 @@ type: Spell
 # Harm<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Necromancy</span><span class="item-trait">Negative</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** divine
-**Bloodline** [[Undead]]
+**Bloodline** [[DATABASE/sorcererbloodline/Undead|undead]]
 **Cast** <span class="action-icon">1</span> to <span class="action-icon">3</span> 
 **Range** varies; **Targets** 1 living creature or 1 willing undead creature
 

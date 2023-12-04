@@ -3,6 +3,7 @@ creature_family: Munsahir
 id: '342'
 name: Munsahir
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Munsahir
 
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 Munsahirs build militaristic, traditional societies.
 
 ### Members
 
-[[Munsahir Gatecrasher]] (Creature 4), [[Munsahir Trooper]] (Creature 5)
+[[DATABASE/monster/Munsahir Gatecrasher|Munsahir Gatecrasher]] (Creature 4), [[DATABASE/monster/Munsahir Trooper|Munsahir Trooper]] (Creature 5)
 
 ###  Munsahir Hierarchy
 

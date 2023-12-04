@@ -11,6 +11,7 @@ name: Twist Healing
 prerequisite: ability to cast [[DATABASE/spell/Heal|heal]] and [[DATABASE/spell/Harm|harm]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Twist Healing <span class="item-type">Feat 17</span>
 
 <span class="item-trait">Dhampir</span>
-**Source** [[Ancestry Guide]] 
-**Prerequisites** ability to cast [[Heal]] and [[Harm]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
+**Prerequisites** ability to cast [[DATABASE/spell/Heal|heal]] and [[DATABASE/spell/Harm|harm]]
 
 ---
 Your connection to both life and undeath lets you twist the healing power of magic items to suit your own needs and aims. Whenever you Activate an Item to cast a _heal_ spell, you can invert its energy to produce the effects of an equivalent _harm_ spell instead.
@@ -33,4 +34,4 @@ Your connection to both life and undeath lets you twist the healing power of mag
 
 **Dhampir:**
 
-A creature with this trait has the dhampir versatile heritage. These humanoids are the mortal offspring of [[Vampire]] and members of other ancestries.
+A creature with this trait has the dhampir versatile heritage. These humanoids are the mortal offspring of [[DATABASE/monsterfamily/Vampire|vampires]] and members of other ancestries.

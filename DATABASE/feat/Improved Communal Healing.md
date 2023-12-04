@@ -11,6 +11,7 @@ name: Improved Communal Healing
 prerequisite: '[[DATABASE/feat/Communal Healing|Communal Healing]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Improved Communal Healing <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Cleric</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Communal Healing]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/feat/Communal Healing|Communal Healing]]
 
 ---
-You can direct excess channeled energy outward to benefit an ally. You can grant the Hit Points you would regain from Communal Healing to any one creature within the range of your [[Heal]] spell instead of yourself. You can also use Communal Healing when you target only yourself with a _heal_ spell, though if you do, you must grant the additional healing to someone other than yourself.
+You can direct excess channeled energy outward to benefit an ally. You can grant the Hit Points you would regain from Communal Healing to any one creature within the range of your [[DATABASE/spell/Heal|heal]] spell instead of yourself. You can also use Communal Healing when you target only yourself with a _heal_ spell, though if you do, you must grant the additional healing to someone other than yourself.

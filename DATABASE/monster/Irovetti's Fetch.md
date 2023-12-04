@@ -76,18 +76,18 @@ wisdom: '+8'
 # Irovetti's Fetch
 
 This creature did not include a description.
-**Recall Knowledge - Fey ([[Nature]])**: DC 50
+**Recall Knowledge - Fey ([[DATABASE/skill/Nature|Nature]])**: DC 50
 **Unspecific Lore**: DC 48
 **Specific Lore**: DC 45
 
 # Irovetti's Fetch<span class="item-type">Creature 20</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Fey</span>
-**Source** [[Kingmaker Adventure Path]]
-Variant [[Fetch Stalker]]
-**Perception** +36; [[Darkvision]]
-**Languages** [[Common]], [[Sylvan]]; [[Tongues]]
-**Skills** [[Athletics]] +39, [[Deception]] +39, [[Intimidation]] +39, [[Society]] +32
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
+Variant [[DATABASE/monster/Fetch Stalker|fetch stalker]]
+**Perception** +36; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Sylvan|Sylvan]]; [[DATABASE/spell/Tongues|tongues]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +39, [[DATABASE/skill/Deception|Deception]] +39, [[DATABASE/skill/Intimidation|Intimidation]] +39, [[DATABASE/skill/Society|Society]] +32
 **Str** +10, **Dex** +6, **Con** +9, **Int** +2, **Wis** +8, **Cha** +6
 
 ---
@@ -95,6 +95,6 @@ Variant [[Fetch Stalker]]
 **HP** 440, regeneration 45 (deactivated by fire or negative); **Weaknesses** cold iron 20, negative 20
 
 ---
-**Speed** 35 feet, [[Air Walk]]
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fetch weapon +38 [+33/+28] (backswing, forceful), **Damage** 4d6+18 slashing plus 3d6 mental and 4d6 fire</span>**Primal Innate Spells** DC 40, attack +31; **10th** _[[Finger of Death]]_; **9th** _[[Disjunction]]_; **7th** _[[Plane Shift]]_ (to or from the First World only); **Cantrips** **(10th)** _[[Produce Flame]]_, _[[Read Aura]]_; **Constant** **(9th)** _[[Air Walk]]_, _[[Tongues]]_
+**Speed** 35 feet, [[DATABASE/spell/Air Walk|air walk]]
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fetch weapon +38 [+33/+28] (backswing, forceful), **Damage** 4d6+18 slashing plus 3d6 mental and 4d6 fire</span>**Primal Innate Spells** DC 40, attack +31; **10th** _[[DATABASE/spell/Finger of Death|finger of death]]_; **9th** _[[DATABASE/spell/Disjunction|disjunction]]_; **7th** _[[DATABASE/spell/Plane Shift|plane shift]]_ (to or from the First World only); **Cantrips** **(10th)** _[[DATABASE/spell/Produce Flame|produce flame]]_, _[[DATABASE/spell/Read Aura|read aura]]_; **Constant** **(9th)** _[[DATABASE/spell/Air Walk|air walk]]_, _[[DATABASE/spell/Tongues|tongues]]_
 <span class="in-box-ability">**Manifest Fetch Weapon** <span class="action-icon">4</span> (conjuration, primal) **Trigger** The fetch starts its turn; **Effect** A fetch weapon manifests in the fetch's hand. As soon as a fetch weapon is no longer wielded by a fetch, it vanishes. The fetch chooses the type of weapon it manifests, but it does not gain any of that weapon's standard weapon traits, instead using the traits listed above in the fetch weapon Strike.</span>

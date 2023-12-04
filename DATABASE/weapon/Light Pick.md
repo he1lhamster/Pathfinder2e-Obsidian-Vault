@@ -13,6 +13,7 @@ name: Light Pick
 price: 4 sp
 range: null
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Agile|Agile]]'
@@ -26,11 +27,11 @@ weapon_type: Melee
 # Light Pick
 
 <span class="item-trait">Agile</span><span class="item-trait">Fatal 1d8</span>
-**Source** [[Core Rulebook]] 
-**Favored Weapon** [[Dranngvit]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Favored Weapon** [[DATABASE/deity/Dranngvit|Dranngvit]]
 **Price** 4 sp; **Damage** 1d4 P; **Bulk** L
 **Hands** 1
-**Type** Melee; **Category** Martial; **Group** [[Pick]]
+**Type** Melee; **Category** Martial; **Group** [[DATABASE/weapongroup/Pick|Pick]]
 
 ---
 A light pick is a modified mining implement with a wooden shaft ending in a pick head crafted more to pierce armor and flesh than chip rocks.
@@ -47,6 +48,6 @@ The fatal trait includes a die size. On a critical hit, the weapon’s damage di
 
 ## Critical Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
 **Pick**: The weapon viciously pierces the target, who takes 2 additional damage per weapon damage die.

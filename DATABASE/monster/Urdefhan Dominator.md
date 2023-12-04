@@ -100,31 +100,31 @@ wisdom: '+7'
 # Urdefhan Dominator
 
 Urdefhan dominators control the minds of others to glean useful secrets and gain an advantage against their enemies.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 32
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 32
 **Unspecific Lore**: DC 30
 **Specific Lore**: DC 27
 
 # Urdefhan Dominator<span class="item-type">Creature 14</span>
 
 <span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Humanoid</span><span class="item-trait">Urdefhan</span>
-**Source** [[Pathfinder 155. Lord of the Black Sands]]
-**Perception** +26; [[Darkvision]]
-**Languages** [[Aklo]], [[Daemonic]], [[Undercommon]]
-**Skills** [[Crafting]] +24, [[Lore]] +24, [[Intimidation]] +26, [[Religion]] +29, [[Stealth]] +25, [[Survival]] +27
+**Source** [[DATABASE/source/Pathfinder 155. Lord of the Black Sands|Pathfinder #155: Lord of the Black Sands]]
+**Perception** +26; [[DATABASE/monsterability/Darkvision|greater darkvision]]
+**Languages** [[DATABASE/language/Aklo|Aklo]], [[DATABASE/language/Daemonic|Daemonic]], [[DATABASE/language/Undercommon|Undercommon]]
+**Skills** [[DATABASE/skill/Crafting|Crafting]] +24, [[DATABASE/skill/Lore|Daemon Lore]] +24, [[DATABASE/skill/Intimidation|Intimidation]] +26, [[DATABASE/skill/Religion|Religion]] +29, [[DATABASE/skill/Stealth|Stealth]] +25, [[DATABASE/skill/Survival|Survival]] +27
 **Str** +4, **Dex** +5, **Con** +3, **Int** +4, **Wis** +7, **Cha** +6
-**Items** _+2 [[Striking]] [[Rhoka Sword]]_
+**Items** _+2 [[DATABASE/equipment/Striking|striking]] [[DATABASE/weapon/Rhoka Sword|rhoka sword]]_
 
 ---
 **AC** 35; **Fort** +25, **Ref** +25, **Will** +29
-**HP** 250 ([[Negative Healing]]); **Immunities** death effects (except necrotic decay), disease, fear; **Weaknesses** positive 15
+**HP** 250 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects (except necrotic decay), disease, fear; **Weaknesses** positive 15
 <span class="in-box-ability">**Necrotic Decay** (divine, necromancy, negative) When an urdefhan dies, its invisible flesh quickly rots away and sublimates into a foul-smelling gas that fills a 5-foot emanation around the body. This gas deals 15d6 negative damage to creatures in this area as their flesh curdles and rots as well (DC 34 basic Fortitude save).</span>
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _rhoka sword_ +26 [+21/+16] (fatal d10, magical, two-hand d12), **Damage** 2d8+10 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +26 [+22/+18] (agile), **Damage** 4d6+10 piercing plus wicked bite</span>**Divine Innate Spells** DC 35, attack +29; **7th** _[[Dimensional Lock]]_; **6th** _[[Disintegrate]]_, _[[Dominate]]_ (×2); **5th** _[[Banishment]]_, _[[Command]]_, _[[Prying Eye]]_; **4th** _[[Phantasmal Killer]]_ (×2), _[[Read Omens]]_, _[[Spiritual Weapon]]_; **3rd** _[[Harm]]_ (×2), _[[Paralyze]]_ (×2); **2nd** _[[Darkness]]_, _[[Death Knell]]_, _[[False Life]]_, _[[Silence]]_; **1st** _[[Feather Fall]]_ (self only), _[[Grim Tendrils]]_, _[[Ray of Enfeeblement]]_; **Cantrips** **(7th)** _[[Chill Touch]]_, _[[Divine Lance]]_, _[[Forbidding Ward]]_, _[[Telekinetic Projectile]]_
-<span class="in-box-ability">**Eyes of the Enthralled** <span class="action-icon">1</span> **Requirement** The urdefhan dominator has a creature dominated with its [[Dominate]] innate spell; **Effect** The urdefhan taps into the dominated creature's sight, hearing, and any other senses it has. The urdefhan can change back and forth from its own senses to the target's senses as a single action, which has the concentrate trait.</span><span class="in-box-ability">**Wicked Bite** <span class="action-icon">1</span> **Requirements** The urdefhan damaged a creature with a jaws Strike on its last action; **Effect** The urdefhan maintains contact, turning the creature's flesh translucent around the site of the injury. The urdefhan chooses one of two options, each of which requires a DC 33 Fortitude save. If the jaws Strike was a critical hit, the creature suffers both effects, using the same save result for both.
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _rhoka sword_ +26 [+21/+16] (fatal d10, magical, two-hand d12), **Damage** 2d8+10 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +26 [+22/+18] (agile), **Damage** 4d6+10 piercing plus wicked bite</span>**Divine Innate Spells** DC 35, attack +29; **7th** _[[DATABASE/spell/Dimensional Lock|dimensional lock]]_; **6th** _[[DATABASE/spell/Disintegrate|disintegrate]]_, _[[DATABASE/spell/Dominate|dominate]]_ (×2); **5th** _[[DATABASE/spell/Banishment|banishment]]_, _[[DATABASE/spell/Command|command]]_, _[[DATABASE/spell/Prying Eye|prying eye]]_; **4th** _[[DATABASE/spell/Phantasmal Killer|phantasmal killer]]_ (×2), _[[DATABASE/spell/Read Omens|read omens]]_, _[[DATABASE/spell/Spiritual Weapon|spiritual weapon]]_; **3rd** _[[DATABASE/spell/Harm|harm]]_ (×2), _[[DATABASE/spell/Paralyze|paralyze]]_ (×2); **2nd** _[[DATABASE/spell/Darkness|darkness]]_, _[[DATABASE/spell/Death Knell|death knell]]_, _[[DATABASE/spell/False Life|false life]]_, _[[DATABASE/spell/Silence|silence]]_; **1st** _[[DATABASE/spell/Feather Fall|feather fall]]_ (self only), _[[DATABASE/spell/Grim Tendrils|grim tendrils]]_, _[[DATABASE/spell/Ray of Enfeeblement|ray of enfeeblement]]_; **Cantrips** **(7th)** _[[DATABASE/spell/Chill Touch|chill touch]]_, _[[DATABASE/spell/Divine Lance|divine lance]]_, _[[DATABASE/spell/Forbidding Ward|forbidding ward]]_, _[[DATABASE/spell/Telekinetic Projectile|telekinetic projectile]]_
+<span class="in-box-ability">**Eyes of the Enthralled** <span class="action-icon">1</span> **Requirement** The urdefhan dominator has a creature dominated with its [[DATABASE/spell/Dominate|dominate]] innate spell; **Effect** The urdefhan taps into the dominated creature's sight, hearing, and any other senses it has. The urdefhan can change back and forth from its own senses to the target's senses as a single action, which has the concentrate trait.</span><span class="in-box-ability">**Wicked Bite** <span class="action-icon">1</span> **Requirements** The urdefhan damaged a creature with a jaws Strike on its last action; **Effect** The urdefhan maintains contact, turning the creature's flesh translucent around the site of the injury. The urdefhan chooses one of two options, each of which requires a DC 33 Fortitude save. If the jaws Strike was a critical hit, the creature suffers both effects, using the same save result for both.
 
-* **Drain Blood** The urdefhan drinks some of the creature's blood. On a failed save, the creature is [[Drained]] and the urdefhan regains 5 HP (or, on a critical failure, it's drained 2 and the urdefhan regains 10 HP).
-* **Drain Vitality** (necromancy) The urdefhan draws out some of the creature's vital essence. The creature becomes [[Enfeebled]] for 1 hour on a failed save (or enfeebled 2 for 1 hour on a critical failure).
+* **Drain Blood** The urdefhan drinks some of the creature's blood. On a failed save, the creature is [[DATABASE/condition/Drained|drained 1]] and the urdefhan regains 5 HP (or, on a critical failure, it's drained 2 and the urdefhan regains 10 HP).
+* **Drain Vitality** (necromancy) The urdefhan draws out some of the creature's vital essence. The creature becomes [[DATABASE/condition/Enfeebled|enfeebled 1]] for 1 hour on a failed save (or enfeebled 2 for 1 hour on a critical failure).
 
 </span>

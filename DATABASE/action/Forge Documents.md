@@ -7,6 +7,7 @@ id: '466'
 name: Forge Documents
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
@@ -19,7 +20,7 @@ type: Action
 # Forge Documents
 
 <span class="item-trait">Downtime</span><span class="item-trait">Secret</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 
 ---
 You prepare forgeries that might serve as convincing props. Attempt a hard or very hard Society check. 

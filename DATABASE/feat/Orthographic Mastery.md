@@ -11,6 +11,7 @@ name: Orthographic Mastery
 prerequisite: '[[DATABASE/feat/Loremaster Dedication|Loremaster Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,12 +25,12 @@ type: Feat
 # Orthographic Mastery <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Skill</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Loremaster]]
-**Prerequisites** [[Loremaster Dedication]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Loremaster|Loremaster]]
+**Prerequisites** [[DATABASE/feat/Loremaster Dedication|Loremaster Dedication]]
 
 ---
-You understand the principles that underlie all written words, allowing you to read nearly any text. You can attempt to [[Decipher Writing]] using [[Lore]] in place of the required skill.
+You understand the principles that underlie all written words, allowing you to read nearly any text. You can attempt to [[DATABASE/action/Decipher Writing|Decipher Writing]] using [[DATABASE/skill/Lore|Loremaster Lore]] in place of the required skill.
 
 ## Traits
 

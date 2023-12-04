@@ -3,6 +3,7 @@ creature_family: Duergar
 id: '38'
 name: Duergar
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,13 +11,13 @@ type: Creature Family
 ---
 # Duergar
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Deep beneath the surface, duergars stubbornly claim the ancestral subterranean homelands of the dwarves as their own, having refused to venture to the surface along with their modern dwarven cousins. An exiled dwarven deity named Droskar offered duergars salvation from the horrors of the Darklands, and in exchange duergars endlessly toil in his honor within their subterranean empire. Notorious slavers, duergars regularly raid other Darklands settlements as well as surface communities in constant search of living beings to task with endless amounts of work in their harsh and exhausting settlements.
  Duergars are gray-skinned creatures, often referred to as “ashen” by those surface dwarves willing to speak of them. These subterranean dwarves have a strong natural connection with cave-dwelling vermin, and it’s common to see duergar caravans drawn by teams of immense beetles. Most duergars devote themselves to the worship of Droskar, a taskmaster of a god who demands back-breaking toil in addition to regular prayer. Duergar leadership often consists of powerful divine servants of Droskar, along with incredibly stout warriors whose martial prowess ensures they can overcome any direct threat to their rule. Almost every aspect of duergar society is controlled by a strict hierarchy of leadership, with taskmasters directing subordinates across all walks of life.
 
 ### Members
 
-[[Duergar Bombardier]] (Creature 1), [[Duergar Sharpshooter]] (Creature 0), [[Duergar Taskmaster]] (Creature 2), [[Hagegraf Royal Guard]] (Creature 5), [[Hryngar Assassin]] (Creature 7), Hryngar Battlepriest (Creature 9), [[Hryngar Breccia Squad]] (Creature 9), [[Hryngar Forgepriest]] (Creature 6), [[Hryngar King's Agent]] (Creature 5)
+[[DATABASE/monster/Duergar Bombardier|Duergar Bombardier]] (Creature 1), [[DATABASE/monster/Duergar Sharpshooter|Duergar Sharpshooter]] (Creature 0), [[DATABASE/monster/Duergar Taskmaster|Duergar Taskmaster]] (Creature 2), [[DATABASE/monster/Hagegraf Royal Guard|Hagegraf Royal Guard]] (Creature 5), [[DATABASE/monster/Hryngar Assassin|Hryngar Assassin]] (Creature 7), Hryngar Battlepriest (Creature 9), [[DATABASE/monster/Hryngar Breccia Squad|Hryngar Breccia Squad]] (Creature 9), [[DATABASE/monster/Hryngar Forgepriest|Hryngar Forgepriest]] (Creature 6), [[DATABASE/monster/Hryngar King's Agent|Hryngar King's Agent]] (Creature 5)
 
 ###  Duergar Communities
 

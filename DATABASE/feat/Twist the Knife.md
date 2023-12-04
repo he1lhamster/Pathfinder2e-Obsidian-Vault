@@ -12,6 +12,7 @@ prerequisite: null
 rarity: Common
 requirement: Your last action was a melee Strike that dealt sneak attack damage to
   a flat-footed target.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Twist the Knife <span class="action-icon">1</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Rogue</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Requirements** Your last action was a melee Strike that dealt sneak attack damage to a flat-footed target.
 
 ---

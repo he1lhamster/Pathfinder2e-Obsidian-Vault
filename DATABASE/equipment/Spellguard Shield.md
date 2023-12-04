@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 size: null
@@ -53,10 +54,10 @@ weapon_type: null
 # Spellguard Shield<span class="item-type">Item 6</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Magical</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 250 gp
 **Usage** held in 1 hand; **Bulk** 1
-**Base Shield** [[Steel Shield]]
+**Base Shield** [[DATABASE/shield/Steel Shield|Steel Shield]]
 
 ---
-This shield bears eldritch glyphs to guard against magic. While you have this [[Steel Shield]] (Hardness 6, HP 24, BT 12) raised, you gain its circumstance bonus to saving throws against spells that target you (as well as to AC), and you can shield block spells that target you if you have that action.
+This shield bears eldritch glyphs to guard against magic. While you have this [[DATABASE/shield/Steel Shield|steel shield]] (Hardness 6, HP 24, BT 12) raised, you gain its circumstance bonus to saving throws against spells that target you (as well as to AC), and you can shield block spells that target you if you have that action.

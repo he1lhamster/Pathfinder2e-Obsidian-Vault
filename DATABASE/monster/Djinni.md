@@ -96,19 +96,19 @@ wisdom: '+2'
 
 Benevolent genies from the Plane of Air, djinn value art, culture, knowledge, and trade. They also love new experiences, succulent dishes, and heady wines. Of all geniekind, they are most likely to approach humans and other mortals, interacting with them on friendly terms. Still, djinn are proud of their genie heritage and have a tendency to be patronizing toward mortals, a habit that has earned them a reputation for arrogance.
 Djinn get along with jann and marids, but they find shaitans too stiff and harbor undying hatred for efreet. Although djinn are formidable combatants, they despise war and prefer to eschew violence in favor of dealing with their opponents using magic or subterfuge (making an exception, of course, when they encounter efreet).
-**Recall Knowledge - Elemental ([[Arcana]], [[Nature]])**: DC 22
+**Recall Knowledge - Elemental ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 22
 **Unspecific Lore**: DC 20
 **Specific Lore**: DC 17
 
 # Djinni<span class="item-type">Creature 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">CG</span><span class="trait-size item-trait">Large</span><span class="item-trait">Air</span><span class="item-trait">Elemental</span><span class="item-trait">Genie</span>
-**Source** [[Bestiary]]
-**Perception** +13; darkvision, [[Detect Magic]]
-**Languages** [[Auran]], [[Common]]
-**Skills** [[Acrobatics]] +14, [[Arcana]] +11, [[Athletics]] +11, [[Crafting]] +9, [[Deception]] +11, [[Diplomacy]] +13, [[Society]] +9, [[Stealth]] +12
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
+**Perception** +13; darkvision, [[DATABASE/spell/Detect Magic|detect magic]]
+**Languages** [[DATABASE/language/Auran|Auran]], [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +14, [[DATABASE/skill/Arcana|Arcana]] +11, [[DATABASE/skill/Athletics|Athletics]] +11, [[DATABASE/skill/Crafting|Crafting]] +9, [[DATABASE/skill/Deception|Deception]] +11, [[DATABASE/skill/Diplomacy|Diplomacy]] +13, [[DATABASE/skill/Society|Society]] +9, [[DATABASE/skill/Stealth|Stealth]] +12
 **Str** +4, **Dex** +5, **Con** +2, **Int** +2, **Wis** +2, **Cha** +4
-**Items** [[Scimitar]]
+**Items** [[DATABASE/weapon/Scimitar|scimitar]]
 
 ---
 **AC** 22; **Fort** +9, **Ref** +14, **Will** +11
@@ -117,9 +117,9 @@ Djinn get along with jann and marids, but they find shaitans too stiff and harbo
 
 ---
 **Speed** 25 feet, fly 40 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> scimitar +15 [+10/+5] (forceful +1, reach 10 feet, sweep), **Damage** 1d6+10 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +16 [+12/+8] (agile, finesse, magical, nonlethal, reach 10 feet), **Damage** 1d4+10 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> crashing wind +15 [+10/+5] (air, arcane, evocation, range increment 20 feet), **Damage** 1d8+6 bludgeoning</span>**Arcane Innate Spells** DC 23; **7th** _[[Plane Shift]]_ (at will; to Astral Plane, Elemental Planes, or Material Plane only); **4th** _[[Creation]]_, _[[Gaseous Form]]_; **3rd** _[[Illusory Creature]]_, _[[Illusory Object]]_; **2nd** _[[Enhance Victuals]]_ (at will), _[[Invisibility]]_ (at will; self only); **Constant** **(3rd)** _[[Detect Magic]]_
-<span class="in-box-ability">**Hurricane Blast** <span class="action-icon">1</span> (air, arcane, evocation) **Frequency **Once per round. **Effect **The djinni all creatures in its whirlwind pushes back 20 feet, or forces all creatures in the aura to move 20 feet clockwise or counterclockwise. Each creature must attempt a DC 21 Fortitude save. On a success, it avoids being moved, and on a critical failure it falls [[Prone]] in addition to being moved. Creatures with the air trait are immune.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> scimitar +15 [+10/+5] (forceful +1, reach 10 feet, sweep), **Damage** 1d6+10 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +16 [+12/+8] (agile, finesse, magical, nonlethal, reach 10 feet), **Damage** 1d4+10 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> crashing wind +15 [+10/+5] (air, arcane, evocation, range increment 20 feet), **Damage** 1d8+6 bludgeoning</span>**Arcane Innate Spells** DC 23; **7th** _[[DATABASE/spell/Plane Shift|plane shift]]_ (at will; to Astral Plane, Elemental Planes, or Material Plane only); **4th** _[[DATABASE/spell/Creation|creation]]_, _[[DATABASE/spell/Gaseous Form|gaseous form]]_; **3rd** _[[DATABASE/spell/Illusory Creature|illusory creature]]_, _[[DATABASE/spell/Illusory Object|illusory object]]_; **2nd** _[[DATABASE/spell/Enhance Victuals|enhance victuals]]_ (at will), _[[DATABASE/spell/Invisibility|invisibility]]_ (at will; self only); **Constant** **(3rd)** _[[DATABASE/spell/Detect Magic|detect magic]]_
+<span class="in-box-ability">**Hurricane Blast** <span class="action-icon">1</span> (air, arcane, evocation) **Frequency **Once per round. **Effect **The djinni all creatures in its whirlwind pushes back 20 feet, or forces all creatures in the aura to move 20 feet clockwise or counterclockwise. Each creature must attempt a DC 21 Fortitude save. On a success, it avoids being moved, and on a critical failure it falls [[DATABASE/condition/Prone|prone]] in addition to being moved. Creatures with the air trait are immune.</span>
 
 ###  Djinni Viziers
 
-Djinni viziers prefer to manifest wishes in physical, often gaudy displays, but cut corners in quality. Wished-for gold, for example, might only be gold plated (and still valuable), not solid gold. Djinni viziers add the following to their innate spells: **5th** [[Summon Giant]], [[Tongues]].
+Djinni viziers prefer to manifest wishes in physical, often gaudy displays, but cut corners in quality. Wished-for gold, for example, might only be gold plated (and still valuable), not solid gold. Djinni viziers add the following to their innate spells: **5th** [[DATABASE/spell/Summon Giant|summon giants]], [[DATABASE/spell/Tongues|tongues]].

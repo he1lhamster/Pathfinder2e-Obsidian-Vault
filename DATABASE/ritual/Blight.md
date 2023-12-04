@@ -12,6 +12,7 @@ primary_check: '[[DATABASE/skill/Nature|Nature]] (expert)'
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: Necromancy
 secondary_casters: '1'
 secondary_check: '[[DATABASE/skill/Survival|Survival]]'
@@ -29,9 +30,9 @@ type: Ritual
 # Blight<span class="item-type">Ritual 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Necromancy</span><span class="item-trait">Negative</span><span class="item-trait">Plant</span><span class="item-trait">Transmutation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Cast** 1 day; **Secondary Casters** 1
-**Primary Check** [[Nature]] (expert); **Secondary Checks** [[Survival]]
+**Primary Check** [[DATABASE/skill/Nature|Nature]] (expert); **Secondary Checks** [[DATABASE/skill/Survival|Survival]]
 **Area** 1/2-mile-radius circle centered on you
 **Duration** 1 year
 

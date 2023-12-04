@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Staff of Air<span class="item-type">Item 3+</span>
 
 <span class="item-trait">Evocation</span><span class="item-trait">Magical</span><span class="item-trait">Staff</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Usage** held in 1 hand; **Bulk** 1
 
 ---
@@ -64,27 +65,27 @@ Carved from white ash wood, a staff of air crackles with electrical sparks, and 
 
 ## Staff of Air<span class="item-type">Item 3</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 60 gp
 **Bulk** 1
 
-* **Cantrip** [[Gale Blast]]
-* **1st** [[Air Bubble]], [[Gust of Wind]]
+* **Cantrip** [[DATABASE/spell/Gale Blast|gale blast]]
+* **1st** [[DATABASE/spell/Air Bubble|air bubble]], [[DATABASE/spell/Gust of Wind|gust of wind]]
 
 ## Staff of Air (Greater)<span class="item-type">Item 8</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 450 gp
 **Bulk** 1
 
-* **2nd** [[Ash Cloud]], [[Obscuring Mist]]
-* **3rd** [[Blazing Dive]], [[Lightning Bolt]], [[Wall of Wind]]
+* **2nd** [[DATABASE/spell/Ash Cloud|ash cloud]], [[DATABASE/spell/Obscuring Mist|obscuring mist]]
+* **3rd** [[DATABASE/spell/Blazing Dive|blazing dive]], [[DATABASE/spell/Lightning Bolt|lightning bolt]], [[DATABASE/spell/Wall of Wind|wall of wind]]
 
 ## Staff of Air (Major)<span class="item-type">Item 12</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 1,800 gp
 **Bulk** 1
 
-* **4th** [[Air Walk]], _ash cloud_
-* **5th** _blazing dive_, [[Lightning Storm]]
+* **4th** [[DATABASE/spell/Air Walk|air walk]], _ash cloud_
+* **5th** _blazing dive_, [[DATABASE/spell/Lightning Storm|lightning storm]]

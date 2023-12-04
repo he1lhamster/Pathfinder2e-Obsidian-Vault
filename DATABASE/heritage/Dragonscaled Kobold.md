@@ -2,6 +2,7 @@
 id: '64'
 name: Dragonscaled Kobold
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 trait: null
 type: Heritage
@@ -9,20 +10,21 @@ type: Heritage
 ---
 # Dragonscaled Kobold
 
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 Your scales are especially colorful, possessing some of the same resistance a dragon possesses. You gain resistance equal to half your level (minimum 1) to the damage type associated with your draconic exemplar (see Table 1–1). Double this resistance against dragons’ Breath Weapons.
 
 ## Table 1-1: Draconic Exemplars
 
-| Dragon   | Breath Weapon Shape   | Damage Type   | Saving Throw   |
-|:---------|:----------------------|:--------------|:---------------|
-| Black    | Line                  | Acid          | Reflex         |
-| Blue     | Line                  | Electricity   | Reflex         |
-| Green    | Cone                  | Poison        | Fortitude      |
-| Red      | Cone                  | Fire          | Reflex         |
-| White    | Cone                  | Cold          | Reflex         |
-| Brass    | Line                  | Fire          | Reflex         |
-| Bronze   | Line                  | Electricity   | Reflex         |
-| Copper   | Line                  | Acid          | Reflex         |
-| Gold     | Cone                  | Fire          | Reflex         |
-| Silver   | Cone                  | Cold          | Reflex         |
+| 0 | 1 | 2 | 3 |
+|:-------|:--------------------|:------------|:-------------|
+| Dragon | Breath Weapon Shape | Damage Type | Saving Throw |
+| Black | Line | Acid | Reflex |
+| Blue | Line | Electricity | Reflex |
+| Green | Cone | Poison | Fortitude |
+| Red | Cone | Fire | Reflex |
+| White | Cone | Cold | Reflex |
+| Brass | Line | Fire | Reflex |
+| Bronze | Line | Electricity | Reflex |
+| Copper | Line | Acid | Reflex |
+| Gold | Cone | Fire | Reflex |
+| Silver | Cone | Cold | Reflex |

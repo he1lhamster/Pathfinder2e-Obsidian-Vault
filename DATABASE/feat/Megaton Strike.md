@@ -13,6 +13,7 @@ prerequisite: '[[DATABASE/inventorinnovation/Armor Innovation|armor]] , [[DATABA
   innovation'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -25,8 +26,8 @@ type: Feat
 # Megaton Strike <span class="action-icon">2</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Inventor</span>
-**Source** [[Guns & Gears]]
-**Prerequisites** [[Armor Innovation]], [[Construct Innovation]], or [[Weapon Innovation]] innovation
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Prerequisites** [[DATABASE/inventorinnovation/Armor Innovation|armor]], [[DATABASE/inventorinnovation/Construct Innovation|construct]], or [[DATABASE/inventorinnovation/Weapon Innovation|weapon]] innovation
 
 ---
 You activate gears, explosives, and other hidden mechanisms in your innovation to make a powerful attack. You make a Strike, dealing an extra die of weapon damage. If you're at least 10th level, increase this to two extra dice, and if you're at least 18th level, increase it to three extra dice. The type of Strike you can make depends on your innovation.
@@ -40,4 +41,4 @@ You activate gears, explosives, and other hidden mechanisms in your innovation t
 
 ## Megaton Strike Leads To...
 
-[[Gigaton Strike]]
+[[DATABASE/feat/Gigaton Strike|Gigaton Strike]]

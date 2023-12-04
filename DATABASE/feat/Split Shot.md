@@ -11,6 +11,7 @@ name: Split Shot
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,7 +26,7 @@ type: Feat
 # Split Shot <span class="action-icon">1</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Metamagic</span><span class="item-trait">Sorcerer</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
 You fragment a ranged spell into a pair of smaller shots. If your next action is to Cast a Spell without a duration that requires an attack roll against a single target and has no effect beyond dealing damage, you roll a single attack roll and compare the result to the AC of two targets within the spell's range. The spell deals only half its usual damage to each target. This counts as one attack for your multiple attack penalty.

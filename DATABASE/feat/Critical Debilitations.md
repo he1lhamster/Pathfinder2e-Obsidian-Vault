@@ -11,6 +11,7 @@ name: Critical Debilitations
 prerequisite: '[[DATABASE/class_/Rogue|Debilitating Strike]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Critical Debilitations <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Incapacitation</span><span class="item-trait">Rogue</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Rogue]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/class_/Rogue|Debilitating Strike]]
 
 ---
 Your debilitations are especially effective on your most powerful attacks. Whenever you critically succeed at an attack roll against an enemy and use Debilitating Strike, add the following debilitation to the list you can choose from.

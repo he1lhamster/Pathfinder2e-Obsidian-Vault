@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Pathfinder 185. A Taste of Ashes|Pathfinder #185: A Taste
@@ -39,13 +40,13 @@ type: Focus
 # Ash Form<span class="item-type">Focus 6</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Cursebound</span><span class="item-trait">Oracle</span><span class="item-trait">Transmutation</span>
-**Source** [[Pathfinder 185. A Taste of Ashes]]
-**Mystery** [[Ash]]
+**Source** [[DATABASE/source/Pathfinder 185. A Taste of Ashes|Pathfinder #185: A Taste of Ashes]]
+**Mystery** [[DATABASE/oraclemystery/Ash|ash]]
 **Cast** <span class="action-icon">2</span> verbal, somatic
 **Duration** 1 minute
 
 ---
-You take the form of a cloud of minuscule ash particles. You gain [[Fast Healing]] 3, resistance 10 to piercing and slashing damage, and immunity to bleed, falling damage, and precision damage. You can't move through solid objects, but you can stream through tiny gaps as if they were difficult terrain. Any ability with the air trait that involves blowing or shifting wind (such as [[Gust of Wind]]) deals you 1d6 bludgeoning damage per level of the spell each round you are in its area, in addition to its normal effects.
+You take the form of a cloud of minuscule ash particles. You gain [[DATABASE/monsterability/Fast Healing|fast healing]] 3, resistance 10 to piercing and slashing damage, and immunity to bleed, falling damage, and precision damage. You can't move through solid objects, but you can stream through tiny gaps as if they were difficult terrain. Any ability with the air trait that involves blowing or shifting wind (such as [[DATABASE/spell/Gust of Wind|gust of wind]]) deals you 1d6 bludgeoning damage per level of the spell each round you are in its area, in addition to its normal effects.
 
 ---
 **Heightened (9th)** The resistance increases to 15.

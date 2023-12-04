@@ -10,6 +10,7 @@ id: '126'
 name: Droskari Disciple
 prerequisite: null
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Lore|Lore]]'
 - Droskar [[DATABASE/skill/Lore|Lore]]
@@ -22,7 +23,7 @@ type: Background
 ---
 # Droskari Disciple<span class="item-type">Background</span>
 
-**Source** [[Pathfinder 148. Fires of the Haunted City]]
-You grew up in the church of the [[Droskar]], where you learned the value of hard work and achieving vocational mastery.
+**Source** [[DATABASE/source/Pathfinder 148. Fires of the Haunted City|Pathfinder #148: Fires of the Haunted City]]
+You grew up in the church of the [[DATABASE/deity/Droskar|Dark Smith]], where you learned the value of hard work and achieving vocational mastery.
  Choose two ability boosts. One must be to **Constitution** or **Intelligence**, and one is a free ability boost.
- You gain the [[Skill Training]] skill feat, and you're trained in the [[Lore]] skill.
+ You gain the [[DATABASE/feat/Skill Training|Skill Training]] skill feat, and you're trained in the [[DATABASE/skill/Lore|Droskar Lore]] skill.

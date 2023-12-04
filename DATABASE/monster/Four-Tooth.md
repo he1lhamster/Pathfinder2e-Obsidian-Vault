@@ -78,26 +78,26 @@ wisdom: '+3'
 # Four-Tooth
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 33
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 33
 **Unspecific Lore**: DC 31
 **Specific Lore**: DC 28
 
 # Four-Tooth<span class="item-type">Creature 7</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Duergar</span><span class="item-trait">Dwarf</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 194. Cult of the Cave Worm]]
-**Perception** +15; [[Darkvision]]
-**Languages** [[Common]], [[Dwarven]], [[Undercommon]]
-**Skills** [[Lore]] +17, [[Athletics]] +14, [[Deception]] +15, [[Intimidation]] +17, [[Society]] +12
+**Source** [[DATABASE/source/Pathfinder 194. Cult of the Cave Worm|Pathfinder #194: Cult of the Cave Worm]]
+**Perception** +15; [[DATABASE/spell/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Dwarven|Dwarven]], [[DATABASE/language/Undercommon|Undercommon]]
+**Skills** [[DATABASE/skill/Lore|Accounting Lore]] +17, [[DATABASE/skill/Athletics|Athletics]] +14, [[DATABASE/skill/Deception|Deception]] +15, [[DATABASE/skill/Intimidation|Intimidation]] +17, [[DATABASE/skill/Society|Society]] +12
 **Str** +5, **Dex** +1, **Con** +4, **Int** +1, **Wis** +3, **Cha** +4
-**Items** _+1 [[Spiked Chain]]_, bag containing 78 sp and 44 gp, [[Chain Shirt]]
+**Items** _+1 [[DATABASE/weapon/Spiked Chain|spiked chain]]_, bag containing 78 sp and 44 gp, [[DATABASE/armor/Chain Shirt|chain shirt]]
 
 ---
 **AC** 25; **Fort** +18, **Ref** +13, **Will** +15
 **HP** 120; **Resistances** poison 5
-<span class="in-box-ability">**[[Attack of Opportunity]] <span class="action-icon">5</span> ** </span>
+<span class="in-box-ability">**[[DATABASE/monsterability/Attack of Opportunity|Attack of Opportunity]] <span class="action-icon">5</span> ** </span>
 
 ---
 **Speed** 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _spiked chain_ (disarm, finesse, trip +18), **Damage** 2d8+9 slashing</span>**Occult Innate Spells** DC 21; **4th** _[[Blood Vendetta]]_; **2nd** _[[Paranoia]]_; **Cantrips** **(4th)** _[[Sigil]]_
-<span class="in-box-ability">**Jaws** <span class="action-icon">1</span> (attack Requirements Four-Tooth has a creature [[Grabbed]]) **Effect** Four-Tooth makes a jaws unarmed Strike against the grabbed or restrained target with an attack modifier of +19 that deals 1d8+5 piercing damage, deals 3d6 poison damage, and exposes the target to the [[Sewer Haze]] disease.</span><span class="in-box-ability">**Slashing Snare** <span class="action-icon">2</span> Four-Tooth can Step and then make a spiked chain Strike. If it hits and deals damage, he can attempt an [[Athletics]] check to [[Grapple]] the target. Both attacks count toward his multiple attack penalty, but the penalty doesn't increase until after he's made both attacks.</span><span class="in-box-ability">**Snagging Chain** Four-Tooth can use a spiked chain to [[Grapple]] with the [[Athletics]] skill even if he doesn't have a free hand, and he adds the weapon's item bonus to attack rolls to the Athletics check.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _spiked chain_ (disarm, finesse, trip +18), **Damage** 2d8+9 slashing</span>**Occult Innate Spells** DC 21; **4th** _[[DATABASE/spell/Blood Vendetta|blood vendetta]]_; **2nd** _[[DATABASE/spell/Paranoia|paranoia]]_; **Cantrips** **(4th)** _[[DATABASE/spell/Sigil|sigil]]_
+<span class="in-box-ability">**Jaws** <span class="action-icon">1</span> (attack Requirements Four-Tooth has a creature [[DATABASE/condition/Grabbed|grabbed]]) **Effect** Four-Tooth makes a jaws unarmed Strike against the grabbed or restrained target with an attack modifier of +19 that deals 1d8+5 piercing damage, deals 3d6 poison damage, and exposes the target to the [[DATABASE/disease/Sewer Haze|sewer haze]] disease.</span><span class="in-box-ability">**Slashing Snare** <span class="action-icon">2</span> Four-Tooth can Step and then make a spiked chain Strike. If it hits and deals damage, he can attempt an [[DATABASE/skill/Athletics|Athletics]] check to [[DATABASE/action/Grapple|Grapple]] the target. Both attacks count toward his multiple attack penalty, but the penalty doesn't increase until after he's made both attacks.</span><span class="in-box-ability">**Snagging Chain** Four-Tooth can use a spiked chain to [[DATABASE/action/Grapple|Grapple]] with the [[DATABASE/skill/Athletics|Athletics]] skill even if he doesn't have a free hand, and he adds the weapon's item bonus to attack rolls to the Athletics check.</span>

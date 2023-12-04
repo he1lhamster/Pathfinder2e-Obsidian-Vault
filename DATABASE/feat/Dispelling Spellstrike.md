@@ -11,6 +11,7 @@ name: Dispelling Spellstrike
 prerequisite: '[[DATABASE/action/Spellstrike|Spellstrike]]'
 rarity: Common
 requirement: Your Spellstrike is charged.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Dispelling Spellstrike <span class="action-icon">3</span> <span class="item-type">Feat 16</span>
 
 <span class="item-trait">Magus</span>
-**Source** [[Secrets of Magic]] 
-**Prerequisites** [[Spellstrike]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
+**Prerequisites** [[DATABASE/action/Spellstrike|Spellstrike]]
 **Requirements** Your Spellstrike is charged.
 
 ---

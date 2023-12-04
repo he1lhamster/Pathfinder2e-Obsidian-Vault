@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -56,23 +57,23 @@ weapon_type: null
 # Spellsap Grenade<span class="item-type">Item 12+</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Alchemical</span><span class="item-trait">Bomb</span><span class="item-trait">Consumable</span><span class="item-trait">Splash</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Strike
 
 ---
-The mixture of reagents, liquid [[Djezet]], and solid metal shrapnel inside this grenade explodes on contact with air. A spellsap grenade deals the listed slashing damage and splash damage. On a hit against a prepared or spontaneous spellcaster, the target must succeed at a Will saving throw with the listed DC or lose one prepared spell or one spontaneous spell slot. The spell is randomly selected from among the caster's highest three spell ranks (and then from among the spells prepared in that rank, for a prepared spellcaster).
+The mixture of reagents, liquid [[DATABASE/equipment/Djezet|djezet]], and solid metal shrapnel inside this grenade explodes on contact with air. A spellsap grenade deals the listed slashing damage and splash damage. On a hit against a prepared or spontaneous spellcaster, the target must succeed at a Will saving throw with the listed DC or lose one prepared spell or one spontaneous spell slot. The spell is randomly selected from among the caster's highest three spell ranks (and then from among the spells prepared in that rank, for a prepared spellcaster).
 
 ## Spellsap Grenade (Moderate)<span class="item-type">Item 12</span>
 
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Price** 360 gp
 **Bulk** L
 The item bonus is +2. The bomb deals 3d4 slashing damage and 3 slashing splash damage, and the DC is 30.
 
 ## Spellsap Grenade (Greater)<span class="item-type">Item 18</span>
 
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Price** 4,500 gp
 **Bulk** L
 The item bonus is +3. The bomb deals 4d4 slashing damage and 4 slashing splash damage, and the DC is 38.

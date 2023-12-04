@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -56,7 +57,7 @@ weapon_type: null
 # Infernal Health<span class="item-type">Item 15</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Contract</span><span class="item-trait">Healing</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span>
-**Source** [[Legends]]
+**Source** [[DATABASE/source/Legends|Legends]]
 **Bulk** —
 
 ---

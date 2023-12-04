@@ -19,6 +19,7 @@ patron_theme: null
 range: 30 feet
 rarity: Rare
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
@@ -37,13 +38,13 @@ type: Cantrip
 # Frost's Touch<span class="item-type">Cantrip 1</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Arcane</span><span class="item-trait">Cantrip</span><span class="item-trait">Cold</span><span class="item-trait">Conjuration</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Traditions** N/A
 **Cast** <span class="action-icon">1</span> 
 **Range** 30 feet; **Targets** 1 object
 
 ---
-Your _[[Gelid Shard]]_ drinks down nearby heat in a futile attempt to sate itself and achieve a level of frigid cold unheard of on the [[Material Plane]]. This allows you to cool a drink, make a hot pot safe to handle, or other, similar minor effects. Once cooled, the object's temperature is subject to its environment as usual. You can also solidify ambient moisture into a solid object; this temporary object is of negligible Bulk, made of non-magical ice. The object looks crude and artificial and is extremely fragile—it can't be used as a tool, weapon, or spell component. Once created, it melts as normal for ice for the ambient conditions.
+Your _[[DATABASE/equipment/Gelid Shard|gelid shard]]_ drinks down nearby heat in a futile attempt to sate itself and achieve a level of frigid cold unheard of on the [[DATABASE/plane/Material Plane|Material Plane]]. This allows you to cool a drink, make a hot pot safe to handle, or other, similar minor effects. Once cooled, the object's temperature is subject to its environment as usual. You can also solidify ambient moisture into a solid object; this temporary object is of negligible Bulk, made of non-magical ice. The object looks crude and artificial and is extremely fragile—it can't be used as a tool, weapon, or spell component. Once created, it melts as normal for ice for the ambient conditions.
 
 ---
 **Heightened (3rd)** You can create simple objects of ice with up to 1 Bulk and of a level not exceeding 1. Such objects must be rigid. You can only have one such object created at a time; if you create another, the previous object melts instantly.

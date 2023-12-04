@@ -88,20 +88,20 @@ wisdom: '+1'
 These gremlins are covered head-to-toe by a crustacean-like exoskeleton that clacks and rattles whenever a vexgit moves. They delight in sabotaging the works of other creatures, often turning these works into dangerous traps. An individual vexgit might jam a door lock, loosen the wheels on a carriage, or remove nails from a boat hull. Buildings infested by vexgits become filled with traps like portcullises descending suddenly, water pipes exploding violently, and clock towers disgorging an avalanches of gears.
  Aware of their own physical weakness, vexgits carry hammers and other tools to leverage pieces apart or smash whatever they're unable to disassemble. Indeed, a hammer sized for a human becomes a maul in the tiny hands of a vexgit.
  Vexgit infestations range from one to a score. Larger groups are often led by a more powerful vexgit with additional skill in thievery or primal magic. Trained giant rats, vipers, and rat swarms are common in vexgit lairs.
-**Recall Knowledge - Fey ([[Nature]])**: DC 15
+**Recall Knowledge - Fey ([[DATABASE/skill/Nature|Nature]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Vexgit<span class="item-type">Creature 1</span>
 
 <span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Tiny</span><span class="item-trait">Fey</span><span class="item-trait">Gremlin</span>
-**Source** [[Bestiary 2]] 
-**Perception** +6; [[Darkvision]]
-**Languages** [[Undercommon]]
-**Skills** [[Acrobatics]] +7, [[Athletics]] +6, [[Crafting]] +6 (+8 traps), [[Nature]] +6, [[Stealth]] +5 (see clacking exoskeleton), [[Thievery]] +7
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +6; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Undercommon|Undercommon]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +7, [[DATABASE/skill/Athletics|Athletics]] +6, [[DATABASE/skill/Crafting|Crafting]] +6 (+8 traps), [[DATABASE/skill/Nature|Nature]] +6, [[DATABASE/skill/Stealth|Stealth]] +5 (see clacking exoskeleton), [[DATABASE/skill/Thievery|Thievery]] +7
 **Str** +1, **Dex** +4, **Con** +2, **Int** +1, **Wis** +1, **Cha** +0
-**Clacking Exoskeleton** A creature that can hear gains a +2 circumstance bonus to its Perception DC against a vexgit's attempts to [[Sneak]].
-**Items** [[Maul]]
+**Clacking Exoskeleton** A creature that can hear gains a +2 circumstance bonus to its Perception DC against a vexgit's attempts to [[DATABASE/action/Sneak|Sneak]].
+**Items** [[DATABASE/weapon/Maul|maul]]
 
 ---
 **AC** 16; **Fort** +5, **Ref** +9, **Will** +6
@@ -109,5 +109,5 @@ These gremlins are covered head-to-toe by a crustacean-like exoskeleton that cla
 
 ---
 **Speed** 20 feet, climb 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> maul +8 [+3/-2] (shove), **Damage** 1d12+1 bludgeoning plus Destructive Smash</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> bite +11 [+7/+3] (agile, finesse), **Damage** 1d6+1 piercing</span>**Primal Innate Spells** DC 17; **1st** _[[Alarm]]_; **Cantrips** **(1st)** _[[Prestidigitation]]_
-<span class="in-box-ability">**Destructive Smash** A vexgit's maul Strike against an object deals ignores up to 5 of the object's Hardness.</span><span class="in-box-ability">**Gremlin Snare** <span class="action-icon">3</span> (conjuration, primal) **Frequency** once per hour; **Effect** The vexgit creates a snare of their level or lower that normally takes 1 minute to craft at no cost. A single vexgit can maintain one gremlin snare at a time—if they create a new snare, the previously created one vanishes.</span><span class="in-box-ability">**Rusting Grasp** <span class="action-icon">2</span> (primal, transmutation) **Frequency** once per hour; **Effect** The vexgit makes a +9 spell attack against a creature or unattended object. If they succeed, the vexgit deals 1d6 damage (doubled on a critical hit) to a metal item the target is wearing or holding, ignoring its Hardness. If they hit an unattended metal item, the item takes this damage automatically. If a creature uses [[Shield Block]] with a metal shield against this attack, the shield is automatically [[Broken]], but no other item is rusted on that attack.</span><span class="in-box-ability">**Speedy Sabotage** When a vexgit succeeds or critically succeeds at a check to [[Disable a Device]], they gain an additional success toward disabling a complex device.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> maul +8 [+3/-2] (shove), **Damage** 1d12+1 bludgeoning plus Destructive Smash</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> bite +11 [+7/+3] (agile, finesse), **Damage** 1d6+1 piercing</span>**Primal Innate Spells** DC 17; **1st** _[[DATABASE/spell/Alarm|alarm]]_; **Cantrips** **(1st)** _[[DATABASE/spell/Prestidigitation|prestidigitation]]_
+<span class="in-box-ability">**Destructive Smash** A vexgit's maul Strike against an object deals ignores up to 5 of the object's Hardness.</span><span class="in-box-ability">**Gremlin Snare** <span class="action-icon">3</span> (conjuration, primal) **Frequency** once per hour; **Effect** The vexgit creates a snare of their level or lower that normally takes 1 minute to craft at no cost. A single vexgit can maintain one gremlin snare at a time—if they create a new snare, the previously created one vanishes.</span><span class="in-box-ability">**Rusting Grasp** <span class="action-icon">2</span> (primal, transmutation) **Frequency** once per hour; **Effect** The vexgit makes a +9 spell attack against a creature or unattended object. If they succeed, the vexgit deals 1d6 damage (doubled on a critical hit) to a metal item the target is wearing or holding, ignoring its Hardness. If they hit an unattended metal item, the item takes this damage automatically. If a creature uses [[DATABASE/monsterability/Shield Block|Shield Block]] with a metal shield against this attack, the shield is automatically [[DATABASE/condition/Broken|broken]], but no other item is rusted on that attack.</span><span class="in-box-ability">**Speedy Sabotage** When a vexgit succeeds or critically succeeds at a check to [[DATABASE/action/Disable a Device|Disable a Device]], they gain an additional success toward disabling a complex device.</span>

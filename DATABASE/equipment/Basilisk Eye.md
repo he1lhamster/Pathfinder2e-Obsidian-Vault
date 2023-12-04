@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -57,10 +58,10 @@ weapon_type: null
 # Basilisk Eye<span class="item-type">Item 9</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Magical</span><span class="item-trait">Talisman</span><span class="item-trait">Transmutation</span><span class="item-trait">Visual</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Price** 150 gp
 **Usage** affixed to a shield; **Bulk** —
-**Activate** <span class="action-icon">4</span> envision **Trigger** You [[Shield Block]] a melee attack with the affixed shield.
+**Activate** <span class="action-icon">4</span> envision **Trigger** You [[DATABASE/feat/Shield Block|Shield Block]] a melee attack with the affixed shield.
 
 ---
-This slimy green stone glows with a strong light whenever the shield it adorns blocks a melee attack. When the eye is activated, the attacker must succeed at a DC 25 Fortitude save or become [[Slowed]] for 1 minute as its body slowly stiffens in partial petrification.
+This slimy green stone glows with a strong light whenever the shield it adorns blocks a melee attack. When the eye is activated, the attacker must succeed at a DC 25 Fortitude save or become [[DATABASE/condition/Slowed|slowed 1]] for 1 minute as its body slowly stiffens in partial petrification.

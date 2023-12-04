@@ -11,6 +11,7 @@ name: Enigma's Knowledge
 prerequisite: '[[DATABASE/feat/Assured Knowledge|Assured Knowledge]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,13 +24,13 @@ type: Feat
 # Enigma's Knowledge <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Bard</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Loremaster]]*
-**Prerequisites** [[Assured Knowledge]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Loremaster|Loremaster]]*
+**Prerequisites** [[DATABASE/feat/Assured Knowledge|Assured Knowledge]]
 * This archetype offers Enigma's Knowledge at a different level than displayed here.
 
 ---
-Your muse whispers knowledge to you at all the right times. You gain the benefits of the [[Automatic Knowledge]] skill feat with any skill you can use to [[Recall Knowledge]]. As per the special clause in the Automatic Knowledge feat, you can still only use Automatic Knowledge once per round.
+Your muse whispers knowledge to you at all the right times. You gain the benefits of the [[DATABASE/feat/Automatic Knowledge|Automatic Knowledge]] skill feat with any skill you can use to [[DATABASE/action/Recall Knowledge|Recall Knowledge]]. As per the special clause in the Automatic Knowledge feat, you can still only use Automatic Knowledge once per round.
 
 ## Archetype Use
 

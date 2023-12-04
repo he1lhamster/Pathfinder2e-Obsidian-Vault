@@ -22,6 +22,7 @@ follower_alignment:
 id: '97'
 name: Magdh
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Occultism|Occultism]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -31,7 +32,7 @@ type: Deity
 ---
 # Magdh (The Three) [LN]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 Magdh is the Eldest of foreknowledge, complexity, and triplets, and she is the greatest seer in the First World. Most often appearing as a woman with three faces set equidistantly around her head, Magdh looks across the skeins of fate into myriad alternate realities and possible futures. Among all the Eldest, she has the deepest knowledge of reality’s true design and the ripples a single action or inaction can create throughout all of existence. Her communications are veiled in conditional language and oddly juxtaposed statements to an almost maddening degree, and thus she never communicates the prophetic truths she sees—so plain to her six eyes—in a straightforward way. Because of their shared knowledge of branching timelines, Shyka and Magdh can communicate more easily with each other about such topics, though the other Eldest are cautious around Magdh, lest a careless comment or errant gesture cause her to predict apocalyptic dooms.
 **Category** Eldest
 **Edicts** Use divination
@@ -41,9 +42,9 @@ Magdh is the Eldest of foreknowledge, complexity, and triplets, and she is the g
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Intelligence or Wisdom
-**Divine Font** _[[Harm]]_ or _[[Heal]]_
-**Divine Skill** [[Occultism]]
-**Favored Weapon** [[Scythe]]
-**Domains** [[Fate Domain]], [[Glyph Domain]], [[Knowledge Domain]], [[Truth Domain]]
-**Cleric Spells** 1st: _[[Anticipate Peril]]_, 3rd: _[[Threefold Aspect]]_, 6th: _[[Scrying]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Intelligence or Wisdom
+**Divine Font** _[[DATABASE/spell/Harm|harm]]_ or _[[DATABASE/spell/Heal|heal]]_
+**Divine Skill** [[DATABASE/skill/Occultism|Occultism]]
+**Favored Weapon** [[DATABASE/weapon/Scythe|scythe]]
+**Domains** [[DATABASE/domain/Fate Domain|fate]], [[DATABASE/domain/Glyph Domain|glyph]], [[DATABASE/domain/Knowledge Domain|knowledge]], [[DATABASE/domain/Truth Domain|truth]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Anticipate Peril|anticipate peril]]_, 3rd: _[[DATABASE/spell/Threefold Aspect|threefold aspect]]_, 6th: _[[DATABASE/spell/Scrying|scrying]]_

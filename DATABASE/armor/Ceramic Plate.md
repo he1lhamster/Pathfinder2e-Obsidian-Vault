@@ -12,6 +12,7 @@ level: '0'
 name: Ceramic Plate
 price: 6 gp
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 speed_penalty: -5 ft.
 strength: '+14'
@@ -25,12 +26,12 @@ type: Armor
 # Ceramic Plate
 
 <span class="item-trait">Adjusted Armor Latches</span><span class="item-trait">Noisy</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 6 gp; **AC Bonus** +3; **Dex Cap** +2; **Check Penalty** -2; **Speed Penalty** -5 ft.
-**Strength** 14; **Bulk** 2; **Category** Medium; **Group** [[Plate]]
+**Strength** 14; **Bulk** 2; **Category** Medium; **Group** [[DATABASE/armorgroup/Plate|Plate]]
 
 ---
-Traditional armor from Senghor, ceramic plate alleviates the need for metallurgy and smithing, instead relying on ceramic firing, glazing, and strong cord work with a backing of leather and thick canvas. Ceramic plate that follows Senghor's style is colorful and artistic, and is built with the [[Armor Latches]] armor adjustment.
+Traditional armor from Senghor, ceramic plate alleviates the need for metallurgy and smithing, instead relying on ceramic firing, glazing, and strong cord work with a backing of leather and thick canvas. Ceramic plate that follows Senghor's style is colorful and artistic, and is built with the [[DATABASE/equipment/Armor Latches|armor latches]] armor adjustment.
 
 ## Traits
 
@@ -40,10 +41,10 @@ The equipment comes with an adjustment described in its entry. This adjustment i
 
 **Noisy:**
 
-This armor is loud and likely to alert others to your presence. The armor's check penalty applies to [[Stealth]] checks even if you meet the required Strength score.
+This armor is loud and likely to alert others to your presence. The armor's check penalty applies to [[DATABASE/skill/Stealth|Stealth]] checks even if you meet the required Strength score.
 
 ## Armor Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain class features can grant you additional benefits with certain armors. This is called an armor specialization effect. The exact effect depends on which armor group your armor belongs to, as listed below. Only medium and heavy armors have armor specialization effects.
 **Plate**: The sturdy plate provides no purchase for a cutting edge. You gain resistance to slashing damage equal to 1 + the value of the armor’s potency rune for medium armor, or 2 + the value of the armor’s potency rune for heavy armor.

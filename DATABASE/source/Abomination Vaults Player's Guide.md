@@ -2,6 +2,7 @@
 id: '69'
 name: Abomination Vaults Player's Guide
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -16,8 +17,8 @@ type: Source
 
 ## Backgrounds [7]
 
-[[Bibliophile]], [[Eldritch Anatomist]], [[Fogfen Tale-Teller]], [[Market Runner]], [[Ruin Delver]], [[Starwatcher]], [[Witchlight Follower]]
+[[DATABASE/background/Bibliophile|Bibliophile]], [[DATABASE/background/Eldritch Anatomist|Eldritch Anatomist]], [[DATABASE/background/Fogfen Tale-Teller|Fogfen Tale-Teller]], [[DATABASE/background/Market Runner|Market Runner]], [[DATABASE/background/Ruin Delver|Ruin Delver]], [[DATABASE/background/Starwatcher|Starwatcher]], [[DATABASE/background/Witchlight Follower|Witchlight Follower]]
 
 ## Deities [1]
 
-[[Cosmic Caravan]]
+[[DATABASE/deity/Cosmic Caravan|Cosmic Caravan]]

@@ -11,6 +11,7 @@ name: Nimble Crawl
 prerequisite: Expert in [[DATABASE/skill/Acrobatics|Acrobatics]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: acrobatics
@@ -24,8 +25,8 @@ type: Feat
 # Nimble Crawl <span class="item-type">Feat 2</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** expert in [[Acrobatics]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** expert in [[DATABASE/skill/Acrobatics|Acrobatics]]
 
 ---
 You can Crawl incredibly swiftly—up to half your Speed, rather than 5 feet. If you’re a master in Acrobatics, you can Crawl at full Speed, and if you’re legendary, you aren’t flat-footed while prone.

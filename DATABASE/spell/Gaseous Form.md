@@ -27,6 +27,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -45,9 +46,9 @@ type: Spell
 # Gaseous Form<span class="item-type">Spell 4</span>
 
 <span class="item-trait">Polymorph</span><span class="item-trait">Transmutation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult, primal
-**Deities** [[Hshurha]], [[Monad]], [[Ragdya]], [[Zura]]
+**Deities** [[DATABASE/deity/Hshurha|Hshurha]], [[DATABASE/deity/Monad|Monad]], [[DATABASE/deity/Ragdya|Ragdya]], [[DATABASE/deity/Zura|Zura]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** touch; **Targets** 1 willing creature
 **Duration** 5 minutes

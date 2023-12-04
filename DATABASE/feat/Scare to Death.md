@@ -11,6 +11,7 @@ name: Scare to Death
 prerequisite: Legendary in [[DATABASE/skill/Intimidation|Intimidation]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: intimidation
@@ -27,12 +28,12 @@ type: Feat
 # Scare to Death <span class="action-icon">1</span> <span class="item-type">Feat 15</span>
 
 <span class="item-trait">Emotion</span><span class="item-trait">Fear</span><span class="item-trait">General</span><span class="item-trait">Incapacitation</span><span class="item-trait">Skill</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** legendary in [[Intimidation]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** legendary in [[DATABASE/skill/Intimidation|Intimidation]]
 
 ---
-You can frighten foes so much, they might die. Attempt an [[Intimidation]] check against the Will DC of a living creature within 30 feet of you that you sense or observe and who can sense or observe you. If the target can't hear you or doesn't understand the language you are speaking, you take a –4 circumstance penalty. The creature is temporarily immune for 1 minute.
-**Critical Success** The target must attempt a Fortitude save against your Intimidation DC. On a critical failure, it dies. On any other result, it becomes [[Frightened]] and is [[Fleeing]] for 1 round. The critical failure effect has the death trait.
+You can frighten foes so much, they might die. Attempt an [[DATABASE/skill/Intimidation|Intimidation]] check against the Will DC of a living creature within 30 feet of you that you sense or observe and who can sense or observe you. If the target can't hear you or doesn't understand the language you are speaking, you take a –4 circumstance penalty. The creature is temporarily immune for 1 minute.
+**Critical Success** The target must attempt a Fortitude save against your Intimidation DC. On a critical failure, it dies. On any other result, it becomes [[DATABASE/condition/Frightened|frightened 2]] and is [[DATABASE/condition/Fleeing|fleeing]] for 1 round. The critical failure effect has the death trait.
 **Success** The target becomes frightened 2.
 **Failure** The target becomes frightened 1.
 **Critical Failure** The target is unaffected.

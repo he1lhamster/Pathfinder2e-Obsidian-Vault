@@ -11,6 +11,7 @@ name: Ebb and Flow
 prerequisite: '[[DATABASE/feat/Versatile Font|Versatile Font]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,11 +26,11 @@ type: Feat
 # Ebb and Flow <span class="action-icon">1</span> <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Cleric</span><span class="item-trait">Concentrate</span><span class="item-trait">Metamagic</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** [[Versatile Font]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** [[DATABASE/feat/Versatile Font|Versatile Font]]
 
 ---
-You can pull forth both positive and negative energy simultaneously to harm your enemies and heal your allies. If your next action is to cast a 1-action or 2-action [[Heal]] or [[Harm]] spell, choose one creature in range that would be harmed by the spell, and choose another creature within range that would be healed by the spell. Your _heal_ or _harm_ targets both creatures.
+You can pull forth both positive and negative energy simultaneously to harm your enemies and heal your allies. If your next action is to cast a 1-action or 2-action [[DATABASE/spell/Heal|heal]] or [[DATABASE/spell/Harm|harm]] spell, choose one creature in range that would be harmed by the spell, and choose another creature within range that would be healed by the spell. Your _heal_ or _harm_ targets both creatures.
 
 ## Traits
 

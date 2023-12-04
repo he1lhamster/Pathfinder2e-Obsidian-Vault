@@ -91,20 +91,20 @@ wisdom: '+2'
 # False Priestess
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 28
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 28
 **Unspecific Lore**: DC 26
 **Specific Lore**: DC 23
 
 # False Priestess<span class="item-type">Creature 7</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Kingmaker Companion Guide]]
+**Source** [[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]
 Female human sorcerer
 **Perception** +15
-**Languages** [[Common]]
-**Skills** [[Deception]] +17, [[Nature]] +17, [[Religion]] +15, [[Stealth]] +16
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Deception|Deception]] +17, [[DATABASE/skill/Nature|Nature]] +17, [[DATABASE/skill/Religion|Religion]] +15, [[DATABASE/skill/Stealth|Stealth]] +16
 **Str** +2, **Dex** +3, **Con** +2, **Int** +0, **Wis** +2, **Cha** +4
-**Items** _+1 [[Glaive]]_, ceremonial robes
+**Items** _+1 [[DATABASE/weapon/Glaive|glaive]]_, ceremonial robes
 
 ---
 **AC** 22; **Fort** +13, **Ref** +16, **Will** +15
@@ -112,6 +112,6 @@ Female human sorcerer
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _glaive_ +14 [+9/+4] (deadly d8, forceful, reach), **Damage** 1d8+6 slashing</span>**Primal Spontaneous Spells** DC 25, attack +17; **4th** _[[Dispel Magic]]_, _[[Heal]]_, _[[Hydraulic Torrent]]_, _[[Suggestion]]_ (3 slots); **3rd** _[[Blindness]]_, _[[Earthbind]]_, _[[Enthrall]]_, _[[Lightning Bolt]]_, _[[Slow]]_ (4 slots); **2nd** _[[Animal Messenger]]_, _[[Create Food]]_, _[[Glitterdust]]_, _[[Heal]]_, _[[Hideous Laughter]]_ (4 slots); **1st** _[[Alarm]]_, _[[Charm]]_, _[[Fear]]_, _[[Grease]]_, _[[Heal]]_ (4 slots); **Cantrips** **(4th)** _[[Detect Magic]]_, _[[Electric Arc]]_, _[[Ghost Sound]]_, _[[Prestidigitation]]_, _[[Produce Flame]]_, _[[Tanglefoot]]_
-**Sorcerer Bloodline Spells 2 Focus Points,** DC 25, attack +17; **4th** _[[Faerie Dust]]_, _[[Fey Disappearance]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _glaive_ +14 [+9/+4] (deadly d8, forceful, reach), **Damage** 1d8+6 slashing</span>**Primal Spontaneous Spells** DC 25, attack +17; **4th** _[[DATABASE/spell/Dispel Magic|dispel magic]]_, _[[DATABASE/spell/Heal|heal]]_, _[[DATABASE/spell/Hydraulic Torrent|hydraulic torrent]]_, _[[DATABASE/spell/Suggestion|suggestion]]_ (3 slots); **3rd** _[[DATABASE/spell/Blindness|blindness]]_, _[[DATABASE/spell/Earthbind|earthbind]]_, _[[DATABASE/spell/Enthrall|enthrall]]_, _[[DATABASE/spell/Lightning Bolt|lightning bolt]]_, _[[DATABASE/spell/Slow|slow]]_ (4 slots); **2nd** _[[DATABASE/spell/Animal Messenger|animal messenger]]_, _[[DATABASE/spell/Create Food|create food]]_, _[[DATABASE/spell/Glitterdust|glitterdust]]_, _[[DATABASE/spell/Heal|heal]]_, _[[DATABASE/spell/Hideous Laughter|hideous laughter]]_ (4 slots); **1st** _[[DATABASE/spell/Alarm|alarm]]_, _[[DATABASE/spell/Charm|charm]]_, _[[DATABASE/spell/Fear|fear]]_, _[[DATABASE/spell/Grease|grease]]_, _[[DATABASE/spell/Heal|heal]]_ (4 slots); **Cantrips** **(4th)** _[[DATABASE/spell/Detect Magic|detect magic]]_, _[[DATABASE/spell/Electric Arc|electric arc]]_, _[[DATABASE/spell/Ghost Sound|ghost sound]]_, _[[DATABASE/spell/Prestidigitation|prestidigitation]]_, _[[DATABASE/spell/Produce Flame|produce flame]]_, _[[DATABASE/spell/Tanglefoot|tanglefoot]]_
+**Sorcerer Bloodline Spells 2 Focus Points,** DC 25, attack +17; **4th** _[[DATABASE/spell/Faerie Dust|faerie dust]]_, _[[DATABASE/spell/Fey Disappearance|fey disappearance]]_
 <span class="in-box-ability">**Primal Weapon** <span class="action-icon">4</span> **Frequency** once per turn; **Requirements** the false priestess' most recent action was to cast a non-cantrip spell; **Effect** Until the end of the false priestess's next turn, the priestess deals an extra 1d6 slashing damage with her melee Strikes.</span><span class="in-box-ability">**Reach Spell** <span class="action-icon">1</span> (concentrate, metamagic) If the next action the false priestess uses is to Cast a Spell that has a range, increase that spell's range by 30 feet.</span>

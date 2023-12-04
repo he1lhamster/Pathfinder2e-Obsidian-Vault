@@ -23,6 +23,7 @@ patron_theme: null
 range: 150 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: basicReflex
 school: Evocation
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -38,8 +39,8 @@ type: Focus
 # Asterism<span class="item-type">Focus 4</span>
 
 <span class="item-trait">Evocation</span><span class="item-trait">Light</span>
-**Source** [[Gods & Magic]] 
-**Domain** [[Star Domain]]
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
+**Domain** [[DATABASE/domain/Star Domain|star]]
 **Cast** <span class="action-icon">3</span> material, somatic, verbal
 **Range** 150 feet
 **Saving Throw** basic Reflex; **Duration** 1 minute

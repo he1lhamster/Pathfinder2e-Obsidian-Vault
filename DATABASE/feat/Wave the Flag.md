@@ -11,6 +11,7 @@ name: Wave the Flag
 prerequisite: '[[DATABASE/feat/Cavalier''s Banner|Cavalier''s Banner]]'
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
 subcategory: null
@@ -28,13 +29,13 @@ type: Feat
 # Wave the Flag <span class="action-icon">1</span> <span class="item-type">Feat 16</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Archetype</span><span class="item-trait">Emotion</span><span class="item-trait">Flourish</span><span class="item-trait">Mental</span><span class="item-trait">Visual</span>
-**Source** [[Knights of Lastwall]]
-**Archetype** [[Cavalier]]
-**Prerequisites** [[Cavalier's Banner]]
+**Source** [[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]
+**Archetype** [[DATABASE/archetype/Cavalier|Cavalier]]
+**Prerequisites** [[DATABASE/feat/Cavalier's Banner|Cavalier's Banner]]
 **Access** Knights of Lastwall have access to this feat.
 
 ---
-You wave your banner, inspiring allies to throw off the shackles of fear. Each ally presently benefiting from your Cavalier's Banner feat reduces their current [[Frightened]] condition by 1 and can choose to immediately attempt a new saving throw against any one mental effect currently affecting them. Regardless of the result, any ally that attempts a save is temporarily immune to Wave the Flag for 10 minutes.
+You wave your banner, inspiring allies to throw off the shackles of fear. Each ally presently benefiting from your Cavalier's Banner feat reduces their current [[DATABASE/condition/Frightened|frightened]] condition by 1 and can choose to immediately attempt a new saving throw against any one mental effect currently affecting them. Regardless of the result, any ally that attempts a save is temporarily immune to Wave the Flag for 10 minutes.
 
 ## Traits
 
@@ -56,7 +57,7 @@ A mental effect can alter the target's mind. It has no effect on an object or a 
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.
 
 **Visual:**
 

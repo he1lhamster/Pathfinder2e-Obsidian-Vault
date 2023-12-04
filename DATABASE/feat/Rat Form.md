@@ -11,6 +11,7 @@ name: Rat Form
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -27,10 +28,10 @@ type: Feat
 # Rat Form <span class="action-icon">1</span> <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Polymorph</span><span class="item-trait">Primal</span><span class="item-trait">Ratfolk</span><span class="item-trait">Transmutation</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
-You can transform into an innocuous-looking rat to scout an area or slip through tight spaces. You gain the effects of a 1st-level [[Pest Form]] spell, except that you must assume the battle form of a Tiny rat.
+You can transform into an innocuous-looking rat to scout an area or slip through tight spaces. You gain the effects of a 1st-level [[DATABASE/spell/Pest Form|pest form]] spell, except that you must assume the battle form of a Tiny rat.
 
 ## Traits
 

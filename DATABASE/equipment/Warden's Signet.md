@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 size: null
@@ -55,11 +56,11 @@ weapon_type: null
 # Warden's Signet<span class="item-type">Item 11</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Focused</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 1,250 gp
 **Usage** worn; **Bulk** L
 
 ---
-This symbol shows your dedication to the magic practiced by some [[Ranger]]. Most rangers wear it on an amulet, ring, or piercing. You gain a +2 item bonus to [[Nature]] checks.
-**Activate** <span class="action-icon">4</span> envision **Frequency** once per day; **Effect** You gain 1 Focus Point, which you can use only to cast a ranger warden spell. When you use this Focus Point, the _warden's signet_ also casts a 4th-level [[Barkskin]] spell on you. If not used by the end of your turn, this Focus Point is lost.
+This symbol shows your dedication to the magic practiced by some [[DATABASE/class_/Ranger|rangers]]. Most rangers wear it on an amulet, ring, or piercing. You gain a +2 item bonus to [[DATABASE/skill/Nature|Nature]] checks.
+**Activate** <span class="action-icon">4</span> envision **Frequency** once per day; **Effect** You gain 1 Focus Point, which you can use only to cast a ranger warden spell. When you use this Focus Point, the _warden's signet_ also casts a 4th-level [[DATABASE/spell/Barkskin|barkskin]] spell on you. If not used by the end of your turn, this Focus Point is lost.
 **Craft Requirements** You are a ranger with at least one warden spell.

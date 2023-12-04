@@ -21,6 +21,7 @@ patron_theme: null
 range: touch
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
@@ -40,7 +41,7 @@ type: Cantrip
 # Imaginary Weapon<span class="item-type">Cantrip 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Attack</span><span class="item-trait">Cantrip</span><span class="item-trait">Evocation</span><span class="item-trait">Force</span><span class="item-trait">Psychic</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** touch; **Targets** 1 creature
 

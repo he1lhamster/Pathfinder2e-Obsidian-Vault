@@ -11,6 +11,7 @@ name: Black Powder Blaze
 prerequisite: '[[DATABASE/feat/Black Powder Boost|Black Powder Boost]]'
 rarity: Common
 requirement: You're wielding a loaded firearm.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Black Powder Blaze <span class="action-icon">2</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Guns & Gears]]
-**Archetype** [[Bullet Dancer]]
-**Prerequisites** [[Black Powder Boost]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Archetype** [[DATABASE/archetype/Bullet Dancer|Bullet Dancer]]
+**Prerequisites** [[DATABASE/feat/Black Powder Boost|Black Powder Boost]]
 **Requirements** You're wielding a loaded firearm.
 
 ---

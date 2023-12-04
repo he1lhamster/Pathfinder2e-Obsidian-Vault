@@ -11,6 +11,7 @@ name: Familiar Form
 prerequisite: '[[DATABASE/feat/Spellmaster Dedication|Spellmaster Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
 subcategory: null
@@ -23,12 +24,12 @@ type: Feat
 # Familiar Form <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[PFS Guide]]
-**Archetype** [[Spellmaster]]
-**Prerequisites** [[Spellmaster Dedication]]
+**Source** [[DATABASE/source/PFS Guide|PFS Guide]]
+**Archetype** [[DATABASE/archetype/Spellmaster|Spellmaster]]
+**Prerequisites** [[DATABASE/feat/Spellmaster Dedication|Spellmaster Dedication]]
 
 ---
-You can use your magic to transform into a small creature of a type that commonly serves as a spellcaster's familiar, potentially allowing you to safely scout for your party while retaining a degree of spellcasting ability. You gain the [[Familiar Form]] focus spell. Increase the number of Focus Points in your focus pool by 1.
+You can use your magic to transform into a small creature of a type that commonly serves as a spellcaster's familiar, potentially allowing you to safely scout for your party while retaining a degree of spellcasting ability. You gain the [[DATABASE/spell/Familiar Form|familiar form]] focus spell. Increase the number of Focus Points in your focus pool by 1.
 
 ## Traits
 

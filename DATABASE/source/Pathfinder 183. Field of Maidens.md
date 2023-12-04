@@ -2,6 +2,7 @@
 id: '145'
 name: Pathfinder 183. Field of Maidens
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -16,19 +17,19 @@ type: Source
 
 ## Equipment [19]
 
-[[Ebon Marionette]], [[Gloaming Arc]], [[Shadow Manse]], [[Sisterstone]], [[Sisterstone Armor]], [[Sisterstone Armor]], [[Sisterstone Armor]], [[Sisterstone Armor]], [[Sisterstone]], [[Sisterstone]], [[Sisterstone]], [[Sisterstone]], [[Sisterstone]], [[Sisterstone Weapon]], [[Sisterstone Weapon]], [[Sisterstone Weapon]], [[Sisterstone Weapon]], [[Skeletal Claw]], [[Umbral Wings]]
+[[DATABASE/equipment/Ebon Marionette|Ebon Marionette]], [[DATABASE/equipment/Gloaming Arc|Gloaming Arc]], [[DATABASE/equipment/Shadow Manse|Shadow Manse]], [[DATABASE/equipment/Sisterstone|Sisterstone]], [[DATABASE/equipment/Sisterstone Armor|Sisterstone Armor]], [[DATABASE/equipment/Sisterstone Armor|Sisterstone Armor (High-Grade)]], [[DATABASE/equipment/Sisterstone Armor|Sisterstone Armor (Low-Grade)]], [[DATABASE/equipment/Sisterstone Armor|Sisterstone Armor (Standard-Grade)]], [[DATABASE/equipment/Sisterstone|Sisterstone Chunk]], [[DATABASE/equipment/Sisterstone|Sisterstone Ingot]], [[DATABASE/equipment/Sisterstone|Sisterstone Object (High-Grade)]], [[DATABASE/equipment/Sisterstone|Sisterstone Object (Low-Grade)]], [[DATABASE/equipment/Sisterstone|Sisterstone Object (Standard-Grade)]], [[DATABASE/equipment/Sisterstone Weapon|Sisterstone Weapon]], [[DATABASE/equipment/Sisterstone Weapon|Sisterstone Weapon (High-Grade)]], [[DATABASE/equipment/Sisterstone Weapon|Sisterstone Weapon (Low-Grade)]], [[DATABASE/equipment/Sisterstone Weapon|Sisterstone Weapon (Standard-Grade)]], [[DATABASE/equipment/Skeletal Claw|Skeletal Claw]], [[DATABASE/equipment/Umbral Wings|Umbral Wings]]
 
 ## Hazards [5]
 
-[[Benefactor's End]], [[Memory Hole]], [[Shadow Heart]], [[The Fight]], [[The Flight]]
+[[DATABASE/hazard/Benefactor's End|Benefactor's End]], [[DATABASE/hazard/Memory Hole|Memory Hole]], [[DATABASE/hazard/Shadow Heart|Shadow Heart]], [[DATABASE/hazard/The Fight|The Fight]], [[DATABASE/hazard/The Flight|The Flight]]
 
 ## Languages [1]
 
-[[Drooni]]
+[[DATABASE/language/Drooni|Drooni]]
 
 ## Monsters [5]
 
-[[Azata, Aeolaeka]], [[Agathion, Guloval]], [[Shadowforged Guardian]], [[Shimmernewt]], [[Archon, Wheel]]
+[[DATABASE/monster/Azata, Aeolaeka|Aeolaeka (Stone Azata)]], [[DATABASE/monster/Agathion, Guloval|Guloval]], [[DATABASE/monster/Shadowforged Guardian|Shadowforged Guardian]], [[DATABASE/monster/Shimmernewt|Shimmernewt]], [[DATABASE/monster/Archon, Wheel|Wheel Archon]]
 
 ## Setting Articles [2]
 
@@ -36,4 +37,4 @@ Among the Shadows, Holomog
 
 ## Spells [8]
 
-[[Bralani Referendum]], [[Celestial Accord]], [[Elysian Whimsy]], [[Mantle of Heaven's Slopes]], [[Movanic Glimmer]], [[Procyal Philosophy]], [[Radiant Heart of Devotion]], [[Soulshelter Vessel]]
+[[DATABASE/spell/Bralani Referendum|Bralani Referendum]], [[DATABASE/spell/Celestial Accord|Celestial Accord]], [[DATABASE/spell/Elysian Whimsy|Elysian Whimsy]], [[DATABASE/spell/Mantle of Heaven's Slopes|Mantle of Heaven's Slopes]], [[DATABASE/spell/Movanic Glimmer|Movanic Glimmer]], [[DATABASE/spell/Procyal Philosophy|Procyal Philosophy]], [[DATABASE/spell/Radiant Heart of Devotion|Radiant Heart of Devotion]], [[DATABASE/spell/Soulshelter Vessel|Soulshelter Vessel]]

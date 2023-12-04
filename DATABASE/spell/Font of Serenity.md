@@ -22,6 +22,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -38,8 +39,8 @@ type: Focus
 # Font of Serenity<span class="item-type">Focus 4</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Emotion</span><span class="item-trait">Mental</span>
-**Source** [[Gods & Magic]] 
-**Domain** [[Repose Domain]]
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
+**Domain** [[DATABASE/domain/Repose Domain|repose]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet; **Area** 15-foot emanation
 **Duration** 1 minute

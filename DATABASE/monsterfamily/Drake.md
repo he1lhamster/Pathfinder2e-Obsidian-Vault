@@ -3,6 +3,7 @@ creature_family: Drake
 id: '36'
 name: Drake
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,7 +11,7 @@ type: Creature Family
 ---
 # Drake
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Ravenous, bestial, and driven by instinct—drakes are primitive draconic monsters who bear a fraction of the terrifying might of their larger cousins but little (if any) of the cunning. While they’re weaker, slower, and less inclined toward reason than dragons, drakes are nonetheless a menace to creatures and settlements around them. Their propensity for forming raiding parties—small social groups fittingly called “rampages”—makes them all the more dangerous; a single rampage of river drakes can quickly lay waste to a waterside village, and roving rampages of desert drakes are a plague to caravan traders.
  Drakes share a number of physical characteristics that unite them as one species despite their wide variety of habitats and abilities. For example, drakes lack forearms, leaving them only their formidable jaws and thick-scaled tails with which to attack if engaged at melee range. Most drakes would rather avoid close combat, however, preferring to use their breath weapons to wreak havoc in wide swaths from comfortable distances while flying overhead. Finally, all drakes have small reservoirs of their ancestral draconic power that they can tap into to perform incredible feats of speed.
 
@@ -24,7 +25,7 @@ While drake hides aren’t any more valuable than those of other, similarly size
 
 ### Members
 
-[[Desert Drake]] (Creature 8), [[Flame Drake]] (Creature 5), [[Frost Drake]] (Creature 7), [[Jungle Drake]] (Creature 6), [[Prairie Drake]] (Creature 2), [[River Drake]] (Creature 3), [[Sea Drake]] (Creature 6), [[Shadow Drake]] (Creature 2), [[Wyvern]] (Creature 6)
+[[DATABASE/monster/Desert Drake|Desert Drake]] (Creature 8), [[DATABASE/monster/Flame Drake|Flame Drake]] (Creature 5), [[DATABASE/monster/Frost Drake|Frost Drake]] (Creature 7), [[DATABASE/monster/Jungle Drake|Jungle Drake]] (Creature 6), [[DATABASE/monster/Prairie Drake|Prairie Drake]] (Creature 2), [[DATABASE/monster/River Drake|River Drake]] (Creature 3), [[DATABASE/monster/Sea Drake|Sea Drake]] (Creature 6), [[DATABASE/monster/Shadow Drake|Shadow Drake]] (Creature 2), [[DATABASE/monster/Wyvern|Wyvern]] (Creature 6)
 
 ###  Drake Ecology
 

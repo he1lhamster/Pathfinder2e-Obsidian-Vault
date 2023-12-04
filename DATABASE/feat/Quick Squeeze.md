@@ -11,6 +11,7 @@ name: Quick Squeeze
 prerequisite: Trained in [[DATABASE/skill/Acrobatics|Acrobatics]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: acrobatics
@@ -24,15 +25,15 @@ type: Feat
 # Quick Squeeze <span class="item-type">Feat 1</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** trained in [[Acrobatics]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** trained in [[DATABASE/skill/Acrobatics|Acrobatics]]
 
 ---
 You Squeeze 5 feet per round (10 feet on a critical success). If you’re legendary in Acrobatics, you Squeeze at full Speed.
 
 ## Quick Squeeze Leads To...
 
-[[Implausible Infiltration]]
+[[DATABASE/feat/Implausible Infiltration|Implausible Infiltration]]
 
 ## Traits
 

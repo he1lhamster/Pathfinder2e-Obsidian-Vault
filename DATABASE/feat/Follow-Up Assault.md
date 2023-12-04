@@ -11,6 +11,7 @@ name: Follow-Up Assault
 prerequisite: null
 rarity: Common
 requirement: You used your previous action to make a melee Strike that missed.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Follow-Up Assault <span class="action-icon">1</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Barbarian</span><span class="item-trait">Rage</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Requirements** You used your previous action to make a melee Strike that missed.
 
 ---

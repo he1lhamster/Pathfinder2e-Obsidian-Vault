@@ -11,6 +11,7 @@ name: Elemental Artillery
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -28,7 +29,7 @@ type: Feat
 # Elemental Artillery <span class="action-icon">3</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Composite</span><span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Metal</span><span class="item-trait">Primal</span><span class="item-trait">Wood</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
 Spinning wood and metal together, you create a rugged wooden ballista. The ballista is Medium and appears in an unoccupied space within 30 feet. It immediately shoots a bolt with a jagged tip of elemental metal. Make an impulse attack roll against the AC of a target within 120 feet. The target takes 3d12 piercing damage on a hit (or double damage on a critical hit).

@@ -14,6 +14,7 @@ name: Glaive
 price: 1 gp
 range: null
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Deadly|Deadly d8]]'
@@ -28,11 +29,11 @@ weapon_type: Melee
 # Glaive
 
 <span class="item-trait">Deadly d8</span><span class="item-trait">Forceful</span><span class="item-trait">Reach</span>
-**Source** [[Core Rulebook]] 
-**Favored Weapon** [[Baphomet]], [[Shelyn]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Favored Weapon** [[DATABASE/deity/Baphomet|Baphomet]], [[DATABASE/deity/Shelyn|Shelyn]]
 **Price** 1 gp; **Damage** 1d8 S; **Bulk** 2
 **Hands** 2
-**Type** Melee; **Category** Martial; **Group** [[Polearm]]
+**Type** Melee; **Category** Martial; **Group** [[DATABASE/weapongroup/Polearm|Polearm]]
 
 ---
 This polearm consists of a long, single-edged blade on the end of a 7-foot pole. It is extremely effective at delivering lethal cuts at a distance.
@@ -41,7 +42,7 @@ This polearm consists of a long, single-edged blade on the end of a 7-foot pole.
 
 **Deadly d8:**
 
-On a critical hit, the weapon adds a weapon damage die of the listed size. Roll this after doubling the weapon's damage. This increases to two dice if the weapon has a _greater striking rune_ and three dice if the weapon has a _major striking rune_. For instance, a [[Rapier]] with a _greater striking rune_ deals 2d8 extra piercing damage on a critical hit. An ability that changes the size of the weapon's normal damage dice doesn't change the size of its deadly die.
+On a critical hit, the weapon adds a weapon damage die of the listed size. Roll this after doubling the weapon's damage. This increases to two dice if the weapon has a _greater striking rune_ and three dice if the weapon has a _major striking rune_. For instance, a [[DATABASE/weapon/Rapier|rapier]] with a _greater striking rune_ deals 2d8 extra piercing damage on a critical hit. An ability that changes the size of the weapon's normal damage dice doesn't change the size of its deadly die.
 
 **Forceful:**
 
@@ -53,10 +54,10 @@ Natural attacks with this trait can be used to attack creatures up to the listed
 
 ## Critical Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
 **Polearm**: The target is moved 5 feet in a direction of your choice. This is forced movement.
 
 ## Specific Magic Weapons
 
-[[Glaive of the Artist]], [[Songbird's Brush]], [[Whisperer of Souls]]
+[[DATABASE/equipment/Glaive of the Artist|Glaive of the Artist]], [[DATABASE/equipment/Songbird's Brush|Songbird's Brush]], [[DATABASE/equipment/Whisperer of Souls|Whisperer of Souls]]

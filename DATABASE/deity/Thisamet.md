@@ -27,6 +27,7 @@ follower_alignment:
 id: '267'
 name: Thisamet
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Society|Society]]'
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
@@ -36,7 +37,7 @@ type: Deity
 ---
 # Thisamet (The Blithe Spirit) [CG]
 
-**Source** [[Firebrands]]
+**Source** [[DATABASE/source/Firebrands|Firebrands]]
 The Blithe Spirit, Thisamet, exemplifies the warmth of celebration. In her merriment, she takes many forms and adjusts each to match the event. Often, she appears as a middle-aged woman with laugh lines worn deep in her face. She delights in attending events without fanfare, walking amongst mortal celebrants and immersing herself in the crowd. It's only as she leaves that the other celebrants notice the sheen of divinity remaining.
 **Category** Other Gods
 **Edicts** celebrate freely, share prosperity, invite all to your table
@@ -46,10 +47,10 @@ The Blithe Spirit, Thisamet, exemplifies the warmth of celebration. In her merri
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Constitution or Charisma
-**Divine Font** _[[Heal]]_
-**Divine Skill** [[Society]]
-**Favored Weapon** [[Shortsword]]
-**Domains** [[Cities Domain]], [[Delirium Domain]], [[Indulgence Domain]], [[Wealth Domain]]
-**Alternate Domains** [[Family Domain]], [[Fire Domain]]
-**Cleric Spells** 1st: _[[Color Spray]]_, 3rd: _[[Enthrall]]_, 5th: _[[Cloak of Colors]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Constitution or Charisma
+**Divine Font** _[[DATABASE/spell/Heal|heal]]_
+**Divine Skill** [[DATABASE/skill/Society|Society]]
+**Favored Weapon** [[DATABASE/weapon/Shortsword|shortsword]]
+**Domains** [[DATABASE/domain/Cities Domain|cities]], [[DATABASE/domain/Delirium Domain|delirium]], [[DATABASE/domain/Indulgence Domain|indulgence]], [[DATABASE/domain/Wealth Domain|wealth]]
+**Alternate Domains** [[DATABASE/domain/Family Domain|family]], [[DATABASE/domain/Fire Domain|fire]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Color Spray|color spray]]_, 3rd: _[[DATABASE/spell/Enthrall|enthrall]]_, 5th: _[[DATABASE/spell/Cloak of Colors|cloak of colors]]_

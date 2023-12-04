@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Expert Cleric Spellcasting|Expert Cleric Spellcas
   ; Legendary in [[DATABASE/skill/Religion|Religion]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Master Cleric Spellcasting <span class="item-type">Feat 18</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Cleric]]
-**Prerequisites** [[Expert Cleric Spellcasting]]; legendary in [[Religion]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Cleric|Cleric]]
+**Prerequisites** [[DATABASE/feat/Expert Cleric Spellcasting|Expert Cleric Spellcasting]]; legendary in [[DATABASE/skill/Religion|Religion]]
 
 ---
 You gain the master spellcasting benefits.

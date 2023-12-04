@@ -11,6 +11,7 @@ name: Robust Recovery
 prerequisite: Expert in [[DATABASE/skill/Medicine|Medicine]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: medicine
@@ -24,8 +25,8 @@ type: Feat
 # Robust Recovery <span class="item-type">Feat 2</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** expert in [[Medicine]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** expert in [[DATABASE/skill/Medicine|Medicine]]
 
 ---
 You learned folk medicine to help recover from diseases and poison, and using it diligently has made you especially resilient. When you Treat a Disease or a Poison, or someone else uses one of these actions on you, increase the circumstance bonus granted on a success to +4, and if the result of the patient’s saving throw is a success, the patient gets a critical success.

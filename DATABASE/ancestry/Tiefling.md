@@ -9,6 +9,7 @@ language: null
 max_speed: null
 name: Tiefling
 rarity: null
+rus_type_level: null
 size: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 speed: null
@@ -20,8 +21,8 @@ vision: null
 # Tiefling (Versatile Heritage)
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Tiefling</span>
-**Source** [[Advanced Player's Guide]] 
-_When the influence of a demon, devil, or other fiend infiltrates the bloodline of a mortal family, tieflings are the inevitable result. Tieflings carry the sinister mark of the fiendish planes upon their flesh, and their specific abilities and physical qualities vary according to their heritage. Hellspawn are those who descend from [[Devil]], grimspawn hail from [[Daemon]] influences, and pitborn bear the influence of [[Demon]], though these are only the three most common among a wide variety of tiefling lineages._
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+_When the influence of a demon, devil, or other fiend infiltrates the bloodline of a mortal family, tieflings are the inevitable result. Tieflings carry the sinister mark of the fiendish planes upon their flesh, and their specific abilities and physical qualities vary according to their heritage. Hellspawn are those who descend from [[DATABASE/monsterfamily/Devil|devils]], grimspawn hail from [[DATABASE/monsterfamily/Daemon|daemonic]] influences, and pitborn bear the influence of [[DATABASE/monsterfamily/Demon|demons]], though these are only the three most common among a wide variety of tiefling lineages._
 Generations might pass between a fiend’s direct influence and the time a tiefling child is born. For those born to ignorant or fearful parents, childhood is particularly hard, but even those whose families accept and nurture them face fear and prejudice from society as a whole. In some cases, this rejection encourages a tiefling to embrace the evil within their heritage, though others carve out a place and live a fulfilling life despite the challenges facing them.
  If you want a character who is supernaturally infused with sinister forces, might have a unique appearance, and can fill the role of a complicated or unexpected hero, you should play a tiefling.
 
@@ -47,11 +48,11 @@ Tieflings tend to adopt the society and culture they were born into. Since most 
 
 ## Alignment and Religion
 
-A tiefling's fiendish heritage doesn't force evil or cruelty into their being, and each tiefling ultimately chooses their own faith, goals, and personality. But every tiefling feels their forbear's influence in the back of their mind, always ready to tempt and goad when the world appears cruel and unjust. That so many societies hate and fear tieflings only pushes them further toward evil, and many tieflings gravitate toward religions that value and admire fiends, such as the churches of [[Asmodeus]] or [[Lamashtu]]. Tieflings who choose a path of good face their own challenges, finding they must be more diplomatic, understanding, and patient than members of other ancestries since they are so often faced with ignorance and suspicion. Such tieflings embrace faiths and philosophies that uphold empathy and eschew judgment, finding that even followers of good faiths sometimes struggle to see past fiendish features.
+A tiefling's fiendish heritage doesn't force evil or cruelty into their being, and each tiefling ultimately chooses their own faith, goals, and personality. But every tiefling feels their forbear's influence in the back of their mind, always ready to tempt and goad when the world appears cruel and unjust. That so many societies hate and fear tieflings only pushes them further toward evil, and many tieflings gravitate toward religions that value and admire fiends, such as the churches of [[DATABASE/deity/Asmodeus|Asmodeus]] or [[DATABASE/deity/Lamashtu|Lamashtu]]. Tieflings who choose a path of good face their own challenges, finding they must be more diplomatic, understanding, and patient than members of other ancestries since they are so often faced with ignorance and suspicion. Such tieflings embrace faiths and philosophies that uphold empathy and eschew judgment, finding that even followers of good faiths sometimes struggle to see past fiendish features.
 
 ## Adventurers
 
-For many tieflings, becoming an adventurer is a natural progression. The typical tiefling already relies on no one but themself or a few chosen comrades, lives a semi-nomadic existence to avoid trouble, and tends to have very developed opinions on good and evil and the necessity of intervening on one side or the other. Tieflings often grow up as outcasts, and the [[Charlatan]], [[Criminal]], [[Hermit]], [[Nomad]], and [[Street Urchin]] backgrounds might fit, with unluckier tieflings coming from the [[Prisoner]] background. Many tieflings become [[Rogue]] or [[Bard]] as a means of survival, while others access the powers of their blood to become [[Sorcerer]]. Some become [[Wizard]], [[Monk]], or [[Cleric]] in an effort to gain mastery over their fiendish corruption.
+For many tieflings, becoming an adventurer is a natural progression. The typical tiefling already relies on no one but themself or a few chosen comrades, lives a semi-nomadic existence to avoid trouble, and tends to have very developed opinions on good and evil and the necessity of intervening on one side or the other. Tieflings often grow up as outcasts, and the [[DATABASE/background/Charlatan|charlatan]], [[DATABASE/background/Criminal|criminal]], [[DATABASE/background/Hermit|hermit]], [[DATABASE/background/Nomad|nomad]], and [[DATABASE/background/Street Urchin|street urchin]] backgrounds might fit, with unluckier tieflings coming from the [[DATABASE/background/Prisoner|prisoner]] background. Many tieflings become [[DATABASE/class_/Rogue|rogues]] or [[DATABASE/class_/Bard|bards]] as a means of survival, while others access the powers of their blood to become [[DATABASE/class_/Sorcerer|sorcerers]]. Some become [[DATABASE/class_/Wizard|wizards]], [[DATABASE/class_/Monk|monks]], or [[DATABASE/class_/Cleric|clerics]] in an effort to gain mastery over their fiendish corruption.
 
 ## Other Information
 
@@ -67,9 +68,9 @@ Powerful raja rakshasas see those beastbrood tieflings who can hide or disguise 
 
 The Shaded Library is a whispered network of dire claims about various deities of the multiverse. Though the name was given derogatorily, many immortals and extraplanar beings have come to embrace the Shaded Library. Tieflings, especially faultspawn, often catch wind of these truths:
 
-* [[Desna]] isn't simply carefree and filled with wanderlust—she actively distances herself from the woes and near catastrophes she has caused.
-* What [[Torag]] truly craves most is complete control.
-* [[Milani]] is likely an exceptionally powerful asura or lucky faultspawn.
+* [[DATABASE/deity/Desna|Desna]] isn't simply carefree and filled with wanderlust—she actively distances herself from the woes and near catastrophes she has caused.
+* What [[DATABASE/deity/Torag|Torag]] truly craves most is complete control.
+* [[DATABASE/deity/Milani|Milani]] is likely an exceptionally powerful asura or lucky faultspawn.
 * Many rakshasas believe newly minted gods who perform the Test of the Starstone are reincarnations at best and, at worst, future asuras who don't believe the truth about themselves. Neither is complimentary.
 * Only a few deities are never held in contempt by the Shaded Librarian.
 
@@ -79,9 +80,9 @@ Given the nature of fiends, tieflings are among the most common of planar scions
 
 # Versatile Heritage
 
-## [[Tiefling]]
+## [[DATABASE/heritage/Tiefling|Tiefling]]
 
 <span class="trait-uncommon item-trait">Uncommon</span>
-**Source** [[Advanced Player's Guide]] 
-**Ancestry Page** [[Tiefling]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Ancestry Page** [[DATABASE/ancestry/Tiefling|Tiefling]]
 You descend from fiends or bear the mark of the fiendish realms, manifesting as some unusual feature that belies your heritage, such as horns or a tail. You gain the tiefling trait, in addition to the traits from your ancestry. You also gain low-light vision, or you gain darkvision if your ancestry already has low-light vision. You can choose from tiefling feats and feats from your ancestry whenever you gain an ancestry feat.

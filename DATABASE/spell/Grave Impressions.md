@@ -21,6 +21,7 @@ patron_theme: null
 range: touch
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Pathfinder 169. Kindled Magic|Pathfinder #169: Kindled
@@ -39,7 +40,7 @@ type: Spell
 # Grave Impressions<span class="item-type">Spell 2</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Necromancy</span>
-**Source** [[Pathfinder 169. Kindled Magic]]
+**Source** [[DATABASE/source/Pathfinder 169. Kindled Magic|Pathfinder #169: Kindled Magic]]
 **Traditions** divine, occult
 **Cast** 1 minute (somatic, verbal)
 **Range** touch; **Targets** 1 corpse

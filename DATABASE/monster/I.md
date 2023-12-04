@@ -79,20 +79,20 @@ wisdom: '+2'
 # I
 
 This creature did not include a description.
-**Recall Knowledge - Aberration ([[Occultism]])**: DC 33
+**Recall Knowledge - Aberration ([[DATABASE/skill/Occultism|Occultism]])**: DC 33
 **Unspecific Lore**: DC 31
 **Specific Lore**: DC 28
 
 # I<span class="item-type">Creature 7</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CN</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Aberration</span>
-**Source** [[Pathfinder 179. Cradle of Quartz]]
+**Source** [[DATABASE/source/Pathfinder 179. Cradle of Quartz|Pathfinder #179: Cradle of Quartz]]
 Genderless alien entity of unknown provenance
-**Perception** +19; [[Darkvision]], [[Tremorsense]] (imprecise) 30 feet
-**Languages** [[Common]], [[Gnoll]], [[Osiriani]]; (can't speak any language), [[Telepathy]] 100 feet
-**Skills** [[Arcana]] +16, [[Athletics]] +16, [[Diplomacy]] +14, [[Lore]] +19, [[Thievery]] +16
+**Perception** +19; [[DATABASE/monsterability/Darkvision|darkvision]], [[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 30 feet
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Gnoll|Gnoll]], [[DATABASE/language/Osiriani|Osiriani]]; (can't speak any language), [[DATABASE/monsterability/Telepathy|telepathy]] 100 feet
+**Skills** [[DATABASE/skill/Arcana|Arcana]] +16, [[DATABASE/skill/Athletics|Athletics]] +16, [[DATABASE/skill/Diplomacy|Diplomacy]] +14, [[DATABASE/skill/Lore|Spellscar Lore]] +19, [[DATABASE/skill/Thievery|Thievery]] +16
 **Str** +4, **Dex** +1, **Con** +2, **Int** +4, **Wis** +2, **Cha** +1
-**Items** [[Thunder Helm]]
+**Items** [[DATABASE/equipment/Thunder Helm|thunder helm]]
 
 ---
 **AC** 25; **Fort** +14, **Ref** +12, **Will** +14
@@ -100,5 +100,5 @@ Genderless alien entity of unknown provenance
 
 ---
 **Speed** 25 feet, burrow 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> arm +16 [+12/+8] (agile, reach 10 feet), **Damage** 2d8+6 bludgeoning plus [[Grab]]</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> beak +16 [+11/+6], **Damage** 2d8+6 piercing plus I venom</span>**Primal Innate Spells** DC 25; **3rd** _[[Noxious Vapors]]_, _[[Shifting Sand]]_; **1st** _[[Shockwave]]_ (at will)
-<span class="in-box-ability">**[[Constrict]]** <span class="action-icon">1</span> 1d8+8 bludgeoning</span><span class="in-box-ability">**I Venom** (poison) **Saving Throw** DC 25 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 2d6 poison damage and [[Enfeebled]] (1 round); **Stage 2** 2d6 poison damage, enfeebled 1, and [[Flat-Footed]] (1 round); **Stage 3** 2d6 poison damage, enfeebled 2, and flat-footed (1 round)</span><span class="in-box-ability">**Writhing Arms** <span class="action-icon">2</span> I makes up to four Strikes with different arms, each against a different target. Each attack counts separately for their multiple attack penalty, but the penalty doesn't increase until all attacks have been made. If I subsequently uses the [[Grab]] action, they can Grab any number of creatures they hit with Writhing Arms.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> arm +16 [+12/+8] (agile, reach 10 feet), **Damage** 2d8+6 bludgeoning plus [[DATABASE/monsterability/Grab|Grab]]</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> beak +16 [+11/+6], **Damage** 2d8+6 piercing plus I venom</span>**Primal Innate Spells** DC 25; **3rd** _[[DATABASE/spell/Noxious Vapors|noxious vapors]]_, _[[DATABASE/spell/Shifting Sand|shifting sand]]_; **1st** _[[DATABASE/spell/Shockwave|shockwave]]_ (at will)
+<span class="in-box-ability">**[[DATABASE/monsterability/Constrict|Constrict]]** <span class="action-icon">1</span> 1d8+8 bludgeoning</span><span class="in-box-ability">**I Venom** (poison) **Saving Throw** DC 25 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 2d6 poison damage and [[DATABASE/condition/Enfeebled|enfeebled 1]] (1 round); **Stage 2** 2d6 poison damage, enfeebled 1, and [[DATABASE/condition/Flat-Footed|flat-footed]] (1 round); **Stage 3** 2d6 poison damage, enfeebled 2, and flat-footed (1 round)</span><span class="in-box-ability">**Writhing Arms** <span class="action-icon">2</span> I makes up to four Strikes with different arms, each against a different target. Each attack counts separately for their multiple attack penalty, but the penalty doesn't increase until all attacks have been made. If I subsequently uses the [[DATABASE/monsterability/Grab|Grab]] action, they can Grab any number of creatures they hit with Writhing Arms.</span>

@@ -22,6 +22,7 @@ follower_alignment:
 id: '156'
 name: Lissala
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Arcana|Arcana]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -31,7 +32,7 @@ type: Deity
 ---
 # Lissala (The Sihedron Scion) [LE]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Category** Other Gods
 **Edicts** Work hard and demand others do so as well, cooperate or avoid conflict with ophidian creatures
 **Anathema** Disobey a superior, shirk your duties, destroy a book
@@ -39,9 +40,9 @@ type: Deity
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Intelligence or Wisdom
-**Divine Font** _[[Harm]]_
-**Divine Skill** [[Arcana]]
-**Favored Weapon** [[Whip]]
-**Domains** [[Fate Domain]], [[Glyph Domain]], [[Magic Domain]]
-**Cleric Spells** 1st: _[[Message Rune]]_, 2nd: _[[Secret Page]]_, 6th: _[[Dominate]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Intelligence or Wisdom
+**Divine Font** _[[DATABASE/spell/Harm|harm]]_
+**Divine Skill** [[DATABASE/skill/Arcana|Arcana]]
+**Favored Weapon** [[DATABASE/weapon/Whip|whip]]
+**Domains** [[DATABASE/domain/Fate Domain|fate]], [[DATABASE/domain/Glyph Domain|glyph]], [[DATABASE/domain/Magic Domain|magic]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Message Rune|message rune]]_, 2nd: _[[DATABASE/spell/Secret Page|secret page]]_, 6th: _[[DATABASE/spell/Dominate|dominate]]_

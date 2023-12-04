@@ -14,6 +14,7 @@ name: Shadowshift Field
 rarity: Common
 reflex: null
 resistance: null
+rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh
   Arch]]'
@@ -29,13 +30,13 @@ will: null
 # Shadowshift Field<span class="item-type">Hazard 1</span>
 
 <span class="item-trait">Complex</span><span class="item-trait">Conjuration</span><span class="item-trait">Magical</span>
-**Source** [[Pathfinder 187. The Seventh Arch]]
+**Source** [[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh Arch]]
 **Complexity** Complex
 **Stealth** +7 (trained) to notice the air and plants wavering and shifting
 **Description** Cross-planar seepage from the Oaksteward rebels’ ritual causes shadowy warping effects to strain and damage living creatures in the forest clearing.
 
 ---
-**Disable** DC 17 [[Arcana]] (trained) to will the Material Plane's hold on the area back into firmness and disable the effect for 1 hour, or [[Dispel Magic]] (1st level; counteract DC 15) to end the effect permanently
+**Disable** DC 17 [[DATABASE/skill/Arcana|Arcana]] (trained) to will the Material Plane's hold on the area back into firmness and disable the effect for 1 hour, or [[DATABASE/spell/Dispel Magic|dispel magic]] (1st level; counteract DC 15) to end the effect permanently
 **Shadowshift** <span class="action-icon">5</span> (conjuration, primal) **Trigger** A character enters the affected area; **Effect** The hazard rolls initiative as the feld of planar warping surges, flling the forest clearing.
 
 ---

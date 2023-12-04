@@ -11,6 +11,7 @@ name: Grave's Voice
 prerequisite: '[[DATABASE/feat/Ghost Hunter Dedication|Ghost Hunter Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 163. Ruins of Gauntlight|Pathfinder #163: Ruins
   of Gauntlight]]'
@@ -24,12 +25,12 @@ type: Feat
 # Grave's Voice <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Pathfinder 163. Ruins of Gauntlight]]
-**Archetype** [[Ghost Hunter]]
-**Prerequisites** [[Ghost Hunter Dedication]]
+**Source** [[DATABASE/source/Pathfinder 163. Ruins of Gauntlight|Pathfinder #163: Ruins of Gauntlight]]
+**Archetype** [[DATABASE/archetype/Ghost Hunter|Ghost Hunter]]
+**Prerequisites** [[DATABASE/feat/Ghost Hunter Dedication|Ghost Hunter Dedication]]
 
 ---
-You can use your choice of [[Lore]] or Haunt Lore to [[Make an Impression]] or [[Request]] things of incorporeal creatures. At the GM's discretion, an incorporeal spirit might be willing to hear you out.
+You can use your choice of [[DATABASE/skill/Lore|Spirit Lore]] or Haunt Lore to [[DATABASE/action/Make an Impression|Make an Impression]] or [[DATABASE/action/Request|Request]] things of incorporeal creatures. At the GM's discretion, an incorporeal spirit might be willing to hear you out.
 
 ## Traits
 

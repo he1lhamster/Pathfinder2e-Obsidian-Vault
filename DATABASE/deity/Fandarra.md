@@ -27,6 +27,7 @@ follower_alignment:
 id: '236'
 name: Fandarra
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Nature|Nature]]'
 source: '[[DATABASE/source/Pathfinder 176. Lost Mammoth Valley|Pathfinder #176: Lost
@@ -37,8 +38,8 @@ type: Deity
 ---
 # Fandarra (The Blood Mother) [N]
 
-**Source** [[Pathfinder 176. Lost Mammoth Valley]]
-Fandarra is primarily worshipped throughout the Realm of the Mammoth Lords as a goddess of life cycles—including fertility, birth, life, and death. Local legends claim Fandarra was birthed from the earth's womb, the legendary cave Atakal, as the first living being. From her, all other life sprang. She gave birth to all people, all animals, and all deities—except for [[Pharasma]], the Judge of Souls, who exists outside of the cycle of life and death. The blood spilled during these labors soaked the soil, making it fertile and causing plants to grow. Blood, death, and pain are nothing to fear. Like life, they're a normal and integral part of the life cycle and should be respected. Fandarra is the Mother of All, also known as the Earth Mother or the Blood Mother, and is one of the most widely worshipped deities throughout the Realm of the Mammoth Lords. 
+**Source** [[DATABASE/source/Pathfinder 176. Lost Mammoth Valley|Pathfinder #176: Lost Mammoth Valley]]
+Fandarra is primarily worshipped throughout the Realm of the Mammoth Lords as a goddess of life cycles—including fertility, birth, life, and death. Local legends claim Fandarra was birthed from the earth's womb, the legendary cave Atakal, as the first living being. From her, all other life sprang. She gave birth to all people, all animals, and all deities—except for [[DATABASE/deity/Pharasma|Pharasma]], the Judge of Souls, who exists outside of the cycle of life and death. The blood spilled during these labors soaked the soil, making it fertile and causing plants to grow. Blood, death, and pain are nothing to fear. Like life, they're a normal and integral part of the life cycle and should be respected. Fandarra is the Mother of All, also known as the Earth Mother or the Blood Mother, and is one of the most widely worshipped deities throughout the Realm of the Mammoth Lords. 
 In addition to her role as a goddess of life cycles and blood, Fandarra is a goddess of knowledge. As elders educate children, so has Fandarra brought her wisdom to the beings of this world.
 Outside the Realm of the Mammoth Lords, 
 Fandarra is primarily known as a goddess of giants. Within the Realm, she's depicted as a pregnant Kellid woman with a shaved head crowned by a laurel of flowers. She wears a necklace of knives that she wields against those who would usurp the cycles of life; on her shoulders rests a fur cloak suitable to the region of her worship—usually mammoth, wolf, or bear. She carries an infant in one arm and a juvenile animal in the other. Typically, this animal is a mammoth, although it can vary for followings that prize other animals more.
@@ -52,10 +53,10 @@ Fandarra's religious symbol is a crescent moon emerging from a mountain. Her wor
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Constitution or Wisdom
-**Divine Font** _[[Heal]]_
-**Divine Skill** [[Nature]]
-**Favored Weapon** [[Dagger]]
-**Domains** [[Death Domain]], [[Family Domain]], [[Knowledge Domain]], [[Nature Domain]]
-**Alternate Domains** [[Earth Domain]]
-**Cleric Spells** 1st: _[[Endure]]_, 3rd: _[[Wall of Thorns]]_, 5th: _[[Blister]]_ (blisters appear to burst blood)
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Constitution or Wisdom
+**Divine Font** _[[DATABASE/spell/Heal|heal]]_
+**Divine Skill** [[DATABASE/skill/Nature|Nature]]
+**Favored Weapon** [[DATABASE/weapon/Dagger|dagger]]
+**Domains** [[DATABASE/domain/Death Domain|death]], [[DATABASE/domain/Family Domain|family]], [[DATABASE/domain/Knowledge Domain|knowledge]], [[DATABASE/domain/Nature Domain|nature]]
+**Alternate Domains** [[DATABASE/domain/Earth Domain|earth]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Endure|endure]]_, 3rd: _[[DATABASE/spell/Wall of Thorns|wall of thorns]]_, 5th: _[[DATABASE/spell/Blister|blister]]_ (blisters appear to burst blood)

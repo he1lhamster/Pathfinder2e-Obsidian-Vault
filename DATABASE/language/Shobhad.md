@@ -2,6 +2,7 @@
 id: '97'
 name: Shobhad
 rarity: Rare
+rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 173. Doorway to the Red Star|Pathfinder #173:
   Doorway to the Red Star]]'
 trait:
@@ -11,13 +12,13 @@ type: Language
 ---
 # Shobhad
 
-**Source** [[Pathfinder 173. Doorway to the Red Star]]
+**Source** [[DATABASE/source/Pathfinder 173. Doorway to the Red Star|Pathfinder #173: Doorway to the Red Star]]
 The below entries contain speakers of Shobhad.
 
 ## Monsters (2)
 
-[[Shobhad Enforcer]], [[Shobhad Sniper]]
+[[DATABASE/monster/Shobhad Enforcer|Shobhad Enforcer]], [[DATABASE/monster/Shobhad Sniper|Shobhad Sniper]]
 
 ## NPCs (1)
 
-[[Skartitch Chip-Tooth]]
+[[DATABASE/npc/Skartitch Chip-Tooth|Skartitch Chip-Tooth]]

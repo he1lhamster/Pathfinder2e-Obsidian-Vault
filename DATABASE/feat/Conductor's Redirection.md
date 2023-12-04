@@ -11,6 +11,7 @@ name: Conductor's Redirection
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Conductor's Redirection <span class="action-icon">5</span> <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Talos</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Trigger** You are hit by an attack, spell, or other effect that deals electricity damage.
 
 ---
@@ -33,4 +34,4 @@ You conduct the damage through your body, taking damage as normal (if applicable
 
 **Talos:**
 
-Taloses are [[Planar Scion]] descended from [[Zuhra]].
+Taloses are [[DATABASE/monsterfamily/Planar Scion|planar scions]] descended from [[DATABASE/monster/Zuhra|zuhras]].

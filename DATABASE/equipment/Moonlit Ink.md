@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Moonlit Ink<span class="item-type">Item 2</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Price** 5 gp
 **Hands** 1; **Usage** held in 1 hand; **Bulk** —
 **Access** Member of a secret society

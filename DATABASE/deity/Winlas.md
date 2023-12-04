@@ -23,6 +23,7 @@ follower_alignment:
 id: '131'
 name: Winlas
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Occultism|Occultism]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -32,7 +33,7 @@ type: Deity
 ---
 # Winlas (The Elder of Divinity) [LG]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Category** Empyreal Lords
 **Edicts** Serve leaders of ceremonies, craft ceremonial arms and armor, lead a congregation
 **Anathema** Deride sacred ceremonies, carelessly or lazily perform rituals, destroy ceremonial objects
@@ -40,9 +41,9 @@ type: Deity
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Intelligence or Wisdom
-**Divine Font** _[[Heal]]_
-**Divine Skill** [[Occultism]]
-**Favored Weapon** [[Mace]]
-**Domains** [[Glyph Domain]], [[Knowledge Domain]], [[Protection Domain]], [[Vigil Domain]]
-**Cleric Spells** 1st: _[[Share Lore]]_, 2nd: _[[Comprehend Language]]_, 4th: _[[Veil]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Intelligence or Wisdom
+**Divine Font** _[[DATABASE/spell/Heal|heal]]_
+**Divine Skill** [[DATABASE/skill/Occultism|Occultism]]
+**Favored Weapon** [[DATABASE/weapon/Mace|mace]]
+**Domains** [[DATABASE/domain/Glyph Domain|glyph]], [[DATABASE/domain/Knowledge Domain|knowledge]], [[DATABASE/domain/Protection Domain|protection]], [[DATABASE/domain/Vigil Domain|vigil]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Share Lore|share lore]]_, 2nd: _[[DATABASE/spell/Comprehend Language|comprehend language]]_, 4th: _[[DATABASE/spell/Veil|veil]]_

@@ -2,6 +2,7 @@
 id: '212'
 name: Wake the Dead 3
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -15,11 +16,11 @@ type: Source
 
 ## Familiar Abilities [1]
 
-[[Sorcerous Sweets]]
+[[DATABASE/familiarability/Sorcerous Sweets|Sorcerous Sweets (familiar)]]
 
 ## Familiars (Specific) [3]
 
-[[Sweet Beasts (Chocolate Mouse)]], [[Sweet Beasts (Gingerbread Sparrow)]], [[Sweet Beasts (Hard Candy Beetle)]]
+[[DATABASE/familiarspecific/Sweet Beasts (Chocolate Mouse)|Sweet Beasts (Chocolate Mouse)]], [[DATABASE/familiarspecific/Sweet Beasts (Gingerbread Sparrow)|Sweet Beasts (Gingerbread Sparrow)]], [[DATABASE/familiarspecific/Sweet Beasts (Hard Candy Beetle)|Sweet Beasts (Hard Candy Beetle)]]
 
 ## Feats [1]
 
@@ -27,4 +28,4 @@ Chaotic Spell
 
 ## Spells [2]
 
-[[Call Fluxwraith]], [[Heinous Future]]
+[[DATABASE/spell/Call Fluxwraith|Call Fluxwraith]], [[DATABASE/spell/Heinous Future|Heinous Future]]

@@ -11,6 +11,7 @@ name: Reason Rapidly
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Reason Rapidly <span class="action-icon">1</span> <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Investigator</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
-Your mind works through clues at an unbelievable speed. You instantly use up to five [[Recall Knowledge]] actions. If you have any special abilities or free actions that would normally be triggered when you Recall Knowledge, you can't use them for these actions.
+Your mind works through clues at an unbelievable speed. You instantly use up to five [[DATABASE/action/Recall Knowledge|Recall Knowledge]] actions. If you have any special abilities or free actions that would normally be triggered when you Recall Knowledge, you can't use them for these actions.

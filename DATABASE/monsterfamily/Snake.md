@@ -3,6 +3,7 @@ creature_family: Snake
 id: '93'
 name: Snake
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Snake
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Snakes come in an array of forms, from jungle-dwelling constrictors that wrap around their prey to venomous vipers with deadly bites. Regardless, all snakes consume their prey whole by unhinging their jaws and using powerful muscles to move the food down their throats and into their stomachs.
 
 ### Members
 
-[[Ball Python]] (Creature 1), [[Emperor Cobra]] (Creature 5), [[Giant Anaconda]] (Creature 8), [[Giant Viper]] (Creature 2), [[Rat Snake Swarm]] (Creature 2), [[Sea Snake]] (Creature 0), [[Viper]] (Creature -1), [[Viper Swarm]] (Creature 4)
+[[DATABASE/monster/Ball Python|Ball Python]] (Creature 1), [[DATABASE/monster/Emperor Cobra|Emperor Cobra]] (Creature 5), [[DATABASE/monster/Giant Anaconda|Giant Anaconda]] (Creature 8), [[DATABASE/monster/Giant Viper|Giant Viper]] (Creature 2), [[DATABASE/monster/Rat Snake Swarm|Rat Snake Swarm]] (Creature 2), [[DATABASE/monster/Sea Snake|Sea Snake]] (Creature 0), [[DATABASE/monster/Viper|Viper]] (Creature -1), [[DATABASE/monster/Viper Swarm|Viper Swarm]] (Creature 4)
 
 ###  Eating Habits
 
@@ -27,8 +28,8 @@ Despite their solitary natures, snakes come together in swarms for purposes of h
 
 ###  Snake Resources
 
-Snakeskin's distinctive pattern and wide variety of applications makes it a sought-after resource, and the hides of extra-large snakes such as giant anacondas can fetch a fine price in the right market. Such oversized snake hides can be used to craft clothing of snakeskin leather, including boots and gloves, as well as other items such as scabbards, backpacks, and even tents or makeshift boats. A snake's hide can be cleanly removed with a successful [[Crafting]] check or appropriate [[Lore]] check.
+Snakeskin's distinctive pattern and wide variety of applications makes it a sought-after resource, and the hides of extra-large snakes such as giant anacondas can fetch a fine price in the right market. Such oversized snake hides can be used to craft clothing of snakeskin leather, including boots and gloves, as well as other items such as scabbards, backpacks, and even tents or makeshift boats. A snake's hide can be cleanly removed with a successful [[DATABASE/skill/Crafting|Crafting]] check or appropriate [[DATABASE/skill/Lore|Lore]] check.
 
 ###  Snakes in Mythology
 
-Snakes appear frequently and prominently in the myths and legends of many cultures throughout the Inner Sea region. In Ancient Osirion, snakes were revered and associated both with the evil serpent god Apep and the good goddess [[Wadjet]], the Green Empress. Perhaps the best-known example of snakes in Golarion's legends are the [[Serpentfolk]]— serpentine humanoids who ruled vast swaths of the world in prehistoric times and worshipped a foul snake deity called [[Ydersius]].
+Snakes appear frequently and prominently in the myths and legends of many cultures throughout the Inner Sea region. In Ancient Osirion, snakes were revered and associated both with the evil serpent god Apep and the good goddess [[DATABASE/deity/Wadjet|Wadjet]], the Green Empress. Perhaps the best-known example of snakes in Golarion's legends are the [[DATABASE/monsterfamily/Serpentfolk|serpentfolk]]— serpentine humanoids who ruled vast swaths of the world in prehistoric times and worshipped a foul snake deity called [[DATABASE/deity/Ydersius|Ydersius]].

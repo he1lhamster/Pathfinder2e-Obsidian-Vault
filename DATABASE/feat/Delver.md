@@ -11,6 +11,7 @@ name: Delver
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Delver <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Shisk</span>
-**Source** [[The Mwangi Expanse]]
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]
 
 ---
 Subterranean life taught you to swim through the ground like water. You gain a burrow Speed of 10 feet through loose soil or dirt.

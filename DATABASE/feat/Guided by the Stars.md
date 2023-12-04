@@ -11,6 +11,7 @@ name: Guided by the Stars
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Guided by the Stars <span class="action-icon">4</span> <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Fortune</span><span class="item-trait">Lizardfolk</span>
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 **Frequency** once per day
 **Trigger** You are about to attempt a skill check or saving throw.
 

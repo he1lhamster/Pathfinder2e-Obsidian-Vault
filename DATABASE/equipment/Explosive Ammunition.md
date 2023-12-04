@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Explosive Ammunition<span class="item-type">Item 9+</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Evocation</span><span class="item-trait">Fire</span><span class="item-trait">Magical</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Ammunition** any; **Bulk** —
 **Activate** <span class="action-icon">1</span> Interact
 
@@ -64,11 +65,11 @@ This piece of ammunition is coated in gritty black soot. When activated _explosi
 
 ## Explosive Ammunition<span class="item-type">Item 9</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 130 gp
 
 ## Explosive Ammunition (Greater)<span class="item-type">Item 13</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 520 gp
 The damage is 10d6 and the save DC is 30.

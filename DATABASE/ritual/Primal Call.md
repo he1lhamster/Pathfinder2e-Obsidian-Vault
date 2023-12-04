@@ -13,6 +13,7 @@ primary_check: '[[DATABASE/skill/Nature|Nature]] (master)'
 range: 100 miles
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: Abjuration
 secondary_casters: '4'
 secondary_check: '[[DATABASE/skill/Crafting|Crafting]] , [[DATABASE/skill/Diplomacy|Diplomacy]]
@@ -29,11 +30,11 @@ type: Ritual
 # Primal Call<span class="item-type">Ritual 6</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Abjuration</span><span class="item-trait">Conjuration</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Cast** 1 day; **Cost** faerie circle ingredients worth a total value of 1 gp × the spell level × the target’s level; **Secondary Casters** 4
-**Primary Check** [[Nature]] (master); **Secondary Checks** [[Crafting]], [[Diplomacy]], [[Survival]]
+**Primary Check** [[DATABASE/skill/Nature|Nature]] (master); **Secondary Checks** [[DATABASE/skill/Crafting|Crafting]], [[DATABASE/skill/Diplomacy|Diplomacy]], [[DATABASE/skill/Survival|Survival]]
 **Range** 100 miles; **Target(s)** 1 animal, beast, fey, fungus, or plant
 **Duration** see text
 
 ---
-This functions as [[Planar Ally]] except you craft a faerie circle and call an animal, beast, fey, fungus, or plant from within 100 miles.
+This functions as [[DATABASE/ritual/Planar Ally|planar ally]] except you craft a faerie circle and call an animal, beast, fey, fungus, or plant from within 100 miles.

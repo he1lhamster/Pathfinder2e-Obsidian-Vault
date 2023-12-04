@@ -11,6 +11,7 @@ name: Immortal Bear
 prerequisite: '[[DATABASE/feat/Ursine Avenger Form|Ursine Avenger Form]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Immortal Bear <span class="item-type">Feat 20</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Treasure Vault]] 
-**Archetype** [[Ursine Avenger Hood]]
-**Prerequisites** [[Ursine Avenger Form]]
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
+**Archetype** [[DATABASE/archetype/Ursine Avenger Hood|Ursine Avenger Hood]]
+**Prerequisites** [[DATABASE/feat/Ursine Avenger Form|Ursine Avenger Form]]
 
 ---
 Your body thrums with the primal vitality of the greatest of the ursine beasts. When in Ursine Avenger Form, you gain fast healing 5.

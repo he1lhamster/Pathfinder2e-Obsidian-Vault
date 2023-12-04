@@ -14,6 +14,7 @@ id: '16'
 name: Witch
 perception_proficiency: Trained
 rarity: Common
+rus_type_level: null
 skill_proficiency:
 - Trained in one skill determined by your patron
 - Trained in a number of additional skills equal to 3 plus your Intelligence modifier
@@ -28,7 +29,7 @@ type: Class
 
 ---
 # Witch
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 _You command powerful magic, not through study or devotion to any ideal, but as a vessel or agent for a mysterious, otherworldly patron that even you don't entirely understand. This entity might be a covert divinity, a powerful fey, a manifestation of natural energies, an ancient spirit, or any other mighty supernatural being—but its nature is likely as much a mystery to you as it is to anyone else. Through a special familiar, your patron grants you versatile spells and powerful hexes to use as you see fit, though you're never certain if these gifts will end up serving your patron's larger plan._
 **Key Ability: INTELLIGENCE**
 At 1st level, your class gives you an ability boost to Intelligence.
@@ -114,54 +115,52 @@ Trained in spell attack rolls of your spellcasting tradition, determined by your
 
 # Class Features
 
-You gain these features as a Witch. Abilities gained at higher levels list the levels at which you gain them next to the features' names.
-
-|   Your Level | Class Features                                                                              |
-|-------------:|:--------------------------------------------------------------------------------------------|
-|            1 | Ancestry and background, initial proficiencies, patron, familiar, witch spellcasting, hexes |
-|            2 | Skill feat, witch feat                                                                      |
-|            3 | 2nd-level spells, general feat, skill increase                                              |
-|            4 | Skill feat, witch feat                                                                      |
-|            5 | 3rd-level spells, ability boosts, ancestry feat, magical fortitude, skill increase          |
-|            6 | Familiar ability, skill feat, witch feat                                                    |
-|            7 | 4th-level spells, expert spellcaster, general feat, skill increase                          |
-|            8 | Skill feat, witch feat                                                                      |
-|            9 | 5th-level spells, ancestry feat, lightning reflexes, skill increase                         |
-|           10 | Ability boosts, skill feat, witch feat                                                      |
-|           11 | 6th-level spells, alertness, general feat, skill increase, weapon expertise                 |
-|           12 | Familiar ability, skill feat, witch feat                                                    |
-|           13 | 7th-level spells, ancestry feat, defensive robes, skill increase, weapon specialization     |
-|           14 | Skill feat, witch feat                                                                      |
-|           15 | 8th-level spells, ability boosts, general feat, master spellcaster, skill increase          |
-|           16 | Skill feat, witch feat                                                                      |
-|           17 | 9th-level spells, ancestry feat, resolve, skill increase                                    |
-|           18 | Familiar ability, skill feat, witch feat                                                    |
-|           19 | General feat, legendary spellcaster, patron’s gift, skill increase                          |
-|           20 | Ability boosts, skill feat, witch feat                                                      |
-
-| Your Level                                                                                                                |   Cantrips |   1st | 2nd   | 3rd   | 4th   | 5th   | 6th   | 7th   | 8th   | 9th   | 10th   |
-|:--------------------------------------------------------------------------------------------------------------------------|-----------:|------:|:------|:------|:------|:------|:------|:------|:------|:------|:-------|
-| 1                                                                                                                         |          5 |     2 | —     | —     | —     | —     | —     | —     | —     | —     | —      |
-| 2                                                                                                                         |          5 |     3 | —     | —     | —     | —     | —     | —     | —     | —     | —      |
-| 3                                                                                                                         |          5 |     3 | 2     | —     | —     | —     | —     | —     | —     | —     | —      |
-| 4                                                                                                                         |          5 |     3 | 3     | —     | —     | —     | —     | —     | —     | —     | —      |
-| 5                                                                                                                         |          5 |     3 | 3     | 2     | —     | —     | —     | —     | —     | —     | —      |
-| 6                                                                                                                         |          5 |     3 | 3     | 3     | —     | —     | —     | —     | —     | —     | —      |
-| 7                                                                                                                         |          5 |     3 | 3     | 3     | 2     | —     | —     | —     | —     | —     | —      |
-| 8                                                                                                                         |          5 |     3 | 3     | 3     | 3     | —     | —     | —     | —     | —     | —      |
-| 9                                                                                                                         |          5 |     3 | 3     | 3     | 3     | 2     | —     | —     | —     | —     | —      |
-| 10                                                                                                                        |          5 |     3 | 3     | 3     | 3     | 3     | —     | —     | —     | —     | —      |
-| 11                                                                                                                        |          5 |     3 | 3     | 3     | 3     | 3     | 2     | —     | —     | —     | —      |
-| 12                                                                                                                        |          5 |     3 | 3     | 3     | 3     | 3     | 3     | —     | —     | —     | —      |
-| 13                                                                                                                        |          5 |     3 | 3     | 3     | 3     | 3     | 3     | 2     | —     | —     | —      |
-| 14                                                                                                                        |          5 |     3 | 3     | 3     | 3     | 3     | 3     | 3     | —     | —     | —      |
-| 15                                                                                                                        |          5 |     3 | 3     | 3     | 3     | 3     | 3     | 3     | 2     | —     | —      |
-| 16                                                                                                                        |          5 |     3 | 3     | 3     | 3     | 3     | 3     | 3     | 3     | —     | —      |
-| 17                                                                                                                        |          5 |     3 | 3     | 3     | 3     | 3     | 3     | 3     | 3     | 2     | —      |
-| 18                                                                                                                        |          5 |     3 | 3     | 3     | 3     | 3     | 3     | 3     | 3     | 3     | —      |
-| 19                                                                                                                        |          5 |     3 | 3     | 3     | 3     | 3     | 3     | 3     | 3     | 3     | 1*     |
-| 20                                                                                                                        |          5 |     3 | 3     | 3     | 3     | 3     | 3     | 3     | 3     | 3     | 1*     |
-| * The patron conduit class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. |        nan |   nan | nan   | nan   | nan   | nan   | nan   | nan   | nan   | nan   | nan    |
+You gain these features as a Witch. Abilities gained at higher levels list the levels at which you gain them next to the features' names.| 0 | 1 |
+|:-----------|:--------------------------------------------------------------------------------------------|
+| Your Level | Class Features |
+| 1 | Ancestry and background, initial proficiencies, patron, familiar, witch spellcasting, hexes |
+| 2 | Skill feat, witch feat |
+| 3 | 2nd-level spells, general feat, skill increase |
+| 4 | Skill feat, witch feat |
+| 5 | 3rd-level spells, ability boosts, ancestry feat, magical fortitude, skill increase |
+| 6 | Familiar ability, skill feat, witch feat |
+| 7 | 4th-level spells, expert spellcaster, general feat, skill increase |
+| 8 | Skill feat, witch feat |
+| 9 | 5th-level spells, ancestry feat, lightning reflexes, skill increase |
+| 10 | Ability boosts, skill feat, witch feat |
+| 11 | 6th-level spells, alertness, general feat, skill increase, weapon expertise |
+| 12 | Familiar ability, skill feat, witch feat |
+| 13 | 7th-level spells, ancestry feat, defensive robes, skill increase, weapon specialization |
+| 14 | Skill feat, witch feat |
+| 15 | 8th-level spells, ability boosts, general feat, master spellcaster, skill increase |
+| 16 | Skill feat, witch feat |
+| 17 | 9th-level spells, ancestry feat, resolve, skill increase |
+| 18 | Familiar ability, skill feat, witch feat |
+| 19 | General feat, legendary spellcaster, patron’s gift, skill increase |
+| 20 | Ability boosts, skill feat, witch feat || 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
+|:--------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| Your Level | Cantrips | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th | 10th |
+| 1 | 5 | 2 | — | — | — | — | — | — | — | — | — |
+| 2 | 5 | 3 | — | — | — | — | — | — | — | — | — |
+| 3 | 5 | 3 | 2 | — | — | — | — | — | — | — | — |
+| 4 | 5 | 3 | 3 | — | — | — | — | — | — | — | — |
+| 5 | 5 | 3 | 3 | 2 | — | — | — | — | — | — | — |
+| 6 | 5 | 3 | 3 | 3 | — | — | — | — | — | — | — |
+| 7 | 5 | 3 | 3 | 3 | 2 | — | — | — | — | — | — |
+| 8 | 5 | 3 | 3 | 3 | 3 | — | — | — | — | — | — |
+| 9 | 5 | 3 | 3 | 3 | 3 | 2 | — | — | — | — | — |
+| 10 | 5 | 3 | 3 | 3 | 3 | 3 | — | — | — | — | — |
+| 11 | 5 | 3 | 3 | 3 | 3 | 3 | 2 | — | — | — | — |
+| 12 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | — | — | — | — |
+| 13 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 2 | — | — | — |
+| 14 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | — | — | — |
+| 15 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 2 | — | — |
+| 16 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | — | — |
+| 17 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 2 | — |
+| 18 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | — |
+| 19 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 1* |
+| 20 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 1* |
+| * The patron conduit class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The patron conduit class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The patron conduit class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The patron conduit class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The patron conduit class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The patron conduit class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The patron conduit class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The patron conduit class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The patron conduit class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The patron conduit class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The patron conduit class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The patron conduit class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. |
 
 ## Ancestry and Background
 
@@ -182,7 +181,7 @@ You weren't born with the power to cast spells, nor have you spent years in devo
 Your patron has sent you a familiar, a mystical creature that teaches you and facilitates your spells. This familiar follows the rules here, though as it's a direct conduit between you and your patron, it's more powerful than other familiars. Your familiar gains an extra familiar ability, and gains another extra ability at 6th, 12th, and 18th levels.
  Your familiar is the source and repository of the spells your patron has bestowed upon you, and you must commune with your familiar to prepare your spells each day using your witch spellcasting. Your familiar starts off knowing 10 cantrips, five 1st-level spells, and one additional spell determined by your patron's theme. You choose these spells from the common spells of the tradition determined by your patron or from other spells of that tradition you gain access to.
  Each time you gain a level, your patron teaches your familiar two new spells of any level you can cast, chosen from common spells of your tradition or others you gain access to. Feats can also grant your familiar additional spells.
- Your familiar can learn new spells independently of your patron. It can learn any spell on your tradition's spell list by physically consuming a scroll of that spell in a process that takes 1 hour. You can use the [[Learn a Spell]] exploration activity to prepare a special written version of a spell, which your familiar can consume as if it were a scroll. You and your familiar can use the Learn a Spell activity to teach your familiar a spell from another witch's familiar. Both familiars must be present for the entirety of the activity, the spell must be on your spellcasting tradition's spell list, and you must pay the usual cost for that activity, typically in the form of an offering to the other familiar's patron. You can't prepare spells from another witch's familiar.
+ Your familiar can learn new spells independently of your patron. It can learn any spell on your tradition's spell list by physically consuming a scroll of that spell in a process that takes 1 hour. You can use the [[DATABASE/action/Learn a Spell|Learn a Spell]] exploration activity to prepare a special written version of a spell, which your familiar can consume as if it were a scroll. You and your familiar can use the Learn a Spell activity to teach your familiar a spell from another witch's familiar. Both familiars must be present for the entirety of the activity, the spell must be on your spellcasting tradition's spell list, and you must pay the usual cost for that activity, typically in the form of an offering to the other familiar's patron. You can't prepare spells from another witch's familiar.
  If your familiar dies, your patron replaces it during your next daily preparations. The new familiar might be a duplicate or reincarnation of your former familiar or a new entity altogether, but it knows the same spells your former familiar knew regardless. Your familiar's death doesn't affect any spells you have already prepared.
 
 ## Witch Spellcasting
@@ -205,7 +204,7 @@ Some of your spells are cantrips. A cantrip is a special type of spell that does
 Your patron and familiar teach you special spells called hexes. A hex is a short-term effect drawn directly from your patron's magic. As such, you can cast only one hex each turn; attempts to cast a second hex spell on that turn fail and the spellcasting actions are lost.
  Hexes are a type of focus spell. It costs 1 Focus Point to cast a focus spell, and you start with a focus pool of 1 Focus Point. You refill your focus pool during your daily preparations, and you can regain 1 Focus Point by spending 10 minutes using the Refocus activity to commune with your familiar. Focus spells are automatically heightened to half your level rounded up. 
 Focus spells don't require spell slots, and you can't cast them using spell slots. Certain feats can give you more focus spells and increase the size of your focus pool, though your focus pool can never hold more than 3 Focus Points. The full rules for focus spells appear here. 
-You learn the [[Phase Familiar]] hex, which you can cast as a reaction to protect your familiar from harm. You learn most other hexes from witch lessons.
+You learn the [[DATABASE/spell/Phase Familiar|phase familiar]] hex, which you can cast as a reaction to protect your familiar from harm. You learn most other hexes from witch lessons.
 
 ### Hex Cantrips
 
@@ -278,4 +277,4 @@ You've perfected your command of the magic your patron provides. Your proficienc
 
 ## Patron's Gift<span class="item-type">Level 19</span>
 
-Your patron grants you the power to command incredible works of magic. You gain a single 10th-level spell slot and can prepare a spell in that slot using witch spellcasting. Unlike with other spell slots, these spell slots can't be used for abilities that let you cast spells without expending spell slots or abilities that give you more spell slots. You don't gain more 10th-level spells as you level up, though you can take the [[Patron's Truth]] feat to gain a second slot.
+Your patron grants you the power to command incredible works of magic. You gain a single 10th-level spell slot and can prepare a spell in that slot using witch spellcasting. Unlike with other spell slots, these spell slots can't be used for abilities that let you cast spells without expending spell slots or abilities that give you more spell slots. You don't gain more 10th-level spells as you level up, though you can take the [[DATABASE/feat/Patron's Truth|Patron's Truth]] feat to gain a second slot.

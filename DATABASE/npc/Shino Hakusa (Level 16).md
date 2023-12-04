@@ -73,20 +73,20 @@ wisdom: '+2'
 # Shino Hakusa (Level 16)
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 45
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 45
 **Unspecific Lore**: DC 43
 **Specific Lore**: DC 40
 
 # Shino Hakusa (Level 16)<span class="item-type">Creature 16</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 167. Ready Fight!]]
-Female [[Human]] assassin
+**Source** [[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]
+Female [[DATABASE/ancestry/Human|Tian-Shu]] assassin
 **Perception** +30
-**Languages** [[Common]], [[Goblin]], [[Tien]], [[Ysoki]]
-**Skills** [[Acrobatics]] +32, [[Athletics]] +30, [[Deception]] +26, [[Medicine]] +28, [[Occultism]] +24, [[Stealth]] +28, [[Thievery]] +28
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Goblin|Goblin]], [[DATABASE/language/Tien|Tien]], [[DATABASE/language/Ysoki|Ysoki]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +32, [[DATABASE/skill/Athletics|Athletics]] +30, [[DATABASE/skill/Deception|Deception]] +26, [[DATABASE/skill/Medicine|Medicine]] +28, [[DATABASE/skill/Occultism|Occultism]] +24, [[DATABASE/skill/Stealth|Stealth]] +28, [[DATABASE/skill/Thievery|Thievery]] +28
 **Str** +6, **Dex** +6, **Con** +4, **Int** +1, **Wis** +2, **Cha** +0
-**Items** _+2 [[Striking]] [[Returning]] [[Shuriken]]_, _[[Potion of Flying]]_, _+2 [[Striking]] [[Shock]] [[Handwraps of Mighty Blows]]_, _potion of haste_
+**Items** _+2 [[DATABASE/equipment/Striking|greater striking]] [[DATABASE/equipment/Returning|returning]] [[DATABASE/weapon/Shuriken|shuriken]]_, _[[DATABASE/equipment/Potion of Flying|potion of flying]]_, _+2 [[DATABASE/equipment/Striking|greater striking]] [[DATABASE/equipment/Shock|greater shock]] [[DATABASE/equipment/Handwraps of Mighty Blows|handwraps of mighty blows]]_, _potion of haste_
 
 ---
 **AC** 38; **Fort** +27, **Ref** +31, **Will** +25
@@ -95,8 +95,8 @@ Female [[Human]] assassin
 
 ---
 **Speed** 40 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _fist_ +32 [+28/+24] (agile, finesse, nonlethal, unarmed), **Damage** 3d6+14 bludgeoning plus 1d6 electricity</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _shuriken_ +32 [+28/+24] (agile, reload 0, thrown 20 feet), **Damage** 3d4+14 piercing</span><span class="in-box-ability">**Disorienting Tumble** Hakusa constantly leaps around and over her foes in combat. When she successfully [[Tumble Through]] a creature's space, that creature becomes [[Flat-Footed]] until the end of Hakusa's turn.</span><span class="in-box-ability">**Powerful Fists** Hakusa's fists are treated as [[Cold Iron Weapon]] and [[Silver Weapon]] and don't take penalties when making lethal attacks.</span><span class="in-box-ability">**Pressure Point Attack** <span class="action-icon">2</span> Hakusa makes precise attacks that can debilitate a foe's movements. Hakusa makes a fist Strike. On a hit, the target takes damage as normal and must attempt a DC 38 Fortitude save. Regardless of the result of the save, the target is then temporarily immune to Pressure Point Attacks for 1 minute. 
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _fist_ +32 [+28/+24] (agile, finesse, nonlethal, unarmed), **Damage** 3d6+14 bludgeoning plus 1d6 electricity</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _shuriken_ +32 [+28/+24] (agile, reload 0, thrown 20 feet), **Damage** 3d4+14 piercing</span><span class="in-box-ability">**Disorienting Tumble** Hakusa constantly leaps around and over her foes in combat. When she successfully [[DATABASE/action/Tumble Through|Tumbles Through]] a creature's space, that creature becomes [[DATABASE/condition/Flat-Footed|flat-footed]] until the end of Hakusa's turn.</span><span class="in-box-ability">**Powerful Fists** Hakusa's fists are treated as [[DATABASE/equipment/Cold Iron Weapon|cold iron]] and [[DATABASE/equipment/Silver Weapon|silver]] and don't take penalties when making lethal attacks.</span><span class="in-box-ability">**Pressure Point Attack** <span class="action-icon">2</span> Hakusa makes precise attacks that can debilitate a foe's movements. Hakusa makes a fist Strike. On a hit, the target takes damage as normal and must attempt a DC 38 Fortitude save. Regardless of the result of the save, the target is then temporarily immune to Pressure Point Attacks for 1 minute. 
 **Critical Success** The target is unaffected. 
-**Success** The target's muscles become temporarily weaker. For 1 round, the target is [[Enfeebled]] and must succeed at a DC 5 flat check when attempting to use actions with the manipulate trait or the action is lost. 
+**Success** The target's muscles become temporarily weaker. For 1 round, the target is [[DATABASE/condition/Enfeebled|enfeebled 2]] and must succeed at a DC 5 flat check when attempting to use actions with the manipulate trait or the action is lost. 
 **Failure** As success, but the duration is 1 minute. 
-**Critical Failure** As success, but the duration is 1 minute, the flat check is DC 11, and the target also takes –10-foot status penalty to their Speed for the duration.</span><span class="in-box-ability">**[[Sneak Attack]]** Hakusa's Strikes deal an additional 4d6 precision damage to [[Flat-Footed]] creatures.</span>
+**Critical Failure** As success, but the duration is 1 minute, the flat check is DC 11, and the target also takes –10-foot status penalty to their Speed for the duration.</span><span class="in-box-ability">**[[DATABASE/monsterability/Sneak Attack|Sneak Attack]]** Hakusa's Strikes deal an additional 4d6 precision damage to [[DATABASE/condition/Flat-Footed|flat-footed]] creatures.</span>

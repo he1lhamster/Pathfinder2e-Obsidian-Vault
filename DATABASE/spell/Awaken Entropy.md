@@ -22,6 +22,7 @@ patron_theme: null
 range: 120 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: basicFortitude
 school: Necromancy
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
@@ -39,7 +40,7 @@ type: Spell
 # Awaken Entropy<span class="item-type">Spell 6</span>
 
 <span class="item-trait">Necromancy</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Traditions** arcane, divine, occult
 **Cast** <span class="action-icon">3</span> material, somatic, verbal
 **Range** 120 feet; **Area** 10-foot burst

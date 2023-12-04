@@ -11,6 +11,7 @@ name: Snow May
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -24,20 +25,20 @@ type: Feat
 # Snow May <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Changeling</span><span class="item-trait">Lineage</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-You're the child of a winter hag, with one blue-white eye and an affinity for rime and snow. When moving over ice or snow in arctic terrain, you always gain the benefits of the [[Cover Tracks]] action without needing to use the activity or having to move half your Speed. You don't treat icy terrain as uneven ground (though it's still difficult terrain for you), and you ignore difficult terrain caused by snow. Cold precipitation and environmental cold effects don't alter the time it takes for you to become fatigued.
+You're the child of a winter hag, with one blue-white eye and an affinity for rime and snow. When moving over ice or snow in arctic terrain, you always gain the benefits of the [[DATABASE/action/Cover Tracks|Cover Tracks]] action without needing to use the activity or having to move half your Speed. You don't treat icy terrain as uneven ground (though it's still difficult terrain for you), and you ignore difficult terrain caused by snow. Cold precipitation and environmental cold effects don't alter the time it takes for you to become fatigued.
 
 ## Snow May Leads To...
 
-[[Invoke the Elements]]
+[[DATABASE/feat/Invoke the Elements|Invoke the Elements]]
 
 ## Traits
 
 **Changeling:**
 
-A creature with this trait has the changeling versatile heritage. Changelings are the children of [[Hag]] and members of other humanoid ancestries. An ability with this trait can be used or selected only by changelings.
+A creature with this trait has the changeling versatile heritage. Changelings are the children of [[DATABASE/monsterfamily/Hag|hags]] and members of other humanoid ancestries. An ability with this trait can be used or selected only by changelings.
 
 **Lineage:**
 

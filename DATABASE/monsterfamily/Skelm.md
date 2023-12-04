@@ -3,6 +3,7 @@ creature_family: Skelm
 id: '260'
 name: Skelm
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 trait: null
 type: Creature Family
@@ -10,18 +11,18 @@ type: Creature Family
 ---
 # Skelm
 
-**Source** [[Bestiary 3]]
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
 Rage-filled skelms are drawn to any settlement with more than a few hundred souls. Using magical disguises and leveraging societal norms to their benefit, these antlered monsters crave fearful respect and brutally punish any who dare disagree with their lofty opinions, even in the slightest degree. Although quite dangerous on their own, skelms are at their deadliest when leading an angry mob. Their cruel and exploitative nature has made their name synonymous with villainy.
  An existing skelm can transform any evil humanoid who's overwhelmed with rage into one of their kind. Skelms heap enraging humiliation on potential new brothers as a form of indoctrination, convincing these recruits that some other person or group is responsible for their misery. This practice ensures skelms begin their new existence with sufficient vitriol to plot their revenge.
  Many newly forged skelms carry on their lives in the roles they held as mortals; and in fact, these roles often shape the type of skelm they become. Skelms can arise among members of nearly any ancestry, though they're more common among cultures with deeply entrenched gender roles, unjust hierarchies, and those that don't offer healthy ways to experience and process anger.
 
 ### Members
 
-[[Palace Skelm]] (Creature 8), [[Shrine Skelm]] (Creature 5), [[Soul Skelm]] (Creature 10), [[Street Skelm]] (Creature 3)
+[[DATABASE/monster/Palace Skelm|Palace Skelm]] (Creature 8), [[DATABASE/monster/Shrine Skelm|Shrine Skelm]] (Creature 5), [[DATABASE/monster/Soul Skelm|Soul Skelm]] (Creature 10), [[DATABASE/monster/Street Skelm|Street Skelm]] (Creature 3)
 
 ###  Mockeries of Masculinity
 
-Skelm women don't appear to exist. The few researchers who have tracked skelm mating behavior have found skelms' offspring are undifferentiated members of the mother's ancestry. The fact that skelms are cruelly manipulative shapeshifters, but all male, has led to the theory that skelms are the mystical male counterpart to [[Hag]].
+Skelm women don't appear to exist. The few researchers who have tracked skelm mating behavior have found skelms' offspring are undifferentiated members of the mother's ancestry. The fact that skelms are cruelly manipulative shapeshifters, but all male, has led to the theory that skelms are the mystical male counterpart to [[DATABASE/monsterfamily/Hag|hags]].
 
 ###  Skelm Antlers
 

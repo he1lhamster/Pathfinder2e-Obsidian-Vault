@@ -11,6 +11,7 @@ name: General Training
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # General Training <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Human</span>
-**Source** [[Core Rulebook]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
 Your adaptability manifests in your mastery of a range of useful abilities. You gain a 1st-level general feat. You must meet the feat's prerequisites, but if you select this feat during character creation, you can select the feat later in the process in order to determine which prerequisites you meet.
@@ -33,4 +34,4 @@ Your adaptability manifests in your mastery of a range of useful abilities. You 
 
 **Human:**
 
-A creature with this trait is a member of the [[Human]] ancestry. Humans are a diverse array of people known for their adaptability. An ability with this trait can be used or selected only by humans.
+A creature with this trait is a member of the [[DATABASE/ancestry/Human|human]] ancestry. Humans are a diverse array of people known for their adaptability. An ability with this trait can be used or selected only by humans.

@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -50,7 +51,7 @@ weapon_type: null
 ---
 # Cold Iron Shield<span class="item-type">Item 2+</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** varies by shield; **Bulk** —
 
 ---
@@ -58,11 +59,11 @@ Cold iron shields don’t typically have an additional effect, though when used 
 
 ### Base Material
 
-[[Cold Iron]]
+[[DATABASE/equipment/Cold Iron|Cold Iron]]
 
 ## Cold Iron Buckler (Low-Grade)<span class="item-type">Item 2</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 30 gp
 **Bulk** L
 The shield has Hardness 3, HP 12, and BT 6.
@@ -70,7 +71,7 @@ The shield has Hardness 3, HP 12, and BT 6.
 
 ## Cold Iron Shield (Low-Grade)<span class="item-type">Item 2</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 34 gp
 **Bulk** 1
 The shield has Hardness 5, HP 20, and BT 10.
@@ -78,7 +79,7 @@ The shield has Hardness 5, HP 20, and BT 10.
 
 ## Cold Iron Buckler (Standard-Grade)<span class="item-type">Item 7</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 300 gp
 **Bulk** L
 The shield has Hardness 5, HP 20, and BT 10.
@@ -86,7 +87,7 @@ The shield has Hardness 5, HP 20, and BT 10.
 
 ## Cold Iron Shield (Standard-Grade)<span class="item-type">Item 7</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 340 gp
 **Bulk** 1
 The shield has Hardness 7, HP 28, and BT 14.
@@ -94,7 +95,7 @@ The shield has Hardness 7, HP 28, and BT 14.
 
 ## Cold Iron Buckler (High-Grade)<span class="item-type">Item 15</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 5,000 gp
 **Bulk** L
 The shield has Hardness 8, HP 32, and BT 16.
@@ -102,7 +103,7 @@ The shield has Hardness 8, HP 32, and BT 16.
 
 ## Cold Iron Shield (High-Grade)<span class="item-type">Item 15</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 5,500 gp
 **Bulk** 1
 The shield has Hardness 10, HP 40, and BT 20.

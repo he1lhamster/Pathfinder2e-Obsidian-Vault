@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Snowshoes of the Long Trek<span class="item-type">Item 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Magical</span><span class="item-trait">Transmutation</span>
-**Source** [[PFS Guide]]
+**Source** [[DATABASE/source/PFS Guide|PFS Guide]]
 **Price** 550 gp
 **Usage** worn; **Bulk** —
 

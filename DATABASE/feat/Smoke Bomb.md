@@ -11,6 +11,7 @@ name: Smoke Bomb
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -25,7 +26,7 @@ type: Feat
 # Smoke Bomb <span class="action-icon">4</span> <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Additive 1</span><span class="item-trait">Alchemist</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Frequency** once per round
 **Trigger** You use Quick Alchemy to craft an alchemical bomb with a level at least 1 lower than your advanced alchemy level.
 
@@ -36,4 +37,4 @@ You cause the bomb to create a cloud of thick smoke, in addition to its normal e
 
 **Additive 1:**
 
-Feats with the additive trait allow you to spend actions to add special substances to bombs or elixirs. You can add only one additive to a single alchemical item, and attempting to add another spoils the item. You can typically use actions with the additive trait only when you're creating an infused alchemical item, and some can be used only with the [[Quick Alchemy]] action. The additive trait is always followed by a level, such as additive 2. An additive adds its level to the level of the alchemical item you're modifying; the result is the new level of the mixture. The mixture's item level must be no higher than your advanced alchemy level.
+Feats with the additive trait allow you to spend actions to add special substances to bombs or elixirs. You can add only one additive to a single alchemical item, and attempting to add another spoils the item. You can typically use actions with the additive trait only when you're creating an infused alchemical item, and some can be used only with the [[DATABASE/feat/Quick Alchemy|Quick Alchemy]] action. The additive trait is always followed by a level, such as additive 2. An additive adds its level to the level of the alchemical item you're modifying; the result is the new level of the mixture. The mixture's item level must be no higher than your advanced alchemy level.

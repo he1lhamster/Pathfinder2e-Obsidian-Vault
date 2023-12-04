@@ -3,6 +3,7 @@ creature_family: Elemental, Fire
 id: '43'
 name: Elemental, Fire
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Elemental, Fire
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Fire elementals are destructive manifestations of the scorching Plane of Fire.
 
 ### Members
 
-[[Cinder Rat]] (Creature 3), [[Elemental Inferno]] (Creature 11), [[Ember Fox]] (Creature 2), [[Filth Fire]] (Creature 4), [[Firewyrm]] (Creature 9), [[Lava Otter]] (Creature 1), [[Living Magma]] (Creature 13), [[Living Wildfire]] (Creature 5), [[Magma Scorpion]] (Creature 8), [[Salamander]] (Creature 7), [[Solar Crow]] (Creature 10), [[Striding Fire]] (Creature 6)
+[[DATABASE/monster/Cinder Rat|Cinder Rat]] (Creature 3), [[DATABASE/monster/Elemental Inferno|Elemental Inferno]] (Creature 11), [[DATABASE/monster/Ember Fox|Ember Fox]] (Creature 2), [[DATABASE/monster/Filth Fire|Filth Fire]] (Creature 4), [[DATABASE/monster/Firewyrm|Firewyrm]] (Creature 9), [[DATABASE/monster/Lava Otter|Lava Otter]] (Creature 1), [[DATABASE/monster/Living Magma|Living Magma]] (Creature 13), [[DATABASE/monster/Living Wildfire|Living Wildfire]] (Creature 5), [[DATABASE/monster/Magma Scorpion|Magma Scorpion]] (Creature 8), [[DATABASE/monster/Salamander|Salamander]] (Creature 7), [[DATABASE/monster/Solar Crow|Solar Crow]] (Creature 10), [[DATABASE/monster/Striding Fire|Striding Fire]] (Creature 6)
 
 ###  "Civilized" Elementals
 
@@ -23,7 +24,7 @@ Some elementals, such as invisible stalkers, xorns, and salamanders, have specif
 
 ###  Diverse Elementals
 
-The Elemental Planes are more than expanses of sky, rock, fire, and ocean. Clouds of fog, dust, and storms float through the [[Plane of Air]]. The [[Plane of Earth]] includes verdant groves, shining metal and crystal, and irradiated wastelands. The [[Plane of Fire]] features magma, suffocating smoke, and radiant firelight. Amid the endless sea of the [[Plane of Water]] are pockets of ooze and brine, plus the otherworldly environs of the deep.
+The Elemental Planes are more than expanses of sky, rock, fire, and ocean. Clouds of fog, dust, and storms float through the [[DATABASE/plane/Plane of Air|Plane of Air]]. The [[DATABASE/plane/Plane of Earth|Plane of Earth]] includes verdant groves, shining metal and crystal, and irradiated wastelands. The [[DATABASE/plane/Plane of Fire|Plane of Fire]] features magma, suffocating smoke, and radiant firelight. Amid the endless sea of the [[DATABASE/plane/Plane of Water|Plane of Water]] are pockets of ooze and brine, plus the otherworldly environs of the deep.
 
 ###  Elemental Alignments
 
@@ -67,5 +68,5 @@ The most well known of all elementals are the primal elementals, creatures compo
 
 ## Elemental
 
-**Related Groups** [[Elemental, Air]], [[Elemental, Earth]], [[Elemental, Mephit]], [[Elemental, Metal]], [[Elemental, Water]], [[Elemental, Wisp]], [[Elemental, Wood]]
+**Related Groups** [[DATABASE/monsterfamily/Elemental, Air|Elemental, Air]], [[DATABASE/monsterfamily/Elemental, Earth|Elemental, Earth]], [[DATABASE/monsterfamily/Elemental, Mephit|Elemental, Mephit]], [[DATABASE/monsterfamily/Elemental, Metal|Elemental, Metal]], [[DATABASE/monsterfamily/Elemental, Water|Elemental, Water]], [[DATABASE/monsterfamily/Elemental, Wisp|Elemental, Wisp]], [[DATABASE/monsterfamily/Elemental, Wood|Elemental, Wood]]
 The Elemental Planes—primordial realms defined by aspects of air, earth, fire, or water—are home to a diverse group of beings known as elementals. Spellcasters on the Material Plane call upon elementals for aid, though these enigmatic creatures can also travel to the world of mortals via interplanar gateways and rifts. The elementals on these pages exemplify the creatures of the Elemental Planes, but this list is by no means exhaustive.

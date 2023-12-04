@@ -2,6 +2,7 @@
 id: '72'
 name: No-Prep Character. Lisavet
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -15,4 +16,4 @@ type: Source
 
 ## NPCs [1]
 
-[[Lisavet, Well-Read Acolyte]]
+[[DATABASE/npc/Lisavet, Well-Read Acolyte|Lisavet]]

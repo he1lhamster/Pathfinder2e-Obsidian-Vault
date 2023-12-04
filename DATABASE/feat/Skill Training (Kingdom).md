@@ -11,6 +11,7 @@ name: Skill Training (Kingdom)
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Skill Training (Kingdom) <span class="item-type">Feat 1</span>
 
 <span class="item-trait">General</span><span class="item-trait">Kingdom</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 
 ---
 Your kingdom receives the trained proficiency rank in a Kingdom skill of your choice. You can select this feat multiple times, choosing a new skill each time

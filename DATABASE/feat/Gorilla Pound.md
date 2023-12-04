@@ -12,6 +12,7 @@ prerequisite: Expert in [[DATABASE/skill/Intimidation|Intimidation]] ; [[DATABAS
   Stance|Gorilla Stance]]
 rarity: Common
 requirement: You are in Gorilla Stance.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -27,14 +28,14 @@ type: Feat
 # Gorilla Pound <span class="action-icon">1</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Emotion</span><span class="item-trait">Flourish</span><span class="item-trait">Mental</span><span class="item-trait">Monk</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Martial Artist]]*
-**Prerequisites** expert in [[Intimidation]]; [[Gorilla Stance]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Martial Artist|Martial Artist]]*
+**Prerequisites** expert in [[DATABASE/skill/Intimidation|Intimidation]]; [[DATABASE/feat/Gorilla Stance|Gorilla Stance]]
 **Requirements** You are in Gorilla Stance.
 * This archetype offers Gorilla Pound at a different level than displayed here.
 
 ---
-You pound your chest before slamming into your foes. Attempt an [[Intimidation]] check to [[Demoralize]], then make one gorilla slam Strike against the same target. If your Strike hits, you gain a circumstance bonus to the damage roll equal to triple the value of the target's [[Frightened]] condition.
+You pound your chest before slamming into your foes. Attempt an [[DATABASE/skill/Intimidation|Intimidation]] check to [[DATABASE/action/Demoralize|Demoralize]], then make one gorilla slam Strike against the same target. If your Strike hits, you gain a circumstance bonus to the damage roll equal to triple the value of the target's [[DATABASE/condition/Frightened|frightened]] condition.
 **Special** If you have this feat, while you are in Gorilla Stance, you gain a climb Speed of 15 feet.
 
 ## Archetype Use

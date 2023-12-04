@@ -27,6 +27,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -44,9 +45,9 @@ type: Spell
 # Jump<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Move</span><span class="item-trait">Transmutation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, primal
-**Deities** [[Gogunta]], [[Irori]], [[Jin Li]], [[Kabriri]], [[Sun Wukong]], [[The Divine Dare]]
+**Deities** [[DATABASE/deity/Gogunta|Gogunta]], [[DATABASE/deity/Irori|Irori]], [[DATABASE/deity/Jin Li|Jin Li]], [[DATABASE/deity/Kabriri|Kabriri]], [[DATABASE/deity/Sun Wukong|Sun Wukong]], [[DATABASE/deity/The Divine Dare|The Divine Dare]]
 **Cast** <span class="action-icon">1</span> somatic
 
 ---

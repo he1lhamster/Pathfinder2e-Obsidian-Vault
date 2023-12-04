@@ -11,6 +11,7 @@ name: Bespell Weapon
 prerequisite: null
 rarity: Common
 requirement: Your most recent action was to cast a non-cantrip spell.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,7 +26,7 @@ type: Feat
 # Bespell Weapon <span class="action-icon">4</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Oracle</span><span class="item-trait">Sorcerer</span><span class="item-trait">Wizard</span>
-**Source** [[Advanced Player's Guide]] , [[Core Rulebook]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] , [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Frequency** once per turn
 **Requirements** Your most recent action was to cast a non-cantrip spell.
 

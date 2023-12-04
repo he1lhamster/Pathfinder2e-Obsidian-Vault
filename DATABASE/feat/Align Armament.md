@@ -11,6 +11,7 @@ name: Align Armament
 prerequisite: chaotic, evil, good, or lawful deity
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -25,7 +26,7 @@ type: Feat
 # Align Armament <span class="action-icon">1</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Cleric</span><span class="item-trait">Divine</span><span class="item-trait">Evocation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Frequency** once per round
 **Prerequisites** chaotic, evil, good, or lawful deity
 
@@ -36,7 +37,7 @@ You bring a weapon into metaphysical concordance with your deity’s beliefs. Wh
 
 ## Align Armament Leads To...
 
-[[Extend Armament Alignment]]
+[[DATABASE/feat/Extend Armament Alignment|Extend Armament Alignment]]
 
 ## Traits
 

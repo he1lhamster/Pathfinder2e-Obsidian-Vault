@@ -11,6 +11,7 @@ name: Miraculous Intervention
 prerequisite: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
 subcategory: null
@@ -26,7 +27,7 @@ type: Feat
 # Miraculous Intervention <span class="action-icon">5</span> <span class="item-type">Feat 12</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Champion</span><span class="item-trait">Cleric</span>
-**Source** [[Knights of Lastwall]]
+**Source** [[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]
 **Access** Knights of Lastwall have access to this feat.
 **Trigger** An adjacent fiend or undead begins to use a reaction.
 
@@ -37,4 +38,4 @@ Through divine intervention or whispered prayers, you foil an enemy's response. 
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.

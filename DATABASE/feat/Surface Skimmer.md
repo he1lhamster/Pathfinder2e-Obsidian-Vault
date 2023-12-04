@@ -11,6 +11,7 @@ name: Surface Skimmer
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Absalom, City of Lost Omens|Absalom, City of Lost Omens]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Surface Skimmer <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Azarketi</span>
-**Source** [[Absalom, City of Lost Omens]], [[Azarketi Ancestry Web Supplement]]
+**Source** [[DATABASE/source/Absalom, City of Lost Omens|Absalom, City of Lost Omens]], [[DATABASE/source/Azarketi Ancestry Web Supplement|Azarketi Ancestry Web Supplement]]
 
 ---
 By sinking gently beneath the waves, you obscure your presence and utilize the water as a barrier between you and land combatants. While you are submerged just below the water's surface, you have cover from attacks made by creatures out of the water.

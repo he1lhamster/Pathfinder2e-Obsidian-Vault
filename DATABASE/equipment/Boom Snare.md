@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -56,10 +57,10 @@ weapon_type: null
 # Boom Snare<span class="item-type">Item 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Consumable</span><span class="item-trait">Mechanical</span><span class="item-trait">Snare</span><span class="item-trait">Trap</span>
-**Source** [[Pathfinder Special. Fumbus]]
+**Source** [[DATABASE/source/Pathfinder Special. Fumbus|Pathfinder Special: Fumbus]]
 **Price** 18 gp
 **Bulk** —
 
 ---
-By combining a [[Alchemist's Fire]], a [[Thunderstone]], and other catalysts with a pressure sensitive trigger, you create a snare that creates a fiery and thunderous explosion when triggered. The target and all creatures in adjacent squares take 2d6 fire damage and 2d6 sonic damage with a basic DC 19 Reflex save. On a failure, they are deafened for 1d4 rounds and take 1d4 persistent fire damage.
-**Craft Requirements** Supply a [[Alchemist's Fire]] and a [[Thunderstone]].
+By combining a [[DATABASE/equipment/Alchemist's Fire|lesser alchemist's fire]], a [[DATABASE/equipment/Thunderstone| lesser thunderstone]], and other catalysts with a pressure sensitive trigger, you create a snare that creates a fiery and thunderous explosion when triggered. The target and all creatures in adjacent squares take 2d6 fire damage and 2d6 sonic damage with a basic DC 19 Reflex save. On a failure, they are deafened for 1d4 rounds and take 1d4 persistent fire damage.
+**Craft Requirements** Supply a [[DATABASE/equipment/Alchemist's Fire|lesser alchemist's fire]] and a [[DATABASE/equipment/Thunderstone| lesser thunderstone]].

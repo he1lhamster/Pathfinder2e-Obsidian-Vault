@@ -78,16 +78,16 @@ wisdom: '+2'
 
 Triceratopses are muscular quadrupeds with powerful but short legs, thick necks, and heads crowned by a wide, bony frill. Though they bear a large horn on their snout and one on each brow, these dinosaurs are herbivores and use these bony protrusions only to defend themselves from attackers or in dramatic clashes against other triceratopses for grazing territory or mates. Short-tempered and obstinate, triceratopses are unlikely to back down from a fight unless they are hopelessly outmatched, and the creatures are known to fight to the death for no apparent reason beyond stubbornness. Triceratopses often serve as mounts for lizardfolk, orcs, and giants, who ride comfortably behind the dinosaurs’ protective bone frills. A triceratops is 30 feet long and weighs as much as 10 tons.
  Triceratopses are surely the most well-known of the dinosaurs known as ceratopids, but many others exist. For example, the smaller styracosauruses have only one horn but several horn-like protrusions on their frills.
-**Recall Knowledge - Animal ([[Nature]])**: DC 24
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 24
 **Unspecific Lore**: DC 22
 **Specific Lore**: DC 19
 
 # Triceratops<span class="item-type">Creature 8</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Huge</span><span class="item-trait">Animal</span><span class="item-trait">Dinosaur</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +16; low-light vision, scent (imprecise) 30 feet
-**Skills** [[Athletics]] +21
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +21
 **Str** +7, **Dex** +0, **Con** +4, **Int** -4, **Wis** +2, **Cha** -1
 
 ---
@@ -97,4 +97,4 @@ Triceratopses are muscular quadrupeds with powerful but short legs, thick necks,
 
 ---
 **Speed** 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> horns +19 [+14/+9] (reach 15 feet), **Damage** 2d8+9 piercing plus Knockdown</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> foot +19 [+14/+9] (reach 10 feet), **Damage** 2d6+9 bludgeoning</span><span class="in-box-ability">**Lumbering Charge** <span class="action-icon">1</span> The triceratops Strides up to 10 feet and then makes a Strike.</span><span class="in-box-ability">**[[Trample]]** <span class="action-icon">3</span> Large or smaller, foot, DC 26</span><span class="in-box-ability">**Vicious Gore** A triceratops deals 2d6 extra persistent bleed damage to prone targets it hits with its horns.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> horns +19 [+14/+9] (reach 15 feet), **Damage** 2d8+9 piercing plus Knockdown</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> foot +19 [+14/+9] (reach 10 feet), **Damage** 2d6+9 bludgeoning</span><span class="in-box-ability">**Lumbering Charge** <span class="action-icon">1</span> The triceratops Strides up to 10 feet and then makes a Strike.</span><span class="in-box-ability">**[[DATABASE/monsterability/Trample|Trample]]** <span class="action-icon">3</span> Large or smaller, foot, DC 26</span><span class="in-box-ability">**Vicious Gore** A triceratops deals 2d6 extra persistent bleed damage to prone targets it hits with its horns.</span>

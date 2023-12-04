@@ -12,6 +12,7 @@ name: Barricade Buster
 price: 9 gp
 range: 40 ft.
 rarity: Uncommon
+rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
 - '[[DATABASE/trait/Kickback|Kickback]]'
@@ -29,14 +30,14 @@ weapon_type: Ranged
 # Barricade Buster<span class="item-type">Item 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Kickback</span><span class="item-trait">Orc</span><span class="item-trait">Razing</span><span class="item-trait">Repeating</span><span class="item-trait">Volley 20 ft.</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 9 gp; **Damage** 1d10 B; **Bulk** 3
 **Hands** 2; **Range** 40 ft.; **Reload** 0
-**Type** Ranged; **Category** Advanced; **Group** [[Firearm]]
-**Ammunition** [[8-Round Magazine]]
+**Type** Ranged; **Category** Advanced; **Group** [[DATABASE/weapongroup/Firearm|Firearm]]
+**Ammunition** [[DATABASE/weapon/8-Round Magazine|8-Round Magazine]]
 
 ---
-Developed by a [[Half-Orc]] inventor from Alkenstar who brought the technology north to battle the Whispering Tyrant alongside the [[Orc]] hordes of Belkzen, the barricade buster features eight barrels fixed around a central pivot attached to a handle and firing mechanism. A barricade buster fires spheres of metal with extreme velocity and very little accuracy.
+Developed by a [[DATABASE/ancestry/Half-Orc|half-orc]] inventor from Alkenstar who brought the technology north to battle the Whispering Tyrant alongside the [[DATABASE/ancestry/Orc|orc]] hordes of Belkzen, the barricade buster features eight barrels fixed around a central pivot attached to a handle and firing mechanism. A barricade buster fires spheres of metal with extreme velocity and very little accuracy.
 
 ## Traits
 
@@ -46,11 +47,11 @@ A kickback weapon is extra powerful and difficult to use due to its high recoil.
 
 **Orc:**
 
-A creature with this trait is a member of the [[Orc]] ancestry. These green-skinned people tend to have darkvision. An ability with this trait can be used or selected only by orcs. An item with this trait is created and used by orcs.
+A creature with this trait is a member of the [[DATABASE/ancestry/Orc|orc]] ancestry. These green-skinned people tend to have darkvision. An ability with this trait can be used or selected only by orcs. An item with this trait is created and used by orcs.
 
 **Razing:**
 
-Razing weapons are particularly good at damaging objects, structures, and vehicles. Whenever you deal damage to an object (including shields and [[Animated Object]]), structure, or vehicle with a razing weapon, the object takes an amount of additional damage equal to double the number of weapon damage dice.
+Razing weapons are particularly good at damaging objects, structures, and vehicles. Whenever you deal damage to an object (including shields and [[DATABASE/monsterfamily/Animated Object|animated objects]]), structure, or vehicle with a razing weapon, the object takes an amount of additional damage equal to double the number of weapon damage dice.
 
 **Repeating:**
 
@@ -58,7 +59,7 @@ A repeating weapon is a type of ranged weapon with a shorter reload time. These 
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.
 
 **Volley 20 ft.:**
 
@@ -66,6 +67,6 @@ This ranged weapon is less effective at close distances. Your attacks against ta
 
 ## Critical Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
-**Firearm**: The target must succeed at a Fortitude save against your class DC or be [[Stunned]].
+**Firearm**: The target must succeed at a Fortitude save against your class DC or be [[DATABASE/condition/Stunned|stunned 1]].

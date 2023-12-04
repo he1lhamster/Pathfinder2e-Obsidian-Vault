@@ -22,6 +22,7 @@ patron_theme: null
 range: planetary
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -40,9 +41,9 @@ type: Spell
 # Dream Council<span class="item-type">Spell 8</span>
 
 <span class="item-trait">Illusion</span><span class="item-trait">Mental</span><span class="item-trait">Sleep</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult
-**Deity** [[Nyarlathotep]]
+**Deity** [[DATABASE/deity/Nyarlathotep|Nyarlathotep (The Crawling Chaos)]]
 **Cast** 10 minutes (somatic, verbal)
 **Range** planetary; **Targets** up to 12 creatures you know by name and have met in person
 **Duration** 1 hour

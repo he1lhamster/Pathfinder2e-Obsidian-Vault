@@ -11,6 +11,7 @@ name: Share Burden
 prerequisite: '[[DATABASE/feat/Curse Maelstrom Dedication|Curse Maelstrom Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -25,9 +26,9 @@ type: Feat
 # Share Burden <span class="action-icon">5</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Dark Archive]]
-**Archetype** [[Curse Maelstrom]]
-**Prerequisites** [[Curse Maelstrom Dedication]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Archetype** [[DATABASE/archetype/Curse Maelstrom|Curse Maelstrom]]
+**Prerequisites** [[DATABASE/feat/Curse Maelstrom Dedication|Curse Maelstrom Dedication]]
 **Trigger** An ally within 60 feet would be affected by a curse or misfortune effect, and you wouldn't be affected but you are an eligible target for the effect.
 
 ---

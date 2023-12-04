@@ -69,20 +69,20 @@ wisdom: '+4'
 # Centaur Scout
 
 This creature did not include a description.
-**Recall Knowledge - Beast ([[Arcana]], [[Nature]])**: DC 25
+**Recall Knowledge - Beast ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 25
 **Unspecific Lore**: DC 23
 **Specific Lore**: DC 20
 
 # Centaur Scout<span class="item-type">Creature 5</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Beast</span>
-**Source** [[Kingmaker Adventure Path]]
-Variant [[Centaur]]
-**Perception** +13; [[Darkvision]]
-**Languages** [[Common]], [[Elven]], [[Sylvan]]
-**Skills** [[Athletics]] +12, [[Diplomacy]] +8, [[Intimidation]] +12, [[Nature]] +11, [[Survival]] +13
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
+Variant [[DATABASE/monster/Centaur|centaur]]
+**Perception** +13; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Elven|Elven]], [[DATABASE/language/Sylvan|Sylvan]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +12, [[DATABASE/skill/Diplomacy|Diplomacy]] +8, [[DATABASE/skill/Intimidation|Intimidation]] +12, [[DATABASE/skill/Nature|Nature]] +11, [[DATABASE/skill/Survival|Survival]] +13
 **Str** +5, **Dex** +3, **Con** +2, **Int** +0, **Wis** +4, **Cha** +1
-**Items** [[Leather Armor]], [[Spear]]
+**Items** [[DATABASE/armor/Leather Armor|leather armor]], [[DATABASE/weapon/Spear|spear]]
 
 ---
 **AC** 22; **Fort** +11, **Ref** +12, **Will** +15
@@ -90,4 +90,4 @@ Variant [[Centaur]]
 
 ---
 **Speed** 40 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> spear +14 [+9/+4], **Damage** 1d6+8 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> hoof +14 [+10/+6] (agile), **Damage** 1d10+8 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> spear +12 [+7/+2] (thrown 20 feet), **Damage** 1d6+8 piercing</span><span class="in-box-ability">**[[Trample]]** <span class="action-icon">3</span> Medium or smaller, hoof, DC 22</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> spear +14 [+9/+4], **Damage** 1d6+8 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> hoof +14 [+10/+6] (agile), **Damage** 1d10+8 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> spear +12 [+7/+2] (thrown 20 feet), **Damage** 1d6+8 piercing</span><span class="in-box-ability">**[[DATABASE/monsterability/Trample|Trample]]** <span class="action-icon">3</span> Medium or smaller, hoof, DC 22</span>

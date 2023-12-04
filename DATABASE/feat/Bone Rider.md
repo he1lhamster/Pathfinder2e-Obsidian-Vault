@@ -11,6 +11,7 @@ name: Bone Rider
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Bone Rider <span class="item-type">Feat 17</span>
 
 <span class="item-trait">Lizardfolk</span>
-**Source** [[The Mwangi Expanse]]
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]
 
 ---
-Using your ancestors' bones, you manifest their spirits around you in a fossilized form, terrifying your foes. You can cast [[Mask of Terror]] on yourself as a primal innate spell once per day. When you do, you appear as a skeletal lizardfolk ancestor, twisted in a way that inspires the deepest fears of those who observe you.
+Using your ancestors' bones, you manifest their spirits around you in a fossilized form, terrifying your foes. You can cast [[DATABASE/spell/Mask of Terror|mask of terror]] on yourself as a primal innate spell once per day. When you do, you appear as a skeletal lizardfolk ancestor, twisted in a way that inspires the deepest fears of those who observe you.
 
 ## Traits
 

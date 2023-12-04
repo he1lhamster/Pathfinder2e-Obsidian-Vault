@@ -27,6 +27,7 @@ follower_alignment:
 id: '235'
 name: Dajermube
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]]'
 source: '[[DATABASE/source/Pathfinder 172. Secrets of the Temple City|Pathfinder #172:
@@ -37,7 +38,7 @@ type: Deity
 ---
 # Dajermube (The Sun Goddess of Eclipses) [CG]
 
-**Source** [[Pathfinder 172. Secrets of the Temple City]]
+**Source** [[DATABASE/source/Pathfinder 172. Secrets of the Temple City|Pathfinder #172: Secrets of the Temple City]]
 Also known as the Holder of Unquenchable Light, Dajermube is the Lioness Goddess of shadows, journeys, and self-realization. She encourages others to venture into the world to achieve their goals. Sometimes these goals are met, and sometimes not, but Dajermube teaches that the act of trying is just as important as completing a goal. She also teaches that darkness and shadow are not to be feared, as shadows are companions to light. Embracing both light and darkness is important, and Dajermube teaches that using all of one's available resources is more important than focusing on just the one that's most comfortable. 
 Dajermube resembles a Mwangi woman casting a striking shadow. The shadow resembles that of a lioness instead of a human, and parts of her body change to resemble those of a lion while cast in shadow. Her religious symbol depicts the moon crossing in front of the sun during a solar eclipse.
 **Category** Old Sun Gods
@@ -48,10 +49,10 @@ Dajermube resembles a Mwangi woman casting a striking shadow. The shadow resembl
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Strength or Wisdom
-**Divine Font** _[[Harm]]_ or _[[Heal]]_
-**Divine Skill** [[Athletics]]
-**Favored Weapon** [[Greatpick]]
-**Domains** [[Ambition Domain]], [[Freedom Domain]], [[Moon Domain]], [[Sun Domain]]
-**Alternate Domains** [[Cities Domain]], [[Star Domain]], [[Zeal Domain]]
-**Cleric Spells** 1st: _[[Grim Tendrils]]_, 2nd: _[[Penumbral Disguise]]_, 5th: _[[Shadow Siphon]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Strength or Wisdom
+**Divine Font** _[[DATABASE/spell/Harm|harm]]_ or _[[DATABASE/spell/Heal|heal]]_
+**Divine Skill** [[DATABASE/skill/Athletics|Athletics]]
+**Favored Weapon** [[DATABASE/weapon/Greatpick|greatpick]]
+**Domains** [[DATABASE/domain/Ambition Domain|ambition]], [[DATABASE/domain/Freedom Domain|freedom]], [[DATABASE/domain/Moon Domain|moon]], [[DATABASE/domain/Sun Domain|sun]]
+**Alternate Domains** [[DATABASE/domain/Cities Domain|cities]], [[DATABASE/domain/Star Domain|star]], [[DATABASE/domain/Zeal Domain|zeal]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Grim Tendrils|grim tendrils]]_, 2nd: _[[DATABASE/spell/Penumbral Disguise|penumbral disguise]]_, 5th: _[[DATABASE/spell/Shadow Siphon|shadow siphon]]_

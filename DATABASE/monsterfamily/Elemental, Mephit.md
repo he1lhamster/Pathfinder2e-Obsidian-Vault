@@ -3,6 +3,7 @@ creature_family: Elemental, Mephit
 id: '44'
 name: Elemental, Mephit
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Elemental, Mephit
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Mephits—sometimes known as elemental scamps—are little bipedal critters with bat-like wings who serve stronger elementals on the Elemental Planes or neophyte spellcasters who summon them to the Material Plane. All mephits have an inkling of magical power as well as a breath weapon.
 
 ### Members
 
-[[Air Mephit]] (Creature 1), [[Dust Mephit]] (Creature 1), [[Earth Mephit]] (Creature 1), [[Fire Mephit]] (Creature 1), [[Ice Mephit]] (Creature 1), [[Metal Scamp]] (Creature 1), [[Ooze Mephit]] (Creature 1), [[Steam Mephit]] (Creature 1), [[Water Mephit]] (Creature 1), [[Wood Scamp]] (Creature 1)
+[[DATABASE/monster/Air Mephit|Air Mephit]] (Creature 1), [[DATABASE/monster/Dust Mephit|Dust Mephit]] (Creature 1), [[DATABASE/monster/Earth Mephit|Earth Mephit]] (Creature 1), [[DATABASE/monster/Fire Mephit|Fire Mephit]] (Creature 1), [[DATABASE/monster/Ice Mephit|Ice Mephit]] (Creature 1), [[DATABASE/monster/Metal Scamp|Metal Scamp]] (Creature 1), [[DATABASE/monster/Ooze Mephit|Ooze Mephit]] (Creature 1), [[DATABASE/monster/Steam Mephit|Steam Mephit]] (Creature 1), [[DATABASE/monster/Water Mephit|Water Mephit]] (Creature 1), [[DATABASE/monster/Wood Scamp|Wood Scamp]] (Creature 1)
 
 ###  Conjuring Mephits
 
@@ -44,5 +45,5 @@ Wood scamps' unusual inclination toward teamwork can make them invaluable additi
 
 ## Elemental
 
-**Related Groups** [[Elemental, Air]], [[Elemental, Earth]], [[Elemental, Fire]], [[Elemental, Metal]], [[Elemental, Water]], [[Elemental, Wisp]], [[Elemental, Wood]]
+**Related Groups** [[DATABASE/monsterfamily/Elemental, Air|Elemental, Air]], [[DATABASE/monsterfamily/Elemental, Earth|Elemental, Earth]], [[DATABASE/monsterfamily/Elemental, Fire|Elemental, Fire]], [[DATABASE/monsterfamily/Elemental, Metal|Elemental, Metal]], [[DATABASE/monsterfamily/Elemental, Water|Elemental, Water]], [[DATABASE/monsterfamily/Elemental, Wisp|Elemental, Wisp]], [[DATABASE/monsterfamily/Elemental, Wood|Elemental, Wood]]
 The Elemental Planes—primordial realms defined by aspects of air, earth, fire, or water—are home to a diverse group of beings known as elementals. Spellcasters on the Material Plane call upon elementals for aid, though these enigmatic creatures can also travel to the world of mortals via interplanar gateways and rifts. The elementals on these pages exemplify the creatures of the Elemental Planes, but this list is by no means exhaustive.

@@ -73,25 +73,25 @@ wisdom: '+0'
 ---
 # Despairing Pall
 
-Despairing palls are small, dark clouds that float aimlessly through the [[Plane of Air]], casting literal and emotional shadows wherever they go. Pranksters and mischievous elementalists often summon them to rain on a rival's parade.
-**Recall Knowledge - Elemental ([[Arcana]], [[Nature]])**: DC 15
+Despairing palls are small, dark clouds that float aimlessly through the [[DATABASE/plane/Plane of Air|Plane of Air]], casting literal and emotional shadows wherever they go. Pranksters and mischievous elementalists often summon them to rain on a rival's parade.
+**Recall Knowledge - Elemental ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Despairing Pall<span class="item-type">Creature 1</span>
 
 <span class="trait-size item-trait">Small</span><span class="item-trait">Air</span><span class="item-trait">Elemental</span>
-**Source** [[Rage of Elements]]
-**Perception** +5; [[Darkvision]]
-**Languages** [[Sussuran]]
-**Skills** [[Acrobatics]] +8, [[Intimidation]] +6, [[Stealth]] +8
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
+**Perception** +5; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Sussuran|Sussuran]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +8, [[DATABASE/skill/Intimidation|Intimidation]] +6, [[DATABASE/skill/Stealth|Stealth]] +8
 **Str** +0, **Dex** +4, **Con** +1, **Int** +0, **Wis** +0, **Cha** +2
 
 ---
 **AC** 17; **Fort** +4, **Ref** +10, **Will** +7
-**HP** 15; **Immunities** bleed, electricity, [[Paralyzed]], poison, sleep
+**HP** 15; **Immunities** bleed, electricity, [[DATABASE/condition/Paralyzed|paralyzed]], poison, sleep
 <span class="in-box-ability">**Duskflow <span class="action-icon">5</span> ** (darkness) **Trigger** The despairing pall is damaged by a melee Strike; **Effect** Darkness billows out from the despairing pall, covering its attacker in inky shadow. The despairing pall immediately Steps up to 15 feet in any direction. If the despairing pall took the triggering damage due to a reaction it provoked by moving, it can then finish the movement. For one round, the triggering attacker is cloaked in darkness and perceives light as one step lower (bright light becomes dim light, for example), affecting its ability to sense creatures and objects accordingly.</span>
 
 ---
 **Speed** fly 50 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> hot air +7 [+2/-3] (air), **Effect** pushed 5 feet</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> lightning bolt +7 [+2/-3] (electricity, range increment 50 feet), **Damage** 1d6 electricity</span><span class="in-box-ability">**Downcast** <span class="action-icon">2</span> (air, emotion, mental) The despairing pall [[Fly]] up to its Speed, then rains gloom and despair in a 15-foot line straight down. Creatures in the area must succeed at a DC 16 Will save or take a –1 status penalty to attack rolls until the end of the despairing pall's next turn.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> hot air +7 [+2/-3] (air), **Effect** pushed 5 feet</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> lightning bolt +7 [+2/-3] (electricity, range increment 50 feet), **Damage** 1d6 electricity</span><span class="in-box-ability">**Downcast** <span class="action-icon">2</span> (air, emotion, mental) The despairing pall [[DATABASE/action/Fly|Flies]] up to its Speed, then rains gloom and despair in a 15-foot line straight down. Creatures in the area must succeed at a DC 16 Will save or take a –1 status penalty to attack rolls until the end of the despairing pall's next turn.</span>

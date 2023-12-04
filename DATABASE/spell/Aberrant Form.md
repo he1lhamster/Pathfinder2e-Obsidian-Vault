@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -37,7 +38,7 @@ type: Spell
 # Aberrant Form<span class="item-type">Spell 5</span>
 
 <span class="item-trait">Polymorph</span><span class="item-trait">Transmutation</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Traditions** occult
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Duration** 1 minute
@@ -49,15 +50,15 @@ Harnessing the power of vile entities, you transform yourself into a Large aberr
 * AC = 18 + your level. Ignore your armor's check penalty and Speed reduction.
 * 13 temporary Hit Points.
 * Darkvision.
-* One or more unarmed melee attacks specific to the battle form you choose, which are the only attacks you can use. You're trained with them. Your attack modifier is +18, and you use the listed damage. These attacks are Strength based (for the purpose of the [[Enfeebled]] condition, for example). If your unarmed attack modifier is higher, you can use it instead.
-* [[Athletics]] modifier of +20, unless your own modifier is higher.
+* One or more unarmed melee attacks specific to the battle form you choose, which are the only attacks you can use. You're trained with them. Your attack modifier is +18, and you use the listed damage. These attacks are Strength based (for the purpose of the [[DATABASE/condition/Enfeebled|enfeebled]] condition, for example). If your unarmed attack modifier is higher, you can use it instead.
+* [[DATABASE/skill/Athletics|Athletics]] modifier of +20, unless your own modifier is higher.
 
 You also gain specific abilities based on the type of aberration you choose:
 
-* **[[Chuul]]** Speed 30 feet, swim 25 feet; **Melee** <span class="action-icon">1</span> claw (reach 10 feet), **Damage** 2d8+8 bludgeoning, and you can spend an action after a hit to [[Grab]] the target.
-* **[[Gogiteth]]** Speed 40 feet, climb 30 feet; **Melee** <span class="action-icon">1</span> jaws, **Damage** 2d10+8 piercing, and you can spend an action after a hit to [[Grab]] the target; **Melee** <span class="action-icon">1</span> leg (agile, reach 10 feet), **Damage** 2d6+8 piercing.
-* **[[Gug]]** Speed 40 feet, climb 20 feet; **Melee** <span class="action-icon">1</span> jaws (reach 10 feet), **Damage** 2d12+8 piercing; **Melee**  claw (agile, reach 10 feet), **Damage** 2d8+8 slashing; your multiple joints allow you to fit through tight spaces as if you were a Medium creature.
-* **[[Otyugh]]** +2 circumstance bonus on saves against disease; Speed 20 feet; **Melee** <span class="action-icon">1</span> jaws, **Damage** 3d6+8 piercing; **Melee** <span class="action-icon">1</span> tentacle (agile, reach 10 feet), **Damage** 2d6+8 bludgeoning.
+* **[[DATABASE/monster/Chuul|Chuul]]** Speed 30 feet, swim 25 feet; **Melee** <span class="action-icon">1</span> claw (reach 10 feet), **Damage** 2d8+8 bludgeoning, and you can spend an action after a hit to [[DATABASE/monsterability/Grab|Grab]] the target.
+* **[[DATABASE/monster/Gogiteth|Gogiteth]]** Speed 40 feet, climb 30 feet; **Melee** <span class="action-icon">1</span> jaws, **Damage** 2d10+8 piercing, and you can spend an action after a hit to [[DATABASE/monsterability/Grab|Grab]] the target; **Melee** <span class="action-icon">1</span> leg (agile, reach 10 feet), **Damage** 2d6+8 piercing.
+* **[[DATABASE/monster/Gug|Gug]]** Speed 40 feet, climb 20 feet; **Melee** <span class="action-icon">1</span> jaws (reach 10 feet), **Damage** 2d12+8 piercing; **Melee**  claw (agile, reach 10 feet), **Damage** 2d8+8 slashing; your multiple joints allow you to fit through tight spaces as if you were a Medium creature.
+* **[[DATABASE/monster/Otyugh|Otyugh]]** +2 circumstance bonus on saves against disease; Speed 20 feet; **Melee** <span class="action-icon">1</span> jaws, **Damage** 3d6+8 piercing; **Melee** <span class="action-icon">1</span> tentacle (agile, reach 10 feet), **Damage** 2d6+8 bludgeoning.
 
 ---
 **Heightened (6th)** Your battle form is Huge, and the reach of your attacks increases by 5 feet. You must have space to expand, or the spell is lost. You instead gain AC = 21 + your level, 26 temporary HP, attack modifier +22, damage bonus +13, and Athletics +23.

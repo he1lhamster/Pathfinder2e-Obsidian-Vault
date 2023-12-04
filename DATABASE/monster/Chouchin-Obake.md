@@ -78,22 +78,22 @@ wisdom: '+5'
 ---
 # Chouchin-Obake
 
-A chouchin-obake takes the shape of a paper lantern with a horizontal split near the bottom from which a long tongue protrudes. Upon closer inspection, two eyes appear above the split mouth. Chouchin-obake are anomalous in that they don't awaken in the same way other tsukumogami do. Paper lanterns are nearly impossible to maintain for long enough to spawn tsukumogami. Instead, a chouchin-obake is a kind of fire [[Kami]] that takes the form of a lantern's flame and inhabits a paper lantern when they manifest.
+A chouchin-obake takes the shape of a paper lantern with a horizontal split near the bottom from which a long tongue protrudes. Upon closer inspection, two eyes appear above the split mouth. Chouchin-obake are anomalous in that they don't awaken in the same way other tsukumogami do. Paper lanterns are nearly impossible to maintain for long enough to spawn tsukumogami. Instead, a chouchin-obake is a kind of fire [[DATABASE/monsterfamily/Kami|kami]] that takes the form of a lantern's flame and inhabits a paper lantern when they manifest.
 
 # Chouchin-Obake<span class="item-type">Creature 6</span>
 
 <span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Kami</span>
-**Source** [[Bestiary 3]]
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
 **Perception** +15
-**Languages** [[Common]]
-**Skills** [[Acrobatics]] +12, [[Deception]] +10, [[Stealth]] +16
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +12, [[DATABASE/skill/Deception|Deception]] +10, [[DATABASE/skill/Stealth|Stealth]] +16
 **Str** +2, **Dex** +4, **Con** +4, **Int** +3, **Wis** +5, **Cha** +0
 
 ---
 **AC** 24; **Fort** +12, **Ref** +16, **Will** +15
-**HP** 75; **Immunities** bleed, death effects, disease, [[Doomed]], [[Drained]], [[Fatigued]], healing, [[Paralyzed]], poison, [[Unconscious]]; **Resistances** physical 5
-<span class="in-box-ability">**Lifewick Candle** (aura, divine, necromancy, negative) 15 feet. A ghostly blue flame within the chouchin-obake draws upon the life-force of the living to sustain themself. At the start of the chouchin-obake's turn, each creature in the aura takes 2d6 negative damage (DC 26 basic Fortitude save). The chouchinobake regains an amount of Hit Points equal to the amount of damage taken by the single creature that took the most damage.</span><span class="in-box-ability">**Shadowbind <span class="action-icon">5</span> ** **Trigger** A creature attempts to leave the chouchinobake's Lifewick Candle aura during a move action; **Effect** The chouchin-obake attempts to bind the creature using their own shadow. The triggering creature must succeed at a DC 26 Reflex save or become [[Immobilized]] until its next turn.</span>
+**HP** 75; **Immunities** bleed, death effects, disease, [[DATABASE/condition/Doomed|doomed]], [[DATABASE/condition/Drained|drained]], [[DATABASE/condition/Fatigued|fatigued]], healing, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Unconscious|unconscious]]; **Resistances** physical 5
+<span class="in-box-ability">**Lifewick Candle** (aura, divine, necromancy, negative) 15 feet. A ghostly blue flame within the chouchin-obake draws upon the life-force of the living to sustain themself. At the start of the chouchin-obake's turn, each creature in the aura takes 2d6 negative damage (DC 26 basic Fortitude save). The chouchinobake regains an amount of Hit Points equal to the amount of damage taken by the single creature that took the most damage.</span><span class="in-box-ability">**Shadowbind <span class="action-icon">5</span> ** **Trigger** A creature attempts to leave the chouchinobake's Lifewick Candle aura during a move action; **Effect** The chouchin-obake attempts to bind the creature using their own shadow. The triggering creature must succeed at a DC 26 Reflex save or become [[DATABASE/condition/Immobilized|immobilized]] until its next turn.</span>
 
 ---
 **Speed** fly 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> tendril +16 [+11/+6] (finesse, reach 15 feet), **Damage** 2d8 negative plus 2d6 fire plus [[Grab]]</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> flame +16 [+11/+6] (range increment 30 feet), **Damage** 2d4 negative plus 2d6 fire</span><span class="in-box-ability">**[[Constrict]]** <span class="action-icon">1</span> 2d8 negative plus 1d6 fire, DC 26</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> tendril +16 [+11/+6] (finesse, reach 15 feet), **Damage** 2d8 negative plus 2d6 fire plus [[DATABASE/monsterability/Grab|Grab]]</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> flame +16 [+11/+6] (range increment 30 feet), **Damage** 2d4 negative plus 2d6 fire</span><span class="in-box-ability">**[[DATABASE/monsterability/Constrict|Constrict]]** <span class="action-icon">1</span> 2d8 negative plus 1d6 fire, DC 26</span>

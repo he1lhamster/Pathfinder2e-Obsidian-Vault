@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Oozemorph Dedication|Oozemorph Dedication]] ; Tra
   in [[DATABASE/skill/Performance|Performance]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/The Slithering|The Slithering]]'
 subcategory: null
@@ -25,12 +26,12 @@ type: Feat
 # Hideous Ululation <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Skill</span>
-**Source** [[The Slithering]]
-**Archetype** [[Oozemorph]]
-**Prerequisites** [[Oozemorph Dedication]]; trained in [[Performance]]
+**Source** [[DATABASE/source/The Slithering|The Slithering]]
+**Archetype** [[DATABASE/archetype/Oozemorph|Oozemorph]]
+**Prerequisites** [[DATABASE/feat/Oozemorph Dedication|Oozemorph Dedication]]; trained in [[DATABASE/skill/Performance|Performance]]
 
 ---
-Your throat has multiple separate chambers that can give your voice an eerie echo. You can be clearly heard at distances of up to 300 feet regardless of ambient sound, although your voice doesn't penetrate a magical [[Silence]] effect.
+Your throat has multiple separate chambers that can give your voice an eerie echo. You can be clearly heard at distances of up to 300 feet regardless of ambient sound, although your voice doesn't penetrate a magical [[DATABASE/spell/Silence|silence]] effect.
 
 ## Traits
 

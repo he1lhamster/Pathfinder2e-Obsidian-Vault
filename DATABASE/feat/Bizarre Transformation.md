@@ -11,6 +11,7 @@ name: Bizarre Transformation
 prerequisite: '[[DATABASE/feat/Wild Shape|Wild Shape]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -25,11 +26,11 @@ type: Feat
 # Bizarre Transformation <span class="action-icon">1</span> <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Druid</span><span class="item-trait">Manipulate</span><span class="item-trait">Metamagic</span>
-**Source** [[Dark Archive]]
-**Prerequisites** [[Wild Shape]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Prerequisites** [[DATABASE/feat/Wild Shape|Wild Shape]]
 
 ---
-The forms you take on defy belief—chimerical sights of twisted antlers or acidic drool. If your next action is to cast [[Wild Shape]], you can change the damage type of a single unarmed attack granted by the wild shape form to one of the following: acid, bludgeoning, cold, electricity, fire, poison, piercing, or slashing. The chosen attack gains the appropriate trait.
+The forms you take on defy belief—chimerical sights of twisted antlers or acidic drool. If your next action is to cast [[DATABASE/spell/Wild Shape|wild shape]], you can change the damage type of a single unarmed attack granted by the wild shape form to one of the following: acid, bludgeoning, cold, electricity, fire, poison, piercing, or slashing. The chosen attack gains the appropriate trait.
 
 ## Traits
 

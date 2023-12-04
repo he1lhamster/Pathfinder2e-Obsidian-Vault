@@ -11,6 +11,7 @@ name: Daywalker
 prerequisite: '[[DATABASE/feat/Vampire Dedication|Vampire Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 subcategory: null
@@ -25,12 +26,12 @@ type: Feat
 # Daywalker <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Archetype</span><span class="item-trait">Divine</span>
-**Source** [[Book of the Dead]]
-**Archetype** [[Vampire]]
-**Prerequisites** [[Vampire Dedication]]
+**Source** [[DATABASE/source/Book of the Dead|Book of the Dead]]
+**Archetype** [[DATABASE/archetype/Vampire|Vampire]]
+**Prerequisites** [[DATABASE/feat/Vampire Dedication|Vampire Dedication]]
 
 ---
-Through a profane pledge or a bloodline quirk, you can tolerate the sun's light. You gain the advanced undead benefits and can't be destroyed by sunlight. This doesn't prevent you from becoming [[Slowed]] by exposure to the sun.
+Through a profane pledge or a bloodline quirk, you can tolerate the sun's light. You gain the advanced undead benefits and can't be destroyed by sunlight. This doesn't prevent you from becoming [[DATABASE/condition/Slowed|slowed]] by exposure to the sun.
 
 ## Traits
 

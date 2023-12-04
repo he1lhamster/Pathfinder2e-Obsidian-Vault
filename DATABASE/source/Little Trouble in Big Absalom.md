@@ -2,6 +2,7 @@
 id: '53'
 name: Little Trouble in Big Absalom
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -16,4 +17,4 @@ type: Source
 
 ## Backgrounds [1]
 
-[[Hookclaw Digger]]
+[[DATABASE/background/Hookclaw Digger|Hookclaw Digger]]

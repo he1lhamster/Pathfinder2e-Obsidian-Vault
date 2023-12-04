@@ -11,6 +11,7 @@ name: Calcifying Sand
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -29,14 +30,14 @@ type: Feat
 # Calcifying Sand <span class="action-icon">5</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Earth</span><span class="item-trait">Impulse</span><span class="item-trait">Incapacitation</span><span class="item-trait">Kineticist</span><span class="item-trait">Overflow</span><span class="item-trait">Primal</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Trigger** A creature damages you with an attack using an unarmed attack or a non-reach melee weapon.
 
 ---
 Your flesh gives way as you're struck, becoming coarse sand that can magically turn your enemy to stone. You gain resistance equal to your level to physical damage from the triggering attack. The attacking creature must attempt a Fortitude save against your class DC. Regardless of the result, that creature can't trigger Calcifying Sand again for 1 hour.
 **Success** The creature is unaffected.
-**Failure** The creature is [[Slowed]] until the end of its next turn.
-**Critical Failure** The creature is [[Petrified]] until the end of its next turn.
+**Failure** The creature is [[DATABASE/condition/Slowed|slowed 1]] until the end of its next turn.
+**Critical Failure** The creature is [[DATABASE/condition/Petrified|petrified]] until the end of its next turn.
 
 ## Traits
 
@@ -54,7 +55,7 @@ An ability with this trait can take a character completely out of the fight or e
 
 **Overflow:**
 
-Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
+Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[DATABASE/action/Channel Elements|Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
 
 **Primal:**
 

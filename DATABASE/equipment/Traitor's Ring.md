@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -52,7 +53,7 @@ weapon_type: null
 # Traitor's Ring<span class="item-type">Item 0</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Price** 1 gp, 5 sp
 **Usage** worn; **Bulk** —
 **Access** Member of a secret society

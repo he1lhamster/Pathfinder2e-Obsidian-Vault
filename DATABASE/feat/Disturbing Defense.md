@@ -11,6 +11,7 @@ name: Disturbing Defense
 prerequisite: '[[DATABASE/feat/Oozemorph Dedication|Oozemorph Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/The Slithering|The Slithering]]'
 subcategory: null
@@ -23,16 +24,16 @@ type: Feat
 # Disturbing Defense <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[The Slithering]]
-**Archetype** [[Oozemorph]]
-**Prerequisites** [[Oozemorph Dedication]]
+**Source** [[DATABASE/source/The Slithering|The Slithering]]
+**Archetype** [[DATABASE/archetype/Oozemorph|Oozemorph]]
+**Prerequisites** [[DATABASE/feat/Oozemorph Dedication|Oozemorph Dedication]]
 
 ---
-Your internal organs and blood vessels have shifted and changed, and even you don't know precisely where in your body they are. You gain resistance to precision damage equal to 2 + your number of class feats from the oozemorph archetype. The DC of your flat checks to recover from [[Persistent Damage]] is 13, rather than 15.
+Your internal organs and blood vessels have shifted and changed, and even you don't know precisely where in your body they are. You gain resistance to precision damage equal to 2 + your number of class feats from the oozemorph archetype. The DC of your flat checks to recover from [[DATABASE/condition/Persistent Damage|persistent bleed damage]] is 13, rather than 15.
 
 ## Disturbing Defense Leads To...
 
-[[Peculiar Anatomy]], [[Rubbery Skin]]
+[[DATABASE/feat/Peculiar Anatomy|Peculiar Anatomy]], [[DATABASE/feat/Rubbery Skin|Rubbery Skin]]
 
 ## Traits
 

@@ -75,19 +75,19 @@ wisdom: '+3'
 # Prophet
 
 The gods occasionally send messages in dreams to individuals who wander the lands, gaining followers with their oratorical abilities. Some prophets have not received true divine missives, but have misinterpreted normal dreams.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 16
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
 # Prophet<span class="item-type">Creature 2</span>
 
 <span class="trait-alignment item-trait">CN</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Perception** +10
-**Languages** [[Common]]
-**Skills** [[Diplomacy]] +8, [[Performance]] +8 (+10 to spout prophecy), [[Religion]] +7, [[Survival]] +7
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Diplomacy|Diplomacy]] +8, [[DATABASE/skill/Performance|Performance]] +8 (+10 to spout prophecy), [[DATABASE/skill/Religion|Religion]] +7, [[DATABASE/skill/Survival|Survival]] +7
 **Str** +2, **Dex** +1, **Con** +0, **Int** +1, **Wis** +3, **Cha** +4
-**Items** [[Flail]], manifesto (functions as [[Religious Text]]), pouch of rocks, [[Clothing]]
+**Items** [[DATABASE/weapon/Flail|flail]], manifesto (functions as [[DATABASE/equipment/Religious Text|religious text]]), pouch of rocks, [[DATABASE/equipment/Clothing|robes]]
 
 ---
 **AC** 17; **Fort** +8, **Ref** +7, **Will** +11
@@ -95,5 +95,5 @@ The gods occasionally send messages in dreams to individuals who wander the land
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> flail +8 [+3/-2] (disarm, sweep, trip), **Damage** 1d6+2 bludgeoning</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +8 [+4/+0] (agile, nonlethal), **Damage** 1d4+2 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> rock +7 [+2/-3] (thrown 10 feet), **Damage** 1d4+2 bludgeoning</span>**Divine Spontaneous Spells** DC 18, attack +10; **1st** _[[Bless]]_, _[[Heal]]_, _[[Ray of Enfeeblement]]_, _[[Sanctuary]]_ (4 slots); **Cantrips** **(1st)** _[[Daze]]_, _[[Detect Magic]]_, _[[Guidance]]_, _[[Know Direction]]_, _[[Light]]_, _[[Prestidigitation]]_, _[[Read Aura]]_
-**Cleric Domain Spells** DC 18, 1 Focus Point; **1st** _[[Read Fate]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> flail +8 [+3/-2] (disarm, sweep, trip), **Damage** 1d6+2 bludgeoning</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +8 [+4/+0] (agile, nonlethal), **Damage** 1d4+2 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> rock +7 [+2/-3] (thrown 10 feet), **Damage** 1d4+2 bludgeoning</span>**Divine Spontaneous Spells** DC 18, attack +10; **1st** _[[DATABASE/spell/Bless|bless]]_, _[[DATABASE/spell/Heal|heal]]_, _[[DATABASE/spell/Ray of Enfeeblement|ray of enfeeblement]]_, _[[DATABASE/spell/Sanctuary|sanctuary]]_ (4 slots); **Cantrips** **(1st)** _[[DATABASE/spell/Daze|daze]]_, _[[DATABASE/spell/Detect Magic|detect magic]]_, _[[DATABASE/spell/Guidance|guidance]]_, _[[DATABASE/spell/Know Direction|know direction]]_, _[[DATABASE/spell/Light|light]]_, _[[DATABASE/spell/Prestidigitation|prestidigitation]]_, _[[DATABASE/spell/Read Aura|read aura]]_
+**Cleric Domain Spells** DC 18, 1 Focus Point; **1st** _[[DATABASE/spell/Read Fate|read fate]]_

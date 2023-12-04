@@ -25,6 +25,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -43,10 +44,10 @@ type: Spell
 # Hideous Laughter<span class="item-type">Spell 2</span>
 
 <span class="item-trait">Emotion</span><span class="item-trait">Enchantment</span><span class="item-trait">Mental</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult
-**Bloodline** [[Fey]]
-**Deities** [[Bes]], [[Kofusachi]], [[The Lantern King]], [[The Perplexing Jest]]
+**Bloodline** [[DATABASE/sorcererbloodline/Fey|fey]]
+**Deities** [[DATABASE/deity/Bes|Bes]], [[DATABASE/deity/Kofusachi|Kofusachi]], [[DATABASE/deity/The Lantern King|The Lantern King]], [[DATABASE/deity/The Perplexing Jest|The Perplexing Jest]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet; **Targets** 1 living creature
 **Saving Throw** Will; **Duration** sustained

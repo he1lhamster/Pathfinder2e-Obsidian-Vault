@@ -22,6 +22,7 @@ patron_theme: null
 range: 120 feet
 rarity: Rare
 requirement: null
+rus_type_level: null
 saving_throw: see below
 school: Conjuration
 source: '[[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burning
@@ -41,11 +42,11 @@ type: Spell
 # Incendiary Fog<span class="item-type">Spell 5</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Conjuration</span><span class="item-trait">Fire</span>
-**Source** [[Pathfinder 177. Burning Tundra]]
+**Source** [[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burning Tundra]]
 **Traditions** arcane, primal
 **Cast** <span class="action-icon">3</span> material, somatic, verbal
 **Range** 120 feet; **Area** 20-foot burst
 **Saving Throw** see below; **Duration** 1 minute
 
 ---
-You summon a cloud of flammable black dust. The cloud functions as [[Obscuring Mist]]. If any open flame or fire effect is within the spell's area when it's cast, or later enters or occurs within the area, the cloud ignites. Creatures in the cloud take 10d6 fire damage (basic Reflex save), and the spell ends.
+You summon a cloud of flammable black dust. The cloud functions as [[DATABASE/spell/Obscuring Mist|obscuring mist]]. If any open flame or fire effect is within the spell's area when it's cast, or later enters or occurs within the area, the cloud ignites. Creatures in the cloud take 10d6 fire damage (basic Reflex save), and the spell ends.

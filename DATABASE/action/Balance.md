@@ -8,6 +8,7 @@ name: Balance
 rarity: Common
 requirement: You are in a square that contains a narrow surface, uneven ground, or
   another similar feature.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
@@ -19,7 +20,7 @@ type: Action
 # Balance <span class="action-icon">1</span>
 
 <span class="item-trait">Move</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Requirements** You are in a square that contains a narrow surface, uneven ground, or another similar feature.
 
 ---

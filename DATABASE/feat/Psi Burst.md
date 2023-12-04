@@ -11,6 +11,7 @@ name: Psi Burst
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -28,7 +29,7 @@ type: Feat
 # Psi Burst <span class="action-icon">1</span> <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Evocation</span><span class="item-trait">Mindshift</span><span class="item-trait">Occult</span><span class="item-trait">Psyche</span><span class="item-trait">Psychic</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Frequency** once per round
 
 ---

@@ -22,6 +22,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -41,7 +42,7 @@ type: Spell
 # Breadcrumbs<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Abjuration</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Traditions** arcane, divine, occult, primal
 **Spell List** elemental
 **Cast** 1 minute (material, somatic, verbal)

@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -50,22 +51,22 @@ weapon_type: null
 ---
 # Alchemist's Lab<span class="item-type">Item 0+</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 5 gp
 **Hands** 2; **Bulk** 6
 
 ---
-You need an alchemist's lab to [[Craft]] alchemical items during downtime.
+You need an alchemist's lab to [[DATABASE/action/Craft|Craft]] alchemical items during downtime.
 
 ## Alchemist's Lab<span class="item-type">Item 0</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 5 gp
 **Hands** 2; **Bulk** 6
 
 ## Alchemist's Lab (Expanded)<span class="item-type">Item 3</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 55 gp
 **Hands** 2; **Bulk** 6
-An expanded alchemist's lab gives a +1 item bonus to [[Crafting]] checks to create alchemical items.
+An expanded alchemist's lab gives a +1 item bonus to [[DATABASE/skill/Crafting|Crafting]] checks to create alchemical items.

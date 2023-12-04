@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -54,12 +55,12 @@ weapon_type: null
 # Tactician's Helm<span class="item-type">Item 5</span>
 
 <span class="item-trait">Invested</span><span class="item-trait">Magical</span><span class="item-trait">Transmutation</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 160 gp
 **Usage** worn headwear; **Bulk** L
 
 ---
-Repurposing and enchanting a helmet worn by a battlefield commander can create a _tactician's helm_, imparting knowledge of battlefield tactics that feeds off your minor victories. The helm grants you a +1 item bonus to [[Lore]] checks. Also, a jewel adorns the brow of the helmet. This jewel becomes charged each time you hit a creature with an [[Attack of Opportunity]]. A _tactician's helm_ can hold up to 2 charges, and its charges reset to 0 when you invest it.
+Repurposing and enchanting a helmet worn by a battlefield commander can create a _tactician's helm_, imparting knowledge of battlefield tactics that feeds off your minor victories. The helm grants you a +1 item bonus to [[DATABASE/skill/Lore|Warfare Lore]] checks. Also, a jewel adorns the brow of the helmet. This jewel becomes charged each time you hit a creature with an [[DATABASE/action/Attack of Opportunity|Attack of Opportunity]]. A _tactician's helm_ can hold up to 2 charges, and its charges reset to 0 when you invest it.
 **Activate** <span class="action-icon">1</span> command **Frequency** once per hour; **Requirements** The helm's jewel is charged; **Effect** One charge in the helm's jewel expires, and you choose one of the following effects.
 
 * **Charge!** Stride twice.

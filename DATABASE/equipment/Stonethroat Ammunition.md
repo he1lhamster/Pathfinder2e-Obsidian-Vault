@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Stonethroat Ammunition<span class="item-type">Item 12</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Consumable</span><span class="item-trait">Magical</span><span class="item-trait">Transmutation</span>
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 325 gp
 **Ammunition** arrow, bolt; **Bulk** —
 **Activate** <span class="action-icon">1</span> Interact
@@ -63,6 +64,6 @@ weapon_type: null
 ---
 Each piece of _stonethroat ammunition_ is tipped with an unusual yellow stone. When an activated piece of _stonethroat ammunition_ hits a target, the target must attempt a DC 30 Fortitude save.
 **Critical Success** The creature is unaffected.
-**Success** The ammunition lodges itself loosely into the target's throat. For 1 round, the target takes a –2 status penalty to attack rolls with its jaws or fangs, and to [[Athletics]] checks.
-**Failure** The ammunition embeds itself deep in the target's throat. The target can't use its jaws or fangs Strike (if it has one) or the [[Swallow Whole]] ability until the end of its next turn.
-**Critical Failure** As failure, and the target is [[Enfeebled]] for 1 round.
+**Success** The ammunition lodges itself loosely into the target's throat. For 1 round, the target takes a –2 status penalty to attack rolls with its jaws or fangs, and to [[DATABASE/skill/Athletics|Athletics]] checks.
+**Failure** The ammunition embeds itself deep in the target's throat. The target can't use its jaws or fangs Strike (if it has one) or the [[DATABASE/monsterability/Swallow Whole|Swallow Whole]] ability until the end of its next turn.
+**Critical Failure** As failure, and the target is [[DATABASE/condition/Enfeebled|enfeebled 2]] for 1 round.

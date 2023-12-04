@@ -32,6 +32,7 @@ reflex: null
 requirement: null
 resistance:
 - '[[DATABASE/trait/Electricity|electricity]] 10'
+rus_type_level: null
 saving_throw: null
 school: null
 size: Huge
@@ -52,7 +53,7 @@ weapon_type: null
 ---
 # Rope<span class="item-type">Item 0</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 5 sp (50 ft.)
 **Hands** 2; **Bulk** L
 

@@ -12,6 +12,7 @@ prerequisite: Expert in [[DATABASE/skill/Survival|Survival]] ; [[DATABASE/feat/E
   Tracker|Experienced Tracker]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Swift Tracker <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Ranger</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** expert in [[Survival]]; [[Experienced Tracker]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** expert in [[DATABASE/skill/Survival|Survival]]; [[DATABASE/feat/Experienced Tracker|Experienced Tracker]]
 
 ---
 Your keen eyes catch signs of passage even when you’re moving. You can move at your full Speed while you Track. If you have master proficiency in Survival, you don’t need to attempt a new Survival check every hour while Tracking. If you have legendary proficiency in Survival, you can use another exploration activity while Tracking.

@@ -11,6 +11,7 @@ name: Ceremony of Aeon's Shield
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Ceremony of Aeon's Shield <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Conrasu</span>
-**Source** [[The Mwangi Expanse]]
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]
 
 ---
-Your patron [[Aeon]] graced you with powers of protection. You can cast [[Resist Energy]] and [[Shield Other]] each once per day as 2nd-level divine innate spells.
+Your patron [[DATABASE/monsterfamily/Aeon|aeon]] graced you with powers of protection. You can cast [[DATABASE/spell/Resist Energy|resist energy]] and [[DATABASE/spell/Shield Other|shield other]] each once per day as 2nd-level divine innate spells.
 
 ## Traits
 

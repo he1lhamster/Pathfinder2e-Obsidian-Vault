@@ -31,6 +31,7 @@ rarity: Rare
 reflex: '+11'
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: Large
@@ -51,22 +52,22 @@ weapon_type: null
 ---
 # Snare Kit<span class="item-type">Item 0+</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 5 gp
 **Hands** 2; **Bulk** 2
 
 ---
-This kit contains tools and materials for creating snares. A snare kit allows you to [[Craft]] snares using the [[Crafting]] skill. You can draw and replace a worn snare kit as part of the action to use it.
+This kit contains tools and materials for creating snares. A snare kit allows you to [[DATABASE/action/Craft|Craft]] snares using the [[DATABASE/skill/Crafting|Crafting]] skill. You can draw and replace a worn snare kit as part of the action to use it.
 
 ## Snare Kit<span class="item-type">Item 0</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 5 gp
 **Hands** 2; **Bulk** 2
 
 ## Snare Kit (Specialist)<span class="item-type">Item 3</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 55 gp
 **Hands** 2; **Bulk** 2
 A specialist snare kit gives you a +1 item bonus to the check.

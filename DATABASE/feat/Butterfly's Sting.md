@@ -11,6 +11,7 @@ name: Butterfly's Sting
 prerequisite: '[[DATABASE/feat/Butterfly Blade Dedication|Butterfly Blade Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #166:
   Despair on Danger Island]]'
@@ -24,12 +25,12 @@ type: Feat
 # Butterfly's Sting <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Pathfinder 166. Despair on Danger Island]]
-**Archetype** [[Butterfly Blade]]
-**Prerequisites** [[Butterfly Blade Dedication]]
+**Source** [[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #166: Despair on Danger Island]]
+**Archetype** [[DATABASE/archetype/Butterfly Blade|Butterfly Blade]]
+**Prerequisites** [[DATABASE/feat/Butterfly Blade Dedication|Butterfly Blade Dedication]]
 
 ---
-You gain the [[Rogue]] class feature. You don't increase the number of dice as you gain levels.
+You gain the [[DATABASE/class_/Rogue|sneak attack]] class feature. You don't increase the number of dice as you gain levels.
 
 ## Traits
 

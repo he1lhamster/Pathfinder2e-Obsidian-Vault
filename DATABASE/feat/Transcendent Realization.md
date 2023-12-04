@@ -11,6 +11,7 @@ name: Transcendent Realization
 prerequisite: '[[DATABASE/feat/Unlock Secret|Unlock Secret]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -23,15 +24,15 @@ type: Feat
 # Transcendent Realization <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Kashrishi</span>
-**Source** [[Impossible Lands]]
-**Prerequisites** [[Unlock Secret]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
+**Prerequisites** [[DATABASE/feat/Unlock Secret|Unlock Secret]]
 
 ---
 You've unleashed even more of your mind's limitless potential. Choose a 3rd-level occult spell, either a common spell or another to which you have access, including a lower-level spell heightened to 3rd level if you wish. You can cast that spell once per day as an innate occult spell.
 
 ## Transcendent Realization Leads To...
 
-[[Bend Space]], [[Reimagine]]
+[[DATABASE/feat/Bend Space|Bend Space]], [[DATABASE/feat/Reimagine|Reimagine]]
 
 ## Traits
 

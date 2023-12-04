@@ -14,6 +14,7 @@ domain_spell: '[[DATABASE/spell/Divine Plagues|Divine Plagues]]'
 id: '48'
 name: Plague Domain
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
 trait: null
 type: Domain
@@ -21,7 +22,7 @@ type: Domain
 ---
 # Plague Domain
 
-**Source** [[Gods & Magic]] 
-**Deities** [[Apollyon]], [[Cyth-V'sug]], [[Ghlaunder]], [[Lady Nanbyo]], [[Urgathoa]]
-**Domain Spell** _[[Divine Plagues]]_; **Advanced Domain Spell** _[[Foul Miasma]]_
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
+**Deities** [[DATABASE/deity/Apollyon|Apollyon]], [[DATABASE/deity/Cyth-V'sug|Cyth-V'sug]], [[DATABASE/deity/Ghlaunder|Ghlaunder]], [[DATABASE/deity/Lady Nanbyo|Lady Nanbyo]], [[DATABASE/deity/Urgathoa|Urgathoa]]
+**Domain Spell** _[[DATABASE/spell/Divine Plagues|Divine Plagues]]_; **Advanced Domain Spell** _[[DATABASE/spell/Foul Miasma|Foul Miasma]]_
 You wield disease and pestilence like a weapon.

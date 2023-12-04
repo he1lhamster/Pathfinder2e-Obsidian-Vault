@@ -21,6 +21,7 @@ patron_theme: null
 range: 30 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Pathfinder 183. Field of Maidens|Pathfinder #183: Field
@@ -43,10 +44,10 @@ type: Spell
 # Celestial Accord<span class="item-type">Spell 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Emotion</span><span class="item-trait">Enchantment</span><span class="item-trait">Good</span><span class="item-trait">Mental</span>
-**Source** [[Pathfinder 183. Field of Maidens]]
+**Source** [[DATABASE/source/Pathfinder 183. Field of Maidens|Pathfinder #183: Field of Maidens]]
 **Traditions** divine, occult
 **Cast** <span class="action-icon">2</span> somatic, verbal
-**Range** 30 feet; **Targets** 2 creatures that each have an [[Unfriendly]] or worse attitude toward the other
+**Range** 30 feet; **Targets** 2 creatures that each have an [[DATABASE/condition/Unfriendly|unfriendly]] or worse attitude toward the other
 **Saving Throw** Will; **Duration** 1 minute
 
 ---
@@ -54,4 +55,4 @@ You intervene in a heated disagreement between two creatures, encouraging them t
 **Critical Success** The creature is unaffected.
 **Success** The creature is filled with doubt about its own intentions and feels an urge to cooperate with the other. It has a –2 status penalty to attack rolls against the other target for 1 round.
 **Failure** The creature can't make hostile actions against the other target and its attitude toward the other target improves to indifferent for the spell's duration.
-**Critical Failure** As failure, but the creature's attitude toward the other target improves to [[Friendly]] for the duration and is [[Indifferent]] thereafter (until something happens to change that attitude normally).
+**Critical Failure** As failure, but the creature's attitude toward the other target improves to [[DATABASE/condition/Friendly|friendly]] for the duration and is [[DATABASE/condition/Indifferent|indifferent]] thereafter (until something happens to change that attitude normally).

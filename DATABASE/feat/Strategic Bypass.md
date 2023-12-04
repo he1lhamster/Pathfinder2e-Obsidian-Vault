@@ -11,6 +11,7 @@ name: Strategic Bypass
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Strategic Bypass <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Investigator</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
-Your plans account for your foes' resistances, enabling you to strike a telling blow. When you hit with a Strike on which you substituted your attack roll due to [[Devise a Stratagem]], you ignore an amount of resistance equal to your Intelligence modifier for each resistance that applies against your attack.
+Your plans account for your foes' resistances, enabling you to strike a telling blow. When you hit with a Strike on which you substituted your attack roll due to [[DATABASE/action/Devise a Stratagem|Devising a Stratagem]], you ignore an amount of resistance equal to your Intelligence modifier for each resistance that applies against your attack.

@@ -18,6 +18,7 @@ language:
 max_speed: '25'
 name: Halfling
 rarity: Common
+rus_type_level: null
 size: Small
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 speed:
@@ -32,7 +33,7 @@ vision: null
 # Halfling
 
 <span class="item-trait">Halfling</span><span class="item-trait">Humanoid</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 _Claiming no place as their own, halflings control few settlements larger than villages. Instead, they frequently live among humans within the walls of larger cities, carving out small communities alongside taller folk. Many halflings lead perfectly fulfilling lives in the shadows of their larger neighbors, while others prefer a nomadic existence, traveling the world and taking advantage of opportunities and adventures as they come._
 Optimistic and cheerful, blessed with uncanny luck, and driven by powerful wanderlust, halflings make up for their short stature with an abundance of bravado and curiosity. At once excitable and easygoing, they are the best kind of opportunists, and their passions favor joy over violence. Even in the jaws of danger, halflings rarely lose their sense of humor.
  Many taller people dismiss halflings due to their size or, worse, treat them like children. Halflings use these prejudices and misconceptions to their advantage, gaining access to opportunities and performing deeds of daring mischief or heroism. A halfling’s curiosity is tempered by wisdom and caution, leading to calculated risks and narrow escapes.
@@ -64,12 +65,12 @@ Despite their jovial and friendly nature, halflings don’t usually tend to cong
 
 ## Alignment and Religion
 
-Halflings are loyal to their friends and their family, but they aren’t afraid to do what needs to be done in order to survive. Halfling alignments vary, typically closely in keeping with the alignment of the other ancestries that live around them. Halflings favor gods that either grant luck, like [[Desna]], or encourage guile, like [[Norgorber]], and many appreciate [[Cayden Cailean]] role as a liberator, as well as any religions common among other ancestries around them.
+Halflings are loyal to their friends and their family, but they aren’t afraid to do what needs to be done in order to survive. Halfling alignments vary, typically closely in keeping with the alignment of the other ancestries that live around them. Halflings favor gods that either grant luck, like [[DATABASE/deity/Desna|Desna]], or encourage guile, like [[DATABASE/deity/Norgorber|Norgorber]], and many appreciate [[DATABASE/deity/Cayden Cailean|Cayden Cailean’s]] role as a liberator, as well as any religions common among other ancestries around them.
 
 ## Adventurers
 
 Halflings' natural wanderlust and opportunistic nature make them ideal adventurers. Many people put up with their vivacious attitudes in return for the natural talents they provide and the popular superstition that traveling with a halfling is good luck.
- Typical backgrounds for halflings include [[Acrobat]], [[Criminal]], [[Emissary]], [[Entertainer]], [[Laborer]], and [[Street Urchin]]. Halflings make great [[Cleric]] and [[Rogue]], but many also become [[Monk]] or [[Ranger]].
+ Typical backgrounds for halflings include [[DATABASE/background/Acrobat|acrobat]], [[DATABASE/background/Criminal|criminal]], [[DATABASE/background/Emissary|emissary]], [[DATABASE/background/Entertainer|entertainer]], [[DATABASE/background/Laborer|laborer]], and [[DATABASE/background/Street Urchin|street urchin]]. Halflings make great [[DATABASE/class_/Cleric|clerics]] and [[DATABASE/class_/Rogue|rogues]], but many also become [[DATABASE/class_/Monk|monks]] or [[DATABASE/class_/Ranger|rangers]].
 
 ## Names
 
@@ -105,10 +106,10 @@ Strength
 
 ## Languages
 
-[[Common]]
-[[Halfling]]
-Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[Dwarven]], [[Elven]], [[Gnomish]], [[Goblin]], and any other languages to which you have access (such as the languages prevalent in your region).
+[[DATABASE/language/Common|Common]]
+[[DATABASE/language/Halfling|Halfling]]
+Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[DATABASE/language/Dwarven|Dwarven]], [[DATABASE/language/Elven|Elven]], [[DATABASE/language/Gnomish|Gnomish]], [[DATABASE/language/Goblin|Goblin]], and any other languages to which you have access (such as the languages prevalent in your region).
 
 ## Keen Eyes
 
-Your eyes are sharp, allowing you to make out small details about [[Concealed]] or even [[Invisible]] creatures that others might miss. You gain a +2 circumstance bonus when using the [[Seek]] action to find [[Hidden]] or [[Undetected]] creatures within 30 feet of you. When you target an opponent that is concealed from you or hidden from you, reduce the DC of the flat check to 3 for a concealed target or 9 for a hidden one.
+Your eyes are sharp, allowing you to make out small details about [[DATABASE/condition/Concealed|concealed]] or even [[DATABASE/condition/Invisible|invisible]] creatures that others might miss. You gain a +2 circumstance bonus when using the [[DATABASE/action/Seek|Seek]] action to find [[DATABASE/condition/Hidden|hidden]] or [[DATABASE/condition/Undetected|undetected]] creatures within 30 feet of you. When you target an opponent that is concealed from you or hidden from you, reduce the DC of the flat check to 3 for a concealed target or 9 for a hidden one.

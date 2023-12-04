@@ -13,6 +13,7 @@ prerequisite: '[[DATABASE/feat/Staff Acrobat Dedication|Staff Acrobat Dedication
 rarity: Uncommon
 requirement: You are wielding your staff, which must have the [[DATABASE/trait/Parry|parry]]
   trait.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: The
   Show Must Go On]]'
@@ -29,9 +30,9 @@ type: Feat
 # Whirlwind Stance <span class="action-icon">1</span> <span class="item-type">Feat 10</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Archetype</span><span class="item-trait">Flourish</span><span class="item-trait">Stance</span>
-**Source** [[Pathfinder 151. The Show Must Go On]]
-**Archetype** [[Staff Acrobat]]
-**Prerequisites** [[Staff Acrobat Dedication]]; expert proficiency in your staff
+**Source** [[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: The Show Must Go On]]
+**Archetype** [[DATABASE/archetype/Staff Acrobat|Staff Acrobat]]
+**Prerequisites** [[DATABASE/feat/Staff Acrobat Dedication|Staff Acrobat Dedication]]; expert proficiency in your staff
 **Requirements** You are wielding your staff, which must have the parry trait.
 
 ---
@@ -53,4 +54,4 @@ A stance is a general combat strategy that you enter by using an action with the
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.

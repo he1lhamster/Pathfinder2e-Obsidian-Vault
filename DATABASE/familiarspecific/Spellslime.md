@@ -1,6 +1,7 @@
 ﻿---
 id: '3'
 name: Spellslime
+rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 trait: null
 
@@ -8,22 +9,22 @@ trait: null
 # Spellslime
 
 <span class="item-trait">Ooze</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Required Number of Abilities** 4
-**Granted Abilities** [[Climber]], [[Darkvision]], [[Tough]]
+**Granted Abilities** [[DATABASE/familiarability/Climber|climber]], [[DATABASE/familiarability/Darkvision|darkvision]], [[DATABASE/familiarability/Tough|tough]]
 These friendly, colorful oozes congeal from the essences left over from casting spells. They are extremely loyal to their masters. You can select a spellslime familiar only if you can cast spells using spell slots.
 
-## [[Magic Scent]]
+## [[DATABASE/familiarability/Magic Scent|Magic Scent]]
 
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 Your spellslime familiar gains an imprecise sense with a range of 30 feet that enables it to smell magic of the same tradition as your own.
 
-## [[Ooze Defense]]
+## [[DATABASE/familiarability/Ooze Defense|Ooze Defense]]
 
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 Your spellslime familiar is easy to hit, but it lacks weak points. It is immune to critical hits and precision damage, but its AC is only 10 + your level (instead of an AC equal to yours).
 
-## [[Slime Rejuvenation]]
+## [[DATABASE/familiarability/Slime Rejuvenation|Slime Rejuvenation]]
 
-**Source** [[Advanced Player's Guide]] 
-Your spellslime familiar gains the [[Focused Rejuvenation]] ability, but it recovers 2 Hit Points per level when you [[Refocus]] instead of 1.
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+Your spellslime familiar gains the [[DATABASE/familiarability/Focused Rejuvenation|focused rejuvenation]] ability, but it recovers 2 Hit Points per level when you [[DATABASE/action/Refocus|Refocus]] instead of 1.

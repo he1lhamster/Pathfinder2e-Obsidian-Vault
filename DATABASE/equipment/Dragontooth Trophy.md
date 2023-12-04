@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -58,17 +59,9 @@ weapon_type: null
 
 ## Dragon Damage Types
 
-The _[[Dragonclaw Scutcheon]]_ and _dragontooth trophy_ work with a type of damage depending on what kind of dragon the claw or tooth came from. These items are typically made from [[Dragon, Chromatic]] or [[Dragon, Metallic]] dragons, but your GM might introduce ones made from other types of dragons. These items are typically uncommon or rare, and use the damage type dealt by that dragon's breath weapon.
+The _[[DATABASE/equipment/Dragonclaw Scutcheon|dragonclaw scutcheon]]_ and _dragontooth trophy_ work with a type of damage depending on what kind of dragon the claw or tooth came from. These items are typically made from [[DATABASE/monsterfamily/Dragon, Chromatic|chromatic]] or [[DATABASE/monsterfamily/Dragon, Metallic|metallic]] dragons, but your GM might introduce ones made from other types of dragons. These items are typically uncommon or rare, and use the damage type dealt by that dragon's breath weapon. | 0 | 1 | |:--------------------------------------------------------------------------------------------------------------------------------------------|:------------| | Dragon Type | Damage Type | | [[Dragon, Black]] or [[Dragon, Copper]] | Acid | | [[Dragon, Blue]] or [[Dragon, Bronze]] | Electricity | | [[Dragon, Brass]], [[Dragon, Gold]], or [[Dragon, Red]] | Fire | | [[Dragon, Green]] | Poison | | [[Dragon, Silver]] or [[Dragon, White]] | Cold |
 
-| Dragon Type                                                                                                                                 | Damage Type   |
-|:--------------------------------------------------------------------------------------------------------------------------------------------|:--------------|
-| [[Dragon, Black]] or [[Dragon, Copper]]                                          | Acid          |
-| [[Dragon, Blue]] or [[Dragon, Bronze]]                                            | Electricity   |
-| [[Dragon, Brass]], [[Dragon, Gold]], or [[Dragon, Red]] | Fire          |
-| [[Dragon, Green]]                                                                                              | Poison        |
-| [[Dragon, Silver]] or [[Dragon, White]]                                          | Cold          |
-
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 800 gp
 **Usage** affixed to a weapon; **Bulk** —
 **Activate** <span class="action-icon">4</span> envision **Trigger** You succeed at a Strike with the affixed weapon.

@@ -24,6 +24,7 @@ name: Mace
 price: 1 gp
 range: null
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Shove|Shove]]'
@@ -36,11 +37,11 @@ weapon_type: Melee
 # Mace
 
 <span class="item-trait">Shove</span>
-**Source** [[Core Rulebook]] 
-**Favored Weapon** [[Asmodeus]], [[Bolka]], [[Dispater]], [[Nurgal]], [[Orcus]], [[Otolmens]], [[Qi Zhong]], [[Ragdya]], [[Winlas]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Favored Weapon** [[DATABASE/deity/Asmodeus|Asmodeus]], [[DATABASE/deity/Bolka|Bolka]], [[DATABASE/deity/Dispater|Dispater]], [[DATABASE/deity/Nurgal|Nurgal]], [[DATABASE/deity/Orcus|Orcus]], [[DATABASE/deity/Otolmens|Otolmens]], [[DATABASE/deity/Qi Zhong|Qi Zhong]], [[DATABASE/deity/Ragdya|Ragdya]], [[DATABASE/deity/Winlas|Winlas]]
 **Price** 1 gp; **Damage** 1d6 B; **Bulk** 1
 **Hands** 1
-**Type** Melee; **Category** Simple; **Group** [[Club]]
+**Type** Melee; **Category** Simple; **Group** [[DATABASE/weapongroup/Club|Club]]
 
 ---
 With a stout haft and a heavy metal head, a mace is sturdy and allows its wielder to deliver powerful blows and dent armor.
@@ -49,14 +50,14 @@ With a stout haft and a heavy metal head, a mace is sturdy and allows its wielde
 
 **Shove:**
 
-You can use this weapon to [[Shove]] with the [[Athletics]] skill even if you don't have a free hand. This uses the weapon's reach (if different from your own) and adds the weapon's item bonus to attack rolls as an item bonus to the Athletics check. If you critically fail a check to Shove using the weapon, you can drop the weapon to take the effects of a failure instead of a critical failure.
+You can use this weapon to [[DATABASE/action/Shove|Shove]] with the [[DATABASE/skill/Athletics|Athletics]] skill even if you don't have a free hand. This uses the weapon's reach (if different from your own) and adds the weapon's item bonus to attack rolls as an item bonus to the Athletics check. If you critically fail a check to Shove using the weapon, you can drop the weapon to take the effects of a failure instead of a critical failure.
 
 ## Critical Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
 **Club**: You knock the target away from you up to 10 feet (you choose the distance). This is forced movement.
 
 ## Specific Magic Weapons
 
-[[Auspicious Scepter]]
+[[DATABASE/equipment/Auspicious Scepter|Auspicious Scepter]]

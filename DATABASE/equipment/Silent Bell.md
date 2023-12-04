@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Illusion
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Silent Bell<span class="item-type">Item 9</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Illusion</span><span class="item-trait">Magical</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Price** 600 gp
 **Hands** 1; **Usage** held in 1 hand; **Bulk** L
 **Access** Member of a secret society

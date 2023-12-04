@@ -20,6 +20,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
@@ -37,8 +38,8 @@ type: Focus
 # Armor of Bones<span class="item-type">Focus 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Cursebound</span><span class="item-trait">Necromancy</span><span class="item-trait">Oracle</span>
-**Source** [[Advanced Player's Guide]] 
-**Mystery** [[Bones]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Mystery** [[DATABASE/oraclemystery/Bones|bones]]
 **Cast** <span class="action-icon">1</span> somatic
 **Duration** 1 minute
 

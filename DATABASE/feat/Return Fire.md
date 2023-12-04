@@ -13,6 +13,7 @@ prerequisite: '[[DATABASE/feat/Deflect Arrow|Deflect Arrow]] ; [[DATABASE/feat/M
 rarity: Common
 requirement: You are in Monastic Archer Stance, are wielding a bow, and have a free
   hand.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,8 +26,8 @@ type: Feat
 # Return Fire <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Monk</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** [[Deflect Arrow]]; [[Monastic Archer Stance]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** [[DATABASE/feat/Deflect Arrow|Deflect Arrow]]; [[DATABASE/feat/Monastic Archer Stance|Monastic Archer Stance]]
 **Requirements** You are in Monastic Archer Stance, are wielding a bow, and have a free hand.
 
 ---

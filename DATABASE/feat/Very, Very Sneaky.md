@@ -11,6 +11,7 @@ name: Very, Very Sneaky
 prerequisite: '[[DATABASE/feat/Very Sneaky|Very Sneaky]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,14 +24,14 @@ type: Feat
 # Very, Very Sneaky <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Goblin</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Very Sneaky]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/feat/Very Sneaky|Very Sneaky]]
 
 ---
-You can move up to your Speed when you use the [[Sneak]] action, and you no longer need to have cover or greater cover or be [[Concealed]] to [[Hide]] or Sneak.
+You can move up to your Speed when you use the [[DATABASE/action/Sneak|Sneak]] action, and you no longer need to have cover or greater cover or be [[DATABASE/condition/Concealed|concealed]] to [[DATABASE/action/Hide|Hide]] or Sneak.
 
 ## Traits
 
 **Goblin:**
 
-A creature with this trait can be one of several kinds of creature, including [[Goblin]], [[Hobgoblin]], and [[Bugbear]]. Goblins tend to have darkvision. An ability with this trait can be used or chosen only by goblins. A weapon with this trait is created and used by goblins.
+A creature with this trait can be one of several kinds of creature, including [[DATABASE/ancestry/Goblin|goblins]], [[DATABASE/ancestry/Hobgoblin|hobgoblins]], and [[DATABASE/monsterfamily/Bugbear|bugbears]]. Goblins tend to have darkvision. An ability with this trait can be used or chosen only by goblins. A weapon with this trait is created and used by goblins.

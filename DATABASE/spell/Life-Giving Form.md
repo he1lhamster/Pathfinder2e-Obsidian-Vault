@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
@@ -41,8 +42,8 @@ type: Focus
 # Life-Giving Form<span class="item-type">Focus 6</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Cursebound</span><span class="item-trait">Healing</span><span class="item-trait">Light</span><span class="item-trait">Necromancy</span><span class="item-trait">Oracle</span><span class="item-trait">Positive</span>
-**Source** [[Advanced Player's Guide]] 
-**Mystery** [[Life]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Mystery** [[DATABASE/oraclemystery/Life|life]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Duration** 1 minute
 

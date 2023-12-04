@@ -22,6 +22,7 @@ patron_theme: null
 range: 100 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -39,7 +40,7 @@ type: Spell
 # Fabricated Truth<span class="item-type">Spell 10</span>
 
 <span class="item-trait">Enchantment</span><span class="item-trait">Incapacitation</span><span class="item-trait">Mental</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** occult
 **Cast** <span class="action-icon">3</span> material, somatic, verbal
 **Range** 100 feet; **Targets** up to 5 creatures

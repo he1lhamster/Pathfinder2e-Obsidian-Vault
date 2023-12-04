@@ -3,6 +3,7 @@ creature_family: Lamia
 id: '66'
 name: Lamia
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Lamia
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Lamias are bloodthirsty victims of an ancient curse for which they blame the gods. Most lamias are humanoid from the waist up but have the lower bodies of beasts and monsters. Sinister magic comes naturally to a lamia, and they prefer the use of illusions and enchantments to deceive prey for later consumption, or simply to torture.
 
 ### Members
 
-[[Lamia]] (Creature 6), [[Lamia Matriarch]] (Creature 8)
+[[DATABASE/monster/Lamia|Lamia]] (Creature 6), [[DATABASE/monster/Lamia Matriarch|Lamia Matriarch]] (Creature 8)
 
 ###  Lamia Location
 

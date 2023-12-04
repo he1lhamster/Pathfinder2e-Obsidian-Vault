@@ -7,6 +7,7 @@ id: '470'
 name: Secure Disguises
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
@@ -18,7 +19,7 @@ type: Action
 # Secure Disguises
 
 <span class="item-trait">Downtime</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 
 ---
 You seek to procure or create disguises. Attempt a normal, hard, or very hard Crafting, Deception, Performance, or Society check. 

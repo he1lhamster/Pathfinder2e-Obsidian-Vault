@@ -11,6 +11,7 @@ name: Advanced Targeting System
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Advanced Targeting System <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Android</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-Your ocular processors are augmented with advanced targeting systems, which allow you to more easily pinpoint your enemy and read their movements. You can cast [[True Strike]] once per day as a 1st-level arcane innate spell.
+Your ocular processors are augmented with advanced targeting systems, which allow you to more easily pinpoint your enemy and read their movements. You can cast [[DATABASE/spell/True Strike|true strike]] once per day as a 1st-level arcane innate spell.
 
 ## Traits
 

@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 size: null
@@ -57,7 +58,7 @@ weapon_type: null
 # Healing Potion<span class="item-type">Item 1+</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Healing</span><span class="item-trait">Magical</span><span class="item-trait">Necromancy</span><span class="item-trait">Positive</span><span class="item-trait">Potion</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
@@ -66,30 +67,30 @@ A _healing potion_ is a vial of a ruby-red liquid that imparts a tingling sensat
 
 ## Healing Potion (Minor)<span class="item-type">Item 1</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 4 gp
 The potion restores 1d8 Hit Points.
 
 ## Healing Potion (Lesser)<span class="item-type">Item 3</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 12 gp
 The potion restores 2d8+5 Hit Points.
 
 ## Healing Potion (Moderate)<span class="item-type">Item 6</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 50 gp
 The potion restores 3d8+10 Hit Points.
 
 ## Healing Potion (Greater)<span class="item-type">Item 12</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 400 gp
 The potion restores 6d8+20 Hit Points.
 
 ## Healing Potion (Major)<span class="item-type">Item 18</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 5,000 gp
 The potion restores 8d8+30 Hit Points.

@@ -11,6 +11,7 @@ name: Cindersoul
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -24,16 +25,16 @@ type: Feat
 # Cindersoul <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Ifrit</span><span class="item-trait">Lineage</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-The fire of your elemental ancestor manifests like dying embers of a blaze, and your inner charcoal helps staunch bleeding, purify simple poisons, and absorb acid. The DC for you to recover from [[Persistent Damage]] is 10 instead of 15 (or 5 if you have particularly effective assistance).
+The fire of your elemental ancestor manifests like dying embers of a blaze, and your inner charcoal helps staunch bleeding, purify simple poisons, and absorb acid. The DC for you to recover from [[DATABASE/condition/Persistent Damage|persistent acid, bleed, and poison damage]] is 10 instead of 15 (or 5 if you have particularly effective assistance).
 
 ## Traits
 
 **Ifrit:**
 
-Ifrits are planar scions descended from [[Efreeti]].
+Ifrits are planar scions descended from [[DATABASE/monster/Efreeti|efreet]].
 
 **Lineage:**
 

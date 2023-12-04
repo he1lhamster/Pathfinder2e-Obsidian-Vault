@@ -12,6 +12,7 @@ name: Air Repeater
 price: 5 gp
 range: 30 ft.
 rarity: Uncommon
+rus_type_level: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
 - '[[DATABASE/trait/Agile|Agile]]'
@@ -26,12 +27,12 @@ weapon_type: Ranged
 # Air Repeater
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Agile</span><span class="item-trait">Repeating</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Access** The following regions have access to firearms: Alkenstar, Dongun Hold, Tian Xia, Vudra, Arcadia, Ustalav, the Shackles
 **Price** 5 gp; **Damage** 1d4 P; **Bulk** L
 **Hands** 1; **Range** 30 ft.; **Reload** 0
-**Type** Ranged; **Category** Simple; **Group** [[Firearm]]
-**Ammunition** [[Magazine (Air Repeater)]]
+**Type** Ranged; **Category** Simple; **Group** [[DATABASE/weapongroup/Firearm|Firearm]]
+**Ammunition** [[DATABASE/weapon/Magazine (Air Repeater)|Magazine (Air Repeater)]]
 
 ---
 A thin-barreled firearm that uses a container of pressurized air instead of black powder to propel small metal bullets from an attached cartridge, the air repeater has fallen out of common use in Arcadia due to its poor stopping power, though it's still used occasionally for casual hunting and sport shooting. The air repeater and its longer-ranged, two-handed variant are still valued by some for their ability to allow a shooter to fire multiple rounds without needing to stop to reload or crank to a new chamber. A typical air repeater magazine holds 6 pellets.
@@ -48,14 +49,14 @@ A repeating weapon is a type of ranged weapon with a shorter reload time. These 
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.
 
 ## Critical Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
-**Firearm**: The target must succeed at a Fortitude save against your class DC or be [[Stunned]].
+**Firearm**: The target must succeed at a Fortitude save against your class DC or be [[DATABASE/condition/Stunned|stunned 1]].
 
 ## Specific Magic Weapons
 
-[[Dezullon Fountain]]
+[[DATABASE/equipment/Dezullon Fountain|Dezullon Fountain]]

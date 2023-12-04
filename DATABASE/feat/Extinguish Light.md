@@ -11,6 +11,7 @@ name: Extinguish Light
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -26,11 +27,11 @@ type: Feat
 # Extinguish Light <span class="action-icon">2</span> <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Darkness</span><span class="item-trait">Evocation</span><span class="item-trait">Fetchling</span><span class="item-trait">Occult</span>
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 **Frequency** once every 10 minutes
 
 ---
-You wrap shadow around a single unattended light source within 120 feet that's no larger than a torch. Any non-magical light source you target is automatically extinguished. For magical light sources, attempt a counteract check using your Fortitude or [[Thievery]] modifier against the target's DC. Your counteract level is equal to half your level rounded up. Successfully counteracting the light source suppresses its ability to produce light for 1 minute, but not any other effects. If you're in dim light or darkness when you Extinguish Light, its range is 240 feet.
+You wrap shadow around a single unattended light source within 120 feet that's no larger than a torch. Any non-magical light source you target is automatically extinguished. For magical light sources, attempt a counteract check using your Fortitude or [[DATABASE/skill/Thievery|Thievery]] modifier against the target's DC. Your counteract level is equal to half your level rounded up. Successfully counteracting the light source suppresses its ability to produce light for 1 minute, but not any other effects. If you're in dim light or darkness when you Extinguish Light, its range is 240 feet.
 
 ## Traits
 
@@ -44,7 +45,7 @@ Effects and magic items with this trait are associated with the evocation school
 
 **Fetchling:**
 
-A creature with this trait is a member of the fetchling ancestry. Fetchlings were once human, but generations of life on the [[Shadow Plane]] have transformed them.
+A creature with this trait is a member of the fetchling ancestry. Fetchlings were once human, but generations of life on the [[DATABASE/plane/Shadow Plane|Shadow Plane]] have transformed them.
 
 **Occult:**
 

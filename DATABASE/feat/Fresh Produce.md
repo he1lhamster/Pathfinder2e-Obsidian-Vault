@@ -11,6 +11,7 @@ name: Fresh Produce
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -29,7 +30,7 @@ type: Feat
 # Fresh Produce <span class="action-icon">1</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Healing</span><span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Plant</span><span class="item-trait">Primal</span><span class="item-trait">Vitality</span><span class="item-trait">Wood</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
 You grow a nourishing nut, vegetable, seed, or fruit. Choose a creature in your kinetic aura. The produce grows in their open hand, or at their feet if they have no open hands. The produce has light Bulk. A creature can eat it with an Interact action to regain 1d4 + 1 HP; this is a healing vitality effect. The creature feels full for 10 minutes, during which it has resistance 2 to void damage and can't eat another piece of produce. Produce not consumed by the start of your next turn withers away.

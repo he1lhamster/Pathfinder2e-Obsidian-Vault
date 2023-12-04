@@ -11,6 +11,7 @@ name: Whirlwind Strike
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -26,7 +27,7 @@ type: Feat
 # Whirlwind Strike <span class="action-icon">3</span> <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Barbarian</span><span class="item-trait">Fighter</span><span class="item-trait">Flourish</span><span class="item-trait">Open</span>
-**Source** [[Core Rulebook]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
 You attack all nearby adversaries. Make a melee Strike against each enemy within your melee reach. Each attack counts toward your multiple attack penalty, but do not increase your penalty until you have made all your attacks.

@@ -11,6 +11,7 @@ name: Handy with Your Paws
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 153. Life''s Long Shadows|Pathfinder #153: Life''s
   Long Shadows]]'
@@ -24,17 +25,15 @@ type: Feat
 # Handy with Your Paws <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Shoony</span>
-**Source** [[Pathfinder 153. Life's Long Shadows]]
+**Source** [[DATABASE/source/Pathfinder 153. Life's Long Shadows|Pathfinder #153: Life's Long Shadows]]
 
 ---
-You gain a +1 circumstance bonus to [[Crafting]] checks to [[Repair]] non-magical items, and you don’t need a [[Repair Kit]] for such repairs as long as you have any amount of junk, spare parts, or debris at your disposal.
+You gain a +1 circumstance bonus to [[DATABASE/skill/Crafting|Crafting]] checks to [[DATABASE/action/Repair|Repair]] non-magical items, and you don’t need a [[DATABASE/equipment/Repair Kit|repair kit]] for such repairs as long as you have any amount of junk, spare parts, or debris at your disposal.
 
 ## Handy with Your Paws Leads To...
 
-[[Unrivaled Builder]]
+[[DATABASE/feat/Unrivaled Builder|Unrivaled Builder]]
 
 ## Traits
 
 **Shoony:**
-
-_Note from Nethys: no description was provided for this trait_

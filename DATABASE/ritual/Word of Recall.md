@@ -13,6 +13,7 @@ primary_check: '[[DATABASE/skill/Arcana|Arcana]] or [[DATABASE/skill/Occultism|O
 range: 20 feet
 rarity: Rare
 requirement: null
+rus_type_level: null
 school: Conjuration
 secondary_casters: '2'
 secondary_check: Arcana or Occultism (whichever isn't used for the primary check),
@@ -29,9 +30,9 @@ type: Ritual
 # Word of Recall<span class="item-type">Ritual 7</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Conjuration</span><span class="item-trait">Teleportation</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Cast** 7 days; **Cost** rare oils and powdered minerals worth 5,000 gp; **Secondary Casters** 2
-**Primary Check** [[Arcana]] or [[Occultism]] (expert, the check has the secret trait); **Secondary Checks** Arcana or Occultism (whichever isn't used for the primary check), [[Society]]
+**Primary Check** [[DATABASE/skill/Arcana|Arcana]] or [[DATABASE/skill/Occultism|Occultism]] (expert, the check has the secret trait); **Secondary Checks** Arcana or Occultism (whichever isn't used for the primary check), [[DATABASE/skill/Society|Society]]
 **Range** 20 feet; **Target(s)** Up to seven willing creatures of 14th level or lower
 **Duration** 1 year
 

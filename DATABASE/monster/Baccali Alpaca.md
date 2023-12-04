@@ -65,22 +65,22 @@ wisdom: '+2'
 # Baccali Alpaca
 
 A Druman breed of alpaca, the baccali alpaca is prized for its exceptionally soft wool.
-**Recall Knowledge - Animal ([[Nature]])**: DC 14
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 14
 **Unspecific Lore**: DC 12
 **Specific Lore**: DC 9
 
 # Baccali Alpaca<span class="item-type">Creature 0</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Animal</span>
-**Source** [[Travel Guide]]
-**Perception** +4; [[Low-Light Vision]], [[Scent]] (imprecise) 30 feet
-**Skills** [[Acrobatics]] +4, [[Athletics]] +7
+**Source** [[DATABASE/source/Travel Guide|Travel Guide]]
+**Perception** +4; [[DATABASE/monsterability/Low-Light Vision|low-light vision]], [[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +4, [[DATABASE/skill/Athletics|Athletics]] +7
 **Str** +3, **Dex** +2, **Con** +3, **Int** -4, **Wis** +2, **Cha** +0
 
 ---
 **AC** 14; **Fort** +7, **Ref** +4, **Will** +4
 **HP** 16
-<span class="in-box-ability">**[[Buck]] <span class="action-icon">5</span> ** DC 15</span>
+<span class="in-box-ability">**[[DATABASE/monsterability/Buck|Buck]] <span class="action-icon">5</span> ** DC 15</span>
 
 ---
 **Speed** 35 feet

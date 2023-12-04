@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -50,7 +51,7 @@ weapon_type: null
 ---
 # Gerbil or Hamster<span class="item-type">Item 0</span>
 
-**Source** [[Travel Guide]]
+**Source** [[DATABASE/source/Travel Guide|Travel Guide]]
 **Price** 1 sp
 **Bulk** —
 

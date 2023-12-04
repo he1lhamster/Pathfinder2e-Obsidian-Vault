@@ -11,6 +11,7 @@ name: Push Back the Dead!
 prerequisite: '[[DATABASE/feat/Marshal Dedication|Marshal Dedication]]'
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
 subcategory: null
@@ -27,9 +28,9 @@ type: Feat
 # Push Back the Dead! <span class="action-icon">1</span> <span class="item-type">Feat 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Archetype</span><span class="item-trait">Auditory</span><span class="item-trait">Emotion</span><span class="item-trait">Stance</span>
-**Source** [[Knights of Lastwall]]
-**Archetype** [[Marshal]]
-**Prerequisites** [[Marshal Dedication]]
+**Source** [[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]
+**Archetype** [[DATABASE/archetype/Marshal|Marshal]]
+**Prerequisites** [[DATABASE/feat/Marshal Dedication|Marshal Dedication]]
 **Access** Knights of Lastwall have access to this feat.
 
 ---
@@ -43,7 +44,7 @@ This feat belongs to an archetype.
 
 **Auditory:**
 
-Auditory actions and effects rely on sound. An action with the auditory trait can be successfully performed only if the creature using the action can speak or otherwise produce the required sounds. A spell or effect with the auditory trait has its effect only if the target can hear it. This applies only to sound-based parts of the effect, as determined by the GM. This is different from a sonic effect, which still affects targets who can't hear it (such as [[Deafened]] targets) as long as the effect itself makes sound.
+Auditory actions and effects rely on sound. An action with the auditory trait can be successfully performed only if the creature using the action can speak or otherwise produce the required sounds. A spell or effect with the auditory trait has its effect only if the target can hear it. This applies only to sound-based parts of the effect, as determined by the GM. This is different from a sonic effect, which still affects targets who can't hear it (such as [[DATABASE/condition/Deafened|deaf]] targets) as long as the effect itself makes sound.
 
 **Emotion:**
 
@@ -55,4 +56,4 @@ A stance is a general combat strategy that you enter by using an action with the
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.

@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -52,21 +53,21 @@ weapon_type: null
 # Disrupting<span class="item-type">Item 5+</span>
 
 <span class="item-trait">Magical</span><span class="item-trait">Necromancy</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** etched onto a melee weapon; **Bulk** —
 
 ---
-A _disrupting_ weapon pulses with positive energy, dealing an extra 1d6 positive damage to undead. On a critical hit, the undead is also [[Enfeebled]] until the end of your next turn.
+A _disrupting_ weapon pulses with positive energy, dealing an extra 1d6 positive damage to undead. On a critical hit, the undead is also [[DATABASE/condition/Enfeebled|enfeebled 1]] until the end of your next turn.
 
 ## Disrupting<span class="item-type">Item 5</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 150 gp
 
 ## Disrupting (Greater)<span class="item-type">Item 14</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 4,300 gp
 Increase the extra damage to 2d6. On a critical hit, instead of being enfeebled 1, the undead creature must attempt a DC 34 Fortitude save with the following effects. This is an incapacitation effect.
 **Critical Success** It’s enfeebled 1 until the end of your next turn.

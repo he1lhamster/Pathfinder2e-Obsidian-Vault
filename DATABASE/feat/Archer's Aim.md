@@ -11,6 +11,7 @@ name: Archer's Aim
 prerequisite: '[[DATABASE/feat/Archer Dedication|Archer Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,12 +25,12 @@ type: Feat
 # Archer's Aim <span class="action-icon">2</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Concentrate</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Archer]]
-**Prerequisites** [[Archer Dedication]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Archer|Archer]]
+**Prerequisites** [[DATABASE/feat/Archer Dedication|Archer Dedication]]
 
 ---
-You slow down, focus, and take a careful shot. Make a ranged Strike with a weapon in the [[Bow]] weapon group. You gain a +2 circumstance bonus to the attack roll and ignore the target's [[Concealed]] condition. If the target is [[Hidden]], reduce the flat check from being hidden from 11 to 5.
+You slow down, focus, and take a careful shot. Make a ranged Strike with a weapon in the [[DATABASE/weapongroup/Bow|bow]] weapon group. You gain a +2 circumstance bonus to the attack roll and ignore the target's [[DATABASE/condition/Concealed|concealed]] condition. If the target is [[DATABASE/condition/Hidden|hidden]], reduce the flat check from being hidden from 11 to 5.
 
 ## Traits
 

@@ -11,6 +11,7 @@ name: Concealing Legerdemain
 prerequisite: Trained in [[DATABASE/skill/Thievery|Thievery]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: thievery
@@ -24,11 +25,11 @@ type: Feat
 # Concealing Legerdemain <span class="item-type">Feat 1</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** trained in [[Thievery]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** trained in [[DATABASE/skill/Thievery|Thievery]]
 
 ---
-Rather than hide an object somewhere the inspectors won't search, you're skilled at keeping the object on the move so it's never where they look. When you [[Conceal an Object]] of light Bulk or less, you can use [[Thievery]] instead of [[Stealth]] for your checks and for the DC of an active searcher's Perception check. You roll the check only once, but you must continue to use actions to Conceal an Object throughout the process.
+Rather than hide an object somewhere the inspectors won't search, you're skilled at keeping the object on the move so it's never where they look. When you [[DATABASE/action/Conceal an Object|Conceal an Object]] of light Bulk or less, you can use [[DATABASE/skill/Thievery|Thievery]] instead of [[DATABASE/skill/Stealth|Stealth]] for your checks and for the DC of an active searcher's Perception check. You roll the check only once, but you must continue to use actions to Conceal an Object throughout the process.
 
 ## Traits
 

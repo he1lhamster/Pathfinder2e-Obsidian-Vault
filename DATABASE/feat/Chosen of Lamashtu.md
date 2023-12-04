@@ -11,6 +11,7 @@ name: Chosen of Lamashtu
 prerequisite: worshipper of [[DATABASE/deity/Lamashtu|Lamashtu]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 subcategory: null
@@ -23,14 +24,14 @@ type: Feat
 # Chosen of Lamashtu <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Goblin</span>
-**Source** [[Character Guide]] 
-**Prerequisites** worshipper of [[Lamashtu]]
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
+**Prerequisites** worshipper of [[DATABASE/deity/Lamashtu|Lamashtu]]
 
 ---
-You bear the favor and blessings of [[Lamashtu]], the Mother of Monsters. She has bestowed a mutation upon you, granting you the benefits of another heritage. Choose one goblin heritage that you do not already have; you gain that heritage and its benefits.
+You bear the favor and blessings of [[DATABASE/deity/Lamashtu|Lamashtu]], the Mother of Monsters. She has bestowed a mutation upon you, granting you the benefits of another heritage. Choose one goblin heritage that you do not already have; you gain that heritage and its benefits.
 
 ## Traits
 
 **Goblin:**
 
-A creature with this trait can be one of several kinds of creature, including [[Goblin]], [[Hobgoblin]], and [[Bugbear]]. Goblins tend to have darkvision. An ability with this trait can be used or chosen only by goblins. A weapon with this trait is created and used by goblins.
+A creature with this trait can be one of several kinds of creature, including [[DATABASE/ancestry/Goblin|goblins]], [[DATABASE/ancestry/Hobgoblin|hobgoblins]], and [[DATABASE/monsterfamily/Bugbear|bugbears]]. Goblins tend to have darkvision. An ability with this trait can be used or chosen only by goblins. A weapon with this trait is created and used by goblins.

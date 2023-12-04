@@ -71,17 +71,17 @@ wisdom: '+2'
 # Ulat-Kini Initiate
 
 Several groups of ulat-kinis have rediscovered the ancient way of kirtanang, a martial art from that uses broad, flowing motions of the claws.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 21
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 21
 **Unspecific Lore**: DC 19
 **Specific Lore**: DC 16
 
 # Ulat-Kini Initiate<span class="item-type">Creature 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Amphibious</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 194. Cult of the Cave Worm]]
-**Perception** +10; [[Darkvision]]
-**Languages** [[Alghollthu]], [[Undercommon]]
-**Skills** [[Athletics]] +11, [[Intimidation]] +8, [[Stealth]] +11 (+13 while swimming)
+**Source** [[DATABASE/source/Pathfinder 194. Cult of the Cave Worm|Pathfinder #194: Cult of the Cave Worm]]
+**Perception** +10; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Alghollthu|Alghollthu]], [[DATABASE/language/Undercommon|Undercommon]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +11, [[DATABASE/skill/Intimidation|Intimidation]] +8, [[DATABASE/skill/Stealth|Stealth]] +11 (+13 while swimming)
 **Str** +3, **Dex** +5, **Con** +2, **Int** +0, **Wis** +2, **Cha** +0
 
 ---
@@ -90,7 +90,7 @@ Several groups of ulat-kinis have rediscovered the ancient way of kirtanang, a m
 
 ---
 **Speed** 20 feet, swim 40 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +15 [+11/+7] (agile, finesse), **Damage** 1d8+5 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> fangs +13 [+8/+3], **Damage** 2d4+5 piercing plus 1 [[Persistent Damage]]</span><span class="in-box-ability">**Flurry of Claws** <span class="action-icon">1</span> **Frequency** once per round; **Effect** The ulat-kini initiate makes two claw Strikes against a single target.</span><span class="in-box-ability">**Kirtanang** The initiate's Strikes take no penalty from passing through water.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +15 [+11/+7] (agile, finesse), **Damage** 1d8+5 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> fangs +13 [+8/+3], **Damage** 2d4+5 piercing plus 1 [[DATABASE/condition/Persistent Damage|persistent bleed]]</span><span class="in-box-ability">**Flurry of Claws** <span class="action-icon">1</span> **Frequency** once per round; **Effect** The ulat-kini initiate makes two claw Strikes against a single target.</span><span class="in-box-ability">**Kirtanang** The initiate's Strikes take no penalty from passing through water.</span>
 
 ###  Ulat-Kini Culture
 

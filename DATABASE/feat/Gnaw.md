@@ -11,6 +11,7 @@ name: Gnaw
 prerequisite: '[[DATABASE/feat/Vicious Incisors|Vicious Incisors]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Gnaw <span class="action-icon">3</span> <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Ratfolk</span>
-**Source** [[Ancestry Guide]] 
-**Prerequisites** [[Vicious Incisors]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
+**Prerequisites** [[DATABASE/feat/Vicious Incisors|Vicious Incisors]]
 
 ---
 With enough time and determination, you can chew through nearly anything. You deal double your jaws damage to an unattended, inanimate object.

@@ -11,6 +11,7 @@ name: Perfect Clarity
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -26,7 +27,7 @@ type: Feat
 # Perfect Clarity <span class="action-icon">5</span> <span class="item-type">Feat 18</span>
 
 <span class="item-trait">Barbarian</span><span class="item-trait">Concentrate</span><span class="item-trait">Fortune</span><span class="item-trait">Rage</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Trigger** You fail or critically fail an attack roll or Will save.
 
 ---

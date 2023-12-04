@@ -72,19 +72,19 @@ wisdom: '+1'
 # Ogre Boss
 
 In ogre society, might makes more than right—it makes the rules. The strongest or most violent ogre in a family (in most cases, this is the same ogre) is invariably that family’s boss. Quick to hook fallen foes on their weapons, even other ogres fear the repercussions of displeasing an ogre boss. When an ogre boss barks out commands, the other members of the family move quickly to obey.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 23
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 23
 **Unspecific Lore**: DC 21
 **Specific Lore**: DC 18
 
 # Ogre Boss<span class="item-type">Creature 7</span>
 
 <span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Giant</span><span class="item-trait">Humanoid</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +12; darkvision
-**Languages** [[Common]], [[Jotun]]
-**Skills** [[Athletics]] +16, [[Intimidation]] +16, [[Stealth]] +11
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Jotun|Jotun]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +16, [[DATABASE/skill/Intimidation|Intimidation]] +16, [[DATABASE/skill/Stealth|Stealth]] +11
 **Str** +7, **Dex** +0, **Con** +4, **Int** +0, **Wis** +1, **Cha** +1
-**Items** [[Ogre Hook]], [[Breastplate]], [[Javelin]]
+**Items** [[DATABASE/weapon/Ogre Hook|+1 ogre hook]], [[DATABASE/armor/Breastplate|breastplate]], [[DATABASE/weapon/Javelin|javelin (6)]]
 
 ---
 **AC** 25; **Fort** +17, **Ref** +12, **Will** +15

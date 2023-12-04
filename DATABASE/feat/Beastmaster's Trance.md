@@ -11,6 +11,7 @@ name: Beastmaster's Trance
 prerequisite: '[[DATABASE/feat/Beastmaster Dedication|Beastmaster Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,12 +24,12 @@ type: Feat
 # Beastmaster's Trance <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Beastmaster]]
-**Prerequisites** [[Beastmaster Dedication]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Beastmaster|Beastmaster]]
+**Prerequisites** [[DATABASE/feat/Beastmaster Dedication|Beastmaster Dedication]]
 
 ---
-You can enter a trance that allows you to briefly inhabit the body of one of your animal companions and share its senses. You gain the focus spell [[Beastmaster Trance]]. Increase the number of Focus Points in your focus pool by 1.
+You can enter a trance that allows you to briefly inhabit the body of one of your animal companions and share its senses. You gain the focus spell [[DATABASE/spell/Beastmaster Trance|beastmaster trance]]. Increase the number of Focus Points in your focus pool by 1.
 
 ## Traits
 

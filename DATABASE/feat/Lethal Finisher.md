@@ -11,6 +11,7 @@ name: Lethal Finisher
 prerequisite: '[[DATABASE/class_/Swashbuckler|precise strike 6d6]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,8 +26,8 @@ type: Feat
 # Lethal Finisher <span class="action-icon">1</span> <span class="item-type">Feat 18</span>
 
 <span class="item-trait">Death</span><span class="item-trait">Finisher</span><span class="item-trait">Swashbuckler</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** [[Swashbuckler]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** [[DATABASE/class_/Swashbuckler|precise strike 6d6]]
 
 ---
 You stab your foe in a vital organ, possibly killing them outright. Make a Strike. On a success, you forego your precise strike damage from the finisher. Instead, your target takes additional precision damage based on a Fortitude save against your class DC. If your Strike was a critical hit, the target's saving throw outcome is one degree worse.

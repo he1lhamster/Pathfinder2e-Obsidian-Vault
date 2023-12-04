@@ -12,6 +12,7 @@ prerequisite: Legendary in [[DATABASE/skill/Deception|Deception]] ; [[DATABASE/f
   Distraction|Perfect Distraction]]
 rarity: Common
 requirement: You have Perfect Distraction ready to use.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -27,8 +28,8 @@ type: Feat
 # Reactive Distraction <span class="action-icon">5</span> <span class="item-type">Feat 20</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Manipulate</span><span class="item-trait">Rogue</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** legendary in [[Deception]]; [[Perfect Distraction]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** legendary in [[DATABASE/skill/Deception|Deception]]; [[DATABASE/feat/Perfect Distraction|Perfect Distraction]]
 **Trigger** You would be hit by an attack or targeted by an effect, or you are within an effect’s area.
 **Requirements** You have Perfect Distraction ready to use.
 

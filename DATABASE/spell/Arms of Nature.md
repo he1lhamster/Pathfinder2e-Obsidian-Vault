@@ -20,6 +20,7 @@ patron_theme: null
 range: touch
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
@@ -38,8 +39,8 @@ type: Focus
 # Arms of Nature<span class="item-type">Focus 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Concentrate</span><span class="item-trait">Focus</span><span class="item-trait">Manipulate</span><span class="item-trait">Wood</span>
-**Source** [[Rage of Elements]]
-**Domain** [[Wood Domain]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
+**Domain** [[DATABASE/domain/Wood Domain|wood]]
 **Cast** <span class="action-icon">2</span> 
 **Range** touch; **Targets** 1 wooden object or plant of at least 4 Bulk
 **Duration** 1 minute
@@ -48,6 +49,6 @@ type: Focus
 All wood, dead or alive, is your armory. When you cast this spell, you draw forth a _+1_ weapon of your choice from the target. The weapon must be 2 Bulk or less. This weapon is of the same material as the target.
 
 ---
-**Heightened (3rd)** The weapon is a _+1 [[Striking]]_ weapon.
+**Heightened (3rd)** The weapon is a _+1 [[DATABASE/equipment/Striking|striking]]_ weapon.
 **Heightened (5th)** The weapon is a _+2 striking_ weapon.
 **Heightened (7th)** The weapon is a _+3 greater striking_ weapon.

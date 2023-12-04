@@ -26,6 +26,7 @@ follower_alignment:
 id: '218'
 name: Ravithra
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Occultism|Occultism]]'
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
@@ -35,7 +36,7 @@ type: Deity
 ---
 # Ravithra (The Mother of Nagas; The Chalice-Bearer) [LN]
 
-**Source** [[Impossible Lands]], [[Pathfinder 161. Belly of the Black Whale]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]], [[DATABASE/source/Pathfinder 161. Belly of the Black Whale|Pathfinder #161: Belly of the Black Whale]]
 The Mother of Nagas, the Karmic Pillar, and the Chalice-Bearer of the danavas, Ravithra was decapitated and brought low by treachery. She grants boons only to mortal champions who seek to topple the treacherous and to restore her to her rightful role.
 **Category** Other Gods
 **Edicts** enforce karma's pitiless judgment, shame fools, kill traitors, pursue the Chalice of Amrit
@@ -45,10 +46,10 @@ The Mother of Nagas, the Karmic Pillar, and the Chalice-Bearer of the danavas, R
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Intelligence or Wisdom
-**Divine Font** _[[Harm]]_
-**Divine Skill** [[Occultism]]
-**Favored Weapon** [[Fist]] or [[Light Mace]]
-**Domains** [[Fate Domain]], [[Naga Domain]], [[Sorrow Domain]], [[Truth Domain]]
-**Alternate Domains** [[Ambition Domain]], [[Soul Domain]]
-**Cleric Spells** 1st: _[[Charm]]_, 2nd: _[[Animal Form]]_ (snake only), 4th: _[[Clairvoyance]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Intelligence or Wisdom
+**Divine Font** _[[DATABASE/spell/Harm|harm]]_
+**Divine Skill** [[DATABASE/skill/Occultism|Occultism]]
+**Favored Weapon** [[DATABASE/weapon/Fist|jaws]] or [[DATABASE/weapon/Light Mace|light mace]]
+**Domains** [[DATABASE/domain/Fate Domain|fate]], [[DATABASE/domain/Naga Domain|naga]], [[DATABASE/domain/Sorrow Domain|sorrow]], [[DATABASE/domain/Truth Domain|truth]]
+**Alternate Domains** [[DATABASE/domain/Ambition Domain|ambition]], [[DATABASE/domain/Soul Domain|soul]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Charm|charm]]_, 2nd: _[[DATABASE/spell/Animal Form|animal form]]_ (snake only), 4th: _[[DATABASE/spell/Clairvoyance|clairvoyance]]_

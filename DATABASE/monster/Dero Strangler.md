@@ -74,26 +74,26 @@ wisdom: '-1'
 # Dero Strangler
 
 Dero stranglers specialize in capturing living victims, and they are often called upon to aid in abductions.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 18
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Dero Strangler<span class="item-type">Creature 3</span>
 
 <span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Small</span><span class="item-trait">Dero</span><span class="item-trait">Humanoid</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +6; darkvision
-**Languages** [[Aklo]], [[Undercommon]]
-**Skills** [[Athletics]] +11, [[Intimidation]] +7, [[Medicine]] +4, [[Stealth]] +10
+**Languages** [[DATABASE/language/Aklo|Aklo]], [[DATABASE/language/Undercommon|Undercommon]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +11, [[DATABASE/skill/Intimidation|Intimidation]] +7, [[DATABASE/skill/Medicine|Medicine]] +4, [[DATABASE/skill/Stealth|Stealth]] +10
 **Str** +4, **Dex** +3, **Con** +3, **Int** +0, **Wis** -1, **Cha** +2
-**Items** [[Aklys]], [[Hand Crossbow]], [[Lethargy Poison]], [[Rope]]
+**Items** [[DATABASE/weapon/Aklys|aklys]], [[DATABASE/weapon/Hand Crossbow|hand crossbow (10 bolts)]], [[DATABASE/equipment/Lethargy Poison|lethargy poison (5 doses)]], [[DATABASE/equipment/Rope|rope (50 feet)]]
 
 ---
 **AC** 19; **Fort** +10, **Ref** +8, **Will** +6
-**HP** 45; **Immunities** [[Confused]]; **Weaknesses** vulnerable to sunlight
+**HP** 45; **Immunities** [[DATABASE/condition/Confused|confusion]]; **Weaknesses** vulnerable to sunlight
 <span class="in-box-ability">**Vulnerable to Sunlight** A dero strangler takes 8 damage for every hour they're exposed to sunlight.</span>
 
 ---
 **Speed** 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> aklys +11 [+6/+1] (trip), **Damage** 1d6+6 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> aklys +10 [+5/+0] (ranged trip, tethered, thrown 20 feet), **Damage** 1d6+6 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> hand crossbow +10 [+5/+0] (range increment 60 feet, reload 1), **Damage** 1d6+2 piercing plus [[Lethargy Poison]]</span>**Occult Innate Spells** DC 19; **2nd** _[[Darkness]]_ (at will), _[[Sound Burst]]_; **Cantrips** **(2nd)** _[[Daze]]_, _[[Ghost Sound]]_
-<span class="in-box-ability">**Strangle** <span class="action-icon">1</span> (attack, nonlethal) **Requirement** The dero must have two free hands, or be wielding an aklys and have one hand free. **Effect** The dero attempts an [[Athletics]] check to Grab with a +2 circumstance bonus. On a success, the target takes 1d6+6 bludgeoning damage. Double the damage on a critical success.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> aklys +11 [+6/+1] (trip), **Damage** 1d6+6 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> aklys +10 [+5/+0] (ranged trip, tethered, thrown 20 feet), **Damage** 1d6+6 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> hand crossbow +10 [+5/+0] (range increment 60 feet, reload 1), **Damage** 1d6+2 piercing plus [[DATABASE/equipment/Lethargy Poison|lethargy poison]]</span>**Occult Innate Spells** DC 19; **2nd** _[[DATABASE/spell/Darkness|darkness]]_ (at will), _[[DATABASE/spell/Sound Burst|sound burst]]_; **Cantrips** **(2nd)** _[[DATABASE/spell/Daze|daze]]_, _[[DATABASE/spell/Ghost Sound|ghost sound]]_
+<span class="in-box-ability">**Strangle** <span class="action-icon">1</span> (attack, nonlethal) **Requirement** The dero must have two free hands, or be wielding an aklys and have one hand free. **Effect** The dero attempts an [[DATABASE/skill/Athletics|Athletics]] check to Grab with a +2 circumstance bonus. On a success, the target takes 1d6+6 bludgeoning damage. Double the damage on a critical success.</span>

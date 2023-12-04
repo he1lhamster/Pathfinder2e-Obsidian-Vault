@@ -11,6 +11,7 @@ name: Warren Friend
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -24,10 +25,10 @@ type: Feat
 # Warren Friend <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Downtime</span><span class="item-trait">Ratfolk</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-You're adept at making contact with other ysoki. When you arrive at a new settlement, you automatically find the nearest ratfolk enclave by spending 1 day of downtime searching, provided one exists and its members aren't actively hiding from you. Once you've made contact, you gain a +1 circumstance bonus to [[Gather Information]] and [[Earn Income]] in the settlement.
+You're adept at making contact with other ysoki. When you arrive at a new settlement, you automatically find the nearest ratfolk enclave by spending 1 day of downtime searching, provided one exists and its members aren't actively hiding from you. Once you've made contact, you gain a +1 circumstance bonus to [[DATABASE/action/Gather Information|Gather Information]] and [[DATABASE/action/Earn Income|Earn Income]] in the settlement.
 
 ## Traits
 

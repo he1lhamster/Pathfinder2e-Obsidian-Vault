@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -52,7 +53,7 @@ weapon_type: null
 # Orichalcum Shield<span class="item-type">Item 17+</span>
 
 <span class="trait-rare item-trait">Rare</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** varies by shield; **Bulk** —
 
 ---
@@ -60,11 +61,11 @@ Orichalcum shields’ time-bending properties are particularly useful for keepin
 
 ### Base Material
 
-[[Orichalcum]]
+[[DATABASE/equipment/Orichalcum|Orichalcum]]
 
 ## Orichalcum Buckler (High-Grade)<span class="item-type">Item 17</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 12,000 gp
 **Bulk** L
 The shield has Hardness 14, HP 56, and BT 28.
@@ -72,7 +73,7 @@ The shield has Hardness 14, HP 56, and BT 28.
 
 ## Orichalcum Shield (High-Grade)<span class="item-type">Item 17</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 13,200 gp
 **Bulk** 1
 The shield has Hardness 16, HP 64, and BT 32.

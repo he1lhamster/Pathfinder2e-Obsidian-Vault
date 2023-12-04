@@ -11,6 +11,7 @@ name: Spiritual Aid
 prerequisite: '[[DATABASE/feat/Scion of Domora Dedication|Scion of Domora Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 188. They Watched the Stars|Pathfinder #188:
   They Watched the Stars]]'
@@ -24,9 +25,9 @@ type: Feat
 # Spiritual Aid <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Pathfinder 188. They Watched the Stars]]
-**Archetype** [[Scions of Domora]]
-**Prerequisites** [[Scion of Domora Dedication]]
+**Source** [[DATABASE/source/Pathfinder 188. They Watched the Stars|Pathfinder #188: They Watched the Stars]]
+**Archetype** [[DATABASE/archetype/Scions of Domora|Scions of Domora]]
+**Prerequisites** [[DATABASE/feat/Scion of Domora Dedication|Scion of Domora Dedication]]
 
 ---
 When you call your spirit guide for aid, its presence bolsters your will and agility. You gain the Spiritual Aid reaction.

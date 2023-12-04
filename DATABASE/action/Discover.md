@@ -7,6 +7,7 @@ id: '481'
 name: Discover
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
@@ -19,7 +20,7 @@ type: Action
 # Discover
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Secret</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 
 ---
 You watch or study an NPC to learn more about that NPC’s preferences. Choose an NPC and attempt a Perception check or an appropriate skill check determined by the GM. The DC is typically found in the NPC’s influence stat block. 

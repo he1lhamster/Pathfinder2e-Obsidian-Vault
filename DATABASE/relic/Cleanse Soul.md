@@ -5,6 +5,7 @@ item_category: Relics
 name: Cleanse Soul
 prerequisite: null
 rarity: Common
+rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 trait:
@@ -15,7 +16,7 @@ type: Relic Major Gift
 # Cleanse Soul<span class="item-type">Major Gift</span>
 
 <span class="item-trait">Necromancy</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Aspect** soul
 
 ---

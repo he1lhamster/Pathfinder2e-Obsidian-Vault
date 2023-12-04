@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -52,7 +53,7 @@ weapon_type: null
 # Clockwork Recorder<span class="item-type">Item 6</span>
 
 <span class="trait-rare item-trait">Rare</span>
-**Source** [[Legends]]
+**Source** [[DATABASE/source/Legends|Legends]]
 **Price** 250 gp
 **Usage** held in 1 hand; **Bulk** L
 

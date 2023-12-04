@@ -84,20 +84,20 @@ The jerky stomping outside in the middle of the night belongs to the kasa-obake.
 # Kasa-Obake<span class="item-type">Creature 4</span>
 
 <span class="trait-alignment item-trait">NG</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Kami</span>
-**Source** [[Bestiary 3]]
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
 **Perception** +13
-**Languages** [[Common]]
-**Skills** [[Diplomacy]] +11, [[Intimidation]] +11, [[Occultism]] +11, [[Religion]] +11, [[Society]] +11, [[Stealth]] +12
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Diplomacy|Diplomacy]] +11, [[DATABASE/skill/Intimidation|Intimidation]] +11, [[DATABASE/skill/Occultism|Occultism]] +11, [[DATABASE/skill/Religion|Religion]] +11, [[DATABASE/skill/Society|Society]] +11, [[DATABASE/skill/Stealth|Stealth]] +12
 **Str** +2, **Dex** +4, **Con** +1, **Int** +3, **Wis** +5, **Cha** +3
 
 ---
 **AC** 20; **Fort** +9, **Ref** +12, **Will** +13
-**HP** 65; **Immunities** bleed, death effects, disease, [[Doomed]], [[Drained]], [[Fatigued]], healing, [[Paralyzed]], poison, [[Unconscious]]
-<span class="in-box-ability">**Fade Away <span class="action-icon">5</span> ** **Trigger** A creature damages the kasa-obake, and the kasa-obake is in dim light or darkness; **Effect** The kasa-obake fades from view and becomes [[Concealed]] to the triggering creature until the end of that creature's turn; if the kasaobake was already concealed to the triggering creature due to the light level, they become [[Hidden]] instead.</span>
+**HP** 65; **Immunities** bleed, death effects, disease, [[DATABASE/condition/Doomed|doomed]], [[DATABASE/condition/Drained|drained]], [[DATABASE/condition/Fatigued|fatigued]], healing, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Unconscious|unconscious]]
+<span class="in-box-ability">**Fade Away <span class="action-icon">5</span> ** **Trigger** A creature damages the kasa-obake, and the kasa-obake is in dim light or darkness; **Effect** The kasa-obake fades from view and becomes [[DATABASE/condition/Concealed|concealed]] to the triggering creature until the end of that creature's turn; if the kasaobake was already concealed to the triggering creature due to the light level, they become [[DATABASE/condition/Hidden|hidden]] instead.</span>
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> foot +14 [+10/+6] (agile, finesse), **Damage** 2d6+5 bludgeoning</span><span class="in-box-ability">**Jump Scare** (emotion, fear, incapacitation, mental) If a kasa-obake successfully [[Ra]] a creature and they were hidden to the creature before the attempt to Demoralize, the creature must succeed at a DC 21 Will save or be [[Stunned]] for 1 round.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> foot +14 [+10/+6] (agile, finesse), **Damage** 2d6+5 bludgeoning</span><span class="in-box-ability">**Jump Scare** (emotion, fear, incapacitation, mental) If a kasa-obake successfully [[DATABASE/deity/Ra|Demoralizes]] a creature and they were hidden to the creature before the attempt to Demoralize, the creature must succeed at a DC 21 Will save or be [[DATABASE/condition/Stunned|stunned]] for 1 round.</span>
 
 ###  Watchful Sentry
 

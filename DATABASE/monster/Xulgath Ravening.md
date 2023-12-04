@@ -84,27 +84,27 @@ wisdom: '+1'
 # Xulgath Ravening
 
 Strength and hunger drive most xulgath societies, reinforced by the tenets of their abyssal patron Zevgavizeb. A powerful leader can seize control of a xulgath community and direct their followers to fight as a unit, but formation fighting isn't something most xulgaths practice. This mob mentality often results in overzealous warriors tripping over or even biting each other. Suitably, these mobs have earned the name “ravenings,” a term also used when describing Zevgavizeb's carnivorous rampages and referring to the millennia of xulgath infighting and social decline.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 24
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 24
 **Unspecific Lore**: DC 22
 **Specific Lore**: DC 19
 
 # Xulgath Ravening<span class="item-type">Creature 4</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Gargantuan</span><span class="item-trait">Humanoid</span><span class="item-trait">Troop</span><span class="item-trait">Xulgath</span>
-**Source** [[Pathfinder 193. Mantle of Gold]]
+**Source** [[DATABASE/source/Pathfinder 193. Mantle of Gold|Pathfinder #193: Mantle of Gold]]
 **Perception** +11; darkvision
-**Languages** [[Draconic]], [[Undercommon]]
-**Skills** [[Athletics]] +11, [[Intimidation]] +10, [[Stealth]] +7
+**Languages** [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Undercommon|Undercommon]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +11, [[DATABASE/skill/Intimidation|Intimidation]] +10, [[DATABASE/skill/Stealth|Stealth]] +7
 **Str** +5, **Dex** +1, **Con** +3, **Int** -1, **Wis** +1, **Cha** +2
 
 ---
 **AC** 20; **Fort** +14, **Ref** +12, **Will** +8
 **HP** 72 (16 squares); **Thresholds** 48 (12 squares), 24 (8 squares); **Weaknesses** area damage 5, splash damage 2
-<span class="in-box-ability">**Stench** ([[Aura]], olfactory) 30 feet. A creature that enters the area must attempt a DC 21 Fortitude save. On a failure, the creature is [[Sickened]] 1, and on a critical failure, the creature also takes a –5 status penalty to its Speeds for 1 round. While within the aura, the creature takes a –2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all xulgaths stenches for 1 minute.</span><span class="in-box-ability">[[Troop Defenses]]</span>
+<span class="in-box-ability">**Stench** ([[DATABASE/monsterability/Aura|aura]], olfactory) 30 feet. A creature that enters the area must attempt a DC 21 Fortitude save. On a failure, the creature is [[DATABASE/condition/Sickened|sickened]] 1, and on a critical failure, the creature also takes a –5 status penalty to its Speeds for 1 round. While within the aura, the creature takes a –2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all xulgaths stenches for 1 minute.</span><span class="in-box-ability">[[DATABASE/monsterability/Troop Defenses|Troop Defenses]]</span>
 
 ---
 **Speed** 25 feet; troop movement
-<span class="in-box-ability">****Troop Movement**** Whenever a troop Strides, it first Forms Up as a free action to condense into a 20-foot-by–20- foot area (minus any missing squares), then moves up to its Speed. This works just like a Gargantuan creature moving; for instance, if any square of the troop enters difficult terrain, the extra movement cost applies to the whole troop.</span><span class="in-box-ability">**Fang and Claw** **Frequency** once per round **Effect** The xulgath ravening lashes out at enemies within 5 feet (DC 21 basic Reflex save). The damage depends on the number of actions. <span class="action-icon">1</span> 1d6 slashing damage <span class="action-icon">2</span> 1d6+5 slashing damage <span class="action-icon">3</span> 2d6+5 slashing damage</span><span class="in-box-ability">**[[Form Up]]** </span><span class="in-box-ability">**Infected Wounds** ([[Poison]]) The xulgaths' Fang and Claw deals an additional 1d6 poison damage to any creature sickened by a xulgath's stench.</span><span class="in-box-ability">**Sharpened Advance** The troop fires a ranged attack in the form of a 5-foot burst within 50 feet that deals 3d6 piercing damage (DC 18 basic Reflex save), then the troop either Steps or Strides up to 15 feet toward the area they attacked.</span>
+<span class="in-box-ability">****Troop Movement**** Whenever a troop Strides, it first Forms Up as a free action to condense into a 20-foot-by–20- foot area (minus any missing squares), then moves up to its Speed. This works just like a Gargantuan creature moving; for instance, if any square of the troop enters difficult terrain, the extra movement cost applies to the whole troop.</span><span class="in-box-ability">**Fang and Claw** **Frequency** once per round **Effect** The xulgath ravening lashes out at enemies within 5 feet (DC 21 basic Reflex save). The damage depends on the number of actions. <span class="action-icon">1</span> 1d6 slashing damage <span class="action-icon">2</span> 1d6+5 slashing damage <span class="action-icon">3</span> 2d6+5 slashing damage</span><span class="in-box-ability">**[[DATABASE/monsterability/Form Up|Form Up]]** </span><span class="in-box-ability">**Infected Wounds** ([[DATABASE/monsterability/Poison|poison]]) The xulgaths' Fang and Claw deals an additional 1d6 poison damage to any creature sickened by a xulgath's stench.</span><span class="in-box-ability">**Sharpened Advance** The troop fires a ranged attack in the form of a 5-foot burst within 50 feet that deals 3d6 piercing damage (DC 18 basic Reflex save), then the troop either Steps or Strides up to 15 feet toward the area they attacked.</span>
 
 ###  The Power of Suggestion
 

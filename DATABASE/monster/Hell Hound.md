@@ -73,18 +73,18 @@ wisdom: '+2'
 # Hell Hound
 
 A hell hound’s appearance dismisses any doubts as to its infernal origins—flesh the color of burning pitch, teeth as sharp as any fiend's pitchfork, and a shroud of ever-burning hell are are all trademark features.
-**Recall Knowledge - Beast ([[Arcana]], [[Nature]])**: DC 18
-**Recall Knowledge - Fiend ([[Religion]])**: DC 18
+**Recall Knowledge - Beast ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 18
+**Recall Knowledge - Fiend ([[DATABASE/skill/Religion|Religion]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Hell Hound<span class="item-type">Creature 3</span>
 
 <span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Beast</span><span class="item-trait">Fiend</span><span class="item-trait">Fire</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +9; darkvision, scent (imprecise) 60 feet
-**Languages** [[Infernal]]; (can’t speak any language)
-**Skills** [[Acrobatics]] +8, [[Athletics]] +9, [[Stealth]] +8, [[Survival]] +9 (+11 to Track)
+**Languages** [[DATABASE/language/Infernal|Infernal]]; (can’t speak any language)
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +8, [[DATABASE/skill/Athletics|Athletics]] +9, [[DATABASE/skill/Stealth|Stealth]] +8, [[DATABASE/skill/Survival|Survival]] +9 (+11 to Track)
 **Str** +4, **Dex** +3, **Con** +2, **Int** -2, **Wis** +2, **Cha** -2
 
 ---

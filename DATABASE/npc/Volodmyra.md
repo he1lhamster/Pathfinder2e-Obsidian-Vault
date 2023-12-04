@@ -69,26 +69,26 @@ wisdom: '+0'
 # Volodmyra
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 28
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 28
 **Unspecific Lore**: DC 26
 **Specific Lore**: DC 23
 
 # Volodmyra<span class="item-type">Creature 3</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 Female Black Tear commander
 **Perception** +7
-**Languages** [[Common]], [[Jotun]]
-**Skills** [[Acrobatics]] +7, [[Athletics]] +9, [[Deception]] +9, [[Society]] +7, [[Stealth]] +5
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Jotun|Jotun]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +7, [[DATABASE/skill/Athletics|Athletics]] +9, [[DATABASE/skill/Deception|Deception]] +9, [[DATABASE/skill/Society|Society]] +7, [[DATABASE/skill/Stealth|Stealth]] +5
 **Str** +4, **Dex** +2, **Con** +2, **Int** +0, **Wis** +0, **Cha** +2
-**Items** _+1 [[Greataxe]]_, [[Healing Potion]] (4), [[Tracker's Goggles]], [[Chain Mail]], jade and pearl necklace, [[Silver]]
+**Items** _+1 [[DATABASE/weapon/Greataxe|greataxe]]_, [[DATABASE/equipment/Healing Potion|lesser healing potions]] (4), [[DATABASE/equipment/Tracker's Goggles|tracker's goggles]], [[DATABASE/armor/Chain Mail|chain mail]], jade and pearl necklace, [[DATABASE/equipment/Silver|silver ring (worth 30 gp)]]
 
 ---
 **AC** 18; **Fort** +11, **Ref** +9, **Will** +7
 **HP** 48
-<span class="in-box-ability">**[[Attack of Opportunity]] <span class="action-icon">5</span> ** </span>
+<span class="in-box-ability">**[[DATABASE/monsterability/Attack of Opportunity|Attack of Opportunity]] <span class="action-icon">5</span> ** </span>
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _greataxe_ +11 [+6/+1] (magical, sweep), **Damage** 1d12+4 slashing</span><span class="in-box-ability">**Overhand Smash** <span class="action-icon">2</span> **Requirements** Volodmyra is wielding her greataxe and is adjacent to an enemy; **Effect** Volodmyra raises her greataxe above her head and puts all of her might into a single attack. If the attack hits, Volodmyra deals an additional 8 points of damage and the opponent must succeed at a DC 17 Fortitude save to avoid being knocked [[Prone]].</span><span class="in-box-ability">**Spinning Sweep **Requirements** Volodmyra successfully Strikes a second enemy when making a sweep attack with her axe and is within 10 feet of a third enemy she hasn't yet attacked** <span class="action-icon">1</span> **Effect** Volodmyra spins in a circle (Stepping 5 feet if she chooses) and makes a third attack against a foe she hasn't attacked this round. This third attack suffers only a –8 penalty to the attack roll (instead of the standard –10 on a third Strike). If it hits, Volodmyra deals an additional 2d6 points of damage from the furious impact.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _greataxe_ +11 [+6/+1] (magical, sweep), **Damage** 1d12+4 slashing</span><span class="in-box-ability">**Overhand Smash** <span class="action-icon">2</span> **Requirements** Volodmyra is wielding her greataxe and is adjacent to an enemy; **Effect** Volodmyra raises her greataxe above her head and puts all of her might into a single attack. If the attack hits, Volodmyra deals an additional 8 points of damage and the opponent must succeed at a DC 17 Fortitude save to avoid being knocked [[DATABASE/condition/Prone|prone]].</span><span class="in-box-ability">**Spinning Sweep **Requirements** Volodmyra successfully Strikes a second enemy when making a sweep attack with her axe and is within 10 feet of a third enemy she hasn't yet attacked** <span class="action-icon">1</span> **Effect** Volodmyra spins in a circle (Stepping 5 feet if she chooses) and makes a third attack against a foe she hasn't attacked this round. This third attack suffers only a –8 penalty to the attack roll (instead of the standard –10 on a third Strike). If it hits, Volodmyra deals an additional 2d6 points of damage from the furious impact.</span>

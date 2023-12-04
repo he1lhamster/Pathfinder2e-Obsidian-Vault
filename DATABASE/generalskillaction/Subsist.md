@@ -2,6 +2,7 @@
 id: '6'
 name: Subsist
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait: null
 type: General Skill Action
@@ -9,18 +10,18 @@ type: General Skill Action
 ---
 # Subsist (Untrained)
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 If you need to provide food and shelter, you can use the Subsist downtime activity. This typically uses Society if you’re in a settlement or Survival if you’re in the wild.
 
 ## Skill Uses
 
-[[Society]] Subsist in a settlement by finding shelter, scrounging, or begging for food. 
-[[Survival]] Subsist in the wild by foraging for food and building shelter.
+[[DATABASE/skill/Society|Society]] Subsist in a settlement by finding shelter, scrounging, or begging for food. 
+[[DATABASE/skill/Survival|Survival]] Subsist in the wild by foraging for food and building shelter.
 
-## [[Subsist]]
+## [[DATABASE/action/Subsist|Subsist]]
 
 <span class="item-trait">Downtime</span>
-**Source** [[Core Rulebook]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
 You try to provide food and shelter for yourself, and possibly others as well, with a standard of living. The GM determines the DC based on the nature of the place where you're trying to Subsist. You might need a minimum proficiency rank to Subsist in particularly strange environments. Unlike most downtime activities, you can Subsist after 8 hours or less of exploration, but if you do, you take a –5 penalty.

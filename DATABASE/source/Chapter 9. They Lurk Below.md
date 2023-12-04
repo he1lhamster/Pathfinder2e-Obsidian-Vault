@@ -2,6 +2,7 @@
 id: '178'
 name: Chapter 9. They Lurk Below
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source

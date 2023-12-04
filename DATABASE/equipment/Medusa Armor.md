@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -56,8 +57,8 @@ weapon_type: null
 # Medusa Armor<span class="item-type">Item 14</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Cursed</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span><span class="item-trait">Transmutation</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Usage** worn armor; **Bulk** 3
 
 ---
-This _+2 [[Adamantine Armor]] [[Scale Mail]]_ appears to have a [[Fortification]] rune but grants none of its effects. Whenever you are critically hit, after taking damage, you become [[Petrified]] for 1 round. Once the curse has activated for the first time, the armor fuses to you.
+This _+2 [[DATABASE/equipment/Adamantine Armor|adamantine]] [[DATABASE/armor/Scale Mail|scale mail]]_ appears to have a [[DATABASE/equipment/Fortification|fortification]] rune but grants none of its effects. Whenever you are critically hit, after taking damage, you become [[DATABASE/condition/Petrified|petrified]] for 1 round. Once the curse has activated for the first time, the armor fuses to you.

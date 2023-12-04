@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Enchantment
 size: null
@@ -53,7 +54,7 @@ weapon_type: null
 # Pacifying<span class="item-type">Item 5</span>
 
 <span class="item-trait">Enchantment</span><span class="item-trait">Magical</span>
-**Source** [[Treasure Vault]] , [[Pathfinder 157. Devil at the Dreaming Palace]]
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] , [[DATABASE/source/Pathfinder 157. Devil at the Dreaming Palace|Pathfinder #157: Devil at the Dreaming Palace]]
 **Price** 150 gp
 **Usage** etched onto a weapon; **Bulk** —
 

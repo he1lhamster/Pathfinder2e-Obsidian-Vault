@@ -92,28 +92,28 @@ wisdom: '+5'
 ---
 # Hryngar Forgepriest
 
-Abandoned by their cousins, the surface dwarves, hryngars were saved by [[Droskar]], who taught them to work hard and give no quarter. Now, that hardness is the sword and shield by which the hryngar rule their kingdoms. The forgepriests proselytize Droskar's teachings and punish heretics for any defiance.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 22
+Abandoned by their cousins, the surface dwarves, hryngars were saved by [[DATABASE/deity/Droskar|Droskar]], who taught them to work hard and give no quarter. Now, that hardness is the sword and shield by which the hryngar rule their kingdoms. The forgepriests proselytize Droskar's teachings and punish heretics for any defiance.
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 22
 **Unspecific Lore**: DC 20
 **Specific Lore**: DC 17
 
 # Hryngar Forgepriest<span class="item-type">Creature 6</span>
 
 <span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Duergar</span><span class="item-trait">Dwarf</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 194. Cult of the Cave Worm]]
-**Perception** +13; [[Darkvision]]
-**Languages** [[Common]], [[Dwarven]], [[Undercommon]]
-**Skills** [[Athletics]] +11, [[Intimidation]] +13, [[Religion]] +15, [[Society]] +11
+**Source** [[DATABASE/source/Pathfinder 194. Cult of the Cave Worm|Pathfinder #194: Cult of the Cave Worm]]
+**Perception** +13; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Dwarven|Dwarven]], [[DATABASE/language/Undercommon|Undercommon]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +11, [[DATABASE/skill/Intimidation|Intimidation]] +13, [[DATABASE/skill/Religion|Religion]] +15, [[DATABASE/skill/Society|Society]] +11
 **Str** +3, **Dex** +1, **Con** +4, **Int** +1, **Wis** +5, **Cha** +3
-**Items** _+1 [[Striking]] [[Returning]] [[Light Hammer]]_, [[Chain Mail]]
+**Items** _+1 [[DATABASE/equipment/Striking|striking]] [[DATABASE/equipment/Returning|returning]] [[DATABASE/weapon/Light Hammer|light hammer]]_, [[DATABASE/armor/Chain Mail|chain mail]]
 
 ---
 **AC** 23; **Fort** +14, **Ref** +11, **Will** +15
 **HP** 99; **Resistances** fire 5
-<span class="in-box-ability">**Toil is Strength <span class="action-icon">5</span> ** (misfortune) **Trigger** A creature within 30 feet would succeed at a save against a spell or ability that causes the [[Immobilized]] condition; **Effect** The target must reroll the triggering saving throw and use the worse result.</span><span class="in-box-ability">**Light Blindness** </span>
+<span class="in-box-ability">**Toil is Strength <span class="action-icon">5</span> ** (misfortune) **Trigger** A creature within 30 feet would succeed at a save against a spell or ability that causes the [[DATABASE/condition/Immobilized|immobilized]] condition; **Effect** The target must reroll the triggering saving throw and use the worse result.</span><span class="in-box-ability">**Light Blindness** </span>
 
 ---
 **Speed** 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _light hammer_ +14 [+10/+6] (agile, magical), **Damage** 2d8+5 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _light hammer_ +12 [+8/+4] (agile, magical, thrown 20 feet), **Damage** 2d8+5 bludgeoning</span>**Divine Prepared Spells** DC 21; **3rd** _[[Agonizing Despair]]_, _[[Crisis of Faith]]_, _[[Fear]]_; **2nd** _[[Charitable Urge]]_, _[[Mending]]_, _[[See Invisibility]]_; **1st** _[[Command]]_, _[[Detect Poison]]_, _[[Magic Weapon]]_; **Cantrips** **(3rd)** _[[Daze]]_, _[[Detect Magic]]_, _[[Prestidigitation]]_, _[[Read Aura]]_, _[[Shield]]_
-**Occult Innate Spells** DC 21; **2nd** _[[Blood Vendetta]]_, _[[Paranoia]]_; **Cantrips** **(3rd)** _[[Sigil]]_
-<span class="in-box-ability">**Hammerfall** <span class="action-icon">2</span> The forgepriest tosses their hammer up to 30 feet. Where the hammer lands, molten metal erupts from the ground in a 10 foot radius dealing 6d8 fire damage to creatures in the area (DC 21 basic Reflex save). Creatures who critically fail also take 1d8 [[Persistent Damage]]. The forgepriest can't use Hammerfall again for 1d4 rounds.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _light hammer_ +14 [+10/+6] (agile, magical), **Damage** 2d8+5 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _light hammer_ +12 [+8/+4] (agile, magical, thrown 20 feet), **Damage** 2d8+5 bludgeoning</span>**Divine Prepared Spells** DC 21; **3rd** _[[DATABASE/spell/Agonizing Despair|agonizing despair]]_, _[[DATABASE/spell/Crisis of Faith|crisis of faith]]_, _[[DATABASE/spell/Fear|fear]]_; **2nd** _[[DATABASE/spell/Charitable Urge|charitable urge]]_, _[[DATABASE/spell/Mending|mending]]_, _[[DATABASE/spell/See Invisibility|see invisibility]]_; **1st** _[[DATABASE/spell/Command|command]]_, _[[DATABASE/spell/Detect Poison|detect poison]]_, _[[DATABASE/spell/Magic Weapon|magic weapon]]_; **Cantrips** **(3rd)** _[[DATABASE/spell/Daze|daze]]_, _[[DATABASE/spell/Detect Magic|detect magic]]_, _[[DATABASE/spell/Prestidigitation|prestidigitation]]_, _[[DATABASE/spell/Read Aura|read aura]]_, _[[DATABASE/spell/Shield|shield]]_
+**Occult Innate Spells** DC 21; **2nd** _[[DATABASE/spell/Blood Vendetta|blood vendetta]]_, _[[DATABASE/spell/Paranoia|paranoia]]_; **Cantrips** **(3rd)** _[[DATABASE/spell/Sigil|sigil]]_
+<span class="in-box-ability">**Hammerfall** <span class="action-icon">2</span> The forgepriest tosses their hammer up to 30 feet. Where the hammer lands, molten metal erupts from the ground in a 10 foot radius dealing 6d8 fire damage to creatures in the area (DC 21 basic Reflex save). Creatures who critically fail also take 1d8 [[DATABASE/condition/Persistent Damage|persistent fire damage]]. The forgepriest can't use Hammerfall again for 1d4 rounds.</span>

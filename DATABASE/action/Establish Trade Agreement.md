@@ -8,6 +8,7 @@ name: Establish Trade Agreement
 rarity: Common
 requirement: You have diplomatic relations (page 534) with the group you wish to establish
   an agreement with.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
@@ -20,7 +21,7 @@ type: Action
 # Establish Trade Agreement
 
 <span class="item-trait">Downtime</span><span class="item-trait">Leadership</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 **Requirements** You have diplomatic relations (page 534) with the group you wish to establish an agreement with.
 
 ---

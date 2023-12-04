@@ -11,6 +11,7 @@ name: Ghoran's Wrath
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Ghoran's Wrath <span class="item-type">Feat 17</span>
 
 <span class="item-trait">Ghoran</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 
 ---
-You have such a strong connection to the natural world that you can inspire it to attack at those who threaten you. You can cast [[Nature's Reprisal]] once per hour as a primal innate spell.
+You have such a strong connection to the natural world that you can inspire it to attack at those who threaten you. You can cast [[DATABASE/spell/Nature's Reprisal|nature's reprisal]] once per hour as a primal innate spell.
 
 ## Traits
 

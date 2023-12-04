@@ -82,21 +82,21 @@ wisdom: '+0'
 # Animated Silverware Swarm
 
 Nobles are known to pay great amounts to animate their silverware, both for ease in cleaning and to serve as novelties during dinner parties.
-**Recall Knowledge - Construct ([[Arcana]], [[Crafting]])**: DC 15
+**Recall Knowledge - Construct ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Crafting|Crafting]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Animated Silverware Swarm<span class="item-type">Creature 1</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Construct</span><span class="item-trait">Mindless</span><span class="item-trait">Swarm</span>
-**Source** [[Bestiary 3]]
-**Perception** +5; [[Darkvision]]
-**Skills** [[Acrobatics]] +8
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
+**Perception** +5; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +8
 **Str** +1, **Dex** +3, **Con** +4, **Int** -5, **Wis** +0, **Cha** -5
 
 ---
 **AC** 16 (12 when broken); construct armor; **Fort** +9, **Ref** +8, **Will** +3
-**HP** 14; **Hardness** 3; **Immunities** death effects, disease, [[Doomed]], [[Drained]], [[Fatigued]], healing, mental, necromancy, nonlethal attacks, [[Paralyzed]], precision, poison, [[Sickened]], [[Unconscious]]; **Weaknesses** area damage 3, splash damage 3
+**HP** 14; **Hardness** 3; **Immunities** death effects, disease, [[DATABASE/condition/Doomed|doomed]], [[DATABASE/condition/Drained|drained]], [[DATABASE/condition/Fatigued|fatigued]], healing, mental, necromancy, nonlethal attacks, [[DATABASE/condition/Paralyzed|paralyzed]], precision, poison, [[DATABASE/condition/Sickened|sickened]], [[DATABASE/condition/Unconscious|unconscious]]; **Weaknesses** area damage 3, splash damage 3
 <span class="in-box-ability">**Construct Armor** Like normal objects, an animated silverware swarm has Hardness. This Hardness reduces any damage the swarm takes by an amount equal to the Hardness. Once an animated silverware swarm is reduced to fewer than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks, removing the Hardness and reducing its Armor Class to 12.</span>
 
 ---
@@ -105,4 +105,4 @@ Nobles are known to pay great amounts to animate their silverware, both for ease
 **Critical Success** The target is unaffected. 
 **Success** Silverware pins portions of the target's clothing and gear. The target takes a –10-foot circumstance penalty to its Speeds as long as it remains in the swarm's space. 
 **Failure** As success, and the target also can't Step until it leaves the swarm's space. 
-**Critical Failure** The target is thoroughly pinned by the silverware, becoming [[Immobilized]] until it [[Escape]] (DC 17) or uses 2 Interact actions to remove all of the silverware pinning them down.</span>
+**Critical Failure** The target is thoroughly pinned by the silverware, becoming [[DATABASE/condition/Immobilized|immobilized]] until it [[DATABASE/action/Escape|Escapes]] (DC 17) or uses 2 Interact actions to remove all of the silverware pinning them down.</span>

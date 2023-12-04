@@ -23,6 +23,7 @@ follower_alignment:
 id: '129'
 name: Tanagaar
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Stealth|Stealth]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -32,18 +33,18 @@ type: Deity
 ---
 # Tanagaar (The Aurulent Eye) [LG]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Category** Empyreal Lords
 **Edicts** Defend lawful borders, scout or patrol for evil, wait to strike until you have the advantage
 **Anathema** Abandon your post, tolerate poaching, torment animals
 **Follower Alignments** LG, LN
-**Pantheons** [[Urban Prosperity]]
+**Pantheons** [[DATABASE/deity/Urban Prosperity|Urban Prosperity]]
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Strength or Wisdom
-**Divine Font** _[[Heal]]_
-**Divine Skill** [[Stealth]]
-**Favored Weapon** [[Kukri]]
-**Domains** [[Darkness Domain]], [[Duty Domain]], [[Nature Domain]], [[Zeal Domain]]
-**Cleric Spells** 1st: _[[Pass Without Trace]]_, 3rd: _[[Animal Vision]]_, 4th: _[[Aerial Form]]_ (bird only)
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Strength or Wisdom
+**Divine Font** _[[DATABASE/spell/Heal|heal]]_
+**Divine Skill** [[DATABASE/skill/Stealth|Stealth]]
+**Favored Weapon** [[DATABASE/weapon/Kukri|kukri]]
+**Domains** [[DATABASE/domain/Darkness Domain|darkness]], [[DATABASE/domain/Duty Domain|duty]], [[DATABASE/domain/Nature Domain|nature]], [[DATABASE/domain/Zeal Domain|zeal]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Pass Without Trace|pass without trace]]_, 3rd: _[[DATABASE/spell/Animal Vision|animal vision]]_, 4th: _[[DATABASE/spell/Aerial Form|aerial form]]_ (bird only)

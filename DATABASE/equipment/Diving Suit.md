@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -50,9 +51,9 @@ weapon_type: null
 ---
 # Diving Suit<span class="item-type">Item 3</span>
 
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 100 gp
 **Usage** worn clothing; **Bulk** 1
 
 ---
-Diving suits are bulky, waterproofed leather outfits with copper helmets, worn by divers and underwater salvagers. The suit grants a +1 item bonus to [[Swim]] checks made underwater, and the helmet features tubes for connecting [[Bottled Air]]. When connected to a diving suit, bottled air doesn't need to be held and can be used to breathe as a free action. If you wear armor over a diving suit, you become [[Clumsy]] until you remove the diving suit.
+Diving suits are bulky, waterproofed leather outfits with copper helmets, worn by divers and underwater salvagers. The suit grants a +1 item bonus to [[DATABASE/action/Swim|Swim]] checks made underwater, and the helmet features tubes for connecting [[DATABASE/equipment/Bottled Air|bottled air]]. When connected to a diving suit, bottled air doesn't need to be held and can be used to breathe as a free action. If you wear armor over a diving suit, you become [[DATABASE/condition/Clumsy|clumsy 1]] until you remove the diving suit.

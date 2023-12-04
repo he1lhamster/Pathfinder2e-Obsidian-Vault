@@ -80,24 +80,24 @@ wisdom: '+4'
 # Hymmir Urath
 
 This creature did not include a description.
-**Recall Knowledge - Undead ([[Religion]])**: DC 30
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 30
 **Unspecific Lore**: DC 28
 **Specific Lore**: DC 25
 
 # Hymmir Urath<span class="item-type">Creature 5</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Ghoul</span><span class="item-trait">Undead</span>
-**Source** [[Crown of the Kobold King]]
-Male [[Human]] [[Barbarian]] [[Ghoul]]
-**Perception** +13; [[Darkvision]]
-**Languages** [[Common]], [[Hallit]], [[Necril]]
-**Skills** [[Acrobatics]] +13, [[Athletics]] +14, [[Intimidation]] +11, [[Stealth]] +11, [[Survival]] +13
+**Source** [[DATABASE/source/Crown of the Kobold King|Crown of the Kobold King]]
+Male [[DATABASE/ancestry/Human|human]] [[DATABASE/class_/Barbarian|barbarian]] [[DATABASE/monsterfamily/Ghoul|ghoul]]
+**Perception** +13; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Hallit|Hallit]], [[DATABASE/language/Necril|Necril]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +13, [[DATABASE/skill/Athletics|Athletics]] +14, [[DATABASE/skill/Intimidation|Intimidation]] +11, [[DATABASE/skill/Stealth|Stealth]] +11, [[DATABASE/skill/Survival|Survival]] +13
 **Str** +5, **Dex** +4, **Con** +2, **Int** +0, **Wis** +4, **Cha** +2
 
 ---
 **AC** 21; **Fort** +9, **Ref** +15, **Will** +13
-**HP** 80 ([[Negative Healing]]); **Immunities** death effects, disease, [[Paralyzed]], poison, [[Unconscious]]
+**HP** 80 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects, disease, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Unconscious|unconscious]]
 
 ---
 **Speed** 30 feet, burrow 5 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +14 [+9/+4] (finesse), **Damage** 2d6+7 plus ghoul fever and paralysis</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +14 [+10/+6] (agile, finesse), **Damage** 2d4+7 plus paralysis</span><span class="in-box-ability">**Consume Flesh** <span class="action-icon">1</span> (manipulate) **Requirements** The ghoul is adjacent to the corpse of a creature that died within the last hour. **Effect** The ghoul devours a chunk of the corpse and regains 3d6 Hit Points. It can regain Hit Points from any given corpse only once.</span><span class="in-box-ability">**Ghoul Fever** (disease) **Saving Throw** Fortitude DC 22; **Stage 1** carrier with no ill effect (1 day); **Stage 2** 2d6 negative damage and regains half as many Hit Points from all healing (1 day); **Stage 3** as stage 2 (1 day); **Stage 4** 2d6 negative damage and gains no benefit from healing (1 day); **Stage 5** as stage 4 (1 day); **Stage 6** dead, and rises as a [[Ghoul]] the next midnight.</span><span class="in-box-ability">**Gnaw and Chew** <span class="action-icon">3</span> **Requirements** Hymmir is in a hungry rage; **Effect** Hymmir attempts a jaws Strike. If he hits, he chews at his target and inflicts an additional 1d6 slashing damage. Hymmir regains 3d6 Hit Points.</span><span class="in-box-ability">**Hungry Rage** <span class="action-icon">5</span> (concentrate, emotion, mental) **Trigger** Hymmir damages a living creature with his jaws Strike; **Effect** The taste of flesh and blood throws Hymmir into a violent rage. He gains 9 temporary Hit Points, deals an additional 2 damage with melee Strikes, and takes a –1 penalty to AC for 1 minute.</span><span class="in-box-ability">**Paralysis** (incapacitation, necromancy, occult) Any living, non-elf creature hit by a ghoul's attack must succeed at a DC 22 Fortitude save or become [[Paralyzed]]. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save.</span><span class="in-box-ability">**Swift Leap** <span class="action-icon">1</span> (move) The ghoul jumps up to half its Speed. This movement doesn't trigger reactions.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +14 [+9/+4] (finesse), **Damage** 2d6+7 plus ghoul fever and paralysis</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +14 [+10/+6] (agile, finesse), **Damage** 2d4+7 plus paralysis</span><span class="in-box-ability">**Consume Flesh** <span class="action-icon">1</span> (manipulate) **Requirements** The ghoul is adjacent to the corpse of a creature that died within the last hour. **Effect** The ghoul devours a chunk of the corpse and regains 3d6 Hit Points. It can regain Hit Points from any given corpse only once.</span><span class="in-box-ability">**Ghoul Fever** (disease) **Saving Throw** Fortitude DC 22; **Stage 1** carrier with no ill effect (1 day); **Stage 2** 2d6 negative damage and regains half as many Hit Points from all healing (1 day); **Stage 3** as stage 2 (1 day); **Stage 4** 2d6 negative damage and gains no benefit from healing (1 day); **Stage 5** as stage 4 (1 day); **Stage 6** dead, and rises as a [[DATABASE/monsterfamily/Ghoul|ghoul]] the next midnight.</span><span class="in-box-ability">**Gnaw and Chew** <span class="action-icon">3</span> **Requirements** Hymmir is in a hungry rage; **Effect** Hymmir attempts a jaws Strike. If he hits, he chews at his target and inflicts an additional 1d6 slashing damage. Hymmir regains 3d6 Hit Points.</span><span class="in-box-ability">**Hungry Rage** <span class="action-icon">5</span> (concentrate, emotion, mental) **Trigger** Hymmir damages a living creature with his jaws Strike; **Effect** The taste of flesh and blood throws Hymmir into a violent rage. He gains 9 temporary Hit Points, deals an additional 2 damage with melee Strikes, and takes a –1 penalty to AC for 1 minute.</span><span class="in-box-ability">**Paralysis** (incapacitation, necromancy, occult) Any living, non-elf creature hit by a ghoul's attack must succeed at a DC 22 Fortitude save or become [[DATABASE/condition/Paralyzed|paralyzed]]. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save.</span><span class="in-box-ability">**Swift Leap** <span class="action-icon">1</span> (move) The ghoul jumps up to half its Speed. This movement doesn't trigger reactions.</span>

@@ -14,6 +14,7 @@ name: Phantasmagoric Fog Trap
 rarity: Rare
 reflex: null
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
@@ -28,7 +29,7 @@ will: null
 # Phantasmagoric Fog Trap<span class="item-type">Hazard 6</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Magical</span><span class="item-trait">Trap</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 **Complexity** Simple
 **Stealth** DC 25 (expert)
 **Description** Cloying violet mist billows from the undergrowth, filling the heads of any creatures inside with maddening visions of dark moonless nights, twisted malignant trees, and steaming rivers of blood.

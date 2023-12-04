@@ -62,23 +62,23 @@ wisdom: '+3'
 # Ingnovim's Assistants
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 41
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 41
 **Unspecific Lore**: DC 39
 **Specific Lore**: DC 36
 
 # Ingnovim's Assistants<span class="item-type">Creature 17</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">LN</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 150. Broken Promises]]
+**Source** [[DATABASE/source/Pathfinder 150. Broken Promises|Pathfinder #150: Broken Promises]]
 **Perception** +29
-**Languages** [[Common]]
-**Skills** [[Athletics]] +33, [[Intimidation]] +33
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +33, [[DATABASE/skill/Intimidation|Intimidation]] +33
 **Str** +8, **Dex** +2, **Con** +9, **Int** -4, **Wis** +3, **Cha** -4
-**Items** _+2 [[Striking]] [[Longsword]]_, _+2 [[Resilient]] [[Full Plate]]_
+**Items** _+2 [[DATABASE/equipment/Striking|greater striking]] [[DATABASE/weapon/Longsword|longsword]]_, _+2 [[DATABASE/equipment/Resilient|greater resilient]] [[DATABASE/armor/Full Plate|full plate]]_
 
 ---
 **AC** 43; **Fort** +32, **Ref** +26, **Will** +29
-**HP** 330 ([[Fast Healing]]); **Immunities** poison
+**HP** 330 ([[DATABASE/monsterability/Fast Healing|fast healing 20]]); **Immunities** poison
 
 ---
 **Speed** 30 feet

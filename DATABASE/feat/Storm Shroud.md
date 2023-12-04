@@ -11,6 +11,7 @@ name: Storm Shroud
 prerequisite: '[[DATABASE/feat/Mummy Dedication|Mummy Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 subcategory: null
@@ -26,13 +27,13 @@ type: Feat
 # Storm Shroud <span class="action-icon">2</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Concentrate</span><span class="item-trait">Conjuration</span><span class="item-trait">Divine</span>
-**Source** [[Book of the Dead]]
-**Archetype** [[Mummy]]
+**Source** [[DATABASE/source/Book of the Dead|Book of the Dead]]
+**Archetype** [[DATABASE/archetype/Mummy|Mummy]]
 **Frequency** once per hour
-**Prerequisites** [[Mummy Dedication]]
+**Prerequisites** [[DATABASE/feat/Mummy Dedication|Mummy Dedication]]
 
 ---
-You become surrounded by a swirling storm of rain, sand, snow, or clouds, whichever of those suits your bound terrain. This activity has traits appropriate to the storm you create— typically earth for sand and water for rain, snow, or clouds. You become [[Concealed]] for 1 minute. You can't use this concealment to [[Hide]] or [[Sneak]], as normal for concealment that makes your position obvious.
+You become surrounded by a swirling storm of rain, sand, snow, or clouds, whichever of those suits your bound terrain. This activity has traits appropriate to the storm you create— typically earth for sand and water for rain, snow, or clouds. You become [[DATABASE/condition/Concealed|concealed]] for 1 minute. You can't use this concealment to [[DATABASE/action/Hide|Hide]] or [[DATABASE/action/Sneak|Sneak]], as normal for concealment that makes your position obvious.
 
 ## Traits
 

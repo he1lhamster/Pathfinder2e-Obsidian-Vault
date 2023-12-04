@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -36,8 +37,8 @@ type: Focus
 # Empty Inside<span class="item-type">Focus 1</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Mental</span>
-**Source** [[Gods & Magic]] 
-**Domain** [[Void Domain]]
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
+**Domain** [[DATABASE/domain/Void Domain|void]]
 **Cast** <span class="action-icon">1</span> verbal
 
 ---

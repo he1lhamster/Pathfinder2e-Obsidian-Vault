@@ -66,21 +66,21 @@ wisdom: '+3'
 ---
 # Librarian
 
-Keepers of knowledge, librarians document discoveries, events, and laws. The best librarians record events twice; once for public record, and again to record how events truly unfolded. A librarian typically knows four to six additional languages, often including [[Elven]] and [[Draconic]]. A librarian is a 3rd-level challenge for encounters involving research.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 13
+Keepers of knowledge, librarians document discoveries, events, and laws. The best librarians record events twice; once for public record, and again to record how events truly unfolded. A librarian typically knows four to six additional languages, often including [[DATABASE/language/Elven|Elven]] and [[DATABASE/language/Draconic|Draconic]]. A librarian is a 3rd-level challenge for encounters involving research.
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 13
 **Unspecific Lore**: DC 11
 **Specific Lore**: DC 8
 
 # Librarian<span class="item-type">Creature -1</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Perception** +7
-**Languages** [[Common]]
-**Skills** [[Lore]] +11, [[Arcana]] +9, [[Lore]] +13, [[Nature]] +8, [[Religion]] +8
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Lore|Academia Lore]] +11, [[DATABASE/skill/Arcana|Arcana]] +9, [[DATABASE/skill/Lore|Library Lore]] +13, [[DATABASE/skill/Nature|Nature]] +8, [[DATABASE/skill/Religion|Religion]] +8
 **Str** +0, **Dex** +1, **Con** +0, **Int** +4, **Wis** +3, **Cha** +1
-**Methodical Research** (concentrate) When [[Search]] through stacks of books, a librarian can find the answer to almost any question. This allows the librarian to use [[Lore]] in place of other lore skills, given enough time. The GM determines the DC of the check and the amount of time it takes (typically, a librarian can attempt three or four checks during 1 day of downtime).
-**Items** [[Dagger]], [[Writing Set]]
+**Methodical Research** (concentrate) When [[DATABASE/action/Search|Searching]] through stacks of books, a librarian can find the answer to almost any question. This allows the librarian to use [[DATABASE/skill/Lore|Library Lore]] in place of other lore skills, given enough time. The GM determines the DC of the check and the amount of time it takes (typically, a librarian can attempt three or four checks during 1 day of downtime).
+**Items** [[DATABASE/weapon/Dagger|dagger]], [[DATABASE/equipment/Writing Set|writing set]]
 
 ---
 **AC** 13; **Fort** +2, **Ref** +3, **Will** +7

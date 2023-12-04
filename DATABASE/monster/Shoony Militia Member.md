@@ -76,22 +76,22 @@ wisdom: '+2'
 # Shoony Militia Member
 
 If shoonies had their way, war would cease to exist altogether, but they know this isn’t likely. Shoonies’ relative wealth of resources and their frailty compared to other humanoids make them a common target of violence and subjugation. Because of this, basic combat training is typically mandatory for all shoony village members. Few individuals pursue lifelong careers in service to their settlement’s militia, however. The passing down of a sword from one shoony soldier to another is a time-honored tradition, owing to the rarity of weapons in shoony society.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 21
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 21
 **Unspecific Lore**: DC 19
 **Specific Lore**: DC 16
 
 # Shoony Militia Member<span class="item-type">Creature 2</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">LG</span><span class="trait-size item-trait">Small</span><span class="item-trait">Humanoid</span><span class="item-trait">Shoony</span>
-**Source** [[Pathfinder 153. Life's Long Shadows]]
+**Source** [[DATABASE/source/Pathfinder 153. Life's Long Shadows|Pathfinder #153: Life's Long Shadows]]
 **Perception** +8; low-light vision, scent (imprecise) 30 feet
-**Languages** [[Common]], [[Shoony]]
-**Skills** [[Acrobatics]] +8 (+9 to Tumble Through spaces of Medium or larger creatures), [[Athletics]] +10, [[Crafting]] +4, [[Society]] +6, [[Survival]] +6
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Shoony|Shoony]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +8 (+9 to Tumble Through spaces of Medium or larger creatures), [[DATABASE/skill/Athletics|Athletics]] +10, [[DATABASE/skill/Crafting|Crafting]] +4, [[DATABASE/skill/Society|Society]] +6, [[DATABASE/skill/Survival|Survival]] +6
 **Str** +4, **Dex** +2, **Con** +1, **Int** +0, **Wis** +2, **Cha** +1
-**Items** [[Hide Armor]], [[Javelin]], [[Longsword]]
+**Items** [[DATABASE/armor/Hide Armor|hide armor]], [[DATABASE/weapon/Javelin|javelin (2)]], [[DATABASE/weapon/Longsword|longsword]]
 
 ---
-**AC** 17; **Fort** +9, **Ref** +6, **Will** +8; A shoony's small, blunt snout and labyrinthine sinus system make them resistant to phenomena that assail the nose. When they rolls a saving throw against inhaled threats (such as inhaled poisons) and olfactory effects (such as [[Xulgath]]), they get the outcome one degree of success better than the result of their roll.
+**AC** 17; **Fort** +9, **Ref** +6, **Will** +8; A shoony's small, blunt snout and labyrinthine sinus system make them resistant to phenomena that assail the nose. When they rolls a saving throw against inhaled threats (such as inhaled poisons) and olfactory effects (such as [[DATABASE/monsterfamily/Xulgath|xulgath stench]]), they get the outcome one degree of success better than the result of their roll.
 **HP** 40
 
 ---

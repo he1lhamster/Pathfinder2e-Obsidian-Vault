@@ -11,6 +11,7 @@ name: Selective Energy
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Selective Energy <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Cleric</span>
-**Source** [[Core Rulebook]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
-As you call down divine power, you can prevent some enemies from benefiting or some allies from being hurt. When you cast a version of [[Harm]] or [[Heal]] that has an area, you can designate a number of creatures equal to your Charisma modifier (minimum 1) that are not targeted by the spell.
+As you call down divine power, you can prevent some enemies from benefiting or some allies from being hurt. When you cast a version of [[DATABASE/spell/Harm|harm]] or [[DATABASE/spell/Heal|heal]] that has an area, you can designate a number of creatures equal to your Charisma modifier (minimum 1) that are not targeted by the spell.

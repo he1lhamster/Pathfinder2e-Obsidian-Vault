@@ -67,20 +67,20 @@ wisdom: '+2'
 # Burning Mammoth Commando
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 28
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 28
 **Unspecific Lore**: DC 26
 **Specific Lore**: DC 23
 
 # Burning Mammoth Commando<span class="item-type">Creature 7</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 177. Burning Tundra]]
-[[Human]] veteran warriors
+**Source** [[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burning Tundra]]
+[[DATABASE/ancestry/Human|human]] veteran warriors
 **Perception** +15
-**Languages** [[Hallit]]
-**Skills** [[Acrobatics]] +15, [[Athletics]] +15, [[Stealth]] +17, [[Survival]] +15
+**Languages** [[DATABASE/language/Hallit|Hallit]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +15, [[DATABASE/skill/Athletics|Athletics]] +15, [[DATABASE/skill/Stealth|Stealth]] +17, [[DATABASE/skill/Survival|Survival]] +15
 **Str** +4, **Dex** +4, **Con** +2, **Int** +1, **Wis** +2, **Cha** +0
-**Items** _+1 [[Hatchet]]_ (2), carved wooden trinket worth 5 gp, [[Leather Armor]], [[Alchemist's Fire]] (3)
+**Items** _+1 [[DATABASE/weapon/Hatchet|hatchets]]_ (2), carved wooden trinket worth 5 gp, [[DATABASE/armor/Leather Armor|leather armor]], [[DATABASE/equipment/Alchemist's Fire|moderate alchemist's fire]] (3)
 
 ---
 **AC** 25; **Fort** +17, **Ref** +15, **Will** +13
@@ -89,4 +89,4 @@ This creature did not include a description.
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _hatchet_ +18 [+14/+10] (agile, magical, reach, sweep), **Damage** 2d6+8 slashing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> alchemist's fire +18 [+13/+8] (range increment 30 feet, splash), **Damage** 2d8 fire damage plus 2 [[Persistent Damage]] and 2 fire splash damage</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _hatchet_ +18 [+14/+10] (agile, magical, sweep, thrown 10 feet), **Damage** 2d6+8 slashing</span><span class="in-box-ability">**Cruel Cutter** Burning Mammoth commandos ably carve flesh and wood with their axes. An axe the commando uses gains the reach trait and deals an additional 1d6 damage (included in the hatchet Strikes above).</span><span class="in-box-ability">**Hunt Prey** <span class="action-icon">1</span> (concentrate) The commando designates a single creature they can see and hear, or one they're [[Track]], as their prey. The commando gains a +2 circumstance bonus to Perception checks to [[Seek]] their prey and to [[Survival]] checks to Track their prey. The first time the commando hits their designated prey in a round, they deal an additional 1d8 precision damage. The commando also ignores the penalty for making ranged attacks within the second range increment when attacking their prey. These effects last until the commando uses Hunt Prey again.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _hatchet_ +18 [+14/+10] (agile, magical, reach, sweep), **Damage** 2d6+8 slashing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> alchemist's fire +18 [+13/+8] (range increment 30 feet, splash), **Damage** 2d8 fire damage plus 2 [[DATABASE/condition/Persistent Damage|persistent fire damage]] and 2 fire splash damage</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _hatchet_ +18 [+14/+10] (agile, magical, sweep, thrown 10 feet), **Damage** 2d6+8 slashing</span><span class="in-box-ability">**Cruel Cutter** Burning Mammoth commandos ably carve flesh and wood with their axes. An axe the commando uses gains the reach trait and deals an additional 1d6 damage (included in the hatchet Strikes above).</span><span class="in-box-ability">**Hunt Prey** <span class="action-icon">1</span> (concentrate) The commando designates a single creature they can see and hear, or one they're [[DATABASE/action/Track|Tracking]], as their prey. The commando gains a +2 circumstance bonus to Perception checks to [[DATABASE/action/Seek|Seek]] their prey and to [[DATABASE/skill/Survival|Survival]] checks to Track their prey. The first time the commando hits their designated prey in a round, they deal an additional 1d8 precision damage. The commando also ignores the penalty for making ranged attacks within the second range increment when attacking their prey. These effects last until the commando uses Hunt Prey again.</span>

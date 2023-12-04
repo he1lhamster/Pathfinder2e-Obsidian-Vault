@@ -13,6 +13,7 @@ name: Door Ram
 price: 30 gp
 rarity: Uncommon
 reflex: null
+rus_type_level: null
 size: Small
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
@@ -25,7 +26,7 @@ usage: portable, held in 4 hands
 # Door Ram<span class="item-type">Item 2</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-size item-trait">Small</span><span class="item-trait">Portable</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 30 gp
 
 ---

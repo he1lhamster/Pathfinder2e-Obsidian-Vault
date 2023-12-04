@@ -20,6 +20,7 @@ patron_theme: null
 range: 30 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -38,7 +39,7 @@ type: Focus
 # Diviner's Sight<span class="item-type">Focus 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Concentrate</span><span class="item-trait">Divination</span><span class="item-trait">Fortune</span><span class="item-trait">Wizard</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Cast** <span class="action-icon">1</span> verbal
 **Range** 30 feet; **Targets** 1 willing living creature
 **Duration** until the end of your next turn

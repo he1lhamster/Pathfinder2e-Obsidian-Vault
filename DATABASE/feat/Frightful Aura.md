@@ -11,6 +11,7 @@ name: Frightful Aura
 prerequisite: Master in [[DATABASE/skill/Intimidation|Intimidation]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 subcategory: null
@@ -27,14 +28,14 @@ type: Feat
 # Frightful Aura <span class="item-type">Feat 18</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Aura</span><span class="item-trait">Emotion</span><span class="item-trait">Fear</span><span class="item-trait">Mental</span>
-**Source** [[Book of the Dead]]
-**Archetype** [[Lich]]
-**Prerequisites** master in [[Intimidation]]
+**Source** [[DATABASE/source/Book of the Dead|Book of the Dead]]
+**Archetype** [[DATABASE/archetype/Lich|Lich]]
+**Prerequisites** master in [[DATABASE/skill/Intimidation|Intimidation]]
 
 ---
 You're surrounded by a palpable sense of menace and power that's terrifying to behold. The aura is a 15-foot emanation. An enemy that enters or ends its turn in the aura must attempt a Will save against the higher of your spell DC or class DC.
 **Success** The creature is unaffected and temporarily immune to your Frightful Aura for 1 minute.
-**Failure** The creature is [[Frightened]].
+**Failure** The creature is [[DATABASE/condition/Frightened|frightened 1]].
 **Critical Failure** The creature is frightened 2.
 
 ## Traits

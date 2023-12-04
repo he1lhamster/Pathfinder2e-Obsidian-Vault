@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -53,9 +54,9 @@ weapon_type: null
 # Pontoon<span class="item-type">Item 9</span>
 
 <span class="item-trait">Magical</span><span class="item-trait">Transmutation</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 650 gp
 **Usage** applied to footwear; **Bulk** —
 
 ---
-Footwear with _pontoon_ runes allows you to traverse waterways with ease. While wearing footwear with the rune, you can walk on the surface of water and other liquids without falling through. This offers no protection against damage the liquid deals. You can go under the liquid's surface, but you must [[Swim]] if you do.
+Footwear with _pontoon_ runes allows you to traverse waterways with ease. While wearing footwear with the rune, you can walk on the surface of water and other liquids without falling through. This offers no protection against damage the liquid deals. You can go under the liquid's surface, but you must [[DATABASE/action/Swim|Swim]] if you do.

@@ -14,6 +14,7 @@ name: Dread Aura
 rarity: Common
 reflex: null
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
@@ -27,7 +28,7 @@ will: null
 # Dread Aura<span class="item-type">Hazard 16</span>
 
 <span class="item-trait">Environmental</span><span class="item-trait">Magical</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 **Complexity** Simple
 **Stealth** DC 42 (master)
 **Description** The disturbing sensation of being watched, of having attracted the unwanted attention of something unimaginably powerful, or knowing the eerie conviction that unseen stars in the sky above might be looking down upon this spot grows increasingly overwhelming.
@@ -38,4 +39,4 @@ will: null
 **Critical Success** The creature is unaffected and is immune to the Dread Aura forever.
 **Success** The creature is unaffected and is immune to the Dread Aura for 24 hours.
 **Failure** The creature becomes unsettled and suffers a –2 penalty to all saves against fear effects as long as they remain within the hex containing Candlemere.
-**Critical Failure** As failure, but each time the creature becomes frightened or flees, the fear is physically enervating, and the creature is also [[Enfeebled]] 1 as long as they remain [[Frightened]] or [[Fleeing]].
+**Critical Failure** As failure, but each time the creature becomes frightened or flees, the fear is physically enervating, and the creature is also [[DATABASE/condition/Enfeebled|enfeebled]] 1 as long as they remain [[DATABASE/condition/Frightened|frightened]] or [[DATABASE/condition/Fleeing|fleeing]].

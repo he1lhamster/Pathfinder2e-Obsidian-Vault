@@ -11,6 +11,7 @@ name: Advanced Flair
 prerequisite: '[[DATABASE/feat/Basic Flair|Basic Flair]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Advanced Flair <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Swashbuckler]]
-**Prerequisites** [[Basic Flair]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Swashbuckler|Swashbuckler]]
+**Prerequisites** [[DATABASE/feat/Basic Flair|Basic Flair]]
 
 ---
 You gain one swashbuckler feat. For the purpose of meeting its prerequisites, your swashbuckler level is equal to half your character level.

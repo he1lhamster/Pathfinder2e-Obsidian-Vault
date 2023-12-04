@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Enchantment
 size: null
@@ -56,19 +57,19 @@ weapon_type: null
 # Fearsome<span class="item-type">Item 5+</span>
 
 <span class="item-trait">Emotion</span><span class="item-trait">Enchantment</span><span class="item-trait">Fear</span><span class="item-trait">Magical</span><span class="item-trait">Mental</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Usage** etched onto a weapon; **Bulk** —
 
 ---
-When you critically hit with this weapon, the target becomes [[Frightened]].
+When you critically hit with this weapon, the target becomes [[DATABASE/condition/Frightened|frightened 1]].
 
 ## Fearsome<span class="item-type">Item 5</span>
 
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Price** 160 gp
 
 ## Fearsome (Greater)<span class="item-type">Item 12</span>
 
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Price** 2,000 gp
 When you critically hit with this weapon, the target becomes frightened 2.

@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Demolitionist Dedication|Demolitionist Dedication
 rarity: Common
 requirement: You're within 30 feet of an area where you rigged bombs on a wall, cliff
   face, or similar verticalsurface with Set Explosives or Demolition Charge.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Collapse Wall <span class="action-icon">5</span> <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Guns & Gears]]
-**Archetype** [[Demolitionist]]
-**Prerequisites** [[Demolitionist Dedication]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Archetype** [[DATABASE/archetype/Demolitionist|Demolitionist]]
+**Prerequisites** [[DATABASE/feat/Demolitionist Dedication|Demolitionist Dedication]]
 **Trigger** A creature moves into the bombs' splash area.
 **Requirements** You're within 30 feet of an area where you rigged bombs on a wall, cliff face, or similar vertical surface with Set Explosives or Demolition Charge.
 

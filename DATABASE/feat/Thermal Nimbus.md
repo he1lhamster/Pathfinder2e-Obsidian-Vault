@@ -11,6 +11,7 @@ name: Thermal Nimbus
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -27,7 +28,7 @@ type: Feat
 # Thermal Nimbus <span class="action-icon">1</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Fire</span><span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Primal</span><span class="item-trait">Stance</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
 You direct waves of warmth into or out of your kinetic gate to drastically shift the temperature around you. Choose cold or fire. You and allies in your kinetic aura gain resistance equal to your level to damage of that type. Any creature that starts its turn in your kinetic aura or moves into your aura during its turn takes damage equal to half your level of the chosen type. Elemental resistance from a gate junction is cumulative with resistance from Thermal Nimbus.

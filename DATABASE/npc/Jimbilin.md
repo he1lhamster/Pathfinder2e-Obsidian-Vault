@@ -73,19 +73,19 @@ wisdom: '+5'
 # Jimbilin
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 29
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 29
 **Unspecific Lore**: DC 27
 **Specific Lore**: DC 24
 
 # Jimbilin<span class="item-type">Creature 4</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Small</span><span class="item-trait">Halfling</span><span class="item-trait">Humanoid</span>
-**Source** [[The Enmity Cycle]]
-Male [[Halfling]] priest of [[Ahriman]]
-**Perception** +12; [[Low-Light Vision]]
-**Skills** [[Deception]] +12, [[Diplomacy]] +12, [[Medicine]] +10, [[Religion]] +10, [[Stealth]] +8
+**Source** [[DATABASE/source/The Enmity Cycle|The Enmity Cycle]]
+Male [[DATABASE/ancestry/Halfling|halfling]] priest of [[DATABASE/deity/Ahriman|Ahriman]]
+**Perception** +12; [[DATABASE/monsterability/Low-Light Vision|low-light vision]]
+**Skills** [[DATABASE/skill/Deception|Deception]] +12, [[DATABASE/skill/Diplomacy|Diplomacy]] +12, [[DATABASE/skill/Medicine|Medicine]] +10, [[DATABASE/skill/Religion|Religion]] +10, [[DATABASE/skill/Stealth|Stealth]] +8
 **Str** +2, **Dex** +3, **Con** +3, **Int** +2, **Wis** +5, **Cha** +3
-**Items** _+1 [[Chain Mail]]_, [[Scorpion Whip]], [[Religious Symbol]]
+**Items** _+1 [[DATABASE/armor/Chain Mail|chain mail]]_, [[DATABASE/weapon/Scorpion Whip|scorpion whip]], [[DATABASE/equipment/Religious Symbol|wooden religious symbol]]
 
 ---
 **AC** 21; **Fort** +9, **Ref** +10, **Will** +14
@@ -93,5 +93,5 @@ Male [[Halfling]] priest of [[Ahriman]]
 
 ---
 **Speed** 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> scorpion whip +10 [+5/+0], **Damage** 2d4+4 piercing</span>**Divine Prepared Spells** DC 21, attack +13; **2nd** _[[Boneshaker]]_, _[[Darkvision]]_, _[[Harm]]_; **1st** _[[Bane]]_, _[[Fear]]_, _[[Harm]]_; **Cantrips** **(2nd)** _[[Chill Touch]]_, _[[Divine Lance]]_, _[[Haunting Hymn]]_, _[[Shield]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> scorpion whip +10 [+5/+0], **Damage** 2d4+4 piercing</span>**Divine Prepared Spells** DC 21, attack +13; **2nd** _[[DATABASE/spell/Boneshaker|boneshaker]]_, _[[DATABASE/spell/Darkvision|darkvision]]_, _[[DATABASE/spell/Harm|harm]]_; **1st** _[[DATABASE/spell/Bane|bane]]_, _[[DATABASE/spell/Fear|fear]]_, _[[DATABASE/spell/Harm|harm]]_; **Cantrips** **(2nd)** _[[DATABASE/spell/Chill Touch|chill touch]]_, _[[DATABASE/spell/Divine Lance|divine lance]]_, _[[DATABASE/spell/Haunting Hymn|haunting hymn]]_, _[[DATABASE/spell/Shield|shield]]_
 <span class="in-box-ability">**Prayer of Oblivion** <span class="action-icon">3</span> (divine, evil, negative) The priest chants a prayer to his deity that invokes the forces of nothingness; **Frequency** once per day; **Effect** All enemies within 30 feet take 5d6 negative damage (DC 21 basic Will save).</span>

@@ -11,6 +11,7 @@ name: Quick Bomber
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Quick Bomber <span class="action-icon">1</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Alchemist</span>
-**Source** [[Core Rulebook]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
 You keep your bombs in easy-to-reach pouches from which you draw without thinking. You Interact to draw a bomb, then Strike with it.

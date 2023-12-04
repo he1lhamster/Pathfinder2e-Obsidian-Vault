@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -52,9 +53,9 @@ weapon_type: null
 # Gunner's Saddle<span class="item-type">Item 2</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 20 gp
 **Usage** worn saddle; **Bulk** 2
 
 ---
-Developed by marauders from the Mana Wastes, this clockwork saddle comes with a retractable weapon mount that can be used as a [[Tripod]] to stabilize a weapon with the kickback trait. Just like a normal tripod, you Interact to deploy the tripod to stabilize the firearm, and then again to retract the tripod to move it. The saddle uses complex hydraulics to protect the steed from the firearm's recoil.
+Developed by marauders from the Mana Wastes, this clockwork saddle comes with a retractable weapon mount that can be used as a [[DATABASE/equipment/Tripod|tripod]] to stabilize a weapon with the kickback trait. Just like a normal tripod, you Interact to deploy the tripod to stabilize the firearm, and then again to retract the tripod to move it. The saddle uses complex hydraulics to protect the steed from the firearm's recoil.

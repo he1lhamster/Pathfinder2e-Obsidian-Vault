@@ -75,20 +75,20 @@ wisdom: '+1'
 # Ji-yook (Level 9)
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 36
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 36
 **Unspecific Lore**: DC 34
 **Specific Lore**: DC 31
 
 # Ji-yook (Level 9)<span class="item-type">Creature 9</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CG</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Humanoid</span><span class="item-trait">Kitsune</span>
-**Source** [[Pathfinder 166. Despair on Danger Island]]
-Female [[Kitsune]] ninja 
-**Perception** +19; [[Low-Light Vision]]
-**Languages** [[Common]], [[Goblin]], [[Kitsune]], [[Nagaji]], [[Tengu]], [[Tien]]
-**Skills** [[Acrobatics]] +21, [[Deception]] +21, [[Stealth]] +19, [[Thievery]] +19
+**Source** [[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #166: Despair on Danger Island]]
+Female [[DATABASE/ancestry/Kitsune|kitsune]] ninja 
+**Perception** +19; [[DATABASE/monsterability/Low-Light Vision|low-light vision]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Goblin|Goblin]], [[DATABASE/language/Kitsune|Kitsune]], [[DATABASE/language/Nagaji|Nagaji]], [[DATABASE/language/Tengu|Tengu]], [[DATABASE/language/Tien|Tien]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +21, [[DATABASE/skill/Deception|Deception]] +21, [[DATABASE/skill/Stealth|Stealth]] +19, [[DATABASE/skill/Thievery|Thievery]] +19
 **Str** +0, **Dex** +4, **Con** +2, **Int** +3, **Wis** +1, **Cha** +4
-**Items** _+1 [[Explorer's Clothing]]_, _+1 striking [[Handwraps of Mighty Blows]]_, _+1 [[Striking]] [[Returning]] [[Dart]]_, _+1 [[Striking]] [[Dart]]_ (5), [[Smokestick]]
+**Items** _+1 [[DATABASE/armor/Explorer's Clothing|explorer's clothing]]_, _+1 striking [[DATABASE/equipment/Handwraps of Mighty Blows|handwraps of mighty blows]]_, _+1 [[DATABASE/equipment/Striking|striking]] [[DATABASE/equipment/Returning|returning]] [[DATABASE/weapon/Dart|dart]]_, _+1 [[DATABASE/equipment/Striking|striking]] [[DATABASE/weapon/Dart|darts]]_ (5), [[DATABASE/equipment/Smokestick|lesser smokesticks (2)]]
 
 ---
 **AC** 29; **Fort** +15, **Ref** +19, **Will** +16
@@ -96,5 +96,5 @@ Female [[Kitsune]] ninja
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +20 [+16/+12] (agile, finesse, magical, nonlethal, unarmed), **Damage** 2d4+8 slashing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> dart +20 [+16/+12] (agile, magical, thrown 20 feet), **Damage** 2d4+4 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> foxfire +19 [+14/+9] (range 20 feet), **Damage** 2d4 electricity</span>**Divine Innate Spells** DC 27; **1st** _[[Sanctuary]]_; **Cantrips** **(5th)** _[[Daze]]_
-<span class="in-box-ability">**[[Change Shape]]** <span class="action-icon">1</span> (concentrate, divine, polymorph, transmutation) Ji-yook transforms into her human form. Using Change Shape counts as creating a disguise for the [[Impersonate]] use of [[Deception]]. Ji-yook can remain in her human form indefinitely, and she can shift back to her true kitsune form by using this action again.</span><span class="in-box-ability">**Foxfire Blast** <span class="action-icon">2</span> (electricity, evocation, flourish, magical) Ji-yook makes a fist Strike. On a hit, the target takes an additional 2d4 electricity damage and is pushed back 5 feet. On a critical hit, the target is pushed back and then knocked [[Prone]].</span><span class="in-box-ability">**Pinning Shot** <span class="action-icon">1</span> Ji-yook pins a foe's clothing to a wall or floor or the ground. Ji-yook makes a dart Strike. If the attack hits, it deals no damage and instead pins the target to an adjacent surface. The target is [[Immobilized]] and must spend an Interact action to attempt a DC 10 [[Athletics]] check to pull the dart free; it can't move from its space until it succeeds. If Ji-yook's dart Strike was a critical hit, the target must succeed at two separate Athletics checks to pull the dart free. The target is [[Flat-Footed]] while it remains immobilized in this way.</span><span class="in-box-ability">**[[Sneak Attack]]** Ji-yook's Strikes deal an additional 2d6 precision damage to [[Flat-Footed]] creatures.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +20 [+16/+12] (agile, finesse, magical, nonlethal, unarmed), **Damage** 2d4+8 slashing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> dart +20 [+16/+12] (agile, magical, thrown 20 feet), **Damage** 2d4+4 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> foxfire +19 [+14/+9] (range 20 feet), **Damage** 2d4 electricity</span>**Divine Innate Spells** DC 27; **1st** _[[DATABASE/spell/Sanctuary|sanctuary]]_; **Cantrips** **(5th)** _[[DATABASE/spell/Daze|daze]]_
+<span class="in-box-ability">**[[DATABASE/monsterability/Change Shape|Change Shape]]** <span class="action-icon">1</span> (concentrate, divine, polymorph, transmutation) Ji-yook transforms into her human form. Using Change Shape counts as creating a disguise for the [[DATABASE/action/Impersonate|Impersonate]] use of [[DATABASE/skill/Deception|Deception]]. Ji-yook can remain in her human form indefinitely, and she can shift back to her true kitsune form by using this action again.</span><span class="in-box-ability">**Foxfire Blast** <span class="action-icon">2</span> (electricity, evocation, flourish, magical) Ji-yook makes a fist Strike. On a hit, the target takes an additional 2d4 electricity damage and is pushed back 5 feet. On a critical hit, the target is pushed back and then knocked [[DATABASE/condition/Prone|prone]].</span><span class="in-box-ability">**Pinning Shot** <span class="action-icon">1</span> Ji-yook pins a foe's clothing to a wall or floor or the ground. Ji-yook makes a dart Strike. If the attack hits, it deals no damage and instead pins the target to an adjacent surface. The target is [[DATABASE/condition/Immobilized|immobilized]] and must spend an Interact action to attempt a DC 10 [[DATABASE/skill/Athletics|Athletics]] check to pull the dart free; it can't move from its space until it succeeds. If Ji-yook's dart Strike was a critical hit, the target must succeed at two separate Athletics checks to pull the dart free. The target is [[DATABASE/condition/Flat-Footed|flat-footed]] while it remains immobilized in this way.</span><span class="in-box-ability">**[[DATABASE/monsterability/Sneak Attack|Sneak Attack]]** Ji-yook's Strikes deal an additional 2d6 precision damage to [[DATABASE/condition/Flat-Footed|flat-footed]] creatures.</span>

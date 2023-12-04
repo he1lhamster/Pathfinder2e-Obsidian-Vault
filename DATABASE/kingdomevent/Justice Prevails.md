@@ -3,6 +3,7 @@ id: '19'
 level: '0'
 name: Justice Prevails
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Statecraft|Statecraft]]'
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
@@ -14,9 +15,9 @@ type: Kingdom Event
 # Justice Prevails<span class="item-type">Event +0</span>
 
 <span class="item-trait">Beneficial</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 The authorities catch a notorious criminal, exonerate a wrongfully accused innocent, shut down a major criminal operation, or thwart a plot against a settlement. Whatever the case, some injustice that has long vexed your citizens has finally been resolved.
-**Kingdom Skill** [[Statecraft]]; **Leader** Warden
+**Kingdom Skill** [[DATABASE/skill/Statecraft|Statecraft]]; **Leader** Warden
 **Critical Success** The triumph of law and justice invites celebration. Reduce Unrest by 1d6 and reduce each Ruin by 1. Alternately, if you're suffering from a continuous Bandit Activity, Cult Activity, Drug Den, Inquisition, Sacrifices, Sensational Crime, Squatters, or Vandals event, you can instead cause that event to end.
 **Success** A celebration of the common good delights the locals. Reduce Unrest by 1d4 or reduce two Ruins of your choice by 1 each.
 **Failure** Justice is done, but at a cost of bad publicity. If you don't Quell Unrest at least once during the next Kingdom turn, the kingdom gains 1d4 Unrest at the end of the next turn.

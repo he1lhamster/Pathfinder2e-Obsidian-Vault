@@ -26,6 +26,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -42,9 +43,9 @@ type: Spell
 # Moon Frenzy<span class="item-type">Spell 5</span>
 
 <span class="item-trait">Morph</span><span class="item-trait">Transmutation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** primal
-**Deities** [[Angazhan]], [[Chamidu]], [[Sekhmet]]
+**Deities** [[DATABASE/deity/Angazhan|Angazhan]], [[DATABASE/deity/Chamidu|Chamidu]], [[DATABASE/deity/Sekhmet|Sekhmet]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet; **Targets** up to 5 willing creatures
 **Duration** 1 minute

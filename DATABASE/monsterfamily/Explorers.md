@@ -3,6 +3,7 @@ creature_family: Explorers
 id: '185'
 name: Explorers
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Explorers
 
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 The world is a wide, open place fraught with peril and adventure. Explorers use their knowledge of nature and survival skills to see every corner of the land.
 
 ### Members
 
-[[Chronicler]] (Creature 3), [[Guide]] (Creature 4), [[Tomb Raider]] (Creature 5), [[Torchbearer]] (Creature 0)
+[[DATABASE/npc/Chronicler|Chronicler]] (Creature 3), [[DATABASE/npc/Guide|Guide]] (Creature 4), [[DATABASE/npc/Tomb Raider|Tomb Raider]] (Creature 5), [[DATABASE/npc/Torchbearer|Torchbearer]] (Creature 0)
 
 ###  Pathfinder Chronicles
 

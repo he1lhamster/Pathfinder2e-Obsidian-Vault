@@ -67,25 +67,25 @@ wisdom: '+0'
 # Nishkiv The Knife
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 25
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 25
 **Unspecific Lore**: DC 23
 **Specific Lore**: DC 20
 
 # Nishkiv The Knife<span class="item-type">Creature 1</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 **Perception** +5
-**Languages** [[Common]], [[Jotun]]
-**Skills** [[Acrobatics]] +7, [[Athletics]] +4, [[Deception]] +7, [[Society]] +6, [[Stealth]] +7
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Jotun|Jotun]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +7, [[DATABASE/skill/Athletics|Athletics]] +4, [[DATABASE/skill/Deception|Deception]] +7, [[DATABASE/skill/Society|Society]] +6, [[DATABASE/skill/Stealth|Stealth]] +7
 **Str** +1, **Dex** +4, **Con** +1, **Int** +1, **Wis** +0, **Cha** +2
-**Items** [[Healing Potion]] (3), [[Dagger]], [[Leather Armor]]
+**Items** [[DATABASE/equipment/Healing Potion|lesser healing potions]] (3), [[DATABASE/weapon/Dagger|daggers (6)]], [[DATABASE/armor/Leather Armor|leather armor]]
 
 ---
 **AC** 16; **Fort** +6, **Ref** +9, **Will** +5
 **HP** 20
-<span class="in-box-ability">**[[Attack of Opportunity]] <span class="action-icon">5</span> ** </span>
+<span class="in-box-ability">**[[DATABASE/monsterability/Attack of Opportunity|Attack of Opportunity]] <span class="action-icon">5</span> ** </span>
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> dagger +9 [+5/+1] (agile, finesse, thrown 10 ft., versatile S), **Damage** 1d4+1 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> dagger +9 [+5/+1] (agile, finesse, thrown 10 ft., versatile S), **Damage** 1d4+1 piercing</span><span class="in-box-ability">**Double Strike** <span class="action-icon">2</span> Nishkiv makes two dagger Strikes against the same target. If his first attack hits, the target is [[Flat-Footed]] to the second attack. The multiple attack penalty applies to these attacks as normal.</span><span class="in-box-ability">**[[Sneak Attack]]** Nishkiv deals 1d6 extra precision damage to [[Flat-Footed]] creatures.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> dagger +9 [+5/+1] (agile, finesse, thrown 10 ft., versatile S), **Damage** 1d4+1 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> dagger +9 [+5/+1] (agile, finesse, thrown 10 ft., versatile S), **Damage** 1d4+1 piercing</span><span class="in-box-ability">**Double Strike** <span class="action-icon">2</span> Nishkiv makes two dagger Strikes against the same target. If his first attack hits, the target is [[DATABASE/condition/Flat-Footed|flat-footed]] to the second attack. The multiple attack penalty applies to these attacks as normal.</span><span class="in-box-ability">**[[DATABASE/monsterability/Sneak Attack|Sneak Attack]]** Nishkiv deals 1d6 extra precision damage to [[DATABASE/condition/Flat-Footed|flat-footed]] creatures.</span>

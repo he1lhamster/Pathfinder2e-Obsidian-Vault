@@ -11,6 +11,7 @@ name: Arrow of Death
 prerequisite: '[[DATABASE/feat/Eldritch Archer Dedication|Eldritch Archer Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,10 +26,10 @@ type: Feat
 # Arrow of Death <span class="action-icon">3</span> <span class="item-type">Feat 18</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Magical</span><span class="item-trait">Necromancy</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Eldritch Archer]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Eldritch Archer|Eldritch Archer]]
 **Frequency** once per day
-**Prerequisites** [[Eldritch Archer Dedication]]
+**Prerequisites** [[DATABASE/feat/Eldritch Archer Dedication|Eldritch Archer Dedication]]
 
 ---
 You modify an arrow or bolt to bring death to your target in a single potent hit. Make a bow Strike. On a hit, you deal an additional 10d10 precision damage. On a critical hit, the target must also succeed at a Fortitude saving throw against your class DC or spell DC, whichever is higher, or be immediately slain; this save has the death and incapacitation traits.

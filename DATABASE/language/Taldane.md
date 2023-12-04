@@ -2,6 +2,7 @@
 id: '106'
 name: Taldane
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/The Enmity Cycle|The Enmity Cycle]]'
 trait: null
 type: Language
@@ -9,13 +10,13 @@ type: Language
 ---
 # Taldane
 
-**Source** [[The Enmity Cycle]]
+**Source** [[DATABASE/source/The Enmity Cycle|The Enmity Cycle]]
 The below entries contain speakers of Taldane.
 
 ## Monsters (2)
 
-[[Mechanical Assistant]], [[Seddek]]
+[[DATABASE/monster/Mechanical Assistant|Mechanical Assistant]], [[DATABASE/monster/Seddek|Seddek]]
 
 ## NPCs (2)
 
-[[Amar]], [[Krashk]]
+[[DATABASE/npc/Amar|Amar]], [[DATABASE/npc/Krashk|Krashk]]

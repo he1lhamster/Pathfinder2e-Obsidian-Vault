@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -56,7 +57,7 @@ weapon_type: null
 # Poison Barbs Snare<span class="item-type">Item 1</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Mechanical</span><span class="item-trait">Snare</span><span class="item-trait">Trap</span>
-**Source** [[Pathfinder 175. Broken Tusk Moon]]
+**Source** [[DATABASE/source/Pathfinder 175. Broken Tusk Moon|Pathfinder #175: Broken Tusk Moon]]
 **Price** 4 gp
 **Bulk** —
 

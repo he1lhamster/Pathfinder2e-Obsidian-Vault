@@ -11,6 +11,7 @@ name: Hex Master
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Hex Master <span class="item-type">Feat 20</span>
 
 <span class="item-trait">Witch</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
-You embody the link to your patron so completely that you can cast your hexes in rapid succession. You are no longer limited to casting only a single hex each turn. In addition, when you cast [[Cackle]] to sustain a hex, you gain the effects of Sustain a Spell for all your active hexes that have a duration of sustained.
+You embody the link to your patron so completely that you can cast your hexes in rapid succession. You are no longer limited to casting only a single hex each turn. In addition, when you cast [[DATABASE/spell/Cackle|cackle]] to sustain a hex, you gain the effects of Sustain a Spell for all your active hexes that have a duration of sustained.

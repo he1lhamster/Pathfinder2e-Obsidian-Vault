@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -54,37 +55,37 @@ weapon_type: null
 # Obsidian Edge<span class="item-type">Item 6+</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Fire</span><span class="item-trait">Magical</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Usage** held in 2 hands; **Bulk** 2
-**Base Weapon** [[Gun Sword]]
+**Base Weapon** [[DATABASE/weapon/Gun Sword|Gun Sword]]
 
 ---
-This black obsidian blade is a _+1 [[Striking]] [[Gun Sword]]_. Magma seeps along its many cracks and crags, and the handle is hot but not scalding to the touch. Strikes with this gun sword deal 1 extra fire damage.
+This black obsidian blade is a _+1 [[DATABASE/equipment/Striking|striking]] [[DATABASE/weapon/Gun Sword|gun sword]]_. Magma seeps along its many cracks and crags, and the handle is hot but not scalding to the touch. Strikes with this gun sword deal 1 extra fire damage.
 **Activate****—Explosion of Shards** <span class="action-icon">1</span> (manipulate); **Frequency** once per 10 minutes; **Requirements** Your most recent action this turn was a successful ranged Strike with _obsidian edge_; **Effect** Magma coats the sword blade completely before exploding from your weapon in a 15-foot emanation of fire and glass. Creatures in the area take 2d6 fire damage and 2d6 piercing damage with a DC 20 basic Reflex save.
 
 ## Obsidian Edge<span class="item-type">Item 6</span>
 
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Price** 250 gp
 **Bulk** 2
 
 ## Obsidian Edge (Greater)<span class="item-type">Item 9</span>
 
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Price** 700 gp
 **Bulk** 2
-A _greater obsidian edge_ has a [[Flaming]] rune instead of dealing 1 extra fire damage. The activation's damage is 3d6 fire and 2d6 piercing with a DC of 25.
+A _greater obsidian edge_ has a [[DATABASE/equipment/Flaming|flaming]] rune instead of dealing 1 extra fire damage. The activation's damage is 3d6 fire and 2d6 piercing with a DC of 25.
 
 ## Obsidian Edge (Major)<span class="item-type">Item 12</span>
 
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Price** 1,800 gp
 **Bulk** 2
 A _major obsidian edge_ is a _+2 striking flaming gun sword_; the _flaming_ rune replaces the 1 extra fire damage. The activation's damage is 4d6 fire and 3d6 piercing with a DC of 29.
 
 ## Obsidian Edge (True)<span class="item-type">Item 18</span>
 
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Price** 22,000 gp
 **Bulk** 2
 A _true obsidian edge_ is a _+3 greater striking greater flaming gun sword_; the _flaming_ rune replaces the 1 extra fire damage. The activation's damage is 5d6 fire and 4d6 piercing with a DC of 38.

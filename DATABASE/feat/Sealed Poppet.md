@@ -11,6 +11,7 @@ name: Sealed Poppet
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
 subcategory: null
@@ -23,11 +24,11 @@ type: Feat
 # Sealed Poppet <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Poppet</span>
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 
 ---
 You've reinforced your interior parts with sealant or other flame-retardant materials, protecting you from fire. You no longer have the weakness to fire from the flammable ability.
-**Special** You can't take this feat if you're a [[Stuffed Poppet]].
+**Special** You can't take this feat if you're a [[DATABASE/heritage/Stuffed Poppet|stuffed poppet]].
 
 ## Traits
 

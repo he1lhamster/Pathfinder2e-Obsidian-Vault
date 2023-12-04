@@ -12,6 +12,7 @@ prerequisite: Trained in [[DATABASE/skill/Arcana|Arcana]] , Trained in [[DATABAS
   , Trained in [[DATABASE/skill/Occultism|Occultism]] , or Trainedin [[DATABASE/skill/Religion|Religion]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: arcana
@@ -28,8 +29,8 @@ type: Feat
 # Recognize Spell <span class="action-icon">5</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">General</span><span class="item-trait">Secret</span><span class="item-trait">Skill</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** trained in [[Arcana]], [[Nature]], [[Occultism]], or [[Religion]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** trained in [[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]], [[DATABASE/skill/Occultism|Occultism]], or [[DATABASE/skill/Religion|Religion]]
 **Trigger** A creature within line of sight casts a spell that you don’t have prepared or in your spell repertoire, or a trap or similar object casts such a spell. You must be aware of the casting.
 
 ---
@@ -41,7 +42,7 @@ If you are trained in the appropriate skill for the spell’s tradition and it�
 
 ## Recognize Spell Leads To...
 
-[[Quick Recognition]]
+[[DATABASE/feat/Quick Recognition|Quick Recognition]]
 
 ## Traits
 

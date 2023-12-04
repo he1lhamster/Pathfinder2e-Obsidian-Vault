@@ -11,6 +11,7 @@ name: Sacrifice Armor
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Sacrifice Armor <span class="action-icon">5</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Champion</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Sentinel]]*
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Sentinel|Sentinel]]*
 **Trigger** You are hit by a Strike that deals physical damage.
 * This archetype offers Sacrifice Armor at a different level than displayed here.
 
@@ -37,4 +38,4 @@ This feat can be used for one or more Archetypes in addition to the listed Class
 
 ## Sacrifice Armor Leads To...
 
-[[Greater Interpose]]
+[[DATABASE/feat/Greater Interpose|Greater Interpose]]

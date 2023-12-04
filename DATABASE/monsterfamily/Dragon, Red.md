@@ -3,6 +3,7 @@ creature_family: Dragon, Red
 id: '168'
 name: Dragon, Red
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,7 +11,7 @@ type: Creature Family
 ---
 # Dragon, Red
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 The largest and most powerful of the chromatic dragons, red dragons are a menace to civilizations everywhere, and their strength is rivaled only by their arrogance. Red dragons see themselves as regents and overlords of all dragonkind. With their crowns of crimson spikes and their command of blistering flame, this is no haughty boast in their eyes—only unquestioned fact.
  Red dragons don't deign to speak with lesser creatures; they simply dominate and burn, enslaving weaker creatures to act as servants and to look after their lairs while the dragons slumber away. They take pleasure in dominating these creatures, and they demand tribute from their supplicants. Those who anger or disappoint end up eaten or reduced to ash. They command their enslaved minions to constantly build onto their lairs, carving out new tunnels and designing cunning traps that ensure the dragon's security.
  Driven by their arrogance, red dragons are the most likely of the chromatic dragons to ravage settlements. They want the world to see them in their rightful place as powerful tyrants, and they delight in threatening all other creatures. They have no qualms about bullying, manipulating, or killing to complete their goals—or simply intimidating others through a public display of brutality and dominance.
@@ -18,11 +19,11 @@ The largest and most powerful of the chromatic dragons, red dragons are a menace
 
 ### Members
 
-[[Adult Red Dragon]] (Creature 14), [[Ancient Red Dragon]] (Creature 19), [[Young Red Dragon]] (Creature 10)
+[[DATABASE/monster/Adult Red Dragon|Adult Red Dragon]] (Creature 14), [[DATABASE/monster/Ancient Red Dragon|Ancient Red Dragon]] (Creature 19), [[DATABASE/monster/Young Red Dragon|Young Red Dragon]] (Creature 10)
 
 ## Dragon, Chromatic
 
-**Related Groups** [[Dragon, Black]], [[Dragon, Blue]], [[Dragon, Green]], [[Dragon, White]]
+**Related Groups** [[DATABASE/monsterfamily/Dragon, Black|Dragon, Black]], [[DATABASE/monsterfamily/Dragon, Blue|Dragon, Blue]], [[DATABASE/monsterfamily/Dragon, Green|Dragon, Green]], [[DATABASE/monsterfamily/Dragon, White|Dragon, White]]
 While there are many types of dragons, from the powerful planar dragons to the strange esoteric dragons, few dragon varieties are as well-known and as rightly feared as the chromatic dragons. Differentiated by the hue of their scales, each color of dragon unleashes its own flavor of murderous cruelty—be it by claw, tooth, or breath—and unlike most creatures, dragons only become more powerful as they age. Their lust for treasure, food, bloodshed, and control are legendary. Physically powerful with egos to match, these dragons are often morally depraved and act as criminal masterminds, vicious tyrants, or voracious raiders.
 
 ### Shape-Changing Dragons

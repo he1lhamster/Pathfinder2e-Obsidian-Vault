@@ -78,19 +78,19 @@ wisdom: '+2'
 # Great Grodair
 
 This creature did not include a description.
-**Recall Knowledge - Beast ([[Arcana]], [[Nature]])**: DC 33
-**Recall Knowledge - Fey ([[Nature]])**: DC 33
+**Recall Knowledge - Beast ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 33
+**Recall Knowledge - Fey ([[DATABASE/skill/Nature|Nature]])**: DC 33
 **Unspecific Lore**: DC 31
 **Specific Lore**: DC 28
 
 # Great Grodair<span class="item-type">Creature 7</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CN</span><span class="trait-size item-trait">Large</span><span class="item-trait">Amphibious</span><span class="item-trait">Beast</span><span class="item-trait">Fey</span><span class="item-trait">Water</span>
-**Source** [[Pathfinder 170. Spoken on the Song Wind]]
-Male variant [[Grodair]]
-**Perception** +16; [[Darkvision]]
-**Languages** [[Aquan]], [[Common]], [[Sylvan]]
-**Skills** [[Athletics]] +17, [[Intimidation]] +15, [[Nature]] +15, [[Performance]] +17, [[Survival]] +14
+**Source** [[DATABASE/source/Pathfinder 170. Spoken on the Song Wind|Pathfinder #170: Spoken on the Song Wind]]
+Male variant [[DATABASE/monster/Grodair|grodair]]
+**Perception** +16; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Aquan|Aquan]], [[DATABASE/language/Common|Common]], [[DATABASE/language/Sylvan|Sylvan]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +17, [[DATABASE/skill/Intimidation|Intimidation]] +15, [[DATABASE/skill/Nature|Nature]] +15, [[DATABASE/skill/Performance|Performance]] +17, [[DATABASE/skill/Survival|Survival]] +14
 **Str** +5, **Dex** +1, **Con** +4, **Int** +1, **Wis** +2, **Cha** +4
 
 ---
@@ -100,5 +100,5 @@ Male variant [[Grodair]]
 
 ---
 **Speed** 25 feet, swim 50 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +18 [+13/+8], **Damage** 2d10+9 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> tentacle +18 [+13/+8] (reach 10 feet), **Damage** 1d12+9 bludgeoning plus [[Knockdown]]</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> water jet +16 [+11/+6] (range increment 60 feet), **Damage** 4d6 bludgeoning plus [[Push]] 10 feet</span>**Primal Spontaneous Spells** DC 25; **5th** _[[Control Water]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +18 [+13/+8], **Damage** 2d10+9 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> tentacle +18 [+13/+8] (reach 10 feet), **Damage** 1d12+9 bludgeoning plus [[DATABASE/monsterability/Knockdown|Knockdown]]</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> water jet +16 [+11/+6] (range increment 60 feet), **Damage** 4d6 bludgeoning plus [[DATABASE/monsterability/Push|Push]] 10 feet</span>**Primal Spontaneous Spells** DC 25; **5th** _[[DATABASE/spell/Control Water|control water]]_
 <span class="in-box-ability">**Muddy Field** <span class="action-icon">1</span> (primal, transmutation, water) The great grodair transforms all soil, sand, or similar sediment in a 10-foot emanation into mud for 1 round. This mud is difficult terrain for creatures other than grodairs.</span><span class="in-box-ability">**Organ of Endless Water** <span class="action-icon">1</span> (conjuration, manipulate, primal, water) The great grodair causes water to pour from a magical sac on his spine, either a stream of water at a rate of 1 gallon per round, or a fountain in a 5-foot-long stream at a rate of 5 gallons per round. He can stop the flow of water as a single action.</span>

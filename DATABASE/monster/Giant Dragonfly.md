@@ -68,16 +68,16 @@ wisdom: '+3'
 # Giant Dragonfly
 
 These buzzing insects are the size of a small horse. They are ambush predators known to hunt beasts and humanoids alike, capable of using impressive aerial acrobatics to swoop down from above and snatch away their prey.
-**Recall Knowledge - Animal ([[Nature]])**: DC 19
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 19
 **Unspecific Lore**: DC 17
 **Specific Lore**: DC 14
 
 # Giant Dragonfly<span class="item-type">Creature 4</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary 2]] 
-**Perception** +11; [[Darkvision]], [[Wavesense]]
-**Skills** [[Acrobatics]] +10 (+12 to [[Maneuver in Flight]]), [[Athletics]] +12, [[Stealth]] +12
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +11; [[DATABASE/monsterability/Darkvision|darkvision]], [[DATABASE/monsterability/Wavesense|wavesense (imprecise) 30 feet]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +10 (+12 to [[DATABASE/action/Maneuver in Flight|Maneuver in Flight]]), [[DATABASE/skill/Athletics|Athletics]] +12, [[DATABASE/skill/Stealth|Stealth]] +12
 **Str** +4, **Dex** +4, **Con** +2, **Int** -5, **Wis** +3, **Cha** +0
 
 ---
@@ -86,4 +86,4 @@ These buzzing insects are the size of a small horse. They are ambush predators k
 
 ---
 **Speed** 20 feet, fly 60 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> mandibles +14 [+9/+4], **Damage** 1d12+7 piercing plus [[Grab]]</span><span class="in-box-ability">**Clutch** <span class="action-icon">1</span> **Requirements **The giant dragonfly has a Medium or smaller creature [[Grabbed]] in its mandibles; **Effect **The dragonfly tries to transfer the grabbed creature to be clutched by its legs. The giant dragonfly attempts an [[Athletics]] check against the creature's Reflex DC. On a success, it transfers the creature (which remains grabbed) to its legs, freeing its mandibles to attack. The dragonfly can have only one creature clutched at a time.</span><span class="in-box-ability">**Snatch** The giant dragonfly can Fly at half Speed while it has a creature [[Grabbed]] or [[Restrained]] by Clutch, carrying that creature along with it.</span><span class="in-box-ability">**Swoop** <span class="action-icon">2</span> The giant dragonfly Flies up to its Speed and makes one mandible Strike at any point during that movement.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> mandibles +14 [+9/+4], **Damage** 1d12+7 piercing plus [[DATABASE/monsterability/Grab|Grab]]</span><span class="in-box-ability">**Clutch** <span class="action-icon">1</span> **Requirements **The giant dragonfly has a Medium or smaller creature [[DATABASE/condition/Grabbed|grabbed]] in its mandibles; **Effect **The dragonfly tries to transfer the grabbed creature to be clutched by its legs. The giant dragonfly attempts an [[DATABASE/skill/Athletics|Athletics]] check against the creature's Reflex DC. On a success, it transfers the creature (which remains grabbed) to its legs, freeing its mandibles to attack. The dragonfly can have only one creature clutched at a time.</span><span class="in-box-ability">**Snatch** The giant dragonfly can Fly at half Speed while it has a creature [[DATABASE/condition/Grabbed|grabbed]] or [[DATABASE/condition/Restrained|restrained]] by Clutch, carrying that creature along with it.</span><span class="in-box-ability">**Swoop** <span class="action-icon">2</span> The giant dragonfly Flies up to its Speed and makes one mandible Strike at any point during that movement.</span>

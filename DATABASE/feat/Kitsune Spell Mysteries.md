@@ -11,6 +11,7 @@ name: Kitsune Spell Mysteries
 prerequisite: at least one innate spell from a kitsune heritage or ancestry feat
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,15 +24,15 @@ type: Feat
 # Kitsune Spell Mysteries <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Kitsune</span>
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 **Prerequisites** at least one innate spell from a kitsune heritage or ancestry feat
 
 ---
-You know more kitsune magic. During your daily preparations, choose [[Bane]], [[Illusory Object]], or [[Sanctuary]]. You can cast this as a 1st-level divine innate spell once that day.
+You know more kitsune magic. During your daily preparations, choose [[DATABASE/spell/Bane|bane]], [[DATABASE/spell/Illusory Object|illusory object]], or [[DATABASE/spell/Sanctuary|sanctuary]]. You can cast this as a 1st-level divine innate spell once that day.
 
 ## Kitsune Spell Mysteries Leads To...
 
-[[Kitsune Spell Expertise]]
+[[DATABASE/feat/Kitsune Spell Expertise|Kitsune Spell Expertise]]
 
 ## Traits
 

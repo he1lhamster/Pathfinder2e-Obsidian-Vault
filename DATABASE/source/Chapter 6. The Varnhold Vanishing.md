@@ -2,6 +2,7 @@
 id: '175'
 name: Chapter 6. The Varnhold Vanishing
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source

@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burning
@@ -40,7 +41,7 @@ type: Spell
 # Far Sight<span class="item-type">Spell 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Divination</span><span class="item-trait">Visual</span>
-**Source** [[Pathfinder 177. Burning Tundra]]
+**Source** [[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burning Tundra]]
 **Traditions** occult, primal
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Duration** 10 minutes

@@ -11,6 +11,7 @@ name: Flame Jump
 prerequisite: '[[DATABASE/feat/Emberkin|Emberkin]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -29,18 +30,18 @@ type: Feat
 # Flame Jump <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Aasimar</span><span class="item-trait">Concentrate</span><span class="item-trait">Divine</span><span class="item-trait">Exploration</span><span class="item-trait">Fire</span><span class="item-trait">Manipulate</span><span class="item-trait">Teleportation</span>
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 **Frequency** once per day
-**Prerequisites** [[Emberkin]]
+**Prerequisites** [[DATABASE/feat/Emberkin|Emberkin]]
 
 ---
-Your [[Peri]] lineage has opened your mind to fire's raw, purging essence. You can spend 1 minute in focused preparation, then enter a fire your size or larger to instantly teleport to any fire that is your size or larger up to 5 miles away. You take no damage from entering or exiting fires when using this ability. Once you enter the fire, you instantly know the rough locations of other large fires within range and can exit from the original fire, if you prefer. You can't carry extradimensional spaces with you when you teleport; if you attempt to do so, the activity fails.
+Your [[DATABASE/monster/Peri|peri]] lineage has opened your mind to fire's raw, purging essence. You can spend 1 minute in focused preparation, then enter a fire your size or larger to instantly teleport to any fire that is your size or larger up to 5 miles away. You take no damage from entering or exiting fires when using this ability. Once you enter the fire, you instantly know the rough locations of other large fires within range and can exit from the original fire, if you prefer. You can't carry extradimensional spaces with you when you teleport; if you attempt to do so, the activity fails.
 
 ## Traits
 
 **Aasimar:**
 
-A creature with this trait has the aasimar versatile heritage. Aasimars are [[Planar Scion]] descended from celestial beings. An ability with this trait can be used or selected only by aasimars.
+A creature with this trait has the aasimar versatile heritage. Aasimars are [[DATABASE/monsterfamily/Planar Scion|planar scions]] descended from celestial beings. An ability with this trait can be used or selected only by aasimars.
 
 **Concentrate:**
 

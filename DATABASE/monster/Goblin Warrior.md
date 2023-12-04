@@ -66,19 +66,19 @@ wisdom: '-1'
 # Goblin Warrior
 
 The frontline fighters of goblin tribes prefer to fight in large groups—especially when they can outnumber their foes at least three to one.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 13
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 13
 **Unspecific Lore**: DC 11
 **Specific Lore**: DC 8
 
 # Goblin Warrior<span class="item-type">Creature -1</span>
 
 <span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Small</span><span class="item-trait">Goblin</span><span class="item-trait">Humanoid</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +2; darkvision
-**Languages** [[Goblin]]
-**Skills** [[Acrobatics]] +5, [[Athletics]] +2, [[Nature]] +1, [[Stealth]] +5
+**Languages** [[DATABASE/language/Goblin|Goblin]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +5, [[DATABASE/skill/Athletics|Athletics]] +2, [[DATABASE/skill/Nature|Nature]] +1, [[DATABASE/skill/Stealth|Stealth]] +5
 **Str** +0, **Dex** +3, **Con** +1, **Int** +0, **Wis** -1, **Cha** +1
-**Items** [[Dogslicer]], [[Leather Armor]], [[Shortbow]]
+**Items** [[DATABASE/weapon/Dogslicer|dogslicer]], [[DATABASE/armor/Leather Armor|leather armor]], [[DATABASE/weapon/Shortbow|shortbow (10 arrows)]]
 
 ---
 **AC** 16; **Fort** +5, **Ref** +7, **Will** +3

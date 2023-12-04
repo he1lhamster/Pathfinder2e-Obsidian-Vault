@@ -21,6 +21,7 @@ patron_theme: null
 range: planetary
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -39,7 +40,7 @@ type: Spell
 # Guiding Star<span class="item-type">Spell 2</span>
 
 <span class="item-trait">Detection</span><span class="item-trait">Divination</span><span class="item-trait">Mental</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Traditions** divine, primal
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** planetary; **Targets** 1 creature you've met

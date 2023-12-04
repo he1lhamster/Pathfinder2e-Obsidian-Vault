@@ -11,6 +11,7 @@ name: Crimson Breath
 prerequisite: '[[DATABASE/feat/Worm Caller Dedication|Worm Caller Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Pathfinder 194. Cult of the Cave Worm|Pathfinder #194:
   Cult of the Cave Worm]]'
@@ -27,13 +28,13 @@ type: Feat
 # Crimson Breath <span class="action-icon">2</span> <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Evocation</span><span class="item-trait">Fire</span><span class="item-trait">Primal</span>
-**Source** [[Pathfinder 194. Cult of the Cave Worm]]
-**Archetype** [[Worm Caller]]
+**Source** [[DATABASE/source/Pathfinder 194. Cult of the Cave Worm|Pathfinder #194: Cult of the Cave Worm]]
+**Archetype** [[DATABASE/archetype/Worm Caller|Worm Caller]]
 **Frequency** once per day
-**Prerequisites** [[Worm Caller Dedication]]
+**Prerequisites** [[DATABASE/feat/Worm Caller Dedication|Worm Caller Dedication]]
 
 ---
-You gain a fire breath weapon similar to that of a [[Crimson Worm]]. You breathe a blast of flame in a 30-foot cone that deals 12d6 fire damage to all creatures in the area (basic Reflex save). This damage increases by 2d6 at 14th level and every 2 levels thereafter.
+You gain a fire breath weapon similar to that of a [[DATABASE/monster/Crimson Worm|crimson worm]]. You breathe a blast of flame in a 30-foot cone that deals 12d6 fire damage to all creatures in the area (basic Reflex save). This damage increases by 2d6 at 14th level and every 2 levels thereafter.
 
 ## Traits
 

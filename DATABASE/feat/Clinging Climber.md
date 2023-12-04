@@ -11,6 +11,7 @@ name: Clinging Climber
 prerequisite: '[[DATABASE/feat/Vampire Dedication|Vampire Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Clinging Climber <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Book of the Dead]]
-**Archetype** [[Vampire]]
-**Prerequisites** [[Vampire Dedication]]; trained in [[Athletics]]
+**Source** [[DATABASE/source/Book of the Dead|Book of the Dead]]
+**Archetype** [[DATABASE/archetype/Vampire|Vampire]]
+**Prerequisites** [[DATABASE/feat/Vampire Dedication|Vampire Dedication]]; trained in [[DATABASE/skill/Athletics|Athletics]]
 
 ---
 You climb like a spider. You gain a climb Speed of 15 feet.

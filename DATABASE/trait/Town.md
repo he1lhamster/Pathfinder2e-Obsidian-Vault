@@ -2,6 +2,7 @@
 id: '292'
 name: Town
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
 - Town
@@ -10,5 +11,5 @@ type: Trait
 ---
 # Town
 
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 Settlements with this trait are modest in size, with a level usually ranging from 2–4.

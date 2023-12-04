@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 size: null
@@ -55,13 +56,13 @@ weapon_type: null
 # Inquisitive Quill<span class="item-type">Item 4</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">No Alignment</span><span class="item-trait">Divination</span><span class="item-trait">Intelligent</span><span class="item-trait">Magical</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Usage** held in 1 hand or free-standing; **Bulk** —
 
 ---
 **Perception** +11; precise vision 30 feet, imprecise hearing 30 feet
 **Communication** speech (five languages)
-**Skills** [[Arcana]] +12, [[Nature]] +9, [[Occultism]] +10, [[Religion]] +9, [[Lore]] +12, [[Society]] +10
+**Skills** [[DATABASE/skill/Arcana|Arcana]] +12, [[DATABASE/skill/Nature|Nature]] +9, [[DATABASE/skill/Occultism|Occultism]] +10, [[DATABASE/skill/Religion|Religion]] +9, [[DATABASE/skill/Lore|Scribing Lore]] +12, [[DATABASE/skill/Society|Society]] +10
 **Int** +4, **Wis** +3, **Cha** +1
 **Will** +11
 

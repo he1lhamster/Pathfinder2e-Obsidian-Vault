@@ -11,6 +11,7 @@ name: Inventor
 prerequisite: Master in [[DATABASE/skill/Crafting|Crafting]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: crafting
@@ -25,8 +26,8 @@ type: Feat
 # Inventor <span class="item-type">Feat 7</span>
 
 <span class="item-trait">Downtime</span><span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** master in [[Crafting]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** master in [[DATABASE/skill/Crafting|Crafting]]
 
 ---
 You are a genius at Crafting, easily able to determine how things are made and create new inventions. You can spend downtime to invent a common formula that you don’t know. This works just like the Craft activity: you spend half the Price of the formula up front, attempt a Crafting check, and on a success either finish the formula by paying the difference or work for longer to decrease the Price. The difference is that you spend the additional time in research, design, and development, rather than in creating an item. Once it’s complete, you add the new formula you invented to your formula book.

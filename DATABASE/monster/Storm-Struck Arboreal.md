@@ -75,18 +75,18 @@ wisdom: '+6'
 # Storm-Struck Arboreal
 
 This creature did not include a description.
-**Recall Knowledge - Plant ([[Nature]])**: DC 40
+**Recall Knowledge - Plant ([[DATABASE/skill/Nature|Nature]])**: DC 40
 **Unspecific Lore**: DC 38
 **Specific Lore**: DC 35
 
 # Storm-Struck Arboreal<span class="item-type">Creature 16</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Huge</span><span class="item-trait">Plant</span>
-**Source** [[Kingmaker Adventure Path]]
-Variant [[Arboreal Regent]]
-**Perception** +28; [[Low-Light Vision]]
-**Languages** [[Aklo]], [[Sylvan]]
-**Skills** [[Athletics]] +33, [[Nature]] +26, [[Stealth]] +25 (+35 in forests), [[Survival]] +30
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
+Variant [[DATABASE/monster/Arboreal Regent|arboreal regent]]
+**Perception** +28; [[DATABASE/monsterability/Low-Light Vision|low-light vision]]
+**Languages** [[DATABASE/language/Aklo|Aklo]], [[DATABASE/language/Sylvan|Sylvan]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +33, [[DATABASE/skill/Nature|Nature]] +26, [[DATABASE/skill/Stealth|Stealth]] +25 (+35 in forests), [[DATABASE/skill/Survival|Survival]] +30
 **Str** +9, **Dex** +1, **Con** +6, **Int** +0, **Wis** +6, **Cha** +0
 
 ---
@@ -96,5 +96,5 @@ Variant [[Arboreal Regent]]
 
 ---
 **Speed** 40 feet
-<span class="in-box-ability">**Melee**branch +33 [+28/+23] (reach 15 feet), **Damage** 3d12+15 bludgeoning</span><span class="in-box-ability">**Melee**root +33 [+28/+23] (trip), **Damage** 3d10+15 bludgeoning</span>**Primal Innate Spells** DC 30; **8th** _[[Chain Lightning]]_; **7th** _[[Lightning Bolt]]_ (×3)
+<span class="in-box-ability">**Melee**branch +33 [+28/+23] (reach 15 feet), **Damage** 3d12+15 bludgeoning</span><span class="in-box-ability">**Melee**root +33 [+28/+23] (trip), **Damage** 3d10+15 bludgeoning</span>**Primal Innate Spells** DC 30; **8th** _[[DATABASE/spell/Chain Lightning|chain lightning]]_; **7th** _[[DATABASE/spell/Lightning Bolt|lightning bolt]]_ (×3)
 <span class="in-box-ability">**Sunder Objects** When a storm-struck arboreal damages an item or structure it deals an additional 3d12 damage to that item or structure.</span>

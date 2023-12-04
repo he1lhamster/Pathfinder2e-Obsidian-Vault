@@ -14,6 +14,7 @@ primary_check: '[[DATABASE/skill/Nature|Nature]] or [[DATABASE/skill/Religion|Re
 range: 10 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: Abjuration
 secondary_casters: "1, must be the ritual\u2019s target"
 secondary_check: Nature or Religion (whichever is used for the primary check)
@@ -29,9 +30,9 @@ type: Ritual
 # Atone<span class="item-type">Ritual 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Abjuration</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Cast** 1 day; **Cost** rare incense and offerings worth a total value of 20 gp × the target’s level; **Secondary Casters** 1, must be the ritual’s target
-**Primary Check** [[Nature]] or [[Religion]] (expert); **Secondary Checks** Nature or Religion (whichever is used for the primary check)
+**Primary Check** [[DATABASE/skill/Nature|Nature]] or [[DATABASE/skill/Religion|Religion]] (expert); **Secondary Checks** Nature or Religion (whichever is used for the primary check)
 **Range** 10 feet; **Target(s)** another creature of up to 8th level who is a worshipper of the same deity or philosophy as you
 
 ---

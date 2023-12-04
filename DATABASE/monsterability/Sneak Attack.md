@@ -3,6 +3,7 @@ actions: null
 id: '34'
 name: Sneak Attack
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Ability
@@ -10,5 +11,5 @@ type: Creature Ability
 ---
 # Sneak Attack
 
-**Source** [[Bestiary]]
-When the monster Strikes a creature that has the [[Flat-Footed]] condition with an agile or finesse melee weapon, an agile or finesse unarmed attack, or a ranged weapon attack, it also deals the listed precision damage. For a ranged attack with a thrown weapon, that weapon must also be an agile or finesse weapon.
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
+When the monster Strikes a creature that has the [[DATABASE/condition/Flat-Footed|flat-footed]] condition with an agile or finesse melee weapon, an agile or finesse unarmed attack, or a ranged weapon attack, it also deals the listed precision damage. For a ranged attack with a thrown weapon, that weapon must also be an agile or finesse weapon.

@@ -77,16 +77,16 @@ wisdom: '+1'
 # Rust Ooze
 
 These reddish-brown globs wriggle through sewers and other waterways in search of iron pipes, metal trash, and other objects that rust.
-**Recall Knowledge - Ooze ([[Occultism]])**: DC 20
+**Recall Knowledge - Ooze ([[DATABASE/skill/Occultism|Occultism]])**: DC 20
 **Unspecific Lore**: DC 18
 **Specific Lore**: DC 15
 
 # Rust Ooze<span class="item-type">Creature 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Mindless</span><span class="item-trait">Ooze</span>
-**Source** [[Pathfinder 178. Punks in a Powderkeg]]
+**Source** [[DATABASE/source/Pathfinder 178. Punks in a Powderkeg|Pathfinder #178: Punks in a Powderkeg]]
 **Perception** +6; motion sense 60 feet, no vision
-**Skills** [[Athletics]] +9, [[Stealth]] +5 (+7 in areas of rusty objects)
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +9, [[DATABASE/skill/Stealth|Stealth]] +5 (+7 in areas of rusty objects)
 **Str** +4, **Dex** -4, **Con** +3, **Int** -5, **Wis** +1, **Cha** -5
 **Motion Sense** A rust ooze can sense nearby creatures through vibration and air or water movement.
 
@@ -97,8 +97,8 @@ These reddish-brown globs wriggle through sewers and other waterways in search o
 
 ---
 **Speed** 15 feet, swim 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> pseudopod +11 [+6/+1], **Damage** 1d6+5 bludgeoning plus rust and [[Tetanus]]</span><span class="in-box-ability">**Rust** When a rust ooze critically succeeds at a pseudopod Strike, it deals 2d6 acid damage to a metal item the target is wearing or holding, ignoring the item's Hardness. If a creature uses the [[Shield Block]] reaction with a metal shield against a rust ooze's pseudopod attack, the shield is automatically broken, but no other item is rusted.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> pseudopod +11 [+6/+1], **Damage** 1d6+5 bludgeoning plus rust and [[DATABASE/disease/Tetanus|tetanus]]</span><span class="in-box-ability">**Rust** When a rust ooze critically succeeds at a pseudopod Strike, it deals 2d6 acid damage to a metal item the target is wearing or holding, ignoring the item's Hardness. If a creature uses the [[DATABASE/feat/Shield Block|Shield Block]] reaction with a metal shield against a rust ooze's pseudopod attack, the shield is automatically broken, but no other item is rusted.</span>
 
 ###  Rust Oozes and Rust Monsters
 
-While no one is sure how the first rust ooze came to be, some theorize that Hubert Brunt, an ooze researcher at Blythir College, spilled some proto-ooze on a [[Rust Monster]] antennae a colleague was studying. The urban legend says it consumed the antennae and absorbed the rust monster's powers, then consumed all of the metal instruments in the lab before a frightened attendant hastily washed the animated muck down the drain.
+While no one is sure how the first rust ooze came to be, some theorize that Hubert Brunt, an ooze researcher at Blythir College, spilled some proto-ooze on a [[DATABASE/monster/Rust Monster|rust monster]] antennae a colleague was studying. The urban legend says it consumed the antennae and absorbed the rust monster's powers, then consumed all of the metal instruments in the lab before a frightened attendant hastily washed the animated muck down the drain.

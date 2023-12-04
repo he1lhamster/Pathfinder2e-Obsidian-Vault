@@ -11,6 +11,7 @@ name: Molten Wire
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -28,10 +29,10 @@ type: Feat
 # Molten Wire <span class="action-icon">2</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Composite</span><span class="item-trait">Fire</span><span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Metal</span><span class="item-trait">Primal</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
-Spinning molten iron through a vortex of fire, you trap your foe in searing wires. Make an impulse attack roll against a creature within 15 feet. On a success, the target takes 2d6 slashing damage and is wrapped in molten wire for 1 minute. It is [[Clumsy]] and takes 2d4 fire damage at the start of each of its turns, with a basic Reflex save. The wire's [[Escape]] DC is your class DC. The wire has AC 10 and 75 HP. The impulse ends if the creature Escapes or the wire is destroyed.
+Spinning molten iron through a vortex of fire, you trap your foe in searing wires. Make an impulse attack roll against a creature within 15 feet. On a success, the target takes 2d6 slashing damage and is wrapped in molten wire for 1 minute. It is [[DATABASE/condition/Clumsy|clumsy 1]] and takes 2d4 fire damage at the start of each of its turns, with a basic Reflex save. The wire's [[DATABASE/action/Escape|Escape]] DC is your class DC. The wire has AC 10 and 75 HP. The impulse ends if the creature Escapes or the wire is destroyed.
 
 ---
 **Level (+4)** The slashing damage increases by 1d6, the fire damage increases by 1d4, and the wire's HP increases by 25.

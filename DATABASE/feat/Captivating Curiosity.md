@@ -11,6 +11,7 @@ name: Captivating Curiosity
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Captivating Curiosity <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Fleshwarp</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-You can snare the attentions of onlookers with your unique appearance. You can cast [[Enthrall]] as a 3rd-level occult innate spell once per day.
+You can snare the attentions of onlookers with your unique appearance. You can cast [[DATABASE/spell/Enthrall|enthrall]] as a 3rd-level occult innate spell once per day.
 
 ## Traits
 

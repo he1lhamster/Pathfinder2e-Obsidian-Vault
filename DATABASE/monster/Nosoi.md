@@ -89,17 +89,17 @@ wisdom: '+1'
 # Nosoi
 
 A nosoi resembles a whippoorwill, sparrow, or other small bird wearing a heavy leather plague doctor’s mask. They are the clerks, messengers, and scribes of the Boneyard, witnessing judgments, directing souls, and generally performing the administrative grunt work that keeps the Boneyard functioning. Most nosois are particularly chatty and eager to discuss how important they consider their individual assignments to be.
-**Recall Knowledge - Monitor ([[Religion]])**: DC 15
+**Recall Knowledge - Monitor ([[DATABASE/skill/Religion|Religion]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Nosoi<span class="item-type">Creature 1</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Tiny</span><span class="item-trait">Monitor</span><span class="item-trait">Psychopomp</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +6; darkvision, lifesense 60 feet
-**Languages** [[Abyssal]], [[Celestial]], [[Infernal]], [[Requian]]
-**Skills** [[Acrobatics]] +6, [[Lore]] +8, [[Lore]] +8, [[Performance]] +6, [[Religion]] +6, [[Society]] +2, [[Stealth]] +6
+**Languages** [[DATABASE/language/Abyssal|Abyssal]], [[DATABASE/language/Celestial|Celestial]], [[DATABASE/language/Infernal|Infernal]], [[DATABASE/language/Requian|Requian]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +6, [[DATABASE/skill/Lore|Boneyard Lore]] +8, [[DATABASE/skill/Lore|Library Lore]] +8, [[DATABASE/skill/Performance|Performance]] +6, [[DATABASE/skill/Religion|Religion]] +6, [[DATABASE/skill/Society|Society]] +2, [[DATABASE/skill/Stealth|Stealth]] +6
 **Str** -1, **Dex** +3, **Con** +1, **Int** +1, **Wis** +1, **Cha** +3
 **Lifesense** (divination, divine) A psychopomp senses the vital essence of living and undead creatures within the listed range.
 
@@ -109,7 +109,7 @@ A nosoi resembles a whippoorwill, sparrow, or other small bird wearing a heavy l
 
 ---
 **Speed** 15 feet, fly 40 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> beak +6 [+1/-4] (finesse, magical), **Damage** 1d4-1 piercing plus spirit touch</span>**Divine Innate Spells** DC 16; **4th** _[[Read Omens]]_, _[[Talking Corpse]]_; **2nd** _[[Invisibility]]_ (at will; self only), _[[Sound Burst]]_
-<span class="in-box-ability">**[[Change Shape]]** <span class="action-icon">1</span> (concentrate, divine, polymorph, transmutation) The nosoi takes the appearance of a raven or songbird. This doesn’t change its Speed or its attack and damage modifiers with its Strikes.</span><span class="in-box-ability">**Haunting Melody** <span class="action-icon">1</span> (auditory, concentrate, divine, enchantment, incapacitation, mental) The nosoi croons an entrancing song. Each living or undead creature within a 60-foot emanation must attempt a DC 18 Will save. The effect lasts for 1 round, but a nosoi can use this ability again on subsequent rounds to extend the duration by 1 round for all affected creatures. A creature that succeeds at any save is temporarily immune for 24 hours. Despite being a mental effect, this ability affects mindless undead. Psychopomps are immune to this ability.
- **Failure** The creature is [[Fascinated]].
- **Critical Failure** As failure, and the creature must spend each of its actions on its turn to move closer to the nosoi as expediently as possible while avoiding obvious dangers. If a [[Fascinated]] creature is adjacent to the nosoi, it stays still and doesn’t act. If the creature is attacked, the fascination ends.</span><span class="in-box-ability">**Spirit Touch** A nosoi’s Strikes affect incorporeal creatures as though etched with a [[Ghost Touch]] property rune and deal 1d6 negative damage to living creatures or 1d6 positive damage to undead.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> beak +6 [+1/-4] (finesse, magical), **Damage** 1d4-1 piercing plus spirit touch</span>**Divine Innate Spells** DC 16; **4th** _[[DATABASE/spell/Read Omens|read omens]]_, _[[DATABASE/spell/Talking Corpse|talking corpse]]_; **2nd** _[[DATABASE/spell/Invisibility|invisibility]]_ (at will; self only), _[[DATABASE/spell/Sound Burst|sound burst]]_
+<span class="in-box-ability">**[[DATABASE/monsterability/Change Shape|Change Shape]]** <span class="action-icon">1</span> (concentrate, divine, polymorph, transmutation) The nosoi takes the appearance of a raven or songbird. This doesn’t change its Speed or its attack and damage modifiers with its Strikes.</span><span class="in-box-ability">**Haunting Melody** <span class="action-icon">1</span> (auditory, concentrate, divine, enchantment, incapacitation, mental) The nosoi croons an entrancing song. Each living or undead creature within a 60-foot emanation must attempt a DC 18 Will save. The effect lasts for 1 round, but a nosoi can use this ability again on subsequent rounds to extend the duration by 1 round for all affected creatures. A creature that succeeds at any save is temporarily immune for 24 hours. Despite being a mental effect, this ability affects mindless undead. Psychopomps are immune to this ability.
+ **Failure** The creature is [[DATABASE/condition/Fascinated|fascinated]].
+ **Critical Failure** As failure, and the creature must spend each of its actions on its turn to move closer to the nosoi as expediently as possible while avoiding obvious dangers. If a [[DATABASE/condition/Fascinated|fascinated]] creature is adjacent to the nosoi, it stays still and doesn’t act. If the creature is attacked, the fascination ends.</span><span class="in-box-ability">**Spirit Touch** A nosoi’s Strikes affect incorporeal creatures as though etched with a [[DATABASE/equipment/Ghost Touch|ghost touch]] property rune and deal 1d6 negative damage to living creatures or 1d6 positive damage to undead.</span>

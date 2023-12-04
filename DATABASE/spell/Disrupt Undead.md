@@ -21,6 +21,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Fortitude
 school: Necromancy
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -39,15 +40,15 @@ type: Cantrip
 # Disrupt Undead<span class="item-type">Cantrip 1</span>
 
 <span class="item-trait">Cantrip</span><span class="item-trait">Necromancy</span><span class="item-trait">Positive</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** divine, primal
-**Bloodline** [[Psychopomp]]
+**Bloodline** [[DATABASE/sorcererbloodline/Psychopomp|psychopomp]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet; **Targets** 1 undead creature
 **Saving Throw** Fortitude
 
 ---
-You lance the target with energy. You deal 1d6 positive damage plus your spellcasting ability modifier. The target must attempt a basic Fortitude save. If the creature critically fails the save, it is also [[Enfeebled]] for 1 round.
+You lance the target with energy. You deal 1d6 positive damage plus your spellcasting ability modifier. The target must attempt a basic Fortitude save. If the creature critically fails the save, it is also [[DATABASE/condition/Enfeebled|enfeebled 1]] for 1 round.
 
 ---
 **Heightened (+1)** The damage increases by 1d6.

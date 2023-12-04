@@ -7,6 +7,7 @@ id: '26'
 name: Recall Knowledge
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
@@ -19,7 +20,7 @@ type: Action
 # Recall Knowledge <span class="action-icon">1</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Secret</span>
-**Source** [[Core Rulebook]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
 You attempt a skill check to try to remember a bit of knowledge regarding a topic related to that skill. The GM determines the DCs for such checks and which skills apply.

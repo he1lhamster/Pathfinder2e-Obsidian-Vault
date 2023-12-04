@@ -11,6 +11,7 @@ name: Azarketi Weapon Expertise
 prerequisite: '[[DATABASE/feat/Azarketi Weapon Familiarity|Azarketi Weapon Familiarity]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Absalom, City of Lost Omens|Absalom, City of Lost Omens]]'
 subcategory: null
@@ -23,11 +24,11 @@ type: Feat
 # Azarketi Weapon Expertise <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Azarketi</span>
-**Source** [[Absalom, City of Lost Omens]], [[Azarketi Ancestry Web Supplement]]
-**Prerequisites** [[Azarketi Weapon Familiarity]]
+**Source** [[DATABASE/source/Absalom, City of Lost Omens|Absalom, City of Lost Omens]], [[DATABASE/source/Azarketi Ancestry Web Supplement|Azarketi Ancestry Web Supplement]]
+**Prerequisites** [[DATABASE/feat/Azarketi Weapon Familiarity|Azarketi Weapon Familiarity]]
 
 ---
-Your mastery with weapons both above and below water is unmatched. Whenever you gain a class feature that grants you expert or greater proficiency in certain weapons, you also gain that proficiency in [[Crossbow]], [[Hand Crossbow]], [[Longspear]], [[Spear]], [[Trident]], and all azarketi weapons in which you are trained.
+Your mastery with weapons both above and below water is unmatched. Whenever you gain a class feature that grants you expert or greater proficiency in certain weapons, you also gain that proficiency in [[DATABASE/weapon/Crossbow|crossbows]], [[DATABASE/weapon/Hand Crossbow|hand crossbows]], [[DATABASE/weapon/Longspear|longspears]], [[DATABASE/weapon/Spear|spears]], [[DATABASE/weapon/Trident|tridents]], and all azarketi weapons in which you are trained.
 
 ## Traits
 

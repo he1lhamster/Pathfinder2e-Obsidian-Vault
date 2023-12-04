@@ -3,6 +3,7 @@ id: '33'
 level: '2'
 name: Sacrifices
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Exploration|Exploration]]'
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
@@ -16,10 +17,10 @@ type: Kingdom Event
 # Sacrifices<span class="item-type">Event +2</span>
 
 <span class="item-trait">Continuous</span><span class="item-trait">Dangerous</span><span class="item-trait">Hex-KM</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 **Location** A claimed hex in the area of influence of a settlement secretly chosen by the GM
 A cabal of cultists begin snatching citizens and preparing them for sacrifice to their vile god. The cultists maintain a hidden base of operations somewhere near one of the kingdom's settlements.
-**Kingdom Skill** [[Exploration]]; **Leader** Emissary
+**Kingdom Skill** [[DATABASE/skill/Exploration|Exploration]]; **Leader** Emissary
 **Critical Success** The cultists are defeated, and many of your captured citizens are rescued.
 **Success** The cult continues to function, but you have managed to determine which hex their base of operations is located in. The DC to defeat the Sacrifices event is reduced by 4 in subsequent turns. Increase Unrest by 1.
 **Failure** The cultists prey on travelers, hunters, trappers, and anyone else who strays too far from civilization. Increase Unrest by 1d4 and one Ruin of your choice by 1.

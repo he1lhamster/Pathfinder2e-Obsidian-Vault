@@ -71,19 +71,19 @@ wisdom: '+4'
 # Bounty Hunter
 
 Bounty hunters are constantly on the move, whether within city walls or the wilderness, trailing their fugitive quarries for capture… or disposal. Often relying on stealth or deception as much as martial skill, bounty hunters employ a vast array of talents to accomplish their goals, not to mention to collect the hefty payout that follows.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 19
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 19
 **Unspecific Lore**: DC 17
 **Specific Lore**: DC 14
 
 # Bounty Hunter<span class="item-type">Creature 4</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Perception** +14
-**Languages** [[Common]]
-**Skills** [[Athletics]] +9, [[Deception]] +10, [[Diplomacy]] +8, [[Intimidation]] +8, [[Stealth]] +12, [[Survival]] +10
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +9, [[DATABASE/skill/Deception|Deception]] +10, [[DATABASE/skill/Diplomacy|Diplomacy]] +8, [[DATABASE/skill/Intimidation|Intimidation]] +8, [[DATABASE/skill/Stealth|Stealth]] +12, [[DATABASE/skill/Survival|Survival]] +10
 **Str** +3, **Dex** +4, **Con** +1, **Int** +0, **Wis** +4, **Cha** +1
-**Items** [[Crossbow]], [[Falchion]], [[Manacles]], [[Studded Leather Armor]]
+**Items** [[DATABASE/weapon/Crossbow|crossbow (10 bolts)]], [[DATABASE/weapon/Falchion|falchion]], [[DATABASE/equipment/Manacles|simple manacles]], [[DATABASE/armor/Studded Leather Armor|studded leather armor]]
 
 ---
 **AC** 21; **Fort** +9, **Ref** +12, **Will** +12
@@ -91,4 +91,4 @@ Bounty hunters are constantly on the move, whether within city walls or the wild
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> falchion +13 [+8/+3] (forceful, sweep), **Damage** 1d10+6 slashing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> crossbow +14 [+9/+4] (range increment 120 feet, reload 1), **Damage** 1d10+5 piercing</span><span class="in-box-ability">**Hunt Prey** <span class="action-icon">1</span> (concentrate) The bounty hunter designates a single creature they can see and hear, or one they're [[Track]], as their prey. The bounty hunter gains a +2 circumstance bonus to Perception checks to [[Seek]] the prey and to [[Survival]] checks to Track the prey. This effect lasts until the bounty hunter uses Hunt Prey again.</span><span class="in-box-ability">**Precision Edge** The first time the bounty hunter hits their hunted prey in a round, they deal an additional 1d8 precision damage.</span><span class="in-box-ability">**Running Reload** <span class="action-icon">1</span> The bounty hunter Stride, Steps, or [[Sneak]], and then Interacts to reload.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> falchion +13 [+8/+3] (forceful, sweep), **Damage** 1d10+6 slashing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> crossbow +14 [+9/+4] (range increment 120 feet, reload 1), **Damage** 1d10+5 piercing</span><span class="in-box-ability">**Hunt Prey** <span class="action-icon">1</span> (concentrate) The bounty hunter designates a single creature they can see and hear, or one they're [[DATABASE/action/Track|Tracking]], as their prey. The bounty hunter gains a +2 circumstance bonus to Perception checks to [[DATABASE/action/Seek|Seek]] the prey and to [[DATABASE/skill/Survival|Survival]] checks to Track the prey. This effect lasts until the bounty hunter uses Hunt Prey again.</span><span class="in-box-ability">**Precision Edge** The first time the bounty hunter hits their hunted prey in a round, they deal an additional 1d8 precision damage.</span><span class="in-box-ability">**Running Reload** <span class="action-icon">1</span> The bounty hunter Stride, Steps, or [[DATABASE/action/Sneak|Sneaks]], and then Interacts to reload.</span>

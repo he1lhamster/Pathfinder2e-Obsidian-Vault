@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -57,7 +58,7 @@ weapon_type: null
 # Sanitizing Pin<span class="item-type">Item 2</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Consumable</span><span class="item-trait">Magical</span><span class="item-trait">Talisman</span><span class="item-trait">Transmutation</span>
-**Source** [[Rusthenge]]
+**Source** [[DATABASE/source/Rusthenge|Rusthenge]]
 **Price** 7 gp
 **Usage** affixed to armor; **Bulk** —
 **Activate** <span class="action-icon">4</span> command **Trigger** You attempt a saving throw against a disease or poison.

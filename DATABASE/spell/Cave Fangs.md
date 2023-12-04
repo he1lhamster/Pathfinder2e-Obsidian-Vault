@@ -19,6 +19,7 @@ patron_theme: null
 range: 60 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: basicReflex
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
@@ -37,7 +38,7 @@ type: Spell
 # Cave Fangs<span class="item-type">Spell 3</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Earth</span><span class="item-trait">Manipulate</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Traditions** arcane, primal
 **Cast** <span class="action-icon">2</span> 
 **Range** 60 feet; **Area** 20-foot burst

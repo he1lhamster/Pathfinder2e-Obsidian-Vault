@@ -11,6 +11,7 @@ name: Giant's Stature
 prerequisite: '[[DATABASE/barbarianinstinct/Giant Instinct|giant instinct]]'
 rarity: Common
 requirement: You are Medium or smaller.
+rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -27,16 +28,16 @@ type: Feat
 # Giant's Stature <span class="action-icon">1</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Barbarian</span><span class="item-trait">Polymorph</span><span class="item-trait">Primal</span><span class="item-trait">Rage</span><span class="item-trait">Transmutation</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Giant Instinct]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/barbarianinstinct/Giant Instinct|giant instinct]]
 **Requirements** You are Medium or smaller.
 
 ---
-You grow to incredible size. You become Large, increasing your reach by 5 feet and gaining the [[Clumsy]] condition until you stop raging. Your equipment grows with you.
+You grow to incredible size. You become Large, increasing your reach by 5 feet and gaining the [[DATABASE/condition/Clumsy|clumsy 1]] condition until you stop raging. Your equipment grows with you.
 
 ## Giant's Stature Leads To...
 
-[[Titan's Stature]]
+[[DATABASE/feat/Titan's Stature|Titan's Stature]]
 
 ## Traits
 

@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Game Hunter Dedication|Game Hunter Dedication]]'
 rarity: Common
 requirement: You could see your hunted prey when you rolled initiative at the beginning
   of the encounter, and thisis your first action on your first turn of the encounter.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 175. Broken Tusk Moon|Pathfinder #175: Broken
   Tusk Moon]]'
@@ -25,9 +26,9 @@ type: Feat
 # Quick Positioning <span class="action-icon">4</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Pathfinder 175. Broken Tusk Moon]]
-**Archetype** [[Game Hunter]]
-**Prerequisites** [[Game Hunter Dedication]]
+**Source** [[DATABASE/source/Pathfinder 175. Broken Tusk Moon|Pathfinder #175: Broken Tusk Moon]]
+**Archetype** [[DATABASE/archetype/Game Hunter|Game Hunter]]
+**Prerequisites** [[DATABASE/feat/Game Hunter Dedication|Game Hunter Dedication]]
 **Requirements** You could see your hunted prey when you rolled initiative at the beginning of the encounter, and this is your first action on your first turn of the encounter.
 
 ---

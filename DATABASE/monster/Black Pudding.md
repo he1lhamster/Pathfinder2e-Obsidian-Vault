@@ -78,16 +78,16 @@ wisdom: '+0'
 # Black Pudding
 
 Most often found below ground, these oozes scour caves for objects to dissolve with their corrosive secretions. This caustic acid is particularly dangerous to creatures that attack a pudding, as it can quickly damage and destroy gear.
-**Recall Knowledge - Ooze ([[Occultism]])**: DC 23
+**Recall Knowledge - Ooze ([[DATABASE/skill/Occultism|Occultism]])**: DC 23
 **Unspecific Lore**: DC 21
 **Specific Lore**: DC 18
 
 # Black Pudding<span class="item-type">Creature 7</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Huge</span><span class="item-trait">Mindless</span><span class="item-trait">Ooze</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +9; motion sense 60 feet, no vision
-**Skills** [[Athletics]] +18
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +18
 **Str** +7, **Dex** -5, **Con** +7, **Int** -5, **Wis** +0, **Cha** -5
 **Motion Sense** A black pudding can sense nearby motion through vibration and air movement.
 
@@ -98,4 +98,4 @@ Most often found below ground, these oozes scour caves for objects to dissolve w
 
 ---
 **Speed** 20 feet, climb 20 feet; suction
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> pseudopod +18 [+13/+8] (reach 10 feet), **Damage** 2d8+7 bludgeoning plus 2d6 acid, corrosive touch, and Grab</span><span class="in-box-ability">**[[Constrict]]** <span class="action-icon">1</span> 1d8+7 bludgeoning plus 1d6 acid, DC 26</span><span class="in-box-ability">**Corrosive Touch** When the pudding hits a creature with its pseudopod, any acid damage is dealt to the creature's armor or clothing as well as the creature.</span><span class="in-box-ability">**Suction** The pudding can climb on ceilings and other inverted surfaces, though such surfaces are difficult terrain for it.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> pseudopod +18 [+13/+8] (reach 10 feet), **Damage** 2d8+7 bludgeoning plus 2d6 acid, corrosive touch, and Grab</span><span class="in-box-ability">**[[DATABASE/monsterability/Constrict|Constrict]]** <span class="action-icon">1</span> 1d8+7 bludgeoning plus 1d6 acid, DC 26</span><span class="in-box-ability">**Corrosive Touch** When the pudding hits a creature with its pseudopod, any acid damage is dealt to the creature's armor or clothing as well as the creature.</span><span class="in-box-ability">**Suction** The pudding can climb on ceilings and other inverted surfaces, though such surfaces are difficult terrain for it.</span>

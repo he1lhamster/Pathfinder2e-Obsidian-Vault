@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: DC 42 Fortitude
 school: null
 size: null
@@ -59,11 +60,11 @@ weapon_type: null
 # Oblivion Essence<span class="item-type">Item 19</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Injury</span><span class="item-trait">Poison</span>
-**Source** [[Pathfinder 149. Against the Scarlet Triad]]
+**Source** [[DATABASE/source/Pathfinder 149. Against the Scarlet Triad|Pathfinder #149: Against the Scarlet Triad]]
 **Price** 6,500 gp
 **Usage** held in 2 hands; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
 ---
 Created from a daemon’s powdered soul gems or refined from the waters of Abaddon’s rivers, oblivion essence causes victims to rapidly age and decay.
- **Saving Throw** DC 42 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 8d6 poison damage and [[Slowed]] (1 round); **Stage 2** 10d6 poison damage, [[Enfeebled]], and slowed 1 (1 round); **Stage 3** 12d6 poison damage, enfeebled 3, slowed 1 (1 round)
+ **Saving Throw** DC 42 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 8d6 poison damage and [[DATABASE/condition/Slowed|slowed 1]] (1 round); **Stage 2** 10d6 poison damage, [[DATABASE/condition/Enfeebled|enfeebled 2]], and slowed 1 (1 round); **Stage 3** 12d6 poison damage, enfeebled 3, slowed 1 (1 round)

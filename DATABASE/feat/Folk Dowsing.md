@@ -11,6 +11,7 @@ name: Folk Dowsing
 prerequisite: Trained in [[DATABASE/skill/Survival|Survival]]
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: survival
@@ -25,11 +26,11 @@ type: Feat
 # Folk Dowsing <span class="item-type">Feat 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Dark Archive]]
-**Prerequisites** trained in [[Survival]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Prerequisites** trained in [[DATABASE/skill/Survival|Survival]]
 
 ---
-You can find what you're looking for using a dowsing rod or pendulum. If you [[Search]] while wielding a dowsing rod or pendulum, in addition to the normal checks for Searching, the GM rolls a secret [[Survival]] check for you to detect the largest source of water, oil, or another natural non-bodily fluid in the area. Even if the liquid is concealed from you—for example, if it stems from an underground spring or is piped through a wall—this technique points you in the right direction. The GM determines the DC, which is usually the trained simple DC with a hard or very hard adjustment if the source of water is small.
+You can find what you're looking for using a dowsing rod or pendulum. If you [[DATABASE/action/Search|Search]] while wielding a dowsing rod or pendulum, in addition to the normal checks for Searching, the GM rolls a secret [[DATABASE/skill/Survival|Survival]] check for you to detect the largest source of water, oil, or another natural non-bodily fluid in the area. Even if the liquid is concealed from you—for example, if it stems from an underground spring or is piped through a wall—this technique points you in the right direction. The GM determines the DC, which is usually the trained simple DC with a hard or very hard adjustment if the source of water is small.
  If you're an expert in Survival, the GM also makes a Survival check for you to detect sizable deposits of metal, minerals, and nearby graves. The DC is usually the expert simple DC, with DC adjustments for smaller deposits.
 
 ## Traits
@@ -44,4 +45,4 @@ A general feat with the skill trait improves your skills and their actions or gi
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.

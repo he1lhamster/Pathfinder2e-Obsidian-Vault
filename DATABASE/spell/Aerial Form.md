@@ -25,6 +25,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -42,9 +43,9 @@ type: Spell
 # Aerial Form<span class="item-type">Spell 4</span>
 
 <span class="item-trait">Polymorph</span><span class="item-trait">Transmutation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, primal
-**Deities** [[Andoletta]], [[Horus]], [[Mother Vulture]], [[Tanagaar]]
+**Deities** [[DATABASE/deity/Andoletta|Andoletta]], [[DATABASE/deity/Horus|Horus]], [[DATABASE/deity/Mother Vulture|Mother Vulture]], [[DATABASE/deity/Tanagaar|Tanagaar]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Duration** 1 minute
 
@@ -55,8 +56,8 @@ You harness your mastery of primal forces to reshape your body into a Medium fly
 * AC = 18 + your level. Ignore your armor's check penalty and Speed reduction. 
 * 5 temporary Hit Points. 
 * Low-light vision. 
-* One or more unarmed melee attacks specific to the battle form you choose, which are the only attacks you can Strike with. You're trained with them. Your attack modifier is +16, and your damage bonus is +5. These attacks are Dexterity based (for the purpose of the [[Clumsy]] condition, for example). If your attack modifier for Dexterity-based unarmed attacks is higher, you can use it instead. 
-* [[Acrobatics]] modifier of +16, unless your own modifier is higher.
+* One or more unarmed melee attacks specific to the battle form you choose, which are the only attacks you can Strike with. You're trained with them. Your attack modifier is +16, and your damage bonus is +5. These attacks are Dexterity based (for the purpose of the [[DATABASE/condition/Clumsy|clumsy]] condition, for example). If your attack modifier for Dexterity-based unarmed attacks is higher, you can use it instead. 
+* [[DATABASE/skill/Acrobatics|Acrobatics]] modifier of +16, unless your own modifier is higher.
 
 You also gain specific abilities based on the form you choose:
 

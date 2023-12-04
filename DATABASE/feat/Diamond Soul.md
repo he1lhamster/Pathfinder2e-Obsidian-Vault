@@ -11,6 +11,7 @@ name: Diamond Soul
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Diamond Soul <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Monk</span>
-**Source** [[Core Rulebook]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
 You have fortified your body and mind against eldritch effects. You gain a +1 status bonus to saving throws against magic.

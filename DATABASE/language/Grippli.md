@@ -2,6 +2,7 @@
 id: '48'
 name: Grippli
 rarity: Uncommon
+rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 146. Cult of Cinders|Pathfinder #146: Cult of
   Cinders]]'
 trait:
@@ -11,17 +12,17 @@ type: Language
 ---
 # Grippli
 
-**Source** [[Pathfinder 146. Cult of Cinders]]
+**Source** [[DATABASE/source/Pathfinder 146. Cult of Cinders|Pathfinder #146: Cult of Cinders]]
 The below entries contain speakers of Grippli.
 
 ## Ancestries (1)
 
-[[Grippli]]
+[[DATABASE/ancestry/Grippli|Grippli]]
 
 ## Monsters (5)
 
-[[Grippli Archer]], [[Grippli Greenspeaker]], [[Grippli Jinxer]], [[Grippli Scout]], [[Grippli Skirmisher]]
+[[DATABASE/monster/Grippli Archer|Grippli Archer]], [[DATABASE/monster/Grippli Greenspeaker|Grippli Greenspeaker]], [[DATABASE/monster/Grippli Jinxer|Grippli Jinxer]], [[DATABASE/monster/Grippli Scout|Grippli Scout]], [[DATABASE/monster/Grippli Skirmisher|Grippli Skirmisher]]
 
 ## NPCs (2)
 
-[[Froglegs, Brutal Grippli Crime Boss]], [[Muruwa]]
+[[DATABASE/npc/Froglegs, Brutal Grippli Crime Boss|Froglegs]], [[DATABASE/npc/Muruwa|Muruwa]]

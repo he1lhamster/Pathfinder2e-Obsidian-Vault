@@ -11,6 +11,7 @@ name: Cathartic Mage Dedication
 prerequisite: Charisma 14 or ability to cast spells from spell slots
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -25,8 +26,8 @@ type: Feat
 # Cathartic Mage Dedication <span class="item-type">Feat 2</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Archetype</span><span class="item-trait">Dedication</span>
-**Source** [[Secrets of Magic]] 
-**Archetype** [[Cathartic Mage]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
+**Archetype** [[DATABASE/archetype/Cathartic Mage|Cathartic Mage]]
 **Prerequisites** Charisma 14, or ability to cast spells from spell slots
 
 ---
@@ -40,7 +41,7 @@ You've learned to harness a particular emotion and mix it into your magic. Choos
 
 ## Cathartic Mage Dedication Leads To...
 
-[[Basic Cathartic Spellcasting]], [[Cathartic Focus Spell]], [[Infectious Emotions]], [[Work Yourself Up]]
+[[DATABASE/feat/Basic Cathartic Spellcasting|Basic Cathartic Spellcasting]], [[DATABASE/feat/Cathartic Focus Spell|Cathartic Focus Spell]], [[DATABASE/feat/Infectious Emotions|Infectious Emotions]], [[DATABASE/feat/Work Yourself Up|Work Yourself Up]]
 
 ## Traits
 
@@ -54,4 +55,4 @@ You must select a feat with this trait to apply an archetype to your character.
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.

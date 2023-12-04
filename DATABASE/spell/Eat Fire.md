@@ -19,6 +19,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
@@ -38,14 +39,14 @@ type: Cantrip
 # Eat Fire<span class="item-type">Cantrip 1</span>
 
 <span class="item-trait">Cantrip</span><span class="item-trait">Fire</span><span class="item-trait">Manipulate</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Traditions** arcane, occult, primal
 **Cast** <span class="action-icon">5</span> ; **Trigger** You would take fire damage.
 **Duration** until the end of your next turn
 
 ---
-You consume and ingest fire, making it less harmful to you. You gain resistance 5 to fire damage until the end of the current turn. During the remaining duration of the spell, you can use the Belch Smoke action. The spell ends if you fall [[Unconscious]], inhale, or exhale (this includes speaking).
- **Belch Smoke** <span class="action-icon">1</span> You exhale what remains of the smoke, ending the spell and creating a smoke cloud in a 5-foot burst within 20 feet. All creatures within the smoke cloud are [[Concealed]], and all other creatures are concealed to them. The smoke lasts for 1 minute or until dispersed by a strong wind.
+You consume and ingest fire, making it less harmful to you. You gain resistance 5 to fire damage until the end of the current turn. During the remaining duration of the spell, you can use the Belch Smoke action. The spell ends if you fall [[DATABASE/condition/Unconscious|unconscious]], inhale, or exhale (this includes speaking).
+ **Belch Smoke** <span class="action-icon">1</span> You exhale what remains of the smoke, ending the spell and creating a smoke cloud in a 5-foot burst within 20 feet. All creatures within the smoke cloud are [[DATABASE/condition/Concealed|concealed]], and all other creatures are concealed to them. The smoke lasts for 1 minute or until dispersed by a strong wind.
 
 ---
 **Heightened (+3)** The resistance increases by 5.

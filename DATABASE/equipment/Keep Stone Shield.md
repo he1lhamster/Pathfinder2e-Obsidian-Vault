@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -52,19 +53,19 @@ weapon_type: null
 # Keep Stone Shield<span class="item-type">Item 17+</span>
 
 <span class="trait-rare item-trait">Rare</span>
-**Source** [[Highhelm]]
+**Source** [[DATABASE/source/Highhelm|Highhelm]]
 **Usage** varies by shield; **Bulk** —
 
 ---
-Much easier to come by than armor, a keep stone shield offers effective-enough protection against magic that they've become very popular among the upper echelons of dwarven society, particularly those on active duty. When you have a keep stone shield Raised, you gain its circumstance bonus to saving throws against spells that target you (as well as AC). Additionally, you can [[Shield Block]] against any spell damage, not just from physical attacks.
+Much easier to come by than armor, a keep stone shield offers effective-enough protection against magic that they've become very popular among the upper echelons of dwarven society, particularly those on active duty. When you have a keep stone shield Raised, you gain its circumstance bonus to saving throws against spells that target you (as well as AC). Additionally, you can [[DATABASE/feat/Shield Block|Shield Block]] against any spell damage, not just from physical attacks.
 
 ### Base Material
 
-[[Keep Stone]]
+[[DATABASE/equipment/Keep Stone|Keep Stone]]
 
 ## Keep Stone Shield (High-Grade)<span class="item-type">Item 17</span>
 
-**Source** [[Highhelm]]
+**Source** [[DATABASE/source/Highhelm|Highhelm]]
 **Price** 13,200 gp
 **Bulk** 1
 The shield has Hardness 11, HP 46, and BT 23.

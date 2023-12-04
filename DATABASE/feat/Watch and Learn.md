@@ -11,6 +11,7 @@ name: Watch and Learn
 prerequisite: '[[DATABASE/feat/Pathfinder Agent Dedication|Pathfinder Agent Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Watch and Learn <span class="action-icon">5</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[PFS Guide]]
-**Archetype** [[Pathfinder Agent]]
-**Prerequisites** [[Pathfinder Agent Dedication]]
+**Source** [[DATABASE/source/PFS Guide|PFS Guide]]
+**Archetype** [[DATABASE/archetype/Pathfinder Agent|Pathfinder Agent]]
+**Prerequisites** [[DATABASE/feat/Pathfinder Agent Dedication|Pathfinder Agent Dedication]]
 **Trigger** An ally you can see succeeds or critically succeeds at a Strength- or Dexterity-based skill check, using a skill in which you are untrained.
 
 ---

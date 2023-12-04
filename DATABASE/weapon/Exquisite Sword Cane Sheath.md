@@ -12,6 +12,7 @@ name: Exquisite Sword Cane Sheath
 price: null
 range: null
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 157. Devil at the Dreaming Palace|Pathfinder
   #157: Devil at the Dreaming Palace]]'
 trait:
@@ -28,10 +29,10 @@ weapon_type: Melee
 # Exquisite Sword Cane Sheath
 
 <span class="item-trait">Agile</span><span class="item-trait">Finesse</span><span class="item-trait">Parry</span><span class="item-trait">Twin (Sword)</span>
-**Source** [[Pathfinder 157. Devil at the Dreaming Palace]]
+**Source** [[DATABASE/source/Pathfinder 157. Devil at the Dreaming Palace|Pathfinder #157: Devil at the Dreaming Palace]]
 **Price** 0; **Damage** 1d4 B; **Bulk** L
 **Hands** 1
-**Type** Melee; **Category** Martial; **Group** [[Club]]
+**Type** Melee; **Category** Martial; **Group** [[DATABASE/weapongroup/Club|Club]]
 
 ---
 An exquisite sword cane is a sword sheathed inside a hollow cane, which itself can be used as a clubbing weapon with or without the sword sheathed inside.
@@ -56,6 +57,6 @@ These weapons are used as a pair, complementing each other. When you attack with
 
 ## Critical Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
 **Club**: You knock the target away from you up to 10 feet (you choose the distance). This is forced movement.

@@ -20,6 +20,7 @@ patron_theme: null
 range: 30 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
@@ -39,7 +40,7 @@ type: Focus
 # Hymn of Healing<span class="item-type">Focus 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Bard</span><span class="item-trait">Composition</span><span class="item-trait">Healing</span><span class="item-trait">Necromancy</span><span class="item-trait">Positive</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Cast** <span class="action-icon">2</span> verbal
 **Range** 30 feet; **Targets** you or 1 ally
 **Duration** sustained up to 4 rounds

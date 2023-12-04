@@ -17,6 +17,7 @@ name: Poisoned Lock
 rarity: Common
 reflex: '+4'
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
@@ -30,13 +31,13 @@ will: null
 # Poisoned Lock<span class="item-type">Hazard 1</span>
 
 <span class="item-trait">Mechanical</span><span class="item-trait">Trap</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Complexity** Simple
 **Stealth** DC 17 (trained)
 **Description** A spring-loaded, poisoned spine is hidden near the keyhole of a lock. Disabling or breaking the trap does not disable or break the lock.
 
 ---
-**Disable** [[Thievery]] DC 17 (trained) on the spring mechanism
+**Disable** [[DATABASE/skill/Thievery|Thievery]] DC 17 (trained) on the spring mechanism
 **AC** 15, **Fort** +8, **Ref** +4
 **Hardness** 6, **HP** 24 (BT 12); **Immunities** critical hits, object immunities, precision damage
 **Spring** <span class="action-icon">5</span> (attack); **Trigger** A creature tries to unlock or Pick the Lock. **Effect** A spine extends to attack the triggering creature.

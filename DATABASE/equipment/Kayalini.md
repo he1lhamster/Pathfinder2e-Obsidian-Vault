@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -50,9 +51,9 @@ weapon_type: null
 ---
 # Kayalini<span class="item-type">Item 0</span>
 
-**Source** [[Travel Guide]]
+**Source** [[DATABASE/source/Travel Guide|Travel Guide]]
 **Price** 5 gp
 **Bulk** —
 
 ---
-Originally brought to Absalom by [[Fetchling]] fleeing the [[Shadow Plane]], kayalinis are shy creatures made from shadow. They resemble small [[Monkey]] with reptilian features like claws, short horns, and long, shadowy tongues. When in a new home, they tend to hide under beds or in closets. Around people they trust, they'll sit quietly on a lap for hours.
+Originally brought to Absalom by [[DATABASE/ancestry/Fetchling|kayals]] fleeing the [[DATABASE/plane/Shadow Plane|Shadow Plane]], kayalinis are shy creatures made from shadow. They resemble small [[DATABASE/equipment/Monkey|monkeys]] with reptilian features like claws, short horns, and long, shadowy tongues. When in a new home, they tend to hide under beds or in closets. Around people they trust, they'll sit quietly on a lap for hours.

@@ -7,6 +7,7 @@ id: '1408'
 name: Manage Trade Agreements
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
@@ -19,7 +20,7 @@ type: Action
 # Manage Trade Agreements
 
 <span class="item-trait">Commerce</span><span class="item-trait">Downtime</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 
 ---
 You send agents out to attend to established trade agreements. Spend 2 RP per Trade Agreement you wish to manage. Then attempt a basic check. If you Managed Trade Agreements on the previous turn, increase this DC by 5.

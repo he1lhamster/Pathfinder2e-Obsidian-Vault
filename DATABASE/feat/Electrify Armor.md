@@ -11,6 +11,7 @@ name: Electrify Armor
 prerequisite: '[[DATABASE/inventorinnovation/Armor Innovation|armor innovation]]'
 rarity: Common
 requirement: You are wearing your armor innovation.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Electrify Armor <span class="action-icon">1</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Inventor</span><span class="item-trait">Manipulate</span>
-**Source** [[Guns & Gears]]
-**Prerequisites** [[Armor Innovation]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Prerequisites** [[DATABASE/inventorinnovation/Armor Innovation|armor innovation]]
 **Requirements** You are wearing your armor innovation.
 
 ---

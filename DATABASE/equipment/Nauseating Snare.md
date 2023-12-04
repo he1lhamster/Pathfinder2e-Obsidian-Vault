@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -56,13 +57,13 @@ weapon_type: null
 # Nauseating Snare<span class="item-type">Item 6</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Mechanical</span><span class="item-trait">Poison</span><span class="item-trait">Snare</span><span class="item-trait">Trap</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Price** 40 gp
 **Bulk** —
 
 ---
 You position particularly foul substances to splash over a creature. The first creature to enter the square must attempt a DC 20 Fortitude saving throw.
 **Critical Success** The creature is unaffected.
-**Success** The creature becomes [[Sickened]].
+**Success** The creature becomes [[DATABASE/condition/Sickened|sickened 1]].
 **Failure** The creature becomes sickened 2.
 **Critical Failure** The creature becomes sickened 3.

@@ -11,6 +11,7 @@ name: Rebirth in Living Stone
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -28,10 +29,10 @@ type: Feat
 # Rebirth in Living Stone <span class="action-icon">1</span> <span class="item-type">Feat 18</span>
 
 <span class="item-trait">Earth</span><span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Polymorph</span><span class="item-trait">Primal</span><span class="item-trait">Stance</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
-Rock overflows from within you to consume your form before cracking open to reveal your body transformed into living stone. You gain 40 temporary Hit Points. You're immune to critical hits and precision damage. You can't be pushed, pulled, or tripped while you're standing on earth or stone. Your earth [[Elemental Blast]] deal an additional 1d10 damage of their normal type. These benefits last until the end of your next turn, but you can Sustain them up to 1 minute. After you gain temporary Hit Points from this impulse, you can't do so again for 10 minutes.
+Rock overflows from within you to consume your form before cracking open to reveal your body transformed into living stone. You gain 40 temporary Hit Points. You're immune to critical hits and precision damage. You can't be pushed, pulled, or tripped while you're standing on earth or stone. Your earth [[DATABASE/action/Elemental Blast|Elemental Blasts]] deal an additional 1d10 damage of their normal type. These benefits last until the end of your next turn, but you can Sustain them up to 1 minute. After you gain temporary Hit Points from this impulse, you can't do so again for 10 minutes.
 
 ---
 **Level (20th)** You gain 50 temporary Hit Points.

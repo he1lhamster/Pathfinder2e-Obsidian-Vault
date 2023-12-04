@@ -22,6 +22,7 @@ follower_alignment:
 id: '229'
 name: Kitumu
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Nature|Nature]]'
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
@@ -31,7 +32,7 @@ type: Deity
 ---
 # Kitumu (Mother of Fireflies) [CE]
 
-**Source** [[The Mwangi Expanse]] 
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]] 
 If any fervent devotees of the monstrous firefly goddess exist, they don't venture into civilization. The closest Kitumu has to servants or worshipers are those willing to placate the goddess in order to satisfy her demands and hungers.
 **Category** Other Gods
 **Edicts** offer sacrifices to Kitumu, feed the hungers of nature with humanoid creatures
@@ -41,9 +42,9 @@ If any fervent devotees of the monstrous firefly goddess exist, they don't ventu
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Dexterity or Charisma
-**Divine Font** _[[Harm]]_
-**Divine Skill** [[Nature]]
-**Favored Weapon** [[Dagger]]
-**Domains** [[Destruction Domain]], [[Indulgence Domain]], [[Nightmares Domain]], [[Swarm Domain]]
-**Cleric Spells** 1st: _[[Sleep]]_, 2nd: _[[Vomit Swarm]]_, 3rd: _[[Insect Form]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Dexterity or Charisma
+**Divine Font** _[[DATABASE/spell/Harm|harm]]_
+**Divine Skill** [[DATABASE/skill/Nature|Nature]]
+**Favored Weapon** [[DATABASE/weapon/Dagger|dagger]]
+**Domains** [[DATABASE/domain/Destruction Domain|destruction]], [[DATABASE/domain/Indulgence Domain|indulgence]], [[DATABASE/domain/Nightmares Domain|nightmares]], [[DATABASE/domain/Swarm Domain|swarm]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Sleep|sleep]]_, 2nd: _[[DATABASE/spell/Vomit Swarm|vomit swarm]]_, 3rd: _[[DATABASE/spell/Insect Form|insect form]]_

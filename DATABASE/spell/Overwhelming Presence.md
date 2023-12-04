@@ -22,6 +22,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -42,9 +43,9 @@ type: Spell
 # Overwhelming Presence<span class="item-type">Spell 9</span>
 
 <span class="item-trait">Auditory</span><span class="item-trait">Enchantment</span><span class="item-trait">Incapacitation</span><span class="item-trait">Mental</span><span class="item-trait">Visual</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** divine, occult
-**Bloodlines** [[Draconic]], [[Nymph]], [[Wyrmblessed]]
+**Bloodlines** [[DATABASE/sorcererbloodline/Draconic|draconic]], [[DATABASE/sorcererbloodline/Nymph|nymph]], [[DATABASE/sorcererbloodline/Wyrmblessed|wyrmblessed]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Area** 40-foot burst; **Targets** any number of creatures
 **Saving Throw** Will; **Duration** until full tribute is paid
@@ -55,4 +56,4 @@ You surround yourself with supernatural splendor, appearing to be a god or simil
 **Success** The target must pay tribute twice.
 **Failure** The target must pay tribute six times.
 **Critical Failure** As failure, and the target must spend all its actions paying tribute if possible. 
-Paying tribute is a manipulate action or move action, as chosen by the creature paying tribute. A creature under this effect must pay tribute to you at least once on each of its turns if possible. While affected by this spell, a creature is [[Fascinated]] by you and can't use hostile actions against you. The target is then temporarily immune for 1 minute.
+Paying tribute is a manipulate action or move action, as chosen by the creature paying tribute. A creature under this effect must pay tribute to you at least once on each of its turns if possible. While affected by this spell, a creature is [[DATABASE/condition/Fascinated|fascinated]] by you and can't use hostile actions against you. The target is then temporarily immune for 1 minute.

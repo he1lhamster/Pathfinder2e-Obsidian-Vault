@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -50,7 +51,7 @@ weapon_type: null
 ---
 # Air Bladder<span class="item-type">Item 0</span>
 
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 1 sp
 **Hands** 1; **Usage** held in 1 hand; **Bulk** L (1 if inflated)
 

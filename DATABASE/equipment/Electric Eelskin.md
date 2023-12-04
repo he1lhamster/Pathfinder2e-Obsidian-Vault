@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -54,12 +55,12 @@ weapon_type: null
 # Electric Eelskin<span class="item-type">Item 10</span>
 
 <span class="item-trait">Invested</span><span class="item-trait">Magical</span><span class="item-trait">Transmutation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 950 gp
 **Usage** worn armor; **Bulk** 1
-**Base Armor** [[Leather Armor]]
+**Base Armor** [[DATABASE/armor/Leather Armor|Leather Armor]]
 
 ---
-Shining, slippery eelskin covers the plates of this +_1 resilient [[Slick]] [[Leather Armor]] _. The armor gives you the ability to breathe water and grants you a +2 item bonus to [[Athletics]] checks to Swim and [[Stealth]] checks you attempt in the water.
-**Activate** <span class="action-icon">2</span> command, Interact **Frequency** once per hour; **Effect** You cast a 2nd-level [[Shocking Grasp]] with a spell attack modifier of +19.
+Shining, slippery eelskin covers the plates of this +_1 resilient [[DATABASE/equipment/Slick|greater slick]] [[DATABASE/armor/Leather Armor|leather armor]] _. The armor gives you the ability to breathe water and grants you a +2 item bonus to [[DATABASE/skill/Athletics|Athletics]] checks to Swim and [[DATABASE/skill/Stealth|Stealth]] checks you attempt in the water.
+**Activate** <span class="action-icon">2</span> command, Interact **Frequency** once per hour; **Effect** You cast a 2nd-level [[DATABASE/spell/Shocking Grasp|shocking grasp]] with a spell attack modifier of +19.
 **Craft Requirements** Supply one casting of _shocking grasp_.

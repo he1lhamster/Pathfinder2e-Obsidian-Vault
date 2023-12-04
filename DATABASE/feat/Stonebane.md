@@ -11,6 +11,7 @@ name: Stonebane
 prerequisite: '[[DATABASE/feat/Stone Brawler Dedication|Stone Brawler Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 195. Heavy is the Crown|Pathfinder #195: Heavy
   is the Crown]]'
@@ -24,9 +25,9 @@ type: Feat
 # Stonebane <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Pathfinder 195. Heavy is the Crown]]
-**Archetype** [[Stone Brawler]]
-**Prerequisites** [[Stone Brawler Dedication]]
+**Source** [[DATABASE/source/Pathfinder 195. Heavy is the Crown|Pathfinder #195: Heavy is the Crown]]
+**Archetype** [[DATABASE/archetype/Stone Brawler|Stone Brawler]]
+**Prerequisites** [[DATABASE/feat/Stone Brawler Dedication|Stone Brawler Dedication]]
 
 ---
 Your stonestrike attacks deal 1d6 additional damage against constructs, creatures with the earth trait, and earthen objects, such as a stone door.

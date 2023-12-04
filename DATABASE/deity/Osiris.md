@@ -22,6 +22,7 @@ follower_alignment:
 id: '56'
 name: Osiris
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Nature|Nature]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -31,7 +32,7 @@ type: Deity
 ---
 # Osiris (Lord of the Living) [LG]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Category** Ancient Osirian Gods
 **Edicts** Ensure the health of crops and vegetation, protect the bodies and souls of the worthy dead, avenge the wrongly murdered
 **Anathema** Dismember a creature, desecrate a corpse, show ingratitude for a sincere gift
@@ -39,9 +40,9 @@ type: Deity
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Constitution or Wisdom
-**Divine Font** _[[Heal]]_
-**Divine Skill** [[Nature]]
-**Favored Weapon** [[Flail]]
-**Domains** [[Change Domain]], [[Healing Domain]], [[Nature Domain]], [[Soul Domain]]
-**Cleric Spells** 1st: _[[Soothe]]_, 2nd: _[[False Life]]_, 6th: _[[Tangling Creepers]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Constitution or Wisdom
+**Divine Font** _[[DATABASE/spell/Heal|heal]]_
+**Divine Skill** [[DATABASE/skill/Nature|Nature]]
+**Favored Weapon** [[DATABASE/weapon/Flail|flail]]
+**Domains** [[DATABASE/domain/Change Domain|change]], [[DATABASE/domain/Healing Domain|healing]], [[DATABASE/domain/Nature Domain|nature]], [[DATABASE/domain/Soul Domain|soul]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Soothe|soothe]]_, 2nd: _[[DATABASE/spell/False Life|false life]]_, 6th: _[[DATABASE/spell/Tangling Creepers|tangling creepers]]_

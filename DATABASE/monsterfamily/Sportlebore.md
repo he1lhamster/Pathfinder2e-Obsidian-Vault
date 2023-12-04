@@ -3,6 +3,7 @@ creature_family: Sportlebore
 id: '153'
 name: Sportlebore
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Sportlebore
 
-**Source** [[Bestiary 2]] 
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
 The bane of hungry adventurers the world over, sportlebores are nefarious vermin that resemble delicious snacks. When positioned near trail rations such as fruit or jerky, a sportlebore can flawlessly imitate these foodstuffs by flexing, contorting, and color-shifting its abdomen, then folding its thorax, head, and legs into hiding under its delicious-looking body. Once consumed, the sportlebore reproduces into a hungry swarm that is regurgitated by the now ailing eater, ravenously attacking any creatures it thinks it can consume.
 
 ### Members
 
-[[Sportlebore Swarm]] (Creature 7)
+[[DATABASE/monster/Sportlebore Swarm|Sportlebore Swarm]] (Creature 7)
 
 ###  Other Sportlebores
 

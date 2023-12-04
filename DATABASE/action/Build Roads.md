@@ -7,6 +7,7 @@ id: '1390'
 name: Build Roads
 rarity: Common
 requirement: The hex in which you seek to build roads must be claimed by your kingdom.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
@@ -19,7 +20,7 @@ type: Action
 # Build Roads
 
 <span class="item-trait">Downtime</span><span class="item-trait">Region</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 **Requirements** The hex in which you seek to build roads must be claimed by your kingdom.
 
 ---

@@ -11,6 +11,7 @@ name: Slippery Prey
 prerequisite: Trained in [[DATABASE/skill/Acrobatics|Acrobatics]] or Trained in [[DATABASE/skill/Athletics|Athletics]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
 subcategory: acrobatics
@@ -24,11 +25,11 @@ type: Feat
 # Slippery Prey <span class="item-type">Feat 2</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Firebrands]]
-**Prerequisites** trained in [[Acrobatics]] or [[Athletics]]
+**Source** [[DATABASE/source/Firebrands|Firebrands]]
+**Prerequisites** trained in [[DATABASE/skill/Acrobatics|Acrobatics]] or [[DATABASE/skill/Athletics|Athletics]]
 
 ---
-You're able to escape bonds more easily than others. When you attempt to [[Escape]] using Acrobatics or Athletics, you reduce the multiple attack penalty for repeated attempts to –4 and –8 if you're trained in the skill. The penalty becomes –3 and –6 if you're a master in the appropriate skill. If you're legendary in the skill, you don't take penalties for multiple Escape attempts in the same turn. Regardless of your training, your attempts to Escape still have the attack trait and incur a multiple attack penalty with other actions.
+You're able to escape bonds more easily than others. When you attempt to [[DATABASE/action/Escape|Escape]] using Acrobatics or Athletics, you reduce the multiple attack penalty for repeated attempts to –4 and –8 if you're trained in the skill. The penalty becomes –3 and –6 if you're a master in the appropriate skill. If you're legendary in the skill, you don't take penalties for multiple Escape attempts in the same turn. Regardless of your training, your attempts to Escape still have the attack trait and incur a multiple attack penalty with other actions.
 
 ## Traits
 

@@ -23,6 +23,7 @@ patron_theme: null
 range: 500 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -40,9 +41,9 @@ type: Spell
 # Phantasmal Calamity<span class="item-type">Spell 6</span>
 
 <span class="item-trait">Illusion</span><span class="item-trait">Mental</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult
-**Deities** [[Imot]], [[Zyphus]]
+**Deities** [[DATABASE/deity/Imot|Imot]], [[DATABASE/deity/Zyphus|Zyphus]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 500 feet; **Area** 30-foot burst
 **Saving Throw** Will

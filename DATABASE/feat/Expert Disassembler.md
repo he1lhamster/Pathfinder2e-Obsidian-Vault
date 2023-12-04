@@ -12,6 +12,7 @@ prerequisite: Master in [[DATABASE/skill/Crafting|Crafting]] ; [[DATABASE/feat/S
   Dedication|Scrounger Dedication]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,12 +26,12 @@ type: Feat
 # Expert Disassembler <span class="item-type">Feat 7</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Skill</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Scrounger]]
-**Prerequisites** master in [[Crafting]]; [[Scrounger Dedication]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Scrounger|Scrounger]]
+**Prerequisites** master in [[DATABASE/skill/Crafting|Crafting]]; [[DATABASE/feat/Scrounger Dedication|Scrounger Dedication]]
 
 ---
-You can apply the same techniques you use to reverse engineer objects to disable them. You can use [[Crafting]] instead of [[Thievery]] to [[Disable a Device]] or [[Pick a Lock]].
+You can apply the same techniques you use to reverse engineer objects to disable them. You can use [[DATABASE/skill/Crafting|Crafting]] instead of [[DATABASE/skill/Thievery|Thievery]] to [[DATABASE/action/Disable a Device|Disable a Device]] or [[DATABASE/action/Pick a Lock|Pick a Lock]].
 
 ## Traits
 

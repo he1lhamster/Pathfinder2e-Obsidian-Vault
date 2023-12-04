@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Dandy Dedication|Dandy Dedication]] or [[DATABASE
   Dedication|Pirate Dedication]] ; Trained in [[DATABASE/skill/Intimidation|Intimidation]]'
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
 subcategory: null
@@ -26,13 +27,13 @@ type: Feat
 # Cutting Flattery <span class="item-type">Feat 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Archetype</span><span class="item-trait">Skill</span>
-**Source** [[Firebrands]]
-**Archetypes** [[Dandy]], [[Pirate]]
-**Prerequisites** [[Dandy Dedication]], or [[Pirate Dedication]]; trained in [[Intimidation]]
+**Source** [[DATABASE/source/Firebrands|Firebrands]]
+**Archetypes** [[DATABASE/archetype/Dandy|Dandy]], [[DATABASE/archetype/Pirate|Pirate]]
+**Prerequisites** [[DATABASE/feat/Dandy Dedication|Dandy Dedication]], or [[DATABASE/feat/Pirate Dedication|Pirate Dedication]]; trained in [[DATABASE/skill/Intimidation|Intimidation]]
 **Access** Members of the Firebrands at the rank of second mark or higher have access to this feat.
 
 ---
-Repeated entries in Firebrand bragging and flyting contests have taught you how to twist pretty words into concealed insults. When you succeed at your check to [[Coerce]] a creature, the target's attitude toward you improves by one step, to a maximum of [[Friendly]], and they don't become [[Unfriendly]] 1 day later.
+Repeated entries in Firebrand bragging and flyting contests have taught you how to twist pretty words into concealed insults. When you succeed at your check to [[DATABASE/action/Coerce|Coerce]] a creature, the target's attitude toward you improves by one step, to a maximum of [[DATABASE/condition/Friendly|friendly]], and they don't become [[DATABASE/condition/Unfriendly|unfriendly]] 1 day later.
 
 ## Traits
 
@@ -46,4 +47,4 @@ A general feat with the skill trait improves your skills and their actions or gi
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.

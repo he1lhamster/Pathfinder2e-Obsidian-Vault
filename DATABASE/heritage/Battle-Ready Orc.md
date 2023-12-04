@@ -2,6 +2,7 @@
 id: '106'
 name: Battle-Ready Orc
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 trait: null
 type: Heritage
@@ -9,5 +10,5 @@ type: Heritage
 ---
 # Battle-Ready Orc
 
-**Source** [[Ancestry Guide]] 
-You descend from a line of terrifying battlefield commanders. You become trained in [[Intimidation]], and you gain the [[Intimidating Glare]] skill feat.
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
+You descend from a line of terrifying battlefield commanders. You become trained in [[DATABASE/skill/Intimidation|Intimidation]], and you gain the [[DATABASE/feat/Intimidating Glare|Intimidating Glare]] skill feat.

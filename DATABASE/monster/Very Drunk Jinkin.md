@@ -72,26 +72,26 @@ wisdom: '+0'
 # Very Drunk Jinkin
 
 This creature did not include a description.
-**Recall Knowledge - Fey ([[Nature]])**: DC 15
+**Recall Knowledge - Fey ([[DATABASE/skill/Nature|Nature]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Very Drunk Jinkin<span class="item-type">Creature -1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Tiny</span><span class="item-trait">Fey</span><span class="item-trait">Gremlin</span>
-**Source** [[Pathfinder 196. The Summer That Never Was]]
+**Source** [[DATABASE/source/Pathfinder 196. The Summer That Never Was|Pathfinder #196: The Summer That Never Was]]
 Variant jinkin
-**Perception** +0; [[Darkvision]]
-**Languages** [[Common]]
-**Skills** [[Acrobatics]] +2, [[Crafting]] +0 (+2 traps), [[Deception]] +2, [[Nature]] +2, [[Stealth]] +2, [[Thievery]] +2
+**Perception** +0; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +2, [[DATABASE/skill/Crafting|Crafting]] +0 (+2 traps), [[DATABASE/skill/Deception|Deception]] +2, [[DATABASE/skill/Nature|Nature]] +2, [[DATABASE/skill/Stealth|Stealth]] +2, [[DATABASE/skill/Thievery|Thievery]] +2
 **Str** -2, **Dex** +0, **Con** +0, **Int** -2, **Wis** +0, **Cha** +0
 **Far Too Drunk** The jinkins are inefficient with their actions and always spend one action each round to cackle, stumble in place, or otherwise perform ineffective antics.
-**Items** [[Club]]
+**Items** [[DATABASE/weapon/Club|club (table leg or bottle)]]
 
 ---
 **AC** 12; **Fort** +2, **Ref** +4, **Will** +2
-**HP** 9; **Weaknesses** [[Cold Iron Weapon]] 2
+**HP** 9; **Weaknesses** [[DATABASE/equipment/Cold Iron Weapon|cold iron]] 2
 
 ---
 **Speed** 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> club +0 [-5/-10], **Damage** 1d6–2 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> club +2 [-3/-8] (thrown 10 feet), **Damage** 1d6–2 bludgeoning</span>**Primal Innate Spells** DC 13; **Cantrips** **(1st)** _[[Prestidigitation]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> club +0 [-5/-10], **Damage** 1d6–2 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> club +2 [-3/-8] (thrown 10 feet), **Damage** 1d6–2 bludgeoning</span>**Primal Innate Spells** DC 13; **Cantrips** **(1st)** _[[DATABASE/spell/Prestidigitation|prestidigitation]]_

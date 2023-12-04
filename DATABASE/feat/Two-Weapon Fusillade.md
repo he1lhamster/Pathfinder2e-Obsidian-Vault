@@ -12,6 +12,7 @@ prerequisite: null
 rarity: Common
 requirement: You're wielding two weapons, each in a different hand. At least one of
   these weapons must be a loadedfirearm or loaded crossbow.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -25,8 +26,8 @@ type: Feat
 # Two-Weapon Fusillade <span class="action-icon">1</span> <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Flourish</span><span class="item-trait">Gunslinger</span>
-**Source** [[Guns & Gears]]
-**Archetype** [[Bullet Dancer]]*
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Archetype** [[DATABASE/archetype/Bullet Dancer|Bullet Dancer]]*
 **Requirements** You're wielding two weapons, each in a different hand. At least one of these weapons must be a loaded firearm or loaded crossbow.
 * This archetype offers Two-Weapon Fusillade at a different level than displayed here.
 

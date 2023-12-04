@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: DC 27 Fortitude
 school: null
 size: null
@@ -56,7 +57,7 @@ weapon_type: null
 # Nettleweed Residue<span class="item-type">Item 8</span>
 
 <span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Contact</span><span class="item-trait">Poison</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 75 gp
 **Usage** held in 2 hands; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact

@@ -11,6 +11,7 @@ name: Basic Breakthrough
 prerequisite: '[[DATABASE/feat/Inventor Dedication|Inventor Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -23,16 +24,16 @@ type: Feat
 # Basic Breakthrough <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Guns & Gears]]
-**Archetype** [[Inventor]]
-**Prerequisites** [[Inventor Dedication]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Archetype** [[DATABASE/archetype/Inventor|Inventor]]
+**Prerequisites** [[DATABASE/feat/Inventor Dedication|Inventor Dedication]]
 
 ---
 You gain a 1st- or 2nd-level inventor feat of your choice.
 
 ## Basic Breakthrough Leads To...
 
-[[Advanced Breakthrough]]
+[[DATABASE/feat/Advanced Breakthrough|Advanced Breakthrough]]
 
 ## Traits
 

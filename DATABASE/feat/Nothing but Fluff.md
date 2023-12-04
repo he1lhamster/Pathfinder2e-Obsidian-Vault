@@ -11,6 +11,7 @@ name: Nothing but Fluff
 prerequisite: '[[DATABASE/heritage/Stuffed Poppet|Stuffed Poppet]] heritage'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Nothing but Fluff <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Poppet</span>
-**Source** [[Grand Bazaar]]
-**Prerequisites** [[Stuffed Poppet]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
+**Prerequisites** [[DATABASE/heritage/Stuffed Poppet|Stuffed Poppet]]
 
 ---
 Your fluffy interior lacks specific organs and struts, with few weak spots to injure. You gain resistance to precision damage equal to half your level.

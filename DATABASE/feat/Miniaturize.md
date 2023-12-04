@@ -11,6 +11,7 @@ name: Miniaturize
 prerequisite: '[[DATABASE/feat/Shrink Down|Shrink Down]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Miniaturize <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Evolution</span><span class="item-trait">Summoner</span>
-**Source** [[Secrets of Magic]] 
-**Prerequisites** [[Shrink Down]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
+**Prerequisites** [[DATABASE/feat/Shrink Down|Shrink Down]]
 
 ---
 Your eidolon can shrink even further. When using Shrink Down, your eidolon can reduce its size to Tiny.

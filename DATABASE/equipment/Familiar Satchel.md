@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -52,7 +53,7 @@ weapon_type: null
 # Familiar Satchel<span class="item-type">Item 0</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span>
-**Source** [[PFS Guide]]
+**Source** [[DATABASE/source/PFS Guide|PFS Guide]]
 **Price** 5 gp
 **Bulk** 1
 **Access** Member of the Pathfinder Society.

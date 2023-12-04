@@ -5,6 +5,7 @@ item_category: Relics
 name: Rolling Geode
 prerequisite: null
 rarity: Common
+rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
@@ -16,7 +17,7 @@ type: Relic Minor Gift
 # Rolling Geode<span class="item-type">Minor Gift</span>
 
 <span class="item-trait">Conjuration</span><span class="item-trait">Earth</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Aspect** earth
 
 ---

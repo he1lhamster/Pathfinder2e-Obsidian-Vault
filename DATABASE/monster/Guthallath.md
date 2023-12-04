@@ -99,16 +99,16 @@ wisdom: '+0'
 
 A guthallath is an enormous construct created long ago by some unknown empire, probably as a war machine. Nearly 100 feet tall, this massive stone statue typically resembles a stalwart warrior wearing only a loincloth and skullcap. Few have seen the entire body of a guthallath, though; most of the time such a relic is buried up to its neck, covered in moss and stranded in some forgotten place. Yet, every so often, one of these harbingers of destruction reactivates in response to some unknown stimulus or rallying call, and when this happens, woe be unto any who stand in its way.
  While the guthallath’s ancient enemies are gone, it is an engine of pure destruction, designed to rampage for weeks or even months. While not intelligent enough to enjoy or regret its acts, the guthallath cannot be reasoned with—it is unaffected by most magic, and is unpredictable in how it selects its targets (and creatures it spares).
-**Recall Knowledge - Construct ([[Arcana]], [[Crafting]])**: DC 44
+**Recall Knowledge - Construct ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Crafting|Crafting]])**: DC 44
 **Unspecific Lore**: DC 42
 **Specific Lore**: DC 39
 
 # Guthallath<span class="item-type">Creature 19</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Gargantuan</span><span class="item-trait">Construct</span>
-**Source** [[Bestiary]]
-**Perception** +30; darkvision, [[True Seeing]]
-**Skills** [[Acrobatics]] +25, [[Athletics]] +40
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
+**Perception** +30; darkvision, [[DATABASE/spell/True Seeing|true seeing]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +25, [[DATABASE/skill/Athletics|Athletics]] +40
 **Str** +10, **Dex** +2, **Con** +8, **Int** -4, **Wis** +0, **Cha** -1
 
 ---
@@ -118,8 +118,8 @@ A guthallath is an enormous construct created long ago by some unknown empire, p
 
 ---
 **Speed** 40 feet, burrow 50 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +38 [+33/+28] (deadly 3d12, magical, reach 20 feet), **Damage** 4d12+18 bludgeoning plus [[Improved Grab]] or [[Improved Push]] 20 feet</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> foot +38 [+33/+28] (deadly 3d12, magical, reach 20 feet), **Damage** 4d8+18 bludgeoning plus [[Improved Knockdown]]</span>**Innate Primal Spells** DC 37; **Constant** **(8th)** _[[True Seeing]]_; **(3rd)** _[[Haste]]_
-<span class="in-box-ability">**Annihilation Beams** <span class="action-icon">2</span> A guthallath releases two beams of destruction from its eyes. Each beam is a 120-foot line. Everything in either line takes the effect of a hit from a 10th-level _[[Disintegrate]]_ spell (DC 41 Fortitude). There is no additional effect on creatures in any area where the beams overlap. The guthallath can’t use this ability again for 1d4 rounds.</span><span class="in-box-ability">**Deadly Throw** <span class="action-icon">1</span> **Requirements** The guthallath has a creature grabbed. **Effect** The guthallath throws the creature into the air, 100 feet high and 50 feet away. If the flung creature lands on another creature, the creature it lands on takes the same amount of bludgeoning damage. The creature being landed on can attempt a DC 41 basic Reflex save.</span><span class="in-box-ability">**Powerful Blows** If a guthallath hits with an attack and rolls a natural 19 on the d20 roll, the attack is a critical hit. This has no effect if the 19 would be a failure.</span><span class="in-box-ability">**[[Trample]]** <span class="action-icon">3</span> Huge or smaller, foot, DC 45</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +38 [+33/+28] (deadly 3d12, magical, reach 20 feet), **Damage** 4d12+18 bludgeoning plus [[DATABASE/monsterability/Improved Grab|Improved Grab]] or [[DATABASE/monsterability/Improved Push|Improved Push]] 20 feet</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> foot +38 [+33/+28] (deadly 3d12, magical, reach 20 feet), **Damage** 4d8+18 bludgeoning plus [[DATABASE/monsterability/Improved Knockdown|Improved Knockdown]]</span>**Innate Primal Spells** DC 37; **Constant** **(8th)** _[[DATABASE/spell/True Seeing|true seeing]]_; **(3rd)** _[[DATABASE/spell/Haste|haste]]_
+<span class="in-box-ability">**Annihilation Beams** <span class="action-icon">2</span> A guthallath releases two beams of destruction from its eyes. Each beam is a 120-foot line. Everything in either line takes the effect of a hit from a 10th-level _[[DATABASE/spell/Disintegrate|disintegrate]]_ spell (DC 41 Fortitude). There is no additional effect on creatures in any area where the beams overlap. The guthallath can’t use this ability again for 1d4 rounds.</span><span class="in-box-ability">**Deadly Throw** <span class="action-icon">1</span> **Requirements** The guthallath has a creature grabbed. **Effect** The guthallath throws the creature into the air, 100 feet high and 50 feet away. If the flung creature lands on another creature, the creature it lands on takes the same amount of bludgeoning damage. The creature being landed on can attempt a DC 41 basic Reflex save.</span><span class="in-box-ability">**Powerful Blows** If a guthallath hits with an attack and rolls a natural 19 on the d20 roll, the attack is a critical hit. This has no effect if the 19 would be a failure.</span><span class="in-box-ability">**[[DATABASE/monsterability/Trample|Trample]]** <span class="action-icon">3</span> Huge or smaller, foot, DC 45</span>
 
 ###  Guthallath Slumber
 

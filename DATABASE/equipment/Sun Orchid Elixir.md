@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 size: null
@@ -56,7 +57,7 @@ weapon_type: null
 # Sun Orchid Elixir<span class="item-type">Item 20</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Elixir</span><span class="item-trait">Necromancy</span>
-**Source** [[World Guide]] 
+**Source** [[DATABASE/source/World Guide|World Guide]] 
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 

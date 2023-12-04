@@ -93,17 +93,17 @@ wisdom: '+3'
 Amorphous blobs of yammering mouths and oozing, fleshy sludge, gibbering mouthers are among the strangest creatures found either aboveground or below. Perpetually ravenous, these aberrations are always seeking their next meals, ever eating but never sated. With a nominal intelligence, gibbering mouthers can understand and even speak Aklo, but they do so in an intelligible manner only rarely. Instead, their innumerable mouths constantly jabber and babble in a stream of sound that disrupts the thought patterns of other creatures in the area.
  Where, how, and why gibbering mouthers originated are questions without answers. They share certain similarities with the much more powerful shoggoths, leading to theories that the two creatures share an origin; less charitable scholars have suggested that the gibbering mouther is instead a mortal’s attempt to create something akin to a shoggoth—though the question of why remains unanswered. Still others believe gibbering mouthers were sent to the world by the gods as a punishment for some forgotten but surely terrible transgression. Gibbering mouthers themselves have little to say on the matter—at least, not in any sort of sense. Scholars have wasted countless hours in attempts to make sense of gibbering mouthers’ noises—studies that put researchers into danger and give results that are contradictory and confusing at best.
  Whatever their origin, gibbering mouthers range the entirety of Golarion. Sightings have been recorded in dungeons below ancient cities and ruins as well as many regions of the deeper Darklands layers of Sekamina and Orv. They are somewhat less common in the upper region of Nar-Voth, perhaps due to the prevalence of settlements that don’t tolerate gibbering mouthers’ presence.
-**Recall Knowledge - Aberration ([[Occultism]])**: DC 20
+**Recall Knowledge - Aberration ([[DATABASE/skill/Occultism|Occultism]])**: DC 20
 **Unspecific Lore**: DC 18
 **Specific Lore**: DC 15
 
 # Gibbering Mouther<span class="item-type">Creature 5</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Aberration</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +15; darkvision
-**Languages** [[Aklo]]
-**Skills** [[Acrobatics]] +12, [[Athletics]] +13
+**Languages** [[DATABASE/language/Aklo|Aklo]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +12, [[DATABASE/skill/Athletics|Athletics]] +13
 **Str** +2, **Dex** +3, **Con** +4, **Int** -3, **Wis** +3, **Cha** +0
 
 ---
@@ -113,7 +113,7 @@ Amorphous blobs of yammering mouths and oozing, fleshy sludge, gibbering mouther
 
 ---
 **Speed** 10 feet, swim 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +14 [+9/+4] (finesse), **Damage** 2d8+5 piercing plus 1d4 persistent bleed damage and Grab</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> spittle +14 [+9/+4] (range 30 feet), **Damage** 4d6 acid and burn eyes</span><span class="in-box-ability">**Burn Eyes** A creature that takes damage from a gibbering mouther’s spittle must succeed at a DC 22 Fortitude save or be [[Dazzled]] for 1 round (or [[Blinded]] for 1 round on a critical failure).</span><span class="in-box-ability">**[[Engulf]]** <span class="action-icon">1</span> DC 22, 3d8 piercing, Escape DC 22, Rupture 8</span><span class="in-box-ability">**Ground Manipulation** <span class="action-icon">2</span> (occult, transmutation) The gibbering mouther causes stone and earth under its body to grow soft and muddy, remaining so for 1 minute after the mouther moves off the location. A gibbering mouther can move through these areas with ease, but other creatures treat them as difficult terrain.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +14 [+9/+4] (finesse), **Damage** 2d8+5 piercing plus 1d4 persistent bleed damage and Grab</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> spittle +14 [+9/+4] (range 30 feet), **Damage** 4d6 acid and burn eyes</span><span class="in-box-ability">**Burn Eyes** A creature that takes damage from a gibbering mouther’s spittle must succeed at a DC 22 Fortitude save or be [[DATABASE/condition/Dazzled|dazzled]] for 1 round (or [[DATABASE/condition/Blinded|blinded]] for 1 round on a critical failure).</span><span class="in-box-ability">**[[DATABASE/monsterability/Engulf|Engulf]]** <span class="action-icon">1</span> DC 22, 3d8 piercing, Escape DC 22, Rupture 8</span><span class="in-box-ability">**Ground Manipulation** <span class="action-icon">2</span> (occult, transmutation) The gibbering mouther causes stone and earth under its body to grow soft and muddy, remaining so for 1 minute after the mouther moves off the location. A gibbering mouther can move through these areas with ease, but other creatures treat them as difficult terrain.</span>
 
 ###  Gibbering Mouther Locations
 

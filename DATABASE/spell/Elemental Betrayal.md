@@ -20,6 +20,7 @@ patron_theme: null
 range: 30 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
@@ -37,8 +38,8 @@ type: Focus
 # Elemental Betrayal<span class="item-type">Focus 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Evocation</span><span class="item-trait">Hex</span><span class="item-trait">Witch</span>
-**Source** [[Advanced Player's Guide]] 
-**Lesson** [[Lesson of the Elements]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Lesson** [[DATABASE/witchlesson/Lesson of the Elements|lesson of the elements]]
 **Cast** <span class="action-icon">1</span> verbal
 **Range** 30 feet; **Targets** 1 creature
 **Duration** sustained up to 1 minute

@@ -78,21 +78,21 @@ wisdom: '+1'
 ---
 # Hellbound Attorney
 
-The Hellbound attorney sought the assistance of a [[Phistophilus (Contract Devil)]]—one of [[Hell]]'s contract devils—to bolster her legalistic ability on the [[Material Plane]].
-**Recall Knowledge - Fiend ([[Religion]])**: DC 21
-**Recall Knowledge - Humanoid ([[Society]])**: DC 21
+The Hellbound attorney sought the assistance of a [[DATABASE/monster/Phistophilus (Contract Devil)|phistophilus]]—one of [[DATABASE/plane/Hell|Hell]]'s contract devils—to bolster her legalistic ability on the [[DATABASE/plane/Material Plane|Material Plane]].
+**Recall Knowledge - Fiend ([[DATABASE/skill/Religion|Religion]])**: DC 21
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 21
 **Unspecific Lore**: DC 19
 **Specific Lore**: DC 16
 
 # Hellbound Attorney<span class="item-type">Creature 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Devil</span><span class="item-trait">Fiend</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Bestiary 3]]
-**Perception** +11; [[Darkvision]]
-**Languages** [[Common]], [[Infernal]]
-**Skills** [[Acrobatics]] +10, [[Deception]] +11, [[Diplomacy]] +11 (+13 to [[Make an Impression]]), [[Intimidation]] +11, [[Lore]] +14, [[Society]] +12
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
+**Perception** +11; [[DATABASE/monsterability/Darkvision|greater darkvision]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Infernal|Infernal]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +10, [[DATABASE/skill/Deception|Deception]] +11, [[DATABASE/skill/Diplomacy|Diplomacy]] +11 (+13 to [[DATABASE/action/Make an Impression|Make an Impression]]), [[DATABASE/skill/Intimidation|Intimidation]] +11, [[DATABASE/skill/Lore|Legal Lore]] +14, [[DATABASE/skill/Society|Society]] +12
 **Str** +1, **Dex** +2, **Con** +0, **Int** +4, **Wis** +1, **Cha** +3
-**Items** elegant cane (as [[Mace]]), legal ledgers
+**Items** elegant cane (as [[DATABASE/weapon/Mace|mace]]), legal ledgers
 
 ---
 **AC** 20; **Fort** +9, **Ref** +12, **Will** +13
@@ -101,5 +101,5 @@ The Hellbound attorney sought the assistance of a [[Phistophilus (Contract Devil
 
 ---
 **Speed** 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> elegant cane +12 [+8/+4] (agile, finesse, shove), **Damage** 1d4+3 bludgeoning</span>**Divine Innate Spells** DC 21; **1st** _[[Burning Hands]]_
-<span class="in-box-ability">**Opening Statement** <span class="action-icon">4</span> (auditory, concentrate) **Trigger** The Hellbound attorney's turn begins; **Effect** The attorney enumerates the alleged crimes of a creature they can see and attempts a [[Lore]] check against that creature's Will DC. On a success, the attorney's Strikes deal an additional 2d6 precision damage (4d6 precision damage on a critical success) to the creature until the end of the attorney's turn.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> elegant cane +12 [+8/+4] (agile, finesse, shove), **Damage** 1d4+3 bludgeoning</span>**Divine Innate Spells** DC 21; **1st** _[[DATABASE/spell/Burning Hands|burning hands]]_
+<span class="in-box-ability">**Opening Statement** <span class="action-icon">4</span> (auditory, concentrate) **Trigger** The Hellbound attorney's turn begins; **Effect** The attorney enumerates the alleged crimes of a creature they can see and attempts a [[DATABASE/skill/Lore|Legal Lore]] check against that creature's Will DC. On a success, the attorney's Strikes deal an additional 2d6 precision damage (4d6 precision damage on a critical success) to the creature until the end of the attorney's turn.</span>

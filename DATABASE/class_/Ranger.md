@@ -18,6 +18,7 @@ id: '9'
 name: Ranger
 perception_proficiency: Expert
 rarity: Common
+rus_type_level: null
 skill_proficiency:
 - Trained in Nature
 - Trained in Survival
@@ -29,7 +30,7 @@ type: Class
 
 ---
 # Ranger
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 _Some rangers believe civilization wears down the soul, but still needs to be protected from wild creatures. Others say nature needs to be protected from the greedy, who wish to tame its beauty and plunder its treasures. You could champion either goal, or both. You might be a scout, tracker, or hunter of fugitives or beasts, haunting the edge of civilization or exploring the wilds. You know how to live off the land and are skilled at spotting and taking down both opportune prey and hated enemies._
 **Key Ability: STRENGTH OR DEXTERITY**
 At 1st level, your class gives you an ability boost to your choice of Strength or Dexterity.
@@ -38,7 +39,7 @@ You increase your maximum number of HP by this number at 1st level and every lev
 
 ## Warden Spells
 
-Your relationship with the world around you extends from the physical to the magical. Certain feats grant you warden spells, which are a type of focus spells. It costs 1 Focus Point (FP) to cast a focus spell. When you gain your first warden spell, you also gain a focus pool of 1 FP. You refill your focus pool during your daily preparations, and you regain 1 FP by spending 10 minutes using the [[Refocus]] activity to commune with nature.
+Your relationship with the world around you extends from the physical to the magical. Certain feats grant you warden spells, which are a type of focus spells. It costs 1 Focus Point (FP) to cast a focus spell. When you gain your first warden spell, you also gain a focus pool of 1 FP. You refill your focus pool during your daily preparations, and you regain 1 FP by spending 10 minutes using the [[DATABASE/action/Refocus|Refocus]] activity to commune with nature.
  Your warden spells are primal spells. When you first gain a warden spell, you become trained in primal spell attacks and spell DCs. Your spellcasting ability is Wisdom. 
 Focus spells are automatically heightened to half your level rounded up. Taking feats can give you more focus spells and increase the size of your focus pool, though your focus pool can never hold more than 3 FP. The full rules for focus spells appear here.
 
@@ -47,7 +48,7 @@ Focus spells are automatically heightened to half your level rounded up. Taking 
 You'll see these key terms in many ranger class features. 
 **Flourish**: Actions with this trait are special techniques that require too much exertion for you to perform frequently. You can use only 1 action with the flourish trait per turn. 
 Open: These maneuvers work only as the first salvo in the attacks you make on your turn. You can use an action with the open trait only if you haven't used an action with the attack or open trait yet this turn. 
-**Press**: Actions with this trait allow you to follow up earlier attacks. An action with the press trait can be used only if you are currently affected by a multiple attack penalty. You can't use a press action when it's not your turn, even if you use the [[Ready]] activity.
+**Press**: Actions with this trait allow you to follow up earlier attacks. An action with the press trait can be used only if you are currently affected by a multiple attack penalty. You can't use a press action when it's not your turn, even if you use the [[DATABASE/action/Ready|Ready]] activity.
  Some actions with the press trait also grant an effect on a failure. The effects that are added on a failure don't apply on a critical failure. If your press action succeeds, you can choose to apply the failure effect instead. (For example, you may wish to do this when an attack deals no damage due to resistance.)
 
 # Roleplaying the Ranger
@@ -96,8 +97,8 @@ Trained in Will
 
 ## Skills
 
-Trained in [[Nature]]
-Trained in [[Survival]]
+Trained in [[DATABASE/skill/Nature|Nature]]
+Trained in [[DATABASE/skill/Survival|Survival]]
 Trained in a number of additional skills equal to 4 plus your Intelligence modifier
 
 ## Attacks
@@ -118,30 +119,29 @@ Trained in ranger class DC
 
 # Class Features
 
-You gain these features as a Ranger. Abilities gained at higher levels list the levels at which you gain them next to the features' names.
-
-|   Your Level | Class Features                                                                                                   |
-|-------------:|:-----------------------------------------------------------------------------------------------------------------|
-|            1 | Ancestry and background, initial proficiencies, hunt prey, hunter’s edge, ranger feat                            |
-|            2 | Ranger feat, skill feat                                                                                          |
-|            3 | General feat, iron will, skill increase                                                                          |
-|            4 | Ranger feat, skill feat                                                                                          |
-|            5 | Ability boosts, ancestry feat, ranger weapon expertise, skill increase, trackless step                           |
-|            6 | Ranger feat, skill feat                                                                                          |
-|            7 | Evasion, general feat, skill increase, vigilant senses, weapon specialization                                    |
-|            8 | Ranger feat, skill feat                                                                                          |
-|            9 | Ancestry feat, nature’s edge, ranger expertise, skill increase                                                   |
-|           10 | Ability boosts, ranger feat, skill feat                                                                          |
-|           11 | General feat, juggernaut, medium armor expertise, skill increase, wild stride                                    |
-|           12 | Ranger feat, skill feat                                                                                          |
-|           13 | Ancestry feat, skill increase, weapon mastery                                                                    |
-|           14 | Ranger feat, skill feat                                                                                          |
-|           15 | Ability boosts, general feat, greater weapon specialization, improved evasion, incredible senses, skill increase |
-|           16 | Ranger feat, skill feat                                                                                          |
-|           17 | Ancestry feat, masterful hunter, skill increase                                                                  |
-|           18 | Ranger feat, skill feat                                                                                          |
-|           19 | General feat, second skin, skill increase, swift prey                                                            |
-|           20 | Ability boosts, ranger feat, skill feat                                                                          |
+You gain these features as a Ranger. Abilities gained at higher levels list the levels at which you gain them next to the features' names.| 0 | 1 |
+|:-----------|:-----------------------------------------------------------------------------------------------------------------|
+| Your Level | Class Features |
+| 1 | Ancestry and background, initial proficiencies, hunt prey, hunter’s edge, ranger feat |
+| 2 | Ranger feat, skill feat |
+| 3 | General feat, iron will, skill increase |
+| 4 | Ranger feat, skill feat |
+| 5 | Ability boosts, ancestry feat, ranger weapon expertise, skill increase, trackless step |
+| 6 | Ranger feat, skill feat |
+| 7 | Evasion, general feat, skill increase, vigilant senses, weapon specialization |
+| 8 | Ranger feat, skill feat |
+| 9 | Ancestry feat, nature’s edge, ranger expertise, skill increase |
+| 10 | Ability boosts, ranger feat, skill feat |
+| 11 | General feat, juggernaut, medium armor expertise, skill increase, wild stride |
+| 12 | Ranger feat, skill feat |
+| 13 | Ancestry feat, skill increase, weapon mastery |
+| 14 | Ranger feat, skill feat |
+| 15 | Ability boosts, general feat, greater weapon specialization, improved evasion, incredible senses, skill increase |
+| 16 | Ranger feat, skill feat |
+| 17 | Ancestry feat, masterful hunter, skill increase |
+| 18 | Ranger feat, skill feat |
+| 19 | General feat, second skin, skill increase, swift prey |
+| 20 | Ability boosts, ranger feat, skill feat |
 
 ## Ancestry and Background
 
@@ -155,14 +155,14 @@ At 1st level, you gain a number of proficiencies that represent your basic train
 
 When you focus your attention on a single foe, you become unstoppable in your pursuit. You gain the Hunt Prey action.
 
-### [[Hunt Prey]] <span class="action-icon">1</span>
+### [[DATABASE/action/Hunt Prey|Hunt Prey]] <span class="action-icon">1</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Ranger</span>
-**Source** [[Core Rulebook]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
 You designate a single creature as your prey and focus your attacks against that creature. You must be able to see or hear the prey, or you must be tracking the prey during exploration.
- You gain a +2 circumstance bonus to Perception checks when you [[Seek]] your prey and a +2 circumstance bonus to [[Survival]] checks when you [[Track]] your prey. You also ignore the penalty for making ranged attacks within your second range increment against the prey you’re hunting.
+ You gain a +2 circumstance bonus to Perception checks when you [[DATABASE/action/Seek|Seek]] your prey and a +2 circumstance bonus to [[DATABASE/skill/Survival|Survival]] checks when you [[DATABASE/action/Track|Track]] your prey. You also ignore the penalty for making ranged attacks within your second range increment against the prey you’re hunting.
  You can have only one creature designated as your prey at a time. If you use Hunt Prey against a creature when you already have a creature designated, the prior creature loses the designation and the new prey gains the designation. Your designation lasts until your next daily preparations.
 
 ## Hunter's Edge
@@ -221,7 +221,7 @@ You’ve learned how to inflict greater injuries with the weapons you know best.
 
 ## Nature's Edge<span class="item-type">Level 9</span>
 
-You always find the weak points in your foes' defenses when they're on unfavorable terrain. Enemies are [[Flat-Footed]] to you if they're in natural difficult terrain or in difficult terrain resulting from a snare.
+You always find the weak points in your foes' defenses when they're on unfavorable terrain. Enemies are [[DATABASE/condition/Flat-Footed|flat-footed]] to you if they're in natural difficult terrain or in difficult terrain resulting from a snare.
 
 ## Ranger Expertise<span class="item-type">Level 9</span>
 

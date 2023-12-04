@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -52,7 +53,7 @@ weapon_type: null
 # False Manacles<span class="item-type">Item 0</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span>
-**Source** [[PFS Guide]]
+**Source** [[DATABASE/source/PFS Guide|PFS Guide]]
 **Price** 10 gp
 **Hands** 2; **Bulk** —
 **Access** Member of the Pathfinder Society.

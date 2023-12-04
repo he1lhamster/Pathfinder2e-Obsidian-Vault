@@ -11,6 +11,7 @@ name: Repair Module
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Repair Module <span class="action-icon">1</span> <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Android</span><span class="item-trait">Concentrate</span>
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 **Frequency** once per day
 
 ---

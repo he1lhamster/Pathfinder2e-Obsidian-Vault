@@ -11,6 +11,7 @@ name: Winter Sleet
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -28,11 +29,11 @@ type: Feat
 # Winter Sleet <span class="action-icon">1</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Cold</span><span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Primal</span><span class="item-trait">Stance</span><span class="item-trait">Water</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
-Bone-chilling, swirling sleet surrounds you, cruel as deepest winter. Surfaces in your kinetic aura are coated in slippery ice. A creature that moves on this uneven ground immediately falls unless it [[Balance]] (DC 15). A creature is [[Off-Guard]] on the ice, as normal for uneven ground. You're immune to these effects.
- If a creature on the ice is critically hit by one of your water impulses or critically fails at a save against one, that creature is [[Slowed]] until the end of its next turn.
+Bone-chilling, swirling sleet surrounds you, cruel as deepest winter. Surfaces in your kinetic aura are coated in slippery ice. A creature that moves on this uneven ground immediately falls unless it [[DATABASE/action/Balance|Balances]] (DC 15). A creature is [[DATABASE/condition/Off-Guard|off-guard]] on the ice, as normal for uneven ground. You're immune to these effects.
+ If a creature on the ice is critically hit by one of your water impulses or critically fails at a save against one, that creature is [[DATABASE/condition/Slowed|slowed 1]] until the end of its next turn.
 
 ## Traits
 

@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Wizard's Tower<span class="item-type">Item 13</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Conjuration</span><span class="item-trait">Magical</span><span class="item-trait">Structure</span>
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 2,500 gp
 **Bulk** — when not activated
 

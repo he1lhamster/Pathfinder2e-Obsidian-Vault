@@ -3,6 +3,7 @@ creature_family: Werecreature
 id: '100'
 name: Werecreature
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,7 +11,7 @@ type: Creature Family
 ---
 # Werecreature
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Werecreatures are humanoids doomed to transform into animals and animal-humanoid hybrids under the light of the full moon. These shapechanging creatures are the result of an ancient primal curse that they can, in turn, transmit through their own bites. Their ability to lurk unseen in the wilds as well as among people, combined with the contagiousness of their condition, makes werecreatures a perennial cause of panicked suspicion.
 
 ## Afflicted and True Werecreatures
@@ -21,11 +22,11 @@ Werecreatures come in two types: those afflicted with the curse and those born w
 
 ### Members
 
-[[Werebat]] (Creature 2), [[Werebear]] (Creature 4), [[Wereboar]] (Creature 2), [[Werecrocodile]] (Creature 2), [[Wererat]] (Creature 2), [[Weretiger]] (Creature 4), [[Werewolf]] (Creature 3)
+[[DATABASE/monster/Werebat|Werebat]] (Creature 2), [[DATABASE/monster/Werebear|Werebear]] (Creature 4), [[DATABASE/monster/Wereboar|Wereboar]] (Creature 2), [[DATABASE/monster/Werecrocodile|Werecrocodile]] (Creature 2), [[DATABASE/monster/Wererat|Wererat]] (Creature 2), [[DATABASE/monster/Weretiger|Weretiger]] (Creature 4), [[DATABASE/monster/Werewolf|Werewolf]] (Creature 3)
 
 ### Members
 
-[[Werecreature]], [[Werecreature, Wereant]]
+[[DATABASE/monsterfamily/Werecreature|Werecreature]], [[DATABASE/monsterfamily/Werecreature, Wereant|Werecreature, Wereant]]
 
 ## Creating Werecreatures
 
@@ -38,13 +39,13 @@ You can turn an existing, living humanoid into a werecreature by completing the 
 * Increase its HP by the amount shown on the table. This HP increase is more than typical in order to compensate for the creature's weakness to silver. 
 * The creature gains weakness to silver as shown on the table.
 
-| 0              | 1           | 2                  |
+| 0 | 1 | 2 |
 |:---------------|:------------|:-------------------|
 | Starting Level | HP Increase | Weakness to Silver |
-| 4 or lower     | +25         | 5                  |
-| 5–7            | +35         | 7                  |
-| 8–14           | +50         | 10                 |
-| 15+            | +75         | 15                 |
+| 4 or lower | +25 | 5 |
+| 5–7 | +35 | 7 |
+| 8–14 | +50 | 10 |
+| 15+ | +75 | 15 |
 
 ### Werecreature Abilities
 
@@ -63,7 +64,7 @@ The curse of the werecreature comes in myriad forms and can affect any humanoid,
 
 ###  Lycanthropy
 
-Many scholars refer to the curse of the werecreature as “lycanthropy,” but technically this is correct only when speaking of werewolves. Nevertheless, the word has gained traction in certain circles, and as a result it's not uncommon to hear the whispers of locals who fear lycanthropes even when a ravenous [[Weretiger]] is the real threat. Naturally, the werecreatures themselves don't take this ignorance lightly, and tend to see being equated with a werewolf as a great insult. Unless, of course, the werecreature is a werewolf!
+Many scholars refer to the curse of the werecreature as “lycanthropy,” but technically this is correct only when speaking of werewolves. Nevertheless, the word has gained traction in certain circles, and as a result it's not uncommon to hear the whispers of locals who fear lycanthropes even when a ravenous [[DATABASE/monster/Weretiger|weretiger]] is the real threat. Naturally, the werecreatures themselves don't take this ignorance lightly, and tend to see being equated with a werewolf as a great insult. Unless, of course, the werecreature is a werewolf!
 
 ###  Other Werecreatures
 

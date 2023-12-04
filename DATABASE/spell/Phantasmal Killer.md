@@ -25,6 +25,7 @@ patron_theme: null
 range: 120 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -45,10 +46,10 @@ type: Spell
 # Phantasmal Killer<span class="item-type">Spell 4</span>
 
 <span class="item-trait">Death</span><span class="item-trait">Emotion</span><span class="item-trait">Fear</span><span class="item-trait">Illusion</span><span class="item-trait">Mental</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult
-**Bloodline** [[Shadow]]
-**Deities** [[Achaekek]], [[Kalekot]], [[Norgorber]], [[Pharasma]]
+**Bloodline** [[DATABASE/sorcererbloodline/Shadow|shadow]]
+**Deities** [[DATABASE/deity/Achaekek|Achaekek]], [[DATABASE/deity/Kalekot|Kalekot]], [[DATABASE/deity/Norgorber|Norgorber]], [[DATABASE/deity/Pharasma|Pharasma]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 120 feet; **Targets** 1 living creature
 **Saving Throw** Will

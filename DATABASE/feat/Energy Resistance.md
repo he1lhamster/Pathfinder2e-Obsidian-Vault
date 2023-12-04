@@ -11,6 +11,7 @@ name: Energy Resistance
 prerequisite: '[[DATABASE/feat/Energy Heart|Energy Heart]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -24,11 +25,11 @@ type: Feat
 # Energy Resistance <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Evolution</span><span class="item-trait">Summoner</span>
-**Source** [[Secrets of Magic]] 
-**Prerequisites** [[Energy Heart]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
+**Prerequisites** [[DATABASE/feat/Energy Heart|Energy Heart]]
 
 ---
-Your eidolon has stronger resistance. Its resistance from Energy Heart and [[Dual Energy Heart]] increase to your level.
+Your eidolon has stronger resistance. Its resistance from Energy Heart and [[DATABASE/feat/Dual Energy Heart|Dual Energy Heart]] increase to your level.
 
 ## Traits
 

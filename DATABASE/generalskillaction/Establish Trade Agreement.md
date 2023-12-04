@@ -2,6 +2,7 @@
 id: '13'
 name: Establish Trade Agreement
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait: null
 type: General Skill Action
@@ -9,18 +10,18 @@ type: General Skill Action
 ---
 # Establish Trade Agreement (Untrained)
 
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 
 ## Skill Uses
 
-[[Boating]] Establish Trade Agreement
-[[Magic]] Establish Trade Agreement
-[[Trade]] Establish Trade Agreement
+[[DATABASE/skill/Boating|Boating]] Establish Trade Agreement
+[[DATABASE/skill/Magic|Magic]] Establish Trade Agreement
+[[DATABASE/skill/Trade|Trade]] Establish Trade Agreement
 
-## [[Establish Trade Agreement]]
+## [[DATABASE/action/Establish Trade Agreement|Establish Trade Agreement]]
 
 <span class="item-trait">Downtime</span><span class="item-trait">Leadership</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 **Requirements** You have diplomatic relations (page 534) with the group you wish to establish an agreement with.
 
 ---

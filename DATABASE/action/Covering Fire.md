@@ -7,6 +7,7 @@ id: '1430'
 name: Covering Fire
 rarity: Common
 requirement: '[[DATABASE/kingmakerwarfaretactic/Sharpshooter|Sharpshooter]]'
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
@@ -21,8 +22,8 @@ type: Action
 # Covering Fire <span class="action-icon">2</span>
 
 <span class="item-trait">Attack</span><span class="item-trait">Cavalry</span><span class="item-trait">Infantry</span><span class="item-trait">Skirmisher</span>
-**Source** [[Kingmaker Adventure Path]]
-**Requirements** [[Sharpshooter]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
+**Requirements** [[DATABASE/kingmakerwarfaretactic/Sharpshooter|Sharpshooter]]
 
 ---
 Your army's ranged fire provides cover and protection for an allied army to maneuver. Attempt a ranged Strike against a target army's AC.

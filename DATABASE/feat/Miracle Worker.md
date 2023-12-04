@@ -11,6 +11,7 @@ name: Miracle Worker
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Miracle Worker <span class="item-type">Feat 18</span>
 
 <span class="item-trait">Alchemist</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Frequency** once every 10 minutes
 
 ---
-Your alchemical mastery can resuscitate the recently slain. You can administer a [[Elixir of Life]] to a creature who has been dead for no more than 2 rounds. When you do, that creature is immediately returned to life with 1 Hit Point and becomes wounded 1.
+Your alchemical mastery can resuscitate the recently slain. You can administer a [[DATABASE/equipment/Elixir of Life|true elixir of life]] to a creature who has been dead for no more than 2 rounds. When you do, that creature is immediately returned to life with 1 Hit Point and becomes wounded 1.

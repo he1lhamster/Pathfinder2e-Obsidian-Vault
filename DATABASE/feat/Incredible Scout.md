@@ -11,6 +11,7 @@ name: Incredible Scout
 prerequisite: master in Perception
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,11 +24,11 @@ type: Feat
 # Incredible Scout <span class="item-type">Feat 11</span>
 
 <span class="item-trait">General</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Prerequisites** master in Perception
 
 ---
-When you scout, you are particularly alert for danger, granting your allies precious moments to prepare to fight. When using the [[Scout]] exploration activity, you grant your allies a +2 circumstance bonus to their initiative rolls instead of a +1 circumstance bonus.
+When you scout, you are particularly alert for danger, granting your allies precious moments to prepare to fight. When using the [[DATABASE/action/Scout|Scout]] exploration activity, you grant your allies a +2 circumstance bonus to their initiative rolls instead of a +1 circumstance bonus.
 
 ## Traits
 

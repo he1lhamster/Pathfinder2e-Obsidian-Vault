@@ -5,6 +5,7 @@ item_category: Relics
 name: Death Gaze
 prerequisite: null
 rarity: Common
+rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
@@ -16,7 +17,7 @@ type: Relic Minor Gift
 # Death Gaze<span class="item-type">Minor Gift</span>
 
 <span class="item-trait">Necromancy</span><span class="item-trait">Negative</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Aspect** death
 
 ---

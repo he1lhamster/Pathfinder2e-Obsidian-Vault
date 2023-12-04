@@ -102,17 +102,17 @@ wisdom: '+6'
 The legendary terotricus is a massive slime-mold that hails from the Abyss. Its collective consciousness encapsulates entire regions, spreading as far as its ever-growing cloud of spores will take it. Once it has seeped onto the Material Plane from the Abyssal realm, a terotricus’s agenda is to feed on all living creatures, infecting them with its spores, and its presence can spell doom for any in its way.
  Terotricuses move by rapidly expanding and contracting their slimy “bodies,” which are capable of burrowing through soil, gliding across water, and scrabbling up steep slopes. These behemoths of rot don’t need to travel to see their plans come to fruition, though; their spores easily latch onto demons and other denizens of the Abyss, who in turn bring this blight to the Material Plane when the fiends are summoned.
  When a terotricus infects a creature with its spores, web-like fungal growths start appearing on the victim’s skin until they cover the entire body, at which point the victim’s mind is also subdued and bent to the terotricus’s will. The terotricus’s favored victims include animals, elves, and fey, though it is happy to infect any creature it can catch. Cults of Treerazer occasionally attempt to make contact with a terotricus, but such acts almost always simply result in a new sect of spore-blighted slaves.
-**Recall Knowledge - Fungus ([[Nature]])**: DC 44
+**Recall Knowledge - Fungus ([[DATABASE/skill/Nature|Nature]])**: DC 44
 **Unspecific Lore**: DC 42
 **Specific Lore**: DC 39
 
 # Terotricus<span class="item-type">Creature 19</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Gargantuan</span><span class="item-trait">Fungus</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +31; darkvision, tremorsense (imprecise) 120 feet
-**Languages** [[Abyssal]], [[Elven]], [[Sylvan]]
-**Skills** [[Athletics]] +37, [[Deception]] +32, [[Intimidation]] +35, [[Nature]] +31, [[Survival]] +31
+**Languages** [[DATABASE/language/Abyssal|Abyssal]], [[DATABASE/language/Elven|Elven]], [[DATABASE/language/Sylvan|Sylvan]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +37, [[DATABASE/skill/Deception|Deception]] +32, [[DATABASE/skill/Intimidation|Intimidation]] +35, [[DATABASE/skill/Nature|Nature]] +31, [[DATABASE/skill/Survival|Survival]] +31
 **Str** +10, **Dex** +5, **Con** +9, **Int** -1, **Wis** +6, **Cha** +5
 
 ---

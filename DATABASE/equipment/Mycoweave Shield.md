@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Mycoweave Shield<span class="item-type">Item 2+</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Fungus</span><span class="item-trait">Poison</span>
-**Source** [[Pathfinder 193. Mantle of Gold]]
+**Source** [[DATABASE/source/Pathfinder 193. Mantle of Gold|Pathfinder #193: Mantle of Gold]]
 **Usage** held in 1 hand; **Bulk** 1
 
 ---
@@ -66,21 +67,21 @@ When left atop at least 1 bulk of organic matter, it gains fast healing 1; after
 
 ## Mycoweave Shield (Lesser)<span class="item-type">Item 2</span>
 
-**Source** [[Pathfinder 193. Mantle of Gold]]
+**Source** [[DATABASE/source/Pathfinder 193. Mantle of Gold|Pathfinder #193: Mantle of Gold]]
 **Price** 40 gp
 **Bulk** 1
 The shield has Hardness 2, HP 12, and BT 6. When the shield breaks, the reaction deals 1d6 persistent poison damage with a DC 16 Fortitude saving throw.
 
 ## Mycoweave Shield (Greater)<span class="item-type">Item 8</span>
 
-**Source** [[Pathfinder 193. Mantle of Gold]]
+**Source** [[DATABASE/source/Pathfinder 193. Mantle of Gold|Pathfinder #193: Mantle of Gold]]
 **Price** 40 gp
 **Bulk** 1
 The shield has Hardness 4, HP 64, and BT 32. When the shield breaks, the reaction deals 2d6 persistent poison damage with a DC 24 Fortitude saving throw.
 
 ## Mycoweave Shield (Major)<span class="item-type">Item 16</span>
 
-**Source** [[Pathfinder 193. Mantle of Gold]]
+**Source** [[DATABASE/source/Pathfinder 193. Mantle of Gold|Pathfinder #193: Mantle of Gold]]
 **Price** 40 gp
 **Bulk** 1
 The shield has Hardness 6, HP 110, and BT 55. When the shield breaks, the reaction deals 3d6 persistent poison damage with a DC 35 Fortitude saving throw.

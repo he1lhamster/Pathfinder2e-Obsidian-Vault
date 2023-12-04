@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
@@ -39,14 +40,14 @@ type: Focus
 # Incendiary Aura<span class="item-type">Focus 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Cursebound</span><span class="item-trait">Evocation</span><span class="item-trait">Fire</span><span class="item-trait">Oracle</span>
-**Source** [[Advanced Player's Guide]] 
-**Mystery** [[Flames]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Mystery** [[DATABASE/oraclemystery/Flames|flames]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Area** 10-foot emanation
 **Duration** 1 minute
 
 ---
-You surround yourself with a combustible aura. Each time a creature within the emanation takes fire damage, it catches on fire, taking 2d4 [[Persistent Damage]].
+You surround yourself with a combustible aura. Each time a creature within the emanation takes fire damage, it catches on fire, taking 2d4 [[DATABASE/condition/Persistent Damage|persistent fire damage]].
 
 ---
 **Heightened (+2)** Increase the persistent damage by 1d4 and the radius of the emanation by 5 feet.

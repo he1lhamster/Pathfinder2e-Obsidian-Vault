@@ -74,17 +74,17 @@ wisdom: '+3'
 # Elemental Tsunami
 
 Elemental tsunamis are huge and destructive.
-**Recall Knowledge - Elemental ([[Arcana]], [[Nature]])**: DC 28
+**Recall Knowledge - Elemental ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 28
 **Unspecific Lore**: DC 26
 **Specific Lore**: DC 23
 
 # Elemental Tsunami<span class="item-type">Creature 11</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Huge</span><span class="item-trait">Aquatic</span><span class="item-trait">Elemental</span><span class="item-trait">Water</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +22; darkvision
-**Languages** [[Aquan]]
-**Skills** [[Athletics]] +23, [[Stealth]] +23
+**Languages** [[DATABASE/language/Aquan|Aquan]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +23, [[DATABASE/skill/Stealth|Stealth]] +23
 **Str** +6, **Dex** +6, **Con** +6, **Int** +0, **Wis** +3, **Cha** +0
 **Water-Bound** When not touching water, the elemental tsunami is slowed 1 and can’t use reactions.
 

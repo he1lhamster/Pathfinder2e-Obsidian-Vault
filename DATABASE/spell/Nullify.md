@@ -21,6 +21,7 @@ patron_theme: null
 range: 120 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -40,7 +41,7 @@ type: Spell
 # Nullify<span class="item-type">Spell 10</span>
 
 <span class="item-trait">Abjuration</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Traditions** arcane, divine, occult, primal
 **Spell List** elemental
 **Cast** <span class="action-icon">5</span> somatic, verbal; **Trigger** a foe within range casts a 9th-level or lower spell

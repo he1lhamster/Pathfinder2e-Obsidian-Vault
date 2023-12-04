@@ -2,6 +2,7 @@
 id: '55'
 name: Troubles in Otari
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -16,8 +17,8 @@ type: Source
 
 ## Equipment [4]
 
-[[Antivenom Potion]], [[Capsaicin Tonic]], [[Sparkblade]], [[Sun Wheel]]
+[[DATABASE/equipment/Antivenom Potion|Antivenom Potion]], [[DATABASE/equipment/Capsaicin Tonic|Capsaicin Tonic]], [[DATABASE/equipment/Sparkblade|Sparkblade]], [[DATABASE/equipment/Sun Wheel|Sun Wheel]]
 
 ## Monsters [3]
 
-[[Kurnugian Jackal]], [[Scalliwing]], [[Stinkweed Shambler]]
+[[DATABASE/monster/Kurnugian Jackal|Kurnugian Jackal]], [[DATABASE/monster/Scalliwing|Scalliwing]], [[DATABASE/monster/Stinkweed Shambler|Stinkweed Shambler]]

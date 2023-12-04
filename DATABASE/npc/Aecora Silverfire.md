@@ -82,20 +82,20 @@ wisdom: '+6'
 # Aecora Silverfire
 
 This creature did not include a description.
-**Recall Knowledge - Beast ([[Arcana]], [[Nature]])**: DC 33
+**Recall Knowledge - Beast ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 33
 **Unspecific Lore**: DC 31
 **Specific Lore**: DC 28
 
 # Aecora Silverfire<span class="item-type">Creature 7</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CN</span><span class="trait-size item-trait">Large</span><span class="item-trait">Beast</span>
-**Source** [[Kingmaker Adventure Path]]
-Female [[Centaur]] war-priestess
-**Perception** +17; [[Darkvision]]
-**Languages** [[Common]], [[Elven]], [[Sylvan]]
-**Skills** [[Athletics]] +14, [[Diplomacy]] +13, [[Intimidation]] +17, [[Nature]] +15, [[Religion]] +17, [[Survival]] +17
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
+Female [[DATABASE/monster/Centaur|centaur]] war-priestess
+**Perception** +17; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Elven|Elven]], [[DATABASE/language/Sylvan|Sylvan]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +14, [[DATABASE/skill/Diplomacy|Diplomacy]] +13, [[DATABASE/skill/Intimidation|Intimidation]] +17, [[DATABASE/skill/Nature|Nature]] +15, [[DATABASE/skill/Religion|Religion]] +17, [[DATABASE/skill/Survival|Survival]] +17
 **Str** +5, **Dex** +2, **Con** +4, **Int** +2, **Wis** +6, **Cha** +4
-**Items** [[Spear]], [[Breastplate]], [[Wooden Shield]]
+**Items** [[DATABASE/weapon/Spear|+1 spear]], [[DATABASE/armor/Breastplate|breastplate]], [[DATABASE/shield/Wooden Shield|wooden shield (Hardness 3, HP 12, BT 6)]]
 
 ---
 **AC** 25; **Fort** +15, **Ref** +13, **Will** +17
@@ -103,5 +103,5 @@ Female [[Centaur]] war-priestess
 
 ---
 **Speed** 40 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _spear_ +17 [+12/+7], **Damage** 1d6+8 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> _hoof_ +16 [+12/+8] (agile), **Damage** 1d10+8 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _spear_ +14 [+9/+4] (thrown 20 feet), **Damage** 1d6+8 piercing</span>**Divine Spells Prepared** DC 25, attack +17; **4th** _[[Heal]]_, _[[Outcast's Curse]]_; **3rd** _[[Dream Message]]_, _[[Heal]]_, _[[Sound Burst]]_; **2nd** _[[Heal]]_, _[[Restoration]]_, _[[Silence]]_; **1st** _[[Command]]_, _[[Ray of Enfeeblement]]_, _[[Sanctuary]]_; **Cantrips** **(4th)** _[[Daze]]_, _[[Disrupt Undead]]_, _[[Know Direction]]_, _[[Message]]_, _[[Stabilize]]_
-<span class="in-box-ability">**[[Trample]]** <span class="action-icon">3</span> Medium or smaller, hoof, DC 25</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _spear_ +17 [+12/+7], **Damage** 1d6+8 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> _hoof_ +16 [+12/+8] (agile), **Damage** 1d10+8 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _spear_ +14 [+9/+4] (thrown 20 feet), **Damage** 1d6+8 piercing</span>**Divine Spells Prepared** DC 25, attack +17; **4th** _[[DATABASE/spell/Heal|heal]]_, _[[DATABASE/spell/Outcast's Curse|outcast's curse]]_; **3rd** _[[DATABASE/spell/Dream Message|dream message]]_, _[[DATABASE/spell/Heal|heal]]_, _[[DATABASE/spell/Sound Burst|sound burst]]_; **2nd** _[[DATABASE/spell/Heal|heal]]_, _[[DATABASE/spell/Restoration|restoration]]_, _[[DATABASE/spell/Silence|silence]]_; **1st** _[[DATABASE/spell/Command|command]]_, _[[DATABASE/spell/Ray of Enfeeblement|ray of enfeeblement]]_, _[[DATABASE/spell/Sanctuary|sanctuary]]_; **Cantrips** **(4th)** _[[DATABASE/spell/Daze|daze]]_, _[[DATABASE/spell/Disrupt Undead|disrupt undead]]_, _[[DATABASE/spell/Know Direction|know direction]]_, _[[DATABASE/spell/Message|message]]_, _[[DATABASE/spell/Stabilize|stabilize]]_
+<span class="in-box-ability">**[[DATABASE/monsterability/Trample|Trample]]** <span class="action-icon">3</span> Medium or smaller, hoof, DC 25</span>

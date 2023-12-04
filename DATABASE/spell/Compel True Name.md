@@ -20,6 +20,7 @@ patron_theme: null
 range: 30 feet
 rarity: Rare
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -44,7 +45,7 @@ type: Spell
 # Compel True Name<span class="item-type">Spell 4</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Auditory</span><span class="item-trait">Enchantment</span><span class="item-trait">Incapacitation</span><span class="item-trait">Linguistic</span><span class="item-trait">Mental</span><span class="item-trait">True Name</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Traditions** arcane, divine, occult, primal
 **Cast** <span class="action-icon">2</span> verbal
 **Range** 30 feet; **Targets** 1 creature whose true name you know

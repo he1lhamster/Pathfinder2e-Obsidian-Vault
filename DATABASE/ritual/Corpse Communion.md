@@ -13,6 +13,7 @@ primary_check: '[[DATABASE/skill/Crafting|Crafting]] (master), [[DATABASE/skill/
 range: null
 rarity: Rare
 requirement: null
+rus_type_level: null
 school: Necromancy
 secondary_casters: null
 secondary_check: null
@@ -28,9 +29,9 @@ type: Ritual
 # Corpse Communion<span class="item-type">Ritual 2</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Necromancy</span>
-**Source** [[Pathfinder 184. The Ghouls Hunger]]
+**Source** [[DATABASE/source/Pathfinder 184. The Ghouls Hunger|Pathfinder #184: The Ghouls Hunger]]
 **Cast** 1 hour; **Cost** rare spices and seasonings worth a total value of 50 gp × the spell level
-**Primary Check** [[Crafting]] (master), [[Occultism]] (expert), [[Religion]] (expert)
+**Primary Check** [[DATABASE/skill/Crafting|Crafting]] (master), [[DATABASE/skill/Occultism|Occultism]] (expert), [[DATABASE/skill/Religion|Religion]] (expert)
 **Duration** 24 hours
 
 ---
@@ -42,7 +43,7 @@ The dead hold more secrets than the living ever shall. The lore possessed by the
 **Critical Success** You learn a significant piece of lore, a forgotten secret, or some other tantalizing nugget of knowledge that is of immediate use to you, connected to the skill you chose. The GM will provide you with some piece of information they know will aid you in your personal goals. In addition, you become trained in the use of the selected skill and gain a +1 status bonus on checks made with that skill.
 **Success** You become expert in the use of the selected skill.
 **Failure** You fail to learn anything from the communion.
-**Critical Failure** A malevolent spirit, be it a supernatural presence sensing an opportunity or the soul of the corpse you're feeding upon, lashes out at you as you feed, drawing from you your memories and secrets and taking them away into the realm of the dead forever. You not only become [[Stupefied]], but you no longer know the _corpse communion_ ritual. You can attempt to learn it again, but the DC to learn this ritual increases by 5.
+**Critical Failure** A malevolent spirit, be it a supernatural presence sensing an opportunity or the soul of the corpse you're feeding upon, lashes out at you as you feed, drawing from you your memories and secrets and taking them away into the realm of the dead forever. You not only become [[DATABASE/condition/Stupefied|stupefied 3]], but you no longer know the _corpse communion_ ritual. You can attempt to learn it again, but the DC to learn this ritual increases by 5.
 
 ---
 **Heightened (4th)** The remains can be up to 10 years old-dry bones in sufficient enough quantity to gnaw upon will suffice. You can choose a skill you are trained or untrained in, and when you are successful at this ritual, you become master at that skill. The ritual duration extends to 1 week.

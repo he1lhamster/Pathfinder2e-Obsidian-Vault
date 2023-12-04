@@ -11,6 +11,7 @@ name: Water Conjuration
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Water Conjuration <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Azarketi</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-You carry the ocean with you wherever you go. You can cast [[Create Water]] as a primal innate spell once per day. Each time you cast create water, you choose if you create fresh water or salt water.
+You carry the ocean with you wherever you go. You can cast [[DATABASE/spell/Create Water|create water]] as a primal innate spell once per day. Each time you cast create water, you choose if you create fresh water or salt water.
 
 ## Traits
 

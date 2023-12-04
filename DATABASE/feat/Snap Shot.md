@@ -11,6 +11,7 @@ name: Snap Shot
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Snap Shot <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Ranger</span>
-**Source** [[Core Rulebook]] 
-**Archetypes** [[Alkenstar Agent]]*, [[Bullet Dancer]]*
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetypes** [[DATABASE/archetype/Alkenstar Agent|Alkenstar Agent]]*, [[DATABASE/archetype/Bullet Dancer|Bullet Dancer]]*
 * This archetype offers Snap Shot at a different level than displayed here.
 
 ---

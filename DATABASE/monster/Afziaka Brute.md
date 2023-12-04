@@ -69,18 +69,18 @@ wisdom: '+2'
 # Afziaka Brute
 
 An afziaka brute arises from a horse, bull, or other large animal.
-**Recall Knowledge - Animal ([[Nature]])**: DC 24
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 24
 **Unspecific Lore**: DC 22
 **Specific Lore**: DC 19
 
 # Afziaka Brute<span class="item-type">Creature 6</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Animal</span><span class="item-trait">Mindless</span>
-**Source** [[Pathfinder 185. A Taste of Ashes]]
-**Perception** +12; [[Darkvision]], [[Scent]] (imprecise) 30 feet
-**Skills** [[Athletics]] +16, [[Survival]] +14
+**Source** [[DATABASE/source/Pathfinder 185. A Taste of Ashes|Pathfinder #185: A Taste of Ashes]]
+**Perception** +12; [[DATABASE/monsterability/Darkvision|darkvision]], [[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +16, [[DATABASE/skill/Survival|Survival]] +14
 **Str** +6, **Dex** +2, **Con** +4, **Int** -5, **Wis** +2, **Cha** -3
-**Grave-Bound Guts** (divine, transmutation) While within 100 feet of its [[Vampire, Vrykolakas]] burial ground, an afziaka appears in the natural shape it had when it was a regular animal and can eat normally. When farther away, it doesn't gain sustenance from eating food and eventually starves to death.
+**Grave-Bound Guts** (divine, transmutation) While within 100 feet of its [[DATABASE/monsterfamily/Vampire, Vrykolakas|vrykolakas's]] burial ground, an afziaka appears in the natural shape it had when it was a regular animal and can eat normally. When farther away, it doesn't gain sustenance from eating food and eventually starves to death.
 
 ---
 **AC** 23; **Fort** +16, **Ref** +14, **Will** +12
@@ -88,4 +88,4 @@ An afziaka brute arises from a horse, bull, or other large animal.
 
 ---
 **Speed** 40 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fangs +17 [+12/+7], **Damage** 2d10+9 piercing plus hunger pangs</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> hoof +17 [+12/+7], **Damage** 2d8+7 bludgeoning</span><span class="in-box-ability">**Hunger Pangs** (curse, divine, necromancy) A creature damaged by the afziaka's fangs must succeed at a DC 22 Fortitude save or become [[Enfeebled]] for 1 minute. The creature can remove this condition earlier by consuming at least a handful of raw meat.</span><span class="in-box-ability">**[[Trample]]** <span class="action-icon">3</span> Medium or smaller, hoof, DC 23</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fangs +17 [+12/+7], **Damage** 2d10+9 piercing plus hunger pangs</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> hoof +17 [+12/+7], **Damage** 2d8+7 bludgeoning</span><span class="in-box-ability">**Hunger Pangs** (curse, divine, necromancy) A creature damaged by the afziaka's fangs must succeed at a DC 22 Fortitude save or become [[DATABASE/condition/Enfeebled|enfeebled 2]] for 1 minute. The creature can remove this condition earlier by consuming at least a handful of raw meat.</span><span class="in-box-ability">**[[DATABASE/monsterability/Trample|Trample]]** <span class="action-icon">3</span> Medium or smaller, hoof, DC 23</span>

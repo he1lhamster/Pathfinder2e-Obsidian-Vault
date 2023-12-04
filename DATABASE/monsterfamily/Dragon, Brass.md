@@ -3,6 +3,7 @@ creature_family: Dragon, Brass
 id: '170'
 name: Dragon, Brass
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,7 +11,7 @@ type: Creature Family
 ---
 # Dragon, Brass
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Brass dragons are whimsical tricksters who delight in humor and play. They particularly enjoy conversations with humans and other civilized humanoids, delighting in the naive customs of these diminutive races without showing them haughtiness or scorn. While they may seem merely curious, brass dragons engage in this sort of conversation with the goal of keeping up to date on regional politics so they can anticipate future conflicts. Along the way, they create extensive information networks that begin with their own allies but stretch across all levels of humanoid society—networks which the brass dragon then uses to subtly assist settlements near their lair. Unlike the schemes and manipulations of blue dragons, brass dragons use their informant networks to establish justice and equality.
  These carefree dragons value independence and feel that all creatures deserve to live as they please, provided they don't harm others. They are emotional creatures and tend to have short attention spans, sometimes falling victim to depression in their twilight years. To combat this, some brass dragons keep pets and houseplants that they can care for.
  Though they may seem childlike in their curiosity concerning mortal affairs, a brass dragon's prowess in battle is no laughing matter. A brass dragon whose territory or allies are threatened is a terrifying foe indeed, quick to shed their innocent guise and unleash their terrifying might upon evildoers.
@@ -18,11 +19,11 @@ Brass dragons are whimsical tricksters who delight in humor and play. They parti
 
 ### Members
 
-[[Adult Brass Dragon]] (Creature 11), [[Ancient Brass Dragon]] (Creature 16), [[Young Brass Dragon]] (Creature 7)
+[[DATABASE/monster/Adult Brass Dragon|Adult Brass Dragon]] (Creature 11), [[DATABASE/monster/Ancient Brass Dragon|Ancient Brass Dragon]] (Creature 16), [[DATABASE/monster/Young Brass Dragon|Young Brass Dragon]] (Creature 7)
 
 ## Dragon, Metallic
 
-**Related Groups** [[Dragon, Bronze]], [[Dragon, Copper]], [[Dragon, Gold]], [[Dragon, Silver]]
+**Related Groups** [[DATABASE/monsterfamily/Dragon, Bronze|Dragon, Bronze]], [[DATABASE/monsterfamily/Dragon, Copper|Dragon, Copper]], [[DATABASE/monsterfamily/Dragon, Gold|Dragon, Gold]], [[DATABASE/monsterfamily/Dragon, Silver|Dragon, Silver]]
 Paragons of virtue, nobility, and grace, metallic dragons are benevolent entities revered as mythic beings akin to gods in both their power and majesty. Few have ever seen a metallic dragon firsthand, but tales of their intervention in mortals’ lives—and of their passing—always spread far and wide. Named for the way their scales resemble the shining metals humanoids use in commerce, warfare, and industry, these immense beings are diverse in their interests and abilities, and they don’t seem to mind being associated with such mundane materials. After all, to compare a gold dragon to a gold coin is like comparing an ocean to a glass of water—though they may seem similar at first glance, the raw power, breadth, and grandeur of one simply overwhelms the other.
  In addition to metallic dragons and their chromatic counterparts (page 104–115), other types of dragons roam the world and the rest of the multiverse. In the legendary lands of Tian Xia on the other side of the globe are the imperial dragons, serpentine beings who protect the cosmic balance and defend their ancient homeland. Outside the Material Plane, primal dragons such as the domineering brine dragon and reclusive cloud dragon shape the nature and goings-on of the Elemental Planes. Countless other types of dragons are sure to exist, including dragons on far-fiung planes of existence and, it is rumored, primeval dragons who soar between the stars.
 

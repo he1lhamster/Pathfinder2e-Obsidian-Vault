@@ -11,6 +11,7 @@ name: Point-Blank Shot
 prerequisite: null
 rarity: Common
 requirement: You are wielding a ranged weapon.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -25,8 +26,8 @@ type: Feat
 # Point-Blank Shot <span class="action-icon">1</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Fighter</span><span class="item-trait">Open</span><span class="item-trait">Stance</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Archer]]*
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Archer|Archer]]*
 **Requirements** You are wielding a ranged weapon.
 * This archetype offers Point-Blank Shot at a different level than displayed here.
 

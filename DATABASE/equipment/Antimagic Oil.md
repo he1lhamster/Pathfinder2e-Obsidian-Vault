@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Antimagic Oil<span class="item-type">Item 20</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Abjuration</span><span class="item-trait">Consumable</span><span class="item-trait">Magical</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 13,000 gp
 **Usage** held in 2 hands; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact

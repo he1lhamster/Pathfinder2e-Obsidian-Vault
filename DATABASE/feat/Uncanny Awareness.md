@@ -11,6 +11,7 @@ name: Uncanny Awareness
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Uncanny Awareness <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Fleshwarp</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
 You have a keen sense of movement around you. You gain motion sense as an imprecise sense out to 30 feet. Motion sense allows you to detect nearby motion through vibration and air movement.

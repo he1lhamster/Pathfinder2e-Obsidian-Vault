@@ -11,6 +11,7 @@ name: Endure Anarchy
 prerequisite: Loyalty 14
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Endure Anarchy <span class="item-type">Feat 3</span>
 
 <span class="item-trait">General</span><span class="item-trait">Kingdom</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 **Prerequisites** Loyalty 14
 
 ---

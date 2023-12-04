@@ -11,6 +11,7 @@ name: Bizarre Magic
 prerequisite: Master in [[DATABASE/skill/Occultism|Occultism]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: occultism
@@ -24,8 +25,8 @@ type: Feat
 # Bizarre Magic <span class="item-type">Feat 7</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** master in [[Occultism]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** master in [[DATABASE/skill/Occultism|Occultism]]
 
 ---
 You can draw upon strange variations in your spellcasting, whether or not you can cast occult spells. The DCs to Recognize Spells you cast and Identify Magic you use increase by 5.

@@ -14,6 +14,7 @@ name: Dance of Death
 rarity: Common
 reflex: null
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
@@ -27,16 +28,16 @@ will: null
 # Dance of Death<span class="item-type">Hazard 16</span>
 
 <span class="item-trait">Complex</span><span class="item-trait">Haunt</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Complexity** Complex
 **Stealth** +32 (master)
 **Description** An eerie orchestra compels all who hear it to dance until they collapse from exhaustion.
 
 ---
-**Disable** DC 42 [[Intimidation]] (expert) three times to frighten dancers and spectral musicians alike away from participating in the deadly performance, DC 40 [[Performance]] (master) twice to produce a tune discordant enough to disrupt the compulsion, or DC 42 [[Religion]] (master) three times to banish the spirits with prayers
+**Disable** DC 42 [[DATABASE/skill/Intimidation|Intimidation]] (expert) three times to frighten dancers and spectral musicians alike away from participating in the deadly performance, DC 40 [[DATABASE/skill/Performance|Performance]] (master) twice to produce a tune discordant enough to disrupt the compulsion, or DC 42 [[DATABASE/skill/Religion|Religion]] (master) three times to banish the spirits with prayers
 **Prelude** <span class="action-icon">5</span> (auditory, enchantment, incapacitation, occult) **Trigger** A creature approaches within 30 feet of the orchestra; **Effect** The orchestra compels all creatures that can hear it to begin dancing. Each creature must attempt a DC 41 Will save, with the following effects.
 **Critical Success** The creature is unaffected.
-**Success** The creature is [[Flat-Footed]] and cannot use reactions. Additionally, it must spend 1 of its actions each round dancing. Dancing is a move action that allows the creature to Stride up to half its Speed.
+**Success** The creature is [[DATABASE/condition/Flat-Footed|flat-footed]] and cannot use reactions. Additionally, it must spend 1 of its actions each round dancing. Dancing is a move action that allows the creature to Stride up to half its Speed.
 **Failure** As success, except the creature must spend 2 of its actions each round dancing.
 **Critical Failure** As failure, except the creature must spend 3 of its actions each round dancing.
 

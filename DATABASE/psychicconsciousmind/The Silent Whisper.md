@@ -2,6 +2,7 @@
 id: '4'
 name: The Silent Whisper
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 spell:
 - '[[DATABASE/spell/Contagious Idea|Contagious Idea]]'
@@ -24,11 +25,11 @@ type: Psychic Conscious Mind
 ---
 # The Silent Whisper
 
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 Every mind murmurs constantly, and the static from those nearby reverberates in your head like wind through leaves. What better focus for your magic then, than the very thoughts of those around you? Your versatile telepathic abilities let you soothe and communicate with your allies or control your enemies.
-1st: _[[Mindlink]]_; 2nd: _[[Touch of Idiocy]]_; 3rd: _[[Heroism]]_; 4th: _[[Telepathy]]_; 5th: _[[Synaptic Pulse]]_, _[[Sending]]_; 7th: _[[Visions of Danger]]_; 8th: _[[Uncontrollable Dance]]_; 9th: _[[Telepathic Demand]]_
-**Standard Psi Cantrips** _[[Daze]]_ and _[[Message]]_
-**Unique Psi Cantrips** surface: _[[Forbidden Thought]]_; deeper: _[[Shatter Mind]]_; deepest: _[[Contagious Idea]]_
+1st: _[[DATABASE/spell/Mindlink|mindlink]]_; 2nd: _[[DATABASE/spell/Touch of Idiocy|touch of idiocy]]_; 3rd: _[[DATABASE/spell/Heroism|heroism]]_; 4th: _[[DATABASE/spell/Telepathy|telepathy]]_; 5th: _[[DATABASE/spell/Synaptic Pulse|synaptic pulse]]_, _[[DATABASE/spell/Sending|sending]]_; 7th: _[[DATABASE/spell/Visions of Danger|visions of danger]]_; 8th: _[[DATABASE/spell/Uncontrollable Dance|uncontrollable dance]]_; 9th: _[[DATABASE/spell/Telepathic Demand|telepathic demand]]_
+**Standard Psi Cantrips** _[[DATABASE/spell/Daze|daze]]_ and _[[DATABASE/spell/Message|message]]_
+**Unique Psi Cantrips** surface: _[[DATABASE/spell/Forbidden Thought|forbidden thought]]_; deeper: _[[DATABASE/spell/Shatter Mind|shatter mind]]_; deepest: _[[DATABASE/spell/Contagious Idea|contagious idea]]_
 
 ## Daze
 
@@ -40,4 +41,4 @@ You can _daze_ from a great distance. The range increases to 120 feet. Your _daz
 
 Your _message_ is not so easily bound by obstacles. The spell can travel up to 120 feet to reach the target, bending around walls and obstacles; this means you don't need a straight line of effect or line of sight to cast _message_ as long as you know the target's space and there is an unblocked path of 120 feet or less that can reach them. It also gains the following amp.
 **Amp** Your telepathic message allows you to coordinate your actions while you pass on information. The target of the message can immediately spend its reaction to Step or Stride.
-**Amp Heightened (4th)** The target of the message can choose to [[Shove]], Strike, or [[Trip]] with its reaction instead.
+**Amp Heightened (4th)** The target of the message can choose to [[DATABASE/action/Shove|Shove]], Strike, or [[DATABASE/action/Trip|Trip]] with its reaction instead.

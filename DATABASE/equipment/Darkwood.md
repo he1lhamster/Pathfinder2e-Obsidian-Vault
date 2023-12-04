@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -53,7 +54,7 @@ weapon_type: null
 # Darkwood<span class="item-type">Item 0+</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Precious</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Bulk** —
 
 ---
@@ -61,41 +62,43 @@ Darkwood is a very lightweight wood found primarily in old-growth forests in sou
 
 ## Darkwood Items
 
-| ('Darkwood Items', 'Thin Items')   |   ('Hardness', 'Unnamed: 1_level_1') |   ('HP', 'Unnamed: 2_level_1') |   ('BT', 'Unnamed: 3_level_1') |
-|:-----------------------------------|-------------------------------------:|-------------------------------:|-------------------------------:|
-| Standard-grade                     |                                    5 |                             20 |                             10 |
-| High-grade                         |                                    8 |                             32 |                             16 |
-| Items                              |                                  nan |                            nan |                            nan |
-| Standard-grade                     |                                    7 |                             28 |                             14 |
-| High-grade                         |                                   10 |                             40 |                             20 |
-| Structure                          |                                  nan |                            nan |                            nan |
-| Standard-grade                     |                                   14 |                             56 |                             28 |
-| High-grade                         |                                   20 |                             80 |                             40 |
+| 0 | 1 | 2 | 3 |
+|:---------------|:---------|:----|:----|
+| Darkwood Items | Hardness | HP | BT |
+| Thin Items | nan | nan | nan |
+| Standard-grade | 5 | 20 | 10 |
+| High-grade | 8 | 32 | 16 |
+| Items | nan | nan | nan |
+| Standard-grade | 7 | 28 | 14 |
+| High-grade | 10 | 40 | 20 |
+| Structure | nan | nan | nan |
+| Standard-grade | 14 | 56 | 28 |
+| High-grade | 20 | 80 | 40 |
 
 ### Material Uses
 
-[[Darkwood Armor]]
-[[Darkwood Shield]]
-[[Darkwood Weapon]]
+[[DATABASE/equipment/Darkwood Armor|Darkwood Armor]]
+[[DATABASE/equipment/Darkwood Shield|Darkwood Shield]]
+[[DATABASE/equipment/Darkwood Weapon|Darkwood Weapon]]
 
 ## Darkwood Branch<span class="item-type">Item 0</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 500 gp
 **Bulk** L
 
 ## Darkwood Lumber<span class="item-type">Item 0</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 5,000 gp
 **Bulk** 1
 
 ## Darkwood Object (Standard-Grade)<span class="item-type">Item 8</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 350 gp (per Bulk)
 
 ## Darkwood Object (High-Grade)<span class="item-type">Item 16</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 6,000 gp (per Bulk)

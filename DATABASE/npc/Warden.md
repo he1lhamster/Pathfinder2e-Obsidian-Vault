@@ -72,19 +72,19 @@ wisdom: '+2'
 # Warden
 
 Wardens are the chief guardians of borders and frontiers. Whether they stand watch over a single village or an entire region, wardens keep a vigilant eye out for outside threats to their charges. Wardens are stalwart folk, often called to duty by Erastil to protect those around them. Be it times of war or upon the frontier, wardens are often the balanced edge of a blade between a community and the wilds at its fringes.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 22
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 22
 **Unspecific Lore**: DC 20
 **Specific Lore**: DC 17
 
 # Warden<span class="item-type">Creature 6</span>
 
 <span class="trait-alignment item-trait">LN</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Perception** +12
-**Languages** [[Common]]
-**Skills** [[Athletics]] +14, [[Nature]] +10, [[Stealth]] +12, [[Survival]] +12
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +14, [[DATABASE/skill/Nature|Nature]] +10, [[DATABASE/skill/Stealth|Stealth]] +12, [[DATABASE/skill/Survival|Survival]] +12
 **Str** +4, **Dex** +2, **Con** +3, **Int** +1, **Wis** +2, **Cha** +1
-**Items** [[Composite Longbow]], [[Backpack]], [[Bastard Sword]], [[Bedroll]], [[Compass]], [[Flint and Steel]], maps, [[Tent]], [[Scale Mail]]
+**Items** [[DATABASE/weapon/Composite Longbow|+1 composite longbow (10 arrows)]], [[DATABASE/equipment/Backpack|backpack]], [[DATABASE/weapon/Bastard Sword|bastard sword]], [[DATABASE/equipment/Bedroll|bedroll]], [[DATABASE/equipment/Compass|compass]], [[DATABASE/equipment/Flint and Steel|flint and steel]], maps, [[DATABASE/equipment/Tent|pup tent]], [[DATABASE/armor/Scale Mail|scale mail]]
 
 ---
 **AC** 25; **Fort** +12, **Ref** +12, **Will** +12

@@ -7,6 +7,7 @@ id: '63'
 name: Sneak
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
@@ -19,7 +20,7 @@ type: Action
 # Sneak <span class="action-icon">1</span>
 
 <span class="item-trait">Move</span><span class="item-trait">Secret</span>
-**Source** [[Core Rulebook]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
 You can attempt to move to another place while becoming or staying undetected. Stride up to half your Speed. (You can use Sneak while Burrowing, Climbing, Flying, or Swimming instead of Striding if you have the corresponding movement type; you must move at half that Speed.)

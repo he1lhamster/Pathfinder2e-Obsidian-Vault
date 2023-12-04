@@ -18,6 +18,7 @@ id: '7'
 name: Fighter
 perception_proficiency: Expert
 rarity: Common
+rus_type_level: null
 skill_proficiency:
 - Trained in your choice of Acrobatics or Athletics
 - Trained in a number of additional skills equal to 3 plus your Intelligence modifier
@@ -28,7 +29,7 @@ type: Class
 
 ---
 # Fighter
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 _Fighting for honor, greed, loyalty, or simply the thrill of battle, you are an undisputed master of weaponry and combat techniques. You combine your actions through clever combinations of opening moves, finishing strikes, and counterattacks whenever your foes are unwise enough to drop their guard. Whether you are a knight, mercenary, sharpshooter, or blade master, you have honed your martial skills into an art form and perform devastating critical attacks on your enemies._
 **Key Ability: STRENGTH OR DEXTERITY**
 At 1st level, your class gives you an ability boost to your choice of Strength or Dexterity.
@@ -40,9 +41,9 @@ You increase your maximum number of HP by this number at 1st level and every lev
 You'll see the following key terms in many fighter class features.
  **Flourish**: Actions with this trait are special techniques that require too much exertion for you to perform frequently. You can use only 1 action with the flourish trait per turn.
  **Open**: These maneuvers work only as the first salvo in the attacks you make on your turn. You can use an action with the open trait only if you haven't used an action with the attack or open trait yet this turn.
-**Press**: Actions with this trait allow you to follow up earlier attacks. An action with the press trait can be used only if you are currently affected by a multiple attack penalty. You can't use a press action when it's not your turn, even if you use the [[Ready]] activity.
+**Press**: Actions with this trait allow you to follow up earlier attacks. An action with the press trait can be used only if you are currently affected by a multiple attack penalty. You can't use a press action when it's not your turn, even if you use the [[DATABASE/action/Ready|Ready]] activity.
  Some actions with the press trait also grant an effect on a failure. The effects that are added on a failure don't apply on a critical failure. If your press action succeeds, you can choose to apply the failure effect instead. (For example, you may wish to do this when an attack deals no damage due to resistance.)
-**Stance**: A stance is a general combat strategy that you enter by using an action with the stance trait, and you remain in for some time. A stance lasts until you get [[Unconscious]], until its requirements (if any) are violated, until the encounter ends, or until you enter a new stance, whichever comes first. After you take an action with the stance trait, you can't take another one for 1 round. You can enter or be in a stance only in encounter mode.
+**Stance**: A stance is a general combat strategy that you enter by using an action with the stance trait, and you remain in for some time. A stance lasts until you get [[DATABASE/condition/Unconscious|knocked out]], until its requirements (if any) are violated, until the encounter ends, or until you enter a new stance, whichever comes first. After you take an action with the stance trait, you can't take another one for 1 round. You can enter or be in a stance only in encounter mode.
 
 # Roleplaying the Fighter
 
@@ -90,7 +91,7 @@ Trained in Will
 
 ## Skills
 
-Trained in your choice of [[Acrobatics]] or [[Athletics]]
+Trained in your choice of [[DATABASE/skill/Acrobatics|Acrobatics]] or [[DATABASE/skill/Athletics|Athletics]]
 Trained in a number of additional skills equal to 3 plus your Intelligence modifier
 
 ## Attacks
@@ -111,30 +112,29 @@ Trained in fighter class DC
 
 # Class Features
 
-You gain these features as a Fighter. Abilities gained at higher levels list the levels at which you gain them next to the features' names.
-
-|   Your Level | Class Features                                                                                             |
-|-------------:|:-----------------------------------------------------------------------------------------------------------|
-|            1 | Ancestry and background, initial proficiencies, attack of opportunity, fighter feat, shield block          |
-|            2 | Fighter feat, skill feat                                                                                   |
-|            3 | Bravery, general feat, skill increase                                                                      |
-|            4 | Fighter feat, skill feat                                                                                   |
-|            5 | Ability boosts, ancestry feat, fighter weapon mastery, skill increase                                      |
-|            6 | Fighter feat, skill feat                                                                                   |
-|            7 | Battlefield surveyor, general feat, skill increase, weapon specialization                                  |
-|            8 | Fighter feat, skill feat                                                                                   |
-|            9 | Ancestry feat, combat flexibility, juggernaut, skill increase                                              |
-|           10 | Ability boosts, fighter feat, skill feat                                                                   |
-|           11 | Armor expertise, fighter expertise, general feat, skill increase                                           |
-|           12 | Fighter feat, skill feat                                                                                   |
-|           13 | Ancestry feat, skill increase, weapon legend                                                               |
-|           14 | Fighter feat, skill feat                                                                                   |
-|           15 | Ability boosts, evasion, general feat, greater weapon specialization, improved flexibility, skill increase |
-|           16 | Fighter feat, skill feat                                                                                   |
-|           17 | Ancestry feat, armor mastery, skill increase                                                               |
-|           18 | Fighter feat, skill feat                                                                                   |
-|           19 | General feat, skill increase, versatile legend                                                             |
-|           20 | Ability boosts, fighter feat, skill feat                                                                   |
+You gain these features as a Fighter. Abilities gained at higher levels list the levels at which you gain them next to the features' names.| 0 | 1 |
+|:-----------|:-----------------------------------------------------------------------------------------------------------|
+| Your Level | Class Features |
+| 1 | Ancestry and background, initial proficiencies, attack of opportunity, fighter feat, shield block |
+| 2 | Fighter feat, skill feat |
+| 3 | Bravery, general feat, skill increase |
+| 4 | Fighter feat, skill feat |
+| 5 | Ability boosts, ancestry feat, fighter weapon mastery, skill increase |
+| 6 | Fighter feat, skill feat |
+| 7 | Battlefield surveyor, general feat, skill increase, weapon specialization |
+| 8 | Fighter feat, skill feat |
+| 9 | Ancestry feat, combat flexibility, juggernaut, skill increase |
+| 10 | Ability boosts, fighter feat, skill feat |
+| 11 | Armor expertise, fighter expertise, general feat, skill increase |
+| 12 | Fighter feat, skill feat |
+| 13 | Ancestry feat, skill increase, weapon legend |
+| 14 | Fighter feat, skill feat |
+| 15 | Ability boosts, evasion, general feat, greater weapon specialization, improved flexibility, skill increase |
+| 16 | Fighter feat, skill feat |
+| 17 | Ancestry feat, armor mastery, skill increase |
+| 18 | Fighter feat, skill feat |
+| 19 | General feat, skill increase, versatile legend |
+| 20 | Ability boosts, fighter feat, skill feat |
 
 ## Ancestry and Background
 
@@ -148,9 +148,9 @@ At 1st level you gain a number of proficiencies that represent your basic traini
 
 Ever watchful for weaknesses, you can quickly attack foes that leave an opening in their defenses. You gain the Attack of Opportunity reaction.
 
-### [[Attack of Opportunity]] <span class="action-icon">5</span>
+### [[DATABASE/action/Attack of Opportunity|Attack of Opportunity]] <span class="action-icon">5</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Trigger** A creature within your reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it’s using.
 
 ---
@@ -162,7 +162,7 @@ At 1st level and every even-numbered level thereafter, you gain a fighter class 
 
 ## Shield Block
 
-You gain the [[Shield Block]] general feat, a reaction that lets you reduce damage with your shield.
+You gain the [[DATABASE/feat/Shield Block|Shield Block]] general feat, a reaction that lets you reduce damage with your shield.
 
 ## Skill Feats<span class="item-type">Level 2</span>
 
@@ -170,7 +170,7 @@ At 2nd level and every 2 levels thereafter, you gain a skill feat. Skill feats c
 
 ## Bravery<span class="item-type">Level 3</span>
 
-Having faced countless foes and the chaos of battle, you have learned how to stand strong in the face of fear and keep on fighting. Your proficiency rank for Will saves increases to expert. When you roll a success at a Will save against a fear effect, you get a critical success instead. In addition, anytime you gain the [[Frightened]] condition, reduce its value by 1.
+Having faced countless foes and the chaos of battle, you have learned how to stand strong in the face of fear and keep on fighting. Your proficiency rank for Will saves increases to expert. When you roll a success at a Will save against a fear effect, you get a critical success instead. In addition, anytime you gain the [[DATABASE/condition/Frightened|frightened]] condition, reduce its value by 1.
 
 ## General Feats<span class="item-type">Level 3</span>
 

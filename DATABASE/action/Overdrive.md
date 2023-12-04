@@ -7,6 +7,7 @@ id: '901'
 name: Overdrive
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
@@ -19,11 +20,11 @@ type: Action
 # Overdrive <span class="action-icon">1</span>
 
 <span class="item-trait">Inventor</span><span class="item-trait">Manipulate</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Frequency** once per round
 
 ---
-Temporarily cranking the gizmos on your body into overdrive, you try to add greater power to your attacks. Attempt a [[Crafting]] check that has a standard DC for your level.
+Temporarily cranking the gizmos on your body into overdrive, you try to add greater power to your attacks. Attempt a [[DATABASE/skill/Crafting|Crafting]] check that has a standard DC for your level.
 **Critical Success** Your gizmos go into a state of incredible efficiency called critical overdrive, adding great power to your attacks. Your Strikes deal additional damage equal to your Intelligence modifier for 1 minute. After the Overdrive ends, your gizmos become unusable as they cool down or reset, and you can't use Overdrive for 1 minute.
 **Success** Your gizmos go into overdrive, adding power to your attacks. As critical success, except the additional damage is equal to half your Intelligence modifier.
 **Failure** You make a miscalculation and nothing happens.

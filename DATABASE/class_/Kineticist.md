@@ -14,6 +14,7 @@ id: '23'
 name: Kineticist
 perception_proficiency: Trained
 rarity: Common
+rus_type_level: null
 skill_proficiency:
 - Trained in Nature
 - Trained in a number of additional skills equal to 3 plus your Intelligence modifier
@@ -24,7 +25,7 @@ type: Class
 
 ---
 # Kineticist
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 _The power of the elements flows from within you. Roaring fire, pure water, fleeting air, steadfast earth, twisting wood, slicing metal. A kinetic gate inextricably tied to your body channels power directly from the elemental planes, causing elements to leap to your hand, whirl around your body, and blast foes at your whim. As your connection to the planes grows, you attain true mastery over your chosen elements._
 **Key Ability: CONSTITUTION**
 At 1st level, your class gives you an attribute boost to Constitution.
@@ -37,7 +38,7 @@ The following new key traits appear in many kineticist class features and feats.
  **Composite**: A composite impulse combines multiple elements. You can gain an impulse with the composite trait only if your kinetic elements include all the elements listed in the impulse's traits. 
 **Impulse**: The primary magical actions kineticists use are called impulses. You can use an impulse only if your kinetic aura is active and channeling that element, and only if you have a hand free to shape the elemental flow. The impulse trait means the action has the concentrate trait unless another ability changes this. If an impulse allows you to choose an element, you can choose any element you're channeling, and the impulse gains that element's trait.
  **Infusion**: Actions with the infusion trait tweak your kineticist impulses. You must use an infusion action directly before the impulse action you want to alter. If you use any action (including free actions and reactions) other than an impulse action directly after, you waste the benefits of the infusion action. Any additional effects added by an infusion action are part of the impulse's effect, not of the infusion action itself.
- Overflow: Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
+ Overflow: Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[DATABASE/action/Channel Elements|Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
  **Stance**: A stance is a general combat strategy that you enter by using an action with the stance trait and that you remain in for some time. A stance lasts until you get knocked out, until its requirements (if any) are violated, until the encounter ends, or until you enter a new stance, whichever comes first. After you use an action with the stance trait, you can't use another one for 1 round. You can enter or be in a stance only in encounter mode.
 
 ## Special Rules
@@ -45,7 +46,7 @@ The following new key traits appear in many kineticist class features and feats.
 Some rules don't come up that often but can be vital to understand when they do.
  **Made of an Element**: Some kineticist abilities work on creatures made of an element. A creature made of rock, sand, or dirt is made of earth, but a creature wearing metal armor wouldn't be considered a metal creature. If it's unclear whether a creature is made of an element, the GM decides.
  **Overlapping Kinetic Auras**: A creature that's in multiple kinetic auras at the same time is subject to the special effects of all of them. As normal for duplicate effects, a creature can't be affected by multiple copies of the same effect. For instance, if an enemy were in two fire kineticists' auras, and both kineticists had the fire kinetic aura gate junction, the creature would gain only the higher weakness from the two auras.
- **Precious Materials**: Elements you create (using Base Kinesis to generate an element, for example) must typically be ordinary materials of negligible value. You can't create precious or valuable materials like [[Silver]], gemstones, or [[Darkwood]] unless otherwise noted.
+ **Precious Materials**: Elements you create (using Base Kinesis to generate an element, for example) must typically be ordinary materials of negligible value. You can't create precious or valuable materials like [[DATABASE/equipment/Silver|silver]], gemstones, or [[DATABASE/equipment/Darkwood|duskwood]] unless otherwise noted.
 
 ## Kinetic Specialists
 
@@ -104,7 +105,7 @@ Trained in Will
 
 ## Skills
 
-Trained in [[Nature]]
+Trained in [[DATABASE/skill/Nature|Nature]]
  Trained in a number of additional skills equal to 3 plus your Intelligence modifier
 
 ## Attacks
@@ -123,30 +124,29 @@ Trained in kineticist class DC
 
 # Class Features
 
-You gain these features as a Kineticist. Abilities gained at higher levels list the levels at which you gain them next to the features' names.
-
-|   Your Level | Class Features                                                                                                                                          |
-|-------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------|
-|            1 | Ancestry and background, attribute boosts, initial proficiencies, kinetic gate, kinetic aura, impulses (Elemental Blast, Base Kinesis), kineticist feat |
-|            2 | Kineticist feat, skill feat                                                                                                                             |
-|            3 | Extract Element, general feat, skill increase, Will expertise                                                                                           |
-|            4 | Kineticist feat, skill feat                                                                                                                             |
-|            5 | Ancestry feat, attribute boosts, gate's threshold, skill increase                                                                                       |
-|            6 | Kineticist feat, skill feat                                                                                                                             |
-|            7 | General feat, kinetic durability, kinetic expertise, skill increase                                                                                     |
-|            8 | Kineticist feat, skill feat                                                                                                                             |
-|            9 | Ancestry feat, gate's threshold, perception expertise, skill increase                                                                                   |
-|           10 | Attribute boosts, kineticist feat, skill feat                                                                                                           |
-|           11 | General feat, kinetic quickness, reflow elements, skill increase, weapon expertise                                                                      |
-|           12 | Kineticist feat, skill feat                                                                                                                             |
-|           13 | Ancestry feat, gate's threshold, light armor expertise, skill increase, weapon specialization                                                           |
-|           14 | Kineticist feat, skill feat                                                                                                                             |
-|           15 | Attribute boosts, general feat, greater kinetic durability, kinetic mastery, skill increase                                                             |
-|           16 | Kineticist feat, skill feat                                                                                                                             |
-|           17 | Ancestry feat, double reflow, gate's threshold, skill increase                                                                                          |
-|           18 | Kineticist feat, skill feat                                                                                                                             |
-|           19 | Final gate, general feat, kinetic legend, light armor mastery, skill increase                                                                           |
-|           20 | Attribute boosts, kineticist feat, skill feat                                                                                                           |
+You gain these features as a Kineticist. Abilities gained at higher levels list the levels at which you gain them next to the features' names.| 0 | 1 |
+|:-----------|:--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Your Level | Class Features |
+| 1 | Ancestry and background, attribute boosts, initial proficiencies, kinetic gate, kinetic aura, impulses (Elemental Blast, Base Kinesis), kineticist feat |
+| 2 | Kineticist feat, skill feat |
+| 3 | Extract Element, general feat, skill increase, Will expertise |
+| 4 | Kineticist feat, skill feat |
+| 5 | Ancestry feat, attribute boosts, gate's threshold, skill increase |
+| 6 | Kineticist feat, skill feat |
+| 7 | General feat, kinetic durability, kinetic expertise, skill increase |
+| 8 | Kineticist feat, skill feat |
+| 9 | Ancestry feat, gate's threshold, perception expertise, skill increase |
+| 10 | Attribute boosts, kineticist feat, skill feat |
+| 11 | General feat, kinetic quickness, reflow elements, skill increase, weapon expertise |
+| 12 | Kineticist feat, skill feat |
+| 13 | Ancestry feat, gate's threshold, light armor expertise, skill increase, weapon specialization |
+| 14 | Kineticist feat, skill feat |
+| 15 | Attribute boosts, general feat, greater kinetic durability, kinetic mastery, skill increase |
+| 16 | Kineticist feat, skill feat |
+| 17 | Ancestry feat, double reflow, gate's threshold, skill increase |
+| 18 | Kineticist feat, skill feat |
+| 19 | Final gate, general feat, kinetic legend, light armor mastery, skill increase |
+| 20 | Attribute boosts, kineticist feat, skill feat |
 
 ## Ancestry And Background
 
@@ -188,15 +188,15 @@ Your kinetic gate is a harmonious conduit between two planes, allowing you to co
 Through your kinetic gate, elements flow from an elemental plane to orbit your person. The form and appearance of this kinetic aura are unique to you. Examples include a chaotic wind orbiting the body, fragments of floating gravel, colorful wicks of flame, stars of raw metal always changing shape, floating snowflakes, or splinters dancing in the air. If you can channel more than one element, pieces of all your kinetic elements appear in the aura.
  You have the Channel Elements action, which lets you activate your kinetic aura.
 
-### [[Channel Elements]] <span class="action-icon">1</span>
+### [[DATABASE/action/Channel Elements|Channel Elements]] <span class="action-icon">1</span>
 
 <span class="item-trait">Aura</span><span class="item-trait">Kineticist</span><span class="item-trait">Primal</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Requirements** Your kinetic gate isn't active.
 
 ---
-You tap into your kinetic gate to make elements flow around you. Your kinetic aura activates, and as a part of this action, you can use a 1-action [[Elemental Blast]] or a 1-action stance impulse. Your kinetic aura is a 10-foot emanation where pieces of your kinetic element (or all your kinetic elements, if you can channel more than one) flow around you. The kinetic aura can't damage anything or affect the environment around you unless another ability allows it to. Channel Elements has the traits of all your kinetic elements.
- Your kinetic aura automatically deactivates if you're [[Unconscious]], you use an impulse with the overflow trait, or you Dismiss the aura. Though you can't use new impulses while your kinetic aura is deactivated, ones you already used remain, and you can still Sustain any that can be sustained. Stance impulses are linked to your kinetic aura and end when the aura deactivates.
+You tap into your kinetic gate to make elements flow around you. Your kinetic aura activates, and as a part of this action, you can use a 1-action [[DATABASE/action/Elemental Blast|Elemental Blast]] or a 1-action stance impulse. Your kinetic aura is a 10-foot emanation where pieces of your kinetic element (or all your kinetic elements, if you can channel more than one) flow around you. The kinetic aura can't damage anything or affect the environment around you unless another ability allows it to. Channel Elements has the traits of all your kinetic elements.
+ Your kinetic aura automatically deactivates if you're [[DATABASE/condition/Unconscious|knocked out]], you use an impulse with the overflow trait, or you Dismiss the aura. Though you can't use new impulses while your kinetic aura is deactivated, ones you already used remain, and you can still Sustain any that can be sustained. Stance impulses are linked to your kinetic aura and end when the aura deactivates.
 
 ## Impulses
 
@@ -210,16 +210,16 @@ Any impulse you use is the same level you are. For instance, if you're 5th level
 
 ### Impulse Attacks And DCs
 
-An impulse that requires a saving throw uses your kineticist class DC. Some of your impulses require you to attempt an **impulse attack roll** to see how effective they are. Your impulse attack roll uses the same proficiency and attribute modifier as your kineticist class DC. Like a spell attack modifier, your impulse attack modifier uses the following formula: d20 roll + attribute modifier + proficiency bonus + other bonuses + penalties. This means your impulse attack roll is typically 10 lower than your class DC. The drained condition can reduce your impulse attack rolls and class DCs. You can acquire a [[Gate Attenuator]] to gain a bonus to your impulse attack modifier.
+An impulse that requires a saving throw uses your kineticist class DC. Some of your impulses require you to attempt an **impulse attack roll** to see how effective they are. Your impulse attack roll uses the same proficiency and attribute modifier as your kineticist class DC. Like a spell attack modifier, your impulse attack modifier uses the following formula: d20 roll + attribute modifier + proficiency bonus + other bonuses + penalties. This means your impulse attack roll is typically 10 lower than your class DC. The drained condition can reduce your impulse attack rolls and class DCs. You can acquire a [[DATABASE/equipment/Gate Attenuator|gate attenuator]] to gain a bonus to your impulse attack modifier.
 
 ### Elemental Blast
 
 The Elemental Blast impulse is a simple expression of your power, allowing you to attack with the pure matter of your kinetic element. Though each element has its own strengths and weaknesses, the basic principles to using them are the same. You can customize the appearance of your Elemental Blast and can even choose a different form each time you use the impulse.
 
-### [[Elemental Blast]] <span class="action-icon">1</span> or <span class="action-icon">2</span>
+### [[DATABASE/action/Elemental Blast|Elemental Blast]] <span class="action-icon">1</span> or <span class="action-icon">2</span>
 
 <span class="item-trait">Attack</span><span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Primal</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
 With a wave of your hand, you collect elemental matter from your aura and swing or hurl it. Choose one of your kinetic elements and a damage type listed for that element, then make a melee or ranged impulse attack against the AC of one creature. Add your Strength modifier to the damage roll for a melee Elemental Blast. If you make a 2-action Elemental Blast, you gain a status bonus to the damage roll equal to your Constitution modifier.
@@ -241,10 +241,10 @@ With a wave of your hand, you collect elemental matter from your aura and swing 
 
 The Base Kinesis impulse lets you perform simple alterations to an element.
 
-### [[Base Kinesis]] <span class="action-icon">2</span>
+### [[DATABASE/action/Base Kinesis|Base Kinesis]] <span class="action-icon">2</span>
 
 <span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Primal</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
 It's trivial for you to create some of your element or alter a portion of it that already exists. Choose one of your kinetic elements to affect. This impulse has a range of 30 feet, and the Bulk of the target must be negligible or light. The GM decides what Bulk the element is. You can't affect an element that's magical, secured in place (like a stone mortared in a wall), or attended by a creature unwilling to let you.
@@ -269,10 +269,10 @@ At 2nd level and every 2 levels thereafter, you gain a skill feat. You must be t
 
 Creatures with a strong tie to your element might be troublesome for you to deal with, at least until you've learned to turn their elemental nature to your advantage. You gain the Extract Element action.
 
-### [[Extract Elements]] <span class="action-icon">1</span>
+### [[DATABASE/action/Extract Elements|Extract Elements]] <span class="action-icon">1</span>
 
 <span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Primal</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
 You extract elemental matter from a creature's body to weaken it and take its power for your own. Target a creature within 30 feet that has a trait matching one of your kinetic elements or is made of one of your kinetic elements. The target takes 2d4 damage (with no damage type) and becomes susceptible to your impulses, depending on its Fortitude save against your class DC.
@@ -367,7 +367,7 @@ Your kinetic gate becomes even more adaptable. When you use reflow elements, you
 
 ## Final Gate<span class="item-type">Level 19</span>
 
-Your kinetic gate reaches a perfect form, its power constantly fighting to be released. If your kinetic aura is inactive, you automatically use the first action of your turn to [[Channel Elements]] as a free action. You can deliberately suppress the effect. If you're unable to act, final gate still functions, but you don't get to use the [[Elemental Blast]] or stance impulse you normally do from using Channel Elements.
+Your kinetic gate reaches a perfect form, its power constantly fighting to be released. If your kinetic aura is inactive, you automatically use the first action of your turn to [[DATABASE/action/Channel Elements|Channel Elements]] as a free action. You can deliberately suppress the effect. If you're unable to act, final gate still functions, but you don't get to use the [[DATABASE/action/Elemental Blast|Elemental Blast]] or stance impulse you normally do from using Channel Elements.
 
 ## Kinetic Legend<span class="item-type">Level 19</span>
 

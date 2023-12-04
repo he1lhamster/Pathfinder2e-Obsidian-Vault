@@ -21,6 +21,7 @@ patron_theme: null
 range: 30 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
@@ -39,7 +40,7 @@ type: Cantrip
 # Forbidden Thought<span class="item-type">Cantrip 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Cantrip</span><span class="item-trait">Enchantment</span><span class="item-trait">Mental</span><span class="item-trait">Psychic</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet; **Targets** 1 creature
 **Saving Throw** Will
@@ -51,4 +52,4 @@ You place a psychic lock in a foe's mind that prevents it from a specific action
 **Heightened (+1)** The damage increases by 1d6.
 
 ---
-**Amp** Your telepathic push is particularly shocking to those who resist it. If the target fails its save, it's also [[Stunned]].
+**Amp** Your telepathic push is particularly shocking to those who resist it. If the target fails its save, it's also [[DATABASE/condition/Stunned|stunned 1]].

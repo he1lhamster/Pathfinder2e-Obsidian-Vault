@@ -11,6 +11,7 @@ name: Blade of Justice
 prerequisite: '[[DATABASE/championtenet/Good|tenets of good]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Blade of Justice <span class="action-icon">2</span> <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Champion</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Good]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/championtenet/Good|tenets of good]]
 
 ---
-You call upon divine power and make a weapon or unarmed Strike against a foe you have witnessed harming an ally or innocent. The Strike deals two extra weapon damage dice if the target of your Strike is evil. Whether or not the target is evil, you can convert all the physical damage from the attack into good damage, and if you are a paladin, the Strike applies all effects that normally apply on a [[Retributive Strike]] (such as divine smite).
+You call upon divine power and make a weapon or unarmed Strike against a foe you have witnessed harming an ally or innocent. The Strike deals two extra weapon damage dice if the target of your Strike is evil. Whether or not the target is evil, you can convert all the physical damage from the attack into good damage, and if you are a paladin, the Strike applies all effects that normally apply on a [[DATABASE/action/Retributive Strike|Retributive Strike]] (such as divine smite).

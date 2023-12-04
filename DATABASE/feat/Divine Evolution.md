@@ -11,6 +11,7 @@ name: Divine Evolution
 prerequisite: bloodline that grants divine spells
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Divine Evolution <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Divine</span><span class="item-trait">Sorcerer</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Prerequisites** bloodline that grants divine spells
 
 ---
@@ -32,7 +33,7 @@ The divine might provided by your bloodline flows through you. You gain an addit
 
 ## Divine Evolution Leads To...
 
-[[Greater Spiritual Evolution]], [[Greater Vital Evolution]]
+[[DATABASE/feat/Greater Spiritual Evolution|Greater Spiritual Evolution]], [[DATABASE/feat/Greater Vital Evolution|Greater Vital Evolution]]
 
 ## Traits
 

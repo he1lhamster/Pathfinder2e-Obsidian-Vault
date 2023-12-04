@@ -21,6 +21,7 @@ patron_theme: null
 range: 30 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
@@ -39,8 +40,8 @@ type: Focus
 # Malicious Shadow<span class="item-type">Focus 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Evocation</span><span class="item-trait">Hex</span><span class="item-trait">Shadow</span><span class="item-trait">Witch</span>
-**Source** [[Advanced Player's Guide]] 
-**Lesson** [[Lesson of Shadow]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Lesson** [[DATABASE/witchlesson/Lesson of Shadow|lesson of shadow]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet; **Targets** 1 creature
 **Duration** sustained up to 1 minute

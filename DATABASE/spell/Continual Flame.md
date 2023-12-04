@@ -22,6 +22,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -41,7 +42,7 @@ type: Spell
 # Continual Flame<span class="item-type">Spell 2</span>
 
 <span class="item-trait">Evocation</span><span class="item-trait">Light</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, divine, occult, primal
 **Cast** <span class="action-icon">3</span> material, somatic, verbal; **Cost** 6 gp of ruby dust
 **Range** touch; **Targets** 1 object

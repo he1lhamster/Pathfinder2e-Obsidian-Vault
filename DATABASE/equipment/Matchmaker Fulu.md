@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Enchantment
 size: null
@@ -58,10 +59,10 @@ weapon_type: null
 # Matchmaker Fulu<span class="item-type">Item 3</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Enchantment</span><span class="item-trait">Fortune</span><span class="item-trait">Fulu</span><span class="item-trait">Magical</span><span class="item-trait">Talisman</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Price** 10 gp
 **Usage** affixed to armor; **Bulk** —
-**Activate** <span class="action-icon">4</span> envision **Trigger** You attempt a [[Diplomacy]] check to [[Make an Impression]].
+**Activate** <span class="action-icon">4</span> envision **Trigger** You attempt a [[DATABASE/skill/Diplomacy|Diplomacy]] check to [[DATABASE/action/Make an Impression|Make an Impression]].
 
 ---
-This red fulu contains blessings for one's relationship from [[Shelyn]], goddess of beauty and love. You get a +2 status bonus to the Diplomacy check, and if you roll a critical failure on the check, you get a failure instead.
+This red fulu contains blessings for one's relationship from [[DATABASE/deity/Shelyn|Shelyn]], goddess of beauty and love. You get a +2 status bonus to the Diplomacy check, and if you roll a critical failure on the check, you get a failure instead.

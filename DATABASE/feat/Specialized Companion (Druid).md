@@ -11,6 +11,7 @@ name: Specialized Companion (Druid)
 prerequisite: '[[DATABASE/feat/Incredible Companion (Druid)|Incredible Companion (Druid)]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Specialized Companion (Druid) <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Druid</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Incredible Companion (Druid)]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/feat/Incredible Companion (Druid)|Incredible Companion (Druid)]]
 
 ---
 Your animal companion continues to grow in power and ability, and it is now cunning enough to become specialized. Your animal companion gains one specialization of your choice.

@@ -76,23 +76,23 @@ wisdom: '+1'
 # Ghoul Crocodile
 
 This creature did not include a description.
-**Recall Knowledge - Undead ([[Religion]])**: DC 21
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 21
 **Unspecific Lore**: DC 19
 **Specific Lore**: DC 16
 
 # Ghoul Crocodile<span class="item-type">Creature 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Amphibious</span><span class="item-trait">Ghoul</span><span class="item-trait">Undead</span>
-**Source** [[Pathfinder 182. Graveclaw]]
-**Perception** +11; corpse scent (imprecise), [[Darkvision]]
-**Skills** [[Athletics]] +12, [[Stealth]] +9 (+13 in water)
+**Source** [[DATABASE/source/Pathfinder 182. Graveclaw|Pathfinder #182: Graveclaw]]
+**Perception** +11; corpse scent (imprecise), [[DATABASE/monsterability/Darkvision|darkvision]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +12, [[DATABASE/skill/Stealth|Stealth]] +9 (+13 in water)
 **Str** +4, **Dex** +1, **Con** +3, **Int** -5, **Wis** +1, **Cha** -4
 **Corpse Scent** The ghoul crocodile can smell humanoid corpses in the water up to 1 mile away.
 
 ---
 **AC** 20; **Fort** +14, **Ref** +11, **Will** +8
-**HP** 60 ([[Negative Healing]]); **Immunities** death effects, disease, [[Paralyzed]], poison, [[Unconscious]]
+**HP** 60 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects, disease, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Unconscious|unconscious]]
 
 ---
 **Speed** 20 feet, swim 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +14 [+9/+4], **Damage** 2d8+6 piercing plus ghoul fever and [[Grab]]</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> tail +14 [+10/+6] (agile), **Damage** 2d6+6 bludgeoning and paralysis</span><span class="in-box-ability">**[[Aquatic Ambush]]** <span class="action-icon">1</span> 35 feet</span><span class="in-box-ability">**Consume Flesh** <span class="action-icon">1</span> (manipulate) **Requirements** The ghoul crocodile is adjacent to the corpse of a creature that died within the last hour; **Effect** The ghoul crocodile devours a chunk of the corpse and regains 2d6 Hit Points. It can regain HP from any given corpse only once.</span><span class="in-box-ability">**Death Roll** <span class="action-icon">1</span> (attack) **Requirements** The ghoul crocodile must have a creature [[Grabbed]]; **Effect** The ghoul crocodile tucks its legs and rolls rapidly, twisting its victim. It makes a jaws Strike with a +2 circumstance bonus to the attack roll against the grabbed creature. If it hits, it also knocks the creature [[Prone]]. If it fails, it releases the creature.</span><span class="in-box-ability">**Ghoul Fever** (disease) **Saving Throw** DC 19 Fortitude; **Stage 1** carrier with no ill effect (1 day); **Stage 2** 2d6 negative damage and regains half as many Hit Points from all healing (1 day); **Stage 3** as stage 2 (1 day); **Stage 4** 2d6 negative damage and gains no benefit from healing (1 day); **Stage 5** as stage 4 (1 day); **Stage 6** dead, and rises as a [[Ghoul]] the next midnight</span><span class="in-box-ability">**Paralysis** (incapacitation, occult, necromancy) Any living non-elf creature hit by a ghoul crocodile's tail must succeed at a DC 20 Fortitude save or become [[Paralyzed]]. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +14 [+9/+4], **Damage** 2d8+6 piercing plus ghoul fever and [[DATABASE/monsterability/Grab|Grab]]</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> tail +14 [+10/+6] (agile), **Damage** 2d6+6 bludgeoning and paralysis</span><span class="in-box-ability">**[[DATABASE/monsterability/Aquatic Ambush|Aquatic Ambush]]** <span class="action-icon">1</span> 35 feet</span><span class="in-box-ability">**Consume Flesh** <span class="action-icon">1</span> (manipulate) **Requirements** The ghoul crocodile is adjacent to the corpse of a creature that died within the last hour; **Effect** The ghoul crocodile devours a chunk of the corpse and regains 2d6 Hit Points. It can regain HP from any given corpse only once.</span><span class="in-box-ability">**Death Roll** <span class="action-icon">1</span> (attack) **Requirements** The ghoul crocodile must have a creature [[DATABASE/condition/Grabbed|grabbed]]; **Effect** The ghoul crocodile tucks its legs and rolls rapidly, twisting its victim. It makes a jaws Strike with a +2 circumstance bonus to the attack roll against the grabbed creature. If it hits, it also knocks the creature [[DATABASE/condition/Prone|prone]]. If it fails, it releases the creature.</span><span class="in-box-ability">**Ghoul Fever** (disease) **Saving Throw** DC 19 Fortitude; **Stage 1** carrier with no ill effect (1 day); **Stage 2** 2d6 negative damage and regains half as many Hit Points from all healing (1 day); **Stage 3** as stage 2 (1 day); **Stage 4** 2d6 negative damage and gains no benefit from healing (1 day); **Stage 5** as stage 4 (1 day); **Stage 6** dead, and rises as a [[DATABASE/monster/Ghoul|ghoul]] the next midnight</span><span class="in-box-ability">**Paralysis** (incapacitation, occult, necromancy) Any living non-elf creature hit by a ghoul crocodile's tail must succeed at a DC 20 Fortitude save or become [[DATABASE/condition/Paralyzed|paralyzed]]. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save.</span>

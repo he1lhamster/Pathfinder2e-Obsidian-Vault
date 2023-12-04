@@ -12,6 +12,7 @@ prerequisite: null
 rarity: Common
 requirement: Your most recent action was to Cast a Spell or to [[DATABASE/action/Unleash
   Psyche|Unleashyour Psyche]] .
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -25,9 +26,9 @@ type: Feat
 # Psi Strikes <span class="action-icon">4</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Mindshift</span><span class="item-trait">Psychic</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Frequency** once per turn
-**Requirements** Your most recent action was to Cast a Spell or to [[Unleash Psyche]].
+**Requirements** Your most recent action was to Cast a Spell or to [[DATABASE/action/Unleash Psyche|Unleash your Psyche]].
 
 ---
 You siphon residual psychic energies from your spell into one weapon you're wielding or one of your unarmed attacks and when you unleash your mind, the energies flare to match. The attack deals an extra 1d6 force damage until the end of the current turn. If your Psyche is Unleashed, this benefit instead lasts until your psyche subsides.

@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Fighter Dedication|Fighter Dedication]] ; expert 
   any kind of weapon or unarmedattack'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Diverse Weapon Expert <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Fighter]]
-**Prerequisites** [[Fighter Dedication]]; expert in any kind of weapon or unarmed attack
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Fighter|Fighter]]
+**Prerequisites** [[DATABASE/feat/Fighter Dedication|Fighter Dedication]]; expert in any kind of weapon or unarmed attack
 
 ---
 Your proficiency ranks for simple weapons and martial weapons increase to expert, and your proficiency rank for advanced weapons increases to trained.

@@ -14,6 +14,7 @@ primary_check: '[[DATABASE/skill/Arcana|Arcana]] or [[DATABASE/skill/Occultism|O
 range: touch
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: Illusion
 secondary_casters: '3'
 secondary_check: Arcana or Occultism, [[DATABASE/skill/Deception|Deception]] or [[DATABASE/skill/Diplomacy|Diplomacy]]
@@ -29,9 +30,9 @@ type: Ritual
 # Mindscape Door<span class="item-type">Ritual 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Illusion</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Cast** 1 hour; **Cost** incense and focusing diagrams worth a total value of the target's level (minimum 1) × 1 gp, for each target; **Secondary Casters** 3
-**Primary Check** [[Arcana]] or [[Occultism]] (expert); **Secondary Checks** Arcana or Occultism, [[Deception]] or [[Diplomacy]], Perception
+**Primary Check** [[DATABASE/skill/Arcana|Arcana]] or [[DATABASE/skill/Occultism|Occultism]] (expert); **Secondary Checks** Arcana or Occultism, [[DATABASE/skill/Deception|Deception]] or [[DATABASE/skill/Diplomacy|Diplomacy]], Perception
 **Range** touch; **Target(s)** yourself and up to 5 willing creatures
 
 ---

@@ -2,6 +2,7 @@
 id: '202'
 name: A Few Flowers More
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -15,4 +16,4 @@ type: Source
 
 ## Equipment [2]
 
-[[Capsaicin Tonic]], [[Putrid Sack of Rotting Fruit]]
+[[DATABASE/equipment/Capsaicin Tonic|Capsaicin Tonic]], [[DATABASE/equipment/Putrid Sack of Rotting Fruit|Putrid Sack of Rotting Fruit]]

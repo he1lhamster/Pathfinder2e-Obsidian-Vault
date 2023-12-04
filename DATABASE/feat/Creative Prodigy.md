@@ -11,6 +11,7 @@ name: Creative Prodigy
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Creative Prodigy <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Ganzi</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-You have a powerful creative drive, useful for prevarication and performance. You gain the trained proficiency rank in [[Deception]] and [[Performance]]. If you are already trained in either of these skills, you become trained in a skill of your choice in its place. You also become trained in [[Lore]].
+You have a powerful creative drive, useful for prevarication and performance. You gain the trained proficiency rank in [[DATABASE/skill/Deception|Deception]] and [[DATABASE/skill/Performance|Performance]]. If you are already trained in either of these skills, you become trained in a skill of your choice in its place. You also become trained in [[DATABASE/skill/Lore|Art Lore]].
 
 ## Traits
 

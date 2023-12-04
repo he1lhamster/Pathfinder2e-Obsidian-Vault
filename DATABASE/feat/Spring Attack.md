@@ -11,6 +11,7 @@ name: Spring Attack
 prerequisite: null
 rarity: Common
 requirement: You are adjacent to an enemy.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Spring Attack <span class="action-icon">1</span> <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Fighter</span><span class="item-trait">Press</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Requirements** You are adjacent to an enemy.
 
 ---
@@ -34,4 +35,4 @@ Springing away from one foe, you Strike at another. Stride up to your Speed, but
 
 **Press:**
 
-Actions with this trait allow you to follow up earlier attacks. An action with the press trait can be used only if you are currently affected by a multiple attack penalty. Some actions with the press trait also grant an effect on a failure. The effects that are added on a failure don't apply on a critical failure. If your press action succeeds, you can choose to apply the failure effect instead. (For example, you may wish to do this when an attack deals no damage due to resistance.) Because a press action requires a multiple attack penalty, you can't use one when it's not your turn, even if you use the [[Ready]] activity.
+Actions with this trait allow you to follow up earlier attacks. An action with the press trait can be used only if you are currently affected by a multiple attack penalty. Some actions with the press trait also grant an effect on a failure. The effects that are added on a failure don't apply on a critical failure. If your press action succeeds, you can choose to apply the failure effect instead. (For example, you may wish to do this when an attack deals no damage due to resistance.) Because a press action requires a multiple attack penalty, you can't use one when it's not your turn, even if you use the [[DATABASE/equipment/Ready|Ready]] activity.

@@ -20,6 +20,7 @@ patron_theme: null
 range: 30 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: basicFortitude
 school: Necromancy
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -37,8 +38,8 @@ type: Focus
 # Drain Life<span class="item-type">Focus 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Necromancy</span><span class="item-trait">Negative</span><span class="item-trait">Sorcerer</span>
-**Source** [[Core Rulebook]] 
-**Bloodline** [[Undead]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Bloodline** [[DATABASE/sorcererbloodline/Undead|undead]]
 **Cast** <span class="action-icon">1</span> somatic
 **Range** 30 feet; **Targets** 1 living creature
 **Saving Throw** basic Fortitude

@@ -83,25 +83,25 @@ wisdom: '+2'
 # Swordkeeper
 
 Collectors who want to guard their magical arsenals procure or build swordkeepers. These constructs are equal parts display case and security system, each holding a single weapon within its body and projecting copies of the weapon it stores to deter would-be thieves.
-**Recall Knowledge - Construct ([[Arcana]], [[Crafting]])**: DC 27
+**Recall Knowledge - Construct ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Crafting|Crafting]])**: DC 27
 **Unspecific Lore**: DC 25
 **Specific Lore**: DC 22
 
 # Swordkeeper<span class="item-type">Creature 10</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Construct</span><span class="item-trait">Mindless</span>
-**Source** [[Bestiary 3]]
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
 **Perception** +20
-**Languages** [[Common]]
-**Skills** [[Acrobatics]] +21, [[Athletics]] +23
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +21, [[DATABASE/skill/Athletics|Athletics]] +23
 **Str** +7, **Dex** +5, **Con** +5, **Int** -5, **Wis** +2, **Cha** -5
-**Central Weapon** A swordkeeper's torso houses a single weapon of a level no higher than the swordkeeper. While the swordkeeper is operational, the chamber requires four successful DC 32 [[Thievery]] checks to [[Disable a Device]] to open; on a critical failure, the backlash deals 6d6 force damage (DC 30 basic Reflex save) to the creature attempting the check. If the swordkeeper is [[Immobilized]], [[Grabbed]], [[Prone]], or [[Stunned]], both DCs are reduced by 2. If the weapon is removed, the swordkeeper's echoblades vanish.
-**Items** _+1 [[Striking]] [[Disrupting]] [[Longsword]]_
+**Central Weapon** A swordkeeper's torso houses a single weapon of a level no higher than the swordkeeper. While the swordkeeper is operational, the chamber requires four successful DC 32 [[DATABASE/skill/Thievery|Thievery]] checks to [[DATABASE/action/Disable a Device|Disable a Device]] to open; on a critical failure, the backlash deals 6d6 force damage (DC 30 basic Reflex save) to the creature attempting the check. If the swordkeeper is [[DATABASE/condition/Immobilized|immobilized]], [[DATABASE/condition/Grabbed|grabbed]], [[DATABASE/condition/Prone|prone]], or [[DATABASE/condition/Stunned|stunned]], both DCs are reduced by 2. If the weapon is removed, the swordkeeper's echoblades vanish.
+**Items** _+1 [[DATABASE/equipment/Striking|striking]] [[DATABASE/equipment/Disrupting|disrupting]] [[DATABASE/weapon/Longsword|longsword]]_
 
 ---
 **AC** 29 (31 with guard raised); **Fort** +21, **Ref** +19, **Will** +14
-**HP** 285; **Immunities** death effects, disease, [[Doomed]], [[Drained]], [[Fatigued]], healing, mental, necromancy, nonlethal attacks, [[Paralyzed]], poison
-<span class="in-box-ability">**[[Attack of Opportunity]] <span class="action-icon">5</span> ** </span>
+**HP** 285; **Immunities** death effects, disease, [[DATABASE/condition/Doomed|doomed]], [[DATABASE/condition/Drained|drained]], [[DATABASE/condition/Fatigued|fatigued]], healing, mental, necromancy, nonlethal attacks, [[DATABASE/condition/Paralyzed|paralyzed]], poison
+<span class="in-box-ability">**[[DATABASE/monsterability/Attack of Opportunity|Attack of Opportunity]] <span class="action-icon">5</span> ** </span>
 
 ---
 **Speed** 20 feet

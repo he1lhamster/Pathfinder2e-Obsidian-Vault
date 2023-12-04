@@ -84,20 +84,20 @@ wisdom: '+3'
 # Morlock Cultist
 
 Morlocks who serve as priests in their conclaves usually dabble in eerie occult magic.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 21
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 21
 **Unspecific Lore**: DC 19
 **Specific Lore**: DC 16
 
 # Morlock Cultist<span class="item-type">Creature 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Humanoid</span><span class="item-trait">Morlock</span>
-**Source** [[Pathfinder 163. Ruins of Gauntlight]]
-**Perception** +11; [[Darkvision]]
-**Languages** [[Aklo]], [[Undercommon]]
-**Skills** [[Acrobatics]] +10, [[Athletics]] +11 (+13 [[Climb]]), [[Crafting]] +11 ([[Repair]] only), [[Occultism]] +13, [[Stealth]] +11
+**Source** [[DATABASE/source/Pathfinder 163. Ruins of Gauntlight|Pathfinder #163: Ruins of Gauntlight]]
+**Perception** +11; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Aklo|Aklo]], [[DATABASE/language/Undercommon|Undercommon]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +10, [[DATABASE/skill/Athletics|Athletics]] +11 (+13 [[DATABASE/action/Climb|Climbing]]), [[DATABASE/skill/Crafting|Crafting]] +11 ([[DATABASE/action/Repair|Repair]] only), [[DATABASE/skill/Occultism|Occultism]] +13, [[DATABASE/skill/Stealth|Stealth]] +11
 **Str** +3, **Dex** +3, **Con** +1, **Int** +5, **Wis** +3, **Cha** +0
-**[[Light Blindness]]** 
-**Items** [[Club]]
+**[[DATABASE/monsterability/Light Blindness|Light Blindness]]** 
+**Items** [[DATABASE/weapon/Club|club]]
 
 ---
 **AC** 21; **Fort** +9, **Ref** +11, **Will** +11; +2 status to all saves vs. disease and poison
@@ -105,8 +105,8 @@ Morlocks who serve as priests in their conclaves usually dabble in eerie occult 
 
 ---
 **Speed** 30 feet, climb 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> club +11 [+6/+1], **Damage** 1d6+5 bludgeoning</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +11 [+7/+3] (agile), **Damage** 1d4+5 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> club +13 [+8/+3] (range increment 10 feet), **Damage** 1d6+5 bludgeoning</span>**Occult Innate Spells** DC 21, attack +13; **2nd** _[[Mirror Image]]_, _[[Phantom Pain]]_, _[[Telekinetic Maneuver]]_; **1st** _[[Bane]]_, _[[Grim Tendrils]]_, _[[Ray of Enfeeblement]]_; **Cantrips** **(2nd)** _[[Daze]]_, _[[Ghost Sound]]_, _[[Shield]]_, _[[Telekinetic Projectile]]_
-<span class="in-box-ability">**Occult Attack** <span class="action-icon">2</span> The morlock cultist Strides up to half its speed, ignoring difficult terrain caused by natural cavern features like rubble or stalagmites. At any point during its movement, the morlock cultist can Cast a Spell that normally takes two actions or fewer to cast.</span><span class="in-box-ability">**[[Sneak Attack]]** The morlock deals an extra 1d6 precision damage to flat-footed creatures.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> club +11 [+6/+1], **Damage** 1d6+5 bludgeoning</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +11 [+7/+3] (agile), **Damage** 1d4+5 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> club +13 [+8/+3] (range increment 10 feet), **Damage** 1d6+5 bludgeoning</span>**Occult Innate Spells** DC 21, attack +13; **2nd** _[[DATABASE/spell/Mirror Image|mirror image]]_, _[[DATABASE/spell/Phantom Pain|phantom pain]]_, _[[DATABASE/spell/Telekinetic Maneuver|telekinetic maneuver]]_; **1st** _[[DATABASE/spell/Bane|bane]]_, _[[DATABASE/spell/Grim Tendrils|grim tendrils]]_, _[[DATABASE/spell/Ray of Enfeeblement|ray of enfeeblement]]_; **Cantrips** **(2nd)** _[[DATABASE/spell/Daze|daze]]_, _[[DATABASE/spell/Ghost Sound|ghost sound]]_, _[[DATABASE/spell/Shield|shield]]_, _[[DATABASE/spell/Telekinetic Projectile|telekinetic projectile]]_
+<span class="in-box-ability">**Occult Attack** <span class="action-icon">2</span> The morlock cultist Strides up to half its speed, ignoring difficult terrain caused by natural cavern features like rubble or stalagmites. At any point during its movement, the morlock cultist can Cast a Spell that normally takes two actions or fewer to cast.</span><span class="in-box-ability">**[[DATABASE/monsterability/Sneak Attack|Sneak Attack]]** The morlock deals an extra 1d6 precision damage to flat-footed creatures.</span>
 
 ###  Morlock Cults
 

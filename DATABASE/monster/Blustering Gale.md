@@ -88,30 +88,30 @@ wisdom: '+1'
 
 Blustering gales are among the least of air elementals: spirits of the small breezes who sometimes arise in the wake of mightier creatures, like the downdraft of a swallow's wing or the sharp expulsion of a vigorous cough. Unwilling or unable to act effectively alone, they form into “gales,” collections of weak elementals that use their combined power to hurl insults and pummel those who defy them in a misguided attempt to rise above their humble origins.
  Together, they force other creatures to do their bidding, then move on when they grow bored. While most gales claim their abandoned minions were useless, in truth, blustering gales lack the commanding presence and confidence to retain vassals for long.
-**Recall Knowledge - Elemental ([[Arcana]], [[Nature]])**: DC 28
+**Recall Knowledge - Elemental ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 28
 **Unspecific Lore**: DC 26
 **Specific Lore**: DC 23
 
 # Blustering Gale<span class="item-type">Creature 11</span>
 
 <span class="trait-size item-trait">Gargantuan</span><span class="item-trait">Air</span><span class="item-trait">Elemental</span><span class="item-trait">Troop</span>
-**Source** [[Rage of Elements]]
-**Perception** +20; [[Darkvision]]
-**Languages** [[Sussuran]]
-**Skills** [[Acrobatics]] +20, [[Athletics]] +22, [[Intimidation]] +22, [[Stealth]] +18
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
+**Perception** +20; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Sussuran|Sussuran]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +20, [[DATABASE/skill/Athletics|Athletics]] +22, [[DATABASE/skill/Intimidation|Intimidation]] +22, [[DATABASE/skill/Stealth|Stealth]] +18
 **Str** +7, **Dex** +5, **Con** +3, **Int** +0, **Wis** +1, **Cha** +5
 
 ---
 **AC** 30; **Fort** +22, **Ref** +24, **Will** +18
-**HP** 150 (16 squares); **Thresholds** 100 (12 squares), 50 (8 squares); **Immunities** bleed, [[Paralyzed]], poison, sleep; **Weaknesses** area damage 10, splash damage 10
-<span class="in-box-ability">**Bullying Bluster** (auditory, aura, emotion, mental, linguistic) 30 feet. The blustering gale constantly unleashes a tirade of insults and aggressive taunts. Each enemy who enters or starts their turn in the aura must succeed at a DC 30 Will save or become [[Stupefied]] for as long as they remain within the aura (stupefied 2 on a critical failure). The troop's members are collectively able to mimic a few curse words or insults in every language, allowing their Bullying Bluster to affect any creature who understands a language. A creature who succeeds at its save is temporarily immune for 1 hour. The blustering gale can activate or deactivate the aura with a free action, which has the concentrate trait.</span><span class="in-box-ability">**[[Troop Defenses]]** </span>
+**HP** 150 (16 squares); **Thresholds** 100 (12 squares), 50 (8 squares); **Immunities** bleed, [[DATABASE/condition/Paralyzed|paralyzed]], poison, sleep; **Weaknesses** area damage 10, splash damage 10
+<span class="in-box-ability">**Bullying Bluster** (auditory, aura, emotion, mental, linguistic) 30 feet. The blustering gale constantly unleashes a tirade of insults and aggressive taunts. Each enemy who enters or starts their turn in the aura must succeed at a DC 30 Will save or become [[DATABASE/condition/Stupefied|stupefied 1]] for as long as they remain within the aura (stupefied 2 on a critical failure). The troop's members are collectively able to mimic a few curse words or insults in every language, allowing their Bullying Bluster to affect any creature who understands a language. A creature who succeeds at its save is temporarily immune for 1 hour. The blustering gale can activate or deactivate the aura with a free action, which has the concentrate trait.</span><span class="in-box-ability">**[[DATABASE/monsterability/Troop Defenses|Troop Defenses]]** </span>
 
 ---
 **Speed** 25 feet, fly 60 feet; troop movement
-<span class="in-box-ability">**[[Form Up]]** <span class="action-icon">1</span> </span><span class="in-box-ability">**Pummeling Winds** <span class="action-icon">1</span> to <span class="action-icon">3</span> **Frequency** once per round; **Effect** The blustering gale bashes, batters, and pummels each adjacent enemy (DC 27 basic Reflex save). The damage depends on the number of actions.
+<span class="in-box-ability">**[[DATABASE/monsterability/Form Up|Form Up]]** <span class="action-icon">1</span> </span><span class="in-box-ability">**Pummeling Winds** <span class="action-icon">1</span> to <span class="action-icon">3</span> **Frequency** once per round; **Effect** The blustering gale bashes, batters, and pummels each adjacent enemy (DC 27 basic Reflex save). The damage depends on the number of actions.
  <span class="action-icon">1</span> 1d8+2 bludgeoning damage
  <span class="action-icon">2</span> 2d8+12 bludgeoning damage
- <span class="action-icon">3</span> 3d8+15 bludgeoning damage</span><span class="in-box-ability">**Troop Movement** Whenever a troop Flies or Strides, it first Forms Up as a free action to condense into a 20-foot-by-20-foot area (minus any missing squares), then moves up to its Speed. This works just like a Gargantuan creature moving; for instance, if any square of the troop enters difficult terrain, the extra movement cost applies to the whole troop.</span><span class="in-box-ability">**Windstorm** <span class="action-icon">2</span> (air) The blustering gale exhales as a unit, creating a powerful windstorm. This windstorm is a 10-foot burst within 100 feet that deals 3d8+10 bludgeoning damage (DC 30 basic Reflex save). Creatures that fail their saving throw are pushed 10 feet in any direction (plus knocked [[Prone]] on a critical failure). When the troop is reduced to 8 or fewer squares, this area decreases to a 5-foot burst and the distance pushed decreases to 5 feet.</span>
+ <span class="action-icon">3</span> 3d8+15 bludgeoning damage</span><span class="in-box-ability">**Troop Movement** Whenever a troop Flies or Strides, it first Forms Up as a free action to condense into a 20-foot-by-20-foot area (minus any missing squares), then moves up to its Speed. This works just like a Gargantuan creature moving; for instance, if any square of the troop enters difficult terrain, the extra movement cost applies to the whole troop.</span><span class="in-box-ability">**Windstorm** <span class="action-icon">2</span> (air) The blustering gale exhales as a unit, creating a powerful windstorm. This windstorm is a 10-foot burst within 100 feet that deals 3d8+10 bludgeoning damage (DC 30 basic Reflex save). Creatures that fail their saving throw are pushed 10 feet in any direction (plus knocked [[DATABASE/condition/Prone|prone]] on a critical failure). When the troop is reduced to 8 or fewer squares, this area decreases to a 5-foot burst and the distance pushed decreases to 5 feet.</span>
 
 ###  Lackeys
 

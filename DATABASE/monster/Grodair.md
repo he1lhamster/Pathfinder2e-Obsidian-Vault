@@ -93,18 +93,18 @@ wisdom: '+2'
 Grodairs are bizarre fishlike creature native to the First World. Their supernatural physiology includes a strange organ with an extradimensional space capable of storing thousands of gallons of water. This grants grodairs the ability to create a suitable environment for themselves anywhere by releasing the water, quickly transforming any surrounding land into a shallow bog. When grodairs wish to leave for a new location, they simply suck up all the water back up. When necessary, grodairs can also travel on land by walking upon the tangle of long, fleshy tentacles that dangle from their bellies.
  Grodairs have two sets of eyes that function independently. While this makes the creatures difficult to surprise, it also makes them easy to distract. During conversations, they have a tendency to lose focus quickly and have difficulty remembering things. Still, they are avid conversationalists and enjoy hearing tales about the world. While this quality makes grodairs quite likable, they aren't reliable. They have difficulty following plans or schedules, and they can keep a secret only if they happen to forget it first. For these reasons, grodairs don't always make the best allies.
  Grodairs are voracious and curious omnivores who love trying new foods—in fact, the pursuit of new and interesting food is the most common reason that they venture out of First World. They can also capture and store within their throats any small animals and plants easily suspended in water, and eject them for consumption at a later time.
-**Recall Knowledge - Beast ([[Arcana]], [[Nature]])**: DC 20
-**Recall Knowledge - Fey ([[Nature]])**: DC 20
+**Recall Knowledge - Beast ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 20
+**Recall Knowledge - Fey ([[DATABASE/skill/Nature|Nature]])**: DC 20
 **Unspecific Lore**: DC 18
 **Specific Lore**: DC 15
 
 # Grodair<span class="item-type">Creature 5</span>
 
 <span class="trait-alignment item-trait">CN</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Amphibious</span><span class="item-trait">Beast</span><span class="item-trait">Fey</span><span class="item-trait">Water</span>
-**Source** [[Bestiary 2]] 
-**Perception** +13; [[Darkvision]]
-**Languages** [[Aquan]], [[Sylvan]]
-**Skills** [[Athletics]] +13, [[Nature]] +13, [[Survival]] +11
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +13; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Aquan|Aquan]], [[DATABASE/language/Sylvan|Sylvan]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +13, [[DATABASE/skill/Nature|Nature]] +13, [[DATABASE/skill/Survival|Survival]] +11
 **Str** +4, **Dex** +2, **Con** +4, **Int** +1, **Wis** +2, **Cha** +2
 
 ---
@@ -114,9 +114,9 @@ Grodairs are bizarre fishlike creature native to the First World. Their supernat
 
 ---
 **Speed** 25 feet, swim 50 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +15 [+10/+5], **Damage** 2d8+7 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> tentacle +15 [+10/+5], **Damage** 1d10+7 bludgeoning plus [[Knockdown]]</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> water jet +13 [+8/+3] (range increment 60 feet), **Damage** 3d6 bludgeoning plus [[Push]] 10 feet</span>**Primal Innate Spells** DC 22; **5th** _[[Control Water]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +15 [+10/+5], **Damage** 2d8+7 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> tentacle +15 [+10/+5], **Damage** 1d10+7 bludgeoning plus [[DATABASE/monsterability/Knockdown|Knockdown]]</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> water jet +13 [+8/+3] (range increment 60 feet), **Damage** 3d6 bludgeoning plus [[DATABASE/monsterability/Push|Push]] 10 feet</span>**Primal Innate Spells** DC 22; **5th** _[[DATABASE/spell/Control Water|control water]]_
 <span class="in-box-ability">**Muddy Field** <span class="action-icon">1</span> (primal, transmutation, water) The grodair transforms all soil, sand, or similar sediment in a 10-foot emanation into mud for 1 round. This mud is difficult terrain for creatures other than grodairs.</span><span class="in-box-ability">**Organ of Endless Water** <span class="action-icon">1</span> (conjuration, manipulate, primal, water) The grodair causes water to pour from a magical sac on its spine, either a stream of water at a rate of 1 gallon per round, or a fountain in a 5-foot-long stream at a rate of 5 gallons per round. It can stop the flow of water as a single action.</span>
 
 ###  Grodair Treasure
 
-Amid the vile, rubbery entrails of an exploded grodair is a bizarre cluster of tubular organs about the size of a melon that serves as its extradimensional water storage. Harvesting the organ cluster takes 5 minutes and a successful DC 22 [[Survival]] check. For the next 2d6 hours, the cluster can then be used produce either the “stream” or the “fountain” effect of a [[Decanter of Endless Water]]. On a critical failure to harvest the organ cluster, it bursts and deals 2d6 bludgeoning damage to the harvester.
+Amid the vile, rubbery entrails of an exploded grodair is a bizarre cluster of tubular organs about the size of a melon that serves as its extradimensional water storage. Harvesting the organ cluster takes 5 minutes and a successful DC 22 [[DATABASE/skill/Survival|Survival]] check. For the next 2d6 hours, the cluster can then be used produce either the “stream” or the “fountain” effect of a [[DATABASE/equipment/Decanter of Endless Water|decanter of endless water]]. On a critical failure to harvest the organ cluster, it bursts and deals 2d6 bludgeoning damage to the harvester.

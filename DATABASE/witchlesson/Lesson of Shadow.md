@@ -2,6 +2,7 @@
 id: '7'
 name: Lesson of Shadow
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 trait: null
 type: Witch Lesson
@@ -9,6 +10,6 @@ type: Witch Lesson
 ---
 # Lesson of Shadow
 
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Lesson Type** Greater
-You gain the _[[Malicious Shadow]]_ hex, and your familiar learns _[[Chilling Darkness]]_.
+You gain the _[[DATABASE/spell/Malicious Shadow|malicious shadow]]_ hex, and your familiar learns _[[DATABASE/spell/Chilling Darkness|chilling darkness]]_.

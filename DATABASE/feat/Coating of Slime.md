@@ -11,6 +11,7 @@ name: Coating of Slime
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Coating of Slime <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Fleshwarp</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-An acidic ooze coats your limbs. Your unarmed attacks deal an additional 1d4 [[Persistent Damage]] on a critical hit.
+An acidic ooze coats your limbs. Your unarmed attacks deal an additional 1d4 [[DATABASE/condition/Persistent Damage|persistent acid damage]] on a critical hit.
 
 ## Traits
 

@@ -11,6 +11,7 @@ name: Slippery Secrets
 prerequisite: Master in [[DATABASE/skill/Deception|Deception]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: deception
@@ -24,8 +25,8 @@ type: Feat
 # Slippery Secrets <span class="item-type">Feat 7</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** master in [[Deception]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** master in [[DATABASE/skill/Deception|Deception]]
 
 ---
 You elude and evade attempts to uncover your true nature or intentions. When a spell or magical effect tries to read your mind, detect whether you are lying, or reveal your alignment, you can attempt a Deception check against the spell or effect’s DC. If you succeed, the effect reveals nothing.

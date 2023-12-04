@@ -66,24 +66,24 @@ wisdom: '+4'
 # Talon Peak Roc
 
 This creature did not include a description.
-**Recall Knowledge - Animal ([[Nature]])**: DC 40
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 40
 **Unspecific Lore**: DC 38
 **Specific Lore**: DC 35
 
 # Talon Peak Roc<span class="item-type">Creature 12</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Gargantuan</span><span class="item-trait">Animal</span>
-**Source** [[Kingmaker Adventure Path]]
-Variant [[Roc]]
-**Perception** +22; [[Low-Light Vision]]
-**Skills** [[Acrobatics]] +20, [[Athletics]] +24
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
+Variant [[DATABASE/monster/Roc|roc]]
+**Perception** +22; [[DATABASE/monsterability/Low-Light Vision|low-light vision]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +20, [[DATABASE/skill/Athletics|Athletics]] +24
 **Str** +8, **Dex** +5, **Con** +7, **Int** -4, **Wis** +4, **Cha** +0
 
 ---
 **AC** 33; **Fort** +25, **Ref** +23, **Will** +20
 **HP** 220
-<span class="in-box-ability">**Wing Rebuff <span class="action-icon">5</span> ** **Trigger** A creature moves from beyond the reach of the roc's wing to within the reach of the roc's wing; **Effect** The roc makes a wing Strike against the triggering creature. If the roc [[Push]] the creature, it disrupts the triggering move action.</span>
+<span class="in-box-ability">**Wing Rebuff <span class="action-icon">5</span> ** **Trigger** A creature moves from beyond the reach of the roc's wing to within the reach of the roc's wing; **Effect** The roc makes a wing Strike against the triggering creature. If the roc [[DATABASE/monsterability/Push|Pushes]] the creature, it disrupts the triggering move action.</span>
 
 ---
 **Speed** 20 feet, fly 60 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> beak +26 [+21/+16] (reach 15 feet), **Damage** 3d12+12 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> talon +26 [+22/+18] (agile, reach 15 feet), **Damage** 3d8+12 slashing plus [[Improved Grab]]</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> wing +26 [+22/+18] (agile, reach 30 feet), **Damage** 2d8+12 bludgeoning plus [[Improved Push]] 10 feet</span><span class="in-box-ability">**Flying Strafe** <span class="action-icon">2</span> The roc [[Fly]] up to its Speed and makes two talon Strikes at any point during that movement. Each Strike must target a different creature. Each attack takes the normal multiple attack penalty.</span><span class="in-box-ability">**Snack** The roc gains a +2 circumstance bonus to hit with its beak if the target is [[Grabbed]] or [[Restrained]] in its talon.</span><span class="in-box-ability">**Snatch** The Talon Peak roc can Fly at half Speed while it has a creature [[Grabbed]] or [[Restrained]] in either or both of its talons, carrying that creature along with it.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> beak +26 [+21/+16] (reach 15 feet), **Damage** 3d12+12 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> talon +26 [+22/+18] (agile, reach 15 feet), **Damage** 3d8+12 slashing plus [[DATABASE/monsterability/Improved Grab|Improved Grab]]</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> wing +26 [+22/+18] (agile, reach 30 feet), **Damage** 2d8+12 bludgeoning plus [[DATABASE/monsterability/Improved Push|Improved Push]] 10 feet</span><span class="in-box-ability">**Flying Strafe** <span class="action-icon">2</span> The roc [[DATABASE/action/Fly|Flies]] up to its Speed and makes two talon Strikes at any point during that movement. Each Strike must target a different creature. Each attack takes the normal multiple attack penalty.</span><span class="in-box-ability">**Snack** The roc gains a +2 circumstance bonus to hit with its beak if the target is [[DATABASE/condition/Grabbed|grabbed]] or [[DATABASE/condition/Restrained|restrained]] in its talon.</span><span class="in-box-ability">**Snatch** The Talon Peak roc can Fly at half Speed while it has a creature [[DATABASE/condition/Grabbed|grabbed]] or [[DATABASE/condition/Restrained|restrained]] in either or both of its talons, carrying that creature along with it.</span>

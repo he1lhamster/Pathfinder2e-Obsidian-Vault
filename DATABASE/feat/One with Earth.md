@@ -11,6 +11,7 @@ name: One with Earth
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # One with Earth <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Oread</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
 You've learned to harness your connection to the earth to travel through it. You gain a burrow Speed of 15 feet.
@@ -32,4 +33,4 @@ You've learned to harness your connection to the earth to travel through it. You
 
 **Oread:**
 
-Oreads are planar scions descended from [[Shaitan]].
+Oreads are planar scions descended from [[DATABASE/monster/Shaitan|shaitans]].

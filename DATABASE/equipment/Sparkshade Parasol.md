@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Sparkshade Parasol<span class="item-type">Item 11</span>
 
 <span class="item-trait">Fire</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Price** 1,200 gp
 **Usage** held in 1 hand; **Bulk** 1
 

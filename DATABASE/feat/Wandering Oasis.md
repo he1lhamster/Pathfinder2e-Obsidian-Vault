@@ -11,6 +11,7 @@ name: Wandering Oasis
 prerequisite: Master in [[DATABASE/skill/Survival|Survival]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Wandering Oasis <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Druid</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** master in [[Survival]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** master in [[DATABASE/skill/Survival|Survival]]
 
 ---
-You're surrounded by soothing energy. You and allies within 60 feet of you are protected from severe environmental heat and cold. If you're legendary in [[Survival]], you and those allies are also protected from extreme environmental heat and cold.
+You're surrounded by soothing energy. You and allies within 60 feet of you are protected from severe environmental heat and cold. If you're legendary in [[DATABASE/skill/Survival|Survival]], you and those allies are also protected from extreme environmental heat and cold.

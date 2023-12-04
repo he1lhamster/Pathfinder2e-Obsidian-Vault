@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -58,10 +59,10 @@ weapon_type: null
 # Firecracker Fulu<span class="item-type">Item 1</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Consumable</span><span class="item-trait">Evocation</span><span class="item-trait">Fulu</span><span class="item-trait">Magical</span><span class="item-trait">Talisman</span>
-**Source** [[Pathfinder 196. The Summer That Never Was]]
+**Source** [[DATABASE/source/Pathfinder 196. The Summer That Never Was|Pathfinder #196: The Summer That Never Was]]
 **Price** 4 gp
 **Usage** affixed to a weapon; **Bulk** —
 **Activate** <span class="action-icon">4</span> envision **Trigger** You critically succeed at an attack roll with the affixed weapon.
 
 ---
-The fulu explodes and showers the area with bright sparks. The creature struck takes an additional 1d4 sonic damage and must succeed at a DC 15 Fortitude save or be [[Dazzled]] for 1 round (or dazzled for 1 minute on a critical failure).
+The fulu explodes and showers the area with bright sparks. The creature struck takes an additional 1d4 sonic damage and must succeed at a DC 15 Fortitude save or be [[DATABASE/condition/Dazzled|dazzled]] for 1 round (or dazzled for 1 minute on a critical failure).

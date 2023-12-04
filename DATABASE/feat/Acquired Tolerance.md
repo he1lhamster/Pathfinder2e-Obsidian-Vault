@@ -11,6 +11,7 @@ name: Acquired Tolerance
 prerequisite: '[[DATABASE/feat/Poisoner Dedication|Poisoner Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,13 +25,13 @@ type: Feat
 # Acquired Tolerance <span class="action-icon">5</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Fortune</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Poisoner]]
-**Prerequisites** [[Poisoner Dedication]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Poisoner|Poisoner]]
+**Prerequisites** [[DATABASE/feat/Poisoner Dedication|Poisoner Dedication]]
 **Trigger** You fail a save against a poison.
 
 ---
-A small amount of poison, taken at nonlethal doses, can help the body build up a resistance against a more deadly dosage. Reroll the triggering check and use the second result. Once you use Acquired Tolerance, you can continue to use it against the same type of poison that day, but you can't use it against a different type of poison until after you make your next daily preparations. For instance, if you used the reaction on a save against [[Giant Scorpion Venom]], you could use it again against giant scorpion venom even if it came from a different source, but you couldn't use it against [[Nettleweed Residue]], [[Lich Dust]], or another poison.
+A small amount of poison, taken at nonlethal doses, can help the body build up a resistance against a more deadly dosage. Reroll the triggering check and use the second result. Once you use Acquired Tolerance, you can continue to use it against the same type of poison that day, but you can't use it against a different type of poison until after you make your next daily preparations. For instance, if you used the reaction on a save against [[DATABASE/equipment/Giant Scorpion Venom|giant scorpion venom]], you could use it again against giant scorpion venom even if it came from a different source, but you couldn't use it against [[DATABASE/equipment/Nettleweed Residue|nettleweed residue]], [[DATABASE/equipment/Lich Dust|lich dust]], or another poison.
 
 ## Traits
 

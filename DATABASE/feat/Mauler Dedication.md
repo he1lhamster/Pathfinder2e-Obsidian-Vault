@@ -11,6 +11,7 @@ name: Mauler Dedication
 prerequisite: Strength 14
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Mauler Dedication <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Dedication</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Mauler]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Mauler|Mauler]]
 **Prerequisites** Strength 14
 
 ---
@@ -34,7 +35,7 @@ You specialize in weapons that require two hands. You become trained in all simp
 
 ## Mauler Dedication Leads To...
 
-[[Avalanche Strike]], [[Clear the Way]], [[Hammer Quake]], [[Shoving Sweep]]
+[[DATABASE/feat/Avalanche Strike|Avalanche Strike]], [[DATABASE/feat/Clear the Way|Clear the Way]], [[DATABASE/feat/Hammer Quake|Hammer Quake]], [[DATABASE/feat/Shoving Sweep|Shoving Sweep]]
 
 ## Traits
 

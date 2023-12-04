@@ -28,6 +28,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -46,10 +47,10 @@ type: Spell
 # Fly<span class="item-type">Spell 4</span>
 
 <span class="item-trait">Transmutation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult, primal
 **Spell List** elemental
-**Deities** [[Desna]], [[Pazuzu]], [[Ranginori]], [[Sky Keepers]], [[Wadjet]], [[Ylimancha]]
+**Deities** [[DATABASE/deity/Desna|Desna]], [[DATABASE/deity/Pazuzu|Pazuzu]], [[DATABASE/deity/Ranginori|Ranginori]], [[DATABASE/deity/Sky Keepers|Sky Keepers]], [[DATABASE/deity/Wadjet|Wadjet]], [[DATABASE/deity/Ylimancha|Ylimancha]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** touch; **Targets** 1 creature
 **Duration** 5 minutes

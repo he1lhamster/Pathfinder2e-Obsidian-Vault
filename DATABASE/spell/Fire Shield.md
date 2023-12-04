@@ -32,6 +32,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -49,9 +50,9 @@ type: Spell
 # Fire Shield<span class="item-type">Spell 4</span>
 
 <span class="item-trait">Evocation</span><span class="item-trait">Fire</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, primal
-**Deities** [[Atreia]], [[Chohar]], [[Folgrit]], [[Iomedae]], [[Milani]], [[Ragathiel]], [[Sorrow's Sword]], [[The Godclaw]]
+**Deities** [[DATABASE/deity/Atreia|Atreia]], [[DATABASE/deity/Chohar|Chohar]], [[DATABASE/deity/Folgrit|Folgrit]], [[DATABASE/deity/Iomedae|Iomedae]], [[DATABASE/deity/Milani|Milani]], [[DATABASE/deity/Ragathiel|Ragathiel]], [[DATABASE/deity/Sorrow's Sword|Sorrow's Sword]], [[DATABASE/deity/The Godclaw|The Godclaw]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Duration** 1 minute
 

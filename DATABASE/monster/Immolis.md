@@ -97,19 +97,19 @@ Most complex organisms, whether plant or animal, produce energy by converting fu
  An immolis's basic shape resembles that of a spidery, spindly frog covered in delicate scales. The head has a simian muzzle, the lips of which pull back to reveal a squid-like beak. Above the mouth, the creature has three pairs of nostrils, which fare and chuff as the creature hunts. Though they walk with a hunch, immolises climb with shocking speed.
  Unlike many other pyro-predators, immolises have a deep and paradoxical fear of fire, perhaps because they know how easily any flesh— their own included—can blacken and burn. As a result, they prefer to lair near water. This presents its own problem, however, as their heat sense is easily disrupted by creatures taking steps to hide their heat signatures, such as submerging themselves in water or snow. While intelligent enough to communicate and band together with others of their kind, immolises view all other species as either prey or threats and have as little interest in cultural exchange as in personal possessions.
  The average immolis stands 5 feet tall and weighs 150 pounds.
-**Recall Knowledge - Beast ([[Arcana]], [[Nature]])**: DC 20
+**Recall Knowledge - Beast ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 20
 **Unspecific Lore**: DC 18
 **Specific Lore**: DC 15
 
 # Immolis<span class="item-type">Creature 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Beast</span>
-**Source** [[Pathfinder 187. The Seventh Arch]]
+**Source** [[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh Arch]]
 **Perception** +12; heatsense 120 feet
-**Languages** Immolis; [[Telepathy]] 100 feet
-**Skills** [[Acrobatics]] +10, [[Athletics]] +10, [[Intimidation]] +9, [[Stealth]] +10, [[Survival]] +9
+**Languages** Immolis; [[DATABASE/monsterability/Telepathy|telepathy]] 100 feet
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +10, [[DATABASE/skill/Athletics|Athletics]] +10, [[DATABASE/skill/Intimidation|Intimidation]] +9, [[DATABASE/skill/Stealth|Stealth]] +10, [[DATABASE/skill/Survival|Survival]] +9
 **Str** +3, **Dex** +4, **Con** +0, **Int** -3, **Wis** +3, **Cha** +0
-**Heatsense** An immolis can sense creatures whose bodies are hotter than their surroundings as a precise sense at the listed range. Creatures that produce no heat—such as many undead or constructs—are [[Concealed]] to an immolis, as are creatures who successfully mask their body heat (such as by submerging themselves in cold water).
+**Heatsense** An immolis can sense creatures whose bodies are hotter than their surroundings as a precise sense at the listed range. Creatures that produce no heat—such as many undead or constructs—are [[DATABASE/condition/Concealed|concealed]] to an immolis, as are creatures who successfully mask their body heat (such as by submerging themselves in cold water).
 
 ---
 **AC** 19; **Fort** +6, **Ref** +12, **Will** +9

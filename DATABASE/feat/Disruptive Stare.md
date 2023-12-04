@@ -11,6 +11,7 @@ name: Disruptive Stare
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -26,7 +27,7 @@ type: Feat
 # Disruptive Stare <span class="action-icon">5</span> <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Mental</span><span class="item-trait">Nagaji</span><span class="item-trait">Visual</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 **Trigger** A creature within 30 feet attempts to Cast a Spell with the concentrate trait.
 
 ---

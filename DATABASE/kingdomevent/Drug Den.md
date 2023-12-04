@@ -3,6 +3,7 @@ id: '10'
 level: '1'
 name: Drug Den
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Intrigue|Intrigue]]'
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
@@ -16,10 +17,10 @@ type: Kingdom Event
 # Drug Den<span class="item-type">Event +1</span>
 
 <span class="item-trait">Continuous</span><span class="item-trait">Dangerous</span><span class="item-trait">Settlement</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 **Location** The largest settlement in the kingdom; the GM secretly selects one of the Residential lots to house a drug den.
 One of the Residential lots in your settlement has become an illicit hive for trading harmful and addictive drugs, and as long as it continues to operate, it could bring ruin to your entire kingdom.
-**Kingdom Skill** [[Intrigue]]; **Leader** Counselor
+**Kingdom Skill** [[DATABASE/skill/Intrigue|Intrigue]]; **Leader** Counselor
 **Critical Success** You uncover and stop the drug ring before it causes a lot of damage, bringing counseling to those who may need it.
 **Success** You work to minimize the damage done by the illicit drug trade, but the activity continues. Gain 1 Unrest.
 **Failure** Drug dealers continue to spread their influence. Addiction increases and harms productivity, and drugrelated crime grows. Increase Unrest, Crime, and Decay by 1 each.

@@ -11,6 +11,7 @@ name: Camouflage
 prerequisite: Master in [[DATABASE/skill/Stealth|Stealth]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,13 +24,13 @@ type: Feat
 # Camouflage <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Ranger</span>
-**Source** [[Core Rulebook]] 
-**Archetypes** [[Knight Reclaimant]]*, [[Scout]]*
-**Prerequisites** master in [[Stealth]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetypes** [[DATABASE/archetype/Knight Reclaimant|Knight Reclaimant]]*, [[DATABASE/archetype/Scout|Scout]]*
+**Prerequisites** master in [[DATABASE/skill/Stealth|Stealth]]
 * This archetype offers Camouflage at a different level than displayed here.
 
 ---
-You alter your appearance to blend in to the wilderness. In natural terrain, you can [[Hide]] and [[Sneak]] even without cover or being [[Concealed]].
+You alter your appearance to blend in to the wilderness. In natural terrain, you can [[DATABASE/action/Hide|Hide]] and [[DATABASE/action/Sneak|Sneak]] even without cover or being [[DATABASE/condition/Concealed|concealed]].
 
 ## Archetype Use
 
@@ -37,4 +38,4 @@ This feat can be used for one or more Archetypes in addition to the listed Class
 
 ## Camouflage Leads To...
 
-[[Shadow Hunter]], [[Stealthy Companion]]
+[[DATABASE/feat/Shadow Hunter|Shadow Hunter]], [[DATABASE/feat/Stealthy Companion|Stealthy Companion]]

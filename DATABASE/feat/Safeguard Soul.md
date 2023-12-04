@@ -11,6 +11,7 @@ name: Safeguard Soul
 prerequisite: '[[DATABASE/feat/Soul Warden Dedication|Soul Warden Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 subcategory: null
@@ -25,9 +26,9 @@ type: Feat
 # Safeguard Soul <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Archetype</span><span class="item-trait">Divine</span>
-**Source** [[Book of the Dead]]
-**Archetype** [[Soul Warden]]
-**Prerequisites** [[Soul Warden Dedication]]
+**Source** [[DATABASE/source/Book of the Dead|Book of the Dead]]
+**Archetype** [[DATABASE/archetype/Soul Warden|Soul Warden]]
+**Prerequisites** [[DATABASE/feat/Soul Warden Dedication|Soul Warden Dedication]]
 
 ---
 You've girded your soul against outside interference. You gain a +2 status bonus to saving throws against death effects, possession effects, and effects that attempt to manipulate or steal your soul. You can't be transformed into an undead by any means. While your spiral is glowing, your allies in the light of the spiral gain this benefit as well.

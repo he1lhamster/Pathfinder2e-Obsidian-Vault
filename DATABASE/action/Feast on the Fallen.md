@@ -7,6 +7,7 @@ id: '348'
 name: Feast on the Fallen
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 149. Against the Scarlet Triad|Pathfinder #149:
   Against the Scarlet Triad]]'
@@ -20,7 +21,7 @@ type: Action
 # Feast on the Fallen <span class="action-icon">5</span>
 
 <span class="item-trait">Healing</span><span class="item-trait">Manipulate</span>
-**Source** [[Pathfinder 149. Against the Scarlet Triad]]
+**Source** [[DATABASE/source/Pathfinder 149. Against the Scarlet Triad|Pathfinder #149: Against the Scarlet Triad]]
 **Frequency** once per hour
 **Trigger** A creature adjacent to the vulture is reduced to 0 Hit Points
 

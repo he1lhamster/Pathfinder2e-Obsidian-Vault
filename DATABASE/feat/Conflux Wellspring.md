@@ -11,6 +11,7 @@ name: Conflux Wellspring
 prerequisite: '[[DATABASE/feat/Conflux Focus|Conflux Focus]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Conflux Wellspring <span class="item-type">Feat 18</span>
 
 <span class="item-trait">Magus</span>
-**Source** [[Secrets of Magic]] 
-**Prerequisites** [[Conflux Focus]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
+**Prerequisites** [[DATABASE/feat/Conflux Focus|Conflux Focus]]
 
 ---
 You've achieved perfect magical and physical balance, allowing magic to flow into and through you more easily. You can recover 3 Focus Points when you Refocus instead of 1 if you have spent at least 3 Focus Points since the last time you Refocused.

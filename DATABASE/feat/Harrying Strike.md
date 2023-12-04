@@ -11,6 +11,7 @@ name: Harrying Strike
 prerequisite: '[[DATABASE/feat/Swordmaster Dedication|Swordmaster Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 subcategory: null
@@ -25,9 +26,9 @@ type: Feat
 # Harrying Strike <span class="action-icon">1</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Attack</span><span class="item-trait">Press</span>
-**Source** [[Character Guide]] 
-**Archetype** [[Swordmaster]]
-**Prerequisites** [[Swordmaster Dedication]]
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
+**Archetype** [[DATABASE/archetype/Swordmaster|Swordmaster]]
+**Prerequisites** [[DATABASE/feat/Swordmaster Dedication|Swordmaster Dedication]]
 
 ---
 Your attack prevents a foe from pursuing your allies. Make a melee Strike, adding the following effects in addition to the normal effects of the Strike.
@@ -47,4 +48,4 @@ An ability with this trait involves an attack. For each attack you make beyond t
 
 **Press:**
 
-Actions with this trait allow you to follow up earlier attacks. An action with the press trait can be used only if you are currently affected by a multiple attack penalty. Some actions with the press trait also grant an effect on a failure. The effects that are added on a failure don't apply on a critical failure. If your press action succeeds, you can choose to apply the failure effect instead. (For example, you may wish to do this when an attack deals no damage due to resistance.) Because a press action requires a multiple attack penalty, you can't use one when it's not your turn, even if you use the [[Ready]] activity.
+Actions with this trait allow you to follow up earlier attacks. An action with the press trait can be used only if you are currently affected by a multiple attack penalty. Some actions with the press trait also grant an effect on a failure. The effects that are added on a failure don't apply on a critical failure. If your press action succeeds, you can choose to apply the failure effect instead. (For example, you may wish to do this when an attack deals no damage due to resistance.) Because a press action requires a multiple attack penalty, you can't use one when it's not your turn, even if you use the [[DATABASE/equipment/Ready|Ready]] activity.

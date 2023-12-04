@@ -89,20 +89,20 @@ wisdom: '+2'
 # Annamede Belavarah
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 34
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 34
 **Unspecific Lore**: DC 32
 **Specific Lore**: DC 29
 
 # Annamede Belavarah<span class="item-type">Creature 8</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CN</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 Female human bard
 **Perception** +16
-**Languages** [[Common]], [[Hallit]], [[Sylvan]], [[Tien]]
-**Skills** [[Acrobatics]] +16, [[Deception]] +18, [[Diplomacy]] +16, [[Intimidation]] +18, [[Occultism]] +14, [[Performance]] +19, [[Society]] +16
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Hallit|Hallit]], [[DATABASE/language/Sylvan|Sylvan]], [[DATABASE/language/Tien|Tien]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +16, [[DATABASE/skill/Deception|Deception]] +18, [[DATABASE/skill/Diplomacy|Diplomacy]] +16, [[DATABASE/skill/Intimidation|Intimidation]] +18, [[DATABASE/skill/Occultism|Occultism]] +14, [[DATABASE/skill/Performance|Performance]] +19, [[DATABASE/skill/Society|Society]] +16
 **Str** +0, **Dex** +4, **Con** +2, **Int** +2, **Wis** +2, **Cha** +4
-**Items** [[Dagger]], 12 gp, [[Leather Armor]], [[Maestro's Instrument]]
+**Items** [[DATABASE/weapon/Dagger|+1 dagger]], 12 gp, [[DATABASE/armor/Leather Armor|leather armor]], [[DATABASE/equipment/Maestro's Instrument|lesser maestro's lute]]
 
 ---
 **AC** 26; **Fort** +14, **Ref** +18, **Will** +16
@@ -110,5 +110,5 @@ Female human bard
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _dagger_ +19 [+15/+11] (agile, finesse, thrown 10 feet, versatile S), **Damage** 1d4+2 piercing</span>**Occult Spontaneous Spells** DC 26, attack +18; **4th** _[[Dimension Door]]_, _[[Invisibility]]_, _[[Suggestion]]_ (3 slots); **3rd** _[[Dream Message]]_, _[[Enthrall]]_, _[[Sound Burst]]_ (3 slotst); **2nd** _[[Comprehend Language]]_, _[[Mirror Image]]_, _[[Telekinetic Maneuver]]_ (3 slots); **1st** _[[Command]]_, _[[Floating Disk]]_, _[[Sanctuary]]_, _[[Soothe]]_ (3 slots); **Cantrips** **(4th)** _[[Dancing Lights]]_, _[[Daze]]_, _[[Ghost Sound]]_, _[[Prestidigitation]]_, _[[Shield]]_
-**Bard Composition Spells 2 Focus Points,** DC 26; **3rd** _[[Dirge of Doom]]_; **1st** _[[Counter Performance]]_, _[[Inspire Courage]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _dagger_ +19 [+15/+11] (agile, finesse, thrown 10 feet, versatile S), **Damage** 1d4+2 piercing</span>**Occult Spontaneous Spells** DC 26, attack +18; **4th** _[[DATABASE/spell/Dimension Door|dimension door]]_, _[[DATABASE/spell/Invisibility|invisibility]]_, _[[DATABASE/spell/Suggestion|suggestion]]_ (3 slots); **3rd** _[[DATABASE/spell/Dream Message|dream message]]_, _[[DATABASE/spell/Enthrall|enthrall]]_, _[[DATABASE/spell/Sound Burst|sound burst]]_ (3 slotst); **2nd** _[[DATABASE/spell/Comprehend Language|comprehend language]]_, _[[DATABASE/spell/Mirror Image|mirror image]]_, _[[DATABASE/spell/Telekinetic Maneuver|telekinetic maneuver]]_ (3 slots); **1st** _[[DATABASE/spell/Command|command]]_, _[[DATABASE/spell/Floating Disk|floating disk]]_, _[[DATABASE/spell/Sanctuary|sanctuary]]_, _[[DATABASE/spell/Soothe|soothe]]_ (3 slots); **Cantrips** **(4th)** _[[DATABASE/spell/Dancing Lights|dancing lights]]_, _[[DATABASE/spell/Daze|daze]]_, _[[DATABASE/spell/Ghost Sound|ghost sound]]_, _[[DATABASE/spell/Prestidigitation|prestidigitation]]_, _[[DATABASE/spell/Shield|shield]]_
+**Bard Composition Spells 2 Focus Points,** DC 26; **3rd** _[[DATABASE/spell/Dirge of Doom|dirge of doom]]_; **1st** _[[DATABASE/spell/Counter Performance|counter performance]]_, _[[DATABASE/spell/Inspire Courage|inspire courage]]_

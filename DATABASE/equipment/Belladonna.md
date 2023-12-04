@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: DC 19 Fortitude
 school: null
 size: null
@@ -56,11 +57,11 @@ weapon_type: null
 # Belladonna<span class="item-type">Item 2</span>
 
 <span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Ingested</span><span class="item-trait">Poison</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 5 gp
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">2</span> Interact
 
 ---
 Sometimes called “deadly nightshade,” belladonna is a widely available toxin produced from a plant similar to a tomato.
-**Saving Throw** DC 19 Fortitude; **Onset** 10 minutes; **Maximum Duration** 30 minutes; **Stage 1** dazzled (10 minutes); **Stage 2** 1d6 poison damage and [[Sickened]] (10 minutes); **Stage 3** 1d6 poison damage, [[Confused]], and sickened 1 (1 minute)
+**Saving Throw** DC 19 Fortitude; **Onset** 10 minutes; **Maximum Duration** 30 minutes; **Stage 1** dazzled (10 minutes); **Stage 2** 1d6 poison damage and [[DATABASE/condition/Sickened|sickened 1]] (10 minutes); **Stage 3** 1d6 poison damage, [[DATABASE/condition/Confused|confused]], and sickened 1 (1 minute)

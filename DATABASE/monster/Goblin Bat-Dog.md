@@ -66,24 +66,24 @@ wisdom: '+2'
 # Goblin Bat-Dog
 
 This creature did not include a description.
-**Recall Knowledge - Animal ([[Nature]])**: DC 23
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 23
 **Unspecific Lore**: DC 21
 **Specific Lore**: DC 18
 
 # Goblin Bat-Dog<span class="item-type">Creature 3</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Animal</span><span class="item-trait">Mutant</span>
-**Source** [[Kingmaker Companion Guide]]
-Variant [[Goblin Dog]]
-**Perception** +9; [[Low-Light Vision]], [[Scent]] (imprecise) 30 feet
-**Skills** [[Athletics]] +11, [[Stealth]] +10
+**Source** [[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]
+Variant [[DATABASE/monster/Goblin Dog|goblin dog]]
+**Perception** +9; [[DATABASE/monsterability/Low-Light Vision|low-light vision]], [[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +11, [[DATABASE/skill/Stealth|Stealth]] +10
 **Str** +4, **Dex** +3, **Con** +2, **Int** -4, **Wis** +2, **Cha** -1
 
 ---
 **AC** 18; **Fort** +10, **Ref** +12, **Will** +7
 **HP** 53
-<span class="in-box-ability">**Irritating Dander** A creature that hits a goblin bat-dog with an unarmed attack, tries to [[Grapple]] it, or otherwise touches it is exposed to goblin pox.</span>
+<span class="in-box-ability">**Irritating Dander** A creature that hits a goblin bat-dog with an unarmed attack, tries to [[DATABASE/action/Grapple|Grapple]] it, or otherwise touches it is exposed to goblin pox.</span>
 
 ---
 **Speed** 40 feet, fly 40 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +11 [+6/+1], **Damage** 1d10+6 piercing plus goblin pox</span><span class="in-box-ability">**Goblin Pox** (disease) Goblins and goblin dogs (including goblin bat-dogs) are immune to goblin pox. **Saving Throw**DC 20 Fortitude; **Stage 1** [[Sickened]] 1 (1 round); **Stage 2**sickened 1 and [[Slowed]] 1 (1 round); **Stage 3** sickened 2 and can't reduce its sickened value below 1 (1 day)</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +11 [+6/+1], **Damage** 1d10+6 piercing plus goblin pox</span><span class="in-box-ability">**Goblin Pox** (disease) Goblins and goblin dogs (including goblin bat-dogs) are immune to goblin pox. **Saving Throw**DC 20 Fortitude; **Stage 1** [[DATABASE/condition/Sickened|sickened]] 1 (1 round); **Stage 2**sickened 1 and [[DATABASE/condition/Slowed|slowed]] 1 (1 round); **Stage 3** sickened 2 and can't reduce its sickened value below 1 (1 day)</span>

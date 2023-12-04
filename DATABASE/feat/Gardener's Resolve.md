@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Vigilante Dedication|Vigilante Dedication]] ; mem
   of the Gray Gardeners'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Night of the Gray Death|Night of the Gray Death]]'
 subcategory: null
@@ -26,10 +27,10 @@ type: Feat
 # Gardener's Resolve <span class="action-icon">5</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Vigilante</span>
-**Source** [[Night of the Gray Death]]
-**Archetype** [[Gray Gardener]]
+**Source** [[DATABASE/source/Night of the Gray Death|Night of the Gray Death]]
+**Archetype** [[DATABASE/archetype/Gray Gardener|Gray Gardener]]
 **Frequency** once per day
-**Prerequisites** [[Vigilante Dedication]]; member of the Gray Gardeners
+**Prerequisites** [[DATABASE/feat/Vigilante Dedication|Vigilante Dedication]]; member of the Gray Gardeners
 **Trigger** You roll a failure (but not a critical failure) on a Will save against a fear effect
 
 ---
@@ -43,4 +44,4 @@ This feat belongs to an archetype.
 
 **Vigilante:**
 
-Using actions and abilities with the vigilante trait while in your social identity risks exposing you as a [[Vigilante]].
+Using actions and abilities with the vigilante trait while in your social identity risks exposing you as a [[DATABASE/archetype/Vigilante|vigilante]].

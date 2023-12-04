@@ -5,6 +5,7 @@ name: Owlbear Omelet
 price: 18 gp
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 trait:
 - '[[DATABASE/trait/Meal|Meal]]'
@@ -14,11 +15,11 @@ type: Campsite Meal
 ---
 # Owlbear Omelet<span class="item-type">Meal 7</span>
 
-**Source** [[Kingmaker Companion Guide]]
+**Source** [[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]
 **Recipe Price** 18 gp
 **Ingredients** 4 basic, 1 special
-**Preparation** DC 25 [[Lore]] or DC 27 [[Survival]]
-**Favorite Meal** +1 status bonus to [[Nature]] checks.
+**Preparation** DC 25 [[DATABASE/skill/Lore|Cooking Lore]] or DC 27 [[DATABASE/skill/Survival|Survival]]
+**Favorite Meal** +1 status bonus to [[DATABASE/skill/Nature|Nature]] checks.
 
 ---
 An owlbear omelet can technically be made from any sort of egg, but many consider such meals made with anything other than genuine owlbear eggs to be a farce.

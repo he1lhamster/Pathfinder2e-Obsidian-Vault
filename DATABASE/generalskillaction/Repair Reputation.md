@@ -2,6 +2,7 @@
 id: '18'
 name: Repair Reputation
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait: null
 type: General Skill Action
@@ -9,19 +10,19 @@ type: General Skill Action
 ---
 # Repair Reputation (Trained)
 
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 
 ## Skill Uses
 
-[[Arts]] Repair Reputation
-[[Engineering]] Repair Reputation
-[[Intrigue]] Repair Reputation
-[[Trade]] Repair Reputation
+[[DATABASE/skill/Arts|Arts]] Repair Reputation
+[[DATABASE/skill/Engineering|Engineering]] Repair Reputation
+[[DATABASE/skill/Intrigue|Intrigue]] Repair Reputation
+[[DATABASE/skill/Trade|Trade]] Repair Reputation
 
-## [[Repair Reputation]]
+## [[DATABASE/action/Repair Reputation|Repair Reputation]]
 
 <span class="item-trait">Downtime</span><span class="item-trait">Leadership</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 
 ---
 When things have gotten out of hand in the kingdom and the nation's reputation has become damaged, you can focus efforts on a campaign to reassure the citizens and bring them closer together, stamp down crime, organize repairs and maintenance of public structures, or strive to adjust poor public opinions.

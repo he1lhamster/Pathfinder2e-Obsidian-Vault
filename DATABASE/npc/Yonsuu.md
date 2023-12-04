@@ -73,20 +73,20 @@ wisdom: '+2'
 # Yonsuu
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 38
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 38
 **Unspecific Lore**: DC 36
 **Specific Lore**: DC 33
 
 # Yonsuu<span class="item-type">Creature 11</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Catfolk</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 171. Hurricane's Howl]]
-Male [[Catfolk]] head warden
-**Perception** +21; [[Low-Light Vision]]
-**Languages** [[Amurrun]], [[Aquan]], [[Common]], [[Cyclops]]
-**Skills** [[Acrobatics]] +22, [[Athletics]] +21, [[Diplomacy]] +19, [[Intimidation]] +21, [[Society]] +19, [[Stealth]] +21, [[Survival]] +19
+**Source** [[DATABASE/source/Pathfinder 171. Hurricane's Howl|Pathfinder #171: Hurricane's Howl]]
+Male [[DATABASE/ancestry/Catfolk|catfolk]] head warden
+**Perception** +21; [[DATABASE/monsterability/Low-Light Vision|low-light vision]]
+**Languages** [[DATABASE/language/Amurrun|Amurrun]], [[DATABASE/language/Aquan|Aquan]], [[DATABASE/language/Common|Common]], [[DATABASE/language/Cyclops|Cyclops]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +22, [[DATABASE/skill/Athletics|Athletics]] +21, [[DATABASE/skill/Diplomacy|Diplomacy]] +19, [[DATABASE/skill/Intimidation|Intimidation]] +21, [[DATABASE/skill/Society|Society]] +19, [[DATABASE/skill/Stealth|Stealth]] +21, [[DATABASE/skill/Survival|Survival]] +19
 **Str** +4, **Dex** +5, **Con** +0, **Int** +2, **Wis** +2, **Cha** +4
-**Items** _+1 [[Resilient]] [[Studded Leather Armor]]_, _+2 [[Striking]] [[Trident]]_, [[Religious Symbol]] of [[Norgorber]], [[Dagger]], [[Manacles]]
+**Items** _+1 [[DATABASE/equipment/Resilient|resilient]] [[DATABASE/armor/Studded Leather Armor|studded leather]]_, _+2 [[DATABASE/equipment/Striking|striking]] [[DATABASE/weapon/Trident|trident]]_, [[DATABASE/equipment/Religious Symbol|religious symbol]] of [[DATABASE/deity/Norgorber|Norgorber]], [[DATABASE/weapon/Dagger|dagger]], [[DATABASE/equipment/Manacles|good manacles (3)]]
 
 ---
 **AC** 31; **Fort** +19, **Ref** +24, **Will** +21
@@ -95,4 +95,4 @@ Male [[Catfolk]] head warden
 
 ---
 **Speed** 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _trident_ +24 [+19/+14] (magical), **Damage** 2d8+6 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> dagger +23 [+19/+15] (agile, finesse, versatile S), **Damage** 1d4+6 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> dagger +23 [+19/+15] (agile, thrown 10 feet, versatile S), **Damage** 1d4+6 piercing</span><span class="in-box-ability">**Hampering Strike** A foe that takes damage from Yonsuu's melee Strike is [[Slowed]] for 1 round (slowed 3 if the Strike is a critical hit).</span><span class="in-box-ability">**Subduing Attack** Yonsuu deals an additional 3d6 precision damage to creatures that are [[Frightened]] or within reach of at least one of his allies. Yonsuu can choose to make an attack with this additional damage as a nonlethal attack.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _trident_ +24 [+19/+14] (magical), **Damage** 2d8+6 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> dagger +23 [+19/+15] (agile, finesse, versatile S), **Damage** 1d4+6 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> dagger +23 [+19/+15] (agile, thrown 10 feet, versatile S), **Damage** 1d4+6 piercing</span><span class="in-box-ability">**Hampering Strike** A foe that takes damage from Yonsuu's melee Strike is [[DATABASE/condition/Slowed|slowed 1]] for 1 round (slowed 3 if the Strike is a critical hit).</span><span class="in-box-ability">**Subduing Attack** Yonsuu deals an additional 3d6 precision damage to creatures that are [[DATABASE/condition/Frightened|frightened]] or within reach of at least one of his allies. Yonsuu can choose to make an attack with this additional damage as a nonlethal attack.</span>

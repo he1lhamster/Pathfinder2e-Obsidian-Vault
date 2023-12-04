@@ -83,24 +83,24 @@ wisdom: '+2'
 # Fiddling Bones
 
 To some, music is more than a hobby—it's an obsession. Every musician who lived and died for their craft runs the risk of returning as a fiddling bones, as do musicians who died before completing their magnum opus or receiving the accolades they believe they deserved. Driven to prove themselves even in undeath, fiddling bones often challenge famous performers to music duels.
-**Recall Knowledge - Undead ([[Religion]])**: DC 18
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Fiddling Bones<span class="item-type">Creature 3</span>
 
 <span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Undead</span>
-**Source** [[Book of the Dead]]
-**Perception** +9; [[Darkvision]]
-**Languages** [[Common]], [[Necril]]
-**Skills** [[Acrobatics]] +10, [[Diplomacy]] +9, [[Intimidation]] +9, [[Performance]] +13, [[Lore]] +10
+**Source** [[DATABASE/source/Book of the Dead|Book of the Dead]]
+**Perception** +9; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Necril|Necril]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +10, [[DATABASE/skill/Diplomacy|Diplomacy]] +9, [[DATABASE/skill/Intimidation|Intimidation]] +9, [[DATABASE/skill/Performance|Performance]] +13, [[DATABASE/skill/Lore|Theater Lore]] +10
 **Str** +1, **Dex** +3, **Con** +1, **Int** +3, **Wis** +2, **Cha** +4
 **Items** fiddle, flute
 
 ---
 **AC** 18; **Fort** +6, **Ref** +12, **Will** +9
-**HP** 30 ([[Negative Healing]]); **Immunities** death effects, disease, [[Paralyzed]], poison, [[Unconscious]]; **Resistances** cold 5, electricity 5, fire 5, piercing 5, slashing 5, sonic 5
-<span class="in-box-ability">**Rhapsodic Flourish <span class="action-icon">5</span> ** (abjuration, occult, sonic) **Trigger** The fiddling bones would roll a saving throw against an auditory or sonic effect; **Effect** The fiddling bones performs a refrain that deflects sonic vibrations. They roll a [[Performance]] check in place of the triggering saving throw. Sonic feedback rebounds from the effect, dealing 1d6 sonic damage to the source of the triggering effect if the Performance check succeeded or 2d6 sonic damage to the fiddling bones on a failure.</span>
+**HP** 30 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects, disease, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Unconscious|unconscious]]; **Resistances** cold 5, electricity 5, fire 5, piercing 5, slashing 5, sonic 5
+<span class="in-box-ability">**Rhapsodic Flourish <span class="action-icon">5</span> ** (abjuration, occult, sonic) **Trigger** The fiddling bones would roll a saving throw against an auditory or sonic effect; **Effect** The fiddling bones performs a refrain that deflects sonic vibrations. They roll a [[DATABASE/skill/Performance|Performance]] check in place of the triggering saving throw. Sonic feedback rebounds from the effect, dealing 1d6 sonic damage to the source of the triggering effect if the Performance check succeeded or 2d6 sonic damage to the fiddling bones on a failure.</span>
 
 ---
 **Speed** 25 feet

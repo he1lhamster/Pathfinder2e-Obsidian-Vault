@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Whistle of Calling<span class="item-type">Item 15</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Conjuration</span><span class="item-trait">Magical</span>
-**Source** [[Knights of Lastwall]]
+**Source** [[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]
 **Price** 6,300 gp
 **Usage** held in 1 hand; **Bulk** —
 **Access** Knights of Lastwall have access to this item.

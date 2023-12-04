@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Fulu of Flood Suppression<span class="item-type">Item 3</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Consumable</span><span class="item-trait">Fulu</span><span class="item-trait">Magical</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Price** 10 gp
 **Duration** 1 week; **Usage** affixed to a wall; **Bulk** —
 

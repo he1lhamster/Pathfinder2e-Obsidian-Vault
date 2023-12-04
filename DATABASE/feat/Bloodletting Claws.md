@@ -11,6 +11,7 @@ name: Bloodletting Claws
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -24,14 +25,14 @@ type: Feat
 # Bloodletting Claws <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Evolution</span><span class="item-trait">Summoner</span>
-**Source** [[Secrets of Magic]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]]
 
 ---
-Your eidolon inflicts bleeding wounds on a telling blow. If your eidolon critically hits with a melee unarmed Strike that deals slashing or piercing damage, its target takes 1d6 [[Persistent Damage]]. Your eidolon gains an item bonus to this bleed damage equal to the unarmed attack's item bonus to attack rolls. This is a critical specialization effect.
+Your eidolon inflicts bleeding wounds on a telling blow. If your eidolon critically hits with a melee unarmed Strike that deals slashing or piercing damage, its target takes 1d6 [[DATABASE/condition/Persistent Damage|persistent bleed damage]]. Your eidolon gains an item bonus to this bleed damage equal to the unarmed attack's item bonus to attack rolls. This is a critical specialization effect.
 
 ## Bloodletting Claws Leads To...
 
-[[Blood Frenzy]]
+[[DATABASE/feat/Blood Frenzy|Blood Frenzy]]
 
 ## Traits
 

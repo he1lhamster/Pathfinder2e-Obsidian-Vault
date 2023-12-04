@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -52,10 +53,10 @@ weapon_type: null
 # Cartographer's Kit<span class="item-type">Item 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span>
-**Source** [[PFS Guide]]
+**Source** [[DATABASE/source/PFS Guide|PFS Guide]]
 **Price** 42 gp
 **Bulk** 1
 **Access** Member of the Pathfinder Society.
 
 ---
-This kit includes a [[Writing Set]], a [[Compass]], a [[Astrolabe]], a [[Ruler]], and a [[Survey Map]].
+This kit includes a [[DATABASE/equipment/Writing Set|writing set]], a [[DATABASE/equipment/Compass|compass]], a [[DATABASE/equipment/Astrolabe|standard astrolabe]], a [[DATABASE/equipment/Ruler|ruler]], and a [[DATABASE/equipment/Survey Map|survey map]].

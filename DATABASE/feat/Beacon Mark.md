@@ -11,6 +11,7 @@ name: Beacon Mark
 prerequisite: '[[DATABASE/feat/Tracing Sigil|Tracing Sigil]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Beacon Mark <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Grand Bazaar]]
-**Archetype** [[Spell Trickster]]
-**Prerequisites** [[Tracing Sigil]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
+**Archetype** [[DATABASE/archetype/Spell Trickster|Spell Trickster]]
+**Prerequisites** [[DATABASE/feat/Tracing Sigil|Tracing Sigil]]
 
 ---
 When you cast _sigil_, you can modify the spell to add the following heightened entry.

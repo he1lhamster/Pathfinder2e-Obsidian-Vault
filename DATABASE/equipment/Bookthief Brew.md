@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Bookthief Brew<span class="item-type">Item 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span>
-**Source** [[PFS Guide]]
+**Source** [[DATABASE/source/PFS Guide|PFS Guide]]
 **Price** 3 gp
 **Usage** held in 1 hand; **Bulk** L
 **Access** Member of the Pathfinder Society.

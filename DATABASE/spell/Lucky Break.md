@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -38,8 +39,8 @@ type: Focus
 # Lucky Break<span class="item-type">Focus 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Cleric</span><span class="item-trait">Divination</span><span class="item-trait">Fortune</span>
-**Source** [[Core Rulebook]] 
-**Domain** [[Luck Domain]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Domain** [[DATABASE/domain/Luck Domain|luck]]
 **Cast** <span class="action-icon">5</span> verbal; **Trigger** You fail (but don't critically fail) a saving throw.
 
 ---

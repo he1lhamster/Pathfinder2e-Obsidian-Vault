@@ -16,6 +16,7 @@ price: 400 gp
 rarity: Uncommon
 reflex: null
 resistance: null
+rus_type_level: null
 school: null
 size: Large
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
@@ -28,7 +29,7 @@ type: Vehicle
 # Armored Carriage<span class="item-type">Vehicle 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-size item-trait">Large</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 400 gp
 
 ---
@@ -37,7 +38,7 @@ Slow but steady, an armored carriage combines clockwork with a protective hull f
 ---
 **Space** 10 feet long, 10 feet wide, 10 feet high
 **Crew** 1 pilot; **Passengers** 3
-**Piloting Check** [[Lore]] (DC 20) or [[Crafting]] (DC 22)
+**Piloting Check** [[DATABASE/skill/Lore|Driving Lore]] (DC 20) or [[DATABASE/skill/Crafting|Crafting]] (DC 22)
 
 ---
 **AC** 19; **Fort** +12

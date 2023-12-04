@@ -22,6 +22,7 @@ patron_theme: null
 range: 60 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Necromancy
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -37,8 +38,8 @@ type: Focus
 # Fallow Field<span class="item-type">Focus 4</span>
 
 <span class="item-trait">Necromancy</span><span class="item-trait">Negative</span>
-**Source** [[Gods & Magic]] 
-**Domain** [[Decay Domain]]
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
+**Domain** [[DATABASE/domain/Decay Domain|decay]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 60 feet; **Area** 15-foot emanation
 **Saving Throw** Will; **Duration** sustained up to 1 minute

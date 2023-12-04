@@ -12,6 +12,7 @@ prerequisite: focus pool, at least one innate spell from akashrishi heritage or 
   feat that shares a tradition with atleast one of your focus spells
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Well of Potential <span class="action-icon">1</span> <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Kashrishi</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 **Frequency** once per day
 **Prerequisites** focus pool, at least one innate spell from a
 kashrishi heritage or ancestry feat that shares a tradition with at

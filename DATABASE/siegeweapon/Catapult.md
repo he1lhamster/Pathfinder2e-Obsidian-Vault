@@ -13,6 +13,7 @@ name: Catapult
 price: 650 gp
 rarity: Uncommon
 reflex: '+8'
+rus_type_level: null
 size: Large
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
@@ -25,7 +26,7 @@ usage: mounted
 # Catapult<span class="item-type">Item 7</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-size item-trait">Large</span><span class="item-trait">Mounted</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 650 gp; **Ammunition** stones (0 gp, 4 Bulk)
 
 ---
@@ -42,5 +43,5 @@ usage: mounted
 ---
 A sturdy wooden frame holds the spring-loaded beam that gives this weapon its power. At the end of the beam, a bowl-shaped wooden recession holds the payload, typically heavy stones. The arm is winched back to create torsion, until the release is pulled to abruptly swing the arm forward and fling the payload.
  **Aim** <span class="action-icon">2</span> 50 feet, minimum distance 50 feet
- **Load** <span class="action-icon">2</span> (manipulate) 2 times, requires a successful DC 20 [[Athletics]] check
+ **Load** <span class="action-icon">2</span> (manipulate) 2 times, requires a successful DC 20 [[DATABASE/skill/Athletics|Athletics]] check
  **Launch** <span class="action-icon">1</span> (attack, manipulate, range increment 150 feet) 5d10 bludgeoning, 10-foot burst, DC 22 Reflex

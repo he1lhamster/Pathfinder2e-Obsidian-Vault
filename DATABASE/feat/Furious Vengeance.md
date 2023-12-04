@@ -11,6 +11,7 @@ name: Furious Vengeance
 prerequisite: '[[DATABASE/barbarianinstinct/Fury Instinct|fury instinct]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Furious Vengeance <span class="action-icon">5</span> <span class="item-type">Feat 16</span>
 
 <span class="item-trait">Barbarian</span><span class="item-trait">Rage</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** [[Fury Instinct]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** [[DATABASE/barbarianinstinct/Fury Instinct|fury instinct]]
 **Trigger** An enemy within your melee reach critically hits you with a melee Strike.
 
 ---

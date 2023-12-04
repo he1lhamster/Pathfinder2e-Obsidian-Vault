@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Aboutface Figurehead<span class="item-type">Item 10</span>
 
 <span class="item-trait">Figurehead</span><span class="item-trait">Magical</span><span class="item-trait">Water</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Price** 980 gp
 **Usage** attached to a ship's bow; **Bulk** —
 

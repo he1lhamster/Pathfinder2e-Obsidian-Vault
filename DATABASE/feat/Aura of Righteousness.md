@@ -11,6 +11,7 @@ name: Aura of Righteousness
 prerequisite: '[[DATABASE/championtenet/Good|tenets of good]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Aura of Righteousness <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Champion</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Good]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/championtenet/Good|tenets of good]]
 
 ---
 Your righteous aura dampens evil’s might. You and all allies within 15 feet gain evil resistance 5.

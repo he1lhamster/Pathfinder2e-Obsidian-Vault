@@ -11,6 +11,7 @@ name: Aberration Kinship
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Aberration Kinship <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Fleshwarp</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-Your mind resonates with the inscrutable thought processes that inhuman aberrations use to communicate. You can cast [[Mindlink]] as an innate occult spell once per day, but you can target only aberrations.
+Your mind resonates with the inscrutable thought processes that inhuman aberrations use to communicate. You can cast [[DATABASE/spell/Mindlink|mindlink]] as an innate occult spell once per day, but you can target only aberrations.
 
 ## Traits
 

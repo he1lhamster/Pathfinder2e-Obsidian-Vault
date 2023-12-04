@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Vigilante Dedication|Vigilante Dedication]]'
 rarity: Common
 requirement: You are completely [[DATABASE/condition/Unnoticed|unnoticed]] by the
   target creature.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -28,17 +29,17 @@ type: Feat
 # Startling Appearance (Vigilante) <span class="action-icon">1</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Emotion</span><span class="item-trait">Fear</span><span class="item-trait">Mental</span><span class="item-trait">Vigilante</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Vigilante]]
-**Prerequisites** [[Vigilante Dedication]]
-**Requirements** You are completely [[Unnoticed]] by the target creature.
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Vigilante|Vigilante]]
+**Prerequisites** [[DATABASE/feat/Vigilante Dedication|Vigilante Dedication]]
+**Requirements** You are completely [[DATABASE/condition/Unnoticed|unnoticed]] by the target creature.
 
 ---
-You can startle foes who are unaware of your presence. Make a Strike against your target. That creature is [[Flat-Footed]] against this Strike, as normal. If your Strike hits, the target remains flat-footed for the rest of your turn and is [[Frightened]] (frightened 2 on a critical hit).
+You can startle foes who are unaware of your presence. Make a Strike against your target. That creature is [[DATABASE/condition/Flat-Footed|flat-footed]] against this Strike, as normal. If your Strike hits, the target remains flat-footed for the rest of your turn and is [[DATABASE/condition/Frightened|frightened 1]] (frightened 2 on a critical hit).
 
 ## Startling Appearance (Vigilante) Leads To...
 
-[[Frightening Appearance]], [[Stunning Appearance]]
+[[DATABASE/feat/Frightening Appearance|Frightening Appearance]], [[DATABASE/feat/Stunning Appearance|Stunning Appearance]]
 
 ## Traits
 
@@ -60,4 +61,4 @@ A mental effect can alter the target's mind. It has no effect on an object or a 
 
 **Vigilante:**
 
-Using actions and abilities with the vigilante trait while in your social identity risks exposing you as a [[Vigilante]].
+Using actions and abilities with the vigilante trait while in your social identity risks exposing you as a [[DATABASE/archetype/Vigilante|vigilante]].

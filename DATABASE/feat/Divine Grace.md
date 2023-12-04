@@ -11,6 +11,7 @@ name: Divine Grace
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Divine Grace <span class="action-icon">5</span> <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Champion</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Trigger** You attempt a save against a spell, before you roll.
 
 ---

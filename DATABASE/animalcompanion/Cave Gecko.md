@@ -13,6 +13,7 @@ land_speed: '25'
 max_speed: '25'
 name: Cave Gecko
 rarity: Uncommon
+rus_type_level: null
 sense:
 - low-light vision
 - scent(imprecise) 30 feet
@@ -36,22 +37,22 @@ wisdom: '+2'
 # Cave Gecko
 
 <span class="trait-uncommon item-trait">Uncommon</span>
-**Source** [[Pathfinder 154. Siege of the Dinosaurs]]
+**Source** [[DATABASE/source/Pathfinder 154. Siege of the Dinosaurs|Pathfinder #154: Siege of the Dinosaurs]]
 Your companion is a sticky-footed lizard like a gecko or anole.
 **Size** Small
 **Melee** <span class="action-icon">1</span> jaws (finesse), **Damage** 1d6 piercing
 **Str** +2, **Dex** +3, **Con** +1, **Int** -4, **Wis** +2, **Cha** +0
 **Hit Points** 6
-**Skill** [[Stealth]] 
+**Skill** [[DATABASE/skill/Stealth|Stealth]] 
 **Senses** low-light vision, scent (imprecise) 30 feet
 **Speed** 25 feet, climb 25 feet
-**Support Benefit** Your cave gecko helps you stay afoot, leaning into you and propping you up as you maneuver your opponent. Until the end of your next turn, as long as you are adjacent to your cave gecko, if you attempt to [[Disarm]], [[Shove]], or [[Trip]] an opponent and roll a critical failure, you get a failure instead.
+**Support Benefit** Your cave gecko helps you stay afoot, leaning into you and propping you up as you maneuver your opponent. Until the end of your next turn, as long as you are adjacent to your cave gecko, if you attempt to [[DATABASE/action/Disarm|Disarm]], [[DATABASE/action/Shove|Shove]], or [[DATABASE/action/Trip|Trip]] an opponent and roll a critical failure, you get a failure instead.
 **Advanced Maneuver** Tongue Pull
 
-### [[Tongue Pull]] <span class="action-icon">1</span>
+### [[DATABASE/action/Tongue Pull|Tongue Pull]] <span class="action-icon">1</span>
 
 <span class="item-trait">Attack</span>
-**Source** [[Pathfinder 154. Siege of the Dinosaurs]]
+**Source** [[DATABASE/source/Pathfinder 154. Siege of the Dinosaurs|Pathfinder #154: Siege of the Dinosaurs]]
 
 ---
 The cave gecko snaps out its tongue, attempting to pull a foe within 10 feet toward it. The gecko attempts an Athletics check against the foe's Fortitude DC. On a success, the cave gecko pulls the foe next to it. This movement is forced movement. On a critical success, the foe is also grabbed until the beginning of your next turn.

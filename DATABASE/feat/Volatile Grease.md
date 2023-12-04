@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Spell Trickster Dedication|Spell Trickster Dedica
   ; ability to cast [[DATABASE/spell/Grease|grease]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Volatile Grease <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Grand Bazaar]]
-**Archetype** [[Spell Trickster]]
-**Prerequisites** [[Spell Trickster Dedication]]; ability to cast [[Grease]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
+**Archetype** [[DATABASE/archetype/Spell Trickster|Spell Trickster]]
+**Prerequisites** [[DATABASE/feat/Spell Trickster Dedication|Spell Trickster Dedication]]; ability to cast [[DATABASE/spell/Grease|grease]]
 
 ---
 When you cast _grease_, you can modify its target to be 1 creature. If you do, replace the spell's standard effects with the following: You splash the target with combustible grease. The target must attempt a Reflex save.

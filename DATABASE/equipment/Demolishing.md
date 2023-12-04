@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Demolishing<span class="item-type">Item 6</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Evocation</span><span class="item-trait">Magical</span>
-**Source** [[Pathfinder Special. Fumbus]]
+**Source** [[DATABASE/source/Pathfinder Special. Fumbus|Pathfinder Special: Fumbus]]
 **Price** 225 gp
 **Usage** etched onto a weapon; **Bulk** —
 

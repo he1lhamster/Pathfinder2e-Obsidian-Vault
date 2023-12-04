@@ -79,24 +79,24 @@ wisdom: '+0'
 # Animated Fireplace
 
 This creature did not include a description.
-**Recall Knowledge - Construct ([[Arcana]], [[Crafting]])**: DC 30
+**Recall Knowledge - Construct ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Crafting|Crafting]])**: DC 30
 **Unspecific Lore**: DC 28
 **Specific Lore**: DC 25
 
 # Animated Fireplace<span class="item-type">Creature 5</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Construct</span><span class="item-trait">Mindless</span>
-**Source** [[Pathfinder 182. Graveclaw]]
-Variant [[Animated Furnace]]
-**Perception** +9; [[Darkvision]]
-**Skills** [[Athletics]] +15
+**Source** [[DATABASE/source/Pathfinder 182. Graveclaw|Pathfinder #182: Graveclaw]]
+Variant [[DATABASE/monster/Animated Furnace|animated furnace]]
+**Perception** +9; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +15
 **Str** +6, **Dex** -2, **Con** +5, **Int** -5, **Wis** +0, **Cha** -5
 
 ---
 **AC** 24 (20 when broken); **Fort** +15, **Ref** +6, **Will** +8; construct armor
-**HP** 65; **Hardness** 7; **Immunities** death effects, disease, [[Doomed]], [[Drained]], [[Fatigued]], healing, mental, necromancy, nonlethal attacks, [[Paralyzed]], poison, [[Sickened]], [[Unconscious]]
+**HP** 65; **Hardness** 7; **Immunities** death effects, disease, [[DATABASE/condition/Doomed|doomed]], [[DATABASE/condition/Drained|drained]], [[DATABASE/condition/Fatigued|fatigued]], healing, mental, necromancy, nonlethal attacks, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Sickened|sickened]], [[DATABASE/condition/Unconscious|unconscious]]
 <span class="in-box-ability">**Construct Armor** Like normal objects, the animated fireplace has Hardness. This Hardness reduces any damage the fireplace takes by 7. Once the animated fireplace is reduced to fewer than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks, removing the Hardness and reducing its Armor Class to 20.</span>
 
 ---
 **Speed** 15 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> hearth +15 [+10/+5] (magical), **Damage** 2d8+6 bludgeoning plus 1d6 fire and [[Grab]]</span><span class="in-box-ability">**Bellow Soot** <span class="action-icon">2</span> The animated fireplace coughs out a cloud of soot, filling a 20-foot emanation; creatures within the soot are [[Concealed]], and creatures outside the cloud are concealed to creatures within it. Creatures that begin their turn within the cloud must succeed at a DC 19 Fortitude save or be [[Sickened]] (sickened 2 on a critical failure); creatures immune to inhaled effects automatically succeed at this save. The fireplace can't Bellow Soot again for 1d4 rounds.</span><span class="in-box-ability">**Fan the Flames** <span class="action-icon">3</span> The animated fireplace releases a gout of flame in a 30-foot cone that deals 3d6 fire damage (DC 22 basic Reflex save).</span><span class="in-box-ability">**[[Swallow Whole]]** <span class="action-icon">1</span> (attack) Medium, 2d6+5 fire, Rupture 5</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> hearth +15 [+10/+5] (magical), **Damage** 2d8+6 bludgeoning plus 1d6 fire and [[DATABASE/monsterability/Grab|Grab]]</span><span class="in-box-ability">**Bellow Soot** <span class="action-icon">2</span> The animated fireplace coughs out a cloud of soot, filling a 20-foot emanation; creatures within the soot are [[DATABASE/condition/Concealed|concealed]], and creatures outside the cloud are concealed to creatures within it. Creatures that begin their turn within the cloud must succeed at a DC 19 Fortitude save or be [[DATABASE/condition/Sickened|sickened 1]] (sickened 2 on a critical failure); creatures immune to inhaled effects automatically succeed at this save. The fireplace can't Bellow Soot again for 1d4 rounds.</span><span class="in-box-ability">**Fan the Flames** <span class="action-icon">3</span> The animated fireplace releases a gout of flame in a 30-foot cone that deals 3d6 fire damage (DC 22 basic Reflex save).</span><span class="in-box-ability">**[[DATABASE/monsterability/Swallow Whole|Swallow Whole]]** <span class="action-icon">1</span> (attack) Medium, 2d6+5 fire, Rupture 5</span>

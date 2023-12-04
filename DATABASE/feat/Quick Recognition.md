@@ -13,6 +13,7 @@ prerequisite: Master in [[DATABASE/skill/Arcana|Arcana]] , Master in [[DATABASE/
   ; [[DATABASE/feat/Recognize Spell|RecognizeSpell]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: arcana
@@ -26,15 +27,15 @@ type: Feat
 # Quick Recognition <span class="item-type">Feat 7</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** master in [[Arcana]], [[Nature]], [[Occultism]], or [[Religion]]; [[Recognize Spell]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** master in [[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]], [[DATABASE/skill/Occultism|Occultism]], or [[DATABASE/skill/Religion|Religion]]; [[DATABASE/feat/Recognize Spell|Recognize Spell]]
 
 ---
 You Recognize Spells swiftly. Once per round, you can Recognize a Spell using a skill in which you’re a master as a free action.
 
 ## Quick Recognition Leads To...
 
-[[Clever Counterspell]]
+[[DATABASE/feat/Clever Counterspell|Clever Counterspell]]
 
 ## Traits
 

@@ -94,19 +94,19 @@ This creature did not include a description.
 # Ogmunzorius<span class="item-type">Creature 11</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Dream</span><span class="item-trait">Incorporeal</span>
-**Source** [[Pathfinder 189. Dreamers of the Nameless Spires]]
-Male variant [[Animate Dream]]
-**Perception** +21; [[Darkvision]]
-**Languages** [[Aklo]], [[Common]], [[Varisian]]; [[Telepathy]] 100 feet
-**Skills** [[Acrobatics]] +22, [[Deception]] +21, [[Intimidation]] +21, [[Occultism]] +23, [[Stealth]] +22
+**Source** [[DATABASE/source/Pathfinder 189. Dreamers of the Nameless Spires|Pathfinder #189: Dreamers of the Nameless Spires]]
+Male variant [[DATABASE/monster/Animate Dream|animate dream]]
+**Perception** +21; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Aklo|Aklo]], [[DATABASE/language/Common|Common]], [[DATABASE/language/Varisian|Varisian]]; [[DATABASE/monsterability/Telepathy|telepathy]] 100 feet
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +22, [[DATABASE/skill/Deception|Deception]] +21, [[DATABASE/skill/Intimidation|Intimidation]] +21, [[DATABASE/skill/Occultism|Occultism]] +23, [[DATABASE/skill/Stealth|Stealth]] +22
 **Str** -5, **Dex** +5, **Con** +4, **Int** +4, **Wis** +4, **Cha** +6
 
 ---
 **AC** 28; **Fort** +19, **Ref** +21, **Will** +22; +1 status to all saves vs. magic
-**HP** 145; **Immunities** cold, disease, [[Paralyzed]], poison, precision, sleep; **Resistances** all 10 (except fire, force, [[Ghost Touch]], or negative; double resistance vs. non-magical)
+**HP** 145; **Immunities** cold, disease, [[DATABASE/condition/Paralyzed|paralyzed]], poison, precision, sleep; **Resistances** all 10 (except fire, force, [[DATABASE/equipment/Ghost Touch|ghost touch]], or negative; double resistance vs. non-magical)
 
 ---
 **Speed** fly 40 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> nightmare tendril +22 [+18/+14] (agile, finesse, reach 10 feet), **Damage** 5d8 cold plus frozen nightmare</span>**Occult Innate Spells** DC 30; **6th** _[[Fear]]_, _[[Phantasmal Killer]]_, _[[Teleport]]_; **5th** _[[Confusion]]_, _[[Dimension Door]]_ (at will); **4th** _[[Nightmare]]_, _[[Sleep]]_
-**Rituals** DC 30; **6th** _[[Planar Binding]]_
-<span class="in-box-ability">**Frozen Nightmare** (curse, emotion, enchantment, fear, mental, occult) Ogmunzorius's touch fills the victim's mind with realistic hallucinations and visions of being stranded alone and naked in an endless expanse of ice. The only point of reference in this vision when it manifests are strange dark spires looming impossibly tall on the horizon. **Saving Throw** DC 30 Fortitude; **Stage 1** [[Fatigued]] (1 day); **Stage 2** fatigued and [[Enfeebled]] (1 day); **Stage 3** The victim falls asleep and becomes covered in a rime of frost. They can't be awakened as long as they remain at this stage. A victim who perishes while at this stage frosts over completely, freezing solid into a block of ice. (1 day)</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> nightmare tendril +22 [+18/+14] (agile, finesse, reach 10 feet), **Damage** 5d8 cold plus frozen nightmare</span>**Occult Innate Spells** DC 30; **6th** _[[DATABASE/spell/Fear|fear]]_, _[[DATABASE/spell/Phantasmal Killer|phantasmal killer]]_, _[[DATABASE/spell/Teleport|teleport]]_; **5th** _[[DATABASE/spell/Confusion|confusion]]_, _[[DATABASE/spell/Dimension Door|dimension door]]_ (at will); **4th** _[[DATABASE/spell/Nightmare|nightmare]]_, _[[DATABASE/spell/Sleep|sleep]]_
+**Rituals** DC 30; **6th** _[[DATABASE/ritual/Planar Binding|planar binding]]_
+<span class="in-box-ability">**Frozen Nightmare** (curse, emotion, enchantment, fear, mental, occult) Ogmunzorius's touch fills the victim's mind with realistic hallucinations and visions of being stranded alone and naked in an endless expanse of ice. The only point of reference in this vision when it manifests are strange dark spires looming impossibly tall on the horizon. **Saving Throw** DC 30 Fortitude; **Stage 1** [[DATABASE/condition/Fatigued|fatigued]] (1 day); **Stage 2** fatigued and [[DATABASE/condition/Enfeebled|enfeebled 1]] (1 day); **Stage 3** The victim falls asleep and becomes covered in a rime of frost. They can't be awakened as long as they remain at this stage. A victim who perishes while at this stage frosts over completely, freezing solid into a block of ice. (1 day)</span>

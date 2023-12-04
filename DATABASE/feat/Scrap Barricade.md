@@ -11,6 +11,7 @@ name: Scrap Barricade
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -28,7 +29,7 @@ type: Feat
 # Scrap Barricade <span class="action-icon">3</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Manipulate</span><span class="item-trait">Metal</span><span class="item-trait">Overflow</span><span class="item-trait">Primal</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
 Ragged pieces of metal weld together into a ramshackle structure. The barricade is up to 30 feet long, 15 feet high, and 1/2 inch thick. It must form in a straight line in an unbroken open space that doesn't pass through any creatures or objects, or the impulse fails. Each 10-foot-by-10-foot section of the wall has AC 10, Hardness 10, and 20 Hit Points, and it's immune to critical hits and precision damage. If any section is destroyed, the entire wall collapses, and each creature adjacent to the wall takes 2d8 slashing damage with a basic Reflex save against your class DC. The wall lasts until the end of your next turn, but you can Sustain it up to 1 minute.
@@ -52,7 +53,7 @@ Effects with the metal trait conjure or manipulate metal. Those that manipulate 
 
 **Overflow:**
 
-Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
+Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[DATABASE/action/Channel Elements|Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
 
 **Primal:**
 

@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: DC 28 Fortitude
 school: null
 size: null
@@ -58,11 +59,11 @@ weapon_type: null
 # Terror Spores<span class="item-type">Item 9</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Inhaled</span><span class="item-trait">Poison</span>
-**Source** [[Pathfinder 195. Heavy is the Crown]]
+**Source** [[DATABASE/source/Pathfinder 195. Heavy is the Crown|Pathfinder #195: Heavy is the Crown]]
 **Price** 110 gp
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
 ---
 Better known as the shrieking toadstool, the tragzioma fungus releases spores when disturbed by browsers, sending nearby creatures into a screaming panic that attracts opportunistic carnivores. Delicate alchemical processes have stabilized and concentrated the spores into a poison.
- **Saving Throw** DC 28 Fortitude; **Onset** 1 round; **Maximum Duration** 6 rounds; **Stage 1** [[Frightened]] (1 round); **Stage 2** frightened 3 (1 round); **Stage 3** frightened 3 and [[Fleeing]] for 1 round (1 round)
+ **Saving Throw** DC 28 Fortitude; **Onset** 1 round; **Maximum Duration** 6 rounds; **Stage 1** [[DATABASE/condition/Frightened|frightened 2]] (1 round); **Stage 2** frightened 3 (1 round); **Stage 3** frightened 3 and [[DATABASE/condition/Fleeing|fleeing]] for 1 round (1 round)

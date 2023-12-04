@@ -11,6 +11,7 @@ name: Elemental Eyes
 prerequisite: low-light vision
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -29,7 +30,7 @@ type: Feat
 # Elemental Eyes <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Ardande</span><span class="item-trait">Ifrit</span><span class="item-trait">Oread</span><span class="item-trait">Suli</span><span class="item-trait">Sylph</span><span class="item-trait">Talos</span><span class="item-trait">Undine</span>
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 **Prerequisites** low-light vision
 
 ---
@@ -40,28 +41,28 @@ You can see in the darkness as easily as an elemental. You gain darkvision.
 
 **Ardande:**
 
-Ardandes are [[Planar Scion]] descended from [[Kizidhar]] and other beings of elemental wood.
+Ardandes are [[DATABASE/monsterfamily/Planar Scion|planar scions]] descended from [[DATABASE/monster/Kizidhar|kizidhar]] and other beings of elemental wood.
 
 **Ifrit:**
 
-Ifrits are planar scions descended from [[Efreeti]].
+Ifrits are planar scions descended from [[DATABASE/monster/Efreeti|efreet]].
 
 **Oread:**
 
-Oreads are planar scions descended from [[Shaitan]].
+Oreads are planar scions descended from [[DATABASE/monster/Shaitan|shaitans]].
 
 **Suli:**
 
-Sulis are planar scions descended from [[Janni]].
+Sulis are planar scions descended from [[DATABASE/monster/Janni|jann]].
 
 **Sylph:**
 
-Sylphs are planar scions descended from [[Djinni]].
+Sylphs are planar scions descended from [[DATABASE/monster/Djinni|djinn]].
 
 **Talos:**
 
-Taloses are [[Planar Scion]] descended from [[Zuhra]].
+Taloses are [[DATABASE/monsterfamily/Planar Scion|planar scions]] descended from [[DATABASE/monster/Zuhra|zuhras]].
 
 **Undine:**
 
-Undines are planar scions descended from [[Marid]].
+Undines are planar scions descended from [[DATABASE/monster/Marid|marids]].

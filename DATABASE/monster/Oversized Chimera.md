@@ -73,24 +73,24 @@ wisdom: '+5'
 # Oversized Chimera
 
 This creature did not include a description.
-**Recall Knowledge - Beast ([[Arcana]], [[Nature]])**: DC 35
+**Recall Knowledge - Beast ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 35
 **Unspecific Lore**: DC 33
 **Specific Lore**: DC 30
 
 # Oversized Chimera<span class="item-type">Creature 12</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Beast</span>
-**Source** [[Kingmaker Adventure Path]]
-Variant [[Chimera]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
+Variant [[DATABASE/monster/Chimera|chimera]]
 **Perception** +23; darkvision, scent (imprecise) 30 feet
-**Languages** [[Draconic]]
-**Skills** [[Acrobatics]] +20, [[Athletics]] +25, [[Stealth]] +22
+**Languages** [[DATABASE/language/Draconic|Draconic]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +20, [[DATABASE/skill/Athletics|Athletics]] +25, [[DATABASE/skill/Stealth|Stealth]] +22
 **Str** +7, **Dex** +2, **Con** +5, **Int** -3, **Wis** +5, **Cha** +0
 
 ---
 **AC** 33; **Fort** +25, **Ref** +22, **Will** +19
 **HP** 220
-<span class="in-box-ability">**Three Headed** Any ability that would sever an oversized chimera's head (such as a critical hit with a vorpal weapon) severs one head at random. Losing a head doesn't kill a chimera (as long as it has one head left), but it does prevent it from making Strikes with the lost head or using the head's Breath Weapon.</span><span class="in-box-ability"> **Triple Opportunity** An oversized chimera gains 2 extra reactions each round that it can use only to make Attacks of Opportunity. It must use a different head for each reaction, and it can't use more than one on the same triggering action. If it loses one of its heads, it also loses one of these extra reactions.</span><span class="in-box-ability"> **[[Attack of Opportunity]] <span class="action-icon">5</span> **</span>
+<span class="in-box-ability">**Three Headed** Any ability that would sever an oversized chimera's head (such as a critical hit with a vorpal weapon) severs one head at random. Losing a head doesn't kill a chimera (as long as it has one head left), but it does prevent it from making Strikes with the lost head or using the head's Breath Weapon.</span><span class="in-box-ability"> **Triple Opportunity** An oversized chimera gains 2 extra reactions each round that it can use only to make Attacks of Opportunity. It must use a different head for each reaction, and it can't use more than one on the same triggering action. If it loses one of its heads, it also loses one of these extra reactions.</span><span class="in-box-ability"> **[[DATABASE/monsterability/Attack of Opportunity|Attack of Opportunity]] <span class="action-icon">5</span> **</span>
 
 ---
 **Speed** 25 feet, fly 40 feet

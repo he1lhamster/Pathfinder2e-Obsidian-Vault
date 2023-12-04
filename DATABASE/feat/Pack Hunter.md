@@ -11,6 +11,7 @@ name: Pack Hunter
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 subcategory: null
@@ -23,14 +24,14 @@ type: Feat
 # Pack Hunter <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Gnoll</span>
-**Source** [[The Mwangi Expanse]]
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]
 
 ---
-You were taught how to hunt as part of a pack. You gain a +2 circumstance bonus to checks to [[Aid]], and your allies gain a +2 circumstance bonus to checks to Aid you.
+You were taught how to hunt as part of a pack. You gain a +2 circumstance bonus to checks to [[DATABASE/action/Aid|Aid]], and your allies gain a +2 circumstance bonus to checks to Aid you.
 
 ## Pack Hunter Leads To...
 
-[[Pack Stalker]]
+[[DATABASE/feat/Pack Stalker|Pack Stalker]]
 
 ## Traits
 

@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -53,7 +54,7 @@ weapon_type: null
 # Poison Concentrator<span class="item-type">Item 5+</span>
 
 <span class="item-trait">Additive 1</span><span class="item-trait">Alchemical</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Usage** held in 2 hands; **Bulk** L
 
 ---
@@ -61,28 +62,28 @@ This compression apparatus can reduce two poisons into a more concentrated dose.
 
 ## Poison Concentrator (Lesser)<span class="item-type">Item 5</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 160 gp
 **Bulk** L
 The concentrator combines poisons of level 4 or lower.
 
 ## Poison Concentrator (Moderate)<span class="item-type">Item 10</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 960 gp
 **Bulk** L
 The concentrator combines poisons of level 9 or lower.
 
 ## Poison Concentrator (Greater)<span class="item-type">Item 15</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 5,900 gp
 **Bulk** L
 The concentrator combines poisons of level 14 or lower.
 
 ## Poison Concentrator (Major)<span class="item-type">Item 19</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 31,000 gp
 **Bulk** L
 The concentrator combines poisons of level 18 or lower.

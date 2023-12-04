@@ -11,6 +11,7 @@ name: Greater Merciful Elixir
 prerequisite: '[[DATABASE/feat/Merciful Elixir|Merciful Elixir]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Greater Merciful Elixir <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Alchemist</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Merciful Elixir]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/feat/Merciful Elixir|Merciful Elixir]]
 
 ---
-Your additives contain panaceas that can remedy a plethora of maladies. When you use [[Merciful Elixir]], your elixir can instead attempt to counteract the blinded, deafened, sickened, or slowed condition.
+Your additives contain panaceas that can remedy a plethora of maladies. When you use [[DATABASE/feat/Merciful Elixir|Merciful Elixir]], your elixir can instead attempt to counteract the blinded, deafened, sickened, or slowed condition.

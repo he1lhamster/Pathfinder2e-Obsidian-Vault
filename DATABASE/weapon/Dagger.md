@@ -44,6 +44,7 @@ name: Dagger
 price: 2 sp
 range: null
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Agile|Agile]]'
@@ -59,11 +60,11 @@ weapon_type: Melee
 # Dagger
 
 <span class="item-trait">Agile</span><span class="item-trait">Finesse</span><span class="item-trait">Thrown 10 ft.</span><span class="item-trait">Versatile S</span>
-**Source** [[Core Rulebook]] 
-**Favored Weapon** [[Alseta]], [[Ardad Lili]], [[Conqueror Worm]], [[Eritrice]], [[Fandarra]], [[Gravelady's Guard]], [[Gyronna]], [[Kitumu]], [[Lao Shu Po]], [[Naderi]], [[Nocticula]], [[Pharasma]], [[Shax]], [[Thamir]], [[The Lantern King]], [[The Last Breath]], [[Urban Prosperity]], [[Vildeis]], [[Ydersius]], [[Yog-Sothoth]], [[Yuelral]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Favored Weapon** [[DATABASE/deity/Alseta|Alseta]], [[DATABASE/deity/Ardad Lili|Ardad Lili]], [[DATABASE/deity/Conqueror Worm|Conqueror Worm]], [[DATABASE/deity/Eritrice|Eritrice]], [[DATABASE/deity/Fandarra|Fandarra]], [[DATABASE/deity/Gravelady's Guard|Gravelady's Guard]], [[DATABASE/deity/Gyronna|Gyronna]], [[DATABASE/deity/Kitumu|Kitumu]], [[DATABASE/deity/Lao Shu Po|Lao Shu Po]], [[DATABASE/deity/Naderi|Naderi]], [[DATABASE/deity/Nocticula|Nocticula]], [[DATABASE/deity/Pharasma|Pharasma]], [[DATABASE/deity/Shax|Shax]], [[DATABASE/deity/Thamir|Thamir]], [[DATABASE/deity/The Lantern King|The Lantern King]], [[DATABASE/deity/The Last Breath|The Last Breath]], [[DATABASE/deity/Urban Prosperity|Urban Prosperity]], [[DATABASE/deity/Vildeis|Vildeis]], [[DATABASE/deity/Ydersius|Ydersius]], [[DATABASE/deity/Yog-Sothoth|Yog-Sothoth]], [[DATABASE/deity/Yuelral|Yuelral]]
 **Price** 2 sp; **Damage** 1d4 P; **Bulk** L
 **Hands** 1
-**Type** Melee; **Category** Simple; **Group** [[Knife]]
+**Type** Melee; **Category** Simple; **Group** [[DATABASE/weapongroup/Knife|Knife]]
 
 ---
 This small, bladed weapon is held in one hand and used to stab a creature in close combat. It can also be thrown.
@@ -88,10 +89,10 @@ A versatile weapon can be used to deal a different type of damage than that list
 
 ## Critical Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
-**Knife**: The target takes 1d6 [[Persistent Damage]]. You gain an item bonus to this bleed damage equal to the weapon's item bonus to attack rolls.
+**Knife**: The target takes 1d6 [[DATABASE/condition/Persistent Damage|persistent bleed damage]]. You gain an item bonus to this bleed damage equal to the weapon's item bonus to attack rolls.
 
 ## Specific Magic Weapons
 
-[[Bellicose Dagger]], [[Blink Blade]], [[Dagger of Venom]], [[Dog-Bone Knife]], [[Fiend's Hunger]], [[Flaying Knife]], [[Ghast Stiletto]], [[Gloaming Shard]], [[Heartripper Blade]], [[Lady's Knife]], [[Little Love]], [[Poisonous Dagger]], [[Spellender]], [[Spiral Athame]], [[Undead Scourge]]
+[[DATABASE/equipment/Bellicose Dagger|Bellicose Dagger]], [[DATABASE/equipment/Blink Blade|Blink Blade]], [[DATABASE/equipment/Dagger of Venom|Dagger of Venom]], [[DATABASE/equipment/Dog-Bone Knife|Dog-Bone Knife]], [[DATABASE/equipment/Fiend's Hunger|Fiend's Hunger]], [[DATABASE/equipment/Flaying Knife|Flaying Knife]], [[DATABASE/equipment/Ghast Stiletto|Ghast Stiletto]], [[DATABASE/equipment/Gloaming Shard|Gloaming Shard]], [[DATABASE/equipment/Heartripper Blade|Heartripper Blade]], [[DATABASE/equipment/Lady's Knife|Lady's Knife]], [[DATABASE/equipment/Little Love|Little Love]], [[DATABASE/equipment/Poisonous Dagger|Poisonous Dagger]], [[DATABASE/equipment/Spellender|Spellender]], [[DATABASE/equipment/Spiral Athame|Spiral Athame]], [[DATABASE/equipment/Undead Scourge|Undead Scourge]]

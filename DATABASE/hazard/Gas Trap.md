@@ -17,6 +17,7 @@ name: Gas Trap
 rarity: Common
 reflex: null
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 157. Devil at the Dreaming Palace|Pathfinder
   #157: Devil at the Dreaming Palace]]'
@@ -32,13 +33,13 @@ will: null
 # Gas Trap<span class="item-type">Hazard 5</span>
 
 <span class="item-trait">Complex</span><span class="item-trait">Mechanical</span><span class="item-trait">Trap</span>
-**Source** [[Pathfinder 157. Devil at the Dreaming Palace]]
+**Source** [[DATABASE/source/Pathfinder 157. Devil at the Dreaming Palace|Pathfinder #157: Devil at the Dreaming Palace]]
 **Complexity** Complex
 **Stealth** +14 (trained) to smell the poison gas or hear it hissing
 **Description** A spring slams and locks the room's door before four hidden gas vents begin pumping poison gas into the chamber.
 
 ---
-**Disable** Four DC 20 [[Thievery]] checks to block the gas vents, or a DC 26 Thievery check to unlock the door and escape
+**Disable** Four DC 20 [[DATABASE/skill/Thievery|Thievery]] checks to block the gas vents, or a DC 26 Thievery check to unlock the door and escape
 **Door Hardness** 13, **Door HP** 52 (BT 26); **Immunities** critical hits, object immunities, precision damage
 **Toxic Gas** <span class="action-icon">5</span> **Trigger** A creature opens one of the drawers; **Effect** The door to the room slams shut and locks and the trap rolls initiative. (The trap can also be triggered manually or disarmed from area **E30**.)
 

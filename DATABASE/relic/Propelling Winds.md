@@ -5,6 +5,7 @@ item_category: Relics
 name: Propelling Winds
 prerequisite: null
 rarity: Common
+rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
@@ -16,8 +17,8 @@ type: Relic Major Gift
 # Propelling Winds<span class="item-type">Major Gift</span>
 
 <span class="item-trait">Air</span><span class="item-trait">Transmutation</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Aspect** air
 
 ---
-**Activate** <span class="action-icon">2</span> command, Interact **Frequency** once per hour; **Effect** The relic casts [[Fly]] targeting you.
+**Activate** <span class="action-icon">2</span> command, Interact **Frequency** once per hour; **Effect** The relic casts [[DATABASE/spell/Fly|fly]] targeting you.

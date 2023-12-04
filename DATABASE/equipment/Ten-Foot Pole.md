@@ -36,6 +36,7 @@ resistance:
 - electricity 15
 - fire 15
 - sonic 15
+rus_type_level: null
 saving_throw: null
 school: null
 size: Huge
@@ -57,9 +58,9 @@ weapon_type: null
 ---
 # Ten-Foot Pole<span class="item-type">Item 0</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 1 cp
 **Hands** 2; **Bulk** 1
 
 ---
-When wielding this long pole, you can use [[Seek]] to search a square up to 10 feet away. The pole is not sturdy enough to use as a weapon.
+When wielding this long pole, you can use [[DATABASE/action/Seek|Seek]] to search a square up to 10 feet away. The pole is not sturdy enough to use as a weapon.

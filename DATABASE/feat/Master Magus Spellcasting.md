@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Expert Magus Spellcasting|Expert Magus Spellcasti
   ;'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Master Magus Spellcasting <span class="item-type">Feat 18</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Secrets of Magic]] 
-**Archetype** [[Magus]]
-**Prerequisites** [[Expert Magus Spellcasting]]; legendary in [[Arcana]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
+**Archetype** [[DATABASE/archetype/Magus|Magus]]
+**Prerequisites** [[DATABASE/feat/Expert Magus Spellcasting|Expert Magus Spellcasting]]; legendary in [[DATABASE/skill/Arcana|Arcana]]
 
 ---
 You gain the master bounded spellcasting benefits.

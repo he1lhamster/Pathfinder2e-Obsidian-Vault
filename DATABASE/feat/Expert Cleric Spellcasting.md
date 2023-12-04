@@ -11,6 +11,7 @@ name: Expert Cleric Spellcasting
 prerequisite: '[[DATABASE/feat/Basic Cleric Spellcasting|Basic Cleric Spellcasting]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,16 +24,16 @@ type: Feat
 # Expert Cleric Spellcasting <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Cleric]]
-**Prerequisites** [[Basic Cleric Spellcasting]]; master in [[Religion]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Cleric|Cleric]]
+**Prerequisites** [[DATABASE/feat/Basic Cleric Spellcasting|Basic Cleric Spellcasting]]; master in [[DATABASE/skill/Religion|Religion]]
 
 ---
 You gain the expert spellcasting benefits.
 
 ## Expert Cleric Spellcasting Leads To...
 
-[[Master Cleric Spellcasting]]
+[[DATABASE/feat/Master Cleric Spellcasting|Master Cleric Spellcasting]]
 
 ## Traits
 

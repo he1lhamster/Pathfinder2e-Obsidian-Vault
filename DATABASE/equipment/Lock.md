@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -50,38 +51,38 @@ weapon_type: null
 ---
 # Lock<span class="item-type">Item 0+</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Bulk** —
 
 ---
-Picking a poor lock requires two successful DC 15 [[Thievery]] checks, a simple lock requires three successful DC 20 Thievery checks, an average lock requires four successes at DC 25, a good lock requires five successes at DC 30, and a superior lock six successes at DC 40.
+Picking a poor lock requires two successful DC 15 [[DATABASE/skill/Thievery|Thievery]] checks, a simple lock requires three successful DC 20 Thievery checks, an average lock requires four successes at DC 25, a good lock requires five successes at DC 30, and a superior lock six successes at DC 40.
 
 ## Lock (Poor)<span class="item-type">Item 0</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 2 sp
 **Hands** 2
 
 ## Lock (Simple)<span class="item-type">Item 1</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 2 gp
 **Hands** 2
 
 ## Lock (Average)<span class="item-type">Item 3</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 15 gp
 **Hands** 2
 
 ## Lock (Good)<span class="item-type">Item 9</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 200 gp
 **Hands** 2
 
 ## Lock (Superior)<span class="item-type">Item 17</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 4,500 gp
 **Hands** 2

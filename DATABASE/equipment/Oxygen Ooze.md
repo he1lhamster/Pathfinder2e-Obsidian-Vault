@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Oxygen Ooze<span class="item-type">Item 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 **Price** 15 gp
 **Usage** held in 1 hand; **Bulk** L
 **Access** Characters from Nex have access to this item.

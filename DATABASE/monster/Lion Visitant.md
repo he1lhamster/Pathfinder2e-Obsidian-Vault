@@ -78,22 +78,22 @@ wisdom: '+2'
 # Lion Visitant
 
 Scars and other marks of obvious mistreatment are the clearest indicators that an undead animal is no mere zombie.
-**Recall Knowledge - Animal ([[Nature]])**: DC 20
-**Recall Knowledge - Undead ([[Religion]])**: DC 20
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 20
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 20
 **Unspecific Lore**: DC 18
 **Specific Lore**: DC 15
 
 # Lion Visitant<span class="item-type">Creature 5</span>
 
 <span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Animal</span><span class="item-trait">Undead</span>
-**Source** [[Pathfinder 152. Legacy of the Lost God]]
+**Source** [[DATABASE/source/Pathfinder 152. Legacy of the Lost God|Pathfinder #152: Legacy of the Lost God]]
 **Perception** +13; darkvision, lifesense (imprecise) 60 feet
-**Skills** [[Acrobatics]] +13, [[Athletics]] +13, [[Stealth]] +13
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +13, [[DATABASE/skill/Athletics|Athletics]] +13, [[DATABASE/skill/Stealth|Stealth]] +13
 **Str** +6, **Dex** +4, **Con** +2, **Int** -4, **Wis** +2, **Cha** +0
 
 ---
 **AC** 22; **Fort** +9, **Ref** +11, **Will** +15
-**HP** 95 ([[Negative Healing]]); **Immunities** death effects, disease, paralyzed, poison, unconscious; **Weaknesses** positive 7, whip vulnerability
+**HP** 95 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects, disease, paralyzed, poison, unconscious; **Weaknesses** positive 7, whip vulnerability
 <span class="in-box-ability">**Whip Vulnerability** A lion visitant takes 7 additional damage from whips.</span>
 
 ---
@@ -102,4 +102,4 @@ Scars and other marks of obvious mistreatment are the clearest indicators that a
 **Critical Success** The creature is unaffected.
 **Success** The creature is frightened 1.
 **Failure** The creature is frightened 2.
-**Critical Failure** The creature is frightened 3.</span><span class="in-box-ability">**[[Sneak Attack]]** The visitant deals an extra 1d8 precision damage to flat-footed creatures.</span>
+**Critical Failure** The creature is frightened 3.</span><span class="in-box-ability">**[[DATABASE/monsterability/Sneak Attack|Sneak Attack]]** The visitant deals an extra 1d8 precision damage to flat-footed creatures.</span>

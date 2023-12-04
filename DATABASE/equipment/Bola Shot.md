@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -54,13 +55,13 @@ weapon_type: null
 # Bola Shot<span class="item-type">Item 5</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Magical</span><span class="item-trait">Transmutation</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 25 gp
 **Ammunition** any; **Bulk** —
 **Activate** <span class="action-icon">1</span> command
 
 ---
 This ammunition bears a rune with three lines radiating out, each ending in a circle. When an activated bola shot hits a target, it deals nonlethal bludgeoning damage. Compare the attack roll to the target's Reflex DC to determine the shot's other effects.
-**Critical Success** The target falls [[Prone]] and is [[Stunned]].
+**Critical Success** The target falls [[DATABASE/condition/Prone|prone]] and is [[DATABASE/condition/Stunned|stunned 1]].
 **Success** The target falls prone.
 **Failure** No additional effect.

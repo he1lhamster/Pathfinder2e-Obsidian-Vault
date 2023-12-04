@@ -68,26 +68,26 @@ wisdom: '+0'
 # Ameon Trask
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 37
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 37
 **Unspecific Lore**: DC 35
 **Specific Lore**: DC 32
 
 # Ameon Trask<span class="item-type">Creature 10</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 Male human mercenary
 **Perception** +16
-**Languages** [[Common]], [[Skald]]
-**Skills** [[Acrobatics]] +21, [[Athletics]] +19, [[Deception]] +20, [[Intimidation]] +20, [[Lore]] +16
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Skald|Skald]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +21, [[DATABASE/skill/Athletics|Athletics]] +19, [[DATABASE/skill/Deception|Deception]] +20, [[DATABASE/skill/Intimidation|Intimidation]] +20, [[DATABASE/skill/Lore|Warfare Lore]] +16
 **Str** +3, **Dex** +5, **Con** +3, **Int** +0, **Wis** +0, **Cha** +4
-**Items** _[[Striking]] [[Shortsword]]_, [[Cold Iron]] short sword, [[Chain Mail]], 50 gp, [[Composite Shortbow]], [[Invisibility Potion]], [[Healing Potion]]
+**Items** _[[DATABASE/equipment/Striking|+1 striking]] [[DATABASE/weapon/Shortsword|short sword]]_, [[DATABASE/equipment/Cold Iron|cold iron]] short sword, [[DATABASE/armor/Chain Mail|+1 chain mail]], 50 gp, [[DATABASE/weapon/Composite Shortbow|composite shortbow (20 arrows)]], [[DATABASE/equipment/Invisibility Potion|invisibility potion]], [[DATABASE/equipment/Healing Potion|moderate healing potion]]
 
 ---
 **AC** 30; **Fort** +19, **Ref** +21, **Will** +16
 **HP** 175
-<span class="in-box-ability">**[[Attack of Opportunity]]** <span class="action-icon">5</span> </span>
+<span class="in-box-ability">**[[DATABASE/monsterability/Attack of Opportunity|Attack of Opportunity]]** <span class="action-icon">5</span> </span>
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _short sword_ +23 [+19/+15] (agile, finesse, versatile S), **Damage** 2d6+9 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> _cold iron short sword_ +22 [+18/+14] (agile, finesse, versatile S), **Damage** 1d6+9 piercing</span><span class="in-box-ability">**[[Sneak Attack]]** Ameon Trask deals 2d6 extra precision damage to [[Flat-Footed]] creatures.</span><span class="in-box-ability">**Twin Feint** <span class="action-icon">2</span> Ameon Trask makes a series of attacks with both short swords, using the first attack to throw his foe off guard against a second attack at a different angle. He makes one Strike with each of his short swords, both against the same target. The target is automatically [[Flat-Footed]] against the second attack. Apply Ameon Trask's multiple attack penalty to the Strikes normally.</span><span class="in-box-ability">**Twin Parry** <span class="action-icon">1</span> Ameon uses his two short swords to parry attacks. He gains a +2 circumstance bonus to AC until the start of his next turn, but loses this bonus if he no longer wields a weapon in each hand.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _short sword_ +23 [+19/+15] (agile, finesse, versatile S), **Damage** 2d6+9 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> _cold iron short sword_ +22 [+18/+14] (agile, finesse, versatile S), **Damage** 1d6+9 piercing</span><span class="in-box-ability">**[[DATABASE/monsterability/Sneak Attack|Sneak Attack]]** Ameon Trask deals 2d6 extra precision damage to [[DATABASE/condition/Flat-Footed|flat-footed]] creatures.</span><span class="in-box-ability">**Twin Feint** <span class="action-icon">2</span> Ameon Trask makes a series of attacks with both short swords, using the first attack to throw his foe off guard against a second attack at a different angle. He makes one Strike with each of his short swords, both against the same target. The target is automatically [[DATABASE/condition/Flat-Footed|flat-footed]] against the second attack. Apply Ameon Trask's multiple attack penalty to the Strikes normally.</span><span class="in-box-ability">**Twin Parry** <span class="action-icon">1</span> Ameon uses his two short swords to parry attacks. He gains a +2 circumstance bonus to AC until the start of his next turn, but loses this bonus if he no longer wields a weapon in each hand.</span>

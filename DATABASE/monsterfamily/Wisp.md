@@ -3,6 +3,7 @@ creature_family: Wisp
 id: '210'
 name: Wisp
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,8 +11,8 @@ type: Creature Family
 ---
 # Wisp
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 
 ### Members
 
-[[Corpselight]] (Creature 2), [[Dread Wisp]] (Creature 9), [[Flickerwisp]] (Creature 2), [[Voidglutton]] (Creature 8), [[Will-o’-Wisp]] (Creature 6)
+[[DATABASE/monster/Corpselight|Corpselight]] (Creature 2), [[DATABASE/monster/Dread Wisp|Dread Wisp]] (Creature 9), [[DATABASE/monster/Flickerwisp|Flickerwisp]] (Creature 2), [[DATABASE/monster/Voidglutton|Voidglutton]] (Creature 8), [[DATABASE/monster/Will-o’-Wisp|Will-o’-Wisp]] (Creature 6)

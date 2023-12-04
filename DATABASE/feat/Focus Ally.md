@@ -11,6 +11,7 @@ name: Focus Ally
 prerequisite: '[[DATABASE/feat/Swordmaster Dedication|Swordmaster Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
 subcategory: null
@@ -25,9 +26,9 @@ type: Feat
 # Focus Ally <span class="action-icon">5</span> <span class="item-type">Feat 16</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Fortune</span>
-**Source** [[PFS Guide]]
-**Archetype** [[Swordmaster]]
-**Prerequisites** [[Swordmaster Dedication]]
+**Source** [[DATABASE/source/PFS Guide|PFS Guide]]
+**Archetype** [[DATABASE/archetype/Swordmaster|Swordmaster]]
+**Prerequisites** [[DATABASE/feat/Swordmaster Dedication|Swordmaster Dedication]]
 **Trigger** An adjacent ally fails, but doesn't critically fail, a saving throw against an effect with the incapacitation trait.
 
 ---

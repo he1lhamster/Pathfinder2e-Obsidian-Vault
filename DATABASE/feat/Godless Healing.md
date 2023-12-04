@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Battle Medicine|Battle Medicine]] ; can''t have a
   deity'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
 subcategory: medicine
@@ -25,15 +26,15 @@ type: Feat
 # Godless Healing <span class="item-type">Feat 2</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[World Guide]] 
-**Prerequisites** [[Battle Medicine]]; can't have a patron deity
+**Source** [[DATABASE/source/World Guide|World Guide]] 
+**Prerequisites** [[DATABASE/feat/Battle Medicine|Battle Medicine]]; can't have a patron deity
 
 ---
 You recover an additional 5 Hit Points from a successful attempt to Treat your Wounds or use Battle Medicine on you. After you or an ally use Battle Medicine on you, you become temporarily immune to that Battle Medicine for only 1 hour, instead of 1 day.
 
 ## Godless Healing Leads To...
 
-[[Mortal Healing]]
+[[DATABASE/feat/Mortal Healing|Mortal Healing]]
 
 ## Traits
 

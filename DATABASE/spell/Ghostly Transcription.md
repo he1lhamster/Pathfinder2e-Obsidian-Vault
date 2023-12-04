@@ -22,6 +22,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -37,8 +38,8 @@ type: Focus
 # Ghostly Transcription<span class="item-type">Focus 4</span>
 
 <span class="item-trait">Illusion</span><span class="item-trait">Visual</span>
-**Source** [[Gods & Magic]] 
-**Domain** [[Glyph Domain]]
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
+**Domain** [[DATABASE/domain/Glyph Domain|glyph]]
 **Cast** <span class="action-icon">2</span> material, somatic
 **Range** 30 feet; **Targets** 1 creature
 **Duration** 1 minute

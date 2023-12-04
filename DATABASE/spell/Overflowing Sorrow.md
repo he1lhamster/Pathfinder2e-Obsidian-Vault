@@ -22,6 +22,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -39,8 +40,8 @@ type: Focus
 # Overflowing Sorrow<span class="item-type">Focus 4</span>
 
 <span class="item-trait">Emotion</span><span class="item-trait">Enchantment</span><span class="item-trait">Incapacitation</span><span class="item-trait">Mental</span>
-**Source** [[Gods & Magic]] 
-**Domain** [[Sorrow Domain]]
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
+**Domain** [[DATABASE/domain/Sorrow Domain|sorrow]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Area** 15-foot emanation, centered on you
 **Saving Throw** Will; **Duration** sustained up to 1 minute

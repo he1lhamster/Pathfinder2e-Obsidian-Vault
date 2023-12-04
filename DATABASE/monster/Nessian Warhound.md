@@ -74,18 +74,18 @@ wisdom: '+4'
 # Nessian Warhound
 
 Believed to be bred by the Prince of Darkness himself within vast kennels in the infernal realm of Nessus, Nessian warhounds are the favored guards and hunting hounds of powerful fiends and, rarely, those mortals who worship them and have earned their favor.
-**Recall Knowledge - Beast ([[Arcana]], [[Nature]])**: DC 26
-**Recall Knowledge - Fiend ([[Religion]])**: DC 26
+**Recall Knowledge - Beast ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 26
+**Recall Knowledge - Fiend ([[DATABASE/skill/Religion|Religion]])**: DC 26
 **Unspecific Lore**: DC 24
 **Specific Lore**: DC 21
 
 # Nessian Warhound<span class="item-type">Creature 9</span>
 
 <span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Beast</span><span class="item-trait">Fiend</span><span class="item-trait">Fire</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +19; darkvision, scent (imprecise) 120 feet
-**Languages** [[Infernal]]; (can’t speak any language)
-**Skills** [[Acrobatics]] +18, [[Athletics]] +19, [[Stealth]] +18, [[Survival]] +20 (+22 to Track)
+**Languages** [[DATABASE/language/Infernal|Infernal]]; (can’t speak any language)
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +18, [[DATABASE/skill/Athletics|Athletics]] +19, [[DATABASE/skill/Stealth|Stealth]] +18, [[DATABASE/skill/Survival|Survival]] +20 (+22 to Track)
 **Str** +6, **Dex** +5, **Con** +5, **Int** -2, **Wis** +4, **Cha** -2
 
 ---

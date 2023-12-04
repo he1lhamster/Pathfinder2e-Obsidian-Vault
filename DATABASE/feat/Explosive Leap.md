@@ -11,6 +11,7 @@ name: Explosive Leap
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -26,7 +27,7 @@ type: Feat
 # Explosive Leap <span class="action-icon">1</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Fire</span><span class="item-trait">Inventor</span><span class="item-trait">Move</span><span class="item-trait">Unstable</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 
 ---
 You aim an explosion from your innovation downward to launch yourself into the air. You jump up to 30 feet in any direction without touching the ground. You must land on a space of solid ground, or else you fall after using your next action. As normal for effects where you fall after using your next action, you still fall at the end of your turn, even if you don't use any further actions that turn.

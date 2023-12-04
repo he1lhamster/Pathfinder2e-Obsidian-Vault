@@ -11,6 +11,7 @@ name: Transpose
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -27,7 +28,7 @@ type: Feat
 # Transpose <span class="action-icon">1</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Conjuration</span><span class="item-trait">Manipulate</span><span class="item-trait">Summoner</span><span class="item-trait">Teleportation</span>
-**Source** [[Secrets of Magic]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]]
 
 ---
 You switch places with your eidolon. You each teleport to the other's position.

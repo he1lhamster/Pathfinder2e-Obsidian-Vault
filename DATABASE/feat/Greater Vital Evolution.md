@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Divine Evolution|Divine Evolution]] or [[DATABASE
   Evolution|Primal Evolution]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Greater Vital Evolution <span class="item-type">Feat 16</span>
 
 <span class="item-trait">Sorcerer</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Divine Evolution]], or [[Primal Evolution]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/feat/Divine Evolution|Divine Evolution]], or [[DATABASE/feat/Primal Evolution|Primal Evolution]]
 
 ---
 Vital power surges through you like a font of energy. Twice per day, you can cast a spell after you’ve run out of spell slots of the appropriate spell level; the two spells you cast with this feat must be of different spell levels.

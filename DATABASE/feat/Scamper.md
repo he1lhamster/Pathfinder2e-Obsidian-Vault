@@ -11,6 +11,7 @@ name: Scamper
 prerequisite: null
 rarity: Common
 requirement: You are adjacent to at least one enemy.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Scamper <span class="action-icon">1</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Kobold</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Requirements** You are adjacent to at least one enemy.
 
 ---
@@ -33,4 +34,4 @@ You instinctively know how to flee danger. You Stride up to your Speed, with a +
 
 **Kobold:**
 
-A creature with this trait is a member of the kobold ancestry. Kobolds are reptilian humanoids who are usually Small and typically have [[Darkvision]]. An ability with this trait can be used or selected only by kobolds.
+A creature with this trait is a member of the kobold ancestry. Kobolds are reptilian humanoids who are usually Small and typically have [[DATABASE/monsterability/Darkvision|darkvision]]. An ability with this trait can be used or selected only by kobolds.

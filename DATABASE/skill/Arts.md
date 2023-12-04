@@ -4,6 +4,7 @@ ability_boost: null
 id: '19'
 name: Arts
 rarity: Common
+rus_type_level: null
 skill:
 - Arts
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
@@ -13,16 +14,16 @@ type: Skill
 ---
 # Arts (Culture)
 
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 Arts measure the kingdom's devotion to entertainment, artwork, and public works such as monuments.
 
-* **[[Focused Attention]]**
-* **[[Quell Unrest]]**
-* **[[Rest and Relax]]**
+* **[[DATABASE/generalskillaction/Focused Attention|Focused Attention]]**
+* **[[DATABASE/generalskillaction/Quell Unrest|Quell Unrest]]**
+* **[[DATABASE/generalskillaction/Rest and Relax|Rest and Relax]]**
 
 ## Arts Trained Actions
 
-* **[[Repair Reputation]]**
+* **[[DATABASE/generalskillaction/Repair Reputation|Repair Reputation]]**
 
 ### Related Feats
 
@@ -30,10 +31,10 @@ To see a list of Feats related to Arts, click here.
 
 # Arts Untrained Actions
 
-## [[Craft Luxuries]]
+## [[DATABASE/action/Craft Luxuries|Craft Luxuries]]
 
 <span class="item-trait">Downtime</span><span class="item-trait">Leadership</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 
 ---
 You encourage your artisans to craft luxury goods and may even aid them in this pursuit. Roll 1 Resource Die and spend RP equal to the result. Then attempt a basic check.
@@ -44,10 +45,10 @@ You encourage your artisans to craft luxury goods and may even aid them in this 
 
 # Arts Trained Actions
 
-## [[Create a Masterpiece]]
+## [[DATABASE/action/Create a Masterpiece|Create a Masterpiece]]
 
 <span class="item-trait">Downtime</span><span class="item-trait">Leadership</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 
 ---
 You encourage your kingdom's artists to create and display a masterful work of art to bolster your kingdom's reputation. Attempt a basic check; the result affects either Fame or Infamy (depending on the type of kingdom you're running). Create a Masterpiece may be attempted only once per Kingdom turn regardless of the number of leaders pursuing activities.

@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 size: null
@@ -57,7 +58,7 @@ weapon_type: null
 # Life-Boosting Oil<span class="item-type">Item 3+</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Consumable</span><span class="item-trait">Healing</span><span class="item-trait">Magical</span><span class="item-trait">Necromancy</span><span class="item-trait">Oil</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Usage** held in 2 hands; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
@@ -66,28 +67,28 @@ When you apply sticky, stinging _life-boosting oil_, you gain fast healing accor
 
 ## Life-Boosting Oil (Lesser)<span class="item-type">Item 3</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 12 gp
 **Bulk** L
 The oil grants fast healing 3.
 
 ## Life-Boosting Oil (Moderate)<span class="item-type">Item 7</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 70 gp
 **Bulk** L
 The oil grants fast healing 6.
 
 ## Life-Boosting Oil (Greater)<span class="item-type">Item 11</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 300 gp
 **Bulk** L
 The oil grants fast healing 10.
 
 ## Life-Boosting Oil (Major)<span class="item-type">Item 15</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 1,300 gp
 **Bulk** L
 The oil grants fast healing 15.

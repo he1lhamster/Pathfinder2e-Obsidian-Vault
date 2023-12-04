@@ -13,6 +13,7 @@ prerequisite: '[[DATABASE/feat/Curse Maelstrom Dedication|Curse Maelstrom Dedica
   Lore]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -26,12 +27,12 @@ type: Feat
 # Familiar Oddities <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Skill</span>
-**Source** [[Dark Archive]]
-**Archetype** [[Curse Maelstrom]]
-**Prerequisites** [[Curse Maelstrom Dedication]]; trained in [[Occultism]] or [[Lore]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Archetype** [[DATABASE/archetype/Curse Maelstrom|Curse Maelstrom]]
+**Prerequisites** [[DATABASE/feat/Curse Maelstrom Dedication|Curse Maelstrom Dedication]]; trained in [[DATABASE/skill/Occultism|Occultism]] or [[DATABASE/skill/Lore|Curse Lore]]
 
 ---
-Perhaps due to the curse within you, curses occasionally perceive you as an extension of themselves and readily reveal themselves to you. You gain a +2 circumstance bonus to checks to [[Identify Magic]] on a cursed item or a spell that has the curse trait.
+Perhaps due to the curse within you, curses occasionally perceive you as an extension of themselves and readily reveal themselves to you. You gain a +2 circumstance bonus to checks to [[DATABASE/action/Identify Magic|Identify Magic]] on a cursed item or a spell that has the curse trait.
 
 ## Traits
 

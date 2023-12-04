@@ -70,16 +70,16 @@ wisdom: '+0'
 # Sewer Ooze
 
 These amorphous masses of sewage and other detritus make their way through filthy culverts beneath cities large and small.
-**Recall Knowledge - Ooze ([[Occultism]])**: DC 15
+**Recall Knowledge - Ooze ([[DATABASE/skill/Occultism|Occultism]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Sewer Ooze<span class="item-type">Creature 1</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Mindless</span><span class="item-trait">Ooze</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +3; motion sense 60 feet, no vision
-**Skills** [[Stealth]] +1 (+4 in sewers)
+**Skills** [[DATABASE/skill/Stealth|Stealth]] +1 (+4 in sewers)
 **Str** +2, **Dex** -5, **Con** +4, **Int** -5, **Wis** +0, **Cha** -5
 **Motion Sense** A sewer ooze can sense nearby motion through vibration and air movement.
 

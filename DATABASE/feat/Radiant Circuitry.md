@@ -11,6 +11,7 @@ name: Radiant Circuitry
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -25,10 +26,10 @@ type: Feat
 # Radiant Circuitry <span class="action-icon">1</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Android</span><span class="item-trait">Concentrate</span><span class="item-trait">Light</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-Your biological circuitry emits light like a torch, casting bright light in a 20-foot radius (and dim light for the next 20 feet). The light shuts off when you take this action again or are knocked [[Unconscious]].
+Your biological circuitry emits light like a torch, casting bright light in a 20-foot radius (and dim light for the next 20 feet). The light shuts off when you take this action again or are knocked [[DATABASE/condition/Unconscious|unconscious]].
 
 ## Traits
 

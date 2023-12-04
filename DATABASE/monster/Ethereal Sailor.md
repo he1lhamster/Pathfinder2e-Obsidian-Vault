@@ -74,15 +74,15 @@ This creature did not include a description.
 # Ethereal Sailor<span class="item-type">Creature 6</span>
 
 <span class="item-trait">No Alignment</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Mindless</span>
-**Source** [[Grand Bazaar]]
-**Perception** +14; [[Darkvision]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
+**Perception** +14; [[DATABASE/monsterability/Darkvision|darkvision]]
 **Languages** (understands commands)
-**Skills** [[Athletics]] +15, [[Lore]] +15
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +15, [[DATABASE/skill/Lore|Sailing Lore]] +15
 **Str** +4, **Dex** +4, **Con** +0, **Int** -5, **Wis** +0, **Cha** +0
 
 ---
 **AC** 25; **Fort** +8, **Ref** +14, **Will** +8
-**HP** 60; **Immunities** disease, mental, non-magical attacks, [[Paralyzed]], poison, precision, [[Unconscious]]; **Resistances** all damage 10 (except force or [[Ghost Touch]])
+**HP** 60; **Immunities** disease, mental, non-magical attacks, [[DATABASE/condition/Paralyzed|paralysis]], poison, precision, [[DATABASE/condition/Unconscious|unconscious]]; **Resistances** all damage 10 (except force or [[DATABASE/equipment/Ghost Touch|ghost touch]])
 
 ---
 **Speed** fly 30 feet

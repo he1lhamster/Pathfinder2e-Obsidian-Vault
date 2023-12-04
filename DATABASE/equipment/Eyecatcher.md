@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -53,10 +54,10 @@ weapon_type: null
 # Eyecatcher<span class="item-type">Item 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Adjustment</span>
-**Source** [[Firebrands]]
+**Source** [[DATABASE/source/Firebrands|Firebrands]]
 **Price** 2 gp
 **Usage** applied to a weapon; **Bulk** —
 **Access** Second-mark members of the Firebrands have access to this item.
 
 ---
-An eyecatcher is a simple tassel, reflective basket hilt, or other accessory attached to a weapon to serve as a distraction. You gain a +1 item bonus to [[Deception]] checks to [[Feint]] while using a weapon with an eyecatcher attached. An eyecatcher affects the balancing of a weapon, making it slightly more unwieldy. This increases the weapon's Bulk by 1 and grants a –1 penalty to damage rolls with the weapon.
+An eyecatcher is a simple tassel, reflective basket hilt, or other accessory attached to a weapon to serve as a distraction. You gain a +1 item bonus to [[DATABASE/skill/Deception|Deception]] checks to [[DATABASE/action/Feint|Feint]] while using a weapon with an eyecatcher attached. An eyecatcher affects the balancing of a weapon, making it slightly more unwieldy. This increases the weapon's Bulk by 1 and grants a –1 penalty to damage rolls with the weapon.

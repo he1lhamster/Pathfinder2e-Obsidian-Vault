@@ -21,6 +21,7 @@ patron_theme: null
 range: 60 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -41,9 +42,9 @@ type: Cantrip
 # Daze<span class="item-type">Cantrip 1</span>
 
 <span class="item-trait">Cantrip</span><span class="item-trait">Enchantment</span><span class="item-trait">Mental</span><span class="item-trait">Nonlethal</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, divine, occult
-**Bloodlines** [[Aberrant]], [[Hag]]
+**Bloodlines** [[DATABASE/sorcererbloodline/Aberrant|aberrant]], [[DATABASE/sorcererbloodline/Hag|hag]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 60 feet; **Targets** 1 creature
 **Saving Throw** Will; **Duration** 1 round

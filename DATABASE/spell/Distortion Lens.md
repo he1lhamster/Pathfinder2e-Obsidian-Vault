@@ -20,6 +20,7 @@ patron_theme: null
 range: 30 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
@@ -37,7 +38,7 @@ type: Cantrip
 # Distortion Lens<span class="item-type">Cantrip 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Cantrip</span><span class="item-trait">Conjuration</span><span class="item-trait">Psychic</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Cast** <span class="action-icon">1</span> verbal
 **Range** 30 feet; **Area** one 5-foot square
 **Duration** sustained up to 1 minute

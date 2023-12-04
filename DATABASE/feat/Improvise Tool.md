@@ -11,6 +11,7 @@ name: Improvise Tool
 prerequisite: Trained in [[DATABASE/skill/Crafting|Crafting]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: crafting
@@ -24,12 +25,12 @@ type: Feat
 # Improvise Tool <span class="item-type">Feat 1</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** trained in [[Crafting]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** trained in [[DATABASE/skill/Crafting|Crafting]]
 
 ---
-You can jury-rig solutions when you don't have the proper tools on hand. You can attempt to [[Repair]] damaged items without a [[Repair Kit]].
- If you have the raw materials available, you can [[Craft]] a basic caltrop set, [[Candle]], [[Compass]], [[Crowbar]], [[Fishing Tackle]], [[Flint and Steel]], [[Hammer]], [[Ladder (10 ft.)]], [[Piton]], [[Rope]], [[Ten-Foot Pole]], [[Pick]], [[Tool]], or [[Torch]] without consulting a [[Basic Crafter's Book]].
+You can jury-rig solutions when you don't have the proper tools on hand. You can attempt to [[DATABASE/action/Repair|Repair]] damaged items without a [[DATABASE/equipment/Repair Kit|repair kit]].
+ If you have the raw materials available, you can [[DATABASE/action/Craft|Craft]] a basic caltrop set, [[DATABASE/equipment/Candle|candle]], [[DATABASE/equipment/Compass|compass]], [[DATABASE/equipment/Crowbar|crowbar]], [[DATABASE/equipment/Fishing Tackle|fishing tackle]], [[DATABASE/equipment/Flint and Steel|flint and steel]], [[DATABASE/equipment/Hammer|hammer]], [[DATABASE/equipment/Ladder (10 ft.)|ladder]], [[DATABASE/equipment/Piton|piton]], [[DATABASE/equipment/Rope|rope]], [[DATABASE/equipment/Ten-Foot Pole|10-foot pole]], [[DATABASE/weapon/Pick|replacement thieves' picks]], [[DATABASE/equipment/Tool|long or short tool]], or [[DATABASE/equipment/Torch|torch]] without consulting a [[DATABASE/equipment/Basic Crafter's Book|basic crafter's book]].
 
 ## Traits
 

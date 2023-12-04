@@ -11,6 +11,7 @@ name: Tumbling Strike
 prerequisite: '[[DATABASE/feat/Acrobat Dedication|Acrobat Dedication]]'
 rarity: Common
 requirement: You are adjacent to an enemy.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,14 +26,14 @@ type: Feat
 # Tumbling Strike <span class="action-icon">1</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Flourish</span><span class="item-trait">Move</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Acrobat]]
-**Prerequisites** [[Acrobat Dedication]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Acrobat|Acrobat]]
+**Prerequisites** [[DATABASE/feat/Acrobat Dedication|Acrobat Dedication]]
 **Requirements** You are adjacent to an enemy.
 
 ---
 Attempt an Acrobatics check against the Reflex DC of an enemy adjacent to you.
-**Critical Success** You move through the enemy's space to an unoccupied space on the other side of the enemy from your starting position. This movement doesn't trigger reactions. You can't move farther than your Speed, and you must end your movement adjacent to the enemy whose space you moved through. After moving, you make a melee Strike against the enemy whose space you moved through, and the enemy is [[Flat-Footed]] against that Strike.
+**Critical Success** You move through the enemy's space to an unoccupied space on the other side of the enemy from your starting position. This movement doesn't trigger reactions. You can't move farther than your Speed, and you must end your movement adjacent to the enemy whose space you moved through. After moving, you make a melee Strike against the enemy whose space you moved through, and the enemy is [[DATABASE/condition/Flat-Footed|flat-footed]] against that Strike.
 **Success** As critical success, but the enemy isn't flat-footed against the Strike.
 **Failure** You remain in your original space but can still Strike.
 **Critical Failure** No effect.

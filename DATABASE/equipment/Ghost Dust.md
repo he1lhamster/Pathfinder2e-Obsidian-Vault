@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: You are legendary in Stealth
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Illusion
 size: null
@@ -55,10 +56,10 @@ weapon_type: null
 # Ghost Dust<span class="item-type">Item 16</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Illusion</span><span class="item-trait">Occult</span><span class="item-trait">Talisman</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 1,800 gp
 **Usage** affixed to armor; **Bulk** —
 **Activate** <span class="action-icon">4</span> envision **Trigger** You use an action with the move trait; **Requirements** You are legendary in Stealth
 
 ---
-This small vial is filled with a grayish-green dust rendered from dried ectoplasm. When you activate the dust, it casts a 4th-level [[Invisibility]] spell on you. This comes into effect before you move during the triggering action.
+This small vial is filled with a grayish-green dust rendered from dried ectoplasm. When you activate the dust, it casts a 4th-level [[DATABASE/spell/Invisibility|invisibility]] spell on you. This comes into effect before you move during the triggering action.

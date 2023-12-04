@@ -2,6 +2,7 @@
 id: '346'
 name: Seugathi
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 164. Hands of the Devil|Pathfinder #164: Hands
   of the Devil]]'
 trait:
@@ -11,9 +12,8 @@ type: Trait
 ---
 # Seugathi
 
-**Source** [[Pathfinder 164. Hands of the Devil]]
-_Note from Nethys: no description was provided for this trait_
+**Source** [[DATABASE/source/Pathfinder 164. Hands of the Devil|Pathfinder #164: Hands of the Devil]]
 
 ## Monsters
 
-[[Seugathi Reality Warper]], [[Seugathi Servant]]
+[[DATABASE/monster/Seugathi Reality Warper|Seugathi Reality Warper]], [[DATABASE/monster/Seugathi Servant|Seugathi Servant]]

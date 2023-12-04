@@ -7,6 +7,7 @@ id: '342'
 name: Support
 rarity: Common
 requirement: The creature is an animal companion.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait: null
@@ -16,7 +17,7 @@ type: Action
 ---
 # Support <span class="action-icon">1</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Requirements** The creature is an animal companion.
 
 ---

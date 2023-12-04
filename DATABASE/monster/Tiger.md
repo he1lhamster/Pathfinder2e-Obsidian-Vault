@@ -67,16 +67,16 @@ wisdom: '+2'
 # Tiger
 
 Tigers are solitary and territorial hunters, using their striped hides to blend into the forests and jungles they call home and preferring to attack with surprise.
-**Recall Knowledge - Animal ([[Nature]])**: DC 19
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 19
 **Unspecific Lore**: DC 17
 **Specific Lore**: DC 14
 
 # Tiger<span class="item-type">Creature 4</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +12; low-light vision, scent (imprecise) 30 feet
-**Skills** [[Acrobatics]] +11, [[Athletics]] +13, [[Stealth]] +13
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +11, [[DATABASE/skill/Athletics|Athletics]] +13, [[DATABASE/skill/Stealth|Stealth]] +13
 **Str** +5, **Dex** +3, **Con** +3, **Int** -4, **Wis** +2, **Cha** -2
 
 ---
@@ -85,4 +85,4 @@ Tigers are solitary and territorial hunters, using their striped hides to blend 
 
 ---
 **Speed** 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +13 [+8/+3], **Damage** 1d10+7 piercing plus Grab</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +13 [+9/+5] (agile), **Damage** 1d8+7 slashing</span><span class="in-box-ability">**Pounce** <span class="action-icon">1</span> The tiger Strides and makes a Strike at the end of that movement. If the tiger began this action hidden, it remains hidden until after this ability's Strike.</span><span class="in-box-ability">**[[Sneak Attack]]** The tiger deals 1d6 extra precision damage to flat-footed creatures.</span><span class="in-box-ability">**Wrestle** <span class="action-icon">1</span> The tiger makes a claw Strike against a creature it is grabbing. If the attack hits, that creature is knocked [[Prone]].</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +13 [+8/+3], **Damage** 1d10+7 piercing plus Grab</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +13 [+9/+5] (agile), **Damage** 1d8+7 slashing</span><span class="in-box-ability">**Pounce** <span class="action-icon">1</span> The tiger Strides and makes a Strike at the end of that movement. If the tiger began this action hidden, it remains hidden until after this ability's Strike.</span><span class="in-box-ability">**[[DATABASE/monsterability/Sneak Attack|Sneak Attack]]** The tiger deals 1d6 extra precision damage to flat-footed creatures.</span><span class="in-box-ability">**Wrestle** <span class="action-icon">1</span> The tiger makes a claw Strike against a creature it is grabbing. If the attack hits, that creature is knocked [[DATABASE/condition/Prone|prone]].</span>

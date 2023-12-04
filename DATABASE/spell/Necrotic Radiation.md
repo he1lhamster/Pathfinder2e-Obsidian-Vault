@@ -21,6 +21,7 @@ patron_theme: null
 range: touch
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Pathfinder 154. Siege of the Dinosaurs|Pathfinder #154:
@@ -41,7 +42,7 @@ type: Spell
 # Necrotic Radiation<span class="item-type">Spell 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Necromancy</span><span class="item-trait">Negative</span>
-**Source** [[Pathfinder 154. Siege of the Dinosaurs]]
+**Source** [[DATABASE/source/Pathfinder 154. Siege of the Dinosaurs|Pathfinder #154: Siege of the Dinosaurs]]
 **Traditions** arcane, divine, occult
 **Cast** <span class="action-icon">2</span> material, somatic
 **Range** touch; **Targets** one object or one 10-foot-square area

@@ -21,6 +21,7 @@ follower_alignment: null
 id: '274'
 name: Laudinmio
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Crafting|Crafting]]'
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
@@ -30,7 +31,7 @@ type: Deity
 ---
 # Laudinmio (The Sovereign of Alchemy) [No Alignment]
 
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 When Laudinmio began their study of metal in earnest, they found mentors among deities now dead or forgotten—old gods who wished for them to inherit the position of elemental lord. Under this divine pressure and tutelage, Laudinmio rose in prominence as an inquisitive alchemist with millions of projects, endeavors, and discoveries. Once they accepted the mantle, Laudinmio's encouragement of spontaneity and self-expression—be it artistic or scientific—made them a popular ruler famed for administrative flexibility and natural charm. All in their realm, known as the Euphonious Coalition, celebrated metallic crafts, alchemy, and fashion. Laudinmio was keen on being at their most eye-catching and expressive, relying on fashion experts to decide what form, shape, and appearance would complement their attire. As a result, portrayals of the Sovereign of Alchemy have varied greatly over the ages.
 **Category** Elemental Lords
 **Edicts** discover new alloys and concoctions, have multiple concurrent plans, innovate use of metals
@@ -39,11 +40,11 @@ When Laudinmio began their study of metal in earnest, they found mentors among d
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Intelligence or Charisma
-**Divine Font** _[[Harm]]_ or _[[Heal]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Intelligence or Charisma
+**Divine Font** _[[DATABASE/spell/Harm|harm]]_ or _[[DATABASE/spell/Heal|heal]]_
 **Divine Sanctification** none
-**Divine Skill** [[Crafting]]
-**Favored Weapon** [[Alchemical Bomb]]; a cleric of Laudinmio doesn't automatically gain any access to uncommon bombs
-**Domains** [[Change Domain]], [[Creation Domain]], [[Metal Domain]], [[Sorrow Domain]]
-**Alternate Domains** [[Wealth Domain]]
-**Cleric Spells** 1st: _[[Detect Metal]]_, 2nd: _[[Summon Elemental]]_ (metal only), 5th: _[[Impaling Spike]]_
+**Divine Skill** [[DATABASE/skill/Crafting|Crafting]]
+**Favored Weapon** [[DATABASE/weapon/Alchemical Bomb|alchemical bomb]]; a cleric of Laudinmio doesn't automatically gain any access to uncommon bombs
+**Domains** [[DATABASE/domain/Change Domain|change]], [[DATABASE/domain/Creation Domain|creation]], [[DATABASE/domain/Metal Domain|metal]], [[DATABASE/domain/Sorrow Domain|sorrow]]
+**Alternate Domains** [[DATABASE/domain/Wealth Domain|wealth]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Detect Metal|detect metal]]_, 2nd: _[[DATABASE/spell/Summon Elemental|summon elemental]]_ (metal only), 5th: _[[DATABASE/spell/Impaling Spike|impaling spike]]_

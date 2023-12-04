@@ -23,6 +23,7 @@ patron_theme: null
 range: 120 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -41,9 +42,9 @@ type: Spell
 # Nature's Reprisal<span class="item-type">Spell 6</span>
 
 <span class="item-trait">Plant</span><span class="item-trait">Poison</span><span class="item-trait">Transmutation</span><span class="item-trait">Wood</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Traditions** primal
-**Deity** [[Verilorn]]
+**Deity** [[DATABASE/deity/Verilorn|Verilorn]]
 **Cast** <span class="action-icon">3</span> material, somatic, verbal
 **Range** 120 feet; **Area** all squares on the ground that contain plants in an 80-foot burst
 **Duration** 1 minute

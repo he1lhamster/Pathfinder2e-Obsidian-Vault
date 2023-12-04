@@ -13,6 +13,7 @@ primary_check: '[[DATABASE/skill/Performance|Performance]] (expert)'
 range: 10 feet
 rarity: Rare
 requirement: null
+rus_type_level: null
 school: Transmutation
 secondary_casters: 4 or more
 secondary_check: '[[DATABASE/skill/Crafting|Crafting]] , Performance, [[DATABASE/skill/Society|Society]]'
@@ -30,9 +31,9 @@ type: Ritual
 # Community Repair<span class="item-type">Ritual 4</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Emotion</span><span class="item-trait">Transmutation</span>
-**Source** [[Pathfinder 170. Spoken on the Song Wind]]
+**Source** [[DATABASE/source/Pathfinder 170. Spoken on the Song Wind|Pathfinder #170: Spoken on the Song Wind]]
 **Cast** 1 day; **Cost** rare powdered pigments in at least three different colors, worth a total of 50 gp; **Secondary Casters** 4 or more
-**Primary Check** [[Performance]] (expert); **Secondary Checks** [[Crafting]], Performance, [[Society]]
+**Primary Check** [[DATABASE/skill/Performance|Performance]] (expert); **Secondary Checks** [[DATABASE/skill/Crafting|Crafting]], Performance, [[DATABASE/skill/Society|Society]]
 **Range** 10 feet; **Target(s)** 1 damaged or broken public work no larger than 3,000 cubic feet (the size of a Huge creature)
 
 ---

@@ -70,16 +70,16 @@ wisdom: '+2'
 # Snapping Flytrap
 
 The snapping flytrap is a ravenous, carnivorous plant that is quick to bite at any creature that passes by. Snapping flytraps typically have two sets of tooth-edged leaves, each measuring 3 feet wide, at the end of 10-foot-long stalks.
-**Recall Knowledge - Plant ([[Nature]])**: DC 18
+**Recall Knowledge - Plant ([[DATABASE/skill/Nature|Nature]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Snapping Flytrap<span class="item-type">Creature 3</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Mindless</span><span class="item-trait">Plant</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +7; tremorsense (imprecise) 30 feet
-**Skills** [[Athletics]] +11, [[Stealth]] +10 (+13 in undergrowth)
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +11, [[DATABASE/skill/Stealth|Stealth]] +10 (+13 in undergrowth)
 **Str** +2, **Dex** +3, **Con** +5, **Int** -5, **Wis** +2, **Cha** -2
 
 ---
@@ -89,4 +89,4 @@ The snapping flytrap is a ravenous, carnivorous plant that is quick to bite at a
 
 ---
 **Speed** 15 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> leaf +11 [+6/+1] (reach 10 feet), **Damage** 1d8+2 piercing plus 1d6 acid and Improved Grab</span><span class="in-box-ability">**Focused Assault** <span class="action-icon">2</span> The flytrap attacks a single target with both its leaves. The flytrap makes one leaf Strike. On a success, the flytrap deals the damage from one leaf Strike plus an additional 1d8 damage for every leaf beyond the first. On a failure, the flytrap deals the damage from one leaf Strike, but it can’t use Improved Grab. It deals no damage on a critical failure. This counts toward the flytrap’s multiple attack penalty as a number of attacks equal to the number of leaves the flytrap has.</span><span class="in-box-ability">**Hungry Flurry** <span class="action-icon">2</span> The flytrap makes two leaf Strikes at a –2 penalty, each against a different target. These attacks count toward the flytrap’s multiple attack penalty, but the multiple attack penalty doesn’t increase until after it makes all its attacks.</span><span class="in-box-ability">**[[Swallow Whole]]** <span class="action-icon">1</span> (attack) Medium, 1d8+1 bludgeoning plus 1d6 acid, Rupture 5</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> leaf +11 [+6/+1] (reach 10 feet), **Damage** 1d8+2 piercing plus 1d6 acid and Improved Grab</span><span class="in-box-ability">**Focused Assault** <span class="action-icon">2</span> The flytrap attacks a single target with both its leaves. The flytrap makes one leaf Strike. On a success, the flytrap deals the damage from one leaf Strike plus an additional 1d8 damage for every leaf beyond the first. On a failure, the flytrap deals the damage from one leaf Strike, but it can’t use Improved Grab. It deals no damage on a critical failure. This counts toward the flytrap’s multiple attack penalty as a number of attacks equal to the number of leaves the flytrap has.</span><span class="in-box-ability">**Hungry Flurry** <span class="action-icon">2</span> The flytrap makes two leaf Strikes at a –2 penalty, each against a different target. These attacks count toward the flytrap’s multiple attack penalty, but the multiple attack penalty doesn’t increase until after it makes all its attacks.</span><span class="in-box-ability">**[[DATABASE/monsterability/Swallow Whole|Swallow Whole]]** <span class="action-icon">1</span> (attack) Medium, 1d8+1 bludgeoning plus 1d6 acid, Rupture 5</span>

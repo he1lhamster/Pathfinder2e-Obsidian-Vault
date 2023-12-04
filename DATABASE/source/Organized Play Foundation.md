@@ -2,6 +2,7 @@
 id: '38'
 name: Organized Play Foundation
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -16,4 +17,4 @@ type: Source
 
 ## Backgrounds [11]
 
-[[Demon Slayer]], [[Early Explorer]], [[Faction Opportunist]], [[Former Aspis Agent]], [[Ruby Phoenix Enthusiast]], [[Savior of Air]], [[Scholar of the Sky Key]], [[Shadow Lodge Defector]], [[Shadow War Survivor]], [[Tapestry Refugee]], [[Thassilonian Delver]]
+[[DATABASE/background/Demon Slayer|Demon Slayer]], [[DATABASE/background/Early Explorer|Early Explorer]], [[DATABASE/background/Faction Opportunist|Faction Opportunist]], [[DATABASE/background/Former Aspis Agent|Former Aspis Agent]], [[DATABASE/background/Ruby Phoenix Enthusiast|Ruby Phoenix Enthusiast]], [[DATABASE/background/Savior of Air|Savior of Air]], [[DATABASE/background/Scholar of the Sky Key|Scholar of the Sky Key]], [[DATABASE/background/Shadow Lodge Defector|Shadow Lodge Defector]], [[DATABASE/background/Shadow War Survivor|Shadow War Survivor]], [[DATABASE/background/Tapestry Refugee|Tapestry Refugee]], [[DATABASE/background/Thassilonian Delver|Thassilonian Delver ]]

@@ -7,6 +7,7 @@ id: '1389'
 name: Provide Care
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
@@ -19,7 +20,7 @@ type: Action
 # Provide Care
 
 <span class="item-trait">Downtime</span><span class="item-trait">Leadership</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 
 ---
 Attempt a basic check to organize and encourage your settlements' healers, apothecaries, medics, and other caregivers to provide care and support for citizens in need.

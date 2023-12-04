@@ -26,6 +26,7 @@ patron_theme: null
 range: 120 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -42,10 +43,10 @@ type: Spell
 # Animal Vision<span class="item-type">Spell 3</span>
 
 <span class="item-trait">Divination</span><span class="item-trait">Mental</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** primal
-**Bloodline** [[Nymph]]
-**Deities** [[Bastet]], [[Isis]], [[Ketephys]], [[Tanagaar]]
+**Bloodline** [[DATABASE/sorcererbloodline/Nymph|nymph]]
+**Deities** [[DATABASE/deity/Bastet|Bastet]], [[DATABASE/deity/Isis|Isis]], [[DATABASE/deity/Ketephys|Ketephys]], [[DATABASE/deity/Tanagaar|Tanagaar]]
 **Cast** 1 minute (material, somatic, verbal)
 **Range** 120 feet; **Targets** 1 animal
 **Duration** 1 hour

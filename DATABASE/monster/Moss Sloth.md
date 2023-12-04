@@ -76,17 +76,17 @@ wisdom: '+2'
 # Moss Sloth
 
 These moss colonies coalesce over a century into the rough facsimile of a large sloth, right down to mimicking the unique structure of the animal's fur that attracts additional fungi and pollinating insects. Unless summoned or attacked, they rarely leave the trees upon which they first formed.
-**Recall Knowledge - Elemental ([[Arcana]], [[Nature]])**: DC 16
-**Recall Knowledge - Plant ([[Nature]])**: DC 16
+**Recall Knowledge - Elemental ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 16
+**Recall Knowledge - Plant ([[DATABASE/skill/Nature|Nature]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
 # Moss Sloth<span class="item-type">Creature 2</span>
 
 <span class="trait-size item-trait">Small</span><span class="item-trait">Elemental</span><span class="item-trait">Plant</span><span class="item-trait">Wood</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Perception** +8
-**Skills** [[Nature]] +7, [[Survival]] +8
+**Skills** [[DATABASE/skill/Nature|Nature]] +7, [[DATABASE/skill/Survival|Survival]] +8
 **Str** +3, **Dex** +0, **Con** +4, **Int** -4, **Wis** +2, **Cha** +1
 
 ---

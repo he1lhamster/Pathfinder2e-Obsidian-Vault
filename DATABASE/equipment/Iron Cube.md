@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: You are an expert with the affixed weapon
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -55,11 +56,11 @@ weapon_type: null
 # Iron Cube<span class="item-type">Item 6</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Evocation</span><span class="item-trait">Magical</span><span class="item-trait">Talisman</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 50 gp
 **Usage** affixed to a weapon; **Bulk** —
 **Activate** <span class="action-icon">2</span> Knockdown **Requirements** You are an expert with the affixed weapon
 
 ---
-This cube of blackened iron is affixed to a weapon with an iron chain. When you activate the cube, you use [[Knockdown]], as the fighter feat.
+This cube of blackened iron is affixed to a weapon with an iron chain. When you activate the cube, you use [[DATABASE/feat/Knockdown|Knockdown]], as the fighter feat.
  If you have the Knockdown feat, ignore its normal size restrictions.

@@ -21,6 +21,7 @@ patron_theme: null
 range: 30 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Pathfinder 150. Broken Promises|Pathfinder #150: Broken
@@ -39,7 +40,7 @@ type: Focus
 # Apex Companion<span class="item-type">Focus 10</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Druid</span><span class="item-trait">Polymorph</span><span class="item-trait">Transmutation</span>
-**Source** [[Pathfinder 150. Broken Promises]]
+**Source** [[DATABASE/source/Pathfinder 150. Broken Promises|Pathfinder #150: Broken Promises]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet; **Targets** 1 animal companion in your service
 **Duration** 1 minute

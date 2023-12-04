@@ -14,6 +14,7 @@ name: Planar Tear
 rarity: Rare
 reflex: null
 resistance: null
+rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Monsters of Myth|Monsters of Myth]]'
 trait:
@@ -32,13 +33,13 @@ will: null
 # Planar Tear<span class="item-type">Hazard 22</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Complex</span><span class="item-trait">Conjuration</span><span class="item-trait">Divine</span><span class="item-trait">Environmental</span><span class="item-trait">Kaiju</span><span class="item-trait">Teleportation</span>
-**Source** [[Monsters of Myth]]
+**Source** [[DATABASE/source/Monsters of Myth|Monsters of Myth]]
 **Complexity** Complex
 **Stealth** +32 (master) to notice Ebeshra twisting its shape in preparation of creating a planar rift
-**Description** Ebeshra opens a massive rift in the [[Material Plane]] that pulls nearby creatures into another plane entirely. The rift is typically to a random plane in the multiverse, though Ebeshra can have the rift pull creatures into a plane of Ebeshra's choosing. Additionally, Ebeshra can choose any number of creatures to be immune to the effects of the planar rift, usually due to the kaiju recognizing the innocence of the creatures.
+**Description** Ebeshra opens a massive rift in the [[DATABASE/plane/Material Plane|Material Plane]] that pulls nearby creatures into another plane entirely. The rift is typically to a random plane in the multiverse, though Ebeshra can have the rift pull creatures into a plane of Ebeshra's choosing. Additionally, Ebeshra can choose any number of creatures to be immune to the effects of the planar rift, usually due to the kaiju recognizing the innocence of the creatures.
 
 ---
-**Disable** DC 47 [[Lore]] (master) related to the specific plane beyond the rift to disrupt the planar frequency and close the rift, DC 52 [[Arcana]] (legendary) or [[Occultism]] (legendary) to undo the magical manifestation of the rift, DC 55 [[Performance]] (legendary) to play a tone that counteracts the rift's harmonic frequency, or DC 55 [[Diplomacy]] (legendary) or [[Religion]] (legendary) to plead with Ebeshra to close the rift
+**Disable** DC 47 [[DATABASE/skill/Lore|Lore]] (master) related to the specific plane beyond the rift to disrupt the planar frequency and close the rift, DC 52 [[DATABASE/skill/Arcana|Arcana]] (legendary) or [[DATABASE/skill/Occultism|Occultism]] (legendary) to undo the magical manifestation of the rift, DC 55 [[DATABASE/skill/Performance|Performance]] (legendary) to play a tone that counteracts the rift's harmonic frequency, or DC 55 [[DATABASE/skill/Diplomacy|Diplomacy]] (legendary) or [[DATABASE/skill/Religion|Religion]] (legendary) to plead with Ebeshra to close the rift
 **Tear Reality** <span class="action-icon">5</span> **Trigger** Ebeshra recognizes a nearby threat as needing an indisputable resolution, or a deity tasks Ebeshra with creating a planar rift; **Effect** Ebeshra twists its body, aligning its segmented sections into a fine blade, and cuts the fabric of the Material Plane. It creates an enormous rift in a point in the sky within 1 mile. The rift is 100 feet long and 50 feet wide. The hazard rolls initiative.
 
 ---

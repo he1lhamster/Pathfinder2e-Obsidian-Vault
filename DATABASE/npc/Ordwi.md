@@ -76,20 +76,20 @@ wisdom: '+4'
 # Ordwi
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 26
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 26
 **Unspecific Lore**: DC 24
 **Specific Lore**: DC 21
 
 # Ordwi<span class="item-type">Creature 2</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CG</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Rusthenge]]
-Female [[Human]] [[Cleric]] of [[Cayden Cailean]]
+**Source** [[DATABASE/source/Rusthenge|Rusthenge]]
+Female [[DATABASE/ancestry/Human|human]] [[DATABASE/class_/Cleric|cleric]] of [[DATABASE/deity/Cayden Cailean|Cayden Cailean]]
 **Perception** +8
-**Languages** [[Common]], [[Thassilonian]], [[Varisian]]
-**Skills** [[Athletics]] +4, [[Crafting]] +5, [[Diplomacy]] +7, [[Religion]] +8, [[Society]] +5
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Thassilonian|Thassilonian]], [[DATABASE/language/Varisian|Varisian]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +4, [[DATABASE/skill/Crafting|Crafting]] +5, [[DATABASE/skill/Diplomacy|Diplomacy]] +7, [[DATABASE/skill/Religion|Religion]] +8, [[DATABASE/skill/Society|Society]] +5
 **Str** +0, **Dex** +0, **Con** +2, **Int** +1, **Wis** +4, **Cha** +3
-**Items** _[[Healing Potion]]_ (3), [[Explorer's Clothing]], [[Gi]], [[Rapier]], [[Rations]]
+**Items** _[[DATABASE/equipment/Healing Potion|minor healing potions]]_ (3), [[DATABASE/armor/Explorer's Clothing|explorer's clothing]], [[DATABASE/armor/Gi|iron religious symbol]], [[DATABASE/weapon/Rapier|rapier]], [[DATABASE/equipment/Rations|rations (5 days)]]
 
 ---
 **AC** 12; **Fort** +6, **Ref** +4, **Will** +10
@@ -97,6 +97,6 @@ Female [[Human]] [[Cleric]] of [[Cayden Cailean]]
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> rapier +4 [-1/-6] (deadly d8, disarm, finesse), **Damage** 1d6 piercing</span>**Divine Prepared Spells** DC 18; **1st** _[[Bless]]_, _[[Heal]]_ (×4), _[[Spirit Link]]_; **Cantrips** **(1st)** _[[Daze]]_, _[[Forbidding Ward]]_, _[[Light]]_, _[[Shield]]_, _[[Stabilize]]_
-**Cleric Domain Spells 1 Focus Point,** DC 18; **1st** _[[Unimpeded Stride]]_
-<span class="in-box-ability">**Divine Font** [[Heal]]</span><span class="in-box-ability">**Healing Hands** When Ordwi casts [[Heal]], she rolls 1d10s instead of d8s.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> rapier +4 [-1/-6] (deadly d8, disarm, finesse), **Damage** 1d6 piercing</span>**Divine Prepared Spells** DC 18; **1st** _[[DATABASE/spell/Bless|bless]]_, _[[DATABASE/spell/Heal|heal]]_ (×4), _[[DATABASE/spell/Spirit Link|spirit link]]_; **Cantrips** **(1st)** _[[DATABASE/spell/Daze|daze]]_, _[[DATABASE/spell/Forbidding Ward|forbidding ward]]_, _[[DATABASE/spell/Light|light]]_, _[[DATABASE/spell/Shield|shield]]_, _[[DATABASE/spell/Stabilize|stabilize]]_
+**Cleric Domain Spells 1 Focus Point,** DC 18; **1st** _[[DATABASE/spell/Unimpeded Stride|unimpeded stride]]_
+<span class="in-box-ability">**Divine Font** [[DATABASE/spell/Heal|heal]]</span><span class="in-box-ability">**Healing Hands** When Ordwi casts [[DATABASE/spell/Heal|heal]], she rolls 1d10s instead of d8s.</span>

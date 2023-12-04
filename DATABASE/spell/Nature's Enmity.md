@@ -22,6 +22,7 @@ patron_theme: null
 range: 120 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -37,10 +38,10 @@ type: Spell
 # Nature's Enmity<span class="item-type">Spell 9</span>
 
 <span class="item-trait">Enchantment</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** primal
-**Bloodline** [[Hag]]
-**Deity** [[Yuelral]]
+**Bloodline** [[DATABASE/sorcererbloodline/Hag|hag]]
+**Deity** [[DATABASE/deity/Yuelral|Yuelral]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 120 feet; **Area** 500-foot burst; **Targets** up to 5 creatures
 **Duration** 10 minutes

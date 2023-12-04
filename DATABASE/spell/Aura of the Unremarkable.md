@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #166:
@@ -40,7 +41,7 @@ type: Spell
 # Aura of the Unremarkable<span class="item-type">Spell 6</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Illusion</span><span class="item-trait">Mental</span>
-**Source** [[Pathfinder 166. Despair on Danger Island]]
+**Source** [[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #166: Despair on Danger Island]]
 **Traditions** arcane, occult
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Area** 30-foot emanation

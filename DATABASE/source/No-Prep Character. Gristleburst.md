@@ -2,6 +2,7 @@
 id: '91'
 name: No-Prep Character. Gristleburst
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -15,4 +16,4 @@ type: Source
 
 ## NPCs [1]
 
-[[Gristleburst, Inquisitive Pyromaniac]]
+[[DATABASE/npc/Gristleburst, Inquisitive Pyromaniac|Gristleburst]]

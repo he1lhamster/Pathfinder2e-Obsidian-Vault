@@ -12,6 +12,7 @@ prerequisite: Trained in [[DATABASE/skill/Acrobatics|Acrobatics]] ; trained in m
   armor
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
 subcategory: null
@@ -27,8 +28,8 @@ type: Feat
 # Farabellus Flip <span class="action-icon">5</span> <span class="item-type">Feat 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Barbarian</span><span class="item-trait">Fighter</span><span class="item-trait">Ranger</span>
-**Source** [[PFS Guide]]
-**Prerequisites** trained in [[Acrobatics]]; trained in medium armor**Access** Member of the Pathfinder Society.
+**Source** [[DATABASE/source/PFS Guide|PFS Guide]]
+**Prerequisites** trained in [[DATABASE/skill/Acrobatics|Acrobatics]]; trained in medium armor**Access** Member of the Pathfinder Society.
 **Trigger** An enemy targets you with a melee Strike.
 
 ---
@@ -38,10 +39,10 @@ Surprisingly agile even in a breastplate and carrying a full rucksack, Marcos Fa
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.
 
 ### Swords Training
 
-**Source** [[PFS Guide]]
+**Source** [[DATABASE/source/PFS Guide|PFS Guide]]
 Marcos Farabellus (_Lost Omens Pathfinder Society Guide_ page 50) is a talented swordsman and likely the most beloved of the Society's three deans. In addition to teaching his students about the dangers of exploring ruins through energetic and performative lectures, Farabellus also teaches his favorite students a few of the martial techniques he's developed over his illustrious career. The Farabellus Flip is a class feat for barbarians, fighters, or rangers. When you select the feat, it loses the traits from the other classes.
-**Related Feats**: [[Discerning Strike]]
+**Related Feats**: [[DATABASE/feat/Discerning Strike|Discerning Strike]]

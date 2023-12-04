@@ -11,6 +11,7 @@ name: Expeditious Advance
 prerequisite: '[[DATABASE/feat/Lion Blade Dedication|Lion Blade Dedication]]'
 rarity: Common
 requirement: You are unarmored or wearing light armor.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Expeditious Advance <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[World Guide]] 
-**Archetype** [[Lion Blade]]
-**Prerequisites** [[Lion Blade Dedication]]
+**Source** [[DATABASE/source/World Guide|World Guide]] 
+**Archetype** [[DATABASE/archetype/Lion Blade|Lion Blade]]
+**Prerequisites** [[DATABASE/feat/Lion Blade Dedication|Lion Blade Dedication]]
 **Requirements** You are unarmored or wearing light armor.
 
 ---

@@ -11,6 +11,7 @@ name: Symphony of the Unfettered Heart
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Symphony of the Unfettered Heart <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Bard</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
-You learn the [[Symphony of the Unfettered Heart]] composition spell, which enables you to protect an ally against incapacitating conditions.
+You learn the [[DATABASE/spell/Symphony of the Unfettered Heart|symphony of the unfettered heart]] composition spell, which enables you to protect an ally against incapacitating conditions.

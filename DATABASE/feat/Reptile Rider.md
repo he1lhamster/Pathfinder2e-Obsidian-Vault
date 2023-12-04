@@ -11,6 +11,7 @@ name: Reptile Rider
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Reptile Rider <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Lizardfolk</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-To you, crocodilians, giant lizards, and dinosaurs are loyal steeds, not monsters. You gain the [[Ride]] feat, even if you don't meet the prerequisites. You gain a +1 circumstance bonus to [[Nature]] checks to Handle an Animal as long as the animal is a reptile, dinosaur, or even a non-sapient dragon.
+To you, crocodilians, giant lizards, and dinosaurs are loyal steeds, not monsters. You gain the [[DATABASE/feat/Ride|Ride]] feat, even if you don't meet the prerequisites. You gain a +1 circumstance bonus to [[DATABASE/skill/Nature|Nature]] checks to Handle an Animal as long as the animal is a reptile, dinosaur, or even a non-sapient dragon.
 
 ## Traits
 

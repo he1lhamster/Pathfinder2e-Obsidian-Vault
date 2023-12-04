@@ -82,25 +82,25 @@ wisdom: '+0'
 # Wood Scamp
 
 A wood scamp's veiny, bat-like wings mimic the lamina and venules of a leaf. This, along with their stout green torsos and limbs, enables them to easily blend into the branches of a living tree. They're unusually social for scamps and prefer to work in groups when possible. By their nature, they find their home plane rather boring, and many of them are abuzz with excitement as the plane reopens. They're eager to travel to new places where they can cause mischief.
-**Recall Knowledge - Elemental ([[Arcana]], [[Nature]])**: DC 15
-**Recall Knowledge - Plant ([[Nature]])**: DC 15
+**Recall Knowledge - Elemental ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 15
+**Recall Knowledge - Plant ([[DATABASE/skill/Nature|Nature]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Wood Scamp<span class="item-type">Creature 1</span>
 
 <span class="trait-size item-trait">Small</span><span class="item-trait">Elemental</span><span class="item-trait">Plant</span><span class="item-trait">Wood</span>
-**Source** [[Rage of Elements]]
-**Perception** +3; [[Darkvision]]
-**Languages** [[Muan]]
-**Skills** [[Athletics]] +5, [[Stealth]] +7
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
+**Perception** +3; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Muan|Muan]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +5, [[DATABASE/skill/Stealth|Stealth]] +7
 **Str** +3, **Dex** +1, **Con** +0, **Int** -2, **Wis** +0, **Cha** +1
 
 ---
 **AC** 14; **Fort** +6, **Ref** +4, **Will** +10
-**HP** 24; **Immunities** bleed, [[Paralyzed]], poison, sleep; **Weaknesses** fire 3, slashing 3
+**HP** 24; **Immunities** bleed, [[DATABASE/condition/Paralyzed|paralyzed]], poison, sleep; **Weaknesses** fire 3, slashing 3
 
 ---
 **Speed** 20 feet, fly 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +8 [+3/-2], **Damage** 1d6 piercing plus thorn puncture</span>**Arcane Innate Spells** DC 15; **2nd** _[[Barkskin]]_ (self only); **1st** _[[Verdant Sprout]]_; **Cantrips** **(1st)** _[[Tanglefoot]]_
-<span class="in-box-ability">**Breathe Pollen** <span class="action-icon">2</span> (arcane, plant) The wood scamp breathes choking pollen in a 15- foot cone that deals 2d6 poison damage to each creature within the area (DC 17 basic Reflex save; creatures who don't need to breathe are immune). The wood scamp can't Breathe Pollen again for 1d4 rounds.</span><span class="in-box-ability">**Thorn Puncture** The wood scamp breaks off one of its thorn-like claws in the target's skin, dealing 1 [[Persistent Damage]] until the thorn is removed, which requires an Interact action. This damage is cumulative with each thorn caught in a creature's skin.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +8 [+3/-2], **Damage** 1d6 piercing plus thorn puncture</span>**Arcane Innate Spells** DC 15; **2nd** _[[DATABASE/spell/Barkskin|barkskin]]_ (self only); **1st** _[[DATABASE/spell/Verdant Sprout|verdant sprout]]_; **Cantrips** **(1st)** _[[DATABASE/spell/Tanglefoot|tanglefoot]]_
+<span class="in-box-ability">**Breathe Pollen** <span class="action-icon">2</span> (arcane, plant) The wood scamp breathes choking pollen in a 15- foot cone that deals 2d6 poison damage to each creature within the area (DC 17 basic Reflex save; creatures who don't need to breathe are immune). The wood scamp can't Breathe Pollen again for 1d4 rounds.</span><span class="in-box-ability">**Thorn Puncture** The wood scamp breaks off one of its thorn-like claws in the target's skin, dealing 1 [[DATABASE/condition/Persistent Damage|persistent bleed damage]] until the thorn is removed, which requires an Interact action. This damage is cumulative with each thorn caught in a creature's skin.</span>

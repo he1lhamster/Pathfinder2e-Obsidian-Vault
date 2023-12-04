@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 size: null
@@ -56,7 +57,7 @@ weapon_type: null
 # Fortifying Pebble<span class="item-type">Item 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Abjuration</span><span class="item-trait">Consumable</span><span class="item-trait">Magical</span><span class="item-trait">Talisman</span>
-**Source** [[Character Guide]] 
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
 **Price** 13 gp
 **Usage** affixed to armor, shield, or weapon; **Bulk** —
 **Access** A character who is a member of the Pathfinder Society has access to this option.

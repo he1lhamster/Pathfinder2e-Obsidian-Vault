@@ -3,6 +3,7 @@ id: '29'
 level: '1'
 name: Plague
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Defense|Defense]]'
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
@@ -16,10 +17,10 @@ type: Kingdom Event
 # Plague<span class="item-type">Event +1</span>
 
 <span class="item-trait">Continuous</span><span class="item-trait">Dangerous</span><span class="item-trait">Settlement</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 **Location** The largest settlement in the kingdom
 A deadly sickness strikes one of your settlements. You take a –2 status penalty to all Civic activities made in a settlement suffering from a plague unless the settlement has a sewer system.
-**Kingdom Skill** [[Defense]]; **Leader** Ruler
+**Kingdom Skill** [[DATABASE/skill/Defense|Defense]]; **Leader** Ruler
 **Critical Success** You halt the spread of the plague and are able to cure it, but even so, the plague’s effects reduce your Resource Dice on the next turn by 2.
 **Success** The plague continues! Gain 1d4 Unrest and increase one of your Ruins by 1.
 **Failure** The plague spreads and claims more victims. Gain 1d6 Unrest and increase all of your Ruins by 1.

@@ -20,6 +20,7 @@ patron_theme: null
 range: touch or 30 feet (see text)
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -38,7 +39,7 @@ type: Focus
 # Heal Animal<span class="item-type">Focus 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Druid</span><span class="item-trait">Healing</span><span class="item-trait">Necromancy</span><span class="item-trait">Positive</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Cast** <span class="action-icon">1</span> to <span class="action-icon">2</span> somatic
 **Range** touch or 30 feet (see text); **Targets** 1 willing living animal creature
 

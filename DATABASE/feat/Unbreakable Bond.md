@@ -11,6 +11,7 @@ name: Unbreakable Bond
 prerequisite: '[[DATABASE/feat/Mammoth Lord Dedication|Mammoth Lord Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burning
   Tundra]]'
@@ -26,12 +27,12 @@ type: Feat
 # Unbreakable Bond <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Necromancy</span><span class="item-trait">Primal</span>
-**Source** [[Pathfinder 177. Burning Tundra]]
-**Archetype** [[Mammoth Lord]]
-**Prerequisites** [[Mammoth Lord Dedication]]
+**Source** [[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burning Tundra]]
+**Archetype** [[DATABASE/archetype/Mammoth Lord|Mammoth Lord]]
+**Prerequisites** [[DATABASE/feat/Mammoth Lord Dedication|Mammoth Lord Dedication]]
 
 ---
-You and your megafauna companion are bound together; as long as you live, it's much harder for your companion to die. If your megafauna companion gains the [[Dying]] condition, it automatically succeeds at the recovery check to stabilize at 0 Hit Points on its turn. Additionally, your megafauna companion only dies at dying 5 rather than dying 4. Finally, the first time each day your megafauna companion would reach dying 5 and die, as long as you're still alive, your companion's dying value decreases to 0 instead.
+You and your megafauna companion are bound together; as long as you live, it's much harder for your companion to die. If your megafauna companion gains the [[DATABASE/condition/Dying|dying]] condition, it automatically succeeds at the recovery check to stabilize at 0 Hit Points on its turn. Additionally, your megafauna companion only dies at dying 5 rather than dying 4. Finally, the first time each day your megafauna companion would reach dying 5 and die, as long as you're still alive, your companion's dying value decreases to 0 instead.
 
 ## Traits
 

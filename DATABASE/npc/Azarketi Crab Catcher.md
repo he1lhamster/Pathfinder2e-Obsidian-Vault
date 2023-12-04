@@ -70,24 +70,24 @@ wisdom: '+1'
 # Azarketi Crab Catcher
 
 The average azarketi citizen in Absalom makes a living fishing or catching crabs. The deep harbor floor beneath the city docks is covered with traps left by the azarketis, who use individual glyphs to mark one crabber's trap from the other.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 14
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 14
 **Unspecific Lore**: DC 12
 **Specific Lore**: DC 9
 
 # Azarketi Crab Catcher<span class="item-type">Creature 0</span>
 
 <span class="trait-alignment item-trait">CG</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Amphibious</span><span class="item-trait">Azarketi</span><span class="item-trait">Humanoid</span>
-**Source** [[Absalom, City of Lost Omens]]
+**Source** [[DATABASE/source/Absalom, City of Lost Omens|Absalom, City of Lost Omens]]
 **Perception** +6
-**Languages** [[Common]]
-**Skills** [[Athletics]] +4 (+6 to [[Swim]]), [[Diplomacy]] +3, [[Nature]] +3, [[Stealth]] +5 (+7 underwater), [[Survival]] +5, [[Lore]] +4
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +4 (+6 to [[DATABASE/action/Swim|Swim]]), [[DATABASE/skill/Diplomacy|Diplomacy]] +3, [[DATABASE/skill/Nature|Nature]] +3, [[DATABASE/skill/Stealth|Stealth]] +5 (+7 underwater), [[DATABASE/skill/Survival|Survival]] +5, [[DATABASE/skill/Lore|Underwater Lore]] +4
 **Str** +2, **Dex** +3, **Con** +2, **Int** +0, **Wis** +1, **Cha** +1
-**Items** crab cage, [[Dagger]], [[Sack]]
+**Items** crab cage, [[DATABASE/weapon/Dagger|dagger]], [[DATABASE/equipment/Sack|sack]]
 
 ---
 **AC** 16; **Fort** +6, **Ref** +9, **Will** +3
 **HP** 15
-<span class="in-box-ability">**Hydration** Azarketi must regularly submerge themselves in water to rehydrate their water-acclimated skin. After the first 24 hours outside of water, they gain a –1 status penalty to Fortitude saves as their skin cracks and their gills become painful. After 48 hours, they struggle to breathe air and begin to suffocate until returned to water.</span><span class="in-box-ability">**Swim Away <span class="action-icon">5</span> ** **Requirement** The azarketi crab catcher is swimming; **Trigger** The azarketi crab catcher is targeted with an attack and can see the attacker; **Effect** The azarketi crab catcher gains a +2 circumstance bonus to AC against the triggering attack. After the attack, they [[Swim]] 5 feet.</span><span class="in-box-ability">**Submerged Stealth** While submerged in water, an azarketi crab catcher gains a +2 circumstance bonus on their [[Stealth]] check, indicated above.</span>
+<span class="in-box-ability">**Hydration** Azarketi must regularly submerge themselves in water to rehydrate their water-acclimated skin. After the first 24 hours outside of water, they gain a –1 status penalty to Fortitude saves as their skin cracks and their gills become painful. After 48 hours, they struggle to breathe air and begin to suffocate until returned to water.</span><span class="in-box-ability">**Swim Away <span class="action-icon">5</span> ** **Requirement** The azarketi crab catcher is swimming; **Trigger** The azarketi crab catcher is targeted with an attack and can see the attacker; **Effect** The azarketi crab catcher gains a +2 circumstance bonus to AC against the triggering attack. After the attack, they [[DATABASE/action/Swim|Swim]] 5 feet.</span><span class="in-box-ability">**Submerged Stealth** While submerged in water, an azarketi crab catcher gains a +2 circumstance bonus on their [[DATABASE/skill/Stealth|Stealth]] check, indicated above.</span>
 
 ---
 **Speed** 25 feet; swim 25 feet

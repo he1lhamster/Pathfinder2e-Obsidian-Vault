@@ -64,19 +64,19 @@ wisdom: '+3'
 # Zuntishan Guard
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 24
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 24
 **Unspecific Lore**: DC 22
 **Specific Lore**: DC 19
 
 # Zuntishan Guard<span class="item-type">Creature 6</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">NG</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 183. Field of Maidens]]
+**Source** [[DATABASE/source/Pathfinder 183. Field of Maidens|Pathfinder #183: Field of Maidens]]
 **Perception** +15
-**Languages** [[Drooni]]
-**Skills** [[Athletics]] +14, [[Diplomacy]] +11, [[Religion]] +13, [[Survival]] +13
+**Languages** [[DATABASE/language/Drooni|Drooni]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +14, [[DATABASE/skill/Diplomacy|Diplomacy]] +11, [[DATABASE/skill/Religion|Religion]] +13, [[DATABASE/skill/Survival|Survival]] +13
 **Str** +4, **Dex** +2, **Con** +2, **Int** +0, **Wis** +3, **Cha** +1
-**Items** [[Holy Water]], [[Chain Shirt]], [[Composite Shortbow]], [[Kukri]]
+**Items** [[DATABASE/equipment/Holy Water|holy water]], [[DATABASE/armor/Chain Shirt|chain shirt]], [[DATABASE/weapon/Composite Shortbow|composite shortbow (20 arrows)]], [[DATABASE/weapon/Kukri|kukri (2)]]
 
 ---
 **AC** 22; **Fort** +14, **Ref** +12, **Will** +15

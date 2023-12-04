@@ -70,16 +70,16 @@ wisdom: '+2'
 
 Quetzalcoatlus are the largest flying members of the pterosaur family and are often mistaken for dragons due to their immense size and 40-foot wingspans.
  Quetzalcoatlus are carnivorous, feeding on a variety of reptiles, mammals, large fish, amphibians, and other invertebrates. They are not inherently aggressive creatures and are happy to scavenge for food, but when presented with live prey they readily attack almost any creature smaller than themselves.
-**Recall Knowledge - Animal ([[Nature]])**: DC 23
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 23
 **Unspecific Lore**: DC 21
 **Specific Lore**: DC 18
 
 # Quetzalcoatlus<span class="item-type">Creature 7</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Huge</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +15; low-light vision, scent (imprecise) 30 feet
-**Skills** [[Acrobatics]] +14, [[Athletics]] +17
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +14, [[DATABASE/skill/Athletics|Athletics]] +17
 **Str** +6, **Dex** +4, **Con** +3, **Int** -4, **Wis** +2, **Cha** -1
 
 ---

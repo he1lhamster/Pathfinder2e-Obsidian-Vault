@@ -2,6 +2,7 @@
 id: '90'
 name: No-Prep Character. Wendlyn
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -15,4 +16,4 @@ type: Source
 
 ## NPCs [1]
 
-[[Wendlyn, Incorrigible Thief]]
+[[DATABASE/npc/Wendlyn, Incorrigible Thief|Wendlyn]]

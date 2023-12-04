@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: DC 28 Fortitude
 school: null
 size: null
@@ -57,11 +58,11 @@ weapon_type: null
 # Careless Delight<span class="item-type">Item 9</span>
 
 <span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Ingested</span><span class="item-trait">Mental</span><span class="item-trait">Poison</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 130 gp
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
 ---
-Sometimes called liquid persuasion, this sweet-tasting tincture induces euphoria that lowers inhibitions and increases trust. The status penalty from being [[Stupefied]] due to this poison doubles when applied to [[Deception]] checks to [[Lie]], Perception checks to [[Sense Motive]], and Perception DCs to detect a Lie.
+Sometimes called liquid persuasion, this sweet-tasting tincture induces euphoria that lowers inhibitions and increases trust. The status penalty from being [[DATABASE/condition/Stupefied|stupefied]] due to this poison doubles when applied to [[DATABASE/skill/Deception|Deception]] checks to [[DATABASE/action/Lie|Lie]], Perception checks to [[DATABASE/action/Sense Motive|Sense Motive]], and Perception DCs to detect a Lie.
  **Saving Throw** DC 28 Fortitude; **Onset** 1 minute; **Maximum Duration** 10 minutes; **Stage 1** stupefied 1 (1 minute); **Stage 2** stupefied 2 (1 minute); **Stage 3** stupefied 3, and the victim's attitude toward others improves by one step (1 minute)

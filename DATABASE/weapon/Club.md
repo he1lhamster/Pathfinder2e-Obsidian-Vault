@@ -16,6 +16,7 @@ name: Club
 price: null
 range: null
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Thrown|Thrown 10 ft.]]'
@@ -28,11 +29,11 @@ weapon_type: Melee
 # Club
 
 <span class="item-trait">Thrown 10 ft.</span>
-**Source** [[Core Rulebook]] 
-**Favored Weapon** [[Barzahk]], [[Halcamora]], [[Shumunue]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Favored Weapon** [[DATABASE/deity/Barzahk|Barzahk]], [[DATABASE/deity/Halcamora|Halcamora]], [[DATABASE/deity/Shumunue|Shumunue]]
 **Price** 0; **Damage** 1d6 B; **Bulk** 1
 **Hands** 1
-**Type** Melee; **Category** Simple; **Group** [[Club]]
+**Type** Melee; **Category** Simple; **Group** [[DATABASE/weapongroup/Club|Club]]
 
 ---
 This is a piece of stout wood shaped or repurposed to bludgeon an enemy. Clubs can be intricately carved pieces of martial art or as simple as a tree branch or piece of wood.
@@ -45,10 +46,10 @@ You can throw this weapon as a ranged attack, and it is a ranged weapon when thr
 
 ## Critical Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
 **Club**: You knock the target away from you up to 10 feet (you choose the distance). This is forced movement.
 
 ## Specific Magic Weapons
 
-[[Cane of the Maelstrom]], [[Habu's Cudgel]], [[Hunter's Dawn]], [[Nightmare Cudgel]], [[Stargazer]]
+[[DATABASE/equipment/Cane of the Maelstrom|Cane of the Maelstrom]], [[DATABASE/equipment/Habu's Cudgel|Habu's Cudgel]], [[DATABASE/equipment/Hunter's Dawn|Hunter's Dawn]], [[DATABASE/equipment/Nightmare Cudgel|Nightmare Cudgel]], [[DATABASE/equipment/Stargazer|Stargazer]]

@@ -21,6 +21,7 @@ patron_theme: null
 range: 60 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
@@ -39,7 +40,7 @@ type: Spell
 # Helpful Steps<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Conjuration</span>
-**Source** [[Firebrands]]
+**Source** [[DATABASE/source/Firebrands|Firebrands]]
 **Traditions** arcane, divine, occult, primal
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 60 feet

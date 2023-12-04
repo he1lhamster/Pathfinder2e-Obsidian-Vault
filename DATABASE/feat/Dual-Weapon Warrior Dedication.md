@@ -11,6 +11,7 @@ name: Dual-Weapon Warrior Dedication
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,16 +25,16 @@ type: Feat
 # Dual-Weapon Warrior Dedication <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Dedication</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Dual-Weapon Warrior]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Dual-Weapon Warrior|Dual-Weapon Warrior]]
 
 ---
-You're exceptional in your use of two weapons. You gain the [[Double Slice]] fighter feat. This serves as Double Slice for the purpose of meeting prerequisites.
+You're exceptional in your use of two weapons. You gain the [[DATABASE/feat/Double Slice|Double Slice]] fighter feat. This serves as Double Slice for the purpose of meeting prerequisites.
 **Special** You can't select another dedication feat until you gain two other feats from the dual-weapon warrior archetype.
 
 ## Dual-Weapon Warrior Dedication Leads To...
 
-[[Dual Onslaught]], [[Dual Thrower]], [[Dual-Weapon Blitz]], [[Dual-Weapon Reload]], [[Flensing Slice]]
+[[DATABASE/feat/Dual Onslaught|Dual Onslaught]], [[DATABASE/feat/Dual Thrower|Dual Thrower]], [[DATABASE/feat/Dual-Weapon Blitz|Dual-Weapon Blitz]], [[DATABASE/feat/Dual-Weapon Reload|Dual-Weapon Reload]], [[DATABASE/feat/Flensing Slice|Flensing Slice]]
 
 ## Traits
 

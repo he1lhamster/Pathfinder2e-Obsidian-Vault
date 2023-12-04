@@ -11,6 +11,7 @@ name: Siphon Power
 prerequisite: null
 rarity: Common
 requirement: You haven't acted yet on your turn.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Siphon Power <span class="action-icon">4</span> <span class="item-type">Feat 16</span>
 
 <span class="item-trait">Witch</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Frequency** once per day
 **Requirements** You haven't acted yet on your turn.
 

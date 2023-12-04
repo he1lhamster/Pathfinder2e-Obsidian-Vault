@@ -11,6 +11,7 @@ name: Iruxi Spirit Strike
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Iruxi Spirit Strike <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Lizardfolk</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-Your iruxi unarmed attacks channel the spiritual energy of your ancestors. Any unarmed attacks you acquire from iruxi heritages or ancestry feats gain the effects of a [[Ghost Touch]] property rune.
+Your iruxi unarmed attacks channel the spiritual energy of your ancestors. Any unarmed attacks you acquire from iruxi heritages or ancestry feats gain the effects of a [[DATABASE/equipment/Ghost Touch|ghost touch]] property rune.
 
 ## Traits
 

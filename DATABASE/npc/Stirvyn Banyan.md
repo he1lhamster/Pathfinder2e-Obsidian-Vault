@@ -102,20 +102,20 @@ wisdom: '+3'
 # Stirvyn Banyan
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 40
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 40
 **Unspecific Lore**: DC 38
 **Specific Lore**: DC 35
 
 # Stirvyn Banyan<span class="item-type">Creature 12</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 154. Siege of the Dinosaurs]]
-Male [[Human]] town protector
-**Perception** +21; [[Detect Magic]]
-**Languages** [[Common]]
-**Skills** [[Arcana]] +20, [[Deception]] +23, [[Diplomacy]] +21, [[Intimidation]] +23, [[Society]] +20
+**Source** [[DATABASE/source/Pathfinder 154. Siege of the Dinosaurs|Pathfinder #154: Siege of the Dinosaurs]]
+Male [[DATABASE/ancestry/Human|human]] town protector
+**Perception** +21; [[DATABASE/spell/Detect Magic|detect magic]]
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Arcana|Arcana]] +20, [[DATABASE/skill/Deception|Deception]] +23, [[DATABASE/skill/Diplomacy|Diplomacy]] +21, [[DATABASE/skill/Intimidation|Intimidation]] +23, [[DATABASE/skill/Society|Society]] +20
 **Str** +0, **Dex** +4, **Con** +3, **Int** +2, **Wis** +3, **Cha** +5
-**Items** [[False Life]], [[Mentalist's Staff]], Sheriff Banyan's map of the sea caves
+**Items** [[DATABASE/spell/False Life|scroll of false life]], [[DATABASE/equipment/Mentalist's Staff|major mentalist's staff]], Sheriff Banyan's map of the sea caves
 
 ---
 **AC** 31; **Fort** +21, **Ref** +22, **Will** +21
@@ -124,6 +124,6 @@ Male [[Human]] town protector
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _staff_ +24 [+19/+14] (magical, two-hand d8), **Damage** 1d4+6 bludgeoning</span>**Arcane Spontaneous Spells** DC 32, attack +24; **6th** _[[Disintegrate]]_, _[[Mislead]]_, _[[Slow]]_, _[[Vampiric Touch]]_ (4 slots); **5th** _[[Cloak of Colors]]_, _[[Dispel Magic]]_, _[[Lightning Bolt]]_, _[[Prying Eye]]_ (4 slots); **4th** _[[Dimension Door]]_, _[[Freedom of Movement]]_, _[[Outcast's Curse]]_, _[[Suggestion]]_ (4 slots); **3rd** _[[Enthrall]]_, _[[Haste]]_, _[[Meld into Stone]]_, _[[Mind Reading]]_ (4 slots); **2nd** _[[Blur]]_, _[[Dispel Magic]]_, _[[Hideous Laughter]]_, _[[Touch of Idiocy]]_ (4 slots); **1st** _[[Illusory Disguise]]_, _[[Lock]]_, _[[Magic Missile]]_, _[[True Strike]]_ (4 slots); **Cantrips** **(6th)** _[[Chill Touch]]_, _[[Daze]]_, _[[Prestidigitation]]_, _[[Ray of Frost]]_, _[[Shield]]_; **Constant** **(6th)** _[[Detect Magic]]_
-**Sorcerer Bloodline Spells** DC 32, 3 Focus Points; **6th** _[[Ancestral Memories]]_, _[[Arcane Countermeasure]]_, _[[Extend Spell]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _staff_ +24 [+19/+14] (magical, two-hand d8), **Damage** 1d4+6 bludgeoning</span>**Arcane Spontaneous Spells** DC 32, attack +24; **6th** _[[DATABASE/spell/Disintegrate|disintegrate]]_, _[[DATABASE/spell/Mislead|mislead]]_, _[[DATABASE/spell/Slow|slow]]_, _[[DATABASE/spell/Vampiric Touch|vampiric touch]]_ (4 slots); **5th** _[[DATABASE/spell/Cloak of Colors|cloak of colors]]_, _[[DATABASE/spell/Dispel Magic|dispel magic]]_, _[[DATABASE/spell/Lightning Bolt|lightning bolt]]_, _[[DATABASE/spell/Prying Eye|prying eye]]_ (4 slots); **4th** _[[DATABASE/spell/Dimension Door|dimension door]]_, _[[DATABASE/spell/Freedom of Movement|freedom of movement]]_, _[[DATABASE/spell/Outcast's Curse|outcast's curse]]_, _[[DATABASE/spell/Suggestion|suggestion]]_ (4 slots); **3rd** _[[DATABASE/spell/Enthrall|enthrall]]_, _[[DATABASE/spell/Haste|haste]]_, _[[DATABASE/spell/Meld into Stone|meld into stone]]_, _[[DATABASE/spell/Mind Reading|mind reading]]_ (4 slots); **2nd** _[[DATABASE/spell/Blur|blur]]_, _[[DATABASE/spell/Dispel Magic|dispel magic]]_, _[[DATABASE/spell/Hideous Laughter|hideous laughter]]_, _[[DATABASE/spell/Touch of Idiocy|touch of idiocy]]_ (4 slots); **1st** _[[DATABASE/spell/Illusory Disguise|illusory disguise]]_, _[[DATABASE/spell/Lock|lock]]_, _[[DATABASE/spell/Magic Missile|magic missile]]_, _[[DATABASE/spell/True Strike|true strike]]_ (4 slots); **Cantrips** **(6th)** _[[DATABASE/spell/Chill Touch|chill touch]]_, _[[DATABASE/spell/Daze|daze]]_, _[[DATABASE/spell/Prestidigitation|prestidigitation]]_, _[[DATABASE/spell/Ray of Frost|ray of frost]]_, _[[DATABASE/spell/Shield|shield]]_; **Constant** **(6th)** _[[DATABASE/spell/Detect Magic|detect magic]]_
+**Sorcerer Bloodline Spells** DC 32, 3 Focus Points; **6th** _[[DATABASE/spell/Ancestral Memories|ancestral memories]]_, _[[DATABASE/spell/Arcane Countermeasure|arcane countermeasure]]_, _[[DATABASE/spell/Extend Spell|extend spell]]_
 <span class="in-box-ability">**Bloodline Magic** When Stirvyn casts a bloodline spell, a surge of ancestral memories grants either him or a target of the spell a +1 status bonus to skill checks for 1 round.</span><span class="in-box-ability">**Dangerous Sorcery** When Stirvyn Casts a Spell from a spell slot, if the spell deals damage and doesn't have a duration, he gains a status bonus to that spell's damage equal to the spell's level.</span><span class="in-box-ability">**Steady Spellcasting** If a reaction would disrupt Stirvyn's spellcasting action, he attempts a DC 15 flat check. On a success, the action isn't disrupted.</span>

@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -57,7 +58,7 @@ weapon_type: null
 # Aether Marble<span class="item-type">Item 4+</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Bomb</span><span class="item-trait">Consumable</span><span class="item-trait">Force</span><span class="item-trait">Splash</span>
-**Source** [[Pathfinder 189. Dreamers of the Nameless Spires]]
+**Source** [[DATABASE/source/Pathfinder 189. Dreamers of the Nameless Spires|Pathfinder #189: Dreamers of the Nameless Spires]]
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Strike
 
@@ -67,21 +68,21 @@ Aether marbles create violent, lingering eddies of force that extend partially i
 
 ## Aether Marble (Lesser)<span class="item-type">Item 4</span>
 
-**Source** [[Pathfinder 189. Dreamers of the Nameless Spires]]
+**Source** [[DATABASE/source/Pathfinder 189. Dreamers of the Nameless Spires|Pathfinder #189: Dreamers of the Nameless Spires]]
 **Price** 19 gp
 **Bulk** L
 You gain a +1 item bonus to attack rolls. The bomb deals 2d6 force damage and 2 force splash damage.
 
 ## Aether Marble (Moderate)<span class="item-type">Item 12</span>
 
-**Source** [[Pathfinder 189. Dreamers of the Nameless Spires]]
+**Source** [[DATABASE/source/Pathfinder 189. Dreamers of the Nameless Spires|Pathfinder #189: Dreamers of the Nameless Spires]]
 **Price** 360 gp
 **Bulk** L
 You gain a +2 item bonus to attack rolls. The bomb deals 3d6 force damage and 3 force splash damage.
 
 ## Aether Marble (Greater)<span class="item-type">Item 18</span>
 
-**Source** [[Pathfinder 189. Dreamers of the Nameless Spires]]
+**Source** [[DATABASE/source/Pathfinder 189. Dreamers of the Nameless Spires|Pathfinder #189: Dreamers of the Nameless Spires]]
 **Price** 3,400 gp
 **Bulk** L
 You gain a +3 item bonus to attack rolls. The bomb deals 4d6 force damage and 4 force splash damage.

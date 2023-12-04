@@ -11,6 +11,7 @@ name: Multishot Stance
 prerequisite: '[[DATABASE/feat/Triple Shot|Triple Shot]]'
 rarity: Common
 requirement: You are wielding a ranged weapon with reload 0.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Multishot Stance <span class="action-icon">1</span> <span class="item-type">Feat 16</span>
 
 <span class="item-trait">Fighter</span><span class="item-trait">Stance</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Archer]]*
-**Prerequisites** [[Triple Shot]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Archer|Archer]]*
+**Prerequisites** [[DATABASE/feat/Triple Shot|Triple Shot]]
 **Requirements** You are wielding a ranged weapon with reload 0.
 * This archetype offers Multishot Stance at a different level than displayed here.
 

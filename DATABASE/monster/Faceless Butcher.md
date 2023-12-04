@@ -80,19 +80,19 @@ wisdom: '+3'
 # Faceless Butcher
 
 The deformed flesh on this humanoid horror’s head bears grim holes where their eyes, nose, mouth, and ears should be, and little else. Stories of faceless butchers always center on the monstrous murderer’s preferred weapon: a wicked and bloodstained meat cleaver, which the butcher uses to carve flesh from skull to add to their collection of stolen faces. Once they’ve taken a victim’s face, the faceless butcher can wear it, transform into an exact replica of the deceased, and begin stalking their next victim.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 30
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 30
 **Unspecific Lore**: DC 28
 **Specific Lore**: DC 25
 
 # Faceless Butcher<span class="item-type">Creature 11</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 154. Siege of the Dinosaurs]]
+**Source** [[DATABASE/source/Pathfinder 154. Siege of the Dinosaurs|Pathfinder #154: Siege of the Dinosaurs]]
 **Perception** +21; darkvision
-**Languages** [[Common]]; one regional language (can't speak any language)
-**Skills** [[Acrobatics]] +22, [[Athletics]] +24, [[Deception]] +24, [[Intimidation]] +22, [[Stealth]] +24
+**Languages** [[DATABASE/language/Common|Common]]; one regional language (can't speak any language)
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +22, [[DATABASE/skill/Athletics|Athletics]] +24, [[DATABASE/skill/Deception|Deception]] +24, [[DATABASE/skill/Intimidation|Intimidation]] +22, [[DATABASE/skill/Stealth|Stealth]] +24
 **Str** +7, **Dex** +5, **Con** +6, **Int** +1, **Wis** +3, **Cha** +5
-**Suppressed Alignment** When using their Change Shape ability, the faceless butcher loses their alignment aura and thus cannot be detected by spells such as [[Detect Alignment]].
+**Suppressed Alignment** When using their Change Shape ability, the faceless butcher loses their alignment aura and thus cannot be detected by spells such as [[DATABASE/spell/Detect Alignment|detect alignment]].
 **Items** bag of faces, cleaver
 
 ---
@@ -102,7 +102,7 @@ The deformed flesh on this humanoid horror’s head bears grim holes where their
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> cleaver +24 [+19/+14] (forceful, sweep), **Damage** 2d12+7 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +24 [+20/+16] (agile, nonlethal), **Damage** 2d10+7 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> cleaver +22 [+17/+12] (thrown 10 feet), **Damage** 2d12+7 slashing</span><span class="in-box-ability">**[[Change Shape]]** <span class="action-icon">1</span> (concentrate, occult, polymorph, transmutation) The faceless butcher can take on the exact form of any Small, Medium, or Large humanoid whose face they carry in their bag of faces, changing their shape and physical features to precisely match that of the victim whose face they wear. This doesn’t change the butcher’s Speed or attack or damage bonuses with their Strikes.</span><span class="in-box-ability">**Remove Face** <span class="action-icon">2</span> (attack) **Requirements** The faceless butcher is within reach of a [[Dying]], [[Immobilized]], or [[Unconscious]] creature; **Effect** The faceless butcher attempts a cleaver Strike or an [[Athletics]] check against the creature’s Fortitude DC. On a success, the faceless butcher deals damage as if they had made a successful cleaver Strike against the creature and removes the creature’s face. On a critical success, the damage doubles and the creature takes 4d6 [[Persistent Damage]]. Once its face is removed, the creature takes a permanent –4 status penalty to Charisma checks and Charisma-based skill checks. This penalty can be removed only if the victim recovers its face from the faceless butcher and has a [[Restoration]] spell cast on it.</span><span class="in-box-ability">**Sudden Slices** <span class="action-icon">2</span> **Requirements** The faceless butcher is [[Undetected]] by their target; **Effect** The faceless butcher Strides once and makes two cleaver Strikes against the target. During the Stride, they gain a +10-foot circumstance bonus to their Speed.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> cleaver +24 [+19/+14] (forceful, sweep), **Damage** 2d12+7 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +24 [+20/+16] (agile, nonlethal), **Damage** 2d10+7 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> cleaver +22 [+17/+12] (thrown 10 feet), **Damage** 2d12+7 slashing</span><span class="in-box-ability">**[[DATABASE/monsterability/Change Shape|Change Shape]]** <span class="action-icon">1</span> (concentrate, occult, polymorph, transmutation) The faceless butcher can take on the exact form of any Small, Medium, or Large humanoid whose face they carry in their bag of faces, changing their shape and physical features to precisely match that of the victim whose face they wear. This doesn’t change the butcher’s Speed or attack or damage bonuses with their Strikes.</span><span class="in-box-ability">**Remove Face** <span class="action-icon">2</span> (attack) **Requirements** The faceless butcher is within reach of a [[DATABASE/condition/Dying|dying]], [[DATABASE/condition/Immobilized|immobilized]], or [[DATABASE/condition/Unconscious|unconscious]] creature; **Effect** The faceless butcher attempts a cleaver Strike or an [[DATABASE/skill/Athletics|Athletics]] check against the creature’s Fortitude DC. On a success, the faceless butcher deals damage as if they had made a successful cleaver Strike against the creature and removes the creature’s face. On a critical success, the damage doubles and the creature takes 4d6 [[DATABASE/condition/Persistent Damage|persistent bleed damage]]. Once its face is removed, the creature takes a permanent –4 status penalty to Charisma checks and Charisma-based skill checks. This penalty can be removed only if the victim recovers its face from the faceless butcher and has a [[DATABASE/spell/Restoration|restoration]] spell cast on it.</span><span class="in-box-ability">**Sudden Slices** <span class="action-icon">2</span> **Requirements** The faceless butcher is [[DATABASE/condition/Undetected|undetected]] by their target; **Effect** The faceless butcher Strides once and makes two cleaver Strikes against the target. During the Stride, they gain a +10-foot circumstance bonus to their Speed.</span>
 
 ###  Boondocks Killer
 

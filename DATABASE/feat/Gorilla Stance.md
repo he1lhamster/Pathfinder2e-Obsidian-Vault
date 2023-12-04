@@ -11,6 +11,7 @@ name: Gorilla Stance
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,12 +25,12 @@ type: Feat
 # Gorilla Stance <span class="action-icon">1</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Monk</span><span class="item-trait">Stance</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Martial Artist]]*
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Martial Artist|Martial Artist]]*
 * This archetype offers Gorilla Stance at a different level than displayed here.
 
 ---
-You lower yourself to the ground and take an imposing, knuckle-walking stance. While in this stance, the only Strikes you can make are gorilla slam unarmed attacks. These deal 1d8 bludgeoning damage; are in the [[Brawling]] group; and have the backswing, forceful, grapple, nonlethal, and unarmed traits. While you are in Gorilla Stance, you gain a +2 circumstance bonus to [[Athletics]] checks to [[Climb]], and if you roll a success on an Athletics check to Climb, you get a critical success instead.
+You lower yourself to the ground and take an imposing, knuckle-walking stance. While in this stance, the only Strikes you can make are gorilla slam unarmed attacks. These deal 1d8 bludgeoning damage; are in the [[DATABASE/weapongroup/Brawling|brawling]] group; and have the backswing, forceful, grapple, nonlethal, and unarmed traits. While you are in Gorilla Stance, you gain a +2 circumstance bonus to [[DATABASE/skill/Athletics|Athletics]] checks to [[DATABASE/action/Climb|Climb]], and if you roll a success on an Athletics check to Climb, you get a critical success instead.
 
 ## Archetype Use
 
@@ -37,7 +38,7 @@ This feat can be used for one or more Archetypes in addition to the listed Class
 
 ## Gorilla Stance Leads To...
 
-[[Gorilla Pound]]
+[[DATABASE/feat/Gorilla Pound|Gorilla Pound]]
 
 ## Traits
 

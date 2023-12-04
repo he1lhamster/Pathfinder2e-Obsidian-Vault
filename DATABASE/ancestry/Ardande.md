@@ -9,6 +9,7 @@ language: null
 max_speed: null
 name: Ardande
 rarity: null
+rus_type_level: null
 size: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 speed: null
@@ -20,10 +21,10 @@ vision: null
 # Ardande (Versatile Heritage)
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Ardande</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 _The strength of a baobab trunk and flexibility of a yew branch, flowers and fruit sprinkled across a forest canopy like jewels in a crown, soft moss blankets, and the daytime constellations created by pinpricks of light through leaves—this is what ardandes are made of. _
-Ardandes are geniekin, or elemental planar scions, born with elemental wood for flesh and blood-like sap flowing through their veins; just as much elemental essence as they are mortal. They are the descendants of [[Elemental, Wood]], [[Kizidhar]], [[Dryad]], and [[Dragon, Forest]], or were born under the influence of powerful elemental forces tied to the [[First World]] or [[Plane of Wood]].
- Ardandes often share a connection to specific aspects of wood, such as spring blossoms, ancient and rotten stumps seething with life that feeds on their decay, or sap dripping down tree bark; this is called an ardande lineage. Typically, an ardande has the same lineage as their ardande parent, though some are born with a new or different lineage, or to parents who didn't have one. Sometimes a lineage reflects where an ardande was born, such as [[Springsoul]] ardandes born in the vibrant, portal-riddled Grungir Forest in the Lands of the Linnorm Kings, or [[Moldersoul]] ardandes influenced by the Darkblight infection of the Southern Fangwood. They can also occur as a reflection of the ardande's planar ancestry, like [[Ambersoul]] ardandes who descend from kizidhars.
+Ardandes are geniekin, or elemental planar scions, born with elemental wood for flesh and blood-like sap flowing through their veins; just as much elemental essence as they are mortal. They are the descendants of [[DATABASE/monsterfamily/Elemental, Wood|wood elementals]], [[DATABASE/monster/Kizidhar|kizidhars]], [[DATABASE/monster/Dryad|dryads]], and [[DATABASE/monsterfamily/Dragon, Forest|forest dragons]], or were born under the influence of powerful elemental forces tied to the [[DATABASE/plane/First World|First World]] or [[DATABASE/plane/Plane of Wood|Plane of Wood]].
+ Ardandes often share a connection to specific aspects of wood, such as spring blossoms, ancient and rotten stumps seething with life that feeds on their decay, or sap dripping down tree bark; this is called an ardande lineage. Typically, an ardande has the same lineage as their ardande parent, though some are born with a new or different lineage, or to parents who didn't have one. Sometimes a lineage reflects where an ardande was born, such as [[DATABASE/feat/Springsoul|springsoul]] ardandes born in the vibrant, portal-riddled Grungir Forest in the Lands of the Linnorm Kings, or [[DATABASE/feat/Moldersoul|moldersoul]] ardandes influenced by the Darkblight infection of the Southern Fangwood. They can also occur as a reflection of the ardande's planar ancestry, like [[DATABASE/feat/Ambersoul|ambersoul]] ardandes who descend from kizidhars.
  If you want to play a character who embodies the tenacity, flexibility, and succor of elemental wood, you should play an ardande.
 
 ## You Might...
@@ -36,7 +37,7 @@ Ardandes are geniekin, or elemental planar scions, born with elemental wood for 
 
 * Look to you as an authority on plant creatures and the Plane of Wood.
 * Take you for granted as an endless well of energy, patience, and support.
-* Mistake you for a [[Ghoran]] or dryad, perhaps not even realizing there is an elemental Plane of Wood.
+* Mistake you for a [[DATABASE/monsterfamily/Ghoran|ghoran]] or dryad, perhaps not even realizing there is an elemental Plane of Wood.
 
 ## Physical Description
 
@@ -48,19 +49,19 @@ Poorly understood by both themselves and others, ardandes born before the Plane 
 
 ## Alignment and Religion
 
-Many ardandes value community and family. Religious ardandes gravitate to the faiths of wood and nature deities, such as [[Gozreh]], [[The Green Mother]], [[Shyka]], or the elemental lords of wood, [[Shumunue]] and [[Verilorn]]. Some venerate the kings of the leshies, known as the [[Green Man]], or join [[Druid]] or other spiritual practices focused on nature, like the [[Green Faith]]. Evil ardandes sometimes look to gods who represent destruction, disease, and rot for guidance, like [[Urgathoa]], [[Groetus]], or the demon lord [[Treerazer]]. The ardandes who venerate these vile gods often interpret corruption and disease as necessary components of nature's eternal cycle: death that carves the way for renewal, rather than death as a final ending.
+Many ardandes value community and family. Religious ardandes gravitate to the faiths of wood and nature deities, such as [[DATABASE/deity/Gozreh|Gozreh]], [[DATABASE/deity/The Green Mother|the Green Mother]], [[DATABASE/deity/Shyka|Shyka]], or the elemental lords of wood, [[DATABASE/deity/Shumunue|Shumunue]] and [[DATABASE/deity/Verilorn|Verilorn]]. Some venerate the kings of the leshies, known as the [[DATABASE/monster/Green Man|green men]], or join [[DATABASE/class_/Druid|druidic orders]] or other spiritual practices focused on nature, like the [[DATABASE/deity/Green Faith|Green Faith]]. Evil ardandes sometimes look to gods who represent destruction, disease, and rot for guidance, like [[DATABASE/deity/Urgathoa|Urgathoa]], [[DATABASE/deity/Groetus|Groetus]], or the demon lord [[DATABASE/monster/Treerazer|Treerazer]]. The ardandes who venerate these vile gods often interpret corruption and disease as necessary components of nature's eternal cycle: death that carves the way for renewal, rather than death as a final ending.
  **Popular Edicts** flow with the cycles of nature, grow the world I want to live in
  **Popular Anathema** betray my family
 
 ## Adventurers
 
-Misunderstood and unexplained, many ardande children turn to lives of adventure as they search for answers and information about themselves. Backgrounds as [[Artist]] and [[Artisan]] are common, as woodcrafts and sculpture often help them to feel connected with kizidhar ancestors, though many also become [[Scholar]] and elementalists in their quests to uncover the secrets of the Inner Sphere and their place inside it.
+Misunderstood and unexplained, many ardande children turn to lives of adventure as they search for answers and information about themselves. Backgrounds as [[DATABASE/background/Artist|artists]] and [[DATABASE/background/Artisan|artisans]] are common, as woodcrafts and sculpture often help them to feel connected with kizidhar ancestors, though many also become [[DATABASE/background/Scholar|scholars]] and elementalists in their quests to uncover the secrets of the Inner Sphere and their place inside it.
 
 ## Other Information
 
 ### Ardande Relations
 
-[[Dragon, Forest]] and [[Dryad]] are common ancestors for ardandes born before the return of the [[Plane of Wood]], or kizidhars who became trapped in the [[Material Plane]] and were forced to make new lives for themselves. Ardandes with [[Wood Scamp]] parents are often short and bushy, like living shrubs, and are often mistaken for [[Leshy]] and [[Conrasu]].
+[[DATABASE/monsterfamily/Dragon, Forest|Forest dragons]] and [[DATABASE/monster/Dryad|dryad]] are common ancestors for ardandes born before the return of the [[DATABASE/plane/Plane of Wood|Plane of Wood]], or kizidhars who became trapped in the [[DATABASE/plane/Material Plane|Universe]] and were forced to make new lives for themselves. Ardandes with [[DATABASE/monster/Wood Scamp|wood scamp]] parents are often short and bushy, like living shrubs, and are often mistaken for [[DATABASE/ancestry/Leshy|leshies]] and [[DATABASE/ancestry/Conrasu|conrasus]].
 
 ### Ardande Settlements
 
@@ -69,10 +70,10 @@ In most parts of Golarion, ardande bloodlines are only just beginning to return.
 
 # Versatile Heritage
 
-## [[Ardande]]
+## [[DATABASE/heritage/Ardande|Ardande]]
 
 <span class="trait-uncommon item-trait">Uncommon</span>
-**Source** [[Rage of Elements]]
-**Ancestry Page** [[Ardande]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
+**Ancestry Page** [[DATABASE/ancestry/Ardande|Ardande]]
 You descend from wood elementals or have some other heritage influenced by the elemental Plane of Wood. You might have green, mossy skin, vines that grow from your head instead of hair, or thin appendages that resemble twigs. You gain the ardande trait, in addition to the traits from your ancestry. You also gain low-light vision, or you gain darkvision if your ancestry already has low-light vision.
  You can choose from ardande feats, geniekin feats, and feats from your ancestry whenever you gain an ancestry feat.

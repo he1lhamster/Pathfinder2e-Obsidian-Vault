@@ -90,17 +90,17 @@ wisdom: '+1'
 Grauladons are vicious predators that appear crocodilian in form, but are in fact distant offshoots of dragonkind. They make their dens in the shallows of fetid ponds or isolated corners of larger bodies of water, usually in rural swamps or woodlands. Driven almost entirely by their base desire to feed, grauladons spend most of their time swimming leisurely underwater looking for prey such as fish or waterfowl. Possessed of a greed befitting their more majestic dragon cousins, grauladons often take down prey larger than they need, jealously guarding the corpses to keep scavengers away even as the meat rots. A typical grauladon is 16 feet long from its snout to the tip of its tail and weighs 1,500 pounds.
  A grauladon’s stench may seem supernaturally disgusting, but it is simply the result of the creature’s fetid habitat and diet of rotting, waterlogged meat. As grauladons’ exhalations bear a passing resemblance to dragons’ breath, they have earned the nickname “mud drakes” from rural folk.
  Grauladons can be found in both fresh and brackish water in most temperate climates. They prefer to lair in shallow waters, particularly where reeds or other foliage conceal their bulk from unsuspecting prey. Grauladons are highly territorial and won’t tolerate other predators living or hunting near their homes.
-**Recall Knowledge - Dragon ([[Arcana]])**: DC 18
+**Recall Knowledge - Dragon ([[DATABASE/skill/Arcana|Arcana]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Grauladon<span class="item-type">Creature 2</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Dragon</span>
-**Source** [[Pathfinder 145. Hellknight Hill]]
+**Source** [[DATABASE/source/Pathfinder 145. Hellknight Hill|Pathfinder #145: Hellknight Hill]]
 **Perception** +7; darkvision, scent (imprecise) 30 feet
-**Languages** [[Draconic]]; can't speak any language
-**Skills** [[Athletics]] +10, [[Stealth]] +6, [[Survival]] +5
+**Languages** [[DATABASE/language/Draconic|Draconic]]; can't speak any language
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +10, [[DATABASE/skill/Stealth|Stealth]] +6, [[DATABASE/skill/Survival|Survival]] +5
 **Str** +4, **Dex** +0, **Con** +4, **Int** -3, **Wis** +1, **Cha** -2
 
 ---
@@ -110,7 +110,7 @@ Grauladons are vicious predators that appear crocodilian in form, but are in fac
 
 ---
 **Speed** 20 feet, swim 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +10 [+5/+0], **Damage** 1d12+4 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> tail +10 [+6/+2] (agile), **Damage** 1d8+4 bludgeoning</span><span class="in-box-ability">**Body Slam** <span class="action-icon">1</span> **Requirements** More than one enemy is adjacent to the grauladon. **Effect** The grauladon swings its tail at each adjacent enemy and attempts to Trip each creature adjacent to it. It rolls only a single [[Athletics]] check and compares the result to the Fortitude DC of each target.</span><span class="in-box-ability">**Deep Breath** A grauladon can hold its breath for 225 rounds (22-1/2 minutes).</span><span class="in-box-ability">**Noxious Breath** <span class="action-icon">1</span> The grauladon hisses and unleashes a nauseating cloud of halitosis in a 15-foot cone. Each creature in the area must succeed at a DC 18 Fortitude saving throw or be [[Sickened]] ([[Sickened]] on a critical failure). The grauladon can’t use Noxious Breath or Reactive Breath again for 1d4 rounds.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +10 [+5/+0], **Damage** 1d12+4 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> tail +10 [+6/+2] (agile), **Damage** 1d8+4 bludgeoning</span><span class="in-box-ability">**Body Slam** <span class="action-icon">1</span> **Requirements** More than one enemy is adjacent to the grauladon. **Effect** The grauladon swings its tail at each adjacent enemy and attempts to Trip each creature adjacent to it. It rolls only a single [[DATABASE/skill/Athletics|Athletics]] check and compares the result to the Fortitude DC of each target.</span><span class="in-box-ability">**Deep Breath** A grauladon can hold its breath for 225 rounds (22-1/2 minutes).</span><span class="in-box-ability">**Noxious Breath** <span class="action-icon">1</span> The grauladon hisses and unleashes a nauseating cloud of halitosis in a 15-foot cone. Each creature in the area must succeed at a DC 18 Fortitude saving throw or be [[DATABASE/condition/Sickened|sickened 1]] ([[DATABASE/condition/Sickened|sickened 2]] on a critical failure). The grauladon can’t use Noxious Breath or Reactive Breath again for 1d4 rounds.</span>
 
 ###  Saltwater Grauladons
 

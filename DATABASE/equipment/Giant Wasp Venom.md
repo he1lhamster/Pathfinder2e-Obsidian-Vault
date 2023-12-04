@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: DC 25 Fortitude
 school: null
 size: null
@@ -56,11 +57,11 @@ weapon_type: null
 # Giant Wasp Venom<span class="item-type">Item 7</span>
 
 <span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Injury</span><span class="item-trait">Poison</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 55 gp
 **Usage** held in 2 hands; **Bulk** L
 **Activate** <span class="action-icon">2</span> Interact
 
 ---
-[[Giant Wasp]] venom interferes with a victim's movement. 
-**Saving Throw** DC 25 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 2d6 poison damage and [[Clumsy]] (1 round); **Stage 2** 3d6 poison damage and clumsy 2 (1 round); **Stage 3** 4d6 poison damage and clumsy 2 (1 round)
+[[DATABASE/monster/Giant Wasp|Giant wasp]] venom interferes with a victim's movement. 
+**Saving Throw** DC 25 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 2d6 poison damage and [[DATABASE/condition/Clumsy|clumsy 1]] (1 round); **Stage 2** 3d6 poison damage and clumsy 2 (1 round); **Stage 3** 4d6 poison damage and clumsy 2 (1 round)

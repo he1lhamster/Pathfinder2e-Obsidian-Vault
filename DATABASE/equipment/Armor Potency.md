@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 size: null
@@ -53,7 +54,7 @@ weapon_type: null
 # Armor Potency<span class="item-type">Item 5+</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Magical</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** etched onto armor; **Bulk** —
 
 ---
@@ -62,20 +63,20 @@ Magic wards deflect attacks. Increase the armor’s item bonus to AC by 1. The a
 
 ## Armor Potency (+1)<span class="item-type">Item 5</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 160 gp
 **Craft Requirements** You are an expert in Crafting.
 
 ## Armor Potency (+2)<span class="item-type">Item 11</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 1,060 gp
 Increase the armor’s item bonus to AC by 2, and the armor can be etched with two property runes.
 **Craft Requirements** You are a master in Crafting.
 
 ## Armor Potency (+3)<span class="item-type">Item 18</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 20,560 gp
 Increase the armor’s item bonus to AC by 3, and the armor can be etched with three property runes.
 **Craft Requirements** You are legendary in Crafting.

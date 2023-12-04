@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Enchantment
 size: null
@@ -56,11 +57,11 @@ weapon_type: null
 # Stole of Civility<span class="item-type">Item 9</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Enchantment</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span>
-**Source** [[Pathfinder 152. Legacy of the Lost God]]
+**Source** [[DATABASE/source/Pathfinder 152. Legacy of the Lost God|Pathfinder #152: Legacy of the Lost God]]
 **Price** 700 gp
 **Usage** worn cloak
 ; **Bulk** L
 
 ---
-Woven from swaths of rich brocade silk and embroidered with ancient Azlanti script in golden thread, this stole imparts a noble appearance to even the homeliest of individuals when draped over the shoulders. While wearing a stole of civility, you receive a +2 item bonus to [[Diplomacy]] checks to [[Make an Impression]] with humans or [[Request]] of humans, and a +2 item bonus to [[Intimidation]] checks against humans. The stole also grants you full understanding of the [[Azlanti]] language.
+Woven from swaths of rich brocade silk and embroidered with ancient Azlanti script in golden thread, this stole imparts a noble appearance to even the homeliest of individuals when draped over the shoulders. While wearing a stole of civility, you receive a +2 item bonus to [[DATABASE/skill/Diplomacy|Diplomacy]] checks to [[DATABASE/action/Make an Impression|Make an Impression]] with humans or [[DATABASE/action/Request|Make a Request]] of humans, and a +2 item bonus to [[DATABASE/skill/Intimidation|Intimidation]] checks against humans. The stole also grants you full understanding of the [[DATABASE/language/Azlanti|Azlanti]] language.
 **Activate** <span class="action-icon">1</span> envision **Frequency** once per day; **Requirements** you are a human; **Effect** You gain 10 temporary Hit Points, which last for 10 minutes.

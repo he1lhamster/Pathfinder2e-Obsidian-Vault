@@ -20,6 +20,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
@@ -40,7 +41,7 @@ type: Spell
 # Pet Cache<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Conjuration</span><span class="item-trait">Extradimensional</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Traditions** arcane, divine, occult, primal
 **Spell List** elemental
 **Cast** <span class="action-icon">1</span> somatic

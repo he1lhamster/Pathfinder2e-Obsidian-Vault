@@ -78,25 +78,25 @@ wisdom: '+4'
 # Two-Headed Troll
 
 Two-headed trolls are savage, dual-minded monsters with an unquenchable thirst for bloodshed, and dread tales of their ravenous appetites are whispered of in homesteads throughout the lands of the Inner Sea. Indeed, it is a custom for parents to invoke the two-headed troll as a warning to misbehaving children. “Finish your chores,” a parent might say to a stubborn child, “or a two-headed troll will snatch you away at night and swallow you whole!” It's unclear why such a morbid tradition gained traction with parents, but it's an undeniable fact that two-headed trolls have an appetite for “nibbles”—creatures small enough to devour with one bite.
- Mature two-headed trolls stand 13 feet in height, weighing roughly 1,700 pounds. Unlike common trolls, two-headed trolls share the upright gait of their [[Ettin]] ancestry and do not walk hunched over.
+ Mature two-headed trolls stand 13 feet in height, weighing roughly 1,700 pounds. Unlike common trolls, two-headed trolls share the upright gait of their [[DATABASE/monster/Ettin|ettin]] ancestry and do not walk hunched over.
 **Unspecific Lore**: DC 24
 **Specific Lore**: DC 21
 
 # Two-Headed Troll<span class="item-type">Creature 8</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Giant</span><span class="item-trait">Troll</span>
-**Source** [[Bestiary 2]] 
-**Perception** +18; [[Darkvision]]
-**Languages** [[Jotun]]
-**Skills** [[Athletics]] +18, [[Intimidation]] +17
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +18; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Jotun|Jotun]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +18, [[DATABASE/skill/Intimidation|Intimidation]] +17
 **Str** +6, **Dex** +1, **Con** +6, **Int** -2, **Wis** +4, **Cha** +3
-**Independent Brains** Each of a two-headed troll's heads rolls their own initiative and has their own turn. Neither head can [[Delay]]. At the start of a head's turn, that head gets 2 actions and 1 reaction. Each brain controls one of the troll's arms, but both can move the legs. Any ability that would sever a two-headed troll's head (such as the [[Vorpal]] weapon property) doesn't cause the two-headed troll to die if they still have their other head, but does cause them to lose the turns, actions, and reactions of the severed head. Mental effects that target a single creature affect only one of the troll's heads.
-**Items** [[Club]]
+**Independent Brains** Each of a two-headed troll's heads rolls their own initiative and has their own turn. Neither head can [[DATABASE/action/Delay|Delay]]. At the start of a head's turn, that head gets 2 actions and 1 reaction. Each brain controls one of the troll's arms, but both can move the legs. Any ability that would sever a two-headed troll's head (such as the [[DATABASE/equipment/Vorpal|vorpal]] weapon property) doesn't cause the two-headed troll to die if they still have their other head, but does cause them to lose the turns, actions, and reactions of the severed head. Mental effects that target a single creature affect only one of the troll's heads.
+**Items** [[DATABASE/weapon/Club|club]]
 
 ---
 **AC** 24; **Fort** +20, **Ref** +15, **Will** +14
 **HP** 190, regeneration 25 (deactivated by acid or fire); **Weaknesses** fire 10
-<span class="in-box-ability">**Head Regrowth** A two-headed troll's regeneration can regrow a severed head. After regaining Hit Points from regeneration, the two-headed troll attempts a DC 10 flat check. On a success, the missing head is fully restored. If a two-headed troll loses their last remaining head, they die immediately.</span><span class="in-box-ability">**[[Attack of Opportunity]] <span class="action-icon">5</span> ** </span>
+<span class="in-box-ability">**Head Regrowth** A two-headed troll's regeneration can regrow a severed head. After regaining Hit Points from regeneration, the two-headed troll attempts a DC 10 flat check. On a success, the missing head is fully restored. If a two-headed troll loses their last remaining head, they die immediately.</span><span class="in-box-ability">**[[DATABASE/monsterability/Attack of Opportunity|Attack of Opportunity]] <span class="action-icon">5</span> ** </span>
 
 ---
 **Speed** 30 feet
@@ -104,4 +104,4 @@ Two-headed trolls are savage, dual-minded monsters with an unquenchable thirst f
 
 ###  Mother of Trolls
 
-Trolls and [[Ettin]] do not normally seek one another as mates, but this pairing is the source of the original two-headed trolls—such couplings were engineered and arranged by the cult of [[Lamashtu]] in ages past. Oblivious to their origin, two-headed trolls tend to give no deference to the Mother of Monsters.
+Trolls and [[DATABASE/monster/Ettin|ettins]] do not normally seek one another as mates, but this pairing is the source of the original two-headed trolls—such couplings were engineered and arranged by the cult of [[DATABASE/deity/Lamashtu|Lamashtu]] in ages past. Oblivious to their origin, two-headed trolls tend to give no deference to the Mother of Monsters.

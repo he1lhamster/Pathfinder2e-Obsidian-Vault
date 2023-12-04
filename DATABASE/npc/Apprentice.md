@@ -64,19 +64,19 @@ wisdom: '+0'
 # Apprentice
 
 Ambitious apprentices can be found in all cities. These individuals are generally younger and seek the approval of their masters as they learn their craft. Many yearn to exemplify the artistry behind their craft, one day becoming masters themselves. Depicted below is an apprentice cartographer.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 13
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 13
 **Unspecific Lore**: DC 11
 **Specific Lore**: DC 8
 
 # Apprentice<span class="item-type">Creature -1</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Perception** +2
-**Languages** [[Common]]
-**Skills** [[Athletics]] +3, [[Crafting]] +5, [[Lore]] +5
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +3, [[DATABASE/skill/Crafting|Crafting]] +5, [[DATABASE/skill/Lore|Geography Lore]] +5
 **Str** +1, **Dex** +2, **Con** +1, **Int** +3, **Wis** +0, **Cha** +0
-**Items** rugged clothes with tool belt (functions as [[Padded Armor]]), [[Artisan's Tools]], assorted maps
+**Items** rugged clothes with tool belt (functions as [[DATABASE/armor/Padded Armor|padded armor]]), [[DATABASE/equipment/Artisan's Tools|artisan's tools]], assorted maps
 
 ---
 **AC** 15; **Fort** +5, **Ref** +6, **Will** +2

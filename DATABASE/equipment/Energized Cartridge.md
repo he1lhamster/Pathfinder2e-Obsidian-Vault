@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: You're trained in use of the affixed firearm or crossbow.
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -55,10 +56,10 @@ weapon_type: null
 # Energized Cartridge<span class="item-type">Item 4</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Magical</span><span class="item-trait">Talisman</span><span class="item-trait">Transmutation</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 20 gp
 **Usage** affixed to a firearm or crossbow; **Bulk** —
 **Activate** <span class="action-icon">4</span> envision **Trigger** You attempt an attack roll with the affixed firearm or crossbow; **Requirements** You're trained in use of the affixed firearm or crossbow.
 
 ---
-This simple brass shell casing contains trace amounts of alchemical ingredients and is usually attached to the underside of the affixed weapon's barrel. When activated, it causes the ammunition fired from the affixed weapon to transform into your choice of acid, cold, electricity, or fire, dealing damage of the appropriate energy type instead of its usual damage as well as 1d6 [[Persistent Damage]] of the same type on a critical hit.
+This simple brass shell casing contains trace amounts of alchemical ingredients and is usually attached to the underside of the affixed weapon's barrel. When activated, it causes the ammunition fired from the affixed weapon to transform into your choice of acid, cold, electricity, or fire, dealing damage of the appropriate energy type instead of its usual damage as well as 1d6 [[DATABASE/condition/Persistent Damage|persistent damage]] of the same type on a critical hit.

@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 size: null
@@ -57,9 +58,9 @@ weapon_type: null
 # Detect Anathema Fulu<span class="item-type">Item 8</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Abjuration</span><span class="item-trait">Consumable</span><span class="item-trait">Fulu</span><span class="item-trait">Magical</span><span class="item-trait">Talisman</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Price** 100 gp
 **Usage** affixed to armor; **Bulk** —
 
 ---
-Given to undisciplined acolytes at risk of breaking their vows, this fulu activates on its own if its wearer begins to perform an act anathema to a specific deity or cause, decided at the time of crafting. The fulu heats up when activated, giving you enough warning to correct your actions; if you proceed, the fulu immolates in a burst of flame. This deals 4d6 fire damage and brands your skin until you receive an appropriate [[Atone]] ritual. Either way, activating the fulu consumes it.
+Given to undisciplined acolytes at risk of breaking their vows, this fulu activates on its own if its wearer begins to perform an act anathema to a specific deity or cause, decided at the time of crafting. The fulu heats up when activated, giving you enough warning to correct your actions; if you proceed, the fulu immolates in a burst of flame. This deals 4d6 fire damage and brands your skin until you receive an appropriate [[DATABASE/ritual/Atone|atone]] ritual. Either way, activating the fulu consumes it.

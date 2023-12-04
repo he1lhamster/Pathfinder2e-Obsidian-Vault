@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -50,18 +51,18 @@ weapon_type: null
 ---
 # Bird<span class="item-type">Item 0+</span>
 
-**Source** [[Travel Guide]]
+**Source** [[DATABASE/source/Travel Guide|Travel Guide]]
 **Bulk** —
 
 ---
 
 ## Bird<span class="item-type">Item 0</span>
 
-**Source** [[Travel Guide]]
+**Source** [[DATABASE/source/Travel Guide|Travel Guide]]
 **Price** 1 sp+
 
 ## Bird (House Eagle)<span class="item-type">Item 0</span>
 
-**Source** [[Travel Guide]]
+**Source** [[DATABASE/source/Travel Guide|Travel Guide]]
 **Price** 10 gp
 These smaller falcons feature the brown-and-white markings of eagles and are popular among Eagle Knights. They serve both as a symbol of national pride and help keep watch in the field. They can be kept in a home but require a dedicated perch. They're known for pouncing on and tearing up floor rugs.

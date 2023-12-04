@@ -11,6 +11,7 @@ name: Hatchling Flight
 prerequisite: '[[DATABASE/feat/Winglets|Winglets]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,19 +24,19 @@ type: Feat
 # Hatchling Flight <span class="action-icon">1</span> <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Kobold</span>
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 **Frequency** once per round
-**Prerequisites** [[Winglets]]
+**Prerequisites** [[DATABASE/feat/Winglets|Winglets]]
 
 ---
 You can fly a little! You Fly up to half your Speed. If you don't end your movement on solid ground, you fall at the end of your turn.
 
 ## Hatchling Flight Leads To...
 
-[[Wyrmling Flight]]
+[[DATABASE/feat/Wyrmling Flight|Wyrmling Flight]]
 
 ## Traits
 
 **Kobold:**
 
-A creature with this trait is a member of the kobold ancestry. Kobolds are reptilian humanoids who are usually Small and typically have [[Darkvision]]. An ability with this trait can be used or selected only by kobolds.
+A creature with this trait is a member of the kobold ancestry. Kobolds are reptilian humanoids who are usually Small and typically have [[DATABASE/monsterability/Darkvision|darkvision]]. An ability with this trait can be used or selected only by kobolds.

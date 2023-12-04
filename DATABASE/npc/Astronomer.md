@@ -73,20 +73,20 @@ wisdom: '+3'
 # Astronomer
 
 Different cultures have created stories of the hows and whys of the universe, if things exist beyond the stars, and if the gods manipulate the heavenly bodies. But astronomers aren't interested in folktales—they desire truth.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 16
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
 # Astronomer<span class="item-type">Creature 2</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Perception** +10
-**Languages** [[Common]]
-**Skills** [[Arcana]] +8, [[Lore]] +12, [[Occultism]] +8
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Arcana|Arcana]] +8, [[DATABASE/skill/Lore|Astronomy Lore]] +12, [[DATABASE/skill/Occultism|Occultism]] +8
 **Str** +0, **Dex** +1, **Con** +2, **Int** +4, **Wis** +3, **Cha** +0
-**Living Sextant** If the astronomer is able to see the night sky, they can [[Sense Direction]] using a +10 modifier.
-**Items** [[Spellbook (Blank)]], astrolabe, [[Material Component Pouch]], [[Staff]]
+**Living Sextant** If the astronomer is able to see the night sky, they can [[DATABASE/action/Sense Direction|Sense Direction]] using a +10 modifier.
+**Items** [[DATABASE/equipment/Spellbook (Blank)|spellbook]], astrolabe, [[DATABASE/equipment/Material Component Pouch|material component pouch]], [[DATABASE/weapon/Staff|staff]]
 
 ---
 **AC** 15; **Fort** +6, **Ref** +5, **Will** +9
@@ -95,4 +95,4 @@ Different cultures have created stories of the hows and whys of the universe, if
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> staff +6 [+1/-4] (two-hand d8), **Damage** 1d4 bludgeoning</span>**Arcane Prepared Spells** DC 17, attack +9; **1st** _[[Feather Fall]]_, _[[Floating Disk]]_, _[[Sleep]]_, _[[Unseen Servant]]_ (4 slots); **Cantrips** **(1st)** _[[Detect Magic]]_, _[[Mage Hand]]_, _[[Read Aura]]_, _[[Sigil]]_, _[[Telekinetic Projectile]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> staff +6 [+1/-4] (two-hand d8), **Damage** 1d4 bludgeoning</span>**Arcane Prepared Spells** DC 17, attack +9; **1st** _[[DATABASE/spell/Feather Fall|feather fall]]_, _[[DATABASE/spell/Floating Disk|floating disk]]_, _[[DATABASE/spell/Sleep|sleep]]_, _[[DATABASE/spell/Unseen Servant|unseen servant]]_ (4 slots); **Cantrips** **(1st)** _[[DATABASE/spell/Detect Magic|detect magic]]_, _[[DATABASE/spell/Mage Hand|mage hand]]_, _[[DATABASE/spell/Read Aura|read aura]]_, _[[DATABASE/spell/Sigil|sigil]]_, _[[DATABASE/spell/Telekinetic Projectile|telekinetic projectile]]_

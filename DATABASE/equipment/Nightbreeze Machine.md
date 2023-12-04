@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Nightbreeze Machine<span class="item-type">Item 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Air</span><span class="item-trait">Clockwork</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 125 gp
 **Bulk** 4
 **Access** Characters from Absalom, New Thassilon, Alkenstar, Dongun Hold, or especially technological regions of Arcadia like the Deadshot Lands have access to uncommon clockwork items from the first two chapters of this book.

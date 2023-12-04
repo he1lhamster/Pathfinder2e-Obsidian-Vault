@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -53,7 +54,7 @@ weapon_type: null
 # Sisterstone Armor<span class="item-type">Item 5+</span>
 
 <span class="trait-rare item-trait">Rare</span>
-**Source** [[Pathfinder 183. Field of Maidens]]
+**Source** [[DATABASE/source/Pathfinder 183. Field of Maidens|Pathfinder #183: Field of Maidens]]
 **Usage** worn armor; **Bulk** varies by armor
 
 ---
@@ -62,19 +63,19 @@ Sisterstone armor incorporates stone plates. A creature wearing sisterstone armo
 
 ### Base Material
 
-[[Sisterstone]]
+[[DATABASE/equipment/Sisterstone|Sisterstone]]
 
 ## Sisterstone Armor (Low-Grade)<span class="item-type">Item 5</span>
 
-**Source** [[Pathfinder 183. Field of Maidens]]
+**Source** [[DATABASE/source/Pathfinder 183. Field of Maidens|Pathfinder #183: Field of Maidens]]
 **Price** 140 gp (plus 14 gp per Bulk)
 
 ## Sisterstone Armor (Standard-Grade)<span class="item-type">Item 10</span>
 
-**Source** [[Pathfinder 183. Field of Maidens]]
+**Source** [[DATABASE/source/Pathfinder 183. Field of Maidens|Pathfinder #183: Field of Maidens]]
 **Price** 1,000 gp (plus 100 gp per Bulk)
 
 ## Sisterstone Armor (High-Grade)<span class="item-type">Item 18</span>
 
-**Source** [[Pathfinder 183. Field of Maidens]]
+**Source** [[DATABASE/source/Pathfinder 183. Field of Maidens|Pathfinder #183: Field of Maidens]]
 **Price** 19,500 gp (plus 1,950 gp per Bulk)

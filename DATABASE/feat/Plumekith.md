@@ -11,6 +11,7 @@ name: Plumekith
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -24,20 +25,20 @@ type: Feat
 # Plumekith <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Aasimar</span><span class="item-trait">Lineage</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-Your blood soars with the power of the magnificent [[Garuda]], proud and stoic avian warriors. You only take half the normal damage from falling and gain a +2 circumstance bonus to saving throws against effects with the air trait.
+Your blood soars with the power of the magnificent [[DATABASE/monster/Garuda|garuda]], proud and stoic avian warriors. You only take half the normal damage from falling and gain a +2 circumstance bonus to saving throws against effects with the air trait.
 
 ## Plumekith Leads To...
 
-[[Garuda Magic]], [[Garuda's Squall]]
+[[DATABASE/feat/Garuda Magic|Garuda Magic]], [[DATABASE/feat/Garuda's Squall|Garuda's Squall]]
 
 ## Traits
 
 **Aasimar:**
 
-A creature with this trait has the aasimar versatile heritage. Aasimars are [[Planar Scion]] descended from celestial beings. An ability with this trait can be used or selected only by aasimars.
+A creature with this trait has the aasimar versatile heritage. Aasimars are [[DATABASE/monsterfamily/Planar Scion|planar scions]] descended from celestial beings. An ability with this trait can be used or selected only by aasimars.
 
 **Lineage:**
 

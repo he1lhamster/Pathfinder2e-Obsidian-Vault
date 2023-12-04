@@ -16,6 +16,7 @@ price: 1,100 gp
 rarity: Rare
 reflex: null
 resistance: null
+rus_type_level: null
 school: null
 size: Medium
 source: '[[DATABASE/source/Pathfinder 182. Graveclaw|Pathfinder #182: Graveclaw]]'
@@ -29,7 +30,7 @@ type: Vehicle
 # Cauldron of Flying<span class="item-type">Vehicle 6</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Magical</span>
-**Source** [[Pathfinder 182. Graveclaw]]
+**Source** [[DATABASE/source/Pathfinder 182. Graveclaw|Pathfinder #182: Graveclaw]]
 **Price** 1,100 gp
 
 ---
@@ -40,7 +41,7 @@ Witches flying about the countryside at night in their magical cauldrons are oft
 ---
 **Space** A large cooking pot 4 feet high and 5 feet in diameter, bulging slightly in the middle and flaring at the top.
 **Crew** 1 pilot
-**Piloting Check** [[Arcana]] (DC 24), [[Occultism]] (DC 20), or [[I]] (DC 22)
+**Piloting Check** [[DATABASE/skill/Arcana|Arcana]] (DC 24), [[DATABASE/skill/Occultism|Occultism]] (DC 20), or [[DATABASE/monster/I|Piloting Lore]] (DC 22)
 
 ---
 **AC** 21; **Fort** +14

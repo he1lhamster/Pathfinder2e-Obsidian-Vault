@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Staff of Final Rest<span class="item-type">Item 6+</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Magical</span><span class="item-trait">Necromancy</span><span class="item-trait">Staff</span>
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Usage** held in 1 hand; **Bulk** 1
 
 ---
@@ -65,31 +66,31 @@ This white marble staff is carved into the figure of an abstract knight, its shi
 
 ## Staff of Final Rest<span class="item-type">Item 6</span>
 
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 240 gp
 **Bulk** 1
 
-* **Cantrip** [[Disrupt Undead]]
-* **1st** [[Disrupting Weapons]], [[Heal]]
-* **2nd** _heal_, [[Gentle Repose]]
+* **Cantrip** [[DATABASE/spell/Disrupt Undead|disrupt undead]]
+* **1st** [[DATABASE/spell/Disrupting Weapons|disrupting weapons]], [[DATABASE/spell/Heal|heal]]
+* **2nd** _heal_, [[DATABASE/spell/Gentle Repose|gentle repose]]
 
 ## Staff of Final Rest (Greater)<span class="item-type">Item 10</span>
 
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 900 gp
 **Bulk** 1
 The circumstance bonus to damage rolls is +2.
 
-* **3rd** [[Bind Undead]], _disrupting weapons_, _heal_
-* **4th** _heal_, [[Holy Cascade]]
+* **3rd** [[DATABASE/spell/Bind Undead|bind undead]], _disrupting weapons_, _heal_
+* **4th** _heal_, [[DATABASE/spell/Holy Cascade|holy cascade]]
 
 ## Staff of Final Rest (Major)<span class="item-type">Item 16</span>
 
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 9,000 gp
 **Bulk** 1
 The circumstance bonus to damage rolls is +3.
 
-* **5th** [[Death Ward]], _disrupting weapons_, _heal_
-* **6th** [[Field of Life]], _heal_, _holy cascade_
-* **7th** _heal_, _holy cascade_, [[Sunburst]]
+* **5th** [[DATABASE/spell/Death Ward|death ward]], _disrupting weapons_, _heal_
+* **6th** [[DATABASE/spell/Field of Life|field of life]], _heal_, _holy cascade_
+* **7th** _heal_, _holy cascade_, [[DATABASE/spell/Sunburst|sunburst]]

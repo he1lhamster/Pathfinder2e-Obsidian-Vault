@@ -12,6 +12,7 @@ name: Juggling Club
 price: 1 sp
 range: null
 rarity: Uncommon
+rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: The
   Show Must Go On]]'
 trait:
@@ -28,13 +29,13 @@ weapon_type: Melee
 # Juggling Club
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Agile</span><span class="item-trait">Nonlethal</span><span class="item-trait">Thrown 20 ft.</span>
-**Source** [[Pathfinder 151. The Show Must Go On]]
+**Source** [[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: The Show Must Go On]]
 **Price** 1 sp; **Damage** 1d4 B; **Bulk** L
 **Hands** 1
-**Type** Melee; **Category** Simple; **Group** [[Club]]
+**Type** Melee; **Category** Simple; **Group** [[DATABASE/weapongroup/Club|Club]]
 
 ---
-A juggling club is lighter than a typical club and balanced to be easily caught and thrown again by a juggler. While a juggling club deals less damage, the extra throwing distance its light weight allows is important for [[Juggle]].
+A juggling club is lighter than a typical club and balanced to be easily caught and thrown again by a juggler. While a juggling club deals less damage, the extra throwing distance its light weight allows is important for [[DATABASE/feat/Juggle|Juggling]].
 
 ## Traits
 
@@ -52,10 +53,10 @@ You can throw this weapon as a ranged attack, and it is a ranged weapon when thr
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.
 
 ## Critical Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
 **Club**: You knock the target away from you up to 10 feet (you choose the distance). This is forced movement.

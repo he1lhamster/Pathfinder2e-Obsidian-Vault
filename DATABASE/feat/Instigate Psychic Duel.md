@@ -11,6 +11,7 @@ name: Instigate Psychic Duel
 prerequisite: '[[DATABASE/feat/Psychic Duelist Dedication|Psychic Duelist Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Illusion
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -27,10 +28,10 @@ type: Feat
 # Instigate Psychic Duel <span class="action-icon">3</span> <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Illusion</span><span class="item-trait">Incapacitation</span><span class="item-trait">Mental</span><span class="item-trait">Occult</span>
-**Source** [[Dark Archive]]
-**Archetype** [[Psychic Duelist]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Archetype** [[DATABASE/archetype/Psychic Duelist|Psychic Duelist]]
 **Frequency** once per day
-**Prerequisites** [[Psychic Duelist Dedication]]
+**Prerequisites** [[DATABASE/feat/Psychic Duelist Dedication|Psychic Duelist Dedication]]
 
 ---
 You attempt to enter a psychic duel with a creature within 100 feet. The target can attempt a Will save against the higher of your spell DC or class DC. If it enters the duel willingly, use the result for a critical failure.

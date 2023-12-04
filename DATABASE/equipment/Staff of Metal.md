@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Staff of Metal<span class="item-type">Item 6+</span>
 
 <span class="item-trait">Magical</span><span class="item-trait">Metal</span><span class="item-trait">Staff</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Usage** held in 1 hand; **Bulk** 1
 
 ---
@@ -63,28 +64,28 @@ This cylindrical iron staff has colored segments on both ends, one red and one b
 
 ## Staff of Metal<span class="item-type">Item 6</span>
 
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Price** 250 gp
 **Bulk** 1
 
-* **Cantrips** [[Detect Metal]]
-* **1st** [[Conductive Weapon]], [[Shielded Arm]]
-* **2nd** [[Magnetic Attraction]], [[Magnetic Repulsion]]
+* **Cantrips** [[DATABASE/spell/Detect Metal|detect metal]]
+* **1st** [[DATABASE/spell/Conductive Weapon|conductive weapon]], [[DATABASE/spell/Shielded Arm|shielded arm]]
+* **2nd** [[DATABASE/spell/Magnetic Attraction|magnetic attraction]], [[DATABASE/spell/Magnetic Repulsion|magnetic repulsion]]
 
 ## Staff of Metal (Greater)<span class="item-type">Item 10</span>
 
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Price** 900 gp
 **Bulk** 1
 
-* **3rd** [[Magnetic Acceleration]], [[Noxious Metals]]
-* **4th** [[Mercurial Stride]], [[Rust Cloud]]
+* **3rd** [[DATABASE/spell/Magnetic Acceleration|magnetic acceleration]], [[DATABASE/spell/Noxious Metals|noxious metals]]
+* **4th** [[DATABASE/spell/Mercurial Stride|mercurial stride]], [[DATABASE/spell/Rust Cloud|rust cloud]]
 
 ## Staff of Metal (Major)<span class="item-type">Item 14</span>
 
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Price** 4,000 gp
 **Bulk** 1
 
-* **5th** magnetic repulsion, [[Impaling Spike]]
-* **6th** [[Field of Razors]], _magnetic acceleration_
+* **5th** magnetic repulsion, [[DATABASE/spell/Impaling Spike|impaling spike]]
+* **6th** [[DATABASE/spell/Field of Razors|field of razors]], _magnetic acceleration_

@@ -10,6 +10,7 @@ id: '316'
 name: Relentless Dedication
 prerequisite: null
 rarity: Rare
+rus_type_level: null
 skill:
 - Warfare [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
@@ -22,7 +23,7 @@ type: Background
 # Relentless Dedication<span class="item-type">Background</span>
 
 <span class="trait-rare item-trait">Rare</span>
-**Source** [[Knights of Lastwall]]
+**Source** [[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]
 Recruiters invite many candidates like you to train to be Knights of Lastwall, but only a select few make the cut. Whereas others lose heart, your perseverance paid off. Your commitment to the cause is so clear, it overcame whatever disqualified your previous attempts to join the new Shining Crusade.
  Choose two ability boosts. One must be to **Strength** or **Constitution**, and one is a free ability boost.
- You're trained in the [[Lore]] skill, and you gain the [[Canny Acumen]] feat.
+ You're trained in the [[DATABASE/skill/Lore|Warfare Lore]] skill, and you gain the [[DATABASE/feat/Canny Acumen|Canny Acumen]] feat.

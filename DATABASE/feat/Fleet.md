@@ -11,6 +11,7 @@ name: Fleet
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,14 +24,14 @@ type: Feat
 # Fleet <span class="item-type">Feat 1</span>
 
 <span class="item-trait">General</span>
-**Source** [[Core Rulebook]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
 You move more quickly on foot. Your Speed increases by 5 feet.
 
 ## Fleet Leads To...
 
-[[Skitter]]
+[[DATABASE/feat/Skitter|Skitter]]
 
 ## Traits
 

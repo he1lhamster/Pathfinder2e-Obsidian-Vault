@@ -4,6 +4,7 @@ ability_boost: null
 id: '26'
 name: Intrigue
 rarity: Common
+rus_type_level: null
 skill:
 - Intrigue
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
@@ -13,17 +14,17 @@ type: Skill
 ---
 # Intrigue (Loyalty)
 
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 Intrigue measures the kingdom’s mastery of the hidden forces of politics. It includes manipulation of factions within a country and espionage beyond its borders, as well as investigations into criminal activities.
 
-* **[[Focused Attention]]**
-* **[[New Leadership]]**
-* **[[Quell Unrest]]**
+* **[[DATABASE/generalskillaction/Focused Attention|Focused Attention]]**
+* **[[DATABASE/generalskillaction/New Leadership|New Leadership]]**
+* **[[DATABASE/generalskillaction/Quell Unrest|Quell Unrest]]**
 
 ## Intrigue Trained Actions
 
-* **[[Pledge of Fealty]]**
-* **[[Repair Reputation]]**
+* **[[DATABASE/generalskillaction/Pledge of Fealty|Pledge of Fealty]]**
+* **[[DATABASE/generalskillaction/Repair Reputation|Repair Reputation]]**
 
 ### Related Feats
 
@@ -31,10 +32,10 @@ To see a list of Feats related to Intrigue, click here.
 
 # Intrigue Untrained Actions
 
-## [[Infiltration]]
+## [[DATABASE/action/Infiltration|Infiltration]]
 
 <span class="item-trait">Downtime</span><span class="item-trait">Leadership</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 
 ---
 You send spies out to gather intelligence on a neighboring nation, a cult or thieves' guild within your borders, an unclaimed Freehold, or even an unexplored adventure site. Alternately, you can simply send your spies out to investigate the current health of your kingdom. Attempt a basic check.
@@ -45,10 +46,10 @@ You send spies out to gather intelligence on a neighboring nation, a cult or thi
 
 # Intrigue Trained Actions
 
-## [[Clandestine Business]]
+## [[DATABASE/action/Clandestine Business|Clandestine Business]]
 
 <span class="item-trait">Downtime</span><span class="item-trait">Leadership</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 
 ---
 You know there are criminals in your kingdom, and they know you know. You encourage them to send kickbacks in the form of resources and Commodities to the government, but the common citizens will be more than upset if they find out! This starts as a basic check against your Control DC, but every subsequent Kingdom turn you pursue Clandestine Business, the DC increases by 2. Every Kingdom turn that passes without Clandestine Business reduces the DC by 1 (until you reach your Control DC).

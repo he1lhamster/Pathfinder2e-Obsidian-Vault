@@ -3,6 +3,7 @@ creature_family: Formian
 id: '293'
 name: Formian
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 173. Doorway to the Red Star|Pathfinder #173:
   Doorway to the Red Star]]'
 trait: null
@@ -11,13 +12,13 @@ type: Creature Family
 ---
 # Formian
 
-**Source** [[Pathfinder 173. Doorway to the Red Star]]
-Formians resemble unusually large ants with an insectile humanoid's upper torso. More powerful or influential formians are physically larger; common formian workers are roughly the height of a [[Gnome]], while the largest formians, such as taskmasters and queens, rival a giant in size.
+**Source** [[DATABASE/source/Pathfinder 173. Doorway to the Red Star|Pathfinder #173: Doorway to the Red Star]]
+Formians resemble unusually large ants with an insectile humanoid's upper torso. More powerful or influential formians are physically larger; common formian workers are roughly the height of a [[DATABASE/ancestry/Gnome|gnome]], while the largest formians, such as taskmasters and queens, rival a giant in size.
  Formian society is a strict matriarchy. Though each hive's queen is theoretically independent and her rule absolute, allegiances are common, and less powerful hives often (grudgingly) defer to more powerful matriarchs.
 
 ### Members
 
-[[Formian Mageslayer]] (Creature 16), [[Formian Queen]] (Creature 17), [[Formian Worker]] (Creature 1)
+[[DATABASE/monster/Formian Mageslayer|Formian Mageslayer]] (Creature 16), [[DATABASE/monster/Formian Queen|Formian Queen]] (Creature 17), [[DATABASE/monster/Formian Worker|Formian Worker]] (Creature 1)
 
 ###  Formian Characteristics
 

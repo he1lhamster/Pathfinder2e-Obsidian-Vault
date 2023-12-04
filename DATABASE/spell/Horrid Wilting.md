@@ -21,6 +21,7 @@ patron_theme: null
 range: 500 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: basicFortitude
 school: Necromancy
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -38,9 +39,9 @@ type: Spell
 # Horrid Wilting<span class="item-type">Spell 8</span>
 
 <span class="item-trait">Necromancy</span><span class="item-trait">Negative</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, primal
-**Bloodline** [[Undead]]
+**Bloodline** [[DATABASE/sorcererbloodline/Undead|undead]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 500 feet; **Targets** any number of living creatures
 **Saving Throw** basic Fortitude

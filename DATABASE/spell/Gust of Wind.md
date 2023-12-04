@@ -28,6 +28,7 @@ patron_theme: '[[DATABASE/witchpatron/Winter|Winter]]'
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Fortitude
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -45,10 +46,10 @@ type: Spell
 # Gust of Wind<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Air</span><span class="item-trait">Evocation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, primal
-**Deities** [[Gozreh]], [[Hei Feng]], [[Hshurha]], [[Pazuzu]], [[Seafarer's Hope]], [[Sky Keepers]]
-**Patron Theme** [[Winter]]
+**Deities** [[DATABASE/deity/Gozreh|Gozreh]], [[DATABASE/deity/Hei Feng|Hei Feng]], [[DATABASE/deity/Hshurha|Hshurha]], [[DATABASE/deity/Pazuzu|Pazuzu]], [[DATABASE/deity/Seafarer's Hope|Seafarer's Hope]], [[DATABASE/deity/Sky Keepers|Sky Keepers]]
+**Patron Theme** [[DATABASE/witchpatron/Winter|winter]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Area** 60-foot line
 **Saving Throw** Fortitude; **Duration** until the start of your next turn

@@ -78,19 +78,19 @@ wisdom: '+2'
 
 Xulgath physiological diversity doesn’t always imply drastic change; some xulgaths are simply much larger and stronger than their clutchmates. Most xulgaths call such siblings spinesnappers, though terms like bonebreaker, marrowvent, or similarly violent epithets are equally common. A typical spinesnapper is 9 feet tall and weighs 350 pounds.
  In battle, spinesnappers have all the speed, grace, and strength of a sledgehammer. They are ideal shock troops and make a good first line of defense. When an inter-clutch conflict leads to a duel, spinesnappers are typically called upon to rise to the challenge. In this case, a spinesnapper representative from each clutch squares off for what is in theory a nonlethal wrestling match, after which the winner scrapes off some of the loser’s scales as a trophy.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 20
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 20
 **Unspecific Lore**: DC 18
 **Specific Lore**: DC 15
 
 # Xulgath Spinesnapper<span class="item-type">Creature 5</span>
 
 <span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Humanoid</span><span class="item-trait">Xulgath</span>
-**Source** [[Pathfinder 152. Legacy of the Lost God]]
+**Source** [[DATABASE/source/Pathfinder 152. Legacy of the Lost God|Pathfinder #152: Legacy of the Lost God]]
 **Perception** +11; darkvision
-**Languages** [[Draconic]], [[Undercommon]]
-**Skills** [[Athletics]] +15, [[Intimidation]] +11
+**Languages** [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Undercommon|Undercommon]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +15, [[DATABASE/skill/Intimidation|Intimidation]] +11
 **Str** +6, **Dex** +1, **Con** +4, **Int** +0, **Wis** +2, **Cha** +0
-**Items** [[Maul]]
+**Items** [[DATABASE/weapon/Maul|maul]]
 
 ---
 **AC** 21; **Fort** +15, **Ref** +10, **Will** +9

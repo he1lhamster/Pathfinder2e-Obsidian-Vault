@@ -11,6 +11,7 @@ name: Magic Arrow
 prerequisite: '[[DATABASE/feat/Eldritch Archer Dedication|Eldritch Archer Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,13 +26,13 @@ type: Feat
 # Magic Arrow <span class="action-icon">4</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Magical</span><span class="item-trait">Transmutation</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Eldritch Archer]]**Frequency** once per round
-**Prerequisites** [[Eldritch Archer Dedication]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Eldritch Archer|Eldritch Archer]]**Frequency** once per round
+**Prerequisites** [[DATABASE/feat/Eldritch Archer Dedication|Eldritch Archer Dedication]]
 
 ---
 You imbue your ammunition with eldritch power. When you select this feat, choose three types of common magical ammunition of 4th level or lower from the _Core Rulebook_ or this book. Your GM might allow you to choose from other types of magical ammunition, such as uncommon ammunition, or ammunition from other books.
- When using Magic Arrow, you transform a non-magical arrow or bolt into a piece of ammunition of one type you chose. You must shoot the ammunition before the end of your turn or the magic dissipates. If the ammunition has an Activate entry, you still need to spend the required actions to activate the ammunition before shooting it. When you use Magic Arrow, you can choose a type of magical ammunition that is typically not available to the type of ammunition you're using—for example, you can use [[Climbing Bolt]] on an arrow, even though that magical ammunition is normally only found on bolts.
+ When using Magic Arrow, you transform a non-magical arrow or bolt into a piece of ammunition of one type you chose. You must shoot the ammunition before the end of your turn or the magic dissipates. If the ammunition has an Activate entry, you still need to spend the required actions to activate the ammunition before shooting it. When you use Magic Arrow, you can choose a type of magical ammunition that is typically not available to the type of ammunition you're using—for example, you can use [[DATABASE/equipment/Climbing Bolt|climbing bolt]] on an arrow, even though that magical ammunition is normally only found on bolts.
 **Special** You can select this feat multiple times. Each time you do, select three additional types of ammunition as described above.
 
 ## Traits

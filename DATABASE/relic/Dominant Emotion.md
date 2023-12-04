@@ -5,6 +5,7 @@ item_category: Relics
 name: Dominant Emotion
 prerequisite: null
 rarity: Common
+rus_type_level: null
 school: Enchantment
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
@@ -17,7 +18,7 @@ type: Relic Minor Gift
 # Dominant Emotion<span class="item-type">Minor Gift</span>
 
 <span class="item-trait">Emotion</span><span class="item-trait">Enchantment</span><span class="item-trait">Mental</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Aspect** emotion
 
 ---

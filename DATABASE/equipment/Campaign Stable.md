@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Campaign Stable<span class="item-type">Item 8</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Conjuration</span><span class="item-trait">Magical</span><span class="item-trait">Structure</span>
-**Source** [[Knights of Lastwall]]
+**Source** [[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]
 **Price** 500 gp
 **Bulk** L (when not activated)
 **Access** Knights of Lastwall have access to this item.

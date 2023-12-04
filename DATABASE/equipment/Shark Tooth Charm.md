@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: You are an expert in Acrobatics
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 size: null
@@ -56,7 +57,7 @@ weapon_type: null
 # Shark Tooth Charm<span class="item-type">Item 5</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Consumable</span><span class="item-trait">Magical</span><span class="item-trait">Talisman</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 23 gp
 **Usage** affixed to armor; **Bulk** —
 **Activate** <span class="action-icon">4</span> command **Trigger** You attempt to Escape using Acrobatics for your roll, but you haven't rolled yet; **Requirements** You are an expert in Acrobatics

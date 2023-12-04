@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Hellknight Signifer Dedication|Hellknight Signife
   Dedication]]'
 rarity: Common
 requirement: "You are wearing your signifer\u2019s mask."
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 subcategory: null
@@ -24,14 +25,14 @@ type: Feat
 # Masked Casting <span class="action-icon">4</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Character Guide]] 
-**Archetype** [[Hellknight Signifer]]
-**Prerequisites** [[Hellknight Signifer Dedication]]
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
+**Archetype** [[DATABASE/archetype/Hellknight Signifer|Hellknight Signifer]]
+**Prerequisites** [[DATABASE/feat/Hellknight Signifer Dedication|Hellknight Signifer Dedication]]
 **Trigger** You begin Casting a Spell.
 **Requirements** You are wearing your signifer’s mask.
 
 ---
-You harness the magical energy flowing through your eyeless mask to effortlessly protect you from visual effects. You [[Avert Gaze]].
+You harness the magical energy flowing through your eyeless mask to effortlessly protect you from visual effects. You [[DATABASE/action/Avert Gaze|Avert your Gaze]].
 
 ## Traits
 

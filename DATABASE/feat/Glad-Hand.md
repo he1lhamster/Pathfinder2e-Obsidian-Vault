@@ -11,6 +11,7 @@ name: Glad-Hand
 prerequisite: Expert in [[DATABASE/skill/Diplomacy|Diplomacy]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: diplomacy
@@ -24,8 +25,8 @@ type: Feat
 # Glad-Hand <span class="item-type">Feat 2</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** expert in [[Diplomacy]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** expert in [[DATABASE/skill/Diplomacy|Diplomacy]]
 
 ---
 First impressions are your strong suit. When you meet someone in a casual or social situation, you can immediately attempt a Diplomacy check to Make an Impression on that creature rather than needing to converse for 1 minute. You take a –5 penalty to the check. If you fail or critically fail, you can engage in 1 minute of conversation and attempt a new check at the end of that time rather than accepting the failure or critical failure result.

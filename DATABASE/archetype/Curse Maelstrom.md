@@ -4,6 +4,7 @@ level: '2'
 name: Curse Maelstrom
 prerequisite: You are cursed or have previously been cursed.
 rarity: Rare
+rus_type_level: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -16,17 +17,17 @@ type: Archetype
 
 Those at the center of a storm of curses often have peculiar manifestations that mark them as one of the unfortunate. Over time, even the places that they inhabit will begin to show signs of their presence: plants with bizarre growths, dust clouds that form strange symbols in the light, and floors that creak and groan even when no one is walking across them.
 
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 Some folks are ridden with bad luck: the rations they were counting on turn out to be spoiled, the ship they were hoping to catch sinks in the harbor, or the new home they bought is destroyed by a rampaging golem. Most know that they are cursed, feeling an emptiness in their soul that weighs upon them, gnawing at their confidence and shrouding their ambitions. Sometimes, these curse maelstroms learn to control and channel their curse; you are one such unfortunate soul.
  You have a powerful curse living deep within you. You might have been able to restrain your curse for the most part, but it flares up occasionally and tempts you with the power to curse your foes, should you allow it to exert itself. Why should you be the only one who has to endure a cursed life when others have so clearly earned such woe?
  Living with a curse every day, you become intimately familiar with the workings of curses, getting a sense of when bad luck is about to befall those around you. You might try to avoid further bad fortune—which rarely pans out as you'd like—or you could come to terms with your lot in life and regard your curse as something akin to an old friend. Either way, fate cares little.
  Misery loves company, so your curse can even be a beacon for more misfortune. You might have multiple curses all tied to you, all fighting to make your life as hellish as possible.
 
-## [[Curse Maelstrom Dedication]] <span class="item-type">Feat 2</span>
+## [[DATABASE/feat/Curse Maelstrom Dedication|Curse Maelstrom Dedication]] <span class="item-type">Feat 2</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Archetype</span><span class="item-trait">Dedication</span>
-**Source** [[Dark Archive]]
-**Archetype** [[Curse Maelstrom]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Archetype** [[DATABASE/archetype/Curse Maelstrom|Curse Maelstrom]]
 **Prerequisites** You are cursed or have previously been cursed.
 
 ---
@@ -39,76 +40,76 @@ A horrible curse has left a lingering stain on your soul, and its effects contin
 **Failure** The maelstrom strikes deep into the creature's soul. It takes a –2 status penalty to all saving throws and skill checks for 10 minutes.
 **Critical Failure** The maelstrom pitches the creature into a single fit of utter misfortune before burrowing into its soul. As failure, but the creature also must roll twice and take the lower result on its next saving throw or skill check; this is a misfortune effect.
 
-## [[Familiar Oddities]] <span class="item-type">Feat 2</span>
+## [[DATABASE/feat/Familiar Oddities|Familiar Oddities]] <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Skill</span>
-**Source** [[Dark Archive]]
-**Archetype** [[Curse Maelstrom]]
-**Prerequisites** [[Curse Maelstrom Dedication]]; trained in [[Occultism]] or [[Lore]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Archetype** [[DATABASE/archetype/Curse Maelstrom|Curse Maelstrom]]
+**Prerequisites** [[DATABASE/feat/Curse Maelstrom Dedication|Curse Maelstrom Dedication]]; trained in [[DATABASE/skill/Occultism|Occultism]] or [[DATABASE/skill/Lore|Curse Lore]]
 
 ---
-Perhaps due to the curse within you, curses occasionally perceive you as an extension of themselves and readily reveal themselves to you. You gain a +2 circumstance bonus to checks to [[Identify Magic]] on a cursed item or a spell that has the curse trait.
+Perhaps due to the curse within you, curses occasionally perceive you as an extension of themselves and readily reveal themselves to you. You gain a +2 circumstance bonus to checks to [[DATABASE/action/Identify Magic|Identify Magic]] on a cursed item or a spell that has the curse trait.
 
-## [[Unnerving Expansion]] <span class="action-icon">1</span> <span class="item-type">Feat 4</span>
+## [[DATABASE/feat/Unnerving Expansion|Unnerving Expansion]] <span class="action-icon">1</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Dark Archive]]
-**Archetype** [[Curse Maelstrom]]
-**Prerequisites** [[Curse Maelstrom Dedication]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Archetype** [[DATABASE/archetype/Curse Maelstrom|Curse Maelstrom]]
+**Prerequisites** [[DATABASE/feat/Curse Maelstrom Dedication|Curse Maelstrom Dedication]]
 
 ---
-You gather your curse around you and impel it to pour outward, expanding your maelstrom. The radius of the emanation of your curse maelstrom state increases by 5 feet until the end of your curse maelstrom state. The outpouring of the curse is unnerving. You attempt to [[Demoralize]] a creature within the emanation of your curse maelstrom; you don't take penalties for not sharing a language with that creature.
+You gather your curse around you and impel it to pour outward, expanding your maelstrom. The radius of the emanation of your curse maelstrom state increases by 5 feet until the end of your curse maelstrom state. The outpouring of the curse is unnerving. You attempt to [[DATABASE/action/Demoralize|Demoralize]] a creature within the emanation of your curse maelstrom; you don't take penalties for not sharing a language with that creature.
 
-## [[Share Burden]] <span class="action-icon">5</span> <span class="item-type">Feat 6</span>
+## [[DATABASE/feat/Share Burden|Share Burden]] <span class="action-icon">5</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Dark Archive]]
-**Archetype** [[Curse Maelstrom]]
-**Prerequisites** [[Curse Maelstrom Dedication]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Archetype** [[DATABASE/archetype/Curse Maelstrom|Curse Maelstrom]]
+**Prerequisites** [[DATABASE/feat/Curse Maelstrom Dedication|Curse Maelstrom Dedication]]
 **Trigger** An ally within 60 feet would be affected by a curse or misfortune effect, and you wouldn't be affected but you are an eligible target for the effect.
 
 ---
 You draw the misfortune or curse into yourself, potentially enabling you to enter your curse maelstrom state. Instead of affecting your ally, the triggering curse or misfortune effect affects you.
 
-## [[Accursed Magic]] <span class="item-type">Feat 8</span>
+## [[DATABASE/feat/Accursed Magic|Accursed Magic]] <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Dark Archive]]
-**Archetype** [[Curse Maelstrom]]
-**Prerequisites** [[Curse Maelstrom Dedication]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Archetype** [[DATABASE/archetype/Curse Maelstrom|Curse Maelstrom]]
+**Prerequisites** [[DATABASE/feat/Curse Maelstrom Dedication|Curse Maelstrom Dedication]]
 
 ---
-When the curse within you spills out, you can lay curses on others and claim them for yourself with ease. You can cast [[Claim Curse]]. At 10th level, you can also cast [[Seal Fate]], and at 12th level, you can also cast [[Inevitable Disaster]]. You can cast these spells once per day as occult innate spells, but only while within your curse maelstrom state. If you couldn't already cast occult spells, these spells use Wisdom as your spellcasting ability, and you become trained in spell attack rolls and spell DCs for occult spells.
+When the curse within you spills out, you can lay curses on others and claim them for yourself with ease. You can cast [[DATABASE/spell/Claim Curse|claim curse]]. At 10th level, you can also cast [[DATABASE/spell/Seal Fate|seal fate]], and at 12th level, you can also cast [[DATABASE/spell/Inevitable Disaster|inevitable disaster]]. You can cast these spells once per day as occult innate spells, but only while within your curse maelstrom state. If you couldn't already cast occult spells, these spells use Wisdom as your spellcasting ability, and you become trained in spell attack rolls and spell DCs for occult spells.
 
-## [[Counter Curse]] <span class="action-icon">5</span> <span class="item-type">Feat 8</span>
+## [[DATABASE/feat/Counter Curse|Counter Curse]] <span class="action-icon">5</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Dark Archive]]
-**Archetype** [[Curse Maelstrom]]
-**Prerequisites** [[Curse Maelstrom Dedication]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Archetype** [[DATABASE/archetype/Curse Maelstrom|Curse Maelstrom]]
+**Prerequisites** [[DATABASE/feat/Curse Maelstrom Dedication|Curse Maelstrom Dedication]]
 **Trigger** You or an ally within 30 feet is targeted by or in the emanation of a curse or misfortune effect from an opponent or object of which you are aware.
 **Requirements** You are in a curse maelstrom state.
 
 ---
 You gather the energy of your maelstrom and fling its unleashed power into the enemy's curse, attempting to neutralize it. Attempt a counteract check against the triggering effect, using half your level rounded up as your counteract level and the higher of your class DC and spell DC as the counteract modifier. On a success, you neutralize the curse or misfortune effect. If the effect was constant, such as a misfortune aura, it returns automatically at the beginning of the creature or object's next turn. Whether you succeed or fail, your curse maelstrom state ends.
 
-## [[Torrential Backlash]] <span class="action-icon">2</span> <span class="item-type">Feat 10</span>
+## [[DATABASE/feat/Torrential Backlash|Torrential Backlash]] <span class="action-icon">2</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Dark Archive]]
-**Archetype** [[Curse Maelstrom]]
-**Prerequisites** [[Curse Maelstrom Dedication]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Archetype** [[DATABASE/archetype/Curse Maelstrom|Curse Maelstrom]]
+**Prerequisites** [[DATABASE/feat/Curse Maelstrom Dedication|Curse Maelstrom Dedication]]
 **Requirements** You are in a curse maelstrom state.
 
 ---
 Calling upon forbidden practices, you release the curse from within yourself, allowing it free rein to destroy everything around you. All creatures within your curse maelstrom emanation except you take 1d6 negative damage for each level you have, with a basic Fortitude save. Your curse maelstrom state then ends.
 
-## [[Reverse Curse]] <span class="item-type">Feat 12</span>
+## [[DATABASE/feat/Reverse Curse|Reverse Curse]] <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Dark Archive]]
-**Archetype** [[Curse Maelstrom]]
-**Prerequisites** [[Counter Curse]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Archetype** [[DATABASE/archetype/Curse Maelstrom|Curse Maelstrom]]
+**Prerequisites** [[DATABASE/feat/Counter Curse|Counter Curse]]
 
 ---
 When you counter a curse or misfortune effect, you send it back to destroy its originator. Whenever you succeed at the counteract check to Counter Curse, the creature is affected by its own curse or misfortune effect, attempting a saving throw against its own DC if the effect allows a saving throw. In the case of a constant ability, such as a misfortune aura, the creature is affected only until the beginning of its next turn, when the ability reasserts itself.

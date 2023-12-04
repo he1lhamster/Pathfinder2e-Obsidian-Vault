@@ -14,6 +14,7 @@ name: Keystone Repulsion
 rarity: Common
 reflex: null
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 186. Ghost King''s Rage|Pathfinder #186: Ghost
   King''s Rage]]'
@@ -29,13 +30,13 @@ will: null
 # Keystone Repulsion<span class="item-type">Hazard 20</span>
 
 <span class="item-trait">Complex</span><span class="item-trait">Magical</span><span class="item-trait">Trap</span>
-**Source** [[Pathfinder 186. Ghost King's Rage]]
+**Source** [[DATABASE/source/Pathfinder 186. Ghost King's Rage|Pathfinder #186: Ghost King's Rage]]
 **Complexity** Complex
 **Stealth** +51 (legendary)
 **Description** Four magic keystones repel creatures when one is damaged or tampered with.
 
 ---
-**Disable** DC 48 [[Thievery]] (legendary) to remove each keystone or DC 48 [[Occultism]] (legendary) to manipulate the magic to isolate each keystone
+**Disable** DC 48 [[DATABASE/skill/Thievery|Thievery]] (legendary) to remove each keystone or DC 48 [[DATABASE/skill/Occultism|Occultism]] (legendary) to manipulate the magic to isolate each keystone
 **Repel** <span class="action-icon">5</span> (force, occult) **Trigger** A creature damages or tampers with a keystone; **Effect** The triggering creature is moved back 10 feet by a wave of force. A successful DC 42 Fortitude save reduces the distance moved to 5 feet. The trap then rolls initiative.
 
 ---

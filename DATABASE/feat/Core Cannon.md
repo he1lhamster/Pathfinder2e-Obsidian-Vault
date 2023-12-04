@@ -11,6 +11,7 @@ name: Core Cannon
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -27,12 +28,12 @@ type: Feat
 # Core Cannon <span class="action-icon">2</span> <span class="item-type">Feat 17</span>
 
 <span class="item-trait">Arcane</span><span class="item-trait">Automaton</span><span class="item-trait">Concentrate</span><span class="item-trait">Polymorph</span><span class="item-trait">Transmutation</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Frequency** once per day
 
 ---
-Your body transforms into a powerful magical cannon. While immobile as a cannon, you can fire blasts of energy directly from your core, devastating your foes. You become [[Immobilized]] until you use an Interact action to revert back to your standard form. While in your cannon form, the only actions you can use are to Strike with an energy blast unarmed attack or to Interact to revert back to your standard form. You can remain in your cannon form for up to 1 minute or until you take the action to revert back to your standard form, whichever comes first.
- Energy blasts are a special ranged unarmed attack. You can only make energy blast Strikes while you're in your cannon form. Your energy blasts deal 3d8 fire damage and 3d6 force damage, which increases to 4d8 fire damage and 3d6 force damage at level 20. You gain the item bonus to attack rolls with your energy blasts from the highest [[Weapon Potency]] rune on any [[Handwraps of Mighty Blows]] you are wearing or any weapon you are wielding, but [[Striking]] and property runes have no effect on your energy blasts. Energy blasts have a range increment of 120 feet. On a critical hit with an energy blast, the target takes 10 [[Persistent Damage]]. Your energy blast doesn't add critical specialization effects. If it matters for an effect dependent on weapon damage dice, an energy blast's number of weapon damage dice is three, or four at level 20.
+Your body transforms into a powerful magical cannon. While immobile as a cannon, you can fire blasts of energy directly from your core, devastating your foes. You become [[DATABASE/condition/Immobilized|immobilized]] until you use an Interact action to revert back to your standard form. While in your cannon form, the only actions you can use are to Strike with an energy blast unarmed attack or to Interact to revert back to your standard form. You can remain in your cannon form for up to 1 minute or until you take the action to revert back to your standard form, whichever comes first.
+ Energy blasts are a special ranged unarmed attack. You can only make energy blast Strikes while you're in your cannon form. Your energy blasts deal 3d8 fire damage and 3d6 force damage, which increases to 4d8 fire damage and 3d6 force damage at level 20. You gain the item bonus to attack rolls with your energy blasts from the highest [[DATABASE/equipment/Weapon Potency|potency]] rune on any [[DATABASE/equipment/Handwraps of Mighty Blows|handwraps of mighty blows]] you are wearing or any weapon you are wielding, but [[DATABASE/equipment/Striking|striking]] and property runes have no effect on your energy blasts. Energy blasts have a range increment of 120 feet. On a critical hit with an energy blast, the target takes 10 [[DATABASE/condition/Persistent Damage|persistent fire damage]]. Your energy blast doesn't add critical specialization effects. If it matters for an effect dependent on weapon damage dice, an energy blast's number of weapon damage dice is three, or four at level 20.
 
 ## Traits
 

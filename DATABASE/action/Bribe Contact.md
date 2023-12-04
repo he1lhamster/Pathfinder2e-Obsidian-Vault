@@ -9,6 +9,7 @@ id: '465'
 name: Bribe Contact
 rarity: Common
 requirement: "You\u2019ve successfully Gained a Contact (see below)."
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
@@ -21,7 +22,7 @@ type: Action
 # Bribe Contact
 
 <span class="item-trait">Downtime</span><span class="item-trait">Secret</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Cost** A bribe worth at least one-tenth of the Currency per Additional PC listed on Table 10–9: Party Treasure by Level. Doubling this amount grants a +2 circumstance bonus to the check.
 **Requirements** You’ve successfully Gained a Contact (see below).
 

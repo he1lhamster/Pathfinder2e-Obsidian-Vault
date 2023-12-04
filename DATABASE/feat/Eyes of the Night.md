@@ -11,6 +11,7 @@ name: Eyes of the Night
 prerequisite: low-light vision
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Eyes of the Night <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Dhampir</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Prerequisites** low-light vision
 
 ---
@@ -34,4 +35,4 @@ You can see in the darkness as easily as a true vampire. You gain darkvision.
 
 **Dhampir:**
 
-A creature with this trait has the dhampir versatile heritage. These humanoids are the mortal offspring of [[Vampire]] and members of other ancestries.
+A creature with this trait has the dhampir versatile heritage. These humanoids are the mortal offspring of [[DATABASE/monsterfamily/Vampire|vampires]] and members of other ancestries.

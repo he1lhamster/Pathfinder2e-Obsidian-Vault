@@ -2,6 +2,7 @@
 id: '52'
 name: PFS Quest 10. The Broken Scales
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -15,4 +16,4 @@ type: Source
 
 ## Backgrounds [1]
 
-[[Sewer Dragon]]
+[[DATABASE/background/Sewer Dragon|Sewer Dragon]]

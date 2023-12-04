@@ -69,16 +69,16 @@ wisdom: '+2'
 # Red Fox
 
 The shy and perceptive red fox has uncanny adaptability and is just as comfortable in urban areas as in the wilds. Red foxes typically have rust-red fur, a white underbelly, and a characteristic white-tipped bushy tail. They are omnivorous, and eat insects, lizards, and small birds, pouncing on their prey to catch it. Because these opportunistic hunters see eggs and captive livestock as an easy meal, many farmers see them as foes.
-**Recall Knowledge - Animal ([[Nature]])**: DC 13
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 13
 **Unspecific Lore**: DC 11
 **Specific Lore**: DC 8
 
 # Red Fox<span class="item-type">Creature -1</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Tiny</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary 3]]
-**Perception** +7; [[Low-Light Vision]], [[Scent]] (imprecise) 30 feet
-**Skills** [[Acrobatics]] +6 (+8 to [[Escape]]), [[Athletics]] +2 (+4 to [[High Jump]] or [[Long Jump]]), [[Stealth]] +6, [[Survival]] +5
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
+**Perception** +7; [[DATABASE/monsterability/Low-Light Vision|low-light vision]], [[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +6 (+8 to [[DATABASE/action/Escape|Escape]]), [[DATABASE/skill/Athletics|Athletics]] +2 (+4 to [[DATABASE/action/High Jump|High Jump]] or [[DATABASE/action/Long Jump|Long Jump]]), [[DATABASE/skill/Stealth|Stealth]] +6, [[DATABASE/skill/Survival|Survival]] +5
 **Str** -2, **Dex** +3, **Con** +0, **Int** -4, **Wis** +2, **Cha** +0
 
 ---
@@ -87,4 +87,4 @@ The shy and perceptive red fox has uncanny adaptability and is just as comfortab
 
 ---
 **Speed** 35 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +9 [+5/+1] (agile, finesse), **Damage** 1d6–2 piercing</span><span class="in-box-ability">**Leaping Pounce** <span class="action-icon">1</span> The red fox either Strides or [[Leap]] up to its Speed and makes a Strike at the end of that movement. If the fox began this action [[Hidden]], it remains hidden until after this ability's Strike.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +9 [+5/+1] (agile, finesse), **Damage** 1d6–2 piercing</span><span class="in-box-ability">**Leaping Pounce** <span class="action-icon">1</span> The red fox either Strides or [[DATABASE/action/Leap|Leaps]] up to its Speed and makes a Strike at the end of that movement. If the fox began this action [[DATABASE/condition/Hidden|hidden]], it remains hidden until after this ability's Strike.</span>

@@ -11,6 +11,7 @@ name: Spark of Independence
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Spark of Independence <span class="action-icon">2</span> <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Poppet</span>
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 
 ---
-You touch a creature with the minion trait and share the heightened sense of autonomy you've discovered. The minion is [[Quickened]] for 1 round and is then temporarily immune for 10 minutes. It can use this extra action to Step, Stride, or Strike.
+You touch a creature with the minion trait and share the heightened sense of autonomy you've discovered. The minion is [[DATABASE/condition/Quickened|quickened]] for 1 round and is then temporarily immune for 10 minutes. It can use this extra action to Step, Stride, or Strike.
 
 ## Traits
 

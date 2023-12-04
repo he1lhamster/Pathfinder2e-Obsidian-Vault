@@ -11,6 +11,7 @@ name: Restitch
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Restitch <span class="item-type">Feat 17</span>
 
 <span class="item-trait">Poppet</span>
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 
 ---
-You've learned how to sew even the most terrible tears and wounds together. You can cast [[Regenerate]] as a 7th-level arcane innate spell once per day.
+You've learned how to sew even the most terrible tears and wounds together. You can cast [[DATABASE/spell/Regenerate|regenerate]] as a 7th-level arcane innate spell once per day.
 
 ## Traits
 

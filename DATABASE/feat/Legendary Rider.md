@@ -11,6 +11,7 @@ name: Legendary Rider
 prerequisite: '[[DATABASE/feat/Cavalier Dedication|Cavalier Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,12 +24,12 @@ type: Feat
 # Legendary Rider <span class="item-type">Feat 20</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetypes** [[Cavalier]], [[Mammoth Lord]]
-**Prerequisites** [[Cavalier Dedication]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetypes** [[DATABASE/archetype/Cavalier|Cavalier]], [[DATABASE/archetype/Mammoth Lord|Mammoth Lord]]
+**Prerequisites** [[DATABASE/feat/Cavalier Dedication|Cavalier Dedication]]
 
 ---
-You and your mount move like one being, effortlessly reading each other's signals. Whenever you are riding your mount, you are [[Quickened]]; you can use the extra action only to command your mount using the [[Command an Animal]] skill action.
+You and your mount move like one being, effortlessly reading each other's signals. Whenever you are riding your mount, you are [[DATABASE/condition/Quickened|quickened]]; you can use the extra action only to command your mount using the [[DATABASE/action/Command an Animal|Command an Animal]] skill action.
 
 ## Traits
 

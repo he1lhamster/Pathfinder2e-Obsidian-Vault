@@ -11,6 +11,7 @@ name: A Home in Every Port
 prerequisite: Charisma 16
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # A Home in Every Port <span class="item-type">Feat 11</span>
 
 <span class="item-trait">Downtime</span><span class="item-trait">General</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Prerequisites** Charisma 16
 
 ---

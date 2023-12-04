@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: You're an expert in Reflex
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 size: null
@@ -56,7 +57,7 @@ weapon_type: null
 # Savior Spike<span class="item-type">Item 2</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Consumable</span><span class="item-trait">Force</span><span class="item-trait">Magical</span><span class="item-trait">Talisman</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 7 gp
 **Usage** affixed to armor; **Bulk** —
 **Activate** <span class="action-icon">4</span> command **Trigger** You attempt to Grab an Edge but haven't rolled; **Requirements** You're an expert in Reflex

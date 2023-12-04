@@ -14,6 +14,7 @@ id: '13'
 name: Investigator
 perception_proficiency: Expert
 rarity: Common
+rus_type_level: null
 skill_proficiency:
 - Trained in Society
 - Trained in one or more skills determined by your methodology
@@ -25,7 +26,7 @@ type: Class
 
 ---
 # Investigator
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 _You seek to uncover the truth, doggedly pursuing leads to reveal the plots of devious villains, discover ancient secrets, or unravel other mysteries. Your analytical mind quickly formulates solutions to complicated problems and your honed senses identify even the most obscure clues. Wielding knowledge as a weapon, you study the creatures and dangers you encounter to exploit their weaknesses._
 **Key Ability: INTELLIGENCE**
 At 1st level, your class gives you an ability boost to Intelligence.
@@ -78,7 +79,7 @@ Expert in Will
 
 ## Skills
 
-Trained in [[Society]]
+Trained in [[DATABASE/skill/Society|Society]]
  Trained in one or more skills determined by your methodology
  Trained in a number of additional skills equal to 4 plus your Intelligence modifier
 
@@ -98,30 +99,29 @@ Trained in investigator class DC
 
 # Class Features
 
-You gain these features as a Investigator. Abilities gained at higher levels list the levels at which you gain them next to the features' names.
-
-|   Your Level | Class Features                                                                                                                        |
-|-------------:|:--------------------------------------------------------------------------------------------------------------------------------------|
-|            1 | Ancestry and background, initial proficiencies, on the case, Devise a Stratagem, methodology, investigator feat, strategic strike 1d6 |
-|            2 | Investigator feat, skill feat, skill increase                                                                                         |
-|            3 | General feat, keen recollection, skill increase, skillful lesson                                                                      |
-|            4 | Investigator feat, skill feat, skill increase                                                                                         |
-|            5 | Ability boosts, ancestry feat, skill increase, skillful lesson, strategic strike 2d6, weapon expertise                                |
-|            6 | Investigator feat, skill feat, skill increase                                                                                         |
-|            7 | General feat, skill increase, skillful lesson, vigilant senses, weapon specialization                                                 |
-|            8 | Investigator feat, skill feat, skill increase                                                                                         |
-|            9 | Ancestry feat, great fortitude, investigator expertise, skill increase, skillful lesson, strategic strike 3d6                         |
-|           10 | Ability boosts, investigator feat, skill feat, skill increase                                                                         |
-|           11 | Deductive improvisation, general feat, resolve, skill increase, skillful lesson                                                       |
-|           12 | Investigator feat, skill feat, skill increase                                                                                         |
-|           13 | Ancestry feat, incredible senses, light armor expertise, skill increase, skillful lesson, strategic strike 4d6, weapon mastery        |
-|           14 | Investigator feat, skill feat, skill increase                                                                                         |
-|           15 | Ability boosts, evasion, general feat, greater weapon specialization, skill increase, skillful lesson                                 |
-|           16 | Investigator feat, skill feat, skill increase                                                                                         |
-|           17 | Ancestry feat, greater resolve, skill increase, skillful lesson, strategic strike 5d6                                                 |
-|           18 | Investigator feat, skill feat, skill increase                                                                                         |
-|           19 | General feat, light armor mastery, master detective, skill increase, skillful lesson                                                  |
-|           20 | Ability boosts, investigator feat, skill feat, skill increase                                                                         |
+You gain these features as a Investigator. Abilities gained at higher levels list the levels at which you gain them next to the features' names.| 0 | 1 |
+|:-----------|:--------------------------------------------------------------------------------------------------------------------------------------|
+| Your Level | Class Features |
+| 1 | Ancestry and background, initial proficiencies, on the case, Devise a Stratagem, methodology, investigator feat, strategic strike 1d6 |
+| 2 | Investigator feat, skill feat, skill increase |
+| 3 | General feat, keen recollection, skill increase, skillful lesson |
+| 4 | Investigator feat, skill feat, skill increase |
+| 5 | Ability boosts, ancestry feat, skill increase, skillful lesson, strategic strike 2d6, weapon expertise |
+| 6 | Investigator feat, skill feat, skill increase |
+| 7 | General feat, skill increase, skillful lesson, vigilant senses, weapon specialization |
+| 8 | Investigator feat, skill feat, skill increase |
+| 9 | Ancestry feat, great fortitude, investigator expertise, skill increase, skillful lesson, strategic strike 3d6 |
+| 10 | Ability boosts, investigator feat, skill feat, skill increase |
+| 11 | Deductive improvisation, general feat, resolve, skill increase, skillful lesson |
+| 12 | Investigator feat, skill feat, skill increase |
+| 13 | Ancestry feat, incredible senses, light armor expertise, skill increase, skillful lesson, strategic strike 4d6, weapon mastery |
+| 14 | Investigator feat, skill feat, skill increase |
+| 15 | Ability boosts, evasion, general feat, greater weapon specialization, skill increase, skillful lesson |
+| 16 | Investigator feat, skill feat, skill increase |
+| 17 | Ancestry feat, greater resolve, skill increase, skillful lesson, strategic strike 5d6 |
+| 18 | Investigator feat, skill feat, skill increase |
+| 19 | General feat, light armor mastery, master detective, skill increase, skillful lesson |
+| 20 | Ability boosts, investigator feat, skill feat, skill increase |
 
 ## Ancestry and Background
 
@@ -135,10 +135,10 @@ At 1st level, you gain a number of proficiencies that represent your basic train
 
 As an investigator, you think of your adventures as cases waiting to be solved. You gain one activity and one reaction you can use to investigate cases: Pursue a Lead and Clue In.
 
-### [[Pursue a Lead]]
+### [[DATABASE/action/Pursue a Lead|Pursue a Lead]]
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Exploration</span><span class="item-trait">Investigator</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Frequency** once per 10 minutes
 
 ---
@@ -146,10 +146,10 @@ You spend 1 minute examining the details of one potential clue, designating the 
  Whenever you attempt a Perception or skill check to investigate a designated subject, you gain a +1 circumstance bonus to the check. The exact checks this applies to depend on the actions you use to investigate and are determined by the GM, but checks to investigate are typically Perception checks or skill checks that use Intelligence, Wisdom, or Charisma.
  You can maintain two active investigations at a time. If you Pursue another Lead after that, the subject must be different from any of your current investigations (or rather, they must be different as far as you know), and you give up on a current subject of your choice. Once you've given up pursuit of a subject, you can't Pursue that Lead again until after the next time you make your daily preparations.
 
-### [[Clue In]] <span class="action-icon">5</span>
+### [[DATABASE/action/Clue In|Clue In]] <span class="action-icon">5</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Investigator</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Frequency** once per 10 minutes
 **Trigger** Another creature attempts a check to investigate a lead you're pursuing.
 
@@ -160,15 +160,15 @@ You share information with the triggering creature. They gain a circumstance bon
 
 You can play out a battle in your head, using brains rather than brawn to execute an attack.
 
-### [[Devise a Stratagem]] <span class="action-icon">1</span>
+### [[DATABASE/action/Devise a Stratagem|Devise a Stratagem]] <span class="action-icon">1</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Fortune</span><span class="item-trait">Investigator</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Frequency** once per round
 
 ---
 You assess a foe's weaknesses in combat and use them to formulate a plan of attack against your enemy. Choose a creature you can see and roll a d20. If you Strike the chosen creature later this round, you must use the result of the roll you made to Devise a Stratagem for your Strike's attack roll instead of rolling. You make this substitution only for the first Strike you make against the creature this round, not any subsequent attacks.
- When you make this substitution, you can also add your Intelligence modifier to your attack roll instead of your Strength or Dexterity modifier, provided your Strike uses an agile or finesse melee weapon, an agile or finesse unarmed attack, a ranged weapon (which must be agile or finesse if it's a melee weapon with the thrown trait), or a [[Sap]]. 
+ When you make this substitution, you can also add your Intelligence modifier to your attack roll instead of your Strength or Dexterity modifier, provided your Strike uses an agile or finesse melee weapon, an agile or finesse unarmed attack, a ranged weapon (which must be agile or finesse if it's a melee weapon with the thrown trait), or a [[DATABASE/weapon/Sap|sap]]. 
 If you're aware that the creature you choose is the subject of a lead you're pursuing, you can use this ability as a free action.
 
 ## Methodology
@@ -200,7 +200,7 @@ At 3rd level and every 4 levels thereafter, you gain a general feat.
 
 ## Keen Recollection<span class="item-type">Level 3</span>
 
-You can recall pertinent facts on topics that aren't your specialty. Your proficiency bonus to untrained skill checks to [[Recall Knowledge]] is equal to your level instead of +0.
+You can recall pertinent facts on topics that aren't your specialty. Your proficiency bonus to untrained skill checks to [[DATABASE/action/Recall Knowledge|Recall Knowledge]] is equal to your level instead of +0.
 
 ## Skillful Lessons<span class="item-type">Level 3</span>
 

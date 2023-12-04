@@ -11,6 +11,7 @@ name: Healing Touch
 prerequisite: '[[DATABASE/feat/Champion Dedication|Champion Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,12 +24,12 @@ type: Feat
 # Healing Touch <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Champion]]
-**Prerequisites** [[Champion Dedication]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Champion|Champion]]
+**Prerequisites** [[DATABASE/feat/Champion Dedication|Champion Dedication]]
 
 ---
-You gain the appropriate devotion spell for your cause ([[Lay on Hands]] for the paladin, redeemer, and liberator). If you don’t already have one, you gain a focus pool of 1 Focus Point, which you can Refocus by praying or serving your deity.
+You gain the appropriate devotion spell for your cause ([[DATABASE/spell/Lay on Hands|lay on hands]] for the paladin, redeemer, and liberator). If you don’t already have one, you gain a focus pool of 1 Focus Point, which you can Refocus by praying or serving your deity.
 
 ## Traits
 

@@ -11,6 +11,7 @@ name: Lead Climber
 prerequisite: Expert in [[DATABASE/skill/Athletics|Athletics]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: athletics
@@ -24,11 +25,11 @@ type: Feat
 # Lead Climber <span class="item-type">Feat 2</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** expert in [[Athletics]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** expert in [[DATABASE/skill/Athletics|Athletics]]
 
 ---
-When climbing, you can prepare routes for others to follow, and you can pull your allies up to avoid disaster. When your allies attempt to [[Climb]] a route you set using the [[Follow the Expert]] exploration activity, if any of them critically fail their checks to Climb, you can attempt an [[Athletics]] check against the same DC. If you succeed, your ally fails instead of critically failing. If you also critically fail, you both experience the consequences of the critical failure.
+When climbing, you can prepare routes for others to follow, and you can pull your allies up to avoid disaster. When your allies attempt to [[DATABASE/action/Climb|Climb]] a route you set using the [[DATABASE/action/Follow the Expert|Follow the Expert]] exploration activity, if any of them critically fail their checks to Climb, you can attempt an [[DATABASE/skill/Athletics|Athletics]] check against the same DC. If you succeed, your ally fails instead of critically failing. If you also critically fail, you both experience the consequences of the critical failure.
 
 ## Traits
 

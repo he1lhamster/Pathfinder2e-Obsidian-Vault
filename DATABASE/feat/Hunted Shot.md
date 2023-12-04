@@ -11,6 +11,7 @@ name: Hunted Shot
 prerequisite: null
 rarity: Common
 requirement: You are wielding a ranged weapon with reload 0.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Hunted Shot <span class="action-icon">1</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Flourish</span><span class="item-trait">Ranger</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Frequency** once per round
 **Requirements** You are wielding a ranged weapon with reload 0.
 

@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Seeking Bracelets<span class="item-type">Item 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Abjuration</span><span class="item-trait">Consumable</span><span class="item-trait">Magical</span>
-**Source** [[Threshold of Knowledge]]
+**Source** [[DATABASE/source/Threshold of Knowledge|Threshold of Knowledge]]
 **Price** 12 gp
 **Usage** worn bracelet; **Bulk** —
 **Activate** <span class="action-icon">2</span> envision, Interact

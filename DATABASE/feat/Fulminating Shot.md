@@ -11,6 +11,7 @@ name: Fulminating Shot
 prerequisite: '[[DATABASE/feat/Spellshot Dedication|Spellshot Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -25,10 +26,10 @@ type: Feat
 # Fulminating Shot <span class="action-icon">1</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Evocation</span><span class="item-trait">Magical</span>
-**Source** [[Guns & Gears]]
-**Archetype** [[Spellshot]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Archetype** [[DATABASE/archetype/Spellshot|Spellshot]]
 **Frequency** once per round.
-**Prerequisites** [[Spellshot Dedication]]
+**Prerequisites** [[DATABASE/feat/Spellshot Dedication|Spellshot Dedication]]
 
 ---
 You channel potent magic into your next shot, empowering it with a blast of crackling energy. Choose acid, cold, electricity, or fire. If you hit with your next attack roll using a firearm or crossbow before the end of your turn, you deal 1d6 additional damage of this type. At 12th level, this increases to 2d6 additional damage, and at 18th level, it increases to 3d6 additional damage.

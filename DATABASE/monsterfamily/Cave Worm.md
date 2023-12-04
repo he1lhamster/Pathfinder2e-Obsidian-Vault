@@ -3,6 +3,7 @@ creature_family: Cave Worm
 id: '21'
 name: Cave Worm
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Cave Worm
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Cave worms are gigantic scavengers that bore through the depths of the world, eating whatever material they find. Named for their distinctive colorations, these worms are ravenous and display overwhelming destructive capabilities. Cave worms of different colors and abilities lurk in the more remote corners of the world—tales speak of white worms that dwell within immense glaciers or icebergs and gray worms that burrow through the boneyards of long-forgotten ruins, to name a few.
 
 ### Members
 
-[[Azure Worm]] (Creature 15), [[Crimson Worm]] (Creature 18), [[Glacial Worm]] (Creature 16), [[Gray Worm]] (Creature 11), [[Juvenile Cave Worm]] (Creature 8), [[Larval Cave Worm Brood]] (Creature 10), [[Purple Worm]] (Creature 13), [[Shadow Worm]] (Creature 20)
+[[DATABASE/monster/Azure Worm|Azure Worm]] (Creature 15), [[DATABASE/monster/Crimson Worm|Crimson Worm]] (Creature 18), [[DATABASE/monster/Glacial Worm|Glacial Worm]] (Creature 16), [[DATABASE/monster/Gray Worm|Gray Worm]] (Creature 11), [[DATABASE/monster/Juvenile Cave Worm|Juvenile Cave Worm]] (Creature 8), [[DATABASE/monster/Larval Cave Worm Brood|Larval Cave Worm Brood]] (Creature 10), [[DATABASE/monster/Purple Worm|Purple Worm]] (Creature 13), [[DATABASE/monster/Shadow Worm|Shadow Worm]] (Creature 20)
 
 ###  Belly of the Beast
 

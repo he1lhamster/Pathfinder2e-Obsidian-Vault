@@ -75,28 +75,28 @@ wisdom: '+3'
 # Cobbleswarm
 
 Busy road builders might unknowingly use cobble mites in construction.
-**Recall Knowledge - Aberration ([[Occultism]])**: DC 16
+**Recall Knowledge - Aberration ([[DATABASE/skill/Occultism|Occultism]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
 # Cobbleswarm<span class="item-type">Creature 2</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Aberration</span><span class="item-trait">Earth</span><span class="item-trait">Swarm</span>
-**Source** [[Bestiary 3]], [[Pathfinder 157. Devil at the Dreaming Palace]]
-**Perception** +9; no vision, [[Tremorsense]] (precise) 40 feet
-**Skills** [[Athletics]] +8, [[Stealth]] +10
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]], [[DATABASE/source/Pathfinder 157. Devil at the Dreaming Palace|Pathfinder #157: Devil at the Dreaming Palace]]
+**Perception** +9; no vision, [[DATABASE/monsterability/Tremorsense|tremorsense]] (precise) 40 feet
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +8, [[DATABASE/skill/Stealth|Stealth]] +10
 **Str** +2, **Dex** +4, **Con** +2, **Int** -3, **Wis** +3, **Cha** +0
 **Clutching Cobbles** The cobbleswarm's space is difficult terrain.
 **Tremorsense** A cobbleswarm's tremorsense is a precise sense out to 40 feet and an imprecise sense out to 80 feet. A cobbleswarm can't sense anything beyond the range of its tremorsense.
 
 ---
 **AC** 16; **Fort** +8, **Ref** +10, **Will** +7
-**HP** 20; **Immunities** precision, [[Swarm Mind]], visual; **Resistances** piercing 5, slashing 5; **Weaknesses** area damage 3, splash damage 3
+**HP** 20; **Immunities** precision, [[DATABASE/monsterability/Swarm Mind|swarm mind]], visual; **Resistances** piercing 5, slashing 5; **Weaknesses** area damage 3, splash damage 3
 
 ---
 **Speed** 20 feet, burrow 10 feet
-<span class="in-box-ability">**Grasping Bites** <span class="action-icon">2</span> (attack) The cobbleswarm attempts an [[Athletics]] check and compares the result to the Fortitude DC of each creature in its space. This counts as two attacks for the cobbleswarm's multiple attack penalty. 
-**Critical Success** The creature falls [[Prone]], takes 1d6 bludgeoning damage, and is [[Grabbed]] by the cobbleswarm until the end of the cobbleswarm's next turn. 
+<span class="in-box-ability">**Grasping Bites** <span class="action-icon">2</span> (attack) The cobbleswarm attempts an [[DATABASE/skill/Athletics|Athletics]] check and compares the result to the Fortitude DC of each creature in its space. This counts as two attacks for the cobbleswarm's multiple attack penalty. 
+**Critical Success** The creature falls [[DATABASE/condition/Prone|prone]], takes 1d6 bludgeoning damage, and is [[DATABASE/condition/Grabbed|grabbed]] by the cobbleswarm until the end of the cobbleswarm's next turn. 
 **Success** The creature falls prone.</span><span class="in-box-ability">**Pummeling Assault** <span class="action-icon">1</span> Each foe in the cobbleswarm's space takes 2d4 bludgeoning damage (DC 17 basic Reflex save).</span>
 
 ###  Cobble Mite Pets

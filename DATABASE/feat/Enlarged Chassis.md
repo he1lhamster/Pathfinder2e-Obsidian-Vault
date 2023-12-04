@@ -11,6 +11,7 @@ name: Enlarged Chassis
 prerequisite: Medium or Small size
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -23,11 +24,11 @@ type: Feat
 # Enlarged Chassis <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Automaton</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Prerequisites** Medium or Small size
 
 ---
-You've empowered your core to support a larger body, granting you size and additional reach. You gain the effects of [[Enlarge]] constantly.
+You've empowered your core to support a larger body, granting you size and additional reach. You gain the effects of [[DATABASE/spell/Enlarge|enlarge]] constantly.
 **Enhancement** Your core's empowerment has stabilized, allowing for greater support. You are no longer clumsy due to the effects of _enlarge_.
 
 ## Traits

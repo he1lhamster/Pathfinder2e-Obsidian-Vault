@@ -82,19 +82,19 @@ wisdom: '-2'
 # Veavieve
 
 This creature did not include a description.
-**Recall Knowledge - Fey ([[Nature]])**: DC 32
+**Recall Knowledge - Fey ([[DATABASE/skill/Nature|Nature]])**: DC 32
 **Unspecific Lore**: DC 30
 **Specific Lore**: DC 27
 
 # Veavieve<span class="item-type">Creature 6</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Small</span><span class="item-trait">Fey</span>
-**Source** [[Pathfinder 194. Cult of the Cave Worm]]
-**Perception** +14; [[Darkvision]]
-**Languages** [[Aklo]], [[Common]], [[Sylvan]]
-**Skills** [[Acrobatics]] +14, [[Lore]] +15, [[Deception]] +15, [[Nature]] +12, [[Performance]] +18, [[Thievery]] +12
+**Source** [[DATABASE/source/Pathfinder 194. Cult of the Cave Worm|Pathfinder #194: Cult of the Cave Worm]]
+**Perception** +14; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Aklo|Aklo]], [[DATABASE/language/Common|Common]], [[DATABASE/language/Sylvan|Sylvan]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +14, [[DATABASE/skill/Lore|Cave Worm Lore]] +15, [[DATABASE/skill/Deception|Deception]] +15, [[DATABASE/skill/Nature|Nature]] +12, [[DATABASE/skill/Performance|Performance]] +18, [[DATABASE/skill/Thievery|Thievery]] +12
 **Str** +1, **Dex** +5, **Con** +1, **Int** +3, **Wis** -2, **Cha** +5
-**Items** [[Avernal Cape]], shillelagh
+**Items** [[DATABASE/equipment/Avernal Cape|Avernal Cape]], shillelagh
 
 ---
 **AC** 24; **Fort** +14, **Ref** +17, **Will** +11
@@ -102,4 +102,4 @@ This creature did not include a description.
 
 ---
 **Speed** 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> shillelagh +15 [+10/+5] (shove), **Damage** 2d8+6 bludgeoning</span>**Primal Innate Spells** DC 18, attack +10; **2nd** _[[Illusory Creature]]_, _[[Illusory Object]]_, _[[Invisibility]]_ (self only); **1st** _[[Color Spray]]_, _[[Shillelagh]]_, _[[Ventriloquism]]_; **Cantrips** **(3rd)** _[[Dancing Lights]]_, _[[Dirge of Doom]]_, _[[Ghost Sound]]_, _[[Mage Hand]]_, _[[Prestidigitation]]_, _[[Telekinetic Projectile]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> shillelagh +15 [+10/+5] (shove), **Damage** 2d8+6 bludgeoning</span>**Primal Innate Spells** DC 18, attack +10; **2nd** _[[DATABASE/spell/Illusory Creature|illusory creature]]_, _[[DATABASE/spell/Illusory Object|illusory object]]_, _[[DATABASE/spell/Invisibility|invisibility]]_ (self only); **1st** _[[DATABASE/spell/Color Spray|color spray]]_, _[[DATABASE/spell/Shillelagh|shillelagh]]_, _[[DATABASE/spell/Ventriloquism|ventriloquism]]_; **Cantrips** **(3rd)** _[[DATABASE/spell/Dancing Lights|dancing lights]]_, _[[DATABASE/spell/Dirge of Doom|dirge of doom]]_, _[[DATABASE/spell/Ghost Sound|ghost sound]]_, _[[DATABASE/spell/Mage Hand|mage hand]]_, _[[DATABASE/spell/Prestidigitation|prestidigitation]]_, _[[DATABASE/spell/Telekinetic Projectile|telekinetic projectile]]_

@@ -2,6 +2,7 @@
 id: '242'
 name: Vampire
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait:
 - Vampire
@@ -10,9 +11,9 @@ type: Trait
 ---
 # Vampire
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Undead creatures who thirst for blood, vampires are notoriously versatile and hard to destroy.
 
 ## Monsters
 
-[[Minister Of Tumult]], [[Nosferatu Malefactor]], [[Nosferatu Overlord]], [[Provincial Jiang-Shi]], [[Strigoi Progenitor]], [[Vampire Count]], [[Vampire Mastermind]], [[Vampire Spawn Rogue]], [[Vetalarana Emergent]], [[Vetalarana Manipulator]], [[Vrykolakas Ancient]], [[Vrykolakas Master]], [[Vrykolakas Spawn]]
+[[DATABASE/monster/Minister Of Tumult|Minister Of Tumult]], [[DATABASE/monster/Nosferatu Malefactor|Nosferatu Malefactor]], [[DATABASE/monster/Nosferatu Overlord|Nosferatu Overlord]], [[DATABASE/monster/Provincial Jiang-Shi|Provincial Jiang-Shi]], [[DATABASE/monster/Strigoi Progenitor|Strigoi Progenitor]], [[DATABASE/monster/Vampire Count|Vampire Count]], [[DATABASE/monster/Vampire Mastermind|Vampire Mastermind]], [[DATABASE/monster/Vampire Spawn Rogue|Vampire Spawn]], [[DATABASE/monster/Vetalarana Emergent|Vetalarana Emergent]], [[DATABASE/monster/Vetalarana Manipulator|Vetalarana Manipulator]], [[DATABASE/monster/Vrykolakas Ancient|Vrykolakas Ancient]], [[DATABASE/monster/Vrykolakas Master|Vrykolakas Master]], [[DATABASE/monster/Vrykolakas Spawn|Vrykolakas Spawn]]

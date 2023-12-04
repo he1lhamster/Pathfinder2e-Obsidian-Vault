@@ -12,6 +12,7 @@ prerequisite: expert in a skill with the [[DATABASE/action/Recall Knowledge|Reca
   Knowledge]] action; [[DATABASE/feat/Assurance|Assurance]] in that skill
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -25,8 +26,8 @@ type: Feat
 # Automatic Knowledge <span class="item-type">Feat 2</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** expert in a skill with the [[Recall Knowledge]] action; [[Assurance]] in that skill
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** expert in a skill with the [[DATABASE/action/Recall Knowledge|Recall Knowledge]] action; [[DATABASE/feat/Assurance|Assurance]] in that skill
 
 ---
 You know basic facts off the top of your head. Choose a skill you’re an expert in that has the Recall Knowledge action and for which you have the Assurance feat. You can use the Recall Knowledge action with that skill as a free action once per round. If you do, you must use Assurance on the skill check.

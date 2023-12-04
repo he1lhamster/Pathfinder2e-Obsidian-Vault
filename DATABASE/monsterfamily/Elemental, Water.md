@@ -3,6 +3,7 @@ creature_family: Elemental, Water
 id: '45'
 name: Elemental, Water
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Elemental, Water
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Water elementals can be very destructive, but often not intentionally so; just as water can bring life to those in need on the Material Plane, its waves can pound shores and rains can flood cities. Water elementals are similarly difficult to predict.
 
 ### Members
 
-[[Blizzardborn]] (Creature 6), [[Boiling Spring]] (Creature 13), [[Brine Shark]] (Creature 3), [[Coldmire Pond]] (Creature 8), [[Dewdrop Jelly]] (Creature 1), [[Elemental Tsunami]] (Creature 11), [[Elemental Vessel, Water]] (Creature 16), [[Icewyrm]] (Creature 10), [[Icicle Snake]] (Creature 2), [[Living Waterfall]] (Creature 5), [[Mist Stalker]] (Creature 4), [[Quatoid]] (Creature 7), [[Tidal Master]] (Creature 9)
+[[DATABASE/monster/Blizzardborn|Blizzardborn]] (Creature 6), [[DATABASE/monster/Boiling Spring|Boiling Spring]] (Creature 13), [[DATABASE/monster/Brine Shark|Brine Shark]] (Creature 3), [[DATABASE/monster/Coldmire Pond|Coldmire Pond]] (Creature 8), [[DATABASE/monster/Dewdrop Jelly|Dewdrop Jelly]] (Creature 1), [[DATABASE/monster/Elemental Tsunami|Elemental Tsunami]] (Creature 11), [[DATABASE/monster/Elemental Vessel, Water|Elemental Vessel, Water]] (Creature 16), [[DATABASE/monster/Icewyrm|Icewyrm]] (Creature 10), [[DATABASE/monster/Icicle Snake|Icicle Snake]] (Creature 2), [[DATABASE/monster/Living Waterfall|Living Waterfall]] (Creature 5), [[DATABASE/monster/Mist Stalker|Mist Stalker]] (Creature 4), [[DATABASE/monster/Quatoid|Quatoid]] (Creature 7), [[DATABASE/monster/Tidal Master|Tidal Master]] (Creature 9)
 
 ###  "Civilized" Elementals
 
@@ -23,7 +24,7 @@ Some elementals, such as invisible stalkers, xorns, and salamanders, have specif
 
 ###  Diverse Elementals
 
-The Elemental Planes are more than expanses of sky, rock, fire, and ocean. Clouds of fog, dust, and storms float through the [[Plane of Air]]. The [[Plane of Earth]] includes verdant groves, shining metal and crystal, and irradiated wastelands. The [[Plane of Fire]] features magma, suffocating smoke, and radiant firelight. Amid the endless sea of the [[Plane of Water]] are pockets of ooze and brine, plus the otherworldly environs of the deep.
+The Elemental Planes are more than expanses of sky, rock, fire, and ocean. Clouds of fog, dust, and storms float through the [[DATABASE/plane/Plane of Air|Plane of Air]]. The [[DATABASE/plane/Plane of Earth|Plane of Earth]] includes verdant groves, shining metal and crystal, and irradiated wastelands. The [[DATABASE/plane/Plane of Fire|Plane of Fire]] features magma, suffocating smoke, and radiant firelight. Amid the endless sea of the [[DATABASE/plane/Plane of Water|Plane of Water]] are pockets of ooze and brine, plus the otherworldly environs of the deep.
 
 ###  Elemental Beings
 
@@ -47,7 +48,7 @@ Though fire and water classically oppose one another, in the right mixture they 
 
 ###  Melting Elementals
 
-Add the following optional reaction to the [[Icicle Snake]], [[Blizzardborn]], and [[Icewyrm]] water elementalsfor a water elemental that changes phase in response to players' actions.
+Add the following optional reaction to the [[DATABASE/monster/Icicle Snake|icicle snake]], [[DATABASE/monster/Blizzardborn|blizzardborn]], and [[DATABASE/monster/Icewyrm|icewyrm]] water elementalsfor a water elemental that changes phase in response to players' actions.
  **Vent Steam** <span class="action-icon">5</span> **Trigger** The elemental takes fire damage and is reduced to half its health or lower; **Effect** The elemental melts into a column of boiling steam. For 1 minute or until the elemental is dealt cold damage, whichever comes first, any Strikes or abilities that deal cold damage instead deal fire damage, and the elemental's cold immunity and fire vulnerability are reversed.
 
 ###  Monstrous Elementals
@@ -64,9 +65,9 @@ The most well known of all elementals are the primal elementals, creatures compo
 
 ###  Secrets of the Sea
 
-The oceans of the Plane of Water are endless expanses stretching forever in all directions, but for most mortals, even the seas of the [[Material Plane]] have unfathomable depths. Mysterious creatures and frightening truths wait just below the surface, ready to reveal themselves to those willing to peer just beyond the limits of their vision.
+The oceans of the Plane of Water are endless expanses stretching forever in all directions, but for most mortals, even the seas of the [[DATABASE/plane/Material Plane|Universe]] have unfathomable depths. Mysterious creatures and frightening truths wait just below the surface, ready to reveal themselves to those willing to peer just beyond the limits of their vision.
 
 ## Elemental
 
-**Related Groups** [[Elemental, Air]], [[Elemental, Earth]], [[Elemental, Fire]], [[Elemental, Mephit]], [[Elemental, Metal]], [[Elemental, Wisp]], [[Elemental, Wood]]
+**Related Groups** [[DATABASE/monsterfamily/Elemental, Air|Elemental, Air]], [[DATABASE/monsterfamily/Elemental, Earth|Elemental, Earth]], [[DATABASE/monsterfamily/Elemental, Fire|Elemental, Fire]], [[DATABASE/monsterfamily/Elemental, Mephit|Elemental, Mephit]], [[DATABASE/monsterfamily/Elemental, Metal|Elemental, Metal]], [[DATABASE/monsterfamily/Elemental, Wisp|Elemental, Wisp]], [[DATABASE/monsterfamily/Elemental, Wood|Elemental, Wood]]
 The Elemental Planes—primordial realms defined by aspects of air, earth, fire, or water—are home to a diverse group of beings known as elementals. Spellcasters on the Material Plane call upon elementals for aid, though these enigmatic creatures can also travel to the world of mortals via interplanar gateways and rifts. The elementals on these pages exemplify the creatures of the Elemental Planes, but this list is by no means exhaustive.

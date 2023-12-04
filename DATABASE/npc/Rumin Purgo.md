@@ -103,28 +103,28 @@ wisdom: '+2'
 # Rumin Purgo
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 38
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 38
 **Unspecific Lore**: DC 36
 **Specific Lore**: DC 33
 
 # Rumin Purgo<span class="item-type">Creature 11</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Small</span><span class="item-trait">Gnome</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 184. The Ghouls Hunger]]
-Male [[Gnome]] smuggler
-**Perception** +17; [[Low-Light Vision]]
-**Languages** [[Common]], [[Gnomish]], [[Kelish]], [[Necril]]
-**Skills** [[Arcana]] +22, [[Crafting]] +22, [[Deception]] +22, [[Lore]] +20, [[Society]] +20, [[Stealth]] +21, [[Thievery]] +23
+**Source** [[DATABASE/source/Pathfinder 184. The Ghouls Hunger|Pathfinder #184: The Ghouls Hunger]]
+Male [[DATABASE/ancestry/Gnome|gnome]] smuggler
+**Perception** +17; [[DATABASE/monsterability/Low-Light Vision|low-light vision]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Gnomish|Gnomish]], [[DATABASE/language/Kelish|Kelish]], [[DATABASE/language/Necril|Necril]]
+**Skills** [[DATABASE/skill/Arcana|Arcana]] +22, [[DATABASE/skill/Crafting|Crafting]] +22, [[DATABASE/skill/Deception|Deception]] +22, [[DATABASE/skill/Lore|Mechitar Lore]] +20, [[DATABASE/skill/Society|Society]] +20, [[DATABASE/skill/Stealth|Stealth]] +21, [[DATABASE/skill/Thievery|Thievery]] +23
 **Str** +0, **Dex** +4, **Con** +2, **Int** +3, **Wis** +2, **Cha** +5
-**Items** _+1 [[Leather Armor]]_, _+1 [[Striking]] [[Light Mace]]_, [[Cone of Cold]], [[Bag of Holding]], key to all locks in Cerulean Glade
+**Items** _+1 [[DATABASE/armor/Leather Armor|leather armor]]_, _+1 [[DATABASE/equipment/Striking|striking]] [[DATABASE/weapon/Light Mace|light mace]]_, [[DATABASE/spell/Cone of Cold|wand of cone of cold]], [[DATABASE/equipment/Bag of Holding|bag of holding IV]], key to all locks in Cerulean Glade
 
 ---
 **AC** 31; **Fort** +19, **Ref** +21, **Will** +19
 **HP** 190
-<span class="in-box-ability">**Evasion** If Rumin rolls a success on a Reflex save, he gets a critical success instead.</span><span class="in-box-ability">**Susceptible to Mockery** A character can attempt to [[Feint]] or [[Demoralize]] Rumin by mocking the fact that he hasn't yet been turned into a [[Vampire]]. On a success, in addition to the normal effects, Rumin becomes [[Sickened]] (or sickened 3 on a critical success), but on a critical failure he becomes enraged and gains a +1 status bonus to Strikes and damage rolls against foes for 1 minute, during which time he can't be mocked further.</span>
+<span class="in-box-ability">**Evasion** If Rumin rolls a success on a Reflex save, he gets a critical success instead.</span><span class="in-box-ability">**Susceptible to Mockery** A character can attempt to [[DATABASE/action/Feint|Feint]] or [[DATABASE/action/Demoralize|Demoralize]] Rumin by mocking the fact that he hasn't yet been turned into a [[DATABASE/monsterfamily/Vampire|vampire]]. On a success, in addition to the normal effects, Rumin becomes [[DATABASE/condition/Sickened|sickened 1]] (or sickened 3 on a critical success), but on a critical failure he becomes enraged and gains a +1 status bonus to Strikes and damage rolls against foes for 1 minute, during which time he can't be mocked further.</span>
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _light mace_ +22 [+18/+14] (agile, finesse, shove), **Damage** 2d4+10 bludgeoning</span>**Arcane Spontaneous Spells** DC 30, attack +22; **6th** _[[Disintegrate]]_, _[[Mislead]]_, _[[Phantasmal Killer]]_ (2 slots); **5th** _[[Dispel Magic]]_, _[[Hallucination]]_, _[[Prying Eye]]_, _[[Subconscious Suggestion]]_ (3 slots); **4th** _[[Dimension Door]]_, _[[Fly]]_, _[[Invisibility]]_, _[[Shatter]]_ (3 slots); **3rd** _[[Haste]]_, _[[Magic Missile]]_, _[[Shrink Item]]_ (3 slots); **2nd** _[[Blindness]]_, _[[Dispel Magic]]_, _[[Glitterdust]]_, _[[Hideous Laughter]]_, _[[Mirror Image]]_ (3 slots); **1st** _[[Charm]]_, _[[Floating Disk]]_, _[[Magic Missile]]_, _[[Unseen Servant]]_; **Cantrips** **(6th)** _[[Daze]]_, _[[Detect Magic]]_, _[[Light]]_, _[[Mage Hand]]_, _[[Shield]]_, _[[Telekinetic Projectile]]_
-**Sorcerer Bloodline Spells** DC 30, attack +22, 2 Focus Points; **6th** _[[Ancestral Memories]]_, _[[Extend Spell]]_
-<span class="in-box-ability">**[[Sneak Attack]]** Rumin's Strikes deal an additional 2d6 precision damage to [[Flat-Footed]] creatures</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _light mace_ +22 [+18/+14] (agile, finesse, shove), **Damage** 2d4+10 bludgeoning</span>**Arcane Spontaneous Spells** DC 30, attack +22; **6th** _[[DATABASE/spell/Disintegrate|disintegrate]]_, _[[DATABASE/spell/Mislead|mislead]]_, _[[DATABASE/spell/Phantasmal Killer|phantasmal killer]]_ (2 slots); **5th** _[[DATABASE/spell/Dispel Magic|dispel magic]]_, _[[DATABASE/spell/Hallucination|hallucination]]_, _[[DATABASE/spell/Prying Eye|prying eye]]_, _[[DATABASE/spell/Subconscious Suggestion|subconscious suggestion]]_ (3 slots); **4th** _[[DATABASE/spell/Dimension Door|dimension door]]_, _[[DATABASE/spell/Fly|fly]]_, _[[DATABASE/spell/Invisibility|invisibility]]_, _[[DATABASE/spell/Shatter|shatter]]_ (3 slots); **3rd** _[[DATABASE/spell/Haste|haste]]_, _[[DATABASE/spell/Magic Missile|magic missile]]_, _[[DATABASE/spell/Shrink Item|shrink item]]_ (3 slots); **2nd** _[[DATABASE/spell/Blindness|blindness]]_, _[[DATABASE/spell/Dispel Magic|dispel magic]]_, _[[DATABASE/spell/Glitterdust|glitterdust]]_, _[[DATABASE/spell/Hideous Laughter|hideous laughter]]_, _[[DATABASE/spell/Mirror Image|mirror image]]_ (3 slots); **1st** _[[DATABASE/spell/Charm|charm]]_, _[[DATABASE/spell/Floating Disk|floating disk]]_, _[[DATABASE/spell/Magic Missile|magic missile]]_, _[[DATABASE/spell/Unseen Servant|unseen servant]]_; **Cantrips** **(6th)** _[[DATABASE/spell/Daze|daze]]_, _[[DATABASE/spell/Detect Magic|detect magic]]_, _[[DATABASE/spell/Light|light]]_, _[[DATABASE/spell/Mage Hand|mage hand]]_, _[[DATABASE/spell/Shield|shield]]_, _[[DATABASE/spell/Telekinetic Projectile|telekinetic projectile]]_
+**Sorcerer Bloodline Spells** DC 30, attack +22, 2 Focus Points; **6th** _[[DATABASE/spell/Ancestral Memories|ancestral memories]]_, _[[DATABASE/spell/Extend Spell|extend spell]]_
+<span class="in-box-ability">**[[DATABASE/monsterability/Sneak Attack|Sneak Attack]]** Rumin's Strikes deal an additional 2d6 precision damage to [[DATABASE/condition/Flat-Footed|flat-footed]] creatures</span>

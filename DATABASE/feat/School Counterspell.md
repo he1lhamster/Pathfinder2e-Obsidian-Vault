@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Counterspell|Counterspell]] ; [[DATABASE/feat/Run
   Dedication|Runelord Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # School Counterspell <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Secrets of Magic]] 
-**Archetype** [[Runelord]]
-**Prerequisites** [[Counterspell]]; [[Runelord Dedication]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
+**Archetype** [[DATABASE/archetype/Runelord|Runelord]]
+**Prerequisites** [[DATABASE/feat/Counterspell|Counterspell]]; [[DATABASE/feat/Runelord Dedication|Runelord Dedication]]
 
 ---
 Your intricate knowledge of your school lets you easily negate spells from that school. Instead of being able to counter a foe's spell with Counterspell only if you have the same spell prepared, if the foe casts a spell from the school matching your specialization, you can Counterspell it with any other spell of the same school.

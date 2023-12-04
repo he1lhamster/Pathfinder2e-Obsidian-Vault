@@ -3,6 +3,7 @@ creature_family: Azata
 id: '10'
 name: Azata
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Azata
 
-**Source** [[Bestiary]]
-Azatas are manifestations of freedom—kindly celestials with a penchant for curious exploration, spontaneous revelry, and whimsical quests. Born of the untamable wilds of Elysium, azatas are passionate and mercurial, but also fiercely loyal to those they hold dear. Azatas act quickly and directly against fiendish and otherworldly influences, but they tend to stay out of mortal affairs otherwise, allowing them the ultimate freedom to choose their own destiny. While all azatas cherish freedom, each type exemplifies a particular freedom above others. Many of their kind hold strange knightly and courtly titles that defy mortal classification and shift and change with time and on different occasions rather than following a strict hierarchy. This baffles [[Archon]] and other more lawful creatures who haven't had much contact with azatas. In actuality, the azatas use their titles as personal flourishes and points of pride, rather than as excuses to order each other around.
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
+Azatas are manifestations of freedom—kindly celestials with a penchant for curious exploration, spontaneous revelry, and whimsical quests. Born of the untamable wilds of Elysium, azatas are passionate and mercurial, but also fiercely loyal to those they hold dear. Azatas act quickly and directly against fiendish and otherworldly influences, but they tend to stay out of mortal affairs otherwise, allowing them the ultimate freedom to choose their own destiny. While all azatas cherish freedom, each type exemplifies a particular freedom above others. Many of their kind hold strange knightly and courtly titles that defy mortal classification and shift and change with time and on different occasions rather than following a strict hierarchy. This baffles [[DATABASE/monsterfamily/Archon|archon]] and other more lawful creatures who haven't had much contact with azatas. In actuality, the azatas use their titles as personal flourishes and points of pride, rather than as excuses to order each other around.
 
 ### Members
 
-[[Azata, Aeolaeka]] (Creature 12), [[Bralani (Wind Azata)]] (Creature 6), [[Gancanagh (Passion Azata)]] (Creature 4), [[Ghaele (Crusader Azata)]] (Creature 13), [[Lillend (Muse Azata)]] (Creature 7), [[Lyrakien (Wanderer Azata)]] (Creature 1), [[Veranallia (Rebirth Azata)]] (Creature 20)
+[[DATABASE/monster/Azata, Aeolaeka|Aeolaeka (Stone Azata)]] (Creature 12), [[DATABASE/monster/Bralani (Wind Azata)|Bralani]] (Creature 6), [[DATABASE/monster/Gancanagh (Passion Azata)|Gancanagh]] (Creature 4), [[DATABASE/monster/Ghaele (Crusader Azata)|Ghaele]] (Creature 13), [[DATABASE/monster/Lillend (Muse Azata)|Lillend]] (Creature 7), [[DATABASE/monster/Lyrakien (Wanderer Azata)|Lyrakien]] (Creature 1), [[DATABASE/monster/Veranallia (Rebirth Azata)|Veranallia]] (Creature 20)
 
 ###  Azata Divinities
 

@@ -72,25 +72,25 @@ wisdom: '+4'
 # Ancient Rivener
 
 Ikeshtis who eschew their society are exiled and quickly devolve into violent creatures known as riveners.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 32
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 32
 **Unspecific Lore**: DC 30
 **Specific Lore**: DC 27
 
 # Ancient Rivener<span class="item-type">Creature 14</span>
 
 <span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Humanoid</span><span class="item-trait">Ikeshti</span>
-**Source** [[Pathfinder 173. Doorway to the Red Star]]
+**Source** [[DATABASE/source/Pathfinder 173. Doorway to the Red Star|Pathfinder #173: Doorway to the Red Star]]
 **Perception** +25
-**Languages** [[Ikeshti]]; (can speak and understand only simple words)
-**Skills** [[Athletics]] +28, [[Intimidation]] +22, [[Stealth]] +25, [[Survival]] +24
+**Languages** [[DATABASE/language/Ikeshti|Ikeshti]]; (can speak and understand only simple words)
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +28, [[DATABASE/skill/Intimidation|Intimidation]] +22, [[DATABASE/skill/Stealth|Stealth]] +25, [[DATABASE/skill/Survival|Survival]] +24
 **Str** +8, **Dex** +5, **Con** +5, **Int** -3, **Wis** +4, **Cha** +0
-**Violent Instincts** An ancient rivener attacks the nearest creature when [[Confused]] instead of any other effect, and ignores magical commands compelling them to do anything other than attack.
+**Violent Instincts** An ancient rivener attacks the nearest creature when [[DATABASE/condition/Confused|confused]] instead of any other effect, and ignores magical commands compelling them to do anything other than attack.
 
 ---
 **AC** 35; **Fort** +27, **Ref** +25, **Will** +22
 **HP** 280; **Resistances** cold 15, fire 15, mental 15
-<span class="in-box-ability">**[[Ferocity]] <span class="action-icon">5</span> ** </span>
+<span class="in-box-ability">**[[DATABASE/monsterability/Ferocity|Ferocity]] <span class="action-icon">5</span> ** </span>
 
 ---
 **Speed** 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +29 [+24/+19] (reach 10 feet), **Damage** 3d8+14 piercing and 2d8 [[Persistent Damage]]</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +29 [+25/+21] (agile), **Damage** 3d8+14 slashing</span><span class="in-box-ability">**Slaughter Tackle** <span class="action-icon">2</span> The ancient rivener Leaps at a target within 30 feet, and then makes one jaws Strike and one claw Strike in any order.</span><span class="in-box-ability">**Squirt Blood** <span class="action-icon">1</span> **Frequency** once per day; **Effect** The ikeshti squirts blood from one of their eyes at a target within 30 feet. The target must attempt a DC 18 Fortitude save or become [[Sickened]] (sickened 2 on a critical failure).</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +29 [+24/+19] (reach 10 feet), **Damage** 3d8+14 piercing and 2d8 [[DATABASE/condition/Persistent Damage|persistent bleed]]</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +29 [+25/+21] (agile), **Damage** 3d8+14 slashing</span><span class="in-box-ability">**Slaughter Tackle** <span class="action-icon">2</span> The ancient rivener Leaps at a target within 30 feet, and then makes one jaws Strike and one claw Strike in any order.</span><span class="in-box-ability">**Squirt Blood** <span class="action-icon">1</span> **Frequency** once per day; **Effect** The ikeshti squirts blood from one of their eyes at a target within 30 feet. The target must attempt a DC 18 Fortitude save or become [[DATABASE/condition/Sickened|sickened 1]] (sickened 2 on a critical failure).</span>

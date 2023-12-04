@@ -3,6 +3,7 @@ bloodline: Undead
 id: '10'
 name: Undead
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 spell:
 - '[[DATABASE/spell/Bind Undead|Bind Undead]]'
@@ -24,10 +25,10 @@ type: Sorcerer Bloodline
 ---
 # Undead
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 The touch of undeath runs through your blood. Your family tree might contain powerful undead, like a vampire, or perhaps you died and returned a bit different.
 **Spell List** divine
-**Bloodline Skills** [[Intimidation]], [[Religion]]
-**Granted Spells** cantrip: [[Chill Touch]], 1st: [[Harm]], 2nd: [[False Life]], 3rd: [[Bind Undead]], 4th: [[Talking Corpse]], 5th: [[Cloudkill]], 6th: [[Vampiric Exsanguination]], 7th: [[Finger of Death]], 8th: [[Horrid Wilting]], 9th: [[Wail of the Banshee]]
-**Bloodline Spells** initial: [[Undeath's Blessing]], advanced: [[Drain Life]], greater: [[Grasping Grave]]
+**Bloodline Skills** [[DATABASE/skill/Intimidation|Intimidation]], [[DATABASE/skill/Religion|Religion]]
+**Granted Spells** cantrip: [[DATABASE/spell/Chill Touch|chill touch]], 1st: [[DATABASE/spell/Harm|harm]], 2nd: [[DATABASE/spell/False Life|false life]], 3rd: [[DATABASE/spell/Bind Undead|bind undead]], 4th: [[DATABASE/spell/Talking Corpse|talking corpse]], 5th: [[DATABASE/spell/Cloudkill|cloudkill]], 6th: [[DATABASE/spell/Vampiric Exsanguination|vampiric exsanguination]], 7th: [[DATABASE/spell/Finger of Death|finger of death]], 8th: [[DATABASE/spell/Horrid Wilting|horrid wilting]], 9th: [[DATABASE/spell/Wail of the Banshee|wail of the banshee]]
+**Bloodline Spells** initial: [[DATABASE/spell/Undeath's Blessing|undeath's blessing]], advanced: [[DATABASE/spell/Drain Life|drain life]], greater: [[DATABASE/spell/Grasping Grave|grasping grave]]
 **Blood Magic** Necromantic energy flows through you or one target. Either you gain temporary Hit Points equal to the spell’s level for 1 round, or a target takes 1 negative damage per spell level (if the spell already deals initial negative damage, combine this with the spell’s initial damage before determining weaknesses and resistances).

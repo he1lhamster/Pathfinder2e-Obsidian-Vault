@@ -74,27 +74,27 @@ wisdom: '+0'
 # Aives The Smoke Dragon
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 29
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 29
 **Unspecific Lore**: DC 27
 **Specific Lore**: DC 24
 
 # Aives The Smoke Dragon<span class="item-type">Creature 4</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CN</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Humanoid</span><span class="item-trait">Tiefling</span>
-**Source** [[Pathfinder 152. Legacy of the Lost God]]
-Male [[Tiefling]] poison artist
-**Perception** +8; [[Darkvision]]
-**Languages** [[Abyssal]], [[Common]]
-**Skills** [[Acrobatics]] +10, [[Athletics]] +8, [[Deception]] +8, [[Performance]] +8, [[Stealth]] +10, [[Thievery]] +12
+**Source** [[DATABASE/source/Pathfinder 152. Legacy of the Lost God|Pathfinder #152: Legacy of the Lost God]]
+Male [[DATABASE/ancestry/Tiefling|tiefling]] poison artist
+**Perception** +8; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Abyssal|Abyssal]], [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +10, [[DATABASE/skill/Athletics|Athletics]] +8, [[DATABASE/skill/Deception|Deception]] +8, [[DATABASE/skill/Performance|Performance]] +8, [[DATABASE/skill/Stealth|Stealth]] +10, [[DATABASE/skill/Thievery|Thievery]] +12
 **Str** +2, **Dex** +4, **Con** +0, **Int** +1, **Wis** +0, **Cha** +2
-**Items** [[Dagger]], [[Leather Armor]], [[Thieves' Tools]]
+**Items** [[DATABASE/weapon/Dagger|dagger (4)]], [[DATABASE/armor/Leather Armor|leather armor]], [[DATABASE/equipment/Thieves' Tools|thieves' tools]]
 
 ---
 **AC** 21; **Fort** +9, **Ref** +14, **Will** +9
 **HP** 56; **Immunities** poison
-<span class="in-box-ability">**Surprise Attack** On the first round of combat, if Aives rolled [[Deception]] or [[Stealth]] for initiative, creatures that haven't acted are [[Flat-Footed]] to him.</span>
+<span class="in-box-ability">**Surprise Attack** On the first round of combat, if Aives rolled [[DATABASE/skill/Deception|Deception]] or [[DATABASE/skill/Stealth|Stealth]] for initiative, creatures that haven't acted are [[DATABASE/condition/Flat-Footed|flat-footed]] to him.</span>
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> dagger +13 [+9/+5] (agile, finesse, versatile S), **Damage** 1d4+4 piercing plus Smoke Exhalation</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> dagger +13 [+9/+5] (agile, thrown 10 feet, versatile S), **Damage** 1d4+4 piercing plus Smoke Exhalation</span>**Divine Innate Spells** DC 18; **2nd** _[[Darkness]]_
-<span class="in-box-ability">**Quick Draw** <span class="action-icon">1</span> Aives draws a weapon with an Interact action, then Strikes with the weapon he just drew.</span><span class="in-box-ability">**Smoke Exhalation** <span class="action-icon">1</span> (poison) Aives breathes out a cloud of poisonous smoke that he can make curl around him or cling to his weapons. Until the cloud dissipates at the start of his next turn, Aives is [[Concealed]], his Strikes deal an extra 1d8 poison damage, and targets of his Strikes must succeed at a DC 22 Fortitude save or become [[Sickened]].</span><span class="in-box-ability">**[[Sneak Attack]]** Aives deals an extra 1d6 precision damage to [[Flat-Footed]] creatures.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> dagger +13 [+9/+5] (agile, finesse, versatile S), **Damage** 1d4+4 piercing plus Smoke Exhalation</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> dagger +13 [+9/+5] (agile, thrown 10 feet, versatile S), **Damage** 1d4+4 piercing plus Smoke Exhalation</span>**Divine Innate Spells** DC 18; **2nd** _[[DATABASE/spell/Darkness|darkness]]_
+<span class="in-box-ability">**Quick Draw** <span class="action-icon">1</span> Aives draws a weapon with an Interact action, then Strikes with the weapon he just drew.</span><span class="in-box-ability">**Smoke Exhalation** <span class="action-icon">1</span> (poison) Aives breathes out a cloud of poisonous smoke that he can make curl around him or cling to his weapons. Until the cloud dissipates at the start of his next turn, Aives is [[DATABASE/condition/Concealed|concealed]], his Strikes deal an extra 1d8 poison damage, and targets of his Strikes must succeed at a DC 22 Fortitude save or become [[DATABASE/condition/Sickened|sickened 1]].</span><span class="in-box-ability">**[[DATABASE/monsterability/Sneak Attack|Sneak Attack]]** Aives deals an extra 1d6 precision damage to [[DATABASE/condition/Flat-Footed|flat-footed]] creatures.</span>

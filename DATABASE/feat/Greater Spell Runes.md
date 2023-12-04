@@ -11,6 +11,7 @@ name: Greater Spell Runes
 prerequisite: '[[DATABASE/feat/Spell Runes|Spell Runes]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Greater Spell Runes <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[World Guide]] 
-**Archetype** [[Runescarred]]
-**Prerequisites** [[Spell Runes]]
+**Source** [[DATABASE/source/World Guide|World Guide]] 
+**Archetype** [[DATABASE/archetype/Runescarred|Runescarred]]
+**Prerequisites** [[DATABASE/feat/Spell Runes|Spell Runes]]
 
 ---
 You gain more powerful spell runes. You gain a spell rune corresponding to a 4th-level arcane spell. At 12th level, you gain a spell rune corresponding to a 5th-level arcane spell, and at 14th level, you gain a spell rune corresponding to a 6th-level arcane spell.

@@ -11,6 +11,7 @@ name: Violent Vines
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Violent Vines <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Ghoran</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 
 ---
-When angered, you can imbue nearby vines with your wrath, provoking them into a murderous rampage. Once per hour, you can cast [[Murderous Vine]] as a primal innate spell.
+When angered, you can imbue nearby vines with your wrath, provoking them into a murderous rampage. Once per hour, you can cast [[DATABASE/spell/Murderous Vine|murderous vine]] as a primal innate spell.
 
 ## Traits
 

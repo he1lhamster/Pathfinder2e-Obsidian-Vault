@@ -16,6 +16,7 @@ id: '1'
 name: Alchemist
 perception_proficiency: Trained
 rarity: Common
+rus_type_level: null
 skill_proficiency:
 - Trained in Crafting
 - Trained in a number of additional skills equal to 3 plus your Intelligence modifier
@@ -26,7 +27,7 @@ type: Class
 
 ---
 # Alchemist
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 _There’s no sight more beautiful to you than a strange brew bubbling in a beaker, and you consume your ingenious elixirs with abandon. You’re fascinated by uncovering the secrets of science and the natural world, and you’re constantly experimenting in your lab or on the go with inventive concoctions for every eventuality. You are fearless in the face of risk, hurling explosive or toxic creations at your foes. Your unique path toward greatness is lined with alchemical brews that push your mind and body to their limits._
 **Key Ability: INTELLIGENCE**
 At 1st level, your class gives you an ability boost to Intelligence
@@ -36,7 +37,7 @@ You increase your maximum number of HP by this number at 1st level and every lev
 ## Key Terms
 
 You'll see the following key terms in many alchemist abilities.
- **Additive**: Feats with the additive trait allow you to spend actions to add special substances to bombs or elixirs. You can add only one additive to a single alchemical item, and attempting to add another spoils the item. You can typically use actions with the additive trait only when you're creating an infused alchemical item, and some can be used only with the [[Quick Alchemy]] action. The additive trait is always followed by a level, such as additive 2. An additive adds its level to the level of the alchemical item you're modifying; the result is the new level of the mixture. The mixture's item level must be no higher than your advanced alchemy level.
+ **Additive**: Feats with the additive trait allow you to spend actions to add special substances to bombs or elixirs. You can add only one additive to a single alchemical item, and attempting to add another spoils the item. You can typically use actions with the additive trait only when you're creating an infused alchemical item, and some can be used only with the [[DATABASE/feat/Quick Alchemy|Quick Alchemy]] action. The additive trait is always followed by a level, such as additive 2. An additive adds its level to the level of the alchemical item you're modifying; the result is the new level of the mixture. The mixture's item level must be no higher than your advanced alchemy level.
  **Infused**: You created an alchemical item with the infused trait using your infused reagents, and it has a limited time before it becomes inert. Any nonpermanent effects from your infused alchemical items, with the exception of afflictions such as slow-acting poisons, end when you make your daily preparations again.
 
 # Roleplaying the Alchemist
@@ -85,13 +86,13 @@ Trained in Will
 
 ## Skills
 
-Trained in [[Crafting]]
+Trained in [[DATABASE/skill/Crafting|Crafting]]
  Trained in a number of additional skills equal to 3 plus your Intelligence modifier
 
 ## Attacks
 
 Trained in simple weapons
- Trained in [[Alchemical Bomb]]
+ Trained in [[DATABASE/weapon/Alchemical Bomb|alchemical bombs]]
  Trained in unarmed attacks
 
 ## Defenses
@@ -106,30 +107,29 @@ Trained in alchemist class DC
 
 # Class Features
 
-You gain these features as an Alchemist. Abilities gained at higher levels list the levels at which you gain them next to the features' names.
-
-|   Your Level | Class Features                                                                                        |
-|-------------:|:------------------------------------------------------------------------------------------------------|
-|            1 | Ancestry and background, initial proficiencies, alchemy, formula book, research field, alchemist feat |
-|            2 | Alchemist feat, skill feat                                                                            |
-|            3 | General feat, skill increase                                                                          |
-|            4 | Alchemist feat, skill feat                                                                            |
-|            5 | Ability boosts, ancestry feat, field discovery, powerful alchemy, skill increase                      |
-|            6 | Alchemist feat, skill feat                                                                            |
-|            7 | Alchemical weapon expertise, general feat, iron will, perpetual infusions, skill increase             |
-|            8 | Alchemist feat, skill feat                                                                            |
-|            9 | Alchemical expertise, alertness, ancestry feat, double brew, skill increase                           |
-|           10 | Ability boosts, alchemist feat, skill feat                                                            |
-|           11 | General feat, juggernaut, perpetual potency, skill increase                                           |
-|           12 | Alchemist feat, skill feat                                                                            |
-|           13 | Ancestry feat, greater field discovery, medium armor expertise, skill increase, weapon specialization |
-|           14 | Alchemist feat, skill feat                                                                            |
-|           15 | Ability boosts, alchemical alacrity, evasion, general feat, skill increase                            |
-|           16 | Alchemist feat, skill feat                                                                            |
-|           17 | Alchemical mastery, ancestry feat, perpetual perfection, skill increase                               |
-|           18 | Alchemist feat, skill feat                                                                            |
-|           19 | General feat, medium armor mastery, skill increase                                                    |
-|           20 | Ability boosts, alchemist feat, skill feat                                                            |
+You gain these features as an Alchemist. Abilities gained at higher levels list the levels at which you gain them next to the features' names.| 0 | 1 |
+|:-----------|:------------------------------------------------------------------------------------------------------|
+| Your Level | Class Features |
+| 1 | Ancestry and background, initial proficiencies, alchemy, formula book, research field, alchemist feat |
+| 2 | Alchemist feat, skill feat |
+| 3 | General feat, skill increase |
+| 4 | Alchemist feat, skill feat |
+| 5 | Ability boosts, ancestry feat, field discovery, powerful alchemy, skill increase |
+| 6 | Alchemist feat, skill feat |
+| 7 | Alchemical weapon expertise, general feat, iron will, perpetual infusions, skill increase |
+| 8 | Alchemist feat, skill feat |
+| 9 | Alchemical expertise, alertness, ancestry feat, double brew, skill increase |
+| 10 | Ability boosts, alchemist feat, skill feat |
+| 11 | General feat, juggernaut, perpetual potency, skill increase |
+| 12 | Alchemist feat, skill feat |
+| 13 | Ancestry feat, greater field discovery, medium armor expertise, skill increase, weapon specialization |
+| 14 | Alchemist feat, skill feat |
+| 15 | Ability boosts, alchemical alacrity, evasion, general feat, skill increase |
+| 16 | Alchemist feat, skill feat |
+| 17 | Alchemical mastery, ancestry feat, perpetual perfection, skill increase |
+| 18 | Alchemist feat, skill feat |
+| 19 | General feat, medium armor mastery, skill increase |
+| 20 | Ability boosts, alchemist feat, skill feat |
 
 ## Ancestry and Background
 
@@ -142,7 +142,7 @@ At 1st level, you gain a number of proficiencies that represent your basic train
 ## Alchemy
 
 You understand the complex interactions of natural and unnatural substances and can concoct alchemical items to meet your needs. You can do this using normal reagents and the Craft activity, or you can use special infused reagents that allow you to craft temporary items quickly and at no cost. Over time, you can create more and more alchemical items for free, and since each of them becomes more and more powerful, you advance in power dramatically, leaving behind those who don't understand your strange science.
- You gain the [[Alchemical Crafting]] feat, even if you don't meet that feat's prerequisites, and you gain the four common 1st-level alchemical formulas granted by that feat. Alchemical Items can be found here. You can use this feat to create alchemical items as long as you have the items' formulas in your formula book.
+ You gain the [[DATABASE/feat/Alchemical Crafting|Alchemical Crafting]] feat, even if you don't meet that feat's prerequisites, and you gain the four common 1st-level alchemical formulas granted by that feat. Alchemical Items can be found here. You can use this feat to create alchemical items as long as you have the items' formulas in your formula book.
 
 ### Infused Reagents
 
@@ -157,25 +157,25 @@ During your daily preparations, after producing new infused reagents, you can sp
 
 If you need a specific alchemical item on the fly, you can use your infused reagents to quickly create it with the Quick Alchemy action.
 
-### [[Quick Alchemy]] <span class="action-icon">1</span>
+### [[DATABASE/action/Quick Alchemy|Quick Alchemy]] <span class="action-icon">1</span>
 
 <span class="item-trait">Alchemist</span><span class="item-trait">Manipulate</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Cost** 1 batch of infused reagents
-**Requirements** You have the formula for the alchemical item you're creating, and you're either holding or wearing [[Alchemist's Tools]].
+**Requirements** You have the formula for the alchemical item you're creating, and you're either holding or wearing [[DATABASE/equipment/Alchemist's Tools|alchemist's tools]].
 
 ---
-You swiftly mix up a short-lived alchemical item to use at a moment's notice. You create a single alchemical consumable item of your advanced alchemy level or lower that's in your formula book without having to spend the normal monetary cost in alchemical reagents or needing to attempt a [[Crafting]] check. This item has the infused trait, but it remains potent only until the start of your next turn.
+You swiftly mix up a short-lived alchemical item to use at a moment's notice. You create a single alchemical consumable item of your advanced alchemy level or lower that's in your formula book without having to spend the normal monetary cost in alchemical reagents or needing to attempt a [[DATABASE/skill/Crafting|Crafting]] check. This item has the infused trait, but it remains potent only until the start of your next turn.
 
 ## Formula Book
 
-An alchemist keeps meticulous records of the formulas for every item they can create. You start with a standard [[Formula Book (Blank)]] worth 10 sp or less for free. The formula book contains the formulas for two common 1st-level alchemical items of your choice, in addition to those you gained from Alchemical Crafting and your research field. Alchemical Items can be found here.
- Each time you gain a level, you can add the formulas for two common alchemical items to your formula book. These new formulas can be for any level of item you can create. You learn these formulas automatically, but it's also possible to find or buy additional formulas in settlements or from other alchemists, or to invent them with the [[Inventor]] feat.
+An alchemist keeps meticulous records of the formulas for every item they can create. You start with a standard [[DATABASE/equipment/Formula Book (Blank)|formula book]] worth 10 sp or less for free. The formula book contains the formulas for two common 1st-level alchemical items of your choice, in addition to those you gained from Alchemical Crafting and your research field. Alchemical Items can be found here.
+ Each time you gain a level, you can add the formulas for two common alchemical items to your formula book. These new formulas can be for any level of item you can create. You learn these formulas automatically, but it's also possible to find or buy additional formulas in settlements or from other alchemists, or to invent them with the [[DATABASE/feat/Inventor|Inventor]] feat.
 
 ### Sample Formula Book
 
 You can choose any 1st-level common alchemical items for your formula book, but the list below contains a good selection of starter formulas. A beginner’s book with these formulas called _The Fundamentals of Alchemy_ has become popular among mainstream alchemists by staying away from controversial topics like mutagens, though it has drawn criticism from fringe alchemists for guiding fledgling alchemists away from more innovative experiments.
- **Alchemical Item Formulas**: [[Acid Flask]], [[Alchemist's Fire]], [[Antidote]], [[Antiplague]], [[Cheetah's Elixir]], [[Elixir of Life]], [[Tanglefoot Bag]], [[Smokestick]].
+ **Alchemical Item Formulas**: [[DATABASE/equipment/Acid Flask|Lesser acid flask]], [[DATABASE/equipment/Alchemist's Fire|lesser alchemist’s fire]], [[DATABASE/equipment/Antidote|lesser antidote]], [[DATABASE/equipment/Antiplague|lesser antiplague]], [[DATABASE/equipment/Cheetah's Elixir|lesser cheetah’s elixir]], [[DATABASE/equipment/Elixir of Life|lesser elixir of life]], [[DATABASE/equipment/Tanglefoot Bag|lesser tanglefoot bag]], [[DATABASE/equipment/Smokestick|lesser smokestick]].
 
 ## Research Field
 

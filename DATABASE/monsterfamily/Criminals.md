@@ -3,6 +3,7 @@ creature_family: Criminals
 id: '182'
 name: Criminals
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Criminals
 
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 Some criminals are the desperate who have no option but to break the law to survive, while others choose a life of crime for thrills, forming gangs or underworld guilds that specialize in certain illegal ventures.
 
 ### Members
 
-[[Assassin]] (Creature 8), [[Bandit]] (Creature 2), [[Burglar]] (Creature 4), [[Charlatan]] (Creature 3), [[Fence]] (Creature 5), [[Grave Robber]] (Creature 1), [[Ruffian]] (Creature 2)
+[[DATABASE/npc/Assassin|Assassin]] (Creature 8), [[DATABASE/npc/Bandit|Bandit]] (Creature 2), [[DATABASE/npc/Burglar|Burglar]] (Creature 4), [[DATABASE/npc/Charlatan|Charlatan]] (Creature 3), [[DATABASE/npc/Fence|Fence]] (Creature 5), [[DATABASE/npc/Grave Robber|Grave Robber]] (Creature 1), [[DATABASE/npc/Ruffian|Ruffian]] (Creature 2)
 
 ###  Criminal Scams
 

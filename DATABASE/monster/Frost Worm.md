@@ -84,16 +84,16 @@ wisdom: '+4'
 The frost worm's single round, red eye gleams prominently at the head of its monstrous mass, white as a winter snowfall. What appears to be a bifurcated lower jaw is actually two spiky parapodia that the worm uses to shovel food into its lamprey-like mouth. An adult frost worm measures 35 feet long and weighs 8,000 pounds.
  A frost worm is an apex predator that uses camouflage, burrowing, and deceit to ambush its prey. When it attacks, a frost worm produces a distinctive, high-pitched trill. Though some survivors of frost worm attacks have compared it to a wailing lament, the trill has a captivating effect on nearby creatures, causing them to stop and listen even as the monstrous creature approaches.
  The cold shed by a frost worm is as dangerous as its trill or its jaws, and while it is not fond of warmer climates, neither is it particularly hampered in such regions. A frost worm that somehow finds itself in temperate or even tropical environs causes the immediate area to chill and ice over with frost over time, creating seemingly impossible pockets of frozen terrain.
-**Recall Knowledge - Animal ([[Nature]])**: DC 30
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 30
 **Unspecific Lore**: DC 28
 **Specific Lore**: DC 25
 
 # Frost Worm<span class="item-type">Creature 12</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Huge</span><span class="item-trait">Animal</span><span class="item-trait">Cold</span>
-**Source** [[Bestiary 2]] 
-**Perception** +22; [[Darkvision]]
-**Skills** [[Athletics]] +25, [[Stealth]] +20 (+24 in ice and snow)
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +22; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +25, [[DATABASE/skill/Stealth|Stealth]] +20 (+24 in ice and snow)
 **Str** +7, **Dex** +4, **Con** +6, **Int** -4, **Wis** +4, **Cha** +0
 
 ---
@@ -103,9 +103,9 @@ The frost worm's single round, red eye gleams prominently at the head of its mon
 
 ---
 **Speed** 25 feet, burrow 10 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +25 [+20/+15], **Damage** 3d8+10 piercing plus 2d6 [[Persistent Damage]]</span><span class="in-box-ability">**Breath Weapon** <span class="action-icon">2</span> (cold, evocation, primal) The frost worm exhales a blast of frost, dealing 13d6 cold damage to creatures in a 50-foot cone (DC 32 basic Reflex save). It can't use Breath Weapon again for 1d4 rounds.</span><span class="in-box-ability">**Worm Trill** <span class="action-icon">1</span> (auditory, concentrate, enchantment, mental, primal) The frost worm emits a hypnotic trill. Each non–frost worm creature within 100 feet must attempt a DC 32 Will save. The effects of Worm Trill last for 1 round, but if the frost worm uses this ability again on subsequent rounds, it extends this duration by 1 round for any creature already affected. 
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +25 [+20/+15], **Damage** 3d8+10 piercing plus 2d6 [[DATABASE/condition/Persistent Damage|persistent cold]]</span><span class="in-box-ability">**Breath Weapon** <span class="action-icon">2</span> (cold, evocation, primal) The frost worm exhales a blast of frost, dealing 13d6 cold damage to creatures in a 50-foot cone (DC 32 basic Reflex save). It can't use Breath Weapon again for 1d4 rounds.</span><span class="in-box-ability">**Worm Trill** <span class="action-icon">1</span> (auditory, concentrate, enchantment, mental, primal) The frost worm emits a hypnotic trill. Each non–frost worm creature within 100 feet must attempt a DC 32 Will save. The effects of Worm Trill last for 1 round, but if the frost worm uses this ability again on subsequent rounds, it extends this duration by 1 round for any creature already affected. 
 **Success** The creature is unaffected and is immune to Worm Trill for 24 hours. 
-**Failure** The creature is [[Fascinated]] by the frost worm. 
+**Failure** The creature is [[DATABASE/condition/Fascinated|fascinated]] by the frost worm. 
 **Critical Failure **As failure, but the fascinated condition doesn't end if the frost worm uses hostile actions against the creature.</span>
 
 ###  Unknown Origins

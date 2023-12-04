@@ -69,19 +69,19 @@ wisdom: '+2'
 # Deep Gnome Scout
 
 Deep gnome scouts patrol the tunnels that lead into their settlements. Some scout alone to make the most of their stealth, but others form groups for the sake of safety.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 15
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Deep Gnome Scout<span class="item-type">Creature 1</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Small</span><span class="item-trait">Gnome</span><span class="item-trait">Humanoid</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +7; darkvision
-**Languages** [[Gnomish]], [[Undercommon]]
-**Skills** [[Acrobatics]] +7, [[Nature]] +5, [[Stealth]] +7 (+10 underground), [[Survival]] +5
+**Languages** [[DATABASE/language/Gnomish|Gnomish]], [[DATABASE/language/Undercommon|Undercommon]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +7, [[DATABASE/skill/Nature|Nature]] +5, [[DATABASE/skill/Stealth|Stealth]] +7 (+10 underground), [[DATABASE/skill/Survival|Survival]] +5
 **Str** +2, **Dex** +4, **Con** +2, **Int** +0, **Wis** +2, **Cha** -1
-**Items** [[Light Pick]], [[Sling]]
+**Items** [[DATABASE/weapon/Light Pick|light pick]], [[DATABASE/weapon/Sling|sling (20 bullets)]]
 
 ---
 **AC** 17; **Fort** +7, **Ref** +9, **Will** +5
@@ -89,5 +89,5 @@ Deep gnome scouts patrol the tunnels that lead into their settlements. Some scou
 
 ---
 **Speed** 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> light pick +7 [+3/-1] (agile, fatal d8), **Damage** 1d4+2 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> sling +9 [+4/-1] (propulsive, range increment 50 feet, reload 1), **Damage** 1d6+1 bludgeoning</span>**Primal Innate Spells** DC 14; **1st** _[[Illusory Disguise]]_
-<span class="in-box-ability">**Hidden Movement** If the deep gnome scout starts its turn undetected or hidden to a creature, that creature is [[Flat-Footed]] against the deep gnome scout’s attacks until the end of the turn.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> light pick +7 [+3/-1] (agile, fatal d8), **Damage** 1d4+2 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> sling +9 [+4/-1] (propulsive, range increment 50 feet, reload 1), **Damage** 1d6+1 bludgeoning</span>**Primal Innate Spells** DC 14; **1st** _[[DATABASE/spell/Illusory Disguise|illusory disguise]]_
+<span class="in-box-ability">**Hidden Movement** If the deep gnome scout starts its turn undetected or hidden to a creature, that creature is [[DATABASE/condition/Flat-Footed|flat-footed]] against the deep gnome scout’s attacks until the end of the turn.</span>

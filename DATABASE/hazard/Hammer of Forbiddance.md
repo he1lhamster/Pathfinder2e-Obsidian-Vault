@@ -17,6 +17,7 @@ name: Hammer of Forbiddance
 rarity: Common
 reflex: '+15'
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
@@ -31,13 +32,13 @@ will: null
 # Hammer of Forbiddance<span class="item-type">Hazard 11</span>
 
 <span class="item-trait">Magical</span><span class="item-trait">Mechanical</span><span class="item-trait">Trap</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Complexity** Simple
 **Stealth** DC 30 (expert)
 **Description** An enormous hammer at an edifice’s entrance swings down in an attempt to damage a creature entering an area, push it back, and prevent it from going any further.
 
 ---
-**Disable** [[Thievery]] DC 28 (expert) once on the hammer itself and once on its joint to prevent the hammer from swinging
+**Disable** [[DATABASE/skill/Thievery|Thievery]] DC 28 (expert) once on the hammer itself and once on its joint to prevent the hammer from swinging
 **AC** 32, **Fort** +24, **Ref** +15
 **Hammer Hardness** 22, **Hammer HP** 88 (44); **Joint Hardness** 16, **Joint HP** 64 (BT 32); **Immunities** critical hits, object immunities, precision damage
 **Forbid Entry** <span class="action-icon">5</span> (abjuration, attack, divine); **Trigger** A creature attempts to enter through the entrance. **Effect** The hammer swings down, making an attack against the triggering creature.

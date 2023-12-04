@@ -67,20 +67,20 @@ wisdom: '+1'
 # Lekmek
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 28
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 28
 **Unspecific Lore**: DC 26
 **Specific Lore**: DC 23
 
 # Lekmek<span class="item-type">Creature 3</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Small</span><span class="item-trait">Humanoid</span><span class="item-trait">Kobold</span>
-**Source** [[Crown of the Kobold King]]
-Male [[Kobold]] bully
-**Perception** +8; [[Darkvision]]
-**Languages** [[Common]], [[Draconic]]
-**Skills** [[Athletics]] +11, [[Crafting]] +7 (+9 traps), [[Intimidation]] +9, [[Lore]] +7, [[Survival]] +8
+**Source** [[DATABASE/source/Crown of the Kobold King|Crown of the Kobold King]]
+Male [[DATABASE/ancestry/Kobold|kobold]] bully
+**Perception** +8; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Draconic|Draconic]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +11, [[DATABASE/skill/Crafting|Crafting]] +7 (+9 traps), [[DATABASE/skill/Intimidation|Intimidation]] +9, [[DATABASE/skill/Lore|Mining Lore]] +7, [[DATABASE/skill/Survival|Survival]] +8
 **Str** +4, **Dex** +0, **Con** +3, **Int** +0, **Wis** +1, **Cha** +2
-**Items** [[Greatpick]], [[Studded Leather Armor]]
+**Items** [[DATABASE/weapon/Greatpick|greatpick]], [[DATABASE/armor/Studded Leather Armor|studded leather armor]]
 
 ---
 **AC** 16; **Fort** +10, **Ref** +7, **Will** +8

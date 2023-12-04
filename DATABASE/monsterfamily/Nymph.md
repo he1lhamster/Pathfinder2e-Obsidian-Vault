@@ -3,6 +3,7 @@ creature_family: Nymph
 id: '77'
 name: Nymph
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,7 +11,7 @@ type: Creature Family
 ---
 # Nymph
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Nymphs are a family of fey that take the form of beautiful humanoids with elven features and have a deep association with the natural world. The most common of their kind are the dryads, which are spirits that embody great trees, but many other kinds of nymphs exist, including naiads, who watch over bodies of water. All nymphs are guardians of some element of nature, typically a specific tree or pond, or even—in the case of nymph queens—whole forests or massive bodies of water.
 
 ## Nymph Queens
@@ -29,7 +30,7 @@ A nymph queen is 6 to 10 levels higher than an ordinary nymph of the same type, 
 
 ### Members
 
-[[Dryad]] (Creature 3), [[Dryad Queen (Hamadryad)]] (Creature 13), [[Hesperid]] (Creature 9), [[Hesperid Queen]] (Creature 19), [[Lampad]] (Creature 5), [[Lampad Queen]] (Creature 15), [[Naiad]] (Creature 1), [[Naiad Queen]] (Creature 7), [[Hora]] (Creature 6), [[Hora Queen]] (Creature 13)
+[[DATABASE/monster/Dryad|Dryad]] (Creature 3), [[DATABASE/monster/Dryad Queen (Hamadryad)|Dryad Queen]] (Creature 13), [[DATABASE/monster/Hesperid|Hesperid]] (Creature 9), [[DATABASE/monster/Hesperid Queen|Hesperid Queen]] (Creature 19), [[DATABASE/monster/Lampad|Lampad]] (Creature 5), [[DATABASE/monster/Lampad Queen|Lampad Queen]] (Creature 15), [[DATABASE/monster/Naiad|Naiad]] (Creature 1), [[DATABASE/monster/Naiad Queen|Naiad Queen]] (Creature 7), [[DATABASE/monster/Hora|Summer Hora]] (Creature 6), [[DATABASE/monster/Hora Queen|Summer Hora Queen]] (Creature 13)
 
 ###  Inspirations for Art
 

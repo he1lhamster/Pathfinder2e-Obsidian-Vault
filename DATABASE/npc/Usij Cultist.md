@@ -65,24 +65,24 @@ wisdom: '+3'
 # Usij Cultist
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 20
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 20
 **Unspecific Lore**: DC 18
 **Specific Lore**: DC 15
 
 # Usij Cultist<span class="item-type">Creature 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[The Enmity Cycle]]
+**Source** [[DATABASE/source/The Enmity Cycle|The Enmity Cycle]]
 **Perception** +9
-**Languages** [[Common]], [[Osiriani]]
-**Skills** [[Athletics]] +10, [[Deception]] +9, [[Intimidation]] +9, [[Religion]] +5, [[Stealth]] +9
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Osiriani|Osiriani]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +10, [[DATABASE/skill/Deception|Deception]] +9, [[DATABASE/skill/Intimidation|Intimidation]] +9, [[DATABASE/skill/Religion|Religion]] +5, [[DATABASE/skill/Stealth|Stealth]] +9
 **Str** +4, **Dex** +2, **Con** +3, **Int** +2, **Wis** +3, **Cha** +3
-**Items** [[Religious Symbol]] of [[Ahriman]], [[Leather Armor]], [[Scimitar]], [[Whip]]
+**Items** [[DATABASE/equipment/Religious Symbol|religious symbol]] of [[DATABASE/deity/Ahriman|Ahriman]], [[DATABASE/armor/Leather Armor|leather armor]], [[DATABASE/weapon/Scimitar|scimitar]], [[DATABASE/weapon/Whip|whip]]
 
 ---
 **AC** 18; **Fort** +12, **Ref** +7, **Will** +8
 **HP** 50
-<span class="in-box-ability">**Tripping Whip <span class="action-icon">5</span> ** **Requirements** The Usij cultist must have a [[Whip]] in their hands; **Trigger** A creature moves out of a threatened square; **Effect** The Usij cultist makes a [[Trip]] attempt against the triggering creature with their whip.</span>
+<span class="in-box-ability">**Tripping Whip <span class="action-icon">5</span> ** **Requirements** The Usij cultist must have a [[DATABASE/weapon/Whip|whip]] in their hands; **Trigger** A creature moves out of a threatened square; **Effect** The Usij cultist makes a [[DATABASE/action/Trip|Trip]] attempt against the triggering creature with their whip.</span>
 
 ---
 **Speed** 25 feet

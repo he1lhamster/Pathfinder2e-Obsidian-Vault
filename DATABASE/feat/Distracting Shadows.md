@@ -11,6 +11,7 @@ name: Distracting Shadows
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,17 +24,17 @@ type: Feat
 # Distracting Shadows <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Halfling</span>
-**Source** [[Core Rulebook]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
-You have learned to remain hidden by using larger folk as a distraction to avoid drawing attention to yourself. You can use creatures that are at least one size larger than you (usually Medium or larger) as cover for the [[Hide]] and [[Sneak]] actions, though you still can't use such creatures as cover for other uses, such as the [[Take Cover]] action.
+You have learned to remain hidden by using larger folk as a distraction to avoid drawing attention to yourself. You can use creatures that are at least one size larger than you (usually Medium or larger) as cover for the [[DATABASE/action/Hide|Hide]] and [[DATABASE/action/Sneak|Sneak]] actions, though you still can't use such creatures as cover for other uses, such as the [[DATABASE/action/Take Cover|Take Cover]] action.
 
 ## Distracting Shadows Leads To...
 
-[[Ceaseless Shadows]]
+[[DATABASE/feat/Ceaseless Shadows|Ceaseless Shadows]]
 
 ## Traits
 
 **Halfling:**
 
-A creature with this trait is a member of the [[Halfling]] ancestry. These small people are friendly wanderers considered to be lucky. An ability with this trait can be used or selected only by halflings. A weapon with this trait is created and used by halflings.
+A creature with this trait is a member of the [[DATABASE/ancestry/Halfling|halfling]] ancestry. These small people are friendly wanderers considered to be lucky. An ability with this trait can be used or selected only by halflings. A weapon with this trait is created and used by halflings.

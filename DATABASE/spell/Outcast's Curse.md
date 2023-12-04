@@ -21,6 +21,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -41,9 +42,9 @@ type: Spell
 # Outcast's Curse<span class="item-type">Spell 4</span>
 
 <span class="item-trait">Curse</span><span class="item-trait">Enchantment</span><span class="item-trait">Mental</span><span class="item-trait">Misfortune</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, divine, occult
-**Bloodline** [[Hag]]
+**Bloodline** [[DATABASE/sorcererbloodline/Hag|hag]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** touch; **Targets** 1 creature
 **Saving Throw** Will

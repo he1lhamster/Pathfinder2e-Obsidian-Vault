@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Lich Soul Cage<span class="item-type">Item 12</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Arcane</span><span class="item-trait">Necromancy</span><span class="item-trait">Negative</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Price** 1,600 gp
 **Usage** held in 1 hand; **Bulk** —
 

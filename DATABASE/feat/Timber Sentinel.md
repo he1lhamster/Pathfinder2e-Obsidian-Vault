@@ -11,6 +11,7 @@ name: Timber Sentinel
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -27,10 +28,10 @@ type: Feat
 # Timber Sentinel <span class="action-icon">2</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Plant</span><span class="item-trait">Primal</span><span class="item-trait">Wood</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
-A slim, symmetrical tree travels from the Plane of Wood. You conjure a tree within 30 feet, as a [[Protector Tree]] spell of a rank equal to half your level rounded up. If you use this impulse again, any previous one ends, and an ordinary tree remains.
+A slim, symmetrical tree travels from the Plane of Wood. You conjure a tree within 30 feet, as a [[DATABASE/spell/Protector Tree|protector tree]] spell of a rank equal to half your level rounded up. If you use this impulse again, any previous one ends, and an ordinary tree remains.
 
 ## Traits
 

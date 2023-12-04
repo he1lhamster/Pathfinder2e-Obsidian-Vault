@@ -18,6 +18,7 @@ name: Brown Mold
 rarity: Common
 reflex: '+5'
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
@@ -32,13 +33,13 @@ will: null
 # Brown Mold<span class="item-type">Hazard 2</span>
 
 <span class="item-trait">Environmental</span><span class="item-trait">Fungus</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Complexity** Simple
 **Stealth** DC 21 (trained)
 **Description** This unassuming fungus leeches heat out of the air.
 
 ---
-**Disable** DC 18 [[Survival]] (trained) to safely remove the mold
+**Disable** DC 18 [[DATABASE/skill/Survival|Survival]] (trained) to safely remove the mold
 **Emit Cold** (aura, cold); 5 feet. Brown mold deals 2d6 cold damage to nearby creatures.
 **AC** 18, **Fort** +11, **Ref** +5
 **HP** 30 (BT 15); **Immunities** critical hits, fire, object immunities, precision damage, **Weaknesses** cold 10

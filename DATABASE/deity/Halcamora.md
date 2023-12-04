@@ -23,6 +23,7 @@ follower_alignment:
 id: '120'
 name: Halcamora
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Nature|Nature]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -32,7 +33,7 @@ type: Deity
 ---
 # Halcamora (Lady of Ripe Bounty) [NG]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Category** Empyreal Lords
 **Edicts** Cultivate gardens, share wine, keep helpful insects, teach others to farm
 **Anathema** Salt or despoil the earth, spread plague or pestilence, carelessly use pesticides
@@ -40,9 +41,9 @@ type: Deity
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Constitution or Wisdom
-**Divine Font** _[[Heal]]_
-**Divine Skill** [[Nature]]
-**Favored Weapon** [[Club]]
-**Domains** [[Indulgence Domain]], [[Luck Domain]], [[Nature Domain]], [[Swarm Domain]]
-**Cleric Spells** 1st: _[[Summon Plant or Fungus]]_, 2nd: _[[Touch of Idiocy]]_, 4th: _[[Speak with Plants]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Constitution or Wisdom
+**Divine Font** _[[DATABASE/spell/Heal|heal]]_
+**Divine Skill** [[DATABASE/skill/Nature|Nature]]
+**Favored Weapon** [[DATABASE/weapon/Club|club]]
+**Domains** [[DATABASE/domain/Indulgence Domain|indulgence]], [[DATABASE/domain/Luck Domain|luck]], [[DATABASE/domain/Nature Domain|nature]], [[DATABASE/domain/Swarm Domain|swarm]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Summon Plant or Fungus|summon plant or fungus]]_, 2nd: _[[DATABASE/spell/Touch of Idiocy|touch of idiocy]]_, 4th: _[[DATABASE/spell/Speak with Plants|speak with plants]]_

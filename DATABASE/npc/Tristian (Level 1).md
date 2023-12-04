@@ -87,20 +87,20 @@ wisdom: '+4'
 # Tristian (Level 1)
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 25
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 25
 **Unspecific Lore**: DC 23
 **Specific Lore**: DC 20
 
 # Tristian (Level 1)<span class="item-type">Creature 1</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NG</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Aasimar</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Kingmaker Companion Guide]]
-Male aasimar human cleric of Sarenrae ([[Nomad]] background)
-**Perception** +7; (trained) [[Low-Light Vision]]
-**Languages** [[Aklo]], [[Celestial]], [[Common]], [[Kelish]], [[Sylvan]]
-**Skills** [[Diplomacy]] +5 (trained), [[Lore]] +4 (trained), [[Medicine]] +7 (trained), [[Nature]] +4 (trained), [[Occultism]] +4 (trained), [[Religion]] +4 (trained), [[Society]] +4 (trained), [[Survival]] +7 (trained)
+**Source** [[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]
+Male aasimar human cleric of Sarenrae ([[DATABASE/background/Nomad|Nomad]] background)
+**Perception** +7; (trained) [[DATABASE/monsterability/Low-Light Vision|low-light vision]]
+**Languages** [[DATABASE/language/Aklo|Aklo]], [[DATABASE/language/Celestial|Celestial]], [[DATABASE/language/Common|Common]], [[DATABASE/language/Kelish|Kelish]], [[DATABASE/language/Sylvan|Sylvan]]
+**Skills** [[DATABASE/skill/Diplomacy|Diplomacy]] +5 (trained), [[DATABASE/skill/Lore|Forest Lore]] +4 (trained), [[DATABASE/skill/Medicine|Medicine]] +7 (trained), [[DATABASE/skill/Nature|Nature]] +4 (trained), [[DATABASE/skill/Occultism|Occultism]] +4 (trained), [[DATABASE/skill/Religion|Religion]] +4 (trained), [[DATABASE/skill/Society|Society]] +4 (trained), [[DATABASE/skill/Survival|Survival]] +7 (trained)
 **Str** +0, **Dex** +1, **Con** +1, **Int** +1, **Wis** +4, **Cha** +2
-**Items** [[Crossbow]], [[Explorer's Clothing]], [[Healer's Tools]], [[Healing Potion]], [[Rations]], [[Religious Text]], [[Scimitar]], [[Religious Symbol]], [[Waterskin]]
+**Items** [[DATABASE/weapon/Crossbow|crossbow (20 bolts)]], [[DATABASE/armor/Explorer's Clothing|explorer's clothing]], [[DATABASE/equipment/Healer's Tools|healer's tools]], [[DATABASE/equipment/Healing Potion|minor healing potion]], [[DATABASE/equipment/Rations|rations (1 week)]], [[DATABASE/equipment/Religious Text|religious text of Sarenrae]], [[DATABASE/weapon/Scimitar|scimitar]], [[DATABASE/equipment/Religious Symbol|silver religious symbol of Sarenrae]], [[DATABASE/equipment/Waterskin|waterskin]]
 
 ---
 **AC** 14; **Fort** +4, **Ref** +4, **Will** +9
@@ -108,6 +108,6 @@ Male aasimar human cleric of Sarenrae ([[Nomad]] background)
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> scimitar +3 [-2/-7] (forceful, sweep), **Damage** 1d6 slashing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> crossbow +4 [-1/-6] (range 120 feet), **Damage** 1d8 piercing</span>**Divine Prepared Spells** DC 17, attack +7; **1st** _[[Heal]]_ (×3), _[[Protection]]_, _[[Sanctuary]]_; **Cantrips** **(1st)** _[[Disrupt Undead]]_, _[[Divine Lance]]_, _[[Forbidding Ward]]_, _[[Shield]]_, _[[Stabilize]]_
-**Cleric Domain Spells 1 Focus Point,** DC 17; **1st** _[[Healer's Blessing]]_
-<span class="in-box-ability">**Ancestry Feats** [[Angelkin]]</span><span class="in-box-ability">**Class Feats** [[Domain Initiate]] ([[Healing Domain]])</span><span class="in-box-ability">**Class Abilities** Deity ([[Sarenrae]]), Divine Spellcasting,</span><span class="in-box-ability">**Divine Font** (heal), Doctrine (cloistered cleric)</span><span class="in-box-ability">**Skill Feats** [[Assurance]] (Survival), [[Multilingual]]</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> scimitar +3 [-2/-7] (forceful, sweep), **Damage** 1d6 slashing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> crossbow +4 [-1/-6] (range 120 feet), **Damage** 1d8 piercing</span>**Divine Prepared Spells** DC 17, attack +7; **1st** _[[DATABASE/spell/Heal|heal]]_ (×3), _[[DATABASE/spell/Protection|protection]]_, _[[DATABASE/spell/Sanctuary|sanctuary]]_; **Cantrips** **(1st)** _[[DATABASE/spell/Disrupt Undead|disrupt undead]]_, _[[DATABASE/spell/Divine Lance|divine lance]]_, _[[DATABASE/spell/Forbidding Ward|forbidding ward]]_, _[[DATABASE/spell/Shield|shield]]_, _[[DATABASE/spell/Stabilize|stabilize]]_
+**Cleric Domain Spells 1 Focus Point,** DC 17; **1st** _[[DATABASE/spell/Healer's Blessing|healer's blessing]]_
+<span class="in-box-ability">**Ancestry Feats** [[DATABASE/feat/Angelkin|Angelkin]]</span><span class="in-box-ability">**Class Feats** [[DATABASE/feat/Domain Initiate|Domain Initiate]] ([[DATABASE/domain/Healing Domain|Healing]])</span><span class="in-box-ability">**Class Abilities** Deity ([[DATABASE/deity/Sarenrae|Sarenrae]]), Divine Spellcasting,</span><span class="in-box-ability">**Divine Font** (heal), Doctrine (cloistered cleric)</span><span class="in-box-ability">**Skill Feats** [[DATABASE/feat/Assurance|Assurance]] (Survival), [[DATABASE/feat/Multilingual|Multilingual]]</span>

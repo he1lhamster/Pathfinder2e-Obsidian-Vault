@@ -11,6 +11,7 @@ name: Counter Curse
 prerequisite: '[[DATABASE/feat/Curse Maelstrom Dedication|Curse Maelstrom Dedication]]'
 rarity: Common
 requirement: You are in a curse maelstrom state.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -25,9 +26,9 @@ type: Feat
 # Counter Curse <span class="action-icon">5</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Dark Archive]]
-**Archetype** [[Curse Maelstrom]]
-**Prerequisites** [[Curse Maelstrom Dedication]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Archetype** [[DATABASE/archetype/Curse Maelstrom|Curse Maelstrom]]
+**Prerequisites** [[DATABASE/feat/Curse Maelstrom Dedication|Curse Maelstrom Dedication]]
 **Trigger** You or an ally within 30 feet is targeted by or in the emanation of a curse or misfortune effect from an opponent or object of which you are aware.
 **Requirements** You are in a curse maelstrom state.
 
@@ -36,7 +37,7 @@ You gather the energy of your maelstrom and fling its unleashed power into the e
 
 ## Counter Curse Leads To...
 
-[[Reverse Curse]]
+[[DATABASE/feat/Reverse Curse|Reverse Curse]]
 
 ## Traits
 

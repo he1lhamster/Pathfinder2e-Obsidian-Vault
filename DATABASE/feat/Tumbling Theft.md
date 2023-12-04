@@ -11,6 +11,7 @@ name: Tumbling Theft
 prerequisite: Expert in [[DATABASE/skill/Acrobatics|Acrobatics]] ; Expert in [[DATABASE/skill/Thievery|Thievery]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
 subcategory: thievery
@@ -24,11 +25,11 @@ type: Feat
 # Tumbling Theft <span class="item-type">Feat 7</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Firebrands]]
-**Prerequisites** expert in [[Acrobatics]] and [[Thievery]]
+**Source** [[DATABASE/source/Firebrands|Firebrands]]
+**Prerequisites** expert in [[DATABASE/skill/Acrobatics|Acrobatics]] and [[DATABASE/skill/Thievery|Thievery]]
 
 ---
-You reach for an opponent's item as you move past a foe. If you critically succeed your check to [[Tumble Through]] an enemy's space, you can attempt to [[Steal]] something from the enemy as a reaction. You gain a +1 circumstance bonus to your Thievery check to Steal as your tumbling makes it difficult for your enemy to keep track of your movement. You can Steal any immediately accessible item of light or lighter Bulk on the enemy's person, such as a potion or coin purse hanging from a belt, but not anything inside a container or anything the enemy is holding. The GM has final say on what you can Steal.
+You reach for an opponent's item as you move past a foe. If you critically succeed your check to [[DATABASE/action/Tumble Through|Tumble Through]] an enemy's space, you can attempt to [[DATABASE/action/Steal|Steal]] something from the enemy as a reaction. You gain a +1 circumstance bonus to your Thievery check to Steal as your tumbling makes it difficult for your enemy to keep track of your movement. You can Steal any immediately accessible item of light or lighter Bulk on the enemy's person, such as a potion or coin purse hanging from a belt, but not anything inside a container or anything the enemy is holding. The GM has final say on what you can Steal.
 
 ## Traits
 

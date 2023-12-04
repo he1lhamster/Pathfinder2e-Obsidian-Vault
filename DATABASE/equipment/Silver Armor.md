@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -50,7 +51,7 @@ weapon_type: null
 ---
 # Silver Armor<span class="item-type">Item 5+</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** worn armor; **Bulk** varies by armor
 
 ---
@@ -58,22 +59,22 @@ Silver armor sickens certain creatures that touch it. A creature with weakness t
 
 ### Base Material
 
-[[Silver]]
+[[DATABASE/equipment/Silver|Silver]]
 
 ## Silver Armor (Low-Grade)<span class="item-type">Item 5</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 140 gp (+14 gp per Bulk)
 **Craft Requirements** silver worth at least 70 sp + 7 sp per Bulk
 
 ## Silver Armor (Standard-Grade)<span class="item-type">Item 11</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 1,200 gp (+120 gp per Bulk)
 **Craft Requirements** The initial raw materials must include silver worth at least 150 gp + 15 gp per Bulk.
 
 ## Silver Armor (High-Grade)<span class="item-type">Item 18</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 20,000 gp (+2,000 gp per Bulk)
 **Craft Requirements** The initial raw materials must include silver worth at least 10,000 gp + 1,000 gp per Bulk.

@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -50,17 +51,17 @@ weapon_type: null
 ---
 # Cotton<span class="item-type">Item 0+</span>
 
-**Source** [[Travel Guide]]
+**Source** [[DATABASE/source/Travel Guide|Travel Guide]]
 **Bulk** —
 
 ---
 
 ## Cotton (1 Bulk)<span class="item-type">Item 0</span>
 
-**Source** [[Travel Guide]]
+**Source** [[DATABASE/source/Travel Guide|Travel Guide]]
 **Price** 2 gp
 
 ## Cotton (Bale)<span class="item-type">Item 0</span>
 
-**Source** [[Travel Guide]]
+**Source** [[DATABASE/source/Travel Guide|Travel Guide]]
 **Price** 100 gp

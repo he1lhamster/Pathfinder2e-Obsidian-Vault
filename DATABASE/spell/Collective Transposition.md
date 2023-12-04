@@ -24,6 +24,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -41,10 +42,10 @@ type: Spell
 # Collective Transposition<span class="item-type">Spell 6</span>
 
 <span class="item-trait">Conjuration</span><span class="item-trait">Teleportation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult
-**Bloodline** [[Shadow]]
-**Deities** [[Andoletta]], [[Bolka]]
+**Bloodline** [[DATABASE/sorcererbloodline/Shadow|shadow]]
+**Deities** [[DATABASE/deity/Andoletta|Andoletta]], [[DATABASE/deity/Bolka|Bolka]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Area** 30-foot emanation; **Targets** up to 2 creatures
 

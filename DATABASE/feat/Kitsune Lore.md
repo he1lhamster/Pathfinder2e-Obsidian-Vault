@@ -11,6 +11,7 @@ name: Kitsune Lore
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Kitsune Lore <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Kitsune</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-You excel at navigating social situations and keeping secrets. You gain the trained proficiency rank in [[Diplomacy]] and [[Deception]]. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. You also become trained in [[Lore]].
+You excel at navigating social situations and keeping secrets. You gain the trained proficiency rank in [[DATABASE/skill/Diplomacy|Diplomacy]] and [[DATABASE/skill/Deception|Deception]]. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. You also become trained in [[DATABASE/skill/Lore|Kitsune Lore]].
 
 ## Traits
 

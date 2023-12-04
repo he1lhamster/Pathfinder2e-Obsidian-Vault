@@ -12,6 +12,7 @@ level: '0'
 name: Armored Cloak
 price: 2 gp
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
 speed_penalty: null
 strength: '+12'
@@ -25,7 +26,7 @@ type: Armor
 # Armored Cloak
 
 <span class="item-trait">Comfort</span><span class="item-trait">Flexible</span>
-**Source** [[Firebrands]]
+**Source** [[DATABASE/source/Firebrands|Firebrands]]
 **Price** 2 gp; **AC Bonus** +1; **Dex Cap** +3; **Check Penalty** -1; **Speed Penalty** —
 **Strength** 12; **Bulk** L; **Category** Light; **Group** —
 
@@ -40,4 +41,4 @@ The armor is so comfortable that you can rest normally while wearing it.
 
 **Flexible:**
 
-The armor is flexible enough that it doesn't hinder most actions. You don't apply its check penalty to [[Acrobatics]] or [[Athletics]] checks.
+The armor is flexible enough that it doesn't hinder most actions. You don't apply its check penalty to [[DATABASE/skill/Acrobatics|Acrobatics]] or [[DATABASE/skill/Athletics|Athletics]] checks.

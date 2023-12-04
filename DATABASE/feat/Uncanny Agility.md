@@ -11,6 +11,7 @@ name: Uncanny Agility
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Uncanny Agility <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Tengu</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-You have near-supernatural poise that lets you move swiftly across the most unsteady surfaces. You gain the [[Steady Balance]] skill feat. You can Step into difficult terrain caused by uneven ground, such as a rocky field or hilly incline.
+You have near-supernatural poise that lets you move swiftly across the most unsteady surfaces. You gain the [[DATABASE/feat/Steady Balance|Steady Balance]] skill feat. You can Step into difficult terrain caused by uneven ground, such as a rocky field or hilly incline.
 
 ## Traits
 

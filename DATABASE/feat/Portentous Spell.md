@@ -11,6 +11,7 @@ name: Portentous Spell
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -27,10 +28,10 @@ type: Feat
 # Portentous Spell <span class="action-icon">1</span> <span class="item-type">Feat 16</span>
 
 <span class="item-trait">Manipulate</span><span class="item-trait">Mental</span><span class="item-trait">Metamagic</span><span class="item-trait">Oracle</span><span class="item-trait">Visual</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
-Your spellcasting is rife with strange lights, esoteric gestures, and other captivating effects that befuddle your foes. If the next action you use is to Cast a Spell, any creature that attempts to use a reaction triggered by your Cast a Spell activity takes a –2 circumstance penalty to attack rolls and skill checks rolled as part of the reaction. In addition, if the spell includes a spell attack roll or requires a saving throw, creatures you hit or that fail their saves are [[Fascinated]] with you until the start of your next turn.
+Your spellcasting is rife with strange lights, esoteric gestures, and other captivating effects that befuddle your foes. If the next action you use is to Cast a Spell, any creature that attempts to use a reaction triggered by your Cast a Spell activity takes a –2 circumstance penalty to attack rolls and skill checks rolled as part of the reaction. In addition, if the spell includes a spell attack roll or requires a saving throw, creatures you hit or that fail their saves are [[DATABASE/condition/Fascinated|fascinated]] with you until the start of your next turn.
 
 ## Traits
 

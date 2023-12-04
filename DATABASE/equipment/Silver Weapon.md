@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -50,7 +51,7 @@ weapon_type: null
 ---
 # Silver Weapon<span class="item-type">Item 2+</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** varies by weapon; **Bulk** varies by weapon
 
 ---
@@ -58,22 +59,22 @@ Silver weapons deal additional damage to creatures with weakness to silver, like
 
 ### Base Material
 
-[[Silver]]
+[[DATABASE/equipment/Silver|Silver]]
 
 ## Silver Weapon (Low-Grade)<span class="item-type">Item 2</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 40 gp (+4 gp per Bulk)
 **Craft Requirements** at least 20 sp of silver + 2 sp per Bulk
 
 ## Silver Weapon (Standard-Grade)<span class="item-type">Item 10</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 880 gp (+88 gp per Bulk)
 **Craft Requirements** at least 110 gp of silver + 11 gp per Bulk
 
 ## Silver Weapon (High-Grade)<span class="item-type">Item 16</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 9,000 gp (+900 gp per Bulk)
 **Craft Requirements** at least 4,500 gp of silver + 450 gp per Bulk

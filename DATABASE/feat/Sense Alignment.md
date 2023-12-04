@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Edgewatch Detective Dedication|Edgewatch Detectiv
   Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 157. Devil at the Dreaming Palace|Pathfinder
   #157: Devil at the Dreaming Palace]]'
@@ -26,12 +27,12 @@ type: Feat
 # Sense Alignment <span class="action-icon">3</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Secret</span>
-**Source** [[Pathfinder 157. Devil at the Dreaming Palace]]
-**Archetype** [[Edgewatch Detective]]
-**Prerequisites** [[Edgewatch Detective Dedication]]
+**Source** [[DATABASE/source/Pathfinder 157. Devil at the Dreaming Palace|Pathfinder #157: Devil at the Dreaming Palace]]
+**Archetype** [[DATABASE/archetype/Edgewatch Detective|Edgewatch Detective]]
+**Prerequisites** [[DATABASE/feat/Edgewatch Detective Dedication|Edgewatch Detective Dedication]]
 
 ---
-You read the body language of an intelligent creature within 30 feet and pick up on subtle cues to detect its general propensity for good or evil and law or chaos. The GM rolls a secret Perception check, comparing the result against the target's [[Deception]] DC.
+You read the body language of an intelligent creature within 30 feet and pick up on subtle cues to detect its general propensity for good or evil and law or chaos. The GM rolls a secret Perception check, comparing the result against the target's [[DATABASE/skill/Deception|Deception]] DC.
 **Critical Success** You ascertain the target's alignment.
 **Success** You ascertain the target's alignment, but only along one axis (your choice of either the good-evil axis or the lawful-chaotic axis).
 **Failure** You do not learn the target's alignment.

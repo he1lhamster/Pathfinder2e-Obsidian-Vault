@@ -2,6 +2,7 @@
 id: '296'
 name: Shoony
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 153. Life''s Long Shadows|Pathfinder #153: Life''s
   Long Shadows]]'
 trait:
@@ -11,17 +12,16 @@ type: Trait
 ---
 # Shoony
 
-**Source** [[Pathfinder 153. Life's Long Shadows]]
-_Note from Nethys: no description was provided for this trait_
+**Source** [[DATABASE/source/Pathfinder 153. Life's Long Shadows|Pathfinder #153: Life's Long Shadows]]
 
 ## Ancestries
 
-[[Shoony]]
+[[DATABASE/ancestry/Shoony|Shoony]]
 
 ## Feats
 
-[[Dig Quickly]], [[Esteemed Visitor]], [[Handy with Your Paws]], [[Improvisational Defender]], [[Improvisational Warrior]], [[Loyal Empath]], [[Practiced Paddler]], [[Scamper Underfoot]], [[Shoony Lore]], [[Sodbuster]], [[Steadfast Ally]], [[Tough Tumbler]], [[Unrivaled Builder]]
+[[DATABASE/feat/Dig Quickly|Dig Quickly]], [[DATABASE/feat/Esteemed Visitor|Esteemed Visitor]], [[DATABASE/feat/Handy with Your Paws|Handy with Your Paws]], [[DATABASE/feat/Improvisational Defender|Improvisational Defender]], [[DATABASE/feat/Improvisational Warrior|Improvisational Warrior]], [[DATABASE/feat/Loyal Empath|Loyal Empath]], [[DATABASE/feat/Practiced Paddler|Practiced Paddler]], [[DATABASE/feat/Scamper Underfoot|Scamper Underfoot]], [[DATABASE/feat/Shoony Lore|Shoony Lore]], [[DATABASE/feat/Sodbuster|Sodbuster]], [[DATABASE/feat/Steadfast Ally|Steadfast Ally]], [[DATABASE/feat/Tough Tumbler|Tough Tumbler]], [[DATABASE/feat/Unrivaled Builder|Unrivaled Builder]]
 
 ## Monsters
 
-[[Shoony Hierarch]], [[Shoony Militia Member]], [[Shoony Tiller]]
+[[DATABASE/monster/Shoony Hierarch|Shoony Hierarch]], [[DATABASE/monster/Shoony Militia Member|Shoony Militia Member]], [[DATABASE/monster/Shoony Tiller|Shoony Tiller]]

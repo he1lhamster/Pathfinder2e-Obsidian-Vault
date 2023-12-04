@@ -2,6 +2,7 @@
 id: '127'
 name: Blood Lords Player's Guide
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -16,4 +17,4 @@ type: Source
 
 ## Backgrounds [6]
 
-[[Able Carter]], [[Construction Occultist]], [[Corpse Stitcher]], [[Food Trader]], [[Money Counter]], [[Propaganda Promoter]]
+[[DATABASE/background/Able Carter|Able Carter]], [[DATABASE/background/Construction Occultist|Construction Occultist]], [[DATABASE/background/Corpse Stitcher|Corpse Stitcher]], [[DATABASE/background/Food Trader|Food Trader]], [[DATABASE/background/Money Counter|Money Counter]], [[DATABASE/background/Propaganda Promoter|Propaganda Promoter]]

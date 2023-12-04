@@ -2,6 +2,7 @@
 id: '9'
 name: Lesson of Death
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 trait: null
 type: Witch Lesson
@@ -9,6 +10,6 @@ type: Witch Lesson
 ---
 # Lesson of Death
 
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Lesson Type** Major
-You gain the _[[Curse of Death]]_ hex, and your familiar learns _[[Raise Dead]]_.
+You gain the _[[DATABASE/spell/Curse of Death|curse of death]]_ hex, and your familiar learns _[[DATABASE/spell/Raise Dead|raise dead]]_.

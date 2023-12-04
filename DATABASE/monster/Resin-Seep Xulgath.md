@@ -72,19 +72,19 @@ wisdom: '+3'
 # Resin-Seep Xulgath
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 32
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 32
 **Unspecific Lore**: DC 30
 **Specific Lore**: DC 27
 
 # Resin-Seep Xulgath<span class="item-type">Creature 10</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Humanoid</span><span class="item-trait">Xulgath</span>
-**Source** [[Pathfinder 153. Life's Long Shadows]]
-**Perception** +19; [[Darkvision]]
-**Languages** [[Draconic]], [[Undercommon]]
-**Skills** [[Acrobatics]] +23, [[Athletics]] +20, [[Intimidation]] +16, [[Survival]] +19, [[Thievery]] +21
+**Source** [[DATABASE/source/Pathfinder 153. Life's Long Shadows|Pathfinder #153: Life's Long Shadows]]
+**Perception** +19; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Undercommon|Undercommon]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +23, [[DATABASE/skill/Athletics|Athletics]] +20, [[DATABASE/skill/Intimidation|Intimidation]] +16, [[DATABASE/skill/Survival|Survival]] +19, [[DATABASE/skill/Thievery|Thievery]] +21
 **Str** +4, **Dex** +5, **Con** +3, **Int** +1, **Wis** +3, **Cha** +0
-**Items** _+1 [[Striking]] [[Dagger]]_
+**Items** _+1 [[DATABASE/equipment/Striking|striking]] [[DATABASE/weapon/Dagger|dagger]]_
 
 ---
 **AC** 30; **Fort** +19, **Ref** +23, **Will** +17
@@ -92,4 +92,4 @@ This creature did not include a description.
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _dagger_ +21 [+17/+13] (agile, finesse, magical, versatile S), **Damage** 2d4+11 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +20 [+15/+10], **Damage** 1d8+11 piercing plus resin crust</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +20 [+16/+12] (agile, finesse), **Damage** 1d6+11 slashing plus resin crust</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _dagger_ +21 [+17/+13] (agile, magical, thrown 10 feet, versatile S), **Damage** 2d4+11 piercing plus xulgath bile</span><span class="in-box-ability">**Resin Crust** (incapacitation, poison) A creature damaged by a resin-seep xulgath's jaws or claw Strike must succeed at a DC 28 Reflex save or be covered with clumps of noxious resin, taking 2d8 poison damage and a –15-foot penalty to its Speeds for 1 minute (on a critical failure, the creature is also [[Clumsy]] for 1 minute). The creature is [[Sickened]] for as long it has a Speed penalty. A creature can spend an Interact action to scrape the resin off, decreasing the Speed penalty by 5 with each such action.</span><span class="in-box-ability">**Resin Spray** <span class="action-icon">2</span> (poison) The resin-seep xulgath flexes its pores and emits a 30-foot line of resin that deals 3d12 poison damage and knocks the target 5 feet back (DC 28 basic Reflex save; on a success or critical success the target isn't knocked back, and on a critical failure the target is knocked back 10 feet). The resin-seep xulgath can't use Resin Spray again for 1d4 rounds.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _dagger_ +21 [+17/+13] (agile, finesse, magical, versatile S), **Damage** 2d4+11 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +20 [+15/+10], **Damage** 1d8+11 piercing plus resin crust</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +20 [+16/+12] (agile, finesse), **Damage** 1d6+11 slashing plus resin crust</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _dagger_ +21 [+17/+13] (agile, magical, thrown 10 feet, versatile S), **Damage** 2d4+11 piercing plus xulgath bile</span><span class="in-box-ability">**Resin Crust** (incapacitation, poison) A creature damaged by a resin-seep xulgath's jaws or claw Strike must succeed at a DC 28 Reflex save or be covered with clumps of noxious resin, taking 2d8 poison damage and a –15-foot penalty to its Speeds for 1 minute (on a critical failure, the creature is also [[DATABASE/condition/Clumsy|clumsy 1]] for 1 minute). The creature is [[DATABASE/condition/Sickened|sickened 1]] for as long it has a Speed penalty. A creature can spend an Interact action to scrape the resin off, decreasing the Speed penalty by 5 with each such action.</span><span class="in-box-ability">**Resin Spray** <span class="action-icon">2</span> (poison) The resin-seep xulgath flexes its pores and emits a 30-foot line of resin that deals 3d12 poison damage and knocks the target 5 feet back (DC 28 basic Reflex save; on a success or critical success the target isn't knocked back, and on a critical failure the target is knocked back 10 feet). The resin-seep xulgath can't use Resin Spray again for 1d4 rounds.</span>

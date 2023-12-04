@@ -20,6 +20,7 @@ patron_theme: null
 range: 30 feet
 rarity: Rare
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Enchantment
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -41,10 +42,10 @@ type: Cantrip
 # Invoke True Name<span class="item-type">Cantrip 1</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Cantrip</span><span class="item-trait">Enchantment</span><span class="item-trait">True Name</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Traditions** arcane, divine, occult, primal
 **Cast** <span class="action-icon">1</span> verbal
 **Range** 30 feet; **Targets** 1 creature whose true name you know
 
 ---
-You speak the true name of a creature to more surely affect it with your magic. Until the end of the current turn, the target is [[Flat-Footed]] against your spells and takes a –2 circumstance penalty to saving throws against your spells. In addition, the first time this turn the target takes damage from one of your spells, it has weakness to that damage equal to double the level of _invoke true name_.
+You speak the true name of a creature to more surely affect it with your magic. Until the end of the current turn, the target is [[DATABASE/condition/Flat-Footed|flat-footed]] against your spells and takes a –2 circumstance penalty to saving throws against your spells. In addition, the first time this turn the target takes damage from one of your spells, it has weakness to that damage equal to double the level of _invoke true name_.

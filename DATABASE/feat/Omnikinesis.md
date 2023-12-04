@@ -11,6 +11,7 @@ name: Omnikinesis
 prerequisite: reflow elements
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Omnikinesis <span class="action-icon">1</span> <span class="item-type">Feat 20</span>
 
 <span class="item-trait">Kineticist</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Prerequisites** reflow elements
 
 ---

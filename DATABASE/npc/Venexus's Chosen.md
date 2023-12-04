@@ -79,18 +79,18 @@ wisdom: '+2'
 # Venexus's Chosen
 
 This creature did not include a description.
-**Recall Knowledge - Beast ([[Arcana]], [[Nature]])**: DC 27
-**Recall Knowledge - Humanoid ([[Society]])**: DC 27
+**Recall Knowledge - Beast ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 27
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 27
 **Unspecific Lore**: DC 25
 **Specific Lore**: DC 22
 
 # Venexus's Chosen<span class="item-type">Creature 6</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Beast</span><span class="item-trait">Beastkin</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 176. Lost Mammoth Valley]]
-**Perception** +14; [[Darkvision]], [[Scent]] (imprecise) 30 feet
-**Languages** [[Common]], [[Draconic]], [[Hallit]]
-**Skills** [[Acrobatics]] +14, [[Athletics]] +11, [[Intimidation]] +10, [[Stealth]] +12
+**Source** [[DATABASE/source/Pathfinder 176. Lost Mammoth Valley|Pathfinder #176: Lost Mammoth Valley]]
+**Perception** +14; [[DATABASE/monsterability/Darkvision|darkvision]], [[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Hallit|Hallit]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +14, [[DATABASE/skill/Athletics|Athletics]] +11, [[DATABASE/skill/Intimidation|Intimidation]] +10, [[DATABASE/skill/Stealth|Stealth]] +12
 **Str** +3, **Dex** +4, **Con** +2, **Int** +1, **Wis** +2, **Cha** +0
 
 ---
@@ -100,5 +100,5 @@ This creature did not include a description.
 
 ---
 **Speed** 35 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +16 [+12/+8] (agile, finesse, magical, nonlethal, unarmed), **Damage** 1d6+5 bludgeoning</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> tail +16 [+11/+6] (finesse, magical, reach 10 feet, unarmed), **Damage** 1d10+5 bludgeoning plus [[Knockdown]].</span>**Primal Innate Spells** DC 24, attack +16; **3rd** _[[Ray of Frost]]_ (at will)
-<span class="in-box-ability">**Change Shape** <span class="action-icon">1</span> (concentrate, polymorph, primal, transmutation) Venexus's chosen changes between their humanoid shape and hybrid shape. They gain a tail unarmed Strike while in their hybrid shape.</span><span class="in-box-ability">**Flurry of Blows** <span class="action-icon">1</span> **Frequency** once per round; **Effect** Venexus's chosen makes two unarmed Strikes. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses.</span><span class="in-box-ability">**Ice Walk** Venexus's chosen ignores difficult terrain and greater difficult terrain from ice and snow and doesn't risk falling when crossing ice.</span><span class="in-box-ability">**Powerful Fists** Venexus's chosen's fist Strikes are treated as [[Cold Iron Weapon]] and [[Silver Weapon]], and the chosen doesn't take penalties when making lethal attacks.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +16 [+12/+8] (agile, finesse, magical, nonlethal, unarmed), **Damage** 1d6+5 bludgeoning</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> tail +16 [+11/+6] (finesse, magical, reach 10 feet, unarmed), **Damage** 1d10+5 bludgeoning plus [[DATABASE/monsterability/Knockdown|Knockdown]].</span>**Primal Innate Spells** DC 24, attack +16; **3rd** _[[DATABASE/spell/Ray of Frost|ray of frost]]_ (at will)
+<span class="in-box-ability">**Change Shape** <span class="action-icon">1</span> (concentrate, polymorph, primal, transmutation) Venexus's chosen changes between their humanoid shape and hybrid shape. They gain a tail unarmed Strike while in their hybrid shape.</span><span class="in-box-ability">**Flurry of Blows** <span class="action-icon">1</span> **Frequency** once per round; **Effect** Venexus's chosen makes two unarmed Strikes. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses.</span><span class="in-box-ability">**Ice Walk** Venexus's chosen ignores difficult terrain and greater difficult terrain from ice and snow and doesn't risk falling when crossing ice.</span><span class="in-box-ability">**Powerful Fists** Venexus's chosen's fist Strikes are treated as [[DATABASE/equipment/Cold Iron Weapon|cold iron]] and [[DATABASE/equipment/Silver Weapon|silver]], and the chosen doesn't take penalties when making lethal attacks.</span>

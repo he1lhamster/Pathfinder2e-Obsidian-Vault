@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 size: null
@@ -56,34 +57,34 @@ weapon_type: null
 # Jyoti's Feather<span class="item-type">Item 10+</span>
 
 <span class="item-trait">Healing</span><span class="item-trait">Magical</span><span class="item-trait">Necromancy</span><span class="item-trait">Positive</span><span class="item-trait">Spellheart</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Usage** affixed to armor or a weapon; **Bulk** —
 
 ---
-A _jyoti's feather_ is a shimmering red and gold feather, seeming almost metallic, although delicate and flexible to the touch. Though most aren't made from true [[Jyoti]] feathers, as the reclusive outsiders avoid visitors from the [[Material Plane]], their connection to positive energy lent the spellhearts their name.
+A _jyoti's feather_ is a shimmering red and gold feather, seeming almost metallic, although delicate and flexible to the touch. Though most aren't made from true [[DATABASE/monster/Jyoti|jyoti]] feathers, as the reclusive outsiders avoid visitors from the [[DATABASE/plane/Material Plane|Material Plane]], their connection to positive energy lent the spellhearts their name.
 
 * **Armor** You gain a +2 item bonus to saving throws against death effects and negative energy.
-* **Weapon** The weapon has the [[Disrupting]] rune while the feather is affixed.
-**Activate** Cast a Spell ; **Effect** You cast [[Stabilize]].
+* **Weapon** The weapon has the [[DATABASE/equipment/Disrupting|disrupting]] rune while the feather is affixed.
+**Activate** Cast a Spell ; **Effect** You cast [[DATABASE/spell/Stabilize|stabilize]].
 
 ## Jyoti's Feather<span class="item-type">Item 10</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 960 gp
-**Activate** Cast a Spell **Frequency** once per day; **Effect** You cast [[Vital Beacon]].
+**Activate** Cast a Spell **Frequency** once per day; **Effect** You cast [[DATABASE/spell/Vital Beacon|vital beacon]].
 
 ## Jyoti's Feather (Greater)<span class="item-type">Item 14</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 4,100 gp
 The item bonus when affixed to armor is +3.
 **Activate** Cast a Spell **Frequency** once per day; **Effect** You cast 5th-level _vital beacon_.
-**Activate** Cast a Spell **Frequency** once per day; **Effect** You cast [[Healing Well]].
+**Activate** Cast a Spell **Frequency** once per day; **Effect** You cast [[DATABASE/spell/Healing Well|healing well]].
 
 ## Jyoti's Feather (Major)<span class="item-type">Item 16</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 9,400 gp
 The item bonus when affixed to armor is +4, and the rune when affixed to a weapon is _greater disrupting_.
 **Activate** Cast a Spell **Frequency** once per day; **Effect** You cast 6th-level _healing well_.
-**Activate** Cast a Spell **Frequency** once per day; **Effect** You cast [[Field of Life]].
+**Activate** Cast a Spell **Frequency** once per day; **Effect** You cast [[DATABASE/spell/Field of Life|field of life]].

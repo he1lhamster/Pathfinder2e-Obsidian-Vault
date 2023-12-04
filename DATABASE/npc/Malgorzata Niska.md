@@ -77,20 +77,20 @@ wisdom: '+4'
 # Malgorzata Niska
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 30
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 30
 **Unspecific Lore**: DC 28
 **Specific Lore**: DC 25
 
 # Malgorzata Niska<span class="item-type">Creature 5</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 Female human cult leader
 **Perception** +13
-**Languages** [[Common]]
-**Skills** [[Deception]] +13, [[Intimidation]] +13, [[Religion]] +11, [[Society]] +9
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Deception|Deception]] +13, [[DATABASE/skill/Intimidation|Intimidation]] +13, [[DATABASE/skill/Religion|Religion]] +11, [[DATABASE/skill/Society|Society]] +9
 **Str** +4, **Dex** +2, **Con** +0, **Int** +0, **Wis** +4, **Cha** +2
-**Items** wand of [[Heal]] (1st), 23 sp, [[Dagger]], [[Leather Armor]], shabble, [[Religious Symbol]]
+**Items** wand of [[DATABASE/spell/Heal|heal]] (1st), 23 sp, [[DATABASE/weapon/Dagger|dagger]], [[DATABASE/armor/Leather Armor|leather armor]], shabble, [[DATABASE/equipment/Religious Symbol|wooden religious symbol]]
 
 ---
 **AC** 21; **Fort** +9, **Ref** +13, **Will** +15
@@ -99,6 +99,6 @@ Female human cult leader
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> dagger +13 [+9/+5] (agile, finesse, thrown 10 feet, versatile S), **Damage** 1d4+6 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> dagger +13 [+9/+5] (agile, finesse, thrown 10 feet, versatile S), **Damage** 1d4+6 piercing</span>**Divine Prepared Spells** DC 22, attack +14; **3rd** _[[Crisis of Faith]]_, _[[Vampiric Touch]]_; **2nd** _[[Heal]]_, _[[Paranoia]]_, _[[Spiritual Weapon]]_; **1st** _[[Alarm]]_, _[[Bane]]_, _[[Ray of Enfeeblement]]_; **Cantrips** **(3rd)** _[[Chill Touch]]_, _[[Daze]]_, _[[Divine Lance]]_, _[[Light]]_, _[[Shield]]_
-**Cleric Domain Spells 1 Focus Points** DC 22; **3rd** _[[Waking Nightmare]]_
-**Divine Rituals**; **2nd** _[[Consecrate]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> dagger +13 [+9/+5] (agile, finesse, thrown 10 feet, versatile S), **Damage** 1d4+6 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> dagger +13 [+9/+5] (agile, finesse, thrown 10 feet, versatile S), **Damage** 1d4+6 piercing</span>**Divine Prepared Spells** DC 22, attack +14; **3rd** _[[DATABASE/spell/Crisis of Faith|crisis of faith]]_, _[[DATABASE/spell/Vampiric Touch|vampiric touch]]_; **2nd** _[[DATABASE/spell/Heal|heal]]_, _[[DATABASE/spell/Paranoia|paranoia]]_, _[[DATABASE/spell/Spiritual Weapon|spiritual weapon]]_; **1st** _[[DATABASE/spell/Alarm|alarm]]_, _[[DATABASE/spell/Bane|bane]]_, _[[DATABASE/spell/Ray of Enfeeblement|ray of enfeeblement]]_; **Cantrips** **(3rd)** _[[DATABASE/spell/Chill Touch|chill touch]]_, _[[DATABASE/spell/Daze|daze]]_, _[[DATABASE/spell/Divine Lance|divine lance]]_, _[[DATABASE/spell/Light|light]]_, _[[DATABASE/spell/Shield|shield]]_
+**Cleric Domain Spells 1 Focus Points** DC 22; **3rd** _[[DATABASE/spell/Waking Nightmare|waking nightmare]]_
+**Divine Rituals**; **2nd** _[[DATABASE/ritual/Consecrate|consecrate]]_

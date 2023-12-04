@@ -11,6 +11,7 @@ name: Irrepressible (Ganzi)
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Irrepressible (Ganzi) <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Ganzi</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
 Your contrary nature means you bounce back with prejudice. When you roll a success on a save against an emotion or fear effect, you get a critical success instead.

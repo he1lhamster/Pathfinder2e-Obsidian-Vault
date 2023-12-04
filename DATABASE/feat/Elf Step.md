@@ -11,6 +11,7 @@ name: Elf Step
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Elf Step <span class="action-icon">1</span> <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Elf</span>
-**Source** [[Core Rulebook]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
 You move in a graceful dance, and even your steps are broad. You Step 5 feet twice.
@@ -32,4 +33,4 @@ You move in a graceful dance, and even your steps are broad. You Step 5 feet twi
 
 **Elf:**
 
-A creature with this trait is a member of the elf ancestry. Elves are mysterious people with rich traditions of magic and scholarship who typically have [[Low-Light Vision]]. An ability with this trait can be used or selected only by elves. A weapon with this trait is created and used by elves.
+A creature with this trait is a member of the elf ancestry. Elves are mysterious people with rich traditions of magic and scholarship who typically have [[DATABASE/monsterability/Low-Light Vision|low-light vision]]. An ability with this trait can be used or selected only by elves. A weapon with this trait is created and used by elves.

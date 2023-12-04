@@ -16,6 +16,7 @@ name: Hatchet
 price: 4 sp
 range: null
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Agile|Agile]]'
@@ -30,11 +31,11 @@ weapon_type: Melee
 # Hatchet
 
 <span class="item-trait">Agile</span><span class="item-trait">Sweep</span><span class="item-trait">Thrown  10 ft.</span>
-**Source** [[Core Rulebook]] 
-**Favored Weapon** [[Immonhiel]], [[Likha]], [[Narriseminek]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Favored Weapon** [[DATABASE/deity/Immonhiel|Immonhiel]], [[DATABASE/deity/Likha|Likha]], [[DATABASE/deity/Narriseminek|Narriseminek]]
 **Price** 4 sp; **Damage** 1d6 S; **Bulk** L
 **Hands** 1
-**Type** Melee; **Category** Martial; **Group** [[Axe]]
+**Type** Melee; **Category** Martial; **Group** [[DATABASE/weapongroup/Axe|Axe]]
 
 ---
 This small axe can be used in close combat or thrown.
@@ -55,6 +56,6 @@ You can throw this weapon as a ranged attack, and it is a ranged weapon when thr
 
 ## Critical Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
-**Axe**: Choose one creature adjacent to the initial target and within reach. If its AC is lower than your attack roll result for the critical hit, you deal damage to that creature equal to the result of the weapon damage die you rolled (including extra dice for its _[[Striking]]_ rune, if any). This amount isn't doubled, and no bonuses or other additional dice apply to this damage.
+**Axe**: Choose one creature adjacent to the initial target and within reach. If its AC is lower than your attack roll result for the critical hit, you deal damage to that creature equal to the result of the weapon damage die you rolled (including extra dice for its _[[DATABASE/equipment/Striking|striking]]_ rune, if any). This amount isn't doubled, and no bonuses or other additional dice apply to this damage.

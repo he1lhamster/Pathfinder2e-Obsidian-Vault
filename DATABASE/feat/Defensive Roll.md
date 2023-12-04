@@ -11,6 +11,7 @@ name: Defensive Roll
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Defensive Roll <span class="action-icon">4</span> <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Rogue</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Frequency** once per 10 minutes
 **Trigger** A physical attack would reduce you to 0 Hit Points.
 

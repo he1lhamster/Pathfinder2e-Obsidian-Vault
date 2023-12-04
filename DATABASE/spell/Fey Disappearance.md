@@ -20,6 +20,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -36,8 +37,8 @@ type: Focus
 # Fey Disappearance<span class="item-type">Focus 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Enchantment</span><span class="item-trait">Sorcerer</span>
-**Source** [[Core Rulebook]] 
-**Bloodline** [[Fey]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Bloodline** [[DATABASE/sorcererbloodline/Fey|fey]]
 **Cast** <span class="action-icon">1</span> somatic
 **Duration** until the end of your next turn
 

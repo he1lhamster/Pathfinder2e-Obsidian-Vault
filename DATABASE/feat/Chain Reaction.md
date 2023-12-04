@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Unexpected Sharpshooter Dedication|Unexpected Sha
   Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -24,10 +25,10 @@ type: Feat
 # Chain Reaction <span class="action-icon">3</span> <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Guns & Gears]]
-**Archetype** [[Unexpected Sharpshooter]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Archetype** [[DATABASE/archetype/Unexpected Sharpshooter|Unexpected Sharpshooter]]
 **Frequency** once per 10 minutes
-**Prerequisites** [[Unexpected Sharpshooter Dedication]]
+**Prerequisites** [[DATABASE/feat/Unexpected Sharpshooter Dedication|Unexpected Sharpshooter Dedication]]
 
 ---
 You fire your gun once, creating a devastating and unpredictable chain of events; perhaps your bullet strikes exactly the right spot on a water tower, causing it to flood and incite a stampede of horses which knock over a lantern that sets a city on fire. Whatever the exact chain reaction, and no matter how improbable, the indiscriminate catastrophe creates significant challenges for your enemies across a wide area while leaving everyone else alone.

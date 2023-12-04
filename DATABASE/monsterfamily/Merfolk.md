@@ -3,6 +3,7 @@ creature_family: Merfolk
 id: '73'
 name: Merfolk
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Merfolk
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Elegant, mysterious, and graceful; all this and more can be said of the merfolk. These enigmatic people resemble humanoids with delicate features from the waist up but with the fins and tail of a massive fish from the waist down. Found in nearly all of Golarion’s oceans, merfolk are as varied in appearance as humans, their skin ranging from pale to umber and all shades in between, while their gleaming scales shimmer with the majesty of the sea.
 
 ### Members
 
-[[Merfolk Warrior]] (Creature 1), [[Merfolk Wavecaller]] (Creature 2)
+[[DATABASE/monster/Merfolk Warrior|Merfolk Warrior]] (Creature 1), [[DATABASE/monster/Merfolk Wavecaller|Merfolk Wavecaller]] (Creature 2)
 
 ###  Merfolk's Secret
 

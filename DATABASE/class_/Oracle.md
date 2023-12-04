@@ -14,6 +14,7 @@ id: '14'
 name: Oracle
 perception_proficiency: Trained
 rarity: Common
+rus_type_level: null
 skill_proficiency:
 - Trained in Religion
 - Trained in one or more skills determined by your mystery
@@ -26,7 +27,7 @@ type: Class
 
 ---
 # Oracle
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 _Your conduit to divine power eschews the traditional channels of prayer and servitude—you instead glean divine truths that extend beyond any single deity. You understand the great mysteries of the universe embodied in overarching concepts that transcend good and evil or chaos and law, whether because you perceive the common ground across multiple deities or circumvent their power entirely. You explore one of these mysteries and draw upon its power to cast miraculous spells, but that power comes with a terrible price: a curse that grows stronger the more you draw upon it. Your abilities are a double-edged sword, which you might uphold as an instrument of the divine or view as a curse from the gods._
 **Key Ability: CHARISMA**
 At 1st level, your class gives you an ability boost to Charisma.
@@ -90,7 +91,7 @@ Expert in Will
 
 ## Skills
 
-Trained in [[Religion]]
+Trained in [[DATABASE/skill/Religion|Religion]]
  Trained in one or more skills determined by your mystery
  Trained in a number of additional skills equal to 3 plus your Intelligence modifier
 
@@ -111,54 +112,52 @@ Trained in divine spell attack rolls
 
 # Class Features
 
-You gain these features as a Oracle. Abilities gained at higher levels list the levels at which you gain them next to the features' names.
-
-|   Your Level | Class Features                                                                                                    |
-|-------------:|:------------------------------------------------------------------------------------------------------------------|
-|            1 | Ancestry and background, initial proficiencies, divine spellcasting, spell repertoire, mystery                    |
-|            2 | Oracle feat, skill feat                                                                                           |
-|            3 | 2nd-level spells, general feat, signature spells, skill increase                                                  |
-|            4 | Oracle feat, skill feat                                                                                           |
-|            5 | 3rd-level spells, ability boosts, ancestry feat, skill increase                                                   |
-|            6 | Oracle feat, skill feat                                                                                           |
-|            7 | 4th-level spells, expert spellcaster, general feat, resolve, skill increase                                       |
-|            8 | Oracle feat, skill feat                                                                                           |
-|            9 | 5th-level spells, ancestry feat, magical fortitude, skill increase                                                |
-|           10 | Ability boosts, oracle feat, skill feat                                                                           |
-|           11 | 6th-level spells, alertness, general feat, major curse, skill increase, weapon expertise                          |
-|           12 | Oracle feat, skill feat                                                                                           |
-|           13 | 7th-level spells, ancestry feat, light armor expertise, lightning reflexes, skill increase, weapon specialization |
-|           14 | Oracle feat, skill feat                                                                                           |
-|           15 | 8th-level spells, ability boosts, general feat, master spellcaster, skill increase                                |
-|           16 | Oracle feat, skill feat                                                                                           |
-|           17 | 9th-level spells, ancestry feat, extreme curse, greater resolve, skill increase                                   |
-|           18 | Oracle feat, skill feat                                                                                           |
-|           19 | General feat, legendary spellcaster, oracular clarity, skill increase                                             |
-|           20 | Ability boosts, oracle feat, skill feat                                                                           |
-
-| Your Level                                                                                                            |   Cantrips |   1st | 2nd   | 3rd   | 4th   | 5th   | 6th   | 7th   | 8th   | 9th   | 10th   |
-|:----------------------------------------------------------------------------------------------------------------------|-----------:|------:|:------|:------|:------|:------|:------|:------|:------|:------|:-------|
-| 1                                                                                                                     |          5 |     2 | —     | —     | —     | —     | —     | —     | —     | —     | —      |
-| 2                                                                                                                     |          5 |     3 | —     | —     | —     | —     | —     | —     | —     | —     | —      |
-| 3                                                                                                                     |          5 |     3 | 2     | —     | —     | —     | —     | —     | —     | —     | —      |
-| 4                                                                                                                     |          5 |     3 | 3     | —     | —     | —     | —     | —     | —     | —     | —      |
-| 5                                                                                                                     |          5 |     3 | 3     | 2     | —     | —     | —     | —     | —     | —     | —      |
-| 6                                                                                                                     |          5 |     3 | 3     | 3     | —     | —     | —     | —     | —     | —     | —      |
-| 7                                                                                                                     |          5 |     3 | 3     | 3     | 2     | —     | —     | —     | —     | —     | —      |
-| 8                                                                                                                     |          5 |     3 | 3     | 3     | 3     | —     | —     | —     | —     | —     | —      |
-| 9                                                                                                                     |          5 |     3 | 3     | 3     | 3     | 2     | —     | —     | —     | —     | —      |
-| 10                                                                                                                    |          5 |     3 | 3     | 3     | 3     | 3     | —     | —     | —     | —     | —      |
-| 11                                                                                                                    |          5 |     3 | 3     | 3     | 3     | 3     | 2     | —     | —     | —     | —      |
-| 12                                                                                                                    |          5 |     3 | 3     | 3     | 3     | 3     | 3     | —     | —     | —     | —      |
-| 13                                                                                                                    |          5 |     3 | 3     | 3     | 3     | 3     | 3     | 2     | —     | —     | —      |
-| 14                                                                                                                    |          5 |     3 | 3     | 3     | 3     | 3     | 3     | 3     | —     | —     | —      |
-| 15                                                                                                                    |          5 |     3 | 3     | 3     | 3     | 3     | 3     | 3     | 2     | —     | —      |
-| 16                                                                                                                    |          5 |     3 | 3     | 3     | 3     | 3     | 3     | 3     | 3     | —     | —      |
-| 17                                                                                                                    |          5 |     3 | 3     | 3     | 3     | 3     | 3     | 3     | 3     | 2     | —      |
-| 18                                                                                                                    |          5 |     3 | 3     | 3     | 3     | 3     | 3     | 3     | 3     | 3     | —      |
-| 19                                                                                                                    |          5 |     3 | 3     | 3     | 3     | 3     | 3     | 3     | 3     | 3     | 1*     |
-| 20                                                                                                                    |          5 |     3 | 3     | 3     | 3     | 3     | 3     | 3     | 3     | 3     | 1*     |
-| * The oracular clarity class feature gives you a 10th-level spell slot that works differently from other spell slots. |        nan |   nan | nan   | nan   | nan   | nan   | nan   | nan   | nan   | nan   | nan    |
+You gain these features as a Oracle. Abilities gained at higher levels list the levels at which you gain them next to the features' names.| 0 | 1 |
+|:-----------|:------------------------------------------------------------------------------------------------------------------|
+| Your Level | Class Features |
+| 1 | Ancestry and background, initial proficiencies, divine spellcasting, spell repertoire, mystery |
+| 2 | Oracle feat, skill feat |
+| 3 | 2nd-level spells, general feat, signature spells, skill increase |
+| 4 | Oracle feat, skill feat |
+| 5 | 3rd-level spells, ability boosts, ancestry feat, skill increase |
+| 6 | Oracle feat, skill feat |
+| 7 | 4th-level spells, expert spellcaster, general feat, resolve, skill increase |
+| 8 | Oracle feat, skill feat |
+| 9 | 5th-level spells, ancestry feat, magical fortitude, skill increase |
+| 10 | Ability boosts, oracle feat, skill feat |
+| 11 | 6th-level spells, alertness, general feat, major curse, skill increase, weapon expertise |
+| 12 | Oracle feat, skill feat |
+| 13 | 7th-level spells, ancestry feat, light armor expertise, lightning reflexes, skill increase, weapon specialization |
+| 14 | Oracle feat, skill feat |
+| 15 | 8th-level spells, ability boosts, general feat, master spellcaster, skill increase |
+| 16 | Oracle feat, skill feat |
+| 17 | 9th-level spells, ancestry feat, extreme curse, greater resolve, skill increase |
+| 18 | Oracle feat, skill feat |
+| 19 | General feat, legendary spellcaster, oracular clarity, skill increase |
+| 20 | Ability boosts, oracle feat, skill feat || 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
+|:----------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------|
+| Your Level | Cantrips | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th | 10th |
+| 1 | 5 | 2 | — | — | — | — | — | — | — | — | — |
+| 2 | 5 | 3 | — | — | — | — | — | — | — | — | — |
+| 3 | 5 | 3 | 2 | — | — | — | — | — | — | — | — |
+| 4 | 5 | 3 | 3 | — | — | — | — | — | — | — | — |
+| 5 | 5 | 3 | 3 | 2 | — | — | — | — | — | — | — |
+| 6 | 5 | 3 | 3 | 3 | — | — | — | — | — | — | — |
+| 7 | 5 | 3 | 3 | 3 | 2 | — | — | — | — | — | — |
+| 8 | 5 | 3 | 3 | 3 | 3 | — | — | — | — | — | — |
+| 9 | 5 | 3 | 3 | 3 | 3 | 2 | — | — | — | — | — |
+| 10 | 5 | 3 | 3 | 3 | 3 | 3 | — | — | — | — | — |
+| 11 | 5 | 3 | 3 | 3 | 3 | 3 | 2 | — | — | — | — |
+| 12 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | — | — | — | — |
+| 13 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 2 | — | — | — |
+| 14 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | — | — | — |
+| 15 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 2 | — | — |
+| 16 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | — | — |
+| 17 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 2 | — |
+| 18 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | — |
+| 19 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 1* |
+| 20 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 1* |
+| * The oracular clarity class feature gives you a 10th-level spell slot that works differently from other spell slots. | * The oracular clarity class feature gives you a 10th-level spell slot that works differently from other spell slots. | * The oracular clarity class feature gives you a 10th-level spell slot that works differently from other spell slots. | * The oracular clarity class feature gives you a 10th-level spell slot that works differently from other spell slots. | * The oracular clarity class feature gives you a 10th-level spell slot that works differently from other spell slots. | * The oracular clarity class feature gives you a 10th-level spell slot that works differently from other spell slots. | * The oracular clarity class feature gives you a 10th-level spell slot that works differently from other spell slots. | * The oracular clarity class feature gives you a 10th-level spell slot that works differently from other spell slots. | * The oracular clarity class feature gives you a 10th-level spell slot that works differently from other spell slots. | * The oracular clarity class feature gives you a 10th-level spell slot that works differently from other spell slots. | * The oracular clarity class feature gives you a 10th-level spell slot that works differently from other spell slots. | * The oracular clarity class feature gives you a 10th-level spell slot that works differently from other spell slots. |
 
 ## Ancestry and Background
 
@@ -170,7 +169,7 @@ At 1st level, you gain a number of proficiencies that represent your basic train
 
 ## Divine Spellcasting
 
-Your mystery provides you with divine magical power. You can cast spells using the Cast a Spell activity, and you can supply material, somatic, and verbal components when casting spells. Your unconventional access to this divine power means you can usually replace material components with somatic components, so you don't need to use a [[Material Component Pouch]] when casting spells.
+Your mystery provides you with divine magical power. You can cast spells using the Cast a Spell activity, and you can supply material, somatic, and verbal components when casting spells. Your unconventional access to this divine power means you can usually replace material components with somatic components, so you don't need to use a [[DATABASE/equipment/Material Component Pouch|material component pouch]] when casting spells.
  At 1st level, you can cast up to two 1st-level spells per day. You must know spells to cast them, and you learn them via the spell repertoire class feature. The number of spells you can cast each day is called your spell slots. As you increase in level as an oracle, your number of spells per day increases, as does the highest level of spells you can cast, as shown on Table 2–3: Oracle Spells per Day.
  Some of your spells require you to attempt a spell attack roll to see how effective they are, or have your enemies roll against your spell DC (typically by attempting a saving throw). Since your key ability is Charisma, your spell attack rolls and spell DCs use your Charisma modifier.
 
@@ -200,7 +199,7 @@ The list of oracle mysteries can be found here.
 
 ### Revelation Spells
 
-The powers of your mystery manifest in the form of revelation spells, which are a type of focus spell. Casting a revelation spell costs 1 Focus Point and increases the effects of your oracular curse. You start with a focus pool of 2 Focus Points. You refill your focus pool during your daily preparations, and you can regain 1 Focus Point by spending 10 minutes using the [[Refocus]] activity to reconcile the conflicting or unconventional nature of your divine mystery.
+The powers of your mystery manifest in the form of revelation spells, which are a type of focus spell. Casting a revelation spell costs 1 Focus Point and increases the effects of your oracular curse. You start with a focus pool of 2 Focus Points. You refill your focus pool during your daily preparations, and you can regain 1 Focus Point by spending 10 minutes using the [[DATABASE/action/Refocus|Refocus]] activity to reconcile the conflicting or unconventional nature of your divine mystery.
  Focus spells are automatically heightened to half your level rounded up. Focus spells don't require spell slots, and you can't cast them using spell slots (see Divine Spellcasting). Taking feats can give you more focus spells and increase the size of your focus pool, though your focus pool can never hold more than 3 Focus Points. The full rules for focus spells appear here.
  Revelation spells have the cursebound trait, unlike other focus spells. This trait means they increase the severity of your oracular curse (see below) when cast. You can't cast a cursebound spell if you don't have an oracular curse.
  You learn two revelation spells at 1st level. The first is an initial revelation spell determined by your mystery. The second is an initial domain spell you select from one of the domains associated with your mystery, which you cast as a revelation spell, causing it to gain the cursebound trait.
@@ -211,7 +210,7 @@ Drawing on multiple disparate sources of power inevitably places an incredible s
  The specific effects of your curse are tied to your mystery, but all curses follow the same progression. A curse continually gives you a mild but constant reminder that you carry otherworldly power. As you cast revelation spells, your curse intensifies, first to a minor effect and then to a moderate effect.
  Your curse progresses to its minor stage the first time you finish casting a revelation spell after your daily preparations. Once your minor curse has manifested, it remains in effect until you rest for 8 hours and again make your daily preparations. If you cast a revelation spell while your minor curse is in effect, you progress to the moderate curse effect immediately after you finish Casting the Spell. The minor effect continues to affect you, though some moderate curse effects might alter the specifics of your minor curse. At higher levels, you can cast more revelation spells, progressing your curse to its major stage and then an extreme stage; these stronger curses are cumulative with the effects of the lower stages and can alter them. When you Refocus while under the effects of your moderate or stronger curse, you reduce your curse's severity to minor in addition to regaining a Focus Point.
  Drawing upon your mystery's power while your curse is at its worst causes an irreconcilable conflict between you and the sources of your power. Immediately after casting a revelation spell while under the moderate effect of your curse, you are overwhelmed. While overwhelmed, you can't Cast or Sustain any revelation spells— you effectively lose access to those spells. You can still Refocus to reduce the effects of your curse and regain a Focus Point, but doing so doesn't allow you to cast further revelation spells. These effects last until you rest for 8 hours and make your daily preparations, at which point your curse returns to its basic state. At higher levels, you can grow to withstand your curse's major and even extreme effects, enabling you to cast more revelation spells without becoming overwhelmed.
- Your curse has the curse, divine, and necromancy traits. You can't mitigate, reduce, or remove the effects of your oracular curse by any means other than Refocusing and resting for 8 hours. For example, if your curse makes creatures [[Concealed]] from you, you can't negate that concealed condition through a magic item or spell, such as [[True Strike]] (though you would still benefit from the other effects of that item or spell). Likewise, [[Remove Curse]] and similar spells don't affect your curse at all.
+ Your curse has the curse, divine, and necromancy traits. You can't mitigate, reduce, or remove the effects of your oracular curse by any means other than Refocusing and resting for 8 hours. For example, if your curse makes creatures [[DATABASE/condition/Concealed|concealed]] from you, you can't negate that concealed condition through a magic item or spell, such as [[DATABASE/spell/True Strike|true strike]] (though you would still benefit from the other effects of that item or spell). Likewise, [[DATABASE/spell/Remove Curse|remove curse]] and similar spells don't affect your curse at all.
 
 ## Oracle Feats<span class="item-type">Level 2</span>
 
@@ -260,7 +259,7 @@ You remain alert to threats around you. Your proficiency rank for Perception inc
 
 ## Major Curse<span class="item-type">Level 11</span>
 
-You've learned to better balance the conflicting powers wreaking havoc on your body. Immediately after completing the casting of a revelation spell while you are affected by your moderate curse, your curse progresses to its major effect, rather than overwhelming you. This effect lasts until you [[Refocus]], which reduces your curse to its minor effect. If you cast a revelation spell while under the effects of your major curse, you are overwhelmed by your curse.
+You've learned to better balance the conflicting powers wreaking havoc on your body. Immediately after completing the casting of a revelation spell while you are affected by your moderate curse, your curse progresses to its major effect, rather than overwhelming you. This effect lasts until you [[DATABASE/action/Refocus|Refocus]], which reduces your curse to its minor effect. If you cast a revelation spell while under the effects of your major curse, you are overwhelmed by your curse.
  In addition, increase the number of Focus Points in your focus pool from 2 to 3. If you spend at least 2 Focus Points before you again Refocus, you recover 2 Focus Points when you Refocus instead of 1.
 
 ## Weapon Expertise<span class="item-type">Level 11</span>
@@ -286,8 +285,8 @@ You truly understand the deep and complex divine power within your mystery. Your
 ## Extreme Curse<span class="item-type">Level 17</span>
 
 You have mastered a perilous balance between the conflicting divine powers of your mystery, gaining the power to change your fate, but straining both body and soul. When you cast a revelation spell while affected by your major curse, your curse intensifies to an extreme effect instead of overwhelming you. All mysteries share the same effects for their extreme curse.
- When affected by your extreme curse, you become [[Doomed]] (or increase your doomed condition by 2 if you were already doomed). Once every 10 minutes, when you fail an attack roll, skill or Perception check, or saving throw, you can reroll it and use the second result. The reroll has the fortune trait and doesn't require you to spend an action, meaning you can use the reroll even if you can't act. These effects are in addition to all the effects of your major curse, and they can't be removed by any means until you Refocus to reduce your curse to its minor effect.
- If you cast a revelation spell while under the effects of this extreme curse, you are overwhelmed by your curse, and you remain doomed 2 even if you [[Refocus]]. Additionally, if you spend at least 3 Focus Points before you again Refocus, you recover 3 Focus Points when you Refocus instead of 1.
+ When affected by your extreme curse, you become [[DATABASE/condition/Doomed|doomed 2]] (or increase your doomed condition by 2 if you were already doomed). Once every 10 minutes, when you fail an attack roll, skill or Perception check, or saving throw, you can reroll it and use the second result. The reroll has the fortune trait and doesn't require you to spend an action, meaning you can use the reroll even if you can't act. These effects are in addition to all the effects of your major curse, and they can't be removed by any means until you Refocus to reduce your curse to its minor effect.
+ If you cast a revelation spell while under the effects of this extreme curse, you are overwhelmed by your curse, and you remain doomed 2 even if you [[DATABASE/action/Refocus|Refocus]]. Additionally, if you spend at least 3 Focus Points before you again Refocus, you recover 3 Focus Points when you Refocus instead of 1.
 
 ## Greater Resolve<span class="item-type">Level 17</span>
 
@@ -299,4 +298,4 @@ You can harness divine power at a level few others can match. Your proficiency r
 
 ## Oracular Clarity<span class="item-type">Level 19</span>
 
-You now fully grasp the nature of the divine power behind your mystery, allowing you to work magic akin to miracles. Add two common 10th-level divine spells to your repertoire. You gain a single 10th-level spell slot you can use to cast one of those two spells using oracle spellcasting. You don't gain more 10th-level spells as you level up, unlike other spell slots, and you can't use 10th-level slots with abilities that give you more spell slots or that let you cast spells without expending spell slots. You can take the [[Oracular Providence]] feat to gain a second slot.
+You now fully grasp the nature of the divine power behind your mystery, allowing you to work magic akin to miracles. Add two common 10th-level divine spells to your repertoire. You gain a single 10th-level spell slot you can use to cast one of those two spells using oracle spellcasting. You don't gain more 10th-level spells as you level up, unlike other spell slots, and you can't use 10th-level slots with abilities that give you more spell slots or that let you cast spells without expending spell slots. You can take the [[DATABASE/feat/Oracular Providence|Oracular Providence]] feat to gain a second slot.

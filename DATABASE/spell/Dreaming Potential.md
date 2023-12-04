@@ -28,6 +28,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -44,9 +45,9 @@ type: Spell
 # Dreaming Potential<span class="item-type">Spell 5</span>
 
 <span class="item-trait">Enchantment</span><span class="item-trait">Mental</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** occult
-**Deities** [[Arshea]], [[Desna]], [[Saloc]], [[Shei]], [[Tlehar]]
+**Deities** [[DATABASE/deity/Arshea|Arshea]], [[DATABASE/deity/Desna|Desna]], [[DATABASE/deity/Saloc|Saloc]], [[DATABASE/deity/Shei|Shei]], [[DATABASE/deity/Tlehar|Tlehar]]
 **Cast** 10 minutes (material, somatic, verbal)
 **Range** touch; **Targets** 1 willing sleeping creature
 **Duration** 8 hours

@@ -11,6 +11,7 @@ name: Ceremony of Growth
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Ceremony of Growth <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Conrasu</span>
-**Source** [[The Mwangi Expanse]]
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]
 
 ---
-You can alter your exoskeleton's size. You constantly gain the effects of [[Enlarge]]. You can dismiss or resume these effects as an action, which has the concentrate trait.
+You can alter your exoskeleton's size. You constantly gain the effects of [[DATABASE/spell/Enlarge|enlarge]]. You can dismiss or resume these effects as an action, which has the concentrate trait.
 
 ## Traits
 

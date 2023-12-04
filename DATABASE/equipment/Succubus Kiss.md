@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: DC 24 Fortitude
 school: null
 size: null
@@ -60,12 +61,12 @@ weapon_type: null
 # Succubus Kiss<span class="item-type">Item 7</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Drug</span><span class="item-trait">Ingested</span><span class="item-trait">Poison</span>
-**Source** [[Absalom, City of Lost Omens]]
+**Source** [[DATABASE/source/Absalom, City of Lost Omens|Absalom, City of Lost Omens]]
 **Price** 70 gp
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
 ---
-This rare and highly addictive drug is rumored to be created by wizards working alongside [[Succubus (Lust Demon)]]. Taken in the form of lozenges, this drug can heighten the body's pleasure and pain stimuli as well as increase alertness, energy, and euphoria. Serious side effects that can occur include heart attack, stroke, and sudden vision and hearing loss, but these risks do little to deter users.
-The save for [[Addiction]] to succubus kiss is DC 28, and the addiction has the virulent trait.
- **Saving Throw** DC 24 Fortitude; **Onset** 1 minute; **Maximum Duration** 8 hours; **Stage 1** +2 item bonus to initiative checks (10 minutes) and to all saving throws against emotion and mental effects; **Stage 2** as stage 1 plus [[Drained]] (1 hour); **Stage 3** as stage 2 plus [[Blinded]] or [[Deafened]] (1 hour); **Stage 4** blindness and deafness (1 hour); **Stage 5** [[Unconscious]]
+This rare and highly addictive drug is rumored to be created by wizards working alongside [[DATABASE/monster/Succubus (Lust Demon)|succubi]]. Taken in the form of lozenges, this drug can heighten the body's pleasure and pain stimuli as well as increase alertness, energy, and euphoria. Serious side effects that can occur include heart attack, stroke, and sudden vision and hearing loss, but these risks do little to deter users.
+The save for [[DATABASE/disease/Addiction|addiction]] to succubus kiss is DC 28, and the addiction has the virulent trait.
+ **Saving Throw** DC 24 Fortitude; **Onset** 1 minute; **Maximum Duration** 8 hours; **Stage 1** +2 item bonus to initiative checks (10 minutes) and to all saving throws against emotion and mental effects; **Stage 2** as stage 1 plus [[DATABASE/condition/Drained|drained 1]] (1 hour); **Stage 3** as stage 2 plus [[DATABASE/condition/Blinded|blinded]] or [[DATABASE/condition/Deafened|deafness]] (1 hour); **Stage 4** blindness and deafness (1 hour); **Stage 5** [[DATABASE/condition/Unconscious|unconscious]]

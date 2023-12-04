@@ -11,6 +11,7 @@ name: Plate in Treasure
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -26,10 +27,10 @@ type: Feat
 # Plate in Treasure <span class="action-icon">1</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Metal</span><span class="item-trait">Primal</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
-Precious metal flows from your fingers to plate an object. This has the effects of a [[Clad in Metal]] spell with a rank equal to half your level rounded up. While you're wearing or holding an item of light Bulk or greater that's Plated in Treasure, any metal created by one of your impulses is plated with the metal. If you use Plate in Treasure again, any previous one ends.
+Precious metal flows from your fingers to plate an object. This has the effects of a [[DATABASE/spell/Clad in Metal|clad in metal]] spell with a rank equal to half your level rounded up. While you're wearing or holding an item of light Bulk or greater that's Plated in Treasure, any metal created by one of your impulses is plated with the metal. If you use Plate in Treasure again, any previous one ends.
 
 ## Traits
 

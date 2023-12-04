@@ -11,6 +11,7 @@ name: Capture Magic
 prerequisite: '[[DATABASE/action/Arcane Cascade|Arcane Cascade]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Capture Magic <span class="action-icon">5</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Magus</span>
-**Source** [[Secrets of Magic]] 
-**Prerequisites** [[Arcane Cascade]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
+**Prerequisites** [[DATABASE/action/Arcane Cascade|Arcane Cascade]]
 **Trigger** You succeed at your save against a foe's harmful spell, or a foe fails a spell attack roll against you from a harmful spell.
 
 ---

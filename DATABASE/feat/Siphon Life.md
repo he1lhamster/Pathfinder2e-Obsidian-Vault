@@ -12,6 +12,7 @@ prerequisite: You've been reduced to 0 Hit Points by an enemy with the [[DATABAS
   trait.
 rarity: Rare
 requirement: null
+rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -29,7 +30,7 @@ type: Feat
 # Siphon Life <span class="action-icon">2</span> <span class="item-type">Feat 10</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Aftermath</span><span class="item-trait">Flourish</span><span class="item-trait">Magical</span><span class="item-trait">Necromancy</span><span class="item-trait">Negative</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Prerequisites** You've been reduced to 0 Hit Points by an enemy with the negative trait.
 
 ---
@@ -60,8 +61,8 @@ Effects and magic items with this trait are associated with the necromancy schoo
 
 **Negative:**
 
-Effects with this trait heal undead creatures with negative energy, deal negative damage to living creatures, or manipulate negative energy. Planes with this trait are vast, empty reaches that suck the life from the living. Creatures with this trait are natives of the [[Negative Energy Plane]]. They can survive the basic environmental effects of the Negative Energy Plane.
+Effects with this trait heal undead creatures with negative energy, deal negative damage to living creatures, or manipulate negative energy. Planes with this trait are vast, empty reaches that suck the life from the living. Creatures with this trait are natives of the [[DATABASE/plane/Negative Energy Plane|Negative Energy Plane]]. They can survive the basic environmental effects of the Negative Energy Plane.
 
 **Rare:**
 
-This rarity indicates that a rules element is very difficult to find in the game world. A rare feat, spell, item or the like is available to players only if the GM decides to include it in the game, typically through discovery during play. Creatures with this trait are rare. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creatures is increased by 5.
+This rarity indicates that a rules element is very difficult to find in the game world. A rare feat, spell, item or the like is available to players only if the GM decides to include it in the game, typically through discovery during play. Creatures with this trait are rare. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creatures is increased by 5.

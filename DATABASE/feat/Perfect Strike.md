@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Student of Perfection Dedication|Student of Perfe
   Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
 subcategory: null
@@ -24,12 +25,12 @@ type: Feat
 # Perfect Strike <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[World Guide]] 
-**Archetype** [[Student of Perfection]]
-**Prerequisites** [[Student of Perfection Dedication]]
+**Source** [[DATABASE/source/World Guide|World Guide]] 
+**Archetype** [[DATABASE/archetype/Student of Perfection|Student of Perfection]]
+**Prerequisites** [[DATABASE/feat/Student of Perfection Dedication|Student of Perfection Dedication]]
 
 ---
-You gain the [[Perfect Strike]] ki spell. Increase the number of Focus Points in your focus pool by 1.
+You gain the [[DATABASE/spell/Perfect Strike|perfect strike]] ki spell. Increase the number of Focus Points in your focus pool by 1.
 
 ## Traits
 

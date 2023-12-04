@@ -26,6 +26,7 @@ name: Longbow
 price: 6 gp
 range: 100 ft.
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Deadly|Deadly d10]]'
@@ -39,12 +40,12 @@ weapon_type: Ranged
 # Longbow
 
 <span class="item-trait">Deadly d10</span><span class="item-trait">Volley 30 ft.</span>
-**Source** [[Core Rulebook]] 
-**Favored Weapon** [[Cernunnos]], [[Eiseth]], [[Elven Pantheon]], [[Erastil]], [[General Susumu]], [[Hshurha]], [[Ketephys]], [[Skode]], [[Sky Keepers]], [[Ylimancha]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Favored Weapon** [[DATABASE/deity/Cernunnos|Cernunnos]], [[DATABASE/deity/Eiseth|Eiseth]], [[DATABASE/deity/Elven Pantheon|Elven Pantheon]], [[DATABASE/deity/Erastil|Erastil]], [[DATABASE/deity/General Susumu|General Susumu]], [[DATABASE/deity/Hshurha|Hshurha]], [[DATABASE/deity/Ketephys|Ketephys]], [[DATABASE/deity/Skode|Skode]], [[DATABASE/deity/Sky Keepers|Sky Keepers]], [[DATABASE/deity/Ylimancha|Ylimancha]]
 **Price** 6 gp; **Damage** 1d8 P; **Bulk** 2
 **Hands** 1+; **Range** 100 ft.; **Reload** 0
-**Type** Ranged; **Category** Martial; **Group** [[Bow]]
-**Ammunition** [[Arrows]]
+**Type** Ranged; **Category** Martial; **Group** [[DATABASE/weapongroup/Bow|Bow]]
+**Ammunition** [[DATABASE/weapon/Arrows|Arrows]]
 
 ---
 This 5-foot-tall bow, usually made of a single piece of elm, hickory, or yew, has a powerful draw and is excellent at propelling arrows with great force and at an extreme distance. You must use two hands to fire a longbow, and it can’t be used while mounted.
@@ -53,7 +54,7 @@ This 5-foot-tall bow, usually made of a single piece of elm, hickory, or yew, ha
 
 **Deadly d10:**
 
-On a critical hit, the weapon adds a weapon damage die of the listed size. Roll this after doubling the weapon's damage. This increases to two dice if the weapon has a _greater striking rune_ and three dice if the weapon has a _major striking rune_. For instance, a [[Rapier]] with a _greater striking rune_ deals 2d8 extra piercing damage on a critical hit. An ability that changes the size of the weapon's normal damage dice doesn't change the size of its deadly die.
+On a critical hit, the weapon adds a weapon damage die of the listed size. Roll this after doubling the weapon's damage. This increases to two dice if the weapon has a _greater striking rune_ and three dice if the weapon has a _major striking rune_. For instance, a [[DATABASE/weapon/Rapier|rapier]] with a _greater striking rune_ deals 2d8 extra piercing damage on a critical hit. An ability that changes the size of the weapon's normal damage dice doesn't change the size of its deadly die.
 
 **Volley 30 ft.:**
 
@@ -61,6 +62,6 @@ This ranged weapon is less effective at close distances. Your attacks against ta
 
 ## Critical Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
-**Bow**: If the target of the critical hit is adjacent to a surface, it gets stuck to that surface by the missile. The target is [[Immobilized]] and must spend an Interact action to attempt a DC 10 [[Athletics]] check to pull the missile free; it can't move from its space until it succeeds. The creature doesn't become stuck if it is incorporeal, is liquid (like a [[Elemental, Water]] or some [[Ooze]]), or could otherwise escape without effort.
+**Bow**: If the target of the critical hit is adjacent to a surface, it gets stuck to that surface by the missile. The target is [[DATABASE/condition/Immobilized|immobilized]] and must spend an Interact action to attempt a DC 10 [[DATABASE/skill/Athletics|Athletics]] check to pull the missile free; it can't move from its space until it succeeds. The creature doesn't become stuck if it is incorporeal, is liquid (like a [[DATABASE/monsterfamily/Elemental, Water|water elemental]] or some [[DATABASE/monsterfamily/Ooze|oozes]]), or could otherwise escape without effort.

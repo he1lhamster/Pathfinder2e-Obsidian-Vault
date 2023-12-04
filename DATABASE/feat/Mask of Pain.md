@@ -12,6 +12,7 @@ prerequisite: Expert in [[DATABASE/skill/Intimidation|Intimidation]] ; [[DATABAS
   Warmask|Orc Warmask]]
 rarity: Common
 requirement: You're wearing yourwarmask.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Mask of Pain <span class="action-icon">5</span> <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Orc</span>
-**Source** [[Ancestry Guide]] 
-**Prerequisites** expert in [[Intimidation]]; [[Orc Warmask]]
-**Trigger** You succeed at a [[Demoralize]] check.
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
+**Prerequisites** expert in [[DATABASE/skill/Intimidation|Intimidation]]; [[DATABASE/feat/Orc Warmask|Orc Warmask]]
+**Trigger** You succeed at a [[DATABASE/action/Demoralize|Demoralize]] check.
 **Requirements** You're wearing your _warmask_.
 
 ---
@@ -36,4 +37,4 @@ Your mask has grown into a manifestation of your pain, which you can release. Th
 
 **Orc:**
 
-A creature with this trait is a member of the [[Orc]] ancestry. These green-skinned people tend to have darkvision. An ability with this trait can be used or selected only by orcs. An item with this trait is created and used by orcs.
+A creature with this trait is a member of the [[DATABASE/ancestry/Orc|orc]] ancestry. These green-skinned people tend to have darkvision. An ability with this trait can be used or selected only by orcs. An item with this trait is created and used by orcs.

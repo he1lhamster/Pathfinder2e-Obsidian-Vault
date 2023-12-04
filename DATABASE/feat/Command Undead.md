@@ -11,6 +11,7 @@ name: Command Undead
 prerequisite: '[[DATABASE/class_/Cleric|harmful font]] ; evil alignment'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -25,11 +26,11 @@ type: Feat
 # Command Undead <span class="action-icon">1</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Cleric</span><span class="item-trait">Concentrate</span><span class="item-trait">Metamagic</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Cleric]]; evil alignment
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/class_/Cleric|harmful font]]; evil alignment
 
 ---
-You grasp the animating force within an undead creature and bend it to your will. If the next action you use is to cast [[Harm]] targeting one undead creature, you transform the effects of that _harm_ spell. Instead of _harm’s_ normal effects, the target becomes controlled by you if its level is equal to or lower than your level – 3. It can attempt a Will saving throw to resist being controlled by you. If the target is already under someone else’s command, the controlling creature also rolls a saving throw, and the undead uses the better result.
+You grasp the animating force within an undead creature and bend it to your will. If the next action you use is to cast [[DATABASE/spell/Harm|harm]] targeting one undead creature, you transform the effects of that _harm_ spell. Instead of _harm’s_ normal effects, the target becomes controlled by you if its level is equal to or lower than your level – 3. It can attempt a Will saving throw to resist being controlled by you. If the target is already under someone else’s command, the controlling creature also rolls a saving throw, and the undead uses the better result.
 **Critical Success** The target is unaffected and is temporarily immune for 24 hours.
 **Success** The target is unaffected.
 **Failure** The undead creature becomes a minion under your control. The spell gains a duration of 1 minute, but it is dismissed if you or an ally attacks the minion undead.
@@ -37,7 +38,7 @@ You grasp the animating force within an undead creature and bend it to your will
 
 ## Command Undead Leads To...
 
-[[Improved Command Undead]]
+[[DATABASE/feat/Improved Command Undead|Improved Command Undead]]
 
 ## Traits
 

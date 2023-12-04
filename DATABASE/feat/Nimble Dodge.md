@@ -11,6 +11,7 @@ name: Nimble Dodge
 prerequisite: null
 rarity: Common
 requirement: You are not encumbered.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Nimble Dodge <span class="action-icon">5</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Rogue</span><span class="item-trait">Swashbuckler</span>
-**Source** [[Advanced Player's Guide]] , [[Core Rulebook]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] , [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Trigger** A creature targets you with an attack and you can see the attacker.
 **Requirements** You are not encumbered.
 
@@ -33,4 +34,4 @@ You deftly dodge out of the way, gaining a +2 circumstance bonus to AC against t
 
 ## Nimble Dodge Leads To...
 
-[[Nimble Roll]]
+[[DATABASE/feat/Nimble Roll|Nimble Roll]]

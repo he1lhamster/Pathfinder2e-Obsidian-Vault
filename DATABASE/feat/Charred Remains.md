@@ -11,6 +11,7 @@ name: Charred Remains
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -25,7 +26,7 @@ type: Feat
 # Charred Remains <span class="action-icon">4</span> <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Fire</span><span class="item-trait">Ifrit</span><span class="item-trait">Metamagic</span>
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 **Frequency** once per day
 
 ---
@@ -39,7 +40,7 @@ Effects with the fire trait deal fire damage or either conjure or manipulate fir
 
 **Ifrit:**
 
-Ifrits are planar scions descended from [[Efreeti]].
+Ifrits are planar scions descended from [[DATABASE/monster/Efreeti|efreet]].
 
 **Metamagic:**
 

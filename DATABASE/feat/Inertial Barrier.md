@@ -11,6 +11,7 @@ name: Inertial Barrier
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -26,7 +27,7 @@ type: Feat
 # Inertial Barrier <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Amp</span><span class="item-trait">Occult</span><span class="item-trait">Psychic</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 
 ---
 Your spell leaves behind barriers that reduce shock and motion. Use this amp in place of a psi cantrip's normal amp entry.

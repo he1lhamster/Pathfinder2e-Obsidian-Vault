@@ -11,6 +11,7 @@ name: Lemma of Vision
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Lemma of Vision <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Aphorite</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
 You've solved a tiny stepping stone in your self-discovery, awakening new depths in your sight. You gain darkvision.

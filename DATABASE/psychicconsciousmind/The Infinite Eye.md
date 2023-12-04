@@ -2,6 +2,7 @@
 id: '2'
 name: The Infinite Eye
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 spell:
 - '[[DATABASE/spell/Augury|Augury]]'
@@ -24,11 +25,11 @@ type: Psychic Conscious Mind
 ---
 # The Infinite Eye
 
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 The true strength of the mind lies in the knowledge it contains, with each new observation contributing to the totality of its experiences. To grow your experiences—and with them, your power—you devote yourself to observing as much as possible, casting your senses through space and time with clairvoyance and precognition.
-1st: _[[True Strike]]_; 2nd: _[[Augury]]_; 3rd: _[[Organsight]]_; 4th: _[[Clairvoyance]]_; 5th: _[[Prying Eye]]_; 6th: _[[True Seeing]]_; 7th: _[[True Target]]_; 8th: _[[Unrelenting Observation]]_; 9th: _[[Foresight]]_
-**Standard Psi Cantrips** _[[Detect Magic]]_ and _[[Guidance]]_
-**Unique Psi Cantrips** surface: _[[Glimpse Weakness]]_; deeper: _[[Omnidirectional Scan]]_; deepest: _[[Foresee the Path]]_
+1st: _[[DATABASE/spell/True Strike|true strike]]_; 2nd: _[[DATABASE/spell/Augury|augury]]_; 3rd: _[[DATABASE/spell/Organsight|organsight]]_; 4th: _[[DATABASE/spell/Clairvoyance|clairvoyance]]_; 5th: _[[DATABASE/spell/Prying Eye|prying eye]]_; 6th: _[[DATABASE/spell/True Seeing|true seeing]]_; 7th: _[[DATABASE/spell/True Target|true target]]_; 8th: _[[DATABASE/spell/Unrelenting Observation|unrelenting observation]]_; 9th: _[[DATABASE/spell/Foresight|foresight]]_
+**Standard Psi Cantrips** _[[DATABASE/spell/Detect Magic|detect magic]]_ and _[[DATABASE/spell/Guidance|guidance]]_
+**Unique Psi Cantrips** surface: _[[DATABASE/spell/Glimpse Weakness|glimpse weakness]]_; deeper: _[[DATABASE/spell/Omnidirectional Scan|omnidirectional scan]]_; deepest: _[[DATABASE/spell/Foresee the Path|foresee the path]]_
 
 ## Detect Magic
 

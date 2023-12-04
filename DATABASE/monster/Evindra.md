@@ -81,28 +81,28 @@ wisdom: '+5'
 # Evindra
 
 This creature did not include a description.
-**Recall Knowledge - Fey ([[Nature]])**: DC 41
+**Recall Knowledge - Fey ([[DATABASE/skill/Nature|Nature]])**: DC 41
 **Unspecific Lore**: DC 39
 **Specific Lore**: DC 36
 
 # Evindra<span class="item-type">Creature 13</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CN</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Aquatic</span><span class="item-trait">Fey</span><span class="item-trait">Water</span>
-**Source** [[Kingmaker Adventure Path]]
-Variant female [[Nereid]]
-**Perception** +24; [[Low-Light Vision]]
-**Languages** [[Aquan]], [[Common]], [[Sylvan]]
-**Skills** [[Athletics]] +17 (+23 to swim), [[Deception]] +27, [[Diplomacy]] +27, [[Lore]] +25, [[Stealth]] +27
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
+Variant female [[DATABASE/monster/Nereid|nereid]]
+**Perception** +24; [[DATABASE/monsterability/Low-Light Vision|low-light vision]]
+**Languages** [[DATABASE/language/Aquan|Aquan]], [[DATABASE/language/Common|Common]], [[DATABASE/language/Sylvan|Sylvan]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +17 (+23 to swim), [[DATABASE/skill/Deception|Deception]] +27, [[DATABASE/skill/Diplomacy|Diplomacy]] +27, [[DATABASE/skill/Lore|First World Lore]] +25, [[DATABASE/skill/Stealth|Stealth]] +27
 **Str** +0, **Dex** +8, **Con** +5, **Int** +4, **Wis** +5, **Cha** +8
 
 ---
 **AC** 35; **Fort** +22, **Ref** +27, **Will** +24
 **HP** 210; **Immunities** poison; **Weaknesses** cold iron 15
-<span class="in-box-ability">**Watery Transparency** (primal, transmutation, [[Water Domain]]) When underwater, the nereid's body is invisible. The nereid can dismiss or resume this transparency as an action that has the concentrate trait.</span>
+<span class="in-box-ability">**Watery Transparency** (primal, transmutation, [[DATABASE/domain/Water Domain|water]]) When underwater, the nereid's body is invisible. The nereid can dismiss or resume this transparency as an action that has the concentrate trait.</span>
 
 ---
 **Speed** 25 feet, swim 50 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> poisonous touch +27 [+23/+19] (agile, finesse, magical), **Damage** 8d6 poison</span>**Primal Innate Spells** DC 33; **7th** _[[Heal]]_ (×3), _[[Summon Elemental]]_ (water elementals only); **6th** _[[Elemental Form]]_ (×3; water only), _[[Restoration]]_ (×3), _[[Suggestion]]_; **5th** _[[Control Water]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> poisonous touch +27 [+23/+19] (agile, finesse, magical), **Damage** 8d6 poison</span>**Primal Innate Spells** DC 33; **7th** _[[DATABASE/spell/Heal|heal]]_ (×3), _[[DATABASE/spell/Summon Elemental|summon elemental]]_ (water elementals only); **6th** _[[DATABASE/spell/Elemental Form|elemental form]]_ (×3; water only), _[[DATABASE/spell/Restoration|restoration]]_ (×3), _[[DATABASE/spell/Suggestion|suggestion]]_; **5th** _[[DATABASE/spell/Control Water|control water]]_
 <span class="in-box-ability">**Drowning Touch** <span class="action-icon">2</span> (conjuration, incapacitation, primal, water) The nereid touches a creature and causes water from its own body to flow into the creature's lungs. If the creature cannot breathe water, it must attempt a DC 33 Fortitude save.
  **Success** The creature is unaffected and is temporarily immune to Drowning Touch for 24 hours.
  **Failure** The creature becomes sickened 3 as it chokes on the water.

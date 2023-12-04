@@ -21,6 +21,7 @@ follower_alignment:
 id: '22'
 name: Green Faith
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Nature|Nature]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -30,7 +31,7 @@ type: Deity
 ---
 # Green Faith [N]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 While the Green Faith is practiced differently from one believer to another, especially across its various orders, its adherents share a universal reverence for the natural world and a commitment to preserving it. While each order’s practitioners may be drawn to a particular element, season, creature, or natural occurrence, all followers respect the sanctity and importance of every aspect of nature.
  Many cycles have passed since the Green Faith’s fabled founders contended over which expression of natural power was supreme. Just as the legend speaks of their ultimate unity, those who now follow the Green Faith and view nature as sacred understand the interconnectedness of all beings, recognizing that harmony is possible only through balance, and that the cycles of nature are both delicate and infinite. Advocates of the Green Faith therefore fall into a neutral alignment, for they understand that by naming one thing, its opposite is also created; they walk the path of balance between death and rebirth, light and shadow, growth and decay.
 **Category** Faiths & Philosophies
@@ -41,5 +42,5 @@ While the Green Faith is practiced differently from one believer to another, esp
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Constitution or Wisdom
-**Divine Skill** [[Nature]]
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Constitution or Wisdom
+**Divine Skill** [[DATABASE/skill/Nature|Nature]]

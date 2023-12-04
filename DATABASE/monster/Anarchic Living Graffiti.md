@@ -83,17 +83,17 @@ wisdom: '+0'
 # Anarchic Living Graffiti
 
 This creature did not include a description.
-**Recall Knowledge - Construct ([[Arcana]], [[Crafting]])**: DC 19
+**Recall Knowledge - Construct ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Crafting|Crafting]])**: DC 19
 **Unspecific Lore**: DC 17
 **Specific Lore**: DC 14
 
 # Anarchic Living Graffiti<span class="item-type">Creature 0</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">CN</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Construct</span>
-**Source** [[Pathfinder 193. Mantle of Gold]]
+**Source** [[DATABASE/source/Pathfinder 193. Mantle of Gold|Pathfinder #193: Mantle of Gold]]
 **Perception** +6; darkvision
-**Languages** [[Dwarven]], [[Protean]]; (can't speak)
-**Skills** [[Acrobatics]] +6, [[Crafting]] +3, [[Deception]] +5, [[Stealth]] +6
+**Languages** [[DATABASE/language/Dwarven|Dwarven]], [[DATABASE/language/Protean|Protean]]; (can't speak)
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +6, [[DATABASE/skill/Crafting|Crafting]] +3, [[DATABASE/skill/Deception|Deception]] +5, [[DATABASE/skill/Stealth|Stealth]] +6
 **Str** +2, **Dex** +3, **Con** +0, **Int** -2, **Wis** +0, **Cha** +1
 
 ---
@@ -103,4 +103,4 @@ This creature did not include a description.
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +8 [+4/+0] (agile, finesse), **Damage** 1d6+2 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> paint +8 [+3/-2] (nonlethal, range increment 20 feet), **Damage** 1d4+2 bludgeoning plus splatter</span><span class="in-box-ability">**Splatter** A living graffiti splatters paint into a creature's face with its paint Strike. On a hit, the target is [[Dazzled]] dazzled for 1 round or until it Interacts to remove the paint from its face.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +8 [+4/+0] (agile, finesse), **Damage** 1d6+2 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> paint +8 [+3/-2] (nonlethal, range increment 20 feet), **Damage** 1d4+2 bludgeoning plus splatter</span><span class="in-box-ability">**Splatter** A living graffiti splatters paint into a creature's face with its paint Strike. On a hit, the target is [[DATABASE/condition/Dazzled|dazzled]] dazzled for 1 round or until it Interacts to remove the paint from its face.</span>

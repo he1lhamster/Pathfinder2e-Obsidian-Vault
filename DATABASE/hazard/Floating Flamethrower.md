@@ -15,6 +15,7 @@ name: Floating Flamethrower
 rarity: Rare
 reflex: '+33'
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]'
 trait:
@@ -32,13 +33,13 @@ will: null
 # Floating Flamethrower<span class="item-type">Hazard 16</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Complex</span><span class="item-trait">Fire</span><span class="item-trait">Magical</span><span class="item-trait">Trap</span>
-**Source** [[Pathfinder 167. Ready Fight!]]
+**Source** [[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]
 **Complexity** Complex
 **Stealth** +23 (expert) or DC 38 (master) to notice the pattern of the orb's trajectory
 **Description** A floating skull of fire swoops around the arena, rotating as it weaves through the ring and releasing huge gouts of flame in random directions.
 
 ---
-**Disable** three DC 40 [[Thievery]] (legendary) checks or castings of [[Dispel Magic]] (7th level; counteract DC 40), one each to pull out or disable the elemental cores hidden in the floating skull's right eye, left eye, and mouth
+**Disable** three DC 40 [[DATABASE/skill/Thievery|Thievery]] (legendary) checks or castings of [[DATABASE/spell/Dispel Magic|dispel magic]] (7th level; counteract DC 40), one each to pull out or disable the elemental cores hidden in the floating skull's right eye, left eye, and mouth
 **AC** 42, **Fort** +30, **Ref** +33
 **Hardness** 25, **HP** 100 (50); **Immunities** fire, **Weaknesses** cold 15
 **Blaze** <span class="action-icon">5</span> (evocation, fire); **Trigger** Hao Jin signals the start of the bout; **Effect** The trap roars with fire and rolls initiative.

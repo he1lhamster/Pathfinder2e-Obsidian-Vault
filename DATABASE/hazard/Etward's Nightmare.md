@@ -14,6 +14,7 @@ name: Etward's Nightmare
 rarity: Unique
 reflex: null
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 189. Dreamers of the Nameless Spires|Pathfinder
   #189: Dreamers of the Nameless Spires]]'
@@ -29,17 +30,17 @@ will: null
 # Etward's Nightmare<span class="item-type">Hazard 9</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="item-trait">Complex</span><span class="item-trait">Haunt</span>
-**Source** [[Pathfinder 189. Dreamers of the Nameless Spires]]
+**Source** [[DATABASE/source/Pathfinder 189. Dreamers of the Nameless Spires|Pathfinder #189: Dreamers of the Nameless Spires]]
 **Complexity** Complex
 **Stealth** +30 (master)
 **Description** The incense burners begin to smoke, filling the air with strangely nostalgic scents.
 
 ---
-**Disable** DC 26 [[Occultism]] (expert) to enter a state akin to lucid dreaming so as to unweave the nightmare from within, or DC 30 [[Intimidation]] (master) to stand resolute against the nightmares and turn the fear back upon itself
+**Disable** DC 26 [[DATABASE/skill/Occultism|Occultism]] (expert) to enter a state akin to lucid dreaming so as to unweave the nightmare from within, or DC 30 [[DATABASE/skill/Intimidation|Intimidation]] (master) to stand resolute against the nightmares and turn the fear back upon itself
 **Light Incense Burners** <span class="action-icon">5</span> (enchantment, incapacitation, mental, occult, sleep) **Trigger** A creature lies down on the bed, or a living creature spends more than 3 rounds inside this room; **Effect** Incense swiftly fills the room (even if the incense burners have been removed or were destroyed). All creatures in area **A12** must attempt a DC 32 Fortitude save. The haunt then rolls initiative.
 **Critical Success** The creature is unaffected.
-**Success** The creature is [[Sickened]] by the incense's scent.
-**Failure** The creature falls [[Unconscious]]. If it's still unconscious after 1 minute, it wakes up automatically.
+**Success** The creature is [[DATABASE/condition/Sickened|sickened 1]] by the incense's scent.
+**Failure** The creature falls [[DATABASE/condition/Unconscious|unconscious]]. If it's still unconscious after 1 minute, it wakes up automatically.
 **Critical Failure** As failure, but if it's still unconscious after 1 hour, it wakes up automatically.
 
 ---

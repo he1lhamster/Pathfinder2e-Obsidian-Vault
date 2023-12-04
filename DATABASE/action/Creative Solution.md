@@ -7,6 +7,7 @@ id: '1403'
 name: Creative Solution
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
@@ -20,7 +21,7 @@ type: Action
 # Creative Solution
 
 <span class="item-trait">Downtime</span><span class="item-trait">Fortune</span><span class="item-trait">Leadership</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 
 ---
 You work with your kingdom's scholars, thinkers, and practitioners of magical and mundane experimentation to come up with new ways to resolve issues when business as usual is just not working. Attempt a basic check. 

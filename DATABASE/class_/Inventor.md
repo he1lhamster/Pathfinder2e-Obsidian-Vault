@@ -16,6 +16,7 @@ id: '19'
 name: Inventor
 perception_proficiency: Trained
 rarity: Uncommon
+rus_type_level: null
 skill_proficiency:
 - Trained in Crafting
 - Trained in a number of additional skills equal to 3 plus your Intelligence modifier
@@ -29,7 +30,7 @@ type: Class
 # Inventor
 
 <span class="trait-uncommon item-trait">Uncommon</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 _Any tinkerer can follow a diagram to make a device, but you invent the impossible! Every strange contraption you dream up is a unique experiment pushing the edge of possibility, a mysterious machine that seems to work for only you. You're always on the verge of the next great breakthrough, and every trial and tribulation is another opportunity to test and tune. If you can dream it, you can build it._
 **Key Ability: INTELLIGENCE**
 At 1st level, your class gives you an ability boost to Intelligence.
@@ -90,7 +91,7 @@ Expert in Will
 
 ## Skills
 
-Trained in [[Crafting]]
+Trained in [[DATABASE/skill/Crafting|Crafting]]
  Trained in a number of additional skills equal to 3 plus your Intelligence modifier
 
 ## Attacks
@@ -111,30 +112,29 @@ Trained in inventor class DC
 
 # Class Features
 
-You gain these features as a Inventor. Abilities gained at higher levels list the levels at which you gain them next to the features' names.
-
-|   Your Level | Class Features                                                                                                                 |
-|-------------:|:-------------------------------------------------------------------------------------------------------------------------------|
-|            1 | Ancestry and background, initial proficiencies, overdrive, innovation, explode, peerless inventor, shield block, inventor feat |
-|            2 | Inventor feat, skill feat                                                                                                      |
-|            3 | Expert overdrive, general feat, reconfigure, skill increase                                                                    |
-|            4 | Inventor feat, skill feat                                                                                                      |
-|            5 | Ability boosts, ancestry feat, inventor weapon expertise, skill increase                                                       |
-|            6 | Inventor feat, skill feat                                                                                                      |
-|            7 | Breakthrough innovation, general feat, lightning reflexes, master overdrive, skill increase, weapon specialization             |
-|            8 | Inventor feat, skill feat                                                                                                      |
-|            9 | Ancestry feat, inventive expertise, offensive boost, skill increase                                                            |
-|           10 | Ability boosts, inventor feat, skill feat                                                                                      |
-|           11 | General feat, medium armor expertise, resolve, skill increase                                                                  |
-|           12 | Inventor feat, skill feat                                                                                                      |
-|           13 | Alertness, ancestry feat, complete reconfiguration, inventor weapon mastery, skill increase                                    |
-|           14 | Inventor feat, skill feat                                                                                                      |
-|           15 | Ability boosts, general feat, greater weapon specialization, legendary overdrive, revolutionary innovation, skill increase     |
-|           16 | Inventor feat, skill feat                                                                                                      |
-|           17 | Ancestry feat, inventive mastery, juggernaut, skill increase                                                                   |
-|           18 | Inventor feat, skill feat                                                                                                      |
-|           19 | General feat, infinite invention, medium armor mastery, skill increase                                                         |
-|           20 | Ability boosts, inventor feat, skill feat                                                                                      |
+You gain these features as a Inventor. Abilities gained at higher levels list the levels at which you gain them next to the features' names.| 0 | 1 |
+|:-----------|:-------------------------------------------------------------------------------------------------------------------------------|
+| Your Level | Class Features |
+| 1 | Ancestry and background, initial proficiencies, overdrive, innovation, explode, peerless inventor, shield block, inventor feat |
+| 2 | Inventor feat, skill feat |
+| 3 | Expert overdrive, general feat, reconfigure, skill increase |
+| 4 | Inventor feat, skill feat |
+| 5 | Ability boosts, ancestry feat, inventor weapon expertise, skill increase |
+| 6 | Inventor feat, skill feat |
+| 7 | Breakthrough innovation, general feat, lightning reflexes, master overdrive, skill increase, weapon specialization |
+| 8 | Inventor feat, skill feat |
+| 9 | Ancestry feat, inventive expertise, offensive boost, skill increase |
+| 10 | Ability boosts, inventor feat, skill feat |
+| 11 | General feat, medium armor expertise, resolve, skill increase |
+| 12 | Inventor feat, skill feat |
+| 13 | Alertness, ancestry feat, complete reconfiguration, inventor weapon mastery, skill increase |
+| 14 | Inventor feat, skill feat |
+| 15 | Ability boosts, general feat, greater weapon specialization, legendary overdrive, revolutionary innovation, skill increase |
+| 16 | Inventor feat, skill feat |
+| 17 | Ancestry feat, inventive mastery, juggernaut, skill increase |
+| 18 | Inventor feat, skill feat |
+| 19 | General feat, infinite invention, medium armor mastery, skill increase |
+| 20 | Ability boosts, inventor feat, skill feat |
 
 ## Ancestry and Background
 
@@ -148,14 +148,14 @@ At 1st level, you gain a number of proficiencies that represent your basic train
 
 You have a bevy of smaller devices of your own invention, from muscle stimulants to concussive pistons. When it's necessary, you can throw them into overdrive to assist you in combat.
 
-### [[Overdrive]] <span class="action-icon">1</span>
+### [[DATABASE/action/Overdrive|Overdrive]] <span class="action-icon">1</span>
 
 <span class="item-trait">Inventor</span><span class="item-trait">Manipulate</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Frequency** once per round
 
 ---
-Temporarily cranking the gizmos on your body into overdrive, you try to add greater power to your attacks. Attempt a [[Crafting]] check that has a standard DC for your level.
+Temporarily cranking the gizmos on your body into overdrive, you try to add greater power to your attacks. Attempt a [[DATABASE/skill/Crafting|Crafting]] check that has a standard DC for your level.
 **Critical Success** Your gizmos go into a state of incredible efficiency called critical overdrive, adding great power to your attacks. Your Strikes deal additional damage equal to your Intelligence modifier for 1 minute. After the Overdrive ends, your gizmos become unusable as they cool down or reset, and you can't use Overdrive for 1 minute.
 **Success** Your gizmos go into overdrive, adding power to your attacks. As critical success, except the additional damage is equal to half your Intelligence modifier.
 **Failure** You make a miscalculation and nothing happens.
@@ -164,7 +164,7 @@ Temporarily cranking the gizmos on your body into overdrive, you try to add grea
 
 ## Innovation
 
-While you're always creating inventions, there's one that represents your preeminent work, the one that you hope—with refinement—might change the world. Choose one innovation. Your innovation's level is equal to your level. If your innovation is destroyed, you can spend 1 day of downtime and attempt a [[Crafting]] check with a high DC for your level; on a success, you rebuild it. An innovation only works due to your constant maintenance and tinkering, and therefore has no market Price. 
+While you're always creating inventions, there's one that represents your preeminent work, the one that you hope—with refinement—might change the world. Choose one innovation. Your innovation's level is equal to your level. If your innovation is destroyed, you can spend 1 day of downtime and attempt a [[DATABASE/skill/Crafting|Crafting]] check with a high DC for your level; on a success, you rebuild it. An innovation only works due to your constant maintenance and tinkering, and therefore has no market Price. 
 Innovations can be found here.
 
 ## Explode
@@ -172,10 +172,10 @@ Innovations can be found here.
 Your innovation is a creation barely held together by your own engineering, always on the edge of completely falling apart. Though this adds risk, it also means you can coax it to perform far beyond its design specifications using special unstable actions. 
 While inventors can learn various unstable actions over their career, all at least know how to make their innovation Explode.
 
-### [[Explode]] <span class="action-icon">2</span>
+### [[DATABASE/action/Explode|Explode]] <span class="action-icon">2</span>
 
 <span class="item-trait">Fire</span><span class="item-trait">Inventor</span><span class="item-trait">Manipulate</span><span class="item-trait">Unstable</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 
 ---
 You intentionally take your innovation beyond normal safety limits, making it explode and damage nearby creatures without damaging the innovation... hopefully. The explosion deals 2d6 fire damage with a basic Reflex save to all creatures in a 5-foot emanation around you (if you're wearing or holding the innovation) or around your innovation (if your innovation is a minion).
@@ -184,11 +184,11 @@ You intentionally take your innovation beyond normal safety limits, making it ex
 
 ## Peerless Inventor
 
-You are constantly inventing, and your skill at crafting is unimpeachable. You gain the [[Inventor]] skill feat, even if you don't meet its prerequisites.
+You are constantly inventing, and your skill at crafting is unimpeachable. You gain the [[DATABASE/feat/Inventor|Inventor]] skill feat, even if you don't meet its prerequisites.
 
 ## Shield Block
 
-You gain the [[Shield Block]] general feat, a reaction that lets you reduce damage with your shield.
+You gain the [[DATABASE/feat/Shield Block|Shield Block]] general feat, a reaction that lets you reduce damage with your shield.
 
 ## Inventor Feats
 
@@ -200,7 +200,7 @@ At 2nd level and every 2 levels thereafter, you gain a skill feat. You must be t
 
 ## Expert Overdrive<span class="item-type">Level 3</span>
 
-You've increased your skill in crafting, and you can put your devices into a more powerful state of overdrive. You become an expert in [[Crafting]], and on a successful use of Overdrive, you increase the additional damage by 1.
+You've increased your skill in crafting, and you can put your devices into a more powerful state of overdrive. You become an expert in [[DATABASE/skill/Crafting|Crafting]], and on a successful use of Overdrive, you increase the additional damage by 1.
 
 ## General Feats<span class="item-type">Level 3</span>
 
@@ -208,7 +208,7 @@ At 3rd level and every 4 levels thereafter, you gain a general feat.
 
 ## Reconfigure<span class="item-type">Level 3</span>
 
-You've become an expert in all crafts and are always adjusting your inventions. You can attempt to change the modifications on your innovation by spending 1 day of downtime tinkering with it and attempting a [[Crafting]] check, with a high DC for your level. On a success, you can change one modification you've chosen for your innovation to a different modification of the same kind (initial, breakthrough, or revolutionary).
+You've become an expert in all crafts and are always adjusting your inventions. You can attempt to change the modifications on your innovation by spending 1 day of downtime tinkering with it and attempting a [[DATABASE/skill/Crafting|Crafting]] check, with a high DC for your level. On a success, you can change one modification you've chosen for your innovation to a different modification of the same kind (initial, breakthrough, or revolutionary).
  If you have any modification feats, on a successful check you can choose to instead retrain a modification feat to a different modification feat. The new feat has to meet the standard restrictions for retraining.
 
 ## Skill Increases<span class="item-type">Level 3</span>
@@ -226,7 +226,7 @@ In addition to the ancestry feat you started with, you gain an ancestry feat at 
 
 ## Inventor Weapon Expertise<span class="item-type">Level 5</span>
 
-You develop tricks for using your weapons more effectively. Your proficiency ranks for simple and martial weapons and unarmed attacks increase to expert. If you have a [[Weapon Innovation]], you gain access to the critical specialization effect with your innovation.
+You develop tricks for using your weapons more effectively. Your proficiency ranks for simple and martial weapons and unarmed attacks increase to expert. If you have a [[DATABASE/inventorinnovation/Weapon Innovation|weapon innovation]], you gain access to the critical specialization effect with your innovation.
 
 ## Breakthrough Innovation<span class="item-type">Level 7</span>
 
@@ -238,7 +238,7 @@ Your reflexes are lightning fast. Your proficiency rank for Reflex saves increas
 
 ## Master Overdrive<span class="item-type">Level 7</span>
 
-Your mastery of invention and crafting enhances your Overdrive even further. You become a master in [[Crafting]], and on a successful Overdrive, you increase the additional damage by a total of 2, replacing the increase from expert overdrive.
+Your mastery of invention and crafting enhances your Overdrive even further. You become a master in [[DATABASE/skill/Crafting|Crafting]], and on a successful Overdrive, you increase the additional damage by a total of 2, replacing the increase from expert overdrive.
 
 ## Weapon Specialization<span class="item-type">Level 7</span>
 
@@ -250,7 +250,7 @@ Through innovation and experimentation, you've made your inventions more effecti
 
 ## Offensive Boost<span class="item-type">Level 9</span>
 
-You've made additions to your innovation to upgrade your offensive capabilities. Your improvements make any Strikes that rely on your innovation deal an additional 1d6 damage, with a type determined by the boost you choose. If your innovation is [[Armor Innovation]], the boost applies to your melee unarmed Strikes and to your melee Strikes with one weapon you choose during daily preparations; if your innovation is a [[Construct Innovation]], the boost applies to your construct companion's Strikes; and if your innovation is a [[Weapon Innovation]], the boost applies to your Strikes with your innovation. You can spend downtime to switch to a different boost in the same way as switching your modification. Choose one of the following boosts, with the damage type in parentheses.
+You've made additions to your innovation to upgrade your offensive capabilities. Your improvements make any Strikes that rely on your innovation deal an additional 1d6 damage, with a type determined by the boost you choose. If your innovation is [[DATABASE/inventorinnovation/Armor Innovation|armor]], the boost applies to your melee unarmed Strikes and to your melee Strikes with one weapon you choose during daily preparations; if your innovation is a [[DATABASE/inventorinnovation/Construct Innovation|construct]], the boost applies to your construct companion's Strikes; and if your innovation is a [[DATABASE/inventorinnovation/Weapon Innovation|weapon]], the boost applies to your Strikes with your innovation. You can spend downtime to switch to a different boost in the same way as switching your modification. Choose one of the following boosts, with the damage type in parentheses.
 
 * **Chill (Cold)**: Your innovation rapidly absorbs heat, creating an intense chill.
 * **Ignition (Fire)**: Your innovation shoots out jets of searing flame.
@@ -275,7 +275,7 @@ Your attention to detail lets you remain alert to threats around you. Your profi
 
 ## Complete Reconfiguration<span class="item-type">Level 13</span>
 
-When it comes to crafting and tinkering, you've become incredibly adept at changing your modifications to adjust your innovation's functionality. When you spend downtime to reconfigure your innovation and succeed at your [[Crafting]] check, you can swap any number of modifications, swap your offensive boost, or retrain any number of modification feats, rather than one. You still must swap a modification only with one of the same type (initial, breakthrough, or revolutionary).
+When it comes to crafting and tinkering, you've become incredibly adept at changing your modifications to adjust your innovation's functionality. When you spend downtime to reconfigure your innovation and succeed at your [[DATABASE/skill/Crafting|Crafting]] check, you can swap any number of modifications, swap your offensive boost, or retrain any number of modification feats, rather than one. You still must swap a modification only with one of the same type (initial, breakthrough, or revolutionary).
 
 ## Inventor Weapon Mastery<span class="item-type">Level 13</span>
 
@@ -287,7 +287,7 @@ Your damage from weapon specialization increases to 4 with weapons and unarmed a
 
 ## Legendary Overdrive<span class="item-type">Level 15</span>
 
-Your peerless inventing and [[Crafting]] ability has supercharged your Overdrives. You become legendary in Crafting, and on a successful Overdrive, you increase the additional damage by a total of 3, replacing the increase from master overdrive.
+Your peerless inventing and [[DATABASE/skill/Crafting|Crafting]] ability has supercharged your Overdrives. You become legendary in Crafting, and on a successful Overdrive, you increase the additional damage by a total of 3, replacing the increase from master overdrive.
 
 ## Revolutionary Innovation<span class="item-type">Level 15</span>
 
@@ -303,7 +303,7 @@ Your body is accustomed to physical hardship and resistant to ailments. Your pro
 
 ## Infinite Invention<span class="item-type">Level 19</span>
 
-Your ability to adjust your innovation has reached impossible heights, and you can use these skills to make major adjustments in your spare time. During your daily preparations, you automatically fix your innovation if it's destroyed or [[Broken]], and you can change to a different innovation ([[Armor Innovation]], [[Construct Innovation]], [[Weapon Innovation]], or other type you have access to) and change your modifications and offensive boost.
+Your ability to adjust your innovation has reached impossible heights, and you can use these skills to make major adjustments in your spare time. During your daily preparations, you automatically fix your innovation if it's destroyed or [[DATABASE/condition/Broken|broken]], and you can change to a different innovation ([[DATABASE/inventorinnovation/Armor Innovation|armor]], [[DATABASE/inventorinnovation/Construct Innovation|construct]], [[DATABASE/inventorinnovation/Weapon Innovation|weapon]], or other type you have access to) and change your modifications and offensive boost.
  If you have any feats that had your previous innovation as a prerequisite, you can't use them until you retrain the feats as normal. However, it takes you only 1 day of downtime to retrain such a feat into a feat that has your new innovation as a prerequisite, instead of 1 week.
 
 ## Medium Armor Mastery<span class="item-type">Level 19</span>

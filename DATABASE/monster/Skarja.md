@@ -132,32 +132,32 @@ Skarja has been collecting souls on the Isle of Kortos for many years. Recently,
 
 Skarja has survived this long because she is careful and cautious. She learns about the heroes' arrival early on, and she is canny enough to realize that they might pose a threat. She plans to keep entirely out of the heroes' sight, hoping they never discover her existence. Skarja doesn't appear to Vandy while the heroes are in Kerrick, but to keep close to Vandy, both spiritually and physically, Skarja keeps her _heartstone_ hidden on his property. She doesn't consider it dangerous to leave it there, as she knows the mortician's habits well enough to know he won't discover it.
  Skarja isn't aware of how many clues she left while collecting souls throughout the Swardlands. The heroes might pick up on these clues and put the pieces together when they recover Ginjana's notes. If the heroes collect enough evidence to convince Vandy to confide in them, he suggests they search his home. Skarja isn't expecting the heroes to discover her hidden _heartstone_, either. If they claim it, she has no choice to but to eliminate them, lest all her hard work to claim Vandy's soul go to waste.
-**Recall Knowledge - Fiend ([[Religion]])**: DC 41
-**Recall Knowledge - Humanoid ([[Society]])**: DC 41
+**Recall Knowledge - Fiend ([[DATABASE/skill/Religion|Religion]])**: DC 41
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 41
 **Unspecific Lore**: DC 39
 **Specific Lore**: DC 36
 
-## Elite | [[Skarja]] | Weak
+## Elite | [[DATABASE/monster/Skarja|Normal]] | Weak
 Proficiency without Level
 
 # Skarja<span class="item-type">Creature 13</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Fiend</span><span class="item-trait">Hag</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 153. Life's Long Shadows]]
-Female [[Night Hag]] corruptor
-**Perception** +25; [[Darkvision]]
-**Languages** [[Abyssal]], [[Aklo]], [[Celestial]], [[Common]], [[Infernal]]
-**Skills** [[Arcana]] +23, [[Deception]] +26, [[Diplomacy]] +24, [[Intimidation]] +24, [[Occultism]] +25, [[Religion]] +25
+**Source** [[DATABASE/source/Pathfinder 153. Life's Long Shadows|Pathfinder #153: Life's Long Shadows]]
+Female [[DATABASE/monster/Night Hag|night hag]] corruptor
+**Perception** +25; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Abyssal|Abyssal]], [[DATABASE/language/Aklo|Aklo]], [[DATABASE/language/Celestial|Celestial]], [[DATABASE/language/Common|Common]], [[DATABASE/language/Infernal|Infernal]]
+**Skills** [[DATABASE/skill/Arcana|Arcana]] +23, [[DATABASE/skill/Deception|Deception]] +26, [[DATABASE/skill/Diplomacy|Diplomacy]] +24, [[DATABASE/skill/Intimidation|Intimidation]] +24, [[DATABASE/skill/Occultism|Occultism]] +25, [[DATABASE/skill/Religion|Religion]] +25
 **Str** +7, **Dex** +5, **Con** +6, **Int** +4, **Wis** +6, **Cha** +5
-**[[Coven]]** Skarja adds [[Dominate]], [[Nightmare]], [[Scrying]], and [[Spellwrack]] to her coven's spells.
-**Nightmare Rider** When Skarja rides a [[Nightmare]], the nightmare also gains her status bonus to saves against magic, and both the hag and rider benefit when Skarja uses her _heartstone's_ [[Ethereal Jaunt]] innate spell.
-**Items** [[Heartstone]]
+**[[DATABASE/monsterability/Coven|Coven]]** Skarja adds [[DATABASE/spell/Dominate|dominate]], [[DATABASE/monster/Nightmare|nightmare]], [[DATABASE/spell/Scrying|scrying]], and [[DATABASE/spell/Spellwrack|spellwrack]] to her coven's spells.
+**Nightmare Rider** When Skarja rides a [[DATABASE/monster/Nightmare|nightmare]], the nightmare also gains her status bonus to saves against magic, and both the hag and rider benefit when Skarja uses her _heartstone's_ [[DATABASE/spell/Ethereal Jaunt|ethereal jaunt]] innate spell.
+**Items** [[DATABASE/equipment/Heartstone|Skarja's heartstone]]
 
 ---
 **AC** 34; **Fort** +23, **Ref** +22, **Will** +23
-**HP** 260; **Immunities** sleep; **Resistances** mental 15; **Weaknesses** [[Cold Iron Weapon]] 15
+**HP** 260; **Immunities** sleep; **Resistances** mental 15; **Weaknesses** [[DATABASE/equipment/Cold Iron Weapon|cold iron]] 15
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +26 [+21/+16] (magical), **Damage** 3d8+9 piercing plus 1d10 evil and Abyssal plague</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +26 [+22/+18] (agile, magical), **Damage** 3d10+9 slashing plus 1d10 evil</span>**Occult Innate Spells** DC 33, attack +25; **9th** _[[Bind Soul]]_ (at will; from _heartstone_), _[[Ethereal Jaunt]]_ (at will; from _heartstone_); **8th** _[[Dream Council]]_; **6th** _[[Shadow Blast]]_ (×2; from _heartstone_), _[[Spirit Blast]]_ (from _heartstone_); **5th** _[[Nightmare]]_; **4th** _[[Dream Message]]_ (at will), _[[Magic Missile]]_ (at will); **2nd** _[[Invisibility]]_ (at will); **1st** _[[Ray of Enfeeblement]]_ (at will), _[[Sleep]]_ (at will); **Constant** **(3rd)** _[[Detect Magic]]_; **(2nd)** _[[Detect Alignment]]_ (all alignments simultaneously)
-<span class="in-box-ability">**Abyssal Plague** (disease) A creature can't recover from the [[Drained]] condition until Abyssal plague is cured; **Saving Throw** DC 33 Fortitude; **Stage 1** drained 1 (1 day); **Stage 2** drained increases by 2 (1 day)</span><span class="in-box-ability">**[[Change Shape]]** <span class="action-icon">1</span> (concentrate, occult, polymorph, transmutation) Skarja can take on the appearance of any Medium female humanoid. This doesn't change her Speed or her attack or damage bonuses with her Strikes, but might change the damage type her Strikes deal (typically to bludgeoning).</span><span class="in-box-ability">**Dream Haunting** (enchantment, occult, mental) If Skarja is ethereal and hovering over a sleeping chaotic or evil creature, she can ride the victim's back until dawn. The creature endures tormenting dreams as Skarja casts [[Nightmare]] on it, and is exposed to Abyssal plague. Any drained condition caused by dream haunting is cumulative. Only an ethereal being can confront the night hag and stop her dream haunting.</span><span class="in-box-ability">**Spell Ambush** A creature [[Flat-Footed]] to the night hag takes a –2 circumstance penalty to checks and DCs to defend against her spells.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +26 [+21/+16] (magical), **Damage** 3d8+9 piercing plus 1d10 evil and Abyssal plague</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +26 [+22/+18] (agile, magical), **Damage** 3d10+9 slashing plus 1d10 evil</span>**Occult Innate Spells** DC 33, attack +25; **9th** _[[DATABASE/spell/Bind Soul|bind soul]]_ (at will; from _heartstone_), _[[DATABASE/spell/Ethereal Jaunt|ethereal jaunt]]_ (at will; from _heartstone_); **8th** _[[DATABASE/spell/Dream Council|dream council]]_; **6th** _[[DATABASE/spell/Shadow Blast|shadow blast]]_ (×2; from _heartstone_), _[[DATABASE/spell/Spirit Blast|spirit blast]]_ (from _heartstone_); **5th** _[[DATABASE/spell/Nightmare|nightmare]]_; **4th** _[[DATABASE/spell/Dream Message|dream message]]_ (at will), _[[DATABASE/spell/Magic Missile|magic missile]]_ (at will); **2nd** _[[DATABASE/spell/Invisibility|invisibility]]_ (at will); **1st** _[[DATABASE/spell/Ray of Enfeeblement|ray of enfeeblement]]_ (at will), _[[DATABASE/spell/Sleep|sleep]]_ (at will); **Constant** **(3rd)** _[[DATABASE/spell/Detect Magic|detect magic]]_; **(2nd)** _[[DATABASE/spell/Detect Alignment|detect alignment]]_ (all alignments simultaneously)
+<span class="in-box-ability">**Abyssal Plague** (disease) A creature can't recover from the [[DATABASE/condition/Drained|drained]] condition until Abyssal plague is cured; **Saving Throw** DC 33 Fortitude; **Stage 1** drained 1 (1 day); **Stage 2** drained increases by 2 (1 day)</span><span class="in-box-ability">**[[DATABASE/monsterability/Change Shape|Change Shape]]** <span class="action-icon">1</span> (concentrate, occult, polymorph, transmutation) Skarja can take on the appearance of any Medium female humanoid. This doesn't change her Speed or her attack or damage bonuses with her Strikes, but might change the damage type her Strikes deal (typically to bludgeoning).</span><span class="in-box-ability">**Dream Haunting** (enchantment, occult, mental) If Skarja is ethereal and hovering over a sleeping chaotic or evil creature, she can ride the victim's back until dawn. The creature endures tormenting dreams as Skarja casts [[DATABASE/monster/Nightmare|nightmare]] on it, and is exposed to Abyssal plague. Any drained condition caused by dream haunting is cumulative. Only an ethereal being can confront the night hag and stop her dream haunting.</span><span class="in-box-ability">**Spell Ambush** A creature [[DATABASE/condition/Flat-Footed|flat-footed]] to the night hag takes a –2 circumstance penalty to checks and DCs to defend against her spells.</span>

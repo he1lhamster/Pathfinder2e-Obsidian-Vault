@@ -11,6 +11,7 @@ name: Slip with the Breeze
 prerequisite: Expert in [[DATABASE/skill/Athletics|Athletics]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,14 +24,14 @@ type: Feat
 # Slip with the Breeze <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Sylph</span>
-**Source** [[Ancestry Guide]] 
-**Prerequisites** expert in [[Athletics]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
+**Prerequisites** expert in [[DATABASE/skill/Athletics|Athletics]]
 
 ---
-You create gusts of wind when you jump, allowing you to carry yourself across greater distances. You gain the [[Quick Jump]] and [[Powerful Leap]] skill feats as bonus feats.
+You create gusts of wind when you jump, allowing you to carry yourself across greater distances. You gain the [[DATABASE/feat/Quick Jump|Quick Jump]] and [[DATABASE/feat/Powerful Leap|Powerful Leap]] skill feats as bonus feats.
 
 ## Traits
 
 **Sylph:**
 
-Sylphs are planar scions descended from [[Djinni]].
+Sylphs are planar scions descended from [[DATABASE/monster/Djinni|djinn]].

@@ -11,6 +11,7 @@ name: Fortified Fiefs
 prerequisite: Trained in [[DATABASE/skill/Defense|Defense]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Fortified Fiefs <span class="item-type">Feat 1</span>
 
 <span class="item-trait">General</span><span class="item-trait">Kingdom</span>
-**Source** [[Kingmaker Adventure Path]]
-**Prerequisites** trained in [[Defense]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
+**Prerequisites** trained in [[DATABASE/skill/Defense|Defense]]
 
 ---
 Your vassals take their duty to protect those under their stewardship seriously, and your engineers emphasize the value of a strong defense when it comes to building settlements and fortifications. You gain a +2 circumstance bonus to checks attempted as part of the Fortify Hex activity and on activities to build or repair a Barracks, Castle, Garrison, Keep, Stone Wall, or Wooden Wall. In addition, you gain a +1 status bonus to all kingdom checks attempted during dangerous events that directly impact your settlements' defenses.

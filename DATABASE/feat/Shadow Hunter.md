@@ -11,6 +11,7 @@ name: Shadow Hunter
 prerequisite: '[[DATABASE/feat/Camouflage|Camouflage]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Shadow Hunter <span class="item-type">Feat 18</span>
 
 <span class="item-trait">Ranger</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Camouflage]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/feat/Camouflage|Camouflage]]
 
 ---
 You blend in to your surroundings so well that others have trouble telling you apart from the terrain. While in natural terrain, you’re always concealed from all foes if you choose to be, except for your hunted prey.

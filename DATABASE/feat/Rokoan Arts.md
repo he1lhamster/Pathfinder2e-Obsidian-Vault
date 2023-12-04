@@ -11,6 +11,7 @@ name: Rokoan Arts
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Rokoan Arts <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Strix</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-Ancestral spirits have begun to bond themselves to you, granting you powers characteristic of a rokoa. You can cast [[Speak with Animals]] and [[Status]] as primal innate spells once per day each.
+Ancestral spirits have begun to bond themselves to you, granting you powers characteristic of a rokoa. You can cast [[DATABASE/spell/Speak with Animals|speak with animals]] and [[DATABASE/spell/Status|status]] as primal innate spells once per day each.
 
 ## Traits
 

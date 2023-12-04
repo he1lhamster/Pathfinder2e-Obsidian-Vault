@@ -70,19 +70,19 @@ wisdom: '+0'
 # Bitter Truth Bandit
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 27
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 27
 **Unspecific Lore**: DC 25
 **Specific Lore**: DC 22
 
 # Bitter Truth Bandit<span class="item-type">Creature 6</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">CN</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 153. Life's Long Shadows]]
+**Source** [[DATABASE/source/Pathfinder 153. Life's Long Shadows|Pathfinder #153: Life's Long Shadows]]
 **Perception** +12
-**Languages** [[Common]]
-**Skills** [[Acrobatics]] +14, [[Athletics]] +14, [[Intimidation]] +12, [[Society]] +10, [[Stealth]] +16, [[Survival]] +12
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +14, [[DATABASE/skill/Athletics|Athletics]] +14, [[DATABASE/skill/Intimidation|Intimidation]] +12, [[DATABASE/skill/Society|Society]] +10, [[DATABASE/skill/Stealth|Stealth]] +16, [[DATABASE/skill/Survival|Survival]] +12
 **Str** +4, **Dex** +4, **Con** +3, **Int** +0, **Wis** +0, **Cha** +2
-**Items** [[Composite Shortbow]], [[Hatchet]], [[Padded Armor]]
+**Items** [[DATABASE/weapon/Composite Shortbow|composite shortbow (20 arrows)]], [[DATABASE/weapon/Hatchet|hatchets (2)]], [[DATABASE/armor/Padded Armor|padded armor]]
 
 ---
 **AC** 22; **Fort** +15, **Ref** +16, **Will** +10
@@ -90,4 +90,4 @@ This creature did not include a description.
 
 ---
 **Speed** 30 feet, mobility
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> hatchet +16 [+12/+8] (agile, sweep), **Damage** 1d6+6 slashing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> composite shortbow +16 [+11/+6] (deadly d10, range increment 60 feet), **Damage** 1d6+8 piercing plus muscle striker</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> hatchet +16 [+12/+8] (agile, sweep, thrown 10 feet), **Damage** 1d6+6 slashing</span><span class="in-box-ability">**Experienced Ambusher** Striking from [[Concealed]] doesn't cause the bandit to become [[Observed]].</span><span class="in-box-ability">**Muscle Striker A target damaged by the bandit's shortbow Strike must succeed at a DC 22 Fortitude save or be [[Slowed]] until the end of the bandit's next turn.** </span><span class="in-box-ability">**[[Sneak Attack]]** A bandit deals an additional 2d6 precision damage to [[Flat-Footed]] creatures.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> hatchet +16 [+12/+8] (agile, sweep), **Damage** 1d6+6 slashing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> composite shortbow +16 [+11/+6] (deadly d10, range increment 60 feet), **Damage** 1d6+8 piercing plus muscle striker</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> hatchet +16 [+12/+8] (agile, sweep, thrown 10 feet), **Damage** 1d6+6 slashing</span><span class="in-box-ability">**Experienced Ambusher** Striking from [[DATABASE/condition/Concealed|concealment]] doesn't cause the bandit to become [[DATABASE/condition/Observed|observed]].</span><span class="in-box-ability">**Muscle Striker A target damaged by the bandit's shortbow Strike must succeed at a DC 22 Fortitude save or be [[DATABASE/condition/Slowed|slowed 1]] until the end of the bandit's next turn.** </span><span class="in-box-ability">**[[DATABASE/monsterability/Sneak Attack|Sneak Attack]]** A bandit deals an additional 2d6 precision damage to [[DATABASE/condition/Flat-Footed|flat-footed]] creatures.</span>

@@ -11,6 +11,7 @@ name: Pit of Snakes
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -27,12 +28,12 @@ type: Feat
 # Pit of Snakes <span class="action-icon">3</span> <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Conjuration</span><span class="item-trait">Manipulate</span><span class="item-trait">Nagaji</span><span class="item-trait">Occult</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 **Frequency** once per day
 
 ---
-Mundane serpents obey your summons. You call forth a writhing mass of snakes, raising your hands to cause the snakes to emerge from the ground in a 20-foot burst within 120 feet. The snakes appear on all squares of the ground in the area and remain for 1 minute. When you use Pit of Snakes, all creatures in the area must attempt a Fortitude save against the higher of your class DC or spell DC. Any creature that fails is [[Grabbed]] by a snake and takes 3d6 bludgeoning damage. Whenever a creature ends its turn in the area, the snakes attempt to [[Grab]] that creature if they aren't already grabbing it. Any creature already grabbed instead takes 2d6 bludgeoning damage.
- The snakes' [[Escape]] DC is equal to the higher of your class DC or spell DC. A creature can attack a snake in an attempt to release its grip. The snake's AC is equal to the higher of your class DC or spell DC, and it's destroyed if it takes 12 or more damage. Even if a specific snake is destroyed, additional snakes continue to cavort in the area until the duration ends. You can Dismiss the effect.
+Mundane serpents obey your summons. You call forth a writhing mass of snakes, raising your hands to cause the snakes to emerge from the ground in a 20-foot burst within 120 feet. The snakes appear on all squares of the ground in the area and remain for 1 minute. When you use Pit of Snakes, all creatures in the area must attempt a Fortitude save against the higher of your class DC or spell DC. Any creature that fails is [[DATABASE/condition/Grabbed|grabbed]] by a snake and takes 3d6 bludgeoning damage. Whenever a creature ends its turn in the area, the snakes attempt to [[DATABASE/monsterability/Grab|Grab]] that creature if they aren't already grabbing it. Any creature already grabbed instead takes 2d6 bludgeoning damage.
+ The snakes' [[DATABASE/action/Escape|Escape]] DC is equal to the higher of your class DC or spell DC. A creature can attack a snake in an attempt to release its grip. The snake's AC is equal to the higher of your class DC or spell DC, and it's destroyed if it takes 12 or more damage. Even if a specific snake is destroyed, additional snakes continue to cavort in the area until the duration ends. You can Dismiss the effect.
 
 ## Traits
 

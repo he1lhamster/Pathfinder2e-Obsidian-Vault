@@ -20,6 +20,7 @@ patron_theme: null
 range: varies
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Fortitude
 school: Evocation
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
@@ -37,7 +38,7 @@ type: Spell
 # Kinetic Ram<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Evocation</span><span class="item-trait">Force</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Traditions** arcane, occult
 **Cast** <span class="action-icon">1</span> to <span class="action-icon">3</span> verbal
 **Range** varies; **Targets** 1 or more creatures

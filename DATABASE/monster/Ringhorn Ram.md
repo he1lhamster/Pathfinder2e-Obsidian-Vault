@@ -67,16 +67,16 @@ wisdom: '+2'
 # Ringhorn Ram
 
 Ringhorn rams, named for the massive, curving spirals protruding from their heads, travel the plains. Though these rams tend to be slightly more playful and less vindictive than those in the mountains, they are no less stubborn or hardy.
-**Recall Knowledge - Animal ([[Nature]])**: DC 14
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 14
 **Unspecific Lore**: DC 12
 **Specific Lore**: DC 9
 
 # Ringhorn Ram<span class="item-type">Creature 0</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary 3]]
-**Perception** +6; [[Low-Light Vision]]
-**Skills** [[Acrobatics]] +4, [[Athletics]] +5, [[Stealth]] +4, [[Survival]] +6
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
+**Perception** +6; [[DATABASE/monsterability/Low-Light Vision|low-light vision]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +4, [[DATABASE/skill/Athletics|Athletics]] +5, [[DATABASE/skill/Stealth|Stealth]] +4, [[DATABASE/skill/Survival|Survival]] +6
 **Str** +3, **Dex** +2, **Con** +2, **Int** -5, **Wis** +2, **Cha** +0
 
 ---

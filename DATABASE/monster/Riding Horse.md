@@ -63,16 +63,16 @@ wisdom: '+2'
 # Riding Horse
 
 _This entry did not have a separate description for the creature._
-**Recall Knowledge - Animal ([[Nature]])**: DC 15
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Riding Horse<span class="item-type">Creature 1</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +5; low-light vision, scent (imprecise) 30 feet
-**Skills** [[Acrobatics]] +6, [[Athletics]] +7
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +6, [[DATABASE/skill/Athletics|Athletics]] +7
 **Str** +4, **Dex** +3, **Con** +4, **Int** -4, **Wis** +2, **Cha** -1
 
 ---

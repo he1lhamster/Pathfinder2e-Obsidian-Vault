@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -50,9 +51,9 @@ weapon_type: null
 ---
 # Smoked Goggles<span class="item-type">Item 3</span>
 
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 20 gp
 **Usage** worn eyepiece; **Bulk** —
 
 ---
-These goggles use lenses made out of smoked glass to protect against creatures with gaze attacks. While wearing smoked goggles, you're always considered to be [[Avert Gaze]], but all creatures have [[Concealed]] from you. The fact that the goggles conceal creatures is part of what grants the wearer the item's benefits. If you have a way to negate the concealment from the smoked goggles, you no longer gain the benefit, either.
+These goggles use lenses made out of smoked glass to protect against creatures with gaze attacks. While wearing smoked goggles, you're always considered to be [[DATABASE/action/Avert Gaze|Averting your Gaze]], but all creatures have [[DATABASE/condition/Concealed|concealment]] from you. The fact that the goggles conceal creatures is part of what grants the wearer the item's benefits. If you have a way to negate the concealment from the smoked goggles, you no longer gain the benefit, either.

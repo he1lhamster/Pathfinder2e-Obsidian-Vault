@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -52,7 +53,7 @@ weapon_type: null
 # Adamantine Shield<span class="item-type">Item 8+</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** varies by shield; **Bulk** —
 
 ---
@@ -60,11 +61,11 @@ Adamantine shields are particularly sturdy, and when used for a shield bash, the
 
 ### Base Material
 
-[[Adamantine]]
+[[DATABASE/equipment/Adamantine|Adamantine]]
 
 ## Adamantine Buckler (Standard-Grade)<span class="item-type">Item 8</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 400 gp
 **Bulk** L
 The shield has Hardness 8, HP 32, and BT 16.
@@ -72,7 +73,7 @@ The shield has Hardness 8, HP 32, and BT 16.
 
 ## Adamantine Shield (Standard-Grade)<span class="item-type">Item 8</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 440 gp
 **Bulk** 1
 The shield has Hardness 10, HP 40, and BT 20.
@@ -80,7 +81,7 @@ The shield has Hardness 10, HP 40, and BT 20.
 
 ## Adamantine Buckler (High-Grade)<span class="item-type">Item 16</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 8,000 gp
 **Bulk** L
 The shield has Hardness 11, HP 44, and BT 22.
@@ -88,7 +89,7 @@ The shield has Hardness 11, HP 44, and BT 22.
 
 ## Adamantine Shield (High-Grade)<span class="item-type">Item 16</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 8,800 gp
 **Bulk** 1
 The shield has Hardness 13, HP 52, and BT 26.

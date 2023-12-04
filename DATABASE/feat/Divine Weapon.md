@@ -11,6 +11,7 @@ name: Divine Weapon
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Divine Weapon <span class="action-icon">4</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Cleric</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Frequency** once per turn
 **Trigger** You finish Casting a Spell using one of your divine spell slots on your turn.
 

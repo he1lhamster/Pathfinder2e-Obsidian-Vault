@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: DC 37 Fortitude
 school: null
 size: null
@@ -59,11 +60,11 @@ weapon_type: null
 # Frenzy Oil<span class="item-type">Item 16</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Contact</span><span class="item-trait">Poison</span>
-**Source** [[Pathfinder 149. Against the Scarlet Triad]]
+**Source** [[DATABASE/source/Pathfinder 149. Against the Scarlet Triad|Pathfinder #149: Against the Scarlet Triad]]
 **Price** 1,500 gp
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
 ---
-This oil, which is pressed from [[Vrock (Wrath Demon)]] spores and mixed with a combination of acacia ash and thistle seeds, seeps into the skin of living creatures, initially inspiring irritability that unpredictably manifests as berserk rage.
- **Saving Throw** DC 37 Fortitude; **Onset** 1d6 minutes; **Maximum Duration** 6 rounds; **Stage 1** 4d6 mental damage, [[Quickened]], attack nearby creatures as if [[Confused]] (1 round); **Stage 2** 6d6 mental damage, attack nearby creatures as if confused (1 round); **Stage 3** 8d6 mental damage, [[Fatigued]], attack nearby creatures as if confused (1 round)
+This oil, which is pressed from [[DATABASE/monster/Vrock (Wrath Demon)|vrock]] spores and mixed with a combination of acacia ash and thistle seeds, seeps into the skin of living creatures, initially inspiring irritability that unpredictably manifests as berserk rage.
+ **Saving Throw** DC 37 Fortitude; **Onset** 1d6 minutes; **Maximum Duration** 6 rounds; **Stage 1** 4d6 mental damage, [[DATABASE/condition/Quickened|quickened 1]], attack nearby creatures as if [[DATABASE/condition/Confused|confused]] (1 round); **Stage 2** 6d6 mental damage, attack nearby creatures as if confused (1 round); **Stage 3** 8d6 mental damage, [[DATABASE/condition/Fatigued|fatigued]], attack nearby creatures as if confused (1 round)

@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Enchantment
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Dazing Coil<span class="item-type">Item 14</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Enchantment</span><span class="item-trait">Magical</span><span class="item-trait">Talisman</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 900 gp
 **Usage** affixed to a weapon; **Bulk** —
 **Activate** <span class="action-icon">4</span> envision **Trigger** You deal damage to a flat-footed creature with the affixed weapon

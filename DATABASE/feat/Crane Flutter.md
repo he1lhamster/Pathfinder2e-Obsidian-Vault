@@ -11,6 +11,7 @@ name: Crane Flutter
 prerequisite: '[[DATABASE/feat/Crane Stance|Crane Stance]]'
 rarity: Common
 requirement: You are in Crane Stance
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Crane Flutter <span class="action-icon">5</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Monk</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Martial Artist]]*
-**Prerequisites** [[Crane Stance]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Martial Artist|Martial Artist]]*
+**Prerequisites** [[DATABASE/feat/Crane Stance|Crane Stance]]
 **Trigger** You are targeted with a melee attack by an attacker you can see.
 **Requirements** You are in Crane Stance
 * This archetype offers Crane Flutter at a different level than displayed here.

@@ -31,6 +31,7 @@ rarity: Unique
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 size: null
@@ -59,12 +60,12 @@ weapon_type: null
 # Sparkwarden<span class="item-type">Item 5</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="item-trait">Conjuration</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span><span class="item-trait">Relic</span><span class="item-trait">Shadow</span><span class="item-trait">Tattoo</span>
-**Source** [[Pathfinder 193. Mantle of Gold]]
+**Source** [[DATABASE/source/Pathfinder 193. Mantle of Gold|Pathfinder #193: Mantle of Gold]]
 **Usage** tattoo; **Bulk** —
 **Aspects**: forge and shadow
 
 ---
-The geometric designs of this [[Warding Tattoo]] extend the length of your arm, resembling an armored sleeve. The crimson ink sometimes glows softly like warm coals when you're excited or building something new.
+The geometric designs of this [[DATABASE/equipment/Warding Tattoo|warding tattoo]] extend the length of your arm, resembling an armored sleeve. The crimson ink sometimes glows softly like warm coals when you're excited or building something new.
  **Forming the Bond** Defeat Tuom Molgrade and befriend her tattoo guardian with Clan Molgrade's blessing.
  **Advancing the Bond** Create extraordinary objects that earn renown. Protect innocents and your companions despite great personal risk.
  **Minor Gifts** create spark, obscure, shadow smith

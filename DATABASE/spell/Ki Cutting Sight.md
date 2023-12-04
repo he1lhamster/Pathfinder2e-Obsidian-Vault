@@ -19,6 +19,7 @@ patron_theme: null
 range: 30 feet
 rarity: Rare
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Wake the Dead 2|Wake the Dead #2]]'
@@ -34,7 +35,7 @@ type: Focus
 # Ki Cutting Sight<span class="item-type">Focus 3</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Divination</span>
-**Source** [[Wake the Dead 2]]
+**Source** [[DATABASE/source/Wake the Dead 2|Wake the Dead #2]]
 **Cast** <span class="action-icon">1</span> 
 **Range** 30 feet; **Targets** 1 creature
 

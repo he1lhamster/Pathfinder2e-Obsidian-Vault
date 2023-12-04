@@ -2,6 +2,7 @@
 id: '111'
 name: Sussuran
 rarity: Uncommon
+rus_type_level: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -10,9 +11,9 @@ type: Language
 ---
 # Sussuran
 
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 The below entries contain speakers of Sussuran.
 
 ## Monsters (11)
 
-[[Anemos]], [[Blustering Gale]], [[Comozant Wyrd]], [[Despairing Pall]], [[Faydhaan Shuyookh]], [[Gennayn]], [[Jaathoom Shuyookh]], [[Jann Shuyookh]], [[Picture-in-Cloud]], [[Veiled Current]], [[Veldenar]]
+[[DATABASE/monster/Anemos|Anemos]], [[DATABASE/monster/Blustering Gale|Blustering Gale]], [[DATABASE/monster/Comozant Wyrd|Comozant Wyrd]], [[DATABASE/monster/Despairing Pall|Despairing Pall]], [[DATABASE/monster/Faydhaan Shuyookh|Faydhaan Shuyookh]], [[DATABASE/monster/Gennayn|Gennayn]], [[DATABASE/monster/Jaathoom Shuyookh|Jaathoom Shuyookh]], [[DATABASE/monster/Jann Shuyookh|Jann Shuyookh]], [[DATABASE/monster/Picture-in-Cloud|Picture-in-Cloud]], [[DATABASE/monster/Veiled Current|Veiled Current]], [[DATABASE/monster/Veldenar|Veldenar]]

@@ -11,6 +11,7 @@ name: Pushing Attack
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -24,10 +25,10 @@ type: Feat
 # Pushing Attack <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Evolution</span><span class="item-trait">Summoner</span>
-**Source** [[Secrets of Magic]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]]
 
 ---
-Your eidolon has an attack that pushes away enemies. Choose one of the eidolon's unarmed attacks with the shove trait. It gains the [[Push]] action for that attack.
+Your eidolon has an attack that pushes away enemies. Choose one of the eidolon's unarmed attacks with the shove trait. It gains the [[DATABASE/monsterability/Push|Push]] action for that attack.
 
 ## Traits
 

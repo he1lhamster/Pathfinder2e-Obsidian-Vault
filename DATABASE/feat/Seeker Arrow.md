@@ -11,6 +11,7 @@ name: Seeker Arrow
 prerequisite: '[[DATABASE/feat/Eldritch Archer Dedication|Eldritch Archer Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Divination
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,12 +26,12 @@ type: Feat
 # Seeker Arrow <span class="action-icon">1</span> <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Divination</span><span class="item-trait">Magical</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Eldritch Archer]]
-**Prerequisites** [[Eldritch Archer Dedication]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Eldritch Archer|Eldritch Archer]]
+**Prerequisites** [[DATABASE/feat/Eldritch Archer Dedication|Eldritch Archer Dedication]]
 
 ---
-Your shots zip around corners and fly at impossible angles to reach your target. Make a bow Strike against a foe you can see; the ammunition travels to your target, even around corners. You ignore the target's [[Concealed]] condition and all cover.
+Your shots zip around corners and fly at impossible angles to reach your target. Make a bow Strike against a foe you can see; the ammunition travels to your target, even around corners. You ignore the target's [[DATABASE/condition/Concealed|concealed]] condition and all cover.
 
 ## Traits
 

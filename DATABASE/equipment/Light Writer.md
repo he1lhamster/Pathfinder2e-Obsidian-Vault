@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Light Writer<span class="item-type">Item 6</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Clockwork</span><span class="item-trait">Evocation</span><span class="item-trait">Light</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 200 gp (3 gp for 10 metal plates)
 **Bulk** 2
 

@@ -3,6 +3,7 @@ creature_family: Dragon, Magma
 id: '178'
 name: Dragon, Magma
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 trait: null
 type: Creature Family
@@ -10,13 +11,13 @@ type: Creature Family
 ---
 # Dragon, Magma
 
-**Source** [[Bestiary 2]] 
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
 Magma dragons have a reputation among other dragons for being unpredictable and brash. Their temperament and tendency for violent outbursts ensure that the typical magma dragon lives a solitary life, with hatchlings often bickering or fighting to establish dominance among themselves before they leave the nest. A magma dragon always has a reason for their outbursts and can always justify their sudden turns in mood, yet they rarely feel the need to do so.
  Magma dragons build lairs within volcanically active mountains or deep underground amid vast lakes of bubbling magma. As with all true dragons, magma dragons keep hoards of treasure, but the nature of their searing lairs limits the type of valuables they collect to metals, gems, and items capable of resisting the heat of a volcano's core.
 
 ### Members
 
-[[Adult Magma Dragon]] (Creature 13), [[Ancient Magma Dragon]] (Creature 18), [[Young Magma Dragon]] (Creature 9)
+[[DATABASE/monster/Adult Magma Dragon|Adult Magma Dragon]] (Creature 13), [[DATABASE/monster/Ancient Magma Dragon|Ancient Magma Dragon]] (Creature 18), [[DATABASE/monster/Young Magma Dragon|Young Magma Dragon]] (Creature 9)
 
 ###  Magma Dragon Spellcasters
 
@@ -24,15 +25,15 @@ Magma dragon spellcasters tend to cast the following spells.
 
 ## Young
 
-**Primal Prepared Spells** DC 28, attack +20; **4th** [[Stoneskin]], [[Wall of Fire]]; **3rd** [[Haste]], [[Slow]], [[Stinking Cloud]]; **2nd** [[Glitterdust]], [[Obscuring Mist]], [[Restore Senses]]; **1st** [[Air Bubble]], [[Grease]], [[Pass Without Trace]]; **Cantrips (4th)** [[Detect Magic]], [[Prestidigitation]], [[Produce Flame]], [[Read Aura]], [[Tanglefoot]]
+**Primal Prepared Spells** DC 28, attack +20; **4th** [[DATABASE/spell/Stoneskin|stoneskin]], [[DATABASE/spell/Wall of Fire|wall of fire]]; **3rd** [[DATABASE/spell/Haste|haste]], [[DATABASE/spell/Slow|slow]], [[DATABASE/spell/Stinking Cloud|stinking cloud]]; **2nd** [[DATABASE/spell/Glitterdust|glitterdust]], [[DATABASE/spell/Obscuring Mist|obscuring mist]], [[DATABASE/spell/Restore Senses|restore senses]]; **1st** [[DATABASE/spell/Air Bubble|air bubble]], [[DATABASE/spell/Grease|grease]], [[DATABASE/spell/Pass Without Trace|pass without trace]]; **Cantrips (4th)** [[DATABASE/spell/Detect Magic|detect magic]], [[DATABASE/spell/Prestidigitation|prestidigitation]], [[DATABASE/spell/Produce Flame|produce flame]], [[DATABASE/spell/Read Aura|read aura]], [[DATABASE/spell/Tanglefoot|tanglefoot]]
 
 ## Adult
 
-**Primal Prepared Spells** DC 33, attack +25; as young magma dragon, plus **6th** [[Fire Seeds]], [[True Seeing]]; **5th** [[Cloudkill]], [[Elemental Form]], [[Flame Strike]]; **4th** [[Hallucinatory Terrain]]; **Cantrips (6th)** [[Detect Magic]], [[Prestidigitation]], [[Produce Flame]], [[Read Aura]], [[Tanglefoot]]
+**Primal Prepared Spells** DC 33, attack +25; as young magma dragon, plus **6th** [[DATABASE/spell/Fire Seeds|fire seeds]], [[DATABASE/spell/True Seeing|true seeing]]; **5th** [[DATABASE/spell/Cloudkill|cloudkill]], [[DATABASE/spell/Elemental Form|elemental form]], [[DATABASE/spell/Flame Strike|flame strike]]; **4th** [[DATABASE/spell/Hallucinatory Terrain|hallucinatory terrain]]; **Cantrips (6th)** [[DATABASE/spell/Detect Magic|detect magic]], [[DATABASE/spell/Prestidigitation|prestidigitation]], [[DATABASE/spell/Produce Flame|produce flame]], [[DATABASE/spell/Read Aura|read aura]], [[DATABASE/spell/Tanglefoot|tanglefoot]]
 
 ## Ancient
 
-**Primal Prepared Spells** DC 42, attack +34; as adult magma dragon, plus **8th** [[Earthquake]], [[Horrid Wilting]], [[Power Word Stun]]; **7th** [[Fiery Body]], [[Plane Shift]], [[Volcanic Eruption]]; **6th** [[Flesh to Stone]]; **Cantrips (8th)** [[Detect Magic]], [[Prestidigitation]], [[Produce Flame]], [[Read Aura]], [[Tanglefoot]]
+**Primal Prepared Spells** DC 42, attack +34; as adult magma dragon, plus **8th** [[DATABASE/spell/Earthquake|earthquake]], [[DATABASE/spell/Horrid Wilting|horrid wilting]], [[DATABASE/spell/Power Word Stun|power word stun]]; **7th** [[DATABASE/spell/Fiery Body|fiery body]], [[DATABASE/spell/Plane Shift|plane shift]], [[DATABASE/spell/Volcanic Eruption|volcanic eruption]]; **6th** [[DATABASE/spell/Flesh to Stone|flesh to stone]]; **Cantrips (8th)** [[DATABASE/spell/Detect Magic|detect magic]], [[DATABASE/spell/Prestidigitation|prestidigitation]], [[DATABASE/spell/Produce Flame|produce flame]], [[DATABASE/spell/Read Aura|read aura]], [[DATABASE/spell/Tanglefoot|tanglefoot]]
 
 ###  Moschabbatt
 
@@ -40,8 +41,8 @@ The ancient magma dragon Moschabbatt dwells in a vast chamber hidden within Dros
 
 ## Dragon, Primal
 
-**Related Groups** [[Dragon, Brine]], [[Dragon, Cloud]], [[Dragon, Crystal]], [[Dragon, Umbral]]
-The strange and otherworldly primal dragons hail from realities adjacent to the Material Plane—the four Elemental Planes and the [[Shadow Plane]]. These true dragons have natures and powers that exemplify their plane of origin and an affinity for primal magic, unlike chromatic and metallic dragons, who favor arcane or divine magic. Although they come from distant planes, primal dragons can be found on the Material Plane in regions touched by or reminiscent of their home plane. Although such encounters are rare, adventurers and travelers have sometimes found a brine dragon dwelling near a salty inland sea, for example, or a crystal dragon living in massive natural caverns deep in the Darklands. Unlike chromatic and metallic dragons, primal dragons tend not to develop shape-changing powers, and they are less interested in infiltrating settlements or influencing others from the shadows.
+**Related Groups** [[DATABASE/monsterfamily/Dragon, Brine|Dragon, Brine]], [[DATABASE/monsterfamily/Dragon, Cloud|Dragon, Cloud]], [[DATABASE/monsterfamily/Dragon, Crystal|Dragon, Crystal]], [[DATABASE/monsterfamily/Dragon, Umbral|Dragon, Umbral]]
+The strange and otherworldly primal dragons hail from realities adjacent to the Material Plane—the four Elemental Planes and the [[DATABASE/plane/Shadow Plane|Shadow Plane]]. These true dragons have natures and powers that exemplify their plane of origin and an affinity for primal magic, unlike chromatic and metallic dragons, who favor arcane or divine magic. Although they come from distant planes, primal dragons can be found on the Material Plane in regions touched by or reminiscent of their home plane. Although such encounters are rare, adventurers and travelers have sometimes found a brine dragon dwelling near a salty inland sea, for example, or a crystal dragon living in massive natural caverns deep in the Darklands. Unlike chromatic and metallic dragons, primal dragons tend not to develop shape-changing powers, and they are less interested in infiltrating settlements or influencing others from the shadows.
 
 ### Primal Dragon Spellcasters
 

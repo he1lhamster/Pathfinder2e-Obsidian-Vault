@@ -11,6 +11,7 @@ name: Shadow's Assault
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,13 +24,13 @@ type: Feat
 # Shadow's Assault <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Fetchling</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-Your shadow assaults your foes. You can cast [[Shadow Blast]] as a 5th-level occult innate spell once per day. At 17th level, your _shadow blast_ is heightened to 6th level.
+Your shadow assaults your foes. You can cast [[DATABASE/spell/Shadow Blast|shadow blast]] as a 5th-level occult innate spell once per day. At 17th level, your _shadow blast_ is heightened to 6th level.
 
 ## Traits
 
 **Fetchling:**
 
-A creature with this trait is a member of the fetchling ancestry. Fetchlings were once human, but generations of life on the [[Shadow Plane]] have transformed them.
+A creature with this trait is a member of the fetchling ancestry. Fetchlings were once human, but generations of life on the [[DATABASE/plane/Shadow Plane|Shadow Plane]] have transformed them.

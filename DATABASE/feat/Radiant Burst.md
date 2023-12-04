@@ -11,6 +11,7 @@ name: Radiant Burst
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -27,14 +28,14 @@ type: Feat
 # Radiant Burst <span class="action-icon">2</span> <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Fire</span><span class="item-trait">Ifrit</span><span class="item-trait">Incapacitation</span><span class="item-trait">Light</span><span class="item-trait">Visual</span>
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 **Frequency** once per day
 
 ---
 Your skin glows with intensity. Creatures within 10 feet who can see you must succeed at a Fortitude save against your class DC or spell DC, whichever is higher.
 **Critical Success** The creature is unaffected.
-**Success** The creature is [[Dazzled]] for 1 round.
-**Failure** The creature is [[Blinded]] for 1 round and dazzled for 4 rounds.
+**Success** The creature is [[DATABASE/condition/Dazzled|dazzled]] for 1 round.
+**Failure** The creature is [[DATABASE/condition/Blinded|blinded]] for 1 round and dazzled for 4 rounds.
 **Critical Failure** The creature is blinded for 4 rounds and dazzled for 10 minutes.
 
 ## Traits
@@ -45,7 +46,7 @@ Effects with the fire trait deal fire damage or either conjure or manipulate fir
 
 **Ifrit:**
 
-Ifrits are planar scions descended from [[Efreeti]].
+Ifrits are planar scions descended from [[DATABASE/monster/Efreeti|efreet]].
 
 **Incapacitation:**
 

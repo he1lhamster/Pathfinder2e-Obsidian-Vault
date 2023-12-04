@@ -18,6 +18,7 @@ language:
 max_speed: '25'
 name: Skeleton
 rarity: Rare
+rus_type_level: null
 size: Medium
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 speed:
@@ -33,7 +34,7 @@ vision: null
 # Skeleton
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Skeleton</span><span class="item-trait">Undead</span>
-**Source** [[Book of the Dead]]
+**Source** [[DATABASE/source/Book of the Dead|Book of the Dead]]
 _Skeletons are considered among the lowest types of undead. They're typically mindless creatures, lacking many of the abilities that make other undead a serious threat. However, the animated bones of dragons, giants, and other great beasts make for dangerous foes. Powerful living creatures can retain some of their might and intellect upon returning as a skeleton. Some necromancers turn their strongest enemies into skeletal undead servants, assuming they can keep control of them.
 _
 Skeleton adventurers were usually skilled and powerful in their former lives. Through unremitting force of will or extraordinary circumstances, their ego and ideals persist even in death. However, the very act of rising as a skeletal undead is traumatic. Memories of one's former life are usually fractured or hazy, if anything can be remembered at all. For some, these memories return with time; for others, they're gone forever. For the most part, this comes down to how the skeleton views themself: either as a continuation of the person they once were, or an entirely new being.
@@ -64,7 +65,7 @@ Across Golarion, intelligent skeletons rarely gather in large enough numbers to 
 ## Alignment and Religion
 
 While undead are almost always evil, some intelligent skeletons manage to stave off the corruption of the negative energy that powers them. Other than the tendency to become twisted toward evil over time, skeletons typically lean toward the alignments of their creators or their former selves. Skeletons without any particular loyalty or allegiance trend toward neutral evil alignment, or neutral if they can stave off evil.
- Skeletons who embrace their undeath often worship gods of death, such as [[Urgathoa]], while those who resent it typically look toward gods of life and redemption. Accepting deities without particularly zealous anti-undead dogma, such as [[Shelyn]], are popular among those who wish to fight against their destructive influences and become something greater than the purpose for which they were created.
+ Skeletons who embrace their undeath often worship gods of death, such as [[DATABASE/deity/Urgathoa|Urgathoa]], while those who resent it typically look toward gods of life and redemption. Accepting deities without particularly zealous anti-undead dogma, such as [[DATABASE/deity/Shelyn|Shelyn]], are popular among those who wish to fight against their destructive influences and become something greater than the purpose for which they were created.
 
 ## Names
 
@@ -100,9 +101,9 @@ Intelligence
 
 ## Languages
 
-[[Common]]
-[[Necril]]
-Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[Aklo]], [[Dwarven]], [[Elven]], [[Infernal]], [[Orcish]], [[Undercommon]], and any other languages to which you have access (such as languages prevalent in your region).
+[[DATABASE/language/Common|Common]]
+[[DATABASE/language/Necril|Necril]]
+Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[DATABASE/language/Aklo|Aklo]], [[DATABASE/language/Dwarven|Dwarven]], [[DATABASE/language/Elven|Elven]], [[DATABASE/language/Infernal|Infernal]], [[DATABASE/language/Orcish|Orcish]], [[DATABASE/language/Undercommon|Undercommon]], and any other languages to which you have access (such as languages prevalent in your region).
 
 ## Undeath
 

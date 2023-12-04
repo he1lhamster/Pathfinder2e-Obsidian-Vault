@@ -3,6 +3,7 @@ creature_family: Goblin
 id: '55'
 name: Goblin
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,13 +11,13 @@ type: Creature Family
 ---
 # Goblin
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 These small humanoids have green or gray skin and large heads with wide ears. While some goblins are civilized and have worked hard to be considered upstanding members of humanoid communities, most are impetuous and vicious creatures who delight in wreaking havoc. These goblins think nothing of slaughtering livestock, stealing infants, or burning down a building purely for momentary delight. They revel in playing malicious tricks on taller humanoids, whom they call “longshanks.”
  Goblins are superstitious, with an intense awe of magic and a fascination with fire; goblins who master magic or fire earn great respect from their kin. Most other humanoids find it difficult to understand goblins’ outlook: they hate canines but eagerly share their lairs with so-called “goblin dogs,” they fearlessly attack larger creatures but are terrified of horses, and they despise vegetables yet consider pickles a delicacy. To a goblin, of course, these are all perfectly sensible life choices.
 
 ### Members
 
-[[Goblin Commando]] (Creature 1), [[Goblin Pyro]] (Creature 1), [[Goblin War Chanter]] (Creature 1), [[Goblin Warrior]] (Creature -1)
+[[DATABASE/monster/Goblin Commando|Goblin Commando]] (Creature 1), [[DATABASE/monster/Goblin Pyro|Goblin Pyro]] (Creature 1), [[DATABASE/monster/Goblin War Chanter|Goblin War Chanter]] (Creature 1), [[DATABASE/monster/Goblin Warrior|Goblin Warrior]] (Creature -1)
 
 ###  Goblin Locations
 

@@ -74,24 +74,24 @@ wisdom: '+1'
 ---
 # Nursery Crawler
 
-The vibrant elemental energy of the [[Plane of Wood]] imbues even the most rotten of fallen trees, empowering their remains to travel in search of the best locations for the next generation to put down roots. This mono-eyed, rotten stump launches seeds that begin to sprout the moment they're buried, whether in the ground or in a living creature's skin.
-**Recall Knowledge - Elemental ([[Arcana]], [[Nature]])**: DC 18
-**Recall Knowledge - Plant ([[Nature]])**: DC 18
+The vibrant elemental energy of the [[DATABASE/plane/Plane of Wood|Plane of Wood]] imbues even the most rotten of fallen trees, empowering their remains to travel in search of the best locations for the next generation to put down roots. This mono-eyed, rotten stump launches seeds that begin to sprout the moment they're buried, whether in the ground or in a living creature's skin.
+**Recall Knowledge - Elemental ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 18
+**Recall Knowledge - Plant ([[DATABASE/skill/Nature|Nature]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Nursery Crawler<span class="item-type">Creature 3</span>
 
 <span class="trait-size item-trait">Small</span><span class="item-trait">Elemental</span><span class="item-trait">Plant</span><span class="item-trait">Wood</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Perception** +9
-**Skills** [[Deception]] +5 (+10 when pretending to be a mundane stump or log), [[Survival]] +9
+**Skills** [[DATABASE/skill/Deception|Deception]] +5 (+10 when pretending to be a mundane stump or log), [[DATABASE/skill/Survival|Survival]] +9
 **Str** +4, **Dex** +3, **Con** +3, **Int** -2, **Wis** +1, **Cha** +0
 
 ---
 **AC** 18; **Fort** +6, **Ref** +4, **Will** +12
-**HP** 48; **Immunities** bleed, [[Paralyzed]], poison, sleep; **Weaknesses** [[Axe]] 5, fire 5
+**HP** 48; **Immunities** bleed, [[DATABASE/condition/Paralyzed|paralyzed]], poison, sleep; **Weaknesses** [[DATABASE/weapongroup/Axe|axes]] 5, fire 5
 
 ---
 **Speed** 20 feet, climb 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> root +9 [+4/-1], **Damage** 1d8+4 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> seed +8 [+3/-2] (range increment 20 feet), **Damage** 1d6+3 piercing plus germinate</span><span class="in-box-ability">**Germinate** (plant) A creature hit by the nursery crawler's seed Strike must, on its turn, spend an Interact action to remove the seed; any seeds still implanted at the end of the creature's turn begin to sprout, dealing 1d6 [[Persistent Damage]] and rendering the seeded creature [[Clumsy]] and [[Off-Guard]]. Removing a seed after it's sprouted deals 1d4 piercing damage; removing it before it begins to sprout does no damage. Removed seeds that land in viable soil sprout immediately and grow into new saplings after 1 hour.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> root +9 [+4/-1], **Damage** 1d8+4 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> seed +8 [+3/-2] (range increment 20 feet), **Damage** 1d6+3 piercing plus germinate</span><span class="in-box-ability">**Germinate** (plant) A creature hit by the nursery crawler's seed Strike must, on its turn, spend an Interact action to remove the seed; any seeds still implanted at the end of the creature's turn begin to sprout, dealing 1d6 [[DATABASE/condition/Persistent Damage|persistent bleed damage]] and rendering the seeded creature [[DATABASE/condition/Clumsy|clumsy]] and [[DATABASE/condition/Off-Guard|off-guard]]. Removing a seed after it's sprouted deals 1d4 piercing damage; removing it before it begins to sprout does no damage. Removed seeds that land in viable soil sprout immediately and grow into new saplings after 1 hour.</span>

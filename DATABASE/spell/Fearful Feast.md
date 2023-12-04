@@ -20,6 +20,7 @@ patron_theme: null
 range: 30 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Necromancy
 source: '[[DATABASE/source/Abomination Vaults Hardcover|Abomination Vaults Hardcover]]'
@@ -38,8 +39,8 @@ type: Focus
 # Fearful Feast<span class="item-type">Focus 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Fear</span><span class="item-trait">Mental</span><span class="item-trait">Necromancy</span>
-**Source** [[Abomination Vaults Hardcover]], [[Pathfinder 165. Eyes of Empty Death]]
-**Cast** <span class="action-icon">5</span> somatic; **Trigger** A creature within range becomes [[Frightened]].
+**Source** [[DATABASE/source/Abomination Vaults Hardcover|Abomination Vaults Hardcover]], [[DATABASE/source/Pathfinder 165. Eyes of Empty Death|Pathfinder #165: Eyes of Empty Death]]
+**Cast** <span class="action-icon">5</span> somatic; **Trigger** A creature within range becomes [[DATABASE/condition/Frightened|frightened]].
 **Range** 30 feet; **Targets** the triggering creature
 **Saving Throw** Will; **Duration** varies
 

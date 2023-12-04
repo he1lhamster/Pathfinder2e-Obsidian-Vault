@@ -11,6 +11,7 @@ name: Read Lips
 prerequisite: Trained in [[DATABASE/skill/Society|Society]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: society
@@ -24,11 +25,11 @@ type: Feat
 # Read Lips <span class="item-type">Feat 1</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** trained in [[Society]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** trained in [[DATABASE/skill/Society|Society]]
 
 ---
-You can read lips of others nearby who you can clearly see. When you're at your leisure, you can do this automatically. In encounter mode or when attempting a more difficult feat of lipreading, you're [[Fascinated]] and [[Flat-Footed]] during each round in which you focus on lip movements, and you must succeed at a [[Society]] check (DC determined by the GM) to successfully read someone's lips. In either case, the language read must be one that you know.
+You can read lips of others nearby who you can clearly see. When you're at your leisure, you can do this automatically. In encounter mode or when attempting a more difficult feat of lipreading, you're [[DATABASE/condition/Fascinated|fascinated]] and [[DATABASE/condition/Flat-Footed|flat-footed]] during each round in which you focus on lip movements, and you must succeed at a [[DATABASE/skill/Society|Society]] check (DC determined by the GM) to successfully read someone's lips. In either case, the language read must be one that you know.
 
 ## Traits
 

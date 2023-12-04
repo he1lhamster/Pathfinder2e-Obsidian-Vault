@@ -31,6 +31,7 @@ rarity: Unique
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -55,10 +56,10 @@ weapon_type: null
 # Mammoth Bow<span class="item-type">Item 12</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="item-trait">Evocation</span><span class="item-trait">Magical</span>
-**Source** [[Pathfinder 177. Burning Tundra]]
+**Source** [[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burning Tundra]]
 **Price** 2,000 gp
 **Usage** held in 1 hand; **Bulk** 4
-**Base Weapon** [[Composite Longbow]]
+**Base Weapon** [[DATABASE/weapon/Composite Longbow|Composite Longbow]]
 
 ---
-This heavy, 12-foot-tall _+2 [[Striking]] [[Composite Longbow]]_ is fashioned from mammoth tusks lashed together. Due to its great size, you can attack with the _Mammoth Bow_ only if you're Large or larger. The _Mammoth Bow_ deals 2d6 additional piercing damage because of its incredible, magically enhanced draw power. Additionally, the Mammoth Bow has a 180-foot range increment instead of a 100-foot range increment, but its volley range increases from 30 feet to 50 feet.
+This heavy, 12-foot-tall _+2 [[DATABASE/equipment/Striking|striking]] [[DATABASE/weapon/Composite Longbow|composite longbow]]_ is fashioned from mammoth tusks lashed together. Due to its great size, you can attack with the _Mammoth Bow_ only if you're Large or larger. The _Mammoth Bow_ deals 2d6 additional piercing damage because of its incredible, magically enhanced draw power. Additionally, the Mammoth Bow has a 180-foot range increment instead of a 100-foot range increment, but its volley range increases from 30 feet to 50 feet.

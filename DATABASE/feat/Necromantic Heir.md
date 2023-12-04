@@ -11,6 +11,7 @@ name: Necromantic Heir
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Necromantic Heir <span class="item-type">Feat 17</span>
 
 <span class="item-trait">Skeleton</span>
-**Source** [[Book of the Dead]]
+**Source** [[DATABASE/source/Book of the Dead|Book of the Dead]]
 
 ---
-Your affinity for negative energy spills outward and grants you a refilling well of necromantic essence. Once per hour, you can cast [[Harm]] as a 6th-level divine innate spell.
+Your affinity for negative energy spills outward and grants you a refilling well of necromantic essence. Once per hour, you can cast [[DATABASE/spell/Harm|harm]] as a 6th-level divine innate spell.
 
 ## Traits
 

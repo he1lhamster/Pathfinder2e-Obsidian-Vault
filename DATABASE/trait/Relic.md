@@ -2,6 +2,7 @@
 id: '494'
 name: Relic
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
 - Relic
@@ -10,9 +11,8 @@ type: Trait
 ---
 # Relic
 
-**Source** [[Treasure Vault]] 
-_Nethys note: this trait has not been defined, but has been used for relic seeds and set relics._
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]]
 
 ## Equipment
 
-[[Adamantine Echo]], [[Avernal Cape]], [[Fan of the Four Winds]], [[Fortune's Favor]], [[Inventor's Chair]], [[Kalmaug's Journal]], [[Phistophilus Fiddle]], [[Skysunder]], [[Sleuth's Pipe]], [[Sparkwarden]], [[Uniter of Clans]], [[Watch of Lost Ages]]
+[[DATABASE/equipment/Adamantine Echo|Adamantine Echo]], [[DATABASE/equipment/Avernal Cape|Avernal Cape]], [[DATABASE/equipment/Fan of the Four Winds|Fan of the Four Winds]], [[DATABASE/equipment/Fortune's Favor|Fortune's Favor]], [[DATABASE/equipment/Inventor's Chair|Inventor's Chair]], [[DATABASE/equipment/Kalmaug's Journal|Kalmaug's Journal]], [[DATABASE/equipment/Phistophilus Fiddle|Phistophilus Fiddle]], [[DATABASE/equipment/Skysunder|Skysunder]], [[DATABASE/equipment/Sleuth's Pipe|Sleuth's Pipe]], [[DATABASE/equipment/Sparkwarden|Sparkwarden]], [[DATABASE/equipment/Uniter of Clans|Uniter of Clans]], [[DATABASE/equipment/Watch of Lost Ages|Watch of Lost Ages]]

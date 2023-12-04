@@ -11,6 +11,7 @@ name: All in my Head
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Illusion
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -27,8 +28,8 @@ type: Feat
 # All in my Head <span class="action-icon">5</span> <span class="item-type">Feat 18</span>
 
 <span class="item-trait">Bard</span><span class="item-trait">Illusion</span><span class="item-trait">Mental</span>
-**Source** [[Advanced Player's Guide]] 
-**Trigger** You would take damage from a Strike or spell that doesn't have the death trait or otherwise cause instant death (such as [[Disintegrate]]).
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Trigger** You would take damage from a Strike or spell that doesn't have the death trait or otherwise cause instant death (such as [[DATABASE/spell/Disintegrate|disintegrate]]).
 
 ---
 Using your occult connections and incredible powers of persuasion, you convince yourself that the triggering damage is a figment of your imagination. The damage changes from its usual damage type to mental damage, and the damaging effect gains the nonlethal trait. You can't use this reaction if you are immune to mental effects or mental damage.

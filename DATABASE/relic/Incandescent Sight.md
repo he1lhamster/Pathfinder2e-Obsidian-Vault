@@ -5,6 +5,7 @@ item_category: Relics
 name: Incandescent Sight
 prerequisite: null
 rarity: Common
+rus_type_level: null
 school: Divination
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
@@ -16,7 +17,7 @@ type: Relic Minor Gift
 # Incandescent Sight<span class="item-type">Minor Gift</span>
 
 <span class="item-trait">Divination</span><span class="item-trait">Fire</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Aspect** fire
 
 ---

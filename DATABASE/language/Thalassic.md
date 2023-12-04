@@ -2,6 +2,7 @@
 id: '113'
 name: Thalassic
 rarity: Uncommon
+rus_type_level: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -10,9 +11,9 @@ type: Language
 ---
 # Thalassic
 
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 The below entries contain speakers of Thalassic.
 
 ## Monsters (9)
 
-[[Boiling Spring]], [[Coldmire Pond]], [[Dewdrop Jelly]], [[Faydhaan Shuyookh]], [[Gennayn]], [[Jann Shuyookh]], [[Murajau]], [[Saltborn Stalkers]], [[Tantriog]]
+[[DATABASE/monster/Boiling Spring|Boiling Spring]], [[DATABASE/monster/Coldmire Pond|Coldmire Pond]], [[DATABASE/monster/Dewdrop Jelly|Dewdrop Jelly]], [[DATABASE/monster/Faydhaan Shuyookh|Faydhaan Shuyookh]], [[DATABASE/monster/Gennayn|Gennayn]], [[DATABASE/monster/Jann Shuyookh|Jann Shuyookh]], [[DATABASE/monster/Murajau|Murajau]], [[DATABASE/monster/Saltborn Stalkers|Saltborn Stalkers]], [[DATABASE/monster/Tantriog|Tantriog]]

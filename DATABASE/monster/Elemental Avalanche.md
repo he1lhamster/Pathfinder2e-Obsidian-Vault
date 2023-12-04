@@ -74,17 +74,17 @@ wisdom: '+3'
 # Elemental Avalanche
 
 Stubborn and ponderous, elemental avalanches are massive beings of living rock and dirt.
-**Recall Knowledge - Elemental ([[Arcana]], [[Nature]])**: DC 28
+**Recall Knowledge - Elemental ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 28
 **Unspecific Lore**: DC 26
 **Specific Lore**: DC 23
 
 # Elemental Avalanche<span class="item-type">Creature 11</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Huge</span><span class="item-trait">Earth</span><span class="item-trait">Elemental</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +20; darkvision, tremorsense (imprecise) 90 feet
-**Languages** [[Terran]]
-**Skills** [[Athletics]] +24, [[Stealth]] +14
+**Languages** [[DATABASE/language/Terran|Terran]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +24, [[DATABASE/skill/Stealth|Stealth]] +14
 **Str** +7, **Dex** -1, **Con** +8, **Int** +0, **Wis** +3, **Cha** -1
 **Earthbound** When not touching solid ground, the elemental avalanche is slowed 1, can’t use reactions, and can’t Trample.
 
@@ -95,4 +95,4 @@ Stubborn and ponderous, elemental avalanches are massive beings of living rock a
 
 ---
 **Speed** 25 feet, burrow 25 feet; earth glide
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +24 [+19/+14] (reach 20 feet), **Damage** 2d12+11 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> rock +24 [+19/+14] (brutal, range increment 80 feet), **Damage** 2d12+7 bludgeoning</span><span class="in-box-ability">**Earth Glide** The elemental avalanche can Burrow through any earthen matter, including rock. When it does so, the elemental avalanche moves at its full burrow Speed, leaving no tunnels or signs of its passing.</span><span class="in-box-ability">**[[Trample]]** <span class="action-icon">3</span> Large or smaller, fist, DC 30</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +24 [+19/+14] (reach 20 feet), **Damage** 2d12+11 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> rock +24 [+19/+14] (brutal, range increment 80 feet), **Damage** 2d12+7 bludgeoning</span><span class="in-box-ability">**Earth Glide** The elemental avalanche can Burrow through any earthen matter, including rock. When it does so, the elemental avalanche moves at its full burrow Speed, leaving no tunnels or signs of its passing.</span><span class="in-box-ability">**[[DATABASE/monsterability/Trample|Trample]]** <span class="action-icon">3</span> Large or smaller, fist, DC 30</span>

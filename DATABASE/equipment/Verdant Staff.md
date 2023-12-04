@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Verdant Staff<span class="item-type">Item 6+</span>
 
 <span class="item-trait">Divination</span><span class="item-trait">Magical</span><span class="item-trait">Staff</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** held in 1 hand; **Bulk** —
 
 ---
@@ -64,20 +65,20 @@ This oak branch grows leaves in spring that change color in autumn and shed in 
 
 ## Verdant Staff<span class="item-type">Item 6</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 225 gp
 **Bulk** 1
 
-* **Cantrip** [[Tanglefoot]] 
-* **1st** [[Shillelagh]] (can target the _verdant staff_)
-* **2nd** [[Barkskin]], [[Entangle]], [[Shape Wood]], [[Tree Shape]]
+* **Cantrip** [[DATABASE/spell/Tanglefoot|tanglefoot]] 
+* **1st** [[DATABASE/spell/Shillelagh|shillelagh]] (can target the _verdant staff_)
+* **2nd** [[DATABASE/spell/Barkskin|barkskin]], [[DATABASE/spell/Entangle|entangle]], [[DATABASE/spell/Shape Wood|shape wood]], [[DATABASE/spell/Tree Shape|tree shape]]
 
 ## Verdant Staff (Greater)<span class="item-type">Item 12</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 1,750 gp
 **Bulk** 1
 
-* **3rd** [[Wall of Thorns]] 
-* **4th** _barkskin_, [[Speak with Plants]] 
-* **5th** [[Plant Form]], _wall of thorns_
+* **3rd** [[DATABASE/spell/Wall of Thorns|wall of thorns]] 
+* **4th** _barkskin_, [[DATABASE/spell/Speak with Plants|speak with plants]] 
+* **5th** [[DATABASE/spell/Plant Form|plant form]], _wall of thorns_

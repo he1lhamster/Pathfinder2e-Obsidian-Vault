@@ -22,6 +22,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -43,7 +44,7 @@ type: Spell
 # Instant Armor<span class="item-type">Spell 2</span>
 
 <span class="item-trait">Conjuration</span><span class="item-trait">Contingency</span><span class="item-trait">Extradimensional</span><span class="item-trait">Metal</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Traditions** arcane, divine, occult, primal
 **Cast** 10 minutes (material, somatic, verbal)
 **Duration** 24 hours

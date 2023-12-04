@@ -76,10 +76,10 @@ Common trolls are dim-witted, gangly giants who stalk the fringes of civilizatio
 # Troll<span class="item-type">Creature 5</span>
 
 <span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Giant</span><span class="item-trait">Troll</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +11; darkvision
-**Languages** [[Jotun]]
-**Skills** [[Athletics]] +12, [[Intimidation]] +12
+**Languages** [[DATABASE/language/Jotun|Jotun]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +12, [[DATABASE/skill/Intimidation|Intimidation]] +12
 **Str** +5, **Dex** +2, **Con** +6, **Int** -2, **Wis** +0, **Cha** -2
 
 ---
@@ -89,4 +89,4 @@ Common trolls are dim-witted, gangly giants who stalk the fringes of civilizatio
 
 ---
 **Speed** 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +14 [+9/+4] (reach 10 feet), **Damage** 2d10+5 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +14 [+10/+6] (agile, reach 10 feet), **Damage** 2d8+5 slashing</span><span class="in-box-ability">**[[Rend]]** <span class="action-icon">1</span> claw</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +14 [+9/+4] (reach 10 feet), **Damage** 2d10+5 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +14 [+10/+6] (agile, reach 10 feet), **Damage** 2d8+5 slashing</span><span class="in-box-ability">**[[DATABASE/monsterability/Rend|Rend]]** <span class="action-icon">1</span> claw</span>

@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -54,36 +55,36 @@ weapon_type: null
 # Library Robes<span class="item-type">Item 9+</span>
 
 <span class="item-trait">Invested</span><span class="item-trait">Magical</span><span class="item-trait">Transmutation</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Usage** worn armor; **Bulk** L
-**Base Armor** [[Scroll Robes]]
+**Base Armor** [[DATABASE/armor/Scroll Robes|Scroll Robes]]
 
 ---
-These _+1 [[Resilient]] [[Scroll Robes]]_ magically store a spell for you. During your daily preparations, choose one spell you know of 5th level or lower. You inscribe that spell on the robes, as though you had done so using the robes' inscribed trait, but without needing to go through the normal scribing process. You must provide the minimum amount of materials to [[Craft]] one scroll of that spell (typically half the Price of a scroll of that level plus any extra cost required for the spell). You don't need to be trained in [[Crafting]], nor do you need the [[Magical Crafting]] feat. Using this ability erases any scroll already inscribed on the robe.
+These _+1 [[DATABASE/equipment/Resilient|resilient]] [[DATABASE/armor/Scroll Robes|scroll robes]]_ magically store a spell for you. During your daily preparations, choose one spell you know of 5th level or lower. You inscribe that spell on the robes, as though you had done so using the robes' inscribed trait, but without needing to go through the normal scribing process. You must provide the minimum amount of materials to [[DATABASE/action/Craft|Craft]] one scroll of that spell (typically half the Price of a scroll of that level plus any extra cost required for the spell). You don't need to be trained in [[DATABASE/skill/Crafting|Crafting]], nor do you need the [[DATABASE/feat/Magical Crafting|Magical Crafting]] feat. Using this ability erases any scroll already inscribed on the robe.
 
 ## Library Robes<span class="item-type">Item 9</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 700 gp
 **Bulk** L
 
 ## Library Robes (Greater)<span class="item-type">Item 12</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 2,000 gp
 **Bulk** L
 The armor is _+2 resilient scroll robes_, and the spell can be 6th level or lower.
 
 ## Library Robes (Major)<span class="item-type">Item 15</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 6,000 gp
 **Bulk** L
 The armor is _+2 greater resilient scroll robes_, and the spell can be 8th level or lower.
 
 ## Library Robes (True)<span class="item-type">Item 19</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 36,000 gp
 **Bulk** L
 The armor is _+3 greater resilient scroll robes_, and the spell can be 9th level or lower.

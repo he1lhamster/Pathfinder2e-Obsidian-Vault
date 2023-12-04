@@ -12,6 +12,7 @@ name: Dancer's Spear
 price: 3 gp
 range: null
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
 - '[[DATABASE/trait/Backswing|Backswing]]'
@@ -28,13 +29,13 @@ weapon_type: Melee
 # Dancer's Spear
 
 <span class="item-trait">Backswing</span><span class="item-trait">Finesse</span><span class="item-trait">Reach</span><span class="item-trait">Sweep</span><span class="item-trait">Versatile B</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 3 gp; **Damage** 1d6 P; **Bulk** 1
 **Hands** 2
-**Type** Melee; **Category** Martial; **Group** [[Spear]]
+**Type** Melee; **Category** Martial; **Group** [[DATABASE/weapongroup/Spear|Spear]]
 
 ---
-Traditionally a favored weapon in Molthune for settling disputes between military leaders, the dancer's spear has seen a recent resurgence in popularity in the neighboring kingdom of Nirmathas, largely due to its effectiveness at striking down attacking [[Skeleton]] and other undead from a relatively safe distance. A dancer's spear has a 7-foot-long wooden haft capped with a triangular metal blade at one end, counterbalanced on the other end with a reinforced metal sleeve that, in a pinch, can be used as an effective striking surface.
+Traditionally a favored weapon in Molthune for settling disputes between military leaders, the dancer's spear has seen a recent resurgence in popularity in the neighboring kingdom of Nirmathas, largely due to its effectiveness at striking down attacking [[DATABASE/monsterfamily/Skeleton|skeletons]] and other undead from a relatively safe distance. A dancer's spear has a 7-foot-long wooden haft capped with a triangular metal blade at one end, counterbalanced on the other end with a reinforced metal sleeve that, in a pinch, can be used as an effective striking surface.
 
 ## Traits
 
@@ -60,10 +61,10 @@ A versatile weapon can be used to deal a different type of damage than that list
 
 ## Critical Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
-**Spear**: The weapon pierces the target, weakening its attacks. The target is [[Clumsy]] until the start of your next turn.
+**Spear**: The weapon pierces the target, weakening its attacks. The target is [[DATABASE/condition/Clumsy|clumsy 1]] until the start of your next turn.
 
 ## Specific Magic Weapons
 
-[[Grounding Spike]]
+[[DATABASE/equipment/Grounding Spike|Grounding Spike]]

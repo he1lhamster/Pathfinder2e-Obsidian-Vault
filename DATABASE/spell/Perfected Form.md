@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -38,8 +39,8 @@ type: Focus
 # Perfected Form<span class="item-type">Focus 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Abjuration</span><span class="item-trait">Cleric</span><span class="item-trait">Fortune</span>
-**Source** [[Core Rulebook]] 
-**Domain** [[Perfection Domain]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Domain** [[DATABASE/domain/Perfection Domain|perfection]]
 **Cast** <span class="action-icon">5</span> somatic; **Trigger** You fail a saving throw against a morph, petrification, or polymorph effect.
 
 ---

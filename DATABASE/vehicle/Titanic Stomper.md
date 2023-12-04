@@ -17,6 +17,7 @@ rarity: Rare
 reflex: null
 resistance:
 - electricity 20
+rus_type_level: null
 school: null
 size: Gargantuan
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
@@ -29,16 +30,16 @@ type: Vehicle
 # Titanic Stomper<span class="item-type">Vehicle 15</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-size item-trait">Gargantuan</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 19,000 gp
 
 ---
-Among the most dangerous vehicles created in Ustalav with a mix of magic and the new Stasian technology, a titanic stomper is shaped like a long sinuous lizard or [[Behir]] with carefully placed Stasian coils and eight big stomping legs. Titanic stompers were meant to devastate the armies of the undead. Only two exist, making them almost unique, and the means to create more have been stymied, as some of the crucial inventors were killed in the process of attempting to design a follow-up technology, a smaller but more powerful suit of mechanized armor called the Grobelarch that ultimately went berserk and killed its creators.
+Among the most dangerous vehicles created in Ustalav with a mix of magic and the new Stasian technology, a titanic stomper is shaped like a long sinuous lizard or [[DATABASE/monster/Behir|behir]] with carefully placed Stasian coils and eight big stomping legs. Titanic stompers were meant to devastate the armies of the undead. Only two exist, making them almost unique, and the means to create more have been stymied, as some of the crucial inventors were killed in the process of attempting to design a follow-up technology, a smaller but more powerful suit of mechanized armor called the Grobelarch that ultimately went berserk and killed its creators.
 
 ---
 **Space** 60 feet long, 30 feet wide, 60 feet high
 **Crew** 1 pilot, 3 crew; **Passengers** 6
-**Piloting Check** [[Lore]] (DC 34) or [[Crafting]] (DC 36)
+**Piloting Check** [[DATABASE/skill/Lore|Driving Lore]] (DC 34) or [[DATABASE/skill/Crafting|Crafting]] (DC 36)
 
 ---
 **AC** 34; **Fort** +26
@@ -47,6 +48,6 @@ Among the most dangerous vehicles created in Ustalav with a mix of magic and the
 ---
 **Speed** 40 feet, (electrical, magical)
 **Collision** 9d12 (DC 32)
-**Bolt Blast** <span class="action-icon">3</span> Two crew members each perform a three-action activity on their turn to fire a line of lightning at the end of the second character's turn. This line of lightning erupts from the front of the titanic stomper at an angle of the crew members' choice and deals 5d12 electricity damage to each creature in a 120-foot line (DC 34 basic Reflex save). The Bolt Blast stops working if the titanic stomper is [[Broken]].
+**Bolt Blast** <span class="action-icon">3</span> Two crew members each perform a three-action activity on their turn to fire a line of lightning at the end of the second character's turn. This line of lightning erupts from the front of the titanic stomper at an angle of the crew members' choice and deals 5d12 electricity damage to each creature in a 120-foot line (DC 34 basic Reflex save). The Bolt Blast stops working if the titanic stomper is [[DATABASE/condition/Broken|broken]].
  **Electrical Absorption** <span class="action-icon">5</span> **Trigger** The titanic stomper is targeted by, or in the area of, an effect that deals electricity damage; **Effect** The pilot uses their reaction to activate the Stasian coils, which funnels the electricity into the titanic stomper's electrical engine. The next time Bolt Blast is used within the next minute, the damage it deals increases to 7d12.
- **Quaking Step** The ground shakes with every step a titanic stomper takes. Whenever this vehicle moves, creatures on the ground within 20 feet of its movement path must attempt a DC 32 Reflex save. On a failure, they are [[Flat-Footed]] for 1 round, and on a critical failure, they're knocked [[Prone]].
+ **Quaking Step** The ground shakes with every step a titanic stomper takes. Whenever this vehicle moves, creatures on the ground within 20 feet of its movement path must attempt a DC 32 Reflex save. On a failure, they are [[DATABASE/condition/Flat-Footed|flat-footed]] for 1 round, and on a critical failure, they're knocked [[DATABASE/condition/Prone|prone]].

@@ -11,6 +11,7 @@ name: Moon May
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -24,16 +25,16 @@ type: Feat
 # Moon May <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Changeling</span><span class="item-trait">Lineage</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-Your mother was a moon hag, a handmaiden of [[Groetus]], and you have a single scarlet eye and a sliver of her supernal foresight. You can cast [[Guidance]] as an occult innate cantrip. A cantrip is heightened to a spell level equal to half your level rounded up.
+Your mother was a moon hag, a handmaiden of [[DATABASE/deity/Groetus|Groetus]], and you have a single scarlet eye and a sliver of her supernal foresight. You can cast [[DATABASE/spell/Guidance|guidance]] as an occult innate cantrip. A cantrip is heightened to a spell level equal to half your level rounded up.
 
 ## Traits
 
 **Changeling:**
 
-A creature with this trait has the changeling versatile heritage. Changelings are the children of [[Hag]] and members of other humanoid ancestries. An ability with this trait can be used or selected only by changelings.
+A creature with this trait has the changeling versatile heritage. Changelings are the children of [[DATABASE/monsterfamily/Hag|hags]] and members of other humanoid ancestries. An ability with this trait can be used or selected only by changelings.
 
 **Lineage:**
 

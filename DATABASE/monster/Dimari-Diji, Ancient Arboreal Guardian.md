@@ -1,0 +1,138 @@
+﻿---
+ac: '23'
+alignment: N
+all_resistance: null
+burrow_speed: '15'
+charisma: '-5'
+climb_speed: null
+constitution: '+1'
+creature_ability:
+- Fastening Leap
+- Infiltration Tools
+- Mechanical Vulnerability
+- Sneak Attack
+creature_family: null
+description: 'Thieves covet dig-widgets, specialized constructs built for infiltration.
+  Each dig-widget contains numerous simple tools, including a set of mechanical devices
+  that function as [[DATABASE/equipment/Thieves'' Tools|thieves'' tools]] , two arms
+  with drills, and two arms with corkscrews for attaching to and climbing surfaces.
+  Once activated, these devices propel themselves forward. Though they have the full
+  faculties typical of a construct, they usually follow a simple routine: avoid notice,
+  pick any lock barring the path, dig past obstacles, and attack if caught. They''re
+  rarely left unattended, as a thief needs to be nearby to follow after-both to steal
+  goods and to stop the dig-widget from engaging in further larceny once it''s achieved
+  its goal.<br/><br/> The source of a dig-widget''s power is as much mechanical as
+  it is magical. The gears and springs that provide a dig-widget mobility are an improvement
+  over more primitive true clockwork creations (whose functions require constant winding
+  to remain mobile), but at the cost of security, for a dig-widget''s moving parts
+  can be dismantled quickly by thieves and others with the proper training.<br/><br/><b><u>Recall
+  Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]
+  )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>:
+  DC 15'
+dexterity: '+5'
+element: null
+fly_speed: null
+fortitude: '+10'
+hardness: null
+hp: '65'
+id: '771'
+immunity:
+- bleed
+- '[[DATABASE/trait/Death|death]] effects'
+- '[[DATABASE/trait/Disease|disease]]'
+- '[[DATABASE/condition/Doomed|doomed]]'
+- '[[DATABASE/condition/Drained|drained]]'
+- '[[DATABASE/condition/Fatigued|fatigued]]'
+- '[[DATABASE/trait/Healing|healing]]'
+- '[[DATABASE/trait/Mental|mental]]'
+- '[[DATABASE/trait/Necromancy|necromancy]]'
+- nonlethal attacks
+- '[[DATABASE/condition/Paralyzed|paralyzed]]'
+- '[[DATABASE/trait/Poison|poison]]'
+- '[[DATABASE/condition/Sickened|sickened]]'
+- '[[DATABASE/condition/Unconscious|unconscious]]'
+intelligence: '-5'
+land_speed: '30'
+language: null
+level: '5'
+max_speed: '30'
+name: Dig-Widget
+perception: '+9'
+rarity: Common
+reflex: '+14'
+resistance: null
+rus_type_level: null
+school: null
+sense:
+- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+- '[[DATABASE/monsterability/Tremorsense|tremorsense (imprecise) 30 feet]]'
+size: Small
+skill:
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +12'
+- '[[DATABASE/skill/Athletics|Athletics]] +9'
+- '[[DATABASE/skill/Stealth|Stealth]] +14'
+- '[[DATABASE/skill/Thievery|Thievery]] +15'
+source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
+speed:
+- 30 feet
+- burrow 15 feet
+spell: null
+strength: '+2'
+strength_req: '2'
+strongest_save:
+- Reflex
+swim_speed: null
+trait:
+- '[[DATABASE/trait/Construct|Construct]]'
+- '[[DATABASE/trait/Mindless|Mindless]]'
+type: Creature
+vision: Darkvision
+weakest_save:
+- Will
+weakness: null
+will: '+7'
+wisdom: '+0'
+
+---
+# Dimari-Diji, Ancient Arboreal Guardian
+
+While Dimari-Diji's oldest memory is of the sky growing dark and becoming filled with fire, he was already several centuries old during the events of Earthfall. Memories of his earliest days no longer cling to his mind, and Dimari-Diji knows only that he is the youngest [[DATABASE/monsterfamily/Arboreal|arboreal]] of his copse. His other siblings went their own way when Earthfall occurred, and of the few he managed to track down, only Silang-Sefa and Umdasi-Umalo still live.
+ For years, Dimari-Diji wandered the darkened world of Golarion, surviving as best he could. He eventually met an old human man who sought knowledge. While Dimari-Diji shared what he knew, the man sought more. And so, Dimari-Diji joined the man as he slowly unraveled the secrets of magic. While Dimari-Diji was around to help Jatembe fulfill his destiny, the arboreal went only so far as point Jatembe to the correct locations; Jatembe's efforts in learning magic were entirely his own.
+ After traveling for some more time, Dimari-Diji stumbled upon the nascent Osibu and spent some time with its people. It was here that he realized the world beyond the forests was changing. The people in Osibu were not like others he had met. They remained cut off, unknowing of the world around them. Dimari-Diji did his best to warn and prepare the people of the city for the dangers beyond. The people of Osibu did not want him to leave, however, and each of the city's wise women pleaded for his guidance and protection. After one hundred pleas, Dimari-Diji chose to stay and teach the women the secrets of his magic, and that of the other trees and animals.
+ Today, Dimari-Diji is very old, even compared to other arboreals. Though he has occasionally traveled into the Mwangi Expanse since his arrival in Osibu, he spends nearly all his time in the city and, in fact, rarely moves throughout Osibu. The city's leader, Umanja-jinga, the current Uur Chyayu, typically comes to him. He sees the one hundred spirits of the first wise women in her, and trusts in her judgment and friendship. When speaking with others, Dimari-Diji is always kind and patient, listening with intent and allowing others to speak their minds freely and without interruption.
+
+## Campaign Role
+
+As steward of Osibu, Dimari-Diji is intent on defending his city from all potential threats, but particularly those threats that might approach the Nemesis Well. Dimari-Diji feels he is approaching his final years, and he prefers to serve in an advisory or support role.
+ When the heroes arrive in Osibu, Dimari-Diji is quick to question the outsiders and recognize the greater threat that Walkena poses to the city. He stays within the city walls, directing forces alongside Umanja-jinga and using his magic to support Osibu during the attack. If the heroes can earn Dimari-Diji's trust by defending the city, they make an invaluable ally with a vast wealth of knowledge and secrets. 
+**Recall Knowledge - Plant ([[DATABASE/skill/Nature|Nature]])**: DC 60
+**Unspecific Lore**: DC 58
+**Specific Lore**: DC 55
+
+## Elite | [[DATABASE/monster/Dimari-Diji, Ancient Arboreal Guardian|Normal]] | Weak
+Proficiency without Level
+
+# Dimari-Diji<span class="item-type">Creature 25</span>
+
+<span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Gargantuan</span><span class="item-trait">Plant</span>
+**Source** [[DATABASE/source/Pathfinder 172. Secrets of the Temple City|Pathfinder #172: Secrets of the Temple City]]
+Male [[DATABASE/monsterfamily/Arboreal|arboreal]] nature-speaker
+**Perception** +43; [[DATABASE/monsterability/Low-Light Vision|low-light vision]], [[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 120 feet
+**Languages** [[DATABASE/language/Aklo|Aklo]], [[DATABASE/language/Arboreal|Arboreal]], [[DATABASE/language/Celestial|Celestial]], [[DATABASE/language/Common|Common]], [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Requian|Requian]], [[DATABASE/language/Sphinx|Sphinx]], [[DATABASE/language/Sylvan|Sylvan]]; [[DATABASE/spell/Speak with Animals|speak with animals]], [[DATABASE/spell/Speak with Plants|speak with plants]], [[DATABASE/monsterability/Telepathy|telepathy]] 300 feet
+**Skills** [[DATABASE/skill/Arcana|Arcana]] +42, [[DATABASE/skill/Athletics|Athletics]] +43, [[DATABASE/skill/Diplomacy|Diplomacy]] +41, [[DATABASE/skill/Lore|Mwangi Expanse Lore]] +50, [[DATABASE/skill/Nature|Nature]] +50, [[DATABASE/skill/Stealth|Stealth]] +36 (+42 in forests)
+**Str** +12, **Dex** -1, **Con** +7, **Int** +7, **Wis** +12, **Cha** +10
+**Fungus Sight** (divination, primal) Dimari-Diji produces small clumps of fungus that he can use to see beyond his normal sight. He can use a single action, which has the concentrate trait, to project his senses into an intact fungus clump on the [[DATABASE/plane/Material Plane|Material Plane]] or to end this projection. Dimari-Diji loses all sensory information from his own body while projecting his senses into fungus.
+
+---
+**AC** 52; **Fort** +42, **Ref** +36, **Will** +48
+**HP** 550, regeneration [[DATABASE/monsterability/Regeneration|]] 30 (deactivated by fire); **Immunities** disease, mental, poison; **Weaknesses** axe vulnerability,
+<span class="in-box-ability">**fire 20** Resistances bludgeoning 20, piercing 20</span><span class="in-box-ability">**Axe Vulnerability** An arboreal nature-speaker takes 20 additional damage from [[DATABASE/weapongroup/Axe|axes]].</span><span class="in-box-ability">**Aura of Growth** (aura, plant, primal, transmutation) 120 feet. Plants near Dimari-Diji grow larger and more vibrant. Plants in the emanation gain the success effects of the [[DATABASE/ritual/Plant Growth|plant growth]] ritual. Any plant spells cast in the area are empowered and use the effects of the spell 1 level higher than it was cast, to a maximum of 9th level (Dimari-Diji's spells are unaffected). Finally, other plant creatures gain [[DATABASE/monsterability/Fast Healing|fast healing 20]] while in the area.</span><span class="in-box-ability">**Enriching Aura** (aura, evocation, transmutation) 60 feet. Dimari-Diji's natural power enhances primal spellcasting around him. All creatures within the emanation can alter a primal spell as if they had just used [[DATABASE/feat/Reach Spell|Reach Spell]] or [[DATABASE/feat/Widen Spell|Widen Spell]] when they Cast the Spell.</span>
+
+---
+**Speed** 40 feet; [[DATABASE/spell/Freedom of Movement|freedom of movement]]
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> branch +44 [+39/+34] (magical, reach 20 feet), **Damage** 5d10+20 bludgeoning plus [[DATABASE/monsterability/Improved Knockdown|Improved Knockdown]]</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> mental blast +44 [+39/+34] (magical, mental, range increment 120 feet), **Damage** 5d6+20 mental plus Memories of Ages</span>**Primal Innate Spells** DC 49, attack +41; **10th** _[[DATABASE/spell/Primal Phenomenon|primal phenomenon]]_, _[[DATABASE/spell/Revival|revival]]_; **9th** _[[DATABASE/spell/Nature's Enmity|nature's enmity]]_, _[[DATABASE/spell/Storm of Vengeance|storm of vengeance]]_, _[[DATABASE/spell/Summon Plant or Fungus|summon plant or fungus]]_; **8th** _[[DATABASE/spell/Moment of Renewal|moment of renewal]]_, _[[DATABASE/spell/Punishing Winds|punishing winds]]_, _[[DATABASE/spell/Wind Walk|wind walk]]_; **7th** _[[DATABASE/spell/Regenerate|regenerate]]_, _[[DATABASE/spell/Sunburst|sunburst]]_; **6th** _[[DATABASE/spell/Tangling Creepers|tangling creepers]]_; **3rd** _[[DATABASE/spell/Earthbind|earthbind]]_ (at will); **2nd** _[[DATABASE/spell/Entangle|entangle]]_; **Constant** **(8th)** _[[DATABASE/spell/True Seeing|true seeing]]_; **(4th)** _[[DATABASE/spell/Freedom of Movement|freedom of movement]]_, _[[DATABASE/spell/Speak with Plants|speak with plants]]_; **(2nd)** _[[DATABASE/spell/Speak with Animals|speak with animals]]_
+<span class="in-box-ability">**Forest Growth** Once per month, Dimari-Diji can spend 1 hour to sprout a new forest. He causes the forest to sprout in a 50-foot burst within 300 feet. The forest instantly springs to life, and is composed of fungi, plants, and trees most appropriate to the area he selected. The forest grows to the height, density, and liveliness of a forest that has grown for 10 years. The forest doesn't feature any animals or other creatures, but animals within 1 mile are aware of the new forest and might make the forest their new habitat as appropriate.</span><span class="in-box-ability">**Memories of Ages** Dimari-Diji's mental blasts cloud the minds of his foes, making it difficult for them to focus on combat. A creature that takes damage from Dimari-Diji's mental blast is [[DATABASE/condition/Dazzled|dazzled]] for 1 round. If the attack was a critical hit, the creature is dazzled for 1 minute instead.</span><span class="in-box-ability">**Memory Maelstrom** <span class="action-icon">3</span> (concentrate, incapacitation, mental, nonlethal, primal) Dimari-Diji tries to overwhelm foes with a surge of information he has absorbed over his long life. This surge deals 12d6 mental damage to each enemy within 60 feet, who must attempt a DC 32 Will save. 
+**Critical Success** The creature maintains its composure, takes no damage, and is temporarily immune to Memory Maelstrom for 1 minute. 
+**Success** The creature is [[DATABASE/condition/Stunned|stunned 1]] and takes half damage. 
+**Failure** The creature takes full damage and is stunned 3. 
+**Critical Failure** The creature takes double damage, is [[DATABASE/condition/Confused|confused]] for 2d4 rounds, and is stunned 3.</span><span class="in-box-ability">**Nature's Concentration** <span class="action-icon">4</span> **Trigger** Dimari-Diji's turn begins; **Effect** Dimari-Diji calls upon the natural world around him to support his magic. He Sustains a Spell.</span>

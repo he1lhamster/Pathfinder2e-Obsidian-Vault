@@ -73,17 +73,17 @@ By far the most common formian on Akiton, workers are focused and industrious, n
 # Formian Worker<span class="item-type">Creature 1</span>
 
 <span class="trait-alignment item-trait">LN</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Formian</span>
-**Source** [[Pathfinder 173. Doorway to the Red Star]]
-**Perception** +6; [[Darkvision]], [[Scent]] (imprecise) 30 feet
-**Languages** [[Akitonian]], [[Formian]]; [[Telepathy]] 30 feet
-**Skills** [[Athletics]] +7, [[Survival]] +6
+**Source** [[DATABASE/source/Pathfinder 173. Doorway to the Red Star|Pathfinder #173: Doorway to the Red Star]]
+**Perception** +6; [[DATABASE/monsterability/Darkvision|darkvision]], [[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet
+**Languages** [[DATABASE/language/Akitonian|Akitonian]], [[DATABASE/language/Formian|Formian]]; [[DATABASE/monsterability/Telepathy|telepathy]] 30 feet
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +7, [[DATABASE/skill/Survival|Survival]] +6
 **Str** +4, **Dex** +1, **Con** +3, **Int** +0, **Wis** +1, **Cha** +0
 **Hive Mind** (divination, primal) Formians operate from a shared hive intelligence that allows them to communicate nearly instantaneously. While within telepathic range of at least one other formian from the same hive mind, a formian worker gains a +2 circumstance bonus to initiative checks, Perception checks, and saving throws against mental effects. If one formian is aware of a combatant, all members of the hive mind within range are aware of it.
 
 ---
 **AC** 16; **Fort** +8, **Ref** +4, **Will** +6
 **HP** 20; **Resistances** sonic 2
-<span class="in-box-ability">**Able Assistant** When using the [[Aid]] action to assist another formian from the same hive mind within range of its hive link, if the formian worker rolls a success, they get a critical success instead, and if they roll a critical failure, they get a failure instead.</span>
+<span class="in-box-ability">**Able Assistant** When using the [[DATABASE/action/Aid|Aid]] action to assist another formian from the same hive mind within range of its hive link, if the formian worker rolls a success, they get a critical success instead, and if they roll a critical failure, they get a failure instead.</span>
 
 ---
 **Speed** 30 feet, burrow 5 feet

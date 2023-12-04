@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: Fortitude
 school: Necromancy
 source: '[[DATABASE/source/Pathfinder 186. Ghost King''s Rage|Pathfinder #186: Ghost
@@ -41,14 +42,14 @@ type: Cantrip
 # Ancient Dust<span class="item-type">Cantrip 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Cantrip</span><span class="item-trait">Necromancy</span><span class="item-trait">Negative</span>
-**Source** [[Pathfinder 186. Ghost King's Rage]]
+**Source** [[DATABASE/source/Pathfinder 186. Ghost King's Rage|Pathfinder #186: Ghost King's Rage]]
 **Traditions** arcane, divine
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Area** 15-foot cone
 **Saving Throw** Fortitude
 
 ---
-You cough up a cloud of gray soil, echoing the dust in the graves of Kemnebi's many victims. Each creature in the area takes negative damage equal to your spellcasting modifier and 1 [[Persistent Damage]] depending on its Fortitude save.
+You cough up a cloud of gray soil, echoing the dust in the graves of Kemnebi's many victims. Each creature in the area takes negative damage equal to your spellcasting modifier and 1 [[DATABASE/condition/Persistent Damage|persistent negative damage]] depending on its Fortitude save.
 **Critical Success** The creature is unaffected.
 **Success** The creature takes half damage and no persistent damage.
 **Failure** The creature takes full damage and persistent damage.

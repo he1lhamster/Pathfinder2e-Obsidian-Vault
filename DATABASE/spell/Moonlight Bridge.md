@@ -21,6 +21,7 @@ patron_theme: null
 range: 30 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
@@ -39,8 +40,8 @@ type: Focus
 # Moonlight Bridge<span class="item-type">Focus 6</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Conjuration</span><span class="item-trait">Cursebound</span><span class="item-trait">Light</span><span class="item-trait">Oracle</span>
-**Source** [[Advanced Player's Guide]] 
-**Mystery** [[Cosmos]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Mystery** [[DATABASE/oraclemystery/Cosmos|cosmos]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet
 **Duration** 10 minutes

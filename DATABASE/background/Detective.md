@@ -10,6 +10,7 @@ id: '11'
 name: Detective
 prerequisite: null
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Society|Society]]'
 - Underworld [[DATABASE/skill/Lore|Lore]]
@@ -21,7 +22,7 @@ type: Background
 ---
 # Detective<span class="item-type">Background</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 You solved crimes as a police inspector or took jobs for wealthy clients as a private investigator. You might have become an adventurer as part of your next big mystery, but likely it was due to the consequences or aftermath of a prior case.
 Choose two ability boosts. One must be to **Intelligence** or **Wisdom**, and one is a free ability boost.
-You're trained in the [[Society]] skill, and the [[Lore]] skill. You gain the [[Streetwise]] skill feat.
+You're trained in the [[DATABASE/skill/Society|Society]] skill, and the [[DATABASE/skill/Lore|Underworld Lore]] skill. You gain the [[DATABASE/feat/Streetwise|Streetwise]] skill feat.

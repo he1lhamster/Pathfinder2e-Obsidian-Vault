@@ -11,6 +11,7 @@ name: Stage Fighting
 prerequisite: '[[DATABASE/feat/Gladiator Dedication|Gladiator Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Stage Fighting <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Gladiator]]
-**Prerequisites** [[Gladiator Dedication]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Gladiator|Gladiator]]
+**Prerequisites** [[DATABASE/feat/Gladiator Dedication|Gladiator Dedication]]
 
 ---
 You pull punches to give a better show. You don't take the usual –2 circumstance penalty when making a nonlethal attack with a weapon or unarmed attack that doesn't have the nonlethal trait.

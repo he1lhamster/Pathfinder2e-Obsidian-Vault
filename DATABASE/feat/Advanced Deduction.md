@@ -11,6 +11,7 @@ name: Advanced Deduction
 prerequisite: '[[DATABASE/feat/Basic Deduction|Basic Deduction]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Advanced Deduction <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Investigator]]
-**Prerequisites** [[Basic Deduction]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Investigator|Investigator]]
+**Prerequisites** [[DATABASE/feat/Basic Deduction|Basic Deduction]]
 
 ---
 You gain one investigator feat. For the purpose of meeting its prerequisites, your investigator level is equal to half your character level.

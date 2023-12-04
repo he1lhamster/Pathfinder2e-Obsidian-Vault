@@ -69,19 +69,19 @@ wisdom: '+2'
 # Cleansed Cultist
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 27
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 27
 **Unspecific Lore**: DC 25
 **Specific Lore**: DC 22
 
 # Cleansed Cultist<span class="item-type">Creature 6</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Kingmaker Companion Guide]]
+**Source** [[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]
 **Perception** +12
-**Languages** [[Common]]
-**Skills** [[Athletics]] +13, [[Deception]] +13, [[Intimidation]] +13, [[Occultism]] +11, [[Society]] +11, [[Stealth]] +14
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +13, [[DATABASE/skill/Deception|Deception]] +13, [[DATABASE/skill/Intimidation|Intimidation]] +13, [[DATABASE/skill/Occultism|Occultism]] +11, [[DATABASE/skill/Society|Society]] +11, [[DATABASE/skill/Stealth|Stealth]] +14
 **Str** +2, **Dex** +4, **Con** +2, **Int** +0, **Wis** +2, **Cha** +2
-**Items** _+1 [[Shortsword]]_, [[Dagger]], [[Hourglass]], [[Leather Armor]]
+**Items** _+1 [[DATABASE/weapon/Shortsword|shortsword]]_, [[DATABASE/weapon/Dagger|dagger]], [[DATABASE/equipment/Hourglass|hourglass worth 10 gp]], [[DATABASE/armor/Leather Armor|leather armor]]
 
 ---
 **AC** 24; **Fort** +12, **Ref** +16, **Will** +14
@@ -92,5 +92,5 @@ This creature did not include a description.
 <span class="in-box-ability">**Melee** <span class="action-icon">1</span> _shortsword_ +17 [+13/+9] (agile, finesse, versatile S), **Damage** 1d6+5 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> dagger +16 [+12/+8] (agile, finesse, thrown 10 feet, versatile S), **Damage** 1d4+5 piercing</span><span class="in-box-ability">**Release the Inmost Worm** <span class="action-icon">2</span> (mental, necromancy, occult) The cleansed cultist makes fists with both hands, pressing them to their temples so that their outward pointing thumbs extend to the left and right while they cry out in painful religious rapture. The hourglass-shaped scar on their forehead bulges briefly before a bloody worm is expelled from the center of the scar. This worm shoots through the air to target a single creature within 30 feet, who must then attempt a DC 24 Fortitude save. The cultist can't Release the Inmost Worm again for 1d4 rounds.
 **Critical Success** The target is unaffected.
  **Success** The worm lands on the target and causes agonizing pain before dropping to the floor and fading away. The target takes 3d6 mental damage.
- **Failure** The worm lands on the target and burrows into their flesh, leaving no trace of a hole. The target seems to age rapidly for a moment, takes 6d6 mental damage, and is [[Stupefied]] 1 for 1 round before the pain fades and the target returns to its actual age.
- **Critical Failure** As failure, but the target also takes 6d6 [[Persistent Damage]]. The target remains stupefied 1 as long as the mental damage persists, during which they appear to be aging rapidly. Once the persistent damage ends, the target's appearance reverts to normal.</span><span class="in-box-ability">**[[Sneak Attack]]** The cleansed cultist deals an extra 2d6 precision damage to [[Flat-Footed]] creatures.</span><span class="in-box-ability">**Twin Feint** <span class="action-icon">2</span> The cultist makes two Strikes, one with their shortsword and one with their dagger, both against the same target. The target is automatically [[Flat-Footed]] against the second attack. Apply the cultist's multiple attack penalty to the Strikes normally.</span>
+ **Failure** The worm lands on the target and burrows into their flesh, leaving no trace of a hole. The target seems to age rapidly for a moment, takes 6d6 mental damage, and is [[DATABASE/condition/Stupefied|stupefied]] 1 for 1 round before the pain fades and the target returns to its actual age.
+ **Critical Failure** As failure, but the target also takes 6d6 [[DATABASE/condition/Persistent Damage|persistent mental damage]]. The target remains stupefied 1 as long as the mental damage persists, during which they appear to be aging rapidly. Once the persistent damage ends, the target's appearance reverts to normal.</span><span class="in-box-ability">**[[DATABASE/monsterability/Sneak Attack|Sneak Attack]]** The cleansed cultist deals an extra 2d6 precision damage to [[DATABASE/condition/Flat-Footed|flat-footed]] creatures.</span><span class="in-box-ability">**Twin Feint** <span class="action-icon">2</span> The cultist makes two Strikes, one with their shortsword and one with their dagger, both against the same target. The target is automatically [[DATABASE/condition/Flat-Footed|flat-footed]] against the second attack. Apply the cultist's multiple attack penalty to the Strikes normally.</span>

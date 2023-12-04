@@ -11,6 +11,7 @@ name: Practiced Defender
 prerequisite: '[[DATABASE/feat/Swordmaster Dedication|Swordmaster Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
 subcategory: null
@@ -23,12 +24,12 @@ type: Feat
 # Practiced Defender <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[PFS Guide]]
-**Archetype** [[Swordmaster]]
-**Prerequisites** [[Swordmaster Dedication]]
+**Source** [[DATABASE/source/PFS Guide|PFS Guide]]
+**Archetype** [[DATABASE/archetype/Swordmaster|Swordmaster]]
+**Prerequisites** [[DATABASE/feat/Swordmaster Dedication|Swordmaster Dedication]]
 
 ---
-After extensive practice with the Swords, you're comfortable enough with your shield to move at a normal pace with it raised. You may use the [[Defend]] exploration activity while traveling at your full travel speed instead of half your travel speed.
+After extensive practice with the Swords, you're comfortable enough with your shield to move at a normal pace with it raised. You may use the [[DATABASE/action/Defend|Defend]] exploration activity while traveling at your full travel speed instead of half your travel speed.
 
 ## Traits
 

@@ -80,19 +80,19 @@ wisdom: '+5'
 # Krashk
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 30
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 30
 **Unspecific Lore**: DC 28
 **Specific Lore**: DC 25
 
 # Krashk<span class="item-type">Creature 5</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Gnoll</span><span class="item-trait">Humanoid</span>
-**Source** [[The Enmity Cycle]]
-**Perception** +14; [[Darkvision]]
-**Languages** [[Abyssal]], [[Gnoll]], [[Taldane]]
-**Skills** [[Intimidation]] +10, [[Medicine]] +10, [[Religion]] +13, [[Stealth]] +10, [[Survival]] +12
+**Source** [[DATABASE/source/The Enmity Cycle|The Enmity Cycle]]
+**Perception** +14; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Abyssal|Abyssal]], [[DATABASE/language/Gnoll|Gnoll]], [[DATABASE/language/Taldane|Taldane]]
+**Skills** [[DATABASE/skill/Intimidation|Intimidation]] +10, [[DATABASE/skill/Medicine|Medicine]] +10, [[DATABASE/skill/Religion|Religion]] +13, [[DATABASE/skill/Stealth|Stealth]] +10, [[DATABASE/skill/Survival|Survival]] +12
 **Str** +3, **Dex** +3, **Con** +2, **Int** +1, **Wis** +5, **Cha** +4
-**Items** [[Staff of Conjuration]], wooden [[Religious Symbol]], [[Falchion]], [[Hide Armor]]
+**Items** [[DATABASE/equipment/Staff of Conjuration|staff of conjuration]], wooden [[DATABASE/equipment/Religious Symbol|religious symbol]], [[DATABASE/weapon/Falchion|falchion]], [[DATABASE/armor/Hide Armor|hide armor]]
 
 ---
 **AC** 21; **Fort** +12, **Ref** +9, **Will** +15
@@ -100,5 +100,5 @@ This creature did not include a description.
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> falchion +13 [+8/+3] (forceful, sweep), **Damage** 1d10+7 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +13 [+9/+5] (agile), **Damage** 1d6+7 piercing</span>**Divine Prepared Spells** DC 24, spell attack +12; **3rd** _[[Harm]]_, _[[Vampiric Touch]]_; **2nd** _[[Darkness]]_, _[[Harm]]_ (×4), _[[Spiritual Weapon]]_; **1st** _[[Command]]_, _[[Fear]]_, _[[Magic Weapon]]_; **Cantrips** **(2nd)** _[[Daze]]_, _[[Detect Magic]]_, _[[Light]]_, _[[Read Aura]]_, _[[Sigil]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> falchion +13 [+8/+3] (forceful, sweep), **Damage** 1d10+7 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +13 [+9/+5] (agile), **Damage** 1d6+7 piercing</span>**Divine Prepared Spells** DC 24, spell attack +12; **3rd** _[[DATABASE/spell/Harm|harm]]_, _[[DATABASE/spell/Vampiric Touch|vampiric touch]]_; **2nd** _[[DATABASE/spell/Darkness|darkness]]_, _[[DATABASE/spell/Harm|harm]]_ (×4), _[[DATABASE/spell/Spiritual Weapon|spiritual weapon]]_; **1st** _[[DATABASE/spell/Command|command]]_, _[[DATABASE/spell/Fear|fear]]_, _[[DATABASE/spell/Magic Weapon|magic weapon]]_; **Cantrips** **(2nd)** _[[DATABASE/spell/Daze|daze]]_, _[[DATABASE/spell/Detect Magic|detect magic]]_, _[[DATABASE/spell/Light|light]]_, _[[DATABASE/spell/Read Aura|read aura]]_, _[[DATABASE/spell/Sigil|sigil]]_
 <span class="in-box-ability">**Pack Attack** Krashk deals an additional 1d4 damage to any creature that's within reach of at least two of her allies.</span><span class="in-box-ability">**Rugged Travel** Krashk ignores the first square of difficult terrain she moves into each time she Steps or Strides.</span>

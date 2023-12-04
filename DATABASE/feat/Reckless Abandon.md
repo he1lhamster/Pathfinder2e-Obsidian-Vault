@@ -11,6 +11,7 @@ name: Reckless Abandon
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Reckless Abandon <span class="action-icon">4</span> <span class="item-type">Feat 16</span>
 
 <span class="item-trait">Barbarian</span><span class="item-trait">Rage</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Trigger** Your turn begins, and you are at half or fewer Hit Points.
 
 ---

@@ -11,6 +11,7 @@ name: Blind-Fight
 prerequisite: master in Perception
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -26,14 +27,14 @@ type: Feat
 # Blind-Fight <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Fighter</span><span class="item-trait">Investigator</span><span class="item-trait">Ranger</span><span class="item-trait">Rogue</span>
-**Source** [[Advanced Player's Guide]] , [[Core Rulebook]] 
-**Archetypes** [[Exorcist]]*, [[Horizon Walker]]*
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] , [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetypes** [[DATABASE/archetype/Exorcist|Exorcist]]*, [[DATABASE/archetype/Horizon Walker|Horizon Walker]]*
 **Prerequisites** master in Perception
 * This archetype offers Blind-Fight at a different level than displayed here.
 
 ---
-Your battle instincts make you more aware of [[Concealed]] and [[Invisible]] opponents. You don't need to succeed at a flat check to target concealed creatures. You're not [[Flat-Footed]] to creatures that are [[Hidden]] from you (unless you're flat-footed to them for reasons other than the hidden condition), and you need only a successful DC 5 flat check to target a hidden creature.
- While you're adjacent to an [[Undetected]] creature of your level or lower, it is instead only hidden from you.
+Your battle instincts make you more aware of [[DATABASE/condition/Concealed|concealed]] and [[DATABASE/condition/Invisible|invisible]] opponents. You don't need to succeed at a flat check to target concealed creatures. You're not [[DATABASE/condition/Flat-Footed|flat-footed]] to creatures that are [[DATABASE/condition/Hidden|hidden]] from you (unless you're flat-footed to them for reasons other than the hidden condition), and you need only a successful DC 5 flat check to target a hidden creature.
+ While you're adjacent to an [[DATABASE/condition/Undetected|undetected]] creature of your level or lower, it is instead only hidden from you.
 
 ## Archetype Use
 

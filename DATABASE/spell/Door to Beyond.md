@@ -22,6 +22,7 @@ patron_theme: null
 range: 5 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Fortitude
 school: Conjuration
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -36,8 +37,8 @@ type: Focus
 # Door to Beyond<span class="item-type">Focus 4</span>
 
 <span class="item-trait">Conjuration</span>
-**Source** [[Gods & Magic]] 
-**Domain** [[Void Domain]]
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
+**Domain** [[DATABASE/domain/Void Domain|void]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 5 feet; **Area** 20-foot emanation
 **Saving Throw** Fortitude; **Duration** 1 minute

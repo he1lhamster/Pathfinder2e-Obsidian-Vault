@@ -5,6 +5,7 @@ item_category: Relics
 name: Fascinating
 prerequisite: null
 rarity: Common
+rus_type_level: null
 school: Enchantment
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
@@ -16,8 +17,8 @@ type: Relic Minor Gift
 # Fascinating<span class="item-type">Minor Gift</span>
 
 <span class="item-trait">Enchantment</span><span class="item-trait">Mental</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Aspect** artistry
 
 ---
-You gain the [[Fascinating Performance]] skill feat while wearing or wielding the relic, even if you don't meet its prerequisites. If you critically succeed against an observer, that target doesn't become temporarily immune to this effect.
+You gain the [[DATABASE/feat/Fascinating Performance|Fascinating Performance]] skill feat while wearing or wielding the relic, even if you don't meet its prerequisites. If you critically succeed against an observer, that target doesn't become temporarily immune to this effect.

@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Aquarium Lamp<span class="item-type">Item 8</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Electricity</span><span class="item-trait">Light</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 1,500 gp
 **Bulk** 20
 **Activate** <span class="action-icon">1</span> Interact

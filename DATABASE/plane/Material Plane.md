@@ -5,6 +5,7 @@ id: '1'
 name: Material Plane
 plane_category: Inner Sphere Planes
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait: null
 type: Plane
@@ -13,10 +14,10 @@ type: Plane
 # Material Plane<span class="item-type">Plane</span>
 
 <span class="trait-alignment item-trait">N</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Category** Inner Sphere Planes
-**Divinities** Elder Mythos pantheon, [[Gozreh]]
-**Native Inhabitants** [[Dwarf]], [[Elf]], [[Halfling]], [[Human]], [[Gnome]], [[Goblin]], and countless other ancestries
+**Divinities** Elder Mythos pantheon, [[DATABASE/deity/Gozreh|Gozreh]]
+**Native Inhabitants** [[DATABASE/ancestry/Dwarf|dwarves]], [[DATABASE/ancestry/Elf|elves]], [[DATABASE/ancestry/Halfling|halflings]], [[DATABASE/ancestry/Human|humans]], [[DATABASE/ancestry/Gnome|gnomes]], [[DATABASE/monsterfamily/Goblin|goblins]], and countless other ancestries
 
 ---
 The Material Plane is the prosaic universe and the home of mortal life. Innumerable galaxies play host to countless stars and their planets, each housing unique settings for any campaign, with Golarion as the classic example. Other worlds of note like Castrovel, Akiton, and Eox exist within Golarion’s own solar system, and then beyond this, orbiting other distant stars or in other galaxies still, worlds such as Androffa, Carcosa, and even Earth swirl within the Material Plane’s vast and silent void. 

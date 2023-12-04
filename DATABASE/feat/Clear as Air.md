@@ -11,6 +11,7 @@ name: Clear as Air
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Illusion
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -28,11 +29,11 @@ type: Feat
 # Clear as Air <span class="action-icon">2</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Air</span><span class="item-trait">Illusion</span><span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Overflow</span><span class="item-trait">Primal</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
-Compact layers of air diffract and bend light around your body, making you appear as clear as the sky on a perfect day. You become [[Invisible]] until the end of your next turn. You can Sustain the impulse. If you use a hostile action, the impulse ends after that action is completed. If you activate your kinetic aura, the impulse conceals its elements, though any special effects of your aura might give away your location.
- This impulse weakens if you use it too frequently. Using it again within 10 minutes makes you [[Concealed]] instead of invisible.
+Compact layers of air diffract and bend light around your body, making you appear as clear as the sky on a perfect day. You become [[DATABASE/condition/Invisible|invisible]] until the end of your next turn. You can Sustain the impulse. If you use a hostile action, the impulse ends after that action is completed. If you activate your kinetic aura, the impulse conceals its elements, though any special effects of your aura might give away your location.
+ This impulse weakens if you use it too frequently. Using it again within 10 minutes makes you [[DATABASE/condition/Concealed|concealed]] instead of invisible.
 
 ---
 **Level (10th)** The impulse doesn't end if you take a hostile action, but if you're invisible, you become concealed instead of invisible until the start of your next turn.
@@ -54,7 +55,7 @@ The primary magical actions kineticists use are called impulses. You can use an 
 
 **Overflow:**
 
-Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
+Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[DATABASE/action/Channel Elements|Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
 
 **Primal:**
 

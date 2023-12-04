@@ -12,6 +12,7 @@ prerequisite: null
 rarity: Common
 requirement: You are wielding a single one-handed melee weapon and have your other
   hand or hands free.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -26,7 +27,7 @@ type: Feat
 # Guardian's Deflection (Fighter) <span class="action-icon">5</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Fighter</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Trigger** An ally within your melee reach is hit by an attack, you can see the attacker, and the ally gaining a +2 circumstance bonus to AC would turn the critical hit into a hit or the hit into a miss.
 **Requirements** You are wielding a single one-handed melee weapon and have your other hand or hands free.
 

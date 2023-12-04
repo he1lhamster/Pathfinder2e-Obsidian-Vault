@@ -11,6 +11,7 @@ name: Gadget Specialist
 prerequisite: Expert in [[DATABASE/skill/Crafting|Crafting]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -23,13 +24,13 @@ type: Feat
 # Gadget Specialist <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Inventor</span>
-**Source** [[Guns & Gears]]
-**Prerequisites** expert in [[Crafting]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Prerequisites** expert in [[DATABASE/skill/Crafting|Crafting]]
 
 ---
-Rather than just using your gadgets for various boosts and tweaks, you also craft a few specific temporary consumable gadgets each day. You gain the formulas for three common or uncommon gadgets. Each day during your daily preparations, you can create two temporary gadgets from your formula book. Gadgets prepared in this way don't cost you any resources to [[Craft]] and don't have any sale value. They are temporary items and fall apart the next time you make your daily preparations if you haven't already used them. 
+Rather than just using your gadgets for various boosts and tweaks, you also craft a few specific temporary consumable gadgets each day. You gain the formulas for three common or uncommon gadgets. Each day during your daily preparations, you can create two temporary gadgets from your formula book. Gadgets prepared in this way don't cost you any resources to [[DATABASE/action/Craft|Craft]] and don't have any sale value. They are temporary items and fall apart the next time you make your daily preparations if you haven't already used them. 
 If you're a master in Crafting, you can create three gadgets per day, and you gain three additional common or uncommon gadget formulas. If you're legendary in Crafting, you can create four gadgets per day, and you gain another additional three common or uncommon gadget formulas, for a total of nine.
 
 ## Gadget Specialist Leads To...
 
-[[Contingency Gadgets]], [[Ubiquitous Gadgets]]
+[[DATABASE/feat/Contingency Gadgets|Contingency Gadgets]], [[DATABASE/feat/Ubiquitous Gadgets|Ubiquitous Gadgets]]

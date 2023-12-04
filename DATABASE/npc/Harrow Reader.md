@@ -67,19 +67,19 @@ wisdom: '+3'
 # Harrow Reader
 
 A harrow deck is a set of 54 cards with symbolic illustrations that serves as a sacred divining tool. Feared by the superstitious and avoided by those who know better than to tempt fate, harrow readers live and work in traveling communities, often moving from town to town as opportunities arise. For encounters involving social interaction, the harrow reader is a 3rd-level challenge.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 13
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 13
 **Unspecific Lore**: DC 11
 **Specific Lore**: DC 8
 
 # Harrow Reader<span class="item-type">Creature -1</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Perception** +7
-**Languages** [[Common]]
-**Skills** [[Diplomacy]] +8, [[Lore]] +11, [[Occultism]] +7, [[Performance]] +10 (+11 when fortune-telling), [[Society]] +7
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Diplomacy|Diplomacy]] +8, [[DATABASE/skill/Lore|Fortune-Telling Lore]] +11, [[DATABASE/skill/Occultism|Occultism]] +7, [[DATABASE/skill/Performance|Performance]] +10 (+11 when fortune-telling), [[DATABASE/skill/Society|Society]] +7
 **Str** +1, **Dex** +2, **Con** +1, **Int** +2, **Wis** +3, **Cha** +3
-**Items** harrow deck, [[Sickle]]
+**Items** harrow deck, [[DATABASE/weapon/Sickle|sickle]]
 
 ---
 **AC** 13; **Fort** +3, **Ref** +6, **Will** +10

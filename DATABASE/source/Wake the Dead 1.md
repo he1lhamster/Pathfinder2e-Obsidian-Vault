@@ -2,6 +2,7 @@
 id: '201'
 name: Wake the Dead 1
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -15,12 +16,12 @@ type: Source
 
 ## Backgrounds [1]
 
-[[Awful Scab]]
+[[DATABASE/background/Awful Scab|Awful Scab]]
 
 ## Equipment [8]
 
-[[Nexian Sealing Blade]], [[Nexian Sealing Blade]], [[Rattling Bolt]], [[Rattling Bolt]], [[Silver Orb]], [[Silver Orb]], [[Silver Orb]], [[Silver Orb]]
+[[DATABASE/equipment/Nexian Sealing Blade|Nexian Sealing Blade]], [[DATABASE/equipment/Nexian Sealing Blade|Nexian Sealing Blade (Greater)]], [[DATABASE/equipment/Rattling Bolt|Rattling Bolt]], [[DATABASE/equipment/Rattling Bolt|Rattling Bolt (Greater)]], [[DATABASE/equipment/Silver Orb|Silver Orb]], [[DATABASE/equipment/Silver Orb|Silver Orb (Greater)]], [[DATABASE/equipment/Silver Orb|Silver Orb (Lesser)]], [[DATABASE/equipment/Silver Orb|Silver Powder Orb]]
 
 ## Spells [1]
 
-[[Cyclone Rondo]]
+[[DATABASE/spell/Cyclone Rondo|Cyclone Rondo]]

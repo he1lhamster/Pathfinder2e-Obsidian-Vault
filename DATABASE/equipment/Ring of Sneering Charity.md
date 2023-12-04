@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Enchantment
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Ring of Sneering Charity<span class="item-type">Item 7</span>
 
 <span class="item-trait">Cursed</span><span class="item-trait">Enchantment</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Usage** worn ring; **Bulk** —
 
 ---

@@ -11,6 +11,7 @@ name: Ragdya's Revelry
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -23,12 +24,12 @@ type: Feat
 # Ragdya's Revelry <span class="action-icon">5</span> <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Vanara</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 **Frequency** once per day
 **Trigger** An adjacent creature you can see fails an attack roll against you.
 
 ---
-You dart away from your foe's attack with a casual laugh, using the opening to cause mischief. You attempt to [[Steal]] an item from the triggering creature, ignoring the usual restriction that the creature can't be in combat.
+You dart away from your foe's attack with a casual laugh, using the opening to cause mischief. You attempt to [[DATABASE/action/Steal|Steal]] an item from the triggering creature, ignoring the usual restriction that the creature can't be in combat.
 
 ## Traits
 

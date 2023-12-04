@@ -10,6 +10,7 @@ id: '30'
 name: Sailor
 prerequisite: null
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]]'
 - Sailing [[DATABASE/skill/Lore|Lore]]
@@ -21,7 +22,7 @@ type: Background
 ---
 # Sailor<span class="item-type">Background</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 You heard the call of the sea from a young age. Perhaps you signed onto a merchant’s vessel, joined the navy, or even fell in with a crew of pirates and scalawags.
 Choose two ability boosts. One must be to **Strength** or **Dexterity**, and one is a free ability boost.
-You're trained in the [[Athletics]] skill, and the [[Lore]] skill. You gain the [[Underwater Marauder]] skill feat.
+You're trained in the [[DATABASE/skill/Athletics|Athletics]] skill, and the [[DATABASE/skill/Lore|Sailing Lore]] skill. You gain the [[DATABASE/feat/Underwater Marauder|Underwater Marauder]] skill feat.

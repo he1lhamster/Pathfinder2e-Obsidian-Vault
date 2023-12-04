@@ -11,6 +11,7 @@ name: Ally's Shelter
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,7 +26,7 @@ type: Feat
 # Ally's Shelter <span class="action-icon">5</span> <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Fortune</span><span class="item-trait">Kobold</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Frequency** once per day
 **Trigger** You attempt a saving throw while adjacent to one or more allies, but you haven't rolled yet.
 
@@ -40,4 +41,4 @@ A fortune effect beneficially alters how you roll your dice. You can never have 
 
 **Kobold:**
 
-A creature with this trait is a member of the kobold ancestry. Kobolds are reptilian humanoids who are usually Small and typically have [[Darkvision]]. An ability with this trait can be used or selected only by kobolds.
+A creature with this trait is a member of the kobold ancestry. Kobolds are reptilian humanoids who are usually Small and typically have [[DATABASE/monsterability/Darkvision|darkvision]]. An ability with this trait can be used or selected only by kobolds.

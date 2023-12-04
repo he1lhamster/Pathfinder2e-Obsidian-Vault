@@ -11,6 +11,7 @@ name: Call Ursine Ally
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 subcategory: null
@@ -26,12 +27,12 @@ type: Feat
 # Call Ursine Ally <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Conjuration</span><span class="item-trait">Primal</span><span class="item-trait">Summoning</span>
-**Source** [[Treasure Vault]] 
-**Archetype** [[Ursine Avenger Hood]]
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
+**Archetype** [[DATABASE/archetype/Ursine Avenger Hood|Ursine Avenger Hood]]
 **Frequency** once per hour
 
 ---
-You can cast a 3rd-level [[Summon Animal]] as an innate spell, but only to summon a [[Black Bear]]. At 10th level, the _summon animal_ spell is heightened to 4th level, and you can summon a [[Grizzly Bear]]. At 12th level, your _summon animal_ innate spell is heightened to 5th level, and you can summon a [[Polar Bear]]. At 14th level, it's heightened to 6th level, and you can summon a [[Cave Bear]].
+You can cast a 3rd-level [[DATABASE/spell/Summon Animal|summon animal]] as an innate spell, but only to summon a [[DATABASE/monster/Black Bear|black bear]]. At 10th level, the _summon animal_ spell is heightened to 4th level, and you can summon a [[DATABASE/monster/Grizzly Bear|grizzly bear]]. At 12th level, your _summon animal_ innate spell is heightened to 5th level, and you can summon a [[DATABASE/monster/Polar Bear|polar bear]]. At 14th level, it's heightened to 6th level, and you can summon a [[DATABASE/monster/Cave Bear|cave bear]].
 
 ## Traits
 

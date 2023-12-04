@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -57,7 +58,7 @@ weapon_type: null
 # Bioluminescence Bomb<span class="item-type">Item 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Alchemical</span><span class="item-trait">Bomb</span><span class="item-trait">Consumable</span><span class="item-trait">Light</span>
-**Source** [[Pathfinder 187. The Seventh Arch]]
+**Source** [[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh Arch]]
 **Price** 3 gp
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Strike
@@ -65,5 +66,5 @@ weapon_type: null
 ---
 This vial of glowing goo constantly sheds dim light in a 10-foot radius. When a bioluminescence bomb strikes a creature or a hard surface, it shatters and releases the bioluminescent fluid's energy in a flare of light. Each creature within 10 feet of where the bomb exploded must succeed at a DC 17 Reflex save or be marked with dye that continues to glow for 24 hours. An affected creature must also attempt a DC 17 Fortitude saving throw against the overwhelming burst of light.
 **Success** The creature is unaffected.
-**Failure** The creature is [[Dazzled]] for 1 round.
-**Critical Failure** The creature is [[Blinded]] for 1 round, then dazzled for 1 round.
+**Failure** The creature is [[DATABASE/condition/Dazzled|dazzled]] for 1 round.
+**Critical Failure** The creature is [[DATABASE/condition/Blinded|blinded]] for 1 round, then dazzled for 1 round.

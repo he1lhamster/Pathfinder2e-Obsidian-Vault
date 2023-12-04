@@ -72,17 +72,17 @@ wisdom: '+1'
 # Living Landslide
 
 Living landslides resemble humanoids made of earth and gravel.
-**Recall Knowledge - Elemental ([[Arcana]], [[Nature]])**: DC 20
+**Recall Knowledge - Elemental ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 20
 **Unspecific Lore**: DC 18
 **Specific Lore**: DC 15
 
 # Living Landslide<span class="item-type">Creature 5</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Earth</span><span class="item-trait">Elemental</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +12; darkvision, tremorsense (imprecise) 60 feet
-**Languages** [[Terran]]
-**Skills** [[Athletics]] +14, [[Stealth]] +8
+**Languages** [[DATABASE/language/Terran|Terran]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +14, [[DATABASE/skill/Stealth|Stealth]] +8
 **Str** +5, **Dex** -1, **Con** +4, **Int** -2, **Wis** +1, **Cha** -1
 **Earthbound** When not touching solid ground, the living landslide is slowed 1 and can’t use reactions.
 

@@ -85,28 +85,28 @@ wisdom: '+5'
 # Theater Phantasm
 
 Theater phantasms are amalgamations of the spiritual and emotional energy given up by entertainers and audiences of powerful performances.
-**Recall Knowledge - Undead ([[Religion]])**: DC 37
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 37
 **Unspecific Lore**: DC 35
 **Specific Lore**: DC 32
 
 # Theater Phantasm<span class="item-type">Creature 16</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Incorporeal</span><span class="item-trait">Undead</span>
-**Source** [[Pathfinder 185. A Taste of Ashes]]
-**Perception** +32; [[All-Around Vision]], [[Lifesense]] 100 feet, [[Tremorsense]] 100 feet
-**Languages** [[Common]], [[Necril]]; up to four others
-**Skills** [[Intimidation]] +30, [[Performance]] +35, [[Society]] +30, [[Lore]] +36
+**Source** [[DATABASE/source/Pathfinder 185. A Taste of Ashes|Pathfinder #185: A Taste of Ashes]]
+**Perception** +32; [[DATABASE/monsterability/All-Around Vision|all-around vision]], [[DATABASE/monsterability/Lifesense|lifesense]] 100 feet, [[DATABASE/monsterability/Tremorsense|tremorsense]] 100 feet
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Necril|Necril]]; up to four others
+**Skills** [[DATABASE/skill/Intimidation|Intimidation]] +30, [[DATABASE/skill/Performance|Performance]] +35, [[DATABASE/skill/Society|Society]] +30, [[DATABASE/skill/Lore|Theater Lore]] +36
 **Str** -5, **Dex** +4, **Con** +6, **Int** +2, **Wis** +5, **Cha** +9
 **Bonded Theater** A theater phantasm can't travel more than 50 feet from the theater (or similar location) where it was created.
 
 ---
 **AC** 36; **Fort** +28, **Ref** +25, **Will** +30
-**HP** 260 (emotional consumption, dramatic return, [[Negative Healing]]); **Immunities** death effects, disease, [[Paralyzed]], poison, precision, [[Unconscious]]; **Resistances** all 10 (except force, [[Ghost Touch]], or positive^ double resistance vs. non-magical)
-<span class="in-box-ability">**Catharsis** (emotion, enchantment, mental, occult) When a theater phantasm is destroyed, it emits waves of emotional energy. All creatures within 50 feet take 10d6 mental damage (DC 34 basic Will save) as they experience a crushing barrage of emotions.</span><span class="in-box-ability">**Dramatic Return** (necromancy, occult) A destroyed theater phantasm slowly reforms to full strength over the course of 1 week. The only way to permanently destroy the phantasm is to reduce it to 0 Hit Points during a performance occurring in its bonded theater.</span><span class="in-box-ability">**Emotional Consumption** (emotion, necromancy, occult) If a theater phantasm is within 100 feet of an audience of 20 or more intelligent beings witnessing a performance in its bonded theater, it gains [[Fast Healing]] 20.</span>
+**HP** 260 (emotional consumption, dramatic return, [[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects, disease, [[DATABASE/condition/Paralyzed|paralyzed]], poison, precision, [[DATABASE/condition/Unconscious|unconscious]]; **Resistances** all 10 (except force, [[DATABASE/equipment/Ghost Touch|ghost touch]], or positive^ double resistance vs. non-magical)
+<span class="in-box-ability">**Catharsis** (emotion, enchantment, mental, occult) When a theater phantasm is destroyed, it emits waves of emotional energy. All creatures within 50 feet take 10d6 mental damage (DC 34 basic Will save) as they experience a crushing barrage of emotions.</span><span class="in-box-ability">**Dramatic Return** (necromancy, occult) A destroyed theater phantasm slowly reforms to full strength over the course of 1 week. The only way to permanently destroy the phantasm is to reduce it to 0 Hit Points during a performance occurring in its bonded theater.</span><span class="in-box-ability">**Emotional Consumption** (emotion, necromancy, occult) If a theater phantasm is within 100 feet of an audience of 20 or more intelligent beings witnessing a performance in its bonded theater, it gains [[DATABASE/monsterability/Fast Healing|fast healing]] 20.</span>
 
 ---
 **Speed** fly 40 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> spectral hand +30 [+25/+20] (finesse, magical), **Damage** 3d10+15 negative</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> impromptu props +28 [+23/+18] (magical, range increment 30 feet), **Damage** 3d12+18 bludgeoning</span><span class="in-box-ability">**Spotlight** <span class="action-icon">4</span> (emotion, enchantment, light, occult) **Frequency** once per round; **Effect** The theater phantasm draws attention to a creature it admires. The phantasm designates a target other than itself within 50 feet with a subtle spotlight, giving the target a +2 status bonus to [[Performance]] checks and resistance 10 to mental damage for 1 minute. If it uses this ability again on a new target, the former creature loses its spotlight.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> spectral hand +30 [+25/+20] (finesse, magical), **Damage** 3d10+15 negative</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> impromptu props +28 [+23/+18] (magical, range increment 30 feet), **Damage** 3d12+18 bludgeoning</span><span class="in-box-ability">**Spotlight** <span class="action-icon">4</span> (emotion, enchantment, light, occult) **Frequency** once per round; **Effect** The theater phantasm draws attention to a creature it admires. The phantasm designates a target other than itself within 50 feet with a subtle spotlight, giving the target a +2 status bonus to [[DATABASE/skill/Performance|Performance]] checks and resistance 10 to mental damage for 1 minute. If it uses this ability again on a new target, the former creature loses its spotlight.</span>
 
 ###  Competing Phantasms
 

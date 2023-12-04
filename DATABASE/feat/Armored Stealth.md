@@ -11,6 +11,7 @@ name: Armored Stealth
 prerequisite: Expert in [[DATABASE/skill/Stealth|Stealth]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: stealth
@@ -24,11 +25,11 @@ type: Feat
 # Armored Stealth <span class="item-type">Feat 2</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** expert in [[Stealth]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** expert in [[DATABASE/skill/Stealth|Stealth]]
 
 ---
-You have learned techniques to adjust and modify your armor and movements to reduce the noise you make. When you wear non-noisy armor with which you are trained, your penalty to [[Stealth]] checks is reduced by 1 (to a minimum penalty of 0). If you're a master in Stealth, reduce the penalty by 2, and if you're legendary, reduce the penalty by 3. If your armor has the noisy trait, instead of reducing the penalty to Stealth checks, you ignore the effects of the noisy trait, enabling you to remove the penalty with a sufficient Strength score as normal.
+You have learned techniques to adjust and modify your armor and movements to reduce the noise you make. When you wear non-noisy armor with which you are trained, your penalty to [[DATABASE/skill/Stealth|Stealth]] checks is reduced by 1 (to a minimum penalty of 0). If you're a master in Stealth, reduce the penalty by 2, and if you're legendary, reduce the penalty by 3. If your armor has the noisy trait, instead of reducing the penalty to Stealth checks, you ignore the effects of the noisy trait, enabling you to remove the penalty with a sufficient Strength score as normal.
 
 ## Traits
 

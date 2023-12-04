@@ -76,24 +76,24 @@ wisdom: '+4'
 # Spawn Of Taon
 
 This creature did not include a description.
-**Recall Knowledge - Undead ([[Religion]])**: DC 33
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 33
 **Unspecific Lore**: DC 31
 **Specific Lore**: DC 28
 
 # Spawn Of Taon<span class="item-type">Creature 11</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Undead</span>
-**Source** [[Pathfinder 173. Doorway to the Red Star]]
-Variant [[Mohrg]]
-**Perception** +21; [[Darkvision]]
-**Languages** [[Common]], [[Necril]]
-**Skills** [[Acrobatics]] +20, [[Athletics]] +24, [[Intimidation]] +22, [[Society]] +19, [[Stealth]] +22
+**Source** [[DATABASE/source/Pathfinder 173. Doorway to the Red Star|Pathfinder #173: Doorway to the Red Star]]
+Variant [[DATABASE/monster/Mohrg|mohrg spawn]]
+**Perception** +21; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Necril|Necril]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +20, [[DATABASE/skill/Athletics|Athletics]] +24, [[DATABASE/skill/Intimidation|Intimidation]] +22, [[DATABASE/skill/Society|Society]] +19, [[DATABASE/skill/Stealth|Stealth]] +22
 **Str** +7, **Dex** +5, **Con** +5, **Int** +1, **Wis** +4, **Cha** +5
 
 ---
 **AC** 30; **Fort** +22, **Ref** +22, **Will** +19
-**HP** 175 ([[Negative Healing]]); **Immunities** death effects, disease, [[Paralyzed]], poison, [[Unconscious]]; **Resistances** piercing 12, slashing 6
+**HP** 175 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects, disease, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Unconscious|unconscious]]; **Resistances** piercing 12, slashing 6
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +24 [+19/+14], **Damage** 2d12+13 slashing plus [[Grab]]</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> tongue +24 [+20/+16] (agile), **Effect** paralysis</span><span class="in-box-ability">**Paralysis** (occult, incapacitation, necromancy) A living creature hit by a mohrg's tongue Strike must succeed at a DC 30 Fortitude save or become [[Paralyzed]]. The creature can attempt a new save at the end of each of its turns. The DC cumulatively decreases by 1 on each attempt.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +24 [+19/+14], **Damage** 2d12+13 slashing plus [[DATABASE/monsterability/Grab|Grab]]</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> tongue +24 [+20/+16] (agile), **Effect** paralysis</span><span class="in-box-ability">**Paralysis** (occult, incapacitation, necromancy) A living creature hit by a mohrg's tongue Strike must succeed at a DC 30 Fortitude save or become [[DATABASE/condition/Paralyzed|paralyzed]]. The creature can attempt a new save at the end of each of its turns. The DC cumulatively decreases by 1 on each attempt.</span>

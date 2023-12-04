@@ -16,6 +16,7 @@ price: 2,100 gp
 rarity: Rare
 reflex: null
 resistance: null
+rus_type_level: null
 school: null
 size: Huge
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
@@ -28,16 +29,16 @@ type: Vehicle
 # Clockwork Borer<span class="item-type">Vehicle 9</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-size item-trait">Huge</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 2,100 gp
 
 ---
-A clockwork borer is essentially a huge [[Adamantine]] drill attached to a large wheeled carriage. The clockwork gears within move the borer itself and spin the drill, allowing it to burrow through loose material quickly and even through solid stone at a slower rate.
+A clockwork borer is essentially a huge [[DATABASE/equipment/Adamantine|adamantine]] drill attached to a large wheeled carriage. The clockwork gears within move the borer itself and spin the drill, allowing it to burrow through loose material quickly and even through solid stone at a slower rate.
 
 ---
 **Space** 20 feet long, 8 feet wide, 8 feet high
 **Crew** 1 pilot; **Passengers** 5
-**Piloting Check** [[Lore]] (DC 26) or [[Crafting]] (DC 28)
+**Piloting Check** [[DATABASE/skill/Lore|Driving Lore]] (DC 26) or [[DATABASE/skill/Crafting|Crafting]] (DC 28)
 
 ---
 **AC** 24; **Fort** +18

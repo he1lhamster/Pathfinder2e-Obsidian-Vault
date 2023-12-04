@@ -160,28 +160,28 @@ The First World is a primal cauldron of spontaneous creation and experimental ev
  **Campaign Role**
  Kaneepo has been a source of problems since time immemorial. Not only did they arrange for Bolan's theft of the Shadewither Key, but they devised the original obnubilate curse that has long defned Sevenarches.
  Though Kaneepo doesn't share Bolan's desire to annihilate humanoid society, they're happy to play along to secure the druid's help. Kaneepo needs Bolan's aid to complete the ritual to resurrect the obnubilate curse. Their strongest desire is to create more of their kind and begin a dynasty. In the course of this adventure, the characters impress Kaneepo suffciently that they select one of them for this “honor.” During the party's fnal confrontation with Kaneepo, the fey attempts to capture them, talking loudly about how much the chosen character will enjoy “becoming slim” and ruling the Thinlands by their side.
-**Recall Knowledge - Fey ([[Nature]])**: DC 29
+**Recall Knowledge - Fey ([[DATABASE/skill/Nature|Nature]])**: DC 29
 **Unspecific Lore**: DC 27
 **Specific Lore**: DC 24
 
 # Kaneepo The Slim<span class="item-type">Creature 4</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Fey</span>
-**Source** [[Pathfinder 187. The Seventh Arch]]
+**Source** [[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh Arch]]
 **Perception** +14
-**Languages** [[Common]], [[Sylvan]]; [[Telepathy]] 100 feet
-**Skills** [[Arcana]] +10, [[Lore]] +10, [[Intimidation]] +12, [[Occultism]] +12, [[Stealth]] +12, [[Survival]] +8
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Sylvan|Sylvan]]; [[DATABASE/monsterability/Telepathy|telepathy]] 100 feet
+**Skills** [[DATABASE/skill/Arcana|Arcana]] +10, [[DATABASE/skill/Lore|First World Lore]] +10, [[DATABASE/skill/Intimidation|Intimidation]] +12, [[DATABASE/skill/Occultism|Occultism]] +12, [[DATABASE/skill/Stealth|Stealth]] +12, [[DATABASE/skill/Survival|Survival]] +8
 **Str** +3, **Dex** +5, **Con** +2, **Int** +2, **Wis** +3, **Cha** +4
-**Items** [[Shadewither Key]]
+**Items** [[DATABASE/equipment/Shadewither Key|shadewither key]]
 
 ---
 **AC** 20; **Fort** +9, **Ref** +14, **Will** +14
-**HP** 80; **Immunities** fear; **Weaknesses** [[Cold Iron Weapon]] 5
+**HP** 80; **Immunities** fear; **Weaknesses** [[DATABASE/equipment/Cold Iron Weapon|cold iron]] 5
 <span class="in-box-ability">**Phasic Defenses** <span class="action-icon">5</span> **Requirements** Kaneepo hasn't Slimstepped since the beginning of their last turn **Trigger** Kaneepo would take damage from an attack; **Effect** Kaneepo Slimsteps, taking no damage if their new square would move them out of the range or area of the attack.</span>
 
 ---
 **Speed** 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +14 [+9/+4], **Damage** 1d6+1 slashing plus shadowfeed</span>**Primal Innate Spells** DC 21; **3rd** _[[Mind Reading]]_, _[[Paralyze]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +14 [+9/+4], **Damage** 1d6+1 slashing plus shadowfeed</span>**Primal Innate Spells** DC 21; **3rd** _[[DATABASE/spell/Mind Reading|mind reading]]_, _[[DATABASE/spell/Paralyze|paralyze]]_
 <span class="in-box-ability">**Create Breach** Once per day, Kaneepo can tear open the fabric between planes, creating a portal between the Thinlands and a point anywhere in Sevenarches. This portal lasts for up to 1 hour, but Kaneepo can close it at will.</span><span class="in-box-ability">**Shadowfeed** (fear, emotion, mental) Whenever Kaneepo hits a creature with an attack, Kaneepo's flayed strips of flesh wrap around the target's shadow, causing the victim's body to wither. The struck creature must attempt a DC 21 Fortitude saving throw.
  **Success** The creature is unafected.
  **Failure** The creature takes 3d6 mental damage and is frightened 1.

@@ -2,6 +2,7 @@
 id: '95'
 name: Strength of Thousands Player's Guide
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -16,4 +17,4 @@ type: Source
 
 ## Backgrounds [5]
 
-[[Sponsored by a Stranger]], [[Sponsored by a Village]], [[Sponsored by Family]], [[Sponsored by Teacher Ot]], [[Unsponsored]]
+[[DATABASE/background/Sponsored by a Stranger|Sponsored by a Stranger]], [[DATABASE/background/Sponsored by a Village|Sponsored by a Village]], [[DATABASE/background/Sponsored by Family|Sponsored by Family]], [[DATABASE/background/Sponsored by Teacher Ot|Sponsored by Teacher Ot]], [[DATABASE/background/Unsponsored|Unsponsored]]

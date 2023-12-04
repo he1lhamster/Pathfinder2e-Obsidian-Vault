@@ -11,6 +11,7 @@ name: Counter Element
 prerequisite: exactly one kinetic element
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -25,7 +26,7 @@ type: Feat
 # Counter Element <span class="action-icon">5</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Prerequisites** exactly one kinetic element
 **Trigger** You're targeted by or in the area of an effect that has the trait matching your kinetic element and originates from an enemy or hazard.
 

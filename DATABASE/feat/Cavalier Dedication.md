@@ -11,6 +11,7 @@ name: Cavalier Dedication
 prerequisite: Trained in [[DATABASE/skill/Nature|Nature]] or Trained in [[DATABASE/skill/Society|Society]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Cavalier Dedication <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Dedication</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Cavalier]]
-**Prerequisites** trained in [[Nature]] or [[Society]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Cavalier|Cavalier]]
+**Prerequisites** trained in [[DATABASE/skill/Nature|Nature]] or [[DATABASE/skill/Society|Society]]
 
 ---
 You gain a young animal companion that serves as your mount. You can choose from animal companions with the mount special ability, as well as any additional options from your pledge, as determined by your GM. You must choose an animal companion that's at least one size larger than you, but if the animal usually starts as Small, you can begin with a Medium version of that animal (changing no statistics other than its size).
@@ -34,7 +35,7 @@ You gain a young animal companion that serves as your mount. You can choose from
 
 ## Cavalier Dedication Leads To...
 
-[[Cavalier's Banner]], [[Cavalier's Charge]], [[Defend Mount]], [[Impressive Mount]], [[Legendary Rider]], [[Mounted Shield]], [[Quick Mount]], [[Trampling Charge]], [[Unseat]]
+[[DATABASE/feat/Cavalier's Banner|Cavalier's Banner]], [[DATABASE/feat/Cavalier's Charge|Cavalier's Charge]], [[DATABASE/feat/Defend Mount|Defend Mount]], [[DATABASE/feat/Impressive Mount|Impressive Mount]], [[DATABASE/feat/Legendary Rider|Legendary Rider]], [[DATABASE/feat/Mounted Shield|Mounted Shield]], [[DATABASE/feat/Quick Mount|Quick Mount]], [[DATABASE/feat/Trampling Charge|Trampling Charge]], [[DATABASE/feat/Unseat|Unseat]]
 
 ## Traits
 

@@ -11,6 +11,7 @@ name: Fey Disguise
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Fey Disguise <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Sprite</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-You can disguise yourself with magical illusions. You can cast [[Illusory Disguise]] once per day as a 1st-level primal innate spell. At 7th level, the spell is heightened to 2nd level, and every 2 levels thereafter, the spell is heightened an additional spell level.
+You can disguise yourself with magical illusions. You can cast [[DATABASE/spell/Illusory Disguise|illusory disguise]] once per day as a 1st-level primal innate spell. At 7th level, the spell is heightened to 2nd level, and every 2 levels thereafter, the spell is heightened an additional spell level.
 
 ## Traits
 

@@ -10,6 +10,7 @@ level: '0'
 name: Gauntlet Buckler
 price: 5 gp
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 speed_penalty: null
 trait:
@@ -20,9 +21,9 @@ type: Shield
 # Gauntlet Buckler
 
 <span class="item-trait">Foldaway</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 5 gp; **AC Bonus** +1; **Speed Penalty** —
 **Bulk** 1; **Hardness** 3; **HP (BT)** 6 (3)
 
 ---
-This [[Buckler]]-sized shield is segmented, allowing it to collapse into a housing bound to a [[Gauntlet]] for easy storage. A small catch enables you to expand the shield quickly in battle when you're in need of defense.
+This [[DATABASE/shield/Buckler|buckler]]-sized shield is segmented, allowing it to collapse into a housing bound to a [[DATABASE/weapon/Gauntlet|gauntlet]] for easy storage. A small catch enables you to expand the shield quickly in battle when you're in need of defense.

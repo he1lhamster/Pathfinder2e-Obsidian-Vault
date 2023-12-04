@@ -2,6 +2,7 @@
 id: '30'
 name: Friends in High Places
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -15,4 +16,4 @@ type: Source
 
 ## Deities [3]
 
-[[Pillars of Knowledge]], [[The Prismatic Ray]], [[Wards of the Pharaoh]]
+[[DATABASE/deity/Pillars of Knowledge|Pillars of Knowledge]], [[DATABASE/deity/The Prismatic Ray|The Prismatic Ray]], [[DATABASE/deity/Wards of the Pharaoh|Wards of the Pharaoh]]

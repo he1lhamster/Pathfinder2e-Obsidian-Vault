@@ -22,6 +22,7 @@ follower_alignment:
 id: '81'
 name: Sifkesh
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Deception|Deception]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -31,7 +32,7 @@ type: Deity
 ---
 # Sifkesh (The Whispered Doubt) [CE]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Category** Demon Lords
 **Edicts** Spread doubt among the faithful, ruin the reputation of religions, provoke wrongdoers to suicide instead of allowing for redemption
 **Anathema** Spread hope, offer forgiveness, sincerely honor or call upon another god
@@ -39,9 +40,9 @@ type: Deity
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Wisdom or Charisma
-**Divine Font** _[[Harm]]_
-**Divine Skill** [[Deception]]
-**Favored Weapon** [[War Razor]]
-**Domains** [[Nightmares Domain]], [[Pain Domain]], [[Sorrow Domain]], [[Trickery Domain]]
-**Cleric Spells** 1st: _[[Ill Omen]]_, 4th: _[[Crushing Despair]]_, 5th: _[[Subconscious Suggestion]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Wisdom or Charisma
+**Divine Font** _[[DATABASE/spell/Harm|harm]]_
+**Divine Skill** [[DATABASE/skill/Deception|Deception]]
+**Favored Weapon** [[DATABASE/weapon/War Razor|war razor]]
+**Domains** [[DATABASE/domain/Nightmares Domain|nightmares]], [[DATABASE/domain/Pain Domain|pain]], [[DATABASE/domain/Sorrow Domain|sorrow]], [[DATABASE/domain/Trickery Domain|trickery]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Ill Omen|ill omen]]_, 4th: _[[DATABASE/spell/Crushing Despair|crushing despair]]_, 5th: _[[DATABASE/spell/Subconscious Suggestion|subconscious suggestion]]_

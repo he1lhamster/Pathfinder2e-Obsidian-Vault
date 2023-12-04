@@ -11,6 +11,7 @@ name: Expanded Domain Initiate
 prerequisite: '[[DATABASE/feat/Domain Initiate|Domain Initiate]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Expanded Domain Initiate <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Cleric</span>
-**Source** [[Gods & Magic]] 
-**Archetype** [[Soul Warden]]*
-**Prerequisites** [[Domain Initiate]]
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
+**Archetype** [[DATABASE/archetype/Soul Warden|Soul Warden]]*
+**Prerequisites** [[DATABASE/feat/Domain Initiate|Domain Initiate]]
 * This archetype offers Expanded Domain Initiate at a different level than displayed here.
 
 ---

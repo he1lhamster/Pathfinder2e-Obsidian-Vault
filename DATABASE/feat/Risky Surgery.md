@@ -11,6 +11,7 @@ name: Risky Surgery
 prerequisite: Trained in [[DATABASE/skill/Medicine|Medicine]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: medicine
@@ -24,11 +25,11 @@ type: Feat
 # Risky Surgery <span class="item-type">Feat 1</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** trained in [[Medicine]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** trained in [[DATABASE/skill/Medicine|Medicine]]
 
 ---
-Your surgery can bring a patient back from the brink of death, but might push them over the edge. When you [[Treat Wounds]], you can deal 1d8 slashing damage to your patient just before applying the effects of Treat Wounds. If you do, you gain a +2 circumstance bonus to your [[Medicine]] check to Treat Wounds, and if you roll a success, you get a critical success instead.
+Your surgery can bring a patient back from the brink of death, but might push them over the edge. When you [[DATABASE/action/Treat Wounds|Treat Wounds]], you can deal 1d8 slashing damage to your patient just before applying the effects of Treat Wounds. If you do, you gain a +2 circumstance bonus to your [[DATABASE/skill/Medicine|Medicine]] check to Treat Wounds, and if you roll a success, you get a critical success instead.
 
 ## Traits
 

@@ -11,6 +11,7 @@ name: Adamantine Fists
 prerequisite: '[[DATABASE/feat/Ore Fists|Ore Fists]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 195. Heavy is the Crown|Pathfinder #195: Heavy
   is the Crown]]'
@@ -24,12 +25,12 @@ type: Feat
 # Adamantine Fists <span class="item-type">Feat 16</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Pathfinder 195. Heavy is the Crown]]
-**Archetype** [[Stone Brawler]]
-**Prerequisites** [[Ore Fists]]
+**Source** [[DATABASE/source/Pathfinder 195. Heavy is the Crown|Pathfinder #195: Heavy is the Crown]]
+**Archetype** [[DATABASE/archetype/Stone Brawler|Stone Brawler]]
+**Prerequisites** [[DATABASE/feat/Ore Fists|Ore Fists]]
 
 ---
-You imbue your unarmed strikes with one of the strongest metals. Your stonestrike attacks are treated as [[Adamantine Weapon]].
+You imbue your unarmed strikes with one of the strongest metals. Your stonestrike attacks are treated as [[DATABASE/equipment/Adamantine Weapon|adamantine]].
 
 ## Traits
 

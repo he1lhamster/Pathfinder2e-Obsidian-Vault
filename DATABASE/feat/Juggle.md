@@ -11,6 +11,7 @@ name: Juggle
 prerequisite: Dexterity 16; Trained in [[DATABASE/skill/Performance|Performance]]
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: The
   Show Must Go On]]'
@@ -28,8 +29,8 @@ type: Feat
 # Juggle <span class="action-icon">1</span> <span class="item-type">Feat 2</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Concentrate</span><span class="item-trait">General</span><span class="item-trait">Manipulate</span><span class="item-trait">Skill</span>
-**Source** [[Pathfinder 151. The Show Must Go On]]
-**Prerequisites** Dexterity 16; trained in [[Performance]]
+**Source** [[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: The Show Must Go On]]
+**Prerequisites** Dexterity 16; trained in [[DATABASE/skill/Performance|Performance]]
 
 ---
 You can Juggle items and still use your hands between tosses. You can use the Juggle action in several ways.
@@ -57,4 +58,4 @@ A general feat with the skill trait improves your skills and their actions or gi
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.

@@ -12,6 +12,7 @@ name: Knuckle Duster
 price: 3 sp
 range: null
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
 - '[[DATABASE/trait/Agile|Agile]]'
@@ -26,10 +27,10 @@ weapon_type: Melee
 # Knuckle Duster
 
 <span class="item-trait">Agile</span><span class="item-trait">Free-Hand</span><span class="item-trait">Monk</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 3 sp; **Damage** 1d4 B; **Bulk** L
 **Hands** 1
-**Type** Melee; **Category** Simple; **Group** [[Brawling]]
+**Type** Melee; **Category** Simple; **Group** [[DATABASE/weapongroup/Brawling|Brawling]]
 
 ---
 This bit of hardened metal, favored by street toughs, is typically made of brass and features four finger holes so that it can sit atop the knuckles, adding extra power to a punch.
@@ -42,14 +43,14 @@ The multiple attack penalty you take with this weapon on the second attack on yo
 
 **Free-Hand:**
 
-This weapon doesn't take up your hand, usually because it is built into your armor. A free-hand weapon can't be [[Disarm]]. You can use the hand covered by your free-hand weapon to wield other items, perform manipulate actions, and so on. You can't attack with a free-hand weapon if you're wielding anything in that hand or otherwise using that hand. When you're not wielding anything and not otherwise using the hand, you can use abilities that require you to have a hand free as well as those that require you to be wielding a weapon in that hand. Each of your hands can have only one free-hand weapon on it.
+This weapon doesn't take up your hand, usually because it is built into your armor. A free-hand weapon can't be [[DATABASE/action/Disarm|Disarmed]]. You can use the hand covered by your free-hand weapon to wield other items, perform manipulate actions, and so on. You can't attack with a free-hand weapon if you're wielding anything in that hand or otherwise using that hand. When you're not wielding anything and not otherwise using the hand, you can use abilities that require you to have a hand free as well as those that require you to be wielding a weapon in that hand. Each of your hands can have only one free-hand weapon on it.
 
 **Monk:**
 
-Abilities with this trait are from the [[Monk]] class. A weapon with this trait is primarily used by monks.
+Abilities with this trait are from the [[DATABASE/class_/Monk|monk]] class. A weapon with this trait is primarily used by monks.
 
 ## Critical Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
-**Brawling**: The target must succeed at a Fortitude save against your class DC or be [[Slowed]] until the end of your next turn.
+**Brawling**: The target must succeed at a Fortitude save against your class DC or be [[DATABASE/condition/Slowed|slowed 1]] until the end of your next turn.

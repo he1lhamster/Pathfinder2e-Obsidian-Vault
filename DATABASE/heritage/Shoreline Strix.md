@@ -2,6 +2,7 @@
 id: '149'
 name: Shoreline Strix
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 trait: null
 type: Heritage
@@ -9,5 +10,5 @@ type: Heritage
 ---
 # Shoreline Strix
 
-**Source** [[Ancestry Guide]] 
-You're the descendant of strix who traveled to the coasts. Your feathers are especially water-repellent and sleekly angled for diving, allowing you to catch fish and other prey in the shallows. You are trained in [[Athletics]], and you gain the [[Underwater Marauder]] skill feat as a bonus skill feat.
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
+You're the descendant of strix who traveled to the coasts. Your feathers are especially water-repellent and sleekly angled for diving, allowing you to catch fish and other prey in the shallows. You are trained in [[DATABASE/skill/Athletics|Athletics]], and you gain the [[DATABASE/feat/Underwater Marauder|Underwater Marauder]] skill feat as a bonus skill feat.

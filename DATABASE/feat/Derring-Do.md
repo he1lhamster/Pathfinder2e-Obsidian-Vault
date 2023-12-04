@@ -11,6 +11,7 @@ name: Derring-Do
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,10 +25,10 @@ type: Feat
 # Derring-Do <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Fortune</span><span class="item-trait">Swashbuckler</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
-When you compound panache with even more derring-do, it somehow tends to work out. When you already have panache, you can roll twice and use the higher result on checks to which the circumstance bonus for having panache applies ([[Tumble Through]] and any skill actions listed in your swashbuckler's style).
+When you compound panache with even more derring-do, it somehow tends to work out. When you already have panache, you can roll twice and use the higher result on checks to which the circumstance bonus for having panache applies ([[DATABASE/action/Tumble Through|Tumble Through]] and any skill actions listed in your swashbuckler's style).
 
 ## Traits
 

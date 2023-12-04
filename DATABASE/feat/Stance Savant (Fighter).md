@@ -11,6 +11,7 @@ name: Stance Savant (Fighter)
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Stance Savant (Fighter) <span class="action-icon">4</span> <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Fighter</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Trigger** You roll initiative.
 
 ---

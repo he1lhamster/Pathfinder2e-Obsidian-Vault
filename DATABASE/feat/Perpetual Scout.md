@@ -11,6 +11,7 @@ name: Perpetual Scout
 prerequisite: '[[DATABASE/feat/Horizon Walker Dedication|Horizon Walker Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,12 +24,12 @@ type: Feat
 # Perpetual Scout <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Horizon Walker]]
-**Prerequisites** [[Horizon Walker Dedication]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Horizon Walker|Horizon Walker]]
+**Prerequisites** [[DATABASE/feat/Horizon Walker Dedication|Horizon Walker Dedication]]
 
 ---
-You spot anything out of place in the areas you know best. While in your favored terrain, you always gain the benefits of the [[Scout]] exploration activity, even if you are performing another exploration activity. If you're legendary in [[Survival]], you gain these benefits in any terrain.
+You spot anything out of place in the areas you know best. While in your favored terrain, you always gain the benefits of the [[DATABASE/action/Scout|Scout]] exploration activity, even if you are performing another exploration activity. If you're legendary in [[DATABASE/skill/Survival|Survival]], you gain these benefits in any terrain.
 
 ## Traits
 

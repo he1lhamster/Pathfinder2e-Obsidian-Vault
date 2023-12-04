@@ -92,26 +92,26 @@ wisdom: '+1'
 # Xulgath Mage
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 23
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 23
 **Unspecific Lore**: DC 21
 **Specific Lore**: DC 18
 
 # Xulgath Mage<span class="item-type">Creature 7</span>
 
 <span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Humanoid</span><span class="item-trait">Xulgath</span>
-**Source** [[Pathfinder 152. Legacy of the Lost God]]
-**Perception** +12; [[Darkvision]]
-**Languages** [[Common]], [[Draconic]], [[Undercommon]]
-**Skills** [[Acrobatics]] +15, [[Arcana]] +12, [[Athletics]] +13, [[Deception]] +15, [[Intimidation]] +17, [[Society]] +9, [[Survival]] +12
+**Source** [[DATABASE/source/Pathfinder 152. Legacy of the Lost God|Pathfinder #152: Legacy of the Lost God]]
+**Perception** +12; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Undercommon|Undercommon]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +15, [[DATABASE/skill/Arcana|Arcana]] +12, [[DATABASE/skill/Athletics|Athletics]] +13, [[DATABASE/skill/Deception|Deception]] +15, [[DATABASE/skill/Intimidation|Intimidation]] +17, [[DATABASE/skill/Society|Society]] +9, [[DATABASE/skill/Survival|Survival]] +12
 **Str** +1, **Dex** +2, **Con** +1, **Int** +0, **Wis** +1, **Cha** +5
-**Items** _+1 [[Light Mace]]_
+**Items** _+1 [[DATABASE/weapon/Light Mace|light mace]]_
 
 ---
 **AC** 23; **Fort** +12, **Ref** +13, **Will** +14
 **HP** 115
-<span class="in-box-ability">**Stench** (aura, olfactory) 30 feet. A creature entering the aura must attempt a DC 25 Fortitude save. On a failure, the creature is [[Sickened]], and on a critical failure, the creature also takes a –5-foot status penalty to its Speeds for 1 round. While within the aura, the creature takes a –2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all [[Xulgath]] stench for 1 minute.</span><span class="in-box-ability">**Counterspell** <span class="action-icon">5</span> **Trigger** A creature Casts a Spell the xulgath mage has in her repertoire **Effect** The xulgath mage expends one of her spell slots to counter the triggering creature's casting of the spell in her repertoire. The xulgath mage loses the spell slot as if she had cast the triggering spell and attempts to counteract the triggering spell.</span>
+<span class="in-box-ability">**Stench** (aura, olfactory) 30 feet. A creature entering the aura must attempt a DC 25 Fortitude save. On a failure, the creature is [[DATABASE/condition/Sickened|sickened 1]], and on a critical failure, the creature also takes a –5-foot status penalty to its Speeds for 1 round. While within the aura, the creature takes a –2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all [[DATABASE/monsterfamily/Xulgath|xulgath's]] stench for 1 minute.</span><span class="in-box-ability">**Counterspell** <span class="action-icon">5</span> **Trigger** A creature Casts a Spell the xulgath mage has in her repertoire **Effect** The xulgath mage expends one of her spell slots to counter the triggering creature's casting of the spell in her repertoire. The xulgath mage loses the spell slot as if she had cast the triggering spell and attempts to counteract the triggering spell.</span>
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _light mace_ +15 [+11/+7] (agile, magical, shove), **Damage** 1d4+4 bludgeoning</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +14 [+9/+4], **Damage** 1d8+2 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +14 [+10/+6] (agile), **Damage** 2d6+2 slashing</span>**Arcane Spontaneous Spells** DC 26, spell attack +18; **4th** _[[Acid Arrow]]_, _[[Dimension Door]]_, _[[Lightning Bolt]]_ (3 slots); **3rd** _[[Fireball]]_, _[[Haste]]_, _[[Magic Missile]]_ (4 slots); **2nd** _[[Create Food]]_, _[[Dispel Magic]]_, _[[Flaming Sphere]]_, _[[See Invisibility]]_ (4 slots); **1st** _[[Burning Hands]]_, _[[Fear]]_, _[[Magic Missile]]_, _[[Ray of Enfeeblement]]_ (4 slots); **Cantrips** **(4th)** _[[Acid Splash]]_, _[[Detect Magic]]_, _[[Mage Hand]]_, _[[Read Aura]]_, _[[Shield]]_
-**Bloodline Spells 3 Focus Points,** DC 26; **4th** _[[Ancestral Memories]]_, _[[Extend Spell]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _light mace_ +15 [+11/+7] (agile, magical, shove), **Damage** 1d4+4 bludgeoning</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +14 [+9/+4], **Damage** 1d8+2 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +14 [+10/+6] (agile), **Damage** 2d6+2 slashing</span>**Arcane Spontaneous Spells** DC 26, spell attack +18; **4th** _[[DATABASE/spell/Acid Arrow|acid arrow]]_, _[[DATABASE/spell/Dimension Door|dimension door]]_, _[[DATABASE/spell/Lightning Bolt|lightning bolt]]_ (3 slots); **3rd** _[[DATABASE/spell/Fireball|fireball]]_, _[[DATABASE/spell/Haste|haste]]_, _[[DATABASE/spell/Magic Missile|magic missile]]_ (4 slots); **2nd** _[[DATABASE/spell/Create Food|create food]]_, _[[DATABASE/spell/Dispel Magic|dispel magic]]_, _[[DATABASE/spell/Flaming Sphere|flaming sphere]]_, _[[DATABASE/spell/See Invisibility|see invisibility]]_ (4 slots); **1st** _[[DATABASE/spell/Burning Hands|burning hands]]_, _[[DATABASE/spell/Fear|fear]]_, _[[DATABASE/spell/Magic Missile|magic missile]]_, _[[DATABASE/spell/Ray of Enfeeblement|ray of enfeeblement]]_ (4 slots); **Cantrips** **(4th)** _[[DATABASE/spell/Acid Splash|acid splash]]_, _[[DATABASE/spell/Detect Magic|detect magic]]_, _[[DATABASE/spell/Mage Hand|mage hand]]_, _[[DATABASE/spell/Read Aura|read aura]]_, _[[DATABASE/spell/Shield|shield]]_
+**Bloodline Spells 3 Focus Points,** DC 26; **4th** _[[DATABASE/spell/Ancestral Memories|ancestral memories]]_, _[[DATABASE/spell/Extend Spell|extend spell]]_

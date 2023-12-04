@@ -17,6 +17,7 @@ name: Keystone Trap
 rarity: Unique
 reflex: '+12'
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 182. Graveclaw|Pathfinder #182: Graveclaw]]'
 trait:
@@ -32,13 +33,13 @@ will: null
 # Keystone Trap<span class="item-type">Hazard 7</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="item-trait">Complex</span><span class="item-trait">Mechanical</span><span class="item-trait">Trap</span>
-**Source** [[Pathfinder 182. Graveclaw]]
+**Source** [[DATABASE/source/Pathfinder 182. Graveclaw|Pathfinder #182: Graveclaw]]
 **Complexity** Complex
 **Stealth** +17 (expert)
 **Description** A 5-foot-square metal vault covered with knobs lies concealed within a stone block. A lever on the stone block slides the vault into view. When the vault is exposed—whether it's slid out or whether the stone is smashed open—the trap activates.
 
 ---
-**Disable** DC 24 [[Thievery]] (trained) to find and press hidden knobs in a specific order (three successes are required to disable the trap, which also opens it); DC 24 [[Crafting]] (expert) to sabotage the vault's mechanisms, reducing its actions by 1 (when the trap's actions are reduced to 0, it is disabled)
+**Disable** DC 24 [[DATABASE/skill/Thievery|Thievery]] (trained) to find and press hidden knobs in a specific order (three successes are required to disable the trap, which also opens it); DC 24 [[DATABASE/skill/Crafting|Crafting]] (expert) to sabotage the vault's mechanisms, reducing its actions by 1 (when the trap's actions are reduced to 0, it is disabled)
 **AC** 25, **Fort** +18, **Ref** +12
 **Keystone Hardness** 12, **Keystone HP** 60 (BT 30); **Vault Hardness** 10; **Vault HP** 50 (BT 25); **Immunities** critical hits, object immunities, precision damage
 **Exposed Vault** <span class="action-icon">5</span> **Trigger** The vault is exposed; **Effect** The vault makes a poison dart spray Strike at a random creature within 30 feet. The trap then rolls initiative.

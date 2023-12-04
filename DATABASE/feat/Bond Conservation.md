@@ -11,6 +11,7 @@ name: Bond Conservation
 prerequisite: '[[DATABASE/class_/Wizard|arcane bond]]'
 rarity: Common
 requirement: The last action you used was Drain Bonded Item.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -25,8 +26,8 @@ type: Feat
 # Bond Conservation <span class="action-icon">1</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Manipulate</span><span class="item-trait">Metamagic</span><span class="item-trait">Wizard</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Wizard]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/class_/Wizard|arcane bond]]
 **Requirements** The last action you used was Drain Bonded Item.
 
 ---

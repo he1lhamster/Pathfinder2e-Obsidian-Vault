@@ -7,6 +7,7 @@ id: '474'
 name: Dueling Counter
 rarity: Common
 requirement: You are in a duel and have a tradition focus.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
@@ -18,7 +19,7 @@ type: Action
 # Dueling Counter <span class="action-icon">5</span>
 
 <span class="item-trait">Magical</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Trigger** Your opponent Casts a Spell from the same tradition as your tradition focus.
 **Requirements** You are in a duel and have a tradition focus.
 

@@ -12,6 +12,7 @@ prerequisite: Expert in [[DATABASE/skill/Occultism|Occultism]] ; Expert in [[DAT
 rarity: Uncommon
 requirement: You must be in either natural terrain or in abandoned or relatively unused
   artificial terrain (suchas a darkened alley or haunted house).
+rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -33,9 +34,9 @@ type: Feat
 # Eerie Proclamation <span class="action-icon">2</span> <span class="item-type">Feat 10</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Auditory</span><span class="item-trait">Concentrate</span><span class="item-trait">Curse</span><span class="item-trait">Druid</span><span class="item-trait">Linguistic</span><span class="item-trait">Manipulate</span><span class="item-trait">Necromancy</span><span class="item-trait">Primal</span><span class="item-trait">Ranger</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Frequency** once per hour
-**Prerequisites** expert in [[Occultism]] and [[Survival]]
+**Prerequisites** expert in [[DATABASE/skill/Occultism|Occultism]] and [[DATABASE/skill/Survival|Survival]]
 **Requirements** You must be in either natural terrain or in abandoned or relatively unused artificial terrain (such as a darkened alley or haunted house).
 
 ---
@@ -46,18 +47,19 @@ You know there are places in the world that are just wrong— places where the b
 
 ## 
 
-|   d4 | Failure                                      | Critical Failure                                                 |
-|-----:|:---------------------------------------------|:-----------------------------------------------------------------|
-|    1 | [[Clumsy]]       | Clumsy 3                                                         |
-|    2 | [[Enfeebled]] | Enfeebled 3                                                      |
-|    3 | [[Stupefied]] | Stupefied 3                                                      |
-|    4 | [[Dazzled]]       | [[Blinded]] for 1 round, then dazzled |
+| 0 | 1 | 2 |
+|:----|:---------------------------------------------|:-----------------------------------------------------------------|
+| d4 | Failure | Critical Failure |
+| 1 | [[Clumsy]] | Clumsy 3 |
+| 2 | [[Enfeebled]] | Enfeebled 3 |
+| 3 | [[Stupefied]] | Stupefied 3 |
+| 4 | [[Dazzled]] | [[Blinded]] for 1 round, then dazzled |
 
 ## Traits
 
 **Auditory:**
 
-Auditory actions and effects rely on sound. An action with the auditory trait can be successfully performed only if the creature using the action can speak or otherwise produce the required sounds. A spell or effect with the auditory trait has its effect only if the target can hear it. This applies only to sound-based parts of the effect, as determined by the GM. This is different from a sonic effect, which still affects targets who can't hear it (such as [[Deafened]] targets) as long as the effect itself makes sound.
+Auditory actions and effects rely on sound. An action with the auditory trait can be successfully performed only if the creature using the action can speak or otherwise produce the required sounds. A spell or effect with the auditory trait has its effect only if the target can hear it. This applies only to sound-based parts of the effect, as determined by the GM. This is different from a sonic effect, which still affects targets who can't hear it (such as [[DATABASE/condition/Deafened|deaf]] targets) as long as the effect itself makes sound.
 
 **Concentrate:**
 
@@ -86,4 +88,4 @@ This magic comes from the primal tradition, connecting to the natural world and 
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.

@@ -2,6 +2,7 @@
 id: '19'
 name: Gods & Magic - Web Supplement
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -15,4 +16,4 @@ type: Source
 
 ## Deities - Divine Intercessions [20]
 
-[[Achaekek]], [[Alseta]], [[Arazni]], [[Besmara]], [[Brigh]], [[Casandalee]], [[Chaldira]], [[Ghlaunder]], [[Grandmother Spider]], [[Groetus]], [[Gruhastha]], [[Hei Feng]], [[Kazutal]], [[Kurgess]], [[Milani]], [[Nivi Rhombodazzle]], [[Nocticula]], [[Shizuru]], [[Sivanah]], [[Tsukiyo]]
+[[DATABASE/deity/Achaekek|Achaekek]], [[DATABASE/deity/Alseta|Alseta]], [[DATABASE/deity/Arazni|Arazni]], [[DATABASE/deity/Besmara|Besmara]], [[DATABASE/deity/Brigh|Brigh]], [[DATABASE/deity/Casandalee|Casandalee]], [[DATABASE/deity/Chaldira|Chaldira]], [[DATABASE/deity/Ghlaunder|Ghlaunder]], [[DATABASE/deity/Grandmother Spider|Grandmother Spider]], [[DATABASE/deity/Groetus|Groetus]], [[DATABASE/deity/Gruhastha|Gruhastha]], [[DATABASE/deity/Hei Feng|Hei Feng]], [[DATABASE/deity/Kazutal|Kazutal]], [[DATABASE/deity/Kurgess|Kurgess]], [[DATABASE/deity/Milani|Milani]], [[DATABASE/deity/Nivi Rhombodazzle|Nivi Rhombodazzle]], [[DATABASE/deity/Nocticula|Nocticula]], [[DATABASE/deity/Shizuru|Shizuru]], [[DATABASE/deity/Sivanah|Sivanah]], [[DATABASE/deity/Tsukiyo|Tsukiyo]]

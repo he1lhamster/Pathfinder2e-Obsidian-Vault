@@ -11,6 +11,7 @@ name: Urgent Upwelling
 prerequisite: '[[DATABASE/feat/Wellspring Mage Dedication|Wellspring Mage Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -24,10 +25,10 @@ type: Feat
 # Urgent Upwelling <span class="action-icon">5</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Secrets of Magic]] 
-**Archetype** [[Wellspring Mage]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
+**Archetype** [[DATABASE/archetype/Wellspring Mage|Wellspring Mage]]
 **Frequency** once per 10 minutes
-**Prerequisites** [[Wellspring Mage Dedication]]
+**Prerequisites** [[DATABASE/feat/Wellspring Mage Dedication|Wellspring Mage Dedication]]
 **Trigger** An enemy reduces you to 0 HP, an enemy critically hits you, or you critically fail a saving throw against an enemy's effect.
 
 ---

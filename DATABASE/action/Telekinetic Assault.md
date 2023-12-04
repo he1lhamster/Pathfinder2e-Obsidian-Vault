@@ -7,6 +7,7 @@ id: '1169'
 name: Telekinetic Assault
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 trait:
@@ -19,7 +20,7 @@ type: Action
 # Telekinetic Assault <span class="action-icon">2</span>
 
 <span class="item-trait">Divine</span><span class="item-trait">Evocation</span>
-**Source** [[Book of the Dead]]
+**Source** [[DATABASE/source/Book of the Dead|Book of the Dead]]
 **Frequency** once per hour
 
 ---

@@ -11,6 +11,7 @@ name: Nonlethal Spell
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,7 +26,7 @@ type: Feat
 # Nonlethal Spell <span class="action-icon">1</span> <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Manipulate</span><span class="item-trait">Metamagic</span><span class="item-trait">Wizard</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
 You can alter offensive spells to be less deadly. If your next action is to Cast a Spell that deals damage and doesn't have the death or negative trait, that spell gains the nonlethal trait.

@@ -24,6 +24,7 @@ follower_alignment:
 id: '92'
 name: Count Ranalc
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Stealth|Stealth]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -33,7 +34,7 @@ type: Deity
 ---
 # Count Ranalc (The Traitor) [CN]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 Once the lord of darkness and of the chaos of creation, Count Ranalc was cast out long ago by the other Eldest and titled “the Traitor,” though the Eldest are not forthcoming about what heinous treachery Ranalc committed, and many among his worshippers claim that he was the one who was betrayed. In his new home in a remote corner of the Shadow Plane, Ranalc embraced his banishment and became the patron of exiles, shadows, betrayal, and the betrayed. Ranalc had long held a fascination with the world of Golarion, and he was alternately both friend and foil to the powerful archwizard Nex. On the day Nex besieged the city of Absalom with shadowy beings—beings certainly drawn from Ranalc’s domain—the Eldest vanished from reality. Although he continues to grant spells to his devout worshippers, Ranalc has otherwise wholly disappeared. Theories about his disappearance abound, although they are as obscure and as self-contradictory as the enigmatic Eldest ever was.
 **Category** Eldest
 **Edicts** Work in shadows, hide your nature and motives, plot betrayals or revenge for betrayals
@@ -43,9 +44,9 @@ Once the lord of darkness and of the chaos of creation, Count Ranalc was cast ou
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Dexterity or Charisma
-**Divine Font** _[[Harm]]_ or _[[Heal]]_
-**Divine Skill** [[Stealth]]
-**Favored Weapon** [[Rapier]]
-**Domains** [[Confidence Domain]], [[Darkness Domain]], [[Sorrow Domain]], [[Travel Domain]]
-**Cleric Spells** 1st: _[[Penumbral Shroud]]_, 4th: _[[Private Sanctum]]_, 5th: _[[Shadow Walk]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Dexterity or Charisma
+**Divine Font** _[[DATABASE/spell/Harm|harm]]_ or _[[DATABASE/spell/Heal|heal]]_
+**Divine Skill** [[DATABASE/skill/Stealth|Stealth]]
+**Favored Weapon** [[DATABASE/weapon/Rapier|rapier]]
+**Domains** [[DATABASE/domain/Confidence Domain|confidence]], [[DATABASE/domain/Darkness Domain|darkness]], [[DATABASE/domain/Sorrow Domain|sorrow]], [[DATABASE/domain/Travel Domain|travel]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Penumbral Shroud|penumbral shroud]]_, 4th: _[[DATABASE/spell/Private Sanctum|private sanctum]]_, 5th: _[[DATABASE/spell/Shadow Walk|shadow walk]]_

@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -50,9 +51,9 @@ weapon_type: null
 ---
 # Basic Face Mask<span class="item-type">Item 0</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 3 sp
 **Usage** worn; **Bulk** —
 
 ---
-This simple cloth mask, sewn to closely fit your face, is fastened by two sets of strings drawn across your face and secured behind your head. While wearing the mask, you gain a +1 item bonus on any initial saves to avoid contracting airborne diseases, such as [[Choking Death]] or [[Tuberculosis]].
+This simple cloth mask, sewn to closely fit your face, is fastened by two sets of strings drawn across your face and secured behind your head. While wearing the mask, you gain a +1 item bonus on any initial saves to avoid contracting airborne diseases, such as [[DATABASE/disease/Choking Death|choking death]] or [[DATABASE/disease/Tuberculosis|tuberculosis]].

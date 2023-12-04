@@ -11,6 +11,7 @@ name: Serpentine Swimmer
 prerequisite: '[[DATABASE/feat/Water Nagaji|Water Nagaji]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Serpentine Swimmer <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Nagaji</span>
-**Source** [[Impossible Lands]]
-**Prerequisites** [[Water Nagaji]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
+**Prerequisites** [[DATABASE/feat/Water Nagaji|Water Nagaji]]
 
 ---
 You undulate your body in a series of sinuous serpentine motions as you swim, drastically improving the speed at which you move through the water. Your swim Speed increases from 10 feet to 25 feet.

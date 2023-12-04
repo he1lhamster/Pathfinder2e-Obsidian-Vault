@@ -11,6 +11,7 @@ name: Call Implement
 prerequisite: null
 rarity: Common
 requirement: You have a free hand.
+rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -27,7 +28,7 @@ type: Feat
 # Call Implement <span class="action-icon">1</span> <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Arcane</span><span class="item-trait">Conjuration</span><span class="item-trait">Manipulate</span><span class="item-trait">Teleportation</span><span class="item-trait">Thaumaturge</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Requirements** You have a free hand.
 
 ---

@@ -11,6 +11,7 @@ name: Guarded Thoughts
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Guarded Thoughts <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Nagaji</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 
 ---
-Your mind, like a [[Dark Naga]], foils attempts to read your thoughts. Any effect that specifically attempts to read your mind to glean information must succeed at a counteract check against the higher of your class DC or your spell DC to do so successfully; otherwise, it gains no information. The counteract level is equal to half your level rounded up.
+Your mind, like a [[DATABASE/monster/Dark Naga|dark naga's]], foils attempts to read your thoughts. Any effect that specifically attempts to read your mind to glean information must succeed at a counteract check against the higher of your class DC or your spell DC to do so successfully; otherwise, it gains no information. The counteract level is equal to half your level rounded up.
 
 ## Traits
 

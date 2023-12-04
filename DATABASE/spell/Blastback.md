@@ -19,6 +19,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: basicReflex
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
@@ -36,7 +37,7 @@ type: Spell
 # Blastback<span class="item-type">Spell 3</span>
 
 <span class="item-trait">Air</span><span class="item-trait">Concentrate</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Traditions** arcane, primal
 **Cast** <span class="action-icon">5</span> ; **Trigger** You fall more than 10 feet.
 **Area** 20-foot emanation

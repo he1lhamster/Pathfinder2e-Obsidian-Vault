@@ -3,6 +3,7 @@ creature_family: Ray
 id: '149'
 name: Ray
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Ray
 
-**Source** [[Bestiary 2]] 
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
 Rays are an unusual type of fish with wide, sail-like fins and long tails, giving them an almost kite-like shape as they swim gracefully through the water. All rays have a rudimentary form of electrolocation, allowing them to detect the faint electrical charges that emanate naturally from nearby living creatures, a sense akin to scent in its accuracy.
 
 ### Members
 
-[[Manta Ray]] (Creature 1), [[Stingray]] (Creature 0)
+[[DATABASE/monster/Manta Ray|Manta Ray]] (Creature 1), [[DATABASE/monster/Stingray|Stingray]] (Creature 0)
 
 ###  Other Rays
 

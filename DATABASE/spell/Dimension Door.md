@@ -23,6 +23,7 @@ patron_theme: null
 range: 120 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -40,10 +41,10 @@ type: Spell
 # Dimension Door<span class="item-type">Spell 4</span>
 
 <span class="item-trait">Conjuration</span><span class="item-trait">Teleportation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult
-**Bloodline** [[Imperial]]
-**Deities** [[Alseta]], [[Eiseth]]
+**Bloodline** [[DATABASE/sorcererbloodline/Imperial|imperial]]
+**Deities** [[DATABASE/deity/Alseta|Alseta]], [[DATABASE/deity/Eiseth|Eiseth]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 120 feet
 

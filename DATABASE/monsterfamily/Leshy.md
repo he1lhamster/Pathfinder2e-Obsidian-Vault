@@ -3,6 +3,7 @@ creature_family: Leshy
 id: '67'
 name: Leshy
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Leshy
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Leshys are intelligent plant creatures that guard areas of primeval wilderness or earthly power. Originally created by powerful fey, they manifest when a skilled practitioner of primal magic—typically a druid—combines a nature spirit with a body carefully grown from local vegetation. The rites and materials required to create a leshy vary depending on the type of leshy. They are typically given life in an area of great natural significance, such as an arboreal’s grove, a druidic circle, a fairy ring, or a great natural wonder.
 
 ### Members
 
-[[Cactus Leshy]] (Creature 2), [[Flytrap Leshy]] (Creature 4), [[Fungus Leshy]] (Creature 2), [[Gourd Leshy]] (Creature 1), [[Leaf Leshy]] (Creature 0), [[Seaweed Leshy]] (Creature 3), [[Sunflower Leshy]] (Creature 1), [[Vine Leshy]] (Creature 0)
+[[DATABASE/monster/Cactus Leshy|Cactus Leshy]] (Creature 2), [[DATABASE/monster/Flytrap Leshy|Flytrap Leshy]] (Creature 4), [[DATABASE/monster/Fungus Leshy|Fungus Leshy]] (Creature 2), [[DATABASE/monster/Gourd Leshy|Gourd Leshy]] (Creature 1), [[DATABASE/monster/Leaf Leshy|Leaf Leshy]] (Creature 0), [[DATABASE/monster/Seaweed Leshy|Seaweed Leshy]] (Creature 3), [[DATABASE/monster/Sunflower Leshy|Sunflower Leshy]] (Creature 1), [[DATABASE/monster/Vine Leshy|Vine Leshy]] (Creature 0)
 
 ###  Associated Monsters
 

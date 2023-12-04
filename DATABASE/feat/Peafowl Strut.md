@@ -11,6 +11,7 @@ name: Peafowl Strut
 prerequisite: '[[DATABASE/feat/Peafowl Stance|Peafowl Stance]]'
 rarity: Common
 requirement: You are in Peafowl Stance.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Peafowl Strut <span class="action-icon">1</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Flourish</span><span class="item-trait">Monk</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** [[Peafowl Stance]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** [[DATABASE/feat/Peafowl Stance|Peafowl Stance]]
 **Requirements** You are in Peafowl Stance.
 
 ---

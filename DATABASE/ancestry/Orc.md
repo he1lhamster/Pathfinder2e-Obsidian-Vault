@@ -15,6 +15,7 @@ language:
 max_speed: '25'
 name: Orc
 rarity: Uncommon
+rus_type_level: null
 size: Medium
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 speed:
@@ -30,7 +31,7 @@ vision: Darkvision
 # Orc
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Humanoid</span><span class="item-trait">Orc</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 _Orcs are forged in the fires of violence and conflict, often from the moment they are born. As they live lives that are frequently cut brutally short, orcs revel in testing their strength against worthy foes, whether by challenging a higher-ranking member of their community for dominance or raiding a neighboring settlement. Many orcs seek glory as soon as they can walk and carry a blade or club, taming wild beasts or hunting deadly monsters._
 Orcs often struggle to gain acceptance among other communities, who frequently see them as brutes. Those who earn the loyalty of an orc friend, however, soon learn that an orc's fidelity and honesty are unparalleled. Orc barbarians, fighters, and rangers are prized as gladiators and mercenaries. While some human settlements might be hesitant to accept an entire orc community into their midst, a small handful of orc mercenaries can do the job of an entire squad of human conscripts, so long as the orcs are well fed and well paid. Though the belief that orcs are only suited for battle is pervasive among other humanoids, the harsh orc mentality comes from a long history of conflict rather than a lack of ability in other areas.
  Orc culture teaches that they are shaped by the challenges they survive, and the most worthy survive the most hardships. Orcs who attain both a long life and great triumphs command immense respect.
@@ -62,13 +63,13 @@ Most orc communities define themselves through two things: pain and glory. Each 
 
 ## Alignment and Religion
 
-A common orc saying is, “You are the scars that shape you.” Violent, chaotic lives in violent, chaotic lands mean that most orcs tend heavily toward chaotic alignments. [[Gorum]], [[Lamashtu]], and [[Rovagug]] are all commonly worshiped among orc communities, though less violent holds worship nature deities like [[Gozreh]] or gods like [[Sarenrae]], whose tenets of fire, redemption, and glory all hold some appeal to orc sensibilities.
+A common orc saying is, “You are the scars that shape you.” Violent, chaotic lives in violent, chaotic lands mean that most orcs tend heavily toward chaotic alignments. [[DATABASE/deity/Gorum|Gorum]], [[DATABASE/deity/Lamashtu|Lamashtu]], and [[DATABASE/deity/Rovagug|Rovagug]] are all commonly worshiped among orc communities, though less violent holds worship nature deities like [[DATABASE/deity/Gozreh|Gozreh]] or gods like [[DATABASE/deity/Sarenrae|Sarenrae]], whose tenets of fire, redemption, and glory all hold some appeal to orc sensibilities.
  While there are orc deities, their worship is surprisingly uncommon among orcs. Orcs believe that if a creature has a face and a name, it can be killed, and so their own deities are targets, rather than objects of reverence. Some orc holds teach that the greatest members of the hold can earn a chance to challenge the orc deities for a place amid the pantheon. Most orcs don't waste their dying moments praising the divine or praying for a place in the afterlife, but spitting a blood-flecked warning at their deities, promising a new challenger through broken teeth.
 
 ## Adventurers
 
 An orc's drive to overcome challenges and prove themself spurs many orcs to become adventurers, though orcs are more likely to set out on their own or with other orcs than alongside adventurers of other ancestries.
- Common orc backgrounds include [[Gladiator]], [[Hunter]], [[Martial Disciple]], [[Nomad]], and [[Warrior]] from the _Core Rulebook_, plus [[Bandit]], [[Outrider]], and [[Refugee]] from this book. Orcs thrive in martial classes like [[Barbarian]] and [[Fighter]].
+ Common orc backgrounds include [[DATABASE/background/Gladiator|gladiator]], [[DATABASE/background/Hunter|hunter]], [[DATABASE/background/Martial Disciple|martial disciple]], [[DATABASE/background/Nomad|nomad]], and [[DATABASE/background/Warrior|warrior]] from the _Core Rulebook_, plus [[DATABASE/background/Bandit|bandit]], [[DATABASE/background/Outrider|outrider]], and [[DATABASE/background/Refugee|refugee]] from this book. Orcs thrive in martial classes like [[DATABASE/class_/Barbarian|barbarian]] and [[DATABASE/class_/Fighter|fighter]].
 
 ## Names
 
@@ -82,12 +83,12 @@ Arkus, Ausk, Durra, Grask, Grillgiss, Krugga, Mahja, Murdut, Ollak, Onyat, Thurk
 
 ### Orc History
 
-Originating deep underground, orcs were driven upward when the [[Dwarf]] began their Quest for Sky. Endless dwarf forces advanced from below, crossing into orc territory and inciting a war that lasted for countless orc lifetimes, with each new generation losing more ground. When finally driven to the surface, orcs discovered a world shrouded by ash. The nearby [[Human]] civilizations were unprepared for their anger and desperation as they battled their way to empire with dauntless ferocity.
+Originating deep underground, orcs were driven upward when the [[DATABASE/ancestry/Dwarf|dwarves]] began their Quest for Sky. Endless dwarf forces advanced from below, crossing into orc territory and inciting a war that lasted for countless orc lifetimes, with each new generation losing more ground. When finally driven to the surface, orcs discovered a world shrouded by ash. The nearby [[DATABASE/ancestry/Human|human]] civilizations were unprepared for their anger and desperation as they battled their way to empire with dauntless ferocity.
 
 ### Orc Holds
 
 Orc holds are large groups of orcs bound together by family, values, and loyalty. 
-**Burning Sun**: Armed with their faith in [[Sarenrae]], the Burning Sun hold is dedicated to directing orc culture toward a more righteous path. 
+**Burning Sun**: Armed with their faith in [[DATABASE/deity/Sarenrae|Sarenrae]], the Burning Sun hold is dedicated to directing orc culture toward a more righteous path. 
 **Empty Hand**: The Empty Hand hold collects taxes from trade in Urgir to acquire top-quality weapons and armor. The hold's renown reached new heights after they led a recent victory over the Whispering Tyrant's undead forces.
 
 ### Orc Settlements
@@ -117,9 +118,9 @@ Free
 
 ## Languages
 
-[[Common]]
-[[Orcish]]
-Additional languages equal to your Intelligence modifier (if it’s positive). Choose from [[Goblin]], [[Jotun]], [[Terran]], [[Undercommon]], and any other languages to which you have access (such as the languages prevalent in your region).
+[[DATABASE/language/Common|Common]]
+[[DATABASE/language/Orcish|Orcish]]
+Additional languages equal to your Intelligence modifier (if it’s positive). Choose from [[DATABASE/language/Goblin|Goblin]], [[DATABASE/language/Jotun|Jotun]], [[DATABASE/language/Terran|Terran]], [[DATABASE/language/Undercommon|Undercommon]], and any other languages to which you have access (such as the languages prevalent in your region).
 
 ## Darkvision
 

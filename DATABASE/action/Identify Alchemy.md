@@ -8,6 +8,7 @@ name: Identify Alchemy
 rarity: Common
 requirement: "You have [[DATABASE/equipment/Alchemist's Tools|alchemist\u2019s tools]]\
   \ ."
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
@@ -21,8 +22,8 @@ type: Action
 # Identify Alchemy
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Exploration</span><span class="item-trait">Secret</span>
-**Source** [[Core Rulebook]] 
-**Requirements** You have [[Alchemist's Tools]].
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Requirements** You have [[DATABASE/equipment/Alchemist's Tools|alchemist’s tools]].
 
 ---
 You can identify the nature of an alchemical item with 10 minutes of testing using alchemist’s tools. If your attempt is interrupted in any way, you must start over.

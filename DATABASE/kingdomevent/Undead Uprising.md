@@ -3,6 +3,7 @@ id: '36'
 level: '0'
 name: Undead Uprising
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Folklore|Folklore]]'
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
@@ -16,10 +17,10 @@ type: Kingdom Event
 # Undead Uprising<span class="item-type">Event +0</span>
 
 <span class="item-trait">Continuous</span><span class="item-trait">Dangerous</span><span class="item-trait">Settlement</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 **Location** The settlement with the most cemeteries or (if no settlements have cemeteries) the largest settlement
-A malign force, be it a sinister curse, a nefarious necromancer, or an invasion of [[Ghoul]], [[Vampire]], or other undead-creating monsters, causes the dead to rise from their graves and threaten the settlement.
-**Kingdom Skill** [[Folklore]]; **Leader** Magister
+A malign force, be it a sinister curse, a nefarious necromancer, or an invasion of [[DATABASE/monsterfamily/Ghoul|ghouls]], [[DATABASE/monsterfamily/Vampire|vampires]], or other undead-creating monsters, causes the dead to rise from their graves and threaten the settlement.
+**Kingdom Skill** [[DATABASE/skill/Folklore|Folklore]]; **Leader** Magister
 **Critical Success** The undead are defeated.
 **Success** The undead are temporarily contained with little physical damage to your settlement, but the populace still grow fearful each night. Increase Unrest by 1.
 **Failure** The undead prey upon your citizens! Increase Unrest by 1d4 and one Ruin of your choice by 1.

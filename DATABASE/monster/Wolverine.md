@@ -69,16 +69,16 @@ wisdom: '+0'
 # Wolverine
 
 Wolverines resemble small bears, to which they are related. Stocky and muscular with long claws, wolverines are about 3 feet in length and weigh approximately 40 pounds. They have a thick fur coat that protects them from the cold temperatures of the forests and frozen tundras where they reside.
-**Recall Knowledge - Animal ([[Nature]])**: DC 16
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
 # Wolverine<span class="item-type">Creature 2</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary 2]] 
-**Perception** +8; [[Low-Light Vision]], [[Scent]]
-**Skills** [[Athletics]] +7, [[Stealth]] +7
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +8; [[DATABASE/monsterability/Low-Light Vision|low-light vision]], [[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +7, [[DATABASE/skill/Stealth|Stealth]] +7
 **Str** +3, **Dex** +3, **Con** +3, **Int** -4, **Wis** +0, **Cha** -2
 
 ---
@@ -87,4 +87,4 @@ Wolverines resemble small bears, to which they are related. Stocky and muscular 
 
 ---
 **Speed** 25 feet, burrow 10 feet, climb 10 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +11 [+6/+1], **Damage** 1d8+5 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +11 [+7/+3] (agile), **Damage** 1d6+5 slashing</span><span class="in-box-ability">**Pounce** <span class="action-icon">1</span> The wolverine Strides and makes a Strike at the end of that movement. If the wolverine begins this action [[Hidden]], it remains hidden until after the attack.</span><span class="in-box-ability">**[[Rend]]** <span class="action-icon">1</span> claw</span><span class="in-box-ability">**Wolverine Rage** <span class="action-icon">1</span> (concentrate, emotion, mental) The wolverine enters a state of pure rage that lasts either for 1 minute, until there are no enemies it can perceive, or until it falls [[Unconscious]], whichever comes first. While raging, the wolverine has AC 17, its jaws Strike deals 1d8+7 damage, and its claw Strike deals 1d6+7 damage. While raging, the wolverine can't use actions that have the concentrate trait, except for [[Seek]]. After it's stopped raging, a wolverine can't use Wolverine Rage again for 1 minute.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +11 [+6/+1], **Damage** 1d8+5 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +11 [+7/+3] (agile), **Damage** 1d6+5 slashing</span><span class="in-box-ability">**Pounce** <span class="action-icon">1</span> The wolverine Strides and makes a Strike at the end of that movement. If the wolverine begins this action [[DATABASE/condition/Hidden|hidden]], it remains hidden until after the attack.</span><span class="in-box-ability">**[[DATABASE/monsterability/Rend|Rend]]** <span class="action-icon">1</span> claw</span><span class="in-box-ability">**Wolverine Rage** <span class="action-icon">1</span> (concentrate, emotion, mental) The wolverine enters a state of pure rage that lasts either for 1 minute, until there are no enemies it can perceive, or until it falls [[DATABASE/condition/Unconscious|unconscious]], whichever comes first. While raging, the wolverine has AC 17, its jaws Strike deals 1d8+7 damage, and its claw Strike deals 1d6+7 damage. While raging, the wolverine can't use actions that have the concentrate trait, except for [[DATABASE/action/Seek|Seek]]. After it's stopped raging, a wolverine can't use Wolverine Rage again for 1 minute.</span>

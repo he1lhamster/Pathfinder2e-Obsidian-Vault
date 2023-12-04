@@ -11,6 +11,7 @@ name: Bat Form
 prerequisite: '[[DATABASE/feat/Vampire Dedication|Vampire Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 subcategory: null
@@ -27,13 +28,13 @@ type: Feat
 # Bat Form <span class="action-icon">1</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Concentrate</span><span class="item-trait">Divine</span><span class="item-trait">Polymorph</span><span class="item-trait">Transmutation</span>
-**Source** [[Book of the Dead]]
-**Archetype** [[Vampire]]
+**Source** [[DATABASE/source/Book of the Dead|Book of the Dead]]
+**Archetype** [[DATABASE/archetype/Vampire|Vampire]]
 **Frequency** once per hour
-**Prerequisites** [[Vampire Dedication]]
+**Prerequisites** [[DATABASE/feat/Vampire Dedication|Vampire Dedication]]
 
 ---
-You can transform into a bat. You gain the effects of a 4th-level [[Pest Form]] spell. At 14th level, you can choose to spend two actions instead of one to gain the effects of a 4th- or 5th-level _aerial form_ spell instead (bat form only).
+You can transform into a bat. You gain the effects of a 4th-level [[DATABASE/spell/Pest Form|pest form]] spell. At 14th level, you can choose to spend two actions instead of one to gain the effects of a 4th- or 5th-level _aerial form_ spell instead (bat form only).
 
 ## Traits
 

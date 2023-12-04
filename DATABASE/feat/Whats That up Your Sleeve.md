@@ -11,6 +11,7 @@ name: Whats That up Your Sleeve
 prerequisite: Expert in [[DATABASE/skill/Lore|Gambling Lore]]
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Highhelm|Highhelm]]'
 subcategory: lore
@@ -25,11 +26,11 @@ type: Feat
 # Whats That up Your Sleeve? <span class="item-type">Feat 2</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Highhelm]]
-**Prerequisites** expert in [[Lore]]
+**Source** [[DATABASE/source/Highhelm|Highhelm]]
+**Prerequisites** expert in [[DATABASE/skill/Lore|Gambling Lore]]
 
 ---
-Whether as a dealer or player, you've learned to spot cheaters. When another creature attempts to [[Conceal an Object]] from you, use your Gambling Lore DC if it's higher than your Perception DC to determine whether they succeed. When you search a creature for a concealed object, you can use Gambling Lore in place of Perception.
+Whether as a dealer or player, you've learned to spot cheaters. When another creature attempts to [[DATABASE/action/Conceal an Object|Conceal an Object]] from you, use your Gambling Lore DC if it's higher than your Perception DC to determine whether they succeed. When you search a creature for a concealed object, you can use Gambling Lore in place of Perception.
 
 ## Traits
 
@@ -43,4 +44,4 @@ A general feat with the skill trait improves your skills and their actions or gi
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.

@@ -11,6 +11,7 @@ name: Oversized Throw
 prerequisite: null
 rarity: Common
 requirement: You have one or more hands free.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Oversized Throw <span class="action-icon">2</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Barbarian</span><span class="item-trait">Rage</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Requirements** You have one or more hands free.
 
 ---

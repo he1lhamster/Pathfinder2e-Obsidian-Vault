@@ -11,6 +11,7 @@ name: Hard Tail
 prerequisite: '[[DATABASE/heritage/Tailed Goblin|Tailed Goblin]] heritage'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 subcategory: null
@@ -23,18 +24,18 @@ type: Feat
 # Hard Tail <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Goblin</span>
-**Source** [[Character Guide]] 
-**Prerequisites** [[Tailed Goblin]]
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
+**Prerequisites** [[DATABASE/heritage/Tailed Goblin|Tailed Goblin]]
 
 ---
 Your tail is much stronger than most, and you can lash out with it with the strength of a whip. You gain a tail unarmed attack that deals 1d6 bludgeoning damage.
 
 ## Hard Tail Leads To...
 
-[[Tail Spin]]
+[[DATABASE/feat/Tail Spin|Tail Spin]]
 
 ## Traits
 
 **Goblin:**
 
-A creature with this trait can be one of several kinds of creature, including [[Goblin]], [[Hobgoblin]], and [[Bugbear]]. Goblins tend to have darkvision. An ability with this trait can be used or chosen only by goblins. A weapon with this trait is created and used by goblins.
+A creature with this trait can be one of several kinds of creature, including [[DATABASE/ancestry/Goblin|goblins]], [[DATABASE/ancestry/Hobgoblin|hobgoblins]], and [[DATABASE/monsterfamily/Bugbear|bugbears]]. Goblins tend to have darkvision. An ability with this trait can be used or chosen only by goblins. A weapon with this trait is created and used by goblins.

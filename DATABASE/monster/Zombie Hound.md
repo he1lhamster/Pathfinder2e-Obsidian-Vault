@@ -72,23 +72,23 @@ wisdom: '+0'
 # Zombie Hound
 
 This creature did not include a description.
-**Recall Knowledge - Undead ([[Religion]])**: DC 15
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Zombie Hound<span class="item-type">Creature -1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Small</span><span class="item-trait">Mindless</span><span class="item-trait">Undead</span><span class="item-trait">Zombie</span>
-**Source** [[Pathfinder 181. Zombie Feast]]
-**Perception** +1; [[Darkvision]]
-**Skills** [[Athletics]] +5
+**Source** [[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie Feast]]
+**Perception** +1; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +5
 **Str** +2, **Dex** -1, **Con** +2, **Int** -5, **Wis** +0, **Cha** -2
-**Slow** A zombie is permanently [[Slowed]] and can't use reactions.
+**Slow** A zombie is permanently [[DATABASE/condition/Slowed|slowed 1]] and can't use reactions.
 
 ---
 **AC** 13; **Fort** +5, **Ref** +0, **Will** +3; Will +3
-**HP** 18 ([[Negative Healing]]); **Immunities** death effects, disease, mental, [[Paralyzed]], poison, [[Unconscious]]; **Weaknesses** positive 5, slashing 5
+**HP** 18 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects, disease, mental, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Unconscious|unconscious]]; **Weaknesses** positive 5, slashing 5
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +6 [+1/-4], **Damage** 1d4+3 piercing plus [[Knockdown]]</span><span class="in-box-ability">**Flesh Tearer** The zombie hound's Strikes deal 1d4 extra damage to [[Prone]] creatures.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +6 [+1/-4], **Damage** 1d4+3 piercing plus [[DATABASE/monsterability/Knockdown|Knockdown]]</span><span class="in-box-ability">**Flesh Tearer** The zombie hound's Strikes deal 1d4 extra damage to [[DATABASE/condition/Prone|prone]] creatures.</span>

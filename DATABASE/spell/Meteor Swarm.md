@@ -21,6 +21,7 @@ patron_theme: null
 range: 500 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: basicReflex
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -38,9 +39,9 @@ type: Spell
 # Meteor Swarm<span class="item-type">Spell 9</span>
 
 <span class="item-trait">Evocation</span><span class="item-trait">Fire</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, primal
-**Bloodlines** [[Diabolic]], [[Phoenix]]
+**Bloodlines** [[DATABASE/sorcererbloodline/Diabolic|diabolic]], [[DATABASE/sorcererbloodline/Phoenix|phoenix]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 500 feet; **Area** 4 40-foot bursts
 **Saving Throw** basic Reflex

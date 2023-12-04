@@ -11,6 +11,7 @@ name: Scorching Column
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -27,7 +28,7 @@ type: Feat
 # Scorching Column <span class="action-icon">3</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Fire</span><span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Overflow</span><span class="item-trait">Primal</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
 With an upward gesture, you shape a vertical column of extreme heat. The cylinder is 10 feet in diameter and 30 feet high, and the bottom must be within 60 feet of you. Each creature in the area takes 1d6 fire damage with a basic Reflex save against your class DC.
@@ -48,7 +49,7 @@ The primary magical actions kineticists use are called impulses. You can use an 
 
 **Overflow:**
 
-Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
+Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[DATABASE/action/Channel Elements|Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
 
 **Primal:**
 

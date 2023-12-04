@@ -74,26 +74,26 @@ wisdom: '+3'
 # Irkem Dresh
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 28
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 28
 **Unspecific Lore**: DC 26
 **Specific Lore**: DC 23
 
 # Irkem Dresh<span class="item-type">Creature 3</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Dwarf</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 178. Punks in a Powderkeg]]
-Female [[Dwarf]] banker
+**Source** [[DATABASE/source/Pathfinder 178. Punks in a Powderkeg|Pathfinder #178: Punks in a Powderkeg]]
+Female [[DATABASE/ancestry/Dwarf|dwarf]] banker
 **Perception** +8
-**Languages** [[Common]], [[Dwarven]], [[Jotun]]
-**Skills** [[Acrobatics]] +9, [[Lore]] +8, [[Deception]] +7, [[Diplomacy]] +5, [[Intimidation]] +9, [[Nature]] +7, [[Society]] +6, [[Thievery]] +6
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Dwarven|Dwarven]], [[DATABASE/language/Jotun|Jotun]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +9, [[DATABASE/skill/Lore|Banking Lore]] +8, [[DATABASE/skill/Deception|Deception]] +7, [[DATABASE/skill/Diplomacy|Diplomacy]] +5, [[DATABASE/skill/Intimidation|Intimidation]] +9, [[DATABASE/skill/Nature|Nature]] +7, [[DATABASE/skill/Society|Society]] +6, [[DATABASE/skill/Thievery|Thievery]] +6
 **Str** +1, **Dex** +4, **Con** +3, **Int** +1, **Wis** +3, **Cha** +0
-**Items** fine clothes, [[Flintlock Pistol]], manager's keys, [[Elixir of Life]]
+**Items** fine clothes, [[DATABASE/weapon/Flintlock Pistol|flintlock pistol (10 rounds)]], manager's keys, [[DATABASE/equipment/Elixir of Life|minor elixir of life]]
 
 ---
 **AC** 19; **Fort** +8, **Ref** +9, **Will** +8
 **HP** 37
-<span class="in-box-ability">**Defying Glare <span class="action-icon">5</span> ** **Trigger** A creature uses a mental effect against Dresh and fails or critically fails; **Effect** Dresh [[Demoralize]] that creature; when she does, Demoralize loses the auditory trait and gains the visual trait and she doesn't take a penalty if the creature doesn't understand her language.</span>
+<span class="in-box-ability">**Defying Glare <span class="action-icon">5</span> ** **Trigger** A creature uses a mental effect against Dresh and fails or critically fails; **Effect** Dresh [[DATABASE/action/Demoralize|Demoralizes]] that creature; when she does, Demoralize loses the auditory trait and gains the visual trait and she doesn't take a penalty if the creature doesn't understand her language.</span>
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +8 [+4/+0] (agile, finesse, nonlethal, unarmed), **Damage** 1d4+1 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> flintlock pistol +9 [+4/-1] (concussive, fatal d8, range 40 feet, reload 1), **Damage** 1d4 piercing</span><span class="in-box-ability">**Generous Distraction** Dresh can use the promise of wealth to distract her foes. When she succeeds or critically succeeds on a [[Deception]] check to [[Feint]] against a target within 30 feet, the target is [[Flat-Footed]] against her ranged attacks as well as her melee Strikes.</span><span class="in-box-ability">**Silver Shower Shot** <span class="action-icon">1</span> **Frequency** once per round; **Effect** Dresh throws 2d6 silver pieces into the air, potentially distracting her target. Dresh makes a [[Deception]] check to [[Feint]] against a creature within 30 feet that can see her and which she can see. If her flintlock pistol is loaded, Dresh then makes a ranged flintlock pistol Strike against that target.</span><span class="in-box-ability">**[[Sneak Attack]]** Dresh deals an additional 1d6 precision damage to [[Flat-Footed]] creatures.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +8 [+4/+0] (agile, finesse, nonlethal, unarmed), **Damage** 1d4+1 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> flintlock pistol +9 [+4/-1] (concussive, fatal d8, range 40 feet, reload 1), **Damage** 1d4 piercing</span><span class="in-box-ability">**Generous Distraction** Dresh can use the promise of wealth to distract her foes. When she succeeds or critically succeeds on a [[DATABASE/skill/Deception|Deception]] check to [[DATABASE/action/Feint|Feint]] against a target within 30 feet, the target is [[DATABASE/condition/Flat-Footed|flat-footed]] against her ranged attacks as well as her melee Strikes.</span><span class="in-box-ability">**Silver Shower Shot** <span class="action-icon">1</span> **Frequency** once per round; **Effect** Dresh throws 2d6 silver pieces into the air, potentially distracting her target. Dresh makes a [[DATABASE/skill/Deception|Deception]] check to [[DATABASE/action/Feint|Feint]] against a creature within 30 feet that can see her and which she can see. If her flintlock pistol is loaded, Dresh then makes a ranged flintlock pistol Strike against that target.</span><span class="in-box-ability">**[[DATABASE/monsterability/Sneak Attack|Sneak Attack]]** Dresh deals an additional 1d6 precision damage to [[DATABASE/condition/Flat-Footed|flat-footed]] creatures.</span>

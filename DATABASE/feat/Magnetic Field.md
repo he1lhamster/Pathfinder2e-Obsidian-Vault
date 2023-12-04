@@ -11,6 +11,7 @@ name: Magnetic Field
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -27,7 +28,7 @@ type: Feat
 # Magnetic Field <span class="action-icon">1</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Metal</span><span class="item-trait">Primal</span><span class="item-trait">Stance</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
 A magnetic field surrounds you. Choose a polarity when you take this action. You can switch the polarity as a free action at the start of each of your turns while you remain in this stance.

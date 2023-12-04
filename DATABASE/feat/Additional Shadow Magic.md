@@ -11,6 +11,7 @@ name: Additional Shadow Magic
 prerequisite: '[[DATABASE/feat/Shadow Magic|Shadow Magic]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Additional Shadow Magic <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetypes** [[Shadowcaster]]*, [[Shadowdancer]]
-**Prerequisites** [[Shadow Magic]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetypes** [[DATABASE/archetype/Shadowcaster|Shadowcaster]]*, [[DATABASE/archetype/Shadowdancer|Shadowdancer]]
+**Prerequisites** [[DATABASE/feat/Shadow Magic|Shadow Magic]]
 * This archetype offers Additional Shadow Magic at a different level than displayed here.
 
 ---

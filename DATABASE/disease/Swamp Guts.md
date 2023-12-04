@@ -4,6 +4,7 @@ level: '6'
 name: Swamp Guts
 onset: 1 hour
 rarity: Uncommon
+rus_type_level: null
 saving_throw: DC 22 Fortitude
 school: null
 source: '[[DATABASE/source/Pathfinder 170. Spoken on the Song Wind|Pathfinder #170:
@@ -20,6 +21,6 @@ type: Disease
 # Swamp Guts<span class="item-type">Disease 6</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Disease</span><span class="item-trait">Virulent</span>
-**Source** [[Pathfinder 170. Spoken on the Song Wind]]
+**Source** [[DATABASE/source/Pathfinder 170. Spoken on the Song Wind|Pathfinder #170: Spoken on the Song Wind]]
 Exposure to the swampy sewage produces extreme nausea and weakness for several days.
-**Saving Throw** DC 22 Fortitude; **Onset** 1 hour; **Stage 1** [[Sickened]] (1 day); **Stage 2** [[Enfeebled]] and [[Fatigued]] (1 day); **Stage 3** enfeebled 2 and fatigued (1 day); **Stage 4** enfeebled 4 and fatigued (1 day)
+**Saving Throw** DC 22 Fortitude; **Onset** 1 hour; **Stage 1** [[DATABASE/condition/Sickened|sickened 1]] (1 day); **Stage 2** [[DATABASE/condition/Enfeebled|enfeebled 1]] and [[DATABASE/condition/Fatigued|fatigued]] (1 day); **Stage 3** enfeebled 2 and fatigued (1 day); **Stage 4** enfeebled 4 and fatigued (1 day)

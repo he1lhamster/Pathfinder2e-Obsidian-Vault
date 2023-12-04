@@ -2,6 +2,7 @@
 id: '2'
 name: Chirurgeon
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait: null
 type: Alchemist Research Field
@@ -9,9 +10,9 @@ type: Alchemist Research Field
 ---
 # Chirurgeon
 
-**Source** [[Core Rulebook]] 
-You concentrate on healing others with alchemy. You start with the formulas for two common 1st-level alchemical elixirs with the healing trait (like [[Antidote]], [[Antiplague]], or [[Elixir of Life]]), in addition to your other formulas.
- You can use your proficiency rank in [[Crafting]] for anything that requires a proficiency rank in [[Medicine]] (such as prerequisites), and use your Crafting modifier in place of your Medicine modifier for all Medicine checks.
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+You concentrate on healing others with alchemy. You start with the formulas for two common 1st-level alchemical elixirs with the healing trait (like [[DATABASE/equipment/Antidote|lesser antidote]], [[DATABASE/equipment/Antiplague|lesser antiplague]], or [[DATABASE/equipment/Elixir of Life|minor elixir of life]]), in addition to your other formulas.
+ You can use your proficiency rank in [[DATABASE/skill/Crafting|Crafting]] for anything that requires a proficiency rank in [[DATABASE/skill/Medicine|Medicine]] (such as prerequisites), and use your Crafting modifier in place of your Medicine modifier for all Medicine checks.
 
 ## Field Discovery<span class="item-type">Level 5</span>
 
@@ -28,7 +29,7 @@ the healing trait.
 
 ## Greater Field Discovery<span class="item-type">Level 13</span>
 
-When you use [[Quick Alchemy]] to create any type of elixir of life, the creature drinking the elixir gains the maximum Hit Points possible for that elixir, instead of rolling to determine the number of Hit Points regained.
+When you use [[DATABASE/feat/Quick Alchemy|Quick Alchemy]] to create any type of elixir of life, the creature drinking the elixir gains the maximum Hit Points possible for that elixir, instead of rolling to determine the number of Hit Points regained.
 
 ## Perpetual Perfection<span class="item-type">Level 17</span>
 

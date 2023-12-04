@@ -24,6 +24,7 @@ resistance:
 - '[[DATABASE/trait/Force|force]]'
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
 - or [[DATABASE/trait/Positive|positive]] )
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 156. The Apocalypse Prophet|Pathfinder #156:
   The Apocalypse Prophet]]'
@@ -39,16 +40,16 @@ will: '+27'
 # Suffering Xulgaths<span class="item-type">Hazard 16</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="item-trait">Complex</span><span class="item-trait">Haunt</span>
-**Source** [[Pathfinder 156. The Apocalypse Prophet]]
+**Source** [[DATABASE/source/Pathfinder 156. The Apocalypse Prophet|Pathfinder #156: The Apocalypse Prophet]]
 **Complexity** Complex
-**Stealth** +26 (expert) to hear the echoed shouts of panicked [[Xulgath]]
-**Description** The shadows of four xulgaths endlessly relive their deaths at the hands of the [[Wendigo]] and their clutchmates.
+**Stealth** +26 (expert) to hear the echoed shouts of panicked [[DATABASE/monsterfamily/Xulgath|xulgaths]]
+**Description** The shadows of four xulgaths endlessly relive their deaths at the hands of the [[DATABASE/monster/Wendigo|wendigos]] and their clutchmates.
 
 ---
-**Disable** DC 42 [[Religion]] (master) or DC 42 [[Occultism]] (master) to calm each of the four spirits. On a character's first successful check, the character also learns that xulgath funerary rites typically involve cremation, which hints that fire is a viable way to put them to rest.
+**Disable** DC 42 [[DATABASE/skill/Religion|Religion]] (master) or DC 42 [[DATABASE/skill/Occultism|Occultism]] (master) to calm each of the four spirits. On a character's first successful check, the character also learns that xulgath funerary rites typically involve cremation, which hints that fire is a viable way to put them to rest.
 **AC** 39, **Fort** +27, **Ref** +31, **Will** +27
-**HP** 24 per spirit; **Immunities** death effects, disease, [[Paralyzed]], poison, precision, [[Unconscious]], **Resistances** all damage 20 (except fire, force, [[Ghost Touch]], or positive)
-**Wendigo Remnants** <span class="action-icon">5</span> **Trigger** A living creature other than a wendigo gains the [[Frightened]] condition while within 100 feet of the way station; **Effect** The haunt rolls for initiative.
+**HP** 24 per spirit; **Immunities** death effects, disease, [[DATABASE/condition/Paralyzed|paralyzed]], poison, precision, [[DATABASE/condition/Unconscious|unconscious]], **Resistances** all damage 20 (except fire, force, [[DATABASE/equipment/Ghost Touch|ghost touch]], or positive)
+**Wendigo Remnants** <span class="action-icon">5</span> **Trigger** A living creature other than a wendigo gains the [[DATABASE/condition/Frightened|frightened]] condition while within 100 feet of the way station; **Effect** The haunt rolls for initiative.
 
 ---
 **Routine** (4 actions) Each active spirit chooses a living non-wendigo creature within 120 feet and attempts to devour it, targeting different creatures if possible. Each calmed spirit reduces the hazard's actions by 1.

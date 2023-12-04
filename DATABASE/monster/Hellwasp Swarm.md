@@ -85,31 +85,31 @@ wisdom: '+2'
 # Hellwasp Swarm
 
 Hellwasps' infernal nature allows them to collectively inhabit and control humanoid corpses, and they use this ability to infest and horrify large swathes of territory unless destroyed. While individual hellwasp poses little threat, these fist-sized insects instinctively form into aggressive swarms that will viciously attack any creature approaching their colony, the lone exception being powerful fiends.
- Hellwasp swarms have a rudimentary intelligence focused on the protection and expansion of their colony. They can understand [[Infernal]] but are incapable of speech. They sometimes obey simple commands from a lawful fiend more powerful than their swarm, but there is no nuance or understanding to this obedience, and if left alone for more than a day they stop obeying and return to their colony.
-**Recall Knowledge - Fiend ([[Religion]])**: DC 24
+ Hellwasp swarms have a rudimentary intelligence focused on the protection and expansion of their colony. They can understand [[DATABASE/language/Infernal|Infernal]] but are incapable of speech. They sometimes obey simple commands from a lawful fiend more powerful than their swarm, but there is no nuance or understanding to this obedience, and if left alone for more than a day they stop obeying and return to their colony.
+**Recall Knowledge - Fiend ([[DATABASE/skill/Religion|Religion]])**: DC 24
 **Unspecific Lore**: DC 22
 **Specific Lore**: DC 19
 
 # Hellwasp Swarm<span class="item-type">Creature 8</span>
 
 <span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Fiend</span><span class="item-trait">Swarm</span>
-**Source** [[Bestiary 3]]
-**Perception** +16; [[Darkvision]]
-**Languages** [[Infernal]]; (can't speak any language)
-**Skills** [[Acrobatics]] +18, [[Stealth]] +18
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
+**Perception** +16; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Infernal|Infernal]]; (can't speak any language)
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +18, [[DATABASE/skill/Stealth|Stealth]] +18
 **Str** +0, **Dex** +4, **Con** +6, **Int** -3, **Wis** +2, **Cha** -2
 
 ---
 **AC** 24; **Fort** +18, **Ref** +16, **Will** +14
-**HP** 95; **Immunities** precision, [[Swarm Mind]]; **Resistances** bludgeoning 5, fire 10, piercing 10, slashing 5; **Weaknesses** area damage 10, splash damage 10
+**HP** 95; **Immunities** precision, [[DATABASE/monsterability/Swarm Mind|swarm mind]]; **Resistances** bludgeoning 5, fire 10, piercing 10, slashing 5; **Weaknesses** area damage 10, splash damage 10
 
 ---
 **Speed** 20 feet; fly 40 feet
-<span class="in-box-ability">**Abandon Corpse** <span class="action-icon">1</span> **Requirements** The hellwasp swarm is controlling a corpse with Infest Corpse; **Effect** The hellwasp swarm leaves its host corpse, which dies instantly and becomes a normal corpse in all respects. The hellwasp swarm expands out from that space to its normal size.</span><span class="in-box-ability">**Hellwasp Stings** <span class="action-icon">1</span> Each enemy in the swarm's space takes 4d8 piercing damage (DC 26 basic Reflex save). Any creature that fails its saving throw is exposed to hellwasp venom.</span><span class="in-box-ability">**Hellwasp Venom** (poison) **Saving Throw** DC 26 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 1d8 poison damage and [[Clumsy]] (1 round); **Stage 2** 2d8 poison damage and clumsy 2 (1 round)</span><span class="in-box-ability">**Infest Corpse** <span class="action-icon">2</span> (manipulate) The hellwasp swarm animates the corpse of a Small, Medium, or Large humanoid that protected by [[Gentle Repose]] or similar magic, crawling into its mouth and other orifices. Its size changes to that of the corpse and it loses its piercing and slashing resistances, fly Speed, and Hellwasp Stings. It gains a fist melee Strike with a +18 attack modifier that deals 2d8 bludgeoning damage plus 2d8 piercing damage and hellwasp venom.
+<span class="in-box-ability">**Abandon Corpse** <span class="action-icon">1</span> **Requirements** The hellwasp swarm is controlling a corpse with Infest Corpse; **Effect** The hellwasp swarm leaves its host corpse, which dies instantly and becomes a normal corpse in all respects. The hellwasp swarm expands out from that space to its normal size.</span><span class="in-box-ability">**Hellwasp Stings** <span class="action-icon">1</span> Each enemy in the swarm's space takes 4d8 piercing damage (DC 26 basic Reflex save). Any creature that fails its saving throw is exposed to hellwasp venom.</span><span class="in-box-ability">**Hellwasp Venom** (poison) **Saving Throw** DC 26 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 1d8 poison damage and [[DATABASE/condition/Clumsy|clumsy 2]] (1 round); **Stage 2** 2d8 poison damage and clumsy 2 (1 round)</span><span class="in-box-ability">**Infest Corpse** <span class="action-icon">2</span> (manipulate) The hellwasp swarm animates the corpse of a Small, Medium, or Large humanoid that protected by [[DATABASE/spell/Gentle Repose|gentle repose]] or similar magic, crawling into its mouth and other orifices. Its size changes to that of the corpse and it loses its piercing and slashing resistances, fly Speed, and Hellwasp Stings. It gains a fist melee Strike with a +18 attack modifier that deals 2d8 bludgeoning damage plus 2d8 piercing damage and hellwasp venom.
  The hellwasp swarm gains 40 temporary Hit Points when it Infests a Corpse; when these temporary HP are depleted, the corpse falls apart and the swarm Abandons the Corpse automatically.</span><span class="in-box-ability">**Torturous Buzz** <span class="action-icon">2</span> (auditory, emotion, enchantment, incapacitation, occult) The swarm emits a distracting, cacophonous buzzing. Each creature within 20 feet must attempt a DC 26 Will save. 
 **Critical Success** The creature is unaffected and temporarily immune for 1 minute. 
 **Success** The creature is unaffected. 
-**Failure** The creature is [[Confused]] for 1 round. 
+**Failure** The creature is [[DATABASE/condition/Confused|confused]] for 1 round. 
 **Critical Failure** The creature is confused for 1d4 rounds.</span>
 
 ###  Hellwasp Colonies

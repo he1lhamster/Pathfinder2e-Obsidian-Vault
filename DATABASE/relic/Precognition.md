@@ -5,6 +5,7 @@ item_category: Relics
 name: Precognition
 prerequisite: null
 rarity: Common
+rus_type_level: null
 school: Divination
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
@@ -16,7 +17,7 @@ type: Relic Major Gift
 # Precognition<span class="item-type">Major Gift</span>
 
 <span class="item-trait">Divination</span><span class="item-trait">Prediction</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Aspect** time
 
 ---

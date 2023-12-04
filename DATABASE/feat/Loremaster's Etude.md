@@ -11,6 +11,7 @@ name: Loremaster's Etude
 prerequisite: '[[DATABASE/bardmuse/Enigma|enigma muse]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,13 +25,13 @@ type: Feat
 # Loremaster's Etude <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Bard</span><span class="item-trait">Fortune</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Loremaster]]*
-**Prerequisites** [[Enigma]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Loremaster|Loremaster]]*
+**Prerequisites** [[DATABASE/bardmuse/Enigma|enigma muse]]
 * This archetype offers Loremaster's Etude at a different level than displayed here.
 
 ---
-You magically unlock memories, making them easier to recall. You learn the [[Loremaster's Etude]] composition spell. Increase the number of Focus Points in your focus pool by 1.
+You magically unlock memories, making them easier to recall. You learn the [[DATABASE/spell/Loremaster's Etude|loremaster’s etude]] composition spell. Increase the number of Focus Points in your focus pool by 1.
 
 ## Archetype Use
 

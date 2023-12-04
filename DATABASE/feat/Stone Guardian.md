@@ -11,6 +11,7 @@ name: Stone Guardian
 prerequisite: '[[DATABASE/feat/Stonebound Dedication|Stonebound Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 195. Heavy is the Crown|Pathfinder #195: Heavy
   is the Crown]]'
@@ -24,12 +25,12 @@ type: Feat
 # Stone Guardian <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Pathfinder 195. Heavy is the Crown]]
-**Archetype** [[Stonebound]]
-**Prerequisites** [[Stonebound Dedication]]
+**Source** [[DATABASE/source/Pathfinder 195. Heavy is the Crown|Pathfinder #195: Heavy is the Crown]]
+**Archetype** [[DATABASE/archetype/Stonebound|Stonebound]]
+**Prerequisites** [[DATABASE/feat/Stonebound Dedication|Stonebound Dedication]]
 
 ---
-You learn to call a powerful guardian of earth and stone to your side. You can cast [[Summon Elemental]] as an innate primal spell once per day, and can only summon elementals with the earth trait. This spell is automatically heightened to half your level rounded up.
+You learn to call a powerful guardian of earth and stone to your side. You can cast [[DATABASE/spell/Summon Elemental|summon elemental]] as an innate primal spell once per day, and can only summon elementals with the earth trait. This spell is automatically heightened to half your level rounded up.
 
 ## Traits
 

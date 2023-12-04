@@ -73,16 +73,16 @@ wisdom: '+2'
 # Giant Hermit Crab
 
 Lucky hermit crabs with plentiful resources can live for decades and grow to tremendous sizes, often with magical help. Too large for most natural shells, giant hermit crabs use a variety of debris instead, including wagons, boats, treasure chests, and even abandoned pieces of giant armor.
-**Recall Knowledge - Animal ([[Nature]])**: DC 20
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 20
 **Unspecific Lore**: DC 18
 **Specific Lore**: DC 15
 
 # Giant Hermit Crab<span class="item-type">Creature 5</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Amphibious</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary 3]]
-**Perception** +13; [[Darkvision]], [[Tremorsense]] (imprecise) 15 feet
-**Skills** [[Acrobatics]] +9, [[Athletics]] +15, [[Stealth]] +9
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
+**Perception** +13; [[DATABASE/monsterability/Darkvision|darkvision]], [[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 15 feet
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +9, [[DATABASE/skill/Athletics|Athletics]] +15, [[DATABASE/skill/Stealth|Stealth]] +9
 **Str** +6, **Dex** +2, **Con** +4, **Int** -4, **Wis** +2, **Cha** +0
 
 ---
@@ -92,4 +92,4 @@ Lucky hermit crabs with plentiful resources can live for decades and grow to tre
 
 ---
 **Speed** 20 feet, climb 10 feet, swim 15 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> big claw +15 [+10/+5], **Damage** 2d8+8 piercing plus [[Grab]]</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +15 [+11/+7] (agile), **Damage** 2d4+8 piercing</span><span class="in-box-ability">**[[Constrict]]** <span class="action-icon">1</span> 1d8+6 bludgeoning, DC 22</span><span class="in-box-ability">**Retract** <span class="action-icon">1</span> The hermit crab curls fully into its shell to protect itself. This gives it a +4 circumstance bonus to AC, removes its weakness to bludgeoning damage, and grants it resistance 5 to piercing and slashing damage. The only actions the hermit crab can use while in this state are Protective Pinch and Interact to come out of its shell.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> big claw +15 [+10/+5], **Damage** 2d8+8 piercing plus [[DATABASE/monsterability/Grab|Grab]]</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +15 [+11/+7] (agile), **Damage** 2d4+8 piercing</span><span class="in-box-ability">**[[DATABASE/monsterability/Constrict|Constrict]]** <span class="action-icon">1</span> 1d8+6 bludgeoning, DC 22</span><span class="in-box-ability">**Retract** <span class="action-icon">1</span> The hermit crab curls fully into its shell to protect itself. This gives it a +4 circumstance bonus to AC, removes its weakness to bludgeoning damage, and grants it resistance 5 to piercing and slashing damage. The only actions the hermit crab can use while in this state are Protective Pinch and Interact to come out of its shell.</span>

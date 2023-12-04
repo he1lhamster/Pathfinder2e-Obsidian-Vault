@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: DC 16 Will
 school: null
 size: null
@@ -59,11 +60,11 @@ weapon_type: null
 # Yellow Musk Vial<span class="item-type">Item 2</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Inhaled</span><span class="item-trait">Mental</span><span class="item-trait">Poison</span>
-**Source** [[Bestiary 2]] 
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
 **Price** 7 gp
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
 ---
 The powdered pollen from a yellow musk creeper addles the mind.
- **Saving Throw** DC 16 Will; **Maximum Duration** 2 rounds; **Stage 1** [[Fascinated]] by the poison cloud (1 round); **Stage 2** fascinated by the poison cloud, and can use no actions but to move closer to the cloud’s point of origin (1 round)
+ **Saving Throw** DC 16 Will; **Maximum Duration** 2 rounds; **Stage 1** [[DATABASE/condition/Fascinated|fascinated]] by the poison cloud (1 round); **Stage 2** fascinated by the poison cloud, and can use no actions but to move closer to the cloud’s point of origin (1 round)

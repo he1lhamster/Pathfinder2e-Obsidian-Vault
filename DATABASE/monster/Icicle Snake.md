@@ -73,22 +73,22 @@ wisdom: '+1'
 # Icicle Snake
 
 Translucent and capable of hanging suspended and near motionless, icicle snakes sense the heat of living creatures as a threat and attempt to use their camouflage and chilling bite against foes.
-**Recall Knowledge - Elemental ([[Arcana]], [[Nature]])**: DC 16
+**Recall Knowledge - Elemental ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
 # Icicle Snake<span class="item-type">Creature 2</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Small</span><span class="item-trait">Cold</span><span class="item-trait">Elemental</span><span class="item-trait">Water</span>
-**Source** [[Bestiary 2]] 
-**Perception** +7; [[Darkvision]]
-**Skills** [[Athletics]] +7, [[Stealth]] +7
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +7; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +7, [[DATABASE/skill/Stealth|Stealth]] +7
 **Str** +1, **Dex** +3, **Con** +2, **Int** -4, **Wis** +1, **Cha** +0
 
 ---
 **AC** 18; **Fort** +8, **Ref** +9, **Will** +5
-**HP** 35; **Immunities** bleed, cold, [[Paralyzed]], poison, sleep; **Weaknesses** fire 5
+**HP** 35; **Immunities** bleed, cold, [[DATABASE/condition/Paralyzed|paralyzed]], poison, sleep; **Weaknesses** fire 5
 
 ---
 **Speed** 25 feet, climb 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +9 [+4/-1] (finesse), **Damage** 1d6+1 piercing plus 1d6 [[Persistent Damage]]</span><span class="in-box-ability">**Icicle** <span class="action-icon">1</span> (concentrate) Until the next time it acts, the icicle snake appears to be an unassuming icicle. It has an automatic result of 27 on [[Deception]] checks and DCs to pass as an icicle.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +9 [+4/-1] (finesse), **Damage** 1d6+1 piercing plus 1d6 [[DATABASE/condition/Persistent Damage|persistent cold]]</span><span class="in-box-ability">**Icicle** <span class="action-icon">1</span> (concentrate) Until the next time it acts, the icicle snake appears to be an unassuming icicle. It has an automatic result of 27 on [[DATABASE/skill/Deception|Deception]] checks and DCs to pass as an icicle.</span>

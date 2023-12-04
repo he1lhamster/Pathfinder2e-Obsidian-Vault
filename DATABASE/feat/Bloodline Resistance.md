@@ -11,6 +11,7 @@ name: Bloodline Resistance
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Bloodline Resistance <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Sorcerer</span>
-**Source** [[Core Rulebook]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
 Your magical blood makes you more resistant to magic. You gain a +1 status bonus to saving throws against spells and magical effects.

@@ -21,6 +21,7 @@ patron_theme: null
 range: 30 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -37,8 +38,8 @@ type: Focus
 # Mystic Beacon<span class="item-type">Focus 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Cleric</span><span class="item-trait">Evocation</span>
-**Source** [[Core Rulebook]] 
-**Domain** [[Magic Domain]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Domain** [[DATABASE/domain/Magic Domain|magic]]
 **Cast** <span class="action-icon">1</span> somatic
 **Range** 30 feet; **Targets** 1 willing creature
 **Duration** until the start of your next turn

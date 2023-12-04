@@ -11,6 +11,7 @@ name: Implement's Flight
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -25,7 +26,7 @@ type: Feat
 # Implement's Flight <span class="item-type">Feat 16</span>
 
 <span class="item-trait">Primal</span><span class="item-trait">Thaumaturge</span><span class="item-trait">Transmutation</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 
 ---
 By weakening your relation to the ground and strengthening your relation to the sky, you've learned to soar through the air, your implement carrying you as surely as any broomstick or pestle. As long as you're holding a thaumaturge implement, you gain a fly Speed equal to your land Speed.

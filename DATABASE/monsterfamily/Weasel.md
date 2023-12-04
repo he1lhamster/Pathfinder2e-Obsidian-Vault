@@ -3,6 +3,7 @@ creature_family: Weasel
 id: '277'
 name: Weasel
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Weasel
 
-**Source** [[Bestiary 3]]
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
 Weasels are lithe, clever predators known for both their beautiful, sleek fur and their ability to crawl into tight spaces. Pound for pound, few animals are as voracious as weasels. Insatiably hungry, they eat almost half their own weight each day, leading them to constantly hunt for new prey to satisfy their hunger.
 
 ### Members
 
-[[Megalictis]] (Creature 3), [[Weasel]] (Creature -1)
+[[DATABASE/monster/Megalictis|Megalictis]] (Creature 3), [[DATABASE/monster/Weasel|Weasel]] (Creature -1)
 
 ###  Weasel Musk
 

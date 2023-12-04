@@ -65,20 +65,20 @@ wisdom: '+0'
 # Gunmarshal
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 18
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Gunmarshal<span class="item-type">Creature 2</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">LN</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 178. Punks in a Powderkeg]]
+**Source** [[DATABASE/source/Pathfinder 178. Punks in a Powderkeg|Pathfinder #178: Punks in a Powderkeg]]
 Rookie shieldmarshal
 **Perception** +10
-**Languages** [[Common]], [[Kelish]]
-**Skills** [[Acrobatics]] +6, [[Athletics]] +9, [[Intimidation]] +7
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Kelish|Kelish]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +6, [[DATABASE/skill/Athletics|Athletics]] +9, [[DATABASE/skill/Intimidation|Intimidation]] +7
 **Str** +3, **Dex** +4, **Con** +2, **Int** +0, **Wis** +0, **Cha** +1
-**Items** [[Flintlock Musket]], [[Leather Armor]], [[Shortsword]]
+**Items** [[DATABASE/weapon/Flintlock Musket|flintlock musket (10 rounds)]], [[DATABASE/armor/Leather Armor|leather armor]], [[DATABASE/weapon/Shortsword|shortsword]]
 
 ---
 **AC** 18; **Fort** +10, **Ref** +10, **Will** +4
@@ -86,4 +86,4 @@ Rookie shieldmarshal
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Ranged** <span class="action-icon">1</span> flintlock musket +11 [+6/+1], **Damage** 1d6+4 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> shortsword +11 [+6/+1], **Damage** 1d6+4 piercing</span><span class="in-box-ability">**Firearms Critical Specialization** When the gunmarshal makes a critical hit with a firearm, the target must succeed at a DC 18 Fortitude save or be [[Stunned]] 1.</span><span class="in-box-ability">**Lawbringer** <span class="action-icon">1</span> he gunmarshal marks a foe for judgment, granting the gunmarshal a +10-foot circumstance bonus to Speed when moving toward that creature.</span>
+<span class="in-box-ability">**Ranged** <span class="action-icon">1</span> flintlock musket +11 [+6/+1], **Damage** 1d6+4 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> shortsword +11 [+6/+1], **Damage** 1d6+4 piercing</span><span class="in-box-ability">**Firearms Critical Specialization** When the gunmarshal makes a critical hit with a firearm, the target must succeed at a DC 18 Fortitude save or be [[DATABASE/condition/Stunned|stunned]] 1.</span><span class="in-box-ability">**Lawbringer** <span class="action-icon">1</span> he gunmarshal marks a foe for judgment, granting the gunmarshal a +10-foot circumstance bonus to Speed when moving toward that creature.</span>

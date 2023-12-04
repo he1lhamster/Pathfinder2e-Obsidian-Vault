@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -56,31 +57,31 @@ weapon_type: null
 # Wand of Clinging Rime<span class="item-type">Item 16+</span>
 
 <span class="item-trait">Cold</span><span class="item-trait">Evocation</span><span class="item-trait">Magical</span><span class="item-trait">Wand</span><span class="item-trait">Water</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Usage** held in 1 hand; **Bulk** L
 
 ---
 A thin layer of frost coats this gnarled holly wand.
-**Activate** Cast a Spell **Frequency** once per day, plus overcharge; **Effect** You cast [[Frigid Flurry]] of the indicated level. After you cast the spell, the ice crystals freeze to flesh and other surfaces, clinging to the creatures in the area. Each creature that fails its save takes [[Persistent Damage]] with the amount determined by the wand's type.
+**Activate** Cast a Spell **Frequency** once per day, plus overcharge; **Effect** You cast [[DATABASE/spell/Frigid Flurry|frigid flurry]] of the indicated level. After you cast the spell, the ice crystals freeze to flesh and other surfaces, clinging to the creatures in the area. Each creature that fails its save takes [[DATABASE/condition/Persistent Damage|persistent cold damage]] with the amount determined by the wand's type.
 **Craft Requirements** Supply a casting of _frigid flurry_ of the appropriate level.
 
 ## Wand of Clinging Rime (7th-Level Spell)<span class="item-type">Item 16</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 10,000 gp
 **Bulk** L
 The persistent cold damage is 1d6.
 
 ## Wand of Clinging Rime (8th-Level Spell)<span class="item-type">Item 18</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 24,000 gp
 **Bulk** L
 The persistent cold damage is 2d6.
 
 ## Wand of Clinging Rime (9th-Level Spell)<span class="item-type">Item 20</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 70,000 gp
 **Bulk** L
 The persistent cold damage is 3d6.

@@ -4,6 +4,7 @@ ability_boost: null
 id: '22'
 name: Engineering
 rarity: Common
+rus_type_level: null
 skill:
 - Engineering
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
@@ -13,16 +14,16 @@ type: Skill
 ---
 # Engineering (Stability)
 
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 Engineering measures the kingdom’s ability to alter the physical landscape of its territory.
 
-* **[[Clear Hex]]**
-* **[[Establish Settlement]]**
-* **[[Focused Attention]]**
+* **[[DATABASE/generalskillaction/Clear Hex|Clear Hex]]**
+* **[[DATABASE/generalskillaction/Establish Settlement|Establish Settlement]]**
+* **[[DATABASE/generalskillaction/Focused Attention|Focused Attention]]**
 
 ## Engineering Trained Actions
 
-* **[[Repair Reputation]]**
+* **[[DATABASE/generalskillaction/Repair Reputation|Repair Reputation]]**
 
 ### Related Feats
 
@@ -30,10 +31,10 @@ To see a list of Feats related to Engineering, click here.
 
 # Engineering Untrained Actions
 
-## [[Build Roads]]
+## [[DATABASE/action/Build Roads|Build Roads]]
 
 <span class="item-trait">Downtime</span><span class="item-trait">Region</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 **Requirements** The hex in which you seek to build roads must be claimed by your kingdom.
 
 ---
@@ -44,10 +45,10 @@ You order your kingdom's engineers to construct a network of robust roads throug
 **Failure** You fail to build roads in the hex.
 **Critical Failure** Your attempt to build roads ends in disaster. Not only do you fail to build roads, but you lose several workers to an accident, banditry, a vicious monster, or some other unforeseen occurrence. Gain 1 Unrest.
 
-## [[Demolish]]
+## [[DATABASE/action/Demolish|Demolish]]
 
 <span class="item-trait">Civic</span><span class="item-trait">Downtime</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 
 ---
 Choose a single occupied lot in one of your settlements and attempt a basic check to reduce it to Rubble and then clear the Rubble away to make ready for a new structure. For multiple-lot structures, you'll need to perform multiple Demolish activities (or critically succeed at the activity) to fully clear all of the lots. As soon as you begin Demolishing a multiple-lot structure, all of the lots occupied by that structure no longer function.
@@ -56,10 +57,10 @@ Choose a single occupied lot in one of your settlements and attempt a basic chec
 **Failure** You fail to demolish the lot. It remains in Rubble and cannot be used for further construction until you successfully Demolish it.
 **Critical Failure** As failure, but accidents during the demolition cost you the lives of some of your workers. Gain 1 Unrest.
 
-## [[Establish Work Site]]
+## [[DATABASE/action/Establish Work Site|Establish Work Site]]
 
 <span class="item-trait">Downtime</span><span class="item-trait">Region</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 
 ---
 Your hire a crew of workers to travel to a hex that contains Lumber, Ore, or Stone to be harvested. Spend RP as determined by the hex's most inhospitable terrain (see the Building on Rough Terrain sidebar on page 519). Then attempt a basic check. Lumber camps can be established in any hex that contains a significant amount of forest terrain. Mines and quarries can be established in any hex that contains a significant amount of hill or mountain terrain.
@@ -70,10 +71,10 @@ Your hire a crew of workers to travel to a hex that contains Lumber, Ore, or Sto
 
 # Engineering Trained Actions
 
-## [[Irrigation]]
+## [[DATABASE/action/Irrigation|Irrigation]]
 
 <span class="item-trait">Downtime</span><span class="item-trait">Region</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 **Requirements** You control a hex adjacent to a river or lake that itself does not contain a river or lake.
 
 ---

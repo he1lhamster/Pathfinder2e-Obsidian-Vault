@@ -21,6 +21,7 @@ follower_alignment:
 id: '117'
 name: Dammerich
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -30,7 +31,7 @@ type: Deity
 ---
 # Dammerich (The Weighted Swing) [LG]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Category** Empyreal Lords
 **Edicts** Perform just executions, study local laws, oppose corrupt or bloodthirsty government officials
 **Anathema** Kill without thought, execute the innocent, mock the condemned, falsely incriminate another
@@ -38,9 +39,9 @@ type: Deity
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Constitution or Wisdom
-**Divine Font** _[[Harm]]_ or _[[Heal]]_
-**Divine Skill** [[Athletics]]
-**Favored Weapon** [[Greataxe]]
-**Domains** [[Death Domain]], [[Duty Domain]], [[Truth Domain]], [[Vigil Domain]]
-**Cleric Spells** 1st: _[[True Strike]]_, 3rd: _[[Paralyze]]_, 4th: _[[Stoneskin]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Constitution or Wisdom
+**Divine Font** _[[DATABASE/spell/Harm|harm]]_ or _[[DATABASE/spell/Heal|heal]]_
+**Divine Skill** [[DATABASE/skill/Athletics|Athletics]]
+**Favored Weapon** [[DATABASE/weapon/Greataxe|greataxe]]
+**Domains** [[DATABASE/domain/Death Domain|death]], [[DATABASE/domain/Duty Domain|duty]], [[DATABASE/domain/Truth Domain|truth]], [[DATABASE/domain/Vigil Domain|vigil]]
+**Cleric Spells** 1st: _[[DATABASE/spell/True Strike|true strike]]_, 3rd: _[[DATABASE/spell/Paralyze|paralyze]]_, 4th: _[[DATABASE/spell/Stoneskin|stoneskin]]_

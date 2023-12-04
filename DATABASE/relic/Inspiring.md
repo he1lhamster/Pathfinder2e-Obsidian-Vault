@@ -5,6 +5,7 @@ item_category: Relics
 name: Inspiring
 prerequisite: null
 rarity: Common
+rus_type_level: null
 school: Enchantment
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
@@ -17,8 +18,8 @@ type: Relic Minor Gift
 # Inspiring<span class="item-type">Minor Gift</span>
 
 <span class="item-trait">Emotion</span><span class="item-trait">Enchantment</span><span class="item-trait">Mental</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Aspect** artistry
 
 ---
-**Activate** <span class="action-icon">1</span> varies ; **Effect** You create a vision (envision) of a token you could have crafted or make a short performance (command) to inspire an ally within 60 feet. This otherwise works as the [[Inspire Competence]] cantrip.
+**Activate** <span class="action-icon">1</span> varies ; **Effect** You create a vision (envision) of a token you could have crafted or make a short performance (command) to inspire an ally within 60 feet. This otherwise works as the [[DATABASE/feat/Inspire Competence|inspire competence]] cantrip.

@@ -11,6 +11,7 @@ name: Bear Empathy
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Divination
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 subcategory: null
@@ -25,11 +26,11 @@ type: Feat
 # Bear Empathy <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Divination</span><span class="item-trait">Primal</span>
-**Source** [[Treasure Vault]] 
-**Archetype** [[Ursine Avenger Hood]]
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
+**Archetype** [[DATABASE/archetype/Ursine Avenger Hood|Ursine Avenger Hood]]
 
 ---
-You have a magical affinity for [[Bear]] and can speak to them through sounds and body language. You can communicate with all bears, as well as other ursine creatures at the GM's discretion.
+You have a magical affinity for [[DATABASE/monsterfamily/Bear|bears]] and can speak to them through sounds and body language. You can communicate with all bears, as well as other ursine creatures at the GM's discretion.
 
 ## Traits
 

@@ -6,6 +6,7 @@ id: '372'
 name: Harrow-Chosen
 prerequisite: null
 rarity: Rare
+rus_type_level: null
 skill: null
 source: '[[DATABASE/source/Pathfinder 192. Worst of All Possible Worlds|Pathfinder
   #192: Worst of All Possible Worlds]]'
@@ -18,7 +19,7 @@ type: Background
 # Harrow-Chosen<span class="item-type">Background</span>
 
 <span class="trait-rare item-trait">Rare</span>
-**Source** [[Pathfinder 192. Worst of All Possible Worlds]]
+**Source** [[DATABASE/source/Pathfinder 192. Worst of All Possible Worlds|Pathfinder #192: Worst of All Possible Worlds]]
 Unbeknownst to you, a powerful divination has confirmed that you're destined for greatness. This divination hints at a great potential you're only just beginning to understand.
  Select one card from the harrow deck and note its suit and alignment. The suit is connected to a specific ability score (hammers [Strength], keys [Dexterity], shields [Constitution], books [Intelligence], stars [Wisdom], crowns [Charisma]).
  Choose two ability boosts. One must be to the ability score tied to your card's suit and one is a free ability boost.

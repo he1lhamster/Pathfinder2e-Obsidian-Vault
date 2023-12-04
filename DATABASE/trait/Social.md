@@ -2,6 +2,7 @@
 id: '325'
 name: Social
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 trait:
 - Social
@@ -10,9 +11,9 @@ type: Trait
 ---
 # Social
 
-**Source** [[Advanced Player's Guide]] 
-Actions and abilities with the social trait can be used only while a [[Vigilante]] is in their social identity.
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+Actions and abilities with the social trait can be used only while a [[DATABASE/archetype/Vigilante|vigilante]] is in their social identity.
 
 ## Feats
 
-[[Minion Guise]]
+[[DATABASE/feat/Minion Guise|Minion Guise]]

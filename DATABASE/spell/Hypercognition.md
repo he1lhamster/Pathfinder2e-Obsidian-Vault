@@ -29,6 +29,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -44,9 +45,9 @@ type: Spell
 # Hypercognition<span class="item-type">Spell 3</span>
 
 <span class="item-trait">Divination</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** occult
-**Deities** [[Abraxas]], [[Bergelmir]], [[Casandalee]], [[Geryon]], [[Gruhastha]], [[Pillars of Knowledge]], [[Saloc]], [[Shei]], [[Zohls]]
+**Deities** [[DATABASE/deity/Abraxas|Abraxas]], [[DATABASE/deity/Bergelmir|Bergelmir]], [[DATABASE/deity/Casandalee|Casandalee]], [[DATABASE/deity/Geryon|Geryon]], [[DATABASE/deity/Gruhastha|Gruhastha]], [[DATABASE/deity/Pillars of Knowledge|Pillars of Knowledge]], [[DATABASE/deity/Saloc|Saloc]], [[DATABASE/deity/Shei|Shei]], [[DATABASE/deity/Zohls|Zohls]]
 **Cast** <span class="action-icon">1</span> verbal
 
 ---

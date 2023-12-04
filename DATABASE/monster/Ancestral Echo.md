@@ -81,24 +81,24 @@ wisdom: '+4'
 # Ancestral Echo
 
 This creature did not include a description.
-**Recall Knowledge - Spirit ([[Occultism]])**: DC 20
-**Recall Knowledge - Undead ([[Religion]])**: DC 20
+**Recall Knowledge - Spirit ([[DATABASE/skill/Occultism|Occultism]])**: DC 20
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 20
 **Unspecific Lore**: DC 18
 **Specific Lore**: DC 15
 
 # Ancestral Echo<span class="item-type">Creature 1</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">No Alignment</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Dwarf</span><span class="item-trait">Ghost</span><span class="item-trait">Incorporeal</span><span class="item-trait">Spirit</span><span class="item-trait">Undead</span>
-**Source** [[Pathfinder 193. Mantle of Gold]]
+**Source** [[DATABASE/source/Pathfinder 193. Mantle of Gold|Pathfinder #193: Mantle of Gold]]
 **Perception** +9; darkvision
-**Skills** [[Lore]] +7, [[Intimidation]] +6, [[Stealth]] +7
+**Skills** [[DATABASE/skill/Lore|Dwarf Lore]] +7, [[DATABASE/skill/Intimidation|Intimidation]] +6, [[DATABASE/skill/Stealth|Stealth]] +7
 **Str** -5, **Dex** +1, **Con** +2, **Int** +1, **Wis** +4, **Cha** +3
 **Riled by Disrespect** An ancestral echo gains a +1 status bonus to attack rolls and saving throw DCs against any creature that has not performed at least one task to beautify the site to which the echo is bound. This apples to any PC who didn't succeed at one or more skill checks to clean area D2.
 **Site Bound** The ancestral echo can't leave the upper crypt.
 
 ---
 **AC** 16; **Fort** +7, **Ref** +6, **Will** +9
-**HP** 15 (negative healing, rejuvenation); **Immunities** death effects, disease, paralyze, poison, precision, unconscious; **Resistances** **all damage 5 (except force, [[Ghost Touch]], or positive; double resistance vs. non-magical)
+**HP** 15 (negative healing, rejuvenation); **Immunities** death effects, disease, paralyze, poison, precision, unconscious; **Resistances** **all damage 5 (except force, [[DATABASE/equipment/Ghost Touch|ghost touch]], or positive; double resistance vs. non-magical)
 <span class="in-box-ability">**Rejuvenation** (necromancy, occult) Restoring the vandalized inscriptions and reciting their corrected stories ushers these spirits back to the afterlife.</span>
 
 ---

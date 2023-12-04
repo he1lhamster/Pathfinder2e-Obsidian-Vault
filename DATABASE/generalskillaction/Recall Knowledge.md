@@ -2,6 +2,7 @@
 id: '5'
 name: Recall Knowledge
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait: null
 type: General Skill Action
@@ -9,46 +10,42 @@ type: General Skill Action
 ---
 # Recall Knowledge (Untrained)
 
-**Source** [[Core Rulebook]] 
-To remember useful information on a topic, you can attempt to Recall Knowledge. You might know basic information about something without needing to attempt a check, but Recall Knowledge requires you to stop and think for a moment so you can recollect more specific facts and apply them. You might even need to spend time investigating first. For instance, to use Medicine to learn the cause of death, you might need to conduct a forensic examination before attempting to Recall Knowledge.<span>Item Bonuses for Recall Knowledge - Common Items</span>
-
-| Item                                                                               |   Bonus |   Level | Category         | Consumable?   | Note                                                                                                                                           |
-|:-----------------------------------------------------------------------------------|--------:|--------:|:-----------------|:--------------|:-----------------------------------------------------------------------------------------------------------------------------------------------|
-| [[Codex of Unimpeded Sight]] |       1 |      12 | Grimoires        | No            | —                                                                                                                                              |
-| [[Cinnamon Seers]]                               |       1 |       4 | Alchemical Food  | Yes           | Checks to Recall Knowledge                                                                                                                     |
-| [[Insight Coffee]]                      |       2 |       6 | Alchemical Food  | Yes           | Recall Knowledge with a skill determined by the blend chosen when the item is crafted (Religion, Nature, Arcana, Society, Occultism, Medicine) |
-| [[Artificer Spectacles]]                   |       3 |      17 | Other Worn Items | No            | —                                                                                                                                              |
-| [[Diadem of Intellect]]                     |       3 |      17 | Other Worn Items | No            | —                                                                                                                                              |
-| [[Whispering Staff]]                           |       3 |      20 | Staves           | No            | —                                                                                                                                              |
-| [[Insight Coffee]]                    |       3 |      12 | Alchemical Food  | Yes           | Recall Knowledge with a skill determined by the blend chosen when the item is crafted (Religion, Nature, Arcana, Society, Occultism, Medicine) |
-| [[Insight Coffee]]                     |       4 |      19 | Alchemical Food  | Yes           | Recall Knowledge with a skill determined by the blend chosen when the item is crafted (Religion, Nature, Arcana, Society, Occultism, Medicine) |
-
-<span>Item Bonuses for Recall Knowledge - Uncommon/Rare/Unique Items</span>
-
-| Item                                                                     |   Bonus |   Level | Category         | Consumable?   | Note                                                                                                  |
-|:-------------------------------------------------------------------------|--------:|--------:|:-----------------|:--------------|:------------------------------------------------------------------------------------------------------|
-| [[Scholarly Journal]]               |       1 |       3 | Adventuring Gear | No            | Recall Knowledge about the subject                                                                    |
-| [[Survey Map]]                             |       1 |       3 | Adventuring Gear | No            | Skill checks to Recall Knowledge, provided the checks are related to the location detailed on the map |
-| [[Survey Map]]                     |       1 |       3 | Adventuring Gear | No            | Skill checks to Recall Knowledge, provided the checks are related to the location detailed on the map |
-| [[Hoax-Hunter's Kit]]               |       1 |       3 | Adventuring Gear | No            | Recall Knowledge about a creature you are studying                                                    |
-| [[Watch of Lost Ages]]             |       1 |       3 | Relic Seeds      | No            | Recall Knowledge about historical subjects                                                            |
-| [[Exploration Lens]] |       1 |      12 | Held Items       | No            | Checks to Recall Knowledge while Investigating                                                        |
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+To remember useful information on a topic, you can attempt to Recall Knowledge. You might know basic information about something without needing to attempt a check, but Recall Knowledge requires you to stop and think for a moment so you can recollect more specific facts and apply them. You might even need to spend time investigating first. For instance, to use Medicine to learn the cause of death, you might need to conduct a forensic examination before attempting to Recall Knowledge.<span>Item Bonuses for Recall Knowledge - Common Items</span>| 0 | 1 | 2 | 3 | 4 | 5 |
+|:-----------------------------------------------------------------------------------|:------|:------|:-----------------|:------------|:-----------------------------------------------------------------------------------------------------------------------------------------------|
+| Item | Bonus | Level | Category | Consumable? | Note |
+| [[Codex of Unimpeded Sight]] | +1 | 12 | Grimoires | No | — |
+| [[Cinnamon Seers]] | +1 | 4 | Alchemical Food | Yes | Checks to Recall Knowledge |
+| [[Insight Coffee]] | +2 | 6 | Alchemical Food | Yes | Recall Knowledge with a skill determined by the blend chosen when the item is crafted (Religion, Nature, Arcana, Society, Occultism, Medicine) |
+| [[Artificer Spectacles]] | +3 | 17 | Other Worn Items | No | — |
+| [[Diadem of Intellect]] | +3 | 17 | Other Worn Items | No | — |
+| [[Whispering Staff]] | +3 | 20 | Staves | No | — |
+| [[Insight Coffee]] | +3 | 12 | Alchemical Food | Yes | Recall Knowledge with a skill determined by the blend chosen when the item is crafted (Religion, Nature, Arcana, Society, Occultism, Medicine) |
+| [[Insight Coffee]] | +4 | 19 | Alchemical Food | Yes | Recall Knowledge with a skill determined by the blend chosen when the item is crafted (Religion, Nature, Arcana, Society, Occultism, Medicine) |<span>Item Bonuses for Recall Knowledge - Uncommon/Rare/Unique Items</span>| 0 | 1 | 2 | 3 | 4 | 5 |
+|:-------------------------------------------------------------------------|:------|:------|:-----------------|:------------|:------------------------------------------------------------------------------------------------------|
+| Item | Bonus | Level | Category | Consumable? | Note |
+| [[Scholarly Journal]] | +1 | 3 | Adventuring Gear | No | Recall Knowledge about the subject |
+| [[Survey Map]] | +1 | 3 | Adventuring Gear | No | Skill checks to Recall Knowledge, provided the checks are related to the location detailed on the map |
+| [[Survey Map]] | +1 | 3 | Adventuring Gear | No | Skill checks to Recall Knowledge, provided the checks are related to the location detailed on the map |
+| [[Hoax-Hunter's Kit]] | +1 | 3 | Adventuring Gear | No | Recall Knowledge about a creature you are studying |
+| [[Watch of Lost Ages]] | +1 | 3 | Relic Seeds | No | Recall Knowledge about historical subjects |
+| [[Exploration Lens]] | +1 | 12 | Held Items | No | Checks to Recall Knowledge while Investigating |
 
 ## Skill Uses
 
-[[Arcana]] Recall Knowledge about arcane theories; magic traditions; creatures of arcane significance (like dragons and beasts); and the Elemental, Astral, and Shadow Planes.
-[[Crafting]] Recall Knowledge about alchemical reactions, the value of items, engineering, unusual materials, and alchemical or mechanical creatures. The GM determines which creatures this applies to, but it usually includes constructs.
-[[Lore]] Recall Knowledge about the subject of your Lore skill’s subcategory.
-[[Medicine]] Recall Knowledge about diseases, injuries, poisons, and other ailments. You can use this to perform forensic examinations if you spend 10 minutes (or more, as determined by the GM) checking for evidence such as wound patterns. This is most useful when determining how a body was injured or killed.
-[[Nature]] Recall Knowledge about fauna, flora, geography, weather, the environment, creatures of natural origin (like animals, beasts, fey, and plants), the First World, the Material Plane, and the Elemental Planes.
-[[Occultism]] Recall Knowledge about ancient mysteries; obscure philosophies; creatures of occult significance (like aberrations, spirits, and oozes); and the Positive Energy, Negative Energy, Shadow, Astral, and Ethereal Planes.
-[[Religion]] Recall Knowledge about divine agents, the finer points of theology, obscure myths regarding a faith, and creatures of religious significance (like celestials, fiends, and undead), the Outer Sphere, and the Positive and Negative Energy Planes.
-[[Society]] Recall Knowledge about local history, important personalities, legal institutions, societal structure, and humanoid cultures. The GM might allow Society to apply to other creatures that are major elements of society in your region, such as the draconic nobility in a kingdom of humans ruled by dragons.
+[[DATABASE/skill/Arcana|Arcana]] Recall Knowledge about arcane theories; magic traditions; creatures of arcane significance (like dragons and beasts); and the Elemental, Astral, and Shadow Planes.
+[[DATABASE/skill/Crafting|Crafting]] Recall Knowledge about alchemical reactions, the value of items, engineering, unusual materials, and alchemical or mechanical creatures. The GM determines which creatures this applies to, but it usually includes constructs.
+[[DATABASE/skill/Lore|Lore]] Recall Knowledge about the subject of your Lore skill’s subcategory.
+[[DATABASE/skill/Medicine|Medicine]] Recall Knowledge about diseases, injuries, poisons, and other ailments. You can use this to perform forensic examinations if you spend 10 minutes (or more, as determined by the GM) checking for evidence such as wound patterns. This is most useful when determining how a body was injured or killed.
+[[DATABASE/skill/Nature|Nature]] Recall Knowledge about fauna, flora, geography, weather, the environment, creatures of natural origin (like animals, beasts, fey, and plants), the First World, the Material Plane, and the Elemental Planes.
+[[DATABASE/skill/Occultism|Occultism]] Recall Knowledge about ancient mysteries; obscure philosophies; creatures of occult significance (like aberrations, spirits, and oozes); and the Positive Energy, Negative Energy, Shadow, Astral, and Ethereal Planes.
+[[DATABASE/skill/Religion|Religion]] Recall Knowledge about divine agents, the finer points of theology, obscure myths regarding a faith, and creatures of religious significance (like celestials, fiends, and undead), the Outer Sphere, and the Positive and Negative Energy Planes.
+[[DATABASE/skill/Society|Society]] Recall Knowledge about local history, important personalities, legal institutions, societal structure, and humanoid cultures. The GM might allow Society to apply to other creatures that are major elements of society in your region, such as the draconic nobility in a kingdom of humans ruled by dragons.
 
-## [[Recall Knowledge]] <span class="action-icon">1</span>
+## [[DATABASE/action/Recall Knowledge|Recall Knowledge]] <span class="action-icon">1</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Secret</span>
-**Source** [[Core Rulebook]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
 You attempt a skill check to try to remember a bit of knowledge regarding a topic related to that skill. The GM determines the DCs for such checks and which skills apply.

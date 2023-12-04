@@ -28,6 +28,7 @@ patron_theme: null
 range: 60 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -46,9 +47,9 @@ type: Spell
 # Hydraulic Push<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Attack</span><span class="item-trait">Evocation</span><span class="item-trait">Water</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, primal
-**Deities** [[Besmara]], [[Dagon]], [[Hanspur]], [[Lysianassa]], [[Ragadahn]], [[Sobek]]
+**Deities** [[DATABASE/deity/Besmara|Besmara]], [[DATABASE/deity/Dagon|Dagon]], [[DATABASE/deity/Hanspur|Hanspur]], [[DATABASE/deity/Lysianassa|Lysianassa]], [[DATABASE/deity/Ragadahn|Ragadahn]], [[DATABASE/deity/Sobek|Sobek]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 60 feet; **Targets** 1 creature or unattended object
 

@@ -11,6 +11,7 @@ name: Favorable Winds
 prerequisite: '[[DATABASE/feat/Virga May|Virga May]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -26,8 +27,8 @@ type: Feat
 # Favorable Winds <span class="action-icon">1</span> <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Air</span><span class="item-trait">Changeling</span><span class="item-trait">Concentrate</span><span class="item-trait">Occult</span>
-**Source** [[Ancestry Guide]] 
-**Prerequisites** [[Virga May]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
+**Prerequisites** [[DATABASE/feat/Virga May|Virga May]]
 
 ---
 You wrap a shell of favorable wind around a weapon you wield. On your next Strike with a ranged weapon before the start of your next turn, you don't take circumstance penalties on the attack roll due to wind. In addition, if that weapon has a range increment of 10 feet or less, increase its range increment by 10 feet for that Strike.
@@ -40,7 +41,7 @@ Effects with the air trait either manipulate or conjure air. Those that manipula
 
 **Changeling:**
 
-A creature with this trait has the changeling versatile heritage. Changelings are the children of [[Hag]] and members of other humanoid ancestries. An ability with this trait can be used or selected only by changelings.
+A creature with this trait has the changeling versatile heritage. Changelings are the children of [[DATABASE/monsterfamily/Hag|hags]] and members of other humanoid ancestries. An ability with this trait can be used or selected only by changelings.
 
 **Concentrate:**
 

@@ -11,6 +11,7 @@ name: Underwater Marauder
 prerequisite: Trained in [[DATABASE/skill/Athletics|Athletics]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: athletics
@@ -24,8 +25,8 @@ type: Feat
 # Underwater Marauder <span class="item-type">Feat 1</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** trained in [[Athletics]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** trained in [[DATABASE/skill/Athletics|Athletics]]
 
 ---
 You’ve learned to fight underwater. You are not flat-footed while in water, and you don’t take the usual penalties for using a bludgeoning or slashing melee weapon in water.

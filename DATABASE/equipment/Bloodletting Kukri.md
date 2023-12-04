@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 size: null
@@ -54,10 +55,10 @@ weapon_type: null
 # Bloodletting Kukri<span class="item-type">Item 6</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Magical</span><span class="item-trait">Necromancy</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 240 gp
 **Usage** held in 1 hand; **Bulk** L
-**Base Weapon** [[Kukri]]
+**Base Weapon** [[DATABASE/weapon/Kukri|Kukri]]
 
 ---
-This _+1 striking [[Kukri]]_ has a crimson blade that shimmers eerily in bright light. On a critical hit, the kukri deals 1d8 [[Persistent Damage]]. If the target didn’t already have persistent bleed damage when you scored the critical hit, you also gain 1d8 temporary Hit Points.
+This _+1 striking [[DATABASE/weapon/Kukri|kukri]]_ has a crimson blade that shimmers eerily in bright light. On a critical hit, the kukri deals 1d8 [[DATABASE/condition/Persistent Damage|persistent bleed damage]]. If the target didn’t already have persistent bleed damage when you scored the critical hit, you also gain 1d8 temporary Hit Points.

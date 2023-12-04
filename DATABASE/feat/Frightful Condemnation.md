@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Harsh Judgment|Harsh Judgment]] ; [[DATABASE/feat
   Dedication|Vigilante Dedication]] ; member of the Gray Gardeners'
 rarity: Common
 requirement: You have condemned a foe to death withHarsh Judgment.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Night of the Gray Death|Night of the Gray Death]]'
 subcategory: null
@@ -29,15 +30,15 @@ type: Feat
 # Frightful Condemnation <span class="action-icon">4</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Emotion</span><span class="item-trait">Fear</span><span class="item-trait">Mental</span><span class="item-trait">Vigilante</span>
-**Source** [[Night of the Gray Death]]
-**Archetype** [[Gray Gardener]]
-**Prerequisites** [[Harsh Judgment]]; [[Vigilante Dedication]]; member of the Gray Gardeners
-**Trigger** You hit your condemned foe with a melee Strike in the same turn during which you condemned it with [[Harsh Judgment]]
+**Source** [[DATABASE/source/Night of the Gray Death|Night of the Gray Death]]
+**Archetype** [[DATABASE/archetype/Gray Gardener|Gray Gardener]]
+**Prerequisites** [[DATABASE/feat/Harsh Judgment|Harsh Judgment]]; [[DATABASE/feat/Vigilante Dedication|Vigilante Dedication]]; member of the Gray Gardeners
+**Trigger** You hit your condemned foe with a melee Strike in the same turn during which you condemned it with [[DATABASE/feat/Harsh Judgment|Harsh Judgment.]]
 **Requirements** You have condemned a foe to death with
 Harsh Judgment.
 
 ---
-Your willingness to follow through on your pitiless judgment is frightful to the person you have condemned, and they begin to dread what you will do to them next. Your condemned foe is [[Frightened]] 1, or [[Frightened]] 2 if the triggering Strike was a critical hit.
+Your willingness to follow through on your pitiless judgment is frightful to the person you have condemned, and they begin to dread what you will do to them next. Your condemned foe is [[DATABASE/condition/Frightened|frightened]] 1, or [[DATABASE/condition/Frightened|frightened]] 2 if the triggering Strike was a critical hit.
 
 ## Traits
 
@@ -59,4 +60,4 @@ A mental effect can alter the target's mind. It has no effect on an object or a 
 
 **Vigilante:**
 
-Using actions and abilities with the vigilante trait while in your social identity risks exposing you as a [[Vigilante]].
+Using actions and abilities with the vigilante trait while in your social identity risks exposing you as a [[DATABASE/archetype/Vigilante|vigilante]].

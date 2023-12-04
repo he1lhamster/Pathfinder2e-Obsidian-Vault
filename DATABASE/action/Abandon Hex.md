@@ -7,6 +7,7 @@ id: '1371'
 name: Abandon Hex
 rarity: Common
 requirement: The hex to be abandoned must be controlled.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
@@ -19,7 +20,7 @@ type: Action
 # Abandon Hex
 
 <span class="item-trait">Downtime</span><span class="item-trait">Region</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 **Requirements** The hex to be abandoned must be controlled.
 
 ---

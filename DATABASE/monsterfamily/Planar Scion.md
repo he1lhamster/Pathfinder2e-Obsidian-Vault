@@ -3,6 +3,7 @@ creature_family: Planar Scion
 id: '81'
 name: Planar Scion
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,16 +11,16 @@ type: Creature Family
 ---
 # Planar Scion
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Many immortals dwell upon the other planes of the Great Beyond. Some are benevolent and kindly, like angels. Others are cruel and destructive, like demons. And some flt roles outside of morality, like psychopomps. It’s far from unheard of that mortals and immortals alike become entangled romantically, and the children of such engagements carry a supernatural element in their bloodlines for generations to follow. After the first generation, this otherworldly influence usually lies dormant, but now and then, the influence can manifest strongly in descendants many years later. These inheritors of extraplanar legacies are known collectively as planar scions.
 
 ### Members
 
-[[Aasimar]] (Creature 5), [[Aphorite]] (Creature 4), [[Duskwalker]] (Creature 4), [[Ganzi]] (Creature 3), [[Tiefling]] (Creature 3)
+[[DATABASE/monster/Aasimar|Aasimar Redeemer]] (Creature 5), [[DATABASE/monster/Aphorite|Aphorite Sharpshooter]] (Creature 4), [[DATABASE/monster/Duskwalker|Duskwalker Ghost Hunter]] (Creature 4), [[DATABASE/monster/Ganzi|Ganzi Martial Artist]] (Creature 3), [[DATABASE/monster/Tiefling|Tiefling Adept]] (Creature 3)
 
 ### Members
 
-[[Geniekin]]
+[[DATABASE/monsterfamily/Geniekin|Geniekin]]
 
 ###  Extraplanar Humanoids
 

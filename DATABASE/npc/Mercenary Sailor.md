@@ -66,24 +66,24 @@ wisdom: '+2'
 # Mercenary Sailor
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 20
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 20
 **Unspecific Lore**: DC 18
 **Specific Lore**: DC 15
 
 # Mercenary Sailor<span class="item-type">Creature 5</span>
 
 <span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 147. Tomorrow Must Burn]]
+**Source** [[DATABASE/source/Pathfinder 147. Tomorrow Must Burn|Pathfinder #147: Tomorrow Must Burn]]
 **Perception** +11
-**Languages** [[Common]]
-**Skills** [[Acrobatics]] +11, [[Athletics]] +13, [[Lore]] +13, [[Survival]] +11, [[Thievery]] +11
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +11, [[DATABASE/skill/Athletics|Athletics]] +13, [[DATABASE/skill/Lore|Sailing Lore]] +13, [[DATABASE/skill/Survival|Survival]] +11, [[DATABASE/skill/Thievery|Thievery]] +11
 **Str** +4, **Dex** +4, **Con** +3, **Int** +0, **Wis** +2, **Cha** -1
-**Items** [[Leather Armor]], [[Scimitar]], [[Shortbow]]
+**Items** [[DATABASE/armor/Leather Armor|leather armor]], [[DATABASE/weapon/Scimitar|scimitar]], [[DATABASE/weapon/Shortbow|shortbow (20 arrows)]]
 
 ---
 **AC** 22; **Fort** +12, **Ref** +15, **Will** +9
 **HP** 75
-<span class="in-box-ability">**Shipboard Grace** The mercenary sailor is not [[Flat-Footed]]</span><span class="in-box-ability">while [[Balance]] or [[Climb]] while on a watercraft.</span>
+<span class="in-box-ability">**Shipboard Grace** The mercenary sailor is not [[DATABASE/condition/Flat-Footed|flat-footed]]</span><span class="in-box-ability">while [[DATABASE/action/Balance|Balancing]] or [[DATABASE/action/Climb|Climbing]] while on a watercraft.</span>
 
 ---
 **Speed** 25 feet

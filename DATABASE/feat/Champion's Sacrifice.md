@@ -11,6 +11,7 @@ name: Champion's Sacrifice
 prerequisite: '[[DATABASE/championtenet/Good|tenets of good]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Champion's Sacrifice <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Champion</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Good]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/championtenet/Good|tenets of good]]
 
 ---
-You can suffer so that others might live. You can cast the [[Champion's Sacrifice]] devotion spell. Increase the number of Focus Points in your focus pool by 1.
+You can suffer so that others might live. You can cast the [[DATABASE/spell/Champion's Sacrifice|champion’s sacrifice]] devotion spell. Increase the number of Focus Points in your focus pool by 1.

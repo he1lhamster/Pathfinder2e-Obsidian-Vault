@@ -98,27 +98,27 @@ Rot and decay play a natural role in swamps of all climates, and latent magical 
  Like most oozes, rime sludges consist primarily of protoplasm, though theirs has a slushy consistency peppered with disgusting nuggets of indigestible matter, such as petrified wood, jagged arrowheads, and animal fossils. A rime sludge renews this protoplasm by consuming plants and animals and maintaining a careful balance of semifrozen decomposition in its mutable form.
  Rime sludges are among the few oozes that thrive in cold climates, as too much heat accelerates their natural decay. Rime sludges can't survive temperatures too far above freezing for more than a few days. Rising temperatures force them to migrate toward cooler climates or cold underground areas.
  Few intelligent creatures inhabiting cold climates want anything to do with rime sludges. These oozes can't be trained, tend to wander off at random, and emit a noxious stink at the slightest hint of warmth. Some inventive creatures try to trap rime sludges in pits to keep them contained and use them to dispose of prisoners or food scraps. Because of the oozes' overpowering stench, these pits tend to be quite deep.
-**Recall Knowledge - Ooze ([[Occultism]])**: DC 20
+**Recall Knowledge - Ooze ([[DATABASE/skill/Occultism|Occultism]])**: DC 20
 **Unspecific Lore**: DC 18
 **Specific Lore**: DC 15
 
 # Rime Sludge<span class="item-type">Creature 1</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Mindless</span><span class="item-trait">Ooze</span>
-**Source** [[Pathfinder 175. Broken Tusk Moon]]
+**Source** [[DATABASE/source/Pathfinder 175. Broken Tusk Moon|Pathfinder #175: Broken Tusk Moon]]
 **Perception** +4; motion sense 60 feet, no vision
-**Skills** [[Athletics]] +7
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +7
 **Str** +2, **Dex** -5, **Con** +2, **Int** -5, **Wis** +1, **Cha** -5
 **Motion Sense** A rime sludge can sense nearby motion through vibration and air movement.
 
 ---
 **AC** 8; **Fort** +7, **Ref** +2, **Will** +4
-**HP** 38; **Immunities** cold, critical hits, mental, poison, precision, [[Unconscious]], visual; **Weaknesses** fire 2
-<span class="in-box-ability">**Noxious Sublimation** The first time each round that the rime sludge takes fire damage, a cloud of sickening decay roils outward, dealing 2d6 poison damage (DC 17 basic Fortitude save) to all creatures in a 10-foot emanation. A creature that fails its saving throw is also [[Sickened]] (or sickened 3 on a critical failure).</span>
+**HP** 38; **Immunities** cold, critical hits, mental, poison, precision, [[DATABASE/condition/Unconscious|unconscious]], visual; **Weaknesses** fire 2
+<span class="in-box-ability">**Noxious Sublimation** The first time each round that the rime sludge takes fire damage, a cloud of sickening decay roils outward, dealing 2d6 poison damage (DC 17 basic Fortitude save) to all creatures in a 10-foot emanation. A creature that fails its saving throw is also [[DATABASE/condition/Sickened|sickened 1]] (or sickened 3 on a critical failure).</span>
 
 ---
 **Speed** 10 feet, swim 10 feet; slushy undulation
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> pseudopod +9 [+4/-1], **Damage** 1d4+2 bludgeoning plus 1d4 poison</span><span class="in-box-ability">**Slushy Undulation** A rime sludge ignores difficult terrain and greater difficult terrain from ice and snow and doesn't risk falling [[Prone]] when crossing ice.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> pseudopod +9 [+4/-1], **Damage** 1d4+2 bludgeoning plus 1d4 poison</span><span class="in-box-ability">**Slushy Undulation** A rime sludge ignores difficult terrain and greater difficult terrain from ice and snow and doesn't risk falling [[DATABASE/condition/Prone|prone]] when crossing ice.</span>
 
 ###  Frozen in Time
 

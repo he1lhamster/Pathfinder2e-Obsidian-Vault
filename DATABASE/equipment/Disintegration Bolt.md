@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -55,11 +56,11 @@ weapon_type: null
 # Disintegration Bolt<span class="item-type">Item 15</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Consumable</span><span class="item-trait">Evocation</span><span class="item-trait">Magical</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 1,300 gp
-**Ammunition** [[Bolts]]; **Bulk** —
+**Ammunition** [[DATABASE/weapon/Bolts|bolt]]; **Bulk** —
 **Activate** <span class="action-icon">1</span> Interact
 
 ---
-The shaft of this bolt is scorched and blackened, and handling it coats your fingers with a fine black powder. When an activated _disintegration bolt_ hits a target, it is subject to a [[Disintegrate]] spell requiring a DC 34 Fortitude save. As with the spell, a critical hit on the attack roll causes the target’s saving throw outcome to be one degree worse.
+The shaft of this bolt is scorched and blackened, and handling it coats your fingers with a fine black powder. When an activated _disintegration bolt_ hits a target, it is subject to a [[DATABASE/spell/Disintegrate|disintegrate]] spell requiring a DC 34 Fortitude save. As with the spell, a critical hit on the attack roll causes the target’s saving throw outcome to be one degree worse.
 **Craft Requirements** Supply one casting of _disintegrate_.

@@ -22,6 +22,7 @@ patron_theme: null
 range: touch
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
@@ -41,7 +42,7 @@ type: Spell
 # Life Pact<span class="item-type">Spell 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Healing</span><span class="item-trait">Necromancy</span>
-**Source** [[Knights of Lastwall]]
+**Source** [[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]
 **Access** Knights of Lastwall have access to this spell.
 **Traditions** divine, occult, primal
 **Cast** 1 minute (material, somatic, verbal)

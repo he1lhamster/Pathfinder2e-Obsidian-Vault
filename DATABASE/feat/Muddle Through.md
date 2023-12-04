@@ -11,6 +11,7 @@ name: Muddle Through
 prerequisite: Trained in [[DATABASE/skill/Wilderness|Wilderness]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Muddle Through <span class="item-type">Feat 1</span>
 
 <span class="item-trait">General</span><span class="item-trait">Kingdom</span>
-**Source** [[Kingmaker Adventure Path]]
-**Prerequisites** trained in [[Wilderness]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
+**Prerequisites** trained in [[DATABASE/skill/Wilderness|Wilderness]]
 
 ---
 Your people are independent-minded and take care of the small things around the kingdom, not letting them pile up into bigger problems. Increase two of your Ruin thresholds by 1 and one of them by 2.

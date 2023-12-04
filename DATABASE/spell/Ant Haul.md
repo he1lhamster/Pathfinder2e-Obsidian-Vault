@@ -28,6 +28,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -44,9 +45,9 @@ type: Spell
 # Ant Haul<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Transmutation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, primal
-**Deities** [[Aakriti]], [[Balumbdar]], [[Droskar]], [[Dwarven Pantheon]], [[Hearth and Harvest]], [[Kurgess]]
+**Deities** [[DATABASE/deity/Aakriti|Aakriti]], [[DATABASE/deity/Balumbdar|Balumbdar]], [[DATABASE/deity/Droskar|Droskar]], [[DATABASE/deity/Dwarven Pantheon|Dwarven Pantheon]], [[DATABASE/deity/Hearth and Harvest|Hearth and Harvest]], [[DATABASE/deity/Kurgess|Kurgess]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** touch; **Targets** 1 creature
 **Duration** 8 hours

@@ -2,6 +2,7 @@
 id: '207'
 name: Wake the Dead 2
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -15,16 +16,16 @@ type: Source
 
 ## Backgrounds [1]
 
-[[Quick Refugee]]
+[[DATABASE/background/Quick Refugee|Quick Refugee]]
 
 ## Feats [2]
 
-[[Eye of the Arclords]], [[Ki Cutting Sight]]
+[[DATABASE/feat/Eye of the Arclords|Eye of the Arclords]], [[DATABASE/feat/Ki Cutting Sight|Ki Cutting Sight]]
 
 ## Rituals [1]
 
-[[Unseen Heralds]]
+[[DATABASE/ritual/Unseen Heralds|Unseen Heralds]]
 
 ## Spells [1]
 
-[[Ki Cutting Sight]]
+[[DATABASE/spell/Ki Cutting Sight|Ki Cutting Sight]]

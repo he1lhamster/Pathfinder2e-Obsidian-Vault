@@ -101,17 +101,17 @@ In their natural forms, doppelgangers are humanoid creatures with flesh of indet
  Doppelgangers are careful and patient creatures. They are willing to slowly construct elaborate schemes that may require extended periods of time—even decades—to yield results.
  Doppelgangers often work alone, as they don’t trust potential cohorts not to ruin their plans. There are rare times when doppelgangers might reveal secrets to high-ranking individuals to ensure a successful infiltration. When they do work with others, it’s because they’ve taken the shape of a target group’s leader, unbeknownst to the organization’s members.
  Doppelgangers can grow in power by learning skills and abilities, and often make excellent rogues, spellcasters, or fighters. A doppelganger that has class abilities can often effectively infiltrate and plague an adventuring group as a powerful antagonist—but using a doppelganger like this in your game should be handled with care (see the Infiltrating a Party sidebar above for more information).
-**Recall Knowledge - Humanoid ([[Society]])**: DC 20
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 20
 **Unspecific Lore**: DC 18
 **Specific Lore**: DC 15
 
 # Doppelganger<span class="item-type">Creature 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Humanoid</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +7; darkvision
-**Languages** [[Common]]; two other languages
-**Skills** [[Deception]] +11, [[Diplomacy]] +11, [[Society]] +8, [[Stealth]] +8
+**Languages** [[DATABASE/language/Common|Common]]; two other languages
+**Skills** [[DATABASE/skill/Deception|Deception]] +11, [[DATABASE/skill/Diplomacy|Diplomacy]] +11, [[DATABASE/skill/Society|Society]] +8, [[DATABASE/skill/Stealth|Stealth]] +8
 **Str** +3, **Dex** +3, **Con** +0, **Int** +1, **Wis** +2, **Cha** +4
 
 ---
@@ -121,8 +121,8 @@ In their natural forms, doppelgangers are humanoid creatures with flesh of indet
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +10 [+6/+2] (agile), **Damage** 2d6+5 slashing</span>**Arcane Innate Spells** DC 21; **3rd** _[[Mind Reading]]_ (at will)
-<span class="in-box-ability">**[[Change Shape]]** <span class="action-icon">1</span> (arcane, concentrate, polymorph, transmutation) The doppelganger takes on the specific appearance of any Small or Medium humanoid who it has seen and whose appearance it remembers. This doesn’t change the doppelganger’s Speed or its attack and damage bonuses with its Strikes but might change the damage type its Strikes deal (typically to bludgeoning).</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +10 [+6/+2] (agile), **Damage** 2d6+5 slashing</span>**Arcane Innate Spells** DC 21; **3rd** _[[DATABASE/spell/Mind Reading|mind reading]]_ (at will)
+<span class="in-box-ability">**[[DATABASE/monsterability/Change Shape|Change Shape]]** <span class="action-icon">1</span> (arcane, concentrate, polymorph, transmutation) The doppelganger takes on the specific appearance of any Small or Medium humanoid who it has seen and whose appearance it remembers. This doesn’t change the doppelganger’s Speed or its attack and damage bonuses with its Strikes but might change the damage type its Strikes deal (typically to bludgeoning).</span>
 
 ###  Infiltrating a Party
 

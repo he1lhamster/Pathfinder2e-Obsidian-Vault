@@ -78,26 +78,26 @@ wisdom: '+3'
 # Graveknight
 
 Graveknights are undead warriors granted unlife by a cursed suit of armor.
-**Recall Knowledge - Undead ([[Religion]])**: DC 27
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 27
 **Unspecific Lore**: DC 25
 **Specific Lore**: DC 22
 
 # Graveknight<span class="item-type">Creature 10</span>
 
 <span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Undead</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +19; darkvision
-**Languages** [[Common]], [[Necril]]
-**Skills** [[Athletics]] +23, [[Intimidation]] +22, [[Religion]] +19, [[Lore]] +20
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Necril|Necril]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +23, [[DATABASE/skill/Intimidation|Intimidation]] +22, [[DATABASE/skill/Religion|Religion]] +19, [[DATABASE/skill/Lore|Warfare Lore]] +20
 **Str** +7, **Dex** +4, **Con** +4, **Int** +2, **Wis** +3, **Cha** +5
-**Items** _+1 [[Resilient]] [[Full Plate]]_, [[Composite Longbow]], [[Greatsword]]
+**Items** _+1 [[DATABASE/equipment/Resilient|resilient]] [[DATABASE/armor/Full Plate|full plate]]_, [[DATABASE/weapon/Composite Longbow|composite longbow (20 arrows)]], [[DATABASE/weapon/Greatsword|greatsword]]
 
 ---
 **AC** 31; **Fort** +21, **Ref** +19, **Will** +18
-**HP** 175 ([[Negative Healing]], rejuvenation); **Immunities** cold, death, disease, paralyzed, poison, unconscious
+**HP** 175 ([[DATABASE/monsterability/Negative Healing|negative healing]], rejuvenation); **Immunities** cold, death, disease, paralyzed, poison, unconscious
 <span class="in-box-ability">**Sacrilegious Aura** (abjuration, aura, divine, evil) 30 feet. When a creature in the aura uses a positive spell or ability, the graveknight automatically attempts to counteract it, with a +17 counteract modifier.</span><span class="in-box-ability"> **Attack of Opportunity** <span class="action-icon">5</span> </span>
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _frost greatsword_ +24 [+19/+14] (cold, magical, versatile P), **Damage** 2d12+10 slashing plus 1d6 cold</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +23 [+19/+15] (agile, cold), **Damage** 2d6+10 bludgeoning plus 1d6 cold</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _frost composite longbow_ +21 [+16/+11] (cold, deadly 1d10, magical, range increment 100 feet, reload 0, volley 30 feet), **Damage** 2d8+6 piercing plus 1d6 cold</span><span class="in-box-ability">**Devastating Blast** <span class="action-icon">2</span> (arcane, cold, evocation) The graveknight unleashes a 30-foot cone of energy. Creatures in the area take 6d12 cold damage (DC 29 basic Reflex save). The graveknight can use this ability once every 1d4 rounds.</span><span class="in-box-ability">**Graveknight's Curse** This curse affects anyone who wears a graveknight’s armor for at least 1 hour. **Saving Throw** DC 33 Will save; **Onset** 1 hour; **Stage 1** doomed 1 and cannot remove the armor (1 day); **Stage 2** doomed 2, hampered 10, and cannot remove the armor (1 day); **Stage 3** dies and transforms into the armor’s graveknight.</span><span class="in-box-ability">**Phantom Mount** <span class="action-icon">3</span> (arcane, conjuration) The graveknight summons a supernatural mount as per [[Phantom Steed]], heightened to a level equal to half the graveknight's level. Unlike _phantom steed_, the steed's AC and saving throw bonuses are all 4 lower than the graveknight's, and the steed has one-third the graveknight's Hit Points (rounded down). If the steed is destroyed, the graveknight must wait 1 hour before using this ability again. 
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _frost greatsword_ +24 [+19/+14] (cold, magical, versatile P), **Damage** 2d12+10 slashing plus 1d6 cold</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +23 [+19/+15] (agile, cold), **Damage** 2d6+10 bludgeoning plus 1d6 cold</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _frost composite longbow_ +21 [+16/+11] (cold, deadly 1d10, magical, range increment 100 feet, reload 0, volley 30 feet), **Damage** 2d8+6 piercing plus 1d6 cold</span><span class="in-box-ability">**Devastating Blast** <span class="action-icon">2</span> (arcane, cold, evocation) The graveknight unleashes a 30-foot cone of energy. Creatures in the area take 6d12 cold damage (DC 29 basic Reflex save). The graveknight can use this ability once every 1d4 rounds.</span><span class="in-box-ability">**Graveknight's Curse** This curse affects anyone who wears a graveknight’s armor for at least 1 hour. **Saving Throw** DC 33 Will save; **Onset** 1 hour; **Stage 1** doomed 1 and cannot remove the armor (1 day); **Stage 2** doomed 2, hampered 10, and cannot remove the armor (1 day); **Stage 3** dies and transforms into the armor’s graveknight.</span><span class="in-box-ability">**Phantom Mount** <span class="action-icon">3</span> (arcane, conjuration) The graveknight summons a supernatural mount as per [[DATABASE/spell/Phantom Steed|phantom steed]], heightened to a level equal to half the graveknight's level. Unlike _phantom steed_, the steed's AC and saving throw bonuses are all 4 lower than the graveknight's, and the steed has one-third the graveknight's Hit Points (rounded down). If the steed is destroyed, the graveknight must wait 1 hour before using this ability again. 
 HP 58; AC 27, Fort +17, Ref +15, Will +14.</span><span class="in-box-ability">**Weapon Master** The graveknight has access to the critical specialization effects of any weapons it wields.</span>

@@ -12,6 +12,7 @@ name: Scourge
 price: 1 sp
 range: null
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 trait:
 - '[[DATABASE/trait/Agile|Agile]]'
@@ -28,10 +29,10 @@ weapon_type: Melee
 # Scourge
 
 <span class="item-trait">Agile</span><span class="item-trait">Disarm</span><span class="item-trait">Finesse</span><span class="item-trait">Nonlethal</span><span class="item-trait">Sweep</span>
-**Source** [[Character Guide]] 
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
 **Price** 1 sp; **Damage** 1d4 S; **Bulk** 1
 **Hands** 1
-**Type** Melee; **Category** Martial; **Group** [[Flail]]
+**Type** Melee; **Category** Martial; **Group** [[DATABASE/weapongroup/Flail|Flail]]
 
 ---
 A scourge—also known as a cat-o’-nine-tails—is a set of several knotted cords made from cotton or leather and attached to a handle. While most scourges are more suitable for torture than combat, the weapons used by the Order of the Scourge have metal barbs woven in to pierce clothing and armor. The scourge is a martial melee weapon.
@@ -44,7 +45,7 @@ The multiple attack penalty you take with this weapon on the second attack on yo
 
 **Disarm:**
 
-You can use this weapon to [[Disarm]] with the [[Athletics]] skill even if you don't have a free hand. This uses the weapon's reach (if different from your own) and adds the weapon's item bonus to attack rolls (if any) as an item bonus to the Athletics check. If you critically fail a check to Disarm using the weapon, you can drop the weapon to take the effects of a failure instead of a critical failure. On a critical success, you still need a free hand if you want to take the item.
+You can use this weapon to [[DATABASE/action/Disarm|Disarm]] with the [[DATABASE/skill/Athletics|Athletics]] skill even if you don't have a free hand. This uses the weapon's reach (if different from your own) and adds the weapon's item bonus to attack rolls (if any) as an item bonus to the Athletics check. If you critically fail a check to Disarm using the weapon, you can drop the weapon to take the effects of a failure instead of a critical failure. On a critical success, you still need a free hand if you want to take the item.
 
 **Finesse:**
 
@@ -60,6 +61,6 @@ This weapon makes wide sweeping or spinning attacks, making it easier to attack 
 
 ## Critical Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
-**Flail**: The target is knocked [[Prone]].
+**Flail**: The target is knocked [[DATABASE/condition/Prone|prone]].

@@ -11,6 +11,7 @@ name: Glacial Prison
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -29,12 +30,12 @@ type: Feat
 # Glacial Prison <span class="action-icon">2</span> <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Cold</span><span class="item-trait">Impulse</span><span class="item-trait">Incapacitation</span><span class="item-trait">Kineticist</span><span class="item-trait">Overflow</span><span class="item-trait">Primal</span><span class="item-trait">Water</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
 Intense cold swirls around your foe, covering it in frost that slows it down and turns its body to ice. Target a creature you can observe within 120 feet. It must attempt a Fortitude save against your class DC. The creature is then temporarily immune for 24 hours.
 **Critical Success** The target is unaffected.
-**Success** The target is [[Slowed]] until the end of its next turn.
+**Success** The target is [[DATABASE/condition/Slowed|slowed 1]] until the end of its next turn.
 **Failure** The target is frozen solid. It can't act, its AC is 9, it has Hardness 5, and it's immune to other cold effects, critical hits, and precision damage. This lasts until the end of your next turn, but if the target is affected by a hostile action, this effect ends immediately after that action.
 **Critical Failure** As failure, but after becoming unfrozen, the creature is slowed 1 until the end of its next turn.
 
@@ -54,7 +55,7 @@ An ability with this trait can take a character completely out of the fight or e
 
 **Overflow:**
 
-Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
+Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[DATABASE/action/Channel Elements|Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
 
 **Primal:**
 

@@ -148,22 +148,22 @@ _With a twinkle in her eye and a laugh always at the ready, this middle-aged hal
 ## Campaign Use
 
 As the head of the Bellflower Network in Kintargo, Nolly Peltry is deeply concerned about the Scarlet Triad. In the short time that the slavers have begun operating in Kintargo, she has tried to flush out their agents, to no avail. When the PCs encounter Nolly on Kite Hill, she is an immediate ally against the Scarlet Triad, particularly if the PCs are willing to help her in sending messages. She is willing and able to fight with the PCs and, at the GM's discretion, might accompany them in this and future adventures.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 38
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 38
 **Unspecific Lore**: DC 36
 **Specific Lore**: DC 33
 
-## Elite | [[Nolly Peltry]] | Weak
+## Elite | [[DATABASE/npc/Nolly Peltry|Normal]] | Weak
 Proficiency without Level
 
 # Nolly Peltry<span class="item-type">Creature 11</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CG</span><span class="trait-size item-trait">Small</span><span class="item-trait">Halfling</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 147. Tomorrow Must Burn]]
+**Source** [[DATABASE/source/Pathfinder 147. Tomorrow Must Burn|Pathfinder #147: Tomorrow Must Burn]]
 **Perception** +21
-**Languages** [[Common]], [[Elven]], [[Halfling]], [[Infernal]]
-**Skills** [[Acrobatics]] +22, [[Athletics]] +19, [[Deception]] +20, [[Diplomacy]] +18, [[Society]] +22, [[Stealth]] +22, [[Thievery]] +20
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Elven|Elven]], [[DATABASE/language/Halfling|Halfling]], [[DATABASE/language/Infernal|Infernal]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +22, [[DATABASE/skill/Athletics|Athletics]] +19, [[DATABASE/skill/Deception|Deception]] +20, [[DATABASE/skill/Diplomacy|Diplomacy]] +18, [[DATABASE/skill/Society|Society]] +22, [[DATABASE/skill/Stealth|Stealth]] +22, [[DATABASE/skill/Thievery|Thievery]] +20
 **Str** +2, **Dex** +5, **Con** +1, **Int** +1, **Wis** +4, **Cha** +3
-**Items** _+1 [[Leather Armor]]_, _Nolly's hoe_ _(+1 [[Anarchic]] [[Striking]] [[Halfling Sling Staff]]_; 10 bullets), [[Dagger]], [[Thieves' Tools]]
+**Items** _+1 [[DATABASE/armor/Leather Armor|leather armor]]_, _Nolly's hoe_ _(+1 [[DATABASE/equipment/Anarchic|anarchic]] [[DATABASE/equipment/Striking|striking]] [[DATABASE/weapon/Halfling Sling Staff|halfling sling staff]]_; 10 bullets), [[DATABASE/weapon/Dagger|dagger (2)]], [[DATABASE/equipment/Thieves' Tools|infiltrator thieves' tools]]
 
 ---
 **AC** 31; **Fort** +18, **Ref** +24, **Will** +21
@@ -172,5 +172,5 @@ Proficiency without Level
 
 ---
 **Speed** 25 feet; quick movements
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> dagger +22 [+18/+14] (agile, finesse, versatile S), **Damage** 1d4+8 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _Nolly's hoe_ +23 [+18/+13] (magical, propulsive, range increment 80 feet, reload 1), **Damage** 2d10+7 bludgeoning plus 1d6 chaotic</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> dagger +22 [+18/+14] (agile, thrown 10 feet, versatile S), **Damage** 1d4+8 piercing</span><span class="in-box-ability">**Designate Bellflower Crop** <span class="action-icon">3</span> Nolly designates an ally within 30 feet as a member of her Bellflower crop. Nolly can have up to 10 members in her crop at once; any member added in excess of this number automatically removes a crop member of Nolly's choice. When Nolly or a member of her crop [[Aid]] a crop member and rolls a success, they get a critical success to Aid instead.
- When a crop member within 60 feet of Nolly fails a saving throw against an effect that would impose the [[Confused]] or [[Paralyzed]] condition, the crop member can use a reaction to reroll the saving throw and use the better of the two results. This is a fortune effect.</span><span class="in-box-ability">**Liberating Trick** <span class="action-icon">2</span> Nolly frees herself or a creature within her reach from the [[Grabbed]] condition.</span><span class="in-box-ability">**Quick Movements** Nolly doesn't trigger reactions with her movement or with any use of the [[Thievery]] skill.</span><span class="in-box-ability">**[[Sneak Attack]]** (precision) Nolly deals an extra 3d6 precision damage to [[Flat-Footed]] creatures.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> dagger +22 [+18/+14] (agile, finesse, versatile S), **Damage** 1d4+8 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _Nolly's hoe_ +23 [+18/+13] (magical, propulsive, range increment 80 feet, reload 1), **Damage** 2d10+7 bludgeoning plus 1d6 chaotic</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> dagger +22 [+18/+14] (agile, thrown 10 feet, versatile S), **Damage** 1d4+8 piercing</span><span class="in-box-ability">**Designate Bellflower Crop** <span class="action-icon">3</span> Nolly designates an ally within 30 feet as a member of her Bellflower crop. Nolly can have up to 10 members in her crop at once; any member added in excess of this number automatically removes a crop member of Nolly's choice. When Nolly or a member of her crop [[DATABASE/action/Aid|Aids]] a crop member and rolls a success, they get a critical success to Aid instead.
+ When a crop member within 60 feet of Nolly fails a saving throw against an effect that would impose the [[DATABASE/condition/Confused|confused]] or [[DATABASE/condition/Paralyzed|paralyzed]] condition, the crop member can use a reaction to reroll the saving throw and use the better of the two results. This is a fortune effect.</span><span class="in-box-ability">**Liberating Trick** <span class="action-icon">2</span> Nolly frees herself or a creature within her reach from the [[DATABASE/condition/Grabbed|grabbed]] condition.</span><span class="in-box-ability">**Quick Movements** Nolly doesn't trigger reactions with her movement or with any use of the [[DATABASE/skill/Thievery|Thievery]] skill.</span><span class="in-box-ability">**[[DATABASE/monsterability/Sneak Attack|Sneak Attack]]** (precision) Nolly deals an extra 3d6 precision damage to [[DATABASE/condition/Flat-Footed|flat-footed]] creatures.</span>

@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -52,7 +53,7 @@ weapon_type: null
 # Armor Latches<span class="item-type">Item 1</span>
 
 <span class="item-trait">Adjustment</span>
-**Source** [[Treasure Vault]] , [[The Mwangi Expanse]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] , [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]] 
 **Price** 4 gp
 **Usage** applied to armor; **Bulk** —
 

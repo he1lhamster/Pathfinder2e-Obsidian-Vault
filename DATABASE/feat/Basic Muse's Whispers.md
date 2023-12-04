@@ -11,6 +11,7 @@ name: Basic Muse's Whispers
 prerequisite: '[[DATABASE/feat/Bard Dedication|Bard Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,16 +24,16 @@ type: Feat
 # Basic Muse's Whispers <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Bard]]
-**Prerequisites** [[Bard Dedication]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Bard|Bard]]
+**Prerequisites** [[DATABASE/feat/Bard Dedication|Bard Dedication]]
 
 ---
 You gain a 1st- or 2nd-level bard feat.
 
 ## Basic Muse's Whispers Leads To...
 
-[[Advanced Muse's Whispers]]
+[[DATABASE/feat/Advanced Muse's Whispers|Advanced Muse's Whispers]]
 
 ## Traits
 

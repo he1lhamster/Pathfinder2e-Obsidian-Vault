@@ -83,30 +83,30 @@ wisdom: '+3'
 # Mpondo
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 44
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 44
 **Unspecific Lore**: DC 42
 **Specific Lore**: DC 39
 
 # Mpondo<span class="item-type">Creature 15</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">LN</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 173. Doorway to the Red Star]]
-Male [[Human]] guardian
+**Source** [[DATABASE/source/Pathfinder 173. Doorway to the Red Star|Pathfinder #173: Doorway to the Red Star]]
+Male [[DATABASE/ancestry/Human|human]] guardian
 **Perception** +26; Iobane vision
-**Languages** [[Common]], [[Draconic]], [[Necril]]
-**Skills** [[Arcana]] +29, [[Athletics]] +28, [[Diplomacy]] +23, [[Religion]] +24, [[Stealth]] +27
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Necril|Necril]]
+**Skills** [[DATABASE/skill/Arcana|Arcana]] +29, [[DATABASE/skill/Athletics|Athletics]] +28, [[DATABASE/skill/Diplomacy|Diplomacy]] +23, [[DATABASE/skill/Religion|Religion]] +24, [[DATABASE/skill/Stealth|Stealth]] +27
 **Str** +5, **Dex** +2, **Con** +2, **Int** +6, **Wis** +3, **Cha** +0
-**Items** _+2 [[Striking]] [[Bastard Sword]]_, _+2 [[Striking]] [[Spear]]_, [[Chain Shirt]], [[Dragonhide Shield]] (Hardness 5, HP 20, BT 10; immune to acid), signal horn
+**Items** _+2 [[DATABASE/equipment/Striking|greater striking]] [[DATABASE/weapon/Bastard Sword|bastard sword]]_, _+2 [[DATABASE/equipment/Striking|striking]] [[DATABASE/weapon/Spear|spear]]_, [[DATABASE/armor/Chain Shirt|chain shirt]], [[DATABASE/equipment/Dragonhide Shield|high-grade black dragonhide buckler]] (Hardness 5, HP 20, BT 10; immune to acid), signal horn
 
 ---
 **AC** 37; **Fort** +25, **Ref** +23, **Will** +27
 **HP** 285
-<span class="in-box-ability">**[[Attack of Opportunity]] <span class="action-icon">5</span> ** </span>
+<span class="in-box-ability">**[[DATABASE/monsterability/Attack of Opportunity|Attack of Opportunity]] <span class="action-icon">5</span> ** </span>
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _bastard sword_ +30 [+25/+20] (magical, two-hand d12), **Damage** 3d8+13 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> _spear_ +30 [+25/+20] (magical), **Damage** 2d6+13 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _spear_ +27 [+22/+17] (magical, thrown 20 feet), **Damage** 2d6+13 piercing</span>**Arcane Prepared Spells** DC 37, attack +28; **8th** _[[Maze]]_, _[[Polar Ray]]_; **7th** _[[Dimensional Lock]]_, _[[Spell Turning]]_; **4th** _[[Dimension Door]]_, _[[True Strike]]_; **Cantrips** **(8th)** _[[Chill Touch]]_, _[[Daze]]_, _[[Detect Magic]]_, _[[Electric Arc]]_, _[[Produce Flame]]_
-**Magus Conflux Spells** 2 Focus Points; **8th** _[[Dimensional Assault]]_, _[[Hasted Assault]]_
-**Rituals**; **8th** _[[Rite of the Red Star]]_
-<span class="in-box-ability">**Iobane Vision** (fortune) Warder-Chief Mpondo can see [[Invisible]] creatures and objects as though they are [[Concealed]]. When he [[Seek]] or [[Sense Motive]], he can roll twice and take the higher result.</span><span class="in-box-ability">**Spellstrike** <span class="action-icon">2</span> **Frequency** Until recharged; **Effect** Warder-Chief Mpondo Casts a Spell that takes 1 or 2 actions to cast and requires a spell attack roll. The effects of the spell do not occur immediately but are imbued into the attack instead. Mpondo makes a melee Strike. The spell is coupled with the attack, using the attack roll result to determine the effects of both the Strike and the spell. This counts as two attacks for Mpondo's multiple attack penalty, but don't apply the penalty until after he has completed the Spellstrike.
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _bastard sword_ +30 [+25/+20] (magical, two-hand d12), **Damage** 3d8+13 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> _spear_ +30 [+25/+20] (magical), **Damage** 2d6+13 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _spear_ +27 [+22/+17] (magical, thrown 20 feet), **Damage** 2d6+13 piercing</span>**Arcane Prepared Spells** DC 37, attack +28; **8th** _[[DATABASE/spell/Maze|maze]]_, _[[DATABASE/spell/Polar Ray|polar ray]]_; **7th** _[[DATABASE/spell/Dimensional Lock|dimensional lock]]_, _[[DATABASE/spell/Spell Turning|spell turning]]_; **4th** _[[DATABASE/spell/Dimension Door|dimension door]]_, _[[DATABASE/spell/True Strike|true strike]]_; **Cantrips** **(8th)** _[[DATABASE/spell/Chill Touch|chill touch]]_, _[[DATABASE/spell/Daze|daze]]_, _[[DATABASE/spell/Detect Magic|detect magic]]_, _[[DATABASE/spell/Electric Arc|electric arc]]_, _[[DATABASE/spell/Produce Flame|produce flame]]_
+**Magus Conflux Spells** 2 Focus Points; **8th** _[[DATABASE/spell/Dimensional Assault|dimensional assault]]_, _[[DATABASE/spell/Hasted Assault|hasted assault]]_
+**Rituals**; **8th** _[[DATABASE/ritual/Rite of the Red Star|rite of the red star]]_
+<span class="in-box-ability">**Iobane Vision** (fortune) Warder-Chief Mpondo can see [[DATABASE/condition/Invisible|invisible]] creatures and objects as though they are [[DATABASE/condition/Concealed|concealed]]. When he [[DATABASE/action/Seek|Seeks]] or [[DATABASE/action/Sense Motive|Senses Motive]], he can roll twice and take the higher result.</span><span class="in-box-ability">**Spellstrike** <span class="action-icon">2</span> **Frequency** Until recharged; **Effect** Warder-Chief Mpondo Casts a Spell that takes 1 or 2 actions to cast and requires a spell attack roll. The effects of the spell do not occur immediately but are imbued into the attack instead. Mpondo makes a melee Strike. The spell is coupled with the attack, using the attack roll result to determine the effects of both the Strike and the spell. This counts as two attacks for Mpondo's multiple attack penalty, but don't apply the penalty until after he has completed the Spellstrike.
  After Mpondo uses Spellstrike, he can't do so again until he recharges his Spellstrike as a single action, which has the concentrate trait. Mpondo also recharges his Spellstrike when he casts a conflux spell.</span>

@@ -11,6 +11,7 @@ name: Tiger Stance
 prerequisite: null
 rarity: Common
 requirement: You are unarmored.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Tiger Stance <span class="action-icon">1</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Monk</span><span class="item-trait">Stance</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Martial Artist]]*
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Martial Artist|Martial Artist]]*
 **Requirements** You are unarmored.
 * This archetype offers Tiger Stance at a different level than displayed here.
 
@@ -39,7 +40,7 @@ This feat can be used for one or more Archetypes in addition to the listed Class
 
 ## Tiger Stance Leads To...
 
-[[Tiger Slash]]
+[[DATABASE/feat/Tiger Slash|Tiger Slash]]
 
 ## Traits
 

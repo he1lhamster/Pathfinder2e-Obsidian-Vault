@@ -12,6 +12,7 @@ prerequisite: Expert in [[DATABASE/skill/Athletics|Athletics]] ; [[DATABASE/feat
   Agent Dedication|Pathfinder Agent Dedication]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 subcategory: null
@@ -25,13 +26,13 @@ type: Feat
 # Forced Entry <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Skill</span>
-**Source** [[Character Guide]] 
-**Archetype** [[Pathfinder Agent]]
-**Prerequisites** expert in [[Athletics]]; [[Pathfinder Agent Dedication]]
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
+**Archetype** [[DATABASE/archetype/Pathfinder Agent|Pathfinder Agent]]
+**Prerequisites** expert in [[DATABASE/skill/Athletics|Athletics]]; [[DATABASE/feat/Pathfinder Agent Dedication|Pathfinder Agent Dedication]]
 **Access** A character who is a member of the Pathfinder Society has access to this option.
 
 ---
-You are trained to preserve the archaeological value of your location when entering. You don’t take a penalty to [[Force Open]] doors, windows, or containers without a crowbar. If you roll a success on a check to Force Open, you get a critical success instead.
+You are trained to preserve the archaeological value of your location when entering. You don’t take a penalty to [[DATABASE/action/Force Open|Force Open]] doors, windows, or containers without a crowbar. If you roll a success on a check to Force Open, you get a critical success instead.
 
 ## Traits
 

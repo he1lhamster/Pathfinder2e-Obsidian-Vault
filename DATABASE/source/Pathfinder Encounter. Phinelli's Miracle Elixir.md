@@ -2,6 +2,7 @@
 id: '80'
 name: Pathfinder Encounter. Phinelli's Miracle Elixir
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -15,4 +16,4 @@ type: Source
 
 ## NPCs [1]
 
-[[Edolpho Phinelli]]
+[[DATABASE/npc/Edolpho Phinelli|Edolpho Phinelli]]

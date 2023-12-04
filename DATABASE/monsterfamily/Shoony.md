@@ -3,6 +3,7 @@ creature_family: Shoony
 id: '121'
 name: Shoony
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 153. Life''s Long Shadows|Pathfinder #153: Life''s
   Long Shadows]]'
 trait: null
@@ -11,13 +12,13 @@ type: Creature Family
 ---
 # Shoony
 
-**Source** [[Pathfinder 153. Life's Long Shadows]]
+**Source** [[DATABASE/source/Pathfinder 153. Life's Long Shadows|Pathfinder #153: Life's Long Shadows]]
 Shoonies are reclusive humanoids who resemble bipedal dogs with wrinkled faces and bulging eyes. They predominantly dwell in the grasslands and hilly plains of the Isle of Kortos. Shoony societies on Kortos are known for their agricultural prowess, industrious work ethic, and skill with tools to shape their environment.
  Shoonies have a rich oral history and claim that their kind flourished all around Kortos in the days when the living god Aroden walked among them. Many shoonies believe that Aroden himself personally created the shoonies after he raised the island from the bottom of the sea, and that he had a deep affinity for their people. Whether or not such tales of companionship with the god of humanity are true, shoonies have drastically declined in numbers since Aroden’s death over a hundred years ago. Shoony elders point to strange environmental phenomena around their island home as one cause of their diminishment, and others attribute their decline to the rise of warmongering monsters in the area. In a world where might often makes right, it is hardly a surprise that the peaceful but timid shoonies are becoming increasingly rare.
 
 ### Members
 
-[[Shoony Hierarch]] (Creature 4), [[Shoony Militia Member]] (Creature 2), [[Shoony Tiller]] (Creature 0)
+[[DATABASE/monster/Shoony Hierarch|Shoony Hierarch]] (Creature 4), [[DATABASE/monster/Shoony Militia Member|Shoony Militia Member]] (Creature 2), [[DATABASE/monster/Shoony Tiller|Shoony Tiller]] (Creature 0)
 
 ###  Resources
 

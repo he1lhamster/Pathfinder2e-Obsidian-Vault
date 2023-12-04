@@ -97,23 +97,23 @@ wisdom: '+2'
 
 The fickle finger of fate has quashed hundreds of fledgling adventurers, sometimes in a particularly memorable or ignominious manner. When a number of would-be heroes perish together in such a way, their restless spirits might arise—spurred by jealousy—to become a fortune eater. A fortune eater is a collective entity that might lurk near fortune tellers, taverns, or Pathfinder Society lodges where adventurers are likely to pass through. The spirit then follows the heroes on their quests until the right moment, when the spirit manifests their unfortunate abilities to get the party killed and potentially add them to the collective. Sometimes they linger near the lairs of a powerful monster, waiting for parties of unwary adventurers.
  A fortune eater lingers because of unfinished business: to move on, they must help a hero defeat a great threat or acquire a legendary item. Ironically, their jealousy, rage, and powers of bad luck make this extremely unlikely.
-**Recall Knowledge - Spirit ([[Occultism]])**: DC 28
-**Recall Knowledge - Undead ([[Religion]])**: DC 28
+**Recall Knowledge - Spirit ([[DATABASE/skill/Occultism|Occultism]])**: DC 28
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 28
 **Unspecific Lore**: DC 26
 **Specific Lore**: DC 23
 
 # Fortune Eater<span class="item-type">Creature 7</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Incorporeal</span><span class="item-trait">Spirit</span><span class="item-trait">Undead</span>
-**Source** [[Bestiary 3]]
-**Perception** +13; [[Darkvision]]
-**Languages** languages spoken by the adventurers (typically [[Common]], [[Dwarven]], [[Elven]], and Goblin)
-**Skills** [[Deception]] +15, [[Intimidation]] +13, [[Performance]] +15, [[Stealth]] +15
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
+**Perception** +13; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** languages spoken by the adventurers (typically [[DATABASE/language/Common|Common]], [[DATABASE/language/Dwarven|Dwarven]], [[DATABASE/language/Elven|Elven]], and Goblin)
+**Skills** [[DATABASE/skill/Deception|Deception]] +15, [[DATABASE/skill/Intimidation|Intimidation]] +13, [[DATABASE/skill/Performance|Performance]] +15, [[DATABASE/skill/Stealth|Stealth]] +15
 **Str** -5, **Dex** +6, **Con** +0, **Int** +2, **Wis** +2, **Cha** +4
 
 ---
 **AC** 25; **Fort** +15, **Ref** +17, **Will** +13
-**HP** 100 ([[Negative Healing]], rejuvenation); **Immunities** death effects, disease, [[Paralyzed]], poison, precision, [[Unconscious]]; **Resistances** all damage 5 (except force, [[Ghost Touch]], or positive; double resistance against non-magical)
+**HP** 100 ([[DATABASE/monsterability/Negative Healing|negative healing]], rejuvenation); **Immunities** death effects, disease, [[DATABASE/condition/Paralyzed|paralyzed]], poison, precision, [[DATABASE/condition/Unconscious|unconscious]]; **Resistances** all damage 5 (except force, [[DATABASE/equipment/Ghost Touch|ghost touch]], or positive; double resistance against non-magical)
 <span class="in-box-ability">**Rejuvenation** (divine, necromancy) Offering the fortune eater a chance to be instrumental in completing a heroic deed releases their component spirits to move on to the afterlife.</span><span class="in-box-ability">**Unluck Aura** (aura, divination, divine, mental, misfortune) 20 feet. A creature entering the area must attempt a DC 23 Will save, rolling the save twice and using the worse result. On a successful save, the creature is temporarily immune to fortune eater unluck auras for 24 hours. On a failure, the creature must roll twice and use the worse result on all checks as long as it is within the aura.</span><span class="in-box-ability">**Luck Osmosis <span class="action-icon">5</span> ** (divination, divine) **Trigger** A creature affected by the fortune eater's unluck aura has just rolled two d20s for a check and taken the lower result; **Effect** The fortune-eater stores the higher of the two numbers rolled and uses that number in place of their next d20 roll; this is a fortune effect. They can have only one number stored at a time.</span>
 
 ---

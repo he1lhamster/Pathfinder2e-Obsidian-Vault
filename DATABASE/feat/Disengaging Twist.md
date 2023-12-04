@@ -11,6 +11,7 @@ name: Disengaging Twist
 prerequisite: '[[DATABASE/feat/Wrestler Dedication|Wrestler Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
 subcategory: null
@@ -24,13 +25,13 @@ type: Feat
 # Disengaging Twist <span class="action-icon">5</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Grand Bazaar]]
-**Archetype** [[Wrestler]]
-**Prerequisites** [[Wrestler Dedication]]
-**Trigger** A creature gives you the [[Grabbed]] or [[Restrained]] condition.
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
+**Archetype** [[DATABASE/archetype/Wrestler|Wrestler]]
+**Prerequisites** [[DATABASE/feat/Wrestler Dedication|Wrestler Dedication]]
+**Trigger** A creature gives you the [[DATABASE/condition/Grabbed|grabbed]] or [[DATABASE/condition/Restrained|restrained]] condition.
 
 ---
-Your ability to twist your opponents' bodies into painful locks and holds makes you particularly adept at escaping such predicaments. Attempt an [[Athletics]] check to [[Escape]] the triggering condition. You gain a +2 circumstance bonus to this check.
+Your ability to twist your opponents' bodies into painful locks and holds makes you particularly adept at escaping such predicaments. Attempt an [[DATABASE/skill/Athletics|Athletics]] check to [[DATABASE/action/Escape|Escape]] the triggering condition. You gain a +2 circumstance bonus to this check.
 
 ## Traits
 

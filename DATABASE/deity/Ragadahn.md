@@ -23,6 +23,7 @@ follower_alignment:
 id: '99'
 name: Ragadahn
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Occultism|Occultism]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -32,7 +33,7 @@ type: Deity
 ---
 # Ragadahn (The Water Lord) [CE]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 As boastful as he is bestial, Ragadahn the Water Lord is the Eldest of oceans, linnorms, and sinuous spirals. He appears as a great serpentine dragon in the First World’s seas, but he is widely traveled and takes other forms as needed to pursue both martial conquests and amorous affairs. He is widely believed to be the progenitor of all linnorms, and he claims to be the progenitor of all dragons. True dragons stridently contest this assertion, although they wisely decline to do so when in Ragadahn’s majestic presence. Failure to deliver proper respect to the arrogant Ragadahn invites his legendary ire, and no supplicant can ever be too flattering for his tastes. Yet for all his tempestuous nature, he is wise, and he holds much otherwise lost and forgotten knowledge.
 **Category** Eldest
 **Edicts** Draw spirals, seek primordial secrets, use poison, always carry water
@@ -42,9 +43,9 @@ As boastful as he is bestial, Ragadahn the Water Lord is the Eldest of oceans, l
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Strength or Wisdom
-**Divine Font** _[[Harm]]_ or _[[Heal]]_
-**Divine Skill** [[Occultism]]
-**Favored Weapon** [[Whip]]
-**Domains** [[Destruction Domain]], [[Vigil Domain]], [[Water Domain]], [[Wyrmkin Domain]]
-**Cleric Spells** 1st: _[[Hydraulic Push]]_, 3rd: _[[Feet to Fins]]_, 6th: _[[Purple Worm Sting]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Strength or Wisdom
+**Divine Font** _[[DATABASE/spell/Harm|harm]]_ or _[[DATABASE/spell/Heal|heal]]_
+**Divine Skill** [[DATABASE/skill/Occultism|Occultism]]
+**Favored Weapon** [[DATABASE/weapon/Whip|whip]]
+**Domains** [[DATABASE/domain/Destruction Domain|destruction]], [[DATABASE/domain/Vigil Domain|vigil]], [[DATABASE/domain/Water Domain|water]], [[DATABASE/domain/Wyrmkin Domain|wyrmkin]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Hydraulic Push|hydraulic push]]_, 3rd: _[[DATABASE/spell/Feet to Fins|feet to fins]]_, 6th: _[[DATABASE/spell/Purple Worm Sting|purple worm sting]]_

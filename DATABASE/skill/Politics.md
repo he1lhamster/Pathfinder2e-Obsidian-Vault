@@ -4,6 +4,7 @@ ability_boost: null
 id: '28'
 name: Politics
 rarity: Common
+rus_type_level: null
 skill:
 - Politics
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
@@ -13,13 +14,13 @@ type: Skill
 ---
 # Politics (Loyalty)
 
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 Politics measures a kingdom’s embrace of civic life of all kinds, from deeply rooted local traditions to cosmopolitan cross-cultural connections. It also reflects the importance of the citizenry’s shared values, whether they are dedicated to freedom and justice or to more unsavory ethics.
 
-* **[[Establish Settlement]]**
-* **[[Focused Attention]]**
-* **[[New Leadership]]**
-* **[[Quell Unrest]]**
+* **[[DATABASE/generalskillaction/Establish Settlement|Establish Settlement]]**
+* **[[DATABASE/generalskillaction/Focused Attention|Focused Attention]]**
+* **[[DATABASE/generalskillaction/New Leadership|New Leadership]]**
+* **[[DATABASE/generalskillaction/Quell Unrest|Quell Unrest]]**
 
 ### Related Feats
 
@@ -27,10 +28,10 @@ To see a list of Feats related to Politics, click here.
 
 # Politics Untrained Actions
 
-## [[Improve Lifestyle]]
+## [[DATABASE/action/Improve Lifestyle|Improve Lifestyle]]
 
 <span class="item-trait">Commerce</span><span class="item-trait">Downtime</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 
 ---
 Attempt a basic check to draw upon your kingdom's treasury to enhance the quality of life for your citizens. This activity can be taken only during the Commerce phase of a Kingdom turn (page 538).

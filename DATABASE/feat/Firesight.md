@@ -11,6 +11,7 @@ name: Firesight
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,13 +24,13 @@ type: Feat
 # Firesight <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Ifrit</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-You can see through the haze of flame. You automatically succeed at the flat check to target a [[Concealed]] creature if that creature is concealed only by smoke and fire.
+You can see through the haze of flame. You automatically succeed at the flat check to target a [[DATABASE/condition/Concealed|concealed]] creature if that creature is concealed only by smoke and fire.
 
 ## Traits
 
 **Ifrit:**
 
-Ifrits are planar scions descended from [[Efreeti]].
+Ifrits are planar scions descended from [[DATABASE/monster/Efreeti|efreet]].

@@ -11,6 +11,7 @@ name: Lightning Dash
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -30,7 +31,7 @@ type: Feat
 # Lightning Dash <span class="action-icon">2</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Air</span><span class="item-trait">Electricity</span><span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Move</span><span class="item-trait">Overflow</span><span class="item-trait">Polymorph</span><span class="item-trait">Primal</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
 For an instant, you transform yourself into a being of pure lightning and fly forward, shocking anyone in your way. You propel yourself forward in a 30-foot line. You can move through creatures during this movement, and this movement doesn't trigger reactions that are triggered by movement. Each creature you move through takes 2d12 electricity damage with a basic Reflex save against your class DC. You return to your normal form in the final square of the line. If you're in the air, you fall unless you have a fly Speed.
@@ -58,7 +59,7 @@ An action with this trait involves moving from one space to another.
 
 **Overflow:**
 
-Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
+Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[DATABASE/action/Channel Elements|Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
 
 **Polymorph:**
 

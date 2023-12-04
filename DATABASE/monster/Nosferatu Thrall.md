@@ -71,23 +71,23 @@ wisdom: '+2'
 # Nosferatu Thrall
 
 Nosferatu thralls are mortals bound to a nosferatu's will. While thralls aren't undead, they stay alive through unnatural means: feeding on the blood of their masters.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 26
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 26
 **Unspecific Lore**: DC 24
 **Specific Lore**: DC 21
 
 # Nosferatu Thrall<span class="item-type">Creature 8</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Bestiary 3]]
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
 **Perception** +16
-**Languages** [[Common]]
-**Skills** [[Acrobatics]] +13, [[Athletics]] +14, [[Deception]] +15, [[Religion]] +14
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +13, [[DATABASE/skill/Athletics|Athletics]] +14, [[DATABASE/skill/Deception|Deception]] +15, [[DATABASE/skill/Religion|Religion]] +14
 **Str** +4, **Dex** +3, **Con** +2, **Int** +2, **Wis** +2, **Cha** +1
-**Items** _+1 [[Striking]] [[Greatclub]]_
+**Items** _+1 [[DATABASE/equipment/Striking|striking]] [[DATABASE/weapon/Greatclub|greatclub]]_
 
 ---
 **AC** 27; **Fort** +16, **Ref** +17, **Will** +14
-**HP** 135 ([[Fast Healing]] 5); **Weaknesses** mental 10
+**HP** 135 ([[DATABASE/monsterability/Fast Healing|fast healing]] 5); **Weaknesses** mental 10
 <span class="in-box-ability">**Mindbound** </span><span class="in-box-ability">**Mortal Shield <span class="action-icon">5</span> ** </span><span class="in-box-ability">**Rally <span class="action-icon">5</span> ** </span>
 
 ---

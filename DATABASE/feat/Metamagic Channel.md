@@ -11,6 +11,7 @@ name: Metamagic Channel
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,10 +25,10 @@ type: Feat
 # Metamagic Channel <span class="action-icon">4</span> <span class="item-type">Feat 20</span>
 
 <span class="item-trait">Cleric</span><span class="item-trait">Concentrate</span>
-**Source** [[Core Rulebook]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
-Deep understanding of divine revelations into the nature of vital essence allows you to freely manipulate the effects of your positive or negative energy. Use 1 metamagic action that you can perform that normally takes 1 action and can be applied to the [[Harm]] or [[Heal]] spell. If you use it in this way, its effects apply only to a _harm_ or _heal_ spell.
+Deep understanding of divine revelations into the nature of vital essence allows you to freely manipulate the effects of your positive or negative energy. Use 1 metamagic action that you can perform that normally takes 1 action and can be applied to the [[DATABASE/spell/Harm|harm]] or [[DATABASE/spell/Heal|heal]] spell. If you use it in this way, its effects apply only to a _harm_ or _heal_ spell.
 
 ## Traits
 

@@ -77,24 +77,24 @@ wisdom: '+0'
 # Azarketi Explorer
 
 This rakish azarketi explores the wrecks and ruins of the Inner Sea's coasts. At home above and below the waves, they fight to protect their discoveries, their life, and their reputation.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 16
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
 # Azarketi Explorer<span class="item-type">Creature 2</span>
 
 <span class="trait-alignment item-trait">CN</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Amphibious</span><span class="item-trait">Azarketi</span><span class="item-trait">Humanoid</span>
-**Source** [[Bestiary 3]]
-**Perception** +8; [[Low-Light Vision]]
-**Languages** [[Alghollthu]], [[Azlanti]], [[Common]]
-**Skills** [[Acrobatics]] +5, [[Athletics]] +8 (+10 to [[Swim]]), [[Deception]] +7, [[Diplomacy]] +7, [[Intimidation]] +7, [[Nature]] +4, [[Society]] +4
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
+**Perception** +8; [[DATABASE/monsterability/Low-Light Vision|low-light vision]]
+**Languages** [[DATABASE/language/Alghollthu|Alghollthu]], [[DATABASE/language/Azlanti|Azlanti]], [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +5, [[DATABASE/skill/Athletics|Athletics]] +8 (+10 to [[DATABASE/action/Swim|Swim]]), [[DATABASE/skill/Deception|Deception]] +7, [[DATABASE/skill/Diplomacy|Diplomacy]] +7, [[DATABASE/skill/Intimidation|Intimidation]] +7, [[DATABASE/skill/Nature|Nature]] +4, [[DATABASE/skill/Society|Society]] +4
 **Str** +4, **Dex** +1, **Con** +2, **Int** +0, **Wis** +0, **Cha** +3
-**Items** [[Dagger]], [[Trident]]
+**Items** [[DATABASE/weapon/Dagger|dagger]], [[DATABASE/weapon/Trident|trident]]
 
 ---
 **AC** 18 (19 with hydraulic deflection); **Fort** +10, **Ref** +7, **Will** +6
 **HP** 30
-<span class="in-box-ability">**[[Attack of Opportunity]] <span class="action-icon">5</span> ** </span><span class="in-box-ability">**Hydration** An azarketi must regularly submerge themself in water to rehydrate their water-acclimated skin. After the first 24 hours outside of water, they take a –1 status penalty to Fortitude saves as their skin cracks and their gills become painful. After 48 hours, they struggle to breathe air and begin to suffocate until returned to water.</span>
+<span class="in-box-ability">**[[DATABASE/monsterability/Attack of Opportunity|Attack of Opportunity]] <span class="action-icon">5</span> ** </span><span class="in-box-ability">**Hydration** An azarketi must regularly submerge themself in water to rehydrate their water-acclimated skin. After the first 24 hours outside of water, they take a –1 status penalty to Fortitude saves as their skin cracks and their gills become painful. After 48 hours, they struggle to breathe air and begin to suffocate until returned to water.</span>
 
 ---
 **Speed** 20 feet, swim 30 feet

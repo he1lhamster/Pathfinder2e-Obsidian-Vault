@@ -11,6 +11,7 @@ name: Esteemed Visitor
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 153. Life''s Long Shadows|Pathfinder #153: Life''s
   Long Shadows]]'
@@ -24,13 +25,11 @@ type: Feat
 # Esteemed Visitor <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Shoony</span>
-**Source** [[Pathfinder 153. Life's Long Shadows]]
+**Source** [[DATABASE/source/Pathfinder 153. Life's Long Shadows|Pathfinder #153: Life's Long Shadows]]
 
 ---
-Your polite manners and natural ability to comfort others make it easy for you to break down cultural barriers and earn strangers’ trust. While you are in a settlement, when you roll a critical failure on a [[Diplomacy]] check to [[Gather Information]] or [[Make an Impression]], you get a failure instead.
+Your polite manners and natural ability to comfort others make it easy for you to break down cultural barriers and earn strangers’ trust. While you are in a settlement, when you roll a critical failure on a [[DATABASE/skill/Diplomacy|Diplomacy]] check to [[DATABASE/action/Gather Information|Gather Information]] or [[DATABASE/action/Make an Impression|Make an Impression]], you get a failure instead.
 
 ## Traits
 
 **Shoony:**
-
-_Note from Nethys: no description was provided for this trait_

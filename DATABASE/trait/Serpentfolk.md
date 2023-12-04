@@ -2,6 +2,7 @@
 id: '307'
 name: Serpentfolk
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 trait:
 - Serpentfolk
@@ -10,9 +11,9 @@ type: Trait
 ---
 # Serpentfolk
 
-**Source** [[Bestiary 2]] 
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
 Serpentfolk are a family of serpentine humanoids.
 
 ## Monsters
 
-[[Aapoph Serpentfolk]], [[Bone Prophet]], [[Coil Spy]], [[Serpentfolk Granitescale]], [[Venom Caller]], [[Zyss Serpentfolk]]
+[[DATABASE/monster/Aapoph Serpentfolk|Aapoph Serpentfolk]], [[DATABASE/monster/Bone Prophet|Bone Prophet]], [[DATABASE/monster/Coil Spy|Coil Spy]], [[DATABASE/monster/Serpentfolk Granitescale|Serpentfolk Granitescale]], [[DATABASE/monster/Venom Caller|Serpentfolk Venom Caller]], [[DATABASE/monster/Zyss Serpentfolk|Zyss Serpentfolk]]

@@ -2,6 +2,7 @@
 id: '58'
 name: GM's Toolbox. Gravehall
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -15,4 +16,4 @@ type: Source
 
 ## Hazards [1]
 
-[[Gravehall Trap]]
+[[DATABASE/hazard/Gravehall Trap|Gravehall Trap]]

@@ -6,6 +6,7 @@ ability_boost:
 id: '15'
 name: Stealth
 rarity: Common
+rus_type_level: null
 skill:
 - Stealth
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -15,61 +16,57 @@ type: Skill
 ---
 # Stealth (Dex)
 
-**Source** [[Core Rulebook]] 
-You are skilled at avoiding detection, allowing you to slip past foes, hide, or conceal an item.<span>Item Bonuses for Stealth - Common Items</span>
-
-| Item                                                                      |   Bonus |   Level | Category             | Consumable?   | Note                                                                    |
-|:--------------------------------------------------------------------------|--------:|--------:|:---------------------|:--------------|:------------------------------------------------------------------------|
-| [[Doll]]                       |       1 |       2 | Adventuring Gear     | No            | Stealth checks to Conceal an Item                                       |
-| [[Concealed Sheath]]                  |       1 |       3 | Adventuring Gear     | No            | Stealth checks and DCs to hide or conceal the item within               |
-| [[Wildwood Ink]]                          |       1 |       4 | Tattoos              | No            | Stealth check bonus increases in forests                                |
-| [[Shadow]]                                      |       1 |       5 | Armor Property Runes | No            | —                                                                       |
-| [[Druid's Crown]]                        |       1 |       6 | Other Worn Items     | No            | —                                                                       |
-| [[Vaultbreaker's Harness]]      |       1 |       6 | Other Worn Items     | No            | —                                                                       |
-| [[Cloak of Elvenkind]]              |       1 |       7 | Other Worn Items     | No            | —                                                                       |
-| [[Quicksilver Mutagen]]   |       1 |       1 | Alchemical Elixirs   | Yes           | —                                                                       |
-| [[Phantom Roll]]                          |       1 |       4 | Alchemical Food      | Yes           | Stealth checks you attempt during the Avoid Notice exploration activity |
-| [[Shadow]]                            |       2 |       9 | Armor Property Runes | No            | —                                                                       |
-| [[Wildwood Ink]]                |       2 |      10 | Tattoos              | No            | Stealth check bonus increases in forests                                |
-| [[Electric Eelskin]]                  |       2 |      10 | Specific Magic Armor | No            | Stealth checks you attempt underwater                                   |
-| [[Cloak of the Bat]]                  |       2 |      10 | Other Worn Items     | No            | —                                                                       |
-| [[Cloak of Elvenkind]]    |       2 |      12 | Other Worn Items     | No            | —                                                                       |
-| [[Quicksilver Mutagen]] |       2 |       3 | Alchemical Elixirs   | Yes           | —                                                                       |
-| [[Shrinking Potion]]        |       2 |       8 | Potions              | Yes           | —                                                                       |
-| [[Cloak of the Bat]]        |       3 |      17 | Other Worn Items     | No            | —                                                                       |
-| [[Shadow]]                              |       3 |      17 | Armor Property Runes | No            | —                                                                       |
-| [[Wildwood Ink]]                  |       3 |      17 | Tattoos              | No            | Stealth check bonus increases in forests                                |
-| [[Mercurial Mantle]]                  |       3 |      18 | Other Worn Items     | No            | —                                                                       |
-| [[Shadowmist Cape]]                    |       3 |      19 | Other Worn Items     | No            | —                                                                       |
-| [[Quicksilver Mutagen]]  |       3 |      11 | Alchemical Elixirs   | Yes           | —                                                                       |
-| [[Quicksilver Mutagen]]    |       4 |      17 | Alchemical Elixirs   | Yes           | —                                                                       |
-
-<span>Item Bonuses for Stealth - Uncommon/Rare/Unique Items</span>
-
-| Item                                                                 |   Bonus |   Level | Category               | Consumable?   | Note                                                                                                   |
-|:---------------------------------------------------------------------|--------:|--------:|:-----------------------|:--------------|:-------------------------------------------------------------------------------------------------------|
-| [[Subtle Armor]]                     |       1 |       1 | Adjustments            | No            | Stealth checks to Conceal an Object to hide the nature of the armor                                    |
-| [[Privacy Ward Fulu]] |       1 |       1 | Fulu                   | No            | Stealth checks against creatures outside the affected room                                             |
-| [[Concealed Holster]]           |       1 |       3 | Adventuring Gear       | No            | Stealth checks and DCs to hide or conceal a firearm or hand crossbow in this holster                   |
-| [[Camouflage Suit]]               |       1 |       3 | Adventuring Gear       | No            | Stealth checks while you attempt to Hide or Sneak in the specific environment it has been prepared for |
-| [[Pickpocket's Tailoring]] |       1 |       4 | Adventuring Gear       | No            | Stealth checks to Conceal an Object of light Bulk or less in the pockets                               |
-| [[Thieves' Tools]]     |       1 |       4 | Adventuring Gear       | No            | Stealth checks to Conceal these tools                                                                  |
-| [[Privacy Ward Fulu]]    |       1 |       5 | Fulu                   | No            | Stealth checks against creatures outside the affected room                                             |
-| [[Ring of the Tiger]]          |       1 |       5 | Other Worn Items       | No            | Stealth checks made in outdoor wilderness areas                                                        |
-| [[Clandestine Cloak]]           |       1 |       6 | Other Worn Items       | No            | —                                                                                                      |
-| [[Gloaming Arc]]                     |       1 |      11 | Specific Magic Weapons | No            | +1 bonus, +2 if upgraded to _+3 weapon potency rune_                                                   |
-| [[Shadewither Key]]               |       1 |      22 | Other Worn Items       | No            | —                                                                                                      |
-| [[Lastwall Soup]]                   |       2 |       1 | Alchemical Elixirs     | No            | Stealth checks and DCs against undead                                                                  |
-| [[Camouflage Suit]]      |       2 |       9 | Adventuring Gear       | No            | Stealth checks while you attempt to Hide or Sneak in the specific environment it has been prepared for |
-| [[Privacy Ward Fulu]] |       2 |       9 | Fulu                   | No            | Stealth checks against creatures outside the affected room                                             |
-| [[Ring of the Tiger]] |       2 |      10 | Other Worn Items       | No            | Stealth checks made in outdoor wilderness areas                                                        |
-| [[Clandestine Cloak]] |       2 |      10 | Other Worn Items       | No            | —                                                                                                      |
-| [[The Snakebite]]                   |       2 |      20 | The Deck of Destiny    | No            | Stealth checks for initiative (+3 at 17th level)                                                       |
-| [[The Demon's Lantern]]       |       2 |      20 | The Deck of Destiny    | No            | checks made to Conceal an Object (+3 at 17th level).                                                   |
-| [[Scour]]                                   |       2 |       8 | Drugs                  | Yes           | —                                                                                                      |
-| [[Cowl of Keys]]                     |       3 |      17 | Other Worn Items       | No            | —                                                                                                      |
-| [[Silhouette Cloak]]             |       3 |      20 | Other Worn Items       | No            | Stealth checks in dim light or darkness                                                                |
-| [[Scale of Igroon]]               |       3 |      21 | Artifacts              | No            | Stealth checks to Hide and Sneak                                                                       |
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+You are skilled at avoiding detection, allowing you to slip past foes, hide, or conceal an item.<span>Item Bonuses for Stealth - Common Items</span>| 0 | 1 | 2 | 3 | 4 | 5 |
+|:--------------------------------------------------------------------------|:------|:------|:---------------------|:------------|:------------------------------------------------------------------------|
+| Item | Bonus | Level | Category | Consumable? | Note |
+| [[Doll]] | +1 | 2 | Adventuring Gear | No | Stealth checks to Conceal an Item |
+| [[Concealed Sheath]] | +1 | 3 | Adventuring Gear | No | Stealth checks and DCs to hide or conceal the item within |
+| [[Wildwood Ink]] | +1 | 4 | Tattoos | No | Stealth check bonus increases in forests |
+| [[Shadow]] | +1 | 5 | Armor Property Runes | No | — |
+| [[Druid's Crown]] | +1 | 6 | Other Worn Items | No | — |
+| [[Vaultbreaker's Harness]] | +1 | 6 | Other Worn Items | No | — |
+| [[Cloak of Elvenkind]] | +1 | 7 | Other Worn Items | No | — |
+| [[Quicksilver Mutagen]] | +1 | 1 | Alchemical Elixirs | Yes | — |
+| [[Phantom Roll]] | +1 | 4 | Alchemical Food | Yes | Stealth checks you attempt during the Avoid Notice exploration activity |
+| [[Shadow]] | +2 | 9 | Armor Property Runes | No | — |
+| [[Wildwood Ink]] | +2 | 10 | Tattoos | No | Stealth check bonus increases in forests |
+| [[Electric Eelskin]] | +2 | 10 | Specific Magic Armor | No | Stealth checks you attempt underwater |
+| [[Cloak of the Bat]] | +2 | 10 | Other Worn Items | No | — |
+| [[Cloak of Elvenkind]] | +2 | 12 | Other Worn Items | No | — |
+| [[Quicksilver Mutagen]] | +2 | 3 | Alchemical Elixirs | Yes | — |
+| [[Shrinking Potion]] | +2 | 8 | Potions | Yes | — |
+| [[Cloak of the Bat]] | +3 | 17 | Other Worn Items | No | — |
+| [[Shadow]] | +3 | 17 | Armor Property Runes | No | — |
+| [[Wildwood Ink]] | +3 | 17 | Tattoos | No | Stealth check bonus increases in forests |
+| [[Mercurial Mantle]] | +3 | 18 | Other Worn Items | No | — |
+| [[Shadowmist Cape]] | +3 | 19 | Other Worn Items | No | — |
+| [[Quicksilver Mutagen]] | +3 | 11 | Alchemical Elixirs | Yes | — |
+| [[Quicksilver Mutagen]] | +4 | 17 | Alchemical Elixirs | Yes | — |<span>Item Bonuses for Stealth - Uncommon/Rare/Unique Items</span>| 0 | 1 | 2 | 3 | 4 | 5 |
+|:---------------------------------------------------------------------|:------|:------|:-----------------------|:------------|:-------------------------------------------------------------------------------------------------------|
+| Item | Bonus | Level | Category | Consumable? | Note |
+| [[Subtle Armor]] | +1 | 1 | Adjustments | No | Stealth checks to Conceal an Object to hide the nature of the armor |
+| [[Privacy Ward Fulu]] | +1 | 1 | Fulu | No | Stealth checks against creatures outside the affected room |
+| [[Concealed Holster]] | +1 | 3 | Adventuring Gear | No | Stealth checks and DCs to hide or conceal a firearm or hand crossbow in this holster |
+| [[Camouflage Suit]] | +1 | 3 | Adventuring Gear | No | Stealth checks while you attempt to Hide or Sneak in the specific environment it has been prepared for |
+| [[Pickpocket's Tailoring]] | +1 | 4 | Adventuring Gear | No | Stealth checks to Conceal an Object of light Bulk or less in the pockets |
+| [[Thieves' Tools]] | +1 | 4 | Adventuring Gear | No | Stealth checks to Conceal these tools |
+| [[Privacy Ward Fulu]] | +1 | 5 | Fulu | No | Stealth checks against creatures outside the affected room |
+| [[Ring of the Tiger]] | +1 | 5 | Other Worn Items | No | Stealth checks made in outdoor wilderness areas |
+| [[Clandestine Cloak]] | +1 | 6 | Other Worn Items | No | — |
+| [[Gloaming Arc]] | +1 | 11 | Specific Magic Weapons | No | +1 bonus, +2 if upgraded to +3 weapon potency rune |
+| [[Shadewither Key]] | +1 | 22 | Other Worn Items | No | — |
+| [[Lastwall Soup]] | +2 | 1 | Alchemical Elixirs | No | Stealth checks and DCs against undead |
+| [[Camouflage Suit]] | +2 | 9 | Adventuring Gear | No | Stealth checks while you attempt to Hide or Sneak in the specific environment it has been prepared for |
+| [[Privacy Ward Fulu]] | +2 | 9 | Fulu | No | Stealth checks against creatures outside the affected room |
+| [[Ring of the Tiger]] | +2 | 10 | Other Worn Items | No | Stealth checks made in outdoor wilderness areas |
+| [[Clandestine Cloak]] | +2 | 10 | Other Worn Items | No | — |
+| [[The Snakebite]] | +2 | 20 | The Deck of Destiny | No | Stealth checks for initiative (+3 at 17th level) |
+| [[The Demon's Lantern]] | +2 | 20 | The Deck of Destiny | No | checks made to Conceal an Object (+3 at 17th level). |
+| [[Scour]] | +2 | 8 | Drugs | Yes | — |
+| [[Cowl of Keys]] | +3 | 17 | Other Worn Items | No | — |
+| [[Silhouette Cloak]] | +3 | 20 | Other Worn Items | No | Stealth checks in dim light or darkness |
+| [[Scale of Igroon]] | +3 | 21 | Artifacts | No | Stealth checks to Hide and Sneak |
 
 ### Related Feats
 
@@ -77,10 +74,10 @@ To see a list of Feats related to Stealth, click here.
 
 # Stealth Untrained Actions
 
-## [[Conceal an Object]] <span class="action-icon">1</span>
+## [[DATABASE/action/Conceal an Object|Conceal an Object]] <span class="action-icon">1</span>
 
 <span class="item-trait">Manipulate</span><span class="item-trait">Secret</span>
-**Source** [[Core Rulebook]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
 You hide a small object on your person (such as a weapon of light Bulk). When you try to sneak a concealed object past someone who might notice it, the GM rolls your Stealth check and compares it to this passive observer’s Perception DC. Once the GM rolls your check for a concealed object, that same result is used no matter how many passive observers you try to sneak it past. If a creature is specifically searching you for an item, it can attempt a Perception check against your Stealth DC (finding the object on success). 
@@ -88,10 +85,10 @@ You hide a small object on your person (such as a weapon of light Bulk). When yo
 **Success** The object remains undetected.
 **Failure** The searcher finds the object.
 
-## [[Hide]] <span class="action-icon">1</span>
+## [[DATABASE/action/Hide|Hide]] <span class="action-icon">1</span>
 
 <span class="item-trait">Secret</span>
-**Source** [[Core Rulebook]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
 You huddle behind cover or greater cover or deeper into concealment to become hidden, rather than observed. The GM rolls your Stealth check in secret and compares the result to the Perception DC of each creature you’re observed by but that you have cover or greater cover against or are concealed from. You gain the circumstance bonus from cover or greater cover to your check.
@@ -99,10 +96,10 @@ You huddle behind cover or greater cover or deeper into concealment to become hi
  If you successfully become hidden to a creature but then cease to have cover or greater cover against it or be concealed from it, you become observed again. You cease being hidden if you do anything except Hide, Sneak, or Step. If you attempt to Strike a creature, the creature remains flat-footed against that attack, and you then become observed. If you do anything else, you become observed just before you act unless the GM determines otherwise. The GM might allow you to perform a particularly unobtrusive action without being noticed, possibly requiring another Stealth check.
  If a creature uses Seek to make you observed by it, you must successfully Hide to become hidden from it again.
 
-## [[Sneak]] <span class="action-icon">1</span>
+## [[DATABASE/action/Sneak|Sneak]] <span class="action-icon">1</span>
 
 <span class="item-trait">Move</span><span class="item-trait">Secret</span>
-**Source** [[Core Rulebook]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
 You can attempt to move to another place while becoming or staying undetected. Stride up to half your Speed. (You can use Sneak while Burrowing, Climbing, Flying, or Swimming instead of Striding if you have the corresponding movement type; you must move at half that Speed.)

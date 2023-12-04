@@ -11,6 +11,7 @@ name: Inspirit Hazard
 prerequisite: null
 rarity: Common
 requirement: The hazard isn't broken.
+rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -26,9 +27,9 @@ type: Feat
 # Inspirit Hazard <span class="action-icon">5</span> <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Catfolk</span><span class="item-trait">Concentrate</span><span class="item-trait">Occult</span><span class="item-trait">Transmutation</span>
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 **Frequency** once per day
-**Trigger** You [[Disable a Device]] a hazard.
+**Trigger** You [[DATABASE/action/Disable a Device|Disable]] a hazard.
 **Requirements** The hazard isn't broken.
 
 ---
@@ -38,7 +39,7 @@ You awaken a spirit of creation within the hazard. You learn the hazard's effect
 
 **Catfolk:**
 
-A creature with this trait is a member of the [[Catfolk]] ancestry. Catfolk are humanoids with feline features. An ability with this trait can be used or selected only by catfolk. An item with this trait is created and used by catfolk.
+A creature with this trait is a member of the [[DATABASE/ancestry/Catfolk|catfolk]] ancestry. Catfolk are humanoids with feline features. An ability with this trait can be used or selected only by catfolk. An item with this trait is created and used by catfolk.
 
 **Concentrate:**
 

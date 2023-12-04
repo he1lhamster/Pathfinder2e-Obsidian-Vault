@@ -73,17 +73,17 @@ wisdom: '+4'
 ---
 # Giant Snapping Turtle
 
-If the regular-sized snapping turtle is foul-tempered, then the giant snapping turtle seems to be willfully violent toward anything that dares intrude upon its domain. Measuring over 20 feet long and weighing thousands of pounds, this creature is capable of swallowing a humanoid whole. Swamp-dwelling societies, particularly [[Boggard]] and [[Lizardfolk]], have often tried to domesticate giant snapping turtles to serve as powerful guardians, but in most cases the casualties pile up quickly. Those unfortunate enough to be swallowed whole by a giant snapping turtle find that even the creature's stomach is somewhat armored, making it difficult to cut through.
-**Recall Knowledge - Animal ([[Nature]])**: DC 26
+If the regular-sized snapping turtle is foul-tempered, then the giant snapping turtle seems to be willfully violent toward anything that dares intrude upon its domain. Measuring over 20 feet long and weighing thousands of pounds, this creature is capable of swallowing a humanoid whole. Swamp-dwelling societies, particularly [[DATABASE/monsterfamily/Boggard|boggards]] and [[DATABASE/monsterfamily/Lizardfolk|lizardfolk]], have often tried to domesticate giant snapping turtles to serve as powerful guardians, but in most cases the casualties pile up quickly. Those unfortunate enough to be swallowed whole by a giant snapping turtle find that even the creature's stomach is somewhat armored, making it difficult to cut through.
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 26
 **Unspecific Lore**: DC 24
 **Specific Lore**: DC 21
 
 # Giant Snapping Turtle<span class="item-type">Creature 9</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Gargantuan</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary 2]] 
-**Perception** +17; [[Low-Light Vision]], [[Scent]]
-**Skills** [[Athletics]] +20
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +17; [[DATABASE/monsterability/Low-Light Vision|low-light vision]], [[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +20
 **Str** +7, **Dex** +0, **Con** +4, **Int** -4, **Wis** +4, **Cha** -2
 **Deep Breath** The giant snapping turtle can hold its breath for 2 hours.
 
@@ -93,4 +93,4 @@ If the regular-sized snapping turtle is foul-tempered, then the giant snapping t
 
 ---
 **Speed** 20 feet, swim 40 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +22 [+17/+12], **Damage** 2d12+10 piercing plus [[Improved Grab]]</span><span class="in-box-ability">**Capsize** <span class="action-icon">1</span> (attack, move) The turtle tries to capsize an adjacent aquatic vessel of its size or smaller. The turtle must succeed at a DC 35 [[Athletics]] check (reduced by 5 for each size smaller the vessel is than the turtle) or the pilot's [[Lore]] DC, whichever is higher.</span><span class="in-box-ability">**Shell Defense** <span class="action-icon">1</span> The giant snapping turtle retracts its limbs and head into its shell and ends its turn. This increases its AC to 30, but it can't act except to reemerge, which it can do as a single action.</span><span class="in-box-ability">**[[Swallow Whole]]** <span class="action-icon">1</span> Large, 2d12+7 bludgeoning, Rupture 30</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +22 [+17/+12], **Damage** 2d12+10 piercing plus [[DATABASE/monsterability/Improved Grab|Improved Grab]]</span><span class="in-box-ability">**Capsize** <span class="action-icon">1</span> (attack, move) The turtle tries to capsize an adjacent aquatic vessel of its size or smaller. The turtle must succeed at a DC 35 [[DATABASE/skill/Athletics|Athletics]] check (reduced by 5 for each size smaller the vessel is than the turtle) or the pilot's [[DATABASE/skill/Lore|Sailing Lore]] DC, whichever is higher.</span><span class="in-box-ability">**Shell Defense** <span class="action-icon">1</span> The giant snapping turtle retracts its limbs and head into its shell and ends its turn. This increases its AC to 30, but it can't act except to reemerge, which it can do as a single action.</span><span class="in-box-ability">**[[DATABASE/monsterability/Swallow Whole|Swallow Whole]]** <span class="action-icon">1</span> Large, 2d12+7 bludgeoning, Rupture 30</span>

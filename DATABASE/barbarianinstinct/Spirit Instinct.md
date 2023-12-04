@@ -2,6 +2,7 @@
 id: '5'
 name: Spirit Instinct
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait: null
 type: Barbarian Instinct
@@ -9,7 +10,7 @@ type: Barbarian Instinct
 ---
 # Spirit Instinct
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Whether you are emotionally sensitive to the spirits around you; worship ancestors or apparitions; or are haunted by the specter of an ancestor, relative, friend, or foe, your rage takes the form of a spiritual possession.
 
 ## Anathema
@@ -18,11 +19,11 @@ Disrespecting corpses or spirits is anathema to your instinct; defending yoursel
 
 ## Spirit Rage (Instinct Ability)
 
-While raging, you can increase the additional damage from [[Rage]] from 2 to 3 and change its damage type to negative or positive, instead of the damage type for your weapon or unarmed attack (choose each time you Rage). If you choose to deal negative or positive damage, your weapon or unarmed attack gains the effects of the [[Ghost Touch]] property rune, which makes it more effective against incorporeal creatures, and your Rage action gains the divine and necromancy traits, plus negative or positive, as appropriate.
+While raging, you can increase the additional damage from [[DATABASE/action/Rage|Rage]] from 2 to 3 and change its damage type to negative or positive, instead of the damage type for your weapon or unarmed attack (choose each time you Rage). If you choose to deal negative or positive damage, your weapon or unarmed attack gains the effects of the [[DATABASE/equipment/Ghost Touch|ghost touch]] property rune, which makes it more effective against incorporeal creatures, and your Rage action gains the divine and necromancy traits, plus negative or positive, as appropriate.
 
 ## Specialization Ability<span class="item-type">7th</span>
 
-When using spirit rage, increase the damage from [[Rage]] from 3 to 7. If you have greater weapon specialization, instead increase the damage when using spirit rage to 13.
+When using spirit rage, increase the damage from [[DATABASE/action/Rage|Rage]] from 3 to 7. If you have greater weapon specialization, instead increase the damage when using spirit rage to 13.
 
 ## Raging Resistance<span class="item-type">9th</span>
 

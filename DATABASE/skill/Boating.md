@@ -4,6 +4,7 @@ ability_boost: null
 id: '20'
 name: Boating
 rarity: Common
+rus_type_level: null
 skill:
 - Boating
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
@@ -13,12 +14,12 @@ type: Skill
 ---
 # Boating (Economy)
 
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 Boating reflects the kingdom’s affinity for navigating rivers and lakes, or for using waterways to bolster trade, exploration, or even conquest.
 
-* **[[Establish Trade Agreement]]**
-* **[[Focused Attention]]**
-* **[[Rest and Relax]]**
+* **[[DATABASE/generalskillaction/Establish Trade Agreement|Establish Trade Agreement]]**
+* **[[DATABASE/generalskillaction/Focused Attention|Focused Attention]]**
+* **[[DATABASE/generalskillaction/Rest and Relax|Rest and Relax]]**
 
 ### Related Feats
 
@@ -26,10 +27,10 @@ To see a list of Feats related to Boating, click here.
 
 # Boating Untrained Actions
 
-## [[Go Fishing]]
+## [[DATABASE/action/Go Fishing|Go Fishing]]
 
 <span class="item-trait">Downtime</span><span class="item-trait">Region</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 **Requirements** Must have at least one claimed hex that includes river or lake terrain.
 
 ---

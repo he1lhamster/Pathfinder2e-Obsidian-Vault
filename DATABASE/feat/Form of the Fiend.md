@@ -11,6 +11,7 @@ name: Form of the Fiend
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Form of the Fiend <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Tiefling</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
-Part of your body has an obvious, fiendish appearance. Your hands end in razor-sharp claws, you have hooves instead of feet, sharp teeth fill your mouth, or a whipping tail extends from your spine. You gain your choice of one of the following unarmed attacks. The attack is in the [[Brawling]] group and has the listed damage die and traits.
+Part of your body has an obvious, fiendish appearance. Your hands end in razor-sharp claws, you have hooves instead of feet, sharp teeth fill your mouth, or a whipping tail extends from your spine. You gain your choice of one of the following unarmed attacks. The attack is in the [[DATABASE/weapongroup/Brawling|brawling]] group and has the listed damage die and traits.
  **Claw** 1d4 slashing (agile, finesse, unarmed, versatile piercing) 
 **Hoof** 1d6 bludgeoning (finesse, unarmed) 
 **Jaws** 1d6 piercing (finesse, unarmed) 
@@ -37,4 +38,4 @@ Part of your body has an obvious, fiendish appearance. Your hands end in razor-s
 
 **Tiefling:**
 
-A creature with this trait has the tiefling versatile heritage. Tieflings are [[Planar Scion]] descended from fiends. An ability with this trait can be used or selected only by tieflings.
+A creature with this trait has the tiefling versatile heritage. Tieflings are [[DATABASE/monsterfamily/Planar Scion|planar scions]] descended from fiends. An ability with this trait can be used or selected only by tieflings.

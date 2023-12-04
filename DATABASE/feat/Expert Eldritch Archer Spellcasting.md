@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Basic Eldritch Archer Spellcasting|Basic Eldritch
   Spellcasting]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,16 +25,16 @@ type: Feat
 # Expert Eldritch Archer Spellcasting <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Eldritch Archer]]
-**Prerequisites** [[Basic Eldritch Archer Spellcasting]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Eldritch Archer|Eldritch Archer]]
+**Prerequisites** [[DATABASE/feat/Basic Eldritch Archer Spellcasting|Basic Eldritch Archer Spellcasting]]
 
 ---
 You gain the expert spellcasting benefits.
 
 ## Expert Eldritch Archer Spellcasting Leads To...
 
-[[Master Eldritch Archer Spellcasting]]
+[[DATABASE/feat/Master Eldritch Archer Spellcasting|Master Eldritch Archer Spellcasting]]
 
 ## Traits
 

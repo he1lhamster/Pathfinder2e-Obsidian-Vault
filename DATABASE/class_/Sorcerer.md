@@ -14,6 +14,7 @@ id: '11'
 name: Sorcerer
 perception_proficiency: Trained
 rarity: Common
+rus_type_level: null
 skill_proficiency:
 - Trained in one or more skills determined by your bloodline
 - Trained in a number of additional skills equal to 2 plus your Intelligence modifier
@@ -28,7 +29,7 @@ type: Class
 
 ---
 # Sorcerer
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 _You didn’t choose to become a spellcaster—you were born one. There’s magic in your blood, whether a divinity touched one of your ancestors, a forebear communed with a primal creature, or a powerful occult ritual influenced your line. Self-reflection and study allow you to refine your inherent magical skills and unlock new, more powerful abilities. The power in your blood carries a risk, however, and you constantly face the choice of whether you’ll rise to become a master spellcaster or fall into destruction._
 **Key Ability: CHARISMA**
 At 1st level, your class gives you an ability boost to Charisma.
@@ -106,54 +107,52 @@ Trained in spell DCs of your spellcasting tradition, as indicated by your bloodl
 
 # Class Features
 
-You gain these features as a Sorcerer. Abilities gained at higher levels list the levels at which you gain them next to the features' names.
-
-|   Your Level | Class Features                                                                                     |
-|-------------:|:---------------------------------------------------------------------------------------------------|
-|            1 | Ancestry and background, initial proficiencies, bloodline, sorcerer spellcasting, spell repertoire |
-|            2 | Skill feat, sorcerer feat                                                                          |
-|            3 | 2nd-level spells, general feat, signature spells, skill increase                                   |
-|            4 | Skill feat, sorcerer feat                                                                          |
-|            5 | 3rd-level spells, ability boosts, ancestry feat, magical fortitude, skill increase                 |
-|            6 | Skill feat, sorcerer feat                                                                          |
-|            7 | 4th-level spells, expert spellcaster, general feat, skill increase                                 |
-|            8 | Skill feat, sorcerer feat                                                                          |
-|            9 | 5th-level spells, ancestry feat, lightning reflexes, skill increase                                |
-|           10 | Ability boosts, skill feat, sorcerer feat                                                          |
-|           11 | 6th-level spells, alertness, general feat, skill increase, weapon expertise                        |
-|           12 | Skill feat, sorcerer feat                                                                          |
-|           13 | 7th-level spells, ancestry feat, defensive robes, skill increase, weapon specialization            |
-|           14 | Skill feat, sorcerer feat                                                                          |
-|           15 | 8th-level spells, ability boosts, general feat, master spellcaster, skill increase                 |
-|           16 | Skill feat, sorcerer feat                                                                          |
-|           17 | 9th-level spells, ancestry feat, resolve, skill increase                                           |
-|           18 | Skill feat, sorcerer feat                                                                          |
-|           19 | Bloodline paragon, general feat, legendary spellcaster, skill increase                             |
-|           20 | Ability boosts, skill feat, sorcerer feat                                                          |
-
-| Your Level                                                                                                                   |   Cantrips |   1st | 2nd   | 3rd   | 4th   | 5th   | 6th   | 7th   | 8th   | 9th   | 10th   |
-|:-----------------------------------------------------------------------------------------------------------------------------|-----------:|------:|:------|:------|:------|:------|:------|:------|:------|:------|:-------|
-| 1                                                                                                                            |          5 |     3 | —     | —     | —     | —     | —     | —     | —     | —     | —      |
-| 2                                                                                                                            |          5 |     4 | —     | —     | —     | —     | —     | —     | —     | —     | —      |
-| 3                                                                                                                            |          5 |     4 | 3     | —     | —     | —     | —     | —     | —     | —     | —      |
-| 4                                                                                                                            |          5 |     4 | 4     | —     | —     | —     | —     | —     | —     | —     | —      |
-| 5                                                                                                                            |          5 |     4 | 4     | 3     | —     | —     | —     | —     | —     | —     | —      |
-| 6                                                                                                                            |          5 |     4 | 4     | 4     | —     | —     | —     | —     | —     | —     | —      |
-| 7                                                                                                                            |          5 |     4 | 4     | 4     | 3     | —     | —     | —     | —     | —     | —      |
-| 8                                                                                                                            |          5 |     4 | 4     | 4     | 4     | —     | —     | —     | —     | —     | —      |
-| 9                                                                                                                            |          5 |     4 | 4     | 4     | 4     | 3     | —     | —     | —     | —     | —      |
-| 10                                                                                                                           |          5 |     4 | 4     | 4     | 4     | 4     | —     | —     | —     | —     | —      |
-| 11                                                                                                                           |          5 |     4 | 4     | 4     | 4     | 4     | 3     | —     | —     | —     | —      |
-| 12                                                                                                                           |          5 |     4 | 4     | 4     | 4     | 4     | 4     | —     | —     | —     | —      |
-| 13                                                                                                                           |          5 |     4 | 4     | 4     | 4     | 4     | 4     | 3     | —     | —     | —      |
-| 14                                                                                                                           |          5 |     4 | 4     | 4     | 4     | 4     | 4     | 4     | —     | —     | —      |
-| 15                                                                                                                           |          5 |     4 | 4     | 4     | 4     | 4     | 4     | 4     | 3     | —     | —      |
-| 16                                                                                                                           |          5 |     4 | 4     | 4     | 4     | 4     | 4     | 4     | 4     | —     | —      |
-| 17                                                                                                                           |          5 |     4 | 4     | 4     | 4     | 4     | 4     | 4     | 4     | 3     | —      |
-| 18                                                                                                                           |          5 |     4 | 4     | 4     | 4     | 4     | 4     | 4     | 4     | 4     | —      |
-| 19                                                                                                                           |          5 |     4 | 4     | 4     | 4     | 4     | 4     | 4     | 4     | 4     | 1*     |
-| 20                                                                                                                           |          5 |     4 | 4     | 4     | 4     | 4     | 4     | 4     | 4     | 4     | 1*     |
-| * The bloodline paragon class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. |        nan |   nan | nan   | nan   | nan   | nan   | nan   | nan   | nan   | nan   | nan    |
+You gain these features as a Sorcerer. Abilities gained at higher levels list the levels at which you gain them next to the features' names.| 0 | 1 |
+|:-----------|:---------------------------------------------------------------------------------------------------|
+| Your Level | Class Features |
+| 1 | Ancestry and background, initial proficiencies, bloodline, sorcerer spellcasting, spell repertoire |
+| 2 | Skill feat, sorcerer feat |
+| 3 | 2nd-level spells, general feat, signature spells, skill increase |
+| 4 | Skill feat, sorcerer feat |
+| 5 | 3rd-level spells, ability boosts, ancestry feat, magical fortitude, skill increase |
+| 6 | Skill feat, sorcerer feat |
+| 7 | 4th-level spells, expert spellcaster, general feat, skill increase |
+| 8 | Skill feat, sorcerer feat |
+| 9 | 5th-level spells, ancestry feat, lightning reflexes, skill increase |
+| 10 | Ability boosts, skill feat, sorcerer feat |
+| 11 | 6th-level spells, alertness, general feat, skill increase, weapon expertise |
+| 12 | Skill feat, sorcerer feat |
+| 13 | 7th-level spells, ancestry feat, defensive robes, skill increase, weapon specialization |
+| 14 | Skill feat, sorcerer feat |
+| 15 | 8th-level spells, ability boosts, general feat, master spellcaster, skill increase |
+| 16 | Skill feat, sorcerer feat |
+| 17 | 9th-level spells, ancestry feat, resolve, skill increase |
+| 18 | Skill feat, sorcerer feat |
+| 19 | Bloodline paragon, general feat, legendary spellcaster, skill increase |
+| 20 | Ability boosts, skill feat, sorcerer feat || 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
+|:-----------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------|
+| Your Level | Cantrips | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th | 10th |
+| 1 | 5 | 3 | — | — | — | — | — | — | — | — | — |
+| 2 | 5 | 4 | — | — | — | — | — | — | — | — | — |
+| 3 | 5 | 4 | 3 | — | — | — | — | — | — | — | — |
+| 4 | 5 | 4 | 4 | — | — | — | — | — | — | — | — |
+| 5 | 5 | 4 | 4 | 3 | — | — | — | — | — | — | — |
+| 6 | 5 | 4 | 4 | 4 | — | — | — | — | — | — | — |
+| 7 | 5 | 4 | 4 | 4 | 3 | — | — | — | — | — | — |
+| 8 | 5 | 4 | 4 | 4 | 4 | — | — | — | — | — | — |
+| 9 | 5 | 4 | 4 | 4 | 4 | 3 | — | — | — | — | — |
+| 10 | 5 | 4 | 4 | 4 | 4 | 4 | — | — | — | — | — |
+| 11 | 5 | 4 | 4 | 4 | 4 | 4 | 3 | — | — | — | — |
+| 12 | 5 | 4 | 4 | 4 | 4 | 4 | 4 | — | — | — | — |
+| 13 | 5 | 4 | 4 | 4 | 4 | 4 | 4 | 3 | — | — | — |
+| 14 | 5 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | — | — | — |
+| 15 | 5 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 3 | — | — |
+| 16 | 5 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | — | — |
+| 17 | 5 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 3 | — |
+| 18 | 5 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | — |
+| 19 | 5 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 1* |
+| 20 | 5 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 1* |
+| * The bloodline paragon class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The bloodline paragon class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The bloodline paragon class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The bloodline paragon class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The bloodline paragon class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The bloodline paragon class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The bloodline paragon class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The bloodline paragon class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The bloodline paragon class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The bloodline paragon class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The bloodline paragon class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The bloodline paragon class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. |
 
 ## Ancestry and Background
 
@@ -170,7 +169,7 @@ Choose a bloodline that gives you your spellcasting talent. This choice determin
 
 ## Sorcerer Spellcasting
 
-Your bloodline provides you with incredible magical power. You can cast spells using the Cast a Spell activity, and you can supply material, somatic, and verbal components when casting spells (see Casting Spells). Because you're a sorcerer, you can usually replace material components with somatic components, so you don't need to use a [[Material Component Pouch]].
+Your bloodline provides you with incredible magical power. You can cast spells using the Cast a Spell activity, and you can supply material, somatic, and verbal components when casting spells (see Casting Spells). Because you're a sorcerer, you can usually replace material components with somatic components, so you don't need to use a [[DATABASE/equipment/Material Component Pouch|material component pouch]].
  Each day, you can cast up to three 1st-level spells. You must know spells to cast them, and you learn them via the spell repertoire class feature. The number of spells you can cast each day is called your spell slots.
  As you increase in level as a sorcerer, your number of spells per day increases, as does the highest level of spells you can cast, as shown on Table 3–17: Sorcerer Spells per Day.
  Some of your spells require you to attempt a spell attack roll to see how effective they are, or have your enemies roll against your spell DC (typically by attempting a saving throw). Since your key ability is Charisma, your spell attack rolls and spell DCs use your Charisma modifier. Details on calculating these statistics appear in Spell Attack Rolls.
@@ -260,7 +259,7 @@ You’ve steeled you mind with resolve. Your proficiency rank for Will saves inc
 
 ## Bloodline Paragon<span class="item-type">Level 19</span>
 
-You have perfected the magic in your bloodline. Add two common 10th-level spells of your tradition to your repertoire. You gain a single 10th-level spell slot you can use to cast these spells, using sorcerer spellcasting. Unlike other spell slots, you don’t gain more 10th-level spells as you level up, and they can’t be used for abilities that let you cast spells without expending spell slots or abilities that give you more spell slots. You can take the [[Bloodline Perfection]] sorcerer feat to gain a second slot.
+You have perfected the magic in your bloodline. Add two common 10th-level spells of your tradition to your repertoire. You gain a single 10th-level spell slot you can use to cast these spells, using sorcerer spellcasting. Unlike other spell slots, you don’t gain more 10th-level spells as you level up, and they can’t be used for abilities that let you cast spells without expending spell slots or abilities that give you more spell slots. You can take the [[DATABASE/feat/Bloodline Perfection|Bloodline Perfection]] sorcerer feat to gain a second slot.
 
 ## Legendary Spellcaster<span class="item-type">Level 19</span>
 

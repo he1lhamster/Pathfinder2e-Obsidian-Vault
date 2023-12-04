@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -53,7 +54,7 @@ weapon_type: null
 # Extending<span class="item-type">Item 9+</span>
 
 <span class="item-trait">Magical</span><span class="item-trait">Transmutation</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Usage** etched onto a melee weapon; **Bulk** —
 
 ---
@@ -62,11 +63,11 @@ An _extending_ rune allows you to extend your weapon to impossible lengths.
 
 ## Extending<span class="item-type">Item 9</span>
 
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Price** 700 gp
 
 ## Extending (Greater)<span class="item-type">Item 13</span>
 
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Price** 3,000 gp
 The activation grants you reach 120 feet for the Strike.

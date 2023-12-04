@@ -11,6 +11,7 @@ name: Powerful Guts
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Powerful Guts <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Fleshwarp</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-Your stomach is particularly durable. When you succeed at a Fortitude save to reduce your [[Sickened]] value, you reduce it by 2 (or by 3 on a critical success).
+Your stomach is particularly durable. When you succeed at a Fortitude save to reduce your [[DATABASE/condition/Sickened|sickened]] value, you reduce it by 2 (or by 3 on a critical success).
 
 ## Traits
 

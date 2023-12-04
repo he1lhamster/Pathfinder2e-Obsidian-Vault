@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 size: null
@@ -56,7 +57,7 @@ weapon_type: null
 # Empathy Charm<span class="item-type">Item 2</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Companion</span><span class="item-trait">Divination</span><span class="item-trait">Enchantment</span><span class="item-trait">Magical</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 35 gp
 **Usage** affixed to harness; **Bulk** —
 

@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Sighting Shot<span class="item-type">Item 8</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Divination</span><span class="item-trait">Light</span><span class="item-trait">Magical</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 72 gp
 **Ammunition** any; **Bulk** —
 **Activate** <span class="action-icon">2</span> command, envision

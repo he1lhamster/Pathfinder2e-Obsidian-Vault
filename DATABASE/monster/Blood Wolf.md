@@ -74,24 +74,24 @@ wisdom: '+2'
 # Blood Wolf
 
 This creature did not include a description.
-**Recall Knowledge - Animal ([[Nature]])**: DC 20
-**Recall Knowledge - Fiend ([[Religion]])**: DC 20
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 20
+**Recall Knowledge - Fiend ([[DATABASE/skill/Religion|Religion]])**: DC 20
 **Unspecific Lore**: DC 18
 **Specific Lore**: DC 15
 
 # Blood Wolf<span class="item-type">Creature 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Animal</span><span class="item-trait">Fiend</span>
-**Source** [[Pathfinder 151. The Show Must Go On]]
-**Perception** +9; [[Darkvision]], [[Scent]] (imprecise) 30 feet
-**Skills** [[Acrobatics]] +8, [[Athletics]] +10, [[Intimidation]] +8, [[Stealth]] +8, [[Survival]] +9
+**Source** [[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: The Show Must Go On]]
+**Perception** +9; [[DATABASE/monsterability/Darkvision|darkvision]], [[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +8, [[DATABASE/skill/Athletics|Athletics]] +10, [[DATABASE/skill/Intimidation|Intimidation]] +8, [[DATABASE/skill/Stealth|Stealth]] +8, [[DATABASE/skill/Survival|Survival]] +9
 **Str** +5, **Dex** +3, **Con** +2, **Int** -4, **Wis** +2, **Cha** -1
 
 ---
 **AC** 18; **Fort** +11, **Ref** +9, **Will** +7
 **HP** 50; **Resistances** electricity 5, poison 5; **Weaknesses** good 3
-<span class="in-box-ability">**[[Attack of Opportunity]] <span class="action-icon">5</span> ** </span>
+<span class="in-box-ability">**[[DATABASE/monsterability/Attack of Opportunity|Attack of Opportunity]] <span class="action-icon">5</span> ** </span>
 
 ---
 **Speed** 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +12 [+7/+2], **Damage** 1d8+5 piercing plus [[Knockdown]]</span><span class="in-box-ability">**Aggressive Rush** <span class="action-icon">1</span> (move) The blood wolf moves up to half its Speed. This movement doesn't trigger reactions. At the end of the movement, it attempts an [[Intimidation]] check to [[Demoralize]] a target within 5 feet of it. This Intimidation check doesn't take the –4 circumstance penalty for the wolf not speaking a language.</span><span class="in-box-ability">**Pack Attack** The blood wolf's Strikes deal an extra 1d6 damage to creatures within reach of at least two of the wolf's allies.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +12 [+7/+2], **Damage** 1d8+5 piercing plus [[DATABASE/monsterability/Knockdown|Knockdown]]</span><span class="in-box-ability">**Aggressive Rush** <span class="action-icon">1</span> (move) The blood wolf moves up to half its Speed. This movement doesn't trigger reactions. At the end of the movement, it attempts an [[DATABASE/skill/Intimidation|Intimidation]] check to [[DATABASE/action/Demoralize|Demoralize]] a target within 5 feet of it. This Intimidation check doesn't take the –4 circumstance penalty for the wolf not speaking a language.</span><span class="in-box-ability">**Pack Attack** The blood wolf's Strikes deal an extra 1d6 damage to creatures within reach of at least two of the wolf's allies.</span>

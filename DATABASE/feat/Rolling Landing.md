@@ -11,6 +11,7 @@ name: Rolling Landing
 prerequisite: '[[DATABASE/feat/Cat Fall|Cat Fall]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
 subcategory: acrobatics
@@ -24,8 +25,8 @@ type: Feat
 # Rolling Landing <span class="item-type">Feat 2</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Firebrands]]
-**Prerequisites** [[Cat Fall]]; trained in [[Acrobatics]]
+**Source** [[DATABASE/source/Firebrands|Firebrands]]
+**Prerequisites** [[DATABASE/feat/Cat Fall|Cat Fall]]; trained in [[DATABASE/skill/Acrobatics|Acrobatics]]
 
 ---
 You land with quick rolls that help you keep your momentum. If you fall and don't take damage (usually due to treating the fall as a shorter distance), you can use your reaction to immediately enter a short roll when you land and Step. If you are an expert in Acrobatics, you can use your reaction to Step or Stride up to half your Speed. If you're a master in Acrobatics, you can use your reaction to Step or Stride up to your full Speed. If you're legendary in Acrobatics, you don't trigger reactions triggered by movement when you Stride in this way.

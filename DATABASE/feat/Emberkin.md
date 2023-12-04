@@ -11,6 +11,7 @@ name: Emberkin
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -24,20 +25,20 @@ type: Feat
 # Emberkin <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Aasimar</span><span class="item-trait">Lineage</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-A [[Peri]] roaring spirit burns in your soul. Peris engage in constant struggle to right the wrongs of their fallen forebears, and that struggle has been passed on to you. You have a direct impulse to right wrongs and better the world. You gain a +1 circumstance bonus to saving throws against fire effects, and your perception is unaffected by non-magical flames, fog and smoke.
+A [[DATABASE/monster/Peri|peri's]] roaring spirit burns in your soul. Peris engage in constant struggle to right the wrongs of their fallen forebears, and that struggle has been passed on to you. You have a direct impulse to right wrongs and better the world. You gain a +1 circumstance bonus to saving throws against fire effects, and your perception is unaffected by non-magical flames, fog and smoke.
 
 ## Emberkin Leads To...
 
-[[Flame Jump]], [[Peri Magic]]
+[[DATABASE/feat/Flame Jump|Flame Jump]], [[DATABASE/feat/Peri Magic|Peri Magic]]
 
 ## Traits
 
 **Aasimar:**
 
-A creature with this trait has the aasimar versatile heritage. Aasimars are [[Planar Scion]] descended from celestial beings. An ability with this trait can be used or selected only by aasimars.
+A creature with this trait has the aasimar versatile heritage. Aasimars are [[DATABASE/monsterfamily/Planar Scion|planar scions]] descended from celestial beings. An ability with this trait can be used or selected only by aasimars.
 
 **Lineage:**
 

@@ -24,6 +24,7 @@ follower_alignment:
 id: '244'
 name: Arqueros
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]]'
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
@@ -33,8 +34,8 @@ type: Deity
 ---
 # Arqueros (The Golden Bulwark) [LG]
 
-**Source** [[Knights of Lastwall]]
-As strong in will as he is in form, Arqueros is Lord of the Wall, guardian of [[Heaven]], and empyreal lord of bodyguards, protection, and watchfulness. He maintains eternal vigil at Heaven's gates, resplendent in gold armor and clutching a diamond-headed spear. Whatever the truth of his heart, Arqueros is composed in the face of dire threats and is a stalwart defender who would die before abandoning his duties.
+**Source** [[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]
+As strong in will as he is in form, Arqueros is Lord of the Wall, guardian of [[DATABASE/plane/Heaven|Heaven]], and empyreal lord of bodyguards, protection, and watchfulness. He maintains eternal vigil at Heaven's gates, resplendent in gold armor and clutching a diamond-headed spear. Whatever the truth of his heart, Arqueros is composed in the face of dire threats and is a stalwart defender who would die before abandoning his duties.
 **Category** Empyreal Lords
 **Edicts** protect those weaker than you; remain alert for danger; create, maintain, or patrol defenses
 **Anathema** abandon others while you retreat, engage in needless destruction or bloodshed, intentionally fall asleep or grow lax on watch
@@ -43,10 +44,10 @@ As strong in will as he is in form, Arqueros is Lord of the Wall, guardian of [[
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Strength or Constitution
-**Divine Font** _[[Heal]]_
-**Divine Skill** [[Athletics]]
-**Favored Weapon** [[Spear]]
-**Domains** [[Duty Domain]], [[Might Domain]], [[Protection Domain]], [[Zeal Domain]]
-**Alternate Domains** [[Family Domain]]
-**Cleric Spells** 1st: _[[Endure]]_, 4th: _[[Stoneskin]]_ (appears as gold), 5th: _[[Wall of Stone]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Strength or Constitution
+**Divine Font** _[[DATABASE/spell/Heal|heal]]_
+**Divine Skill** [[DATABASE/skill/Athletics|Athletics]]
+**Favored Weapon** [[DATABASE/weapon/Spear|spear]]
+**Domains** [[DATABASE/domain/Duty Domain|duty]], [[DATABASE/domain/Might Domain|might]], [[DATABASE/domain/Protection Domain|protection]], [[DATABASE/domain/Zeal Domain|zeal]]
+**Alternate Domains** [[DATABASE/domain/Family Domain|family]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Endure|endure]]_, 4th: _[[DATABASE/spell/Stoneskin|stoneskin]]_ (appears as gold), 5th: _[[DATABASE/spell/Wall of Stone|wall of stone]]_

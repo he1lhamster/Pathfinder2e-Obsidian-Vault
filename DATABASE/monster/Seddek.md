@@ -79,20 +79,20 @@ wisdom: '+1'
 # Seddek
 
 This creature did not include a description.
-**Recall Knowledge - Elemental ([[Arcana]], [[Nature]])**: DC 34
+**Recall Knowledge - Elemental ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 34
 **Unspecific Lore**: DC 32
 **Specific Lore**: DC 29
 
 # Seddek<span class="item-type">Creature 8</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Elemental</span><span class="item-trait">Genie</span>
-**Source** [[The Enmity Cycle]]
-Male [[Janni]] enforcer
-**Perception** +15; [[Darkvision]]
-**Languages** [[Auran]], [[Daemonic]], [[Osiriani]], [[Taldane]]
-**Skills** [[Acrobatics]] +11, [[Arcana]] +13, [[Crafting]] +11, [[Deception]] +14, [[Survival]] +15
+**Source** [[DATABASE/source/The Enmity Cycle|The Enmity Cycle]]
+Male [[DATABASE/monster/Janni|janni]] enforcer
+**Perception** +15; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Auran|Auran]], [[DATABASE/language/Daemonic|Daemonic]], [[DATABASE/language/Osiriani|Osiriani]], [[DATABASE/language/Taldane|Taldane]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +11, [[DATABASE/skill/Arcana|Arcana]] +13, [[DATABASE/skill/Crafting|Crafting]] +11, [[DATABASE/skill/Deception|Deception]] +14, [[DATABASE/skill/Survival|Survival]] +15
 **Str** +6, **Dex** +3, **Con** +4, **Int** +1, **Wis** +1, **Cha** +5
-**Items** _+1 [[Striking]] [[Shifting]] [[Scimitar]]_, [[Composite Shortbow]], _[[Murderer's Knot]]_
+**Items** _+1 [[DATABASE/equipment/Striking|striking]] [[DATABASE/equipment/Shifting|shifting]] [[DATABASE/weapon/Scimitar|scimitar]]_, [[DATABASE/weapon/Composite Shortbow|composite shortbow (20 arrows)]], _[[DATABASE/equipment/Murderer's Knot|murderer's knot]]_
 
 ---
 **AC** 23; **Fort** +17, **Ref** +14, **Will** +11
@@ -101,5 +101,5 @@ Male [[Janni]] enforcer
 
 ---
 **Speed** 20 feet, fly 15 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _scimitar_ +17 [+12/+7] (forceful +1, sweep), **Damage** 2d6+12 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +16 [+12/+8] (agile, magical, nonlethal), **Damage** 1d4+12 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> composite shortbow +15 [+10/+5] (deadly d10, propulsive, range increment 60 feet, reload 0), **Damage** 1d6+7 piercing</span>**Arcane Innate Spells** DC 24; **7th** _[[Plane Shift]]_ (to [[Astral Plane]], Elemental Planes, or [[Material Plane]] only); **2nd** _[[Create Food]]_, _[[Invisibility]]_ (×3), _[[Speak with Animals]]_; **1st** _[[Create Water]]_
-<span class="in-box-ability">**Change Size** (arcane, concentrate, polymorph, transmutation) **Frequency** once per day; **Effect** The janni changes a creature's size. This works as a 4th-level [[Enlarge]] or [[Shrink]] spell but can target an unwilling creature (DC 24 Fortitude save negates).</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _scimitar_ +17 [+12/+7] (forceful +1, sweep), **Damage** 2d6+12 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +16 [+12/+8] (agile, magical, nonlethal), **Damage** 1d4+12 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> composite shortbow +15 [+10/+5] (deadly d10, propulsive, range increment 60 feet, reload 0), **Damage** 1d6+7 piercing</span>**Arcane Innate Spells** DC 24; **7th** _[[DATABASE/spell/Plane Shift|plane shift]]_ (to [[DATABASE/plane/Astral Plane|Astral Plane]], Elemental Planes, or [[DATABASE/plane/Material Plane|Material Plane]] only); **2nd** _[[DATABASE/spell/Create Food|create food]]_, _[[DATABASE/spell/Invisibility|invisibility]]_ (×3), _[[DATABASE/spell/Speak with Animals|speak with animals]]_; **1st** _[[DATABASE/spell/Create Water|create water]]_
+<span class="in-box-ability">**Change Size** (arcane, concentrate, polymorph, transmutation) **Frequency** once per day; **Effect** The janni changes a creature's size. This works as a 4th-level [[DATABASE/spell/Enlarge|enlarge]] or [[DATABASE/spell/Shrink|shrink]] spell but can target an unwilling creature (DC 24 Fortitude save negates).</span>

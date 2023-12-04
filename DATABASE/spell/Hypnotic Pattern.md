@@ -21,6 +21,7 @@ patron_theme: null
 range: 120 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -38,7 +39,7 @@ type: Spell
 # Hypnotic Pattern<span class="item-type">Spell 3</span>
 
 <span class="item-trait">Illusion</span><span class="item-trait">Visual</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult
 **Cast** <span class="action-icon">2</span> material, somatic
 **Range** 120 feet; **Area** 10-foot burst

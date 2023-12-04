@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Bracers of Missile Deflection<span class="item-type">Item 3+</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** worn bracers; **Bulk** L
 
 ---
@@ -63,13 +64,13 @@ These bracers are made from plates of durable mithral and gleam like the summer 
 
 ## Bracers of Missile Deflection<span class="item-type">Item 3</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 52 gp
 **Bulk** L
 
 ## Bracers of Missile Deflection (Greater)<span class="item-type">Item 9</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 650 gp
 **Bulk** L
 You can activate the bracers once every 10 minutes.

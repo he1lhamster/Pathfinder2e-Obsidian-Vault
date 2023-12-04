@@ -3,6 +3,7 @@ creature_family: Dragon, Chromatic
 id: '34'
 name: Dragon, Chromatic
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,7 +11,7 @@ type: Creature Family
 ---
 # Dragon, Chromatic
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 While there are many types of dragons, from the powerful planar dragons to the strange esoteric dragons, few dragon varieties are as well-known and as rightly feared as the chromatic dragons. Differentiated by the hue of their scales, each color of dragon unleashes its own flavor of murderous cruelty—be it by claw, tooth, or breath—and unlike most creatures, dragons only become more powerful as they age. Their lust for treasure, food, bloodshed, and control are legendary. Physically powerful with egos to match, these dragons are often morally depraved and act as criminal masterminds, vicious tyrants, or voracious raiders.
 
 ## Shape-Changing Dragons
@@ -29,7 +30,7 @@ The chromatic dragons that dwell around the Inner Sea region are cruel and sinis
 
 ### Members
 
-[[Dragon, Black]], [[Dragon, Blue]], [[Dragon, Green]], [[Dragon, Red]], [[Dragon, White]]
+[[DATABASE/monsterfamily/Dragon, Black|Dragon, Black]], [[DATABASE/monsterfamily/Dragon, Blue|Dragon, Blue]], [[DATABASE/monsterfamily/Dragon, Green|Dragon, Green]], [[DATABASE/monsterfamily/Dragon, Red|Dragon, Red]], [[DATABASE/monsterfamily/Dragon, White|Dragon, White]]
 
 ###  Apsu
 

@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: You are trained in Medicine
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Crying Angel Pendant<span class="item-type">Item 2</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Divine</span><span class="item-trait">Necromancy</span><span class="item-trait">Talisman</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 7 gp
 **Usage** affixed to armor; **Bulk** —
 **Activate** <span class="action-icon">4</span> envision **Trigger** You critically fail to Administer First Aid; **Requirements** You are trained in Medicine

@@ -13,6 +13,7 @@ prerequisite: '[[DATABASE/feat/Cavalier Dedication|Cavalier Dedication]] ; Exper
 rarity: Common
 requirement: You are adjacent to a creature that is at least one size larger than
   you and is willing to be yourmount.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -26,13 +27,13 @@ type: Feat
 # Quick Mount <span class="action-icon">1</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Skill</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetypes** [[Cavalier]], [[Mammoth Lord]]
-**Prerequisites** [[Cavalier Dedication]]; expert in [[Nature]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetypes** [[DATABASE/archetype/Cavalier|Cavalier]], [[DATABASE/archetype/Mammoth Lord|Mammoth Lord]]
+**Prerequisites** [[DATABASE/feat/Cavalier Dedication|Cavalier Dedication]]; expert in [[DATABASE/skill/Nature|Nature]]
 **Requirements** You are adjacent to a creature that is at least one size larger than you and is willing to be your mount.
 
 ---
-You and your mount can spring into action at a moment's notice. You [[Mount]] the creature and [[Command an Animal]] to issue it an order of your choice.
+You and your mount can spring into action at a moment's notice. You [[DATABASE/action/Mount|Mount]] the creature and [[DATABASE/action/Command an Animal|Command an Animal]] to issue it an order of your choice.
 
 ## Traits
 

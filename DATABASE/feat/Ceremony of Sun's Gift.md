@@ -11,6 +11,7 @@ name: Ceremony of Sun's Gift
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Ceremony of Sun's Gift <span class="item-type">Feat 17</span>
 
 <span class="item-trait">Conrasu</span>
-**Source** [[The Mwangi Expanse]]
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]
 
 ---
 Your connection to the sun has become an unbreakable bond. You don't become temporarily immune to the effects of your Sunlight Healing, and instead of rolling to recover Hit Points, you gain the maximum number of HP possible (for example, 64 HP instead of 8d8).

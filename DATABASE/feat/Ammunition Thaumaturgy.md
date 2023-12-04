@@ -11,6 +11,7 @@ name: Ammunition Thaumaturgy
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Ammunition Thaumaturgy <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Thaumaturge</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 
 ---
 You're so used to handling your implement, weapon, and esoterica in the heat of combat that adding a few bullets or arrows to the mix is no extra burden. You can Interact to reload a weapon using the hand holding your implement.

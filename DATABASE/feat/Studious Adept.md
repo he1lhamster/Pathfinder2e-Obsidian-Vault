@@ -11,6 +11,7 @@ name: Studious Adept
 prerequisite: '[[DATABASE/feat/Studious Magic|Studious Magic]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 subcategory: null
@@ -23,14 +24,14 @@ type: Feat
 # Studious Adept <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Anadi</span>
-**Source** [[The Mwangi Expanse]] 
-**Prerequisites** [[Studious Magic]]
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]] 
+**Prerequisites** [[DATABASE/feat/Studious Magic|Studious Magic]]
 
 ---
-You achieve a breakthrough in your exploration of magic. You gain [[Humanoid Form]] and [[Mirror Image]] as 2nd-level arcane innate spells. You can cast each of these arcane innate spells once per day.
+You achieve a breakthrough in your exploration of magic. You gain [[DATABASE/spell/Humanoid Form|humanoid form]] and [[DATABASE/spell/Mirror Image|mirror image]] as 2nd-level arcane innate spells. You can cast each of these arcane innate spells once per day.
 
 ## Traits
 
 **Anadi:**
 
-A reclusive people from Garund who resemble spiders and can assume [[Dwarf]] forms.
+A reclusive people from Garund who resemble spiders and can assume [[DATABASE/ancestry/Dwarf|human]] forms.

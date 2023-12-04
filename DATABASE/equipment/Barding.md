@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -50,7 +51,7 @@ weapon_type: null
 ---
 # Barding<span class="item-type">Item 0+</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Bulk** L
 
 ---
@@ -58,33 +59,34 @@ You can purchase special armor for animals, called barding (shown on Table 6–1
 
 ## Table 6-18: Barding
 
-| Size            | Barding                   | Price   |   AC Bonus |   Dex Cap | Check Penalty   | Speed Penalty   |   Bulk |   Strength |
-|:----------------|:--------------------------|:--------|-----------:|----------:|:----------------|:----------------|-------:|-----------:|
-| Light           | Small or Medium           | 10 gp   |          1 |         5 | -1              | -5 ft.          |      2 |          3 |
-| Large           | 20 gp                     | +1      |          5 |        -1 | -5 ft.          | 4               |      3 |        nan |
-| Heavy           | Small or Medium (Level 2) | 25 gp   |          3 |         3 | -3              | -10 ft.         |      4 |          5 |
-| Large (Level 3) | 50 gp                     | +3      |          3 |        -3 | -10 ft.         | 8               |      5 |        nan |
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+|:------|:--------------------------|:------|:---------|:--------|:--------------|:--------------|:-----|:---------|
+| Size | Barding | Price | AC Bonus | Dex Cap | Check Penalty | Speed Penalty | Bulk | Strength |
+| Light | Small or Medium | 10 gp | +1 | +5 | -1 | -5 ft. | 2 | +3 |
+| Light | Large | 20 gp | +1 | +5 | -1 | -5 ft. | 4 | +3 |
+| Heavy | Small or Medium (Level 2) | 25 gp | +3 | +3 | -3 | -10 ft. | 4 | +5 |
+| Heavy | Large (Level 3) | 50 gp | +3 | +3 | -3 | -10 ft. | 8 | +5 |
 
 ## Barding (Light; Small or Medium)<span class="item-type">Item 0</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 10 gp
 **Bulk** 2
 
 ## Barding (Light; Large)<span class="item-type">Item 0</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 20 gp
 **Bulk** 4
 
 ## Barding (Heavy; Small or Medium)<span class="item-type">Item 2</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 25 gp
 **Bulk** 4
 
 ## Barding (Heavy; Large)<span class="item-type">Item 3</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 50 gp
 **Bulk** 8

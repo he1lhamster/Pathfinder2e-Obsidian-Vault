@@ -84,19 +84,19 @@ wisdom: '+0'
 # Anugobu Apprentice
 
 Most young anugobus undertake not just one, but many apprenticeships in order to learn advanced techniques in their trade of choice. The apprentice depicted here specializes in construction and engineering, but an anugobu is just as likely to take up cooking, hunting, tailoring, or really anything that piques their interest.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 20
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 20
 **Unspecific Lore**: DC 18
 **Specific Lore**: DC 15
 
 # Anugobu Apprentice<span class="item-type">Creature 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">CN</span><span class="trait-size item-trait">Tiny</span><span class="item-trait">Anugobu</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 166. Despair on Danger Island]]
-**Perception** +12; [[Low-Light Vision]]
-**Languages** [[Anugobu]], [[Common]], [[Sylvan]], [[Terran]]
-**Skills** [[Acrobatics]] +10, [[Athletics]] +6, [[Crafting]] +13, [[Diplomacy]] +8, [[Lore]] +13, [[Stealth]] +10, [[Survival]] +7
+**Source** [[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #166: Despair on Danger Island]]
+**Perception** +12; [[DATABASE/monsterability/Low-Light Vision|low-light vision]]
+**Languages** [[DATABASE/language/Anugobu|Anugobu]], [[DATABASE/language/Common|Common]], [[DATABASE/language/Sylvan|Sylvan]], [[DATABASE/language/Terran|Terran]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +10, [[DATABASE/skill/Athletics|Athletics]] +6, [[DATABASE/skill/Crafting|Crafting]] +13, [[DATABASE/skill/Diplomacy|Diplomacy]] +8, [[DATABASE/skill/Lore|Engineering Lore]] +13, [[DATABASE/skill/Stealth|Stealth]] +10, [[DATABASE/skill/Survival|Survival]] +7
 **Str** -1, **Dex** +3, **Con** +1, **Int** +4, **Wis** +0, **Cha** +3
-**Items** [[Artisan's Tools]]
+**Items** [[DATABASE/equipment/Artisan's Tools|artisan's tools]]
 
 ---
 **AC** 17; **Fort** +8, **Ref** +12, **Will** +7
@@ -104,5 +104,5 @@ Most young anugobus undertake not just one, but many apprenticeships in order to
 
 ---
 **Speed** 20 feet; stone step
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> hammer +8 [+4/+0] (agile), **Damage** 1d8+2 bludgeoning</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> chisel +8 [+4/+0] (agile, parry, versatile B), **Damage** 1d6+2 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> foot +10 [+6/+2] (agile, finesse, nonlethal, unarmed), **Damage** 1d4+4 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> hammer +12 [+8/+4] (agile, thrown 20 feet), **Damage** 1d8+2 bludgeoning</span>**Occult Innate Spells** DC 20, attack +12; **2nd** _[[Dispel Magic]]_, _[[Mending]]_ (at will); **1st** _[[Create Water]]_, _[[Floating Disk]]_, _[[Unseen Servant]]_ (at will); **Cantrips** **(2nd)** _[[Prestidigitation]]_, _[[Telekinetic Projectile]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> hammer +8 [+4/+0] (agile), **Damage** 1d8+2 bludgeoning</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> chisel +8 [+4/+0] (agile, parry, versatile B), **Damage** 1d6+2 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> foot +10 [+6/+2] (agile, finesse, nonlethal, unarmed), **Damage** 1d4+4 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> hammer +12 [+8/+4] (agile, thrown 20 feet), **Damage** 1d8+2 bludgeoning</span>**Occult Innate Spells** DC 20, attack +12; **2nd** _[[DATABASE/spell/Dispel Magic|dispel magic]]_, _[[DATABASE/spell/Mending|mending]]_ (at will); **1st** _[[DATABASE/spell/Create Water|create water]]_, _[[DATABASE/spell/Floating Disk|floating disk]]_, _[[DATABASE/spell/Unseen Servant|unseen servant]]_ (at will); **Cantrips** **(2nd)** _[[DATABASE/spell/Prestidigitation|prestidigitation]]_, _[[DATABASE/spell/Telekinetic Projectile|telekinetic projectile]]_
 <span class="in-box-ability">**Planar Workshop** An anugobu is intrinsically connected to small, pocket dimension that they typically refer to as their workshop. The workshop is an extradimensional 10-foot cube. The workshop holds an anugobu's collected tools and materials. An anugobu can enter or leave their planar workshop as an action, which has the concentrate and manipulate traits. The anugobu gains resistance 5 to all damage (except force) and concealment while within the workshop. The workshop is only visible while the anugobu is inside it.</span><span class="in-box-ability">**Stone Step** An anugobu can effortlessly stick to any worked or manufactured surface, allowing them to walk up walls and stand on ceilings.</span>

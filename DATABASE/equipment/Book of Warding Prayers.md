@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -54,10 +55,10 @@ weapon_type: null
 # Book of Warding Prayers<span class="item-type">Item 8</span>
 
 <span class="item-trait">Divine</span><span class="item-trait">Grimoire</span><span class="item-trait">Transmutation</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 425 gp
 **Bulk** L
 
 ---
-Script in a language of the Outer Planes adorns this book's spine, and a deity's symbol is etched on its cover. _Books of warding prayers_ are each devoted to a particular deity and are also a [[Religious Symbol]] of that deity.
+Script in a language of the Outer Planes adorns this book's spine, and a deity's symbol is etched on its cover. _Books of warding prayers_ are each devoted to a particular deity and are also a [[DATABASE/equipment/Religious Symbol|religious symbol]] of that deity.
 **Activate** <span class="action-icon">4</span> envision **Frequency** once per day; **Trigger** Your last action was to cast a prepared divine spell granted by your deity; **Effect** Choose chaotic, evil, good, or lawful; you can't choose a type that's part of your deity's alignment. You and all allies within 30 feet are suffused with your deity's protection, gaining resistance 10 to damage of that type for 1 minute.

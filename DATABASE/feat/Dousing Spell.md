@@ -11,6 +11,7 @@ name: Dousing Spell
 prerequisite: '[[DATABASE/feat/Elementalist Dedication|Elementalist Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -25,12 +26,12 @@ type: Feat
 # Dousing Spell <span class="action-icon">1</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Spellshape</span><span class="item-trait">Water</span>
-**Source** [[Rage of Elements]]
-**Archetype** [[Elementalist]]
-**Prerequisites** [[Elementalist Dedication]]; water is in your elemental philosophy
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
+**Archetype** [[DATABASE/archetype/Elementalist|Elementalist]]
+**Prerequisites** [[DATABASE/feat/Elementalist Dedication|Elementalist Dedication]]; water is in your elemental philosophy
 
 ---
-You enhance your spell with elemental water, soaking the target. If the next action you use is to Cast a Spell targeting a single creature, you soak the target of the spell with water. If the target has [[Persistent Damage]], the DC to end those conditions is reduced to 10, and the creature can attempt a flat check to end those types of persistent damage immediately. The spell gains the water trait (causing it to deal extra damage to creatures with weakness to water).
+You enhance your spell with elemental water, soaking the target. If the next action you use is to Cast a Spell targeting a single creature, you soak the target of the spell with water. If the target has [[DATABASE/condition/Persistent Damage|persistent acid or fire damage]], the DC to end those conditions is reduced to 10, and the creature can attempt a flat check to end those types of persistent damage immediately. The spell gains the water trait (causing it to deal extra damage to creatures with weakness to water).
 
 ## Traits
 

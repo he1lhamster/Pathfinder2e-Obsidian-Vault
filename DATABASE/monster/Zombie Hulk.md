@@ -72,22 +72,22 @@ wisdom: '+0'
 # Zombie Hulk
 
 These towering horrors are animated from the corpses of monstrosities.
-**Recall Knowledge - Undead ([[Religion]])**: DC 22
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 22
 **Unspecific Lore**: DC 20
 **Specific Lore**: DC 17
 
 # Zombie Hulk<span class="item-type">Creature 6</span>
 
 <span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Huge</span><span class="item-trait">Mindless</span><span class="item-trait">Undead</span><span class="item-trait">Zombie</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +8; darkvision
-**Skills** [[Athletics]] +18
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +18
 **Str** +7, **Dex** -1, **Con** +4, **Int** -5, **Wis** +0, **Cha** -2
 **Slow** A zombie is permanently slowed 1 and can’t use reactions.
 
 ---
 **AC** 21; **Fort** +16, **Ref** +9, **Will** +12
-**HP** 160 ([[Negative Healing]]); **Immunities** death effects, disease, mental, paralyzed, poison, unconscious; **Weaknesses** positive 10, slashing 10
+**HP** 160 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects, disease, mental, paralyzed, poison, unconscious; **Weaknesses** positive 10, slashing 10
 
 ---
 **Speed** 25 feet

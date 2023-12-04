@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: DC 19 Fortitude
 school: null
 size: null
@@ -56,11 +57,11 @@ weapon_type: null
 # Cytillesh Oil<span class="item-type">Item 3</span>
 
 <span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Injury</span><span class="item-trait">Poison</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 10 gp
 **Usage** held in 2 hands; **Bulk** L
 **Activate** <span class="action-icon">2</span> Interact
 
 ---
-This thick substance is distilled from the mind-robbing [[Cytillesh]] fungus, though it lacks memory-altering capabilities. 
+This thick substance is distilled from the mind-robbing [[DATABASE/equipment/Cytillesh|cytillesh]] fungus, though it lacks memory-altering capabilities. 
 **Saving Throw** DC 19 Fortitude; **Maximum Duration** 4 rounds; **Stage 1** 1d10 poison damage (1 round); **Stage 2** 1d12 poison damage (1 round); **Stage 3** 2d10 poison damage (1 round)

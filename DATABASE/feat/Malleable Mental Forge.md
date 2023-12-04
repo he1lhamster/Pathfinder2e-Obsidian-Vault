@@ -11,6 +11,7 @@ name: Malleable Mental Forge
 prerequisite: '[[DATABASE/feat/Mental Forge|Mental Forge]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Malleable Mental Forge <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Dark Archive]]
-**Archetype** [[Mind Smith]]
-**Prerequisites** [[Mental Forge]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Archetype** [[DATABASE/archetype/Mind Smith|Mind Smith]]
+**Prerequisites** [[DATABASE/feat/Mental Forge|Mental Forge]]
 
 ---
 You open your mind to further weapon customization. During your daily preparations, you can choose any two weapon traits from the Mental Forge feat to place on your weapon for 24 hours or until your next daily preparations (whichever comes first), replacing the traits you chose from the Mental Forge feat. Each day you can swap the choices with any other options on the list.

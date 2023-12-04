@@ -34,6 +34,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -53,7 +54,7 @@ weapon_type: Ranged
 ---
 # Hireling<span class="item-type">Item 0+</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 _ Pathfinder Society characters may not pay for hirelings as listed in the Core Rulebook. More capable hirelings are available via the Achievement Points system._
 **Bulk** —
 
@@ -62,10 +63,10 @@ Paid laborers can provide services for you. Unskilled hirelings can perform simp
 
 ## Hireling (Unskilled)<span class="item-type">Item 0</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 1 sp (per day)
 
 ## Hireling (Skilled)<span class="item-type">Item 0</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 5 sp (per day)

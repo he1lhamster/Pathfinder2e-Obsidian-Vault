@@ -11,6 +11,7 @@ name: Criminal Connections
 prerequisite: Expert in [[DATABASE/skill/Society|Society]] ; [[DATABASE/feat/Streetwise|Streetwise]]
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: society
@@ -25,15 +26,15 @@ type: Feat
 # Criminal Connections <span class="item-type">Feat 2</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** expert in [[Society]]; [[Streetwise]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** expert in [[DATABASE/skill/Society|Society]]; [[DATABASE/feat/Streetwise|Streetwise]]
 
 ---
-You have dealings with a variety of unsavory characters, which you can leverage to trade favors or meet powerful people. When you're in an area where you have connections (typically a settlement where you've spent downtime building connections or possibly another area in the same nation), you can attempt a [[Society]] check to arrange a meeting with an important criminal, such as a thieves' guild leader, or ask for a favor in exchange for a later favor of your contact's choice. The GM decides the DC based on the difficulty of the favor and the figure's prominence.
+You have dealings with a variety of unsavory characters, which you can leverage to trade favors or meet powerful people. When you're in an area where you have connections (typically a settlement where you've spent downtime building connections or possibly another area in the same nation), you can attempt a [[DATABASE/skill/Society|Society]] check to arrange a meeting with an important criminal, such as a thieves' guild leader, or ask for a favor in exchange for a later favor of your contact's choice. The GM decides the DC based on the difficulty of the favor and the figure's prominence.
 
 ## Criminal Connections Leads To...
 
-[[Quick Contacts]]
+[[DATABASE/feat/Quick Contacts|Quick Contacts]]
 
 ## Traits
 
@@ -47,4 +48,4 @@ A general feat with the skill trait improves your skills and their actions or gi
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.

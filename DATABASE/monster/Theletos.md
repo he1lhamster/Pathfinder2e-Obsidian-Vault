@@ -86,19 +86,19 @@ wisdom: '+5'
 # Theletos
 
 Theletoses maintain the balance between fate and free will. A theletos is a roughly spherical mass of crystals from which emerge four limbs, each split at the elbow and ending in three-fingered hands. A pair of crystalline tentacles also emerges from its body. Those who have been damaged by a theletos's tentacles describe a disorienting dilemma as they simultaneously feel forced to make a single choice while also being overwhelmed by the endless options available to choose from. Theletoses are more likely than most aeons to interfere in non-aeon societies, particularly in regions with draconian laws. Their involvement is twofold; a theletos concerns itself with both the freedom of individuals and the laws that restrict these individuals, even (or especially) when the two are in opposition.
-**Recall Knowledge - Monitor ([[Religion]])**: DC 23
+**Recall Knowledge - Monitor ([[DATABASE/skill/Religion|Religion]])**: DC 23
 **Unspecific Lore**: DC 21
 **Specific Lore**: DC 18
 
 # Theletos<span class="item-type">Creature 7</span>
 
 <span class="trait-alignment item-trait">LN</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Aeon</span><span class="item-trait">Monitor</span>
-**Source** [[Bestiary 2]] 
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
 **Perception** +18; darkvision
 **Languages** envisioning
-**Skills** [[Arcana]] +16, [[Intimidation]] +16, [[Religion]] +18, [[Stealth]] +15
+**Skills** [[DATABASE/skill/Arcana|Arcana]] +16, [[DATABASE/skill/Intimidation|Intimidation]] +16, [[DATABASE/skill/Religion|Religion]] +18, [[DATABASE/skill/Stealth|Stealth]] +15
 **Str** +4, **Dex** +4, **Con** +3, **Int** +3, **Wis** +5, **Cha** +3
-**Envisioning** When a theletos conveys information, it does so wordlessly through psychic projections. This acts as [[Telepathy]] with a range of 100 feet but is understandable to all creatures regardless of whether they have a language. The meaning to non-aeons can be vague and is often mysterious. A theletos can use this ability to communicate flawlessly with any other aeon on the same plane.
+**Envisioning** When a theletos conveys information, it does so wordlessly through psychic projections. This acts as [[DATABASE/monsterability/Telepathy|telepathy]] with a range of 100 feet but is understandable to all creatures regardless of whether they have a language. The meaning to non-aeons can be vague and is often mysterious. A theletos can use this ability to communicate flawlessly with any other aeon on the same plane.
 
 ---
 **AC** 25; **Fort** +16, **Ref** +13, **Will** +18; +1 status to all saves vs. magic
@@ -106,9 +106,9 @@ Theletoses maintain the balance between fate and free will. A theletos is a roug
 
 ---
 **Speed** 25 feet, fly 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +17 [+12/+7] (lawful, magical), **Damage** 2d10+4 bludgeoning plus 1d6 lawful</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> tentacle +17 [+13/+9] (agile, lawful, magical), **Damage** 2d8+4 slashing plus 1d6 lawful and fate drain</span>**Divine Innate Spells** DC 25, attack +17; **4th** _[[Augury]]_ (at will), _[[Charm]]_, _[[Dispel Magic]]_, _[[Enthrall]]_, _[[Outcast's Curse]]_, _[[Remove Curse]]_, _[[Suggestion]]_, _[[Touch of Idiocy]]_
-**Rituals** DC 25; **3rd** _[[Geas]]_
-<span class="in-box-ability">**Fate Drain** (curse, divine, mental) A creature damaged by the theletos's tentacle must succeed at a DC 22 Will save or become [[Stupefied]]. As long as the creature is stupefied, it can no longer benefit from fortune effects. If the target fails additional saves against this ability, the condition value increases by 1 (to a maximum of stupefied 4). This condition value decreases by 1 every 24 hours.</span><span class="in-box-ability">**Wrath of Fate** <span class="action-icon">2</span> (curse, divine, mental, misfortune) The theletos releases a 60-foot cone of energy from its center. Creatures in the cone become overwhelmed with the knowledge of various fates that destiny has in store for them and lack of clear pathways to these potential futures. They must succeed at a DC 26 Will save or be [[Slowed]] indefinitely. An affected creature can choose to roll twice when it attempts an attack, saving throw, or skill check and take the lower result. Regardless of the outcome, that creature is no longer slowed after that roll. The theletos can't use Wrath of Fate again for 1d4 rounds.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +17 [+12/+7] (lawful, magical), **Damage** 2d10+4 bludgeoning plus 1d6 lawful</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> tentacle +17 [+13/+9] (agile, lawful, magical), **Damage** 2d8+4 slashing plus 1d6 lawful and fate drain</span>**Divine Innate Spells** DC 25, attack +17; **4th** _[[DATABASE/spell/Augury|augury]]_ (at will), _[[DATABASE/spell/Charm|charm]]_, _[[DATABASE/spell/Dispel Magic|dispel magic]]_, _[[DATABASE/spell/Enthrall|enthrall]]_, _[[DATABASE/spell/Outcast's Curse|outcast's curse]]_, _[[DATABASE/spell/Remove Curse|remove curse]]_, _[[DATABASE/spell/Suggestion|suggestion]]_, _[[DATABASE/spell/Touch of Idiocy|touch of idiocy]]_
+**Rituals** DC 25; **3rd** _[[DATABASE/ritual/Geas|geas]]_
+<span class="in-box-ability">**Fate Drain** (curse, divine, mental) A creature damaged by the theletos's tentacle must succeed at a DC 22 Will save or become [[DATABASE/condition/Stupefied|stupefied 1]]. As long as the creature is stupefied, it can no longer benefit from fortune effects. If the target fails additional saves against this ability, the condition value increases by 1 (to a maximum of stupefied 4). This condition value decreases by 1 every 24 hours.</span><span class="in-box-ability">**Wrath of Fate** <span class="action-icon">2</span> (curse, divine, mental, misfortune) The theletos releases a 60-foot cone of energy from its center. Creatures in the cone become overwhelmed with the knowledge of various fates that destiny has in store for them and lack of clear pathways to these potential futures. They must succeed at a DC 26 Will save or be [[DATABASE/condition/Slowed|slowed 1]] indefinitely. An affected creature can choose to roll twice when it attempts an attack, saving throw, or skill check and take the lower result. Regardless of the outcome, that creature is no longer slowed after that roll. The theletos can't use Wrath of Fate again for 1d4 rounds.</span>
 
 ###  Maintaining the Balance
 

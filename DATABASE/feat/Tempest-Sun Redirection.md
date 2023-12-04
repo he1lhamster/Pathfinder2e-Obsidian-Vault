@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Magaambyan Attendant Dedication|Magaambyan Attend
   Dedication]] ; Tempest-Sun Magesaffiliation'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 subcategory: null
@@ -25,16 +26,16 @@ type: Feat
 # Tempest-Sun Redirection <span class="action-icon">1</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Metamagic</span>
-**Source** [[Character Guide]] 
-**Archetype** [[Magaambyan Attendant]]
-**Prerequisites** [[Magaambyan Attendant Dedication]]; Tempest-Sun Mages affiliation
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
+**Archetype** [[DATABASE/archetype/Magaambyan Attendant|Magaambyan Attendant]]
+**Prerequisites** [[DATABASE/feat/Magaambyan Attendant Dedication|Magaambyan Attendant Dedication]]; Tempest-Sun Mages affiliation
 
 ---
 If the next action you use is to Cast a Spell from your spell slots that damages other creatures, you can bend some of that spell’s offensive energy, protecting allies in the area and boosting your own defenses against certain foes. Select any number of targets of the spell and reduce the spell’s damage to those targets by an amount equal to the spell’s level. Until your next turn, when one of those targets damages you, that damage is reduced by twice the spell’s level.
 
 ## Tempest-Sun Redirection Leads To...
 
-[[Tempest-Sun Shielding]]
+[[DATABASE/feat/Tempest-Sun Shielding|Tempest-Sun Shielding]]
 
 ## Traits
 

@@ -11,6 +11,7 @@ name: Enchanting Arrow
 prerequisite: '[[DATABASE/feat/Eldritch Archer Dedication|Eldritch Archer Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Enchantment
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -27,12 +28,12 @@ type: Feat
 # Enchanting Arrow <span class="action-icon">2</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Emotion</span><span class="item-trait">Enchantment</span><span class="item-trait">Magical</span><span class="item-trait">Mental</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Eldritch Archer]]
-**Prerequisites** [[Eldritch Archer Dedication]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Eldritch Archer|Eldritch Archer]]
+**Prerequisites** [[DATABASE/feat/Eldritch Archer Dedication|Eldritch Archer Dedication]]
 
 ---
-With a single whisper carried on the wind, you enchant your ammunition to make a foe more vulnerable to your attacks. Make a bow Strike. On a hit, the target takes an additional 2d6 mental damage. On a critical hit, the target also becomes [[Stunned]]. The mental damage increases to 3d6 if your bow has a [[Striking]] rune, or to 4d6 if your bow has a _major striking_ rune.
+With a single whisper carried on the wind, you enchant your ammunition to make a foe more vulnerable to your attacks. Make a bow Strike. On a hit, the target takes an additional 2d6 mental damage. On a critical hit, the target also becomes [[DATABASE/condition/Stunned|stunned 1]]. The mental damage increases to 3d6 if your bow has a [[DATABASE/equipment/Striking|greater striking]] rune, or to 4d6 if your bow has a _major striking_ rune.
 
 ## Traits
 

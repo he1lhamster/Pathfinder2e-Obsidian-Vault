@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -56,7 +57,7 @@ weapon_type: null
 # Binding Snare<span class="item-type">Item 10</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Consumable</span><span class="item-trait">Mechanical</span><span class="item-trait">Snare</span><span class="item-trait">Trap</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 160 gp
 **Bulk** —
 
@@ -64,5 +65,5 @@ weapon_type: null
 When a creature enters the snare's square, several strands of strong wires ending in jagged hooks latch onto it before hauling it to the ground. The snare deals 2d6 piercing damage, and the targeted creature must attempt a DC 28 Reflex save.
 **Critical Success** The creature is unaffected.
 **Success** The creature takes half damage.
-**Failure** The creature takes full damage and is knocked [[Prone]] and [[Immobilized]] for 1 round ([[Escape]] DC 28).
-**Critical Failure** The creature takes double damage, is knocked prone, and is [[Restrained]] for 1 round (Escape DC 28).
+**Failure** The creature takes full damage and is knocked [[DATABASE/condition/Prone|prone]] and [[DATABASE/condition/Immobilized|immobilized]] for 1 round ([[DATABASE/action/Escape|Escape]] DC 28).
+**Critical Failure** The creature takes double damage, is knocked prone, and is [[DATABASE/condition/Restrained|restrained]] for 1 round (Escape DC 28).

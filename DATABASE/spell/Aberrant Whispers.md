@@ -20,6 +20,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -38,8 +39,8 @@ type: Focus
 # Aberrant Whispers<span class="item-type">Focus 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Auditory</span><span class="item-trait">Enchantment</span><span class="item-trait">Mental</span><span class="item-trait">Sorcerer</span>
-**Source** [[Core Rulebook]] 
-**Bloodline** [[Aberrant]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Bloodline** [[DATABASE/sorcererbloodline/Aberrant|aberrant]]
 **Cast** <span class="action-icon">1</span> to <span class="action-icon">3</span> verbal
 **Area** 5-foot emanation or more; **Targets** each foe in the area
 **Saving Throw** Will; **Duration** 1 round

@@ -12,6 +12,7 @@ prerequisite: null
 rarity: Common
 requirement: You are wielding two one-handed weapons, each in a different hand, one
   of which is a ranged weapon.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Dual-Weapon Reload (Gunslinger) <span class="action-icon">1</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Gunslinger</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Requirements** You are wielding two one-handed weapons, each in a different hand, one of which is a ranged weapon.
 
 ---

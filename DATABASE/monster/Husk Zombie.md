@@ -83,28 +83,28 @@ wisdom: '+1'
 # Husk Zombie
 
 Rather than allow a body to rot, some necromancers attempt to dry-cure the corpse to prevent further deterioration. Combined with special reagents, this process can preserve a rudimentary form of intelligence, allowing husk zombies to act more like predators than their mindless kin. Most husk zombies have no memories of their prior lives, though some keep trinkets from that time, oblivious as to why they value such items. A rare few husk zombies retain most of their former knowledge, though they tend to have gaps in their memory.
-**Recall Knowledge - Undead ([[Religion]])**: DC 16
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
 # Husk Zombie<span class="item-type">Creature 2</span>
 
 <span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Undead</span><span class="item-trait">Zombie</span>
-**Source** [[Book of the Dead]]
-**Perception** +5; [[Darkvision]]
-**Languages** [[Common]], [[Necril]]
-**Skills** [[Athletics]] +8, [[Deception]] +6, [[Intimidation]] +6, [[Stealth]] +7
+**Source** [[DATABASE/source/Book of the Dead|Book of the Dead]]
+**Perception** +5; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Necril|Necril]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +8, [[DATABASE/skill/Deception|Deception]] +6, [[DATABASE/skill/Intimidation|Intimidation]] +6, [[DATABASE/skill/Stealth|Stealth]] +7
 **Str** +4, **Dex** +3, **Con** +3, **Int** -1, **Wis** +1, **Cha** +0
-**Slow** A husk zombie is permanently [[Slowed]] and can't use reactions.
-**Items** [[Shortsword]]
+**Slow** A husk zombie is permanently [[DATABASE/condition/Slowed|slowed 1]] and can't use reactions.
+**Items** [[DATABASE/weapon/Shortsword|shortsword]]
 
 ---
 **AC** 17; **Fort** +7, **Ref** +9, **Will** +7
-**HP** 55 ([[Negative Healing]]); **Immunities** death effects, disease, mental, [[Paralyzed]], poison, [[Unconscious]]; **Weaknesses** positive 5, slashing 5
+**HP** 55 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects, disease, mental, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Unconscious|unconscious]]; **Weaknesses** positive 5, slashing 5
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> shortsword +11 [+7/+3] (agile, versatile S), **Damage** 1d6+4 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +11 [+7/+3] (agile), **Damage** 1d8+4 bludgeoning</span><span class="in-box-ability">**[[Sneak Attack]]** The husk zombie deals an additional 1d6 precision damage to [[Flat-Footed]] creatures.</span><span class="in-box-ability">**Sudden Surge** <span class="action-icon">4</span> **Trigger** The husk zombie's turn begins; **Effect** The husk zombie has a sudden burst of speed. They are [[Quickened]] this turn and can use the extra action only to Stride or Strike. If the husk zombie's first action this turn is a melee Strike, the target is [[Flat-Footed]] against the attack. The husk zombie can't use Sudden Surge again until after they spend at least 10 minutes standing motionless.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> shortsword +11 [+7/+3] (agile, versatile S), **Damage** 1d6+4 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +11 [+7/+3] (agile), **Damage** 1d8+4 bludgeoning</span><span class="in-box-ability">**[[DATABASE/monsterability/Sneak Attack|Sneak Attack]]** The husk zombie deals an additional 1d6 precision damage to [[DATABASE/condition/Flat-Footed|flat-footed]] creatures.</span><span class="in-box-ability">**Sudden Surge** <span class="action-icon">4</span> **Trigger** The husk zombie's turn begins; **Effect** The husk zombie has a sudden burst of speed. They are [[DATABASE/condition/Quickened|quickened]] this turn and can use the extra action only to Stride or Strike. If the husk zombie's first action this turn is a melee Strike, the target is [[DATABASE/condition/Flat-Footed|flat-footed]] against the attack. The husk zombie can't use Sudden Surge again until after they spend at least 10 minutes standing motionless.</span>
 
 ###  Saved Sentience
 

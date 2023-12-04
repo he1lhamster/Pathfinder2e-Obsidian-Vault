@@ -80,24 +80,24 @@ wisdom: '+2'
 ---
 # Skeletal Titan
 
-Only the powerful and foolish would raise the bones of a mighty [[Titan]] or similarly gargantuan creature as a skeleton. Skilled practitioners see this as a waste of a powerful body and imbue them with air walking magic based on those of titans, while the wise know it's nearly impossible to control such a colossus and that it's just as likely to crush its creator underneath its mighty foot as it is to smite their foes.
-**Recall Knowledge - Undead ([[Religion]])**: DC 31
+Only the powerful and foolish would raise the bones of a mighty [[DATABASE/monsterfamily/Titan|titan]] or similarly gargantuan creature as a skeleton. Skilled practitioners see this as a waste of a powerful body and imbue them with air walking magic based on those of titans, while the wise know it's nearly impossible to control such a colossus and that it's just as likely to crush its creator underneath its mighty foot as it is to smite their foes.
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 31
 **Unspecific Lore**: DC 29
 **Specific Lore**: DC 26
 
 # Skeletal Titan<span class="item-type">Creature 13</span>
 
 <span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Gargantuan</span><span class="item-trait">Mindless</span><span class="item-trait">Skeleton</span><span class="item-trait">Undead</span>
-**Source** [[Book of the Dead]]
-**Perception** +19; [[Darkvision]]
-**Skills** [[Athletics]] +28
+**Source** [[DATABASE/source/Book of the Dead|Book of the Dead]]
+**Perception** +19; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +28
 **Str** +9, **Dex** +3, **Con** +4, **Int** -5, **Wis** +2, **Cha** -1
 
 ---
 **AC** 33; **Fort** +23, **Ref** +24, **Will** +21
-**HP** 210 ([[Negative Healing]]); **Immunities** death effects, disease, mental, [[Paralyzed]], poison, [[Unconscious]]; **Resistances** cold 10, electricity 10, fire 10, piercing 15, slashing 15
+**HP** 210 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects, disease, mental, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Unconscious|unconscious]]; **Resistances** cold 10, electricity 10, fire 10, piercing 15, slashing 15
 
 ---
-**Speed** 40 feet; [[Air Walk]]
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> mountain sword +26 [+21/+16] (reach 20 feet), **Damage** 3d12+13 bludgeoning</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +26 [+22/+18] (agile, reach 15 feet), **Damage** 3d8+13 bludgeoning</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> foot +26 [+21/+16] (reach 15 feet), **Damage** 3d8+13 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> bone +24 [+19/+14] (brutal, range increment 60 feet), **Damage** 2d10+13 plus bone debris</span>**Divine Innate Spells** DC 31; **Constant** **(7th)** _[[Air Walk]]_
-<span class="in-box-ability">**Bone Debris** The bones a skeletal titan throws are large enough to clutter the battlefield. When the skeletal titan hits a creature with a bone attack, the projectile becomes difficult terrain in the square the creature occupies (or, if the creature occupies more than one square, one square it occupies of the titan's choice). If the titan misses with a bone attack, instead a random square adjacent to the creature becomes difficult terrain.</span><span class="in-box-ability">**Mountain Slam** <span class="action-icon">3</span> The skeletal titan slams its mountain sword into the ground. The shock wave reverberates, dealing mountain sword damage to all creatures in a 20- foot line (DC 34 basic Reflex save). Those who fail are also knocked [[Prone]].</span><span class="in-box-ability">**[[Trample]]** <span class="action-icon">3</span> Huge or smaller, foot, DC 34</span>
+**Speed** 40 feet; [[DATABASE/spell/Air Walk|air walk]]
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> mountain sword +26 [+21/+16] (reach 20 feet), **Damage** 3d12+13 bludgeoning</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +26 [+22/+18] (agile, reach 15 feet), **Damage** 3d8+13 bludgeoning</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> foot +26 [+21/+16] (reach 15 feet), **Damage** 3d8+13 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> bone +24 [+19/+14] (brutal, range increment 60 feet), **Damage** 2d10+13 plus bone debris</span>**Divine Innate Spells** DC 31; **Constant** **(7th)** _[[DATABASE/spell/Air Walk|air walk]]_
+<span class="in-box-ability">**Bone Debris** The bones a skeletal titan throws are large enough to clutter the battlefield. When the skeletal titan hits a creature with a bone attack, the projectile becomes difficult terrain in the square the creature occupies (or, if the creature occupies more than one square, one square it occupies of the titan's choice). If the titan misses with a bone attack, instead a random square adjacent to the creature becomes difficult terrain.</span><span class="in-box-ability">**Mountain Slam** <span class="action-icon">3</span> The skeletal titan slams its mountain sword into the ground. The shock wave reverberates, dealing mountain sword damage to all creatures in a 20- foot line (DC 34 basic Reflex save). Those who fail are also knocked [[DATABASE/condition/Prone|prone]].</span><span class="in-box-ability">**[[DATABASE/monsterability/Trample|Trample]]** <span class="action-icon">3</span> Huge or smaller, foot, DC 34</span>

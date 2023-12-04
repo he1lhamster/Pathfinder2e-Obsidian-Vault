@@ -11,6 +11,7 @@ name: Senses of the Bear
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Senses of the Bear <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Treasure Vault]] 
-**Archetype** [[Ursine Avenger Hood]]
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
+**Archetype** [[DATABASE/archetype/Ursine Avenger Hood|Ursine Avenger Hood]]
 
 ---
 While in ursine form, you gain low-light vision and scent (imprecise) 30 feet. If you already had low-light vision, you instead gain darkvision.

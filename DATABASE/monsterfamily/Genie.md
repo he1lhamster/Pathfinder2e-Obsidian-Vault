@@ -3,6 +3,7 @@ creature_family: Genie
 id: '50'
 name: Genie
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,7 +11,7 @@ type: Creature Family
 ---
 # Genie
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 A unique type of genie exists for each Elemental Plane, and the bodies of genies are formed out of elemental matter corresponding to their native plane: djinn are formed from wind, clouds, and storms; efreet are fire made flesh; marids are beings of water; and shaitans are composed of metal, gems, and stone. Lastly, the jann are formed out of all four elements, and are the weakest of geniekind.
 
 ## Genie Nobles
@@ -19,4 +20,4 @@ Genie nobles with titles unique to their kind (as detailed in each sidebar) rule
 
 ### Members
 
-[[Djinni]] (Creature 5), [[Efreeti]] (Creature 9), [[Faydhaan Shuyookh]] (Creature 14), [[Gennayn]] (Creature 2), [[Ifrit Shuyookh]] (Creature 14), [[Jaathoom Shuyookh]] (Creature 10), [[Jabali Shuyookh]] (Creature 12), [[Jann Shuyookh]] (Creature 9), [[Janni]] (Creature 4), [[Kizidhar]] (Creature 6), [[Kizidhar Shuyookh]] (Creature 11), [[Marid]] (Creature 9), [[Shaitan]] (Creature 7), [[Zuhra]] (Creature 8), [[Zuhra Shuyookh]] (Creature 13)
+[[DATABASE/monster/Djinni|Djinni]] (Creature 5), [[DATABASE/monster/Efreeti|Efreeti]] (Creature 9), [[DATABASE/monster/Faydhaan Shuyookh|Faydhaan Shuyookh]] (Creature 14), [[DATABASE/monster/Gennayn|Gennayn]] (Creature 2), [[DATABASE/monster/Ifrit Shuyookh|Ifrit Shuyookh]] (Creature 14), [[DATABASE/monster/Jaathoom Shuyookh|Jaathoom Shuyookh]] (Creature 10), [[DATABASE/monster/Jabali Shuyookh|Jabali Shuyookh]] (Creature 12), [[DATABASE/monster/Jann Shuyookh|Jann Shuyookh]] (Creature 9), [[DATABASE/monster/Janni|Janni]] (Creature 4), [[DATABASE/monster/Kizidhar|Kizidhar]] (Creature 6), [[DATABASE/monster/Kizidhar Shuyookh|Kizidhar Shuyookh]] (Creature 11), [[DATABASE/monster/Marid|Marid]] (Creature 9), [[DATABASE/monster/Shaitan|Shaitan]] (Creature 7), [[DATABASE/monster/Zuhra|Zuhra]] (Creature 8), [[DATABASE/monster/Zuhra Shuyookh|Zuhra Shuyookh]] (Creature 13)

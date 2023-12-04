@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/rogueracket/Thief|thief racket]] ; [[DATABASE/class_/R
   Strike]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Precise Debilitations <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Rogue</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Thief]]; [[Rogue]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/rogueracket/Thief|thief racket]]; [[DATABASE/class_/Rogue|Debilitating Strike]]
 
 ---
 You carefully aim and gracefully deliver your debilitations. Add the following debilitations to the list you can choose from when you use Debilitating Strike.

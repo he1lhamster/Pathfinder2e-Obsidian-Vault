@@ -11,6 +11,7 @@ name: Ferocious Gust
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -26,11 +27,11 @@ type: Feat
 # Ferocious Gust <span class="action-icon">2</span> <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Air</span><span class="item-trait">Concentrate</span><span class="item-trait">Manipulate</span><span class="item-trait">Strix</span>
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 **Frequency** once per 10 minutes
 
 ---
-With heavy wing beats, you whip up a furious gust and direct it at your opponents. This air blast has the effects of [[Gust of Wind]] with a DC equal to your class DC or spell DC, whichever is higher.
+With heavy wing beats, you whip up a furious gust and direct it at your opponents. This air blast has the effects of [[DATABASE/spell/Gust of Wind|gust of wind]] with a DC equal to your class DC or spell DC, whichever is higher.
 
 ## Traits
 

@@ -92,20 +92,20 @@ wisdom: '+1'
 
 Not all would-be dragonslayers who die a valiant death rest peacefully amid the annals of legend. Sometimes, a draconic necromancer is so impressed by its fallen foe that the dragon ritually raises the dead warrior to serve the dragon in undeath. These undead guardians are infused with a fraction of the power of the dragon who slew them, channeling the same energy as their draconic masters’ breath.
  Dragonscarred dead are similar to skeletal champions or graveknights in that they are not merely reanimated servants who mindlessly follow orders, but are instead powerful wardens who maintain the same agency they bore in life. While a dragonscarred dead is often magically compelled to follow its reanimator’s commands, some of these undead dragonslayers manage to escape their masters and pursue their own vile agendas—which may involve rallying allies to challenge their draconic creator once more and finish the dire mission they started in life.
-**Recall Knowledge - Undead ([[Religion]])**: DC 33
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 33
 **Unspecific Lore**: DC 31
 **Specific Lore**: DC 28
 
 # Dragonscarred Dead<span class="item-type">Creature 13</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Fire</span><span class="item-trait">Undead</span>
-**Source** [[Pathfinder 148. Fires of the Haunted City]]
+**Source** [[DATABASE/source/Pathfinder 148. Fires of the Haunted City|Pathfinder #148: Fires of the Haunted City]]
 **Perception** +24; darkvision, guardian sense
-**Languages** [[Common]], [[Draconic]], [[Necril]]
-**Skills** [[Athletics]] +25, [[Lore]] +22, [[Intimidation]] +21
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Necril|Necril]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +25, [[DATABASE/skill/Lore|Dragon Lore]] +22, [[DATABASE/skill/Intimidation|Intimidation]] +21
 **Str** +6, **Dex** +5, **Con** +4, **Int** +1, **Wis** +1, **Cha** +2
 **Guardian Sense** (arcane, detection, divination) The dragonscarred dead is immediately aware of any intruder that enters the lair of its creator dragon. It does not know the exact location of the intruder but remains aware of the intruder’s presence until the intruder either leaves or is destroyed.
-**Items** [[Greatsword]]
+**Items** [[DATABASE/weapon/Greatsword|broken greatsword]]
 
 ---
 **AC** 33; **Fort** +25, **Ref** +20, **Will** +22; +1 status to all saves vs. magic
@@ -116,7 +116,7 @@ Not all would-be dragonslayers who die a valiant death rest peacefully amid the 
 **Speed** 25 feet
 <span class="in-box-ability">**Melee** <span class="action-icon">1</span> breath-seared greatsword +27 [+22/+17] (magical, versatile P), **Damage** 1d12+9 slashing plus 2d6 negative plus 3d6 fire</span><span class="in-box-ability">**Breath-Seared Sword** The dragonscarred dead’s weapon is magically scorched by a dragon’s breath. When wielded by the dragonscarred dead who carried it in life, the sword deals an extra 2d6 negative damage and 3d6 fire damage. In the hands of any other creature, it is merely a broken greatsword.</span><span class="in-box-ability">**Glare of Rage** <span class="action-icon">2</span> (arcane, enchantment, mental, visual) The dragonscarred dead focuses its boundless frustration in a gaze targeting one creature it can see within 30 feet. That creature must attempt a DC 30 Will save.
  **Critical Success** The creature is unaffected.
- **Success** The creature is [[Stunned]].
+ **Success** The creature is [[DATABASE/condition/Stunned|stunned 1]].
  **Failure** The creature is stunned for 1 round.
  **Critical Failure** The creature is stunned for 1d4 rounds and is fatigued.</span>
 

@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Popdust<span class="item-type">Item 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Sonic</span>
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 1 gp
 **Hands** 1; **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact

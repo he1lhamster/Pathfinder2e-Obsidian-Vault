@@ -11,6 +11,7 @@ name: Persistent Creation
 prerequisite: '[[DATABASE/feat/Halcyon Speaker Dedication|Halcyon Speaker Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 subcategory: null
@@ -23,16 +24,16 @@ type: Feat
 # Persistent Creation <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Character Guide]] 
-**Archetype** [[Halcyon Speaker]]
-**Prerequisites** [[Halcyon Speaker Dedication]]
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
+**Archetype** [[DATABASE/archetype/Halcyon Speaker|Halcyon Speaker]]
+**Prerequisites** [[DATABASE/feat/Halcyon Speaker Dedication|Halcyon Speaker Dedication]]
 
 ---
-You can cast [[Creation]] as an innate spell at will, choosing whether it is arcane or primal each time. The created object lasts until you spend 1 hour not within its immediate vicinity or until it is destroyed. Such objects are called persistent creations. If you cast _creation_ again, any persistent creation you previously created with the spell immediately disintegrates.
+You can cast [[DATABASE/spell/Creation|creation]] as an innate spell at will, choosing whether it is arcane or primal each time. The created object lasts until you spend 1 hour not within its immediate vicinity or until it is destroyed. Such objects are called persistent creations. If you cast _creation_ again, any persistent creation you previously created with the spell immediately disintegrates.
 
 ## Persistent Creation Leads To...
 
-[[Charged Creation]]
+[[DATABASE/feat/Charged Creation|Charged Creation]]
 
 ## Traits
 

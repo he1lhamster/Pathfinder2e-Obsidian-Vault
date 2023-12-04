@@ -2,6 +2,7 @@
 id: '5'
 name: Age of Ashes Player's Guide
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -16,4 +17,4 @@ type: Source
 
 ## Backgrounds [9]
 
-[[Dragon Scholar]], [[Emancipated]], [[Haunting Vision]], [[Hellknight Historian]], [[Local Scion]], [[Out-of-Towner]], [[Reputation Seeker]], [[Returning Descendant]], [[Truth Seeker]]
+[[DATABASE/background/Dragon Scholar|Dragon Scholar]], [[DATABASE/background/Emancipated|Emancipated]], [[DATABASE/background/Haunting Vision|Haunting Vision]], [[DATABASE/background/Hellknight Historian|Hellknight Historian]], [[DATABASE/background/Local Scion|Local Scion]], [[DATABASE/background/Out-of-Towner|Out-of-Towner]], [[DATABASE/background/Reputation Seeker|Reputation Seeker]], [[DATABASE/background/Returning Descendant|Returning Descendant]], [[DATABASE/background/Truth Seeker|Truth Seeker]]

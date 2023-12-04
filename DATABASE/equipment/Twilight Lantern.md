@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -56,7 +57,7 @@ weapon_type: null
 # Twilight Lantern<span class="item-type">Item 6+</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Light</span><span class="item-trait">Magical</span><span class="item-trait">Transmutation</span>
-**Source** [[Pathfinder 172. Secrets of the Temple City]]
+**Source** [[DATABASE/source/Pathfinder 172. Secrets of the Temple City|Pathfinder #172: Secrets of the Temple City]]
 **Usage** held in 1 hand; **Bulk** L
 
 ---
@@ -66,27 +67,27 @@ This elegant hooded lantern is made from onyx-black metal. In dim light, flecks 
 
 ## Twilight Lantern (Lesser)<span class="item-type">Item 6</span>
 
-**Source** [[Pathfinder 172. Secrets of the Temple City]]
+**Source** [[DATABASE/source/Pathfinder 172. Secrets of the Temple City|Pathfinder #172: Secrets of the Temple City]]
 **Price** 235 gp
 **Bulk** L
 
 ## Twilight Lantern (Moderate)<span class="item-type">Item 10</span>
 
-**Source** [[Pathfinder 172. Secrets of the Temple City]]
+**Source** [[DATABASE/source/Pathfinder 172. Secrets of the Temple City|Pathfinder #172: Secrets of the Temple City]]
 **Price** 850 gp
 **Bulk** L
 The counteract modifier is +17, and the maximum radius is equal to triple the light's standard radius.
 
 ## Twilight Lantern (Greater)<span class="item-type">Item 14</span>
 
-**Source** [[Pathfinder 172. Secrets of the Temple City]]
+**Source** [[DATABASE/source/Pathfinder 172. Secrets of the Temple City|Pathfinder #172: Secrets of the Temple City]]
 **Price** 3,700 gp
 **Bulk** L
 As _moderate twilight lantern_, but the counteract modifier is +21.
 
 ## Twilight Lantern (Major)<span class="item-type">Item 18</span>
 
-**Source** [[Pathfinder 172. Secrets of the Temple City]]
+**Source** [[DATABASE/source/Pathfinder 172. Secrets of the Temple City|Pathfinder #172: Secrets of the Temple City]]
 **Price** 18,750 gp
 **Bulk** L
 The counteract modifier is +28, and the maximum radius is equal to quadruple the light's standard radius.

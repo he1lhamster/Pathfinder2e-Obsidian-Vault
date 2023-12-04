@@ -3,6 +3,7 @@ bloodline: Aberrant
 id: '1'
 name: Aberrant
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 spell:
 - '[[DATABASE/spell/Aberrant Whispers|Aberrant Whispers]]'
@@ -24,10 +25,10 @@ type: Sorcerer Bloodline
 ---
 # Aberrant
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Something speaks to you from beyond the stars or below the earth. Ancient and unknowable, this alien influence presses against your mind.
 **Spell List** occult
-**Bloodline Skills** [[Intimidation]], [[Occultism]]
-**Granted Spells** cantrip: [[Daze]], 1st: [[Spider Sting]], 2nd: [[Touch of Idiocy]], 3rd: [[Vampiric Touch]], 4th: [[Confusion]], 5th: [[Black Tentacles]], 6th: [[Feeblemind]], 7th: [[Warp Mind]], 8th: [[Uncontrollable Dance]], 9th: [[Unfathomable Song]]
-**Bloodline Spells** initial: [[Tentacular Limbs]], advanced: [[Aberrant Whispers]], greater: [[Unusual Anatomy]]
+**Bloodline Skills** [[DATABASE/skill/Intimidation|Intimidation]], [[DATABASE/skill/Occultism|Occultism]]
+**Granted Spells** cantrip: [[DATABASE/spell/Daze|daze]], 1st: [[DATABASE/spell/Spider Sting|spider sting]], 2nd: [[DATABASE/spell/Touch of Idiocy|touch of idiocy]], 3rd: [[DATABASE/spell/Vampiric Touch|vampiric touch]], 4th: [[DATABASE/spell/Confusion|confusion]], 5th: [[DATABASE/spell/Black Tentacles|black tentacles]], 6th: [[DATABASE/spell/Feeblemind|feeblemind]], 7th: [[DATABASE/spell/Warp Mind|warp mind]], 8th: [[DATABASE/spell/Uncontrollable Dance|uncontrollable dance]], 9th: [[DATABASE/spell/Unfathomable Song|unfathomable song]]
+**Bloodline Spells** initial: [[DATABASE/spell/Tentacular Limbs|tentacular limbs]], advanced: [[DATABASE/spell/Aberrant Whispers|aberrant whispers]], greater: [[DATABASE/spell/Unusual Anatomy|unusual anatomy]]
 **Blood Magic** Aberrant whispers shield one target’s mind or your own, granting a +2 status bonus to Will saving throws for 1 round.

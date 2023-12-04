@@ -11,6 +11,7 @@ name: Ceremony of Sunlight
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Ceremony of Sunlight <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Conrasu</span>
-**Source** [[The Mwangi Expanse]]
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]
 
 ---
 You have learned how to master the power contained within sunlight, just like the trees that form your body. Your Sunlight Healing recovers 1d8 Hit Points per level.

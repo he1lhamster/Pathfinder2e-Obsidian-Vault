@@ -20,6 +20,7 @@ patron_theme: null
 range: half your Speed
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -37,7 +38,7 @@ type: Focus
 # Dimensional Assault<span class="item-type">Focus 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Conjuration</span><span class="item-trait">Magus</span><span class="item-trait">Teleportation</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Cast** <span class="action-icon">1</span> verbal
 **Range** half your Speed
 

@@ -11,6 +11,7 @@ name: Metamagic Mastery
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Metamagic Mastery <span class="item-type">Feat 20</span>
 
 <span class="item-trait">Sorcerer</span><span class="item-trait">Wizard</span>
-**Source** [[Core Rulebook]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
 Altering your spells doesn’t take any longer than casting them normally. You can use metamagic single actions as free actions.

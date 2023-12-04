@@ -11,6 +11,7 @@ name: Twin Riposte
 prerequisite: null
 rarity: Common
 requirement: You are benefiting from [[DATABASE/feat/Twin Parry|Twin Parry]] .
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,14 +25,14 @@ type: Feat
 # Twin Riposte <span class="action-icon">5</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Fighter</span><span class="item-trait">Ranger</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Dual-Weapon Warrior]]*
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Dual-Weapon Warrior|Dual-Weapon Warrior]]*
 **Trigger** A creature within your reach critically fails a Strike against you.
-**Requirements** You are benefiting from [[Twin Parry]].
+**Requirements** You are benefiting from [[DATABASE/feat/Twin Parry|Twin Parry]].
 * This archetype offers Twin Riposte at a different level than displayed here.
 
 ---
-A clever parry with one weapon leaves your opponent open to an attack with the other weapon. Make a melee Strike or use a [[Disarm]] action against the triggering opponent.
+A clever parry with one weapon leaves your opponent open to an attack with the other weapon. Make a melee Strike or use a [[DATABASE/action/Disarm|Disarm]] action against the triggering opponent.
 
 ## Archetype Use
 
@@ -39,4 +40,4 @@ This feat can be used for one or more Archetypes in addition to the listed Class
 
 ## Twin Riposte Leads To...
 
-[[Improved Twin Riposte (Fighter)]], [[Improved Twin Riposte (Ranger)]], [[Reflecting Riposte]]
+[[DATABASE/feat/Improved Twin Riposte (Fighter)|Improved Twin Riposte (Fighter)]], [[DATABASE/feat/Improved Twin Riposte (Ranger)|Improved Twin Riposte (Ranger)]], [[DATABASE/feat/Reflecting Riposte|Reflecting Riposte]]

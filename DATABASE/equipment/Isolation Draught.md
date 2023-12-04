@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: DC 25 Fortitude
 school: null
 size: null
@@ -59,11 +60,11 @@ weapon_type: null
 # Isolation Draught<span class="item-type">Item 7</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Ingested</span><span class="item-trait">Poison</span>
-**Source** [[Pathfinder 149. Against the Scarlet Triad]]
+**Source** [[DATABASE/source/Pathfinder 149. Against the Scarlet Triad|Pathfinder #149: Against the Scarlet Triad]]
 **Price** 55 gp
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
 ---
 Derived from steeping toxic highland plum pits in refined grain alcohols, this clear tonic slowly shuts down the imbiber’s senses.
- **Saving Throw** DC 25 Fortitude; **Onset** 10 minutes; **Maximum Duration** 30 minutes; **Stage 1** [[Dazzled]], –3 to all Perception checks (1 minute); **Stage 2** dazzled, [[Deafened]], –5 to all Perception checks (1 minute); **Stage 3** [[Blinded]], deafened, –5 to all Perception checks (5 minutes)
+ **Saving Throw** DC 25 Fortitude; **Onset** 10 minutes; **Maximum Duration** 30 minutes; **Stage 1** [[DATABASE/condition/Dazzled|dazzled]], –3 to all Perception checks (1 minute); **Stage 2** dazzled, [[DATABASE/condition/Deafened|deafened]], –5 to all Perception checks (1 minute); **Stage 3** [[DATABASE/condition/Blinded|blinded]], deafened, –5 to all Perception checks (5 minutes)

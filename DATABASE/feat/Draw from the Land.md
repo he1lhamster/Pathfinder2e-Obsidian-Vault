@@ -13,6 +13,7 @@ prerequisite: '[[DATABASE/feat/Geomancer Dedication|Geomancer Dedication]] ; Exp
 rarity: Common
 requirement: You gained a terrain attunement benefit this turn, and it matched the
   terrain you're in.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -25,9 +26,9 @@ type: Feat
 # Draw from the Land <span class="action-icon">1</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Secrets of Magic]] 
-**Archetype** [[Geomancer]]
-**Prerequisites** [[Geomancer Dedication]]; expert in [[Nature]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
+**Archetype** [[DATABASE/archetype/Geomancer|Geomancer]]
+**Prerequisites** [[DATABASE/feat/Geomancer Dedication|Geomancer Dedication]]; expert in [[DATABASE/skill/Nature|Nature]]
 **Requirements** You gained a terrain attunement benefit this turn, and it matched the terrain you're in.
 
 ---

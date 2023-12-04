@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -50,10 +51,10 @@ weapon_type: null
 ---
 # Sack of Rotten Fruit<span class="item-type">Item 1</span>
 
-**Source** [[A Fistful of Flowers]]
+**Source** [[DATABASE/source/A Fistful of Flowers|A Fistful of Flowers]]
 **Price** 3 gp
 **Hands** 1; **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Strike
 
 ---
-Each of these unassuming sacks contains enough rotting fruit to provide a [[Fungus Leshy]] [[Leshy]] with 1 week's worth of rations, along with clusters of stones to help press out the fruit's juices. When you Strike a creature with a sack of rotten fruit, the sack is consumed while the creature takes 1d4 bludgeoning damage and must attempt a DC 15 Fortitude save. On a failure, the creature is [[Sickened]]. The range increment of a thrown sack of rotten fruit is 20 feet.
+Each of these unassuming sacks contains enough rotting fruit to provide a [[DATABASE/heritage/Fungus Leshy|fungus]] [[DATABASE/ancestry/Leshy|leshy]] with 1 week's worth of rations, along with clusters of stones to help press out the fruit's juices. When you Strike a creature with a sack of rotten fruit, the sack is consumed while the creature takes 1d4 bludgeoning damage and must attempt a DC 15 Fortitude save. On a failure, the creature is [[DATABASE/condition/Sickened|sickened 1]]. The range increment of a thrown sack of rotten fruit is 20 feet.

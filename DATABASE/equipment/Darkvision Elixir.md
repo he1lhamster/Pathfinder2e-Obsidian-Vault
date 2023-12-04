@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Darkvision Elixir<span class="item-type">Item 2+</span>
 
 <span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Elixir</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
@@ -63,18 +64,18 @@ After you drink this elixir, your sight becomes sharper in darkness. You gain da
 
 ## Darkvision Elixir (Lesser)<span class="item-type">Item 2</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 6 gp
 The duration is 10 minutes.
 
 ## Darkvision Elixir (Moderate)<span class="item-type">Item 4</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 11 gp
 The duration is 1 hour.
 
 ## Darkvision Elixir (Greater)<span class="item-type">Item 8</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 90 gp
 The duration is 24 hours.

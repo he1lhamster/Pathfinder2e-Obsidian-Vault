@@ -20,6 +20,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -38,8 +39,8 @@ type: Focus
 # Embrace the Pit<span class="item-type">Focus 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Evil</span><span class="item-trait">Morph</span><span class="item-trait">Sorcerer</span><span class="item-trait">Transmutation</span>
-**Source** [[Core Rulebook]] 
-**Bloodline** [[Diabolic]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Bloodline** [[DATABASE/sorcererbloodline/Diabolic|diabolic]]
 **Cast** <span class="action-icon">1</span> verbal
 **Duration** 1 minute
 

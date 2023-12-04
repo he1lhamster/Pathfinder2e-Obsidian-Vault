@@ -2,6 +2,7 @@
 id: '88'
 name: Malevolence
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -16,15 +17,15 @@ type: Source
 
 ## Equipment [3]
 
-[[Brain Cylinder]], [[Starless Scope]], [[Void Mirror]]
+[[DATABASE/equipment/Brain Cylinder|Brain Cylinder]], [[DATABASE/equipment/Starless Scope|Starless Scope]], [[DATABASE/equipment/Void Mirror|Void Mirror]]
 
 ## Monsters [2]
 
-[[Algea]], [[Tanglebones]]
+[[DATABASE/monster/Algea|Algea]], [[DATABASE/monster/Tanglebones|Tanglebones]]
 
 ## Rituals [1]
 
-[[Extract Brain]]
+[[DATABASE/ritual/Extract Brain|Extract Brain]]
 
 ## Rules [1]
 
@@ -32,4 +33,4 @@ Researching the Malevolence
 
 ## Spells [1]
 
-[[Internal Insurrection]]
+[[DATABASE/spell/Internal Insurrection|Internal Insurrection]]

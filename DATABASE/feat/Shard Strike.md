@@ -11,6 +11,7 @@ name: Shard Strike
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -26,10 +27,10 @@ type: Feat
 # Shard Strike <span class="action-icon">2</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Metal</span><span class="item-trait">Primal</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
-Jagged metal shards form in the air and lash out from you. You choose shards or spines, which changes the area, damage type, and critical failure effect. Each creature in the area attempts a basic Reflex save against your class DC. Shards deal 1d6 slashing damage in a 15-foot cone, and a creature that critically fails takes 1d6 [[Persistent Damage]]. Spines deal 1d6 piercing damage in a 30-foot line, and a creature that critically fails is [[Clumsy]] until the start of your next turn.
+Jagged metal shards form in the air and lash out from you. You choose shards or spines, which changes the area, damage type, and critical failure effect. Each creature in the area attempts a basic Reflex save against your class DC. Shards deal 1d6 slashing damage in a 15-foot cone, and a creature that critically fails takes 1d6 [[DATABASE/condition/Persistent Damage|persistent bleed damage]]. Spines deal 1d6 piercing damage in a 30-foot line, and a creature that critically fails is [[DATABASE/condition/Clumsy|clumsy 1]] until the start of your next turn.
 
 ---
 **Level (+2)** The damage increases by 1d6.

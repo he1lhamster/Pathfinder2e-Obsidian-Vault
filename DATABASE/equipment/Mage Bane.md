@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: DC 32 Fortitude
 school: null
 size: null
@@ -58,11 +59,11 @@ weapon_type: null
 # Mage Bane<span class="item-type">Item 12</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Injury</span><span class="item-trait">Poison</span>
-**Source** [[Pathfinder 149. Against the Scarlet Triad]]
+**Source** [[DATABASE/source/Pathfinder 149. Against the Scarlet Triad|Pathfinder #149: Against the Scarlet Triad]]
 **Price** 325 gp
 **Usage** held in 2 hands; **Bulk** L
 **Activate** <span class="action-icon">3</span> Interact
 
 ---
 Upon being mixed and injected into the bloodstream, this powder of the crimson orchid quickly assaults the brain and nerves, disrupting the victim’s ability to piece together coherent thoughts and spells.
- **Saving Throw** DC 32 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 2d6 mental damage and [[Stupefied]] (1 round); **Stage 2** 3d6 mental damage and stupefied 3 (1 round); **Stage 3** 4d6 mental damage and stupefied 4 (1 round)
+ **Saving Throw** DC 32 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 2d6 mental damage and [[DATABASE/condition/Stupefied|stupefied 2]] (1 round); **Stage 2** 3d6 mental damage and stupefied 3 (1 round); **Stage 3** 4d6 mental damage and stupefied 4 (1 round)

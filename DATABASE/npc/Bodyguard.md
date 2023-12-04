@@ -64,19 +64,19 @@ wisdom: '+1'
 # Bodyguard
 
 Hired to protect someone famous or powerful, bodyguards use intimidation, quick wits, and martial skill to keep their charges safe. Such mercenaries might be auxiliaries to a noble's own guards, but with special directives to safeguard their patrons.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 15
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Bodyguard<span class="item-type">Creature 1</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Perception** +8
-**Languages** [[Common]]
-**Skills** [[Athletics]] +7, [[Intimidation]] +6, [[Society]] +2
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +7, [[DATABASE/skill/Intimidation|Intimidation]] +6, [[DATABASE/skill/Society|Society]] +2
 **Str** +4, **Dex** +2, **Con** +3, **Int** -1, **Wis** +1, **Cha** +0
-**Items** [[Greatclub]], [[Sap]], [[Studded Leather Armor]]
+**Items** [[DATABASE/weapon/Greatclub|greatclub]], [[DATABASE/weapon/Sap|sap]], [[DATABASE/armor/Studded Leather Armor|studded leather armor]]
 
 ---
 **AC** 16; **Fort** +8, **Ref** +7, **Will** +4

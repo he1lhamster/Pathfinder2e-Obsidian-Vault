@@ -11,6 +11,7 @@ name: Spirit Speaker
 prerequisite: Expert in [[DATABASE/skill/Nature|Nature]]
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Pathfinder 175. Broken Tusk Moon|Pathfinder #175: Broken
   Tusk Moon]]'
@@ -28,11 +29,11 @@ type: Feat
 # Spirit Speaker <span class="item-type">Feat 2</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">General</span><span class="item-trait">Necromancy</span><span class="item-trait">Secret</span><span class="item-trait">Skill</span>
-**Source** [[Pathfinder 175. Broken Tusk Moon]]
-**Prerequisites** expert in [[Nature]]
+**Source** [[DATABASE/source/Pathfinder 175. Broken Tusk Moon|Pathfinder #175: Broken Tusk Moon]]
+**Prerequisites** expert in [[DATABASE/skill/Nature|Nature]]
 
 ---
-You know that when an animal dies, its spirit lingers briefly before moving on. Using low chants, body language that shows respect, and special movements that demonstrate to the spirit that you are an ally, you glean information from a spirit before it departs. This is a 1-minute activity. You must begin the activity while adjacent to the body of an animal or beast that died within the last 1 minute. As part of the activity, you ask one simple question of the spirit. Attempt a Nature check at a DC determined by the GM (normally, this is the appropriate DC for the level of the animal or beast when it was alive). Regardless of the result of your check, the spirit immediately departs and can't be used for Spirit Speaker again. If the creature had the [[Confused]] or [[Frightened]] condition when it died, you can't get a result better than a critical failure. Only one creature can use Spirit Speaker on a given dead animal, as the effort takes the spirit's full attention.
+You know that when an animal dies, its spirit lingers briefly before moving on. Using low chants, body language that shows respect, and special movements that demonstrate to the spirit that you are an ally, you glean information from a spirit before it departs. This is a 1-minute activity. You must begin the activity while adjacent to the body of an animal or beast that died within the last 1 minute. As part of the activity, you ask one simple question of the spirit. Attempt a Nature check at a DC determined by the GM (normally, this is the appropriate DC for the level of the animal or beast when it was alive). Regardless of the result of your check, the spirit immediately departs and can't be used for Spirit Speaker again. If the creature had the [[DATABASE/condition/Confused|confused]] or [[DATABASE/condition/Frightened|frightened]] condition when it died, you can't get a result better than a critical failure. Only one creature can use Spirit Speaker on a given dead animal, as the effort takes the spirit's full attention.
 **Critical Success** The spirit answers you truthfully. The spirit's answer is likely to be terse or cryptic compared to normal communication with an animal, and it can pertain only to things the creature directly experienced or considered important. The spirit doesn't remember anything that happened more than 1 day ago.
 **Success** As critical success, but the spirit doesn't recall anything that happened more than 1 hour ago.
 **Failure** The spirit doesn't answer you.
@@ -58,13 +59,13 @@ A general feat with the skill trait improves your skills and their actions or gi
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.
 
 ### Skill Feats
 
-**Source** [[Pathfinder 175. Broken Tusk Moon]]
+**Source** [[DATABASE/source/Pathfinder 175. Broken Tusk Moon|Pathfinder #175: Broken Tusk Moon]]
 Characters can gain access to the following new skill feats throughout “Broken Tusk Moon.”
  **All of the Animal**: Head scout Wipa teaches this skill feat to characters who help her butcher an animal for meat, such as the moose at the beginning of the adventure or another animal slain throughout the course of the Broken Tusk following's journey.
  **Spirit Speaker**: Mammoth Lord Argakoa, also known as Argakoa the Songsinger, might teach a fraction of her tremendous skill to a young scout who joins her in song. 
 **Tame Animal**: The young herd tender Imek has a natural way with animals. She is happy to teach what she knows to any characters who display a similar reverence toward living creatures, such as by peacefully resolving their encounter with the giant porcupine in Chapter 1 of this adventure. Although this feat is particularly useful to characters who want to recruit animal followers throughout the Quest for the Frozen Flame Adventure Path, it isn't strictly necessary for the party to succeed in their adventures. It can be a great boon to parties taking part in other quests, as well.
-**Related Feats**: [[All of the Animal]], [[Tame Animal]]
+**Related Feats**: [[DATABASE/feat/All of the Animal|All of the Animal]], [[DATABASE/feat/Tame Animal|Tame Animal]]

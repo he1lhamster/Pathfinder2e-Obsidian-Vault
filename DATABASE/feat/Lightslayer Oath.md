@@ -11,6 +11,7 @@ name: Lightslayer Oath
 prerequisite: '[[DATABASE/championtenet/Evil|tenets of evil]]'
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,8 +26,8 @@ type: Feat
 # Lightslayer Oath <span class="item-type">Feat 2</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Champion</span><span class="item-trait">Oath</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** [[Evil]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** [[DATABASE/championtenet/Evil|tenets of evil]]
 
 ---
 You've sworn to rid the world of the self-righteousness of celestial beings. Add the following tenet to your code, after the other tenets. “You must banish or slay celestials you encounter as long as you have a reasonable chance of success; in the incredibly unlikely event you find an evil celestial, you don't have to banish or kill it.”
@@ -40,4 +41,4 @@ Oaths add an additional tenet to your code. You can usually have only one feat w
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.

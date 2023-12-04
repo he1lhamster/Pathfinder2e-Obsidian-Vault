@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Fire and Iceberg<span class="item-type">Item 7+</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span>
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
@@ -63,20 +64,20 @@ Fiery Anulite paprika, sunrise cinnamon, and winterbite are hidden inside this s
 
 ## Fire and Iceberg<span class="item-type">Item 7</span>
 
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 60 gp
 **Bulk** L
 
 ## Fire and Iceberg (greater)<span class="item-type">Item 12</span>
 
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 350 gp
 **Bulk** L
 You gain resistance 10 to fire and cold for 5 minutes.
 
 ## Fire and Iceberg (Major)<span class="item-type">Item 17</span>
 
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 2,500 gp
 **Bulk** L
 You gain resistance 15 to fire and cold for 10 minutes.

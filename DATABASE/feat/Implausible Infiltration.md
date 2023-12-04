@@ -12,6 +12,7 @@ prerequisite: Legendary in [[DATABASE/skill/Acrobatics|Acrobatics]] ; [[DATABASE
   Squeeze|Quick Squeeze]]
 rarity: Common
 requirement: You are adjacent to a floor or vertical wall.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -26,8 +27,8 @@ type: Feat
 # Implausible Infiltration <span class="action-icon">2</span> <span class="item-type">Feat 18</span>
 
 <span class="item-trait">Magical</span><span class="item-trait">Move</span><span class="item-trait">Rogue</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** legendary in [[Acrobatics]]; [[Quick Squeeze]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** legendary in [[DATABASE/skill/Acrobatics|Acrobatics]]; [[DATABASE/feat/Quick Squeeze|Quick Squeeze]]
 **Requirements** You are adjacent to a floor or vertical wall.
 
 ---

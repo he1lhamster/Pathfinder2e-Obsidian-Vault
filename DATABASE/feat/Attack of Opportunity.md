@@ -11,6 +11,7 @@ name: Attack of Opportunity
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -27,8 +28,8 @@ type: Feat
 # Attack of Opportunity <span class="action-icon">5</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Barbarian</span><span class="item-trait">Champion</span><span class="item-trait">Magus</span><span class="item-trait">Swashbuckler</span>
-**Source** [[Secrets of Magic]] , [[Core Rulebook]] , [[Advanced Player's Guide]] 
-**Archetype** [[Marshal]]*
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] , [[DATABASE/source/Core Rulebook|Core Rulebook]] , [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Marshal|Marshal]]*
 **Trigger** A creature within your reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it’s using.
 * This archetype offers Attack of Opportunity at a different level than displayed here.
 
@@ -41,4 +42,4 @@ This feat can be used for one or more Archetypes in addition to the listed Class
 
 ## Attack of Opportunity Leads To...
 
-[[Disorienting Opening]], [[Impassable Wall Stance]]
+[[DATABASE/feat/Disorienting Opening|Disorienting Opening]], [[DATABASE/feat/Impassable Wall Stance|Impassable Wall Stance]]

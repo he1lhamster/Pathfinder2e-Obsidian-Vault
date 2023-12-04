@@ -11,6 +11,7 @@ name: Delay Trap
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Delay Trap <span class="action-icon">5</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Rogue</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Archaeologist]]*
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Archaeologist|Archaeologist]]*
 **Trigger** A trap within your reach is triggered.
 * This archetype offers Delay Trap at a different level than displayed here.
 

@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -53,10 +54,10 @@ weapon_type: null
 # Shield Augmentation<span class="item-type">Item 0</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Adjustment</span>
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 8 sp
 **Usage** applied to a shield; **Bulk** —
 
 ---
-There are numerous methods to modify shields—snarling rods to catch weapons, bladed edges, padding for nonlethal strikes, and so on—but all share basic functionality. A shield augmentation can be etched with weapon runes, much like a [[Shield Boss]] or [[Shield Spikes]], but doesn't otherwise alter your shield's statistics. A shield bearing an augmentation can't be combined with an attached weapon, like shield spikes.
+There are numerous methods to modify shields—snarling rods to catch weapons, bladed edges, padding for nonlethal strikes, and so on—but all share basic functionality. A shield augmentation can be etched with weapon runes, much like a [[DATABASE/weapon/Shield Boss|shield boss]] or [[DATABASE/weapon/Shield Spikes|shield spikes]], but doesn't otherwise alter your shield's statistics. A shield bearing an augmentation can't be combined with an attached weapon, like shield spikes.
  A shield augmentation grants your shield one or more weapon traits, chosen when the augmentation is created. You can either choose to add the backswing or forceful trait, or you can choose two of the following weapon traits: disarm, nonlethal, shove, thrown 10 feet, trip, or versatile S.

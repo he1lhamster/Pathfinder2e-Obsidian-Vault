@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Clarity Goggles<span class="item-type">Item 8+</span>
 
 <span class="item-trait">Divination</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Usage** worn eyepiece; **Bulk** —
 
 ---
@@ -63,17 +64,17 @@ _Clarity goggles_ feature faceted lenses that filter your surroundings from seve
 
 ## Clarity Goggles (Lesser)<span class="item-type">Item 8</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 425 gp
 
 ## Clarity Goggles (Moderate)<span class="item-type">Item 13</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 2,450 gp
 The goggles grant a +2 item bonus. They work against effects created by 6th-level or lower spells or a creature of 13th level or lower.
 
 ## Clarity Goggles (Greater)<span class="item-type">Item 19</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 32,500 gp
 The goggles grant a +3 item bonus. They work against effects created by 9th-level or lower spells or a creature of 19th level or lower.

@@ -100,51 +100,52 @@ wisdom: '+8'
 # Wild Hunt Scout
 
 These compact few have pointed ears, green eyes, and ram's horns. They relish the chance to seek revenge upon those who have wronged or insulted the wild hunt, but they tend to grow bored when the stakes aren't lethal.
-**Recall Knowledge - Fey ([[Nature]])**: DC 43
+**Recall Knowledge - Fey ([[DATABASE/skill/Nature|Nature]])**: DC 43
 **Unspecific Lore**: DC 41
 **Specific Lore**: DC 38
 
 # Wild Hunt Scout<span class="item-type">Creature 18</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">CN</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Fey</span><span class="item-trait">Wild Hunt</span>
-**Source** [[Kingmaker Adventure Path]]
-**Perception** +34; [[Darkvision]], greensight, [[Scent]] (imprecise) 30 feet
-**Languages** [[Aklo]], [[Common]], [[Sylvan]]; [[Speak with Animals]], [[Speak with Plants]]
-**Skills** [[Acrobatics]] +32, [[Athletics]] +33, [[Deception]] +32, [[Intimidation]] +32, [[Nature]] +29, [[Stealth]] +37, [[Survival]] +34
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
+**Perception** +34; [[DATABASE/monsterability/Darkvision|greater darkvision]], greensight, [[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet
+**Languages** [[DATABASE/language/Aklo|Aklo]], [[DATABASE/language/Common|Common]], [[DATABASE/language/Sylvan|Sylvan]]; [[DATABASE/spell/Speak with Animals|speak with animals]], [[DATABASE/spell/Speak with Plants|speak with plants]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +32, [[DATABASE/skill/Athletics|Athletics]] +33, [[DATABASE/skill/Deception|Deception]] +32, [[DATABASE/skill/Intimidation|Intimidation]] +32, [[DATABASE/skill/Nature|Nature]] +29, [[DATABASE/skill/Stealth|Stealth]] +37, [[DATABASE/skill/Survival|Survival]] +34
 **Str** +9, **Dex** +6, **Con** +6, **Int** +5, **Wis** +8, **Cha** +6
-**Greensight** The wild hunt scout ignores the [[Concealed]] condition from leaves and other foliage.
+**Greensight** The wild hunt scout ignores the [[DATABASE/condition/Concealed|concealed]] condition from leaves and other foliage.
 **Planar Acclimation** The wild hunt scout treats the plane it is located on as its home plane.
 **Wild Hunt Link** (aura, divination, magical) A wild hunt scout grants all other members of the wild hunt in the aura except wild hunt scouts deny advantage.
 
 ---
 **AC** 42; **Fort** +28, **Ref** +30, **Will** +34
-**HP** 380; **Weaknesses** [[Cold Iron Weapon]] 15
-<span class="in-box-ability">**Instinctive Cooperation** The wild hunt scout automatically achieves a critical success on saving throws against effects created by other allied wild hunt creatures.</span><span class="in-box-ability">**Wild Gaze** (aura, enchantment, fear, incapacitation, mental, primal, visual) 30 feet. Those who meet the gaze of a wild hunt scout come face-to-face with the hunt's fearful power and find it difficult to act in the face of such a legendary legacy. When a creature ends its turn in the aura, it must succeed at a DC 37 Will save to resist becoming [[Slowed]] (slowed 2 on a critical failure). The wild hunt scout can deactivate or activate this aura by using a single action, which has the concentrate trait.****</span>
+**HP** 380; **Weaknesses** [[DATABASE/equipment/Cold Iron Weapon|cold iron]] 15
+<span class="in-box-ability">**Instinctive Cooperation** The wild hunt scout automatically achieves a critical success on saving throws against effects created by other allied wild hunt creatures.</span><span class="in-box-ability">**Wild Gaze** (aura, enchantment, fear, incapacitation, mental, primal, visual) 30 feet. Those who meet the gaze of a wild hunt scout come face-to-face with the hunt's fearful power and find it difficult to act in the face of such a legendary legacy. When a creature ends its turn in the aura, it must succeed at a DC 37 Will save to resist becoming [[DATABASE/condition/Slowed|slowed 1]] (slowed 2 on a critical failure). The wild hunt scout can deactivate or activate this aura by using a single action, which has the concentrate trait.****</span>
 
 ---
 ******Speed** 40 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> crystal scimitar +35 [+30/+25] (forceful, sweep), **Damage** 3d6+17 slashing plus 2d6 force</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> emerald beam +34 [+29/+24] (range 40 feet), **Effect** befuddle</span>**Primal Innate Spells** DC 40, attack +32; **9th** _[[Magic Missile]]_, _[[Unfettered Pack]]_; **8th** _[[Disappearance]]_, _[[Wind Walk]]_; **7th** _[[Magic Missile]]_, _[[Plane Shift]]_; **6th** _[[Stone Tell]]_; **5th** _[[Dimension Door]]_ (×3), _[[Magic Missile]]_; **Cantrips** **(9th)** _[[Know Direction]]_; **Constant** **(9th)** _[[Pass Without Trace]]_, _[[Speak with Animals]]_, _[[Speak with Plants]]_, _[[True Seeing]]_
-<span class="in-box-ability">**Befuddle** (enchantment, mental, primal) A wild hunt scout can emit a beam of emerald light from their crystal shard to attempt an emerald beam ranged Strike. If the beam hits, it inflicts no damage (nor does it inflict precision damage from a sneak attack), but it overstimulates the target's mind, causing them to become [[Dazzled]] and [[Flat-Footed]] for 1 round. On a critical hit, the target is also [[Blinded]] for 1 round.</span><span class="in-box-ability">**Deny Advantage** A wild hunt scout isn't [[Flat-Footed]] to [[Hidden]], [[Undetected]], or flanking creatures of your level or lower, or creatures of their level or lower using surprise attack. However, they can still help their allies flank.</span><span class="in-box-ability">**Focus Gaze** <span class="action-icon">1</span> (concentrate, enchantment, fear, incapacitation, mental, primal, visual) The wild hunt scout fixes its glare at a creature it can see within 30 feet. The target must immediately attempt a Will save against the wild hunt scout's wild gaze. If the creature was already [[Slowed]] by the wild gaze before attempting its save, a failed save causes it to be [[Paralyzed]] for 1 round. After attempting its save, the creature is temporarily immune to Focus Gaze from any wild hunt until the start of the wild hunt scout's next turn.</span><span class="in-box-ability">**Forceful Focus** <span class="action-icon">3</span> (concentrate) **Requirement** The wild hunt scout cast [[Magic Missile]] the previous round. **Effect** The wild hunt scout focuses on their mastery of force, standing still as they become swathed in pulsing emerald light. Any _magic missile_ innate spells they have cast that day are restored, allowing them to be cast again. Until the end of their next turn, any creature that takes force damage from the wild hunt scout must succeed at a DC 40 Fortitude save or be [[Stunned]] (stunned 3 on a critical failure). The wild hunt scout can't use forceful focus for 1 hour.</span><span class="in-box-ability">**Manifest Crystals** <span class="action-icon">4</span> A wild hunt scout can manifest a _+2 [[Striking]] [[Scimitar]]_ made of crystalized force or a fist-sized shard of the same in her hands. These objects vanish upon the wild hunt scout's death, or as soon as they no longer possess the items.</span><span class="in-box-ability">**[[Sneak Attack]]** A wild hunt scout's Strikes deal 3d6 extra precision damage to [[Flat-Footed]] creatures.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> crystal scimitar +35 [+30/+25] (forceful, sweep), **Damage** 3d6+17 slashing plus 2d6 force</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> emerald beam +34 [+29/+24] (range 40 feet), **Effect** befuddle</span>**Primal Innate Spells** DC 40, attack +32; **9th** _[[DATABASE/spell/Magic Missile|magic missile]]_, _[[DATABASE/spell/Unfettered Pack|unfettered pack]]_; **8th** _[[DATABASE/spell/Disappearance|disappearance]]_, _[[DATABASE/spell/Wind Walk|wind walk]]_; **7th** _[[DATABASE/spell/Magic Missile|magic missile]]_, _[[DATABASE/spell/Plane Shift|plane shift]]_; **6th** _[[DATABASE/spell/Stone Tell|stone tell]]_; **5th** _[[DATABASE/spell/Dimension Door|dimension door]]_ (×3), _[[DATABASE/spell/Magic Missile|magic missile]]_; **Cantrips** **(9th)** _[[DATABASE/spell/Know Direction|know direction]]_; **Constant** **(9th)** _[[DATABASE/spell/Pass Without Trace|pass without trace]]_, _[[DATABASE/spell/Speak with Animals|speak with animals]]_, _[[DATABASE/spell/Speak with Plants|speak with plants]]_, _[[DATABASE/spell/True Seeing|true seeing]]_
+<span class="in-box-ability">**Befuddle** (enchantment, mental, primal) A wild hunt scout can emit a beam of emerald light from their crystal shard to attempt an emerald beam ranged Strike. If the beam hits, it inflicts no damage (nor does it inflict precision damage from a sneak attack), but it overstimulates the target's mind, causing them to become [[DATABASE/condition/Dazzled|dazzled]] and [[DATABASE/condition/Flat-Footed|flat-footed]] for 1 round. On a critical hit, the target is also [[DATABASE/condition/Blinded|blinded]] for 1 round.</span><span class="in-box-ability">**Deny Advantage** A wild hunt scout isn't [[DATABASE/condition/Flat-Footed|flat-footed]] to [[DATABASE/condition/Hidden|hidden]], [[DATABASE/condition/Undetected|undetected]], or flanking creatures of your level or lower, or creatures of their level or lower using surprise attack. However, they can still help their allies flank.</span><span class="in-box-ability">**Focus Gaze** <span class="action-icon">1</span> (concentrate, enchantment, fear, incapacitation, mental, primal, visual) The wild hunt scout fixes its glare at a creature it can see within 30 feet. The target must immediately attempt a Will save against the wild hunt scout's wild gaze. If the creature was already [[DATABASE/condition/Slowed|slowed]] by the wild gaze before attempting its save, a failed save causes it to be [[DATABASE/condition/Paralyzed|paralyzed]] for 1 round. After attempting its save, the creature is temporarily immune to Focus Gaze from any wild hunt until the start of the wild hunt scout's next turn.</span><span class="in-box-ability">**Forceful Focus** <span class="action-icon">3</span> (concentrate) **Requirement** The wild hunt scout cast [[DATABASE/spell/Magic Missile|magic missile]] the previous round. **Effect** The wild hunt scout focuses on their mastery of force, standing still as they become swathed in pulsing emerald light. Any _magic missile_ innate spells they have cast that day are restored, allowing them to be cast again. Until the end of their next turn, any creature that takes force damage from the wild hunt scout must succeed at a DC 40 Fortitude save or be [[DATABASE/condition/Stunned|stunned 1]] (stunned 3 on a critical failure). The wild hunt scout can't use forceful focus for 1 hour.</span><span class="in-box-ability">**Manifest Crystals** <span class="action-icon">4</span> A wild hunt scout can manifest a _+2 [[DATABASE/equipment/Striking|greater striking]] [[DATABASE/weapon/Scimitar|scimitar]]_ made of crystalized force or a fist-sized shard of the same in her hands. These objects vanish upon the wild hunt scout's death, or as soon as they no longer possess the items.</span><span class="in-box-ability">**[[DATABASE/monsterability/Sneak Attack|Sneak Attack]]** A wild hunt scout's Strikes deal 3d6 extra precision damage to [[DATABASE/condition/Flat-Footed|flat-footed]] creatures.</span>
 
-## All Monsters in "[[Wild Hunt]]"
+## All Monsters in "[[DATABASE/monsterfamily/Wild Hunt|Wild Hunt]]"
 
-| Name                                                     |   Level |
-|:---------------------------------------------------------|--------:|
-| [[Wild Hunt Archer]]   |      16 |
-| [[Wild Hunt Horse]]     |      15 |
-| [[Wild Hunt Hound]]     |      14 |
-| [[Wild Hunt Monarch]] |      20 |
-| [[Wild Hunt Scout]]     |      18 |
+| 0 | 1 |
+|:---------------------------------------------------------|:------|
+| Name | Level |
+| [[Wild Hunt Archer]] | 16 |
+| [[Wild Hunt Horse]] | 15 |
+| [[Wild Hunt Hound]] | 14 |
+| [[Wild Hunt Monarch]] | 20 |
+| [[Wild Hunt Scout]] | 18 |
 
 # Wild Hunt
 
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 Although some believe the wild hunt is nothing more than legend, the riders of the wild hunt are real. Countless members of these fey compose the wild hunt—the term “wild hunt” refers to the family of creatures as a whole as well as to individual groups of these fey who gather to pursue their quarry. Wild hunt monarchs set the terms of each specific hunt, depending upon the prey and their own whims. The easier the prey, the more likely a monarch is to impose rules to make the hunt more entertaining, such as forbidding anyone but their hounds from injuring the quarry, or holding back their forces to give the target creature time to rest and recover.
  While most missions come from rumors gathered by a wild hunt monarch, monarchs occasionally consider proposals from the few who are brave and knowledgeable enough to seek them out. They accept tasks only from sources they deem worthy, and the payments they demand for their services vary significantly, though they have no interest in material wealth. Wild hunt monarchs take grave offense at unfavorable deals. Those who attempt to cheat a monarch often become the enraged fey's next target.
 
 ###  Erastil
 
-Those who lack understanding or religious backgrounds sometimes mistake representations of the wild hunt as depictions of the god [[Erastil]], but Erastil and his church have long fought against the capricious, often destructive effects the wild hunt can have on rural societies. Some believe that Erastil was the first Horned Lord in an ancient time, and that his heart and conscience caused him to step away from the role, leaving behind a son to take up that position; these beliefs are regarded as blasphemy by the church itself. Certainly, those who claim to worship Erastil in this light do not count any actual clerics among their number.
+Those who lack understanding or religious backgrounds sometimes mistake representations of the wild hunt as depictions of the god [[DATABASE/deity/Erastil|Erastil]], but Erastil and his church have long fought against the capricious, often destructive effects the wild hunt can have on rural societies. Some believe that Erastil was the first Horned Lord in an ancient time, and that his heart and conscience caused him to step away from the role, leaving behind a son to take up that position; these beliefs are regarded as blasphemy by the church itself. Certainly, those who claim to worship Erastil in this light do not count any actual clerics among their number.
 
 ###  Other Wild Hunts
 
@@ -152,7 +153,7 @@ The agents of the wild hunt presented here represent typical wild hunts, but rum
 
 ###  Serving The Eldest
 
-Some wild hunt bands serve specific members among the Eldest. These variant wild hunts always have the same abilities and statistics as those presented on these pages, but often bear minor physical changes to set them apart. For example, wild hunts that serve [[The Lantern King]] have eyes that shine with fiery light, as if a flickering lantern flame burned deep within their skulls.
+Some wild hunt bands serve specific members among the Eldest. These variant wild hunts always have the same abilities and statistics as those presented on these pages, but often bear minor physical changes to set them apart. For example, wild hunts that serve [[DATABASE/deity/The Lantern King|the Lantern King]] have eyes that shine with fiery light, as if a flickering lantern flame burned deep within their skulls.
 
 ###  Surviving The Hunt
 
@@ -160,4 +161,4 @@ When one is marked by the wild hunt, there is often little that can be done to a
 
 ###  The Horned King
 
-All fey of the wild hunt ultimately serve a legendary leader they refer to only as the Horned King. The Horned King's true nature is unknown, but its ability to command such powerful followers suggests that it is a fey on par with one of the Eldest (who themselves deny knowledge of such a creature's existence). The Horned King does not grant spells to clerics. When the Horned King calls, several wild hunts join into a legion and ride together against legendary opponents. This call is rare, however, and wild hunts are normally left to direct themselves or to serve other entities, such as [[The Lantern King]].****
+All fey of the wild hunt ultimately serve a legendary leader they refer to only as the Horned King. The Horned King's true nature is unknown, but its ability to command such powerful followers suggests that it is a fey on par with one of the Eldest (who themselves deny knowledge of such a creature's existence). The Horned King does not grant spells to clerics. When the Horned King calls, several wild hunts join into a legion and ride together against legendary opponents. This call is rare, however, and wild hunts are normally left to direct themselves or to serve other entities, such as [[DATABASE/deity/The Lantern King|the Lantern King]].****

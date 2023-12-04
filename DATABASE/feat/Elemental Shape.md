@@ -11,6 +11,7 @@ name: Elemental Shape
 prerequisite: '[[DATABASE/feat/Wild Shape|Wild Shape]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,12 +24,12 @@ type: Feat
 # Elemental Shape <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Druid</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Wild Shape]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/feat/Wild Shape|Wild Shape]]
 
 ---
-You understand the fundamental elements of nature such that you can imbue them into your body and manifest as a living embodiment of those elements. Add the forms in [[Elemental Form]] to your [[Wild Shape]] list. Whenever you’re polymorphed into another form using _wild shape_, you gain resistance 5 to fire.
+You understand the fundamental elements of nature such that you can imbue them into your body and manifest as a living embodiment of those elements. Add the forms in [[DATABASE/spell/Elemental Form|elemental form]] to your [[DATABASE/spell/Wild Shape|wild shape]] list. Whenever you’re polymorphed into another form using _wild shape_, you gain resistance 5 to fire.
 
 ## Elemental Shape Leads To...
 
-[[Reactive Transformation]]
+[[DATABASE/feat/Reactive Transformation|Reactive Transformation]]

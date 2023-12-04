@@ -11,6 +11,7 @@ name: Bless Shield
 prerequisite: '[[DATABASE/feat/Lastwall Sentry Dedication|Lastwall Sentry Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
 subcategory: null
@@ -24,12 +25,12 @@ type: Feat
 # Bless Shield <span class="action-icon">1</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Divine</span>
-**Source** [[Knights of Lastwall]]
-**Archetype** [[Lastwall Sentry]]
-**Prerequisites** [[Lastwall Sentry Dedication]]; you worship a good-aligned deity
+**Source** [[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]
+**Archetype** [[DATABASE/archetype/Lastwall Sentry|Lastwall Sentry]]
+**Prerequisites** [[DATABASE/feat/Lastwall Sentry Dedication|Lastwall Sentry Dedication]]; you worship a good-aligned deity
 
 ---
-Your uttered prayers become an aegis, drawing the blessing of your deity across the surface of your shield. Until the beginning of your next turn your shield, any [[Shield Boss]], or [[Shield Spikes]] gain the effects of a [[Ghost Touch]] property rune. Additionally, damage you take as a result of an incorporeal creature's Strike can trigger your Shield Block reaction, even if the damage isn't physical damage.
+Your uttered prayers become an aegis, drawing the blessing of your deity across the surface of your shield. Until the beginning of your next turn your shield, any [[DATABASE/weapon/Shield Boss|shield boss]], or [[DATABASE/weapon/Shield Spikes|shield spikes]] gain the effects of a [[DATABASE/equipment/Ghost Touch|ghost touch]] property rune. Additionally, damage you take as a result of an incorporeal creature's Strike can trigger your Shield Block reaction, even if the damage isn't physical damage.
 
 ## Traits
 

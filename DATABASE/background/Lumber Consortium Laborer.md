@@ -6,6 +6,7 @@ id: '120'
 name: Lumber Consortium Laborer
 prerequisite: null
 rarity: null
+rus_type_level: null
 skill: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
 subcategory: regional
@@ -15,8 +16,8 @@ type: null
 ---
 # Lumber Consortium Laborer<span class="item-type">Background</span>
 
-**Source** [[World Guide]] 
+**Source** [[DATABASE/source/World Guide|World Guide]] 
 **Region** Shining Kingdoms
 You have suffered as a worker for the unscrupulous Lumber Consortium, laboring under harsh conditions in dangerous wooded regions of Andoran.
 Choose two ability boosts. One must be to **Strength** or **Dexterity**, and one is a free ability boost.
-You're trained in the [[Athletics]] skill, and the [[Lore]] skill. You gain the [[Assurance]] skill feat with [[Athletics]].
+You're trained in the [[DATABASE/skill/Athletics|Athletics]] skill, and the [[DATABASE/skill/Lore|Forest Lore]] skill. You gain the [[DATABASE/feat/Assurance|Assurance]] skill feat with [[DATABASE/skill/Athletics|Athletics]].

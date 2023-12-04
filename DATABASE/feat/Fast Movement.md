@@ -11,6 +11,7 @@ name: Fast Movement
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Fast Movement <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Barbarian</span>
-**Source** [[Core Rulebook]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
 Your rage is a frenzy of rapid movements. While you are raging, you gain a +10-foot status bonus to your Speed.

@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 size: null
@@ -55,11 +56,11 @@ weapon_type: null
 # Sarkorian God-Caller Garb<span class="item-type">Item 6</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Conjuration</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span>
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 250 gp
 **Usage** worn armor; **Bulk** L
-**Base Armor** [[Explorer's Clothing]]
+**Base Armor** [[DATABASE/armor/Explorer's Clothing|Explorer's Clothing]]
 
 ---
-Each _Sarkorian god-caller garb_ is emblazoned with a unique sigil of a particular Sarkorian deity and adorned with symbols sacred to Sarkorian god callers, the summoners and religious leaders of Sarkoris. These _+1 [[Explorer's Clothing]]_ outfits look as if they were stitched together from multiple types of animals, featuring feathers, fur, leather, and scales.
+Each _Sarkorian god-caller garb_ is emblazoned with a unique sigil of a particular Sarkorian deity and adorned with symbols sacred to Sarkorian god callers, the summoners and religious leaders of Sarkoris. These _+1 [[DATABASE/armor/Explorer's Clothing|explorer's clothing]]_ outfits look as if they were stitched together from multiple types of animals, featuring feathers, fur, leather, and scales.
  When you cast a 3-action summoning spell while wearing this armor, the summoned creature gains a magical sigil that matches the one on the armor. As long as it is within 30 feet of you, the summoned creature gains a +1 status bonus to AC. If it ever moves farther than 30 feet from you, the sigil fades and the creature loses the status bonus to AC, even if it later comes within 30 feet of you again.

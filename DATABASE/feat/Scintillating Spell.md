@@ -11,6 +11,7 @@ name: Scintillating Spell
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -26,11 +27,11 @@ type: Feat
 # Scintillating Spell <span class="action-icon">1</span> <span class="item-type">Feat 16</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Light</span><span class="item-trait">Metamagic</span><span class="item-trait">Sorcerer</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Wellspring Mage]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Wellspring Mage|Wellspring Mage]]
 
 ---
-Your spells become a radiant display of light and color. If your next action is to Cast a Spell that doesn't have the darkness trait, has no duration, and requires creatures to attempt a Reflex save, the spell explodes in a spray of scintillating lights, in addition to its other effects. Each creature that failed its Reflex save against the spell is [[Dazzled]] for 1 round, and those who critically failed are instead [[Blinded]] for 1 round.
+Your spells become a radiant display of light and color. If your next action is to Cast a Spell that doesn't have the darkness trait, has no duration, and requires creatures to attempt a Reflex save, the spell explodes in a spray of scintillating lights, in addition to its other effects. Each creature that failed its Reflex save against the spell is [[DATABASE/condition/Dazzled|dazzled]] for 1 round, and those who critically failed are instead [[DATABASE/condition/Blinded|blinded]] for 1 round.
 
 ## Archetype Use
 

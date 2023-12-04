@@ -70,16 +70,16 @@ wisdom: '+1'
 # Sea Snake
 
 These lithe snakes like to frequent the shallow waters of tropical seas. Their 4-foot-long, blue-green bodies easily blend into the water where they lurk to ambush prey. Tales speak of massive sea snakes that swim in deeper waters and follow ships, waiting for sailors to fall overboard or climbing the side to snatch them from the deck.
-**Recall Knowledge - Animal ([[Nature]])**: DC 14
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 14
 **Unspecific Lore**: DC 12
 **Specific Lore**: DC 9
 
 # Sea Snake<span class="item-type">Creature 0</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Small</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary 2]] 
-**Perception** +5; [[Low-Light Vision]], [[Scent]]
-**Skills** [[Athletics]] +2 (+6 to [[Swim]]), [[Stealth]] +5, [[Survival]] +5
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +5; [[DATABASE/monsterability/Low-Light Vision|low-light vision]], [[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +2 (+6 to [[DATABASE/action/Swim|Swim]]), [[DATABASE/skill/Stealth|Stealth]] +5, [[DATABASE/skill/Survival|Survival]] +5
 **Str** +0, **Dex** +3, **Con** +1, **Int** -4, **Wis** +1, **Cha** -2
 **Deep Breath** The sea snake can hold its breath for about an hour.
 
@@ -90,4 +90,4 @@ These lithe snakes like to frequent the shallow waters of tropical seas. Their 4
 
 ---
 **Speed** 15 feet, swim 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fangs +7 [+3/-1] (agile, finesse), **Damage** 1d8 piercing plus sea snake venom</span><span class="in-box-ability">**Sea Snake Venom** (poison) **Saving Throw** DC 16 Fortitude; **Maximum Duration** 4 rounds; **Stage 1** 1d6 poison damage (1 round); **Stage 2** 1d6 poison damage and [[Enfeebled]] (1 round)</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fangs +7 [+3/-1] (agile, finesse), **Damage** 1d8 piercing plus sea snake venom</span><span class="in-box-ability">**Sea Snake Venom** (poison) **Saving Throw** DC 16 Fortitude; **Maximum Duration** 4 rounds; **Stage 1** 1d6 poison damage (1 round); **Stage 2** 1d6 poison damage and [[DATABASE/condition/Enfeebled|enfeebled 1]] (1 round)</span>

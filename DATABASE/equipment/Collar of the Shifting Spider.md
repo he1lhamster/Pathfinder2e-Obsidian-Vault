@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -52,7 +53,7 @@ weapon_type: null
 # Collar of the Shifting Spider<span class="item-type">Item 5</span>
 
 <span class="item-trait">Alchemical</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 133 gp
 **Usage** worn collar; **Bulk** 1
 **Activate** <span class="action-icon">4</span> Interact

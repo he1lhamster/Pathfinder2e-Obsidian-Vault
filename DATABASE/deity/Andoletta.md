@@ -23,6 +23,7 @@ follower_alignment:
 id: '112'
 name: Andoletta
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Society|Society]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -32,7 +33,7 @@ type: Deity
 ---
 # Andoletta (Grandmother Crow) [LG]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 Called Grandmother Crow, Andoletta represents consolation, respect, and security. Andoletta makes a clear distinction between guilt and innocence: there is no in-between. For those falsely accused or who show signs of redemption, she offers a path back to the light. That path is never an easy one, but it is one worth walking, and she stands beside those who make the trek. For the truly wicked and those who show no remorse, she has no mercy. For these reasons, her likeness is often found in courts, where she can watch over and ensure fairness to those accused of crimes. Andoletta also places great value on respect for the dead and the protection of children. To offer solace to the bereaved is true kindness and compassion. Children are slates with tremendous potential for good—if they can be guided and kept safe from evil.
  When she appears to mortals, Grandmother Crow does so as an older woman, gray-haired, wrinkled, and with keen, knowing eyes. She carries a walking stick and wears a cape of black crow feathers across her shoulders, giving the appearance of large, folded wings. Those who appeal to Andoletta include elders, the conflicted, the bereaved, the falsely accused, investigators, and judges.
 **Category** Empyreal Lords
@@ -40,13 +41,13 @@ Called Grandmother Crow, Andoletta represents consolation, respect, and security
 **Anathema** Hold a grudge, mock the dead, pass judgment hastily or carelessly
 **Areas of Concern** consolation, respect, and security
 **Follower Alignments** LG, NG
-**Pantheons** [[The Enlightened Scholar's Path]]
+**Pantheons** [[DATABASE/deity/The Enlightened Scholar's Path|The Enlightened Scholar's Path]]
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Wisdom or Charisma
-**Divine Font** _[[Heal]]_
-**Divine Skill** [[Society]]
-**Favored Weapon** [[Staff]]
-**Domains** [[Family Domain]], [[Knowledge Domain]], [[Protection Domain]], [[Sorrow Domain]]
-**Cleric Spells** 1st: _[[Shillelagh]]_, 4th: _[[Aerial Form]]_ (bird only), 6th: _[[Collective Transposition]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Wisdom or Charisma
+**Divine Font** _[[DATABASE/spell/Heal|heal]]_
+**Divine Skill** [[DATABASE/skill/Society|Society]]
+**Favored Weapon** [[DATABASE/weapon/Staff|staff]]
+**Domains** [[DATABASE/domain/Family Domain|family]], [[DATABASE/domain/Knowledge Domain|knowledge]], [[DATABASE/domain/Protection Domain|protection]], [[DATABASE/domain/Sorrow Domain|sorrow]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Shillelagh|shillelagh]]_, 4th: _[[DATABASE/spell/Aerial Form|aerial form]]_ (bird only), 6th: _[[DATABASE/spell/Collective Transposition|collective transposition]]_

@@ -22,6 +22,7 @@ patron_theme: null
 range: 120 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
@@ -40,7 +41,7 @@ type: Spell
 # Dividing Trench<span class="item-type">Spell 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Earth</span><span class="item-trait">Transmutation</span>
-**Source** [[Knights of Lastwall]]
+**Source** [[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]
 **Access** Knights of Lastwall have access to this spell.
 **Traditions** arcane, primal
 **Cast** <span class="action-icon">3</span> material, somatic, verbal

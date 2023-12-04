@@ -20,6 +20,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: You're benefiting from Arcane Cascade.
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -36,7 +37,7 @@ type: Focus
 # Cascade Countermeasure<span class="item-type">Focus 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Abjuration</span><span class="item-trait">Magus</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Cast** <span class="action-icon">1</span> somatic; **Requirements** You're benefiting from Arcane Cascade.
 **Duration** until the Arcane Cascade stance ends
 

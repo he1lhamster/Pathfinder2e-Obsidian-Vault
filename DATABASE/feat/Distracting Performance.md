@@ -11,6 +11,7 @@ name: Distracting Performance
 prerequisite: Expert in [[DATABASE/skill/Performance|Performance]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: performance
@@ -24,11 +25,11 @@ type: Feat
 # Distracting Performance <span class="item-type">Feat 2</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** expert in [[Performance]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** expert in [[DATABASE/skill/Performance|Performance]]
 
 ---
-Your performances are especially distracting, allowing your allies to [[Sneak]] away with ease. When you [[Aid]] an ally who is trying to [[Create a Diversion]], instead of the usual effects of Aid, you can roll a [[Performance]] check and use that result to determine the outcome of the diversion, instead of the ally rolling a [[Deception]] check.
+Your performances are especially distracting, allowing your allies to [[DATABASE/action/Sneak|Sneak]] away with ease. When you [[DATABASE/action/Aid|Aid]] an ally who is trying to [[DATABASE/action/Create a Diversion|Create a Diversion]], instead of the usual effects of Aid, you can roll a [[DATABASE/skill/Performance|Performance]] check and use that result to determine the outcome of the diversion, instead of the ally rolling a [[DATABASE/skill/Deception|Deception]] check.
 
 ## Traits
 

@@ -11,6 +11,7 @@ name: Alloy Flesh and Steel
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -28,10 +29,10 @@ type: Feat
 # Alloy Flesh and Steel <span class="action-icon">2</span> <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Manipulate</span><span class="item-trait">Metal</span><span class="item-trait">Polymorph</span><span class="item-trait">Primal</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
-Elemental energy replaces every cell of your body with raw metal. You gain the benefits of the [[Ferrous Form]] spell (except you can't cast [[Needle Darts]]) until the end of your next turn. You can Sustain the impulse up to 1 minute, and when you do, you can [[Raise a Shield]] a metal Shield if you're wielding one. Your metal [[Elemental Blast]] deal an additional die of damage. If you suspend any conditions with Alloy Flesh and Steel, when it ends, you're temporarily immune to Alloy Flesh and Steel for 1 hour.
+Elemental energy replaces every cell of your body with raw metal. You gain the benefits of the [[DATABASE/spell/Ferrous Form|ferrous form]] spell (except you can't cast [[DATABASE/spell/Needle Darts|needle darts]]) until the end of your next turn. You can Sustain the impulse up to 1 minute, and when you do, you can [[DATABASE/action/Raise a Shield|Raise]] a metal Shield if you're wielding one. Your metal [[DATABASE/action/Elemental Blast|Elemental Blasts]] deal an additional die of damage. If you suspend any conditions with Alloy Flesh and Steel, when it ends, you're temporarily immune to Alloy Flesh and Steel for 1 hour.
 
 ---
 **Level (16th)** The resistance is 15.

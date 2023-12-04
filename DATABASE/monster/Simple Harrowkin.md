@@ -83,25 +83,25 @@ wisdom: '+0'
 # Simple Harrowkin
 
 The simplest harrowkin resemble creatures with vague features made of patchwork cloth and painted canvas
-**Recall Knowledge - Construct ([[Arcana]], [[Crafting]])**: DC 21
+**Recall Knowledge - Construct ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Crafting|Crafting]])**: DC 21
 **Unspecific Lore**: DC 19
 **Specific Lore**: DC 16
 
 # Simple Harrowkin<span class="item-type">Creature 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Small</span><span class="item-trait">Construct</span>
-**Source** [[Pathfinder 192. Worst of All Possible Worlds]]
-**Perception** +10; [[Darkvision]]
-**Languages** [[Common]]
-**Skills** [[Acrobatics]] +12, [[Athletics]] +9, [[Deception]] +11, [[Stealth]] +12
+**Source** [[DATABASE/source/Pathfinder 192. Worst of All Possible Worlds|Pathfinder #192: Worst of All Possible Worlds]]
+**Perception** +10; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +12, [[DATABASE/skill/Athletics|Athletics]] +9, [[DATABASE/skill/Deception|Deception]] +11, [[DATABASE/skill/Stealth|Stealth]] +12
 **Str** +3, **Dex** +4, **Con** +1, **Int** +0, **Wis** +0, **Cha** +3
 **Harrowkin Suit** any
-**Items** _harrow cards_ (53^ function as [[Dart]]), [[Shortsword]]
+**Items** _harrow cards_ (53^ function as [[DATABASE/weapon/Dart|darts]]), [[DATABASE/weapon/Shortsword|shortsword]]
 
 ---
 **AC** 20; **Fort** +11, **Ref** +14, **Will** +8
-**HP** 60; **Immunities** death effects, disease, [[Doomed]], [[Drained]], [[Fatigued]], healing, misfortune, necromancy, nonlethal attacks, [[Paralyzed]], poison, [[Sickened]], [[Unconscious]]
+**HP** 60; **Immunities** death effects, disease, [[DATABASE/condition/Doomed|doomed]], [[DATABASE/condition/Drained|drained]], [[DATABASE/condition/Fatigued|fatigued]], healing, misfortune, necromancy, nonlethal attacks, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Sickened|sickened]], [[DATABASE/condition/Unconscious|unconscious]]
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> shortsword +12 [+8/+4] (agile, finesse, versatile P), **Damage** 1d6+5 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +12 [+8/+4] (agile, finesse, magical), **Damage** 1d4+5 bludgeoning plus [[Grab]]</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _harrow card_ +12 [+8/+4] (agile, magical, range increment 20 feet, thrown), **Damage** 1d4+3 piercing</span><span class="in-box-ability">**Shuffle the Deck** <span class="action-icon">2</span> </span><span class="in-box-ability">**[[Sneak Attack]]** The harrowkin deals 1d6 extra precision damage to [[Flat-Footed]] creatures.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> shortsword +12 [+8/+4] (agile, finesse, versatile P), **Damage** 1d6+5 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +12 [+8/+4] (agile, finesse, magical), **Damage** 1d4+5 bludgeoning plus [[DATABASE/monsterability/Grab|Grab]]</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _harrow card_ +12 [+8/+4] (agile, magical, range increment 20 feet, thrown), **Damage** 1d4+3 piercing</span><span class="in-box-ability">**Shuffle the Deck** <span class="action-icon">2</span> </span><span class="in-box-ability">**[[DATABASE/monsterability/Sneak Attack|Sneak Attack]]** The harrowkin deals 1d6 extra precision damage to [[DATABASE/condition/Flat-Footed|flat-footed]] creatures.</span>

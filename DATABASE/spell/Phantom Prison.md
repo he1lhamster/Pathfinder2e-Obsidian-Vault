@@ -22,6 +22,7 @@ patron_theme: null
 range: 50 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Illusion
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -41,7 +42,7 @@ type: Spell
 # Phantom Prison<span class="item-type">Spell 3</span>
 
 <span class="item-trait">Illusion</span><span class="item-trait">Incapacitation</span><span class="item-trait">Mental</span><span class="item-trait">Visual</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Traditions** arcane, occult
 **Cast** <span class="action-icon">3</span> material, somatic, verbal
 **Range** 50 feet; **Targets** 1 creature

@@ -3,6 +3,7 @@ id: '13'
 level: '1'
 name: Keen Eyed
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - '[[DATABASE/trait/Cavalry|Cavalry]]'
@@ -15,5 +16,5 @@ type: Warfare Tactic
 # Keen Eyed<span class="item-type">Tactic 1</span>
 
 <span class="item-trait">Cavalry</span><span class="item-trait">Infantry</span><span class="item-trait">Siege</span><span class="item-trait">Skirmisher</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 The army includes several spotters and scouts who are particularly keen-eyed. The army gains a +2 status bonus on initiative checks.

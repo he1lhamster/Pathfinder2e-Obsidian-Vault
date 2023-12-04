@@ -11,6 +11,7 @@ name: Mother's Mindfulness
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Mother's Mindfulness <span class="action-icon">5</span> <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Changeling</span>
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 **Frequency** once per minute
 **Trigger** An adjacent ally is hit by an attack.
 
@@ -34,4 +35,4 @@ You have the protective instinct your own mother lacks and will gladly suffer in
 
 **Changeling:**
 
-A creature with this trait has the changeling versatile heritage. Changelings are the children of [[Hag]] and members of other humanoid ancestries. An ability with this trait can be used or selected only by changelings.
+A creature with this trait has the changeling versatile heritage. Changelings are the children of [[DATABASE/monsterfamily/Hag|hags]] and members of other humanoid ancestries. An ability with this trait can be used or selected only by changelings.

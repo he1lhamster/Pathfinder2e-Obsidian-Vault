@@ -11,6 +11,7 @@ name: Core Attunement
 prerequisite: '[[DATABASE/heritage/Mage Automaton|Mage Automaton]] heritage'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Core Attunement <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Automaton</span>
-**Source** [[Guns & Gears]]
-**Prerequisites** [[Mage Automaton]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Prerequisites** [[DATABASE/heritage/Mage Automaton|Mage Automaton]]
 
 ---
 Your core allows you to draw more power from it. Select one 1st-level arcane spell and one 2nd-level or lower arcane spell, to which you have access. You can cast your chosen spells as arcane innate spells each once per day.

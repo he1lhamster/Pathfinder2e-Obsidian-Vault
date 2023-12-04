@@ -17,6 +17,7 @@ name: Clockwork Dancers
 rarity: Unique
 reflex: '+16'
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/The Enmity Cycle|The Enmity Cycle]]'
 trait:
@@ -33,13 +34,13 @@ will: '+12'
 # Clockwork Dancers<span class="item-type">Hazard 7</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="item-trait">Complex</span><span class="item-trait">Mechanical</span><span class="item-trait">Trap</span>
-**Source** [[The Enmity Cycle]]
+**Source** [[DATABASE/source/The Enmity Cycle|The Enmity Cycle]]
 **Complexity** Complex
 **Stealth** +16 (expert)
 **Description** Several clockwork humanoid figures armed with spinning blades move throughout the area.
 
 ---
-**Disable** [[Thievery]] DC 25 (expert) to deactivate the clockworks from the control panel. Two successes are needed to deactivate the trap.
+**Disable** [[DATABASE/skill/Thievery|Thievery]] DC 25 (expert) to deactivate the clockworks from the control panel. Two successes are needed to deactivate the trap.
 **AC** 24, **Fort** +18, **Ref** +16, **Will** +12
 **Hardness** 15, **HP** 58 (BT 29); **Immunities** critical hits, object immunities, precision damage, **Weaknesses** sonic 10
 **Spring Attack** <span class="action-icon">5</span> **Trigger** A creature ends its turn in **F2**; **Effect** Clockwork figures spring out from the pillars and attack anyone on the stage with a spinning blade Strike. The trap then rolls initiative.

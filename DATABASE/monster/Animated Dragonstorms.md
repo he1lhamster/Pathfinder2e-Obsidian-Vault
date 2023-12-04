@@ -87,22 +87,22 @@ wisdom: '+5'
 # Animated Dragonstorms
 
 This creature did not include a description.
-**Recall Knowledge - Construct ([[Arcana]], [[Crafting]])**: DC 43
+**Recall Knowledge - Construct ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Crafting|Crafting]])**: DC 43
 **Unspecific Lore**: DC 41
 **Specific Lore**: DC 38
 
 # Animated Dragonstorms<span class="item-type">Creature 18</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Huge</span><span class="item-trait">Construct</span><span class="item-trait">Mindless</span>
-**Source** [[Pathfinder 150. Broken Promises]]
-**Perception** +30; [[Darkvision]]
-**Skills** [[Athletics]] +35
+**Source** [[DATABASE/source/Pathfinder 150. Broken Promises|Pathfinder #150: Broken Promises]]
+**Perception** +30; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +35
 **Str** +9, **Dex** +7, **Con** +9, **Int** -5, **Wis** +5, **Cha** -5
 
 ---
 **AC** 42; **Fort** +33, **Ref** +30, **Will** +27
-**HP** 255; **Immunities** bleed, death effects, disease, [[Doomed]], [[Drained]], [[Fatigued]], healing, mental, necromancy, nonlethal attacks, [[Paralyzed]], poison, [[Sickened]], [[Unconscious]]; **Resistances** acid 15, cold 15, electricity 15, fire 15, physical 15; **Weaknesses** good 20
-<span class="in-box-ability">**Vulnerable to Dispelling** The animated dragonstorm can be targeted by [[Disjunction]] and [[Dispel Magic]]. If targeted by such a spell of 9th level or higher, the construct loses its resistance to acid, cold, electricity, fire, and physical damage and is [[Slowed]] for 1d4 rounds.</span>
+**HP** 255; **Immunities** bleed, death effects, disease, [[DATABASE/condition/Doomed|doomed]], [[DATABASE/condition/Drained|drained]], [[DATABASE/condition/Fatigued|fatigued]], healing, mental, necromancy, nonlethal attacks, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Sickened|sickened]], [[DATABASE/condition/Unconscious|unconscious]]; **Resistances** acid 15, cold 15, electricity 15, fire 15, physical 15; **Weaknesses** good 20
+<span class="in-box-ability">**Vulnerable to Dispelling** The animated dragonstorm can be targeted by [[DATABASE/spell/Disjunction|disjunction]] and [[DATABASE/spell/Dispel Magic|dispel magic]]. If targeted by such a spell of 9th level or higher, the construct loses its resistance to acid, cold, electricity, fire, and physical damage and is [[DATABASE/condition/Slowed|slowed 1]] for 1d4 rounds.</span>
 
 ---
 **Speed** 30 feet

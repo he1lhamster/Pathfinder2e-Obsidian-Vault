@@ -11,6 +11,7 @@ name: Hypnotic Lure
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Enchantment
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -28,13 +29,13 @@ type: Feat
 # Hypnotic Lure <span class="action-icon">2</span> <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Enchantment</span><span class="item-trait">Mental</span><span class="item-trait">Nagaji</span><span class="item-trait">Occult</span><span class="item-trait">Visual</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 **Frequency** once per hour
 
 ---
 Your unblinking gaze is so intense it can befuddle the mind of others, drawing your victims toward you even against their better judgment. You stare at a creature within 30 feet. The target must attempt a Will save against the higher of your class DC or spell DC.
 **Success** The target is unaffected.
-**Failure** On its turn, the target must spend its first action to approach you. It can't [[Delay]] or take reactions until it has done so.
+**Failure** On its turn, the target must spend its first action to approach you. It can't [[DATABASE/action/Delay|Delay]] or take reactions until it has done so.
 **Critical Failure** The target must use all its actions on its next turn to approach you. It can't Delay or take any reactions until it has reached a space that's adjacent to you (or as close to you as possible if it reaches an impassable barrier).
 
 ## Traits

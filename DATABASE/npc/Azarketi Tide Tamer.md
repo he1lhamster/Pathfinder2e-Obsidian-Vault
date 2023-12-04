@@ -74,24 +74,24 @@ wisdom: '+1'
 # Azarketi Tide Tamer
 
 The most ambitious and capable azarketis become tide tamers, learning how to speak with aquatic animals and even train the strongest of these creatures to help defend their territory. Tide tamers act as guardians for their communities, scouts at sea and on the shore, or even entertainers for land-bound people's amusement. They're generally found with one or more aquatic allies whom they've befriended. Several serve alongside Absalom's Wave Riders as scouts, animal interlocutors, and guides.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 23
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 23
 **Unspecific Lore**: DC 21
 **Specific Lore**: DC 18
 
 # Azarketi Tide Tamer<span class="item-type">Creature 7</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Amphibious</span><span class="item-trait">Azarketi</span><span class="item-trait">Humanoid</span>
-**Source** [[Absalom, City of Lost Omens]]
+**Source** [[DATABASE/source/Absalom, City of Lost Omens|Absalom, City of Lost Omens]]
 **Perception** +15
-**Languages** [[Common]]
-**Skills** [[Athletics]] +15 (+17 to [[Swim]]), [[Intimidation]] +15, [[Nature]] +12, [[Stealth]] +15 (+17 underwater), [[Survival]] +14, [[Lore]] +11
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +15 (+17 to [[DATABASE/action/Swim|Swim]]), [[DATABASE/skill/Intimidation|Intimidation]] +15, [[DATABASE/skill/Nature|Nature]] +12, [[DATABASE/skill/Stealth|Stealth]] +15 (+17 underwater), [[DATABASE/skill/Survival|Survival]] +14, [[DATABASE/skill/Lore|Underwater Lore]] +11
 **Str** +4, **Dex** +4, **Con** +2, **Int** +0, **Wis** +1, **Cha** +2
-**Items** _+1 [[Trident]]_, [[Hand Crossbow]], [[Studded Leather Armor]]
+**Items** _+1 [[DATABASE/weapon/Trident|trident]]_, [[DATABASE/weapon/Hand Crossbow|hand crossbow]], [[DATABASE/armor/Studded Leather Armor|studded leather armor]]
 
 ---
 **AC** 25; **Fort** +15, **Ref** +18, **Will** +12
 **HP** 115
-<span class="in-box-ability">**Hydration** Azarketi must regularly submerge themselves in water to rehydrate their water-acclimated skin. After the first 24 hours outside of water, they gain a –1 status penalty to Fortitude saves as their skin cracks and their gills become painful. After 48 hours, they struggle to breathe air and begin to suffocate until returned to water.</span><span class="in-box-ability">**Speaker of the Oceans** An azarketi tide tamer can speak with animals that have the aquatic or amphibious trait.</span><span class="in-box-ability">**Submerged Stealth** While submerged in water, an azarketi tide tamer gains a +2 circumstance bonus on their [[Stealth]] check, indicated above.</span>
+<span class="in-box-ability">**Hydration** Azarketi must regularly submerge themselves in water to rehydrate their water-acclimated skin. After the first 24 hours outside of water, they gain a –1 status penalty to Fortitude saves as their skin cracks and their gills become painful. After 48 hours, they struggle to breathe air and begin to suffocate until returned to water.</span><span class="in-box-ability">**Speaker of the Oceans** An azarketi tide tamer can speak with animals that have the aquatic or amphibious trait.</span><span class="in-box-ability">**Submerged Stealth** While submerged in water, an azarketi tide tamer gains a +2 circumstance bonus on their [[DATABASE/skill/Stealth|Stealth]] check, indicated above.</span>
 
 ---
 **Speed** 25 feet; swim 25 feet

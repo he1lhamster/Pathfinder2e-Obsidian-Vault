@@ -11,6 +11,7 @@ name: Titan Wrestler
 prerequisite: Trained in [[DATABASE/skill/Athletics|Athletics]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: athletics
@@ -24,15 +25,15 @@ type: Feat
 # Titan Wrestler <span class="item-type">Feat 1</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** trained in [[Athletics]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** trained in [[DATABASE/skill/Athletics|Athletics]]
 
 ---
 You can attempt to Disarm, Grapple, Shove, or Trip creatures up to two sizes larger than you, or up to three sizes larger than you if you’re legendary in Athletics.
 
 ## Titan Wrestler Leads To...
 
-[[The Harder They Fall (Ranger)]]
+[[DATABASE/feat/The Harder They Fall (Ranger)|The Harder They Fall (Ranger)]]
 
 ## Traits
 

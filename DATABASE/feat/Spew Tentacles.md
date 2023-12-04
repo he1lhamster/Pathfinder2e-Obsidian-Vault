@@ -11,6 +11,7 @@ name: Spew Tentacles
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Spew Tentacles <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Fleshwarp</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-You can open your mouth to an immense size and spew forth an impossibly large field of tentacles. You can cast [[Black Tentacles]] once per day as an innate occult spell, though when you do so, you spew them from your mouth out to the appropriate range, where they take root and begin [[Grapple]] creatures as usual. The tentacles recognize you as a part of them and don't attempt to Grapple you, even if you are in the area.
+You can open your mouth to an immense size and spew forth an impossibly large field of tentacles. You can cast [[DATABASE/spell/Black Tentacles|black tentacles]] once per day as an innate occult spell, though when you do so, you spew them from your mouth out to the appropriate range, where they take root and begin [[DATABASE/action/Grapple|Grappling]] creatures as usual. The tentacles recognize you as a part of them and don't attempt to Grapple you, even if you are in the area.
 
 ## Traits
 

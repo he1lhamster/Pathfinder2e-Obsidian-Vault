@@ -95,24 +95,24 @@ wisdom: '+4'
 Spellscar fexts are spellcasters who were destroyed by wild magic or wellspring surges they tried—and failed—to control. The magical feedback that snuffed out their life warped and animated their flesh, twisting them into shambling undead. Spellscar fexts stand 6 feet tall with disproportionately long arms that end in clusters of waving magical tendrils.
  Almost all who became spellscar fexts entered the Mana Wastes to harness the power of the area's wild magic. Once transformed, the desire for magical power becomes a spellscar fext's singular motivation. The creatures focus their attacks on magic users they encounter, attempting to kill them and strip their magic. Unfortunately for a spellscar fext, their transformation makes their entire being inimical to magic. They're unable to cast even the simplest of spells. They grasp destructively at magic they can never hold.
  Difficult for the unprepared to destroy permanently, spellscar fexts harry trade routes known for shipping magical goods and repeatedly attack arcane workshops on the borders of the Mana Wastes. They're particularly dangerous to spellcasters traveling alone, as battling the creatures might trigger a wellspring surge that could destroy the lone magic user.
- As the fext's vulnerability to glass weapons has become more well known, enterprising gunsmiths in Alkenstar have begun crafting glass ammunition, an uncommon item that costs the same as [[Cold Iron Weapon]].
-**Recall Knowledge - Undead ([[Religion]])**: DC 25
+ As the fext's vulnerability to glass weapons has become more well known, enterprising gunsmiths in Alkenstar have begun crafting glass ammunition, an uncommon item that costs the same as [[DATABASE/equipment/Cold Iron Weapon|cold iron ammunition]].
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 25
 **Unspecific Lore**: DC 23
 **Specific Lore**: DC 20
 
 # Spellscar Fext<span class="item-type">Creature 7</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Undead</span>
-**Source** [[Impossible Lands]]
-**Perception** +15; [[Darkvision]], magic sense (imprecise) 30 feet
-**Languages** [[Common]], [[Necril]]
-**Skills** [[Acrobatics]] +13, [[Arcana]] +17, [[Athletics]] +17, [[Occultism]] +17
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
+**Perception** +15; [[DATABASE/monsterability/Darkvision|darkvision]], magic sense (imprecise) 30 feet
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Necril|Necril]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +13, [[DATABASE/skill/Arcana|Arcana]] +17, [[DATABASE/skill/Athletics|Athletics]] +17, [[DATABASE/skill/Occultism|Occultism]] +17
 **Str** +6, **Dex** +2, **Con** +1, **Int** +4, **Wis** +4, **Cha** +2
 **Magic Sense** (arcane) The spellscar fext detects the source and school of each source of magic within 30 feet as an imprecise sense.
 
 ---
 **AC** 25; **Fort** +12, **Ref** +15, **Will** +17; +1 status versus magic
-**HP** 100 ([[Negative Healing]]), regeneration 10 (deactivated by glass); **Immunities** death effects, disease, [[Paralyzed]], poison, [[Unconscious]]; **Weaknesses** glass 10
+**HP** 100 ([[DATABASE/monsterability/Negative Healing|negative healing]]), regeneration 10 (deactivated by glass); **Immunities** death effects, disease, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Unconscious|unconscious]]; **Weaknesses** glass 10
 <span class="in-box-ability">**Unstable Feedback <span class="action-icon">5</span> ** **Trigger** A creature Casts a Spell on the spellscar fext, and the spellscar fext either succeeds at its saving throw versus the spell or the caster fails the spell attack roll against the spellscar fext; **Effect** The caster of the triggering spell undergoes a wellspring surge. Even if several spellscar fexts use this reaction after succeeding at a save against the same spell, the spellcaster undergoes only one wellspring surge.</span>
 
 ---

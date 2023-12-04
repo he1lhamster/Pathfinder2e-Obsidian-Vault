@@ -11,6 +11,7 @@ name: Knockback
 prerequisite: null
 rarity: Common
 requirement: Your last action was a successful Strike.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Knockback <span class="action-icon">1</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Barbarian</span><span class="item-trait">Rage</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Requirements** Your last action was a successful Strike.
 
 ---
@@ -32,7 +33,7 @@ The weight of your swing drives your enemy back. You push the foe back 5 feet, w
 
 ## Knockback Leads To...
 
-[[Awesome Blow]]
+[[DATABASE/feat/Awesome Blow|Awesome Blow]]
 
 ## Traits
 

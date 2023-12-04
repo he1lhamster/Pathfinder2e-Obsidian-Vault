@@ -11,6 +11,7 @@ name: Surprise Snare
 prerequisite: '[[DATABASE/feat/Snarecrafter Dedication|Snarecrafter Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,12 +25,12 @@ type: Feat
 # Surprise Snare <span class="action-icon">3</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Manipulate</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Snarecrafter]]
-**Prerequisites** [[Snarecrafter Dedication]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Snarecrafter|Snarecrafter]]
+**Prerequisites** [[DATABASE/feat/Snarecrafter Dedication|Snarecrafter Dedication]]
 
 ---
-You install one of your snares prepared for quick deployment in a space that's occupied by an opponent. It must be a snare that normally takes 1 minute or less to [[Craft]]. The snare automatically triggers, but it takes a –2 circumstance penalty to any applicable save DC, as well as any attack rolls or other checks the snare attempts.
+You install one of your snares prepared for quick deployment in a space that's occupied by an opponent. It must be a snare that normally takes 1 minute or less to [[DATABASE/action/Craft|Craft]]. The snare automatically triggers, but it takes a –2 circumstance penalty to any applicable save DC, as well as any attack rolls or other checks the snare attempts.
 
 ## Traits
 

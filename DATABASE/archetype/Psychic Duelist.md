@@ -4,6 +4,7 @@ level: '4'
 name: Psychic Duelist
 prerequisite: Trained in [[DATABASE/skill/Occultism|Occultism]]
 rarity: Rare
+rus_type_level: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -12,15 +13,15 @@ type: Archetype
 ---
 # Psychic Duelist
 
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 The mental landscape of the psychic duel rises to meet your steps and reshapes at your touch. You understand the binary mindscape links two minds, making its foundation only as strong as the wills of those involved. Two psychic castles in a siege—patch every loose brick in your walls and single out every flaw in your foe's defenses.
 
-## [[Psychic Duelist Dedication]] <span class="item-type">Feat 4</span>
+## [[DATABASE/feat/Psychic Duelist Dedication|Psychic Duelist Dedication]] <span class="item-type">Feat 4</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Archetype</span><span class="item-trait">Dedication</span>
-**Source** [[Dark Archive]]
-**Archetype** [[Psychic Duelist]]
-**Prerequisites** trained in [[Occultism]]; you have been in a psychic duel
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Archetype** [[DATABASE/archetype/Psychic Duelist|Psychic Duelist]]
+**Prerequisites** trained in [[DATABASE/skill/Occultism|Occultism]]; you have been in a psychic duel
 
 ---
 Through experience and in-depth visualizations of mental battles, you've grown adept at psychic duels. You gain a +2 circumstance bonus to your initiative rolls for psychic duels. Each time you enter a psychic duel, choose one of the following benefits for the duration of that duel.
@@ -30,34 +31,34 @@ Through experience and in-depth visualizations of mental battles, you've grown a
 
 **Special** You can't select another dedication feat until you have gained two other feats from the psychic duelist archetype.
 
-## [[Duel Spell Advantage]] <span class="item-type">Feat 6</span>
+## [[DATABASE/feat/Duel Spell Advantage|Duel Spell Advantage]] <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Dark Archive]]
-**Archetype** [[Psychic Duelist]]
-**Prerequisites** [[Psychic Duelist Dedication]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Archetype** [[DATABASE/archetype/Psychic Duelist|Psychic Duelist]]
+**Prerequisites** [[DATABASE/feat/Psychic Duelist Dedication|Psychic Duelist Dedication]]
 
 ---
-When you start a psychic duel, you gain a third natural psychic spell. You can't choose the same spell twice. If you're 9th level or higher, add the following spells to the list of natural psychic spells you can choose: [[Confusion]], [[Crushing Despair]], [[Hallucination]], [[Suggestion]], [[Synaptic Pulse]], and [[Synesthesia]].
+When you start a psychic duel, you gain a third natural psychic spell. You can't choose the same spell twice. If you're 9th level or higher, add the following spells to the list of natural psychic spells you can choose: [[DATABASE/spell/Confusion|confusion]], [[DATABASE/spell/Crushing Despair|crushing despair]], [[DATABASE/spell/Hallucination|hallucination]], [[DATABASE/spell/Suggestion|suggestion]], [[DATABASE/spell/Synaptic Pulse|synaptic pulse]], and [[DATABASE/spell/Synesthesia|synesthesia]].
 
-## [[Supreme Psychic Center]] <span class="action-icon">4</span> <span class="item-type">Feat 8</span>
+## [[DATABASE/feat/Supreme Psychic Center|Supreme Psychic Center]] <span class="action-icon">4</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Dark Archive]]
-**Archetype** [[Psychic Duelist]]
-**Prerequisites** [[Psychic Duelist Dedication]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Archetype** [[DATABASE/archetype/Psychic Duelist|Psychic Duelist]]
+**Prerequisites** [[DATABASE/feat/Psychic Duelist Dedication|Psychic Duelist Dedication]]
 **Trigger** Your turn in a psychic duel begins.
 
 ---
 With the merest thought, you realign your mental defenses to your duel's circumstances. You Recenter.
 
-## [[Instigate Psychic Duel]] <span class="action-icon">3</span> <span class="item-type">Feat 12</span>
+## [[DATABASE/feat/Instigate Psychic Duel|Instigate Psychic Duel]] <span class="action-icon">3</span> <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Illusion</span><span class="item-trait">Incapacitation</span><span class="item-trait">Mental</span><span class="item-trait">Occult</span>
-**Source** [[Dark Archive]]
-**Archetype** [[Psychic Duelist]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Archetype** [[DATABASE/archetype/Psychic Duelist|Psychic Duelist]]
 **Frequency** once per day
-**Prerequisites** [[Psychic Duelist Dedication]]
+**Prerequisites** [[DATABASE/feat/Psychic Duelist Dedication|Psychic Duelist Dedication]]
 
 ---
 You attempt to enter a psychic duel with a creature within 100 feet. The target can attempt a Will save against the higher of your spell DC or class DC. If it enters the duel willingly, use the result for a critical failure.

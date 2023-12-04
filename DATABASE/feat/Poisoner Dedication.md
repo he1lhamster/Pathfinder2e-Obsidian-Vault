@@ -11,6 +11,7 @@ name: Poisoner Dedication
 prerequisite: Trained in [[DATABASE/skill/Crafting|Crafting]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Poisoner Dedication <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Dedication</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Poisoner]]
-**Prerequisites** trained in [[Crafting]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Poisoner|Poisoner]]
+**Prerequisites** trained in [[DATABASE/skill/Crafting|Crafting]]
 
 ---
 You make a point of always having a few toxins near at hand—you never know when some arsenic or the like might prove useful. You gain the basic alchemy benefits, though they can be used only for alchemical poisons. You gain batches of infused reagents per day equal to your level. Your advanced alchemy level for creating these is 1 and doesn't increase on its own.
@@ -34,7 +35,7 @@ You make a point of always having a few toxins near at hand—you never know whe
 
 ## Poisoner Dedication Leads To...
 
-[[Acquired Tolerance]], [[Expert Poisoner]], [[Poison Coat]], [[Poisoner's Twist]]
+[[DATABASE/feat/Acquired Tolerance|Acquired Tolerance]], [[DATABASE/feat/Expert Poisoner|Expert Poisoner]], [[DATABASE/feat/Poison Coat|Poison Coat]], [[DATABASE/feat/Poisoner's Twist|Poisoner's Twist]]
 
 ## Traits
 

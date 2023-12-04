@@ -73,17 +73,17 @@ wisdom: '+3'
 # Firewyrm
 
 Firewyrms live in tubes of molten lava found throughout the Plane of Fire.
-**Recall Knowledge - Elemental ([[Arcana]], [[Nature]])**: DC 26
+**Recall Knowledge - Elemental ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 26
 **Unspecific Lore**: DC 24
 **Specific Lore**: DC 21
 
 # Firewyrm<span class="item-type">Creature 9</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Huge</span><span class="item-trait">Elemental</span><span class="item-trait">Fire</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +16; darkvision, smoke vision
-**Languages** [[Ignan]]
-**Skills** [[Acrobatics]] +20
+**Languages** [[DATABASE/language/Ignan|Ignan]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +20
 **Str** +5, **Dex** +5, **Con** +4, **Int** -1, **Wis** +3, **Cha** +0
 **Smoke Vision** The firewyrm ignores the concealed condition from smoke.
 

@@ -9,6 +9,7 @@ rarity: Common
 requirement: Your last action or spell this turn had the [[DATABASE/trait/Acid|acid]]
   , [[DATABASE/trait/Cold|cold]] , [[DATABASE/trait/Electricity|electricity]] , [[DATABASE/trait/Fire|fire]]
   , or [[DATABASE/trait/Sonic|sonic]] trait.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 trait: null
@@ -18,7 +19,7 @@ type: Action
 ---
 # Conduct Energy <span class="action-icon">4</span>
 
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 **Requirements** Your last action or spell this turn had the acid, cold, electricity, fire, or sonic trait.
 
 ---

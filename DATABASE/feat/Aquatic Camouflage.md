@@ -11,6 +11,7 @@ name: Aquatic Camouflage
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Aquatic Camouflage <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Azarketi</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-You blend into the waves. While fully submerged in water, as long as an observer is at least 20 feet away from you, you don't need cover from that observer to [[Hide]] or [[Sneak]].
+You blend into the waves. While fully submerged in water, as long as an observer is at least 20 feet away from you, you don't need cover from that observer to [[DATABASE/action/Hide|Hide]] or [[DATABASE/action/Sneak|Sneak]].
 
 ## Traits
 

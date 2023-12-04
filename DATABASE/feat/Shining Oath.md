@@ -11,6 +11,7 @@ name: Shining Oath
 prerequisite: '[[DATABASE/championtenet/Good|tenets of good]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Shining Oath <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Champion</span><span class="item-trait">Oath</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Good]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/championtenet/Good|tenets of good]]
 
 ---
 You’ve sworn an oath to put the undead to rest. Add the following tenet to your champion’s code after the other tenets: “You must end the existence of undead you encounter as long as you have a reasonable chance of success; in the unlikely event you find a good undead, you can try to work out a more peaceful way to help it recover from its undead state rather than destroying it in combat, such as helping it complete its unfinished business and find peace.”
@@ -34,7 +35,7 @@ You’ve sworn an oath to put the undead to rest. Add the following tenet to you
 
 ## Shining Oath Leads To...
 
-[[Aura of Life]]
+[[DATABASE/feat/Aura of Life|Aura of Life]]
 
 ## Traits
 

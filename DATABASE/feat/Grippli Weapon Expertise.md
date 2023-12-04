@@ -11,6 +11,7 @@ name: Grippli Weapon Expertise
 prerequisite: '[[DATABASE/feat/Grippli Weapon Familiarity|Grippli Weapon Familiarity]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 subcategory: null
@@ -23,11 +24,11 @@ type: Feat
 # Grippli Weapon Expertise <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Grippli</span>
-**Source** [[The Mwangi Expanse]] 
-**Prerequisites** [[Grippli Weapon Familiarity]]
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]] 
+**Prerequisites** [[DATABASE/feat/Grippli Weapon Familiarity|Grippli Weapon Familiarity]]
 
 ---
-You fight with effortless expertise with grippli weapons. Whenever you gain a class feature that grants you expert or greater proficiency in a given weapon or weapons, you also gain that proficiency in the [[Blowgun]], [[Hatchet]], [[Scythe]], [[Shortbow]], [[Shortbow]], or grippli weapons in which you are trained.
+You fight with effortless expertise with grippli weapons. Whenever you gain a class feature that grants you expert or greater proficiency in a given weapon or weapons, you also gain that proficiency in the [[DATABASE/weapon/Blowgun|blowgun]], [[DATABASE/weapon/Hatchet|hatchet]], [[DATABASE/weapon/Scythe|scythe]], [[DATABASE/weapon/Shortbow|shortbow]], [[DATABASE/weapon/Shortbow|composite shortbow]], or grippli weapons in which you are trained.
 
 ## Traits
 

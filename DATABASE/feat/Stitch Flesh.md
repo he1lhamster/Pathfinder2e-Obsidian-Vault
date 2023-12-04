@@ -11,6 +11,7 @@ name: Stitch Flesh
 prerequisite: Trained in [[DATABASE/skill/Medicine|Medicine]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 subcategory: medicine
@@ -24,11 +25,11 @@ type: Feat
 # Stitch Flesh <span class="item-type">Feat 1</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Book of the Dead]]
-**Prerequisites** trained in [[Medicine]]
+**Source** [[DATABASE/source/Book of the Dead|Book of the Dead]]
+**Prerequisites** trained in [[DATABASE/skill/Medicine|Medicine]]
 
 ---
-You can use [[Treat Wounds]] to restore Hit Points to undead creatures, not just living ones. The techniques you use to do so vary, but all require sutures, bandages, and other tools included in [[Healer's Tools]]. Some conditions that might raise the DC of treating undead's wounds differ from that of living creatures. For instance, the GM might increase the DC if the undead being treated is in a church of [[Pharasma]] or the wounds were caused by powerful positive energy.
+You can use [[DATABASE/action/Treat Wounds|Treat Wounds]] to restore Hit Points to undead creatures, not just living ones. The techniques you use to do so vary, but all require sutures, bandages, and other tools included in [[DATABASE/equipment/Healer's Tools|healer's tools]]. Some conditions that might raise the DC of treating undead's wounds differ from that of living creatures. For instance, the GM might increase the DC if the undead being treated is in a church of [[DATABASE/deity/Pharasma|Pharasma]] or the wounds were caused by powerful positive energy.
 
 ## Traits
 

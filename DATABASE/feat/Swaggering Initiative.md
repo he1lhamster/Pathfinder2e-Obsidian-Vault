@@ -11,6 +11,7 @@ name: Swaggering Initiative
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Swaggering Initiative <span class="action-icon">4</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Swashbuckler</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Trigger** You are about to roll initiative.
 
 ---

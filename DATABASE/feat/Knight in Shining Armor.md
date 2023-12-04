@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Knight Vigilant|Knight Vigilant]] ; expert in lig
   armor, medium armor, orunarmored defense; trained in heavy armor'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Knight in Shining Armor <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Character Guide]] 
-**Archetype** [[Knight Vigilant]]
-**Prerequisites** [[Knight Vigilant]]; expert in light armor, medium armor, or unarmored defense; trained in heavy armor
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
+**Archetype** [[DATABASE/archetype/Knight Vigilant|Knight Vigilant]]
+**Prerequisites** [[DATABASE/feat/Knight Vigilant|Knight Vigilant]]; expert in light armor, medium armor, or unarmored defense; trained in heavy armor
 
 ---
 As a knight in shining armor, you train daily in the heaviest armor, expanding your expertise to heavy armor. You gain expert proficiency in heavy armor.

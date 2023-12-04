@@ -25,6 +25,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -40,9 +41,9 @@ type: Spell
 # Pass Without Trace<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Abjuration</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** primal
-**Deities** [[Kalekot]], [[Ketephys]], [[Ng]], [[Tanagaar]]
+**Deities** [[DATABASE/deity/Kalekot|Kalekot]], [[DATABASE/deity/Ketephys|Ketephys]], [[DATABASE/deity/Ng|Ng]], [[DATABASE/deity/Tanagaar|Tanagaar]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Duration** 1 hour
 

@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/heritage/Quillcoat Shisk|Quillcoat Shisk]] heritage or
   [[DATABASE/trait/Unarmed|unarmed]] attack'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 subcategory: null
@@ -24,12 +25,12 @@ type: Feat
 # Quill Spray <span class="action-icon">2</span> <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Shisk</span>
-**Source** [[The Mwangi Expanse]] 
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]] 
 **Frequency** once per day
-**Prerequisites** [[Quillcoat Shisk]], or quill unarmed attack
+**Prerequisites** [[DATABASE/heritage/Quillcoat Shisk|Quillcoat Shisk]], or quill unarmed attack
 
 ---
-You can launch a mass of quills at opponents. You spray quills in a 30-foot cone, dealing 5d8 piercing damage. Each creature in the area must attempt a basic saving throw against the higher of your class DC or spell DC. On a critical failure, a creature also takes 5 [[Persistent Damage]]. At 11th level and every even level thereafter, the piercing damage increases by 1d8 and the persistent bleed damage increases by 1.
+You can launch a mass of quills at opponents. You spray quills in a 30-foot cone, dealing 5d8 piercing damage. Each creature in the area must attempt a basic saving throw against the higher of your class DC or spell DC. On a critical failure, a creature also takes 5 [[DATABASE/condition/Persistent Damage|persistent bleed damage]]. At 11th level and every even level thereafter, the piercing damage increases by 1d8 and the persistent bleed damage increases by 1.
 
 ## Traits
 

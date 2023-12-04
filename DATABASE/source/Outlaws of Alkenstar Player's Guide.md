@@ -2,6 +2,7 @@
 id: '117'
 name: Outlaws of Alkenstar Player's Guide
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -16,4 +17,4 @@ type: Source
 
 ## Backgrounds [6]
 
-[[Banished Brighite]], [[Framed in Ferrous Quarter]], [[Inexplicably Expelled]], [[Ratted-Out Gun Runner]], [[Snubbed Out Stoolie]], [[Wanted Witness]]
+[[DATABASE/background/Banished Brighite|Banished Brighite]], [[DATABASE/background/Framed in Ferrous Quarter|Framed in Ferrous Quarter]], [[DATABASE/background/Inexplicably Expelled|Inexplicably Expelled]], [[DATABASE/background/Ratted-Out Gun Runner|Ratted-Out Gun Runner]], [[DATABASE/background/Snubbed Out Stoolie|Snubbed Out Stoolie]], [[DATABASE/background/Wanted Witness|Wanted Witness]]

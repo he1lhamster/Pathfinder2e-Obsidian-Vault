@@ -5,6 +5,7 @@ item_category: Relics
 name: Clean Luck
 prerequisite: null
 rarity: Common
+rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
@@ -16,7 +17,7 @@ type: Relic Major Gift
 # Clean Luck<span class="item-type">Major Gift</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Fortune</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Aspect** luck
 
 ---

@@ -69,16 +69,16 @@ wisdom: '+1'
 # Giant Flea
 
 Giant fleas are commonly found in areas containing hardy megafauna, such as dinosaurs or mammoths.
-**Recall Knowledge - Animal ([[Nature]])**: DC 18
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Giant Flea<span class="item-type">Creature 3</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Animal</span>
-**Source** [[Pathfinder 151. The Show Must Go On]]
+**Source** [[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: The Show Must Go On]]
 **Perception** +10; low-light vision, scent (imprecise) 30 feet
-**Skills** [[Acrobatics]] +10, [[Athletics]] +9 (+15 to Jump)
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +10, [[DATABASE/skill/Athletics|Athletics]] +9 (+15 to Jump)
 **Str** +2, **Dex** +3, **Con** +3, **Int** -5, **Wis** +1, **Cha** -4
 
 ---
@@ -87,4 +87,4 @@ Giant fleas are commonly found in areas containing hardy megafauna, such as dino
 
 ---
 **Speed** 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> proboscis +12 [+7/+2], **Damage** 1d8+4 piercing plus Suck Blood and flea fever</span><span class="in-box-ability">**Flea Fever** (disease) Drain from flea fever can’t be reduced or recovered from naturally until the disease is cured. **Saving Throw** DC 18 Fortitude; **Stage 1** [[Drained]] (1d4 hours), **Stage 2** drained 1 and [[Sickened]] (1 day), **Stage 3** drained 2 and sickened 1 (1 day), **Stage 4** drained 3 and sickened 1 (1 day), **Stage 5** dead</span><span class="in-box-ability">**Suck Blood** <span class="action-icon">1</span> **Requirements** The giant flea’s last action was a successful proboscis Strike; **Effect** The giant flea drinks the creature’s blood. The victim becomes drained 1 and the flea regains 5 HP.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> proboscis +12 [+7/+2], **Damage** 1d8+4 piercing plus Suck Blood and flea fever</span><span class="in-box-ability">**Flea Fever** (disease) Drain from flea fever can’t be reduced or recovered from naturally until the disease is cured. **Saving Throw** DC 18 Fortitude; **Stage 1** [[DATABASE/condition/Drained|drained 1]] (1d4 hours), **Stage 2** drained 1 and [[DATABASE/condition/Sickened|sickened 1]] (1 day), **Stage 3** drained 2 and sickened 1 (1 day), **Stage 4** drained 3 and sickened 1 (1 day), **Stage 5** dead</span><span class="in-box-ability">**Suck Blood** <span class="action-icon">1</span> **Requirements** The giant flea’s last action was a successful proboscis Strike; **Effect** The giant flea drinks the creature’s blood. The victim becomes drained 1 and the flea regains 5 HP.</span>

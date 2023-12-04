@@ -5,6 +5,7 @@ id: '21'
 name: Dimension of Time
 plane_category: Dimensions
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
 - '[[DATABASE/trait/Erratic|Erratic]]'
@@ -15,10 +16,10 @@ type: Plane
 # Dimension of Time<span class="item-type">Dimension</span>
 
 <span class="trait-alignment item-trait">N</span><span class="item-trait">Erratic</span><span class="item-trait">Static</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Category** Dimensions
-**Divinities** Tawil at’Umr, [[Yog-Sothoth]]
-**Native Inhabitants** [[Hound of Tindalos]], [[Petitioner]] (the unbound)
+**Divinities** Tawil at’Umr, [[DATABASE/deity/Yog-Sothoth|Yog-Sothoth]]
+**Native Inhabitants** [[DATABASE/monster/Hound of Tindalos|hounds of Tindalos]], [[DATABASE/monster/Petitioner|petitioners]] (the unbound)
 
 ---
 Among the most obscure planes of existence, the Dimension of Time is virtually impossible to access by conventional methods of planar travel. Instead, travelers much perform complex and difficult rituals described within the pages of such monstrously rare tomes as the _Necronomicon_ and the _Book of Serpents, Ash, and Acorns: Shadows of What Was and Will Be_. Compounding the plane’s obscurity, each traveler’s experience seems to be unique, and most who attempt the journey never return. Every manner of magic that interacts with the plane invariably draws the attention of creatures such as the hounds of Tindalos. The proper flow and continuity of time seems to self-correct for any attempted meddling, often with violence.

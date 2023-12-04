@@ -11,6 +11,7 @@ name: Dragon's Rage Breath
 prerequisite: '[[DATABASE/barbarianinstinct/Dragon Instinct|dragon instinct]]'
 rarity: Common
 requirement: "You haven\u2019t used this ability since you last Raged."
+rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -27,8 +28,8 @@ type: Feat
 # Dragon's Rage Breath <span class="action-icon">2</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Arcane</span><span class="item-trait">Barbarian</span><span class="item-trait">Concentrate</span><span class="item-trait">Evocation</span><span class="item-trait">Rage</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Dragon Instinct]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/barbarianinstinct/Dragon Instinct|dragon instinct]]
 **Requirements** You haven’t used this ability since you last Raged.
 
 ---
@@ -36,18 +37,19 @@ You breathe deeply and exhale powerful energy in a 30-foot cone or 60-foot line,
 
 ## Table 3-4: Dragon Instincts
 
-| Dragon Type                                      | Category   | Breath Weapon       |
-|:-------------------------------------------------|:-----------|:--------------------|
-| [[Dragon, Black]]   | Chromatic  | Line of acid        |
-| [[Dragon, Blue]]     | Chromatic  | Line of electricity |
-| [[Dragon, Green]]   | Chromatic  | Cone of poison      |
-| [[Dragon, Red]]       | Chromatic  | Cone of fire        |
-| [[Dragon, White]]   | Chromatic  | Cone of cold        |
-| [[Dragon, Brass]]   | Metallic   | Line of fire        |
-| [[Dragon, Bronze]] | Metallic   | Line of electricity |
-| [[Dragon, Copper]] | Metallic   | Line of acid        |
-| [[Dragon, Gold]]     | Metallic   | Cone of fire        |
-| [[Dragon, Silver]] | Metallic   | Cone of cold        |
+| 0 | 1 | 2 |
+|:-------------------------------------------------|:----------|:--------------------|
+| Dragon Type | Category | Breath Weapon |
+| [[Dragon, Black]] | Chromatic | Line of acid |
+| [[Dragon, Blue]] | Chromatic | Line of electricity |
+| [[Dragon, Green]] | Chromatic | Cone of poison |
+| [[Dragon, Red]] | Chromatic | Cone of fire |
+| [[Dragon, White]] | Chromatic | Cone of cold |
+| [[Dragon, Brass]] | Metallic | Line of fire |
+| [[Dragon, Bronze]] | Metallic | Line of electricity |
+| [[Dragon, Copper]] | Metallic | Line of acid |
+| [[Dragon, Gold]] | Metallic | Cone of fire |
+| [[Dragon, Silver]] | Metallic | Cone of cold |
 
 ## Traits
 

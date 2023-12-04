@@ -87,20 +87,20 @@ wisdom: '+4'
 # Grippli Greenspeaker
 
 The unofficial healers of gripplikind are known as greenspeakers.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 20
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 20
 **Unspecific Lore**: DC 18
 **Specific Lore**: DC 15
 
 # Grippli Greenspeaker<span class="item-type">Creature 5</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Small</span><span class="item-trait">Grippli</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 146. Cult of Cinders]]
+**Source** [[DATABASE/source/Pathfinder 146. Cult of Cinders|Pathfinder #146: Cult of Cinders]]
 **Perception** +13; darkvision
-**Languages** [[Common]], [[Grippli]]
-**Skills** [[Acrobatics]] +11, [[Athletics]] +9, [[Diplomacy]] +10, [[Medicine]] +11, [[Nature]] +14, [[Religion]] +11, [[Stealth]] +11, [[Survival]] +11
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Grippli|Grippli]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +11, [[DATABASE/skill/Athletics|Athletics]] +9, [[DATABASE/skill/Diplomacy|Diplomacy]] +10, [[DATABASE/skill/Medicine|Medicine]] +11, [[DATABASE/skill/Nature|Nature]] +14, [[DATABASE/skill/Religion|Religion]] +11, [[DATABASE/skill/Stealth|Stealth]] +11, [[DATABASE/skill/Survival|Survival]] +11
 **Str** +2, **Dex** +4, **Con** +1, **Int** +1, **Wis** +4, **Cha** +0
-**Green Empathy** The greenspeaker can use [[Diplomacy]] to Make an Impression on and make very simple Requests of plants and fungi.
-**Items** [[Dart]], [[Staff]]
+**Green Empathy** The greenspeaker can use [[DATABASE/skill/Diplomacy|Diplomacy]] to Make an Impression on and make very simple Requests of plants and fungi.
+**Items** [[DATABASE/weapon/Dart|dart (4)]], [[DATABASE/weapon/Staff|staff]]
 
 ---
 **AC** 21; **Fort** +10, **Ref** +13, **Will** +13
@@ -108,5 +108,5 @@ The unofficial healers of gripplikind are known as greenspeakers.
 
 ---
 **Speed** 25 feet, climb 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> staff +11 [+6/+1] (two-hand d8), **Damage** 1d4+4 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> dart +13 [+9/+5] (agile, thrown 20 feet), **Damage** 1d4+4 piercing</span>**Primal Prepared Spells** DC 23, attack +13; **3rd** _[[Animal Form]]_, _[[Summon Plant or Fungus]]_; **2nd** _[[Barkskin]]_, _[[Entangle]]_, _[[Speak with Animals]]_; **1st** _[[Jump]]_, _[[Pass Without Trace]]_, _[[Shillelagh]]_; **Cantrips** **(3rd)** _[[Acid Splash]]_, _[[Guidance]]_, _[[Know Direction]]_, _[[Produce Flame]]_, _[[Tanglefoot]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> staff +11 [+6/+1] (two-hand d8), **Damage** 1d4+4 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> dart +13 [+9/+5] (agile, thrown 20 feet), **Damage** 1d4+4 piercing</span>**Primal Prepared Spells** DC 23, attack +13; **3rd** _[[DATABASE/spell/Animal Form|animal form]]_, _[[DATABASE/spell/Summon Plant or Fungus|summon plant or fungus]]_; **2nd** _[[DATABASE/spell/Barkskin|barkskin]]_, _[[DATABASE/spell/Entangle|entangle]]_, _[[DATABASE/spell/Speak with Animals|speak with animals]]_; **1st** _[[DATABASE/spell/Jump|jump]]_, _[[DATABASE/spell/Pass Without Trace|pass without trace]]_, _[[DATABASE/spell/Shillelagh|shillelagh]]_; **Cantrips** **(3rd)** _[[DATABASE/spell/Acid Splash|acid splash]]_, _[[DATABASE/spell/Guidance|guidance]]_, _[[DATABASE/spell/Know Direction|know direction]]_, _[[DATABASE/spell/Produce Flame|produce flame]]_, _[[DATABASE/spell/Tanglefoot|tanglefoot]]_
 <span class="in-box-ability">**Jungle Stride** A grippli ignores difficult terrain in forests and jungles.</span>

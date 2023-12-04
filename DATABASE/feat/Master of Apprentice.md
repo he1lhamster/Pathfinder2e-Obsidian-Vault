@@ -11,6 +11,7 @@ name: Master of Apprentice
 prerequisite: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Highhelm|Highhelm]]'
 subcategory: crafting
@@ -25,11 +26,11 @@ type: Feat
 # Master of Apprentice <span class="item-type">Feat 7</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Highhelm]]
-**Prerequisites** master in [[Crafting]], [[Performance]], or [[Lore]]
+**Source** [[DATABASE/source/Highhelm|Highhelm]]
+**Prerequisites** master in [[DATABASE/skill/Crafting|Crafting]], [[DATABASE/skill/Performance|Performance]], or [[DATABASE/skill/Lore|a Lore skill]]
 
 ---
-Teaching is a difficult art form, but you've gotten a pretty good handle on it. When you [[Craft]] or [[Earn Income]] during downtime, you can also attempt to [[Aid]] another creature doing the same with the same skill if they have a lower proficiency bonus than you. If you succeed, they can use the better result between your check and their own check.
+Teaching is a difficult art form, but you've gotten a pretty good handle on it. When you [[DATABASE/action/Craft|Craft]] or [[DATABASE/action/Earn Income|Earn Income]] during downtime, you can also attempt to [[DATABASE/action/Aid|Aid]] another creature doing the same with the same skill if they have a lower proficiency bonus than you. If you succeed, they can use the better result between your check and their own check.
 
 ## Traits
 
@@ -43,4 +44,4 @@ A general feat with the skill trait improves your skills and their actions or gi
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.

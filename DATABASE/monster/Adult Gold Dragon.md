@@ -131,17 +131,17 @@ Gold dragons are the epitome of metallic dragonkind, unrivaled in their strength
  When another metallic dragon faces a quandary or a foe beyond its own ability to overcome, its best option is often to seek the counsel of the eternally wise and gloriously righteous gold dragons. Locating these legendary beings is no easy task, however, for gold dragons are notoriously reclusive. Their intellect and wisdom is such that they prefer to ponder the great questions of life in seclusion, where they strive to formulate solutions to the world's most pressing problems. As a result, gold dragons are sometimes absent when metallic dragons gather together, or are missing from tribunals where their counsel would be beneficial. Impatient dragons sometimes begrudge gold dragons for this apparent unreliability, but such aspersions are usually a result of jealousy rather than any true criticism; in their hearts, other dragons know that few gold dragons purposefully exclude themselves from truly important matters.
  A gold dragon's incredible foresight and unparalleled enlightenment means they are unlikely to interfere in the business of individual mortals, though the rare person who captures the attention of a gold dragon is fortunate indeed, for there are few beings in the cosmos who can offer such prudent and considerate advice. Rulers and individuals in stations of high power have an easier time of garnering the aid of a gold dragon; entire wars have been avoided thanks to a gold dragon's last-minute intermediation.
  Gold dragons are often found in warm grasslands and savannas, lands where they can enjoy long, meditative flights without attracting the attention of potential enemies. They tend to sleep either out in the open in a barren, remote place, or within a heavily secreted or fortified lair, such as a forgotten sink hole or in the labyrinthine caverns of a terrestrial chasm. Gold dragons may enlist trusted servants and allies to guard their lairs, though many live truly solitary lives, preferring to protect their hoards with nonlethal traps and magical wards.
-**Recall Knowledge - Dragon ([[Arcana]])**: DC 34
+**Recall Knowledge - Dragon ([[DATABASE/skill/Arcana|Arcana]])**: DC 34
 **Unspecific Lore**: DC 32
 **Specific Lore**: DC 29
 
 # Adult Gold Dragon<span class="item-type">Creature 15</span>
 
 <span class="trait-alignment item-trait">LG</span><span class="trait-size item-trait">Huge</span><span class="item-trait">Dragon</span><span class="item-trait">Fire</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +29; darkvision, scent (imprecise) 60 feet
-**Languages** [[Common]], [[Draconic]], [[Dwarven]], [[Elven]], [[Sylvan]]
-**Skills** [[Acrobatics]] +22, [[Arcana]] +24, [[Athletics]] +28, [[Diplomacy]] +29, [[Medicine]] +27, [[Religion]] +29, [[Society]] +26
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Dwarven|Dwarven]], [[DATABASE/language/Elven|Elven]], [[DATABASE/language/Sylvan|Sylvan]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +22, [[DATABASE/skill/Arcana|Arcana]] +24, [[DATABASE/skill/Athletics|Athletics]] +28, [[DATABASE/skill/Diplomacy|Diplomacy]] +29, [[DATABASE/skill/Medicine|Medicine]] +27, [[DATABASE/skill/Religion|Religion]] +29, [[DATABASE/skill/Society|Society]] +26
 **Str** +7, **Dex** +3, **Con** +6, **Int** +5, **Wis** +6, **Cha** +4
 
 ---
@@ -151,11 +151,11 @@ Gold dragons are the epitome of metallic dragonkind, unrivaled in their strength
 
 ---
 **Speed** 50 feet, fly 180 feet, swim 50 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +30 [+25/+20] (fire, magical, reach 15 feet), **Damage** 3d12+15 piercing plus 3d6 fire</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +30 [+26/+22] (agile, magical, reach 10 feet), **Damage** 3d10+15 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> tail +28 [+23/+18] (magical, reach 20 feet), **Damage** 3d10+13 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> horns +28 [+24/+20] (agile, magical, reach 15 feet), **Damage** 2d12+13 piercing</span>**Arcane Innate Spells** DC 35; **7th** _[[Sunburst]]_; **3rd** _[[Locate]]_ (gems only); **1st** _[[Detect Alignment]]_ (evil only)
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +30 [+25/+20] (fire, magical, reach 15 feet), **Damage** 3d12+15 piercing plus 3d6 fire</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +30 [+26/+22] (agile, magical, reach 10 feet), **Damage** 3d10+15 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> tail +28 [+23/+18] (magical, reach 20 feet), **Damage** 3d10+13 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> horns +28 [+24/+20] (agile, magical, reach 15 feet), **Damage** 2d12+13 piercing</span>**Arcane Innate Spells** DC 35; **7th** _[[DATABASE/spell/Sunburst|sunburst]]_; **3rd** _[[DATABASE/spell/Locate|locate]]_ (gems only); **1st** _[[DATABASE/spell/Detect Alignment|detect alignment]]_ (evil only)
 <span class="in-box-ability">**Breath Weapon ** <span class="action-icon">2</span> The gold dragon breathes in one of two ways. The dragon can’t use Breath Weapon again for 1d4 rounds.
 
 * **Flame** (arcane, evocation,fire); The dragon breathes a blast of flame in a 40-foot cone that deals 15d6 fire damage (DC 37 basic Reflex save).
-* **Weakening Gas** (arcane, necromancy); The dragon breathes a blast of weakening gas. Each creature within a 40-foot cone must succeed at a DC 37 Fortitude save or become [[Enfeebled]] 2 for 1 minute (or enfeebled 3 on a critical failure).
+* **Weakening Gas** (arcane, necromancy); The dragon breathes a blast of weakening gas. Each creature within a 40-foot cone must succeed at a DC 37 Fortitude save or become [[DATABASE/condition/Enfeebled|enfeebled]] 2 for 1 minute (or enfeebled 3 on a critical failure).
 
 </span><span class="in-box-ability">**Draconic Frenzy** <span class="action-icon">2</span> The gold dragon makes two claw Strikes and one horns Strike in any order</span><span class="in-box-ability">**Draconic Momentum** When the gold dragon scores a critical hit with a strike, it recharges Breath Weapon.</span>
 
@@ -163,9 +163,9 @@ Gold dragons are the epitome of metallic dragonkind, unrivaled in their strength
 
 Gold dragon spellcasters tend to cast the following spells. Unlike most dragons, they cast divine spells instead of arcane.
 **Young Gold Dragon**
-**Divine Prepared Spells** DC 29, attack +24; **4th** [[Discern Lies]], [[Heal]], [[Restoration]]; **3rd** [[Dispel Magic]], [[Haste]], [[Heal]]; **2nd** [[Restoration]], [[Resist Energy]], [[See Invisibility]], [[Silence]]; **1st** [[Alarm]], [[Mending]], [[Protection]], [[Spirit Link]]; **Cantrips (4th)** [[Daze]], [[Detect Magic]], [[Forbidding Ward]], [[Prestidigitation]], [[Read Aura]]
+**Divine Prepared Spells** DC 29, attack +24; **4th** [[DATABASE/spell/Discern Lies|discern lies]], [[DATABASE/spell/Heal|heal]], [[DATABASE/spell/Restoration|restoration]]; **3rd** [[DATABASE/spell/Dispel Magic|dispel magic]], [[DATABASE/spell/Haste|haste]], [[DATABASE/spell/Heal|heal]]; **2nd** [[DATABASE/spell/Restoration|restoration]], [[DATABASE/spell/Resist Energy|resist energy]], [[DATABASE/spell/See Invisibility|see invisibility]], [[DATABASE/spell/Silence|silence]]; **1st** [[DATABASE/spell/Alarm|alarm]], [[DATABASE/spell/Mending|mending]], [[DATABASE/spell/Protection|protection]], [[DATABASE/spell/Spirit Link|spirit link]]; **Cantrips (4th)** [[DATABASE/spell/Daze|daze]], [[DATABASE/spell/Detect Magic|detect magic]], [[DATABASE/spell/Forbidding Ward|forbidding ward]], [[DATABASE/spell/Prestidigitation|prestidigitation]], [[DATABASE/spell/Read Aura|read aura]]
 **Adult Gold Dragon**
-**Divine Prepared Spells** DC 35, attack +30; As young gold dragon, plus **6th** [[Blade Barrier]], [[Heal]], [[True Seeing]]; **5th** [[Banishment]], [[Breath of Life]], [[Sending]]; **Cantrips (6th)** [[Daze]], [[Detect Magic]], [[Forbidding Ward]], [[Prestidigitation]], [[Read Aura]]
+**Divine Prepared Spells** DC 35, attack +30; As young gold dragon, plus **6th** [[DATABASE/spell/Blade Barrier|blade barrier]], [[DATABASE/spell/Heal|heal]], [[DATABASE/spell/True Seeing|true seeing]]; **5th** [[DATABASE/spell/Banishment|banishment]], [[DATABASE/spell/Breath of Life|breath of life]], [[DATABASE/spell/Sending|sending]]; **Cantrips (6th)** [[DATABASE/spell/Daze|daze]], [[DATABASE/spell/Detect Magic|detect magic]], [[DATABASE/spell/Forbidding Ward|forbidding ward]], [[DATABASE/spell/Prestidigitation|prestidigitation]], [[DATABASE/spell/Read Aura|read aura]]
 
 ###  Parnoneryx
 

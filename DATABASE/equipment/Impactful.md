@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Impactful<span class="item-type">Item 10+</span>
 
 <span class="item-trait">Evocation</span><span class="item-trait">Force</span><span class="item-trait">Magical</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Usage** etched onto a weapon; **Bulk** —
 
 ---
@@ -62,11 +63,11 @@ This rune thrums with pure magical energy. Weapons with the rune deal an additio
 
 ## Impactful<span class="item-type">Item 10</span>
 
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Price** 1,000 gp
 
 ## Impactful (Greater)<span class="item-type">Item 17</span>
 
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Price** 15,000 gp
 The save DC is 37, and on a failed save, the foe is pushed 10 feet away from you.

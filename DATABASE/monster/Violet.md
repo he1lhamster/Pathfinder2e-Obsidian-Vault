@@ -67,17 +67,17 @@ wisdom: '+1'
 # Violet
 
 This creature did not include a description.
-**Recall Knowledge - Animal ([[Nature]])**: DC 25
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 25
 **Unspecific Lore**: DC 23
 **Specific Lore**: DC 20
 
 # Violet<span class="item-type">Creature 1</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Small</span><span class="item-trait">Animal</span>
-**Source** [[Pathfinder 151. The Show Must Go On]]
+**Source** [[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: The Show Must Go On]]
 Male goat pet
-**Perception** +6; [[Low-Light Vision]], [[Scent]] (imprecise) 30 feet
-**Skills** [[Acrobatics]] +5, [[Athletics]] +6, [[Survival]] +5
+**Perception** +6; [[DATABASE/monsterability/Low-Light Vision|low-light vision]], [[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +5, [[DATABASE/skill/Athletics|Athletics]] +6, [[DATABASE/skill/Survival|Survival]] +5
 **Str** +3, **Dex** +2, **Con** +3, **Int** -4, **Wis** +1, **Cha** -2
 
 ---

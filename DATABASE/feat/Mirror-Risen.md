@@ -11,6 +11,7 @@ name: Mirror-Risen
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Mirror-Risen <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Lineage</span><span class="item-trait">Reflection</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 
 ---
 You were created from magic involving mirrors and still retain some ability to seek refuge in reflected illusions. You gain the Mirror's Trickery reaction. 
@@ -32,7 +33,7 @@ You were created from magic involving mirrors and still retain some ability to s
 
 ## Mirror-Risen Leads To...
 
-[[Mirror Refuge]], [[Reflective Pocket]]
+[[DATABASE/feat/Mirror Refuge|Mirror Refuge]], [[DATABASE/feat/Reflective Pocket|Reflective Pocket]]
 
 ## Traits
 
@@ -42,4 +43,4 @@ A feat with this trait indicates a character's descendance from a particular typ
 
 **Reflection:**
 
-A creature with this trait has the [[Reflection]] versatile heritage. Reflections are beings who are copies of living people, whether through cloning, planar duplication, or another mechanism. An ability with this trait can be used or selected only by reflections.
+A creature with this trait has the [[DATABASE/ancestry/Reflection|reflection]] versatile heritage. Reflections are beings who are copies of living people, whether through cloning, planar duplication, or another mechanism. An ability with this trait can be used or selected only by reflections.

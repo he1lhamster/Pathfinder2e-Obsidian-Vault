@@ -70,25 +70,25 @@ wisdom: '+6'
 # Horagnamon
 
 This creature did not include a description.
-**Recall Knowledge - Animal ([[Nature]])**: DC 34
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 34
 **Unspecific Lore**: DC 32
 **Specific Lore**: DC 29
 
 # Horagnamon<span class="item-type">Creature 8</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Tiny</span><span class="item-trait">Animal</span><span class="item-trait">Minion</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 Male raven familiar
-**Perception** +18; [[Low-Light Vision]]
-**Languages** [[Cyclops]], [[Daemonic]], [[Jotun]], [[Necril]]
-**Skills** [[Acrobatics]] +18, [[Stealth]] +18, [[Thievery]] +18
+**Perception** +18; [[DATABASE/monsterability/Low-Light Vision|low-light vision]]
+**Languages** [[DATABASE/language/Cyclops|Cyclops]], [[DATABASE/language/Daemonic|Daemonic]], [[DATABASE/language/Jotun|Jotun]], [[DATABASE/language/Necril|Necril]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +18, [[DATABASE/skill/Stealth|Stealth]] +18, [[DATABASE/skill/Thievery|Thievery]] +18
 **Str** -3, **Dex** +6, **Con** +3, **Int** +0, **Wis** +6, **Cha** +0
-**Cunning** Horagnamon can use simple items as tools, such as poking a stick at an opening to tease out a piece of food. He's also quite adept at stealing objects. He can't use Thievery to [[Palm an Object]], [[Disable a Device]], or [[Pick a Lock]], but he can use Thievery to [[Steal]] light objects that he can carry in his beak or talons or to accomplish other relatively simple tasks.
+**Cunning** Horagnamon can use simple items as tools, such as poking a stick at an opening to tease out a piece of food. He's also quite adept at stealing objects. He can't use Thievery to [[DATABASE/action/Palm an Object|Palm an Object]], [[DATABASE/action/Disable a Device|Disable a Device]], or [[DATABASE/action/Pick a Lock|Pick a Lock]], but he can use Thievery to [[DATABASE/action/Steal|Steal]] light objects that he can carry in his beak or talons or to accomplish other relatively simple tasks.
 
 ---
 **AC** 28; **Fort** +13, **Ref** +20, **Will** +16
 **HP** 100
-<span class="in-box-ability">**Death Throes <span class="action-icon">5</span> ** ([[Death Domain]], necromancy, occult **Trigger** Horagnamon takes any damage or suffers a condition while Vordakai is using Familiar Farsight) **Effect** Horagnamon dies, then bursts into a 30-foot-diameter burst of feathers and seething black tendrils of smoke and energy. All creatures in this area must attempt a DC 23 Fortitude save.</span><span class="in-box-ability"> **Critical Success** The creature takes no damage.</span><span class="in-box-ability"> **Success** The creature takes 3d10 negative damage.</span><span class="in-box-ability"> **Failure** The creature takes 6d10 negative damage and becomes drained 1.</span><span class="in-box-ability"> **Critical Failure** The creature takes 12d10 negative damage and becomes drained 2.</span>
+<span class="in-box-ability">**Death Throes <span class="action-icon">5</span> ** ([[DATABASE/domain/Death Domain|death]], necromancy, occult **Trigger** Horagnamon takes any damage or suffers a condition while Vordakai is using Familiar Farsight) **Effect** Horagnamon dies, then bursts into a 30-foot-diameter burst of feathers and seething black tendrils of smoke and energy. All creatures in this area must attempt a DC 23 Fortitude save.</span><span class="in-box-ability"> **Critical Success** The creature takes no damage.</span><span class="in-box-ability"> **Success** The creature takes 3d10 negative damage.</span><span class="in-box-ability"> **Failure** The creature takes 6d10 negative damage and becomes drained 1.</span><span class="in-box-ability"> **Critical Failure** The creature takes 12d10 negative damage and becomes drained 2.</span>
 
 ---
 **Speed** 10 feet, fly 40 feet

@@ -22,6 +22,7 @@ follower_alignment:
 id: '80'
 name: Shax
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Intimidation|Intimidation]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -31,7 +32,7 @@ type: Deity
 ---
 # Shax (The Bloody Marquis) [CE]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 Shax, the Blood Marquis, is the demon lord of envy, lies, and sadistic murders. Shax’s capacity for cruelty is legendary even among the ranks of demon lords, and he takes extreme pleasure in watching the last light of hope fade from the eyes of his victims. He is the original creator of the babau demons, and those whom he personally flays and corrupts with Abyssal influence remain exemplars of their kind. Shax appears as a human man with a dove’s head, feet, and wings, carrying countless knives and other weapons all over his body. Shax is most frequently worshipped by sadists, lone murderers, and serial killers.
 **Category** Demon Lords
 **Edicts** Plot and commit murders, tell lies, torture creatures
@@ -41,9 +42,9 @@ Shax, the Blood Marquis, is the demon lord of envy, lies, and sadistic murders. 
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Dexterity or Charisma
-**Divine Font** _[[Harm]]_
-**Divine Skill** [[Intimidation]]
-**Favored Weapon** [[Dagger]]
-**Domains** [[Ambition Domain]], [[Death Domain]], [[Pain Domain]], [[Trickery Domain]]
-**Cleric Spells** 1st: _[[Phantom Pain]]_, 2nd: _[[Invisibility]]_, 3rd: _[[Haste]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Dexterity or Charisma
+**Divine Font** _[[DATABASE/spell/Harm|harm]]_
+**Divine Skill** [[DATABASE/skill/Intimidation|Intimidation]]
+**Favored Weapon** [[DATABASE/weapon/Dagger|dagger]]
+**Domains** [[DATABASE/domain/Ambition Domain|ambition]], [[DATABASE/domain/Death Domain|death]], [[DATABASE/domain/Pain Domain|pain]], [[DATABASE/domain/Trickery Domain|trickery]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Phantom Pain|phantom pain]]_, 2nd: _[[DATABASE/spell/Invisibility|invisibility]]_, 3rd: _[[DATABASE/spell/Haste|haste]]_

@@ -73,19 +73,19 @@ wisdom: '+2'
 # Caligni Stalker
 
 Caligni stalkers are often leaders of caligni enclaves.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 19
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 19
 **Unspecific Lore**: DC 17
 **Specific Lore**: DC 14
 
 # Caligni Stalker<span class="item-type">Creature 4</span>
 
 <span class="trait-alignment item-trait">CN</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Caligni</span><span class="item-trait">Humanoid</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +10; greater darkvision, light blindness
-**Languages** [[Caligni]], [[Undercommon]]
-**Skills** [[Acrobatics]] +13, [[Athletics]] +8, [[Stealth]] +13, [[Thievery]] +11
+**Languages** [[DATABASE/language/Caligni|Caligni]], [[DATABASE/language/Undercommon|Undercommon]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +13, [[DATABASE/skill/Athletics|Athletics]] +8, [[DATABASE/skill/Stealth|Stealth]] +13, [[DATABASE/skill/Thievery|Thievery]] +11
 **Str** +2, **Dex** +5, **Con** +2, **Int** -1, **Wis** +2, **Cha** +1
-**Items** [[Black Smear Poison]], [[Leather Armor]], [[Shortsword]]
+**Items** [[DATABASE/equipment/Black Smear Poison|black smear poison (6 doses)]], [[DATABASE/armor/Leather Armor|leather armor]], [[DATABASE/weapon/Shortsword|shortsword (2)]]
 
 ---
 **AC** 21; **Fort** +10, **Ref** +13, **Will** +8
@@ -94,5 +94,5 @@ Caligni stalkers are often leaders of caligni enclaves.
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> shortsword +13 [+9/+5] (agile, finesse, versatile S), **Damage** 1d6+7 piercing plus [[Black Smear Poison]]</span>**Occult Innate Spells** DC 19; **2nd** _[[Darkness]]_ (at will), _[[Obscuring Mist]]_ (at will); **Cantrips** **(2nd)** _[[Detect Magic]]_
-<span class="in-box-ability">**Double Slice** <span class="action-icon">2</span> The caligni stalker makes two Strikes against the same target, one with each of their shortswords. The stalker combines the damage of any attacks that hit and applies precision damage, resistances, and weaknesses only once. Both attacks count toward the stalker’s multiple attack penalty, but the penalty increases only after both attacks.</span><span class="in-box-ability">**Encircling Command** <span class="action-icon">1</span> (auditory) Each caligni creeper within 30 feet of the stalker can [[Step]]. Each creeper can benefit from Encircling Command only once per round.</span><span class="in-box-ability">**[[Sneak Attack]]** The Caligni Stalker deals 1d6 extra precision damage to [[Flat-Footed]] creatures.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> shortsword +13 [+9/+5] (agile, finesse, versatile S), **Damage** 1d6+7 piercing plus [[DATABASE/equipment/Black Smear Poison|black smear poison]]</span>**Occult Innate Spells** DC 19; **2nd** _[[DATABASE/spell/Darkness|darkness]]_ (at will), _[[DATABASE/spell/Obscuring Mist|obscuring mist]]_ (at will); **Cantrips** **(2nd)** _[[DATABASE/spell/Detect Magic|detect magic]]_
+<span class="in-box-ability">**Double Slice** <span class="action-icon">2</span> The caligni stalker makes two Strikes against the same target, one with each of their shortswords. The stalker combines the damage of any attacks that hit and applies precision damage, resistances, and weaknesses only once. Both attacks count toward the stalker’s multiple attack penalty, but the penalty increases only after both attacks.</span><span class="in-box-ability">**Encircling Command** <span class="action-icon">1</span> (auditory) Each caligni creeper within 30 feet of the stalker can [[DATABASE/action/Step|Step]]. Each creeper can benefit from Encircling Command only once per round.</span><span class="in-box-ability">**[[DATABASE/monsterability/Sneak Attack|Sneak Attack]]** The Caligni Stalker deals 1d6 extra precision damage to [[DATABASE/condition/Flat-Footed|flat-footed]] creatures.</span>

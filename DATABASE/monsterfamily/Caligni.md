@@ -3,6 +3,7 @@ creature_family: Caligni
 id: '18'
 name: Caligni
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,17 +11,17 @@ type: Creature Family
 ---
 # Caligni
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Calignis lurk in subterranean cities, creeping to the surface to steal, stalk, or make mischief. Each caligni serves in a specific role and grows into a specific form as determined by supernatural traditions and influences in caligni society. Regardless of their size or role, all calignis are gaunt, with pale flesh and white eyes. Some surface dwellers call the caligni “dark folk,” a term they dislike because it doesn’t reflect either their appearance or character, only their environment.
 Each individual in caligni society serves a specific role. At times, certain roles so rarely find suitable candidates that a community might only see a few individuals fill them in an entire generation.
 
 ### Members
 
-[[Caligni Assassin]] (Creature 8), [[Caligni Caller]] (Creature 6), [[Caligni Creeper]] (Creature 2), [[Caligni Dancer]] (Creature 1), [[Caligni Slayer]] (Creature 3), [[Caligni Stalker]] (Creature 4), [[Caligni Vanguard]] (Creature 5)
+[[DATABASE/monster/Caligni Assassin|Caligni Assassin]] (Creature 8), [[DATABASE/monster/Caligni Caller|Caligni Caller]] (Creature 6), [[DATABASE/monster/Caligni Creeper|Caligni Creeper]] (Creature 2), [[DATABASE/monster/Caligni Dancer|Caligni Dancer]] (Creature 1), [[DATABASE/monster/Caligni Slayer|Caligni Slayer]] (Creature 3), [[DATABASE/monster/Caligni Stalker|Caligni Stalker]] (Creature 4), [[DATABASE/monster/Caligni Vanguard|Caligni Vanguard]] (Creature 5)
 
 ###  Caligni Faiths
 
-Some calignis have abandoned their traditional faith in favor of more active deities; evil individuals favor [[Norgorber]] or [[Zon-Kuthon]], while the less malevolent might follow [[Nocticula]] or [[Pharasma]]. Perhaps unexpectedly, [[Desna]] also has a small caligni following, particularly among those who frequently travel.
+Some calignis have abandoned their traditional faith in favor of more active deities; evil individuals favor [[DATABASE/deity/Norgorber|Norgorber]] or [[DATABASE/deity/Zon-Kuthon|Zon-Kuthon]], while the less malevolent might follow [[DATABASE/deity/Nocticula|Nocticula]] or [[DATABASE/deity/Pharasma|Pharasma]]. Perhaps unexpectedly, [[DATABASE/deity/Desna|Desna]] also has a small caligni following, particularly among those who frequently travel.
 
 ###  Caligni Treasure
 

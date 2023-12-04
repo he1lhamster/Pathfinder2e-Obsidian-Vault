@@ -25,6 +25,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
@@ -41,9 +42,9 @@ type: Spell
 # Cozy Cabin<span class="item-type">Spell 3</span>
 
 <span class="item-trait">Conjuration</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Traditions** arcane, occult
-**Deities** [[Immonhiel]], [[The Offering Plate]], [[Yelayne]]
+**Deities** [[DATABASE/deity/Immonhiel|Immonhiel]], [[DATABASE/deity/The Offering Plate|The Offering Plate]], [[DATABASE/deity/Yelayne|Yelayne]]
 **Cast** 1 minute (material, somatic, verbal)
 **Range** 30 feet
 **Duration** 12 hours

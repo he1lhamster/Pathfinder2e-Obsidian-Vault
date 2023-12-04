@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Accursed Staff<span class="item-type">Item 6+</span>
 
 <span class="item-trait">Magical</span><span class="item-trait">Necromancy</span><span class="item-trait">Staff</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Usage** held in 1 hand; **Bulk** 1
 
 ---
@@ -64,28 +65,28 @@ Iron strips line the body of an _accursed staff_, capping the bottom and folding
 
 ## Accursed Staff<span class="item-type">Item 6</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 250 gp
 **Bulk** 1
 
-* **Cantrip** [[Daze]]
-* **1st** [[Bane]], [[Ill Omen]]
-* **2nd** [[Blood Vendetta]], [[Warrior's Regret]]
+* **Cantrip** [[DATABASE/spell/Daze|daze]]
+* **1st** [[DATABASE/spell/Bane|bane]], [[DATABASE/spell/Ill Omen|ill omen]]
+* **2nd** [[DATABASE/spell/Blood Vendetta|blood vendetta]], [[DATABASE/spell/Warrior's Regret|warrior's regret]]
 
 ## Accursed Staff (Greater)<span class="item-type">Item 10</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 900 gp
 **Bulk** 1
 
-* **3rd** [[Claim Curse]], [[Cup of Dust]]
-* **4th** [[Outcast's Curse]], [[Remove Curse]], _warrior's regret_
+* **3rd** [[DATABASE/spell/Claim Curse|claim curse]], [[DATABASE/spell/Cup of Dust|cup of dust]]
+* **4th** [[DATABASE/spell/Outcast's Curse|outcast's curse]], [[DATABASE/spell/Remove Curse|remove curse]], _warrior's regret_
 
 ## Accursed Staff (Major)<span class="item-type">Item 14</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 4,000 gp
 **Bulk** 1
 
-* **5th** [[Inevitable Disaster]], [[Mariner's Curse]]
-* **6th** [[Blinding Fury]], [[Feeblemind]], _remove curse_
+* **5th** [[DATABASE/spell/Inevitable Disaster|inevitable disaster]], [[DATABASE/spell/Mariner's Curse|mariner's curse]]
+* **6th** [[DATABASE/spell/Blinding Fury|blinding fury]], [[DATABASE/spell/Feeblemind|feeblemind]], _remove curse_

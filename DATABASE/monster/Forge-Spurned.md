@@ -85,29 +85,29 @@ wisdom: '+2'
 ---
 # Forge-Spurned
 
-Evil [[Dwarf]] who die having failed to live up to the exacting standards of the [[Duergar]] god [[Droskar]] are sometimes forced to return to the material world as undead abominations known as forge-spurned. Forge-spurned look like dwarves with pupilless eyes and leathery flesh, and with their hair and beard made of smoke and fire—newly formed forge-spurned can almost be mistaken for living creatures as a result. The longer forge-spurned exist, the more skeletal and fiery their visage becomes; those who have existed for centuries or more often look as if they have skulls for faces and fire for hair.
-**Recall Knowledge - Undead ([[Religion]])**: DC 22
+Evil [[DATABASE/ancestry/Dwarf|dwarves]] who die having failed to live up to the exacting standards of the [[DATABASE/monsterfamily/Duergar|duergar]] god [[DATABASE/deity/Droskar|Droskar]] are sometimes forced to return to the material world as undead abominations known as forge-spurned. Forge-spurned look like dwarves with pupilless eyes and leathery flesh, and with their hair and beard made of smoke and fire—newly formed forge-spurned can almost be mistaken for living creatures as a result. The longer forge-spurned exist, the more skeletal and fiery their visage becomes; those who have existed for centuries or more often look as if they have skulls for faces and fire for hair.
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 22
 **Unspecific Lore**: DC 20
 **Specific Lore**: DC 17
 
 # Forge-Spurned<span class="item-type">Creature 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Fire</span><span class="item-trait">Undead</span>
-**Source** [[Crown of the Kobold King]], [[Pathfinder 148. Fires of the Haunted City]]
-**Perception** +11; [[Darkvision]]
-**Languages** [[Common]], [[Dwarven]], [[Undercommon]]
-**Skills** [[Athletics]] +14, [[Crafting]] +14, [[Lore]] +12
+**Source** [[DATABASE/source/Crown of the Kobold King|Crown of the Kobold King]], [[DATABASE/source/Pathfinder 148. Fires of the Haunted City|Pathfinder #148: Fires of the Haunted City]]
+**Perception** +11; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Dwarven|Dwarven]], [[DATABASE/language/Undercommon|Undercommon]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +14, [[DATABASE/skill/Crafting|Crafting]] +14, [[DATABASE/skill/Lore|Droskar Lore]] +12
 **Str** +5, **Dex** +2, **Con** +4, **Int** +1, **Wis** +2, **Cha** +0
-**Items** [[Soul Chain]], [[Hammer]]
+**Items** [[DATABASE/equipment/Soul Chain|soul chain]], [[DATABASE/equipment/Hammer|warhammer]]
 
 ---
 **AC** 22; **Fort** +15, **Ref** +9, **Will** +11
-**HP** 75 (eternal damnation, [[Negative Healing]]); **Immunities** death effects, disease, fire, [[Paralyzed]], poison, [[Unconscious]]; **Weaknesses** cold 5
-<span class="in-box-ability">**Eternal Damnation** (divine, necromancy) As long as their _soul chain_ remains intact, a forge-spurned can't be truly destroyed. They rise again fully healed at the next sundown, even if their physical body was destroyed.</span><span class="in-box-ability">**Searing Heat** (fire) A creature who touches a forge-spurned (including by [[Grapple]] them or hitting them with an unarmed attack) takes 2d6 fire damage with a DC 21 basic Reflex save.</span>
+**HP** 75 (eternal damnation, [[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects, disease, fire, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Unconscious|unconscious]]; **Weaknesses** cold 5
+<span class="in-box-ability">**Eternal Damnation** (divine, necromancy) As long as their _soul chain_ remains intact, a forge-spurned can't be truly destroyed. They rise again fully healed at the next sundown, even if their physical body was destroyed.</span><span class="in-box-ability">**Searing Heat** (fire) A creature who touches a forge-spurned (including by [[DATABASE/action/Grapple|Grappling]] them or hitting them with an unarmed attack) takes 2d6 fire damage with a DC 21 basic Reflex save.</span>
 
 ---
 **Speed** 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _soul chain_ +15 [+10/+5] (disarm, trip), **Damage** 2d8+5 slashing plus 1d6 fire</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> warhammer +14 [+9/+4] (shove), **Damage** 1d8+7 bludgeoning</span><span class="in-box-ability">**Forge Breath** <span class="action-icon">2</span> (divine, evocation, fire) The forge-spurned breathes a cloud of stinging soot, ash, and glowing embers. This can affect either a 30-foot cone or a 20-foot burst centered on the forge-spurned and persists for 1d4 rounds. Each creature that moves into or starts their turn in the area takes 6d6 fire damage, with a DC 21 basic Reflex save. A creature who fails its save is also [[Blinded]] for 1 minute. Creatures within the cloud are [[Concealed]], though not from the forge-spurned. The forge-spurned can't use Forge Breath again until they've used Inflate Bellows.</span><span class="in-box-ability">**Inflate Bellows** <span class="action-icon">2</span> **Requirements** The forge-spurned has used Forge Breath; **Effect** The forge-spurned draws a massive breath to refill their emptied lungs, enabling them to use Forge Breath again.</span><span class="in-box-ability">**Soul Chain** (divine, fire, necromancy) If a creature is slain by an attack from the _soul chain_ and the forge-spurned is able to retain the creature's corpse, they can bind the creature's soul into a _soul chain_ (as [[Bind Soul]]) with a day of work at a forge and a successful DC 20 [[Crafting]] check. An individual whose soul is bound in this way can't be resurrected unless the _soul chain_ is destroyed (Hardness 5, HP 20, BT 10).</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _soul chain_ +15 [+10/+5] (disarm, trip), **Damage** 2d8+5 slashing plus 1d6 fire</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> warhammer +14 [+9/+4] (shove), **Damage** 1d8+7 bludgeoning</span><span class="in-box-ability">**Forge Breath** <span class="action-icon">2</span> (divine, evocation, fire) The forge-spurned breathes a cloud of stinging soot, ash, and glowing embers. This can affect either a 30-foot cone or a 20-foot burst centered on the forge-spurned and persists for 1d4 rounds. Each creature that moves into or starts their turn in the area takes 6d6 fire damage, with a DC 21 basic Reflex save. A creature who fails its save is also [[DATABASE/condition/Blinded|blinded]] for 1 minute. Creatures within the cloud are [[DATABASE/condition/Concealed|concealed]], though not from the forge-spurned. The forge-spurned can't use Forge Breath again until they've used Inflate Bellows.</span><span class="in-box-ability">**Inflate Bellows** <span class="action-icon">2</span> **Requirements** The forge-spurned has used Forge Breath; **Effect** The forge-spurned draws a massive breath to refill their emptied lungs, enabling them to use Forge Breath again.</span><span class="in-box-ability">**Soul Chain** (divine, fire, necromancy) If a creature is slain by an attack from the _soul chain_ and the forge-spurned is able to retain the creature's corpse, they can bind the creature's soul into a _soul chain_ (as [[DATABASE/spell/Bind Soul|bind soul]]) with a day of work at a forge and a successful DC 20 [[DATABASE/skill/Crafting|Crafting]] check. An individual whose soul is bound in this way can't be resurrected unless the _soul chain_ is destroyed (Hardness 5, HP 20, BT 10).</span>
 
 ###  Haunted Forges
 
@@ -115,4 +115,4 @@ Forge-spurned are often encountered near abandoned forges, and the presence of t
 
 ###  Soul Chains
 
-A forge-spurned wields a soul chain: a cursed _+1 [[Striking]] [[Flaming]] [[Spiked Chain]]_. Any other creature that has a _soul chain_ must succeed at a DC 22 Will save each day at sundown or transform into a forge-spurned permanently. A forge-spurned stops at nothing to retrieve its _soul chain_ if it’s lost.
+A forge-spurned wields a soul chain: a cursed _+1 [[DATABASE/equipment/Striking|striking]] [[DATABASE/equipment/Flaming|flaming]] [[DATABASE/weapon/Spiked Chain|spiked chain]]_. Any other creature that has a _soul chain_ must succeed at a DC 22 Will save each day at sundown or transform into a forge-spurned permanently. A forge-spurned stops at nothing to retrieve its _soul chain_ if it’s lost.

@@ -11,6 +11,7 @@ name: Angelkin
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,20 +25,20 @@ type: Feat
 # Angelkin <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Aasimar</span><span class="item-trait">Lineage</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
-You descend from an [[Angel]]—a winged messenger from [[Nirvana]] or one of the other celestial realms—which gives you a knack for cultures and languages. You gain the trained proficiency rank in [[Society]]. If you would automatically become trained in Society (from your background or class, for example), you instead become trained in a skill of your choice. You know the [[Celestial]] language, and you gain the [[Multilingual]] skill feat.
+You descend from an [[DATABASE/monsterfamily/Angel|angel]]—a winged messenger from [[DATABASE/plane/Nirvana|Nirvana]] or one of the other celestial realms—which gives you a knack for cultures and languages. You gain the trained proficiency rank in [[DATABASE/skill/Society|Society]]. If you would automatically become trained in Society (from your background or class, for example), you instead become trained in a skill of your choice. You know the [[DATABASE/language/Celestial|Celestial]] language, and you gain the [[DATABASE/feat/Multilingual|Multilingual]] skill feat.
 
 ## Angelkin Leads To...
 
-[[Angelic Magic]], [[Truespeech]]
+[[DATABASE/feat/Angelic Magic|Angelic Magic]], [[DATABASE/feat/Truespeech|Truespeech]]
 
 ## Traits
 
 **Aasimar:**
 
-A creature with this trait has the aasimar versatile heritage. Aasimars are [[Planar Scion]] descended from celestial beings. An ability with this trait can be used or selected only by aasimars.
+A creature with this trait has the aasimar versatile heritage. Aasimars are [[DATABASE/monsterfamily/Planar Scion|planar scions]] descended from celestial beings. An ability with this trait can be used or selected only by aasimars.
 
 **Lineage:**
 

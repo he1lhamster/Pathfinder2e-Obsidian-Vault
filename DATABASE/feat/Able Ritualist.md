@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Eldritch Researcher Dedication|Eldritch Researche
   Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 164. Hands of the Devil|Pathfinder #164: Hands
   of the Devil]]'
@@ -25,9 +26,9 @@ type: Feat
 # Able Ritualist <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Pathfinder 164. Hands of the Devil]]
-**Archetype** [[Eldritch Researcher]]
-**Prerequisites** [[Eldritch Researcher Dedication]]
+**Source** [[DATABASE/source/Pathfinder 164. Hands of the Devil|Pathfinder #164: Hands of the Devil]]
+**Archetype** [[DATABASE/archetype/Eldritch Researcher|Eldritch Researcher]]
+**Prerequisites** [[DATABASE/feat/Eldritch Researcher Dedication|Eldritch Researcher Dedication]]
 
 ---
 Your readings on rituals make you a skilled participant. You gain a +2 circumstance bonus to primary and secondary checks you attempt as part of casting a ritual.

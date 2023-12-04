@@ -11,6 +11,7 @@ name: Four Winds
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -26,10 +27,10 @@ type: Feat
 # Four Winds <span class="action-icon">2</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Air</span><span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Primal</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
-Mimicking the [[Anemos]]—monarchs of the four winds—you propel four creatures. Target up to four willing creatures within 30 feet of you. Each of those creatures can Stride up to half its Speed. If it has a fly Speed, it can instead Fly up to half its fly Speed.
+Mimicking the [[DATABASE/monster/Anemos|anemoi]]—monarchs of the four winds—you propel four creatures. Target up to four willing creatures within 30 feet of you. Each of those creatures can Stride up to half its Speed. If it has a fly Speed, it can instead Fly up to half its fly Speed.
 
 ---
 **Level (10th)** The targets move up to full Speed instead of half.

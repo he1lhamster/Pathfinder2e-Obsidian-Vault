@@ -7,6 +7,7 @@ id: '2132'
 name: Flamethrower
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 trait: null
@@ -16,7 +17,7 @@ type: Action
 ---
 # Flamethrower <span class="action-icon">2</span>
 
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Frequency** once per 10 minutes
 
 ---

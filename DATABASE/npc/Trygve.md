@@ -65,20 +65,20 @@ wisdom: '+2'
 # Trygve
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 26
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 26
 **Unspecific Lore**: DC 24
 **Specific Lore**: DC 21
 
 # Trygve<span class="item-type">Creature 2</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CN</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Rusthenge]]
-[[Human]] smith
+**Source** [[DATABASE/source/Rusthenge|Rusthenge]]
+[[DATABASE/ancestry/Human|Human]] smith
 **Perception** +6
-**Languages** [[Common]], [[Dwarven]], [[Skald]]
-**Skills** [[Athletics]] +8, [[Crafting]] +9, [[Lore]] +9, [[Society]] +7
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Dwarven|Dwarven]], [[DATABASE/language/Skald|Skald]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +8, [[DATABASE/skill/Crafting|Crafting]] +9, [[DATABASE/skill/Lore|Smithing Lore]] +9, [[DATABASE/skill/Society|Society]] +7
 **Str** +4, **Dex** +0, **Con** +1, **Int** +3, **Wis** +2, **Cha** +0
-**Items** [[Breastplate]], [[Hammer]], [[Storage]]
+**Items** [[DATABASE/armor/Breastplate|breastplate]], [[DATABASE/equipment/Hammer|light hammer]], [[DATABASE/equipment/Storage|secure storage key]]
 
 ---
 **AC** 18; **Fort** +7, **Ref** +4, **Will** +6

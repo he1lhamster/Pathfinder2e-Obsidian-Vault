@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: Gargantuan
@@ -50,10 +51,10 @@ weapon_type: null
 ---
 # Basic Crafter's Book<span class="item-type">Item 0</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 1 sp
 **Hands** 2; **Bulk** L
 
 ---
-This book contains formulas for [[Craft]] the 0-level common items from Chapter 6 of the _Core Rulebook_.
+This book contains formulas for [[DATABASE/action/Craft|Crafting]] the 0-level common items from Chapter 6 of the _Core Rulebook_.
 _Nethys note: a list of all such equipment can be found here._

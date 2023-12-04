@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -55,37 +56,37 @@ weapon_type: null
 # Staff-Storing Shield<span class="item-type">Item 7+</span>
 
 <span class="item-trait">Extradimensional</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span><span class="item-trait">Transmutation</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Usage** held in 1 hand; **Bulk** 1
-**Base Shield** [[Wooden Shield]]
+**Base Shield** [[DATABASE/shield/Wooden Shield|Wooden Shield]]
 
 ---
-This magically reinforced [[Wooden Shield]] (Hardness 6, HP 36, BT 18) normally has a blank face. It can absorb a staff and transform between a shield and staff. When you prepare a staff, you can hold it up to the shield, at which point the items will merge, and the shield's face becomes an image corresponding to the type of magic, such as a skull for a [[Staff of Necromancy]].
+This magically reinforced [[DATABASE/shield/Wooden Shield|wooden shield]] (Hardness 6, HP 36, BT 18) normally has a blank face. It can absorb a staff and transform between a shield and staff. When you prepare a staff, you can hold it up to the shield, at which point the items will merge, and the shield's face becomes an image corresponding to the type of magic, such as a skull for a [[DATABASE/equipment/Staff of Necromancy|staff of necromancy]].
 **Activate** <span class="action-icon">1</span> Interact ; **Effect** You change the _staff-storing shield_ from its shield form into the stored staff, which has an image of the shield on it, or change it from the stored staff back into a shield.
 
 ## Staff-Storing Shield<span class="item-type">Item 7</span>
 
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Price** 350 gp
 **Bulk** 1
 
 ## Staff-Storing Shield (Greater)<span class="item-type">Item 11</span>
 
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Price** 1,300 gp
 **Bulk** 1
 The shield has Hardness 9, HP 54, and BT 27.
 
 ## Staff-Storing Shield (Major)<span class="item-type">Item 15</span>
 
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Price** 5,500 gp
 **Bulk** 1
 The shield has Hardness 12, HP 72, and BT 36.
 
 ## Staff-Storing Shield (True)<span class="item-type">Item 20</span>
 
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Price** 55,000 gp
 **Bulk** 1
 The shield has Hardness 16, HP 96, and BT 48.

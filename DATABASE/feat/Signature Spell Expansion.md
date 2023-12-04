@@ -11,6 +11,7 @@ name: Signature Spell Expansion
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Signature Spell Expansion <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Psychic</span><span class="item-trait">Sorcerer</span>
-**Source** [[Dark Archive]], [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]], [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
 Your innate connection to magic lets you cast more spells with greater freedom. You gain two additional signature spells, each of which must have a minimum level of 3rd or lower.

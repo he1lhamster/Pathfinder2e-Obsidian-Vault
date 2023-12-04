@@ -11,6 +11,7 @@ name: Whispering Steps
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Enchantment
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -27,7 +28,7 @@ type: Feat
 # Whispering Steps <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Amp</span><span class="item-trait">Enchantment</span><span class="item-trait">Mental</span><span class="item-trait">Occult</span><span class="item-trait">Psychic</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 
 ---
 Your spell leaves a lingering connection between you and a creature—one through which you can nudge the creature's mind this way or that. The amped cantrip must take 2 or more actions to cast, target one or more creatures, and either require a spell attack roll or have a saving throw. Use this amp in place of the psi cantrip's normal amp entry.

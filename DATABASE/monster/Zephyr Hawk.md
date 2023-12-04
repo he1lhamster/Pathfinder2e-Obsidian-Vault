@@ -67,16 +67,16 @@ wisdom: '+0'
 # Zephyr Hawk
 
 Zephyr hawks drift among the currents of the Plane of Air in great flocks.
-**Recall Knowledge - Elemental ([[Arcana]], [[Nature]])**: DC 18
+**Recall Knowledge - Elemental ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Zephyr Hawk<span class="item-type">Creature 3</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Small</span><span class="item-trait">Air</span><span class="item-trait">Elemental</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +7; darkvision
-**Skills** [[Acrobatics]] +13, [[Stealth]] +11
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +13, [[DATABASE/skill/Stealth|Stealth]] +11
 **Str** +2, **Dex** +4, **Con** +1, **Int** -4, **Wis** +0, **Cha** +0
 
 ---

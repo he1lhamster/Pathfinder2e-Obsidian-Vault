@@ -3,6 +3,7 @@ creature_family: Biloko
 id: '108'
 name: Biloko
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 trait: null
 type: Creature Family
@@ -10,7 +11,7 @@ type: Creature Family
 ---
 # Biloko
 
-**Source** [[The Mwangi Expanse]] 
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]] 
 Bilokos are crocodile-snouted fey who stalk the Mwangi Jungle and feast upon the flesh of humanoids. As cunning as they are vicious, bilokos employ deadly traps and guerrilla hunting tactics to capture prey—typically hapless explorers or, occasionally, wayward villagers, many of whom believe bilokos to be cruel ancestral spirits. The most powerful of these creatures, known as elokos, wield potent transformative magic.
  Bilokos have a fondness for bells, and the sound of ringing bells often indicates their presence. In addition to carrying and ringing them while out hunting, bilokos sometimes enchant bells with potent magic, or hang them on strings to serve as alarms for their encampments.
  Bilokos look like slender but wiry humanoids with crocodile-like heads, rust-colored skin, and blood-red eyes. They eat only the meat of humanoids, though they can survive for extended periods of time on a single meal thanks to their snakelike ability to consume a Medium humanoid creature whole. They do this by unhinging their jaws and slowly swallowing the victim from head to foot. Thanks to their acidic saliva and sharp teeth, a biloko can masticate their food into an easy-to-digest pulp, grinding flesh and bone into a compact mush, even while swallowing; thus, they do not flinch while devouring meals two or three times their own size.
@@ -18,11 +19,11 @@ Bilokos are crocodile-snouted fey who stalk the Mwangi Jungle and feast upon the
 
 ### Members
 
-[[Biloko Veteran]] (Creature 4), [[Biloko Warrior]] (Creature 1), [[Eloko]] (Creature 7)
+[[DATABASE/monster/Biloko Veteran|Biloko Veteran]] (Creature 4), [[DATABASE/monster/Biloko Warrior|Biloko Warrior]] (Creature 1), [[DATABASE/monster/Eloko|Eloko]] (Creature 7)
 
 ###  Charming Predators
 
-Bilokos' connection to the [[First World]] grants them a limited ability to supernaturally charm their enemies. Bilokos use this power to lure stragglers away from their adventuring parties or confuse their opponents when a raid goes horribly awry. Large hunting parties of bilokos might charm entire groups of travelers, in which case these bilokos might bring their enchanted quarry back to their community to feast on (though they are more likely to simply enjoy the spoils of their efforts alone).
+Bilokos' connection to the [[DATABASE/plane/First World|First World]] grants them a limited ability to supernaturally charm their enemies. Bilokos use this power to lure stragglers away from their adventuring parties or confuse their opponents when a raid goes horribly awry. Large hunting parties of bilokos might charm entire groups of travelers, in which case these bilokos might bring their enchanted quarry back to their community to feast on (though they are more likely to simply enjoy the spoils of their efforts alone).
 
 ###  Elokolobha
 

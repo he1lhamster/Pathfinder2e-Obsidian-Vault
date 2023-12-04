@@ -17,6 +17,7 @@ name: Malevolent Mannequins
 rarity: Uncommon
 reflex: '+28'
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
@@ -34,13 +35,13 @@ will: null
 # Malevolent Mannequins<span class="item-type">Hazard 14</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Clockwork</span><span class="item-trait">Complex</span><span class="item-trait">Haunt</span><span class="item-trait">Mechanical</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Complexity** Complex
 **Stealth** +27
 **Description** A host of violent spirits possess three clockwork mannequins, and each lashes out at any creatures that dare walk near.
 
 ---
-**Disable** DC 37 [[Thievery]] (master) to jam a mannequin's clockwork mechanisms or [[Religion]] DC 35 (expert) twice to exorcise a spirit from a mannequin.
+**Disable** DC 37 [[DATABASE/skill/Thievery|Thievery]] (master) to jam a mannequin's clockwork mechanisms or [[DATABASE/skill/Religion|Religion]] DC 35 (expert) twice to exorcise a spirit from a mannequin.
 **AC** 35, **Fort** +26, **Ref** +28
 **Hardness** 10, **HP (per mannequin)** 70 (BT 35); **Immunities** critical hits, object immunities, precision damage, **Weaknesses** electricity 20
 **Awaken** <span class="action-icon">5</span> **Trigger** A creature comes within 30 feet of a mannequin; **Effect** The mannequins all lurch towards the triggering creature, Striding up to 50 feet, then roll initiative.

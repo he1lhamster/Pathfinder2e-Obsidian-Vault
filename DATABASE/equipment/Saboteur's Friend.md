@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: DC 20 Fortitude
 school: null
 size: null
@@ -56,11 +57,11 @@ weapon_type: null
 # Saboteur's Friend<span class="item-type">Item 4</span>
 
 <span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Ingested</span><span class="item-trait">Poison</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 14 gp
 **Usage** held in 1 hand; **Bulk** —
 **Activate** <span class="action-icon">1</span> Interact
 
 ---
 The euphemistically named saboteur's friend looks, smells, and tastes like an appetizing chocolate square. You lace the chocolate with reagents that induce a strong laxative effect. Saboteur's friend is useful for incapacitating rather than dealing lasting harm. Unlike some poisons, saboteur's friend can have its sickened condition reduced (but changing to a higher or lower stage after a save applies any sickened condition listed for that stage, as normal).
- **Saving Throw** DC 20 Fortitude; **Onset** 10 minutes; **Maximum Duration** 1 hour; **Stage 1** [[Sickened]] (10 minutes); **Stage 2** [[Enfeebled]] and sickened 2 (10 minutes); **Stage 3** enfeebled 1, [[Fatigued]], and sickened 3 (10 minutes)
+ **Saving Throw** DC 20 Fortitude; **Onset** 10 minutes; **Maximum Duration** 1 hour; **Stage 1** [[DATABASE/condition/Sickened|sickened 1]] (10 minutes); **Stage 2** [[DATABASE/condition/Enfeebled|enfeebled 1]] and sickened 2 (10 minutes); **Stage 3** enfeebled 1, [[DATABASE/condition/Fatigued|fatigued]], and sickened 3 (10 minutes)

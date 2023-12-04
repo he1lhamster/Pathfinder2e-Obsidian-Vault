@@ -22,6 +22,7 @@ patron_theme: null
 range: touch
 rarity: Rare
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Legends|Legends]]'
@@ -40,7 +41,7 @@ type: Spell
 # Halcyon Infusion<span class="item-type">Spell 6</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Divination</span><span class="item-trait">Mental</span>
-**Source** [[Legends]]
+**Source** [[DATABASE/source/Legends|Legends]]
 **Traditions** arcane, primal
 **Cast** 10 minutes (material, somatic, verbal)
 **Range** touch; **Targets** one willing creature of lower level than you

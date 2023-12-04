@@ -87,19 +87,19 @@ wisdom: '+1'
 # Kobold Dragon Mage
 
 Kobold dragon mages use magic to carry out their secret schemes. The presence of a dragon mage in a kobold warren is one of the greatest testaments to the kobolds’ claim to draconic heritage.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 16
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
 # Kobold Dragon Mage<span class="item-type">Creature 2</span>
 
 <span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Small</span><span class="item-trait">Humanoid</span><span class="item-trait">Kobold</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +5; darkvision
-**Languages** [[Common]], [[Draconic]]
-**Skills** [[Arcana]] +6, [[Deception]] +8, [[Diplomacy]] +8, [[Lore]] +10, [[Intimidation]] +8, [[Stealth]] +7
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Draconic|Draconic]]
+**Skills** [[DATABASE/skill/Arcana|Arcana]] +6, [[DATABASE/skill/Deception|Deception]] +8, [[DATABASE/skill/Diplomacy|Diplomacy]] +8, [[DATABASE/skill/Lore|Dragon Lore]] +10, [[DATABASE/skill/Intimidation|Intimidation]] +8, [[DATABASE/skill/Stealth|Stealth]] +7
 **Str** -1, **Dex** +3, **Con** +0, **Int** +2, **Wis** +1, **Cha** +4
-**Items** [[Staff]]
+**Items** [[DATABASE/weapon/Staff|staff]]
 
 ---
 **AC** 17; **Fort** +4, **Ref** +7, **Will** +7
@@ -108,5 +108,5 @@ Kobold dragon mages use magic to carry out their secret schemes. The presence of
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +7 [+3/-1] (agile, finesse), **Damage** 1d6-1 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> staff +3 [-2/-7] (two-hand d8), **Damage** 1d4-1 bludgeoning</span>**Arcane Spontaneous Spells** DC 20; **1st** _[[Fear]]_, _[[Illusory Object]]_, _[[Magic Missile]]_ (4 slots); **Cantrips** **(1st)** _[[Detect Magic]]_, _[[Electric Arc]]_, _[[Ghost Sound]]_, _[[Mage Hand]]_, _[[Tanglefoot]]_
-<span class="in-box-ability">**Illusory Retreat** <span class="action-icon">3</span> (arcane, illusion, manipulate, move) **Frequency** once per hour; **Requirements** The kobold dragon mage is adjacent to at least one enemy. **Effect** The dragon mage creates an illusion of itself in its square and then becomes invisible (with the effects of a 2nd-level [[Invisibility]] spell) for 1d4 rounds. The dragon mage can move up to half its Speed, but it must end its movement in a space that's not adjacent to any enemeies. This is a 1st-level spell that requires a somatic component.</span><span class="in-box-ability">**[[Sneak Attack]]** The dragon mage deals an extra 1d6 precision damage to flat-footed creatures.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +7 [+3/-1] (agile, finesse), **Damage** 1d6-1 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> staff +3 [-2/-7] (two-hand d8), **Damage** 1d4-1 bludgeoning</span>**Arcane Spontaneous Spells** DC 20; **1st** _[[DATABASE/spell/Fear|fear]]_, _[[DATABASE/spell/Illusory Object|illusory object]]_, _[[DATABASE/spell/Magic Missile|magic missile]]_ (4 slots); **Cantrips** **(1st)** _[[DATABASE/spell/Detect Magic|detect magic]]_, _[[DATABASE/spell/Electric Arc|electric arc]]_, _[[DATABASE/spell/Ghost Sound|ghost sound]]_, _[[DATABASE/spell/Mage Hand|mage hand]]_, _[[DATABASE/spell/Tanglefoot|tanglefoot]]_
+<span class="in-box-ability">**Illusory Retreat** <span class="action-icon">3</span> (arcane, illusion, manipulate, move) **Frequency** once per hour; **Requirements** The kobold dragon mage is adjacent to at least one enemy. **Effect** The dragon mage creates an illusion of itself in its square and then becomes invisible (with the effects of a 2nd-level [[DATABASE/spell/Invisibility|invisibility]] spell) for 1d4 rounds. The dragon mage can move up to half its Speed, but it must end its movement in a space that's not adjacent to any enemeies. This is a 1st-level spell that requires a somatic component.</span><span class="in-box-ability">**[[DATABASE/monsterability/Sneak Attack|Sneak Attack]]** The dragon mage deals an extra 1d6 precision damage to flat-footed creatures.</span>

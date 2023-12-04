@@ -3,6 +3,7 @@ creature_family: Ape
 id: '6'
 name: Ape
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,9 +11,9 @@ type: Creature Family
 ---
 # Ape
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 While many apes exhibit peaceful or reclusive behavior, gorillas can be territorial, and the megaprimatus is especially aggressive and dangerous.
 
 ### Members
 
-[[Gorilla]] (Creature 3), [[Megaprimatus]] (Creature 8)
+[[DATABASE/monster/Gorilla|Gorilla]] (Creature 3), [[DATABASE/monster/Megaprimatus|Megaprimatus]] (Creature 8)

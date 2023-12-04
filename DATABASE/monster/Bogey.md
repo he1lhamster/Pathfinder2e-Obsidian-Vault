@@ -76,17 +76,17 @@ wisdom: '+1'
 # Bogey
 
 A bogey typically hunts a single creature at a time, usually a small child or elderly person, methodically stalking and tormenting their prey. Often hiding under a bed, amid a dark attic space, or in a closet left slightly ajar, the bogey delights in the slow, methodical cultivation of fear in its victims.
-**Recall Knowledge - Fey ([[Nature]])**: DC 20
+**Recall Knowledge - Fey ([[DATABASE/skill/Nature|Nature]])**: DC 20
 **Unspecific Lore**: DC 18
 **Specific Lore**: DC 15
 
 # Bogey<span class="item-type">Creature 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Small</span><span class="item-trait">Fey</span>
-**Source** [[Pathfinder 152. Legacy of the Lost God]]
+**Source** [[DATABASE/source/Pathfinder 152. Legacy of the Lost God|Pathfinder #152: Legacy of the Lost God]]
 **Perception** +9; low-light vision
-**Languages** [[Aklo]], [[Sylvan]]
-**Skills** [[Acrobatics]] +10, [[Deception]] +10, [[Intimidation]] +8, [[Stealth]] +10
+**Languages** [[DATABASE/language/Aklo|Aklo]], [[DATABASE/language/Sylvan|Sylvan]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +10, [[DATABASE/skill/Deception|Deception]] +10, [[DATABASE/skill/Intimidation|Intimidation]] +8, [[DATABASE/skill/Stealth|Stealth]] +10
 **Str** +2, **Dex** +3, **Con** +2, **Int** -2, **Wis** +1, **Cha** +3
 
 ---
@@ -95,5 +95,5 @@ A bogey typically hunts a single creature at a time, usually a small child or el
 
 ---
 **Speed** 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +10 [+6/+2] (agile, finesse, magical), **Damage** 1d8+3 slashing</span>**Occult Innate Spells** DC 18; **1st** _[[Fear]]_ (x2); **Cantrips** **(1st)** _[[Ghost Sound]]_, _[[Message]]_
-<span class="in-box-ability">**Devour Soul** <span class="action-icon">3</span> (necromancy, occult) **Requirements** The bogey has killed a creature within the last round and is adjacent to the creature; **Effect** The bogey consumes the creature’s soul. The soul is utterly destroyed—nothing short of wish or a similar effect can restore it to life, and only after the bogey has been slain. The bogey regains Hit Points equal to double the level of the consumed creature. After devouring three souls within a year, the bogey transforms into a bugaboo.</span><span class="in-box-ability">**Surprise Attack** On the first round of combat, creatures that haven’t acted yet are [[Flat-Footed]] to the bogey.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +10 [+6/+2] (agile, finesse, magical), **Damage** 1d8+3 slashing</span>**Occult Innate Spells** DC 18; **1st** _[[DATABASE/spell/Fear|fear]]_ (x2); **Cantrips** **(1st)** _[[DATABASE/spell/Ghost Sound|ghost sound]]_, _[[DATABASE/spell/Message|message]]_
+<span class="in-box-ability">**Devour Soul** <span class="action-icon">3</span> (necromancy, occult) **Requirements** The bogey has killed a creature within the last round and is adjacent to the creature; **Effect** The bogey consumes the creature’s soul. The soul is utterly destroyed—nothing short of wish or a similar effect can restore it to life, and only after the bogey has been slain. The bogey regains Hit Points equal to double the level of the consumed creature. After devouring three souls within a year, the bogey transforms into a bugaboo.</span><span class="in-box-ability">**Surprise Attack** On the first round of combat, creatures that haven’t acted yet are [[DATABASE/condition/Flat-Footed|flat-footed]] to the bogey.</span>

@@ -12,6 +12,7 @@ prerequisite: animal companion or familiar; Expert in [[DATABASE/skill/Deception
   ; [[DATABASE/feat/Vigilante Dedication|Vigilante Dedication]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -26,9 +27,9 @@ type: Feat
 # Minion Guise <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Skill</span><span class="item-trait">Social</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Vigilante]]
-**Prerequisites** animal companion, or familiar; expert in [[Deception]]; [[Vigilante Dedication]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Vigilante|Vigilante]]
+**Prerequisites** animal companion, or familiar; expert in [[DATABASE/skill/Deception|Deception]]; [[DATABASE/feat/Vigilante Dedication|Vigilante Dedication]]
 
 ---
 When you are in your social identity, you can also grant a social identity to an animal companion, familiar, or other minion you gained from a class feature. When changing to your social identity, you also change your minion's appearance to that of a socially acceptable creature of its type, such as grooming a wolf to appear as a large dog or disguising a familiar to appear as an exotic pet. Commanding your minion to use unusual magical or combat abilities it gained from your class features or feats while in this social identity risks exposing your vigilante identity.
@@ -45,4 +46,4 @@ A general feat with the skill trait improves your skills and their actions or gi
 
 **Social:**
 
-Actions and abilities with the social trait can be used only while a [[Vigilante]] is in their social identity.
+Actions and abilities with the social trait can be used only while a [[DATABASE/archetype/Vigilante|vigilante]] is in their social identity.

@@ -11,6 +11,7 @@ name: Rouse the Forest's Fury
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -28,10 +29,10 @@ type: Feat
 # Rouse the Forest's Fury <span class="action-icon">3</span> <span class="item-type">Feat 18</span>
 
 <span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Overflow</span><span class="item-trait">Plant</span><span class="item-trait">Primal</span><span class="item-trait">Wood</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
-Terrifying trees attack your enemies. Three Large trees appear in unoccupied spaces within 500 feet, at least 15 feet from one another. Each tree has AC 40, Fortitude +33, Reflex +24, Will +30, and 200 HP. The trees can flank, but are unable to move. When the trees appear, each makes a Strike; they share a multiple attack penalty. The tree's melee Strike is a branch that has reach 10 feet; on a hit, the target is [[Grabbed]] by the tree ([[Escape]] DC 40). The ranged Strike is a hurled fruit, gourd, seed, or stone with a range increment of 60 feet. Either Strike has a +30 attack modifier and deals 4d10+9 bludgeoning damage.
+Terrifying trees attack your enemies. Three Large trees appear in unoccupied spaces within 500 feet, at least 15 feet from one another. Each tree has AC 40, Fortitude +33, Reflex +24, Will +30, and 200 HP. The trees can flank, but are unable to move. When the trees appear, each makes a Strike; they share a multiple attack penalty. The tree's melee Strike is a branch that has reach 10 feet; on a hit, the target is [[DATABASE/condition/Grabbed|grabbed]] by the tree ([[DATABASE/action/Escape|Escape]] DC 40). The ranged Strike is a hurled fruit, gourd, seed, or stone with a range increment of 60 feet. Either Strike has a +30 attack modifier and deals 4d10+9 bludgeoning damage.
  The trees last until the end of your next turn, and you can Sustain the impulse. Each time you Sustain the impulse, you can have one tree make a Strike.
 
 ---
@@ -45,7 +46,7 @@ The primary magical actions kineticists use are called impulses. You can use an 
 
 **Overflow:**
 
-Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
+Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[DATABASE/action/Channel Elements|Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
 
 **Plant:**
 

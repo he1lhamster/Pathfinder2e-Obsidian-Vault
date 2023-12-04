@@ -91,16 +91,16 @@ wisdom: '+4'
 Also known as “bubble cats” or “gas cats,” desa-desas are small, vaguely feline predators that hunt the jungles of Castrovel. A typical desa-desa is roughly the size and shape of a bobcat. Its head is reptilian, sporting large eyes and slender fangs that protrude from its lips. Desa-desa fur tends to match their environment—most are dark green and brown—and is punctuated by patterns of small, bubble-like bladders that protrude from the creature's skin like transparent boils. Every desa-desa has a different bladder pattern, and this distinctive anatomical feature is key to the creature's survival.
  Desa-desas' lives revolve around a little-understood (and likely magical) process by which the creatures transform water into its constituent gaseous elements. A desa-desa stores these gasses in the polyp-like bladders, which are lined with an electricity-conducting material that allows the creature to create sudden blasts of flame in all directions.
  As a predator, the desa-desa's most dangerous attack is its bite, which passes along its bubble venom, which can ravage the fluids in the victim's own body. This reaction causes water in the target's cells to split rapidly, creating bubbles of gas that percolate through the creature's flesh to its skin, where it balloons outward in large, agonizing blisters before popping. The combustible gasses in these blisters also make a creature particularly susceptible to fire attacks—such as the desa-desa's defensive blast. A typical desa-desa is 4 feet long counting the tail, and weighs just 30 pounds.
-**Recall Knowledge - Animal ([[Nature]])**: DC 18
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Desa-Desa<span class="item-type">Creature 2</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Small</span><span class="item-trait">Animal</span>
-**Source** [[Pathfinder 187. The Seventh Arch]]
-**Perception** +10; [[Low-Light Vision]]
-**Skills** [[Acrobatics]] +8, [[Athletics]] +7, [[Stealth]] +9, [[Survival]] +8
+**Source** [[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh Arch]]
+**Perception** +10; [[DATABASE/monsterability/Low-Light Vision|low-light vision]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +8, [[DATABASE/skill/Athletics|Athletics]] +7, [[DATABASE/skill/Stealth|Stealth]] +9, [[DATABASE/skill/Survival|Survival]] +8
 **Str** +2, **Dex** +5, **Con** +1, **Int** -4, **Wis** +4, **Cha** +1
 
 ---

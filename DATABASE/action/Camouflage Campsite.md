@@ -7,6 +7,7 @@ id: '1472'
 name: Camouflage Campsite
 rarity: Common
 requirement: trained in [[DATABASE/skill/Stealth|Stealth]]
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 trait:
@@ -20,8 +21,8 @@ type: Action
 # Camouflage Campsite
 
 <span class="item-trait">Camping</span><span class="item-trait">Manipulate</span><span class="item-trait">Secret</span>
-**Source** [[Kingmaker Companion Guide]]
-**Requirements** trained in [[Stealth]]
+**Source** [[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]
+**Requirements** trained in [[DATABASE/skill/Stealth|Stealth]]
 
 ---
 You spend an hour concealing the camp from potential threats by covering tents with branches, ensuring campfire placement minimizes the spread of scent or smoke, reminding others to avoid making too many loud noises, and so on. Attempt a Stealth check against the Zone DC. You can only attempt to Camouflage Campsite once per camping session, regardless of the activity's result.

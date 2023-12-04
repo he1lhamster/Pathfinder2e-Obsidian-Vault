@@ -11,6 +11,7 @@ name: Springsoul
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -24,16 +25,16 @@ type: Feat
 # Springsoul <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Ardande</span><span class="item-trait">Lineage</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
-Your connection to elemental wood manifests as fresh blossoms, spring fruits, and the seeds of new life, and you harness this power to spread vitality and abundance. You can cast the [[Tanglefoot]] cantrip as an innate primal or arcane spell at will. A cantrip is heightened to a spell rank equal to half your level rounded up.
+Your connection to elemental wood manifests as fresh blossoms, spring fruits, and the seeds of new life, and you harness this power to spread vitality and abundance. You can cast the [[DATABASE/spell/Tanglefoot|tangle vine]] cantrip as an innate primal or arcane spell at will. A cantrip is heightened to a spell rank equal to half your level rounded up.
 
 ## Traits
 
 **Ardande:**
 
-Ardandes are [[Planar Scion]] descended from [[Kizidhar]] and other beings of elemental wood.
+Ardandes are [[DATABASE/monsterfamily/Planar Scion|planar scions]] descended from [[DATABASE/monster/Kizidhar|kizidhar]] and other beings of elemental wood.
 
 **Lineage:**
 

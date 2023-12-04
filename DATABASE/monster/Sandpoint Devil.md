@@ -93,18 +93,18 @@ wisdom: '+4'
 
 While some creatures have been fused to create a new entity that's graceful and beautiful, the Sandpoint Devil is the opposite. It has the hooves and body of a powerful horse, but it walks on its hind legs in a perverse parody of a humanoid gait. Its equine face has been distorted and elongated with skeletal, yellowed fangs and milky eyes. The pox-spotted hide along the creature's back bears a draconic tail with dark, spiny plates and two torn, bat-like wings.
  The legendary Sandpoint Devil appears only on moonless nights when mists gather around the coast. Most encounters end with missing livestock or children, with little left behind other than oddly placed hoofprints that reek of brimstone.
-**Recall Knowledge - Beast ([[Arcana]], [[Nature]])**: DC 34
-**Recall Knowledge - Fiend ([[Religion]])**: DC 34
+**Recall Knowledge - Beast ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 34
+**Recall Knowledge - Fiend ([[DATABASE/skill/Religion|Religion]])**: DC 34
 **Unspecific Lore**: DC 32
 **Specific Lore**: DC 29
 
 # Sandpoint Devil<span class="item-type">Creature 8</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Beast</span><span class="item-trait">Fiend</span>
-**Source** [[Bestiary 2]] 
-**Perception** +16; [[Darkvision]], [[Scent]]
-**Languages** [[Abyssal]], [[Varisian]]
-**Skills** [[Acrobatics]] +16, [[Athletics]] +18, [[Intimidation]] +18, [[Stealth]] +18, [[Survival]] +16
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +16; [[DATABASE/monsterability/Darkvision|greater darkvision]], [[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]
+**Languages** [[DATABASE/language/Abyssal|Abyssal]], [[DATABASE/language/Varisian|Varisian]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +16, [[DATABASE/skill/Athletics|Athletics]] +18, [[DATABASE/skill/Intimidation|Intimidation]] +18, [[DATABASE/skill/Stealth|Stealth]] +18, [[DATABASE/skill/Survival|Survival]] +16
 **Str** +6, **Dex** +4, **Con** +5, **Int** +0, **Wis** +4, **Cha** +3
 
 ---
@@ -114,12 +114,12 @@ While some creatures have been fused to create a new entity that's graceful and 
 
 ---
 **Speed** 35 feet, fly 50 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +20 [+15/+10], **Damage** 2d10+12 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> hoof +20 [+16/+12] (agile, versatile S), **Damage** 2d6+12 bludgeoning</span>**Occult Innate Spells** DC 23, attack +15; **4th** _[[Dimension Door]]_, _[[Phantasmal Killer]]_; **3rd** _[[Stinking Cloud]]_; **2nd** _[[Obscuring Mist]]_; **1st** _[[Gust of Wind]]_ (at will); **Cantrips** **(4th)** _[[Produce Flame]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +20 [+15/+10], **Damage** 2d10+12 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> hoof +20 [+16/+12] (agile, versatile S), **Damage** 2d6+12 bludgeoning</span>**Occult Innate Spells** DC 23, attack +15; **4th** _[[DATABASE/spell/Dimension Door|dimension door]]_, _[[DATABASE/spell/Phantasmal Killer|phantasmal killer]]_; **3rd** _[[DATABASE/spell/Stinking Cloud|stinking cloud]]_; **2nd** _[[DATABASE/spell/Obscuring Mist|obscuring mist]]_; **1st** _[[DATABASE/spell/Gust of Wind|gust of wind]]_ (at will); **Cantrips** **(4th)** _[[DATABASE/spell/Produce Flame|produce flame]]_
 <span class="in-box-ability">**Accursed Breath** <span class="action-icon">2</span> (curse, evocation, fire, occult) The Sandpoint Devil breathes a 30-foot cone of flame that deals 6d10 fire damage. Each creature in the area must attempt a DC 26 Reflex save. The Sandpoint Devil can't use Accursed Breath for 1d4 rounds. 
 Critical Success The creature is unaffected. 
 Success The creature takes half damage. 
-Failure The creature takes full damage and is [[Sickened]] by the agonizing pain of its burns. 
-Critical Failure The creature takes full damage and is cursed. The victim's flesh appears charred and burned, and the pain of being burned alive never fully vanishes. The cursed creature takes a –2 status penalty to all checks from the constant pain. Healing doesn't alter the appearance of the burns or lessen the penalty, but removing the curse does.</span><span class="in-box-ability">**Devil's Howl** <span class="action-icon">2</span> (auditory, emotion, enchantment, fear, mental, occult) The Sandpoint Devil unleashes a bloodcurdling howl that can be heard for miles. Each creature within a 100-foot emanation must succeed at a DC 26 Will save or become [[Frightened]] (frightened 3 and [[Fleeing]] as long as it remains frightened on a critical failure). Creatures that attempt this Will save are then immune to Devil's Howl for 24 hours.</span><span class="in-box-ability">**[[Trample]]** <span class="action-icon">3</span> Medium or smaller, hoof, DC 23</span>
+Failure The creature takes full damage and is [[DATABASE/condition/Sickened|sickened 2]] by the agonizing pain of its burns. 
+Critical Failure The creature takes full damage and is cursed. The victim's flesh appears charred and burned, and the pain of being burned alive never fully vanishes. The cursed creature takes a –2 status penalty to all checks from the constant pain. Healing doesn't alter the appearance of the burns or lessen the penalty, but removing the curse does.</span><span class="in-box-ability">**Devil's Howl** <span class="action-icon">2</span> (auditory, emotion, enchantment, fear, mental, occult) The Sandpoint Devil unleashes a bloodcurdling howl that can be heard for miles. Each creature within a 100-foot emanation must succeed at a DC 26 Will save or become [[DATABASE/condition/Frightened|frightened 2]] (frightened 3 and [[DATABASE/condition/Fleeing|fleeing]] as long as it remains frightened on a critical failure). Creatures that attempt this Will save are then immune to Devil's Howl for 24 hours.</span><span class="in-box-ability">**[[DATABASE/monsterability/Trample|Trample]]** <span class="action-icon">3</span> Medium or smaller, hoof, DC 23</span>
 
 ###  Other Devils
 

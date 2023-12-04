@@ -2,6 +2,7 @@
 id: '314'
 name: Undine
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 trait:
 - Undine
@@ -10,17 +11,17 @@ type: Trait
 ---
 # Undine
 
-**Source** [[Bestiary 2]] 
-Undines are planar scions descended from [[Marid]].
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+Undines are planar scions descended from [[DATABASE/monster/Marid|marids]].
 
 ## Ancestries
 
-[[Undine]]
+[[DATABASE/ancestry/Undine|Undine]]
 
 ## Feats
 
-[[Aquatic Eyes]], [[Brinesoul]], [[Elemental Eyes]], [[Elemental Lore]], [[Fluid Contortionist]], [[Genie Weapon Expertise]], [[Genie Weapon Familiarity]], [[Genie Weapon Flourish]], [[Marid Magic]], [[Miraculous Repair]], [[Mistsoul]], [[Native Waters]], [[Noble Resolve]], [[Planar Sidestep]], [[Rimesoul]], [[Skillful Tail]], [[Steam Spell]], [[Strong Swimmer]], [[Summon Water Elemental]], [[Tidal Shield]], [[Tide-Hardened]], [[Translucent Skin]]
+[[DATABASE/feat/Aquatic Eyes|Aquatic Eyes]], [[DATABASE/feat/Brinesoul|Brinesoul]], [[DATABASE/feat/Elemental Eyes|Elemental Eyes]], [[DATABASE/feat/Elemental Lore|Elemental Lore]], [[DATABASE/feat/Fluid Contortionist|Fluid Contortionist]], [[DATABASE/feat/Genie Weapon Expertise|Genie Weapon Expertise]], [[DATABASE/feat/Genie Weapon Familiarity|Genie Weapon Familiarity]], [[DATABASE/feat/Genie Weapon Flourish|Genie Weapon Flourish]], [[DATABASE/feat/Marid Magic|Marid Magic]], [[DATABASE/feat/Miraculous Repair|Miraculous Repair]], [[DATABASE/feat/Mistsoul|Mistsoul]], [[DATABASE/feat/Native Waters|Native Waters]], [[DATABASE/feat/Noble Resolve|Noble Resolve]], [[DATABASE/feat/Planar Sidestep|Planar Sidestep]], [[DATABASE/feat/Rimesoul|Rimesoul]], [[DATABASE/feat/Skillful Tail|Skillful Tail]], [[DATABASE/feat/Steam Spell|Steam Spell]], [[DATABASE/feat/Strong Swimmer|Strong Swimmer]], [[DATABASE/feat/Summon Water Elemental|Summon Water Elemental]], [[DATABASE/feat/Tidal Shield|Tidal Shield]], [[DATABASE/feat/Tide-Hardened|Tide-Hardened]], [[DATABASE/feat/Translucent Skin|Translucent Skin]]
 
 ## Monsters
 
-[[Undine]]
+[[DATABASE/monster/Undine|Undine Hydromancer]]

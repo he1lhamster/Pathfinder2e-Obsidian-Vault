@@ -89,33 +89,33 @@ wisdom: '+0'
 
 The Wall of Heaven claims many intrepid climbers. Some such travelers come seeking fortune. Others seek enlightenment. Many, however, find only an icy death. With no means for a proper burial, many of these unfortunate souls remain abandoned to the ice, their bodies becoming macabre guideposts along mountain trails.
  Through means unknown, the most willful of these frozen travelers reanimate to seek vengeance upon the living for their denied burial. Such creatures, called sthiras, are composed of multiple bodies or body parts frozen together into one horrific monstrosity.
-**Recall Knowledge - Undead ([[Religion]])**: DC 42
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 42
 **Unspecific Lore**: DC 40
 **Specific Lore**: DC 37
 
 # Sthira<span class="item-type">Creature 20</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Cold</span><span class="item-trait">Undead</span>
-**Source** [[Pathfinder 168. King of the Mountain]]
-**Perception** +33; [[Darkvision]]
-**Languages** [[Common]]; (can't speak any language)
-**Skills** [[Athletics]] +39
+**Source** [[DATABASE/source/Pathfinder 168. King of the Mountain|Pathfinder #168: King of the Mountain]]
+**Perception** +33; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]]; (can't speak any language)
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +39
 **Str** +9, **Dex** +2, **Con** +10, **Int** -5, **Wis** +0, **Cha** -2
-**Items** _+3 [[Striking]] [[Greatsword]]_
+**Items** _+3 [[DATABASE/equipment/Striking|greater striking]] [[DATABASE/weapon/Greatsword|greatsword]]_
 
 ---
 **AC** 45; **Fort** +39, **Ref** +27, **Will** +33
-**HP** 475 ([[Negative Healing]]); **Immunities** cold, death effects, disease, mental, [[Paralyzed]], poison, [[Unconscious]]; **Weaknesses** fire 20
-<span class="in-box-ability">**Freezing Death** (aura, cold, evocation, primal) 20 feet. A creature that starts its turn in the aura takes 6d6 cold damage (DC 42 basic Fortitude). If the creature is [[Grabbed]] or [[Restrained]] by the sthira, it takes one degree of success worse than it rolled.</span><span class="in-box-ability">**[[Attack of Opportunity]] <span class="action-icon">5</span> ** </span><span class="in-box-ability">**Frozen to the Touch** (cold) A creature that damages the sthira with an unarmed attack, tries to Grapple it, or otherwise touches it takes 6d6 cold damage (DC 42 basic Fortitude).</span>
+**HP** 475 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** cold, death effects, disease, mental, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Unconscious|unconscious]]; **Weaknesses** fire 20
+<span class="in-box-ability">**Freezing Death** (aura, cold, evocation, primal) 20 feet. A creature that starts its turn in the aura takes 6d6 cold damage (DC 42 basic Fortitude). If the creature is [[DATABASE/condition/Grabbed|grabbed]] or [[DATABASE/condition/Restrained|restrained]] by the sthira, it takes one degree of success worse than it rolled.</span><span class="in-box-ability">**[[DATABASE/monsterability/Attack of Opportunity|Attack of Opportunity]] <span class="action-icon">5</span> ** </span><span class="in-box-ability">**Frozen to the Touch** (cold) A creature that damages the sthira with an unarmed attack, tries to Grapple it, or otherwise touches it takes 6d6 cold damage (DC 42 basic Fortitude).</span>
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _greatsword_ +38 [+33/+28] (magical, versatile P, reach 10 feet), **Damage** 3d12+15 slashing plus 2d6 cold and frostbite</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +38 [+33/+28] (magical, reach 10 feet), **Damage** 3d8+15 bludgeoning plus 2d6 cold, frostbite, and [[Improved Grab]]</span>**Primal Innate Spells** DC 39, attack +31; **10th** _[[Massacre]]_; **9th** _[[Polar Ray]]_ (×2), _[[Storm of Vengeance]]_ (hail only each round), _[[Wall of Ice]]_; **Cantrips** **(10th)** _[[Ray of Frost]]_
-<span class="in-box-ability">**Create Sthira** (primal, necromancy) When a creature dies while it has [[Persistent Damage]] from the sthira's frostbite, the creature rises as a sthira in 24 hours. If the creature is grappled by the sthira when it dies, the dying creature becomes permanently fused with the sthira instead. In this case, the sthira immediately recovers a number of Hit Points equal to the half the dead creature's maximum Hit Points.</span><span class="in-box-ability">**Frostbite** A creature that takes cold damage from a sthira's Strikes or aura must attempt a DC 42 Fortitude save. A creature that already has [[Persistent Damage]] from frostbite ignores this effect. 
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _greatsword_ +38 [+33/+28] (magical, versatile P, reach 10 feet), **Damage** 3d12+15 slashing plus 2d6 cold and frostbite</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +38 [+33/+28] (magical, reach 10 feet), **Damage** 3d8+15 bludgeoning plus 2d6 cold, frostbite, and [[DATABASE/monsterability/Improved Grab|Improved Grab]]</span>**Primal Innate Spells** DC 39, attack +31; **10th** _[[DATABASE/spell/Massacre|massacre]]_; **9th** _[[DATABASE/spell/Polar Ray|polar ray]]_ (×2), _[[DATABASE/spell/Storm of Vengeance|storm of vengeance]]_ (hail only each round), _[[DATABASE/spell/Wall of Ice|wall of ice]]_; **Cantrips** **(10th)** _[[DATABASE/spell/Ray of Frost|ray of frost]]_
+<span class="in-box-ability">**Create Sthira** (primal, necromancy) When a creature dies while it has [[DATABASE/condition/Persistent Damage|persistent cold damage]] from the sthira's frostbite, the creature rises as a sthira in 24 hours. If the creature is grappled by the sthira when it dies, the dying creature becomes permanently fused with the sthira instead. In this case, the sthira immediately recovers a number of Hit Points equal to the half the dead creature's maximum Hit Points.</span><span class="in-box-ability">**Frostbite** A creature that takes cold damage from a sthira's Strikes or aura must attempt a DC 42 Fortitude save. A creature that already has [[DATABASE/condition/Persistent Damage|persistent cold damage]] from frostbite ignores this effect. 
 **Critical Success** The creature is unaffected, and is temporarily immune to this ability for 1 hour. 
 **Success** The creature is unaffected. 
 **Failure** The creature takes 3d6 persistent cold damage. 
-**Critical Failure** As failure, but the creature is also [[Drained]].</span>
+**Critical Failure** As failure, but the creature is also [[DATABASE/condition/Drained|drained 1]].</span>
 
 ###  Other Sthiras
 

@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Horseshoes of Speed<span class="item-type">Item 7+</span>
 
 <span class="item-trait">Companion</span><span class="item-trait">Invested</span><span class="item-trait">Primal</span><span class="item-trait">Transmutation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** worn horseshoes; **Bulk** 1
 
 ---
@@ -63,13 +64,13 @@ When you affix these simple iron horseshoes to the hooves of an ordinary horse o
 
 ## Horseshoes of Speed<span class="item-type">Item 7</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 340 gp
 **Bulk** 1
 
 ## Horseshoes of Speed (Greater)<span class="item-type">Item 14</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 4,250 gp
 **Bulk** 1
 The bonus to Speed is +10 feet, and the bonus to Athletics checks is +3.

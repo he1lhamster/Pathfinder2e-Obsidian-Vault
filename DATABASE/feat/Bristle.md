@@ -11,6 +11,7 @@ name: Bristle
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 subcategory: null
@@ -23,11 +24,11 @@ type: Feat
 # Bristle <span class="action-icon">1</span> <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Shisk</span>
-**Source** [[The Mwangi Expanse]]
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]
 
 ---
 You curl into a posture that splays out your bone spines. You gain a +1 circumstance to AC until the start of your next turn.
-**Special** If you have the [[Barbed Quills]] reaction or a quills unarmed attack, each gains a +1 circumstance bonus to damage rolls until the start of your next turn.
+**Special** If you have the [[DATABASE/action/Barbed Quills|Barbed Quills]] reaction or a quills unarmed attack, each gains a +1 circumstance bonus to damage rolls until the start of your next turn.
 
 ## Traits
 

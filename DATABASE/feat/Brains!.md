@@ -11,6 +11,7 @@ name: Brains!
 prerequisite: '[[DATABASE/feat/Feast|Feast]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 subcategory: null
@@ -25,13 +26,13 @@ type: Feat
 # Brains! <span class="action-icon">4</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Book of the Dead]]
-**Archetype** [[Zombie]]
-**Prerequisites** [[Feast]]
+**Source** [[DATABASE/source/Book of the Dead|Book of the Dead]]
+**Archetype** [[DATABASE/archetype/Zombie|Zombie]]
+**Prerequisites** [[DATABASE/feat/Feast|Feast]]
 **Trigger** You Feast upon a humanoid's brain. The humanoid can't be mindless (or, if you're Feasting on a corpse, can't have been mindless while alive).
 
 ---
-You consume the brains of your foe, causing synapses long rotten to fire and enabling you to shake off your mental torpor. You gain a +1 status bonus on skill checks to [[Recall Knowledge]] for 1 hour. If the humanoid had a higher modifier to the skill check you're using to Recall Knowledge than you do, the status bonus increases to +2.
+You consume the brains of your foe, causing synapses long rotten to fire and enabling you to shake off your mental torpor. You gain a +1 status bonus on skill checks to [[DATABASE/action/Recall Knowledge|Recall Knowledge]] for 1 hour. If the humanoid had a higher modifier to the skill check you're using to Recall Knowledge than you do, the status bonus increases to +2.
 
 ## Traits
 

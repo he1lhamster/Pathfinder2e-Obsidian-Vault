@@ -11,6 +11,7 @@ name: Starlight Armor
 prerequisite: '[[DATABASE/feat/Oatia Skysage Dedication|Oatia Skysage Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh
   Arch]]'
@@ -26,14 +27,14 @@ type: Feat
 # Starlight Armor <span class="action-icon">3</span> <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Conjuration</span><span class="item-trait">Occult</span>
-**Source** [[Pathfinder 187. The Seventh Arch]]
-**Archetype** [[Oatia Skysage]]
+**Source** [[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh Arch]]
+**Archetype** [[DATABASE/archetype/Oatia Skysage|Oatia Skysage]]
 **Frequency** once per day
-**Prerequisites** [[Oatia Skysage Dedication]]
+**Prerequisites** [[DATABASE/feat/Oatia Skysage Dedication|Oatia Skysage Dedication]]
 
 ---
 You armor yourself in the light of distant suns, shielding yourself from harm. The armor grants you resistance 7 to piercing, bludgeoning, and slashing damage. The armor also sheds bright light for 20 feet (and dim light for the next 20 feet).
- Whenever an adjacent creature attacks you, the attacker must attempt a Will save against your spell DC at the end of its action. On a failure, it becomes [[Dazzled]] until the end of its next turn. Regardless of the result of the save, the attacker is temporarily immune until the end of its next turn. The dazzling effect has the light and visual traits.
+ Whenever an adjacent creature attacks you, the attacker must attempt a Will save against your spell DC at the end of its action. On a failure, it becomes [[DATABASE/condition/Dazzled|dazzled]] until the end of its next turn. Regardless of the result of the save, the attacker is temporarily immune until the end of its next turn. The dazzling effect has the light and visual traits.
  When you reach 17th level, the resistance increases to 10.
 
 ## Traits

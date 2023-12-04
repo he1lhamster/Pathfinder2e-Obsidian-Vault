@@ -81,24 +81,24 @@ wisdom: '+3'
 # Arboreal Warden
 
 Arboreal wardens are the rangers of arboreal society. These itinerant folk have an innate curiosity about the woodlands in which they dwell, and rarely stop to take root and rest in the same part of the forest twice. This wanderlust makes wardens ideal forest patrollers and scouts. While they are robust combatants, they know better than to confront dangerous foes on their own. Instead, they report any dangers to arboreal regents. In rare cases, large groups of arboreal wardens congregate to form a copse. Copses travel beyond the boundaries of a forest to investigate the hinterlands and gather intelligence on potential threats before returning to report their findings. Arboreal wardens do not pretend to understand to other creatures’ motives—like most forces of the natural world, they are ambivalent about mortal affairs that do not involve their forest.
-**Recall Knowledge - Plant ([[Nature]])**: DC 19
+**Recall Knowledge - Plant ([[DATABASE/skill/Nature|Nature]])**: DC 19
 **Unspecific Lore**: DC 17
 **Specific Lore**: DC 14
 
 # Arboreal Warden<span class="item-type">Creature 4</span>
 
 <span class="trait-alignment item-trait">NG</span><span class="trait-size item-trait">Large</span><span class="item-trait">Plant</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +11; low-light vision
-**Languages** [[Arboreal]], [[Common]], [[Sylvan]]
-**Skills** [[Athletics]] +13, [[Stealth]] +9 (+14 in forests)
+**Languages** [[DATABASE/language/Arboreal|Arboreal]], [[DATABASE/language/Common|Common]], [[DATABASE/language/Sylvan|Sylvan]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +13, [[DATABASE/skill/Stealth|Stealth]] +9 (+14 in forests)
 **Str** +5, **Dex** +1, **Con** +3, **Int** +1, **Wis** +3, **Cha** +1
-**Items** large bark shield (Hardness 3, Hit Points 20, BT 10), [[Longsword]]
+**Items** large bark shield (Hardness 3, Hit Points 20, BT 10), [[DATABASE/weapon/Longsword|stone longsword]]
 
 ---
 **AC** 20 (22 with shield raised); **Fort** +13, **Ref** +9, **Will** +11
 **HP** 75; **Resistances** bludgeoning 5, piercing 5; **Weaknesses** axe vulnerability, fire 10
-<span class="in-box-ability">**Axe Vulnerability** An arboreal warden takes 5 additional damage from axes.</span><span class="in-box-ability">**[[Attack of Opportunity]]** <span class="action-icon">5</span> </span><span class="in-box-ability">**[[Shield Block]]** <span class="action-icon">5</span> </span>
+<span class="in-box-ability">**Axe Vulnerability** An arboreal warden takes 5 additional damage from axes.</span><span class="in-box-ability">**[[DATABASE/monsterability/Attack of Opportunity|Attack of Opportunity]]** <span class="action-icon">5</span> </span><span class="in-box-ability">**[[DATABASE/monsterability/Shield Block|Shield Block]]** <span class="action-icon">5</span> </span>
 
 ---
 **Speed** 25 feet

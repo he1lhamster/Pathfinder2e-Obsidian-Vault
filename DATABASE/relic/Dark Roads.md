@@ -5,6 +5,7 @@ item_category: Relics
 name: Dark Roads
 prerequisite: null
 rarity: Common
+rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
@@ -17,7 +18,7 @@ type: Relic Major Gift
 # Dark Roads<span class="item-type">Major Gift</span>
 
 <span class="item-trait">Conjuration</span><span class="item-trait">Shadow</span><span class="item-trait">Teleportation</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Aspect** shadow
 
 ---

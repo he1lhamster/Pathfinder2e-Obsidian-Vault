@@ -11,6 +11,7 @@ name: Quickened Casting
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -29,8 +30,8 @@ type: Feat
 # Quickened Casting <span class="action-icon">4</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Bard</span><span class="item-trait">Concentrate</span><span class="item-trait">Metamagic</span><span class="item-trait">Oracle</span><span class="item-trait">Sorcerer</span><span class="item-trait">Witch</span><span class="item-trait">Wizard</span>
-**Source** [[Advanced Player's Guide]] , [[Core Rulebook]] 
-**Archetype** [[Time Mage]]*
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] , [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Time Mage|Time Mage]]*
 **Frequency** once per day
 * This archetype offers Quickened Casting at a different level than displayed here.
 

@@ -79,19 +79,19 @@ wisdom: '+4'
 # Bloom Cultist
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 25
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 25
 **Unspecific Lore**: DC 23
 **Specific Lore**: DC 20
 
 # Bloom Cultist<span class="item-type">Creature 5</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 **Perception** +13
-**Languages** [[Abyssal]], [[Common]]
-**Skills** [[Deception]] +11, [[Intimidation]] +11, [[Nature]] +13, [[Religion]] +13
+**Languages** [[DATABASE/language/Abyssal|Abyssal]], [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Deception|Deception]] +11, [[DATABASE/skill/Intimidation|Intimidation]] +11, [[DATABASE/skill/Nature|Nature]] +13, [[DATABASE/skill/Religion|Religion]] +13
 **Str** +3, **Dex** +3, **Con** +2, **Int** +0, **Wis** +4, **Cha** +0
-**Items** [[Kukri]], robes
+**Items** [[DATABASE/weapon/Kukri|+1 kukri]], robes
 
 ---
 **AC** 22; **Fort** +11, **Ref** +12, **Will** +15
@@ -99,6 +99,6 @@ This creature did not include a description.
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _kukri_ +13 [+9/+5] (agile, finesse, trip), **Damage** 1d6+5 slashing</span>**Divine Spells Prepared** DC 21, attack +13; **3rd** _[[Chilling Darkness]]_, _[[Harm]]_; **2nd** _[[Dispel Magic]]_, _[[Heal]]_, _[[Spiritual Weapon]]_; **1st** _[[Alarm]]_, _[[Command]]_, _[[Ray of Enfeeblement]]_; **Cantrips** **(3rd)** _[[Divine Lance]]_, _[[Forbidding Ward]]_, _[[Message]]_, _[[Read Aura]]_, _[[Shield]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _kukri_ +13 [+9/+5] (agile, finesse, trip), **Damage** 1d6+5 slashing</span>**Divine Spells Prepared** DC 21, attack +13; **3rd** _[[DATABASE/spell/Chilling Darkness|chilling darkness]]_, _[[DATABASE/spell/Harm|harm]]_; **2nd** _[[DATABASE/spell/Dispel Magic|dispel magic]]_, _[[DATABASE/spell/Heal|heal]]_, _[[DATABASE/spell/Spiritual Weapon|spiritual weapon]]_; **1st** _[[DATABASE/spell/Alarm|alarm]]_, _[[DATABASE/spell/Command|command]]_, _[[DATABASE/spell/Ray of Enfeeblement|ray of enfeeblement]]_; **Cantrips** **(3rd)** _[[DATABASE/spell/Divine Lance|divine lance]]_, _[[DATABASE/spell/Forbidding Ward|forbidding ward]]_, _[[DATABASE/spell/Message|message]]_, _[[DATABASE/spell/Read Aura|read aura]]_, _[[DATABASE/spell/Shield|shield]]_
 **Rituals**; **1st** monstrous bloom
 <span class="in-box-ability">**Absorb the Bloom** <span class="action-icon">1</span> (divine, manipulate, necromancy) The bloom cultist places a hand against the wall or floor in the Cradle of Lamashtu and utters a prayer to the Mother of Monsters. Filaments of fungus slither up into the cultist's flesh, healing 4d6 points of damage. The cultist can't Absorb the Bloom for 24 hours.</span>

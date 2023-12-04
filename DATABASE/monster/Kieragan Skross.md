@@ -76,28 +76,28 @@ wisdom: '+4'
 # Kieragan Skross
 
 This creature did not include a description.
-**Recall Knowledge - Undead ([[Religion]])**: DC 34
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 34
 **Unspecific Lore**: DC 32
 **Specific Lore**: DC 29
 
 # Kieragan Skross<span class="item-type">Creature 8</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Undead</span>
-**Source** [[Crown of the Kobold King]]
-Greater [[Herexen]]
-**Perception** +16; [[Darkvision]]
-**Languages** [[Common]], [[Dwarven]], [[Necril]]
-**Skills** [[Athletics]] +18, [[Deception]] +16, [[Intimidation]] +18, [[Religion]] +16
+**Source** [[DATABASE/source/Crown of the Kobold King|Crown of the Kobold King]]
+Greater [[DATABASE/monster/Herexen|herexen]]
+**Perception** +16; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Dwarven|Dwarven]], [[DATABASE/language/Necril|Necril]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +18, [[DATABASE/skill/Deception|Deception]] +16, [[DATABASE/skill/Intimidation|Intimidation]] +18, [[DATABASE/skill/Religion|Religion]] +16
 **Str** +6, **Dex** +2, **Con** +4, **Int** +0, **Wis** +4, **Cha** +4
-**Items** defiled [[Religious Symbol]] of [[Droskar]], _+1 [[Striking]] [[Returning]] [[Light Hammer]]_
+**Items** defiled [[DATABASE/equipment/Religious Symbol|religious symbol]] of [[DATABASE/deity/Droskar|Droskar]], _+1 [[DATABASE/equipment/Striking|striking]] [[DATABASE/equipment/Returning|returning]] [[DATABASE/weapon/Light Hammer|light hammer]]_
 
 ---
 **AC** 26; **Fort** +18, **Ref** +14, **Will** +16
-**HP** 135 ([[Negative Healing]]); **Immunities** death effects, disease, [[Paralyzed]], poison, [[Unconscious]]
-<span class="in-box-ability">**Final Blasphemy** (divine, necromancy, negative) When the herexen is destroyed, it explodes in a wave of negative energy with the effects of a 3-action, 4th-level [[Harm]] spell (DC 26). The herexen is destroyed, so it doesn't gain any Hit Points from this use of _harm_, and it doesn't need to have any _harm_ spells remaining to use this ability.</span>
+**HP** 135 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects, disease, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Unconscious|unconscious]]
+<span class="in-box-ability">**Final Blasphemy** (divine, necromancy, negative) When the herexen is destroyed, it explodes in a wave of negative energy with the effects of a 3-action, 4th-level [[DATABASE/spell/Harm|harm]] spell (DC 26). The herexen is destroyed, so it doesn't gain any Hit Points from this use of _harm_, and it doesn't need to have any _harm_ spells remaining to use this ability.</span>
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _light hammer_ +19 [+15/+11] (agile), **Damage** 2d6+9 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _light hammer_ +15 [+11/+7] (agile, thrown 20 feet), **Damage** 2d6+9 bludgeoning</span>**Divine Prepared Spells** DC 26, attack +18; **4th** _[[Harm]]_ (×4)
-**Cleric Domain Spells** DC 20, 2 Focus Points; **4th** _[[Commanding Lash]]_, _[[Touch of Obedience]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _light hammer_ +19 [+15/+11] (agile), **Damage** 2d6+9 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _light hammer_ +15 [+11/+7] (agile, thrown 20 feet), **Damage** 2d6+9 bludgeoning</span>**Divine Prepared Spells** DC 26, attack +18; **4th** _[[DATABASE/spell/Harm|harm]]_ (×4)
+**Cleric Domain Spells** DC 20, 2 Focus Points; **4th** _[[DATABASE/spell/Commanding Lash|commanding lash]]_, _[[DATABASE/spell/Touch of Obedience|touch of obedience]]_
 <span class="in-box-ability">**Heretic's Smite** (divine, necromancy) While wielding the favored weapon of its former deity (such as a dagger for an ex-Pharasmin herexen), the herexen's Strikes deal an additional 2d6 evil damage against creatures that can cast divine spells.</span>

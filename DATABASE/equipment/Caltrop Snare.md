@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -55,11 +56,11 @@ weapon_type: null
 # Caltrop Snare<span class="item-type">Item 1</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Mechanical</span><span class="item-trait">Snare</span><span class="item-trait">Trap</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 3 gp
 **Bulk** —
 
 ---
-This snare consists of a hidden canister of [[Caltrops]] attached to a trip wire. When the snare is triggered, it flings the caltrops into either the snare’s square or a square adjacent to the snare. You choose which square when you set up the snare.
+This snare consists of a hidden canister of [[DATABASE/equipment/Caltrops|caltrops]] attached to a trip wire. When the snare is triggered, it flings the caltrops into either the snare’s square or a square adjacent to the snare. You choose which square when you set up the snare.
  If the caltrops scatter into the same square as a creature, that creature must attempt the Acrobatics check immediately.
 **Craft Requirements** Supply a container of caltrops.

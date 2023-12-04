@@ -11,6 +11,7 @@ name: Furnace Form
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -28,10 +29,10 @@ type: Feat
 # Furnace Form <span class="action-icon">2</span> <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Fire</span><span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Manipulate</span><span class="item-trait">Polymorph</span><span class="item-trait">Primal</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
-Opening your kinetic gate, you allow flames to consume your form and leave you a living flame. You gain the benefits of the [[Fiery Body]] spell (except the ability to cast [[Produce Flame]]) until the end of your next turn. You can Sustain the impulse up to 1 minute, and when you do, you can Fly up to half your fly Speed. Your fire [[Elemental Blast]] deal an additional die of damage.
+Opening your kinetic gate, you allow flames to consume your form and leave you a living flame. You gain the benefits of the [[DATABASE/spell/Fiery Body|fiery body]] spell (except the ability to cast [[DATABASE/spell/Produce Flame|ignition]]) until the end of your next turn. You can Sustain the impulse up to 1 minute, and when you do, you can Fly up to half your fly Speed. Your fire [[DATABASE/action/Elemental Blast|Elemental Blasts]] deal an additional die of damage.
 
 ---
 **Level (16th)** This duration is 1 minute, you can't Sustain the impulse, and you can Dismiss the impulse.

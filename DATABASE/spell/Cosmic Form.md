@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -38,7 +39,7 @@ type: Spell
 # Cosmic Form<span class="item-type">Spell 7</span>
 
 <span class="item-trait">Polymorph</span><span class="item-trait">Transmutation</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Traditions** divine, primal
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Duration** 1 minute
@@ -50,10 +51,10 @@ You recreate your form entirely out of cosmic energy, transforming into a Large 
 * AC = 21 + your level. Ignore your armor check's penalty and Speed reduction.
 * 20 temporary Hit Points.
 * Darkvision.
-* One or more attacks specific to the battle form you use. You're trained with them. Your attack modifier is +25, and you use the listed damage. The melee attacks are Strength based (for the purpose of the [[Enfeebled]] condition, for example), and the ranged attacks are Dexterity based. If your unarmed attack modifier is higher, you can use it instead.
-* [[Athletics]] modifier of +25, unless your own is higher.
+* One or more attacks specific to the battle form you use. You're trained with them. Your attack modifier is +25, and you use the listed damage. The melee attacks are Strength based (for the purpose of the [[DATABASE/condition/Enfeebled|enfeebled]] condition, for example), and the ranged attacks are Dexterity based. If your unarmed attack modifier is higher, you can use it instead.
+* [[DATABASE/skill/Athletics|Athletics]] modifier of +25, unless your own is higher.
 
 You also gain specific abilities based on the stellar body:
 
-* **Moon** Speed 30 feet, fly 50 feet; **Melee** <span class="action-icon">1</span> fist (agile, reach 10 feet), **Damage** 2d4+10 bludgeoning plus 1d6 fire; **Ranged** <span class="action-icon">1</span> moonbeam (range 90 feet), **Damage** 2d4+10 fire; this form's fire damage is [[Silver Weapon]] for resistances, weaknesses, and the like; on a critical hit with either Strike, the target is [[Stupefied]] for 1 round.
-* **Sun** Speed 30 feet, fly 50 feet; **Melee** <span class="action-icon">1</span> fist (agile, reach 10 feet), **Damage** 2d6+10 fire plus 1d6 [[Persistent Damage]]; **Ranged** <span class="action-icon">1</span> sunbeam (range 90 feet), **Damage** 1d6+10 fire plus 1d6 persistent fire; on a critical hit with either Strike, the target is [[Dazzled]] for 1 round.
+* **Moon** Speed 30 feet, fly 50 feet; **Melee** <span class="action-icon">1</span> fist (agile, reach 10 feet), **Damage** 2d4+10 bludgeoning plus 1d6 fire; **Ranged** <span class="action-icon">1</span> moonbeam (range 90 feet), **Damage** 2d4+10 fire; this form's fire damage is [[DATABASE/equipment/Silver Weapon|silver]] for resistances, weaknesses, and the like; on a critical hit with either Strike, the target is [[DATABASE/condition/Stupefied|stupefied 2]] for 1 round.
+* **Sun** Speed 30 feet, fly 50 feet; **Melee** <span class="action-icon">1</span> fist (agile, reach 10 feet), **Damage** 2d6+10 fire plus 1d6 [[DATABASE/condition/Persistent Damage|persistent fire]]; **Ranged** <span class="action-icon">1</span> sunbeam (range 90 feet), **Damage** 1d6+10 fire plus 1d6 persistent fire; on a critical hit with either Strike, the target is [[DATABASE/condition/Dazzled|dazzled]] for 1 round.

@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Illusion
 size: null
@@ -53,10 +54,10 @@ weapon_type: null
 # Misleading<span class="item-type">Item 16</span>
 
 <span class="item-trait">Illusion</span><span class="item-trait">Magical</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 8,000 gp
 **Usage** etched onto light armor; **Bulk** —
 
 ---
-This rune attempts to obfuscate your location through illusory trickery. When you're [[Concealed]], the DC of the flat check to target you with an effect is 6 instead of 5.
-**Activate** <span class="action-icon">2</span> command, envision **Frequency** once per day; **Effect** The armor casts [[Mislead]], affecting you. It lasts until the end of your next turn.
+This rune attempts to obfuscate your location through illusory trickery. When you're [[DATABASE/condition/Concealed|concealed]], the DC of the flat check to target you with an effect is 6 instead of 5.
+**Activate** <span class="action-icon">2</span> command, envision **Frequency** once per day; **Effect** The armor casts [[DATABASE/spell/Mislead|mislead]], affecting you. It lasts until the end of your next turn.

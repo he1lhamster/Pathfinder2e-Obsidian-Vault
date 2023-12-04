@@ -17,6 +17,7 @@ name: Rigged Ramen Cart
 rarity: Common
 reflex: '+23'
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 173. Doorway to the Red Star|Pathfinder #173:
   Doorway to the Red Star]]'
@@ -32,13 +33,13 @@ will: null
 # Rigged Ramen Cart<span class="item-type">Hazard 15</span>
 
 <span class="item-trait">Alchemical</span><span class="item-trait">Mechanical</span><span class="item-trait">Trap</span>
-**Source** [[Pathfinder 173. Doorway to the Red Star]]
+**Source** [[DATABASE/source/Pathfinder 173. Doorway to the Red Star|Pathfinder #173: Doorway to the Red Star]]
 **Complexity** Simple
 **Stealth** DC 35 (expert)
 **Description** A seemingly innocent ramen cart is rigged to detonate if moved from its current location.
 
 ---
-**Disable** [[Thievery]] DC 40 (master) to disable the detonation trigger
+**Disable** [[DATABASE/skill/Thievery|Thievery]] DC 40 (master) to disable the detonation trigger
 **AC** 34, **Fort** +29, **Ref** +23
 **Hardness** 25, **HP** 90 (BT 45); **Immunities** critical hits, object immunities, precision damage
-**Death by Noodles** <span class="action-icon">5</span> **Trigger** The cart is moved, damaged, or physically searched; **Effect** The cart explodes in a 40-foot radius, dealing 10d6 fire damage and 10d6 piercing damage to all creatures within the area (DC 36 basic Reflex save). Creatures who fail their save against this effect are also covered in “noodles” of tar and other sticky alchemical substances that make the creature [[Clumsy]] until they spend at least an hour scrubbing the noodles off.
+**Death by Noodles** <span class="action-icon">5</span> **Trigger** The cart is moved, damaged, or physically searched; **Effect** The cart explodes in a 40-foot radius, dealing 10d6 fire damage and 10d6 piercing damage to all creatures within the area (DC 36 basic Reflex save). Creatures who fail their save against this effect are also covered in “noodles” of tar and other sticky alchemical substances that make the creature [[DATABASE/condition/Clumsy|clumsy 2]] until they spend at least an hour scrubbing the noodles off.

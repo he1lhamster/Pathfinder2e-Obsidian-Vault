@@ -31,6 +31,7 @@ rarity: Unique
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -57,10 +58,10 @@ weapon_type: null
 # The Demon's Lantern<span class="item-type">Item 20</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="item-trait">Artifact</span><span class="item-trait">Evocation</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span>
-**Source** [[Pathfinder 191. The Destiny War]]
+**Source** [[DATABASE/source/Pathfinder 191. The Destiny War|Pathfinder #191: The Destiny War]]
 **Usage** carried; **Bulk** —
 **Suit** Keys (Dex); **Alignment** chaotic evil
 
 ---
-_The Demon's Lantern_ represents trickery and feats of legerdemain. As long as you have _The Demon's Lantern_ invested, you gain a +2 item bonus to checks made to [[Conceal an Object]], [[Palm an Object]], or [[Steal]]. This increases to a +3 item bonus if you are at least 17th level.
-**Activate** <span class="action-icon">5</span> envision **Frequency** once per day; **Trigger** A creature hits you with a melee attack; **Effect** You release a flash of lights and attempt a Reflex saving throw. If your saving throw is higher than the attack roll for the triggering attack, it misses. If the attack misses, the attacker is [[Dazzled]] until the end of your next turn.
+_The Demon's Lantern_ represents trickery and feats of legerdemain. As long as you have _The Demon's Lantern_ invested, you gain a +2 item bonus to checks made to [[DATABASE/action/Conceal an Object|Conceal an Object]], [[DATABASE/action/Palm an Object|Palm an Object]], or [[DATABASE/action/Steal|Steal]]. This increases to a +3 item bonus if you are at least 17th level.
+**Activate** <span class="action-icon">5</span> envision **Frequency** once per day; **Trigger** A creature hits you with a melee attack; **Effect** You release a flash of lights and attempt a Reflex saving throw. If your saving throw is higher than the attack roll for the triggering attack, it misses. If the attack misses, the attacker is [[DATABASE/condition/Dazzled|dazzled]] until the end of your next turn.

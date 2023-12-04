@@ -9,6 +9,7 @@ language: null
 max_speed: null
 name: Sylph
 rarity: null
+rus_type_level: null
 size: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 speed: null
@@ -20,10 +21,10 @@ vision: null
 # Sylph (Versatile Heritage)
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Sylph</span>
-**Source** [[Ancestry Guide]] 
-_Sylphs are an intense and lively people, flighty and tempestuous. These planar scions have kinship to beings of elemental air such as [[Djinni]], [[Invisible Stalker]], and [[Dragon, Cloud]]._
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
+_Sylphs are an intense and lively people, flighty and tempestuous. These planar scions have kinship to beings of elemental air such as [[DATABASE/monster/Djinni|djinni]], [[DATABASE/monster/Invisible Stalker|invisible stalkers]], and [[DATABASE/monsterfamily/Dragon, Cloud|cloud dragons]]._
 Sylphs enjoying following their own tempos, shifting between wild energy that draws all eyes to embodying the spirit of unseen breezes that slip away without note. They often build their identities around their perceived personal connection to the element of air, relating to a gentle breeze, a sudden flash of lightning, or an uncontrollable storm.
- Some sylphs are born with a connection to an extremely focused aspect of elemental air, such as smoke, storms, or toxic gas. While it does happen, a child is rarely born with a lineage that differs from their parents', as geniekin typically pass these unusual gifts on to their offspring. Lineages can manifest in sylph children as a result of where they're born, such as when stormsoul sylphs are birthed in regions prone to tornadoes or windstorms. A lineage can also reflect a sylph's elemental heritage like in smokesoul sylphs, who often descend from [[Belker]]. Fumesoul sylphs, on the other hand, are associated with poisonous and otherwise unbreathable gases.
+ Some sylphs are born with a connection to an extremely focused aspect of elemental air, such as smoke, storms, or toxic gas. While it does happen, a child is rarely born with a lineage that differs from their parents', as geniekin typically pass these unusual gifts on to their offspring. Lineages can manifest in sylph children as a result of where they're born, such as when stormsoul sylphs are birthed in regions prone to tornadoes or windstorms. A lineage can also reflect a sylph's elemental heritage like in smokesoul sylphs, who often descend from [[DATABASE/monster/Belker|belkers]]. Fumesoul sylphs, on the other hand, are associated with poisonous and otherwise unbreathable gases.
 
 ## You Might...
 
@@ -33,7 +34,7 @@ Sylphs enjoying following their own tempos, shifting between wild energy that dr
 
 ## Others Probably...
 
-* Look to you as an authority on air magic or the elemental [[Plane of Air]].
+* Look to you as an authority on air magic or the elemental [[DATABASE/plane/Plane of Air|Plane of Air]].
 * Believe you easily flow through all aspects of society, while listening to those around you.
 * Assume you must be airheaded or capricious, prone to irresponsible behavior without regard for consequence.
 
@@ -49,17 +50,17 @@ Sylphs exist within the societies of other ancestries, usually that of their mor
 ## Alignment and Religion
 
 Most sylphs place little value on laws and tradition, preferring to forge their own paths and go where the wind blows, especially as many have a great love for subterfuge and trickery, placing them at odds with nearly all laws and social norms. Overall, they tend toward neutrality, pursuing the most expedient avenues toward accomplishing their goals, regardless of legality.
- Sylphs often find themselves drawn toward the mysteries of secretive cults, worshipping outsider demigods like the elemental lords of air [[Hshurha]] and [[Ranginori]], or the empyreal lords of detectives and vigilance [[Zohls]] or [[Tanagaar]]. Those who worship conventional deities tend to favor gods of travel like [[Desna]], gods of secrets such as [[Norgorber]], or the obvious gods of air, [[Gozreh]] and [[Hei Feng]].
+ Sylphs often find themselves drawn toward the mysteries of secretive cults, worshipping outsider demigods like the elemental lords of air [[DATABASE/deity/Hshurha|Hshurha]] and [[DATABASE/deity/Ranginori|Ranginori]], or the empyreal lords of detectives and vigilance [[DATABASE/deity/Zohls|Zohls]] or [[DATABASE/deity/Tanagaar|Tanagaar]]. Those who worship conventional deities tend to favor gods of travel like [[DATABASE/deity/Desna|Desna]], gods of secrets such as [[DATABASE/deity/Norgorber|Norgorber]], or the obvious gods of air, [[DATABASE/deity/Gozreh|Gozreh]] and [[DATABASE/deity/Hei Feng|Hei Feng]].
 
 ## Adventurers
 
-Sylphs who become adventurers often have backgrounds as [[Acrobat]], [[Entertainer]], [[Nomad]], and [[Scout]]. Traveling beneath an open sky or exploring the highest mountains is irresistible, and this drive to always reach for the sky drives many to pursue a life of adventuring. Sylph [[Champion]] are most often liberators, and [[Cleric]] typically serve gods of air such as [[Hei Feng]] or the elemental lords of air. Many sylphs are [[Sorcerer]] with [[Draconic]] or [[Elemental]] or [[Wizard]] that focus on elemental magic.
+Sylphs who become adventurers often have backgrounds as [[DATABASE/background/Acrobat|acrobats]], [[DATABASE/background/Entertainer|entertainers]], [[DATABASE/background/Nomad|nomads]], and [[DATABASE/background/Scout|scouts]]. Traveling beneath an open sky or exploring the highest mountains is irresistible, and this drive to always reach for the sky drives many to pursue a life of adventuring. Sylph [[DATABASE/class_/Champion|champions]] are most often liberators, and [[DATABASE/class_/Cleric|clerics]] typically serve gods of air such as [[DATABASE/deity/Hei Feng|Hei Feng]] or the elemental lords of air. Many sylphs are [[DATABASE/class_/Sorcerer|sorcerers]] with [[DATABASE/sorcererbloodline/Draconic|draconic]] or [[DATABASE/sorcererbloodline/Elemental|elemental bloodlines]] or [[DATABASE/class_/Wizard|wizards]] that focus on elemental magic.
 
 ## Other Information
 
 ### Family Relations
 
-[[Djinni]], air genies native to the Plane of Air, are the most common elemental ancestor for sylphs, but they are not the only possibility. [[Invisible]] look down on corporeal creatures, but occasionally they take mortal lovers, especially illusionists who share their appreciation for the unseen. [[Dragon, Cloud]] sometimes have sylph descendants, born with draconic features like tails or horns.
+[[DATABASE/monster/Djinni|Djinn]], air genies native to the Plane of Air, are the most common elemental ancestor for sylphs, but they are not the only possibility. [[DATABASE/condition/Invisible|Invisible stalkers]] look down on corporeal creatures, but occasionally they take mortal lovers, especially illusionists who share their appreciation for the unseen. [[DATABASE/monsterfamily/Dragon, Cloud|Cloud dragons]] sometimes have sylph descendants, born with draconic features like tails or horns.
 
 ### Geniekin Cuisine
 
@@ -76,9 +77,9 @@ Because sylphs are fond of travel, there are few true sylph settlements on Golar
 
 # Versatile Heritage
 
-## [[Sylph]]
+## [[DATABASE/heritage/Sylph|Sylph]]
 
 <span class="trait-uncommon item-trait">Uncommon</span>
-**Source** [[Ancestry Guide]] 
-**Ancestry Page** [[Sylph]]
-You are descended from [[Elemental, Air]] or were born under the element's influence. You gain the sylph trait, in addition to the traits from your ancestry. You also gain low-light vision or darkvision if your ancestry already has low-light vision. You can choose from sylph feats and feats from your ancestry whenever you gain an ancestry feat.
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
+**Ancestry Page** [[DATABASE/ancestry/Sylph|Sylph]]
+You are descended from [[DATABASE/monsterfamily/Elemental, Air|air elementals]] or were born under the element's influence. You gain the sylph trait, in addition to the traits from your ancestry. You also gain low-light vision or darkvision if your ancestry already has low-light vision. You can choose from sylph feats and feats from your ancestry whenever you gain an ancestry feat.

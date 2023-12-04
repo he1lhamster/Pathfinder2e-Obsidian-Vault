@@ -11,6 +11,7 @@ name: Blazing Aura
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -27,12 +28,12 @@ type: Feat
 # Blazing Aura <span class="action-icon">5</span> <span class="item-type">Feat 17</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Evocation</span><span class="item-trait">Fire</span><span class="item-trait">Ifrit</span><span class="item-trait">Primal</span>
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 **Frequency** once per day
 **Trigger** Your turn begins.
 
 ---
-You explode in flame. Enemies in a 20-foot emanation take 7d6 fire damage (basic Reflex save using your class DC or spell DC, whichever is higher). Allies in the area are [[Quickened]] for 1 round and can use the additional action to Strike or Stride.
+You explode in flame. Enemies in a 20-foot emanation take 7d6 fire damage (basic Reflex save using your class DC or spell DC, whichever is higher). Allies in the area are [[DATABASE/condition/Quickened|quickened]] for 1 round and can use the additional action to Strike or Stride.
 
 ## Traits
 
@@ -50,7 +51,7 @@ Effects with the fire trait deal fire damage or either conjure or manipulate fir
 
 **Ifrit:**
 
-Ifrits are planar scions descended from [[Efreeti]].
+Ifrits are planar scions descended from [[DATABASE/monster/Efreeti|efreet]].
 
 **Primal:**
 

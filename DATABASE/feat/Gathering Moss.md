@@ -11,6 +11,7 @@ name: Gathering Moss
 prerequisite: '[[DATABASE/feat/Stalwart Defender Dedication|Stalwart Defender Dedication]]'
 rarity: Common
 requirement: You are in Tenacious Stance.
+rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Highhelm|Highhelm]]'
 subcategory: null
@@ -25,14 +26,14 @@ type: Feat
 # Gathering Moss <span class="action-icon">4</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Magical</span><span class="item-trait">Necromancy</span>
-**Source** [[Highhelm]]
-**Archetype** [[Stalwart Defender]]
+**Source** [[DATABASE/source/Highhelm|Highhelm]]
+**Archetype** [[DATABASE/archetype/Stalwart Defender|Stalwart Defender]]
 **Frequency** once per day
-**Prerequisites** [[Stalwart Defender Dedication]]
+**Prerequisites** [[DATABASE/feat/Stalwart Defender Dedication|Stalwart Defender Dedication]]
 **Requirements** You are in Tenacious Stance.
 
 ---
-By rooting yourself in place, you are able to focus your body's natural healing to work faster. You gain [[Fast Healing]] equal to your level. This fast healing remains for 1 minute or until you end your Tenacious Stance, whichever comes first.
+By rooting yourself in place, you are able to focus your body's natural healing to work faster. You gain [[DATABASE/monsterability/Fast Healing|fast healing]] equal to your level. This fast healing remains for 1 minute or until you end your Tenacious Stance, whichever comes first.
 
 ## Traits
 

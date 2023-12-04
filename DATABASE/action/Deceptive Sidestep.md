@@ -8,6 +8,7 @@ name: Deceptive Sidestep
 rarity: Common
 requirement: "You\u2019re in a duel, you\u2019re trained in Deception, and you rolled\
   \ a Deception check for initiative thisround."
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
@@ -19,7 +20,7 @@ type: Action
 # Deceptive Sidestep <span class="action-icon">5</span>
 
 <span class="item-trait">Misfortune</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Trigger** An opponent hits, but does not critically hit you, with a melee Strike.
 **Requirements** You’re in a duel, you’re trained in Deception, and you rolled a Deception check for initiative this round.
 

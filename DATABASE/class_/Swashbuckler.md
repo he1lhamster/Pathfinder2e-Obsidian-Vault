@@ -15,6 +15,7 @@ id: '15'
 name: Swashbuckler
 perception_proficiency: Expert
 rarity: Common
+rus_type_level: null
 skill_proficiency:
 - Trained in Acrobatics
 - Trained in one skill determined by your swashbuckler's style
@@ -26,7 +27,7 @@ type: Class
 
 ---
 # Swashbuckler
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 _Many warriors rely on brute force, weighty armor, or cumbersome weapons. For you, battle is a dance where you move among foes with style and grace. You dart among combatants with flair and land powerful finishing moves with a flick of the wrist and a flash of the blade, all while countering attacks with elegant ripostes that keep enemies off balance. Harassing and thwarting your foes lets you charm fate and cheat death time and again with aplomb and plenty of flair._
 **Key Ability: DEXTERITY**
 At 1st level, your class gives you an ability boost to Dexterity.
@@ -86,7 +87,7 @@ Expert in Will
 
 ## Skills
 
-Trained in [[Acrobatics]]
+Trained in [[DATABASE/skill/Acrobatics|Acrobatics]]
  Trained in one skill determined by your swashbuckler's style
  Trained in a number of additional skills equal to 4 plus your Intelligence modifier
 
@@ -107,30 +108,29 @@ Trained in swashbuckler class DC
 
 # Class Features
 
-You gain these features as a Swashbuckler. Abilities gained at higher levels list the levels at which you gain them next to the features' names.
-
-|   Your Level | Class Features                                                                                                                             |
-|-------------:|:-------------------------------------------------------------------------------------------------------------------------------------------|
-|            1 | Ancestry and background, initial proficiencies, panache, swashbuckler’s style, precise strike (2d6), confident finisher, swashbuckler feat |
-|            2 | Skill feat, swashbuckler feat                                                                                                              |
-|            3 | General feat, great fortitude, opportune riposte, skill increase, stylish trick, vivacious speed +10 feet                                  |
-|            4 | Skill feat, swashbuckler feat                                                                                                              |
-|            5 | Ability boosts, ancestry feat, precise strike (3d6), skill increase, weapon expertise                                                      |
-|            6 | Skill feat, swashbuckler feat                                                                                                              |
-|            7 | Evasion, general feat, skill increase, stylish trick, vivacious speed +15 feet, weapon specialization                                      |
-|            8 | Skill feat, swashbuckler feat                                                                                                              |
-|            9 | Ancestry feat, exemplary finisher, precise strike (4d6), skill increase, swashbuckler expertise                                            |
-|           10 | Ability boosts, skill feat, swashbuckler feat                                                                                              |
-|           11 | Continuous flair, general feat, skill increase, vigilant senses, vivacious speed +20 feet                                                  |
-|           12 | Skill feat, swashbuckler feat                                                                                                              |
-|           13 | Ancestry feat, improved evasion, light armor expertise, precise strike (5d6), skill increase, weapon mastery                               |
-|           14 | Skill feat, swashbuckler feat                                                                                                              |
-|           15 | Ability boosts, general feat, greater weapon specialization, keen flair, skill increase, stylish trick, vivacious speed +25 feet           |
-|           16 | Skill feat, swashbuckler feat                                                                                                              |
-|           17 | Ancestry feat, precise strike (6d6), resolve, skill increase                                                                               |
-|           18 | Skill feat, swashbuckler feat                                                                                                              |
-|           19 | Eternal confidence, general feat, light armor mastery, skill increase, vivacious speed +30 feet                                            |
-|           20 | Ability boosts, skill feat, swashbuckler feat                                                                                              |
+You gain these features as a Swashbuckler. Abilities gained at higher levels list the levels at which you gain them next to the features' names.| 0 | 1 |
+|:-----------|:-------------------------------------------------------------------------------------------------------------------------------------------|
+| Your Level | Class Features |
+| 1 | Ancestry and background, initial proficiencies, panache, swashbuckler’s style, precise strike (2d6), confident finisher, swashbuckler feat |
+| 2 | Skill feat, swashbuckler feat |
+| 3 | General feat, great fortitude, opportune riposte, skill increase, stylish trick, vivacious speed +10 feet |
+| 4 | Skill feat, swashbuckler feat |
+| 5 | Ability boosts, ancestry feat, precise strike (3d6), skill increase, weapon expertise |
+| 6 | Skill feat, swashbuckler feat |
+| 7 | Evasion, general feat, skill increase, stylish trick, vivacious speed +15 feet, weapon specialization |
+| 8 | Skill feat, swashbuckler feat |
+| 9 | Ancestry feat, exemplary finisher, precise strike (4d6), skill increase, swashbuckler expertise |
+| 10 | Ability boosts, skill feat, swashbuckler feat |
+| 11 | Continuous flair, general feat, skill increase, vigilant senses, vivacious speed +20 feet |
+| 12 | Skill feat, swashbuckler feat |
+| 13 | Ancestry feat, improved evasion, light armor expertise, precise strike (5d6), skill increase, weapon mastery |
+| 14 | Skill feat, swashbuckler feat |
+| 15 | Ability boosts, general feat, greater weapon specialization, keen flair, skill increase, stylish trick, vivacious speed +25 feet |
+| 16 | Skill feat, swashbuckler feat |
+| 17 | Ancestry feat, precise strike (6d6), resolve, skill increase |
+| 18 | Skill feat, swashbuckler feat |
+| 19 | Eternal confidence, general feat, light armor mastery, skill increase, vivacious speed +30 feet |
+| 20 | Ability boosts, skill feat, swashbuckler feat |
 
 ## Ancestry and Background
 
@@ -143,7 +143,7 @@ At 1st level, you gain a number of proficiencies that represent your basic train
 ## Panache
 
 You care as much about the way you accomplish something as whether you actually accomplish it in the first place. When you perform an action with particular bravado, you can leverage this moment of verve to perform spectacular, deadly maneuvers. This state of flair is called panache, and you are either in a state of panache or you are not.
- You gain panache by successfully performing the skill check associated with specific actions that have a bit of flair, including [[Tumble Through]] and additional actions determined by your swashbuckler's style. At the GM's discretion, after succeeding at a check to perform a particularly daring action, such as swinging on a chandelier or sliding down a drapery, you also gain panache if your result is high enough (typically the very hard DC for your level, but the GM can choose a different threshold).
+ You gain panache by successfully performing the skill check associated with specific actions that have a bit of flair, including [[DATABASE/action/Tumble Through|Tumble Through]] and additional actions determined by your swashbuckler's style. At the GM's discretion, after succeeding at a check to perform a particularly daring action, such as swinging on a chandelier or sliding down a drapery, you also gain panache if your result is high enough (typically the very hard DC for your level, but the GM can choose a different threshold).
  While you have panache, you gain a +5-foot status bonus to your Speeds and gain a +1 circumstance bonus to checks to Tumble Through or to take any actions that give you panache due to your style. The precise strike class feature also causes you to deal extra precision damage while you have panache. Powerful finisher actions, including Confident Finisher can be used only while you have panache and cause you to lose your panache. 
 Normally, you gain and use panache only in combat encounters; when an encounter ends, you lose panache.
 
@@ -161,10 +161,10 @@ You strike with flair. When you have panache and you Strike with an agile or fin
 
 You gain an elegant finishing attack you can make when you have panache. You gain the Confident Finisher action.
 
-### [[Confident Finisher]] <span class="action-icon">1</span>
+### [[DATABASE/action/Confident Finisher|Confident Finisher]] <span class="action-icon">1</span>
 
 <span class="item-trait">Finisher</span><span class="item-trait">Swashbuckler</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
 You make an incredibly graceful attack, piercing your foe's defenses. Make a Strike with a weapon or unarmed attack that would apply your precise strike damage, with the following failure effect.
@@ -190,14 +190,14 @@ Your physique is incredibly hardy, granting you increased endurance. Your profic
 
 You turn the tables on foes who fumble, capitalizing immediately on their mistake. You gain the Opportune Riposte reaction.
 
-### [[Opportune Riposte]] <span class="action-icon">5</span>
+### [[DATABASE/action/Opportune Riposte|Opportune Riposte]] <span class="action-icon">5</span>
 
 <span class="item-trait">Swashbuckler</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Trigger** A foe within your reach critically fails a Strike against you.
 
 ---
-You take advantage of an opening from your enemy's fumbled attack. You either make a melee Strike against the triggering foe or attempt to [[Disarm]] it of the weapon it used for the Strike.
+You take advantage of an opening from your enemy's fumbled attack. You either make a melee Strike against the triggering foe or attempt to [[DATABASE/action/Disarm|Disarm]] it of the weapon it used for the Strike.
 
 ## Skill Increases<span class="item-type">Level 3</span>
 
@@ -206,7 +206,7 @@ At 3rd level and every 2 levels thereafter, you gain a skill increase. You can u
 
 ## Stylish Tricks<span class="item-type">Level 3</span>
 
-At 3rd level, 7th level, and 15th level, you gain a skill feat. This feat must be for [[Acrobatics]] or the trained skill from your swashbuckler's style.
+At 3rd level, 7th level, and 15th level, you gain a skill feat. This feat must be for [[DATABASE/skill/Acrobatics|Acrobatics]] or the trained skill from your swashbuckler's style.
 
 ## Vivacious Speed<span class="item-type">Level 3</span>
 
@@ -276,7 +276,7 @@ You've steeled your mind with resolve. Your proficiency rank for Will saves incr
 ## Eternal Confidence<span class="item-type">Level 19</span>
 
 As a swashbuckler at the peak of your skill, you swell with confidence and bravado in every attack. Your proficiency rank for your swashbuckler class DC increases to master.
- When you Strike as part of a finisher or Opportune Riposte, you can give the Strike the failure effect from the Confident Finisher action, including the increase from [[Precise Finisher]] if you have that feat. You can do so only if the Strike uses a weapon or unarmed attack that you could use for Confident Finisher.
+ When you Strike as part of a finisher or Opportune Riposte, you can give the Strike the failure effect from the Confident Finisher action, including the increase from [[DATABASE/feat/Precise Finisher|Precise Finisher]] if you have that feat. You can do so only if the Strike uses a weapon or unarmed attack that you could use for Confident Finisher.
 
 ## Light Armor Mastery<span class="item-type">Level 19</span>
 

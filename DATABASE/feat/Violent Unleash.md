@@ -11,6 +11,7 @@ name: Violent Unleash
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -26,11 +27,11 @@ type: Feat
 # Violent Unleash <span class="action-icon">4</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Evocation</span><span class="item-trait">Mindshift</span><span class="item-trait">Occult</span><span class="item-trait">Psychic</span>
-**Source** [[Dark Archive]]
-**Trigger** You [[Unleash Psyche]].
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Trigger** You [[DATABASE/action/Unleash Psyche|Unleash your Psyche]].
 
 ---
-The force of your mind unleashing itself wracks your enemies with a violent shockwave. You deal 2d6 force damage to all creatures in a 20-foot emanation, with a basic Reflex save. This explosion is taxing, making you [[Stunned]].
+The force of your mind unleashing itself wracks your enemies with a violent shockwave. You deal 2d6 force damage to all creatures in a 20-foot emanation, with a basic Reflex save. This explosion is taxing, making you [[DATABASE/condition/Stunned|stunned 1]].
  At 5th level and every 2 levels thereafter, the damage increases by 1d6.
 
 ## Traits

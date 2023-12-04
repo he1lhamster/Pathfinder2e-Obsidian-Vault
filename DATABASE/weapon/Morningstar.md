@@ -17,6 +17,7 @@ name: Morningstar
 price: 1 gp
 range: null
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Versatile|Versatile P]]'
@@ -29,11 +30,11 @@ weapon_type: Melee
 # Morningstar
 
 <span class="item-trait">Versatile P</span>
-**Source** [[Core Rulebook]] 
-**Favored Weapon** [[Ayrzul]], [[Milani]], [[The Godclaw]], [[Tlehar]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Favored Weapon** [[DATABASE/deity/Ayrzul|Ayrzul]], [[DATABASE/deity/Milani|Milani]], [[DATABASE/deity/The Godclaw|The Godclaw]], [[DATABASE/deity/Tlehar|Tlehar]]
 **Price** 1 gp; **Damage** 1d6 B; **Bulk** 1
 **Hands** 1
-**Type** Melee; **Category** Simple; **Group** [[Club]]
+**Type** Melee; **Category** Simple; **Group** [[DATABASE/weapongroup/Club|Club]]
 
 ---
 This weapon has a short shaft ending in a metal ball studded with spikes.
@@ -46,10 +47,10 @@ A versatile weapon can be used to deal a different type of damage than that list
 
 ## Critical Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
 **Club**: You knock the target away from you up to 10 feet (you choose the distance). This is forced movement.
 
 ## Specific Magic Weapons
 
-[[Ankylostar]], [[Vampire-Fang Morningstar]]
+[[DATABASE/equipment/Ankylostar|Ankylostar]], [[DATABASE/equipment/Vampire-Fang Morningstar|Vampire-Fang Morningstar]]

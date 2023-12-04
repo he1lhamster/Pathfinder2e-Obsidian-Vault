@@ -3,6 +3,7 @@ creature_family: Charau-ka
 id: '109'
 name: Charau-ka
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 trait: null
 type: Creature Family
@@ -10,13 +11,13 @@ type: Creature Family
 ---
 # Charau-ka
 
-**Source** [[The Mwangi Expanse]] 
-Legend tells that charau-ka share ancestry with the demon lord Angazhan, who transformed the dead bodies of humans who waged war against his cult, causing them to rise as the first of the mandrill-like humanoids. Though long unproven, rumors persist that charau-ka priests have perfected a hideous ritual that forces the slain to reincarnate as new charau-ka in honor of this ancient tale. Other stories say that powerful altars devoted to Angazhan contain this power, and that conducting ritual sacrifices before these magical artifacts causes the spirits of the dead to return to life as violent devotees of [[Angazhan]], the master of those who revel in savagery and destruction.
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]] 
+Legend tells that charau-ka share ancestry with the demon lord Angazhan, who transformed the dead bodies of humans who waged war against his cult, causing them to rise as the first of the mandrill-like humanoids. Though long unproven, rumors persist that charau-ka priests have perfected a hideous ritual that forces the slain to reincarnate as new charau-ka in honor of this ancient tale. Other stories say that powerful altars devoted to Angazhan contain this power, and that conducting ritual sacrifices before these magical artifacts causes the spirits of the dead to return to life as violent devotees of [[DATABASE/deity/Angazhan|Angazhan]], the master of those who revel in savagery and destruction.
  The largest charau-ka stronghold in the Mwangi Expanse is the city of Usaro (see _Lost Omens: Mwangi Expanse_ page 266), located on the shores of Lake Ocota. Though the death of their Gorilla King has led to political turmoil, the charau-ka will happily unite to kidnap or murder any outsiders in the area.
 
 ### Members
 
-[[Charau-ka Acolyte of Angazhan]] (Creature 3), [[Charau-ka Butcher]] (Creature 6), [[Charau-ka Warrior]] (Creature 1)
+[[DATABASE/monster/Charau-ka Acolyte of Angazhan|Charau-ka Acolyte of Angazhan]] (Creature 3), [[DATABASE/monster/Charau-ka Butcher|Charau-ka Butcher]] (Creature 6), [[DATABASE/monster/Charau-ka Warrior|Charau-ka Warrior]] (Creature 1)
 
 ###  A Fragmented Nation
 
@@ -28,4 +29,4 @@ Charau-kas generally dwell in small tribes consisting of a few dozen members. Th
 
 ###  Kibwe Refugees
 
-Not every charau-ka follows [[Angazhan]] or intends to slaughter every creature they meet. When Usaro collapsed into bloody chaos, a sizable number of charau-ka fled east to the city of Kibwe where they were welcomed with surprisingly few qualms. Though these charau-ka are rarely altruistic, they are willing enough to cooperate with other ancestries out of self-interest.
+Not every charau-ka follows [[DATABASE/deity/Angazhan|Angazhan]] or intends to slaughter every creature they meet. When Usaro collapsed into bloody chaos, a sizable number of charau-ka fled east to the city of Kibwe where they were welcomed with surprisingly few qualms. Though these charau-ka are rarely altruistic, they are willing enough to cooperate with other ancestries out of self-interest.

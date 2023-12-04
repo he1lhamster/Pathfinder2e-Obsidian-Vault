@@ -11,6 +11,7 @@ name: Wall Jump
 prerequisite: Master in [[DATABASE/skill/Athletics|Athletics]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: athletics
@@ -24,8 +25,8 @@ type: Feat
 # Wall Jump <span class="item-type">Feat 7</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** master in [[Athletics]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** master in [[DATABASE/skill/Athletics|Athletics]]
 
 ---
 You can use your momentum from a jump to propel yourself off a wall. If you’re adjacent to a wall at the end of a jump (whether performing a High Jump, Long Jump, or Leap), you don’t fall as long as your next action is another jump. Furthermore, since your previous jump gives you momentum, you can use High Jump or Long Jump as a single action, but you don’t get to Stride as part of the activity.
@@ -33,7 +34,7 @@ You can use your momentum from a jump to propel yourself off a wall. If you’re
 
 ## Wall Jump Leads To...
 
-[[Ricocheting Leap]]
+[[DATABASE/feat/Ricocheting Leap|Ricocheting Leap]]
 
 ## Traits
 

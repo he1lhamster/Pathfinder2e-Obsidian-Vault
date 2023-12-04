@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 size: null
@@ -54,10 +55,10 @@ weapon_type: null
 # Soft-Landing<span class="item-type">Item 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Abjuration</span><span class="item-trait">Magical</span>
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 60 gp
 **Usage** applied to boots, cape, cloak, or umbrella; **Bulk** —
 
 ---
 This item creates a small cushion of air that catches you when you fall. You treat falls as 10 feet shorter.
-**Activate** <span class="action-icon">5</span> envision **Frequency** once per day; **Trigger** You begin to fall; **Effect** You gain the effects of [[Feather Fall]] for 1 minute or until you stop falling, whichever comes first.
+**Activate** <span class="action-icon">5</span> envision **Frequency** once per day; **Trigger** You begin to fall; **Effect** You gain the effects of [[DATABASE/spell/Feather Fall|feather fall]] for 1 minute or until you stop falling, whichever comes first.

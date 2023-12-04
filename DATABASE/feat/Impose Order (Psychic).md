@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/psychicsubconsciousmind/Precise Discipline|precise dis
   subconscious mind'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -26,8 +27,8 @@ type: Feat
 # Impose Order (Psychic) <span class="action-icon">1</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Fortune</span><span class="item-trait">Psyche</span><span class="item-trait">Psychic</span>
-**Source** [[Dark Archive]]
-**Prerequisites** [[Precise Discipline]] subconscious mind
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Prerequisites** [[DATABASE/psychicsubconsciousmind/Precise Discipline|precise discipline]] subconscious mind
 
 ---
 You bring discipline to your mind and magic, ensuring that you don't under-perform. Until the end of your turn, instead of rolling dice for damage, count each damage die as average damage rounded up (3 for d4, 4 for d6, 5 for d8, 6 for d10, and 7 for d12).

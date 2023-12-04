@@ -11,6 +11,7 @@ name: Disarming Assault
 prerequisite: Trained in [[DATABASE/skill/Athletics|Athletics]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,11 +26,11 @@ type: Feat
 # Disarming Assault <span class="action-icon">1</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Barbarian</span><span class="item-trait">Flourish</span><span class="item-trait">Rage</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** trained in [[Athletics]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** trained in [[DATABASE/skill/Athletics|Athletics]]
 
 ---
-You attack with enough force to knock the weapon out of your foe's hands. Make a melee Strike; if you hit, you can attempt an [[Athletics]] check to [[Disarm]] that foe.
+You attack with enough force to knock the weapon out of your foe's hands. Make a melee Strike; if you hit, you can attempt an [[DATABASE/skill/Athletics|Athletics]] check to [[DATABASE/action/Disarm|Disarm]] that foe.
 
 ## Traits
 

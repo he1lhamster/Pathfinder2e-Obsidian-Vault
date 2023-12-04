@@ -79,22 +79,22 @@ wisdom: '+0'
 # Quarry Construct
 
 This creature did not include a description.
-**Recall Knowledge - Construct ([[Arcana]], [[Crafting]])**: DC 16
+**Recall Knowledge - Construct ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Crafting|Crafting]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
 # Quarry Construct<span class="item-type">Creature 2</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Construct</span><span class="item-trait">Earth</span><span class="item-trait">Mindless</span>
-**Source** [[Pathfinder 187. The Seventh Arch]]
-**Perception** +8; [[Darkvision]]
-**Skills** [[Athletics]] +9
+**Source** [[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh Arch]]
+**Perception** +8; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +9
 **Str** +4, **Dex** -2, **Con** +5, **Int** -5, **Wis** +0, **Cha** -5
-**Items** [[Warhammer]]
+**Items** [[DATABASE/weapon/Warhammer|warhammer]]
 
 ---
 **AC** 18 (14 when broken, construct armor); **Fort** +11, **Ref** +4, **Will** +4
-**HP** 23; **Hardness** 4; **Immunities** bleed, death effects, disease, [[Doomed]], [[Drained]], [[Fatigued]], healing, mental, necromancy, nonlethal attacks, [[Paralyzed]], poison, [[Sickened]], [[Unconscious]]
+**HP** 23; **Hardness** 4; **Immunities** bleed, death effects, disease, [[DATABASE/condition/Doomed|doomed]], [[DATABASE/condition/Drained|drained]], [[DATABASE/condition/Fatigued|fatigued]], healing, mental, necromancy, nonlethal attacks, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Sickened|sickened]], [[DATABASE/condition/Unconscious|unconscious]]
 <span class="in-box-ability">**Construct Armor** Like normal objects, a quarry construct has Hardness. This Hardness reduces any damage it takes by an amount equal to the Hardness. Once a quarry construct is reduced to less than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks and its Armor Class is reduced to 14.</span>
 
 ---

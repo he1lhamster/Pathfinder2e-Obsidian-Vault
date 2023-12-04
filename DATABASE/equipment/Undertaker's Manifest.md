@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -56,7 +57,7 @@ weapon_type: null
 # Undertaker's Manifest<span class="item-type">Item 6</span>
 
 <span class="item-trait">Darkness</span><span class="item-trait">Evocation</span><span class="item-trait">Grimoire</span><span class="item-trait">Magical</span><span class="item-trait">Shadow</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 220 gp
 **Bulk** L
 

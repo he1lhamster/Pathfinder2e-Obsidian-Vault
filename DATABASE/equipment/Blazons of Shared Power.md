@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Blazons of Shared Power<span class="item-type">Item 3+</span>
 
 <span class="item-trait">Evocation</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Usage** worn and attached to two weapons (see below); **Bulk** —
 
 ---
@@ -62,11 +63,11 @@ These brass emblems come in a variety of designs, usually customized to the purc
 
 ## Blazons of Shared Power<span class="item-type">Item 3</span>
 
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 52 gp
 
 ## Blazons of Shared Power (Greater)<span class="item-type">Item 11</span>
 
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 1,350 gp
 A set of _greater blazons of shared power_ also replicates property runes from the primary weapon, so long as the secondary weapon meets all the prerequisites for a given rune and isn't a specific weapon. The secondary weapon gains the benefits of those runes. All of its own runes are suppressed. When you invest the blazons, you can elect for them to transfer only fundamental runes, in which case they function as standard _blazons of shared power_.

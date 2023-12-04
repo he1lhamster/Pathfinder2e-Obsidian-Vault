@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Brine May|Brine May]] , [[DATABASE/feat/Snow May|
   , [[DATABASE/feat/Veil May|Veil May]] , or [[DATABASE/feat/Virga May|Virga May]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -26,22 +27,22 @@ type: Feat
 # Invoke the Elements <span class="action-icon">2</span> <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Changeling</span><span class="item-trait">Evocation</span><span class="item-trait">Primal</span>
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 **Frequency** once per day
-**Prerequisites** [[Brine May]], [[Snow May]], [[Veil May]], or [[Virga May]]
+**Prerequisites** [[DATABASE/feat/Brine May|Brine May]], [[DATABASE/feat/Snow May|Snow May]], [[DATABASE/feat/Veil May|Veil May]], or [[DATABASE/feat/Virga May|Virga May]]
 
 ---
-You summon an aura of shimmering heat, flurrying snow, crashing waves, or swirling wind and lightning. For 1 minute, you gain [[Concealed]] against creatures more than 5 feet away, and any creature that ends its turn within 5 feet of you suffers 1d12 damage (basic Reflex save using your class DC or spell DC, whichever is higher). At 13th and 17th level, this damage increases by 1d12. A veil may changeling deals fire damage, a snow may changeling deals cold damage, a brine may changeling deals bludgeoning damage and the effect gains the water trait, and a virga may changeling deals electricity damage.
+You summon an aura of shimmering heat, flurrying snow, crashing waves, or swirling wind and lightning. For 1 minute, you gain [[DATABASE/condition/Concealed|concealment]] against creatures more than 5 feet away, and any creature that ends its turn within 5 feet of you suffers 1d12 damage (basic Reflex save using your class DC or spell DC, whichever is higher). At 13th and 17th level, this damage increases by 1d12. A veil may changeling deals fire damage, a snow may changeling deals cold damage, a brine may changeling deals bludgeoning damage and the effect gains the water trait, and a virga may changeling deals electricity damage.
 
 ## Invoke the Elements Leads To...
 
-[[Stormy Heart]]
+[[DATABASE/feat/Stormy Heart|Stormy Heart]]
 
 ## Traits
 
 **Changeling:**
 
-A creature with this trait has the changeling versatile heritage. Changelings are the children of [[Hag]] and members of other humanoid ancestries. An ability with this trait can be used or selected only by changelings.
+A creature with this trait has the changeling versatile heritage. Changelings are the children of [[DATABASE/monsterfamily/Hag|hags]] and members of other humanoid ancestries. An ability with this trait can be used or selected only by changelings.
 
 **Evocation:**
 

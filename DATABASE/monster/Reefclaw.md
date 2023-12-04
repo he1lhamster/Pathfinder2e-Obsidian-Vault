@@ -99,17 +99,17 @@ Reefclaws are aquatic monsters that resemble huge shrimp or lobsters. As one mig
  While reefclaws can’t speak, they are intelligent enough to understand the local language of humanoids near their hunting grounds. The creatures sometimes listen to conversations, either to gain intelligence on the best place to ambush aquatic or land-dwelling prey, or merely for entertainment value—reefclaws are particularly fond of listening to people with high-pitched voices. Reefclaws are usually solitary hunters, but small swarms of female reefclaws have been known to gather around a single male for mating purposes or together for the communal raising of their broods. In the latter case, the females will perform widespread hunts in order to bring back a large enough bounty to feed their young. Such hunting parties are extremely dangerous—they’ve been known to tip over small flshing boats and attack those who fall overboard.
  Once a reefclaw has decided upon a course of action, it follows through even if doing so spells its own end. More than one reefclaw survivor has said that the creature released its bone-crushing grasp only after its brains were leaking from its broken skull, and even then the reefclaw was able to perform a terrible last slash as part of its dying breath. During mating season, female reefclaws are often a little more pragmatic and release their prey before endangering themselves and their offspring.
  Despite their intelligence and the accompanying moral quandaries, reefclaws frequently find their way onto the dinner plates of land-dwelling hunters such as humans and hobgoblins. According to those who have a taste for reefclaw flesh, the meat is either delectably sweet (for reefclaws raised in colder waters) or slightly tangy (in the case of warm-water reefclaws). Most civilized people who know of reefclaws’ intellect find the act of eating them distasteful, but this does not dissuade unscrupulous nobles in coastal regions, for whom reefclaw meat is a delicacy well worth the expense. Likewise, fisherfolk whose focus is on the bottom line of their ledgers are more than willing to hunt the dangerous creatures—or, even better, hire out the task to naive adventurers.
-**Recall Knowledge - Aberration ([[Occultism]])**: DC 15
+**Recall Knowledge - Aberration ([[DATABASE/skill/Occultism|Occultism]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Reefclaw<span class="item-type">Creature 1</span>
 
 <span class="trait-alignment item-trait">CN</span><span class="trait-size item-trait">Small</span><span class="item-trait">Aberration</span><span class="item-trait">Aquatic</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +8; darkvision
-**Languages** [[Common]]; (can’t speak any language)
-**Skills** [[Acrobatics]] +7, [[Athletics]] +4 (+8 to Swim)
+**Languages** [[DATABASE/language/Common|Common]]; (can’t speak any language)
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +7, [[DATABASE/skill/Athletics|Athletics]] +4 (+8 to Swim)
 **Str** +1, **Dex** +4, **Con** +2, **Int** -3, **Wis** +1, **Cha** +1
 
 ---
@@ -119,7 +119,7 @@ Reefclaws are aquatic monsters that resemble huge shrimp or lobsters. As one mig
 
 ---
 **Speed** 5 feet, swim 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +9 [+4/-1] (finesse), **Damage** 1d6+1 slashing plus reefclaw venom and Grab</span><span class="in-box-ability">**[[Constrict]]** <span class="action-icon">1</span> 1d6 bludgeoning, DC 17</span><span class="in-box-ability">**Reefclaw Venom** (poison) **Saving Throw** DC 17 Fortitude; **Maximum Duration** 4 rounds; **Stage 1** 1d6 poison damage and [[Enfeebled]] (1 round), **Stage 2** 1d6 poison damage and [[Enfeebled]] (1 round).</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +9 [+4/-1] (finesse), **Damage** 1d6+1 slashing plus reefclaw venom and Grab</span><span class="in-box-ability">**[[DATABASE/monsterability/Constrict|Constrict]]** <span class="action-icon">1</span> 1d6 bludgeoning, DC 17</span><span class="in-box-ability">**Reefclaw Venom** (poison) **Saving Throw** DC 17 Fortitude; **Maximum Duration** 4 rounds; **Stage 1** 1d6 poison damage and [[DATABASE/condition/Enfeebled|enfeebled 1]] (1 round), **Stage 2** 1d6 poison damage and [[DATABASE/condition/Enfeebled|enfeebled 2]] (1 round).</span>
 
 ###  Eating Reefclaws
 

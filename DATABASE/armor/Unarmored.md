@@ -12,6 +12,7 @@ level: '0'
 name: Unarmored
 price: null
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 speed_penalty: null
 strength: null
@@ -22,7 +23,7 @@ type: Armor
 ---
 # Unarmored
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** —; **AC Bonus** +0; **Dex Cap** —; **Check Penalty** —; **Speed Penalty** —
 **Strength** —; **Bulk** —; **Category** Unarmored; **Group** —
 

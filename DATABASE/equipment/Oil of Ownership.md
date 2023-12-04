@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Oil of Ownership<span class="item-type">Item 3+</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Magical</span><span class="item-trait">Oil</span><span class="item-trait">Transmutation</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Usage** held in 2 hands; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
@@ -64,21 +65,21 @@ You can coat objects of 6 Bulk or less with _oil of ownership_, or “red-handed
 
 ## Oil of Ownership (Lesser)<span class="item-type">Item 3</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 8 gp
 **Bulk** L
 The stain lasts 24 hours.
 
 ## Oil of Ownership (Moderate)<span class="item-type">Item 7</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 55 gp
 **Bulk** L
 The stain lasts 1 week.
 
 ## Oil of Ownership (Greater)<span class="item-type">Item 11</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 210 gp
 **Bulk** L
 The stain lasts 1 month.

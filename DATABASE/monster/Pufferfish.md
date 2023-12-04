@@ -67,16 +67,16 @@ wisdom: '+1'
 # Pufferfish
 
 The pufferfish defends itself by filling its flexible body with air or water to extend a number of spikes that otherwise lie flat against its skin. While normally quite slow and deliberate, the pufferfish can contort its body to gain a sudden burst of speed that can catch predators off guard.
-**Recall Knowledge - Animal ([[Nature]])**: DC 13
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 13
 **Unspecific Lore**: DC 11
 **Specific Lore**: DC 8
 
 # Pufferfish<span class="item-type">Creature -1</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Tiny</span><span class="item-trait">Animal</span><span class="item-trait">Aquatic</span>
-**Source** [[Bestiary 3]]
-**Perception** +4; [[Low-Light Vision]]
-**Skills** [[Acrobatics]] +2, [[Athletics]] +4
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
+**Perception** +4; [[DATABASE/monsterability/Low-Light Vision|low-light vision]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +2, [[DATABASE/skill/Athletics|Athletics]] +4
 **Str** +2, **Dex** +0, **Con** +2, **Int** -5, **Wis** +1, **Cha** -2
 
 ---
@@ -86,7 +86,7 @@ The pufferfish defends itself by filling its flexible body with air or water to 
 
 ---
 **Speed** swim 15 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> bite +6 [+1/-4], **Damage** 1d6+1 piercing plus pufferfish venom</span><span class="in-box-ability">**Inflating Rush** <span class="action-icon">2</span> The pufferfish Swims up to its Speed and then inflates. Each creature within 5 feet of its space at the end of its movement must succeed at a DC 13 Reflex save or take 1 piercing damage and be exposed to pufferfish venom.</span><span class="in-box-ability">**Pufferfish Venom** (incapacitation, poison) **Saving Throw** Fortitude DC 16; **Maximum Duration** 24 hours; **Stage 1** 1d4 poison damage (1 round); **Stage 2** 1d4 poison damage and [[Flat-Footed]] (1 round); **Stage 3** 1d4 poison damage and [[Paralyzed]] (1 round); **Stage 4** 1d4 poison damage and paralyzed for 2d10 hours (1 round)</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> bite +6 [+1/-4], **Damage** 1d6+1 piercing plus pufferfish venom</span><span class="in-box-ability">**Inflating Rush** <span class="action-icon">2</span> The pufferfish Swims up to its Speed and then inflates. Each creature within 5 feet of its space at the end of its movement must succeed at a DC 13 Reflex save or take 1 piercing damage and be exposed to pufferfish venom.</span><span class="in-box-ability">**Pufferfish Venom** (incapacitation, poison) **Saving Throw** Fortitude DC 16; **Maximum Duration** 24 hours; **Stage 1** 1d4 poison damage (1 round); **Stage 2** 1d4 poison damage and [[DATABASE/condition/Flat-Footed|flat-footed]] (1 round); **Stage 3** 1d4 poison damage and [[DATABASE/condition/Paralyzed|paralyzed]] (1 round); **Stage 4** 1d4 poison damage and paralyzed for 2d10 hours (1 round)</span>
 
 ###  Peculiar Poison
 

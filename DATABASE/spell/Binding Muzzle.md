@@ -21,6 +21,7 @@ patron_theme: null
 range: 100 feet
 rarity: Rare
 requirement: null
+rus_type_level: null
 saving_throw: Fortitude
 school: Evocation
 source: '[[DATABASE/source/Pathfinder 195. Heavy is the Crown|Pathfinder #195: Heavy
@@ -40,7 +41,7 @@ type: Spell
 # Binding Muzzle<span class="item-type">Spell 2</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Evocation</span><span class="item-trait">Force</span>
-**Source** [[Pathfinder 195. Heavy is the Crown]]
+**Source** [[DATABASE/source/Pathfinder 195. Heavy is the Crown|Pathfinder #195: Heavy is the Crown]]
 **Traditions** arcane, occult
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 100 feet; **Targets** 1 creature

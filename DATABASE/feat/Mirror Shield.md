@@ -11,6 +11,7 @@ name: Mirror Shield
 prerequisite: null
 rarity: Common
 requirement: You have a shield raised.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Mirror Shield <span class="action-icon">5</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Fighter</span>
-**Source** [[Core Rulebook]] 
-**Archetypes** [[Bastion]]*, [[Knight Vigilant]]*
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetypes** [[DATABASE/archetype/Bastion|Bastion]]*, [[DATABASE/archetype/Knight Vigilant|Knight Vigilant]]*
 **Trigger** An opponent casting a spell that targets you critically fails a spell attack roll against your AC.
 **Requirements** You have a shield raised.
 * This archetype offers Mirror Shield at a different level than displayed here.
@@ -39,4 +40,4 @@ This feat can be used for one or more Archetypes in addition to the listed Class
 
 ## Mirror Shield Leads To...
 
-[[Reflecting Riposte]]
+[[DATABASE/feat/Reflecting Riposte|Reflecting Riposte]]

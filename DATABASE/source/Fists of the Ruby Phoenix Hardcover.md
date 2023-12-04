@@ -2,6 +2,7 @@
 id: '193'
 name: Fists of the Ruby Phoenix Hardcover
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -16,4 +17,4 @@ type: Source
 
 ## Feats [6]
 
-[[Jellyfish Stance]], [[Maneuvering Spell]], [[Six Pillars Stance]], [[Sixth Pillar Dedication]], [[Sixth Pillar Mastery]], [[Touch Focus]]
+[[DATABASE/feat/Jellyfish Stance|Jellyfish Stance]], [[DATABASE/feat/Maneuvering Spell|Maneuvering Spell]], [[DATABASE/feat/Six Pillars Stance|Six Pillars Stance]], [[DATABASE/feat/Sixth Pillar Dedication|Sixth Pillar Dedication]], [[DATABASE/feat/Sixth Pillar Mastery|Sixth Pillar Mastery]], [[DATABASE/feat/Touch Focus|Touch Focus]]

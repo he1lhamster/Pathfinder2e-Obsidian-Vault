@@ -78,21 +78,21 @@ wisdom: '+4'
 # Corrupted Priest
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 28
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 28
 **Unspecific Lore**: DC 26
 **Specific Lore**: DC 23
 
 # Corrupted Priest <span class="item-type">Creature 3</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 151. The Show Must Go On]]
-[[Human]] hermit
+**Source** [[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: The Show Must Go On]]
+[[DATABASE/ancestry/Human|Human]] hermit
 **Perception** +11
-**Languages** [[Common]]
-**Skills** [[Diplomacy]] +7, [[Lore]] +8, [[Nature]] +9, [[Religion]] +9, [[Survival]] +9
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Diplomacy|Diplomacy]] +7, [[DATABASE/skill/Lore|Gozreh Lore]] +8, [[DATABASE/skill/Nature|Nature]] +9, [[DATABASE/skill/Religion|Religion]] +9, [[DATABASE/skill/Survival|Survival]] +9
 **Str** +1, **Dex** +0, **Con** +1, **Int** +1, **Wis** +4, **Cha** +2
-**Wild Empathy** The corrupted priest can use [[Diplomacy]] to [[Make an Impression]] on animals and to make very simple [[Request]] of them.
-**Items** wooden [[Religious Symbol]] of [[Gozreh]] defaced with demonic runes, gray robes, [[Leather Armor]], [[Trident]]
+**Wild Empathy** The corrupted priest can use [[DATABASE/skill/Diplomacy|Diplomacy]] to [[DATABASE/action/Make an Impression|Make an Impression]] on animals and to make very simple [[DATABASE/action/Request|Requests]] of them.
+**Items** wooden [[DATABASE/equipment/Religious Symbol|religious symbol]] of [[DATABASE/deity/Gozreh|Gozreh]] defaced with demonic runes, gray robes, [[DATABASE/armor/Leather Armor|leather armor]], [[DATABASE/weapon/Trident|trident]]
 
 ---
 **AC** 17; **Fort** +8, **Ref** +5, **Will** +11
@@ -101,5 +101,5 @@ This creature did not include a description.
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> trident +10 [+5/+0] (fatal d10, thrown 20 feet), **Damage** 2d8+1 piercing</span>**Primal Prepared Spells** DC 20, spell attack +12; **2nd** _[[Barkskin]]_, _[[Flaming Sphere]]_, _[[Summon Elemental]]_; **1st** _[[Fear]]_, _[[Heal]]_, _[[Spider Sting]]_, _[[Summon Animal]]_; **Cantrips** **(2nd)** _[[Light]]_, _[[Produce Flame]]_, _[[Stabilize]]_, _[[Tanglefoot]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> trident +10 [+5/+0] (fatal d10, thrown 20 feet), **Damage** 2d8+1 piercing</span>**Primal Prepared Spells** DC 20, spell attack +12; **2nd** _[[DATABASE/spell/Barkskin|barkskin]]_, _[[DATABASE/spell/Flaming Sphere|flaming sphere]]_, _[[DATABASE/spell/Summon Elemental|summon elemental]]_; **1st** _[[DATABASE/spell/Fear|fear]]_, _[[DATABASE/spell/Heal|heal]]_, _[[DATABASE/spell/Spider Sting|spider sting]]_, _[[DATABASE/spell/Summon Animal|summon animal]]_; **Cantrips** **(2nd)** _[[DATABASE/spell/Light|light]]_, _[[DATABASE/spell/Produce Flame|produce flame]]_, _[[DATABASE/spell/Stabilize|stabilize]]_, _[[DATABASE/spell/Tanglefoot|tanglefoot]]_
 <span class="in-box-ability">**Demonic Strength** Corrupted priests deal an extra 1d8 damage with their tridents, and any trident gains the fatal d10 trait while the priest is using it (both the extra weapon damage die and the fatal trait have already been included above).</span>

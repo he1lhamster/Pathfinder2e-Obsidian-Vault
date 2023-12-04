@@ -75,20 +75,20 @@ wisdom: '+1'
 # Drow Fighter
 
 Drow fighters train to master techniques that inflict deep, bleeding wounds and use poisoned crossbow bolts to exhaust enemies.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 15
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Drow Fighter<span class="item-type">Creature 1</span>
 
 <span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Drow</span><span class="item-trait">Elf</span><span class="item-trait">Humanoid</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +6; darkvision
-**Languages** [[Elven]], [[Undercommon]]
-**Skills** [[Acrobatics]] +7, [[Athletics]] +5, [[Intimidation]] +3, [[Stealth]] +7
+**Languages** [[DATABASE/language/Elven|Elven]], [[DATABASE/language/Undercommon|Undercommon]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +7, [[DATABASE/skill/Athletics|Athletics]] +5, [[DATABASE/skill/Intimidation|Intimidation]] +3, [[DATABASE/skill/Stealth|Stealth]] +7
 **Str** +2, **Dex** +4, **Con** +2, **Int** +0, **Wis** +1, **Cha** +0
-**[[Light Blindness]]**
-**Items** [[Hand Crossbow]], [[Leather Armor]], [[Lethargy Poison]], [[Rapier]]
+**[[DATABASE/monsterability/Light Blindness|Light Blindness]]**
+**Items** [[DATABASE/weapon/Hand Crossbow|hand crossbow (10 bolts)]], [[DATABASE/armor/Leather Armor|leather armor]], [[DATABASE/equipment/Lethargy Poison|lethargy poison (2 doses)]], [[DATABASE/weapon/Rapier|rapier]]
 
 ---
 **AC** 18; **Fort** +7, **Ref** +9, **Will** +4; +1 status to all saves vs. magic, +2 status to all saves vs. mental
@@ -97,7 +97,7 @@ Drow fighters train to master techniques that inflict deep, bleeding wounds and 
 
 ---
 **Speed** 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> rapier +9 [+4/-1] (deadly 1d8, disarm, finesse), **Damage** 1d6+2 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> main-gauche +9 [+5/+1] (agile, disarm, finesse, parry, versatile S), **Damage** 1d4+2 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> hand crossbow +9 [+4/-1] (range increment 60 feet, reload 1), **Damage** 1d6+1 piercing plus [[Lethargy Poison]]</span>**Divine Innate Spells** DC 14; **2nd** _[[Darkness]]_ (at will), _[[Faerie Fire]]_ (at will); **Cantrips** **(2nd)** _[[Dancing Lights]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> rapier +9 [+4/-1] (deadly 1d8, disarm, finesse), **Damage** 1d6+2 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> main-gauche +9 [+5/+1] (agile, disarm, finesse, parry, versatile S), **Damage** 1d4+2 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> hand crossbow +9 [+4/-1] (range increment 60 feet, reload 1), **Damage** 1d6+1 piercing plus [[DATABASE/equipment/Lethargy Poison|lethargy poison]]</span>**Divine Innate Spells** DC 14; **2nd** _[[DATABASE/spell/Darkness|darkness]]_ (at will), _[[DATABASE/spell/Faerie Fire|faerie fire]]_ (at will); **Cantrips** **(2nd)** _[[DATABASE/spell/Dancing Lights|dancing lights]]_
 <span class="in-box-ability">**Quick Draw** <span class="action-icon">1</span> The drow fighter draws a weapon using the Interact action, then Strikes with that weapon.
-</span><span class="in-box-ability">**Skewer** <span class="action-icon">2</span> The drow fighter Strikes with its rapier, and gains a +1 circumstance bonus to the attack roll. A creature damaged by the attack takes 1d6 [[Persistent Damage]].
+</span><span class="in-box-ability">**Skewer** <span class="action-icon">2</span> The drow fighter Strikes with its rapier, and gains a +1 circumstance bonus to the attack roll. A creature damaged by the attack takes 1d6 [[DATABASE/condition/Persistent Damage|persistent bleed damage]].
 </span>

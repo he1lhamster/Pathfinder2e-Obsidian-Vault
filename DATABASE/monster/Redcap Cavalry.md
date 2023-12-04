@@ -80,24 +80,24 @@ wisdom: '+3'
 # Redcap Cavalry
 
 Whomever first imagined putting a fey with a bloodsoaked hat on a giant blood-crazed insect certainly had a sense of humor, but that didn't stop the redcaps from trying to domesticate and train giant bloodseekers. Although a flying cavalry was Queen Frilogarma's goal, her court ended up accidentally inventing redcap racing. In this sport, one redcap with a freshly soaked cap is swung around a racetrack by a giant arm while several other redcaps on giant bloodseekers fly after them. The “bait” redcap doesn't usually survive, but they are the center of attention for about two minutes.
-**Recall Knowledge - Fey ([[Nature]])**: DC 24
+**Recall Knowledge - Fey ([[DATABASE/skill/Nature|Nature]])**: DC 24
 **Unspecific Lore**: DC 22
 **Specific Lore**: DC 19
 
 # Redcap Cavalry<span class="item-type">Creature 6</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Small</span><span class="item-trait">Fey</span>
-**Source** [[Pathfinder 194. Cult of the Cave Worm]]
-**Perception** +14; [[Low-Light Vision]]
-**Languages** [[Common]], [[Sylvan]], [[Undercommon]]
-**Skills** [[Acrobatics]] +14, [[Athletics]] +17, [[Intimidation]] +13, [[Nature]] +13, [[Performance]] +11
+**Source** [[DATABASE/source/Pathfinder 194. Cult of the Cave Worm|Pathfinder #194: Cult of the Cave Worm]]
+**Perception** +14; [[DATABASE/monsterability/Low-Light Vision|low-light vision]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Sylvan|Sylvan]], [[DATABASE/language/Undercommon|Undercommon]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +14, [[DATABASE/skill/Athletics|Athletics]] +17, [[DATABASE/skill/Intimidation|Intimidation]] +13, [[DATABASE/skill/Nature|Nature]] +13, [[DATABASE/skill/Performance|Performance]] +11
 **Str** +5, **Dex** +4, **Con** +2, **Int** +1, **Wis** +3, **Cha** +1
-**Items** iron boots, red cap, [[Scythe]]
+**Items** iron boots, red cap, [[DATABASE/weapon/Scythe|scythe]]
 
 ---
 **AC** 23; **Fort** +12, **Ref** +14, **Will** +11
-**HP** 75 ([[Fast Healing]] 10); **Weaknesses** [[Cold Iron Weapon]] 5, divine revulsion
-<span class="in-box-ability">**Divine Revulsion** (emotion, fear, mental) If a redcap sees a creature brandish a [[Religious Symbol]] of a good deity (which requires an Interact action by that creature) or use one to cast a divine spell, the redcap must attempt a DC 21 Will save. It then becomes temporarily immune to all brandished religious symbols for 10 minutes.</span><span class="in-box-ability">**Critical Success** The redcap is unaffected.</span><span class="in-box-ability">**Success** The redcap is [[Frightened]].</span><span class="in-box-ability">**Failure** The redcap gains the [[Fleeing]] condition for 1 round and is frightened 4.</span>
+**HP** 75 ([[DATABASE/monsterability/Fast Healing|fast healing]] 10); **Weaknesses** [[DATABASE/equipment/Cold Iron Weapon|cold iron]] 5, divine revulsion
+<span class="in-box-ability">**Divine Revulsion** (emotion, fear, mental) If a redcap sees a creature brandish a [[DATABASE/equipment/Religious Symbol|religious symbol]] of a good deity (which requires an Interact action by that creature) or use one to cast a divine spell, the redcap must attempt a DC 21 Will save. It then becomes temporarily immune to all brandished religious symbols for 10 minutes.</span><span class="in-box-ability">**Critical Success** The redcap is unaffected.</span><span class="in-box-ability">**Success** The redcap is [[DATABASE/condition/Frightened|frightened 2]].</span><span class="in-box-ability">**Failure** The redcap gains the [[DATABASE/condition/Fleeing|fleeing]] condition for 1 round and is frightened 4.</span>
 
 ---
 **Speed** 50 feet

@@ -86,16 +86,16 @@ Bison are large bovines with short faces and two horns; they weigh an upwards of
  Communal by nature, bison gather in large numbers for the summer mating season before the bulls split off to wander the prairie grasses. Bison have adapted well to harsh prairie winters, as their shaggy fur, which grows thicker in winter, insulates them; in the face of blizzards, they survive by facing steadfastly into the howling winds and hunkering down to reduce their exposure.
  The way that bison wallow in dirt or rub against large stones might make it easy to mistake their docile nature for passivity. However, this presumption has been the ruin of many hunting parties. Their plentiful meat and thick furs make bison an appealing bounty, but with the ground thundering beneath them, bison can quickly overpower inexperienced hunters unprepared for a stampeding herd. These hunting parties sometimes hire particularly daring adventures, who can add their spells, steel, and expertise to ensure a successful hunt.
  While the bison of the plains are the best known and most numerous, they have cousins both in thick boreal forests and along wide, open steppes. These bison variants stand taller but can't match the speed and aggression of their smaller plains relatives.
-**Recall Knowledge - Animal ([[Nature]])**: DC 19
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 19
 **Unspecific Lore**: DC 17
 **Specific Lore**: DC 14
 
 # Bison<span class="item-type">Creature 4</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary 3]]
-**Perception** +8; [[Scent]] (imprecise) 60 feet
-**Skills** [[Athletics]] +14, [[Survival]] +10
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
+**Perception** +8; [[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +14, [[DATABASE/skill/Survival|Survival]] +10
 **Str** +6, **Dex** +3, **Con** +5, **Int** -5, **Wis** +2, **Cha** -1
 
 ---
@@ -105,9 +105,9 @@ Bison are large bovines with short faces and two horns; they weigh an upwards of
 
 ---
 **Speed** 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> hoof +12 [+7/+2], **Damage** 2d6+6 bludgeoning</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> horn +12 [+7/+2], **Damage** 2d8+6 piercing plus [[Knockdown]]</span><span class="in-box-ability">**Pointed Charge** <span class="action-icon">2</span> The bison surges forward at its foe, horns lowered. It Strides twice. If the bison ends its movement within melee range of an enemy, it makes a horn Strike against that enemy. This Strike gains the fatal d12 trait.</span><span class="in-box-ability">**Rolling Thunder** <span class="action-icon">3</span> The bison kicks up dust and shakes the ground as it charges. The stampeding bison Strides up to twice its Speed in a straight line, dealing 4d6+6 bludgeoning damage (DC 21 basic Reflex save) to any Medium or smaller creature in its path.
- Multiple bison can participate in Rolling Thunder by spending this ability's actions and waiting to charge until the herd is ready. Before the beginning of their next turn, they can then charge as a reaction triggered by an adjacent bison beginning its Rolling Thunder charge. All bison in the combined charge must charge in parallel lines, so the areas can't overlap. The combined charge deals an additional 3d6 bludgeoning damage to creatures in the area, and a creature that fails the Reflex saving throw is also knocked [[Prone]].</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> hoof +12 [+7/+2], **Damage** 2d6+6 bludgeoning</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> horn +12 [+7/+2], **Damage** 2d8+6 piercing plus [[DATABASE/monsterability/Knockdown|Knockdown]]</span><span class="in-box-ability">**Pointed Charge** <span class="action-icon">2</span> The bison surges forward at its foe, horns lowered. It Strides twice. If the bison ends its movement within melee range of an enemy, it makes a horn Strike against that enemy. This Strike gains the fatal d12 trait.</span><span class="in-box-ability">**Rolling Thunder** <span class="action-icon">3</span> The bison kicks up dust and shakes the ground as it charges. The stampeding bison Strides up to twice its Speed in a straight line, dealing 4d6+6 bludgeoning damage (DC 21 basic Reflex save) to any Medium or smaller creature in its path.
+ Multiple bison can participate in Rolling Thunder by spending this ability's actions and waiting to charge until the herd is ready. Before the beginning of their next turn, they can then charge as a reaction triggered by an adjacent bison beginning its Rolling Thunder charge. All bison in the combined charge must charge in parallel lines, so the areas can't overlap. The combined charge deals an additional 3d6 bludgeoning damage to creatures in the area, and a creature that fails the Reflex saving throw is also knocked [[DATABASE/condition/Prone|prone]].</span>
 
 ###  Bison Drives
 
-Hunting bison is a communal endeavor. [[Centaur]] from the plains organize into hunting brigades and run alongside members of a stampeding herd, lancing and shooting at them from close range. Less mobile peoples use disguises to shepherd bison into position before scaring them to rush over sheer drops or into corrals where they can be slaughtered. A single bison herd can provide enough meat, hides, and furs for an entire community
+Hunting bison is a communal endeavor. [[DATABASE/monster/Centaur|Centaurs]] from the plains organize into hunting brigades and run alongside members of a stampeding herd, lancing and shooting at them from close range. Less mobile peoples use disguises to shepherd bison into position before scaring them to rush over sheer drops or into corrals where they can be slaughtered. A single bison herd can provide enough meat, hides, and furs for an entire community

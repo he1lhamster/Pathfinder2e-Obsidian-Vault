@@ -12,6 +12,7 @@ name: Harmona Gun
 price: 10 gp
 range: 150 ft.
 rarity: Uncommon
+rus_type_level: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
 - '[[DATABASE/trait/Kickback|Kickback]]'
@@ -25,15 +26,15 @@ weapon_type: Ranged
 # Harmona Gun
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Kickback</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Access** The following regions have access to firearms: Alkenstar, Dongun Hold, Tian Xia, Vudra, Arcadia, Ustalav, the Shackles
 **Price** 10 gp; **Damage** 1d10 B; **Bulk** 2
 **Hands** 2; **Range** 150 ft.; **Reload** 1
-**Type** Ranged; **Category** Martial; **Group** [[Firearm]]
-**Ammunition** [[Firearm Ammunition (5 rounds)]]
+**Type** Ranged; **Category** Martial; **Group** [[DATABASE/weapongroup/Firearm|Firearm]]
+**Ammunition** [[DATABASE/weapon/Firearm Ammunition (5 rounds)|Firearm Ammunition (5 rounds)]]
 
 ---
-A favored weapon of monster hunters in Arcadia, the harmona gun is a large-bore long gun that fires a heavy, slow-moving round. The gun got its name due to the eerie similarity between the buzzing sound its oversized projectiles make flying through the air and the flight of a fey bird called a [[Harmona]].
+A favored weapon of monster hunters in Arcadia, the harmona gun is a large-bore long gun that fires a heavy, slow-moving round. The gun got its name due to the eerie similarity between the buzzing sound its oversized projectiles make flying through the air and the flight of a fey bird called a [[DATABASE/monster/Harmona|harmona]].
 
 ## Traits
 
@@ -43,10 +44,10 @@ A kickback weapon is extra powerful and difficult to use due to its high recoil.
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.
 
 ## Critical Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
-**Firearm**: The target must succeed at a Fortitude save against your class DC or be [[Stunned]].
+**Firearm**: The target must succeed at a Fortitude save against your class DC or be [[DATABASE/condition/Stunned|stunned 1]].

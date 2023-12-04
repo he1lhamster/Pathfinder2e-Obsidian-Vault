@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -50,7 +51,7 @@ weapon_type: null
 ---
 # The Old Mage Deck<span class="item-type">Item 0</span>
 
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Price** 5 sp
 **Hands** 2; **Bulk** —
 
@@ -59,14 +60,15 @@ Also known as the Magician's Deck in Taldor or the Deck of Masks in the Shackles
 
 ## Old Mage Deck Substitutions
 
-| Old Mage Deck   | Standard Deck   | Minor Arcana                        |
-|:----------------|:----------------|:------------------------------------|
-| Suit of Matter  | Diamonds        | Pentacles                           |
-| Suit of Spirit  | Clubs           | Wands                               |
-| Suit of Mind    | Spades          | Swords                              |
-| Suit of Life    | Hearts          | Cups                                |
-| One             | Ace             | Ace                                 |
-| Eleven          | Jack            | Knight                              |
-| Twelve          | Queen           | Queen                               |
-| Thirteen        | King            | King                                |
-| Wildcards       | Jokers          | Any two Pages or Major Arcana cards |
+| 0 | 1 | 2 |
+|:---------------|:--------------|:------------------------------------|
+| Old Mage Deck | Standard Deck | Minor Arcana |
+| Suit of Matter | Diamonds | Pentacles |
+| Suit of Spirit | Clubs | Wands |
+| Suit of Mind | Spades | Swords |
+| Suit of Life | Hearts | Cups |
+| One | Ace | Ace |
+| Eleven | Jack | Knight |
+| Twelve | Queen | Queen |
+| Thirteen | King | King |
+| Wildcards | Jokers | Any two Pages or Major Arcana cards |

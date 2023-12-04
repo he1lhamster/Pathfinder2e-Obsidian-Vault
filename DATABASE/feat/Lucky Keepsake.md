@@ -11,6 +11,7 @@ name: Lucky Keepsake
 prerequisite: '[[DATABASE/feat/Leshy Superstition|Leshy Superstition]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Lucky Keepsake <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Leshy</span>
-**Source** [[Character Guide]] 
-**Prerequisites** [[Leshy Superstition]]
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
+**Prerequisites** [[DATABASE/feat/Leshy Superstition|Leshy Superstition]]
 
 ---
 You have a keepsake that grants you luck. You gain a +1 circumstance bonus to saves against spells and magical effects at all times, not just when you use Leshy Superstition. If you lose the keepsake, you lose the bonus until you designate a new keepsake, typically over the course of a week.

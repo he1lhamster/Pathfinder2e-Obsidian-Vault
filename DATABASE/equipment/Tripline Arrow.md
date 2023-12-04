@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 size: null
@@ -55,9 +56,9 @@ weapon_type: null
 # Tripline Arrow<span class="item-type">Item 2</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Conjuration</span><span class="item-trait">Consumable</span><span class="item-trait">Magical</span>
-**Source** [[Kingmaker Companion Guide]]
+**Source** [[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]
 **Price** 6 gp
-**Ammunition** [[Arrows]]; **Bulk** —
+**Ammunition** [[DATABASE/weapon/Arrows|arrow]]; **Bulk** —
 
 ---
-This arrow unspools a line of wire as its flies at its target. The wire animates as it hits a target and attempts to wrap around its legs before vanishing a moment later. If you can apply the bow's critical specialization effect, you can choose to knock the target [[Prone]] instead of pinning the target. If you cannot apply the bow's critical specialization effect, you can instead attempt to use the arrow to [[Trip]] with the [[Athletics]] skill as if the bow had the trip weapon trait. The arrow's unwieldy nature halves its weapon's range increment.
+This arrow unspools a line of wire as its flies at its target. The wire animates as it hits a target and attempts to wrap around its legs before vanishing a moment later. If you can apply the bow's critical specialization effect, you can choose to knock the target [[DATABASE/condition/Prone|prone]] instead of pinning the target. If you cannot apply the bow's critical specialization effect, you can instead attempt to use the arrow to [[DATABASE/action/Trip|Trip]] with the [[DATABASE/skill/Athletics|Athletics]] skill as if the bow had the trip weapon trait. The arrow's unwieldy nature halves its weapon's range increment.

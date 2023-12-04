@@ -66,16 +66,16 @@ wisdom: '+6'
 # Black Scorpion
 
 With a carapace the color of polished obsidian and a penchant for attacking villages, this humongous scorpion is one of the desert's most frightening predators. A black scorpion measures 60 feet from tip to the base of its stinger.
-**Recall Knowledge - Animal ([[Nature]])**: DC 34
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 34
 **Unspecific Lore**: DC 32
 **Specific Lore**: DC 29
 
 # Black Scorpion<span class="item-type">Creature 15</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Gargantuan</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary 2]] 
-**Perception** +27; [[Darkvision]], [[Tremorsense]]
-**Skills** [[Athletics]] +30
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +27; [[DATABASE/monsterability/Darkvision|darkvision]], [[DATABASE/monsterability/Tremorsense|tremorsense (imprecise) 90 feet]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +30
 **Str** +9, **Dex** +4, **Con** +6, **Int** -5, **Wis** +6, **Cha** -4
 
 ---
@@ -84,4 +84,4 @@ With a carapace the color of polished obsidian and a penchant for attacking vill
 
 ---
 **Speed** 50 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> pincer +30 [+26/+22] (agile, reach 30 feet), **Damage** 3d12+15 slashing plus [[Grab]]</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> stinger +30 [+25/+20] (reach 30 feet), **Damage** 3d8+15 piercing plus black scorpion venom</span><span class="in-box-ability">**Black Scorpion Venom** (poison) **Saving Throw** DC 36 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 2d12 poison damage and [[Clumsy]] (1 round); **Stage 2** 3d12 poison damage, clumsy 2, and [[Slowed]] (1 round); **Stage 3** 4d12 poison damage, clumsy 4, and slowed 2 (1 round)</span><span class="in-box-ability">**[[Greater Constrict]]** <span class="action-icon">1</span> 2d12+12 bludgeoning, DC 36</span><span class="in-box-ability">**Rapid Stinging** <span class="action-icon">2</span> The black scorpion makes three stinger Strikes, each against a different target. Its multiple attack penalty applies to each attack, but the penalty increases only after all the attacks have been made.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> pincer +30 [+26/+22] (agile, reach 30 feet), **Damage** 3d12+15 slashing plus [[DATABASE/monsterability/Grab|Grab]]</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> stinger +30 [+25/+20] (reach 30 feet), **Damage** 3d8+15 piercing plus black scorpion venom</span><span class="in-box-ability">**Black Scorpion Venom** (poison) **Saving Throw** DC 36 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 2d12 poison damage and [[DATABASE/condition/Clumsy|clumsy 2]] (1 round); **Stage 2** 3d12 poison damage, clumsy 2, and [[DATABASE/condition/Slowed|slowed 1]] (1 round); **Stage 3** 4d12 poison damage, clumsy 4, and slowed 2 (1 round)</span><span class="in-box-ability">**[[DATABASE/monsterability/Greater Constrict|Greater Constrict]]** <span class="action-icon">1</span> 2d12+12 bludgeoning, DC 36</span><span class="in-box-ability">**Rapid Stinging** <span class="action-icon">2</span> The black scorpion makes three stinger Strikes, each against a different target. Its multiple attack penalty applies to each attack, but the penalty increases only after all the attacks have been made.</span>

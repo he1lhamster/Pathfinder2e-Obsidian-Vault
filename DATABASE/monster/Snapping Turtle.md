@@ -68,16 +68,16 @@ wisdom: '+1'
 # Snapping Turtle
 
 Snapping turtles are freshwater reptiles with a long flexible neck, a sharp piercing beak, and a confrontational temperament that doesn't prevent some spellcasters from choosing these creatures as familiars. They weigh about 20 pounds and have shells around 18 inches in length.
-**Recall Knowledge - Animal ([[Nature]])**: DC 13
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 13
 **Unspecific Lore**: DC 11
 **Specific Lore**: DC 8
 
 # Snapping Turtle<span class="item-type">Creature -1</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Tiny</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary 2]] 
-**Perception** +3; [[Low-Light Vision]], [[Scent]]
-**Skills** [[Athletics]] +5, [[Stealth]] +3 (+5 in water)
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +3; [[DATABASE/monsterability/Low-Light Vision|low-light vision]], [[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +5, [[DATABASE/skill/Stealth|Stealth]] +3 (+5 in water)
 **Str** +1, **Dex** -1, **Con** +4, **Int** -4, **Wis** +1, **Cha** -2
 **Deep Breath** The snapping turtle can hold its breath for 30 minutes.
 

@@ -11,6 +11,7 @@ name: Pelagic Aptitude
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Pelagic Aptitude <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Azarketi</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-You've learned special tricks to survive underwater. You gain the trained proficiency rank in [[Survival]]. When in an aquatic environment, if you roll a critical failure on a Survival skill check to [[Sense Direction]] or [[Subsist]], you get a failure instead.
+You've learned special tricks to survive underwater. You gain the trained proficiency rank in [[DATABASE/skill/Survival|Survival]]. When in an aquatic environment, if you roll a critical failure on a Survival skill check to [[DATABASE/action/Sense Direction|Sense Direction]] or [[DATABASE/action/Subsist|Subsist]], you get a failure instead.
 
 ## Traits
 

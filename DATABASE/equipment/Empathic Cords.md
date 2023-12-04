@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 size: null
@@ -56,10 +57,10 @@ weapon_type: null
 # Empathic Cords<span class="item-type">Item 8</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Divination</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span><span class="item-trait">Mental</span>
-**Source** [[Pathfinder Special. Fumbus]]
+**Source** [[DATABASE/source/Pathfinder Special. Fumbus|Pathfinder Special: Fumbus]]
 **Price** 450 gp
 **Usage** worn; **Bulk** —
 
 ---
 These intracately braided lenghts of leather, twince, and ribbon can be worn around the neck. _Empathic cords_ function only with the other cord in their pair and must be crafted together. If one cord becomes broken, the other dissolves in to non-magical dust. The Price listed above is for a pair of cords. The creatures wearing a pair of _empathic cords_ can sense each other's feelings and communicate empathically, no matter how far away they are, as long as the creatures are on the same planet. 
-**Activate** <span class="action-icon">2</span> command, Interact **Frequency** once per day; **Effect** You cast [[Message]], targeting the creature wearing the matching cord. The range of this message is planetary.
+**Activate** <span class="action-icon">2</span> command, Interact **Frequency** once per day; **Effect** You cast [[DATABASE/spell/Message|message]], targeting the creature wearing the matching cord. The range of this message is planetary.

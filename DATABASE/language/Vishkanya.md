@@ -2,6 +2,7 @@
 id: '103'
 name: Vishkanya
 rarity: Rare
+rus_type_level: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -10,9 +11,9 @@ type: Language
 ---
 # Vishkanya
 
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 The below entries contain speakers of Vishkanya.
 
 ## Ancestries (1)
 
-[[Vishkanya]]
+[[DATABASE/ancestry/Vishkanya|Vishkanya]]

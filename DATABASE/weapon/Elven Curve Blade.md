@@ -12,6 +12,7 @@ name: Elven Curve Blade
 price: 4 gp
 range: null
 rarity: Uncommon
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Elf|Elf]]'
@@ -27,10 +28,10 @@ weapon_type: Melee
 # Elven Curve Blade
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Elf</span><span class="item-trait">Finesse</span><span class="item-trait">Forceful</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 4 gp; **Damage** 1d8 S; **Bulk** 2
 **Hands** 2
-**Type** Melee; **Category** Martial; **Group** [[Sword]]
+**Type** Melee; **Category** Martial; **Group** [[DATABASE/weapongroup/Sword|Sword]]
 
 ---
 Essentially a longer version of the scimitar, this traditional elven weapon has a thinner blade than its cousin.
@@ -39,7 +40,7 @@ Essentially a longer version of the scimitar, this traditional elven weapon has 
 
 **Elf:**
 
-A creature with this trait is a member of the elf ancestry. Elves are mysterious people with rich traditions of magic and scholarship who typically have [[Low-Light Vision]]. An ability with this trait can be used or selected only by elves. A weapon with this trait is created and used by elves.
+A creature with this trait is a member of the elf ancestry. Elves are mysterious people with rich traditions of magic and scholarship who typically have [[DATABASE/monsterability/Low-Light Vision|low-light vision]]. An ability with this trait can be used or selected only by elves. A weapon with this trait is created and used by elves.
 
 **Finesse:**
 
@@ -51,10 +52,10 @@ This weapon becomes more dangerous as you build momentum. When you attack with i
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.
 
 ## Critical Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
-**Sword**: The target is made off-balance by your attack, becoming [[Flat-Footed]] until the start of your next turn.
+**Sword**: The target is made off-balance by your attack, becoming [[DATABASE/condition/Flat-Footed|flat-footed]] until the start of your next turn.

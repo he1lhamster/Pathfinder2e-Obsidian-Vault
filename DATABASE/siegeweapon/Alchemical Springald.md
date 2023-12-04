@@ -13,6 +13,7 @@ name: Alchemical Springald
 price: 6,000 gp
 rarity: Uncommon
 reflex: '+16'
+rus_type_level: null
 size: Huge
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
@@ -25,7 +26,7 @@ usage: mounted (black powder)
 # Alchemical Springald<span class="item-type">Item 13</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-size item-trait">Huge</span><span class="item-trait">Mounted</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 6,000 gp; **Ammunition** bomb arrows (100 gp, 2 Bulk)
 
 ---

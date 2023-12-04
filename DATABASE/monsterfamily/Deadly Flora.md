@@ -3,6 +3,7 @@ creature_family: Deadly Flora
 id: '106'
 name: Deadly Flora
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/The Fall of Plaguestone|The Fall of Plaguestone]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Deadly Flora
 
-**Source** [[The Fall of Plaguestone]]
+**Source** [[DATABASE/source/The Fall of Plaguestone|The Fall of Plaguestone]]
 Often overlooked in light of more obvious threats, some plants can be just as deadly and dangerous as wild beasts.
 
 ### Members
 
-[[Bloodlash Bush]] (Creature 2), [[Vine Lasher]] (Creature 0)
+[[DATABASE/monster/Bloodlash Bush|Bloodlash Bush]] (Creature 2), [[DATABASE/monster/Vine Lasher|Vine Lasher]] (Creature 0)
 
 ###  Locations
 

@@ -21,6 +21,7 @@ patron_theme: null
 range: 120 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -39,15 +40,15 @@ type: Spell
 # Drop Dead<span class="item-type">Spell 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Illusion</span><span class="item-trait">Visual</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, divine
-**Deity** [[Naderi]]
+**Deity** [[DATABASE/deity/Naderi|Naderi]]
 **Cast** <span class="action-icon">5</span> somatic; **Trigger** a creature within range is hit by an attack from an enemy
 **Range** 120 feet; **Targets** 1 creature
 **Duration** sustained up to 1 minute
 
 ---
-The target appears to fall down dead, though it actually turns [[Invisible]]. Its illusory corpse remains where it fell, complete with a believable fatal wound. This illusion looks and feels like a dead body. If the target's death seems absurd—for instance, a barbarian at full health appears to be slain by 2 damage—the GM can grant the attacker an immediate Perception check to disbelieve the illusion. If the target uses hostile actions, the spell ends. This ends the entire spell, so the illusory corpse disappears too.
+The target appears to fall down dead, though it actually turns [[DATABASE/condition/Invisible|invisible]]. Its illusory corpse remains where it fell, complete with a believable fatal wound. This illusion looks and feels like a dead body. If the target's death seems absurd—for instance, a barbarian at full health appears to be slain by 2 damage—the GM can grant the attacker an immediate Perception check to disbelieve the illusion. If the target uses hostile actions, the spell ends. This ends the entire spell, so the illusory corpse disappears too.
 
 ---
 **Heightened (7th)** The spell doesn't end if the target uses hostile actions.

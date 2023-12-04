@@ -11,6 +11,7 @@ name: Spellshot Dedication
 prerequisite: way of the spellshot
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -26,8 +27,8 @@ type: Feat
 # Spellshot Dedication <span class="item-type">Feat 2</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Archetype</span><span class="item-trait">Class</span><span class="item-trait">Dedication</span>
-**Source** [[Guns & Gears]]
-**Archetype** [[Spellshot]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Archetype** [[DATABASE/archetype/Spellshot|Spellshot]]
 **Prerequisites** way of the spellshot
 
 ---
@@ -37,7 +38,7 @@ You've steeped yourself in magic and gunplay to the extent that you can conjure 
 
 ## Spellshot Dedication Leads To...
 
-[[Black Powder Embodiment]], [[Call Gun]], [[Fulminating Shot]], [[Phase Bullet]]
+[[DATABASE/feat/Black Powder Embodiment|Black Powder Embodiment]], [[DATABASE/feat/Call Gun|Call Gun]], [[DATABASE/feat/Fulminating Shot|Fulminating Shot]], [[DATABASE/feat/Phase Bullet|Phase Bullet]]
 
 ## Traits
 
@@ -57,4 +58,4 @@ You must select a feat with this trait to apply an archetype to your character.
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.

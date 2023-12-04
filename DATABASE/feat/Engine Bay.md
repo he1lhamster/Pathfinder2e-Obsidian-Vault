@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Vehicle Mechanic Dedication|Vehicle Mechanic Dedi
   ; Expert in [[DATABASE/skill/Crafting|Crafting]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -25,12 +26,12 @@ type: Feat
 # Engine Bay <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Skill</span>
-**Source** [[Guns & Gears]]
-**Archetype** [[Vehicle Mechanic]]
-**Prerequisites** [[Vehicle Mechanic Dedication]]; expert in [[Crafting]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Archetype** [[DATABASE/archetype/Vehicle Mechanic|Vehicle Mechanic]]
+**Prerequisites** [[DATABASE/feat/Vehicle Mechanic Dedication|Vehicle Mechanic Dedication]]; expert in [[DATABASE/skill/Crafting|Crafting]]
 
 ---
-You are practiced at working in vast garages of vehicles and can work on many machines at a time. When [[Repair]] and spending the full 10 minutes, you can fix up to two objects. If you are a master in Crafting, you can fix up to four targets. If you're legendary in Crafting, you can fix up to eight targets. This feat has no effect when using [[Quick Repair]] or another ability to reduce the time spent Repairing.
+You are practiced at working in vast garages of vehicles and can work on many machines at a time. When [[DATABASE/action/Repair|Repairing]] and spending the full 10 minutes, you can fix up to two objects. If you are a master in Crafting, you can fix up to four targets. If you're legendary in Crafting, you can fix up to eight targets. This feat has no effect when using [[DATABASE/feat/Quick Repair|Quick Repair]] or another ability to reduce the time spent Repairing.
 
 ## Traits
 

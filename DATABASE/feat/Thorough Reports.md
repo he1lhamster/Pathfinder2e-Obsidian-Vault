@@ -11,6 +11,7 @@ name: Thorough Reports
 prerequisite: '[[DATABASE/feat/Pathfinder Agent Dedication|Pathfinder Agent Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
 subcategory: null
@@ -24,16 +25,16 @@ type: Feat
 # Thorough Reports <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Skill</span>
-**Source** [[World Guide]] 
-**Archetype** [[Pathfinder Agent]]
-**Prerequisites** [[Pathfinder Agent Dedication]]
+**Source** [[DATABASE/source/World Guide|World Guide]] 
+**Archetype** [[DATABASE/archetype/Pathfinder Agent|Pathfinder Agent]]
+**Prerequisites** [[DATABASE/feat/Pathfinder Agent Dedication|Pathfinder Agent Dedication]]
 
 ---
 Your reports are thorough and informative, and putting your thoughts to paper helps you retain the information. Keep track of each type of creature you successfully identify with Recall Knowledge. When attempting Recall Knowledge checks against creatures on your list in later encounters, you gain a +2 circumstance bonus, and you learn an additional fact about such creatures on a success.
 
 ## Thorough Reports Leads To...
 
-[[Discerning Strike]]
+[[DATABASE/feat/Discerning Strike|Discerning Strike]]
 
 ## Traits
 

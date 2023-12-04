@@ -11,6 +11,7 @@ name: Orchard's Endurance
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -28,10 +29,10 @@ type: Feat
 # Orchard's Endurance <span class="action-icon">1</span> <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Plant</span><span class="item-trait">Primal</span><span class="item-trait">Stance</span><span class="item-trait">Wood</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
-Patches of bark appear on the skin of you and your nearby allies. You and your allies in your kinetic aura gain resistance 5 to bludgeoning and piercing damage. In addition, you and your affected allies roll flat checks to recover from [[Persistent Damage]] twice and take the higher result; this is a fortune effect.
+Patches of bark appear on the skin of you and your nearby allies. You and your allies in your kinetic aura gain resistance 5 to bludgeoning and piercing damage. In addition, you and your affected allies roll flat checks to recover from [[DATABASE/condition/Persistent Damage|persistent damage]] twice and take the higher result; this is a fortune effect.
 
 ---
 **Level (+4)** The resistance increases by 2.

@@ -11,6 +11,7 @@ name: Master Psychic Spellcasting
 prerequisite: '[[DATABASE/feat/Expert Psychic Spellcasting|Expert Psychic Spellcasting]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Master Psychic Spellcasting <span class="item-type">Feat 18</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Dark Archive]]
-**Archetype** [[Psychic]]
-**Prerequisites** [[Expert Psychic Spellcasting]]; legendary in [[Occultism]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Archetype** [[DATABASE/archetype/Psychic|Psychic]]
+**Prerequisites** [[DATABASE/feat/Expert Psychic Spellcasting|Expert Psychic Spellcasting]]; legendary in [[DATABASE/skill/Occultism|Occultism]]
 
 ---
 You gain the master spellcasting benefits.

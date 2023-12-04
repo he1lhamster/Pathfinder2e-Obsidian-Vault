@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -54,22 +55,22 @@ weapon_type: null
 # Soothing Powder<span class="item-type">Item 5+</span>
 
 <span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Healing</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
 ---
-Soothing powders are remedies made to stop a particular type of [[Persistent Damage]]. Each damage type requires a different formula, with the most popular being bleed soothing powder, poison soothing powder, fire soothing powder, and acid soothing powder. You Activate soothing powder by sprinkling it on yourself or another creature within reach. The target can immediately attempt a new flat check to remove persistent damage the powder works against. This powder lowers the DC to 10, as normal for a particularly appropriate type of help.
+Soothing powders are remedies made to stop a particular type of [[DATABASE/condition/Persistent Damage|persistent damage]]. Each damage type requires a different formula, with the most popular being bleed soothing powder, poison soothing powder, fire soothing powder, and acid soothing powder. You Activate soothing powder by sprinkling it on yourself or another creature within reach. The target can immediately attempt a new flat check to remove persistent damage the powder works against. This powder lowers the DC to 10, as normal for a particularly appropriate type of help.
 
 ## Soothing Powder (Lesser)<span class="item-type">Item 5</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 30 gp
 **Bulk** L
 
 ## Soothing Powder (Greater)<span class="item-type">Item 11</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 210 gp
 **Bulk** L
 In addition to the effects described above, the powder persists for 1 minute, lowering the DCs of flat checks against that type of persistent damage due to particularly effective assistance.

@@ -22,6 +22,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -38,9 +39,9 @@ type: Spell
 # Fungal Hyphae<span class="item-type">Spell 2</span>
 
 <span class="item-trait">Fungus</span><span class="item-trait">Necromancy</span>
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Traditions** primal
-**Deity** [[Cyth-V'sug]]
+**Deity** [[DATABASE/deity/Cyth-V'sug|Cyth-V'sug]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Duration** 1 minute
 

@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Bracers of Armor<span class="item-type">Item 8+</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** worn bracers; **Bulk** L
 
 ---
@@ -62,20 +63,20 @@ These stiff leather armguards grant you a +1 item bonus to AC and saving throws,
 
 ## Bracers of Armor I<span class="item-type">Item 8</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 450 gp
 **Bulk** L
 
 ## Bracers of Armor II<span class="item-type">Item 14</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 4,000 gp
 **Bulk** L
 The item bonus to AC and saves is +2.
 
 ## Bracers of Armor III<span class="item-type">Item 20</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 60,000 gp
 **Bulk** L
 The item bonus to AC and saves is +3.

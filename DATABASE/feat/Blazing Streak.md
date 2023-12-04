@@ -11,6 +11,7 @@ name: Blazing Streak
 prerequisite: '[[DATABASE/feat/Stoked Flame Stance|Stoked Flame Stance]]'
 rarity: Common
 requirement: You're in Stoked Flame Stance.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Blazing Streak <span class="action-icon">3</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Flourish</span><span class="item-trait">Monk</span>
-**Source** [[Secrets of Magic]] 
-**Prerequisites** [[Stoked Flame Stance]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
+**Prerequisites** [[DATABASE/feat/Stoked Flame Stance|Stoked Flame Stance]]
 **Requirements** You're in Stoked Flame Stance.
 
 ---

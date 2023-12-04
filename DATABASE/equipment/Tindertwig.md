@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -54,10 +55,10 @@ weapon_type: Melee
 # Tindertwig<span class="item-type">Item 1</span>
 
 <span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Fire</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 2 sp
 **Usage** held in 1 hand; **Bulk** —
 **Activate** <span class="action-icon">1</span> Interact
 
 ---
-An alchemical substance applied to one end of this tiny wooden stick ignites when struck against a rough surface. Creating a flame with a tindertwig is much faster than creating a flame with [[Flint and Steel]]. You can ignite the tindertwig and touch it to a flammable object as part of the same Interact action.
+An alchemical substance applied to one end of this tiny wooden stick ignites when struck against a rough surface. Creating a flame with a tindertwig is much faster than creating a flame with [[DATABASE/equipment/Flint and Steel|flint and steel]]. You can ignite the tindertwig and touch it to a flammable object as part of the same Interact action.

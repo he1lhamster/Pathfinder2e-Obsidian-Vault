@@ -11,6 +11,7 @@ name: Discreet Inquiry
 prerequisite: Expert in [[DATABASE/skill/Deception|Deception]] or Expert in [[DATABASE/skill/Diplomacy|Diplomacy]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: deception
@@ -24,11 +25,11 @@ type: Feat
 # Discreet Inquiry <span class="item-type">Feat 2</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** expert in [[Deception]] or [[Diplomacy]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** expert in [[DATABASE/skill/Deception|Deception]] or [[DATABASE/skill/Diplomacy|Diplomacy]]
 
 ---
-You are subtle in your efforts to learn the things you need to know. When [[Gather Information]], you can hide the true subject of your inquiry among other topics of little interest to you without increasing the difficulty of the check or taking more time to Gather Information. Anyone trying to Gather Information to determine if someone else was asking around about the topic in question must exceed your [[Deception]] DC or the normal DC to Gather Information about your inquiries, whichever is higher, or else they don't learn of your efforts.
+You are subtle in your efforts to learn the things you need to know. When [[DATABASE/action/Gather Information|Gathering Information]], you can hide the true subject of your inquiry among other topics of little interest to you without increasing the difficulty of the check or taking more time to Gather Information. Anyone trying to Gather Information to determine if someone else was asking around about the topic in question must exceed your [[DATABASE/skill/Deception|Deception]] DC or the normal DC to Gather Information about your inquiries, whichever is higher, or else they don't learn of your efforts.
 
 ## Traits
 

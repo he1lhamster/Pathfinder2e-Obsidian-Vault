@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: '+4'
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: Large
@@ -52,22 +53,22 @@ weapon_type: null
 ---
 # Crowbar<span class="item-type">Item 0+</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 5 sp
 **Hands** 2; **Bulk** L
 
 ---
-When [[Athletics]] an object that doesn't have an easy grip, a crowbar makes it easier to gain the necessary leverage. Without a crowbar, prying something open takes a –2 item penalty to the [[Athletics]] check to Force Open (similar to using a shoddy item).
+When [[DATABASE/skill/Athletics|Forcing Open]] an object that doesn't have an easy grip, a crowbar makes it easier to gain the necessary leverage. Without a crowbar, prying something open takes a –2 item penalty to the [[DATABASE/skill/Athletics|Athletics]] check to Force Open (similar to using a shoddy item).
 
 ## Crowbar<span class="item-type">Item 0</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 5 sp
 **Hands** 2; **Bulk** L
 
 ## Crowbar (Levered)<span class="item-type">Item 3</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 20 gp
 **Hands** 2; **Bulk** L
 A levered crowbar grants you a +1 item bonus to Athletics checks to Force Open anything that can be pried open.

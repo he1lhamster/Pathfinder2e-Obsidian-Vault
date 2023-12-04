@@ -24,6 +24,7 @@ follower_alignment:
 id: '182'
 name: Qi Zhong
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Medicine|Medicine]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -33,7 +34,7 @@ type: Deity
 ---
 # Qi Zhong (Master of Medicine) [NG]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Category** Tian Gods
 **Edicts** Teach knowledge to others, relieve suffering despite personal difficulty, heal sickness and injuries
 **Anathema** Deal lethal damage to another living creature (unless as part of a necessary medical treatment).
@@ -41,9 +42,9 @@ type: Deity
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Intelligence or Wisdom
-**Divine Font** _[[Heal]]_
-**Divine Skill** [[Medicine]]
-**Favored Weapon** [[Mace]]
-**Domains** [[Healing Domain]], [[Knowledge Domain]], [[Magic Domain]], [[Protection Domain]]
-**Cleric Spells** 1st: _[[Soothe]]_, 2nd: _[[False Life]]_, 4th: _[[Resilient Sphere]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Intelligence or Wisdom
+**Divine Font** _[[DATABASE/spell/Heal|heal]]_
+**Divine Skill** [[DATABASE/skill/Medicine|Medicine]]
+**Favored Weapon** [[DATABASE/weapon/Mace|heavy mace]]
+**Domains** [[DATABASE/domain/Healing Domain|healing]], [[DATABASE/domain/Knowledge Domain|knowledge]], [[DATABASE/domain/Magic Domain|magic]], [[DATABASE/domain/Protection Domain|protection]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Soothe|soothe]]_, 2nd: _[[DATABASE/spell/False Life|false life]]_, 4th: _[[DATABASE/spell/Resilient Sphere|resilient sphere]]_

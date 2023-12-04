@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -52,7 +53,7 @@ weapon_type: null
 # Keep Stone Armor<span class="item-type">Item 20+</span>
 
 <span class="trait-rare item-trait">Rare</span>
-**Source** [[Highhelm]]
+**Source** [[DATABASE/source/Highhelm|Highhelm]]
 **Usage** worn armor; **Bulk** varies by armor
 
 ---
@@ -60,10 +61,10 @@ Keep stone armor is nearly impossible to acquire due to the fact that most of Hi
 
 ### Base Material
 
-[[Keep Stone]]
+[[DATABASE/equipment/Keep Stone|Keep Stone]]
 
 ## Keep Stone Armor (High-Grade)<span class="item-type">Item 20</span>
 
-**Source** [[Highhelm]]
+**Source** [[DATABASE/source/Highhelm|Highhelm]]
 **Price** 56,000 gp (+ 5,600 gp per Bulk)
 **Craft Requirements** The initial raw materials must include at least 28,000 gp of keep stone + 2,800 gp per bulk.

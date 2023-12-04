@@ -11,6 +11,7 @@ name: Soaring Flight
 prerequisite: '[[DATABASE/heritage/Skyborn Tengu|Skyborn Tengu]] heritage'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -26,16 +27,16 @@ type: Feat
 # Soaring Flight <span class="action-icon">2</span> <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Morph</span><span class="item-trait">Primal</span><span class="item-trait">Tengu</span><span class="item-trait">Transmutation</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Frequency** once per day
-**Prerequisites** [[Skyborn Tengu]]
+**Prerequisites** [[DATABASE/heritage/Skyborn Tengu|Skyborn Tengu]]
 
 ---
 To be a tengu is to be unburdened by the concerns of the world below. You grow a pair of magical wings or expand your existing ones. For 5 minutes, you gain a fly Speed equal to your land Speed or 20 feet, whichever is greater.
 
 ## Soaring Flight Leads To...
 
-[[Soaring Form]]
+[[DATABASE/feat/Soaring Form|Soaring Form]]
 
 ## Traits
 

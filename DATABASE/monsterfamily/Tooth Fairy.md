@@ -3,6 +3,7 @@ creature_family: Tooth Fairy
 id: '270'
 name: Tooth Fairy
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Tooth Fairy
 
-**Source** [[Bestiary 3]]
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
 Tooth fairies spawn when a child's tooth (or, less commonly, an entire child) is buried in terrain rife with fey energies. Hatching from the buried teeth like larvae from an egg, tooth fairies build crude pliers from whatever they can find, then go hunting for more teeth—regardless of the owners' willingness.
 
 ### Members
 
-[[Tooth Fairy]] (Creature -1), [[Tooth Fairy Swarm]] (Creature 3)
+[[DATABASE/monster/Tooth Fairy|Tooth Fairy]] (Creature -1), [[DATABASE/monster/Tooth Fairy Swarm|Tooth Fairy Swarm]] (Creature 3)
 
 ###  Folk Traditions
 

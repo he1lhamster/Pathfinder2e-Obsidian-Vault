@@ -2,6 +2,7 @@
 id: '103'
 name: Pathfinder 173. Doorway to the Red Star
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -16,23 +17,23 @@ type: Source
 
 ## Equipment [3]
 
-[[Grimoire of Unknown Necessities]], [[Spellcutter]], [[Wyrm Drinker]]
+[[DATABASE/equipment/Grimoire of Unknown Necessities|Grimoire of Unknown Necessities]], [[DATABASE/equipment/Spellcutter|Spellcutter]], [[DATABASE/equipment/Wyrm Drinker|Wyrm Drinker]]
 
 ## Hazards [5]
 
-[[Auto-Turret]], [[Deathly Dream]], [[Entropy Choir]], [[Flensing Chute]], [[Rigged Ramen Cart]]
+[[DATABASE/hazard/Auto-Turret|Auto-Turret]], [[DATABASE/hazard/Deathly Dream|Deathly Dream]], [[DATABASE/hazard/Entropy Choir|Entropy Choir]], [[DATABASE/hazard/Flensing Chute|Flensing Chute]], [[DATABASE/hazard/Rigged Ramen Cart|Rigged Ramen Cart]]
 
 ## Languages [4]
 
-[[Akitonian]], [[Formian]], [[Ikeshti]], [[Shobhad]]
+[[DATABASE/language/Akitonian|Akitonian]], [[DATABASE/language/Formian|Formian]], [[DATABASE/language/Ikeshti|Ikeshti]], [[DATABASE/language/Shobhad|Shobhad]]
 
 ## Monsters [13]
 
-[[Ancient Rivener]], [[Contemplative]], [[Contemplative Meditant]], [[Contemplative Mentor]], [[Formian Mageslayer]], [[Formian Queen]], [[Formian Worker]], [[Gluttonworm]], [[Ikeshti Brood-Minder]], [[Khefak Scuttler]], [[Shobhad Enforcer]], [[Shobhad Sniper]], [[Thasteron Khefak]]
+[[DATABASE/monster/Ancient Rivener|Ancient Rivener]], [[DATABASE/monster/Contemplative|Contemplative]], [[DATABASE/monster/Contemplative Meditant|Contemplative Meditant]], [[DATABASE/monster/Contemplative Mentor|Contemplative Mentor]], [[DATABASE/monster/Formian Mageslayer|Formian Mageslayer]], [[DATABASE/monster/Formian Queen|Formian Queen]], [[DATABASE/monster/Formian Worker|Formian Worker]], [[DATABASE/monster/Gluttonworm|Gluttonworm]], [[DATABASE/monster/Ikeshti Brood-Minder|Ikeshti Brood-Minder]], [[DATABASE/monster/Khefak Scuttler|Khefak Scuttler]], [[DATABASE/monster/Shobhad Enforcer|Shobhad Enforcer]], [[DATABASE/monster/Shobhad Sniper|Shobhad Sniper]], [[DATABASE/monster/Thasteron Khefak|Thasteron Khefak]]
 
 ## Rituals [1]
 
-[[Rite of the Red Star]]
+[[DATABASE/ritual/Rite of the Red Star|Rite of the Red Star]]
 
 ## Setting Articles [1]
 
@@ -40,7 +41,7 @@ Akiton the Red
 
 ## Spells [2]
 
-[[Return to Essence]], [[Temporal Ward]]
+[[DATABASE/spell/Return to Essence|Return to Essence]], [[DATABASE/spell/Temporal Ward|Temporal Ward]]
 
 ## Traits [3]
 
@@ -48,8 +49,8 @@ Formian (Monster), Ikeshti (Monster), Radiation
 
 ## Vehicles [1]
 
-[[Sand Racer]]
+[[DATABASE/vehicle/Sand Racer|Sand Racer]]
 
 ## Weapons [1]
 
-[[Shobhad Longrifle]]
+[[DATABASE/weapon/Shobhad Longrifle|Shobhad Longrifle]]

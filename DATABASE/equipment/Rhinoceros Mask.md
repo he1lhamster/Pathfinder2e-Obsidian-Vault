@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Rhinoceros Mask<span class="item-type">Item 4+</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span><span class="item-trait">Transmutation</span>
-**Source** [[Treasure Vault]] , [[Pathfinder 169. Kindled Magic]]
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] , [[DATABASE/source/Pathfinder 169. Kindled Magic|Pathfinder #169: Kindled Magic]]
 **Usage** worn mask; **Bulk** —
 
 ---
@@ -63,11 +64,11 @@ Covered with thick armor and bearing a thicker horn, a _rhinoceros mask_ grants 
 
 ## Rhinoceros Mask<span class="item-type">Item 4</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 90 gp
 
 ## Rhinoceros Mask (Greater)<span class="item-type">Item 8</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 425 gp
 Your melee Strikes ignore the Hardness of objects with a Hardness of 10 or less.

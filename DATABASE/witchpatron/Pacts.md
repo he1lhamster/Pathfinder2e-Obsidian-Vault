@@ -2,6 +2,7 @@
 id: '11'
 name: Pacts
 rarity: Rare
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Occultism|Occultism]]'
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
@@ -15,9 +16,9 @@ type: Witch Patron Theme
 # Pacts
 
 <span class="trait-rare item-trait">Rare</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 Your patron deals only in promises and bargains, and no lesson is ever given for free.
 **Spell List** occult
-**Patron Skill** [[Occultism]]
-**Hex Cantrip** _[[Pact Broker]]_
-**Granted Spell** _[[Command]]_
+**Patron Skill** [[DATABASE/skill/Occultism|Occultism]]
+**Hex Cantrip** _[[DATABASE/spell/Pact Broker|pact broker]]_
+**Granted Spell** _[[DATABASE/spell/Command|command]]_

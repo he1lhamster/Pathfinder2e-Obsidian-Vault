@@ -11,6 +11,7 @@ name: Lesser Augmentation
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Lesser Augmentation <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Automaton</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 
 ---
 You've focused on enhancing yourself and have received an improvement to one of your existing abilities. You gain the enhancement benefits of one of your 1st- or 5th-level automaton ancestry feats.

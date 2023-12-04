@@ -11,6 +11,7 @@ name: Incredible Improvisation
 prerequisite: '[[DATABASE/feat/Clever Improviser|Clever Improviser]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Incredible Improvisation <span class="action-icon">4</span> <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Human</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Frequency** once per day
-**Prerequisites** [[Clever Improviser]]
+**Prerequisites** [[DATABASE/feat/Clever Improviser|Clever Improviser]]
 **Trigger** You attempt a check using a skill you’re untrained in.
 
 ---
@@ -35,4 +36,4 @@ A stroke of brilliance gives you a major advantage with a skill despite your ine
 
 **Human:**
 
-A creature with this trait is a member of the [[Human]] ancestry. Humans are a diverse array of people known for their adaptability. An ability with this trait can be used or selected only by humans.
+A creature with this trait is a member of the [[DATABASE/ancestry/Human|human]] ancestry. Humans are a diverse array of people known for their adaptability. An ability with this trait can be used or selected only by humans.

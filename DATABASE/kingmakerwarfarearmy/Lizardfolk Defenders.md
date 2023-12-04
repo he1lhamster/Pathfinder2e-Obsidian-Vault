@@ -5,6 +5,7 @@ id: '13'
 level: '5'
 name: Lizardfolk Defenders
 rarity: Uncommon
+rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - '[[DATABASE/trait/Skirmisher|Skirmisher]]'
@@ -15,10 +16,10 @@ type: Warfare Army
 # Lizardfolk Defenders<span class="item-type">Army 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Skirmisher</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 **Scouting** +13 (+2 adjustment)
 **Recruitment** 22 (+2 adjustment); **Consumption** 1
-These [[Lizardfolk]] are from the settlement on the banks of Candlemere (encounter site **KL3**); they fight with flails and javelins.
+These [[DATABASE/ancestry/Lizardfolk|lizardfolk]] are from the settlement on the banks of Candlemere (encounter site **KL3**); they fight with flails and javelins.
 **AC** 23 (+1 adjustment); **Maneuver** +9 (low); **Morale** +15 (high)
 **HP** 4 (RT 2)
 **Melee** flails +12

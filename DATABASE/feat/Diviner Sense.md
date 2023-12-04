@@ -11,6 +11,7 @@ name: Diviner Sense
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Divination
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,10 +26,10 @@ type: Feat
 # Diviner Sense <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Divination</span><span class="item-trait">Fortune</span><span class="item-trait">Wizard</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
-You sense magical dangers. When using the [[Detect Magic]] exploration activity, you can roll initiative twice and use the better result so long as at least one opponent has a magical effect or magic item and is in range of your [[Detect Magic]].
+You sense magical dangers. When using the [[DATABASE/action/Detect Magic|Detect Magic]] exploration activity, you can roll initiative twice and use the better result so long as at least one opponent has a magical effect or magic item and is in range of your [[DATABASE/spell/Detect Magic|detect magic]].
 
 ## Traits
 

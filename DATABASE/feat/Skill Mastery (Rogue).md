@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Rogue Dedication|Rogue Dedication]] ; trained in 
   least one skill and expertin at least one skill'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Skill Mastery (Rogue) <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Rogue]]
-**Prerequisites** [[Rogue Dedication]]; trained in at least one skill and expert in at least one skill
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Rogue|Rogue]]
+**Prerequisites** [[DATABASE/feat/Rogue Dedication|Rogue Dedication]]; trained in at least one skill and expert in at least one skill
 
 ---
 Increase your proficiency rank in one of your skills from expert to master and in another of your skills from trained to expert. You gain a skill feat associated with one of the skills you chose.

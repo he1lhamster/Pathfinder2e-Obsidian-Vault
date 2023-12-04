@@ -2,6 +2,7 @@
 id: '11'
 name: PFS Quest 2. Unforgiving Fire
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source

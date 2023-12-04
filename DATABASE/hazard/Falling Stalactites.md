@@ -17,6 +17,7 @@ name: Falling Stalactites
 rarity: Common
 reflex: '+12'
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 176. Lost Mammoth Valley|Pathfinder #176: Lost
   Mammoth Valley]]'
@@ -30,13 +31,13 @@ will: null
 # Falling Stalactites<span class="item-type">Hazard 3</span>
 
 <span class="item-trait">Environmental</span>
-**Source** [[Pathfinder 176. Lost Mammoth Valley]]
+**Source** [[DATABASE/source/Pathfinder 176. Lost Mammoth Valley|Pathfinder #176: Lost Mammoth Valley]]
 **Complexity** Simple
 **Stealth** DC 23 (trained)
 **Description** Unstable stalactites fall from the ceiling.
 
 ---
-**Disable** DC 20 [[Survival]] (trained) to remove a stalactite without triggering a fall
+**Disable** DC 20 [[DATABASE/skill/Survival|Survival]] (trained) to remove a stalactite without triggering a fall
 **AC** 16, **Fort** +12, **Ref** +12
 **Hardness** 12, **HP** 42 (BT 21); **Immunities** critical hits, object immunities, precision damage
 **Fall** <span class="action-icon">5</span> **Trigger** A stalactite is damaged or touched; **Effect** The stalactite falls, making an attack against each creature underneath. 

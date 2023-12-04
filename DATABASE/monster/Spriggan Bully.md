@@ -80,26 +80,26 @@ wisdom: '+3'
 # Spriggan Bully
 
 The typical spriggan is a bully who prefers to take live prisoners in fights, but only to ensure that they have a large stock of living victims to torment, tease, and abuse. They train to use weapons in nonlethal ways that inflict the maximum amount of pain even as they guard against accidental death. When not bullying prisoners or hunting for new victims, spriggan bullies enjoy drinking, watching others fight, and fighting among themselves.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 18
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Spriggan Bully<span class="item-type">Creature 3</span>
 
 <span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Small</span><span class="item-trait">Gnome</span><span class="item-trait">Humanoid</span><span class="item-trait">Spriggan</span>
-**Source** [[Bestiary 2]] 
-**Perception** +10; [[Low-Light Vision]]
-**Languages** [[Aklo]], [[Common]]
-**Skills** [[Acrobatics]] +9, [[Athletics]] +8, [[Intimidation]] +10, [[Society]] +8, [[Stealth]] +11, [[Survival]] +10, [[Thievery]] +9
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +10; [[DATABASE/monsterability/Low-Light Vision|low-light vision]]
+**Languages** [[DATABASE/language/Aklo|Aklo]], [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +9, [[DATABASE/skill/Athletics|Athletics]] +8, [[DATABASE/skill/Intimidation|Intimidation]] +10, [[DATABASE/skill/Society|Society]] +8, [[DATABASE/skill/Stealth|Stealth]] +11, [[DATABASE/skill/Survival|Survival]] +10, [[DATABASE/skill/Thievery|Thievery]] +9
 **Str** +3, **Dex** +4, **Con** +2, **Int** +1, **Wis** +3, **Cha** +1
-**Items** [[Crossbow]], [[Morningstar]]
+**Items** [[DATABASE/weapon/Crossbow|crossbow (10 bolts)]], [[DATABASE/weapon/Morningstar|morningstar]]
 
 ---
 **AC** 19; **Fort** +9, **Ref** +11, **Will** +8
 **HP** 48
-<span class="in-box-ability">**Enraged Growth <span class="action-icon">5</span> ** (polymorph, primal, transmutation) **Trigger** The spriggan bully takes damage; **Effect** The spriggan bully grows to Large size, along with their equipment (which returns to natural size if removed). The spriggan bully's reach increases by 5 feet. They regain 5 Hit Points and gain a +2 status bonus to melee attacks and damage rolls. This effect continues until the end of the spriggan bully's next turn, but on any turn in which the spriggan bully deals damage to another creature and is not [[Fatigued]], the effect extends until the end of the following turn. When Enraged Growth ends, the spriggan bully is fatigued for 1 hour.</span>
+<span class="in-box-ability">**Enraged Growth <span class="action-icon">5</span> ** (polymorph, primal, transmutation) **Trigger** The spriggan bully takes damage; **Effect** The spriggan bully grows to Large size, along with their equipment (which returns to natural size if removed). The spriggan bully's reach increases by 5 feet. They regain 5 Hit Points and gain a +2 status bonus to melee attacks and damage rolls. This effect continues until the end of the spriggan bully's next turn, but on any turn in which the spriggan bully deals damage to another creature and is not [[DATABASE/condition/Fatigued|fatigued]], the effect extends until the end of the following turn. When Enraged Growth ends, the spriggan bully is fatigued for 1 hour.</span>
 
 ---
 **Speed** 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> morningstar +10 [+5/+0] (versatile P), **Damage** 1d6+6 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> crossbow +11 [+6/+1] (range increment 120 feet, reload 1), **Damage** 1d8 piercing</span>**Primal Innate Spells** DC 20; **2nd** _[[Shatter]]_; **1st** _[[Fear]]_; **Cantrips** **(2nd)** _[[Dancing Lights]]_
-<span class="in-box-ability">**Bully's Bludgeon** <span class="action-icon">1</span> The spriggan bully makes a morningstar Strike with a +2 circumstance bonus to its attack roll. This attack is nonlethal.</span><span class="in-box-ability">**[[Sneak Attack]]** The spriggan bully's Strikes deal an additional 1d6 precision damage to [[Flat-Footed]] creatures.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> morningstar +10 [+5/+0] (versatile P), **Damage** 1d6+6 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> crossbow +11 [+6/+1] (range increment 120 feet, reload 1), **Damage** 1d8 piercing</span>**Primal Innate Spells** DC 20; **2nd** _[[DATABASE/spell/Shatter|shatter]]_; **1st** _[[DATABASE/spell/Fear|fear]]_; **Cantrips** **(2nd)** _[[DATABASE/spell/Dancing Lights|dancing lights]]_
+<span class="in-box-ability">**Bully's Bludgeon** <span class="action-icon">1</span> The spriggan bully makes a morningstar Strike with a +2 circumstance bonus to its attack roll. This attack is nonlethal.</span><span class="in-box-ability">**[[DATABASE/monsterability/Sneak Attack|Sneak Attack]]** The spriggan bully's Strikes deal an additional 1d6 precision damage to [[DATABASE/condition/Flat-Footed|flat-footed]] creatures.</span>

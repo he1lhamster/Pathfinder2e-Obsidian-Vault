@@ -21,6 +21,7 @@ patron_theme: null
 range: 60 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Pathfinder 158. Sixty Feet Under|Pathfinder #158: Sixty
@@ -40,7 +41,7 @@ type: Spell
 # Admonishing Ray<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Attack</span><span class="item-trait">Necromancy</span><span class="item-trait">Nonlethal</span>
-**Source** [[Pathfinder 158. Sixty Feet Under]]
+**Source** [[DATABASE/source/Pathfinder 158. Sixty Feet Under|Pathfinder #158: Sixty Feet Under]]
 **Traditions** arcane, divine
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 60 feet; **Targets** 1 creature

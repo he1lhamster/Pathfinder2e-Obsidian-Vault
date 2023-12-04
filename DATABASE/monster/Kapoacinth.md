@@ -72,25 +72,25 @@ wisdom: '+2'
 # Kapoacinth
 
 This creature did not include a description.
-**Recall Knowledge - Beast ([[Arcana]], [[Nature]])**: DC 19
+**Recall Knowledge - Beast ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 19
 **Unspecific Lore**: DC 17
 **Specific Lore**: DC 14
 
 # Kapoacinth<span class="item-type">Creature 4</span>
 
 <span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Aquatic</span><span class="item-trait">Beast</span><span class="item-trait">Earth</span>
-**Source** [[Pathfinder 182. Graveclaw]]
-Variant [[Gargoyle]]
-**Perception** +10; [[Darkvision]]
-**Languages** [[Aquan]], [[Common]], [[Terran]]
-**Skills** [[Acrobatics]] +9, [[Athletics]] +10, [[Stealth]] +11
+**Source** [[DATABASE/source/Pathfinder 182. Graveclaw|Pathfinder #182: Graveclaw]]
+Variant [[DATABASE/monster/Gargoyle|gargoyle]]
+**Perception** +10; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Aquan|Aquan]], [[DATABASE/language/Common|Common]], [[DATABASE/language/Terran|Terran]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +9, [[DATABASE/skill/Athletics|Athletics]] +10, [[DATABASE/skill/Stealth|Stealth]] +11
 **Str** +4, **Dex** +1, **Con** +3, **Int** -2, **Wis** +2, **Cha** -2
 
 ---
 **AC** 20; **Fort** +13, **Ref** +9, **Will** +10
-**HP** 40; **Resistances** physical 5 (except [[Adamantine Weapon]])
-<span class="in-box-ability">**[[Attack of Opportunity]] <span class="action-icon">5</span> ** </span><span class="in-box-ability">**Wing Buffet <span class="action-icon">5</span> ** **Trigger** An adjacent creature attacks the kapoacinth while the kapoacinth is [[Swim]]; **Effect** The kapoacinth pushes the triggering creature 5 feet away from them, and the kapoacinth moves 10 feet in the opposite direction. If the triggering creature can no longer attack the kapoacinth from its new location, the attack misses.</span>
+**HP** 40; **Resistances** physical 5 (except [[DATABASE/equipment/Adamantine Weapon|adamantine]])
+<span class="in-box-ability">**[[DATABASE/monsterability/Attack of Opportunity|Attack of Opportunity]] <span class="action-icon">5</span> ** </span><span class="in-box-ability">**Wing Buffet <span class="action-icon">5</span> ** **Trigger** An adjacent creature attacks the kapoacinth while the kapoacinth is [[DATABASE/action/Swim|Swimming]]; **Effect** The kapoacinth pushes the triggering creature 5 feet away from them, and the kapoacinth moves 10 feet in the opposite direction. If the triggering creature can no longer attack the kapoacinth from its new location, the attack misses.</span>
 
 ---
 **Speed** 25 feet, swim 40 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +13 [+8/+3], **Damage** 2d8+6 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +13 [+9/+5] (agile), **Damage** 2d6+6 slashing</span><span class="in-box-ability">**Coral Reef** <span class="action-icon">1</span> (concentrate) Until the next time they act, the kapoacinth appears to be a lump of coral. They have an automatic result of 31 on [[Deception]] checks and DCs to pass as coral.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +13 [+8/+3], **Damage** 2d8+6 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +13 [+9/+5] (agile), **Damage** 2d6+6 slashing</span><span class="in-box-ability">**Coral Reef** <span class="action-icon">1</span> (concentrate) Until the next time they act, the kapoacinth appears to be a lump of coral. They have an automatic result of 31 on [[DATABASE/skill/Deception|Deception]] checks and DCs to pass as coral.</span>

@@ -9,6 +9,7 @@ rarity: Common
 requirement: On your last action, you failed (but didn't critically fail) a Strike
   with a firearm or crossbowyou're holding in one hand, and your other hand is either
   wielding a melee weapon or empty.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
@@ -20,7 +21,7 @@ type: Action
 # Finish the Job <span class="action-icon">1</span>
 
 <span class="item-trait">Gunslinger</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Requirements** On your last action, you failed (but didn't critically fail) a Strike with a firearm or crossbow you're holding in one hand, and your other hand is either wielding a melee weapon or empty.
 
 ---

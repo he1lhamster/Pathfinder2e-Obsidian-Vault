@@ -87,27 +87,27 @@ wisdom: '+5'
 # Watchtower Wraith
 
 This creature did not include a description.
-**Recall Knowledge - Undead ([[Religion]])**: DC 45
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 45
 **Unspecific Lore**: DC 43
 **Specific Lore**: DC 40
 
 # Watchtower Wraith<span class="item-type">Creature 16</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Incorporeal</span><span class="item-trait">Undead</span><span class="item-trait">Wraith</span>
-**Source** [[Pathfinder 166. Despair on Danger Island]]
-Variant [[Wraith]]
-**Perception** +28; [[Darkvision]], lifesense 60 feet
-**Languages** [[Necril]], [[Tien]]
-**Skills** [[Acrobatics]] +29, [[Intimidation]] +32, [[Stealth]] +29
+**Source** [[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #166: Despair on Danger Island]]
+Variant [[DATABASE/monster/Wraith|wraith]]
+**Perception** +28; [[DATABASE/monsterability/Darkvision|darkvision]], lifesense 60 feet
+**Languages** [[DATABASE/language/Necril|Necril]], [[DATABASE/language/Tien|Tien]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +29, [[DATABASE/skill/Intimidation|Intimidation]] +32, [[DATABASE/skill/Stealth|Stealth]] +29
 **Str** -5, **Dex** +6, **Con** +0, **Int** +2, **Wis** +5, **Cha** +9
 **Lifesense** (divination, divine) Wraiths sense the vital essence of living and undead creatures within the listed range.
 **Site Bound** The wraith is tied to its watchtower.
 
 ---
 **AC** 39; **Fort** +22, **Ref** +28, **Will** +28; +1 status to all saves vs. positive
-**HP** 285 ([[Negative Healing]]); **Immunities** death effects, disease, [[Paralyzed]], poison, precision, [[Unconscious]]; **Resistances** all 15 (except force, [[Ghost Touch]], or positive; double resistance vs. non-magical)
-<span class="in-box-ability">**[[Attack of Opportunity]] <span class="action-icon">5</span> ** </span><span class="in-box-ability">**Sunlight Powerlessness** A wraith caught in sunlight is [[Stunned]] and [[Clumsy]].</span><span class="in-box-ability">**Rejuvenation** (necromancy, occult) When the watchtower wraith is destroyed, it re-forms, fully healed, at the watchtower after 12 hours. Destroying the wraith and lighting its watchtower's brazier permanently destroys it.</span>
+**HP** 285 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects, disease, [[DATABASE/condition/Paralyzed|paralyzed]], poison, precision, [[DATABASE/condition/Unconscious|unconscious]]; **Resistances** all 15 (except force, [[DATABASE/equipment/Ghost Touch|ghost touch]], or positive; double resistance vs. non-magical)
+<span class="in-box-ability">**[[DATABASE/monsterability/Attack of Opportunity|Attack of Opportunity]] <span class="action-icon">5</span> ** </span><span class="in-box-ability">**Sunlight Powerlessness** A wraith caught in sunlight is [[DATABASE/condition/Stunned|stunned 2]] and [[DATABASE/condition/Clumsy|clumsy 2]].</span><span class="in-box-ability">**Rejuvenation** (necromancy, occult) When the watchtower wraith is destroyed, it re-forms, fully healed, at the watchtower after 12 hours. Destroying the wraith and lighting its watchtower's brazier permanently destroys it.</span>
 
 ---
 **Speed** fly 40 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> spectral hand +32 [+27/+22] (finesse), **Damage** 3d8+14 negative plus drain life</span><span class="in-box-ability">**Drain Life** (divine, necromancy) When the wraith damages a living creature with its spectral hand Strike, the wraith gains 15 temporary Hit Points and the creature must succeed at a DC 36 Fortitude save or become [[Drained]]. Further damage dealt by the wraith increases the amount of drain by 1 on a failed save to a maximum of drained 4.</span><span class="in-box-ability">**Wraith Spawn** (divine, necromancy) A living humanoid slain by a wraith's spectral hand Strike rises as a wraith spawn after 1d4 rounds. This wraith spawn is under the command of the wraith that killed it. It doesn't have drain life or wraith spawn and becomes [[Clumsy]] for as long as it is a wraith spawn. If the creator of the wraith spawn dies, the wraith spawn becomes a full-fledged, autonomous wraith; it regains its free will, gains Wraith Spawn, and is no longer clumsy.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> spectral hand +32 [+27/+22] (finesse), **Damage** 3d8+14 negative plus drain life</span><span class="in-box-ability">**Drain Life** (divine, necromancy) When the wraith damages a living creature with its spectral hand Strike, the wraith gains 15 temporary Hit Points and the creature must succeed at a DC 36 Fortitude save or become [[DATABASE/condition/Drained|drained 1]]. Further damage dealt by the wraith increases the amount of drain by 1 on a failed save to a maximum of drained 4.</span><span class="in-box-ability">**Wraith Spawn** (divine, necromancy) A living humanoid slain by a wraith's spectral hand Strike rises as a wraith spawn after 1d4 rounds. This wraith spawn is under the command of the wraith that killed it. It doesn't have drain life or wraith spawn and becomes [[DATABASE/condition/Clumsy|clumsy 2]] for as long as it is a wraith spawn. If the creator of the wraith spawn dies, the wraith spawn becomes a full-fledged, autonomous wraith; it regains its free will, gains Wraith Spawn, and is no longer clumsy.</span>

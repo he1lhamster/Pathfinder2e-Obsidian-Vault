@@ -7,6 +7,7 @@ id: '773'
 name: Tap Ley Line
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 trait:
@@ -18,7 +19,7 @@ type: Action
 # Tap Ley Line <span class="action-icon">1</span>
 
 <span class="item-trait">Concentrate</span>
-**Source** [[Secrets of Magic]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]]
 
 ---
 You attempt to manipulate the magical essence of a ley line that you're aware of within 30 feet. The GM determines the DC based on the hard DC for the ley line's level.

@@ -11,6 +11,7 @@ name: Universal Longevity
 prerequisite: '[[DATABASE/feat/Expert Longevity|Expert Longevity]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,15 +24,15 @@ type: Feat
 # Universal Longevity <span class="action-icon">1</span> <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Elf</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Frequency** once per day
-**Prerequisites** [[Expert Longevity]]
+**Prerequisites** [[DATABASE/feat/Expert Longevity|Expert Longevity]]
 
 ---
-You’ve perfected your ability to keep up with all the skills you’ve learned over your long life, so you’re almost never truly untrained at a skill. You reflect on your life experiences, changing the skills you selected with [[Ancestral Longevity]] and [[Expert Longevity]].
+You’ve perfected your ability to keep up with all the skills you’ve learned over your long life, so you’re almost never truly untrained at a skill. You reflect on your life experiences, changing the skills you selected with [[DATABASE/feat/Ancestral Longevity|Ancestral Longevity]] and [[DATABASE/feat/Expert Longevity|Expert Longevity]].
 
 ## Traits
 
 **Elf:**
 
-A creature with this trait is a member of the elf ancestry. Elves are mysterious people with rich traditions of magic and scholarship who typically have [[Low-Light Vision]]. An ability with this trait can be used or selected only by elves. A weapon with this trait is created and used by elves.
+A creature with this trait is a member of the elf ancestry. Elves are mysterious people with rich traditions of magic and scholarship who typically have [[DATABASE/monsterability/Low-Light Vision|low-light vision]]. An ability with this trait can be used or selected only by elves. A weapon with this trait is created and used by elves.

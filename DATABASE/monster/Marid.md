@@ -99,19 +99,19 @@ wisdom: '+3'
 
 Marids are capricious but powerful genies from the Plane of Water; among geniekind, they are rivaled in power only by the fiery efreet. Marids embody the strength of the ocean’s waves and currents, but they also have a gentler side, loving performance and art such as dancing, music, and storytelling.
 Marids regard efreet with hostility but rarely encounter them in their native environment. They get along with djinn, jann, and shaitans, although the latter consider marids flighty and annoying, associating only long enough to close trade deals. Marid society has strict rules of hospitality, and many marid cities have a magically sealed foreign quarter where marid shahzadas conduct business with air-breathers.
-**Recall Knowledge - Elemental ([[Arcana]], [[Nature]])**: DC 28
+**Recall Knowledge - Elemental ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 28
 **Unspecific Lore**: DC 26
 **Specific Lore**: DC 23
 
 # Marid<span class="item-type">Creature 9</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">CN</span><span class="trait-size item-trait">Large</span><span class="item-trait">Elemental</span><span class="item-trait">Genie</span><span class="item-trait">Water</span>
-**Source** [[Bestiary]]
-**Perception** +18; darkvision, [[Detect Alignment]], [[Detect Magic]], wavesense (imprecise) 60 feet
-**Languages** [[Aquan]], [[Common]]
-**Skills** [[Athletics]] +20 (+24 to swim), [[Crafting]] +16, [[Diplomacy]] +19, [[Nature]] +18, [[Performance]] +16, [[Society]] +14, [[Stealth]] +18
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
+**Perception** +18; darkvision, [[DATABASE/spell/Detect Alignment|detect alignment]], [[DATABASE/spell/Detect Magic|detect magic]], wavesense (imprecise) 60 feet
+**Languages** [[DATABASE/language/Aquan|Aquan]], [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +20 (+24 to swim), [[DATABASE/skill/Crafting|Crafting]] +16, [[DATABASE/skill/Diplomacy|Diplomacy]] +19, [[DATABASE/skill/Nature|Nature]] +18, [[DATABASE/skill/Performance|Performance]] +16, [[DATABASE/skill/Society|Society]] +14, [[DATABASE/skill/Stealth|Stealth]] +18
 **Str** +5, **Dex** +5, **Con** +4, **Int** +1, **Wis** +3, **Cha** +3
-**Items** _+1 [[Striking]] [[Trident]]_
+**Items** _+1 [[DATABASE/equipment/Striking|striking]] [[DATABASE/weapon/Trident|trident]]_
 
 ---
 **AC** 28; **Fort** +18, **Ref** +21, **Will** +17
@@ -120,9 +120,9 @@ Marids regard efreet with hostility but rarely encounter them in their native en
 
 ---
 **Speed** 20 feet, swim 40 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _trident_ +21 [+16/+11] (magical, reach 10 feet), **Damage** 2d8+11 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +20 [+16/+12] (agile, magical, nonlethal, reach 10 feet), **Damage** 1d4+11 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _trident_ +21 [+16/+11] (magical, thrown 20 feet), **Damage** 2d8+11 piercing</span>**Arcane Innate Spells** DC 28; **7th** _[[Plane Shift]]_ (at will; to Astral Plane, Elemental Planes, or Material Plane only); **5th** _[[Control Water]]_ (at will), _[[Hallucinatory Terrain]]_; **4th** _[[Hydraulic Push]]_ (at will), _[[Hydraulic Torrent]]_, _[[Solid Fog]]_; **2nd** _[[Blur]]_ (at will), _[[Illusory Object]]_; **Constant** **(5th)** _[[Detect Magic]]_; **(1st)** _[[Detect Alignment]]_ (evil or good only)
-<span class="in-box-ability">**[[Change Shape]]** <span class="action-icon">1</span> (arcane, concentrate, polymorph, transmutation) The marid can take on the appearance of any water elemental or humanoid. This ability doesn’t change the marid’s Speed or its attack and damage bonuses with its Strikes.</span><span class="in-box-ability">**Rush of Water** <span class="action-icon">2</span> (arcane, evocation, water) The marid releases a jet of water in a 60-foot line, dealing 9d6 bludgeoning damage (DC 28 basic Reflex save). A creature that fails its save is also pushed 10 feet (20 feet on a critical failure). The marid can’t use Rush of Water again for 1d4 rounds.</span><span class="in-box-ability">**Skewer** <span class="action-icon">1</span> The marid makes a trident Strike, dealing an extra 2d6 persistent bleed damage on a hit (4d6 on a critical hit).</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _trident_ +21 [+16/+11] (magical, reach 10 feet), **Damage** 2d8+11 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +20 [+16/+12] (agile, magical, nonlethal, reach 10 feet), **Damage** 1d4+11 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _trident_ +21 [+16/+11] (magical, thrown 20 feet), **Damage** 2d8+11 piercing</span>**Arcane Innate Spells** DC 28; **7th** _[[DATABASE/spell/Plane Shift|plane shift]]_ (at will; to Astral Plane, Elemental Planes, or Material Plane only); **5th** _[[DATABASE/spell/Control Water|control water]]_ (at will), _[[DATABASE/spell/Hallucinatory Terrain|hallucinatory terrain]]_; **4th** _[[DATABASE/spell/Hydraulic Push|hydraulic push]]_ (at will), _[[DATABASE/spell/Hydraulic Torrent|hydraulic torrent]]_, _[[DATABASE/spell/Solid Fog|solid fog]]_; **2nd** _[[DATABASE/spell/Blur|blur]]_ (at will), _[[DATABASE/spell/Illusory Object|illusory object]]_; **Constant** **(5th)** _[[DATABASE/spell/Detect Magic|detect magic]]_; **(1st)** _[[DATABASE/spell/Detect Alignment|detect alignment]]_ (evil or good only)
+<span class="in-box-ability">**[[DATABASE/monsterability/Change Shape|Change Shape]]** <span class="action-icon">1</span> (arcane, concentrate, polymorph, transmutation) The marid can take on the appearance of any water elemental or humanoid. This ability doesn’t change the marid’s Speed or its attack and damage bonuses with its Strikes.</span><span class="in-box-ability">**Rush of Water** <span class="action-icon">2</span> (arcane, evocation, water) The marid releases a jet of water in a 60-foot line, dealing 9d6 bludgeoning damage (DC 28 basic Reflex save). A creature that fails its save is also pushed 10 feet (20 feet on a critical failure). The marid can’t use Rush of Water again for 1d4 rounds.</span><span class="in-box-ability">**Skewer** <span class="action-icon">1</span> The marid makes a trident Strike, dealing an extra 2d6 persistent bleed damage on a hit (4d6 on a critical hit).</span>
 
 ###  Marid Shahzadas
 
-Marid shahzadas grant wishes in ways that amuse them. They add the following to their innate spells: **5th** [[Cone of Cold]], [[Illusory Creature]].
+Marid shahzadas grant wishes in ways that amuse them. They add the following to their innate spells: **5th** [[DATABASE/spell/Cone of Cold|cone of cold (at will)]], [[DATABASE/spell/Illusory Creature|illusory creature (×2)]].

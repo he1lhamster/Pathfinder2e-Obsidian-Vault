@@ -86,29 +86,29 @@ This creature did not include a description.
 # The Shadow Prince<span class="item-type">Creature 11</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Illusion</span><span class="item-trait">Mental</span>
-**Source** [[Pathfinder 191. The Destiny War]]
-Variant [[Brainchild]] 
-**Perception** +18; [[Darkvision]]
-**Languages** [[Telepathy]] 100 feet, universal language
-**Skills** [[Deception]] +22, [[Intimidation]] +24, [[Occultism]] +21, [[Society]] +21, [[Stealth]] +20
+**Source** [[DATABASE/source/Pathfinder 191. The Destiny War|Pathfinder #191: The Destiny War]]
+Variant [[DATABASE/monster/Brainchild|brainchild]] 
+**Perception** +18; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/monsterability/Telepathy|telepathy]] 100 feet, universal language
+**Skills** [[DATABASE/skill/Deception|Deception]] +22, [[DATABASE/skill/Intimidation|Intimidation]] +24, [[DATABASE/skill/Occultism|Occultism]] +21, [[DATABASE/skill/Society|Society]] +21, [[DATABASE/skill/Stealth|Stealth]] +20
 **Str** +4, **Dex** +5, **Con** +4, **Int** +2, **Wis** +3, **Cha** +7
-**[[Frightful Presence]]** (aura, emotion, fear, mental) 100 feet, DC 28.
+**[[DATABASE/monsterability/Frightful Presence|Frightful Presence]]** (aura, emotion, fear, mental) 100 feet, DC 28.
 **Universal Language** Anything spoken by the Shadow Prince is perceived by the listener in its native language.
-**Urban Legend** A brainchild is sustained only by the reputation that precedes them. Mindless creatures are immune to a brainchild and can't perceive them. The brainchild's size, features, and items, as well as the appearance of their attacks, match what the foes perceiving them expect. If foes expect to see different things, the brainchild chooses which to manifest. If any creature that can perceive the brainchild believes the brainchild has one of the abilities below, the brainchild has that ability. A creature can [[Seek]] or [[Sense Motive]] (against the brainchild's [[Deception]] DC) to attempt to disbelieve an individual ability. If at any point no creature perceiving the brainchild believes in the ability, the brainchild loses that ability immediately. If foes expect different particulars, such as one believing the brainchild is immune to fire and another believing they're immune to divinations, the brainchild chooses one to have.
+**Urban Legend** A brainchild is sustained only by the reputation that precedes them. Mindless creatures are immune to a brainchild and can't perceive them. The brainchild's size, features, and items, as well as the appearance of their attacks, match what the foes perceiving them expect. If foes expect to see different things, the brainchild chooses which to manifest. If any creature that can perceive the brainchild believes the brainchild has one of the abilities below, the brainchild has that ability. A creature can [[DATABASE/action/Seek|Seek]] or [[DATABASE/action/Sense Motive|Sense Motive]] (against the brainchild's [[DATABASE/skill/Deception|Deception]] DC) to attempt to disbelieve an individual ability. If at any point no creature perceiving the brainchild believes in the ability, the brainchild loses that ability immediately. If foes expect different particulars, such as one believing the brainchild is immune to fire and another believing they're immune to divinations, the brainchild chooses one to have.
 
-* [[Tremorsense]] (imprecise) 100 feet
+* [[DATABASE/monsterability/Tremorsense|Tremorsense]] (imprecise) 100 feet
 * Immunity to one damage type, magic school, or condition
 * Weakness 10 to one damage type other than mental
-* Resistance 10 to physical damage, with an exception for either [[Cold Iron]] or [[Silver]]
-* [[Frightful Presence]] (aura, emotion, fear, mental) 100 feet, DC 28
+* Resistance 10 to physical damage, with an exception for either [[DATABASE/equipment/Cold Iron|cold iron]] or [[DATABASE/equipment/Silver|silver]]
+* [[DATABASE/monsterability/Frightful Presence|Frightful Presence]] (aura, emotion, fear, mental) 100 feet, DC 28
 * 1d6 Extra Damage on Strikes, of a type one foe believes in
-* Additional Spells [[Phantom Pain]] and [[Shadow Blast]] at 6th level
-The Shadow Prince's illusory abilities granted by its urban legend include its immunity to emotion effects, its resistance to physical damage, its frightful presence, and the [[Persistent Damage]] caused by its melee Strikes.
+* Additional Spells [[DATABASE/spell/Phantom Pain|phantom pain]] and [[DATABASE/spell/Shadow Blast|shadow blast]] at 6th level
+The Shadow Prince's illusory abilities granted by its urban legend include its immunity to emotion effects, its resistance to physical damage, its frightful presence, and the [[DATABASE/condition/Persistent Damage|persistent bleed]] caused by its melee Strikes.
 
 ---
 **AC** 30; **Fort** +21, **Ref** +22, **Will** +18
-**HP** 200; **Immunities** death effects, detection, [[Disease]], [[Doomed]], emotion effects, necromancy, [[Scrying]]; **Weaknesses** mental 10
+**HP** 200; **Immunities** death effects, detection, [[DATABASE/monsterability/Disease|diseased]], [[DATABASE/condition/Doomed|doomed]], emotion effects, necromancy, [[DATABASE/spell/Scrying|scrying]]; **Weaknesses** mental 10
 
 ---
 **Speed** 30 feet, fly 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> illusory weapon +24 [+19/+14] (illusion, mental, occult), **Damage** 4d6+10 mental plus 1d6 [[Persistent Damage]]</span>**Occult Innate Spells** DC 30; **5th** _[[Phantasmal Killer]]_ (×3); **4th** _[[Dimension Door]]_ (×2); **Cantrips** **(5th)** _[[Shield]]_, _[[Telekinetic Projectile]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> illusory weapon +24 [+19/+14] (illusion, mental, occult), **Damage** 4d6+10 mental plus 1d6 [[DATABASE/condition/Persistent Damage|persistent bleed]]</span>**Occult Innate Spells** DC 30; **5th** _[[DATABASE/spell/Phantasmal Killer|phantasmal killer]]_ (×3); **4th** _[[DATABASE/spell/Dimension Door|dimension door]]_ (×2); **Cantrips** **(5th)** _[[DATABASE/spell/Shield|shield]]_, _[[DATABASE/spell/Telekinetic Projectile|telekinetic projectile]]_

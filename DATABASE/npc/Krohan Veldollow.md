@@ -94,19 +94,19 @@ wisdom: '+3'
 
 Krohan's mistakes kicked off several important campaign developments, such as Zogototaru's rampage and the machinations of a hryngar villain the PCs haven't met yet. Krohan provides a strong hook for the PCs to recover and repair Taargick's clan dagger, all while providing greater context for the legends of High King Taargick and Clan Tolorr. During this adventure, Krohan's gradual discovery of his occult abilities also helps illustrate Rivethun lore, giving the players a window into this iconic dwarven tradition. Importantly, Krohan doesn't seek the spotlight. His own attempt at heroics inflicted real harm, and he would much rather resolve past misdeeds and support the PCs' adventuring careers.
  Krohan's journey parallels many of the campaign's themes: acknowledging past wrongs and working to repair the damage. In helping him, the players can better internalize these objectives for when they depart Highhelm and have opportunities to start mending misdeeds of the past.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 28
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 28
 **Unspecific Lore**: DC 26
 **Specific Lore**: DC 23
 
 # Krohan Veldollow<span class="item-type">Creature 3</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NG</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Dwarf</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 193. Mantle of Gold]]
+**Source** [[DATABASE/source/Pathfinder 193. Mantle of Gold|Pathfinder #193: Mantle of Gold]]
 **Perception** +9; darkvision
-**Languages** [[Common]], [[Dwarven]], [[Undercommon]]
-**Skills** [[Athletics]] +9, [[Lore]] +8, [[Medicine]] +8, [[Occultism]] +8, [[Society]] +6, [[Stealth]] +5
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Dwarven|Dwarven]], [[DATABASE/language/Undercommon|Undercommon]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +9, [[DATABASE/skill/Lore|Dwarf Lore]] +8, [[DATABASE/skill/Medicine|Medicine]] +8, [[DATABASE/skill/Occultism|Occultism]] +8, [[DATABASE/skill/Society|Society]] +6, [[DATABASE/skill/Stealth|Stealth]] +5
 **Str** +2, **Dex** +0, **Con** +2, **Int** +1, **Wis** +3, **Cha** +1
-**Items** [[Adventurer's Pack]], [[Buckler]], [[Composite Shortbow]], [[Leather Armor]], [[Antidote]], [[Healing Potion]], [[Pick]]
+**Items** [[DATABASE/equipment/Adventurer's Pack|adventurer's pack]], [[DATABASE/shield/Buckler|buckler]], [[DATABASE/weapon/Composite Shortbow|composite shortbow (20 arrows)]], [[DATABASE/armor/Leather Armor|leather armor]], [[DATABASE/equipment/Antidote|lesser antidote]], [[DATABASE/equipment/Healing Potion|lesser healing potion]], [[DATABASE/weapon/Pick|pick]]
 
 ---
 **AC** 18 (19 with shield raised); **Fort** +9, **Ref** +7, **Will** +10
@@ -115,5 +115,5 @@ Krohan's mistakes kicked off several important campaign developments, such as Zo
 
 ---
 **Speed** 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> pick +10 [+5/+0] (fatal d10), **Damage** 1d6+2 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> composite shortbow +8 [+3/-2] (deadly d10, propulsive, range increment 60 feet), **Damage** 1d6+1 piercing</span>**Occult Innate Spells** DC 19, attack +11; **2nd** _[[Soothe]]_, _[[Telekinetic Maneuver]]_ (2 slots); **1st** _[[Fear]]_, _[[Magic Weapon]]_, _[[Spirit Link]]_ (3 slots); **Cantrips** **(2nd)** _[[Chill Touch]]_, _[[Daze]]_, _[[Forbidding Ward]]_
-<span class="in-box-ability">**Righthand Man** Krohan gains a +2 circumstance bonus to attack rolls and skill checks attempted to [[Aid]] others. He can attempt a [[Lore]] check in place of any other attack roll or skill check to Aid a [[Dwarf]].</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> pick +10 [+5/+0] (fatal d10), **Damage** 1d6+2 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> composite shortbow +8 [+3/-2] (deadly d10, propulsive, range increment 60 feet), **Damage** 1d6+1 piercing</span>**Occult Innate Spells** DC 19, attack +11; **2nd** _[[DATABASE/spell/Soothe|soothe]]_, _[[DATABASE/spell/Telekinetic Maneuver|telekinetic maneuver]]_ (2 slots); **1st** _[[DATABASE/spell/Fear|fear]]_, _[[DATABASE/spell/Magic Weapon|magic weapon]]_, _[[DATABASE/spell/Spirit Link|spirit link]]_ (3 slots); **Cantrips** **(2nd)** _[[DATABASE/spell/Chill Touch|chill touch]]_, _[[DATABASE/spell/Daze|daze]]_, _[[DATABASE/spell/Forbidding Ward|forbidding ward]]_
+<span class="in-box-ability">**Righthand Man** Krohan gains a +2 circumstance bonus to attack rolls and skill checks attempted to [[DATABASE/action/Aid|Aid]] others. He can attempt a [[DATABASE/skill/Lore|Dwarf Lore]] check in place of any other attack roll or skill check to Aid a [[DATABASE/ancestry/Dwarf|dwarf]].</span>

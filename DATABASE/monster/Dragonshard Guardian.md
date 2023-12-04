@@ -84,16 +84,16 @@ wisdom: '+7'
 # Dragonshard Guardian
 
 Created by Mengkare and powered by a shard of the _Orb of Gold Dragonkind_, this construct is made of sculpted crystal draped in a beautiful gold filigree frame.
-**Recall Knowledge - Construct ([[Arcana]], [[Crafting]])**: DC 54
+**Recall Knowledge - Construct ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Crafting|Crafting]])**: DC 54
 **Unspecific Lore**: DC 52
 **Specific Lore**: DC 49
 
 # Dragonshard Guardian<span class="item-type">Creature 22</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Construct</span>
-**Source** [[Pathfinder 150. Broken Promises]]
-**Perception** +39; darkvision, [[True Seeing]]
-**Skills** [[Arcana]] +30
+**Source** [[DATABASE/source/Pathfinder 150. Broken Promises|Pathfinder #150: Broken Promises]]
+**Perception** +39; darkvision, [[DATABASE/spell/True Seeing|true seeing]]
+**Skills** [[DATABASE/skill/Arcana|Arcana]] +30
 **Str** +10, **Dex** +8, **Con** +9, **Int** -5, **Wis** +7, **Cha** -5
 
 ---
@@ -106,7 +106,7 @@ Created by Mengkare and powered by a shard of the _Orb of Gold Dragonkind_, this
 <span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +41 [+36/+31] (magical, reach 15 feet), **Damage** 6d10+8 piercing plus 2d10 persistent bleed</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +41 [+37/+33] (agile, magical, reach 10 feet), **Damage** 9d6+8 slashing</span><span class="in-box-ability">**Breath Weapon** <span class="action-icon">2</span> The construct breathes in one of two ways, then can’t use Breath Weapon again for 1d4 rounds.
 
 * **Flame** (arcane, evocation, fire) A blast of flame deals 15d10 fire damage to all creatures in a 60-foot cone (DC 45 basic Reflex save). This fire damage does not harm objects or constructs.
-* **Weakening Gas** (arcane, necromancy) A cloud of gold-flecked gas forces each creature in a 60-foot cone to attempt a DC 45 Fortitude save; the effect lasts 1 minute. **Critical Success** The creature is unaffected. **Success** The creature is [[Enfeebled]]. **Failure** The creature is [[Enfeebled]]. **Critical Failure** The creature is [[Enfeebled]].
+* **Weakening Gas** (arcane, necromancy) A cloud of gold-flecked gas forces each creature in a 60-foot cone to attempt a DC 45 Fortitude save; the effect lasts 1 minute. **Critical Success** The creature is unaffected. **Success** The creature is [[DATABASE/condition/Enfeebled|enfeebled 2]]. **Failure** The creature is [[DATABASE/condition/Enfeebled|enfeebled 5]]. **Critical Failure** The creature is [[DATABASE/condition/Enfeebled|enfeebled 8]].
 
 </span>
 

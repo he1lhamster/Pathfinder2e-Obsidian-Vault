@@ -79,26 +79,26 @@ wisdom: '+1'
 # Valerie (Level 9)
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 36
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 36
 **Unspecific Lore**: DC 34
 **Specific Lore**: DC 31
 
 # Valerie (Level 9)<span class="item-type">Creature 9</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">LN</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Kingmaker Companion Guide]]
-Female versatile human fighter ([[Martial Disciple]] background)
+**Source** [[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]
+Female versatile human fighter ([[DATABASE/background/Martial Disciple|Martial Disciple]] background)
 **Perception** +16; (master) 
-**Languages** [[Common]]
-**Skills** [[Acrobatics]] +12 (trained), [[Athletics]] +19 (mater), [[Crafting]] +11 (trained), [[Diplomacy]] +14 (trained), [[Intimidation]] +18 (master), [[Religion]] +12 (trained), [[Society]] +11 (trained), [[Lore]] +11 (trained)
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +12 (trained), [[DATABASE/skill/Athletics|Athletics]] +19 (mater), [[DATABASE/skill/Crafting|Crafting]] +11 (trained), [[DATABASE/skill/Diplomacy|Diplomacy]] +14 (trained), [[DATABASE/skill/Intimidation|Intimidation]] +18 (master), [[DATABASE/skill/Religion|Religion]] +12 (trained), [[DATABASE/skill/Society|Society]] +11 (trained), [[DATABASE/skill/Lore|Warfare Lore]] +11 (trained)
 **Str** +4, **Dex** +1, **Con** +3, **Int** +0, **Wis** +1, **Cha** +3
-**Items** _+1 [[Magic Weapon]] [[Composite Shortbow]] (20 arrows)_, _+1 [[Wounding]] [[Magic Weapon]] [[Bastard Sword]]_, [[Full Plate]], [[Backpack]], [[Bedroll]], [[Flint and Steel]], lesser elixirs of life, [[Sturdy Shield]], [[Juggernaut Mutagen]], [[Rations]], ring of fire resistance, [[Torch]], [[Waterskin]]
+**Items** _+1 [[DATABASE/equipment/Magic Weapon|striking]] [[DATABASE/weapon/Composite Shortbow|composite shortbow]] (20 arrows)_, _+1 [[DATABASE/equipment/Wounding|wounding]] [[DATABASE/equipment/Magic Weapon|striking]] [[DATABASE/weapon/Bastard Sword|bastard sword]]_, [[DATABASE/armor/Full Plate|+1 resilient full plate]], [[DATABASE/equipment/Backpack|backpack]], [[DATABASE/equipment/Bedroll|bedroll]], [[DATABASE/equipment/Flint and Steel|flint and steel]], lesser elixirs of life, [[DATABASE/equipment/Sturdy Shield|lesser sturdy shield (Hardness 10, HP 80, BT 40)]], [[DATABASE/equipment/Juggernaut Mutagen|moderate juggernaut mutagen]], [[DATABASE/equipment/Rations|rations (1 week)]], ring of fire resistance, [[DATABASE/equipment/Torch|torches (3)]], [[DATABASE/equipment/Waterskin|waterskin]]
 
 ---
 **AC** 28; **Fort** +19, **Ref** +15, **Will** +15
 **HP** 134; **Resistances** fire 5
-<span class="in-box-ability">**[[Aggressive Block]]** <span class="action-icon">5</span> </span><span class="in-box-ability">**[[Attack of Opportunity]]** <span class="action-icon">5</span> </span><span class="in-box-ability">**[[Reactive Shield]]** <span class="action-icon">5</span> </span><span class="in-box-ability">**[[Shield Block]]** <span class="action-icon">5</span> </span>
+<span class="in-box-ability">**[[DATABASE/feat/Aggressive Block|Aggressive Block]]** <span class="action-icon">5</span> </span><span class="in-box-ability">**[[DATABASE/monsterability/Attack of Opportunity|Attack of Opportunity]]** <span class="action-icon">5</span> </span><span class="in-box-ability">**[[DATABASE/feat/Reactive Shield|Reactive Shield]]** <span class="action-icon">5</span> </span><span class="in-box-ability">**[[DATABASE/feat/Shield Block|Shield Block]]** <span class="action-icon">5</span> </span>
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _bastard sword_ +20 [+15/+10] (two-hand d12), **Damage** 2d8+7 slashing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _composite shortbow_ +15 [+10/+5] (deadly d10, range 60 feet), **Damage** 2d8+2 piercing</span><span class="in-box-ability">**Ancestry Feats** [[Cooperative Nature]], [[Natural Ambition]] ([[Power Attack]]), [[Natural Skill]] (Diplomacy, Society)</span><span class="in-box-ability">**Class Feats** [[Aggressive Block]], [[Power Attack]], [[Powerful Shove]], [[Quick Shield Block]], [[Reactive Shield]], [[Shield Warden]]</span><span class="in-box-ability">**Class Abilities** Attack of Opportunity, Battlefield Surveyor, Bravery, Combat Flexibility, Fighter Weapon Mastery (sword), Juggernaut, Shield Block, Weapon Specialization</span><span class="in-box-ability">**General Feats** [[Diehard]], [[Fleet]], [[Shield Block]], [[Toughness]]</span><span class="in-box-ability">**Power Attack** <span class="action-icon">2</span> </span><span class="in-box-ability">**Skill Feats** [[Cat Fall]], [[Intimidating Glare]], [[Intimidating Prowess]], [[Quick Jump]], [[Titan Wrestler]]</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _bastard sword_ +20 [+15/+10] (two-hand d12), **Damage** 2d8+7 slashing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _composite shortbow_ +15 [+10/+5] (deadly d10, range 60 feet), **Damage** 2d8+2 piercing</span><span class="in-box-ability">**Ancestry Feats** [[DATABASE/feat/Cooperative Nature|Cooperative Nature]], [[DATABASE/feat/Natural Ambition|Natural Ambition]] ([[DATABASE/feat/Power Attack|Power Attack]]), [[DATABASE/feat/Natural Skill|Natural Skill]] (Diplomacy, Society)</span><span class="in-box-ability">**Class Feats** [[DATABASE/feat/Aggressive Block|Aggressive Block]], [[DATABASE/feat/Power Attack|Power Attack]], [[DATABASE/feat/Powerful Shove|Powerful Shove]], [[DATABASE/feat/Quick Shield Block|Quick Shield Block]], [[DATABASE/feat/Reactive Shield|Reactive Shield]], [[DATABASE/feat/Shield Warden|Shield Warden]]</span><span class="in-box-ability">**Class Abilities** Attack of Opportunity, Battlefield Surveyor, Bravery, Combat Flexibility, Fighter Weapon Mastery (sword), Juggernaut, Shield Block, Weapon Specialization</span><span class="in-box-ability">**General Feats** [[DATABASE/feat/Diehard|Diehard]], [[DATABASE/feat/Fleet|Fleet]], [[DATABASE/monsterability/Shield Block|Shield Block]], [[DATABASE/feat/Toughness|Toughness]]</span><span class="in-box-ability">**Power Attack** <span class="action-icon">2</span> </span><span class="in-box-ability">**Skill Feats** [[DATABASE/feat/Cat Fall|Cat Fall]], [[DATABASE/feat/Intimidating Glare|Intimidating Glare]], [[DATABASE/feat/Intimidating Prowess|Intimidating Prowess]], [[DATABASE/feat/Quick Jump|Quick Jump]], [[DATABASE/feat/Titan Wrestler|Titan Wrestler]]</span>

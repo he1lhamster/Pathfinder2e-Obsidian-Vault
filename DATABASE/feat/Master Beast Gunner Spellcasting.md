@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Expert Beast Gunner Spellcasting|Expert Beast Gun
   Spellcasting]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Master Beast Gunner Spellcasting <span class="item-type">Feat 18</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Guns & Gears]]
-**Archetype** [[Beast Gunner]]
-**Prerequisites** [[Expert Beast Gunner Spellcasting]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Archetype** [[DATABASE/archetype/Beast Gunner|Beast Gunner]]
+**Prerequisites** [[DATABASE/feat/Expert Beast Gunner Spellcasting|Expert Beast Gunner Spellcasting]]
 
 ---
 You've learned the final truth of beast guns, making you a master in the magic they grant you. You gain the master spellcasting benefits.

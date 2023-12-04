@@ -11,6 +11,7 @@ name: Swap Reflections
 prerequisite: '[[DATABASE/feat/Alter Ego Dedication|Alter Ego Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -28,10 +29,10 @@ type: Feat
 # Swap Reflections <span class="action-icon">2</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Conjuration</span><span class="item-trait">Extradimensional</span><span class="item-trait">Incapacitation</span><span class="item-trait">Occult</span><span class="item-trait">Teleportation</span>
-**Source** [[Dark Archive]]
-**Archetype** [[Alter Ego]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Archetype** [[DATABASE/archetype/Alter Ego|Alter Ego]]
 **Frequency** once per 10 minutes
-**Prerequisites** [[Alter Ego Dedication]]
+**Prerequisites** [[DATABASE/feat/Alter Ego Dedication|Alter Ego Dedication]]
 
 ---
 You've learned how to use even your reflection to your advantage. You send your own reflection to forcibly swap places with the reflection of an enemy, pulling each of you through opposite ends and switching places. The enemy must be within 120 feet, you must both be adjacent to reflective surfaces (such as glass, mirrors, or calm water), and you must be able to see the target's reflection and have line of effect to it. The target attempts a Will save against your spell DC or class DC, whichever is higher.

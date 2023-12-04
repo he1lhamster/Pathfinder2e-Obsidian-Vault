@@ -11,6 +11,7 @@ name: Quick Shield Block
 prerequisite: '[[DATABASE/feat/Shield Block|Shield Block]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Quick Shield Block <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Champion</span><span class="item-trait">Fighter</span>
-**Source** [[Core Rulebook]] 
-**Archetypes** [[Bastion]]*, [[Viking]]*
-**Prerequisites** [[Shield Block]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetypes** [[DATABASE/archetype/Bastion|Bastion]]*, [[DATABASE/archetype/Viking|Viking]]*
+**Prerequisites** [[DATABASE/feat/Shield Block|Shield Block]]
 * This archetype offers Quick Shield Block at a different level than displayed here.
 
 ---

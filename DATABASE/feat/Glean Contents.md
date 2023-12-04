@@ -11,6 +11,7 @@ name: Glean Contents
 prerequisite: Trained in [[DATABASE/skill/Society|Society]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: society
@@ -24,11 +25,11 @@ type: Feat
 # Glean Contents <span class="item-type">Feat 1</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** trained in [[Society]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** trained in [[DATABASE/skill/Society|Society]]
 
 ---
-You are adept at quickly scanning loose papers and carefully discerning the contents of sealed letters without damaging the seal. You can attempt [[Society]] checks to [[Decipher Writing]] on a message that is only partially glimpsed, upside down or reversed from your perspective, or even sealed. However, on a critical failure, the recipient is made aware of your efforts (for instance, you damage the seal or disturb the papers in some way). When using this feat to decipher sealed letters, your attempt to Decipher Writing gains the manipulate trait. This feat doesn't prevent witnesses from noticing your efforts, particularly with sealed letters which you must manipulate directly in order to read; you might need to attempt [[Deception]] or [[Stealth]] checks to avoid being noticed.
+You are adept at quickly scanning loose papers and carefully discerning the contents of sealed letters without damaging the seal. You can attempt [[DATABASE/skill/Society|Society]] checks to [[DATABASE/action/Decipher Writing|Decipher Writing]] on a message that is only partially glimpsed, upside down or reversed from your perspective, or even sealed. However, on a critical failure, the recipient is made aware of your efforts (for instance, you damage the seal or disturb the papers in some way). When using this feat to decipher sealed letters, your attempt to Decipher Writing gains the manipulate trait. This feat doesn't prevent witnesses from noticing your efforts, particularly with sealed letters which you must manipulate directly in order to read; you might need to attempt [[DATABASE/skill/Deception|Deception]] or [[DATABASE/skill/Stealth|Stealth]] checks to avoid being noticed.
 
 ## Traits
 

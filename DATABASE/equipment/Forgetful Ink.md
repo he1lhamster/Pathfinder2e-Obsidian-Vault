@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: DC 20 Fortitude ( secret )
 school: null
 size: null
@@ -58,7 +59,7 @@ weapon_type: null
 # Forgetful Ink<span class="item-type">Item 6</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Contact</span><span class="item-trait">Poison</span>
-**Source** [[Pathfinder 169. Kindled Magic]]
+**Source** [[DATABASE/source/Pathfinder 169. Kindled Magic|Pathfinder #169: Kindled Magic]]
 **Price** 32 gp
 **Usage** held in 2 hands; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact

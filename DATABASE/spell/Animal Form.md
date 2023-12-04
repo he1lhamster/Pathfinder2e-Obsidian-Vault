@@ -33,6 +33,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -49,9 +50,9 @@ type: Spell
 # Animal Form<span class="item-type">Spell 2</span>
 
 <span class="item-trait">Polymorph</span><span class="item-trait">Transmutation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** primal
-**Deities** [[Angazhan]], [[Cernunnos]], [[Geryon]], [[Kazutal]], [[Lamashtu]], [[Ravithra]], [[Rowdrosh]], [[Stag Mother of the Forest of Stones]], [[Wadjet]]
+**Deities** [[DATABASE/deity/Angazhan|Angazhan]], [[DATABASE/deity/Cernunnos|Cernunnos]], [[DATABASE/deity/Geryon|Geryon]], [[DATABASE/deity/Kazutal|Kazutal]], [[DATABASE/deity/Lamashtu|Lamashtu]], [[DATABASE/deity/Ravithra|Ravithra]], [[DATABASE/deity/Rowdrosh|Rowdrosh]], [[DATABASE/deity/Stag Mother of the Forest of Stones|Stag Mother of the Forest of Stones]], [[DATABASE/deity/Wadjet|Wadjet]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Duration** 1 minute
 
@@ -62,8 +63,8 @@ You call upon primal energy to transform yourself into a Medium animal battle fo
 * AC = 16 + your level. Ignore your armor's check penalty and Speed reduction. 
 * 5 temporary Hit Points. 
 * Low-light vision and imprecise scent 30 feet. 
-* One or more unarmed melee attacks specific to the battle form you choose, which are the only attacks you can Strike with. You're trained with them. Your attack modifier is +9, and your damage bonus is +1. These attacks are Strength based (for the purpose of the [[Enfeebled]] condition, for example). If your unarmed attack bonus is higher, you can use it instead. 
-* [[Athletics]] modifier of +9, unless your own modifier is higher.
+* One or more unarmed melee attacks specific to the battle form you choose, which are the only attacks you can Strike with. You're trained with them. Your attack modifier is +9, and your damage bonus is +1. These attacks are Strength based (for the purpose of the [[DATABASE/condition/Enfeebled|enfeebled]] condition, for example). If your unarmed attack bonus is higher, you can use it instead. 
+* [[DATABASE/skill/Athletics|Athletics]] modifier of +9, unless your own modifier is higher.
 
 You also gain specific abilities based on the type of animal you choose:
 

@@ -24,6 +24,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Fortitude
 school: Necromancy
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -41,9 +42,9 @@ type: Spell
 # Goblin Pox<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Disease</span><span class="item-trait">Necromancy</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, primal
-**Deities** [[Apollyon]], [[Ghlaunder]], [[Urgathoa]]
+**Deities** [[DATABASE/deity/Apollyon|Apollyon]], [[DATABASE/deity/Ghlaunder|Ghlaunder]], [[DATABASE/deity/Urgathoa|Urgathoa]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** touch; **Targets** 1 creature
 **Saving Throw** Fortitude

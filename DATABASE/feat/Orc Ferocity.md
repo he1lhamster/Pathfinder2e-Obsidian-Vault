@@ -11,6 +11,7 @@ name: Orc Ferocity
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,19 +24,19 @@ type: Feat
 # Orc Ferocity <span class="action-icon">5</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Orc</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Frequency** once per day
 **Trigger** You would be reduced to 0 Hit Points but not immediately killed.
 
 ---
-Fierceness in battle runs through your blood, and you refuse to fall from your injuries. You avoid being knocked out and remain at 1 Hit Point, and your [[Wounded]] condition increases by 1.
+Fierceness in battle runs through your blood, and you refuse to fall from your injuries. You avoid being knocked out and remain at 1 Hit Point, and your [[DATABASE/condition/Wounded|wounded]] condition increases by 1.
 
 ## Orc Ferocity Leads To...
 
-[[Defy Death]], [[Ferocious Beasts]], [[Incredible Ferocity]], [[Rampaging Ferocity]], [[Undying Ferocity]]
+[[DATABASE/feat/Defy Death|Defy Death]], [[DATABASE/feat/Ferocious Beasts|Ferocious Beasts]], [[DATABASE/feat/Incredible Ferocity|Incredible Ferocity]], [[DATABASE/feat/Rampaging Ferocity|Rampaging Ferocity]], [[DATABASE/feat/Undying Ferocity|Undying Ferocity]]
 
 ## Traits
 
 **Orc:**
 
-A creature with this trait is a member of the [[Orc]] ancestry. These green-skinned people tend to have darkvision. An ability with this trait can be used or selected only by orcs. An item with this trait is created and used by orcs.
+A creature with this trait is a member of the [[DATABASE/ancestry/Orc|orc]] ancestry. These green-skinned people tend to have darkvision. An ability with this trait can be used or selected only by orcs. An item with this trait is created and used by orcs.

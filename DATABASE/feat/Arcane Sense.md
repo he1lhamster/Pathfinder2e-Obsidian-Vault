@@ -11,6 +11,7 @@ name: Arcane Sense
 prerequisite: Trained in [[DATABASE/skill/Arcana|Arcana]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: arcana
@@ -24,15 +25,15 @@ type: Feat
 # Arcane Sense <span class="item-type">Feat 1</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** trained in [[Arcana]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** trained in [[DATABASE/skill/Arcana|Arcana]]
 
 ---
-Your study of magic allows you to instinctively sense its presence. You can cast 1st-level [[Detect Magic]] at will as an arcane innate spell. If you’re a master in Arcana, the spell is heightened to 3rd level; if you’re legendary, it is heightened to 4th level.
+Your study of magic allows you to instinctively sense its presence. You can cast 1st-level [[DATABASE/spell/Detect Magic|detect magic]] at will as an arcane innate spell. If you’re a master in Arcana, the spell is heightened to 3rd level; if you’re legendary, it is heightened to 4th level.
 
 ## Arcane Sense Leads To...
 
-[[Eye of the Arclords]]
+[[DATABASE/feat/Eye of the Arclords|Eye of the Arclords]]
 
 ## Traits
 

@@ -82,21 +82,21 @@ wisdom: '+1'
 # Mitflit
 
 Mitflits, also known as mites, are self-loathing and pitiful cowards, easily bullied into servitude by other creatures or even slightly more powerful mitflit leaders. They tame insects, spiders, and other such creatures to serve as faithful allies. Mitflits have lost most of their ancestral gremlin magic, leaving these incomplete beings full of doubt and insecurity. Mitflits find companionship in the other base creatures of the world, and forge bonds of friendship with vermin, the only other beings that seem willing to accept them. A social structure, even one in which they are bullied, partially fills the hole within mitflits’ personalities, and they rarely rebel or rail out unless their rage hits a breaking point.
-**Recall Knowledge - Fey ([[Nature]])**: DC 13
+**Recall Knowledge - Fey ([[DATABASE/skill/Nature|Nature]])**: DC 13
 **Unspecific Lore**: DC 11
 **Specific Lore**: DC 8
 
 # Mitflit<span class="item-type">Creature -1</span>
 
 <span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Small</span><span class="item-trait">Fey</span><span class="item-trait">Gremlin</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +4; darkvision, scent (imprecise) 30 feet
-**Languages** [[Undercommon]]
-**Skills** [[Acrobatics]] +5, [[Diplomacy]] +1 (+7 vs. arthropods), [[Nature]] +3, [[Stealth]] +5, [[Thievery]] +5
+**Languages** [[DATABASE/language/Undercommon|Undercommon]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +5, [[DATABASE/skill/Diplomacy|Diplomacy]] +1 (+7 vs. arthropods), [[DATABASE/skill/Nature|Nature]] +3, [[DATABASE/skill/Stealth|Stealth]] +5, [[DATABASE/skill/Thievery|Thievery]] +5
 **Str** -1, **Dex** +3, **Con** +0, **Int** -1, **Wis** +1, **Cha** -1
 **Self-Loathing** (emotion, mental) A mitflit’s self-loathing makes it easy to influence. It takes a –4 penalty to its Will DC against checks to Coerce, Demoralize, Make an Impression, and Request.
  **Vermin Empathy** Mitflits can use Diplomacy to Make an Impression on and Request things of arthropods (insects, spiders, scorpions, crabs, and similar invertebrate animals). Most arthropods have a starting attitude of indifferent to mitflits.
-**Items** [[Dart]], [[Shortsword]]
+**Items** [[DATABASE/weapon/Dart|dart (10)]], [[DATABASE/weapon/Shortsword|shortsword]]
 
 ---
 **AC** 15; **Fort** +2, **Ref** +7, **Will** +4
@@ -104,5 +104,5 @@ Mitflits, also known as mites, are self-loathing and pitiful cowards, easily bul
 
 ---
 **Speed** 20 feet; climb 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> shortsword +8 [+4/+0] (agile, finesse, versatile S), **Damage** 1d6-1 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> dart +8 [+4/+0] (agile, range increment 20 feet, thrown), **Damage** 1d4-1 piercing</span>**Primal Innate Spells** DC 16; **2nd** _[[Speak with Animals]]_ (at will; arthropods only); **1st** _[[Bane]]_; **Cantrips** **(1st)** _[[Prestidigitation]]_
-<span class="in-box-ability">**Vengeful Anger** (emotion, mental) As long as it isn’t [[Frightened]], a mitflit gains a +2 status bonus to damage rolls against a creature that has previously damaged or tormented it.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> shortsword +8 [+4/+0] (agile, finesse, versatile S), **Damage** 1d6-1 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> dart +8 [+4/+0] (agile, range increment 20 feet, thrown), **Damage** 1d4-1 piercing</span>**Primal Innate Spells** DC 16; **2nd** _[[DATABASE/spell/Speak with Animals|speak with animals]]_ (at will; arthropods only); **1st** _[[DATABASE/spell/Bane|bane]]_; **Cantrips** **(1st)** _[[DATABASE/spell/Prestidigitation|prestidigitation]]_
+<span class="in-box-ability">**Vengeful Anger** (emotion, mental) As long as it isn’t [[DATABASE/condition/Frightened|frightened]], a mitflit gains a +2 status bonus to damage rolls against a creature that has previously damaged or tormented it.</span>

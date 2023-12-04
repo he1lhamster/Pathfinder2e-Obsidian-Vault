@@ -11,6 +11,7 @@ name: Vision of Foresight
 prerequisite: '[[DATABASE/feat/Sleepwalker Dedication|Sleepwalker Dedication]]'
 rarity: Common
 requirement: You're in a Daydream Trance
+rus_type_level: null
 school: Divination
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -26,9 +27,9 @@ type: Feat
 # Vision of Foresight <span class="action-icon">1</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Divination</span><span class="item-trait">Fortune</span><span class="item-trait">Occult</span>
-**Source** [[Dark Archive]]
-**Archetype** [[Sleepwalker]]
-**Prerequisites** [[Sleepwalker Dedication]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Archetype** [[DATABASE/archetype/Sleepwalker|Sleepwalker]]
+**Prerequisites** [[DATABASE/feat/Sleepwalker Dedication|Sleepwalker Dedication]]
 **Requirements** You're in a Daydream Trance
 
 ---

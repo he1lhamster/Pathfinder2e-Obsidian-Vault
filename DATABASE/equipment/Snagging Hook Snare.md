@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -55,9 +56,9 @@ weapon_type: null
 # Snagging Hook Snare<span class="item-type">Item 10</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Mechanical</span><span class="item-trait">Snare</span><span class="item-trait">Trap</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Price** 180 gp
 **Bulk** —
 
 ---
-This snare snags a creature with its wicked metal hooks. The first creature to enter the square takes 5d8 piercing damage and 5d8 slashing damage, with a DC 27 basic Reflex save. On a critical failure, the hooks piercing its flesh make the creature [[Immobilized]] until it successfully [[Escape]] (DC 27).
+This snare snags a creature with its wicked metal hooks. The first creature to enter the square takes 5d8 piercing damage and 5d8 slashing damage, with a DC 27 basic Reflex save. On a critical failure, the hooks piercing its flesh make the creature [[DATABASE/condition/Immobilized|immobilized]] until it successfully [[DATABASE/action/Escape|Escapes]] (DC 27).

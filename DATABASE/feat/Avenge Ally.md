@@ -12,6 +12,7 @@ prerequisite: null
 rarity: Common
 requirement: You are adjacent to an ally with the [[DATABASE/condition/Dying|dying]]
   condition.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,9 +26,9 @@ type: Feat
 # Avenge Ally <span class="action-icon">1</span> <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Elf</span><span class="item-trait">Fortune</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Frequency** once every 10 minutes
-**Requirements** You are adjacent to an ally with the [[Dying]] condition.
+**Requirements** You are adjacent to an ally with the [[DATABASE/condition/Dying|dying]] condition.
 
 ---
 Though you know that you will eventually outlive your companions, seeing them at death's door brings clarity to your attacks. Make a Strike. Roll twice on the attack roll and use the higher result.
@@ -36,7 +37,7 @@ Though you know that you will eventually outlive your companions, seeing them at
 
 **Elf:**
 
-A creature with this trait is a member of the elf ancestry. Elves are mysterious people with rich traditions of magic and scholarship who typically have [[Low-Light Vision]]. An ability with this trait can be used or selected only by elves. A weapon with this trait is created and used by elves.
+A creature with this trait is a member of the elf ancestry. Elves are mysterious people with rich traditions of magic and scholarship who typically have [[DATABASE/monsterability/Low-Light Vision|low-light vision]]. An ability with this trait can be used or selected only by elves. A weapon with this trait is created and used by elves.
 
 **Fortune:**
 

@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Librarian Staff<span class="item-type">Item 6+</span>
 
 <span class="item-trait">Divination</span><span class="item-trait">Extradimensional</span><span class="item-trait">Magical</span><span class="item-trait">Staff</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Usage** held in 1 hand; **Bulk** 1
 
 ---
@@ -66,17 +67,17 @@ A _librarian staff_ is a slender pole composed of thousands of coiled and compre
 
 ## Librarian Staff<span class="item-type">Item 6</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 225 gp
 **Bulk** 1
 
-* **Cantrip** [[Approximate]], [[Read Aura]]
-* **1st** [[Pocket Library]], [[Quick Sort]], [[Share Lore]]
-* **2nd** [[Comprehend Language]], [[Timely Tutor]]
+* **Cantrip** [[DATABASE/spell/Approximate|approximate]], [[DATABASE/spell/Read Aura|read aura]]
+* **1st** [[DATABASE/spell/Pocket Library|pocket library]], [[DATABASE/spell/Quick Sort|quick sort]], [[DATABASE/spell/Share Lore|share lore]]
+* **2nd** [[DATABASE/spell/Comprehend Language|comprehend language]], [[DATABASE/spell/Timely Tutor|timely tutor]]
 
 ## Librarian Staff (Greater)<span class="item-type">Item 12</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 1,750 gp
 **Bulk** 1
 The staff can store up to 100 texts.

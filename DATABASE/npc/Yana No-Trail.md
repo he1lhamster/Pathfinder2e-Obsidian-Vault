@@ -79,20 +79,20 @@ wisdom: '+0'
 # Yana No-Trail
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 33
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 33
 **Unspecific Lore**: DC 31
 **Specific Lore**: DC 28
 
 # Yana No-Trail<span class="item-type">Creature 7</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CN</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Humanoid</span><span class="item-trait">Kitsune</span>
-**Source** [[Pathfinder 177. Burning Tundra]]
-Male frozen wind [[Kitsune]] con
-**Perception** +13; [[Low-Light Vision]]
-**Languages** [[Common]], [[Hallit]], [[Jotun]], [[Skald]]; [[Speak with Animals]]
-**Skills** [[Acrobatics]] +17, [[Deception]] +17, [[Diplomacy]] +17, [[Society]] +16, [[Stealth]] +17, [[Thievery]] +17
+**Source** [[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burning Tundra]]
+Male frozen wind [[DATABASE/ancestry/Kitsune|kitsune]] con
+**Perception** +13; [[DATABASE/monsterability/Low-Light Vision|low-light vision]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Hallit|Hallit]], [[DATABASE/language/Jotun|Jotun]], [[DATABASE/language/Skald|Skald]]; [[DATABASE/spell/Speak with Animals|speak with animals]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +17, [[DATABASE/skill/Deception|Deception]] +17, [[DATABASE/skill/Diplomacy|Diplomacy]] +17, [[DATABASE/skill/Society|Society]] +16, [[DATABASE/skill/Stealth|Stealth]] +17, [[DATABASE/skill/Thievery|Thievery]] +17
 **Str** +1, **Dex** +4, **Con** +1, **Int** +3, **Wis** +0, **Cha** +4
-**Items** [[Potion of Flying]]
+**Items** [[DATABASE/equipment/Potion of Flying|standard potion of flying]]
 
 ---
 **AC** 25; **Fort** +14, **Ref** +19, **Will** +11
@@ -101,5 +101,5 @@ Male frozen wind [[Kitsune]] con
 
 ---
 **Speed** 25 feet, climb 10 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +19 [+15/+11] (agile, finesse, unarmed), **Damage** 2d4+3 slashing</span>**Primal Innate Spells** DC 23; **2nd** _[[Animal Messenger]]_, _[[Speak with Animals]]_ (at will)
-<span class="in-box-ability">**[[Change Shape]]** <span class="action-icon">1</span> (concentrate, divine, kitsune, polymorph, transmutation) Yana can transform into an Ulfen [[Human]], Tiny fox, or hybrid kitsune form. Using Change Shape counts as creating a disguise for the [[Impersonate]] use of [[Deception]]. He can remain in any of his forms indefinitely.</span><span class="in-box-ability">**[[Sneak Attack]]** Yana deals an additional 3d6 precision damage to [[Flat-Footed]] creatures.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +19 [+15/+11] (agile, finesse, unarmed), **Damage** 2d4+3 slashing</span>**Primal Innate Spells** DC 23; **2nd** _[[DATABASE/spell/Animal Messenger|animal messenger]]_, _[[DATABASE/spell/Speak with Animals|speak with animals]]_ (at will)
+<span class="in-box-ability">**[[DATABASE/monsterability/Change Shape|Change Shape]]** <span class="action-icon">1</span> (concentrate, divine, kitsune, polymorph, transmutation) Yana can transform into an Ulfen [[DATABASE/ancestry/Human|human]], Tiny fox, or hybrid kitsune form. Using Change Shape counts as creating a disguise for the [[DATABASE/action/Impersonate|Impersonate]] use of [[DATABASE/skill/Deception|Deception]]. He can remain in any of his forms indefinitely.</span><span class="in-box-ability">**[[DATABASE/monsterability/Sneak Attack|Sneak Attack]]** Yana deals an additional 3d6 precision damage to [[DATABASE/condition/Flat-Footed|flat-footed]] creatures.</span>

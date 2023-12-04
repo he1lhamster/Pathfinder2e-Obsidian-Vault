@@ -20,6 +20,7 @@ patron_theme: null
 range: null
 rarity: Rare
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
@@ -39,13 +40,13 @@ type: Spell
 # Aqueous Blast<span class="item-type">Spell 1</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Evocation</span><span class="item-trait">Water</span>
-**Source** [[Kingmaker Companion Guide]]
+**Source** [[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]
 **Traditions** arcane, occult, primal
 **Cast** <span class="action-icon">1</span> somatic
 **Duration** until the end of your turn
 
 ---
-You evoke a mass of water into the air around your outstretched fist. For the remainder of your turn, you can blast targets within 30 feet with this water by spending a single action which has the attack and concentrate traits. When you do so, attempt a ranged spell attack roll. If you hit, you inflict 2d8 bludgeoning damage. On a critical hit, the blast knocks the target [[Prone]].
+You evoke a mass of water into the air around your outstretched fist. For the remainder of your turn, you can blast targets within 30 feet with this water by spending a single action which has the attack and concentrate traits. When you do so, attempt a ranged spell attack roll. If you hit, you inflict 2d8 bludgeoning damage. On a critical hit, the blast knocks the target [[DATABASE/condition/Prone|prone]].
 
 ---
 **Heightened (+1)** The damage increases by 1d8.

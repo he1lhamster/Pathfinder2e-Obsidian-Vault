@@ -101,20 +101,20 @@ wisdom: '+2'
 
 Maladjusted forest denizens, twigjacks form from the cruel and prankish combination of fey and the very woods in which they reside. A twigjack's body is made up of prickly brambles woven with vines. Shaggy, mossy growth, not unlike hair, tops a twigjack's head. Its mouth is just a canyon of splintered and broken sticks bisecting its face. Leaves and sprigs of new growth randomly sprout from the creature's body. Many dense forests on Golarion have at least a handful of twigjacks living in the undergrowth.
  While truculent and violent, twigjacks care deeply for what they consider to be their forests. These creatures harass outsiders who delve deep into their wooded domains, forcing back even the most determined explorers, foresters, and travelers, especially when those intruders cut roads through the forest. However, they are not terribly territorial when it comes to other forest creatures. When sylvan creatures, especially fey, rally against an outside threat, twigjacks in the area eagerly arrive to fight, even if they were not invited.
- Less seasoned travelers who encounter twigjacks in their canopied homes often mistake them for [[Leshy]], a tendency that frustrates twigjacks, as they have a low opinion of such creatures. More broadly, twigjacks resent being considered mere animated plants at all. Rather, they embrace their fey heritage—often to a foolish end. Twigjacks go out of their way to ingratiate themselves to the fey creatures they live among. Several popular comic songs weave the tale of a twigjack attempting to woo a powerful and graceful [[Dryad]], only to be comically disgraced after many loutish attempts. Many fey seem embarrassed by these strange cousins, but some [[Spriggan]], [[Quickling]], and [[Redcap]] harness the twigjacks' violent urges and disruptive behavior for their own purposes.
- While twigjacks are fey, and as such are often found in the [[First World]], it's somewhat curious that those twigjacks who find religion only rarely turn to the Eldest of the First World. Instead, twigjacks tend to worship false deities of their own design: figures spotted in tangles of tree branches, clots of undergrowth, or other hidden nooks in the natural world. These religions are always highly localized, and while these faiths do not support clerics, they often inspire zealous crusades against non-fey.
-**Recall Knowledge - Fey ([[Nature]])**: DC 18
-**Recall Knowledge - Plant ([[Nature]])**: DC 18
+ Less seasoned travelers who encounter twigjacks in their canopied homes often mistake them for [[DATABASE/monsterfamily/Leshy|leshys]], a tendency that frustrates twigjacks, as they have a low opinion of such creatures. More broadly, twigjacks resent being considered mere animated plants at all. Rather, they embrace their fey heritage—often to a foolish end. Twigjacks go out of their way to ingratiate themselves to the fey creatures they live among. Several popular comic songs weave the tale of a twigjack attempting to woo a powerful and graceful [[DATABASE/monster/Dryad|dryad]], only to be comically disgraced after many loutish attempts. Many fey seem embarrassed by these strange cousins, but some [[DATABASE/monsterfamily/Spriggan|spriggans]], [[DATABASE/monster/Quickling|quicklings]], and [[DATABASE/monster/Redcap|redcaps]] harness the twigjacks' violent urges and disruptive behavior for their own purposes.
+ While twigjacks are fey, and as such are often found in the [[DATABASE/plane/First World|First World]], it's somewhat curious that those twigjacks who find religion only rarely turn to the Eldest of the First World. Instead, twigjacks tend to worship false deities of their own design: figures spotted in tangles of tree branches, clots of undergrowth, or other hidden nooks in the natural world. These religions are always highly localized, and while these faiths do not support clerics, they often inspire zealous crusades against non-fey.
+**Recall Knowledge - Fey ([[DATABASE/skill/Nature|Nature]])**: DC 18
+**Recall Knowledge - Plant ([[DATABASE/skill/Nature|Nature]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Twigjack<span class="item-type">Creature 3</span>
 
 <span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Tiny</span><span class="item-trait">Fey</span><span class="item-trait">Plant</span>
-**Source** [[Bestiary 2]] 
-**Perception** +9; [[Darkvision]]
-**Languages** [[Common]], [[Sylvan]]
-**Skills** [[Acrobatics]] +11, [[Athletics]] +9, [[Nature]] +7, [[Stealth]] +11
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +9; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Sylvan|Sylvan]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +11, [[DATABASE/skill/Athletics|Athletics]] +9, [[DATABASE/skill/Nature|Nature]] +7, [[DATABASE/skill/Stealth|Stealth]] +11
 **Str** +2, **Dex** +4, **Con** +2, **Int** +0, **Wis** +2, **Cha** +1
 
 ---

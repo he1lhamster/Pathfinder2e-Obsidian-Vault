@@ -34,6 +34,7 @@ domain_spell: '[[DATABASE/spell/Healer''s Blessing|Healer''s Blessing]]'
 id: '15'
 name: Healing Domain
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait: null
 type: Domain
@@ -41,7 +42,7 @@ type: Domain
 ---
 # Healing Domain
 
-**Source** [[Core Rulebook]] 
-**Deities** [[Arundhat]], [[Atreia]], [[Bolka]], [[Chamidu]], [[Green Man]], [[Hearth and Harvest]], [[Immonhiel]], [[Isis]], [[Korada]], [[Osiris]], [[Pharasma]], [[Qi Zhong]], [[Sarenrae]], [[Sekhmet]], [[Selket]], [[Shei]], [[Stag Mother of the Forest of Stones]], [[The Offering Plate]], [[The Prismatic Ray]], [[Tlehar]], [[Touch of the Sun]], [[Urban Prosperity]], [[Uvuko]], [[Wards of the Pharaoh]]
-**Domain Spell** _[[Healer's Blessing]]_; **Advanced Domain Spell** _[[Rebuke Death]]_
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Deities** [[DATABASE/deity/Arundhat|Arundhat]], [[DATABASE/deity/Atreia|Atreia]], [[DATABASE/deity/Bolka|Bolka]], [[DATABASE/deity/Chamidu|Chamidu]], [[DATABASE/deity/Green Man|Green Man]], [[DATABASE/deity/Hearth and Harvest|Hearth and Harvest]], [[DATABASE/deity/Immonhiel|Immonhiel]], [[DATABASE/deity/Isis|Isis]], [[DATABASE/deity/Korada|Korada]], [[DATABASE/deity/Osiris|Osiris]], [[DATABASE/deity/Pharasma|Pharasma]], [[DATABASE/deity/Qi Zhong|Qi Zhong]], [[DATABASE/deity/Sarenrae|Sarenrae]], [[DATABASE/deity/Sekhmet|Sekhmet]], [[DATABASE/deity/Selket|Selket]], [[DATABASE/deity/Shei|Shei]], [[DATABASE/deity/Stag Mother of the Forest of Stones|Stag Mother of the Forest of Stones]], [[DATABASE/deity/The Offering Plate|The Offering Plate]], [[DATABASE/deity/The Prismatic Ray|The Prismatic Ray]], [[DATABASE/deity/Tlehar|Tlehar]], [[DATABASE/deity/Touch of the Sun|Touch of the Sun]], [[DATABASE/deity/Urban Prosperity|Urban Prosperity]], [[DATABASE/deity/Uvuko|Uvuko]], [[DATABASE/deity/Wards of the Pharaoh|Wards of the Pharaoh]]
+**Domain Spell** _[[DATABASE/spell/Healer's Blessing|Healer's Blessing]]_; **Advanced Domain Spell** _[[DATABASE/spell/Rebuke Death|Rebuke Death]]_
 Your healing magic is particularly potent.

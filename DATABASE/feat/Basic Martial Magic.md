@@ -11,6 +11,7 @@ name: Basic Martial Magic
 prerequisite: '[[DATABASE/feat/Magus Dedication|Magus Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -23,16 +24,16 @@ type: Feat
 # Basic Martial Magic <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Secrets of Magic]] 
-**Archetype** [[Magus]]
-**Prerequisites** [[Magus Dedication]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
+**Archetype** [[DATABASE/archetype/Magus|Magus]]
+**Prerequisites** [[DATABASE/feat/Magus Dedication|Magus Dedication]]
 
 ---
 You gain a 1st- or 2nd-level magus feat of your choice.
 
 ## Basic Martial Magic Leads To...
 
-[[Advanced Martial Magic]]
+[[DATABASE/feat/Advanced Martial Magic|Advanced Martial Magic]]
 
 ## Traits
 

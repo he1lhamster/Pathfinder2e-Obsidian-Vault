@@ -18,6 +18,7 @@ language:
 max_speed: '25'
 name: Grippli
 rarity: Uncommon
+rus_type_level: null
 size: Small
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 speed:
@@ -33,7 +34,7 @@ vision: Low-Light Vision
 # Grippli
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Grippli</span><span class="item-trait">Humanoid</span>
-**Source** [[The Mwangi Expanse]] 
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]] 
 _Gripplis are a shy and cautious people who generally seek to avoid being drawn into the complicated and dangerous affairs of others. Despite their outlook and small stature, gripplis often take bold and noble action when the situation demands it._
 Reclusive and canny, gripplis are treetop survivalists who harvest their homes' bounty and defend themselves against terrible threats. Their reliance on cunning and simple tools has led to gripplis being mischaracterized as primitive, yet this overlooks their shaping of the land with hidden orchards and camouflaged causeways that allow gripplis to live in prosperous peace. Gripplis are most likely to emerge from their forest homes to trade, explore, and combat threats that would despoil the world.
 
@@ -59,11 +60,11 @@ Gripplis lead a sophisticated hunter-gatherer lifestyle with which they reshape 
 
 ## Alignment and Religion
 
-Taught to wait, observe, and respect natural processes of life and death, many gripplis adopt neutral alignments. Those who take a more active role suppressing evils that take refuge in the jungles are often neutral good, most notably those rare fiend-keepers who absorb an evil being into their soul to contain and eventually transform its villainy through virtuous acts. Nature deities such as [[Gozreh]] or [[Erastil]] often earn gripplis' respect, yet communities often prefer less prominent, more intimate divinities such as empyreal lords, psychopomp ushers, or the fey Eldest.
+Taught to wait, observe, and respect natural processes of life and death, many gripplis adopt neutral alignments. Those who take a more active role suppressing evils that take refuge in the jungles are often neutral good, most notably those rare fiend-keepers who absorb an evil being into their soul to contain and eventually transform its villainy through virtuous acts. Nature deities such as [[DATABASE/deity/Gozreh|Gozreh]] or [[DATABASE/deity/Erastil|Erastil]] often earn gripplis' respect, yet communities often prefer less prominent, more intimate divinities such as empyreal lords, psychopomp ushers, or the fey Eldest.
 
 ## Adventurers
 
-For the many gripplis who hail from remote regions, wilderness backgrounds like [[Hunter]], [[Nomad]], or [[Scout]] are excellent fits. Those more accustomed to urban areas might be [[Animal Whisperer]], [[Hunter]], and [[Herbalist]]. [[Hermit]] are common, and [[Emissary]] are critical to maintaining relationships with other peoples. Thanks to their deep cultural connections to nature, gripplis make excellent [[Druid]] and [[Ranger]]. Their musical traditions are a great fit for [[Bard]]. Gripplis' natural agility and perceptiveness also make them capable [[Cleric]], [[Monk]], and [[Rogue]].
+For the many gripplis who hail from remote regions, wilderness backgrounds like [[DATABASE/background/Hunter|hunter]], [[DATABASE/background/Nomad|nomad]], or [[DATABASE/background/Scout|scout]] are excellent fits. Those more accustomed to urban areas might be [[DATABASE/background/Animal Whisperer|animal whisperers]], [[DATABASE/background/Hunter|bounty hunters]], and [[DATABASE/background/Herbalist|herbalists]]. [[DATABASE/background/Hermit|Hermits]] are common, and [[DATABASE/background/Emissary|emissaries]] are critical to maintaining relationships with other peoples. Thanks to their deep cultural connections to nature, gripplis make excellent [[DATABASE/class_/Druid|druids]] and [[DATABASE/class_/Ranger|rangers]]. Their musical traditions are a great fit for [[DATABASE/class_/Bard|bards]]. Gripplis' natural agility and perceptiveness also make them capable [[DATABASE/class_/Cleric|clerics]], [[DATABASE/class_/Monk|monks]], and [[DATABASE/class_/Rogue|rogues]].
 
 ## Names
 
@@ -99,10 +100,10 @@ Strength
 
 ## Languages
 
-[[Common]]
-[[Grippli]]
-Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[Abyssal]], [[Aquan]], [[Boggard]], [[Draconic]], [[Elven]], [[Iruxi]], [[Sylvan]], and any other languages to which you have access (such as the languages prevalent in your region).
+[[DATABASE/language/Common|Common]]
+[[DATABASE/language/Grippli|Grippli]]
+Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[DATABASE/language/Abyssal|Abyssal]], [[DATABASE/language/Aquan|Aquan]], [[DATABASE/language/Boggard|Boggard]], [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Elven|Elven]], [[DATABASE/language/Iruxi|Iruxi]], [[DATABASE/language/Sylvan|Sylvan]], and any other languages to which you have access (such as the languages prevalent in your region).
 
 ## Low-Light Vision
 
-You can see in dim light as though it were bright light, and you ignore the [[Concealed]] condition due to dim light.
+You can see in dim light as though it were bright light, and you ignore the [[DATABASE/condition/Concealed|concealed]] condition due to dim light.

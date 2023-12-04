@@ -3,6 +3,7 @@ id: '21'
 level: '1'
 name: Toughened Soldiers
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - '[[DATABASE/trait/Cavalry|Cavalry]]'
@@ -15,5 +16,5 @@ type: Warfare Tactic
 # Toughened Soldiers<span class="item-type">Tactic 1</span>
 
 <span class="item-trait">Cavalry</span><span class="item-trait">Infantry</span><span class="item-trait">Siege</span><span class="item-trait">Skirmisher</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 The army is particularly hardy. Increase its maximum Hit Points by 1. You can take this tactic multiple times; each time you do, increase the army's maximum Hit Points by 1.

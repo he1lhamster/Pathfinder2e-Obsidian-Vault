@@ -21,6 +21,7 @@ patron_theme: null
 range: touch
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Pathfinder 154. Siege of the Dinosaurs|Pathfinder #154:
@@ -40,14 +41,14 @@ type: Spell
 # Blood Feast<span class="item-type">Spell 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Necromancy</span>
-**Source** [[Pathfinder 154. Siege of the Dinosaurs]]
+**Source** [[DATABASE/source/Pathfinder 154. Siege of the Dinosaurs|Pathfinder #154: Siege of the Dinosaurs]]
 **Traditions** arcane, divine, occult
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** touch; **Targets** 1 creature
 
 ---
 Your head splits vertically into an enormous maw, which feasts upon the target's blood, dealing 12d6 piercing damage, depending on your spell attack roll. After the spell, your head sews back together as if it had never split apart. You gain temporary Hit Points for 1 minute equal to half the piercing damage the target takes.
- If you are a [[Gug]], increase the piercing damage by 2d6 and increase the [[Persistent Damage]] you deal on a critical hit by 1d8. This spell doesn’t alter a gug’s appearance.
+ If you are a [[DATABASE/monster/Gug|gug]], increase the piercing damage by 2d6 and increase the [[DATABASE/condition/Persistent Damage|persistent bleed damage]] you deal on a critical hit by 1d8. This spell doesn’t alter a gug’s appearance.
 **Critical Success** The creature takes double damage and 1d8 persistent bleed damage.
 **Success** The creature takes full damage.
 **Failure** You miss and the creature takes no damage.

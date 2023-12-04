@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -57,7 +58,7 @@ weapon_type: null
 # Torrent Spellgun<span class="item-type">Item 3+</span>
 
 <span class="item-trait">Attack</span><span class="item-trait">Consumable</span><span class="item-trait">Evocation</span><span class="item-trait">Magical</span><span class="item-trait">Spellgun</span><span class="item-trait">Water</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">2</span> Interact, Strike
 
@@ -68,28 +69,28 @@ Carved of seashell, a _torrent spellgun_ is damp to the touch, and seaweed wraps
 
 ## Torrent Spellgun (Lesser)<span class="item-type">Item 3</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 12 gp
 **Bulk** L
 The damage is 2d6.
 
 ## Torrent Spellgun (Moderate)<span class="item-type">Item 7</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 70 gp
 **Bulk** L
 The damage is 7d6.
 
 ## Torrent Spellgun (Greater)<span class="item-type">Item 11</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 275 gp
 **Bulk** L
 The damage is 12d6.
 
 ## Torrent Spellgun (Major)<span class="item-type">Item 15</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 1,250 gp
 **Bulk** L
 The damage is 16d6.

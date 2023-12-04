@@ -17,6 +17,7 @@ name: Spinning Blade Pillar
 rarity: Common
 reflex: '+12'
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
@@ -31,13 +32,13 @@ will: null
 # Spinning Blade Pillar<span class="item-type">Hazard 4</span>
 
 <span class="item-trait">Complex</span><span class="item-trait">Mechanical</span><span class="item-trait">Trap</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Complexity** Complex
 **Stealth** +11 (trained) or DC 26 (expert) to notice the control panel
 **Description** A metal pole with three razor-sharp spinning blades is hidden in the floor, connected to trigger plates in up to eight floor tiles and a hidden control panel within 30 feet.
 
 ---
-**Disable** [[Thievery]] DC 21 (trained) twice on the pillar, or Thievery DC 19 (expert) once on the control panel deactivates the whole trap. Breaking the control panel prevents anyone from disabling the trap using the control panel and prevents the trap from deactivating automatically (see Reset below).
+**Disable** [[DATABASE/skill/Thievery|Thievery]] DC 21 (trained) twice on the pillar, or Thievery DC 19 (expert) once on the control panel deactivates the whole trap. Breaking the control panel prevents anyone from disabling the trap using the control panel and prevents the trap from deactivating automatically (see Reset below).
 **AC** 21, **Fort** +10, **Ref** +12
 **Pillar Hardness** 12, **Pillar HP** 48 (BT 24); **Panel Hardness** 5, **Panel HP** 20 (BT 10); **Immunities** critical hits, object immunities, precision damage
 **Rising Pillar** <span class="action-icon">5</span> (attack); **Trigger** A creature steps on one of the trapped floor tiles. **Effect** The trap pops up in a grid intersection and makes a spinning blade attack against one adjacent creature (if any), then rolls initiative.

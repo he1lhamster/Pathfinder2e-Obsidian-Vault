@@ -74,22 +74,22 @@ wisdom: '+1'
 # Aukashungi Swarm
 
 This creature did not include a description.
-**Recall Knowledge - Aberration ([[Occultism]])**: DC 29
+**Recall Knowledge - Aberration ([[DATABASE/skill/Occultism|Occultism]])**: DC 29
 **Unspecific Lore**: DC 27
 **Specific Lore**: DC 24
 
 # Aukashungi Swarm<span class="item-type">Creature 10</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Huge</span><span class="item-trait">Aberration</span><span class="item-trait">Amphibious</span><span class="item-trait">Swarm</span>
-**Source** [[Pathfinder 154. Siege of the Dinosaurs]]
-**Perception** +18; [[Darkvision]], [[Tremorsense]] (imprecise) 30 feet
-**Skills** [[Athletics]] +20
+**Source** [[DATABASE/source/Pathfinder 154. Siege of the Dinosaurs|Pathfinder #154: Siege of the Dinosaurs]]
+**Perception** +18; [[DATABASE/monsterability/Darkvision|greater darkvision]], [[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 30 feet
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +20
 **Str** +4, **Dex** +6, **Con** +5, **Int** -4, **Wis** +1, **Cha** -2
 
 ---
 **AC** 28; **Fort** +17, **Ref** +24, **Will** +13
-**HP** 210; **Immunities** precision, [[Swarm Mind]]; **Resistances** bludgeoning 5, piercing 10, slashing 10; **Weaknesses** area damage 10, splash damage 10
+**HP** 210; **Immunities** precision, [[DATABASE/monsterability/Swarm Mind|swarm mind]]; **Resistances** bludgeoning 5, piercing 10, slashing 10; **Weaknesses** area damage 10, splash damage 10
 
 ---
 **Speed** 35 feet, burrow 35 feet
-<span class="in-box-ability">**Burrowing Agony** <span class="action-icon">1</span> The swarm deals 4d6 piercing damage and 2d4 persistent bleed damage to every creature in its space (DC 29 basic Reflex save). The first time per round that a creature is affected by an aukashungi swarm's Burrowing Agony, the creature is also exposed to expeditious evolution.</span><span class="in-box-ability">**Expeditious Evolution** (curse, disease) This affliction can't be reduced below stage 1, nor the damage from it healed, until successfully treated with [[Remove Curse]] or a similar effect; the affliction can then be removed as normal for a disease. **Saving Throw** DC 27 Fortitude; **Stage 1** The aukashungi swarm chooses two of the victim's ability modifiers (such as Strength and Charisma). The victim gains a +1 status bonus to any skill checks that use those ability modifiers. The victim takes a –1 status penalty to all other skill checks (1 day); **Stage 2** The status penalty increases to –2 (1 day); **Stage 3** The status bonus increases to +2, and the penalty increases to –3 (1 day); **Stage 4** The status penalty increases to –4 (1 day).</span>
+<span class="in-box-ability">**Burrowing Agony** <span class="action-icon">1</span> The swarm deals 4d6 piercing damage and 2d4 persistent bleed damage to every creature in its space (DC 29 basic Reflex save). The first time per round that a creature is affected by an aukashungi swarm's Burrowing Agony, the creature is also exposed to expeditious evolution.</span><span class="in-box-ability">**Expeditious Evolution** (curse, disease) This affliction can't be reduced below stage 1, nor the damage from it healed, until successfully treated with [[DATABASE/spell/Remove Curse|remove curse]] or a similar effect; the affliction can then be removed as normal for a disease. **Saving Throw** DC 27 Fortitude; **Stage 1** The aukashungi swarm chooses two of the victim's ability modifiers (such as Strength and Charisma). The victim gains a +1 status bonus to any skill checks that use those ability modifiers. The victim takes a –1 status penalty to all other skill checks (1 day); **Stage 2** The status penalty increases to –2 (1 day); **Stage 3** The status bonus increases to +2, and the penalty increases to –3 (1 day); **Stage 4** The status penalty increases to –4 (1 day).</span>

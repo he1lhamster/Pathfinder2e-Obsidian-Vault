@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/heritage/Athamasi|Athamasi]] heritage or [[DATABASE/he
   heritage'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -24,11 +25,11 @@ type: Feat
 # Skilled Climber <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Kashrishi</span>
-**Source** [[Impossible Lands]]
-**Prerequisites** [[Athamasi]], or [[Xyloshi]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
+**Prerequisites** [[DATABASE/heritage/Athamasi|Athamasi]], or [[DATABASE/heritage/Xyloshi|Xyloshi]]
 
 ---
-You can navigate vertical surfaces with ease. You gain a climb Speed of 10 feet. If you also have the [[Scuttle Up]] ancestry feat, your climb Speed increases to your land Speed when climbing trees or cavern walls.
+You can navigate vertical surfaces with ease. You gain a climb Speed of 10 feet. If you also have the [[DATABASE/feat/Scuttle Up|Scuttle Up]] ancestry feat, your climb Speed increases to your land Speed when climbing trees or cavern walls.
 
 ## Traits
 

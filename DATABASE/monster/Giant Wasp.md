@@ -65,16 +65,16 @@ wisdom: '+1'
 # Giant Wasp
 
 Giant wasps are much more dangerous but less common than their smaller kin, and—to the relief of those who encounter them—they tend to be solitary.
-**Recall Knowledge - Animal ([[Nature]])**: DC 18
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Giant Wasp<span class="item-type">Creature 3</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +8; darkvision
-**Skills** [[Acrobatics]] +11, [[Athletics]] +9
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +11, [[DATABASE/skill/Athletics|Athletics]] +9
 **Str** +4, **Dex** +4, **Con** +4, **Int** -5, **Wis** +1, **Cha** +1
 
 ---

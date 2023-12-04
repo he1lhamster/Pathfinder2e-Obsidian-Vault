@@ -70,16 +70,16 @@ wisdom: '+2'
 
 Though other squirrels can fall from a great height safely, flying squirrels can soar through the air. Flaps of loose skin between their limbs catch the air to keep them aloft as they leap from greater heights. They can use this technique to escape prey or reach places that would be difficult to climb up to.
  The giant variety of flying squirrels dwell in the highest treetops. They're more likely to be in danger from airborne enemies than predators on the ground.
-**Recall Knowledge - Animal ([[Nature]])**: DC 16
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
 # Giant Flying Squirrel<span class="item-type">Creature 2</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Small</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary 3]]
-**Perception** +8; [[Low-Light Vision]], [[Scent]] (imprecise) 30 feet
-**Skills** [[Acrobatics]] +8, [[Athletics]] +6, [[Stealth]] +8
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
+**Perception** +8; [[DATABASE/monsterability/Low-Light Vision|low-light vision]], [[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +8, [[DATABASE/skill/Athletics|Athletics]] +6, [[DATABASE/skill/Stealth|Stealth]] +8
 **Str** +2, **Dex** +4, **Con** +3, **Int** -4, **Wis** +2, **Cha** +0
 
 ---

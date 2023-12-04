@@ -5,6 +5,7 @@ item_category: Relics
 name: Deadly Spark
 prerequisite: null
 rarity: Common
+rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
@@ -17,7 +18,7 @@ type: Relic Minor Gift
 # Deadly Spark<span class="item-type">Minor Gift</span>
 
 <span class="item-trait">Air</span><span class="item-trait">Electricity</span><span class="item-trait">Evocation</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Aspect** air
 
 ---

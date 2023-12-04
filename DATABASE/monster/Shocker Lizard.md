@@ -79,16 +79,16 @@ wisdom: '+3'
 
 These brightly colored reptiles share the rough size and pack mentality of guard dogs, roaming in small groups. Shocker lizards have specialized glands under their scales that accumulate static electricity, and they can unleash blasts of lightning strong enough to harm significantly larger foes. Though they're meek and docile when encountered alone, shocker lizards are significantly more aggressive in packs, when they can amplify each other's electrical attacks.
  Shocker lizards are notoriously difficult to domesticate because they're dangerously hostile as part of a pack, but will also swiftly wither and die if kept alone in captivity without constant attention. A shocker lizard is 3 feet long and weighs 25 pounds.
-**Recall Knowledge - Animal ([[Nature]])**: DC 16
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
 # Shocker Lizard<span class="item-type">Creature 2</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Small</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary 2]] 
-**Perception** +7; [[Low-Light Vision]], greater electrolocation 20 feet
-**Skills** [[Acrobatics]] +8, [[Athletics]] +5, [[Stealth]] +8
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +7; [[DATABASE/monsterability/Low-Light Vision|low-light vision]], greater electrolocation 20 feet
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +8, [[DATABASE/skill/Athletics|Athletics]] +5, [[DATABASE/skill/Stealth|Stealth]] +8
 **Str** +1, **Dex** +4, **Con** +3, **Int** -4, **Wis** +3, **Cha** +0
 **Greater Electrolocation** A shocker lizard can sense minute electrical charges in living creatures, which it can use as a precise sense at a range of 20 feet. This distance increases to 100 feet against any creature that has used an electricity effect within the last minute.
 
@@ -103,4 +103,4 @@ These brightly colored reptiles share the rough size and pack mentality of guard
 
 ###  Shocker Lizard Traps
 
-[[Kobold]] are particularly fond of using shocker lizards in their trap designs, although such traps rarely keep the shocker lizards' safety and comfort in mind, forcing these cruel but creative kobolds to constantly replace the permanently restrained lizards they've set up to defend their lairs.
+[[DATABASE/monsterfamily/Kobold|Kobolds]] are particularly fond of using shocker lizards in their trap designs, although such traps rarely keep the shocker lizards' safety and comfort in mind, forcing these cruel but creative kobolds to constantly replace the permanently restrained lizards they've set up to defend their lairs.

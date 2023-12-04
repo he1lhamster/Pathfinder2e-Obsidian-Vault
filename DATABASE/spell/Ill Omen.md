@@ -28,6 +28,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
@@ -45,11 +46,11 @@ type: Spell
 # Ill Omen<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Curse</span><span class="item-trait">Divination</span><span class="item-trait">Misfortune</span>
-**Source** [[Advanced Player's Guide]] , [[Gods & Magic]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] , [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Traditions** occult
-**Bloodline** [[Harrow]]
-**Deities** [[Ahriman]], [[Azathoth]], [[Gyronna]], [[Imot]], [[Lubaiko]], [[Sifkesh]], [[Zyphus]]
-**Lesson** [[Lesson of Calamity]]
+**Bloodline** [[DATABASE/sorcererbloodline/Harrow|harrow]]
+**Deities** [[DATABASE/deity/Ahriman|Ahriman]], [[DATABASE/deity/Azathoth|Azathoth]], [[DATABASE/deity/Gyronna|Gyronna]], [[DATABASE/deity/Imot|Imot]], [[DATABASE/deity/Lubaiko|Lubaiko]], [[DATABASE/deity/Sifkesh|Sifkesh]], [[DATABASE/deity/Zyphus|Zyphus]]
+**Lesson** [[DATABASE/witchlesson/Lesson of Calamity|lesson of calamity]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet; **Targets** 1 creature
 **Duration** 1 round

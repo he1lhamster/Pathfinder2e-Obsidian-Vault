@@ -70,19 +70,19 @@ wisdom: '+2'
 # Mutant Gnoll Hulk
 
 Separated from their pack during a prolonged storm of wild magic, the Mana Wastes mutant gnoll hulk transformed into a gigantic, ravenous creature.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 26
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 26
 **Unspecific Lore**: DC 24
 **Specific Lore**: DC 21
 
 # Mutant Gnoll Hulk<span class="item-type">Creature 9</span>
 
 <span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Gnoll</span><span class="item-trait">Humanoid</span><span class="item-trait">Mutant</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 **Perception** +17; magic hunger (imprecise) 30 feet
-**Languages** [[Common]], [[Gnoll]]
-**Skills** [[Acrobatics]] +18, [[Athletics]] +21, [[Intimidation]] +16, [[Survival]] +15
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Gnoll|Gnoll]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +18, [[DATABASE/skill/Athletics|Athletics]] +21, [[DATABASE/skill/Intimidation|Intimidation]] +16, [[DATABASE/skill/Survival|Survival]] +15
 **Str** +6, **Dex** +3, **Con** +4, **Int** +2, **Wis** +2, **Cha** +3
-**Items** _+1 [[Striking]] [[Battle Axe]]_, [[Composite Longbow]], [[Leather Armor]]
+**Items** _+1 [[DATABASE/equipment/Striking|striking]] [[DATABASE/weapon/Battle Axe|battle axe]]_, [[DATABASE/weapon/Composite Longbow|composite longbow (20 arrows)]], [[DATABASE/armor/Leather Armor|leather armor]]
 
 ---
 **AC** 26; **Fort** +21, **Ref** +18, **Will** +15

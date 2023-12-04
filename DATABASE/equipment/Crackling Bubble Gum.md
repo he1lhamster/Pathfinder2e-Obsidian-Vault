@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Crackling Bubble Gum<span class="item-type">Item 5+</span>
 
 <span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Lozenge</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Usage** held in 1 hand; **Bulk** —
 
 ---
@@ -63,24 +64,24 @@ This tangy gum cracks and pops in your mouth as you chew it. While you're chewin
 
 ## Crackling Bubble Gum (Lesser)<span class="item-type">Item 5</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 30 gp
 The item bonus is +1, the damage is 4d4, and the DC is 19.
 
 ## Crackling Bubble Gum (Moderate)<span class="item-type">Item 9</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 150 gp
 The item bonus is +2, the damage is 6d4, and the DC is 25.
 
 ## Crackling Bubble Gum (Greater)<span class="item-type">Item 13</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 450 gp
 The item bonus is +2, the damage is 8d4, and the DC is 30.
 
 ## Crackling Bubble Gum (Major)<span class="item-type">Item 15</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 1,000 gp
 The item bonus is +3, the damage is 9d4, and the DC is 34.

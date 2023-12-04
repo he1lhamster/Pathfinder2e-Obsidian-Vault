@@ -2,6 +2,7 @@
 id: '14'
 name: Umbral Gnome
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait: null
 type: Heritage
@@ -9,9 +10,9 @@ type: Heritage
 ---
 # Umbral Gnome
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Whether from a connection to dark or shadowy fey, from the underground deep gnomes also known as svirfneblin, or another source, you can see in complete darkness. You gain darkvision.
 
 ### Feats Requiring Umbral Gnome...
 
-[[Grim Insight]]
+[[DATABASE/feat/Grim Insight|Grim Insight]]

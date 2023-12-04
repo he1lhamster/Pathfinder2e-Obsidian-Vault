@@ -11,6 +11,7 @@ name: Cauterize
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -25,11 +26,11 @@ type: Feat
 # Cauterize <span class="action-icon">1</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Flourish</span><span class="item-trait">Gunslinger</span>
-**Source** [[Guns & Gears]]
-**Trigger** You're wielding a loaded firearm and you or an adjacent ally are taking [[Persistent Damage]].
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Trigger** You're wielding a loaded firearm and you or an adjacent ally are taking [[DATABASE/condition/Persistent Damage|persistent bleed damage]].
 
 ---
-You use the smoking barrel of your firearm to sear shut a bleeding wound. Make a Strike with your firearm. You then press the heated barrel to the wounds of you or an ally within reach that is taking persistent bleed damage, giving an immediate flat check to end the bleed with the lower DC for [[Persistent Damage]].
+You use the smoking barrel of your firearm to sear shut a bleeding wound. Make a Strike with your firearm. You then press the heated barrel to the wounds of you or an ally within reach that is taking persistent bleed damage, giving an immediate flat check to end the bleed with the lower DC for [[DATABASE/condition/Persistent Damage|particularly effective assistance]].
 
 ## Traits
 

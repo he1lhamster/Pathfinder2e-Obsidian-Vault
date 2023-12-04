@@ -24,6 +24,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -40,9 +41,9 @@ type: Spell
 # Grease<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Conjuration</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, primal
-**Deities** [[Picoperi]], [[The Perplexing Jest]], [[Trelmarixian]]
+**Deities** [[DATABASE/deity/Picoperi|Picoperi]], [[DATABASE/deity/The Perplexing Jest|The Perplexing Jest]], [[DATABASE/deity/Trelmarixian|Trelmarixian]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet; **Area** 4 contiguous 5-foot squares or; **Targets** 1 object of Bulk 1 or less
 **Duration** 1 minute

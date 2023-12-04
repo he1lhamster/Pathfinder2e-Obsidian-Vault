@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -57,7 +58,7 @@ weapon_type: null
 # Sky Serpent Bolt<span class="item-type">Item 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Air</span><span class="item-trait">Consumable</span><span class="item-trait">Electricity</span><span class="item-trait">Evocation</span><span class="item-trait">Magical</span>
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 25 gp
 **Ammunition** bolt; **Bulk** —
 **Activate** <span class="action-icon">1</span> or <span class="action-icon">2</span> Interact

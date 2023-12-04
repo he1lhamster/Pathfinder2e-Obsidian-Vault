@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -50,7 +51,7 @@ weapon_type: null
 ---
 # Earplugs<span class="item-type">Item 0</span>
 
-**Source** [[Guns & Gears]], [[PFS Guide]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]], [[DATABASE/source/PFS Guide|PFS Guide]]
 **Price** 1 sp
 **Hands** 1; **Bulk** —
 

@@ -18,6 +18,7 @@ id: '17'
 name: Magus
 perception_proficiency: Trained
 rarity: Common
+rus_type_level: null
 skill_proficiency:
 - Trained in Arcana
 - Trained in a number of additional skills equal to 2 plus your Intelligence modifier
@@ -29,7 +30,7 @@ type: Class
 
 ---
 # Magus
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 _Combining the physicality and technique of a warrior with the ability to cast arcane magic, you seek to perfect the art of fusing spell and strike. While the hefty tome you carry reflects hours conducting arcane research, your enemies need no reminder of your training. They recognize it as you take them down._
 **Key Ability: STRENGTH OR DEXTERITY**
 At 1st level, your class gives you an ability boost to your choice of Strength or Dexterity.
@@ -43,8 +44,8 @@ As a magus, you have multiple special actions and abilities that can be used in 
 ## Spellstrike Options
 
 The following cantrips and 1st-level spells require spell attack rolls and can therefore be used with Spellstrike. This list can get you started picking your spells.
- **Cantrips**: [[Acid Splash]], [[Gouging Claw]], [[Produce Flame]], [[Ray of Frost]], [[Tanglefoot]], [[Telekinetic Projectile]] 
-**1st-Level Spells**: [[Horizon Thunder Sphere]], [[Hydraulic Push]], [[Ray of Enfeeblement]], [[Shocking Grasp]], [[Snowball]]
+ **Cantrips**: [[DATABASE/spell/Acid Splash|acid splash]], [[DATABASE/spell/Gouging Claw|gouging claw]], [[DATABASE/spell/Produce Flame|produce flame]], [[DATABASE/spell/Ray of Frost|ray of frost]], [[DATABASE/spell/Tanglefoot|tanglefoot]], [[DATABASE/spell/Telekinetic Projectile|telekinetic projectile]] 
+**1st-Level Spells**: [[DATABASE/spell/Horizon Thunder Sphere|horizon thunder sphere]], [[DATABASE/spell/Hydraulic Push|hydraulic push]], [[DATABASE/spell/Ray of Enfeeblement|ray of enfeeblement]], [[DATABASE/spell/Shocking Grasp|shocking grasp]], [[DATABASE/spell/Snowball|snowball]]
 
 ## Key Terms
 
@@ -96,7 +97,7 @@ Expert in Will
 
 ## Skills
 
-Trained in [[Arcana]]
+Trained in [[DATABASE/skill/Arcana|Arcana]]
  Trained in a number of additional skills equal to 2 plus your Intelligence modifier
 
 ## Attacks
@@ -118,54 +119,52 @@ Trained in arcane spell attacks
 
 # Class Features
 
-You gain these features as a Magus. Abilities gained at higher levels list the levels at which you gain them next to the features' names.
-
-|   Your Level | Class Features                                                                                                                 |
-|-------------:|:-------------------------------------------------------------------------------------------------------------------------------|
-|            1 | Ancestry and background, initial proficiencies, arcane spellcasting, arcane cascade, conflux spells, hybrid study, spellstrike |
-|            2 | Magus feat, skill feat                                                                                                         |
-|            3 | 2nd-level spells, general feat, skill increase                                                                                 |
-|            4 | Magus feat, skill feat                                                                                                         |
-|            5 | 3rd-level spells, ability boosts, ancestry feat, lightning reflexes, skill increase, weapon expertise                          |
-|            6 | Magus feat, skill feat                                                                                                         |
-|            7 | 4th-level spells, general feat, skill increase, studious spells, weapon specialization                                         |
-|            8 | Magus feat, skill feat                                                                                                         |
-|            9 | 5th-level spells, alertness, ancestry feat, expert spellcaster, resolve, skill increase                                        |
-|           10 | Ability boosts, magus feat, skill feat                                                                                         |
-|           11 | 6th-level spells, general feat, medium armor expertise, skill increase                                                         |
-|           12 | Magus feat, skill feat                                                                                                         |
-|           13 | 7th-level spells, ancestry feat, skill increase, weapon mastery                                                                |
-|           14 | Magus feat, skill feat                                                                                                         |
-|           15 | 8th-level spells, ability boosts, general feat, greater weapon specialization, juggernaut, skill increase                      |
-|           16 | Magus feat, skill feat                                                                                                         |
-|           17 | 9th-level spells, ancestry feat, master spellcaster, medium armor mastery, skill increase                                      |
-|           18 | Magus feat, skill feat                                                                                                         |
-|           19 | Double spellstrike, general feat, skill increase                                                                               |
-|           20 | Ability boosts, magus feat, skill feat                                                                                         |
-
-| Your Level                                                                                   |   Cantrips | 1st   | 2nd   | 3rd   | 4th   | 5th   | 6th   | 7th   | 8th   | 9th   |
-|:---------------------------------------------------------------------------------------------|-----------:|:------|:------|:------|:------|:------|:------|:------|:------|:------|
-| 1                                                                                            |          5 | 1     | —     | —     | —     | —     | —     | —     | —     | —     |
-| 2                                                                                            |          5 | 2     | —     | —     | —     | —     | —     | —     | —     | —     |
-| 3                                                                                            |          5 | 2     | 1     | —     | —     | —     | —     | —     | —     | —     |
-| 4                                                                                            |          5 | 2     | 2     | —     | —     | —     | —     | —     | —     | —     |
-| 5                                                                                            |          5 | —     | 2     | 2     | —     | —     | —     | —     | —     | —     |
-| 6                                                                                            |          5 | —     | 2     | 2     | —     | —     | —     | —     | —     | —     |
-| 7                                                                                            |          5 | —     | —*    | 2     | 2     | —     | —     | —     | —     | —     |
-| 8                                                                                            |          5 | —     | —*    | 2     | 2     | —     | —     | —     | —     | —     |
-| 9                                                                                            |          5 | —     | —*    | —     | 2     | 2     | —     | —     | —     | —     |
-| 10                                                                                           |          5 | —     | —*    | —     | 2     | 2     | —     | —     | —     | —     |
-| 11                                                                                           |          5 | —     | —     | —*    | —     | 2     | 2     | —     | —     | —     |
-| 12                                                                                           |          5 | —     | —     | —*    | —     | 2     | 2     | —     | —     | —     |
-| 13                                                                                           |          5 | —     | —     | —     | —*    | —     | 2     | 2     | —     | —     |
-| 14                                                                                           |          5 | —     | —     | —     | —*    | —     | 2     | 2     | —     | —     |
-| 15                                                                                           |          5 | —     | —     | —     | —*    | —     | —     | 2     | 2     | —     |
-| 16                                                                                           |          5 | —     | —     | —     | —*    | —     | —     | 2     | 2     | —     |
-| 17                                                                                           |          5 | —     | —     | —     | —*    | —     | —     | —     | 2     | 2     |
-| 18                                                                                           |          5 | —     | —     | —     | —*    | —     | —     | —     | 2     | 2     |
-| 19                                                                                           |          5 | —     | —     | —     | —*    | —     | —     | —     | 2     | 2     |
-| 20                                                                                           |          5 | —     | —     | —     | —*    | —     | —     | —     | 2     | 2     |
-| * The studious spells class feature gives you extra slots of this level for specific spells. |        nan | nan   | nan   | nan   | nan   | nan   | nan   | nan   | nan   | nan   |
+You gain these features as a Magus. Abilities gained at higher levels list the levels at which you gain them next to the features' names.| 0 | 1 |
+|:-----------|:-------------------------------------------------------------------------------------------------------------------------------|
+| Your Level | Class Features |
+| 1 | Ancestry and background, initial proficiencies, arcane spellcasting, arcane cascade, conflux spells, hybrid study, spellstrike |
+| 2 | Magus feat, skill feat |
+| 3 | 2nd-level spells, general feat, skill increase |
+| 4 | Magus feat, skill feat |
+| 5 | 3rd-level spells, ability boosts, ancestry feat, lightning reflexes, skill increase, weapon expertise |
+| 6 | Magus feat, skill feat |
+| 7 | 4th-level spells, general feat, skill increase, studious spells, weapon specialization |
+| 8 | Magus feat, skill feat |
+| 9 | 5th-level spells, alertness, ancestry feat, expert spellcaster, resolve, skill increase |
+| 10 | Ability boosts, magus feat, skill feat |
+| 11 | 6th-level spells, general feat, medium armor expertise, skill increase |
+| 12 | Magus feat, skill feat |
+| 13 | 7th-level spells, ancestry feat, skill increase, weapon mastery |
+| 14 | Magus feat, skill feat |
+| 15 | 8th-level spells, ability boosts, general feat, greater weapon specialization, juggernaut, skill increase |
+| 16 | Magus feat, skill feat |
+| 17 | 9th-level spells, ancestry feat, master spellcaster, medium armor mastery, skill increase |
+| 18 | Magus feat, skill feat |
+| 19 | Double spellstrike, general feat, skill increase |
+| 20 | Ability boosts, magus feat, skill feat || 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|:---------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------|
+| Your Level | Cantrips | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| 1 | 5 | 1 | — | — | — | — | — | — | — | — |
+| 2 | 5 | 2 | — | — | — | — | — | — | — | — |
+| 3 | 5 | 2 | 1 | — | — | — | — | — | — | — |
+| 4 | 5 | 2 | 2 | — | — | — | — | — | — | — |
+| 5 | 5 | — | 2 | 2 | — | — | — | — | — | — |
+| 6 | 5 | — | 2 | 2 | — | — | — | — | — | — |
+| 7 | 5 | — | —* | 2 | 2 | — | — | — | — | — |
+| 8 | 5 | — | —* | 2 | 2 | — | — | — | — | — |
+| 9 | 5 | — | —* | — | 2 | 2 | — | — | — | — |
+| 10 | 5 | — | —* | — | 2 | 2 | — | — | — | — |
+| 11 | 5 | — | — | —* | — | 2 | 2 | — | — | — |
+| 12 | 5 | — | — | —* | — | 2 | 2 | — | — | — |
+| 13 | 5 | — | — | — | —* | — | 2 | 2 | — | — |
+| 14 | 5 | — | — | — | —* | — | 2 | 2 | — | — |
+| 15 | 5 | — | — | — | —* | — | — | 2 | 2 | — |
+| 16 | 5 | — | — | — | —* | — | — | 2 | 2 | — |
+| 17 | 5 | — | — | — | —* | — | — | — | 2 | 2 |
+| 18 | 5 | — | — | — | —* | — | — | — | 2 | 2 |
+| 19 | 5 | — | — | — | —* | — | — | — | 2 | 2 |
+| 20 | 5 | — | — | — | —* | — | — | — | 2 | 2 |
+| * The studious spells class feature gives you extra slots of this level for specific spells. | * The studious spells class feature gives you extra slots of this level for specific spells. | * The studious spells class feature gives you extra slots of this level for specific spells. | * The studious spells class feature gives you extra slots of this level for specific spells. | * The studious spells class feature gives you extra slots of this level for specific spells. | * The studious spells class feature gives you extra slots of this level for specific spells. | * The studious spells class feature gives you extra slots of this level for specific spells. | * The studious spells class feature gives you extra slots of this level for specific spells. | * The studious spells class feature gives you extra slots of this level for specific spells. | * The studious spells class feature gives you extra slots of this level for specific spells. | * The studious spells class feature gives you extra slots of this level for specific spells. |
 
 ## Ancestry And Background
 
@@ -177,7 +176,7 @@ At 1st level, you gain a number of proficiencies that represent your basic train
 
 ## Arcane Spellcasting
 
-You study spells so you can combine them with your attacks or solve problems that strength of arms alone can't handle. You can cast arcane spells using the Cast a Spell activity, and you can supply material, somatic, and verbal components when casting spells. Because you're a magus, you can draw replacement sigils with the tip of your weapon or your free hand for spells requiring material components, replacing them with somatic components instead of needing a [[Material Component Pouch]].
+You study spells so you can combine them with your attacks or solve problems that strength of arms alone can't handle. You can cast arcane spells using the Cast a Spell activity, and you can supply material, somatic, and verbal components when casting spells. Because you're a magus, you can draw replacement sigils with the tip of your weapon or your free hand for spells requiring material components, replacing them with somatic components instead of needing a [[DATABASE/equipment/Material Component Pouch|material component pouch]].
  At 1st level, you can prepare one 1st-level spell and five cantrips each morning from the spells in your spellbook (see below). Prepared spells remain available to you until you cast them or until you prepare your spells again. The number of spells you can prepare is called your spell slots.
  As you increase in level as a magus, your number of spell slots and the highest level of spells you can cast from spell slots increase, shown in Table 2–2: Magus Spells per Day. Because you split your focus between physical training and magical scholarship, you have no more than two spell slots of your highest level and, if you can cast 2nd-level spells or higher, two spell slots of 1 level lower than your highest spell level.
  Some of your spells require you to attempt a spell attack roll to see how effective they are, or have your enemies roll against your spell DC (typically by attempting a saving throw). Your spell attack rolls and spell DCs use your Intelligence modifier. Details on calculating these statistics appear in Spell Attack Roll.
@@ -192,18 +191,18 @@ A cantrip is a special type of spell that doesn't use spell slots. You can cast 
 
 ### Spellbook
 
-Every arcane spell has a written version, usually recorded in a spellbook. You start with a [[Spellbook (Blank)]] worth 10 sp or less, which you receive for free and must study to prepare your spells each day. The spellbook contains your choice of eight arcane cantrips and four 1st-level arcane spells. You choose these from the common spells on the arcane spell list or from other arcane spells you gain access to. Your spellbook's form and name are up to you. It might be anything from a sturdy book with a secure latch entitled _Theses on the Stratagems of Supernatural Warfare_ to a tattered collection of training pamphlets with your name scrawled on the cover.
- Each time you gain a level, you add two more arcane spells to your spellbook, of any level of spell you can cast. You can also use the [[Arcana]] skill to add other spells that you find in your adventures (see Learn a Spell). Though you lose some lower spell slots as you increase in level, you keep the spells in your spellbook and can prepare them in your higher-level slots as normal.
- If you have a spellbook from multiple sources (such as being a magus with the [[Wizard Dedication]] feat), you can use the same spellbook for all your spells.
+Every arcane spell has a written version, usually recorded in a spellbook. You start with a [[DATABASE/equipment/Spellbook (Blank)|spellbook]] worth 10 sp or less, which you receive for free and must study to prepare your spells each day. The spellbook contains your choice of eight arcane cantrips and four 1st-level arcane spells. You choose these from the common spells on the arcane spell list or from other arcane spells you gain access to. Your spellbook's form and name are up to you. It might be anything from a sturdy book with a secure latch entitled _Theses on the Stratagems of Supernatural Warfare_ to a tattered collection of training pamphlets with your name scrawled on the cover.
+ Each time you gain a level, you add two more arcane spells to your spellbook, of any level of spell you can cast. You can also use the [[DATABASE/skill/Arcana|Arcana]] skill to add other spells that you find in your adventures (see Learn a Spell). Though you lose some lower spell slots as you increase in level, you keep the spells in your spellbook and can prepare them in your higher-level slots as normal.
+ If you have a spellbook from multiple sources (such as being a magus with the [[DATABASE/feat/Wizard Dedication|Wizard Dedication]] feat), you can use the same spellbook for all your spells.
 
 ## Spellstrike
 
 You've learned the fundamental magus technique that lets you combine magical and physical attacks together. You gain the Spellstrike activity.
 
-### [[Spellstrike]] <span class="action-icon">2</span>
+### [[DATABASE/action/Spellstrike|Spellstrike]] <span class="action-icon">2</span>
 
 <span class="item-trait">Magus</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Frequency** until recharged (see below)
 
 ---
@@ -214,9 +213,9 @@ You channel a spell into a punch or sword thrust to deliver a combined attack. Y
 
 Though the base Spellstrike rules cover most spells, various modifications apply to more complicated spells when loaded into your fist, blade, or other attack. 
 **One Target**: The spell targets only the target of your Strike, even if it normally allows more targets. Some feats let you affect more creatures. 
-**Reach**: The coupled spell affects the target using the reach of the weapon or unarmed attack you make your Spellstrike with. For instance, [[Shocking Grasp]] would affect a creature beyond the reach of your hand if you used a weapon with reach, and [[Ray of Frost]] would affect only a creature in your weapon's reach, even though the spell's range is longer. 
-**Ancillary Effects**: Your spell still has any non-targeted effects that might affect creatures other than the target, as well as any ongoing effects starting from the moment you hit with the Strike. For example, [[Acid Splash]] would still deal its splash damage to creatures other than the target and [[Tanglefoot]]'s circumstance penalty would last for its normal duration. The spell takes effect after the Strike deals damage; if the Strike has other special effects, the GM determines whether they happen before or after the spell. 
-**Multiple Defenses**: Any additional rolls after the initial spell attack still happen normally, such as the Fortitude save attempted by the target of a [[Disintegrate]] spell. Similarly, a spell that allows you to attack with it again on subsequent rounds would only combine a Strike with its initial attack roll, not with any later ones.
+**Reach**: The coupled spell affects the target using the reach of the weapon or unarmed attack you make your Spellstrike with. For instance, [[DATABASE/spell/Shocking Grasp|shocking grasp]] would affect a creature beyond the reach of your hand if you used a weapon with reach, and [[DATABASE/spell/Ray of Frost|ray of frost]] would affect only a creature in your weapon's reach, even though the spell's range is longer. 
+**Ancillary Effects**: Your spell still has any non-targeted effects that might affect creatures other than the target, as well as any ongoing effects starting from the moment you hit with the Strike. For example, [[DATABASE/spell/Acid Splash|acid splash]] would still deal its splash damage to creatures other than the target and [[DATABASE/spell/Tanglefoot|tanglefoot]]'s circumstance penalty would last for its normal duration. The spell takes effect after the Strike deals damage; if the Strike has other special effects, the GM determines whether they happen before or after the spell. 
+**Multiple Defenses**: Any additional rolls after the initial spell attack still happen normally, such as the Fortitude save attempted by the target of a [[DATABASE/spell/Disintegrate|disintegrate]] spell. Similarly, a spell that allows you to attack with it again on subsequent rounds would only combine a Strike with its initial attack roll, not with any later ones.
  **Invalid or Immune Target**: If the target you hit wouldn't be a valid target for the spell, the spell is still expended but doesn't affect the target. If the target is immune to your attack but not the spell, it can still be affected by the spell.
  **Variable Actions**: Some spells have different effects based on the number of actions you spend to cast them. You choose whether to use the effects of the 1- or 2-action version of the spell when you use Spellstrike. A spell has to take _exactly_ 1 or 2 actions; you can't use Spellstrike with a spell that takes a free action, reaction, or 3 or more actions.
  **Metamagic**: You typically can't use metamagic with Spellstrike because metamagic requires the next action you take to be Cast a Spell, and Spellstrike is a combined activity that doesn't qualify.
@@ -225,11 +224,11 @@ Though the base Spellstrike rules cover most spells, various modifications apply
 
 After you wield magic, you can enter a special stance to make your attacks more effective.
 
-### [[Arcane Cascade]] <span class="action-icon">1</span>
+### [[DATABASE/action/Arcane Cascade|Arcane Cascade]] <span class="action-icon">1</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Magus</span><span class="item-trait">Stance</span>
-**Source** [[Secrets of Magic]] 
-**Requirements** You used your most recent action to Cast a Spell or make a [[Spellstrike]].
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
+**Requirements** You used your most recent action to Cast a Spell or make a [[DATABASE/action/Spellstrike|Spellstrike]].
 
 ---
 You divert a portion of the spell's magical power and keep it cycling through your body and weapon using specialized forms, breathing, or footwork. While you're in the stance, your melee Strikes deal 1 extra damage. This damage increases to 2 if you have weapon specialization and 3 if you have greater weapon specialization. Any Strike that benefits from this damage gains the arcane trait, making it magical.
@@ -284,7 +283,7 @@ You've dedicated yourself to learning the intricacies of your weapons. Your prof
 
 ## Studious Spells<span class="item-type">Level 7</span>
 
-Your hybrid study grants you additional spells that can enhance your power in combat. You gain two special 2nd-level studious spell slots, which can be used to prepare [[Spider Climb]], [[True Strike]], [[Water Breathing]], and an additional spell depending on your hybrid study. You add any spells from this class feature to your spellbook. At 11th level, the extra slots increase to 3rd level and you add [[Haste]] and an additional spell depending on your hybrid study. At 13th level, the extra slots increase to 4th level and you add [[Fly]] and an additional spell depending on your hybrid study.
+Your hybrid study grants you additional spells that can enhance your power in combat. You gain two special 2nd-level studious spell slots, which can be used to prepare [[DATABASE/spell/Spider Climb|spider climb]], [[DATABASE/spell/True Strike|true strike]], [[DATABASE/spell/Water Breathing|water breathing]], and an additional spell depending on your hybrid study. You add any spells from this class feature to your spellbook. At 11th level, the extra slots increase to 3rd level and you add [[DATABASE/spell/Haste|haste]] and an additional spell depending on your hybrid study. At 13th level, the extra slots increase to 4th level and you add [[DATABASE/spell/Fly|fly]] and an additional spell depending on your hybrid study.
 See specific hybrid studies for more information.
 
 ## Weapon Specialization<span class="item-type">Level 7</span>

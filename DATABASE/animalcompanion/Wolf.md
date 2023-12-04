@@ -13,6 +13,7 @@ land_speed: '40'
 max_speed: '40'
 name: Wolf
 rarity: Common
+rus_type_level: null
 sense:
 - low-light vision
 - scent(imprecise
@@ -33,22 +34,22 @@ wisdom: '+1'
 ---
 # Wolf
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Your companion is a wolf or other canine creature, such as a dog.
 **Size** Small
 **Melee** <span class="action-icon">1</span> jaws (finesse), **Damage** 1d8 piercing
 **Str** +2, **Dex** +3, **Con** +2, **Int** -4, **Wis** +1, **Cha** +0
 **Hit Points** 6
-**Skill** [[Survival]] 
+**Skill** [[DATABASE/skill/Survival|Survival]] 
 **Senses** low-light vision, scent (imprecise, 30 feet)
 **Speed** 40 feet
 **Support Benefit** Your wolf tears tendons with each opening. Until the start of your next turn, your Strikes that damage creatures your wolf threatens give the target a –5-foot status penalty to its Speeds for 1 minute (–10 on a critical success).
 **Advanced Maneuver** Knockdown
 
-### [[Knockdown]] <span class="action-icon">1</span>
+### [[DATABASE/action/Knockdown|Knockdown]] <span class="action-icon">1</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Requirements** The animal companion’s last action was a successful jaws Strike.
 
 ---
-The wolf automatically knocks the target of its jaws Strike [[Prone]].
+The wolf automatically knocks the target of its jaws Strike [[DATABASE/condition/Prone|prone]].

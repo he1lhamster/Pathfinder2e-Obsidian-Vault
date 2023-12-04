@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -53,7 +54,7 @@ weapon_type: null
 # Wand of Continuation<span class="item-type">Item 5+</span>
 
 <span class="item-trait">Magical</span><span class="item-trait">Wand</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** held in 1 hand; **Bulk** L
 
 ---
@@ -63,40 +64,40 @@ This wand increases a spell’s duration. Yellow embers spiral over its surface 
 
 ## Wand of Continuation (1st-Level Spell)<span class="item-type">Item 5</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 160 gp
 
 ## Wand of Continuation (2nd-Level Spell)<span class="item-type">Item 7</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 360 gp
 
 ## Wand of Continuation (3rd-Level Spell)<span class="item-type">Item 9</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 700 gp
 
 ## Wand of Continuation (4th-Level Spell)<span class="item-type">Item 11</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 1,500 gp
 
 ## Wand of Continuation (5th-Level Spell)<span class="item-type">Item 13</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 3,000 gp
 
 ## Wand of Continuation (6th-Level Spell)<span class="item-type">Item 15</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 6,500 gp
 
 ## Wand of Continuation (7th-Level Spell)<span class="item-type">Item 17</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 15,000 gp
 
 ## Wand of Continuation (8th-Level Spell)<span class="item-type">Item 19</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 40,000 gp

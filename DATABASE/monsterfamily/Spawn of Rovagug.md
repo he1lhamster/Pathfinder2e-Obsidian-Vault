@@ -3,6 +3,7 @@ creature_family: Spawn of Rovagug
 id: '115'
 name: Spawn of Rovagug
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 150. Broken Promises|Pathfinder #150: Broken
   Promises]]'
 trait: null
@@ -11,12 +12,12 @@ type: Creature Family
 ---
 # Spawn of Rovagug
 
-**Source** [[Pathfinder 150. Broken Promises]]
+**Source** [[DATABASE/source/Pathfinder 150. Broken Promises|Pathfinder #150: Broken Promises]]
 The spawn are titanic terrors of immense size and strength that live only to destroy. Tarrasque and Xotani are but two of Rovagug’s spawn. Others, including Chemnosit (the Monarch Worm), Kothogaz (the Dance of Disharmony), and Volnagur (the End-Singer) hold places of horror in the history of various regions, but the most famed is Ulunat (the Unholy First), whose beetle-like carcass remains sprawled in Sothis, the capital of Osirion.
 
 ### Members
 
-[[Kothogaz, Dance Of Disharmony]] (Creature 21), [[Tarrasque, The Armageddon Engine]] (Creature 25), [[Xotani, The Firebleeder]] (Creature 20)
+[[DATABASE/monster/Kothogaz, Dance Of Disharmony|Kothogaz, Dance Of Disharmony]] (Creature 21), [[DATABASE/monster/Tarrasque, The Armageddon Engine|Tarrasque]] (Creature 25), [[DATABASE/monster/Xotani, The Firebleeder|Xotani]] (Creature 20)
 
 ###  Hibernating Spawn
 

@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -38,7 +39,7 @@ type: Spell
 # Elemental Absorption<span class="item-type">Spell 3</span>
 
 <span class="item-trait">Abjuration</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Traditions** arcane, primal
 **Spell List** elemental
 **Cast** <span class="action-icon">2</span> somatic, verbal
@@ -50,7 +51,7 @@ You absorb elemental energy, which you can release as a powerful counterattack. 
 
 ### Elemental Spell Changes
 
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 Add metal (electricity or slashing damage) and wood (bludgeoning or vitality damage) to the choices.
 
 ---

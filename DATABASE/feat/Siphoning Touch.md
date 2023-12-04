@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Spell Trickster Dedication|Spell Trickster Dedica
   ; ability to cast [[DATABASE/spell/Vampiric Touch|vampiric touch]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Siphoning Touch <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Grand Bazaar]]
-**Archetype** [[Spell Trickster]]
-**Prerequisites** [[Spell Trickster Dedication]]; ability to cast [[Vampiric Touch]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
+**Archetype** [[DATABASE/archetype/Spell Trickster|Spell Trickster]]
+**Prerequisites** [[DATABASE/feat/Spell Trickster Dedication|Spell Trickster Dedication]]; ability to cast [[DATABASE/spell/Vampiric Touch|vampiric touch]]
 
 ---
 When you cast _vampiric touch_, you can modify its standard effects as follows: Instead of gaining the temporary Hit Points yourself, you can grant the temporary Hit Points to an ally within 30 feet. After 1 minute, the ally loses any of these temporary Hit Points that remain.

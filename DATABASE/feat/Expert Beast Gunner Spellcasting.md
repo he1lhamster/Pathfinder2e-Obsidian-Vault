@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Basic Beast Gunner Spellcasting|Basic Beast Gunne
   Spellcasting]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -24,16 +25,16 @@ type: Feat
 # Expert Beast Gunner Spellcasting <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Guns & Gears]]
-**Archetype** [[Beast Gunner]]
-**Prerequisites** [[Basic Beast Gunner Spellcasting]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Archetype** [[DATABASE/archetype/Beast Gunner|Beast Gunner]]
+**Prerequisites** [[DATABASE/feat/Basic Beast Gunner Spellcasting|Basic Beast Gunner Spellcasting]]
 
 ---
 You've learned the deeper secrets of beast guns, making you an expert in the magic they grant you. You gain the expert spellcasting benefits.
 
 ## Expert Beast Gunner Spellcasting Leads To...
 
-[[Master Beast Gunner Spellcasting]]
+[[DATABASE/feat/Master Beast Gunner Spellcasting|Master Beast Gunner Spellcasting]]
 
 ## Traits
 

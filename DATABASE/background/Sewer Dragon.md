@@ -10,6 +10,7 @@ id: '207'
 name: Sewer Dragon
 prerequisite: '[[DATABASE/ancestry/Kobold|Kobold]] ancestry'
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Crafting|Crafting]]'
 - Kobold [[DATABASE/skill/Lore|Lore]]
@@ -22,8 +23,8 @@ type: Background
 ---
 # Sewer Dragon<span class="item-type">Background</span>
 
-**Source** [[PFS Quest 10. The Broken Scales]]
-**Prerequisites** [[Kobold]] ancestry
+**Source** [[DATABASE/source/PFS Quest 10. The Broken Scales|PFS Quest #10: The Broken Scales]]
+**Prerequisites** [[DATABASE/ancestry/Kobold|Kobold]] ancestry
 You are one of the Sewer Dragons, born in Absalom's sewers, strengthened by a life defending your territory.
 Choose two ability boosts. One must be to **Dexterity** or **Intelligence**, and one is a free ability boost.
-You're trained in the [[Crafting]] skill, and the [[Lore]] skill. You gain the [[Snare Crafting]] skill feat.
+You're trained in the [[DATABASE/skill/Crafting|Crafting]] skill, and the [[DATABASE/skill/Lore|Kobold Lore]] skill. You gain the [[DATABASE/feat/Snare Crafting|Snare Crafting]] skill feat.

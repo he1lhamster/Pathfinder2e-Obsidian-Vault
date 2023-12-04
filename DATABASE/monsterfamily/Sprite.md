@@ -3,6 +3,7 @@ creature_family: Sprite
 id: '95'
 name: Sprite
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Sprite
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Elusive, flighty, and ebullient, sprites are what many villagers first imagine when they hear the terms “fey” or “fairy.” While their dispositions vary from the benevolent grig to the trickster pixie, all sprites share a connection to magic and diminutive size. This family of fey shares its name with its slightest and most populous member, the common sprite.
 
 ### Members
 
-[[Draxie]] (Creature 3), [[Ether Sprite]] (Creature -1), [[Ether Sprite Swarm]] (Creature 3), [[Grig]] (Creature 1), [[Melixie]] (Creature 0), [[Nyktera]] (Creature -1), [[Pixie]] (Creature 4), [[Sprite]] (Creature -1)
+[[DATABASE/monster/Draxie|Draxie]] (Creature 3), [[DATABASE/monster/Ether Sprite|Ether Sprite]] (Creature -1), [[DATABASE/monster/Ether Sprite Swarm|Ether Sprite Swarm]] (Creature 3), [[DATABASE/monster/Grig|Grig]] (Creature 1), [[DATABASE/monster/Melixie|Melixie]] (Creature 0), [[DATABASE/monster/Nyktera|Nyktera]] (Creature -1), [[DATABASE/monster/Pixie|Pixie]] (Creature 4), [[DATABASE/monster/Sprite|Sprite]] (Creature -1)
 
 ###  Sprite Pranks
 

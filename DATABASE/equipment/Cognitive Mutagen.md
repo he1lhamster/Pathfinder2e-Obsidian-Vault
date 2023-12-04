@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -56,7 +57,7 @@ weapon_type: null
 # Cognitive Mutagen<span class="item-type">Item 1+</span>
 
 <span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Elixir</span><span class="item-trait">Mutagen</span><span class="item-trait">Polymorph</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
@@ -67,24 +68,24 @@ Your mind becomes clear and cognition flows freely, but physical matters seem ep
 
 ## Cognitive Mutagen (Lesser)<span class="item-type">Item 1</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 4 gp
 The bonus is +1, and the duration is 1 minute.
 
 ## Cognitive Mutagen (Moderate)<span class="item-type">Item 3</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 12 gp
 The bonus is +2, and the duration is 10 minutes.
 
 ## Cognitive Mutagen (Greater)<span class="item-type">Item 11</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 300 gp
 The bonus is +3, and the duration is 1 hour. You become trained in one Intelligence-based skill, chosen at creation.
 
 ## Cognitive Mutagen (Major)<span class="item-type">Item 17</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 3,000 gp
 The bonus is +4, and the duration is 1 hour. You become trained in one skill, chosen at creation.

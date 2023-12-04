@@ -19,6 +19,7 @@ patron_theme: null
 range: 120 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: basicReflex
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
@@ -38,7 +39,7 @@ type: Spell
 # Hungry Depths<span class="item-type">Spell 7</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Manipulate</span><span class="item-trait">Void</span><span class="item-trait">Water</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Traditions** arcane, primal
 **Cast** <span class="action-icon">3</span> 
 **Range** 120 feet; **Area** 5-foot burst (see text)

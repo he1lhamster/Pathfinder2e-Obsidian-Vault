@@ -11,6 +11,7 @@ name: Mantis Form
 prerequisite: '[[DATABASE/feat/Basic Red Mantis Magic|Basic Red Mantis Magic]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
 subcategory: null
@@ -23,12 +24,12 @@ type: Feat
 # Mantis Form <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[World Guide]] 
-**Archetype** [[Red Mantis Assassin]]
-**Prerequisites** [[Basic Red Mantis Magic]]
+**Source** [[DATABASE/source/World Guide|World Guide]] 
+**Archetype** [[DATABASE/archetype/Red Mantis Assassin|Red Mantis Assassin]]
+**Prerequisites** [[DATABASE/feat/Basic Red Mantis Magic|Basic Red Mantis Magic]]
 
 ---
-You gain the [[Mantis Form]] focus spell. If you don’t already have one, you gain a focus pool of 1 Focus Point, which you can Refocus by praying to Achaekek or researching your assigned kill.
+You gain the [[DATABASE/spell/Mantis Form|mantis form]] focus spell. If you don’t already have one, you gain a focus pool of 1 Focus Point, which you can Refocus by praying to Achaekek or researching your assigned kill.
 
 ## Traits
 

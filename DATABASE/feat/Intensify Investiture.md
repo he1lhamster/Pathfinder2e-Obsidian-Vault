@@ -11,6 +11,7 @@ name: Intensify Investiture
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Intensify Investiture <span class="action-icon">4</span> <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Thaumaturge</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Frequency** once per 10 minutes
 
 ---

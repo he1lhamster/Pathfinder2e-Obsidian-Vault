@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Enchantment
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Nemesis Name<span class="item-type">Item 9</span>
 
 <span class="item-trait">Enchantment</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span><span class="item-trait">Tattoo</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 650 gp
 **Usage** tattooed on the body; **Bulk** —
 

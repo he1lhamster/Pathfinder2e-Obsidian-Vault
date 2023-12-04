@@ -11,6 +11,7 @@ name: Animal Rage
 prerequisite: '[[DATABASE/barbarianinstinct/Animal Instinct|animal instinct]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -28,11 +29,11 @@ type: Feat
 # Animal Rage <span class="action-icon">1</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Barbarian</span><span class="item-trait">Concentrate</span><span class="item-trait">Polymorph</span><span class="item-trait">Primal</span><span class="item-trait">Rage</span><span class="item-trait">Transmutation</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Animal Instinct]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/barbarianinstinct/Animal Instinct|animal instinct]]
 
 ---
-You transform into your animal. You gain the effects of the 3rd-level [[Animal Form]] spell except you use your own statistics, temporary Hit Points, and unarmed attacks instead of those granted by animal form. You also retain the constant abilities of your gear. If your animal is a frog, your tongue’s reach increases to 15 feet. Dismissing the transformation gains the rage trait.
+You transform into your animal. You gain the effects of the 3rd-level [[DATABASE/spell/Animal Form|animal form]] spell except you use your own statistics, temporary Hit Points, and unarmed attacks instead of those granted by animal form. You also retain the constant abilities of your gear. If your animal is a frog, your tongue’s reach increases to 15 feet. Dismissing the transformation gains the rage trait.
 
 ## Traits
 

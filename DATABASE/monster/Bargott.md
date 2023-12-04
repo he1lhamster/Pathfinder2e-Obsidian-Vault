@@ -82,29 +82,29 @@ wisdom: '+2'
 # Bargott
 
 This creature did not include a description.
-**Recall Knowledge - Fey ([[Nature]])**: DC 28
-**Recall Knowledge - Plant ([[Nature]])**: DC 28
+**Recall Knowledge - Fey ([[DATABASE/skill/Nature|Nature]])**: DC 28
+**Recall Knowledge - Plant ([[DATABASE/skill/Nature|Nature]])**: DC 28
 **Unspecific Lore**: DC 26
 **Specific Lore**: DC 23
 
 # Bargott<span class="item-type">Creature 3</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Fey</span><span class="item-trait">Nymph</span><span class="item-trait">Plant</span>
-**Source** [[Pathfinder 176. Lost Mammoth Valley]]
+**Source** [[DATABASE/source/Pathfinder 176. Lost Mammoth Valley|Pathfinder #176: Lost Mammoth Valley]]
 Male dryad husk
-**Perception** +9; [[Darkvision]]
-**Languages** [[Common]], [[Elven]], [[Sylvan]]; [[Speak with Plants]]
-**Skills** [[Acrobatics]] +9, [[Athletics]] +10, [[Intimidation]] +11, [[Nature]] +11, [[Stealth]] +11, [[Survival]] +9
+**Perception** +9; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Elven|Elven]], [[DATABASE/language/Sylvan|Sylvan]]; [[DATABASE/spell/Speak with Plants|speak with plants]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +9, [[DATABASE/skill/Athletics|Athletics]] +10, [[DATABASE/skill/Intimidation|Intimidation]] +11, [[DATABASE/skill/Nature|Nature]] +11, [[DATABASE/skill/Stealth|Stealth]] +11, [[DATABASE/skill/Survival|Survival]] +9
 **Str** +3, **Dex** +4, **Con** +1, **Int** +1, **Wis** +2, **Cha** +4
 
 ---
 **AC** 18; **Fort** +8, **Ref** +11, **Will** +7
-**HP** 70; **Immunities** emotion effects; **Weaknesses** [[Cold Iron Weapon]] 5
+**HP** 70; **Immunities** emotion effects; **Weaknesses** [[DATABASE/equipment/Cold Iron Weapon|cold iron]] 5
 
 ---
 **Speed** 35 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> blighted branch +11 [+6/+1] (finesse, magical, reach 10 feet), **Damage** 1d10+7 bludgeoning plus draining impact</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +11 [+7/+3] (agile, finesse, magical), **Damage** 1d8+7 slashing</span>**Primal Innate Spells** DC 17; **3rd** _[[Fear]]_; **2nd** _[[Darkness]]_, _[[Shatter]]_; **Cantrips** **(2nd)** _[[Tanglefoot]]_; **Constant** **(4th)** _[[Speak with Plants]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> blighted branch +11 [+6/+1] (finesse, magical, reach 10 feet), **Damage** 1d10+7 bludgeoning plus draining impact</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +11 [+7/+3] (agile, finesse, magical), **Damage** 1d8+7 slashing</span>**Primal Innate Spells** DC 17; **3rd** _[[DATABASE/spell/Fear|fear]]_; **2nd** _[[DATABASE/spell/Darkness|darkness]]_, _[[DATABASE/spell/Shatter|shatter]]_; **Cantrips** **(2nd)** _[[DATABASE/spell/Tanglefoot|tanglefoot]]_; **Constant** **(4th)** _[[DATABASE/spell/Speak with Plants|speak with plants]]_
 <span class="in-box-ability">**Draining Impact** (primal) When Bargott hits a creature with his blighted branch Strike, the creature must attempt a DC 20 Fortitude save. Whatever the result, the creature is immune to Bargott's draining impact for 24 hours.
  **Success** The creature is unaffected.
- **Failure** The creature is [[Drained]] 1.
- **Critical Failure** The creature is [[Drained]] 2.</span><span class="in-box-ability">**Impart Anguish** <span class="action-icon">2</span> (mental, primal, visual) Bargott twists his face into a visage of utter agony, sharing his anguish with those who gaze upon him. Creatures in a 15-foot cone take 3d6 mental damage (DC 19 basic Will save). On a critically failed save, the creature is also [[Stupefied]] 1 for 1 round</span>
+ **Failure** The creature is [[DATABASE/condition/Drained|drained]] 1.
+ **Critical Failure** The creature is [[DATABASE/condition/Drained|drained]] 2.</span><span class="in-box-ability">**Impart Anguish** <span class="action-icon">2</span> (mental, primal, visual) Bargott twists his face into a visage of utter agony, sharing his anguish with those who gaze upon him. Creatures in a 15-foot cone take 3d6 mental damage (DC 19 basic Will save). On a critically failed save, the creature is also [[DATABASE/condition/Stupefied|stupefied]] 1 for 1 round</span>

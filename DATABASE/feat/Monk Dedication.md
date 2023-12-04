@@ -11,6 +11,7 @@ name: Monk Dedication
 prerequisite: Strength 14; Dexterity 14
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -25,17 +26,17 @@ type: Feat
 # Monk Dedication <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Dedication</span><span class="item-trait">Multiclass</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Monk]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Monk|Monk]]
 **Prerequisites** Strength 14; Dexterity 14
 
 ---
-You become trained in unarmed attacks and gain the [[Monk]] class feature. You become trained in your choice of [[Acrobatics]] or [[Athletics]]; if you are already trained in both of these skills, you become trained in a skill of your choice. You become trained in monk class DC.
+You become trained in unarmed attacks and gain the [[DATABASE/class_/Monk|powerful fist]] class feature. You become trained in your choice of [[DATABASE/skill/Acrobatics|Acrobatics]] or [[DATABASE/skill/Athletics|Athletics]]; if you are already trained in both of these skills, you become trained in a skill of your choice. You become trained in monk class DC.
 **Special** You can’t select another dedication feat until you have gained two other feats from the monk archetype.
 
 ## Monk Dedication Leads To...
 
-[[Basic Kata]], [[Monk Moves]], [[Monk Resiliency]], [[Monk's Flurry]], [[Perfection's Path]]
+[[DATABASE/feat/Basic Kata|Basic Kata]], [[DATABASE/feat/Monk Moves|Monk Moves]], [[DATABASE/feat/Monk Resiliency|Monk Resiliency]], [[DATABASE/feat/Monk's Flurry|Monk's Flurry]], [[DATABASE/feat/Perfection's Path|Perfection's Path]]
 
 ## Traits
 

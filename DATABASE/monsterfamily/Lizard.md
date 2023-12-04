@@ -3,6 +3,7 @@ creature_family: Lizard
 id: '70'
 name: Lizard
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Lizard
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Lizards have a wide range of appearances and abilities, but most share a basic reptilian shape—long tails, wide toothy mouths, and four legs. While a few species are capable of movement on two legs for short periods of time, most are strictly quadrupedal. The three species presented here represent the most common and well-known of the larger species.
 
 ### Members
 
-[[Caustic Monitor]] (Creature 13), [[Giant Chameleon]] (Creature 3), [[Giant Frilled Lizard]] (Creature 5), [[Giant Gecko]] (Creature 1), [[Giant Monitor Lizard]] (Creature 2), [[Megalania]] (Creature 7)
+[[DATABASE/monster/Caustic Monitor|Caustic Monitor]] (Creature 13), [[DATABASE/monster/Giant Chameleon|Giant Chameleon]] (Creature 3), [[DATABASE/monster/Giant Frilled Lizard|Giant Frilled Lizard]] (Creature 5), [[DATABASE/monster/Giant Gecko|Giant Gecko]] (Creature 1), [[DATABASE/monster/Giant Monitor Lizard|Giant Monitor Lizard]] (Creature 2), [[DATABASE/monster/Megalania|Megalania]] (Creature 7)
 
 ###  Lizard Locations
 

@@ -79,27 +79,27 @@ wisdom: '+6'
 # Wight Cultist
 
 This creature did not include a description.
-**Recall Knowledge - Undead ([[Religion]])**: DC 35
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 35
 **Unspecific Lore**: DC 33
 **Specific Lore**: DC 30
 
 # Wight Cultist<span class="item-type">Creature 12</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Undead</span>
-**Source** [[Pathfinder 154. Siege of the Dinosaurs]]
-Variant [[Wight]]
-**Perception** +22; [[Darkvision]]
-**Languages** [[Common]]
-**Skills** [[Athletics]] +25, [[Intimidation]] +24, [[Occultism]] +17, [[Stealth]] +22
+**Source** [[DATABASE/source/Pathfinder 154. Siege of the Dinosaurs|Pathfinder #154: Siege of the Dinosaurs]]
+Variant [[DATABASE/monster/Wight|wight]]
+**Perception** +22; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +25, [[DATABASE/skill/Intimidation|Intimidation]] +24, [[DATABASE/skill/Occultism|Occultism]] +17, [[DATABASE/skill/Stealth|Stealth]] +22
 **Str** +7, **Dex** +4, **Con** +6, **Int** -1, **Wis** +6, **Cha** +4
-**Items** platinum [[Religious Symbol]] of Bokrug worth 150 gp, _+1 [[Striking]] [[Ranseur]]_
+**Items** platinum [[DATABASE/equipment/Religious Symbol|religious symbol]] of Bokrug worth 150 gp, _+1 [[DATABASE/equipment/Striking|striking]] [[DATABASE/weapon/Ranseur|ranseur]]_
 
 ---
 **AC** 32; **Fort** +24, **Ref** +20, **Will** +22
-**HP** 235 ([[Negative Healing]]); **Immunities** death effects, disease, [[Paralyzed]], poison, [[Unconscious]]
-<span class="in-box-ability">**Dreadful Spite <span class="action-icon">5</span> ** **Trigger** The wight cultist is reduced to 0 Hit Points; **Effect** The wight makes a Strike before being destroyed. It doesn't gain any temporary HP from drain life on this Strike. A creature hit by this Strike is also [[Doomed]] for 1 minute.</span>
+**HP** 235 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects, disease, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Unconscious|unconscious]]
+<span class="in-box-ability">**Dreadful Spite <span class="action-icon">5</span> ** **Trigger** The wight cultist is reduced to 0 Hit Points; **Effect** The wight makes a Strike before being destroyed. It doesn't gain any temporary HP from drain life on this Strike. A creature hit by this Strike is also [[DATABASE/condition/Doomed|doomed 1]] for 1 minute.</span>
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _ranseur_ +26 [+21/+16] (disarm, magical, reach), **Damage** 2d10+13 piercing plus drain life</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +25 [+20/+15], **Damage** 3d6+13 bludgeoning plus drain life</span>**Divine Innate Spells** DC 29; **6th** _[[Crushing Despair]]_; **5th** _[[Confusion]]_, _[[Downpour]]_; **3rd** _[[Paralyze]]_ (at will); **Cantrips** **(6th)** _[[Daze]]_, _[[Shield]]_
-<span class="in-box-ability">**Drain Life** (divine, necromancy) When the wight damages a living creature with its claw or _ranseur_ Strike, the wight gains 12 temporary Hit Points and the creature must succeed at a DC 29 Fortitude save or become [[Drained]]. Further damage dealt by the wight increases the amount of drain by 1 on a failed save, to a maximum of drained 4.</span><span class="in-box-ability">**Wight Spawn** (divine, necromancy) A living humanoid slain by a wight's claw or _ranseur_ Strike rises as a wight after 1d4 rounds. This wight spawn is under the command of the wight that killed it. It doesn't have drain life or wight spawn and becomes [[Clumsy]] for as long as it is a wight spawn. If the creator of the wight spawn dies, the wight spawn becomes a full-fledged, autonomous wight; it regains its free will, gains drain life and wight spawn, and is no longer clumsy</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _ranseur_ +26 [+21/+16] (disarm, magical, reach), **Damage** 2d10+13 piercing plus drain life</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +25 [+20/+15], **Damage** 3d6+13 bludgeoning plus drain life</span>**Divine Innate Spells** DC 29; **6th** _[[DATABASE/spell/Crushing Despair|crushing despair]]_; **5th** _[[DATABASE/spell/Confusion|confusion]]_, _[[DATABASE/spell/Downpour|downpour]]_; **3rd** _[[DATABASE/spell/Paralyze|paralyze]]_ (at will); **Cantrips** **(6th)** _[[DATABASE/spell/Daze|daze]]_, _[[DATABASE/spell/Shield|shield]]_
+<span class="in-box-ability">**Drain Life** (divine, necromancy) When the wight damages a living creature with its claw or _ranseur_ Strike, the wight gains 12 temporary Hit Points and the creature must succeed at a DC 29 Fortitude save or become [[DATABASE/condition/Drained|drained 1]]. Further damage dealt by the wight increases the amount of drain by 1 on a failed save, to a maximum of drained 4.</span><span class="in-box-ability">**Wight Spawn** (divine, necromancy) A living humanoid slain by a wight's claw or _ranseur_ Strike rises as a wight after 1d4 rounds. This wight spawn is under the command of the wight that killed it. It doesn't have drain life or wight spawn and becomes [[DATABASE/condition/Clumsy|clumsy 2]] for as long as it is a wight spawn. If the creator of the wight spawn dies, the wight spawn becomes a full-fledged, autonomous wight; it regains its free will, gains drain life and wight spawn, and is no longer clumsy</span>

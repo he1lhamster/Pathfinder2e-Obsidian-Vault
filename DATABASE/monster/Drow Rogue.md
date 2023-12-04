@@ -79,20 +79,20 @@ wisdom: '+0'
 # Drow Rogue
 
 Loners at heart, drow rogues trust no one—least of all fellow slayers. These drow rely on awareness and adaptation to survive the cutthroat nature of their society.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 16
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
 # Drow Rogue<span class="item-type">Creature 2</span>
 
 <span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Drow</span><span class="item-trait">Elf</span><span class="item-trait">Humanoid</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +6; darkvision
-**Languages** [[Elven]], [[Undercommon]]
-**Skills** [[Acrobatics]] +8, [[Deception]] +7, [[Society]] +4, [[Stealth]] +10, [[Thievery]] +8
+**Languages** [[DATABASE/language/Elven|Elven]], [[DATABASE/language/Undercommon|Undercommon]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +8, [[DATABASE/skill/Deception|Deception]] +7, [[DATABASE/skill/Society|Society]] +4, [[DATABASE/skill/Stealth|Stealth]] +10, [[DATABASE/skill/Thievery|Thievery]] +8
 **Str** +2, **Dex** +4, **Con** +2, **Int** +0, **Wis** +0, **Cha** +1
-**[[Light Blindness]]**
-**Items** [[Hand Crossbow]], [[Lethargy Poison]], [[Shortsword]], [[Studded Leather Armor]]
+**[[DATABASE/monsterability/Light Blindness|Light Blindness]]**
+**Items** [[DATABASE/weapon/Hand Crossbow|hand crossbow (10 bolts)]], [[DATABASE/equipment/Lethargy Poison|lethargy poison (2 doses)]], [[DATABASE/weapon/Shortsword|shortsword]], [[DATABASE/armor/Studded Leather Armor|studded leather armor]]
 
 ---
 **AC** 19; **Fort** +6, **Ref** +10, **Will** +6; +1 status to all saves vs. magic, +2 status to all saves vs. mental
@@ -101,7 +101,7 @@ Loners at heart, drow rogues trust no one—least of all fellow slayers. These d
 
 ---
 **Speed** 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> shortsword +10 [+6/+2] (agile, finesse, versatile S), **Damage** 1d6+4 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> hand crossbow +10 [+5/+0] (range increment 60 feet, reload 1), **Damage** 1d6 piercing plus [[Lethargy Poison]]</span>**Divine Innate Spells** DC 16; **2nd** _[[Darkness]]_ (at will), _[[Faerie Fire]]_ (at will); **Cantrips** **(2nd)** _[[Dancing Lights]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> shortsword +10 [+6/+2] (agile, finesse, versatile S), **Damage** 1d6+4 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> hand crossbow +10 [+5/+0] (range increment 60 feet, reload 1), **Damage** 1d6 piercing plus [[DATABASE/equipment/Lethargy Poison|lethargy poison]]</span>**Divine Innate Spells** DC 16; **2nd** _[[DATABASE/spell/Darkness|darkness]]_ (at will), _[[DATABASE/spell/Faerie Fire|faerie fire]]_ (at will); **Cantrips** **(2nd)** _[[DATABASE/spell/Dancing Lights|dancing lights]]_
 <span class="in-box-ability">**Quick Draw** <span class="action-icon">1</span> The drow rogue draws a weapon using the Interact action, then Strikes with that weapon.
-</span><span class="in-box-ability">**[[Sneak Attack]]** The drow rogue deals 1d6 extra precision damage to [[Flat-Footed]] creatures.
+</span><span class="in-box-ability">**[[DATABASE/monsterability/Sneak Attack|Sneak Attack]]** The drow rogue deals 1d6 extra precision damage to [[DATABASE/condition/Flat-Footed|flat-footed]] creatures.
 </span>

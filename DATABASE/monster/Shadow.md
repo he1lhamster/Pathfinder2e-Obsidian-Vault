@@ -79,17 +79,17 @@ wisdom: '+2'
 # Shadow
 
 The mysterious undead known as shadows lurk in dark places and feed on those who stray too far from the light. Those who parley with shadows, typically by keeping them at bay with a glowing weapon, may learn great secrets, for they are ideal spies.
-**Recall Knowledge - Undead ([[Religion]])**: DC 19
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 19
 **Unspecific Lore**: DC 17
 **Specific Lore**: DC 14
 
 # Shadow<span class="item-type">Creature 4</span>
 
 <span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Incorporeal</span><span class="item-trait">Undead</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +10; darkvision
-**Languages** [[Necril]]
-**Skills** [[Acrobatics]] +10, [[Stealth]] +14
+**Languages** [[DATABASE/language/Necril|Necril]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +10, [[DATABASE/skill/Stealth|Stealth]] +14
 **Str** -5, **Dex** +4, **Con** +0, **Int** -2, **Wis** +2, **Cha** +3
 
 ---
@@ -100,4 +100,4 @@ The mysterious undead known as shadows lurk in dark places and feed on those who
 ---
 **Speed** fly 30 feet
 <span class="in-box-ability">**Melee** <span class="action-icon">1</span> shadow hand +15 [+10/+5] (finesse, magical), **Damage** 2d6+3 negative
-</span><span class="in-box-ability">**Shadow Spawn** When a creature’s shadow is pulled free by Steal Shadow, it becomes a shadow spawn under the command of the shadow that created it. This shadow spawn doesn’t have Steal Shadow and is perpetually and incurably [[Clumsy]]. If the creature the shadow spawn was pulled from dies, the shadow spawn becomes a full-fledged, autonomous shadow. If the creature recovers from its enfeeblement, its shadow returns to it and the shadow spawn is extinguished.</span><span class="in-box-ability">**Slink in Shadows** The shadow can Hide or end its Sneak in a creature’s or object’s shadow.</span><span class="in-box-ability">**Steal Shadow** <span class="action-icon">1</span> (divine, necromancy) **Requirement** The shadow hit a living creature with a shadow hand Strike on its previous action. **Effect** The shadow pulls at the target’s shadow, making the creature [[Enfeebled]]. This is cumulative with other [[Enfeebled]] conditions from shadows, to a maximum of [[Enfeebled]]. If this increases a creature’s [[Enfeebled]] value to 3 or more, the target’s shadow is separated from its body (see shadow spawn). [[Enfeebled]] from Steal Shadow decreases by 1 every hour.</span>
+</span><span class="in-box-ability">**Shadow Spawn** When a creature’s shadow is pulled free by Steal Shadow, it becomes a shadow spawn under the command of the shadow that created it. This shadow spawn doesn’t have Steal Shadow and is perpetually and incurably [[DATABASE/condition/Clumsy|clumsy 2]]. If the creature the shadow spawn was pulled from dies, the shadow spawn becomes a full-fledged, autonomous shadow. If the creature recovers from its enfeeblement, its shadow returns to it and the shadow spawn is extinguished.</span><span class="in-box-ability">**Slink in Shadows** The shadow can Hide or end its Sneak in a creature’s or object’s shadow.</span><span class="in-box-ability">**Steal Shadow** <span class="action-icon">1</span> (divine, necromancy) **Requirement** The shadow hit a living creature with a shadow hand Strike on its previous action. **Effect** The shadow pulls at the target’s shadow, making the creature [[DATABASE/condition/Enfeebled|enfeebled 1]]. This is cumulative with other [[DATABASE/condition/Enfeebled|enfeebled]] conditions from shadows, to a maximum of [[DATABASE/condition/Enfeebled|enfeebled 4]]. If this increases a creature’s [[DATABASE/condition/Enfeebled|enfeebled]] value to 3 or more, the target’s shadow is separated from its body (see shadow spawn). [[DATABASE/condition/Enfeebled|Enfeebled]] from Steal Shadow decreases by 1 every hour.</span>

@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -53,10 +54,10 @@ weapon_type: null
 # Curled Cure Gel<span class="item-type">Item 7</span>
 
 <span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span>
-**Source** [[Travel Guide]]
+**Source** [[DATABASE/source/Travel Guide|Travel Guide]]
 **Price** 60 gp
 **Usage** held in 1 hand; **Bulk** L
-**Activate** [[Treat Wounds]]
+**Activate** [[DATABASE/action/Treat Wounds|Treat Wounds]]
 
 ---
-Curled cure secretes a gel that gently warms the skin and stimulates healing. You can Activate the item as part of the same activity you use to Treat Wounds. If you successfully Treat Wounds, you can also reduce the value of one of the targets' [[Clumsy]], [[Enfeebled]], or [[Stupefied]] conditions by 1. The target of your Treat Wounds is then temporarily immune to curled cure gel for 24 hours, whether or not your attempt to Treat Wounds was successful.
+Curled cure secretes a gel that gently warms the skin and stimulates healing. You can Activate the item as part of the same activity you use to Treat Wounds. If you successfully Treat Wounds, you can also reduce the value of one of the targets' [[DATABASE/condition/Clumsy|clumsy]], [[DATABASE/condition/Enfeebled|enfeebled]], or [[DATABASE/condition/Stupefied|stupefied]] conditions by 1. The target of your Treat Wounds is then temporarily immune to curled cure gel for 24 hours, whether or not your attempt to Treat Wounds was successful.

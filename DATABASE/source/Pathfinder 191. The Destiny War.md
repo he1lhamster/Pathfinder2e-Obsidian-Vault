@@ -2,6 +2,7 @@
 id: '199'
 name: Pathfinder 191. The Destiny War
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -16,16 +17,16 @@ type: Source
 
 ## Equipment [22]
 
-[[Deck of Harrowed Tales]], [[Guardian Aluum Charm]], [[The Bear]], [[The Beating]], [[The Cyclone]], [[The Demon's Lantern]], [[The Desert]], [[The Forge]], [[The Hidden Truth]], [[The Keep]], [[The Lens of the Outreaching Eye]], [[The Lost]], [[The Marriage]], [[The Midwife]], [[The Owl]], [[The Sickness]], [[The Survivor]], [[The Tangled Briar]], [[The Tyrant]], [[The Uprising]], [[The Waxworks]], [[Witchwyrd Beacon]]
+[[DATABASE/equipment/Deck of Harrowed Tales|Deck of Harrowed Tales]], [[DATABASE/equipment/Guardian Aluum Charm|Guardian Aluum Charm]], [[DATABASE/equipment/The Bear|The Bear]], [[DATABASE/equipment/The Beating|The Beating]], [[DATABASE/equipment/The Cyclone|The Cyclone]], [[DATABASE/equipment/The Demon's Lantern|The Demon's Lantern]], [[DATABASE/equipment/The Desert|The Desert]], [[DATABASE/equipment/The Forge|The Forge]], [[DATABASE/equipment/The Hidden Truth|The Hidden Truth]], [[DATABASE/equipment/The Keep|The Keep]], [[DATABASE/equipment/The Lens of the Outreaching Eye|The Lens of the Outreaching Eye]], [[DATABASE/equipment/The Lost|The Lost]], [[DATABASE/equipment/The Marriage|The Marriage]], [[DATABASE/equipment/The Midwife|The Midwife]], [[DATABASE/equipment/The Owl|The Owl]], [[DATABASE/equipment/The Sickness|The Sickness]], [[DATABASE/equipment/The Survivor|The Survivor]], [[DATABASE/equipment/The Tangled Briar|The Tangled Briar]], [[DATABASE/equipment/The Tyrant|The Tyrant]], [[DATABASE/equipment/The Uprising|The Uprising]], [[DATABASE/equipment/The Waxworks|The Waxworks]], [[DATABASE/equipment/Witchwyrd Beacon|Witchwyrd Beacon]]
 
 ## Feats [2]
 
-[[Axuma's Awakening]], [[Axuma's Vigor]]
+[[DATABASE/feat/Axuma's Awakening|Axuma's Awakening]], [[DATABASE/feat/Axuma's Vigor|Axuma's Vigor]]
 
 ## Hazards [5]
 
-[[Cluster Heart]], [[Maggot Pit]], [[Rogue Sphere]], [[Shadow Maze]], [[Smith's Skull]]
+[[DATABASE/hazard/Cluster Heart|Cluster Heart]], [[DATABASE/hazard/Maggot Pit|Maggot Pit]], [[DATABASE/hazard/Rogue Sphere|Rogue Sphere]], [[DATABASE/hazard/Shadow Maze|Shadow Maze]], [[DATABASE/hazard/Smith's Skull|Smith's Skull]]
 
 ## Monsters [8]
 
-[[Demonic Rabble]], [[Derhii]], [[Ephialtes]], [[Ghalzarokh (Tyranny Demon)]], [[Hadi]], [[Katpaskir (Nihilism Demon)]], [[Vincuvicar]], [[Wrath Riot]]
+[[DATABASE/monster/Demonic Rabble|Demonic Rabble]], [[DATABASE/monster/Derhii|Derhii]], [[DATABASE/monster/Ephialtes|Ephialtes]], [[DATABASE/monster/Ghalzarokh (Tyranny Demon)|Ghalzarokh]], [[DATABASE/monster/Hadi|Hadi Mob]], [[DATABASE/monster/Katpaskir (Nihilism Demon)|Katpaskir]], [[DATABASE/monster/Vincuvicar|Vincuvicar]], [[DATABASE/monster/Wrath Riot|Wrath Riot]]

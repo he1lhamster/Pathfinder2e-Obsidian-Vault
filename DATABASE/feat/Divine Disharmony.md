@@ -11,6 +11,7 @@ name: Divine Disharmony
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Enchantment
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -27,11 +28,11 @@ type: Feat
 # Divine Disharmony <span class="action-icon">1</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Divine</span><span class="item-trait">Enchantment</span><span class="item-trait">Esoterica</span><span class="item-trait">Manipulate</span><span class="item-trait">Thaumaturge</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 
 ---
-From your collection of religious trinkets, you pull out opposing divine objects—such as the religious symbols of two deities that are hated enemies—and combine them in a display that causes discordant clashes of divine energy that are especially distracting to the faithful. Roll your choice of a [[Deception]] or [[Intimidation]] check against the Will DC of a creature you can see within 60 feet, with the following results. If the creature is particularly devoted to a deity, such as a [[Cleric]], celestial, monitor, fiend, or other creature with divine spells, you gain a +2 circumstance bonus to your skill check. The GM might determine that a creature that despises all deities, such as an [[Alghollthu]], is unaffected.
-**Critical Success** The creature is [[Flat-Footed]] to your attacks until the end of your next turn.
+From your collection of religious trinkets, you pull out opposing divine objects—such as the religious symbols of two deities that are hated enemies—and combine them in a display that causes discordant clashes of divine energy that are especially distracting to the faithful. Roll your choice of a [[DATABASE/skill/Deception|Deception]] or [[DATABASE/skill/Intimidation|Intimidation]] check against the Will DC of a creature you can see within 60 feet, with the following results. If the creature is particularly devoted to a deity, such as a [[DATABASE/class_/Cleric|cleric]], celestial, monitor, fiend, or other creature with divine spells, you gain a +2 circumstance bonus to your skill check. The GM might determine that a creature that despises all deities, such as an [[DATABASE/monsterfamily/Alghollthu|alghollthu]], is unaffected.
+**Critical Success** The creature is [[DATABASE/condition/Flat-Footed|flat-footed]] to your attacks until the end of your next turn.
 **Success** The creature is flat-footed against your attacks until the end of your current turn.
 
 ## Traits

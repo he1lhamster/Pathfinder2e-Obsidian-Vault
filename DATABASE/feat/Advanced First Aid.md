@@ -11,6 +11,7 @@ name: Advanced First Aid
 prerequisite: Master in [[DATABASE/skill/Medicine|Medicine]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: medicine
@@ -26,11 +27,11 @@ type: Feat
 # Advanced First Aid <span class="item-type">Feat 7</span>
 
 <span class="item-trait">General</span><span class="item-trait">Healing</span><span class="item-trait">Manipulate</span><span class="item-trait">Skill</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** master in [[Medicine]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** master in [[DATABASE/skill/Medicine|Medicine]]
 
 ---
-You use your medical training to ameliorate sickness or assuage fears. When you use [[Medicine]] to [[Administer First Aid]], instead of Stabilizing a character or Stopping Bleeding, you can reduce an ally's [[Frightened]] or [[Sickened]] condition by 2, or remove either of those conditions entirely on a critical success. You can remove only one condition at a time. The DC for the Medicine check is usually the DC of the effect that caused the condition.
+You use your medical training to ameliorate sickness or assuage fears. When you use [[DATABASE/skill/Medicine|Medicine]] to [[DATABASE/action/Administer First Aid|Administer First Aid]], instead of Stabilizing a character or Stopping Bleeding, you can reduce an ally's [[DATABASE/condition/Frightened|frightened]] or [[DATABASE/condition/Sickened|sickened]] condition by 2, or remove either of those conditions entirely on a critical success. You can remove only one condition at a time. The DC for the Medicine check is usually the DC of the effect that caused the condition.
 
 ## Traits
 

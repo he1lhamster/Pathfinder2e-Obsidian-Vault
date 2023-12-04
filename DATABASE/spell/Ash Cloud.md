@@ -22,6 +22,7 @@ patron_theme: null
 range: 120 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Fortitude
 school: Conjuration
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -40,7 +41,7 @@ type: Spell
 # Ash Cloud<span class="item-type">Spell 2</span>
 
 <span class="item-trait">Air</span><span class="item-trait">Conjuration</span><span class="item-trait">Fire</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Traditions** arcane, primal
 **Cast** <span class="action-icon">3</span> material, somatic, verbal
 **Range** 120 feet; **Area** 20-foot burst
@@ -50,8 +51,8 @@ type: Spell
 You summon a tumultuous cloud of ash and smoke. The cloud is difficult terrain for flying creatures, and creatures in the cloud can't detect anything using their sense of smell. Creatures that start their turn within the cloud take 2d4 fire damage as their lungs fill with the hot, acrid smoke, with a Fortitude save.
 **Critical Success** The target is unaffected.
 **Success** The target takes half damage.
-**Failure** The target takes full damage and is [[Dazzled]] for 1 round.
-**Critical Failure** The target takes double damage and is [[Blinded]] for 1 round.
+**Failure** The target takes full damage and is [[DATABASE/condition/Dazzled|dazzled]] for 1 round.
+**Critical Failure** The target takes double damage and is [[DATABASE/condition/Blinded|blinded]] for 1 round.
 
 ---
 **Heightened (+1)** The damage increases by 1d4.

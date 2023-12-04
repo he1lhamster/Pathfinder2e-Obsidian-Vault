@@ -15,6 +15,7 @@ language:
 max_speed: '25'
 name: Kashrishi
 rarity: Rare
+rus_type_level: null
 size: Small
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 speed:
@@ -30,9 +31,9 @@ vision: null
 # Kashrishi
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Humanoid</span><span class="item-trait">Kashrishi</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 _Kashrishi make their homes in remote areas of the world. These quiet beings have stout, durable frames and distinctive crystalline horns. Their inherent psychic abilities make them natural empaths but also occasionally burden them with the unceasing thoughts of their neighbors._
-Kashrishi occupy a unique evolutionary branch native to the lands bordering the northern stretches of the Obari Ocean. Resembling [[Halfling]]-sized bipedal rhinoceroses with the occasional odd insectile feature, kashrishi adapt to their environs with unusual efficiency, using a combination of rapid physical evolutions and inherent psychic powers. Kashrishi are often mistakenly referred to as having hive minds, though they're actually natural empaths, capable of discerning a creature's emotional state and impulses through proximity. This near-oracular behavior occasionally leads to misunderstandings with humanoids who think a kashrishi is reading their thoughts or otherwise magically influencing the conversation, though peoples more familiar with kashrishi come to value their unique insights and intuitive diplomacy.
+Kashrishi occupy a unique evolutionary branch native to the lands bordering the northern stretches of the Obari Ocean. Resembling [[DATABASE/ancestry/Halfling|halfling]]-sized bipedal rhinoceroses with the occasional odd insectile feature, kashrishi adapt to their environs with unusual efficiency, using a combination of rapid physical evolutions and inherent psychic powers. Kashrishi are often mistakenly referred to as having hive minds, though they're actually natural empaths, capable of discerning a creature's emotional state and impulses through proximity. This near-oracular behavior occasionally leads to misunderstandings with humanoids who think a kashrishi is reading their thoughts or otherwise magically influencing the conversation, though peoples more familiar with kashrishi come to value their unique insights and intuitive diplomacy.
  Kashrishi have an atypical level of control over their physical forms, thanks to their psychic powers, and can evolve new features over the course of a single generation. Typically, these features are intentionally cultivated to help deal with a particular environmental obstacle, such as a change in weather patterns, or if an invasive species affects available food supplies near their settlements.
  Kashrishi often tailor their evolutions to match the most successful creatures in their environment. Whether a testament to the resilience of insects or simply a quirk of their environment, many kashrishi evolutions are directly inspired by creatures like the rhinoceros beetle or giant water bug.
  If you want a character that's visually distinct, able to naturally access the occult powers of the mind, and great at quickly making friends wherever they go, you should play a kashrishi.
@@ -65,12 +66,12 @@ Despite their small stature, kashrishi tend to be terrible at hiding. Their crys
 
 ## Alignment and Religion
 
-Most kashrishi are good, and almost instinctively kind because of their empathic abilities and tight-knit communities. Kashrishi are rarely interested in religion, though a few deities are more likely to be worshipped by kashrishi than others. [[Desna]] is known to kashrishi as “The Crystal Butterfly,” and when a kashrishi child goes missing, their parents might pray the Crystal Butterfly uses the light of her wings to guide the child home. [[Besmara]] is also unusually likely to be worshipped by kashrishi, though her dogma among them is essentially a splinter faith that focuses on her primacy over sea monsters and storms with little regard to the piratical teachings for which most other ancestries know the goddess.
+Most kashrishi are good, and almost instinctively kind because of their empathic abilities and tight-knit communities. Kashrishi are rarely interested in religion, though a few deities are more likely to be worshipped by kashrishi than others. [[DATABASE/deity/Desna|Desna]] is known to kashrishi as “The Crystal Butterfly,” and when a kashrishi child goes missing, their parents might pray the Crystal Butterfly uses the light of her wings to guide the child home. [[DATABASE/deity/Besmara|Besmara]] is also unusually likely to be worshipped by kashrishi, though her dogma among them is essentially a splinter faith that focuses on her primacy over sea monsters and storms with little regard to the piratical teachings for which most other ancestries know the goddess.
 
 ## Adventurers
 
 Most kashrishi never become adventurers, content in their remote homes. Those kashrishi who do become adventurers often do so from necessity after being conscripted by pirates or washed away to distant locales by tropical storms. Occasionally, more adventurous lethoci and trogloshi kashrishi intentionally leave their islands to either found new colonies or to seek adventure. Any kashrishi might also take on the adventuring lifestyle in response to overcrowding on their home island.
- Kashrishi rely on their inherent occult powers to ward off monsters, and they use their inherent empathic abilities to form bonds with allies. Kashrishi make natural [[Bard]], [[Champion]], and [[Psychic]]. Typical kashrishi backgrounds include the [[Artist]], [[Emissary]], [[Fortune Teller]], and [[Herbalist]] backgrounds.
+ Kashrishi rely on their inherent occult powers to ward off monsters, and they use their inherent empathic abilities to form bonds with allies. Kashrishi make natural [[DATABASE/class_/Bard|bards]], [[DATABASE/class_/Champion|champions]], and [[DATABASE/class_/Psychic|psychics]]. Typical kashrishi backgrounds include the [[DATABASE/background/Artist|artist]], [[DATABASE/background/Emissary|emissary]], [[DATABASE/background/Fortune Teller|fortune teller]], and [[DATABASE/background/Herbalist|herbalist]] backgrounds.
 
 ## Names
 
@@ -115,13 +116,13 @@ Free
 
 ## Languages
 
-[[Common]]
-[[Kashrishi]]
-Additional languages equal to your Intelligence modifier (if positive). Choose from [[Aquan]], [[Celestial]], [[Draconic]], [[Sylvan]], [[Terran]], and any other languages to which you have access (such as the languages prevalent in your region).
+[[DATABASE/language/Common|Common]]
+[[DATABASE/language/Kashrishi|Kashrishi]]
+Additional languages equal to your Intelligence modifier (if positive). Choose from [[DATABASE/language/Aquan|Aquan]], [[DATABASE/language/Celestial|Celestial]], [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Sylvan|Sylvan]], [[DATABASE/language/Terran|Terran]], and any other languages to which you have access (such as the languages prevalent in your region).
 
 ## Empathic Sense
 
-Kashrishi are able to get a vague sense of the current emotional state of others within 15 feet of them. This manifests as a general feeling of happiness, anger, or fear, without any specific details. For those with whom kashrishi have an emotional connection, physical touch can heighten this sense to greater degrees of detail and understanding, increasing with the strength of their bond. This also functions as an imprecise sense alerting you to the presence, but not the precise location, of non-mindless creatures within the area. You gain a +2 circumstance bonus on Perception checks to [[Sense Motive]] against non-mindless creatures within the area of your empathic sense.
+Kashrishi are able to get a vague sense of the current emotional state of others within 15 feet of them. This manifests as a general feeling of happiness, anger, or fear, without any specific details. For those with whom kashrishi have an emotional connection, physical touch can heighten this sense to greater degrees of detail and understanding, increasing with the strength of their bond. This also functions as an imprecise sense alerting you to the presence, but not the precise location, of non-mindless creatures within the area. You gain a +2 circumstance bonus on Perception checks to [[DATABASE/action/Sense Motive|Sense Motive]] against non-mindless creatures within the area of your empathic sense.
 
 ## Glowing Horn
 

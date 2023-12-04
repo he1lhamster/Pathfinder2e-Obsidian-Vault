@@ -12,6 +12,7 @@ prerequisite: Expert in [[DATABASE/skill/Society|Society]] ; [[DATABASE/feat/Con
   or [[DATABASE/feat/Criminal Connections|Criminal Connections]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: society
@@ -25,11 +26,11 @@ type: Feat
 # Quick Contacts <span class="item-type">Feat 2</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** expert in [[Society]]; [[Connections]], or [[Criminal Connections]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** expert in [[DATABASE/skill/Society|Society]]; [[DATABASE/feat/Connections|Connections]], or [[DATABASE/feat/Criminal Connections|Criminal Connections]]
 
 ---
-You know where to go, who to talk to, and how to make new connections, fast. Upon entering a new settlement, spending 1 day of downtime allows you to build enough connections to make use of the Connections or Underworld Connections feats. If you're legendary in [[Society]], you can form the required connections within 1 hour of entering a new settlement.
+You know where to go, who to talk to, and how to make new connections, fast. Upon entering a new settlement, spending 1 day of downtime allows you to build enough connections to make use of the Connections or Underworld Connections feats. If you're legendary in [[DATABASE/skill/Society|Society]], you can form the required connections within 1 hour of entering a new settlement.
 
 ## Traits
 

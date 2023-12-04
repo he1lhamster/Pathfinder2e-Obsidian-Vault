@@ -11,6 +11,7 @@ name: Ironblood Stance
 prerequisite: null
 rarity: Common
 requirement: You are unarmored.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Ironblood Stance <span class="action-icon">1</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Monk</span><span class="item-trait">Stance</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Requirements** You are unarmored.
 
 ---
@@ -33,7 +34,7 @@ While in Ironblood Stance, you gain resistance 2 to all damage. The resistance i
 
 ## Ironblood Stance Leads To...
 
-[[Ironblood Surge]]
+[[DATABASE/feat/Ironblood Surge|Ironblood Surge]]
 
 ## Traits
 

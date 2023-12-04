@@ -12,6 +12,7 @@ name: Flying Talon
 price: 6 gp
 range: null
 rarity: Uncommon
+rus_type_level: null
 source: '[[DATABASE/source/Crown of the Kobold King|Crown of the Kobold King]]'
 trait:
 - '[[DATABASE/trait/Agile|Agile]]'
@@ -31,13 +32,13 @@ weapon_type: Melee
 # Flying Talon<span class="item-type">Item 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Agile</span><span class="item-trait">Finesse</span><span class="item-trait">Kobold</span><span class="item-trait">Ranged Trip</span><span class="item-trait">Tethered</span><span class="item-trait">thrown 10 ft.</span><span class="item-trait">Trip</span>
-**Source** [[Crown of the Kobold King]]
+**Source** [[DATABASE/source/Crown of the Kobold King|Crown of the Kobold King]]
 **Price** 6 gp; **Damage** 1d4 P; **Bulk** 1
 **Hands** 1
-**Type** Melee; **Category** Advanced; **Group** [[Flail]]
+**Type** Melee; **Category** Advanced; **Group** [[DATABASE/weapongroup/Flail|Flail]]
 
 ---
-This weapon consists of a three-pronged barbed hook attached to a length of chain. It can be used as a melee weapon to stab at foes or hurled as a ranged weapon. Some [[Kobold]] are particularly fond of using flying talons, especially as a sort of badge of office above those who serve them.
+This weapon consists of a three-pronged barbed hook attached to a length of chain. It can be used as a melee weapon to stab at foes or hurled as a ranged weapon. Some [[DATABASE/ancestry/Kobold|kobolds]] are particularly fond of using flying talons, especially as a sort of badge of office above those who serve them.
 
 ## Traits
 
@@ -51,11 +52,11 @@ You can use your Dexterity modifier instead of your Strength modifier on attack 
 
 **Kobold:**
 
-A creature with this trait is a member of the kobold ancestry. Kobolds are reptilian humanoids who are usually Small and typically have [[Darkvision]]. An ability with this trait can be used or selected only by kobolds.
+A creature with this trait is a member of the kobold ancestry. Kobolds are reptilian humanoids who are usually Small and typically have [[DATABASE/monsterability/Darkvision|darkvision]]. An ability with this trait can be used or selected only by kobolds.
 
 **Ranged Trip:**
 
-This weapon can be used to [[Trip]] with the [[Athletics]] skill at a distance up to the weapon's first range increment. The skill check takes a –2 circumstance penalty. You can add the weapon's item bonus to attack rolls as a bonus to the check. As with using a melee weapon to trip, a ranged trip doesn't deal any damage when used to Trip. This trait usually appears only on a thrown weapon.
+This weapon can be used to [[DATABASE/action/Trip|Trip]] with the [[DATABASE/skill/Athletics|Athletics]] skill at a distance up to the weapon's first range increment. The skill check takes a –2 circumstance penalty. You can add the weapon's item bonus to attack rolls as a bonus to the check. As with using a melee weapon to trip, a ranged trip doesn't deal any damage when used to Trip. This trait usually appears only on a thrown weapon.
 
 **Tethered:**
 
@@ -67,14 +68,14 @@ You can throw this weapon as a ranged attack, and it is a ranged weapon when thr
 
 **Trip:**
 
-You can use this weapon to [[Trip]] with the [[Athletics]] skill even if you don't have a free hand. This uses the weapon's reach (if different from your own) and adds the weapon's item bonus to attack rolls as an item bonus to the Athletics check. If you critically fail a check to Trip using the weapon, you can drop the weapon to take the effects of a failure instead of a critical failure.
+You can use this weapon to [[DATABASE/action/Trip|Trip]] with the [[DATABASE/skill/Athletics|Athletics]] skill even if you don't have a free hand. This uses the weapon's reach (if different from your own) and adds the weapon's item bonus to attack rolls as an item bonus to the Athletics check. If you critically fail a check to Trip using the weapon, you can drop the weapon to take the effects of a failure instead of a critical failure.
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.
 
 ## Critical Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
-**Flail**: The target is knocked [[Prone]].
+**Flail**: The target is knocked [[DATABASE/condition/Prone|prone]].

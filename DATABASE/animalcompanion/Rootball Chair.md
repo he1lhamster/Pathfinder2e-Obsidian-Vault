@@ -13,6 +13,7 @@ land_speed: '30'
 max_speed: '30'
 name: Rootball Chair
 rarity: Common
+rus_type_level: null
 sense:
 - low-light vision
 size: Medium, Large
@@ -31,22 +32,22 @@ wisdom: '+1'
 ---
 # Rootball Chair
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 Your companion is a woven sphere of living plant roots that rolls over the ground, while you sit on a stabilized seat above it.
 **Size** Medium or Large
 **Melee** <span class="action-icon">1</span> vine (reach 10 feet), **Damage** 1d8 slashing
 **Str** +2, **Dex** +2, **Con** +3, **Int** -4, **Wis** +1, **Cha** +0
 **Hit Points** 8
-**Skill** [[Stealth]] 
+**Skill** [[DATABASE/skill/Stealth|Stealth]] 
 **Senses** low-light vision
 **Speed** 30 feet
 **Special** mount
 **Support Benefit** Your rootball chair moves smoothly over most terrain, thanks to its many tendrils. Your rootball chair ignores difficult terrain.
 **Advanced Maneuver** Seedpod Spring
 
-### [[Seedpod Spring]] <span class="action-icon">2</span>
+### [[DATABASE/action/Seedpod Spring|Seedpod Spring]] <span class="action-icon">2</span>
 
-**Source** [[Treasure Vault]]
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]]
 
 ---
-A seedpod within the chair bursts and uncoils, releasing a light clump of cottony material. Your rootball chair [[Leap]] up to 30 feet vertically or horizontally and drifts down, sinking 5 feet for every 5 feet traveled horizontally and causing you to take no falling damage. The cottony material disperses when you land.
+A seedpod within the chair bursts and uncoils, releasing a light clump of cottony material. Your rootball chair [[DATABASE/action/Leap|Leaps]] up to 30 feet vertically or horizontally and drifts down, sinking 5 feet for every 5 feet traveled horizontally and causing you to take no falling damage. The cottony material disperses when you land.

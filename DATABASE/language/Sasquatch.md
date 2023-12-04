@@ -2,6 +2,7 @@
 id: '70'
 name: Sasquatch
 rarity: Rare
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -10,9 +11,9 @@ type: Language
 ---
 # Sasquatch
 
-**Source** [[Bestiary 3]]
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
 The below entries contain speakers of Sasquatch.
 
 ## Monsters (1)
 
-[[Sasquatch]]
+[[DATABASE/monster/Sasquatch|Sasquatch]]

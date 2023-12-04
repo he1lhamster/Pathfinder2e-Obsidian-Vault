@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Enchantment
 size: null
@@ -55,12 +56,12 @@ weapon_type: null
 # Knight Captain's Lance<span class="item-type">Item 13</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Divine</span><span class="item-trait">Enchantment</span><span class="item-trait">Magical</span>
-**Source** [[Knights of Lastwall]]
+**Source** [[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]
 **Price** 3,000 gp
 **Usage** held in 2 hands; **Bulk** 2
 **Access** Knights of Lastwall have access to this item.
-**Base Weapon** [[Lance]]
+**Base Weapon** [[DATABASE/weapon/Lance|Lance]]
 
 ---
-The appearance of this beautifully crafted _+2 [[Disrupting]] [[Striking]] [[Lance]]_ changes to match the armor of its wielder. It has a cloth flag attached behind the lance point that displays whatever heraldry the wielder wishes. If a cavalier with the [[Cavalier's Banner]] feat takes the knight captain's lance, it instead automatically displays the banner of their pledge.
+The appearance of this beautifully crafted _+2 [[DATABASE/equipment/Disrupting|disrupting]] [[DATABASE/equipment/Striking|greater striking]] [[DATABASE/weapon/Lance|lance]]_ changes to match the armor of its wielder. It has a cloth flag attached behind the lance point that displays whatever heraldry the wielder wishes. If a cavalier with the [[DATABASE/feat/Cavalier's Banner|Cavalier's Banner]] feat takes the knight captain's lance, it instead automatically displays the banner of their pledge.
 **Activate** <span class="action-icon">5</span> Interact **Trigger** Your attack roll with the _knight captain's lance_ is a critical success; **Effect** You raise the lance, inspiring those around you. Allies within 30 feet that can see you receive a +1 status bonus to their attack rolls and damage rolls for 1 round.

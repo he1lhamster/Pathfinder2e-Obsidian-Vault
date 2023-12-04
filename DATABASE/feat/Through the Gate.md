@@ -11,6 +11,7 @@ name: Through the Gate
 prerequisite: '[[DATABASE/feat/Kineticist Dedication|Kineticist Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -23,16 +24,16 @@ type: Feat
 # Through the Gate <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Rage of Elements]]
-**Archetype** [[Kineticist]]
-**Prerequisites** [[Kineticist Dedication]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
+**Archetype** [[DATABASE/archetype/Kineticist|Kineticist]]
+**Prerequisites** [[DATABASE/feat/Kineticist Dedication|Kineticist Dedication]]
 
 ---
 You gain a 1st- or 2nd-level kineticist feat of your choice. Your options include impulse feats for your kinetic element, as normal for a kineticist.
 
 ## Through the Gate Leads To...
 
-[[Advanced Element Control]]
+[[DATABASE/feat/Advanced Element Control|Advanced Element Control]]
 
 ## Traits
 

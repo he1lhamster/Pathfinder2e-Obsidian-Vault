@@ -11,6 +11,7 @@ name: Gunslinger Dedication
 prerequisite: Dexterity 14
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -26,8 +27,8 @@ type: Feat
 # Gunslinger Dedication <span class="item-type">Feat 2</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Archetype</span><span class="item-trait">Dedication</span><span class="item-trait">Multiclass</span>
-**Source** [[Guns & Gears]]
-**Archetype** [[Gunslinger]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Archetype** [[DATABASE/archetype/Gunslinger|Gunslinger]]
 **Prerequisites** Dexterity 14
 
 ---
@@ -37,7 +38,7 @@ You become trained in simple and martial crossbows and simple and martial firear
 
 ## Gunslinger Dedication Leads To...
 
-[[Basic Shooting]], [[Eagle Eye]], [[Firearm Expert]], [[Practiced Reloads]], [[Slinger's Readiness]]
+[[DATABASE/feat/Basic Shooting|Basic Shooting]], [[DATABASE/feat/Eagle Eye|Eagle Eye]], [[DATABASE/feat/Firearm Expert|Firearm Expert]], [[DATABASE/feat/Practiced Reloads|Practiced Reloads]], [[DATABASE/feat/Slinger's Readiness|Slinger's Readiness]]
 
 ## Traits
 
@@ -55,4 +56,4 @@ Archetypes with the multiclass trait represent diversifying your training into a
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.

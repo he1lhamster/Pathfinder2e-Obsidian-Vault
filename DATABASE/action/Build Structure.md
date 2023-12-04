@@ -7,6 +7,7 @@ id: '1372'
 name: Build Structure
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
@@ -19,7 +20,7 @@ type: Action
 # Build Structure
 
 <span class="item-trait">Civic</span><span class="item-trait">Downtime</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 
 ---
 You attempt to build a structure in the settlement that's granting the Civic activity. You may choose any structure for which you meet the requirements. Select the appropriate number of contiguous buildable lots in a single block as specified by the structure's entry and spend the specified RP and Commodity cost. Then attempt the structure's skill check.

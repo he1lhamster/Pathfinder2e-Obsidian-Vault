@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Trick Driver Dedication|Trick Driver Dedication]]
   Expert in [[DATABASE/skill/Lore|Driving Lore]]'
 rarity: Common
 requirement: You are adjacent to avehicle'spoint of entry.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -25,13 +26,13 @@ type: Feat
 # Take the Wheel <span class="action-icon">1</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Flourish</span>
-**Source** [[Guns & Gears]]
-**Archetype** [[Trick Driver]]
-**Prerequisites** [[Trick Driver Dedication]]; expert in [[Lore]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Archetype** [[DATABASE/archetype/Trick Driver|Trick Driver]]
+**Prerequisites** [[DATABASE/feat/Trick Driver Dedication|Trick Driver Dedication]]; expert in [[DATABASE/skill/Lore|Driving Lore]]
 **Requirements** You are adjacent to a vehicle's point of entry.
 
 ---
-Diving into a moving vehicle and seizing the controls is nothing new for you. You [[Board]] and [[Take Control]] of the adjacent vehicle.
+Diving into a moving vehicle and seizing the controls is nothing new for you. You [[DATABASE/action/Board|Board]] and [[DATABASE/action/Take Control|Take Control]] of the adjacent vehicle.
 
 ## Traits
 

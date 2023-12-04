@@ -14,6 +14,7 @@ language:
 max_speed: '25'
 name: Fleshwarp
 rarity: Rare
+rus_type_level: null
 size: Medium, Small
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 speed:
@@ -29,7 +30,7 @@ vision: Low-Light Vision
 # Fleshwarp
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Aberration</span><span class="item-trait">Humanoid</span>
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 _Fleshwarps are people whose forms were created or radically transformed by magic, alchemy, or unnatural energies. Their unorthodox appearance can make it difficult for them to find a place for themselves in the world._
 Magic and science that can warp bone and twist sinew are all too common on Golarion. Fleshwarps are those who have been permanently altered by such methods—sometimes a sapient being created whole cloth from inanimate flesh, but often a victim unwillingly transformed by strange energies or sadistic creators.
  The ancestry name “fleshwarp” is an umbrella term, since on Golarion the actual fleshwarping process is more infamously well-known than are alterations caused by uncontrolled magic, technology, or fringe science. Whether practiced by Thassilonian wizards, Nexian fleshcrafters, or the drow of the Darklands, fleshwarping is the craft of reshaping flesh and mind in vats of foul magical reagents. This has led some scholars of monsters to argue that only those beings created by traditional fleshwarping should be considered fleshwarps. Regardless of the source of their altered forms, fleshwarps bear their new shape forever, transformed beings living a wild and strange existence beyond what was possible for their original ancestry.
@@ -59,11 +60,11 @@ Fleshwarps are so few in number that congregations of them are rare. They most o
 
 ## Alignment and Religion
 
-Fleshwarps have little to gain from the broader society, and therefore rarely work to support society in turn, beyond perhaps helping other fleshwarps. They need to be able to adapt quickly to survive on their own. As a consequence, few fleshwarps are lawful. Although bigoted or short-sighted people view fleshwarps as monsters, fleshwarps are no more or less prone to evil than any other people, and most seek only to live their lives without trouble. Most are neutral in alignment, for while alienation doesn't force a fleshwarp to feel contempt for others, neither does it encourage a fleshwarp to avoid it. This is especially true for fleshwarps living in the societies that gave birth to their traumatic transformation. Fleshwarps aren't often casually religious; most either have little to do with faith at all (viewing themselves as scorned by the gods or simply seeing faith as impractical for survival) or are exceptionally devout. Religious fleshwarps often revere [[Arazni]], [[Calistria]], [[Desna]], or [[Gozreh]]; evil fleshwarps typically turn to [[Lamashtu]], finding consolation in the Mother of Monsters.
+Fleshwarps have little to gain from the broader society, and therefore rarely work to support society in turn, beyond perhaps helping other fleshwarps. They need to be able to adapt quickly to survive on their own. As a consequence, few fleshwarps are lawful. Although bigoted or short-sighted people view fleshwarps as monsters, fleshwarps are no more or less prone to evil than any other people, and most seek only to live their lives without trouble. Most are neutral in alignment, for while alienation doesn't force a fleshwarp to feel contempt for others, neither does it encourage a fleshwarp to avoid it. This is especially true for fleshwarps living in the societies that gave birth to their traumatic transformation. Fleshwarps aren't often casually religious; most either have little to do with faith at all (viewing themselves as scorned by the gods or simply seeing faith as impractical for survival) or are exceptionally devout. Religious fleshwarps often revere [[DATABASE/deity/Arazni|Arazni]], [[DATABASE/deity/Calistria|Calistria]], [[DATABASE/deity/Desna|Desna]], or [[DATABASE/deity/Gozreh|Gozreh]]; evil fleshwarps typically turn to [[DATABASE/deity/Lamashtu|Lamashtu]], finding consolation in the Mother of Monsters.
 
 ## Adventurers
 
-Fleshwarps often live on the margins of society. The [[Hermit]], [[Hunter]], [[Nomad]], or [[Street Urchin]] backgrounds work well for many fleshwarps; others might be [[Criminal]], [[Entertainer]], or [[Prisoner]]. The need to defend themselves leads many fleshwarps to become [[Barbarian]], [[Fighter]], [[Rogue]], or [[Ranger]]. [[Champion]] and [[Druid]] are common callings among fleshwarps who seek to defend and better the lot of others of their kind.
+Fleshwarps often live on the margins of society. The [[DATABASE/background/Hermit|hermit]], [[DATABASE/background/Hunter|hunter]], [[DATABASE/background/Nomad|nomad]], or [[DATABASE/background/Street Urchin|street urchin]] backgrounds work well for many fleshwarps; others might be [[DATABASE/background/Criminal|criminals]], [[DATABASE/background/Entertainer|entertainers]], or [[DATABASE/background/Prisoner|prisoners]]. The need to defend themselves leads many fleshwarps to become [[DATABASE/class_/Barbarian|barbarians]], [[DATABASE/class_/Fighter|fighters]], [[DATABASE/class_/Rogue|rogues]], or [[DATABASE/class_/Ranger|rangers]]. [[DATABASE/class_/Champion|champions]] and [[DATABASE/class_/Druid|druids]] are common callings among fleshwarps who seek to defend and better the lot of others of their kind.
 
 ## Names
 
@@ -118,12 +119,12 @@ Free
 
 ## Languages
 
-[[Common]]
-Additional languages equal to your Intelligence modifier (if positive). Choose from [[Aklo]], [[Draconic]], [[Dwarven]], [[Elven]], Goblin, [[Undercommon]], and any other languages to which you have access (such as the languages prevalent in your region).
+[[DATABASE/language/Common|Common]]
+Additional languages equal to your Intelligence modifier (if positive). Choose from [[DATABASE/language/Aklo|Aklo]], [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Dwarven|Dwarven]], [[DATABASE/language/Elven|Elven]], Goblin, [[DATABASE/language/Undercommon|Undercommon]], and any other languages to which you have access (such as the languages prevalent in your region).
 
 ## Low-Light Vision
 
-You can see in dim light as though it were bright light, and you ignore the [[Concealed]] condition due to dim light.
+You can see in dim light as though it were bright light, and you ignore the [[DATABASE/condition/Concealed|concealed]] condition due to dim light.
 
 ## Unusual Anatomy
 

@@ -7,6 +7,7 @@ id: '340'
 name: Mutagenic Flashback
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
@@ -18,7 +19,7 @@ type: Action
 # Mutagenic Flashback <span class="action-icon">4</span>
 
 <span class="item-trait">Alchemist</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Frequency** once per day
 
 ---

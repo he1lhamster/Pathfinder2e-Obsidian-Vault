@@ -11,6 +11,7 @@ name: Spine Stabber
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 subcategory: null
@@ -23,14 +24,14 @@ type: Feat
 # Spine Stabber <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Shisk</span>
-**Source** [[The Mwangi Expanse]]
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]
 
 ---
-The quills on your arms are particularly sharp and sturdy. You gain a quills unarmed attack that deals 1d6 piercing damage. Your quills are in the [[Knife]] weapon group and have the finesse and unarmed traits.
+The quills on your arms are particularly sharp and sturdy. You gain a quills unarmed attack that deals 1d6 piercing damage. Your quills are in the [[DATABASE/weapongroup/Knife|knife]] weapon group and have the finesse and unarmed traits.
 
 ## Spine Stabber Leads To...
 
-[[Piercing Quills]]
+[[DATABASE/feat/Piercing Quills|Piercing Quills]]
 
 ## Traits
 

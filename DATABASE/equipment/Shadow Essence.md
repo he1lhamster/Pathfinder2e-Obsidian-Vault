@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: DC 29 Fortitude
 school: null
 size: null
@@ -58,11 +59,11 @@ weapon_type: null
 # Shadow Essence<span class="item-type">Item 10</span>
 
 <span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Injury</span><span class="item-trait">Negative</span><span class="item-trait">Poison</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 160 gp
 **Usage** held in 2 hands; **Bulk** L
 **Activate** <span class="action-icon">2</span> Interact
 
 ---
-Distilled from the [[Shadow Plane]], this oily substance imposes tenebrous effects. The [[Enfeebled]] condition from shadow essence lasts for 24 hours.
+Distilled from the [[DATABASE/plane/Shadow Plane|Plane of Shadow]], this oily substance imposes tenebrous effects. The [[DATABASE/condition/Enfeebled|enfeebled]] condition from shadow essence lasts for 24 hours.
 **Saving Throw** DC 29 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 3d6 negative damage and 2d6 poison damage (1 round); **Stage 2** 3d6 negative damage, 2d6 poison damage, and enfeebled 1 (1 round); **Stage 3** 3d6 negative damage, 2d6 poison damage, and enfeebled 2 (1 round)

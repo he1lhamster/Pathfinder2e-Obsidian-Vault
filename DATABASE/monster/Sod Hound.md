@@ -70,16 +70,16 @@ wisdom: '+2'
 # Sod Hound
 
 Sod hounds are mossy extraplanar canines formed of packed dirt and pebbles.
-**Recall Knowledge - Elemental ([[Arcana]], [[Nature]])**: DC 18
+**Recall Knowledge - Elemental ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Sod Hound<span class="item-type">Creature 3</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Small</span><span class="item-trait">Earth</span><span class="item-trait">Elemental</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +9; crystal sense (imprecise) 60 feet, darkvision
-**Skills** [[Athletics]] +11, [[Survival]] +9 (+11 to Track)
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +11, [[DATABASE/skill/Survival|Survival]] +9 (+11 to Track)
 **Str** +4, **Dex** -1, **Con** +3, **Int** -4, **Wis** +2, **Cha** -1
 **Crystal Sense** A sod hound can sense crystals or gems within 60 feet as if using the scent ability
 

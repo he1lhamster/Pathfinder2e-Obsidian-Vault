@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Spell Trickster Dedication|Spell Trickster Dedica
   ; ability to cast [[DATABASE/spell/Cloudkill|cloudkill]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Directed Poison <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Grand Bazaar]]
-**Archetype** [[Spell Trickster]]
-**Prerequisites** [[Spell Trickster Dedication]]; ability to cast [[Cloudkill]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
+**Archetype** [[DATABASE/archetype/Spell Trickster|Spell Trickster]]
+**Prerequisites** [[DATABASE/feat/Spell Trickster Dedication|Spell Trickster Dedication]]; ability to cast [[DATABASE/spell/Cloudkill|cloudkill]]
 
 ---
 When you cast _cloudkill_, modify its duration to be sustained up to 1 minute, and modify its standard effect to include the following: The cloud doesn't move away from you each round. Once per round when you Sustain the Spell, you can move the cloud 10 feet in the direction of your choice.

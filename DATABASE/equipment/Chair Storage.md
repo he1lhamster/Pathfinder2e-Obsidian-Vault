@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -50,9 +51,9 @@ weapon_type: null
 ---
 # Chair Storage<span class="item-type">Item 0</span>
 
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 1 gp
 **Bulk** —
 
 ---
-The chair has an efficient allocated space to hold additional items. This reduces the amount of Bulk the items weigh when stored within the chair, much like a [[Backpack]]. The first 2 Bulk of items stowed in your chair don't count against your Bulk limit. If you use both chair storage and a backpack at the same time, only 2 Bulk total isn't counted against your limit, much like if you used multiple backpacks or similar items at the same time.
+The chair has an efficient allocated space to hold additional items. This reduces the amount of Bulk the items weigh when stored within the chair, much like a [[DATABASE/equipment/Backpack|backpack]]. The first 2 Bulk of items stowed in your chair don't count against your Bulk limit. If you use both chair storage and a backpack at the same time, only 2 Bulk total isn't counted against your limit, much like if you used multiple backpacks or similar items at the same time.

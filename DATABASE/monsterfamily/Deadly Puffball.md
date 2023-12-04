@@ -3,6 +3,7 @@ creature_family: Deadly Puffball
 id: '282'
 name: Deadly Puffball
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 165. Eyes of Empty Death|Pathfinder #165: Eyes
   of Empty Death]]'
 trait: null
@@ -11,12 +12,12 @@ type: Creature Family
 ---
 # Deadly Puffball
 
-**Source** [[Pathfinder 165. Eyes of Empty Death]]
+**Source** [[DATABASE/source/Pathfinder 165. Eyes of Empty Death|Pathfinder #165: Eyes of Empty Death]]
 Many benign puffball fungi cling to the detritus of forest floors in Darklands caverns. These fungi's giant versions are more mobile and dangerous.
 
 ### Members
 
-[[Dragon's Blood Puffball]] (Creature 8), [[Reaper Skull Puffball]] (Creature 9)
+[[DATABASE/monster/Dragon's Blood Puffball|Dragon's Blood Puffball]] (Creature 8), [[DATABASE/monster/Reaper Skull Puffball|Reaper Skull Puffball]] (Creature 9)
 
 ###  Valuable Spores
 

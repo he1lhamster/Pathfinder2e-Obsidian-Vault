@@ -11,6 +11,7 @@ name: Instinctive Strike
 prerequisite: '[[DATABASE/feat/Acute Scent|Acute Scent]] or precise or imprecisescent'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,11 +26,11 @@ type: Feat
 # Instinctive Strike <span class="action-icon">2</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Barbarian</span><span class="item-trait">Manipulate</span><span class="item-trait">Rage</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** [[Acute Scent]], or precise or imprecise scent
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** [[DATABASE/feat/Acute Scent|Acute Scent]], or precise or imprecise scent
 
 ---
-You trust your instincts and your sense of smell, using all of your senses to pinpoint your opponent's location. Make a melee Strike against an opponent that isn't hiding its scent with an effect like [[Negate Aroma]]. This attack ignores any flat check required due to the target being [[Concealed]] or [[Hidden]].
+You trust your instincts and your sense of smell, using all of your senses to pinpoint your opponent's location. Make a melee Strike against an opponent that isn't hiding its scent with an effect like [[DATABASE/spell/Negate Aroma|negate aroma]]. This attack ignores any flat check required due to the target being [[DATABASE/condition/Concealed|concealed]] or [[DATABASE/condition/Hidden|hidden]].
 
 ## Traits
 

@@ -13,6 +13,7 @@ prerequisite: '[[DATABASE/feat/Unexpected Sharpshooter Dedication|Unexpected Sha
 rarity: Common
 requirement: Your previous action was a ranged weapon Strike that missed a foe within
   60 feet.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -25,14 +26,14 @@ type: Feat
 # I Meant to Do That <span class="action-icon">1</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Guns & Gears]]
-**Archetype** [[Unexpected Sharpshooter]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Archetype** [[DATABASE/archetype/Unexpected Sharpshooter|Unexpected Sharpshooter]]
 **Frequency** once per hour
-**Prerequisites** [[Unexpected Sharpshooter Dedication]]; trained in [[Deception]]
+**Prerequisites** [[DATABASE/feat/Unexpected Sharpshooter Dedication|Unexpected Sharpshooter Dedication]]; trained in [[DATABASE/skill/Deception|Deception]]
 **Requirements** Your previous action was a ranged weapon Strike that missed a foe within 60 feet.
 
 ---
-Somehow your stray bullet causes an unintended reaction that creates a problem for your enemy: perhaps a ricochet knocks your foe's weapon away or they stumble over stray debris in an attempt to dodge your bullets. Roll a [[Deception]] check to attempt to [[Shove]], [[Trip]], or [[Disarm]] the foe you missed.
+Somehow your stray bullet causes an unintended reaction that creates a problem for your enemy: perhaps a ricochet knocks your foe's weapon away or they stumble over stray debris in an attempt to dodge your bullets. Roll a [[DATABASE/skill/Deception|Deception]] check to attempt to [[DATABASE/action/Shove|Shove]], [[DATABASE/action/Trip|Trip]], or [[DATABASE/action/Disarm|Disarm]] the foe you missed.
 
 ## Traits
 

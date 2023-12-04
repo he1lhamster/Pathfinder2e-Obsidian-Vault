@@ -2,6 +2,7 @@
 id: '109'
 name: Threshold of Knowledge
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -16,12 +17,12 @@ type: Source
 
 ## Equipment [4]
 
-[[Bubbling Scale]], [[Lion Badge]], [[Seeking Bracelets]], [[Wordreaper]]
+[[DATABASE/equipment/Bubbling Scale|Bubbling Scale]], [[DATABASE/equipment/Lion Badge|Lion Badge]], [[DATABASE/equipment/Seeking Bracelets|Seeking Bracelets]], [[DATABASE/equipment/Wordreaper|Wordreaper]]
 
 ## NPCs [5]
 
-[[Ekene]], [[Kalaggi Nakutu]], [[Muruwa]], [[Ufi]], [[Zane Ikundi]]
+[[DATABASE/npc/Ekene|Ekene]], [[DATABASE/npc/Kalaggi Nakutu|Kalaggi Nakutu]], [[DATABASE/npc/Muruwa|Muruwa]], [[DATABASE/npc/Ufi|Ufi]], [[DATABASE/npc/Zane Ikundi|Zane Ikundi]]
 
 ## Spells [2]
 
-[[Gritty Wheeze]], [[Nettleskin]]
+[[DATABASE/spell/Gritty Wheeze|Gritty Wheeze]], [[DATABASE/spell/Nettleskin|Nettleskin]]

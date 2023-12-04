@@ -11,6 +11,7 @@ name: Foreseen Failure
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Divination
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -27,7 +28,7 @@ type: Feat
 # Foreseen Failure <span class="action-icon">4</span> <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Divination</span><span class="item-trait">Fortune</span><span class="item-trait">Occult</span><span class="item-trait">Psychic</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Frequency** once per day
 **Trigger** A spell you cast has no effect because you critically failed all your spell attack rolls or because all targets critically succeeded at their saving throws.
 

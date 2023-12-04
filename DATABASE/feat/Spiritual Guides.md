@@ -11,6 +11,7 @@ name: Spiritual Guides
 prerequisite: '[[DATABASE/barbarianinstinct/Spirit Instinct|spirit instinct]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,9 +26,9 @@ type: Feat
 # Spiritual Guides <span class="action-icon">5</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Barbarian</span><span class="item-trait">Concentrate</span><span class="item-trait">Fortune</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Frequency** once per day
-**Prerequisites** [[Spirit Instinct]]
+**Prerequisites** [[DATABASE/barbarianinstinct/Spirit Instinct|spirit instinct]]
 **Trigger** You fail, but don't critically fail, a Perception check or a skill check.
 
 ---

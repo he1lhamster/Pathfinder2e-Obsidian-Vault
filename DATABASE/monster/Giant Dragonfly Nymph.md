@@ -68,16 +68,16 @@ wisdom: '+1'
 # Giant Dragonfly Nymph
 
 The aquatic, wingless offspring of dragonflies are called dragonfly nymphs. Giant dragonfly nymphs can be several feet in length and mostly hunt in shallow waters, eating carrion and ambushing living creatures with their fully grown counterparts. They are not daunted by larger creatures, compelled by their instinct to eat as much as possible to sustain their growth.
-**Recall Knowledge - Animal ([[Nature]])**: DC 18
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Giant Dragonfly Nymph<span class="item-type">Creature 3</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Small</span><span class="item-trait">Animal</span><span class="item-trait">Aquatic</span>
-**Source** [[Bestiary 2]] 
-**Perception** +8; [[Low-Light Vision]], [[Wavesense]]
-**Skills** [[Athletics]] +10, [[Stealth]] +9 (+11 in water)
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +8; [[DATABASE/monsterability/Low-Light Vision|low-light vision]], [[DATABASE/monsterability/Wavesense|wavesense (imprecise) 30 feet]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +10, [[DATABASE/skill/Stealth|Stealth]] +9 (+11 in water)
 **Str** +3, **Dex** +2, **Con** +4, **Int** -5, **Wis** +1, **Cha** -5
 
 ---

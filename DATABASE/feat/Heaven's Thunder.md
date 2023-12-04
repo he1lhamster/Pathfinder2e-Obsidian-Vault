@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Jalmeri Heavenseeker Dedication|Jalmeri Heavensee
   Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -27,13 +28,13 @@ type: Feat
 # Heaven's Thunder <span class="action-icon">1</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Electricity</span><span class="item-trait">Evocation</span><span class="item-trait">Sonic</span>
-**Source** [[Impossible Lands]], [[Pathfinder 158. Sixty Feet Under]]
-**Archetype** [[Jalmeri Heavenseeker]]
-**Prerequisites** [[Jalmeri Heavenseeker Dedication]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]], [[DATABASE/source/Pathfinder 158. Sixty Feet Under|Pathfinder #158: Sixty Feet Under]]
+**Archetype** [[DATABASE/archetype/Jalmeri Heavenseeker|Jalmeri Heavenseeker]]
+**Prerequisites** [[DATABASE/feat/Jalmeri Heavenseeker Dedication|Jalmeri Heavenseeker Dedication]]
 
 ---
-Until the end of your next turn, your unarmed attacks and any monk weapons you wield deal additional electricity and sonic damage; the amount of each damage type is equal to the number of damage dice for the weapon or unarmed attack. Any creature who successfully [[Grapple]] you or is successfully Grappled by you takes this damage immediately after the Grapple check is resolved (using the number of damage dice of your unarmed attack to determine the damage dealt).
- If you also know the [[Ki Blast]] ki spell, you can choose to deal either electricity or sonic damage with the spell instead of force while this effect is active (_ki blast_ loses the force trait and gains the electricity or sonic trait instead).
+Until the end of your next turn, your unarmed attacks and any monk weapons you wield deal additional electricity and sonic damage; the amount of each damage type is equal to the number of damage dice for the weapon or unarmed attack. Any creature who successfully [[DATABASE/action/Grapple|Grapples]] you or is successfully Grappled by you takes this damage immediately after the Grapple check is resolved (using the number of damage dice of your unarmed attack to determine the damage dealt).
+ If you also know the [[DATABASE/spell/Ki Blast|ki blast]] ki spell, you can choose to deal either electricity or sonic damage with the spell instead of force while this effect is active (_ki blast_ loses the force trait and gains the electricity or sonic trait instead).
 
 ## Traits
 

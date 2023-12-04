@@ -71,19 +71,19 @@ wisdom: '+1'
 # Caligni Dancer
 
 Caligni dancers serve as intermediaries between caligni clans.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 15
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Caligni Dancer<span class="item-type">Creature 1</span>
 
 <span class="trait-alignment item-trait">CN</span><span class="trait-size item-trait">Small</span><span class="item-trait">Caligni</span><span class="item-trait">Humanoid</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +6; greater darkvision, light blindness
-**Languages** [[Caligni]]
-**Skills** [[Acrobatics]] +7, [[Performance]] +6, [[Stealth]] +7, [[Thievery]] +7
+**Languages** [[DATABASE/language/Caligni|Caligni]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +7, [[DATABASE/skill/Performance|Performance]] +6, [[DATABASE/skill/Stealth|Stealth]] +7, [[DATABASE/skill/Thievery|Thievery]] +7
 **Str** +0, **Dex** +4, **Con** +2, **Int** -1, **Wis** +1, **Cha** +3
-**Items** [[Light Mace]], [[Dagger]]
+**Items** [[DATABASE/weapon/Light Mace|baton (light mace)]], [[DATABASE/weapon/Dagger|dagger]]
 
 ---
 **AC** 17; **Fort** +7, **Ref** +9, **Will** +4
@@ -92,5 +92,5 @@ Caligni dancers serve as intermediaries between caligni clans.
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> baton +9 [+5/+1] (agile, finesse, shove), **Damage** 1d4 bludgeoning</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> dagger +9 [+5/+1] (agile, finesse, versatile S), **Damage** 1d4 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> dagger +9 [+5/+1] (agile, thrown 10 feet, versatile S), **Damage** 1d4 piercing</span>**Occult Innate Spells** DC 16; **Cantrips** **(1st)** _[[Counter Performance]]_ (visual only), _[[Inspire Courage]]_
-<span class="in-box-ability">**Dancer's Curse** <span class="action-icon">1</span> (curse, enchantment, occult, mental) The caligni dancer touches a foe and curses it. If the target fails a DC 18 Will save, it gains [[Clumsy]] and [[Stupefied]]. The target is then temporarily immune for 24 hours. These conditions persist until the curse is removed. The victim can attempt a new DC 18 Will save once per hour to end the curse. </span><span class="in-box-ability">**[[Sneak Attack]]** The caligni dancer deals 1d6 extra precision damage to [[Flat-Footed]] creatures.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> baton +9 [+5/+1] (agile, finesse, shove), **Damage** 1d4 bludgeoning</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> dagger +9 [+5/+1] (agile, finesse, versatile S), **Damage** 1d4 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> dagger +9 [+5/+1] (agile, thrown 10 feet, versatile S), **Damage** 1d4 piercing</span>**Occult Innate Spells** DC 16; **Cantrips** **(1st)** _[[DATABASE/spell/Counter Performance|counter performance]]_ (visual only), _[[DATABASE/spell/Inspire Courage|inspire courage]]_
+<span class="in-box-ability">**Dancer's Curse** <span class="action-icon">1</span> (curse, enchantment, occult, mental) The caligni dancer touches a foe and curses it. If the target fails a DC 18 Will save, it gains [[DATABASE/condition/Clumsy|clumsy 1]] and [[DATABASE/condition/Stupefied|stupefied 1]]. The target is then temporarily immune for 24 hours. These conditions persist until the curse is removed. The victim can attempt a new DC 18 Will save once per hour to end the curse. </span><span class="in-box-ability">**[[DATABASE/monsterability/Sneak Attack|Sneak Attack]]** The caligni dancer deals 1d6 extra precision damage to [[DATABASE/condition/Flat-Footed|flat-footed]] creatures.</span>

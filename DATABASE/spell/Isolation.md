@@ -21,6 +21,7 @@ patron_theme: null
 range: 30 feet
 rarity: Rare
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Illusion
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
@@ -37,8 +38,8 @@ type: Focus
 # Isolation<span class="item-type">Focus 4</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Cleric</span><span class="item-trait">Illusion</span>
-**Source** [[Dark Archive]]
-**Domain** [[Darkness Domain]] (apocryphal)
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Domain** [[DATABASE/domain/Darkness Domain|darkness]] (apocryphal)
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet; **Targets** 1 creature
 **Saving Throw** Will; **Duration** 3 rounds
@@ -46,5 +47,5 @@ type: Focus
 ---
 You summon a tangible manifestation of loneliness to cloak the target from view as surely as if it were wreathed in darkness. The target attempts a Will saving throw.
 **Critical Success** The target is unaffected.
-**Success** The target becomes [[Invisible]], but only to its allies. Any creature not allied with the target can see it normally. Effects such as [[See Invisibility]] enable an ally to see the target. The target's allies still know the target is present and can still see all the effects of the target's actions.
+**Success** The target becomes [[DATABASE/condition/Invisible|invisible]], but only to its allies. Any creature not allied with the target can see it normally. Effects such as [[DATABASE/spell/See Invisibility|see invisibility]] enable an ally to see the target. The target's allies still know the target is present and can still see all the effects of the target's actions.
 **Failure** As success, except the target also becomes inaudible to its allies and imperceptible to them through any other senses.

@@ -11,6 +11,7 @@ name: Divine Reflexes
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Divine Reflexes <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Champion</span>
-**Source** [[Core Rulebook]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
 At the start of each of your turns, you gain an additional reaction that you can use only for your champion’s reaction.

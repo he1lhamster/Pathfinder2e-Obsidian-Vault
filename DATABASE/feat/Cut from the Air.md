@@ -12,6 +12,7 @@ prerequisite: null
 rarity: Common
 requirement: You're aware of the attack, not [[DATABASE/condition/Flat-Footed|flat-footed]]
   against it,and either have a hand free or are wielding a melee weapon.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,13 +25,13 @@ type: Feat
 # Cut from the Air <span class="action-icon">5</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Fighter</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Trigger** You are the target of a physical ranged Strike.
-**Requirements** You're aware of the attack, not [[Flat-Footed]] against it, and either have a hand free or are wielding a melee weapon.
+**Requirements** You're aware of the attack, not [[DATABASE/condition/Flat-Footed|flat-footed]] against it, and either have a hand free or are wielding a melee weapon.
 
 ---
 You can knock aside ranged attacks. You gain a +4 circumstance bonus to AC against the triggering attack. If the attack misses, you knocked or cut it out of the air.
 
 ## Cut from the Air Leads To...
 
-[[Smash from the Air]]
+[[DATABASE/feat/Smash from the Air|Smash from the Air]]

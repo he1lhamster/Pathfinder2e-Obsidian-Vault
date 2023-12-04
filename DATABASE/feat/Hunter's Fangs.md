@@ -11,6 +11,7 @@ name: Hunter's Fangs
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 subcategory: null
@@ -23,13 +24,13 @@ type: Feat
 # Hunter's Fangs <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Anadi</span>
-**Source** [[The Mwangi Expanse]]
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]
 
 ---
-Your fangs are exceptionally painful. Whenever you score a critical hit with your fangs unarmed attack, you apply the [[Brawling]] critical specialization effect.
+Your fangs are exceptionally painful. Whenever you score a critical hit with your fangs unarmed attack, you apply the [[DATABASE/weapongroup/Brawling|unarmed attack's]] critical specialization effect.
 
 ## Traits
 
 **Anadi:**
 
-A reclusive people from Garund who resemble spiders and can assume [[Dwarf]] forms.
+A reclusive people from Garund who resemble spiders and can assume [[DATABASE/ancestry/Dwarf|human]] forms.

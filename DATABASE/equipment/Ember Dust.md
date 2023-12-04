@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -57,7 +58,7 @@ weapon_type: null
 # Ember Dust<span class="item-type">Item 2</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Consumable</span><span class="item-trait">Evocation</span><span class="item-trait">Fire</span><span class="item-trait">Magical</span>
-**Source** [[Pathfinder 175. Broken Tusk Moon]]
+**Source** [[DATABASE/source/Pathfinder 175. Broken Tusk Moon|Pathfinder #175: Broken Tusk Moon]]
 **Price** 6 gp
 **Bulk** —
 **Activate** <span class="action-icon">1</span> Interact

@@ -11,6 +11,7 @@ name: Speak with Flowers
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Speak with Flowers <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Ghoran</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 
 ---
-At your very heartwood, you're a flower animated by elder magic, and with a little effort, you can speak to your kindred. You can ask questions of, receive answers from, and use the [[Diplomacy]] skill with flowering plants of all types.
+At your very heartwood, you're a flower animated by elder magic, and with a little effort, you can speak to your kindred. You can ask questions of, receive answers from, and use the [[DATABASE/skill/Diplomacy|Diplomacy]] skill with flowering plants of all types.
 
 ## Traits
 

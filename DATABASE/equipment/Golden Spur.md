@@ -33,6 +33,7 @@ requirement: You're a master in [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/sk
   , [[DATABASE/skill/Occultism|Occultism]] , or [[DATABASE/skill/Religion|Religion]]
   .
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 size: null
@@ -60,10 +61,10 @@ weapon_type: null
 # Golden Spur<span class="item-type">Item 11</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Conjuration</span><span class="item-trait">Consumable</span><span class="item-trait">Magical</span><span class="item-trait">Talisman</span><span class="item-trait">Teleportation</span>
-**Source** [[Pathfinder 179. Cradle of Quartz]]
+**Source** [[DATABASE/source/Pathfinder 179. Cradle of Quartz|Pathfinder #179: Cradle of Quartz]]
 **Price** 300 gp
 **Usage** affixed to a firearm or crossbow; **Bulk** —
-**Activate** <span class="action-icon">1</span> command **Trigger** You hit a target within 120 feet with the affixed weapon; **Requirements** You're a master in [[Arcana]], [[Nature]], [[Occultism]], or [[Religion]].
+**Activate** <span class="action-icon">1</span> command **Trigger** You hit a target within 120 feet with the affixed weapon; **Requirements** You're a master in [[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]], [[DATABASE/skill/Occultism|Occultism]], or [[DATABASE/skill/Religion|Religion]].
 
 ---
 This _golden spur_ is affixed to a weapon by a braided leather cord. You teleport to a space you can see within 10 feet of the target. You must have line of effect to the space.

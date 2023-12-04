@@ -4,6 +4,7 @@ ability_boost: null
 id: '18'
 name: Agriculture
 rarity: Common
+rus_type_level: null
 skill:
 - Agriculture
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
@@ -13,10 +14,10 @@ type: Skill
 ---
 # Agriculture (Stability)
 
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 Agriculture measures the kingdom's ability to cultivate the land, bringing forth crops, flocks, and livestock.
 
-* **[[Focused Attention]]**
+* **[[DATABASE/generalskillaction/Focused Attention|Focused Attention]]**
 
 ### Related Feats
 
@@ -24,10 +25,10 @@ To see a list of Feats related to Agriculture, click here.
 
 # Agriculture Untrained Actions
 
-## [[Establish Farmland]]
+## [[DATABASE/action/Establish Farmland|Establish Farmland]]
 
 <span class="item-trait">Downtime</span><span class="item-trait">Region</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 **Requirements** Plains or hills are the predominant terrain feature in the hex; the hex is in the influence of one of your settlements.
 
 ---
@@ -37,10 +38,10 @@ You plant crops and establish livestock in permanent farms, ranches, and other g
 **Failure** You fail to establish a Farmland hex.
 **Critical Failure** You fail to establish a Farmland hex, and your attempt potentially causes the spread of a blight. At the start of each of the next two Event phases, attempt a DC 6 flat check; on a failure, your kingdom experiences a Crop Failure event in this and all adjacent hexes.
 
-## [[Harvest Crops]]
+## [[DATABASE/action/Harvest Crops|Harvest Crops]]
 
 <span class="item-trait">Downtime</span><span class="item-trait">Region</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 
 ---
 Attempt a basic check to forage for wild edibles or gather excess crops from farms.

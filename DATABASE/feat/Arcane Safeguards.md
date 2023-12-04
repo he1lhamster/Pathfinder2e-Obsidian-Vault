@@ -11,6 +11,7 @@ name: Arcane Safeguards
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -23,14 +24,14 @@ type: Feat
 # Arcane Safeguards <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Automaton</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 
 ---
 The magic powering you makes it difficult for outside magic to affect you. You gain the Resist Magic reaction.
 
-### [[Resist Magic]] <span class="action-icon">5</span>
+### [[DATABASE/action/Resist Magic|Resist Magic]] <span class="action-icon">5</span>
 
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Trigger** You attempt a saving throw against a harmful magical effect but haven't rolled yet.
 
 ---

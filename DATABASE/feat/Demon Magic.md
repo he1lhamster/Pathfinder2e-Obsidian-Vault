@@ -11,6 +11,7 @@ name: Demon Magic
 prerequisite: '[[DATABASE/feat/Pitborn|Pitborn]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,14 +24,14 @@ type: Feat
 # Demon Magic <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Tiefling</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** [[Pitborn]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** [[DATABASE/feat/Pitborn|Pitborn]]
 
 ---
-You can channel the power of the Abyss through your heritage, producing terrible tangible effects. You can cast [[Paranoia]] and [[Shatter]] each once per day as 2nd-level divine innate spells.
+You can channel the power of the Abyss through your heritage, producing terrible tangible effects. You can cast [[DATABASE/spell/Paranoia|paranoia]] and [[DATABASE/spell/Shatter|shatter]] each once per day as 2nd-level divine innate spells.
 
 ## Traits
 
 **Tiefling:**
 
-A creature with this trait has the tiefling versatile heritage. Tieflings are [[Planar Scion]] descended from fiends. An ability with this trait can be used or selected only by tieflings.
+A creature with this trait has the tiefling versatile heritage. Tieflings are [[DATABASE/monsterfamily/Planar Scion|planar scions]] descended from fiends. An ability with this trait can be used or selected only by tieflings.

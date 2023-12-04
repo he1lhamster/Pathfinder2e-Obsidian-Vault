@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -53,7 +54,7 @@ weapon_type: null
 # Slick<span class="item-type">Item 5+</span>
 
 <span class="item-trait">Magical</span><span class="item-trait">Transmutation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** etched onto armor; **Bulk** —
 
 ---
@@ -61,17 +62,17 @@ This property makes armor slippery, as though it were coated with a thin film of
 
 ## Slick<span class="item-type">Item 5</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 45 gp
 
 ## Slick (Greater)<span class="item-type">Item 8</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 450 gp
 The item bonus is +2.
 
 ## Slick (Major)<span class="item-type">Item 16</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 9,000 gp
 The item bonus is +3.

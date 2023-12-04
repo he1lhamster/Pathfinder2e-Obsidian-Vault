@@ -11,6 +11,7 @@ name: Expert Psychic Spellcasting
 prerequisite: '[[DATABASE/feat/Basic Psychic Spellcasting|Basic Psychic Spellcasting]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -23,16 +24,16 @@ type: Feat
 # Expert Psychic Spellcasting <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Dark Archive]]
-**Archetype** [[Psychic]]
-**Prerequisites** [[Basic Psychic Spellcasting]]; master in [[Occultism]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Archetype** [[DATABASE/archetype/Psychic|Psychic]]
+**Prerequisites** [[DATABASE/feat/Basic Psychic Spellcasting|Basic Psychic Spellcasting]]; master in [[DATABASE/skill/Occultism|Occultism]]
 
 ---
 You gain the expert spellcasting benefits.
 
 ## Expert Psychic Spellcasting Leads To...
 
-[[Master Psychic Spellcasting]]
+[[DATABASE/feat/Master Psychic Spellcasting|Master Psychic Spellcasting]]
 
 ## Traits
 

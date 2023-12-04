@@ -16,6 +16,7 @@ price: 6,000 gp
 rarity: Rare
 reflex: null
 resistance: null
+rus_type_level: null
 school: null
 size: Gargantuan
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
@@ -28,13 +29,13 @@ type: Vehicle
 # Airship<span class="item-type">Vehicle 12</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-size item-trait">Gargantuan</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Price** 6,000 gp
 
 ---
 **Space** 90 feet long, 30 feet wide, 60 feet high
 **Crew** 1 pilot, 5 other crew; **Passengers** 15
-**Piloting Check** [[Arcana]] (DC 32), [[Crafting]] (DC 32), [[Nature]] (DC 32), or [[Lore]] (DC 30)
+**Piloting Check** [[DATABASE/skill/Arcana|Arcana]] (DC 32), [[DATABASE/skill/Crafting|Crafting]] (DC 32), [[DATABASE/skill/Nature|Nature]] (DC 32), or [[DATABASE/skill/Lore|Piloting Lore]] (DC 30)
 
 ---
 **AC** 28; **Fort** +22

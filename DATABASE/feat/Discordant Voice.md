@@ -11,6 +11,7 @@ name: Discordant Voice
 prerequisite: '[[DATABASE/spell/Inspire Courage|inspire courage]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,11 +26,11 @@ type: Feat
 # Discordant Voice <span class="item-type">Feat 18</span>
 
 <span class="item-trait">Bard</span><span class="item-trait">Evocation</span><span class="item-trait">Sonic</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** [[Inspire Courage]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** [[DATABASE/spell/Inspire Courage|inspire courage]]
 
 ---
-Your [[Inspire Courage]] lets loose a discordant shriek that imbues your allies' attacks with powerful sonic reverberations. While your allies are affected by your inspire courage, their weapon Strikes and unarmed attacks deal an additional 1d6 sonic damage.
+Your [[DATABASE/spell/Inspire Courage|inspire courage]] lets loose a discordant shriek that imbues your allies' attacks with powerful sonic reverberations. While your allies are affected by your inspire courage, their weapon Strikes and unarmed attacks deal an additional 1d6 sonic damage.
 
 ## Traits
 

@@ -12,6 +12,7 @@ prerequisite: null
 rarity: Common
 requirement: You're wielding two weapons, each of which can be either a loaded one-handed
   firearm or loadedone-handed crossbow.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Paired Shots <span class="action-icon">2</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Gunslinger</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Requirements** You're wielding two weapons, each of which can be either a loaded one-handed firearm or loaded one-handed crossbow.
 
 ---

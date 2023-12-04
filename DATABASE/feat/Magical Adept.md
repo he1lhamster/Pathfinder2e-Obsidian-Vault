@@ -11,6 +11,7 @@ name: Magical Adept
 prerequisite: '[[DATABASE/feat/Magical Understudy|Magical Understudy]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -24,15 +25,15 @@ type: Feat
 # Magical Adept <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Evolution</span><span class="item-trait">Summoner</span>
-**Source** [[Secrets of Magic]] 
-**Prerequisites** [[Magical Understudy]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
+**Prerequisites** [[DATABASE/feat/Magical Understudy|Magical Understudy]]
 
 ---
 Your eidolon gains more magic. Choose one 2nd-level spell and one 1st-level spell of your eidolon's tradition. Your eidolon can cast them each once per day as innate spells. At every even level after you take this feat, your eidolon can swap one of these innate spells for a new innate spell that's 2 or more levels lower than your highest-level spell slot.
 
 ## Magical Adept Leads To...
 
-[[Magical Master]]
+[[DATABASE/feat/Magical Master|Magical Master]]
 
 ## Traits
 

@@ -10,6 +10,7 @@ id: '254'
 name: Driver
 prerequisite: null
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]]'
 - Piloting [[DATABASE/skill/Lore|Lore]]
@@ -21,7 +22,7 @@ type: Background
 ---
 # Driver<span class="item-type">Background</span>
 
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 You practically live behind the controls of a vehicle, and can handle just about anything the road, waves, and sky can throw at you. You likely adventure to test your skills in unusual environments and new and interesting vehicles.
 Choose two ability boosts. One must be to **Strength** or **Dexterity**, and one is a free ability boost.
-You're trained in the [[Acrobatics]] skill, and the [[Lore]] skill. You gain the [[Assurance]] skill feat with Piloting Lore.
+You're trained in the [[DATABASE/skill/Acrobatics|Acrobatics]] skill, and the [[DATABASE/skill/Lore|Piloting Lore]] skill. You gain the [[DATABASE/feat/Assurance|Assurance]] skill feat with Piloting Lore.

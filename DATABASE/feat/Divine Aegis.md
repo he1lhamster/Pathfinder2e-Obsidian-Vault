@@ -11,6 +11,7 @@ name: Divine Aegis
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -26,7 +27,7 @@ type: Feat
 # Divine Aegis <span class="action-icon">5</span> <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Divine</span><span class="item-trait">Oracle</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Trigger** You attempt a saving throw against a magical effect, but you haven't rolled yet.
 
 ---

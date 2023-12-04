@@ -11,6 +11,7 @@ name: Shake it Off
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -25,7 +26,7 @@ type: Feat
 # Shake it Off <span class="action-icon">1</span> <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Barbarian</span><span class="item-trait">Concentrate</span><span class="item-trait">Rage</span>
-**Source** [[Core Rulebook]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
 You concentrate on your rage, overcoming fear and fighting back sickness. Reduce your frightened condition value by 1, and attempt a Fortitude save to recover from the sickened condition as if you had spent an action retching; you reduce your sickened condition value by 1 on a failure (but not on a critical failure), by 2 on a success, or by 3 on a critical success.

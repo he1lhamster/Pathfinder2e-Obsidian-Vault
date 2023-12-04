@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Swarmeater's Clasp<span class="item-type">Item 8</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span>
-**Source** [[Treasure Vault]] , [[Pathfinder 158. Sixty Feet Under]]
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] , [[DATABASE/source/Pathfinder 158. Sixty Feet Under|Pathfinder #158: Sixty Feet Under]]
 **Price** 460 gp
 **Usage** worn; **Bulk** —
 

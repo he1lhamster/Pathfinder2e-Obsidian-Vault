@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -59,7 +60,7 @@ weapon_type: null
 # Vexing Vapor<span class="item-type">Item 1+</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Alchemical</span><span class="item-trait">Bomb</span><span class="item-trait">Consumable</span><span class="item-trait">Inhaled</span><span class="item-trait">Mental</span><span class="item-trait">Poison</span><span class="item-trait">Splash</span>
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Strike
 
@@ -68,28 +69,28 @@ This flask contains a fine red powder made from toxic berries. A vexing vapor bo
 
 ## Vexing Vapor (Lesser)<span class="item-type">Item 1</span>
 
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 4 gp
 **Bulk** L
 The bomb deals 1d6 mental damage and 1 mental splash damage.
 
 ## Vexing Vapor (Moderate)<span class="item-type">Item 3</span>
 
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 12 gp
 **Bulk** L
 You gain a +1 item bonus to attack rolls. The bomb deals 2d6 mental damage and 2 mental splash damage.
 
 ## Vexing Vapor (Greater)<span class="item-type">Item 11</span>
 
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 300 gp
 **Bulk** L
 You gain a +2 item bonus to attack rolls. The bomb deals 3d6 mental damage and 3 mental splash damage.
 
 ## Vexing Vapor (Major)<span class="item-type">Item 17</span>
 
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 3,000 gp
 **Bulk** L
 You gain a +3 item bonus to attack rolls. The bomb deals 4d6 mental damage and 4 mental splash damage.

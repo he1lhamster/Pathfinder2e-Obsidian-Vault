@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Illusion
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Dancing Scarf<span class="item-type">Item 3+</span>
 
 <span class="item-trait">Illusion</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span><span class="item-trait">Visual</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** worn belt; **Bulk** —
 
 ---
@@ -64,11 +65,11 @@ This long and billowing scarf is typically woven of silk or sheer fabric and ado
 
 ## Dancing Scarf<span class="item-type">Item 3</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 60 gp
 
 ## Dancing Scarf (Greater)<span class="item-type">Item 9</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 650 gp
 The scarf grants a +2 bonus. When you activate the scarf, you can also Stride up to half your Speed or Step.

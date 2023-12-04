@@ -11,6 +11,7 @@ name: Witch's Charge
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Divination
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,7 +26,7 @@ type: Feat
 # Witch's Charge <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Detection</span><span class="item-trait">Divination</span><span class="item-trait">Witch</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
 You forge a magical link with another creature, granting you awareness of that creature's condition and creating a conduit for spellcasting. During your daily preparations, you can designate one willing creature as your charge. You are always aware of your charge's direction from you, its distance from you, and any conditions affecting it. In addition, you can cast spells with a range of touch on your charge from a range of 30 feet. These effects persist until your next daily preparations.
@@ -33,7 +34,7 @@ You forge a magical link with another creature, granting you awareness of that c
 
 ## Witch's Charge Leads To...
 
-[[Witch's Communion]]
+[[DATABASE/feat/Witch's Communion|Witch's Communion]]
 
 ## Traits
 

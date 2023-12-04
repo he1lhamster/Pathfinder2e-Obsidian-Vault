@@ -18,6 +18,7 @@ language:
 max_speed: '25'
 name: Ratfolk
 rarity: Uncommon
+rus_type_level: null
 size: Small
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 speed:
@@ -33,7 +34,7 @@ vision: Low-Light Vision
 # Ratfolk
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Humanoid</span><span class="item-trait">Ratfolk</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 _Ysoki—as ratfolk call themselves—are a clever, adaptable, and fastidious ancestry who happily crowd their large families into the smallest of living spaces_
 Most surface-dwelling humanoids call ysoki “ratfolk” and know them as a communal people who prefer cramped conditions, with up to 100 individuals living in a given house. If they can’t find homes in town, ysoki may instead live in caves and cavern complexes, as these provide great storage for the many and varied goods they bring back from trading expeditions.
  Ratfolk love to travel, and they can often be found on the road in merchant caravans. They’re good with their hands and have a keen eye for spotting anything out of the ordinary, from threats to treasures. They’re also inveterate hoarders; ysoki warrens are crammed full of unusual odds and ends gathered by previous generations and stowed away in preparation for some future emergency.
@@ -65,13 +66,13 @@ Ysoki culture values cooperation and community. Every ysoki learns—through com
 ## Alignment and Religion
 
 Ysoki care more about their family than abstract concepts of good and evil. Their warrens might be chaotic dens filled with hoarded knickknacks, but they also obey strict social codes. Most ysoki are neutral.
- Though ysoki revere their ancestors and tend to acknowledge whatever deity is prevalent in their local area, [[Lao Shu Po]] has a special role in ysoki culture. Grandmother Rat, as she is sometimes known, embodies many things that are otherwise antithetical to ratfolk—she urges followers to put their own interests above others, and she encourages deceit and trickery. To most ysoki, Grandmother Rat accomplishes all those things ratfolk need done, but which no reasonable ratfolk would wish to do.
+ Though ysoki revere their ancestors and tend to acknowledge whatever deity is prevalent in their local area, [[DATABASE/deity/Lao Shu Po|Lao Shu Po]] has a special role in ysoki culture. Grandmother Rat, as she is sometimes known, embodies many things that are otherwise antithetical to ratfolk—she urges followers to put their own interests above others, and she encourages deceit and trickery. To most ysoki, Grandmother Rat accomplishes all those things ratfolk need done, but which no reasonable ratfolk would wish to do.
 
 ## Adventurers
 
 Ratfolk might take up the adventuring life to explore and travel, to defend their family or community, or for any number of other reasons.
- Their natural wit and nimble fingers make ratfolk excellent [[Alchemist]] and [[Rogue]], while some specialize in ranged weapons as [[Fighter]] or [[Ranger]].
- Typical ratfolk backgrounds include [[Animal Whisperer]], [[Artisan]], [[Merchant]], [[Field Medic]], [[Nomad]], [[Scout]], and [[Tinker]] from the _Core Rulebook_, plus [[Bandit]], [[Barber]], [[Scavenger]], and [[Teacher]] from this book.
+ Their natural wit and nimble fingers make ratfolk excellent [[DATABASE/class_/Alchemist|alchemists]] and [[DATABASE/class_/Rogue|rogues]], while some specialize in ranged weapons as [[DATABASE/class_/Fighter|fighters]] or [[DATABASE/class_/Ranger|rangers]].
+ Typical ratfolk backgrounds include [[DATABASE/background/Animal Whisperer|animal whisperer]], [[DATABASE/background/Artisan|artisan]], [[DATABASE/background/Merchant|merchant]], [[DATABASE/background/Field Medic|medic]], [[DATABASE/background/Nomad|nomad]], [[DATABASE/background/Scout|scout]], and [[DATABASE/background/Tinker|tinker]] from the _Core Rulebook_, plus [[DATABASE/background/Bandit|bandit]], [[DATABASE/background/Barber|barber]], [[DATABASE/background/Scavenger|scavenger]], and [[DATABASE/background/Teacher|teacher]] from this book.
 
 ## Names
 
@@ -121,10 +122,10 @@ Strength
 
 ## Languages
 
-[[Common]]
-[[Ysoki]]
-Additional languages equal to your Intelligence modifier (if it’s positive). Choose from [[Aklo]], [[Draconic]], [[Dwarven]], [[Goblin]], [[Gnomish]], [[Goblin]], [[Halfling]], [[Orcish]], [[Undercommon]], or any other languages to which you have access (such as the languages prevalent in your region).
+[[DATABASE/language/Common|Common]]
+[[DATABASE/language/Ysoki|Ysoki]]
+Additional languages equal to your Intelligence modifier (if it’s positive). Choose from [[DATABASE/language/Aklo|Aklo]], [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Dwarven|Dwarven]], [[DATABASE/language/Goblin|Gnoll]], [[DATABASE/language/Gnomish|Gnomish]], [[DATABASE/language/Goblin|Goblin]], [[DATABASE/language/Halfling|Halfling]], [[DATABASE/language/Orcish|Orcish]], [[DATABASE/language/Undercommon|Undercommon]], or any other languages to which you have access (such as the languages prevalent in your region).
 
 ## Low-Light Vision
 
-You can see in dim light as though it were bright light, so you ignore the [[Concealed]] condition due to dim light.
+You can see in dim light as though it were bright light, so you ignore the [[DATABASE/condition/Concealed|concealed]] condition due to dim light.

@@ -31,6 +31,7 @@ rarity: Unique
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -57,7 +58,7 @@ weapon_type: null
 # The Juggler<span class="item-type">Item 20</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="item-trait">Artifact</span><span class="item-trait">Evocation</span><span class="item-trait">Harrow Court</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span>
-**Source** [[Pathfinder 190. The Choosing]]
+**Source** [[DATABASE/source/Pathfinder 190. The Choosing|Pathfinder #190: The Choosing]]
 **Usage** carried; **Bulk** —
 **Suit** Keys (Dex); **Alignment** chaotic good
 

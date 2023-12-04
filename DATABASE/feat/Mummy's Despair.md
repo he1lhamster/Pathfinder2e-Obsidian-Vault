@@ -11,6 +11,7 @@ name: Mummy's Despair
 prerequisite: '[[DATABASE/feat/Mummy Dedication|Mummy Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Enchantment
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 subcategory: null
@@ -29,17 +30,17 @@ type: Feat
 # Mummy's Despair <span class="action-icon">2</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Aura</span><span class="item-trait">Divine</span><span class="item-trait">Emotion</span><span class="item-trait">Enchantment</span><span class="item-trait">Fear</span><span class="item-trait">Mental</span>
-**Source** [[Book of the Dead]]
-**Archetype** [[Mummy]]
+**Source** [[DATABASE/source/Book of the Dead|Book of the Dead]]
+**Archetype** [[DATABASE/archetype/Mummy|Mummy]]
 **Frequency** once per hour
-**Prerequisites** [[Mummy Dedication]]
+**Prerequisites** [[DATABASE/feat/Mummy Dedication|Mummy Dedication]]
 
 ---
-You force your mental anguish outward, projecting it upon those around you. You gain an aura of despair in a 30-foot emanation lasting 5 rounds. A creature that enters or begins its turn in the aura must succeed at a Will save against the higher of your class DC or spell DC or be [[Frightened]] (frightened 2 on a critical failure). A creature that succeeds at the save is temporarily immune to Mummy's Despair for 10 minutes.
+You force your mental anguish outward, projecting it upon those around you. You gain an aura of despair in a 30-foot emanation lasting 5 rounds. A creature that enters or begins its turn in the aura must succeed at a Will save against the higher of your class DC or spell DC or be [[DATABASE/condition/Frightened|frightened 1]] (frightened 2 on a critical failure). A creature that succeeds at the save is temporarily immune to Mummy's Despair for 10 minutes.
 
 ## Mummy's Despair Leads To...
 
-[[Greater Despair]]
+[[DATABASE/feat/Greater Despair|Greater Despair]]
 
 ## Traits
 

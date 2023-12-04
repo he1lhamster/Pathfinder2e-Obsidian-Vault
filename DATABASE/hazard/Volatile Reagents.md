@@ -17,6 +17,7 @@ name: Volatile Reagents
 rarity: Common
 reflex: '+8'
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 178. Punks in a Powderkeg|Pathfinder #178: Punks
   in a Powderkeg]]'
@@ -32,13 +33,13 @@ will: null
 # Volatile Reagents<span class="item-type">Hazard 2</span>
 
 <span class="item-trait">Alchemical</span><span class="item-trait">Complex</span><span class="item-trait">Environmental</span>
-**Source** [[Pathfinder 178. Punks in a Powderkeg]]
+**Source** [[DATABASE/source/Pathfinder 178. Punks in a Powderkeg|Pathfinder #178: Punks in a Powderkeg]]
 **Complexity** Complex
 **Stealth** +5 (trained)
 **Description** Potion bottles, alembics, and potent ingredients violently explode when jostled and accidentally combined.
 
 ---
-**Disable** three DC 20 [[Acrobatics]] or [[Crafting]] checks to sort and separate the bottles of volatile ingredients into groups
+**Disable** three DC 20 [[DATABASE/skill/Acrobatics|Acrobatics]] or [[DATABASE/skill/Crafting|Crafting]] checks to sort and separate the bottles of volatile ingredients into groups
 **AC** 18, **Fort** +10, **Ref** +8
 **HP** 10 (BT 5); **Immunities** critical hits, object immunities, precision damage
 **Explosive Catalyst** <span class="action-icon">5</span> **Trigger** Slick drinks Gattlebee's growth serum (page 36); **Effect** The giant lizard bumps into lab tables and workbenches, causing dangerous ingredients to intermix and detonate. The hazard rolls initiative.

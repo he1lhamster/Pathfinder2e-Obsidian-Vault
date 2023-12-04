@@ -3,6 +3,7 @@ creature_family: Bloodseeker
 id: '347'
 name: Bloodseeker
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 194. Cult of the Cave Worm|Pathfinder #194:
   Cult of the Cave Worm]]'
 trait: null
@@ -11,12 +12,12 @@ type: Creature Family
 ---
 # Bloodseeker
 
-**Source** [[Pathfinder 194. Cult of the Cave Worm]]
+**Source** [[DATABASE/source/Pathfinder 194. Cult of the Cave Worm|Pathfinder #194: Cult of the Cave Worm]]
 Decades ago, the Court of Ether bred bloodseekers as show animals, thinking them adorably ugly. Generations later, the insects have become giantic. Visitors to the Court are impressed by how the bloodseekers to hover in place, fly through hoops, and only drink the blood of specific creatures.
 
 ### Members
 
-[[Bloodseeker Swarm]] (Creature 3), [[Giant Bloodseeker]] (Creature 2)
+[[DATABASE/monster/Bloodseeker Swarm|Bloodseeker Swarm]] (Creature 3), [[DATABASE/monster/Giant Bloodseeker|Giant Bloodseeker]] (Creature 2)
 
 ###  Bloodseeker Breeds
 

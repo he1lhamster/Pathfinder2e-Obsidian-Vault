@@ -11,6 +11,7 @@ name: Water Strider
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -26,14 +27,14 @@ type: Feat
 # Water Strider <span class="action-icon">2</span> <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Azarketi</span><span class="item-trait">Primal</span><span class="item-trait">Transmutation</span><span class="item-trait">Water</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
 Water cradles your every step, allowing you to walk on its surface. Stride up to your Speed. During your movement, you can move across liquids that don't support your weight. If you end your movement on a surface that can't support you, you fall into the liquid at the end of your movement. You can increase the number of actions to 3 to Stride up to three times your Speed.
 
 ## Water Strider Leads To...
 
-[[Mist Strider]]
+[[DATABASE/feat/Mist Strider|Mist Strider]]
 
 ## Traits
 

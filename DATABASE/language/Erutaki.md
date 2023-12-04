@@ -2,6 +2,7 @@
 id: '54'
 name: Erutaki
 rarity: Uncommon
+rus_type_level: null
 source: '[[DATABASE/source/PFS Character Options|PFS Character Options]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -10,17 +11,17 @@ type: Language
 ---
 # Erutaki
 
-**Source** [[PFS Character Options]]
+**Source** [[DATABASE/source/PFS Character Options|PFS Character Options]]
 _ Characters from Absalom have access to this language. This is a Regional Language for the Saga Lands._
 The below entries contain speakers of Erutaki.
 
 ## Monsters (4)
 
-[[Ainamuuren]], [[Ainamuuren, Corrupted Victim Of Osoyo]], [[Blackfrost Prophet]], [[Ilakni]]
+[[DATABASE/monster/Ainamuuren|Ainamuuren]], [[DATABASE/monster/Ainamuuren, Corrupted Victim Of Osoyo|Ainamuuren (Corrupted)]], [[DATABASE/monster/Blackfrost Prophet|Blackfrost Prophet]], [[DATABASE/monster/Ilakni|Ilakni]]
 
 ## NPCs (4)
 
-[[Etward Ritalson, Sinister Paranormalist]], [[Ilverani Sentry]], [[Sakuachi, Destined Dream Seer]], [[Snowy Owl]]
+[[DATABASE/npc/Etward Ritalson, Sinister Paranormalist|Etward Ritalson]], [[DATABASE/npc/Ilverani Sentry|Ilverani Sentry]], [[DATABASE/npc/Sakuachi, Destined Dream Seer|Sakuachi]], [[DATABASE/npc/Snowy Owl|Snowy Owl]]
 
 ## Regions (1)
 

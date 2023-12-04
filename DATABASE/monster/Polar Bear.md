@@ -70,16 +70,16 @@ wisdom: '+1'
 # Polar Bear
 
 Polar bears are known for their pale fur, with black eyes, lips, and toe pads. They are aggressively predatory creatures, stalking prey for miles on land or across the icy waters of frozen oceans. They are also amazing ambush predators, leaping from the water to ambush seals resting on ice floes. If they are desperate, polar bears hunt not only other animals but also humanoids.
-**Recall Knowledge - Animal ([[Nature]])**: DC 20
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 20
 **Unspecific Lore**: DC 18
 **Specific Lore**: DC 15
 
 # Polar Bear<span class="item-type">Creature 5</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary 2]] 
-**Perception** +12; [[Low-Light Vision]], [[Scent]]
-**Skills** [[Athletics]] +14, [[Stealth]] +10 (+14 in icy or snowy areas), [[Survival]] +10
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +12; [[DATABASE/monsterability/Low-Light Vision|low-light vision]], [[DATABASE/monsterability/Scent|scent (imprecise) 60 feet]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +14, [[DATABASE/skill/Stealth|Stealth]] +10 (+14 in icy or snowy areas), [[DATABASE/skill/Survival|Survival]] +10
 **Str** +5, **Dex** +1, **Con** +5, **Int** -4, **Wis** +1, **Cha** -1
 
 ---
@@ -88,7 +88,7 @@ Polar bears are known for their pale fur, with black eyes, lips, and toe pads. T
 
 ---
 **Speed** 35 feet, swim 15 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +15 [+10/+5], **Damage** 2d8+7 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +15 [+11/+7] (agile), **Damage** 2d6+7 slashing plus [[Grab]]</span><span class="in-box-ability">**Mauler** The polar bear gains a +3 circumstance bonus to damage rolls against creatures it has [[Grabbed]].</span><span class="in-box-ability">**[[Sneak Attack]]** The polar bear's Strikes deal an additional 1d6 precision damage to [[Flat-Footed]] creatures.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +15 [+10/+5], **Damage** 2d8+7 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +15 [+11/+7] (agile), **Damage** 2d6+7 slashing plus [[DATABASE/monsterability/Grab|Grab]]</span><span class="in-box-ability">**Mauler** The polar bear gains a +3 circumstance bonus to damage rolls against creatures it has [[DATABASE/condition/Grabbed|grabbed]].</span><span class="in-box-ability">**[[DATABASE/monsterability/Sneak Attack|Sneak Attack]]** The polar bear's Strikes deal an additional 1d6 precision damage to [[DATABASE/condition/Flat-Footed|flat-footed]] creatures.</span>
 
 ###  Vengeful Beasts
 

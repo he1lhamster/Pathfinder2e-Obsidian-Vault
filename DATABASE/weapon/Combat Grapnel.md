@@ -12,6 +12,7 @@ name: Combat Grapnel
 price: 9 sp
 range: null
 rarity: Uncommon
+rus_type_level: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
 trait:
 - '[[DATABASE/trait/Finesse|Finesse]]'
@@ -28,14 +29,14 @@ weapon_type: Melee
 # Combat Grapnel<span class="item-type">Item 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Finesse</span><span class="item-trait">Grapple</span><span class="item-trait">Tethered</span><span class="item-trait">Thrown 20 ft.</span>
-**Source** [[PFS Guide]]
+**Source** [[DATABASE/source/PFS Guide|PFS Guide]]
 **Access** Member of the Pathfinder Society on a mission for the Arcadian Mariner’s Lodge.
 **Price** 9 sp; **Damage** 1d6 P; **Bulk** 1
 **Hands** 2
-**Type** Melee; **Category** Martial; **Group** [[Flail]]
+**Type** Melee; **Category** Martial; **Group** [[DATABASE/weapongroup/Flail|Flail]]
 
 ---
-Although [[Grappling Hook]] typically serve as a climbing tool, this specially reinforced grapnel attached to a rope up to 10 feet long can be swung as a weapon. This is a martial melee weapon.
+Although [[DATABASE/equipment/Grappling Hook|grappling hooks]] typically serve as a climbing tool, this specially reinforced grapnel attached to a rope up to 10 feet long can be swung as a weapon. This is a martial melee weapon.
 
 ## Traits
 
@@ -45,7 +46,7 @@ You can use your Dexterity modifier instead of your Strength modifier on attack 
 
 **Grapple:**
 
-You can use this weapon to [[Grapple]] with the [[Athletics]] skill even if you don't have a free hand. This uses the weapon's reach (if different from your own) and adds the weapon's item bonus to attack rolls as an item bonus to the Athletics check. If you critically fail a check to Grapple using the weapon, you can drop the weapon to take the effects of a failure instead of a critical failure.
+You can use this weapon to [[DATABASE/action/Grapple|Grapple]] with the [[DATABASE/skill/Athletics|Athletics]] skill even if you don't have a free hand. This uses the weapon's reach (if different from your own) and adds the weapon's item bonus to attack rolls as an item bonus to the Athletics check. If you critically fail a check to Grapple using the weapon, you can drop the weapon to take the effects of a failure instead of a critical failure.
 
 **Tethered:**
 
@@ -57,14 +58,14 @@ You can throw this weapon as a ranged attack, and it is a ranged weapon when thr
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.
 
 ## Critical Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
-**Flail**: The target is knocked [[Prone]].
+**Flail**: The target is knocked [[DATABASE/condition/Prone|prone]].
 
 ## Specific Magic Weapons
 
-[[Tidal Fishhook]]
+[[DATABASE/equipment/Tidal Fishhook|Tidal Fishhook]]

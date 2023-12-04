@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Unexpected Sharpshooter Dedication|Unexpected Sha
   Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -24,12 +25,12 @@ type: Feat
 # Unbelievable Escape <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Guns & Gears]]
-**Archetype** [[Unexpected Sharpshooter]]
-**Prerequisites** [[Unexpected Sharpshooter Dedication]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Archetype** [[DATABASE/archetype/Unexpected Sharpshooter|Unexpected Sharpshooter]]
+**Prerequisites** [[DATABASE/feat/Unexpected Sharpshooter Dedication|Unexpected Sharpshooter Dedication]]
 
 ---
-Your ability to narrowly evade danger defies all logic. You can use [[Lucky Escape]] once per hour instead of once per day.
+Your ability to narrowly evade danger defies all logic. You can use [[DATABASE/feat/Lucky Escape|Lucky Escape]] once per hour instead of once per day.
 
 ## Traits
 

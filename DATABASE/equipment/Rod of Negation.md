@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 size: null
@@ -53,10 +54,10 @@ weapon_type: null
 # Rod of Negation<span class="item-type">Item 14</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Magical</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 4,300 gp
 **Usage** held in 1 hand; **Bulk** 1
 
 ---
 This long, plain, leaden rod can disrupt magic.
-**Activate** <span class="action-icon">2</span> Interact ; **Effect** This rod emits a thin, gray beam that negates a spell or magic item, casting a 6th-level [[Dispel Magic]] spell with a counteract modifier of +23. Once activated, the rod can’t be activated again for 2d6 hours.
+**Activate** <span class="action-icon">2</span> Interact ; **Effect** This rod emits a thin, gray beam that negates a spell or magic item, casting a 6th-level [[DATABASE/spell/Dispel Magic|dispel magic]] spell with a counteract modifier of +23. Once activated, the rod can’t be activated again for 2d6 hours.

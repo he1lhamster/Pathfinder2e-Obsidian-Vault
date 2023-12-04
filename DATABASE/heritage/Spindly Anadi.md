@@ -2,6 +2,7 @@
 id: '159'
 name: Spindly Anadi
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 trait: null
 type: Heritage
@@ -9,5 +10,5 @@ type: Heritage
 ---
 # Spindly Anadi
 
-**Source** [[The Mwangi Expanse]] 
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]] 
 Your limbs are exceptionally long in both forms, allowing you to skitter about with surprising agility. Your Speed increases from 25 to 30 feet.

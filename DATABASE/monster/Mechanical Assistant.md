@@ -79,22 +79,22 @@ wisdom: '+3'
 # Mechanical Assistant
 
 This creature did not include a description.
-**Recall Knowledge - Construct ([[Arcana]], [[Crafting]])**: DC 30
+**Recall Knowledge - Construct ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Crafting|Crafting]])**: DC 30
 **Unspecific Lore**: DC 28
 **Specific Lore**: DC 25
 
 # Mechanical Assistant<span class="item-type">Creature 5</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Construct</span><span class="item-trait">Minion</span>
-**Source** [[The Enmity Cycle]]
+**Source** [[DATABASE/source/The Enmity Cycle|The Enmity Cycle]]
 **Perception** +12
-**Languages** [[Osiriani]], [[Taldane]]
-**Skills** [[Acrobatics]] +12, [[Athletics]] +12, [[Lore]] +3
+**Languages** [[DATABASE/language/Osiriani|Osiriani]], [[DATABASE/language/Taldane|Taldane]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +12, [[DATABASE/skill/Athletics|Athletics]] +12, [[DATABASE/skill/Lore|Poetry Lore]] +3
 **Str** +5, **Dex** +5, **Con** +4, **Int** -4, **Wis** +3, **Cha** +0
 
 ---
 **AC** 22; **Fort** +13, **Ref** +14, **Will** +12
-**HP** 42; **Immunities** bleed, death effects, disease, [[Doomed]], [[Drained]], [[Fatigued]], healing, necromancy, nonlethal attacks, [[Paralyzed]], poison, [[Sickened]], [[Unconscious]]
+**HP** 42; **Immunities** bleed, death effects, disease, [[DATABASE/condition/Doomed|doomed]], [[DATABASE/condition/Drained|drained]], [[DATABASE/condition/Fatigued|fatigued]], healing, necromancy, nonlethal attacks, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Sickened|sickened]], [[DATABASE/condition/Unconscious|unconscious]]
 
 ---
 **Speed** 25

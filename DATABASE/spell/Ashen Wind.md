@@ -21,6 +21,7 @@ patron_theme: null
 range: 120 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: Fortitude
 school: Conjuration
 source: '[[DATABASE/source/Pathfinder 185. A Taste of Ashes|Pathfinder #185: A Taste
@@ -39,8 +40,8 @@ type: Focus
 # Ashen Wind<span class="item-type">Focus 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Conjuration</span><span class="item-trait">Cursebound</span><span class="item-trait">Oracle</span>
-**Source** [[Pathfinder 185. A Taste of Ashes]]
-**Mystery** [[Ash]]
+**Source** [[DATABASE/source/Pathfinder 185. A Taste of Ashes|Pathfinder #185: A Taste of Ashes]]
+**Mystery** [[DATABASE/oraclemystery/Ash|ash]]
 **Cast** <span class="action-icon">2</span> verbal, somatic
 **Range** 120 feet; **Area** 10-foot burst
 **Saving Throw** Fortitude
@@ -48,5 +49,5 @@ type: Focus
 ---
 You conjure a swirling wind of ashes that blows through the area. Each creature in the area must attempt a Fortitude save or get the cloying ash in its lungs.
 **Success** The creature is unaffected.
-**Failure** The creature is [[Sickened]].
+**Failure** The creature is [[DATABASE/condition/Sickened|sickened 1]].
 **Critical Failure** The creature is sickened 2.

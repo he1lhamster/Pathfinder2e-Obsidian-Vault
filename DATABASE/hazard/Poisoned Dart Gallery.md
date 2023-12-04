@@ -17,6 +17,7 @@ name: Poisoned Dart Gallery
 rarity: Common
 reflex: '+17'
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
@@ -31,13 +32,13 @@ will: null
 # Poisoned Dart Gallery<span class="item-type">Hazard 8</span>
 
 <span class="item-trait">Complex</span><span class="item-trait">Mechanical</span><span class="item-trait">Trap</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Complexity** Complex
 **Stealth** +16 (expert) or DC 31 (master) to notice the control panel
 **Description** Countless holes to launch poison darts from line a long hallway with a hidden control panel on the far end.
 
 ---
-**Disable** [[Thievery]] DC 21 (expert) on the control panel deactivates the trap
+**Disable** [[DATABASE/skill/Thievery|Thievery]] DC 21 (expert) on the control panel deactivates the trap
 **AC** 27, **Fort** +13, **Ref** +17
 **Hardness** 14, **HP** 56 (BT 28) to destroy the control panel and disable the trap; **Immunities** critical hits, object immunities, precision damage
 **Dart Volley** <span class="action-icon">5</span> (attack); **Trigger** A creature enters the hallway or ends its turn in the hallway. **Effect** The trap makes a poisoned dart Strike against the triggering creature, then rolls initiative.

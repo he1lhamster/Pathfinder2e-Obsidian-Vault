@@ -11,6 +11,7 @@ name: Dirge of Doom
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Dirge of Doom <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Bard</span>
-**Source** [[Core Rulebook]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
-You learn the [[Dirge of Doom]] composition cantrip, which frightens your enemies.
+You learn the [[DATABASE/spell/Dirge of Doom|dirge of doom]] composition cantrip, which frightens your enemies.

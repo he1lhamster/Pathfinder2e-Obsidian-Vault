@@ -11,6 +11,7 @@ name: Stunning Finisher
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,13 +25,13 @@ type: Feat
 # Stunning Finisher <span class="action-icon">1</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Finisher</span><span class="item-trait">Swashbuckler</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
 You attempt a dizzying blow. Make a melee Strike. If you hit, your foe must attempt a Fortitude save against your class DC with the following results; the save has the incapacitation trait.
 **Critical Success** The target is unaffected.
 **Success** The target can't use reactions until its next turn.
-**Failure** The target is [[Stunned]].
+**Failure** The target is [[DATABASE/condition/Stunned|stunned 1]].
 **Critical Failure** The target is stunned 3.
 
 ## Traits

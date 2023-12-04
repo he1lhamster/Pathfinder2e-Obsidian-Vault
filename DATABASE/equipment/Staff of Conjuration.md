@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Staff of Conjuration<span class="item-type">Item 6+</span>
 
 <span class="item-trait">Conjuration</span><span class="item-trait">Magical</span><span class="item-trait">Staff</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** held in 1 hand; **Bulk** —
 
 ---
@@ -64,28 +65,28 @@ This ash staff is decorated with animals; wielding it, you gain a +2 circumstanc
 
 ## Staff of Conjuration<span class="item-type">Item 6</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 230 gp
 **Bulk** 1
 
-* **Cantrip** [[Tanglefoot]] 
-* **1st** [[Summon Construct]], [[Unseen Servant]] 
-* **2nd** [[Obscuring Mist]], [[Phantom Steed]], _summon construct_, [[Summon Elemental]]
+* **Cantrip** [[DATABASE/spell/Tanglefoot|tanglefoot]] 
+* **1st** [[DATABASE/spell/Summon Construct|summon construct]], [[DATABASE/spell/Unseen Servant|unseen servant]] 
+* **2nd** [[DATABASE/spell/Obscuring Mist|obscuring mist]], [[DATABASE/spell/Phantom Steed|phantom steed]], _summon construct_, [[DATABASE/spell/Summon Elemental|summon elemental]]
 
 ## Staff of Conjuration (Greater)<span class="item-type">Item 10</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 900 gp
 **Bulk** 1
 
-* **3rd** [[Stinking Cloud]], _summon construct_, _summon elemental_ 
-* **4th** [[Creation]], _phantom steed_, _summon construct_, _summon elemental_
+* **3rd** [[DATABASE/spell/Stinking Cloud|stinking cloud]], _summon construct_, _summon elemental_ 
+* **4th** [[DATABASE/spell/Creation|creation]], _phantom steed_, _summon construct_, _summon elemental_
 
 ## Staff of Conjuration (Major)<span class="item-type">Item 14</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 4,000 gp
 **Bulk** 1
 
-* **5th** [[Black Tentacles]], _summon construct_, _summon elemental_ 
+* **5th** [[DATABASE/spell/Black Tentacles|black tentacles]], _summon construct_, _summon elemental_ 
 * **6th** _phantom steed_, _summon construct_, _summon elemental_

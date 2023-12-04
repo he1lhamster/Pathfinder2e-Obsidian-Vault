@@ -11,6 +11,7 @@ name: Spirits' Interference
 prerequisite: '[[DATABASE/barbarianinstinct/Spirit Instinct|spirit instinct]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -26,8 +27,8 @@ type: Feat
 # Spirits' Interference <span class="action-icon">1</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Barbarian</span><span class="item-trait">Divine</span><span class="item-trait">Necromancy</span><span class="item-trait">Rage</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Spirit Instinct]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/barbarianinstinct/Spirit Instinct|spirit instinct]]
 
 ---
 You call forth protective spirits to ward off ranged attacks. Until your rage ends, anyone making a ranged attack against you must succeed at a DC 5 flat check or the attack misses with no effect.

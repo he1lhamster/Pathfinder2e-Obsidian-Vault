@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Acrobat Dedication|Acrobat Dedication]] ; Master 
   [[DATABASE/skill/Acrobatics|Acrobatics]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,12 +26,12 @@ type: Feat
 # Graceful Leaper <span class="item-type">Feat 7</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Skill</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Acrobat]]
-**Prerequisites** [[Acrobat Dedication]]; master in [[Acrobatics]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Acrobat|Acrobat]]
+**Prerequisites** [[DATABASE/feat/Acrobat Dedication|Acrobat Dedication]]; master in [[DATABASE/skill/Acrobatics|Acrobatics]]
 
 ---
-Mass and muscle are meaningless when you leap; only grace and balance matter. You can roll an [[Acrobatics]] check instead of an [[Athletics]] check when making a [[High Jump]] or [[Long Jump]].
+Mass and muscle are meaningless when you leap; only grace and balance matter. You can roll an [[DATABASE/skill/Acrobatics|Acrobatics]] check instead of an [[DATABASE/skill/Athletics|Athletics]] check when making a [[DATABASE/action/High Jump|High Jump]] or [[DATABASE/action/Long Jump|Long Jump]].
 
 ## Traits
 

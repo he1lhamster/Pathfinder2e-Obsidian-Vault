@@ -11,6 +11,7 @@ name: Stasian Smash
 prerequisite: '[[DATABASE/feat/Sterling Dynamo Dedication|Sterling Dynamo Dedication]]'
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Stasian Smash <span class="action-icon">2</span> <span class="item-type">Feat 8</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Archetype</span>
-**Source** [[Guns & Gears]]
-**Archetype** [[Sterling Dynamo]]
-**Prerequisites** [[Sterling Dynamo Dedication]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Archetype** [[DATABASE/archetype/Sterling Dynamo|Sterling Dynamo]]
+**Prerequisites** [[DATABASE/feat/Sterling Dynamo Dedication|Sterling Dynamo Dedication]]
 **Access** You are from Ustalav.
 
 ---
@@ -40,4 +41,4 @@ This feat belongs to an archetype.
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.

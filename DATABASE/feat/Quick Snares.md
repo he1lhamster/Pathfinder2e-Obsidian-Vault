@@ -12,6 +12,7 @@ prerequisite: Expert in [[DATABASE/skill/Crafting|Crafting]] ; [[DATABASE/feat/S
   Specialist|Snare Specialist]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Quick Snares <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Ranger</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Snarecrafter]]*
-**Prerequisites** expert in [[Crafting]]; [[Snare Specialist]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Snarecrafter|Snarecrafter]]*
+**Prerequisites** expert in [[DATABASE/skill/Crafting|Crafting]]; [[DATABASE/feat/Snare Specialist|Snare Specialist]]
 * This archetype offers Quick Snares at a different level than displayed here.
 
 ---
@@ -38,4 +39,4 @@ This feat can be used for one or more Archetypes in addition to the listed Class
 
 ## Quick Snares Leads To...
 
-[[Lightning Snares]]
+[[DATABASE/feat/Lightning Snares|Lightning Snares]]

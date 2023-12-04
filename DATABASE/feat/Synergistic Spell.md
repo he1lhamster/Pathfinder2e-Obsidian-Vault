@@ -13,6 +13,7 @@ prerequisite: '[[DATABASE/feat/Halcyon Spellcasting Initiate|Halcyon Spellcastin
   in [[DATABASE/skill/Arcana|Arcana]] ; Legendary in [[DATABASE/skill/Nature|Nature]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 subcategory: null
@@ -26,9 +27,9 @@ type: Feat
 # Synergistic Spell <span class="action-icon">1</span> <span class="item-type">Feat 20</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Metamagic</span>
-**Source** [[Character Guide]] 
-**Archetype** [[Halcyon Speaker]]
-**Prerequisites** [[Halcyon Spellcasting Initiate]]; [[Fulminating Synergy]]; legendary in [[Arcana]] and [[Nature]]
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
+**Archetype** [[DATABASE/archetype/Halcyon Speaker|Halcyon Speaker]]
+**Prerequisites** [[DATABASE/feat/Halcyon Spellcasting Initiate|Halcyon Spellcasting Initiate]]; [[DATABASE/feat/Fulminating Synergy|Fulminating Synergy]]; legendary in [[DATABASE/skill/Arcana|Arcana]] and [[DATABASE/skill/Nature|Nature]]
 
 ---
 You combine your synergy and spells into a fantastic web of magic, allowing you to cast two spells at once. If the next action you use is to Cast a Spell from one of your halcyon spell slots, after that spell resolves, you can Cast another Spell as a free action. This spell must be cast from one of your halcyon spell slots and be a spell that would normally take two actions to cast.

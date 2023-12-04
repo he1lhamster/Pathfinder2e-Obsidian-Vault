@@ -11,6 +11,7 @@ name: Callow May
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,16 +25,16 @@ type: Feat
 # Callow May <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Changeling</span><span class="item-trait">Lineage</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
-You are among the most common of changelings—those born to [[Green Hag]]—and a vibrant green eye signifies that parentage. Your mother's manipulative nature and versatile voice gives you an edge when deceiving others. You gain the [[Charming Liar]] skill feat. If you roll [[Deception]] for initiative, foes in that combat encounter that haven't acted yet are [[Flat-Footed]] against you.
+You are among the most common of changelings—those born to [[DATABASE/monster/Green Hag|green hags]]—and a vibrant green eye signifies that parentage. Your mother's manipulative nature and versatile voice gives you an edge when deceiving others. You gain the [[DATABASE/feat/Charming Liar|Charming Liar]] skill feat. If you roll [[DATABASE/skill/Deception|Deception]] for initiative, foes in that combat encounter that haven't acted yet are [[DATABASE/condition/Flat-Footed|flat-footed]] against you.
 
 ## Traits
 
 **Changeling:**
 
-A creature with this trait has the changeling versatile heritage. Changelings are the children of [[Hag]] and members of other humanoid ancestries. An ability with this trait can be used or selected only by changelings.
+A creature with this trait has the changeling versatile heritage. Changelings are the children of [[DATABASE/monsterfamily/Hag|hags]] and members of other humanoid ancestries. An ability with this trait can be used or selected only by changelings.
 
 **Lineage:**
 

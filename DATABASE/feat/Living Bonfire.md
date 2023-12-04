@@ -11,6 +11,7 @@ name: Living Bonfire
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -28,11 +29,11 @@ type: Feat
 # Living Bonfire <span class="action-icon">2</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Composite</span><span class="item-trait">Fire</span><span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Primal</span><span class="item-trait">Wood</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
 Roots and branches of living wood writhe in elemental fire at your command, forming a bonfire fearsome enough to scare off predators in the night. You conjure a bonfire in an unoccupied 10-foot-square space within 30 feet. The bonfire burns for 10 hours, providing all the benefits of a normal campfire. If you use this impulse again, any previous one ends.
- When you make a wood ranged [[Elemental Blast]], you can have it come from the bonfire instead of you, flinging burning logs. This blast deals an additional 1d6 fire damage. Each time you do this, the size of the bonfire is reduced by one 5-foot square. If all the squares are removed, the impulse ends.
+ When you make a wood ranged [[DATABASE/action/Elemental Blast|Elemental Blast]], you can have it come from the bonfire instead of you, flinging burning logs. This blast deals an additional 1d6 fire damage. Each time you do this, the size of the bonfire is reduced by one 5-foot square. If all the squares are removed, the impulse ends.
 
 ---
 **Level (+5)** The fire damage increases by 1d6.

@@ -11,6 +11,7 @@ name: Summoner's Call
 prerequisite: null
 rarity: Common
 requirement: Your eidolon is manifested more than 5 feet away.
+rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -26,7 +27,7 @@ type: Feat
 # Summoner's Call <span class="action-icon">5</span> <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Conjuration</span><span class="item-trait">Summoner</span><span class="item-trait">Teleportation</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Trigger** You or your eidolon take damage from a foe or hazard.
 **Requirements** Your eidolon is manifested more than 5 feet away.
 

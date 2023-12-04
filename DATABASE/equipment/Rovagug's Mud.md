@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Rovagug's Mud<span class="item-type">Item 13+</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Evocation</span><span class="item-trait">Magical</span><span class="item-trait">Potion</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
@@ -64,13 +65,13 @@ _Rovagug's mud_ smells and tastes like wet, sour earth. For 1 hour after you dri
 
 ## Rovagug's Mud<span class="item-type">Item 13</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 600 gp
 **Bulk** L
 
 ## Rovagug's Mud (Greater)<span class="item-type">Item 18</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 4,800 gp
 **Bulk** L
 The damage is 8d6, the save DC is 38, and Hardness decreases by 10.

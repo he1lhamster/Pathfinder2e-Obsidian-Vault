@@ -8,6 +8,7 @@ name: Reloading Strike
 rarity: Common
 requirement: You're wielding a firearm or crossbow in one hand, and your other hand
   either wields a one-handedmelee weapon or is empty.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
@@ -19,7 +20,7 @@ type: Action
 # Reloading Strike <span class="action-icon">1</span>
 
 <span class="item-trait">Gunslinger</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Requirements** You're wielding a firearm or crossbow in one hand, and your other hand either wields a one-handed melee weapon or is empty.
 
 ---

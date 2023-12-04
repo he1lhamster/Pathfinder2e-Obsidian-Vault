@@ -70,19 +70,19 @@ wisdom: '+0'
 # Goblin Commando
 
 The theoretical leaders of goblin raids are called goblin commandos. In practice, goblin commandos rarely continue to lead their comrades once a battle has begun. Most shirk their responsibilities in favor of wading into the fray and claiming more glory from their tribe-mates.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 15
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Goblin Commando<span class="item-type">Creature 1</span>
 
 <span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Small</span><span class="item-trait">Goblin</span><span class="item-trait">Humanoid</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +5; darkvision
-**Languages** [[Common]], [[Goblin]]
-**Skills** [[Acrobatics]] +6, [[Athletics]] +6, [[Intimidation]] +5, [[Nature]] +5, [[Stealth]] +6
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Goblin|Goblin]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +6, [[DATABASE/skill/Athletics|Athletics]] +6, [[DATABASE/skill/Intimidation|Intimidation]] +5, [[DATABASE/skill/Nature|Nature]] +5, [[DATABASE/skill/Stealth|Stealth]] +6
 **Str** +3, **Dex** +3, **Con** +2, **Int** -1, **Wis** +0, **Cha** +2
-**Items** [[Horsechopper]], [[Leather Armor]], [[Shortbow]]
+**Items** [[DATABASE/weapon/Horsechopper|horsechopper]], [[DATABASE/armor/Leather Armor|leather armor]], [[DATABASE/weapon/Shortbow|shortbow (20 arrows)]]
 
 ---
 **AC** 17; **Fort** +7, **Ref** +8, **Will** +5

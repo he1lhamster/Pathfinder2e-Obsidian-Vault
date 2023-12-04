@@ -11,6 +11,7 @@ name: Mage Hunter
 prerequisite: '[[DATABASE/barbarianinstinct/Superstition Instinct|superstition instinct]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Mage Hunter <span class="action-icon">5</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Barbarian</span><span class="item-trait">Rage</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** [[Superstition Instinct]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** [[DATABASE/barbarianinstinct/Superstition Instinct|superstition instinct]]
 **Trigger** A creature within your reach Casts a Spell.
 
 ---

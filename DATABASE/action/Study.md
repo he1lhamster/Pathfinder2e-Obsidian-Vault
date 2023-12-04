@@ -7,6 +7,7 @@ id: '752'
 name: Study
 rarity: Common
 requirement: You are an initiate, attendant, or conversant.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 169. Kindled Magic|Pathfinder #169: Kindled
   Magic]]'
@@ -19,7 +20,7 @@ type: Action
 # Study
 
 <span class="item-trait">Downtime</span>
-**Source** [[Pathfinder 169. Kindled Magic]]
+**Source** [[DATABASE/source/Pathfinder 169. Kindled Magic|Pathfinder #169: Kindled Magic]]
 **Requirements** You are an initiate, attendant, or conversant.
 
 ---

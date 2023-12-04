@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: DC 18 Fortitude
 school: null
 size: null
@@ -60,11 +61,11 @@ weapon_type: null
 # Lethargy Poison<span class="item-type">Item 2</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Incapacitation</span><span class="item-trait">Injury</span><span class="item-trait">Poison</span><span class="item-trait">Sleep</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 7 gp
 **Usage** held in 2 hands; **Bulk** L
 **Activate** <span class="action-icon">2</span> Interact
 
 ---
-Lethargy poison is commonly used in hit-and-run tactics by [[Drow]] and others who want their victims alive; the ambusher retreats until the poison sets in and the victim falls unconscious. Further exposure to lethargy poison does not require the target to attempt additional saving throws; only failing an saving throw against an ongoing exposure can progress its stage.
-**Saving Throw** DC 18 Fortitude; **Maximum Duration** 4 hours; **Stage 1** [[Slowed]] (1 round); **Stage 2** slowed 1 (1 minute); **Stage 3** [[Unconscious]] with no Perception check to wake up (1 round); **Stage 4** unconscious with no Perception check to wake up (1d4 hours).
+Lethargy poison is commonly used in hit-and-run tactics by [[DATABASE/monsterfamily/Drow|drow]] and others who want their victims alive; the ambusher retreats until the poison sets in and the victim falls unconscious. Further exposure to lethargy poison does not require the target to attempt additional saving throws; only failing an saving throw against an ongoing exposure can progress its stage.
+**Saving Throw** DC 18 Fortitude; **Maximum Duration** 4 hours; **Stage 1** [[DATABASE/condition/Slowed|slowed 1]] (1 round); **Stage 2** slowed 1 (1 minute); **Stage 3** [[DATABASE/condition/Unconscious|unconscious]] with no Perception check to wake up (1 round); **Stage 4** unconscious with no Perception check to wake up (1d4 hours).

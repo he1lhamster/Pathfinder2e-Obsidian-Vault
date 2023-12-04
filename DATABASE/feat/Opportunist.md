@@ -11,6 +11,7 @@ name: Opportunist
 prerequisite: '[[DATABASE/feat/Fighter Dedication|Fighter Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,16 +24,16 @@ type: Feat
 # Opportunist <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Fighter]]
-**Prerequisites** [[Fighter Dedication]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Fighter|Fighter]]
+**Prerequisites** [[DATABASE/feat/Fighter Dedication|Fighter Dedication]]
 
 ---
 You gain the Attack of Opportunity reaction.
 
-### [[Attack of Opportunity]] <span class="action-icon">5</span>
+### [[DATABASE/action/Attack of Opportunity|Attack of Opportunity]] <span class="action-icon">5</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Trigger** A creature within your reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it’s using.
 
 ---

@@ -12,6 +12,7 @@ prerequisite: null
 rarity: Common
 requirement: You are wielding a two-handed melee weapon and your target is within
   your reach.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -25,7 +26,7 @@ type: Feat
 # Positioning Assault <span class="action-icon">2</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Fighter</span><span class="item-trait">Flourish</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Requirements** You are wielding a two-handed melee weapon and your target is within your reach.
 
 ---

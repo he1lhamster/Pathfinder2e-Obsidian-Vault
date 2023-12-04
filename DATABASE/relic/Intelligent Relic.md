@@ -5,6 +5,7 @@ item_category: Relics
 name: Intelligent Relic
 prerequisite: null
 rarity: Common
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
@@ -15,8 +16,8 @@ type: Relic Minor Gift
 # Intelligent Relic<span class="item-type">Minor Gift</span>
 
 <span class="item-trait">Intelligent</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Aspect** intelligent relic
 
 ---
-Your relic becomes an intelligent item. It has an alignment within one step of yours on each axis if not matching yours. It gains an alignment trait matching its alignment. The relic possesses precise sight at a range of 30 feet and imprecise hearing at a range of 30 feet. It is trained in Perception, increasing its proficiency when you increase yours. Choose whether it can speak aloud or communicate with you [[Telepathy]]. It knows languages fitting its backstory, usually from among those you know. The relic is also trained in three skills, increasing one skill's proficiency each time the relic gains a new gift. Your relic's mental ability scores begin at +3, +2, and +1, arranged as you choose. The relic is also trained in Will saves, and its proficiency increases as yours does. Each time you gain a new gift, increase one of the relic's mental ability scores by 2 or two by 1. The relic otherwise functions as normal for an intelligent item.
+Your relic becomes an intelligent item. It has an alignment within one step of yours on each axis if not matching yours. It gains an alignment trait matching its alignment. The relic possesses precise sight at a range of 30 feet and imprecise hearing at a range of 30 feet. It is trained in Perception, increasing its proficiency when you increase yours. Choose whether it can speak aloud or communicate with you [[DATABASE/monsterability/Telepathy|telepathically]]. It knows languages fitting its backstory, usually from among those you know. The relic is also trained in three skills, increasing one skill's proficiency each time the relic gains a new gift. Your relic's mental ability scores begin at +3, +2, and +1, arranged as you choose. The relic is also trained in Will saves, and its proficiency increases as yours does. Each time you gain a new gift, increase one of the relic's mental ability scores by 2 or two by 1. The relic otherwise functions as normal for an intelligent item.

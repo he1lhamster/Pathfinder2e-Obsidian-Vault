@@ -11,6 +11,7 @@ name: Advanced Element Control
 prerequisite: '[[DATABASE/feat/Through the Gate|Through the Gate]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Advanced Element Control <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Rage of Elements]]
-**Archetype** [[Kineticist]]
-**Prerequisites** [[Through the Gate]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
+**Archetype** [[DATABASE/archetype/Kineticist|Kineticist]]
+**Prerequisites** [[DATABASE/feat/Through the Gate|Through the Gate]]
 
 ---
 You gain one kineticist feat. For the purpose of meeting its prerequisites, your kineticist level is equal to half your level. Your options include impulse feats for your kinetic element, as normal for a kineticist.
@@ -33,7 +34,7 @@ You gain one kineticist feat. For the purpose of meeting its prerequisites, your
 
 ## Advanced Element Control Leads To...
 
-[[Add Element]]
+[[DATABASE/feat/Add Element|Add Element]]
 
 ## Traits
 

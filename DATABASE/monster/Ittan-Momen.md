@@ -83,20 +83,20 @@ Born from large pieces of cloth, ittan-momen flutter in the air, catching the la
 # Ittan-Momen<span class="item-type">Creature 2</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Kami</span>
-**Source** [[Bestiary 3]]
-**Perception** +7; [[Darkvision]], [[Tremorsense]] (imprecise) 30 feet
-**Languages** [[Common]]
-**Skills** [[Acrobatics]] +8, [[Deception]] +6, [[Stealth]] +8
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
+**Perception** +7; [[DATABASE/monsterability/Darkvision|darkvision]], [[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 30 feet
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +8, [[DATABASE/skill/Deception|Deception]] +6, [[DATABASE/skill/Stealth|Stealth]] +8
 **Str** +2, **Dex** +4, **Con** +2, **Int** +0, **Wis** +1, **Cha** +0
-**Mundane Appearance** When not moving, such as during the day, the ittan-momen is nearly indistinguishable from normal cloth. They have an automatic result of 26 on [[Deception]] checks and DCs to pass as normal cloth.
+**Mundane Appearance** When not moving, such as during the day, the ittan-momen is nearly indistinguishable from normal cloth. They have an automatic result of 26 on [[DATABASE/skill/Deception|Deception]] checks and DCs to pass as normal cloth.
 
 ---
 **AC** 20; **Fort** +8, **Ref** +10, **Will** +5
-**HP** 20; **Immunities** bleed, death effects, disease, [[Doomed]], [[Drained]], [[Fatigued]], healing, [[Paralyzed]], poison, [[Unconscious]]; **Resistances** bludgeoning 5; **Weaknesses** slashing 5
+**HP** 20; **Immunities** bleed, death effects, disease, [[DATABASE/condition/Doomed|doomed]], [[DATABASE/condition/Drained|drained]], [[DATABASE/condition/Fatigued|fatigued]], healing, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Unconscious|unconscious]]; **Resistances** bludgeoning 5; **Weaknesses** slashing 5
 
 ---
 **Speed** fly 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> body +10 [+5/+0] (finesse), **Damage** 1d8+2 bludgeoning plus [[Grab]]</span><span class="in-box-ability">**[[Constrict]]** <span class="action-icon">1</span> Damage 1d8 bludgeoning, DC 18</span><span class="in-box-ability">**[[Engulf]]** <span class="action-icon">2</span> DC 18, 1d8+2 bludgeoning, [[Escape]] DC 18, Rupture 5. The ittan-momen can Engulf only one creature. They can Engulf a creature of a larger size so long as the creature's head can feasibly be covered by the ittan-momen's body.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> body +10 [+5/+0] (finesse), **Damage** 1d8+2 bludgeoning plus [[DATABASE/monsterability/Grab|Grab]]</span><span class="in-box-ability">**[[DATABASE/monsterability/Constrict|Constrict]]** <span class="action-icon">1</span> Damage 1d8 bludgeoning, DC 18</span><span class="in-box-ability">**[[DATABASE/monsterability/Engulf|Engulf]]** <span class="action-icon">2</span> DC 18, 1d8+2 bludgeoning, [[DATABASE/action/Escape|Escape]] DC 18, Rupture 5. The ittan-momen can Engulf only one creature. They can Engulf a creature of a larger size so long as the creature's head can feasibly be covered by the ittan-momen's body.</span>
 
 ###  The Red Scarf
 

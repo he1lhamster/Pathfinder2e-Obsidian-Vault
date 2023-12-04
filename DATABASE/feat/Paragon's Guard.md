@@ -11,6 +11,7 @@ name: Paragon's Guard
 prerequisite: null
 rarity: Common
 requirement: You are wielding a shield.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,11 +25,11 @@ type: Feat
 # Paragon's Guard <span class="action-icon">1</span> <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Fighter</span><span class="item-trait">Stance</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Requirements** You are wielding a shield.
 
 ---
-Once you've had a moment to set your stance, you always have your shield ready without a thought. While you are in this stance, you constantly have your shield raised as if you'd used the [[Raise a Shield]] action, as long as you meet that action's requirements.
+Once you've had a moment to set your stance, you always have your shield ready without a thought. While you are in this stance, you constantly have your shield raised as if you'd used the [[DATABASE/action/Raise a Shield|Raise a Shield]] action, as long as you meet that action's requirements.
 
 ## Traits
 

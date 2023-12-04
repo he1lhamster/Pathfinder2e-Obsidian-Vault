@@ -9,6 +9,7 @@ language: null
 max_speed: null
 name: Oread
 rarity: null
+rus_type_level: null
 size: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 speed: null
@@ -20,10 +21,10 @@ vision: null
 # Oread (Versatile Heritage)
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Oread</span>
-**Source** [[Ancestry Guide]] 
-_The [[Plane of Earth]] influence runs through an oread's family, most often from a [[Shaitan]] or [[Dragon, Crystal]] ancestor. Oreads tend to be stoic, steadfast, and dependable, but they contain depths not seen on the surface._
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
+_The [[DATABASE/plane/Plane of Earth|Plane of Earth's]] influence runs through an oread's family, most often from a [[DATABASE/monster/Shaitan|shaitan]] or [[DATABASE/monsterfamily/Dragon, Crystal|crystal dragon]] ancestor. Oreads tend to be stoic, steadfast, and dependable, but they contain depths not seen on the surface._
 Oreads can be slow to reveal their true selves, or perhaps more accurately, have enough depth and mystery inherent to their beings that they can reveal new and unexpected facets of themselves every day. They usually feel that they personify certain aspects of earth, stone, or other sediments or minerals, such as a cliff's tenacious resilience against erosion, the generosity and nourishment of fertile soil, or the versatile utility of metal and stone.
- Oreads born with a special connection to a specific subset of elemental earth, such as crystal, dust, or mud, might have an oread lineage. A lineage can be inherited along a family bloodline, or it can manifest spontaneously in oread children. They can be caused by where an oread's ancestors lived, frequently seen in dustsoul oreads, many of whom are born in a desert or to a family that has farmed for generations. Lineages can also be the result of specific planar heritages. Gemsoul oreads often have a crystal dragon in their lineage, and miresoul oreads descend from the more sodden creatures of [[Elemental, Earth]].
+ Oreads born with a special connection to a specific subset of elemental earth, such as crystal, dust, or mud, might have an oread lineage. A lineage can be inherited along a family bloodline, or it can manifest spontaneously in oread children. They can be caused by where an oread's ancestors lived, frequently seen in dustsoul oreads, many of whom are born in a desert or to a family that has farmed for generations. Lineages can also be the result of specific planar heritages. Gemsoul oreads often have a crystal dragon in their lineage, and miresoul oreads descend from the more sodden creatures of [[DATABASE/monsterfamily/Elemental, Earth|elemental earth]].
 
 ## You Might...
 
@@ -50,17 +51,17 @@ Born and raised within the societies of their mortal families, oread children ar
 ## Alignment and Religion
 
 Oreads are known for being steadfast and reliable, often placing high value on personal honor and keeping their word. Many are fiercely protective of their friends but less concerned for the safety of those outside their circle. The most common alignments among oreads are true neutral and lawful neutral, with the rest typically falling into other neutral alignments like neutral good or neutral evil.
- Religious oreads find that lives of silence, contemplation, or seclusion suit them well, and most dedicate themselves to the worship of earth and nature deities like [[Torag]], [[Ashukharma]]—the Vudran deity of canyons and cliffs—or one of the Elemental Lords of Earth, [[Sairazul]] and [[Ayrzul]]. The nature-focused philosophy of the [[Green Faith]] also appeals to many oreads, especially those who become druids of the stone order. An oread's contemplative nature also aligns well with the teachings of [[Irori]] and [[Gruhastha]].
+ Religious oreads find that lives of silence, contemplation, or seclusion suit them well, and most dedicate themselves to the worship of earth and nature deities like [[DATABASE/deity/Torag|Torag]], [[DATABASE/deity/Ashukharma|Ashukharma]]—the Vudran deity of canyons and cliffs—or one of the Elemental Lords of Earth, [[DATABASE/deity/Sairazul|Sairazul]] and [[DATABASE/deity/Ayrzul|Ayrzul]]. The nature-focused philosophy of the [[DATABASE/deity/Green Faith|Green Faith]] also appeals to many oreads, especially those who become druids of the stone order. An oread's contemplative nature also aligns well with the teachings of [[DATABASE/deity/Irori|Irori]] and [[DATABASE/deity/Gruhastha|Gruhastha]].
 
 ## Adventurers
 
-Oread adventurers usually come from [[Artisan]], [[Herbalist]], and [[Miner]] backgrounds. Many oreads work with their hands as craftspeople, creating their work out of stone, metal, gems, or other forms of their ancestral element. Oread [[Cleric]] tend to worship one of the Elemental Lords of Earth ([[Ayrzul]] or the still-imprisoned [[Sairazul]]) or the dwarven god [[Torag]], or follow the path of the [[Green Faith]]. [[Druid]] and [[Ranger]] oreads are common, with most druid oreads following the stone order.
+Oread adventurers usually come from [[DATABASE/background/Artisan|artisan]], [[DATABASE/background/Herbalist|herbalist]], and [[DATABASE/background/Miner|miner]] backgrounds. Many oreads work with their hands as craftspeople, creating their work out of stone, metal, gems, or other forms of their ancestral element. Oread [[DATABASE/class_/Cleric|clerics]] tend to worship one of the Elemental Lords of Earth ([[DATABASE/deity/Ayrzul|Ayrzul]] or the still-imprisoned [[DATABASE/deity/Sairazul|Sairazul]]) or the dwarven god [[DATABASE/deity/Torag|Torag]], or follow the path of the [[DATABASE/deity/Green Faith|Green Faith]]. [[DATABASE/class_/Druid|Druid]] and [[DATABASE/class_/Ranger|ranger]] oreads are common, with most druid oreads following the stone order.
 
 ## Other Information
 
 ### Family Relations
 
-Most oreads are descended from [[Shaitan]], genies native to the Plane of Earth, but other planar creatures, especially other [[Elemental, Earth]], can also have oread descendants. The children of [[Earth Mephit]] and mud mephits are typically born smaller than their mortal parent, with modest vestigial wigs or nubs in their backs where a mephit's wings would have been. When a [[Dragon, Crystal]] dragon bears oread offspring, they almost always have the [[Gemsoul]] lineage in addition to draconic features like wings or a tail. [[Xorn]] are the least common elemental ancestors for an oread, as they seldom have relationships with mortals.
+Most oreads are descended from [[DATABASE/monster/Shaitan|shaitans]], genies native to the Plane of Earth, but other planar creatures, especially other [[DATABASE/monsterfamily/Elemental, Earth|earth elementals]], can also have oread descendants. The children of [[DATABASE/monster/Earth Mephit|earth]] and mud mephits are typically born smaller than their mortal parent, with modest vestigial wigs or nubs in their backs where a mephit's wings would have been. When a [[DATABASE/monsterfamily/Dragon, Crystal|dragon, crystal]] dragon bears oread offspring, they almost always have the [[DATABASE/feat/Gemsoul|gemsoul]] lineage in addition to draconic features like wings or a tail. [[DATABASE/monster/Xorn|Xorns]] are the least common elemental ancestors for an oread, as they seldom have relationships with mortals.
 
 ### Geniekin Cuisine
 
@@ -77,9 +78,9 @@ Most oreads prefer to integrate into the communities of their birth rather than 
 
 # Versatile Heritage
 
-## [[Oread]]
+## [[DATABASE/heritage/Oread|Oread]]
 
 <span class="trait-uncommon item-trait">Uncommon</span>
-**Source** [[Ancestry Guide]] 
-**Ancestry Page** [[Oread]]
-An [[Elemental, Earth]] ancestor has influenced your bloodline, and your features highlight this elemental planar connection. You might have a crystalline or metallic sheen to your skin or hair, rough and stony flesh, or glittering gemstone eyes. You gain the oread trait, in addition to the traits from your ancestry. You also gain low-light vision, or you gain darkvision if your ancestry already has low-light vision. You can choose from oread feats and feats from your ancestry whenever you gain an ancestry feat.
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
+**Ancestry Page** [[DATABASE/ancestry/Oread|Oread]]
+An [[DATABASE/monsterfamily/Elemental, Earth|earth elemental]] ancestor has influenced your bloodline, and your features highlight this elemental planar connection. You might have a crystalline or metallic sheen to your skin or hair, rough and stony flesh, or glittering gemstone eyes. You gain the oread trait, in addition to the traits from your ancestry. You also gain low-light vision, or you gain darkvision if your ancestry already has low-light vision. You can choose from oread feats and feats from your ancestry whenever you gain an ancestry feat.

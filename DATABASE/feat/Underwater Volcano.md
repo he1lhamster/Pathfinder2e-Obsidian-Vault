@@ -11,6 +11,7 @@ name: Underwater Volcano
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Underwater Volcano <span class="item-type">Feat 17</span>
 
 <span class="item-trait">Azarketi</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-You can cast [[Volcanic Eruption]] as a 7th-level primal innate spell once per day, except that you can only evoke the volcano on the floor of a body of water, and the effects that normally happen to flying creatures happen to swimming creatures instead.
+You can cast [[DATABASE/spell/Volcanic Eruption|volcanic eruption]] as a 7th-level primal innate spell once per day, except that you can only evoke the volcano on the floor of a body of water, and the effects that normally happen to flying creatures happen to swimming creatures instead.
 
 ## Traits
 

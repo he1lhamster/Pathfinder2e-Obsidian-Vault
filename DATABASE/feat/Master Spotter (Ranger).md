@@ -11,6 +11,7 @@ name: Master Spotter (Ranger)
 prerequisite: '[[DATABASE/feat/Ranger Dedication|Ranger Dedication]] ; expert in Perception'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Master Spotter (Ranger) <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Ranger]]
-**Prerequisites** [[Ranger Dedication]]; expert in Perception
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Ranger|Ranger]]
+**Prerequisites** [[DATABASE/feat/Ranger Dedication|Ranger Dedication]]; expert in Perception
 
 ---
 Your proficiency rank in Perception increases to master.

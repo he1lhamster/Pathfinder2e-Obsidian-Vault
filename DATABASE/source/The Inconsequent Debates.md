@@ -2,6 +2,7 @@
 id: '183'
 name: The Inconsequent Debates
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source

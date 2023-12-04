@@ -3,6 +3,7 @@ creature_family: Crocodile
 id: '24'
 name: Crocodile
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Crocodile
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Powerful and primeval in appearance, crocodiles are dangerous natural predators that dwell in marshes, riverbeds, swamps, and other wetlands.
 
 ### Members
 
-[[Crocodile]] (Creature 2), [[Deinosuchus]] (Creature 9)
+[[DATABASE/monster/Crocodile|Crocodile]] (Creature 2), [[DATABASE/monster/Deinosuchus|Deinosuchus]] (Creature 9)
 
 ###  Crocodile Locations
 

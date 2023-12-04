@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 size: null
@@ -56,12 +57,12 @@ weapon_type: null
 # Spangled Rider's Suit<span class="item-type">Item 9</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Divination</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span>
-**Source** [[Pathfinder 152. Legacy of the Lost God]]
+**Source** [[DATABASE/source/Pathfinder 152. Legacy of the Lost God|Pathfinder #152: Legacy of the Lost God]]
 **Price** 700 gp
 **Usage** worn armor
 ; **Bulk** 1
-**Base Armor** [[Studded Leather Armor]]
+**Base Armor** [[DATABASE/armor/Studded Leather Armor|Studded Leather Armor]]
 
 ---
-This _+1 resilient [[Studded Leather Armor]]_ is adorned with colorful sequins that sparkle in even the faintest light. While wearing the spangled rider’s suit, you gain a +2 item bonus to [[Command an Animal]] you are riding. Any animal you ride automatically knows the [[Drop Prone]] and [[Step]] basic actions, in addition to any other basic actions it knows (normally only Leap, Seek, Stand, Stride, and Strike).
+This _+1 resilient [[DATABASE/armor/Studded Leather Armor|studded leather armor]]_ is adorned with colorful sequins that sparkle in even the faintest light. While wearing the spangled rider’s suit, you gain a +2 item bonus to [[DATABASE/action/Command an Animal|Command an Animal]] you are riding. Any animal you ride automatically knows the [[DATABASE/action/Drop Prone|Drop Prone]] and [[DATABASE/action/Step|Step]] basic actions, in addition to any other basic actions it knows (normally only Leap, Seek, Stand, Stride, and Strike).
 **Activate** <span class="action-icon">5</span> (move) **Trigger** You take damage while mounted or your mount Drops Prone; **Effect** You dismount, moving off your mount into a space adjacent to it.

@@ -12,6 +12,7 @@ name: Lion Scythe
 price: 1 gp
 range: null
 rarity: Uncommon
+rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 172. Secrets of the Temple City|Pathfinder #172:
   Secrets of the Temple City]]'
 trait:
@@ -28,13 +29,13 @@ weapon_type: Melee
 # Lion Scythe
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Agile</span><span class="item-trait">Finesse</span><span class="item-trait">Trip</span>
-**Source** [[Pathfinder 172. Secrets of the Temple City]]
+**Source** [[DATABASE/source/Pathfinder 172. Secrets of the Temple City|Pathfinder #172: Secrets of the Temple City]]
 **Price** 1 gp; **Damage** 1d6 S; **Bulk** L
 **Hands** 1
-**Type** Melee; **Category** Martial; **Group** [[Knife]]
+**Type** Melee; **Category** Martial; **Group** [[DATABASE/weapongroup/Knife|Knife]]
 
 ---
-A lion scythe resembles a common [[Sickle]] but is specially weighted to allow for greater power when attacking. This is a martial melee weapon.
+A lion scythe resembles a common [[DATABASE/weapon/Sickle|sickle]] but is specially weighted to allow for greater power when attacking. This is a martial melee weapon.
 
 ## Traits
 
@@ -48,14 +49,14 @@ You can use your Dexterity modifier instead of your Strength modifier on attack 
 
 **Trip:**
 
-You can use this weapon to [[Trip]] with the [[Athletics]] skill even if you don't have a free hand. This uses the weapon's reach (if different from your own) and adds the weapon's item bonus to attack rolls as an item bonus to the Athletics check. If you critically fail a check to Trip using the weapon, you can drop the weapon to take the effects of a failure instead of a critical failure.
+You can use this weapon to [[DATABASE/action/Trip|Trip]] with the [[DATABASE/skill/Athletics|Athletics]] skill even if you don't have a free hand. This uses the weapon's reach (if different from your own) and adds the weapon's item bonus to attack rolls as an item bonus to the Athletics check. If you critically fail a check to Trip using the weapon, you can drop the weapon to take the effects of a failure instead of a critical failure.
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.
 
 ## Critical Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
-**Knife**: The target takes 1d6 [[Persistent Damage]]. You gain an item bonus to this bleed damage equal to the weapon's item bonus to attack rolls.
+**Knife**: The target takes 1d6 [[DATABASE/condition/Persistent Damage|persistent bleed damage]]. You gain an item bonus to this bleed damage equal to the weapon's item bonus to attack rolls.

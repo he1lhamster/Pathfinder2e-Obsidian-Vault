@@ -75,26 +75,26 @@ wisdom: '+5'
 # Dead Fane
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 46
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 46
 **Unspecific Lore**: DC 44
 **Specific Lore**: DC 41
 
 # Dead Fane<span class="item-type">Creature 17</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CG</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 186. Ghost King's Rage]]
+**Source** [[DATABASE/source/Pathfinder 186. Ghost King's Rage|Pathfinder #186: Ghost King's Rage]]
 **Perception** +32
-**Languages** [[Common]], [[Kelish]], [[Necril]], [[Osiriani]]
-**Skills** [[Deception]] +36, [[Diplomacy]] +33, [[Intimidation]] +33, [[Religion]] +30, [[Society]] +30
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Kelish|Kelish]], [[DATABASE/language/Necril|Necril]], [[DATABASE/language/Osiriani|Osiriani]]
+**Skills** [[DATABASE/skill/Deception|Deception]] +36, [[DATABASE/skill/Diplomacy|Diplomacy]] +33, [[DATABASE/skill/Intimidation|Intimidation]] +33, [[DATABASE/skill/Religion|Religion]] +30, [[DATABASE/skill/Society|Society]] +30
 **Str** +0, **Dex** +5, **Con** +0, **Int** +4, **Wis** +5, **Cha** +6
-**Items** _+2 [[Resilient]] [[Padded Armor]]_, _+2 [[Striking]] [[Dagger]]_
+**Items** _+2 [[DATABASE/equipment/Resilient|resilient]] [[DATABASE/armor/Padded Armor|padded armor]]_, _+2 [[DATABASE/equipment/Striking|greater striking]] [[DATABASE/weapon/Dagger|dagger]]_
 
 ---
 **AC** 39; **Fort** +26, **Ref** +29, **Will** +32
 **HP** 315
-<span class="in-box-ability">**Give Them the Slip <span class="action-icon">5</span> ** **Trigger** Dead Faine gains the [[Grabbed]], [[Immobilized]], or [[Restrained]] condition; **Effect** Dead Faine slips out of his disguise to escape; he removes the grabbed, immobilized, and restrained conditions imposed by the triggering event, then he Steps. If Dead Faine is currently [[Impersonate]], his disguise is ruined, and he's exposed as himself.</span>
+<span class="in-box-ability">**Give Them the Slip <span class="action-icon">5</span> ** **Trigger** Dead Faine gains the [[DATABASE/condition/Grabbed|grabbed]], [[DATABASE/condition/Immobilized|immobilized]], or [[DATABASE/condition/Restrained|restrained]] condition; **Effect** Dead Faine slips out of his disguise to escape; he removes the grabbed, immobilized, and restrained conditions imposed by the triggering event, then he Steps. If Dead Faine is currently [[DATABASE/action/Impersonate|Impersonating]], his disguise is ruined, and he's exposed as himself.</span>
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _dagger_ +33 [+29/+25] (agile, finesse, magical, thrown 10 feet, versatile S), **Damage** 3d4+8 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +33 [+29/+25] (agile, finesse), **Damage** 1d4+8 bludgeoning</span>**Innate Occult Spells** DC 35; **5th** _[[Tongues]]_; **3rd** _[[Illusory Disguise]]_; **2nd** _[[Mimic Undead]]_ (×2)
-<span class="in-box-ability">**Adopt Persona** <span class="action-icon">3</span> Dead Faine attempts a [[Deception]] check to [[Impersonate]]. He doesn't take a penalty to this check due to lacking a [[Disguise Kit]], to appear as an undead, or to appear as a specific individual.</span><span class="in-box-ability">**Feinting Strike** <span class="action-icon">1</span> **Frequency** once per round; **Requirements** Dead Faine is within melee reach of an enemy; **Effect** Dead Faine [[Feint]], then Strikes the target of his Feint.</span><span class="in-box-ability">**[[Sneak Attack]]** Dead Faine deals an additional 4d6 precision damage to [[Flat-Footed]] creatures. This increases to 6d6 against creatures flat-footed due to Dead Faine's Feint or Traitorous Betrayal.</span><span class="in-box-ability">**Traitorous Betrayal** <span class="action-icon">2</span> Dead Faine Interacts to draw his dagger and Strikes with it. If the target believes Dead Faine was anyone other than himself, the target is [[Flat-Footed]] against Dead Faine's attack.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _dagger_ +33 [+29/+25] (agile, finesse, magical, thrown 10 feet, versatile S), **Damage** 3d4+8 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +33 [+29/+25] (agile, finesse), **Damage** 1d4+8 bludgeoning</span>**Innate Occult Spells** DC 35; **5th** _[[DATABASE/spell/Tongues|tongues]]_; **3rd** _[[DATABASE/spell/Illusory Disguise|illusory disguise]]_; **2nd** _[[DATABASE/spell/Mimic Undead|mimic undead]]_ (×2)
+<span class="in-box-ability">**Adopt Persona** <span class="action-icon">3</span> Dead Faine attempts a [[DATABASE/skill/Deception|Deception]] check to [[DATABASE/action/Impersonate|Impersonate]]. He doesn't take a penalty to this check due to lacking a [[DATABASE/equipment/Disguise Kit|disguise kit]], to appear as an undead, or to appear as a specific individual.</span><span class="in-box-ability">**Feinting Strike** <span class="action-icon">1</span> **Frequency** once per round; **Requirements** Dead Faine is within melee reach of an enemy; **Effect** Dead Faine [[DATABASE/action/Feint|Feints]], then Strikes the target of his Feint.</span><span class="in-box-ability">**[[DATABASE/monsterability/Sneak Attack|Sneak Attack]]** Dead Faine deals an additional 4d6 precision damage to [[DATABASE/condition/Flat-Footed|flat-footed]] creatures. This increases to 6d6 against creatures flat-footed due to Dead Faine's Feint or Traitorous Betrayal.</span><span class="in-box-ability">**Traitorous Betrayal** <span class="action-icon">2</span> Dead Faine Interacts to draw his dagger and Strikes with it. If the target believes Dead Faine was anyone other than himself, the target is [[DATABASE/condition/Flat-Footed|flat-footed]] against Dead Faine's attack.</span>

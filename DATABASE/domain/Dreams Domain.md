@@ -14,6 +14,7 @@ domain_spell: '[[DATABASE/spell/Sweet Dream|Sweet Dream]]'
 id: '9'
 name: Dreams Domain
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait: null
 type: Domain
@@ -21,7 +22,7 @@ type: Domain
 ---
 # Dreams Domain
 
-**Source** [[Core Rulebook]] 
-**Deities** [[Desna]], [[Imbrex]], [[Luhar]], [[Lysianassa]], [[Xhamen-Dor]]
-**Domain Spell** _[[Sweet Dream]]_; **Advanced Domain Spell** _[[Dreamer's Call]]_
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Deities** [[DATABASE/deity/Desna|Desna]], [[DATABASE/deity/Imbrex|Imbrex]], [[DATABASE/deity/Luhar|Luhar]], [[DATABASE/deity/Lysianassa|Lysianassa]], [[DATABASE/deity/Xhamen-Dor|Xhamen-Dor]]
+**Domain Spell** _[[DATABASE/spell/Sweet Dream|Sweet Dream]]_; **Advanced Domain Spell** _[[DATABASE/spell/Dreamer's Call|Dreamer's Call]]_
 You have the power to enter and manipulate dreams.

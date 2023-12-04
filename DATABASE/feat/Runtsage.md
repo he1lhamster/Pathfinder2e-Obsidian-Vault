@@ -11,6 +11,7 @@ name: Runtsage
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Runtsage <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Hobgoblin</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-Unlike most of your kind, who dismiss goblins as embarrassments or expendable annoyances, you have studied the methodology behind their irresponsible and incomprehensible actions. You gain the [[Adopted Ancestry]] general feat and must select goblin as the feat's chosen ancestry. You also gain one 1st-level goblin ancestry feat.
+Unlike most of your kind, who dismiss goblins as embarrassments or expendable annoyances, you have studied the methodology behind their irresponsible and incomprehensible actions. You gain the [[DATABASE/feat/Adopted Ancestry|Adopted Ancestry]] general feat and must select goblin as the feat's chosen ancestry. You also gain one 1st-level goblin ancestry feat.
 
 ## Traits
 

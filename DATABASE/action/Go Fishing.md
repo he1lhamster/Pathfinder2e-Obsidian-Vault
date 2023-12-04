@@ -7,6 +7,7 @@ id: '1387'
 name: Go Fishing
 rarity: Common
 requirement: Must have at least one claimed hex that includes river or lake terrain.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
@@ -19,7 +20,7 @@ type: Action
 # Go Fishing
 
 <span class="item-trait">Downtime</span><span class="item-trait">Region</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 **Requirements** Must have at least one claimed hex that includes river or lake terrain.
 
 ---

@@ -76,27 +76,27 @@ wisdom: '+5'
 # Profane Ghoul
 
 This creature did not include a description.
-**Recall Knowledge - Undead ([[Religion]])**: DC 32
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 32
 **Unspecific Lore**: DC 30
 **Specific Lore**: DC 27
 
 # Profane Ghoul<span class="item-type">Creature 10</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Ghoul</span><span class="item-trait">Undead</span>
-**Source** [[Shadows at Sundown]]
-Variant [[Ghoul]]
-**Perception** +19; [[Darkvision]]
-**Languages** [[Common]], [[Necril]]
-**Skills** [[Acrobatics]] +22, [[Athletics]] +17, [[Religion]] +19, [[Stealth]] +20
+**Source** [[DATABASE/source/Shadows at Sundown|Shadows at Sundown]]
+Variant [[DATABASE/monster/Ghoul|ghouls]]
+**Perception** +19; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Necril|Necril]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +22, [[DATABASE/skill/Athletics|Athletics]] +17, [[DATABASE/skill/Religion|Religion]] +19, [[DATABASE/skill/Stealth|Stealth]] +20
 **Str** +3, **Dex** +6, **Con** +5, **Int** +3, **Wis** +5, **Cha** +5
 
 ---
 **AC** 30; **Fort** +17, **Ref** +22, **Will** +19
-**HP** 180 ([[Negative Healing]]); **Immunities** death effects, disease, [[Paralyzed]], poison, [[Unconscious]]
+**HP** 180 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects, disease, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Unconscious|unconscious]]
 
 ---
 **Speed** 30 feet, burrow 10 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +22 [+17/+12] (finesse), **Damage** 2d10+7 piercing plus 2d6 negative and profane paralysis and ghoul fever</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +22 [+18/+14] (agile, finesse), **Damage** 2d6+7 slashing plus 2d6 negative and profane paralysis</span><span class="in-box-ability">**Ghoul Fever** (disease) **Saving Throw** Fortitude DC 29; **Stage 1** carrier with no ill effect (1 day); **Stage 2** 2d6 negative damage and regains half as many Hit Points from all healing (1 day); **Stage 3** as stage 2 (1 day); **Stage 4** 2d6 negative damage and gains no benefit from healing (1 day); **Stage 5** as stage 4 (1 day); **Stage 6** dead, and rises as a [[Ghoul]] the next midnight.</span><span class="in-box-ability">**Profane Paralysis** (incapacitation, necromancy, occult) Any living, non-elf creature hit by the profane ghoul's attack must attempt a DC 29 Fortitude save.
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +22 [+17/+12] (finesse), **Damage** 2d10+7 piercing plus 2d6 negative and profane paralysis and ghoul fever</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +22 [+18/+14] (agile, finesse), **Damage** 2d6+7 slashing plus 2d6 negative and profane paralysis</span><span class="in-box-ability">**Ghoul Fever** (disease) **Saving Throw** Fortitude DC 29; **Stage 1** carrier with no ill effect (1 day); **Stage 2** 2d6 negative damage and regains half as many Hit Points from all healing (1 day); **Stage 3** as stage 2 (1 day); **Stage 4** 2d6 negative damage and gains no benefit from healing (1 day); **Stage 5** as stage 4 (1 day); **Stage 6** dead, and rises as a [[DATABASE/monster/Ghoul|ghoul]] the next midnight.</span><span class="in-box-ability">**Profane Paralysis** (incapacitation, necromancy, occult) Any living, non-elf creature hit by the profane ghoul's attack must attempt a DC 29 Fortitude save.
  **Critical Success** The creature is unaffected.
- **Success** The creature is [[Slowed]].
- **Failure** The creature is [[Paralyzed]]. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save.</span><span class="in-box-ability">**Profane Whispers** <span class="action-icon">2</span> (auditory, mental, necromancy, occult) The ghoul whispers profane secrets of undeath. Living creatures within 10 feet of the ghoul take 2d8 [[Persistent Damage]]. Those with ghoul fever must also succeed at a DC 29 Will save or have the disease advance one step. The profane ghoul can't use Profane Whispers again for 24 hours.</span><span class="in-box-ability">**Scuttle** <span class="action-icon">1</span> (move) The profane ghoul crawls on all fours, moving up to half its Speed. This movement doesn't trigger reactions.</span>
+ **Success** The creature is [[DATABASE/condition/Slowed|slowed 1]].
+ **Failure** The creature is [[DATABASE/condition/Paralyzed|paralyzed]]. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save.</span><span class="in-box-ability">**Profane Whispers** <span class="action-icon">2</span> (auditory, mental, necromancy, occult) The ghoul whispers profane secrets of undeath. Living creatures within 10 feet of the ghoul take 2d8 [[DATABASE/condition/Persistent Damage|persistent mental damage]]. Those with ghoul fever must also succeed at a DC 29 Will save or have the disease advance one step. The profane ghoul can't use Profane Whispers again for 24 hours.</span><span class="in-box-ability">**Scuttle** <span class="action-icon">1</span> (move) The profane ghoul crawls on all fours, moving up to half its Speed. This movement doesn't trigger reactions.</span>

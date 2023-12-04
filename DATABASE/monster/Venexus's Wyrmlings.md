@@ -84,24 +84,24 @@ wisdom: '+1'
 # Venexus's Wyrmlings
 
 This creature did not include a description.
-**Recall Knowledge - Dragon ([[Arcana]])**: DC 25
+**Recall Knowledge - Dragon ([[DATABASE/skill/Arcana|Arcana]])**: DC 25
 **Unspecific Lore**: DC 23
 **Specific Lore**: DC 20
 
 # Venexus's Wyrmlings<span class="item-type">Creature 5</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Cold</span><span class="item-trait">Dragon</span>
-**Source** [[Pathfinder 176. Lost Mammoth Valley]]
-**Perception** +12; [[Darkvision]], [[Scent]] (imprecise) 60 feet, snow vision
-**Languages** [[Common]], [[Draconic]], [[Hallit]]
-**Skills** [[Acrobatics]] +12, [[Athletics]] +13, [[Intimidation]] +10, [[Stealth]] +12
+**Source** [[DATABASE/source/Pathfinder 176. Lost Mammoth Valley|Pathfinder #176: Lost Mammoth Valley]]
+**Perception** +12; [[DATABASE/monsterability/Darkvision|darkvision]], [[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet, snow vision
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Hallit|Hallit]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +12, [[DATABASE/skill/Athletics|Athletics]] +13, [[DATABASE/skill/Intimidation|Intimidation]] +10, [[DATABASE/skill/Stealth|Stealth]] +12
 **Str** +5, **Dex** +4, **Con** +2, **Int** -1, **Wis** +1, **Cha** +0
-**Snow Vision** Snow doesn't impair a white dragon's vision; the wyrmling ignores [[Concealed]] from snowfall.
+**Snow Vision** Snow doesn't impair a white dragon's vision; the wyrmling ignores [[DATABASE/condition/Concealed|concealment]] from snowfall.
 
 ---
 **AC** 22; **Fort** +12, **Ref** +15, **Will** +9
-**HP** 90; **Immunities** cold, [[Paralyzed]], sleep; **Weaknesses** fire 5
-<span class="in-box-ability">**[[Frightful Presence]]** (aura, emotion, fear, mental) 90 feet, DC 19</span><span class="in-box-ability">**Freezing Blood <span class="action-icon">5</span> ** (arcane, cold) **Trigger** An adjacent creature deals piercing or slashing damage to the wyrmling **Effect** The wyrmling's blood splatters onto the triggering creature, dealing 1d4 cold damage. A creature that takes cold damage in this way is [[Slowed]] for 1 round.</span>
+**HP** 90; **Immunities** cold, [[DATABASE/condition/Paralyzed|paralyzed]], sleep; **Weaknesses** fire 5
+<span class="in-box-ability">**[[DATABASE/monsterability/Frightful Presence|Frightful Presence]]** (aura, emotion, fear, mental) 90 feet, DC 19</span><span class="in-box-ability">**Freezing Blood <span class="action-icon">5</span> ** (arcane, cold) **Trigger** An adjacent creature deals piercing or slashing damage to the wyrmling **Effect** The wyrmling's blood splatters onto the triggering creature, dealing 1d4 cold damage. A creature that takes cold damage in this way is [[DATABASE/condition/Slowed|slowed 1]] for 1 round.</span>
 
 ---
 **Speed** 30 feet, fly 60 feet, ice climb 30 feet

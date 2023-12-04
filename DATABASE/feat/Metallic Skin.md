@@ -11,6 +11,7 @@ name: Metallic Skin
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -25,12 +26,12 @@ type: Feat
 # Metallic Skin <span class="action-icon">2</span> <span class="item-type">Feat 17</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Primal</span><span class="item-trait">Talos</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Frequency** once per day
 **Duration** 1 minute
 
 ---
-You fortify your natural resistances with elemental metal, covering your skin with thick metal. You gain a +2 status bonus to AC and resistance 10 to physical damage (except [[Adamantine Weapon]]), but you take a –10-foot penalty to Speed. If you take fire damage while this ability is active, until the end of your next turn, you deal an additional 2d6 fire damage with all your unarmed melee Strikes.
+You fortify your natural resistances with elemental metal, covering your skin with thick metal. You gain a +2 status bonus to AC and resistance 10 to physical damage (except [[DATABASE/equipment/Adamantine Weapon|adamantine]]), but you take a –10-foot penalty to Speed. If you take fire damage while this ability is active, until the end of your next turn, you deal an additional 2d6 fire damage with all your unarmed melee Strikes.
 
 ## Traits
 
@@ -44,4 +45,4 @@ This magic comes from the primal tradition, connecting to the natural world and 
 
 **Talos:**
 
-Taloses are [[Planar Scion]] descended from [[Zuhra]].
+Taloses are [[DATABASE/monsterfamily/Planar Scion|planar scions]] descended from [[DATABASE/monster/Zuhra|zuhras]].

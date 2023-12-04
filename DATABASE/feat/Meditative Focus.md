@@ -11,6 +11,7 @@ name: Meditative Focus
 prerequisite: ki spells
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Meditative Focus <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Monk</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Prerequisites** ki spells
 
 ---
@@ -31,4 +32,4 @@ Your meditation is so effective that you can achieve a deep focus. If you have s
 
 ## Meditative Focus Leads To...
 
-[[Meditative Wellspring]]
+[[DATABASE/feat/Meditative Wellspring|Meditative Wellspring]]

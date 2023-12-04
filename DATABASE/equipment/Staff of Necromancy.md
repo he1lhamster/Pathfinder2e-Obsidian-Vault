@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Staff of Necromancy<span class="item-type">Item 6+</span>
 
 <span class="item-trait">Magical</span><span class="item-trait">Necromancy</span><span class="item-trait">Staff</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** held in 1 hand; **Bulk** —
 
 ---
@@ -64,28 +65,28 @@ This twisted and grim-looking staff is adorned with hideous skull and bone motif
 
 ## Staff of Necromancy<span class="item-type">Item 6</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 230 gp
 **Bulk** 1
 
-* **Cantrip** [[Chill Touch]] 
-* **1st** [[Grim Tendrils]], [[Ray of Enfeeblement]] 
-* **2nd** [[Deafness]], [[Gentle Repose]]
+* **Cantrip** [[DATABASE/spell/Chill Touch|chill touch]] 
+* **1st** [[DATABASE/spell/Grim Tendrils|grim tendrils]], [[DATABASE/spell/Ray of Enfeeblement|ray of enfeeblement]] 
+* **2nd** [[DATABASE/spell/Deafness|deafness]], [[DATABASE/spell/Gentle Repose|gentle repose]]
 
 ## Staff of Necromancy (Greater)<span class="item-type">Item 10</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 900 gp
 **Bulk** 1
 
-* **3rd** [[Blindness]], [[Vampiric Touch]] 
+* **3rd** [[DATABASE/spell/Blindness|blindness]], [[DATABASE/spell/Vampiric Touch|vampiric touch]] 
 * **4th** _grim tendrils_, _vampiric touch_
 
 ## Staff of Necromancy (Major)<span class="item-type">Item 14</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 4,000 gp
 **Bulk** 1
 
-* **5th** [[Cloudkill]], _gentle repose_ 
-* **6th** _grim tendrils_, [[Vampiric Exsanguination]]
+* **5th** [[DATABASE/spell/Cloudkill|cloudkill]], _gentle repose_ 
+* **6th** _grim tendrils_, [[DATABASE/spell/Vampiric Exsanguination|vampiric exsanguination]]

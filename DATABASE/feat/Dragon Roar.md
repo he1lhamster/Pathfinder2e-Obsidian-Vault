@@ -11,6 +11,7 @@ name: Dragon Roar
 prerequisite: '[[DATABASE/feat/Dragon Stance|Dragon Stance]]'
 rarity: Common
 requirement: You are in Dragon Stance.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -27,9 +28,9 @@ type: Feat
 # Dragon Roar <span class="action-icon">1</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Auditory</span><span class="item-trait">Emotion</span><span class="item-trait">Fear</span><span class="item-trait">Mental</span><span class="item-trait">Monk</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Martial Artist]]*
-**Prerequisites** [[Dragon Stance]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Martial Artist|Martial Artist]]*
+**Prerequisites** [[DATABASE/feat/Dragon Stance|Dragon Stance]]
 **Requirements** You are in Dragon Stance.
 * This archetype offers Dragon Roar at a different level than displayed here.
 
@@ -45,7 +46,7 @@ This feat can be used for one or more Archetypes in addition to the listed Class
 
 **Auditory:**
 
-Auditory actions and effects rely on sound. An action with the auditory trait can be successfully performed only if the creature using the action can speak or otherwise produce the required sounds. A spell or effect with the auditory trait has its effect only if the target can hear it. This applies only to sound-based parts of the effect, as determined by the GM. This is different from a sonic effect, which still affects targets who can't hear it (such as [[Deafened]] targets) as long as the effect itself makes sound.
+Auditory actions and effects rely on sound. An action with the auditory trait can be successfully performed only if the creature using the action can speak or otherwise produce the required sounds. A spell or effect with the auditory trait has its effect only if the target can hear it. This applies only to sound-based parts of the effect, as determined by the GM. This is different from a sonic effect, which still affects targets who can't hear it (such as [[DATABASE/condition/Deafened|deaf]] targets) as long as the effect itself makes sound.
 
 **Emotion:**
 

@@ -2,6 +2,7 @@
 id: '56'
 name: Redpitch Alchemy
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -15,4 +16,4 @@ type: Source
 
 ## Equipment [5]
 
-[[Redpitch Bomb]], [[Redpitch Bomb]], [[Redpitch Bomb]], [[Redpitch Bomb]], [[Redpitch Bomb]]
+[[DATABASE/equipment/Redpitch Bomb|Redpitch Bomb]], [[DATABASE/equipment/Redpitch Bomb|Redpitch Bomb (Greater)]], [[DATABASE/equipment/Redpitch Bomb|Redpitch Bomb (Lesser)]], [[DATABASE/equipment/Redpitch Bomb|Redpitch Bomb (Major)]], [[DATABASE/equipment/Redpitch Bomb|Redpitch Bomb (Moderate)]]

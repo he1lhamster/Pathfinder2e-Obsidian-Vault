@@ -61,20 +61,20 @@ wisdom: '+0'
 # Auchs
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 26
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 26
 **Unspecific Lore**: DC 24
 **Specific Lore**: DC 21
 
 # Auchs<span class="item-type">Creature 2</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 Male human bandit lieutenant
 **Perception** +6
-**Languages** [[Common]]; (cannot read)
-**Skills** [[Athletics]] +10, [[Survival]] +4
+**Languages** [[DATABASE/language/Common|Common]]; (cannot read)
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +10, [[DATABASE/skill/Survival|Survival]] +4
 **Str** +4, **Dex** +2, **Con** +4, **Int** -2, **Wis** +0, **Cha** -1
-**Items** [[Healing Potion]], [[Club]], knight and dragon toys worth 45 sp, [[Leather Armor]], [[Leather Armor]], silver Stag Lord amulet
+**Items** [[DATABASE/equipment/Healing Potion|lesser healing potions (2)]], [[DATABASE/weapon/Club|club]], knight and dragon toys worth 45 sp, [[DATABASE/armor/Leather Armor|leather armor]], [[DATABASE/armor/Leather Armor|leather armor]], silver Stag Lord amulet
 
 ---
 **AC** 15; **Fort** +12, **Ref** +5, **Will** +3
@@ -82,4 +82,4 @@ Male human bandit lieutenant
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> club +10 [+5/+0] (thrown 10 feet), **Damage** 1d6+6 bludgeoning</span><span class="in-box-ability">**Hit 'Em Hard** <span class="action-icon">2</span> Auchs unleashes a particularly powerful attack and makes a melee club Strike that counts as two attacks when calculating his multiple attack penalty. If this strike hits, he deals an extra 1d6 points of damage; on a critical hit, the creature struck must succeed at a DC 18 Fortitude save or be knocked [[Prone]].</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> club +10 [+5/+0] (thrown 10 feet), **Damage** 1d6+6 bludgeoning</span><span class="in-box-ability">**Hit 'Em Hard** <span class="action-icon">2</span> Auchs unleashes a particularly powerful attack and makes a melee club Strike that counts as two attacks when calculating his multiple attack penalty. If this strike hits, he deals an extra 1d6 points of damage; on a critical hit, the creature struck must succeed at a DC 18 Fortitude save or be knocked [[DATABASE/condition/Prone|prone]].</span>

@@ -13,6 +13,7 @@ name: Springald
 price: 700 gp
 rarity: Uncommon
 reflex: '+13'
+rus_type_level: null
 size: Huge
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
@@ -25,7 +26,7 @@ usage: mounted
 # Springald<span class="item-type">Item 7</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-size item-trait">Huge</span><span class="item-trait">Mounted</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 700 gp; **Ammunition** springald arrows (5 sp, 2 Bulk)
 
 ---

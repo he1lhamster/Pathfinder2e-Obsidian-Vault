@@ -67,19 +67,19 @@ wisdom: '+1'
 # Merfolk Warrior
 
 Merfolk warriors form the bulk of the militias of their vast underwater realms and meet potential aggressors head-on with uncompromising force.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 15
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Merfolk Warrior<span class="item-type">Creature 1</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Aquatic</span><span class="item-trait">Humanoid</span><span class="item-trait">Merfolk</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +6; low-light vision
-**Languages** [[Aquan]], [[Common]]
-**Skills** [[Athletics]] +5 (+7 to Swim), [[Medicine]] +4
+**Languages** [[DATABASE/language/Aquan|Aquan]], [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +5 (+7 to Swim), [[DATABASE/skill/Medicine|Medicine]] +4
 **Str** +2, **Dex** +4, **Con** +1, **Int** +0, **Wis** +1, **Cha** +1
-**Items** [[Trident]]
+**Items** [[DATABASE/weapon/Trident|trident (2)]]
 
 ---
 **AC** 18; **Fort** +6, **Ref** +9, **Will** +4

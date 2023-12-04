@@ -11,6 +11,7 @@ name: Side by Side (Ranger)
 prerequisite: an animal companion
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Side by Side (Ranger) <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Ranger</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Prerequisites** an animal companion
 
 ---

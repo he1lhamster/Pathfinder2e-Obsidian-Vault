@@ -11,6 +11,7 @@ name: Shield Block
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Shield Block <span class="action-icon">5</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">General</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Trigger** While you have your shield raised, you would take damage from a physical attack.
 
 ---
@@ -32,7 +33,7 @@ You snap your shield in place to ward off a blow. Your shield prevents you from 
 
 ## Shield Block Leads To...
 
-[[Aegis of Arnisant]], [[Bastion Dedication]], [[Fortify Shield]], [[Lastwall Sentry Dedication]], [[Quick Shield Block]], [[Shield Warden]], [[Tunnel Wall]]
+[[DATABASE/feat/Aegis of Arnisant|Aegis of Arnisant]], [[DATABASE/feat/Bastion Dedication|Bastion Dedication]], [[DATABASE/feat/Fortify Shield|Fortify Shield]], [[DATABASE/feat/Lastwall Sentry Dedication|Lastwall Sentry Dedication]], [[DATABASE/feat/Quick Shield Block|Quick Shield Block]], [[DATABASE/feat/Shield Warden|Shield Warden]], [[DATABASE/feat/Tunnel Wall|Tunnel Wall]]
 
 ## Traits
 

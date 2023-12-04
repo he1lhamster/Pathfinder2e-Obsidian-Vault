@@ -11,6 +11,7 @@ name: Diverse Mystery
 prerequisite: '[[DATABASE/feat/Advanced Revelation|Advanced Revelation]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Diverse Mystery <span class="item-type">Feat 16</span>
 
 <span class="item-trait">Oracle</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** [[Advanced Revelation]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** [[DATABASE/feat/Advanced Revelation|Advanced Revelation]]
 
 ---
 You have broadened your understanding of the divine and can tap into the wonders of a different mystery. Select one revelation spell from a mystery other than your own. You can choose only an initial revelation spell or an advanced revelation spell.

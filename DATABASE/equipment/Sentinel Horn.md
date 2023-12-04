@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 size: null
@@ -56,7 +57,7 @@ weapon_type: null
 # Sentinel Horn<span class="item-type">Item 6</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Auditory</span><span class="item-trait">Divination</span><span class="item-trait">Magical</span>
-**Source** [[Pathfinder 195. Heavy is the Crown]]
+**Source** [[DATABASE/source/Pathfinder 195. Heavy is the Crown|Pathfinder #195: Heavy is the Crown]]
 **Price** 250 gp
 **Usage** held in 1 hand; **Bulk** 1
 

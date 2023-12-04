@@ -3,6 +3,7 @@ creature_family: Wyrmwraith
 id: '116'
 name: Wyrmwraith
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Wyrmwraith
 
-**Source** [[Bestiary 3]]
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
 Wyrmwraiths rise from the souls of dragons who refuse to accept death or have an irrational fear of the afterlife.
 
 ### Members
 
-[[Elder Wyrmwraith]] (Creature 23), [[Wyrmwraith]] (Creature 17)
+[[DATABASE/monster/Elder Wyrmwraith|Elder Wyrmwraith]] (Creature 23), [[DATABASE/monster/Wyrmwraith|Wyrmwraith]] (Creature 17)
 
 ###  Ancient Wyrmwraiths
 

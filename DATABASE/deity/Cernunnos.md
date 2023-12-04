@@ -23,6 +23,7 @@ follower_alignment:
 id: '116'
 name: Cernunnos
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Survival|Survival]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -32,7 +33,7 @@ type: Deity
 ---
 # Cernunnos (The Horned Lord) [CG]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Category** Empyreal Lords
 **Edicts** Protect forests and other natural areas, advocate for animals and plants, take and commit to decisive actions
 **Anathema** Fail to strike down evil, enable the destruction of wilderness, needlessly kill animals
@@ -40,9 +41,9 @@ type: Deity
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Strength or Constitution
-**Divine Font** _[[Heal]]_
-**Divine Skill** [[Survival]]
-**Favored Weapon** [[Longbow]]
-**Domains** [[Lightning Domain]], [[Nature Domain]], [[Passion Domain]], [[Zeal Domain]]
-**Cleric Spells** 1st: _[[True Strike]]_, 2nd: _[[Animal Form]]_, 3rd: _[[Lightning Bolt]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Strength or Constitution
+**Divine Font** _[[DATABASE/spell/Heal|heal]]_
+**Divine Skill** [[DATABASE/skill/Survival|Survival]]
+**Favored Weapon** [[DATABASE/weapon/Longbow|longbow]]
+**Domains** [[DATABASE/domain/Lightning Domain|lightning]], [[DATABASE/domain/Nature Domain|nature]], [[DATABASE/domain/Passion Domain|passion]], [[DATABASE/domain/Zeal Domain|zeal]]
+**Cleric Spells** 1st: _[[DATABASE/spell/True Strike|true strike]]_, 2nd: _[[DATABASE/spell/Animal Form|animal form]]_, 3rd: _[[DATABASE/spell/Lightning Bolt|lightning bolt]]_

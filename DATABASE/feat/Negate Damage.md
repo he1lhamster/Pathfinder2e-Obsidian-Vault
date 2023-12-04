@@ -11,6 +11,7 @@ name: Negate Damage
 prerequisite: '[[DATABASE/inventorinnovation/Armor Innovation|armor innovation]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Negate Damage <span class="action-icon">5</span> <span class="item-type">Feat 18</span>
 
 <span class="item-trait">Inventor</span>
-**Source** [[Guns & Gears]]
-**Prerequisites** [[Armor Innovation]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Prerequisites** [[DATABASE/inventorinnovation/Armor Innovation|armor innovation]]
 **Trigger** You would take damage
 
 ---

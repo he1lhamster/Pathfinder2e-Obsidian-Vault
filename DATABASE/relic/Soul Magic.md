@@ -5,6 +5,7 @@ item_category: Relics
 name: Soul Magic
 prerequisite: null
 rarity: Common
+rus_type_level: null
 school: Enchantment
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 trait:
@@ -16,8 +17,8 @@ type: Relic Grand Gift
 # Soul Magic<span class="item-type">Grand Gift</span>
 
 <span class="item-trait">Enchantment</span><span class="item-trait">Mental</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Aspect** soul
 
 ---
-**Activate** <span class="action-icon">1</span> envision **Frequency** once per day; **Effect** You infuse yourself or a willing creature that you touch with spiritual energy. This has the effect of [[Divine Inspiration]].
+**Activate** <span class="action-icon">1</span> envision **Frequency** once per day; **Effect** You infuse yourself or a willing creature that you touch with spiritual energy. This has the effect of [[DATABASE/spell/Divine Inspiration|divine inspiration]].

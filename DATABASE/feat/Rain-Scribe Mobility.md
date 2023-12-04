@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Magaambyan Attendant Dedication|Magaambyan Attend
   Dedication]] ; Rain-Scribes affiliation'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Rain-Scribe Mobility <span class="action-icon">2</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Character Guide]] 
-**Archetype** [[Magaambyan Attendant]]
-**Prerequisites** [[Magaambyan Attendant Dedication]]; Rain-Scribes affiliation
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
+**Archetype** [[DATABASE/archetype/Magaambyan Attendant|Magaambyan Attendant]]
+**Prerequisites** [[DATABASE/feat/Magaambyan Attendant Dedication|Magaambyan Attendant Dedication]]; Rain-Scribes affiliation
 
 ---
 You surround yourself in a mantle of Rain-Scribe magic and Stride twice; difficult terrain does not reduce your Speed, even if the difficult terrain has been manipulated by magic. Your magic clears the difficult terrain in each square you entered; until your next turn, those squares aren’t difficult terrain for any creature walking through them (or are normal difficult terrain if they were previously greater difficult terrain).

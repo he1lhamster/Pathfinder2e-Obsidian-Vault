@@ -16,6 +16,7 @@ price: 30,000 gp
 rarity: Rare
 reflex: null
 resistance: null
+rus_type_level: null
 school: null
 size: Gargantuan
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
@@ -28,7 +29,7 @@ type: Vehicle
 # Helepolis<span class="item-type">Vehicle 16</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-size item-trait">Gargantuan</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 30,000 gp
 
 ---
@@ -37,7 +38,7 @@ The helepolis uses both pushed propulsion and turned propulsion to turn a capsta
 ---
 **Space** 65 feet long, 65 feet wide, 130 feet high
 **Crew** 1 pilot, 200 turners, 3,000 pushers; **Passengers** 306
-**Piloting Check** [[Diplomacy]] (DC 37), [[Intimidation]] (DC 37), or [[Lore]] (DC 35)
+**Piloting Check** [[DATABASE/skill/Diplomacy|Diplomacy]] (DC 37), [[DATABASE/skill/Intimidation|Intimidation]] (DC 37), or [[DATABASE/skill/Lore|Warfare Lore]] (DC 35)
 
 ---
 **AC** 34; **Fort** +28

@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Calamity Glass<span class="item-type">Item 11</span>
 
 <span class="item-trait">Cursed</span><span class="item-trait">Divination</span><span class="item-trait">Magical</span><span class="item-trait">Scrying</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Usage** held in 1 hand; **Bulk** L
 
 ---

@@ -79,16 +79,16 @@ wisdom: '+0'
 # Ochre Jelly
 
 Ochre jellies are animate masses of protoplasm with a sickly combination of yellow, orange, and brown hues. Their acidic bodies dissolve flesh but leave other materials, including a victim’s gear and bones, intact. Some ancient cultures would entomb bodies in stone sarcophaguses with ochre jellies to allow the ooze to break down the flesh and clean and polish the bones.
-**Recall Knowledge - Ooze ([[Occultism]])**: DC 20
+**Recall Knowledge - Ooze ([[DATABASE/skill/Occultism|Occultism]])**: DC 20
 **Unspecific Lore**: DC 18
 **Specific Lore**: DC 15
 
 # Ochre Jelly<span class="item-type">Creature 5</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Mindless</span><span class="item-trait">Ooze</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +7; motion sense 60 feet, no vision
-**Skills** [[Athletics]] +13
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +13
 **Str** +4, **Dex** -5, **Con** +6, **Int** -5, **Wis** +0, **Cha** -5
 **Motion Sense** A ochre jelly can sense nearby motion through vibration and air movement.
 
@@ -99,4 +99,4 @@ Ochre jellies are animate masses of protoplasm with a sickly combination of yell
 
 ---
 **Speed** 15 feet, climb 10 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> pseudopod +15 [+10/+5], **Damage** 1d8+7 bludgeoning plus 2d4 acid and Grab</span><span class="in-box-ability">**[[Constrict]]** <span class="action-icon">1</span> 1d8+3 bludgeoning plus 1d4 acid, DC 23</span><span class="in-box-ability">**Ochre Acid** An ochre jelly's acid damages only flesh—not bone, stone, wood, or other materials.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> pseudopod +15 [+10/+5], **Damage** 1d8+7 bludgeoning plus 2d4 acid and Grab</span><span class="in-box-ability">**[[DATABASE/monsterability/Constrict|Constrict]]** <span class="action-icon">1</span> 1d8+3 bludgeoning plus 1d4 acid, DC 23</span><span class="in-box-ability">**Ochre Acid** An ochre jelly's acid damages only flesh—not bone, stone, wood, or other materials.</span>

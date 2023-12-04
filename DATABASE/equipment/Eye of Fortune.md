@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 size: null
@@ -54,10 +55,10 @@ weapon_type: null
 # Eye of Fortune<span class="item-type">Item 13</span>
 
 <span class="item-trait">Divination</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 2,700 gp
 **Usage** worn eyepiece; **Bulk** —
 
 ---
-Adherents of [[Erastil]], god of the hunt, create these magical eye patches. An eye of fortune has a jeweled eye symbol on its front, allowing you to magically see through the eye patch as though it were transparent.
+Adherents of [[DATABASE/deity/Erastil|Erastil]], god of the hunt, create these magical eye patches. An eye of fortune has a jeweled eye symbol on its front, allowing you to magically see through the eye patch as though it were transparent.
 **Activate** <span class="action-icon">4</span> envision (fortune) **Trigger** You attack a concealed or hidden creature and haven’t attempted the flat check yet; **Effect** You can roll the flat check for the concealed or hidden condition twice and use the higher result.

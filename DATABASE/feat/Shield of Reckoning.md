@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/class_/Champion|champion''s reaction]] ; [[DATABASE/fe
   Warden|Shield Warden]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -26,8 +27,8 @@ type: Feat
 # Shield of Reckoning <span class="action-icon">5</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Champion</span><span class="item-trait">Flourish</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Champion]]; [[Shield Warden]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/class_/Champion|champion's reaction]]; [[DATABASE/feat/Shield Warden|Shield Warden]]
 **Trigger** A foe’s attack against an ally matches the trigger for both your Shield Block reaction and your champion’s reaction.
 
 ---

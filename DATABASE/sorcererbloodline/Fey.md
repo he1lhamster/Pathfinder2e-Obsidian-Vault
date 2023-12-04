@@ -3,6 +3,7 @@ bloodline: Fey
 id: '7'
 name: Fey
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 spell:
 - '[[DATABASE/spell/Charm|Charm]]'
@@ -24,10 +25,10 @@ type: Sorcerer Bloodline
 ---
 # Fey
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Fey whimsy or a tryst in a moonlit grove put the bewitching magic of the First World into your family’s bloodline.
 **Spell List** primal
-**Bloodline Skills** [[Deception]], [[Nature]]
-**Granted Spells** cantrip: [[Ghost Sound]], 1st: [[Charm]], 2nd: [[Hideous Laughter]], 3rd: [[Enthrall]], 4th: [[Suggestion]], 5th: [[Cloak of Colors]], 6th: [[Mislead]], 7th: [[Visions of Danger]], 8th: [[Uncontrollable Dance]], 9th: [[Resplendent Mansion]]
-**Bloodline Spells** initial: [[Faerie Dust]], advanced: [[Fey Disappearance]], greater: [[Fey Glamour]]
+**Bloodline Skills** [[DATABASE/skill/Deception|Deception]], [[DATABASE/skill/Nature|Nature]]
+**Granted Spells** cantrip: [[DATABASE/spell/Ghost Sound|ghost sound]], 1st: [[DATABASE/spell/Charm|charm]], 2nd: [[DATABASE/spell/Hideous Laughter|hideous laughter]], 3rd: [[DATABASE/spell/Enthrall|enthrall]], 4th: [[DATABASE/spell/Suggestion|suggestion]], 5th: [[DATABASE/spell/Cloak of Colors|cloak of colors]], 6th: [[DATABASE/spell/Mislead|mislead]], 7th: [[DATABASE/spell/Visions of Danger|visions of danger]], 8th: [[DATABASE/spell/Uncontrollable Dance|uncontrollable dance]], 9th: [[DATABASE/spell/Resplendent Mansion|resplendent mansion]]
+**Bloodline Spells** initial: [[DATABASE/spell/Faerie Dust|faerie dust]], advanced: [[DATABASE/spell/Fey Disappearance|fey disappearance]], greater: [[DATABASE/spell/Fey Glamour|fey glamour]]
 **Blood Magic** Colorful fey glamours dance around you or one target, causing them to be concealed for 1 round. Such obvious concealment can’t be used to Hide.

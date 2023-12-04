@@ -23,6 +23,7 @@ follower_alignment:
 id: '127'
 name: Shei
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Society|Society]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -32,7 +33,7 @@ type: Deity
 ---
 # Shei (The Ibis Matron) [NG]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Category** Empyreal Lords
 **Edicts** Empower local communities, learn from elders, share and teach from experiences
 **Anathema** Force others to follow your path, inflict negative damage, age others or steal life with magic
@@ -40,9 +41,9 @@ type: Deity
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Intelligence or Charisma
-**Divine Font** _[[Heal]]_
-**Divine Skill** [[Society]]
-**Favored Weapon** [[Sickle]]
-**Domains** [[Family Domain]], [[Freedom Domain]], [[Healing Domain]], [[Perfection Domain]]
-**Cleric Spells** 1st: _[[Liberating Command]]_, 3rd: _[[Hypercognition]]_, 5th: _[[Dreaming Potential]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Intelligence or Charisma
+**Divine Font** _[[DATABASE/spell/Heal|heal]]_
+**Divine Skill** [[DATABASE/skill/Society|Society]]
+**Favored Weapon** [[DATABASE/weapon/Sickle|sickle]]
+**Domains** [[DATABASE/domain/Family Domain|family]], [[DATABASE/domain/Freedom Domain|freedom]], [[DATABASE/domain/Healing Domain|healing]], [[DATABASE/domain/Perfection Domain|perfection]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Liberating Command|liberating command]]_, 3rd: _[[DATABASE/spell/Hypercognition|hypercognition]]_, 5th: _[[DATABASE/spell/Dreaming Potential|dreaming potential]]_

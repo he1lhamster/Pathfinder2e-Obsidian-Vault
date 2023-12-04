@@ -65,20 +65,20 @@ wisdom: '+0'
 # Stag Lord Bandit
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 16
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
 # Stag Lord Bandit<span class="item-type">Creature 0</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 Human bandit
 **Perception** +4
-**Languages** [[Common]]
-**Skills** [[Athletics]] +4, [[Intimidation]] +4, [[Nature]] +4, [[Stealth]] +5, [[Survival]] +4
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +4, [[DATABASE/skill/Intimidation|Intimidation]] +4, [[DATABASE/skill/Nature|Nature]] +4, [[DATABASE/skill/Stealth|Stealth]] +5, [[DATABASE/skill/Survival|Survival]] +4
 **Str** +2, **Dex** +3, **Con** +2, **Int** +0, **Wis** +0, **Cha** +0
-**Items** [[Healing Potion]], 1d8 gp, [[Composite Longbow]], [[Longsword]], silver Stag Lord amulet, [[Studded Leather Armor]]
+**Items** [[DATABASE/equipment/Healing Potion|lesser healing potion]], 1d8 gp, [[DATABASE/weapon/Composite Longbow|composite longbow (20 arrows)]], [[DATABASE/weapon/Longsword|longsword]], silver Stag Lord amulet, [[DATABASE/armor/Studded Leather Armor|studded leather]]
 
 ---
 **AC** 15; **Fort** +6, **Ref** +7, **Will** +4

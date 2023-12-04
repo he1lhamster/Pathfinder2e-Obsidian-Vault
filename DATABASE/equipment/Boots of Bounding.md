@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Boots of Bounding<span class="item-type">Item 7+</span>
 
 <span class="item-trait">Invested</span><span class="item-trait">Magical</span><span class="item-trait">Transmutation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** worn shoes; **Bulk** —
 
 ---
@@ -62,13 +63,13 @@ The springy soles of these sturdy leather boots cushion your feet and make each 
 
 ## Boots of Bounding<span class="item-type">Item 7</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 340 gp
 **Bulk** L
 
 ## Boots of Bounding (Greater)<span class="item-type">Item 14</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 4,250 gp
 **Bulk** L
 The bonus to Speed is +10 feet, and the bonus to High Jump and Long Jump is +3.

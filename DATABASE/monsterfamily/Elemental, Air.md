@@ -3,6 +3,7 @@ creature_family: Elemental, Air
 id: '41'
 name: Elemental, Air
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Elemental, Air
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Hailing from the Plane of Air, these beings appear in a variety of sizes and shapes.
 
 ### Members
 
-[[Belker]] (Creature 6), [[Despairing Pall]] (Creature 1), [[Elemental Hurricane]] (Creature 11), [[Invisible Stalker]] (Creature 7), [[Living Thunderclap]] (Creature 4), [[Living Whirlwind]] (Creature 5), [[Melody On The Wind]] (Creature 10), [[Picture-in-Cloud]] (Creature 13), [[Spark Bat]] (Creature 2), [[Storm Lord]] (Creature 9), [[Veiled Current]] (Creature 8), [[Zephyr Hawk]] (Creature 3)
+[[DATABASE/monster/Belker|Belker]] (Creature 6), [[DATABASE/monster/Despairing Pall|Despairing Pall]] (Creature 1), [[DATABASE/monster/Elemental Hurricane|Elemental Hurricane]] (Creature 11), [[DATABASE/monster/Invisible Stalker|Invisible Stalker]] (Creature 7), [[DATABASE/monster/Living Thunderclap|Living Thunderclap]] (Creature 4), [[DATABASE/monster/Living Whirlwind|Living Whirlwind]] (Creature 5), [[DATABASE/monster/Melody On The Wind|Melody On The Wind]] (Creature 10), [[DATABASE/monster/Picture-in-Cloud|Picture-in-Cloud]] (Creature 13), [[DATABASE/monster/Spark Bat|Spark Bat]] (Creature 2), [[DATABASE/monster/Storm Lord|Storm Lord]] (Creature 9), [[DATABASE/monster/Veiled Current|Veiled Current]] (Creature 8), [[DATABASE/monster/Zephyr Hawk|Zephyr Hawk]] (Creature 3)
 
 ###  "Civilized" Elementals
 
@@ -23,7 +24,7 @@ Some elementals, such as invisible stalkers, xorns, and salamanders, have specif
 
 ###  Diverse Elementals
 
-The Elemental Planes are more than expanses of sky, rock, fire, and ocean. Clouds of fog, dust, and storms float through the [[Plane of Air]]. The [[Plane of Earth]] includes verdant groves, shining metal and crystal, and irradiated wastelands. The [[Plane of Fire]] features magma, suffocating smoke, and radiant firelight. Amid the endless sea of the [[Plane of Water]] are pockets of ooze and brine, plus the otherworldly environs of the deep.
+The Elemental Planes are more than expanses of sky, rock, fire, and ocean. Clouds of fog, dust, and storms float through the [[DATABASE/plane/Plane of Air|Plane of Air]]. The [[DATABASE/plane/Plane of Earth|Plane of Earth]] includes verdant groves, shining metal and crystal, and irradiated wastelands. The [[DATABASE/plane/Plane of Fire|Plane of Fire]] features magma, suffocating smoke, and radiant firelight. Amid the endless sea of the [[DATABASE/plane/Plane of Water|Plane of Water]] are pockets of ooze and brine, plus the otherworldly environs of the deep.
 
 ###  Elemental Beings
 
@@ -43,7 +44,7 @@ Where the boundary between planes wears thin, elementals manifest in the world t
 
 ###  Invisible Courtiers
 
-Formless and invisible elementals are the favored children of [[Hshurha]], the air elementals' mother goddess. They receive favorable treatment in her realm, Verglas Precessional, where they serve as trusted advisors, emissaries to other planes, and members of her personal retinue, in addition to performing clandestine tasks the goddess wishes to keep hidden.
+Formless and invisible elementals are the favored children of [[DATABASE/deity/Hshurha|Hshurha]], the air elementals' mother goddess. They receive favorable treatment in her realm, Verglas Precessional, where they serve as trusted advisors, emissaries to other planes, and members of her personal retinue, in addition to performing clandestine tasks the goddess wishes to keep hidden.
 
 ###  Monstrous Elementals
 
@@ -63,5 +64,5 @@ Air elementals are often flighty contrarians, often more concerned with bringing
 
 ## Elemental
 
-**Related Groups** [[Elemental, Earth]], [[Elemental, Fire]], [[Elemental, Mephit]], [[Elemental, Metal]], [[Elemental, Water]], [[Elemental, Wisp]], [[Elemental, Wood]]
+**Related Groups** [[DATABASE/monsterfamily/Elemental, Earth|Elemental, Earth]], [[DATABASE/monsterfamily/Elemental, Fire|Elemental, Fire]], [[DATABASE/monsterfamily/Elemental, Mephit|Elemental, Mephit]], [[DATABASE/monsterfamily/Elemental, Metal|Elemental, Metal]], [[DATABASE/monsterfamily/Elemental, Water|Elemental, Water]], [[DATABASE/monsterfamily/Elemental, Wisp|Elemental, Wisp]], [[DATABASE/monsterfamily/Elemental, Wood|Elemental, Wood]]
 The Elemental Planes—primordial realms defined by aspects of air, earth, fire, or water—are home to a diverse group of beings known as elementals. Spellcasters on the Material Plane call upon elementals for aid, though these enigmatic creatures can also travel to the world of mortals via interplanar gateways and rifts. The elementals on these pages exemplify the creatures of the Elemental Planes, but this list is by no means exhaustive.

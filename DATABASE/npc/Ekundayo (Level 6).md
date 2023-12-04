@@ -77,20 +77,20 @@ wisdom: '+2'
 # Ekundayo (Level 6)
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 32
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 32
 **Unspecific Lore**: DC 30
 **Specific Lore**: DC 27
 
 # Ekundayo (Level 6)<span class="item-type">Creature 6</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">LG</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Kingmaker Companion Guide]]
-Male [[Skilled Heritage]] human ranger ([[Artisan]] background)
+**Source** [[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]
+Male [[DATABASE/heritage/Skilled Heritage|skilled]] human ranger ([[DATABASE/background/Artisan|Artisan]] background)
 **Perception** +12; (expert) 
-**Languages** [[Common]], [[Jotun]]
-**Skills** [[Acrobatics]] +13, [[Athletics]] +10, [[Crafting]] +11 (+12 to woodworking; expert), [[Lore]] +9, [[Lore]] +9, [[Lore]] +11 (expert), [[Nature]] +10, [[Stealth]] +12, [[Survival]] +13 (expert)
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Jotun|Jotun]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +13, [[DATABASE/skill/Athletics|Athletics]] +10, [[DATABASE/skill/Crafting|Crafting]] +11 (+12 to woodworking; expert), [[DATABASE/skill/Lore|Giant Lore]] +9, [[DATABASE/skill/Lore|Guild Lore]] +9, [[DATABASE/skill/Lore|Hunting Lore]] +11 (expert), [[DATABASE/skill/Nature|Nature]] +10, [[DATABASE/skill/Stealth|Stealth]] +12, [[DATABASE/skill/Survival|Survival]] +13 (expert)
 **Str** +2, **Dex** +4, **Con** +3, **Int** +1, **Wis** +2, **Cha** +0
-**Items** _+1 [[Longsword]]_, _[[Magic Weapon]] [[Composite Longbow]] (20 arrows)_, [[Bag of Holding]], basic woodworker's book, [[Bedroll]], [[Boots of Elvenkind]], [[Compass]], [[Coyote Cloak]], [[Explorer's Clothing]], [[Flint and Steel]], [[Leather Armor]], [[Acid Flask]], [[Alchemist's Fire]], [[Healing Potion]], [[Rations]], [[Rope]], [[Torch]], [[Waterskin]], [[Tool]]
+**Items** _+1 [[DATABASE/weapon/Longsword|longsword]]_, _[[DATABASE/equipment/Magic Weapon|+1 striking]] [[DATABASE/weapon/Composite Longbow|composite longbow]] (20 arrows)_, [[DATABASE/equipment/Bag of Holding|bag of holding type I]], basic woodworker's book, [[DATABASE/equipment/Bedroll|bedroll]], [[DATABASE/equipment/Boots of Elvenkind|boots of elvenkind]], [[DATABASE/equipment/Compass|compass]], [[DATABASE/equipment/Coyote Cloak|coyote cloak]], [[DATABASE/armor/Explorer's Clothing|explorer's clothing]], [[DATABASE/equipment/Flint and Steel|flint and steel]], [[DATABASE/armor/Leather Armor|leather armor]], [[DATABASE/equipment/Acid Flask|lesser acid flask (3)]], [[DATABASE/equipment/Alchemist's Fire|lesser alchemist's fire (3)]], [[DATABASE/equipment/Healing Potion|lesser healing potions (3)]], [[DATABASE/equipment/Rations|rations (1 week)]], [[DATABASE/equipment/Rope|rope (50 feet)]], [[DATABASE/equipment/Torch|torches (3)]], [[DATABASE/equipment/Waterskin|waterskin]], [[DATABASE/equipment/Tool|woodworker's artisan tools]]
 
 ---
 **AC** 23; **Fort** +13, **Ref** +14, **Will** +12
@@ -98,4 +98,4 @@ Male [[Skilled Heritage]] human ranger ([[Artisan]] background)
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _longsword_ +13 [+8/+3] (versatile P), **Damage** 1d8+2 slashing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _composite longbow_ +15 [+10/+5] (deadly d10, propulsive, range 100 feet, volley 30 feet), **Damage** 2d8+2 piercing</span><span class="in-box-ability">**Hunter's Edge** </span><span class="in-box-ability">**Ancestry Feats** [[General Training]] ([[Toughness]]), [[Natural Ambition]] ([[Monster Hunter]])</span><span class="in-box-ability">**Class Feats** [[Animal Companion]]([[Ekundayo's Dog]]), [[Giant Hunter]], [[Hunted Shot]], [[Animal Companion]], [[Monster Hunter]]</span><span class="in-box-ability">**Class Abilities** Hunt Prey, Hunter's Edge ([[Precision]]), Iron Will, Trackless Step, Weapon Expertise</span><span class="in-box-ability">**General Feats** [[Incredible Initiative]], [[Toughness]]</span><span class="in-box-ability">**[[Hunt Prey]]** <span class="action-icon">1</span> (concentrate) </span><span class="in-box-ability">**[[Hunted Shot]]** <span class="action-icon">1</span> (flourish) </span><span class="in-box-ability">**Skill Feats** [[Magic Domain]], [[I]] (woodworking), [[Titan Wrestler]], [[Train Animal]]</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _longsword_ +13 [+8/+3] (versatile P), **Damage** 1d8+2 slashing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _composite longbow_ +15 [+10/+5] (deadly d10, propulsive, range 100 feet, volley 30 feet), **Damage** 2d8+2 piercing</span><span class="in-box-ability">**Hunter's Edge** </span><span class="in-box-ability">**Ancestry Feats** [[DATABASE/feat/General Training|General Training]] ([[DATABASE/feat/Toughness|Toughness]]), [[DATABASE/feat/Natural Ambition|Natural Ambition]] ([[DATABASE/feat/Monster Hunter|Monster Hunter]])</span><span class="in-box-ability">**Class Feats** [[DATABASE/feat/Animal Companion|Animal Companion]]([[DATABASE/monster/Ekundayo's Dog|Ekundayo's Dog]]), [[DATABASE/feat/Giant Hunter|Giant Hunter]], [[DATABASE/feat/Hunted Shot|Hunted Shot]], [[DATABASE/feat/Animal Companion|Mature Animal Companion]], [[DATABASE/feat/Monster Hunter|Monster Hunter]]</span><span class="in-box-ability">**Class Abilities** Hunt Prey, Hunter's Edge ([[DATABASE/rangerhuntersedge/Precision|precision]]), Iron Will, Trackless Step, Weapon Expertise</span><span class="in-box-ability">**General Feats** [[DATABASE/feat/Incredible Initiative|Incredible Initiative]], [[DATABASE/feat/Toughness|Toughness]]</span><span class="in-box-ability">**[[DATABASE/action/Hunt Prey|Hunt Prey]]** <span class="action-icon">1</span> (concentrate) </span><span class="in-box-ability">**[[DATABASE/feat/Hunted Shot|Hunted Shot]]** <span class="action-icon">1</span> (flourish) </span><span class="in-box-ability">**Skill Feats** [[DATABASE/domain/Magic Domain|Magical Crafting]], [[DATABASE/monster/I|Specialty Crafting]] (woodworking), [[DATABASE/feat/Titan Wrestler|Titan Wrestler]], [[DATABASE/feat/Train Animal|Train Animal]]</span>

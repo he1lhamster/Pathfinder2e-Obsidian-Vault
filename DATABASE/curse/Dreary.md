@@ -4,6 +4,7 @@ id: '7'
 level: '3'
 name: Dreary
 rarity: Rare
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
@@ -19,6 +20,6 @@ usage: curses armor
 # Dreary<span class="item-type">Curse 3</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Conjuration</span><span class="item-trait">Cursed</span><span class="item-trait">Magical</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Usage** curses armor
 When you invest this armor, a personal-sized cloud appears over your head and begins to rain on you, and the armor fuses to you. This extinguishes uncovered flames and soaks other objects you are carrying or holding, potentially ruining them. Cold conditions are one step worse under the cloud, and at the GM’s discretion it might cause other problems, such as interfering with sleep.

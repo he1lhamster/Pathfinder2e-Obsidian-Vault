@@ -3,6 +3,7 @@ creature_family: Mercenaries
 id: '190'
 name: Mercenaries
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Mercenaries
 
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 A broad category that includes those wielding arms, spells, or even guile and cunning, mercenaries hire themselves and their expertise to those with the gold to pay for it.
 
 ### Members
 
-[[Bodyguard]] (Creature 1), [[Bounty Hunter]] (Creature 4), [[Mage for Hire]] (Creature 3), [[Monster Hunter]] (Creature 6)
+[[DATABASE/npc/Bodyguard|Bodyguard]] (Creature 1), [[DATABASE/npc/Bounty Hunter|Bounty Hunter]] (Creature 4), [[DATABASE/npc/Mage for Hire|Mage for Hire]] (Creature 3), [[DATABASE/npc/Monster Hunter|Monster Hunter]] (Creature 6)
 
 ###  Bribing Mercenaries
 

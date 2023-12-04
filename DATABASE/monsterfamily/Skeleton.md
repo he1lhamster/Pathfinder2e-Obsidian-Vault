@@ -3,6 +3,7 @@ creature_family: Skeleton
 id: '92'
 name: Skeleton
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,7 +11,7 @@ type: Creature Family
 ---
 # Skeleton
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Made from bones held together by foul necromancy, skeletons are among the most common types of undead, found haunting old dungeons and forgotten cemeteries.
 
 ## Skeleton Abilities
@@ -19,34 +20,34 @@ Most skeletons have one of these abilities. If you give a skeleton more, you mig
 
 ### Bestiary
 
-**Bloody** The skeleton is covered in dripping blood and gains [[Fast Healing]] equal to its level. 
- **Collapse** <span class="action-icon">5</span> **Trigger** The skeleton is critically hit. **Effect** The skeleton collapses into a pile of bones and the attack deals only normal damage. The skeleton can reform in a standing position as an action, but until it does, it is [[Immobilized]] and [[Flat-Footed]].
+**Bloody** The skeleton is covered in dripping blood and gains [[DATABASE/monsterability/Fast Healing|fast healing]] equal to its level. 
+ **Collapse** <span class="action-icon">5</span> **Trigger** The skeleton is critically hit. **Effect** The skeleton collapses into a pile of bones and the attack deals only normal damage. The skeleton can reform in a standing position as an action, but until it does, it is [[DATABASE/condition/Immobilized|immobilized]] and [[DATABASE/condition/Flat-Footed|flat-footed]].
  **Explosive Death** When the skeleton is destroyed, its bones shatter and explode as the necromantic energy holding it together is released. Adjacent creatures take 1d6 slashing damage per 2 levels (minimum 1d6) with a basic Reflex save.
- **Screaming Skull** <span class="action-icon">2</span> (auditory, emotion, fear, mental) The skeleton removes its skull and throws it, making a jaws attack with a range of 20 feet. It then attempts to [[Demoralize]] each foe within 10 feet of the target. The head bounces, rolls, or even flies back, returning to the skeleton at the start of its next turn. The skeleton is [[Blinded]] until then.
+ **Screaming Skull** <span class="action-icon">2</span> (auditory, emotion, fear, mental) The skeleton removes its skull and throws it, making a jaws attack with a range of 20 feet. It then attempts to [[DATABASE/action/Demoralize|Demoralize]] each foe within 10 feet of the target. The head bounces, rolls, or even flies back, returning to the skeleton at the start of its next turn. The skeleton is [[DATABASE/condition/Blinded|blind]] until then.
 
 ### Bestiary 3
 
-**Blaze** The skeleton is wreathed with fire, which doesn't consume its bones or gear. The skeleton gains immunity to fire and weakness 5 to cold, loses its resistance to cold, and its Strikes deal additional [[Persistent Damage]] equal to half the skeleton's level (minimum 1 damage).
+**Blaze** The skeleton is wreathed with fire, which doesn't consume its bones or gear. The skeleton gains immunity to fire and weakness 5 to cold, loses its resistance to cold, and its Strikes deal additional [[DATABASE/condition/Persistent Damage|persistent fire damage]] equal to half the skeleton's level (minimum 1 damage).
  
  **Bone Missile** <span class="action-icon">2</span> The skeleton yanks a rib from its ribcage to use as an arrow or javelin. The skeleton loses HP equal to its level (minimum 1), then makes a ranged Strike. This uses the attack bonus of whichever of the skeleton's other Strikes has the highest attack bonus and deals piercing damage equal to that Strike's damage plus the skeleton's level (minimum 1).
- **Bone Powder** **Source** When the skeleton takes physical damage from a critical hit, one of its bones is pulverized into a fine powder. All creatures in a 5-foot emanation that breathe take 1d6 [[Persistent Damage]] (plus an additional 1d6 for every 6 levels the skeleton has). 
+ **Bone Powder** **Source** When the skeleton takes physical damage from a critical hit, one of its bones is pulverized into a fine powder. All creatures in a 5-foot emanation that breathe take 1d6 [[DATABASE/condition/Persistent Damage|persistent poison damage]] (plus an additional 1d6 for every 6 levels the skeleton has). 
  **Skeleton of Roses** Thick briars have grown through the skeleton's bones, covering it in red roses with inch-long thorns. The skeleton's unarmed melee Strikes deal additional piercing damage equal to 1/3 the skeleton's level (minimum 1 damage). At the end of each of its turns, if the skeleton has caused piercing damage with its thorns, it regains HP equal to its level (minimum 1). Each time the skeleton regains HP in this way, another rose blossoms.
 
 ### Book of the Dead
 
-**Aquatic Bones** The skeleton has bones from aquatic creatures, allowing it to swim using a simple tail, paddles, or similar appendage. The skeleton has a swim Speed of 20 feet and gains the aquatic trait and the [[Aquatic Ambush]] ability.
+**Aquatic Bones** The skeleton has bones from aquatic creatures, allowing it to swim using a simple tail, paddles, or similar appendage. The skeleton has a swim Speed of 20 feet and gains the aquatic trait and the [[DATABASE/monsterability/Aquatic Ambush|aquatic ambush]] ability.
  **Bone Storm** <span class="action-icon">3</span> **Frequency** once per day; **Effect** The skeleton transforms into a cyclone of bones, taking up the same space, but twice as tall. It then Strides up to double its Speed. It can move through spaces occupied by other creatures, and this movement doesn't trigger reactions. Creatures the bone storm moves through take 1d6 slashing damage for every 2 levels of the skeleton, with a basic Reflex save against the hard DC for the creature's level. A level 1 or lower skeleton only moves; it doesn't deal damage. A creature attempts this save only once even if the bone storm moved through its space multiple times. At the end of the movement, the skeleton reforms.
  **Crumbling Bones** The skeleton is made from crumbling bones that drift in clouds of dust. The skeleton has a fly Speed of 20 but it must end its turn within no more than 5 feet off the ground, or it falls, taking damage as normal. In addition, the skeleton can move through any space that's large enough for its skull to fit through.
  **Frozen** The skeleton's bones are covered in a thin layer of ice. The skeleton gains immunity to cold and weakness 5 to fire and loses resistance to fire. The skeleton is surrounded by an aura of cold that deals cold damage equal to half the skeleton's level to all adjacent creatures at the start of the skeleton's turn (basic Reflex save with a standard DC for its level).
- **Grave Eruption** <span class="action-icon">2</span> **Requirements** The skeleton is [[Undetected]] and buried in dirt, gravel, or other loose material; **Effect** The skeleton erupts from the ground, Stands, and makes a melee Strike. The target is [[Flat-Footed]] against this Strike. If the Strike hits, the target is [[Frightened]] (or frightened 2 on a critical hit).
+ **Grave Eruption** <span class="action-icon">2</span> **Requirements** The skeleton is [[DATABASE/condition/Undetected|undetected]] and buried in dirt, gravel, or other loose material; **Effect** The skeleton erupts from the ground, Stands, and makes a melee Strike. The target is [[DATABASE/condition/Flat-Footed|flat-footed]] against this Strike. If the Strike hits, the target is [[DATABASE/condition/Frightened|frightened 1]] (or frightened 2 on a critical hit).
  **Lacquered** During the process to create the skeleton, it was covered with several layers of an alchemical lacquer, giving its bones a golden hue and granting added protection. The skeleton gains acid resistance 5 and a +2 status bonus to saves against effects that age or erode the target.
- **Nimble** The skeleton is particularly fast and nimble. Its land Speed increases by 10 feet and it has a climb Speed of 20 feet. In addition, it gains the [[Nimble Dodge]] reaction.
- **Rotten** The bones of this skeleton are black and rotten, having spent years in polluted water or some other foul substance. The skeleton loses its resistance to piercing and slashing damage and is surrounded by a horrific stench in a 10-foot aura. A creature entering or starting its turn in the aura must succeed at a Fortitude save against the standard DC of the skeleton's level or become [[Sickened]] (plus [[Slowed]] for as long as it remains sickened on a critical failure). While within the aura, affected creatures take a –2 circumstance penalty to saves against disease and to recover from the sickened condition. A creature that succeeds at its save is temporarily immune for 1 minute.
+ **Nimble** The skeleton is particularly fast and nimble. Its land Speed increases by 10 feet and it has a climb Speed of 20 feet. In addition, it gains the [[DATABASE/feat/Nimble Dodge|Nimble Dodge]] reaction.
+ **Rotten** The bones of this skeleton are black and rotten, having spent years in polluted water or some other foul substance. The skeleton loses its resistance to piercing and slashing damage and is surrounded by a horrific stench in a 10-foot aura. A creature entering or starting its turn in the aura must succeed at a Fortitude save against the standard DC of the skeleton's level or become [[DATABASE/condition/Sickened|sickened 1]] (plus [[DATABASE/condition/Slowed|slowed 1]] for as long as it remains sickened on a critical failure). While within the aura, affected creatures take a –2 circumstance penalty to saves against disease and to recover from the sickened condition. A creature that succeeds at its save is temporarily immune for 1 minute.
  This stench remains for 1 hour after the rotten skeleton has been destroyed unless the bones are burned, or the rot is washed away with at least 1 gallon of water.
 
 ### Members
 
-[[Beetle Carapace]] (Creature 6), [[Drake Skeleton]] (Creature 8), [[Harpy Skeleton]] (Creature 5), [[Skeletal Champion]] (Creature 2), [[Skeletal Giant]] (Creature 3), [[Skeletal Horse]] (Creature 2), [[Skeletal Hulk]] (Creature 7), [[Skeletal Mage]] (Creature 5), [[Skeletal Soldier]] (Creature 1), [[Skeletal Titan]] (Creature 13), [[Skeleton Guard]] (Creature -1), [[Skeleton Infantry]] (Creature 11), [[Tyrannosaurus Skeleton]] (Creature 9), [[Wolf Skeleton]] (Creature 0)
+[[DATABASE/monster/Beetle Carapace|Beetle Carapace]] (Creature 6), [[DATABASE/monster/Drake Skeleton|Drake Skeleton]] (Creature 8), [[DATABASE/monster/Harpy Skeleton|Harpy Skeleton]] (Creature 5), [[DATABASE/monster/Skeletal Champion|Skeletal Champion]] (Creature 2), [[DATABASE/monster/Skeletal Giant|Skeletal Giant]] (Creature 3), [[DATABASE/monster/Skeletal Horse|Skeletal Horse]] (Creature 2), [[DATABASE/monster/Skeletal Hulk|Skeletal Hulk]] (Creature 7), [[DATABASE/monster/Skeletal Mage|Skeletal Mage]] (Creature 5), [[DATABASE/monster/Skeletal Soldier|Skeletal Soldier]] (Creature 1), [[DATABASE/monster/Skeletal Titan|Skeletal Titan]] (Creature 13), [[DATABASE/monster/Skeleton Guard|Skeleton Guard]] (Creature -1), [[DATABASE/monster/Skeleton Infantry|Skeleton Infantry]] (Creature 11), [[DATABASE/monster/Tyrannosaurus Skeleton|Tyrannosaurus Skeleton]] (Creature 9), [[DATABASE/monster/Wolf Skeleton|Wolf Skeleton]] (Creature 0)
 
 ###  Creating Skeletons
 
@@ -62,7 +63,7 @@ A skeleton's connection to its mortal remains is tenuous. One that's damaged can
 
 ###  Radiant Rebirth
 
-When the powerful lich called the Whispering Tyrant returned from imprisonment, he unleashed the _Radiant Fire_ that laid waste to several towns and cities around his prison of Gallowspire. Most of the fallen were left where they died, slowly steeping in necromantic energy. In the early days after these attacks, [[Zombie]] commonly roamed the area, but as the years pass, skeletons have become more and more numerous.
+When the powerful lich called the Whispering Tyrant returned from imprisonment, he unleashed the _Radiant Fire_ that laid waste to several towns and cities around his prison of Gallowspire. Most of the fallen were left where they died, slowly steeping in necromantic energy. In the early days after these attacks, [[DATABASE/monsterfamily/Zombie|zombies]] commonly roamed the area, but as the years pass, skeletons have become more and more numerous.
 
 ###  Skeleton Origins
 

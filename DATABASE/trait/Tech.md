@@ -2,6 +2,7 @@
 id: '434'
 name: Tech
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - Tech
@@ -10,9 +11,8 @@ type: Trait
 ---
 # Tech
 
-**Source** [[Kingmaker Adventure Path]]
-_Note from Nethys: no description was provided for this trait_
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 
 ## Equipment
 
-[[Mindrender Baton]], [[Rod of Razors]]
+[[DATABASE/equipment/Mindrender Baton|Mindrender Baton]], [[DATABASE/equipment/Rod of Razors|Rod of Razors]]

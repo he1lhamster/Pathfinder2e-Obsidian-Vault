@@ -11,6 +11,7 @@ name: Six Pillars Stance
 prerequisite: '[[DATABASE/feat/Sixth Pillar Dedication|Sixth Pillar Dedication]]'
 rarity: Common
 requirement: You are unarmored.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Fists of the Ruby Phoenix Hardcover|Fists of the Ruby Phoenix
   Hardcover]]'
@@ -25,9 +26,9 @@ type: Feat
 # Six Pillars Stance <span class="action-icon">1</span> <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Stance</span>
-**Source** [[Fists of the Ruby Phoenix Hardcover]], [[Pathfinder 167. Ready Fight!]]
-**Archetype** [[Sixth Pillar]]
-**Prerequisites** [[Sixth Pillar Dedication]]
+**Source** [[DATABASE/source/Fists of the Ruby Phoenix Hardcover|Fists of the Ruby Phoenix Hardcover]], [[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]
+**Archetype** [[DATABASE/archetype/Sixth Pillar|Sixth Pillar]]
+**Prerequisites** [[DATABASE/feat/Sixth Pillar Dedication|Sixth Pillar Dedication]]
 **Requirements** You are unarmored.
 
 ---

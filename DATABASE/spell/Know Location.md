@@ -21,6 +21,7 @@ patron_theme: null
 range: 1 mile
 rarity: Rare
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Pathfinder 194. Cult of the Cave Worm|Pathfinder #194:
@@ -41,7 +42,7 @@ type: Spell
 # Know Location<span class="item-type">Spell 1</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Detection</span><span class="item-trait">Divination</span>
-**Source** [[Pathfinder 194. Cult of the Cave Worm]]
+**Source** [[DATABASE/source/Pathfinder 194. Cult of the Cave Worm|Pathfinder #194: Cult of the Cave Worm]]
 **Traditions** divine, occult, primal
 **Cast** 1 minute (somatic, verbal)
 **Range** 1 mile
@@ -54,4 +55,4 @@ You create an invisible anchor at a location within range (even if it's outside 
 ---
 **Heightened (3rd)** The range is 10 miles.
 **Heightened (5th)** The range is 100 miles.
-**Heightened (7th)** The range is planetary and you can create an anchor at a location you've viewed with [[Scrying]] or similar effects.
+**Heightened (7th)** The range is planetary and you can create an anchor at a location you've viewed with [[DATABASE/spell/Scrying|scrying]] or similar effects.

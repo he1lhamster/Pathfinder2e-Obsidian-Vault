@@ -5,6 +5,7 @@ item_category: Relics
 name: Fiendish Bargain
 prerequisite: null
 rarity: Common
+rus_type_level: null
 school: Divination
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
@@ -16,7 +17,7 @@ type: Relic Major Gift
 # Fiendish Bargain<span class="item-type">Major Gift</span>
 
 <span class="item-trait">Divination</span><span class="item-trait">Evil</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Aspect** fiend
 
 ---
@@ -28,7 +29,7 @@ type: Relic Major Gift
 
 One of the following randomly determined effects occurs to you in payment, after applying the benefit.
 
-* You are [[Stupefied]] for 1 minute. 
-* You are [[Clumsy]] for 1 minute. 
+* You are [[DATABASE/condition/Stupefied|stupefied 1]] for 1 minute. 
+* You are [[DATABASE/condition/Clumsy|clumsy 1]] for 1 minute. 
 * You lose 1d8 Hit Points. 
 * You take a –1 penalty to damage rolls for 1 minute.

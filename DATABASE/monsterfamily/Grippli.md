@@ -3,6 +3,7 @@ creature_family: Grippli
 id: '110'
 name: Grippli
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 146. Cult of Cinders|Pathfinder #146: Cult of
   Cinders]]'
 trait: null
@@ -11,22 +12,22 @@ type: Creature Family
 ---
 # Grippli
 
-**Source** [[Pathfinder 146. Cult of Cinders]]
+**Source** [[DATABASE/source/Pathfinder 146. Cult of Cinders|Pathfinder #146: Cult of Cinders]]
 Frog-like humanoids who make their homes in the treetops of tropical jungles and forests, gripplis are uniquely adapted to their environment. Their oversized eyes give them keen vision in both light and dark, and their large toes allow them to easily scale the trees atop which they reside. Gripplis vary widely in physical appearance, their physiologies largely determined by their surrounding environment; those who live in verdant forests, for example, typically have bright green skin and red eyes. In contrast, gripplis who live in regions of rot and decay have mottled brown coloration, and those who dwell near lakes or streams may bear bright blue and orange stripes. Typical gripplis are just over 2 feet tall and weigh approximately 30 pounds.
  Whatever region they come from, gripplis tend to be peaceful huntergatherers. Due to their modest understanding of agriculture, gripplis don’t raise crops in the traditional sense, although they do cultivate mushroom patches and gather a wide array of fruits from the surrounding wilderness. The jungle also contains rivers and lakes filled with silver-scaled fish, which gripplis harvest in a sustainable manner to ensure their future supply, as well as fatty insects that grow much larger than in other parts of the world. Some of the most advanced grippli societies capture and breed these insects, nurturing herds of giant dragonflies or beetles that are eventually slaughtered for food for the rest of the village. Particularly enterprising gripplis even seek out and tame huge flying insects to use as mounts during their hunts. The rearing of such massive insects is no easy feat, however, so gripplis who manage to do so are often heralded as local heroes.
  The treetop settlements of the grippli are difficult to spot from the forest floor. Gripplis obscure their holdings with broad leaves and thick branches, and they riddle the surrounding forest with labyrinthine trails that only they know how to navigate. Their villages are usually constructed among the densest populations of trees, with thin rope bridges strung between wide wooden platforms built around each trunk.
 
 ### Members
 
-[[Grippli Archer]] (Creature 3), [[Grippli Greenspeaker]] (Creature 5), [[Grippli Jinxer]] (Creature 6), [[Grippli Scout]] (Creature 1), [[Grippli Skirmisher]] (Creature 4)
+[[DATABASE/monster/Grippli Archer|Grippli Archer]] (Creature 3), [[DATABASE/monster/Grippli Greenspeaker|Grippli Greenspeaker]] (Creature 5), [[DATABASE/monster/Grippli Jinxer|Grippli Jinxer]] (Creature 6), [[DATABASE/monster/Grippli Scout|Grippli Scout]] (Creature 1), [[DATABASE/monster/Grippli Skirmisher|Grippli Skirmisher]] (Creature 4)
 
 ###  A History of Neutrality
 
-Grippli villages rarely get involved in the concerns of other communities, preferring to focus on maintaining relative peace within their own small societies. Legends explain this attitude with a tale of a grippli champion who dragged his people into a war between humans and [[Charau-ka]]. The stories differ as to which side the gripplis took, but every version ends with the bloody deaths of the hero and his family. Since that time, village elders claim, gripplis have done their best to remain far from the conflicts of others.
+Grippli villages rarely get involved in the concerns of other communities, preferring to focus on maintaining relative peace within their own small societies. Legends explain this attitude with a tale of a grippli champion who dragged his people into a war between humans and [[DATABASE/monsterfamily/Charau-ka|charau-kas]]. The stories differ as to which side the gripplis took, but every version ends with the bloody deaths of the hero and his family. Since that time, village elders claim, gripplis have done their best to remain far from the conflicts of others.
 
 ###  Baneback Origins
 
-Legends tell of a grippli warlord who bargained with the demon lord Jubilex to gain a foul power over poison and become the first baneback. He and his children—all of whom bore a malignant toxin— terrorized surrounding communities before being defeated and drawn into the [[Abyss]]. This legend explains gripplis' disdain for banebacks, though it's unclear if the trait is the lingering effect of a demonic bargain or simply a rare mutation.
+Legends tell of a grippli warlord who bargained with the demon lord Jubilex to gain a foul power over poison and become the first baneback. He and his children—all of whom bore a malignant toxin— terrorized surrounding communities before being defeated and drawn into the [[DATABASE/plane/Abyss|Abyss]]. This legend explains gripplis' disdain for banebacks, though it's unclear if the trait is the lingering effect of a demonic bargain or simply a rare mutation.
 
 ###  Grippli Minions
 
@@ -34,7 +35,7 @@ Gripplis keep company with few other intelligent species, but their close bond w
 
 ###  Rancorous Enclaves
 
-Exiled baneback sometimes band together to form their own villages, usually under the leadership of a jinxer. Given that some banebacks are violent malcontents, these villages don't last long unless the leader keeps order, usually by violence or fear. These villages often keep monstrous vermin, such as [[Giant Cockroach]], [[Giant Tsetse Fly]], or [[Giant Tick]] as guards or mascots.
+Exiled baneback sometimes band together to form their own villages, usually under the leadership of a jinxer. Given that some banebacks are violent malcontents, these villages don't last long unless the leader keeps order, usually by violence or fear. These villages often keep monstrous vermin, such as [[DATABASE/monster/Giant Cockroach|giant cockroaches]], [[DATABASE/monster/Giant Tsetse Fly|giant tsetse flies]], or [[DATABASE/monster/Giant Tick|giant ticks]] as guards or mascots.
 
 ###  Treasure for Trade
 

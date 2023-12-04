@@ -68,16 +68,16 @@ wisdom: '+2'
 # Platecarpus
 
 The mid-sized platecarpuses are the most common type of mosasaur. They're typically 15 feet long, but larger specimens can grow up to 20 feet. The larger varieties sometimes eat Medium humanoids, but most stick to smaller fare.
-**Recall Knowledge - Animal ([[Nature]])**: DC 18
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Platecarpus<span class="item-type">Creature 3</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary 3]]
-**Perception** +9; [[Low-Light Vision]], [[Scent]] (imprecise) 30 feet
-**Skills** [[Athletics]] +10, [[Stealth]] +11
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
+**Perception** +9; [[DATABASE/monsterability/Low-Light Vision|low-light vision]], [[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +10, [[DATABASE/skill/Stealth|Stealth]] +11
 **Str** +5, **Dex** +4, **Con** +3, **Int** -4, **Wis** +2, **Cha** -2
 **Deep Breath** A platecarpus can hold its breath for 2 hours.
 
@@ -87,4 +87,4 @@ The mid-sized platecarpuses are the most common type of mosasaur. They're typica
 
 ---
 **Speed** 5 feet, swim 35 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +12 [+7/+2], **Damage** 1d12+5 piercing plus [[Grab]]</span><span class="in-box-ability">**Aquatic Drag** <span class="action-icon">1</span> **Requirements** The platecarpus has a creature [[Grabbed]]; **Effect** The platecarpus Swims up to half its Speed, carrying the grabbed creature with it.</span><span class="in-box-ability">**Strafing Chomp** <span class="action-icon">1</span> The platecarpus Swims up to its Speed, making one jaws Strike at any point along the way. The Strike deals half damage.</span><span class="in-box-ability">**[[Swallow Whole]]** <span class="action-icon">1</span> (attack) Medium, 1d6+2 bludgeoning, Rupture 10</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +12 [+7/+2], **Damage** 1d12+5 piercing plus [[DATABASE/monsterability/Grab|Grab]]</span><span class="in-box-ability">**Aquatic Drag** <span class="action-icon">1</span> **Requirements** The platecarpus has a creature [[DATABASE/condition/Grabbed|grabbed]]; **Effect** The platecarpus Swims up to half its Speed, carrying the grabbed creature with it.</span><span class="in-box-ability">**Strafing Chomp** <span class="action-icon">1</span> The platecarpus Swims up to its Speed, making one jaws Strike at any point along the way. The Strike deals half damage.</span><span class="in-box-ability">**[[DATABASE/monsterability/Swallow Whole|Swallow Whole]]** <span class="action-icon">1</span> (attack) Medium, 1d6+2 bludgeoning, Rupture 10</span>

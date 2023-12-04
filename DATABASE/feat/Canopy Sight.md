@@ -11,6 +11,7 @@ name: Canopy Sight
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Canopy Sight <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Vanara</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 
 ---
 You can see equally well even in dense jungles where only a small amount of light shines through. You gain low-light vision.

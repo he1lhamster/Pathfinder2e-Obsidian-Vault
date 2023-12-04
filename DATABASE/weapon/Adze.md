@@ -12,6 +12,7 @@ name: Adze
 price: 1 gp
 range: null
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 trait:
 - '[[DATABASE/trait/Forceful|Forceful]]'
@@ -26,13 +27,13 @@ weapon_type: Melee
 # Adze
 
 <span class="item-trait">Forceful</span><span class="item-trait">Grippli</span><span class="item-trait">Sweep</span>
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 **Price** 1 gp; **Damage** 1d10 S; **Bulk** 2
 **Hands** 2
-**Type** Melee; **Category** Martial; **Group** [[Axe]]
+**Type** Melee; **Category** Martial; **Group** [[DATABASE/weapongroup/Axe|Axe]]
 
 ---
-A common cutting tool, an adze resembles an axe—but the cutting edge is horizontal, rather than vertical. The adze's shape makes it popular among wood workers, and [[Grippli]] builders often use them to construct their treetop homes. The tool also serves as an effective weapon, due in part to the immense strength required to swing it.
+A common cutting tool, an adze resembles an axe—but the cutting edge is horizontal, rather than vertical. The adze's shape makes it popular among wood workers, and [[DATABASE/monsterfamily/Grippli|grippli]] builders often use them to construct their treetop homes. The tool also serves as an effective weapon, due in part to the immense strength required to swing it.
 
 ## Traits
 
@@ -50,6 +51,6 @@ This weapon makes wide sweeping or spinning attacks, making it easier to attack 
 
 ## Critical Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
-**Axe**: Choose one creature adjacent to the initial target and within reach. If its AC is lower than your attack roll result for the critical hit, you deal damage to that creature equal to the result of the weapon damage die you rolled (including extra dice for its _[[Striking]]_ rune, if any). This amount isn't doubled, and no bonuses or other additional dice apply to this damage.
+**Axe**: Choose one creature adjacent to the initial target and within reach. If its AC is lower than your attack roll result for the critical hit, you deal damage to that creature equal to the result of the weapon damage die you rolled (including extra dice for its _[[DATABASE/equipment/Striking|striking]]_ rune, if any). This amount isn't doubled, and no bonuses or other additional dice apply to this damage.

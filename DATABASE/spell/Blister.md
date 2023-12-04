@@ -22,6 +22,7 @@ patron_theme: null
 range: 60 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Fortitude
 school: Necromancy
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
@@ -39,9 +40,9 @@ type: Spell
 # Blister<span class="item-type">Spell 5</span>
 
 <span class="item-trait">Necromancy</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Traditions** arcane, occult, primal
-**Deity** [[Fandarra]]
+**Deity** [[DATABASE/deity/Fandarra|Fandarra]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 60 feet; **Targets** 1 creature
 **Saving Throw** Fortitude; **Duration** 1 minute

@@ -11,6 +11,7 @@ name: Lunge
 prerequisite: null
 rarity: Common
 requirement: You are wielding a melee weapon.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Lunge <span class="action-icon">1</span> <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Fighter</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Requirements** You are wielding a melee weapon.
 
 ---
@@ -31,4 +32,4 @@ Extending your body to its limits, you attack an enemy that would normally be be
 
 ## Lunge Leads To...
 
-[[Lunging Stance]]
+[[DATABASE/feat/Lunging Stance|Lunging Stance]]

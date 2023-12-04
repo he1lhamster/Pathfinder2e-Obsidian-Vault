@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -54,20 +55,20 @@ weapon_type: null
 # Leaper's Elixir<span class="item-type">Item 1+</span>
 
 <span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Elixir</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
 ---
-This tingly solution increases the elasticity and contraction of your leg muscles. For 1 minute after drinking this elixir, you can [[High Jump]] or [[Long Jump]] as a single action instead of 2 actions. If you do, you don’t perform the initial [[Stride]] (nor do you fail if you don’t Stride 10 feet).
+This tingly solution increases the elasticity and contraction of your leg muscles. For 1 minute after drinking this elixir, you can [[DATABASE/action/High Jump|High Jump]] or [[DATABASE/action/Long Jump|Long Jump]] as a single action instead of 2 actions. If you do, you don’t perform the initial [[DATABASE/action/Stride|Stride]] (nor do you fail if you don’t Stride 10 feet).
 
 ## Leaper's Elixir (Lesser)<span class="item-type">Item 1</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 3 gp
 
 ## Leaper's Elixir (Greater)<span class="item-type">Item 7</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 55 gp
 The maximum vertical distance you can jump with a High Jump is the same as you can jump horizontally with a Long Jump.

@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Basic Summoner Spellcasting|Basic Summoner Spellc
   ; master in the skillassociated with youreidolon''stradition'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -24,16 +25,16 @@ type: Feat
 # Expert Summoner Spellcasting <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Secrets of Magic]] 
-**Archetype** [[Summoner]]
-**Prerequisites** [[Basic Summoner Spellcasting]]; master in the skill associated with your eidolon's tradition
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
+**Archetype** [[DATABASE/archetype/Summoner|Summoner]]
+**Prerequisites** [[DATABASE/feat/Basic Summoner Spellcasting|Basic Summoner Spellcasting]]; master in the skill associated with your eidolon's tradition
 
 ---
 You gain the expert bounded spellcasting benefits.
 
 ## Expert Summoner Spellcasting Leads To...
 
-[[Master Summoner Spellcasting]]
+[[DATABASE/feat/Master Summoner Spellcasting|Master Summoner Spellcasting]]
 
 ## Traits
 

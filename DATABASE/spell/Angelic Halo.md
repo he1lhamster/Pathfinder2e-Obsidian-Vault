@@ -20,6 +20,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -38,11 +39,11 @@ type: Focus
 # Angelic Halo<span class="item-type">Focus 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Abjuration</span><span class="item-trait">Aura</span><span class="item-trait">Good</span><span class="item-trait">Sorcerer</span>
-**Source** [[Core Rulebook]] 
-**Bloodline** [[Angelic]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Bloodline** [[DATABASE/sorcererbloodline/Angelic|angelic]]
 **Cast** <span class="action-icon">1</span> verbal
 **Area** 15-foot emanation
 **Duration** 1 minute
 
 ---
-You gain an angelic halo with an aura that increases allies' healing from the [[Heal]] spell. Allies in your halo's emanation who are healed by a _heal_ spell gain a status bonus to Hit Points regained equal to double the _heal_ spell's level.
+You gain an angelic halo with an aura that increases allies' healing from the [[DATABASE/spell/Heal|heal]] spell. Allies in your halo's emanation who are healed by a _heal_ spell gain a status bonus to Hit Points regained equal to double the _heal_ spell's level.

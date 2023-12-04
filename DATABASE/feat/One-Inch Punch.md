@@ -11,6 +11,7 @@ name: One-Inch Punch
 prerequisite: expert strikes
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # One-Inch Punch <span class="action-icon">2</span> or <span class="action-icon">3</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Monk</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Prerequisites** expert strikes
 
 ---
@@ -32,4 +33,4 @@ You put all your force into a single mighty, carefully controlled blow. Make an 
 
 ## One-Inch Punch Leads To...
 
-[[One-Millimeter Punch]]
+[[DATABASE/feat/One-Millimeter Punch|One-Millimeter Punch]]

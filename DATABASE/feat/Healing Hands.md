@@ -11,6 +11,7 @@ name: Healing Hands
 prerequisite: '[[DATABASE/class_/Cleric|healing font]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,12 +24,12 @@ type: Feat
 # Healing Hands <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Cleric</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Cleric]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/class_/Cleric|healing font]]
 
 ---
-Your positive energy is even more vibrant and restorative. When you cast [[Heal]], you roll d10s instead of d8s.
+Your positive energy is even more vibrant and restorative. When you cast [[DATABASE/spell/Heal|heal]], you roll d10s instead of d8s.
 
 ## Healing Hands Leads To...
 
-[[Magic Hands]]
+[[DATABASE/feat/Magic Hands|Magic Hands]]

@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -54,9 +55,9 @@ weapon_type: null
 # Armor Polishing Kit<span class="item-type">Item 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span>
-**Source** [[Rusthenge]]
+**Source** [[DATABASE/source/Rusthenge|Rusthenge]]
 **Price** 4 gp
 **Usage** held in 1 hand; **Bulk** L
 
 ---
-This kit can be used to clean and polish armor. Creatures wearing armor that has been maintained by this kit gain a +1 circumstance bonus on [[Diplomacy]] checks to [[Make an Impression]] on soldiers, guards, [[Gorum]], and other martially minded characters. This bonus expires after 24 hours, or if the armor is soiled in some way, such as by walking through a sewer or falling in a mud pit.
+This kit can be used to clean and polish armor. Creatures wearing armor that has been maintained by this kit gain a +1 circumstance bonus on [[DATABASE/skill/Diplomacy|Diplomacy]] checks to [[DATABASE/action/Make an Impression|Make an Impression]] on soldiers, guards, [[DATABASE/deity/Gorum|Gorumites]], and other martially minded characters. This bonus expires after 24 hours, or if the armor is soiled in some way, such as by walking through a sewer or falling in a mud pit.

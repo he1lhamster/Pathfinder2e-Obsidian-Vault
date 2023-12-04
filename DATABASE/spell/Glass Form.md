@@ -19,6 +19,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
@@ -37,14 +38,14 @@ type: Spell
 # Glass Form<span class="item-type">Spell 4</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Earth</span><span class="item-trait">Manipulate</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Traditions** arcane, primal
 **Cast** <span class="action-icon">2</span> 
 **Range** touch; **Targets** 1 willing creature
 **Duration** 10 minutes
 
 ---
-You grant the target properties of dull, transparent glass. The target becomes [[Concealed]], has no scent, and can't bleed. They gain resistance 5 to acid, cold, electricity, and piercing damage and weakness 5 to sonic and bludgeoning damage. A creature in this form is affected by the [[Shatter]] spell as though the creature were an unattended object. Each time the target takes damage to which the spell grants resistance or weakness, reduce the duration by 1 minute.
+You grant the target properties of dull, transparent glass. The target becomes [[DATABASE/condition/Concealed|concealed]], has no scent, and can't bleed. They gain resistance 5 to acid, cold, electricity, and piercing damage and weakness 5 to sonic and bludgeoning damage. A creature in this form is affected by the [[DATABASE/spell/Shatter|shatter]] spell as though the creature were an unattended object. Each time the target takes damage to which the spell grants resistance or weakness, reduce the duration by 1 minute.
 
 ---
 **Heightened (+2)** The resistances and weaknesses increase by 5.

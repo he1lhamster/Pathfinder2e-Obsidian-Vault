@@ -3,6 +3,7 @@ creature_family: Trilobite
 id: '271'
 name: Trilobite
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Trilobite
 
-**Source** [[Bestiary 3]]
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
 Often overlooked as little more than water-dwelling pests, trilobites are a varied species of arthropods found throughout the seas and oceans of Golarion. So ancient and widespread are these critters that trilobite fossils are as commonly found as living specimens.
 
 ### Members
 
-[[Trilobite]] (Creature -1), [[Trilobite Swarm]] (Creature 3)
+[[DATABASE/monster/Trilobite|Trilobite]] (Creature -1), [[DATABASE/monster/Trilobite Swarm|Trilobite Swarm]] (Creature 3)
 
 ###  Tremendous Variety
 

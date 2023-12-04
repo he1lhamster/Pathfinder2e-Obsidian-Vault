@@ -11,6 +11,7 @@ name: Cringe
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -27,7 +28,7 @@ type: Feat
 # Cringe <span class="action-icon">5</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Emotion</span><span class="item-trait">Kobold</span><span class="item-trait">Mental</span><span class="item-trait">Visual</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Trigger** A creature you are aware of critically succeeds on a Strike against you and would deal damage to you.
 
 ---
@@ -41,7 +42,7 @@ This effect alters a creature's emotions. Effects with this trait always have th
 
 **Kobold:**
 
-A creature with this trait is a member of the kobold ancestry. Kobolds are reptilian humanoids who are usually Small and typically have [[Darkvision]]. An ability with this trait can be used or selected only by kobolds.
+A creature with this trait is a member of the kobold ancestry. Kobolds are reptilian humanoids who are usually Small and typically have [[DATABASE/monsterability/Darkvision|darkvision]]. An ability with this trait can be used or selected only by kobolds.
 
 **Mental:**
 

@@ -11,6 +11,7 @@ name: Psi Development
 prerequisite: '[[DATABASE/feat/Psychic Dedication|Psychic Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Psi Development <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Dark Archive]]
-**Archetype** [[Psychic]]
-**Prerequisites** [[Psychic Dedication]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Archetype** [[DATABASE/archetype/Psychic|Psychic]]
+**Prerequisites** [[DATABASE/feat/Psychic Dedication|Psychic Dedication]]
 
 ---
 You've found a new mental form. You gain another psi cantrip from your conscious mind: either the standard cantrip you didn't take with Psychic Dedication, or the unique surface psi cantrip. You gain the benefits and the amp for this second psi cantrip. Increase the number of Focus Points in your focus pool by 1.

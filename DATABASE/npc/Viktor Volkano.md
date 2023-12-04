@@ -67,19 +67,19 @@ wisdom: '+0'
 # Viktor Volkano
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 26
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 26
 **Unspecific Lore**: DC 24
 **Specific Lore**: DC 21
 
 # Viktor Volkano<span class="item-type">Creature 2</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CN</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 151. The Show Must Go On]]
-Male [[Human]] fire-breather
+**Source** [[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: The Show Must Go On]]
+Male [[DATABASE/ancestry/Human|human]] fire-breather
 **Perception** +7
-**Skills** [[Arcana]] +6, [[Athletics]] +6, [[Crafting]] +4, [[Performance]] +8
+**Skills** [[DATABASE/skill/Arcana|Arcana]] +6, [[DATABASE/skill/Athletics|Athletics]] +6, [[DATABASE/skill/Crafting|Crafting]] +4, [[DATABASE/skill/Performance|Performance]] +8
 **Str** +2, **Dex** +3, **Con** +2, **Int** +0, **Wis** +0, **Cha** +2
-**Items** [[Oil]]
+**Items** [[DATABASE/equipment/Oil|batons doused in flammable oil (2)]]
 
 ---
 **AC** 16; **Fort** +11, **Ref** +8, **Will** +8
@@ -87,4 +87,4 @@ Male [[Human]] fire-breather
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> flaming baton +10 [+5/+0], **Damage** 1d6+2 bludgeoning plus 1d6 fire</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> flame spit +10 [+5/+0] (range 10 feet), **Damage** 2d8 fire</span><span class="in-box-ability">**Breathe Fire** <span class="action-icon">1</span> (primal, fire) **Requirements** Viktor is holding an ignited baton; **Effect** Viktor breathes fire in a 20-foot cone. Creatures within the cone take 3d6 fire damage (DC 18 basic Reflex save). Once Viktor breathes fire, he cannot do so again for 1d4 rounds.</span><span class="in-box-ability">**Ignite Baton** <span class="action-icon">2</span> Viktor ignites or douses a baton. Ignited batons burn for 10 minutes or until Viktor douses them.</span><span class="in-box-ability">**Set on Fire** If Viktor critically hits a target with an attack that deals fire damage, or if a target of one of his effects that deals fire damage critically fails its saving throw, the target takes 1d4 [[Persistent Damage]].</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> flaming baton +10 [+5/+0], **Damage** 1d6+2 bludgeoning plus 1d6 fire</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> flame spit +10 [+5/+0] (range 10 feet), **Damage** 2d8 fire</span><span class="in-box-ability">**Breathe Fire** <span class="action-icon">1</span> (primal, fire) **Requirements** Viktor is holding an ignited baton; **Effect** Viktor breathes fire in a 20-foot cone. Creatures within the cone take 3d6 fire damage (DC 18 basic Reflex save). Once Viktor breathes fire, he cannot do so again for 1d4 rounds.</span><span class="in-box-ability">**Ignite Baton** <span class="action-icon">2</span> Viktor ignites or douses a baton. Ignited batons burn for 10 minutes or until Viktor douses them.</span><span class="in-box-ability">**Set on Fire** If Viktor critically hits a target with an attack that deals fire damage, or if a target of one of his effects that deals fire damage critically fails its saving throw, the target takes 1d4 [[DATABASE/condition/Persistent Damage|persistent fire damage]].</span>

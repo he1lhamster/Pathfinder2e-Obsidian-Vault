@@ -64,16 +64,16 @@ wisdom: '+0'
 # Terror Bird
 
 Common terror birds, also known as axe beaks, are notable hunters. On their own, they use their great speed to catch prey unawares. In a flock, they can swarm larger beasts like aurochs and take them down with overwhelming numbers.
-**Recall Knowledge - Animal ([[Nature]])**: DC 16
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
 # Terror Bird<span class="item-type">Creature 2</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary 3]]
-**Perception** +6; [[Low-Light Vision]]
-**Skills** [[Acrobatics]] +9, [[Athletics]] +10
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
+**Perception** +6; [[DATABASE/monsterability/Low-Light Vision|low-light vision]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +9, [[DATABASE/skill/Athletics|Athletics]] +10
 **Str** +4, **Dex** +3, **Con** +3, **Int** -4, **Wis** +0, **Cha** +0
 
 ---
@@ -82,7 +82,7 @@ Common terror birds, also known as axe beaks, are notable hunters. On their own,
 
 ---
 **Speed** 50 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> beak +10 [+5/+0] (reach 10 feet), **Damage** 1d8+4 piercing plus tearing clutch</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> talon +10 [+6/+2] (agile), **Damage** 1d6+4 piercing plus [[Knockdown]]</span><span class="in-box-ability">**Sprint** <span class="action-icon">2</span> **Frequency** once per minute; **Effect** The terror bird Strides three times in a straight line.</span><span class="in-box-ability">**Tearing Clutch** The terror bird's powerful beak can tear through flesh. On a successful beak Strike, the target takes 1 [[Persistent Damage]]. This bleed damage increases to 1d4 on a critical hit.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> beak +10 [+5/+0] (reach 10 feet), **Damage** 1d8+4 piercing plus tearing clutch</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> talon +10 [+6/+2] (agile), **Damage** 1d6+4 piercing plus [[DATABASE/monsterability/Knockdown|Knockdown]]</span><span class="in-box-ability">**Sprint** <span class="action-icon">2</span> **Frequency** once per minute; **Effect** The terror bird Strides three times in a straight line.</span><span class="in-box-ability">**Tearing Clutch** The terror bird's powerful beak can tear through flesh. On a successful beak Strike, the target takes 1 [[DATABASE/condition/Persistent Damage|persistent bleed damage]]. This bleed damage increases to 1d4 on a critical hit.</span>
 
 ###  Diatryma
 

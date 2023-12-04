@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Linguist Dedication|Linguist Dedication]] ; Exper
   in [[DATABASE/skill/Society|Society]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,12 +26,12 @@ type: Feat
 # Multilingual Cipher <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Skill</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Linguist]]
-**Prerequisites** [[Linguist Dedication]]; expert in [[Society]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Linguist|Linguist]]
+**Prerequisites** [[DATABASE/feat/Linguist Dedication|Linguist Dedication]]; expert in [[DATABASE/skill/Society|Society]]
 
 ---
-You use multiple languages to create and break codes. You gain a +1 circumstance bonus to [[Decipher Writing]]. If another creature attempts to Decipher Writing you encoded, they take a –2 circumstance penalty unless they speak all the languages you used when you created the writing.
+You use multiple languages to create and break codes. You gain a +1 circumstance bonus to [[DATABASE/action/Decipher Writing|Decipher Writing]]. If another creature attempts to Decipher Writing you encoded, they take a –2 circumstance penalty unless they speak all the languages you used when you created the writing.
 
 ## Traits
 

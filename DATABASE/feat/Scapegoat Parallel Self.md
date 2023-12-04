@@ -11,6 +11,7 @@ name: Scapegoat Parallel Self
 prerequisite: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Pathfinder 168. King of the Mountain|Pathfinder #168: King
   of the Mountain]]'
@@ -27,7 +28,7 @@ type: Feat
 # Scapegoat Parallel Self <span class="action-icon">5</span> <span class="item-type">Feat 20</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Divine</span><span class="item-trait">Necromancy</span><span class="item-trait">Oracle</span>
-**Source** [[Pathfinder 168. King of the Mountain]]
+**Source** [[DATABASE/source/Pathfinder 168. King of the Mountain|Pathfinder #168: King of the Mountain]]
 **Frequency** once per day
 **Trigger** Your turn starts or your oracular curse would advance.
 
@@ -46,10 +47,10 @@ Effects and magic items with this trait are associated with the necromancy schoo
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.
 
 ### Capstone Feats
 
-**Source** [[Pathfinder 168. King of the Mountain]]
+**Source** [[DATABASE/source/Pathfinder 168. King of the Mountain|Pathfinder #168: King of the Mountain]]
 Player characters can select one of the following new class feats for their 20th-level class feat upon entering the _Glass Lighthouse_ or by meditating on the cushion in area H4.
-**Related Feats**: [[All the Time in the World]], [[Dance of Intercession]], [[Demon's Hair]], [[Everdistant Defense]], [[Extradimensional Stash]], [[Head of the Night Parade]], [[Heart of the Kaiju]], [[Plum Deluge]], [[Ruby Resurrection]], [[Sever Space]], [[Time Dilation Cascade]], [[Vitality-Manipulating Stance]], [[Vivacious Afterimage]], [[Whirlwind Toss]], [[Worldsphere Gravity]]
+**Related Feats**: [[DATABASE/feat/All the Time in the World|All the Time in the World]], [[DATABASE/feat/Dance of Intercession|Dance of Intercession]], [[DATABASE/feat/Demon's Hair|Demon's Hair]], [[DATABASE/feat/Everdistant Defense|Everdistant Defense]], [[DATABASE/feat/Extradimensional Stash|Extradimensional Stash]], [[DATABASE/feat/Head of the Night Parade|Head of the Night Parade]], [[DATABASE/feat/Heart of the Kaiju|Heart of the Kaiju]], [[DATABASE/feat/Plum Deluge|Plum Deluge]], [[DATABASE/feat/Ruby Resurrection|Ruby Resurrection]], [[DATABASE/feat/Sever Space|Sever Space]], [[DATABASE/feat/Time Dilation Cascade|Time Dilation Cascade]], [[DATABASE/feat/Vitality-Manipulating Stance|Vitality-Manipulating Stance]], [[DATABASE/feat/Vivacious Afterimage|Vivacious Afterimage]], [[DATABASE/feat/Whirlwind Toss|Whirlwind Toss]], [[DATABASE/feat/Worldsphere Gravity|Worldsphere Gravity]]

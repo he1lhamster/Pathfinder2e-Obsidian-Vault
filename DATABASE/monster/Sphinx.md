@@ -106,17 +106,17 @@ wisdom: '+4'
 Sphinxes are mystical beings with the body of a lion, the wings of a great bird, and the upper torso and head of a human. They are often maligned in legends as nothing more than monsters, and though they are quick to anger and are capable of exacting deadly retribution for perceived slights, they are also very intelligent.
  Sphinxes are often associated with desert regions, but they can dwell in more moderate climates as well. They form small groups consisting of a single, extended family that hunts and works together to protect and teach their young. As they mature, sphinxes develop a wanderlust, a drive to gather hidden lore and solve the world’s greatest riddles—the trait that is perhaps most often identified with their kind.
  While sometimes bound into service as guardians for powerful spellcasters, lone sphinxes may also be encountered on journeys of discovery and as purveyors of esoteric lore. If treated with the proper respect—and fed well—a sphinx can demonstrate a willingness to exchange information. Their favorite currency is, of course, riddles and secrets. One who can trade knowledge for knowledge has a much better chance of succeeding while bargaining with a sphinx. However, a sphinx’s insatiable thirst for new riddles as well their extensive collection of secrets accumulated over hundreds of years of life—makes it difficult to offer them something they don’t already know. Those who attempt to trade petty insight and stale riddles may invoke a sphinx’s ire and will not live long enough to regret it.
-**Recall Knowledge - Beast ([[Arcana]], [[Nature]])**: DC 24
+**Recall Knowledge - Beast ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 24
 **Unspecific Lore**: DC 22
 **Specific Lore**: DC 19
 
 # Sphinx<span class="item-type">Creature 8</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Beast</span>
-**Source** [[Bestiary]]
-**Perception** +18; darkvision; [[Detect Magic]], [[See Invisibility]]
-**Languages** [[Common]], [[Draconic]], [[Sphinx]]; [[Comprehend Language]]
-**Skills** [[Arcana]] +17, [[Athletics]] +18, [[Lore]] +19, [[Deception]] +16, [[Diplomacy]] +16, [[Intimidation]] +18, [[Occultism]] +17
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
+**Perception** +18; darkvision; [[DATABASE/spell/Detect Magic|detect magic]], [[DATABASE/spell/See Invisibility|see invisibility]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Sphinx|Sphinx]]; [[DATABASE/spell/Comprehend Language|comprehend language]]
+**Skills** [[DATABASE/skill/Arcana|Arcana]] +17, [[DATABASE/skill/Athletics|Athletics]] +18, [[DATABASE/skill/Lore|Bardic Lore]] +19, [[DATABASE/skill/Deception|Deception]] +16, [[DATABASE/skill/Diplomacy|Diplomacy]] +16, [[DATABASE/skill/Intimidation|Intimidation]] +18, [[DATABASE/skill/Occultism|Occultism]] +17
 **Str** +6, **Dex** +1, **Con** +3, **Int** +5, **Wis** +4, **Cha** +4
 **Bardic Lore** Sphinxes are naturally curious, and their love of puzzles and mysteries leads them to gather information on a broad range of topics. Sphinxes have the Bardic Lore bard feat, allowing them to Recall Knowledge on any topic.
 
@@ -126,7 +126,7 @@ Sphinxes are mystical beings with the body of a lion, the wings of a great bird,
 
 ---
 **Speed** 35 feet, fly 40 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +20 [+16/+12] (agile), **Damage** 2d6+9 slashing</span>**Occult Innate Spells** DC 27; **4th** _[[Clairaudience]]_ (at will), _[[Clairvoyance]]_ (at will), _[[Read Omens]]_, _[[Remove Curse]]_; **3rd** _[[Dispel Magic]]_, _[[Locate]]_; **Cantrips** **(4th)** _[[Detect Magic]]_; **Constant** **(5th)** _[[Tongues]]_; **(2nd)** _[[See Invisibility]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +20 [+16/+12] (agile), **Damage** 2d6+9 slashing</span>**Occult Innate Spells** DC 27; **4th** _[[DATABASE/spell/Clairaudience|clairaudience]]_ (at will), _[[DATABASE/spell/Clairvoyance|clairvoyance]]_ (at will), _[[DATABASE/spell/Read Omens|read omens]]_, _[[DATABASE/spell/Remove Curse|remove curse]]_; **3rd** _[[DATABASE/spell/Dispel Magic|dispel magic]]_, _[[DATABASE/spell/Locate|locate]]_; **Cantrips** **(4th)** _[[DATABASE/spell/Detect Magic|detect magic]]_; **Constant** **(5th)** _[[DATABASE/spell/Tongues|tongues]]_; **(2nd)** _[[DATABASE/spell/See Invisibility|see invisibility]]_
 <span class="in-box-ability">**Claw Rake** <span class="action-icon">3</span> The sphinx rears back on their hind legs and makes two claw Strikes at the same target, using the same attack bonus as their highest melee attack. If both attacks deal damage, the target takes extra damage equal to one claw Strike.</span><span class="in-box-ability">**Pounce** <span class="action-icon">1</span> The sphinx Strides and makes a Strike at the end of that movement. If the sphinx began this action hidden, they remain hidden until after the attack.</span><span class="in-box-ability">**Warding Glyph** Once per week, a Sphinx can create a magical symbol as though casting a heightened glyph of warding spell. The sphinx usually shapes the glyph to take the form of a written riddle, and sets the password to the answer. A creature that gives the wrong answer or tries to pass without answering must succeed at a DC 26 Will save or suffer one of the following spell effects, chosen by the sphinx when creating the symbol: synaptic pulse (5th), charm (4th), fear (3rd), phantom pain (3rd), sleep (3rd). The sphinx learns the identity of any creature that answers the riddle and tends to be friendly to them.</span>
 
 ###  Sphinx Riddles

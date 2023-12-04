@@ -21,6 +21,7 @@ patron_theme: null
 range: 30 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: Fortitude
 school: Transmutation
 source: '[[DATABASE/source/Pathfinder 172. Secrets of the Temple City|Pathfinder #172:
@@ -41,7 +42,7 @@ type: Spell
 # Fear the Sun<span class="item-type">Spell 2</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Transmutation</span>
-**Source** [[Pathfinder 172. Secrets of the Temple City]]
+**Source** [[DATABASE/source/Pathfinder 172. Secrets of the Temple City|Pathfinder #172: Secrets of the Temple City]]
 **Traditions** arcane, divine, occult, primal
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet; **Targets** 1 creature
@@ -50,9 +51,9 @@ type: Spell
 ---
 You cause the creature's vision to become particularly sensitive. The creature must attempt a Fortitude save. The creature is then temporarily immune for 1 minute.
 **Critical Success** The creature is unaffected.
-**Success** The creature is [[Dazzled]] for 1 round.
+**Success** The creature is [[DATABASE/condition/Dazzled|dazzled]] for 1 round.
 **Failure** The creature is dazzled for 1 minute.
-**Critical Failure** The creature gains [[Light Blindness]] for 1 minute. If the creature is already exposed to bright light, it immediately becomes [[Blinded]], as it isn't acclimated to its newly acquired light blindness.
+**Critical Failure** The creature gains [[DATABASE/monsterability/Light Blindness|light blindness]] for 1 minute. If the creature is already exposed to bright light, it immediately becomes [[DATABASE/condition/Blinded|blinded]], as it isn't acclimated to its newly acquired light blindness.
 
 ---
 **Heightened (6th)** You can target up to 10 creatures.

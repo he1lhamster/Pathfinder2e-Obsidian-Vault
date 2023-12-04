@@ -11,6 +11,7 @@ name: Unkillable
 prerequisite: '[[DATABASE/feat/Zombie Dedication|Zombie Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Unkillable <span class="action-icon">5</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Book of the Dead]]
-**Archetype** [[Zombie]]
+**Source** [[DATABASE/source/Book of the Dead|Book of the Dead]]
+**Archetype** [[DATABASE/archetype/Zombie|Zombie]]
 **Frequency** once per hour
-**Prerequisites** [[Zombie Dedication]]
+**Prerequisites** [[DATABASE/feat/Zombie Dedication|Zombie Dedication]]
 **Trigger** You would be reduced to 0 HP.
 
 ---

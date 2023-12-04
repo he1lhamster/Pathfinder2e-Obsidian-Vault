@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: You are a master with the affixed weapon
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -55,11 +56,11 @@ weapon_type: null
 # Iron Equalizer<span class="item-type">Item 12</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Evocation</span><span class="item-trait">Magical</span><span class="item-trait">Talisman</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 400 gp
 **Usage** affixed to a weapon; **Bulk** —
 **Activate** <span class="action-icon">1</span> Certain Strike **Requirements** You are a master with the affixed weapon
 
 ---
-This small iron band has a shifting weight that helps equalize the affixed weapon’s balance. When you activate it, you use [[Certain Strike]], as the fighter feat. You must meet the normal requirements, including those of the press trait.
+This small iron band has a shifting weight that helps equalize the affixed weapon’s balance. When you activate it, you use [[DATABASE/feat/Certain Strike|Certain Strike]], as the fighter feat. You must meet the normal requirements, including those of the press trait.
  If you have the Certain Strike feat, the failure effect increases to deal the weapon’s normal damage.

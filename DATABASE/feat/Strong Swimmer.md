@@ -11,6 +11,7 @@ name: Strong Swimmer
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Strong Swimmer <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Undine</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
 Your swim Speed increases to match your land Speed.
@@ -32,4 +33,4 @@ Your swim Speed increases to match your land Speed.
 
 **Undine:**
 
-Undines are planar scions descended from [[Marid]].
+Undines are planar scions descended from [[DATABASE/monster/Marid|marids]].

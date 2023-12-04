@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Illusion
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Staff of Illusion<span class="item-type">Item 6+</span>
 
 <span class="item-trait">Illusion</span><span class="item-trait">Magical</span><span class="item-trait">Staff</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** held in 1 hand; **Bulk** —
 
 ---
@@ -64,28 +65,28 @@ This ornately designed metal staff shines with precious inlays of gold. When you
 
 ## Staff of Illusion<span class="item-type">Item 6</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 230 gp
 **Bulk** 1
 
-* **Cantrip** [[Ghost Sound]] 
-* **1st** [[Illusory Disguise]], [[Illusory Object]] 
-* **2nd** [[Illusory Creature]], [[Item Facade]], [[Ventriloquism]]
+* **Cantrip** [[DATABASE/spell/Ghost Sound|ghost sound]] 
+* **1st** [[DATABASE/spell/Illusory Disguise|illusory disguise]], [[DATABASE/spell/Illusory Object|illusory object]] 
+* **2nd** [[DATABASE/spell/Illusory Creature|illusory creature]], [[DATABASE/spell/Item Facade|item facade]], [[DATABASE/spell/Ventriloquism|ventriloquism]]
 
 ## Staff of Illusion (Greater)<span class="item-type">Item 10</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 900 gp
 **Bulk** 1
 
 * **3rd** _illusory disguise_, _item facade_ 
-* **4th** _illusory creature_, [[Veil]]
+* **4th** _illusory creature_, [[DATABASE/spell/Veil|veil]]
 
 ## Staff of Illusion (Major)<span class="item-type">Item 14</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 4,000 gp
 **Bulk** 1
 
-* **5th** [[Illusory Scene]], _veil_ 
-* **6th** [[Hallucination]], [[Mislead]]
+* **5th** [[DATABASE/spell/Illusory Scene|illusory scene]], _veil_ 
+* **6th** [[DATABASE/spell/Hallucination|hallucination]], [[DATABASE/spell/Mislead|mislead]]

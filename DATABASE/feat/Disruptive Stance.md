@@ -11,6 +11,7 @@ name: Disruptive Stance
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,10 +25,10 @@ type: Feat
 # Disruptive Stance <span class="action-icon">1</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Fighter</span><span class="item-trait">Stance</span>
-**Source** [[Core Rulebook]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
-The slightest distraction can provoke your wrath, and you're prepared to foil enemies' actions. As long as you are in this stance, you can use [[Attack of Opportunity]] when a creature within your reach uses a concentrate action, in addition to manipulate and move actions. Furthermore, you disrupt a triggering concentrate or manipulate action if your Strike hits (not only if it's a critical hit).
+The slightest distraction can provoke your wrath, and you're prepared to foil enemies' actions. As long as you are in this stance, you can use [[DATABASE/action/Attack of Opportunity|Attack of Opportunity]] when a creature within your reach uses a concentrate action, in addition to manipulate and move actions. Furthermore, you disrupt a triggering concentrate or manipulate action if your Strike hits (not only if it's a critical hit).
 
 ## Traits
 

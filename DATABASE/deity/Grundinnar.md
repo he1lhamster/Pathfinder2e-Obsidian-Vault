@@ -24,6 +24,7 @@ follower_alignment:
 id: '88'
 name: Grundinnar
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Diplomacy|Diplomacy]]'
 source: '[[DATABASE/source/Highhelm|Highhelm]]'
@@ -33,21 +34,21 @@ type: Deity
 ---
 # Grundinnar (The Peacemaker) [LG]
 
-**Source** [[Highhelm]], [[Gods & Magic]] 
-When Torag was forging Grundinnar, he graced him with a tongue of silver, and a heart of gold and iron. When [[Folgrit]] saw this gift and breathed life into him, she asked that Grundinnar be kind and loving always. He took this as both mandate and life goal, and now works to bring peace and familial connection to all who worship him and their allies. It's said that Grundinnar practiced quelling conflict by saving his sister [[Bolka]] from her many suitors, and in doing so learned to forge peace, but this is only half-truth. He truly learned to be a peacemaker by dealing with his bickering family, for even the gods among dwarves can be quarrelsome and taciturn. 
+**Source** [[DATABASE/source/Highhelm|Highhelm]], [[DATABASE/source/Gods & Magic|Gods & Magic]] 
+When Torag was forging Grundinnar, he graced him with a tongue of silver, and a heart of gold and iron. When [[DATABASE/deity/Folgrit|Folgrit]] saw this gift and breathed life into him, she asked that Grundinnar be kind and loving always. He took this as both mandate and life goal, and now works to bring peace and familial connection to all who worship him and their allies. It's said that Grundinnar practiced quelling conflict by saving his sister [[DATABASE/deity/Bolka|Bolka]] from her many suitors, and in doing so learned to forge peace, but this is only half-truth. He truly learned to be a peacemaker by dealing with his bickering family, for even the gods among dwarves can be quarrelsome and taciturn. 
 **Category** Dwarven Gods
 **Edicts** Attempt to bridge the gap between feuding sides, maintain just treaties, maintain relations with neighbors
 **Anathema** Sow discord among friends and allies, attack during parley
 **Areas of Concern** friendship, alliance, family, truth
 **Follower Alignments** LG, NG
-**Pantheons** [[Dwarven Pantheon]]
+**Pantheons** [[DATABASE/deity/Dwarven Pantheon|Dwarven Pantheon]]
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Constitution or Charisma
-**Divine Font** _[[Heal]]_
-**Divine Skill** [[Diplomacy]]
-**Favored Weapon** [[Light Hammer]]
-**Domains** [[Confidence Domain]], [[Family Domain]], [[Protection Domain]], [[Truth Domain]]
-**Alternate Domains** [[Repose Domain]]
-**Cleric Spells** 1st: _[[Anticipate Peril]]_, 4th: _[[Resilient Sphere]]_, 6th: _[[Wall of Force]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Constitution or Charisma
+**Divine Font** _[[DATABASE/spell/Heal|heal]]_
+**Divine Skill** [[DATABASE/skill/Diplomacy|Diplomacy]]
+**Favored Weapon** [[DATABASE/weapon/Light Hammer|light hammer]]
+**Domains** [[DATABASE/domain/Confidence Domain|confidence]], [[DATABASE/domain/Family Domain|family]], [[DATABASE/domain/Protection Domain|protection]], [[DATABASE/domain/Truth Domain|truth]]
+**Alternate Domains** [[DATABASE/domain/Repose Domain|repose]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Anticipate Peril|anticipate peril]]_, 4th: _[[DATABASE/spell/Resilient Sphere|resilient sphere]]_, 6th: _[[DATABASE/spell/Wall of Force|wall of force]]_

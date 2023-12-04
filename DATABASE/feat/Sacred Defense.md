@@ -11,6 +11,7 @@ name: Sacred Defense
 prerequisite: Master in [[DATABASE/skill/Religion|Religion]] ; you follow a deity
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
 subcategory: religion
@@ -25,12 +26,12 @@ type: Feat
 # Sacred Defense <span class="action-icon">1</span> <span class="item-type">Feat 7</span>
 
 <span class="item-trait">Divine</span><span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Frequency** once per hour
-**Prerequisites** master in [[Religion]]; you follow a deity
+**Prerequisites** master in [[DATABASE/skill/Religion|Religion]]; you follow a deity
 
 ---
-You call upon your deity to grant you their protective blessing. Attempt a DC 30 Religion check. If you have legendary proficiency in [[Religion]], you can instead attempt a DC 40 Religion check to increase the temporary Hit Points you gain on a successful check to 15 (25 on a critical success).
+You call upon your deity to grant you their protective blessing. Attempt a DC 30 Religion check. If you have legendary proficiency in [[DATABASE/skill/Religion|Religion]], you can instead attempt a DC 40 Religion check to increase the temporary Hit Points you gain on a successful check to 15 (25 on a critical success).
 **Critical Success** You gain 10 temporary Hit Points. You lose any remaining temporary Hit Points after 1 minute.
 **Success** You gain 5 temporary Hit Points. You lose any remaining temporary Hit Points after 1 minute.
 **Critical Failure** Your deity withholds their blessing. You cannot attempt to call to your deity again for 1 day.

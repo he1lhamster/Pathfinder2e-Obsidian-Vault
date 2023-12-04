@@ -71,16 +71,16 @@ wisdom: '+1'
 # Brine Shark
 
 Brine sharks are deadly elementals that roam the endless oceans of the Plane of Water.
-**Recall Knowledge - Elemental ([[Arcana]], [[Nature]])**: DC 18
+**Recall Knowledge - Elemental ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Brine Shark<span class="item-type">Creature 3</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Aquatic</span><span class="item-trait">Elemental</span><span class="item-trait">Water</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +8; darkvision
-**Skills** [[Athletics]] +10, [[Stealth]] +11, [[Survival]] +8
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +10, [[DATABASE/skill/Stealth|Stealth]] +11, [[DATABASE/skill/Survival|Survival]] +8
 **Str** +3, **Dex** +2, **Con** +2, **Int** -4, **Wis** +1, **Cha** +0
 
 ---

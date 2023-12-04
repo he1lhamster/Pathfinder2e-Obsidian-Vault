@@ -7,6 +7,7 @@ id: '1471'
 name: Prepare Campsite
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 trait:
@@ -20,7 +21,7 @@ type: Action
 # Prepare Campsite
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Exploration</span><span class="item-trait">Move</span>
-**Source** [[Kingmaker Companion Guide]]
+**Source** [[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]
 
 ---
 You spend 2 hours searching the hex for a safe and secure location to make camp and then setting up the campsite itself by attempting a Survival check against the Zone DC of the region you're located in (see the Camping Zones table). Once a campsite is prepared, you can use the Prepare Campsite activity in this same hex again in the future (but no more than once per 24 hours) to automatically achieve the same degree of success with only an hour of work.

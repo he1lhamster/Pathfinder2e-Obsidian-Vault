@@ -18,6 +18,7 @@ language:
 max_speed: '25'
 name: Lizardfolk
 rarity: Uncommon
+rus_type_level: null
 size: Medium
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 speed:
@@ -33,7 +34,7 @@ vision: null
 # Lizardfolk
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Humanoid</span><span class="item-trait">Lizardfolk</span>
-**Source** [[Character Guide]] 
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
 _Lizardfolk are consummate survivors, heirs to empires considered ancient even by the elves._
 Lizardfolk move through the societies of other humanoids with the steely reserve of born predators. They have a well-deserved reputation as outstanding rangers and unsentimental fighters. Though lizardfolk have adapted to many different environments, many of them still prefer to remain near bodies of water, using their ability to hold their breath to their advantage. As a result, lizardfolk usually prefer equipment that is not easily damaged by moisture, eschewing leather and metal for gear made of stone, ivory, glass, and bone.
 
@@ -64,7 +65,7 @@ Most iruxi are unconcerned with heavy questions of morality and are therefore us
 
 ## Adventurers
 
-Some background options are particularly suitable for lizardfolk. Wilderness or martial backgrounds like the [[Animal Whisperer]], [[Hunter]], [[Scout]], or [[Warrior]] are ideal. Living at the margins of human civilization means an iruxi might have grown up as a hardy [[Street Urchin]], traveled as a [[Nomad]] or [[Sailor]], or found work as a [[Laborer]] or [[Gladiator]]. Lizardfolk's ties to the wilderness make them excellent [[Ranger]] or [[Druid]]. Their outstanding strength serves them well if they select the [[Barbarian]], [[Fighter]], or [[Monk]] classes, though they can also strike from stealth as a [[Rogue]]. Iruxi also have a strong oral tradition kept alive by lizardfolk [[Bard]] and [[Sorcerer]].
+Some background options are particularly suitable for lizardfolk. Wilderness or martial backgrounds like the [[DATABASE/background/Animal Whisperer|animal whisperer]], [[DATABASE/background/Hunter|hunter]], [[DATABASE/background/Scout|scout]], or [[DATABASE/background/Warrior|warrior]] are ideal. Living at the margins of human civilization means an iruxi might have grown up as a hardy [[DATABASE/background/Street Urchin|street urchin]], traveled as a [[DATABASE/background/Nomad|nomad]] or [[DATABASE/background/Sailor|sailor]], or found work as a [[DATABASE/background/Laborer|laborer]] or [[DATABASE/background/Gladiator|gladiator]]. Lizardfolk's ties to the wilderness make them excellent [[DATABASE/class_/Ranger|rangers]] or [[DATABASE/class_/Druid|druids]]. Their outstanding strength serves them well if they select the [[DATABASE/class_/Barbarian|barbarian]], [[DATABASE/class_/Fighter|fighter]], or [[DATABASE/class_/Monk|monk]] classes, though they can also strike from stealth as a [[DATABASE/class_/Rogue|rogue]]. Iruxi also have a strong oral tradition kept alive by lizardfolk [[DATABASE/class_/Bard|bards]] and [[DATABASE/class_/Sorcerer|sorcerers]].
 
 ## Names
 
@@ -82,7 +83,7 @@ Long before the birth of Azlant, iruxi realms girdled Golarion. Today, only one 
 
 ### Iruxi
 
-While most lizardfolk permit humans and others to refer to them by that moniker, they call themselves iruxi. This ancient word arose from the [[Draconic]] tongue, though its exact etymology is unclear. In Droon, iruxi astronomers point to the jagged constellation of the Maw and the starry figure who stands against it. Today, while this constellation is called the Lone Mother and features in fables about environmental conservation, she once had another name in dragon lore: Erux, meaning “defiance.”
+While most lizardfolk permit humans and others to refer to them by that moniker, they call themselves iruxi. This ancient word arose from the [[DATABASE/language/Draconic|Draconic]] tongue, though its exact etymology is unclear. In Droon, iruxi astronomers point to the jagged constellation of the Maw and the starry figure who stands against it. Today, while this constellation is called the Lone Mother and features in fables about environmental conservation, she once had another name in dragon lore: Erux, meaning “defiance.”
 
 ### Iruxi Ancestors
 
@@ -114,13 +115,13 @@ Intelligence
 
 ## Languages
 
-[[Common]]
-[[Iruxi]]
-Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[Amurrun]], [[Aquan]], [[Boggard]], [[Draconic]], [[Elven]], [[Jotun]], [[Sylvan]], and any other languages to which you have access (such as the languages prevalent in your region).
+[[DATABASE/language/Common|Common]]
+[[DATABASE/language/Iruxi|Iruxi]]
+Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[DATABASE/language/Amurrun|Amurrun]], [[DATABASE/language/Aquan|Aquan]], [[DATABASE/language/Boggard|Boggard]], [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Elven|Elven]], [[DATABASE/language/Jotun|Jotun]], [[DATABASE/language/Sylvan|Sylvan]], and any other languages to which you have access (such as the languages prevalent in your region).
 
 ## Aquatic Adaptation
 
-Your reptilian biology allows you to hold your breath for a long time. You gain the [[Breath Control]] general feat as a bonus feat.
+Your reptilian biology allows you to hold your breath for a long time. You gain the [[DATABASE/feat/Breath Control|Breath Control]] general feat as a bonus feat.
 
 ## Claws
 

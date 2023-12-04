@@ -24,6 +24,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -40,9 +41,9 @@ type: Spell
 # Insect Form<span class="item-type">Spell 3</span>
 
 <span class="item-trait">Polymorph</span><span class="item-trait">Transmutation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** primal
-**Deities** [[Aakriti]], [[Ghlaunder]], [[Kitumu]]
+**Deities** [[DATABASE/deity/Aakriti|Aakriti]], [[DATABASE/deity/Ghlaunder|Ghlaunder]], [[DATABASE/deity/Kitumu|Kitumu]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Duration** 1 minute
 
@@ -53,8 +54,8 @@ You envision a simple bug and transform into a Medium animal battle form. When y
 * AC = 18 + your level. Ignore your armor's check penalty and Speed reduction. 
 * 10 temporary Hit Points. 
 * Low-light vision. 
-* One or more attacks specific to the battle form you choose, which are the only attacks you can Strike with. You're trained with them. Your attack modifier is +13, and your damage bonus is +2. These attacks are Strength based (for the purpose of the [[Enfeebled]] condition). If your unarmed attack modifier is higher, you can use it instead. 
-* [[Athletics]] modifier of +13, unless your own is higher.
+* One or more attacks specific to the battle form you choose, which are the only attacks you can Strike with. You're trained with them. Your attack modifier is +13, and your damage bonus is +2. These attacks are Strength based (for the purpose of the [[DATABASE/condition/Enfeebled|enfeebled]] condition). If your unarmed attack modifier is higher, you can use it instead. 
+* [[DATABASE/skill/Athletics|Athletics]] modifier of +13, unless your own is higher.
 
 You also gain specific abilities based on the form you choose:
 
@@ -63,7 +64,7 @@ You also gain specific abilities based on the form you choose:
 * **Centipede** Speed 25 feet, climb Speed 25 feet; darkvision; **Melee** <span class="action-icon">1</span> mandibles, **Damage** 1d8 piercing plus 1d4 persistent poison.
 * **Mantis** Speed 40 feet; imprecise scent 30 feet; **Melee** <span class="action-icon">1</span> foreleg , **Damage** 2d8 bludgeoning.
 * **Scorpion** Speed 40 feet; darkvision, imprecise tremorsense 60 feet; **Melee** <span class="action-icon">1</span> stinger, **Damage** 1d8 piercing plus 1d4 persistent poison; **Melee** <span class="action-icon">1</span> pincer (agile), **Damage** 1d6 bludgeoning.
-* **Spider** Speed 25 feet, climb Speed 25 feet; darkvision; **Melee** <span class="action-icon">1</span> fangs, **Damage** 1d6 piercing plus 1d4 [[Persistent Damage]]; **Ranged** <span class="action-icon">1</span> web (range increment 20 feet), **Damage** entangles the target for 1 round.
+* **Spider** Speed 25 feet, climb Speed 25 feet; darkvision; **Melee** <span class="action-icon">1</span> fangs, **Damage** 1d6 piercing plus 1d4 [[DATABASE/condition/Persistent Damage|persistent poison]]; **Ranged** <span class="action-icon">1</span> web (range increment 20 feet), **Damage** entangles the target for 1 round.
 
 ---
 **Heightened (4th)** Your battle form is Large, and your attacks have 10-foot reach. You must have enough space to expand into or the spell is lost. You instead gain 15 temporary HP, attack modifier +16, damage bonus +6, and Athletics +16.

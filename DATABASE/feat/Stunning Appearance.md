@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Startling Appearance (Vigilante)|Startling Appear
   (Vigilante)]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,12 +26,12 @@ type: Feat
 # Stunning Appearance <span class="item-type">Feat 16</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Vigilante</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Vigilante]]
-**Prerequisites** [[Startling Appearance (Vigilante)]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Vigilante|Vigilante]]
+**Prerequisites** [[DATABASE/feat/Startling Appearance (Vigilante)|Startling Appearance (Vigilante)]]
 
 ---
-Your sudden appearance leaves your foe unable to respond. When you use [[Startling Appearance (Vigilante)]], if your foe's level is equal to or lower than yours, they are also [[Stunned]] on a hit, or stunned 2 on a critical hit.
+Your sudden appearance leaves your foe unable to respond. When you use [[DATABASE/feat/Startling Appearance (Vigilante)|Startling Appearance]], if your foe's level is equal to or lower than yours, they are also [[DATABASE/condition/Stunned|stunned 1]] on a hit, or stunned 2 on a critical hit.
 
 ## Traits
 
@@ -40,4 +41,4 @@ This feat belongs to an archetype.
 
 **Vigilante:**
 
-Using actions and abilities with the vigilante trait while in your social identity risks exposing you as a [[Vigilante]].
+Using actions and abilities with the vigilante trait while in your social identity risks exposing you as a [[DATABASE/archetype/Vigilante|vigilante]].

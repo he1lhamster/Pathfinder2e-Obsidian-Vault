@@ -7,6 +7,7 @@ id: '769'
 name: Wyrm's Breath
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 trait:
@@ -19,7 +20,7 @@ type: Action
 # Wyrm's Breath <span class="action-icon">4</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Eidolon</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Frequency** once per minute
 
 ---

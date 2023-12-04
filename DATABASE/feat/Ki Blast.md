@@ -11,6 +11,7 @@ name: Ki Blast
 prerequisite: ki spells
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Ki Blast <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Monk</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Prerequisites** ki spells
 
 ---
-You can unleash an impactful cone of force by channeling your ki. You gain the [[Ki Blast]] ki spell. Increase the number of Focus Points in your focus pool by 1.
+You can unleash an impactful cone of force by channeling your ki. You gain the [[DATABASE/spell/Ki Blast|ki blast]] ki spell. Increase the number of Focus Points in your focus pool by 1.

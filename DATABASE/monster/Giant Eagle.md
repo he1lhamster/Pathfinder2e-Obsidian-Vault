@@ -78,17 +78,17 @@ wisdom: '+2'
 
 No mere animals, giant eagles have a keen intellect and a strong sense of honor. As guardians of their mountain homes, giant eagles attempt to prevent the encroachment of civilization upon wild land and the predations of wicked humanoid settlements. Unlike ordinary eagles, which tend to be solitary creatures, giant eagles congregate within aeries holding up to a dozen members and work together to protect their domains.
  Giant eagles have wingspans up to 30 feet across and weigh up to 500 pounds. These impressive birds cannot be easily broken or cowed. A giant eagle may allow trusted terrestrial friends to ride it, but they invariably resist saddles, harnesses, or other equipment that might suggest they are mere beasts of burden rather than trusted companions. Giant eagles are long-lived and take debts and oaths very seriously, often remembering slights for years and remaining slow to forgive.
-**Recall Knowledge - Beast ([[Arcana]], [[Nature]])**: DC 18
+**Recall Knowledge - Beast ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Giant Eagle<span class="item-type">Creature 3</span>
 
 <span class="trait-alignment item-trait">NG</span><span class="trait-size item-trait">Large</span><span class="item-trait">Beast</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +11; low-light vision
-**Languages** [[Auran]], [[Sylvan]]; (can’t speak any language)
-**Skills** [[Acrobatics]] +11, [[Athletics]] +8
+**Languages** [[DATABASE/language/Auran|Auran]], [[DATABASE/language/Sylvan|Sylvan]]; (can’t speak any language)
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +11, [[DATABASE/skill/Athletics|Athletics]] +8
 **Str** +3, **Dex** +4, **Con** +1, **Int** +0, **Wis** +2, **Cha** +2
 
 ---

@@ -11,6 +11,7 @@ name: Finishing Follow-Through
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Finishing Follow-Through <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Swashbuckler</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
 Finishing a foe maintains your swagger. You gain panache if your finisher brings the target to 0 HP (or brings the highest-level target to 0 HP, if your finisher attacks multiple targets).

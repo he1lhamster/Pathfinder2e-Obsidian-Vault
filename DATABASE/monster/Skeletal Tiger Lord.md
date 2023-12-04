@@ -75,25 +75,25 @@ wisdom: '+4'
 # Skeletal Tiger Lord
 
 This creature did not include a description.
-**Recall Knowledge - Undead ([[Religion]])**: DC 29
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 29
 **Unspecific Lore**: DC 27
 **Specific Lore**: DC 24
 
 # Skeletal Tiger Lord<span class="item-type">Creature 8</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Skeleton</span><span class="item-trait">Undead</span>
-**Source** [[Kingmaker Adventure Path]]
-Variant [[Skeleton]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
+Variant [[DATABASE/monsterfamily/Skeleton|skeleton]]
 **Perception** +18
-**Languages** [[Hallit]]
-**Skills** [[Athletics]] +18
+**Languages** [[DATABASE/language/Hallit|Hallit]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +18
 **Str** +6, **Dex** +4, **Con** +4, **Int** +0, **Wis** +4, **Cha** +0
-**Items** [[Breastplate]], [[Composite Longbow]], [[Greatsword]]
+**Items** [[DATABASE/armor/Breastplate|breastplate]], [[DATABASE/weapon/Composite Longbow|composite longbow (20 arrows)]], [[DATABASE/weapon/Greatsword|greatsword]]
 
 ---
 **AC** 28; **Fort** +18, **Ref** +16, **Will** +16
-**HP** 99 ([[Negative Healing]], [[Fast Healing]] 10); **Immunities** death effects, disease, mental, paralyzed, poison, unconscious; **Resistances** cold 10, electricity 10, fire 10, piercing 10, slashing 10
-<span class="in-box-ability">**Rejuvenation** (divine, necromancy When a skeletal Tiger Lord is destroyed, its bones clatter to the ground in a tangle and its armor and weapons crumble to dust. It automatically reforms with its armor and weapons intact) otherwise, the only way to permanently destroy a skeletal Tiger Lord is to reduce it to 0 Hit Points with positive damage or good damage.</span><span class="in-box-ability">**[[Attack of Opportunity]]** <span class="action-icon">5</span> </span>
+**HP** 99 ([[DATABASE/monsterability/Negative Healing|negative healing]], [[DATABASE/monsterability/Fast Healing|fast healing]] 10); **Immunities** death effects, disease, mental, paralyzed, poison, unconscious; **Resistances** cold 10, electricity 10, fire 10, piercing 10, slashing 10
+<span class="in-box-ability">**Rejuvenation** (divine, necromancy When a skeletal Tiger Lord is destroyed, its bones clatter to the ground in a tangle and its armor and weapons crumble to dust. It automatically reforms with its armor and weapons intact) otherwise, the only way to permanently destroy a skeletal Tiger Lord is to reduce it to 0 Hit Points with positive damage or good damage.</span><span class="in-box-ability">**[[DATABASE/monsterability/Attack of Opportunity|Attack of Opportunity]]** <span class="action-icon">5</span> </span>
 
 ---
 **Speed** 25 feet

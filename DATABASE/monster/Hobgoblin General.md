@@ -72,20 +72,20 @@ wisdom: '+1'
 # Hobgoblin General
 
 Hobgoblin generals serve as leaders of entire armies and rulers of hobgoblin settlements. A general does not permit the luxuries of rule to soften them. They lead their forces on the field of battle and view this opportunity to excel in a fight at the head of an army as the true reward for a life spent honing one’s skills in battle.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 22
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 22
 **Unspecific Lore**: DC 20
 **Specific Lore**: DC 17
 
 # Hobgoblin General<span class="item-type">Creature 6</span>
 
 <span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Goblin</span><span class="item-trait">Humanoid</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +13; darkvision
-**Languages** [[Common]], [[Goblin]]
-**Skills** [[Acrobatics]] +12, [[Athletics]] +15, [[Intimidation]] +14, [[Stealth]] +12
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Goblin|Goblin]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +12, [[DATABASE/skill/Athletics|Athletics]] +15, [[DATABASE/skill/Intimidation|Intimidation]] +14, [[DATABASE/skill/Stealth|Stealth]] +12
 **Str** +4, **Dex** +3, **Con** +2, **Int** +0, **Wis** +1, **Cha** +2
 **General’s Cry** When a hobgoblin general rolls initiative, as long as they can perceive at least one foe, they can yell a mighty battle cry. The hobgoblin general attempts an Intimidate check to Demoralize a single foe within 60 feet as a free action. If successful, any ally with the goblin trait can, as its first action on its first turn of the combat, Stride up to double its speed as a single action.
-**Items** [[Glaive]], [[Composite Shortbow]], [[Half Plate]]
+**Items** [[DATABASE/weapon/Glaive|+1 glaive]], [[DATABASE/weapon/Composite Shortbow|composite shortbow (20 arrows)]], [[DATABASE/armor/Half Plate|half plate]]
 
 ---
 **AC** 25; **Fort** +12, **Ref** +15, **Will** +13

@@ -11,6 +11,7 @@ name: Bloodline Conduit
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Bloodline Conduit <span class="action-icon">1</span> <span class="item-type">Feat 20</span>
 
 <span class="item-trait">Metamagic</span><span class="item-trait">Sorcerer</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Frequency** once per minute
 
 ---

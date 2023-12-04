@@ -12,6 +12,7 @@ primary_check: '[[DATABASE/skill/Occultism|Occultism]] (master)'
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: Divination
 secondary_casters: '2'
 secondary_check: '[[DATABASE/skill/Performance|Performance]] , [[DATABASE/skill/Society|Society]]'
@@ -26,9 +27,9 @@ type: Ritual
 # Legend Lore<span class="item-type">Ritual 7</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Divination</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Cast** 1 day; **Cost** rare incense worth a total value of 300 gp; **Secondary Casters** 2
-**Primary Check** [[Occultism]] (master); **Secondary Checks** [[Performance]], [[Society]]
+**Primary Check** [[DATABASE/skill/Occultism|Occultism]] (master); **Secondary Checks** [[DATABASE/skill/Performance|Performance]], [[DATABASE/skill/Society|Society]]
 
 ---
 You attempt to learn useful legends about a particular subject, which must be an important person, place, or thing. If the subject is present, increase the degree of success of your primary skill check by one step. If you have only vague information about the subject before attempting the ritual, decrease the degree of success of your primary skill check by one step. These modifiers cancel each other out if you have a subject present with little to no baseline information.

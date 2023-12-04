@@ -20,6 +20,7 @@ id: '10'
 name: Rogue
 perception_proficiency: Expert
 rarity: Common
+rus_type_level: null
 skill_proficiency:
 - Trained in Stealth
 - Trained in one or more skills determined by your rogue's racket
@@ -31,7 +32,7 @@ type: Class
 
 ---
 # Rogue
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 _You are skilled and opportunistic. Using your sharp wits and quick reactions, you take advantage of your opponents’ missteps and strike where it hurts most. You play a dangerous game, seeking thrills and testing your skills, and likely don’t care much for any laws that happen to get in your way. While the path of every rogue is unique and riddled with danger, the one thing you all share in common is the breadth and depth of your skills._
 **Key Ability: DEXTERITY OR OTHER**
 At 1st level, your class gives you an ability boost to Dexterity or an option from rogue's racket.
@@ -90,14 +91,14 @@ Expert in Will
 
 ## Skills
 
-Trained in [[Stealth]]
+Trained in [[DATABASE/skill/Stealth|Stealth]]
  Trained in one or more skills determined by your rogue's racket
  Trained in a number of additional skills equal to 7 plus your Intelligence modifier
 
 ## Attacks
 
 Trained in simple weapons
-Trained in the [[Rapier]], [[Sap]], [[Shortbow]], and [[Shortsword]]
+Trained in the [[DATABASE/weapon/Rapier|rapier]], [[DATABASE/weapon/Sap|sap]], [[DATABASE/weapon/Shortbow|shortbow]], and [[DATABASE/weapon/Shortsword|shortsword]]
 Trained in unarmed attacks
 
 ## Defenses
@@ -111,30 +112,29 @@ Trained in rogue class DC
 
 # Class Features
 
-You gain these features as a Rogue. Abilities gained at higher levels list the levels at which you gain them next to the features' names.
-
-|   Your Level | Class Features                                                                                                            |
-|-------------:|:--------------------------------------------------------------------------------------------------------------------------|
-|            1 | Ancestry and background, initial proficiencies, rogue’s racket, sneak attack 1d6, surprise attack, rogue feat, skill feat |
-|            2 | Rogue feat, skill feat, skill increase                                                                                    |
-|            3 | Deny advantage, general feat, skill feat, skill increase                                                                  |
-|            4 | Rogue feat, skill feat, skill increase                                                                                    |
-|            5 | Ability boosts, ancestry feat, skill feat, skill increase, sneak attack 2d6, weapon tricks                                |
-|            6 | Rogue feat, skill feat, skill increase                                                                                    |
-|            7 | Evasion, general feat, skill feat, skill increase, vigilant senses, weapon specialization                                 |
-|            8 | Rogue feat, skill feat, skill increase                                                                                    |
-|            9 | Ancestry feat, debilitating strike, great fortitude, skill feat, skill increase                                           |
-|           10 | Ability boosts, rogue feat, skill feat, skill increase                                                                    |
-|           11 | General feat, rogue expertise, skill feat, skill increase, sneak attack 3d6                                               |
-|           12 | Rogue feat, skill feat, skill increase                                                                                    |
-|           13 | Ancestry feat, improved evasion, incredible senses, light armor expertise, master tricks, skill feat, skill increase      |
-|           14 | Rogue feat, skill feat, skill increase                                                                                    |
-|           15 | Ability boosts, double debilitation, general feat, greater weapon specialization, skill feat, skill increase              |
-|           16 | Rogue feat, skill feat, skill increase                                                                                    |
-|           17 | Ancestry feat, skill feat, skill increase, slippery mind, sneak attack 4d6                                                |
-|           18 | Rogue feat, skill feat, skill increase                                                                                    |
-|           19 | General feat, light armor mastery, master strike, skill feat, skill increase                                              |
-|           20 | Ability boosts, rogue feat, skill feat, skill increase                                                                    |
+You gain these features as a Rogue. Abilities gained at higher levels list the levels at which you gain them next to the features' names.| 0 | 1 |
+|:-----------|:--------------------------------------------------------------------------------------------------------------------------|
+| Your Level | Class Features |
+| 1 | Ancestry and background, initial proficiencies, rogue’s racket, sneak attack 1d6, surprise attack, rogue feat, skill feat |
+| 2 | Rogue feat, skill feat, skill increase |
+| 3 | Deny advantage, general feat, skill feat, skill increase |
+| 4 | Rogue feat, skill feat, skill increase |
+| 5 | Ability boosts, ancestry feat, skill feat, skill increase, sneak attack 2d6, weapon tricks |
+| 6 | Rogue feat, skill feat, skill increase |
+| 7 | Evasion, general feat, skill feat, skill increase, vigilant senses, weapon specialization |
+| 8 | Rogue feat, skill feat, skill increase |
+| 9 | Ancestry feat, debilitating strike, great fortitude, skill feat, skill increase |
+| 10 | Ability boosts, rogue feat, skill feat, skill increase |
+| 11 | General feat, rogue expertise, skill feat, skill increase, sneak attack 3d6 |
+| 12 | Rogue feat, skill feat, skill increase |
+| 13 | Ancestry feat, improved evasion, incredible senses, light armor expertise, master tricks, skill feat, skill increase |
+| 14 | Rogue feat, skill feat, skill increase |
+| 15 | Ability boosts, double debilitation, general feat, greater weapon specialization, skill feat, skill increase |
+| 16 | Rogue feat, skill feat, skill increase |
+| 17 | Ancestry feat, skill feat, skill increase, slippery mind, sneak attack 4d6 |
+| 18 | Rogue feat, skill feat, skill increase |
+| 19 | General feat, light armor mastery, master strike, skill feat, skill increase |
+| 20 | Ability boosts, rogue feat, skill feat, skill increase |
 
 ## Ancestry and Background
 
@@ -151,7 +151,7 @@ Rackets can be found here
 
 ## Sneak Attack
 
-When your enemy can't properly defend itself, you take advantage to deal extra damage. If you Strike a creature that has the [[Flat-Footed]] condition with an agile or finesse melee weapon, an agile or finesse unarmed attack, a ranged weapon attack, or a ranged unarmed attack, you deal an extra 1d6 precision damage. For a ranged attack with a thrown melee weapon, that weapon must also be agile or finesse.
+When your enemy can't properly defend itself, you take advantage to deal extra damage. If you Strike a creature that has the [[DATABASE/condition/Flat-Footed|flat-footed]] condition with an agile or finesse melee weapon, an agile or finesse unarmed attack, a ranged weapon attack, or a ranged unarmed attack, you deal an extra 1d6 precision damage. For a ranged attack with a thrown melee weapon, that weapon must also be agile or finesse.
  As your rogue level increases, so does the number of damage dice for your sneak attack. Increase the number of dice by one at 5th, 11th, and 17th levels.
 
 ## Surprise Attack
@@ -189,7 +189,7 @@ In addition to the initial ancestry feat you started with, you gain an ancestry 
 
 ## Weapon Tricks<span class="item-type">Level 5</span>
 
-You have become thoroughly familiar with the tools of your trade. You gain expert proficiency in simple weapons as well as the [[Rapier]], [[Sap]], [[Shortbow]], [[Shortsword]], and unarmed attacks. When you critically succeed at an attack roll against a [[Flat-Footed]] creature while using an agile or finesse simple weapon or unarmed attack, or when using any of the listed weapons, you apply the critical specialization effect for that weapon or unarmed attack.
+You have become thoroughly familiar with the tools of your trade. You gain expert proficiency in simple weapons as well as the [[DATABASE/weapon/Rapier|rapier]], [[DATABASE/weapon/Sap|sap]], [[DATABASE/weapon/Shortbow|shortbow]], [[DATABASE/weapon/Shortsword|shortsword]], and unarmed attacks. When you critically succeed at an attack roll against a [[DATABASE/condition/Flat-Footed|flat-footed]] creature while using an agile or finesse simple weapon or unarmed attack, or when using any of the listed weapons, you apply the critical specialization effect for that weapon or unarmed attack.
 
 ## Evasion<span class="item-type">Level 7</span>
 
@@ -207,17 +207,17 @@ You’ve learned how to inflict greater injuries with the weapons you know best.
 
 When taking advantage of an opening, you both hinder and harm your foe. You gain the Debilitating Strike free action.
 
-### [[Debilitating Strike]] <span class="action-icon">4</span>
+### [[DATABASE/action/Debilitating Strike|Debilitating Strike]] <span class="action-icon">4</span>
 
 <span class="item-trait">Rogue</span>
-**Source** [[Core Rulebook]] 
-**Trigger** Your Strike hits a [[Flat-Footed]] creature and deals damage.
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Trigger** Your Strike hits a [[DATABASE/condition/Flat-Footed|flat-footed]] creature and deals damage.
 
 ---
 You apply one of the following debilitations, which lasts until the end of your next turn.
 
 * **Debilitation** The target takes a –10-foot status penalty to its Speeds. 
-* **Debilitation** The target becomes [[Enfeebled]].
+* **Debilitation** The target becomes [[DATABASE/condition/Enfeebled|enfeebled 1]].
 
 ## Great Fortitude<span class="item-type">Level 9</span>
 
@@ -263,15 +263,15 @@ Your skill with light armor improves, increasing your ability to dodge blows. Yo
 
 You can incapacitate an unwary foe with a single strike. Your proficiency rank for your rogue class DC increases to master. You gain the Master Strike free action.
 
-### [[Master Strike]] <span class="action-icon">4</span>
+### [[DATABASE/action/Master Strike|Master Strike]] <span class="action-icon">4</span>
 
 <span class="item-trait">Incapacitation</span><span class="item-trait">Rogue</span>
-**Source** [[Core Rulebook]] 
-**Trigger** Your Strike hits a [[Flat-Footed]] creature and deals damage.
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Trigger** Your Strike hits a [[DATABASE/condition/Flat-Footed|flat-footed]] creature and deals damage.
 
 ---
 The target attempts a Fortitude save at your class DC. It then becomes temporarily immune to your Master Strike for 1 day.
 **Critical Success** The target is unaffected.
-**Success** The target is [[Enfeebled]] until the end of your next turn.
-**Failure** The target is [[Paralyzed]] for 4 rounds.
-**Critical Failure** The target is paralyzed for 4 rounds, knocked [[Unconscious]] for 2 hours, or killed (your choice).
+**Success** The target is [[DATABASE/condition/Enfeebled|enfeebled 2]] until the end of your next turn.
+**Failure** The target is [[DATABASE/condition/Paralyzed|paralyzed]] for 4 rounds.
+**Critical Failure** The target is paralyzed for 4 rounds, knocked [[DATABASE/condition/Unconscious|unconscious]] for 2 hours, or killed (your choice).

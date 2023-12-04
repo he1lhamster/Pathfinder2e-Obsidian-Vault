@@ -76,20 +76,20 @@ wisdom: '+2'
 
 Minotaurs are master hunters that dwell in cunning labyrinths or tangles of underground caverns meant to disorient and demoralize prey. These monstrous tormentors delight in the hunt, in the terror caused by closing in on prey, and in the very moment when the hunted realizes that they have lost the game. Only then will the minotaur charge in for the kill, cutting foes down with powerful strikes or impaling them on its sharp horns.
  Minotaurs are known to dwell in mazes, but they can also be found hiding in old ruins and other forgotten corners of the world. In any case, they are solitary creatures, only rarely sharing territory with others of their kind or even more powerful beings that have cowed them into service. Everyone else is little more than prey to be hunted.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 19
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 19
 **Unspecific Lore**: DC 17
 **Specific Lore**: DC 14
 
 # Minotaur<span class="item-type">Creature 4</span>
 
 <span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Humanoid</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +12; darkvision
-**Languages** [[Jotun]]
-**Skills** [[Athletics]] +14, [[Intimidation]] +9, [[Survival]] +12 (natural cunning)
+**Languages** [[DATABASE/language/Jotun|Jotun]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +14, [[DATABASE/skill/Intimidation|Intimidation]] +9, [[DATABASE/skill/Survival|Survival]] +12 (natural cunning)
 **Str** +6, **Dex** +0, **Con** +3, **Int** -2, **Wis** +2, **Cha** -1
-**Natural Cunning** A minotaur automatically critically succeeds at Survival checks to avoid becoming lost or to find its way, including those from the [[Maze]] spell.
-**Items** [[Greataxe]]
+**Natural Cunning** A minotaur automatically critically succeeds at Survival checks to avoid becoming lost or to find its way, including those from the [[DATABASE/spell/Maze|maze]] spell.
+**Items** [[DATABASE/weapon/Greataxe|greataxe]]
 
 ---
 **AC** 20; **Fort** +13, **Ref** +8, **Will** +10

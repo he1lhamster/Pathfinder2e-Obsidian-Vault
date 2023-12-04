@@ -80,20 +80,20 @@ wisdom: '+4'
 # Scaleseed Nagaji
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 28
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 28
 **Unspecific Lore**: DC 26
 **Specific Lore**: DC 23
 
 # Scaleseed Nagaji<span class="item-type">Creature 7</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Humanoid</span><span class="item-trait">Nagaji</span>
-**Source** [[Pathfinder 190. The Choosing]]
-[[Nagaji]] naturalists
-**Perception** +15; [[Low-Light Vision]]
-**Languages** [[Draconic]], [[Sylvan]], [[Tien]]
-**Skills** [[Nature]] +17, [[Religion]] +15, [[Survival]] +15
+**Source** [[DATABASE/source/Pathfinder 190. The Choosing|Pathfinder #190: The Choosing]]
+[[DATABASE/ancestry/Nagaji|Nagaji]] naturalists
+**Perception** +15; [[DATABASE/monsterability/Low-Light Vision|low-light vision]]
+**Languages** [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Sylvan|Sylvan]], [[DATABASE/language/Tien|Tien]]
+**Skills** [[DATABASE/skill/Nature|Nature]] +17, [[DATABASE/skill/Religion|Religion]] +15, [[DATABASE/skill/Survival|Survival]] +15
 **Str** +1, **Dex** +2, **Con** +3, **Int** +1, **Wis** +4, **Cha** +2
-**Items** _+1 [[Sickle]]_, [[Leather Armor]]
+**Items** _+1 [[DATABASE/weapon/Sickle|sickle]]_, [[DATABASE/armor/Leather Armor|leather armor]]
 
 ---
 **AC** 23; **Fort** +14, **Ref** +13, **Will** +17
@@ -101,6 +101,6 @@ This creature did not include a description.
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _sickle_ +16 [+12/+8] (agile, finesse, magical, trip), **Damage** 1d4+4 slashing</span>**Primal Prepared Spells** DC 25, attack +17, (* Indicates a spell that was previously cast earlier in the day.); **4th** _[[Heal]]_, _[[Speak with Plants]]_ (*); **3rd** _[[Dispel Magic]]_, _[[Heal]]_, _[[Lightning Bolt]]_ (*); **2nd** _[[Acid Arrow]]_ (*), _[[Entangle]]_ (*), _[[Restoration]]_; **1st** _[[Heal]]_, _[[Longstrider]]_ (*), _[[Shocking Grasp]]_ (*); **Cantrips** **(4th)** _[[Disrupt Undead]]_, _[[Electric Arc]]_, _[[Know Direction]]_, _[[Light]]_, _[[Read Aura]]_
-**Rituals** DC 25; **4th** _[[Plant Growth]]_; **3rd** _[[Reincarnate]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _sickle_ +16 [+12/+8] (agile, finesse, magical, trip), **Damage** 1d4+4 slashing</span>**Primal Prepared Spells** DC 25, attack +17, (* Indicates a spell that was previously cast earlier in the day.); **4th** _[[DATABASE/spell/Heal|heal]]_, _[[DATABASE/spell/Speak with Plants|speak with plants]]_ (*); **3rd** _[[DATABASE/spell/Dispel Magic|dispel magic]]_, _[[DATABASE/spell/Heal|heal]]_, _[[DATABASE/spell/Lightning Bolt|lightning bolt]]_ (*); **2nd** _[[DATABASE/spell/Acid Arrow|acid arrow]]_ (*), _[[DATABASE/spell/Entangle|entangle]]_ (*), _[[DATABASE/spell/Restoration|restoration]]_; **1st** _[[DATABASE/spell/Heal|heal]]_, _[[DATABASE/spell/Longstrider|longstrider]]_ (*), _[[DATABASE/spell/Shocking Grasp|shocking grasp]]_ (*); **Cantrips** **(4th)** _[[DATABASE/spell/Disrupt Undead|disrupt undead]]_, _[[DATABASE/spell/Electric Arc|electric arc]]_, _[[DATABASE/spell/Know Direction|know direction]]_, _[[DATABASE/spell/Light|light]]_, _[[DATABASE/spell/Read Aura|read aura]]_
+**Rituals** DC 25; **4th** _[[DATABASE/ritual/Plant Growth|plant growth]]_; **3rd** _[[DATABASE/ritual/Reincarnate|reincarnate]]_
 <span class="in-box-ability">**Slough Toxins** <span class="action-icon">1</span> **Frequency** once per round; **Requirements** The nagaji is afflicted with a poison; **Effect** The nagaji accelerates their metabolism. They roll a saving throw against the affliction with a +2 circumstance bonus. If they must attempt an ongoing save against the same poison at the end of their turn, they also get a +2 circumstance bonus to that save.</span>

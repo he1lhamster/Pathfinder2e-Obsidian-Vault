@@ -11,6 +11,7 @@ name: Sensitive Nose
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Sensitive Nose <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Gnoll</span>
-**Source** [[The Mwangi Expanse]]
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]
 
 ---
-Your large black nose isn't just for show. You gain imprecise [[Scent]] with a range of 30 feet.
+Your large black nose isn't just for show. You gain imprecise [[DATABASE/monsterability/Scent|scent]] with a range of 30 feet.
 **Special** You can take this feat only at 1st level, and you can’t retrain out of this feat or into this feat.
 
 ## Traits

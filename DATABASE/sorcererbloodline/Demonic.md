@@ -3,6 +3,7 @@ bloodline: Demonic
 id: '3'
 name: Demonic
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 spell:
 - '[[DATABASE/spell/Abyssal Plague|Abyssal Plague]]'
@@ -24,10 +25,10 @@ type: Sorcerer Bloodline
 ---
 # Demonic
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Demons debase all they touch. One of your ancestors fell victim to their corruption, and you are burdened by that sin.
 **Spell List** divine
-**Bloodline Skills** [[Intimidation]], [[Religion]]
-**Granted Spells** cantrip: [[Acid Splash]], 1st: [[Fear]], 2nd: [[Enlarge]], 3rd: [[Slow]], 4th: [[Divine Wrath]], 5th: [[Abyssal Plague]], 6th: [[Disintegrate]], 7th: [[Divine Decree]], 8th: [[Divine Aura]], 9th: [[Implosion]]
-**Bloodline Spells** initial: [[Glutton's Jaw]], advanced: [[Swamp of Sloth]], greater: [[Abyssal Wrath]]
+**Bloodline Skills** [[DATABASE/skill/Intimidation|Intimidation]], [[DATABASE/skill/Religion|Religion]]
+**Granted Spells** cantrip: [[DATABASE/spell/Acid Splash|acid splash]], 1st: [[DATABASE/spell/Fear|fear]], 2nd: [[DATABASE/spell/Enlarge|enlarge]], 3rd: [[DATABASE/spell/Slow|slow]], 4th: [[DATABASE/spell/Divine Wrath|divine wrath]], 5th: [[DATABASE/spell/Abyssal Plague|abyssal plague]], 6th: [[DATABASE/spell/Disintegrate|disintegrate]], 7th: [[DATABASE/spell/Divine Decree|divine decree]], 8th: [[DATABASE/spell/Divine Aura|divine aura]], 9th: [[DATABASE/spell/Implosion|implosion]]
+**Bloodline Spells** initial: [[DATABASE/spell/Glutton's Jaw|glutton's jaw]], advanced: [[DATABASE/spell/Swamp of Sloth|swamp of sloth]], greater: [[DATABASE/spell/Abyssal Wrath|abyssal wrath]]
 **Blood Magic** The corruption of sin weakens a target’s defenses or makes you more imposing. Either a target takes a –1 status penalty to AC for 1 round, or you gain a +1 status bonus to Intimidation checks for 1 round.

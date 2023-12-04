@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -52,7 +53,7 @@ weapon_type: null
 # Heated Cloak<span class="item-type">Item 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 160 gp
 **Usage** worn cloak; **Bulk** L
 

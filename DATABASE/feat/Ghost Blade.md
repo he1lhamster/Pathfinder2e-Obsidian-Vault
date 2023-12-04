@@ -11,6 +11,7 @@ name: Ghost Blade
 prerequisite: '[[DATABASE/feat/Mind Smith Dedication|Mind Smith Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -24,13 +25,13 @@ type: Feat
 # Ghost Blade <span class="action-icon">1</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Concentrate</span>
-**Source** [[Dark Archive]]
-**Archetype** [[Mind Smith]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Archetype** [[DATABASE/archetype/Mind Smith|Mind Smith]]
 **Frequency** once per hour
-**Prerequisites** [[Mind Smith Dedication]]
+**Prerequisites** [[DATABASE/feat/Mind Smith Dedication|Mind Smith Dedication]]
 
 ---
-You alter your weapon's phase so it can more easily strike incorporeal creatures. Your mind weapon gains the effects of a [[Ghost Touch]] property rune for 1 minute.
+You alter your weapon's phase so it can more easily strike incorporeal creatures. Your mind weapon gains the effects of a [[DATABASE/equipment/Ghost Touch|ghost touch]] property rune for 1 minute.
 
 ## Traits
 

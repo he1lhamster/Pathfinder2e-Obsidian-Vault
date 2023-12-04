@@ -66,21 +66,21 @@ wisdom: '+0'
 # Gromog
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 26
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 26
 **Unspecific Lore**: DC 24
 **Specific Lore**: DC 21
 
 # Gromog<span class="item-type">Creature 2</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Giant</span><span class="item-trait">Humanoid</span>
-**Source** [[Kingmaker Adventure Path]]
-**Perception** +1; [[Blinded]]
-**Languages** [[Common]], [[Jotun]]
-**Skills** [[Acrobatics]] +12, [[Intimidation]] +9
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
+**Perception** +1; [[DATABASE/condition/Blinded|blinded]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Jotun|Jotun]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +12, [[DATABASE/skill/Intimidation|Intimidation]] +9
 **Str** +5, **Dex** -1, **Con** +4, **Int** -2, **Wis** +0, **Cha** -2
-**Blinded** Gromog's eyes have been wounded by Linzi. In time, he'll recover his eyesight (mostly), but for the duration of this combat he is [[Blinded]].
+**Blinded** Gromog's eyes have been wounded by Linzi. In time, he'll recover his eyesight (mostly), but for the duration of this combat he is [[DATABASE/condition/Blinded|blinded]].
 **Itchy** Not only have the itchy lice in Gromog's furs reduced his AC, Reflex save, and attack modifier through distraction (resulting in the values below the standard values for an ogre warrior), he also must succeed at a DC 10 flat check at the start of each round to avoid spending 2 actions furiously scratching himself. On a successful flat check, he must spend only one action scratching at the vermin. Finally, as a side effect of the discomfort caused by his lice, Gromog is too distracted to properly wield his ogre hook. While the weapon can still inflict grievous damage, as long as he remains itchy it doesn't possess the deadly trait these weapons normally possess.
-**Items** lice-infested furs, [[Ogre Hook]]
+**Items** lice-infested furs, [[DATABASE/weapon/Ogre Hook|ogre hook]]
 
 ---
 **AC** 16; **Fort** +11, **Ref** +4, **Will** +5

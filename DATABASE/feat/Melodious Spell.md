@@ -11,6 +11,7 @@ name: Melodious Spell
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -26,7 +27,7 @@ type: Feat
 # Melodious Spell <span class="action-icon">1</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Bard</span><span class="item-trait">Concentrate</span><span class="item-trait">Manipulate</span><span class="item-trait">Metamagic</span>
-**Source** [[Core Rulebook]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
 You subtly weave your spellcasting into your performance. If the next action you take is to Cast a Spell, attempt a Performance check against all observers’ Perception DCs. If your Performance check is successful against an observer’s Perception DC, that observer doesn’t notice that you are Casting a Spell, even though normally spells have sensory manifestations that would make spellcasting obvious to those around you, and verbal, somatic, and material components are extremely overt. You hide all of these as part of an ordinary performance.

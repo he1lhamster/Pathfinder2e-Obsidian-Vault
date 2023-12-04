@@ -69,19 +69,19 @@ wisdom: '+0'
 # Swardlands Delinquent
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 24
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 24
 **Unspecific Lore**: DC 22
 **Specific Lore**: DC 19
 
 # Swardlands Delinquent<span class="item-type">Creature 4</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">CN</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 153. Life's Long Shadows]]
+**Source** [[DATABASE/source/Pathfinder 153. Life's Long Shadows|Pathfinder #153: Life's Long Shadows]]
 **Perception** +8
-**Languages** [[Common]]
-**Skills** [[Acrobatics]] +10, [[Athletics]] +9, [[Deception]] +8, [[Intimidation]] +8, [[Stealth]] +12 (+14 while in the Swardlands), [[Thievery]] +12
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +10, [[DATABASE/skill/Athletics|Athletics]] +9, [[DATABASE/skill/Deception|Deception]] +8, [[DATABASE/skill/Intimidation|Intimidation]] +8, [[DATABASE/skill/Stealth|Stealth]] +12 (+14 while in the Swardlands), [[DATABASE/skill/Thievery|Thievery]] +12
 **Str** +3, **Dex** +4, **Con** +1, **Int** +1, **Wis** +0, **Cha** +2
-**Items** dagger; one delinquent carries a [[Crowbar]] and another carries a brush and pot of red paint, [[Club]], [[Leather Armor]]
+**Items** dagger; one delinquent carries a [[DATABASE/equipment/Crowbar|crowbar]] and another carries a brush and pot of red paint, [[DATABASE/weapon/Club|club]], [[DATABASE/armor/Leather Armor|leather armor]]
 
 ---
 **AC** 21; **Fort** +9, **Ref** +14, **Will** +8
@@ -90,4 +90,4 @@ This creature did not include a description.
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee**club +11 [+6/+1], **Damage** 1d6+5 bludgeoning</span><span class="in-box-ability">**Ranged**dagger +12 [+8/+4] (agile, thrown 10 feet, versatile S), **Damage** 1d4+5 piercing</span><span class="in-box-ability">**Quick Draw** <span class="action-icon">1</span> The delinquent draws a weapon with an Interact action, then Strikes with the weapon they just drew.</span><span class="in-box-ability">**Rattling Blow** Creatures the delinquent critically hits are [[Clumsy]] and can't make reactions until the end of the delinquent's next turn.</span><span class="in-box-ability">**[[Sneak Attack]]** The delinquent deals 1d6 extra precision damage to [[Flat-Footed]] creatures.</span>
+<span class="in-box-ability">**Melee**club +11 [+6/+1], **Damage** 1d6+5 bludgeoning</span><span class="in-box-ability">**Ranged**dagger +12 [+8/+4] (agile, thrown 10 feet, versatile S), **Damage** 1d4+5 piercing</span><span class="in-box-ability">**Quick Draw** <span class="action-icon">1</span> The delinquent draws a weapon with an Interact action, then Strikes with the weapon they just drew.</span><span class="in-box-ability">**Rattling Blow** Creatures the delinquent critically hits are [[DATABASE/condition/Clumsy|clumsy 1]] and can't make reactions until the end of the delinquent's next turn.</span><span class="in-box-ability">**[[DATABASE/monsterability/Sneak Attack|Sneak Attack]]** The delinquent deals 1d6 extra precision damage to [[DATABASE/condition/Flat-Footed|flat-footed]] creatures.</span>

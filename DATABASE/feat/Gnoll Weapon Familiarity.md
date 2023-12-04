@@ -11,6 +11,7 @@ name: Gnoll Weapon Familiarity
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 subcategory: null
@@ -23,14 +24,14 @@ type: Feat
 # Gnoll Weapon Familiarity <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Gnoll</span>
-**Source** [[The Mwangi Expanse]]
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]
 
 ---
-You were taught to be a hunter and a raider. You are trained with [[Flail]], [[Khopesh]], [[Mambele]], [[Spear]], and [[War Flail]].
+You were taught to be a hunter and a raider. You are trained with [[DATABASE/weapon/Flail|flails]], [[DATABASE/weapon/Khopesh|khopeshes]], [[DATABASE/weapon/Mambele|mambeles]], [[DATABASE/weapon/Spear|spears]], and [[DATABASE/weapon/War Flail|war flails]].
 
 ## Gnoll Weapon Familiarity Leads To...
 
-[[Gnoll Weapon Practicality]]
+[[DATABASE/feat/Gnoll Weapon Practicality|Gnoll Weapon Practicality]]
 
 ## Traits
 

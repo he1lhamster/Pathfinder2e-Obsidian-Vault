@@ -20,6 +20,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -38,9 +39,9 @@ type: Cantrip
 # Guidance<span class="item-type">Cantrip 1</span>
 
 <span class="item-trait">Cantrip</span><span class="item-trait">Divination</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** divine, occult, primal
-**Mystery** [[Ancestors]]
+**Mystery** [[DATABASE/oraclemystery/Ancestors|ancestors]]
 **Cast** <span class="action-icon">1</span> verbal
 **Range** 30 feet; **Targets** 1 creature
 **Duration** until the start of your next turn

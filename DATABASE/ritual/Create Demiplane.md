@@ -14,6 +14,7 @@ primary_check: '[[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Natur
 range: null
 rarity: Rare
 requirement: null
+rus_type_level: null
 school: Conjuration
 secondary_casters: '3'
 secondary_check: Arcana, Nature, Occultism, Religion (whichever three aren't used
@@ -30,15 +31,15 @@ type: Ritual
 # Create Demiplane<span class="item-type">Ritual 8</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Conjuration</span><span class="item-trait">Teleportation</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Cast** 9 days; **Cost** precious materials worth a total value of 800 gp; **Secondary Casters** 3
-**Primary Check** [[Arcana]], [[Nature]], [[Occultism]], or [[Religion]] (legendary); **Secondary Checks** Arcana, Nature, Occultism, Religion (whichever three aren't used for the primary check)
+**Primary Check** [[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]], [[DATABASE/skill/Occultism|Occultism]], or [[DATABASE/skill/Religion|Religion]] (legendary); **Secondary Checks** Arcana, Nature, Occultism, Religion (whichever three aren't used for the primary check)
 
 ---
-Few incantations are as renowned as the power to create worlds. To cast this ritual, you must be on the [[Astral Plane]], the [[Ethereal Plane]], or a plane that connects to one of the two.
+Few incantations are as renowned as the power to create worlds. To cast this ritual, you must be on the [[DATABASE/plane/Astral Plane|Astral Plane]], the [[DATABASE/plane/Ethereal Plane|Ethereal Plane]], or a plane that connects to one of the two.
  A demiplane created with this ritual exists on the Astral or Ethereal Plane. It can have the appearance of any mundane environment or structure, such as a glorious cathedral, a clearing in a forest, a comfortably furnished cavern, or anything else one can imagine. All demiplanes have finite, unbreachable boundaries, which might resemble stone, wood, or something more unnatural, such as a wall of mist or unceasing void.
- Demiplanes have environmental conditions as appropriate for the [[Material Plane]], though the primary caster can dictate a general climate or light level, as well as whether the demiplane experiences seasons or a day-night cycle. The demiplane has no native plants or animals, but they can be introduced, and plants will grow in a demiplane's light.
- When you first cast _create demiplane_, the casters are teleported to the demiplane. The demiplane has no direct access to other worlds, so [[Plane Shift]] or similar abilities are necessary to access it. As part of casting the ritual to create a new demiplane, you create a key to the demiplane which serves as a _plane shift_ tuning fork for that demiplane. Most resemble ornate keys, but some take the forms of maps, compasses, or dowsing rods.
+ Demiplanes have environmental conditions as appropriate for the [[DATABASE/plane/Material Plane|Material Plane]], though the primary caster can dictate a general climate or light level, as well as whether the demiplane experiences seasons or a day-night cycle. The demiplane has no native plants or animals, but they can be introduced, and plants will grow in a demiplane's light.
+ When you first cast _create demiplane_, the casters are teleported to the demiplane. The demiplane has no direct access to other worlds, so [[DATABASE/spell/Plane Shift|plane shift]] or similar abilities are necessary to access it. As part of casting the ritual to create a new demiplane, you create a key to the demiplane which serves as a _plane shift_ tuning fork for that demiplane. Most resemble ornate keys, but some take the forms of maps, compasses, or dowsing rods.
  If you have the original key to an existing demiplane and are on that demiplane, you can instead use this ritual to either expand the demiplane or add special traits or features described below. More information about these planar features can be found here.
 
 * **Alignment** The demiplane gains one alignment trait, such as lawful or good.

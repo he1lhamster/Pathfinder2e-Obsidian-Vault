@@ -2,6 +2,7 @@
 id: '112'
 name: Pathfinder 175. Broken Tusk Moon
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -16,23 +17,23 @@ type: Source
 
 ## Archetypes [1]
 
-[[Game Hunter]]
+[[DATABASE/archetype/Game Hunter|Game Hunter]]
 
 ## Equipment [21]
 
-[[Battering Snare]], [[Broken Tusk Pendant]], [[Broken Tusk Pendant]], [[Candlecap]], [[Dream Pollen Snare]], [[Ember Dust]], [[Hoof Stakes Snare]], [[Mad Mammoth's Juke]], [[Mudlily]], [[Poison Barbs Snare]], [[Raven Band]], [[Tallow Bomb]], [[Tallow Bomb]], [[Tallow Bomb]], [[Tallow Bomb]], [[Tallow Bomb]], [[Twigjack Sack]], [[Twigjack Sack]], [[Twigjack Sack]], [[Twigjack Sack]], [[Twigjack Sack]]
+[[DATABASE/equipment/Battering Snare|Battering Snare]], [[DATABASE/equipment/Broken Tusk Pendant|Broken Tusk Pendant]], [[DATABASE/equipment/Broken Tusk Pendant|Broken Tusk Pendant (Greater)]], [[DATABASE/equipment/Candlecap|Candlecap]], [[DATABASE/equipment/Dream Pollen Snare|Dream Pollen Snare]], [[DATABASE/equipment/Ember Dust|Ember Dust]], [[DATABASE/equipment/Hoof Stakes Snare|Hoof Stakes Snare]], [[DATABASE/equipment/Mad Mammoth's Juke|Mad Mammoth's Juke]], [[DATABASE/equipment/Mudlily|Mudlily]], [[DATABASE/equipment/Poison Barbs Snare|Poison Barbs Snare]], [[DATABASE/equipment/Raven Band|Raven Band]], [[DATABASE/equipment/Tallow Bomb|Tallow Bomb]], [[DATABASE/equipment/Tallow Bomb|Tallow Bomb (Greater)]], [[DATABASE/equipment/Tallow Bomb|Tallow Bomb (Lesser)]], [[DATABASE/equipment/Tallow Bomb|Tallow Bomb (Major)]], [[DATABASE/equipment/Tallow Bomb|Tallow Bomb (Moderate)]], [[DATABASE/equipment/Twigjack Sack|Twigjack Sack]], [[DATABASE/equipment/Twigjack Sack|Twigjack Sack (Greater)]], [[DATABASE/equipment/Twigjack Sack|Twigjack Sack (Lesser)]], [[DATABASE/equipment/Twigjack Sack|Twigjack Sack (Major)]], [[DATABASE/equipment/Twigjack Sack|Twigjack Sack (Moderate)]]
 
 ## Feats [7]
 
-[[All of the Animal]], [[Big Game Trapper]], [[Game Hunter Dedication]], [[Keep Pace]], [[Quick Positioning]], [[Spirit Speaker]], [[Tame Animal]]
+[[DATABASE/feat/All of the Animal|All of the Animal]], [[DATABASE/feat/Big Game Trapper|Big Game Trapper]], [[DATABASE/feat/Game Hunter Dedication|Game Hunter Dedication]], [[DATABASE/feat/Keep Pace|Keep Pace]], [[DATABASE/feat/Quick Positioning|Quick Positioning]], [[DATABASE/feat/Spirit Speaker|Spirit Speaker]], [[DATABASE/feat/Tame Animal|Tame Animal]]
 
 ## Hazards [4]
 
-[[Acid Strongbox Trap]], [[Death's Slumber Ward]], [[Hail of Razor Stones]], [[Pouncing Tiger Haunt]]
+[[DATABASE/hazard/Acid Strongbox Trap|Acid Strongbox Trap]], [[DATABASE/hazard/Death's Slumber Ward|Death's Slumber Ward]], [[DATABASE/hazard/Hail of Razor Stones|Hail of Razor Stones]], [[DATABASE/hazard/Pouncing Tiger Haunt|Pouncing Tiger Haunt]]
 
 ## Monsters [6]
 
-[[Tapir, Giant]], [[Glyptodon]], [[Groplit]], [[Kadlaka]], [[Loblobi]], [[Rime Sludge]]
+[[DATABASE/monster/Tapir, Giant|Giant Tapir]], [[DATABASE/monster/Glyptodon|Glyptodon]], [[DATABASE/monster/Groplit|Groplit]], [[DATABASE/monster/Kadlaka|Kadlaka]], [[DATABASE/monster/Loblobi|Loblobi]], [[DATABASE/monster/Rime Sludge|Rime Sludge]]
 
 ## Setting Articles [1]
 
@@ -40,4 +41,4 @@ Following of the Broken Tusk
 
 ## Spells [3]
 
-[[Impart Empathy]], [[Pack Attack]], [[Painted Scout]]
+[[DATABASE/spell/Impart Empathy|Impart Empathy]], [[DATABASE/spell/Pack Attack|Pack Attack]], [[DATABASE/spell/Painted Scout|Painted Scout]]

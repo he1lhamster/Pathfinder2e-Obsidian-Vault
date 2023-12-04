@@ -2,6 +2,7 @@
 id: '10'
 name: Claim Hex
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait: null
 type: General Skill Action
@@ -9,17 +10,17 @@ type: General Skill Action
 ---
 # Claim Hex (Untrained)
 
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 
 ## Skill Uses
 
-[[Exploration]] Claim Hex
-[[Wilderness]] Claim Hex
+[[DATABASE/skill/Exploration|Exploration]] Claim Hex
+[[DATABASE/skill/Wilderness|Wilderness]] Claim Hex
 
-## [[Claim Hex]]
+## [[DATABASE/action/Claim Hex|Claim Hex]]
 
 <span class="item-trait">Downtime</span><span class="item-trait">Region</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 **Requirements** You have Reconnoitered the hex to be claimed during hexploration. This hex must be adjacent to at least one hex that's already part of your kingdom. If the hex to be claimed contains dangerous hazards or monsters, they must first be cleared out—either via standard adventuring or the Clear Hex activity.
 
 ---

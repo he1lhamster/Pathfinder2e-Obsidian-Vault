@@ -2,6 +2,7 @@
 id: '107'
 name: Grave Orc
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 trait: null
 type: Heritage
@@ -9,5 +10,5 @@ type: Heritage
 ---
 # Grave Orc
 
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 You were exposed to powerful necromantic energies that should have killed you—but you survived. Your skin is cold, clammy, and gray. You gain resistance to negative damage equal to half your level (minimum 1). You also gain a +1 circumstance bonus to saving throws against necromancy effects.

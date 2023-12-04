@@ -3,6 +3,7 @@ creature_family: Hell Hound
 id: '60'
 name: Hell Hound
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Hell Hound
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Hell hounds are fiendish, extraplanar canines hailing from the pit that can hunt down quarry and breathe supernatural gouts of flame. They are temperamental and quick to aggressive behavior.
 
 ### Members
 
-[[Hell Hound]] (Creature 3), [[Nessian Warhound]] (Creature 9)
+[[DATABASE/monster/Hell Hound|Hell Hound]] (Creature 3), [[DATABASE/monster/Nessian Warhound|Nessian Warhound]] (Creature 9)
 
 ###  Hell Hound Minions
 

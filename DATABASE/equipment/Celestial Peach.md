@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 size: null
@@ -58,7 +59,7 @@ weapon_type: null
 # Celestial Peach<span class="item-type">Item 17+</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Consumable</span><span class="item-trait">Divine</span><span class="item-trait">Healing</span><span class="item-trait">Magical</span><span class="item-trait">Necromancy</span><span class="item-trait">Positive</span>
-**Source** [[Legends]]
+**Source** [[DATABASE/source/Legends|Legends]]
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
@@ -67,14 +68,14 @@ Among Hao Jin's most precious treasures are three living plants, the last surviv
 
 ## Celestial Peach (Rejuvenation)<span class="item-type">Item 17</span>
 
-**Source** [[Legends]]
+**Source** [[DATABASE/source/Legends|Legends]]
 **Price** 3,000 gp
 **Bulk** L
-You gain the effects of 7th-level [[Neutralize Poison]], [[Regenerate]], [[Remove Curse]], and [[Remove Disease]] spells. The peach has a counteract modifier of +27.
+You gain the effects of 7th-level [[DATABASE/spell/Neutralize Poison|neutralize poison]], [[DATABASE/spell/Regenerate|regenerate]], [[DATABASE/spell/Remove Curse|remove curse]], and [[DATABASE/spell/Remove Disease|remove disease]] spells. The peach has a counteract modifier of +27.
 
 ## Celestial Peach (Life)<span class="item-type">Item 20</span>
 
-**Source** [[Legends]]
+**Source** [[DATABASE/source/Legends|Legends]]
 **Price** 73,000 gp
 **Bulk** L
-When you place the peach into the mouth of an intact corpse that died within the last year, it casts a 10th-level [[Raise Dead]] on the corpse.
+When you place the peach into the mouth of an intact corpse that died within the last year, it casts a 10th-level [[DATABASE/spell/Raise Dead|raise dead]] on the corpse.

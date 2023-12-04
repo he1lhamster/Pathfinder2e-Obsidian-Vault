@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Vehicle Mechanic Dedication|Vehicle Mechanic Dedi
   ; Master in [[DATABASE/skill/Crafting|Crafting]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -25,9 +26,9 @@ type: Feat
 # Efficient Controls <span class="item-type">Feat 7</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Skill</span>
-**Source** [[Guns & Gears]]
-**Archetype** [[Vehicle Mechanic]]
-**Prerequisites** [[Vehicle Mechanic Dedication]]; master in [[Crafting]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Archetype** [[DATABASE/archetype/Vehicle Mechanic|Vehicle Mechanic]]
+**Prerequisites** [[DATABASE/feat/Vehicle Mechanic Dedication|Vehicle Mechanic Dedication]]; master in [[DATABASE/skill/Crafting|Crafting]]
 
 ---
 By reducing redundant systems and streamlining essential functions, you have made it easier for the vehicle to operate with fewer crew. Reduce the number of crew required to operate your signature vehicle by 25%. For example, you would reduce a sailing ship from needing 1 pilot and 8 crew to 1 pilot and 6 crew. This adjustment only affects the number of crew needed to operate the vehicle; it doesn't reduce the vehicle's need for a pilot.

@@ -22,6 +22,7 @@ follower_alignment:
 id: '158'
 name: Thamir
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Thievery|Thievery]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -31,7 +32,7 @@ type: Deity
 ---
 # Thamir (The Silent Blade) [CE]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Category** Other Gods
 **Edicts** Seize any opportunity that would benefit you, solve your problems With Violence, hide your true intentions
 **Anathema** Steal from the poor, beg for help or mercy from a fellow worshipper of Thamir
@@ -39,9 +40,9 @@ type: Deity
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Dexterity or Charisma
-**Divine Font** _[[Harm]]_
-**Divine Skill** [[Thievery]]
-**Favored Weapon** [[Dagger]]
-**Domains** [[Ambition Domain]], [[Confidence Domain]], [[Trickery Domain]], [[Wealth Domain]]
-**Cleric Spells** 1st: _[[Penumbral Shroud]]_, 3rd: _[[Invisibility Sphere]]_, 6th: _[[Mislead]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Dexterity or Charisma
+**Divine Font** _[[DATABASE/spell/Harm|harm]]_
+**Divine Skill** [[DATABASE/skill/Thievery|Thievery]]
+**Favored Weapon** [[DATABASE/weapon/Dagger|dagger]]
+**Domains** [[DATABASE/domain/Ambition Domain|ambition]], [[DATABASE/domain/Confidence Domain|confidence]], [[DATABASE/domain/Trickery Domain|trickery]], [[DATABASE/domain/Wealth Domain|wealth]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Penumbral Shroud|penumbral shroud]]_, 3rd: _[[DATABASE/spell/Invisibility Sphere|invisibility sphere]]_, 6th: _[[DATABASE/spell/Mislead|mislead]]_

@@ -11,6 +11,7 @@ name: Spell Parry
 prerequisite: null
 rarity: Common
 requirement: You have one or more hands free.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Spell Parry <span class="action-icon">1</span> <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Magus</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Requirements** You have one or more hands free.
 
 ---
@@ -31,4 +32,4 @@ You infuse magical power into your body or armaments to parry both physical and 
 
 ## Spell Parry Leads To...
 
-[[Preternatural Parry]]
+[[DATABASE/feat/Preternatural Parry|Preternatural Parry]]

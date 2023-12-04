@@ -11,6 +11,7 @@ name: Deadly Aim
 prerequisite: '[[DATABASE/class_/Ranger|weapon specialization]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Deadly Aim <span class="action-icon">1</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Open</span><span class="item-trait">Ranger</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Ranger]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/class_/Ranger|weapon specialization]]
 
 ---
 You aim for your prey’s weak spots, making your shot more challenging but dealing more damage if you hit. Make a ranged Strike against your hunted prey at a –2 penalty. You gain a +4 circumstance bonus to damage on that Strike. This bonus increases to +6 at 11th level and +8 at 15th level.

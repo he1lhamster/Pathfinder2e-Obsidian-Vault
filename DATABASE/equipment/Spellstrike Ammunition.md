@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Spellstrike Ammunition<span class="item-type">Item 3+</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Magical</span><span class="item-trait">Transmutation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Ammunition** any; **Bulk** —
 **Activate** <span class="action-icon">2</span> Cast a Spell
 
@@ -65,54 +66,54 @@ Mystic patterns create a magic reservoir within this ammunition. You activate _s
 
 ## Spellstrike Ammunition (Type I)<span class="item-type">Item 3</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 12 gp
 Maximum Spell Level 1st
 
 ## Spellstrike Ammunition (Type II)<span class="item-type">Item 5</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 30 gp
 Maximum Spell Level 2nd
 
 ## Spellstrike Ammunition (Type III)<span class="item-type">Item 7</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 70 gp
 Maximum Spell Level 3rd
 
 ## Spellstrike Ammunition (Type IV)<span class="item-type">Item 9</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 150 gp
 Maximum Spell Level 4th
 
 ## Spellstrike Ammunition (Type V)<span class="item-type">Item 11</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 300 gp
 Maximum Spell Level 5th
 
 ## Spellstrike Ammunition (Type VI)<span class="item-type">Item 13</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 600 gp
 Maximum Spell Level 6th
 
 ## Spellstrike Ammunition (Type VII)<span class="item-type">Item 15</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 1,300 gp
 Maximum Spell Level 7th
 
 ## Spellstrike Ammunition (Type VIII)<span class="item-type">Item 17</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 3,000 gp
 Maximum Spell Level 8th
 
 ## Spellstrike Ammunition (Type IX)<span class="item-type">Item 19</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 8,000 gp
 Maximum Spell Level 9th

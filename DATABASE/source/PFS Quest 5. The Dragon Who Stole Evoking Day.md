@@ -2,6 +2,7 @@
 id: '27'
 name: PFS Quest 5. The Dragon Who Stole Evoking Day
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -15,4 +16,4 @@ type: Source
 
 ## Equipment [3]
 
-[[Dwarven Daisy]], [[Dwarven Daisy]], [[Dwarven Daisy]]
+[[DATABASE/equipment/Dwarven Daisy|Dwarven Daisy]], [[DATABASE/equipment/Dwarven Daisy|Dwarven Daisy (Lesser)]], [[DATABASE/equipment/Dwarven Daisy|Dwarven Daisy (Moderate)]]

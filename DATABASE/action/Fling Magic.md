@@ -7,6 +7,7 @@ id: '1233'
 name: Fling Magic
 rarity: Common
 requirement: You are holding your wand implement.
+rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 trait:
@@ -22,7 +23,7 @@ type: Action
 # Fling Magic <span class="action-icon">2</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Evocation</span><span class="item-trait">Magical</span><span class="item-trait">Manipulate</span><span class="item-trait">Thaumaturge</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Requirements** You are holding your wand implement.
 
 ---

@@ -8,6 +8,7 @@ name: Trip
 rarity: Common
 requirement: "You have at least one hand free. Your target can\u2019t be more than\
   \ one size larger than you."
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
@@ -19,7 +20,7 @@ type: Action
 # Trip <span class="action-icon">1</span>
 
 <span class="item-trait">Attack</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Requirements** You have at least one hand free. Your target can’t be more than one size larger than you.
 
 ---

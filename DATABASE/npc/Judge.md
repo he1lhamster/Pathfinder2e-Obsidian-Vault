@@ -70,20 +70,20 @@ wisdom: '+4'
 # Judge
 
 These magistrates have the final say on the intent and spirit of the law. Properly exercised, the duty of a judge is the strict adherence to the law regardless of station, with minimal sentimentality toward rationalization and justification of why the law was broken. Yet expectations and practice are not always the same thing. For every unbiased justice, there is one who is zealously confident in their own agenda. In a court case or other legal proceeding, the judge is a 6th-level challenge.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 13
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 13
 **Unspecific Lore**: DC 11
 **Specific Lore**: DC 8
 
 # Judge<span class="item-type">Creature -1</span>
 
 <span class="trait-alignment item-trait">LN</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Gamemastery Guide]]
-**Perception** +8; (15 to [[Sense Motive]]) 
-**Languages** [[Common]]
-**Skills** [[Deception]] +8, [[Diplomacy]] +12, [[Intimidation]] +12, [[Lore]] +16, [[Society]] +14
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
+**Perception** +8; (15 to [[DATABASE/action/Sense Motive|Sense Motive]]) 
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Deception|Deception]] +8, [[DATABASE/skill/Diplomacy|Diplomacy]] +12, [[DATABASE/skill/Intimidation|Intimidation]] +12, [[DATABASE/skill/Lore|Legal Lore]] +16, [[DATABASE/skill/Society|Society]] +14
 **Str** +0, **Dex** -1, **Con** +1, **Int** +4, **Wis** +4, **Cha** +2
-**Group Impression** When the judge Makes an Impression, they can compare their [[Diplomacy]] check result to the Will DCs of up to four targets instead of one.
-**Items** books (laws and rhetoric; worth 3 gp), gavel, [[Clothing]]
+**Group Impression** When the judge Makes an Impression, they can compare their [[DATABASE/skill/Diplomacy|Diplomacy]] check result to the Will DCs of up to four targets instead of one.
+**Items** books (laws and rhetoric; worth 3 gp), gavel, [[DATABASE/equipment/Clothing|judge's robes]]
 
 ---
 **AC** 13; **Fort** +5, **Ref** +1, **Will** +14

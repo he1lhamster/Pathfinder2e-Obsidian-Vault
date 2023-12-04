@@ -3,6 +3,7 @@ creature_family: Barghest
 id: '11'
 name: Barghest
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Barghest
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Barghests are lupine fiends with goblinoid faces and humanoid hands. They stalk the Material Plane in search of souls to sate their demonic hunger. Eons ago, barghests dwelled in the pits of Hell and served Asmodeus, but after Lamashtu abducted and adopted the four most powerful of their kind to serve as pets (and in time, as a pantheon of hero-gods worshipped by evil goblins), barghests’ loyalties and philosophical nature changed significantly. Today, while barghests retain their connection to goblinoids, they serve none but their own appetites.
 
 ### Members
 
-[[Barghest]] (Creature 4), [[Greater Barghest]] (Creature 7)
+[[DATABASE/monster/Barghest|Barghest]] (Creature 4), [[DATABASE/monster/Greater Barghest|Greater Barghest]] (Creature 7)
 
 ###  Barghest Cults
 

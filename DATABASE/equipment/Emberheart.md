@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Emberheart<span class="item-type">Item 18</span>
 
 <span class="item-trait">Apex</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span><span class="item-trait">Necromancy</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Price** 24,000 gp
 **Usage** worn; **Bulk** —
 

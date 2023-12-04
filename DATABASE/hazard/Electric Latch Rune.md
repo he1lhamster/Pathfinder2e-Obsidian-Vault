@@ -14,6 +14,7 @@ name: Electric Latch Rune
 rarity: Common
 reflex: null
 resistance: null
+rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
@@ -29,11 +30,11 @@ will: null
 # Electric Latch Rune<span class="item-type">Hazard 3</span>
 
 <span class="item-trait">Electricity</span><span class="item-trait">Evocation</span><span class="item-trait">Magical</span><span class="item-trait">Trap</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Complexity** Simple
 **Stealth** DC 20 (trained)
 **Description** An invisible rune imprinted on a door latch releases a powerful electric discharge.
 
 ---
-**Disable** [[Thievery]] DC 20 (expert) to scratch out the rune without allowing electricity to flow, or [[Dispel Magic]] (2nd level; counteract DC 18) to counteract the rune
+**Disable** [[DATABASE/skill/Thievery|Thievery]] DC 20 (expert) to scratch out the rune without allowing electricity to flow, or [[DATABASE/spell/Dispel Magic|dispel magic]] (2nd level; counteract DC 18) to counteract the rune
 **Electrocution** <span class="action-icon">5</span> (arcane, electricity, evocation); **Trigger** A creature grasps the door latch directly or with a tool. **Effect** The trap deals 3d12 electricity damage to the triggering creature (DC 22 basic Reflex save).

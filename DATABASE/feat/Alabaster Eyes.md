@@ -11,6 +11,7 @@ name: Alabaster Eyes
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Alabaster Eyes <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Vishkanya</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 
 ---
 In place of the normal vishkanyan golden eyes, you were born with especially perceptive snow-white eyes. You gain darkvision.

@@ -11,6 +11,7 @@ name: Vessel's Form
 prerequisite: '[[DATABASE/feat/Living Vessel Dedication|Living Vessel Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -26,21 +27,21 @@ type: Feat
 # Vessel's Form <span class="action-icon">2</span> <span class="item-type">Feat 16</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Concentrate</span><span class="item-trait">Polymorph</span><span class="item-trait">Transmutation</span>
-**Source** [[Dark Archive]]
-**Archetype** [[Living Vessel]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Archetype** [[DATABASE/archetype/Living Vessel|Living Vessel]]
 **Frequency** once per day
-**Prerequisites** [[Living Vessel Dedication]]
+**Prerequisites** [[DATABASE/feat/Living Vessel Dedication|Living Vessel Dedication]]
 
 ---
 You symbiotically combine your form with that of the entity within you, taking a powerful hybrid form to temporarily boost your abilities in combat while maintaining control. For 1 minute, you gain the following effects.
 
 * If you were Medium or smaller, you become Large, and your reach increases to 10 feet.
-* You gain a +2 status bonus to attack and damage rolls and a +1 status bonus on saving throws against spells. If you use [[Living Vessel Dedication]], the status bonuses to attack and damage rolls increase to +3 during the time that the two effects overlap.
-* If you have the [[Entity's Strike]] feat, the unarmed attack you gained from that feat increases its damage die from 1d6 to 1d8.
+* You gain a +2 status bonus to attack and damage rolls and a +1 status bonus on saving throws against spells. If you use [[DATABASE/feat/Living Vessel Dedication|Entity's Resurgence]], the status bonuses to attack and damage rolls increase to +3 during the time that the two effects overlap.
+* If you have the [[DATABASE/feat/Entity's Strike|Entity's Strike]] feat, the unarmed attack you gained from that feat increases its damage die from 1d6 to 1d8.
 * You gain 40 temporary Hit Points.
 * You gain a fly Speed equal to your Speed.
 
-**Special** This action has the tradition trait appropriate to your entity, typically divine for a [[Demon]], occult for an aberration or outer entity, or primal for a fey
+**Special** This action has the tradition trait appropriate to your entity, typically divine for a [[DATABASE/monsterfamily/Demon|demon]], occult for an aberration or outer entity, or primal for a fey
 
 ## Traits
 

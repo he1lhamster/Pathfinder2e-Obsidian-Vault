@@ -17,6 +17,7 @@ name: Auto-Turret
 rarity: Uncommon
 reflex: '+27'
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 173. Doorway to the Red Star|Pathfinder #173:
   Doorway to the Red Star]]'
@@ -33,13 +34,13 @@ will: null
 # Auto-Turret<span class="item-type">Hazard 15</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Complex</span><span class="item-trait">Magical</span><span class="item-trait">Trap</span>
-**Source** [[Pathfinder 173. Doorway to the Red Star]]
+**Source** [[DATABASE/source/Pathfinder 173. Doorway to the Red Star|Pathfinder #173: Doorway to the Red Star]]
 **Complexity** Complex
 **Stealth** +33 (expert); darkvision
 **Description** A mounted gun equipped with a magical targeting system and integrated ammo supply.
 
 ---
-**Disable** [[Thievery]] DC 35 (master) to disconnect the turret from its ammo supply system, or [[Arcana]] DC 35 (master) to neutralize the magical targeting system. Tan-Takneh can also deactivate one or both auto-turrets remotely with a special command word.
+**Disable** [[DATABASE/skill/Thievery|Thievery]] DC 35 (master) to disconnect the turret from its ammo supply system, or [[DATABASE/skill/Arcana|Arcana]] DC 35 (master) to neutralize the magical targeting system. Tan-Takneh can also deactivate one or both auto-turrets remotely with a special command word.
 **AC** 37, **Fort** +29, **Ref** +27
 **Hardness** 24, **HP** 100 (BT 50); **Immunities** critical hits, object immunities, precision damage
 **Bullet Spray** <span class="action-icon">5</span> (attack); **Trigger** A creature comes within 60 feet of Tan-Takneh's campsite; **Effect** The turret attacks the triggering creature with a longrifle Strike.

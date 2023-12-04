@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Wellspring Mage Dedication|Wellspring Mage Dedica
 rarity: Common
 requirement: You have an unexpended spell slot and can see the triggering spell's
   manifestations.
+rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -25,9 +26,9 @@ type: Feat
 # Interfering Surge <span class="action-icon">5</span> <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Archetype</span>
-**Source** [[Secrets of Magic]] 
-**Archetype** [[Wellspring Mage]]
-**Prerequisites** [[Wellspring Mage Dedication]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
+**Archetype** [[DATABASE/archetype/Wellspring Mage|Wellspring Mage]]
+**Prerequisites** [[DATABASE/feat/Wellspring Mage Dedication|Wellspring Mage Dedication]]
 **Trigger** A creature you can see Casts a Spell.
 **Requirements** You have an unexpended spell slot and can see the triggering spell's manifestations.
 

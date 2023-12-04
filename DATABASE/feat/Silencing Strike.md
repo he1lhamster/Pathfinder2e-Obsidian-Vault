@@ -11,6 +11,7 @@ name: Silencing Strike
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,12 +26,12 @@ type: Feat
 # Silencing Strike <span class="action-icon">1</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Barbarian</span><span class="item-trait">Incapacitation</span><span class="item-trait">Rage</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
 A quick strike to the face or mouth silences your opponent. Make a melee Strike against a foe. The foe must succeed at a Fortitude save against your class DC.
 **Success** The target is unaffected.
-**Failure** The target is dazed and can barely vocalize. It's [[Stunned]] and its speech is raspy and hard to understand. It must succeed at a DC 11 flat check to use linguistic actions or supply verbal spellcasting components until the end of its next turn.
+**Failure** The target is dazed and can barely vocalize. It's [[DATABASE/condition/Stunned|stunned 1]] and its speech is raspy and hard to understand. It must succeed at a DC 11 flat check to use linguistic actions or supply verbal spellcasting components until the end of its next turn.
 **Critical Failure** As failure, but the creature is stunned 3 instead of stunned 1.
 
 ## Traits

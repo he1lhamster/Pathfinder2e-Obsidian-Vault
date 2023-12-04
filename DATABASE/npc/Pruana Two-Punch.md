@@ -67,29 +67,29 @@ wisdom: '+2'
 # Pruana Two-Punch
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 28
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 28
 **Unspecific Lore**: DC 26
 **Specific Lore**: DC 23
 
 # Pruana Two-Punch<span class="item-type">Creature 3</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Dwarf</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 151. The Show Must Go On]]
-Female [[Dwarf]] brawler
-**Perception** +7; [[Darkvision]]
-**Languages** [[Common]], [[Dwarven]]
-**Skills** [[Lore]] +7, [[Athletics]] +9, [[Deception]] +8, [[Intimidation]] +8, [[Thievery]] +7
+**Source** [[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: The Show Must Go On]]
+Female [[DATABASE/ancestry/Dwarf|dwarf]] brawler
+**Perception** +7; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Dwarven|Dwarven]]
+**Skills** [[DATABASE/skill/Lore|Abberton Lore]] +7, [[DATABASE/skill/Athletics|Athletics]] +9, [[DATABASE/skill/Deception|Deception]] +8, [[DATABASE/skill/Intimidation|Intimidation]] +8, [[DATABASE/skill/Thievery|Thievery]] +7
 **Str** +4, **Dex** +0, **Con** +2, **Int** +0, **Wis** +2, **Cha** +1
-**Items** [[Chain Mail]]
+**Items** [[DATABASE/armor/Chain Mail|chain mail]]
 
 ---
-**AC** 20; **Fort** +9, **Ref** +8, **Will** +7; +2 circumstance to Fortitude and Reflex vs. [[Shove]] or [[Trip]]
+**AC** 20; **Fort** +9, **Ref** +8, **Will** +7; +2 circumstance to Fortitude and Reflex vs. [[DATABASE/action/Shove|Shove]] or [[DATABASE/action/Trip|Trip]]
 **HP** 46
 
 ---
 **Speed** 20 feet
 <span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +9 [+5/+1] (agile, nonlethal), **Damage** 1d6+3 bludgeoning</span><span class="in-box-ability">**Haymaker** <span class="action-icon">1</span> (press) Pruana makes a fist Strike against a target she has previously attacked this turn. If she hits, she gains a +3 circumstance bonus to the damage, and the creature must attempt a DC 20 Fortitude save to resist the staggering force of the blow. 
 **Critical Success** The target is unaffected. 
-**Success** The target is [[Stunned]]. 
+**Success** The target is [[DATABASE/condition/Stunned|stunned 1]]. 
 **Failure** The target is stunned 3. 
-**Critical Failure** The target is knocked [[Prone]] and stunned 5.</span>
+**Critical Failure** The target is knocked [[DATABASE/condition/Prone|prone]] and stunned 5.</span>

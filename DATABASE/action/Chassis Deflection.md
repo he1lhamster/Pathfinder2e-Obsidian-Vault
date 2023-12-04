@@ -7,6 +7,7 @@ id: '904'
 name: Chassis Deflection
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait: null
@@ -16,7 +17,7 @@ type: Action
 ---
 # Chassis Deflection <span class="action-icon">5</span>
 
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Trigger** A critical hit deals physical damage to you
 
 ---

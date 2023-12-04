@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/action/Exploit Vulnerability|Exploit Vulnerability]]'
 rarity: Common
 requirement: Your last action was a successful Strike against the target of your Exploit
   Vulnerability, and theStrike dealt physical damage.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -26,8 +27,8 @@ type: Feat
 # Cursed Effigy <span class="action-icon">1</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Curse</span><span class="item-trait">Esoterica</span><span class="item-trait">Thaumaturge</span>
-**Source** [[Dark Archive]]
-**Prerequisites** [[Exploit Vulnerability]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Prerequisites** [[DATABASE/action/Exploit Vulnerability|Exploit Vulnerability]]
 **Requirements** Your last action was a successful Strike against the target of your Exploit Vulnerability, and the Strike dealt physical damage.
 
 ---

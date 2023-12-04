@@ -11,6 +11,7 @@ name: Analyze Information
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Analyze Information <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Aphorite</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-You can stoke your mind into a burst of analytical prowess. You can cast 3rd-level [[Hypercognition]] once per day as a divine innate spell.
+You can stoke your mind into a burst of analytical prowess. You can cast 3rd-level [[DATABASE/spell/Hypercognition|hypercognition]] once per day as a divine innate spell.
 
 ## Traits
 

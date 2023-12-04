@@ -20,6 +20,7 @@ patron_theme: null
 range: 60 feet
 rarity: Uncommon
 requirement: The triggering shield had more than 1 Hit Points before taking damage
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
@@ -37,7 +38,7 @@ type: Spell
 # Desperate Repair<span class="item-type">Spell 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Transmutation</span>
-**Source** [[Knights of Lastwall]]
+**Source** [[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]
 **Access** Knights of Lastwall have access to this spell.
 **Traditions** arcane, primal
 **Cast** <span class="action-icon">5</span> verbal; **Trigger** A shield within range would be reduced to 0 Hit Points by a damaging effect; **Requirements** The triggering shield had more than 1 Hit Points before taking damage

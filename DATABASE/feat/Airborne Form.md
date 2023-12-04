@@ -11,6 +11,7 @@ name: Airborne Form
 prerequisite: '[[DATABASE/feat/Glider Form|Glider Form]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Airborne Form <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Evolution</span><span class="item-trait">Summoner</span>
-**Source** [[Secrets of Magic]] 
-**Prerequisites** [[Glider Form]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
+**Prerequisites** [[DATABASE/feat/Glider Form|Glider Form]]
 
 ---
 Your eidolon can fly. It gains a fly Speed equal to its Speed.

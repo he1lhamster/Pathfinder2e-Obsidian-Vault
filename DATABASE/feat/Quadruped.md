@@ -11,6 +11,7 @@ name: Quadruped
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Quadruped <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Poppet</span>
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 
 ---
 You were crafted in a form with four legs rather than two. Your Speed is 30 feet.

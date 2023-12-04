@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -53,7 +54,7 @@ weapon_type: null
 # Winged<span class="item-type">Item 13+</span>
 
 <span class="item-trait">Magical</span><span class="item-trait">Transmutation</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Usage** etched onto armor; **Bulk** —
 
 ---
@@ -62,11 +63,11 @@ This rune is a swirling glyph on the front of the armor. A large pair of transpa
 
 ## Winged<span class="item-type">Item 13</span>
 
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Price** 2,500 gp
 
 ## Winged (Greater)<span class="item-type">Item 19</span>
 
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Price** 35,000 gp
 Once activated, the wings remain tangible indefinitely. You can Dismiss the activation if you choose, and you don't have to wait an hour to activate the rune again.

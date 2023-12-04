@@ -74,16 +74,16 @@ wisdom: '+1'
 
 Giant rats are enormous versions of the common vermin. They are typically found in abundant numbers, but since they cannot flt in the nooks where mundane rats typically hide, they are much easier to locate and exterminate. They mostly live in sewers where they can scavenge from the streets above, but some families of giant rats live in more remote locations, such as dank caves or forests and hills. Rats are incredibly adept survivors and can be found nearly anywhere in the world, though they tend to favor temperate or warm climates as opposed to cold regions.
  Although its bite alone is not lethal except to the very young or very old, the giant rat carries the filth fever common to rodents around the world—a pestilence more than capable of ravaging rural communities.
-**Recall Knowledge - Animal ([[Nature]])**: DC 13
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 13
 **Unspecific Lore**: DC 11
 **Specific Lore**: DC 8
 
 # Giant Rat<span class="item-type">Creature -1</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Small</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +5; low-light vision, scent (imprecise) 30 feet
-**Skills** [[Acrobatics]] +5, [[Athletics]] +2 (+4 to Climb or Swim), [[Stealth]] +5
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +5, [[DATABASE/skill/Athletics|Athletics]] +2 (+4 to Climb or Swim), [[DATABASE/skill/Stealth|Stealth]] +5
 **Str** +1, **Dex** +3, **Con** +2, **Int** -4, **Wis** +1, **Cha** -3
 
 ---
@@ -92,4 +92,4 @@ Giant rats are enormous versions of the common vermin. They are typically found 
 
 ---
 **Speed** 30 feet, climb 10 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +7 [+3/-1] (agile, finesse), **Damage** 1d6+1 piercing plus filth fever</span><span class="in-box-ability">**Filth Fever** (disease) The [[Sickened]] and [[Unconscious]] conditions from filth fever don’t improve on their own until the disease is cured. **Saving Throw** DC 14 Fortitude; **Stage 1** carrier with no ill effect (1d4 hours), **Stage 2** [[Sickened]] (1 day), **Stage 3** [[Sickened]] and [[Slowed]] (1 day), **Stage 4** [[Unconscious]] (1 day), **Stage 5** dead</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +7 [+3/-1] (agile, finesse), **Damage** 1d6+1 piercing plus filth fever</span><span class="in-box-ability">**Filth Fever** (disease) The [[DATABASE/condition/Sickened|sickened]] and [[DATABASE/condition/Unconscious|unconscious]] conditions from filth fever don’t improve on their own until the disease is cured. **Saving Throw** DC 14 Fortitude; **Stage 1** carrier with no ill effect (1d4 hours), **Stage 2** [[DATABASE/condition/Sickened|sickened 1]] (1 day), **Stage 3** [[DATABASE/condition/Sickened|sickened 1]] and [[DATABASE/condition/Slowed|slowed 1]] (1 day), **Stage 4** [[DATABASE/condition/Unconscious|unconscious]] (1 day), **Stage 5** dead</span>

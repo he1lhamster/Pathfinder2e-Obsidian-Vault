@@ -11,6 +11,7 @@ name: Greater Debilitating Bomb
 prerequisite: '[[DATABASE/feat/Debilitating Bomb|Debilitating Bomb]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,12 +24,12 @@ type: Feat
 # Greater Debilitating Bomb <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Alchemist</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Debilitating Bomb]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/feat/Debilitating Bomb|Debilitating Bomb]]
 
 ---
-You have learned enhanced techniques and alchemical secrets that allow you to expand the range of effects you can impose with your bombs. When you use [[Debilitating Bomb]], add the following to the list you can choose from: clumsy 1, enfeebled 1, stupefied 1, or –10-foot status penalty to Speeds.
+You have learned enhanced techniques and alchemical secrets that allow you to expand the range of effects you can impose with your bombs. When you use [[DATABASE/feat/Debilitating Bomb|Debilitating Bomb]], add the following to the list you can choose from: clumsy 1, enfeebled 1, stupefied 1, or –10-foot status penalty to Speeds.
 
 ## Greater Debilitating Bomb Leads To...
 
-[[True Debilitating Bomb]]
+[[DATABASE/feat/True Debilitating Bomb|True Debilitating Bomb]]

@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -53,7 +54,7 @@ weapon_type: null
 # Smokestick<span class="item-type">Item 1+</span>
 
 <span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** held in 2 hands; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
@@ -62,12 +63,12 @@ With a sharp twist of this item, you instantly create a screen of thick, opaque 
 
 ## Smokestick (Lesser)<span class="item-type">Item 1</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 3 gp
 The radius of the burst is 5 feet.
 
 ## Smokestick (Greater)<span class="item-type">Item 7</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 53 gp
 The radius of the burst is 20 feet.

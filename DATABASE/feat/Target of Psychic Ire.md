@@ -11,6 +11,7 @@ name: Target of Psychic Ire
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -26,7 +27,7 @@ type: Feat
 # Target of Psychic Ire <span class="item-type">Feat 16</span>
 
 <span class="item-trait">Amp</span><span class="item-trait">Evocation</span><span class="item-trait">Occult</span><span class="item-trait">Psychic</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 
 ---
 Your magic saturates your surroundings with hateful psychic energy. Use this amp in place of a psi cantrip's normal amp entry. The cantrip must be one that takes 2 or more actions to cast and targets a creature.

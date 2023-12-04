@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -50,7 +51,7 @@ weapon_type: null
 ---
 # Toy Carriage<span class="item-type">Item 0+</span>
 
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Bulk** —
 
 ---
@@ -58,14 +59,14 @@ A miniature toy carriage is carved from wood and has fully functioning wheels. I
 
 ## Toy Carriage<span class="item-type">Item 0</span>
 
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 5 sp
 **Hands** 1; **Usage** held in 1 hand
 If pushed and released as an Interact action, a toy carriage rolls along the ground up to 20 feet.
 
 ## Toy Carriage (Windup)<span class="item-type">Item 2</span>
 
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 5 gp
 **Hands** 2; **Usage** held in 2 hands
 A tiny crank protrudes from the side of this carriage. If the crank is wound and the carriage is released on the ground, the carriage propels in a straight line at a Speed of 10 feet. Each Interact action spent winding the crank propels the carriage for 1 round. A windup toy carriage can be wound for a maximum of 9 actions total, at which point it's too tight to wind further.

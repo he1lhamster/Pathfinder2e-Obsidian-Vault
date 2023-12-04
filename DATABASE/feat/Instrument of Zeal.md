@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/class_/Champion|divine ally (blade)]] ; [[DATABASE/cha
   of good]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Instrument of Zeal <span class="item-type">Feat 16</span>
 
 <span class="item-trait">Champion</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Champion]]; [[Good]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/class_/Champion|divine ally (blade)]]; [[DATABASE/championtenet/Good|tenets of good]]
 
 ---
-Divine energy fills your weapon. Whenever you critically hit a foe with [[Blade of Justice]] or a Retributive Strike, your attack adds an extra damage die, and the target is slowed 1 on its next turn.
+Divine energy fills your weapon. Whenever you critically hit a foe with [[DATABASE/feat/Blade of Justice|Blade of Justice]] or a Retributive Strike, your attack adds an extra damage die, and the target is slowed 1 on its next turn.

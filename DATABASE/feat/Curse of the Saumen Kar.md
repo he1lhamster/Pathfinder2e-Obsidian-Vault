@@ -11,6 +11,7 @@ name: Curse of the Saumen Kar
 prerequisite: '[[DATABASE/feat/Frostbite Runes|Frostbite Runes]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Monsters of Myth|Monsters of Myth]]'
 subcategory: null
@@ -25,10 +26,10 @@ type: Feat
 # Curse of the Saumen Kar <span class="action-icon">2</span> <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Conjuration</span><span class="item-trait">Primal</span>
-**Source** [[Monsters of Myth]]
-**Archetype** [[Pactbound Initiate]]
+**Source** [[DATABASE/source/Monsters of Myth|Monsters of Myth]]
+**Archetype** [[DATABASE/archetype/Pactbound Initiate|Pactbound Initiate]]
 **Frequency** once per day
-**Prerequisites** [[Frostbite Runes]]
+**Prerequisites** [[DATABASE/feat/Frostbite Runes|Frostbite Runes]]
 
 ---
 You activate the runes on your body to create an icy prison around a Huge or smaller creature you can see within 60 feet. The prison is a sphere made of unmelting ice, just large enough to fit your target. The target, and any creatures sharing its space, must attempt a Reflex save, with a DC using the higher of your class DC and spell DC. A creature that fails becomes trapped inside the prison. If it succeeds, the creature is pushed outside the prison into a space of its choice. If the target shares its space with a gargantuan creature, the effect fails.

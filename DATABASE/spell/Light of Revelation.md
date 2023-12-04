@@ -21,6 +21,7 @@ patron_theme: null
 range: 30-foot emanation
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
@@ -38,7 +39,7 @@ type: Focus
 # Light of Revelation<span class="item-type">Focus 2</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Divination</span><span class="item-trait">Light</span><span class="item-trait">Revelation</span>
-**Source** [[Character Guide]] 
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30-foot emanation
 **Duration** 5 minutes

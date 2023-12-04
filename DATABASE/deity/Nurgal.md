@@ -22,6 +22,7 @@ follower_alignment:
 id: '78'
 name: Nurgal
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Survival|Survival]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -31,7 +32,7 @@ type: Deity
 ---
 # Nurgal (The Shining Scourge) [CE]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 Nurgal, the Shining Scourge, is the demon lord of deserts, senseless warfare, and the sun. He was formerly a fully fledged deity of ancient Azlant, but fell to demigodhood after being defeated in combat. Nurgal represents the sun’s potential for devastation, and his followers venerate him out of cowed awe. The demon lord appears as a muscular, tanned man with the head and lower body of a golden lion and a dragon’s tail. He is almost always depicted as wielding a mace in the form of a miniature sun, held in a taloned hand. Nurgal’s worshippers are primarily found in the deserts of Garund, Ninshabur, and Qadira.
 **Category** Demon Lords
 **Edicts** Wage war in the desert, deny water to your foes
@@ -41,9 +42,9 @@ Nurgal, the Shining Scourge, is the demon lord of deserts, senseless warfare, an
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Constitution or Charisma
-**Divine Font** _[[Harm]]_
-**Divine Skill** [[Survival]]
-**Favored Weapon** [[Mace]]
-**Domains** [[Destruction Domain]], [[Dust Domain]], [[Fire Domain]], [[Sun Domain]]
-**Cleric Spells** 1st: _[[Burning Hands]]_, 2nd: _[[Flaming Sphere]]_, 3rd: _[[Cup of Dust]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Constitution or Charisma
+**Divine Font** _[[DATABASE/spell/Harm|harm]]_
+**Divine Skill** [[DATABASE/skill/Survival|Survival]]
+**Favored Weapon** [[DATABASE/weapon/Mace|mace]]
+**Domains** [[DATABASE/domain/Destruction Domain|destruction]], [[DATABASE/domain/Dust Domain|dust]], [[DATABASE/domain/Fire Domain|fire]], [[DATABASE/domain/Sun Domain|sun]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Burning Hands|burning hands]]_, 2nd: _[[DATABASE/spell/Flaming Sphere|flaming sphere]]_, 3rd: _[[DATABASE/spell/Cup of Dust|cup of dust]]_

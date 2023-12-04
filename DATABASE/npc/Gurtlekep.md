@@ -64,20 +64,20 @@ wisdom: '+1'
 # Gurtlekep
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 16
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
 # Gurtlekep<span class="item-type">Creature 2</span>
 
 <span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Small</span><span class="item-trait">Humanoid</span><span class="item-trait">Kobold</span>
-**Source** [[Crown of the Kobold King]]
-Male [[Kobold]] lookout
-**Perception** +7; [[Darkvision]]
-**Languages** [[Draconic]]
-**Skills** [[Acrobatics]] +8, [[Crafting]] +6 (+8 traps), [[Stealth]] +10, [[Thievery]] +8
+**Source** [[DATABASE/source/Crown of the Kobold King|Crown of the Kobold King]]
+Male [[DATABASE/ancestry/Kobold|kobold]] lookout
+**Perception** +7; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Draconic|Draconic]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +8, [[DATABASE/skill/Crafting|Crafting]] +6 (+8 traps), [[DATABASE/skill/Stealth|Stealth]] +10, [[DATABASE/skill/Thievery|Thievery]] +8
 **Str** +1, **Dex** +4, **Con** +2, **Int** +4, **Wis** +1, **Cha** +0
-**Items** _[[Healing Potion]]_ (2), [[Dagger]], [[Leather Armor]], [[Shortsword]], [[Thieves' Tools]]
+**Items** _[[DATABASE/equipment/Healing Potion|minor healing potions]]_ (2), [[DATABASE/weapon/Dagger|daggers (4)]], [[DATABASE/armor/Leather Armor|leather armor]], [[DATABASE/weapon/Shortsword|shortsword]], [[DATABASE/equipment/Thieves' Tools|thieves' tools]]
 
 ---
 **AC** 18; **Fort** +10, **Ref** +8, **Will** +5
@@ -85,4 +85,4 @@ Male [[Kobold]] lookout
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> shortsword +10 [+6/+2] (agile, finesse), **Damage** 1d6+3 slashing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> dagger +10 [+6/+2] (agile, finesse, thrown 10 feet, versatile S), **Damage** 1d4+3</span><span class="in-box-ability">**Knife 'n Run** <span class="action-icon">1</span> **Requirements** Gurtlekep is adjacent to at least one enemy and holds a [[Dagger]] in a hand; **Effect** Gurtlekep Strides up to his Speed plus 5 feet and then attempts a ranged Strike with his held dagger. He must end this movement in a space that isn't adjacent to any enemy.</span><span class="in-box-ability">**[[Sneak Attack]]** Gurtlekep deals an additional 1d6 precision damage to [[Flat-Footed]] creatures.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> shortsword +10 [+6/+2] (agile, finesse), **Damage** 1d6+3 slashing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> dagger +10 [+6/+2] (agile, finesse, thrown 10 feet, versatile S), **Damage** 1d4+3</span><span class="in-box-ability">**Knife 'n Run** <span class="action-icon">1</span> **Requirements** Gurtlekep is adjacent to at least one enemy and holds a [[DATABASE/weapon/Dagger|dagger]] in a hand; **Effect** Gurtlekep Strides up to his Speed plus 5 feet and then attempts a ranged Strike with his held dagger. He must end this movement in a space that isn't adjacent to any enemy.</span><span class="in-box-ability">**[[DATABASE/monsterability/Sneak Attack|Sneak Attack]]** Gurtlekep deals an additional 1d6 precision damage to [[DATABASE/condition/Flat-Footed|flat-footed]] creatures.</span>

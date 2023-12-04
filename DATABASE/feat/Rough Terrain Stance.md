@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Geomancer Dedication|Geomancer Dedication]] ; Exp
   in [[DATABASE/skill/Nature|Nature]]'
 rarity: Common
 requirement: You gained a terrain attunement benefit this turn.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -25,9 +26,9 @@ type: Feat
 # Rough Terrain Stance <span class="action-icon">1</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Stance</span>
-**Source** [[Secrets of Magic]] 
-**Archetype** [[Geomancer]]
-**Prerequisites** [[Geomancer Dedication]]; expert in [[Nature]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
+**Archetype** [[DATABASE/archetype/Geomancer|Geomancer]]
+**Prerequisites** [[DATABASE/feat/Geomancer Dedication|Geomancer Dedication]]; expert in [[DATABASE/skill/Nature|Nature]]
 **Requirements** You gained a terrain attunement benefit this turn.
 
 ---
@@ -36,7 +37,7 @@ You enter a stance that makes it difficult to move around you. Each square adjac
 
 ## Rough Terrain Stance Leads To...
 
-[[Shifting Terrain]]
+[[DATABASE/feat/Shifting Terrain|Shifting Terrain]]
 
 ## Traits
 

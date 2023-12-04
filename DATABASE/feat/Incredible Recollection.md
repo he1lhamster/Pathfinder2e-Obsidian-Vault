@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Eldritch Researcher Dedication|Eldritch Researche
   Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 164. Hands of the Devil|Pathfinder #164: Hands
   of the Devil]]'
@@ -25,12 +26,12 @@ type: Feat
 # Incredible Recollection <span class="action-icon">1</span> <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Pathfinder 164. Hands of the Devil]]
-**Archetype** [[Eldritch Researcher]]
-**Prerequisites** [[Eldritch Researcher Dedication]]
+**Source** [[DATABASE/source/Pathfinder 164. Hands of the Devil|Pathfinder #164: Hands of the Devil]]
+**Archetype** [[DATABASE/archetype/Eldritch Researcher|Eldritch Researcher]]
+**Prerequisites** [[DATABASE/feat/Eldritch Researcher Dedication|Eldritch Researcher Dedication]]
 
 ---
-You can sift through knowledge locked within your mind at an incredible pace. You instantly use up to 5 [[Recall Knowledge]] actions. If you have any special abilities or free actions that would normally be triggered when you Recall Knowledge, you can't use them for these actions.
+You can sift through knowledge locked within your mind at an incredible pace. You instantly use up to 5 [[DATABASE/action/Recall Knowledge|Recall Knowledge]] actions. If you have any special abilities or free actions that would normally be triggered when you Recall Knowledge, you can't use them for these actions.
 
 ## Traits
 

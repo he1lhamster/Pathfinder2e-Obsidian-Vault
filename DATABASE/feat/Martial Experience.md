@@ -11,6 +11,7 @@ name: Martial Experience
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Martial Experience <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Elf</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
 You've crossed blades with a wide variety of foes wielding a wide variety of weapons, and you've learned the basics of fighting with nearly any of them. When wielding a weapon you aren't proficient with, treat your level as your proficiency bonus.
@@ -33,4 +34,4 @@ You've crossed blades with a wide variety of foes wielding a wide variety of wea
 
 **Elf:**
 
-A creature with this trait is a member of the elf ancestry. Elves are mysterious people with rich traditions of magic and scholarship who typically have [[Low-Light Vision]]. An ability with this trait can be used or selected only by elves. A weapon with this trait is created and used by elves.
+A creature with this trait is a member of the elf ancestry. Elves are mysterious people with rich traditions of magic and scholarship who typically have [[DATABASE/monsterability/Low-Light Vision|low-light vision]]. An ability with this trait can be used or selected only by elves. A weapon with this trait is created and used by elves.

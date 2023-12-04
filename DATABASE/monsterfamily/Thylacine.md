@@ -3,6 +3,7 @@ creature_family: Thylacine
 id: '321'
 name: Thylacine
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Thylacine
 
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 The thylacine is a marsupial carnivore. This nocturnal predator typically hunts alone, only occasionally forming small packs. Because of their odd appearance, thylacines have a far harsher reputation than they probably should, playing a sort of bogeyman role in farming communities.
 
 ### Members
 
-[[Brush Thylacine]] (Creature 2), [[Thylacine]] (Creature 0)
+[[DATABASE/monster/Brush Thylacine|Brush Thylacine]] (Creature 2), [[DATABASE/monster/Thylacine|Thylacine]] (Creature 0)
 
 ###  Other Thylacines
 

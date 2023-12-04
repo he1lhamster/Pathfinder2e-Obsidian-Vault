@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 size: null
@@ -56,44 +57,44 @@ weapon_type: null
 # Oil of Unlife<span class="item-type">Item 1+</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Magical</span><span class="item-trait">Necromancy</span><span class="item-trait">Negative</span><span class="item-trait">Oil</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
 ---
-This thin, black liquid imparts a bone-deep chill while rapidly repairing an undead creature's physical or spiritual form. When you dash _oil of unlife_ onto an undead creature, or a living creature with [[Negative Healing]], the oil absorbs quickly into its body, and the creature regains the listed number of Hit Points. You can pour _oil of unlife_ on an incorporeal undead; in this case, the creature absorbs the oil into itself.
+This thin, black liquid imparts a bone-deep chill while rapidly repairing an undead creature's physical or spiritual form. When you dash _oil of unlife_ onto an undead creature, or a living creature with [[DATABASE/monsterability/Negative Healing|negative healing]], the oil absorbs quickly into its body, and the creature regains the listed number of Hit Points. You can pour _oil of unlife_ on an incorporeal undead; in this case, the creature absorbs the oil into itself.
 
 ## Oil of Unlife (Minor)<span class="item-type">Item 1</span>
 
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Price** 4 gp
 **Bulk** L
 The oil restores 1d8 Hit Points.
 
 ## Oil of Unlife (Lesser)<span class="item-type">Item 3</span>
 
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Price** 12 gp
 **Bulk** L
 The oil restores 2d8+5 Hit Points.
 
 ## Oil of Unlife (Moderate)<span class="item-type">Item 6</span>
 
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Price** 50 gp
 **Bulk** L
 The oil restores 3d8+10 Hit Points.
 
 ## Oil of Unlife (Greater)<span class="item-type">Item 12</span>
 
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Price** 400 gp
 **Bulk** L
 The oil restores 6d8+20 Hit Points.
 
 ## Oil of Unlife (Major)<span class="item-type">Item 18</span>
 
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Price** 5,000 gp
 **Bulk** L
 The oil restores 8d8+30 Hit Points.

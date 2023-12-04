@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 size: null
@@ -53,7 +54,7 @@ weapon_type: null
 # Predictable Silver Piece<span class="item-type">Item 1</span>
 
 <span class="item-trait">Divination</span><span class="item-trait">Magical</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Price** 3 gp
 **Usage** held in 1 hand; **Bulk** —
 

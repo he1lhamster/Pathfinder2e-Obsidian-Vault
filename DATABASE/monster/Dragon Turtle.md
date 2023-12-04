@@ -95,17 +95,17 @@ wisdom: '+3'
 
 When sailors warn others of the terrible threats of the open sea, they seldom forget to mention dragon turtles—immense aquatic dragons with rocky shells similar to those of tortoises and flippers powerful enough to overturn hardy vessels. These fearsome creatures enjoy being considered as dangerous as storms or natural disasters by seafaring folk. Dragon turtles delight in amassing treasure, although most prefer to receive tribute from passing sailors and often store their hoards in the shipwrecks of vessels once crewed by those unwilling to surrender their valuables. Dragon turtles are solitary creatures and hunt in regions encompassing a hundred square miles or more. Although they normally eat large fish, they are omnivorous and also eat seaweed or even foolhardy dragon hunters. Experienced sailors keep a keen eye out for dragon turtles, preparing to flee should one approach or offer it treasure in exchange for safe passage.
  Most dragon turtles are at least 20 feet wide and 50 feet long, although some can grow substantially larger. These massive, ancient dragon turtles are somnolent, and resemble rocky islands from a distance; their prodigious hoards can be a source of truly ancient sea lore. Legends persist of truly immense dragon turtles who spend centuries drifting on the surface of the ocean, far from established shipping lanes or charted waters, with shells that serve as islands capable of supporting entire ecosystems and even, some claim, small settlements whose inhabitants know nothing of land that doesn’t drift across the sea.
-**Recall Knowledge - Dragon ([[Arcana]])**: DC 26
+**Recall Knowledge - Dragon ([[DATABASE/skill/Arcana|Arcana]])**: DC 26
 **Unspecific Lore**: DC 24
 **Specific Lore**: DC 21
 
 # Dragon Turtle<span class="item-type">Creature 9</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Huge</span><span class="item-trait">Amphibious</span><span class="item-trait">Dragon</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +18; darkvision
-**Languages** [[Aquan]], [[Common]], [[Draconic]]
-**Skills** [[Athletics]] +21, [[Diplomacy]] +16, [[Intimidation]] +18, [[Stealth]] +13, [[Survival]] +17
+**Languages** [[DATABASE/language/Aquan|Aquan]], [[DATABASE/language/Common|Common]], [[DATABASE/language/Draconic|Draconic]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +21, [[DATABASE/skill/Diplomacy|Diplomacy]] +16, [[DATABASE/skill/Intimidation|Intimidation]] +18, [[DATABASE/skill/Stealth|Stealth]] +13, [[DATABASE/skill/Survival|Survival]] +17
 **Str** +6, **Dex** +0, **Con** +4, **Int** +1, **Wis** +3, **Cha** +1
 
 ---
@@ -116,7 +116,7 @@ When sailors warn others of the terrible threats of the open sea, they seldom fo
 ---
 **Speed** 20 feet, swim 30 feet
 <span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +21 [+16/+11] (reach 10 feet), **Damage** 2d12+9 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +21 [+17/+13] (agile), **Damage** 2d8+9 slashing</span><span class="in-box-ability">**Breath Weapon** <span class="action-icon">2</span> (air, fire, primal) The dragon turtle breathes a massive blast of steam that deals 10d6 fire damage to creatures within a 50-foot cone (DC 27 basic Reflex save). This steam blast affects creatures within the water, as well as outside. The dragon turtle can't use its Breath Weapon again for 1d4 rounds or until it takes a critical hit (whichever comes first).
-</span><span class="in-box-ability">**Capsize** <span class="action-icon">1</span> (attack, move) The dragon turtle tries to capsize an adjacent aquatic vessel of its size or smaller. The dragon turtle must succeed at an [[Athletics]] check with a DC of 30 or the pilot's [[Lore]] DC, whichever is higher.
+</span><span class="in-box-ability">**Capsize** <span class="action-icon">1</span> (attack, move) The dragon turtle tries to capsize an adjacent aquatic vessel of its size or smaller. The dragon turtle must succeed at an [[DATABASE/skill/Athletics|Athletics]] check with a DC of 30 or the pilot's [[DATABASE/skill/Lore|Sailing Lore]] DC, whichever is higher.
 </span><span class="in-box-ability">**Draconic Frenzy** <span class="action-icon">2</span> The dragon turtle makes two Claw Strikes and one Jaws Strike in any order.</span>
 
 ###  Dragon Turtle Locations

@@ -75,20 +75,20 @@ wisdom: '+0'
 # Kerrdremak
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 25
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 25
 **Unspecific Lore**: DC 23
 **Specific Lore**: DC 20
 
 # Kerrdremak<span class="item-type">Creature 1</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Small</span><span class="item-trait">Humanoid</span><span class="item-trait">Kobold</span>
-**Source** [[Crown of the Kobold King]]
-Male [[Kobold]] [[Witch]] 1
-**Perception** +5; [[Darkvision]]
-**Languages** [[Draconic]], [[Infernal]]
-**Skills** [[Deception]] +6, [[Intimidation]] +6, [[Occultism]] +7, [[Religion]] +5, [[Stealth]] +7
+**Source** [[DATABASE/source/Crown of the Kobold King|Crown of the Kobold King]]
+Male [[DATABASE/ancestry/Kobold|kobold]] [[DATABASE/class_/Witch|witch]] 1
+**Perception** +5; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Infernal|Infernal]]
+**Skills** [[DATABASE/skill/Deception|Deception]] +6, [[DATABASE/skill/Intimidation|Intimidation]] +6, [[DATABASE/skill/Occultism|Occultism]] +7, [[DATABASE/skill/Religion|Religion]] +5, [[DATABASE/skill/Stealth|Stealth]] +7
 **Str** -1, **Dex** +2, **Con** +1, **Int** +4, **Wis** +0, **Cha** +3
-**Items** [[Dagger]]
+**Items** [[DATABASE/weapon/Dagger|dagger]]
 
 ---
 **AC** 15; **Fort** +6, **Ref** +7, **Will** +5
@@ -96,6 +96,6 @@ Male [[Kobold]] [[Witch]] 1
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> dagger +7 [+3/-1] (agile, finesse, versatile S), **Damage** 1d4–1 piercing</span>**Divine Spells Prepared** DC 17, attack +9; **1st** _[[Command]]_, _[[Fear]]_, _[[Ray of Enfeeblement]]_; **Cantrips** **(1st)** _[[Divine Lance]]_, _[[Guidance]]_, _[[Message]]_, _[[Shield]]_, _[[Sigil]]_
-**Hex Cantrips** DC 17; **1st** _[[Stoke the Heart]]_
-<span class="in-box-ability">**Whispering Retreat** <span class="action-icon">2</span> (divine, emotion, enchantment, fear, mental) **Requirements** Kerrdremak is adjacent to at least one enemy; **Effect** Kerrdremak whispers under his breath, and one adjacent enemy must attempt a DC 17 Will save or become [[Frightened]] as they hear a whispering voice just behind them that claims to know when the target will die; the target is then temporarily immune to Whispering Retreat for 1 hour. Kerrdremak then Strides, and this movement doesn't trigger reactions from frightened creatures. He must end this movement in a space that isn't adjacent to any enemy</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> dagger +7 [+3/-1] (agile, finesse, versatile S), **Damage** 1d4–1 piercing</span>**Divine Spells Prepared** DC 17, attack +9; **1st** _[[DATABASE/spell/Command|command]]_, _[[DATABASE/spell/Fear|fear]]_, _[[DATABASE/spell/Ray of Enfeeblement|ray of enfeeblement]]_; **Cantrips** **(1st)** _[[DATABASE/spell/Divine Lance|divine lance]]_, _[[DATABASE/spell/Guidance|guidance]]_, _[[DATABASE/spell/Message|message]]_, _[[DATABASE/spell/Shield|shield]]_, _[[DATABASE/spell/Sigil|sigil]]_
+**Hex Cantrips** DC 17; **1st** _[[DATABASE/spell/Stoke the Heart|stoke the heart]]_
+<span class="in-box-ability">**Whispering Retreat** <span class="action-icon">2</span> (divine, emotion, enchantment, fear, mental) **Requirements** Kerrdremak is adjacent to at least one enemy; **Effect** Kerrdremak whispers under his breath, and one adjacent enemy must attempt a DC 17 Will save or become [[DATABASE/condition/Frightened|frightened 1]] as they hear a whispering voice just behind them that claims to know when the target will die; the target is then temporarily immune to Whispering Retreat for 1 hour. Kerrdremak then Strides, and this movement doesn't trigger reactions from frightened creatures. He must end this movement in a space that isn't adjacent to any enemy</span>

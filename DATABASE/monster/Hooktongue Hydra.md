@@ -73,24 +73,24 @@ wisdom: '+5'
 # Hooktongue Hydra
 
 This creature did not include a description.
-**Recall Knowledge - Beast ([[Arcana]], [[Nature]])**: DC 41
+**Recall Knowledge - Beast ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 41
 **Unspecific Lore**: DC 39
 **Specific Lore**: DC 36
 
 # Hooktongue Hydra<span class="item-type">Creature 13</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Huge</span><span class="item-trait">Beast</span>
-**Source** [[Kingmaker Adventure Path]]
-Variant [[Hydra]]
-**Perception** +26; [[Low-Light Vision]], [[Scent]] (imprecise) 30 feet
-**Skills** [[Athletics]] +27, [[Stealth]] +24 (+27 in water)
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
+Variant [[DATABASE/monster/Hydra|hydra]]
+**Perception** +26; [[DATABASE/monsterability/Low-Light Vision|low-light vision]], [[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +27, [[DATABASE/skill/Stealth|Stealth]] +24 (+27 in water)
 **Str** +8, **Dex** +5, **Con** +6, **Int** -3, **Wis** +5, **Cha** -1
 
 ---
 **AC** 34; **Fort** +25, **Ref** +24, **Will** +22; all-around vision
 **HP** 240 ((body), hydra regeneration 15
 **HP** 45 (head), head regrowth); **Immunities** area damage; **Weaknesses** slashing 5
-<span class="in-box-ability">**[[Attack of Opportunity]] <span class="action-icon">5</span> ** </span><span class="in-box-ability">**Head Regrowth** The Hooktongue Hydra has twelve heads. A creature can attempt to sever one of the hydra's heads by specifically targeting it and dealing damage equal to the head's Hit Points. A head that is not completely severed returns to full Hit Points at the end of any creature's turn.</span><span class="in-box-ability"> A hydra can regrow a severed head using Hydra Regeneration. A creature can prevent this regrowth by dealing acid or fire damage to the stump, cauterizing it. Single-target acid or fire effects need to be targeted at a specific stump, but effects that deal splash damage or affect areas covering the hydra's whole space cauterize all stumps if they deal acid or fire damage. If the attack that severs a head deals any acid or fire damage, the stump is cauterized instantly. If all five heads are cauterized, the hydra dies.</span><span class="in-box-ability">**Hydra Regeneration** The hydra has [[Regeneration]] equal to 3 x the number of heads it has. If a hydra's body is missing any heads and the remaining stumps have not been cauterized, the hydra attempts a DC 35 Fortitude save after it regains Hit Points from regeneration. On a success, one uncauterized stump regrows two heads; on a critical success, two uncauterized stumps regrow into two heads each. The hydra can never grow more than double the number of heads it ordinarily has. The hydra's regeneration only fully deactivates if all its heads are severed and all stumps are cauterized, at which point it dies.</span><span class="in-box-ability">**Multiple Opportunities** A hydra gains an extra reaction per round for each of its heads beyond the first, which it can use only to make Attacks of Opportunity. It can't use more than 1 reaction on the same triggering action, even if a creature leaves several squares within its reach, and the hydra must use a different head for each Attack of Opportunity it makes. Whenever one of the hydra's heads is severed, the hydra loses 1 of its extra reactions per round.</span>
+<span class="in-box-ability">**[[DATABASE/monsterability/Attack of Opportunity|Attack of Opportunity]] <span class="action-icon">5</span> ** </span><span class="in-box-ability">**Head Regrowth** The Hooktongue Hydra has twelve heads. A creature can attempt to sever one of the hydra's heads by specifically targeting it and dealing damage equal to the head's Hit Points. A head that is not completely severed returns to full Hit Points at the end of any creature's turn.</span><span class="in-box-ability"> A hydra can regrow a severed head using Hydra Regeneration. A creature can prevent this regrowth by dealing acid or fire damage to the stump, cauterizing it. Single-target acid or fire effects need to be targeted at a specific stump, but effects that deal splash damage or affect areas covering the hydra's whole space cauterize all stumps if they deal acid or fire damage. If the attack that severs a head deals any acid or fire damage, the stump is cauterized instantly. If all five heads are cauterized, the hydra dies.</span><span class="in-box-ability">**Hydra Regeneration** The hydra has [[DATABASE/monsterability/Regeneration|regeneration]] equal to 3 x the number of heads it has. If a hydra's body is missing any heads and the remaining stumps have not been cauterized, the hydra attempts a DC 35 Fortitude save after it regains Hit Points from regeneration. On a success, one uncauterized stump regrows two heads; on a critical success, two uncauterized stumps regrow into two heads each. The hydra can never grow more than double the number of heads it ordinarily has. The hydra's regeneration only fully deactivates if all its heads are severed and all stumps are cauterized, at which point it dies.</span><span class="in-box-ability">**Multiple Opportunities** A hydra gains an extra reaction per round for each of its heads beyond the first, which it can use only to make Attacks of Opportunity. It can't use more than 1 reaction on the same triggering action, even if a creature leaves several squares within its reach, and the hydra must use a different head for each Attack of Opportunity it makes. Whenever one of the hydra's heads is severed, the hydra loses 1 of its extra reactions per round.</span>
 
 ---
 **Speed** 25 feet, swim 25 feet

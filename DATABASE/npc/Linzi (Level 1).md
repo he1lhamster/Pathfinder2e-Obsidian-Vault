@@ -87,20 +87,20 @@ wisdom: '+1'
 # Linzi (Level 1)
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 25
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 25
 **Unspecific Lore**: DC 23
 **Specific Lore**: DC 20
 
 # Linzi (Level 1)<span class="item-type">Creature 1</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CG</span><span class="trait-size item-trait">Small</span><span class="item-trait">Halfling</span><span class="item-trait">Humanoid</span>
-**Source** [[Kingmaker Companion Guide]]
-Female gutsy halfling bard ([[Artist]] background)
+**Source** [[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]
+Female gutsy halfling bard ([[DATABASE/background/Artist|Artist]] background)
 **Perception** +6; (expert) keen eyes
-**Languages** [[Common]], [[Halfling]], [[Hallit]]
-**Skills** [[Acrobatics]] +6 (trained), [[Lore]] +4 (trained), [[Lore]] +4 (trained), [[Crafting]] +4 (trained), [[Deception]] +7 (trained), [[Diplomacy]] +7 (trained), [[Occultism]] +4 (trained), [[Performance]] +7 (trained), [[Society]] +4 (trained), [[Stealth]] +6 (trained)
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Halfling|Halfling]], [[DATABASE/language/Hallit|Hallit]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +6 (trained), [[DATABASE/skill/Lore|Art Lore]] +4 (trained), [[DATABASE/skill/Lore|Bardic Lore]] +4 (trained), [[DATABASE/skill/Crafting|Crafting]] +4 (trained), [[DATABASE/skill/Deception|Deception]] +7 (trained), [[DATABASE/skill/Diplomacy|Diplomacy]] +7 (trained), [[DATABASE/skill/Occultism|Occultism]] +4 (trained), [[DATABASE/skill/Performance|Performance]] +7 (trained), [[DATABASE/skill/Society|Society]] +4 (trained), [[DATABASE/skill/Stealth|Stealth]] +6 (trained)
 **Str** -1, **Dex** +3, **Con** +1, **Int** +1, **Wis** +1, **Cha** +4
-**Items** [[Backpack]], [[Flint and Steel]], [[Jade Cat]], journal, lute, [[Onyx Panther]], [[Padded Armor]], [[Rapier]], [[Rations]], [[Shortbow]], [[Waterskin]], [[Writing Set]]
+**Items** [[DATABASE/equipment/Backpack|backpack]], [[DATABASE/equipment/Flint and Steel|flint and steel]], [[DATABASE/equipment/Jade Cat|jade cat talisman]], journal, lute, [[DATABASE/equipment/Onyx Panther|onyx panther talisman]], [[DATABASE/armor/Padded Armor|padded armor]], [[DATABASE/weapon/Rapier|rapier]], [[DATABASE/equipment/Rations|rations (1 week)]], [[DATABASE/weapon/Shortbow|shortbow]], [[DATABASE/equipment/Waterskin|waterskin]], [[DATABASE/equipment/Writing Set|writing set]]
 
 ---
 **AC** 17; **Fort** +4, **Ref** +6, **Will** +6
@@ -108,6 +108,6 @@ Female gutsy halfling bard ([[Artist]] background)
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> rapier +6 [+1/-4] (deadly d8, disarm, finesse), **Damage** 1d6–1 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> shortbow +6 [+1/-4] (deadly d10, range 60 feet), **Damage** 1d6 piercing</span>**Occult Spontaneous Spells** DC 17, attack +7; **1st** _[[Inkshot]]_, _[[Soothe]]_, _[[True Strike]]_; **Cantrips** **(1st)** _[[Ghost Sound]]_, _[[Light]]_, _[[Mage Hand]]_, _[[Read Aura]]_, _[[Telekinetic Projectile]]_
-**Bard Composition Spells 1 Focus Point,** DC 17; **1st** _[[Counter Performance]]_; **Cantrips** **(1st)** _[[Inspire Courage]]_
-<span class="in-box-ability">**Ancestry Feats** [[Halfling Luck]]</span><span class="in-box-ability">**Class Feats** [[Bardic Lore]]</span><span class="in-box-ability">**Class Abilities** Composition Spells, Muse ([[Enigma]]), enigma), Occult Spellcasting, Spell Repertoire</span><span class="in-box-ability">**[[Halfling Luck]]** <span class="action-icon">4</span> </span><span class="in-box-ability">**Skill Feats** [[Specialty Crafting]](artistry)</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> rapier +6 [+1/-4] (deadly d8, disarm, finesse), **Damage** 1d6–1 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> shortbow +6 [+1/-4] (deadly d10, range 60 feet), **Damage** 1d6 piercing</span>**Occult Spontaneous Spells** DC 17, attack +7; **1st** _[[DATABASE/spell/Inkshot|inkshot]]_, _[[DATABASE/spell/Soothe|soothe]]_, _[[DATABASE/spell/True Strike|true strike]]_; **Cantrips** **(1st)** _[[DATABASE/spell/Ghost Sound|ghost sound]]_, _[[DATABASE/spell/Light|light]]_, _[[DATABASE/spell/Mage Hand|mage hand]]_, _[[DATABASE/spell/Read Aura|read aura]]_, _[[DATABASE/spell/Telekinetic Projectile|telekinetic projectile]]_
+**Bard Composition Spells 1 Focus Point,** DC 17; **1st** _[[DATABASE/spell/Counter Performance|counter performance]]_; **Cantrips** **(1st)** _[[DATABASE/spell/Inspire Courage|inspire courage]]_
+<span class="in-box-ability">**Ancestry Feats** [[DATABASE/feat/Halfling Luck|Halfling Luck]]</span><span class="in-box-ability">**Class Feats** [[DATABASE/feat/Bardic Lore|Bardic Lore]]</span><span class="in-box-ability">**Class Abilities** Composition Spells, Muse ([[DATABASE/bardmuse/Enigma|enigma]]), enigma), Occult Spellcasting, Spell Repertoire</span><span class="in-box-ability">**[[DATABASE/feat/Halfling Luck|Halfling Luck]]** <span class="action-icon">4</span> </span><span class="in-box-ability">**Skill Feats** [[DATABASE/feat/Specialty Crafting|Specialty Crafting]](artistry)</span>

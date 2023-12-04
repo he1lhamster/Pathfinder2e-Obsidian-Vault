@@ -11,6 +11,7 @@ name: Leshy Superstition
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Leshy Superstition <span class="action-icon">5</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Leshy</span>
-**Source** [[Character Guide]] 
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
 **Trigger** You attempt a saving throw against a spell or magical effect, but haven’t rolled yet.
 
 ---
@@ -32,7 +33,7 @@ You notice spirits that inhabit objects, learning which bring good fortune and w
 
 ## Leshy Superstition Leads To...
 
-[[Lucky Keepsake]]
+[[DATABASE/feat/Lucky Keepsake|Lucky Keepsake]]
 
 ## Traits
 

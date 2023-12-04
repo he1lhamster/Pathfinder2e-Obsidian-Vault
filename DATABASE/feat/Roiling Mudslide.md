@@ -11,6 +11,7 @@ name: Roiling Mudslide
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -28,10 +29,10 @@ type: Feat
 # Roiling Mudslide <span class="action-icon">2</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Composite</span><span class="item-trait">Earth</span><span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Primal</span><span class="item-trait">Water</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
-You form water and earth into a mudslide that smashes your opponents and coats them in mud. Each creature in the area takes 2d8 bludgeoning damage with a basic Fortitude save against your class DC. A creature that fails is also pushed 5 feet (or 10 feet on a critical failure) and coated in mud until the end of its next turn. While coated in mud, the creature falls [[Prone]] at the end of its movement any time it ends a move action other than a Crawl or Step. The creature can attempt an [[Acrobatics]] check or Reflex save against your class DC, avoiding the fall if it succeeds.
+You form water and earth into a mudslide that smashes your opponents and coats them in mud. Each creature in the area takes 2d8 bludgeoning damage with a basic Fortitude save against your class DC. A creature that fails is also pushed 5 feet (or 10 feet on a critical failure) and coated in mud until the end of its next turn. While coated in mud, the creature falls [[DATABASE/condition/Prone|prone]] at the end of its movement any time it ends a move action other than a Crawl or Step. The creature can attempt an [[DATABASE/skill/Acrobatics|Acrobatics]] check or Reflex save against your class DC, avoiding the fall if it succeeds.
 
 ---
 **Level (+4)** The damage increases by 1d8.

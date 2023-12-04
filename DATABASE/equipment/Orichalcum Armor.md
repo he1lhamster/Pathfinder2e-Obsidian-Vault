@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -52,7 +53,7 @@ weapon_type: null
 # Orichalcum Armor<span class="item-type">Item 20+</span>
 
 <span class="trait-rare item-trait">Rare</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** worn armor; **Bulk** varies by armor
 
 ---
@@ -60,10 +61,10 @@ Orichalcum armor can be etched with four magic property runes instead of three d
 
 ### Base Material
 
-[[Orichalcum]]
+[[DATABASE/equipment/Orichalcum|Orichalcum]]
 
 ## Orichalcum Armor (High-Grade)<span class="item-type">Item 20</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 55,000 gp (+5,500 gp per Bulk)
 **Craft Requirements** The initial raw materials must include orichalcum worth at least 27,500 gp + 2,750 gp per Bulk.

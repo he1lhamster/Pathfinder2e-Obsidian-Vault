@@ -3,6 +3,7 @@ creature_family: Basilisk
 id: '124'
 name: Basilisk
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,9 +11,9 @@ type: Creature Family
 ---
 # Basilisk
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 _This entry did not have a separate description for the family._
 
 ### Members
 
-[[Basilisk]] (Creature 5), [[Dracolisk]] (Creature 9)
+[[DATABASE/monster/Basilisk|Basilisk]] (Creature 5), [[DATABASE/monster/Dracolisk|Dracolisk]] (Creature 9)

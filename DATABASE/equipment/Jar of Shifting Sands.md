@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Jar of Shifting Sands<span class="item-type">Item 7</span>
 
 <span class="item-trait">Conjuration</span><span class="item-trait">Earth</span><span class="item-trait">Magical</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Price** 320 gp
 **Usage** held in 2 hands; **Bulk** L
 

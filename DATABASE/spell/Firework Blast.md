@@ -21,6 +21,7 @@ patron_theme: null
 range: 500 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: basic Reflex
 school: Evocation
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
@@ -37,7 +38,7 @@ type: Spell
 # Firework Blast<span class="item-type">Spell 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Evocation</span>
-**Source** [[Firebrands]]
+**Source** [[DATABASE/source/Firebrands|Firebrands]]
 **Access** Second-mark members of the Firebrands have access to this spell.
 **Traditions** arcane
 **Cast** <span class="action-icon">2</span> somatic, verbal
@@ -47,7 +48,7 @@ type: Spell
 ---
 You create a massive display of loud and colorful explosions. The explosions deal 4d6 fire damage. Creatures that fail their saves must attempt an additional Fortitude save. Creatures that critically fail their saves take a –2 circumstance penalty to this Fortitude save.
 **Success** The creature is unaffected.
-**Failure** The creature is [[Blinded]] and [[Deafened]] for 1 round.
+**Failure** The creature is [[DATABASE/condition/Blinded|blinded]] and [[DATABASE/condition/Deafened|deafened]] for 1 round.
 **Critical Failure** The creature is blinded for 1 round and dazzled and deafened for 1 minute.
 
 ---

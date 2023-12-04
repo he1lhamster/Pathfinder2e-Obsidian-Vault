@@ -11,6 +11,7 @@ name: Protective Bond
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Protective Bond <span class="action-icon">5</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Summoner</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Trigger** You and your eidolon are in a damaging effect's area.
 
 ---

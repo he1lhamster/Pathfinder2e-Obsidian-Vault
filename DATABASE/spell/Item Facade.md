@@ -21,6 +21,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -38,7 +39,7 @@ type: Spell
 # Item Facade<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Illusion</span><span class="item-trait">Visual</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** touch; **Targets** 1 object no more than 10 feet by 10 feet by 10 feet

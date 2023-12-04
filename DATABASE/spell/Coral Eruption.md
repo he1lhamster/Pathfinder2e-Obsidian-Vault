@@ -21,6 +21,7 @@ patron_theme: null
 range: 120 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: basicReflex
 school: Conjuration
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -37,14 +38,14 @@ type: Spell
 # Coral Eruption<span class="item-type">Spell 4</span>
 
 <span class="item-trait">Conjuration</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Traditions** arcane, primal
 **Cast** <span class="action-icon">3</span> somatic, verbal
 **Range** 120 feet; **Area** two 10-foot bursts that don't overlap
 **Saving Throw** basic Reflex; **Duration** 1 minute
 
 ---
-Razor sharp coral growths erupt from the ground, transforming the landscape into a dangerous coral reef. You can create a third nonoverlapping burst if the centers of all three bursts are underwater. Creatures in the area when the spell is cast take 6d6 piercing damage and must attempt a basic Reflex save. A creature that critically fails its saving throw also takes 1d6 [[Persistent Damage]]. The area becomes difficult terrain and hazardous terrain.
+Razor sharp coral growths erupt from the ground, transforming the landscape into a dangerous coral reef. You can create a third nonoverlapping burst if the centers of all three bursts are underwater. Creatures in the area when the spell is cast take 6d6 piercing damage and must attempt a basic Reflex save. A creature that critically fails its saving throw also takes 1d6 [[DATABASE/condition/Persistent Damage|persistent bleed damage]]. The area becomes difficult terrain and hazardous terrain.
  A creature that moves through the area takes 3 piercing damage for every square of that area it moves into.
 
 ---

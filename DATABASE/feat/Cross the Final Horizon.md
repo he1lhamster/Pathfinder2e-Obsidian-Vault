@@ -11,6 +11,7 @@ name: Cross the Final Horizon
 prerequisite: '[[DATABASE/feat/Sky and Heaven Stance|Sky and Heaven Stance]]'
 rarity: Common
 requirement: You are in Sky and Heaven Stance.
+rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -27,13 +28,13 @@ type: Feat
 # Cross the Final Horizon <span class="action-icon">3</span> <span class="item-type">Feat 20</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Electricity</span><span class="item-trait">Evocation</span><span class="item-trait">Force</span><span class="item-trait">Sonic</span>
-**Source** [[Impossible Lands]], [[Pathfinder 158. Sixty Feet Under]]
-**Archetype** [[Jalmeri Heavenseeker]]
-**Prerequisites** [[Sky and Heaven Stance]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]], [[DATABASE/source/Pathfinder 158. Sixty Feet Under|Pathfinder #158: Sixty Feet Under]]
+**Archetype** [[DATABASE/archetype/Jalmeri Heavenseeker|Jalmeri Heavenseeker]]
+**Prerequisites** [[DATABASE/feat/Sky and Heaven Stance|Sky and Heaven Stance]]
 **Requirements** You are in Sky and Heaven Stance.
 
 ---
-You Stride up to your Speed, and your ki enshrouds your limbs in terrifying stormy energy, increasing the reach of your Sky and Heaven Stance unarmed attacks by 5 feet. At the end of your movement, make up to three Strikes against a target you can reach, each at a –2 penalty. Each attack counts toward your multiple attack penalty, but the multiple attack penalty doesn't increase until after you've made all your attacks. Instead of the usual slashing or piercing damage, the damage for these Strikes is either electricity or sonic, as you choose with each Strike. If you successfully hit with all three Strikes, the target is [[Drained]].
+You Stride up to your Speed, and your ki enshrouds your limbs in terrifying stormy energy, increasing the reach of your Sky and Heaven Stance unarmed attacks by 5 feet. At the end of your movement, make up to three Strikes against a target you can reach, each at a –2 penalty. Each attack counts toward your multiple attack penalty, but the multiple attack penalty doesn't increase until after you've made all your attacks. Instead of the usual slashing or piercing damage, the damage for these Strikes is either electricity or sonic, as you choose with each Strike. If you successfully hit with all three Strikes, the target is [[DATABASE/condition/Drained|drained 3]].
 
 ## Traits
 

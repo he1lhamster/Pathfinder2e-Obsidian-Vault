@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 size: null
@@ -55,10 +56,10 @@ weapon_type: null
 # Corrosive Engravings<span class="item-type">Item 5</span>
 
 <span class="item-trait">Acid</span><span class="item-trait">Conjuration</span><span class="item-trait">Grimoire</span><span class="item-trait">Magical</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 140 gp
 **Bulk** L
 
 ---
 These tin sheets are bound in brass and show significant signs of erosion. The grimoire's title is acid-etched, and flipping between the sheets leaves your fingers covered in flecks of rust and powdery metal.
-**Activate** <span class="action-icon">4</span> envision **Frequency** once per day; **Effect** If your next action is to cast an acid or poison spell that deals [[Persistent Damage]], any creature who takes persistent damage from the spell is also [[Sickened]] until the persistent damage ends. Using an action to retch can reduce the sickened value as normal, but it can't reduce the sickened value below 1 until the persistent damage ends.
+**Activate** <span class="action-icon">4</span> envision **Frequency** once per day; **Effect** If your next action is to cast an acid or poison spell that deals [[DATABASE/condition/Persistent Damage|persistent damage]], any creature who takes persistent damage from the spell is also [[DATABASE/condition/Sickened|sickened 2]] until the persistent damage ends. Using an action to retch can reduce the sickened value as normal, but it can't reduce the sickened value below 1 until the persistent damage ends.

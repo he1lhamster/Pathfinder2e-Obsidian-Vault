@@ -11,6 +11,7 @@ name: Open Mind
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -23,14 +24,14 @@ type: Feat
 # Open Mind <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Kashrishi</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 
 ---
 You have inherent psychic abilities that allow you to tap into the power of your mind. Choose one cantrip from the occult spell list. You can cast this spell as an occult innate spell at will. A cantrip is heightened to a spell level equal to half your level rounded up.
 
 ## Open Mind Leads To...
 
-[[Unlock Secret]]
+[[DATABASE/feat/Unlock Secret|Unlock Secret]]
 
 ## Traits
 

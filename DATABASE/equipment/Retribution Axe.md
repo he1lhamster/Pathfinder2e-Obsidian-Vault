@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Enchantment
 size: null
@@ -53,10 +54,10 @@ weapon_type: null
 # Retribution Axe<span class="item-type">Item 3</span>
 
 <span class="item-trait">Enchantment</span><span class="item-trait">Magical</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 60 gp
 **Usage** held in 2 hands; **Bulk** 2
-**Base Weapon** [[Greataxe]]
+**Base Weapon** [[DATABASE/weapon/Greataxe|Greataxe]]
 
 ---
-The blade of this _+1 [[Greataxe]]_ bears a design of a human skull. Whenever a creature damages you with an attack, the skull changes its appearance to look like the face of that creature. You gain a +2 circumstance bonus to your next damage roll against that creature before the end of your next turn. Because the face reshapes each time you’re damaged, you get the additional damage only if you attack the creature that damaged you most recently.
+The blade of this _+1 [[DATABASE/weapon/Greataxe|greataxe]]_ bears a design of a human skull. Whenever a creature damages you with an attack, the skull changes its appearance to look like the face of that creature. You gain a +2 circumstance bonus to your next damage roll against that creature before the end of your next turn. Because the face reshapes each time you’re damaged, you get the additional damage only if you attack the creature that damaged you most recently.

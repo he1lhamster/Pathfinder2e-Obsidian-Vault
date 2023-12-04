@@ -31,6 +31,7 @@ rarity: Unique
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 size: null
@@ -57,10 +58,10 @@ weapon_type: null
 # The Winged Serpent<span class="item-type">Item 20</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="item-trait">Artifact</span><span class="item-trait">Divination</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span>
-**Source** [[Pathfinder 192. Worst of All Possible Worlds]]
+**Source** [[DATABASE/source/Pathfinder 192. Worst of All Possible Worlds|Pathfinder #192: Worst of All Possible Worlds]]
 **Usage** carried; **Bulk** —
 **Suit** Stars (Wis); **Alignment** lawful good
 
 ---
 _The Winged Serpent_ represents the wisdom of knowing when to act. As long as you have _The Winged Serpent_ invested, you gain a +2 item bonus on initiative checks made with sight-based Perception checks. This bonus increases to +3 if you are 17th level.
-**Activate** <span class="action-icon">2</span> envision, Interact **Frequency** once per day; **Effect** You swipe _The Winged Serpent_ across your eyes to gain insight on when to strike. You cast [[Foresight]] on yourself, but the duration is only 10 minutes. If you're at least 17th level, the duration extends to 1 hour and you can cast _foresight_ on another creature by touch. The level of this spell is one-half your level rounded down (minimum 9th).
+**Activate** <span class="action-icon">2</span> envision, Interact **Frequency** once per day; **Effect** You swipe _The Winged Serpent_ across your eyes to gain insight on when to strike. You cast [[DATABASE/spell/Foresight|foresight]] on yourself, but the duration is only 10 minutes. If you're at least 17th level, the duration extends to 1 hour and you can cast _foresight_ on another creature by touch. The level of this spell is one-half your level rounded down (minimum 9th).

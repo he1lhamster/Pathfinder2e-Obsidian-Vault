@@ -22,6 +22,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Necromancy
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -37,8 +38,8 @@ type: Focus
 # Foul Miasma<span class="item-type">Focus 4</span>
 
 <span class="item-trait">Disease</span><span class="item-trait">Necromancy</span>
-**Source** [[Gods & Magic]] 
-**Domain** [[Plague Domain]]
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
+**Domain** [[DATABASE/domain/Plague Domain|plague]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet; **Targets** 1 creature affected by a disease
 **Saving Throw** Will; **Duration** 1 minute

@@ -103,24 +103,24 @@ wisdom: '+8'
 
 The long war between Nex and Geb spawned many animate weapons, but while a citizen of Quantium might run screaming from any product of the fleshforges, they barely bat an eyelash at the ground-shaking stomp of the two titanic, deadly constructs that stride outside their city walls. Crafted by the wizard-king Nex ages ago after a devastating attack by Geb's undead forces, including the harrowing benthic reaver, the Quantium golems are meant to protect the capital in case of Nex's absence. These twin golems ceaselessly keep vigil over the city, ready to cut down any invaders that menace Quantium.
  Twenty feet tall and crafted from a supernaturally smooth material, the two guardians are a matched set, one of crimson and one of emerald. Wielding swords the size of giants, the guardians relentlessly destroy anything that threatens the city, particularly any undead that might invade the country from Geb. With the mythic Crux of Nex as a power supply, the golems are inexhaustible and nearly indestructible.
-**Recall Knowledge - Construct ([[Arcana]], [[Crafting]])**: DC 45
+**Recall Knowledge - Construct ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Crafting|Crafting]])**: DC 45
 **Unspecific Lore**: DC 43
 **Specific Lore**: DC 40
 
 # Quantium Golem<span class="item-type">Creature 20</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Gargantuan</span><span class="item-trait">Construct</span><span class="item-trait">Golem</span><span class="item-trait">Mindless</span>
-**Source** [[Impossible Lands]]
-**Perception** +36; [[Darkvision]], defender's link, [[Lifesense]] 120 feet
-**Skills** [[Athletics]] +38
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
+**Perception** +36; [[DATABASE/monsterability/Darkvision|darkvision]], defender's link, [[DATABASE/monsterability/Lifesense|lifesense]] 120 feet
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +38
 **Str** +10, **Dex** +8, **Con** +7, **Int** -5, **Wis** +8, **Cha** -5
 **Defender's Link** Each Quantium golem automatically knows the Hit Points, conditions, afflictions, and location of the other.
-**Items** _+3 [[Striking]] [[Bastard Sword]]_
+**Items** _+3 [[DATABASE/equipment/Striking|greater striking]] [[DATABASE/weapon/Bastard Sword|bastard sword]]_
 
 ---
 **AC** 47; **Fort** +35, **Ref** +32, **Will** +32
-**HP** 325; **Immunities** bleed, death effects, disease, [[Doomed]], [[Drained]], [[Fatigued]], fire, healing, magic (below), mental, necromancy, nonlethal attacks, [[Paralyzed]], poison, [[Sickened]], [[Unconscious]]; **Resistances** physical 20 (except [[Adamantine Weapon]])
-<span class="in-box-ability">**Golem Antimagic** harmed by sonic (9d10, 3d10 from area or [[Persistent Damage]]); healed by fire (area 3d10 HP); slowed by cold</span><span class="in-box-ability">**Paired Reconstruction** When reduced to 0 HP, the Quantium golem is destroyed; however, it magically reforms 24 hours later at full HP and free of all conditions and afflictions unless its twin golem is also destroyed.</span><span class="in-box-ability">**Vulnerable to Banishment** Casting a [[Banishment]] spell on a Quantium golem disrupts its connection to the Crux of Nex. If targeted by such a spell, the golem is [[Enfeebled]] and [[Slowed]] for 1d4 rounds.</span>
+**HP** 325; **Immunities** bleed, death effects, disease, [[DATABASE/condition/Doomed|doomed]], [[DATABASE/condition/Drained|drained]], [[DATABASE/condition/Fatigued|fatigued]], fire, healing, magic (below), mental, necromancy, nonlethal attacks, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Sickened|sickened]], [[DATABASE/condition/Unconscious|unconscious]]; **Resistances** physical 20 (except [[DATABASE/equipment/Adamantine Weapon|adamantine]])
+<span class="in-box-ability">**Golem Antimagic** harmed by sonic (9d10, 3d10 from area or [[DATABASE/condition/Persistent Damage|persistent damage]]); healed by fire (area 3d10 HP); slowed by cold</span><span class="in-box-ability">**Paired Reconstruction** When reduced to 0 HP, the Quantium golem is destroyed; however, it magically reforms 24 hours later at full HP and free of all conditions and afflictions unless its twin golem is also destroyed.</span><span class="in-box-ability">**Vulnerable to Banishment** Casting a [[DATABASE/spell/Banishment|banishment]] spell on a Quantium golem disrupts its connection to the Crux of Nex. If targeted by such a spell, the golem is [[DATABASE/condition/Enfeebled|enfeebled 1]] and [[DATABASE/condition/Slowed|slowed 1]] for 1d4 rounds.</span>
 
 ---
 **Speed** 50 feet

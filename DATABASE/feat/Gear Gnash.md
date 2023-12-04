@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Trapsmith Dedication|Trapsmith Dedication]] ; Exp
   in [[DATABASE/skill/Crafting|Crafting]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -25,12 +26,12 @@ type: Feat
 # Gear Gnash <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Skill</span>
-**Source** [[Guns & Gears]]
-**Archetype** [[Trapsmith]]
-**Prerequisites** [[Trapsmith Dedication]]; expert in [[Crafting]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Archetype** [[DATABASE/archetype/Trapsmith|Trapsmith]]
+**Prerequisites** [[DATABASE/feat/Trapsmith Dedication|Trapsmith Dedication]]; expert in [[DATABASE/skill/Crafting|Crafting]]
 
 ---
-Snares you create have complicated inner workings that are quite difficult to disable. Creatures attempting to [[Disable a Device]] your snares that use gears must succeed at an additional [[Thievery]] check in order to disable the snare. On a failed check, while the snare doesn't fully trigger, the grinding mechanisms deal bludgeoning damage to the creature equal to half your level. The snare still triggers on a critical failure, as normal.
+Snares you create have complicated inner workings that are quite difficult to disable. Creatures attempting to [[DATABASE/action/Disable a Device|Disable]] your snares that use gears must succeed at an additional [[DATABASE/skill/Thievery|Thievery]] check in order to disable the snare. On a failed check, while the snare doesn't fully trigger, the grinding mechanisms deal bludgeoning damage to the creature equal to half your level. The snare still triggers on a critical failure, as normal.
 
 ## Traits
 

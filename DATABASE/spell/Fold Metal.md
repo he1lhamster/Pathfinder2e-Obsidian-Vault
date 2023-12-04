@@ -19,6 +19,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
@@ -36,7 +37,7 @@ type: Spell
 # Fold Metal<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Manipulate</span><span class="item-trait">Metal</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Traditions** arcane
 **Cast** <span class="action-icon">2</span> 
 **Range** touch; **Targets** 1 unattended metallic object up to 5 Bulk

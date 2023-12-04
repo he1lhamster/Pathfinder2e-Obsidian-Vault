@@ -5,6 +5,7 @@ item_category: Relics
 name: Track of the Beast
 prerequisite: null
 rarity: Common
+rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
@@ -15,7 +16,7 @@ type: Relic Major Gift
 # Track of the Beast<span class="item-type">Major Gift</span>
 
 <span class="item-trait">Transmutation</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Aspect** beast
 
 ---

@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -54,10 +55,10 @@ weapon_type: null
 # Hand of the Mage<span class="item-type">Item 2</span>
 
 <span class="item-trait">Evocation</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 30 gp
 **Usage** worn; **Bulk** L
 
 ---
 This mummified elf hand hangs on a golden chain, its gnarled fingers locked in a peculiar pattern.
-**Activate** <span class="action-icon">2</span> command, envision ; **Effect** You cast [[Mage Hand]].
+**Activate** <span class="action-icon">2</span> command, envision ; **Effect** You cast [[DATABASE/spell/Mage Hand|mage hand]].

@@ -69,16 +69,16 @@ wisdom: '+0'
 # Ankhrav
 
 These horse-sized, burrowing monsters generally avoid heavily settled areas like cities, but ankhravs’ predilection for livestock and humanoid flesh ensures that the creatures do not remain in the deep wilderness for long. Desperate farmers whose fields become infested by ankhravs often have little recourse but to seek the aid of adventurers.
-**Recall Knowledge - Animal ([[Nature]])**: DC 18
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Ankhrav<span class="item-type">Creature 3</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +7; darkvision, tremorsense (imprecise) 60 feet
-**Skills** [[Acrobatics]] +6, [[Athletics]] +11, [[Stealth]] +8
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +6, [[DATABASE/skill/Athletics|Athletics]] +11, [[DATABASE/skill/Stealth|Stealth]] +8
 **Str** +4, **Dex** +1, **Con** +3, **Int** -4, **Wis** +0, **Cha** -2
 
 ---

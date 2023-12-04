@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -52,9 +53,9 @@ weapon_type: null
 # Extendable Tail<span class="item-type">Item 3</span>
 
 <span class="item-trait">Mechanical</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 10 gp
 **Usage** worn; **Bulk** 1
 
 ---
-Built with collapsible poles and expanding hoops, this tail can extend to a length of 20 feet. While it's no more prehensile than a tail of a typical member of your ancestry, it ends with an anchor that you can secure around a sturdy object with an Interact action. While the tail is anchored, you can't move more than 20 feet from that spot, but you can use the tail to lower yourself up to 20 feet, as if it were a length of [[Rope]]. You can use another Interact action to disengage the anchor and retract your tail.
+Built with collapsible poles and expanding hoops, this tail can extend to a length of 20 feet. While it's no more prehensile than a tail of a typical member of your ancestry, it ends with an anchor that you can secure around a sturdy object with an Interact action. While the tail is anchored, you can't move more than 20 feet from that spot, but you can use the tail to lower yourself up to 20 feet, as if it were a length of [[DATABASE/equipment/Rope|rope]]. You can use another Interact action to disengage the anchor and retract your tail.

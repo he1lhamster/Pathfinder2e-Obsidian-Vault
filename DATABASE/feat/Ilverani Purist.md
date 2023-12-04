@@ -11,6 +11,7 @@ name: Ilverani Purist
 prerequisite: '[[DATABASE/feat/Twilight Speaker Dedication|Twilight Speaker Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 189. Dreamers of the Nameless Spires|Pathfinder
   #189: Dreamers of the Nameless Spires]]'
@@ -25,12 +26,12 @@ type: Feat
 # Ilverani Purist <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Skill</span>
-**Source** [[Pathfinder 189. Dreamers of the Nameless Spires]]
-**Archetype** [[Twilight Speaker]]
-**Prerequisites** [[Twilight Speaker Dedication]]
+**Source** [[DATABASE/source/Pathfinder 189. Dreamers of the Nameless Spires|Pathfinder #189: Dreamers of the Nameless Spires]]
+**Archetype** [[DATABASE/archetype/Twilight Speaker|Twilight Speaker]]
+**Prerequisites** [[DATABASE/feat/Twilight Speaker Dedication|Twilight Speaker Dedication]]
 
 ---
-All twilight speakers are trained to resist the alluring customs of younger peoples, but you have made it your mandate to keep the Ilverani way unchanged. Such dedication has given you a trained eye for subtlety and deception. When you attempt to [[Sense Motive]] of a non-elf humanoid creature and you roll a critical failure, you fail instead.
+All twilight speakers are trained to resist the alluring customs of younger peoples, but you have made it your mandate to keep the Ilverani way unchanged. Such dedication has given you a trained eye for subtlety and deception. When you attempt to [[DATABASE/action/Sense Motive|Sense the Motive]] of a non-elf humanoid creature and you roll a critical failure, you fail instead.
 
 ## Traits
 

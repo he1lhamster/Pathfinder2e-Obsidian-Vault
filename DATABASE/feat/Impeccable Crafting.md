@@ -12,6 +12,7 @@ prerequisite: Master in [[DATABASE/skill/Crafting|Crafting]] ; [[DATABASE/feat/S
   Crafting|Specialty Crafting]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: crafting
@@ -25,8 +26,8 @@ type: Feat
 # Impeccable Crafting <span class="item-type">Feat 7</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** master in [[Crafting]]; [[Specialty Crafting]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** master in [[DATABASE/skill/Crafting|Crafting]]; [[DATABASE/feat/Specialty Crafting|Specialty Crafting]]
 
 ---
 You craft flawless creations with great efficiency. Whenever you roll a success at a Crafting check to make an item of the type you chose with Specialty Crafting, you get a critical success instead.

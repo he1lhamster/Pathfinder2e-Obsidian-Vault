@@ -11,6 +11,7 @@ name: Bullet Dancer Reload
 prerequisite: '[[DATABASE/feat/Bullet Dancer Burn|Bullet Dancer Burn]]'
 rarity: Common
 requirement: You're in Bullet Dancer Stance.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Bullet Dancer Reload <span class="action-icon">1</span> <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Flourish</span>
-**Source** [[Guns & Gears]]
-**Archetype** [[Bullet Dancer]]
-**Prerequisites** [[Bullet Dancer Burn]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Archetype** [[DATABASE/archetype/Bullet Dancer|Bullet Dancer]]
+**Prerequisites** [[DATABASE/feat/Bullet Dancer Burn|Bullet Dancer Burn]]
 **Requirements** You're in Bullet Dancer Stance.
 
 ---

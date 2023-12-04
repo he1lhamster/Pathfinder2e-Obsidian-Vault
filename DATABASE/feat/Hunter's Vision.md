@@ -11,6 +11,7 @@ name: Hunter's Vision
 prerequisite: warden spells
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Hunter's Vision <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Ranger</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Prerequisites** warden spells
 
 ---
-You are so focused on your hunted prey that you can see it clearly even beyond the limits of your senses. You gain the [[Hunter's Vision]] warden spell. Increase the number of Focus Points in your focus pool by 1.
+You are so focused on your hunted prey that you can see it clearly even beyond the limits of your senses. You gain the [[DATABASE/spell/Hunter's Vision|hunter's vision]] warden spell. Increase the number of Focus Points in your focus pool by 1.

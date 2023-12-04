@@ -11,6 +11,7 @@ name: Grippli Weapon Familiarity
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 subcategory: null
@@ -23,14 +24,14 @@ type: Feat
 # Grippli Weapon Familiarity <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Grippli</span>
-**Source** [[The Mwangi Expanse]]
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]
 
 ---
-You've trained with weapons ideally suited to marshes and dense forests. You are trained with [[Blowgun]], [[Hatchet]], [[Scythe]], [[Shortbow]], and [[Composite Shortbow]]. You also gain access to all uncommon grippli weapons. For the purpose of determining your proficiency, martial grippli weapons are simple weapons, and advanced grippli weapons are martial weapons.
+You've trained with weapons ideally suited to marshes and dense forests. You are trained with [[DATABASE/weapon/Blowgun|blowguns]], [[DATABASE/weapon/Hatchet|hatchets]], [[DATABASE/weapon/Scythe|scythes]], [[DATABASE/weapon/Shortbow|shortbows]], and [[DATABASE/weapon/Composite Shortbow|composite shortbows]]. You also gain access to all uncommon grippli weapons. For the purpose of determining your proficiency, martial grippli weapons are simple weapons, and advanced grippli weapons are martial weapons.
 
 ## Grippli Weapon Familiarity Leads To...
 
-[[Grippli Weapon Expertise]], [[Grippli Weapon Innovator]]
+[[DATABASE/feat/Grippli Weapon Expertise|Grippli Weapon Expertise]], [[DATABASE/feat/Grippli Weapon Innovator|Grippli Weapon Innovator]]
 
 ## Traits
 

@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Swordmaster Dedication|Swordmaster Dedication]] ;
   in [[DATABASE/skill/Crafting|Crafting]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
 subcategory: null
@@ -27,12 +28,12 @@ type: Feat
 # Improvised Crafting <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Exploration</span><span class="item-trait">Manipulate</span><span class="item-trait">Skill</span>
-**Source** [[PFS Guide]]
-**Archetype** [[Swordmaster]]
-**Prerequisites** [[Swordmaster Dedication]]; expert in [[Crafting]]
+**Source** [[DATABASE/source/PFS Guide|PFS Guide]]
+**Archetype** [[DATABASE/archetype/Swordmaster|Swordmaster]]
+**Prerequisites** [[DATABASE/feat/Swordmaster Dedication|Swordmaster Dedication]]; expert in [[DATABASE/skill/Crafting|Crafting]]
 
 ---
-You've learned to repair your equipment even in challenging circumstances, making use of what you have available. You can attempt to [[Repair]] an item without a [[Repair Kit]], instead improvising tools out of your gear or found items. This adds 5 minutes to the time it takes to Repair the item. You can also Repair an item while on the move without needing a stable surface. This adds 10 minutes to the times it takes to Repair the item.
+You've learned to repair your equipment even in challenging circumstances, making use of what you have available. You can attempt to [[DATABASE/action/Repair|Repair]] an item without a [[DATABASE/equipment/Repair Kit|repair kit]], instead improvising tools out of your gear or found items. This adds 5 minutes to the time it takes to Repair the item. You can also Repair an item while on the move without needing a stable surface. This adds 10 minutes to the times it takes to Repair the item.
 
 ## Traits
 

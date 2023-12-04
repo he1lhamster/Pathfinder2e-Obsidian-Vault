@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Rare
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Pathfinder 194. Cult of the Cave Worm|Pathfinder #194:
@@ -41,7 +42,7 @@ type: Spell
 # Deep Sight<span class="item-type">Spell 3</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Divination</span>
-**Source** [[Pathfinder 194. Cult of the Cave Worm]]
+**Source** [[DATABASE/source/Pathfinder 194. Cult of the Cave Worm|Pathfinder #194: Cult of the Cave Worm]]
 **Traditions** arcane, divine, occult, primal
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Duration** 1 hour

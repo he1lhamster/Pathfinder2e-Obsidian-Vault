@@ -11,6 +11,7 @@ name: Drifting Pollen
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -28,10 +29,10 @@ type: Feat
 # Drifting Pollen <span class="action-icon">1</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Plant</span><span class="item-trait">Primal</span><span class="item-trait">Stance</span><span class="item-trait">Wood</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
-A haze of pollen floats around you. A creature in your kinetic aura when you enter the stance, or who later enters the aura or ends its turn in the aura, attempts at a Fortitude save against your class DC. On a failure, it's [[Sickened]] (sickened 2 on a critical failure) and [[Dazzled]] until it's no longer sickened. A creature attempts this save no more than once per round and doesn't attempt a new save if already affected.
+A haze of pollen floats around you. A creature in your kinetic aura when you enter the stance, or who later enters the aura or ends its turn in the aura, attempts at a Fortitude save against your class DC. On a failure, it's [[DATABASE/condition/Sickened|sickened 1]] (sickened 2 on a critical failure) and [[DATABASE/condition/Dazzled|dazzled]] until it's no longer sickened. A creature attempts this save no more than once per round and doesn't attempt a new save if already affected.
 
 ## Traits
 

@@ -72,24 +72,24 @@ wisdom: '+1'
 # Corrosive Lizard
 
 This creature did not include a description.
-**Recall Knowledge - Animal ([[Nature]])**: DC 18
-**Recall Knowledge - Fiend ([[Religion]])**: DC 18
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 18
+**Recall Knowledge - Fiend ([[DATABASE/skill/Religion|Religion]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Corrosive Lizard<span class="item-type">Creature 2</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Animal</span><span class="item-trait">Fiend</span>
-**Source** [[Pathfinder 151. The Show Must Go On]]
+**Source** [[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: The Show Must Go On]]
 **Perception** +7; darkvision, scent (imprecise) 30 feet
-**Skills** [[Acrobatics]] +6, [[Athletics]] +8, [[Stealth]] +6
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +6, [[DATABASE/skill/Athletics|Athletics]] +8, [[DATABASE/skill/Stealth|Stealth]] +6
 **Str** +2, **Dex** +2, **Con** +4, **Int** -4, **Wis** +1, **Cha** -2
 
 ---
 **AC** 18; **Fort** +10, **Ref** +8, **Will** +5
 **HP** 30; **Immunities** acid; **Weaknesses** good 3
-<span class="in-box-ability">**Gnashing Bite <span class="action-icon">5</span> **Trigger** A creature [[Grabbed]] by the corrosive lizard's jaws fails a check to [[Escape]]** **Effect** The lizard's jaws deal 1d6 piercing damage and 1d6 acid damage to the triggering creature.</span>
+<span class="in-box-ability">**Gnashing Bite <span class="action-icon">5</span> **Trigger** A creature [[DATABASE/condition/Grabbed|grabbed]] by the corrosive lizard's jaws fails a check to [[DATABASE/action/Escape|Escape]]** **Effect** The lizard's jaws deal 1d6 piercing damage and 1d6 acid damage to the triggering creature.</span>
 
 ---
 **Speed** 30 feet, swim 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +11 [+6/+1], **Damage** 1d10+2 piercing plus 1d6 [[Persistent Damage]] and [[Grab]]</span><span class="in-box-ability">**Gout of Acid** <span class="action-icon">2</span> (acid, primal) The corrosive lizard vomits a gout of acid in a 15-foot cone. Each creature in this area takes 3d6 acid damage (DC 20 basic Reflex save). The lizard can't use Gout of Acid again for 1d4 rounds.</span><span class="in-box-ability">**Lurching Charge** <span class="action-icon">2</span> The corrosive lizard Strides up to double its Speed and then makes a jaws Strike. If the lizard moved at least 20 feet away from its starting position, it gains a +2 circumstance bonus to this attack roll.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +11 [+6/+1], **Damage** 1d10+2 piercing plus 1d6 [[DATABASE/condition/Persistent Damage|persistent acid damage]] and [[DATABASE/monsterability/Grab|Grab]]</span><span class="in-box-ability">**Gout of Acid** <span class="action-icon">2</span> (acid, primal) The corrosive lizard vomits a gout of acid in a 15-foot cone. Each creature in this area takes 3d6 acid damage (DC 20 basic Reflex save). The lizard can't use Gout of Acid again for 1d4 rounds.</span><span class="in-box-ability">**Lurching Charge** <span class="action-icon">2</span> The corrosive lizard Strides up to double its Speed and then makes a jaws Strike. If the lizard moved at least 20 feet away from its starting position, it gains a +2 circumstance bonus to this attack roll.</span>

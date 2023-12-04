@@ -2,6 +2,7 @@
 id: '8'
 name: Winter
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Nature|Nature]]'
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
@@ -13,9 +14,9 @@ type: Witch Patron Theme
 ---
 # Winter
 
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 Your patron reflects the frozen reaches of the world, bitterly cruel to those who underestimate that power.
 **Spell List** primal
-**Patron Skill** [[Nature]]
-**Hex Cantrip** _[[Clinging Ice]]_
-**Granted Spell** _[[Gust of Wind]]_
+**Patron Skill** [[DATABASE/skill/Nature|Nature]]
+**Hex Cantrip** _[[DATABASE/spell/Clinging Ice|clinging ice]]_
+**Granted Spell** _[[DATABASE/spell/Gust of Wind|gust of wind]]_

@@ -11,6 +11,7 @@ name: Shrouded Magic
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Shrouded Magic <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Fetchling</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
 Choose one cantrip from the occult spell list. You can cast this cantrip as an occult innate spell at will, heightened to a spell level equal to half your level rounded up.
@@ -32,4 +33,4 @@ Choose one cantrip from the occult spell list. You can cast this cantrip as an o
 
 **Fetchling:**
 
-A creature with this trait is a member of the fetchling ancestry. Fetchlings were once human, but generations of life on the [[Shadow Plane]] have transformed them.
+A creature with this trait is a member of the fetchling ancestry. Fetchlings were once human, but generations of life on the [[DATABASE/plane/Shadow Plane|Shadow Plane]] have transformed them.

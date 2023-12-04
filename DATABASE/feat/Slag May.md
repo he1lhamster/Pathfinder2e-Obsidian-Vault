@@ -11,6 +11,7 @@ name: Slag May
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,16 +25,16 @@ type: Feat
 # Slag May <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Changeling</span><span class="item-trait">Lineage</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
-Your mother was an [[Annis Hag]], known for physical prowess, and you have one violet or steel-gray eye. You have thick, sturdy claws made of cold iron that grow naturally from your body. You gain a claw unarmed attack that deals 1d6 slashing damage. Your claws are in the [[Brawling]] group, have the unarmed and grapple traits, and are [[Cold Iron Weapon]].
+Your mother was an [[DATABASE/monster/Annis Hag|annis hag]], known for physical prowess, and you have one violet or steel-gray eye. You have thick, sturdy claws made of cold iron that grow naturally from your body. You gain a claw unarmed attack that deals 1d6 slashing damage. Your claws are in the [[DATABASE/weapongroup/Brawling|brawling]] group, have the unarmed and grapple traits, and are [[DATABASE/equipment/Cold Iron Weapon|cold iron]].
 
 ## Traits
 
 **Changeling:**
 
-A creature with this trait has the changeling versatile heritage. Changelings are the children of [[Hag]] and members of other humanoid ancestries. An ability with this trait can be used or selected only by changelings.
+A creature with this trait has the changeling versatile heritage. Changelings are the children of [[DATABASE/monsterfamily/Hag|hags]] and members of other humanoid ancestries. An ability with this trait can be used or selected only by changelings.
 
 **Lineage:**
 

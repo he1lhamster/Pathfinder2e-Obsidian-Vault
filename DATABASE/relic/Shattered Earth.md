@@ -5,6 +5,7 @@ item_category: Relics
 name: Shattered Earth
 prerequisite: null
 rarity: Common
+rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
@@ -16,7 +17,7 @@ type: Relic Minor Gift
 # Shattered Earth<span class="item-type">Minor Gift</span>
 
 <span class="item-trait">Earth</span><span class="item-trait">Evocation</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Aspect** earth
 
 ---

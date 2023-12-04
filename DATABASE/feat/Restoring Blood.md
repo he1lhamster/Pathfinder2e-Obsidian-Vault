@@ -11,6 +11,7 @@ name: Restoring Blood
 prerequisite: '[[DATABASE/action/Envenom|Envenom]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Restoring Blood <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Vishkanya</span>
-**Source** [[Impossible Lands]]
-**Prerequisites** [[Envenom]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
+**Prerequisites** [[DATABASE/action/Envenom|Envenom]]
 
 ---
 Your body can process an alternative to your venom that heals wounds. You can use your Envenom action to produce a blood restorative instead of vishkanyan venom. You can make a blood restorative at most once per 10 minutes, even if your Envenom action can be used more frequently. You or an adjacent creature can Interact to consume the restorative to regain 3d6 Hit Points. This is a positive healing effect. A restorative spoils at the start of your next turn.

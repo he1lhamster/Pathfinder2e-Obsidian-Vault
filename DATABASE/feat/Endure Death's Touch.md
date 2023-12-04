@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Knight Vigilant|Knight Vigilant]] ; expert in med
   or heavy armor'
 rarity: Common
 requirement: You are wearing medium or heavy armor in which you have expert proficiency.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Endure Death's Touch <span class="action-icon">5</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Character Guide]] 
-**Archetype** [[Knight Vigilant]]
-**Prerequisites** [[Knight Vigilant]]; expert in medium or heavy armor
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
+**Archetype** [[DATABASE/archetype/Knight Vigilant|Knight Vigilant]]
+**Prerequisites** [[DATABASE/feat/Knight Vigilant|Knight Vigilant]]; expert in medium or heavy armor
 **Trigger** An undead hits you with an unarmed attack.
 **Requirements** You are wearing medium or heavy armor in which you have expert proficiency.
 

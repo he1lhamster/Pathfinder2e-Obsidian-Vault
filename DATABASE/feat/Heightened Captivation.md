@@ -11,6 +11,7 @@ name: Heightened Captivation
 prerequisite: '[[DATABASE/feat/Captivator Dedication|Captivator Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Heightened Captivation <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Metamagic</span>
-**Source** [[Grand Bazaar]]
-**Archetype** [[Captivator]]
-**Prerequisites** [[Captivator Dedication]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
+**Archetype** [[DATABASE/archetype/Captivator|Captivator]]
+**Prerequisites** [[DATABASE/feat/Captivator Dedication|Captivator Dedication]]
 
 ---
 You can infuse your enchantments and illusions with more power. Choose one of your spells granted by captivator archetype feats; this spell can't be from your highest level of non-cantrip captivator spells. The spell you choose is heightened to the highest level of captivator spell you can cast, not including cantrips. You can't later change the spell that is heightened by this feat.

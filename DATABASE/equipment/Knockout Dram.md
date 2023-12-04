@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: DC 23 Fortitude
 school: null
 size: null
@@ -58,11 +59,11 @@ weapon_type: null
 # Knockout Dram<span class="item-type">Item 7</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Ingested</span><span class="item-trait">Poison</span>
-**Source** [[Pathfinder 157. Devil at the Dreaming Palace]]
+**Source** [[DATABASE/source/Pathfinder 157. Devil at the Dreaming Palace|Pathfinder #157: Devil at the Dreaming Palace]]
 **Price** 70 gp
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
 ---
 This soporific chemical comes in liquid form and is virtually undetectable by taste or scent. It's most commonly slipped into a victim's drink to quickly induce a deep unconsciousness. 
-**Saving Throw** DC 23 Fortitude; **Onset** 1 minute; **Maximum Duration** 10 hours; **Stage 1** fall [[Unconscious]] and can't attempt Perception checks to wake up (1 minute); **Stage 2** sleep normally (1d4 hours)
+**Saving Throw** DC 23 Fortitude; **Onset** 1 minute; **Maximum Duration** 10 hours; **Stage 1** fall [[DATABASE/condition/Unconscious|unconscious]] and can't attempt Perception checks to wake up (1 minute); **Stage 2** sleep normally (1d4 hours)

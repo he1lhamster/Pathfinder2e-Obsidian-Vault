@@ -11,6 +11,7 @@ name: Smashing Tail
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Smashing Tail <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Ganzi</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-You have a tail that serves as a potent weapon. You gain a tail unarmed attack that deals 1d6 bludgeoning damage, has the sweep trait, and is in the [[Brawling]] weapon group.
+You have a tail that serves as a potent weapon. You gain a tail unarmed attack that deals 1d6 bludgeoning damage, has the sweep trait, and is in the [[DATABASE/weapongroup/Brawling|brawling]] weapon group.
 
 ## Traits
 

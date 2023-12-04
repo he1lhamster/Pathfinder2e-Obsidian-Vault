@@ -11,6 +11,7 @@ name: Shadow Sight
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -25,17 +26,17 @@ type: Feat
 # Shadow Sight <span class="action-icon">1</span> <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Fetchling</span><span class="item-trait">Occult</span><span class="item-trait">Transmutation</span>
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 **Frequency** once per hour
 
 ---
-You draw on your connection with the [[Shadow Plane]] to see through all but the deepest darkness. You gain greater darkvision for 1 minute.
+You draw on your connection with the [[DATABASE/plane/Shadow Plane|Shadow Plane]] to see through all but the deepest darkness. You gain greater darkvision for 1 minute.
 
 ## Traits
 
 **Fetchling:**
 
-A creature with this trait is a member of the fetchling ancestry. Fetchlings were once human, but generations of life on the [[Shadow Plane]] have transformed them.
+A creature with this trait is a member of the fetchling ancestry. Fetchlings were once human, but generations of life on the [[DATABASE/plane/Shadow Plane|Shadow Plane]] have transformed them.
 
 **Occult:**
 

@@ -11,6 +11,7 @@ name: Vanara Battle Clarity
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Vanara Battle Clarity <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Vanara</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 
 ---
-Your focus in combat is practically unshakable. While you can act, you aren't [[Flat-Footed]] to [[Hidden]], [[Undetected]], or flanking creatures of your level or lower, or to creatures of your level or lower using surprise attack.
+Your focus in combat is practically unshakable. While you can act, you aren't [[DATABASE/condition/Flat-Footed|flat-footed]] to [[DATABASE/condition/Hidden|hidden]], [[DATABASE/condition/Undetected|undetected]], or flanking creatures of your level or lower, or to creatures of your level or lower using surprise attack.
 
 ## Traits
 

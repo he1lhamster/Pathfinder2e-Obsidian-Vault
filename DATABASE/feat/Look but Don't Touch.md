@@ -11,6 +11,7 @@ name: Look but Don't Touch
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Look but Don't Touch <span class="action-icon">2</span> <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Ghoran</span><span class="item-trait">Poison</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 **Frequency** once per day
 
 ---

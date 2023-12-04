@@ -101,27 +101,27 @@ Even among the numerous types of tentacled aberrations populating the lands of G
  Though a flumph's underside is ringed with an array of acidic spikes that they use to hunt small prey, they are nearly defenseless against most attackers and usually attempt to flee when threatened. If cornered, a flumph can emit a foul-smelling spray capable of temporarily incapacitating enemies while warning nearby allies of their presence. This olfactory defense mechanism causes flumphs to feel more kinship with terrestrial creatures than with the jellyfish to which they bear a closer physical resemblance.
  Flumphs hatch from pods flung into outer space from the distant flumph homeworld in a ritual known as the Seeding. Even a newly hatched flumph has an instinctive knowledge of their purpose and seeks to make a lair close to a nearby settlement, which they then adopt as their personal charge to protect. However, remaining acutely aware of both their physical limitations and the tendency of their appearance to frighten the unsuspecting, most flumphs recruit and guide from afar, revealing their true nature only to their most trusted allies.
  In addition to their missions, flumphs endeavor to lead upstanding lives on a daily basis. They notably draw guidance from their dreams through exhaustive interpretations and carefully maintained dream journals. Life lessons, areas in which they can improve their behavior, and portents of alien danger all come to flumphs in dreams—or at least, that's what they believe. Despite placing so much importance on dreams, flumphs have never set out to prove their dreams are authentic messages.
-**Recall Knowledge - Aberration ([[Occultism]])**: DC 15
+**Recall Knowledge - Aberration ([[DATABASE/skill/Occultism|Occultism]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Flumph<span class="item-type">Creature 1</span>
 
 <span class="trait-alignment item-trait">LG</span><span class="trait-size item-trait">Small</span><span class="item-trait">Aberration</span>
-**Source** [[Bestiary 3]]
-**Perception** +8; [[Darkvision]]
-**Languages** [[Aklo]], [[Celestial]], [[Common]]
-**Skills** [[Acrobatics]] +7, [[Lore]] +8, [[Diplomacy]] +7, [[Stealth]] +7
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
+**Perception** +8; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Aklo|Aklo]], [[DATABASE/language/Celestial|Celestial]], [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +7, [[DATABASE/skill/Lore|Dark Tapestry Lore]] +8, [[DATABASE/skill/Diplomacy|Diplomacy]] +7, [[DATABASE/skill/Stealth|Stealth]] +7
 **Str** +0, **Dex** +4, **Con** +0, **Int** +1, **Wis** +3, **Cha** +2
 
 ---
 **AC** 17; **Fort** +5, **Ref** +9, **Will** +8
 **HP** 17
-<span class="in-box-ability">**Upside Down** A flumph that is knocked [[Prone]] must succeed at a DC 11 flat check or land on its back, rendering it [[Flat-Footed]] and [[Immobilized]]. An adjacent ally can Interact to right the flumph, removing both conditions.</span>
+<span class="in-box-ability">**Upside Down** A flumph that is knocked [[DATABASE/condition/Prone|prone]] must succeed at a DC 11 flat check or land on its back, rendering it [[DATABASE/condition/Flat-Footed|flat-footed]] and [[DATABASE/condition/Immobilized|immobilized]]. An adjacent ally can Interact to right the flumph, removing both conditions.</span>
 
 ---
 **Speed** 5 feet, fly 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> spikes +7 [+3/-1] (agile, finesse), **Damage** 1d4 piercing plus 1d4 [[Persistent Damage]]</span><span class="in-box-ability">**Spray Perfume** <span class="action-icon">1</span> (olfactory) The flumph sprays a 20-foot line of foul-smelling liquid. Each creature caught in the spray must succeed at a DC 16 Fortitude save or become [[Sickened]] (sickened 2 on a critical failure). The odor from the spray lingers for 1d4 hours on all creatures that failed their saves. The sprayed creatures can be detected by smell at a range of 100 feet, and any creatures adjacent to them take a –2 circumstance penalty to saves against Spray Perfume or to recover from the sickened condition. The flumph can't use Spray Perfume again for 1d4 rounds.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> spikes +7 [+3/-1] (agile, finesse), **Damage** 1d4 piercing plus 1d4 [[DATABASE/condition/Persistent Damage|persistent acid]]</span><span class="in-box-ability">**Spray Perfume** <span class="action-icon">1</span> (olfactory) The flumph sprays a 20-foot line of foul-smelling liquid. Each creature caught in the spray must succeed at a DC 16 Fortitude save or become [[DATABASE/condition/Sickened|sickened 1]] (sickened 2 on a critical failure). The odor from the spray lingers for 1d4 hours on all creatures that failed their saves. The sprayed creatures can be detected by smell at a range of 100 feet, and any creatures adjacent to them take a –2 circumstance penalty to saves against Spray Perfume or to recover from the sickened condition. The flumph can't use Spray Perfume again for 1d4 rounds.</span>
 
 ###  Do You Swear?
 

@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Geomancer Dedication|Geomancer Dedication]] ; Leg
   in [[DATABASE/skill/Nature|Nature]]'
 rarity: Common
 requirement: Your previous action was Attunement Shift.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -26,15 +27,15 @@ type: Feat
 # Quickened Attunement <span class="action-icon">4</span> <span class="item-type">Feat 16</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Concentrate</span><span class="item-trait">Metamagic</span>
-**Source** [[Secrets of Magic]] 
-**Archetype** [[Geomancer]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
+**Archetype** [[DATABASE/archetype/Geomancer|Geomancer]]
 **Frequency** once per day
-**Prerequisites** [[Geomancer Dedication]]; legendary in [[Nature]]
+**Prerequisites** [[DATABASE/feat/Geomancer Dedication|Geomancer Dedication]]; legendary in [[DATABASE/skill/Nature|Nature]]
 **Requirements** Your previous action was Attunement Shift.
 
 ---
 If your next action is to cast a spell that would grant your terrain attunement bonus, reduce the number of actions to cast it by 1 (to a minimum of 1 action).
-**Special** You can't use Quickened Attunement and [[Quickened Casting]] in the same round.
+**Special** You can't use Quickened Attunement and [[DATABASE/feat/Quickened Casting|Quickened Casting]] in the same round.
 
 ## Traits
 

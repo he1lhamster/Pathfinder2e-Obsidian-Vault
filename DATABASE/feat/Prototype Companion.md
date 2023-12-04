@@ -11,6 +11,7 @@ name: Prototype Companion
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Prototype Companion <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Inventor</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 
 ---
 You have created a construct companion, and while it might not be an innovation, it serves as a trustworthy minion. You gain a prototype construct companion.

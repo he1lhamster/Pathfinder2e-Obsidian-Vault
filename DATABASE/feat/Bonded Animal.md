@@ -11,6 +11,7 @@ name: Bonded Animal
 prerequisite: Expert in [[DATABASE/skill/Nature|Nature]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: nature
@@ -25,11 +26,11 @@ type: Feat
 # Bonded Animal <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Downtime</span><span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** expert in [[Nature]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** expert in [[DATABASE/skill/Nature|Nature]]
 
 ---
-You forge strong connections with animals. You can spend 7 days of downtime regularly interacting with a normal animal (not a companion or other special animal) that is friendly or helpful to you. After this duration, attempt a DC 20 [[Nature Domain]] check. If successful, you bond with the animal. The animal is permanently [[Helpful]] to you, unless you do something egregious to break your bond. A helpful animal is easier to direct, as described under [[Command an Animal]].
+You forge strong connections with animals. You can spend 7 days of downtime regularly interacting with a normal animal (not a companion or other special animal) that is friendly or helpful to you. After this duration, attempt a DC 20 [[DATABASE/domain/Nature Domain|Nature]] check. If successful, you bond with the animal. The animal is permanently [[DATABASE/condition/Helpful|helpful]] to you, unless you do something egregious to break your bond. A helpful animal is easier to direct, as described under [[DATABASE/action/Command an Animal|Command an Animal]].
  Bonding with a new animal ends any previous bond you had. You can't have both a bonded animal and an animal companion (though you can have both a bonded animal and a familiar).
 
 ## Traits

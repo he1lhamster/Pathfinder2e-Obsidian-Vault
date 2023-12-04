@@ -83,25 +83,25 @@ wisdom: '+4'
 ---
 # Boiling Spring
 
-Often mistaken for [[Elemental, Air]] due to their hazy, almost-imperceptible forms, a boiling spring is a humanoid water elemental made of scalding steam and bubbling water. When summoned to the [[Material Plane]], a boiling spring raises the ambient temperature around them, making the surrounding climate humid and muggy. They seem to enjoy the discomfort they cause, though some regard it as merely a fun prank while others truly revel in the misery and look for ways to cause more.
-**Recall Knowledge - Elemental ([[Arcana]], [[Nature]])**: DC 31
+Often mistaken for [[DATABASE/monsterfamily/Elemental, Air|air elementals]] due to their hazy, almost-imperceptible forms, a boiling spring is a humanoid water elemental made of scalding steam and bubbling water. When summoned to the [[DATABASE/plane/Material Plane|Universe]], a boiling spring raises the ambient temperature around them, making the surrounding climate humid and muggy. They seem to enjoy the discomfort they cause, though some regard it as merely a fun prank while others truly revel in the misery and look for ways to cause more.
+**Recall Knowledge - Elemental ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 31
 **Unspecific Lore**: DC 29
 **Specific Lore**: DC 26
 
 # Boiling Spring<span class="item-type">Creature 13</span>
 
 <span class="trait-size item-trait">Large</span><span class="item-trait">Aquatic</span><span class="item-trait">Elemental</span><span class="item-trait">Fire</span><span class="item-trait">Water</span>
-**Source** [[Rage of Elements]]
-**Perception** +23; [[Darkvision]], steam vision
-**Languages** [[Thalassic]]
-**Skills** [[Athletics]] +26, [[Stealth]] +26
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
+**Perception** +23; [[DATABASE/monsterability/Darkvision|darkvision]], steam vision
+**Languages** [[DATABASE/language/Thalassic|Thalassic]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +26, [[DATABASE/skill/Stealth|Stealth]] +26
 **Str** +7, **Dex** +7, **Con** +7, **Int** +2, **Wis** +4, **Cha** +2
-**Steam Vision** The boiling spring ignores the [[Concealed]] condition from mist and steam.
+**Steam Vision** The boiling spring ignores the [[DATABASE/condition/Concealed|concealed]] condition from mist and steam.
 
 ---
 **AC** 34; **Fort** +23, **Ref** +26, **Will** +20
-**HP** 255; **Immunities** bleed, fire, [[Paralyzed]], poison, sleep; **Weaknesses** cold 15
-<span class="in-box-ability">**Freeze and Shatter** If the boiling spring is destroyed with cold damage, their body freezes over and explodes, sending out a wave of frigid air and ice shards that deal 4d6 piercing damage plus 4d6 cold damage to creatures in a 20-foot emanation (DC 36 basic Reflex save).</span><span class="in-box-ability">**Sweltering Heat** (aura, fire) 25 feet. The boiling spring radiates heat, raising the air temperature around them. A creature that starts its turn in the emanation must succeed at a DC 33 Fortitude save or become [[Fatigued]] while it remains in the area; creatures immune to environmental heat effects or with any fire resistance are immune.</span><span class="in-box-ability">**Evaporate <span class="action-icon">5</span> ** **Trigger** An effect would deal fire damage to the boiling spring, even if they would ignore the damage; **Effect** The boiling spring evaporates into the air. Until the beginning of the boiling spring's next turn, they can't be attacked or targeted. They still occupy their space, and their auras still function as normal.</span>
+**HP** 255; **Immunities** bleed, fire, [[DATABASE/condition/Paralyzed|paralyzed]], poison, sleep; **Weaknesses** cold 15
+<span class="in-box-ability">**Freeze and Shatter** If the boiling spring is destroyed with cold damage, their body freezes over and explodes, sending out a wave of frigid air and ice shards that deal 4d6 piercing damage plus 4d6 cold damage to creatures in a 20-foot emanation (DC 36 basic Reflex save).</span><span class="in-box-ability">**Sweltering Heat** (aura, fire) 25 feet. The boiling spring radiates heat, raising the air temperature around them. A creature that starts its turn in the emanation must succeed at a DC 33 Fortitude save or become [[DATABASE/condition/Fatigued|fatigued]] while it remains in the area; creatures immune to environmental heat effects or with any fire resistance are immune.</span><span class="in-box-ability">**Evaporate <span class="action-icon">5</span> ** **Trigger** An effect would deal fire damage to the boiling spring, even if they would ignore the damage; **Effect** The boiling spring evaporates into the air. Until the beginning of the boiling spring's next turn, they can't be attacked or targeted. They still occupy their space, and their auras still function as normal.</span>
 
 ---
 **Speed** fly 30 feet, swim 80 feet

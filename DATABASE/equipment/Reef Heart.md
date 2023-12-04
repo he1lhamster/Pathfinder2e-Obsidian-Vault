@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 size: null
@@ -54,23 +55,23 @@ weapon_type: null
 # Reef Heart<span class="item-type">Item 12+</span>
 
 <span class="item-trait">Conjuration</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Usage** worn armor; **Bulk** 2
-**Base Armor** [[Coral Armor]]
+**Base Armor** [[DATABASE/armor/Coral Armor|Coral Armor]]
 
 ---
-This _+2 [[Resilient]] [[Coral Armor]]_, often favored by allies of [[Merfolk]] and aquatic [[Elf]], is made of living coral carefully harvested from the ocean depths. Legends speak of a variety of similar coral armors with distinct powers, but surface-dwellers know of _reef heart_ as a magic armor that makes it easier for them to travel under the sea. _Reef heart_ enables you to breathe underwater and gives you a swim Speed equal to half your land Speed.
-**Activate** <span class="action-icon">3</span> command, envision, Interact **Frequency** once per day; **Effect** You cast [[Coral Eruption]]. If you conjure the coral underwater, it ceases dealing damage after 1 minute, but its duration is unlimited. If the magical coral remains in place for 1 year, it becomes non-magical coral from which a reef might grow.
+This _+2 [[DATABASE/equipment/Resilient|resilient]] [[DATABASE/armor/Coral Armor|coral armor]]_, often favored by allies of [[DATABASE/monsterfamily/Merfolk|merfolk]] and aquatic [[DATABASE/ancestry/Elf|elves]], is made of living coral carefully harvested from the ocean depths. Legends speak of a variety of similar coral armors with distinct powers, but surface-dwellers know of _reef heart_ as a magic armor that makes it easier for them to travel under the sea. _Reef heart_ enables you to breathe underwater and gives you a swim Speed equal to half your land Speed.
+**Activate** <span class="action-icon">3</span> command, envision, Interact **Frequency** once per day; **Effect** You cast [[DATABASE/spell/Coral Eruption|coral eruption]]. If you conjure the coral underwater, it ceases dealing damage after 1 minute, but its duration is unlimited. If the magical coral remains in place for 1 year, it becomes non-magical coral from which a reef might grow.
 
 ## Reef Heart<span class="item-type">Item 12</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 2,000 gp
 **Bulk** 2
 
 ## Reef Heart (Greater)<span class="item-type">Item 15</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 6,500 gp
 **Bulk** 2
 The reef heart is _+2 greater resilient coral armor_, the swim Speed is equal to your full land Speed, and the _coral eruption_ is 7th level.

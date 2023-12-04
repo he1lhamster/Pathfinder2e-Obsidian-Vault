@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: DC 26 Fortitude
 school: null
 size: null
@@ -57,11 +58,11 @@ weapon_type: null
 # Malyass Root Paste<span class="item-type">Item 7</span>
 
 <span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Contact</span><span class="item-trait">Poison</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 55 gp
 **Usage** held in 2 hands; **Bulk** L
 **Activate** <span class="action-icon">3</span> Interact
 
 ---
 Malyass root paste sees use to impede opponents in athletic competitions, in addition to espionage and tracking.
-**Saving Throw** DC 26 Fortitude; **Onset** 1 minute; **Maximum Duration** 6 minutes; **Stage 1** [[Clumsy]] and –10-foot status penalty to all Speeds (1 minute); **Stage 2** clumsy 2 and –20-foot status penalty to all Speeds (1 minute); **Stage 3** clumsy 3, [[Flat-Footed]], and –30-foot status penalty to all Speeds
+**Saving Throw** DC 26 Fortitude; **Onset** 1 minute; **Maximum Duration** 6 minutes; **Stage 1** [[DATABASE/condition/Clumsy|clumsy 1]] and –10-foot status penalty to all Speeds (1 minute); **Stage 2** clumsy 2 and –20-foot status penalty to all Speeds (1 minute); **Stage 3** clumsy 3, [[DATABASE/condition/Flat-Footed|flat-footed]], and –30-foot status penalty to all Speeds

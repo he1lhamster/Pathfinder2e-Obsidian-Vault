@@ -3,6 +3,7 @@ bloodline: Hag
 id: '8'
 name: Hag
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 spell:
 - '[[DATABASE/spell/Baleful Polymorph|Baleful Polymorph]]'
@@ -24,10 +25,10 @@ type: Sorcerer Bloodline
 ---
 # Hag
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 A hag long ago cursed your family, or you are a descendant of a hag or changeling, and their accursed corruption infests your blood and soul.
 **Spell List** occult
-**Bloodline Skills** [[Deception]], [[Occultism]]
-**Granted Spells** cantrip: [[Daze]], 1st: [[Illusory Disguise]], 2nd: [[Touch of Idiocy]], 3rd: [[Blindness]], 4th: [[Outcast's Curse]], 5th: [[Mariner's Curse]], 6th: [[Baleful Polymorph]], 7th: [[Warp Mind]], 8th: [[Spiritual Epidemic]], 9th: [[Nature's Enmity]]
-**Bloodline Spells** initial: [[Jealous Hex]], advanced: [[Horrific Visage]], greater: [[You're Mine]]
+**Bloodline Skills** [[DATABASE/skill/Deception|Deception]], [[DATABASE/skill/Occultism|Occultism]]
+**Granted Spells** cantrip: [[DATABASE/spell/Daze|daze]], 1st: [[DATABASE/spell/Illusory Disguise|illusory disguise]], 2nd: [[DATABASE/spell/Touch of Idiocy|touch of idiocy]], 3rd: [[DATABASE/spell/Blindness|blindness]], 4th: [[DATABASE/spell/Outcast's Curse|outcast's curse]], 5th: [[DATABASE/spell/Mariner's Curse|mariner's curse]], 6th: [[DATABASE/spell/Baleful Polymorph|baleful polymorph]], 7th: [[DATABASE/spell/Warp Mind|warp mind]], 8th: [[DATABASE/spell/Spiritual Epidemic|spiritual epidemic]], 9th: [[DATABASE/spell/Nature's Enmity|nature's enmity]]
+**Bloodline Spells** initial: [[DATABASE/spell/Jealous Hex|jealous hex]], advanced: [[DATABASE/spell/Horrific Visage|horrific visage]], greater: [[DATABASE/spell/You're Mine|you're mine]]
 **Blood Magic** Spiteful curses punish your foes. The first creature that deals damage to you before the end of your next turn takes 2 mental damage per spell level and must attempt a basic Will save.

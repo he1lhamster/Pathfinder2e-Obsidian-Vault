@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -55,10 +56,10 @@ weapon_type: null
 # Potion of Expeditious Retreat<span class="item-type">Item 1</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Magical</span><span class="item-trait">Potion</span><span class="item-trait">Transmutation</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Price** 3 gp
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
 ---
-The stopper for a _potion of expeditious retreat_ is crafted to easily snap open in dire circumstances. When you drink this potion, you become [[Fleeing]] for 1 minute, and you gain a +40-foot status bonus to all your Speeds for the duration as long as you are fleeing. You immediately Stride.
+The stopper for a _potion of expeditious retreat_ is crafted to easily snap open in dire circumstances. When you drink this potion, you become [[DATABASE/condition/Fleeing|fleeing]] for 1 minute, and you gain a +40-foot status bonus to all your Speeds for the duration as long as you are fleeing. You immediately Stride.

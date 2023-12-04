@@ -3,6 +3,7 @@ creature_family: Dragon, Blue
 id: '166'
 name: Dragon, Blue
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,7 +11,7 @@ type: Creature Family
 ---
 # Dragon, Blue
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Blue dragons are the sleek and poised cosmopolitans of the chromatic dragons. Their brand of evil is organized, manipulative, and regal. Blue dragons often lair near or within cities and set out to bend the population to their will and gather hordes of servants. These dragons love spinning webs of conspiracy. A blue dragon's lackeys typically don't even realize that they serve a dragon, but instead think the protection money, tariffs, or taxes they are amassing is treasure for a cruel but legitimate master. In some ways, blue dragons even see their servants as a living hoard and value them like treasure. These dragons have been known to use these tactics even with their own chromatic cousins.
  Not all blue dragons work clandestinely. Some lord over desert tribes and hill people like vengeful gods, demanding both tribute and worship. No matter how blue dragons manage their underlings, their bearing is regal and their lairs palatial; they're universally intolerant of insubordination, incompetence, and embezzlement, and punish perpetrators with murderous efficiency.
  Blue dragons are also known for their use and mastery of illusion magic. They make use of illusions to augment their manipulations and bewilder their foes in battle. Blue dragons also have some control over water, but use this ability to destroy water, something quite dangerous for those who encounter them in their desert lairs.
@@ -18,11 +19,11 @@ Blue dragons are the sleek and poised cosmopolitans of the chromatic dragons. Th
 
 ### Members
 
-[[Adult Blue Dragon]] (Creature 13), [[Ancient Blue Dragon]] (Creature 18), [[Young Blue Dragon]] (Creature 9)
+[[DATABASE/monster/Adult Blue Dragon|Adult Blue Dragon]] (Creature 13), [[DATABASE/monster/Ancient Blue Dragon|Ancient Blue Dragon]] (Creature 18), [[DATABASE/monster/Young Blue Dragon|Young Blue Dragon]] (Creature 9)
 
 ## Dragon, Chromatic
 
-**Related Groups** [[Dragon, Black]], [[Dragon, Green]], [[Dragon, Red]], [[Dragon, White]]
+**Related Groups** [[DATABASE/monsterfamily/Dragon, Black|Dragon, Black]], [[DATABASE/monsterfamily/Dragon, Green|Dragon, Green]], [[DATABASE/monsterfamily/Dragon, Red|Dragon, Red]], [[DATABASE/monsterfamily/Dragon, White|Dragon, White]]
 While there are many types of dragons, from the powerful planar dragons to the strange esoteric dragons, few dragon varieties are as well-known and as rightly feared as the chromatic dragons. Differentiated by the hue of their scales, each color of dragon unleashes its own flavor of murderous cruelty—be it by claw, tooth, or breath—and unlike most creatures, dragons only become more powerful as they age. Their lust for treasure, food, bloodshed, and control are legendary. Physically powerful with egos to match, these dragons are often morally depraved and act as criminal masterminds, vicious tyrants, or voracious raiders.
 
 ### Shape-Changing Dragons

@@ -8,6 +8,7 @@ name: Sustain a Spell
 rarity: Common
 requirement: You have at least one spell active with a sustained duration, and you
   are not fatigued.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
@@ -19,7 +20,7 @@ type: Action
 # Sustain a Spell <span class="action-icon">1</span>
 
 <span class="item-trait">Concentrate</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Requirements** You have at least one spell active with a sustained duration, and you are not fatigued.
 
 ---

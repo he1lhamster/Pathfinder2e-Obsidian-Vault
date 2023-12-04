@@ -12,6 +12,7 @@ primary_check: '[[DATABASE/skill/Nature|Nature]] (expert)'
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: Necromancy
 secondary_casters: '1'
 secondary_check: '[[DATABASE/skill/Lore|Farming Lore]] or [[DATABASE/skill/Survival|Survival]]'
@@ -28,14 +29,14 @@ type: Ritual
 # Plant Growth<span class="item-type">Ritual 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Necromancy</span><span class="item-trait">Plant</span><span class="item-trait">Positive</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Cast** 1 day; **Secondary Casters** 1
-**Primary Check** [[Nature]] (expert); **Secondary Checks** [[Lore]] or [[Survival]]
+**Primary Check** [[DATABASE/skill/Nature|Nature]] (expert); **Secondary Checks** [[DATABASE/skill/Lore|Farming Lore]] or [[DATABASE/skill/Survival|Survival]]
 **Area** 1/2-mile-radius circle centered on you
 **Duration** 1 year
 
 ---
-You cause the plants within the area to be healthier and more fruitful. In addition to other benefits of healthy plants, this increases the crop yield for farms, depending on your success. If you cast it in the area of a [[Blight]], _plant growth_ attempts to counteract the _blight_ instead of producing its usual effect.
+You cause the plants within the area to be healthier and more fruitful. In addition to other benefits of healthy plants, this increases the crop yield for farms, depending on your success. If you cast it in the area of a [[DATABASE/ritual/Blight|blight]], _plant growth_ attempts to counteract the _blight_ instead of producing its usual effect.
 **Critical Success** Double the crop yield in the area, or increase the area to a 1-mile radius.
 **Success** Increase the crop yield in the area by one-third.
 **Failure** The ritual has no effect.

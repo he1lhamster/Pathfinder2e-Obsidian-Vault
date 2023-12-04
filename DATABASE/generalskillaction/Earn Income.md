@@ -2,6 +2,7 @@
 id: '2'
 name: Earn Income
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait: null
 type: General Skill Action
@@ -9,20 +10,19 @@ type: General Skill Action
 ---
 # Earn Income (Trained)
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 You can use a skill—typically Crafting, Lore, or Performance—to earn money during downtime. You must be trained in the skill to do so. This takes time to set up, and your income depends on your proficiency rank and how lucrative a task you can find. Because this process requires a significant amount of time and involves tracking things outside the progress of adventures, it won’t come up in every campaign.
  In some cases, the GM might let you use a different skill to Earn Income through specialized work. Usually, this is scholarly work, such as using Religion in a monastery to study old texts—but giving sermons at a church would still fall under Performance instead of Religion. You also might be able to use physical skills to make money, such as using Acrobatics to perform feats in a circus or Thievery to pick pockets. If you’re using a skill other than Crafting, Lore, or Performance, the DC tends to be significantly higher.
-Earn Income Calculator<span>Item Bonuses for Earn Income - Common Items</span>
-
-| Item                                                       |   Bonus |   Level | Category         | Consumable?   | Note   |
-|:-----------------------------------------------------------|--------:|--------:|:-----------------|:--------------|:-------|
-| [[Hat of Many Minds]] |       2 |      12 | Other Worn Items | No            | —      |
+Earn Income Calculator<span>Item Bonuses for Earn Income - Common Items</span>| 0 | 1 | 2 | 3 | 4 | 5 |
+|:-----------------------------------------------------------|:------|:------|:-----------------|:------------|:-----|
+| Item | Bonus | Level | Category | Consumable? | Note |
+| [[Hat of Many Minds]] | +2 | 12 | Other Worn Items | No | — |
 
 ## Skill Uses
 
-[[Crafting]] Earn Income by crafting goods for the market.
-[[Lore]] Earn Income by using your knowledge to practice a trade.
-[[Performance]] Earn Income by staging a performance.
+[[DATABASE/skill/Crafting|Crafting]] Earn Income by crafting goods for the market.
+[[DATABASE/skill/Lore|Lore]] Earn Income by using your knowledge to practice a trade.
+[[DATABASE/skill/Performance|Performance]] Earn Income by staging a performance.
 
 ## Income Examples
 
@@ -49,10 +49,10 @@ When Earning Income, you might be able to spend days of downtime to prepare for 
 When a task you're doing is complete, or if you stop in the middle of one, you normally have to find a new task if you want to keep Earning Income. For instance, if you quit your job working at the docks, you'll need to find another place of employment instead of picking up where you left off. This usually takes 1 day or more of downtime looking for leads on new jobs.
  However, you might pause a task due to an adventure or event that wouldn't prevent you from returning to the old job later. The GM might decide that you can pick up where you left off, assuming the task hasn't been completed by others in your absence. Whether you roll a new skill check when you resume is also up to the GM. Generally speaking, if you had a good initial roll and want to keep it, you can, but if you had a bad initial roll, you can't try for a better one by pausing to do something else. If your statistics changed during the break—usually because you leveled up while adventuring—you can attempt a new check.
 
-## [[Earn Income]]
+## [[DATABASE/action/Earn Income|Earn Income]]
 
 <span class="item-trait">Downtime</span>
-**Source** [[Core Rulebook]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
 You use one of your skills to make money during downtime. The GM assigns a task level representing the most lucrative job available. You can search for lower-level tasks, with the GM determining whether you find any. Sometimes you can attempt to find better work than the initial offerings, though this takes time and requires using the Diplomacy skill to Gather Information, doing some research, or socializing.
@@ -61,30 +61,31 @@ You use one of your skills to make money during downtime. The GM assigns a task 
 
 ## Table 4-2: Income Earned
 
-| Task Level            | DC   | Failed     | Trained    | Expert     | Master     | Legendary   |
-|:----------------------|:-----|:-----------|:-----------|:-----------|:-----------|:------------|
-| 0                     | 14   | 1 cp       | 5 cp       | 5 cp       | 5 cp       | 5 cp        |
-| 1                     | 15   | 2 cp       | 2 sp       | 2 sp       | 2 sp       | 2 sp        |
-| 2                     | 16   | 4 cp       | 3 sp       | 3 sp       | 3 sp       | 3 sp        |
-| 3                     | 18   | 8 cp       | 5 sp       | 5 sp       | 5 sp       | 5 sp        |
-| 4                     | 19   | 1 sp       | 7 sp       | 8 sp       | 8 sp       | 8 sp        |
-| 5                     | 20   | 2 sp       | 9 sp       | 1 gp       | 1 gp       | 1 gp        |
-| 6                     | 22   | 3 sp       | 1 gp, 5 sp | 2 gp       | 2 gp       | 2 gp        |
-| 7                     | 23   | 4 sp       | 2 gp       | 2 gp, 5 sp | 2 gp, 5 sp | 2 gp, 5 sp  |
-| 8                     | 24   | 5 sp       | 2 gp, 5 sp | 3 gp       | 3 gp       | 3 gp        |
-| 9                     | 26   | 6 sp       | 3 gp       | 4 gp       | 4 gp       | 4 gp        |
-| 10                    | 27   | 7 sp       | 4 gp       | 5 gp       | 6 gp       | 6 gp        |
-| 11                    | 28   | 8 sp       | 5 gp       | 6 gp       | 8 gp       | 8 gp        |
-| 12                    | 30   | 9 sp       | 6 gp       | 8 gp       | 10 gp      | 10 gp       |
-| 13                    | 31   | 1 gp       | 7 gp       | 10 gp      | 15 gp      | 15 gp       |
-| 14                    | 32   | 1 gp, 5 sp | 8 gp       | 15 gp      | 20 gp      | 20 gp       |
-| 15                    | 34   | 2 gp       | 10 gp      | 20 gp      | 28 gp      | 28 gp       |
-| 16                    | 35   | 2 gp, 5 sp | 13 gp      | 25 gp      | 36 gp      | 40 gp       |
-| 17                    | 36   | 3 gp       | 15 gp      | 30 gp      | 45 gp      | 55 gp       |
-| 18                    | 38   | 4 gp       | 20 gp      | 45 gp      | 70 gp      | 90 gp       |
-| 19                    | 39   | 6 gp       | 30 gp      | 60 gp      | 100 gp     | 130 gp      |
-| 20                    | 40   | 8 gp       | 40 gp      | 75 gp      | 150 gp     | 200 gp      |
-| 20 (critical success) | —    | —          | 50 gp      | 90 gp      | 175 gp     | 300 gp      |
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 |
+|:----------------------|:----|:-----------|:-----------|:-----------|:-----------|:-----------|
+| Task Level | DC | Failed | Trained | Expert | Master | Legendary |
+| 0 | 14 | 1 cp | 5 cp | 5 cp | 5 cp | 5 cp |
+| 1 | 15 | 2 cp | 2 sp | 2 sp | 2 sp | 2 sp |
+| 2 | 16 | 4 cp | 3 sp | 3 sp | 3 sp | 3 sp |
+| 3 | 18 | 8 cp | 5 sp | 5 sp | 5 sp | 5 sp |
+| 4 | 19 | 1 sp | 7 sp | 8 sp | 8 sp | 8 sp |
+| 5 | 20 | 2 sp | 9 sp | 1 gp | 1 gp | 1 gp |
+| 6 | 22 | 3 sp | 1 gp, 5 sp | 2 gp | 2 gp | 2 gp |
+| 7 | 23 | 4 sp | 2 gp | 2 gp, 5 sp | 2 gp, 5 sp | 2 gp, 5 sp |
+| 8 | 24 | 5 sp | 2 gp, 5 sp | 3 gp | 3 gp | 3 gp |
+| 9 | 26 | 6 sp | 3 gp | 4 gp | 4 gp | 4 gp |
+| 10 | 27 | 7 sp | 4 gp | 5 gp | 6 gp | 6 gp |
+| 11 | 28 | 8 sp | 5 gp | 6 gp | 8 gp | 8 gp |
+| 12 | 30 | 9 sp | 6 gp | 8 gp | 10 gp | 10 gp |
+| 13 | 31 | 1 gp | 7 gp | 10 gp | 15 gp | 15 gp |
+| 14 | 32 | 1 gp, 5 sp | 8 gp | 15 gp | 20 gp | 20 gp |
+| 15 | 34 | 2 gp | 10 gp | 20 gp | 28 gp | 28 gp |
+| 16 | 35 | 2 gp, 5 sp | 13 gp | 25 gp | 36 gp | 40 gp |
+| 17 | 36 | 3 gp | 15 gp | 30 gp | 45 gp | 55 gp |
+| 18 | 38 | 4 gp | 20 gp | 45 gp | 70 gp | 90 gp |
+| 19 | 39 | 6 gp | 30 gp | 60 gp | 100 gp | 130 gp |
+| 20 | 40 | 8 gp | 40 gp | 75 gp | 150 gp | 200 gp |
+| 20 (critical success) | — | — | 50 gp | 90 gp | 175 gp | 300 gp |
 **Critical Success** You do outstanding work. Gain the amount of currency listed for the task level + 1 and your proficiency rank.
 **Success** You do competent work. Gain the amount of currency listed for the task level and your proficiency rank.
 **Failure** You do shoddy work and get paid the bare minimum for your time. Gain the amount of currency listed in the failure column for the task level. The GM will likely reduce how long you can continue at the task.
@@ -98,17 +99,17 @@ These examples use Alcohol Lore to work in a bar or Legal Lore to perform legal 
 **Master** run a large brewery, present important court cases
 **Legendary** run an international brewing franchise, present a case in Hell’s courts
 
-## Crafting Goods for the Market [[Crafting]]
+## Crafting Goods for the Market [[DATABASE/skill/Crafting|Crafting]]
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Using Crafting, you can work at producing common items for the market. It’s usually easy to find work making basic items whose level is 1 or 2 below your settlement’s level (see Earn Income on page 504). Higher-level tasks represent special commissions, which might require you to Craft a specific item using the Craft downtime activity and sell it to a buyer at full price. These opportunities don’t occur as often and might have special requirements—or serious consequences if you disappoint a prominent client.
 
-## Practicing a Trade [[Lore]]
+## Practicing a Trade [[DATABASE/skill/Lore|Lore]]
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 You apply the practical benefits of one of your Lore specialties during downtime by practicing your trade. This is most effective for Lore specialties such as business, law, or sailing, where there’s high demand for workers. The GM might increase the DC or determine only low-level tasks are available if you’re attempting to use an obscure Lore skill to Earn Income. You might also need specialized tools to accept a job, like mining tools to work in a mine or a merchant’s scale to buy and sell valuables in a market.
 
-## Staging a Performance [[Performance]]
+## Staging a Performance [[DATABASE/skill/Performance|Performance]]
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 You perform for an audience to make money. The available audiences determine the level of your task, since more discerning audiences are harder to impress but provide a bigger payout. The GM determines the task level based on the audiences available. Performing for a typical audience of commoners on the street is a level 0 task, but a performance for a group of artisans with more refined tastes might be a 2nd- or 3rd-level task, and ones for merchants, nobility, and royalty are increasingly higher level. Your degree of success determines whether you moved your audience and whether you were rewarded with applause or rotten fruit.

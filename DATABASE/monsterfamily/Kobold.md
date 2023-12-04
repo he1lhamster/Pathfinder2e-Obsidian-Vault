@@ -3,6 +3,7 @@ creature_family: Kobold
 id: '65'
 name: Kobold
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,13 +11,13 @@ type: Creature Family
 ---
 # Kobold
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Kobolds are small, reptilian humanoids who carry physical similarities to true dragons. They lurk in dark spaces, usually tunnels and mines beneath the earth, in either warrens of their own design or complexes discovered and colonized after the original builders have moved on. Though kobolds are far more pragmatic than they are courageous, they use every inch of their cunning to even the playing field between themselves and other, stronger creatures. They attack from the darkness and at range, and kobold artificers and engineers master the art of simple but effective traps, which they use to protect their lairs. Kobolds are skilled at working together by necessity, and they often set up ambushes or hit-and-run assaults that allow them to do the most damage possible without being harmed in return.
  Kobolds are diligent and hardworking creatures, though they often turn these virtues toward selfish ends. While some kobolds live in communal collectives that maintain neutral relations with the creatures around them, they can be easily swayed into serving malevolent powers or megalomaniac leaders. This is in part due to kobolds’ innate pragmatism, as they would rather concede to servitude than risk being killed, but it is also in part due to a reverence for the power that kobolds generally lack. Dragons in particular are viewed with a deferential awe, and kobolds eagerly offer their services to such mighty and glorious creatures when they can. While kobolds may scheme against other leaders, especially those that control them via subjugation, dragons are usually viewed with adoration, no matter how brutal they might be to their kobold minions.
 
 ### Members
 
-Dark Talon Kobold (Creature 2), [[Kobold Dragon Mage]] (Creature 2), [[Kobold Scout]] (Creature 1), [[Kobold Tunnelrunner]] (Creature 0), [[Kobold Warrior]] (Creature -1)
+Dark Talon Kobold (Creature 2), [[DATABASE/monster/Kobold Dragon Mage|Kobold Dragon Mage]] (Creature 2), [[DATABASE/monster/Kobold Scout|Kobold Scout]] (Creature 1), [[DATABASE/monster/Kobold Tunnelrunner|Kobold Tunnelrunner]] (Creature 0), [[DATABASE/monster/Kobold Warrior|Kobold Warrior]] (Creature -1)
 
 ###  "We are Dragons!"
 

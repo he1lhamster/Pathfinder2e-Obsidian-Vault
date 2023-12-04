@@ -11,6 +11,7 @@ name: Torrential Backlash
 prerequisite: '[[DATABASE/feat/Curse Maelstrom Dedication|Curse Maelstrom Dedication]]'
 rarity: Common
 requirement: You are in a curse maelstrom state.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Torrential Backlash <span class="action-icon">2</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Dark Archive]]
-**Archetype** [[Curse Maelstrom]]
-**Prerequisites** [[Curse Maelstrom Dedication]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Archetype** [[DATABASE/archetype/Curse Maelstrom|Curse Maelstrom]]
+**Prerequisites** [[DATABASE/feat/Curse Maelstrom Dedication|Curse Maelstrom Dedication]]
 **Requirements** You are in a curse maelstrom state.
 
 ---

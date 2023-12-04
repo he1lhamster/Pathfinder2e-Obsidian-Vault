@@ -21,6 +21,7 @@ patron_theme: null
 range: 30 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: Reflex
 school: Abjuration
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
@@ -38,7 +39,7 @@ type: Spell
 # Lock Item<span class="item-type">Spell 2</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Abjuration</span>
-**Source** [[Knights of Lastwall]]
+**Source** [[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]
 **Access** Knights of Lastwall have access to this spell.
 **Traditions** arcane, primal
 **Cast** <span class="action-icon">2</span> somatic, verbal
@@ -46,7 +47,7 @@ type: Spell
 **Saving Throw** Reflex; **Duration** varies
 
 ---
-One object held by a creature becomes fused to that creature's hand and can't be put down. To [[Disarm]] or [[Steal]] the item, the result of the skill check must exceed the spell's DC or the normal DC, whichever is higher. To voluntarily drop the weapon, the target must spend an Interact action rather than a free action, and then succeed at a Reflex save. On a failed save, the action is wasted, but on a success, they drop the item and the spell ends. An unwilling creature must attempt an initial Reflex save against lock item. A willing creature can choose to critically fail the saving throw.
+One object held by a creature becomes fused to that creature's hand and can't be put down. To [[DATABASE/action/Disarm|Disarm]] or [[DATABASE/action/Steal|Steal]] the item, the result of the skill check must exceed the spell's DC or the normal DC, whichever is higher. To voluntarily drop the weapon, the target must spend an Interact action rather than a free action, and then succeed at a Reflex save. On a failed save, the action is wasted, but on a success, they drop the item and the spell ends. An unwilling creature must attempt an initial Reflex save against lock item. A willing creature can choose to critically fail the saving throw.
 **Critical Success** The creature is unaffected.
 **Success** The creature is affected for 1 round.
 **Failure** The creature is affected for 4 rounds.

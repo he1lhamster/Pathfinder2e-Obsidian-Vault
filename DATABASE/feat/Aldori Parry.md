@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Aldori Duelist Dedication|Aldori Duelist Dedicati
 rarity: Common
 requirement: You are wielding only an Aldori dueling sword and have your other hand
   or hands free.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
 subcategory: null
@@ -24,17 +25,17 @@ type: Feat
 # Aldori Parry <span class="action-icon">1</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[World Guide]] 
-**Archetype** [[Aldori Duelist]]
-**Prerequisites** [[Aldori Duelist Dedication]]
+**Source** [[DATABASE/source/World Guide|World Guide]] 
+**Archetype** [[DATABASE/archetype/Aldori Duelist|Aldori Duelist]]
+**Prerequisites** [[DATABASE/feat/Aldori Duelist Dedication|Aldori Duelist Dedication]]
 **Requirements** You are wielding only an Aldori dueling sword and have your other hand or hands free.
 
 ---
-You can parry attacks against you with your [[Aldori Dueling Sword]]. You gain a +2 circumstance bonus to AC until the start of your next turn as long as you continue to meet the requirement.
+You can parry attacks against you with your [[DATABASE/weapon/Aldori Dueling Sword|Aldori dueling sword]]. You gain a +2 circumstance bonus to AC until the start of your next turn as long as you continue to meet the requirement.
 
 ## Aldori Parry Leads To...
 
-[[Aldori Riposte]]
+[[DATABASE/feat/Aldori Riposte|Aldori Riposte]]
 
 ## Traits
 

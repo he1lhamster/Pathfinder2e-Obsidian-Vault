@@ -11,6 +11,7 @@ name: Deeper Dabbler
 prerequisite: '[[DATABASE/feat/Talisman Dabbler Dedication|Talisman Dabbler Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Deeper Dabbler <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Talisman Dabbler]]
-**Prerequisites** [[Talisman Dabbler Dedication]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Talisman Dabbler|Talisman Dabbler]]
+**Prerequisites** [[DATABASE/feat/Talisman Dabbler Dedication|Talisman Dabbler Dedication]]
 
 ---
 With some streamlining to your process and a deeper collection of talisman materials, you make a greater number of talismans every day. You can create two additional talismans during your daily preparations.

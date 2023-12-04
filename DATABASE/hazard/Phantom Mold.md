@@ -17,6 +17,7 @@ name: Phantom Mold
 rarity: Common
 reflex: '+5'
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Crown of the Kobold King|Crown of the Kobold King]]'
 trait:
@@ -30,13 +31,13 @@ will: null
 # Phantom Mold<span class="item-type">Hazard 2</span>
 
 <span class="item-trait">Environmental</span><span class="item-trait">Fungus</span>
-**Source** [[Crown of the Kobold King]]
+**Source** [[DATABASE/source/Crown of the Kobold King|Crown of the Kobold King]]
 **Complexity** Simple
 **Stealth** DC 18 (expert)
 **Description** A burst of pale gray spores sprays into the air.
 
 ---
-**Disable** [[Survival]] DC 18 to remove the mold without triggering the spores
+**Disable** [[DATABASE/skill/Survival|Survival]] DC 18 to remove the mold without triggering the spores
 **AC** 15, **Fort** +11, **Ref** +5
 **HP** 30; **Immunities** critical hits, object immunities, precision damage
 **Spore Burst** <span class="action-icon">5</span> **Trigger** The moldy books are moved or the mold takes any damage; **Effect** All creatures within 10 feet of the mold patch are exposed to phantom mold spores. 

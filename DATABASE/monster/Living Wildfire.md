@@ -71,17 +71,17 @@ wisdom: '+3'
 # Living Wildfire
 
 Living wildfires appear as humanoids made of living fire.
-**Recall Knowledge - Elemental ([[Arcana]], [[Nature]])**: DC 20
+**Recall Knowledge - Elemental ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 20
 **Unspecific Lore**: DC 18
 **Specific Lore**: DC 15
 
 # Living Wildfire<span class="item-type">Creature 5</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Elemental</span><span class="item-trait">Fire</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +10; darkvision, smoke vision
-**Languages** [[Ignan]]
-**Skills** [[Acrobatics]] +13
+**Languages** [[DATABASE/language/Ignan|Ignan]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +13
 **Str** +3, **Dex** +4, **Con** +2, **Int** -2, **Wis** +3, **Cha** +0
 **Smoke Vision** The living wildfire ignores the concealed condition from smoke.
 

@@ -11,6 +11,7 @@ name: Risky Reload
 prerequisite: null
 rarity: Common
 requirement: You're wielding a firearm.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Risky Reload <span class="action-icon">1</span> <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Flourish</span><span class="item-trait">Gunslinger</span>
-**Source** [[Guns & Gears]]
-**Archetype** [[Unexpected Sharpshooter]]*
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Archetype** [[DATABASE/archetype/Unexpected Sharpshooter|Unexpected Sharpshooter]]*
 **Requirements** You're wielding a firearm.
 * This archetype offers Risky Reload at a different level than displayed here.
 

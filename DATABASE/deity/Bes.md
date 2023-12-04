@@ -23,6 +23,7 @@ follower_alignment:
 id: '51'
 name: Bes
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Performance|Performance]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -32,7 +33,7 @@ type: Deity
 ---
 # Bes (The Guardian Fool) [NG]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Category** Ancient Osirian Gods
 **Edicts** Aid childbirths, spread joy and celebration, protect sleeping creatures
 **Anathema** Harm or neglect a child, separate families, use magic to corrupt dreams
@@ -40,9 +41,9 @@ type: Deity
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Constitution or Charisma
-**Divine Font** _[[Heal]]_
-**Divine Skill** [[Performance]]
-**Favored Weapon** [[Mambele]]
-**Domains** [[Earth Domain]], [[Family Domain]], [[Luck Domain]], [[Protection Domain]]
-**Cleric Spells** 1st: _[[Sleep]]_, 2nd: _[[Hideous Laughter]]_, 3rd: _[[Enthrall]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Constitution or Charisma
+**Divine Font** _[[DATABASE/spell/Heal|heal]]_
+**Divine Skill** [[DATABASE/skill/Performance|Performance]]
+**Favored Weapon** [[DATABASE/weapon/Mambele|mambele]]
+**Domains** [[DATABASE/domain/Earth Domain|earth]], [[DATABASE/domain/Family Domain|family]], [[DATABASE/domain/Luck Domain|luck]], [[DATABASE/domain/Protection Domain|protection]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Sleep|sleep]]_, 2nd: _[[DATABASE/spell/Hideous Laughter|hideous laughter]]_, 3rd: _[[DATABASE/spell/Enthrall|enthrall]]_

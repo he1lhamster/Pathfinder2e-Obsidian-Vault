@@ -3,6 +3,7 @@ creature_family: Giant
 id: '53'
 name: Giant
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Giant
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Giants are massive humanoid creatures who live in remote regions throughout the world. They are divided into a number of subtypes.
 
 ### Members
 
-[[Cave Giant]] (Creature 6), [[Cloud Giant]] (Creature 11), [[Desert Giant]] (Creature 9), [[Fire Giant]] (Creature 10), [[Frost Giant]] (Creature 9), [[Hill Giant]] (Creature 7), [[Marsh Giant]] (Creature 8), [[Plague Giant]] (Creature 14), [[Rune Giant]] (Creature 16), [[Shadow Giant]] (Creature 13), [[Giant, Smog]] (Creature 7), [[Stone Giant]] (Creature 8), [[Storm Giant]] (Creature 13), [[Taiga Giant]] (Creature 12), [[Tomb Giant]] (Creature 12), [[Wood Giant]] (Creature 6)
+[[DATABASE/monster/Cave Giant|Cave Giant]] (Creature 6), [[DATABASE/monster/Cloud Giant|Cloud Giant]] (Creature 11), [[DATABASE/monster/Desert Giant|Desert Giant]] (Creature 9), [[DATABASE/monster/Fire Giant|Fire Giant]] (Creature 10), [[DATABASE/monster/Frost Giant|Frost Giant]] (Creature 9), [[DATABASE/monster/Hill Giant|Hill Giant]] (Creature 7), [[DATABASE/monster/Marsh Giant|Marsh Giant]] (Creature 8), [[DATABASE/monster/Plague Giant|Plague Giant]] (Creature 14), [[DATABASE/monster/Rune Giant|Rune Giant]] (Creature 16), [[DATABASE/monster/Shadow Giant|Shadow Giant]] (Creature 13), [[DATABASE/monster/Giant, Smog|Smog Giant]] (Creature 7), [[DATABASE/monster/Stone Giant|Stone Giant]] (Creature 8), [[DATABASE/monster/Storm Giant|Storm Giant]] (Creature 13), [[DATABASE/monster/Taiga Giant|Taiga Giant]] (Creature 12), [[DATABASE/monster/Tomb Giant|Tomb Giant]] (Creature 12), [[DATABASE/monster/Wood Giant|Wood Giant]] (Creature 6)
 
 ###  Giant Bags
 

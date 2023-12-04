@@ -86,32 +86,32 @@ wisdom: '+4'
 # Zridi
 
 This creature did not include a description.
-**Recall Knowledge - Fiend ([[Religion]])**: DC 34
+**Recall Knowledge - Fiend ([[DATABASE/skill/Religion|Religion]])**: DC 34
 **Unspecific Lore**: DC 32
 **Specific Lore**: DC 29
 
 # Zridi<span class="item-type">Creature 8</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Div</span><span class="item-trait">Fiend</span>
-**Source** [[The Enmity Cycle]]
-Female [[Pairaka]]
-**Perception** +16; [[Darkvision]]
-**Languages** [[Daemonic]], [[Osiriani]]; [[Telepathy]] 100 feet
-**Skills** [[Acrobatics]] +15, [[Arcana]] +14, [[Deception]] +21, [[Diplomacy]] +21, [[Intimidation]] +17, [[Religion]] +14, [[Society]] +14, [[Stealth]] +17
+**Source** [[DATABASE/source/The Enmity Cycle|The Enmity Cycle]]
+Female [[DATABASE/monster/Pairaka|pairaka]]
+**Perception** +16; [[DATABASE/monsterability/Darkvision|greater darkvision]]
+**Languages** [[DATABASE/language/Daemonic|Daemonic]], [[DATABASE/language/Osiriani|Osiriani]]; [[DATABASE/monsterability/Telepathy|telepathy]] 100 feet
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +15, [[DATABASE/skill/Arcana|Arcana]] +14, [[DATABASE/skill/Deception|Deception]] +21, [[DATABASE/skill/Diplomacy|Diplomacy]] +21, [[DATABASE/skill/Intimidation|Intimidation]] +17, [[DATABASE/skill/Religion|Religion]] +14, [[DATABASE/skill/Society|Society]] +14, [[DATABASE/skill/Stealth|Stealth]] +17
 **Str** +3, **Dex** +5, **Con** +3, **Int** +3, **Wis** +4, **Cha** +7
-**Items** [[Horn of Fog]]
+**Items** [[DATABASE/equipment/Horn of Fog|horn of fog]]
 
 ---
 **AC** 26; **Fort** +13, **Ref** +17, **Will** +18; +1 status to all saves vs. magic
-**HP** 125; **Immunities** disease; **Weaknesses** [[Cold Iron Weapon]] 6, good 6
+**HP** 125; **Immunities** disease; **Weaknesses** [[DATABASE/equipment/Cold Iron Weapon|cold iron]] 6, good 6
 <span class="in-box-ability">**Hatred of Red** Pairakas hate the color red. Zridi won't wear the color or willingly enter any place painted red. Given a choice, she'll attack a creature wearing red first. If barred from expressing her displeasure toward the color by force or some magical effect, she takes 2d6 mental damage at the end of her turn.</span>
 
 ---
 **Speed** 25 feet, fly 35 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +18 [+14/+10] (agile, evil, finesse, magical), **Damage** 2d8+7 slashing plus 1d6 evil and bubonic plague</span>**Divine Innate Spells** DC 26; **4th** _[[Charm]]_ (at will), _[[Dimension Door]]_ (at will), _[[Misdirection]]_ (at will; self only), _[[Outcast's Curse]]_ (at will), _[[Suggestion]]_ (at will); **Cantrips** **(4th)** _[[Detect Magic]]_
-**Rituals** DC 26; **1st** _[[Div Pact]]_
-<span class="in-box-ability">**Bubonic Plague** (disease) A creature can't remove the [[Fatigued]] condition while infected; **Saving Throw** DC 24 Fortitude; **Onset** 1 day; **Stage 1** fatigued (1 day); **Stage 2** [[Enfeebled]] and fatigued (1 day); **Stage 3** enfeebled 3, fatigued, and take 1d6 [[Persistent Damage]] every 1d20 minutes (1 day)</span><span class="in-box-ability">**[[Change Shape]]** <span class="action-icon">1</span> (divine, concentrate, polymorph, transmutation) Zridi can take the appearance of any Small or Medium humanoid or animal. This doesn't change her Speed or her attack and damage modifiers with the Strikes, but it might change the damage type her Strikes deal.</span><span class="in-box-ability">**Compelled Performance** <span class="action-icon">2</span> (divine, emotion, enchantment, mental) **Frequency** once per day; **Effect** Zridi grants the target a +2 status bonus to [[Performance]] checks for one week. The target must attempt a DC 26 Will save.
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +18 [+14/+10] (agile, evil, finesse, magical), **Damage** 2d8+7 slashing plus 1d6 evil and bubonic plague</span>**Divine Innate Spells** DC 26; **4th** _[[DATABASE/spell/Charm|charm]]_ (at will), _[[DATABASE/spell/Dimension Door|dimension door]]_ (at will), _[[DATABASE/spell/Misdirection|misdirection]]_ (at will; self only), _[[DATABASE/spell/Outcast's Curse|outcast's curse]]_ (at will), _[[DATABASE/spell/Suggestion|suggestion]]_ (at will); **Cantrips** **(4th)** _[[DATABASE/spell/Detect Magic|detect magic]]_
+**Rituals** DC 26; **1st** _[[DATABASE/ritual/Div Pact|div pact]]_
+<span class="in-box-ability">**Bubonic Plague** (disease) A creature can't remove the [[DATABASE/condition/Fatigued|fatigued]] condition while infected; **Saving Throw** DC 24 Fortitude; **Onset** 1 day; **Stage 1** fatigued (1 day); **Stage 2** [[DATABASE/condition/Enfeebled|enfeebled 2]] and fatigued (1 day); **Stage 3** enfeebled 3, fatigued, and take 1d6 [[DATABASE/condition/Persistent Damage|persistent bleed damage]] every 1d20 minutes (1 day)</span><span class="in-box-ability">**[[DATABASE/monsterability/Change Shape|Change Shape]]** <span class="action-icon">1</span> (divine, concentrate, polymorph, transmutation) Zridi can take the appearance of any Small or Medium humanoid or animal. This doesn't change her Speed or her attack and damage modifiers with the Strikes, but it might change the damage type her Strikes deal.</span><span class="in-box-ability">**Compelled Performance** <span class="action-icon">2</span> (divine, emotion, enchantment, mental) **Frequency** once per day; **Effect** Zridi grants the target a +2 status bonus to [[DATABASE/skill/Performance|Performance]] checks for one week. The target must attempt a DC 26 Will save.
  **Critical Success** No further effect.
- **Success** The target must [[Perform]] for 1 action on its next turn.
+ **Success** The target must [[DATABASE/action/Perform|Perform]] for 1 action on its next turn.
  **Failure** The target must Perform for 3 actions on its next turn, undertaking a Performance task set by Zridi.
- **Critical Failure** As failure, but Zridi can choose to delay the effect and trigger it at any point in the next week as a reaction.</span><span class="in-box-ability">**Tormenting Dreams** <span class="action-icon">2</span> (divine, emotion, enchantment, mental) **Frequency** once per day; **Effect** Zridi torments a sleeping creature within 100 feet with visions of betrayals by loved ones and friends. The target must attempt a DC 26 Will save, with the effects of the [[Nightmare]] spell.</span>
+ **Critical Failure** As failure, but Zridi can choose to delay the effect and trigger it at any point in the next week as a reaction.</span><span class="in-box-ability">**Tormenting Dreams** <span class="action-icon">2</span> (divine, emotion, enchantment, mental) **Frequency** once per day; **Effect** Zridi torments a sleeping creature within 100 feet with visions of betrayals by loved ones and friends. The target must attempt a DC 26 Will save, with the effects of the [[DATABASE/spell/Nightmare|nightmare]] spell.</span>

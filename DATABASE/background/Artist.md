@@ -10,6 +10,7 @@ id: '5'
 name: Artist
 prerequisite: null
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Crafting|Crafting]]'
 - Art [[DATABASE/skill/Lore|Lore]]
@@ -21,7 +22,7 @@ type: Background
 ---
 # Artist<span class="item-type">Background</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Your art is your greatest passion, whatever form it takes. Adventuring might help you find inspiration, or simply be a way to survive until you become a world-famous artist.
 Choose two ability boosts. One must be to **Dexterity** or **Charisma**, and one is a free ability boost.
-You're trained in the [[Crafting]] skill, and the [[Lore]] skill. You gain the [[Specialty Crafting]] skill feat.
+You're trained in the [[DATABASE/skill/Crafting|Crafting]] skill, and the [[DATABASE/skill/Lore|Art Lore]] skill. You gain the [[DATABASE/feat/Specialty Crafting|Specialty Crafting]] skill feat.

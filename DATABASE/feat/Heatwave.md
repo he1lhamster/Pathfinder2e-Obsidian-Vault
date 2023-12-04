@@ -11,6 +11,7 @@ name: Heatwave
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,15 +24,15 @@ type: Feat
 # Heatwave <span class="action-icon">5</span> <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Ifrit</span>
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 **Frequency** once per 10 minutes
 **Trigger** An effect would deal fire damage to you, even if you resist all the damage.
 
 ---
-You harness the oncoming flames and twist them into a screen of heat and smoke, granting you [[Concealed]] until the beginning of your next turn.
+You harness the oncoming flames and twist them into a screen of heat and smoke, granting you [[DATABASE/condition/Concealed|concealment]] until the beginning of your next turn.
 
 ## Traits
 
 **Ifrit:**
 
-Ifrits are planar scions descended from [[Efreeti]].
+Ifrits are planar scions descended from [[DATABASE/monster/Efreeti|efreet]].

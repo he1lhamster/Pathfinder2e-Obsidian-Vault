@@ -9,6 +9,7 @@ language: null
 max_speed: null
 name: Duskwalker
 rarity: null
+rus_type_level: null
 size: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 speed: null
@@ -20,9 +21,9 @@ vision: null
 # Duskwalker (Versatile Heritage)
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Duskwalker</span>
-**Source** [[Advanced Player's Guide]] 
-_The first duskwalkers manifested as the result of a bargain between two powerful [[Psychopomp]], the immortal guardians and guides of souls after death. One believed that certain souls who helped preserve the cycle of life and death but had their own lives cut short deserved reincarnation, while the other felt this would too greatly violate that same cycle. In the end, the duskwalkers rose from a concession between the two that allowed such rebirths to occur but limited their frequency—only a finite number of duskwalkers ever exist at any one point in time._
-When they were first created by psychopomps, duskwalkers were expected to perform roles that would serve the goddess of death, [[Pharasma]], and by extension her realm, the [[Boneyard]]. But now duskwalkers have found themselves with more freedom of choice and after a century, have only now come to terms with the fact that their destinies are their own to choose. As they are created, not born, most duskwalkers either struggle to integrate with society or seek out communities and organizations to serve as a surrogate family.
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+_The first duskwalkers manifested as the result of a bargain between two powerful [[DATABASE/monsterfamily/Psychopomp|psychopomps]], the immortal guardians and guides of souls after death. One believed that certain souls who helped preserve the cycle of life and death but had their own lives cut short deserved reincarnation, while the other felt this would too greatly violate that same cycle. In the end, the duskwalkers rose from a concession between the two that allowed such rebirths to occur but limited their frequency—only a finite number of duskwalkers ever exist at any one point in time._
+When they were first created by psychopomps, duskwalkers were expected to perform roles that would serve the goddess of death, [[DATABASE/deity/Pharasma|Pharasma]], and by extension her realm, the [[DATABASE/plane/Boneyard|Boneyard]]. But now duskwalkers have found themselves with more freedom of choice and after a century, have only now come to terms with the fact that their destinies are their own to choose. As they are created, not born, most duskwalkers either struggle to integrate with society or seek out communities and organizations to serve as a surrogate family.
  Duskwalkers have an inherent understanding of the cycle of life and death. In most cases this manifests as a deep respect for that cycle and pushes the duskwalker toward occupations that help them to protect it, such as hunters of the undead, midwives, morticians, and priests.
  If you want a character who has a mysterious background, seeks a society or organization to join, or looks to fight against undead, you should play a duskwalker.
 
@@ -52,7 +53,7 @@ Most duskwalkers are neutral or have a neutral component to their alignment. Whi
 
 ## Adventurers
 
-Duskwalkers become adventurers most often out of some sense of misplaced destiny. While duskwalkers have free will, they also feel the pressure to make good use of their reincarnation. Many duskwalkers choose to study the otherworldly arts and become [[Wizard]] or [[Bard]]. Duskwalkers are also more concerned than most with matters of the soul, commonly becoming [[Cleric]], [[Champion]], and [[Monk]]. Duskwalkers most often come from the [[Acolyte]], [[Fortune Teller]], [[Hermit]], [[Martial Disciple]], and [[Scholar]] backgrounds.
+Duskwalkers become adventurers most often out of some sense of misplaced destiny. While duskwalkers have free will, they also feel the pressure to make good use of their reincarnation. Many duskwalkers choose to study the otherworldly arts and become [[DATABASE/class_/Wizard|wizards]] or [[DATABASE/class_/Bard|bards]]. Duskwalkers are also more concerned than most with matters of the soul, commonly becoming [[DATABASE/class_/Cleric|clerics]], [[DATABASE/class_/Champion|champions]], and [[DATABASE/class_/Monk|monks]]. Duskwalkers most often come from the [[DATABASE/background/Acolyte|acolyte]], [[DATABASE/background/Fortune Teller|fortune teller]], [[DATABASE/background/Hermit|hermit]], [[DATABASE/background/Martial Disciple|martial disciple]], and [[DATABASE/background/Scholar|scholar]] backgrounds.
 
 ## Other Information
 
@@ -62,13 +63,13 @@ Duskwalkers' past lives were often adventurers, but other origins might include 
 
 ### Taking Tea with Death
 
-[[Psychopomp]] can recognize a duskwalker on sight, and most types of psychopomp are much more likely to start up a conversation with a duskwalker they encounter during their appointed tasks than any other mortal. [[Nosoi]] might trade shiny objects or sweets for tidbits of knowledge, [[Morrigna]] might give a warning of a nearby undead threat, and so on. Rarely, a psychopomp might take a shine to a duskwalker and visit from time to time—though given the way psychopomps measure time, these gaps could be months, years, or even decades.
+[[DATABASE/monsterfamily/Psychopomp|Psychopomps]] can recognize a duskwalker on sight, and most types of psychopomp are much more likely to start up a conversation with a duskwalker they encounter during their appointed tasks than any other mortal. [[DATABASE/monster/Nosoi|Nosois]] might trade shiny objects or sweets for tidbits of knowledge, [[DATABASE/monster/Morrigna|morrignas]] might give a warning of a nearby undead threat, and so on. Rarely, a psychopomp might take a shine to a duskwalker and visit from time to time—though given the way psychopomps measure time, these gaps could be months, years, or even decades.
 
 # Versatile Heritage
 
-## [[Duskwalker]]
+## [[DATABASE/heritage/Duskwalker|Duskwalker]]
 
 <span class="trait-uncommon item-trait">Uncommon</span>
-**Source** [[Advanced Player's Guide]] 
-**Ancestry Page** [[Duskwalker]]
-Thanks to an ancient bargain, your soul has been reborn as a duskwalker, a planar scion with a connection to [[Psychopomp]] and the [[Boneyard]]. You gain the duskwalker trait in addition to the traits from your ancestry. You also gain low-light vision, or you gain darkvision if your ancestry already has low-light vision. Neither your body nor your spirit can ever become undead. You can choose from duskwalker feats and feats from your ancestry whenever you gain an ancestry feat.
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Ancestry Page** [[DATABASE/ancestry/Duskwalker|Duskwalker]]
+Thanks to an ancient bargain, your soul has been reborn as a duskwalker, a planar scion with a connection to [[DATABASE/monsterfamily/Psychopomp|psychopomp]] and the [[DATABASE/plane/Boneyard|Boneyard]]. You gain the duskwalker trait in addition to the traits from your ancestry. You also gain low-light vision, or you gain darkvision if your ancestry already has low-light vision. Neither your body nor your spirit can ever become undead. You can choose from duskwalker feats and feats from your ancestry whenever you gain an ancestry feat.

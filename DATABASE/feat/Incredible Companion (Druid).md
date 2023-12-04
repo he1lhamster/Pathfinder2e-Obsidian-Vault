@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Mature Animal Companion (Druid)|Mature Animal Com
   (Druid)]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,12 +25,12 @@ type: Feat
 # Incredible Companion (Druid) <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Druid</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Mature Animal Companion (Druid)]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/feat/Mature Animal Companion (Druid)|Mature Animal Companion (Druid)]]
 
 ---
 Your animal companion continues to grow and develop. It becomes a nimble or savage animal companion (your choice), gaining additional capabilities determined by the type of companion.
 
 ## Incredible Companion (Druid) Leads To...
 
-[[Specialized Companion (Druid)]]
+[[DATABASE/feat/Specialized Companion (Druid)|Specialized Companion (Druid)]]

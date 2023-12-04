@@ -13,6 +13,7 @@ rarity: Common
 requirement: You are adjacent to a [[DATABASE/condition/Restrained|restrained]] or
   [[DATABASE/condition/Unconscious|unconscious]] creature, or a deceased creature
   thatdied in the past hour.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 subcategory: null
@@ -26,10 +27,10 @@ type: Feat
 # Feast <span class="action-icon">2</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Manipulate</span>
-**Source** [[Book of the Dead]]
-**Archetype** [[Zombie]]
-**Prerequisites** [[Zombie Dedication]]
-**Requirements** You are adjacent to a [[Restrained]] or [[Unconscious]] creature, or a deceased creature that died in the past hour.
+**Source** [[DATABASE/source/Book of the Dead|Book of the Dead]]
+**Archetype** [[DATABASE/archetype/Zombie|Zombie]]
+**Prerequisites** [[DATABASE/feat/Zombie Dedication|Zombie Dedication]]
+**Requirements** You are adjacent to a [[DATABASE/condition/Restrained|restrained]] or [[DATABASE/condition/Unconscious|unconscious]] creature, or a deceased creature that died in the past hour.
 
 ---
 You feast upon an adjacent restrained or unconscious creature, or a deceased creature that died in the past hour. If the creature is alive, you deal damage equal to your jaws damage. Whether it's alive or not, you gain a number of temporary Hit Points equal to half your level that last for 1 minute.
@@ -37,7 +38,7 @@ You feast upon an adjacent restrained or unconscious creature, or a deceased cre
 
 ## Feast Leads To...
 
-[[Brains!]]
+[[DATABASE/feat/Brains!|Brains!]]
 
 ## Traits
 

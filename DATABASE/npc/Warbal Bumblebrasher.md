@@ -139,22 +139,22 @@ Warbal is one of the first NPCs the heroes meet in this adventure, and at that t
  Raised as a survivalist, Warbal has significant skills when it comes to camping in the wilderness between Breachill and Hellknight Hill. She can be an invaluable advisor, and if the PCs wish to assign her to wait for them outside the keep while they investigate, perhaps tending to their mounts or helping with other similar tasks, she can easily sustain herself in the nearby woods for even a couple of weeks. While the PCs explore Citadel Altaerein, Warbal can act as a scout in the area surrounding the keep, provide information about some of the monsters inside, and give them a very rough sense of the keep's layout—but she's forgotten much in the many years since she's lived there and can sketch only a rough image for the PCs. She doesn't know about the secret entrance to the keep—this is a more recent discovery Helba has (perhaps unwisely) kept to herself for now.
  Once the PCs have rescued the Bumblebrashers, Warbal returns to her people to take stock of their situation and determine whether there's anything the town can do to help. However, if the PCs take a shine to Warbal, she might further help them scout in Citadel Altaerein's vaults. Once evidence of Voz Lirayne's tampering comes to light, however, Warbal again becomes extremely worried for her people and takes her leave from the party to touch base with Helba.
  Warbal's involvement in the adventure need not end at this point, though. After all, she continues to work on the Bumblebrashers' behalf in both Citadel Altaerein and Breachill. If the PCs are on friendly terms with her, consider increasing the awards the Breachill town council gives them for completing quests on its behalf, since Warbal will have advocated for the PCs personally. Further, at key points in the adventure when the PCs might need a minor magic or mundane item within the keep, consider allowing the PCs to create an arrangement in which Warbal brings them what they need at just the right time.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 25
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 25
 **Unspecific Lore**: DC 23
 **Specific Lore**: DC 20
 
-## Elite | [[Warbal Bumblebrasher]] | Weak
+## Elite | [[DATABASE/npc/Warbal Bumblebrasher|Normal]] | Weak
 Proficiency without Level
 
 # Warbal Bumblebrasher<span class="item-type">Creature 1</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NG</span><span class="trait-size item-trait">Small</span><span class="item-trait">Goblin</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 145. Hellknight Hill]]
-**Perception** +3; [[Darkvision]]
-**Languages** [[Common]], [[Goblin]]
-**Skills** [[Diplomacy]] +8, [[Lore]] +9, [[Nature]] +5, [[Religion]] +5, [[Society]] +7, [[Survival]] +3
+**Source** [[DATABASE/source/Pathfinder 145. Hellknight Hill|Pathfinder #145: Hellknight Hill]]
+**Perception** +3; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Goblin|Goblin]]
+**Skills** [[DATABASE/skill/Diplomacy|Diplomacy]] +8, [[DATABASE/skill/Lore|Goblin Lore]] +9, [[DATABASE/skill/Nature|Nature]] +5, [[DATABASE/skill/Religion|Religion]] +5, [[DATABASE/skill/Society|Society]] +7, [[DATABASE/skill/Survival|Survival]] +3
 **Str** -1, **Dex** +2, **Con** +2, **Int** +2, **Wis** +0, **Cha** +3
-**Items** [[Religious Symbol]] of [[Desna]], scholar's robes, book titled History of the Bumblebrashers in Isger
+**Items** [[DATABASE/equipment/Religious Symbol|religious symbol]] of [[DATABASE/deity/Desna|Desna]], scholar's robes, book titled History of the Bumblebrashers in Isger
 
 ---
 **AC** 15; **Fort** +5, **Ref** +5, **Will** +5

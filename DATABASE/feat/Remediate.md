@@ -11,6 +11,7 @@ name: Remediate
 prerequisite: '[[DATABASE/class_/Cleric|harmful font or healing font]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,12 +26,12 @@ type: Feat
 # Remediate <span class="action-icon">4</span> <span class="item-type">Feat 16</span>
 
 <span class="item-trait">Cleric</span><span class="item-trait">Concentrate</span><span class="item-trait">Metamagic</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Frequency** once per hour
-**Prerequisites** [[Cleric]]
+**Prerequisites** [[DATABASE/class_/Cleric|harmful font or healing font]]
 
 ---
-If your next action is to use your divine font to cast a 3-action [[Heal]] or [[Harm]] spell to damage creatures, you can harness the residual energy to counterbalance opposing forces. You use your heal or harm spell to attempt to counteract one effect in the spell's area with the chaotic, evil, good, or lawful trait. The chosen trait must oppose one component of your deity's alignment; if your deity is neutral, you can choose any one trait.
+If your next action is to use your divine font to cast a 3-action [[DATABASE/spell/Heal|heal]] or [[DATABASE/spell/Harm|harm]] spell to damage creatures, you can harness the residual energy to counterbalance opposing forces. You use your heal or harm spell to attempt to counteract one effect in the spell's area with the chaotic, evil, good, or lawful trait. The chosen trait must oppose one component of your deity's alignment; if your deity is neutral, you can choose any one trait.
 
 ## Traits
 

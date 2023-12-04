@@ -2,6 +2,7 @@
 id: '414'
 name: Spellshot
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
 - Spellshot
@@ -10,9 +11,8 @@ type: Trait
 ---
 # Spellshot
 
-**Source** [[Guns & Gears]]
-_Note from Nethys: no description was provided for this trait_
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 
 ## Actions
 
-[[Dispelling Bullet]], [[Energy Shot]], [[Recall Ammunition]]
+[[DATABASE/action/Dispelling Bullet|Dispelling Bullet]], [[DATABASE/action/Energy Shot|Energy Shot]], [[DATABASE/action/Recall Ammunition|Recall Ammunition]]

@@ -5,6 +5,7 @@ id: '2'
 level: '3'
 name: Cavalry
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - '[[DATABASE/trait/Infantry|Infantry]]'
@@ -14,7 +15,7 @@ type: Warfare Army
 # Cavalry<span class="item-type">Army 3</span>
 
 <span class="item-trait">Infantry</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 **Scouting** +9
 **Recruitment** 18; **Consumption** 2
 Cavalry consists of armored soldiers armed with melee weapons and mounted on horses.

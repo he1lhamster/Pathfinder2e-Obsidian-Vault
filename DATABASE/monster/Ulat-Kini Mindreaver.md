@@ -89,19 +89,19 @@ wisdom: '+3'
 # Ulat-Kini Mindreaver
 
 When not being controlled and manipulated by alghollthus, ulat-kinis have found they can develop formidable psychic powers. Those who master this craft are dubbed “mindreavers” by their awestruck kin.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 25
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 25
 **Unspecific Lore**: DC 23
 **Specific Lore**: DC 20
 
 # Ulat-Kini Mindreaver<span class="item-type">Creature 7</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Amphibious</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 194. Cult of the Cave Worm]]
-**Perception** +14; [[Darkvision]]
-**Languages** [[Alghollthu]], [[Undercommon]]; [[Telepathy]] 30 feet
-**Skills** [[Intimidation]] +15, [[Occultism]] +15, [[Stealth]] +12
+**Source** [[DATABASE/source/Pathfinder 194. Cult of the Cave Worm|Pathfinder #194: Cult of the Cave Worm]]
+**Perception** +14; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Alghollthu|Alghollthu]], [[DATABASE/language/Undercommon|Undercommon]]; [[DATABASE/monsterability/Telepathy|telepathy]] 30 feet
+**Skills** [[DATABASE/skill/Intimidation|Intimidation]] +15, [[DATABASE/skill/Occultism|Occultism]] +15, [[DATABASE/skill/Stealth|Stealth]] +12
 **Str** +1, **Dex** +3, **Con** +3, **Int** +1, **Wis** +3, **Cha** +6
-**Items** [[Pendant of the Occult]]
+**Items** [[DATABASE/equipment/Pendant of the Occult|pendant of the occult]]
 
 ---
 **AC** 22; **Fort** +12, **Ref** +12, **Will** +16
@@ -109,7 +109,7 @@ When not being controlled and manipulated by alghollthus, ulat-kinis have found 
 
 ---
 **Speed** 20 feet, swim 40 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +14 [+9/+4], **Damage** 1d6+3 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> fangs +12 [+7/+2], **Damage** 2d4+3 piercing</span>**Occult Spontaneous Spells** DC 22; **4th** _[[Clairvoyance]]_, _[[Seal Fate]]_; **3rd** _[[Agonizing Despair]]_, _[[Phantom Pain]]_, _[[Sculpt Sound]]_ (2 slots); **2nd** _[[Blood Vendetta]]_, _[[Soothe]]_, _[[Telekinetic Maneuver]]_ (3 slots); **1st** _[[Alarm]]_, _[[Déjà Vu]]_, _[[Ill Omen]]_ (3 slots); **Cantrips** **(3rd)** _[[Daze]]_, _[[Guidance]]_, _[[Message]]_, _[[Shield]]_, _[[Telekinetic Projectile]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +14 [+9/+4], **Damage** 1d6+3 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> fangs +12 [+7/+2], **Damage** 2d4+3 piercing</span>**Occult Spontaneous Spells** DC 22; **4th** _[[DATABASE/spell/Clairvoyance|clairvoyance]]_, _[[DATABASE/spell/Seal Fate|seal fate]]_; **3rd** _[[DATABASE/spell/Agonizing Despair|agonizing despair]]_, _[[DATABASE/spell/Phantom Pain|phantom pain]]_, _[[DATABASE/spell/Sculpt Sound|sculpt sound]]_ (2 slots); **2nd** _[[DATABASE/spell/Blood Vendetta|blood vendetta]]_, _[[DATABASE/spell/Soothe|soothe]]_, _[[DATABASE/spell/Telekinetic Maneuver|telekinetic maneuver]]_ (3 slots); **1st** _[[DATABASE/spell/Alarm|alarm]]_, _[[DATABASE/spell/Déjà Vu|déjà vu]]_, _[[DATABASE/spell/Ill Omen|ill omen]]_ (3 slots); **Cantrips** **(3rd)** _[[DATABASE/spell/Daze|daze]]_, _[[DATABASE/spell/Guidance|guidance]]_, _[[DATABASE/spell/Message|message]]_, _[[DATABASE/spell/Shield|shield]]_, _[[DATABASE/spell/Telekinetic Projectile|telekinetic projectile]]_
 <span class="in-box-ability">**Psychic Daze** <span class="action-icon">2</span> (mental, psychic) The mindreaver targets one creature within 120 feet and violently intrudes into their mind. The target attempts a DC 22 Will save.
  **Critical Success** The target creature is unaffected.
  **Success** The target creature gains weakness 1 to mental damage for 1 minute. If they already have weakness to mental damage, the value of the weakness increases by one.

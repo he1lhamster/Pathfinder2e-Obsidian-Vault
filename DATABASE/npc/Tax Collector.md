@@ -72,19 +72,19 @@ wisdom: '+2'
 # Tax Collector
 
 Ledgers and marks, positive and negative flows, and levies and allotments are a tax collector's daily bread. Where coin is gained, from whom it is collected, and to whom is it disbursed are their main concerns; the collector is unconcerned with whether the taxed can afford it or take a loan to make up for any shortfall. However, tax collectors aren't immune to corruption: arrangements can be made, deals discussed, documents altered, or coin misappropriated. When dealing with matters of taxes and finance, the tax collector is a 3rd-level challenge.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 13
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 13
 **Unspecific Lore**: DC 11
 **Specific Lore**: DC 8
 
 # Tax Collector<span class="item-type">Creature -1</span>
 
 <span class="trait-alignment item-trait">LN</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Gamemastery Guide]]
-**Perception** +6; (DC 19 against [[Steal]]) 
-**Languages** [[Common]]
-**Skills** [[Deception]] +8, [[Diplomacy]] +8, [[Intimidation]] +8, [[Lore]] +11, [[Lore]] +13, [[Society]] +11, [[Thievery]] +6
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
+**Perception** +6; (DC 19 against [[DATABASE/action/Steal|Stealing]]) 
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Deception|Deception]] +8, [[DATABASE/skill/Diplomacy|Diplomacy]] +8, [[DATABASE/skill/Intimidation|Intimidation]] +8, [[DATABASE/skill/Lore|Legal Lore]] +11, [[DATABASE/skill/Lore|Mercantile Lore]] +13, [[DATABASE/skill/Society|Society]] +11, [[DATABASE/skill/Thievery|Thievery]] +6
 **Str** +0, **Dex** +1, **Con** +0, **Int** +4, **Wis** +2, **Cha** +3
-**Items** collection of expired documents with intact seals, [[Crossbow]], [[Dagger]], [[Merchant's Scale]], [[Padded Armor]], tax documents in scroll case
+**Items** collection of expired documents with intact seals, [[DATABASE/weapon/Crossbow|crossbow (10 bolts)]], [[DATABASE/weapon/Dagger|dagger]], [[DATABASE/equipment/Merchant's Scale|merchant's scale]], [[DATABASE/armor/Padded Armor|padded armor]], tax documents in scroll case
 
 ---
 **AC** 14; **Fort** +2, **Ref** +3, **Will** +9

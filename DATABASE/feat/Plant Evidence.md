@@ -11,6 +11,7 @@ name: Plant Evidence
 prerequisite: '[[DATABASE/feat/Pickpocket|Pickpocket]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,13 +24,13 @@ type: Feat
 # Plant Evidence <span class="action-icon">1</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Rogue</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Alkenstar Agent]]*
-**Prerequisites** [[Pickpocket]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Alkenstar Agent|Alkenstar Agent]]*
+**Prerequisites** [[DATABASE/feat/Pickpocket|Pickpocket]]
 * This archetype offers Plant Evidence at a different level than displayed here.
 
 ---
-You can put a single item you're holding of light or negligible Bulk onto a person without them noticing by succeeding at a [[Thievery]] check against their Perception DC. If you have the [[Ruffian]] racket, you can do this as a free action when you successfully [[Shove]] a target.
+You can put a single item you're holding of light or negligible Bulk onto a person without them noticing by succeeding at a [[DATABASE/skill/Thievery|Thievery]] check against their Perception DC. If you have the [[DATABASE/rogueracket/Ruffian|ruffian]] racket, you can do this as a free action when you successfully [[DATABASE/action/Shove|Shove]] a target.
 
 ## Archetype Use
 

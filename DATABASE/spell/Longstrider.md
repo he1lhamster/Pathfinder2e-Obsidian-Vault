@@ -28,6 +28,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -44,9 +45,9 @@ type: Spell
 # Longstrider<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Transmutation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, primal
-**Deities** [[Barzahk]], [[Dranngvit]], [[Jaidz]], [[Marishi]], [[The Deliberate Journey]], [[The Path of the Heavens]]
+**Deities** [[DATABASE/deity/Barzahk|Barzahk]], [[DATABASE/deity/Dranngvit|Dranngvit]], [[DATABASE/deity/Jaidz|Jaidz]], [[DATABASE/deity/Marishi|Marishi]], [[DATABASE/deity/The Deliberate Journey|The Deliberate Journey]], [[DATABASE/deity/The Path of the Heavens|The Path of the Heavens]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Duration** 1 hour
 

@@ -11,6 +11,7 @@ name: Precious Alloys
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -23,14 +24,14 @@ type: Feat
 # Precious Alloys <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Talos</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
-Choose [[Cold Iron Weapon]] or [[Silver Weapon]]. Your melee unarmed attacks have the special properties of a weapon made of that metal. If you are at least 13th level, you can choose [[Adamantine Weapon]] instead of just cold iron or silver.
+Choose [[DATABASE/equipment/Cold Iron Weapon|cold iron]] or [[DATABASE/equipment/Silver Weapon|silver]]. Your melee unarmed attacks have the special properties of a weapon made of that metal. If you are at least 13th level, you can choose [[DATABASE/equipment/Adamantine Weapon|adamantine]] instead of just cold iron or silver.
 **Special** You can take this ancestry feat multiple times, choosing a different metal each time.
 
 ## Traits
 
 **Talos:**
 
-Taloses are [[Planar Scion]] descended from [[Zuhra]].
+Taloses are [[DATABASE/monsterfamily/Planar Scion|planar scions]] descended from [[DATABASE/monster/Zuhra|zuhras]].

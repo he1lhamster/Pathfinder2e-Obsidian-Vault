@@ -22,6 +22,7 @@ patron_theme: null
 range: touch
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
@@ -39,7 +40,7 @@ type: Spell
 # False Nature<span class="item-type">Spell 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Illusion</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Traditions** arcane, occult
 **Cast** <span class="action-icon">3</span> material, somatic, verbal
 **Range** touch; **Targets** one unattended item or one item you're holding

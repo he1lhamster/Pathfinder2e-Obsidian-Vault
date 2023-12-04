@@ -93,19 +93,19 @@ wisdom: '+1'
 # Bronwyl Holloward
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 34
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 34
 **Unspecific Lore**: DC 32
 **Specific Lore**: DC 29
 
 # Bronwyl Holloward<span class="item-type">Creature 8</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Duergar</span><span class="item-trait">Dwarf</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 194. Cult of the Cave Worm]]
-**Perception** +15; [[Darkvision]]
-**Languages** [[Aklo]], [[Common]], [[Draconic]], [[Dwarven]], [[Petran]], [[Undercommon]]
-**Skills** [[Arcana]] +18, [[Athletics]] +14, [[Deception]] +17, [[Diplomacy]] +13, [[Occultism]] +16
+**Source** [[DATABASE/source/Pathfinder 194. Cult of the Cave Worm|Pathfinder #194: Cult of the Cave Worm]]
+**Perception** +15; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Aklo|Aklo]], [[DATABASE/language/Common|Common]], [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Dwarven|Dwarven]], [[DATABASE/language/Petran|Petran]], [[DATABASE/language/Undercommon|Undercommon]]
+**Skills** [[DATABASE/skill/Arcana|Arcana]] +18, [[DATABASE/skill/Athletics|Athletics]] +14, [[DATABASE/skill/Deception|Deception]] +17, [[DATABASE/skill/Diplomacy|Diplomacy]] +13, [[DATABASE/skill/Occultism|Occultism]] +16
 **Str** +3, **Dex** +0, **Con** +2, **Int** +5, **Wis** +1, **Cha** +4
-**Items** [[Dimension Door]], _+1 [[Striking]] [[Light Hammer]]_
+**Items** [[DATABASE/spell/Dimension Door|scroll of dimension door]], _+1 [[DATABASE/equipment/Striking|striking]] [[DATABASE/weapon/Light Hammer|light hammer]]_
 
 ---
 **AC** 25; **Fort** +16, **Ref** +13, **Will** +17
@@ -113,7 +113,7 @@ This creature did not include a description.
 
 ---
 **Speed** 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _light hammer_ +18 [+14/+10] (agile, thrown 20 feet), **Damage** 2d6+5 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _light hammer_ +18 [+14/+10] (agile, thrown 20 feet), **Damage** 2d6+5 bludgeoning</span>**Arcane Prepared Spells** DC 26, attack +20; **4th** _[[Dispel Magic]]_, _[[Weapon Storm]]_; **3rd** _[[Fireball]]_, _[[Invisibility Sphere]]_, _[[Locate]]_; **2nd** _[[Acid Arrow]]_, _[[Knock]]_, _[[See Invisibility]]_; **1st** _[[Longstrider]]_, _[[True Strike]]_ (×2); **Cantrips** **(4th)** _[[Detect Magic]]_, _[[Electric Arc]]_, _[[Produce Flame]]_, _[[Shield]]_
-**Occult Innate Spells** DC 26; **2nd** _[[Blood Vendetta]]_, _[[Paranoia]]_; **Cantrips** **(4th)** _[[Sigil]]_
-**Wizard School Spells** attack +20, 2 Focus Points; **1st** _[[Hand of the Apprentice]]_
-<span class="in-box-ability">**Tormenter** Bronwyl deals an additional 2d6 mental damage with weapon Strikes against creatures that are [[Fatigued]], [[Stupefied]], or have [[Persistent Damage]].</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _light hammer_ +18 [+14/+10] (agile, thrown 20 feet), **Damage** 2d6+5 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _light hammer_ +18 [+14/+10] (agile, thrown 20 feet), **Damage** 2d6+5 bludgeoning</span>**Arcane Prepared Spells** DC 26, attack +20; **4th** _[[DATABASE/spell/Dispel Magic|dispel magic]]_, _[[DATABASE/spell/Weapon Storm|weapon storm]]_; **3rd** _[[DATABASE/spell/Fireball|fireball]]_, _[[DATABASE/spell/Invisibility Sphere|invisibility sphere]]_, _[[DATABASE/spell/Locate|locate]]_; **2nd** _[[DATABASE/spell/Acid Arrow|acid arrow]]_, _[[DATABASE/spell/Knock|knock]]_, _[[DATABASE/spell/See Invisibility|see invisibility]]_; **1st** _[[DATABASE/spell/Longstrider|longstrider]]_, _[[DATABASE/spell/True Strike|true strike]]_ (×2); **Cantrips** **(4th)** _[[DATABASE/spell/Detect Magic|detect magic]]_, _[[DATABASE/spell/Electric Arc|electric arc]]_, _[[DATABASE/spell/Produce Flame|produce flame]]_, _[[DATABASE/spell/Shield|shield]]_
+**Occult Innate Spells** DC 26; **2nd** _[[DATABASE/spell/Blood Vendetta|blood vendetta]]_, _[[DATABASE/spell/Paranoia|paranoia]]_; **Cantrips** **(4th)** _[[DATABASE/spell/Sigil|sigil]]_
+**Wizard School Spells** attack +20, 2 Focus Points; **1st** _[[DATABASE/spell/Hand of the Apprentice|hand of the apprentice]]_
+<span class="in-box-ability">**Tormenter** Bronwyl deals an additional 2d6 mental damage with weapon Strikes against creatures that are [[DATABASE/condition/Fatigued|fatigued]], [[DATABASE/condition/Stupefied|stupefied]], or have [[DATABASE/condition/Persistent Damage|persistent damage]].</span>

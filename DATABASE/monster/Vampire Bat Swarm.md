@@ -80,22 +80,22 @@ wisdom: '+3'
 # Vampire Bat Swarm
 
 Although the typical vampire bat has a wingspan of 7 inches and doesn’t pose a significant threat to larger prey alone (and indeed, these blood-drinkers can feed without their sleeping victims ever noticing), some unusually aggressive species of these bats hunt in deadly swarms. A churning cloud of vampire bats is much more dangerous than the sum of its individual parts and is capable of inflicting an overwhelming number of bleeding wounds in a frighteningly short span of time.
-**Recall Knowledge - Animal ([[Nature]])**: DC 15
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Vampire Bat Swarm<span class="item-type">Creature 1</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Animal</span><span class="item-trait">Swarm</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +10; echolocation (precise) 20 feet, low-light vision
-**Skills** [[Acrobatics]] +7, [[Athletics]] +4 (+7 to Climb), [[Stealth]] +7
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +7, [[DATABASE/skill/Athletics|Athletics]] +4 (+7 to Climb), [[DATABASE/skill/Stealth|Stealth]] +7
 **Str** +1, **Dex** +4, **Con** +1, **Int** -4, **Wis** +3, **Cha** -3
 **Echolocation** A bat swarm can use its hearing as a precise sense at the listed range.
 
 ---
 **AC** 15; **Fort** +6, **Ref** +9, **Will** +6
-**HP** 11; **Immunities** precision, [[Swarm Mind]]
+**HP** 11; **Immunities** precision, [[DATABASE/monsterability/Swarm Mind|swarm mind]]
 ; **Resistances** bludgeoning 6, piercing 6, slashing 3; **Weaknesses** area damage 3, splash damage 3
 
 ---

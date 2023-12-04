@@ -8,6 +8,7 @@ name: Establish Settlement
 rarity: Common
 requirement: The hex in which you're establishing the settlement has been Cleared
   and doesn't currently have asettlement (including a Freehold) in it.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
@@ -20,7 +21,7 @@ type: Action
 # Establish Settlement
 
 <span class="item-trait">Downtime</span><span class="item-trait">Region</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 **Requirements** The hex in which you're establishing the settlement has been Cleared and doesn't currently have a settlement (including a Freehold) in it.
 
 ---

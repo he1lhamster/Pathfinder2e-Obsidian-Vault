@@ -96,20 +96,20 @@ wisdom: '+5'
 # Joon-seo
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 44
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 44
 **Unspecific Lore**: DC 42
 **Specific Lore**: DC 39
 
 # Joon-seo<span class="item-type">Creature 15</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NG</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Humanoid</span><span class="item-trait">Samsaran</span>
-**Source** [[Pathfinder 167. Ready Fight!]]
-Male [[Samsaran]] song striker
+**Source** [[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]
+Male [[DATABASE/monsterfamily/Samsaran|samsaran]] song striker
 **Perception** +28
-**Languages** [[Minatan]], [[Tien]]
-**Skills** [[Acrobatics]] +26, [[Deception]] +28, [[Performance]] +28
+**Languages** [[DATABASE/language/Minatan|Minatan]], [[DATABASE/language/Tien|Tien]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +26, [[DATABASE/skill/Deception|Deception]] +28, [[DATABASE/skill/Performance|Performance]] +28
 **Str** +2, **Dex** +3, **Con** +3, **Int** +0, **Wis** +5, **Cha** +5
-**Items** _+2 [[Striking]] [[Whip]]_, +1 [[Resilient]] [[Studded Leather Armor]]
+**Items** _+2 [[DATABASE/equipment/Striking|greater striking]] [[DATABASE/weapon/Whip|whip]]_, +1 [[DATABASE/equipment/Resilient|resilient]] [[DATABASE/armor/Studded Leather Armor|studded leather armor]]
 
 ---
 **AC** 35; **Fort** +26, **Ref** +26, **Will** +28
@@ -117,5 +117,5 @@ Male [[Samsaran]] song striker
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _whip_ +28 [+23/+18] (disarm, finesse, magical, nonlethal, reach, trip), **Damage** 3d4+8 slashing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> sound blast +28 [+23/+18] (concentrate, evocation, occult, sonic), **Damage** 4d6 sonic</span>**Occult Spontaneous Spells** DC 36; **8th** _[[Disappearance]]_, _[[Spirit Song]]_ (2 slots); **7th** _[[Energy Aegis]]_, _[[Mask of Terror]]_, _[[True Target]]_ (3 slots); **6th** _[[Collective Transposition]]_, _[[Phantasmal Calamity]]_, _[[Spirit Blast]]_ (3 slots); **5th** _[[Cloak of Colors]]_, _[[Prismatic Wall]]_ (3 slots), _[[Shadow Blast]]_; **4th** _[[Blink]]_, _[[Dimension Door]]_, _[[Fly]]_ (3 slots); **3rd** _[[Dispel Magic]]_, _[[Haste]]_, _[[Slow]]_ (3 slots); **2nd** _[[Faerie Fire]]_, _[[Invisibility]]_, _[[Resist Energy]]_ (3 slots); **1st** _[[Sanctuary]]_, _[[Spirit Link]]_, _[[True Strike]]_ (3 slots); **Cantrips** **(8th)** _[[Detect Magic]]_, _[[Forbidding Ward]]_, _[[Guidance]]_, _[[Light]]_, _[[Message]]_
-**Bard Composition Spells** DC 36, 3 Focus Points; **8th** _[[Counter Performance]]_, _[[Inspire Heroics]]_, _[[Lingering Composition]]_; **Cantrips** **(7th)** _[[Inspire Courage]]_, _[[Inspire Defense]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _whip_ +28 [+23/+18] (disarm, finesse, magical, nonlethal, reach, trip), **Damage** 3d4+8 slashing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> sound blast +28 [+23/+18] (concentrate, evocation, occult, sonic), **Damage** 4d6 sonic</span>**Occult Spontaneous Spells** DC 36; **8th** _[[DATABASE/spell/Disappearance|disappearance]]_, _[[DATABASE/spell/Spirit Song|spirit song]]_ (2 slots); **7th** _[[DATABASE/spell/Energy Aegis|energy aegis]]_, _[[DATABASE/spell/Mask of Terror|mask of terror]]_, _[[DATABASE/spell/True Target|true target]]_ (3 slots); **6th** _[[DATABASE/spell/Collective Transposition|collective transposition]]_, _[[DATABASE/spell/Phantasmal Calamity|phantasmal calamity]]_, _[[DATABASE/spell/Spirit Blast|spirit blast]]_ (3 slots); **5th** _[[DATABASE/spell/Cloak of Colors|cloak of colors]]_, _[[DATABASE/spell/Prismatic Wall|prismatic wall]]_ (3 slots), _[[DATABASE/spell/Shadow Blast|shadow blast]]_; **4th** _[[DATABASE/spell/Blink|blink]]_, _[[DATABASE/spell/Dimension Door|dimension door]]_, _[[DATABASE/spell/Fly|fly]]_ (3 slots); **3rd** _[[DATABASE/spell/Dispel Magic|dispel magic]]_, _[[DATABASE/spell/Haste|haste]]_, _[[DATABASE/spell/Slow|slow]]_ (3 slots); **2nd** _[[DATABASE/spell/Faerie Fire|faerie fire]]_, _[[DATABASE/spell/Invisibility|invisibility]]_, _[[DATABASE/spell/Resist Energy|resist energy]]_ (3 slots); **1st** _[[DATABASE/spell/Sanctuary|sanctuary]]_, _[[DATABASE/spell/Spirit Link|spirit link]]_, _[[DATABASE/spell/True Strike|true strike]]_ (3 slots); **Cantrips** **(8th)** _[[DATABASE/spell/Detect Magic|detect magic]]_, _[[DATABASE/spell/Forbidding Ward|forbidding ward]]_, _[[DATABASE/spell/Guidance|guidance]]_, _[[DATABASE/spell/Light|light]]_, _[[DATABASE/spell/Message|message]]_
+**Bard Composition Spells** DC 36, 3 Focus Points; **8th** _[[DATABASE/spell/Counter Performance|counter performance]]_, _[[DATABASE/spell/Inspire Heroics|inspire heroics]]_, _[[DATABASE/spell/Lingering Composition|lingering composition]]_; **Cantrips** **(7th)** _[[DATABASE/spell/Inspire Courage|inspire courage]]_, _[[DATABASE/spell/Inspire Defense|inspire defense]]_

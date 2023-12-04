@@ -23,6 +23,7 @@ follower_alignment:
 id: '173'
 name: Sturovenen
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Diplomacy|Diplomacy]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -32,7 +33,7 @@ type: Deity
 ---
 # Sturovenen (The Dragoneagle) [LG]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Category** Sarkorian Gods
 **Edicts** Act with conviction and confidence, be a passionate and responsible leader to your people or companions
 **Anathema** Command a subordinate to perform a task you’re not willing to perform yourself
@@ -40,9 +41,9 @@ type: Deity
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Dexterity or Charisma
-**Divine Font** _[[Heal]]_
-**Divine Skill** [[Diplomacy]]
-**Favored Weapon** [[Main-gauche]]
-**Domains** [[Air Domain]], [[Confidence Domain]], [[Passion Domain]], [[Sun Domain]]
-**Cleric Spells** 1st: _[[Charm]]_, 5th: _[[Cloak of Colors]]_, 6th: _[[Dragon Form]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Dexterity or Charisma
+**Divine Font** _[[DATABASE/spell/Heal|heal]]_
+**Divine Skill** [[DATABASE/skill/Diplomacy|Diplomacy]]
+**Favored Weapon** [[DATABASE/weapon/Main-gauche|main-gauche]]
+**Domains** [[DATABASE/domain/Air Domain|air]], [[DATABASE/domain/Confidence Domain|confidence]], [[DATABASE/domain/Passion Domain|passion]], [[DATABASE/domain/Sun Domain|sun]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Charm|charm]]_, 5th: _[[DATABASE/spell/Cloak of Colors|cloak of colors]]_, 6th: _[[DATABASE/spell/Dragon Form|dragon form]]_

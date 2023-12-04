@@ -11,6 +11,7 @@ name: Resounding Finale
 prerequisite: '[[DATABASE/bardmuse/Maestro|maestro muse]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,8 +26,8 @@ type: Feat
 # Resounding Finale <span class="action-icon">5</span> <span class="item-type">Feat 16</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Bard</span><span class="item-trait">Concentrate</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** [[Maestro]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** [[DATABASE/bardmuse/Maestro|maestro muse]]
 **Trigger** You or an ally benefiting from your composition spell would take sonic damage.
 
 ---

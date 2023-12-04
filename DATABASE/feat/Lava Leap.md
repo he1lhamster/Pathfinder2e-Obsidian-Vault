@@ -11,6 +11,7 @@ name: Lava Leap
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -29,10 +30,10 @@ type: Feat
 # Lava Leap <span class="action-icon">2</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Composite</span><span class="item-trait">Earth</span><span class="item-trait">Fire</span><span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Overflow</span><span class="item-trait">Primal</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
-You wreath yourself in molten stone and hurtle toward your enemy. [[Leap]] up to your Speed. At the end of your Leap, a wave of lava crashes onto all creatures in a 10-foot emanation. Each creature in the area takes 1d6 bludgeoning damage and 2d6 fire damage, with a basic Reflex save against your class DC.
+You wreath yourself in molten stone and hurtle toward your enemy. [[DATABASE/action/Leap|Leap]] up to your Speed. At the end of your Leap, a wave of lava crashes onto all creatures in a 10-foot emanation. Each creature in the area takes 1d6 bludgeoning damage and 2d6 fire damage, with a basic Reflex save against your class DC.
  The cooling remains of the lava form a temporary protective shell around you, granting you a +2 circumstance bonus to AC until the start of your next turn.
 
 ---
@@ -58,7 +59,7 @@ The primary magical actions kineticists use are called impulses. You can use an 
 
 **Overflow:**
 
-Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
+Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[DATABASE/action/Channel Elements|Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
 
 **Primal:**
 

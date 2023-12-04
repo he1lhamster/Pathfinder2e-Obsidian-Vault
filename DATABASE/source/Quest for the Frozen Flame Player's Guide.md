@@ -2,6 +2,7 @@
 id: '110'
 name: Quest for the Frozen Flame Player's Guide
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -16,4 +17,4 @@ type: Source
 
 ## Backgrounds [6]
 
-[[Broken Tusk Recruiter]], [[Ex-Mendevian Crusader]], [[Mammoth Herder]], [[Megafauna Hunter]], [[Northland Forager]], [[Songsinger in Training]]
+[[DATABASE/background/Broken Tusk Recruiter|Broken Tusk Recruiter]], [[DATABASE/background/Ex-Mendevian Crusader|Ex-Mendevian Crusader]], [[DATABASE/background/Mammoth Herder|Mammoth Herder]], [[DATABASE/background/Megafauna Hunter|Megafauna Hunter]], [[DATABASE/background/Northland Forager|Northland Forager]], [[DATABASE/background/Songsinger in Training|Songsinger in Training]]

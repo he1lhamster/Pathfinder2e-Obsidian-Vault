@@ -11,6 +11,7 @@ name: Moderate Enhance Venom
 prerequisite: '[[DATABASE/feat/Lesser Enhance Venom|Lesser Enhance Venom]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -23,16 +24,16 @@ type: Feat
 # Moderate Enhance Venom <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Vishkanya</span>
-**Source** [[Impossible Lands]]
-**Prerequisites** [[Lesser Enhance Venom]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
+**Prerequisites** [[DATABASE/feat/Lesser Enhance Venom|Lesser Enhance Venom]]
 
 ---
-You upgrade the vishkanyan venom you can apply with [[Envenom]] to moderate vishkanyan venom. Envenom's frequency becomes once per 10 minutes.
+You upgrade the vishkanyan venom you can apply with [[DATABASE/action/Envenom|Envenom]] to moderate vishkanyan venom. Envenom's frequency becomes once per 10 minutes.
  **Moderate Vishkanyan Venom** (level 9) **Frequency** once per 10 minutes; **Saving Throw** Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 3d6 poison damage (1 round); **Stage 2** 4d6 poison damage (1 round); **Stage 3** 5d6 poison damage (1 round)
 
 ## Moderate Enhance Venom Leads To...
 
-[[Greater Enhance Venom]], [[Stronger Debilitating Venom]]
+[[DATABASE/feat/Greater Enhance Venom|Greater Enhance Venom]], [[DATABASE/feat/Stronger Debilitating Venom|Stronger Debilitating Venom]]
 
 ## Traits
 

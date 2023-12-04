@@ -3,6 +3,7 @@ creature_family: Devil
 id: '30'
 name: Devil
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Devil
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Masters of corruption and architects of conquest, devils seek both to tempt mortal life to join in their pursuit of all things profane and to spread tyranny throughout all worlds. The temptations they offer mortals range from great powers granted by the signing of an infernal contract to twisted favors following a whispered pledge to a diabolic patron, or any number of even subtler exchanges. Those who succumb to these temptations find themselves consigned to an afterlife of endless torment in the pits of Hell, wherein the only hope of escape lies in the chance of being promoted to become a devil in the infernal ranks. Every devil has a specific role to play in the upkeep of the remorseless bureaucratic machine that is Hell, from soldiers and scholars to inquisitors, lawyers, judges, and executioners. Lowly lemures and imps perform subservient labor to more powerful and specialized devils, such as contract devils and erinyes, while the greatest pit fiends command entire infernal armies.
 
 ### Members
 
-[[Barbazu (Bearded Devil)]] (Creature 5), [[Cornugon (Horned Devil)]] (Creature 16), [[Deimavigga (Apostate Devil)]] (Creature 17), [[Erinys (Fury Devil)]] (Creature 8), [[Ferrugon (Rust Devil)]] (Creature 12), [[Gelugon (Ice Devil)]] (Creature 13), [[Gylou (Handmaiden Devil)]] (Creature 14), [[Hamatula (Barbed Devil)]] (Creature 11), [[Hellbound Attorney]] (Creature 4), [[Imp]] (Creature 1), [[Lemure]] (Creature 0), [[Levaloch (Warmonger Devil)]] (Creature 7), [[Munagola (Executioner Devil)]] (Creature 11), [[Osyluth (Bone Devil)]] (Creature 9), [[Phistophilus (Contract Devil)]] (Creature 10), [[Pit Fiend (Tyrant Devil)]] (Creature 20), [[Sarglagon (Drowning Devil)]] (Creature 8), [[Uniila (Cabal Devil)]] (Creature 10), [[Zebub (Accuser Devil)]] (Creature 3)
+[[DATABASE/monster/Barbazu (Bearded Devil)|Barbazu]] (Creature 5), [[DATABASE/monster/Cornugon (Horned Devil)|Cornugon]] (Creature 16), [[DATABASE/monster/Deimavigga (Apostate Devil)|Deimavigga]] (Creature 17), [[DATABASE/monster/Erinys (Fury Devil)|Erinys]] (Creature 8), [[DATABASE/monster/Ferrugon (Rust Devil)|Ferrugon]] (Creature 12), [[DATABASE/monster/Gelugon (Ice Devil)|Gelugon]] (Creature 13), [[DATABASE/monster/Gylou (Handmaiden Devil)|Gylou]] (Creature 14), [[DATABASE/monster/Hamatula (Barbed Devil)|Hamatula]] (Creature 11), [[DATABASE/monster/Hellbound Attorney|Hellbound Attorney]] (Creature 4), [[DATABASE/monster/Imp|Imp]] (Creature 1), [[DATABASE/monster/Lemure|Lemure]] (Creature 0), [[DATABASE/monster/Levaloch (Warmonger Devil)|Levaloch]] (Creature 7), [[DATABASE/monster/Munagola (Executioner Devil)|Munagola]] (Creature 11), [[DATABASE/monster/Osyluth (Bone Devil)|Osyluth]] (Creature 9), [[DATABASE/monster/Phistophilus (Contract Devil)|Phistophilus]] (Creature 10), [[DATABASE/monster/Pit Fiend (Tyrant Devil)|Pit Fiend]] (Creature 20), [[DATABASE/monster/Sarglagon (Drowning Devil)|Sarglagon]] (Creature 8), [[DATABASE/monster/Uniila (Cabal Devil)|Uniila]] (Creature 10), [[DATABASE/monster/Zebub (Accuser Devil)|Zebub]] (Creature 3)
 
 ###  Archdevils
 
@@ -39,7 +40,7 @@ Stinking, sulfurous hellfire is infused with evil. Hellfire always deals a combi
 
 ###  Hellmouths
 
-While travel to and from Hell is possible with [[Plane Shift]], another way to reach and traverse the infernal realms is via hellmouths, strange living portals connecting different layers or even different planes. A hellmouth takes the form of a grimacing face, distended maw, or other distressingly organic aperture, and no two share the same appearance. Most are carefully guarded, but some new or well-hidden hellmouths have yet to be discovered.
+While travel to and from Hell is possible with [[DATABASE/spell/Plane Shift|plane shift]], another way to reach and traverse the infernal realms is via hellmouths, strange living portals connecting different layers or even different planes. A hellmouth takes the form of a grimacing face, distended maw, or other distressingly organic aperture, and no two share the same appearance. Most are carefully guarded, but some new or well-hidden hellmouths have yet to be discovered.
 
 ###  Other Devils
 
@@ -47,8 +48,8 @@ The devils presented on these pages are a small sampling of the torments Hell ha
 
 ###  Queens of the Night
 
-The four queens of the night wield great power in the Pit. [[Ardad Lili]] is a plotter and manipulator with ambitions of ruling the heavens, while [[Doloras]] revels in suffering. Most distant is [[Mahathallah]], watching over fate and death. Mightiest among them is [[Eiseth]], who is assembling an army in Dis in the hopes of claiming the iron throne of Malebolge.
+The four queens of the night wield great power in the Pit. [[DATABASE/deity/Ardad Lili|Ardad Lili]] is a plotter and manipulator with ambitions of ruling the heavens, while [[DATABASE/deity/Doloras|Doloras]] revels in suffering. Most distant is [[DATABASE/deity/Mahathallah|Mahathallah]], watching over fate and death. Mightiest among them is [[DATABASE/deity/Eiseth|Eiseth]], who is assembling an army in Dis in the hopes of claiming the iron throne of Malebolge.
 
 ###  The Hierarchy of Hell
 
-[[Hell]] is a harsh plane of law with little use for compassion or empathy. As such, it exists entirely within a strict hierarchy, and this order extends to its denizens. While different types of [[Demon]] correspond to various sins and [[Daemon]] are associated with modes of mortal death, the different types of devils exist solely to fulfill particular roles in the infernal machine. On occasion, a particular devil can transcend the role for which they were literally shaped, but this often transforms the devil physically into the type suitable for their new role.
+[[DATABASE/plane/Hell|Hell]] is a harsh plane of law with little use for compassion or empathy. As such, it exists entirely within a strict hierarchy, and this order extends to its denizens. While different types of [[DATABASE/monsterfamily/Demon|demons]] correspond to various sins and [[DATABASE/monsterfamily/Daemon|daemons]] are associated with modes of mortal death, the different types of devils exist solely to fulfill particular roles in the infernal machine. On occasion, a particular devil can transcend the role for which they were literally shaped, but this often transforms the devil physically into the type suitable for their new role.

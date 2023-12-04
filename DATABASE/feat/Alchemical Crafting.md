@@ -11,6 +11,7 @@ name: Alchemical Crafting
 prerequisite: Trained in [[DATABASE/skill/Crafting|Crafting]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: crafting
@@ -24,15 +25,15 @@ type: Feat
 # Alchemical Crafting <span class="item-type">Feat 1</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** trained in [[Crafting]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** trained in [[DATABASE/skill/Crafting|Crafting]]
 
 ---
 You can use the Craft activity to create alchemical items. When you select this feat, you immediately add the formulas for four common 1st-level alchemical items to your formula book.
 
 ## Alchemical Crafting Leads To...
 
-[[Assassin Dedication]]
+[[DATABASE/feat/Assassin Dedication|Assassin Dedication]]
 
 ## Traits
 

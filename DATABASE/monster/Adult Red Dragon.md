@@ -113,17 +113,17 @@ The largest and most powerful of the chromatic dragons, red dragons are a menace
  Red dragons don’t deign to speak with lesser creatures; they simply dominate and burn, enslaving weaker creatures to act as servants and to look after their lairs while the dragons slumber away. They take pleasure in dominating these creatures, and they demand tribute from their supplicants. Those who anger or disappoint end up eaten or reduced to ash. They command their enslaved minions to constantly build onto their lairs, carving out new tunnels and designing cunning traps that ensure the dragon’s security.
  Driven by their arrogance, red dragons are the most likely of the chromatic dragons to ravage settlements. They want the world to see them in their rightful place as powerful tyrants, and they delight in threatening all other creatures. They have no qualms about bullying, manipulating, or killing to complete their goals—or simply intimidating others through a public display of brutality and dominance.
  As legendary as the brutishness of red dragons is the magnificence of their hoards of gold. Their lairs are often situated in dangerous places, with volcanoes being a favorite spot, as they find them foreboding and the constant warmth is comfortable. No matter the locale, red dragons sleep on a litter of coins and other treasures, which they zealously guard. Sometimes, the dragon’s internal heat causes these precious metals to fuse together.
-**Recall Knowledge - Dragon ([[Arcana]])**: DC 32
+**Recall Knowledge - Dragon ([[DATABASE/skill/Arcana|Arcana]])**: DC 32
 **Unspecific Lore**: DC 30
 **Specific Lore**: DC 27
 
 # Adult Red Dragon<span class="item-type">Creature 14</span>
 
 <span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Huge</span><span class="item-trait">Dragon</span><span class="item-trait">Fire</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +26; darkvision, scent (imprecise) 60 feet, smoke vision
-**Languages** [[Common]], [[Draconic]], [[Dwarven]], [[Orcish]]
-**Skills** [[Acrobatics]] +23, [[Arcana]] +25, [[Athletics]] +29, [[Deception]] +25, [[Diplomacy]] +25, [[Intimidation]] +27, [[Stealth]] +23
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Dwarven|Dwarven]], [[DATABASE/language/Orcish|Orcish]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +23, [[DATABASE/skill/Arcana|Arcana]] +25, [[DATABASE/skill/Athletics|Athletics]] +29, [[DATABASE/skill/Deception|Deception]] +25, [[DATABASE/skill/Diplomacy|Diplomacy]] +25, [[DATABASE/skill/Intimidation|Intimidation]] +27, [[DATABASE/skill/Stealth|Stealth]] +23
 **Str** +7, **Dex** +3, **Con** +6, **Int** +3, **Wis** +4, **Cha** +5
 **Smoke Vision** Smoke doesn’t impair a red dragon’s vision; it ignores the concealed condition from smoke.
 
@@ -134,13 +134,13 @@ The largest and most powerful of the chromatic dragons, red dragons are a menace
 
 ---
 **Speed** 50 feet, fly 150 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +29 [+24/+19] (fire, magical, reach 15 feet), **Damage** 3d12+15 piercing plus 2d6 fire</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +29 [+25/+21] (agile, magical, reach 10 feet), **Damage** 3d10+15 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> tail +27 [+22/+17] (magical, reach 20 feet), **Damage** 3d12+13 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> wing +27 [+23/+19] (agile, magical, reach 15 feet), **Damage** 2d10+13 slashing</span>**Arcane Innate Spells** DC 35; **4th** _[[Suggestion]]_; **Cantrips** **(6th)** _[[Detect Magic]]_, _[[Read Aura]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +29 [+24/+19] (fire, magical, reach 15 feet), **Damage** 3d12+15 piercing plus 2d6 fire</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +29 [+25/+21] (agile, magical, reach 10 feet), **Damage** 3d10+15 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> tail +27 [+22/+17] (magical, reach 20 feet), **Damage** 3d12+13 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> wing +27 [+23/+19] (agile, magical, reach 15 feet), **Damage** 2d10+13 slashing</span>**Arcane Innate Spells** DC 35; **4th** _[[DATABASE/spell/Suggestion|suggestion]]_; **Cantrips** **(6th)** _[[DATABASE/spell/Detect Magic|detect magic]]_, _[[DATABASE/spell/Read Aura|read aura]]_
 <span class="in-box-ability">**Breath Weapon ** <span class="action-icon">2</span> (arcane, evocation, fire) The dragon breathes a blast of flame that deals 15d6 fire damage in a 50-foot cone (DC 36 basic Reflex save). It can't use Breath Weapon again for 1d4 rounds.</span><span class="in-box-ability">**Draconic Frenzy** <span class="action-icon">2</span> The dragon makes two claw Strikes and one wing Strike in any order.</span><span class="in-box-ability">**Draconic Momentum** The dragon recharges its Breath Weapon whenever it scores a critical hit with a Strike.</span>
 
 ###  Red Dragon Spellcasters
 
 Red dragon spellcasters tend to cast the following spells.
 **Young Red Dragon**
-**Arcane Prepared Spells** DC 29, attack +23; **4th** [[Crushing Despair]], [[Invisibility]], [[Stoneskin]]; **3rd** [[Grease]], [[Haste]], [[Mind Reading]]; **2nd** [[Comprehend Language]], [[Resist Energy]], [[See Invisibility]]; **1st** [[Charm]], [[Ray of Enfeeblement]], [[True Strike]]; **Cantrips (4th)** [[Chill Touch]], [[Daze]], [[Mage Hand]], [[Message]], [[Sigil]]
+**Arcane Prepared Spells** DC 29, attack +23; **4th** [[DATABASE/spell/Crushing Despair|crushing despair]], [[DATABASE/spell/Invisibility|invisibility]], [[DATABASE/spell/Stoneskin|stoneskin]]; **3rd** [[DATABASE/spell/Grease|grease]], [[DATABASE/spell/Haste|haste]], [[DATABASE/spell/Mind Reading|mind reading]]; **2nd** [[DATABASE/spell/Comprehend Language|comprehend language]], [[DATABASE/spell/Resist Energy|resist energy]], [[DATABASE/spell/See Invisibility|see invisibility]]; **1st** [[DATABASE/spell/Charm|charm]], [[DATABASE/spell/Ray of Enfeeblement|ray of enfeeblement]], [[DATABASE/spell/True Strike|true strike]]; **Cantrips (4th)** [[DATABASE/spell/Chill Touch|chill touch]], [[DATABASE/spell/Daze|daze]], [[DATABASE/spell/Mage Hand|mage hand]], [[DATABASE/spell/Message|message]], [[DATABASE/spell/Sigil|sigil]]
 **Adult Red Dragon**
-**Arcane Prepared Spells** DC 35, attack +29; As young red dragon, plus **6th** [[Dispel Magic]], [[Teleport]], [[Wall of Force]]; **5th** [[Cloak of Colors]], [[Command]], [[Tongues]]; **Cantrips (6th)** [[Chill Touch]], [[Daze]], [[Mage Hand]], [[Message]], [[Sigil]]
+**Arcane Prepared Spells** DC 35, attack +29; As young red dragon, plus **6th** [[DATABASE/spell/Dispel Magic|dispel magic]], [[DATABASE/spell/Teleport|teleport]], [[DATABASE/spell/Wall of Force|wall of force]]; **5th** [[DATABASE/spell/Cloak of Colors|cloak of colors]], [[DATABASE/spell/Command|command]], [[DATABASE/spell/Tongues|tongues]]; **Cantrips (6th)** [[DATABASE/spell/Chill Touch|chill touch]], [[DATABASE/spell/Daze|daze]], [[DATABASE/spell/Mage Hand|mage hand]], [[DATABASE/spell/Message|message]], [[DATABASE/spell/Sigil|sigil]]

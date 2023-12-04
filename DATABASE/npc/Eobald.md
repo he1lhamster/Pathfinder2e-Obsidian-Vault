@@ -83,18 +83,18 @@ wisdom: '+2'
 # Eobald
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 30
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 30
 **Unspecific Lore**: DC 28
 **Specific Lore**: DC 25
 
 # Eobald<span class="item-type">Creature 5</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Kingmaker Companion Guide]]
+**Source** [[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]
 Male human wizard
 **Perception** +11
-**Languages** [[Common]], [[Dwarven]], [[Halfling]], [[Hallit]], [[Sylvan]]
-**Skills** [[Lore]] +13, [[Arcana]] +13, [[Crafting]] +11, [[Nature]] +11, [[Occultism]] +13, [[Performance]] +12, [[Society]] +11
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Dwarven|Dwarven]], [[DATABASE/language/Halfling|Halfling]], [[DATABASE/language/Hallit|Hallit]], [[DATABASE/language/Sylvan|Sylvan]]
+**Skills** [[DATABASE/skill/Lore|Academia Lore]] +13, [[DATABASE/skill/Arcana|Arcana]] +13, [[DATABASE/skill/Crafting|Crafting]] +11, [[DATABASE/skill/Nature|Nature]] +11, [[DATABASE/skill/Occultism|Occultism]] +13, [[DATABASE/skill/Performance|Performance]] +12, [[DATABASE/skill/Society|Society]] +11
 **Str** +0, **Dex** +1, **Con** +2, **Int** +4, **Wis** +2, **Cha** +3
 **Items** ragged robes
 
@@ -104,5 +104,5 @@ Male human wizard
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee**fist +10 [+6/+2] (agile, finesse, nonlethal, unarmed), **Damage** 1d4 bludgeoning</span>**Wizard Spells Prepared** DC 22, attack +14; **3rd** _[[Dream Message]]_, _[[Secret Page]]_; **2nd** _[[Illusory Object]]_, _[[Invisibility]]_, _[[Mirror Image]]_; **1st** _[[Charm]]_, _[[Illusory Disguise]]_, _[[Unseen Servant]]_; **Cantrips** **(3rd)** _[[Electric Arc]]_, _[[Light]]_, _[[Mage Hand]]_, _[[Prestidigitation]]_, _[[Read Aura]]_
-**Wizard School Spells 1 Focus Point,** DC 22; **3rd** _[[Warped Terrain]]_
+<span class="in-box-ability">**Melee**fist +10 [+6/+2] (agile, finesse, nonlethal, unarmed), **Damage** 1d4 bludgeoning</span>**Wizard Spells Prepared** DC 22, attack +14; **3rd** _[[DATABASE/spell/Dream Message|dream message]]_, _[[DATABASE/spell/Secret Page|secret page]]_; **2nd** _[[DATABASE/spell/Illusory Object|illusory object]]_, _[[DATABASE/spell/Invisibility|invisibility]]_, _[[DATABASE/spell/Mirror Image|mirror image]]_; **1st** _[[DATABASE/spell/Charm|charm]]_, _[[DATABASE/spell/Illusory Disguise|illusory disguise]]_, _[[DATABASE/spell/Unseen Servant|unseen servant]]_; **Cantrips** **(3rd)** _[[DATABASE/spell/Electric Arc|electric arc]]_, _[[DATABASE/spell/Light|light]]_, _[[DATABASE/spell/Mage Hand|mage hand]]_, _[[DATABASE/spell/Prestidigitation|prestidigitation]]_, _[[DATABASE/spell/Read Aura|read aura]]_
+**Wizard School Spells 1 Focus Point,** DC 22; **3rd** _[[DATABASE/spell/Warped Terrain|warped terrain]]_

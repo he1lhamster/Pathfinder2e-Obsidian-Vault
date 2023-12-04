@@ -11,6 +11,7 @@ name: Butterfly's Kiss
 prerequisite: '[[DATABASE/feat/Butterfly Blade Dedication|Butterfly Blade Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #166:
   Despair on Danger Island]]'
@@ -24,9 +25,9 @@ type: Feat
 # Butterfly's Kiss <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Pathfinder 166. Despair on Danger Island]]
-**Archetype** [[Butterfly Blade]]
-**Prerequisites** [[Butterfly Blade Dedication]]
+**Source** [[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #166: Despair on Danger Island]]
+**Archetype** [[DATABASE/archetype/Butterfly Blade|Butterfly Blade]]
+**Prerequisites** [[DATABASE/feat/Butterfly Blade Dedication|Butterfly Blade Dedication]]
 
 ---
 You can make nonlethal Strikes with a butterfly sword without taking a penalty.

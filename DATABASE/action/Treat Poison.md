@@ -8,6 +8,7 @@ name: Treat Poison
 rarity: Common
 requirement: You are holding [[DATABASE/equipment/Healer's Tools|healer's tools]]
   , or you are wearing themand have a hand free
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
@@ -19,8 +20,8 @@ type: Action
 # Treat Poison <span class="action-icon">1</span>
 
 <span class="item-trait">Manipulate</span>
-**Source** [[Core Rulebook]] 
-**Requirements** You are holding [[Healer's Tools]], or you are wearing them and have a hand free
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Requirements** You are holding [[DATABASE/equipment/Healer's Tools|healer's tools]], or you are wearing them and have a hand free
 
 ---
 You treat a patient to prevent the spread of poison. Attempt a Medicine check against the poison’s DC. After you attempt to Treat a Poison for a creature, you can’t try again until after the next time that creature attempts a save against the poison.

@@ -13,6 +13,7 @@ primary_check: '[[DATABASE/skill/Nature|Nature]] (expert)'
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: null
 secondary_casters: '1'
 secondary_check: Nature or [[DATABASE/skill/Survival|Survival]]
@@ -27,9 +28,9 @@ type: Ritual
 # Bountiful Oasis<span class="item-type">Ritual 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Water</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Cast** 1 day; **Cost** 3 drops of fresh water taken from a naturally occurring lake within 1,000 miles of the ritual site; **Secondary Casters** 1
-**Primary Check** [[Nature]] (expert); **Secondary Checks** Nature or [[Survival]]
+**Primary Check** [[DATABASE/skill/Nature|Nature]] (expert); **Secondary Checks** Nature or [[DATABASE/skill/Survival|Survival]]
 **Area** 10-foot burst
 **Duration** 1 year
 

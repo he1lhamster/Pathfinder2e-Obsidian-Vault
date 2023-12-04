@@ -11,6 +11,7 @@ name: Vile Desecration
 prerequisite: evil alignment
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Vile Desecration <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Cleric</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Prerequisites** evil alignment
 
 ---
-You combine unholy might with negative energy to damage [[Angel]], [[Archon]], and other self-righteous denizens of the Outer Planes. When you cast a [[Harm]] spell, you can change the damage you deal to celestial creatures to evil damage instead of negative damage.
+You combine unholy might with negative energy to damage [[DATABASE/monsterfamily/Angel|angels]], [[DATABASE/monsterfamily/Archon|archons]], and other self-righteous denizens of the Outer Planes. When you cast a [[DATABASE/spell/Harm|harm]] spell, you can change the damage you deal to celestial creatures to evil damage instead of negative damage.

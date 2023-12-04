@@ -11,6 +11,7 @@ name: Shadow Mark
 prerequisite: Expert in [[DATABASE/skill/Stealth|Stealth]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: stealth
@@ -24,11 +25,11 @@ type: Feat
 # Shadow Mark <span class="item-type">Feat 2</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** expert in [[Stealth]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** expert in [[DATABASE/skill/Stealth|Stealth]]
 
 ---
-You have learned special tricks that help you follow individuals without them noticing you. When you attempt a [[Stealth]] check to [[Avoid Notice]] while following a specific target, the target takes a –2 circumstance penalty to their Perception DC. If you have master proficiency in Stealth, the penalty is –3 or –4 if you're legendary. If you start an encounter with the target while shadowing them, the target takes this penalty to their initiative roll and to their Perception DC to determine if they notice you, as normal for [[Sneak]].
+You have learned special tricks that help you follow individuals without them noticing you. When you attempt a [[DATABASE/skill/Stealth|Stealth]] check to [[DATABASE/action/Avoid Notice|Avoid Notice]] while following a specific target, the target takes a –2 circumstance penalty to their Perception DC. If you have master proficiency in Stealth, the penalty is –3 or –4 if you're legendary. If you start an encounter with the target while shadowing them, the target takes this penalty to their initiative roll and to their Perception DC to determine if they notice you, as normal for [[DATABASE/action/Sneak|Sneak]].
 
 ## Traits
 

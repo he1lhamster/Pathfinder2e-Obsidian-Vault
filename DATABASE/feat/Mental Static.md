@@ -11,6 +11,7 @@ name: Mental Static
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Enchantment
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -28,7 +29,7 @@ type: Feat
 # Mental Static <span class="action-icon">5</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Enchantment</span><span class="item-trait">Mental</span><span class="item-trait">Nonlethal</span><span class="item-trait">Occult</span><span class="item-trait">Psychic</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Trigger** You roll a critical success on a Will save against a mental effect from a creature.
 
 ---

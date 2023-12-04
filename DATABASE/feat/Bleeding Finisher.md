@@ -11,6 +11,7 @@ name: Bleeding Finisher
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,10 +25,10 @@ type: Feat
 # Bleeding Finisher <span class="action-icon">1</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Finisher</span><span class="item-trait">Swashbuckler</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
-Your blow inflicts profuse bleeding. Make a slashing or piercing Strike with a weapon or unarmed attack that allows you to add your precise strike damage. If you hit, the target also takes [[Persistent Damage]] equal to your precise strike finisher damage.
+Your blow inflicts profuse bleeding. Make a slashing or piercing Strike with a weapon or unarmed attack that allows you to add your precise strike damage. If you hit, the target also takes [[DATABASE/condition/Persistent Damage|persistent bleed damage]] equal to your precise strike finisher damage.
 
 ## Traits
 

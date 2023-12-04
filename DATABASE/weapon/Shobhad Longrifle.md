@@ -12,6 +12,7 @@ name: Shobhad Longrifle
 price: 20 gp
 range: 120 ft.
 rarity: Rare
+rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 173. Doorway to the Red Star|Pathfinder #173:
   Doorway to the Red Star]]'
 trait:
@@ -30,19 +31,19 @@ weapon_type: Ranged
 # Shobhad Longrifle<span class="item-type">Item 1</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Backstabber</span><span class="item-trait">Concussive</span><span class="item-trait">Fatal d12</span><span class="item-trait">Kickback</span><span class="item-trait">Volley</span>
-**Source** [[Pathfinder 173. Doorway to the Red Star]]
+**Source** [[DATABASE/source/Pathfinder 173. Doorway to the Red Star|Pathfinder #173: Doorway to the Red Star]]
 **Price** 20 gp; **Damage** 1d8 P; **Bulk** 1
 **Hands** 2; **Range** 120 ft.; **Reload** 1
-**Type** Ranged; **Category** Martial; **Group** [[Firearm]]
+**Type** Ranged; **Category** Martial; **Group** [[DATABASE/weapongroup/Firearm|Firearm]]
 
 ---
-The shobhad longrifle is a firearm with a long, rifled barrel. Often mounted with a multi-lensed scope for targeting at an array of ranges and a chambering mechanism that can adjust the speed and penetrating power of each shot, it's the preferred weapon of many [[Shobhad]] warriors. Shobhad longrifles are equipped with a built-in [[Silencer]] so they make no more noise than a crossbow when fired. A shobhad longrifle is a martial weapon.
+The shobhad longrifle is a firearm with a long, rifled barrel. Often mounted with a multi-lensed scope for targeting at an array of ranges and a chambering mechanism that can adjust the speed and penetrating power of each shot, it's the preferred weapon of many [[DATABASE/monsterfamily/Shobhad|shobhad]] warriors. Shobhad longrifles are equipped with a built-in [[DATABASE/equipment/Silencer|silencer]] so they make no more noise than a crossbow when fired. A shobhad longrifle is a martial weapon.
 
 ## Traits
 
 **Backstabber:**
 
-When you hit a [[Flat-Footed]] creature, this weapon deals 1 precision damage in addition to its normal damage. The precision damage increases to 2 if the weapon is a _+3 weapon_.
+When you hit a [[DATABASE/condition/Flat-Footed|flat-footed]] creature, this weapon deals 1 precision damage in addition to its normal damage. The precision damage increases to 2 if the weapon is a _+3 weapon_.
 
 **Concussive:**
 
@@ -58,7 +59,7 @@ A kickback weapon is extra powerful and difficult to use due to its high recoil.
 
 **Rare:**
 
-This rarity indicates that a rules element is very difficult to find in the game world. A rare feat, spell, item or the like is available to players only if the GM decides to include it in the game, typically through discovery during play. Creatures with this trait are rare. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creatures is increased by 5.
+This rarity indicates that a rules element is very difficult to find in the game world. A rare feat, spell, item or the like is available to players only if the GM decides to include it in the game, typically through discovery during play. Creatures with this trait are rare. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creatures is increased by 5.
 
 **Volley:**
 
@@ -66,6 +67,6 @@ This ranged weapon is less effective at close distances. Your attacks against ta
 
 ## Critical Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
-**Firearm**: The target must succeed at a Fortitude save against your class DC or be [[Stunned]].
+**Firearm**: The target must succeed at a Fortitude save against your class DC or be [[DATABASE/condition/Stunned|stunned 1]].

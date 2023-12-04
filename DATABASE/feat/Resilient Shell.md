@@ -11,6 +11,7 @@ name: Resilient Shell
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Resilient Shell <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Evolution</span><span class="item-trait">Summoner</span>
-**Source** [[Secrets of Magic]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]]
 
 ---
 Your eidolon is resilient against attacks. It gains resistance to physical damage equal to its Constitution modifier.

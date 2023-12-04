@@ -11,6 +11,7 @@ name: Razor Claws
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Razor Claws <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Lizardfolk</span>
-**Source** [[Character Guide]]
+**Source** [[DATABASE/source/Character Guide|Character Guide]]
 
 ---
 Your have honed your claws to be deadly. Your claw attack deals 1d6 slashing damage instead of 1d4 and gains the versatile (piercing) trait.

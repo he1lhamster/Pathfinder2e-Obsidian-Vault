@@ -17,6 +17,7 @@ name: Ballista Defense
 rarity: Common
 reflex: '+18'
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
@@ -30,7 +31,7 @@ will: null
 # Ballista Defense<span class="item-type">Hazard 11</span>
 
 <span class="item-trait">Complex</span><span class="item-trait">Mechanical</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 **Complexity** Complex
 **Stealth** DC +23 (master)
 **Description** A ballista armed with a massive bolt fires on a creature approaching the Palace.

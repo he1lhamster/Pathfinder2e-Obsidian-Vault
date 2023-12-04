@@ -11,6 +11,7 @@ name: Root to Life
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -27,11 +28,11 @@ type: Feat
 # Root to Life <span class="action-icon">1</span> or <span class="action-icon">2</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Esoterica</span><span class="item-trait">Manipulate</span><span class="item-trait">Necromancy</span><span class="item-trait">Primal</span><span class="item-trait">Thaumaturge</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 
 ---
-Marigold, spider lily, pennyroyal—many primal traditions connect flowers and plants with the boundary between life and death, and you can leverage this association to keep an ally on this side of the line. You place a small plant or similar symbol on an adjacent [[Dying]] creature, immediately stabilizing them; the creature is no longer dying and is instead [[Unconscious]] at 0 Hit Points.
- If you spend 2 actions instead of 1, you empower the act further by uttering a quick folk blessing to chase away ongoing pain, adding the auditory trait to the action. When you do so, attempt flat checks to remove each source of [[Persistent Damage]] affecting the target; due to the particularly effective assistance, the DC is 10 instead of the usual 15.
+Marigold, spider lily, pennyroyal—many primal traditions connect flowers and plants with the boundary between life and death, and you can leverage this association to keep an ally on this side of the line. You place a small plant or similar symbol on an adjacent [[DATABASE/condition/Dying|dying]] creature, immediately stabilizing them; the creature is no longer dying and is instead [[DATABASE/condition/Unconscious|unconscious]] at 0 Hit Points.
+ If you spend 2 actions instead of 1, you empower the act further by uttering a quick folk blessing to chase away ongoing pain, adding the auditory trait to the action. When you do so, attempt flat checks to remove each source of [[DATABASE/condition/Persistent Damage|persistent damage]] affecting the target; due to the particularly effective assistance, the DC is 10 instead of the usual 15.
 
 ## Traits
 

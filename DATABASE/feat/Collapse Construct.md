@@ -11,6 +11,7 @@ name: Collapse Construct
 prerequisite: '[[DATABASE/inventorinnovation/Construct Innovation|construct innovation]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -25,8 +26,8 @@ type: Feat
 # Collapse Construct <span class="action-icon">1</span> <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Inventor</span><span class="item-trait">Manipulate</span><span class="item-trait">Modification</span>
-**Source** [[Guns & Gears]]
-**Prerequisites** [[Construct Innovation]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Prerequisites** [[DATABASE/inventorinnovation/Construct Innovation|construct innovation]]
 
 ---
 You've modified your construct companion and built it out of light materials, enabling you to collapse it into a carrying case or other compact and innocuous form. Either your construct or you (if you're adjacent to it) can Collapse your Construct to turn it into its compact form or back into its normal form.
@@ -40,4 +41,4 @@ You must physically manipulate an item or make gestures to use an action with th
 
 **Modification:**
 
-A feat with this trait alters the construction of your innovation. If you have the [[Inventor]], you can retrain such a feat more easily
+A feat with this trait alters the construction of your innovation. If you have the [[DATABASE/class_/Inventor|reconfigure class feature]], you can retrain such a feat more easily

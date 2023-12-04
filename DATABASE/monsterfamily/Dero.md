@@ -3,6 +3,7 @@ creature_family: Dero
 id: '29'
 name: Dero
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Dero
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Deros are short, wiry humanoids with milky white eyes, gray-blue skin, and wild shocks of off-white or gray hair. The descendants of a mysterious type of fey abandoned in the deepest, darkest caverns of Golarion, deros are the subject of fearful legends and folk tales to most of the world’s surface races. They skulk beneath major metropolitan areas, performing cruel and twisted experiments on unwilling subjects. A dero is 3 feet tall and weighs approximately 70 pounds.
 
 ### Members
 
-[[Dero Magister]] (Creature 5), [[Dero Stalker]] (Creature 2), [[Dero Strangler]] (Creature 3)
+[[DATABASE/monster/Dero Magister|Dero Magister]] (Creature 5), [[DATABASE/monster/Dero Stalker|Dero Stalker]] (Creature 2), [[DATABASE/monster/Dero Strangler|Dero Strangler]] (Creature 3)
 
 ###  Cytillesh
 

@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -53,7 +54,7 @@ weapon_type: null
 # Weapon Potency<span class="item-type">Item 2+</span>
 
 <span class="item-trait">Evocation</span><span class="item-trait">Magical</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** etched onto a weapon; **Bulk** —
 
 ---
@@ -62,20 +63,20 @@ Magical enhancements make this weapon strike true. Attack rolls with this weapon
 
 ## Weapon Potency (+1)<span class="item-type">Item 2</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 35 gp
 **Craft Requirements** You are an expert in Crafting.
 
 ## Weapon Potency (+2)<span class="item-type">Item 10</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 935 gp
 The item bonus to attack rolls is +2, and the weapon can be etched with two property runes.
 **Craft Requirements** You are a master in Crafting.
 
 ## Weapon Potency (+3)<span class="item-type">Item 16</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 8,935 gp
 The item bonus to attack rolls is +3, and the weapon can be etched with three property runes.
 **Craft Requirements** You are legendary in Crafting.

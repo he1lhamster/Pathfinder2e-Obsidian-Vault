@@ -2,6 +2,7 @@
 id: '293'
 name: Unbounded
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
 - Unbounded
@@ -10,9 +11,9 @@ type: Trait
 ---
 # Unbounded
 
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 Planes with this trait loop back on themselves when a creature reaches the plane’s edge.
 
 ## Planes
 
-[[Negative Energy Plane]], [[Positive Energy Plane]]
+[[DATABASE/plane/Negative Energy Plane|Negative Energy Plane]], [[DATABASE/plane/Positive Energy Plane|Positive Energy Plane]]

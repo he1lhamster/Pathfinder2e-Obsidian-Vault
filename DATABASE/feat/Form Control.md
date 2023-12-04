@@ -11,6 +11,7 @@ name: Form Control
 prerequisite: Strength 14; [[DATABASE/feat/Wild Shape|Wild Shape]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -25,15 +26,15 @@ type: Feat
 # Form Control <span class="action-icon">1</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Druid</span><span class="item-trait">Manipulate</span><span class="item-trait">Metamagic</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** Strength 14; [[Wild Shape]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** Strength 14; [[DATABASE/feat/Wild Shape|Wild Shape]]
 
 ---
-With additional care and effort, you can take on an alternate form for a longer period of time. If your next action is to cast [[Wild Shape]], _wild shape’s_ spell level is 2 lower than normal (minimum 1st level), but you can remain transformed for up to 1 hour or the listed duration (whichever is longer). You can still Dismiss the form at any time, as permitted by the spell.
+With additional care and effort, you can take on an alternate form for a longer period of time. If your next action is to cast [[DATABASE/spell/Wild Shape|wild shape]], _wild shape’s_ spell level is 2 lower than normal (minimum 1st level), but you can remain transformed for up to 1 hour or the listed duration (whichever is longer). You can still Dismiss the form at any time, as permitted by the spell.
 
 ## Form Control Leads To...
 
-[[Perfect Form Control]]
+[[DATABASE/feat/Perfect Form Control|Perfect Form Control]]
 
 ## Traits
 

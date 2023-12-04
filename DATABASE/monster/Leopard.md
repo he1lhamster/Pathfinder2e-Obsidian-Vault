@@ -68,16 +68,16 @@ wisdom: '+1'
 # Leopard
 
 Leopards are among the smallest of the big cats, yet they are still dangerous creatures to tangle with. Leopard statistics can also be used for black panthers, white-spotted snow leopards, or tawny-coated cougars.
-**Recall Knowledge - Animal ([[Nature]])**: DC 16
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
 # Leopard<span class="item-type">Creature 2</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +7; low-light vision, scent (imprecise) 30 feet
-**Skills** [[Acrobatics]] +8, [[Athletics]] +7, [[Stealth]] +8 (+11 in undergrowth)
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +8, [[DATABASE/skill/Athletics|Athletics]] +7, [[DATABASE/skill/Stealth|Stealth]] +8 (+11 in undergrowth)
 **Str** +3, **Dex** +4, **Con** +2, **Int** -4, **Wis** +1, **Cha** -2
 
 ---
@@ -86,4 +86,4 @@ Leopards are among the smallest of the big cats, yet they are still dangerous cr
 
 ---
 **Speed** 30 feet, climb 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +10 [+5/+0] (finesse), **Damage** 1d10+3 piercing plus Grab</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +10 [+6/+2] (agile, finesse), **Damage** 1d6+3 slashing</span><span class="in-box-ability">**Maul** <span class="action-icon">1</span> The leopard makes two claw Strikes against a creature it has grabbed. Both count toward its multiple attack penalty, but the penalty increases only after both attacks are made.</span><span class="in-box-ability">**Pounce** <span class="action-icon">1</span> The leopard Strides and makes a Strike at the end of that movement. If the leopard began this action hidden, it remains hidden until after this ability's Strike.</span><span class="in-box-ability">**[[Sneak Attack]]** The leopard deals 1d4 extra precision damage to flat-footed creatures.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +10 [+5/+0] (finesse), **Damage** 1d10+3 piercing plus Grab</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +10 [+6/+2] (agile, finesse), **Damage** 1d6+3 slashing</span><span class="in-box-ability">**Maul** <span class="action-icon">1</span> The leopard makes two claw Strikes against a creature it has grabbed. Both count toward its multiple attack penalty, but the penalty increases only after both attacks are made.</span><span class="in-box-ability">**Pounce** <span class="action-icon">1</span> The leopard Strides and makes a Strike at the end of that movement. If the leopard began this action hidden, it remains hidden until after this ability's Strike.</span><span class="in-box-ability">**[[DATABASE/monsterability/Sneak Attack|Sneak Attack]]** The leopard deals 1d4 extra precision damage to flat-footed creatures.</span>

@@ -98,25 +98,25 @@ wisdom: '+1'
 
 Creatures that once held particular items dear can be bound to them after death, their souls inhabiting the item from within. These might be the faithful haunting symbols of their faith, warriors clinging to their old weapons, or the greedy inhabiting their precious wealth. These spirits' physical bodies have long since degraded, but they keep their corrupted relics pristine. The spirits manifest on the unsuspecting or curious, determined to destroy anyone who would dare show any interest in their one precious possession.
  Though rare, there are several kinds of corrupted relics. The bound spirit can manifest in different ways, from animating an ancient weapon to possessing anyone who dons the item. Destroying the relic often ends up being the simplest, most direct way to banish the haunt itself. Destroying or dispelling the spirit without destroying the relic, however, can sometimes leave priceless treasure behind.
- The amulet shown here has the air and death aspects. Its minor gifts, [[Deadly Spark]] and [[Death Gaze]], power some of the spirit's abilities. Someone who claims the relic might gain different gifts from those aspects.
-**Recall Knowledge - Spirit ([[Occultism]])**: DC 24
-**Recall Knowledge - Undead ([[Religion]])**: DC 24
+ The amulet shown here has the air and death aspects. Its minor gifts, [[DATABASE/relic/Deadly Spark|deadly spark]] and [[DATABASE/relic/Death Gaze|death gaze]], power some of the spirit's abilities. Someone who claims the relic might gain different gifts from those aspects.
+**Recall Knowledge - Spirit ([[DATABASE/skill/Occultism|Occultism]])**: DC 24
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 24
 **Unspecific Lore**: DC 22
 **Specific Lore**: DC 19
 
 # Corrupted Relic<span class="item-type">Creature 4</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Incorporeal</span><span class="item-trait">Spirit</span><span class="item-trait">Undead</span>
-**Source** [[Bestiary 3]]
-**Perception** +9; [[Darkvision]], [[Lifesense]] (imprecise) 60 feet
-**Languages** [[Common]], [[Elven]]
-**Skills** [[Acrobatics]] +11, [[Intimidation]] +10, [[Stealth]] +11
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
+**Perception** +9; [[DATABASE/monsterability/Darkvision|darkvision]], [[DATABASE/monsterability/Lifesense|lifesense]] (imprecise) 60 feet
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Elven|Elven]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +11, [[DATABASE/skill/Intimidation|Intimidation]] +10, [[DATABASE/skill/Stealth|Stealth]] +11
 **Str** -5, **Dex** +3, **Con** +0, **Int** +1, **Wis** +1, **Cha** +4
 **Items** amulet
 
 ---
 **AC** 19; **Fort** +6, **Ref** +11, **Will** +11
-**HP** 50 ([[Negative Healing]]); **Immunities** death effects, disease, [[Paralyzed]], poison, precision, [[Unconscious]]; **Resistances** all 5 (except force, [[Ghost Touch]], or positive; double resistance vs. non-magical)
+**HP** 50 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects, disease, [[DATABASE/condition/Paralyzed|paralyzed]], poison, precision, [[DATABASE/condition/Unconscious|unconscious]]; **Resistances** all 5 (except force, [[DATABASE/equipment/Ghost Touch|ghost touch]], or positive; double resistance vs. non-magical)
 <span class="in-box-ability">**Amulet Relic** (curse, divine, necromancy) The corrupted relic is an amulet cursed to contain a malevolent spirit. The statistics in this stat block are for the spirit when it's manifested (see Manifest). The amulet can't take any actions except Sudden Manifestation and Manifest. As long as the spirit is manifested, the amulet is immune to spells and magical abilities and uses the saves listed here.</span><span class="in-box-ability"> Regardless of whether the spirit is manifested, the amulet can be targeted by Strikes (AC 21, Hardness 5, BT 10). It is not incorporeal. If the amulet becomes broken, the spirit is bound within and can't Manifest, and if the amulet is destroyed, so is the spirit. Destroying the spirit frees the amulet from its curse.</span><span class="in-box-ability">**Sudden Manifestation <span class="action-icon">5</span> ** **Trigger** The relic detects a creature using its lifesense; **Effect** The relic Manifests. If this causes an encounter to begin, the relic gains a +4 status bonus to its initiative roll.</span>
 
 ---

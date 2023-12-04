@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -57,7 +58,7 @@ weapon_type: null
 # Balisse Feather<span class="item-type">Item 12</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Divine</span><span class="item-trait">Evocation</span><span class="item-trait">Magical</span><span class="item-trait">Talisman</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Price** 400 gp
 **Usage** affixed to a weapon; **Bulk** —
 **Activate** <span class="action-icon">4</span> envision **Trigger** You deal damage using the affixed weapon to a creature you have seen commit an evil act.

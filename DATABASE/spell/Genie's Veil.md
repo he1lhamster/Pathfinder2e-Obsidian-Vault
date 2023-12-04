@@ -20,6 +20,7 @@ patron_theme: null
 range: 30 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
@@ -36,10 +37,10 @@ type: Focus
 # Genie's Veil<span class="item-type">Focus 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Abjuration</span><span class="item-trait">Sorcerer</span>
-**Source** [[Advanced Player's Guide]] 
-**Bloodline** [[Genie]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Bloodline** [[DATABASE/sorcererbloodline/Genie|genie]]
 **Cast** <span class="action-icon">5</span> somatic; **Trigger** A creature within range is attacked.
 **Range** 30 feet; **Targets** 1 willing creature
 
 ---
-With a flourish, you fulfill a creature's wish for protection, bending reality to keep them from harm. The target vanishes in a burst of brightly colored smoke and sparkles, reappearing an instant later. They become [[Concealed]] against the triggering attack and until the end of the current creature's turn.
+With a flourish, you fulfill a creature's wish for protection, bending reality to keep them from harm. The target vanishes in a burst of brightly colored smoke and sparkles, reappearing an instant later. They become [[DATABASE/condition/Concealed|concealed]] against the triggering attack and until the end of the current creature's turn.

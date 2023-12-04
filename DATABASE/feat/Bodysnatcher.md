@@ -11,6 +11,7 @@ name: Bodysnatcher
 prerequisite: '[[DATABASE/feat/Secret Eater|Secret Eater]]'
 rarity: Rare
 requirement: null
+rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Pathfinder 184. The Ghouls Hunger|Pathfinder #184: The
   Ghouls Hunger]]'
@@ -28,12 +29,12 @@ type: Feat
 # Bodysnatcher <span class="item-type">Feat 14</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Archetype</span><span class="item-trait">Divine</span><span class="item-trait">Polymorph</span><span class="item-trait">Transmutation</span>
-**Source** [[Pathfinder 184. The Ghouls Hunger]]
-**Archetype** [[Ghoul]]
-**Prerequisites** [[Secret Eater]]
+**Source** [[DATABASE/source/Pathfinder 184. The Ghouls Hunger|Pathfinder #184: The Ghouls Hunger]]
+**Archetype** [[DATABASE/archetype/Ghoul|Ghoul]]
+**Prerequisites** [[DATABASE/feat/Secret Eater|Secret Eater]]
 
 ---
-Your secret-stealing maggots reveal how to devour more than just the flesh and secrets of a victim; you can ingest and assume their whole physical appearance. When you [[Ghoul Dedication]] of a creature of your size or smaller, you can assume the physical form of the creature immediately after becoming satiated or fully satiated. Using Bodysnatcher counts as creating a disguise for the [[Impersonate]] use of [[Deception]]. Your transformation automatically defeats Perception DCs to determine you are a member of the ancestry or creature type into which you transformed, and you gain a +4 circumstance bonus to your Deception DC to prevent others from seeing through your disguise. You do not gain the special abilities, skills, voice, memories, or other characteristics of the creature you consumed, only their physical form. Unlike [[Change Shape]], Bodysnatcher can be used to gain the appearance of a specific individual whose flesh you've consumed. This effect lasts until you are no longer satiated and can only be used once per individual creature.
+Your secret-stealing maggots reveal how to devour more than just the flesh and secrets of a victim; you can ingest and assume their whole physical appearance. When you [[DATABASE/feat/Ghoul Dedication|Consume Flesh]] of a creature of your size or smaller, you can assume the physical form of the creature immediately after becoming satiated or fully satiated. Using Bodysnatcher counts as creating a disguise for the [[DATABASE/action/Impersonate|Impersonate]] use of [[DATABASE/skill/Deception|Deception]]. Your transformation automatically defeats Perception DCs to determine you are a member of the ancestry or creature type into which you transformed, and you gain a +4 circumstance bonus to your Deception DC to prevent others from seeing through your disguise. You do not gain the special abilities, skills, voice, memories, or other characteristics of the creature you consumed, only their physical form. Unlike [[DATABASE/monsterability/Change Shape|Change Shape]], Bodysnatcher can be used to gain the appearance of a specific individual whose flesh you've consumed. This effect lasts until you are no longer satiated and can only be used once per individual creature.
 
 ## Traits
 
@@ -52,7 +53,7 @@ These effects transform the target into a new form. A target can't be under the 
 
 **Rare:**
 
-This rarity indicates that a rules element is very difficult to find in the game world. A rare feat, spell, item or the like is available to players only if the GM decides to include it in the game, typically through discovery during play. Creatures with this trait are rare. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creatures is increased by 5.
+This rarity indicates that a rules element is very difficult to find in the game world. A rare feat, spell, item or the like is available to players only if the GM decides to include it in the game, typically through discovery during play. Creatures with this trait are rare. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creatures is increased by 5.
 
 **Transmutation:**
 

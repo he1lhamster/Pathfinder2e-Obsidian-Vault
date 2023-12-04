@@ -2,6 +2,7 @@
 id: '101'
 name: Ancient Osiriani
 rarity: Rare
+rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 184. The Ghouls Hunger|Pathfinder #184: The
   Ghouls Hunger]]'
 trait:
@@ -11,9 +12,9 @@ type: Language
 ---
 # Ancient Osiriani
 
-**Source** [[Pathfinder 184. The Ghouls Hunger]]
+**Source** [[DATABASE/source/Pathfinder 184. The Ghouls Hunger|Pathfinder #184: The Ghouls Hunger]]
 The below entries contain speakers of Ancient Osiriani.
 
 ## Monsters (2)
 
-[[Chancellor Kemnebi, Cunning Vampiric Mastermind]], [[Hyrune Loxenna, Blood Lord Of Geb]]
+[[DATABASE/monster/Chancellor Kemnebi, Cunning Vampiric Mastermind|Chancellor Kemnebi]], [[DATABASE/monster/Hyrune Loxenna, Blood Lord Of Geb|Hyrune Loxenna]]

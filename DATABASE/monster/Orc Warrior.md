@@ -67,19 +67,19 @@ wisdom: '+1'
 # Orc Warrior
 
 The typical orc warrior is a violent combatant familiar to many adventurers. Orc warriors fight for their clan, for riches, and— perhaps most of all—for personal glory.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 15
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Orc Warrior<span class="item-type">Creature 1</span>
 
 <span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Humanoid</span><span class="item-trait">Orc</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +6; darkvision
-**Languages** [[Orcish]]
-**Skills** [[Athletics]] +7, [[Intimidation]] +4, [[Survival]] +4
+**Languages** [[DATABASE/language/Orcish|Orcish]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +7, [[DATABASE/skill/Intimidation|Intimidation]] +4, [[DATABASE/skill/Survival|Survival]] +4
 **Str** +4, **Dex** +2, **Con** +3, **Int** -1, **Wis** +1, **Cha** +0
-**Items** [[Breastplate]], [[Javelin]], [[Orc Necksplitter]], [[Shortsword]]
+**Items** [[DATABASE/armor/Breastplate|breastplate]], [[DATABASE/weapon/Javelin|javelin (4)]], [[DATABASE/weapon/Orc Necksplitter|orc necksplitter]], [[DATABASE/weapon/Shortsword|shortsword (2)]]
 
 ---
 **AC** 18; **Fort** +8, **Ref** +7, **Will** +4

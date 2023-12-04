@@ -11,6 +11,7 @@ name: Steel Your Resolve
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Steel Your Resolve <span class="action-icon">1</span> <span class="item-type">Feat 3</span>
 
 <span class="item-trait">General</span><span class="item-trait">Stamina</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Cost** 1 Resolve Point
 
 ---

@@ -7,6 +7,7 @@ id: '702'
 name: Invoke Celestial Privilege
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 trait: null
@@ -17,7 +18,7 @@ type: Action
 ---
 # Invoke Celestial Privilege <span class="action-icon">5</span>
 
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 **Trigger** You attempt a saving throw against a divine effect, but you haven't rolled yet.
 
 ---

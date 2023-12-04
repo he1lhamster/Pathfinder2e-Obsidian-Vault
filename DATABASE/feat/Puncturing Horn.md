@@ -11,6 +11,7 @@ name: Puncturing Horn
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -23,15 +24,15 @@ type: Feat
 # Puncturing Horn <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Kashrishi</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 
 ---
-While many kashrishi never use their horns for more than cracking open hard-shelled fruits or amplifying their psychic powers, you've practiced using yours offensively. You gain a horn unarmed attack that deals 1d6 piercing damage. Your horn is in the [[Brawling]] group and has the finesse and unarmed traits.
-**Special** If you have the [[Xyloshi]] heritage, your horn instead deals 1d8 piercing damage.
+While many kashrishi never use their horns for more than cracking open hard-shelled fruits or amplifying their psychic powers, you've practiced using yours offensively. You gain a horn unarmed attack that deals 1d6 piercing damage. Your horn is in the [[DATABASE/weapongroup/Brawling|brawling]] group and has the finesse and unarmed traits.
+**Special** If you have the [[DATABASE/heritage/Xyloshi|xyloshi]] heritage, your horn instead deals 1d8 piercing damage.
 
 ## Puncturing Horn Leads To...
 
-[[Fighting Horn]]
+[[DATABASE/feat/Fighting Horn|Fighting Horn]]
 
 ## Traits
 

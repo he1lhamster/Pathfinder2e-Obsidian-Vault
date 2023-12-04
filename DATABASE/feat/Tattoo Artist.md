@@ -11,6 +11,7 @@ name: Tattoo Artist
 prerequisite: Trained in [[DATABASE/skill/Crafting|Crafting]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 subcategory: crafting
@@ -24,16 +25,16 @@ type: Feat
 # Tattoo Artist <span class="item-type">Feat 2</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Treasure Vault]] , [[Secrets of Magic]] 
-**Archetype** [[Runelord]]
-**Prerequisites** trained in [[Crafting]]
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] , [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
+**Archetype** [[DATABASE/archetype/Runelord|Runelord]]
+**Prerequisites** trained in [[DATABASE/skill/Crafting|Crafting]]
 
 ---
-You can craft tattoos, including magical tattoos. When you select this feat, you gain the formulas for four common magical tattoos of 2nd level or lower. You gain a +1 circumstance bonus to [[Crafting]] checks to [[Craft]] tattoos. If you're a master in Crafting, this bonus increases to +2 and you gain the formulas for four common magical tattoos of 7th level or lower.
+You can craft tattoos, including magical tattoos. When you select this feat, you gain the formulas for four common magical tattoos of 2nd level or lower. You gain a +1 circumstance bonus to [[DATABASE/skill/Crafting|Crafting]] checks to [[DATABASE/action/Craft|Craft]] tattoos. If you're a master in Crafting, this bonus increases to +2 and you gain the formulas for four common magical tattoos of 7th level or lower.
 
 ## Tattoo Artist Leads To...
 
-[[Legendary Tattoo Artist]]
+[[DATABASE/feat/Legendary Tattoo Artist|Legendary Tattoo Artist]]
 
 ## Traits
 

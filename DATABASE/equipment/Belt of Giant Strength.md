@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -53,7 +54,7 @@ weapon_type: null
 # Belt of Giant Strength<span class="item-type">Item 17</span>
 
 <span class="item-trait">Apex</span><span class="item-trait">Invested</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 15,000 gp
 **Usage** worn belt; **Bulk** L
 

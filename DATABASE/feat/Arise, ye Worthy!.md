@@ -11,6 +11,7 @@ name: Arise, ye Worthy!
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Arise, ye Worthy! <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Ganzi</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-You are descended from the valkyries who protect worthy souls, and can hold back death's grasp. You can cast [[Breath of Life]] as a divine innate spell once per day.
+You are descended from the valkyries who protect worthy souls, and can hold back death's grasp. You can cast [[DATABASE/spell/Breath of Life|breath of life]] as a divine innate spell once per day.
 
 ## Traits
 

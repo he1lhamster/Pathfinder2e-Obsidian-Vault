@@ -11,6 +11,7 @@ name: Advanced Arcana
 prerequisite: '[[DATABASE/feat/Basic Arcana|Basic Arcana]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Advanced Arcana <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Wizard]]
-**Prerequisites** [[Basic Arcana]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Wizard|Wizard]]
+**Prerequisites** [[DATABASE/feat/Basic Arcana|Basic Arcana]]
 
 ---
 You gain one wizard feat. For the purpose of meeting its prerequisites, your wizard level is equal to half your character level.

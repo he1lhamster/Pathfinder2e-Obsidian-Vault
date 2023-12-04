@@ -81,12 +81,12 @@ This creature did not include a description.
 # Mother Mitera<span class="item-type">Creature 8</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Perception** +18
-**Languages** [[Common]]
-**Skills** [[Deception]] +20, [[Diplomacy]] +18, [[Lore]] +16, [[Nature]] +18, [[Religion]] +18, [[Society]] +16
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Deception|Deception]] +20, [[DATABASE/skill/Diplomacy|Diplomacy]] +18, [[DATABASE/skill/Lore|Ludovica Lore]] +16, [[DATABASE/skill/Nature|Nature]] +18, [[DATABASE/skill/Religion|Religion]] +18, [[DATABASE/skill/Society|Society]] +16
 **Str** +1, **Dex** +3, **Con** +0, **Int** +2, **Wis** +4, **Cha** +4
-**Items** _+1 [[Striking]] [[Dagger]]_, ceremonial robes, crystal flower crown
+**Items** _+1 [[DATABASE/equipment/Striking|striking]] [[DATABASE/weapon/Dagger|dagger]]_, ceremonial robes, crystal flower crown
 
 ---
 **AC** 25; **Fort** +14, **Ref** +17, **Will** +18
@@ -95,5 +95,5 @@ This creature did not include a description.
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> dagger +18 [+14/+10] (agile, finesse, magical, versatile S), **Damage** 2d4+7 piercing plus 1d6 mental and 1d6 [[Persistent Damage]]</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> dagger +18 [+14/+10] (agile, magical, thrown, versatile S), **Damage** 2d4+7 piercing plus 1d6 mental and 1d6 [[Persistent Damage]]</span>**Primal Prepared Spells** DC 26, attack +18; **4th** _[[Freedom of Movement]]_, _[[Murderous Vine]]_, _[[Petal Storm]]_; **3rd** _[[Lightning Bolt]]_, _[[Mind of Menace]]_, _[[Soothing Blossoms]]_; **2nd** _[[Entangle]]_, _[[Glitterdust]]_, _[[Tree Shape]]_; **Cantrips** **(4th)** _[[Dancing Lights]]_, _[[Guidance]]_, _[[Message]]_, _[[Ray of Frost]]_, _[[Tanglefoot]]_
-<span class="in-box-ability">**Ascension is Near** <span class="action-icon">1</span> (auditory, concentrate, emotion, incapacitation, mental) **Frequency** once per ascension ritual; **Effect** Mitera activates the moonflower link with her followers. Any followers within 30 feet who failed their saving throw against the moonflower tea become [[Sickened]]. Anyone who critically failed and did not receive an antidote explodes (this is about half of Mitera's congregation if the PCs didn't successfully administer the antidote). If anyone's body explodes, Mitera gains 30 temporary Hit Points and is [[Quickened]] for 3 rounds; she can use this additional action each round only for Strike and Stride actions.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> dagger +18 [+14/+10] (agile, finesse, magical, versatile S), **Damage** 2d4+7 piercing plus 1d6 mental and 1d6 [[DATABASE/condition/Persistent Damage|persistent bleed]]</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> dagger +18 [+14/+10] (agile, magical, thrown, versatile S), **Damage** 2d4+7 piercing plus 1d6 mental and 1d6 [[DATABASE/condition/Persistent Damage|persistent bleed]]</span>**Primal Prepared Spells** DC 26, attack +18; **4th** _[[DATABASE/spell/Freedom of Movement|freedom of movement]]_, _[[DATABASE/spell/Murderous Vine|murderous vine]]_, _[[DATABASE/spell/Petal Storm|petal storm]]_; **3rd** _[[DATABASE/spell/Lightning Bolt|lightning bolt]]_, _[[DATABASE/spell/Mind of Menace|mind of menace]]_, _[[DATABASE/spell/Soothing Blossoms|soothing blossoms]]_; **2nd** _[[DATABASE/spell/Entangle|entangle]]_, _[[DATABASE/spell/Glitterdust|glitterdust]]_, _[[DATABASE/spell/Tree Shape|tree shape]]_; **Cantrips** **(4th)** _[[DATABASE/spell/Dancing Lights|dancing lights]]_, _[[DATABASE/spell/Guidance|guidance]]_, _[[DATABASE/spell/Message|message]]_, _[[DATABASE/spell/Ray of Frost|ray of frost]]_, _[[DATABASE/spell/Tanglefoot|tanglefoot]]_
+<span class="in-box-ability">**Ascension is Near** <span class="action-icon">1</span> (auditory, concentrate, emotion, incapacitation, mental) **Frequency** once per ascension ritual; **Effect** Mitera activates the moonflower link with her followers. Any followers within 30 feet who failed their saving throw against the moonflower tea become [[DATABASE/condition/Sickened|sickened 1]]. Anyone who critically failed and did not receive an antidote explodes (this is about half of Mitera's congregation if the PCs didn't successfully administer the antidote). If anyone's body explodes, Mitera gains 30 temporary Hit Points and is [[DATABASE/condition/Quickened|quickened]] for 3 rounds; she can use this additional action each round only for Strike and Stride actions.</span>

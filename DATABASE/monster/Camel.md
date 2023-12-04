@@ -94,18 +94,18 @@ For generations untold, nomads and traders have relied on sure-footed camels to 
 One-humped camels, also called dromedaries, are more common in the deserts of northern Garund, while the two-humped variety are native to the dry steppes of Casmaron. Both species have tall and lanky builds, standing about 6 feet at the shoulder and weighing around 2,000 pounds. They can be ornery when mishandled, and they don't hesitate to bite, kick, or even spit a noxious substance on riders who don't treat them well.
  
  In addition to transporting people and goods, camels are a key source of fiber for clothing and tents as well as milk. Their meat is highly nutritious and surprisingly tasty, but given the creatures' utility, this use is reserved for special occasions or truly dire situations.
-**Recall Knowledge - Animal ([[Nature]])**: DC 15
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Camel<span class="item-type">Creature 1</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary 3]]
-**Perception** +4; [[Low-Light Vision]], [[Scent]] (imprecise) 30 feet
-**Skills** [[Acrobatics]] +6, [[Athletics]] +7, [[Survival]] +6
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
+**Perception** +4; [[DATABASE/monsterability/Low-Light Vision|low-light vision]], [[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +6, [[DATABASE/skill/Athletics|Athletics]] +7, [[DATABASE/skill/Survival|Survival]] +6
 **Str** +4, **Dex** +3, **Con** +4, **Int** -4, **Wis** +1, **Cha** -1
-**Desert-Adapted** A camel is well-adapted to heat and deserts. If allowed to drink and eat its fill, (roughly 40 gallons), it can [[Subsist]] for 2 weeks without needing to attempt [[Survival]] checks, and it treats environmental heat as if it was one step less severe.
+**Desert-Adapted** A camel is well-adapted to heat and deserts. If allowed to drink and eat its fill, (roughly 40 gallons), it can [[DATABASE/action/Subsist|Subsist]] for 2 weeks without needing to attempt [[DATABASE/skill/Survival|Survival]] checks, and it treats environmental heat as if it was one step less severe.
 
 ---
 **AC** 15; **Fort** +9, **Ref** +8, **Will** +4
@@ -113,7 +113,7 @@ One-humped camels, also called dromedaries, are more common in the deserts of no
 
 ---
 **Speed** 35 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +7 [+2/-3], **Damage** 1d6+4 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> spit +6 [+1/-4], **Effect** camel spit</span><span class="in-box-ability">**Camel Spit** To drive away enemies, the camel spits the partially digested contents of its stomach at a creature within 10 feet. On a hit, the target is [[Dazzled]] for 1 round and must succeed at a DC 17 Fortitude save or become [[Sickened]]. The camel can't use its camel spit Strike again for 1d4 rounds.</span><span class="in-box-ability">**Sand Stride** <span class="action-icon">2</span> The camel Strides twice. It has a +5-foot circumstance bonus to its Speed during these Strides, ignoring difficult terrain caused by rubble, sand, and uneven ground made of earth and stone.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +7 [+2/-3], **Damage** 1d6+4 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> spit +6 [+1/-4], **Effect** camel spit</span><span class="in-box-ability">**Camel Spit** To drive away enemies, the camel spits the partially digested contents of its stomach at a creature within 10 feet. On a hit, the target is [[DATABASE/condition/Dazzled|dazzled]] for 1 round and must succeed at a DC 17 Fortitude save or become [[DATABASE/condition/Sickened|sickened 1]]. The camel can't use its camel spit Strike again for 1d4 rounds.</span><span class="in-box-ability">**Sand Stride** <span class="action-icon">2</span> The camel Strides twice. It has a +5-foot circumstance bonus to its Speed during these Strides, ignoring difficult terrain caused by rubble, sand, and uneven ground made of earth and stone.</span>
 
 ###  Camel Cousins
 

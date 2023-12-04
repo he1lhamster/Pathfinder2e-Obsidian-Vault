@@ -83,29 +83,29 @@ wisdom: '+5'
 # Soul Swarm
 
 This creature did not include a description.
-**Recall Knowledge - Spirit ([[Occultism]])**: DC 36
-**Recall Knowledge - Undead ([[Religion]])**: DC 36
+**Recall Knowledge - Spirit ([[DATABASE/skill/Occultism|Occultism]])**: DC 36
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 36
 **Unspecific Lore**: DC 34
 **Specific Lore**: DC 31
 
 # Soul Swarm<span class="item-type">Creature 13</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Gargantuan</span><span class="item-trait">Ghost</span><span class="item-trait">Incorporeal</span><span class="item-trait">Spirit</span><span class="item-trait">Troop</span><span class="item-trait">Undead</span>
-**Source** [[Pathfinder 172. Secrets of the Temple City]]
-**Perception** +24; [[Darkvision]]
-**Languages** [[Common]]
-**Skills** [[Religion]] +26, [[Stealth]] +24
+**Source** [[DATABASE/source/Pathfinder 172. Secrets of the Temple City|Pathfinder #172: Secrets of the Temple City]]
+**Perception** +24; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Religion|Religion]] +26, [[DATABASE/skill/Stealth|Stealth]] +24
 **Str** -5, **Dex** +5, **Con** +3, **Int** +2, **Wis** +5, **Cha** +4
 
 ---
 **AC** 28; **Fort** +22, **Ref** +18, **Will** +23
-**HP** 234; **Thresholds** 156 (12 squares), 78 (8 squares); **Resistances** all damage 5 (except force, [[Ghost Touch]], or positive; double resistance vs. non-magical); **Weaknesses** area damage 15, good 15, splash damage 15
-<span class="in-box-ability">**[[Frightful Presence]]** (aura, auditory, emotion, fear, mental) 60 feet, DC 30</span><span class="in-box-ability">**[[Troop Defenses]]** </span>
+**HP** 234; **Thresholds** 156 (12 squares), 78 (8 squares); **Resistances** all damage 5 (except force, [[DATABASE/equipment/Ghost Touch|ghost touch]], or positive; double resistance vs. non-magical); **Weaknesses** area damage 15, good 15, splash damage 15
+<span class="in-box-ability">**[[DATABASE/monsterability/Frightful Presence|Frightful Presence]]** (aura, auditory, emotion, fear, mental) 60 feet, DC 30</span><span class="in-box-ability">**[[DATABASE/monsterability/Troop Defenses|Troop Defenses]]** </span>
 
 ---
-**Speed** 30 feet; [[Air Walk]], troop movement
-**Divine Innate Spells** DC 30; **Constant** **(4th)** _[[Air Walk]]_
-<span class="in-box-ability">**Cosmic Explosion** <span class="action-icon">2</span> The soul swarm unleashes a blast of burning sunlight or moonlight, dealing 4d8+6 fire damage to creatures in a 10-foot burst within 20 feet (DC 30 basic Reflex save). When the soul swarm is reduced to 8 or fewer squares, this decreases to a 5-foot burst.</span><span class="in-box-ability">**[[Form Up]]** <span class="action-icon">1</span> </span><span class="in-box-ability">**Soul Grasp** <span class="action-icon">1</span> to <span class="action-icon">3</span> **Frequency** once per round; **Effect** The soul swarm reaches out and tries to tear at the spiritual energy of enemies within 5 feet (DC 32 basic Reflex save). The soul swarm can choose to deal slashing damage as it cuts away at a creature, fire damage as it burns other souls away, or negative damage as it attempts to unmake a soul. The damage depends on the number of actions. 
+**Speed** 30 feet; [[DATABASE/spell/Air Walk|air walk]], troop movement
+**Divine Innate Spells** DC 30; **Constant** **(4th)** _[[DATABASE/spell/Air Walk|air walk]]_
+<span class="in-box-ability">**Cosmic Explosion** <span class="action-icon">2</span> The soul swarm unleashes a blast of burning sunlight or moonlight, dealing 4d8+6 fire damage to creatures in a 10-foot burst within 20 feet (DC 30 basic Reflex save). When the soul swarm is reduced to 8 or fewer squares, this decreases to a 5-foot burst.</span><span class="in-box-ability">**[[DATABASE/monsterability/Form Up|Form Up]]** <span class="action-icon">1</span> </span><span class="in-box-ability">**Soul Grasp** <span class="action-icon">1</span> to <span class="action-icon">3</span> **Frequency** once per round; **Effect** The soul swarm reaches out and tries to tear at the spiritual energy of enemies within 5 feet (DC 32 basic Reflex save). The soul swarm can choose to deal slashing damage as it cuts away at a creature, fire damage as it burns other souls away, or negative damage as it attempts to unmake a soul. The damage depends on the number of actions. 
  <span class="action-icon">1</span> 2d6+1 damage 
  <span class="action-icon">2</span> 4d6+11 damage 
  <span class="action-icon">3</span> 6d6+11 damage</span><span class="in-box-ability">**Troop Movement** Whenever the soul swarm Strides, the soul swarm first Forms Up as a free action to condense into a 20-foot-by-20-foot area (minus any missing squares), then moves. This works just like a Gargantuan creature moving; for instance, if any square of the soul swarm enters difficult terrain, the extra movement cost applies to the whole soul swarm.</span>

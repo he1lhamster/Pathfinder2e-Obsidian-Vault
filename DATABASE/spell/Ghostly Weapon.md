@@ -28,6 +28,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -44,12 +45,12 @@ type: Spell
 # Ghostly Weapon<span class="item-type">Spell 3</span>
 
 <span class="item-trait">Transmutation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult
-**Deities** [[Atreia]], [[Falayna]], [[Gravelady's Guard]], [[Pharasma]]
+**Deities** [[DATABASE/deity/Atreia|Atreia]], [[DATABASE/deity/Falayna|Falayna]], [[DATABASE/deity/Gravelady's Guard|Gravelady's Guard]], [[DATABASE/deity/Pharasma|Pharasma]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** touch; **Targets** 1 weapon that is either unattended or wielded by you or a willing ally
 **Duration** 5 minutes
 
 ---
-The target weapon becomes translucent and ghostly, and it can affect material and incorporeal creatures and objects. It can be wielded by a corporeal or incorporeal creature and gains the effects of the [[Ghost Touch]] property rune. If the weapon is magical and already has the maximum number of property runes, the wielder can choose one to suppress to gain _ghost touch_.
+The target weapon becomes translucent and ghostly, and it can affect material and incorporeal creatures and objects. It can be wielded by a corporeal or incorporeal creature and gains the effects of the [[DATABASE/equipment/Ghost Touch|ghost touch]] property rune. If the weapon is magical and already has the maximum number of property runes, the wielder can choose one to suppress to gain _ghost touch_.

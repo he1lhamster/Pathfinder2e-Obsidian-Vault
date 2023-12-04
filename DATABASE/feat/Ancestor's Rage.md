@@ -11,6 +11,7 @@ name: Ancestor's Rage
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Ancestor's Rage <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Gnoll</span>
-**Source** [[The Mwangi Expanse]]
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]
 
 ---
-You transform into an enormous otherworldly hyena. You can cast [[Animal Form]] (canine form only) once per day as a 5th-level occult innate spell.
+You transform into an enormous otherworldly hyena. You can cast [[DATABASE/spell/Animal Form|animal form]] (canine form only) once per day as a 5th-level occult innate spell.
 
 ## Traits
 

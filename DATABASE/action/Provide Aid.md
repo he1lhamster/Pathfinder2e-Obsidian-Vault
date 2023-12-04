@@ -8,6 +8,7 @@ name: Provide Aid
 rarity: Common
 requirement: The ally is willing to accept your aid on a [[DATABASE/trait/Camping|Camping]]
   activity that requires a check for success.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 trait:
@@ -20,7 +21,7 @@ type: Action
 # Provide Aid
 
 <span class="item-trait">Camping</span><span class="item-trait">Concentrate</span>
-**Source** [[Kingmaker Companion Guide]]
+**Source** [[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]
 **Requirements** The ally is willing to accept your aid on a Camping activity that requires a check for success.
 
 ---

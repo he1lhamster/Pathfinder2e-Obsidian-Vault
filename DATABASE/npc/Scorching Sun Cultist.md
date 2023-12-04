@@ -62,19 +62,19 @@ wisdom: '+1'
 # Scorching Sun Cultist
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 18
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Scorching Sun Cultist<span class="item-type">Creature 2</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[The Enmity Cycle]]
+**Source** [[DATABASE/source/The Enmity Cycle|The Enmity Cycle]]
 **Perception** +9
-**Languages** [[Common]]
-**Skills** [[Athletics]] +7, [[Deception]] +8, [[Religion]] +6, [[Stealth]] +5
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +7, [[DATABASE/skill/Deception|Deception]] +8, [[DATABASE/skill/Religion|Religion]] +6, [[DATABASE/skill/Stealth|Stealth]] +5
 **Str** +4, **Dex** +1, **Con** +3, **Int** +1, **Wis** +1, **Cha** +3
-**Items** crude wooden [[Religious Symbol]] of [[Sarenrae]], robes, [[Scimitar]], [[Scorpion Whip]]
+**Items** crude wooden [[DATABASE/equipment/Religious Symbol|religious symbol]] of [[DATABASE/deity/Sarenrae|Sarenrae]], robes, [[DATABASE/weapon/Scimitar|scimitar]], [[DATABASE/weapon/Scorpion Whip|scorpion whip]]
 
 ---
 **AC** 17; **Fort** +11, **Ref** +8, **Will** +5

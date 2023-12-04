@@ -65,16 +65,16 @@ wisdom: '+1'
 # Tree Fisher
 
 This creature did not include a description.
-**Recall Knowledge - Animal ([[Nature]])**: DC 20
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 20
 **Unspecific Lore**: DC 18
 **Specific Lore**: DC 15
 
 # Tree Fisher<span class="item-type">Creature 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Animal</span>
-**Source** [[Pathfinder 187. The Seventh Arch]]
-**Perception** +9; [[I]]
-**Skills** [[Athletics]] +12, [[Stealth]] +11
+**Source** [[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh Arch]]
+**Perception** +9; [[DATABASE/monster/I|low-light vision]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +12, [[DATABASE/skill/Stealth|Stealth]] +11
 **Str** +4, **Dex** +3, **Con** +3, **Int** -5, **Wis** +1, **Cha** -3
 
 ---
@@ -83,6 +83,6 @@ This creature did not include a description.
 
 ---
 **Speed** 15 feet, climb 15 feet
-<span class="in-box-ability">**Melee**claw +11 [+6/+1], **Damage** 2d6+5 slashing</span><span class="in-box-ability">**Ranged**harpoon +12 [+7/+2] (range 60 feet), **Damage** 2d6+5 piercing plus barbed filament</span><span class="in-box-ability">**Barbed Filament** A creature hit by the tree fisher's barbed filament is [[Grabbed]]. The tree fisher can move while it has a creature grabbed with its filament, but automatically releases the [[Grab]] if the tree fisher moves beyond the filament's 60-foot length. A creature grabbed by the filament at the beginning of its turn takes 5 bleed damage.
- The tree fisher can sever the filament and release any creature grabbed by it as a free action. The filament can be severed by a Strike that deals at least 10 slashing damage to it. This doesn't deal any damage to the tree fisher itself. The filament has AC 17, and its [[Escape]] DC is 19.
+<span class="in-box-ability">**Melee**claw +11 [+6/+1], **Damage** 2d6+5 slashing</span><span class="in-box-ability">**Ranged**harpoon +12 [+7/+2] (range 60 feet), **Damage** 2d6+5 piercing plus barbed filament</span><span class="in-box-ability">**Barbed Filament** A creature hit by the tree fisher's barbed filament is [[DATABASE/condition/Grabbed|grabbed]]. The tree fisher can move while it has a creature grabbed with its filament, but automatically releases the [[DATABASE/monsterability/Grab|Grab]] if the tree fisher moves beyond the filament's 60-foot length. A creature grabbed by the filament at the beginning of its turn takes 5 bleed damage.
+ The tree fisher can sever the filament and release any creature grabbed by it as a free action. The filament can be severed by a Strike that deals at least 10 slashing damage to it. This doesn't deal any damage to the tree fisher itself. The filament has AC 17, and its [[DATABASE/action/Escape|Escape]] DC is 19.
  The tree fisher has only one harpoon; if the filament is severed, the tree fisher loses this ability and its ranged attack for 1 week as it fashions a new harpoon.</span>

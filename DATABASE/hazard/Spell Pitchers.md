@@ -15,6 +15,7 @@ name: Spell Pitchers
 rarity: Common
 reflex: '+5'
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 trait:
@@ -28,13 +29,13 @@ will: null
 # Spell Pitchers<span class="item-type">Hazard 1</span>
 
 <span class="item-trait">Environmental</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 **Complexity** Simple
 **Stealth** DC 20 (trained) to recognize the plant among others
 **Description** A large pitcher plant occupying a 5-foot space sits seemingly dormant with its dull petals open.
 
 ---
-**Disable** DC 15 [[Arcana]] (trained) to safely trigger the plant's reflexes, causing it to close and become dormant for one day, or DC 17 [[Nature]] (trained) to carefully coax the pitcher into quiescence
+**Disable** DC 15 [[DATABASE/skill/Arcana|Arcana]] (trained) to safely trigger the plant's reflexes, causing it to close and become dormant for one day, or DC 17 [[DATABASE/skill/Nature|Nature]] (trained) to carefully coax the pitcher into quiescence
 **AC** 16, **Fort** +11, **Ref** +5
 **HP** 40 (BT 20); **Immunities** mental, **Weaknesses** slashing 10
 **Devour Magic** <span class="action-icon">5</span> **Trigger** A spell's direct line of effect passes within a 5-foot-radius of the plant; **Effect** The pitcher attempts to counteract the spell (counteract level 1, counteract modifier +10). On a success, the pitcher immediately consumes the spell as it passes over the plant.

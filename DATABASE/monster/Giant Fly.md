@@ -69,16 +69,16 @@ wisdom: '+3'
 # Giant Fly
 
 This pony-sized fly's twitching limbs seem to never stop moving as it constantly cleans itself and scoops anything edible into its mouthparts. While primarily carrion eaters, giant flies sometimes prey on livestock or other animals too slow to get away.
-**Recall Knowledge - Animal ([[Nature]])**: DC 15
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Giant Fly<span class="item-type">Creature 1</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary 2]] 
-**Perception** +8; [[Darkvision]], [[Tremorsense]]
-**Skills** [[Acrobatics]] +7, [[Athletics]] +6
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +8; [[DATABASE/monsterability/Darkvision|darkvision]], [[DATABASE/monsterability/Tremorsense|tremorsense (imprecise) 30 feet]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +7, [[DATABASE/skill/Athletics|Athletics]] +6
 **Str** +3, **Dex** +4, **Con** +3, **Int** -5, **Wis** +3, **Cha** -5
 
 ---
@@ -88,7 +88,7 @@ This pony-sized fly's twitching limbs seem to never stop moving as it constantly
 
 ---
 **Speed** 20 feet, climb 20 feet, fly 40 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> mandibles +8 [+3/-2], **Damage** 1d6+3 piercing plus fly pox</span><span class="in-box-ability">**Fly Pox** (disease, virulent) A giant fly could carry any disease, but most transmit a virulent but not fatal infection called Fly Pox with their bite; **Saving Throw** DC 16 Fortitude; **Onset** 1 day; **Stage 1** [[Enfeebled]] (1 day); **Stage 2** as stage 1 (1 day); **Stage 3** enfeebled 2 (1 day); **Stage 4** as stage 3; **Stage 5** enfeebled 2 and [[Fatigued]] (1 day)</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> mandibles +8 [+3/-2], **Damage** 1d6+3 piercing plus fly pox</span><span class="in-box-ability">**Fly Pox** (disease, virulent) A giant fly could carry any disease, but most transmit a virulent but not fatal infection called Fly Pox with their bite; **Saving Throw** DC 16 Fortitude; **Onset** 1 day; **Stage 1** [[DATABASE/condition/Enfeebled|enfeebled 1]] (1 day); **Stage 2** as stage 1 (1 day); **Stage 3** enfeebled 2 (1 day); **Stage 4** as stage 3; **Stage 5** enfeebled 2 and [[DATABASE/condition/Fatigued|fatigued]] (1 day)</span>
 
 ###  Fly Species
 

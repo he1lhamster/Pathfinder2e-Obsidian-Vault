@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -56,12 +57,12 @@ weapon_type: null
 # Vine of Roses<span class="item-type">Item 9</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Evocation</span><span class="item-trait">Good</span><span class="item-trait">Light</span><span class="item-trait">Magical</span>
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 600 gp
 **Usage** held in 2 hands; **Bulk** 1
-**Base Weapon** [[Spiked Chain]]
+**Base Weapon** [[DATABASE/weapon/Spiked Chain|Spiked Chain]]
 
 ---
-This _+1 [[Striking]] [[Disrupting]] [[Spiked Chain]]_ comes in a rich, green color with rose petals painted on the handle in varying shades of red and pink. The chain seems to banish nearby shadows.
-**Activate** <span class="action-icon">1</span> Interact ; **Effect** You hold the chain out before you, and the weapon glows as bright as a [[Torch]]. You can suppress this light by Activating the weapon again.
-**Activate** <span class="action-icon">5</span> envision **Frequency** once per day; **Trigger** You critically succeed at a Strike against a fiend or undead; **Effect** The weapon unleashes its light in an attempt to destroy the target. The _vine of roses_ casts a 3rd-level [[Searing Light]] spell with the triggering creature as the target. In place of a spell attack roll, make a weapon attack roll with the _vine of roses_ using the same multiple attack penalty as the triggering Strike.
+This _+1 [[DATABASE/equipment/Striking|striking]] [[DATABASE/equipment/Disrupting|disrupting]] [[DATABASE/weapon/Spiked Chain|spiked chain]]_ comes in a rich, green color with rose petals painted on the handle in varying shades of red and pink. The chain seems to banish nearby shadows.
+**Activate** <span class="action-icon">1</span> Interact ; **Effect** You hold the chain out before you, and the weapon glows as bright as a [[DATABASE/equipment/Torch|torch]]. You can suppress this light by Activating the weapon again.
+**Activate** <span class="action-icon">5</span> envision **Frequency** once per day; **Trigger** You critically succeed at a Strike against a fiend or undead; **Effect** The weapon unleashes its light in an attempt to destroy the target. The _vine of roses_ casts a 3rd-level [[DATABASE/spell/Searing Light|searing light]] spell with the triggering creature as the target. In place of a spell attack roll, make a weapon attack roll with the _vine of roses_ using the same multiple attack penalty as the triggering Strike.

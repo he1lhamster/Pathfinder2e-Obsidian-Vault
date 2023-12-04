@@ -70,20 +70,20 @@ wisdom: '+3'
 # Morlock Scavenger
 
 The morlock scavenger is a lankier, smaller version of a typical morlock. Their stature allows them to wriggle into areas other morlocks can't access.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 15
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Morlock Scavenger<span class="item-type">Creature 1</span>
 
 <span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Small</span><span class="item-trait">Humanoid</span><span class="item-trait">Morlock</span>
-**Source** [[Pathfinder 163. Ruins of Gauntlight]]
-**Perception** +6; [[Darkvision]]
-**Languages** [[Undercommon]]
-**Skills** [[Acrobatics]] +7, [[Athletics]] +5 (+7 [[Climb]]), [[Stealth]] +7
+**Source** [[DATABASE/source/Pathfinder 163. Ruins of Gauntlight|Pathfinder #163: Ruins of Gauntlight]]
+**Perception** +6; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Undercommon|Undercommon]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +7, [[DATABASE/skill/Athletics|Athletics]] +5 (+7 [[DATABASE/action/Climb|Climbing]]), [[DATABASE/skill/Stealth|Stealth]] +7
 **Str** +2, **Dex** +4, **Con** +1, **Int** -2, **Wis** +3, **Cha** +1
-**[[Light Blindness]]** 
-**Items** [[Dagger]]
+**[[DATABASE/monsterability/Light Blindness|Light Blindness]]** 
+**Items** [[DATABASE/weapon/Dagger|dagger]]
 
 ---
 **AC** 16; **Fort** +4, **Ref** +9, **Will** +6; +2 status to all saves vs. disease and poison
@@ -91,7 +91,7 @@ The morlock scavenger is a lankier, smaller version of a typical morlock. Their 
 
 ---
 **Speed** 30 feet, climb 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> dagger +9 [+5/+1] (agile, finesse, versatile S), **Damage** 1d4+2 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +7 [+3/-1] (agile), **Damage** 1d4+2 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> dagger +9 [+5/+1] (agile, thrown 10 ft., versatile S), **Damage** 1d4+2 piercing</span><span class="in-box-ability">**Scuttling Attack** <span class="action-icon">2</span> The morlock scavenger Strides twice, ignoring difficult terrain caused by natural cavern features like rubble or stalagmites. At any point during its movement, the morlock can make a melee Strike against an enemy in its reach.</span><span class="in-box-ability">**[[Sneak Attack]]** The morlock deals an extra 1d6 precision damage to [[Flat-Footed]] creatures.</span><span class="in-box-ability">**Swarming Stance** A morlock can share the same space as another morlock, but no more than two morlocks can occupy the same space. When morlocks share the same space, they gain a +1 circumstance bonus to attack rolls.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> dagger +9 [+5/+1] (agile, finesse, versatile S), **Damage** 1d4+2 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +7 [+3/-1] (agile), **Damage** 1d4+2 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> dagger +9 [+5/+1] (agile, thrown 10 ft., versatile S), **Damage** 1d4+2 piercing</span><span class="in-box-ability">**Scuttling Attack** <span class="action-icon">2</span> The morlock scavenger Strides twice, ignoring difficult terrain caused by natural cavern features like rubble or stalagmites. At any point during its movement, the morlock can make a melee Strike against an enemy in its reach.</span><span class="in-box-ability">**[[DATABASE/monsterability/Sneak Attack|Sneak Attack]]** The morlock deals an extra 1d6 precision damage to [[DATABASE/condition/Flat-Footed|flat-footed]] creatures.</span><span class="in-box-ability">**Swarming Stance** A morlock can share the same space as another morlock, but no more than two morlocks can occupy the same space. When morlocks share the same space, they gain a +1 circumstance bonus to attack rolls.</span>
 
 ###  Morlock Machines
 

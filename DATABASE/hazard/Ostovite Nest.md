@@ -18,6 +18,7 @@ name: Ostovite Nest
 rarity: Rare
 reflex: '+5'
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie Feast]]'
 trait:
@@ -35,16 +36,16 @@ will: null
 # Ostovite Nest<span class="item-type">Hazard 2</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Complex</span><span class="item-trait">Environmental</span>
-**Source** [[Pathfinder 181. Zombie Feast]]
+**Source** [[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie Feast]]
 **Complexity** Complex
 **Stealth** +11 (trained)
 **Description** A nest of bones resembling an ant hill contains countless miniscule scavenger vermin with vicious, acid-dripping mandibles.
 
 ---
-**Disable** DC 18 [[Athletics]] (trained) to topple the mound and destroy it
+**Disable** DC 18 [[DATABASE/skill/Athletics|Athletics]] (trained) to topple the mound and destroy it
 **AC** 18, **Fort** +11, **Ref** +5
 **Hardness** 7, **HP** 30 (BT 15); **Immunities** acid, critical hits, object immunities, precision damage, **Weaknesses** area damage 5, bludgeoning 5, splash damage 5
-**Skittering Surge** <span class="action-icon">5</span> **Trigger** A creature comes within 15 feet of the nest; **Effect** A mass of skittering ostovite hatchlings crawls all over the nest, spewing acid in all directions. Each creature within 30 feet of the nest takes 1d10+4 acid damage (DC 18 basic Reflex save). A creature who fails the save also takes 1 [[Persistent Damage]]. The hazard then rolls initiative.
+**Skittering Surge** <span class="action-icon">5</span> **Trigger** A creature comes within 15 feet of the nest; **Effect** A mass of skittering ostovite hatchlings crawls all over the nest, spewing acid in all directions. Each creature within 30 feet of the nest takes 1d10+4 acid damage (DC 18 basic Reflex save). A creature who fails the save also takes 1 [[DATABASE/condition/Persistent Damage|persistent acid damage]]. The hazard then rolls initiative.
 
 ---
 **Routine** (1 action) The hazard makes an acid spew Strike against the nearest creature.

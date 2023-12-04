@@ -11,6 +11,7 @@ name: Envenomed Edge
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Envenomed Edge <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Grippli</span>
-**Source** [[The Mwangi Expanse]]
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]
 
 ---
-With a combination of your poison glands and herbal concoctions, you can consistently deliver venomous attacks when you hit an enemy's weak points. When you critically hit using a Strike with a weapon or unarmed attack and deal slashing or piercing damage with that Strike, you deal an additional 1d4 [[Persistent Damage]] to your target.
+With a combination of your poison glands and herbal concoctions, you can consistently deliver venomous attacks when you hit an enemy's weak points. When you critically hit using a Strike with a weapon or unarmed attack and deal slashing or piercing damage with that Strike, you deal an additional 1d4 [[DATABASE/condition/Persistent Damage|persistent poison damage]] to your target.
 
 ## Traits
 

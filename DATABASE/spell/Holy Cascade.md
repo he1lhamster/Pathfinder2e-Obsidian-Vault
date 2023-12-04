@@ -21,6 +21,7 @@ patron_theme: null
 range: 500 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: basicReflex
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -39,7 +40,7 @@ type: Spell
 # Holy Cascade<span class="item-type">Spell 4</span>
 
 <span class="item-trait">Evocation</span><span class="item-trait">Good</span><span class="item-trait">Positive</span><span class="item-trait">Water</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** divine
 **Cast** <span class="action-icon">2</span> somatic, verbal; **Cost** one vial of _holy water_
 **Range** 500 feet; **Area** 20-foot burst

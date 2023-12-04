@@ -31,6 +31,7 @@ patron_theme: null
 range: 500 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: basicReflex
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -48,10 +49,10 @@ type: Spell
 # Fireball<span class="item-type">Spell 3</span>
 
 <span class="item-trait">Evocation</span><span class="item-trait">Fire</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, primal
-**Bloodlines** [[Elemental]], [[Phoenix]]
-**Deities** [[Angradd]], [[Chohar]], [[Dahak]], [[Eiseth]], [[Sarenrae]], [[The Freeing Flame]], [[The Prismatic Ray]], [[Walkena]]
+**Bloodlines** [[DATABASE/sorcererbloodline/Elemental|elemental]], [[DATABASE/sorcererbloodline/Phoenix|phoenix]]
+**Deities** [[DATABASE/deity/Angradd|Angradd]], [[DATABASE/deity/Chohar|Chohar]], [[DATABASE/deity/Dahak|Dahak]], [[DATABASE/deity/Eiseth|Eiseth]], [[DATABASE/deity/Sarenrae|Sarenrae]], [[DATABASE/deity/The Freeing Flame|The Freeing Flame]], [[DATABASE/deity/The Prismatic Ray|The Prismatic Ray]], [[DATABASE/deity/Walkena|Walkena]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 500 feet; **Area** 20-foot burst
 **Saving Throw** basic Reflex

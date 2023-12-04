@@ -17,6 +17,7 @@ name: Sickle Blades
 rarity: Uncommon
 reflex: '+4'
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie Feast]]'
 trait:
@@ -31,13 +32,13 @@ will: null
 # Sickle Blades<span class="item-type">Hazard 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Mechanical</span><span class="item-trait">Trap</span>
-**Source** [[Pathfinder 181. Zombie Feast]]
+**Source** [[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie Feast]]
 **Complexity** Simple
 **Stealth** DC 20 (trained)
 **Description** A skeletal arm holding a sickle is concealed in the ceiling and connected to a mechanism in the sliding door below it.
 
 ---
-**Disable** DC 20 [[Thievery]] (trained) on the door frame or ceiling groove, or Interact to operate a lever on the opposite side of the door (in areas D2 and D4, respectively)
+**Disable** DC 20 [[DATABASE/skill/Thievery|Thievery]] (trained) on the door frame or ceiling groove, or Interact to operate a lever on the opposite side of the door (in areas D2 and D4, respectively)
 **AC** 19, **Fort** +12, **Ref** +4
 **Hardness** 11, **HP** 44 (BT 22); **Immunities** critical hits, object immunities, precision damage
 **Sickle** <span class="action-icon">5</span> **Trigger** A creature attempts to open the door; **Effect** A skeletal arm swings a sickle from the ceiling, making a Strike against the triggering creature. 

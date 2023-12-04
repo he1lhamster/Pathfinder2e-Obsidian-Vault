@@ -74,16 +74,16 @@ wisdom: '+1'
 
 Deinonychuses are wily hunters that attack in groups of up to a dozen individuals, ripping apart their prey with sharp talons and powerful jaws. They are lean and muscular, and have two powerful legs and a long tail that helps them maintain balance. Although deinonychuses don’t use their dexterous clawed forelimbs to attack, the dinosaurs can use them to pull aside small barriers. Although some of these dinosaurs have scaly skin, most have thatches of vibrantly colored feathers as well. A deinonychus is about 6 feet tall and weighs about 150 pounds.
  However, larger deinonychuses exist. These creatures—which stand taller than a human—are called megaraptors.
-**Recall Knowledge - Animal ([[Nature]])**: DC 16
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
 # Deinonychus<span class="item-type">Creature 2</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Animal</span><span class="item-trait">Dinosaur</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +7; low-light vision, scent (imprecise) 30 feet
-**Skills** [[Acrobatics]] +7, [[Athletics]] +9 (+12 jumping), [[Stealth]] +7
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +7, [[DATABASE/skill/Athletics|Athletics]] +9 (+12 jumping), [[DATABASE/skill/Stealth|Stealth]] +7
 **Str** +3, **Dex** +3, **Con** +4, **Int** -4, **Wis** +1, **Cha** +2
 
 ---

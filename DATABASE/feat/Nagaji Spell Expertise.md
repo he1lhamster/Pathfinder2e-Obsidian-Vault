@@ -11,6 +11,7 @@ name: Nagaji Spell Expertise
 prerequisite: '[[DATABASE/feat/Nagaji Spell Mysteries|Nagaji Spell Mysteries]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -23,11 +24,11 @@ type: Feat
 # Nagaji Spell Expertise <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Nagaji</span>
-**Source** [[Impossible Lands]]
-**Prerequisites** [[Nagaji Spell Mysteries]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
+**Prerequisites** [[DATABASE/feat/Nagaji Spell Mysteries|Nagaji Spell Mysteries]]
 
 ---
-Your magical skill rivals that of accomplished [[Naga]] spellcasters. During your daily preparations, choose [[Blink]], [[Control Water]], or [[Subconscious Suggestion]]. You can Cast this Spell as a 5th-level occult innate spell once that day. You become an expert in occult spell DCs and occult spell attack rolls.
+Your magical skill rivals that of accomplished [[DATABASE/monsterfamily/Naga|naga]] spellcasters. During your daily preparations, choose [[DATABASE/spell/Blink|blink]], [[DATABASE/spell/Control Water|control water]], or [[DATABASE/spell/Subconscious Suggestion|subconscious suggestion]]. You can Cast this Spell as a 5th-level occult innate spell once that day. You become an expert in occult spell DCs and occult spell attack rolls.
 
 ## Traits
 

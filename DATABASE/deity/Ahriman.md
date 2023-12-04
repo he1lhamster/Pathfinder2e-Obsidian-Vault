@@ -19,6 +19,7 @@ follower_alignment:
 id: '220'
 name: Ahriman
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Deception|Deception]]'
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
@@ -28,8 +29,8 @@ type: Deity
 ---
 # Ahriman (Lord of the Divs) [NE]
 
-**Source** [[Bestiary 3]]
-The dread shadow known as Ahriman counts servants mainly among [[Div]] as well as a scattering of followers throughout the mortal realm. 
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
+The dread shadow known as Ahriman counts servants mainly among [[DATABASE/monsterfamily/Div|div]] as well as a scattering of followers throughout the mortal realm. 
 **Category** Other Gods
 **Edicts** Foil rulers, the proud, and the powerful; ruin anything created by mortals
 **Anathema** create arts or crafts, serve a mortal, assist in mortal aims except to subvert and corrupt them
@@ -37,8 +38,8 @@ The dread shadow known as Ahriman counts servants mainly among [[Div]] as well a
 
 ## Devotee Benefits
 
-**Divine Font** _[[Harm]]_
-**Divine Skill** [[Deception]]
-**Favored Weapon** [[Whip]]
-**Domains** [[Darkness Domain]], [[Death Domain]], [[Destruction Domain]], [[Trickery Domain]]
-**Cleric Spells** 1st: _[[Ill Omen]]_, 3rd: _[[Nondetection]]_, 5th: _[[Crushing Despair]]_
+**Divine Font** _[[DATABASE/spell/Harm|harm]]_
+**Divine Skill** [[DATABASE/skill/Deception|Deception]]
+**Favored Weapon** [[DATABASE/weapon/Whip|whip]]
+**Domains** [[DATABASE/domain/Darkness Domain|darkness]], [[DATABASE/domain/Death Domain|death]], [[DATABASE/domain/Destruction Domain|destruction]], [[DATABASE/domain/Trickery Domain|trickery]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Ill Omen|ill omen]]_, 3rd: _[[DATABASE/spell/Nondetection|nondetection]]_, 5th: _[[DATABASE/spell/Crushing Despair|crushing despair]]_

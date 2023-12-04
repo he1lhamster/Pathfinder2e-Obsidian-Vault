@@ -24,6 +24,7 @@ patron_theme: '[[DATABASE/witchpatron/Mosquito Witch|Mosquito Witch]]'
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -41,9 +42,9 @@ type: Spell
 # Pest Form<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Polymorph</span><span class="item-trait">Transmutation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, primal
-**Deities** [[Bastet]], [[Daikitsu]], [[Grandmother Spider]]
+**Deities** [[DATABASE/deity/Bastet|Bastet]], [[DATABASE/deity/Daikitsu|Daikitsu]], [[DATABASE/deity/Grandmother Spider|Grandmother Spider]]
 **Patron Theme** [[DATABASE/witchpatron/Mosquito Witch|mosquito witch
 ]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
@@ -57,7 +58,7 @@ You transform into the battle form of a Tiny animal, such as a cat, insect, liza
 * Speed 20 feet. 
 * Weakness 5 to physical damage. (If you take physical damage in this form, you take 5 additional damage.) 
 * Low-light vision and imprecise scent 30 feet. 
-* [[Acrobatics]] and [[Stealth]] modifiers of +10, unless your own modifier is higher; [[Athletics]] modifier –4.
+* [[DATABASE/skill/Acrobatics|Acrobatics]] and [[DATABASE/skill/Stealth|Stealth]] modifiers of +10, unless your own modifier is higher; [[DATABASE/skill/Athletics|Athletics]] modifier –4.
 
 ---
 **Heightened (4th)** You can turn into a flying creature, such as a bird, which grants you a fly Speed of 20 feet.

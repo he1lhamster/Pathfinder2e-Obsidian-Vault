@@ -24,6 +24,7 @@ follower_alignment:
 id: '154'
 name: Hanspur
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -33,7 +34,7 @@ type: Deity
 ---
 # Hanspur (The Water Rat) [CN]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Category** Other Gods
 **Edicts** Learn how to live off the river, guard river travelers from unnatural hazards, save others from drowning
 **Anathema** Impose needless laws or restrictions on others, aid daemons or the Horsemen
@@ -41,9 +42,9 @@ type: Deity
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Strength or Dexterity
-**Divine Font** _[[Harm]]_
-**Divine Skill** [[Athletics]]
-**Favored Weapon** [[Trident]]
-**Domains** [[Death Domain]], [[Travel Domain]], [[Water Domain]], [[Wealth Domain]]
-**Cleric Spells** 1st: _[[Hydraulic Push]]_, 2nd: _[[Aqueous Orb]]_, 4th: _[[Solid Fog]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Strength or Dexterity
+**Divine Font** _[[DATABASE/spell/Harm|harm]]_
+**Divine Skill** [[DATABASE/skill/Athletics|Athletics]]
+**Favored Weapon** [[DATABASE/weapon/Trident|trident]]
+**Domains** [[DATABASE/domain/Death Domain|death]], [[DATABASE/domain/Travel Domain|travel]], [[DATABASE/domain/Water Domain|water]], [[DATABASE/domain/Wealth Domain|wealth]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Hydraulic Push|hydraulic push]]_, 2nd: _[[DATABASE/spell/Aqueous Orb|aqueous orb]]_, 4th: _[[DATABASE/spell/Solid Fog|solid fog]]_

@@ -11,6 +11,7 @@ name: Deity's Domain
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,11 +24,11 @@ type: Feat
 # Deity's Domain <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Champion</span>
-**Source** [[Core Rulebook]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
 You embody an aspect of your deity. Choose one of your deity's domains. You gain the domain's initial domain spell as a devotion spell.
 
 ## Deity's Domain Leads To...
 
-[[Advanced Deity's Domain]]
+[[DATABASE/feat/Advanced Deity's Domain|Advanced Deity's Domain]]

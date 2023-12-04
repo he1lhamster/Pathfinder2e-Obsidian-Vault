@@ -11,6 +11,7 @@ name: Treacherous Earth
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Treacherous Earth <span class="action-icon">1</span> <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Oread</span>
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 **Frequency** once every 10 minutes
 
 ---
@@ -33,4 +34,4 @@ You have the power to shatter the earth into a shape of your devising. You crack
 
 **Oread:**
 
-Oreads are planar scions descended from [[Shaitan]].
+Oreads are planar scions descended from [[DATABASE/monster/Shaitan|shaitans]].

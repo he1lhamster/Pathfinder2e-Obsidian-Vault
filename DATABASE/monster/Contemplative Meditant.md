@@ -95,19 +95,19 @@ wisdom: '+6'
 # Contemplative Meditant
 
 Contemplative meditants focus their meditations and research on the vexing topic of time itself.
-**Recall Knowledge - Aberration ([[Occultism]])**: DC 39
+**Recall Knowledge - Aberration ([[DATABASE/skill/Occultism|Occultism]])**: DC 39
 **Unspecific Lore**: DC 37
 **Specific Lore**: DC 34
 
 # Contemplative Meditant<span class="item-type">Creature 15</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Aberration</span>
-**Source** [[Pathfinder 173. Doorway to the Red Star]]
-**Perception** +29; [[Darkvision]], thoughtsense 60 feet
-**Languages** [[Akitonian]]; [[Telepathy]] 60 feet, [[Tongues]]
-**Skills** [[Arcana]] +31, [[Deception]] +27, [[Lore]] +31, [[Diplomacy]] +27, [[Medicine]] +29, [[Nature]] +27, [[Occultism]] +33, [[Society]] +29
+**Source** [[DATABASE/source/Pathfinder 173. Doorway to the Red Star|Pathfinder #173: Doorway to the Red Star]]
+**Perception** +29; [[DATABASE/monsterability/Darkvision|darkvision]], thoughtsense 60 feet
+**Languages** [[DATABASE/language/Akitonian|Akitonian]]; [[DATABASE/monsterability/Telepathy|telepathy]] 60 feet, [[DATABASE/spell/Tongues|tongues]]
+**Skills** [[DATABASE/skill/Arcana|Arcana]] +31, [[DATABASE/skill/Deception|Deception]] +27, [[DATABASE/skill/Lore|Dimension of Time Lore]] +31, [[DATABASE/skill/Diplomacy|Diplomacy]] +27, [[DATABASE/skill/Medicine|Medicine]] +29, [[DATABASE/skill/Nature|Nature]] +27, [[DATABASE/skill/Occultism|Occultism]] +33, [[DATABASE/skill/Society|Society]] +29
 **Str** -2, **Dex** +6, **Con** +0, **Int** +8, **Wis** +6, **Cha** +4
-**Temporal Sense** A contemplative meditant can always roll [[Dimension of Time]] Lore for initiative. When it does, it gains a +2 circumstance bonus to the roll as it acts on flashes of insight harvested from potential futures.
+**Temporal Sense** A contemplative meditant can always roll [[DATABASE/plane/Dimension of Time|Dimension of Time]] Lore for initiative. When it does, it gains a +2 circumstance bonus to the roll as it acts on flashes of insight harvested from potential futures.
 **Thoughtsense** (divination, mental, occult) The contemplative senses all non-mindless creatures at the listed range
 
 ---
@@ -117,5 +117,5 @@ Contemplative meditants focus their meditations and research on the vexing topic
 
 ---
 **Speed** 5 feet, fly 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +27 [+22/+17] (finesse, magical), **Damage** 3d6+4 slashing plus 4d6 mental</span>**Occult Innate Spells** DC 39, attack +29; **8th** _[[Dimensional Anchor]]_, _[[Disappearance]]_ (self only), _[[Discern Location]]_; **7th** _[[Haste]]_, _[[Magic Missile]]_ (×3), _[[Return to Essence]]_, _[[Sanctuary]]_, _[[Slow]]_; **Cantrips** **(8th)** _[[Daze]]_, _[[Ghost Sound]]_, _[[Mage Hand]]_, _[[Read Aura]]_, _[[Telekinetic Projectile]]_; **Constant** **(8th)** _[[Tongues]]_
-<span class="in-box-ability">**Temporal Suppression** <span class="action-icon">1</span> (enchantment, mental, occult) **Frequency** once per round; **Effect** The contemplative attempts to hinder a target creature's personal flow of time. The target must be within 60 feet, and once targeted must attempt a DC 36 Will save, becoming [[Slowed]] on a failure or slowed 2 on a critical failure. Each time an affected creature ends its turn, its slowed value decreases by 1. A creature that critically succeeds on their save against Temporal Suppression is temporarily immune to it for 24 hours</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +27 [+22/+17] (finesse, magical), **Damage** 3d6+4 slashing plus 4d6 mental</span>**Occult Innate Spells** DC 39, attack +29; **8th** _[[DATABASE/spell/Dimensional Anchor|dimensional anchor]]_, _[[DATABASE/spell/Disappearance|disappearance]]_ (self only), _[[DATABASE/spell/Discern Location|discern location]]_; **7th** _[[DATABASE/spell/Haste|haste]]_, _[[DATABASE/spell/Magic Missile|magic missile]]_ (×3), _[[DATABASE/spell/Return to Essence|return to essence]]_, _[[DATABASE/spell/Sanctuary|sanctuary]]_, _[[DATABASE/spell/Slow|slow]]_; **Cantrips** **(8th)** _[[DATABASE/spell/Daze|daze]]_, _[[DATABASE/spell/Ghost Sound|ghost sound]]_, _[[DATABASE/spell/Mage Hand|mage hand]]_, _[[DATABASE/spell/Read Aura|read aura]]_, _[[DATABASE/spell/Telekinetic Projectile|telekinetic projectile]]_; **Constant** **(8th)** _[[DATABASE/spell/Tongues|tongues]]_
+<span class="in-box-ability">**Temporal Suppression** <span class="action-icon">1</span> (enchantment, mental, occult) **Frequency** once per round; **Effect** The contemplative attempts to hinder a target creature's personal flow of time. The target must be within 60 feet, and once targeted must attempt a DC 36 Will save, becoming [[DATABASE/condition/Slowed|slowed 1]] on a failure or slowed 2 on a critical failure. Each time an affected creature ends its turn, its slowed value decreases by 1. A creature that critically succeeds on their save against Temporal Suppression is temporarily immune to it for 24 hours</span>

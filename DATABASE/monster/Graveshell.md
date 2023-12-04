@@ -82,17 +82,17 @@ wisdom: '+1'
 
 The graveshell is a dangerous predator that draws scavengers and explorers into its grasp using a morbid lure: the corpse of a former victim impaled upon the spikes that protrude from its large, turtle-like shell. Aside from its shell, the monster resembles no known animal. Small but bright yellow eyes watch from the sagging flesh of its head, the most prominent feature of which is a curiously shaped, toothy maw twisted into a perpetual grin. Its stubby arms and legs are impractical for both walking and swimming, though the algae-caked claws tipping each limb are deadly weapons.
  Graveshells are intelligent—a fact that surprises many who encounter them—and surrender rather than fight to the death. These monsters have little to offer in exchange for their lives, though the waterlogged treasures on their collection of corpses may entice opportunists.
-**Recall Knowledge - Beast ([[Arcana]], [[Nature]])**: DC 17
+**Recall Knowledge - Beast ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 17
 **Unspecific Lore**: DC 15
 **Specific Lore**: DC 12
 
 # Graveshell<span class="item-type">Creature 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Beast</span>
-**Source** [[Pathfinder 145. Hellknight Hill]]
+**Source** [[DATABASE/source/Pathfinder 145. Hellknight Hill|Pathfinder #145: Hellknight Hill]]
 **Perception** +4; darkvision, wavesense (imprecise) 30 feet
-**Languages** [[Common]], [[Undercommon]]
-**Skills** [[Athletics]] +6, [[Stealth]] +4
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Undercommon|Undercommon]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +6, [[DATABASE/skill/Stealth|Stealth]] +4
 **Str** +3, **Dex** -1, **Con** +3, **Int** -3, **Wis** +1, **Cha** +0
 **Corpse Disguise** (exploration) The graveshell conceals its true nature over the course of a few minutes by impaling a corpse (typically humanoid) on its spiky shell before partially submerging itself in water. It has an automatic result of 22 on Deception checks and DCs to pass as a corpse floating in the water.
 

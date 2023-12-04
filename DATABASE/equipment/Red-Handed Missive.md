@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -56,7 +57,7 @@ weapon_type: null
 # Red-Handed Missive<span class="item-type">Item 7</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Curse</span><span class="item-trait">Magical</span><span class="item-trait">Missive</span><span class="item-trait">Transmutation</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 60 gp
 **Usage** held in 1 hand; **Bulk** —
 **Activate** <span class="action-icon">2</span> envision, Interact

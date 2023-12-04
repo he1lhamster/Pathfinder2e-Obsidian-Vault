@@ -76,25 +76,25 @@ wisdom: '+4'
 # Enormous Flame Drake
 
 This creature did not include a description.
-**Recall Knowledge - Dragon ([[Arcana]])**: DC 34
+**Recall Knowledge - Dragon ([[DATABASE/skill/Arcana|Arcana]])**: DC 34
 **Unspecific Lore**: DC 32
 **Specific Lore**: DC 29
 
 # Enormous Flame Drake<span class="item-type">Creature 8</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Dragon</span><span class="item-trait">Fire</span>
-**Source** [[Kingmaker Adventure Path]]
-Variant [[Flame Drake]]
-**Perception** +16; [[Darkvision]], [[Scent]] (imprecise) 30 feet, smoke vision
-**Languages** [[Draconic]]
-**Skills** [[Acrobatics]] +14, [[Athletics]] +18, [[Stealth]] +14, [[Survival]] +16
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
+Variant [[DATABASE/monster/Flame Drake|flame drake]]
+**Perception** +16; [[DATABASE/monsterability/Darkvision|darkvision]], [[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet, smoke vision
+**Languages** [[DATABASE/language/Draconic|Draconic]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +14, [[DATABASE/skill/Athletics|Athletics]] +18, [[DATABASE/skill/Stealth|Stealth]] +14, [[DATABASE/skill/Survival|Survival]] +16
 **Str** +6, **Dex** +2, **Con** +4, **Int** -1, **Wis** +4, **Cha** +0
-**Smoke Vision** Smoke doesn't impair a flame drake's vision; it ignores [[Concealed]] from smoke.
+**Smoke Vision** Smoke doesn't impair a flame drake's vision; it ignores [[DATABASE/condition/Concealed|concealment]] from smoke.
 
 ---
 **AC** 27; **Fort** +18, **Ref** +16, **Will** +16
-**HP** 140; **Immunities** fire, [[Paralyzed]], [[Unconscious]]; **Weaknesses** cold 10
-<span class="in-box-ability">**[[Attack of Opportunity]] <span class="action-icon">5</span> ** fangs only.</span>
+**HP** 140; **Immunities** fire, [[DATABASE/condition/Paralyzed|paralyzed]], [[DATABASE/condition/Unconscious|unconscious]]; **Weaknesses** cold 10
+<span class="in-box-ability">**[[DATABASE/monsterability/Attack of Opportunity|Attack of Opportunity]] <span class="action-icon">5</span> ** fangs only.</span>
 
 ---
 **Speed** 

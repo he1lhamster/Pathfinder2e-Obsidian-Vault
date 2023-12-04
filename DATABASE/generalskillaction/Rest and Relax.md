@@ -2,6 +2,7 @@
 id: '19'
 name: Rest and Relax
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait: null
 type: General Skill Action
@@ -9,20 +10,20 @@ type: General Skill Action
 ---
 # Rest and Relax (Untrained)
 
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 
 ## Skill Uses
 
-[[Arts]] Rest and Relax
-[[Boating]] Rest and Relax
-[[Scholarship]] Rest and Relax
-[[Trade]] Rest and Relax
-[[Wilderness]] Rest and Relax
+[[DATABASE/skill/Arts|Arts]] Rest and Relax
+[[DATABASE/skill/Boating|Boating]] Rest and Relax
+[[DATABASE/skill/Scholarship|Scholarship]] Rest and Relax
+[[DATABASE/skill/Trade|Trade]] Rest and Relax
+[[DATABASE/skill/Wilderness|Wilderness]] Rest and Relax
 
-## [[Rest and Relax]]
+## [[DATABASE/action/Rest and Relax|Rest and Relax]]
 
 <span class="item-trait">Downtime</span><span class="item-trait">Leadership</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 
 ---
 Working non-stop can burn out even the most devoted and dedicated individual. As such, it's important to take time for yourself, and thus set a good example for the nation.

@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Wraithweave Patch<span class="item-type">Item 9+</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Conjuration</span><span class="item-trait">Magical</span>
-**Source** [[Pathfinder 184. The Ghouls Hunger]]
+**Source** [[DATABASE/source/Pathfinder 184. The Ghouls Hunger|Pathfinder #184: The Ghouls Hunger]]
 **Usage** held in 1 hand; **Bulk** L
 
 ---
@@ -66,21 +67,21 @@ A _wraithweave patch_ appears to be a square sheet of gray cloth that sparkles s
 
 ## Wraithweave Patch (Type I)<span class="item-type">Item 9</span>
 
-**Source** [[Pathfinder 184. The Ghouls Hunger]]
+**Source** [[DATABASE/source/Pathfinder 184. The Ghouls Hunger|Pathfinder #184: The Ghouls Hunger]]
 **Price** 600 gp
 **Bulk** L
 **Capacity** Light Bulk
 
 ## Wraithweave Patch (Type II)<span class="item-type">Item 12</span>
 
-**Source** [[Pathfinder 184. The Ghouls Hunger]]
+**Source** [[DATABASE/source/Pathfinder 184. The Ghouls Hunger|Pathfinder #184: The Ghouls Hunger]]
 **Price** 1,750 gp
 **Bulk** L
 **Capacity** 1 Bulk
 
 ## Wraithweave Patch (Type III)<span class="item-type">Item 15</span>
 
-**Source** [[Pathfinder 184. The Ghouls Hunger]]
+**Source** [[DATABASE/source/Pathfinder 184. The Ghouls Hunger|Pathfinder #184: The Ghouls Hunger]]
 **Price** 6,000 gp
 **Bulk** L
 **Capacity** 2 Bulk

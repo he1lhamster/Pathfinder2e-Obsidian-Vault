@@ -11,6 +11,7 @@ name: Emblazon Energy
 prerequisite: '[[DATABASE/feat/Emblazon Armament|Emblazon Armament]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Emblazon Energy <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Cleric</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Emblazon Armament]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/feat/Emblazon Armament|Emblazon Armament]]
 
 ---
 With elemental forces, you make your emblazoned symbols more potent. When you Emblazon an Armament, you can choose from the following effects instead of the effects listed in that feat. These effects have the same restrictions as the base options.

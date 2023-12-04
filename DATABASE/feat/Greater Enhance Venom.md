@@ -11,6 +11,7 @@ name: Greater Enhance Venom
 prerequisite: '[[DATABASE/feat/Moderate Enhance Venom|Moderate Enhance Venom]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -23,11 +24,11 @@ type: Feat
 # Greater Enhance Venom <span class="item-type">Feat 17</span>
 
 <span class="item-trait">Vishkanya</span>
-**Source** [[Impossible Lands]]
-**Prerequisites** [[Moderate Enhance Venom]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
+**Prerequisites** [[DATABASE/feat/Moderate Enhance Venom|Moderate Enhance Venom]]
 
 ---
-You upgrade the vishkanyan venom you can apply with [[Envenom]] to greater vishkanyan venom. Envenom's frequency becomes once per minute.
+You upgrade the vishkanyan venom you can apply with [[DATABASE/action/Envenom|Envenom]] to greater vishkanyan venom. Envenom's frequency becomes once per minute.
  **Greater Vishkanyan Venom** (level 17) **Frequency** once per minute; **Saving Throw** Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 7d6 poison damage (1 round); **Stage 2** 9d6 poison damage (1 round); **Stage 3** 11d6 poison damage (1 round)
 
 ## Traits

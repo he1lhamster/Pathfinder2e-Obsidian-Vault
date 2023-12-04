@@ -21,6 +21,7 @@ patron_theme: null
 range: 10 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -41,7 +42,7 @@ type: Cantrip
 # Approximate<span class="item-type">Cantrip 1</span>
 
 <span class="item-trait">Cantrip</span><span class="item-trait">Detection</span><span class="item-trait">Divination</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Traditions** arcane, divine, occult, primal
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 10 feet; **Area** 1 cubic foot

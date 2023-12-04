@@ -70,16 +70,16 @@ wisdom: '+2'
 # Riding Dog
 
 Riding dogs types include larger dogs, such as mastiffs, wolfhounds, and huskies, and are bred often by halflings and gnomes to serve as mounts. Riding dogs are as loyal and devoted to their masters as guard dogs, and are ferocious in battle, regardless of whether they bear a rider or not. As with guard dogs, these large hounds can be wild or feral in nature, and, in some cases, might rival packs of wolves with regard to the danger they pose to inhabitants of rural areas.
-**Recall Knowledge - Animal ([[Nature]])**: DC 15
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Riding Dog<span class="item-type">Creature 1</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +7; low-light vision, scent (imprecise) 30 feet
-**Skills** [[Acrobatics]] +5, [[Athletics]] +7, [[Survival]] +5
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +5, [[DATABASE/skill/Athletics|Athletics]] +7, [[DATABASE/skill/Survival|Survival]] +5
 **Str** +2, **Dex** +2, **Con** +2, **Int** -4, **Wis** +2, **Cha** -1
 
 ---

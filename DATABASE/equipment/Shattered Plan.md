@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 size: null
@@ -54,11 +55,11 @@ weapon_type: null
 # Shattered Plan<span class="item-type">Item 11</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Divination</span><span class="item-trait">Magical</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 1,400 gp
 **Usage** held in 1 hand; **Bulk** 1
-**Base Weapon** [[Boomerang]]
+**Base Weapon** [[DATABASE/weapon/Boomerang|Boomerang]]
 
 ---
-Though the body of this _+2 [[Striking]] [[Impactful]] [[Boomerang]]_ is riddled with glowing hairline cracks, the weapon feels reassuringly solid in the hand. If you damage a target that has been struck by a _[[Rime Foil]]_ within the last round, you bruise its chilled body, and the target takes a –5-foot penalty to all its Speeds, or a –10-foot penalty on a critical hit.
+Though the body of this _+2 [[DATABASE/equipment/Striking|striking]] [[DATABASE/equipment/Impactful|impactful]] [[DATABASE/weapon/Boomerang|boomerang]]_ is riddled with glowing hairline cracks, the weapon feels reassuringly solid in the hand. If you damage a target that has been struck by a _[[DATABASE/equipment/Rime Foil|rime foil]]_ within the last round, you bruise its chilled body, and the target takes a –5-foot penalty to all its Speeds, or a –10-foot penalty on a critical hit.
  **Special** The _shattered plan_ pairs with the _rime foil_.

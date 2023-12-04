@@ -22,6 +22,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -37,8 +38,8 @@ type: Focus
 # Adapt Self<span class="item-type">Focus 1</span>
 
 <span class="item-trait">Morph</span><span class="item-trait">Transmutation</span>
-**Source** [[Gods & Magic]] 
-**Domain** [[Change Domain]]
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
+**Domain** [[DATABASE/domain/Change Domain|change]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Duration** 1 minute
 

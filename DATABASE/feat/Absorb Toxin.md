@@ -11,6 +11,7 @@ name: Absorb Toxin
 prerequisite: You are not immune to [[DATABASE/trait/Disease|diseases]] or [[DATABASE/trait/Poison|poisons]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Absorb Toxin <span class="action-icon">5</span> <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Grippli</span>
-**Source** [[The Mwangi Expanse]] 
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]] 
 **Prerequisites** You are not immune to diseases or poisons
 **Trigger** You attempt a saving throw against a disease or poison effect that affects an area.
 

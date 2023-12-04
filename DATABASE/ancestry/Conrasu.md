@@ -18,6 +18,7 @@ language:
 max_speed: '25'
 name: Conrasu
 rarity: Rare
+rus_type_level: null
 size: Medium
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 speed:
@@ -34,13 +35,13 @@ vision: null
 # Conrasu
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Aeon</span><span class="item-trait">Conrasu</span><span class="item-trait">Plant</span>
-**Source** [[The Mwangi Expanse]] 
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]] 
 _Conrasus are shards of cosmic force given consciousness who construct intricate exoskeletons to interface with the mortal world. Both an integral part of the underlying processes of the universe and strangely set apart, conrasus look to aeons to understand their existence._
-Conrasus aren't entirely clear on their own origins. Some historians think them a failed experiment of a wizardly cabal—possibly a splinter of artificers from the ancient Jitska Imperium—who desperately hoped to bind a [[Pleroma]] to bolster their army but who accidentally conjured shattered scraps of the [[Aeon]] instead. Others believe conrasus were built by their ancestors using an accelerated, iterative evolution process as natural as one designed by those who build portions of their own bodies could ever hope to achieve. Most likely, it is a mix of the two.
+Conrasus aren't entirely clear on their own origins. Some historians think them a failed experiment of a wizardly cabal—possibly a splinter of artificers from the ancient Jitska Imperium—who desperately hoped to bind a [[DATABASE/monster/Pleroma|pleroma]] to bolster their army but who accidentally conjured shattered scraps of the [[DATABASE/monsterfamily/Aeon|aeon]] instead. Others believe conrasus were built by their ancestors using an accelerated, iterative evolution process as natural as one designed by those who build portions of their own bodies could ever hope to achieve. Most likely, it is a mix of the two.
 
 ## You Might...
 
-* Do your best to determine and act upon the will of your guiding [[Aeon]].
+* Do your best to determine and act upon the will of your guiding [[DATABASE/monsterfamily/Aeon|aeon]].
 * Use rituals and repetitive actions as a means to meditate and reflect on your purpose.
 * Have difficulty applying your cosmic instincts and senses to a physical existence.
 
@@ -48,7 +49,7 @@ Conrasus aren't entirely clear on their own origins. Some historians think them 
 
 * View you as part of a hivemind at best or lacking in free will at worst.
 * Have trouble understanding your perspective or attempts at communication.
-* Look to you as the expert on any matters involving [[Aeon]] or related beings.
+* Look to you as the expert on any matters involving [[DATABASE/monsterfamily/Aeon|aeons]] or related beings.
 
 ## Physical Description
 
@@ -63,12 +64,12 @@ There are three distinct types of conrasus. Maintainers tend and care for others
 
 ## Alignment and Religion
 
-Many conrasus consider themselves bound to a specific [[Aeon]], following them like a deity and doing what they believe to be the aeon's bidding. As a result, almost all conrasus are lawful neutral in alignment.
+Many conrasus consider themselves bound to a specific [[DATABASE/monsterfamily/Aeon|aeon]], following them like a deity and doing what they believe to be the aeon's bidding. As a result, almost all conrasus are lawful neutral in alignment.
 
 ## Adventurers
 
-Maintainers who become adventurers are often [[Wizard]], [[Bard]], or [[Cleric]] who offer their magic and knowledge to the group and subtly nudge the party as needed. Correctors tend to become [[Champion]], [[Cleric]], and [[Fighter]], forming heavy and hard living wood armor around themselves to keep them safe from harm. The rare shaper might travel with a group as a [[Druid]] or even a [[Bard]], usually to accomplish a goal they believe lies outside of the enclaves.
- No matter the path a conrasu finds themselves on, they tend to come from similar backgrounds. [[Field Medic]] and [[Herbalist]] tend to fit those who find themselves comfortable in their homes and with those of their nursery while conrasus of [[Nomad]] or [[Emissary]] backgrounds tend to enjoy roaming from place to place.
+Maintainers who become adventurers are often [[DATABASE/class_/Wizard|wizards]], [[DATABASE/class_/Bard|bards]], or [[DATABASE/class_/Cleric|clerics]] who offer their magic and knowledge to the group and subtly nudge the party as needed. Correctors tend to become [[DATABASE/class_/Champion|champions]], [[DATABASE/class_/Cleric|clerics]], and [[DATABASE/class_/Fighter|fighters]], forming heavy and hard living wood armor around themselves to keep them safe from harm. The rare shaper might travel with a group as a [[DATABASE/class_/Druid|druid]] or even a [[DATABASE/class_/Bard|bard]], usually to accomplish a goal they believe lies outside of the enclaves.
+ No matter the path a conrasu finds themselves on, they tend to come from similar backgrounds. [[DATABASE/background/Field Medic|Field medic]] and [[DATABASE/background/Herbalist|herbalist]] tend to fit those who find themselves comfortable in their homes and with those of their nursery while conrasus of [[DATABASE/background/Nomad|nomad]] or [[DATABASE/background/Emissary|emissary]] backgrounds tend to enjoy roaming from place to place.
 
 ## Names
 
@@ -104,9 +105,9 @@ Charisma
 
 ## Languages
 
-[[Mwangi]]
-[[Rasu]]
-Additional languages equal to your Intelligence modifier (if it is positive). Choose from Celestial, [[Elven]], [[Iruxi]], [[Sylvan]], [[Terran]], [[Utopian]], and any other languages to which you have access (such as the languages prevalent to your region).
+[[DATABASE/language/Mwangi|Mwangi]]
+[[DATABASE/language/Rasu|Rasu]]
+Additional languages equal to your Intelligence modifier (if it is positive). Choose from Celestial, [[DATABASE/language/Elven|Elven]], [[DATABASE/language/Iruxi|Iruxi]], [[DATABASE/language/Sylvan|Sylvan]], [[DATABASE/language/Terran|Terran]], [[DATABASE/language/Utopian|Utopian]], and any other languages to which you have access (such as the languages prevalent to your region).
 
 ## Sunlight Healing
 

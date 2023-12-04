@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Whelming Scrimshaw<span class="item-type">Item 13</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Curse</span><span class="item-trait">Magical</span><span class="item-trait">Necromancy</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 500 gp
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">2</span> Interact
@@ -63,6 +64,6 @@ weapon_type: null
 ---
 An etching of some aquatic beast dragging a figure beneath the waves adorns the ivory of a _whelming scrimshaw_. When you Activate this item, you break it and choose one creature within 30 feet. The target must attempt a DC 30 Fortitude save; amphibious and aquatic creatures are immune.
 **Critical Success** The creature is unaffected.
-**Success** The target becomes [[Sickened]] and unable to breathe until this sickened condition ends.
+**Success** The target becomes [[DATABASE/condition/Sickened|sickened 1]] and unable to breathe until this sickened condition ends.
 **Failure** As success, but sickened 2.
 **Critical Failure** As success, but sickened 3.

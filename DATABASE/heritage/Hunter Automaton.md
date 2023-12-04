@@ -2,6 +2,7 @@
 id: '184'
 name: Hunter Automaton
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait: null
 type: Heritage
@@ -9,9 +10,9 @@ type: Heritage
 ---
 # Hunter Automaton
 
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 You were designed to serve as a scout or assassin and have a body resembling a pack hunter like a large cat or wolf. Though you typically move like a quadruped, you can still stand and fight like a biped, allowing you to use all equipment normally. Your quadruped design allows you to move quickly; if you have both hands free, you can increase your Speed to 30 feet as you run on all fours.
 
 ### Feats Requiring Hunter Automaton...
 
-[[Arcane Camouflage]]
+[[DATABASE/feat/Arcane Camouflage|Arcane Camouflage]]

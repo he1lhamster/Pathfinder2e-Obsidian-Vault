@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Staff of Transmutation<span class="item-type">Item 6+</span>
 
 <span class="item-trait">Magical</span><span class="item-trait">Staff</span><span class="item-trait">Transmutation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** held in 1 hand; **Bulk** —
 
 ---
@@ -64,28 +65,28 @@ A glass orb atop this metal staff contains fine, undulating sand. While wielding
 
 ## Staff of Transmutation<span class="item-type">Item 6</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 230 gp
 **Bulk** 1
 
-* **Cantrip** [[Sigil]] 
-* **1st** [[Fleet Step]], [[Jump]] 
-* **2nd** [[Enlarge]], [[Humanoid Form]]
+* **Cantrip** [[DATABASE/spell/Sigil|sigil]] 
+* **1st** [[DATABASE/spell/Fleet Step|fleet step]], [[DATABASE/spell/Jump|jump]] 
+* **2nd** [[DATABASE/spell/Enlarge|enlarge]], [[DATABASE/spell/Humanoid Form|humanoid form]]
 
 ## Staff of Transmutation (Greater)<span class="item-type">Item 10</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 900 gp
 **Bulk** 1
 
-* **3rd** [[Feet to Fins]], _jump_ 
-* **4th** [[Gaseous Form]], [[Shape Stone]]
+* **3rd** [[DATABASE/spell/Feet to Fins|feet to fins]], _jump_ 
+* **4th** [[DATABASE/spell/Gaseous Form|gaseous form]], [[DATABASE/spell/Shape Stone|shape stone]]
 
 ## Staff of Transmutation (Major)<span class="item-type">Item 14</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 4,000 gp
 **Bulk** 1
 
 * **5th** _humanoid transformation_ 
-* **6th** [[Baleful Polymorph]], [[Dragon Form]], [[Flesh to Stone]]
+* **6th** [[DATABASE/spell/Baleful Polymorph|baleful polymorph]], [[DATABASE/spell/Dragon Form|dragon form]], [[DATABASE/spell/Flesh to Stone|flesh to stone]]

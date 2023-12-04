@@ -74,23 +74,23 @@ wisdom: '+3'
 ---
 # Skin Beetle Swarm
 
-When a massive creature such a [[Dinosaur]] or [[Giant]] dies in skin beetle territory, the industrious vermin swarm together.
-**Recall Knowledge - Animal ([[Nature]])**: DC 26
+When a massive creature such a [[DATABASE/monsterfamily/Dinosaur|dinosaur]] or [[DATABASE/monsterfamily/Giant|giant]] dies in skin beetle territory, the industrious vermin swarm together.
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 26
 **Unspecific Lore**: DC 24
 **Specific Lore**: DC 21
 
 # Skin Beetle Swarm<span class="item-type">Creature 8</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Animal</span><span class="item-trait">Swarm</span>
-**Source** [[Pathfinder 188. They Watched the Stars]]
-**Perception** +16; [[Low-Light Vision]]
-**Skills** [[Acrobatics]] +18, [[Stealth]] +18
+**Source** [[DATABASE/source/Pathfinder 188. They Watched the Stars|Pathfinder #188: They Watched the Stars]]
+**Perception** +16; [[DATABASE/monsterability/Low-Light Vision|low-light vision]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +18, [[DATABASE/skill/Stealth|Stealth]] +18
 **Str** +2, **Dex** +6, **Con** +4, **Int** -5, **Wis** +3, **Cha** -2
 
 ---
 **AC** 26; **Fort** +16, **Ref** +20, **Will** +13
-**HP** 125; **Immunities** precision, [[Swarm Mind]]; **Resistances** bludgeoning 5, piercing 8, slashing 8; **Weaknesses** area damage 8, splash damage 8
+**HP** 125; **Immunities** precision, [[DATABASE/monsterability/Swarm Mind|swarm mind]]; **Resistances** bludgeoning 5, piercing 8, slashing 8; **Weaknesses** area damage 8, splash damage 8
 
 ---
 **Speed** 20 feet, burrow 15 feet, fly 15 feet
-<span class="in-box-ability">**Swarming Bites** <span class="action-icon">1</span> Each enemy in the swarm's space takes 5d6 piercing damage (DC 23 basic Reflex save). A creature that fails the saving throw also takes 1d4 [[Persistent Damage]] and is [[Clumsy]] as long as it's taking bleed damage.</span>
+<span class="in-box-ability">**Swarming Bites** <span class="action-icon">1</span> Each enemy in the swarm's space takes 5d6 piercing damage (DC 23 basic Reflex save). A creature that fails the saving throw also takes 1d4 [[DATABASE/condition/Persistent Damage|persistent bleed damage]] and is [[DATABASE/condition/Clumsy|clumsy 1]] as long as it's taking bleed damage.</span>

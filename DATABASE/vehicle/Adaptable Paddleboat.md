@@ -16,6 +16,7 @@ price: 110 gp
 rarity: Uncommon
 reflex: null
 resistance: null
+rus_type_level: null
 school: null
 size: Medium
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
@@ -28,7 +29,7 @@ type: Vehicle
 # Adaptable Paddleboat<span class="item-type">Vehicle 2</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-size item-trait">Medium</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 110 gp
 
 ---
@@ -37,7 +38,7 @@ This amphibious clockwork boat moves through the water using clockwork waterwhee
 ---
 **Space** 10 feet long, 5 feet wide, 4 feet high
 **Crew** 1 pilot; **Passengers** 1
-**Piloting Check** [[Lore]] (DC 16), Sailing Lore (DC 16), or [[Crafting]] (DC 18)
+**Piloting Check** [[DATABASE/skill/Lore|Driving Lore]] (DC 16), Sailing Lore (DC 16), or [[DATABASE/skill/Crafting|Crafting]] (DC 18)
 
 ---
 **AC** 13; **Fort** +8

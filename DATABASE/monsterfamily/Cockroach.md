@@ -3,6 +3,7 @@ creature_family: Cockroach
 id: '127'
 name: Cockroach
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Cockroach
 
-**Source** [[Bestiary 2]] 
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
 Generally seen more as a nuisance than a personal danger, cockroaches inhabit most reaches of the world. They are scavengers who live off the detritus of the natural world and from those that inhabit it. These maligned insects can survive weeks without eating, and most of their meals consist of organic waste that would otherwise overwhelm an ecosystem, particularly in their preferred urban environments. Though a typical cockroach presents virtually no threat, they can become dangerous in large groups, and some species grow particularly large.
 
 ### Members
 
-[[Cockroach Swarm]] (Creature 2), [[Giant Cockroach]] (Creature 1)
+[[DATABASE/monster/Cockroach Swarm|Cockroach Swarm]] (Creature 2), [[DATABASE/monster/Giant Cockroach|Giant Cockroach]] (Creature 1)
 
 ###  Cockroach Species
 

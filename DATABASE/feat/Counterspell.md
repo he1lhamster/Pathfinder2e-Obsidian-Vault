@@ -12,6 +12,7 @@ prerequisite: null
 rarity: Common
 requirement: '[Sorcerer] You have an unexpended spell slot you could use to cast the
   triggering spell.'
+rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -28,7 +29,7 @@ type: Feat
 # Counterspell <span class="action-icon">5</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Arcane</span><span class="item-trait">Sorcerer</span><span class="item-trait">Witch</span><span class="item-trait">Wizard</span>
-**Source** [[Advanced Player's Guide]] , [[Core Rulebook]] , [[Core Rulebook]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] , [[DATABASE/source/Core Rulebook|Core Rulebook]] , [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Trigger** A creature Casts a Spell that you have prepared.
 **Requirements** [Sorcerer] You have an unexpended spell slot you could use to cast the triggering spell.
 
@@ -40,7 +41,7 @@ When a foe Casts a Spell and you can see its manifestations, you can use your ow
 
 ## Counterspell Leads To...
 
-[[Clever Counterspell]], [[Consume Spell]], [[Reflect Spell]], [[School Counterspell]], [[School Spell Redirection]]
+[[DATABASE/feat/Clever Counterspell|Clever Counterspell]], [[DATABASE/feat/Consume Spell|Consume Spell]], [[DATABASE/feat/Reflect Spell|Reflect Spell]], [[DATABASE/feat/School Counterspell|School Counterspell]], [[DATABASE/feat/School Spell Redirection|School Spell Redirection]]
 
 ## Traits
 

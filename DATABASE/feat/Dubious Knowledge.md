@@ -12,6 +12,7 @@ prerequisite: trained in a skill with the [[DATABASE/action/Recall Knowledge|Rec
   Knowledge]] action
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -25,11 +26,11 @@ type: Feat
 # Dubious Knowledge <span class="item-type">Feat 1</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** trained in a skill with the [[Recall Knowledge]] action
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** trained in a skill with the [[DATABASE/action/Recall Knowledge|Recall Knowledge]] action
 
 ---
-You're a treasure trove of information, but not all of it comes from reputable sources. When you fail (but don't critically fail) a [[Recall Knowledge]] check using any skill, you learn a bit of true knowledge and a bit of erroneous knowledge, but you don't have any way to differentiate which is which.
+You're a treasure trove of information, but not all of it comes from reputable sources. When you fail (but don't critically fail) a [[DATABASE/action/Recall Knowledge|Recall Knowledge]] check using any skill, you learn a bit of true knowledge and a bit of erroneous knowledge, but you don't have any way to differentiate which is which.
 
 ## Traits
 

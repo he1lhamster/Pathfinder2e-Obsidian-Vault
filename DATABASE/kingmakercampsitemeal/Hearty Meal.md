@@ -5,6 +5,7 @@ name: Hearty Meal
 price: null
 rarity: Common
 requirement: null
+rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 trait:
 - '[[DATABASE/trait/Meal|Meal]]'
@@ -13,10 +14,10 @@ type: Campsite Meal
 ---
 # Hearty Meal<span class="item-type">Meal 0</span>
 
-**Source** [[Kingmaker Companion Guide]]
+**Source** [[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]
 **Recipe Price** — (this recipe is available automatically)
 **Ingredients** 4 basic
-**Preparation** DC 14 [[Lore]] or DC 16 [[Survival]]
+**Preparation** DC 14 [[DATABASE/skill/Lore|Cooking Lore]] or DC 16 [[DATABASE/skill/Survival|Survival]]
 **Favorite Meal** The eater recovers an additional amount of Hit Points equal to their level when they rest.
 
 ---

@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -57,7 +58,7 @@ weapon_type: null
 # Arctic Vigor<span class="item-type">Item 10+</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Cold</span><span class="item-trait">Evocation</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span><span class="item-trait">Tattoo</span>
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Usage** tattoo; **Bulk** —
 
 ---
@@ -66,11 +67,11 @@ This tattoo takes the shape of the face of a roaring polar bear with piercing, i
 
 ## Arctic Vigor<span class="item-type">Item 10</span>
 
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 900 gp
 
 ## Arctic Vigor (Greater)<span class="item-type">Item 15</span>
 
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 6,000 gp
 The damage of your polar wind increases to 12d6, the range increases to 60 feet, and you can choose to increase the radius to 15 or 20 feet. While exposed to incredible cold, you only take minor cold damage every hour, instead of moderate cold damage every minute. You ignore the uneven ground and difficult terrain caused by ice and the difficult terrain caused by snow (reducing greater difficult terrain from ice or snow to normal difficult terrain).

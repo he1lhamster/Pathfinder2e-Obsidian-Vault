@@ -8,6 +8,7 @@ name: Mount
 rarity: Common
 requirement: You are adjacent to a creature that is at least one size larger than
   you and is willing to be yourmount.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
@@ -19,7 +20,7 @@ type: Action
 # Mount <span class="action-icon">1</span>
 
 <span class="item-trait">Move</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Requirements** You are adjacent to a creature that is at least one size larger than you and is willing to be your mount.
 
 ---

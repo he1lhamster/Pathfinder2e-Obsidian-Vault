@@ -12,6 +12,7 @@ prerequisite: trained in at least one type of weapon in the [[DATABASE/weapongro
   or [[DATABASE/weapongroup/Firearm|firearm]] groups; Trained in [[DATABASE/skill/Stealth|Stealth]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -25,9 +26,9 @@ type: Feat
 # Sniping Duo Dedication <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Dedication</span>
-**Source** [[Guns & Gears]]
-**Archetype** [[Sniping Duo]]
-**Prerequisites** trained in at least one type of weapon in the [[Bow]] or [[Firearm]] groups; trained in [[Stealth]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Archetype** [[DATABASE/archetype/Sniping Duo|Sniping Duo]]
+**Prerequisites** trained in at least one type of weapon in the [[DATABASE/weapongroup/Bow|bow]] or [[DATABASE/weapongroup/Firearm|firearm]] groups; trained in [[DATABASE/skill/Stealth|Stealth]]
 
 ---
 When you take this dedication, choose one willing, non-minion ally to act as your spotter. As part of your training in this archetype, you train your spotter in the necessary habits and techniques to use your abilities automatically; your spotter doesn't need to spend any feats of their own to grant the effects. You only gain the benefits of your Sniping Duo archetype feats if both you and your spotter are alive and conscious. You and your spotter don't grant your foes lesser cover against one another's Strikes. Whenever you or your spotter successfully Strikes a target, the other member of your duo gains a +1 circumstance bonus per weapon damage die on the damage roll of their next Strike made against that target before the end of their next turn.
@@ -36,7 +37,7 @@ When you take this dedication, choose one willing, non-minion ally to act as you
 
 ## Sniping Duo Dedication Leads To...
 
-[[Concentrated Assault]], [[Duo's Aim]], [[Eagle Eyes]], [[Exploit Opening]], [[Tag Team]], [[Targeted Redirection]], [[Triangulate]], [[Vantage Shot]]
+[[DATABASE/feat/Concentrated Assault|Concentrated Assault]], [[DATABASE/feat/Duo's Aim|Duo's Aim]], [[DATABASE/feat/Eagle Eyes|Eagle Eyes]], [[DATABASE/feat/Exploit Opening|Exploit Opening]], [[DATABASE/feat/Tag Team|Tag Team]], [[DATABASE/feat/Targeted Redirection|Targeted Redirection]], [[DATABASE/feat/Triangulate|Triangulate]], [[DATABASE/feat/Vantage Shot|Vantage Shot]]
 
 ## Traits
 

@@ -11,6 +11,7 @@ name: Vibration Sense
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -24,10 +25,10 @@ type: Feat
 # Vibration Sense <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Evolution</span><span class="item-trait">Summoner</span>
-**Source** [[Secrets of Magic]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]]
 
 ---
-Your eidolon gains [[Tremorsense]] as an imprecise sense with a range of 30 feet. If aquatic, it gains [[Wavesense]] as an imprecise sense with a range of 30 feet instead. If amphibious, it gains both.
+Your eidolon gains [[DATABASE/monsterability/Tremorsense|tremorsense]] as an imprecise sense with a range of 30 feet. If aquatic, it gains [[DATABASE/monsterability/Wavesense|wavesense]] as an imprecise sense with a range of 30 feet instead. If amphibious, it gains both.
 
 ## Traits
 

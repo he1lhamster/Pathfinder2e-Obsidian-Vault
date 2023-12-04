@@ -11,6 +11,7 @@ name: Shared Overdrive
 prerequisite: '[[DATABASE/feat/Overdrive Ally|Overdrive Ally]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -23,12 +24,12 @@ type: Feat
 # Shared Overdrive <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Inventor</span>
-**Source** [[Guns & Gears]]
-**Prerequisites** [[Overdrive Ally]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Prerequisites** [[DATABASE/feat/Overdrive Ally|Overdrive Ally]]
 
 ---
-You've experimented enough on your teammates to transfer a substantial number of powered-up gizmos to them, enabling one of your allies to benefit from the full effects and duration of your [[Overdrive]]. The first time you use Overdrive Ally during a given Overdrive, the effect lasts for the remainder of the duration of your Overdrive, instead of just until the end of the target's next turn. Any further uses of Overdrive Ally during the same Overdrive have their normal duration, per Overdrive Ally.
+You've experimented enough on your teammates to transfer a substantial number of powered-up gizmos to them, enabling one of your allies to benefit from the full effects and duration of your [[DATABASE/action/Overdrive|Overdrive]]. The first time you use Overdrive Ally during a given Overdrive, the effect lasts for the remainder of the duration of your Overdrive, instead of just until the end of the target's next turn. Any further uses of Overdrive Ally during the same Overdrive have their normal duration, per Overdrive Ally.
 
 ## Shared Overdrive Leads To...
 
-[[Ubiquitous Overdrive]]
+[[DATABASE/feat/Ubiquitous Overdrive|Ubiquitous Overdrive]]

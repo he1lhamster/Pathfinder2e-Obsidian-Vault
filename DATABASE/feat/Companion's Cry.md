@@ -11,6 +11,7 @@ name: Companion's Cry
 prerequisite: an animal companion
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Companion's Cry <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Ranger</span>
-**Source** [[Core Rulebook]] 
-**Archetypes** [[Beastmaster]]*, [[Mammoth Lord]]*, [[Undead Master]]*
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetypes** [[DATABASE/archetype/Beastmaster|Beastmaster]]*, [[DATABASE/archetype/Mammoth Lord|Mammoth Lord]]*, [[DATABASE/archetype/Undead Master|Undead Master]]*
 **Prerequisites** an animal companion
 * This archetype offers Companion's Cry at a different level than displayed here.
 

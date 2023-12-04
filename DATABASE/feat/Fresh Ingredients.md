@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Herbalist Dedication|Herbalist Dedication]] ; Exp
   in [[DATABASE/skill/Nature|Nature]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,12 +26,12 @@ type: Feat
 # Fresh Ingredients <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Skill</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Herbalist]]
-**Prerequisites** [[Herbalist Dedication]]; expert in [[Nature]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Herbalist|Herbalist]]
+**Prerequisites** [[DATABASE/feat/Herbalist Dedication|Herbalist Dedication]]; expert in [[DATABASE/skill/Nature|Nature]]
 
 ---
-When using [[Natural Medicine]] to [[Treat Wounds]], you can spend a batch of herbs to gain the +2 circumstance bonus from having fresh ingredients, even if not in wilderness. If you spend a batch of herbs in wilderness, you gain a +4 circumstance bonus instead.
+When using [[DATABASE/feat/Natural Medicine|Natural Medicine]] to [[DATABASE/action/Treat Wounds|Treat Wounds]], you can spend a batch of herbs to gain the +2 circumstance bonus from having fresh ingredients, even if not in wilderness. If you spend a batch of herbs in wilderness, you gain a +4 circumstance bonus instead.
 
 ## Traits
 

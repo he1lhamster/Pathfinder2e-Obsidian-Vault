@@ -83,17 +83,17 @@ wisdom: '+3'
 
 The bizarre hadrinnexes resemble defensive systems more than living creatures. They evolve at a rapid rate, but only to specific attacks against them, which suggests they were created through advanced technology or magic. The husk surrounding a hadrinnex—flecks of metal suspended in a malleable organic carapace—reshapes in response to harm. So too can a glowing gland within the creature's thorax, which collects energy and restructures the creature's biology to protect it from that energy. This organ is fragile and ruptures soon after a hadrinnex is killed.
  Hadrinnexes have only a rudimentary intellect and usually follow more intelligent aberrations. As bodyguards or peons, they perform simple tasks diligently. Though poor at problem-solving and improvisation, hadrinnexes' dependability and adaptive physiology make them ideal for dangerous tasks in hazardous environments.
-**Recall Knowledge - Aberration ([[Occultism]])**: DC 26
+**Recall Knowledge - Aberration ([[DATABASE/skill/Occultism|Occultism]])**: DC 26
 **Unspecific Lore**: DC 24
 **Specific Lore**: DC 21
 
 # Hadrinnex<span class="item-type">Creature 8</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Aberration</span>
-**Source** [[Bestiary 3]]
-**Perception** +17; [[Darkvision]]
-**Languages** [[Aklo]]; [[Telepathy]] (touch)
-**Skills** [[Acrobatics]] +16, [[Athletics]] +18, [[Occultism]] +11
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
+**Perception** +17; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Aklo|Aklo]]; [[DATABASE/monsterability/Telepathy|telepathy]] (touch)
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +16, [[DATABASE/skill/Athletics|Athletics]] +18, [[DATABASE/skill/Occultism|Occultism]] +11
 **Str** +6, **Dex** +4, **Con** +6, **Int** -3, **Wis** +3, **Cha** -3
 
 ---

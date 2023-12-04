@@ -11,6 +11,7 @@ name: Air Shroud
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -27,7 +28,7 @@ type: Feat
 # Air Shroud <span class="action-icon">1</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Air</span><span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Primal</span><span class="item-trait">Stance</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
 Turbulent air suffuses your kinetic aura. This doesn't displace other matter but provides air for creatures in your kinetic aura that need air to breathe. Attacks with ranged weapons take a –1 circumstance penalty to their attack rolls if their paths pass through your kinetic aura. Air in your kinetic aura is difficult terrain for flying creatures other than yourself.

@@ -2,6 +2,7 @@
 id: '65'
 name: Pathfinder Encounter. Heaving Kobolds
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -15,4 +16,4 @@ type: Source
 
 ## Monsters [2]
 
-[[Kobold Tunnelrunner]], [[Ogre Hurler]]
+[[DATABASE/monster/Kobold Tunnelrunner|Kobold Tunnelrunner]], [[DATABASE/monster/Ogre Hurler|Ogre Hurler]]

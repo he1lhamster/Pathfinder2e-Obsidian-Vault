@@ -93,17 +93,17 @@ wisdom: '+6'
 # Riekanoy
 
 Riekanoys lurk in the placid rivers of the First World, demanding that travelers dance with them or face their wrath. Bitterly jealous of anyone that professes to be a better dancer, riekanoys make wagers in contests to prove who is the most graceful and sure-footed.
-**Recall Knowledge - Fey ([[Nature]])**: DC 44
+**Recall Knowledge - Fey ([[DATABASE/skill/Nature|Nature]])**: DC 44
 **Unspecific Lore**: DC 42
 **Specific Lore**: DC 39
 
 # Riekanoy<span class="item-type">Creature 19</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Amphibious</span><span class="item-trait">Fey</span><span class="item-trait">Water</span>
-**Source** [[Night of the Gray Death]]
-**Perception** +31; [[Low-Light Vision]], [[True Seeing]]
-**Languages** [[Aquan]], [[Common]], [[Sylvan]]
-**Skills** [[Acrobatics]] +35, [[Athletics]] +31, [[Deception]] +35, [[Nature]] +33, [[Performance]] +37, [[Stealth]] +35, [[Survival]] +33
+**Source** [[DATABASE/source/Night of the Gray Death|Night of the Gray Death]]
+**Perception** +31; [[DATABASE/monsterability/Low-Light Vision|low-light vision]], [[DATABASE/spell/True Seeing|true seeing]]
+**Languages** [[DATABASE/language/Aquan|Aquan]], [[DATABASE/language/Common|Common]], [[DATABASE/language/Sylvan|Sylvan]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +35, [[DATABASE/skill/Athletics|Athletics]] +31, [[DATABASE/skill/Deception|Deception]] +35, [[DATABASE/skill/Nature|Nature]] +33, [[DATABASE/skill/Performance|Performance]] +37, [[DATABASE/skill/Stealth|Stealth]] +35, [[DATABASE/skill/Survival|Survival]] +33
 **Str** +6, **Dex** +10, **Con** +2, **Int** +3, **Wis** +6, **Cha** +10
 **Sinuous Initiative** A riekanoy's swaying motions propel it into the fray with grace. While a riekanoy can act and isn't immobilized, it can roll Performance for initiative.
 
@@ -112,9 +112,9 @@ Riekanoys lurk in the placid rivers of the First World, demanding that travelers
 **HP** 410; **Resistances** fire 20; **Weaknesses** cold iron 20
 
 ---
-**Speed** 25 feet, swim 50 feet; [[Water Walk]]
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> hair +24 [+20/+16] (agile, reach 15 feet, finesse), **Damage** 4d10+12 bludgeoning plus [[Improved Grab]]</span>**Primal Innate Spells** DC 41, attack +33; **9th** _[[Hydraulic Torrent]]_, _[[Nature's Enmity]]_; **8th** _[[Charm]]_ (at will), _[[Fire Seeds]]_ (×3; see water lilies); **6th** _[[Baleful Polymorph]]_ (×3; aquatic animals only); **5th** _[[Control Water]]_ (at will); **2nd** _[[Invisibility]]_ (at will), _[[Obscuring Mist]]_ (at will); **Constant** **(9th)** _[[True Seeing]]_, _[[Water Walk]]_
+**Speed** 25 feet, swim 50 feet; [[DATABASE/spell/Water Walk|water walk]]
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> hair +24 [+20/+16] (agile, reach 15 feet, finesse), **Damage** 4d10+12 bludgeoning plus [[DATABASE/monsterability/Improved Grab|Improved Grab]]</span>**Primal Innate Spells** DC 41, attack +33; **9th** _[[DATABASE/spell/Hydraulic Torrent|hydraulic torrent]]_, _[[DATABASE/spell/Nature's Enmity|nature's enmity]]_; **8th** _[[DATABASE/spell/Charm|charm]]_ (at will), _[[DATABASE/spell/Fire Seeds|fire seeds]]_ (×3; see water lilies); **6th** _[[DATABASE/spell/Baleful Polymorph|baleful polymorph]]_ (×3; aquatic animals only); **5th** _[[DATABASE/spell/Control Water|control water]]_ (at will); **2nd** _[[DATABASE/spell/Invisibility|invisibility]]_ (at will), _[[DATABASE/spell/Obscuring Mist|obscuring mist]]_ (at will); **Constant** **(9th)** _[[DATABASE/spell/True Seeing|true seeing]]_, _[[DATABASE/spell/Water Walk|water walk]]_
 <span class="in-box-ability">**Beckoning Dance** <span class="action-icon">1</span> (concentrate, enchantment, incapacitation, mental, primal, visual) The riekanoy sways in a compelling fashion. Each non-fey creature within a 300-foot emanation that can see the riekanoy must attempt a DC 38 Will save. The effect lasts for 1 round, but if the riekanoy uses Beckoning Dance again on subsequent rounds, the duration extends by 1 round for all affected creatures. Once a creature succeeds at any save against Beckoning Dance, that creature is temporarily immune for 24 hours.
  **Success** The creature is unaffected.
  **Failure** The creature is fascinated and must spend each of its actions to move closer to the riekanoy, avoiding obvious dangers. If a beckoned creature is adjacent to the riekanoy, it stays still and doesn't act. If attacked by the riekanoy, the creature is freed from captivation at the end of the riekanoy's turn.
- **Critical Failure** As failure, but if attacked by the riekanoy, the creature can attempt a new save only at the start of its next turn, rather than being freed at the end of the riekanoy's turn.</span><span class="in-box-ability">**[[Constrict]]** <span class="action-icon">1</span> 3d10+12 bludgeoning, DC 41</span><span class="in-box-ability">**Entangling Hair** A riekanoy can have up to eight creatures grabbed within their hair at a time.</span><span class="in-box-ability">**Waving Hair** <span class="action-icon">1</span> The riekanoy attempts an Acrobatics check against each grabbed creature's Reflex DC. The riekanoy moves each creature they succeed against up to 10 feet and each creature they critically succeed against up to 20 feet. This movement must all be within reach of its hair.</span>
+ **Critical Failure** As failure, but if attacked by the riekanoy, the creature can attempt a new save only at the start of its next turn, rather than being freed at the end of the riekanoy's turn.</span><span class="in-box-ability">**[[DATABASE/monsterability/Constrict|Constrict]]** <span class="action-icon">1</span> 3d10+12 bludgeoning, DC 41</span><span class="in-box-ability">**Entangling Hair** A riekanoy can have up to eight creatures grabbed within their hair at a time.</span><span class="in-box-ability">**Waving Hair** <span class="action-icon">1</span> The riekanoy attempts an Acrobatics check against each grabbed creature's Reflex DC. The riekanoy moves each creature they succeed against up to 10 feet and each creature they critically succeed against up to 20 feet. This movement must all be within reach of its hair.</span>

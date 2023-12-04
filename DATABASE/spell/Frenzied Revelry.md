@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Rare
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Enchantment
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
@@ -39,8 +40,8 @@ type: Focus
 # Frenzied Revelry<span class="item-type">Focus 1</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Cleric</span><span class="item-trait">Emotion</span><span class="item-trait">Enchantment</span><span class="item-trait">Mental</span>
-**Source** [[Dark Archive]]
-**Domain** [[Indulgence Domain]] (apocryphal)
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Domain** [[DATABASE/domain/Indulgence Domain|indulgence]] (apocryphal)
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Area** 5-foot emanation; **Targets** you and allies in the area
 **Duration** 1 minute

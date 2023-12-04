@@ -25,6 +25,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -42,9 +43,9 @@ type: Spell
 # Comprehend Language<span class="item-type">Spell 2</span>
 
 <span class="item-trait">Divination</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, divine, occult
-**Deities** [[Eritrice]], [[Gruhastha]], [[Thoth]], [[Winlas]]
+**Deities** [[DATABASE/deity/Eritrice|Eritrice]], [[DATABASE/deity/Gruhastha|Gruhastha]], [[DATABASE/deity/Thoth|Thoth]], [[DATABASE/deity/Winlas|Winlas]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet; **Targets** 1 creature
 **Duration** 1 hour

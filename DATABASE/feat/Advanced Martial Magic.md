@@ -11,6 +11,7 @@ name: Advanced Martial Magic
 prerequisite: '[[DATABASE/feat/Basic Martial Magic|Basic Martial Magic]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Advanced Martial Magic <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Secrets of Magic]] 
-**Archetype** [[Magus]]
-**Prerequisites** [[Basic Martial Magic]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
+**Archetype** [[DATABASE/archetype/Magus|Magus]]
+**Prerequisites** [[DATABASE/feat/Basic Martial Magic|Basic Martial Magic]]
 
 ---
 You gain one magus feat. For the purpose of meeting its prerequisites, your magus level is equal to half your character level.

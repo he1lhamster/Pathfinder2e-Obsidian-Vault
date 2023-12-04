@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -56,7 +57,7 @@ weapon_type: null
 # Skeptic's Elixir<span class="item-type">Item 1+</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Elixir</span>
-**Source** [[Pathfinder 163. Ruins of Gauntlight]]
+**Source** [[DATABASE/source/Pathfinder 163. Ruins of Gauntlight|Pathfinder #163: Ruins of Gauntlight]]
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
@@ -65,21 +66,21 @@ This elixir sharpens your mind and allows you to see through lies, falsehoods, a
 
 ## Skeptic's Elixir (Lesser)<span class="item-type">Item 1</span>
 
-**Source** [[Pathfinder 163. Ruins of Gauntlight]]
+**Source** [[DATABASE/source/Pathfinder 163. Ruins of Gauntlight|Pathfinder #163: Ruins of Gauntlight]]
 **Price** 4 gp
 **Bulk** L
 The bonus is +1, and the duration is 1 minute.
 
 ## Skeptic's Elixir (Moderate)<span class="item-type">Item 6</span>
 
-**Source** [[Pathfinder 163. Ruins of Gauntlight]]
+**Source** [[DATABASE/source/Pathfinder 163. Ruins of Gauntlight|Pathfinder #163: Ruins of Gauntlight]]
 **Price** 50 gp
 **Bulk** L
 The bonus is +2, and the duration is 10 minutes.
 
 ## Skeptic's Elixir (Greater)<span class="item-type">Item 11</span>
 
-**Source** [[Pathfinder 163. Ruins of Gauntlight]]
+**Source** [[DATABASE/source/Pathfinder 163. Ruins of Gauntlight|Pathfinder #163: Ruins of Gauntlight]]
 **Price** 300 gp
 **Bulk** L
 The bonus is +3, and the duration is 1 hour.

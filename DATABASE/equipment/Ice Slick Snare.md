@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -57,9 +58,9 @@ weapon_type: null
 # Ice Slick Snare<span class="item-type">Item 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Cold</span><span class="item-trait">Consumable</span><span class="item-trait">Mechanical</span><span class="item-trait">Snare</span><span class="item-trait">Trap</span>
-**Source** [[Pathfinder Special. Fumbus]]
+**Source** [[DATABASE/source/Pathfinder Special. Fumbus|Pathfinder Special: Fumbus]]
 **Price** 40 gp
 **Bulk** —
 
 ---
-Using a [[Frost Vial]] as a catalyst, this snare spills out over the ground when triggered to create a slippery patch of ice on the ground. When a creature triggers this snare, it takes 2d6 cold damage and must attempt a DC 22 Reflex saving throw.
+Using a [[DATABASE/equipment/Frost Vial|moderate frost vial]] as a catalyst, this snare spills out over the ground when triggered to create a slippery patch of ice on the ground. When a creature triggers this snare, it takes 2d6 cold damage and must attempt a DC 22 Reflex saving throw.

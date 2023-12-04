@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Steamflight Pack<span class="item-type">Item 15</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Clockwork</span><span class="item-trait">Steam</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 6,000 gp
 **Usage** worn backpack; **Bulk** 2
 **Activate** <span class="action-icon">1</span> Interact

@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -50,7 +51,7 @@ weapon_type: null
 ---
 # Games<span class="item-type">Item 0+</span>
 
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Hands** 2; **Usage** held in 2 hands; **Bulk** L
 
 ---
@@ -58,13 +59,13 @@ A nigh-infinite assortment of games exist in Golarion. Simple games, including d
 
 ## Games<span class="item-type">Item 0</span>
 
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 5 sp (-5 gp, see text)
 **Bulk** L
 
 ## Loaded Dice<span class="item-type">Item 1</span>
 
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 5 gp
 **Bulk** L
-These dice are weighted on one side to ensure they always land with the desired number facing up. Loaded dice grant you a +1 item bonus to [[Lore]] checks to gamble with the dice. You can determine a die is loaded while handling it with a successful secret DC 20 Perception check. Determining dice are loaded without handling the dice is more difficult, especially since smart cheaters switch loaded dice in and out so they don't suspiciously roll the same number over and over. In this case, an observer must succeed at a secret Perception check against the roller's Games Lore or [[Thievery]] DC to notice the switches or the patterns.
+These dice are weighted on one side to ensure they always land with the desired number facing up. Loaded dice grant you a +1 item bonus to [[DATABASE/skill/Lore|Games Lore]] checks to gamble with the dice. You can determine a die is loaded while handling it with a successful secret DC 20 Perception check. Determining dice are loaded without handling the dice is more difficult, especially since smart cheaters switch loaded dice in and out so they don't suspiciously roll the same number over and over. In this case, an observer must succeed at a secret Perception check against the roller's Games Lore or [[DATABASE/skill/Thievery|Thievery]] DC to notice the switches or the patterns.

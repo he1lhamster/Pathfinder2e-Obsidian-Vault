@@ -11,6 +11,7 @@ name: Accelerating Touch
 prerequisite: devotion spell ( [[DATABASE/spell/Lay on Hands|lay on hands]] )
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,13 +24,13 @@ type: Feat
 # Accelerating Touch <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Champion</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Blessed One]]*
-**Prerequisites** devotion spell ([[Lay on Hands]])
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Blessed One|Blessed One]]*
+**Prerequisites** devotion spell ([[DATABASE/spell/Lay on Hands|lay on hands]])
 * This archetype offers Accelerating Touch at a different level than displayed here.
 
 ---
-Your healing energies are infused with bounding energy. A creature that recovers Hit Points from your [[Lay on Hands]] gains a +10-foot status bonus to its Speed until the end of its next turn.
+Your healing energies are infused with bounding energy. A creature that recovers Hit Points from your [[DATABASE/spell/Lay on Hands|lay on hands]] gains a +10-foot status bonus to its Speed until the end of its next turn.
 
 ## Archetype Use
 

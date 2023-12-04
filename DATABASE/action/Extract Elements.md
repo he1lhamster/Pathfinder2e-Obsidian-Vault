@@ -7,6 +7,7 @@ id: '2127'
 name: Extract Elements
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 trait:
@@ -20,7 +21,7 @@ type: Action
 # Extract Elements <span class="action-icon">1</span>
 
 <span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Primal</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
 You extract elemental matter from a creature's body to weaken it and take its power for your own. Target a creature within 30 feet that has a trait matching one of your kinetic elements or is made of one of your kinetic elements. The target takes 2d4 damage (with no damage type) and becomes susceptible to your impulses, depending on its Fortitude save against your class DC.

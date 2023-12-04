@@ -68,19 +68,19 @@ wisdom: '+1'
 # Barkeep
 
 Barkeeps are often friends and mentors within a community, lending an ear while supplying libations. The best barkeeps have some talent for storytelling and passing on valuable advice.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 15
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Barkeep<span class="item-type">Creature 1</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Perception** +6
-**Languages** [[Common]]
-**Skills** [[Lore]] +9, [[Athletics]] +6, [[Deception]] +6, [[Diplomacy]] +8, [[Performance]] +6, [[Society]] +5, [[Thievery]] +3
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Lore|Alcohol Lore]] +9, [[DATABASE/skill/Athletics|Athletics]] +6, [[DATABASE/skill/Deception|Deception]] +6, [[DATABASE/skill/Diplomacy|Diplomacy]] +8, [[DATABASE/skill/Performance|Performance]] +6, [[DATABASE/skill/Society|Society]] +5, [[DATABASE/skill/Thievery|Thievery]] +3
 **Str** +3, **Dex** +0, **Con** +2, **Int** +0, **Wis** +1, **Cha** +3
-**Items** barkeep's apron (functions as [[Padded Armor]]), flask of whiskey, [[Mug]], [[Sap]]
+**Items** barkeep's apron (functions as [[DATABASE/armor/Padded Armor|padded armor]]), flask of whiskey, [[DATABASE/equipment/Mug|pewter mug]], [[DATABASE/weapon/Sap|sap]]
 
 ---
 **AC** 14; **Fort** +7, **Ref** +3, **Will** +6

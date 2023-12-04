@@ -2,6 +2,7 @@
 id: '297'
 name: Vocal
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 153. Life''s Long Shadows|Pathfinder #153: Life''s
   Long Shadows]]'
 trait:
@@ -11,5 +12,4 @@ type: Trait
 ---
 # Vocal
 
-**Source** [[Pathfinder 153. Life's Long Shadows]]
-_Note from Nethys: no description was provided for this trait_
+**Source** [[DATABASE/source/Pathfinder 153. Life's Long Shadows|Pathfinder #153: Life's Long Shadows]]

@@ -11,6 +11,7 @@ name: Twin Psyche
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Twin Psyche <span class="item-type">Feat 20</span>
 
 <span class="item-trait">Psychic</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 
 ---
-You've segmented your psyche so it can operate in tandem. When you [[Unleash Psyche]], you can double its duration.
+You've segmented your psyche so it can operate in tandem. When you [[DATABASE/action/Unleash Psyche|Unleash your Psyche]], you can double its duration.

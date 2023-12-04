@@ -3,6 +3,7 @@ bloodline: Psychopomp
 id: '13'
 name: Psychopomp
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 spell:
 - '[[DATABASE/spell/Calm Emotions|Calm Emotions]]'
@@ -24,10 +25,10 @@ type: Sorcerer Bloodline
 ---
 # Psychopomp
 
-**Source** [[Advanced Player's Guide]] 
-For good or ill, your ancestors' deeds drew the attention of [[Psychopomp]], or you might somehow count one in your family tree. The presence of these shepherds of souls and enemies of undeath has left an indelible mark on you.
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+For good or ill, your ancestors' deeds drew the attention of [[DATABASE/monsterfamily/Psychopomp|psychopomps]], or you might somehow count one in your family tree. The presence of these shepherds of souls and enemies of undeath has left an indelible mark on you.
 **Spell List** divine
-**Bloodline Skills** [[Intimidation]], [[Religion]]
-**Granted Spells** cantrip: [[Disrupt Undead]], 1st: [[Heal]], 2nd: [[Calm Emotions]], 3rd: [[Searing Light]], 4th: [[Dimensional Anchor]], 5th: [[Death Ward]], 6th: [[Spirit Blast]], 7th: [[Finger of Death]], 8th: [[Spirit Song]], 9th: [[Massacre]]
-**Bloodline Spells** initial: [[Sepulchral Mask]], advanced: [[Spirit Veil]], greater: [[Shepherd of Souls]]
+**Bloodline Skills** [[DATABASE/skill/Intimidation|Intimidation]], [[DATABASE/skill/Religion|Religion]]
+**Granted Spells** cantrip: [[DATABASE/spell/Disrupt Undead|disrupt undead]], 1st: [[DATABASE/spell/Heal|heal]], 2nd: [[DATABASE/spell/Calm Emotions|calm emotions]], 3rd: [[DATABASE/spell/Searing Light|searing light]], 4th: [[DATABASE/spell/Dimensional Anchor|dimensional anchor]], 5th: [[DATABASE/spell/Death Ward|death ward]], 6th: [[DATABASE/spell/Spirit Blast|spirit blast]], 7th: [[DATABASE/spell/Finger of Death|finger of death]], 8th: [[DATABASE/spell/Spirit Song|spirit song]], 9th: [[DATABASE/spell/Massacre|massacre]]
+**Bloodline Spells** initial: [[DATABASE/spell/Sepulchral Mask|sepulchral mask]], advanced: [[DATABASE/spell/Spirit Veil|spirit veil]], greater: [[DATABASE/spell/Shepherd of Souls|shepherd of souls]]
 **Blood Magic** The border between life and death becomes blurred to you. Either you gain a +2 status bonus to Fortitude saving throws for 1 round, or a target takes 1 damage per spell level. The damage is negative if the target is living or positive if the target is undead. If the spell already deals that type of damage, combine it with the spell's initial damage before determining weaknesses and resistances.

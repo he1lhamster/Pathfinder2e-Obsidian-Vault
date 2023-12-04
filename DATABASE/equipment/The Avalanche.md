@@ -31,6 +31,7 @@ rarity: Unique
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -57,7 +58,7 @@ weapon_type: null
 # The Avalanche<span class="item-type">Item 20</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="item-trait">Artifact</span><span class="item-trait">Evocation</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span>
-**Source** [[Pathfinder 192. Worst of All Possible Worlds]]
+**Source** [[DATABASE/source/Pathfinder 192. Worst of All Possible Worlds|Pathfinder #192: Worst of All Possible Worlds]]
 **Usage** carried; **Bulk** —
 **Suit** Keys (Dex); **Alignment** lawful evil
 
@@ -66,5 +67,5 @@ _The Avalanche_ represents unmitigated disasters, destruction that overruns all 
 **Activate** <span class="action-icon">4</span> envision, Interact **Frequency** once per day; **Effect** You wave the card in the air and hurl staggering volumes of ice, snow, and rocks out into the world. This magical avalanche buries your foes. Choose up to 4 creatures within 60 feet, each of whom must attempt a Reflex save against your class DC. Regardless of their saving throw, the creature's space becomes greater difficult terrain from the mounds of ice, snow, and rubble.
 **Critical Success** The creature is unaffected.
 **Success** The creature takes 5d8 bludgeoning damage and is pushed into an adjacent space of its choice.
-**Failure** The creature takes 10d8 bludgeoning damage, is knocked [[Prone]], and is [[Restrained]].
-**Critical Failure** The creature takes 20d8 bludgeoning damage, is knocked prone, and is [[Immobilized]].
+**Failure** The creature takes 10d8 bludgeoning damage, is knocked [[DATABASE/condition/Prone|prone]], and is [[DATABASE/condition/Restrained|restrained]].
+**Critical Failure** The creature takes 20d8 bludgeoning damage, is knocked prone, and is [[DATABASE/condition/Immobilized|immobilized]].

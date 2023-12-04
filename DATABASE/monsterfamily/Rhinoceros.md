@@ -3,6 +3,7 @@ creature_family: Rhinoceros
 id: '150'
 name: Rhinoceros
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Rhinoceros
 
-**Source** [[Bestiary 2]] 
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
 This hefty animal is easily recognizable by the distinctive upward-thrusting horn on its snout. Rhinoceroses are herbivorous and, in spite of their hulking size, can run at considerable speed. While rhinos have good hearing and a keen sense of smell, their eyesight is relatively poor.
 
 ### Members
 
-[[Rhinoceros]] (Creature 4), [[Woolly Rhinoceros]] (Creature 6)
+[[DATABASE/monster/Rhinoceros|Rhinoceros]] (Creature 4), [[DATABASE/monster/Woolly Rhinoceros|Woolly Rhinoceros]] (Creature 6)
 
 ###  Rhinoceros Horns
 

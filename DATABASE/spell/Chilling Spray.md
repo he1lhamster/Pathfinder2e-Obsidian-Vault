@@ -22,6 +22,7 @@ patron_theme: '[[DATABASE/witchpatron/Baba Yaga|Baba Yaga]]'
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Reflex
 school: Evocation
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
@@ -39,10 +40,10 @@ type: Spell
 # Chilling Spray<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Cold</span><span class="item-trait">Evocation</span>
-**Source** [[Advanced Player's Guide]] , [[Gods & Magic]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] , [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Traditions** arcane, primal
-**Deity** [[Kostchtchie]]
-**Patron Theme** [[Baba Yaga]]
+**Deity** [[DATABASE/deity/Kostchtchie|Kostchtchie]]
+**Patron Theme** [[DATABASE/witchpatron/Baba Yaga|baba yaga]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Area** 15-foot cone
 **Saving Throw** Reflex

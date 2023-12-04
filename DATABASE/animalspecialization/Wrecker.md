@@ -2,11 +2,12 @@
 id: '6'
 name: Wrecker
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait: null
 type: Animal Companion Specialization
 
 ---
 # Wrecker
-**Source** [[Core Rulebook]] 
-Your companion smashes things. Its unarmed attacks ignore half an object's Hardness. Its [[Athletics]] proficiency increases to master, and its Strength modifier increases by 1.
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+Your companion smashes things. Its unarmed attacks ignore half an object's Hardness. Its [[DATABASE/skill/Athletics|Athletics]] proficiency increases to master, and its Strength modifier increases by 1.

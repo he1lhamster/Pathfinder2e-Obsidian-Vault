@@ -11,6 +11,7 @@ name: Black Cat Curse
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Divination
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -26,7 +27,7 @@ type: Feat
 # Black Cat Curse <span class="action-icon">5</span> <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Catfolk</span><span class="item-trait">Divination</span><span class="item-trait">Misfortune</span><span class="item-trait">Occult</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Frequency** once per day
 **Trigger** A creature within 30 feet you can see would succeed at a save.
 
@@ -37,7 +38,7 @@ You hiss a spiteful curse at the creature. The target must reroll the triggering
 
 **Catfolk:**
 
-A creature with this trait is a member of the [[Catfolk]] ancestry. Catfolk are humanoids with feline features. An ability with this trait can be used or selected only by catfolk. An item with this trait is created and used by catfolk.
+A creature with this trait is a member of the [[DATABASE/ancestry/Catfolk|catfolk]] ancestry. Catfolk are humanoids with feline features. An ability with this trait can be used or selected only by catfolk. An item with this trait is created and used by catfolk.
 
 **Divination:**
 

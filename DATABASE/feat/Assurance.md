@@ -11,6 +11,7 @@ name: Assurance
 prerequisite: trained in at least one skill
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -25,7 +26,7 @@ type: Feat
 # Assurance <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Fortune</span><span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Prerequisites** trained in at least one skill
 
 ---
@@ -34,7 +35,7 @@ Even in the worst circumstances, you can perform basic tasks. Choose a skill you
 
 ## Assurance Leads To...
 
-[[Automatic Knowledge]]
+[[DATABASE/feat/Automatic Knowledge|Automatic Knowledge]]
 
 ## Traits
 

@@ -11,6 +11,7 @@ name: Towering Presence
 prerequisite: '[[DATABASE/feat/Faultspawn|Faultspawn]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Illusion
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -28,12 +29,12 @@ type: Feat
 # Towering Presence <span class="action-icon">1</span> <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Divine</span><span class="item-trait">Illusion</span><span class="item-trait">Polymorph</span><span class="item-trait">Tiefling</span><span class="item-trait">Transmutation</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 **Frequency** once per hour
-**Prerequisites** [[Faultspawn]]
+**Prerequisites** [[DATABASE/feat/Faultspawn|Faultspawn]]
 
 ---
-You fill an area with your force of will, towering beyond where your true form should be. Increase your size to Large until the beginning of your next turn. Your equipment grows with you but returns to natural size if removed. You're [[Clumsy]]. Your reach increases by 5 feet (or by 10 feet if you started out Tiny), and you gain a +2 status bonus to melee damage. Towering Presence has no effect if you were already Large or larger.
+You fill an area with your force of will, towering beyond where your true form should be. Increase your size to Large until the beginning of your next turn. Your equipment grows with you but returns to natural size if removed. You're [[DATABASE/condition/Clumsy|clumsy 1]]. Your reach increases by 5 feet (or by 10 feet if you started out Tiny), and you gain a +2 status bonus to melee damage. Towering Presence has no effect if you were already Large or larger.
 
 ## Traits
 
@@ -56,7 +57,7 @@ These effects transform the target into a new form. A target can't be under the 
 
 **Tiefling:**
 
-A creature with this trait has the tiefling versatile heritage. Tieflings are [[Planar Scion]] descended from fiends. An ability with this trait can be used or selected only by tieflings.
+A creature with this trait has the tiefling versatile heritage. Tieflings are [[DATABASE/monsterfamily/Planar Scion|planar scions]] descended from fiends. An ability with this trait can be used or selected only by tieflings.
 
 **Transmutation:**
 

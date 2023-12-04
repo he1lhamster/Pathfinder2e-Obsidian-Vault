@@ -11,6 +11,7 @@ name: Impenetrable Fog
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -28,10 +29,10 @@ type: Feat
 # Impenetrable Fog <span class="action-icon">3</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Manipulate</span><span class="item-trait">Overflow</span><span class="item-trait">Primal</span><span class="item-trait">Water</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
-Fog condenses in a chaotic, swirling pattern, thick enough that it seems to push back against you. You call forth a fog bank in a 10-foot burst within 120 feet. All creatures in the fog are [[Concealed]], and all creatures outside the fog become concealed to creatures within it. The fog is so magically dense it impedes movement, making the area difficult terrain. The fog lasts until the end of your next turn, and you can Sustain the impulse up to 1 minute.
+Fog condenses in a chaotic, swirling pattern, thick enough that it seems to push back against you. You call forth a fog bank in a 10-foot burst within 120 feet. All creatures in the fog are [[DATABASE/condition/Concealed|concealed]], and all creatures outside the fog become concealed to creatures within it. The fog is so magically dense it impedes movement, making the area difficult terrain. The fog lasts until the end of your next turn, and you can Sustain the impulse up to 1 minute.
 
 ---
 **Level (+3)** You can make the radius of the burst larger. Increase its maximum size by 5 feet.
@@ -48,7 +49,7 @@ You must physically manipulate an item or make gestures to use an action with th
 
 **Overflow:**
 
-Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
+Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[DATABASE/action/Channel Elements|Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
 
 **Primal:**
 

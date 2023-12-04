@@ -112,33 +112,33 @@ wisdom: '+4'
 # Lich
 
 A wizard whose insatiable desire for arcane power eclipsed their mortal life, the lich is a truly devious and versatile spellcaster.
-**Recall Knowledge - Undead ([[Religion]])**: DC 35
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 35
 **Unspecific Lore**: DC 33
 **Specific Lore**: DC 30
 
 # Lich<span class="item-type">Creature 12</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Undead</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +20; darkvision
-**Languages** [[Abyssal]], [[Aklo]], [[Common]], [[Draconic]], [[Elven]], [[Infernal]], [[Necril]], [[Undercommon]]
-**Skills** [[Arcana]] +28, [[Crafting]] +24 (can craft magic items), [[Deception]] +17, [[Diplomacy]] +19, [[Religion]] +22, [[Stealth]] +20
+**Languages** [[DATABASE/language/Abyssal|Abyssal]], [[DATABASE/language/Aklo|Aklo]], [[DATABASE/language/Common|Common]], [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Elven|Elven]], [[DATABASE/language/Infernal|Infernal]], [[DATABASE/language/Necril|Necril]], [[DATABASE/language/Undercommon|Undercommon]]
+**Skills** [[DATABASE/skill/Arcana|Arcana]] +28, [[DATABASE/skill/Crafting|Crafting]] +24 (can craft magic items), [[DATABASE/skill/Deception|Deception]] +17, [[DATABASE/skill/Diplomacy|Diplomacy]] +19, [[DATABASE/skill/Religion|Religion]] +22, [[DATABASE/skill/Stealth|Stealth]] +20
 **Str** +0, **Dex** +4, **Con** +0, **Int** +6, **Wis** +4, **Cha** +3
-**Items** _potion of [[Invisibility]]_, _scroll of [[Teleport]]_, [[Staff of Fire]]
+**Items** _potion of [[DATABASE/spell/Invisibility|invisibility]]_, _scroll of [[DATABASE/spell/Teleport|teleport]]_, [[DATABASE/equipment/Staff of Fire|staff of fire (greater)]]
 
 ---
 **AC** 31; **Fort** +17, **Ref** +21, **Will** +23; +1 status to all saves vs. positive
-**HP** 190 ([[Negative Healing]], rejuvenation); **Immunities** death effects, disease, paralyzed, poison, unconscious; **Resistances** cold 10, physical 10 (except magic bludgeoning)
+**HP** 190 ([[DATABASE/monsterability/Negative Healing|negative healing]], rejuvenation); **Immunities** death effects, disease, paralyzed, poison, unconscious; **Resistances** cold 10, physical 10 (except magic bludgeoning)
 <span class="in-box-ability">**Frightful Presence** (aura, emotion, fear, mental) 60 feet, DC 29</span><span class="in-box-ability"> **Counterspell** <span class="action-icon">5</span> **Trigger** A creature casts a spell the lich has prepared. **Effect** The lich expends a prepared spell to counter the triggering creature’s casting of that same spell. The lich loses its spell slot as if it had cast the triggering spell. The lich then attempts to counteract the triggering spell.</span>
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> hand +24 [+19/+14] (finesse, magical), **Damage** 4d8 negative plus paralyzing touch</span>**Arcane Prepared Spells** DC 36, attack +26; **6th** _[[Chain Lightning]]_, _[[Dominate]]_, _[[Vampiric Exsanguination]]_; **5th** _[[Cloudkill]]_, _[[Cone of Cold]]_ (x2), _[[Wall of Ice]]_; **4th** _[[Dimension Door]]_, _[[Dispel Magic]]_, _[[Fire Shield]]_, _[[Fly]]_; **3rd** _[[Blindness]]_, _[[Locate]]_, _[[Magic Missile]]_, _[[Vampiric Touch]]_; **2nd** _[[False Life]]_, _[[Mirror Image]]_, _[[Resist Energy]]_, _[[See Invisibility]]_; **1st** _[[Fleet Step]]_, _[[Ray of Enfeeblement]]_ (x2), _[[True Strike]]_; **Cantrips** **(6th)** _[[Detect Magic]]_, _[[Mage Hand]]_, _[[Message]]_, _[[Ray of Frost]]_, _[[Shield]]_
-<span class="in-box-ability">**Drain [[Lich Soul Cage]]** <span class="action-icon">4</span> **Frequency** once per day; **Effect** The lich taps into its soul cage's power to cast any arcane spell up to the highest level the lich can cast, even if the spell being cast is not one of the lich's prepared spells. The lich's soul cage doesn't need to be present for the lich to use this ability.</span><span class="in-box-ability">**Paralyzing Touch** (arcane, curse, incapacitation, necromancy) A creature damaged by the lich's hand Strike must succeed at a DC 32 Fortitude save. The creature becomes [[Paralyzed]] for 1 round on a failure. On a critical failure, the creature is paralyzed permanently, falls [[Prone]], and seems dead. A DC 25 [[Medicine]] check reveals the victim is alive.</span><span class="in-box-ability">**Steady Spellcasting** If a reaction would disrupt the lich’s spellcasting action, the lich attempts a DC 15 flat check. On a success, the action isn’t disrupted.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> hand +24 [+19/+14] (finesse, magical), **Damage** 4d8 negative plus paralyzing touch</span>**Arcane Prepared Spells** DC 36, attack +26; **6th** _[[DATABASE/spell/Chain Lightning|chain lightning]]_, _[[DATABASE/spell/Dominate|dominate]]_, _[[DATABASE/spell/Vampiric Exsanguination|vampiric exsanguination]]_; **5th** _[[DATABASE/spell/Cloudkill|cloudkill]]_, _[[DATABASE/spell/Cone of Cold|cone of cold]]_ (x2), _[[DATABASE/spell/Wall of Ice|wall of ice]]_; **4th** _[[DATABASE/spell/Dimension Door|dimension door]]_, _[[DATABASE/spell/Dispel Magic|dispel magic]]_, _[[DATABASE/spell/Fire Shield|fire shield]]_, _[[DATABASE/spell/Fly|fly]]_; **3rd** _[[DATABASE/spell/Blindness|blindness]]_, _[[DATABASE/spell/Locate|locate]]_, _[[DATABASE/spell/Magic Missile|magic missile]]_, _[[DATABASE/spell/Vampiric Touch|vampiric touch]]_; **2nd** _[[DATABASE/spell/False Life|false life]]_, _[[DATABASE/spell/Mirror Image|mirror image]]_, _[[DATABASE/spell/Resist Energy|resist energy]]_, _[[DATABASE/spell/See Invisibility|see invisibility]]_; **1st** _[[DATABASE/spell/Fleet Step|fleet step]]_, _[[DATABASE/spell/Ray of Enfeeblement|ray of enfeeblement]]_ (x2), _[[DATABASE/spell/True Strike|true strike]]_; **Cantrips** **(6th)** _[[DATABASE/spell/Detect Magic|detect magic]]_, _[[DATABASE/spell/Mage Hand|mage hand]]_, _[[DATABASE/spell/Message|message]]_, _[[DATABASE/spell/Ray of Frost|ray of frost]]_, _[[DATABASE/spell/Shield|shield]]_
+<span class="in-box-ability">**Drain [[DATABASE/equipment/Lich Soul Cage|Soul Cage]]** <span class="action-icon">4</span> **Frequency** once per day; **Effect** The lich taps into its soul cage's power to cast any arcane spell up to the highest level the lich can cast, even if the spell being cast is not one of the lich's prepared spells. The lich's soul cage doesn't need to be present for the lich to use this ability.</span><span class="in-box-ability">**Paralyzing Touch** (arcane, curse, incapacitation, necromancy) A creature damaged by the lich's hand Strike must succeed at a DC 32 Fortitude save. The creature becomes [[DATABASE/condition/Paralyzed|paralyzed]] for 1 round on a failure. On a critical failure, the creature is paralyzed permanently, falls [[DATABASE/condition/Prone|prone]], and seems dead. A DC 25 [[DATABASE/skill/Medicine|Medicine]] check reveals the victim is alive.</span><span class="in-box-ability">**Steady Spellcasting** If a reaction would disrupt the lich’s spellcasting action, the lich attempts a DC 15 flat check. On a success, the action isn’t disrupted.</span>
 
 ###  Lich Crafting
 
-Liches spend a good deal of their downtime crafting magic items. In particular, a lich will create items that help it defeat and overcome known problems. This fact can prove especially dangerous if the PCs encounter a lich but fail to destroy its [[Lich Soul Cage]], for the next time they encounter the lich, it will likely have just the right tools to overcome their defenses.
+Liches spend a good deal of their downtime crafting magic items. In particular, a lich will create items that help it defeat and overcome known problems. This fact can prove especially dangerous if the PCs encounter a lich but fail to destroy its [[DATABASE/equipment/Lich Soul Cage|soul cage]], for the next time they encounter the lich, it will likely have just the right tools to overcome their defenses.
 
 ###  Lich Treasure
 

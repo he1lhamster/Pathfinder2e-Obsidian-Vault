@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -52,10 +53,10 @@ weapon_type: null
 # Knight's Tabard<span class="item-type">Item 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span>
-**Source** [[Knights of Lastwall]]
+**Source** [[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]
 **Price** 15 gp
 **Bulk** L
 **Access** Knights of Lastwall have access to this item.
 
 ---
-This cloth vestment features the heraldry or symbol associated with an entity (such as a deity, kingdom, or organization). Knights typically wear it over armor and other clothing, helping them identify allies on the battlefield or distinguishing themselves in more peaceful situations. An individual wearing a tabard gains a +1 item bonus to [[Make an Impression]] on creatures who have a positive association with the entity represented on the tabard.
+This cloth vestment features the heraldry or symbol associated with an entity (such as a deity, kingdom, or organization). Knights typically wear it over armor and other clothing, helping them identify allies on the battlefield or distinguishing themselves in more peaceful situations. An individual wearing a tabard gains a +1 item bonus to [[DATABASE/action/Make an Impression|Make an Impression]] on creatures who have a positive association with the entity represented on the tabard.

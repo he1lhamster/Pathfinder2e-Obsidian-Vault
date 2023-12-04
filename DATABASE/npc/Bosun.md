@@ -64,19 +64,19 @@ wisdom: '+1'
 # Bosun
 
 A ship's boatswain, or bosun, leads the deckhands who maintain the ship.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 18
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Bosun<span class="item-type">Creature 3</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Perception** +8
-**Languages** [[Common]]
-**Skills** [[Acrobatics]] +9, [[Athletics]] +9, [[Intimidation]] +9, [[Lore]] +11
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +9, [[DATABASE/skill/Athletics|Athletics]] +9, [[DATABASE/skill/Intimidation|Intimidation]] +9, [[DATABASE/skill/Lore|Sailing Lore]] +11
 **Str** +2, **Dex** +4, **Con** +1, **Int** +0, **Wis** +1, **Cha** +2
-**Items** naval pike (functions as [[Spear]]), [[Dagger]]
+**Items** naval pike (functions as [[DATABASE/weapon/Spear|spear]]), [[DATABASE/weapon/Dagger|dagger]]
 
 ---
 **AC** 19; **Fort** +6, **Ref** +11, **Will** +8

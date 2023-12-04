@@ -20,6 +20,7 @@ patron_theme: null
 range: 60 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: basicFortitude
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
@@ -38,9 +39,9 @@ type: Spell
 # Noxious Metals<span class="item-type">Spell 3</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Manipulate</span><span class="item-trait">Metal</span><span class="item-trait">Poison</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Traditions** arcane
-**Deity** [[Ferrumnestra]]
+**Deity** [[DATABASE/deity/Ferrumnestra|Ferrumnestra]]
 **Cast** <span class="action-icon">2</span> 
 **Range** 60 feet; **Area** 20-foot burst
 **Defense** basic Fortitude
@@ -48,7 +49,7 @@ type: Spell
 ---
 This spell forces toxic metal to coalesce on the skin or surface of all living creatures in the area, dealing 4d6 poison damage with a basic Fortitude save. Any creature that has the plant trait, has the wood trait, or has an anathema toward metal, takes the following effects depending on the result of that Fortitude save.
 **Critical Success** The creature suffers no additional effects.
-**Success** The creature takes 1 [[Persistent Damage]] and is [[Sickened]] as long as it takes this persistent damage.
+**Success** The creature takes 1 [[DATABASE/condition/Persistent Damage|persistent poison damage]] and is [[DATABASE/condition/Sickened|sickened 1]] as long as it takes this persistent damage.
 **Failure** As success, except 1d4 persistent poison damage and sickened 2.
 **Critical Failure** As success, except 1d8 persistent poison damage and sickened 3.
 

@@ -3,6 +3,7 @@ creature_family: Bogeyman
 id: '118'
 name: Bogeyman
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 152. Legacy of the Lost God|Pathfinder #152:
   Legacy of the Lost God]]'
 trait: null
@@ -11,12 +12,12 @@ type: Creature Family
 ---
 # Bogeyman
 
-**Source** [[Pathfinder 152. Legacy of the Lost God]]
+**Source** [[DATABASE/source/Pathfinder 152. Legacy of the Lost God|Pathfinder #152: Legacy of the Lost God]]
 Bogeymen are stealers of innocence and devourers of souls. Few targets who survive an encounter with them remain unchanged. Different names are given to bogeymen according to their varying sizes and degrees of power, which typically advance as the monsters consume more souls.
 
 ### Members
 
-[[Bogey]] (Creature 3), [[Bogeyman]] (Creature 10), [[Bugaboo]] (Creature 6)
+[[DATABASE/monster/Bogey|Bogey]] (Creature 3), [[DATABASE/monster/Bogeyman|Bogeyman]] (Creature 10), [[DATABASE/monster/Bugaboo|Bugaboo]] (Creature 6)
 
 ###  Bogey Origins
 

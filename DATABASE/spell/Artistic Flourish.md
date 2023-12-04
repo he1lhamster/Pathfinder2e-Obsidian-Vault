@@ -22,6 +22,7 @@ patron_theme: null
 range: 15 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -38,8 +39,8 @@ type: Focus
 # Artistic Flourish<span class="item-type">Focus 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Cleric</span><span class="item-trait">Transmutation</span>
-**Source** [[Core Rulebook]] 
-**Domain** [[Creation Domain]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Domain** [[DATABASE/domain/Creation Domain|creation]]
 **Cast** <span class="action-icon">2</span> material, somatic
 **Range** 15 feet; **Targets** 1 item or work of art that fits entirely within the range
 **Duration** 10 minutes

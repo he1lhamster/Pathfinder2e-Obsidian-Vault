@@ -23,6 +23,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
@@ -38,9 +39,9 @@ type: Spell
 # Object Reading<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Divination</span>
-**Source** [[Advanced Player's Guide]] , [[Pathfinder 147. Tomorrow Must Burn]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] , [[DATABASE/source/Pathfinder 147. Tomorrow Must Burn|Pathfinder #147: Tomorrow Must Burn]]
 **Traditions** occult
-**Deity** [[Cosmic Caravan]]
+**Deity** [[DATABASE/deity/Cosmic Caravan|Cosmic Caravan]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** touch; **Targets** 1 object
 

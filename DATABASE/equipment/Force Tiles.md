@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -55,10 +56,10 @@ weapon_type: null
 # Force Tiles<span class="item-type">Item 13</span>
 
 <span class="item-trait">Catalyst</span><span class="item-trait">Consumable</span><span class="item-trait">Magical</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Price** 525 gp
 **Usage** held in 1 hand; **Bulk** L
 **Activate** Cast a Spell
 
 ---
-Light refracts in strange ways through these precisely ground glass tiles, lengthening the refracted force and causing it to push back. Adding this catalyst to a [[Wall of Force]] spell increases the wall's maximum length to 80 feet and maximum height to 40 feet and causes creatures that try to move into the wall's space (or are [[Shove]] into the wall) to take 2d6 force damage.
+Light refracts in strange ways through these precisely ground glass tiles, lengthening the refracted force and causing it to push back. Adding this catalyst to a [[DATABASE/spell/Wall of Force|wall of force]] spell increases the wall's maximum length to 80 feet and maximum height to 40 feet and causes creatures that try to move into the wall's space (or are [[DATABASE/action/Shove|Shoved]] into the wall) to take 2d6 force damage.

@@ -73,16 +73,16 @@ wisdom: '+2'
 # Hydra
 
 Hydras are multiheaded, foul-tempered serpentine beasts with voracious appetites, widely feared for their regeneration abilities.
-**Recall Knowledge - Beast ([[Arcana]], [[Nature]])**: DC 22
+**Recall Knowledge - Beast ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 22
 **Unspecific Lore**: DC 20
 **Specific Lore**: DC 17
 
 # Hydra<span class="item-type">Creature 6</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Huge</span><span class="item-trait">Beast</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +17; low-light vision, scent (imprecise) 30 feet
-**Skills** [[Athletics]] +17, [[Stealth]] +12 (+15 in water)
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +17, [[DATABASE/skill/Stealth|Stealth]] +12 (+15 in water)
 **Str** +7, **Dex** +4, **Con** +5, **Int** -3, **Wis** +2, **Cha** -1
 
 ---

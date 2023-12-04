@@ -11,6 +11,7 @@ name: Impose Order (Aphorite)
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -25,7 +26,7 @@ type: Feat
 # Impose Order (Aphorite) <span class="action-icon">5</span> <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Aphorite</span><span class="item-trait">Fortune</span>
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 **Frequency** once per day
 **Trigger** You would critically fail a skill check or suffer an effect with the misfortune trait.
 

@@ -11,6 +11,7 @@ name: Unbound Freedom
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Unbound Freedom <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Vanara</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 
 ---
-Your future is no other person's to control, and the cycles of your fate sometimes step in to protect you when that control would be taken from you. Whenever you would gain the [[Controlled]] condition, you can attempt a DC 17 flat check. On a success, you don't gain the condition.
+Your future is no other person's to control, and the cycles of your fate sometimes step in to protect you when that control would be taken from you. Whenever you would gain the [[DATABASE/condition/Controlled|controlled]] condition, you can attempt a DC 17 flat check. On a success, you don't gain the condition.
 
 ## Traits
 

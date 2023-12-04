@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Frost<span class="item-type">Item 8+</span>
 
 <span class="item-trait">Cold</span><span class="item-trait">Conjuration</span><span class="item-trait">Magical</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** etched onto a weapon; **Bulk** —
 
 ---
@@ -62,11 +63,11 @@ This weapon is empowered with freezing ice. It deals an additional 1d6 cold dama
 
 ## Frost<span class="item-type">Item 8</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 500 gp
 
 ## Frost (Greater)<span class="item-type">Item 15</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 6,500 gp
 The save DC is 34. Cold damage dealt by this weapon ignores the target’s cold resistance.

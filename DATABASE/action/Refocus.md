@@ -8,6 +8,7 @@ name: Refocus
 rarity: Common
 requirement: You have a focus pool, and you have spent at least 1 Focus Point since
   you last regained any FocusPoints.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
@@ -20,7 +21,7 @@ type: Action
 # Refocus
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Exploration</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Requirements** You have a focus pool, and you have spent at least 1 Focus Point since you last regained any Focus Points.
 
 ---

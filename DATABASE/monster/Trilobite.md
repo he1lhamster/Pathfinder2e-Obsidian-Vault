@@ -77,16 +77,16 @@ wisdom: '+2'
 
 Trilobites have segmented, chitinous bodies that armor them but provide enough flexibility for them to roll up and protect their vulnerable undersides from attack. Instead of jaws, trilobites have specialized structures called gnathobases at the base of some of their legs. These serrated and jagged structures grind and masticate any prey the trilobite latches onto, enabling the creatures to feed on anything from hard-shelled clams to soft-bodied creatures. While not particularly fast on their own, they can employ scuttling bursts of speed to dart into ocean silt or seaweed beds to escape predators.
  Oceanic wizards of many types employ trilobites as familiars. In addition to trilobites' durability, their ubiquity means they make capable spies for their masters as they travel unnoticed throughout the depths.
-**Recall Knowledge - Animal ([[Nature]])**: DC 13
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 13
 **Unspecific Lore**: DC 11
 **Specific Lore**: DC 8
 
 # Trilobite<span class="item-type">Creature -1</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Tiny</span><span class="item-trait">Animal</span><span class="item-trait">Aquatic</span>
-**Source** [[Bestiary 3]]
-**Perception** +8; [[Darkvision]], [[Wavesense]] (imprecise) 30 feet
-**Skills** [[Athletics]] +4, [[Stealth]] +5, [[Survival]] +4
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
+**Perception** +8; [[DATABASE/monsterability/Darkvision|darkvision]], [[DATABASE/monsterability/Wavesense|wavesense]] (imprecise) 30 feet
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +4, [[DATABASE/skill/Stealth|Stealth]] +5, [[DATABASE/skill/Survival|Survival]] +4
 **Str** +1, **Dex** +3, **Con** +2, **Int** -5, **Wis** +2, **Cha** +0
 
 ---
@@ -96,4 +96,4 @@ Trilobites have segmented, chitinous bodies that armor them but provide enough f
 
 ---
 **Speed** swim 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> gnathobase +7 [+3/-1] (agile, finesse), **Damage** 1d4+1 slashing</span><span class="in-box-ability">**Quick Escape** <span class="action-icon">2</span> The trilobite swims up to double its Speed and attempts to [[Hide]].</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> gnathobase +7 [+3/-1] (agile, finesse), **Damage** 1d4+1 slashing</span><span class="in-box-ability">**Quick Escape** <span class="action-icon">2</span> The trilobite swims up to double its Speed and attempts to [[DATABASE/action/Hide|Hide]].</span>

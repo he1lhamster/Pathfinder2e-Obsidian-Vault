@@ -7,6 +7,7 @@ id: '562'
 name: Shred
 rarity: Common
 requirement: The shark hit with a jaws Strike on its most recent action this turn.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 trait: null
@@ -16,7 +17,7 @@ type: Action
 ---
 # Shred <span class="action-icon">1</span>
 
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Requirements** The shark hit with a jaws Strike on its most recent action this turn.
 
 ---

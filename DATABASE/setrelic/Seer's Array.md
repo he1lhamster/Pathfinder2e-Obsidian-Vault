@@ -2,6 +2,7 @@
 id: '7'
 name: Seer's Array
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
 - '[[DATABASE/trait/Relic|Relic]]'
@@ -11,23 +12,23 @@ type: Set Relic
 # Seer's Array
 
 <span class="item-trait">Relic</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Aspects** mind and time
 
 ---
 Diviners through the ages have employed a variety of tools to glimpse the future, but one who assembles five pieces of a _seer's array_ gains strong second sight. _Seer's arrays_ can be found across Golarion, from the caravans of Varisian harrowers to the scale diviners at the court of the Dragon King of Xa Hoi. A diviner who wears the array is bound to be sought after for counsel, and those who consult such farsighted individuals do well to heed any advice given.
 
 ---
-**Set Items**: _[[Pendant of the Occult]]_ (level 3), _[[Staff of Divination]]_ (level 6), _[[Brooch of Inspiration]]_ (level 8), _[[Crystal Ball]]_ (level 14), _[[Robe of Eyes]]_ (level 17)
+**Set Items**: _[[DATABASE/equipment/Pendant of the Occult|pendant of the occult]]_ (level 3), _[[DATABASE/equipment/Staff of Divination|staff of divination]]_ (level 6), _[[DATABASE/equipment/Brooch of Inspiration|brooch of inspiration]]_ (level 8), _[[DATABASE/equipment/Crystal Ball|crystal ball (clear quartz)]]_ (level 14), _[[DATABASE/equipment/Robe of Eyes|robe of eyes]]_ (level 17)
 
 ---
 **Gifts**: The set grants the following gifts.
 
-* _1_: [[Recalculate]]
-* _2_: [[Borrow Time]]
-* _3_: [[Time Jump]]
-* _4_: [[Precognition]]
-* _5_: [[Time Reversal]]
+* _1_: [[DATABASE/relic/Recalculate|recalculate]]
+* _2_: [[DATABASE/relic/Borrow Time|borrow time]]
+* _3_: [[DATABASE/relic/Time Jump|time jump]]
+* _4_: [[DATABASE/relic/Precognition|precognition]]
+* _5_: [[DATABASE/relic/Time Reversal|time reversal]]
 
 ---
 The set grants the following features.

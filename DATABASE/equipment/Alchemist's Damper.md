@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: You're an expert with the affixed firearm.
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -58,9 +59,9 @@ weapon_type: null
 # Alchemist's Damper<span class="item-type">Item 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Consumable</span><span class="item-trait">Magical</span><span class="item-trait">Talisman</span><span class="item-trait">Transmutation</span>
-**Source** [[Pathfinder 179. Cradle of Quartz]]
+**Source** [[DATABASE/source/Pathfinder 179. Cradle of Quartz|Pathfinder #179: Cradle of Quartz]]
 **Price** 30 gp
-**Usage** attached to a [[Firearm]] with the kickback weapon trait; **Bulk** —
+**Usage** attached to a [[DATABASE/weapongroup/Firearm|firearm]] with the kickback weapon trait; **Bulk** —
 **Activate** <span class="action-icon">4</span> envision **Trigger** You attack with the affixed firearm; **Requirements** You're an expert with the affixed firearm.
 
 ---

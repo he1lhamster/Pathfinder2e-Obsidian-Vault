@@ -11,6 +11,7 @@ name: Charged Creation
 prerequisite: '[[DATABASE/feat/Persistent Creation|Persistent Creation]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 subcategory: null
@@ -23,12 +24,12 @@ type: Feat
 # Charged Creation <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Character Guide]] 
-**Archetype** [[Halcyon Speaker]]
-**Prerequisites** [[Persistent Creation]]
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
+**Archetype** [[DATABASE/archetype/Halcyon Speaker|Halcyon Speaker]]
+**Prerequisites** [[DATABASE/feat/Persistent Creation|Persistent Creation]]
 
 ---
-Your magic is drawn to your persistent creations. While you are within 30 feet of and have line of effect to your persistent creation, you can use it as the origin point for your line or cone spells. For instance, a [[Lightning Bolt]] could originate from the persistent creation rather than from you.
+Your magic is drawn to your persistent creations. While you are within 30 feet of and have line of effect to your persistent creation, you can use it as the origin point for your line or cone spells. For instance, a [[DATABASE/spell/Lightning Bolt|lightning bolt]] could originate from the persistent creation rather than from you.
 
 ## Traits
 

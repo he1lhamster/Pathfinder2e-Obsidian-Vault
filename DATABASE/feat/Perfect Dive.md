@@ -11,6 +11,7 @@ name: Perfect Dive
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Absalom, City of Lost Omens|Absalom, City of Lost Omens]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Perfect Dive <span class="action-icon">1</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Azarketi</span>
-**Source** [[Absalom, City of Lost Omens]], [[Azarketi Ancestry Web Supplement]]
+**Source** [[DATABASE/source/Absalom, City of Lost Omens|Absalom, City of Lost Omens]], [[DATABASE/source/Azarketi Ancestry Web Supplement|Azarketi Ancestry Web Supplement]]
 
 ---
-You dive into the water with exceptional skill and connection to the waves, urging the water itself to cushion your fall. You intentionally [[Leap]] or otherwise fall into the water, taking no falling damage regardless of the distance.
+You dive into the water with exceptional skill and connection to the waves, urging the water itself to cushion your fall. You intentionally [[DATABASE/action/Leap|Leap]] or otherwise fall into the water, taking no falling damage regardless of the distance.
 
 ## Traits
 

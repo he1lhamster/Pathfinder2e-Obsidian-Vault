@@ -94,19 +94,19 @@ wisdom: '+5'
 # Anadi Fateweaver
 
 The anadis manipulate the threads of fate as easily as they spin silk.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 22
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 22
 **Unspecific Lore**: DC 20
 **Specific Lore**: DC 17
 
 # Anadi Fateweaver<span class="item-type">Creature 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">NG</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Anadi</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 169. Kindled Magic]]
+**Source** [[DATABASE/source/Pathfinder 169. Kindled Magic|Pathfinder #169: Kindled Magic]]
 **Perception** +14
-**Languages** [[Anadi]], [[Common]]
-**Skills** [[Acrobatics]] +13, [[Athletics]] +11 (+15 to [[Climb]] in true or spider form), [[Crafting]] +9 (+13 weaving), [[Medicine]] +12, [[Nature]] +14, [[Survival]] +12
+**Languages** [[DATABASE/language/Anadi|Anadi]], [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +13, [[DATABASE/skill/Athletics|Athletics]] +11 (+15 to [[DATABASE/action/Climb|Climb]] in true or spider form), [[DATABASE/skill/Crafting|Crafting]] +9 (+13 weaving), [[DATABASE/skill/Medicine|Medicine]] +12, [[DATABASE/skill/Nature|Nature]] +14, [[DATABASE/skill/Survival|Survival]] +12
 **Str** +2, **Dex** +4, **Con** +0, **Int** +0, **Wis** +5, **Cha** +1
-**Items** [[Composite Shortbow]], [[Hide Armor]], [[Shortsword]]
+**Items** [[DATABASE/weapon/Composite Shortbow|composite shortbow (20 arrows)]], [[DATABASE/armor/Hide Armor|hide armor]], [[DATABASE/weapon/Shortsword|shortsword]]
 
 ---
 **AC** 21; **Fort** +9, **Ref** +12, **Will** +15
@@ -115,7 +115,7 @@ The anadis manipulate the threads of fate as easily as they spin silk.
 
 ---
 **Speed** 25 feet, climb 25 feet
-<span class="in-box-ability">**Melee**fangs +13 [+8/+3] (finesse), **Damage** 2d6+6 plus anadi venom</span><span class="in-box-ability">**Melee**shortsword +13 [+9/+5] (agile, finesse, versatile S), **Damage** 1d6+6 piercing</span><span class="in-box-ability">**Ranged**composite shortbow +13 [+8/+3] (deadly d10, propulsive, range increment 60 feet, reload 0), **Damage** 1d6+1 piercing</span>**Arcane Spontaneous Spells** DC 23, attack +15; **3rd** _[[Hypnotic Pattern]]_, _[[Mind Reading]]_ (2 slots); **2nd** _[[Augury]]_, _[[Invisibility]]_, _[[Status]]_ (3 slots); **1st** _[[Illusory Object]]_, _[[Magic Missile]]_, _[[Ray of Enfeeblement]]_ (3 slots); **Cantrips** **(3rd)** _[[Daze]]_, _[[Ghost Sound]]_, _[[Produce Flame]]_, _[[Shield]]_
-**Arcane Innate Spells** DC 23; **2nd** _[[Blur]]_, _[[Web]]_; **1st** _[[Color Spray]]_, _[[Mending]]_, _[[Unseen Servant]]_; **Cantrips** **(3rd)** _[[Dancing Lights]]_, _[[Detect Magic]]_, _[[Mage Hand]]_, _[[Message]]_
-**Rituals** DC 23; **3rd** _[[Arcane Weaving]]_
-<span class="in-box-ability">**Anadi Venom** (poison) **Saving Throw** DC 20 Fortitude; **Maximum Duration** 4 rounds; **Stage 1** 1d6 poison damage and [[Flat-Footed]] (1 round); **Stage 2** 1d6 poison damage, flat-footed, and [[Clumsy]] (1 round)</span><span class="in-box-ability">**Change Shape** <span class="action-icon">1</span> (arcane, concentrate, polymorph, transmutation) The anadi changes into their hybrid, spider, or human form. The above statistics assume the anadi is in hybrid form. While in human form, the anadi seeker loses their climb Speed and can't use their fangs attack. When in spider form, they can't use weapons.</span><span class="in-box-ability">**Spin Silk** (concentrate, exploration, manipulate) By spending several minutes, an anadi can produce silk to craft items made of cloth. An anadi can produce enough silk in a day to craft a single garment.</span>
+<span class="in-box-ability">**Melee**fangs +13 [+8/+3] (finesse), **Damage** 2d6+6 plus anadi venom</span><span class="in-box-ability">**Melee**shortsword +13 [+9/+5] (agile, finesse, versatile S), **Damage** 1d6+6 piercing</span><span class="in-box-ability">**Ranged**composite shortbow +13 [+8/+3] (deadly d10, propulsive, range increment 60 feet, reload 0), **Damage** 1d6+1 piercing</span>**Arcane Spontaneous Spells** DC 23, attack +15; **3rd** _[[DATABASE/spell/Hypnotic Pattern|hypnotic pattern]]_, _[[DATABASE/spell/Mind Reading|mind reading]]_ (2 slots); **2nd** _[[DATABASE/spell/Augury|augury]]_, _[[DATABASE/spell/Invisibility|invisibility]]_, _[[DATABASE/spell/Status|status]]_ (3 slots); **1st** _[[DATABASE/spell/Illusory Object|illusory object]]_, _[[DATABASE/spell/Magic Missile|magic missile]]_, _[[DATABASE/spell/Ray of Enfeeblement|ray of enfeeblement]]_ (3 slots); **Cantrips** **(3rd)** _[[DATABASE/spell/Daze|daze]]_, _[[DATABASE/spell/Ghost Sound|ghost sound]]_, _[[DATABASE/spell/Produce Flame|produce flame]]_, _[[DATABASE/spell/Shield|shield]]_
+**Arcane Innate Spells** DC 23; **2nd** _[[DATABASE/spell/Blur|blur]]_, _[[DATABASE/spell/Web|web]]_; **1st** _[[DATABASE/spell/Color Spray|color spray]]_, _[[DATABASE/spell/Mending|mending]]_, _[[DATABASE/spell/Unseen Servant|unseen servant]]_; **Cantrips** **(3rd)** _[[DATABASE/spell/Dancing Lights|dancing lights]]_, _[[DATABASE/spell/Detect Magic|detect magic]]_, _[[DATABASE/spell/Mage Hand|mage hand]]_, _[[DATABASE/spell/Message|message]]_
+**Rituals** DC 23; **3rd** _[[DATABASE/ritual/Arcane Weaving|arcane weaving]]_
+<span class="in-box-ability">**Anadi Venom** (poison) **Saving Throw** DC 20 Fortitude; **Maximum Duration** 4 rounds; **Stage 1** 1d6 poison damage and [[DATABASE/condition/Flat-Footed|flat-footed]] (1 round); **Stage 2** 1d6 poison damage, flat-footed, and [[DATABASE/condition/Clumsy|clumsy 1]] (1 round)</span><span class="in-box-ability">**Change Shape** <span class="action-icon">1</span> (arcane, concentrate, polymorph, transmutation) The anadi changes into their hybrid, spider, or human form. The above statistics assume the anadi is in hybrid form. While in human form, the anadi seeker loses their climb Speed and can't use their fangs attack. When in spider form, they can't use weapons.</span><span class="in-box-ability">**Spin Silk** (concentrate, exploration, manipulate) By spending several minutes, an anadi can produce silk to craft items made of cloth. An anadi can produce enough silk in a day to craft a single garment.</span>

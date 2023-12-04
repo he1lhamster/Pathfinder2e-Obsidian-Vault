@@ -7,6 +7,7 @@ id: '483'
 name: Drive
 rarity: Common
 requirement: You are piloting a vehicle.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
@@ -18,7 +19,7 @@ type: Action
 # Drive
 
 <span class="item-trait">Move</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Requirements** You are piloting a vehicle.
 
 ---

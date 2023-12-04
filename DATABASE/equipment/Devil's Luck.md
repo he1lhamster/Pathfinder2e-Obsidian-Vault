@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Enchantment
 size: null
@@ -58,9 +59,9 @@ weapon_type: null
 # Devil's Luck<span class="item-type">Item 3</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Contract</span><span class="item-trait">Enchantment</span><span class="item-trait">Fortune</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span>
-**Source** [[Pathfinder 164. Hands of the Devil]]
+**Source** [[DATABASE/source/Pathfinder 164. Hands of the Devil|Pathfinder #164: Hands of the Devil]]
 **Bulk** —
-**Devil** [[Imp]]; **Decipher Writing** [[Arcana]], [[Occultism]], [[Society]]
+**Devil** [[DATABASE/monster/Imp|imp]]; **Decipher Writing** [[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Occultism|Occultism]], [[DATABASE/skill/Society|Society]]
 
 ---
 You've bargained with an imp, one of the least powerful devils, for a fragment of infernal luck. 

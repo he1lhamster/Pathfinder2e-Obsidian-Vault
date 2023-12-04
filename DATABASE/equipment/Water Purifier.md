@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -52,7 +53,7 @@ weapon_type: null
 # Water Purifier<span class="item-type">Item 0+</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span>
-**Source** [[PFS Guide]]
+**Source** [[DATABASE/source/PFS Guide|PFS Guide]]
 **Bulk** —
 **Access** Member of the Pathfinder Society.
 
@@ -61,21 +62,21 @@ This small tube of metal and glass has an opening at one end into which water ca
 
 ## Water Purifier<span class="item-type">Item 0</span>
 
-**Source** [[PFS Guide]]
+**Source** [[DATABASE/source/PFS Guide|PFS Guide]]
 **Price** 5 gp
 **Hands** 2; **Bulk** L
 
 ## Replacement Filter (Level 1)<span class="item-type">Item 1</span>
 
-**Source** [[PFS Guide]]
+**Source** [[DATABASE/source/PFS Guide|PFS Guide]]
 **Price** 3 gp
 
 ## Replacement Filter (Level 5)<span class="item-type">Item 5</span>
 
-**Source** [[PFS Guide]]
+**Source** [[DATABASE/source/PFS Guide|PFS Guide]]
 **Price** 25 gp
 
 ## Replacement Filter (Level 10)<span class="item-type">Item 10</span>
 
-**Source** [[PFS Guide]]
+**Source** [[DATABASE/source/PFS Guide|PFS Guide]]
 **Price** 155 gp

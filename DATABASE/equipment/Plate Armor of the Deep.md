@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 size: null
@@ -55,10 +56,10 @@ weapon_type: null
 # Plate Armor of the Deep<span class="item-type">Item 15</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Abjuration</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 6,500 gp
 **Usage** worn armor; **Bulk** 4
-**Base Armor** [[Full Plate]]
+**Base Armor** [[DATABASE/armor/Full Plate|Full Plate]]
 
 ---
-This suit of _+2 greater resilient [[Full Plate]]_ is decorated with swirling, ornate motifs of waves and fish scales. While wearing it, you take no Speed reduction or check penalty from armor when Swimming, gain a +2 item bonus to Athletics checks to Swim, can breathe underwater, and can speak Aquan.
+This suit of _+2 greater resilient [[DATABASE/armor/Full Plate|full plate]]_ is decorated with swirling, ornate motifs of waves and fish scales. While wearing it, you take no Speed reduction or check penalty from armor when Swimming, gain a +2 item bonus to Athletics checks to Swim, can breathe underwater, and can speak Aquan.

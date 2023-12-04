@@ -67,20 +67,20 @@ wisdom: '+4'
 # Nwanyian Archer
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 25
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 25
 **Unspecific Lore**: DC 23
 **Specific Lore**: DC 20
 
 # Nwanyian Archer<span class="item-type">Creature 7</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">CG</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 183. Field of Maidens]]
+**Source** [[DATABASE/source/Pathfinder 183. Field of Maidens|Pathfinder #183: Field of Maidens]]
 **Perception** +17
-**Languages** [[Drooni]]
-**Skills** [[Acrobatics]] +15, [[Athletics]] +15, [[Stealth]] +17, [[Survival]] +15
+**Languages** [[DATABASE/language/Drooni|Drooni]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +15, [[DATABASE/skill/Athletics|Athletics]] +15, [[DATABASE/skill/Stealth|Stealth]] +17, [[DATABASE/skill/Survival|Survival]] +15
 **Str** +2, **Dex** +4, **Con** +2, **Int** +1, **Wis** +4, **Cha** +0
-**Swift Sneak** The archer can move their full Speed while [[Sneak]].
-**Items** _[[Holy Water]]_, _+1 [[Striking]] [[Composite Longbow]]_ (20 arrows), [[Leather Armor]], [[Shortsword]]
+**Swift Sneak** The archer can move their full Speed while [[DATABASE/action/Sneak|Sneaking]].
+**Items** _[[DATABASE/equipment/Holy Water|holy water]]_, _+1 [[DATABASE/equipment/Striking|striking]] [[DATABASE/weapon/Composite Longbow|composite longbow]]_ (20 arrows), [[DATABASE/armor/Leather Armor|leather armor]], [[DATABASE/weapon/Shortsword|shortsword]]
 
 ---
 **AC** 25; **Fort** +15, **Ref** +18, **Will** +12
@@ -89,4 +89,4 @@ This creature did not include a description.
 
 ---
 **Speed** 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> shortsword +18 [+14/+10] (agile, finesse, versatile S), **Damage** 1d6+8 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _composite longbow_ +18 [+13/+8] (deadly d10, magical, propulsive, volley 30 feet, range increment 100 feet), **Damage** 2d8+8 piercing</span><span class="in-box-ability">**[[Sneak Attack]]** The archer's Strikes deal an additional 1d6 precision damage to [[Flat-Footed]] creatures.</span><span class="in-box-ability">**Surprise Attack** On the first round of combat, creatures that haven't acted yet are [[Flat-Footed]] to the archer.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> shortsword +18 [+14/+10] (agile, finesse, versatile S), **Damage** 1d6+8 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _composite longbow_ +18 [+13/+8] (deadly d10, magical, propulsive, volley 30 feet, range increment 100 feet), **Damage** 2d8+8 piercing</span><span class="in-box-ability">**[[DATABASE/monsterability/Sneak Attack|Sneak Attack]]** The archer's Strikes deal an additional 1d6 precision damage to [[DATABASE/condition/Flat-Footed|flat-footed]] creatures.</span><span class="in-box-ability">**Surprise Attack** On the first round of combat, creatures that haven't acted yet are [[DATABASE/condition/Flat-Footed|flat-footed]] to the archer.</span>

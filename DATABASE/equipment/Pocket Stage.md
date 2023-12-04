@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Pocket Stage<span class="item-type">Item 5</span>
 
 <span class="item-trait">Conjuration</span><span class="item-trait">Magical</span><span class="item-trait">Structure</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 138 gp
 **Bulk** L
 

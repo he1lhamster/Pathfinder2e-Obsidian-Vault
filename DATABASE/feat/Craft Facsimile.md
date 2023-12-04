@@ -12,6 +12,7 @@ prerequisite: Expert in [[DATABASE/skill/Crafting|Crafting]] ; [[DATABASE/feat/P
   Agent Dedication|Pathfinder Agent Dedication]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
 subcategory: null
@@ -25,9 +26,9 @@ type: Feat
 # Craft Facsimile <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Skill</span>
-**Source** [[PFS Guide]]
-**Archetype** [[Pathfinder Agent]]
-**Prerequisites** expert in [[Crafting]]; [[Pathfinder Agent Dedication]]
+**Source** [[DATABASE/source/PFS Guide|PFS Guide]]
+**Archetype** [[DATABASE/archetype/Pathfinder Agent|Pathfinder Agent]]
+**Prerequisites** expert in [[DATABASE/skill/Crafting|Crafting]]; [[DATABASE/feat/Pathfinder Agent Dedication|Pathfinder Agent Dedication]]
 
 ---
 You're renowned for your ability to recover important items, whether they're from a long-abandoned temple or a thieves' den, and sometimes that requires creating a stand-in. You can spend 1 minute to assemble a facsimile of an object of no more than 1 Bulk that you can see from available materials. The facsimile has the same shape and Bulk as the replaced object and can pass as the object if not examined. A creature familiar with the original who examines the object automatically realizes that it is a fake. A creature not familiar with the original can still tell it was a hastily jury-rigged stand-in of some kind, but they might not know the object was supposed to be something else.

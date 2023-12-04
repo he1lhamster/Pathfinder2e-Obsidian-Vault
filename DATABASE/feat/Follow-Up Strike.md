@@ -11,6 +11,7 @@ name: Follow-Up Strike
 prerequisite: '[[DATABASE/feat/Martial Artist Dedication|Martial Artist Dedication]]'
 rarity: Common
 requirement: Your last action was a missed Strike with a melee unarmed attack.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Follow-Up Strike <span class="action-icon">1</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Flourish</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Martial Artist]]
-**Prerequisites** [[Martial Artist Dedication]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Martial Artist|Martial Artist]]
+**Prerequisites** [[DATABASE/feat/Martial Artist Dedication|Martial Artist Dedication]]
 **Requirements** Your last action was a missed Strike with a melee unarmed attack.
 
 ---

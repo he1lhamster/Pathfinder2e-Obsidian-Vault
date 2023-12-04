@@ -11,6 +11,7 @@ name: Swift Intervention
 prerequisite: '[[DATABASE/feat/Overwatch Dedication|Overwatch Dedication]]'
 rarity: Common
 requirement: You are wielding a ranged weapon.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -26,10 +27,10 @@ type: Feat
 # Swift Intervention <span class="action-icon">5</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Guns & Gears]]
-**Archetype** [[Overwatch]]
-**Prerequisites** [[Overwatch Dedication]]
-**Trigger** An ally within your overwatch field fails in their attempt to [[Arrest a Fall]], [[Balance]], [[Grab an Edge]], or [[Maneuver in Flight]].
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Archetype** [[DATABASE/archetype/Overwatch|Overwatch]]
+**Prerequisites** [[DATABASE/feat/Overwatch Dedication|Overwatch Dedication]]
+**Trigger** An ally within your overwatch field fails in their attempt to [[DATABASE/action/Arrest a Fall|Arrest a Fall]], [[DATABASE/action/Balance|Balance]], [[DATABASE/action/Grab an Edge|Grab a Ledge]], or [[DATABASE/action/Maneuver in Flight|Maneuver in Flight]].
 **Requirements** You are wielding a ranged weapon.
 
 ---

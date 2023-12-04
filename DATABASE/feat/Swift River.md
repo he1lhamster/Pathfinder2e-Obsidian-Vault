@@ -11,6 +11,7 @@ name: Swift River
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Swift River <span class="action-icon">4</span> <span class="item-type">Feat 18</span>
 
 <span class="item-trait">Monk</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Trigger** Your turn ends and you have a status penalty to your Speed or are immobilized or slowed.
 
 ---

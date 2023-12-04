@@ -87,28 +87,28 @@ wisdom: '+4'
 Because they are often described only in drunken retellings of loggers' or miners' tales, hodags are considered by many to exist only in the local folklore of remote areas. However, some individuals have actually encountered these dangerous beasts firsthand, and even fewer have lived to tell their tales.
  Hodags are reptilian creatures the size of bulls. These vicious predators' long claws can tear creatures apart in seconds. Their backs sport dozens of long spines that run from their snouts all the way down the length of their powerful tails. Their wide mouths are full of sharp and twisted rows of teeth not unlike those of a shark. The hodags' rough, scaly hides carry hues of green and brown, allowing them to blend into their forest surroundings where they ambush prey. Only their glowing red eyes reveal their presence, though hodags have learned to use this to their advantage by drawing attention to their eyes in one area, then closing their eyes and stealthily moving to another area to cause their prey to misconstrue their location.
  In the wintertime, when snow and ice blankets a region, hodags grow a foul-smelling coat of greasy, dark-brown fur that sprouts in tufts from between their scales. A typical hodag measures over 10 feet long from snout to tail and weighs upward of 700 pounds.
-**Recall Knowledge - Beast ([[Arcana]], [[Nature]])**: DC 24
+**Recall Knowledge - Beast ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 24
 **Unspecific Lore**: DC 22
 **Specific Lore**: DC 19
 
 # Hodag<span class="item-type">Creature 6</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Beast</span>
-**Source** [[Bestiary 2]] 
-**Perception** +14; [[Darkvision]], [[Scent]]
-**Languages** [[Common]]; can't speak any language
-**Skills** [[Athletics]] +15, [[Stealth]] +14 (+16 in forests), [[Survival]] +12
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +14; [[DATABASE/monsterability/Darkvision|darkvision]], [[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]
+**Languages** [[DATABASE/language/Common|Common]]; can't speak any language
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +15, [[DATABASE/skill/Stealth|Stealth]] +14 (+16 in forests), [[DATABASE/skill/Survival|Survival]] +12
 **Str** +5, **Dex** +4, **Con** +5, **Int** -2, **Wis** +4, **Cha** +0
-**Trackless** A hodag sweeps the ground behind it with its tail as it moves, obscuring its tracks. The DCs of checks to [[Track]] a hodag are increased by 10.
+**Trackless** A hodag sweeps the ground behind it with its tail as it moves, obscuring its tracks. The DCs of checks to [[DATABASE/action/Track|Track]] a hodag are increased by 10.
 
 ---
 **AC** 24; **Fort** +17, **Ref** +14, **Will** +12
 **HP** 90
-<span class="in-box-ability">**[[Ferocity]]** <span class="action-icon">5</span> </span>
+<span class="in-box-ability">**[[DATABASE/monsterability/Ferocity|Ferocity]]** <span class="action-icon">5</span> </span>
 
 ---
 **Speed** 25 feet, burrow 15 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +17 [+12/+7], **Damage** 2d8+8 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +17 [+13/+9] (agile), **Damage** 2d6+8 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> spiked tail +17 [+12/+7] (reach 10 feet, versatile P), **Damage** 2d6+8 bludgeoning plus Knockdown</span><span class="in-box-ability">**Rip and Tear** <span class="action-icon">2</span> The hodag makes two claw Strikes and one jaws Strike in any order.</span><span class="in-box-ability">**Toss** <span class="action-icon">2</span> The hodag Strides, then makes a Strike against a target in reach. If it moves at least 20 feet and succeeds at its Strike, the hodag deals damage normally and then attempts an [[Athletics]] check against the creature's Fortitude DC to toss the enemy into the air. On a success, the tossed creature is thrown 10 feet in a straight line in the direction of the hodag's choice and then lands [[Prone]]. If the creature is knocked into a solid object, it takes 1d6 bludgeoning damage as well before landing prone. The hodag can instead toss a creature straight up in the air. The creature lands in the same square where it started, takes 1d6 bludgeoning damage, and lands prone.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +17 [+12/+7], **Damage** 2d8+8 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +17 [+13/+9] (agile), **Damage** 2d6+8 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> spiked tail +17 [+12/+7] (reach 10 feet, versatile P), **Damage** 2d6+8 bludgeoning plus Knockdown</span><span class="in-box-ability">**Rip and Tear** <span class="action-icon">2</span> The hodag makes two claw Strikes and one jaws Strike in any order.</span><span class="in-box-ability">**Toss** <span class="action-icon">2</span> The hodag Strides, then makes a Strike against a target in reach. If it moves at least 20 feet and succeeds at its Strike, the hodag deals damage normally and then attempts an [[DATABASE/skill/Athletics|Athletics]] check against the creature's Fortitude DC to toss the enemy into the air. On a success, the tossed creature is thrown 10 feet in a straight line in the direction of the hodag's choice and then lands [[DATABASE/condition/Prone|prone]]. If the creature is knocked into a solid object, it takes 1d6 bludgeoning damage as well before landing prone. The hodag can instead toss a creature straight up in the air. The creature lands in the same square where it started, takes 1d6 bludgeoning damage, and lands prone.</span>
 
 ###  Hodag Tales
 

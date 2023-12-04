@@ -11,6 +11,7 @@ name: Gaping Flesh
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,12 +24,12 @@ type: Feat
 # Gaping Flesh <span class="action-icon">5</span> <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Fleshwarp</span>
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 **Frequency** once per day
 **Trigger** A creature you are aware of damages you with a melee Strike.
 
 ---
-Your wound yawns open, appalling your attacker. The attacker must succeed at a Fortitude saving throw against your class DC or spell DC, whichever is higher, or become [[Sickened]] (sickened 2 on a critical failure). It can't recover from the sickened condition while it's adjacent to you.
+Your wound yawns open, appalling your attacker. The attacker must succeed at a Fortitude saving throw against your class DC or spell DC, whichever is higher, or become [[DATABASE/condition/Sickened|sickened 1]] (sickened 2 on a critical failure). It can't recover from the sickened condition while it's adjacent to you.
 
 ## Traits
 

@@ -11,6 +11,7 @@ name: Big Mouth
 prerequisite: '[[DATABASE/feat/Cheek Pouches|Cheek Pouches]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Big Mouth <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Ratfolk</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** [[Cheek Pouches]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** [[DATABASE/feat/Cheek Pouches|Cheek Pouches]]
 
 ---
 Your cheek pouches are especially stretchy. Instead of storing up to four items of Light Bulk in your cheek pouches, you can store up to 1 Bulk worth of items. The maximum size of a given item is unchanged.

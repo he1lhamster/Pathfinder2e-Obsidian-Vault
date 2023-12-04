@@ -74,22 +74,22 @@ wisdom: '+0'
 # Skeleton Guard
 
 The most common skeletal minions are mere guardians.
-**Recall Knowledge - Undead ([[Religion]])**: DC 13
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 13
 **Unspecific Lore**: DC 11
 **Specific Lore**: DC 8
 
 # Skeleton Guard<span class="item-type">Creature -1</span>
 
 <span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Mindless</span><span class="item-trait">Skeleton</span><span class="item-trait">Undead</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +2; darkvision
-**Skills** [[Acrobatics]] +6, [[Athletics]] +3
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +6, [[DATABASE/skill/Athletics|Athletics]] +3
 **Str** +2, **Dex** +4, **Con** +0, **Int** -5, **Wis** +0, **Cha** +0
-**Items** [[Scimitar]], [[Shortbow]]
+**Items** [[DATABASE/weapon/Scimitar|scimitar]], [[DATABASE/weapon/Shortbow|shortbow (20 arrows)]]
 
 ---
 **AC** 16; **Fort** +2, **Ref** +8, **Will** +2
-**HP** 4 ([[Negative Healing]]); **Immunities** death effects, disease, mental, paralyzed, poison, unconscious; **Resistances** cold 5, electricity 5, fire 5, piercing 5, slashing 5
+**HP** 4 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects, disease, mental, paralyzed, poison, unconscious; **Resistances** cold 5, electricity 5, fire 5, piercing 5, slashing 5
 
 ---
 **Speed** 25 feet

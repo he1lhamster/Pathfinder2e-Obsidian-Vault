@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Turpin Rowe Lumberjack Dedication|Turpin Rowe Lum
   Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 153. Life''s Long Shadows|Pathfinder #153: Life''s
   Long Shadows]]'
@@ -25,9 +26,9 @@ type: Feat
 # Axe Thrower <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Pathfinder 153. Life's Long Shadows]]
-**Archetype** [[Turpin Rowe Lumberjack]]
-**Prerequisites** [[Turpin Rowe Lumberjack Dedication]]
+**Source** [[DATABASE/source/Pathfinder 153. Life's Long Shadows|Pathfinder #153: Life's Long Shadows]]
+**Archetype** [[DATABASE/archetype/Turpin Rowe Lumberjack|Turpin Rowe Lumberjack]]
+**Prerequisites** [[DATABASE/feat/Turpin Rowe Lumberjack Dedication|Turpin Rowe Lumberjack Dedication]]
 
 ---
 You have mastered the weight and balance of a variety of axes and can lob them with ease. Any one-handed axe weapon you wield has the thrown trait with a range of 10 feet. For axes that already have the thrown trait, the range increases by 10 feet. When you critically succeed at an attack roll with a thrown axe weapon, you apply the axe’s critical specialization effect.

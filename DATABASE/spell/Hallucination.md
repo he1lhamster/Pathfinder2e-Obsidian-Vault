@@ -24,6 +24,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -42,9 +43,9 @@ type: Spell
 # Hallucination<span class="item-type">Spell 5</span>
 
 <span class="item-trait">Illusion</span><span class="item-trait">Incapacitation</span><span class="item-trait">Mental</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult
-**Deities** [[Cayden Cailean]], [[Hastur]], [[Tsukiyo]]
+**Deities** [[DATABASE/deity/Cayden Cailean|Cayden Cailean]], [[DATABASE/deity/Hastur|Hastur]], [[DATABASE/deity/Tsukiyo|Tsukiyo]]
 **Cast** <span class="action-icon">2</span> material, somatic
 **Range** 30 feet; **Targets** 1 creature
 **Duration** 1 hour

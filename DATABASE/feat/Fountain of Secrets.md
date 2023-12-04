@@ -11,6 +11,7 @@ name: Fountain of Secrets
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 subcategory: null
@@ -23,11 +24,11 @@ type: Feat
 # Fountain of Secrets <span class="action-icon">4</span> <span class="item-type">Feat 17</span>
 
 <span class="item-trait">Shisk</span>
-**Source** [[The Mwangi Expanse]] 
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]] 
 **Frequency** once per round
 
 ---
-You constantly remember details about the world. You attempt a check to [[Recall Knowledge]]. If you succeed, you gain additional information or context. If you critically succeed, at the GM's discretion you might gain even more additional information or context than normal.
+You constantly remember details about the world. You attempt a check to [[DATABASE/action/Recall Knowledge|Recall Knowledge]]. If you succeed, you gain additional information or context. If you critically succeed, at the GM's discretion you might gain even more additional information or context than normal.
 
 ## Traits
 

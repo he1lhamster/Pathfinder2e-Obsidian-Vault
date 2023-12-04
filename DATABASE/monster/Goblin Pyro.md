@@ -76,19 +76,19 @@ wisdom: '-1'
 # Goblin Pyro
 
 Some goblins take their people’s admiration of fire fully into the realm of deadly obsession. These pyromaniacs can be a great boon to a band of goblin raiders eager to torch their enemies and wreak havoc. More often, however, their presence is a double-edged sword; in the heat of the moment, goblin pyros sometimes lose sight of their tribe’s goals and simply set fire to anything that will burn—including their own allies.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 15
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Goblin Pyro<span class="item-type">Creature 1</span>
 
 <span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Small</span><span class="item-trait">Goblin</span><span class="item-trait">Humanoid</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +4; darkvision
-**Languages** [[Common]], [[Goblin]]
-**Skills** [[Acrobatics]] +7, [[Lore]] +7, [[Stealth]] +7
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Goblin|Goblin]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +7, [[DATABASE/skill/Lore|Fire Lore]] +7, [[DATABASE/skill/Stealth|Stealth]] +7
 **Str** +0, **Dex** +4, **Con** +2, **Int** +0, **Wis** -1, **Cha** +3
-**Items** [[Torch]]
+**Items** [[DATABASE/equipment/Torch|torch]]
 
 ---
 **AC** 17; **Fort** +5, **Ref** +9, **Will** +4
@@ -97,4 +97,4 @@ Some goblins take their people’s admiration of fire fully into the realm of de
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> torch +7 [+2/-3] (fire), **Damage** 1d4 bludgeoning plus 1 fire</span>**Arcane Spontaneous Spells** DC 16, attack +6; **1st** _[[Burning Hands]]_, _[[Grease]]_ (3 slots); **Cantrips** **(1st)** _[[Light]]_, _[[Mage Hand]]_, _[[Produce Flame]]_, _[[Tanglefoot]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> torch +7 [+2/-3] (fire), **Damage** 1d4 bludgeoning plus 1 fire</span>**Arcane Spontaneous Spells** DC 16, attack +6; **1st** _[[DATABASE/spell/Burning Hands|burning hands]]_, _[[DATABASE/spell/Grease|grease]]_ (3 slots); **Cantrips** **(1st)** _[[DATABASE/spell/Light|light]]_, _[[DATABASE/spell/Mage Hand|mage hand]]_, _[[DATABASE/spell/Produce Flame|produce flame]]_, _[[DATABASE/spell/Tanglefoot|tanglefoot]]_

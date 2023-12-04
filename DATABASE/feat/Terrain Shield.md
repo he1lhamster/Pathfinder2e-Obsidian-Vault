@@ -13,6 +13,7 @@ prerequisite: '[[DATABASE/feat/Geomancer Dedication|Geomancer Dedication]] ; Mas
 rarity: Common
 requirement: You gained a terrain attunement benefit since the start of your most
   recent turn and that attunementmatches the terrain you're in.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -25,10 +26,10 @@ type: Feat
 # Terrain Shield <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Secrets of Magic]] 
-**Archetype** [[Geomancer]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
+**Archetype** [[DATABASE/archetype/Geomancer|Geomancer]]
 **Frequency** once per 10 minutes
-**Prerequisites** [[Geomancer Dedication]]; master in [[Nature]]
+**Prerequisites** [[DATABASE/feat/Geomancer Dedication|Geomancer Dedication]]; master in [[DATABASE/skill/Nature|Nature]]
 **Trigger** A Strike would damage you.
 **Requirements** You gained a terrain attunement benefit since the start of your most recent turn and that attunement matches the terrain you're in.
 

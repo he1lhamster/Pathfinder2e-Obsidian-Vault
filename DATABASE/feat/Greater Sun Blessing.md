@@ -11,6 +11,7 @@ name: Greater Sun Blessing
 prerequisite: '[[DATABASE/feat/Blessing of the Sun Gods|Blessing of the Sun Gods]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 172. Secrets of the Temple City|Pathfinder #172:
   Secrets of the Temple City]]'
@@ -24,9 +25,9 @@ type: Feat
 # Greater Sun Blessing <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Pathfinder 172. Secrets of the Temple City]]
-**Archetype** [[Bright Lion]]
-**Prerequisites** [[Blessing of the Sun Gods]]
+**Source** [[DATABASE/source/Pathfinder 172. Secrets of the Temple City|Pathfinder #172: Secrets of the Temple City]]
+**Archetype** [[DATABASE/archetype/Bright Lion|Bright Lion]]
+**Prerequisites** [[DATABASE/feat/Blessing of the Sun Gods|Blessing of the Sun Gods]]
 
 ---
 Your connection to the Old Sun Gods grows stronger. You gain an advanced domain spell from a domain you chose with Blessing of the Sun Gods. Increase the number of Focus Points in your focus pool by 1.

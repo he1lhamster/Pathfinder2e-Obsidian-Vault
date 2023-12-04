@@ -11,6 +11,7 @@ name: Defend Summoner
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -25,7 +26,7 @@ type: Feat
 # Defend Summoner <span class="action-icon">1</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Eidolon</span><span class="item-trait">Evolution</span><span class="item-trait">Summoner</span>
-**Source** [[Secrets of Magic]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]]
 
 ---
 Your eidolon blocks attacks against you. After your eidolon uses this action, you gain a +2 circumstance bonus to AC until the beginning of your next turn. This bonus applies only while you're within your eidolon's reach (in most cases, this means your eidolon is adjacent to you or in your space).
@@ -34,7 +35,7 @@ Your eidolon blocks attacks against you. After your eidolon uses this action, yo
 
 **Eidolon:**
 
-A creature with this trait is a [[Summoner]] eidolon. An action or spell with this trait can be performed by an eidolon only. An item with this trait can be used or worn by an eidolon only, and an eidolon can't use items that don't have this trait. (An eidolon can have up to two items invested.)
+A creature with this trait is a [[DATABASE/class_/Summoner|summoner's]] eidolon. An action or spell with this trait can be performed by an eidolon only. An item with this trait can be used or worn by an eidolon only, and an eidolon can't use items that don't have this trait. (An eidolon can have up to two items invested.)
 
 **Evolution:**
 

@@ -73,24 +73,24 @@ wisdom: '+0'
 # Air Mephit
 
 Air mephits are capricious and flighty relative to their kin; they are as likely to fly blindly into battle as they are to whine in terror at a loud noise. They are pale blue in coloration and have thin wings that trail small puffs of vapor as they fly through the skies.
-**Recall Knowledge - Elemental ([[Arcana]], [[Nature]])**: DC 15
+**Recall Knowledge - Elemental ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Air Mephit<span class="item-type">Creature 1</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Small</span><span class="item-trait">Air</span><span class="item-trait">Elemental</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +3; darkvision
-**Languages** [[Auran]]
-**Skills** [[Acrobatics]] +7, [[Stealth]] +7
+**Languages** [[DATABASE/language/Auran|Auran]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +7, [[DATABASE/skill/Stealth|Stealth]] +7
 **Str** +1, **Dex** +4, **Con** +0, **Int** -2, **Wis** +0, **Cha** +0
 
 ---
 **AC** 16; **Fort** +3, **Ref** +19, **Will** +7
-**HP** 12 ([[Fast Healing]] 2 (in open air)); **Immunities** bleed, paralyzed, poison, sleep
+**HP** 12 ([[DATABASE/monsterability/Fast Healing|fast healing]] 2 (in open air)); **Immunities** bleed, paralyzed, poison, sleep
 
 ---
 **Speed** 20 feet, fly 40 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +9 [+5/+1] (agile, finesse), **Damage** 1d6+1 slashing</span>**Arcane Innate Spells** DC 17; **2nd** _[[Blur]]_; **1st** _[[Gust of Wind]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +9 [+5/+1] (agile, finesse), **Damage** 1d6+1 slashing</span>**Arcane Innate Spells** DC 17; **2nd** _[[DATABASE/spell/Blur|blur]]_; **1st** _[[DATABASE/spell/Gust of Wind|gust of wind]]_
 <span class="in-box-ability">**Breath Weapon** <span class="action-icon">2</span> (air, arcane) The air mephit breathes sand and grit in a 15-foot cone that deals 2d6 slashing damage to each creature within the area (DC 17 basic Reflex save). The air mephit can’t use Breath Weapon again for 1d4 rounds.</span>

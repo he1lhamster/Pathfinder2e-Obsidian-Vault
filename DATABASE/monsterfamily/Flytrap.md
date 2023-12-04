@@ -3,6 +3,7 @@ creature_family: Flytrap
 id: '48'
 name: Flytrap
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,9 +11,9 @@ type: Creature Family
 ---
 # Flytrap
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Flytraps are dangerous creatures as eager to feed on humanoids and larger prey as they are monstrous insects.
 
 ### Members
 
-[[Giant Flytrap]] (Creature 10), [[Snapping Flytrap]] (Creature 3)
+[[DATABASE/monster/Giant Flytrap|Giant Flytrap]] (Creature 10), [[DATABASE/monster/Snapping Flytrap|Snapping Flytrap]] (Creature 3)

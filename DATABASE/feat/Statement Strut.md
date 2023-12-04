@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Celebrity Dedication|Celebrity Dedication]] or [[
   Dedication|Dandy Dedication]]'
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
 subcategory: null
@@ -27,10 +28,10 @@ type: Feat
 # Statement Strut <span class="action-icon">1</span> <span class="item-type">Feat 8</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Archetype</span><span class="item-trait">Mental</span><span class="item-trait">Visual</span>
-**Source** [[Firebrands]]
-**Archetypes** [[Celebrity]], [[Dandy]]
+**Source** [[DATABASE/source/Firebrands|Firebrands]]
+**Archetypes** [[DATABASE/archetype/Celebrity|Celebrity]], [[DATABASE/archetype/Dandy|Dandy]]
 **Frequency** once per 10 minutes
-**Prerequisites** [[Celebrity Dedication]], or [[Dandy Dedication]]
+**Prerequisites** [[DATABASE/feat/Celebrity Dedication|Celebrity Dedication]], or [[DATABASE/feat/Dandy Dedication|Dandy Dedication]]
 **Access** Members of the Firebrands at the rank of second mark or higher have access to this feat.
 
 ---
@@ -48,7 +49,7 @@ A mental effect can alter the target's mind. It has no effect on an object or a 
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.
 
 **Visual:**
 

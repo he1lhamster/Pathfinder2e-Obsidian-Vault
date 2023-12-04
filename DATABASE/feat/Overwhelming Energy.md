@@ -11,6 +11,7 @@ name: Overwhelming Energy
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -27,10 +28,10 @@ type: Feat
 # Overwhelming Energy <span class="action-icon">1</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Druid</span><span class="item-trait">Manipulate</span><span class="item-trait">Metamagic</span><span class="item-trait">Sorcerer</span><span class="item-trait">Wizard</span>
-**Source** [[Core Rulebook]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
-You alter your spells to overcome resistances. If the next action you use is to Cast a Spell, the spell ignores an amount of the target’s resistance to acid, cold, electricity, fire, or sonic damage equal to your level. This applies to all damage the spell deals, including persistent damage and damage caused by an ongoing effect of the spell, such as the wall created by [[Wall of Fire]]. A creature’s immunities are unaffected.
+You alter your spells to overcome resistances. If the next action you use is to Cast a Spell, the spell ignores an amount of the target’s resistance to acid, cold, electricity, fire, or sonic damage equal to your level. This applies to all damage the spell deals, including persistent damage and damage caused by an ongoing effect of the spell, such as the wall created by [[DATABASE/spell/Wall of Fire|wall of fire]]. A creature’s immunities are unaffected.
 
 ## Traits
 

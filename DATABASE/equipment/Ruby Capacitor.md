@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Ruby Capacitor<span class="item-type">Item 10+</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Evocation</span><span class="item-trait">Magical</span><span class="item-trait">Talisman</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Usage** affixed to a magical staff; **Bulk** —
 **Activate** <span class="action-icon">4</span> Interact **Requirements** You prepared the staff.
 
@@ -64,17 +65,17 @@ This cluster of unworked ruby is bound to the top of a staff by silver wire. Whe
 
 ## Ruby Capacitor<span class="item-type">Item 10</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 180 gp
 
 ## Ruby Capacitor (Greater)<span class="item-type">Item 14</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 800 gp
 The number of temporary charges increases to 3.
 
 ## Ruby Capacitor (Major)<span class="item-type">Item 18</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 4,500 gp
 The number of temporary charges increases to 5.

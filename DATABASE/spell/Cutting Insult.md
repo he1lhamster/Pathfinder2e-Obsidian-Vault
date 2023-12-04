@@ -21,6 +21,7 @@ patron_theme: null
 range: 30 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
@@ -42,7 +43,7 @@ type: Spell
 # Cutting Insult<span class="item-type">Spell 2</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Auditory</span><span class="item-trait">Emotion</span><span class="item-trait">Enchantment</span><span class="item-trait">Fear</span><span class="item-trait">Linguistic</span><span class="item-trait">Mental</span>
-**Source** [[Firebrands]]
+**Source** [[DATABASE/source/Firebrands|Firebrands]]
 **Access** Second-mark members of the Firebrands have access to this spell.
 **Traditions** occult
 **Cast** <span class="action-icon">2</span> somatic, verbal
@@ -50,7 +51,7 @@ type: Spell
 **Saving Throw** Will
 
 ---
-You utter an insult so offensive that it cuts your target to the quick. Your target takes 4d6 mental damage and 1 [[Persistent Damage]] and must attempt a Will save.
+You utter an insult so offensive that it cuts your target to the quick. Your target takes 4d6 mental damage and 1 [[DATABASE/condition/Persistent Damage|persistent bleed damage]] and must attempt a Will save.
 **Critical Success** The creature is unaffected.
 **Success** The creature takes half mental damage but no persistent bleed damage, and it becomes frightened 1.
 **Failure** The creature takes full mental damage and full persistent bleed damage, and it becomes frightened 2.

@@ -71,16 +71,16 @@ wisdom: '+3'
 # Castoroides
 
 Castoroides are bear-sized beavers that build their lodges on land near a water source rather than in the water.
-**Recall Knowledge - Animal ([[Nature]])**: DC 18
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Castoroides<span class="item-type">Creature 3</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Animal</span>
-**Source** [[Pathfinder 176. Lost Mammoth Valley]]
-**Perception** +10; [[Low-Light Vision]], [[Scent]] (imprecise) 30 feet
-**Skills** [[Athletics]] +10, [[Crafting]] +7, [[Survival]] +8
+**Source** [[DATABASE/source/Pathfinder 176. Lost Mammoth Valley|Pathfinder #176: Lost Mammoth Valley]]
+**Perception** +10; [[DATABASE/monsterability/Low-Light Vision|low-light vision]], [[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +10, [[DATABASE/skill/Crafting|Crafting]] +7, [[DATABASE/skill/Survival|Survival]] +8
 **Str** +4, **Dex** +1, **Con** +3, **Int** -4, **Wis** +3, **Cha** +1
 **Deep Breath** A castoroides can hold its breath for 1 hour.
 
@@ -91,4 +91,4 @@ Castoroides are bear-sized beavers that build their lodges on land near a water 
 
 ---
 **Speed** 20 feet, swim 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +12 [+7/+2], **Damage** 2d6+4 piercing plus [[Grab]]</span><span class="in-box-ability">**Construct Shelter** <span class="action-icon">3</span> The beaver takes 1 minute to rapidly construct a simple mound along one side of its space, which can be used to [[Take Cover]].</span><span class="in-box-ability">**Gouge** <span class="action-icon">2</span> The castoroides deals 2d8 piercing damage to a creature it has [[Grabbed]] or [[Restrained]] (DC 20 basic Fortitude save). A creature that fails its save also takes 1d4 [[Persistent Damage]].</span><span class="in-box-ability">**Penetrating Bite** <span class="action-icon">2</span> The beaver makes a jaws Strike. The Strike ignores the first 5 Hardness of organic materials, such as rope, leather, and wood.</span><span class="in-box-ability">**Prop** <span class="action-icon">1</span> The beaver stabilizes itself with its tail, gaining a +1 circumstance bonus to its Fortitude and Reflex DCs against [[Shove]] and [[Trip]] attempts until it next takes an action with the move trait.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +12 [+7/+2], **Damage** 2d6+4 piercing plus [[DATABASE/monsterability/Grab|Grab]]</span><span class="in-box-ability">**Construct Shelter** <span class="action-icon">3</span> The beaver takes 1 minute to rapidly construct a simple mound along one side of its space, which can be used to [[DATABASE/action/Take Cover|Take Cover]].</span><span class="in-box-ability">**Gouge** <span class="action-icon">2</span> The castoroides deals 2d8 piercing damage to a creature it has [[DATABASE/condition/Grabbed|grabbed]] or [[DATABASE/condition/Restrained|restrained]] (DC 20 basic Fortitude save). A creature that fails its save also takes 1d4 [[DATABASE/condition/Persistent Damage|persistent bleed damage]].</span><span class="in-box-ability">**Penetrating Bite** <span class="action-icon">2</span> The beaver makes a jaws Strike. The Strike ignores the first 5 Hardness of organic materials, such as rope, leather, and wood.</span><span class="in-box-ability">**Prop** <span class="action-icon">1</span> The beaver stabilizes itself with its tail, gaining a +1 circumstance bonus to its Fortitude and Reflex DCs against [[DATABASE/action/Shove|Shove]] and [[DATABASE/action/Trip|Trip]] attempts until it next takes an action with the move trait.</span>

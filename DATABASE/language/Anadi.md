@@ -2,6 +2,7 @@
 id: '46'
 name: Anadi
 rarity: Uncommon
+rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 145. Hellknight Hill|Pathfinder #145: Hellknight
   Hill]]'
 trait:
@@ -11,17 +12,17 @@ type: Language
 ---
 # Anadi
 
-**Source** [[Pathfinder 145. Hellknight Hill]]
+**Source** [[DATABASE/source/Pathfinder 145. Hellknight Hill|Pathfinder #145: Hellknight Hill]]
 The below entries contain speakers of Anadi.
 
 ## Ancestries (1)
 
-[[Anadi]]
+[[DATABASE/ancestry/Anadi|Anadi]]
 
 ## Monsters (6)
 
-[[Anadi Elder]], [[Anadi Fateweaver]], [[Anadi Hunter]], [[Anadi Lurker]], [[Anadi Sage]], [[Anadi Seeker]]
+[[DATABASE/monster/Anadi Elder|Anadi Elder]], [[DATABASE/monster/Anadi Fateweaver|Anadi Fateweaver]], [[DATABASE/monster/Anadi Hunter|Anadi Hunter]], [[DATABASE/monster/Anadi Lurker|Anadi Lurker]], [[DATABASE/monster/Anadi Sage|Anadi Sage]], [[DATABASE/monster/Anadi Seeker|Anadi Seeker]]
 
 ## NPCs (1)
 
-[[Renali]]
+[[DATABASE/npc/Renali|Renali]]

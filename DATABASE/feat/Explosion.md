@@ -11,6 +11,7 @@ name: Explosion
 prerequisite: '[[DATABASE/feat/Inventor Dedication|Inventor Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -23,12 +24,12 @@ type: Feat
 # Explosion <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Guns & Gears]]
-**Archetype** [[Inventor]]
-**Prerequisites** [[Inventor Dedication]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Archetype** [[DATABASE/archetype/Inventor|Inventor]]
+**Prerequisites** [[DATABASE/feat/Inventor Dedication|Inventor Dedication]]
 
 ---
-Your innovation can explode on command. You gain the [[Explode]] action.
+Your innovation can explode on command. You gain the [[DATABASE/action/Explode|Explode]] action.
 
 ## Traits
 

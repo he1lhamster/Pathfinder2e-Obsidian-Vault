@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: DC 14 Fortitude
 school: null
 size: null
@@ -57,7 +58,7 @@ weapon_type: null
 # Qat<span class="item-type">Item 0</span>
 
 <span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Drug</span><span class="item-trait">Ingested</span><span class="item-trait">Poison</span>
-**Source** [[Absalom, City of Lost Omens]]
+**Source** [[DATABASE/source/Absalom, City of Lost Omens|Absalom, City of Lost Omens]]
 **Price** 4 sp
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
@@ -65,4 +66,4 @@ weapon_type: null
 ---
 While initially used by Qadiran soldiers and warriors going to battle, this stimulant and euphoriant soon became popular among civilian Qadirans from diverse social strata. Some of the latter close up shop for three to four hours after the midday meal to socialize and chew qat leaves. User experiences with qat vary from feeling energetic, euphoric, talkative, and alert to experiencing depression and hallucination, depending on the quality and type of qat leaves.
 The save for addiction to qat is DC 14, but the maximum addiction stage of qat never progresses beyond stage 1. 
-**Saving Throw** DC 14 Fortitude; **Onset** 10 minutes; **Maximum Duration** 8 hours; **Stage 1** +1 item bonus to Reflex saves (10 minutes); **Stage 2** [[Stupefied]] (1 hour)
+**Saving Throw** DC 14 Fortitude; **Onset** 10 minutes; **Maximum Duration** 8 hours; **Stage 1** +1 item bonus to Reflex saves (10 minutes); **Stage 2** [[DATABASE/condition/Stupefied|stupefied 1]] (1 hour)

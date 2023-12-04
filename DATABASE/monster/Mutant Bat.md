@@ -67,17 +67,17 @@ wisdom: '+4'
 # Mutant Bat
 
 This creature did not include a description.
-**Recall Knowledge - Animal ([[Nature]])**: DC 22
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 22
 **Unspecific Lore**: DC 20
 **Specific Lore**: DC 17
 
 # Mutant Bat<span class="item-type">Creature 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Huge</span><span class="item-trait">Animal</span>
-**Source** [[Pathfinder 180. The Smoking Gun]]
-[[Mana Wastes Mutant]] [[Giant Bat]]
-**Perception** +16; echolocation (precise) 40 feet, [[Low-Light Vision]]
-**Skills** [[Acrobatics]] +13, [[Athletics]] +13, [[Stealth]] +13
+**Source** [[DATABASE/source/Pathfinder 180. The Smoking Gun|Pathfinder #180: The Smoking Gun]]
+[[DATABASE/monsterfamily/Mana Wastes Mutant|Mana Wastes mutated]] [[DATABASE/monster/Giant Bat|giant bat]]
+**Perception** +16; echolocation (precise) 40 feet, [[DATABASE/monsterability/Low-Light Vision|low-light vision]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +13, [[DATABASE/skill/Athletics|Athletics]] +13, [[DATABASE/skill/Stealth|Stealth]] +13
 **Str** +5, **Dex** +2, **Con** +4, **Int** -4, **Wis** +4, **Cha** -2
 **Echolocation** A bat can use its hearing as a precise sense at the listed range.
 

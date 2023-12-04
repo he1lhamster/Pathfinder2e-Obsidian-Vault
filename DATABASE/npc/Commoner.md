@@ -68,19 +68,19 @@ wisdom: '+1'
 # Commoner
 
 Though not every commoner is downtrodden, many live hard lives of toil as they work to keep their families fed and housed in relative comfort. While many commoners are just simple folks who keep to themselves, sometimes commoners rebel, either rising up to face their oppressors or persuaded or even duped into joining nefarious plans and criminal conspiracies. Commoners benefit from power in numbers, and a crowd of commoners can accomplish a great deal more than their rulers often expect.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 13
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 13
 **Unspecific Lore**: DC 11
 **Specific Lore**: DC 8
 
 # Commoner<span class="item-type">Creature -1</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Perception** +3
-**Languages** [[Common]]
-**Skills** [[Athletics]] +5, [[Lore]] +6 (any one related to their trade), [[Society]] +2
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +5, [[DATABASE/skill/Lore|Lore]] +6 (any one related to their trade), [[DATABASE/skill/Society|Society]] +2
 **Str** +3, **Dex** +1, **Con** +2, **Int** +0, **Wis** +1, **Cha** +0
-**Items** [[Sickle]]
+**Items** [[DATABASE/weapon/Sickle|sickle]]
 
 ---
 **AC** 13; **Fort** +6, **Ref** +3, **Will** +3
@@ -88,4 +88,4 @@ Though not every commoner is downtrodden, many live hard lives of toil as they w
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> sickle +5 [+1/-3] (agile, trip), **Damage** 1d4+2 slashing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> rock +3 [-2/-7] (thrown 10 feet), **Damage** 1d4+2 bludgeoning</span><span class="in-box-ability">**Power of the Mob** When three or more commoners are adjacent to each other, each commoner gets a +1 circumstance bonus to [[Athletics]] checks to [[Shove]], attack rolls, and damage rolls.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> sickle +5 [+1/-3] (agile, trip), **Damage** 1d4+2 slashing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> rock +3 [-2/-7] (thrown 10 feet), **Damage** 1d4+2 bludgeoning</span><span class="in-box-ability">**Power of the Mob** When three or more commoners are adjacent to each other, each commoner gets a +1 circumstance bonus to [[DATABASE/skill/Athletics|Athletic]] checks to [[DATABASE/action/Shove|Shove]], attack rolls, and damage rolls.</span>

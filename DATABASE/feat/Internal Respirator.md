@@ -11,6 +11,7 @@ name: Internal Respirator
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Internal Respirator <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Android</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
 Your body can internally synthesize oxygen for limited periods of time. When you hold your breath, you can do so for an additional hour due to your internal air reservoirs. At the end of this hour, your air reservoirs are expended. Refilling your empty air reservoirs takes 10 minutes of exposure to breathable air.

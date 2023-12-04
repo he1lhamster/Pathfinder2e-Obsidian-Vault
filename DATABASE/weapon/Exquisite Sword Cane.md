@@ -12,6 +12,7 @@ name: Exquisite Sword Cane
 price: 90 gp
 range: null
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 157. Devil at the Dreaming Palace|Pathfinder
   #157: Devil at the Dreaming Palace]]'
 trait:
@@ -29,10 +30,10 @@ weapon_type: Melee
 # Exquisite Sword Cane<span class="item-type">Item 4</span>
 
 <span class="item-trait">Agile</span><span class="item-trait">Concealable</span><span class="item-trait">Finesse</span><span class="item-trait">Parry</span><span class="item-trait">Twin (Sheath)</span>
-**Source** [[Pathfinder 157. Devil at the Dreaming Palace]]
+**Source** [[DATABASE/source/Pathfinder 157. Devil at the Dreaming Palace|Pathfinder #157: Devil at the Dreaming Palace]]
 **Price** 90 gp; **Damage** 1d6 P; **Bulk** 1
 **Hands** 1
-**Type** Melee; **Category** Martial; **Group** [[Sword]]
+**Type** Melee; **Category** Martial; **Group** [[DATABASE/weapongroup/Sword|Sword]]
 
 ---
 An exquisite sword cane is a sword sheathed inside a hollow cane, which itself can be used as a clubbing weapon with or without the sword sheathed inside.
@@ -45,7 +46,7 @@ The multiple attack penalty you take with this weapon on the second attack on yo
 
 **Concealable:**
 
-This weapon is designed to be inconspicuous or easily concealed. You gain a +2 circumstance bonus to [[Stealth]] checks and DCs to hide or conceal a weapon with this trait.
+This weapon is designed to be inconspicuous or easily concealed. You gain a +2 circumstance bonus to [[DATABASE/skill/Stealth|Stealth]] checks and DCs to hide or conceal a weapon with this trait.
 
 **Finesse:**
 
@@ -61,10 +62,10 @@ These weapons are used as a pair, complementing each other. When you attack with
 
 ## Critical Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
-**Sword**: The target is made off-balance by your attack, becoming [[Flat-Footed]] until the start of your next turn.
+**Sword**: The target is made off-balance by your attack, becoming [[DATABASE/condition/Flat-Footed|flat-footed]] until the start of your next turn.
 
 ## Specific Magic Weapons
 
-[[Reaper's Lancet]]
+[[DATABASE/equipment/Reaper's Lancet|Reaper's Lancet]]

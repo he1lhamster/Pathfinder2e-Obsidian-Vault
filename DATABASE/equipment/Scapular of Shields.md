@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 size: null
@@ -57,7 +58,7 @@ weapon_type: null
 # Scapular of Shields<span class="item-type">Item 17</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Abjuration</span><span class="item-trait">Apex</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span>
-**Source** [[Pathfinder 192. Worst of All Possible Worlds]]
+**Source** [[DATABASE/source/Pathfinder 192. Worst of All Possible Worlds|Pathfinder #192: Worst of All Possible Worlds]]
 **Price** 15,000 gp
 **Usage** worn garment; **Bulk** L
 

@@ -9,6 +9,7 @@ rarity: Common
 requirement: One of your settlements that is not your current capital must contain
   a Castle, Palace, or Town Hall.All leaders must spend all of their leadership activities
   during the Activity phase of a Kingdomturn on this activity.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
@@ -21,7 +22,7 @@ type: Action
 # Relocate Capital
 
 <span class="item-trait">Downtime</span><span class="item-trait">Leadership</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 **Requirements** One of your settlements that is not your current capital must contain a Castle, Palace, or Town Hall. All leaders must spend all of their leadership activities during the Activity phase of a Kingdom turn on this activity.
 
 ---

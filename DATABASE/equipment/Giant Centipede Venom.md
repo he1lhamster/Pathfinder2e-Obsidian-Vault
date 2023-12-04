@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: DC 17 Fortitude
 school: null
 size: null
@@ -56,11 +57,11 @@ weapon_type: null
 # Giant Centipede Venom<span class="item-type">Item 1</span>
 
 <span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Injury</span><span class="item-trait">Poison</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 4 gp
 **Usage** held in 2 hands; **Bulk** L
 **Activate** <span class="action-icon">2</span> Interact
 
 ---
-[[Giant Centipede]] venom causes severe muscle stiffness.
-**Saving Throw** DC 17 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 1d6 poison damage (1 round); **Stage 2** 1d8 poison damage and [[Flat-Footed]] (1 round); **Stage 3** 1d12 poison damage, [[Clumsy]], and flat-footed (1 round)
+[[DATABASE/monster/Giant Centipede|Giant centipede]] venom causes severe muscle stiffness.
+**Saving Throw** DC 17 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 1d6 poison damage (1 round); **Stage 2** 1d8 poison damage and [[DATABASE/condition/Flat-Footed|flat-footed]] (1 round); **Stage 3** 1d12 poison damage, [[DATABASE/condition/Clumsy|clumsy 1]], and flat-footed (1 round)

@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Journeybread<span class="item-type">Item 1+</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Usage** held in 1 hand; **Bulk** —
 **Activate** <span class="action-icon">1</span> Interact
 
@@ -63,11 +64,11 @@ Journeybread contains a mix of fruits, nuts, and grains with an alchemical boost
 
 ## Journeybread<span class="item-type">Item 1</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 3 gp
 
 ## Journeybread (Power)<span class="item-type">Item 4</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 15 gp
-In addition to the benefits of journeybread, power journeybread grants you a +1 item bonus to [[Athletics]] checks to [[Climb]], [[Force Open]], and [[Swim]], and to Fortitude saving throws against being [[Sickened]]. The number of minutes you can [[Hustle]] changes to your Constitution modifier × 20. These benefits last for 4 hours.
+In addition to the benefits of journeybread, power journeybread grants you a +1 item bonus to [[DATABASE/skill/Athletics|Athletics]] checks to [[DATABASE/action/Climb|Climb]], [[DATABASE/action/Force Open|Force Open]], and [[DATABASE/action/Swim|Swim]], and to Fortitude saving throws against being [[DATABASE/condition/Sickened|sickened]]. The number of minutes you can [[DATABASE/action/Hustle|Hustle]] changes to your Constitution modifier × 20. These benefits last for 4 hours.

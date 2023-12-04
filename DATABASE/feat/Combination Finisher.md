@@ -11,6 +11,7 @@ name: Combination Finisher
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Combination Finisher <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Swashbuckler</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
 You combine a series of attacks with a powerful finishing blow. Your finishers' Strikes have a lower multiple attack penalty: –4 (or –3 with an agile weapon) if it's the second attack on your turn, or –8 (or –6 with an agile weapon) if it's the third or subsequent attack on your turn, instead of –5 and –10, respectively.

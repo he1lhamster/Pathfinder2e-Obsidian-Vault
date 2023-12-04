@@ -20,6 +20,7 @@ patron_theme: '[[DATABASE/witchpatron/Fate|Fate]]'
 range: 30 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Divination
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
@@ -38,8 +39,8 @@ type: Cantrip
 # Nudge Fate<span class="item-type">Cantrip 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Cantrip</span><span class="item-trait">Divination</span><span class="item-trait">Hex</span><span class="item-trait">Witch</span>
-**Source** [[Advanced Player's Guide]] 
-**Patron Theme** [[Fate]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Patron Theme** [[DATABASE/witchpatron/Fate|fate]]
 **Cast** <span class="action-icon">1</span> verbal
 **Range** 30 feet; **Targets** 1 creature
 **Saving Throw** Will; **Duration** sustained up to 1 minute

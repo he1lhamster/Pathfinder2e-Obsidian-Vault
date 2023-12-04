@@ -11,6 +11,7 @@ name: Chemical Contagion
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Chemical Contagion <span class="action-icon">5</span> <span class="item-type">Feat 16</span>
 
 <span class="item-trait">Alchemist</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Poisoner]]*
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Poisoner|Poisoner]]*
 **Trigger** A creature within 30 feet critically fails its initial saving throw against a poison you created.
 * This archetype offers Chemical Contagion at a different level than displayed here.
 

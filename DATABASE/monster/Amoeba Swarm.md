@@ -81,23 +81,23 @@ wisdom: '+0'
 # Amoeba Swarm
 
 An amoeba swarm consists of thousands of individual single-celled organisms held together by acrid-smelling slime. As ravenous as they are mindless, amoeba swarms use no tactics.
-**Recall Knowledge - Ooze ([[Occultism]])**: DC 15
+**Recall Knowledge - Ooze ([[DATABASE/skill/Occultism|Occultism]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Amoeba Swarm<span class="item-type">Creature 1</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Amphibious</span><span class="item-trait">Mindless</span><span class="item-trait">Ooze</span><span class="item-trait">Swarm</span>
-**Source** [[Bestiary 2]] 
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
 **Perception** +3; motion sense 60 feet, no vision
-**Skills** [[Stealth]] +1 (+3 in water)
+**Skills** [[DATABASE/skill/Stealth|Stealth]] +1 (+3 in water)
 **Str** +0, **Dex** -2, **Con** +3, **Int** -5, **Wis** +0, **Cha** -5
 **Motion Sense** An amoeba swarm can sense nearby creatures through vibration and air or water movement.
 
 ---
 **AC** 9; **Fort** +8, **Ref** +1, **Will** +3
-**HP** 35; **Immunities** acid, critical hits, mental, precision, [[Unconscious]], visual; **Resistances** slashing 4, piercing 4; **Weaknesses** area 3, fire 3, splash damage 3
+**HP** 35; **Immunities** acid, critical hits, mental, precision, [[DATABASE/condition/Unconscious|unconscious]], visual; **Resistances** slashing 4, piercing 4; **Weaknesses** area 3, fire 3, splash damage 3
 
 ---
 **Speed** 5 feet, climb 5 feet, swim 10 feet
-<span class="in-box-ability">**Swarming Slither** <span class="action-icon">1</span> The amoeba swarm slithers over each creature in its space, dealing 1d6 acid damage (DC 14 basic Reflex save). A creature that critically fails is [[Sickened]].</span><span class="in-box-ability">**Weak Acid** An amoeba's acid damages only organic material—not metal, stone, or other inorganic substances.</span>
+<span class="in-box-ability">**Swarming Slither** <span class="action-icon">1</span> The amoeba swarm slithers over each creature in its space, dealing 1d6 acid damage (DC 14 basic Reflex save). A creature that critically fails is [[DATABASE/condition/Sickened|sickened 1]].</span><span class="in-box-ability">**Weak Acid** An amoeba's acid damages only organic material—not metal, stone, or other inorganic substances.</span>

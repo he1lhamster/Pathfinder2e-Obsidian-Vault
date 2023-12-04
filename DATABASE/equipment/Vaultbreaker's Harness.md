@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -54,10 +55,10 @@ weapon_type: null
 # Vaultbreaker's Harness<span class="item-type">Item 6</span>
 
 <span class="item-trait">Invested</span><span class="item-trait">Magical</span><span class="item-trait">Transmutation</span>
-**Source** [[Treasure Vault]] , [[Pathfinder 158. Sixty Feet Under]]
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] , [[DATABASE/source/Pathfinder 158. Sixty Feet Under|Pathfinder #158: Sixty Feet Under]]
 **Price** 230 gp
 **Usage** worn backpack; **Bulk** 1
 
 ---
-A _vaultbreaker's harness_ has four pockets across the chest. The pockets contain a set of [[Thieves' Tools]], infiltrator picks, a [[Crowbar]], and a [[Glass Cutter]]. These items are magically bound to the harness; if they are more than 1 foot away from you, they disappear, then reappear in the harness at the next sunset. [[Broken]] or destroyed items similarly reappear, restored, in their proper pockets at sunset.
-**Activate** <span class="action-icon">1</span> Interact ; **Effect** You cinch the harness to prepare for mischief. You gain a +1 item bonus to [[Stealth]] checks and a +10-foot item bonus to your Speed for 1 minute.
+A _vaultbreaker's harness_ has four pockets across the chest. The pockets contain a set of [[DATABASE/equipment/Thieves' Tools|infiltrator's thieves' tools]], infiltrator picks, a [[DATABASE/equipment/Crowbar|levered crowbar]], and a [[DATABASE/equipment/Glass Cutter|glass cutter]]. These items are magically bound to the harness; if they are more than 1 foot away from you, they disappear, then reappear in the harness at the next sunset. [[DATABASE/condition/Broken|Broken]] or destroyed items similarly reappear, restored, in their proper pockets at sunset.
+**Activate** <span class="action-icon">1</span> Interact ; **Effect** You cinch the harness to prepare for mischief. You gain a +1 item bonus to [[DATABASE/skill/Stealth|Stealth]] checks and a +10-foot item bonus to your Speed for 1 minute.

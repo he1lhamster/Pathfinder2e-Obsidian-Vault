@@ -22,6 +22,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: basicFortitude
 school: Evocation
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -37,8 +38,8 @@ type: Focus
 # Diamond Dust<span class="item-type">Focus 4</span>
 
 <span class="item-trait">Cold</span><span class="item-trait">Evocation</span>
-**Source** [[Gods & Magic]] 
-**Domain** [[Cold Domain]]
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
+**Domain** [[DATABASE/domain/Cold Domain|cold]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Area** 15-foot emanation centered on you
 **Saving Throw** basic Fortitude; **Duration** 1 minute

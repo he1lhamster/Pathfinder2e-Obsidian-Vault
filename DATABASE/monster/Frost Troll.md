@@ -84,12 +84,12 @@ Frost trolls are nightmarish frozen monsters of rime-stained claws and hoarfrost
 # Frost Troll<span class="item-type">Creature 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Cold</span><span class="item-trait">Giant</span><span class="item-trait">Troll</span>
-**Source** [[Bestiary 2]] 
-**Perception** +12; [[Darkvision]]
-**Languages** [[Common]], [[Jotun]]
-**Skills** [[Athletics]] +13, [[Intimidation]] +10, [[Survival]] +10
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +12; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Jotun|Jotun]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +13, [[DATABASE/skill/Intimidation|Intimidation]] +10, [[DATABASE/skill/Survival|Survival]] +10
 **Str** +5, **Dex** +2, **Con** +5, **Int** +0, **Wis** +2, **Cha** +2
-**Items** [[Hatchet]]
+**Items** [[DATABASE/weapon/Hatchet|hatchet]]
 
 ---
 **AC** 19; **Fort** +13, **Ref** +10, **Will** +8
@@ -98,7 +98,7 @@ Frost trolls are nightmarish frozen monsters of rime-stained claws and hoarfrost
 
 ---
 **Speed** 30 feet; ice stride
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +13 [+8/+3] (reach 10 feet), **Damage** 2d8+7 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> hatchet +13 [+9/+5] (agile, reach 10 feet, sweep), **Damage** 2d6+7 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +13 [+9/+5] (agile, reach 10 feet), **Damage** 2d4+7 slashing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> hatchet +10 [+6/+2] (agile, sweep, thrown 10 feet), **Damage** 2d6+7 slashing</span><span class="in-box-ability">**Ice Stride** A frost troll isn't impeded by difficult terrain caused by snow or ice, nor do they need to attempt [[Acrobatics]] checks to keep from falling on slippery ice.</span><span class="in-box-ability">**[[Rend]]** <span class="action-icon">1</span> claw</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +13 [+8/+3] (reach 10 feet), **Damage** 2d8+7 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> hatchet +13 [+9/+5] (agile, reach 10 feet, sweep), **Damage** 2d6+7 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +13 [+9/+5] (agile, reach 10 feet), **Damage** 2d4+7 slashing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> hatchet +10 [+6/+2] (agile, sweep, thrown 10 feet), **Damage** 2d6+7 slashing</span><span class="in-box-ability">**Ice Stride** A frost troll isn't impeded by difficult terrain caused by snow or ice, nor do they need to attempt [[DATABASE/skill/Acrobatics|Acrobatics]] checks to keep from falling on slippery ice.</span><span class="in-box-ability">**[[DATABASE/monsterability/Rend|Rend]]** <span class="action-icon">1</span> claw</span>
 
 ###  Deathless Frost
 

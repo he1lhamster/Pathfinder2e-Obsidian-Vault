@@ -18,6 +18,7 @@ language:
 max_speed: '25'
 name: Anadi
 rarity: Rare
+rus_type_level: null
 size: Medium
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 speed:
@@ -33,7 +34,7 @@ vision: null
 # Anadi
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Anadi</span><span class="item-trait">Humanoid</span>
-**Source** [[The Mwangi Expanse]] 
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]] 
 _Anadi people are reclusive, sapient spiders who hail from the jungles of southern Garund. Though they act in many ways like natural-born shapeshifters, their twin forms actually stem from carefully developed magic._
 As a communal and peaceful people, anadi ancestors endeavored to establish trade with the neighbors of their homeland. However, these anadi soon learned that most others found their appearance to be extremely objectionable. Wishing to avoid conflict, ancient anadi retreated into isolation until they could find a solution. The answer came when their greatest scholars innovated a fusion of transmutation and illusion magic that allowed them to assume a humanoid form. The technique was developed, perfected, and eventually taught to the overwhelming majority of anadi.
  Early efforts with their new approach to diplomacy have yielded much better results, though sporadic contact means that some outsiders whisper false legends about anadi, such as claims that they are humans who transform into monstrous spiders at moonrise. Even contemporary explorers have reported anadi as human-spider hybrids. The anadi people of the current day strive to slowly but surely create a world where they no longer need to hide their true nature.
@@ -48,7 +49,7 @@ As a communal and peaceful people, anadi ancestors endeavored to establish trade
 
 * Appreciate your willingness to seek nonviolent solutions to complicated problems.
 * Have a strong reaction to seeing your natural form.
-* Assume you have an affinity for [[Druid]] magic, given your ability to transform.
+* Assume you have an affinity for [[DATABASE/class_/Druid|druidic]] magic, given your ability to transform.
 
 ## Physical Description
 
@@ -61,11 +62,11 @@ Anadi live in a communal society, sharing peaceful lives farming mushrooms or we
 
 ## Alignment and Religion
 
-The cooperative nature of anadi society and their dislike of violence means many anadi lean toward good alignments. They're more often neutral than chaotic or lawful, though the latter aren't unheard of. Legends say [[Grandmother Spider]] rescued anadi people from servitude and brought them to Golarion, becoming their patron deity in the process. Her values of mutual care and playful trickery interweave into anadi culture, and even those who don't worship her tell tales of her adventures.
+The cooperative nature of anadi society and their dislike of violence means many anadi lean toward good alignments. They're more often neutral than chaotic or lawful, though the latter aren't unheard of. Legends say [[DATABASE/deity/Grandmother Spider|Grandmother Spider]] rescued anadi people from servitude and brought them to Golarion, becoming their patron deity in the process. Her values of mutual care and playful trickery interweave into anadi culture, and even those who don't worship her tell tales of her adventures.
 
 ## Adventurers
 
-Anadi who answer the call to adventure often do so to learn more about the world at large. Common anadi backgrounds include [[Artisan]], [[Emissary]], [[Herbalist]], [[Hunter]], and [[Scholar]]. Anadi adventurers who want to support their communities often become [[Cleric]] or [[Druid]]. [[Rogue]] remains a popular choice among those who seek to hide their true form. Anadi who wish to continue their magical traditions tend to become [[Wizard]] or [[Sorcerer]].
+Anadi who answer the call to adventure often do so to learn more about the world at large. Common anadi backgrounds include [[DATABASE/background/Artisan|artisan]], [[DATABASE/background/Emissary|emissary]], [[DATABASE/background/Herbalist|herbalist]], [[DATABASE/background/Hunter|hunter]], and [[DATABASE/background/Scholar|scholar]]. Anadi adventurers who want to support their communities often become [[DATABASE/class_/Cleric|clerics]] or [[DATABASE/class_/Druid|druids]]. [[DATABASE/class_/Rogue|Rogue]] remains a popular choice among those who seek to hide their true form. Anadi who wish to continue their magical traditions tend to become [[DATABASE/class_/Wizard|wizards]] or [[DATABASE/class_/Sorcerer|sorcerers]].
 
 ## Names
 
@@ -101,20 +102,20 @@ Constitution
 
 ## Languages
 
-[[Anadi]]
-[[Mwangi]]
-Additional languages equal to your Intelligence modifier (if positive). Choose from [[Draconic]], [[Elven]], Gnoll, [[Iruxi]], [[Orcish]], [[Sylvan]], and any other languages to which you have access (such as the languages prevalent in your region).
+[[DATABASE/language/Anadi|Anadi]]
+[[DATABASE/language/Mwangi|Mwangi]]
+Additional languages equal to your Intelligence modifier (if positive). Choose from [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Elven|Elven]], Gnoll, [[DATABASE/language/Iruxi|Iruxi]], [[DATABASE/language/Orcish|Orcish]], [[DATABASE/language/Sylvan|Sylvan]], and any other languages to which you have access (such as the languages prevalent in your region).
 
 ## Change Shape
 
-### [[Change Shape]] <span class="action-icon">1</span>
+### [[DATABASE/action/Change Shape|Change Shape]] <span class="action-icon">1</span>
 
 <span class="item-trait">Anadi</span><span class="item-trait">Arcane</span><span class="item-trait">Concentrate</span><span class="item-trait">Polymorph</span><span class="item-trait">Transmutation</span>
-**Source** [[The Mwangi Expanse]]
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]
 
 ---
-You change into your human or spider shape. Each shape has a specific, persistent appearance. In your human shape, you can't use unarmed attacks granted by your ancestry. You aren't [[Flat-Footed]] when climbing in your spider shape. However, in your spider shape you can't use weapons, shields, or other held items of any sort, and you are limited in what actions you can take that have the manipulate trait. The only manipulate actions you can take are to Cast a Spell with somatic components, weave silk or webbing, or simple Interact actions such as opening an unlocked door. Your spider legs can't perform actions that require fingers or significant manual dexterity, including any action that would require a check to accomplish. The GM might determine other manipulate actions are appropriate for your spider legs.
+You change into your human or spider shape. Each shape has a specific, persistent appearance. In your human shape, you can't use unarmed attacks granted by your ancestry. You aren't [[DATABASE/condition/Flat-Footed|flat-footed]] when climbing in your spider shape. However, in your spider shape you can't use weapons, shields, or other held items of any sort, and you are limited in what actions you can take that have the manipulate trait. The only manipulate actions you can take are to Cast a Spell with somatic components, weave silk or webbing, or simple Interact actions such as opening an unlocked door. Your spider legs can't perform actions that require fingers or significant manual dexterity, including any action that would require a check to accomplish. The GM might determine other manipulate actions are appropriate for your spider legs.
 
 ## Fangs
 
-You were born with a natural means for hunting and self-defense. You gain a fangs unarmed attack that deals 1d6 piercing damage. Your fangs are in the [[Brawling]] group and have the finesse and unarmed traits.
+You were born with a natural means for hunting and self-defense. You gain a fangs unarmed attack that deals 1d6 piercing damage. Your fangs are in the [[DATABASE/weapongroup/Brawling|brawling]] group and have the finesse and unarmed traits.

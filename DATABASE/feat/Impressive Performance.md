@@ -11,6 +11,7 @@ name: Impressive Performance
 prerequisite: Trained in [[DATABASE/skill/Performance|Performance]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: performance
@@ -24,15 +25,15 @@ type: Feat
 # Impressive Performance <span class="item-type">Feat 1</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** trained in [[Performance]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** trained in [[DATABASE/skill/Performance|Performance]]
 
 ---
 Your performances inspire admiration and win you fans. You can Make an Impression using Performance instead of Diplomacy.
 
 ## Impressive Performance Leads To...
 
-[[Gladiator Dedication]]
+[[DATABASE/feat/Gladiator Dedication|Gladiator Dedication]]
 
 ## Traits
 

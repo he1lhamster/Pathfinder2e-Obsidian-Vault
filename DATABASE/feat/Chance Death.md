@@ -11,6 +11,7 @@ name: Chance Death
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Chance Death <span class="action-icon">5</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Duskwalker</span><span class="item-trait">Fortune</span>
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 **Frequency** once per day
 **Trigger** You would die as a result of a failed saving throw or recovery check.
 
@@ -36,7 +37,7 @@ Your previous life ended due to sheer poor luck, struck by lightning or choking 
 
 **Duskwalker:**
 
-A creature with this trait has the duskwalker versatile heritage. Duskwalkers are planar scions infused with the supernatural energy of [[Psychopomp]]. An ability with this trait can be used or selected only by duskwalkers.
+A creature with this trait has the duskwalker versatile heritage. Duskwalkers are planar scions infused with the supernatural energy of [[DATABASE/monsterfamily/Psychopomp|psychopomps]]. An ability with this trait can be used or selected only by duskwalkers.
 
 **Fortune:**
 

@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Highhelm Drill<span class="item-type">Item 4+</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Evocation</span><span class="item-trait">Force</span><span class="item-trait">Magical</span>
-**Source** [[Highhelm]]
+**Source** [[DATABASE/source/Highhelm|Highhelm]]
 **Usage** held in 2 hands; **Bulk** 3
 
 ---
@@ -64,20 +65,20 @@ Not to be outdone by their cousins in Dongun Hold, the artificers of Highhelm ha
 
 ## Highhelm Drill (Mark I)<span class="item-type">Item 4</span>
 
-**Source** [[Highhelm]]
+**Source** [[DATABASE/source/Highhelm|Highhelm]]
 **Price** 85 gp
 **Bulk** 3
 
 ## Highhelm Drill (Mark II)<span class="item-type">Item 12</span>
 
-**Source** [[Highhelm]]
+**Source** [[DATABASE/source/Highhelm|Highhelm]]
 **Price** 1,800 gp
 **Bulk** 3
 The drill deals 10 force damage per round, ignores the first 8 Hardness, and remains active for 5 minutes.
 
 ## Highhelm Drill (Mark III)<span class="item-type">Item 16</span>
 
-**Source** [[Highhelm]]
+**Source** [[DATABASE/source/Highhelm|Highhelm]]
 **Price** 8,750 gp
 **Bulk** 3
 The drill deals 15 force damage per round, ignores the first 12 Hardness, and remains active for 10 minutes.

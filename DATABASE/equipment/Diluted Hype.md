@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: DC 21 Fortitude
 school: null
 size: null
@@ -58,11 +59,11 @@ weapon_type: null
 # Diluted Hype<span class="item-type">Item 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Drug</span><span class="item-trait">Ingested</span><span class="item-trait">Poison</span>
-**Source** [[Legends]]
+**Source** [[DATABASE/source/Legends|Legends]]
 **Price** 20 gp
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
 ---
 A synthetic adrenaline supplement that increases awareness and reaction time. Diluted hype has been mixed with saltwater to allow for cheaper mass production.
- **Saving Throw** DC 21 Fortitude; **Maximum Duration** 1 minute; **Stage 1** [[Quickened]] and can use the additional action to Step (1 round); **Stage 2** [[Stupefied]] (1 round); **Stage 3** [[Drained]] and stupefied 1 (1 round)
+ **Saving Throw** DC 21 Fortitude; **Maximum Duration** 1 minute; **Stage 1** [[DATABASE/condition/Quickened|quickened]] and can use the additional action to Step (1 round); **Stage 2** [[DATABASE/condition/Stupefied|stupefied 1]] (1 round); **Stage 3** [[DATABASE/condition/Drained|drained 1]] and stupefied 1 (1 round)

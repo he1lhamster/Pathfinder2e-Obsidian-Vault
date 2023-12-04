@@ -11,6 +11,7 @@ name: Change of Face
 prerequisite: '[[DATABASE/feat/Alter Ego Dedication|Alter Ego Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -24,12 +25,12 @@ type: Feat
 # Change of Face <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Skill</span>
-**Source** [[Dark Archive]]
-**Archetype** [[Alter Ego]]
-**Prerequisites** [[Alter Ego Dedication]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Archetype** [[DATABASE/archetype/Alter Ego|Alter Ego]]
+**Prerequisites** [[DATABASE/feat/Alter Ego Dedication|Alter Ego Dedication]]
 
 ---
-You know that for the best disguise to work, one requires not only the right skills but also the right look—luckily you can copy both using special magical techniques. When you [[Impersonate]], you don't need a [[Disguise Kit]]; instead, simple illusions or temporary transmutations ripple over your body like mirror shards, providing the supplies that the kit ordinarily would. When you Impersonate in this way, your Impersonate activity gains the occult trait.
+You know that for the best disguise to work, one requires not only the right skills but also the right look—luckily you can copy both using special magical techniques. When you [[DATABASE/action/Impersonate|Impersonate]], you don't need a [[DATABASE/equipment/Disguise Kit|disguise kit]]; instead, simple illusions or temporary transmutations ripple over your body like mirror shards, providing the supplies that the kit ordinarily would. When you Impersonate in this way, your Impersonate activity gains the occult trait.
 
 ## Traits
 

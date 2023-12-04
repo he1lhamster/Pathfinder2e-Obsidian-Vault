@@ -7,6 +7,7 @@ id: '1402'
 name: Improve Lifestyle
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
@@ -19,7 +20,7 @@ type: Action
 # Improve Lifestyle
 
 <span class="item-trait">Commerce</span><span class="item-trait">Downtime</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 
 ---
 Attempt a basic check to draw upon your kingdom's treasury to enhance the quality of life for your citizens. This activity can be taken only during the Commerce phase of a Kingdom turn (page 538).

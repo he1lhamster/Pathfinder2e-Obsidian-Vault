@@ -64,20 +64,20 @@ wisdom: '+0'
 # Thorn River Bandit
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 15
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Thorn River Bandit<span class="item-type">Creature -1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span><span class="item-trait">Minion</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 Human bandit
 **Perception** +2
-**Languages** [[Common]]
-**Skills** [[Athletics]] +5, [[Intimidation]] +2, [[Stealth]] +4
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +5, [[DATABASE/skill/Intimidation|Intimidation]] +2, [[DATABASE/skill/Stealth|Stealth]] +4
 **Str** +1, **Dex** +2, **Con** +1, **Int** +0, **Wis** +0, **Cha** +0
-**Items** 1d8 sp, [[Dagger]], [[Leather Armor]], [[Rations]], [[Shortbow]], [[Silver]]
+**Items** 1d8 sp, [[DATABASE/weapon/Dagger|dagger]], [[DATABASE/armor/Leather Armor|leather armor]], [[DATABASE/equipment/Rations|rations (2 days)]], [[DATABASE/weapon/Shortbow|shortbow (10 arrows)]], [[DATABASE/equipment/Silver|silver Stag Lord amulet (worth 3 gp)]]
 
 ---
 **AC** 14; **Fort** +5, **Ref** +6, **Will** +2

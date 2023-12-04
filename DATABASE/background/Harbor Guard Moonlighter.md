@@ -6,6 +6,7 @@ id: '193'
 name: Harbor Guard Moonlighter
 prerequisite: null
 rarity: null
+rus_type_level: null
 skill: null
 source: '[[DATABASE/source/Agents of Edgewatch Player''s Guide|Agents of Edgewatch
   Player''s Guide]]'
@@ -16,8 +17,8 @@ type: null
 ---
 # Harbor Guard Moonlighter<span class="item-type">Background</span>
 
-**Source** [[Agents of Edgewatch Player's Guide]]
+**Source** [[DATABASE/source/Agents of Edgewatch Player's Guide|Agents of Edgewatch Player's Guide]]
 The Harbor Guard isn't known for being the most honorable precinct in town. A few years after you joined the force, you became disillusioned by the rampant corruption within the precinct and the district at large. One night, you stumbled on an ad for a local monster hunter's guild. You joined on a whim, but fell in love with the swashbuckling lifestyle of an independent bounty hunter. You've since earned quite a reputation for your nocturnal adventures; everyone still knows that you're a Harbor Guard, but stories of your dungeon-delving adventures have long overshadowed that facet of your life. Unfortunately, long nights of monster-hunting have negatively impacted your performance at your day job, so maybe it wasn't a surprise when your supervising officer put in a transfer request for you, spelling the end of your plucky nighttime antics with that particular guild.
  Despite the decline in your performance, Lieutenant Lavarsus of Edgewatch sees potential (and even, maybe, a bit of himself) in you. You're eager to be on a new unit and for the chance to bring your monster-hunting skills to a district that has been plagued by such supernatural beasts for far too long.
  Choose two ability boosts. One must be to **Strength** or **Constitution**, and one is a free ability boost.
- You're trained in the [[Athletics]] skill and your choice of [[Lore]] or [[Lore]]. You gain a +1 circumstance bonus to [[Deception]], [[Diplomacy]], and [[Intimidation]] checks to interact with Harbor Guards, ship captains, and freelance adventurers. You gain the [[Quick Jump]] skill feat.
+ You're trained in the [[DATABASE/skill/Athletics|Athletics]] skill and your choice of [[DATABASE/skill/Lore|Sailing Lore]] or [[DATABASE/skill/Lore|Hunting Lore]]. You gain a +1 circumstance bonus to [[DATABASE/skill/Deception|Deception]], [[DATABASE/skill/Diplomacy|Diplomacy]], and [[DATABASE/skill/Intimidation|Intimidation]] checks to interact with Harbor Guards, ship captains, and freelance adventurers. You gain the [[DATABASE/feat/Quick Jump|Quick Jump]] skill feat.

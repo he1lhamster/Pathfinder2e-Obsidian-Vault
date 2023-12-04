@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: DC 18 Fortitude
 school: null
 size: null
@@ -56,11 +57,11 @@ weapon_type: null
 # Arsenic<span class="item-type">Item 1</span>
 
 <span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Ingested</span><span class="item-trait">Poison</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 3 gp
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
 ---
-This toxin is a compound of arsenic and other substances. You can't reduce your [[Sickened]] condition while affected.
+This toxin is a compound of arsenic and other substances. You can't reduce your [[DATABASE/condition/Sickened|sickened]] condition while affected.
 **Saving Throw** DC 18 Fortitude; **Onset** 10 minutes; **Maximum Duration** 5 minutes; **Stage 1** 1d4 poison damage and sickened 1 (1 minute); **Stage 2** 1d6 poison damage and sickened 2 (1 minute); **Stage 3** 2d6 poison damage and sickened 3 (1 minute)

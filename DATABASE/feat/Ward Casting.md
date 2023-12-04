@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Spellmaster Dedication|Spellmaster Dedication]] ;
   Spellcasting|Steady Spellcasting]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 subcategory: null
@@ -25,9 +26,9 @@ type: Feat
 # Ward Casting <span class="action-icon">5</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Character Guide]] 
-**Archetype** [[Spellmaster]]
-**Prerequisites** [[Spellmaster Dedication]]; [[Steady Spellcasting]]
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
+**Archetype** [[DATABASE/archetype/Spellmaster|Spellmaster]]
+**Prerequisites** [[DATABASE/feat/Spellmaster Dedication|Spellmaster Dedication]]; [[DATABASE/feat/Steady Spellcasting|Steady Spellcasting]]
 **Trigger** You attempt a flat check for Steady Spellcasting, but you haven’t rolled yet.
 
 ---

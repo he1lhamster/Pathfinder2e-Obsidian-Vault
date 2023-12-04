@@ -21,6 +21,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
@@ -37,14 +38,14 @@ type: Spell
 # Empty Pack<span class="item-type">Spell 2</span>
 
 <span class="item-trait">Illusion</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Traditions** arcane, occult
 **Cast** <span class="action-icon">2</span> material, somatic
 **Range** touch; **Targets** 1 container of 2 Bulk or less
 **Duration** 1 hour
 
 ---
-You render every item inside the container you touch invisible, although the container itself remains visible. The items within are [[Undetected]] to all creatures, though a creature can attempt to find an item by reaching into the bag, making an item [[Hidden]] to them instead if they succeed. Additionally, the spell doesn't prevent the items from making protrusions in the bag, adding weight, making noise when jostling around, and so on. However, the spell prevents anything within the container from falling out if it's upended. Any object removed from the container becomes visible and remains visible even if returned to the container.
+You render every item inside the container you touch invisible, although the container itself remains visible. The items within are [[DATABASE/condition/Undetected|undetected]] to all creatures, though a creature can attempt to find an item by reaching into the bag, making an item [[DATABASE/condition/Hidden|hidden]] to them instead if they succeed. Additionally, the spell doesn't prevent the items from making protrusions in the bag, adding weight, making noise when jostling around, and so on. However, the spell prevents anything within the container from falling out if it's upended. Any object removed from the container becomes visible and remains visible even if returned to the container.
 
 ---
 **Heightened (4th)** The duration is until the next time you make your daily preparations.

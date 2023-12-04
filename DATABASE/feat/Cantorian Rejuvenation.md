@@ -11,6 +11,7 @@ name: Cantorian Rejuvenation
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -26,7 +27,7 @@ type: Feat
 # Cantorian Rejuvenation <span class="action-icon">2</span> <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Healing</span><span class="item-trait">Hobgoblin</span><span class="item-trait">Necromancy</span><span class="item-trait">Positive</span>
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 **Frequency** once per day
 
 ---
@@ -48,4 +49,4 @@ Effects and magic items with this trait are associated with the necromancy schoo
 
 **Positive:**
 
-Effects with this trait heal living creatures with positive energy, deal positive energy damage to undead, or manipulate positive energy. Planes with this trait are awash with life energy of such intensity that it can harm living creatures. Creatures with this trait are natives of the [[Positive Energy Plane]]. They can survive the basic environmental effects of the Positive Energy Plane.
+Effects with this trait heal living creatures with positive energy, deal positive energy damage to undead, or manipulate positive energy. Planes with this trait are awash with life energy of such intensity that it can harm living creatures. Creatures with this trait are natives of the [[DATABASE/plane/Positive Energy Plane|Positive Energy Plane]]. They can survive the basic environmental effects of the Positive Energy Plane.

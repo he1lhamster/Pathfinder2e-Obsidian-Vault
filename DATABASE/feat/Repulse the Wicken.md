@@ -11,6 +11,7 @@ name: Repulse the Wicken
 prerequisite: '[[DATABASE/feat/Lastwall Sentry Dedication|Lastwall Sentry Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
 subcategory: null
@@ -23,13 +24,13 @@ type: Feat
 # Repulse the Wicken <span class="action-icon">5</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Knights of Lastwall]]
-**Archetype** [[Lastwall Sentry]]
-**Prerequisites** [[Lastwall Sentry Dedication]]
+**Source** [[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]
+**Archetype** [[DATABASE/archetype/Lastwall Sentry|Lastwall Sentry]]
+**Prerequisites** [[DATABASE/feat/Lastwall Sentry Dedication|Lastwall Sentry Dedication]]
 **Trigger** An undead within your reach critically fails an attack roll targeting you.
 
 ---
-You use your foe's failure as an opening to push them away. You attempt to [[Shove]] the undead.
+You use your foe's failure as an opening to push them away. You attempt to [[DATABASE/action/Shove|Shove]] the undead.
 
 ## Traits
 

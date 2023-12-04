@@ -26,6 +26,7 @@ patron_theme: null
 range: 500 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Reflex
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -43,9 +44,9 @@ type: Spell
 # Chain Lightning<span class="item-type">Spell 6</span>
 
 <span class="item-trait">Electricity</span><span class="item-trait">Evocation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, primal
-**Deities** [[Dagon]], [[Hei Feng]], [[Ranginori]], [[Vineshvakhi]]
+**Deities** [[DATABASE/deity/Dagon|Dagon]], [[DATABASE/deity/Hei Feng|Hei Feng]], [[DATABASE/deity/Ranginori|Ranginori]], [[DATABASE/deity/Vineshvakhi|Vineshvakhi]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 500 feet; **Targets** 1 creature, plus any number of additional creatures
 **Saving Throw** Reflex

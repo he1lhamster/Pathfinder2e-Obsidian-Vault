@@ -12,6 +12,7 @@ prerequisite: Master in [[DATABASE/skill/Deception|Deception]] ; [[DATABASE/feat
   Dedication|Vigilante Dedication]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,12 +25,12 @@ type: Feat
 # Quick Change <span class="item-type">Feat 7</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Vigilante]]
-**Prerequisites** master in [[Deception]]; [[Vigilante Dedication]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Vigilante|Vigilante]]
+**Prerequisites** master in [[DATABASE/skill/Deception|Deception]]; [[DATABASE/feat/Vigilante Dedication|Vigilante Dedication]]
 
 ---
-You can shift between your identities with ease. Instead of spending 1 minute to change your identity, you can now do so as a 3-action activity. If you are legendary in [[Deception]], you can perform this change as a 1-action activity.
+You can shift between your identities with ease. Instead of spending 1 minute to change your identity, you can now do so as a 3-action activity. If you are legendary in [[DATABASE/skill/Deception|Deception]], you can perform this change as a 1-action activity.
 
 ## Traits
 

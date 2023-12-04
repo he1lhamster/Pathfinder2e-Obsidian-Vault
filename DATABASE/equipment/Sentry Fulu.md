@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Sentry Fulu<span class="item-type">Item 4</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Consumable</span><span class="item-trait">Fulu</span><span class="item-trait">Magical</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 15 gp
 **Usage** affixed to the ground; **Bulk** —
 **Activate** <span class="action-icon">3</span> command, envision, Interact

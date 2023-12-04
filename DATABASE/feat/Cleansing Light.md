@@ -11,6 +11,7 @@ name: Cleansing Light
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -27,11 +28,11 @@ type: Feat
 # Cleansing Light <span class="action-icon">2</span> <span class="item-type">Feat 17</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Kashrishi</span><span class="item-trait">Light</span><span class="item-trait">Necromancy</span><span class="item-trait">Occult</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 **Frequency** once per day
 
 ---
-A burst of light from your horn cleanses your allies of ailments and sends your foes reeling. You and all allies in a 20-foot emanation benefit from a 4th-level [[Restoration]] spell. All enemies within the emanation are [[Dazzled]] until the end of your next turn.
+A burst of light from your horn cleanses your allies of ailments and sends your foes reeling. You and all allies in a 20-foot emanation benefit from a 4th-level [[DATABASE/spell/Restoration|restoration]] spell. All enemies within the emanation are [[DATABASE/condition/Dazzled|dazzled]] until the end of your next turn.
 
 ## Traits
 

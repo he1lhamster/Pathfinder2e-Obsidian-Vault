@@ -11,6 +11,7 @@ name: Hunter's Defense
 prerequisite: Trained in [[DATABASE/skill/Nature|Nature]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 subcategory: null
@@ -25,13 +26,13 @@ type: Feat
 # Hunter's Defense <span class="action-icon">5</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Grippli</span>
-**Source** [[The Mwangi Expanse]] 
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]] 
 **Frequency** once per hour
-**Prerequisites** trained in [[Nature]]
+**Prerequisites** trained in [[DATABASE/skill/Nature|Nature]]
 **Trigger** A creature with the animal, beast, elemental, fey, fungus, or plant trait attacks you, and you can see the attacker.
 
 ---
-Your canny understanding of natural and primal creatures helps you predict and dodge their attacks. The triggering attack roll targets your [[Nature]] DC instead of your AC. Though this allows you to avoid taking penalties to your AC, it doesn't remove any conditions or other effects causing such penalties. For example, an enemy with sneak attack would still deal extra damage to you for being [[Flat-Footed]], even though you wouldn't take the –2 circumstance penalty against the attack.
+Your canny understanding of natural and primal creatures helps you predict and dodge their attacks. The triggering attack roll targets your [[DATABASE/skill/Nature|Nature]] DC instead of your AC. Though this allows you to avoid taking penalties to your AC, it doesn't remove any conditions or other effects causing such penalties. For example, an enemy with sneak attack would still deal extra damage to you for being [[DATABASE/condition/Flat-Footed|flat-footed]], even though you wouldn't take the –2 circumstance penalty against the attack.
 
 ## Traits
 

@@ -11,6 +11,7 @@ name: Radiant Infusion
 prerequisite: good alignment; [[DATABASE/class_/Cleric|healing font]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,11 +26,11 @@ type: Feat
 # Radiant Infusion <span class="action-icon">1</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Cleric</span><span class="item-trait">Concentrate</span><span class="item-trait">Metamagic</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** good alignment; [[Cleric]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** good alignment; [[DATABASE/class_/Cleric|healing font]]
 
 ---
-You pour invigorating positive energy into a living ally. If the next action you use is to cast [[Heal]] to restore Hit Points to a single living creature, the target deals an additional 1d6 positive damage with its melee weapons and unarmed attacks until the end of its next turn. If the heal spell is at least 5th level, this damage increases to 2d6, or 3d6 if the spell is at least 8th level.
+You pour invigorating positive energy into a living ally. If the next action you use is to cast [[DATABASE/spell/Heal|heal]] to restore Hit Points to a single living creature, the target deals an additional 1d6 positive damage with its melee weapons and unarmed attacks until the end of its next turn. If the heal spell is at least 5th level, this damage increases to 2d6, or 3d6 if the spell is at least 8th level.
 
 ## Traits
 

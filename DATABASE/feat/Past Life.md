@@ -11,6 +11,7 @@ name: Past Life
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Past Life <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Skeleton</span>
-**Source** [[Book of the Dead]]
+**Source** [[DATABASE/source/Book of the Dead|Book of the Dead]]
 
 ---
-Flashes of your life become clearer and more frequent, allowing you to apply skills you developed while alive. You become trained in a skill of your choice and gain the [[Additional Lore]] feat for a [[Lore]] subcategory tied to your life.
+Flashes of your life become clearer and more frequent, allowing you to apply skills you developed while alive. You become trained in a skill of your choice and gain the [[DATABASE/feat/Additional Lore|Additional Lore]] feat for a [[DATABASE/skill/Lore|Lore]] subcategory tied to your life.
 
 ## Traits
 

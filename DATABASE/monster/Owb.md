@@ -89,12 +89,12 @@ Commonly called owbs, or lesser owbs by more powerful owb prophets, most of thes
 # Owb<span class="item-type">Creature 6</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Shadow</span>
-**Source** [[Bestiary 3]]
-**Perception** +13; [[Darkvision]]
-**Languages** [[Caligni]]; (can't speak any languages); [[Telepathy]] 100 feet
-**Skills** [[Acrobatics]] +15, [[Deception]] +13, [[Diplomacy]] +11, [[Occultism]] +12, [[Religion]] +11, [[Stealth]] +15
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
+**Perception** +13; [[DATABASE/monsterability/Darkvision|greater darkvision]]
+**Languages** [[DATABASE/language/Caligni|Caligni]]; (can't speak any languages); [[DATABASE/monsterability/Telepathy|telepathy]] 100 feet
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +15, [[DATABASE/skill/Deception|Deception]] +13, [[DATABASE/skill/Diplomacy|Diplomacy]] +11, [[DATABASE/skill/Occultism|Occultism]] +12, [[DATABASE/skill/Religion|Religion]] +11, [[DATABASE/skill/Stealth|Stealth]] +15
 **Str** +4, **Dex** +5, **Con** +4, **Int** +0, **Wis** +3, **Cha** +3
-**[[Light Blindness]]**
+**[[DATABASE/monsterability/Light Blindness|Light Blindness]]**
 
 ---
 **AC** 24; **Fort** +14, **Ref** +15, **Will** +13; Immunities cold
@@ -102,6 +102,6 @@ Commonly called owbs, or lesser owbs by more powerful owb prophets, most of thes
 
 ---
 **Speed** 5 feet, fly 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +16 [+12/+8] (agile, magical), **Damage** 1d8+7 slashing plus 1d8 cold</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> burning cold +17 [+12/+7] (magical, range 120 feet), **Damage** 2d8 cold plus 1d8 [[Persistent Damage]]</span>**Occult Innate Spells** DC 23, attack +15; **7th** _[[Plane Shift]]_ (self only; to or from the [[Shadow Plane]] only); **5th** _[[Shadow Blast]]_, _[[Shadow Walk]]_; **4th** _[[Darkness]]_ (at will), _[[Invisibility]]_; **3rd** _[[Mind Reading]]_ (at will); **Cantrips** **(3rd)** _[[Chill Touch]]_, _[[Daze]]_, _[[Read Aura]]_, _[[Shield]]_
-<span class="in-box-ability">**Curse of Darkness** <span class="action-icon">1</span> (curse, darkness, evocation, occult) The owb inflicts a curse on one creature taking [[Persistent Damage]] from their burning cold Strike, stealing the victim's vibrancy. The creature must attempt a DC 23 Fortitude save. On a failure, the creature gains [[Light Blindness]] and its coloration turns to washed out shades of gray, along with all equipment it carries, wields, or wears. These effects have an unlimited duration. Regardless of the result of its save, the creature is temporarily immune for 1 minute.
- If the owb uses this ability on a [[Caligni]], the curse can't be removed short of [[Wish]] or similar powerful magic</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +16 [+12/+8] (agile, magical), **Damage** 1d8+7 slashing plus 1d8 cold</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> burning cold +17 [+12/+7] (magical, range 120 feet), **Damage** 2d8 cold plus 1d8 [[DATABASE/condition/Persistent Damage|persistent cold]]</span>**Occult Innate Spells** DC 23, attack +15; **7th** _[[DATABASE/spell/Plane Shift|plane shift]]_ (self only; to or from the [[DATABASE/plane/Shadow Plane|Shadow Plane]] only); **5th** _[[DATABASE/spell/Shadow Blast|shadow blast]]_, _[[DATABASE/spell/Shadow Walk|shadow walk]]_; **4th** _[[DATABASE/spell/Darkness|darkness]]_ (at will), _[[DATABASE/spell/Invisibility|invisibility]]_; **3rd** _[[DATABASE/spell/Mind Reading|mind reading]]_ (at will); **Cantrips** **(3rd)** _[[DATABASE/spell/Chill Touch|chill touch]]_, _[[DATABASE/spell/Daze|daze]]_, _[[DATABASE/spell/Read Aura|read aura]]_, _[[DATABASE/spell/Shield|shield]]_
+<span class="in-box-ability">**Curse of Darkness** <span class="action-icon">1</span> (curse, darkness, evocation, occult) The owb inflicts a curse on one creature taking [[DATABASE/condition/Persistent Damage|persistent cold damage]] from their burning cold Strike, stealing the victim's vibrancy. The creature must attempt a DC 23 Fortitude save. On a failure, the creature gains [[DATABASE/monsterability/Light Blindness|light blindness]] and its coloration turns to washed out shades of gray, along with all equipment it carries, wields, or wears. These effects have an unlimited duration. Regardless of the result of its save, the creature is temporarily immune for 1 minute.
+ If the owb uses this ability on a [[DATABASE/monsterfamily/Caligni|caligni]], the curse can't be removed short of [[DATABASE/spell/Wish|wish]] or similar powerful magic</span>

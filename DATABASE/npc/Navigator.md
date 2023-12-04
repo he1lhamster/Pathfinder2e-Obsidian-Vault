@@ -66,20 +66,20 @@ wisdom: '+3'
 # Navigator
 
 A navigator uses celestial bodies and shipping lanes to determine routes. For noncombat tasks involving navigation or sailing, the navigator is a 4th-level challenge.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 16
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
 # Navigator<span class="item-type">Creature 2</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Perception** +9
-**Languages** [[Common]]
-**Skills** [[Acrobatics]] +6, [[Nature]] +11, [[Lore]] +14, [[Society]] +8, [[Survival]] +9
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +6, [[DATABASE/skill/Nature|Nature]] +11, [[DATABASE/skill/Lore|Sailing Lore]] +14, [[DATABASE/skill/Society|Society]] +8, [[DATABASE/skill/Survival|Survival]] +9
 **Str** +0, **Dex** +2, **Con** +1, **Int** +4, **Wis** +3, **Cha** +0
-**Chart a Course** (concentrate) By spending 10 minutes of work and succeeding at a DC 22 [[Lore]] check, the navigator plots an optimal course. The severity of environmental conditions other than temperature are reduced by one step for 24 hours (two steps on a critical success). This changes moderate damage to minor damage, winds that create greater difficult terrain cause only difficult terrain, and so on.
-**Items** [[Dagger]], scroll case with ship's charts, [[Writing Set]]
+**Chart a Course** (concentrate) By spending 10 minutes of work and succeeding at a DC 22 [[DATABASE/skill/Lore|Sailing Lore]] check, the navigator plots an optimal course. The severity of environmental conditions other than temperature are reduced by one step for 24 hours (two steps on a critical success). This changes moderate damage to minor damage, winds that create greater difficult terrain cause only difficult terrain, and so on.
+**Items** [[DATABASE/weapon/Dagger|dagger]], scroll case with ship's charts, [[DATABASE/equipment/Writing Set|writing set]]
 
 ---
 **AC** 18; **Fort** +7, **Ref** +8, **Will** +9

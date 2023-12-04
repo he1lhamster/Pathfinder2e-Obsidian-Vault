@@ -69,16 +69,16 @@ wisdom: '+1'
 # Flash Beetle
 
 These 3-foot-long insects boast a pair of glowing organs on the back of the abdomen that give off bright light and that continue to glow for days, even after the creature’s death. Flash beetles are commonly herded and harvested by miners and spelunkers, as their glow is considered safer than torches and less expensive than lamps. Denizens of the Darklands often domesticate and train these insects, using them as pets, livestock, or caging them to use as organic sources of light in areas frequented by visitors unaccustomed to the darkness.
-**Recall Knowledge - Animal ([[Nature]])**: DC 13
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 13
 **Unspecific Lore**: DC 11
 **Specific Lore**: DC 8
 
 # Flash Beetle<span class="item-type">Creature -1</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Small</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +6; low-light vision
-**Skills** [[Acrobatics]] +6, [[Athletics]] +4
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +6, [[DATABASE/skill/Athletics|Athletics]] +4
 **Str** +1, **Dex** +3, **Con** +2, **Int** -5, **Wis** +1, **Cha** -2
 
 ---
@@ -88,4 +88,4 @@ These 3-foot-long insects boast a pair of glowing organs on the back of the abdo
 
 ---
 **Speed** 20 feet, fly 15 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> mandibles +8 [+4/+0] (agile, finesse), **Damage** 1d4+1 piercing</span><span class="in-box-ability">**Light Flash** <span class="action-icon">1</span> (concentrate, light) The flash beetle creates a brilliant flash of light. All creatures in its luminescent aura must succeed at a DC 17 Fortitude save or be [[Dazzled]] for 1 minute. The flash beetle’s glow then goes out, disabling its aura for 24 hours, during which time it cannot use Light Flash.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> mandibles +8 [+4/+0] (agile, finesse), **Damage** 1d4+1 piercing</span><span class="in-box-ability">**Light Flash** <span class="action-icon">1</span> (concentrate, light) The flash beetle creates a brilliant flash of light. All creatures in its luminescent aura must succeed at a DC 17 Fortitude save or be [[DATABASE/condition/Dazzled|dazzled]] for 1 minute. The flash beetle’s glow then goes out, disabling its aura for 24 hours, during which time it cannot use Light Flash.</span>

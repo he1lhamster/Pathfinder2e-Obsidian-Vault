@@ -20,6 +20,7 @@ patron_theme: null
 range: 30 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
@@ -39,15 +40,15 @@ type: Focus
 # Life Link<span class="item-type">Focus 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Cursebound</span><span class="item-trait">Healing</span><span class="item-trait">Necromancy</span><span class="item-trait">Oracle</span><span class="item-trait">Positive</span>
-**Source** [[Advanced Player's Guide]] 
-**Mystery** [[Life]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Mystery** [[DATABASE/oraclemystery/Life|life]]
 **Cast** <span class="action-icon">1</span> somatic
 **Range** 30 feet; **Targets** 1 creature other than you
 **Duration** 1 minute
 
 ---
 You forge a connection of life energy between you and your target, distributing harm between both of you. When you first Cast the Spell, the target recovers 1d4 Hit Points. The first time each round that the target takes damage, reduce the damage it takes by 3 (to a minimum of 0 damage). You lose 3 Hit Points each time, or the total damage dealt, if less than 3; this damage ignores any immunities or resistances you have and can't otherwise be mitigated in any way.
-The spell ends immediately if you fall [[Unconscious]]. You can Dismiss the spell.
+The spell ends immediately if you fall [[DATABASE/condition/Unconscious|unconscious]]. You can Dismiss the spell.
 
 ---
 **Heightened (3rd)** You can target 2 creatures other than you. Increase the initial healing to 3d4 and the maximum damage reduced and Hit Points lost to 5.

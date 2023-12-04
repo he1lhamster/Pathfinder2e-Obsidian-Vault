@@ -11,6 +11,7 @@ name: Impaling Thrust
 prerequisite: null
 rarity: Common
 requirement: You are wielding a melee weapon that deals piercing damage.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,11 +25,11 @@ type: Feat
 # Impaling Thrust <span class="action-icon">2</span> <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Barbarian</span><span class="item-trait">Rage</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Requirements** You are wielding a melee weapon that deals piercing damage.
 
 ---
-You impale your enemy and hold them in place with your weapon. Make a melee Strike with the required weapon. If the Strike hits and deals damage, your target is [[Grabbed]] until they successfully [[Escape]], you attack with the required weapon, or you Release the required weapon, whichever comes first. When the target is no longer grabbed, they take [[Persistent Damage]] equal to the number of weapon damage dice.
+You impale your enemy and hold them in place with your weapon. Make a melee Strike with the required weapon. If the Strike hits and deals damage, your target is [[DATABASE/condition/Grabbed|grabbed]] until they successfully [[DATABASE/action/Escape|Escape]], you attack with the required weapon, or you Release the required weapon, whichever comes first. When the target is no longer grabbed, they take [[DATABASE/condition/Persistent Damage|persistent bleed damage]] equal to the number of weapon damage dice.
 
 ## Traits
 

@@ -11,6 +11,7 @@ name: Play to the Crowd
 prerequisite: '[[DATABASE/feat/Gladiator Dedication|Gladiator Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,13 +26,13 @@ type: Feat
 # Play to the Crowd <span class="action-icon">5</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Concentrate</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Gladiator]]
-**Prerequisites** [[Gladiator Dedication]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Gladiator|Gladiator]]
+**Prerequisites** [[DATABASE/feat/Gladiator Dedication|Gladiator Dedication]]
 **Trigger** You reduce an enemy to 0 Hit Points during a non-trivial combat encounter with spectators.
 
 ---
-You show off for the crowd. Attempt a [[Performance]] check; the DC is determined by the GM but is typically the standard DC for your level or the DC to [[Make an Impression]] on the spectators, whichever is higher. On a success, choose one of the following benefits; on a critical success, choose two benefits:
+You show off for the crowd. Attempt a [[DATABASE/skill/Performance|Performance]] check; the DC is determined by the GM but is typically the standard DC for your level or the DC to [[DATABASE/action/Make an Impression|Make an Impression]] on the spectators, whichever is higher. On a success, choose one of the following benefits; on a critical success, choose two benefits:
 
 * A number of temporary Hit Points equal to your character level; these last for 1 minute.
 * A +1 circumstance bonus to AC until the end of your next turn.
@@ -39,7 +40,7 @@ You show off for the crowd. Attempt a [[Performance]] check; the DC is determine
 
 ## Play to the Crowd Leads To...
 
-[[Call Your Shot]]
+[[DATABASE/feat/Call Your Shot|Call Your Shot]]
 
 ## Traits
 

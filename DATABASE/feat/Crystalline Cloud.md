@@ -11,6 +11,7 @@ name: Crystalline Cloud
 prerequisite: '[[DATABASE/feat/Crystalline Dust|Crystalline Dust]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,11 +24,11 @@ type: Feat
 # Crystalline Cloud <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Aphorite</span>
-**Source** [[Ancestry Guide]] 
-**Prerequisites** [[Crystalline Dust]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
+**Prerequisites** [[DATABASE/feat/Crystalline Dust|Crystalline Dust]]
 
 ---
-When you use Crystalline Dust, you can spend one additional action to disperse the motes as a 10-foot-radius cloud centered on you instead of as haze; the activity gains the concentrate trait. All creatures within the cloud become [[Concealed]], and all creatures outside the cloud become concealed to creatures within it.
+When you use Crystalline Dust, you can spend one additional action to disperse the motes as a 10-foot-radius cloud centered on you instead of as haze; the activity gains the concentrate trait. All creatures within the cloud become [[DATABASE/condition/Concealed|concealed]], and all creatures outside the cloud become concealed to creatures within it.
 
 ## Traits
 

@@ -3,6 +3,7 @@ creature_family: Sinsludge
 id: '352'
 name: Sinsludge
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Rusthenge|Rusthenge]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Sinsludge
 
-**Source** [[Rusthenge]]
+**Source** [[DATABASE/source/Rusthenge|Rusthenge]]
 Thassilon's ruins contain numerous sources of raw magical power that have been lost or forgotten. As many of these sources are steeped in sinful soul energy used by the runelords to enhance their power, some of these sources go “sour,” forming into a sinsludge—a mucky effluvium that develops into a barely rudimentary consciousness based on the emotion behind the sin.
 
 ### Members
 
-[[Primordial Envy]] (Creature 3)
+[[DATABASE/monster/Primordial Envy|Primordial Envy]] (Creature 3)
 
 ###  Other Sinsludges
 

@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/rogueracket/Scoundrel|scoundrel racket]] ; [[DATABASE/
   Strike]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Tactical Debilitations <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Rogue</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Scoundrel]]; [[Rogue]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/rogueracket/Scoundrel|scoundrel racket]]; [[DATABASE/class_/Rogue|Debilitating Strike]]
 
 ---
 You learn new debilitations that grant you tactical advantages against your foes. Add the following debilitations to the list you can choose from when you use Debilitating Strike.

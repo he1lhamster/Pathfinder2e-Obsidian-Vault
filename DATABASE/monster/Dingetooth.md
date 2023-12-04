@@ -75,22 +75,22 @@ wisdom: '+2'
 # Dingetooth
 
 This creature did not include a description.
-**Recall Knowledge - Fey ([[Nature]])**: DC 25
+**Recall Knowledge - Fey ([[DATABASE/skill/Nature|Nature]])**: DC 25
 **Unspecific Lore**: DC 23
 **Specific Lore**: DC 20
 
 # Dingetooth<span class="item-type">Creature 1</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Small</span><span class="item-trait">Fey</span><span class="item-trait">Gremlin</span>
-**Source** [[Kingmaker Adventure Path]]
-[[Mitflit]] gremlins 
-**Perception** +5; [[Darkvision]], [[Scent]] (imprecise) 30 feet
-**Languages** [[Undercommon]]
-**Skills** [[Acrobatics]] +6, [[Diplomacy]] +2 (+8 vs. arthropods), [[Nature]] +6, [[Stealth]] +6, [[Thievery]] +6
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
+[[DATABASE/monster/Mitflit|mitflit]] gremlins 
+**Perception** +5; [[DATABASE/monsterability/Darkvision|darkvision]], [[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet
+**Languages** [[DATABASE/language/Undercommon|Undercommon]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +6, [[DATABASE/skill/Diplomacy|Diplomacy]] +2 (+8 vs. arthropods), [[DATABASE/skill/Nature|Nature]] +6, [[DATABASE/skill/Stealth|Stealth]] +6, [[DATABASE/skill/Thievery|Thievery]] +6
 **Str** +0, **Dex** +3, **Con** +0, **Int** +1, **Wis** +2, **Cha** -1
-**Self-Loathing** (emotion, mental) A mitflit's self-loathing makes it easy to influence. It takes a –4 penalty to its Will DC against checks to [[Coerce]], [[Demoralize]], [[Make an Impression]], and [[Request]].
+**Self-Loathing** (emotion, mental) A mitflit's self-loathing makes it easy to influence. It takes a –4 penalty to its Will DC against checks to [[DATABASE/action/Coerce|Coerce]], [[DATABASE/action/Demoralize|Demoralize]], [[DATABASE/action/Make an Impression|Make an Impression]], and [[DATABASE/action/Request|Request]].
 **Vermin Empathy** Mitflits can use Diplomacy to Make an Impression on and Request things of arthropods (insects, spiders, scorpions, crabs, and similar invertebrate animals). Most arthropods have a starting attitude of indifferent to mitflits.
-**Items** [[Marbles]], [[Shortsword]]
+**Items** [[DATABASE/equipment/Marbles|marbles (6)]], [[DATABASE/weapon/Shortsword|shortsword]]
 
 ---
 **AC** 16; **Fort** +3, **Ref** +8, **Will** +5
@@ -98,8 +98,8 @@ This creature did not include a description.
 
 ---
 **Speed** 20 feet; climb 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> shortsword +9 [+5/+1] (agile, finesse, versatile S), **Damage** 1d6 piercing</span>**Primal Innate Spells** DC 17; **2nd** _[[Speak with Animals]]_ (at will; arthropods only); **1st** _[[Bane]]_; **Cantrips** **(1st)** _[[Prestidigitation]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> shortsword +9 [+5/+1] (agile, finesse, versatile S), **Damage** 1d6 piercing</span>**Primal Innate Spells** DC 17; **2nd** _[[DATABASE/spell/Speak with Animals|speak with animals]]_ (at will; arthropods only); **1st** _[[DATABASE/spell/Bane|bane]]_; **Cantrips** **(1st)** _[[DATABASE/spell/Prestidigitation|prestidigitation]]_
 <span class="in-box-ability">**Launch Marbles** <span class="action-icon">2</span> The mitflit uses the marble launcher to fire six marbles at a creature in area A1. The target must attempt a DC 16 Reflex save.
 **Success** The creature is unaffected.
- **Failure** The creature is distracted by the marbles and is [[Clumsy]] 2 until the end of its next turn.
-**Critical Failure** As failure, but one of the marbles hits the creature somewhere sensitive, causing 1d6 nonlethal bludgeoning damage.</span><span class="in-box-ability">**Vengeful Anger** (emotion, mental) As long as it isn't [[Frightened]], a mitflit gains a +2 status bonus to damage rolls against a creature that has previously damaged or tormented it.</span>
+ **Failure** The creature is distracted by the marbles and is [[DATABASE/condition/Clumsy|clumsy]] 2 until the end of its next turn.
+**Critical Failure** As failure, but one of the marbles hits the creature somewhere sensitive, causing 1d6 nonlethal bludgeoning damage.</span><span class="in-box-ability">**Vengeful Anger** (emotion, mental) As long as it isn't [[DATABASE/condition/Frightened|frightened]], a mitflit gains a +2 status bonus to damage rolls against a creature that has previously damaged or tormented it.</span>

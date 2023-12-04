@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -50,7 +51,7 @@ weapon_type: null
 ---
 # Smuggling<span class="item-type">Item 0+</span>
 
-**Source** [[Firebrands]]
+**Source** [[DATABASE/source/Firebrands|Firebrands]]
 **Bulk** —
 
 ---
@@ -61,30 +62,30 @@ Smuggling involves the discrete transport of people or goods. Examples include m
 
 ## Smuggling (Level 1)<span class="item-type">Item 0</span>
 
-**Source** [[Firebrands]]
+**Source** [[DATABASE/source/Firebrands|Firebrands]]
 **Price** 10 gp
 **Ammunition** per 50 miles
 
 ## Smuggling (Level 2)<span class="item-type">Item 0</span>
 
-**Source** [[Firebrands]]
+**Source** [[DATABASE/source/Firebrands|Firebrands]]
 **Price** 20 gp
 **Ammunition** per 50 miles
 
 ## Smuggling (Level 3)<span class="item-type">Item 0</span>
 
-**Source** [[Firebrands]]
+**Source** [[DATABASE/source/Firebrands|Firebrands]]
 **Price** 50 gp
 **Ammunition** per 50 miles
 
 ## Smuggling (Level 4)<span class="item-type">Item 0</span>
 
-**Source** [[Firebrands]]
+**Source** [[DATABASE/source/Firebrands|Firebrands]]
 **Price** 90 gp
 **Ammunition** per 50 miles
 
 ## Smuggling (Level 5)<span class="item-type">Item 0</span>
 
-**Source** [[Firebrands]]
+**Source** [[DATABASE/source/Firebrands|Firebrands]]
 **Price** 150 gp
 **Ammunition** per 50 miles

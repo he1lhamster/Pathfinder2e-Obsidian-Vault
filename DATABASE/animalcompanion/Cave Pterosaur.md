@@ -13,6 +13,7 @@ land_speed: '10'
 max_speed: '60'
 name: Cave Pterosaur
 rarity: Uncommon
+rus_type_level: null
 sense:
 - darkvision
 size: Small
@@ -35,22 +36,22 @@ wisdom: '+2'
 # Cave Pterosaur
 
 <span class="trait-uncommon item-trait">Uncommon</span>
-**Source** [[Pathfinder 154. Siege of the Dinosaurs]]
+**Source** [[DATABASE/source/Pathfinder 154. Siege of the Dinosaurs|Pathfinder #154: Siege of the Dinosaurs]]
 Your companion is a flying prehistoric creature, such as a dimorphodon or pterodactyl, that has adapted to life in the cavern vaults beneath the ground.
 **Size** Small
 **Melee** <span class="action-icon">1</span> beak (finesse), **Damage** 1d6 piercing
 **Melee** <span class="action-icon">1</span> talon (agile, finesse), **Damage** 1d4 slashing
 **Str** +2, **Dex** +3, **Con** +1, **Int** -4, **Wis** +2, **Cha** +0
 **Hit Points** 4
-**Skill** [[Thievery]] ([[Palm an Object]] or [[Steal]] only)
+**Skill** [[DATABASE/skill/Thievery|Thievery]] ([[DATABASE/action/Palm an Object|Palm an Object]] or [[DATABASE/action/Steal|Steal]] only)
 **Senses** darkvision
 **Speed** 10 feet, fly 60 feet
 **Support Benefit** Your pterosaur expands its wings and makes distracting flapping motions. Any creature that would gain lesser cover from the pterosaur gains standard cover instead.
 **Advanced Maneuver** Pterosaur Swoop
 
-### [[Pterosaur Swoop]] <span class="action-icon">2</span>
+### [[DATABASE/action/Pterosaur Swoop|Pterosaur Swoop]] <span class="action-icon">2</span>
 
-**Source** [[Pathfinder 154. Siege of the Dinosaurs]]
+**Source** [[DATABASE/source/Pathfinder 154. Siege of the Dinosaurs|Pathfinder #154: Siege of the Dinosaurs]]
 
 ---
 The pterosaur Flies up to its Speed and makes one beak Strike at any point during that movement.

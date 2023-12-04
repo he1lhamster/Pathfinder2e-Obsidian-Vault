@@ -11,6 +11,7 @@ name: Acrobatic Performer
 prerequisite: Trained in [[DATABASE/skill/Acrobatics|Acrobatics]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: acrobatics
@@ -24,11 +25,11 @@ type: Feat
 # Acrobatic Performer <span class="item-type">Feat 1</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** trained in [[Acrobatics]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** trained in [[DATABASE/skill/Acrobatics|Acrobatics]]
 
 ---
-You're an incredible acrobat, evoking wonder and enrapturing audiences with your prowess. It's almost a performance! You can roll an [[Acrobatics]] check instead of a [[Performance]] check when using the [[Perform]] action.
+You're an incredible acrobat, evoking wonder and enrapturing audiences with your prowess. It's almost a performance! You can roll an [[DATABASE/skill/Acrobatics|Acrobatics]] check instead of a [[DATABASE/skill/Performance|Performance]] check when using the [[DATABASE/action/Perform|Perform]] action.
 
 ## Traits
 

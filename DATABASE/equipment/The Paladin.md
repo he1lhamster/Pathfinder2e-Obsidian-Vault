@@ -31,6 +31,7 @@ rarity: null
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -50,10 +51,10 @@ weapon_type: null
 ---
 # The Paladin<span class="item-type">Item 20</span>
 
-**Source** [[Stolen Fate Player's Guide]], [[Pathfinder 190. The Choosing]]; **[[The Paladin]]**
+**Source** [[DATABASE/source/Stolen Fate Player's Guide|Stolen Fate Player's Guide]], [[DATABASE/source/Pathfinder 190. The Choosing|Pathfinder #190: The Choosing]]; **[[DATABASE/equipment/The Paladin|There is a more recent version of this item. Click here to view.]]**
 **Usage** carried; **Bulk** —
 **Suit** Hammers (Str); **Alignment** lawful good
 
 ---
-_The Paladin_ represents righteousness and resolute defense. As long as you have _The Paladin_ invested, you gain the [[Shield Block]] general feat. If you already possess this feat, you gain an additional reaction at the start of your turn that can only be used to Shield Block.
+_The Paladin_ represents righteousness and resolute defense. As long as you have _The Paladin_ invested, you gain the [[DATABASE/feat/Shield Block|Shield Block]] general feat. If you already possess this feat, you gain an additional reaction at the start of your turn that can only be used to Shield Block.
 **Activate** <span class="action-icon">5</span> envision **Frequency** once per day; **Trigger** You fail or critically fail a saving throw; **Effect** Adjust the result of your saving throw up by one degree of success.

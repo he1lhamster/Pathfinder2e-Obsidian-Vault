@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/psychicsubconsciousmind/Emotional Acceptance|emotional
   subconscious mind'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -27,8 +28,8 @@ type: Feat
 # Emotional Surge <span class="action-icon">1</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Emotion</span><span class="item-trait">Psyche</span><span class="item-trait">Psychic</span>
-**Source** [[Dark Archive]]
-**Prerequisites** [[Emotional Acceptance]] subconscious mind
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Prerequisites** [[DATABASE/psychicsubconsciousmind/Emotional Acceptance|emotional acceptance]] subconscious mind
 
 ---
 Your heart soars, increasing your power for a moment. You gain a +2 status bonus to attack rolls and skill checks until the start of your next turn.

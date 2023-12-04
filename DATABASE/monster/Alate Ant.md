@@ -77,17 +77,17 @@ wisdom: '+6'
 # Alate Ant
 
 Alate ants are no less devoted and powerful than red guard ants, but they are slightly smaller in size and have delicate wings that bear them aloft. Alate ants secrete pheromones that addle the minds of the hive's enemies. A hive deploys alate ants as both defenders from aerial threats and as advance scouts.
-**Recall Knowledge - Beast ([[Arcana]], [[Nature]])**: DC 40
+**Recall Knowledge - Beast ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 40
 **Unspecific Lore**: DC 38
 **Specific Lore**: DC 35
 
 # Alate Ant<span class="item-type">Creature 16</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Beast</span>
-**Source** [[Pathfinder 174. Shadows of the Ancients]]
-**Perception** +28; [[Darkvision]], [[Scent]] (imprecise) 60 feet
-**Languages** [[Common]]
-**Skills** [[Acrobatics]] +32, [[Intimidation]] +28, [[Survival]] +28
+**Source** [[DATABASE/source/Pathfinder 174. Shadows of the Ancients|Pathfinder #174: Shadows of the Ancients]]
+**Perception** +28; [[DATABASE/monsterability/Darkvision|darkvision]], [[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +32, [[DATABASE/skill/Intimidation|Intimidation]] +28, [[DATABASE/skill/Survival|Survival]] +28
 **Str** +4, **Dex** +8, **Con** +6, **Int** -1, **Wis** +6, **Cha** +4
 
 ---
@@ -97,4 +97,4 @@ Alate ants are no less devoted and powerful than red guard ants, but they are sl
 
 ---
 **Speed** 40 feet, climb 20 feet, fly 40 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> mandibles +32 [+27/+22] (finesse), **Damage** 3d8+10 slashing plus [[Grab]]</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> stinger +32 [+28/+24] (agile, finesse), **Damage** 3d4+10 piercing plus red ant venom</span><span class="in-box-ability">**Frenzy** <span class="action-icon">1</span> **Frequency** Once per day; **Effect** The alate ant enters a state of jittery agitation. It becomes [[Quickened]] for 3 rounds and can use the extra action only to [[Fly]] or Strike.</span><span class="in-box-ability">**Pheromone Spray** <span class="action-icon">2</span> (emotion, enchantment, mental) The alate ant sprays a cloud of pheromones in a 15-foot cone. Non-ant creatures in the cone must succeed at a DC 37 Will save or become [[Confused]] for 1d4 rounds (1 minute on a critical failure). It can't use Pheromone Spray again for 1d4 rounds.</span><span class="in-box-ability">**Pack Attack** The alate ant deals an additional 3d6 precision damage to any creature within reach of at least two of the ant's allies.</span><span class="in-box-ability">**Red Ant Venom** (poison) While a creature is enfeebled from this poison, it is [[Confused]] (this confusion is an emotion, enchantment, and mental effect). **Saving Throw** DC 37 Fortitude; **Maximum Duration** 4 rounds; **Stage 1** 3d6 poison and enfeebled 1 (1 round); **Stage 2** 4d6 poison and enfeebled 2 (1 round); **Stage 3** 6d6 poison and enfeebled 3 (1 round)</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> mandibles +32 [+27/+22] (finesse), **Damage** 3d8+10 slashing plus [[DATABASE/monsterability/Grab|Grab]]</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> stinger +32 [+28/+24] (agile, finesse), **Damage** 3d4+10 piercing plus red ant venom</span><span class="in-box-ability">**Frenzy** <span class="action-icon">1</span> **Frequency** Once per day; **Effect** The alate ant enters a state of jittery agitation. It becomes [[DATABASE/condition/Quickened|quickened]] for 3 rounds and can use the extra action only to [[DATABASE/action/Fly|Fly]] or Strike.</span><span class="in-box-ability">**Pheromone Spray** <span class="action-icon">2</span> (emotion, enchantment, mental) The alate ant sprays a cloud of pheromones in a 15-foot cone. Non-ant creatures in the cone must succeed at a DC 37 Will save or become [[DATABASE/condition/Confused|confused]] for 1d4 rounds (1 minute on a critical failure). It can't use Pheromone Spray again for 1d4 rounds.</span><span class="in-box-ability">**Pack Attack** The alate ant deals an additional 3d6 precision damage to any creature within reach of at least two of the ant's allies.</span><span class="in-box-ability">**Red Ant Venom** (poison) While a creature is enfeebled from this poison, it is [[DATABASE/condition/Confused|confused]] (this confusion is an emotion, enchantment, and mental effect). **Saving Throw** DC 37 Fortitude; **Maximum Duration** 4 rounds; **Stage 1** 3d6 poison and enfeebled 1 (1 round); **Stage 2** 4d6 poison and enfeebled 2 (1 round); **Stage 3** 6d6 poison and enfeebled 3 (1 round)</span>

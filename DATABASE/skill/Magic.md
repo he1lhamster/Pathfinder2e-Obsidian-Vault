@@ -4,6 +4,7 @@ ability_boost: null
 id: '27'
 name: Magic
 rarity: Common
+rus_type_level: null
 skill:
 - Magic
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
@@ -13,12 +14,12 @@ type: Skill
 ---
 # Magic (Culture)
 
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 Magic measures the kingdom’s affinity for the mystic arts, whether arcane, divine, occult, or primal. It may reflect the breadth of natural magical talent among the people or it may represent the study of ancient secrets and magical theory.
 
-* **[[Establish Trade Agreement]]**
-* **[[Focused Attention]]**
-* **[[Quell Unrest]]**
+* **[[DATABASE/generalskillaction/Establish Trade Agreement|Establish Trade Agreement]]**
+* **[[DATABASE/generalskillaction/Focused Attention|Focused Attention]]**
+* **[[DATABASE/generalskillaction/Quell Unrest|Quell Unrest]]**
 
 ### Related Feats
 
@@ -26,10 +27,10 @@ To see a list of Feats related to Magic, click here.
 
 # Magic Untrained Actions
 
-## [[Supernatural Solution]]
+## [[DATABASE/action/Supernatural Solution|Supernatural Solution]]
 
 <span class="item-trait">Downtime</span><span class="item-trait">Fortune</span><span class="item-trait">Leadership</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 
 ---
 Your spellcasters try to resolve issues when mundane solutions just aren't enough. Attempt a basic check.
@@ -40,10 +41,10 @@ Your spellcasters try to resolve issues when mundane solutions just aren't enoug
 
 # Magic Trained Actions
 
-## [[Prognostication]]
+## [[DATABASE/action/Prognostication|Prognostication]]
 
 <span class="item-trait">Downtime</span><span class="item-trait">Leadership</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 
 ---
 Your kingdom's spellcasters read the omens and provide advice on how best to prepare for near-future events. Attempt a basic check.

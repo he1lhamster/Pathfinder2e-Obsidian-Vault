@@ -11,6 +11,7 @@ name: One for All
 prerequisite: Trained in [[DATABASE/skill/Diplomacy|Diplomacy]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -28,17 +29,17 @@ type: Feat
 # One for All <span class="action-icon">1</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Auditory</span><span class="item-trait">Concentrate</span><span class="item-trait">Emotion</span><span class="item-trait">Linguistic</span><span class="item-trait">Mental</span><span class="item-trait">Swashbuckler</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** trained in [[Diplomacy]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** trained in [[DATABASE/skill/Diplomacy|Diplomacy]]
 
 ---
-With precisely the right words of encouragement, you bolster an ally's efforts. Designate an ally within 30 feet; this action counts as sufficient preparation to [[Aid]] that ally. When you use the Aid reaction to help that ally, you can roll [[Diplomacy]] in place of the usual check. If your swashbuckler's style is [[Wit]] and your Diplomacy check to Aid meets or exceeds the very hard DC for your level, you gain panache.
+With precisely the right words of encouragement, you bolster an ally's efforts. Designate an ally within 30 feet; this action counts as sufficient preparation to [[DATABASE/action/Aid|Aid]] that ally. When you use the Aid reaction to help that ally, you can roll [[DATABASE/skill/Diplomacy|Diplomacy]] in place of the usual check. If your swashbuckler's style is [[DATABASE/swashbucklerstyle/Wit|wit]] and your Diplomacy check to Aid meets or exceeds the very hard DC for your level, you gain panache.
 
 ## Traits
 
 **Auditory:**
 
-Auditory actions and effects rely on sound. An action with the auditory trait can be successfully performed only if the creature using the action can speak or otherwise produce the required sounds. A spell or effect with the auditory trait has its effect only if the target can hear it. This applies only to sound-based parts of the effect, as determined by the GM. This is different from a sonic effect, which still affects targets who can't hear it (such as [[Deafened]] targets) as long as the effect itself makes sound.
+Auditory actions and effects rely on sound. An action with the auditory trait can be successfully performed only if the creature using the action can speak or otherwise produce the required sounds. A spell or effect with the auditory trait has its effect only if the target can hear it. This applies only to sound-based parts of the effect, as determined by the GM. This is different from a sonic effect, which still affects targets who can't hear it (such as [[DATABASE/condition/Deafened|deaf]] targets) as long as the effect itself makes sound.
 
 **Concentrate:**
 

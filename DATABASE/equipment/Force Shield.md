@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -55,11 +56,11 @@ weapon_type: null
 # Force Shield<span class="item-type">Item 9</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Evocation</span><span class="item-trait">Force</span><span class="item-trait">Magical</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 650 gp
 **Usage** held in 1 hand; **Bulk** L
-**Base Shield** [[Steel Shield]]
+**Base Shield** [[DATABASE/shield/Steel Shield|Steel Shield]]
 
 ---
-The edges of this elaborately engraved [[Steel Shield]] (Hardness 8, HP 32, BT 16) bear tiny glass tiles set in mosaic patterns. 
+The edges of this elaborately engraved [[DATABASE/shield/Steel Shield|steel shield]] (Hardness 8, HP 32, BT 16) bear tiny glass tiles set in mosaic patterns. 
 **Activate** <span class="action-icon">1</span> command **Frequency** once per day; **Effect** The shield surrounds you with a bubble of force that protects you from harm, granting you resistance 5 to physical damage for 1 minute. The activation ends if you cease holding the shield.

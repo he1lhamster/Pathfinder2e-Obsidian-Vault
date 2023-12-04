@@ -11,6 +11,7 @@ name: Metal Carapace
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -26,11 +27,11 @@ type: Feat
 # Metal Carapace <span class="action-icon">1</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Metal</span><span class="item-trait">Primal</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
-Sheets of bent and rusted metal cover you in an armored shell. The carapace is medium armor but uses your highest armor proficiency. The carapace's statistics are: _AC Bonus_ +3; _Dex Cap_ +2; _Check Penalty_ –2; _Speed Penalty_ –5 feet; _Strength_ 14; _Bulk_ 2; _Group_ [[Plate]]; _Armor Traits_ noisy. Any bonuses, runes, and magical abilities of your actual armor are suppressed, but any that could apply to the metal carapace are replicated onto it.
- When you use this impulse, you can also create a rusty steel shield in a free hand, which uses the statistics of a regular steel shield. You can [[Shield Block]] with this shield even if you don't have that feat. The hand wielding this shield counts as a free hand for using impulses. The shield crumbles to flakes of rust if it becomes [[Broken]] or leaves your grasp.
+Sheets of bent and rusted metal cover you in an armored shell. The carapace is medium armor but uses your highest armor proficiency. The carapace's statistics are: _AC Bonus_ +3; _Dex Cap_ +2; _Check Penalty_ –2; _Speed Penalty_ –5 feet; _Strength_ 14; _Bulk_ 2; _Group_ [[DATABASE/armorgroup/Plate|plate]]; _Armor Traits_ noisy. Any bonuses, runes, and magical abilities of your actual armor are suppressed, but any that could apply to the metal carapace are replicated onto it.
+ When you use this impulse, you can also create a rusty steel shield in a free hand, which uses the statistics of a regular steel shield. You can [[DATABASE/feat/Shield Block|Shield Block]] with this shield even if you don't have that feat. The hand wielding this shield counts as a free hand for using impulses. The shield crumbles to flakes of rust if it becomes [[DATABASE/condition/Broken|broken]] or leaves your grasp.
  The impulse lasts for 10 minutes, and you can Dismiss this impulse. If you use this impulse again, any existing one ends. The metal is rusted and fragile. If you take damage from a critical hit, the metal shatters and the impulse ends.
 
 ---

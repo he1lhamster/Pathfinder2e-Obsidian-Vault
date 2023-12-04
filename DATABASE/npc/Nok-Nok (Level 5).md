@@ -80,20 +80,20 @@ wisdom: '-1'
 # Nok-Nok (Level 5)
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 30
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 30
 **Unspecific Lore**: DC 28
 **Specific Lore**: DC 25
 
 # Nok-Nok (Level 5)<span class="item-type">Creature 5</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Small</span><span class="item-trait">Goblin</span><span class="item-trait">Humanoid</span>
-**Source** [[Kingmaker Companion Guide]]
-Male irongut goblin rogue ([[Criminal]] background)
-**Perception** +18; (expert) [[Darkvision]]
-**Languages** [[Common]], [[Goblin]]
-**Skills** [[Acrobatics]] +12 (trained), [[Athletics]] +9 (trained), [[Crafting]] +9 (expert), [[Deception]] +13 (expert), [[Diplomacy]] +10 (trained), [[Intimidation]] +10 (trained), [[Religion]] +6 (trained), [[Society]] +7 (trained), [[Stealth]] +13 (expert), [[Survival]] +6 (trained), [[Thievery]] +13 (expert), [[Lore]] +7 (trained)
+**Source** [[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]
+Male irongut goblin rogue ([[DATABASE/background/Criminal|Criminal]] background)
+**Perception** +18; (expert) [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Goblin|Goblin]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +12 (trained), [[DATABASE/skill/Athletics|Athletics]] +9 (trained), [[DATABASE/skill/Crafting|Crafting]] +9 (expert), [[DATABASE/skill/Deception|Deception]] +13 (expert), [[DATABASE/skill/Diplomacy|Diplomacy]] +10 (trained), [[DATABASE/skill/Intimidation|Intimidation]] +10 (trained), [[DATABASE/skill/Religion|Religion]] +6 (trained), [[DATABASE/skill/Society|Society]] +7 (trained), [[DATABASE/skill/Stealth|Stealth]] +13 (expert), [[DATABASE/skill/Survival|Survival]] +6 (trained), [[DATABASE/skill/Thievery|Thievery]] +13 (expert), [[DATABASE/skill/Lore|Underworld Lore]] +7 (trained)
 **Str** +2, **Dex** +4, **Con** +4, **Int** +0, **Wis** -1, **Cha** +3
-**Items** _+1 [[Kukri]]_, _[[Striking]] [[Kukri]]_, [[Black Adder Venom]], [[Bracelet of Dashing]], [[Composite Shortbow]], [[Cookware]], [[Flint and Steel]], [[Leather Armor]], [[Rations]], [[Religious Symbol]], [[Thieves' Tools]], [[Torch]], [[Ventriloquist's Ring]], [[Waterskin]]
+**Items** _+1 [[DATABASE/weapon/Kukri|kukri]]_, _[[DATABASE/equipment/Striking|+1 striking]] [[DATABASE/weapon/Kukri|kukri]]_, [[DATABASE/equipment/Black Adder Venom|black adder venom (2 doses)]], [[DATABASE/equipment/Bracelet of Dashing|bracelet of dashing]], [[DATABASE/weapon/Composite Shortbow|composite shortbow (20 arrows)]], [[DATABASE/equipment/Cookware|cookware]], [[DATABASE/equipment/Flint and Steel|flint and steel]], [[DATABASE/armor/Leather Armor|leather armor]], [[DATABASE/equipment/Rations|rations (1 week)]], [[DATABASE/equipment/Religious Symbol|silver religious symbol]], [[DATABASE/equipment/Thieves' Tools|thieves' tools]], [[DATABASE/equipment/Torch|torches (6)]], [[DATABASE/equipment/Ventriloquist's Ring|ventriloquist's ring]], [[DATABASE/equipment/Waterskin|waterskin]]
 
 ---
 **AC** 22; **Fort** +11, **Ref** +13, **Will** +8
@@ -101,4 +101,4 @@ Male irongut goblin rogue ([[Criminal]] background)
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _striking kukri_ +12 [+8/+4] (agile, finesse, trip), **Damage** 2d6+2 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> _kukri_ +12 [+8/+4] (agile, finesse, trip), **Damage** 1d6+2 slashing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> composite shortbow +13 [+8/+3] (deadly d10, propulsive, range 60 feet), **Damage** 1d6+2 piercing</span><span class="in-box-ability">**Ancestry Feats** [[Goblin Scuttle]], [[Very Sneaky]]</span><span class="in-box-ability">**Class Feats** [[Mobility]], [[Reactive Pursuit]], [[Twin Feint]]</span><span class="in-box-ability">**Class Abilities** Deny Advantage, Rogue's Racket ([[Scoundrel]]),Sneak Attack 2d6, Surprise Attack, Weapon Tricks</span><span class="in-box-ability">**[[Goblin Scuttle]]** <span class="action-icon">5</span> </span><span class="in-box-ability">**General Feats** [[Weapon Proficiency]]</span><span class="in-box-ability">**[[Reactive Pursuit]]** <span class="action-icon">5</span> </span><span class="in-box-ability">**Skill Feats** [[Cat Fall]], [[Experienced Smuggler]], [[Pickpocket]], [[Snare Crafting]], [[Student of the Canon]], [[Wary Disarmament]]</span><span class="in-box-ability">**Twin Feint** <span class="action-icon">2</span> </span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _striking kukri_ +12 [+8/+4] (agile, finesse, trip), **Damage** 2d6+2 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> _kukri_ +12 [+8/+4] (agile, finesse, trip), **Damage** 1d6+2 slashing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> composite shortbow +13 [+8/+3] (deadly d10, propulsive, range 60 feet), **Damage** 1d6+2 piercing</span><span class="in-box-ability">**Ancestry Feats** [[DATABASE/feat/Goblin Scuttle|Goblin Scuttle]], [[DATABASE/feat/Very Sneaky|Very Sneaky]]</span><span class="in-box-ability">**Class Feats** [[DATABASE/feat/Mobility|Mobility]], [[DATABASE/feat/Reactive Pursuit|Reactive Pursuit]], [[DATABASE/feat/Twin Feint|Twin Feint]]</span><span class="in-box-ability">**Class Abilities** Deny Advantage, Rogue's Racket ([[DATABASE/rogueracket/Scoundrel|scoundrel]]),Sneak Attack 2d6, Surprise Attack, Weapon Tricks</span><span class="in-box-ability">**[[DATABASE/feat/Goblin Scuttle|Goblin Scuttle]]** <span class="action-icon">5</span> </span><span class="in-box-ability">**General Feats** [[DATABASE/feat/Weapon Proficiency| Weapon Proficiency]]</span><span class="in-box-ability">**[[DATABASE/feat/Reactive Pursuit|Reactive Pursuit]]** <span class="action-icon">5</span> </span><span class="in-box-ability">**Skill Feats** [[DATABASE/feat/Cat Fall|Cat Fall]], [[DATABASE/feat/Experienced Smuggler|Experienced Smuggler]], [[DATABASE/feat/Pickpocket|Pickpocket]], [[DATABASE/feat/Snare Crafting|Snare Crafting]], [[DATABASE/feat/Student of the Canon|Student of the Canon]], [[DATABASE/feat/Wary Disarmament|Wary Disarmament]]</span><span class="in-box-ability">**Twin Feint** <span class="action-icon">2</span> </span>

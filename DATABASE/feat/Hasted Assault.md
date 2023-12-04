@@ -11,6 +11,7 @@ name: Hasted Assault
 prerequisite: focus pool
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Hasted Assault <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Magus</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Prerequisites** focus pool
 
 ---
-You can speed yourself up to move and attack more swiftly. You learn the [[Hasted Assault]] conflux spell. Increase the number of Focus Points in your focus pool by 1.
+You can speed yourself up to move and attack more swiftly. You learn the [[DATABASE/spell/Hasted Assault|hasted assault]] conflux spell. Increase the number of Focus Points in your focus pool by 1.

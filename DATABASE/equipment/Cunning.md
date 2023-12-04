@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 size: null
@@ -54,10 +55,10 @@ weapon_type: null
 # Cunning<span class="item-type">Item 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Divination</span><span class="item-trait">Magical</span>
-**Source** [[PFS Guide]]
+**Source** [[DATABASE/source/PFS Guide|PFS Guide]]
 **Price** 140 gp
 **Usage** etched on a slashing or piercing weapon; **Bulk** —
 
 ---
 The weapon performs divination magic on the blood of your foes, granting you insight into their abilities and weaknesses.
-**Activate** <span class="action-icon">4</span> envision **Frequency** once per minute; **Requirements** On your previous action this turn, you used this weapon to hit and damage a creature that has blood or other vital fluids; **Effect** You learn the secrets the weapon gleaned from the creature's blood. Attempt to [[Recall Knowledge]] about the target of the required attack, gaining an item bonus to the Recall Knowledge skill check equal to the weapon's item bonus to attack rolls from its potency rune. If the required attack was a critical hit, you also gain a +2 circumstance bonus to this check.
+**Activate** <span class="action-icon">4</span> envision **Frequency** once per minute; **Requirements** On your previous action this turn, you used this weapon to hit and damage a creature that has blood or other vital fluids; **Effect** You learn the secrets the weapon gleaned from the creature's blood. Attempt to [[DATABASE/action/Recall Knowledge|Recall Knowledge]] about the target of the required attack, gaining an item bonus to the Recall Knowledge skill check equal to the weapon's item bonus to attack rolls from its potency rune. If the required attack was a critical hit, you also gain a +2 circumstance bonus to this check.

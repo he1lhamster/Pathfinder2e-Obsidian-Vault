@@ -11,6 +11,7 @@ name: Skitter
 prerequisite: Dexterity 16; [[DATABASE/feat/Fleet|Fleet]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,11 +24,11 @@ type: Feat
 # Skitter <span class="item-type">Feat 3</span>
 
 <span class="item-trait">General</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** Dexterity 16; [[Fleet]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** Dexterity 16; [[DATABASE/feat/Fleet|Fleet]]
 
 ---
-You can scoot swiftly across the ground. You can [[Crawl]] up to half your Speed.
+You can scoot swiftly across the ground. You can [[DATABASE/action/Crawl|Crawl]] up to half your Speed.
 
 ## Traits
 

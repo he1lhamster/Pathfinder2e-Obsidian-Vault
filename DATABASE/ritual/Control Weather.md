@@ -12,6 +12,7 @@ primary_check: '[[DATABASE/skill/Nature|Nature]] (master)'
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: Evocation
 secondary_casters: '1'
 secondary_check: '[[DATABASE/skill/Survival|Survival]]'
@@ -26,9 +27,9 @@ type: Ritual
 # Control Weather<span class="item-type">Ritual 8</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Evocation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Cast** 1 day; **Secondary Casters** 1
-**Primary Check** [[Nature]] (master); **Secondary Checks** [[Survival]]
+**Primary Check** [[DATABASE/skill/Nature|Nature]] (master); **Secondary Checks** [[DATABASE/skill/Survival|Survival]]
 **Area** 2-mile-radius circle centered on you
 **Duration** 4d12 hours
 

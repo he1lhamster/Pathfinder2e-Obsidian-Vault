@@ -11,6 +11,7 @@ name: Charlatan
 prerequisite: Trained in [[DATABASE/skill/Deception|Deception]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
 subcategory: deception
@@ -24,11 +25,11 @@ type: Feat
 # Charlatan <span class="item-type">Feat 1</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Gods & Magic]] 
-**Prerequisites** trained in [[Deception]]
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
+**Prerequisites** trained in [[DATABASE/skill/Deception|Deception]]
 
 ---
-You’ve learned to mimic the abilities of spellcasters by studying their flourishes and words. When you activate a magic item to generate a spell effect, attempt a Deception check. If you succeed against an onlooker’s Perception DC, to that onlooker, you appear to [[Cast a Spell]] instead. Onlookers who successfully [[Recognize Spell]] realize you used a magic item, though those who later successfully [[Identify Magic]] still can’t determine that the source of the effect was a magic item.
+You’ve learned to mimic the abilities of spellcasters by studying their flourishes and words. When you activate a magic item to generate a spell effect, attempt a Deception check. If you succeed against an onlooker’s Perception DC, to that onlooker, you appear to [[DATABASE/action/Cast a Spell|Cast that Spell]] instead. Onlookers who successfully [[DATABASE/feat/Recognize Spell|Recognize the Spell]] realize you used a magic item, though those who later successfully [[DATABASE/action/Identify Magic|Identify the Magic]] still can’t determine that the source of the effect was a magic item.
 
 ## Traits
 

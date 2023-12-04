@@ -11,6 +11,7 @@ name: Walk Through the Conflagration
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -28,10 +29,10 @@ type: Feat
 # Walk Through the Conflagration <span class="action-icon">2</span> <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Fire</span><span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Overflow</span><span class="item-trait">Primal</span><span class="item-trait">Teleportation</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
-You fall through your own kinetic gate, leaving behind an effigy of flame and reappearing majestically near another fire. You instantly transport yourself, and any items you're wearing and holding, from your current space to a clear space within 120 feet you can observe that's adjacent to an open flame or a creature taking [[Persistent Damage]]. If this would bring another creature with you—even if you're carrying it in an extradimensional container—the action fails.
+You fall through your own kinetic gate, leaving behind an effigy of flame and reappearing majestically near another fire. You instantly transport yourself, and any items you're wearing and holding, from your current space to a clear space within 120 feet you can observe that's adjacent to an open flame or a creature taking [[DATABASE/condition/Persistent Damage|persistent fire damage]]. If this would bring another creature with you—even if you're carrying it in an extradimensional container—the action fails.
  A whorl of fire surrounds you in a 5-foot emanation either before you depart or after you arrive. Each creature in the area takes 4d6 fire damage with a basic Reflex save against your class DC.
 
 ---
@@ -49,7 +50,7 @@ The primary magical actions kineticists use are called impulses. You can use an 
 
 **Overflow:**
 
-Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
+Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[DATABASE/action/Channel Elements|Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
 
 **Primal:**
 

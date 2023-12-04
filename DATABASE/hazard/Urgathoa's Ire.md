@@ -17,6 +17,7 @@ name: Urgathoa's Ire
 rarity: Uncommon
 reflex: '+30'
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 186. Ghost King''s Rage|Pathfinder #186: Ghost
   King''s Rage]]'
@@ -33,16 +34,16 @@ will: null
 # Urgathoa's Ire<span class="item-type">Hazard 20</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Complex</span><span class="item-trait">Magical</span><span class="item-trait">Trap</span>
-**Source** [[Pathfinder 186. Ghost King's Rage]]
+**Source** [[DATABASE/source/Pathfinder 186. Ghost King's Rage|Pathfinder #186: Ghost King's Rage]]
 **Complexity** Complex
 **Stealth** +38 (legendary)
 **Description** A statue of Urgathoa fires eye beams at intruders.
 
 ---
-**Disable** DC 48 [[Religion]] (legendary) to disenchant each eye through prayer or DC 48 [[Thievery]] (legendary) to disable each eye
+**Disable** DC 48 [[DATABASE/skill/Religion|Religion]] (legendary) to disenchant each eye through prayer or DC 48 [[DATABASE/skill/Thievery|Thievery]] (legendary) to disable each eye
 **AC** 48, **Fort** +36, **Ref** +30
 **Eye Hardness** 35, **HP** 135 (BT 67); **Immunities** critical hits, object immunities, precision damage
-**Glare** <span class="action-icon">5</span> (divine, [[Cat]], fire) **Trigger** A creature other than Kemnebi enters the chamber; **Effect** The trap shoots a concentrated beam of fire at the triggering creature. The trap makes an eye beam Strike. If one of Urgathoa's eyes has been disabled, this Strike deals half damage. The trap then rolls initiative.
+**Glare** <span class="action-icon">5</span> (divine, [[DATABASE/equipment/Cat|evocation]], fire) **Trigger** A creature other than Kemnebi enters the chamber; **Effect** The trap shoots a concentrated beam of fire at the triggering creature. The trap makes an eye beam Strike. If one of Urgathoa's eyes has been disabled, this Strike deals half damage. The trap then rolls initiative.
 
 ---
 **Routine** (1 action) The trap shoots a concentrated beam of fire at a random intruder. The trap makes an eye beam Strike. If one of Urgathoa's eyes has been disabled, this Strike deals half damage.

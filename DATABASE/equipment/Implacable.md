@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -54,9 +55,9 @@ weapon_type: null
 # Implacable<span class="item-type">Item 11</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Magical</span><span class="item-trait">Transmutation</span>
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 1,200 gp
 **Usage** etched onto medium or heavy armor; **Bulk** —
 
 ---
-This substantial rune makes you difficult to hold back. Whenever you are affected by an effect that lasts until you [[Escape]] (for instance, from the [[Grapple]] action or a [[Tanglefoot Bag]]), you become [[Quickened]]. You can use the extra action each round only to Step or Escape.
+This substantial rune makes you difficult to hold back. Whenever you are affected by an effect that lasts until you [[DATABASE/action/Escape|Escape]] (for instance, from the [[DATABASE/action/Grapple|Grapple]] action or a [[DATABASE/equipment/Tanglefoot Bag|tanglefoot bag]]), you become [[DATABASE/condition/Quickened|quickened]]. You can use the extra action each round only to Step or Escape.

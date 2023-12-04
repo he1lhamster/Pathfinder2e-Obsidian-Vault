@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Illusion
 size: null
@@ -53,10 +54,10 @@ weapon_type: null
 # Glamered<span class="item-type">Item 5</span>
 
 <span class="item-trait">Illusion</span><span class="item-trait">Magical</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 140 gp
 **Usage** etched onto armor; **Bulk** —
 
 ---
 This armor can be disguised with a mere thought.
-**Activate** <span class="action-icon">1</span> envision ; **Effect** You change the shape and appearance of this armor to appear as ordinary or fine clothes of your imagining. The armor’s statistics do not change. Only a creature that is benefiting from [[True Seeing]] or a similar effect can attempt to disbelieve this illusion, with a DC of 25.
+**Activate** <span class="action-icon">1</span> envision ; **Effect** You change the shape and appearance of this armor to appear as ordinary or fine clothes of your imagining. The armor’s statistics do not change. Only a creature that is benefiting from [[DATABASE/spell/True Seeing|true seeing]] or a similar effect can attempt to disbelieve this illusion, with a DC of 25.

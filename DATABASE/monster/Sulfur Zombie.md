@@ -77,24 +77,24 @@ wisdom: '+2'
 # Sulfur Zombie
 
 Glowing with a dull amber light, these odious creatures spawn from a combination of necromancy and fire. These destructive creations sow chaos and demolish fortifications, making them the bane of besieged cities.
-**Recall Knowledge - Undead ([[Religion]])**: DC 22
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 22
 **Unspecific Lore**: DC 20
 **Specific Lore**: DC 17
 
 # Sulfur Zombie<span class="item-type">Creature 6</span>
 
 <span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Fire</span><span class="item-trait">Mindless</span><span class="item-trait">Undead</span><span class="item-trait">Zombie</span>
-**Source** [[Bestiary 3]]
-**Perception** +12; [[Darkvision]]
-**Skills** [[Athletics]] +15, [[Stealth]] +12
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
+**Perception** +12; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +15, [[DATABASE/skill/Stealth|Stealth]] +12
 **Str** +5, **Dex** +2, **Con** +4, **Int** -5, **Wis** +2, **Cha** -2
-**Slow** A sulfur zombie is permanently [[Slowed]] and can't use reactions
+**Slow** A sulfur zombie is permanently [[DATABASE/condition/Slowed|slowed 1]] and can't use reactions
 
 ---
 **AC** 23; **Fort** +16, **Ref** +12, **Will** +10
-**HP** 125 ([[Negative Healing]]); **Immunities** death effects, disease, fire, mental, [[Paralyzed]], poison, [[Unconscious]]; **Weaknesses** positive 5, slashing 5
+**HP** 125 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects, disease, fire, mental, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Unconscious|unconscious]]; **Weaknesses** positive 5, slashing 5
 <span class="in-box-ability">**Death Throes** When a sulfur zombie dies, its body explodes in a 30-foot burst of fire and debris that deals 2d10 bludgeoning and 2d10 fire damage to each creature in the area (DC 21 basic Reflex save).</span>
 
 ---
 **Speed** 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +17 [+12/+7], **Damage** 2d6+5 bludgeoning plus 1d6 [[Persistent Damage]] and blinding sulfur</span><span class="in-box-ability">**Blinding Sulfur** (incapacitation) A sulfur zombie burns with putrid inner fire. A creature hit by a sulfur zombie's fist Strike must attempt a DC 22 Fortitude save. On a failure, the creature is [[Blinded]] for 1 round, or for 1 minute on a critical failure.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +17 [+12/+7], **Damage** 2d6+5 bludgeoning plus 1d6 [[DATABASE/condition/Persistent Damage|persistent fire]] and blinding sulfur</span><span class="in-box-ability">**Blinding Sulfur** (incapacitation) A sulfur zombie burns with putrid inner fire. A creature hit by a sulfur zombie's fist Strike must attempt a DC 22 Fortitude save. On a failure, the creature is [[DATABASE/condition/Blinded|blinded]] for 1 round, or for 1 minute on a critical failure.</span>

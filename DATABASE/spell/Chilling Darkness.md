@@ -21,6 +21,7 @@ patron_theme: null
 range: 120 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -40,10 +41,10 @@ type: Spell
 # Chilling Darkness<span class="item-type">Spell 3</span>
 
 <span class="item-trait">Attack</span><span class="item-trait">Cold</span><span class="item-trait">Darkness</span><span class="item-trait">Evil</span><span class="item-trait">Evocation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** divine
-**Bloodline** [[Shadow]]
-**Lesson** [[Lesson of Shadow]]
+**Bloodline** [[DATABASE/sorcererbloodline/Shadow|shadow]]
+**Lesson** [[DATABASE/witchlesson/Lesson of Shadow|lesson of shadow]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 120 feet; **Targets** 1 creature
 

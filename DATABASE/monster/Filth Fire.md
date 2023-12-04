@@ -74,30 +74,30 @@ wisdom: '+3'
 # Filth Fire
 
 These creatures look like roiling clouds of black smoke churning above a mound of burning refuse. Leering faces form and fade in the smoke above, while the burning trash writhes in spasmodic lurches, obviously alive.
-**Recall Knowledge - Elemental ([[Arcana]], [[Nature]])**: DC 19
+**Recall Knowledge - Elemental ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 19
 **Unspecific Lore**: DC 17
 **Specific Lore**: DC 14
 
 # Filth Fire<span class="item-type">Creature 4</span>
 
 <span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Elemental</span><span class="item-trait">Fire</span>
-**Source** [[Bestiary 2]] 
-**Perception** +11; [[Darkvision]], smoke vision
-**Languages** [[Ignan]]; can't speak any language
-**Skills** [[Acrobatics]] +13, [[Athletics]] +9
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +11; [[DATABASE/monsterability/Darkvision|darkvision]], smoke vision
+**Languages** [[DATABASE/language/Ignan|Ignan]]; can't speak any language
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +13, [[DATABASE/skill/Athletics|Athletics]] +9
 **Str** +1, **Dex** +5, **Con** +4, **Int** -2, **Wis** +3, **Cha** +0
-**Smoke Vision** The filth fire ignores the [[Concealed]] condition from smoke.
+**Smoke Vision** The filth fire ignores the [[DATABASE/condition/Concealed|concealed]] condition from smoke.
 
 ---
 **AC** 21; **Fort** +12, **Ref** +13, **Will** +9
-**HP** 70; **Immunities** bleed, fire, [[Paralyzed]], poison, sleep; **Weaknesses** cold 5
+**HP** 70; **Immunities** bleed, fire, [[DATABASE/condition/Paralyzed|paralyzed]], poison, sleep; **Weaknesses** cold 5
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> burning lash +13 [+8/+3] (finesse), **Damage** 2d6+3 bludgeoning plus 1d6 [[Persistent Damage]]</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> ember ball +13 [+8/+3] (fire, range increment 20 feet), **Damage** 1d6+3 bludgeoning plus 1d6 [[Persistent Damage]]</span><span class="in-box-ability">**Noxious Burst** <span class="action-icon">2</span> Toxic materials and churning rubbish within the filth fire's body explode in one of three ways. The filth fire chooses the effect, but it can't make the same choice twice in a row.
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> burning lash +13 [+8/+3] (finesse), **Damage** 2d6+3 bludgeoning plus 1d6 [[DATABASE/condition/Persistent Damage|persistent fire]]</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> ember ball +13 [+8/+3] (fire, range increment 20 feet), **Damage** 1d6+3 bludgeoning plus 1d6 [[DATABASE/condition/Persistent Damage|persistent fire]]</span><span class="in-box-ability">**Noxious Burst** <span class="action-icon">2</span> Toxic materials and churning rubbish within the filth fire's body explode in one of three ways. The filth fire chooses the effect, but it can't make the same choice twice in a row.
 
 * Fiery Beam (evocation, fire, primal) The filth fire expels a 30-foot line of flame that deals 3d6 fire damage with a DC 21 basic Reflex save.
 * Shrapnel Blast (evocation, primal) The filth fire shoots jagged rubbish out in a 5-foot emanation that deals 2d12 piercing damage with a DC 21 basic Reflex save.
-* Toxic Fumes (evocation, poison, primal) The filth fire belches a 15-foot cone of toxic smoke that deals 2d6 poison damage (DC 21 basic Fortitude save). A creature that fails is also [[Sickened]] (or sickened 2 on a critical failure).
+* Toxic Fumes (evocation, poison, primal) The filth fire belches a 15-foot cone of toxic smoke that deals 2d6 poison damage (DC 21 basic Fortitude save). A creature that fails is also [[DATABASE/condition/Sickened|sickened 1]] (or sickened 2 on a critical failure).
 
 </span>

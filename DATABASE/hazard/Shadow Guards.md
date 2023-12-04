@@ -17,6 +17,7 @@ name: Shadow Guards
 rarity: Common
 reflex: '+11'
 resistance: null
+rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh
   Arch]]'
@@ -34,13 +35,13 @@ will: null
 # Shadow Guards<span class="item-type">Hazard 2</span>
 
 <span class="item-trait">Complex</span><span class="item-trait">Evocation</span><span class="item-trait">Magical</span><span class="item-trait">Shadow</span><span class="item-trait">Trap</span>
-**Source** [[Pathfinder 187. The Seventh Arch]]
+**Source** [[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh Arch]]
 **Complexity** Complex
 **Stealth** +11 (trained) to notice the runes concealed among the drawings
 **Description** Shadowy caricatures of elves peel themselves from the foor and attack everyone in the room.
 
 ---
-**Disable** DC 16 [[Acrobatics]] to move through the room without touching any of the runes, followed by DC 18 [[Thievery]] (trained) to carve them out of the wood without triggering them; or [[Dispel Magic]] (1st level; counteract DC 16) to counteract the runes
+**Disable** DC 16 [[DATABASE/skill/Acrobatics|Acrobatics]] to move through the room without touching any of the runes, followed by DC 18 [[DATABASE/skill/Thievery|Thievery]] (trained) to carve them out of the wood without triggering them; or [[DATABASE/spell/Dispel Magic|dispel magic]] (1st level; counteract DC 16) to counteract the runes
 **AC** 18, **Fort** +11, **Ref** +11
 **Hardness** 8, **HP** 32; **Immunities** critical hits, object immunities, precision damage
 **Shadow Rush** <span class="action-icon">5</span> **Trigger** A creature enters the room; **Effect** After waiting 1 round, the trap animates its shadowy stick figures and makes a painted spear Strike against each creature in the room. The trap rolls initiative.

@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 size: null
@@ -57,9 +58,9 @@ weapon_type: null
 # Rock-Braced<span class="item-type">Item 13</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Abjuration</span><span class="item-trait">Dwarf</span><span class="item-trait">Magical</span><span class="item-trait">Saggorak</span>
-**Source** [[Pathfinder 148. Fires of the Haunted City]]
+**Source** [[DATABASE/source/Pathfinder 148. Fires of the Haunted City|Pathfinder #148: Fires of the Haunted City]]
 **Price** 3,000 gp
 **Usage** etched onto medium or heavy armor; **Bulk** —
 
 ---
-_Rock-braced_ armor makes you as hard to move as a boulder. Whenever another creature attempts to forcibly move you from your space, you gain a +4 item bonus to your Fortitude DC against the check to move you. If the creature would not normally need to attempt a check to move you, then the creature must succeed at an [[Athletics]] check against your Fortitude DC (including the +4 item bonus) or you are unmoved.
+_Rock-braced_ armor makes you as hard to move as a boulder. Whenever another creature attempts to forcibly move you from your space, you gain a +4 item bonus to your Fortitude DC against the check to move you. If the creature would not normally need to attempt a check to move you, then the creature must succeed at an [[DATABASE/skill/Athletics|Athletics]] check against your Fortitude DC (including the +4 item bonus) or you are unmoved.

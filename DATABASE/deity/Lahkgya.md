@@ -21,6 +21,7 @@ follower_alignment:
 id: '191'
 name: Lahkgya
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Thievery|Thievery]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -30,7 +31,7 @@ type: Deity
 ---
 # Lahkgya (Patron of Monkeys) [CE]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Category** Vudrani Gods
 **Edicts** Steal luxuries for yourself, destroy property for fun, demand bribes to spare creatures from your torments
 **Anathema** Work honestly for something you could steal instead, kill a monkey
@@ -38,9 +39,9 @@ type: Deity
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Dexterity or Intelligence
-**Divine Font** _[[Harm]]_
-**Divine Skill** [[Thievery]]
-**Favored Weapon** [[Fist]] or [[Battle Axe]]
-**Domains** [[Indulgence Domain]], [[Nature Domain]], [[Swarm Domain]], [[Trickery Domain]]
-**Cleric Spells** 1st: _[[Fleet Step]]_, 3rd: _[[Mad Monkeys]]_, 4th: _[[Confusion]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Dexterity or Intelligence
+**Divine Font** _[[DATABASE/spell/Harm|harm]]_
+**Divine Skill** [[DATABASE/skill/Thievery|Thievery]]
+**Favored Weapon** [[DATABASE/weapon/Fist|jaws]] or [[DATABASE/weapon/Battle Axe|battle axe]]
+**Domains** [[DATABASE/domain/Indulgence Domain|indulgence]], [[DATABASE/domain/Nature Domain|nature]], [[DATABASE/domain/Swarm Domain|swarm]], [[DATABASE/domain/Trickery Domain|trickery]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Fleet Step|fleet step]]_, 3rd: _[[DATABASE/spell/Mad Monkeys|mad monkeys]]_, 4th: _[[DATABASE/spell/Confusion|confusion]]_

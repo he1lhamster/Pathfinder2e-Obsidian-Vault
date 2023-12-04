@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 size: null
@@ -53,7 +54,7 @@ weapon_type: null
 # Preserving<span class="item-type">Item 3+</span>
 
 <span class="item-trait">Magical</span><span class="item-trait">Necromancy</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Usage** applied to a basket, bag, or other container; **Bulk** —
 
 ---
@@ -61,12 +62,12 @@ _Preserving_ runes are common among merchants and other travelers who are on the
 
 ## Preserving<span class="item-type">Item 3</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 45 gp
 
 ## Preserving (Greater)<span class="item-type">Item 8</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 450 gp
 Non-magical food and drink inside the container never spoil, and the rune has an activation.
-**Activate** <span class="action-icon">2</span> command, Interact **Frequency** once per day; **Effect** The container casts [[Purify Food and Drink]] on all the food and drink within.
+**Activate** <span class="action-icon">2</span> command, Interact **Frequency** once per day; **Effect** The container casts [[DATABASE/spell/Purify Food and Drink|purify food and drink]] on all the food and drink within.

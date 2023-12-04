@@ -85,24 +85,24 @@ wisdom: '+4'
 # Clockwork Door Warden
 
 This mechanical humanoid serves the role of a gatekeeper or even a greeter, but its strength also enables it to repel unwanted visitors.
-**Recall Knowledge - Construct ([[Arcana]], [[Crafting]])**: DC 24
+**Recall Knowledge - Construct ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Crafting|Crafting]])**: DC 24
 **Unspecific Lore**: DC 22
 **Specific Lore**: DC 19
 
 # Clockwork Door Warden<span class="item-type">Creature 4</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Clockwork</span><span class="item-trait">Construct</span><span class="item-trait">Mindless</span>
-**Source** [[Pathfinder 179. Cradle of Quartz]]
-**Perception** +12; [[Darkvision]]
-**Skills** [[Athletics]] +10 (+12 to [[Disarm]] or [[Grapple]])
+**Source** [[DATABASE/source/Pathfinder 179. Cradle of Quartz|Pathfinder #179: Cradle of Quartz]]
+**Perception** +12; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +10 (+12 to [[DATABASE/action/Disarm|Disarm]] or [[DATABASE/action/Grapple|Grapple]])
 **Str** +4, **Dex** +2, **Con** +2, **Int** -5, **Wis** +4, **Cha** -5
 **Wind-Up** 24 hours, DC 19, standby
-**Items** [[Repeating Hand Crossbow]]
+**Items** [[DATABASE/weapon/Repeating Hand Crossbow|repeating hand crossbow (5 bolts)]]
 
 ---
-**AC** 20; **Fort** +10 (+12 vs. [[Disarm]]), **Ref** +8, **Will** +14
-**HP** 50; **Immunities** death effects, disease, [[Doomed]], [[Drained]], [[Fatigued]], healing, mental, necromancy, nonlethal attacks, [[Paralyzed]], poisoned, [[Sickened]], [[Unconscious]]; **Resistances** physical 5 (except [[Wand of Smoldering Fireballs]] or orichalcum); **Weaknesses** electricity 5, [[Orichalcum Weapon]] 5
+**AC** 20; **Fort** +10 (+12 vs. [[DATABASE/action/Disarm|Disarm]]), **Ref** +8, **Will** +14
+**HP** 50; **Immunities** death effects, disease, [[DATABASE/condition/Doomed|doomed]], [[DATABASE/condition/Drained|drained]], [[DATABASE/condition/Fatigued|fatigued]], healing, mental, necromancy, nonlethal attacks, [[DATABASE/condition/Paralyzed|paralyzed]], poisoned, [[DATABASE/condition/Sickened|sickened]], [[DATABASE/condition/Unconscious|unconscious]]; **Resistances** physical 5 (except [[DATABASE/equipment/Wand of Smoldering Fireballs|adamantine]] or orichalcum); **Weaknesses** electricity 5, [[DATABASE/equipment/Orichalcum Weapon|orichalcum]] 5
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +14 [+9/+4] (reach 10 feet), **Damage** 2d6+7 bludgeoning plus [[Push]]</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> repeating hand crossbow +12 [+7/+2] (range 60 feet, reload 0, repeating), **Damage** 1d6+3 piercing</span><span class="in-box-ability">**Brace Door** <span class="action-icon">1</span> The door warden holds shut an adjacent door. This ends the door warden's turn. Until the start of its next turn, as long as it remains functional and in the same square, other creatures trying to get through must succeed at a DC 21 [[Athletics]] check to [[Force Open]] the door.</span><span class="in-box-ability">**Slam Door** <span class="action-icon">5</span> **Trigger** The door warden [[Push]] a creature through an open doorway; **Effect** The door warden slams the door shut on the creature.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +14 [+9/+4] (reach 10 feet), **Damage** 2d6+7 bludgeoning plus [[DATABASE/monsterability/Push|Push]]</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> repeating hand crossbow +12 [+7/+2] (range 60 feet, reload 0, repeating), **Damage** 1d6+3 piercing</span><span class="in-box-ability">**Brace Door** <span class="action-icon">1</span> The door warden holds shut an adjacent door. This ends the door warden's turn. Until the start of its next turn, as long as it remains functional and in the same square, other creatures trying to get through must succeed at a DC 21 [[DATABASE/skill/Athletics|Athletics]] check to [[DATABASE/action/Force Open|Force Open]] the door.</span><span class="in-box-ability">**Slam Door** <span class="action-icon">5</span> **Trigger** The door warden [[DATABASE/monsterability/Push|Pushes]] a creature through an open doorway; **Effect** The door warden slams the door shut on the creature.</span>

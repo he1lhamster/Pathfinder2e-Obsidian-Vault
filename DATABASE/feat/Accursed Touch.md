@@ -11,6 +11,7 @@ name: Accursed Touch
 prerequisite: '[[DATABASE/feat/Mummy Dedication|Mummy Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 subcategory: null
@@ -23,16 +24,16 @@ type: Feat
 # Accursed Touch <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Book of the Dead]]
-**Archetype** [[Mummy]]
-**Prerequisites** [[Mummy Dedication]]
+**Source** [[DATABASE/source/Book of the Dead|Book of the Dead]]
+**Archetype** [[DATABASE/archetype/Mummy|Mummy]]
+**Prerequisites** [[DATABASE/feat/Mummy Dedication|Mummy Dedication]]
 
 ---
-You've learned to harness the supernatural curse that animates you, imbuing your most powerful attacks with a terrible curse. When you critically hit with a fist Strike, negative energy binds to it; this is a curse and a disease. The creature takes 2d6 [[Persistent Damage]]. While the creature has this persistent damage, it's also [[Stupefied]]. The persistent damage increases to 3d6 at 14th level and 4d6 at 20th level. This is a critical specialization effect.
+You've learned to harness the supernatural curse that animates you, imbuing your most powerful attacks with a terrible curse. When you critically hit with a fist Strike, negative energy binds to it; this is a curse and a disease. The creature takes 2d6 [[DATABASE/condition/Persistent Damage|persistent negative damage]]. While the creature has this persistent damage, it's also [[DATABASE/condition/Stupefied|stupefied 1]]. The persistent damage increases to 3d6 at 14th level and 4d6 at 20th level. This is a critical specialization effect.
 
 ## Accursed Touch Leads To...
 
-[[Channel Rot]]
+[[DATABASE/feat/Channel Rot|Channel Rot]]
 
 ## Traits
 

@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Fortitude
 school: Evocation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -40,14 +41,14 @@ type: Cantrip
 # Haunting Hymn<span class="item-type">Cantrip 1</span>
 
 <span class="item-trait">Auditory</span><span class="item-trait">Cantrip</span><span class="item-trait">Evocation</span><span class="item-trait">Sonic</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Traditions** divine, occult
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Area** 15-foot cone
 **Saving Throw** Fortitude
 
 ---
-You echo a jarring hymn that only creatures in the area can hear. The hymn deals sonic damage equal to your spellcasting ability modifier, with a basic Fortitude save. If a target critically fails the save, it's also [[Deafened]] for 1 minute.
+You echo a jarring hymn that only creatures in the area can hear. The hymn deals sonic damage equal to your spellcasting ability modifier, with a basic Fortitude save. If a target critically fails the save, it's also [[DATABASE/condition/Deafened|deafened]] for 1 minute.
 
 ---
 **Heightened (+2)** The damage increases by 1d6.

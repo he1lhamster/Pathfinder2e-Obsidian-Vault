@@ -11,6 +11,7 @@ name: Impassable Wall Stance
 prerequisite: '[[DATABASE/feat/Attack of Opportunity|Attack of Opportunity]]'
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 subcategory: null
@@ -26,8 +27,8 @@ type: Feat
 # Impassable Wall Stance <span class="action-icon">1</span> <span class="item-type">Feat 8</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Champion</span><span class="item-trait">Fighter</span><span class="item-trait">Stance</span>
-**Source** [[Character Guide]] 
-**Prerequisites** [[Attack of Opportunity]]
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
+**Prerequisites** [[DATABASE/feat/Attack of Opportunity|Attack of Opportunity]]
 **Access** A character who is a member of the Knights of Lastwall has access to this option.
 
 ---
@@ -41,10 +42,10 @@ A stance is a general combat strategy that you enter by using an action with the
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.
 
 ### Knights of Lastwall Class Feats
 
-**Source** [[Character Guide]] 
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
 The following class feats are available to Knights of Lastwall. Those with the champion trait are champion class feats. Those with both the champion and fighter traits are both champion class feats and fighter class feats; when you take one of these feats, it loses the trait that doesn’t apply to your class.
-**Related Feats**: [[Everstand Stance]], [[Everstand Strike]], [[Light of Revelation]], [[Sun Blade]]
+**Related Feats**: [[DATABASE/feat/Everstand Stance|Everstand Stance]], [[DATABASE/feat/Everstand Strike|Everstand Strike]], [[DATABASE/feat/Light of Revelation|Light of Revelation]], [[DATABASE/feat/Sun Blade|Sun Blade]]

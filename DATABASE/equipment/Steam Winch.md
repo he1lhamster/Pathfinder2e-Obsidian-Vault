@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -53,10 +54,10 @@ weapon_type: null
 # Steam Winch<span class="item-type">Item 8</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Steam</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 425 gp
 **Usage** operated with two hands; **Bulk** 2
 
 ---
-This hefty winch is powered by a small steam engine and includes a 100 ft. length of steel cable, which enables you to haul a heavier load than you could with a hand cranked winch or [[Comealong]]. A steam winch allows you to slowly pull a heavy load (usually up to 50 Bulk) along a flat surface or up and down a vertical expanse.
+This hefty winch is powered by a small steam engine and includes a 100 ft. length of steel cable, which enables you to haul a heavier load than you could with a hand cranked winch or [[DATABASE/equipment/Comealong|comealong]]. A steam winch allows you to slowly pull a heavy load (usually up to 50 Bulk) along a flat surface or up and down a vertical expanse.
  Attaching a steam winch to a device takes three Interact actions, while starting the winch (and getting it warm enough to operate) takes 10 minutes. Once in operation, a steam winch requires regular maintenance to function. Every twenty minutes, the boiler must be refilled and heat levels maintained.

@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Enchantment
 size: null
@@ -56,10 +57,10 @@ weapon_type: null
 # Sigil of the First Clan<span class="item-type">Item 8</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Enchantment</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span>
-**Source** [[Pathfinder 195. Heavy is the Crown]]
+**Source** [[DATABASE/source/Pathfinder 195. Heavy is the Crown|Pathfinder #195: Heavy is the Crown]]
 **Price** 430 gp
 **Usage** worn necklace; **Bulk** —
 
 ---
-This intricate gold and adamantine clasp depicts the sigil of Clan Taargick, house of the famed King Taargick, founder of Tar Taargadth. When displayed prominently, other dwarves give more weight to your words. You gain a +1 circumstance bonus to [[Diplomacy]] and [[Intimidation]] checks against dwarves and against anyone who considers themselves a staunch ally of Clan Taargick. Against anyone who considers Clan Taargick an enemy, such as worshippers of [[Droskar]] and many [[Orc]], you instead take a –1 circumstance penalty to Diplomacy and Intimidation checks.
-**Activate** <span class="action-icon">1</span> command **Frequency** once per day; **Effect** You wield the authority of Clan Taargick like a gavel, enforcing your word as law. You cast 1st-level [[Command]] with a DC of 24.
+This intricate gold and adamantine clasp depicts the sigil of Clan Taargick, house of the famed King Taargick, founder of Tar Taargadth. When displayed prominently, other dwarves give more weight to your words. You gain a +1 circumstance bonus to [[DATABASE/skill/Diplomacy|Diplomacy]] and [[DATABASE/skill/Intimidation|Intimidation]] checks against dwarves and against anyone who considers themselves a staunch ally of Clan Taargick. Against anyone who considers Clan Taargick an enemy, such as worshippers of [[DATABASE/deity/Droskar|Droskar]] and many [[DATABASE/ancestry/Orc|orcs]], you instead take a –1 circumstance penalty to Diplomacy and Intimidation checks.
+**Activate** <span class="action-icon">1</span> command **Frequency** once per day; **Effect** You wield the authority of Clan Taargick like a gavel, enforcing your word as law. You cast 1st-level [[DATABASE/spell/Command|command]] with a DC of 24.

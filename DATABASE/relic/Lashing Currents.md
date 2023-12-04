@@ -5,6 +5,7 @@ item_category: Relics
 name: Lashing Currents
 prerequisite: The relic is a weapon.
 rarity: Common
+rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
@@ -16,7 +17,7 @@ type: Relic Minor Gift
 # Lashing Currents<span class="item-type">Minor Gift</span>
 
 <span class="item-trait">Evocation</span><span class="item-trait">Water</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Aspect** water; **Prerequisite** The relic is a weapon.
 
 ---

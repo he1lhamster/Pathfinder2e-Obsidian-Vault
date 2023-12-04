@@ -11,6 +11,7 @@ name: Knockdown
 prerequisite: Trained in [[DATABASE/skill/Athletics|Athletics]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,12 +25,12 @@ type: Feat
 # Knockdown <span class="action-icon">2</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Fighter</span><span class="item-trait">Flourish</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Mauler]]
-**Prerequisites** trained in [[Athletics]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Mauler|Mauler]]
+**Prerequisites** trained in [[DATABASE/skill/Athletics|Athletics]]
 
 ---
-You make an attack to knock a foe off balance, then follow up immediately with a sweep to topple them. Make a melee Strike. If it hits and deals damage, you can attempt an [[Athletics]] check to [[Trip]] the creature you hit. If you're wielding a two-handed melee weapon, you can ignore Trip's requirement that you have a hand free. Both attacks count toward your multiple attack penalty, but the penalty doesn't increase until after you've made both of them.
+You make an attack to knock a foe off balance, then follow up immediately with a sweep to topple them. Make a melee Strike. If it hits and deals damage, you can attempt an [[DATABASE/skill/Athletics|Athletics]] check to [[DATABASE/action/Trip|Trip]] the creature you hit. If you're wielding a two-handed melee weapon, you can ignore Trip's requirement that you have a hand free. Both attacks count toward your multiple attack penalty, but the penalty doesn't increase until after you've made both of them.
 
 ## Archetype Use
 
@@ -37,7 +38,7 @@ This feat can be used for one or more Archetypes in addition to the listed Class
 
 ## Knockdown Leads To...
 
-[[Improved Knockdown]]
+[[DATABASE/feat/Improved Knockdown|Improved Knockdown]]
 
 ## Traits
 

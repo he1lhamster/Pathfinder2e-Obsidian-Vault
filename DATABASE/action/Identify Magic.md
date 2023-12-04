@@ -7,6 +7,7 @@ id: '24'
 name: Identify Magic
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
@@ -20,7 +21,7 @@ type: Action
 # Identify Magic
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Exploration</span><span class="item-trait">Secret</span>
-**Source** [[Core Rulebook]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
 Once you discover that an item, location, or ongoing effect is magical, you can spend 10 minutes to try to identify the particulars of its magic. If your attempt is interrupted, you must start over. The GM sets the DC for your check. Cursed or esoteric subjects usually have higher DCs or might even be impossible to identify using this activity alone. Heightening a spell doesn’t increase the DC to identify it.
@@ -31,11 +32,10 @@ Once you discover that an item, location, or ongoing effect is magical, you can 
 
 ### Magical Traditions and Skills
 
-Each magical tradition has a corresponding skill, as shown on the table below. You must have the trained proficiency rank in a skill to use it to Identify Magic or [[Learn a Spell]]. Something without a specific tradition, such as an item with the magical trait, can be identified using any of these skills.
-
-| Magical Tradition   | Corresponding Skill                    |
-|:--------------------|:---------------------------------------|
-| Arcane              | [[Arcana]]       |
-| Divine              | [[Religion]]   |
-| Occult              | [[Occultism]] |
-| Primal              | [[Nature]]       |
+Each magical tradition has a corresponding skill, as shown on the table below. You must have the trained proficiency rank in a skill to use it to Identify Magic or [[DATABASE/action/Learn a Spell|Learn a Spell]]. Something without a specific tradition, such as an item with the magical trait, can be identified using any of these skills. | 0 | 1 |
+|:------------------|:---------------------------------------|
+| Magical Tradition | Corresponding Skill |
+| Arcane | [[Arcana]] |
+| Divine | [[Religion]] |
+| Occult | [[Occultism]] |
+| Primal | [[Nature]] |

@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Blessed One Dedication|Blessed One Dedication]] ;
   to cast spells from spellslots; [[DATABASE/feat/Mercy|Mercy]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -26,13 +27,13 @@ type: Feat
 # Blessed Spell <span class="action-icon">1</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Concentrate</span><span class="item-trait">Metamagic</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Blessed One]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Blessed One|Blessed One]]
 **Frequency** once per 10 minutes
-**Prerequisites** [[Blessed One Dedication]]; ability to cast spells from spell slots; [[Mercy]]
+**Prerequisites** [[DATABASE/feat/Blessed One Dedication|Blessed One Dedication]]; ability to cast spells from spell slots; [[DATABASE/feat/Mercy|Mercy]]
 
 ---
-When you focus your magic on an ally, you can remove harmful conditions. If your next action is to Cast a Spell from a spell slot, and that spell targets only a single ally, you can also attempt to remove a harmful condition from that ally. The condition must be one that could be removed by your [[Mercy]] feat, including those granted by later feats such as [[Greater Mercy]]. Attempt a counteract check based on the spell's DC and level. This effect is in addition to the normal effects of your spell.
+When you focus your magic on an ally, you can remove harmful conditions. If your next action is to Cast a Spell from a spell slot, and that spell targets only a single ally, you can also attempt to remove a harmful condition from that ally. The condition must be one that could be removed by your [[DATABASE/feat/Mercy|Mercy]] feat, including those granted by later feats such as [[DATABASE/feat/Greater Mercy|Greater Mercy]]. Attempt a counteract check based on the spell's DC and level. This effect is in addition to the normal effects of your spell.
 
 ## Traits
 

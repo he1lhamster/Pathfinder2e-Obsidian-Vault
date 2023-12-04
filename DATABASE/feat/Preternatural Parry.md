@@ -11,6 +11,7 @@ name: Preternatural Parry
 prerequisite: '[[DATABASE/feat/Spell Parry|Spell Parry]]'
 rarity: Common
 requirement: You have one or more hands free.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Preternatural Parry <span class="action-icon">5</span> <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Magus</span>
-**Source** [[Secrets of Magic]] 
-**Prerequisites** [[Spell Parry]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
+**Prerequisites** [[DATABASE/feat/Spell Parry|Spell Parry]]
 **Trigger** You're targeted by a Strike or a spell attack roll, or you're about to roll a saving throw against a spell effect.
 **Requirements** You have one or more hands free.
 

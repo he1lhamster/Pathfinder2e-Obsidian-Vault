@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: basicFortitude
 school: Evocation
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
@@ -36,7 +37,7 @@ type: Focus
 # Invoke the Crimson Oath<span class="item-type">Focus 2</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Evocation</span>
-**Source** [[Character Guide]] 
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Area** 20-foot cone
 **Saving Throw** basic Fortitude

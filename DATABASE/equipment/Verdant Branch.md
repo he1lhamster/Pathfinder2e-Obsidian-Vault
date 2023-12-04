@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Verdant Branch<span class="item-type">Item 7</span>
 
 <span class="item-trait">Necromancy</span><span class="item-trait">Plant</span><span class="item-trait">Primal</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 360 gp
 **Usage** worn; **Bulk** L
 

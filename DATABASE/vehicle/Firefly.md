@@ -17,6 +17,7 @@ rarity: Uncommon
 reflex: null
 resistance:
 - electricity 10
+rus_type_level: null
 school: null
 size: Large
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
@@ -29,7 +30,7 @@ type: Vehicle
 # Firefly<span class="item-type">Vehicle 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-size item-trait">Large</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 450 gp
 
 ---
@@ -38,7 +39,7 @@ A firefly blends magic and technology, using electricity magic and magnetism to 
 ---
 **Space** 10 feet long, 10 feet wide, 10 feet high
 **Crew** 1 pilot; **Passengers** 3
-**Piloting Check** [[Lore]] (DC 20), [[Arcana]] (DC 22), or [[Crafting]] (DC 22)
+**Piloting Check** [[DATABASE/skill/Lore|Piloting Lore]] (DC 20), [[DATABASE/skill/Arcana|Arcana]] (DC 22), or [[DATABASE/skill/Crafting|Crafting]] (DC 22)
 
 ---
 **AC** 16; **Fort** +12
@@ -47,6 +48,6 @@ A firefly blends magic and technology, using electricity magic and magnetism to 
 ---
 **Speed** hover 20 feet (electrical, magical)
 **Collision** 3d8 (DC 20)
-**Flash** <span class="action-icon">3</span> (light) The pilot overcharges the vehicle, causing it to create a brilliant flash of light. All creatures in the bright light from its glow aura must succeed at a DC 19 Fortitude save or be [[Dazzled]] 1 minute. The firefly's light dims for 10 minutes, reducing its glow to 10 feet of dim light, during which time it can't use flash. Flash stops working if the firefly is [[Broken]].
+**Flash** <span class="action-icon">3</span> (light) The pilot overcharges the vehicle, causing it to create a brilliant flash of light. All creatures in the bright light from its glow aura must succeed at a DC 19 Fortitude save or be [[DATABASE/condition/Dazzled|dazzled]] 1 minute. The firefly's light dims for 10 minutes, reducing its glow to 10 feet of dim light, during which time it can't use flash. Flash stops working if the firefly is [[DATABASE/condition/Broken|broken]].
 **Glow** (electricity, evocation, light, magical) Powered by magical lightning, this vehicle sheds bright light within 20 feet, and dim light for a further 20 feet.
  **Hover** This vehicle is held aloft by rapidly spinning propellers that enable it to hover 1 foot in the air. It is incapable of flying any higher, and when the pilot stops the magic or the vehicle breaks, it descends 1 foot to the ground.

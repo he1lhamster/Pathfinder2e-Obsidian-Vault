@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Fang Sharpener|Fang Sharpener]] or [[DATABASE/her
   Goblin|Razortooth Goblin]] heritage'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 subcategory: null
@@ -25,9 +26,9 @@ type: Feat
 # Ankle Bite <span class="action-icon">5</span> <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Goblin</span>
-**Source** [[Character Guide]] 
-**Prerequisites** [[Fang Sharpener]], or [[Razortooth Goblin]]
-**Trigger** A foe gives you the [[Grabbed]] or [[Restrained]] condition using a part of its body.
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
+**Prerequisites** [[DATABASE/feat/Fang Sharpener|Fang Sharpener]], or [[DATABASE/heritage/Razortooth Goblin|Razortooth Goblin]]
+**Trigger** A foe gives you the [[DATABASE/condition/Grabbed|grabbed]] or [[DATABASE/condition/Restrained|restrained]] condition using a part of its body.
 
 ---
 Whenever someone grabs onto you, you instinctively bite down hard. Sometimes that makes them let go, and sometimes it just makes them angrier, but either way, it’s both satisfying and tasty. Make a jaws Strike against the triggering foe. On a critical hit, you are no longer grabbed. This Strike doesn’t count toward your multiple attack penalty, and your multiple attack penalty doesn’t apply to this Strike.
@@ -36,4 +37,4 @@ Whenever someone grabs onto you, you instinctively bite down hard. Sometimes tha
 
 **Goblin:**
 
-A creature with this trait can be one of several kinds of creature, including [[Goblin]], [[Hobgoblin]], and [[Bugbear]]. Goblins tend to have darkvision. An ability with this trait can be used or chosen only by goblins. A weapon with this trait is created and used by goblins.
+A creature with this trait can be one of several kinds of creature, including [[DATABASE/ancestry/Goblin|goblins]], [[DATABASE/ancestry/Hobgoblin|hobgoblins]], and [[DATABASE/monsterfamily/Bugbear|bugbears]]. Goblins tend to have darkvision. An ability with this trait can be used or chosen only by goblins. A weapon with this trait is created and used by goblins.

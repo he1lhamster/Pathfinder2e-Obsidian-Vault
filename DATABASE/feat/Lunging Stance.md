@@ -11,6 +11,7 @@ name: Lunging Stance
 prerequisite: '[[DATABASE/action/Attack of Opportunity|attack of opportunity]] ; [[DATABASE/feat/Lunge|Lunge]]'
 rarity: Common
 requirement: You are wielding a melee weapon.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Lunging Stance <span class="action-icon">1</span> <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Fighter</span><span class="item-trait">Stance</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Attack of Opportunity]]; [[Lunge]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/action/Attack of Opportunity|attack of opportunity]]; [[DATABASE/feat/Lunge|Lunge]]
 **Requirements** You are wielding a melee weapon.
 
 ---

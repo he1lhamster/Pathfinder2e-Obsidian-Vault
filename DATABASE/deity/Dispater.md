@@ -22,6 +22,7 @@ follower_alignment:
 id: '66'
 name: Dispater
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Society|Society]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -31,7 +32,7 @@ type: Deity
 ---
 # Dispater (Iron Lord) [LE]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 Hell’s second layer is the Infernal City, Dis, and its ruler is the archdevil Dispater. The Iron Lord is the architect of the orderly perfection of Hell as a blueprint for the rest of the multiverse, responsible for Dis’s own dark and startling perfection. He remains distant from the scheming and machinations of the other archdevils and the Material Plane, instead modeling calm and deliberate action combined with ruthless, merciless arrogance. As the most urbane of the archdevils, he attracts many followers among those who wish to see Hell’s dark majesty spread across the universe.
 **Category** Archdevils
 **Edicts** Uphold absolute law, pursue perfection in your surroundings, speak with refinement
@@ -40,9 +41,9 @@ Hell’s second layer is the Infernal City, Dis, and its ruler is the archdevil 
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Strength or Charisma
-**Divine Font** _[[Harm]]_
-**Divine Skill** [[Society]]
-**Favored Weapon** [[Mace]]
-**Domains** [[Cities Domain]], [[Confidence Domain]], [[Duty Domain]], [[Tyranny Domain]]
-**Cleric Spells** 1st: _[[Tether]]_, 4th: _[[Suggestion]]_, 6th: _[[Flesh to Stone]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Strength or Charisma
+**Divine Font** _[[DATABASE/spell/Harm|harm]]_
+**Divine Skill** [[DATABASE/skill/Society|Society]]
+**Favored Weapon** [[DATABASE/weapon/Mace|mace]]
+**Domains** [[DATABASE/domain/Cities Domain|cities]], [[DATABASE/domain/Confidence Domain|confidence]], [[DATABASE/domain/Duty Domain|duty]], [[DATABASE/domain/Tyranny Domain|tyranny]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Tether|tether]]_, 4th: _[[DATABASE/spell/Suggestion|suggestion]]_, 6th: _[[DATABASE/spell/Flesh to Stone|flesh to stone]]_

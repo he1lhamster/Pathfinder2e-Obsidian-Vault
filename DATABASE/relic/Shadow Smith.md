@@ -5,6 +5,7 @@ item_category: Relics
 name: Shadow Smith
 prerequisite: null
 rarity: Common
+rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
@@ -16,7 +17,7 @@ type: Relic Minor Gift
 # Shadow Smith<span class="item-type">Minor Gift</span>
 
 <span class="item-trait">Conjuration</span><span class="item-trait">Shadow</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Aspect** shadow
 
 ---

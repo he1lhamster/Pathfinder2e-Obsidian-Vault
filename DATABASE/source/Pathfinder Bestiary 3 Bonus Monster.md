@@ -2,6 +2,7 @@
 id: '78'
 name: Pathfinder Bestiary 3 Bonus Monster
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -15,4 +16,4 @@ type: Source
 
 ## Monsters [1]
 
-[[Divine Warden Of Brigh]]
+[[DATABASE/monster/Divine Warden Of Brigh|Divine Warden Of Brigh]]

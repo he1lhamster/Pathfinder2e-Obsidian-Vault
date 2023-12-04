@@ -32,6 +32,7 @@ reflex: null
 requirement: You're an expert in [[DATABASE/skill/Intimidation|Intimidation]] and
   the affixed weapon isloaded.
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Enchantment
 size: null
@@ -57,10 +58,10 @@ weapon_type: null
 # Shrieking Skull<span class="item-type">Item 12</span>
 
 <span class="item-trait">Auditory</span><span class="item-trait">Consumable</span><span class="item-trait">Enchantment</span><span class="item-trait">Magical</span><span class="item-trait">Talisman</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 400 gp
 **Usage** affixed to a firearm or crossbow; **Bulk** —
-**Activate** <span class="action-icon">1</span> envision **Requirements** You're an expert in [[Intimidation]] and the affixed weapon is loaded.
+**Activate** <span class="action-icon">1</span> envision **Requirements** You're an expert in [[DATABASE/skill/Intimidation|Intimidation]] and the affixed weapon is loaded.
 
 ---
-This dried skull of a snake is mounted atop the firearm's barrel or affixed to a crossbow's stock. When activated, the skull crawls onto the ammunition loaded in the affixed weapon. If you Strike with the weapon before the end of your turn, the skull lets out a bloodcurdling scream as the ammunition approaches its target. Regardless of whether the Strike is a success, the screaming skull allows you to attempt to [[Demoralize]] the target as well as each enemy within 30 feet of the target.
+This dried skull of a snake is mounted atop the firearm's barrel or affixed to a crossbow's stock. When activated, the skull crawls onto the ammunition loaded in the affixed weapon. If you Strike with the weapon before the end of your turn, the skull lets out a bloodcurdling scream as the ammunition approaches its target. Regardless of whether the Strike is a success, the screaming skull allows you to attempt to [[DATABASE/action/Demoralize|Demoralize]] the target as well as each enemy within 30 feet of the target.

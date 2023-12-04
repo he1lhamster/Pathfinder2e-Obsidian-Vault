@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Enchantment
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Spellbook of Redundant Enchantment<span class="item-type">Item 8</span>
 
 <span class="item-trait">Enchantment</span><span class="item-trait">Grimoire</span><span class="item-trait">Magical</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Price** 420 gp
 **Bulk** L
 

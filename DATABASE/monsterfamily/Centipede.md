@@ -3,6 +3,7 @@ creature_family: Centipede
 id: '22'
 name: Centipede
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Centipede
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Hunters and scavengers that live amid dung and detritus, centipedes are a relatively common and often reviled threat faced by adventurers. Scurrying about with surprising speed on the scores of legs attached to their long, segmented bodies, centipedes strike with poisoned mandibles to slow and torment their prey with a vicious toxin before they settle down to feed in slow and disgusting leisure.
 
 ### Members
 
-[[Centipede Swarm]] (Creature 3), [[Giant Centipede]] (Creature -1), [[Giant Whiptail Centipede]] (Creature 3), [[Titan Centipede]] (Creature 9)
+[[DATABASE/monster/Centipede Swarm|Centipede Swarm]] (Creature 3), [[DATABASE/monster/Giant Centipede|Giant Centipede]] (Creature -1), [[DATABASE/monster/Giant Whiptail Centipede|Giant Whiptail Centipede]] (Creature 3), [[DATABASE/monster/Titan Centipede|Titan Centipede]] (Creature 9)
 
 ###  Centipede Species
 

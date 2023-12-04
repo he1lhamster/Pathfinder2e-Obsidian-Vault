@@ -11,6 +11,7 @@ name: Basic Devotion
 prerequisite: '[[DATABASE/feat/Champion Dedication|Champion Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,16 +24,16 @@ type: Feat
 # Basic Devotion <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Champion]]
-**Prerequisites** [[Champion Dedication]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Champion|Champion]]
+**Prerequisites** [[DATABASE/feat/Champion Dedication|Champion Dedication]]
 
 ---
 You gain a 1st- or 2nd-level champion feat.
 
 ## Basic Devotion Leads To...
 
-[[Advanced Devotion]]
+[[DATABASE/feat/Advanced Devotion|Advanced Devotion]]
 
 ## Traits
 

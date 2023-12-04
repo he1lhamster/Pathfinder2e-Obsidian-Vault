@@ -7,6 +7,7 @@ id: '2103'
 name: Knock Aside
 rarity: Common
 requirement: The animal companion's last action was a successful headbutt Strike.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Highhelm|Highhelm]]'
 trait: null
@@ -16,7 +17,7 @@ type: Action
 ---
 # Knock Aside <span class="action-icon">1</span>
 
-**Source** [[Highhelm]]
+**Source** [[DATABASE/source/Highhelm|Highhelm]]
 **Requirements** The animal companion's last action was a successful headbutt Strike.
 
 ---

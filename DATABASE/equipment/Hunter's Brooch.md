@@ -31,6 +31,7 @@ rarity: Unique
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -57,10 +58,10 @@ weapon_type: null
 # Hunter's Brooch<span class="item-type">Item 4</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="item-trait">Divine</span><span class="item-trait">Invested</span><span class="item-trait">Positive</span><span class="item-trait">Transmutation</span>
-**Source** [[Pathfinder 164. Hands of the Devil]]
+**Source** [[DATABASE/source/Pathfinder 164. Hands of the Devil|Pathfinder #164: Hands of the Devil]]
 **Price** 80 gp
 **Usage** worn; **Bulk** L
 
 ---
-While wearing this silver religious symbol of [[Erastil]], you can cast the [[Disrupt Undead]] cantrip as an innate divine spell.
+While wearing this silver religious symbol of [[DATABASE/deity/Erastil|Erastil]], you can cast the [[DATABASE/spell/Disrupt Undead|disrupt undead]] cantrip as an innate divine spell.
 **Activate** <span class="action-icon">3</span> command, Interact **Frequency** once per day; **Effect** By touching a weapon you wield to the symbol and uttering a plea for Erastil's steadying hand, you grant that weapon the deadly d12 trait. Against undead, the weapon instead gains the fatal d12 trait. This blessing lasts for 1 minute, until you score a critical hit with the weapon, or until you aren't wielding the weapon.

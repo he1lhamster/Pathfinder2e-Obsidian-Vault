@@ -2,6 +2,7 @@
 id: '119'
 name: Pathfinder 178. Punks in a Powderkeg
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -16,23 +17,23 @@ type: Source
 
 ## Archetypes [1]
 
-[[Alkenstar Agent]]
+[[DATABASE/archetype/Alkenstar Agent|Alkenstar Agent]]
 
 ## Equipment [9]
 
-[[Blaze]], [[Searing Suture]], [[Searing Suture]], [[Searing Suture]], [[War Blood Mutagen]], [[War Blood Mutagen]], [[War Blood Mutagen]], [[War Blood Mutagen]], [[War Blood Mutagen]]
+[[DATABASE/equipment/Blaze|Blaze]], [[DATABASE/equipment/Searing Suture|Searing Suture]], [[DATABASE/equipment/Searing Suture|Searing Suture (greater)]], [[DATABASE/equipment/Searing Suture|Searing Suture (Lesser)]], [[DATABASE/equipment/War Blood Mutagen|War Blood Mutagen]], [[DATABASE/equipment/War Blood Mutagen|War Blood Mutagen (Greater)]], [[DATABASE/equipment/War Blood Mutagen|War Blood Mutagen (Lesser)]], [[DATABASE/equipment/War Blood Mutagen|War Blood Mutagen (Major)]], [[DATABASE/equipment/War Blood Mutagen|War Blood Mutagen (Moderate)]]
 
 ## Feats [9]
 
-[[Alkenstar Agent Dedication]], [[Black Powder Flash]], [[Flash your Badge]], [[Inured to Alchemy]], [[Loose Cannon]], [[Pain Tolerance]], [[Powder Punch Stance]], [[Prepare Papers]], [[Thunder Clap]]
+[[DATABASE/feat/Alkenstar Agent Dedication|Alkenstar Agent Dedication]], [[DATABASE/feat/Black Powder Flash|Black Powder Flash]], [[DATABASE/feat/Flash your Badge|Flash your Badge]], [[DATABASE/feat/Inured to Alchemy|Inured to Alchemy]], [[DATABASE/feat/Loose Cannon|Loose Cannon]], [[DATABASE/feat/Pain Tolerance|Pain Tolerance]], [[DATABASE/feat/Powder Punch Stance|Powder Punch Stance]], [[DATABASE/feat/Prepare Papers|Prepare Papers]], [[DATABASE/feat/Thunder Clap|Thunder Clap]]
 
 ## Hazards [9]
 
-[[Lonely Machine Spirit]], [[Lyzerium Bottle]], [[Precarious Thunderstone Trap]], [[Purple Dye Trap]], [[Repeater Crossbow Trap]], [[Stink-Sap Trap]], [[Subduing Gas Chamber]], [[Volatile Reagents]], [[Wooden Bullets Trap]]
+[[DATABASE/hazard/Lonely Machine Spirit|Lonely Machine Spirit]], [[DATABASE/hazard/Lyzerium Bottle|Lyzerium Bottle]], [[DATABASE/hazard/Precarious Thunderstone Trap|Precarious Thunderstone Trap]], [[DATABASE/hazard/Purple Dye Trap|Purple Dye Trap]], [[DATABASE/hazard/Repeater Crossbow Trap|Repeater Crossbow Trap]], [[DATABASE/hazard/Stink-Sap Trap|Stink-Sap Trap]], [[DATABASE/hazard/Subduing Gas Chamber|Subduing Gas Chamber]], [[DATABASE/hazard/Volatile Reagents|Volatile Reagents]], [[DATABASE/hazard/Wooden Bullets Trap|Wooden Bullets Trap]]
 
 ## Monsters [7]
 
-[[Clockwork Brewer]], [[Clockwork Fabricator]], [[Clockwork Handler]], [[Clockwork Hunter]], [[Prairie Drake]], [[Rust Ooze]], [[Yeast Ooze]]
+[[DATABASE/monster/Clockwork Brewer|Clockwork Brewer]], [[DATABASE/monster/Clockwork Fabricator|Clockwork Fabricator]], [[DATABASE/monster/Clockwork Handler|Clockwork Handler]], [[DATABASE/monster/Clockwork Hunter|Clockwork Hunter]], [[DATABASE/monster/Prairie Drake|Prairie Drake]], [[DATABASE/monster/Rust Ooze|Rust Ooze]], [[DATABASE/monster/Yeast Ooze|Yeast Ooze]]
 
 ## Setting Articles [1]
 

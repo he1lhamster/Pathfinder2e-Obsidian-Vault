@@ -11,6 +11,7 @@ name: Squawk!
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,8 +26,8 @@ type: Feat
 # Squawk! <span class="action-icon">5</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Tengu</span>
-**Source** [[Advanced Player's Guide]] 
-**Trigger** You critically fail a [[Deception]], [[Diplomacy]], or [[Intimidation]] check against a creature that doesn't have the tengu trait.
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Trigger** You critically fail a [[DATABASE/skill/Deception|Deception]], [[DATABASE/skill/Diplomacy|Diplomacy]], or [[DATABASE/skill/Intimidation|Intimidation]] check against a creature that doesn't have the tengu trait.
 
 ---
 You let out an awkward squawk, ruffle your feathers, or fake some other birdlike tic to cover up a social misstep or faux pas. You get a failure on the triggering check, rather than a critical failure. All creatures that witnessed you Squawk are temporarily immune for 24 hours.

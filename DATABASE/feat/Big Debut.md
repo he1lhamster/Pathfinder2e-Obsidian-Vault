@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Celebrity Dedication|Celebrity Dedication]] ; [[D
   Dedication|Gladiator Dedication]]'
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
 subcategory: null
@@ -26,15 +27,15 @@ type: Feat
 # Big Debut <span class="action-icon">4</span> <span class="item-type">Feat 10</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Archetype</span><span class="item-trait">Mental</span>
-**Source** [[Firebrands]]
-**Archetypes** [[Celebrity]], [[Gladiator]]
+**Source** [[DATABASE/source/Firebrands|Firebrands]]
+**Archetypes** [[DATABASE/archetype/Celebrity|Celebrity]], [[DATABASE/archetype/Gladiator|Gladiator]]
 **Frequency** once per day
-**Prerequisites** [[Celebrity Dedication]]; [[Gladiator Dedication]]
+**Prerequisites** [[DATABASE/feat/Celebrity Dedication|Celebrity Dedication]]; [[DATABASE/feat/Gladiator Dedication|Gladiator Dedication]]
 **Access** Members of the Firebrands at the rank of second mark or higher have access to this feat.
 **Trigger** You're about to roll initiative.
 
 ---
-Now's your chance! You're a Firebrand, and the world must know it. You strike a dramatic pose, deliver a snappy quip, or reveal a shocking new costume, captivating everyone who can see you. You don't roll initiative. Instead, you voluntarily go last. Enemies who can see you must attempt a Will saving throw against your class DC or spell DC, whichever is higher. On a failure, the enemy is overcome with anticipation for what you'll do next on the battlefield and becomes [[Stunned]] (stunned 2 on a critical failure). As your first action on your first turn, you can Interact to draw or stow an item of light Bulk as a free action; if this item is a small garment or accessory, such as a fan, a pair of gloves, or a wine glass, you gain a +1 circumstance bonus on Charisma-based skill checks until the end of your turn.
+Now's your chance! You're a Firebrand, and the world must know it. You strike a dramatic pose, deliver a snappy quip, or reveal a shocking new costume, captivating everyone who can see you. You don't roll initiative. Instead, you voluntarily go last. Enemies who can see you must attempt a Will saving throw against your class DC or spell DC, whichever is higher. On a failure, the enemy is overcome with anticipation for what you'll do next on the battlefield and becomes [[DATABASE/condition/Stunned|stunned 1]] (stunned 2 on a critical failure). As your first action on your first turn, you can Interact to draw or stow an item of light Bulk as a free action; if this item is a small garment or accessory, such as a fan, a pair of gloves, or a wine glass, you gain a +1 circumstance bonus on Charisma-based skill checks until the end of your turn.
 
 ## Traits
 
@@ -48,4 +49,4 @@ A mental effect can alter the target's mind. It has no effect on an object or a 
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.

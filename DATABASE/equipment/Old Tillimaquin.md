@@ -31,6 +31,7 @@ rarity: Unique
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Enchantment
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Old Tillimaquin<span class="item-type">Item 12</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="item-trait">Enchantment</span><span class="item-trait">Magical</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Price** 2,000 gp
 **Bulk** 3
 

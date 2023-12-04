@@ -8,6 +8,7 @@ name: Establish Farmland
 rarity: Common
 requirement: Plains or hills are the predominant terrain feature in the hex; the hex
   is in the influence of one ofyour settlements.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
@@ -20,7 +21,7 @@ type: Action
 # Establish Farmland
 
 <span class="item-trait">Downtime</span><span class="item-trait">Region</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 **Requirements** Plains or hills are the predominant terrain feature in the hex; the hex is in the influence of one of your settlements.
 
 ---

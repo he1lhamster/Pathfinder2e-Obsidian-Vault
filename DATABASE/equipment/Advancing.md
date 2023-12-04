@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 size: null
@@ -53,20 +54,20 @@ weapon_type: null
 # Advancing<span class="item-type">Item 9+</span>
 
 <span class="item-trait">Magical</span><span class="item-trait">Necromancy</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Usage** etched onto heavy armor; **Bulk** —
 
 ---
 This rune charges up as you defeat your foes, driving you forward across the battlefield with every victory.
-**Activate** <span class="action-icon">4</span> command **Requirements** Your last action or activity reduced an enemy to 0 Hit Points; **Effect** You Stride up to 15 feet. This movement doesn't trigger reactions. You can [[Burrow]], [[Climb]], [[Fly]], or [[Swim]] instead of Striding if you have the corresponding movement type.
+**Activate** <span class="action-icon">4</span> command **Requirements** Your last action or activity reduced an enemy to 0 Hit Points; **Effect** You Stride up to 15 feet. This movement doesn't trigger reactions. You can [[DATABASE/action/Burrow|Burrow]], [[DATABASE/action/Climb|Climb]], [[DATABASE/action/Fly|Fly]], or [[DATABASE/action/Swim|Swim]] instead of Striding if you have the corresponding movement type.
 
 ## Advancing<span class="item-type">Item 9</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 625 gp
 
 ## Advancing (Greater)<span class="item-type">Item 16</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 8,000 gp
 You can Stride up to your Speed instead of 15 feet.

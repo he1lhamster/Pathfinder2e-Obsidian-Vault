@@ -64,20 +64,20 @@ wisdom: '+4'
 # Vanda
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 26
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 26
 **Unspecific Lore**: DC 24
 **Specific Lore**: DC 21
 
 # Vanda<span class="item-type">Creature 2</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CN</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Rusthenge]]
-CN female [[Human]] ex-cleric
+**Source** [[DATABASE/source/Rusthenge|Rusthenge]]
+CN female [[DATABASE/ancestry/Human|human]] ex-cleric
 **Perception** +8
-**Languages** [[Common]], [[Dwarven]]
-**Skills** [[Athletics]] +4, [[Crafting]] +4, [[Intimidation]] +7, [[Religion]] +8, [[Lore]] +4
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Dwarven|Dwarven]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +4, [[DATABASE/skill/Crafting|Crafting]] +4, [[DATABASE/skill/Intimidation|Intimidation]] +7, [[DATABASE/skill/Religion|Religion]] +8, [[DATABASE/skill/Lore|Warfare Lore]] +4
 **Str** +3, **Dex** +0, **Con** +2, **Int** +0, **Wis** +4, **Cha** +1
-**Items** _+1 [[Greatsword]]_, [[Full Plate]]
+**Items** _+1 [[DATABASE/weapon/Greatsword|greatsword]]_, [[DATABASE/armor/Full Plate|full plate]]
 
 ---
 **AC** 16; **Fort** +8, **Ref** +4, **Will** +10

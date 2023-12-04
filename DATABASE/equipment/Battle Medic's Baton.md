@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 size: null
@@ -53,10 +54,10 @@ weapon_type: null
 # Battle Medic's Baton<span class="item-type">Item 3</span>
 
 <span class="item-trait">Magical</span><span class="item-trait">Necromancy</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 60 gp
 **Usage** held in 1 hand; **Bulk** L
 
 ---
-This short bronze rod has the form of a serpent coiled around it. While you hold it, you gain a +1 item bonus to [[Medicine]] checks.
-**Activate** <span class="action-icon">2</span> command, Interact **Frequency** once per hour; **Requirements** You have the [[Battle Medicine]] action; **Effect** You use Battle Medicine. The target is temporarily immune to your Battle Medicine for 1 hour instead of 1 day.
+This short bronze rod has the form of a serpent coiled around it. While you hold it, you gain a +1 item bonus to [[DATABASE/skill/Medicine|Medicine]] checks.
+**Activate** <span class="action-icon">2</span> command, Interact **Frequency** once per hour; **Requirements** You have the [[DATABASE/feat/Battle Medicine|Battle Medicine]] action; **Effect** You use Battle Medicine. The target is temporarily immune to your Battle Medicine for 1 hour instead of 1 day.

@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Aggressive Block|Aggressive Block]] or [[DATABASE
   Shove|Brutish Shove]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Powerful Shove <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Fighter</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Aggressive Block]], or [[Brutish Shove]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/feat/Aggressive Block|Aggressive Block]], or [[DATABASE/feat/Brutish Shove|Brutish Shove]]
 
 ---
 You can push larger foes around with your attack. You can use Aggressive Block or Brutish Shove against a creature up to two sizes larger than you.
- When a creature you [[Shove]] has to stop moving because it would hit an object, it takes damage equal to your Strength modifier (minimum 1). This happens regardless of how you Shoved the creature.
+ When a creature you [[DATABASE/action/Shove|Shove]] has to stop moving because it would hit an object, it takes damage equal to your Strength modifier (minimum 1). This happens regardless of how you Shoved the creature.

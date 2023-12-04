@@ -12,6 +12,7 @@ prerequisite: null
 rarity: Common
 requirement: You have an unexpended spell slot you could use to Cast a Spell with
   the mental trait.
+rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -26,7 +27,7 @@ type: Feat
 # Counter Thought <span class="action-icon">5</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Occult</span><span class="item-trait">Psychic</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Trigger** A creature Casts a Spell with the mental trait.
 **Requirements** You have an unexpended spell slot you could use to Cast a Spell with the mental trait.
 

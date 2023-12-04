@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Dueling Parry (Swashbuckler)|Dueling Parry (Swash
 rarity: Common
 requirement: You are wielding only a single one-handed melee weapon and have your
   other hand or hands free.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,12 +26,12 @@ type: Feat
 # Dueling Dance (Swashbuckler) <span class="action-icon">1</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Stance</span><span class="item-trait">Swashbuckler</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** [[Dueling Parry (Swashbuckler)]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** [[DATABASE/feat/Dueling Parry (Swashbuckler)|Dueling Parry (Swashbuckler)]]
 **Requirements** You are wielding only a single one-handed melee weapon and have your other hand or hands free.
 
 ---
-Using your free hand as pivot and balance, you both attack and defend with your weapon. While you are in this stance, you constantly have the benefits of [[Dueling Parry (Swashbuckler)]].
+Using your free hand as pivot and balance, you both attack and defend with your weapon. While you are in this stance, you constantly have the benefits of [[DATABASE/feat/Dueling Parry (Swashbuckler)|Dueling Parry]].
 
 ## Traits
 

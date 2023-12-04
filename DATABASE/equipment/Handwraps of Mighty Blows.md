@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Handwraps of Mighty Blows<span class="item-type">Item 2+</span>
 
 <span class="item-trait">Invested</span><span class="item-trait">Magical</span><span class="item-trait">Transmutation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** worn gloves; **Bulk** —
 
 ---
@@ -64,30 +65,30 @@ As you invest these embroidered strips of cloth, you must meditate and slowly wr
 
 ## Handwraps of Mighty Blows (+1)<span class="item-type">Item 2</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 35 gp
 
 ## Handwraps of Mighty Blows (+1 Striking)<span class="item-type">Item 4</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 100 gp
 
 ## Handwraps of Mighty Blows (+2 Striking)<span class="item-type">Item 10</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 1,000 gp
 
 ## Handwraps of Mighty Blows (+2 Greater Striking)<span class="item-type">Item 12</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 2,000 gp
 
 ## Handwraps of Mighty Blows (+3 Greater Striking)<span class="item-type">Item 16</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 10,000 gp
 
 ## Handwraps of Mighty Blows (+3 Major Striking)<span class="item-type">Item 19</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 40,000 gp

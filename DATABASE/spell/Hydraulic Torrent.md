@@ -25,6 +25,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Fortitude
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -41,9 +42,9 @@ type: Spell
 # Hydraulic Torrent<span class="item-type">Spell 4</span>
 
 <span class="item-trait">Evocation</span><span class="item-trait">Water</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** primal
-**Deities** [[Hei Feng]], [[Jin Li]], [[Kelizandri]]
+**Deities** [[DATABASE/deity/Hei Feng|Hei Feng]], [[DATABASE/deity/Jin Li|Jin Li]], [[DATABASE/deity/Kelizandri|Kelizandri]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Area** 60-foot line
 **Saving Throw** Fortitude

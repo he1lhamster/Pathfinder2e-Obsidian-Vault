@@ -11,6 +11,7 @@ name: Mysterious Breadth
 prerequisite: '[[DATABASE/feat/Basic Oracle Spellcasting|Basic Oracle Spellcasting]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Mysterious Breadth <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Oracle]]
-**Prerequisites** [[Basic Oracle Spellcasting]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Oracle|Oracle]]
+**Prerequisites** [[DATABASE/feat/Basic Oracle Spellcasting|Basic Oracle Spellcasting]]
 
 ---
 Your repertoire expands, and you can cast more divine spells each day. Increase the number of spells in your repertoire and the number of spell slots you gain from oracle archetype feats by 1 for each spell level other than your two highest oracle spell slots.

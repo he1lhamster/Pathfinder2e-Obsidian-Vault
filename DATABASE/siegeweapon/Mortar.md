@@ -13,6 +13,7 @@ name: Mortar
 price: 720 gp
 rarity: Uncommon
 reflex: '+8'
+rus_type_level: null
 size: Medium
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
@@ -25,7 +26,7 @@ usage: mounted (black powder)
 # Mortar<span class="item-type">Item 7</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Mounted</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 720 gp; **Ammunition** mortar round (5 gp, 1 Bulk)
 
 ---

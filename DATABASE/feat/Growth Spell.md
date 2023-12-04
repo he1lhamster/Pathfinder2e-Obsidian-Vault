@@ -11,6 +11,7 @@ name: Growth Spell
 prerequisite: '[[DATABASE/feat/Elementalist Dedication|Elementalist Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Growth Spell <span class="action-icon">1</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Spellshape</span>
-**Source** [[Rage of Elements]]
-**Archetype** [[Elementalist]]
-**Prerequisites** [[Elementalist Dedication]]; wood is in your elemental philosophy
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
+**Archetype** [[DATABASE/archetype/Elementalist|Elementalist]]
+**Prerequisites** [[DATABASE/feat/Elementalist Dedication|Elementalist Dedication]]; wood is in your elemental philosophy
 
 ---
 You enhance your spell with elemental wood, causing your magic to expand and grow beyond its original limitations. If the next action you use this turn is to Cast a non-cantrip Spell that affects an area, expand the area of the spell. For bursts, expand the radius by 5 feet; for cones, expand the cone by 10 feet; and for lines, expand the length by 15 feet. The spell gains the wood trait.

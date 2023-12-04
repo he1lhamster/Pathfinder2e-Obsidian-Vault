@@ -10,6 +10,7 @@ level: '0'
 name: Klar
 price: 3 gp
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 speed_penalty: null
 trait:
@@ -20,7 +21,7 @@ type: Shield
 # Klar
 
 <span class="item-trait">Integrated 1d6 S (Versatile P)</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 3 gp; **AC Bonus** +1; **Speed Penalty** —
 **Bulk** 1; **Hardness** 3; **HP (BT)** 10 (5)
 
@@ -29,4 +30,4 @@ This traditional Shoanti armament combines a short metal blade with the skull of
 
 ## Specific Magic Shields
 
-[[Sanguine Klar]]
+[[DATABASE/equipment/Sanguine Klar|Sanguine Klar]]

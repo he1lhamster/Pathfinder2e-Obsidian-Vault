@@ -11,6 +11,7 @@ name: Directed Channel
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Directed Channel <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Cleric</span>
-**Source** [[Core Rulebook]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
-You can shape the energy you channel in a single direction, reaching farther and in a more directed fashion. When you cast a version of [[Harm]] or [[Heal]] that has an area, you can make its area a 60-foot cone instead of a 30-foot emanation.
+You can shape the energy you channel in a single direction, reaching farther and in a more directed fashion. When you cast a version of [[DATABASE/spell/Harm|harm]] or [[DATABASE/spell/Heal|heal]] that has an area, you can make its area a 60-foot cone instead of a 30-foot emanation.

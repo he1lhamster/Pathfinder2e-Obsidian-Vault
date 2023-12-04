@@ -11,6 +11,7 @@ name: Phalanx Breaker
 prerequisite: '[[DATABASE/gunslingerway/Way of the Vanguard|way of the vanguard]]'
 rarity: Common
 requirement: You're wielding a two-handed firearm or a two-handed crossbow.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Phalanx Breaker <span class="action-icon">2</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Gunslinger</span>
-**Source** [[Guns & Gears]]
-**Prerequisites** [[Way of the Vanguard]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Prerequisites** [[DATABASE/gunslingerway/Way of the Vanguard|way of the vanguard]]
 **Requirements** You're wielding a two-handed firearm or a two-handed crossbow.
 
 ---

@@ -11,6 +11,7 @@ name: Flowering Path
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -25,7 +26,7 @@ type: Feat
 # Flowering Path <span class="action-icon">2</span> <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Ardande</span><span class="item-trait">Plant</span><span class="item-trait">Primal</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Frequency** once per day
 
 ---
@@ -35,7 +36,7 @@ Vitality and elemental wood flows out from your body and into the earth, infusin
 
 **Ardande:**
 
-Ardandes are [[Planar Scion]] descended from [[Kizidhar]] and other beings of elemental wood.
+Ardandes are [[DATABASE/monsterfamily/Planar Scion|planar scions]] descended from [[DATABASE/monster/Kizidhar|kizidhar]] and other beings of elemental wood.
 
 **Plant:**
 

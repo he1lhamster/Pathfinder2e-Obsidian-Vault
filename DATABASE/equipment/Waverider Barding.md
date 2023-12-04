@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -56,7 +57,7 @@ weapon_type: null
 # Waverider Barding<span class="item-type">Item 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Companion</span><span class="item-trait">Invested</span><span class="item-trait">Primal</span><span class="item-trait">Transmutation</span>
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 130 gp
 **Usage** worn barding; **Bulk** L
 

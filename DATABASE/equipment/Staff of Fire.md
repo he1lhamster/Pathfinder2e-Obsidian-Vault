@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Staff of Fire<span class="item-type">Item 3+</span>
 
 <span class="item-trait">Evocation</span><span class="item-trait">Magical</span><span class="item-trait">Staff</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** held in 1 hand; **Bulk** —
 
 ---
@@ -64,27 +65,27 @@ This staff resembles a blackened and burned length of ashen wood. It smells fain
 
 ## Staff of Fire<span class="item-type">Item 3</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 60 gp
 **Bulk** 1
 
-* **Cantrip** [[Produce Flame]] 
-* **1st** [[Burning Hands]]
+* **Cantrip** [[DATABASE/spell/Produce Flame|produce flame]] 
+* **1st** [[DATABASE/spell/Burning Hands|burning hands]]
 
 ## Staff of Fire (Greater)<span class="item-type">Item 8</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 450 gp
 **Bulk** 1
 
-* **2nd** _burning hands_, [[Flaming Sphere]] 
-* **3rd** _flaming sphere_, [[Fireball]]
+* **2nd** _burning hands_, [[DATABASE/spell/Flaming Sphere|flaming sphere]] 
+* **3rd** _flaming sphere_, [[DATABASE/spell/Fireball|fireball]]
 
 ## Staff of Fire (Major)<span class="item-type">Item 12</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 1,800 gp
 **Bulk** 1
 
-* **4th** [[Fire Shield]], _fireball_, [[Wall of Fire]] 
+* **4th** [[DATABASE/spell/Fire Shield|fire shield]], _fireball_, [[DATABASE/spell/Wall of Fire|wall of fire]] 
 * **5th** _fireball_, _wall of fire_

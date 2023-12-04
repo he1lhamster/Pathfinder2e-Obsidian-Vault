@@ -108,17 +108,17 @@ Brass dragons are whimsical tricksters who delight in humor and play. They parti
  These carefree dragons value independence and feel that all creatures deserve to live as they please, provided they don’t harm others. They are emotional creatures and tend to have short attention spans, sometimes falling victim to depression in their twilight years. To combat this, some brass dragons keep pets and houseplants that they can care for.
  Though they may seem childlike in their curiosity concerning mortal affairs, a brass dragon’s prowess in battle is no laughing matter. A brass dragon whose territory or allies are threatened is a terrifying foe indeed, quick to shed their innocent guise and unleash their terrifying might upon evildoers.
  Most brass dragons live in desert climates, and while they keep their lairs hidden, they often build near humanoid settlements.
-**Recall Knowledge - Dragon ([[Arcana]])**: DC 28
+**Recall Knowledge - Dragon ([[DATABASE/skill/Arcana|Arcana]])**: DC 28
 **Unspecific Lore**: DC 26
 **Specific Lore**: DC 23
 
 # Adult Brass Dragon<span class="item-type">Creature 11</span>
 
 <span class="trait-alignment item-trait">CG</span><span class="trait-size item-trait">Large</span><span class="item-trait">Dragon</span><span class="item-trait">Fire</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +21; darkvision, scent (imprecise) 60 feet, tremorsense (imprecise) 30 feet
-**Languages** [[Auran]], [[Common]], [[Draconic]], [[Gnomish]], [[Halfling]], [[Sylvan]]; [[Speak with Animals]]
-**Skills** [[Acrobatics]] +20, [[Athletics]] +23, [[Deception]] +20, [[Diplomacy]] +20, [[Society]] +19
+**Languages** [[DATABASE/language/Auran|Auran]], [[DATABASE/language/Common|Common]], [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Gnomish|Gnomish]], [[DATABASE/language/Halfling|Halfling]], [[DATABASE/language/Sylvan|Sylvan]]; [[DATABASE/spell/Speak with Animals|speak with animals]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +20, [[DATABASE/skill/Athletics|Athletics]] +23, [[DATABASE/skill/Deception|Deception]] +20, [[DATABASE/skill/Diplomacy|Diplomacy]] +20, [[DATABASE/skill/Society|Society]] +19
 **Str** +6, **Dex** +3, **Con** +5, **Int** +2, **Wis** +4, **Cha** +3
 
 ---
@@ -128,13 +128,13 @@ Brass dragons are whimsical tricksters who delight in humor and play. They parti
 
 ---
 **Speed** 50 feet, burrow 30 feet, fly 120 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +24 [+19/+14] (fire, magical, reach 10 feet), **Damage** 2d10+12 piercing plus 2d6 fire</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +24 [+20/+16] (agile, magical), **Damage** 2d10+12 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> wing +22 [+17/+12] (magical, reach 10 feet), **Damage** 1d12+10 slashing</span>**Arcane Innate Spells** DC 30; **Constant** **(2nd)** _[[Speak with Animals]]_
-<span class="in-box-ability">**Breath Weapon ** <span class="action-icon">2</span> (arcane, evocation, fire) The brass dragon breathes fire in an 80-foot line that deals 12d6 fire damage (DC 32 basic Reflex save). The dragon can't use Breath Weapon again for 1d4 rounds.</span><span class="in-box-ability">**Desert Wind** <span class="action-icon">2</span> (air, arcane, concentrate, evocation) **Frequency** three times per day. **Effect** The dragon calls upon the desert wind. This has the same effect as [[Gust of Wind]] (DC 30 Fortitude) but in a 60-foot cone. A creature that fails its save is also blinded until the end of its next turn (or for 1 minute on a critical failure).</span><span class="in-box-ability">**Draconic Frenzy** <span class="action-icon">2</span> The dragon makes two claw Strikes and one jaws Strike in any order.</span><span class="in-box-ability">**Draconic Momentum** When the dragon scores a critical hit with a strike, it recharges Breath Weapon.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +24 [+19/+14] (fire, magical, reach 10 feet), **Damage** 2d10+12 piercing plus 2d6 fire</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +24 [+20/+16] (agile, magical), **Damage** 2d10+12 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> wing +22 [+17/+12] (magical, reach 10 feet), **Damage** 1d12+10 slashing</span>**Arcane Innate Spells** DC 30; **Constant** **(2nd)** _[[DATABASE/spell/Speak with Animals|speak with animals]]_
+<span class="in-box-ability">**Breath Weapon ** <span class="action-icon">2</span> (arcane, evocation, fire) The brass dragon breathes fire in an 80-foot line that deals 12d6 fire damage (DC 32 basic Reflex save). The dragon can't use Breath Weapon again for 1d4 rounds.</span><span class="in-box-ability">**Desert Wind** <span class="action-icon">2</span> (air, arcane, concentrate, evocation) **Frequency** three times per day. **Effect** The dragon calls upon the desert wind. This has the same effect as [[DATABASE/spell/Gust of Wind|gust of wind]] (DC 30 Fortitude) but in a 60-foot cone. A creature that fails its save is also blinded until the end of its next turn (or for 1 minute on a critical failure).</span><span class="in-box-ability">**Draconic Frenzy** <span class="action-icon">2</span> The dragon makes two claw Strikes and one jaws Strike in any order.</span><span class="in-box-ability">**Draconic Momentum** When the dragon scores a critical hit with a strike, it recharges Breath Weapon.</span>
 
 ###  Brass Dragon Spellcasters
 
 Brass dragon spellcasters tend to cast the following spells.
 **Young Brass Dragon**
-**Arcane Prepared Spells** DC 25, attack +18; **3rd** [[Earthbind]], [[Paralyze]]; **2nd** [[Humanoid Form]], [[Mirror Image]], [[Resist Energy]]; **1st** [[Alarm]], [[Sleep]], [[Ventriloquism]]; **Cantrips (3rd)** [[Dancing Lights]], [[Detect Magic]], [[Mage Hand]], [[Prestidigitation]], [[Read Aura]]
+**Arcane Prepared Spells** DC 25, attack +18; **3rd** [[DATABASE/spell/Earthbind|earthbind]], [[DATABASE/spell/Paralyze|paralyze]]; **2nd** [[DATABASE/spell/Humanoid Form|humanoid form]], [[DATABASE/spell/Mirror Image|mirror image]], [[DATABASE/spell/Resist Energy|resist energy]]; **1st** [[DATABASE/spell/Alarm|alarm]], [[DATABASE/spell/Sleep|sleep]], [[DATABASE/spell/Ventriloquism|ventriloquism]]; **Cantrips (3rd)** [[DATABASE/spell/Dancing Lights|dancing lights]], [[DATABASE/spell/Detect Magic|detect magic]], [[DATABASE/spell/Mage Hand|mage hand]], [[DATABASE/spell/Prestidigitation|prestidigitation]], [[DATABASE/spell/Read Aura|read aura]]
 **Adult Brass Dragon**
-**Arcane Prepared Spells** DC 30, attack +24; As young brass dragon, plus **5th** [[Hallucination]], [[Tongues]]; **4th** [[Confusion]], [[Dimensional Anchor]], [[Dimension Door]]; **3rd** [[Locate]]; **Cantrips (5th)** [[Dancing Lights]], [[Detect Magic]], [[Mage Hand]], [[Prestidigitation]], [[Read Aura]]
+**Arcane Prepared Spells** DC 30, attack +24; As young brass dragon, plus **5th** [[DATABASE/spell/Hallucination|hallucination]], [[DATABASE/spell/Tongues|tongues]]; **4th** [[DATABASE/spell/Confusion|confusion]], [[DATABASE/spell/Dimensional Anchor|dimensional anchor]], [[DATABASE/spell/Dimension Door|dimension door]]; **3rd** [[DATABASE/spell/Locate|locate]]; **Cantrips (5th)** [[DATABASE/spell/Dancing Lights|dancing lights]], [[DATABASE/spell/Detect Magic|detect magic]], [[DATABASE/spell/Mage Hand|mage hand]], [[DATABASE/spell/Prestidigitation|prestidigitation]], [[DATABASE/spell/Read Aura|read aura]]

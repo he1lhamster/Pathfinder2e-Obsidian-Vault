@@ -69,22 +69,22 @@ wisdom: '+0'
 ---
 # Unseen Servant
 
-This creature can be summoned with the spell _[[Unseen Servant]]_.
+This creature can be summoned with the spell _[[DATABASE/spell/Unseen Servant|Unseen Servant]]_.
 
 # Unseen Servant<span class="item-type">Creature -1</span>
 
 <span class="item-trait">No Alignment</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Mindless</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Perception** +0; darkvision
 **Languages** - (understands its creator)
-**Skills** [[Stealth]] +8
+**Skills** [[DATABASE/skill/Stealth|Stealth]] +8
 **Str** -4, **Dex** +2, **Con** +0, **Int** -5, **Wis** +0, **Cha** +0
 **Invisible** An unseen servant is invisible, though it normally doesn’t Sneak, so it is usually only hidden.
 
 ---
 **AC** 13; **Fort** +0, **Ref** +4, **Will** +0
-**HP** 4; **Immunities** disease, mental, non-magical attacks, [[Paralyzed]], poison, precision, [[Unconscious]]
-; **Resistances** all damage 5 (except force or [[Ghost Touch]])
+**HP** 4; **Immunities** disease, mental, non-magical attacks, [[DATABASE/condition/Paralyzed|paralysis]], poison, precision, [[DATABASE/condition/Unconscious|unconscious]]
+; **Resistances** all damage 5 (except force or [[DATABASE/equipment/Ghost Touch|ghost touch]])
 
 ---
 **Speed** fly 30 feet

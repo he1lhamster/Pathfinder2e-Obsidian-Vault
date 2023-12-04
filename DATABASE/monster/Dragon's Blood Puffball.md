@@ -72,22 +72,22 @@ wisdom: '+0'
 # Dragon's Blood Puffball
 
 This bulbous, deep red fungus looks like an enormous, decaying rose.
-**Recall Knowledge - Fungus ([[Nature]])**: DC 26
+**Recall Knowledge - Fungus ([[DATABASE/skill/Nature|Nature]])**: DC 26
 **Unspecific Lore**: DC 24
 **Specific Lore**: DC 21
 
 # Dragon's Blood Puffball<span class="item-type">Creature 8</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Fungus</span><span class="item-trait">Mindless</span>
-**Source** [[Pathfinder 165. Eyes of Empty Death]]
+**Source** [[DATABASE/source/Pathfinder 165. Eyes of Empty Death|Pathfinder #165: Eyes of Empty Death]]
 **Perception** +12; motion sense 60 feet, no vision
-**Skills** [[Stealth]] +14
+**Skills** [[DATABASE/skill/Stealth|Stealth]] +14
 **Str** +6, **Dex** +1, **Con** +4, **Int** -5, **Wis** +0, **Cha** -2
 **Motion Sense** The puffball senses motion through vibration and air movement.
 
 ---
 **AC** 24; **Fort** +20, **Ref** +15, **Will** +12
-**HP** 170; **Immunities** bleed, [[Fatigued]], mental, poison, sleep, [[Unconscious]]; **Weaknesses** piercing 10
+**HP** 170; **Immunities** bleed, [[DATABASE/condition/Fatigued|fatigued]], mental, poison, sleep, [[DATABASE/condition/Unconscious|unconscious]]; **Weaknesses** piercing 10
 <span class="in-box-ability">**Spore Explosion** When the dragon's blood puffball dies, it explodes, dealing 7d8 poison damage to each creature in a 20-foot emanation (DC 26 basic Fortitude save).</span>
 
 ---

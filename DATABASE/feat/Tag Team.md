@@ -11,6 +11,7 @@ name: Tag Team
 prerequisite: '[[DATABASE/feat/Sniping Duo Dedication|Sniping Duo Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Tag Team <span class="action-icon">5</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Guns & Gears]]
-**Archetype** [[Sniping Duo]]
-**Prerequisites** [[Sniping Duo Dedication]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Archetype** [[DATABASE/archetype/Sniping Duo|Sniping Duo]]
+**Prerequisites** [[DATABASE/feat/Sniping Duo Dedication|Sniping Duo Dedication]]
 **Trigger** You or your spotter misses with a Strike against a creature, and the creature is within the other's melee reach or first range increment.
 
 ---

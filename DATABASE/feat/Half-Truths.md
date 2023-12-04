@@ -11,6 +11,7 @@ name: Half-Truths
 prerequisite: Expert in [[DATABASE/skill/Deception|Deception]] ; Expert in [[DATABASE/skill/Diplomacy|Diplomacy]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
 subcategory: deception
@@ -24,11 +25,11 @@ type: Feat
 # Half-Truths <span class="item-type">Feat 2</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Firebrands]]
-**Prerequisites** expert in [[Deception]] and [[Diplomacy]]
+**Source** [[DATABASE/source/Firebrands|Firebrands]]
+**Prerequisites** expert in [[DATABASE/skill/Deception|Deception]] and [[DATABASE/skill/Diplomacy|Diplomacy]]
 
 ---
-You are able to weave your words in such a way that you never use actual lies, but still mislead people to certain conclusions. You can attempt to make a [[Request]] of a creature using Deception instead of Diplomacy. You can attempt to [[Lie]] to a creature using [[Diplomacy]] instead of Deception. If you fail your check to Lie, the creature realizes that you were twisting words to fool them without outright lying.
+You are able to weave your words in such a way that you never use actual lies, but still mislead people to certain conclusions. You can attempt to make a [[DATABASE/action/Request|Request]] of a creature using Deception instead of Diplomacy. You can attempt to [[DATABASE/action/Lie|Lie]] to a creature using [[DATABASE/skill/Diplomacy|Diplomacy]] instead of Deception. If you fail your check to Lie, the creature realizes that you were twisting words to fool them without outright lying.
 
 ## Traits
 

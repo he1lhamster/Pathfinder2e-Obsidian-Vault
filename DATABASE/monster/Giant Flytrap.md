@@ -70,16 +70,16 @@ wisdom: '+3'
 # Giant Flytrap
 
 Because they blend in so well with surrounding foliage, giant flytraps can use the element of surprise to make quick strikes against unsuspecting adventurers and forest travelers.
-**Recall Knowledge - Plant ([[Nature]])**: DC 27
+**Recall Knowledge - Plant ([[DATABASE/skill/Nature|Nature]])**: DC 27
 **Unspecific Lore**: DC 25
 **Specific Lore**: DC 22
 
 # Giant Flytrap<span class="item-type">Creature 10</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Huge</span><span class="item-trait">Mindless</span><span class="item-trait">Plant</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +17; tremorsense (imprecise) 60 feet
-**Skills** [[Athletics]] +23, [[Stealth]] +21 (+24 in undergrowth)
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +23, [[DATABASE/skill/Stealth|Stealth]] +21 (+24 in undergrowth)
 **Str** +7, **Dex** +5, **Con** +5, **Int** -5, **Wis** +3, **Cha** -2
 
 ---
@@ -89,7 +89,7 @@ Because they blend in so well with surrounding foliage, giant flytraps can use t
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> leaf +23 [+18/+13] (reach 15 feet), **Damage** 2d8+7 piercing plus 2d6 acid and Improved Grab</span><span class="in-box-ability">**Focused Assault** <span class="action-icon">2</span> The flytrap attacks a single target with all four of its leaves. The flytrap makes one leaf Strike. On a success, the flytrap deals the damage from one leaf Strike plus an additional 1d8 damage for every leaf beyond the first. On a failure, the flytrap deals the damage from one leaf Strike, but it can’t use Improved Grab. It deals no damage on a critical failure. This counts toward the flytrap’s multiple attack penalty as a number of attacks equal to the number of leaves the flytrap has.</span><span class="in-box-ability">**Hungry Flurry** <span class="action-icon">2</span> The flytrap makes four leaf Strikes at a –2 penalty, each against a different target. These attacks count toward the flytrap’s multiple attack penalty, but the multiple attack penalty doesn’t increase until after it makes all its attacks.</span><span class="in-box-ability">**[[Swallow Whole]]** <span class="action-icon">1</span> (attack) Large, 2d8+3 bludgeoning plus 2d6 acid, Rupture 17</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> leaf +23 [+18/+13] (reach 15 feet), **Damage** 2d8+7 piercing plus 2d6 acid and Improved Grab</span><span class="in-box-ability">**Focused Assault** <span class="action-icon">2</span> The flytrap attacks a single target with all four of its leaves. The flytrap makes one leaf Strike. On a success, the flytrap deals the damage from one leaf Strike plus an additional 1d8 damage for every leaf beyond the first. On a failure, the flytrap deals the damage from one leaf Strike, but it can’t use Improved Grab. It deals no damage on a critical failure. This counts toward the flytrap’s multiple attack penalty as a number of attacks equal to the number of leaves the flytrap has.</span><span class="in-box-ability">**Hungry Flurry** <span class="action-icon">2</span> The flytrap makes four leaf Strikes at a –2 penalty, each against a different target. These attacks count toward the flytrap’s multiple attack penalty, but the multiple attack penalty doesn’t increase until after it makes all its attacks.</span><span class="in-box-ability">**[[DATABASE/monsterability/Swallow Whole|Swallow Whole]]** <span class="action-icon">1</span> (attack) Large, 2d8+3 bludgeoning plus 2d6 acid, Rupture 17</span>
 
 ###  Flytrap Treasure
 

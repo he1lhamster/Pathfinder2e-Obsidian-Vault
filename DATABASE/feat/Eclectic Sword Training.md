@@ -11,6 +11,7 @@ name: Eclectic Sword Training
 prerequisite: '[[DATABASE/feat/Tengu Weapon Familiarity|Tengu Weapon Familiarity]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,15 +24,15 @@ type: Feat
 # Eclectic Sword Training <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Tengu</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** [[Tengu Weapon Familiarity]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** [[DATABASE/feat/Tengu Weapon Familiarity|Tengu Weapon Familiarity]]
 
 ---
 You were always taught that you needed to be able to use whatever weapon came your way. You can change any of the swords designated in your Tengu Weapon Familiarity to different swords that meet the same specifications. You have to practice with a sword during your daily preparations to designate it, and the designation only lasts until your next daily preparations. This changes only your proficiency; it doesn't change your access.
 
 ## Eclectic Sword Training Leads To...
 
-[[Eclectic Sword Mastery]]
+[[DATABASE/feat/Eclectic Sword Mastery|Eclectic Sword Mastery]]
 
 ## Traits
 

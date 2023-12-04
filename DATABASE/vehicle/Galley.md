@@ -16,6 +16,7 @@ price: 3,000 gp
 rarity: Common
 reflex: null
 resistance: null
+rus_type_level: null
 school: null
 size: Gargantuan
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
@@ -27,13 +28,13 @@ type: Vehicle
 # Galley<span class="item-type">Vehicle 10</span>
 
 <span class="trait-size item-trait">Gargantuan</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Price** 3,000 gp
 
 ---
 **Space** 130 feet long, 20 feet wide, 25 feet high
 **Crew** 1 pilot, 20 rowers; **Passengers** 6
-**Piloting Check** [[Lore]] (DC 27), [[Diplomacy]] (DC 29), or [[Intimidation]] (DC 29)
+**Piloting Check** [[DATABASE/skill/Lore|Sailing Lore]] (DC 27), [[DATABASE/skill/Diplomacy|Diplomacy]] (DC 29), or [[DATABASE/skill/Intimidation|Intimidation]] (DC 29)
 
 ---
 **AC** 25; **Fort** +19

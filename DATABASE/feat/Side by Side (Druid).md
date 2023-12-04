@@ -11,6 +11,7 @@ name: Side by Side (Druid)
 prerequisite: '[[DATABASE/feat/Animal Companion|Animal Companion]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Side by Side (Druid) <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Druid</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Beastmaster]]*
-**Prerequisites** [[Animal Companion]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Beastmaster|Beastmaster]]*
+**Prerequisites** [[DATABASE/feat/Animal Companion|Animal Companion]]
 * This archetype offers Side by Side (Druid) at a different level than displayed here.
 
 ---

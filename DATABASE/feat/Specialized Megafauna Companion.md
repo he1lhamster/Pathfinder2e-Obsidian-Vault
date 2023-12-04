@@ -11,6 +11,7 @@ name: Specialized Megafauna Companion
 prerequisite: '[[DATABASE/feat/Mammoth Lord Dedication|Mammoth Lord Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burning
   Tundra]]'
@@ -24,9 +25,9 @@ type: Feat
 # Specialized Megafauna Companion <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Pathfinder 177. Burning Tundra]]
-**Archetype** [[Mammoth Lord]]
-**Prerequisites** [[Mammoth Lord Dedication]]
+**Source** [[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burning Tundra]]
+**Archetype** [[DATABASE/archetype/Mammoth Lord|Mammoth Lord]]
+**Prerequisites** [[DATABASE/feat/Mammoth Lord Dedication|Mammoth Lord Dedication]]
 
 ---
 You've trained your mammoth or other megafauna companion to perform in unusual or extreme situations, granting it abilities far beyond others of its kind. Your megafauna gains your choice of the bully, racer, tracker, or wrecker specialization.

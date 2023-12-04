@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 size: null
@@ -57,10 +58,10 @@ weapon_type: null
 # Ambrosia of Undying Hope<span class="item-type">Item 19</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Elixir</span><span class="item-trait">Necromancy</span>
-**Source** [[Pathfinder 156. The Apocalypse Prophet]]
+**Source** [[DATABASE/source/Pathfinder 156. The Apocalypse Prophet|Pathfinder #156: The Apocalypse Prophet]]
 **Price** 6,200 gp
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
 ---
-This elixir is usually stored in a small metal flask or miniature stein. The dark liquid sparkles as if it were full of stars and is considered sacred to [[Cayden Cailean]] and to the cults of the Failed in Absalom. The next time you would die from damage within 8 hours after you drink the ambrosia, it prevents you from dying, you regain 20 Hit Points, the elixir's benefits end, and you become temporarily immune to the _ambrosia of undying hope_ for 24 hours. The ambrosia can't protect you from death effects or disintegration, but it can protect against almost any other form of death via damage. You can only be under the effect of a single _ambrosia of undying hope_ at a time.
+This elixir is usually stored in a small metal flask or miniature stein. The dark liquid sparkles as if it were full of stars and is considered sacred to [[DATABASE/deity/Cayden Cailean|Cayden Cailean]] and to the cults of the Failed in Absalom. The next time you would die from damage within 8 hours after you drink the ambrosia, it prevents you from dying, you regain 20 Hit Points, the elixir's benefits end, and you become temporarily immune to the _ambrosia of undying hope_ for 24 hours. The ambrosia can't protect you from death effects or disintegration, but it can protect against almost any other form of death via damage. You can only be under the effect of a single _ambrosia of undying hope_ at a time.

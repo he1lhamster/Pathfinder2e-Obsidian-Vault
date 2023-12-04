@@ -78,17 +78,17 @@ wisdom: '+2'
 # Warg
 
 Wargs hunt in packs and surround their prey like common wolves, but their cunning and penchant for taunting victims makes them easy to distinguish from their less-intelligent cousins. But despite their intelligence, wargs have simple desires for food and shelter, making them easy for evil humanoids such as orcs and hobgoblins to recruit to protect their camps or join them in battle. Most wargs are amenable to this arrangement, but if food should run out, wargs are more than willing to integrate goblinoid flesh into their diet.
-**Recall Knowledge - Beast ([[Arcana]], [[Nature]])**: DC 16
+**Recall Knowledge - Beast ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
 # Warg<span class="item-type">Creature 2</span>
 
 <span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Beast</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +8; darkvision, scent (imprecise) 30 feet
-**Languages** [[Common]], [[Goblin]], [[Orcish]]
-**Skills** [[Acrobatics]] +7, [[Athletics]] +8, [[Deception]] +6, [[Intimidation]] +6, [[Stealth]] +7, [[Survival]] +8
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Goblin|Goblin]], [[DATABASE/language/Orcish|Orcish]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +7, [[DATABASE/skill/Athletics|Athletics]] +8, [[DATABASE/skill/Deception|Deception]] +6, [[DATABASE/skill/Intimidation|Intimidation]] +6, [[DATABASE/skill/Stealth|Stealth]] +7, [[DATABASE/skill/Survival|Survival]] +8
 **Str** +4, **Dex** +3, **Con** +3, **Int** -1, **Wis** +2, **Cha** +2
 
 ---
@@ -98,4 +98,4 @@ Wargs hunt in packs and surround their prey like common wolves, but their cunnin
 
 ---
 **Speed** 40 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +11 [+6/+1], **Damage** 1d8+4 piercing plus Grab</span><span class="in-box-ability">**Pack Attack** The warg’s Strikes deal 1d4 extra damage to creatures within the reach of at least two of the warg’s allies.</span><span class="in-box-ability">**[[Swallow Whole]]** <span class="action-icon">1</span> (attack) Small, 1d6+2 bludgeoning, Rupture 9</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +11 [+6/+1], **Damage** 1d8+4 piercing plus Grab</span><span class="in-box-ability">**Pack Attack** The warg’s Strikes deal 1d4 extra damage to creatures within the reach of at least two of the warg’s allies.</span><span class="in-box-ability">**[[DATABASE/monsterability/Swallow Whole|Swallow Whole]]** <span class="action-icon">1</span> (attack) Small, 1d6+2 bludgeoning, Rupture 9</span>

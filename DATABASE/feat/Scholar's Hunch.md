@@ -11,6 +11,7 @@ name: Scholar's Hunch
 prerequisite: '[[DATABASE/feat/Oatia Skysage Dedication|Oatia Skysage Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh
   Arch]]'
@@ -27,11 +28,11 @@ type: Feat
 # Scholar's Hunch <span class="action-icon">5</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Fortune</span><span class="item-trait">Occult</span>
-**Source** [[Pathfinder 187. The Seventh Arch]]
-**Archetype** [[Oatia Skysage]]
+**Source** [[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh Arch]]
+**Archetype** [[DATABASE/archetype/Oatia Skysage|Oatia Skysage]]
 **Frequency** once per hour
-**Prerequisites** [[Oatia Skysage Dedication]]
-**Trigger** You fail a [[Lore]] or [[Occultism]] skill check.
+**Prerequisites** [[DATABASE/feat/Oatia Skysage Dedication|Oatia Skysage Dedication]]
+**Trigger** You fail a [[DATABASE/skill/Lore|Lore]] or [[DATABASE/skill/Occultism|Occultism]] skill check.
 
 ---
 Scholarly debates have taught you to think on your feet. Reroll the failed check and use the new result.

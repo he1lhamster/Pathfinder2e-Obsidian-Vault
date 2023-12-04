@@ -3,6 +3,7 @@ creature_family: Shanrigol
 id: '214'
 name: Shanrigol
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 164. Hands of the Devil|Pathfinder #164: Hands
   of the Devil]]'
 trait: null
@@ -11,12 +12,12 @@ type: Creature Family
 ---
 # Shanrigol
 
-**Source** [[Pathfinder 164. Hands of the Devil]]
+**Source** [[DATABASE/source/Pathfinder 164. Hands of the Devil|Pathfinder #164: Hands of the Devil]]
 Fleshwarpers, regardless of their origin or training, create a shocking amount of waste. When the discarded remnants of aberrant flesh are heaped together with an accidental mixture of alchemical compounds or odious energy, the mass can quicken and regain life. Without the guidance of a fleshwarper, these aberrant body parts form into a shanrigol, a mess of bone, muscle, and sinew.
 
 ### Members
 
-[[Shanrigol Behemoth]] (Creature 9), [[Shanrigol Heap]] (Creature 4)
+[[DATABASE/monster/Shanrigol Behemoth|Shanrigol Behemoth]] (Creature 9), [[DATABASE/monster/Shanrigol Heap|Shanrigol Heap]] (Creature 4)
 
 ###  Shanrigol Components
 

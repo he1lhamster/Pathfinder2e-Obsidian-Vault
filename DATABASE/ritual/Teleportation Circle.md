@@ -13,6 +13,7 @@ primary_check: '[[DATABASE/skill/Arcana|Arcana]] or [[DATABASE/skill/Occultism|O
 range: 20 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: Conjuration
 secondary_casters: '2'
 secondary_check: '[[DATABASE/skill/Crafting|Crafting]] , [[DATABASE/skill/Survival|Survival]]'
@@ -28,9 +29,9 @@ type: Ritual
 # Teleportation Circle<span class="item-type">Ritual 7</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Conjuration</span><span class="item-trait">Teleportation</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Cast** 1 day; **Cost** rare incense, precious metals, and purified chalk worth 500 gp; **Secondary Casters** 2
-**Primary Check** [[Arcana]] or [[Occultism]] (master); **Secondary Checks** [[Crafting]], [[Survival]]
+**Primary Check** [[DATABASE/skill/Arcana|Arcana]] or [[DATABASE/skill/Occultism|Occultism]] (master); **Secondary Checks** [[DATABASE/skill/Crafting|Crafting]], [[DATABASE/skill/Survival|Survival]]
 **Range** 20 feet
 **Duration** 1 day
 

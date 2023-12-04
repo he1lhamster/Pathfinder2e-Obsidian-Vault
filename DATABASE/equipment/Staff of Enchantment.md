@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -52,7 +53,7 @@ weapon_type: null
 # Staff of Enchantment<span class="item-type">Item 6+</span>
 
 <span class="item-trait">Enchantment</span><span class="item-trait">Magical</span><span class="item-trait">Staff</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** held in 1 hand; **Bulk** —
 
 ---
@@ -62,29 +63,29 @@ A mesmerizing gemstone caps the head of this handsomely crafted wooden staff. Wh
 
 ## Staff of Enchantment<span class="item-type">Item 6</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 230 gp
 **Bulk** 1
 
-* **Cantrip** [[Daze]] 
-* **1st** [[Charm]], [[Command]] 
-* **2nd** [[Hideous Laughter]], [[Touch of Idiocy]]
+* **Cantrip** [[DATABASE/spell/Daze|daze]] 
+* **1st** [[DATABASE/spell/Charm|charm]], [[DATABASE/spell/Command|command]] 
+* **2nd** [[DATABASE/spell/Hideous Laughter|hideous laughter]], [[DATABASE/spell/Touch of Idiocy|touch of idiocy]]
 
 ## Staff of Enchantment (Greater)<span class="item-type">Item 10</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 900 gp
 **Bulk** 1
 
-* **3rd** [[Paralyze]] 
-* **4th** _charm_, [[Confusion]], [[Suggestion]]
+* **3rd** [[DATABASE/spell/Paralyze|paralyze]] 
+* **4th** _charm_, [[DATABASE/spell/Confusion|confusion]], [[DATABASE/spell/Suggestion|suggestion]]
 
 ## Staff of Enchantment (Major)<span class="item-type">Item 14</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 4,000 gp
 **Bulk** 1
 
-* **5th** _command_, [[Crushing Despair]] 
-* **6th** [[Dominate]], [[Feeblemind]]
+* **5th** _command_, [[DATABASE/spell/Crushing Despair|crushing despair]] 
+* **6th** [[DATABASE/spell/Dominate|dominate]], [[DATABASE/spell/Feeblemind|feeblemind]]

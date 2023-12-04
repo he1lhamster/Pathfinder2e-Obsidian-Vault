@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: basicReflex
 school: Evocation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -38,13 +39,13 @@ type: Focus
 # Eidolon's Wrath<span class="item-type">Focus 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Eidolon</span><span class="item-trait">Evocation</span><span class="item-trait">Summoner</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Area** 20-foot emanation around your eidolon
 **Saving Throw** basic Reflex
 
 ---
-Your eidolon releases a powerful energy attack that deals 5d6 damage of the type you chose when you took the [[Eidolon's Wrath]] feat, with a basic Reflex save.
+Your eidolon releases a powerful energy attack that deals 5d6 damage of the type you chose when you took the [[DATABASE/feat/Eidolon's Wrath|Eidolon's Wrath]] feat, with a basic Reflex save.
 
 ---
 **Heightened (+1)** The damage increases by 2d6.

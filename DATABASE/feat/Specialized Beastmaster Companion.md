@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Incredible Beastmaster Companion|Incredible Beast
   Companion]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Specialized Beastmaster Companion <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetypes** [[Beastmaster]], [[Undead Master]]
-**Prerequisites** [[Incredible Beastmaster Companion]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetypes** [[DATABASE/archetype/Beastmaster|Beastmaster]], [[DATABASE/archetype/Undead Master|Undead Master]]
+**Prerequisites** [[DATABASE/feat/Incredible Beastmaster Companion|Incredible Beastmaster Companion]]
 
 ---
 Your nimble and savage animal companions become cunning enough to become specialized. Each companion gains one specialization of your choice (choose separately).

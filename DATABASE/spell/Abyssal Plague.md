@@ -21,6 +21,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Fortitude
 school: Necromancy
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -40,9 +41,9 @@ type: Spell
 # Abyssal Plague<span class="item-type">Spell 5</span>
 
 <span class="item-trait">Chaotic</span><span class="item-trait">Disease</span><span class="item-trait">Evil</span><span class="item-trait">Necromancy</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** divine, occult
-**Bloodline** [[Demonic]]
+**Bloodline** [[DATABASE/sorcererbloodline/Demonic|demonic]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** touch; **Targets** 1 creature
 **Saving Throw** Fortitude

@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/action/Arcane Cascade|Arcane Cascade]] , [[DATABASE/ma
   Iron|inexorable iron hybrid study]] , [[DATABASE/action/Spellstrike|Spellstrike]]'
 rarity: Common
 requirement: You are in Arcane Cascade stance and your Spellstrike is charged.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Devastating Spellstrike <span class="action-icon">2</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Magus</span>
-**Source** [[Secrets of Magic]] 
-**Prerequisites** [[Arcane Cascade]], [[Inexorable Iron]], [[Spellstrike]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
+**Prerequisites** [[DATABASE/action/Arcane Cascade|Arcane Cascade]], [[DATABASE/magushybridstudy/Inexorable Iron|inexorable iron hybrid study]], [[DATABASE/action/Spellstrike|Spellstrike]]
 **Requirements** You are in Arcane Cascade stance and your Spellstrike is charged.
 
 ---

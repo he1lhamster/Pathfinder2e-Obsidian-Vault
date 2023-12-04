@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Fortune's Coin<span class="item-type">Item 8+</span>
 
 <span class="item-trait">Divination</span><span class="item-trait">Fortune</span><span class="item-trait">Magical</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Usage** held in 1 hand; **Bulk** —
 
 ---
@@ -63,11 +64,11 @@ This coin is struck with the image of a beatific seraph in gold on one side and 
 
 ## Fortune's Coin<span class="item-type">Item 8</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 450 gp
 
 ## Fortune's Coin (Platinum)<span class="item-type">Item 14</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 4,000 gp
 This coin is platinum instead of gold. The seraph side grants you a 14 instead of a 12.

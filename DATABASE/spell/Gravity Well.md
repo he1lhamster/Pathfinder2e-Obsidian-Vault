@@ -23,6 +23,7 @@ patron_theme: null
 range: 120 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Reflex
 school: Evocation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -39,9 +40,9 @@ type: Spell
 # Gravity Well<span class="item-type">Spell 3</span>
 
 <span class="item-trait">Evocation</span>
-**Source** [[Secrets of Magic]] , [[Gods & Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] , [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Traditions** arcane, occult
-**Deities** [[Otolmens]], [[The Path of the Heavens]]
+**Deities** [[DATABASE/deity/Otolmens|Otolmens]], [[DATABASE/deity/The Path of the Heavens|The Path of the Heavens]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 120 feet; **Area** 30-foot-radius burst
 **Saving Throw** Reflex

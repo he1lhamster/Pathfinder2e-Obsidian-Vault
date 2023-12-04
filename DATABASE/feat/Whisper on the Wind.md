@@ -11,6 +11,7 @@ name: Whisper on the Wind
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Illusion
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -29,14 +30,14 @@ type: Feat
 # Whisper on the Wind <span class="action-icon">1</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Air</span><span class="item-trait">Auditory</span><span class="item-trait">Illusion</span><span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Linguistic</span><span class="item-trait">Primal</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
-You speak in a whisper, a soft wind carrying your words far away. This has the effect of the [[Message]] spell with a range of 500 feet, and it can target only a creature surrounded by air. If you start your message with the target's name, you and the target don't need to be able to see each other, nor do you need line of effect.
+You speak in a whisper, a soft wind carrying your words far away. This has the effect of the [[DATABASE/spell/Message|message]] spell with a range of 500 feet, and it can target only a creature surrounded by air. If you start your message with the target's name, you and the target don't need to be able to see each other, nor do you need line of effect.
 
 ---
 **Level (4th)** The range is 1 mile.
-**Level (14th)** The range is planetary plus the [[Plane of Air]].
+**Level (14th)** The range is planetary plus the [[DATABASE/plane/Plane of Air|Plane of Air]].
 
 ## Traits
 
@@ -46,7 +47,7 @@ Effects with the air trait either manipulate or conjure air. Those that manipula
 
 **Auditory:**
 
-Auditory actions and effects rely on sound. An action with the auditory trait can be successfully performed only if the creature using the action can speak or otherwise produce the required sounds. A spell or effect with the auditory trait has its effect only if the target can hear it. This applies only to sound-based parts of the effect, as determined by the GM. This is different from a sonic effect, which still affects targets who can't hear it (such as [[Deafened]] targets) as long as the effect itself makes sound.
+Auditory actions and effects rely on sound. An action with the auditory trait can be successfully performed only if the creature using the action can speak or otherwise produce the required sounds. A spell or effect with the auditory trait has its effect only if the target can hear it. This applies only to sound-based parts of the effect, as determined by the GM. This is different from a sonic effect, which still affects targets who can't hear it (such as [[DATABASE/condition/Deafened|deaf]] targets) as long as the effect itself makes sound.
 
 **Illusion:**
 

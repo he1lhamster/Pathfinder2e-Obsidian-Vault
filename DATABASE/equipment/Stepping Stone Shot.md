@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Stepping Stone Shot<span class="item-type">Item 7+</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Consumable</span><span class="item-trait">Magical</span><span class="item-trait">Transmutation</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Ammunition** round; **Bulk** —
 **Activate** <span class="action-icon">1</span> envision, Interact
 
@@ -64,12 +65,12 @@ A series of small stone discs pressed into a single round make up this ammunitio
 
 ## Stepping Stone Shot<span class="item-type">Item 7</span>
 
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 65 gp
 The stones reach up to 100 feet, and they last up to the end of your next turn if no one collapses them.
 
 ## Stepping Stone Shot (Greater)<span class="item-type">Item 10</span>
 
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 185 gp
 The stones reach up to 250 feet, and they last up to 1 minute if no one collapses them.

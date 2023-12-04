@@ -98,17 +98,17 @@ wisdom: '+3'
 
 Frost drakes pose an immense danger in the frozen reaches they call home, where they roam far and wide to hunt for prey such as caribou, wolves, small bears, and tundra-dwelling people. Related as they are to white dragons, these drakes share many habits and facets of their disposition with their draconic cousins. Indeed, just as white dragons are among the most bestial and craven of dragonkind, frost drakes are among the most depraved and openly malicious of the drakes. They are also especially insolent, and are less likely to back down from a flight compared to other drakes. Many frost drakes have met their ends trying to enact cruelties beyond their means, such as singly taking on an entire castle or well-fortified township. Although a frost drake can wreak much destruction on its own, tales of village-dwelling northerners banding together to defend their homes from these rogue menaces are fairly common.
  A frost drake’s hunting grounds are quite large. Those frost drakes that live upon the permanently frozen peaks of high mountains have been known to swoop down to snatch up prey from the lowlands, leaving frozen swaths of earth from their breath as the only sign of their passing. Their frost-covered scales range from deep royal blue to crisp cyan and sometimes feature sporadic patches of violet. Their hides are thinner than most drakes’; when a frost drake is inhaling in preparation to launch its signature frozen breath, the monster’s ice-blue blood can be seen beneath its scales.
-**Recall Knowledge - Dragon ([[Arcana]])**: DC 23
+**Recall Knowledge - Dragon ([[DATABASE/skill/Arcana|Arcana]])**: DC 23
 **Unspecific Lore**: DC 21
 **Specific Lore**: DC 18
 
 # Frost Drake<span class="item-type">Creature 7</span>
 
 <span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Cold</span><span class="item-trait">Dragon</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +14; darkvision, scent (imprecise) 30 feet, snow vision
-**Languages** [[Draconic]]
-**Skills** [[Acrobatics]] +15, [[Athletics]] +17, [[Intimidation]] +14, [[Stealth]] +15
+**Languages** [[DATABASE/language/Draconic|Draconic]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +15, [[DATABASE/skill/Athletics|Athletics]] +17, [[DATABASE/skill/Intimidation|Intimidation]] +14, [[DATABASE/skill/Stealth|Stealth]] +15
 **Str** +6, **Dex** +2, **Con** +4, **Int** -1, **Wis** +3, **Cha** +1
 **Snow Vision** Snow doesn’t impair a frost drake’s vision; it ignores concealment from snowfall.
 

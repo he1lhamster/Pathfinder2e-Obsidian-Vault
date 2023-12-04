@@ -11,6 +11,7 @@ name: Tengu Weapon Study
 prerequisite: '[[DATABASE/feat/Tengu Weapon Familiarity|Tengu Weapon Familiarity]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Tengu Weapon Study <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Tengu</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** [[Tengu Weapon Familiarity]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** [[DATABASE/feat/Tengu Weapon Familiarity|Tengu Weapon Familiarity]]
 
 ---
 You've learned techniques for using blades and other tengu weapons. Whenever you critically hit using one of the weapons from your Tengu Weapon Familiarity, you apply the weapon's critical specialization effect.

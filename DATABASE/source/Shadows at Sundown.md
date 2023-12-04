@@ -2,6 +2,7 @@
 id: '121'
 name: Shadows at Sundown
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -16,28 +17,28 @@ type: Source
 
 ## Armor [1]
 
-[[Gray Maiden Plate]]
+[[DATABASE/armor/Gray Maiden Plate|Gray Maiden Plate]]
 
 ## Deities [1]
 
-[[Lorthact]]
+[[DATABASE/deity/Lorthact|Lorthact]]
 
 ## Equipment [1]
 
-[[Horn of the Sun Aurochs]]
+[[DATABASE/equipment/Horn of the Sun Aurochs|Horn of the Sun Aurochs]]
 
 ## Familiar Abilities [3]
 
-[[Breath Weapon]], [[Silver Infusion]], [[Tenacious Mind]]
+[[DATABASE/familiarability/Breath Weapon|Breath Weapon (familiar)]], [[DATABASE/familiarability/Silver Infusion|Silver Infusion (familiar)]], [[DATABASE/familiarability/Tenacious Mind|Tenacious Mind (familiar)]]
 
 ## Familiars (Specific) [1]
 
-[[House Drake]]
+[[DATABASE/familiarspecific/House Drake|House Drake]]
 
 ## Hazards [5]
 
-[[Brooding Fvalthahalia]], [[Ileosa's Fifth Manifestation]], [[Ileosa's Sixth Manifestation]], [[Life-Draining Thunder]], [[Paradox Engine]]
+[[DATABASE/hazard/Brooding Fvalthahalia|Brooding Fvalthahalia]], [[DATABASE/hazard/Ileosa's Fifth Manifestation|Ileosa's Fifth Manifestation]], [[DATABASE/hazard/Ileosa's Sixth Manifestation|Ileosa's Sixth Manifestation]], [[DATABASE/hazard/Life-Draining Thunder|Life-Draining Thunder]], [[DATABASE/hazard/Paradox Engine|Paradox Engine]]
 
 ## Monsters [4]
 
-[[Loreavor]], [[Lorthact]], [[Scarlet Walker]], [[Strigoi Progenitor]]
+[[DATABASE/monster/Loreavor|Loreavor]], [[DATABASE/monster/Lorthact|Lorthact]], [[DATABASE/monster/Scarlet Walker|Scarlet Walker]], [[DATABASE/monster/Strigoi Progenitor|Strigoi Progenitor]]

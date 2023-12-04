@@ -11,6 +11,7 @@ name: Cavalier's Charge
 prerequisite: '[[DATABASE/feat/Cavalier Dedication|Cavalier Dedication]]'
 rarity: Common
 requirement: You are riding your mount.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,13 +25,13 @@ type: Feat
 # Cavalier's Charge <span class="action-icon">2</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Flourish</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Cavalier]]
-**Prerequisites** [[Cavalier Dedication]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Cavalier|Cavalier]]
+**Prerequisites** [[DATABASE/feat/Cavalier Dedication|Cavalier Dedication]]
 **Requirements** You are riding your mount.
 
 ---
-You [[Command an Animal]] to order your mount to Stride twice. At any point during this movement, you can Strike one enemy within reach or within the first range increment of a ranged weapon. You gain a +1 circumstance bonus to your attack roll.
+You [[DATABASE/action/Command an Animal|Command an Animal]] to order your mount to Stride twice. At any point during this movement, you can Strike one enemy within reach or within the first range increment of a ranged weapon. You gain a +1 circumstance bonus to your attack roll.
 
 ## Traits
 

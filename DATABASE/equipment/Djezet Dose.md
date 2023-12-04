@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -54,11 +55,11 @@ weapon_type: null
 # Djezet Dose<span class="item-type">Item 13</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Consumable</span><span class="item-trait">Magical</span>
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 600 gp
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
 ---
-Some mages carry vials of [[Djezet]] for its magic-enhancing properties. When you drink a djezet dose, if your next action is to Cast a Spell, you can apply the effects of the [[Reach Spell]] or [[Widen Spell]] metamagic feats.
+Some mages carry vials of [[DATABASE/equipment/Djezet|djezet]] for its magic-enhancing properties. When you drink a djezet dose, if your next action is to Cast a Spell, you can apply the effects of the [[DATABASE/feat/Reach Spell|Reach Spell]] or [[DATABASE/feat/Widen Spell|Widen Spell]] metamagic feats.
 **Craft Requirements** At least 300 gp of djezet.

@@ -12,6 +12,7 @@ prerequisite: Master in [[DATABASE/skill/Intimidation|Intimidation]] ; [[DATABAS
   Dedication|Vigilante Dedication]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Night of the Gray Death|Night of the Gray Death]]'
 subcategory: null
@@ -26,13 +27,13 @@ type: Feat
 # Reminder of the Greater Fear <span class="action-icon">5</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Vigilante</span>
-**Source** [[Night of the Gray Death]]
-**Archetype** [[Vigilante]]
-**Prerequisites** master in [[Intimidation]]; [[Vigilante Dedication]]
-**Trigger** Another creature within 30 feet of you that can see you would gain the [[Frightened]] condition.
+**Source** [[DATABASE/source/Night of the Gray Death|Night of the Gray Death]]
+**Archetype** [[DATABASE/archetype/Vigilante|Vigilante]]
+**Prerequisites** master in [[DATABASE/skill/Intimidation|Intimidation]]; [[DATABASE/feat/Vigilante Dedication|Vigilante Dedication]]
+**Trigger** Another creature within 30 feet of you that can see you would gain the [[DATABASE/condition/Frightened|frightened]] condition.
 
 ---
-You give a target a stern glower to remind them that it is you, and no one else, they should truly fear. Reduce the value of the [[Frightened]] condition the creature would take by 1.
+You give a target a stern glower to remind them that it is you, and no one else, they should truly fear. Reduce the value of the [[DATABASE/condition/Frightened|frightened]] condition the creature would take by 1.
 
 ## Traits
 
@@ -42,4 +43,4 @@ This feat belongs to an archetype.
 
 **Vigilante:**
 
-Using actions and abilities with the vigilante trait while in your social identity risks exposing you as a [[Vigilante]].
+Using actions and abilities with the vigilante trait while in your social identity risks exposing you as a [[DATABASE/archetype/Vigilante|vigilante]].

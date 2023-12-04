@@ -12,6 +12,7 @@ prerequisite: master in a [[DATABASE/action/Recall Knowledge|Recall Knowledge]] 
   [[DATABASE/feat/Pathfinder Agent Dedication|Pathfinder Agent Dedication]]
 rarity: Common
 requirement: You have master proficiency in a skill to identify the triggering creature.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 subcategory: null
@@ -25,9 +26,9 @@ type: Feat
 # Recognize Threat <span class="action-icon">4</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Skill</span>
-**Source** [[Character Guide]] 
-**Archetype** [[Pathfinder Agent]]
-**Prerequisites** master in a [[Recall Knowledge]] skill; [[Pathfinder Agent Dedication]]
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
+**Archetype** [[DATABASE/archetype/Pathfinder Agent|Pathfinder Agent]]
+**Prerequisites** master in a [[DATABASE/action/Recall Knowledge|Recall Knowledge]] skill; [[DATABASE/feat/Pathfinder Agent Dedication|Pathfinder Agent Dedication]]
 **Access** A character who is a member of the Pathfinder Society has access to this option.
 **Trigger** Your first turn of an encounter begins, and you can see a creature.
 **Requirements** You have master proficiency in a skill to identify the triggering creature.

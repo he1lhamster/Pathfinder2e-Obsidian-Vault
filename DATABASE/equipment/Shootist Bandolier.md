@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -53,9 +54,9 @@ weapon_type: null
 # Shootist Bandolier<span class="item-type">Item 0</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span>
-**Source** [[Pathfinder 165. Eyes of Empty Death]]
+**Source** [[DATABASE/source/Pathfinder 165. Eyes of Empty Death|Pathfinder #165: Eyes of Empty Death]]
 **Price** 1 gp
 **Bulk** —
 
 ---
-This leather bandolier holds up to three repeating hand crossbow magazines in leather pockets that pop open with the quick flick of a thumb. You reduce the reload time for a [[Repeating Hand Crossbow]] magazine from the bandolier by 1, to a total of 2 actions. You can wear only one shootist bandolier at a time.
+This leather bandolier holds up to three repeating hand crossbow magazines in leather pockets that pop open with the quick flick of a thumb. You reduce the reload time for a [[DATABASE/weapon/Repeating Hand Crossbow|repeating hand crossbow]] magazine from the bandolier by 1, to a total of 2 actions. You can wear only one shootist bandolier at a time.

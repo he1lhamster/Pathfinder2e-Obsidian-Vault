@@ -70,17 +70,17 @@ wisdom: '+6'
 # Cataclysm Beetle
 
 This creature did not include a description.
-**Recall Knowledge - Beast ([[Arcana]], [[Nature]])**: DC 43
+**Recall Knowledge - Beast ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 43
 **Unspecific Lore**: DC 41
 **Specific Lore**: DC 38
 
 # Cataclysm Beetle<span class="item-type">Creature 18</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Huge</span><span class="item-trait">Beast</span>
-**Source** [[Pathfinder 174. Shadows of the Ancients]]
-**Perception** +30; [[Darkvision]], [[Scent]] (imprecise) 60 feet
-**Languages** [[Common]]
-**Skills** [[Athletics]] +36, [[Intimidation]] +31, [[Survival]] +30
+**Source** [[DATABASE/source/Pathfinder 174. Shadows of the Ancients|Pathfinder #174: Shadows of the Ancients]]
+**Perception** +30; [[DATABASE/monsterability/Darkvision|darkvision]], [[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +36, [[DATABASE/skill/Intimidation|Intimidation]] +31, [[DATABASE/skill/Survival|Survival]] +30
 **Str** +10, **Dex** +2, **Con** +9, **Int** -3, **Wis** +6, **Cha** +5
 
 ---
@@ -89,4 +89,4 @@ This creature did not include a description.
 
 ---
 **Speed** 30 feet, climb 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> mandibles +35 [+30/+25] (reach 10 feet), **Damage** 3d12+16 slashing plus [[Grab]]</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> acid glob +35 [+30/+25] (acid, brutal, range increment 120 feet), **Damage** 2d8+16 bludgeoning plus 4d6 [[Persistent Damage]]</span><span class="in-box-ability">**Bombardier's Spray** <span class="action-icon">2</span> (acid, primal) The cataclysm beetle sprays a 60-foot cone of acid from its abdomen that deals 12d10 acid damage (DC 40 basic Reflex save). It can't use Bombardier's Spray or Burning Pool for 1d4 rounds.</span><span class="in-box-ability">**Burning Pool** <span class="action-icon">2</span> (acid, primal) The cataclysm beetle spills acid directly from its abdomen, creating a wave of acid that deals 10d12 acid damage to all creatures in a 30-foot emanation (DC 40 basic Fortitude save). Creatures that fail this save are pushed back 10 feet from the cataclysm beetle (30 feet on a critical failure). It can't use Bombardier's Spray or Burning Pool for 1d4 rounds.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> mandibles +35 [+30/+25] (reach 10 feet), **Damage** 3d12+16 slashing plus [[DATABASE/monsterability/Grab|Grab]]</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> acid glob +35 [+30/+25] (acid, brutal, range increment 120 feet), **Damage** 2d8+16 bludgeoning plus 4d6 [[DATABASE/condition/Persistent Damage|persistent acid]]</span><span class="in-box-ability">**Bombardier's Spray** <span class="action-icon">2</span> (acid, primal) The cataclysm beetle sprays a 60-foot cone of acid from its abdomen that deals 12d10 acid damage (DC 40 basic Reflex save). It can't use Bombardier's Spray or Burning Pool for 1d4 rounds.</span><span class="in-box-ability">**Burning Pool** <span class="action-icon">2</span> (acid, primal) The cataclysm beetle spills acid directly from its abdomen, creating a wave of acid that deals 10d12 acid damage to all creatures in a 30-foot emanation (DC 40 basic Fortitude save). Creatures that fail this save are pushed back 10 feet from the cataclysm beetle (30 feet on a critical failure). It can't use Bombardier's Spray or Burning Pool for 1d4 rounds.</span>

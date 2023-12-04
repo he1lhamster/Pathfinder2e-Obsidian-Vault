@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -58,10 +59,10 @@ weapon_type: null
 # Setup Snare<span class="item-type">Item 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Consumable</span><span class="item-trait">Kobold</span><span class="item-trait">Mechanical</span><span class="item-trait">Snare</span><span class="item-trait">Trap</span>
-**Source** [[Pathfinder 193. Mantle of Gold]]
+**Source** [[DATABASE/source/Pathfinder 193. Mantle of Gold|Pathfinder #193: Mantle of Gold]]
 **Price** 8 gp
 **Bulk** —
 
 ---
 This snare is designed to divert a target's movement towards another snare or hazard. You may choose to have the target attempt a Will saving throw instead of a Reflex saving throw; if you do, add the fear and mental traits plus add either the visual or auditory trait.
- When a Small or larger creature enters the square, the snare Pushes the creature 5 feet and the target becomes [[Clumsy]] 1 until the end of their next turn. On a critical failure the snare Pushes the target 10 feet and the target becomes clumsy 2 until the end of their next turn.
+ When a Small or larger creature enters the square, the snare Pushes the creature 5 feet and the target becomes [[DATABASE/condition/Clumsy|clumsy]] 1 until the end of their next turn. On a critical failure the snare Pushes the target 10 feet and the target becomes clumsy 2 until the end of their next turn.

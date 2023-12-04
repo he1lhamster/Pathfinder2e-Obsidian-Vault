@@ -18,6 +18,7 @@ language:
 max_speed: '25'
 name: Hobgoblin
 rarity: Uncommon
+rus_type_level: null
 size: Medium
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 speed:
@@ -33,7 +34,7 @@ vision: Darkvision
 # Hobgoblin
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Goblin</span><span class="item-trait">Humanoid</span>
-**Source** [[Character Guide]] 
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
 _Taller and stronger than their goblin kin, hobgoblins are equals in strength and size to humans, with broad shoulders and long, powerful arms._
 The reputation of hobgoblins in the Inner Sea region has been upended by Oprak, the hobgoblin nation established recently in the mountains between Nidal and Nirmathas. The Ironfang Legion that stormed through Molthune and Nirmathas only a few years ago made a calculated decision to cease fighting, claim Oprak as a new homeland, and seek peace with its neighbors. Now under strict orders to not start conflicts with other nations, the hobgoblins of Oprak have begun to cautiously investigate Avistan in the spirit of cooperation rather than conquest. Many people, especially those that suffered terrible cruelties under the Ironfang Legion, fear that this is simply a pause in aggression while Oprak gains enough strength to crush its rivals. Others hope these bold soldiers might prove to be allies against the endless hordes of the Whispering Tyrant.
 
@@ -65,7 +66,7 @@ Though familiar with the chaos of war, most hobgoblins have orderly minds and pr
 
 ## Adventurers
 
-Hobgoblin society's rigid militaristic hierarchy produces excellent adventurers, as hobgoblins reach adulthood trained for combat. Due to their upbringing, many hobgoblins have the [[Warrior]] background. The [[Laborer]], [[Martial Disciple]], [[Miner]], and [[Scout]] backgrounds are also common. Hobgoblins raised away from their people often have the [[Criminal]], [[Hermit]], or [[Nomad]] backgrounds instead. Hobgoblins are most often [[Fighter]], [[Ranger]], or [[Rogue]], although hobgoblin rogues approach their class with a disciplined mindset. Hobgoblins hold an ancestral grudge against [[Elf]] and a distrust of arcane magic, which they call “elf magic.” Hobgoblin practitioners of arcane magic are exceedingly rare and usually shunned by other hobgoblins. Particularly clever hobgoblins usually become [[Alchemist]].
+Hobgoblin society's rigid militaristic hierarchy produces excellent adventurers, as hobgoblins reach adulthood trained for combat. Due to their upbringing, many hobgoblins have the [[DATABASE/background/Warrior|warrior]] background. The [[DATABASE/background/Laborer|laborer]], [[DATABASE/background/Martial Disciple|martial disciple]], [[DATABASE/background/Miner|miner]], and [[DATABASE/background/Scout|scout]] backgrounds are also common. Hobgoblins raised away from their people often have the [[DATABASE/background/Criminal|criminal]], [[DATABASE/background/Hermit|hermit]], or [[DATABASE/background/Nomad|nomad]] backgrounds instead. Hobgoblins are most often [[DATABASE/class_/Fighter|fighters]], [[DATABASE/class_/Ranger|rangers]], or [[DATABASE/class_/Rogue|rogues]], although hobgoblin rogues approach their class with a disciplined mindset. Hobgoblins hold an ancestral grudge against [[DATABASE/ancestry/Elf|elves]] and a distrust of arcane magic, which they call “elf magic.” Hobgoblin practitioners of arcane magic are exceedingly rare and usually shunned by other hobgoblins. Particularly clever hobgoblins usually become [[DATABASE/class_/Alchemist|alchemists]].
 
 ## Names
 
@@ -79,7 +80,7 @@ Aze, Druknar, Ghargam, Hathkren, Imakra, Kralaeng, Mazkol, Olzu, Rezal, Sivkrag,
 
 ### Cantorian Spring
 
-In days long past, Cantorys, goddess of life, transformations, and forests, created a staff called the _Cantorian Spring_ and placed it on Golarion for fledgling mortals to find. A powerful [[Devil]] named Canzoriant learned of the staff and slew Cantorys, claiming it for himself. Using the _Cantorian Spring_'s power, Canzoriant transformed early [[Goblin]] into the more powerful and calculating hobgoblins, instilling in them a deep hatred for [[Elf]]. After a failed attempt by elves to claim the staff, the _Cantorian Spring_ disappeared and hasn't been seen since.
+In days long past, Cantorys, goddess of life, transformations, and forests, created a staff called the _Cantorian Spring_ and placed it on Golarion for fledgling mortals to find. A powerful [[DATABASE/monsterfamily/Devil|devil]] named Canzoriant learned of the staff and slew Cantorys, claiming it for himself. Using the _Cantorian Spring_'s power, Canzoriant transformed early [[DATABASE/ancestry/Goblin|goblins]] into the more powerful and calculating hobgoblins, instilling in them a deep hatred for [[DATABASE/ancestry/Elf|elves]]. After a failed attempt by elves to claim the staff, the _Cantorian Spring_ disappeared and hasn't been seen since.
 
 ### International Relationships
 
@@ -115,9 +116,9 @@ Wisdom
 
 ## Languages
 
-[[Common]]
-[[Goblin]]
-Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[Draconic]], [[Dwarven]], [[Gnoll]], [[Jotun]], [[Halfling]], [[Orcish]], and any other languages to which you have access (such as the languages prevalent in your region).
+[[DATABASE/language/Common|Common]]
+[[DATABASE/language/Goblin|Goblin]]
+Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Dwarven|Dwarven]], [[DATABASE/language/Gnoll|Gnoll]], [[DATABASE/language/Jotun|Jotun]], [[DATABASE/language/Halfling|Halfling]], [[DATABASE/language/Orcish|Orcish]], and any other languages to which you have access (such as the languages prevalent in your region).
 
 ## Darkvision
 

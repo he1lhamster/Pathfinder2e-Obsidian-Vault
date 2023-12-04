@@ -11,6 +11,7 @@ name: Unbalancing Finisher
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,10 +25,10 @@ type: Feat
 # Unbalancing Finisher <span class="action-icon">1</span> <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Finisher</span><span class="item-trait">Swashbuckler</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
-You attack with a flashy assault that leaves your target off balance. Make a melee Strike. If you hit and deal damage, the target is [[Flat-Footed]] until the end of your next turn.
+You attack with a flashy assault that leaves your target off balance. Make a melee Strike. If you hit and deal damage, the target is [[DATABASE/condition/Flat-Footed|flat-footed]] until the end of your next turn.
 
 ## Traits
 

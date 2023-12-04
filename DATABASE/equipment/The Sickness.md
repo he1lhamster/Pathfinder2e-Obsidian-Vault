@@ -31,6 +31,7 @@ rarity: Unique
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 size: null
@@ -57,10 +58,10 @@ weapon_type: null
 # The Sickness<span class="item-type">Item 20</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="item-trait">Artifact</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span><span class="item-trait">Necromancy</span>
-**Source** [[Pathfinder 191. The Destiny War]]
+**Source** [[DATABASE/source/Pathfinder 191. The Destiny War|Pathfinder #191: The Destiny War]]
 **Usage** carried; **Bulk** —
 **Suit** Shields (Con); **Alignment** neutral evil
 
 ---
 _The Sickness_ represents disease of the body or soul. As long as _The Sickness_ is invested, it grants you a +2 item bonus to saving throws against disease. If you roll a success on a save against a disease, you get a critical success instead. If you are 20th-level, the item bonus increases to +3.
-**Activate** <span class="action-icon">2</span> envision, Interact **Frequency** once per day; **Effect** You flick a corner of the card, as if casting aside a tiny pest or fleck of filth from its surface; you cast [[Abyssal Plague]]. If you are at least 15th-level, you can instead choose to cast [[Spiritual Epidemic]]. Regardless of which spell you cast, the level of the spell is half your level, rounded down (minimum 6th level), and the save DC is equal to your class DC.
+**Activate** <span class="action-icon">2</span> envision, Interact **Frequency** once per day; **Effect** You flick a corner of the card, as if casting aside a tiny pest or fleck of filth from its surface; you cast [[DATABASE/spell/Abyssal Plague|Abyssal plague]]. If you are at least 15th-level, you can instead choose to cast [[DATABASE/spell/Spiritual Epidemic|spiritual epidemic]]. Regardless of which spell you cast, the level of the spell is half your level, rounded down (minimum 6th level), and the save DC is equal to your class DC.

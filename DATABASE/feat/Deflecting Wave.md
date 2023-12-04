@@ -12,6 +12,7 @@ prerequisite: null
 rarity: Common
 requirement: You're aware of the hostile effect, and you aren't [[DATABASE/condition/Off-Guard|off-guard]]
   against it.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -28,9 +29,9 @@ type: Feat
 # Deflecting Wave <span class="action-icon">5</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Primal</span><span class="item-trait">Water</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Trigger** You would take acid, bludgeoning, fire, or slashing damage from an enemy's attack, spell, or other hostile effect.
-**Requirements** You're aware of the hostile effect, and you aren't [[Off-Guard]] against it.
+**Requirements** You're aware of the hostile effect, and you aren't [[DATABASE/condition/Off-Guard|off-guard]] against it.
 
 ---
 A cascade of water blunts or disperses the incoming attack. You gain resistance to damage from the triggering effect equal to your level if it's bludgeoning or slashing, or double your level if it's acid or fire damage. If the effect deals more than one applicable type of damage, apply the highest resistance, but apply it only once.

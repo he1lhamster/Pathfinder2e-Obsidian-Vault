@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/rogueracket/Ruffian|ruffian racket]] ; [[DATABASE/clas
   Strike]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Vicious Debilitations <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Rogue</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Ruffian]]; [[Rogue]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/rogueracket/Ruffian|ruffian racket]]; [[DATABASE/class_/Rogue|Debilitating Strike]]
 
 ---
 The debilitations you dish out seriously impair your foes. Add the following debilitations to the list you can choose from when you use Debilitating Strike.

@@ -7,6 +7,7 @@ id: '553'
 name: Selfish Shield
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 trait:
@@ -19,7 +20,7 @@ type: Action
 # Selfish Shield <span class="action-icon">5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Champion</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Trigger** An enemy within 15 feet damages you.
 
 ---

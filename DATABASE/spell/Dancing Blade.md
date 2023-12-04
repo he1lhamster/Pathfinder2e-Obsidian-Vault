@@ -21,6 +21,7 @@ patron_theme: null
 range: 30 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
@@ -38,7 +39,7 @@ type: Cantrip
 # Dancing Blade<span class="item-type">Cantrip 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Cantrip</span><span class="item-trait">Evocation</span><span class="item-trait">Psychic</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet; **Targets** 1 creature
 **Duration** sustained up to 1 minute
@@ -56,4 +57,4 @@ You telekinetically animate a weapon that's unattended or on your person. It bra
 **Amp** The weapon's attacks increase in strength, and your control is fine enough for advanced technique. The damage dice for the weapon's Strike change from d6s to d10s. When you Cast or Sustain the spell, you can choose from the following options in addition to the standard ones.
 
 * **Guard** Rather than attacking, the weapon grants a +2 circumstance bonus to AC against melee attacks to the creature it's following. The bonus lasts until the start of your next turn or until the weapon Changes Partners, whichever comes first.
-* **Push** (attack) The weapon attempts to Push its target, using your spell attack roll instead of an [[Athletics]] check to determine the results of the Push.
+* **Push** (attack) The weapon attempts to Push its target, using your spell attack roll instead of an [[DATABASE/skill/Athletics|Athletics]] check to determine the results of the Push.

@@ -6,6 +6,7 @@ id: '97'
 name: Crystal Scent
 rarity: Common
 requirement: null
+rus_type_level: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 trait: null
 type: Familiar Ability
@@ -13,6 +14,6 @@ type: Familiar Ability
 ---
 # Crystal Scent
 
-**Source** [[Rage of Elements]]
-**Ability Type** Specific Familiar - [[Crysmal Shardling]]
-A crysmal can sense crystals or gems within 60 feet as if using the [[Scent]] ability.
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
+**Ability Type** Specific Familiar - [[DATABASE/familiarspecific/Crysmal Shardling|Crysmal Shardling]]
+A crysmal can sense crystals or gems within 60 feet as if using the [[DATABASE/monsterability/Scent|scent]] ability.

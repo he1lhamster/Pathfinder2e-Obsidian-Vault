@@ -66,19 +66,19 @@ wisdom: '+0'
 # Ogre Warrior
 
 The simplest of ogres are slabs of muscle with hatefully beady eyes, misshapen visages, and malformed bodies. Always eager for mayhem and murder, ogre warriors are quick to turn on their kin when there’s a shortage of smaller folk to torment, so those who lead ogres do their best to keep them constantly distracted with new opportunities for raids and ruin.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 18
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Ogre Warrior<span class="item-type">Creature 3</span>
 
 <span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Giant</span><span class="item-trait">Humanoid</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +5; darkvision
-**Languages** [[Jotun]]
-**Skills** [[Athletics]] +12, [[Intimidation]] +9
+**Languages** [[DATABASE/language/Jotun|Jotun]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +12, [[DATABASE/skill/Intimidation|Intimidation]] +9
 **Str** +5, **Dex** -1, **Con** +4, **Int** -2, **Wis** +0, **Cha** -2
-**Items** [[Hide Armor]], [[Javelin]], [[Ogre Hook]]
+**Items** [[DATABASE/armor/Hide Armor|hide armor]], [[DATABASE/weapon/Javelin|javelin (6)]], [[DATABASE/weapon/Ogre Hook|ogre hook]]
 
 ---
 **AC** 17; **Fort** +11, **Ref** +6, **Will** +5

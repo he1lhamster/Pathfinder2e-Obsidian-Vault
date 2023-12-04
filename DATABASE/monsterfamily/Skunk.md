@@ -3,6 +3,7 @@ creature_family: Skunk
 id: '262'
 name: Skunk
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Skunk
 
-**Source** [[Bestiary 3]]
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
 With their distinctive black bodies and white stripes or spots, skunks are instantly recognizable to most creatures. Those who catch a full blast of musk rarely decide to trouble a skunk again, as the revolting stench can linger for hours or even days. Removing the odor is difficult, typically requiring the aid of alchemy or magic.
 
 ### Members
 
-[[Giant Skunk]] (Creature 1), [[Skunk]] (Creature -1)
+[[DATABASE/monster/Giant Skunk|Giant Skunk]] (Creature 1), [[DATABASE/monster/Skunk|Skunk]] (Creature -1)
 
 ###  Skunk Musk in Alchemy
 

@@ -11,6 +11,7 @@ name: Premonition of Avoidance
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Premonition of Avoidance <span class="action-icon">5</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Cleric</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Trigger** You attempt a saving throw against a hazard, but you haven't rolled yet.
 
 ---
@@ -31,4 +32,4 @@ Your deity grants you limited foresight, warning you of dangers an instant befor
 
 ## Premonition of Avoidance Leads To...
 
-[[Shared Avoidance]]
+[[DATABASE/feat/Shared Avoidance|Shared Avoidance]]

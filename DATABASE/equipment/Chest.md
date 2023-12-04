@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: '+9'
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: Large
@@ -52,7 +53,7 @@ weapon_type: null
 ---
 # Chest<span class="item-type">Item 0</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 6 sp
 **Hands** 2; **Bulk** 2
 

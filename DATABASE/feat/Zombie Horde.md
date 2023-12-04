@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Clockwork Reanimator Dedication|Clockwork Reanima
   Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 180. The Smoking Gun|Pathfinder #180: The Smoking
   Gun]]'
@@ -25,9 +26,9 @@ type: Feat
 # Zombie Horde <span class="action-icon">3</span> <span class="item-type">Feat 20</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Pathfinder 180. The Smoking Gun]]
-**Archetype** [[Clockwork Reanimator]]
-**Prerequisites** [[Clockwork Reanimator Dedication]]
+**Source** [[DATABASE/source/Pathfinder 180. The Smoking Gun|Pathfinder #180: The Smoking Gun]]
+**Archetype** [[DATABASE/archetype/Clockwork Reanimator|Clockwork Reanimator]]
+**Prerequisites** [[DATABASE/feat/Clockwork Reanimator Dedication|Clockwork Reanimator Dedication]]
 
 ---
 You built your reanimated construct companion of modular components from various corpses. Its unique makeup enables your companion to split into dozens or even hundreds of much smaller corpse constructs. Acting as one, this shambling swarm can overwhelm your enemies. 

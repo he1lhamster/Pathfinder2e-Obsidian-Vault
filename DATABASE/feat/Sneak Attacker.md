@@ -11,6 +11,7 @@ name: Sneak Attacker
 prerequisite: '[[DATABASE/feat/Rogue Dedication|Rogue Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Sneak Attacker <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Core Rulebook]] 
-**Archetypes** [[Assassin]]*, [[Rogue]]
-**Prerequisites** [[Rogue Dedication]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetypes** [[DATABASE/archetype/Assassin|Assassin]]*, [[DATABASE/archetype/Rogue|Rogue]]
+**Prerequisites** [[DATABASE/feat/Rogue Dedication|Rogue Dedication]]
 * This archetype offers Sneak Attacker at a different level than displayed here.
 
 ---

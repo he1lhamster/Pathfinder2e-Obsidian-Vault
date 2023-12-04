@@ -10,6 +10,7 @@ id: '249'
 name: Anti-Tech Activist
 prerequisite: null
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Intimidation|Intimidation]]'
 - Guild [[DATABASE/skill/Lore|Lore]]
@@ -21,7 +22,7 @@ type: Background
 ---
 # Anti-Tech Activist<span class="item-type">Background</span>
 
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 You've seen the sorts of things that technology brings— polluted environments, workers put out of their jobs or horribly injured, and the slow erosion of society—and you've vowed to inform the larger world of these ills. You do so with long, impassioned speeches on street corners and village squares and by talking personally with the heads of various guilds. Adventuring into the wider world could help spread your message even farther.
 Choose two ability boosts. One must be to **Constitution** or **Charisma**, and one is a free ability boost.
-You're trained in the [[Intimidation]] skill, and the [[Lore]] skill. You gain the [[Group Coercion]] skill feat.
+You're trained in the [[DATABASE/skill/Intimidation|Intimidation]] skill, and the [[DATABASE/skill/Lore|Guild Lore]] skill. You gain the [[DATABASE/feat/Group Coercion|Group Coercion]] skill feat.

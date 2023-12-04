@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: DC 32 Fortitude
 school: null
 size: null
@@ -57,11 +58,11 @@ weapon_type: null
 # Astringent Venom<span class="item-type">Item 12</span>
 
 <span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Contact</span><span class="item-trait">Poison</span><span class="item-trait">Virulent</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 350 gp
 **Usage** held in 2 hands; **Bulk** L
 **Activate** <span class="action-icon">3</span> Interact
 
 ---
 This oily, dark-purple powder gives off the distinct odor of boiled leather. When delivered, the poison acts quickly to constrict the victim's blood flow to their extremities and turn their lungs into a soft jelly. A victim of astringent venom is recognizable by the frostbite-like hue of their hands as they lose circulation to their extremities, making it difficult for them to hold things. Each round at the beginning of their turn, a creature affected by astringent venom must succeed at a flat DC 5 check or drop one random item they're holding.
- **Saving Throw** DC 32 Fortitude; **Onset** 1 round; **Maximum Duration** 6 rounds; **Stage 1** 6d6 poison damage (1 round); **Stage 2** 8d6 poison damage (1 round); **Stage 3** 10d6 poison damage and [[Confused]] (1 round)
+ **Saving Throw** DC 32 Fortitude; **Onset** 1 round; **Maximum Duration** 6 rounds; **Stage 1** 6d6 poison damage (1 round); **Stage 2** 8d6 poison damage (1 round); **Stage 3** 10d6 poison damage and [[DATABASE/condition/Confused|confused]] (1 round)

@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Potion of Stable Form<span class="item-type">Item 10+</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Consumable</span><span class="item-trait">Magical</span><span class="item-trait">Potion</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
@@ -64,14 +65,14 @@ This aromatic potion is brewed from the white flowers and black roots of the mag
 
 ## Potion of Stable Form<span class="item-type">Item 10</span>
 
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Price** 180 gp
 **Bulk** L
 The counteract level is 5, and the counteract check modifier is +17. The item bonus is +2, or +3 vs. polymorph.
 
 ## Potion of Stable Form (Greater)<span class="item-type">Item 16</span>
 
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Price** 1,800 gp
 **Bulk** L
 The counteract level is 8, and the counteract check modifier is +25. The item bonus is +3, or +4 vs. polymorph.

@@ -7,6 +7,7 @@ id: '548'
 name: Expeditious Inspection
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 trait:
@@ -18,8 +19,8 @@ type: Action
 # Expeditious Inspection <span class="action-icon">4</span>
 
 <span class="item-trait">Investigator</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Frequency** once per 10 minutes
 
 ---
-You observe and assess your surroundings with great speed. You [[Recall Knowledge]], [[Seek]], or [[Sense Motive]].
+You observe and assess your surroundings with great speed. You [[DATABASE/action/Recall Knowledge|Recall Knowledge]], [[DATABASE/action/Seek|Seek]], or [[DATABASE/action/Sense Motive|Sense Motive]].

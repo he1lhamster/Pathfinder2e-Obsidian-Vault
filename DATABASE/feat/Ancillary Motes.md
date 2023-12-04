@@ -11,6 +11,7 @@ name: Ancillary Motes
 prerequisite: '[[DATABASE/feat/Crystalline Dust|Crystalline Dust]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Ancillary Motes <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Aphorite</span>
-**Source** [[Ancestry Guide]] 
-**Prerequisites** [[Crystalline Dust]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
+**Prerequisites** [[DATABASE/feat/Crystalline Dust|Crystalline Dust]]
 
 ---
 You can use Crystalline Dust one more time per day.

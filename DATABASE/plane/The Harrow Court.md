@@ -5,6 +5,7 @@ id: '23'
 name: The Harrow Court
 plane_category: Dimensions
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 190. The Choosing|Pathfinder #190: The Choosing]]'
 trait:
 - '[[DATABASE/trait/Finite|Finite]]'
@@ -14,7 +15,7 @@ type: Plane
 # The Harrow Court<span class="item-type">Plane</span>
 
 <span class="trait-alignment item-trait">N</span><span class="item-trait">Finite</span>
-**Source** [[Pathfinder 190. The Choosing]]
+**Source** [[DATABASE/source/Pathfinder 190. The Choosing|Pathfinder #190: The Choosing]]
 **Category** Dimensions
 **Divinities** none
 **Native Inhabitants** simulacra

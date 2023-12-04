@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Enchantment
 size: null
@@ -58,10 +59,10 @@ weapon_type: null
 # Grinning Pugwampi<span class="item-type">Item 14</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Consumable</span><span class="item-trait">Enchantment</span><span class="item-trait">Magical</span><span class="item-trait">Misfortune</span><span class="item-trait">Talisman</span>
-**Source** [[Treasure Vault]] , [[Pathfinder 149. Against the Scarlet Triad]]
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] , [[DATABASE/source/Pathfinder 149. Against the Scarlet Triad|Pathfinder #149: Against the Scarlet Triad]]
 **Price** 700 gp
 **Usage** affixed to a weapon; **Bulk** —
-**Activate** <span class="action-icon">4</span> envision **Trigger** You damage a [[Flat-Footed]] creature with the affixed weapon.
+**Activate** <span class="action-icon">4</span> envision **Trigger** You damage a [[DATABASE/condition/Flat-Footed|flat-footed]] creature with the affixed weapon.
 
 ---
 This bone statuette of a sneering gremlin crumbles to dust when activated, imparting a fraction of its subject's infamous misfortune on those you strike. The damaged creature must attempt a DC 33 Will save.

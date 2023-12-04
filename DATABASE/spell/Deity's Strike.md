@@ -21,6 +21,7 @@ patron_theme: null
 range: 500 feet
 rarity: Common
 requirement: You have a deity.
+rus_type_level: null
 saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -37,7 +38,7 @@ type: Spell
 # Deity's Strike<span class="item-type">Spell 7</span>
 
 <span class="item-trait">Evocation</span><span class="item-trait">Force</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Traditions** divine
 **Cast** <span class="action-icon">2</span> somatic, verbal; **Requirements** You have a deity.
 **Range** 500 feet; **Targets** 1 creature (see text)

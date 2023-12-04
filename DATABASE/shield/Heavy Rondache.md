@@ -10,6 +10,7 @@ level: '0'
 name: Heavy Rondache
 price: 4 gp
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 speed_penalty: null
 trait: null
@@ -18,13 +19,13 @@ type: Shield
 ---
 # Heavy Rondache
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 4 gp; **AC Bonus** +1; **Speed Penalty** —
 **Bulk** 1; **Hardness** 5; **HP (BT)** 24 (12)
 
 ---
-Similar in size to a [[Buckler]], this steel shield is intended to absorb as many blows as possible instead of deflecting attacks. It features multiple layers of metal and is reinforced with additional wood.
+Similar in size to a [[DATABASE/shield/Buckler|buckler]], this steel shield is intended to absorb as many blows as possible instead of deflecting attacks. It features multiple layers of metal and is reinforced with additional wood.
 
 ## Specific Magic Shields
 
-[[Starfall Shield]]
+[[DATABASE/equipment/Starfall Shield|Starfall Shield]]

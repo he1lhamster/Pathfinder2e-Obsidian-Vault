@@ -11,6 +11,7 @@ name: Opportune Backstab
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Opportune Backstab <span class="action-icon">5</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Rogue</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Trigger** A creature within your melee reach is hit by a melee attack from one of your allies.
 
 ---

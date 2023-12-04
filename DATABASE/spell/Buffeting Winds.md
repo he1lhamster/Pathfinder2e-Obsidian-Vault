@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Reflex
 school: Evocation
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
@@ -38,7 +39,7 @@ type: Spell
 # Buffeting Winds<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Air</span><span class="item-trait">Evocation</span><span class="item-trait">Nonlethal</span>
-**Source** [[Knights of Lastwall]]
+**Source** [[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]
 **Traditions** primal
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Area** 15-foot cone

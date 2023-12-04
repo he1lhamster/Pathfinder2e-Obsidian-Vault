@@ -11,6 +11,7 @@ name: Radiate Glory
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -27,20 +28,20 @@ type: Feat
 # Radiate Glory <span class="action-icon">1</span> <span class="item-type">Feat 17</span>
 
 <span class="item-trait">Aasimar</span><span class="item-trait">Divine</span><span class="item-trait">Evocation</span><span class="item-trait">Light</span><span class="item-trait">Visual</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
 Your inherent glory radiates into the world with all the divine power of the celestial planes for 1 minute. Any creature that can see you while you Radiate Glory must attempt a Will saving throw against your class DC or spell DC, whichever is higher. The creature then becomes temporarily immune to this effect for 24 hours.
 **Critical Success** The creature is unaffected.
-**Success** You are [[Concealed]] to the creature for 1 round by the shining light, but can't use this concealment to [[Hide]], as normal for when your location is obvious.
+**Success** You are [[DATABASE/condition/Concealed|concealed]] to the creature for 1 round by the shining light, but can't use this concealment to [[DATABASE/action/Hide|Hide]], as normal for when your location is obvious.
 **Failure** As success, except you are concealed to the creature while your glory radiates.
-**Critical Failure** You are [[Hidden]] to the creature while your glory radiates, lost amid the radiant corona of your presence. Your general position is still obvious, so you can't use this to [[Sneak]].
+**Critical Failure** You are [[DATABASE/condition/Hidden|hidden]] to the creature while your glory radiates, lost amid the radiant corona of your presence. Your general position is still obvious, so you can't use this to [[DATABASE/action/Sneak|Sneak]].
 
 ## Traits
 
 **Aasimar:**
 
-A creature with this trait has the aasimar versatile heritage. Aasimars are [[Planar Scion]] descended from celestial beings. An ability with this trait can be used or selected only by aasimars.
+A creature with this trait has the aasimar versatile heritage. Aasimars are [[DATABASE/monsterfamily/Planar Scion|planar scions]] descended from celestial beings. An ability with this trait can be used or selected only by aasimars.
 
 **Divine:**
 

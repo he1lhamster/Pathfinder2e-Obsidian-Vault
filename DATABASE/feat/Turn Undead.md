@@ -11,6 +11,7 @@ name: Turn Undead
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Turn Undead <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Cleric</span>
-**Source** [[Core Rulebook]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
-Undead harmed by your positive energy might flee, compelled by an innate aversion to the force opposite undeath. When you use a [[Heal]] spell to damage undead, each undead of your level or lower that critically fails its save gains the fleeing condition for 1 round.
+Undead harmed by your positive energy might flee, compelled by an innate aversion to the force opposite undeath. When you use a [[DATABASE/spell/Heal|heal]] spell to damage undead, each undead of your level or lower that critically fails its save gains the fleeing condition for 1 round.

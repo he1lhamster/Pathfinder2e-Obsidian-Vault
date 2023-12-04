@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -52,10 +53,10 @@ weapon_type: null
 # Wrenchgear<span class="item-type">Item 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 **Price** 50 gp
 **Hands** 1; **Usage** held in 1 hand; **Bulk** L
 **Access** Characters from Alkenstar have access to this item.
 
 ---
-The ubiquity of clockwork constructs in Alkenstar spurred the development of the wrenchgear (a shortened “wrench in the gears”) by innovative criminals (“wrenchers”) to create security exploits and larcenous opportunities. You gain a +2 item bonus to [[Disable a Device]] checks made against clockwork creatures (typically to wind them down).
+The ubiquity of clockwork constructs in Alkenstar spurred the development of the wrenchgear (a shortened “wrench in the gears”) by innovative criminals (“wrenchers”) to create security exploits and larcenous opportunities. You gain a +2 item bonus to [[DATABASE/action/Disable a Device|Disable a Device]] checks made against clockwork creatures (typically to wind them down).

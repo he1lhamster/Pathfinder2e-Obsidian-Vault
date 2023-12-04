@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -51,7 +52,7 @@ weapon_type: null
 ---
 # Harrow Deck<span class="item-type">Item 0+</span>
 
-**Source** [[Pathfinder 160. Assault on Hunting Lodge Seven]]
+**Source** [[DATABASE/source/Pathfinder 160. Assault on Hunting Lodge Seven|Pathfinder #160: Assault on Hunting Lodge Seven]]
 **Hands** 2; **Bulk** L
 
 ---
@@ -59,18 +60,18 @@ Used by gamblers and seers alike, this deck of cards comes in several varieties.
 
 ## Harrow Deck (Common)<span class="item-type">Item 0</span>
 
-**Source** [[Pathfinder 160. Assault on Hunting Lodge Seven]]
+**Source** [[DATABASE/source/Pathfinder 160. Assault on Hunting Lodge Seven|Pathfinder #160: Assault on Hunting Lodge Seven]]
 **Price** 10 gp
 **Hands** 2; **Bulk** L
 
 ## Harrow Deck (Fine)<span class="item-type">Item 0</span>
 
-**Source** [[Pathfinder 160. Assault on Hunting Lodge Seven]]
+**Source** [[DATABASE/source/Pathfinder 160. Assault on Hunting Lodge Seven|Pathfinder #160: Assault on Hunting Lodge Seven]]
 **Price** 11 gp (+)
 **Hands** 2; **Bulk** L
 
 ## Harrow Deck (Simple)<span class="item-type">Item 0</span>
 
-**Source** [[Pathfinder 160. Assault on Hunting Lodge Seven]]
+**Source** [[DATABASE/source/Pathfinder 160. Assault on Hunting Lodge Seven|Pathfinder #160: Assault on Hunting Lodge Seven]]
 **Price** 1 gp
 **Hands** 2; **Bulk** L

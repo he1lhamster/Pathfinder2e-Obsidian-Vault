@@ -137,34 +137,34 @@ A pale sovereign is a rare form of undead arising from a terrible curse that aff
  Though morose and brooding, pale sovereigns are usually neutral rather than evil. They're very protective of their demesnes and whatever subjects remain to them, however, and attacking a pale sovereign's territory is the swiftest way to draw their ire. If a pale sovereign is ousted from their country's central throne, they retreat to any other holdings they might still possess and rule those.
  The attitudes of a pale sovereign's subjects vary. Many aren't even aware of their ruler's true nature. Among those who know the secret, some value their sovereign's protection and view them fondly. Others are uncomfortable with an undead eternal monarch, especially if the sovereign has become corrupt or bitter.
  A pale sovereign's territory is indelibly marked by their presence. Plants wither and blacken, struggling to grow in dry and lifeless soil. Wild animals often rise as undead unless they receive special ritual burials, leading to packs of skeletal and zombified beasts roaming the territory. Such monsters don't harm the demesne's residents but are quick to attack any intruders not bearing the sovereign's sigil. Even the living sapient inhabitants of a pale sovereign's demesne tend to have a drained, washed-out appearance, as if one step away from the grave themselves.
-**Recall Knowledge - Undead ([[Religion]])**: DC 40
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 40
 **Unspecific Lore**: DC 38
 **Specific Lore**: DC 35
 
 # Pale Sovereign<span class="item-type">Creature 16</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">LN</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Undead</span>
-**Source** [[Book of the Dead]]
-**Perception** +28; [[Darkvision]], sense visitors
-**Languages** [[Common]], [[Necril]]
-**Skills** [[Deception]] +31, [[Diplomacy]] +31, [[Intimidation]] +33, [[Occultism]] +28, [[Society]] +28
+**Source** [[DATABASE/source/Book of the Dead|Book of the Dead]]
+**Perception** +28; [[DATABASE/monsterability/Darkvision|darkvision]], sense visitors
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Necril|Necril]]
+**Skills** [[DATABASE/skill/Deception|Deception]] +31, [[DATABASE/skill/Diplomacy|Diplomacy]] +31, [[DATABASE/skill/Intimidation|Intimidation]] +33, [[DATABASE/skill/Occultism|Occultism]] +28, [[DATABASE/skill/Society|Society]] +28
 **Str** +4, **Dex** +8, **Con** +4, **Int** +6, **Wis** +6, **Cha** +9
 **Demesne Confinement** (curse, necromancy, occult) A pale sovereign is tied to their demesne, a territory of a 5-mile radius surrounding their home estate. They can't leave their demesne of their own accord. A pale sovereign taken from their demesne can't use any of their innate spells or rituals and gradually withers over the course of a week, turning to dust if they don't return before 7 days have passed.
 **Sense Visitors** (detection, divination, occult) A pale sovereign automatically knows when a creature enters or leaves their demesne, though this doesn't give them precise knowledge of the creature's location.
 
 ---
 **AC** 36; **Fort** +26, **Ref** +30, **Will** +28; –2 to all saves vs. curses
-**HP** 298 ([[Negative Healing]]); **Immunities** death effects, disease, [[Paralyzed]], poison, [[Sleep]]
-<span class="in-box-ability">**Aura of Charm** (aura, emotion, incapacitation, mental, occult) 80 feet. The aura of a pale sovereign is beguiling and inviting, affecting creatures beginning their turns within it with an 8th-level [[Charm]] (DC 39 Will save). A creature that fails its Will save perceives the pale sovereign as they were in life, not their current undead form. A creature that succeeds at its save is then temporarily immune to that pale sovereign's aura for 24 hours.</span>
+**HP** 298 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects, disease, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/spell/Sleep|sleep]]
+<span class="in-box-ability">**Aura of Charm** (aura, emotion, incapacitation, mental, occult) 80 feet. The aura of a pale sovereign is beguiling and inviting, affecting creatures beginning their turns within it with an 8th-level [[DATABASE/spell/Charm|charm]] (DC 39 Will save). A creature that fails its Will save perceives the pale sovereign as they were in life, not their current undead form. A creature that succeeds at its save is then temporarily immune to that pale sovereign's aura for 24 hours.</span>
 
 ---
-**Speed** 25 feet, [[Air Walk]]
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> rosebriar lash +28 [+23/+18] (finesse, magical, reach 10 feet, versatile P), **Damage** 4d8+8 slashing plus 2d6 [[Persistent Damage]]</span>**Occult Innate Spells** DC 41; **8th** _[[Spirit Song]]_, _[[Spiritual Epidemic]]_; **7th** _[[Curse of Lost Time]]_, _[[Feeblemind]]_, _[[Hallucination]]_, _[[Project Image]]_, _[[Suggestion]]_; **6th** _[[Bestial Curse]]_, _[[Cloak of Colors]]_, _[[Enthrall]]_ (at will), _[[Outcast's Curse]]_; **Constant** **(5th)** _[[Air Walk]]_
-**Rituals** DC 41; **6th** _[[Ward Domain]]_; **4th** _[[Garden of Death]]_; **3rd** _[[Unseen Custodians]]_
+**Speed** 25 feet, [[DATABASE/spell/Air Walk|air walk]]
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> rosebriar lash +28 [+23/+18] (finesse, magical, reach 10 feet, versatile P), **Damage** 4d8+8 slashing plus 2d6 [[DATABASE/condition/Persistent Damage|persistent bleed]]</span>**Occult Innate Spells** DC 41; **8th** _[[DATABASE/spell/Spirit Song|spirit song]]_, _[[DATABASE/spell/Spiritual Epidemic|spiritual epidemic]]_; **7th** _[[DATABASE/spell/Curse of Lost Time|curse of lost time]]_, _[[DATABASE/spell/Feeblemind|feeblemind]]_, _[[DATABASE/spell/Hallucination|hallucination]]_, _[[DATABASE/spell/Project Image|project image]]_, _[[DATABASE/spell/Suggestion|suggestion]]_; **6th** _[[DATABASE/spell/Bestial Curse|bestial curse]]_, _[[DATABASE/spell/Cloak of Colors|cloak of colors]]_, _[[DATABASE/spell/Enthrall|enthrall]]_ (at will), _[[DATABASE/spell/Outcast's Curse|outcast's curse]]_; **Constant** **(5th)** _[[DATABASE/spell/Air Walk|air walk]]_
+**Rituals** DC 41; **6th** _[[DATABASE/ritual/Ward Domain|ward domain]]_; **4th** _[[DATABASE/ritual/Garden of Death|garden of death]]_; **3rd** _[[DATABASE/ritual/Unseen Custodians|unseen custodians]]_
 <span class="in-box-ability">**Curse of Eternal Sleep** <span class="action-icon">2</span> (curse, enchantment, incapacitation, mental, occult, sleep) The pale sovereign touches an adjacent living creature to send it into an endless slumber. The target must attempt a DC 39 Will save.
  **Critical Success** The target is unaffected and is temporarily immune for 24 hours.
- **Success** The target becomes drowsy and is [[Slowed]] for 1 minute.
- **Failure** The target falls [[Unconscious]], though it doesn't fall [[Prone]] or release what it's holding. It can't awaken with a successful Perception check, though dealing any amount of damage to the creature breaks the slumber. If it's still unconscious after 1 hour, it awakens.
+ **Success** The target becomes drowsy and is [[DATABASE/condition/Slowed|slowed 1]] for 1 minute.
+ **Failure** The target falls [[DATABASE/condition/Unconscious|unconscious]], though it doesn't fall [[DATABASE/condition/Prone|prone]] or release what it's holding. It can't awaken with a successful Perception check, though dealing any amount of damage to the creature breaks the slumber. If it's still unconscious after 1 hour, it awakens.
  **Critical Failure** The target falls unconscious permanently, falling prone, and can't be awoken as long as the curse remains.</span><span class="in-box-ability">**Siphon Vitality** <span class="action-icon">3</span> (necromancy, negative, occult) The pale sovereign siphons the life force from creatures around them. All living creatures in a 30-foot emanation take 6d8 negative damage (DC 39 basic Fortitude save). The pale sovereign regains HP equal to the highest damage a single creature took from this effect.</span>
 
 ###  Breaking the Curse

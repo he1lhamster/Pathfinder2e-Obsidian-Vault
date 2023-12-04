@@ -98,18 +98,18 @@ wisdom: '+4'
 # Ngara
 
 This creature did not include a description.
-**Recall Knowledge - Aberration ([[Occultism]])**: DC 40
+**Recall Knowledge - Aberration ([[DATABASE/skill/Occultism|Occultism]])**: DC 40
 **Unspecific Lore**: DC 38
 **Specific Lore**: DC 35
 
 # Ngara<span class="item-type">Creature 12</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Aberration</span>
-**Source** [[Kingmaker Adventure Path]]
-Female variant [[Spirit Naga]]
-**Perception** +22; [[Darkvision]]
-**Languages** [[Aklo]], [[Common]]
-**Skills** [[Acrobatics]] +23, [[Athletics]] +22, [[Deception]] +25, [[Intimidation]] +25, [[Occultism]] +22, [[Stealth]] +23
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
+Female variant [[DATABASE/monster/Spirit Naga|spirit naga]]
+**Perception** +22; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Aklo|Aklo]], [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +23, [[DATABASE/skill/Athletics|Athletics]] +22, [[DATABASE/skill/Deception|Deception]] +25, [[DATABASE/skill/Intimidation|Intimidation]] +25, [[DATABASE/skill/Occultism|Occultism]] +22, [[DATABASE/skill/Stealth|Stealth]] +23
 **Str** +4, **Dex** +5, **Con** +4, **Int** +2, **Wis** +4, **Cha** +7
 
 ---
@@ -118,6 +118,6 @@ Female variant [[Spirit Naga]]
 
 ---
 **Speed** 25 feet, swim 15 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fangs +24 [+20/+16] (agile, finesse), **Damage** 3d10+8 piercing plus spirit naga venom</span>**Occult Spontaneous Spells** DC 32, attack +20; **6th** _[[Dominate]]_, _[[Feeblemind]]_, _[[Phantasmal Calamity]]_, _[[Spirit Blast]]_ (4 slots); **5th** _[[Black Tentacles]]_, _[[Dispel Magic]]_, _[[Subconscious Suggestion]]_, _[[Tongues]]_ (5 slots); **4th** _[[Clairvoyance]]_, _[[Confusion]]_, _[[Fly]]_, _[[Modify Memory]]_ (4 slots); **3rd** _[[Dream Message]]_, _[[Mind Reading]]_, _[[Paralyze]]_, _[[Vampiric Touch]]_ (4 slots); **2nd** _[[Blur]]_, _[[Humanoid Form]]_, _[[Mirror Image]]_, _[[Telekinetic Maneuver]]_ (4 slots); **1st** _[[Charm]]_, _[[Command]]_, _[[Grim Tendrils]]_, _[[Unseen Servant]]_ (4 slots); **Cantrips** **(5th)** _[[Daze]]_, _[[Detect Magic]]_, _[[Mage Hand]]_, _[[Read Aura]]_, _[[Sigil]]_
-**Rituals** DC 31; **2nd** _[[Inveigle]]_
-<span class="in-box-ability">**Spirit Naga Venom** (poison) **Saving Throw** DC 32 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 2d6 poison damage and [[Stupefied]] (1 round); **Stage 2** 2d6 poison damage and stupefied 2 (1 round)</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fangs +24 [+20/+16] (agile, finesse), **Damage** 3d10+8 piercing plus spirit naga venom</span>**Occult Spontaneous Spells** DC 32, attack +20; **6th** _[[DATABASE/spell/Dominate|dominate]]_, _[[DATABASE/spell/Feeblemind|feeblemind]]_, _[[DATABASE/spell/Phantasmal Calamity|phantasmal calamity]]_, _[[DATABASE/spell/Spirit Blast|spirit blast]]_ (4 slots); **5th** _[[DATABASE/spell/Black Tentacles|black tentacles]]_, _[[DATABASE/spell/Dispel Magic|dispel magic]]_, _[[DATABASE/spell/Subconscious Suggestion|subconscious suggestion]]_, _[[DATABASE/spell/Tongues|tongues]]_ (5 slots); **4th** _[[DATABASE/spell/Clairvoyance|clairvoyance]]_, _[[DATABASE/spell/Confusion|confusion]]_, _[[DATABASE/spell/Fly|fly]]_, _[[DATABASE/spell/Modify Memory|modify memory]]_ (4 slots); **3rd** _[[DATABASE/spell/Dream Message|dream message]]_, _[[DATABASE/spell/Mind Reading|mind reading]]_, _[[DATABASE/spell/Paralyze|paralyze]]_, _[[DATABASE/spell/Vampiric Touch|vampiric touch]]_ (4 slots); **2nd** _[[DATABASE/spell/Blur|blur]]_, _[[DATABASE/spell/Humanoid Form|humanoid form]]_, _[[DATABASE/spell/Mirror Image|mirror image]]_, _[[DATABASE/spell/Telekinetic Maneuver|telekinetic maneuver]]_ (4 slots); **1st** _[[DATABASE/spell/Charm|charm]]_, _[[DATABASE/spell/Command|command]]_, _[[DATABASE/spell/Grim Tendrils|grim tendrils]]_, _[[DATABASE/spell/Unseen Servant|unseen servant]]_ (4 slots); **Cantrips** **(5th)** _[[DATABASE/spell/Daze|daze]]_, _[[DATABASE/spell/Detect Magic|detect magic]]_, _[[DATABASE/spell/Mage Hand|mage hand]]_, _[[DATABASE/spell/Read Aura|read aura]]_, _[[DATABASE/spell/Sigil|sigil]]_
+**Rituals** DC 31; **2nd** _[[DATABASE/ritual/Inveigle|inveigle]]_
+<span class="in-box-ability">**Spirit Naga Venom** (poison) **Saving Throw** DC 32 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 2d6 poison damage and [[DATABASE/condition/Stupefied|stupefied 1]] (1 round); **Stage 2** 2d6 poison damage and stupefied 2 (1 round)</span>

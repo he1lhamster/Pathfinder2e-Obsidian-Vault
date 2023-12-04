@@ -11,6 +11,7 @@ name: Desperate Prayer
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Desperate Prayer <span class="action-icon">4</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Champion</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Frequency** once per day
 **Trigger** You begin your turn and have no Focus Points in your pool.
 

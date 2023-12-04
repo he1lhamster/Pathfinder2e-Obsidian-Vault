@@ -2,6 +2,7 @@
 id: '49'
 name: Cliffscale Lizardfolk
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 trait: null
 type: Heritage
@@ -9,9 +10,9 @@ type: Heritage
 ---
 # Cliffscale Lizardfolk
 
-**Source** [[Character Guide]] 
-Your toes are adapted for gripping and climbing. You gain the [[Combat Climber]] feat as a bonus feat, and as long as you aren't wearing footwear, you can use the sticky pads on your feet to climb, leaving your hands free. Additionally, if you roll a success on an [[Athletics]] check to climb, you get a critical success instead.
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
+Your toes are adapted for gripping and climbing. You gain the [[DATABASE/feat/Combat Climber|Combat Climber]] feat as a bonus feat, and as long as you aren't wearing footwear, you can use the sticky pads on your feet to climb, leaving your hands free. Additionally, if you roll a success on an [[DATABASE/skill/Athletics|Athletics]] check to climb, you get a critical success instead.
 
 ### Feats Requiring Cliffscale Lizardfolk...
 
-[[Gecko's Grip]]
+[[DATABASE/feat/Gecko's Grip|Gecko's Grip]]

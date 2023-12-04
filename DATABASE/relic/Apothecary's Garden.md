@@ -5,6 +5,7 @@ item_category: Relics
 name: Apothecary's Garden
 prerequisite: null
 rarity: Common
+rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
@@ -17,7 +18,7 @@ type: Relic Minor Gift
 # Apothecary's Garden<span class="item-type">Minor Gift</span>
 
 <span class="item-trait">Healing</span><span class="item-trait">Necromancy</span><span class="item-trait">Plant</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Aspect** plant
 
 ---

@@ -9,6 +9,7 @@ language: null
 max_speed: null
 name: Suli
 rarity: null
+rus_type_level: null
 size: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 speed: null
@@ -20,8 +21,8 @@ vision: null
 # Suli (Versatile Heritage)
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Suli</span>
-**Source** [[Ancestry Guide]] 
-_Sulis are geniekin who embody a mixture of elements, most commonly air, earth, fire, and water. They are typically the descendants of jann, genies of all four elements that wander the [[Material Plane]] instead of making a home on the Elemental Planes._
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
+_Sulis are geniekin who embody a mixture of elements, most commonly air, earth, fire, and water. They are typically the descendants of jann, genies of all four elements that wander the [[DATABASE/plane/Material Plane|Material Plane]] instead of making a home on the Elemental Planes._
 At birth, a suli resembles their mortal ancestry, not manifesting their otherworldly heritage until adolescence, when they awaken into their elemental power. Strong in body and will, sulis are dynamic and ever-changing, and most feel they embody either all the elements together at once or the traits of different elements at different times. Some see themselves as having multiple aspects or faces to their personalities—one for each element—that they cycle through over the course of days or weeks.
 
 ## You Might...
@@ -44,22 +45,22 @@ Of all geniekin, sulis most closely resemble their mortal ancestries, and many c
 ## Society
 
 Most sulis can conform to the societies they're born into. They tend to be highly social and gravitate toward jobs or societal roles where they will be seen by or interact with the public, whether working in restaurants or performing on a stage. Sulis often prize fame and recognition, wanting themselves or the people close to them to be known and remembered, and many take up artistic hobbies like songwriting, poetry, or painting to memorialize people and places they hold dear.
- Some suli-jann try to seek out their immortal ancestors, but the nomadic [[Janni]] rarely invite sulis to live among them. Instead, jann encourage sulis to enter mortal societies, hopefully working to influence the Empire of Kelesh from the inside and end the enslavement of genies. Many sulis become drawn into this conflict; some do so to impress their immortal ancestors, but most simply abhor slavery.
+ Some suli-jann try to seek out their immortal ancestors, but the nomadic [[DATABASE/monster/Janni|jann ]] rarely invite sulis to live among them. Instead, jann encourage sulis to enter mortal societies, hopefully working to influence the Empire of Kelesh from the inside and end the enslavement of genies. Many sulis become drawn into this conflict; some do so to impress their immortal ancestors, but most simply abhor slavery.
 
 ## Alignment and Religion
 
 Most sulis are intense but adaptable people, valuing inner strength and truth over conformity or peace, often respecting others for living their personal truths more than for sharing common values. Sulis usually have a neutral component to their alignment; true neutral is the most common alignment among them, with lawful neutral, chaotic neutral, neutral good, and neutral evil suiting most other sulis.
- Sulis are typically only religious if raised in a religious society, but those that heavily invest in their faiths or become clerics tend to follow gods of duality like [[Nethys]] and [[Gozreh]], gods of creation and alchemy like [[Qi Zhong]] and [[Brigh]], or gods of travel like [[Desna]] and [[Alseta]]. Shelyn is also popular among sulis who identify themselves with the process of artistic creation, seeing themselves as a beautiful whole made of disparate parts.
+ Sulis are typically only religious if raised in a religious society, but those that heavily invest in their faiths or become clerics tend to follow gods of duality like [[DATABASE/deity/Nethys|Nethys]] and [[DATABASE/deity/Gozreh|Gozreh]], gods of creation and alchemy like [[DATABASE/deity/Qi Zhong|Qi Zhong]] and [[DATABASE/deity/Brigh|Brigh]], or gods of travel like [[DATABASE/deity/Desna|Desna]] and [[DATABASE/deity/Alseta|Alseta]]. Shelyn is also popular among sulis who identify themselves with the process of artistic creation, seeing themselves as a beautiful whole made of disparate parts.
 
 ## Adventurers
 
-Sulis often come from [[Artisan]], [[Bounty Hunter]], [[Emissary]], or [[Nomad]] backgrounds before becoming adventurers. Sulis' elemental manifestations in adolescence cause many of them to seek answers about their heritage; these sulis typically train as [[Acolyte]] or [[Scholar]]. Classes that focus on creation or the combination of elements, such as [[Alchemist]] and [[Wizard]], appeal to the multi-elemental nature of many sulis, while others pursue classes like [[Bard]] that combine martial and magical disciplines. Suli [[Monk]] often focus their attention inward, harnessing the elemental potential within themselves and exploring their inherent connection to the elements through their martial art.
+Sulis often come from [[DATABASE/background/Artisan|artisan]], [[DATABASE/background/Bounty Hunter|bounty hunter]], [[DATABASE/background/Emissary|emissary]], or [[DATABASE/background/Nomad|nomad]] backgrounds before becoming adventurers. Sulis' elemental manifestations in adolescence cause many of them to seek answers about their heritage; these sulis typically train as [[DATABASE/background/Acolyte|acolytes]] or [[DATABASE/background/Scholar|scholars]]. Classes that focus on creation or the combination of elements, such as [[DATABASE/class_/Alchemist|alchemists]] and [[DATABASE/class_/Wizard|wizards]], appeal to the multi-elemental nature of many sulis, while others pursue classes like [[DATABASE/class_/Bard|bard]] that combine martial and magical disciplines. Suli [[DATABASE/class_/Monk|monks]] often focus their attention inward, harnessing the elemental potential within themselves and exploring their inherent connection to the elements through their martial art.
 
 ## Other Information
 
 ### Family Relations
 
-Most sulis are descended from [[Janni]], a type of genie that embodies the connection and interaction between the four elements. These suli are known as [[Suli-Jann]], though the fact that a suli could have any ancestor other than a janni is often lost on non-sulis. Other sulis are the children of creatures that encompass multiple elements, or are the children of two geniekin tied to different elements (such as an [[Oread]] and an [[Undine]]).
+Most sulis are descended from [[DATABASE/monster/Janni|jann]], a type of genie that embodies the connection and interaction between the four elements. These suli are known as [[DATABASE/feat/Suli-Jann|suli-jann]], though the fact that a suli could have any ancestor other than a janni is often lost on non-sulis. Other sulis are the children of creatures that encompass multiple elements, or are the children of two geniekin tied to different elements (such as an [[DATABASE/ancestry/Oread|oread]] and an [[DATABASE/ancestry/Undine|undine]]).
 
 ### Geniekin Cuisine
 
@@ -76,9 +77,9 @@ Like their jann ancestors, sulis tend to wander or live nomadic lives more often
 
 # Versatile Heritage
 
-## [[Suli]]
+## [[DATABASE/heritage/Suli|Suli]]
 
 <span class="trait-uncommon item-trait">Uncommon</span>
-**Source** [[Ancestry Guide]] 
-**Ancestry Page** [[Suli]]
-You are descended from a [[Janni]] or otherwise embody a dichotomy of opposing elemental planar forces. You gain the suli trait, in addition to the traits from your ancestry. You also gain low-light vision, or you gain darkvision if your ancestry already has low-light vision. You can choose from suli feats and feats from your ancestry whenever you gain an ancestry feat.
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
+**Ancestry Page** [[DATABASE/ancestry/Suli|Suli]]
+You are descended from a [[DATABASE/monster/Janni|janni]] or otherwise embody a dichotomy of opposing elemental planar forces. You gain the suli trait, in addition to the traits from your ancestry. You also gain low-light vision, or you gain darkvision if your ancestry already has low-light vision. You can choose from suli feats and feats from your ancestry whenever you gain an ancestry feat.

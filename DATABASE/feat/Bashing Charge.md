@@ -11,6 +11,7 @@ name: Bashing Charge
 prerequisite: Trained in [[DATABASE/skill/Athletics|Athletics]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,13 +25,13 @@ type: Feat
 # Bashing Charge <span class="action-icon">2</span> <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Barbarian</span><span class="item-trait">Flourish</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Zombie]]*
-**Prerequisites** trained in [[Athletics]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Zombie|Zombie]]*
+**Prerequisites** trained in [[DATABASE/skill/Athletics|Athletics]]
 * This archetype offers Bashing Charge at a different level than displayed here.
 
 ---
-You smash, bust, and charge through solid obstacles without hesitation. Stride twice. Once during your movement, if your movement passes through or ends adjacent to a door, window, fence, wall, or similar obstacle, you can attempt an [[Athletics]] check to [[Force Open]] the obstacle with a +1 circumstance bonus to the roll; on a failure, your movement ends at that obstacle.
+You smash, bust, and charge through solid obstacles without hesitation. Stride twice. Once during your movement, if your movement passes through or ends adjacent to a door, window, fence, wall, or similar obstacle, you can attempt an [[DATABASE/skill/Athletics|Athletics]] check to [[DATABASE/action/Force Open|Force Open]] the obstacle with a +1 circumstance bonus to the roll; on a failure, your movement ends at that obstacle.
 
 ## Archetype Use
 

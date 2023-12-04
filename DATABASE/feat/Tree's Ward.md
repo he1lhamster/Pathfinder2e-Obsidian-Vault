@@ -11,6 +11,7 @@ name: Tree's Ward
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Tree's Ward <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Ghoran</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 
 ---
-You've lived among trees for so long they recognize your presence and seek to protect you from harm. You can cast [[Protector Tree]] as a primal innate spell once per day.
+You've lived among trees for so long they recognize your presence and seek to protect you from harm. You can cast [[DATABASE/spell/Protector Tree|protector tree]] as a primal innate spell once per day.
 
 ## Traits
 

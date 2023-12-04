@@ -11,6 +11,7 @@ name: Hulking Size
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -24,14 +25,14 @@ type: Feat
 # Hulking Size <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Evolution</span><span class="item-trait">Summoner</span>
-**Source** [[Secrets of Magic]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]]
 
 ---
 Your eidolon grows substantially. Your eidolon becomes Large, instead of its previous size, and its reach increases to 10 feet. This doesn't change any of its other statistics.
 
 ## Hulking Size Leads To...
 
-[[Towering Size]]
+[[DATABASE/feat/Towering Size|Towering Size]]
 
 ## Traits
 

@@ -15,6 +15,7 @@ name: Clone Mirrors
 rarity: Common
 reflex: '+11'
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 trait:
@@ -29,13 +30,13 @@ will: null
 # Clone Mirrors<span class="item-type">Hazard 6</span>
 
 <span class="item-trait">Complex</span><span class="item-trait">Magical</span><span class="item-trait">Trap</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Complexity** Complex
 **Stealth** DC 21
 **Description** Two opposing mirrors spawn illusory duplicates of creatures in the hall in an unending tide.
 
 ---
-**Disable** DC 28 [[Thievery]] (expert) to reposition each mirror, or [[Dispel Magic]] (3rd level; counteract DC 25) to counteract each mirror
+**Disable** DC 28 [[DATABASE/skill/Thievery|Thievery]] (expert) to reposition each mirror, or [[DATABASE/spell/Dispel Magic|dispel magic]] (3rd level; counteract DC 25) to counteract each mirror
 **AC** 21, **Fort** +17, **Ref** +11
 **Hardness** 13 per mirror, **HP** 54 (BT 27); **Immunities** object immunities
 **Spawn Reflection** <span class="action-icon">5</span> (illusion) **Trigger** A creature is reflected in the mirror; **Effect** The mirror creates a reflection of the triggering creature, which Steps out of the mirror and into the hall. The trap then rolls initiative.

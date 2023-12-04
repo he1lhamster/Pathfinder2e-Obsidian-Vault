@@ -11,6 +11,7 @@ name: Shackleborn
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -24,14 +25,14 @@ type: Feat
 # Shackleborn <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Lineage</span><span class="item-trait">Tiefling</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-Your lineage shows the signs of [[Velstrac]] tampering, including some curious quirk bequeathed by those shadowy surgeons of flesh and souls. Your flesh heals cleanly and quickly—all the better for you to serve as a subject for their ghastly art. You gain the [[Fast Recovery]] feat, even if you don't meet the prerequisites.
+Your lineage shows the signs of [[DATABASE/monsterfamily/Velstrac|velstrac]] tampering, including some curious quirk bequeathed by those shadowy surgeons of flesh and souls. Your flesh heals cleanly and quickly—all the better for you to serve as a subject for their ghastly art. You gain the [[DATABASE/feat/Fast Recovery|Fast Recovery]] feat, even if you don't meet the prerequisites.
 
 ## Shackleborn Leads To...
 
-[[Velstrac Magic]]
+[[DATABASE/feat/Velstrac Magic|Velstrac Magic]]
 
 ## Traits
 
@@ -41,4 +42,4 @@ A feat with this trait indicates a character's descendance from a particular typ
 
 **Tiefling:**
 
-A creature with this trait has the tiefling versatile heritage. Tieflings are [[Planar Scion]] descended from fiends. An ability with this trait can be used or selected only by tieflings.
+A creature with this trait has the tiefling versatile heritage. Tieflings are [[DATABASE/monsterfamily/Planar Scion|planar scions]] descended from fiends. An ability with this trait can be used or selected only by tieflings.

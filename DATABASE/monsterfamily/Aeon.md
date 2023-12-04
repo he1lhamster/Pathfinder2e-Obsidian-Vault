@@ -3,6 +3,7 @@ creature_family: Aeon
 id: '2'
 name: Aeon
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,14 +11,14 @@ type: Creature Family
 ---
 # Aeon
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Aeons have always been the caretakers of reality and defenders of the natural order of balance. Each type of aeon takes on some form of duality in its manifestation and works either to shape the multiverse within the aspects of this duality in some way, or to correct imbalances to the perfect order of existence. Aeons can bring weal or woe when they appear in a region, and their machinations can raise a nation, raze it, or restore it from ruin. Their reasons are their own, and they rarely share their motivations with others— they simply create the results they insist through their strange envisioning communication are necessary to maintain the balance of the multiverse.
  As a result of recent shifts in reality, aeons have begun to reassert a presence in the perfect planar city of Axis. To the aeons, this is merely the latest in a recurring cycle, albeit one that mortals have not yet borne witness to. Once regarded as an independent faction, the living machines known as inevitables are now revealed as having been agents of the aeons all along, and while inevitables have their own shared themes and features, they are very much living but constructed manifestations of the aeons’ war against imbalance—particularly with regard to how this war is waged against the forces of chaos.
  Aeons have a name for this cyclic return, in which they welcome the industrious axiomites back to their fold and bring the inevitables once again under their control: the “Convergence.” At the onset of the Convergence, a council of pleroma aeons appeared in the Eternal City of Axis, where they revealed that axiomites were wayward aeons, split off long ago to pursue the act of creation. With the latest cycle of change it was time for the axiomites and their creations, the inevitables, to rejoin the aeon cause. While most axiomites and inevitables fell in line, realizing perhaps on a fundamental level of reality that what the aeons said was the truth, some refused to heed the call and waited for the wrath of the aeons — but that wrath has yet to come. The dual-natured aeons have responded to those who have declined in confusing ways. With some they treat and even bargain, while a handful of others they have destroyed, and a few have been exterminated by the axiomites and allied inevitables. But most of these quiet insurgents they leave alone, allowing these axiomites to continue to create in peace and the inevitables to continue with their duties. How—or if—this Convergence will end is as little understood as the aeons themselves.
 
 ### Members
 
-[[Arbiter]] (Creature 1), [[Axiomite]] (Creature 8), [[Bythos]] (Creature 16), [[Kolyarut]] (Creature 12), [[Marut]] (Creature 15), [[Pleroma]] (Creature 20), [[Theletos]] (Creature 7), [[Zelekhut]] (Creature 9)
+[[DATABASE/monster/Arbiter|Arbiter]] (Creature 1), [[DATABASE/monster/Axiomite|Axiomite]] (Creature 8), [[DATABASE/monster/Bythos|Bythos]] (Creature 16), [[DATABASE/monster/Kolyarut|Kolyarut]] (Creature 12), [[DATABASE/monster/Marut|Marut]] (Creature 15), [[DATABASE/monster/Pleroma|Pleroma]] (Creature 20), [[DATABASE/monster/Theletos|Theletos]] (Creature 7), [[DATABASE/monster/Zelekhut|Zelekhut]] (Creature 9)
 
 ###  Aeon Divinities
 
@@ -29,4 +30,4 @@ Aeons are among the least understood of the Great Beyond’s immortal creatures,
 
 ###  Paradox and Unity
 
-To mortals, aeons sometimes seem to combine elements that are fundamentally incompatible, whether it's an aeon combining opposing concepts, or [[Axiomite]] and inevitables mixing the organic with the mathematical or mechanical. Aeons see no paradox in this, but rather claim it is an expression of the underlying unity of all things.
+To mortals, aeons sometimes seem to combine elements that are fundamentally incompatible, whether it's an aeon combining opposing concepts, or [[DATABASE/monster/Axiomite|axiomites]] and inevitables mixing the organic with the mathematical or mechanical. Aeons see no paradox in this, but rather claim it is an expression of the underlying unity of all things.

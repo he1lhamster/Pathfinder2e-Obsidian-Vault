@@ -2,6 +2,7 @@
 id: '92'
 name: Gods of the Expanse
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -15,4 +16,4 @@ type: Source
 
 ## Deities [4]
 
-[[Demon Bringers]], [[Sky Keepers]], [[The Freeing Flame]], [[Touch of the Sun]]
+[[DATABASE/deity/Demon Bringers|Demon Bringers]], [[DATABASE/deity/Sky Keepers|Sky Keepers]], [[DATABASE/deity/The Freeing Flame|The Freeing Flame]], [[DATABASE/deity/Touch of the Sun|Touch of the Sun]]

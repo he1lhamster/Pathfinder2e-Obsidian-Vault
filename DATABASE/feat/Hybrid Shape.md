@@ -11,6 +11,7 @@ name: Hybrid Shape
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 subcategory: null
@@ -23,13 +24,13 @@ type: Feat
 # Hybrid Shape <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Anadi</span>
-**Source** [[The Mwangi Expanse]]
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]
 
 ---
-Mastery of your shapeshifting lets you combine the best features of your humanoid and spider forms. When using your [[Change Shape]] ability, you can assume a bipedal hybrid shape. This form gains all the benefits of your spider shape as well as the ability to use items and take manipulate actions just as easily as your human shape.
+Mastery of your shapeshifting lets you combine the best features of your humanoid and spider forms. When using your [[DATABASE/action/Change Shape|Change Shape]] ability, you can assume a bipedal hybrid shape. This form gains all the benefits of your spider shape as well as the ability to use items and take manipulate actions just as easily as your human shape.
 
 ## Traits
 
 **Anadi:**
 
-A reclusive people from Garund who resemble spiders and can assume [[Dwarf]] forms.
+A reclusive people from Garund who resemble spiders and can assume [[DATABASE/ancestry/Dwarf|human]] forms.

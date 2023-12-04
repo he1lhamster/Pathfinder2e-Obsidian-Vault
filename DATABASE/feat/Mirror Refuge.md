@@ -11,6 +11,7 @@ name: Mirror Refuge
 prerequisite: '[[DATABASE/feat/Mirror-Risen|Mirror-Risen]]'
 rarity: Common
 requirement: You're within 5 feet of a mirrored surface.
+rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -26,13 +27,13 @@ type: Feat
 # Mirror Refuge <span class="action-icon">2</span> <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Conjuration</span><span class="item-trait">Extradimensional</span><span class="item-trait">Occult</span><span class="item-trait">Reflection</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Frequency** once per day
-**Prerequisites** [[Mirror-Risen]]
+**Prerequisites** [[DATABASE/feat/Mirror-Risen|Mirror-Risen]]
 **Requirements** You're within 5 feet of a mirrored surface.
 
 ---
-Your origin in the space behind mirrors enables you to use a mirror as a hideaway, like the spell [[Meld into Stone]]. You meld into an adjacent mirror. You can hear but not see outside this space, and creatures outside can't see or hear you. You can cast spells while within the mirror, but no effects can cross the mirror. Your Mirror Refuge lasts for 10 minutes unless the mirror is broken, which expels you and deals 10d6 damage to you. You can Dismiss the effect. You appear in a space adjacent to the mirror when the effect ends.
+Your origin in the space behind mirrors enables you to use a mirror as a hideaway, like the spell [[DATABASE/spell/Meld into Stone|meld into stone]]. You meld into an adjacent mirror. You can hear but not see outside this space, and creatures outside can't see or hear you. You can cast spells while within the mirror, but no effects can cross the mirror. Your Mirror Refuge lasts for 10 minutes unless the mirror is broken, which expels you and deals 10d6 damage to you. You can Dismiss the effect. You appear in a space adjacent to the mirror when the effect ends.
 
 ## Traits
 
@@ -50,4 +51,4 @@ This magic comes from the occult tradition, calling upon bizarre and ephemeral m
 
 **Reflection:**
 
-A creature with this trait has the [[Reflection]] versatile heritage. Reflections are beings who are copies of living people, whether through cloning, planar duplication, or another mechanism. An ability with this trait can be used or selected only by reflections.
+A creature with this trait has the [[DATABASE/ancestry/Reflection|reflection]] versatile heritage. Reflections are beings who are copies of living people, whether through cloning, planar duplication, or another mechanism. An ability with this trait can be used or selected only by reflections.

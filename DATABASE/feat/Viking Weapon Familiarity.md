@@ -11,6 +11,7 @@ name: Viking Weapon Familiarity
 prerequisite: '[[DATABASE/feat/Viking Dedication|Viking Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,16 +24,16 @@ type: Feat
 # Viking Weapon Familiarity <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Viking]]
-**Prerequisites** [[Viking Dedication]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Viking|Viking]]
+**Prerequisites** [[DATABASE/feat/Viking Dedication|Viking Dedication]]
 
 ---
-From childhood, you have been exposed to traditional viking weapons, and you soon learned to handle them in battle. Now, you can raid proudly alongside your fellows. You are trained with the [[Battle Axe]], [[Hatchet]], [[Longsword]], and [[Shortsword]]. In addition, you gain the [[Shield Block]] reaction.
+From childhood, you have been exposed to traditional viking weapons, and you soon learned to handle them in battle. Now, you can raid proudly alongside your fellows. You are trained with the [[DATABASE/weapon/Battle Axe|battle axe]], [[DATABASE/weapon/Hatchet|hatchet]], [[DATABASE/weapon/Longsword|longsword]], and [[DATABASE/weapon/Shortsword|shortsword]]. In addition, you gain the [[DATABASE/feat/Shield Block|Shield Block]] reaction.
 
 ## Viking Weapon Familiarity Leads To...
 
-[[Viking Weapon Specialist]]
+[[DATABASE/feat/Viking Weapon Specialist|Viking Weapon Specialist]]
 
 ## Traits
 

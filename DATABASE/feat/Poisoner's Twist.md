@@ -13,6 +13,7 @@ prerequisite: '[[DATABASE/feat/Poisoner Dedication|Poisoner Dedication]] ; Train
 rarity: Common
 requirement: Your last action was a successful melee Strike that dealt damage against
   a target that is afflictedby a poison, and you know which poison.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,9 +26,9 @@ type: Feat
 # Poisoner's Twist <span class="action-icon">1</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Poisoner]]
-**Prerequisites** [[Poisoner Dedication]]; trained in [[Medicine]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Poisoner|Poisoner]]
+**Prerequisites** [[DATABASE/feat/Poisoner Dedication|Poisoner Dedication]]; trained in [[DATABASE/skill/Medicine|Medicine]]
 **Requirements** Your last action was a successful melee Strike that dealt damage against a target that is afflicted by a poison, and you know which poison.
 
 ---

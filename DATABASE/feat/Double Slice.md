@@ -11,6 +11,7 @@ name: Double Slice
 prerequisite: null
 rarity: Common
 requirement: You are wielding two melee weapons, each in a different hand.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Double Slice <span class="action-icon">2</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Fighter</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Requirements** You are wielding two melee weapons, each in a different hand.
 
 ---
@@ -32,4 +33,4 @@ You lash out at your foe with both weapons. Make two Strikes, one with each of y
 
 ## Double Slice Leads To...
 
-[[Graceful Poise]]
+[[DATABASE/feat/Graceful Poise|Graceful Poise]]

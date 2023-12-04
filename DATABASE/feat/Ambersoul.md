@@ -11,6 +11,7 @@ name: Ambersoul
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Ambersoul <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Ardande</span><span class="item-trait">Lineage</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
 Your elemental heritage is reflected in the oils and fragrances of plants, in tree resin that fossilizes into amber, or in the gentle smell of a flower. Sticky, golden sap runs through your veins instead of blood. Each time a creature deals slashing or piercing damage to you with a melee Strike, your sap coats its weapon or unarmed attack. The creature takes a –1 circumstance penalty on attack rolls with that weapon or unarmed attack until the end of its turn.
@@ -33,7 +34,7 @@ Your elemental heritage is reflected in the oils and fragrances of plants, in tr
 
 **Ardande:**
 
-Ardandes are [[Planar Scion]] descended from [[Kizidhar]] and other beings of elemental wood.
+Ardandes are [[DATABASE/monsterfamily/Planar Scion|planar scions]] descended from [[DATABASE/monster/Kizidhar|kizidhar]] and other beings of elemental wood.
 
 **Lineage:**
 

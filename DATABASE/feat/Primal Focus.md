@@ -11,6 +11,7 @@ name: Primal Focus
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,11 +24,11 @@ type: Feat
 # Primal Focus <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Druid</span>
-**Source** [[Core Rulebook]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
 Your connection to nature is particularly strong, and the spirits of nature flock around you, helping you replenish your focus. If you have spent at least 2 Focus Points since the last time you Refocused, you recover 2 Focus Points when you Refocus instead of 1.
 
 ## Primal Focus Leads To...
 
-[[Primal Wellspring]]
+[[DATABASE/feat/Primal Wellspring|Primal Wellspring]]

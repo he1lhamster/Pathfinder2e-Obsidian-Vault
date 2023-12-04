@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Poisoner Dedication|Poisoner Dedication]] ; Exper
   in [[DATABASE/skill/Crafting|Crafting]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Expert Poisoner <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Poisoner]]
-**Prerequisites** [[Poisoner Dedication]]; expert in [[Crafting]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Poisoner|Poisoner]]
+**Prerequisites** [[DATABASE/feat/Poisoner Dedication|Poisoner Dedication]]; expert in [[DATABASE/skill/Crafting|Crafting]]
 
 ---
 Your advanced alchemy level for poison increases to your level – 3.

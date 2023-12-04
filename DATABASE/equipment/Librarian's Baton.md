@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Librarian's Baton<span class="item-type">Item 9</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Detection</span><span class="item-trait">Divination</span><span class="item-trait">Magical</span>
-**Source** [[Pathfinder Special. Fumbus]]
+**Source** [[DATABASE/source/Pathfinder Special. Fumbus|Pathfinder Special: Fumbus]]
 **Price** 650 gp
 **Usage** held in 1 hand; **Bulk** L
 

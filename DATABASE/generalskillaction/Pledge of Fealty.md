@@ -2,6 +2,7 @@
 id: '16'
 name: Pledge of Fealty
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait: null
 type: General Skill Action
@@ -9,18 +10,18 @@ type: General Skill Action
 ---
 # Pledge of Fealty (Trained)
 
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 
 ## Skill Uses
 
-[[Intrigue]] Pledge of Fealty
-[[Statecraft]] Pledge of Fealty
-[[Warfare]] Pledge of Fealty
+[[DATABASE/skill/Intrigue|Intrigue]] Pledge of Fealty
+[[DATABASE/skill/Statecraft|Statecraft]] Pledge of Fealty
+[[DATABASE/skill/Warfare|Warfare]] Pledge of Fealty
 
-## [[Pledge of Fealty]]
+## [[DATABASE/action/Pledge of Fealty|Pledge of Fealty]]
 
 <span class="item-trait">Downtime</span><span class="item-trait">Leadership</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 
 ---
 When your representatives encounter freeholders, refugees, independent groups, or other bands of individuals gathered in the wilderness who aren't already part of a nation, you can offer them a place in your kingdom, granting them the benefits of protection, security, and prosperity in exchange for their fealty. The benefits granted to your kingdom can vary wildly, but often manifest as one-time boons to your commodities or unique bonuses against certain types of events. The adventure text in this campaign offers numerous examples of groups who could accept a Pledge of Fealty. You can attempt this skill check with Intrigue, Statecraft, or Warfare; however, certain groups will respond better (or worse) to specific skills. The DC is the group's Negotiation DC (see the sidebar on page 519).

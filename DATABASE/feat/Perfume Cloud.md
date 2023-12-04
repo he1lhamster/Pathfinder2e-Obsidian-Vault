@@ -11,6 +11,7 @@ name: Perfume Cloud
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -24,15 +25,15 @@ type: Feat
 # Perfume Cloud <span class="action-icon">2</span> <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Disease</span><span class="item-trait">Ghoran</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 **Frequency** once per hour
 
 ---
 You issue a cloud of your fragrance like a full-body sneeze—but one that might save your life as the powerful perfume makes your attackers' eyes sting and water. Plants and fungi are immune to this effect, but all other creatures in a 10-foot emanation must attempt a Fortitude save against your class DC or spell DC (whichever is higher) with the following results.
 **Critical Success** No effect.
-**Success** The creature is [[Dazzled]] for 1 round.
+**Success** The creature is [[DATABASE/condition/Dazzled|dazzled]] for 1 round.
 **Failure** The creature is dazzled and can see only 10 feet away for 1 round.
-**Critical Failure** The creature is [[Blinded]] for 1 round.
+**Critical Failure** The creature is [[DATABASE/condition/Blinded|blinded]] for 1 round.
 
 ## Traits
 

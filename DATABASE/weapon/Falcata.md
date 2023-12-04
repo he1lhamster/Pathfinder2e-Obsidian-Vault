@@ -12,6 +12,7 @@ name: Falcata
 price: 3 gp
 range: null
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
 - '[[DATABASE/trait/Fatal|Fatal d12]]'
@@ -24,10 +25,10 @@ weapon_type: Melee
 # Falcata
 
 <span class="item-trait">Fatal d12</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 3 gp; **Damage** 1d8 S; **Bulk** 1
 **Hands** 1
-**Type** Melee; **Category** Advanced; **Group** [[Sword]]
+**Type** Melee; **Category** Advanced; **Group** [[DATABASE/weapongroup/Sword|Sword]]
 
 ---
 The falcata is a heavy, one-handed sword with a single cutting edge, usually flaring to be wider towards the point of the weapon and narrower towards the hilt.
@@ -40,6 +41,6 @@ The fatal trait includes a die size. On a critical hit, the weapon’s damage di
 
 ## Critical Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
-**Sword**: The target is made off-balance by your attack, becoming [[Flat-Footed]] until the start of your next turn.
+**Sword**: The target is made off-balance by your attack, becoming [[DATABASE/condition/Flat-Footed|flat-footed]] until the start of your next turn.

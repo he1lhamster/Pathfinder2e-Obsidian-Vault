@@ -32,6 +32,7 @@ reflex: null
 requirement: Your last action was an Interact action to stow the affixed firearm or
   crossbow.
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 size: null
@@ -56,10 +57,10 @@ weapon_type: null
 # Peacemaker<span class="item-type">Item 6</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Consumable</span><span class="item-trait">Magical</span><span class="item-trait">Talisman</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 35 gp
 **Usage** affixed to a weapon; **Bulk** —
 **Activate** <span class="action-icon">1</span> envision, manipulate **Requirements** Your last action was an Interact action to stow the affixed firearm or crossbow.
 
 ---
-This ragged piece of white cloth is wrapped around the grip, stock, or haft of the affixed weapon. When you activate the talisman, you gain the effects of a [[Sanctuary]] spell (DC 20) lasting for 1 minute. If you draw the affixed firearm, the effect ends immediately and the talisman crumbles.
+This ragged piece of white cloth is wrapped around the grip, stock, or haft of the affixed weapon. When you activate the talisman, you gain the effects of a [[DATABASE/spell/Sanctuary|sanctuary]] spell (DC 20) lasting for 1 minute. If you draw the affixed firearm, the effect ends immediately and the talisman crumbles.

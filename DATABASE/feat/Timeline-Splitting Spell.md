@@ -11,6 +11,7 @@ name: Timeline-Splitting Spell
 prerequisite: '[[DATABASE/feat/Time Mage Dedication|Time Mage Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Divination
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -27,10 +28,10 @@ type: Feat
 # Timeline-Splitting Spell <span class="action-icon">3</span> <span class="item-type">Feat 18</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Concentrate</span><span class="item-trait">Divination</span><span class="item-trait">Manipulate</span><span class="item-trait">Metamagic</span>
-**Source** [[Dark Archive]]
-**Archetype** [[Time Mage]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Archetype** [[DATABASE/archetype/Time Mage|Time Mage]]
 **Frequency** once per day
-**Prerequisites** [[Time Mage Dedication]]
+**Prerequisites** [[DATABASE/feat/Time Mage Dedication|Time Mage Dedication]]
 
 ---
 You invest in two futures, then choose the one to make a reality. You Cast two Spells that each take 1 or 2 actions to cast. These can't be the same spell heightened to two different levels. You expend the resources for both spells, such as spell slots, Focus Points, and material components. Determine the immediate results for both spells, including attack rolls, saving throws, damage, and any other dice rolls. Then, choose which of the two spells takes effect, using the previously made rolls. The other spell's resources are still expended, but the spell has no effect as the magic disappears the other timeline.

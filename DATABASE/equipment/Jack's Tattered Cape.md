@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Illusion
 size: null
@@ -55,9 +56,9 @@ weapon_type: null
 # Jack's Tattered Cape<span class="item-type">Item 2</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Illusion</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span>
-**Source** [[Monsters of Myth]]
+**Source** [[DATABASE/source/Monsters of Myth|Monsters of Myth]]
 **Price** 30 gp
 **Usage** worn cloak; **Bulk** —
 
 ---
-This ragged, mud-stained cape closes with a single black button engraved with a leering devil's face. When you [[Leap]], [[High Jump]], or [[Long Jump]] (or Vault, if you're [[Spring-Heeled Jack]]), you gain a +1 item bonus to [[Stealth]] checks to [[Hide]] or [[Sneak]] until the start of your next turn.
+This ragged, mud-stained cape closes with a single black button engraved with a leering devil's face. When you [[DATABASE/action/Leap|Leap]], [[DATABASE/action/High Jump|High Jump]], or [[DATABASE/action/Long Jump|Long Jump]] (or Vault, if you're [[DATABASE/monster/Spring-Heeled Jack|Spring-Heeled Jack]]), you gain a +1 item bonus to [[DATABASE/skill/Stealth|Stealth]] checks to [[DATABASE/action/Hide|Hide]] or [[DATABASE/action/Sneak|Sneak]] until the start of your next turn.

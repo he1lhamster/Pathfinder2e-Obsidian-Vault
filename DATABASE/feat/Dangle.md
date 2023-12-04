@@ -11,6 +11,7 @@ name: Dangle
 prerequisite: '[[DATABASE/feat/Flexible Tail|Flexible Tail]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Dangle <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Lizardfolk</span>
-**Source** [[Ancestry Guide]] 
-**Prerequisites** [[Flexible Tail]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
+**Prerequisites** [[DATABASE/feat/Flexible Tail|Flexible Tail]]
 
 ---
 You can hang by your tail from any suitable anchor point, such as a tree branch, balcony, or rocky outcropping (subject to the GM's discretion), typically while climbing. While hanging, you have free use of all your other limbs, so you can perform tasks that require both hands, such as firing a bow or swinging a greatsword.

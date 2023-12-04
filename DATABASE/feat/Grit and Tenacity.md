@@ -11,6 +11,7 @@ name: Grit and Tenacity
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Grit and Tenacity <span class="action-icon">5</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Fortune</span><span class="item-trait">Gunslinger</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Frequency** once per hour
 **Trigger** You fail a Fortitude or Will save.
 
@@ -33,7 +34,7 @@ You call upon deep reserves of toughness and mental fortitude to power through a
 
 ## Grit and Tenacity Leads To...
 
-[[Unshakable Grit]]
+[[DATABASE/feat/Unshakable Grit|Unshakable Grit]]
 
 ## Traits
 

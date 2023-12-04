@@ -25,6 +25,7 @@ follower_alignment:
 id: '61'
 name: Thoth
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Arcana|Arcana]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -34,18 +35,18 @@ type: Deity
 ---
 # Thoth (Lord of Divine Words) [LN]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Category** Ancient Osirian Gods
 **Edicts** Maintain order in society and the multiverse, innovate scientific and magical knowledge, record events
 **Anathema** Upset stable mechanisms or ecosystems, fail to correct false information
 **Follower Alignments** LG, LN, N
-**Pantheons** [[The Enlightened Scholar's Path]], [[Wards of the Pharaoh]]
+**Pantheons** [[DATABASE/deity/The Enlightened Scholar's Path|The Enlightened Scholar's Path]], [[DATABASE/deity/Wards of the Pharaoh|Wards of the Pharaoh]]
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Intelligence or Wisdom
-**Divine Font** _[[Harm]]_ or _[[Heal]]_
-**Divine Skill** [[Arcana]]
-**Favored Weapon** [[Sickle]]
-**Domains** [[Glyph Domain]], [[Knowledge Domain]], [[Magic Domain]], [[Moon Domain]]
-**Cleric Spells** 1st: _[[Message Rune]]_, 2nd: _[[Comprehend Language]]_, 3rd: _[[Secret Page]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Intelligence or Wisdom
+**Divine Font** _[[DATABASE/spell/Harm|harm]]_ or _[[DATABASE/spell/Heal|heal]]_
+**Divine Skill** [[DATABASE/skill/Arcana|Arcana]]
+**Favored Weapon** [[DATABASE/weapon/Sickle|sickle]]
+**Domains** [[DATABASE/domain/Glyph Domain|glyph]], [[DATABASE/domain/Knowledge Domain|knowledge]], [[DATABASE/domain/Magic Domain|magic]], [[DATABASE/domain/Moon Domain|moon]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Message Rune|message rune]]_, 2nd: _[[DATABASE/spell/Comprehend Language|comprehend language]]_, 3rd: _[[DATABASE/spell/Secret Page|secret page]]_

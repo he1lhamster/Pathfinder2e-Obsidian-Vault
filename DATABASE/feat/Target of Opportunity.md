@@ -11,6 +11,7 @@ name: Target of Opportunity
 prerequisite: '[[DATABASE/feat/Marshal Dedication|Marshal Dedication]]'
 rarity: Common
 requirement: You have a ranged or [[DATABASE/trait/Thrown|thrown]] weapon in hand.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,9 +26,9 @@ type: Feat
 # Target of Opportunity <span class="action-icon">5</span> <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Manipulate</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Marshal]]
-**Prerequisites** [[Marshal Dedication]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Marshal|Marshal]]
+**Prerequisites** [[DATABASE/feat/Marshal Dedication|Marshal Dedication]]
 **Trigger** An ally succeeds at a ranged Strike against an opponent within your weapon's first range increment.
 **Requirements** You have a ranged or thrown weapon in hand.
 

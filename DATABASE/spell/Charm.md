@@ -34,6 +34,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -54,10 +55,10 @@ type: Spell
 # Charm<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Emotion</span><span class="item-trait">Enchantment</span><span class="item-trait">Incapacitation</span><span class="item-trait">Mental</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult, primal
-**Bloodlines** [[Diabolic]], [[Fey]], [[Nymph]]
-**Deities** [[Ardad Lili]], [[Asmodeus]], [[Belial]], [[Calistria]], [[Conqueror Worm]], [[Hathor]], [[Nalinivati]], [[Ravithra]], [[Sturovenen]], [[The Green Mother]], [[Zura]]
+**Bloodlines** [[DATABASE/sorcererbloodline/Diabolic|diabolic]], [[DATABASE/sorcererbloodline/Fey|fey]], [[DATABASE/sorcererbloodline/Nymph|nymph]]
+**Deities** [[DATABASE/deity/Ardad Lili|Ardad Lili]], [[DATABASE/deity/Asmodeus|Asmodeus]], [[DATABASE/deity/Belial|Belial]], [[DATABASE/deity/Calistria|Calistria]], [[DATABASE/deity/Conqueror Worm|Conqueror Worm]], [[DATABASE/deity/Hathor|Hathor]], [[DATABASE/deity/Nalinivati|Nalinivati]], [[DATABASE/deity/Ravithra|Ravithra]], [[DATABASE/deity/Sturovenen|Sturovenen]], [[DATABASE/deity/The Green Mother|The Green Mother]], [[DATABASE/deity/Zura|Zura]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet; **Targets** 1 creature
 **Saving Throw** Will; **Duration** 1 hour

@@ -11,6 +11,7 @@ name: Weapon Improviser Dedication
 prerequisite: trained in all martial weapons
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Weapon Improviser Dedication <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Dedication</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Weapon Improviser]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Weapon Improviser|Weapon Improviser]]
 **Prerequisites** trained in all martial weapons
 
 ---
@@ -34,7 +35,7 @@ You don't take the normal –2 penalty to attack rolls with improvised weapons. 
 
 ## Weapon Improviser Dedication Leads To...
 
-[[Improvised Critical]], [[Improvised Pummel]], [[Makeshift Strike]], [[Surprise Strike]]
+[[DATABASE/feat/Improvised Critical|Improvised Critical]], [[DATABASE/feat/Improvised Pummel|Improvised Pummel]], [[DATABASE/feat/Makeshift Strike|Makeshift Strike]], [[DATABASE/feat/Surprise Strike|Surprise Strike]]
 
 ## Traits
 

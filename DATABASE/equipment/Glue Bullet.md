@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -54,10 +55,10 @@ weapon_type: null
 # Glue Bullet<span class="item-type">Item 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 16 gp
 **Ammunition** round; **Bulk** —
 **Activate** <span class="action-icon">1</span> Interact
 
 ---
-These cartridges are filled with sticky clear glue. When a glue bullet hits, a syrupy webbing coats the target and sticks to the ground or a nearby surface, hindering their movement. The target takes a –10-foot circumstance penalty to its Speeds for 2d4 rounds, or until it [[Escape]] against a DC of 18. On a critical hit, the target is also [[Immobilized]] until it Escapes.
+These cartridges are filled with sticky clear glue. When a glue bullet hits, a syrupy webbing coats the target and sticks to the ground or a nearby surface, hindering their movement. The target takes a –10-foot circumstance penalty to its Speeds for 2d4 rounds, or until it [[DATABASE/action/Escape|Escape]] against a DC of 18. On a critical hit, the target is also [[DATABASE/condition/Immobilized|immobilized]] until it Escapes.

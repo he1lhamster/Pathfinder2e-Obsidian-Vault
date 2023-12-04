@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
@@ -40,7 +41,7 @@ type: Spell
 # Indestructibility<span class="item-type">Spell 10</span>
 
 <span class="item-trait">Abjuration</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Traditions** arcane, divine, occult, primal
 **Spell List** elemental
 **Cast** <span class="action-icon">2</span> somatic, verbal

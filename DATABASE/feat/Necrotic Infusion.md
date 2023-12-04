@@ -11,6 +11,7 @@ name: Necrotic Infusion
 prerequisite: '[[DATABASE/class_/Cleric|harmful font]] ; evil alignment'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -25,11 +26,11 @@ type: Feat
 # Necrotic Infusion <span class="action-icon">1</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Cleric</span><span class="item-trait">Concentrate</span><span class="item-trait">Metamagic</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Cleric]]; evil alignment
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/class_/Cleric|harmful font]]; evil alignment
 
 ---
-You pour negative energy into your undead subject to empower its attacks. If the next action you use is to cast [[Harm]] to restore Hit Points to a single undead creature, the target then deals an additional 1d6 negative damage with its melee weapons and unarmed attacks until the end of its next turn. If the _harm_ spell is at least 5th level, this damage increases to 2d6, and if the _harm_ spell is at least 8th level, the damage increases to 3d6.
+You pour negative energy into your undead subject to empower its attacks. If the next action you use is to cast [[DATABASE/spell/Harm|harm]] to restore Hit Points to a single undead creature, the target then deals an additional 1d6 negative damage with its melee weapons and unarmed attacks until the end of its next turn. If the _harm_ spell is at least 5th level, this damage increases to 2d6, and if the _harm_ spell is at least 8th level, the damage increases to 3d6.
 
 ## Traits
 

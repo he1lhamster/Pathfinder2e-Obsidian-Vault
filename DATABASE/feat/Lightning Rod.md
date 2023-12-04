@@ -11,6 +11,7 @@ name: Lightning Rod
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -28,10 +29,10 @@ type: Feat
 # Lightning Rod <span class="action-icon">3</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Air</span><span class="item-trait">Composite</span><span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Metal</span><span class="item-trait">Primal</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
-You smash a metal rod into your foe and call lightning to it. Attempt a 1-action melee [[Elemental Blast]] using the metal element. On a hit, the target is skewered with a metal rod, which gives it a –1 circumstance penalty to AC and saves against electricity; the penalty is –2 if the creature also has the metal trait, is made of metal, or is wearing metal armor. A hit creature immediately takes 1d12 electricity damage with a basic Reflex save against your class DC. The creature can Interact to attempt a DC 10 [[Athletics]] check to pull the lightning rod free.
+You smash a metal rod into your foe and call lightning to it. Attempt a 1-action melee [[DATABASE/action/Elemental Blast|Elemental Blast]] using the metal element. On a hit, the target is skewered with a metal rod, which gives it a –1 circumstance penalty to AC and saves against electricity; the penalty is –2 if the creature also has the metal trait, is made of metal, or is wearing metal armor. A hit creature immediately takes 1d12 electricity damage with a basic Reflex save against your class DC. The creature can Interact to attempt a DC 10 [[DATABASE/skill/Athletics|Athletics]] check to pull the lightning rod free.
 
 ---
 **Level (+6)** The electricity damage increases by 1d12.

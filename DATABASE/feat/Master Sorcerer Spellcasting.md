@@ -14,6 +14,7 @@ prerequisite: '[[DATABASE/feat/Expert Sorcerer Spellcasting|Expert Sorcerer Spel
   , depending on bloodline'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -26,9 +27,9 @@ type: Feat
 # Master Sorcerer Spellcasting <span class="item-type">Feat 18</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Sorcerer]]
-**Prerequisites** [[Expert Sorcerer Spellcasting]]; legendary in [[Arcana]], [[Nature]], [[Occultism]], or [[Religion]], depending on bloodline
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Sorcerer|Sorcerer]]
+**Prerequisites** [[DATABASE/feat/Expert Sorcerer Spellcasting|Expert Sorcerer Spellcasting]]; legendary in [[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]], [[DATABASE/skill/Occultism|Occultism]], or [[DATABASE/skill/Religion|Religion]], depending on bloodline
 
 ---
 You gain the master spellcasting benefits.

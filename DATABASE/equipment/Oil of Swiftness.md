@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -56,10 +57,10 @@ weapon_type: null
 # Oil of Swiftness<span class="item-type">Item 6</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Consumable</span><span class="item-trait">Magical</span><span class="item-trait">Oil</span><span class="item-trait">Transmutation</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 50 gp
 **Usage** held in 2 hands; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
 ---
-Anoint a weapon with _oil of swiftness_, which hisses upon application, to give it the benefits of the _[[Speed]]_ rune for 1 minute.
+Anoint a weapon with _oil of swiftness_, which hisses upon application, to give it the benefits of the _[[DATABASE/equipment/Speed|speed]]_ rune for 1 minute.

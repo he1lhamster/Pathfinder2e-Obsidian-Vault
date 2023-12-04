@@ -11,6 +11,7 @@ name: Legendary Tattoo Artist
 prerequisite: '[[DATABASE/feat/Tattoo Artist|Tattoo Artist]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 subcategory: crafting
@@ -24,8 +25,8 @@ type: Feat
 # Legendary Tattoo Artist <span class="item-type">Feat 15</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Treasure Vault]] 
-**Prerequisites** [[Tattoo Artist]]; master in [[Crafting]]
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
+**Prerequisites** [[DATABASE/feat/Tattoo Artist|Tattoo Artist]]; master in [[DATABASE/skill/Crafting|Crafting]]
 
 ---
 Your craftsmanship at decorating flesh is unparalleled. You become legendary in Crafting. Whenever you craft a magical tattoo whose level is at least 3 lower than your level, increase all attack roll and DC values of the tattoo's activated abilities by 1, and increase all resistances granted by the tattoo by 1.

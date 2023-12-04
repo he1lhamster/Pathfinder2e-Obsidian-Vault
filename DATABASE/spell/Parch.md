@@ -22,6 +22,7 @@ patron_theme: null
 range: 60 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Fortitude
 school: Evocation
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -37,8 +38,8 @@ type: Focus
 # Parch<span class="item-type">Focus 1</span>
 
 <span class="item-trait">Air</span><span class="item-trait">Evocation</span>
-**Source** [[Gods & Magic]] 
-**Domain** [[Dust Domain]]
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
+**Domain** [[DATABASE/domain/Dust Domain|dust]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 60 feet; **Targets** 1 creature
 **Saving Throw** Fortitude
@@ -48,7 +49,7 @@ Dry winds dehydrate a creature. The target must attempt a Fortitude save; if use
 **Critical Success** The target is unaffected.
 **Success** The target takes a –1 status penalty to its checks and DCs for 1 round.
 **Failure** The target takes a –1 status penalty to its checks and DCs for 1 minute.
-**Critical Failure** The target takes a –2 status penalty to its checks and DCs for 1 minute and is [[Dazzled]] as long as it has this penalty.
+**Critical Failure** The target takes a –2 status penalty to its checks and DCs for 1 minute and is [[DATABASE/condition/Dazzled|dazzled]] as long as it has this penalty.
 If a creature affected by _parch_ drinks a liquid, such as a swig of water or a potion, the spell ends. Affected creatures that have the water trait or are made primarily of liquid, as well as affected creatures that can’t drink, can end the effect as a two-action activity, which has the concentrate trait.
 
 ---

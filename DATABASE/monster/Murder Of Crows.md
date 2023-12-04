@@ -72,16 +72,16 @@ wisdom: '+6'
 # Murder Of Crows
 
 This creature did not include a description.
-**Recall Knowledge - Animal ([[Nature]])**: DC 31
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 31
 **Unspecific Lore**: DC 29
 **Specific Lore**: DC 26
 
 # Murder Of Crows<span class="item-type">Creature 9</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Animal</span><span class="item-trait">Swarm</span>
-**Source** [[Kingmaker Adventure Path]]
-**Perception** +19; [[Low-Light Vision]]
-**Skills** [[Acrobatics]] +19, [[Thievery]] +19
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
+**Perception** +19; [[DATABASE/monsterability/Low-Light Vision|low-light vision]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +19, [[DATABASE/skill/Thievery|Thievery]] +19
 **Str** +0, **Dex** +6, **Con** +4, **Int** -4, **Wis** +6, **Cha** +0
 
 ---

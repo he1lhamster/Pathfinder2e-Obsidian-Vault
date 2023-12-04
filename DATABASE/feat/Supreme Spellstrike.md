@@ -11,6 +11,7 @@ name: Supreme Spellstrike
 prerequisite: '[[DATABASE/action/Spellstrike|Spellstrike]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Supreme Spellstrike <span class="item-type">Feat 20</span>
 
 <span class="item-trait">Magus</span>
-**Source** [[Secrets of Magic]] 
-**Prerequisites** [[Spellstrike]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
+**Prerequisites** [[DATABASE/action/Spellstrike|Spellstrike]]
 
 ---
-You've made it almost effortless to combine spells and attacks. You're permanently [[Quickened]]. You can use your extra action only to Strike or to recharge Spellstrike.
+You've made it almost effortless to combine spells and attacks. You're permanently [[DATABASE/condition/Quickened|quickened]]. You can use your extra action only to Strike or to recharge Spellstrike.

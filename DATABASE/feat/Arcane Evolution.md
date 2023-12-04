@@ -11,6 +11,7 @@ name: Arcane Evolution
 prerequisite: bloodline that grants arcane spells
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Arcane Evolution <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Arcane</span><span class="item-trait">Sorcerer</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Prerequisites** bloodline that grants arcane spells
 
 ---
@@ -33,7 +34,7 @@ Your arcane legacy grants you an exceptional aptitude for intellectual and acade
 
 ## Arcane Evolution Leads To...
 
-[[Greater Mental Evolution]], [[Greater Physical Evolution]]
+[[DATABASE/feat/Greater Mental Evolution|Greater Mental Evolution]], [[DATABASE/feat/Greater Physical Evolution|Greater Physical Evolution]]
 
 ## Traits
 

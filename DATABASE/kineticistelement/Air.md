@@ -3,6 +3,7 @@ element: Air
 id: '1'
 name: Air
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 trait: null
 type: Kineticist Element
@@ -10,7 +11,7 @@ type: Kineticist Element
 ---
 # Air
 
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ## Impulse Feats
 
@@ -29,4 +30,4 @@ Before or after the other effects of the impulse, you can either Stride up to ha
 **Critical Blast** Push the target up to 10 feet.
 **Elemental Resistance** air, electricity
 **Aura Junction** You and any ally that starts its turn in the aura gets a +10-foot status bonus to land Speed until the end of that turn, and to fly Speed if applicable.
-**Skill Junction** [[Stealth]], [[Experienced Smuggler]]
+**Skill Junction** [[DATABASE/skill/Stealth|Stealth]], [[DATABASE/feat/Experienced Smuggler|Experienced Smuggler]]

@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Scroll Case of Simplicity<span class="item-type">Item 4+</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span><span class="item-trait">Transmutation</span>
-**Source** [[Character Guide]] 
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
 **Usage** held in 1 hand; **Bulk** —
 **Access** A character who is a member of the Pathfinder Society has access to this option.
 
@@ -65,28 +66,28 @@ The four different types of _scroll cases of simplicity_ often bear adornments a
 
 ## Arcane Scroll Case of Simplicity<span class="item-type">Item 4</span>
 
-**Source** [[Character Guide]] 
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
 **Price** 100 gp
 **Usage** held in 1 hand
-The scroll case can be used to cast [[Alarm]] or [[Unseen Servant]].
+The scroll case can be used to cast [[DATABASE/spell/Alarm|alarm]] or [[DATABASE/spell/Unseen Servant|unseen servant]].
 
 ## Divine Scroll Case of Simplicity<span class="item-type">Item 4</span>
 
-**Source** [[Character Guide]] 
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
 **Price** 100 gp
 **Usage** held in 1 hand
-The scroll case can be used to cast [[Heal]] or [[Purify Food and Drink]].
+The scroll case can be used to cast [[DATABASE/spell/Heal|heal]] or [[DATABASE/spell/Purify Food and Drink|purify food and drink]].
 
 ## Occult Scroll Case of Simplicity<span class="item-type">Item 4</span>
 
-**Source** [[Character Guide]] 
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
 **Price** 100 gp
 **Usage** held in 1 hand
-The scroll case can be used to cast [[Illusory Disguise]] or [[Soothe]].
+The scroll case can be used to cast [[DATABASE/spell/Illusory Disguise|illusory disguise]] or [[DATABASE/spell/Soothe|soothe]].
 
 ## Primal Scroll Case of Simplicity<span class="item-type">Item 4</span>
 
-**Source** [[Character Guide]] 
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
 **Price** 100 gp
 **Usage** held in 1 hand
-The scroll case can be used to cast [[Longstrider]] or [[Pass Without Trace]].
+The scroll case can be used to cast [[DATABASE/spell/Longstrider|longstrider]] or [[DATABASE/spell/Pass Without Trace|pass without trace]].

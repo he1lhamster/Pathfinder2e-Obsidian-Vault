@@ -5,6 +5,7 @@ id: '15'
 name: Boneyard
 plane_category: Outer Sphere Planes
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
 - '[[DATABASE/trait/Timeless|Timeless]]'
@@ -14,10 +15,10 @@ type: Plane
 # Boneyard<span class="item-type">Plane</span>
 
 <span class="trait-alignment item-trait">N</span><span class="item-trait">Timeless</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Category** Outer Sphere Planes
-**Divinities** [[Achaekek]], [[Groetus]], [[Psychopomp]] ushers, [[Pharasma]]
-**Native Inhabitants** [[Petitioner]] (the dead), [[Psychopomp]],
+**Divinities** [[DATABASE/deity/Achaekek|Achaekek]], [[DATABASE/deity/Groetus|Groetus]], [[DATABASE/monsterfamily/Psychopomp|psychopomp]] ushers, [[DATABASE/deity/Pharasma|Pharasma]]
+**Native Inhabitants** [[DATABASE/monster/Petitioner|petitioners]] (the dead), [[DATABASE/monsterfamily/Psychopomp|psychopomps]],
 
 ---
 The Boneyard spans an impossibly tall and ever-growing spire of gleaming quintessence that rises up into the silver void of the Astral Plane. As the destination of the River of Souls, the Boneyard is where the souls of the mortal dead arrive for judgment and for Pharasma and her psychopomp servitors to direct them to their respective afterlives. Pharasma’s domain is separated into eight courts, each corresponding to one of the other planes of the Outer Sphere and collecting the souls due to that plane. Not every soul goes unchallenged, and proxies of gods and planes argue and debate over souls, with final arbitration conducted by Pharasma herself.

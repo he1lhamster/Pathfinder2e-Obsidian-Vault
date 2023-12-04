@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 size: null
@@ -53,7 +54,7 @@ weapon_type: null
 # Mortar of Hidden Meaning<span class="item-type">Item 4</span>
 
 <span class="item-trait">Divination</span><span class="item-trait">Magical</span>
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Price** 75 gp
 **Usage** held in 2 hands; **Bulk** L
 

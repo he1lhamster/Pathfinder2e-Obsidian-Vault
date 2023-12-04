@@ -19,6 +19,7 @@ language:
 max_speed: '25'
 name: Gnome
 rarity: Common
+rus_type_level: null
 size: Small
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 speed:
@@ -33,9 +34,9 @@ vision: Low-Light Vision
 # Gnome
 
 <span class="item-trait">Gnome</span><span class="item-trait">Humanoid</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 _Long ago, early gnome ancestors emigrated from the First World, realm of the fey. While it’s unclear why the first gnomes wandered to Golarion, this lineage manifests in modern gnomes as bizarre reasoning, eccentricity, obsessive tendencies, and what some see as naivete. These qualities are further reflected in their physical characteristics, such as spindly limbs, brightly colored hair, and childlike and extremely expressive facial features that further reflect their otherworldly origins._
-Always hungry for new experiences, gnomes constantly wander both mentally and physically, attempting to stave off a terrible ailment that threatens all of their people. This affliction—the Bleaching—strikes gnomes who fail to dream, innovate, and take in new experiences, in the gnomes' absence of crucial magical essence from the [[First World]]. Gnomes latch onto a source of localized magic where they live, typically primal magic, as befits their fey lineage, but this isn't enough to avoid the Bleaching unless they supplement this magic with new experiences. The Bleaching slowly drains the color—literally—from gnomes, and it plunges those affected into states of deep depression that eventually claim their lives. Very few gnomes survive this scourge, becoming deeply morose and wise survivors known as bleachlings.
+Always hungry for new experiences, gnomes constantly wander both mentally and physically, attempting to stave off a terrible ailment that threatens all of their people. This affliction—the Bleaching—strikes gnomes who fail to dream, innovate, and take in new experiences, in the gnomes' absence of crucial magical essence from the [[DATABASE/plane/First World|First World]]. Gnomes latch onto a source of localized magic where they live, typically primal magic, as befits their fey lineage, but this isn't enough to avoid the Bleaching unless they supplement this magic with new experiences. The Bleaching slowly drains the color—literally—from gnomes, and it plunges those affected into states of deep depression that eventually claim their lives. Very few gnomes survive this scourge, becoming deeply morose and wise survivors known as bleachlings.
  If you want a character with boundless enthusiasm and an alien, fey outlook on morality and life, you should play a gnome.
 
 ## You Might...
@@ -61,13 +62,13 @@ While most gnomes adopt some of the cultural practices of the region in which th
 
 ## Alignment and Religion
 
-Though gnomes are impulsive tricksters with inscrutable motives and confusing methods, many at least attempt to make the world a better place. They are prone to fits of powerful emotion, and they are often good but rarely lawful. Gnomes most commonly worship deities that value individuality and nature, such as [[Cayden Cailean]], [[Desna]], [[Gozreh]], and [[Shelyn]].
+Though gnomes are impulsive tricksters with inscrutable motives and confusing methods, many at least attempt to make the world a better place. They are prone to fits of powerful emotion, and they are often good but rarely lawful. Gnomes most commonly worship deities that value individuality and nature, such as [[DATABASE/deity/Cayden Cailean|Cayden Cailean]], [[DATABASE/deity/Desna|Desna]], [[DATABASE/deity/Gozreh|Gozreh]], and [[DATABASE/deity/Shelyn|Shelyn]].
 
 ## Adventurers
 
 Adventure is not so much a choice as a necessity for most gnomes. Adventuring gnomes often claim mementos, allowing them to remember and relive their most exciting stories.
- Gnomes often consider the [[Entertainer]], [[Merchant]], or [[Nomad]] backgrounds. In addition, the [[Animal Whisperer]], [[Barkeep]], [[Gambler]], and [[Tinker]] backgrounds are particularly appropriate.
- Gnomes' connection to magic makes spellcasting classes particularly thematic for you, especially classes that match the tradition of your primal innate spells, such as [[Druid]] or primal [[Sorcerer]], though wellspring gnomes might choose others.
+ Gnomes often consider the [[DATABASE/background/Entertainer|entertainer]], [[DATABASE/background/Merchant|merchant]], or [[DATABASE/background/Nomad|nomad]] backgrounds. In addition, the [[DATABASE/background/Animal Whisperer|animal whisperer]], [[DATABASE/background/Barkeep|barkeep]], [[DATABASE/background/Gambler|gambler]], and [[DATABASE/background/Tinker|tinker]] backgrounds are particularly appropriate.
+ Gnomes' connection to magic makes spellcasting classes particularly thematic for you, especially classes that match the tradition of your primal innate spells, such as [[DATABASE/class_/Druid|druid]] or primal [[DATABASE/class_/Sorcerer|sorcerer]], though wellspring gnomes might choose others.
 
 ## Names
 
@@ -103,11 +104,11 @@ Strength
 
 ## Languages
 
-[[Common]]
-[[Gnomish]]
-[[Sylvan]]
-Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[Draconic]], [[Dwarven]], [[Elven]], [[Goblin]], [[Jotun]], [[Orcish]], and any other languages to which you have access (such as the languages prevalent in your region).
+[[DATABASE/language/Common|Common]]
+[[DATABASE/language/Gnomish|Gnomish]]
+[[DATABASE/language/Sylvan|Sylvan]]
+Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Dwarven|Dwarven]], [[DATABASE/language/Elven|Elven]], [[DATABASE/language/Goblin|Goblin]], [[DATABASE/language/Jotun|Jotun]], [[DATABASE/language/Orcish|Orcish]], and any other languages to which you have access (such as the languages prevalent in your region).
 
 ## Low-Light Vision
 
-You can see in dim light as though it were bright light, so you ignore the [[Concealed]] condition due to dim light.
+You can see in dim light as though it were bright light, so you ignore the [[DATABASE/condition/Concealed|concealed]] condition due to dim light.

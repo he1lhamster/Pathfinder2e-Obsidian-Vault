@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 size: null
@@ -56,7 +57,7 @@ weapon_type: null
 # Indomitable Keepsake<span class="item-type">Item 3+</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Consumable</span><span class="item-trait">Fortune</span><span class="item-trait">Magical</span><span class="item-trait">Talisman</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Usage** affixed to armor; **Bulk** —
 **Activate** <span class="action-icon">4</span> envision **Trigger** You're critically hit by a firearm attack.
 
@@ -65,17 +66,17 @@ This talisman usually takes the form of a small sentimental object carried in a 
 
 ## Indomitable Keepsake<span class="item-type">Item 3</span>
 
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 12 gp
 
 ## Indomitable Keepsake (Greater)<span class="item-type">Item 9</span>
 
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 120 gp
 When you activate a _greater indomitable keepsake_, you reduce the damage from a firearm critical hit by 20 instead of reducing it by 10.
 
 ## Indomitable Keepsake (Major)<span class="item-type">Item 15</span>
 
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 1,200 gp
 When you activate a _major indomitable keepsake_, you reduce the damage from a firearm critical hit by 30 instead of reducing it by 10.

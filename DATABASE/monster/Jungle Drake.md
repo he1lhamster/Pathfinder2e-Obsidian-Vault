@@ -84,17 +84,17 @@ wisdom: '+1'
 # Jungle Drake
 
 Believed to be related to green dragons, jungle drakes are dangerous hunters equipped with a debilitating venom delivered by a large barbed stinger or their noxious phlegm. Their wings are equipped with vestigial claws that allow them to deftly maneuver through thick jungle foliage both in flight and on foot. Jungle drakes prefer to ambush their prey using hit-and-run tactics, picking off the weakest members of a group and dragging their victims off to finish their meals as they please.
-**Recall Knowledge - Dragon ([[Arcana]])**: DC 22
+**Recall Knowledge - Dragon ([[DATABASE/skill/Arcana|Arcana]])**: DC 22
 **Unspecific Lore**: DC 20
 **Specific Lore**: DC 17
 
 # Jungle Drake<span class="item-type">Creature 6</span>
 
 <span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Dragon</span><span class="item-trait">Earth</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +13; darkvision, scent (imprecise) 30 feet
-**Languages** [[Draconic]]
-**Skills** [[Acrobatics]] +15, [[Athletics]] +13, [[Stealth]] +13, [[Survival]] +11
+**Languages** [[DATABASE/language/Draconic|Draconic]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +15, [[DATABASE/skill/Athletics|Athletics]] +13, [[DATABASE/skill/Stealth|Stealth]] +13, [[DATABASE/skill/Survival|Survival]] +11
 **Str** +5, **Dex** +3, **Con** +4, **Int** -1, **Wis** +1, **Cha** +1
 
 ---
@@ -104,7 +104,7 @@ Believed to be related to green dragons, jungle drakes are dangerous hunters equ
 
 ---
 **Speed** 20 feet, fly 50 feet; woodland stride
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fangs +17 [+12/+7], **Damage** 2d10+7 piercing plus predatory grab</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> stinger +17 [+12/+7] (reach 10 feet), **Damage** 2d6+7 piercing plus Jungle Drake Venom</span><span class="in-box-ability">**Draconic Frenzy** <span class="action-icon">2</span> The jungle drake makes one Fangs Strike and two Stinger Strikes in any order.</span><span class="in-box-ability">**Jungle Drake Venom** (poison) **Saving Throw** Fortitude DC 24; **Maximum Duration** 6 rounds; **Stage 1** 1d6 poison damage and [[Enfeebled]] (1 round); **Stage 2** 1d6 poison damage and enfeebled 2 (1 round)
-</span><span class="in-box-ability">**Predatory Grab** As [[Grab]], but the jungle drake's Grab does not end if it moves away. Instead, it carries the [[Grabbed]] creature with it. A jungle drake can't [[Fly]] while grabbing a creature unless that creature can also Fly.
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fangs +17 [+12/+7], **Damage** 2d10+7 piercing plus predatory grab</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> stinger +17 [+12/+7] (reach 10 feet), **Damage** 2d6+7 piercing plus Jungle Drake Venom</span><span class="in-box-ability">**Draconic Frenzy** <span class="action-icon">2</span> The jungle drake makes one Fangs Strike and two Stinger Strikes in any order.</span><span class="in-box-ability">**Jungle Drake Venom** (poison) **Saving Throw** Fortitude DC 24; **Maximum Duration** 6 rounds; **Stage 1** 1d6 poison damage and [[DATABASE/condition/Enfeebled|enfeebled 1]] (1 round); **Stage 2** 1d6 poison damage and enfeebled 2 (1 round)
+</span><span class="in-box-ability">**Predatory Grab** As [[DATABASE/monsterability/Grab|Grab]], but the jungle drake's Grab does not end if it moves away. Instead, it carries the [[DATABASE/condition/Grabbed|grabbed]] creature with it. A jungle drake can't [[DATABASE/action/Fly|Fly]] while grabbing a creature unless that creature can also Fly.
 </span><span class="in-box-ability">**Speed Surge** <span class="action-icon">1</span> (move) The jungle drake moves up to twice its Speed. It can do this three times per day.</span><span class="in-box-ability">**Spit Venom** <span class="action-icon">2</span> (poison) A jungle drake can spit a sticky glob of its venom to a range of 50 feet that explodes in a 10-foot burst. Those in the burst must succeed at a DC 24 Reflex save or be exposed to jungle drake venom. The jungle drake can't use Spit Venom again for 1d6 rounds.
 </span><span class="in-box-ability">**Woodland Stride** The jungle drake ignores difficult terrain and greater difficult terrain from non-magical foliage.</span>

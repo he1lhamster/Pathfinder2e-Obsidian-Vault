@@ -12,6 +12,7 @@ primary_check: '[[DATABASE/skill/Nature|Nature]] (master)'
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: Divination
 secondary_casters: '1'
 secondary_check: Nature
@@ -27,10 +28,10 @@ type: Ritual
 # Commune with Nature<span class="item-type">Ritual 6</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Divination</span><span class="item-trait">Prediction</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Cast** 1 day; **Cost** rare incense worth a total value of 60 gp; **Secondary Casters** 1
-**Primary Check** [[Nature]] (master); **Secondary Checks** Nature
+**Primary Check** [[DATABASE/skill/Nature|Nature]] (master); **Secondary Checks** Nature
 **Duration** up to 10 minutes
 
 ---
-As [[Commune]], except you contact the primal spirits of nature, which know about animals, beasts, fey, fungi, plants, topography, and natural resources within a 3-mile radius of the ritual’s location.
+As [[DATABASE/ritual/Commune|commune]], except you contact the primal spirits of nature, which know about animals, beasts, fey, fungi, plants, topography, and natural resources within a 3-mile radius of the ritual’s location.

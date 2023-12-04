@@ -72,23 +72,23 @@ wisdom: '+4'
 # Magma Scorpion
 
 Whether skittering through Abyssal wastelands or basking in the searing sand of the deepest deserts, magma scorpions have charred carapaces constantly emitting vision-warping waves of heat.
-**Recall Knowledge - Elemental ([[Arcana]], [[Nature]])**: DC 24
+**Recall Knowledge - Elemental ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 24
 **Unspecific Lore**: DC 22
 **Specific Lore**: DC 19
 
 # Magma Scorpion<span class="item-type">Creature 8</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Elemental</span><span class="item-trait">Fire</span>
-**Source** [[Bestiary 2]] 
-**Perception** +18; [[Darkvision]], smoke vision
-**Skills** [[Athletics]] +18
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +18; [[DATABASE/monsterability/Darkvision|darkvision]], smoke vision
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +18
 **Str** +6, **Dex** +3, **Con** +5, **Int** -4, **Wis** +4, **Cha** +0
-**Smoke Vision** The magma scorpion ignores the [[Concealed]] condition from smoke.
+**Smoke Vision** The magma scorpion ignores the [[DATABASE/condition/Concealed|concealed]] condition from smoke.
 
 ---
 **AC** 28; **Fort** +19, **Ref** +14, **Will** +16
-**HP** 155; **Immunities** bleed, fire, [[Paralyzed]], poison, sleep; **Weaknesses** cold 10
+**HP** 155; **Immunities** bleed, fire, [[DATABASE/condition/Paralyzed|paralyzed]], poison, sleep; **Weaknesses** cold 10
 
 ---
 **Speed** 40 feet, climb 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> pincer +20 [+16/+12] (agile, reach 10 feet), **Damage** 2d6+9 bludgeoning plus 1d6 [[Persistent Damage]] and [[Grab]]</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> tail sting +20 [+15/+10] (reach 10 feet), **Damage** 1d10+9 piercing plus 1d6 [[Persistent Damage]] and magma scorpion venom</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> magma spit +17 [+12/+7] (fire, range increment 40 feet), **Damage** 1d6+9 fire plus 1d6 [[Persistent Damage]]</span><span class="in-box-ability">**Magma Scorpion Venom** (fire, injury, poison) **Saving Throw** DC 26 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 2d6 fire damage (1 round) and [[Enfeebled]]; **Stage 2** 3d6 fire damage and enfeebled 2 (1 round)</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> pincer +20 [+16/+12] (agile, reach 10 feet), **Damage** 2d6+9 bludgeoning plus 1d6 [[DATABASE/condition/Persistent Damage|persistent fire]] and [[DATABASE/monsterability/Grab|Grab]]</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> tail sting +20 [+15/+10] (reach 10 feet), **Damage** 1d10+9 piercing plus 1d6 [[DATABASE/condition/Persistent Damage|persistent fire]] and magma scorpion venom</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> magma spit +17 [+12/+7] (fire, range increment 40 feet), **Damage** 1d6+9 fire plus 1d6 [[DATABASE/condition/Persistent Damage|persistent fire]]</span><span class="in-box-ability">**Magma Scorpion Venom** (fire, injury, poison) **Saving Throw** DC 26 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 2d6 fire damage (1 round) and [[DATABASE/condition/Enfeebled|enfeebled 1]]; **Stage 2** 3d6 fire damage and enfeebled 2 (1 round)</span>

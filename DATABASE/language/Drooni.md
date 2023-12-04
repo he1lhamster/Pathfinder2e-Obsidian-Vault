@@ -2,6 +2,7 @@
 id: '100'
 name: Drooni
 rarity: Rare
+rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 183. Field of Maidens|Pathfinder #183: Field
   of Maidens]]'
 trait:
@@ -11,13 +12,13 @@ type: Language
 ---
 # Drooni
 
-**Source** [[Pathfinder 183. Field of Maidens]]
+**Source** [[DATABASE/source/Pathfinder 183. Field of Maidens|Pathfinder #183: Field of Maidens]]
 The below entries contain speakers of Drooni.
 
 ## Monsters (1)
 
-[[Stone Sister]]
+[[DATABASE/monster/Stone Sister|Stone Sister]]
 
 ## NPCs (4)
 
-[[Lasheeli Aminda, Serene Field Commander]], [[Nwanyian Archer]], [[Nwanyian Defender]], [[Zuntishan Guard]]
+[[DATABASE/npc/Lasheeli Aminda, Serene Field Commander|Lasheeli Aminda]], [[DATABASE/npc/Nwanyian Archer|Nwanyian Archer]], [[DATABASE/npc/Nwanyian Defender|Nwanyian Defender]], [[DATABASE/npc/Zuntishan Guard|Zuntishan Guard]]

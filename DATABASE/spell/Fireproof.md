@@ -20,6 +20,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
@@ -39,7 +40,7 @@ type: Spell
 # Fireproof<span class="item-type">Spell 2</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Fire</span><span class="item-trait">Manipulate</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Traditions** arcane, divine, primal
 **Cast** 1 minute
 **Range** touch; **Targets** 1 object up to 10 Bulk

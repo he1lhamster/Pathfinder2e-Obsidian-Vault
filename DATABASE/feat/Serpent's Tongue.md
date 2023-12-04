@@ -11,6 +11,7 @@ name: Serpent's Tongue
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Serpent's Tongue <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Nagaji</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 
 ---
 You subconsciously flick your tongue through the air to taste the world around you. You gain imprecise scent with a range of 30 feet.

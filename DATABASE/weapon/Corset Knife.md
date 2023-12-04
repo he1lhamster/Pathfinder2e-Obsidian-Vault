@@ -12,6 +12,7 @@ name: Corset Knife
 price: 3 sp
 range: null
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
 - '[[DATABASE/trait/Agile|Agile]]'
@@ -27,10 +28,10 @@ weapon_type: Melee
 # Corset Knife
 
 <span class="item-trait">Agile</span><span class="item-trait">Concealable</span><span class="item-trait">Finesse</span><span class="item-trait">Thrown 10 ft.</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 3 sp; **Damage** 1d4 P; **Bulk** L
 **Hands** 1
-**Type** Melee; **Category** Simple; **Group** [[Knife]]
+**Type** Melee; **Category** Simple; **Group** [[DATABASE/weapongroup/Knife|Knife]]
 
 ---
 A favored self-defense weapon among bar and tavern workers, the corset knife has a weighted hilt and a cylindrical, needlelike blade designed to be easily hidden in clothing, but quickly retrieved in a pinch.
@@ -43,7 +44,7 @@ The multiple attack penalty you take with this weapon on the second attack on yo
 
 **Concealable:**
 
-This weapon is designed to be inconspicuous or easily concealed. You gain a +2 circumstance bonus to [[Stealth]] checks and DCs to hide or conceal a weapon with this trait.
+This weapon is designed to be inconspicuous or easily concealed. You gain a +2 circumstance bonus to [[DATABASE/skill/Stealth|Stealth]] checks and DCs to hide or conceal a weapon with this trait.
 
 **Finesse:**
 
@@ -55,6 +56,6 @@ You can throw this weapon as a ranged attack, and it is a ranged weapon when thr
 
 ## Critical Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
-**Knife**: The target takes 1d6 [[Persistent Damage]]. You gain an item bonus to this bleed damage equal to the weapon's item bonus to attack rolls.
+**Knife**: The target takes 1d6 [[DATABASE/condition/Persistent Damage|persistent bleed damage]]. You gain an item bonus to this bleed damage equal to the weapon's item bonus to attack rolls.

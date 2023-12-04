@@ -2,6 +2,7 @@
 id: '3'
 name: Outwit
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait: null
 type: Ranger Hunter's Edge
@@ -9,7 +10,7 @@ type: Ranger Hunter's Edge
 ---
 # Outwit
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 You are talented at outwitting and evading your prey. You gain a +2 circumstance bonus to Deception checks, Intimidation checks, Stealth checks, and any checks to Recall Knowledge about the prey, and a +1 circumstance bonus to AC against your prey’s attacks.
 
 ## Masterful Hunter Upgrade<span class="item-type">Level 17</span>

@@ -75,22 +75,22 @@ wisdom: '+0'
 # Skeletal Giant
 
 The reanimated bones of giants make excellent necromantic thralls.
-**Recall Knowledge - Undead ([[Religion]])**: DC 18
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Skeletal Giant<span class="item-type">Creature 3</span>
 
 <span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Mindless</span><span class="item-trait">Skeleton</span><span class="item-trait">Undead</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +7; darkvision
-**Skills** [[Athletics]] +12, [[Intimidation]] +9
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +12, [[DATABASE/skill/Intimidation|Intimidation]] +9
 **Str** +5, **Dex** +1, **Con** +3, **Int** -5, **Wis** +0, **Cha** +2
-**Items** [[Glaive]], [[Half Plate]]
+**Items** [[DATABASE/weapon/Glaive|glaive]], [[DATABASE/armor/Half Plate|half plate]]
 
 ---
 **AC** 17; **Fort** +10, **Ref** +8, **Will** +7
-**HP** 50 ([[Negative Healing]]); **Immunities** death effects, disease, mental, paralyzed, poison, unconscious; **Resistances** cold 5, electricity 5, fire 5, piercing 5, slashing 5
+**HP** 50 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects, disease, mental, paralyzed, poison, unconscious; **Resistances** cold 5, electricity 5, fire 5, piercing 5, slashing 5
 
 ---
 **Speed** 30 feet

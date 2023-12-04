@@ -101,24 +101,24 @@ wisdom: '+3'
 
 Tasks like patrolling the sewers for vermin are mundane, perfect for the clockwork hunter. Its hound-like appearance mimics one of humanity's trustiest hunting companions—with a few choice modifications, of course. Few hunting dogs, for example, sport sturdy metal plating and an integrated crossbow bolt launcher. Over time, clockwork makers have unofficially adopted a common model for the hunter, making it fairly easy to find spare parts or compatible accessory modules.
  The city of Alkenstar owns a few dozen clockwork hunters for the purpose of keeping sewer tunnels free of vermin. Shieldmarshals sometimes drop boxes of extra crossbow bolts just inside sewer entrances, enabling clockwork hunters to resupply as needed.
- Other businesses that tend to purchase clockwork hunters include warehouses, butchers, and bakers—essentially, anywhere rats and other vermin tend to congregate. Though quick, a clockwork hunter's body isn't very sturdy and tends to fall apart after only minor abuse. Elite clockwork hunters are fitted with specialty armored plating, giving them resistance 2 to physical damage (except [[Adamantine Weapon]] or [[Orichalcum Weapon]]).
-**Recall Knowledge - Construct ([[Arcana]], [[Crafting]])**: DC 16
+ Other businesses that tend to purchase clockwork hunters include warehouses, butchers, and bakers—essentially, anywhere rats and other vermin tend to congregate. Though quick, a clockwork hunter's body isn't very sturdy and tends to fall apart after only minor abuse. Elite clockwork hunters are fitted with specialty armored plating, giving them resistance 2 to physical damage (except [[DATABASE/equipment/Adamantine Weapon|adamantine]] or [[DATABASE/equipment/Orichalcum Weapon|orichalcum]]).
+**Recall Knowledge - Construct ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Crafting|Crafting]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
 # Clockwork Hunter<span class="item-type">Creature 0</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Small</span><span class="item-trait">Clockwork</span><span class="item-trait">Construct</span><span class="item-trait">Mindless</span>
-**Source** [[Pathfinder 178. Punks in a Powderkeg]]
-**Perception** +7; [[Darkvision]]
-**Skills** [[Athletics]] +4 (+8 to [[Climb]]), [[Stealth]] +8
+**Source** [[DATABASE/source/Pathfinder 178. Punks in a Powderkeg|Pathfinder #178: Punks in a Powderkeg]]
+**Perception** +7; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +4 (+8 to [[DATABASE/action/Climb|Climb]]), [[DATABASE/skill/Stealth|Stealth]] +8
 **Str** +0, **Dex** +4, **Con** +0, **Int** -5, **Wis** +3, **Cha** -5
 **Wind-Up** 48 hours, DC 14, standby
-**Items** [[Crossbow]]
+**Items** [[DATABASE/weapon/Crossbow|crossbow bolt (10)]]
 
 ---
 **AC** 18; **Fort** +2, **Ref** +8, **Will** +5
-**HP** 12; **Immunities** death effects, disease, [[Doomed]], [[Drained]], [[Fatigued]], healing, mental, necromancy, nonlethal attacks, [[Paralyzed]], poison, [[Sickened]], [[Unconscious]]; **Weaknesses** electricity 2, [[Orichalcum]] 2
+**HP** 12; **Immunities** death effects, disease, [[DATABASE/condition/Doomed|doomed]], [[DATABASE/condition/Drained|drained]], [[DATABASE/condition/Fatigued|fatigued]], healing, mental, necromancy, nonlethal attacks, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Sickened|sickened]], [[DATABASE/condition/Unconscious|unconscious]]; **Weaknesses** electricity 2, [[DATABASE/equipment/Orichalcum|orichalcum]] 2
 
 ---
 **Speed** 25 feet, climb 25 feet
@@ -126,4 +126,4 @@ Tasks like patrolling the sewers for vermin are mundane, perfect for the clockwo
 
 ###  Clock-Catcher Kobolds
 
-A group of [[Kobold]] living in the Alkenstar sewers has created an entire enterprise out of catching clockwork hunters on patrol, dismantling them, and selling the parts back to repair shops on the surface. While the sewage maintenance team hasn't figured it out yet, they're getting suspicious and are about to borrow a [[Clockwork Soldier]] from the grand duchess to kill whatever is down there hunting their clockwork hunters.
+A group of [[DATABASE/ancestry/Kobold|kobolds]] living in the Alkenstar sewers has created an entire enterprise out of catching clockwork hunters on patrol, dismantling them, and selling the parts back to repair shops on the surface. While the sewage maintenance team hasn't figured it out yet, they're getting suspicious and are about to borrow a [[DATABASE/monster/Clockwork Soldier|clockwork soldier]] from the grand duchess to kill whatever is down there hunting their clockwork hunters.

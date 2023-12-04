@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -54,9 +55,9 @@ weapon_type: null
 # Anarchic<span class="item-type">Item 11</span>
 
 <span class="item-trait">Chaotic</span><span class="item-trait">Evocation</span><span class="item-trait">Magical</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 1,400 gp
-**Usage** etched onto a weapon without an [[Axiomatic]]; **Bulk** —
+**Usage** etched onto a weapon without an [[DATABASE/equipment/Axiomatic|axiomatic rune]]; **Bulk** —
 
 ---
 An _anarchic_ rune is jagged and asymmetrical, channeling chaotic energy. A weapon with this rune deals an additional 1d6 chaotic damage against lawful targets. If you are lawful, you are enfeebled 2 while carrying or wielding this weapon.

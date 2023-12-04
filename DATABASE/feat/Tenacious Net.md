@@ -11,6 +11,7 @@ name: Tenacious Net
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Tenacious Net <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Grippli</span>
-**Source** [[The Mwangi Expanse]]
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]
 
 ---
-Escaping your nets is no simple task. The [[Athletics]] DC to [[Force Open]] or [[Escape]] your nets increases from 16 to 18. After a creature you grabbed with a net Escapes or Forces Open the net, stray strands of the net cling to the creature, causing them to remain [[Flat-Footed]] until the beginning of their next turn.
+Escaping your nets is no simple task. The [[DATABASE/skill/Athletics|Athletics]] DC to [[DATABASE/action/Force Open|Force Open]] or [[DATABASE/action/Escape|Escape]] your nets increases from 16 to 18. After a creature you grabbed with a net Escapes or Forces Open the net, stray strands of the net cling to the creature, causing them to remain [[DATABASE/condition/Flat-Footed|flat-footed]] until the beginning of their next turn.
 
 ## Traits
 

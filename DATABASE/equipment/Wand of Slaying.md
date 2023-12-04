@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Illusion
 size: null
@@ -54,25 +55,25 @@ weapon_type: null
 # Wand of Slaying<span class="item-type">Item 16+</span>
 
 <span class="item-trait">Illusion</span><span class="item-trait">Magical</span><span class="item-trait">Wand</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** held in 1 hand; **Bulk** L
 
 ---
 This polished black wand has a green gem at the tip, and anyone who looks into it sees a reflection of a grinning skull instead of their face.
-**Activate** Cast a Spell **Frequency** once per day, plus overcharge; **Effect** You cast [[Finger of Death]] of the indicated level. If the spell slays its target, the corpse releases negative energy in a 20-foot emanation, dealing negative damage equal to double the spell’s level.
+**Activate** Cast a Spell **Frequency** once per day, plus overcharge; **Effect** You cast [[DATABASE/spell/Finger of Death|finger of death]] of the indicated level. If the spell slays its target, the corpse releases negative energy in a 20-foot emanation, dealing negative damage equal to double the spell’s level.
 **Craft Requirements** Supply a casting of _finger of death_ of the appropriate level.
 
 ## Wand of Slaying (7th-Level Spell)<span class="item-type">Item 16</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 10,000 gp
 
 ## Wand of Slaying (8th-Level Spell)<span class="item-type">Item 18</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 24,000 gp
 
 ## Wand of Slaying (9th-Level Spell)<span class="item-type">Item 20</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 70,000 gp

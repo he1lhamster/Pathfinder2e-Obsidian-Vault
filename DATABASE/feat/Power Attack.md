@@ -11,6 +11,7 @@ name: Power Attack
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Power Attack <span class="action-icon">2</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Fighter</span><span class="item-trait">Flourish</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Mauler]]*
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Mauler|Mauler]]*
 * This archetype offers Power Attack at a different level than displayed here.
 
 ---
@@ -37,7 +38,7 @@ This feat can be used for one or more Archetypes in addition to the listed Class
 
 ## Power Attack Leads To...
 
-[[Furious Focus]]
+[[DATABASE/feat/Furious Focus|Furious Focus]]
 
 ## Traits
 

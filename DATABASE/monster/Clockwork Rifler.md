@@ -81,24 +81,24 @@ wisdom: '+4'
 # Clockwork Rifler
 
 This creature did not include a description.
-**Recall Knowledge - Construct ([[Arcana]], [[Crafting]])**: DC 24
+**Recall Knowledge - Construct ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Crafting|Crafting]])**: DC 24
 **Unspecific Lore**: DC 22
 **Specific Lore**: DC 19
 
 # Clockwork Rifler<span class="item-type">Creature 6</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Clockwork</span><span class="item-trait">Construct</span><span class="item-trait">Mindless</span>
-**Source** [[Pathfinder 182. Graveclaw]]
-Variant [[Clockwork Soldier]]
-**Perception** +16; [[Darkvision]]
-**Skills** [[Athletics]] +15 (+17 to [[Disarm]]; [[Grapple]]; or avoid being Disarmed)
+**Source** [[DATABASE/source/Pathfinder 182. Graveclaw|Pathfinder #182: Graveclaw]]
+Variant [[DATABASE/monster/Clockwork Soldier|clockwork soldier]]
+**Perception** +16; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +15 (+17 to [[DATABASE/action/Disarm|Disarm]]; [[DATABASE/action/Grapple|Grapple]]; or avoid being Disarmed)
 **Str** +5, **Dex** +3, **Con** +4, **Int** -5, **Wis** +4, **Cha** -5
 **Wind-Up** 24 hours, DC 22, standby
-**Items** _+1 [[Striking]] [[Double-barreled Musket]]_ with [[Bayonet]] (10 rounds)
+**Items** _+1 [[DATABASE/equipment/Striking|striking]] [[DATABASE/weapon/Double-barreled Musket|double-barreled musket]]_ with [[DATABASE/weapon/Bayonet|bayonet]] (10 rounds)
 
 ---
 **AC** 24; **Fort** +16, **Ref** +15, **Will** +12
-**HP** 80; **Immunities** death effects, disease, [[Doomed]], [[Drained]], [[Fatigued]], healing, mental, necromancy, nonlethal attacks, [[Paralyzed]], poisoned, [[Sickened]], [[Unconscious]]; **Resistances** physical 5 (except [[Adamantine Weapon]] or orichalcum); **Weaknesses** electricity 5, [[Orichalcum Weapon]] 5
+**HP** 80; **Immunities** death effects, disease, [[DATABASE/condition/Doomed|doomed]], [[DATABASE/condition/Drained|drained]], [[DATABASE/condition/Fatigued|fatigued]], healing, mental, necromancy, nonlethal attacks, [[DATABASE/condition/Paralyzed|paralyzed]], poisoned, [[DATABASE/condition/Sickened|sickened]], [[DATABASE/condition/Unconscious|unconscious]]; **Resistances** physical 5 (except [[DATABASE/equipment/Adamantine Weapon|adamantine]] or orichalcum); **Weaknesses** electricity 5, [[DATABASE/equipment/Orichalcum Weapon|orichalcum]] 5
 
 ---
 **Speed** 25 feet

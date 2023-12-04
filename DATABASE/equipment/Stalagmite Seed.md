@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Stalagmite Seed<span class="item-type">Item 7</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Earth</span><span class="item-trait">Magical</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Price** 60 gp
 **Bulk** —
 **Activate** <span class="action-icon">1</span> (manipulate)

@@ -11,6 +11,7 @@ name: Ash Strider
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -30,10 +31,10 @@ type: Feat
 # Ash Strider <span class="action-icon">2</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Air</span><span class="item-trait">Composite</span><span class="item-trait">Fire</span><span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Overflow</span><span class="item-trait">Polymorph</span><span class="item-trait">Primal</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
-You discorporate into a cloud of whirling ash and Stride. If you have a fly Speed, you can [[Fly]] instead. This movement doesn't trigger reactions, you can move through occupied spaces and tiny cracks, and you ignore any difficult terrain and greater difficult terrain that wouldn't impede smoke. The first creature you pass through during this movement takes 3d6 fire damage with a basic Reflex save against your class DC. Ash lingers around you after your movement is complete, granting you [[Concealed]] until the start of your next turn.
+You discorporate into a cloud of whirling ash and Stride. If you have a fly Speed, you can [[DATABASE/action/Fly|Fly]] instead. This movement doesn't trigger reactions, you can move through occupied spaces and tiny cracks, and you ignore any difficult terrain and greater difficult terrain that wouldn't impede smoke. The first creature you pass through during this movement takes 3d6 fire damage with a basic Reflex save against your class DC. Ash lingers around you after your movement is complete, granting you [[DATABASE/condition/Concealed|concealment]] until the start of your next turn.
 
 ---
 **Level (+2)** The damage increases by 1d6.
@@ -58,7 +59,7 @@ The primary magical actions kineticists use are called impulses. You can use an 
 
 **Overflow:**
 
-Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
+Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[DATABASE/action/Channel Elements|Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
 
 **Polymorph:**
 

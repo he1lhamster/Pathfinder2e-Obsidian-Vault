@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Everburning Torch<span class="item-type">Item 1</span>
 
 <span class="item-trait">Evocation</span><span class="item-trait">Light</span><span class="item-trait">Magical</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 15 gp
 **Usage** held in 1 hand; **Bulk** L
 

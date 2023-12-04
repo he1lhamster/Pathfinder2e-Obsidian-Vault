@@ -11,6 +11,7 @@ name: Greater Mercy
 prerequisite: '[[DATABASE/feat/Mercy|Mercy]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Greater Mercy <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Champion</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Blessed One]]*
-**Prerequisites** [[Mercy]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Blessed One|Blessed One]]*
+**Prerequisites** [[DATABASE/feat/Mercy|Mercy]]
 * This archetype offers Greater Mercy at a different level than displayed here.
 
 ---

@@ -2,6 +2,7 @@
 id: '85'
 name: Pathfinder 166. Despair on Danger Island
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -16,27 +17,27 @@ type: Source
 
 ## Archetypes [2]
 
-[[Butterfly Blade]], [[Ghost Eater]]
+[[DATABASE/archetype/Butterfly Blade|Butterfly Blade]], [[DATABASE/archetype/Ghost Eater|Ghost Eater]]
 
 ## Equipment [7]
 
-[[Bonmuan Swapping Stone]], [[Bonmuan Swapping Stone]], [[Bonmuan Swapping Stone]], [[Bonmuan Swapping Stone]], [[Bonmuan Swapping Stone]], [[Phoenix Fighting Fan]], [[Phoenix Necklace]]
+[[DATABASE/equipment/Bonmuan Swapping Stone|Bonmuan Swapping Stone]], [[DATABASE/equipment/Bonmuan Swapping Stone|Greater Swapping Stone]], [[DATABASE/equipment/Bonmuan Swapping Stone|Lesser Swapping Stone]], [[DATABASE/equipment/Bonmuan Swapping Stone|Major Swapping Stone]], [[DATABASE/equipment/Bonmuan Swapping Stone|Moderate Swapping Stone]], [[DATABASE/equipment/Phoenix Fighting Fan|Phoenix Fighting Fan]], [[DATABASE/equipment/Phoenix Necklace|Phoenix Necklace]]
 
 ## Feats [15]
 
-[[Butterfly Blade Dedication]], [[Butterfly's Kiss]], [[Butterfly's Sting]], [[Cross the Threshold]], [[Deadly Butterfly]], [[Disrupting Strikes]], [[Entwined Energy Ki]], [[Ghost Eater Dedication]], [[Innocent Butterfly]], [[Mastermind's Eye]], [[Reach Beyond]], [[Syu Tak-Nwa's Deadly Hair]], [[Syu Tak-Nwa's Hexed Locks]], [[Syu Tak-Nwa's Skillful Tresses]], [[Wronged Monk's Wrath]]
+[[DATABASE/feat/Butterfly Blade Dedication|Butterfly Blade Dedication]], [[DATABASE/feat/Butterfly's Kiss|Butterfly's Kiss]], [[DATABASE/feat/Butterfly's Sting|Butterfly's Sting]], [[DATABASE/feat/Cross the Threshold|Cross the Threshold]], [[DATABASE/feat/Deadly Butterfly|Deadly Butterfly]], [[DATABASE/feat/Disrupting Strikes|Disrupting Strikes]], [[DATABASE/feat/Entwined Energy Ki|Entwined Energy Ki]], [[DATABASE/feat/Ghost Eater Dedication|Ghost Eater Dedication]], [[DATABASE/feat/Innocent Butterfly|Innocent Butterfly]], [[DATABASE/feat/Mastermind's Eye|Mastermind's Eye]], [[DATABASE/feat/Reach Beyond|Reach Beyond]], [[DATABASE/feat/Syu Tak-Nwa's Deadly Hair|Syu Tak-Nwa's Deadly Hair]], [[DATABASE/feat/Syu Tak-Nwa's Hexed Locks|Syu Tak-Nwa's Hexed Locks]], [[DATABASE/feat/Syu Tak-Nwa's Skillful Tresses|Syu Tak-Nwa's Skillful Tresses]], [[DATABASE/feat/Wronged Monk's Wrath|Wronged Monk's Wrath]]
 
 ## Hazards [3]
 
-[[Broken Rebus Attack]], [[Sand Whirlwind]], [[Wronged Monk's Wrath]]
+[[DATABASE/hazard/Broken Rebus Attack|Broken Rebus Attack]], [[DATABASE/hazard/Sand Whirlwind|Sand Whirlwind]], [[DATABASE/hazard/Wronged Monk's Wrath|Wronged Monk's Wrath]]
 
 ## Languages [3]
 
-[[Anugobu]], [[Kitsune]], [[Nagaji]]
+[[DATABASE/language/Anugobu|Anugobu]], [[DATABASE/language/Kitsune|Kitsune]], [[DATABASE/language/Nagaji|Nagaji]]
 
 ## Monsters [10]
 
-[[Anugobu Apprentice]], [[Anugobu Wondercrafter]], [[Berberoka]], [[Caustic Monitor]], [[Dromornis]], [[Hantu Belian]], [[Hantu Denai]], [[Manananggal]], [[Muckish Creep]], [[Sigbin]]
+[[DATABASE/monster/Anugobu Apprentice|Anugobu Apprentice]], [[DATABASE/monster/Anugobu Wondercrafter|Anugobu Wondercrafter]], [[DATABASE/monster/Berberoka|Berberoka]], [[DATABASE/monster/Caustic Monitor|Caustic Monitor]], [[DATABASE/monster/Dromornis|Dromornis]], [[DATABASE/monster/Hantu Belian|Hantu Belian]], [[DATABASE/monster/Hantu Denai|Hantu Denai]], [[DATABASE/monster/Manananggal|Manananggal]], [[DATABASE/monster/Muckish Creep|Muckish Creep]], [[DATABASE/monster/Sigbin|Sigbin]]
 
 ## Rules [1]
 
@@ -48,7 +49,7 @@ Ruby Phoenix Fighting Roster
 
 ## Spells [3]
 
-[[Aura of the Unremarkable]], [[Return Beacon]], [[Wronged Monk's Wrath]]
+[[DATABASE/spell/Aura of the Unremarkable|Aura of the Unremarkable]], [[DATABASE/spell/Return Beacon|Return Beacon]], [[DATABASE/spell/Wronged Monk's Wrath|Wronged Monk's Wrath]]
 
 ## Traits [2]
 
@@ -56,4 +57,4 @@ Anugobu (Monster), Hantu (Monster)
 
 ## Weapons [6]
 
-[[Butterfly Sword]], [[Feng Huo Lun]], [[Hook Sword]], [[Karambit]], [[Kusarigama]], [[Leiomano]]
+[[DATABASE/weapon/Butterfly Sword|Butterfly Sword]], [[DATABASE/weapon/Feng Huo Lun|Feng Huo Lun]], [[DATABASE/weapon/Hook Sword|Hook Sword]], [[DATABASE/weapon/Karambit|Karambit]], [[DATABASE/weapon/Kusarigama|Kusarigama]], [[DATABASE/weapon/Leiomano|Leiomano]]

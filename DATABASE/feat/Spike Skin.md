@@ -11,6 +11,7 @@ name: Spike Skin
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -26,10 +27,10 @@ type: Feat
 # Spike Skin <span class="action-icon">2</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Earth</span><span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Primal</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
-You touch a willing creature, causing its skin to harden and form spiky protrusions. The target gains resistance 4 to all physical damage (except [[Adamantine Weapon]]). Whenever a creature damages the target with an unarmed attack or non-reach melee weapon, the attacking creature takes 2 piercing damage.
+You touch a willing creature, causing its skin to harden and form spiky protrusions. The target gains resistance 4 to all physical damage (except [[DATABASE/equipment/Adamantine Weapon|adamantine]]). Whenever a creature damages the target with an unarmed attack or non-reach melee weapon, the attacking creature takes 2 piercing damage.
  This impulse lasts for 10 minutes, but each time the target takes physical damage, the duration decreases by 1 minute. The target is temporarily immune to this impulse for 1 hour. If you use Spike Skin again, any previous one ends.
 
 ---

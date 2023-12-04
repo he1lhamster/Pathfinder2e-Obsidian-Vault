@@ -2,6 +2,7 @@
 id: '85'
 name: Anugobu
 rarity: Uncommon
+rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #166:
   Despair on Danger Island]]'
 trait:
@@ -11,9 +12,9 @@ type: Language
 ---
 # Anugobu
 
-**Source** [[Pathfinder 166. Despair on Danger Island]]
+**Source** [[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #166: Despair on Danger Island]]
 The below entries contain speakers of Anugobu.
 
 ## Monsters (2)
 
-[[Anugobu Apprentice]], [[Anugobu Wondercrafter]]
+[[DATABASE/monster/Anugobu Apprentice|Anugobu Apprentice]], [[DATABASE/monster/Anugobu Wondercrafter|Anugobu Wondercrafter]]

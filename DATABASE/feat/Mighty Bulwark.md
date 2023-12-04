@@ -11,6 +11,7 @@ name: Mighty Bulwark
 prerequisite: '[[DATABASE/feat/Sentinel Dedication|Sentinel Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Mighty Bulwark <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetypes** [[Sentinel]], [[Stalwart Defender]]*
-**Prerequisites** [[Sentinel Dedication]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetypes** [[DATABASE/archetype/Sentinel|Sentinel]], [[DATABASE/archetype/Stalwart Defender|Stalwart Defender]]*
+**Prerequisites** [[DATABASE/feat/Sentinel Dedication|Sentinel Dedication]]
 * This archetype offers Mighty Bulwark at a different level than displayed here.
 
 ---

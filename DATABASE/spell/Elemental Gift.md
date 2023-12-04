@@ -21,6 +21,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -37,7 +38,7 @@ type: Spell
 # Elemental Gift<span class="item-type">Spell 4</span>
 
 <span class="item-trait">Transmutation</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Traditions** primal
 **Spell List** elemental
 **Cast** <span class="action-icon">2</span> somatic, verbal
@@ -50,8 +51,8 @@ An elemental force fills your target, granting the target the swiftness of air, 
 ### Secrets of Magic
 
 * **Air** The target gains a +30-foot status bonus to its land Speed and gains a fly Speed equal to its land Speed without the status bonus.
-* **Earth** While on the ground, the target gets a +2 status bonus to Fortitude and Reflex saves against effects that would [[Shove]] or [[Trip]] it, and to saves against effects that would attempt to knock it [[Prone]]. In addition, the ground adjacent to the target is difficult terrain, and the difficult terrain moves with the target, though the target ignores this difficult terrain with its own movement.
-* **Fire** The target's melee unarmed Strikes and melee weapon Strikes deal 1d6 [[Persistent Damage]] on a hit.
+* **Earth** While on the ground, the target gets a +2 status bonus to Fortitude and Reflex saves against effects that would [[DATABASE/action/Shove|Shove]] or [[DATABASE/action/Trip|Trip]] it, and to saves against effects that would attempt to knock it [[DATABASE/condition/Prone|prone]]. In addition, the ground adjacent to the target is difficult terrain, and the difficult terrain moves with the target, though the target ignores this difficult terrain with its own movement.
+* **Fire** The target's melee unarmed Strikes and melee weapon Strikes deal 1d6 [[DATABASE/condition/Persistent Damage|persistent fire damage]] on a hit.
 * **Water** The target takes on a watery sheen, gaining resistance 5 to fire and a swim Speed equal to its land Speed.
 
 ### Rage of Elements

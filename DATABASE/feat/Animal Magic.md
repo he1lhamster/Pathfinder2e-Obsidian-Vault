@@ -11,6 +11,7 @@ name: Animal Magic
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Animal Magic <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Beastkin</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-Your shapeshifting grants you a magical connection to the animal world. You can cast [[Animal Messenger]], [[Calm Emotions]] (animals only), and [[Speak with Animals]] as 2nd-level primal innate spells once per day each. These spells use your class DC or spell DC, whichever is higher.
+Your shapeshifting grants you a magical connection to the animal world. You can cast [[DATABASE/spell/Animal Messenger|animal messenger]], [[DATABASE/spell/Calm Emotions|calm emotions]] (animals only), and [[DATABASE/spell/Speak with Animals|speak with animals]] as 2nd-level primal innate spells once per day each. These spells use your class DC or spell DC, whichever is higher.
 
 ## Traits
 

@@ -2,6 +2,7 @@
 id: '245'
 name: Zombie
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait:
 - Zombie
@@ -10,9 +11,9 @@ type: Trait
 ---
 # Zombie
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 These undead are mindless rotting corpses that hunger for living flesh.
 
 ## Monsters
 
-[[Blackfrost Zombie]], [[Zombie, Dirge Piper]], [[Husk Zombie]], [[Plague Zombie]], [[Shambler Troop]], [[Zombie, Shock]], [[Sulfur Zombie]], [[Tar Zombie Mammoth]], [[Tar Zombie Predator]], [[Tar Zombie Snatcher]], [[Withered]], [[Zombie Brute]], [[Zombie Dragon]], [[Zombie Hulk]], [[Zombie Lord]], [[Zombie Mammoth]], [[Zombie Owlbear]], [[Zombie Shambler]], [[Zombie Snake]]
+[[DATABASE/monster/Blackfrost Zombie|Blackfrost Zombie]], [[DATABASE/monster/Zombie, Dirge Piper|Dirge Piper]], [[DATABASE/monster/Husk Zombie|Husk Zombie]], [[DATABASE/monster/Plague Zombie|Plague Zombie]], [[DATABASE/monster/Shambler Troop|Shambler Troop]], [[DATABASE/monster/Zombie, Shock|Shock Zombie]], [[DATABASE/monster/Sulfur Zombie|Sulfur Zombie]], [[DATABASE/monster/Tar Zombie Mammoth|Tar Zombie Mammoth]], [[DATABASE/monster/Tar Zombie Predator|Tar Zombie Predator]], [[DATABASE/monster/Tar Zombie Snatcher|Tar Zombie Snatcher]], [[DATABASE/monster/Withered|Withered]], [[DATABASE/monster/Zombie Brute|Zombie Brute]], [[DATABASE/monster/Zombie Dragon|Zombie Dragon]], [[DATABASE/monster/Zombie Hulk|Zombie Hulk]], [[DATABASE/monster/Zombie Lord|Zombie Lord]], [[DATABASE/monster/Zombie Mammoth|Zombie Mammoth]], [[DATABASE/monster/Zombie Owlbear|Zombie Owlbear]], [[DATABASE/monster/Zombie Shambler|Zombie Shambler]], [[DATABASE/monster/Zombie Snake|Zombie Snake]]

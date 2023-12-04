@@ -65,22 +65,22 @@ wisdom: '+1'
 # Juvenile Boar
 
 This creature did not include a description.
-**Recall Knowledge - Animal ([[Nature]])**: DC 14
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 14
 **Unspecific Lore**: DC 12
 **Specific Lore**: DC 9
 
 # Juvenile Boar<span class="item-type">Creature 0</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Small</span><span class="item-trait">Animal</span>
-**Source** [[Pathfinder 151. The Show Must Go On]]
-**Perception** +5; [[Low-Light Vision]], [[Scent]] (imprecise) 30 feet
-**Skills** [[Acrobatics]] +3, [[Athletics]] +5, [[Survival]] +5
+**Source** [[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: The Show Must Go On]]
+**Perception** +5; [[DATABASE/monsterability/Low-Light Vision|low-light vision]], [[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +3, [[DATABASE/skill/Athletics|Athletics]] +5, [[DATABASE/skill/Survival|Survival]] +5
 **Str** +3, **Dex** +1, **Con** +2, **Int** -4, **Wis** +1, **Cha** -2
 
 ---
 **AC** 15; **Fort** +9, **Ref** +3, **Will** +5
 **HP** 16
-<span class="in-box-ability">**[[Ferocity]] <span class="action-icon">5</span> ** </span>
+<span class="in-box-ability">**[[DATABASE/monsterability/Ferocity|Ferocity]] <span class="action-icon">5</span> ** </span>
 
 ---
 **Speed** 30 feet

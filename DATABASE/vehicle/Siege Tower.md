@@ -16,6 +16,7 @@ price: 300 gp
 rarity: Uncommon
 reflex: null
 resistance: null
+rus_type_level: null
 school: null
 size: Gargantuan
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
@@ -28,7 +29,7 @@ type: Vehicle
 # Siege Tower<span class="item-type">Vehicle 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-size item-trait">Gargantuan</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 300 gp
 
 ---
@@ -37,7 +38,7 @@ The siege tower uses pushed propulsion, which uses the same rules as pulled.
 ---
 **Space** 20 feet long, 20 feet wide, 40 feet high
 **Crew** 1 pilot, 9 pushers; **Passengers** 40
-**Piloting Check** [[Diplomacy]] (DC 21), [[Intimidation]] (DC 21), or [[Lore]] (DC 19)
+**Piloting Check** [[DATABASE/skill/Diplomacy|Diplomacy]] (DC 21), [[DATABASE/skill/Intimidation|Intimidation]] (DC 21), or [[DATABASE/skill/Lore|Warfare Lore]] (DC 19)
 
 ---
 **AC** 16; **Fort** +11

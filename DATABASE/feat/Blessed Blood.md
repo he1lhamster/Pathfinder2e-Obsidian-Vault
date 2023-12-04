@@ -11,6 +11,7 @@ name: Blessed Blood
 prerequisite: bloodline that grants divine spells; you follow a deity
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Blessed Blood <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Sorcerer</span>
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Prerequisites** bloodline that grants divine spells; you follow a deity
 
 ---

@@ -11,6 +11,7 @@ name: Defensive Recovery
 prerequisite: '[[DATABASE/class_/Cleric|harmful font or healing font]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -25,11 +26,11 @@ type: Feat
 # Defensive Recovery <span class="action-icon">1</span> <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Cleric</span><span class="item-trait">Concentrate</span><span class="item-trait">Metamagic</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Cleric]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/class_/Cleric|harmful font or healing font]]
 
 ---
-Your faith provides temporary protection in addition to healing. If the next action you use is to cast [[Harm]] or [[Heal]] on a single target and the target regains Hit Points from the spell, it also gains a +2 status bonus to AC and saving throws for 1 round.
+Your faith provides temporary protection in addition to healing. If the next action you use is to cast [[DATABASE/spell/Harm|harm]] or [[DATABASE/spell/Heal|heal]] on a single target and the target regains Hit Points from the spell, it also gains a +2 status bonus to AC and saving throws for 1 round.
 
 ## Traits
 

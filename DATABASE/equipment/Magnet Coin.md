@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Magnet Coin<span class="item-type">Item 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Conjuration</span><span class="item-trait">Magical</span><span class="item-trait">Teleportation</span>
-**Source** [[Highhelm]]
+**Source** [[DATABASE/source/Highhelm|Highhelm]]
 **Price** 50 gp
 **Usage** held in 1 hand; **Bulk** —
 

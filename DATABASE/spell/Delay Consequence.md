@@ -21,6 +21,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -35,8 +36,8 @@ type: Focus
 # Delay Consequence<span class="item-type">Focus 1</span>
 
 <span class="item-trait">Abjuration</span>
-**Source** [[Gods & Magic]] 
-**Domain** [[Time Domain]]
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
+**Domain** [[DATABASE/domain/Time Domain|time]]
 **Cast** <span class="action-icon">5</span> somatic; **Trigger** A creature or object within range is hit by an attack.
 **Range** 30 feet; **Targets** the triggering creature
 **Duration** 1 round

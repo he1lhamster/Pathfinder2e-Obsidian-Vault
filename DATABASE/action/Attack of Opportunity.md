@@ -7,6 +7,7 @@ id: '8'
 name: Attack of Opportunity
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait: null
@@ -18,7 +19,7 @@ type: Action
 ---
 # Attack of Opportunity <span class="action-icon">5</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Trigger** A creature within your reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it’s using.
 
 ---

@@ -88,24 +88,24 @@ wisdom: '+3'
 The kingdoms of the cyclopes date to an age before the rise of humanity, when dragons and giants and serpentfolk ruled the world. The cyclopes built enormous stone cities and prayed to ancient gods of brutality and wrath, but their power to foresee the future failed them, and their civilization collapsed. Today, most cyclopes have virtually no knowledge of the former glory of their kind, even though it is not uncommon for them to dwell among the ruins of their greatness. Cyclops cities include monuments and imposing murals which depict their peoples’ history, but few now among them can read or interpret these relics of the past.
  In addition to their single eye, cyclopes are also famous for their never-ending hunger, an appetite so all-consuming that some scholars theorize it may in fact be some kind of curse. The ever-present hunger of the cyclopes seems to have some connection to the death of their civilization—though whether this voracity was the cause or a side-effect of their people’s downfall is likely destined to remain a mystery.
  Although details of the cyclopes’ gods have largely been lost to the annals of time, what little is known about these deities suggests they were vindictive and petty enough to curse their own people if they felt neglected or badly served.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 22
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 22
 **Unspecific Lore**: DC 20
 **Specific Lore**: DC 17
 
 # Cyclops<span class="item-type">Creature 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Giant</span><span class="item-trait">Humanoid</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +12; low-light vision
-**Languages** [[Common]], [[Cyclops]], [[Jotun]]
-**Skills** [[Athletics]] +14, [[Lore]] +13, [[Intimidation]] +10, [[Survival]] +12
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Cyclops|Cyclops]], [[DATABASE/language/Jotun|Jotun]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +14, [[DATABASE/skill/Lore|Fortune-Telling Lore]] +13, [[DATABASE/skill/Intimidation|Intimidation]] +10, [[DATABASE/skill/Survival|Survival]] +12
 **Str** +5, **Dex** -1, **Con** +2, **Int** +0, **Wis** +3, **Cha** -1
-**Items** [[Greataxe]], [[Heavy Crossbow]], [[Hide Armor]]
+**Items** [[DATABASE/weapon/Greataxe|greataxe]], [[DATABASE/weapon/Heavy Crossbow|heavy crossbow (10 bolts)]], [[DATABASE/armor/Hide Armor|hide armor]]
 
 ---
 **AC** 21; **Fort** +13, **Ref** +8, **Will** +12
 **HP** 80
-<span class="in-box-ability">**[[Ferocity]]** <span class="action-icon">5</span> </span><span class="in-box-ability">**Flash of Insight** <span class="action-icon">4</span> (divination, occult, fortune) **Frequency** once per day; **Trigger** The cyclops is about to roll a d20. **Effect** The cyclops peers into an occluded spectrum of possible futures. It gets a success (but not a critical success) on the roll instead of rolling.</span>
+<span class="in-box-ability">**[[DATABASE/monsterability/Ferocity|Ferocity]]** <span class="action-icon">5</span> </span><span class="in-box-ability">**Flash of Insight** <span class="action-icon">4</span> (divination, occult, fortune) **Frequency** once per day; **Trigger** The cyclops is about to roll a d20. **Effect** The cyclops peers into an occluded spectrum of possible futures. It gets a success (but not a critical success) on the roll instead of rolling.</span>
 
 ---
 **Speed** 30 feet

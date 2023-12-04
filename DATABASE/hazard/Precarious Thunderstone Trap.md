@@ -17,6 +17,7 @@ name: Precarious Thunderstone Trap
 rarity: Common
 reflex: '+3'
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 178. Punks in a Powderkeg|Pathfinder #178: Punks
   in a Powderkeg]]'
@@ -31,13 +32,13 @@ will: null
 # Precarious Thunderstone Trap<span class="item-type">Hazard 1</span>
 
 <span class="item-trait">Mechanical</span><span class="item-trait">Trap</span>
-**Source** [[Pathfinder 178. Punks in a Powderkeg]]
+**Source** [[DATABASE/source/Pathfinder 178. Punks in a Powderkeg|Pathfinder #178: Punks in a Powderkeg]]
 **Complexity** Simple
 **Stealth** DC 15 (trained)
-**Description** A tripwire fastened to the gate snaps when the gate is opened, releasing a [[Thunderstone]] to the ground.
+**Description** A tripwire fastened to the gate snaps when the gate is opened, releasing a [[DATABASE/equipment/Thunderstone|moderate thunderstone]] to the ground.
 
 ---
-**Disable** DC 15 [[Thievery]] (trained) to remove the thunderstone or DC 18 Reflex save to catch the falling thunderstone
+**Disable** DC 15 [[DATABASE/skill/Thievery|Thievery]] (trained) to remove the thunderstone or DC 18 Reflex save to catch the falling thunderstone
 **AC** 12, **Fort** +7, **Ref** +3
 **Wire Hardness** 3, **Wire HP** 10 (BT 5); **Immunities** critical hits, object immunities, precision damage
-**Thunderstone** <span class="action-icon">5</span> (sonic) **Trigger** The front gate is opened; **Effect** A moderate thunderstone falls on the flagstones and activates, dealing 2 sonic splash damage to each creature within 10 feet of the gate. Creatures in the area must succeed at a DC 17 Fortitude saving throw or be [[Deafened]] for 1 round. Adjacent creatures can attempt to catch the falling thunderstone (see Disable, above).
+**Thunderstone** <span class="action-icon">5</span> (sonic) **Trigger** The front gate is opened; **Effect** A moderate thunderstone falls on the flagstones and activates, dealing 2 sonic splash damage to each creature within 10 feet of the gate. Creatures in the area must succeed at a DC 17 Fortitude saving throw or be [[DATABASE/condition/Deafened|deafened]] for 1 round. Adjacent creatures can attempt to catch the falling thunderstone (see Disable, above).

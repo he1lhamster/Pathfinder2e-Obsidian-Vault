@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 size: null
@@ -58,7 +59,7 @@ weapon_type: null
 # Bottled Omen<span class="item-type">Item 4</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Consumable</span><span class="item-trait">Divination</span><span class="item-trait">Fortune</span><span class="item-trait">Magical</span><span class="item-trait">Potion</span>
-**Source** [[Pathfinder 187. The Seventh Arch]]
+**Source** [[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh Arch]]
 **Price** 20 gp
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact

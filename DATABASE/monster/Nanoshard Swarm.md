@@ -86,30 +86,30 @@ wisdom: '+3'
 # Nanoshard Swarm
 
 This bizarre entity is actually a massive collective consisting of tens of thousands of constituent parts, each a tiny metal sphere barely the size of a pebble. Controlled by a single elemental spirit, the swarm is capable of flowing like liquid through the smallest openings before shaping itself into a powerful combatant, a solid wall, or any other form circumstances might require.
-**Recall Knowledge - Elemental ([[Arcana]], [[Nature]])**: DC 26
+**Recall Knowledge - Elemental ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 26
 **Unspecific Lore**: DC 24
 **Specific Lore**: DC 21
 
 # Nanoshard Swarm<span class="item-type">Creature 9</span>
 
 <span class="trait-size item-trait">Huge</span><span class="item-trait">Elemental</span><span class="item-trait">Metal</span>
-**Source** [[Rage of Elements]]
-**Perception** +18; [[Darkvision]]
-**Languages** [[Talican]]
-**Skills** [[Acrobatics]] +21, [[Athletics]] +19, [[Stealth]] +21
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
+**Perception** +18; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Talican|Talican]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +21, [[DATABASE/skill/Athletics|Athletics]] +19, [[DATABASE/skill/Stealth|Stealth]] +21
 **Str** +6, **Dex** +6, **Con** +4, **Int** +3, **Wis** +3, **Cha** +3
 
 ---
 **AC** 28; **Fort** +17, **Ref** +21, **Will** +16
-**HP** 120; **Immunities** bleed, [[Paralyzed]], poison, precision, sleep, [[Swarm Mind]]; **Resistances** bludgeoning 5, electricity 10, piercing 10, slashing 10; **Weaknesses** area damage 10, splash damage 10
+**HP** 120; **Immunities** bleed, [[DATABASE/condition/Paralyzed|paralyzed]], poison, precision, sleep, [[DATABASE/monsterability/Swarm Mind|swarm mind]]; **Resistances** bludgeoning 5, electricity 10, piercing 10, slashing 10; **Weaknesses** area damage 10, splash damage 10
 <span class="in-box-ability">**Electromagnetic Dispersal** When a nanoshard swarm takes electricity damage, they automatically shift into swarm form.</span>
 
 ---
 **Speed** none (barrier), 15 feet (battle), or 25 feet (swarm)
 <span class="in-box-ability">**Melee** <span class="action-icon">1</span> tendril +19 [+14/+9] (reach 60 feet, versatile B), **Damage** 2d8+9 piercing</span><span class="in-box-ability">**Barrier Form** <span class="action-icon">3</span> (concentrate, polymorph) **Requirements** The nanoshard swarm is in swarm form; **Effect** The nanoshard swarm forms a continuous 6-inch-thick solid wall, up to 60 feet long and 10 feet high, originating from any one square in its current space. The wall can follow any path, with each 5 feet being placed on the border between squares. It doesn't need to stand vertically, so it can form a bridge or set of stairs, for example. The wall must be formed in an unbroken open space where its edges don't pass through any creatures or objects.
- A single 5-foot-by-5-foot section of the wall can be destroyed by dealing 18 points of damage to it, which also reduces the swarm's total Hit Points. A nanoshard swarm can't be knocked [[Prone]] or forcibly moved while in barrier form, nor can it voluntarily move. A nanoshard swarm in barrier form can originate tendril attacks from any square of its wall.</span><span class="in-box-ability">**Battle Form** <span class="action-icon">2</span> (concentrate, polymorph) **Requirements** The nanoshard swarm is in swarm form; **Effect** The nanoshard swarm coalesces into a Huge shape that looks like a humanoid or beast and can hold items. In battle form, its Speed is 15 feet, it's clumsy 1, and it has the following Strike.
- **Melee** <span class="action-icon">1</span> limb +19 (reach 20 feet), **Damage** 4d8+9 bludgeoning</span><span class="in-box-ability">**Swarm Form** <span class="action-icon">4</span> (concentrate) The nanoshard swarm collapses into its natural form: a Huge sea of tiny metal spheres. It drops anything it's holding. While in swarm form, the nanoshard swarm's Speed is 25 feet, it can move through any area large enough for a single sphere to fit through without having to [[Squeeze]], and it gains Engulf.
-[[Engulf]] <span class="action-icon">2</span> DC 27, 2d8+6 bludgeoning, [[Escape]] DC 27, Rupture 18</span>
+ A single 5-foot-by-5-foot section of the wall can be destroyed by dealing 18 points of damage to it, which also reduces the swarm's total Hit Points. A nanoshard swarm can't be knocked [[DATABASE/condition/Prone|prone]] or forcibly moved while in barrier form, nor can it voluntarily move. A nanoshard swarm in barrier form can originate tendril attacks from any square of its wall.</span><span class="in-box-ability">**Battle Form** <span class="action-icon">2</span> (concentrate, polymorph) **Requirements** The nanoshard swarm is in swarm form; **Effect** The nanoshard swarm coalesces into a Huge shape that looks like a humanoid or beast and can hold items. In battle form, its Speed is 15 feet, it's clumsy 1, and it has the following Strike.
+ **Melee** <span class="action-icon">1</span> limb +19 (reach 20 feet), **Damage** 4d8+9 bludgeoning</span><span class="in-box-ability">**Swarm Form** <span class="action-icon">4</span> (concentrate) The nanoshard swarm collapses into its natural form: a Huge sea of tiny metal spheres. It drops anything it's holding. While in swarm form, the nanoshard swarm's Speed is 25 feet, it can move through any area large enough for a single sphere to fit through without having to [[DATABASE/action/Squeeze|Squeeze]], and it gains Engulf.
+[[DATABASE/monsterability/Engulf|Engulf]] <span class="action-icon">2</span> DC 27, 2d8+6 bludgeoning, [[DATABASE/action/Escape|Escape]] DC 27, Rupture 18</span>
 
 ###  Some Reassembly Required
 

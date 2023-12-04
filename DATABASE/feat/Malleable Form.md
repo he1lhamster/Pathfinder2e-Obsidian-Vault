@@ -12,6 +12,7 @@ prerequisite: ability to cast at least one [[DATABASE/trait/Polymorph|polymorph]
   spell
 rarity: Common
 requirement: You're polymorphed by a spell that has multiple choices of battle form.
+rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -25,7 +26,7 @@ type: Feat
 # Malleable Form <span class="action-icon">1</span> <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Reflection</span><span class="item-trait">Transmutation</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Prerequisites** ability to cast at least one polymorph spell
 **Requirements** You're polymorphed by a spell that has multiple choices of battle form.
 
@@ -36,7 +37,7 @@ You adroitly shift your form, taking on another appearance. Choose a different b
 
 **Reflection:**
 
-A creature with this trait has the [[Reflection]] versatile heritage. Reflections are beings who are copies of living people, whether through cloning, planar duplication, or another mechanism. An ability with this trait can be used or selected only by reflections.
+A creature with this trait has the [[DATABASE/ancestry/Reflection|reflection]] versatile heritage. Reflections are beings who are copies of living people, whether through cloning, planar duplication, or another mechanism. An ability with this trait can be used or selected only by reflections.
 
 **Transmutation:**
 

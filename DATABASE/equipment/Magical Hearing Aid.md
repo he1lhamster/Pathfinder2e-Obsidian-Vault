@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 size: null
@@ -53,7 +54,7 @@ weapon_type: null
 # Magical Hearing Aid<span class="item-type">Item 1</span>
 
 <span class="item-trait">Divination</span><span class="item-trait">Magical</span>
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 5 gp
 **Usage** worn; **Bulk** —
 

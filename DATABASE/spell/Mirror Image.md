@@ -26,6 +26,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -43,9 +44,9 @@ type: Spell
 # Mirror Image<span class="item-type">Spell 2</span>
 
 <span class="item-trait">Illusion</span><span class="item-trait">Visual</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult
-**Deities** [[Imbrex]], [[Irez]], [[Lady Jingxi]], [[Suyuddha]], [[Tsukiyo]]
+**Deities** [[DATABASE/deity/Imbrex|Imbrex]], [[DATABASE/deity/Irez|Irez]], [[DATABASE/deity/Lady Jingxi|Lady Jingxi]], [[DATABASE/deity/Suyuddha|Suyuddha]], [[DATABASE/deity/Tsukiyo|Tsukiyo]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Duration** 1 minute
 

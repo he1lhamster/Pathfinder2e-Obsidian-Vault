@@ -7,6 +7,7 @@ id: '4'
 name: Mighty Rage
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
@@ -18,7 +19,7 @@ type: Action
 # Mighty Rage <span class="action-icon">4</span>
 
 <span class="item-trait">Barbarian</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Trigger** You use the Rage action on your turn.
 
 ---

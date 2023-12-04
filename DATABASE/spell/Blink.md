@@ -24,6 +24,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -41,9 +42,9 @@ type: Spell
 # Blink<span class="item-type">Spell 4</span>
 
 <span class="item-trait">Conjuration</span><span class="item-trait">Teleportation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult
-**Deities** [[Black Butterfly]], [[Nethys]], [[Ng]]
+**Deities** [[DATABASE/deity/Black Butterfly|Black Butterfly]], [[DATABASE/deity/Nethys|Nethys]], [[DATABASE/deity/Ng|Ng]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Duration** 1 minute
 

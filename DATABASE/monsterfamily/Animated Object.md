@@ -3,6 +3,7 @@ creature_family: Animated Object
 id: '4'
 name: Animated Object
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,16 +11,16 @@ type: Creature Family
 ---
 # Animated Object
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Granted a semblance of life through the use of rituals or other strange magic, animated objects take many forms and serve a variety of uses. A few examples of typical animated objects are listed below. Many of these creatures serve as guardians, surprising unsuspecting adventurers when they suddenly attack. Others serve as idle distractions for the exceptionally rich, simple servants created to handle odd jobs, and the like.
 
 ### Members
 
-[[Animated Armor]] (Creature 2), [[Animated Broom]] (Creature -1), [[Animated Colossus]] (Creature 15), [[Animated Furnace]] (Creature 9), [[Animated Silverware Swarm]] (Creature 1), [[Animated Statue]] (Creature 3), [[Animated Trebuchet]] (Creature 13), [[Giant Animated Statue]] (Creature 7)
+[[DATABASE/monster/Animated Armor|Animated Armor]] (Creature 2), [[DATABASE/monster/Animated Broom|Animated Broom]] (Creature -1), [[DATABASE/monster/Animated Colossus|Animated Colossus]] (Creature 15), [[DATABASE/monster/Animated Furnace|Animated Furnace]] (Creature 9), [[DATABASE/monster/Animated Silverware Swarm|Animated Silverware Swarm]] (Creature 1), [[DATABASE/monster/Animated Statue|Animated Statue]] (Creature 3), [[DATABASE/monster/Animated Trebuchet|Animated Trebuchet]] (Creature 13), [[DATABASE/monster/Giant Animated Statue|Giant Animated Statue]] (Creature 7)
 
 ###  Animating Objects
 
-Most animated objects encountered by adventurers are permanently animated creatures, either created by rituals or given life by infusions of positive energy. Restless spirits, certain ghosts, and other haunting undead influences can also give rise to animated objects, although in cases like the [[Poltergeist]], what appears to be an animated object may merely be an evil force using its magic to hurl furnishings about as weapons.
+Most animated objects encountered by adventurers are permanently animated creatures, either created by rituals or given life by infusions of positive energy. Restless spirits, certain ghosts, and other haunting undead influences can also give rise to animated objects, although in cases like the [[DATABASE/monster/Poltergeist|poltergeist]], what appears to be an animated object may merely be an evil force using its magic to hurl furnishings about as weapons.
 
 ###  Choosing to Animate
 

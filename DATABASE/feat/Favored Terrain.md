@@ -11,6 +11,7 @@ name: Favored Terrain
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Favored Terrain <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Ranger</span>
-**Source** [[Core Rulebook]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
 You have studied a specific terrain to overcome its challenges. Choose aquatic, arctic, desert, forest, mountain, plains, sky, swamp, or underground as your favored terrain. When in that terrain, you can ignore the effects of non-magical diffcult terrain. If you have the wild stride class feature, you gain a second benefit while in your favored terrain, depending on your choice.
@@ -38,4 +39,4 @@ You have studied a specific terrain to overcome its challenges. Choose aquatic, 
 
 ## Favored Terrain Leads To...
 
-[[Terrain Master]]
+[[DATABASE/feat/Terrain Master|Terrain Master]]

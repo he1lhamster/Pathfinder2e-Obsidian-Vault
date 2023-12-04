@@ -11,6 +11,7 @@ name: Reactive Pursuit
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Reactive Pursuit <span class="action-icon">5</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Rogue</span>
-**Source** [[Core Rulebook]] 
-**Archetypes** [[Alkenstar Agent]]*, [[Ghoul]]*, [[Knight Reclaimant]]*
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetypes** [[DATABASE/archetype/Alkenstar Agent|Alkenstar Agent]]*, [[DATABASE/archetype/Ghoul|Ghoul]]*, [[DATABASE/archetype/Knight Reclaimant|Knight Reclaimant]]*
 **Trigger** An adjacent foe moves away from you, and you can reach at least one space adjacent to the foe with a Stride action.
 * This archetype offers Reactive Pursuit at a different level than displayed here.
 

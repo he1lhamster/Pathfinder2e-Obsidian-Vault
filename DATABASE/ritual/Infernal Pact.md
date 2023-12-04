@@ -13,6 +13,7 @@ primary_check: '[[DATABASE/skill/Religion|Religion]] (expert; you must be a [[DA
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: Conjuration
 secondary_casters: null
 secondary_check: null
@@ -27,9 +28,9 @@ type: Ritual
 # Infernal Pact<span class="item-type">Ritual 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Conjuration</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Cast** 1 day
-**Primary Check** [[Religion]] (expert; you must be a [[Devil]])
+**Primary Check** [[DATABASE/skill/Religion|Religion]] (expert; you must be a [[DATABASE/monsterfamily/Devil|devil]])
 
 ---
 You make an appeal to a powerful devil, asking it to bind some of its subordinates to your service. If you succeed, the devil sends you its choice of one devil whose level is no more than double _infernal pact’s_ level, two devils whose levels are each at least 2 less than double the spell level, or three devils whose levels are each at least 3 less than double the spell level.
@@ -40,64 +41,64 @@ You make an appeal to a powerful devil, asking it to bind some of its subordinat
 
 ## Level 0 Devils
 
-[[Lemure]] (LE)
+[[DATABASE/monster/Lemure|Lemure]] (LE)
 
 ## Level 1 Devils
 
-[[Imp]] (LE)
+[[DATABASE/monster/Imp|Imp]] (LE)
 
 ## Level 3 Devils
 
-[[Zebub (Accuser Devil)]] (LE)
+[[DATABASE/monster/Zebub (Accuser Devil)|Zebub]] (LE)
 
 ## Level 4 Devils
 
-[[Hellbound Attorney]] (LE)
+[[DATABASE/monster/Hellbound Attorney|Hellbound Attorney]] (LE)
 
 ## Level 5 Devils
 
-[[Barbazu (Bearded Devil)]] (LE)
+[[DATABASE/monster/Barbazu (Bearded Devil)|Barbazu]] (LE)
 
 ## Level 7 Devils
 
-[[Levaloch (Warmonger Devil)]] (LE)
+[[DATABASE/monster/Levaloch (Warmonger Devil)|Levaloch]] (LE)
 
 ## Level 8 Devils
 
-[[Erinys (Fury Devil)]] (LE), [[Sarglagon (Drowning Devil)]] (LE)
+[[DATABASE/monster/Erinys (Fury Devil)|Erinys]] (LE), [[DATABASE/monster/Sarglagon (Drowning Devil)|Sarglagon]] (LE)
 
 ## Level 9 Devils
 
-[[Osyluth (Bone Devil)]] (LE)
+[[DATABASE/monster/Osyluth (Bone Devil)|Osyluth]] (LE)
 
 ## Level 10 Devils
 
-[[Phistophilus (Contract Devil)]] (LE), [[Uniila (Cabal Devil)]] (LE)
+[[DATABASE/monster/Phistophilus (Contract Devil)|Phistophilus]] (LE), [[DATABASE/monster/Uniila (Cabal Devil)|Uniila]] (LE)
 
 ## Level 11 Devils
 
-[[Hamatula (Barbed Devil)]] (LE), [[Munagola (Executioner Devil)]] (LE)
+[[DATABASE/monster/Hamatula (Barbed Devil)|Hamatula]] (LE), [[DATABASE/monster/Munagola (Executioner Devil)|Munagola]] (LE)
 
 ## Level 12 Devils
 
-[[Ferrugon (Rust Devil)]] (LE)
+[[DATABASE/monster/Ferrugon (Rust Devil)|Ferrugon]] (LE)
 
 ## Level 13 Devils
 
-[[Gelugon (Ice Devil)]] (LE)
+[[DATABASE/monster/Gelugon (Ice Devil)|Gelugon]] (LE)
 
 ## Level 14 Devils
 
-[[Gylou (Handmaiden Devil)]] (LE)
+[[DATABASE/monster/Gylou (Handmaiden Devil)|Gylou]] (LE)
 
 ## Level 16 Devils
 
-[[Cornugon (Horned Devil)]] (LE), [[Lorthact]] (LE)
+[[DATABASE/monster/Cornugon (Horned Devil)|Cornugon]] (LE), [[DATABASE/monster/Lorthact|Lorthact]] (LE)
 
 ## Level 17 Devils
 
-[[Deimavigga (Apostate Devil)]] (LE)
+[[DATABASE/monster/Deimavigga (Apostate Devil)|Deimavigga]] (LE)
 
 ## Level 20 Devils
 
-[[Pit Fiend (Tyrant Devil)]] (LE)
+[[DATABASE/monster/Pit Fiend (Tyrant Devil)|Pit Fiend]] (LE)

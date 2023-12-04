@@ -69,19 +69,19 @@ wisdom: '+1'
 # Xulgath Warrior
 
 Xulgath warriors strike with fury and eager cruelty, always ready for the next fight. The taking of prizes from battle—including weapons and items stolen from defeated foes along with grislier trophies harvested from fallen victims’ flesh—is a popular pursuit among these vicious reptiles, and those whose armor and scales are most adorned are awarded the greatest respect (and perhaps fear) from their kin.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 15
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Xulgath Warrior<span class="item-type">Creature 1</span>
 
 <span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Humanoid</span><span class="item-trait">Xulgath</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +6; darkvision
-**Languages** [[Draconic]], [[Undercommon]]
-**Skills** [[Athletics]] +7, [[Stealth]] +5
+**Languages** [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Undercommon|Undercommon]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +7, [[DATABASE/skill/Stealth|Stealth]] +5
 **Str** +4, **Dex** +2, **Con** +3, **Int** -1, **Wis** +1, **Cha** +0
-**Items** [[Club]], [[Javelin]]
+**Items** [[DATABASE/weapon/Club|club]], [[DATABASE/weapon/Javelin|javelin (3)]]
 
 ---
 **AC** 16; **Fort** +8, **Ref** +7, **Will** +4

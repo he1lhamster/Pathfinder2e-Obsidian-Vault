@@ -11,6 +11,7 @@ name: Rockslide Spell
 prerequisite: '[[DATABASE/feat/Elementalist Dedication|Elementalist Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -25,9 +26,9 @@ type: Feat
 # Rockslide Spell <span class="action-icon">1</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Earth</span><span class="item-trait">Spellshape</span>
-**Source** [[Rage of Elements]]
-**Archetype** [[Elementalist]]
-**Prerequisites** [[Elementalist Dedication]]; earth is in your elemental philosophy
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
+**Archetype** [[DATABASE/archetype/Elementalist|Elementalist]]
+**Prerequisites** [[DATABASE/feat/Elementalist Dedication|Elementalist Dedication]]; earth is in your elemental philosophy
 
 ---
 You enhance your spell with elemental earth, causing chunks of stone to litter the ground. If the next action you use is to Cast a non-cantrip Spell that affects an area, a number of 5-foot squares in the area equal to the spell rank become difficult terrain for 1 round. These squares must be on the ground, and the entire area of difficult terrain must be contiguous. The spell gains the earth trait.

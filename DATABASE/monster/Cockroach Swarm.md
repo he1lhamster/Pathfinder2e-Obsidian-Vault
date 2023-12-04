@@ -79,21 +79,21 @@ wisdom: '+0'
 # Cockroach Swarm
 
 While cockroaches tend to gather in cramped spaces, a disturbed colony is sometimes prone to swarming, where hundreds or even thousands of the insects scurry out of their hiding places in a raft of shiny brown and black carapaces on thousands of skittering legs. Given how disgusting many find cockroaches to be, encountering such a swarm can be alarming to even the most seasoned adventurers. The creatures are relentless when disturbed; in contrast to the insects' normally skittish and harmless nature, as swarms they pursue the creature or creatures that provoked them and harry them with thousands of stinging bites.
-**Recall Knowledge - Animal ([[Nature]])**: DC 16
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
 # Cockroach Swarm<span class="item-type">Creature 2</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Animal</span><span class="item-trait">Swarm</span>
-**Source** [[Bestiary 2]] 
-**Perception** +6; [[Darkvision]], [[Scent]]
-**Skills** [[Acrobatics]] +8, [[Stealth]] +8
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +6; [[DATABASE/monsterability/Darkvision|darkvision]], [[DATABASE/monsterability/Scent|scent (imprecise) 60 feet]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +8, [[DATABASE/skill/Stealth|Stealth]] +8
 **Str** +2, **Dex** +4, **Con** +3, **Int** -5, **Wis** +0, **Cha** -4
 
 ---
 **AC** 18; **Fort** +9, **Ref** +10, **Will** +6
-**HP** 20; **Immunities** precision, [[Swarm Mind]]; **Resistances** bludgeoning 2, piercing 5, slashing 5; **Weaknesses** area damage 5, splash damage 5
+**HP** 20; **Immunities** precision, [[DATABASE/monsterability/Swarm Mind|swarm mind]]; **Resistances** bludgeoning 2, piercing 5, slashing 5; **Weaknesses** area damage 5, splash damage 5
 
 ---
 **Speed** 20 feet, climb 20 feet, fly 15 feet

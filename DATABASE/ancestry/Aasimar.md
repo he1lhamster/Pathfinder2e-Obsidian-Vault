@@ -1,4 +1,4 @@
----
+﻿---
 ability: null
 ability_boost: null
 ability_flaw: null
@@ -9,6 +9,7 @@ language: null
 max_speed: null
 name: Aasimar
 rarity: null
+rus_type_level: null
 size: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 speed: null
@@ -20,10 +21,10 @@ vision: null
 # Aasimar (Versatile Heritage)
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Aasimar</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 _Born with the power of benevolent celestial entities, aasimars are thought to be supremely blessed with strength of will, extraordinary beauty, and innate magical gifts. But many aasimars find that these perceived talents—whether they actually have them or not—set them apart from their friends and family, fostering loneliness in themselves and jealousy in others._
 Aasimars with a positive outlook face these challenges by serving their communities, populating the environment with kindness or artwork, or simply supporting those who are less fortunate. Some aasimars hold a more hostile worldview, however, and risk falling into resentment, despair, or even the temptations of evil. Even then, the stereotypes surrounding an aasimar cling close, causing others to view them as tragic figures in need of redemption.
-The powers and physical appearances passed down from celestial beings vary according to an aasimar's lineage. Those who descend from [[Archon]] are sometimes known as lawbringers, while those who possess [[Angel]] blood are called angelkin, and those related to [[Azata]] are referred to as musetouched.
+The powers and physical appearances passed down from celestial beings vary according to an aasimar's lineage. Those who descend from [[DATABASE/monsterfamily/Archon|archons]] are sometimes known as lawbringers, while those who possess [[DATABASE/monsterfamily/Angel|angelic]] blood are called angelkin, and those related to [[DATABASE/monsterfamily/Azata|azatas]] are referred to as musetouched.
  If you want a character brimming with celestial power, unique physical characteristics and the potential for strong faith, you should play an aasimar.
 
 ## You Might...
@@ -52,7 +53,7 @@ An aasimar’s celestial nature doesn’t force goodness or faith into their lif
 
 ## Adventurers
 
-Aasimars are often revered from birth, and communities often ensure that these blessed children are given every advantage to pursue their divine destiny. Pampered aasimars may have the [[Artist]], [[Emissary]], [[Entertainer]], or [[Noble]] background. Aasimars pursuing virtuous ends may have the [[Acolyte]], [[Detective]], or [[Field Medic]] backgrounds. Aasimars often devote themselves to faith, becoming [[Champion]] or [[Cleric]]. Artistic aasimars excel as [[Bard]].
+Aasimars are often revered from birth, and communities often ensure that these blessed children are given every advantage to pursue their divine destiny. Pampered aasimars may have the [[DATABASE/background/Artist|artist]], [[DATABASE/background/Emissary|emissary]], [[DATABASE/background/Entertainer|entertainer]], or [[DATABASE/background/Noble|noble]] background. Aasimars pursuing virtuous ends may have the [[DATABASE/background/Acolyte|acolyte]], [[DATABASE/background/Detective|detective]], or [[DATABASE/background/Field Medic|field medic]] backgrounds. Aasimars often devote themselves to faith, becoming [[DATABASE/class_/Champion|champions]] or [[DATABASE/class_/Cleric|clerics]]. Artistic aasimars excel as [[DATABASE/class_/Bard|bards]].
 
 ## Other Information
 
@@ -62,13 +63,13 @@ Societies expect great destinies from aasimars, and the pull of their celestial 
 
 ### Tianjing
 
-Due to the nature of their births, aasimar have few dominions they can claim as their own. The aasimar nation of Tianjing in Tian Xia is a major exception, populated by the descendants of celestials who fought off a [[Qlippoth]] invasion and known now for its skilled diplomats. Tianjing's aasimar crafters also display masterful skill in their chosen professions, and their finely made goods are coveted across Golarion.
+Due to the nature of their births, aasimar have few dominions they can claim as their own. The aasimar nation of Tianjing in Tian Xia is a major exception, populated by the descendants of celestials who fought off a [[DATABASE/monsterfamily/Qlippoth|qlippoth]] invasion and known now for its skilled diplomats. Tianjing's aasimar crafters also display masterful skill in their chosen professions, and their finely made goods are coveted across Golarion.
 
 # Versatile Heritage
 
-## [[Aasimar]]
+## [[DATABASE/heritage/Aasimar|Aasimar]]
 
 <span class="trait-uncommon item-trait">Uncommon</span>
-**Source** [[Advanced Player's Guide]] 
-**Ancestry Page** [[Aasimar]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Ancestry Page** [[DATABASE/ancestry/Aasimar|Aasimar]]
 You descend from celestials or were touched by the celestial realms, gaining an air of awe and grace, as well as features distinctive to your celestial forebears. You gain the aasimar trait, in addition to the traits from your ancestry. You also gain low-light vision, or you gain darkvision if your ancestry already has low-light vision. You can choose from aasimar feats and feats from your ancestry whenever you gain an ancestry feat.

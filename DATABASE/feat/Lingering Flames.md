@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Spell Trickster Dedication|Spell Trickster Dedica
   ; ability to cast [[DATABASE/spell/Fireball|fireball]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
 subcategory: null
@@ -24,12 +25,12 @@ type: Feat
 # Lingering Flames <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Grand Bazaar]]
-**Archetype** [[Spell Trickster]]
-**Prerequisites** [[Spell Trickster Dedication]]; ability to cast [[Fireball]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
+**Archetype** [[DATABASE/archetype/Spell Trickster|Spell Trickster]]
+**Prerequisites** [[DATABASE/feat/Spell Trickster Dedication|Spell Trickster Dedication]]; ability to cast [[DATABASE/spell/Fireball|fireball]]
 
 ---
-When you cast _fireball_, you can modify its effects, decreasing the base damage to 5d6 and causing it to deal 2 [[Persistent Damage]] to creatures that fail their save, doubled as normal on a critical failure. If you do, replace its heightened entry with the following.
+When you cast _fireball_, you can modify its effects, decreasing the base damage to 5d6 and causing it to deal 2 [[DATABASE/condition/Persistent Damage|persistent fire damage]] to creatures that fail their save, doubled as normal on a critical failure. If you do, replace its heightened entry with the following.
  **Heightened (+1)** The damage is increased by 1d6 and the persistent fire damage is increased by 2.
 
 ## Traits

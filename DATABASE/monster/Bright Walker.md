@@ -87,25 +87,25 @@ wisdom: '+4'
 ---
 # Bright Walker
 
-Those who encounter [[Caligni]] quickly learn that their deaths involve burning out instead of bleeding out. At times, this dramatic immolation is denied to a caligni, so they arise as a bright walker. Tied to caligni society, these creatures don't understand that their glow damages and repels living calignis. Despite their name, these undead don't walk; they instead float a few inches above the ground.
-**Recall Knowledge - Spirit ([[Occultism]])**: DC 31
-**Recall Knowledge - Undead ([[Religion]])**: DC 31
+Those who encounter [[DATABASE/monsterfamily/Caligni|calignis]] quickly learn that their deaths involve burning out instead of bleeding out. At times, this dramatic immolation is denied to a caligni, so they arise as a bright walker. Tied to caligni society, these creatures don't understand that their glow damages and repels living calignis. Despite their name, these undead don't walk; they instead float a few inches above the ground.
+**Recall Knowledge - Spirit ([[DATABASE/skill/Occultism|Occultism]])**: DC 31
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 31
 **Unspecific Lore**: DC 29
 **Specific Lore**: DC 26
 
 # Bright Walker<span class="item-type">Creature 9</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Incorporeal</span><span class="item-trait">Spirit</span><span class="item-trait">Undead</span>
-**Source** [[Pathfinder 165. Eyes of Empty Death]]
-**Perception** +19; [[Darkvision]]
-**Languages** [[Caligni]]
-**Skills** [[Acrobatics]] +19, [[Intimidation]] +18, [[Stealth]] +19
+**Source** [[DATABASE/source/Pathfinder 165. Eyes of Empty Death|Pathfinder #165: Eyes of Empty Death]]
+**Perception** +19; [[DATABASE/monsterability/Darkvision|greater darkvision]]
+**Languages** [[DATABASE/language/Caligni|Caligni]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +19, [[DATABASE/skill/Intimidation|Intimidation]] +18, [[DATABASE/skill/Stealth|Stealth]] +19
 **Str** -5, **Dex** +6, **Con** +0, **Int** +0, **Wis** +4, **Cha** +3
 
 ---
 **AC** 26; **Fort** +15, **Ref** +21, **Will** +19
-**HP** 115 ([[Negative Healing]]); **Immunities** death effects, disease, [[Paralyzed]], poison, precision, [[Unconscious]]; **Resistances** all damage 10 (except for force, [[Ghost Touch]], or positive; double resistance vs. non-magical).
-<span class="in-box-ability">**Bright Release** (fire, light) When a bright walker is reduced to 0 Hit Points, they flash out in a burst of light, obtaining the blazing end they were denied at death. This blaze deals 10d6 fire damage (DC 25 basic Reflex save) to creatures within 20 feet. Creatures who fail this save are also dazzled for 1 minute (blinded for 1 minute on a critical failure).</span><span class="in-box-ability">**Light Aura** (aura, divine, light) 30 feet. The bright walker sheds bright light. Any creature that starts its turn in the aura must attempt at a DC 24 Fortitude save.</span><span class="in-box-ability"> **Critical Success** The creature is temporarily immune for 24 hours.</span><span class="in-box-ability"> **Success** The creature is [[Dazzled]] for 1 round.</span><span class="in-box-ability"> **Failure** The creature is [[Blinded]] for 1 round.</span><span class="in-box-ability"> **Critical Failure** The creature is blinded for 1 hour.</span><span class="in-box-ability">**Suppress Aura** <span class="action-icon">1</span> (concentrate) The bright walker suppresses their light aura for 1 round, reducing it to a faint, ghostly glow of dim light.</span>
+**HP** 115 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects, disease, [[DATABASE/condition/Paralyzed|paralyzed]], poison, precision, [[DATABASE/condition/Unconscious|unconscious]]; **Resistances** all damage 10 (except for force, [[DATABASE/equipment/Ghost Touch|ghost touch]], or positive; double resistance vs. non-magical).
+<span class="in-box-ability">**Bright Release** (fire, light) When a bright walker is reduced to 0 Hit Points, they flash out in a burst of light, obtaining the blazing end they were denied at death. This blaze deals 10d6 fire damage (DC 25 basic Reflex save) to creatures within 20 feet. Creatures who fail this save are also dazzled for 1 minute (blinded for 1 minute on a critical failure).</span><span class="in-box-ability">**Light Aura** (aura, divine, light) 30 feet. The bright walker sheds bright light. Any creature that starts its turn in the aura must attempt at a DC 24 Fortitude save.</span><span class="in-box-ability"> **Critical Success** The creature is temporarily immune for 24 hours.</span><span class="in-box-ability"> **Success** The creature is [[DATABASE/condition/Dazzled|dazzled]] for 1 round.</span><span class="in-box-ability"> **Failure** The creature is [[DATABASE/condition/Blinded|blinded]] for 1 round.</span><span class="in-box-ability"> **Critical Failure** The creature is blinded for 1 hour.</span><span class="in-box-ability">**Suppress Aura** <span class="action-icon">1</span> (concentrate) The bright walker suppresses their light aura for 1 round, reducing it to a faint, ghostly glow of dim light.</span>
 
 ---
 **Speed** fly 25 feet; landbound
@@ -113,4 +113,4 @@ Those who encounter [[Caligni]] quickly learn that their deaths involve burning 
 
 ###  Bright Walker Formations
 
-Most calignis assume that bright walkers arise at the whims of their malign and capricious demigods, the [[Owb]], but as the Forsaken are denied the souls of these undead, some other unknown force must be involved.
+Most calignis assume that bright walkers arise at the whims of their malign and capricious demigods, the [[DATABASE/monsterfamily/Owb|Forsaken]], but as the Forsaken are denied the souls of these undead, some other unknown force must be involved.

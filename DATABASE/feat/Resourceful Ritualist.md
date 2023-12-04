@@ -11,6 +11,7 @@ name: Resourceful Ritualist
 prerequisite: '[[DATABASE/feat/Ritualist Dedication|Ritualist Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Resourceful Ritualist <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Skill</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Ritualist]]
-**Prerequisites** [[Ritualist Dedication]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Ritualist|Ritualist]]
+**Prerequisites** [[DATABASE/feat/Ritualist Dedication|Ritualist Dedication]]
 
 ---
 You can cast difficult rituals that might otherwise be just beyond your skill. You can attempt checks to cast a ritual that requires expert proficiency if you are trained, master proficiency if you are an expert, or legendary proficiency if you are a master.

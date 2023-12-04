@@ -79,22 +79,22 @@ wisdom: '+0'
 # Fire Jellyfish Swarm
 
 While individually one of these fist-sized jellyfish is merely a nuisance, in great numbers, fire jellyfish can form into dangerous swarms. Bobbing in the water, they create a cloud of stinging tentacles. They were named in part for their bright coloration, but those who are stung by fire jellyfish learn the larger reason for their name—the pain of their stings is comparable to being burned alive.
-**Recall Knowledge - Animal ([[Nature]])**: DC 22
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 22
 **Unspecific Lore**: DC 20
 **Specific Lore**: DC 17
 
 # Fire Jellyfish Swarm<span class="item-type">Creature 6</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Animal</span><span class="item-trait">Aquatic</span><span class="item-trait">Mindless</span><span class="item-trait">Swarm</span>
-**Source** [[Bestiary 2]] 
-**Perception** +10; [[Low-Light Vision]]
-**Skills** [[Acrobatics]] +15
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +10; [[DATABASE/monsterability/Low-Light Vision|low-light vision]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +15
 **Str** -4, **Dex** +5, **Con** +4, **Int** -5, **Wis** +0, **Cha** -5
 
 ---
 **AC** 13; **Fort** +16, **Ref** +15, **Will** +10
-**HP** 155; **Immunities** mental, precision, [[Swarm Mind]]; **Resistances** bludgeoning 9, piercing 9, poison 10, slashing 5; **Weaknesses** area damage 7, splash damage 7
+**HP** 155; **Immunities** mental, precision, [[DATABASE/monsterability/Swarm Mind|swarm mind]]; **Resistances** bludgeoning 9, piercing 9, poison 10, slashing 5; **Weaknesses** area damage 7, splash damage 7
 
 ---
 **Speed** swim 20 feet
-<span class="in-box-ability">**Agile Swimmer** Fire jellyfish swarms use [[Acrobatics]] to [[Swim]].</span><span class="in-box-ability">**Burning Swarm** <span class="action-icon">1</span> (poison) Each enemy in the swarm's space takes 3d8 poison damage (DC 24 basic Reflex save) and is exposed to fire jelly venom.</span><span class="in-box-ability">**Fire Jelly Venom** (poison) **Saving Throw** DC 24 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** [[Clumsy]] (1 round); **Stage 2** clumsy 2 (1 round); **Stage 3** clumsy 3 (1 round)</span>
+<span class="in-box-ability">**Agile Swimmer** Fire jellyfish swarms use [[DATABASE/skill/Acrobatics|Acrobatics]] to [[DATABASE/action/Swim|Swim]].</span><span class="in-box-ability">**Burning Swarm** <span class="action-icon">1</span> (poison) Each enemy in the swarm's space takes 3d8 poison damage (DC 24 basic Reflex save) and is exposed to fire jelly venom.</span><span class="in-box-ability">**Fire Jelly Venom** (poison) **Saving Throw** DC 24 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** [[DATABASE/condition/Clumsy|clumsy 1]] (1 round); **Stage 2** clumsy 2 (1 round); **Stage 3** clumsy 3 (1 round)</span>

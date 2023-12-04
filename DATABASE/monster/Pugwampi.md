@@ -77,19 +77,19 @@ wisdom: '+2'
 # Pugwampi
 
 Mean, dog-faced, and craven, pugwampis take disproportionate enjoyment from the accidents and missteps of other creatures—something that happens often due to the supernatural aura of ill fortune these gremlins project. They enjoy preparing pranks involving spikes, excrement, pits full of spiders, and the like. Pugwampis are somewhat deaf and thus often yell loudly to each other when not hiding. Many pugwampis worship gnolls as gods and aspire to be more like gnolls, although gnolls hate pugwampis even more than most creatures do, due to their sycophantic fawning.
-**Recall Knowledge - Fey ([[Nature]])**: DC 14
+**Recall Knowledge - Fey ([[DATABASE/skill/Nature|Nature]])**: DC 14
 **Unspecific Lore**: DC 12
 **Specific Lore**: DC 9
 
 # Pugwampi<span class="item-type">Creature 0</span>
 
 <span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Tiny</span><span class="item-trait">Fey</span><span class="item-trait">Gremlin</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +6; (–2 to hear things); darkvision
-**Languages** [[Gnoll]], [[Undercommon]]
-**Skills** [[Crafting]] +2, [[Deception]] +2, [[Nature]] +4, [[Stealth]] +5, [[Thievery]] +5
+**Languages** [[DATABASE/language/Gnoll|Gnoll]], [[DATABASE/language/Undercommon|Undercommon]]
+**Skills** [[DATABASE/skill/Crafting|Crafting]] +2, [[DATABASE/skill/Deception|Deception]] +2, [[DATABASE/skill/Nature|Nature]] +4, [[DATABASE/skill/Stealth|Stealth]] +5, [[DATABASE/skill/Thievery|Thievery]] +5
 **Str** -3, **Dex** +3, **Con** +0, **Int** +0, **Wis** +2, **Cha** -2
-**Items** [[Shortbow]], [[Shortsword]]
+**Items** [[DATABASE/weapon/Shortbow|shortbow (60 arrows)]], [[DATABASE/weapon/Shortsword|shortsword]]
 
 ---
 **AC** 16; **Fort** +5, **Ref** +8, **Will** +6
@@ -98,4 +98,4 @@ Mean, dog-faced, and craven, pugwampis take disproportionate enjoyment from the 
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> shortsword +8 [+4/+0] (agile, finesse, magical, versatile S), **Damage** 1d6-3 slashing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> shortbow +8 [+3/-2] (deadly 1d10, magical, range increment 60 feet, reload 0), **Damage** 1d6 piercing</span>**Primal Innate Spells** DC 16; **2nd** _[[Speak with Animals]]_ (at will); **Cantrips** **(1st)** _[[Prestidigitation]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> shortsword +8 [+4/+0] (agile, finesse, magical, versatile S), **Damage** 1d6-3 slashing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> shortbow +8 [+3/-2] (deadly 1d10, magical, range increment 60 feet, reload 0), **Damage** 1d6 piercing</span>**Primal Innate Spells** DC 16; **2nd** _[[DATABASE/spell/Speak with Animals|speak with animals]]_ (at will); **Cantrips** **(1st)** _[[DATABASE/spell/Prestidigitation|prestidigitation]]_

@@ -4,6 +4,7 @@ id: '15'
 level: '2'
 name: Curse of Nightmares
 rarity: Common
+rus_type_level: null
 saving_throw: DC 16 Will
 school: Illusion
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
@@ -19,6 +20,6 @@ usage: null
 # Curse of Nightmares<span class="item-type">Curse 2</span>
 
 <span class="item-trait">Curse</span><span class="item-trait">Illusion</span><span class="item-trait">Magical</span><span class="item-trait">Mental</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 This curse plagues you with terrible nightmares whenever you sleep, preventing you from resting properly.
-**Saving Throw** DC 16 Will; **Effect** You must rest for 12 hours instead of 8 to avoid becoming [[Fatigued]] and can’t gain any benefits from resting or long-term rest. You can still make your daily preparations.
+**Saving Throw** DC 16 Will; **Effect** You must rest for 12 hours instead of 8 to avoid becoming [[DATABASE/condition/Fatigued|fatigued]] and can’t gain any benefits from resting or long-term rest. You can still make your daily preparations.

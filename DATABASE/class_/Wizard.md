@@ -1,4 +1,4 @@
----
+﻿---
 ability:
 - Intelligence
 ability_boost:
@@ -18,6 +18,7 @@ id: '12'
 name: Wizard
 perception_proficiency: Trained
 rarity: Common
+rus_type_level: null
 skill_proficiency:
 - Trained in Arcana
 - Trained in a number of additional skills equal to 2 plus your Intelligence modifier
@@ -29,7 +30,7 @@ type: Class
 
 ---
 # Wizard
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 _You are an eternal student of the arcane secrets of the universe, using your mastery of magic to cast powerful and devastating spells. You treat magic like a science, cross-referencing the latest texts on practical spellcraft with ancient esoteric tomes to discover and understand how magic works. Yet magical theory is vast, and there’s no way you can study it all. You either specialize in one of the eight schools of magic, gaining deeper understanding of the nuances of those spells above all others, or favor a broader approach that emphasizes the way all magic comes together at the expense of depth._
 **Key Ability: INTELLIGENCE**
 At 1st level, your class gives you an ability boost to Intelligence.
@@ -45,7 +46,7 @@ You'll see the following term in many wizard class features.
 
 ## During Combat Encounters...
 
-You likely try to stay out of the fray, carefully judging when to use your spells. You save your most powerful magic to incapacitate threatening foes and use your cantrips when only weaker foes remain. When enemies pull out tricks like [[Invisibility]] or [[Fly]], you answer with spells like [[Glitterdust]] or [[Earthbind]], leveling the field for your allies.
+You likely try to stay out of the fray, carefully judging when to use your spells. You save your most powerful magic to incapacitate threatening foes and use your cantrips when only weaker foes remain. When enemies pull out tricks like [[DATABASE/spell/Invisibility|invisibility]] or [[DATABASE/spell/Fly|flight]], you answer with spells like [[DATABASE/spell/Glitterdust|glitterdust]] or [[DATABASE/spell/Earthbind|earth bind]], leveling the field for your allies.
 
 ## During Social Encounters...
 
@@ -87,12 +88,12 @@ Expert in Will
 
 ## Skills
 
-Trained in [[Arcana]]
+Trained in [[DATABASE/skill/Arcana|Arcana]]
 Trained in a number of additional skills equal to 2 plus your Intelligence modifier
 
 ## Attacks
 
-Trained in the [[Club]], [[Crossbow]], [[Dagger]], [[Heavy Crossbow]], and [[Staff]]
+Trained in the [[DATABASE/weapon/Club|club]], [[DATABASE/weapon/Crossbow|crossbow]], [[DATABASE/weapon/Dagger|dagger]], [[DATABASE/weapon/Heavy Crossbow|heavy crossbow]], and [[DATABASE/weapon/Staff|staff]]
 Trained in unarmed attacks
 
 ## Defenses
@@ -107,54 +108,52 @@ Trained in arcane spell DCs
 
 # Class Features
 
-You gain these features as a Wizard. Abilities gained at higher levels list the levels at which you gain them next to the features' names.
-
-|   Your Level | Class Features                                                                                                 |
-|-------------:|:---------------------------------------------------------------------------------------------------------------|
-|            1 | Ancestry and background, initial proficiencies, arcane spellcasting, arcane school, arcane bond, arcane thesis |
-|            2 | Skill feat, wizard feat                                                                                        |
-|            3 | 2nd-level spells, general feat, skill increase                                                                 |
-|            4 | Skill feat, wizard feat                                                                                        |
-|            5 | 3rd-level spells, ability boosts, ancestry feat, lightning reflexes, skill increase                            |
-|            6 | Skill feat, wizard feat                                                                                        |
-|            7 | 4th-level spells, expert spellcaster, general feat, skill increase                                             |
-|            8 | Skill feat, wizard feat                                                                                        |
-|            9 | 5th-level spells, ancestry feat, magical fortitude, skill increase                                             |
-|           10 | Ability boosts, skill feat, wizard feat                                                                        |
-|           11 | 6th-level spells, alertness, general feat, skill increase, wizard weapon expertise                             |
-|           12 | Skill feat, wizard feat                                                                                        |
-|           13 | 7th-level spells, ancestry feat, defensive robes, skill increase, weapon specialization                        |
-|           14 | Skill feat, wizard feat                                                                                        |
-|           15 | 8th-level spells, ability boosts, general feat, master spellcaster, skill increase                             |
-|           16 | Skill feat, wizard feat                                                                                        |
-|           17 | 9th-level spells, ancestry feat, resolve, skill increase                                                       |
-|           18 | Skill feat, wizard feat                                                                                        |
-|           19 | Archwizard’s spellcraft, general feat, legendary spellcaster, skill increase                                   |
-|           20 | Ability boosts, skill feat, wizard feat                                                                        |
-
-| Your Level                                                                                                                         |   Cantrips |   1st | 2nd   | 3rd   | 4th   | 5th   | 6th   | 7th   | 8th   | 9th   | 10th   |
-|:-----------------------------------------------------------------------------------------------------------------------------------|-----------:|------:|:------|:------|:------|:------|:------|:------|:------|:------|:-------|
-| 1                                                                                                                                  |          5 |     2 | —     | —     | —     | —     | —     | —     | —     | —     | —      |
-| 2                                                                                                                                  |          5 |     3 | —     | —     | —     | —     | —     | —     | —     | —     | —      |
-| 3                                                                                                                                  |          5 |     3 | 2     | —     | —     | —     | —     | —     | —     | —     | —      |
-| 4                                                                                                                                  |          5 |     3 | 3     | —     | —     | —     | —     | —     | —     | —     | —      |
-| 5                                                                                                                                  |          5 |     3 | 3     | 2     | —     | —     | —     | —     | —     | —     | —      |
-| 6                                                                                                                                  |          5 |     3 | 3     | 3     | —     | —     | —     | —     | —     | —     | —      |
-| 7                                                                                                                                  |          5 |     3 | 3     | 3     | 2     | —     | —     | —     | —     | —     | —      |
-| 8                                                                                                                                  |          5 |     3 | 3     | 3     | 3     | —     | —     | —     | —     | —     | —      |
-| 9                                                                                                                                  |          5 |     3 | 3     | 3     | 3     | 2     | —     | —     | —     | —     | —      |
-| 10                                                                                                                                 |          5 |     3 | 3     | 3     | 3     | 3     | —     | —     | —     | —     | —      |
-| 11                                                                                                                                 |          5 |     3 | 3     | 3     | 3     | 3     | 2     | —     | —     | —     | —      |
-| 12                                                                                                                                 |          5 |     3 | 3     | 3     | 3     | 3     | 3     | —     | —     | —     | —      |
-| 13                                                                                                                                 |          5 |     3 | 3     | 3     | 3     | 3     | 3     | 2     | —     | —     | —      |
-| 14                                                                                                                                 |          5 |     3 | 3     | 3     | 3     | 3     | 3     | 3     | —     | —     | —      |
-| 15                                                                                                                                 |          5 |     3 | 3     | 3     | 3     | 3     | 3     | 3     | 2     | —     | —      |
-| 16                                                                                                                                 |          5 |     3 | 3     | 3     | 3     | 3     | 3     | 3     | 3     | —     | —      |
-| 17                                                                                                                                 |          5 |     3 | 3     | 3     | 3     | 3     | 3     | 3     | 3     | 2     | —      |
-| 18                                                                                                                                 |          5 |     3 | 3     | 3     | 3     | 3     | 3     | 3     | 3     | 3     | —      |
-| 19                                                                                                                                 |          5 |     3 | 3     | 3     | 3     | 3     | 3     | 3     | 3     | 3     | 1*     |
-| 20                                                                                                                                 |          5 |     3 | 3     | 3     | 3     | 3     | 3     | 3     | 3     | 3     | 1*     |
-| * The archwizard’s spellcraft class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. |        nan |   nan | nan   | nan   | nan   | nan   | nan   | nan   | nan   | nan   | nan    |
+You gain these features as a Wizard. Abilities gained at higher levels list the levels at which you gain them next to the features' names.| 0 | 1 |
+|:-----------|:---------------------------------------------------------------------------------------------------------------|
+| Your Level | Class Features |
+| 1 | Ancestry and background, initial proficiencies, arcane spellcasting, arcane school, arcane bond, arcane thesis |
+| 2 | Skill feat, wizard feat |
+| 3 | 2nd-level spells, general feat, skill increase |
+| 4 | Skill feat, wizard feat |
+| 5 | 3rd-level spells, ability boosts, ancestry feat, lightning reflexes, skill increase |
+| 6 | Skill feat, wizard feat |
+| 7 | 4th-level spells, expert spellcaster, general feat, skill increase |
+| 8 | Skill feat, wizard feat |
+| 9 | 5th-level spells, ancestry feat, magical fortitude, skill increase |
+| 10 | Ability boosts, skill feat, wizard feat |
+| 11 | 6th-level spells, alertness, general feat, skill increase, wizard weapon expertise |
+| 12 | Skill feat, wizard feat |
+| 13 | 7th-level spells, ancestry feat, defensive robes, skill increase, weapon specialization |
+| 14 | Skill feat, wizard feat |
+| 15 | 8th-level spells, ability boosts, general feat, master spellcaster, skill increase |
+| 16 | Skill feat, wizard feat |
+| 17 | 9th-level spells, ancestry feat, resolve, skill increase |
+| 18 | Skill feat, wizard feat |
+| 19 | Archwizard’s spellcraft, general feat, legendary spellcaster, skill increase |
+| 20 | Ability boosts, skill feat, wizard feat || 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
+|:-----------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------|
+| Your Level | Cantrips | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th | 10th |
+| 1 | 5 | 2 | — | — | — | — | — | — | — | — | — |
+| 2 | 5 | 3 | — | — | — | — | — | — | — | — | — |
+| 3 | 5 | 3 | 2 | — | — | — | — | — | — | — | — |
+| 4 | 5 | 3 | 3 | — | — | — | — | — | — | — | — |
+| 5 | 5 | 3 | 3 | 2 | — | — | — | — | — | — | — |
+| 6 | 5 | 3 | 3 | 3 | — | — | — | — | — | — | — |
+| 7 | 5 | 3 | 3 | 3 | 2 | — | — | — | — | — | — |
+| 8 | 5 | 3 | 3 | 3 | 3 | — | — | — | — | — | — |
+| 9 | 5 | 3 | 3 | 3 | 3 | 2 | — | — | — | — | — |
+| 10 | 5 | 3 | 3 | 3 | 3 | 3 | — | — | — | — | — |
+| 11 | 5 | 3 | 3 | 3 | 3 | 3 | 2 | — | — | — | — |
+| 12 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | — | — | — | — |
+| 13 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 2 | — | — | — |
+| 14 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | — | — | — |
+| 15 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 2 | — | — |
+| 16 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | — | — |
+| 17 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 2 | — |
+| 18 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | — |
+| 19 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 1* |
+| 20 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 1* |
+| * The archwizard’s spellcraft class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The archwizard’s spellcraft class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The archwizard’s spellcraft class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The archwizard’s spellcraft class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The archwizard’s spellcraft class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The archwizard’s spellcraft class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The archwizard’s spellcraft class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The archwizard’s spellcraft class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The archwizard’s spellcraft class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The archwizard’s spellcraft class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The archwizard’s spellcraft class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The archwizard’s spellcraft class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. |
 
 ## Ancestry and Background
 
@@ -181,14 +180,14 @@ Some of your spells are cantrips. A cantrip is a special type of spell that does
 
 ### Spellbook
 
-Every arcane spell has a written version, usually recorded in a spellbook. You start with a [[Spellbook (Blank)]] worth 10 sp or less, which you receive for free and must study to prepare your spells each day. The spellbook contains your choice of 10 arcane cantrips and five 1st-level arcane spells. You choose these from the common spells on the arcane spell list or from other arcane spells you gain access to. Your spellbook's form and name are up to you. It might be a musty, leather-bound tome or an assortment of thin metal disks connected to a brass ring; its name might be esoteric, like _The Crimson Libram_, or something more academic, like _A Field Study in Practical Transmutation_.
- Each time you gain a level, you add two more arcane spells to your spellbook, of any level for which you have spell slots. You can also use the [[Arcana]] skill to add other spells that you find in your adventures (See Learn a Spell).
+Every arcane spell has a written version, usually recorded in a spellbook. You start with a [[DATABASE/equipment/Spellbook (Blank)|spellbook]] worth 10 sp or less, which you receive for free and must study to prepare your spells each day. The spellbook contains your choice of 10 arcane cantrips and five 1st-level arcane spells. You choose these from the common spells on the arcane spell list or from other arcane spells you gain access to. Your spellbook's form and name are up to you. It might be a musty, leather-bound tome or an assortment of thin metal disks connected to a brass ring; its name might be esoteric, like _The Crimson Libram_, or something more academic, like _A Field Study in Practical Transmutation_.
+ Each time you gain a level, you add two more arcane spells to your spellbook, of any level for which you have spell slots. You can also use the [[DATABASE/skill/Arcana|Arcana]] skill to add other spells that you find in your adventures (See Learn a Spell).
 
 ### Sample Spellbook
 
 You can fill your spellbook with whichever spells you like, but the list below covers a good selection of starter spells for a 1st-level wizard. These are the exact spells found in _Structure and Interpretation of Arcane Magic_, a basic spellbook used by arcane academies and master wizards to teach apprentices good habits in arcane research. 
-**Cantrips**: [[Acid Splash]], [[Detect Magic]], [[Electric Arc]], [[Light]], [[Mage Hand]], [[Message]], [[Prestidigitation]], [[Ray of Frost]], [[Read Aura]], and [[Shield]]. 
-**1st Level**: [[Burning Hands]], [[Color Spray]], [[Grease]], [[Mage Armor]], and [[Magic Missile]], plus one spell of your school if you’re a specialist wizard.
+**Cantrips**: [[DATABASE/spell/Acid Splash|Acid splash]], [[DATABASE/spell/Detect Magic|detect magic]], [[DATABASE/spell/Electric Arc|electric arc]], [[DATABASE/spell/Light|light]], [[DATABASE/spell/Mage Hand|mage hand]], [[DATABASE/spell/Message|message]], [[DATABASE/spell/Prestidigitation|prestidigitation]], [[DATABASE/spell/Ray of Frost|ray of frost]], [[DATABASE/spell/Read Aura|read aura]], and [[DATABASE/spell/Shield|shield]]. 
+**1st Level**: [[DATABASE/spell/Burning Hands|Burning hands]], [[DATABASE/spell/Color Spray|color spray]], [[DATABASE/spell/Grease|grease]], [[DATABASE/spell/Mage Armor|mage armor]], and [[DATABASE/spell/Magic Missile|magic missile]], plus one spell of your school if you’re a specialist wizard.
 
 ## Arcane School
 
@@ -200,10 +199,10 @@ Arcane schools can be found here
 
 You place some of your magical power in a bonded item. Each day when you prepare your spells, you can designate a single item you own as your bonded item. This is typically an item associated with spellcasting, such as a wand, ring, or staff, but you are free to designate a weapon or other item. You gain the Drain Bonded Item free action.
 
-### [[Drain Bonded Item]] <span class="action-icon">4</span>
+### [[DATABASE/action/Drain Bonded Item|Drain Bonded Item]] <span class="action-icon">4</span>
 
 <span class="item-trait">Arcane</span><span class="item-trait">Wizard</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Frequency** once per day
 
 ---
@@ -277,7 +276,7 @@ You’ve steeled your mind with resolve. Your proficiency rank for Will saves in
 
 ## Archwizard's Spellcraft<span class="item-type">Level 19</span>
 
-You command the most potent arcane magic and can cast a spell of truly incredible power. You gain a single 10th-level spell slot and can prepare a spell in that slot using arcane spellcasting. You can't use this spell slot for abilities that let you cast spells without expending spell slots or that give you more spell slots. Unlike with other spell slots, you don't gain more 10th-level spells as you level up, though you can take the [[Archwizard's Might]] feat to gain a second slot.
+You command the most potent arcane magic and can cast a spell of truly incredible power. You gain a single 10th-level spell slot and can prepare a spell in that slot using arcane spellcasting. You can't use this spell slot for abilities that let you cast spells without expending spell slots or that give you more spell slots. Unlike with other spell slots, you don't gain more 10th-level spells as you level up, though you can take the [[DATABASE/feat/Archwizard's Might|Archwizard's Might]] feat to gain a second slot.
 
 ## Legendary Spellcaster<span class="item-type">Level 19</span>
 

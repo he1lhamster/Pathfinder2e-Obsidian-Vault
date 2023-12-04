@@ -79,28 +79,28 @@ wisdom: '+2'
 # Vlorian Cythnigot
 
 This creature did not include a description.
-**Recall Knowledge - Fiend ([[Religion]])**: DC 23
+**Recall Knowledge - Fiend ([[DATABASE/skill/Religion|Religion]])**: DC 23
 **Unspecific Lore**: DC 21
 **Specific Lore**: DC 18
 
 # Vlorian Cythnigot<span class="item-type">Creature 3</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Fiend</span><span class="item-trait">Qlippoth</span>
-**Source** [[Rusthenge]]
-Variant [[Cythnigot]]
-**Perception** +9; [[Darkvision]]
-**Languages** [[Abyssal]]; [[Telepathy]] (touch only)
-**Skills** [[Acrobatics]] +9, [[Athletics]] +9, [[Occultism]] +9, [[Stealth]] +9
+**Source** [[DATABASE/source/Rusthenge|Rusthenge]]
+Variant [[DATABASE/monster/Cythnigot|cythnigot]]
+**Perception** +9; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Abyssal|Abyssal]]; [[DATABASE/monsterability/Telepathy|telepathy]] (touch only)
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +9, [[DATABASE/skill/Athletics|Athletics]] +9, [[DATABASE/skill/Occultism|Occultism]] +9, [[DATABASE/skill/Stealth|Stealth]] +9
 **Str** +2, **Dex** +3, **Con** +4, **Int** +2, **Wis** +2, **Cha** +1
 
 ---
 **AC** 19; **Fort** +11, **Ref** +7, **Will** +9
-**HP** 45; **Immunities** [[Controlled]], fear; **Resistances** mental 3, physical 3 (except [[Cold Iron Weapon]]); **Weaknesses** lawful 3
+**HP** 45; **Immunities** [[DATABASE/condition/Controlled|controlled]], fear; **Resistances** mental 3, physical 3 (except [[DATABASE/equipment/Cold Iron Weapon|cold iron]]); **Weaknesses** lawful 3
 
 ---
 **Speed** 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> bite +11 [+7/+3] (agile, chaotic, magical), **Damage** 1d8+4 piercing plus 1d4 chaotic and rust creep</span>**Occult Innate Spells** DC 20; **4th** _[[Read Omens]]_; **2nd** _[[Detect Alignment]]_ (at will; lawful only), _[[Paranoia]]_; **1st** _[[Phantom Pain]]_; **Cantrips** **(2nd)** _[[Daze]]_, _[[Detect Magic]]_
-<span class="in-box-ability">**Rust Creep** (disease) A creature bitten by the Vlorian cythnigot becomes afflicted by [[Rust Creep]], but with a DC 20 Fortitude save.</span><span class="in-box-ability">**Sickening Display** <span class="action-icon">1</span> (concentrate, emotion, enchantment, fear, mental, occult, visual) The cythnigot presents its awful appearance fully, and creatures in a 10-foot emanation must attempt a DC 20 Will save. Once a creature attempts this save, it's temporarily immune to further Sickening Displays for 1 minute. **Critical Success** The creature is unaffected.
- **Success** The creature is [[Flat-Footed]] until its next turn.
- **Failure** The creature is [[Sickened]], and is flat-footed for as long as it's sickened.
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> bite +11 [+7/+3] (agile, chaotic, magical), **Damage** 1d8+4 piercing plus 1d4 chaotic and rust creep</span>**Occult Innate Spells** DC 20; **4th** _[[DATABASE/spell/Read Omens|read omens]]_; **2nd** _[[DATABASE/spell/Detect Alignment|detect alignment]]_ (at will; lawful only), _[[DATABASE/spell/Paranoia|paranoia]]_; **1st** _[[DATABASE/spell/Phantom Pain|phantom pain]]_; **Cantrips** **(2nd)** _[[DATABASE/spell/Daze|daze]]_, _[[DATABASE/spell/Detect Magic|detect magic]]_
+<span class="in-box-ability">**Rust Creep** (disease) A creature bitten by the Vlorian cythnigot becomes afflicted by [[DATABASE/disease/Rust Creep|rust creep]], but with a DC 20 Fortitude save.</span><span class="in-box-ability">**Sickening Display** <span class="action-icon">1</span> (concentrate, emotion, enchantment, fear, mental, occult, visual) The cythnigot presents its awful appearance fully, and creatures in a 10-foot emanation must attempt a DC 20 Will save. Once a creature attempts this save, it's temporarily immune to further Sickening Displays for 1 minute. **Critical Success** The creature is unaffected.
+ **Success** The creature is [[DATABASE/condition/Flat-Footed|flat-footed]] until its next turn.
+ **Failure** The creature is [[DATABASE/condition/Sickened|sickened 1]], and is flat-footed for as long as it's sickened.
  **Critical Failure** The creature is sickened 2 and is flat-footed for as long as it's sickened.</span>

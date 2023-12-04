@@ -18,6 +18,7 @@ language:
 max_speed: '25'
 name: Catfolk
 rarity: Uncommon
+rus_type_level: null
 size: Medium
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 speed:
@@ -33,7 +34,7 @@ vision: Low-Light Vision
 # Catfolk
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Catfolk</span><span class="item-trait">Humanoid</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 _Curious and gregarious wanderers, catfolk combine features of felines and humanoids in both appearance and temperament. They enjoy learning new things, collecting new tales and trinkets, and ensuring their loved ones are safe and happy. Catfolk view themselves as chosen guardians of natural places in the world and are often recklessly brave, even in the face of overwhelming opposition._
 Catfolk are outgoing, active humanoids who delight in discovery, whether of hidden ruins or a comfortable place to nap. They are exceptionally social, both within their tight-knit communities and with other creatures they meet. Remarkably brave, catfolk see themselves as guardians of the world against forces that would assail it, and they believe that strong communities, breadth of experience, and continual self-improvement aid them in this fight.
  Catfolk have fast reflexes and are even able to twist themselves in the air while falling to land on their feet. As quick as these reflexes are, catfolk have quicker tempers, shifting from effusive glee to aggrieved fury in an instant. Like mundane felines, catfolk involuntarily purr when pleased and growl when surprised or angry.
@@ -69,7 +70,7 @@ Catfolk aren’t a particularly religious people, but most do believe they were 
 ## Adventurers
 
 Catfolk delight in venturing into unexplored areas, whether untrammeled wildernesses or ancient dungeons. They like finding treasures and baubles, but for most catfolk, the experience of the journey itself is the true reward.
- Typical catfolk backgrounds include [[Acrobat]], [[Artist]], [[Gambler]], [[Hunter]], [[Nomad]], and [[Scout]] from the _Core Rulebook_, plus [[Bandit]], [[Courier]], [[Insurgent]], [[Outrider]], and [[Root Worker]] from this book. Catfolk’s inherent curiosity and agility mean they excel as [[Swashbuckler]], [[Bard]], [[Fighter]], and [[Rogue]]. Their love of the natural world and drive to puzzle out secrets of all types leads many to become investigators, druids, or sorcerers.
+ Typical catfolk backgrounds include [[DATABASE/background/Acrobat|acrobat]], [[DATABASE/background/Artist|artist]], [[DATABASE/background/Gambler|gambler]], [[DATABASE/background/Hunter|hunter]], [[DATABASE/background/Nomad|nomad]], and [[DATABASE/background/Scout|scout]] from the _Core Rulebook_, plus [[DATABASE/background/Bandit|bandit]], [[DATABASE/background/Courier|courier]], [[DATABASE/background/Insurgent|insurgent]], [[DATABASE/background/Outrider|outrider]], and [[DATABASE/background/Root Worker|root worker]] from this book. Catfolk’s inherent curiosity and agility mean they excel as [[DATABASE/class_/Swashbuckler|swashbucklers]], [[DATABASE/class_/Bard|bards]], [[DATABASE/class_/Fighter|fighters]], and [[DATABASE/class_/Rogue|rogues]]. Their love of the natural world and drive to puzzle out secrets of all types leads many to become investigators, druids, or sorcerers.
 
 ## Names
 
@@ -92,7 +93,7 @@ Murraseth is the largest of several remote catfolk-majority city-states in centr
 
 ### Other Catfolk
 
-Numerous catfolk ethnicities exist beyond the Inner Sea. The black-spotted Guarrxil of southern Arcadia are renowned for their principled mercenary companies and heroic rangers. The mysterious Caimurru of the western Arcadian coast trade more with [[First World]] caravans than with other mortals. The Lyashtaki catfolk of the Valashmai Jungle sometimes make treks far from the jungle via coast-hopping boats.
+Numerous catfolk ethnicities exist beyond the Inner Sea. The black-spotted Guarrxil of southern Arcadia are renowned for their principled mercenary companies and heroic rangers. The mysterious Caimurru of the western Arcadian coast trade more with [[DATABASE/plane/First World|First World]] caravans than with other mortals. The Lyashtaki catfolk of the Valashmai Jungle sometimes make treks far from the jungle via coast-hopping boats.
 
 # Catfolk Mechanics
 
@@ -120,14 +121,14 @@ Wisdom
 
 ## Languages
 
-[[Common]]
-[[Amurrun]]
-Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[Draconic]], [[Elven]], [[Gnomish]], [[Goblin]], [[Halfling]], [[Iruxi]], [[Jotun]], [[Sylvan]], and any other languages to which you have access (such as the languages prevalent in your region).
+[[DATABASE/language/Common|Common]]
+[[DATABASE/language/Amurrun|Amurrun]]
+Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Elven|Elven]], [[DATABASE/language/Gnomish|Gnomish]], [[DATABASE/language/Goblin|Goblin]], [[DATABASE/language/Halfling|Halfling]], [[DATABASE/language/Iruxi|Iruxi]], [[DATABASE/language/Jotun|Jotun]], [[DATABASE/language/Sylvan|Sylvan]], and any other languages to which you have access (such as the languages prevalent in your region).
 
 ## Low-Light Vision
 
-You can see in dim light as though it were bright light, so you ignore the [[Concealed]] condition due to dim light.
+You can see in dim light as though it were bright light, so you ignore the [[DATABASE/condition/Concealed|concealed]] condition due to dim light.
 
 ## Land on Your Feet
 
-When you fall, you take only half the normal damage and don't land [[Prone]].
+When you fall, you take only half the normal damage and don't land [[DATABASE/condition/Prone|prone]].

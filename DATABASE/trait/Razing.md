@@ -2,6 +2,7 @@
 id: '488'
 name: Razing
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
 - Razing
@@ -10,9 +11,9 @@ type: Trait
 ---
 # Razing
 
-**Source** [[Treasure Vault]] 
-Razing weapons are particularly good at damaging objects, structures, and vehicles. Whenever you deal damage to an object (including shields and [[Animated Object]]), structure, or vehicle with a razing weapon, the object takes an amount of additional damage equal to double the number of weapon damage dice.
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
+Razing weapons are particularly good at damaging objects, structures, and vehicles. Whenever you deal damage to an object (including shields and [[DATABASE/monsterfamily/Animated Object|animated objects]]), structure, or vehicle with a razing weapon, the object takes an amount of additional damage equal to double the number of weapon damage dice.
 
 ## Weapons
 
-[[Barricade Buster]], [[Bec de Corbin]], [[Breaching Pike]], [[Dwarven Dorn-Dergar]], [[Earthbreaker]], [[Phalanx Piercer]], [[Wrecker]]
+[[DATABASE/weapon/Barricade Buster|Barricade Buster]], [[DATABASE/weapon/Bec de Corbin|Bec de Corbin]], [[DATABASE/weapon/Breaching Pike|Breaching Pike]], [[DATABASE/weapon/Dwarven Dorn-Dergar|Dwarven Dorn-Dergar]], [[DATABASE/weapon/Earthbreaker|Earthbreaker]], [[DATABASE/weapon/Phalanx Piercer|Phalanx Piercer]], [[DATABASE/weapon/Wrecker|Wrecker]]

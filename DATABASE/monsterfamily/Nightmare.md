@@ -3,6 +3,7 @@ creature_family: Nightmare
 id: '76'
 name: Nightmare
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Nightmare
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 _This entry did not have a separate description for the family._
 
 ### Members
 
-[[Greater Nightmare]] (Creature 11), [[Nightmare]] (Creature 6)
+[[DATABASE/monster/Greater Nightmare|Greater Nightmare]] (Creature 11), [[DATABASE/monster/Nightmare|Nightmare]] (Creature 6)
 
 ###  Nightmare Steeds
 

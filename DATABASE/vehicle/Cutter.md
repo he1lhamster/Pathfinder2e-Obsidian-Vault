@@ -16,6 +16,7 @@ price: 750 gp
 rarity: Common
 reflex: null
 resistance: null
+rus_type_level: null
 school: null
 size: Huge
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
@@ -27,17 +28,17 @@ type: Vehicle
 # Cutter<span class="item-type">Vehicle 6</span>
 
 <span class="trait-size item-trait">Huge</span>
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 750 gp
 
 ---
 **Space** 30 feet long, 15 feet wide, 20 feet high
 **Crew** 1 pilot, 3 crew; **Passengers** 6
-**Piloting Check** [[Nature]] (DC 24), [[Lore]] (DC 22)
+**Piloting Check** [[DATABASE/skill/Nature|Nature]] (DC 24), [[DATABASE/skill/Lore|Sailing Lore]] (DC 22)
 
 ---
 **AC** 19; **Fort** +14
-**Hardness** 10, **HP** 100 (BT 50); **Immunities** object immunities; **Weaknesses** fire 10 until [[Broken]]
+**Hardness** 10, **HP** 100 (BT 50); **Immunities** object immunities; **Weaknesses** fire 10 until [[DATABASE/condition/Broken|broken]]
 
 ---
 **Speed** swim 30 feet (wind)

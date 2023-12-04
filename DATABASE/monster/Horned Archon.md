@@ -87,19 +87,19 @@ wisdom: '+3'
 # Horned Archon
 
 Horned archons are secretive and tireless sentinels and scouts, patrolling the Outer Sphere’s untamed wilds for evil to eliminate and keeping small communities safe from demons, devils, and worse. They resemble muscular humans with the head, horns, and legs of a stag. When requested to do so by their patrons, especially Erastil, they journey to the Material Plane and patrol dangerous frontier areas, secretly performing acts of kindness such as leading hunters to food, helping lost children, and driving off evil creatures. Because they roam the wilds of Nirvana and Elysium, horned archons are among the best at understanding the perspectives of other celestials.
-**Recall Knowledge - Celestial ([[Religion]])**: DC 19
+**Recall Knowledge - Celestial ([[DATABASE/skill/Religion|Religion]])**: DC 19
 **Unspecific Lore**: DC 17
 **Specific Lore**: DC 14
 
 # Horned Archon<span class="item-type">Creature 4</span>
 
 <span class="trait-alignment item-trait">LG</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Archon</span><span class="item-trait">Celestial</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +11; darkvision
-**Languages** [[Celestial]], [[Draconic]], [[Infernal]]; [[Tongues]]
-**Skills** [[Acrobatics]] +12, [[Nature]] +11, [[Religion]] +9, [[Stealth]] +10, [[Survival]] +11 (+15 to Track)
+**Languages** [[DATABASE/language/Celestial|Celestial]], [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Infernal|Infernal]]; [[DATABASE/spell/Tongues|tongues]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +12, [[DATABASE/skill/Nature|Nature]] +11, [[DATABASE/skill/Religion|Religion]] +9, [[DATABASE/skill/Stealth|Stealth]] +10, [[DATABASE/skill/Survival|Survival]] +11 (+15 to Track)
 **Str** +3, **Dex** +4, **Con** +3, **Int** +1, **Wis** +3, **Cha** +1
-**Items** [[Composite Longbow]]
+**Items** [[DATABASE/weapon/Composite Longbow|composite longbow (20 arrows)]]
 
 ---
 **AC** 22; **Fort** +11, **Ref** +10, **Will** +11; +1 status to all saves vs. magic
@@ -108,5 +108,5 @@ Horned archons are secretive and tireless sentinels and scouts, patrolling the O
 
 ---
 **Speed** 35 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> horn +11 [+6/+1] (magical), **Damage** 2d8+3 piercing plus 1d6 good and [[Push]]</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> composite longbow +14 [+9/+4] (deadly 1d10, magical, range increment 100 feet, reload 0, volley), **Damage** 1d8+4 piercing plus 1d6 good</span>**Divine Innate Spells** DC 21; **4th** _[[Dimension Door]]_ (x3); **2nd** _[[Animal Messenger]]_ (x3); **1st** _[[Charm]]_ (animals only; x3), _[[True Strike]]_ (x3); **Cantrips** **(2nd)** _[[Dancing Lights]]_; **Constant** **(5th)** _[[Tongues]]_
-<span class="in-box-ability">**Archon's Door** Once per day, if an archon sees another creature cast [[Dimension Door]], it can cast an innate [[Dimension Door]] (heightened to 5th level) within 1 round to attempt to follow that creature to the maximum distance of the archon’s [[Dimension Door]]. If the archon’s [[Dimension Door]] has enough distance, the archon appears the same distance and direction from the creature as before either used [[Dimension Door]].</span><span class="in-box-ability">**Touch of Charity** <span class="action-icon">1</span> (healing, manipulate, necromancy) A horned archon can touch another creature to take on that creature’s wounds, transferring up to 30 of the horned archon’s HP to the touched creature. The horned archon can’t transfer more HP than it currently has.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> horn +11 [+6/+1] (magical), **Damage** 2d8+3 piercing plus 1d6 good and [[DATABASE/monsterability/Push|Push]]</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> composite longbow +14 [+9/+4] (deadly 1d10, magical, range increment 100 feet, reload 0, volley), **Damage** 1d8+4 piercing plus 1d6 good</span>**Divine Innate Spells** DC 21; **4th** _[[DATABASE/spell/Dimension Door|dimension door]]_ (x3); **2nd** _[[DATABASE/spell/Animal Messenger|animal messenger]]_ (x3); **1st** _[[DATABASE/spell/Charm|charm]]_ (animals only; x3), _[[DATABASE/spell/True Strike|true strike]]_ (x3); **Cantrips** **(2nd)** _[[DATABASE/spell/Dancing Lights|dancing lights]]_; **Constant** **(5th)** _[[DATABASE/spell/Tongues|tongues]]_
+<span class="in-box-ability">**Archon's Door** Once per day, if an archon sees another creature cast [[DATABASE/spell/Dimension Door|dimension door]], it can cast an innate [[DATABASE/spell/Dimension Door|dimension door]] (heightened to 5th level) within 1 round to attempt to follow that creature to the maximum distance of the archon’s [[DATABASE/spell/Dimension Door|dimension door]]. If the archon’s [[DATABASE/spell/Dimension Door|dimension door]] has enough distance, the archon appears the same distance and direction from the creature as before either used [[DATABASE/spell/Dimension Door|dimension door]].</span><span class="in-box-ability">**Touch of Charity** <span class="action-icon">1</span> (healing, manipulate, necromancy) A horned archon can touch another creature to take on that creature’s wounds, transferring up to 30 of the horned archon’s HP to the touched creature. The horned archon can’t transfer more HP than it currently has.</span>

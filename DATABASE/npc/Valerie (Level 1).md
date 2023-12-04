@@ -75,26 +75,26 @@ wisdom: '+0'
 # Valerie (Level 1)
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 25
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 25
 **Unspecific Lore**: DC 23
 **Specific Lore**: DC 20
 
 # Valerie (Level 1)<span class="item-type">Creature 1</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">LN</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Kingmaker Companion Guide]]
-Female versatile human fighter ([[Martial Disciple]] background)
+**Source** [[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]
+Female versatile human fighter ([[DATABASE/background/Martial Disciple|Martial Disciple]] background)
 **Perception** +5; (expert) 
-**Languages** [[Common]]
-**Skills** [[Acrobatics]] +4 (trained), [[Athletics]] +7 (trained), [[Crafting]] +3 (trained), [[Diplomacy]] +5 (trained), [[Intimidation]] +5 (trained), [[Religion]] +3 (trained), [[Society]] +3 (trained), [[Lore]] +3 (trained)
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +4 (trained), [[DATABASE/skill/Athletics|Athletics]] +7 (trained), [[DATABASE/skill/Crafting|Crafting]] +3 (trained), [[DATABASE/skill/Diplomacy|Diplomacy]] +5 (trained), [[DATABASE/skill/Intimidation|Intimidation]] +5 (trained), [[DATABASE/skill/Religion|Religion]] +3 (trained), [[DATABASE/skill/Society|Society]] +3 (trained), [[DATABASE/skill/Lore|Warfare Lore]] +3 (trained)
 **Str** +4, **Dex** +1, **Con** +2, **Int** +0, **Wis** +0, **Cha** +2
-**Items** [[Backpack]], [[Bastard Sword]], [[Bedroll]], [[Flint and Steel]], [[Juggernaut Mutagen]], [[Rations]], [[Scale Mail]], [[Shortbow]], [[Steel Shield]], [[Torch]], [[Waterskin]]
+**Items** [[DATABASE/equipment/Backpack|backpack]], [[DATABASE/weapon/Bastard Sword|bastard sword]], [[DATABASE/equipment/Bedroll|bedroll]], [[DATABASE/equipment/Flint and Steel|flint and steel]], [[DATABASE/equipment/Juggernaut Mutagen|moderate juggernaut mutagen]], [[DATABASE/equipment/Rations|rations (1 week)]], [[DATABASE/armor/Scale Mail|scale mail]], [[DATABASE/weapon/Shortbow|shortbow (20 arrows)]], [[DATABASE/shield/Steel Shield|steel shield (Hardness 5, HP 20, BT 10)]], [[DATABASE/equipment/Torch|torches (3)]], [[DATABASE/equipment/Waterskin|waterskin]]
 
 ---
 **AC** 17; **Fort** +7, **Ref** +6, **Will** +3
 **HP** 21
-<span class="in-box-ability">**[[Attack of Opportunity]]** <span class="action-icon">5</span> </span><span class="in-box-ability">**[[Reactive Shield]]** <span class="action-icon">5</span> </span><span class="in-box-ability">**[[Shield Block]]** <span class="action-icon">5</span> </span>
+<span class="in-box-ability">**[[DATABASE/monsterability/Attack of Opportunity|Attack of Opportunity]]** <span class="action-icon">5</span> </span><span class="in-box-ability">**[[DATABASE/feat/Reactive Shield|Reactive Shield]]** <span class="action-icon">5</span> </span><span class="in-box-ability">**[[DATABASE/feat/Shield Block|Shield Block]]** <span class="action-icon">5</span> </span>
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> bastard sword +9 [+4/-1] (two-hand d12), **Damage** 1d8+4 slashing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> shortbow +6 [+1/-4] (deadly d10, range 60 feet), **Damage** 1d8 piercing</span><span class="in-box-ability">**Ancestry Feats** [[Natural Skill]] (Diplomacy, Society)</span><span class="in-box-ability">**Class Feats** [[Reactive Shield]]</span><span class="in-box-ability">**Class Abilities** Attack of Opportunity, Shield Block</span><span class="in-box-ability">**General Feats** Shield Block, [[Toughness]]</span><span class="in-box-ability">**Skill Feats** [[Quick Jump]]</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> bastard sword +9 [+4/-1] (two-hand d12), **Damage** 1d8+4 slashing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> shortbow +6 [+1/-4] (deadly d10, range 60 feet), **Damage** 1d8 piercing</span><span class="in-box-ability">**Ancestry Feats** [[DATABASE/feat/Natural Skill|Natural Skill]] (Diplomacy, Society)</span><span class="in-box-ability">**Class Feats** [[DATABASE/feat/Reactive Shield|Reactive Shield]]</span><span class="in-box-ability">**Class Abilities** Attack of Opportunity, Shield Block</span><span class="in-box-ability">**General Feats** Shield Block, [[DATABASE/feat/Toughness|Toughness]]</span><span class="in-box-ability">**Skill Feats** [[DATABASE/feat/Quick Jump|Quick Jump]]</span>

@@ -3,6 +3,7 @@ creature_family: Scorpion
 id: '87'
 name: Scorpion
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,16 +11,16 @@ type: Creature Family
 ---
 # Scorpion
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Chitinous scourges of deserts, forests, savannas, and badlands, scorpions are deadly arachnids with powerful pincers and a painful sting. Scorpions can be found in nearly every climate, where they hunt their prey with a mixture of patient stealth and raw strength. Most scorpions live in underground burrows, either as lone hunters or part of a larger colony. These arachnids are so feared and dangerous that in many cultures, they are treated as deities or dualistic symbols of both death and protection from said death.
 
 ### Members
 
-[[Black Scorpion]] (Creature 15), [[Cave Scorpion]] (Creature 1), [[Giant Scorpion]] (Creature 3), [[Scorpion Swarm]] (Creature 4)
+[[DATABASE/monster/Black Scorpion|Black Scorpion]] (Creature 15), [[DATABASE/monster/Cave Scorpion|Cave Scorpion]] (Creature 1), [[DATABASE/monster/Giant Scorpion|Giant Scorpion]] (Creature 3), [[DATABASE/monster/Scorpion Swarm|Scorpion Swarm]] (Creature 4)
 
 ###  Scorpion Venom
 
-While scorpions are often symbols of death or evil, their venom can be extracted and used for a wide variety of medical applications. A character can milk an incapacitated giant scorpion to extract raw scorpion venom, which can be used as raw materials to craft [[Giant Scorpion Venom]] or [[Antiplague]]. To determine the value of ingredients you gain each day and the DC of the appropriate [[Medicine]] or [[Lore]] check, use the level 3 task entry in [[Earn Income]].
+While scorpions are often symbols of death or evil, their venom can be extracted and used for a wide variety of medical applications. A character can milk an incapacitated giant scorpion to extract raw scorpion venom, which can be used as raw materials to craft [[DATABASE/equipment/Giant Scorpion Venom|giant scorpion venom]] or [[DATABASE/equipment/Antiplague|lesser antiplague]]. To determine the value of ingredients you gain each day and the DC of the appropriate [[DATABASE/skill/Medicine|Medicine]] or [[DATABASE/skill/Lore|Lore]] check, use the level 3 task entry in [[DATABASE/action/Earn Income|Table 4–2: Income Earned]].
 
 ###  The Desert Rider
 

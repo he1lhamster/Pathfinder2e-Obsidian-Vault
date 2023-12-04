@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Wand of Pernicious Poison<span class="item-type">Item 4+</span>
 
 <span class="item-trait">Magical</span><span class="item-trait">Necromancy</span><span class="item-trait">Poison</span><span class="item-trait">Wand</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Usage** held in 1 hand; **Bulk** L
 
 ---
@@ -65,14 +66,14 @@ This wand is made of chitin, topped with a hooked barb that weeps droplets of fo
 
 ## Wand of Pernicious Poison (1st-Level Spell)<span class="item-type">Item 4</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 100 gp
 **Bulk** L
-The spell is [[Spider Sting]].
+The spell is [[DATABASE/spell/Spider Sting|spider sting]].
 
 ## Wand of Pernicious Poison (6th-Level Spell)<span class="item-type">Item 14</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 4,500 gp
 **Bulk** L
-The spell is [[Purple Worm Sting]].
+The spell is [[DATABASE/spell/Purple Worm Sting|purple worm sting]].

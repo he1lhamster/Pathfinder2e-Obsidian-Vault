@@ -2,6 +2,7 @@
 id: '74'
 name: Longsnout Rat
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 trait: null
 type: Heritage
@@ -9,10 +10,10 @@ type: Heritage
 ---
 # Longsnout Rat
 
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 The long snouts that run in your family give you a keener sense of smell than most ratfolk. You gain imprecise scent with a range of 30 feet. This means you can use your sense of smell to determine a creature’s location. The GM will usually double the range if you’re downwind from the creature or halve the range if you’re upwind.
- In addition, you gain a +2 circumstance bonus to Perception checks to [[Seek]] a creature or object within the range of your scent.
+ In addition, you gain a +2 circumstance bonus to Perception checks to [[DATABASE/action/Seek|Seek]] a creature or object within the range of your scent.
 
 ### Feats Requiring Longsnout Rat...
 
-[[Plague Sniffer]]
+[[DATABASE/feat/Plague Sniffer|Plague Sniffer]]

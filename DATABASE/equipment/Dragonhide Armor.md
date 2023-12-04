@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -52,7 +53,7 @@ weapon_type: null
 # Dragonhide Armor<span class="item-type">Item 12+</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** worn armor; **Bulk** varies by armor
 
 ---
@@ -60,16 +61,16 @@ Dragonhide armor is immune to one damage type based on the type of dragon it is 
 
 ### Base Material
 
-[[Dragonhide]]
+[[DATABASE/equipment/Dragonhide|Dragonhide]]
 
 ## Dragonhide Armor (Standard-Grade)<span class="item-type">Item 12</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 1,600 gp (+160 gp per Bulk)
 **Craft Requirements** The initial raw materials must include dragonhide worth at least 200 gp + 20 gp per Bulk.
 
 ## Dragonhide Armor (High-Grade)<span class="item-type">Item 19</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 32,000 gp (+3,200 gp per Bulk)
 **Craft Requirements** The initial raw materials must include dragonhide worth at least 16,000 gp + 1,600 gp per Bulk.

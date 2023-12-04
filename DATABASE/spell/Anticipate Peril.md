@@ -30,6 +30,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -46,9 +47,9 @@ type: Spell
 # Anticipate Peril<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Divination</span>
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Traditions** arcane, occult
-**Deities** [[Alseta]], [[Erecura]], [[Grundinnar]], [[Irez]], [[Magdh]], [[Shyka]], [[The Freeing Flame]], [[Urban Prosperity]]
+**Deities** [[DATABASE/deity/Alseta|Alseta]], [[DATABASE/deity/Erecura|Erecura]], [[DATABASE/deity/Grundinnar|Grundinnar]], [[DATABASE/deity/Irez|Irez]], [[DATABASE/deity/Magdh|Magdh]], [[DATABASE/deity/Shyka|Shyka]], [[DATABASE/deity/The Freeing Flame|The Freeing Flame]], [[DATABASE/deity/Urban Prosperity|Urban Prosperity]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet; **Targets** 1 creature
 **Duration** 10 minutes

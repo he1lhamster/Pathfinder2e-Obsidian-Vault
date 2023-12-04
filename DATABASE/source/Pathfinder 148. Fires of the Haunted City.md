@@ -2,6 +2,7 @@
 id: '13'
 name: Pathfinder 148. Fires of the Haunted City
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -16,35 +17,35 @@ type: Source
 
 ## Archetypes [1]
 
-[[Crystal Keeper]]
+[[DATABASE/archetype/Crystal Keeper|Crystal Keeper]]
 
 ## Backgrounds [1]
 
-[[Droskari Disciple]]
+[[DATABASE/background/Droskari Disciple|Droskari Disciple]]
 
 ## Deities [1]
 
-[[Droskar]]
+[[DATABASE/deity/Droskar|Droskar]]
 
 ## Domains [2]
 
-[[Duty Domain]], [[Toil Domain]]
+[[DATABASE/domain/Duty Domain|Duty]], [[DATABASE/domain/Toil Domain|Toil]]
 
 ## Equipment [8]
 
-[[Ancestral Echoing]], [[Bloodbane]], [[Bloodbane]], [[Dragonscale Amulet]], [[Guiding Chisel]], [[Kin-Warding]], [[Reforging Shield]], [[Rock-Braced]]
+[[DATABASE/equipment/Ancestral Echoing|Ancestral Echoing]], [[DATABASE/equipment/Bloodbane|Bloodbane]], [[DATABASE/equipment/Bloodbane|Bloodbane (Greater)]], [[DATABASE/equipment/Dragonscale Amulet|Dragonscale Amulet]], [[DATABASE/equipment/Guiding Chisel|Guiding Chisel]], [[DATABASE/equipment/Kin-Warding|Kin-Warding]], [[DATABASE/equipment/Reforging Shield|Reforging Shield]], [[DATABASE/equipment/Rock-Braced|Rock-Braced]]
 
 ## Feats [6]
 
-[[Armor Rune Shifter]], [[Crystal Keeper Dedication]], [[Crystal Ward Spells]], [[False Faith]], [[Simple Crystal Magic]], [[Weapon-Rune Shifter]]
+[[DATABASE/feat/Armor Rune Shifter|Armor Rune Shifter]], [[DATABASE/feat/Crystal Keeper Dedication|Crystal Keeper Dedication]], [[DATABASE/feat/Crystal Ward Spells|Crystal Ward Spells]], [[DATABASE/feat/False Faith|False Faith]], [[DATABASE/feat/Simple Crystal Magic|Simple Crystal Magic]], [[DATABASE/feat/Weapon-Rune Shifter|Weapon-Rune Shifter]]
 
 ## Hazards [4]
 
-[[Ash Web]], [[Echoes of Betrayal]], [[Lifeleech Crystal Patch]], [[Wailing Crystals]]
+[[DATABASE/hazard/Ash Web|Ash Web]], [[DATABASE/hazard/Echoes of Betrayal|Echoes of Betrayal]], [[DATABASE/hazard/Lifeleech Crystal Patch|Lifeleech Crystal Patch]], [[DATABASE/hazard/Wailing Crystals|Wailing Crystals]]
 
 ## Monsters [11]
 
-[[Adult Magma Dragon]], [[Ancient Magma Dragon]], [[Carnivorous Crystal]], [[Dalos]], [[Deculi]], [[Devourer]], [[Dragonscarred Dead]], [[Forge-Spurned]], [[Gashadokuro]], [[Soulbound Ruin]], [[Young Magma Dragon]]
+[[DATABASE/monster/Adult Magma Dragon|Adult Magma Dragon]], [[DATABASE/monster/Ancient Magma Dragon|Ancient Magma Dragon]], [[DATABASE/monster/Carnivorous Crystal|Carnivorous Crystal]], [[DATABASE/monster/Dalos|Dalos]], [[DATABASE/monster/Deculi|Deculi]], [[DATABASE/monster/Devourer|Devourer]], [[DATABASE/monster/Dragonscarred Dead|Dragonscarred Dead]], [[DATABASE/monster/Forge-Spurned|Forge-Spurned]], [[DATABASE/monster/Gashadokuro|Gashadokuro]], [[DATABASE/monster/Soulbound Ruin|Soulbound Ruin]], [[DATABASE/monster/Young Magma Dragon|Young Magma Dragon]]
 
 ## Setting Articles [2]
 
@@ -52,7 +53,7 @@ Droskar, Kovlar
 
 ## Spells [3]
 
-[[Electrified Crystal Ward]], [[Practice Makes Perfect]], [[Tireless Worker]]
+[[DATABASE/spell/Electrified Crystal Ward|Electrified Crystal Ward]], [[DATABASE/spell/Practice Makes Perfect|Practice Makes Perfect]], [[DATABASE/spell/Tireless Worker|Tireless Worker]]
 
 ## Traits [1]
 

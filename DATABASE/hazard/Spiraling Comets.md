@@ -17,6 +17,7 @@ name: Spiraling Comets
 rarity: Uncommon
 reflex: '+30'
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 186. Ghost King''s Rage|Pathfinder #186: Ghost
   King''s Rage]]'
@@ -33,13 +34,13 @@ will: null
 # Spiraling Comets<span class="item-type">Hazard 16</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Complex</span><span class="item-trait">Magical</span><span class="item-trait">Trap</span>
-**Source** [[Pathfinder 186. Ghost King's Rage]]
+**Source** [[DATABASE/source/Pathfinder 186. Ghost King's Rage|Pathfinder #186: Ghost King's Rage]]
 **Complexity** Complex
 **Stealth** +32 (master)
 **Description** Three blue comets orbiting the room turn red and attack when intruders enter.
 
 ---
-**Disable** DC 42 [[Religion]] (master) to command each comet to disperse with [[Pharasma]] prayers, or [[Dispel Magic]] (8th level; counteract DC 42) to counteract each comet
+**Disable** DC 42 [[DATABASE/skill/Religion|Religion]] (master) to command each comet to disperse with [[DATABASE/deity/Pharasma|Pharasmin]] prayers, or [[DATABASE/spell/Dispel Magic|dispel magic]] (8th level; counteract DC 42) to counteract each comet
 **AC** 36, **Fort** +25, **Ref** +30
 **Comet Hardness** 25, **Comet HP** 100 (BT 50); **Immunities** critical hits, object immunities, precision damage
 **Intruder Alert** <span class="action-icon">5</span> (divination, divine) **Trigger** An intruder enters the room; **Effect** The comets change from blue to red in color. The trap then rolls initiative.

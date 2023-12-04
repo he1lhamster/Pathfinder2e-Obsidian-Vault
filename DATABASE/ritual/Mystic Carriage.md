@@ -13,6 +13,7 @@ primary_check: '[[DATABASE/skill/Arcana|Arcana]] (Expert) or [[DATABASE/skill/Oc
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: Conjuration
 secondary_casters: '1'
 secondary_check: '[[DATABASE/skill/Crafting|Crafting]] or [[DATABASE/skill/Lore|DrivingLore]]'
@@ -27,9 +28,9 @@ type: Ritual
 # Mystic Carriage<span class="item-type">Ritual 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Conjuration</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Cast** 1 hour; **Cost** toy carriage, horse statues, rare incense, and feathers worth 50 gp; **Secondary Casters** 1
-**Primary Check** [[Arcana]] (Expert) or [[Occultism]] (Expert); **Secondary Checks** [[Crafting]] or [[Lore]]
+**Primary Check** [[DATABASE/skill/Arcana|Arcana]] (Expert) or [[DATABASE/skill/Occultism|Occultism]] (Expert); **Secondary Checks** [[DATABASE/skill/Crafting|Crafting]] or [[DATABASE/skill/Lore|Driving Lore]]
 **Duration** 1 week or until the named destination is reached, whichever comes first
 
 ---
@@ -38,7 +39,7 @@ This ritual allows you and the other casters to conjure a magical carriage that 
 **Critical Success** You create a _mystic carriage_ that lasts for 2 weeks, instead of 1 week. It can take you to up to two destinations, the first of which must be within 250 miles and the second of which must be within 250 miles of the first destination.
 **Success** You create a _mystic carriage_ as described above.
 **Failure** You don't create a _mystic carriage_.
-**Critical Failure** You don't create a _mystic carriage_, and you're attacked by a herd of four [[Riding Horse]].
+**Critical Failure** You don't create a _mystic carriage_, and you're attacked by a herd of four [[DATABASE/monster/Riding Horse|riding horses]].
 
 ---
 **Heightened (+1)** The carriage's AC, Fortitude save, and Hardness increase by 2, its Hit Points increase by 20, and its Broken Threshold increases by 10.

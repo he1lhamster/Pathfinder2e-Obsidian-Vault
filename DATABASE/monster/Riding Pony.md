@@ -64,16 +64,16 @@ wisdom: '+2'
 # Riding Pony
 
 _This entry did not have a separate description for the creature._
-**Recall Knowledge - Animal ([[Nature]])**: DC 14
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 14
 **Unspecific Lore**: DC 12
 **Specific Lore**: DC 9
 
 # Riding Pony<span class="item-type">Creature 0</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +4; low-light vision, scent (imprecise) 30 feet
-**Skills** [[Acrobatics]] +4, [[Athletics]] +7
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +4, [[DATABASE/skill/Athletics|Athletics]] +7
 **Str** +3, **Dex** +2, **Con** +3, **Int** -4, **Wis** +2, **Cha** +0
 
 ---

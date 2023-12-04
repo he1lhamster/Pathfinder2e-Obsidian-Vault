@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: DC 36 Fortitude
 school: null
 size: null
@@ -57,11 +58,11 @@ weapon_type: null
 # Brimstone Fumes<span class="item-type">Item 16</span>
 
 <span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Evil</span><span class="item-trait">Inhaled</span><span class="item-trait">Poison</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 1,500 gp
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
 ---
-Fumes from the forges of [[Hell]] drain health and strength alike. 
-**Saving Throw** DC 36 Fortitude; **Onset** 1 round; **Maximum Duration** 6 rounds; **Stage 1** 7d6 poison damage and [[Enfeebled]] (1 round); **Stage 2** 8d6 poison damage and enfeebled 2 (1 round); **Stage 3** 10d6 poison damage and enfeebled 3 (1 round)
+Fumes from the forges of [[DATABASE/plane/Hell|Hell]] drain health and strength alike. 
+**Saving Throw** DC 36 Fortitude; **Onset** 1 round; **Maximum Duration** 6 rounds; **Stage 1** 7d6 poison damage and [[DATABASE/condition/Enfeebled|enfeebled 1]] (1 round); **Stage 2** 8d6 poison damage and enfeebled 2 (1 round); **Stage 3** 10d6 poison damage and enfeebled 3 (1 round)

@@ -75,19 +75,19 @@ wisdom: '+3'
 ---
 # Lava Otter
 
-These fiery otters frolic and hunt in the lava streams of the [[Plane of Fire]]. They're known to be highly territorial, instigating fights with rival otter families to compete for territory. Cautiously curious of strangers, entire packs have been known to descend upon anyone who attacks or event accidentally threatens a family member.
-**Recall Knowledge - Elemental ([[Arcana]], [[Nature]])**: DC 15
+These fiery otters frolic and hunt in the lava streams of the [[DATABASE/plane/Plane of Fire|Plane of Fire]]. They're known to be highly territorial, instigating fights with rival otter families to compete for territory. Cautiously curious of strangers, entire packs have been known to descend upon anyone who attacks or event accidentally threatens a family member.
+**Recall Knowledge - Elemental ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Lava Otter<span class="item-type">Creature 1</span>
 
 <span class="trait-size item-trait">Small</span><span class="item-trait">Elemental</span><span class="item-trait">Fire</span>
-**Source** [[Rage of Elements]]
-**Perception** +7; [[Darkvision]]
-**Skills** [[Acrobatics]] +7, [[Stealth]] +7 (+9 in lava)
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
+**Perception** +7; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +7, [[DATABASE/skill/Stealth|Stealth]] +7 (+9 in lava)
 **Str** +1, **Dex** +4, **Con** +1, **Int** -4, **Wis** +3, **Cha** +1
-**Below the Crust** A lava otter can [[Sneak]] at its full Speed in lava.
+**Below the Crust** A lava otter can [[DATABASE/action/Sneak|Sneak]] at its full Speed in lava.
 
 ---
 **AC** 15; **Fort** +6, **Ref** +9, **Will** +5
@@ -100,4 +100,4 @@ These fiery otters frolic and hunt in the lava streams of the [[Plane of Fire]].
 
 ###  Familiar Poaching
 
-Many greedy fire wizards wish to domesticate lava otters to act as their familiars, a sentiment loathed by most denizens of the [[Plane of Fire]]. While the otters' burning pelts serve as a deterrence for would-be poachers, numerous naari (fire geniekin) still take it upon themselves to patrol lava otter habitats to protect them from poaching
+Many greedy fire wizards wish to domesticate lava otters to act as their familiars, a sentiment loathed by most denizens of the [[DATABASE/plane/Plane of Fire|Plane of Fire]]. While the otters' burning pelts serve as a deterrence for would-be poachers, numerous naari (fire geniekin) still take it upon themselves to patrol lava otter habitats to protect them from poaching

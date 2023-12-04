@@ -95,28 +95,28 @@ wisdom: '+4'
 # Fabled Harrowkin
 
 The most powerful harrowkin are living embodiments of harrow cards.
-**Recall Knowledge - Construct ([[Arcana]], [[Crafting]])**: DC 38
+**Recall Knowledge - Construct ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Crafting|Crafting]])**: DC 38
 **Unspecific Lore**: DC 36
 **Specific Lore**: DC 33
 
 # Fabled Harrowkin<span class="item-type">Creature 17</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Construct</span>
-**Source** [[Pathfinder 192. Worst of All Possible Worlds]]
-**Perception** +29; [[Darkvision]]
-**Languages** [[Common]]
-**Skills** [[Acrobatics]] +30, [[Athletics]] +32, [[Diplomacy]] +32, [[Occultism]] +29
+**Source** [[DATABASE/source/Pathfinder 192. Worst of All Possible Worlds|Pathfinder #192: Worst of All Possible Worlds]]
+**Perception** +29; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +30, [[DATABASE/skill/Athletics|Athletics]] +32, [[DATABASE/skill/Diplomacy|Diplomacy]] +32, [[DATABASE/skill/Occultism|Occultism]] +29
 **Str** +7, **Dex** +5, **Con** +7, **Int** +2, **Wis** +4, **Cha** +9
 **Harrowkin Suit** any
 **Read the Cards <span class="action-icon">4</span> ** 
-**Items** [[Harrow Deck]] (53 cards; function as [[Dart]] when thrown by a harrowkin), _+2 [[Striking]] [[Greatsword]]_
+**Items** [[DATABASE/equipment/Harrow Deck|harrow deck]] (53 cards; function as [[DATABASE/weapon/Dart|darts]] when thrown by a harrowkin), _+2 [[DATABASE/equipment/Striking|greater striking]] [[DATABASE/weapon/Greatsword|greatsword]]_
 
 ---
 **AC** 40; **Fort** +32, **Ref** +30, **Will** +27
-**HP** 315; **Immunities** death effects, disease, [[Doomed]], [[Drained]], [[Fatigued]], healing, misfortune, necromancy, nonlethal attacks, [[Paralyzed]], poison, [[Sickened]], [[Unconscious]]
+**HP** 315; **Immunities** death effects, disease, [[DATABASE/condition/Doomed|doomed]], [[DATABASE/condition/Drained|drained]], [[DATABASE/condition/Fatigued|fatigued]], healing, misfortune, necromancy, nonlethal attacks, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Sickened|sickened]], [[DATABASE/condition/Unconscious|unconscious]]
 <span class="in-box-ability">**Defensive Suit** </span><span class="in-box-ability">**Twist Fate <span class="action-icon">5</span> ** (divination, fortune, occult) **Frequency** once per minute; **Trigger** A creature critically hits the harrowkin; **Effect** The harrowkin manipulates fortune in their favor. The triggering attack becomes a regular hit.</span>
 
 ---
 **Speed** 25 feet, fly 40 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _greatsword_ +32 [+27/+22] (magical, versatile P), **Damage** 3d12+15 slashing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _harrow card_ +30 [+26/+22] (agile, magical, range increment 20 feet, thrown), **Damage** 3d6+15 piercing</span>**Occult Innate Spells** DC 35, +27; **8th** _[[Uncontrollable Dance]]_; **7th** _[[Visions of Danger]]_; **5th** _[[Dimension Door]]_; **4th** _[[Confusion]]_; **2nd** _[[Augury]]_; **1st** _[[Ill Omen]]_ (at will); **Cantrips** **(8th)** _[[Daze]]_, _[[Detect Magic]]_, _[[Ghost Sound]]_, _[[Telekinetic Projectile]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _greatsword_ +32 [+27/+22] (magical, versatile P), **Damage** 3d12+15 slashing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _harrow card_ +30 [+26/+22] (agile, magical, range increment 20 feet, thrown), **Damage** 3d6+15 piercing</span>**Occult Innate Spells** DC 35, +27; **8th** _[[DATABASE/spell/Uncontrollable Dance|uncontrollable dance]]_; **7th** _[[DATABASE/spell/Visions of Danger|visions of danger]]_; **5th** _[[DATABASE/spell/Dimension Door|dimension door]]_; **4th** _[[DATABASE/spell/Confusion|confusion]]_; **2nd** _[[DATABASE/spell/Augury|augury]]_; **1st** _[[DATABASE/spell/Ill Omen|ill omen]]_ (at will); **Cantrips** **(8th)** _[[DATABASE/spell/Daze|daze]]_, _[[DATABASE/spell/Detect Magic|detect magic]]_, _[[DATABASE/spell/Ghost Sound|ghost sound]]_, _[[DATABASE/spell/Telekinetic Projectile|telekinetic projectile]]_
 <span class="in-box-ability">**Shuffle the Deck** <span class="action-icon">2</span> </span>

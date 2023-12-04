@@ -11,6 +11,7 @@ name: Twin Shot Knockdown
 prerequisite: null
 rarity: Common
 requirement: You're wielding a loaded crossbow or loaded firearm in each hand.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Twin Shot Knockdown <span class="action-icon">2</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Gunslinger</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Requirements** You're wielding a loaded crossbow or loaded firearm in each hand.
 
 ---
-You fire at an enemy while targeting a part of its anatomy that will disrupt its balance. Make two Strikes against the same target, one with each of the required weapons. If both Strikes are successful, the target is also knocked [[Prone]].
+You fire at an enemy while targeting a part of its anatomy that will disrupt its balance. Make two Strikes against the same target, one with each of the required weapons. If both Strikes are successful, the target is also knocked [[DATABASE/condition/Prone|prone]].

@@ -11,6 +11,7 @@ name: Master of Many Styles
 prerequisite: '[[DATABASE/feat/Stance Savant (Monk)|Stance Savant (Monk)]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Master of Many Styles <span class="action-icon">4</span> <span class="item-type">Feat 16</span>
 
 <span class="item-trait">Monk</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Stance Savant (Monk)]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/feat/Stance Savant (Monk)|Stance Savant (Monk)]]
 **Trigger** Your turn begins
 
 ---
@@ -32,4 +33,4 @@ You move between stances in an unceasing dance. You use an action with the stanc
 
 ## Master of Many Styles Leads To...
 
-[[Ki Center]]
+[[DATABASE/feat/Ki Center|Ki Center]]

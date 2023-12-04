@@ -11,6 +11,7 @@ name: Grippli Glide
 prerequisite: '[[DATABASE/heritage/Windweb Grippli|Windweb Grippli]] heritage'
 rarity: Common
 requirement: You must have at least one hand free.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Grippli Glide <span class="action-icon">1</span> <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Grippli</span>
-**Source** [[The Mwangi Expanse]] 
-**Prerequisites** [[Windweb Grippli]]
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]] 
+**Prerequisites** [[DATABASE/heritage/Windweb Grippli|Windweb Grippli]]
 **Requirements** You must have at least one hand free.
 
 ---

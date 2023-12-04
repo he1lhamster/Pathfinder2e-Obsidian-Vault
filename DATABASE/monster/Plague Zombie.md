@@ -72,22 +72,22 @@ wisdom: '+0'
 # Plague Zombie
 
 Plague zombies are infested with hideous contagions.
-**Recall Knowledge - Undead ([[Religion]])**: DC 15
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Plague Zombie<span class="item-type">Creature 1</span>
 
 <span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Mindless</span><span class="item-trait">Undead</span><span class="item-trait">Zombie</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +3; darkvision
-**Skills** [[Athletics]] +7
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +7
 **Str** +4, **Dex** -2, **Con** +3, **Int** -5, **Wis** +0, **Cha** -2
 **Slow** A zombie is permanently slowed 1 and can’t use reactions.
 
 ---
 **AC** 13; **Fort** +6, **Ref** +3, **Will** +4
-**HP** 50 ([[Negative Healing]]); **Immunities** death effects, disease, mental, paralyzed, poison, unconscious; **Weaknesses** positive 10, slashing 10
+**HP** 50 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects, disease, mental, paralyzed, poison, unconscious; **Weaknesses** positive 10, slashing 10
 
 ---
 **Speed** 25 feet

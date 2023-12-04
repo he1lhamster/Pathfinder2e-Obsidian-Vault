@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -50,9 +51,9 @@ weapon_type: null
 ---
 # Wheel Spikes<span class="item-type">Item 0</span>
 
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 5 sp
 **Bulk** —
 
 ---
-A set of thick, sharp spikes have been added to the chair's wheels, granting you a piercing attack. While in the chair, you gain a wheel spike Strike. Your wheel spike deals 1d4 piercing damage and has the agile, attached, and free-hand traits. A wheel spike is a simple melee weapon in the [[Knife]] weapon group. You can etch weapon runes onto wheel spikes. A wheelchair can only have one attached weapon.
+A set of thick, sharp spikes have been added to the chair's wheels, granting you a piercing attack. While in the chair, you gain a wheel spike Strike. Your wheel spike deals 1d4 piercing damage and has the agile, attached, and free-hand traits. A wheel spike is a simple melee weapon in the [[DATABASE/weapongroup/Knife|knife]] weapon group. You can etch weapon runes onto wheel spikes. A wheelchair can only have one attached weapon.

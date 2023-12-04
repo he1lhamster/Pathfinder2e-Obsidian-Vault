@@ -11,6 +11,7 @@ name: Nimble Roll
 prerequisite: '[[DATABASE/feat/Nimble Dodge|Nimble Dodge]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Nimble Roll <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Rogue</span><span class="item-trait">Swashbuckler</span>
-**Source** [[Advanced Player's Guide]] , [[Core Rulebook]] 
-**Prerequisites** [[Nimble Dodge]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] , [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/feat/Nimble Dodge|Nimble Dodge]]
 
 ---
 You throw yourself into a roll to escape imminent danger. You can use Nimble Dodge before attempting a Reflex save in addition to its original trigger. If you do, the circumstance bonus applies to your Reflex save against the triggering effect.

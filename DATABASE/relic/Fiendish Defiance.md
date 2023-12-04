@@ -5,6 +5,7 @@ item_category: Relics
 name: Fiendish Defiance
 prerequisite: The relic is a worn item.
 rarity: Common
+rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
@@ -15,7 +16,7 @@ type: Relic Minor Gift
 # Fiendish Defiance<span class="item-type">Minor Gift</span>
 
 <span class="item-trait">Abjuration</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Aspect** fiend; **Prerequisite** The relic is a worn item.
 
 ---

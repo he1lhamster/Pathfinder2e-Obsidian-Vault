@@ -72,24 +72,24 @@ wisdom: '+1'
 # Azarketi Sailor
 
 Azarketis with more adventurous spirits often learn the art of sailing and join the crew of a ship. Such sailors get to enjoy their time above deck while also having near-constant access to large bodies of water. Ship captains also appreciate having azarketis on board, as they're able to easily scrape barnacles off the hull, check the rudder, and help patch any leaks. Though they have a talent for swimming more than sailing, they've earned a reputation as lucky to have on board.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 16
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
 # Azarketi Sailor<span class="item-type">Creature 2</span>
 
 <span class="trait-alignment item-trait">CN</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Amphibious</span><span class="item-trait">Azarketi</span><span class="item-trait">Humanoid</span>
-**Source** [[Absalom, City of Lost Omens]]
+**Source** [[DATABASE/source/Absalom, City of Lost Omens|Absalom, City of Lost Omens]]
 **Perception** +8
-**Languages** [[Common]]
-**Skills** [[Acrobatics]] +8, [[Athletics]] +7 (+9 to [[Swim]]), [[Nature]] +5, [[Lore]] +6, [[Stealth]] +8 (+10 underwater Survival +7)
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +8, [[DATABASE/skill/Athletics|Athletics]] +7 (+9 to [[DATABASE/action/Swim|Swim]]), [[DATABASE/skill/Nature|Nature]] +5, [[DATABASE/skill/Lore|Sailing Lore]] +6, [[DATABASE/skill/Stealth|Stealth]] +8 (+10 underwater Survival +7)
 **Str** +3, **Dex** +4, **Con** +2, **Int** +0, **Wis** +1, **Cha** +1
-**Items** [[Composite Longbow]], [[Scimitar]], studded leather
+**Items** [[DATABASE/weapon/Composite Longbow|composite longbow (20 arrows)]], [[DATABASE/weapon/Scimitar|scimitar]], studded leather
 
 ---
 **AC** 18; **Fort** +8, **Ref** +11, **Will** +5
 **HP** 30
-<span class="in-box-ability">**Hydration** Azarketi must regularly submerge themselves in water to rehydrate their water-acclimated skin. After the first 24 hours outside of water, they gain a –1 status penalty to Fortitude saves as their skin cracks and their gills become painful. After 48 hours, they struggle to breathe air and begin to suffocate until returned to water</span><span class="in-box-ability">**Sea Legs** (fortune) An azarketi sailor gains a +1 circumstance bonus to [[Acrobatics]] checks to [[Balance]] and can roll twice and take the better result on checks to Balance while aboard a ship.</span><span class="in-box-ability">**Submerged Stealth** While submerged in water, an azarketi crab catcher gains a +2 circumstance bonus on their [[Stealth]] check, indicated above.</span>
+<span class="in-box-ability">**Hydration** Azarketi must regularly submerge themselves in water to rehydrate their water-acclimated skin. After the first 24 hours outside of water, they gain a –1 status penalty to Fortitude saves as their skin cracks and their gills become painful. After 48 hours, they struggle to breathe air and begin to suffocate until returned to water</span><span class="in-box-ability">**Sea Legs** (fortune) An azarketi sailor gains a +1 circumstance bonus to [[DATABASE/skill/Acrobatics|Acrobatics]] checks to [[DATABASE/action/Balance|Balance]] and can roll twice and take the better result on checks to Balance while aboard a ship.</span><span class="in-box-ability">**Submerged Stealth** While submerged in water, an azarketi crab catcher gains a +2 circumstance bonus on their [[DATABASE/skill/Stealth|Stealth]] check, indicated above.</span>
 
 ---
 **Speed** 25 feet; swim 25 feet

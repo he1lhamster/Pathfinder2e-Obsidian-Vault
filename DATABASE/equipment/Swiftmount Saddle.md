@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 size: null
@@ -57,11 +58,11 @@ weapon_type: null
 # Swiftmount Saddle<span class="item-type">Item 7</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Companion</span><span class="item-trait">Divination</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span><span class="item-trait">Primal</span>
-**Source** [[Knights of Lastwall]]
+**Source** [[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]
 **Price** 360 gp
 **Usage** worn saddle; **Bulk** 2
 **Access** Knights of Lastwall have access to this item.
 
 ---
-This sturdy leather saddle was designed to improve communication between mount and rider, allowing even inexperienced knights to command their mounts in battle. A swiftmount saddle grants a +2 item bonus to [[Nature]] checks made to [[Command an Animal]] for anyone who is riding the creature wearing it.
-**Activate** <span class="action-icon">4</span> Interact **Frequency** once per day; **Requirements** You're adjacent to the creature wearing the _swiftmount saddle_ and could [[Mount]] it; **Effect** You Mount the creature wearing the _swiftmount saddle_.
+This sturdy leather saddle was designed to improve communication between mount and rider, allowing even inexperienced knights to command their mounts in battle. A swiftmount saddle grants a +2 item bonus to [[DATABASE/skill/Nature|Nature]] checks made to [[DATABASE/action/Command an Animal|Command an Animal]] for anyone who is riding the creature wearing it.
+**Activate** <span class="action-icon">4</span> Interact **Frequency** once per day; **Requirements** You're adjacent to the creature wearing the _swiftmount saddle_ and could [[DATABASE/action/Mount|Mount]] it; **Effect** You Mount the creature wearing the _swiftmount saddle_.

@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -54,9 +55,9 @@ weapon_type: null
 # Unholy<span class="item-type">Item 11</span>
 
 <span class="item-trait">Evil</span><span class="item-trait">Evocation</span><span class="item-trait">Magical</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 1,400 gp
-**Usage** etched onto a weapon without a [[Holy]]; **Bulk** —
+**Usage** etched onto a weapon without a [[DATABASE/equipment/Holy|holy rune]]; **Bulk** —
 
 ---
 An _unholy_ rune instills fiendish power into the etched weapon. A weapon with this rune deals an additional 1d6 evil damage when it hits a good target. If you are good, you are enfeebled 2 while carrying or wielding this weapon.

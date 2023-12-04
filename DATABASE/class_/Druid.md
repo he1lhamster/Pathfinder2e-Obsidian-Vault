@@ -15,6 +15,7 @@ id: '6'
 name: Druid
 perception_proficiency: Trained
 rarity: Common
+rus_type_level: null
 skill_proficiency:
 - Trained in Nature
 - Trained in one skill determined by your druidic order
@@ -27,7 +28,7 @@ type: Class
 
 ---
 # Druid
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 _The power of nature is impossible to resist. It can bring ruin to the stoutest fortress in minutes, reducing even the mightiest works to rubble, burning them to ash, burying them beneath an avalanche of snow, or drowning them beneath the waves. It can provide endless bounty and breathtaking splendor to those who respect it— and an agonizing death to those who take it too lightly. You are one of those who hear nature’s call. You stand in awe of the majesty of its power and give yourself over to its service._
 **Key Ability: WISDOM**
 At 1st level, your class gives you an ability boost to Wisdom.
@@ -85,7 +86,7 @@ Expert in Will
 
 ## Skills
 
-Trained in [[Nature]]
+Trained in [[DATABASE/skill/Nature|Nature]]
 Trained in one skill determined by your druidic order
 Trained in a number of additional skills equal to 2 plus your Intelligence modifier
 
@@ -107,54 +108,52 @@ Trained in primal spell DCs
 
 # Class Features
 
-You gain these features as a Druid. Abilities gained at higher levels list the levels at which you gain them next to the features' names.
-
-|   Your Level | Class Features                                                                                                                             |
-|-------------:|:-------------------------------------------------------------------------------------------------------------------------------------------|
-|            1 | Ancestry and background, initial proficiencies, primal spellcasting, anathema, Druidic language, druidic order, Shield Block, wild empathy |
-|            2 | Druid feat, skill feat                                                                                                                     |
-|            3 | 2nd-level spells, alertness, general feat, great fortitude, skill increase                                                                 |
-|            4 | Druid feat, skill feat                                                                                                                     |
-|            5 | 3rd-level spells, ability boosts, ancestry feat, lightning reflexes, skill increase                                                        |
-|            6 | Druid feat, skill feat                                                                                                                     |
-|            7 | 4th-level spells, expert spellcaster, general feat, skill increase                                                                         |
-|            8 | Druid feat, skill feat                                                                                                                     |
-|            9 | 5th-level spells, ancestry feat, skill increase                                                                                            |
-|           10 | Ability boosts, druid feat, skill feat                                                                                                     |
-|           11 | 6th-level spells, druid weapon expertise, general feat, resolve, skill increase                                                            |
-|           12 | Druid feat, skill feat                                                                                                                     |
-|           13 | 7th-level spells, ancestry feat, medium armor expertise, skill increase, weapon specialization                                             |
-|           14 | Druid feat, skill feat                                                                                                                     |
-|           15 | 8th-level spells, ability boosts, general feat, master spellcaster, skill increase                                                         |
-|           16 | Druid feat, skill feat                                                                                                                     |
-|           17 | 9th-level spells, ancestry feat, skill increase                                                                                            |
-|           18 | Druid feat, skill feat                                                                                                                     |
-|           19 | General feat, legendary spellcaster, primal hierophant, skill increase                                                                     |
-|           20 | Ability boosts, druid feat, skill feat                                                                                                     |
-
-| Your Level                                                                                                                   |   Cantrips |   1st | 2nd   | 3rd   | 4th   | 5th   | 6th   | 7th   | 8th   | 9th   | 10th   |
-|:-----------------------------------------------------------------------------------------------------------------------------|-----------:|------:|:------|:------|:------|:------|:------|:------|:------|:------|:-------|
-| 1                                                                                                                            |          5 |     2 | —     | —     | —     | —     | —     | —     | —     | —     | —      |
-| 2                                                                                                                            |          5 |     3 | —     | —     | —     | —     | —     | —     | —     | —     | —      |
-| 3                                                                                                                            |          5 |     3 | 2     | —     | —     | —     | —     | —     | —     | —     | —      |
-| 4                                                                                                                            |          5 |     3 | 3     | —     | —     | —     | —     | —     | —     | —     | —      |
-| 5                                                                                                                            |          5 |     3 | 3     | 2     | —     | —     | —     | —     | —     | —     | —      |
-| 6                                                                                                                            |          5 |     3 | 3     | 3     | —     | —     | —     | —     | —     | —     | —      |
-| 7                                                                                                                            |          5 |     3 | 3     | 3     | 2     | —     | —     | —     | —     | —     | —      |
-| 8                                                                                                                            |          5 |     3 | 3     | 3     | 3     | —     | —     | —     | —     | —     | —      |
-| 9                                                                                                                            |          5 |     3 | 3     | 3     | 3     | 2     | —     | —     | —     | —     | —      |
-| 10                                                                                                                           |          5 |     3 | 3     | 3     | 3     | 3     | —     | —     | —     | —     | —      |
-| 11                                                                                                                           |          5 |     3 | 3     | 3     | 3     | 3     | 2     | —     | —     | —     | —      |
-| 12                                                                                                                           |          5 |     3 | 3     | 3     | 3     | 3     | 3     | —     | —     | —     | —      |
-| 13                                                                                                                           |          5 |     3 | 3     | 3     | 3     | 3     | 3     | 2     | —     | —     | —      |
-| 14                                                                                                                           |          5 |     3 | 3     | 3     | 3     | 3     | 3     | 3     | —     | —     | —      |
-| 15                                                                                                                           |          5 |     3 | 3     | 3     | 3     | 3     | 3     | 3     | 2     | —     | —      |
-| 16                                                                                                                           |          5 |     3 | 3     | 3     | 3     | 3     | 3     | 3     | 3     | —     | —      |
-| 17                                                                                                                           |          5 |     3 | 3     | 3     | 3     | 3     | 3     | 3     | 3     | 2     | —      |
-| 18                                                                                                                           |          5 |     3 | 3     | 3     | 3     | 3     | 3     | 3     | 3     | 3     | —      |
-| 19                                                                                                                           |          5 |     3 | 3     | 3     | 3     | 3     | 3     | 3     | 3     | 3     | 1*     |
-| 20                                                                                                                           |          5 |     3 | 3     | 3     | 3     | 3     | 3     | 3     | 3     | 3     | 1*     |
-| * The primal hierophant class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. |        nan |   nan | nan   | nan   | nan   | nan   | nan   | nan   | nan   | nan   | nan    |
+You gain these features as a Druid. Abilities gained at higher levels list the levels at which you gain them next to the features' names.| 0 | 1 |
+|:-----------|:-------------------------------------------------------------------------------------------------------------------------------------------|
+| Your Level | Class Features |
+| 1 | Ancestry and background, initial proficiencies, primal spellcasting, anathema, Druidic language, druidic order, Shield Block, wild empathy |
+| 2 | Druid feat, skill feat |
+| 3 | 2nd-level spells, alertness, general feat, great fortitude, skill increase |
+| 4 | Druid feat, skill feat |
+| 5 | 3rd-level spells, ability boosts, ancestry feat, lightning reflexes, skill increase |
+| 6 | Druid feat, skill feat |
+| 7 | 4th-level spells, expert spellcaster, general feat, skill increase |
+| 8 | Druid feat, skill feat |
+| 9 | 5th-level spells, ancestry feat, skill increase |
+| 10 | Ability boosts, druid feat, skill feat |
+| 11 | 6th-level spells, druid weapon expertise, general feat, resolve, skill increase |
+| 12 | Druid feat, skill feat |
+| 13 | 7th-level spells, ancestry feat, medium armor expertise, skill increase, weapon specialization |
+| 14 | Druid feat, skill feat |
+| 15 | 8th-level spells, ability boosts, general feat, master spellcaster, skill increase |
+| 16 | Druid feat, skill feat |
+| 17 | 9th-level spells, ancestry feat, skill increase |
+| 18 | Druid feat, skill feat |
+| 19 | General feat, legendary spellcaster, primal hierophant, skill increase |
+| 20 | Ability boosts, druid feat, skill feat || 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
+|:-----------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------|
+| Your Level | Cantrips | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th | 10th |
+| 1 | 5 | 2 | — | — | — | — | — | — | — | — | — |
+| 2 | 5 | 3 | — | — | — | — | — | — | — | — | — |
+| 3 | 5 | 3 | 2 | — | — | — | — | — | — | — | — |
+| 4 | 5 | 3 | 3 | — | — | — | — | — | — | — | — |
+| 5 | 5 | 3 | 3 | 2 | — | — | — | — | — | — | — |
+| 6 | 5 | 3 | 3 | 3 | — | — | — | — | — | — | — |
+| 7 | 5 | 3 | 3 | 3 | 2 | — | — | — | — | — | — |
+| 8 | 5 | 3 | 3 | 3 | 3 | — | — | — | — | — | — |
+| 9 | 5 | 3 | 3 | 3 | 3 | 2 | — | — | — | — | — |
+| 10 | 5 | 3 | 3 | 3 | 3 | 3 | — | — | — | — | — |
+| 11 | 5 | 3 | 3 | 3 | 3 | 3 | 2 | — | — | — | — |
+| 12 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | — | — | — | — |
+| 13 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 2 | — | — | — |
+| 14 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | — | — | — |
+| 15 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 2 | — | — |
+| 16 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | — | — |
+| 17 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 2 | — |
+| 18 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | — |
+| 19 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 1* |
+| 20 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 1* |
+| * The primal hierophant class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The primal hierophant class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The primal hierophant class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The primal hierophant class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The primal hierophant class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The primal hierophant class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The primal hierophant class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The primal hierophant class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The primal hierophant class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The primal hierophant class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The primal hierophant class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The primal hierophant class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. |
 
 ## Ancestry and Background
 
@@ -166,7 +165,7 @@ At 1st level you gain a number of proficiencies, representing your basic trainin
 
 ## Primal Spellcasting
 
-The power of the wild world flows through you. You can cast primal spells using the Cast a Spell activity, and you can supply material, somatic, and verbal components when casting spells (see Casting Spells). Because you're a druid, you can usually hold a primal focus (such as holly and mistletoe) for spells requiring material components instead of needing to use a [[Material Component Pouch]].
+The power of the wild world flows through you. You can cast primal spells using the Cast a Spell activity, and you can supply material, somatic, and verbal components when casting spells (see Casting Spells). Because you're a druid, you can usually hold a primal focus (such as holly and mistletoe) for spells requiring material components instead of needing to use a [[DATABASE/equipment/Material Component Pouch|material component pouch]].
  At 1st level, you can prepare two 1st-level spells and five cantrips each morning from the common spells on the primal spell list, or from other primal spells to which you gain access. Prepared spells remain available to you until you cast them or until you prepare your spells again. The number of spells you can prepare is called your spell slots.
  As you increase in level as a druid, the number of spells you can prepare each day increases, as does the highest level of spell you can cast, as shown in Table 3–11: Druid Spells per Day.
  Some of your spells require you to attempt a spell attack roll to see how effective they are, or have your enemies roll against your spell DC (typically by attempting a saving throw). Since your key ability is Wisdom, your spell attack rolls and spell DCs use your Wisdom modifier. Details on calculating these statistics appear in Spell Attack Rolls.
@@ -181,7 +180,7 @@ Some of your spells are cantrips. A cantrip is a special type of spell that does
 
 ## Anathema
 
-As stewards of the natural order, druids find affronts to nature anathema. If you perform enough acts that are anathema to nature, you lose your magical abilities that come from the druid class, including your primal spellcasting and the benefits of your order. These abilities can be regained only if you demonstrate your repentance by conducting an [[Atone]] ritual.
+As stewards of the natural order, druids find affronts to nature anathema. If you perform enough acts that are anathema to nature, you lose your magical abilities that come from the druid class, including your primal spellcasting and the benefits of your order. These abilities can be regained only if you demonstrate your repentance by conducting an [[DATABASE/ritual/Atone|atone]] ritual.
  The following acts are anathema to all druids:
 
 * Using metal armor or shields. 
@@ -204,7 +203,7 @@ Orders can be found here.
 
 ## Shield Block
 
-You gain the [[Shield Block]] general feat, a reaction that lets you reduce damage with your shield.
+You gain the [[DATABASE/feat/Shield Block|Shield Block]] general feat, a reaction that lets you reduce damage with your shield.
 
 ## Wild Empathy
 
@@ -277,4 +276,4 @@ You have developed an unparalleled rapport with the magic of nature. Your profic
 
 ## Primal Hierophant<span class="item-type">Level 19</span>
 
-You command the most potent forces of primal magic and can cast a spell of truly incredible power. You gain a single 10th-level spell slot and can prepare a spell in that slot using primal spellcasting. You can't use this spell slot for abilities that let you cast spells without expending spell slots or that give you more spell slots. You don't gain more 10th-level spells as you level up, though you can take the [[Hierophant's Power]] feat to gain a second slot.
+You command the most potent forces of primal magic and can cast a spell of truly incredible power. You gain a single 10th-level spell slot and can prepare a spell in that slot using primal spellcasting. You can't use this spell slot for abilities that let you cast spells without expending spell slots or that give you more spell slots. You don't gain more 10th-level spells as you level up, though you can take the [[DATABASE/feat/Hierophant's Power|Hierophant's Power]] feat to gain a second slot.

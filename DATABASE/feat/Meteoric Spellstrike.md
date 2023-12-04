@@ -13,6 +13,7 @@ prerequisite: '[[DATABASE/class_/Magus|Spellstrike]] , [[DATABASE/magushybridstu
 rarity: Common
 requirement: You're wielding a ranged or [[DATABASE/trait/Thrown|thrown]] weapon,
   or have aranged [[DATABASE/trait/Unarmed|unarmed]] attack.
+rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -27,12 +28,12 @@ type: Feat
 # Meteoric Spellstrike <span class="action-icon">2</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Arcane</span><span class="item-trait">Evocation</span><span class="item-trait">Magus</span>
-**Source** [[Secrets of Magic]] 
-**Prerequisites** [[Magus]], [[Starlit Span]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
+**Prerequisites** [[DATABASE/class_/Magus|Spellstrike]], [[DATABASE/magushybridstudy/Starlit Span|starlit span hybrid study]]
 **Requirements** You're wielding a ranged or thrown weapon, or have a ranged unarmed attack.
 
 ---
-A trail of energy flows from your target back to you. Make a Spellstrike with a ranged weapon or ranged unarmed attack against a target within the ranged weapon or unarmed attack's first range increment. The spell you cast for the Spellstrike can't be a cantrip or focus spell. Each creature in a line between you and the target, excluding you and the target, takes damage equal to double the spell's level. Determine the damage type as described in [[Arcane Cascade]].
+A trail of energy flows from your target back to you. Make a Spellstrike with a ranged weapon or ranged unarmed attack against a target within the ranged weapon or unarmed attack's first range increment. The spell you cast for the Spellstrike can't be a cantrip or focus spell. Each creature in a line between you and the target, excluding you and the target, takes damage equal to double the spell's level. Determine the damage type as described in [[DATABASE/action/Arcane Cascade|Arcane Cascade]].
 
 ## Traits
 

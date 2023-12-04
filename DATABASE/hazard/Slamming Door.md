@@ -17,6 +17,7 @@ name: Slamming Door
 rarity: Common
 reflex: '+2'
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
@@ -30,13 +31,13 @@ will: null
 # Slamming Door<span class="item-type">Hazard 1</span>
 
 <span class="item-trait">Mechanical</span><span class="item-trait">Trap</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Complexity** Simple
 **Stealth** DC 17 (trained)
 **Description** Pressure-sensitive panels in the floor connect to a stone slab hidden in a hallway’s ceiling.
 
 ---
-**Disable** [[Thievery]] DC 15 (trained) on the floor panels before the slab falls
+**Disable** [[DATABASE/skill/Thievery|Thievery]] DC 15 (trained) on the floor panels before the slab falls
 **AC** 16, **Fort** +10, **Ref** +2
 **Hardness** 5, **HP** 20 (BT 10); **Immunities** critical hits, object immunities, precision damage
 **Slam Shut** <span class="action-icon">5</span> **Trigger** Pressure is placed on any floor tile. **Effect** The door falls, closing off the hallway. The stone slab deals 3d8 bludgeoning damage to anyone beneath or adjacent to the slab when it drops and pushes them out of its space in a random direction. A creature that succeeds at a DC 17 Reflex save takes no damage and rolls out of the way in a random direction. On a critical success, they can choose the direction.

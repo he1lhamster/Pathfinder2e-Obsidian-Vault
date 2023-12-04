@@ -11,6 +11,7 @@ name: Improved Twin Riposte (Fighter)
 prerequisite: '[[DATABASE/feat/Twin Riposte|Twin Riposte]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Improved Twin Riposte (Fighter) <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Fighter</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Dual-Weapon Warrior]]*
-**Prerequisites** [[Twin Riposte]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Dual-Weapon Warrior|Dual-Weapon Warrior]]*
+**Prerequisites** [[DATABASE/feat/Twin Riposte|Twin Riposte]]
 * This archetype offers Improved Twin Riposte (Fighter) at a different level than displayed here.
 
 ---

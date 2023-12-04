@@ -4,6 +4,7 @@ level: '2'
 name: Cleric
 prerequisite: Wisdom 14
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait: null
 type: Archetype
@@ -11,7 +12,7 @@ type: Archetype
 ---
 # Cleric
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 You are an ordained priest of your deity and have even learned how to cast a few divine spells. Though your main training lies elsewhere, your religious calling provides you divine gifts.
 
 ### Multiclass Cleric characters
@@ -23,74 +24,74 @@ The cleric archetype is a great way to create a character of another class whoâ€
 * Divine sorcerer clerics double down as the ultimate divine spellcasters. 
 * Other spellcaster clerics diversify their options, becoming theurgic characters who combine two magical traditions.
 
-## [[Cleric Dedication]] <span class="item-type">Feat 2</span>
+## [[DATABASE/feat/Cleric Dedication|Cleric Dedication]] <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Dedication</span><span class="item-trait">Multiclass</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Cleric]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Cleric|Cleric]]
 **Prerequisites** Wisdom 14
 
 ---
-You cast spells like a cleric. You gain access to the Cast a Spell activity. You can prepare two common cantrips each day from the divine spell list in this book or any other divine cantrips you learn or discover. You're trained in spell attack rolls and spell DCs for divine spells. Your key spellcasting ability for cleric archetype spells is Wisdom, and they are divine cleric spells. Choose a deity as you would if you were a cleric. You become bound by that deity's anathema. You become trained in [[Religion]] and your deity's associated skill; for each of these skills in which you were already trained, you instead become trained in a skill of your choice. You don't gain any other abilities from your choice of deity.
+You cast spells like a cleric. You gain access to the Cast a Spell activity. You can prepare two common cantrips each day from the divine spell list in this book or any other divine cantrips you learn or discover. You're trained in spell attack rolls and spell DCs for divine spells. Your key spellcasting ability for cleric archetype spells is Wisdom, and they are divine cleric spells. Choose a deity as you would if you were a cleric. You become bound by that deity's anathema. You become trained in [[DATABASE/skill/Religion|Religion]] and your deity's associated skill; for each of these skills in which you were already trained, you instead become trained in a skill of your choice. You don't gain any other abilities from your choice of deity.
 **Special** You cannot select another dedication feat until you have gained two other feats from the cleric archetype.
 
-## [[Basic Cleric Spellcasting]] <span class="item-type">Feat 4</span>
+## [[DATABASE/feat/Basic Cleric Spellcasting|Basic Cleric Spellcasting]] <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Cleric]]
-**Prerequisites** [[Cleric Dedication]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Cleric|Cleric]]
+**Prerequisites** [[DATABASE/feat/Cleric Dedication|Cleric Dedication]]
 
 ---
 You gain the basic spellcasting benefits. You can prepare your deityâ€™s spells in your spell slots of the appropriate level from the cleric archetype.
 
-## [[Basic Dogma]] <span class="item-type">Feat 4</span>
+## [[DATABASE/feat/Basic Dogma|Basic Dogma]] <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Cleric]]
-**Prerequisites** [[Cleric Dedication]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Cleric|Cleric]]
+**Prerequisites** [[DATABASE/feat/Cleric Dedication|Cleric Dedication]]
 
 ---
 You gain a 1st- or 2nd-level cleric feat.
 
-## [[Advanced Dogma]] <span class="item-type">Feat 6</span>
+## [[DATABASE/feat/Advanced Dogma|Advanced Dogma]] <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Cleric]]
-**Prerequisites** [[Basic Dogma]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Cleric|Cleric]]
+**Prerequisites** [[DATABASE/feat/Basic Dogma|Basic Dogma]]
 
 ---
 You gain one cleric feat. For the purpose of meeting its prerequisites, your cleric level is equal to half your character level.
 **Special** You can select this feat more than once. Each time you select it, you gain another cleric feat.
 
-## [[Divine Breadth]] <span class="item-type">Feat 8</span>
+## [[DATABASE/feat/Divine Breadth|Divine Breadth]] <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Cleric]]
-**Prerequisites** [[Basic Cleric Spellcasting]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Cleric|Cleric]]
+**Prerequisites** [[DATABASE/feat/Basic Cleric Spellcasting|Basic Cleric Spellcasting]]
 
 ---
 You can cast more divine spells each day. Increase the spell slots you gain from cleric archetype feats by 1 for each spell level other than your two highest cleric spell slots.
 
-## [[Expert Cleric Spellcasting]] <span class="item-type">Feat 12</span>
+## [[DATABASE/feat/Expert Cleric Spellcasting|Expert Cleric Spellcasting]] <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Cleric]]
-**Prerequisites** [[Basic Cleric Spellcasting]]; master in [[Religion]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Cleric|Cleric]]
+**Prerequisites** [[DATABASE/feat/Basic Cleric Spellcasting|Basic Cleric Spellcasting]]; master in [[DATABASE/skill/Religion|Religion]]
 
 ---
 You gain the expert spellcasting benefits.
 
-## [[Master Cleric Spellcasting]] <span class="item-type">Feat 18</span>
+## [[DATABASE/feat/Master Cleric Spellcasting|Master Cleric Spellcasting]] <span class="item-type">Feat 18</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Cleric]]
-**Prerequisites** [[Expert Cleric Spellcasting]]; legendary in [[Religion]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Cleric|Cleric]]
+**Prerequisites** [[DATABASE/feat/Expert Cleric Spellcasting|Expert Cleric Spellcasting]]; legendary in [[DATABASE/skill/Religion|Religion]]
 
 ---
 You gain the master spellcasting benefits.

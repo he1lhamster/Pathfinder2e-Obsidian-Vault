@@ -11,6 +11,7 @@ name: Sheltering Cave
 prerequisite: '[[DATABASE/druidicorder/Stone|stone order]]'
 rarity: Common
 requirement: You're standing on ground composed of earth, stone, or a similar material.
+rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -27,8 +28,8 @@ type: Feat
 # Sheltering Cave <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Conjuration</span><span class="item-trait">Druid</span><span class="item-trait">Earth</span><span class="item-trait">Exploration</span><span class="item-trait">Primal</span>
-**Source** [[Secrets of Magic]] 
-**Prerequisites** [[Stone]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
+**Prerequisites** [[DATABASE/druidicorder/Stone|stone order]]
 **Requirements** You're standing on ground composed of earth, stone, or a similar material.
 
 ---

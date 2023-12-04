@@ -68,25 +68,25 @@ wisdom: '+0'
 # Sir Fredero Sinnet
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 36
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 36
 **Unspecific Lore**: DC 34
 **Specific Lore**: DC 31
 
 # Sir Fredero Sinnet<span class="item-type">Creature 9</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Kingmaker Companion Guide]]
+**Source** [[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]
 Male human fallen redeemer champion
 **Perception** +15
-**Languages** [[Common]]
-**Skills** [[Athletics]] +19, [[Deception]] +20, [[Diplomacy]] +18, [[Intimidation]] +20, [[Religion]] +17, [[Society]] +18
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +19, [[DATABASE/skill/Deception|Deception]] +20, [[DATABASE/skill/Diplomacy|Diplomacy]] +18, [[DATABASE/skill/Intimidation|Intimidation]] +20, [[DATABASE/skill/Religion|Religion]] +17, [[DATABASE/skill/Society|Society]] +18
 **Str** +4, **Dex** +2, **Con** +4, **Int** +1, **Wis** +0, **Cha** +3
-**Items** _+1 [[Magic Weapon]] [[Composite Shortbow]]_, _+1 [[Striking]] [[Thundering]] [[Longsword]]_, _+1 [[Full Plate]]_, [[Healing Potion]], [[Steel Shield]]
+**Items** _+1 [[DATABASE/equipment/Magic Weapon|striking]] [[DATABASE/weapon/Composite Shortbow|composite shortbow]]_, _+1 [[DATABASE/equipment/Striking|striking]] [[DATABASE/equipment/Thundering|thundering]] [[DATABASE/weapon/Longsword|longsword]]_, _+1 [[DATABASE/armor/Full Plate|full plate]]_, [[DATABASE/equipment/Healing Potion|moderate healing potions (3)]], [[DATABASE/shield/Steel Shield|steel shield]]
 
 ---
 **AC** 28; **Fort** +21, **Ref** +17, **Will** +15
 **HP** 160
-<span class="in-box-ability">**[[Attack of Opportunity]]** <span class="action-icon">5</span> </span><span class="in-box-ability">**Quick Block** Sir Fredero gains an additional reaction at the start of each of his turns that he can use only to perform a Shield Block.</span><span class="in-box-ability">**[[Shield Block]]** <span class="action-icon">5</span> </span><span class="in-box-ability">**Stubborn Conviction** <span class="action-icon">4</span> **Frequency** once per round; **Trigger** Sir Fredero fails (but doesn't critically fail) a saving throw against a control or emotion effect; **Effect** Sir Fredero rerolls the failed saving throw. He must take the result of this second roll, even if it is worse than the initial failure.</span>
+<span class="in-box-ability">**[[DATABASE/monsterability/Attack of Opportunity|Attack of Opportunity]]** <span class="action-icon">5</span> </span><span class="in-box-ability">**Quick Block** Sir Fredero gains an additional reaction at the start of each of his turns that he can use only to perform a Shield Block.</span><span class="in-box-ability">**[[DATABASE/monsterability/Shield Block|Shield Block]]** <span class="action-icon">5</span> </span><span class="in-box-ability">**Stubborn Conviction** <span class="action-icon">4</span> **Frequency** once per round; **Trigger** Sir Fredero fails (but doesn't critically fail) a saving throw against a control or emotion effect; **Effect** Sir Fredero rerolls the failed saving throw. He must take the result of this second roll, even if it is worse than the initial failure.</span>
 
 ---
 **Speed** 20 feet

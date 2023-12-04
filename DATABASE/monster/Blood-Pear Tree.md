@@ -77,26 +77,26 @@ wisdom: '+6'
 # Blood-Pear Tree
 
 This creature did not include a description.
-**Recall Knowledge - Undead ([[Religion]])**: DC 46
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 46
 **Unspecific Lore**: DC 44
 **Specific Lore**: DC 41
 
 # Blood-Pear Tree<span class="item-type">Creature 17</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Huge</span><span class="item-trait">Undead</span>
-**Source** [[Pathfinder 191. The Destiny War]]
-Variant [[Corpseroot]]
-**Perception** +29; [[Darkvision]]
-**Languages** [[Arboreal]], [[Necril]], [[Sylvan]]; (can't speak any language)
-**Skills** [[Athletics]] +32, [[Stealth]] +30
+**Source** [[DATABASE/source/Pathfinder 191. The Destiny War|Pathfinder #191: The Destiny War]]
+Variant [[DATABASE/monster/Corpseroot|corpseroot]]
+**Perception** +29; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Arboreal|Arboreal]], [[DATABASE/language/Necril|Necril]], [[DATABASE/language/Sylvan|Sylvan]]; (can't speak any language)
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +32, [[DATABASE/skill/Stealth|Stealth]] +30
 **Str** +9, **Dex** +5, **Con** +6, **Int** -2, **Wis** +6, **Cha** +2
-**Plant** When it isn't in danger, the corpseroot spends 1 minute rooting to the earth, becoming planted in place. While the corpseroot is planted and immobile, creatures must actively [[Seek]] and succeed at a DC 36 Perception check (DC 40 in forests) to detect the corpseroot's true nature.
+**Plant** When it isn't in danger, the corpseroot spends 1 minute rooting to the earth, becoming planted in place. While the corpseroot is planted and immobile, creatures must actively [[DATABASE/action/Seek|Seek]] and succeed at a DC 36 Perception check (DC 40 in forests) to detect the corpseroot's true nature.
 
 ---
 **AC** 38; **Fort** +31, **Ref** +26, **Will** +27
-**HP** 350 ([[Negative Healing]]); **Immunities** death effects, disease, [[Paralyzed]], poison, [[Unconscious]]; **Resistances** bludgeoning 15, piercing 15; **Weaknesses** axe vulnerability, fire 15
-<span class="in-box-ability">**Axe Vulnerability** The Blood-Pear Tree takes 15 additional damage from [[Axe]].</span>
+**HP** 350 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects, disease, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Unconscious|unconscious]]; **Resistances** bludgeoning 15, piercing 15; **Weaknesses** axe vulnerability, fire 15
+<span class="in-box-ability">**Axe Vulnerability** The Blood-Pear Tree takes 15 additional damage from [[DATABASE/weapongroup/Axe|axes]].</span>
 
 ---
 **Speed** 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> branch +34 [+29/+24] (reach 15 feet), **Damage** 3d12+17 bludgeoning</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> root +34 [+30/+26] (agile, reach 20 feet, trip), **Damage** 3d8+17 bludgeoning plus [[Grab]]</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> bloody pear +30 [+25/+20] (range increment 20 feet, splash), **Damage** 2d6+12 bludgeoning plus 2d6 bleed splash damage</span><span class="in-box-ability">**Take Root** <span class="action-icon">1</span> (necromancy, primal) **Frequency** once per round; **Requirements** The Blood-Pear Tree has a creature [[Grabbed]] or [[Restrained]]; **Effect** The Blood-Pear Tree buries its roots into the creature, dealing 2d6+17 piercing damage (DC 38 basic Fortitude save). On a failure, the creature is [[Enfeebled]] (or increases the value by 1 if already enfeebled), and the corpseroot regains 15 HP. If this would make a creature enfeebled 5, the creature dies.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> branch +34 [+29/+24] (reach 15 feet), **Damage** 3d12+17 bludgeoning</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> root +34 [+30/+26] (agile, reach 20 feet, trip), **Damage** 3d8+17 bludgeoning plus [[DATABASE/monsterability/Grab|Grab]]</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> bloody pear +30 [+25/+20] (range increment 20 feet, splash), **Damage** 2d6+12 bludgeoning plus 2d6 bleed splash damage</span><span class="in-box-ability">**Take Root** <span class="action-icon">1</span> (necromancy, primal) **Frequency** once per round; **Requirements** The Blood-Pear Tree has a creature [[DATABASE/condition/Grabbed|grabbed]] or [[DATABASE/condition/Restrained|restrained]]; **Effect** The Blood-Pear Tree buries its roots into the creature, dealing 2d6+17 piercing damage (DC 38 basic Fortitude save). On a failure, the creature is [[DATABASE/condition/Enfeebled|enfeebled 1]] (or increases the value by 1 if already enfeebled), and the corpseroot regains 15 HP. If this would make a creature enfeebled 5, the creature dies.</span>

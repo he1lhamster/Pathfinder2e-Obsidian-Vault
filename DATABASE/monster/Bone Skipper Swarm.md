@@ -75,23 +75,23 @@ wisdom: '+2'
 # Bone Skipper Swarm
 
 A large swarm of bone skippers can reduce a human skeleton into dry, brittle fragments in a matter of hours.
-**Recall Knowledge - Animal ([[Nature]])**: DC 24
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 24
 **Unspecific Lore**: DC 22
 **Specific Lore**: DC 19
 
 # Bone Skipper Swarm<span class="item-type">Creature 6</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Animal</span><span class="item-trait">Swarm</span>
-**Source** [[Pathfinder 158. Sixty Feet Under]]
-**Perception** +17; [[Darkvision]], bonesense (imprecise) 30 feet
-**Skills** [[Acrobatics]] +17
+**Source** [[DATABASE/source/Pathfinder 158. Sixty Feet Under|Pathfinder #158: Sixty Feet Under]]
+**Perception** +17; [[DATABASE/monsterability/Darkvision|darkvision]], bonesense (imprecise) 30 feet
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +17
 **Str** -4, **Dex** +5, **Con** +4, **Int** -5, **Wis** +2, **Cha** -5
 **Bonesense** A bone skipper swarm identifies bones and creatures with a skeletal system in the listed range.
 
 ---
 **AC** 24; **Fort** +14, **Ref** +17, **Will** +12
-**HP** 120; **Immunities** precision, [[Swarm Mind]]; **Resistances** bludgeoning 5, piercing 9, slashing 9; **Weaknesses** area damage 9, splash damage 9
+**HP** 120; **Immunities** precision, [[DATABASE/monsterability/Swarm Mind|swarm mind]]; **Resistances** bludgeoning 5, piercing 9, slashing 9; **Weaknesses** area damage 9, splash damage 9
 
 ---
 **Speed** 25 feet, fly 40 feet
-<span class="in-box-ability">**Marrow Rot** (disease) Marrow rot affects only creatures with a skeletal system; **Saving Throw** DC 24 Fortitude; **Onset** 1 day; **Stage 1** [[Enfeebled]] (1 day); **Stage 2** enfeebled 2 (1 day); **Stage 3** enfeebled 2 and [[Drained]] (1 day)</span><span class="in-box-ability">**Swarming Bites** <span class="action-icon">1</span> Each enemy in the swarm's space takes 3d6 piercing damage (DC 24 basic Reflex save) plus exposure to marrow rot.</span>
+<span class="in-box-ability">**Marrow Rot** (disease) Marrow rot affects only creatures with a skeletal system; **Saving Throw** DC 24 Fortitude; **Onset** 1 day; **Stage 1** [[DATABASE/condition/Enfeebled|enfeebled 1]] (1 day); **Stage 2** enfeebled 2 (1 day); **Stage 3** enfeebled 2 and [[DATABASE/condition/Drained|drained 1]] (1 day)</span><span class="in-box-ability">**Swarming Bites** <span class="action-icon">1</span> Each enemy in the swarm's space takes 3d6 piercing damage (DC 24 basic Reflex save) plus exposure to marrow rot.</span>

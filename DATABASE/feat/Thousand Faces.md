@@ -11,6 +11,7 @@ name: Thousand Faces
 prerequisite: '[[DATABASE/feat/Wild Shape|Wild Shape]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Thousand Faces <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Druid</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Wild Shape]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/feat/Wild Shape|Wild Shape]]
 
 ---
-Your form is as mutable as the weather, changing to meet your whim. You add the forms listed in [[Humanoid Form]] to your [[Wild Shape]] list.
+Your form is as mutable as the weather, changing to meet your whim. You add the forms listed in [[DATABASE/spell/Humanoid Form|humanoid form]] to your [[DATABASE/spell/Wild Shape|wild shape]] list.

@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -57,7 +58,7 @@ weapon_type: null
 # Pressure Bomb<span class="item-type">Item 1+</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Alchemical</span><span class="item-trait">Bomb</span><span class="item-trait">Consumable</span><span class="item-trait">Force</span><span class="item-trait">Splash</span>
-**Source** [[Pathfinder Special. Fumbus]]
+**Source** [[DATABASE/source/Pathfinder Special. Fumbus|Pathfinder Special: Fumbus]]
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Strike
 
@@ -66,28 +67,28 @@ This tightly sealed metal container is filled with highly pressurized gas that c
 
 ## Pressure Bomb (Lesser)<span class="item-type">Item 1</span>
 
-**Source** [[Pathfinder Special. Fumbus]]
+**Source** [[DATABASE/source/Pathfinder Special. Fumbus|Pathfinder Special: Fumbus]]
 **Price** 4 gp
 **Bulk** L
 The bomb deals 1d4 bludgeoning damage and 1 bludgeoning splash damage. Tiny or smaller targets are pushed 5 feet away from you.
 
 ## Pressure Bomb (Moderate)<span class="item-type">Item 3</span>
 
-**Source** [[Pathfinder Special. Fumbus]]
+**Source** [[DATABASE/source/Pathfinder Special. Fumbus|Pathfinder Special: Fumbus]]
 **Price** 12 gp
 **Bulk** L
 You gain a +1 item bonus to attack rolls. The bomb deals 2d4 bludgeoning damage and 2 bludgeoning splash damage. Small or smaller targets are pushed 5 feet away from you.
 
 ## Pressure Bomb (Greater)<span class="item-type">Item 11</span>
 
-**Source** [[Pathfinder Special. Fumbus]]
+**Source** [[DATABASE/source/Pathfinder Special. Fumbus|Pathfinder Special: Fumbus]]
 **Price** 275 gp
 **Bulk** L
 You gain a +2 item bonus to attack rolls. The bomb deals 3d4 bludgeoning damage and 3 bludgeoning splash damage. Medium or smaller targets are pushed 5 feet away from you.
 
 ## Pressure Bomb (Major)<span class="item-type">Item 17</span>
 
-**Source** [[Pathfinder Special. Fumbus]]
+**Source** [[DATABASE/source/Pathfinder Special. Fumbus|Pathfinder Special: Fumbus]]
 **Price** 2,750 gp
 **Bulk** L
 You gain a +3 item bonus to attack rolls. The bomb deals 4d4 bludgeoning damage and 4 bludgeoning splash damage. Medium or smaller creatures who take splash damage are pushed 5 feet away from the target, and then, if the target is Large or smaller, it is pushed 5 feet away from you.

@@ -28,6 +28,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -45,9 +46,9 @@ type: Spell
 # Feet to Fins<span class="item-type">Spell 3</span>
 
 <span class="item-trait">Morph</span><span class="item-trait">Transmutation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, primal
-**Deities** [[Besmara]], [[Dagon]], [[Picoperi]], [[Ragadahn]], [[Seafarer's Hope]], [[Sobek]], [[Ylimancha]]
+**Deities** [[DATABASE/deity/Besmara|Besmara]], [[DATABASE/deity/Dagon|Dagon]], [[DATABASE/deity/Picoperi|Picoperi]], [[DATABASE/deity/Ragadahn|Ragadahn]], [[DATABASE/deity/Seafarer's Hope|Seafarer's Hope]], [[DATABASE/deity/Sobek|Sobek]], [[DATABASE/deity/Ylimancha|Ylimancha]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** touch; **Targets** 1 willing creature
 **Duration** 10 minutes

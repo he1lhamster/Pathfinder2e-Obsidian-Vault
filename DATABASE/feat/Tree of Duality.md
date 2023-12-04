@@ -11,6 +11,7 @@ name: Tree of Duality
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -28,14 +29,14 @@ type: Feat
 # Tree of Duality <span class="action-icon">3</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Air</span><span class="item-trait">Composite</span><span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Primal</span><span class="item-trait">Wood</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 PFS Note
 
 ---
 An ephemeral tree bursts forth, floating on air in an unoccupied square of your choice within 60 feet. Blooming flowers and fungal growths shed pollen and spores, which a swirling gust of air spreads in a 10-foot emanation around it. The tree lasts until the end of your next turn, and you can Sustain it up to 1 minute.
 
 * **Cleansing Pollen** (healing, vitality) Each living ally that's in the area or enters it regains 3d4 HP and is then temporarily immune to regaining HP from Tree of Duality for 10 minutes.
-* **Hallucinogenic Spores** (mental) Enemies in the area are [[Dazzled]]. An enemy that leaves the area remains dazzled until the start of its next turn.
+* **Hallucinogenic Spores** (mental) Enemies in the area are [[DATABASE/condition/Dazzled|dazzled]]. An enemy that leaves the area remains dazzled until the start of its next turn.
 
 ---
 **Level (+2)** The healing increases by 1d4.

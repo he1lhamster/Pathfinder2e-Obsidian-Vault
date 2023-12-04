@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/class_/Champion|divine ally (steed)]] ; [[DATABASE/cha
   of good]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Celestial Mount <span class="item-type">Feat 20</span>
 
 <span class="item-trait">Champion</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Champion]]; [[Good]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/class_/Champion|divine ally (steed)]]; [[DATABASE/championtenet/Good|tenets of good]]
 
 ---
 Your steed gains incredible celestial powers granted by your deity. It gains darkvision, its maximum Hit Points increase by 40, and it gains weakness 10 to evil damage.

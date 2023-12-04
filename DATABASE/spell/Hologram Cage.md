@@ -22,6 +22,7 @@ patron_theme: null
 range: 60 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
@@ -40,7 +41,7 @@ type: Cantrip
 # Hologram Cage<span class="item-type">Cantrip 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Cantrip</span><span class="item-trait">Illusion</span><span class="item-trait">Light</span><span class="item-trait">Psychic</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Cast** <span class="action-icon">3</span> material, somatic, verbal
 **Range** 60 feet; **Area** 1 cube 20 feet on each side
 **Duration** 1 minute

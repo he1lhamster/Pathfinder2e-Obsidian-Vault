@@ -11,6 +11,7 @@ name: Flash Forge
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -26,7 +27,7 @@ type: Feat
 # Flash Forge <span class="action-icon">2</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Metal</span><span class="item-trait">Primal</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
 An artificial metal object forms in the hands of you or a willing ally within 30 feet. You can choose a level 0, common, handheld weapon or piece of adventuring gear of 1 Bulk or less. The item is entirely made from metal, making some items impossible or impractical to use (if it's unclear, the GM decides). You can make items with simple moving parts or magnetism, like a compass, poor lock, or merchant's scale. The item lasts for 10 minutes, but each time it's used, the user must succeed at a DC 5 flat check or the item is destroyed after the action is completed.

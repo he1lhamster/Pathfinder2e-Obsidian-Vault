@@ -11,6 +11,7 @@ name: Wild Empathy
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Wild Empathy <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Ranger</span>
-**Source** [[Core Rulebook]] 
-**Archetypes** [[Beastmaster]]*, [[Mammoth Lord]]*
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetypes** [[DATABASE/archetype/Beastmaster|Beastmaster]]*, [[DATABASE/archetype/Mammoth Lord|Mammoth Lord]]*
 * This archetype offers Wild Empathy at a different level than displayed here.
 
 ---

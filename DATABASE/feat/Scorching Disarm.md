@@ -11,6 +11,7 @@ name: Scorching Disarm
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -24,11 +25,11 @@ type: Feat
 # Scorching Disarm <span class="action-icon">1</span> <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Fire</span><span class="item-trait">Ifrit</span>
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 **Frequency** once per day
 
 ---
-You make a weapon unbearable to hold. Attempt an [[Athletics]] check to [[Disarm]] a target creature. You don't need to have a hand free to make this Disarm attempt. If the Disarm attempt succeeds, the target takes 4d6 fire damage unless it drops the weapon, and on a critical success, it takes 4d6 fire damage and drops the weapon. If you're legendary in Athletics, this increases to 8d6 fire damage.
+You make a weapon unbearable to hold. Attempt an [[DATABASE/skill/Athletics|Athletics]] check to [[DATABASE/action/Disarm|Disarm]] a target creature. You don't need to have a hand free to make this Disarm attempt. If the Disarm attempt succeeds, the target takes 4d6 fire damage unless it drops the weapon, and on a critical success, it takes 4d6 fire damage and drops the weapon. If you're legendary in Athletics, this increases to 8d6 fire damage.
 
 ## Traits
 
@@ -38,4 +39,4 @@ Effects with the fire trait deal fire damage or either conjure or manipulate fir
 
 **Ifrit:**
 
-Ifrits are planar scions descended from [[Efreeti]].
+Ifrits are planar scions descended from [[DATABASE/monster/Efreeti|efreet]].

@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: DC 32 Fortitude
 school: null
 size: null
@@ -57,11 +58,11 @@ weapon_type: null
 # Slumber Wine<span class="item-type">Item 12</span>
 
 <span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Ingested</span><span class="item-trait">Poison</span><span class="item-trait">Sleep</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 325 gp
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
 ---
-Slumber wine sees its greatest use in games of intrigue, where an absence can be more devastating than injury. Characters [[Unconscious]] from slumber wine can't wake up by any means while the poison lasts, don't need to eat or drink while unconscious in this way, and appear to be recently dead unless an examiner succeeds at a DC 40 [[Medicine]] check.
+Slumber wine sees its greatest use in games of intrigue, where an absence can be more devastating than injury. Characters [[DATABASE/condition/Unconscious|unconscious]] from slumber wine can't wake up by any means while the poison lasts, don't need to eat or drink while unconscious in this way, and appear to be recently dead unless an examiner succeeds at a DC 40 [[DATABASE/skill/Medicine|Medicine]] check.
 **Saving Throw** DC 32 Fortitude; **Onset** 1 hour; **Maximum Duration** 7 days; **Stage 1** unconscious (1 day); **Stage 2** unconscious (2 days); **Stage 3** unconscious (3 days).

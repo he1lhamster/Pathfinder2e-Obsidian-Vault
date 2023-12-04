@@ -70,24 +70,24 @@ wisdom: '+1'
 # Bone Warrior
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 24
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 24
 **Unspecific Lore**: DC 22
 **Specific Lore**: DC 19
 
 # Bone Warrior<span class="item-type">Creature 4</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 176. Lost Mammoth Valley]]
+**Source** [[DATABASE/source/Pathfinder 176. Lost Mammoth Valley|Pathfinder #176: Lost Mammoth Valley]]
 **Perception** +11
-**Languages** [[Common]], [[Draconic]], [[Hallit]]
-**Skills** [[Acrobatics]] +10, [[Athletics]] +14, [[Crafting]] +9, [[Intimidation]] +8, [[Nature]] +7, [[Survival]] +7
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Hallit|Hallit]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +10, [[DATABASE/skill/Athletics|Athletics]] +14, [[DATABASE/skill/Crafting|Crafting]] +9, [[DATABASE/skill/Intimidation|Intimidation]] +8, [[DATABASE/skill/Nature|Nature]] +7, [[DATABASE/skill/Survival|Survival]] +7
 **Str** +4, **Dex** +2, **Con** +3, **Int** +1, **Wis** +1, **Cha** +0
-**Items** [[Bastard Sword]], bone [[Religious Symbol]] ([[Venexus]]), [[Hide Armor]], [[Javelin]], [[Dread Ampoule]], [[Wooden Shield]]
+**Items** [[DATABASE/weapon/Bastard Sword|bastard sword]], bone [[DATABASE/equipment/Religious Symbol|religious symbol]] ([[DATABASE/monster/Venexus|Venexus]]), [[DATABASE/armor/Hide Armor|hide armor]], [[DATABASE/weapon/Javelin|javelins (4)]], [[DATABASE/equipment/Dread Ampoule|moderate dread ampoules (2)]], [[DATABASE/shield/Wooden Shield|wooden shield (Hardness 3, HP 12, BT 6)]]
 
 ---
 **AC** 21 (23 with shield raised); **Fort** +13, **Ref** +11, **Will** +7
 **HP** 65
-<span class="in-box-ability">[[Attack of Opportunity]] <span class="action-icon">5</span> </span><span class="in-box-ability">[[Shield Block]] <span class="action-icon">5</span> </span>
+<span class="in-box-ability">[[DATABASE/monsterability/Attack of Opportunity|Attack of Opportunity]] <span class="action-icon">5</span> </span><span class="in-box-ability">[[DATABASE/monsterability/Shield Block|Shield Block]] <span class="action-icon">5</span> </span>
 
 ---
 **Speed** 25 feet

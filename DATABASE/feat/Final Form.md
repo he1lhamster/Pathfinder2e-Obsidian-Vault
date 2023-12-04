@@ -11,6 +11,7 @@ name: Final Form
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -28,13 +29,13 @@ type: Feat
 # Final Form <span class="action-icon">3</span> <span class="item-type">Feat 17</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Divine</span><span class="item-trait">Evocation</span><span class="item-trait">Morph</span><span class="item-trait">Tiefling</span><span class="item-trait">Transmutation</span>
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 **Frequency** once per day
 
 ---
-You embrace your monstrous blood and make it your own, screaming out to the heavens and hells alike in rage, pain, and defiance. Reality buckles and twists under your sudden power—each tiefling has a unique transformation, but it might include sulfurous flames, choruses of shrieks, or twisting, serpentine lightning. Every creature within 10 feet of you is [[Deafened]] and [[Dazzled]] for 1 round unless they succeed at a Fortitude save using your class DC or spell DC, whichever is higher. Your final form has the effects of [[Divine Vessel]] for a deity that shares an alignment with your fiendish lineage. Your final form resembles a creature from your fiendish lineage, and you remain in that form for 1 minute. While in your final form, you can cast [[Chilling Darkness]], [[Fireball]], and [[Lightning Bolt]] as 6th-level divine innate spells, once each per use of this feat.
- When you emerge from your final form, you become [[Drained]]. In addition, if you have this feat, you gain weakness 10 to good even when not in your final form, and you take good damage even if you aren't evil.
-**Special** At the GM's discretion, the specific elements of this feat can be adjusted to better fit the tiefling's lineage—for example, a GM might decide that a particular [[Beastbrood]] tiefling could cast a 6th-level [[Phantasmal Killer]] instead of _fireball_.
+You embrace your monstrous blood and make it your own, screaming out to the heavens and hells alike in rage, pain, and defiance. Reality buckles and twists under your sudden power—each tiefling has a unique transformation, but it might include sulfurous flames, choruses of shrieks, or twisting, serpentine lightning. Every creature within 10 feet of you is [[DATABASE/condition/Deafened|deafened]] and [[DATABASE/condition/Dazzled|dazzled]] for 1 round unless they succeed at a Fortitude save using your class DC or spell DC, whichever is higher. Your final form has the effects of [[DATABASE/spell/Divine Vessel|divine vessel]] for a deity that shares an alignment with your fiendish lineage. Your final form resembles a creature from your fiendish lineage, and you remain in that form for 1 minute. While in your final form, you can cast [[DATABASE/spell/Chilling Darkness|chilling darkness]], [[DATABASE/spell/Fireball|fireball]], and [[DATABASE/spell/Lightning Bolt|lightning bolt]] as 6th-level divine innate spells, once each per use of this feat.
+ When you emerge from your final form, you become [[DATABASE/condition/Drained|drained 3]]. In addition, if you have this feat, you gain weakness 10 to good even when not in your final form, and you take good damage even if you aren't evil.
+**Special** At the GM's discretion, the specific elements of this feat can be adjusted to better fit the tiefling's lineage—for example, a GM might decide that a particular [[DATABASE/feat/Beastbrood|beastbrood]] tiefling could cast a 6th-level [[DATABASE/spell/Phantasmal Killer|phantasmal killer]] instead of _fireball_.
 
 ## Traits
 
@@ -57,7 +58,7 @@ Your morph effects might also end if you are polymorphed and the polymorph effec
 
 **Tiefling:**
 
-A creature with this trait has the tiefling versatile heritage. Tieflings are [[Planar Scion]] descended from fiends. An ability with this trait can be used or selected only by tieflings.
+A creature with this trait has the tiefling versatile heritage. Tieflings are [[DATABASE/monsterfamily/Planar Scion|planar scions]] descended from fiends. An ability with this trait can be used or selected only by tieflings.
 
 **Transmutation:**
 

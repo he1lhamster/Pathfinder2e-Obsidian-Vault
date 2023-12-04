@@ -2,6 +2,7 @@
 id: '28'
 name: Caligni
 rarity: Uncommon
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -10,9 +11,9 @@ type: Language
 ---
 # Caligni
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 The below entries contain speakers of Caligni.
 
 ## Monsters (10)
 
-[[Bright Walker]], [[Caligni Assassin]], [[Caligni Caller]], [[Caligni Creeper]], [[Caligni Dancer]], [[Caligni Slayer]], [[Caligni Stalker]], [[Caligni Vanguard]], [[Owb]], [[Owb Prophet]]
+[[DATABASE/monster/Bright Walker|Bright Walker]], [[DATABASE/monster/Caligni Assassin|Caligni Assassin]], [[DATABASE/monster/Caligni Caller|Caligni Caller]], [[DATABASE/monster/Caligni Creeper|Caligni Creeper]], [[DATABASE/monster/Caligni Dancer|Caligni Dancer]], [[DATABASE/monster/Caligni Slayer|Caligni Slayer]], [[DATABASE/monster/Caligni Stalker|Caligni Stalker]], [[DATABASE/monster/Caligni Vanguard|Caligni Vanguard]], [[DATABASE/monster/Owb|Owb]], [[DATABASE/monster/Owb Prophet|Owb Prophet]]

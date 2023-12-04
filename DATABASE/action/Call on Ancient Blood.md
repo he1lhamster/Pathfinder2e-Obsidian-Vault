@@ -7,6 +7,7 @@ id: '1'
 name: Call on Ancient Blood
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait: null
@@ -17,7 +18,7 @@ type: Action
 ---
 # Call on Ancient Blood <span class="action-icon">5</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Trigger** You attempt a saving throw against a magical effect, but you haven't rolled yet.
 
 ---

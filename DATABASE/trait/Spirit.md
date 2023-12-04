@@ -2,6 +2,7 @@
 id: '149'
 name: Spirit
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Spirit
@@ -10,9 +11,9 @@ type: Trait
 ---
 # Spirit
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Spirits are ephemeral creatures defined by their spiritual self and often lacking a physical form.
 
 ## Monsters
 
-[[Abandoned Zealot]], [[Banshee]], [[Betobeto-San]], [[Binumir]], [[Bright Walker]], [[Charghar]], [[Corrupted Relic]], [[Cunning Guide]], [[Death Coach]], [[Dybbuk]], [[Feathered Bear]], [[Fluxwraith]], [[Fortune Eater]], [[Ghost Commoner]], [[Ghost Mage]], [[Ghost Pirate]], [[Gliminal]], [[Grappling Spirit]], [[Gray Death]], [[Nimble Guide]], [[Hantu Belian]], [[Hantu Denai]], [[Hungry Ghost]], [[Kodama]], [[Last Guard]], [[Lithic Locus]], [[Llorona]], [[Muse Phantom]], [[Nemhaith]], [[Nightmarchers]], [[Phantom Beast]], [[Phantom Knight]], [[Polong]], [[Poltergeist]], [[Pyrogeist]], [[Screaming Sulfur]], [[Seething Spirit]], [[Shikigami]], [[Sié Goluo]], [[Spectral Devil]], [[Sage Guide]], [[Toshigami]], [[Waldgeist]], [[Witchfire]], [[Zuishin]]
+[[DATABASE/monster/Abandoned Zealot|Abandoned Zealot]], [[DATABASE/monster/Banshee|Banshee]], [[DATABASE/monster/Betobeto-San|Betobeto-San]], [[DATABASE/monster/Binumir|Binumir]], [[DATABASE/monster/Bright Walker|Bright Walker]], [[DATABASE/monster/Charghar|Charghar]], [[DATABASE/monster/Corrupted Relic|Corrupted Relic]], [[DATABASE/monster/Cunning Guide|Cunning Guide]], [[DATABASE/monster/Death Coach|Death Coach]], [[DATABASE/monster/Dybbuk|Dybbuk]], [[DATABASE/monster/Feathered Bear|Feathered Bear]], [[DATABASE/monster/Fluxwraith|Fluxwraith]], [[DATABASE/monster/Fortune Eater|Fortune Eater]], [[DATABASE/monster/Ghost Commoner|Ghost Commoner]], [[DATABASE/monster/Ghost Mage|Ghost Mage]], [[DATABASE/monster/Ghost Pirate|Ghost Pirate Captain]], [[DATABASE/monster/Gliminal|Gliminal]], [[DATABASE/monster/Grappling Spirit|Grappling Spirit]], [[DATABASE/monster/Gray Death|Gray Death]], [[DATABASE/monster/Nimble Guide|Green Monkey]], [[DATABASE/monster/Hantu Belian|Hantu Belian]], [[DATABASE/monster/Hantu Denai|Hantu Denai]], [[DATABASE/monster/Hungry Ghost|Hungry Ghost]], [[DATABASE/monster/Kodama|Kodama]], [[DATABASE/monster/Last Guard|Last Guard]], [[DATABASE/monster/Lithic Locus|Lithic Locus]], [[DATABASE/monster/Llorona|Llorona]], [[DATABASE/monster/Muse Phantom|Muse Phantom]], [[DATABASE/monster/Nemhaith|Nemhaith]], [[DATABASE/monster/Nightmarchers|Nightmarchers]], [[DATABASE/monster/Phantom Beast|Phantom Beast]], [[DATABASE/monster/Phantom Knight|Phantom Knight]], [[DATABASE/monster/Polong|Polong]], [[DATABASE/monster/Poltergeist|Poltergeist]], [[DATABASE/monster/Pyrogeist|Pyrogeist]], [[DATABASE/monster/Screaming Sulfur|Screaming Sulfur]], [[DATABASE/monster/Seething Spirit|Seething Spirit]], [[DATABASE/monster/Shikigami|Shikigami]], [[DATABASE/monster/Sié Goluo|Sié Goluo]], [[DATABASE/monster/Spectral Devil|Spectral Devil]], [[DATABASE/monster/Sage Guide|Stone-Breasted Owl]], [[DATABASE/monster/Toshigami|Toshigami]], [[DATABASE/monster/Waldgeist|Waldgeist]], [[DATABASE/monster/Witchfire|Witchfire]], [[DATABASE/monster/Zuishin|Zuishin]]

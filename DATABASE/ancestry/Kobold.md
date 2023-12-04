@@ -18,6 +18,7 @@ language:
 max_speed: '25'
 name: Kobold
 rarity: Uncommon
+rus_type_level: null
 size: Small
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 speed:
@@ -33,7 +34,7 @@ vision: Darkvision
 # Kobold
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Humanoid</span><span class="item-trait">Kobold</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 _Every kobold knows that their slight frame belies true, mighty draconic power. They are ingenious crafters and devoted allies within their warrens, but those who trespass into their territory find them to be inspired skirmishers, especially when they have the backing of a draconic sorcerer or true dragon overlord. However, these reptilian opportunists prove happy to cooperate with other humanoids when it’s to their benefit, combining caution and cunning to make their fortunes in the wider world._
 Kobolds are resourceful survivors whose snare-guarded warrens and opportunistic scavenging have cast them as villains to most other humanoids, with their draconic reverence lending them a reputation as mere minions and nuisances. Yet some kobolds have emerged from their secluded warrens seeking the relative safety of surface settlements, the lucrative prospects of the adventuring life, or validating awe from followers of their own.
  If you want a character with oversized confidence, deadly cunning, and the ancient power of dragons flowing through their veins, you should play a kobold.
@@ -63,11 +64,11 @@ Kobolds have an ingrained cautiousness that keeps them alive. They're secretive 
 ## Alignment and Religion
 
 All but the most iconoclastic kobolds have a natural respect for hierarchies and rules, and so kobolds are rarely chaotic. Kobold adventurers tend to be lawful neutral or neutral, relying on their ancestral social strategies for survival.
- Organized religion feels natural for most kobolds, especially when a deity assumes a commanding or tyrannical disposition. Many gravitate toward [[Abadar]]'s order or [[Shelyn]]'s artistic flair. More sinister communities uphold [[Asmodeus]] and other archdevils as common patrons. The dragon deities [[Apsu]] and [[Dahak]] are also common subjects of worship. Kobolds also often find themselves drawn to cults, particularly those with dragons or devils as figureheads.
+ Organized religion feels natural for most kobolds, especially when a deity assumes a commanding or tyrannical disposition. Many gravitate toward [[DATABASE/deity/Abadar|Abadar]]'s order or [[DATABASE/deity/Shelyn|Shelyn]]'s artistic flair. More sinister communities uphold [[DATABASE/deity/Asmodeus|Asmodeus]] and other archdevils as common patrons. The dragon deities [[DATABASE/deity/Apsu|Apsu]] and [[DATABASE/deity/Dahak|Dahak]] are also common subjects of worship. Kobolds also often find themselves drawn to cults, particularly those with dragons or devils as figureheads.
 
 ## Adventurers
 
-Kobolds often adventure in pursuit of the power, lore, and treasure that they feel befit their disproportionately large egos. When adventurers, militias, or careless tyrants shatter a kobold community, the survivors often latch onto new families, seeking emotional solace—and sometimes revenge. Typical kobold backgrounds include [[Artisan]], [[Artist]], [[Criminal]], [[Hunter]], [[Miner]], [[Scout]], and [[Tinker]] from the _Core Rulebook_, plus [[Bandit]], [[Cultist]], [[Scavenger]], and [[Servant]] from this book. Kobolds excel as [[Bard]], [[Ranger]], [[Rogue]], and [[Sorcerer]], though they also often channel their ingenuity as [[Alchemist]] or [[Wizard]].
+Kobolds often adventure in pursuit of the power, lore, and treasure that they feel befit their disproportionately large egos. When adventurers, militias, or careless tyrants shatter a kobold community, the survivors often latch onto new families, seeking emotional solace—and sometimes revenge. Typical kobold backgrounds include [[DATABASE/background/Artisan|artisan]], [[DATABASE/background/Artist|artist]], [[DATABASE/background/Criminal|criminal]], [[DATABASE/background/Hunter|hunter]], [[DATABASE/background/Miner|miner]], [[DATABASE/background/Scout|scout]], and [[DATABASE/background/Tinker|tinker]] from the _Core Rulebook_, plus [[DATABASE/background/Bandit|bandit]], [[DATABASE/background/Cultist|cultist]], [[DATABASE/background/Scavenger|scavenger]], and [[DATABASE/background/Servant|servant]] from this book. Kobolds excel as [[DATABASE/class_/Bard|bards]], [[DATABASE/class_/Ranger|rangers]], [[DATABASE/class_/Rogue|rogues]], and [[DATABASE/class_/Sorcerer|sorcerers]], though they also often channel their ingenuity as [[DATABASE/class_/Alchemist|alchemists]] or [[DATABASE/class_/Wizard|wizards]].
 
 ## Names
 
@@ -81,7 +82,7 @@ Azrnak, Draahzin, Enga, Fazgyn, Fazij, Jekkajak, Kib, Kirrok, Mirkol, Tarka, Urk
 
 ### Kobold Origins
 
-Kobolds in the Inner Sea region have numerous origin stories, many tied to the conflict between the dragon gods [[Dahak]] and [[Apsu]]. Kobolds who live in caves near the surface often believe they predate true dragons, as Dahak scooped up their ancestors and transformed them into dragons. The further a kobold settlement is from a cave system, the less these tales link kobolds directly to dragons. Kobolds in swamps generally tell of their birth from blood that Dahak shed in battle, while those who dwell in trees and mountains often believe they were born of Dahak's tears.
+Kobolds in the Inner Sea region have numerous origin stories, many tied to the conflict between the dragon gods [[DATABASE/deity/Dahak|Dahak]] and [[DATABASE/deity/Apsu|Apsu]]. Kobolds who live in caves near the surface often believe they predate true dragons, as Dahak scooped up their ancestors and transformed them into dragons. The further a kobold settlement is from a cave system, the less these tales link kobolds directly to dragons. Kobolds in swamps generally tell of their birth from blood that Dahak shed in battle, while those who dwell in trees and mountains often believe they were born of Dahak's tears.
 
 ### Other Kobolds
 
@@ -118,9 +119,9 @@ Constitution
 
 ## Languages
 
-[[Common]]
-[[Draconic]]
-Additional languages equal to your Intelligence modifier (if it’s positive). Choose from [[Aklo]], [[Dwarven]], [[Gnomish]], [[Infernal]], [[Terran]], [[Undercommon]], and any other languages to which you have access (such as the languages prevalent in your region).
+[[DATABASE/language/Common|Common]]
+[[DATABASE/language/Draconic|Draconic]]
+Additional languages equal to your Intelligence modifier (if it’s positive). Choose from [[DATABASE/language/Aklo|Aklo]], [[DATABASE/language/Dwarven|Dwarven]], [[DATABASE/language/Gnomish|Gnomish]], [[DATABASE/language/Infernal|Infernal]], [[DATABASE/language/Terran|Terran]], [[DATABASE/language/Undercommon|Undercommon]], and any other languages to which you have access (such as the languages prevalent in your region).
 
 ## Darkvision
 
@@ -132,15 +133,16 @@ You draw minor powers from your draconic exemplar. Choose a type of chromatic or
 
 ## Table 1-1: Draconic Exemplars
 
-| Dragon   | Breath Weapon Shape   | Damage Type   | Saving Throw   |
-|:---------|:----------------------|:--------------|:---------------|
-| Black    | Line                  | Acid          | Reflex         |
-| Blue     | Line                  | Electricity   | Reflex         |
-| Green    | Cone                  | Poison        | Fortitude      |
-| Red      | Cone                  | Fire          | Reflex         |
-| White    | Cone                  | Cold          | Reflex         |
-| Brass    | Line                  | Fire          | Reflex         |
-| Bronze   | Line                  | Electricity   | Reflex         |
-| Copper   | Line                  | Acid          | Reflex         |
-| Gold     | Cone                  | Fire          | Reflex         |
-| Silver   | Cone                  | Cold          | Reflex         |
+| 0 | 1 | 2 | 3 |
+|:-------|:--------------------|:------------|:-------------|
+| Dragon | Breath Weapon Shape | Damage Type | Saving Throw |
+| Black | Line | Acid | Reflex |
+| Blue | Line | Electricity | Reflex |
+| Green | Cone | Poison | Fortitude |
+| Red | Cone | Fire | Reflex |
+| White | Cone | Cold | Reflex |
+| Brass | Line | Fire | Reflex |
+| Bronze | Line | Electricity | Reflex |
+| Copper | Line | Acid | Reflex |
+| Gold | Cone | Fire | Reflex |
+| Silver | Cone | Cold | Reflex |

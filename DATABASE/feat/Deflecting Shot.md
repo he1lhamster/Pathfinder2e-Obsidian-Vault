@@ -11,6 +11,7 @@ name: Deflecting Shot
 prerequisite: null
 rarity: Common
 requirement: You're wielding a loaded firearm or crossbow.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Deflecting Shot <span class="action-icon">5</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Gunslinger</span>
-**Source** [[Guns & Gears]]
-**Archetype** [[Sniping Duo]]*
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Archetype** [[DATABASE/archetype/Sniping Duo|Sniping Duo]]*
 **Trigger** An ally within the first range increment of your firearm or crossbow is hit by an attack, and you can see the attacker.
 **Requirements** You're wielding a loaded firearm or crossbow.
 * This archetype offers Deflecting Shot at a different level than displayed here.

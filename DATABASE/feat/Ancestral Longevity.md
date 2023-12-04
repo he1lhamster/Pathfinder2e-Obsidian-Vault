@@ -11,6 +11,7 @@ name: Ancestral Longevity
 prerequisite: at least 100 years old
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Ancestral Longevity <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Elf</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Prerequisites** at least 100 years old
 
 ---
@@ -31,10 +32,10 @@ You have accumulated a vast array of lived knowledge over the years. During your
 
 ## Ancestral Longevity Leads To...
 
-[[Expert Longevity]]
+[[DATABASE/feat/Expert Longevity|Expert Longevity]]
 
 ## Traits
 
 **Elf:**
 
-A creature with this trait is a member of the elf ancestry. Elves are mysterious people with rich traditions of magic and scholarship who typically have [[Low-Light Vision]]. An ability with this trait can be used or selected only by elves. A weapon with this trait is created and used by elves.
+A creature with this trait is a member of the elf ancestry. Elves are mysterious people with rich traditions of magic and scholarship who typically have [[DATABASE/monsterability/Low-Light Vision|low-light vision]]. An ability with this trait can be used or selected only by elves. A weapon with this trait is created and used by elves.

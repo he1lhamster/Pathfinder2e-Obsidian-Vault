@@ -11,6 +11,7 @@ name: Penetrating Projectile
 prerequisite: null
 rarity: Common
 requirement: You are wielding a ranged or thrown weapon that deals piercing damage.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,7 +26,7 @@ type: Feat
 # Penetrating Projectile <span class="action-icon">2</span> <span class="item-type">Feat 16</span>
 
 <span class="item-trait">Barbarian</span><span class="item-trait">Flourish</span><span class="item-trait">Rage</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Requirements** You are wielding a ranged or thrown weapon that deals piercing damage.
 
 ---

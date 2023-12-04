@@ -12,6 +12,7 @@ level: '0'
 name: Leather Lamellar
 price: 3 gp
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 speed_penalty: null
 strength: '+10'
@@ -24,9 +25,9 @@ type: Armor
 # Leather Lamellar
 
 <span class="item-trait">Laminar</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 3 gp; **AC Bonus** +1; **Dex Cap** +4; **Check Penalty** -1; **Speed Penalty** —
-**Strength** 10; **Bulk** 1; **Category** Light; **Group** [[Composite]]
+**Strength** 10; **Bulk** 1; **Category** Light; **Group** [[DATABASE/armorgroup/Composite|Composite]]
 
 ---
 Leather lamellar is a composite armor made of small rectangular pieces of lacquered leather laced together with high-quality cord. It's typically worn with an undershirt.
@@ -35,14 +36,14 @@ Leather lamellar is a composite armor made of small rectangular pieces of lacque
 
 **Laminar:**
 
-The armor is made up of layered sections, so when it breaks, it isn't as much of a problem. The status penalty to AC if this armor is [[Broken]] is –1 for broken medium armor, –2 for broken heavy armor, or no penalty for broken light armor.
+The armor is made up of layered sections, so when it breaks, it isn't as much of a problem. The status penalty to AC if this armor is [[DATABASE/condition/Broken|broken]] is –1 for broken medium armor, –2 for broken heavy armor, or no penalty for broken light armor.
 
 ## Armor Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain class features can grant you additional benefits with certain armors. This is called an armor specialization effect. The exact effect depends on which armor group your armor belongs to, as listed below. Only medium and heavy armors have armor specialization effects.
 **Composite**: The numerous overlapping pieces of this armor protect you from piercing attacks. You gain resistance to piercing damage equal to 1 + the value of the armor’s potency rune for medium armor, or 2 + the value of the armor’s potency rune for heavy armor.
 
 ## Specific Magic Armor
 
-[[Rusting Carapace]]
+[[DATABASE/equipment/Rusting Carapace|Rusting Carapace]]

@@ -11,6 +11,7 @@ name: Favor of Heaven
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Favor of Heaven <span class="item-type">Feat 17</span>
 
 <span class="item-trait">Tengu</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-You're one of [[Hei Feng]] chosen people and have the authority of the Celestial Court on your side. Once per day, you can cast a 6th-level [[Spirit Blast]] as a divine innate spell. In addition, you gain resistance 5 to both good and evil damage.
+You're one of [[DATABASE/deity/Hei Feng|Hei Feng's]] chosen people and have the authority of the Celestial Court on your side. Once per day, you can cast a 6th-level [[DATABASE/spell/Spirit Blast|spirit blast]] as a divine innate spell. In addition, you gain resistance 5 to both good and evil damage.
 
 ## Traits
 

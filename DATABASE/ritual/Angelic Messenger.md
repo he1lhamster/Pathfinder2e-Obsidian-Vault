@@ -13,6 +13,7 @@ primary_check: '[[DATABASE/skill/Religion|Religion]] (expert; you must be an [[D
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: Conjuration
 secondary_casters: null
 secondary_check: null
@@ -27,9 +28,9 @@ type: Ritual
 # Angelic Messenger<span class="item-type">Ritual 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Conjuration</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Cast** 1 day
-**Primary Check** [[Religion]] (expert; you must be an [[Angel]])
+**Primary Check** [[DATABASE/skill/Religion|Religion]] (expert; you must be an [[DATABASE/monsterfamily/Angel|angel]])
 
 ---
 You transport yourself to either a celestial plane or a world on the Material Plane where worshippers of your patron can be found. You must be of no higher level than double _angelic messenger’s_ spell level.

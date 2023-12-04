@@ -11,6 +11,7 @@ name: Supreme Psychic Center
 prerequisite: '[[DATABASE/feat/Psychic Duelist Dedication|Psychic Duelist Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Supreme Psychic Center <span class="action-icon">4</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Dark Archive]]
-**Archetype** [[Psychic Duelist]]
-**Prerequisites** [[Psychic Duelist Dedication]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Archetype** [[DATABASE/archetype/Psychic Duelist|Psychic Duelist]]
+**Prerequisites** [[DATABASE/feat/Psychic Duelist Dedication|Psychic Duelist Dedication]]
 **Trigger** Your turn in a psychic duel begins.
 
 ---

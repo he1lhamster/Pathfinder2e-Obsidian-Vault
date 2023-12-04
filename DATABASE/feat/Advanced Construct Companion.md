@@ -11,6 +11,7 @@ name: Advanced Construct Companion
 prerequisite: construct companion
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Advanced Construct Companion <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Inventor</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Prerequisites** construct companion
 
 ---
@@ -31,4 +32,4 @@ You've upgraded your construct companion's power and decision-making ability. It
 
 ## Advanced Construct Companion Leads To...
 
-[[Incredible Construct Companion]]
+[[DATABASE/feat/Incredible Construct Companion|Incredible Construct Companion]]

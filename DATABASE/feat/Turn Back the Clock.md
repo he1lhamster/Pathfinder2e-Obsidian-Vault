@@ -11,6 +11,7 @@ name: Turn Back the Clock
 prerequisite: '[[DATABASE/feat/Chronoskimmer Dedication|Chronoskimmer Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -25,10 +26,10 @@ type: Feat
 # Turn Back the Clock <span class="action-icon">5</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Concentrate</span><span class="item-trait">Fortune</span>
-**Source** [[Dark Archive]]
-**Archetype** [[Chronoskimmer]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Archetype** [[DATABASE/archetype/Chronoskimmer|Chronoskimmer]]
 **Frequency** once per day
-**Prerequisites** [[Chronoskimmer Dedication]]
+**Prerequisites** [[DATABASE/feat/Chronoskimmer Dedication|Chronoskimmer Dedication]]
 **Trigger** You fail a skill check or saving throw.
 
 ---

@@ -7,6 +7,7 @@ id: '905'
 name: Resist Magic
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait: null
@@ -17,7 +18,7 @@ type: Action
 ---
 # Resist Magic <span class="action-icon">5</span>
 
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Trigger** You attempt a saving throw against a harmful magical effect but haven't rolled yet.
 
 ---

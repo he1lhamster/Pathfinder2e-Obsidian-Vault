@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: DC 15 Fortitude
 school: null
 size: null
@@ -58,11 +59,11 @@ weapon_type: null
 # Cytillesh<span class="item-type">Item 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Drug</span><span class="item-trait">Ingested</span><span class="item-trait">Poison</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Price** 30 gp
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
 ---
-Deros use cytillesh in a variety of ways, and some surface-dwellers seek out the fungus for their own use. Memories lost to cytillesh can be restored through [[Modify Memory]]. The save for addiction to cytillesh is DC 20, and the addiction has the virulent trait.
-**Saving Throw** DC 15 Fortitude; **Maximum Duration** 8 hours; **Stage 1** [[Stupefied]] (1 minute); **Stage 2** lose all memories made in the previous hour (1 hour)
+Deros use cytillesh in a variety of ways, and some surface-dwellers seek out the fungus for their own use. Memories lost to cytillesh can be restored through [[DATABASE/spell/Modify Memory|modify memory]]. The save for addiction to cytillesh is DC 20, and the addiction has the virulent trait.
+**Saving Throw** DC 15 Fortitude; **Maximum Duration** 8 hours; **Stage 1** [[DATABASE/condition/Stupefied|stupefied 1]] (1 minute); **Stage 2** lose all memories made in the previous hour (1 hour)

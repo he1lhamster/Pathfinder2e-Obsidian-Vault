@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -39,7 +40,7 @@ type: Spell
 # Detect Alignment<span class="item-type">Spell 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Detection</span><span class="item-trait">Divination</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** divine, occult
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Area** 30-foot emanation
@@ -57,10 +58,11 @@ The strength of an alignment aura depends on the level of the creature, item, or
 
 ## Alignment Aura
 
-| Creature or Item Level   | Spell or Effect Level   | Aura Strength   |
-|:-------------------------|:------------------------|:----------------|
-| 0-5                      | —                       | nan             |
-| 6-10                     | 0-3                     | Faint           |
-| 11-15                    | 4-7                     | Moderate        |
-| 16-20                    | 8-9                     | Powerful        |
-| 21+                      | 10                      | Overwhelming    |
+| 0 | 1 | 2 |
+|:-----------------------|:----------------------|:--------------|
+| Creature or Item Level | Spell or Effect Level | Aura Strength |
+| 0-5 | — | nan |
+| 6-10 | 0-3 | Faint |
+| 11-15 | 4-7 | Moderate |
+| 16-20 | 8-9 | Powerful |
+| 21+ | 10 | Overwhelming |

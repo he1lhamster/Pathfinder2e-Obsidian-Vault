@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -50,7 +51,7 @@ weapon_type: null
 ---
 # Spyglass<span class="item-type">Item 0+</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 20 gp
 **Hands** 2; **Bulk** L
 
@@ -59,13 +60,13 @@ A typical spyglass lets you see eight times farther than normal.
 
 ## Spyglass<span class="item-type">Item 0</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 20 gp
 **Hands** 2; **Bulk** L
 
 ## Spyglass (Fine)<span class="item-type">Item 4</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 80 gp
 **Hands** 2; **Bulk** L
 A fine spyglass adds a +1 item bonus to Perception checks to notice details at a distance.

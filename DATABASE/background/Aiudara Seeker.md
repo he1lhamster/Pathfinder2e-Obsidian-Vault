@@ -6,6 +6,7 @@ id: '127'
 name: Aiudara Seeker
 prerequisite: null
 rarity: null
+rus_type_level: null
 skill: null
 source: '[[DATABASE/source/Pathfinder 150. Broken Promises|Pathfinder #150: Broken
   Promises]]'
@@ -17,7 +18,7 @@ type: null
 # Aiudara Seeker<span class="item-type">Background</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Legacy - Age of Ashes</span>
-**Source** [[Pathfinder 150. Broken Promises]]
+**Source** [[DATABASE/source/Pathfinder 150. Broken Promises|Pathfinder #150: Broken Promises]]
 The _aiudara_ of Alseta’s Ring have become more well known, and you are interested in learning more about them.
 Choose two ability boosts. One must be to **Intelligence** or **Wisdom**, and one is a free ability boost.
-You're trained in the [[Arcana]] skill, and the [[Lore]] skill. You gain the [[Quick Identification]] skill feat.
+You're trained in the [[DATABASE/skill/Arcana|Arcana]] skill, and the [[DATABASE/skill/Lore|Portal Lore]] skill. You gain the [[DATABASE/feat/Quick Identification|Quick Identification]] skill feat.

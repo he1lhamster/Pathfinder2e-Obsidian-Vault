@@ -11,6 +11,7 @@ name: Halfling Luck
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Halfling Luck <span class="action-icon">4</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Fortune</span><span class="item-trait">Halfling</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Frequency** once per day
 **Trigger** You fail a skill check or saving throw.
 
@@ -33,7 +34,7 @@ Your happy-go-lucky nature makes it seem like misfortune avoids you, and to an e
 
 ## Halfling Luck Leads To...
 
-[[Guiding Luck]], [[Halfling Ingenuity]], [[Incredible Luck (Halfling)]], [[Shared Luck (Halfling)]]
+[[DATABASE/feat/Guiding Luck|Guiding Luck]], [[DATABASE/feat/Halfling Ingenuity|Halfling Ingenuity]], [[DATABASE/feat/Incredible Luck (Halfling)|Incredible Luck (Halfling)]], [[DATABASE/feat/Shared Luck (Halfling)|Shared Luck (Halfling)]]
 
 ## Traits
 
@@ -43,4 +44,4 @@ A fortune effect beneficially alters how you roll your dice. You can never have 
 
 **Halfling:**
 
-A creature with this trait is a member of the [[Halfling]] ancestry. These small people are friendly wanderers considered to be lucky. An ability with this trait can be used or selected only by halflings. A weapon with this trait is created and used by halflings.
+A creature with this trait is a member of the [[DATABASE/ancestry/Halfling|halfling]] ancestry. These small people are friendly wanderers considered to be lucky. An ability with this trait can be used or selected only by halflings. A weapon with this trait is created and used by halflings.

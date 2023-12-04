@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -52,21 +53,21 @@ weapon_type: null
 # Elven Chain<span class="item-type">Item 13+</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** worn armor; **Bulk** L
 
 ---
-Elven chain is a chain shirt made of [[Mithral]] that glitters in even the faintest light. Because it's constructed with small, supple rings, it has no check penalty.
+Elven chain is a chain shirt made of [[DATABASE/equipment/Mithral|mithral]] that glitters in even the faintest light. Because it's constructed with small, supple rings, it has no check penalty.
  Created by elven artisans employing ancient crafting techniques, elven chain is exceptionally quiet. Unlike other chain shirts—even other mithral chain shirts—elven chain does not have the noisy trait. This suit of armor can be etched with runes like any other mithral chain shirt.
 
 ## Elven Chain (Standard-Grade)<span class="item-type">Item 13</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 2,500 gp
 **Craft Requirements** The initial raw materials must include mithral worth at least 3,125 sp.
 
 ## Elven Chain (High-Grade)<span class="item-type">Item 20</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 52,000 gp
 **Craft Requirements** The initial raw materials must include mithral worth at least 20,000 gp.

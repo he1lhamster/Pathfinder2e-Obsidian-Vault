@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Potion Patch<span class="item-type">Item 4+</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Magical</span><span class="item-trait">Transmutation</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Usage** worn; **Bulk** —
 **Activate** <span class="action-icon">1</span> command **Requirements** You must have the _potion patch_ affixed to your skin.
 
@@ -63,19 +64,19 @@ A _potion patch_ is a sticky, bandage-like pad that can be filled with one potio
 
 ## Potion Patch (Lesser)<span class="item-type">Item 4</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 20 gp
 The potion must be 10th level or lower.
 
 ## Potion Patch (Moderate)<span class="item-type">Item 8</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 100 gp
 **Bulk** L
 The potion must be 15th level or lower.
 
 ## Potion Patch (Greater)<span class="item-type">Item 13</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 600 gp
 The potion can be any level.

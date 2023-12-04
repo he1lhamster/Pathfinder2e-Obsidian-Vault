@@ -12,6 +12,7 @@ name: Whip Claw
 price: 5 gp
 range: null
 rarity: Uncommon
+rus_type_level: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 trait:
 - '[[DATABASE/trait/Catfolk|Catfolk]]'
@@ -28,19 +29,19 @@ weapon_type: Melee
 # Whip Claw
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Catfolk</span><span class="item-trait">Finesse</span><span class="item-trait">Hampering</span><span class="item-trait">Reach</span>
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 **Price** 5 gp; **Damage** 1d6 S; **Bulk** 1
 **Hands** 2
-**Type** Melee; **Category** Advanced; **Group** [[Flail]]
+**Type** Melee; **Category** Advanced; **Group** [[DATABASE/weapongroup/Flail|Flail]]
 
 ---
-The whip claw is a long tether affixed to clawlike daggers, allowing the wielder to fling and retract them with deadly precision. [[Catfolk]] developed this weapon to provide extended reach when hunting dangerous animals and wield them with unmatched expertise.
+The whip claw is a long tether affixed to clawlike daggers, allowing the wielder to fling and retract them with deadly precision. [[DATABASE/ancestry/Catfolk|Catfolk]] developed this weapon to provide extended reach when hunting dangerous animals and wield them with unmatched expertise.
 
 ## Traits
 
 **Catfolk:**
 
-A creature with this trait is a member of the [[Catfolk]] ancestry. Catfolk are humanoids with feline features. An ability with this trait can be used or selected only by catfolk. An item with this trait is created and used by catfolk.
+A creature with this trait is a member of the [[DATABASE/ancestry/Catfolk|catfolk]] ancestry. Catfolk are humanoids with feline features. An ability with this trait can be used or selected only by catfolk. An item with this trait is created and used by catfolk.
 
 **Finesse:**
 
@@ -56,10 +57,10 @@ Natural attacks with this trait can be used to attack creatures up to the listed
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.
 
 ## Critical Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
-**Flail**: The target is knocked [[Prone]].
+**Flail**: The target is knocked [[DATABASE/condition/Prone|prone]].

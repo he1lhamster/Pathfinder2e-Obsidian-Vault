@@ -67,16 +67,16 @@ wisdom: '+0'
 # Khefak Scuttler
 
 These small creatures are ubiquitous vermin found across much of Akiton.
-**Recall Knowledge - Animal ([[Nature]])**: DC 15
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Khefak Scuttler<span class="item-type">Creature -1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Small</span><span class="item-trait">Animal</span>
-**Source** [[Pathfinder 173. Doorway to the Red Star]]
-**Perception** +4; [[Darkvision]], [[Tremorsense]] (imprecise) 60 feet
-**Skills** [[Acrobatics]] +5, [[Athletics]] +2, [[Stealth]] +5
+**Source** [[DATABASE/source/Pathfinder 173. Doorway to the Red Star|Pathfinder #173: Doorway to the Red Star]]
+**Perception** +4; [[DATABASE/monsterability/Darkvision|darkvision]], [[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 60 feet
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +5, [[DATABASE/skill/Athletics|Athletics]] +2, [[DATABASE/skill/Stealth|Stealth]] +5
 **Str** +0, **Dex** +1, **Con** +3, **Int** -5, **Wis** +0, **Cha** -3
 **Consume Objects** A khefak can gain nourishment by eating objects with hardness 10 or lower. When attacking an object with its mandibles, it ignores the first 10 points of that object's Hardness.
 

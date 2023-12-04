@@ -11,6 +11,7 @@ name: Lizardfolk Lore
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Lizardfolk Lore <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Lizardfolk</span>
-**Source** [[Character Guide]]
+**Source** [[DATABASE/source/Character Guide|Character Guide]]
 
 ---
-You listened carefully to the tales passed down among your community. You gain the trained proficiency rank in [[Nature]] and [[Survival]]. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. You also become trained in Iruxi [[Lore]].
+You listened carefully to the tales passed down among your community. You gain the trained proficiency rank in [[DATABASE/skill/Nature|Nature]] and [[DATABASE/skill/Survival|Survival]]. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. You also become trained in Iruxi [[DATABASE/skill/Lore|Lore]].
 
 ## Traits
 

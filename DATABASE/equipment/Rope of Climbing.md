@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -53,7 +54,7 @@ weapon_type: null
 # Rope of Climbing<span class="item-type">Item 3+</span>
 
 <span class="item-trait">Magical</span><span class="item-trait">Transmutation</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Usage** held in 1 hand; **Bulk** L
 
 ---
@@ -62,20 +63,20 @@ This silk rope measures 50 feet long and is capable of holding up to 3,000 pound
 
 ## Rope of Climbing (Lesser)<span class="item-type">Item 3</span>
 
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Price** 45 gp
 **Bulk** L
 
 ## Rope of Climbing (Moderate)<span class="item-type">Item 5</span>
 
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Price** 125 gp
 **Bulk** L
 You can activate the _moderate rope of climbing_ once per hour instead of once per day.
 
 ## Rope of Climbing (Greater)<span class="item-type">Item 7</span>
 
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Price** 300 gp
 **Bulk** L
 You can activate the _greater rope of climbing_ without any frequency limit.

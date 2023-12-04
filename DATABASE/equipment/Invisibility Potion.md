@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Illusion
 size: null
@@ -56,10 +57,10 @@ weapon_type: null
 # Invisibility Potion<span class="item-type">Item 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Consumable</span><span class="item-trait">Illusion</span><span class="item-trait">Magical</span><span class="item-trait">Potion</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 20 gp
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
 ---
-An invisibility potion is colorless and oddly lightweight. Upon drinking it, you gain the effects of a 2nd-level [[Invisibility]] spell.
+An invisibility potion is colorless and oddly lightweight. Upon drinking it, you gain the effects of a 2nd-level [[DATABASE/spell/Invisibility|invisibility]] spell.

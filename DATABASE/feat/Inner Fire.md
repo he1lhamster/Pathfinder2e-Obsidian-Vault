@@ -11,6 +11,7 @@ name: Inner Fire
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,13 +24,13 @@ type: Feat
 # Inner Fire <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Ifrit</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-You can call the fire inside you into the palm of your hand. You can cast the [[Produce Flame]] cantrip as an innate primal or arcane spell at will. A cantrip is heightened to a spell level equal to half your level rounded up.
+You can call the fire inside you into the palm of your hand. You can cast the [[DATABASE/spell/Produce Flame|produce flame]] cantrip as an innate primal or arcane spell at will. A cantrip is heightened to a spell level equal to half your level rounded up.
 
 ## Traits
 
 **Ifrit:**
 
-Ifrits are planar scions descended from [[Efreeti]].
+Ifrits are planar scions descended from [[DATABASE/monster/Efreeti|efreet]].

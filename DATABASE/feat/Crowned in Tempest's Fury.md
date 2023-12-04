@@ -11,6 +11,7 @@ name: Crowned in Tempest's Fury
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -28,15 +29,15 @@ type: Feat
 # Crowned in Tempest's Fury <span class="action-icon">1</span> <span class="item-type">Feat 18</span>
 
 <span class="item-trait">Air</span><span class="item-trait">Electricity</span><span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Primal</span><span class="item-trait">Stance</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
-You become one with a devastating thunderstorm from the [[Plane of Air]], placing a crown of lightning upon your brow. Sparks flash in your eyes, and lightning strikes constantly in the air around you as howling winds lift you from the ground.
+You become one with a devastating thunderstorm from the [[DATABASE/plane/Plane of Air|Plane of Air]], placing a crown of lightning upon your brow. Sparks flash in your eyes, and lightning strikes constantly in the air around you as howling winds lift you from the ground.
 
 * Any creature that enters your kinetic aura or ends its turn there takes 2d12 electricity damage.
-* If you don't have a fly Speed, you gain a 20-foot fly Speed. If you have the [[Cyclonic Ascent]] impulse, you instead gain that fly Speed and the extra benefits.
+* If you don't have a fly Speed, you gain a 20-foot fly Speed. If you have the [[DATABASE/feat/Cyclonic Ascent|Cyclonic Ascent]] impulse, you instead gain that fly Speed and the extra benefits.
 * You gain a +10-foot status bonus to all your Speeds.
-* Your air [[Elemental Blast]] deal an additional 1d12 electricity damage.
+* Your air [[DATABASE/action/Elemental Blast|Elemental Blasts]] deal an additional 1d12 electricity damage.
 
 ## Traits
 

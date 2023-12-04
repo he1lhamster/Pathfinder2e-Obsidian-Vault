@@ -94,22 +94,22 @@ wisdom: '+0'
 # Wood Golem
 
 Wood golems are often given vaguely humanoid shapes, almost as if cobbled together from scraps of firewood and discarded burls. It's less common for wood golems to have artistic embellishments such as engraved patterns, or to be carved in the shapes of different types of creatures to meet the tastes of their owners. While wealthy patrons have been known to commission wood golems to be painstakingly carved to resemble themselves or their ancestors, to serve dual purposes of protection and ego bolstering, most wood golem crafters don't bother. Druids and creatures who protect woodlands, such as arboreals, typically see wood golems as an affront or an abomination, akin to the horror humanoids often feel when facing a carrion or flesh golem. As a result, it is rare to see such creatures serving as guardians for fey or druidic holy sites, despite the thematic match between the wood golem's appearance and such locations.
-**Recall Knowledge - Construct ([[Arcana]], [[Crafting]])**: DC 24
+**Recall Knowledge - Construct ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Crafting|Crafting]])**: DC 24
 **Unspecific Lore**: DC 22
 **Specific Lore**: DC 19
 
 # Wood Golem<span class="item-type">Creature 6</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Construct</span><span class="item-trait">Golem</span><span class="item-trait">Mindless</span>
-**Source** [[Bestiary 2]] 
-**Perception** +12; [[Darkvision]]
-**Skills** [[Athletics]] +17
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +12; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +17
 **Str** +5, **Dex** +4, **Con** +3, **Int** -5, **Wis** +0, **Cha** -5
 
 ---
 **AC** 23; **Fort** +15, **Ref** +16, **Will** +12
-**HP** 95; **Immunities** bleed, death effects, disease, [[Doomed]], [[Drained]], [[Fatigued]], healing, magic (see Golem Antimagic below), mental, necromancy, nonlethal attacks, [[Paralyzed]], poison, [[Sickened]], [[Unconscious]]; **Resistances** physical 5 (except adamantine)
-<span class="in-box-ability">**Golem Antimagic** harmed by fire (4d8, 2d6 from areas or [[Persistent Damage]]); healed by plant (area 2d6 HP); [[Slowed]] by earth</span><span class="in-box-ability">**Vulnerable to Shape Wood** A wood golem targeted by [[Shape Wood]] takes 2d8 damage per spell level, with a basic Fortitude save against the caster's spell DC. On a critical failure, the golem is also [[Immobilized]] for 1d4 rounds.</span><span class="in-box-ability">**Splinter <span class="action-icon">5</span> ** (arcane, transmutation) **Trigger** The wood golem takes physical damage; **Effect** A jagged, sizable splinter of wood lances out at the golem's attacker. The golem makes a splinter Strike against an adjacent creature without triggering reactions.</span>
+**HP** 95; **Immunities** bleed, death effects, disease, [[DATABASE/condition/Doomed|doomed]], [[DATABASE/condition/Drained|drained]], [[DATABASE/condition/Fatigued|fatigued]], healing, magic (see Golem Antimagic below), mental, necromancy, nonlethal attacks, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Sickened|sickened]], [[DATABASE/condition/Unconscious|unconscious]]; **Resistances** physical 5 (except adamantine)
+<span class="in-box-ability">**Golem Antimagic** harmed by fire (4d8, 2d6 from areas or [[DATABASE/condition/Persistent Damage|persistent damage]]); healed by plant (area 2d6 HP); [[DATABASE/condition/Slowed|slowed]] by earth</span><span class="in-box-ability">**Vulnerable to Shape Wood** A wood golem targeted by [[DATABASE/spell/Shape Wood|shape wood]] takes 2d8 damage per spell level, with a basic Fortitude save against the caster's spell DC. On a critical failure, the golem is also [[DATABASE/condition/Immobilized|immobilized]] for 1d4 rounds.</span><span class="in-box-ability">**Splinter <span class="action-icon">5</span> ** (arcane, transmutation) **Trigger** The wood golem takes physical damage; **Effect** A jagged, sizable splinter of wood lances out at the golem's attacker. The golem makes a splinter Strike against an adjacent creature without triggering reactions.</span>
 
 ---
 **Speed** 25 feet

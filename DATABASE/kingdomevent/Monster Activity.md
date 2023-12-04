@@ -3,6 +3,7 @@ id: '22'
 level: '0'
 name: Monster Activity
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Defense|Defense]]'
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
@@ -16,10 +17,10 @@ type: Kingdom Event
 # Monster Activity<span class="item-type">Event +0</span>
 
 <span class="item-trait">Continuous</span><span class="item-trait">Dangerous</span><span class="item-trait">Hex-KM</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 **Location** A claimed hex chosen by the GM that isn't in the influence of a settlement
 A monster, or even an entire group of monsters attacks the kingdom! Determine the encounter by rolling on the random encounter table for the Stolen Lands Zone that is the same level as the kingdom's level (see the Stolen Lands Zones table on page 45). If the kingdom is 20th level, roll on the Branthlend Mountains table (page 117) and apply the elite adjustments to the creatures.
-**Kingdom Skill** [[Defense]]; **Leader** Ruler
+**Kingdom Skill** [[DATABASE/skill/Defense|Defense]]; **Leader** Ruler
 **Critical Success** The monsters are slain or driven off without harm to your kingdom. Even better, an unexpected claim of treasure gained from the monster lair grants 1d4 Luxuries and 2 bonus Resource Dice on the next turn.
 **Success** The monsters attack some of your citizens but are driven off before they do too much damage. The threat persists, and while fear continues to slowly spread, your kingdom suffers no physical damage at this time. Increase Unrest by 1.
 **Failure** The monsters' rampage terrorizes the countryside and results in frightening rumors even in the heart of the kingdom's safest cities. The closest Farmland or Work Site to the monster's hex is destroyed. Gain 1d4 Unrest and 1 Decay.

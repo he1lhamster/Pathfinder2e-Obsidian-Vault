@@ -11,6 +11,7 @@ name: Acute Vision
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,11 +24,11 @@ type: Feat
 # Acute Vision <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Barbarian</span>
-**Source** [[Core Rulebook]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
 When you are raging, your visual senses improve, granting you darkvision.
 
 ## Acute Vision Leads To...
 
-[[Acute Scent]]
+[[DATABASE/feat/Acute Scent|Acute Scent]]

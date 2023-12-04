@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Golem Grafter Dedication|Golem Grafter Dedication
   ; expert in unarmed attacks'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 153. Life''s Long Shadows|Pathfinder #153: Life''s
   Long Shadows]]'
@@ -26,9 +27,9 @@ type: Feat
 # Accursed Clay Fist <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Curse</span>
-**Source** [[Pathfinder 153. Life's Long Shadows]]
-**Archetype** [[Golem Grafter]]
-**Prerequisites** [[Golem Grafter Dedication]]; expert in unarmed attacks
+**Source** [[DATABASE/source/Pathfinder 153. Life's Long Shadows|Pathfinder #153: Life's Long Shadows]]
+**Archetype** [[DATABASE/archetype/Golem Grafter|Golem Grafter]]
+**Prerequisites** [[DATABASE/feat/Golem Grafter Dedication|Golem Grafter Dedication]]; expert in unarmed attacks
 
 ---
 You have replaced one of your forearms with one made of clay and infused with cursed arcane magic. When you make an unarmed Strike with your clay fist and hit, your target takes a –2 status penalty to saving throws against curse effects for 1 hour.

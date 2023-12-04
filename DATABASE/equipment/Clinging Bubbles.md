@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Clinging Bubbles<span class="item-type">Item 3+</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Magical</span><span class="item-trait">Transmutation</span>
-**Source** [[Firebrands]]
+**Source** [[DATABASE/source/Firebrands|Firebrands]]
 **Usage** held in 2 hands; **Bulk** L
 
 ---
@@ -63,20 +64,20 @@ This small vial of viscous, clear, soapy solution comes with a wand, attached to
 
 ## Clinging Bubbles (Lesser)<span class="item-type">Item 3</span>
 
-**Source** [[Firebrands]]
+**Source** [[DATABASE/source/Firebrands|Firebrands]]
 **Price** 12 gp
 **Bulk** L
 
 ## Clinging Bubbles (Moderate)<span class="item-type">Item 7</span>
 
-**Source** [[Firebrands]]
+**Source** [[DATABASE/source/Firebrands|Firebrands]]
 **Price** 70 gp
 **Bulk** L
 The cloud of bubbles takes up a 5-foot burst. Creatures covered in bubbles take a –10-foot circumstance penalty. Each Interact action used to pop bubbles reduces the penalty by 5 feet. The cloud of bubbles has 30 Hit Points.
 
 ## Clinging Bubbles (Greater)<span class="item-type">Item 11</span>
 
-**Source** [[Firebrands]]
+**Source** [[DATABASE/source/Firebrands|Firebrands]]
 **Price** 250 gp
 **Bulk** L
 The cloud of bubbles takes up a 10-foot burst. Creatures covered in bubbles take a –15-foot circumstance penalty. Each Interact action used to pop bubbles reduces the penalty by 5 feet. The cloud of bubbles has 40 Hit Points.

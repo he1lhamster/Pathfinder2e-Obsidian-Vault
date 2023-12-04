@@ -2,6 +2,7 @@
 id: '12'
 name: Establish Settlement
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait: null
 type: General Skill Action
@@ -9,19 +10,19 @@ type: General Skill Action
 ---
 # Establish Settlement (Untrained)
 
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 
 ## Skill Uses
 
-[[Engineering]] Establish Settlement
-[[Industry]] Establish Settlement
-[[Politics]] Establish Settlement
-[[Scholarship]] Establish Settlement
+[[DATABASE/skill/Engineering|Engineering]] Establish Settlement
+[[DATABASE/skill/Industry|Industry]] Establish Settlement
+[[DATABASE/skill/Politics|Politics]] Establish Settlement
+[[DATABASE/skill/Scholarship|Scholarship]] Establish Settlement
 
-## [[Establish Settlement]]
+## [[DATABASE/action/Establish Settlement|Establish Settlement]]
 
 <span class="item-trait">Downtime</span><span class="item-trait">Region</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 **Requirements** The hex in which you're establishing the settlement has been Cleared and doesn't currently have a settlement (including a Freehold) in it.
 
 ---

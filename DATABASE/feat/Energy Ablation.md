@@ -11,6 +11,7 @@ name: Energy Ablation
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Energy Ablation <span class="action-icon">1</span> <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Metamagic</span><span class="item-trait">Wizard</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
 When you cast energy spells, you retain some of that energy as a protective barrier. If your next action is to Cast a Spell that deals energy damage, whether or not it successfully deals damage, you gain resistance to that type of energy equal to the spell's level (minimum 1) until the end of your next turn. If the spell deals more than one type of energy damage, choose one and gain resistance to that type.

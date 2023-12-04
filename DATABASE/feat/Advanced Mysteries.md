@@ -11,6 +11,7 @@ name: Advanced Mysteries
 prerequisite: '[[DATABASE/feat/Basic Mysteries|Basic Mysteries]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Advanced Mysteries <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Oracle]]
-**Prerequisites** [[Basic Mysteries]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Oracle|Oracle]]
+**Prerequisites** [[DATABASE/feat/Basic Mysteries|Basic Mysteries]]
 
 ---
 You gain one oracle feat. For meeting its prerequisites, your oracle level is equal to half your level.

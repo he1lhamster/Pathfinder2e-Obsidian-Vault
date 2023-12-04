@@ -23,6 +23,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -40,9 +41,9 @@ type: Spell
 # Floating Disk<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Conjuration</span><span class="item-trait">Force</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult
-**Deities** [[Casandalee]], [[Horus]]
+**Deities** [[DATABASE/deity/Casandalee|Casandalee]], [[DATABASE/deity/Horus|Horus]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Duration** 8 hours
 

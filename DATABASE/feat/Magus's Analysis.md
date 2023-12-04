@@ -11,6 +11,7 @@ name: Magus's Analysis
 prerequisite: '[[DATABASE/action/Spellstrike|Spellstrike]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Magus's Analysis <span class="action-icon">1</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Magus</span>
-**Source** [[Secrets of Magic]] 
-**Prerequisites** [[Spellstrike]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
+**Prerequisites** [[DATABASE/action/Spellstrike|Spellstrike]]
 
 ---
-You make an assessment informed by your knowledge of how a creature fights. Attempt a check to [[Recall Knowledge]] about a creature. You gain a +1 circumstance bonus to your check if you previously hit the creature with a Strike this turn. If your check is successful, recharge your Spellstrike. The subject of your check is temporarily immune to Magus's Analysis for 1 day.
+You make an assessment informed by your knowledge of how a creature fights. Attempt a check to [[DATABASE/action/Recall Knowledge|Recall Knowledge]] about a creature. You gain a +1 circumstance bonus to your check if you previously hit the creature with a Strike this turn. If your check is successful, recharge your Spellstrike. The subject of your check is temporarily immune to Magus's Analysis for 1 day.

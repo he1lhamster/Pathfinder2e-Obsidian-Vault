@@ -13,6 +13,7 @@ name: Bo Staff
 price: 2 sp
 range: null
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Monk|Monk]]'
@@ -28,11 +29,11 @@ weapon_type: Melee
 # Bo Staff
 
 <span class="item-trait">Monk</span><span class="item-trait">Parry</span><span class="item-trait">Reach</span><span class="item-trait">Trip</span>
-**Source** [[Core Rulebook]] 
-**Favored Weapon** [[Sun Wukong]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Favored Weapon** [[DATABASE/deity/Sun Wukong|Sun Wukong]]
 **Price** 2 sp; **Damage** 1d8 B; **Bulk** 2
 **Hands** 2
-**Type** Melee; **Category** Martial; **Group** [[Club]]
+**Type** Melee; **Category** Martial; **Group** [[DATABASE/weapongroup/Club|Club]]
 
 ---
 This strong but slender staff is tapered at the ends and well balanced. It’s designed to be an offensive and defensive weapon.
@@ -41,7 +42,7 @@ This strong but slender staff is tapered at the ends and well balanced. It’s d
 
 **Monk:**
 
-Abilities with this trait are from the [[Monk]] class. A weapon with this trait is primarily used by monks.
+Abilities with this trait are from the [[DATABASE/class_/Monk|monk]] class. A weapon with this trait is primarily used by monks.
 
 **Parry:**
 
@@ -53,14 +54,14 @@ Natural attacks with this trait can be used to attack creatures up to the listed
 
 **Trip:**
 
-You can use this weapon to [[Trip]] with the [[Athletics]] skill even if you don't have a free hand. This uses the weapon's reach (if different from your own) and adds the weapon's item bonus to attack rolls as an item bonus to the Athletics check. If you critically fail a check to Trip using the weapon, you can drop the weapon to take the effects of a failure instead of a critical failure.
+You can use this weapon to [[DATABASE/action/Trip|Trip]] with the [[DATABASE/skill/Athletics|Athletics]] skill even if you don't have a free hand. This uses the weapon's reach (if different from your own) and adds the weapon's item bonus to attack rolls as an item bonus to the Athletics check. If you critically fail a check to Trip using the weapon, you can drop the weapon to take the effects of a failure instead of a critical failure.
 
 ## Critical Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
 **Club**: You knock the target away from you up to 10 feet (you choose the distance). This is forced movement.
 
 ## Specific Magic Weapons
 
-[[Acrobat's Staff]], [[Dragonscale Staff]], [[Twining Staff]]
+[[DATABASE/equipment/Acrobat's Staff|Acrobat's Staff]], [[DATABASE/equipment/Dragonscale Staff|Dragonscale Staff]], [[DATABASE/equipment/Twining Staff|Twining Staff]]

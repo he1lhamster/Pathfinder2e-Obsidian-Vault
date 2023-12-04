@@ -64,20 +64,20 @@ wisdom: '+3'
 # Abendego Brute
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 24
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 24
 **Unspecific Lore**: DC 22
 **Specific Lore**: DC 19
 
 # Abendego Brute<span class="item-type">Creature 8</span>
 
 <span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 171. Hurricane's Howl]]
-[[Human]] bruiser
+**Source** [[DATABASE/source/Pathfinder 171. Hurricane's Howl|Pathfinder #171: Hurricane's Howl]]
+[[DATABASE/ancestry/Human|Human]] bruiser
 **Perception** +15
-**Languages** [[Common]]
-**Skills** [[Athletics]] +18, [[Intimidation]] +16, [[Stealth]] +14, [[Survival]] +15
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +18, [[DATABASE/skill/Intimidation|Intimidation]] +16, [[DATABASE/skill/Stealth|Stealth]] +14, [[DATABASE/skill/Survival|Survival]] +15
 **Str** +4, **Dex** +2, **Con** +4, **Int** -1, **Wis** +3, **Cha** +2
-**Items** [[Religious Symbol]] of [[Norgorber]], [[Fighter's Fork]], scale armor
+**Items** [[DATABASE/equipment/Religious Symbol|religious symbol]] of [[DATABASE/deity/Norgorber|Norgorber]], [[DATABASE/equipment/Fighter's Fork|fighter's fork]], scale armor
 
 ---
 **AC** 27; **Fort** +19, **Ref** +15, **Will** +14
@@ -86,4 +86,4 @@ This creature did not include a description.
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _fighter's fork_ +20 [+15/+10] (magical, shove), **Damage** 3d8+8 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +19 [+15/+11] (agile, unarmed), **Damage** 1d10+8 bludgeoning plus [[Push]]</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _fighter's fork_ +18 [+13/+8] (magical, thrown 20 feet), **Damage** 3d8+8 piercing</span><span class="in-box-ability">**Brute Strength** Abendego brutes deal an extra 2d8 damage with [[Trident]], and a trident gains the shove trait while the brute is using it in melee (both the extra damage dice and the shove trait are included in the fighter's fork Strikes above).</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _fighter's fork_ +20 [+15/+10] (magical, shove), **Damage** 3d8+8 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +19 [+15/+11] (agile, unarmed), **Damage** 1d10+8 bludgeoning plus [[DATABASE/monsterability/Push|Push]]</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _fighter's fork_ +18 [+13/+8] (magical, thrown 20 feet), **Damage** 3d8+8 piercing</span><span class="in-box-ability">**Brute Strength** Abendego brutes deal an extra 2d8 damage with [[DATABASE/weapon/Trident|tridents]], and a trident gains the shove trait while the brute is using it in melee (both the extra damage dice and the shove trait are included in the fighter's fork Strikes above).</span>

@@ -89,17 +89,17 @@ wisdom: '+3'
 Weird and paranoid creatures that dwell in the Darklands, cloakers resemble hideous, flying manta rays. Crafty and careful hunters, their motivations, their patterns of attack, and even their societies and history are often an inscrutable jumble of contradicting reports, confused rumors, and terrifying accounts.
  Like many of the stranger creatures of Golarion, cloakers were originally created by the alghollthus, who bred them to spy on their Azlanti thralls. Upon the fall of the Azlanti empire, the alghollthus cast out their cloaker creations, who, in turn, fled to the lower reaches of the Darklands. Amid the vaults and twisted corridors of their new home, their attitudes—particularly regarding their apprehension toward their former masters—changed dramatically. Suspicion became paranoia, egotism, sadism, and much worse. Now, most cloakers lead solitary lives, stalking the Darklands for easy prey and delving deeper into internal horrors. Their paranoia is so great that they interact only rarely even with their own kind, encountering another cloaker only briefly to mate before flitting back to isolation.
  But there are exceptions. Every so often, a charismatic cloaker priest can call together a dark cabal of these creatures and other Darklands denizens to worship unspeakable ancient gods. These rare cloakers whip their acolytes and followers into a frenzy of dark rituals and heinous acts. While these cults are depraved and destructive, they rarely survive longer than their founder.
-**Recall Knowledge - Aberration ([[Occultism]])**: DC 20
+**Recall Knowledge - Aberration ([[DATABASE/skill/Occultism|Occultism]])**: DC 20
 **Unspecific Lore**: DC 18
 **Specific Lore**: DC 15
 
 # Cloaker<span class="item-type">Creature 5</span>
 
 <span class="trait-alignment item-trait">CN</span><span class="trait-size item-trait">Large</span><span class="item-trait">Aberration</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +12; darkvision
-**Languages** [[Aklo]], [[Undercommon]]
-**Skills** [[Deception]] +14 (+16 to Impersonate a cloak, sheet, or ray), [[Religion]] +12, [[Stealth]] +14
+**Languages** [[DATABASE/language/Aklo|Aklo]], [[DATABASE/language/Undercommon|Undercommon]]
+**Skills** [[DATABASE/skill/Deception|Deception]] +14 (+16 to Impersonate a cloak, sheet, or ray), [[DATABASE/skill/Religion|Religion]] +12, [[DATABASE/skill/Stealth|Stealth]] +14
 **Str** +5, **Dex** +3, **Con** +4, **Int** +2, **Wis** +3, **Cha** +1
 **Shadow Shift** Cloakers are concealed in dim light even to creatures with low-light vision and darkvision.
 
@@ -120,7 +120,7 @@ A creature that voluntarily puts on the cloaker becomes engulfed automatically. 
 
 ###  Cloaker Allies
 
-On the rare occasions that cloakers associate with other creatures, they tend to ally with those [[Skum (Ulat-Kini)]] who are no longer the thralls of the alghollthus and, rarely, with [[Dero Magister]], though they consider the latter irrational and untrustworthy. Cloakers never willingly associate with alghollthus.
+On the rare occasions that cloakers associate with other creatures, they tend to ally with those [[DATABASE/monster/Skum (Ulat-Kini)|ulat‑kinis]] who are no longer the thralls of the alghollthus and, rarely, with [[DATABASE/monster/Dero Magister|deros]], though they consider the latter irrational and untrustworthy. Cloakers never willingly associate with alghollthus.
 
 ###  Cloaker Locations
 

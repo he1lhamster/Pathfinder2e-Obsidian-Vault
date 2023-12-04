@@ -100,17 +100,17 @@ wisdom: '+6'
 # Neothelid
 
 This gigantic, mauve worm has a hooked mouth with multiple circular bands of teeth and four barbed tongues. A wielder of terrible occult powers and a vast alien intellect, the neothelid serves the ageless horrors that dwell in strange dimensions beyond known reality—the Outer Gods and Great Old Ones of the Elder Mythos. Neothelids pass down these mysteries to the eerie wormlike creatures they spawn and create in preparation for a future where the worms below shall rule—a time when all other life is nothing more than food.
-**Recall Knowledge - Aberration ([[Occultism]])**: DC 36
+**Recall Knowledge - Aberration ([[DATABASE/skill/Occultism|Occultism]])**: DC 36
 **Unspecific Lore**: DC 34
 **Specific Lore**: DC 31
 
 # Neothelid<span class="item-type">Creature 15</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Gargantuan</span><span class="item-trait">Aberration</span>
-**Source** [[Bestiary 2]] 
-**Perception** +29; [[Darkvision]], thoughtsense 100 feet
-**Languages** [[Aklo]], [[Alghollthu]], [[Undercommon]]; [[Telepathy]]
-**Skills** [[Acrobatics]] +25, [[Athletics]] +28, [[Deception]] +29, [[Diplomacy]] +27, [[Intimidation]] +29, [[Occultism]] +29
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +29; [[DATABASE/monsterability/Darkvision|greater darkvision]], thoughtsense 100 feet
+**Languages** [[DATABASE/language/Aklo|Aklo]], [[DATABASE/language/Alghollthu|Alghollthu]], [[DATABASE/language/Undercommon|Undercommon]]; [[DATABASE/monsterability/Telepathy|telepathy 100 feet]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +25, [[DATABASE/skill/Athletics|Athletics]] +28, [[DATABASE/skill/Deception|Deception]] +29, [[DATABASE/skill/Diplomacy|Diplomacy]] +27, [[DATABASE/skill/Intimidation|Intimidation]] +29, [[DATABASE/skill/Occultism|Occultism]] +29
 **Str** +9, **Dex** +4, **Con** +6, **Int** +8, **Wis** +6, **Cha** +8
 **Thoughtsense** (divination, mental, occult) The neothelid uses its mind as a precise sense at the listed range to notice all non-mindless creatures.
 
@@ -121,9 +121,9 @@ This gigantic, mauve worm has a hooked mouth with multiple circular bands of tee
 
 ---
 **Speed** 30 feet, fly 50 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +28 [+23/+18] (reach 15 feet), **Damage** 3d12+13 piercing plus [[Improved Grab]]</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> rasping tongue +28 [+24/+20] (agile, fatal d10, reach 25 feet), **Damage** 3d8+13 slashing</span>**Occult Innate Spells** DC 38, attack +30; **8th** _[[Charm]]_, _[[Suggestion]]_, _[[Summon Entity]]_; **7th** _[[Phantasmal Calamity]]_, _[[Teleport]]_; **6th** _[[Scrying]]_ (×3), _[[Suggestion]]_ (at will); **5th** _[[Mind Probe]]_ (at will), _[[Telekinetic Haul]]_ (at will); **Cantrips** **(8th)** _[[Daze]]_, _[[Detect Magic]]_, _[[Mage Hand]]_, _[[Telekinetic Projectile]]_
-**Rituals** DC 38; **3rd** _[[Geas]]_; **2nd** _[[Inveigle]]_
-<span class="in-box-ability">**Breath Weapon** <span class="action-icon">2</span> (acid, evocation, occult) The neothelid breathes a spray of acid that deals 16d6 acid damage in a 60-foot cone (DC 38 basic Reflex save). The neothelid can't use Breath Weapon again for 1d4 rounds.</span><span class="in-box-ability">**Instant Suggestion** <span class="action-icon">5</span> **Trigger** A creature fails a Will save against a spell or effect created by the neothelid; **Effect** The neothelid casts a [[Suggestion]] spell it has available on the creature that failed its Will save.</span><span class="in-box-ability">**Lashing Tongues** <span class="action-icon">2</span> The neothelid's four tongues lash out in a frenzy at several targets. It makes up to four rasping tongue Strikes, each against a different target. These attacks count toward the neothelid's multiple attack penalty, but the multiple attack penalty doesn't increase until after the neothelid makes all of its attacks.</span><span class="in-box-ability">**[[Swallow Whole]]** <span class="action-icon">1</span> Large, 2d12 bludgeoning plus 2d12 acid, Rupture 27</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +28 [+23/+18] (reach 15 feet), **Damage** 3d12+13 piercing plus [[DATABASE/monsterability/Improved Grab|Improved Grab]]</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> rasping tongue +28 [+24/+20] (agile, fatal d10, reach 25 feet), **Damage** 3d8+13 slashing</span>**Occult Innate Spells** DC 38, attack +30; **8th** _[[DATABASE/spell/Charm|charm]]_, _[[DATABASE/spell/Suggestion|suggestion]]_, _[[DATABASE/spell/Summon Entity|summon entity]]_; **7th** _[[DATABASE/spell/Phantasmal Calamity|phantasmal calamity]]_, _[[DATABASE/spell/Teleport|teleport]]_; **6th** _[[DATABASE/spell/Scrying|scrying]]_ (×3), _[[DATABASE/spell/Suggestion|suggestion]]_ (at will); **5th** _[[DATABASE/spell/Mind Probe|mind probe]]_ (at will), _[[DATABASE/spell/Telekinetic Haul|telekinetic haul]]_ (at will); **Cantrips** **(8th)** _[[DATABASE/spell/Daze|daze]]_, _[[DATABASE/spell/Detect Magic|detect magic]]_, _[[DATABASE/spell/Mage Hand|mage hand]]_, _[[DATABASE/spell/Telekinetic Projectile|telekinetic projectile]]_
+**Rituals** DC 38; **3rd** _[[DATABASE/ritual/Geas|geas]]_; **2nd** _[[DATABASE/ritual/Inveigle|inveigle]]_
+<span class="in-box-ability">**Breath Weapon** <span class="action-icon">2</span> (acid, evocation, occult) The neothelid breathes a spray of acid that deals 16d6 acid damage in a 60-foot cone (DC 38 basic Reflex save). The neothelid can't use Breath Weapon again for 1d4 rounds.</span><span class="in-box-ability">**Instant Suggestion** <span class="action-icon">5</span> **Trigger** A creature fails a Will save against a spell or effect created by the neothelid; **Effect** The neothelid casts a [[DATABASE/spell/Suggestion|suggestion]] spell it has available on the creature that failed its Will save.</span><span class="in-box-ability">**Lashing Tongues** <span class="action-icon">2</span> The neothelid's four tongues lash out in a frenzy at several targets. It makes up to four rasping tongue Strikes, each against a different target. These attacks count toward the neothelid's multiple attack penalty, but the multiple attack penalty doesn't increase until after the neothelid makes all of its attacks.</span><span class="in-box-ability">**[[DATABASE/monsterability/Swallow Whole|Swallow Whole]]** <span class="action-icon">1</span> Large, 2d12 bludgeoning plus 2d12 acid, Rupture 27</span>
 
 ###  Denebrum
 

@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -52,7 +53,7 @@ weapon_type: null
 # Noqual Armor<span class="item-type">Item 12+</span>
 
 <span class="trait-rare item-trait">Rare</span>
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Usage** worn armor; **Bulk** varies by armor
 
 ---
@@ -60,16 +61,16 @@ The mere sight of a suit of noqual armor is enough to make some opposing spellca
 
 ### Base Material
 
-[[Noqual]]
+[[DATABASE/equipment/Noqual|Noqual]]
 
 ## Noqual Armor (Standard-Grade)<span class="item-type">Item 12</span>
 
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 1,600 gp (+160 gp per Bulk)
 **Craft Requirements** The initial raw materials must include at least 200 gp of noqual + 20 gp per Bulk.
 
 ## Noqual Armor (High-Grade)<span class="item-type">Item 19</span>
 
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 32,000 gp (+3,200 gp per Bulk)
 **Craft Requirements** The initial raw materials must include at least 16,000 gp of noqual + 1,600 gp per Bulk.

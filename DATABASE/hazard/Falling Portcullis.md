@@ -17,6 +17,7 @@ name: Falling Portcullis
 rarity: Common
 reflex: '+11'
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
@@ -30,7 +31,7 @@ will: null
 # Falling Portcullis<span class="item-type">Hazard 6</span>
 
 <span class="item-trait">Mechanical</span><span class="item-trait">Trap</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 **Complexity** Simple
 **Stealth** DC 25 (trained)
 **Description** A tripline under the arch causes the keep's portcullis to slam down, sealing the entrance and alerting the denizens of the keep to the intruder's presence.
@@ -43,4 +44,4 @@ will: null
 **Critical Success** The creature dodges aside into an adjacent square (the player chooses which square they end up in).
 **Success** As critical success, but the creature takes a glancing blow from the falling portcullis and takes 2d8 bludgeoning damage.
 **Failure** As critical success, but the creature takes a solid blow from the falling portcullis and takes 4d8+18 bludgeoning damage. 
-**Critical Failure** The portcullis lands squarely on the creature, inflicting 6d8+18 piercing damage and [[Immobilized]] them. A Medium or smaller creature is also knocked prone.
+**Critical Failure** The portcullis lands squarely on the creature, inflicting 6d8+18 piercing damage and [[DATABASE/condition/Immobilized|immobilizing]] them. A Medium or smaller creature is also knocked prone.

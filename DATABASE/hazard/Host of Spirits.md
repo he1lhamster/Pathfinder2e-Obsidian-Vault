@@ -14,6 +14,7 @@ name: Host of Spirits
 rarity: Common
 reflex: null
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 155. Lord of the Black Sands|Pathfinder #155:
   Lord of the Black Sands]]'
@@ -28,13 +29,13 @@ will: null
 # Host of Spirits<span class="item-type">Hazard 18</span>
 
 <span class="item-trait">Complex</span><span class="item-trait">Haunt</span>
-**Source** [[Pathfinder 155. Lord of the Black Sands]]
+**Source** [[DATABASE/source/Pathfinder 155. Lord of the Black Sands|Pathfinder #155: Lord of the Black Sands]]
 **Complexity** Complex
 **Stealth** +35 (expert)
 **Description** A host of angry spirits inhabiting the ruined house attempts to drag living creatures closer and crush them to death.
 
 ---
-**Disable** DC 43 [[Religion]] (master) to exorcise the spirits or DC 45 [[Deception]] (master) to trick the spirits into departing
+**Disable** DC 43 [[DATABASE/skill/Religion|Religion]] (master) to exorcise the spirits or DC 45 [[DATABASE/skill/Deception|Deception]] (master) to trick the spirits into departing
 **Embrace of Death** <span class="action-icon">5</span> (attack, death, necromancy, occult) **Trigger** A creature that has angered the haunt begins its turn within 50 feet of the ruins of the house; **Effect** The haunt attempts a ghostly hand Strike against the target creature, and then rolls initiative.
 
 ---

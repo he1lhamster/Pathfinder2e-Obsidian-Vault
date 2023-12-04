@@ -7,6 +7,7 @@ id: '912'
 name: Pistoler's Retort
 rarity: Common
 requirement: You're wielding a one-handed firearm or one-handed crossbow.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
@@ -19,7 +20,7 @@ type: Action
 # Pistoler's Retort <span class="action-icon">5</span>
 
 <span class="item-trait">Gunslinger</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Trigger** A foe within the first range increment of the one-handed firearm or one-handed crossbow you're wielding critically fails an attack roll against you.
 **Requirements** You're wielding a one-handed firearm or one-handed crossbow.
 

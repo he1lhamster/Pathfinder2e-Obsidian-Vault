@@ -69,21 +69,21 @@ wisdom: '+1'
 # Ghodrak The Quick
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 30
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 30
 **Unspecific Lore**: DC 28
 **Specific Lore**: DC 25
 
 # Ghodrak The Quick<span class="item-type">Creature 5</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Goblin</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 188. They Watched the Stars]]
+**Source** [[DATABASE/source/Pathfinder 188. They Watched the Stars|Pathfinder #188: They Watched the Stars]]
 Male hobgoblin leader of the Obsidian Oath
-**Perception** +15; [[Darkvision]]
-**Languages** [[Common]], [[Goblin]]
-**Skills** [[Acrobatics]] +13, [[Athletics]] +10, [[Diplomacy]] +12, [[Intimidation]] +13, [[Stealth]] +13, [[Lore]] +12
+**Perception** +15; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Goblin|Goblin]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +13, [[DATABASE/skill/Athletics|Athletics]] +10, [[DATABASE/skill/Diplomacy|Diplomacy]] +12, [[DATABASE/skill/Intimidation|Intimidation]] +13, [[DATABASE/skill/Stealth|Stealth]] +13, [[DATABASE/skill/Lore|Warfare Lore]] +12
 **Str** +2, **Dex** +4, **Con** +2, **Int** +1, **Wis** +1, **Cha** +2
 **Into the Fray <span class="action-icon">4</span> ** **Trigger** Ghodrak rolls initiative; **Effect** Ghodrak Interacts to draw one of his hatchets. On his turn, before doing anything else, he can Stride toward an enemy he can see as a free action.
-**Items** Gray Post keys, [[Hatchet]], [[Leather Armor]], map of Skywatch
+**Items** Gray Post keys, [[DATABASE/weapon/Hatchet|hatchets (4)]], [[DATABASE/armor/Leather Armor|leather armor]], map of Skywatch
 
 ---
 **AC** 22; **Fort** +12, **Ref** +15, **Will** +9

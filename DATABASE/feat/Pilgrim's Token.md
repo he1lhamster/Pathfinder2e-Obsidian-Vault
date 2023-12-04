@@ -11,6 +11,7 @@ name: Pilgrim's Token
 prerequisite: Trained in [[DATABASE/skill/Religion|Religion]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: religion
@@ -24,13 +25,13 @@ type: Feat
 # Pilgrim's Token <span class="item-type">Feat 1</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** trained in [[Religion]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** trained in [[DATABASE/skill/Religion|Religion]]
 
 ---
 You carry a small token of protection from a site holy to your faith, or you touched your religious symbol to a relic or altar at such a site. So long as this token is in your possession, when you tie an adversary's initiative roll, you go first.
 **Special** If you select this feat at 1st level, you receive your pilgrim's token for free. Alternately, if you have a religious symbol, it is already attuned, as described above.
- If you select this feat at a later level, or if you lose your pilgrim's token, you must purchase or [[Craft]] a replacement and attune it at a holy site. Such a token usually costs at least 2 sp, and the attunement takes 10 minutes of prayer and requires a successful DC 20 [[Religion]] check. Your GM might adjust the price and DC depending on the token's material and quality and the religious significance of the site; the more significant the location, the easier the attunement.
+ If you select this feat at a later level, or if you lose your pilgrim's token, you must purchase or [[DATABASE/action/Craft|Craft]] a replacement and attune it at a holy site. Such a token usually costs at least 2 sp, and the attunement takes 10 minutes of prayer and requires a successful DC 20 [[DATABASE/skill/Religion|Religion]] check. Your GM might adjust the price and DC depending on the token's material and quality and the religious significance of the site; the more significant the location, the easier the attunement.
 
 ## Traits
 

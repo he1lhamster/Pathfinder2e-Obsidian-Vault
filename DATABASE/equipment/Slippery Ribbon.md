@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: You are an expert in Acrobatics.
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -58,10 +59,10 @@ weapon_type: null
 # Slippery Ribbon<span class="item-type">Item 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Consumable</span><span class="item-trait">Magical</span><span class="item-trait">Talisman</span><span class="item-trait">Transmutation</span>
-**Source** [[The Slithering]]
+**Source** [[DATABASE/source/The Slithering|The Slithering]]
 **Price** 12 gp
 **Usage** affixed to armor; **Bulk** —
-**Activate** <span class="action-icon">4</span> envision **Trigger** You succeed at an [[Acrobatics]] check to [[Tumble Through]], but you don't have enough Speed to move all the way through the enemy's space; **Requirements** You are an expert in Acrobatics.
+**Activate** <span class="action-icon">4</span> envision **Trigger** You succeed at an [[DATABASE/skill/Acrobatics|Acrobatics]] check to [[DATABASE/action/Tumble Through|Tumble Through]], but you don't have enough Speed to move all the way through the enemy's space; **Requirements** You are an expert in Acrobatics.
 
 ---
 This ribbon is constantly greasy to the touch and stains the armor it's affixed to. When you activate the _slippery ribbon_, your Speed increases by an amount necessary for you to move all the way through the enemy's space.

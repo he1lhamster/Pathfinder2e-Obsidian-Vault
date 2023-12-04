@@ -11,6 +11,7 @@ name: Venom Purge
 prerequisite: Trained in [[DATABASE/skill/Medicine|Medicine]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Venom Purge <span class="action-icon">1</span> <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Vishkanya</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 **Frequency** once per day
-**Prerequisites** trained in [[Medicine]]
+**Prerequisites** trained in [[DATABASE/skill/Medicine|Medicine]]
 
 ---
 You produce a specialized venom that burns out other toxins and impurities in your body. For each disease or poison currently affecting you, attempt a Medicine check to counteract that disease or poison. As normal, your counteract level is equal to half your level rounded up.

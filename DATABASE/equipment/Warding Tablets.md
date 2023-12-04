@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Warding Tablets<span class="item-type">Item 8</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Grimoire</span><span class="item-trait">Magical</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Price** 450 gp
 **Bulk** L
 

@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Champion Dedication|Champion Dedication]] ; exper
   in unarmored defense or one ormore types of armor'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Diverse Armor Expert <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Champion]]
-**Prerequisites** [[Champion Dedication]]; expert in unarmored defense or one or more types of armor
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Champion|Champion]]
+**Prerequisites** [[DATABASE/feat/Champion Dedication|Champion Dedication]]; expert in unarmored defense or one or more types of armor
 
 ---
 Your proficiency ranks for light armor, medium armor, heavy armor, and unarmored defense increase to expert.

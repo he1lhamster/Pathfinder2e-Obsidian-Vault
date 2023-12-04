@@ -14,6 +14,7 @@ language:
 max_speed: '25'
 name: Kitsune
 rarity: Uncommon
+rus_type_level: null
 size: Medium
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 speed:
@@ -29,7 +30,7 @@ vision: Low-Light Vision
 # Kitsune
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Humanoid</span><span class="item-trait">Kitsune</span>
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 _Kitsune are a charismatic and witty people with a connection to the spiritual that grants them many magical abilities, chiefly the power to shapechange into other forms. Whether they pass unseen among other peoples or hold their tails high, kitsune are clever observers of the societies around them._
 Kitsune are shapechangers with two forms: one of a fox-headed humanoid and one largely depending on where they were raised. Those raised in populated areas typically have what's called a tailless form—a humanoid body without any fox features that resembles a more common ancestry, such as an elf or a human. In wooded or rural areas, their second form is more likely to be that of a fox.
  Though all-kitsune settlements exist, most live among people of other ancestries, granting them a degree of external insight into social rules or dynamics that others process only subconsciously. Kitsune enjoy subverting expectations as much as they do going along with them. Their fondness for jokes, stories, and wordplay, especially when the twist of a riddle hinges on the listener's assumptions, reinforces their reputation as tricksters.
@@ -59,11 +60,11 @@ Kitsune are rarely the majority in whatever communities they inhabit, and many g
 
 ## Alignment and Religion
 
-Kitsune often have neutrality in their alignment from balancing their dual natures, though their instinct for stirring up trouble leads many to lean slightly toward chaos. Some possess the ability to control or bend the will of others, but even among those that do, only the evilest use these arts flippantly or selfishly. The patron kitsune deity is [[Daikitsu]], the goddess of crafting and agriculture. Though not all kitsune necessarily worship Daikitsu, most respect her as the purported source of their powers. Kitsune in Tian Xia often revere both [[Shizuru]] and [[Tsukiyo]], seeing the duality of the sun and moon in their own multifaceted nature. A small sect of Avistani kitsune worship [[Sivanah]], the goddess of illusion, respecting her position between perception and reality and believing the goddess's true form to be that of a kitsune—hidden behind not seven veils, but nine.
+Kitsune often have neutrality in their alignment from balancing their dual natures, though their instinct for stirring up trouble leads many to lean slightly toward chaos. Some possess the ability to control or bend the will of others, but even among those that do, only the evilest use these arts flippantly or selfishly. The patron kitsune deity is [[DATABASE/deity/Daikitsu|Daikitsu]], the goddess of crafting and agriculture. Though not all kitsune necessarily worship Daikitsu, most respect her as the purported source of their powers. Kitsune in Tian Xia often revere both [[DATABASE/deity/Shizuru|Shizuru]] and [[DATABASE/deity/Tsukiyo|Tsukiyo]], seeing the duality of the sun and moon in their own multifaceted nature. A small sect of Avistani kitsune worship [[DATABASE/deity/Sivanah|Sivanah]], the goddess of illusion, respecting her position between perception and reality and believing the goddess's true form to be that of a kitsune—hidden behind not seven veils, but nine.
 
 ## Adventurers
 
-Kitsune who live among others often have the [[Charlatan]], [[Emissary]], [[Entertainer]], [[Fortune Teller]], [[Merchant]], [[Noble]], or [[Nomad]] backgrounds. Those kitsune who strike out alone favor the [[Acolyte]], [[Bandit]], or [[Hermit]] backgrounds. Kitsune often excel as [[Rogue]], [[Investigator]], and [[Bard]]. Kitsune who hone their magical abilities lean more toward [[Sorcerer]] or [[Oracle]], and those who forge a stronger connection to the spirits may become [[Witch]].
+Kitsune who live among others often have the [[DATABASE/background/Charlatan|charlatan]], [[DATABASE/background/Emissary|emissary]], [[DATABASE/background/Entertainer|entertainer]], [[DATABASE/background/Fortune Teller|fortune teller]], [[DATABASE/background/Merchant|merchant]], [[DATABASE/background/Noble|noble]], or [[DATABASE/background/Nomad|nomad]] backgrounds. Those kitsune who strike out alone favor the [[DATABASE/background/Acolyte|acolyte]], [[DATABASE/background/Bandit|bandit]], or [[DATABASE/background/Hermit|hermit]] backgrounds. Kitsune often excel as [[DATABASE/class_/Rogue|rogues]], [[DATABASE/class_/Investigator|investigators]], and [[DATABASE/class_/Bard|bards]]. Kitsune who hone their magical abilities lean more toward [[DATABASE/class_/Sorcerer|sorcerers]] or [[DATABASE/class_/Oracle|oracles]], and those who forge a stronger connection to the spirits may become [[DATABASE/class_/Witch|witches]].
 
 ## Names
 
@@ -85,7 +86,7 @@ Though kitsune live all around the world, two major kitsune settlements exist on
 
 ### The Lady of Foxes
 
-Though usually referred to with she/her pronouns, the goddess [[Daikitsu]] nature is fluid; her gender, age, and appearance change at her whim. Kitsune's legends state that they were created when Daikitsu granted her original attendants, fox spirits known as the Nine Bright Grains, one of her own abilities: the power to dance between shapes.
+Though usually referred to with she/her pronouns, the goddess [[DATABASE/deity/Daikitsu|Daikitsu's]] nature is fluid; her gender, age, and appearance change at her whim. Kitsune's legends state that they were created when Daikitsu granted her original attendants, fox spirits known as the Nine Bright Grains, one of her own abilities: the power to dance between shapes.
 
 # Kitsune Mechanics
 
@@ -108,21 +109,21 @@ Free
 
 ## Languages
 
-[[Common]]
-Additional languages equal to your Intelligence modifier (if positive). Choose from [[Elven]], [[Gnomish]], Goblin, Halfling, [[Dwarven]], [[Sylvan]], and any other languages to which you have access (such as the languages prevalent in your region).
+[[DATABASE/language/Common|Common]]
+Additional languages equal to your Intelligence modifier (if positive). Choose from [[DATABASE/language/Elven|Elven]], [[DATABASE/language/Gnomish|Gnomish]], Goblin, Halfling, [[DATABASE/language/Dwarven|Dwarven]], [[DATABASE/language/Sylvan|Sylvan]], and any other languages to which you have access (such as the languages prevalent in your region).
 
 ## Low-Light Vision
 
-You can see in dim light as though it were bright light, and you ignore the [[Concealed]] condition due to dim light.
+You can see in dim light as though it were bright light, and you ignore the [[DATABASE/condition/Concealed|concealed]] condition due to dim light.
 
 ## Change Shape
 
 As a kitsune, you gain the Change Shape ability.
 
-### [[Change Shape]] <span class="action-icon">1</span>
+### [[DATABASE/action/Change Shape|Change Shape]] <span class="action-icon">1</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Divine</span><span class="item-trait">Kitsune</span><span class="item-trait">Polymorph</span><span class="item-trait">Transmutation</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-You transform into a specific alternate form determined by your heritage. If your heritage doesn't list a form, your alternate form is a tailless form, which is a common Medium humanoid ancestry prevalent where you grew up (typically [[Human]]). This form is the same age and body type as your true form and has roughly analogous physical traits, such as hair color. Using Change Shape counts as creating a disguise for the [[Impersonate]] use of [[Deception]]. You lose any unarmed Strikes you gained from a kitsune heritage or ancestry feat in this form. You can remain in your alternate form indefinitely, and you can shift back to your true kitsune form by using this action again.
+You transform into a specific alternate form determined by your heritage. If your heritage doesn't list a form, your alternate form is a tailless form, which is a common Medium humanoid ancestry prevalent where you grew up (typically [[DATABASE/ancestry/Human|human]]). This form is the same age and body type as your true form and has roughly analogous physical traits, such as hair color. Using Change Shape counts as creating a disguise for the [[DATABASE/action/Impersonate|Impersonate]] use of [[DATABASE/skill/Deception|Deception]]. You lose any unarmed Strikes you gained from a kitsune heritage or ancestry feat in this form. You can remain in your alternate form indefinitely, and you can shift back to your true kitsune form by using this action again.

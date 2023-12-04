@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 size: null
@@ -55,10 +56,10 @@ weapon_type: null
 # Ghost Courier Fulu<span class="item-type">Item 8</span>
 
 <span class="item-trait">Conjuration</span><span class="item-trait">Consumable</span><span class="item-trait">Fulu</span><span class="item-trait">Magical</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 100 gp
 **Usage** held in 2 hands; **Bulk** —
 **Activate** <span class="action-icon">2</span> command, Interact
 
 ---
-The inscription on a _ghost courier fulu_ leaves space for a message, and a prominent red stamp indicates which [[Ghost Delivery Fulu]] this fulu homes in on. When you Activate this fulu, you dictate a message up to 25 words long that then magically appears on the paper in the language you spoke. The fulu then disappears into the [[Ethereal Plane]], arriving at the assigned _ghost delivery fulu_ in 2d10 hours, provided that fulu is within 500 miles. There, the fulu's magic dissipates, but the message remains. If the fulu takes any damage in transit, it has a 50% chance to drop back into the [[Material Plane]], intact but bereft of magic.
+The inscription on a _ghost courier fulu_ leaves space for a message, and a prominent red stamp indicates which [[DATABASE/equipment/Ghost Delivery Fulu|ghost delivery fulu]] this fulu homes in on. When you Activate this fulu, you dictate a message up to 25 words long that then magically appears on the paper in the language you spoke. The fulu then disappears into the [[DATABASE/plane/Ethereal Plane|Ethereal Plane]], arriving at the assigned _ghost delivery fulu_ in 2d10 hours, provided that fulu is within 500 miles. There, the fulu's magic dissipates, but the message remains. If the fulu takes any damage in transit, it has a 50% chance to drop back into the [[DATABASE/plane/Material Plane|Material Plane]], intact but bereft of magic.

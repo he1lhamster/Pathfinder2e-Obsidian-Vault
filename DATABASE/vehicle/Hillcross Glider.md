@@ -16,6 +16,7 @@ price: 200 gp
 rarity: Rare
 reflex: '+11'
 resistance: null
+rus_type_level: null
 school: null
 size: Large
 source: '[[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burning
@@ -29,7 +30,7 @@ type: Vehicle
 # Hillcross Glider<span class="item-type">Vehicle 4</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-size item-trait">Large</span>
-**Source** [[Pathfinder 177. Burning Tundra]]
+**Source** [[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burning Tundra]]
 **Price** 200 gp
 
 ---
@@ -38,7 +39,7 @@ On festival days, the people of Hillcross celebrate by launching gliders from th
 ---
 **Space** 10 feet long, 10 feet wide, 3 feet high
 **Crew** 1 pilot
-**Piloting Check** [[Lore]] (DC 19) or [[Nature]] (DC 21)
+**Piloting Check** [[DATABASE/skill/Lore|Piloting Lore]] (DC 19) or [[DATABASE/skill/Nature|Nature]] (DC 21)
 
 ---
 **AC** 16; **Fort** +11
@@ -48,4 +49,4 @@ On festival days, the people of Hillcross celebrate by launching gliders from th
 ---
 **Speed** fly 35 feet (wind)
 **Collision** 2d8 (DC 19)
-**Starting Drop** The only way to launch a Hillcross glider is to jump off a steep incline with favorable wind conditions. The glider is uncontrolled and falls 60 feet each round until the pilot successfully [[Take Control]]. If the glider hits the ground before the pilot Takes Control, the pilot and the glider both take falling damage.
+**Starting Drop** The only way to launch a Hillcross glider is to jump off a steep incline with favorable wind conditions. The glider is uncontrolled and falls 60 feet each round until the pilot successfully [[DATABASE/action/Take Control|Takes Control]]. If the glider hits the ground before the pilot Takes Control, the pilot and the glider both take falling damage.

@@ -11,6 +11,7 @@ name: Basic Skysage Divination
 prerequisite: '[[DATABASE/feat/Oatia Skysage Dedication|Oatia Skysage Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh
   Arch]]'
@@ -24,9 +25,9 @@ type: Feat
 # Basic Skysage Divination <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Pathfinder 187. The Seventh Arch]]
-**Archetype** [[Oatia Skysage]]
-**Prerequisites** [[Oatia Skysage Dedication]]
+**Source** [[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh Arch]]
+**Archetype** [[DATABASE/archetype/Oatia Skysage|Oatia Skysage]]
+**Prerequisites** [[DATABASE/feat/Oatia Skysage Dedication|Oatia Skysage Dedication]]
 
 ---
 The stars move, granting you a sliver of their magic. Choose a 1st-level spell from any spell list to add to your spell repertoire. You can Cast this Spell as an occult Oatia skysage spell.
@@ -34,7 +35,7 @@ The stars move, granting you a sliver of their magic. Choose a 1st-level spell f
 
 ## Basic Skysage Divination Leads To...
 
-[[Expert Skysage Divination]]
+[[DATABASE/feat/Expert Skysage Divination|Expert Skysage Divination]]
 
 ## Traits
 

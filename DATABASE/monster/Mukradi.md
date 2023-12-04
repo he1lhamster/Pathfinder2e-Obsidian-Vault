@@ -75,16 +75,16 @@ wisdom: '+3'
 # Mukradi
 
 Fearsome centipede-like creatures, mukradis are three-headed predators with a devastating array of breath weapons. A Darklands version of the mukradi is rumored to exist. It’s said these variant mukradis have black scales, and all of their heads spew a black, acidic goo that animates before being reabsorbed by the mukradis.
-**Recall Knowledge - Beast ([[Arcana]], [[Nature]])**: DC 34
+**Recall Knowledge - Beast ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 34
 **Unspecific Lore**: DC 32
 **Specific Lore**: DC 29
 
 # Mukradi<span class="item-type">Creature 15</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Gargantuan</span><span class="item-trait">Beast</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +24; darkvision, tremorsense (imprecise) 60 feet
-**Skills** [[Athletics]] +32
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +32
 **Str** +9, **Dex** +0, **Con** +7, **Int** -3, **Wis** +3, **Cha** +0
 
 ---
@@ -100,7 +100,7 @@ Fearsome centipede-like creatures, mukradis are three-headed predators with a de
 * **Flame Maw** (fire) 60-foot cone of fire dealing 16d6 fire damage.
 * **Shock Maw** (electricity) 120-foot line of electricity dealing 16d6 electricity damage.
 
-</span><span class="in-box-ability">**Pull Apart** <span class="action-icon">2</span> The mukradi makes two Strikes with different maws against the same target. If both hit, the target takes an extra 2d12+13 slashing damage, with a DC 36 basic Fortitude save. On a critical failure, the creature is torn to pieces and dies. The mukradi's multiple attack penalty increases only after all the attacks are made.</span><span class="in-box-ability">**Thrash** <span class="action-icon">2</span> The mukradi Strikes once against each creature in its reach. It can Strike up to once with each maw, once with its tail lash, and any number of times with its legs. Each attack takes a –2 circumstance penalty and counts toward the mukradi's multiple attack penalty, but the multiple attack penalty doesn’t increase until after all the attacks are made.</span><span class="in-box-ability">**[[Trample]]** <span class="action-icon">3</span> Huge or smaller, leg, DC 36</span>
+</span><span class="in-box-ability">**Pull Apart** <span class="action-icon">2</span> The mukradi makes two Strikes with different maws against the same target. If both hit, the target takes an extra 2d12+13 slashing damage, with a DC 36 basic Fortitude save. On a critical failure, the creature is torn to pieces and dies. The mukradi's multiple attack penalty increases only after all the attacks are made.</span><span class="in-box-ability">**Thrash** <span class="action-icon">2</span> The mukradi Strikes once against each creature in its reach. It can Strike up to once with each maw, once with its tail lash, and any number of times with its legs. Each attack takes a –2 circumstance penalty and counts toward the mukradi's multiple attack penalty, but the multiple attack penalty doesn’t increase until after all the attacks are made.</span><span class="in-box-ability">**[[DATABASE/monsterability/Trample|Trample]]** <span class="action-icon">3</span> Huge or smaller, leg, DC 36</span>
 
 ###  From a God's Nightmares
 

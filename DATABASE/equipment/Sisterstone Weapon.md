@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -53,7 +54,7 @@ weapon_type: null
 # Sisterstone Weapon<span class="item-type">Item 3+</span>
 
 <span class="trait-rare item-trait">Rare</span>
-**Source** [[Pathfinder 183. Field of Maidens]]
+**Source** [[DATABASE/source/Pathfinder 183. Field of Maidens|Pathfinder #183: Field of Maidens]]
 **Usage** varies by weapon; **Bulk** varies by weapon
 
 ---
@@ -62,19 +63,19 @@ A weapon with a sisterstone striking surface can be charged with undead-destroyi
 
 ### Base Material
 
-[[Sisterstone]]
+[[DATABASE/equipment/Sisterstone|Sisterstone]]
 
 ## Sisterstone Weapon (Low-Grade)<span class="item-type">Item 3</span>
 
-**Source** [[Pathfinder 183. Field of Maidens]]
+**Source** [[DATABASE/source/Pathfinder 183. Field of Maidens|Pathfinder #183: Field of Maidens]]
 **Price** 70 gp (plus 7 gp per Bulk)
 
 ## Sisterstone Weapon (Standard-Grade)<span class="item-type">Item 11</span>
 
-**Source** [[Pathfinder 183. Field of Maidens]]
+**Source** [[DATABASE/source/Pathfinder 183. Field of Maidens|Pathfinder #183: Field of Maidens]]
 **Price** 1,200 gp (plus 120 gp per Bulk)
 
 ## Sisterstone Weapon (High-Grade)<span class="item-type">Item 19</span>
 
-**Source** [[Pathfinder 183. Field of Maidens]]
+**Source** [[DATABASE/source/Pathfinder 183. Field of Maidens|Pathfinder #183: Field of Maidens]]
 **Price** 32,000 gp (plus 3,200 gp per Bulk)

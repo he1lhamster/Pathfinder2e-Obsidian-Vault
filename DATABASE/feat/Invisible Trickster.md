@@ -11,6 +11,7 @@ name: Invisible Trickster
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Invisible Trickster <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Sprite</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-You have learned how to become invisible and remain so. You can cast 4th-level [[Invisibility]] as a primal innate spell once per hour.
+You have learned how to become invisible and remain so. You can cast 4th-level [[DATABASE/spell/Invisibility|invisibility]] as a primal innate spell once per hour.
 
 ## Traits
 

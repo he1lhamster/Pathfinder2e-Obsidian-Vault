@@ -3,6 +3,7 @@ creature_family: Seafarers
 id: '196'
 name: Seafarers
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Seafarers
 
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 Adventurers may need passage on a swift vessel, or they might face danger from raiders at sea or in coastal settlements.
 
 ### Members
 
-[[Bosun]] (Creature 3), [[Navigator]] (Creature 2), [[Pirate]] (Creature 2), [[Ship Captain]] (Creature 6)
+[[DATABASE/npc/Bosun|Bosun]] (Creature 3), [[DATABASE/npc/Navigator|Navigator]] (Creature 2), [[DATABASE/npc/Pirate|Pirate]] (Creature 2), [[DATABASE/npc/Ship Captain|Ship Captain]] (Creature 6)
 
 ###  Nautical Superstitions
 
@@ -28,4 +29,4 @@ Adventurers may need passage on a swift vessel, or they might face danger from r
 
 ###  Shipboard Spells
 
-The [[Ship Captain]] can gain all these spells in place of Dual Disarm. The [[Bosun]] can exchange Pike and Strike to gain the cantrips and 1st-level spells. **Primal Prepared Spells** DC 24 (DC 18 bosun), attack +16 (+10 bosun); **2nd** [[Summon Elemental]], [[Water Breathing]], [[Water Walk]]; **1st** [[Feather Fall]], [[Gust of Wind]] (×2); **Cantrips** (2nd, 1st for bosun) [[Electric Arc]], [[Guidance]], [[Know Direction]], [[Light]], [[Tanglefoot]]
+The [[DATABASE/npc/Ship Captain|captain]] can gain all these spells in place of Dual Disarm. The [[DATABASE/npc/Bosun|bosun]] can exchange Pike and Strike to gain the cantrips and 1st-level spells. **Primal Prepared Spells** DC 24 (DC 18 bosun), attack +16 (+10 bosun); **2nd** [[DATABASE/spell/Summon Elemental|summon elemental]], [[DATABASE/spell/Water Breathing|water breathing]], [[DATABASE/spell/Water Walk|water walk]]; **1st** [[DATABASE/spell/Feather Fall|feather fall]], [[DATABASE/spell/Gust of Wind|gust of wind]] (×2); **Cantrips** (2nd, 1st for bosun) [[DATABASE/spell/Electric Arc|electric arc]], [[DATABASE/spell/Guidance|guidance]], [[DATABASE/spell/Know Direction|know direction]], [[DATABASE/spell/Light|light]], [[DATABASE/spell/Tanglefoot|tanglefoot]]

@@ -22,6 +22,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
@@ -39,7 +40,7 @@ type: Spell
 # Animate Dead<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Necromancy</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Traditions** arcane, divine, occult
 **Cast** <span class="action-icon">3</span> material, somatic, verbal
 **Range** 30 feet
@@ -61,68 +62,68 @@ Your magic dredges up a corpse or skeleton and fills it with necromantic life, a
 
 ## Level -1 Undead
 
-[[Crawling Hand]] (NE), [[Predatory Rabbit]] (CE), [[Severed Head]] (NE), [[Skeleton Guard]] (NE), [[Zombie Shambler]] (NE)
+[[DATABASE/monster/Crawling Hand|Crawling Hand]] (NE), [[DATABASE/monster/Predatory Rabbit|Predatory Rabbit]] (CE), [[DATABASE/monster/Severed Head|Severed Head]] (NE), [[DATABASE/monster/Skeleton Guard|Skeleton Guard]] (NE), [[DATABASE/monster/Zombie Shambler|Zombie Shambler]] (NE)
 
 ## Level 0 Undead
 
-[[Mummified Cat]] (NE), [[Wolf Skeleton]] (NE), [[Zombie Snake]] (NE)
+[[DATABASE/monster/Mummified Cat|Mummified Cat]] (NE), [[DATABASE/monster/Wolf Skeleton|Wolf Skeleton]] (NE), [[DATABASE/monster/Zombie Snake|Zombie Snake]] (NE)
 
 ## Level 1 Undead
 
-[[Festering Gnasher]] (NE), [[Festrog]] (NE), [[Ghoul]] (CE), [[Pickled Punk]] (NE), [[Plague Zombie]] (NE), [[Scorned Hound]] (NE), [[Skeletal Soldier]] (NE)
+[[DATABASE/monster/Festering Gnasher|Festering Gnasher]] (NE), [[DATABASE/monster/Festrog|Festrog]] (NE), [[DATABASE/monster/Ghoul|Ghoul]] (CE), [[DATABASE/monster/Pickled Punk|Pickled Punk]] (NE), [[DATABASE/monster/Plague Zombie|Plague Zombie]] (NE), [[DATABASE/monster/Scorned Hound|Scorned Hound]] (NE), [[DATABASE/monster/Skeletal Soldier|Skeletal Soldier]] (NE)
 
 ## Level 2 Undead
 
-[[Decrepit Mummy]] (LE), [[Draugr]] (CE), [[Flaming Skull]] (NE), [[Ghast]] (CE), [[Husk Zombie]] (NE), [[Lacedon]] (CE), [[Shredskin]] (NE), [[Skeletal Champion]] (NE), [[Skeletal Horse]] (NE), [[Squirming Swill]] (CE), [[Zombie Brute]] (NE)
+[[DATABASE/monster/Decrepit Mummy|Decrepit Mummy]] (LE), [[DATABASE/monster/Draugr|Draugr]] (CE), [[DATABASE/monster/Flaming Skull|Flaming Skull]] (NE), [[DATABASE/monster/Ghast|Ghast]] (CE), [[DATABASE/monster/Husk Zombie|Husk Zombie]] (NE), [[DATABASE/monster/Lacedon|Lacedon]] (CE), [[DATABASE/monster/Shredskin|Shredskin]] (NE), [[DATABASE/monster/Skeletal Champion|Skeletal Champion]] (NE), [[DATABASE/monster/Skeletal Horse|Skeletal Horse]] (NE), [[DATABASE/monster/Squirming Swill|Squirming Swill]] (CE), [[DATABASE/monster/Zombie Brute|Zombie Brute]] (NE)
 
 ## Level 3 Undead
 
-[[Binumir]] (LE), [[Chimpanzee Visitant]] (NE), [[Combusted]] (NE), [[Deathless Acolyte]] (NE), [[Fiddling Bones]] (NE), [[Skeletal Giant]] (NE), [[Trailgaunt]] (NE), [[Wight]] (LE), [[Zombie Owlbear]] (NE)
+[[DATABASE/monster/Binumir|Binumir]] (LE), [[DATABASE/monster/Chimpanzee Visitant|Chimpanzee Visitant]] (NE), [[DATABASE/monster/Combusted|Combusted]] (NE), [[DATABASE/monster/Deathless Acolyte|Deathless Acolyte of Urgathoa]] (NE), [[DATABASE/monster/Fiddling Bones|Fiddling Bones]] (NE), [[DATABASE/monster/Skeletal Giant|Skeletal Giant]] (NE), [[DATABASE/monster/Trailgaunt|Trailgaunt]] (NE), [[DATABASE/monster/Wight|Wight]] (LE), [[DATABASE/monster/Zombie Owlbear|Zombie Owlbear]] (NE)
 
 ## Level 4 Undead
 
-[[Attic Whisperer]] (NE), [[Ghost Commoner]] (CE), [[Shadow]] (CE), [[Shanrigol Heap]] (N), [[Vampire Spawn Rogue]] (CE)
+[[DATABASE/monster/Attic Whisperer|Attic Whisperer]] (NE), [[DATABASE/monster/Ghost Commoner|Ghost Commoner]] (CE), [[DATABASE/monster/Shadow|Shadow]] (CE), [[DATABASE/monster/Shanrigol Heap|Shanrigol Heap]] (N), [[DATABASE/monster/Vampire Spawn Rogue|Vampire Spawn]] (CE)
 
 ## Level 5 Undead
 
-[[Bog Mummy]] (LE), [[Crawling Hand Swarm]] (NE), [[Ghul]] (CE), [[Giant Crawling Hand]] (NE), [[Harpy Skeleton]] (NE), [[Iruxi Ossature]] (N), [[Lion Visitant]] (NE), [[Namorrodor]] (CE), [[Poltergeist]] (LE), [[Priest of Kabriri]] (CE), [[Skaveling]] (CE), [[Skeletal Mage]] (NE), [[Taunting Skull]] (NE), [[Withered]] (NE)
+[[DATABASE/monster/Bog Mummy|Bog Mummy]] (LE), [[DATABASE/monster/Crawling Hand Swarm|Crawling Hand Swarm]] (NE), [[DATABASE/monster/Ghul|Ghul]] (CE), [[DATABASE/monster/Giant Crawling Hand|Giant Crawling Hand]] (NE), [[DATABASE/monster/Harpy Skeleton|Harpy Skeleton]] (NE), [[DATABASE/monster/Iruxi Ossature|Iruxi Ossature]] (N), [[DATABASE/monster/Lion Visitant|Lion Visitant]] (NE), [[DATABASE/monster/Namorrodor|Namorrodor]] (CE), [[DATABASE/monster/Poltergeist|Poltergeist]] (LE), [[DATABASE/monster/Priest of Kabriri|Priest of Kabriri]] (CE), [[DATABASE/monster/Skaveling|Skaveling]] (CE), [[DATABASE/monster/Skeletal Mage|Skeletal Mage]] (NE), [[DATABASE/monster/Taunting Skull|Taunting Skull]] (NE), [[DATABASE/monster/Withered|Withered]] (NE)
 
 ## Level 6 Undead
 
-[[Abandoned Zealot]] (CE), [[Beetle Carapace]] (NE), [[Hungry Ghost]] (N), [[Mummy Guardian]] (LE), [[Revenant]] (LN), [[Sulfur Zombie]] (NE), [[Vampire Count]] (CE), [[Vrykolakas Spawn]] (NE), [[Wraith]] (LE), [[Zombie Hulk]] (NE)
+[[DATABASE/monster/Abandoned Zealot|Abandoned Zealot]] (CE), [[DATABASE/monster/Beetle Carapace|Beetle Carapace]] (NE), [[DATABASE/monster/Hungry Ghost|Hungry Ghost]] (N), [[DATABASE/monster/Mummy Guardian|Mummy Guardian]] (LE), [[DATABASE/monster/Revenant|Revenant]] (LN), [[DATABASE/monster/Sulfur Zombie|Sulfur Zombie]] (NE), [[DATABASE/monster/Vampire Count|Vampire Count]] (CE), [[DATABASE/monster/Vrykolakas Spawn|Vrykolakas Spawn]] (NE), [[DATABASE/monster/Wraith|Wraith]] (LE), [[DATABASE/monster/Zombie Hulk|Zombie Hulk]] (NE)
 
 ## Level 7 Undead
 
-[[Cyclops Zombie]] (NE), [[Greater Shadow]] (CE), [[Skeletal Hulk]] (NE), [[Specter]] (LE), [[Totenmaske]] (NE)
+[[DATABASE/monster/Cyclops Zombie|Cyclops Zombie]] (NE), [[DATABASE/monster/Greater Shadow|Greater Shadow]] (CE), [[DATABASE/monster/Skeletal Hulk|Skeletal Hulk]] (NE), [[DATABASE/monster/Specter|Specter]] (LE), [[DATABASE/monster/Totenmaske|Totenmaske]] (NE)
 
 ## Level 8 Undead
 
-[[Drake Skeleton]] (NE), [[Ghost Pirate]] (CE), [[Mohrg]] (CE), [[Raw Nerve]] (NE), [[Vetalarana Emergent]] (CE), [[Zombie Mammoths]] (NE)
+[[DATABASE/monster/Drake Skeleton|Drake Skeleton]] (NE), [[DATABASE/monster/Ghost Pirate|Ghost Pirate Captain]] (CE), [[DATABASE/monster/Mohrg|Mohrg]] (CE), [[DATABASE/monster/Raw Nerve|Raw Nerve]] (NE), [[DATABASE/monster/Vetalarana Emergent|Vetalarana Emergent]] (CE), [[DATABASE/monster/Zombie Mammoths|Zombie Mammoths]] (NE)
 
 ## Level 9 Undead
 
-[[Baykok]] (CE), [[Dread Wraith]] (LE), [[Geist]] (CE), [[Ghost Monk]] (LN), [[Tyrannosaurus Skeleton]] (NE), [[Zombie Dragon]] (NE)
+[[DATABASE/monster/Baykok|Baykok]] (CE), [[DATABASE/monster/Dread Wraith|Dread Wraith]] (LE), [[DATABASE/monster/Geist|Geist]] (CE), [[DATABASE/monster/Ghost Monk|Ghost Monk]] (LN), [[DATABASE/monster/Tyrannosaurus Skeleton|Tyrannosaurus Skeleton]] (NE), [[DATABASE/monster/Zombie Dragon|Zombie Dragon]] (NE)
 
 ## Level 10 Undead
 
-[[Clacking Skull Swarm]] (NE), [[Cursed King]] (CE), [[Ghost Mage]] (CE), [[Graveknight]] (LE), [[Vrykolakas Master]] (NE)
+[[DATABASE/monster/Clacking Skull Swarm|Clacking Skull Swarm]] (NE), [[DATABASE/monster/Cursed King|Cursed King]] (CE), [[DATABASE/monster/Ghost Mage|Ghost Mage]] (CE), [[DATABASE/monster/Graveknight|Graveknight]] (LE), [[DATABASE/monster/Vrykolakas Master|Vrykolakas Master]] (NE)
 
 ## Level 11 Undead
 
-[[Bhuta]] (NE), [[Corpseroot]] (NE), [[Provincial Jiang-Shi]] (CE), [[Unrisen]] (NE), [[Xae]] (CN), [[Zombie Mammoth]] (NE)
+[[DATABASE/monster/Bhuta|Bhuta]] (NE), [[DATABASE/monster/Corpseroot|Corpseroot]] (NE), [[DATABASE/monster/Provincial Jiang-Shi|Provincial Jiang-Shi]] (CE), [[DATABASE/monster/Unrisen|Unrisen]] (NE), [[DATABASE/monster/Xae|Xae]] (CN), [[DATABASE/monster/Zombie Mammoth|Zombie Mammoth]] (NE)
 
 ## Level 12 Undead
 
-[[Llorona]] (NE)
+[[DATABASE/monster/Llorona|Llorona]] (NE)
 
 ## Level 13 Undead
 
-[[Fionn]] (CE), [[Silent Stalker]] (LN), [[Skeletal Titan]] (NE), [[Vanyver (Nightwing)]] (CE)
+[[DATABASE/monster/Fionn|Fionn]] (CE), [[DATABASE/monster/Silent Stalker|Silent Stalker]] (LN), [[DATABASE/monster/Skeletal Titan|Skeletal Titan]] (NE), [[DATABASE/monster/Vanyver (Nightwing)|Vanyver]] (CE)
 
 ## Level 14 Undead
 
-[[Minister Of Tumult]] (LE), [[Tormented]] (CE)
+[[DATABASE/monster/Minister Of Tumult|Minister Of Tumult]] (LE), [[DATABASE/monster/Tormented|Tormented]] (CE)
 
 ## Level 15 Undead
 
-[[Gallowdead]] (NE), [[Hollow Serpent]] (NE), [[Shraen Graveknight]] (CE), [[Soulbound Ruin]] (NE), [[Sykever (Nightwalker)]] (CE)
+[[DATABASE/monster/Gallowdead|Gallowdead]] (NE), [[DATABASE/monster/Hollow Serpent|Hollow Serpent]] (NE), [[DATABASE/monster/Shraen Graveknight|Shraen Graveknight]] (CE), [[DATABASE/monster/Soulbound Ruin|Soulbound Ruin]] (NE), [[DATABASE/monster/Sykever (Nightwalker)|Sykever]] (CE)

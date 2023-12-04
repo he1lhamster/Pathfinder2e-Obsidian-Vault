@@ -2,6 +2,7 @@
 id: '507'
 name: Talos
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 trait:
 - Talos
@@ -10,17 +11,17 @@ type: Trait
 ---
 # Talos
 
-**Source** [[Rage of Elements]]
-Taloses are [[Planar Scion]] descended from [[Zuhra]].
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
+Taloses are [[DATABASE/monsterfamily/Planar Scion|planar scions]] descended from [[DATABASE/monster/Zuhra|zuhras]].
 
 ## Ancestries
 
-[[Talos]]
+[[DATABASE/ancestry/Talos|Talos]]
 
 ## Feats
 
-[[Conductor's Redirection]], [[Elemental Eyes]], [[Elemental Lore]], [[Ferrousoul]], [[Genie Weapon Expertise]], [[Genie Weapon Familiarity]], [[Genie Weapon Flourish]], [[Gildedsoul]], [[Metallic Skin]], [[Miraculous Repair]], [[Natural Magnetism]], [[Noble Resolve]], [[Planar Sidestep]], [[Precious Alloys]], [[Quicksoul]], [[Reflective Defense]], [[Skillful Tail]], [[Summon Metal Elemental]]
+[[DATABASE/feat/Conductor's Redirection|Conductor's Redirection]], [[DATABASE/feat/Elemental Eyes|Elemental Eyes]], [[DATABASE/feat/Elemental Lore|Elemental Lore]], [[DATABASE/feat/Ferrousoul|Ferrousoul]], [[DATABASE/feat/Genie Weapon Expertise|Genie Weapon Expertise]], [[DATABASE/feat/Genie Weapon Familiarity|Genie Weapon Familiarity]], [[DATABASE/feat/Genie Weapon Flourish|Genie Weapon Flourish]], [[DATABASE/feat/Gildedsoul|Gildedsoul]], [[DATABASE/feat/Metallic Skin|Metallic Skin]], [[DATABASE/feat/Miraculous Repair|Miraculous Repair]], [[DATABASE/feat/Natural Magnetism|Natural Magnetism]], [[DATABASE/feat/Noble Resolve|Noble Resolve]], [[DATABASE/feat/Planar Sidestep|Planar Sidestep]], [[DATABASE/feat/Precious Alloys|Precious Alloys]], [[DATABASE/feat/Quicksoul|Quicksoul]], [[DATABASE/feat/Reflective Defense|Reflective Defense]], [[DATABASE/feat/Skillful Tail|Skillful Tail]], [[DATABASE/feat/Summon Metal Elemental|Summon Metal Elemental]]
 
 ## Monsters
 
-[[Talos]]
+[[DATABASE/monster/Talos|Talos Gadgeteer]]

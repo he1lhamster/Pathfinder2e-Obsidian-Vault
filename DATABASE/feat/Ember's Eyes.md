@@ -11,6 +11,7 @@ name: Ember's Eyes
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Ember's Eyes <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Ifrit</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
 Your eyes blaze with inner flame. You gain low-light vision, or you gain darkvision if your ancestry already has low-light vision.
@@ -33,4 +34,4 @@ Your eyes blaze with inner flame. You gain low-light vision, or you gain darkvis
 
 **Ifrit:**
 
-Ifrits are planar scions descended from [[Efreeti]].
+Ifrits are planar scions descended from [[DATABASE/monster/Efreeti|efreet]].

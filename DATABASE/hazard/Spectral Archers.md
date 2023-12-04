@@ -14,6 +14,7 @@ name: Spectral Archers
 rarity: Common
 reflex: null
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burning
   Tundra]]'
@@ -28,13 +29,13 @@ will: null
 # Spectral Archers<span class="item-type">Hazard 8</span>
 
 <span class="item-trait">Complex</span><span class="item-trait">Haunt</span>
-**Source** [[Pathfinder 177. Burning Tundra]]
+**Source** [[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burning Tundra]]
 **Complexity** Complex
 **Stealth** +28 (expert)
 **Description** Ghostly soldiers wielding crossbows manifest within the towers that flank the gatehouse and rain bolts down upon intruders.
 
 ---
-**Disable** DC 31 [[Intimidation]] (expert) to cow the archers into fleeing or DC 28 [[Religion]] (expert) to temporarily banish the spirits
+**Disable** DC 31 [[DATABASE/skill/Intimidation|Intimidation]] (expert) to cow the archers into fleeing or DC 28 [[DATABASE/skill/Religion|Religion]] (expert) to temporarily banish the spirits
 **Rain of Bolts** <span class="action-icon">5</span> **Trigger** A creature attacks the graveknights in area G1 or enters the castle; **Effect** The haunt makes a spectral bolt Strike against the triggering creature, then rolls initiative.
 
 ---

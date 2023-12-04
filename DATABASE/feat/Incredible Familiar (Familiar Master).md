@@ -11,6 +11,7 @@ name: Incredible Familiar (Familiar Master)
 prerequisite: '[[DATABASE/feat/Enhanced Familiar|Enhanced Familiar]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Incredible Familiar (Familiar Master) <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Familiar Master]]
-**Prerequisites** [[Enhanced Familiar]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Familiar Master|Familiar Master]]
+**Prerequisites** [[DATABASE/feat/Enhanced Familiar|Enhanced Familiar]]
 
 ---
 Your familiar is infused with even more magic than other familiars. You can select six familiar or master abilities each day, instead of four.

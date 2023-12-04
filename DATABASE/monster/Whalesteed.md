@@ -65,16 +65,16 @@ wisdom: '+3'
 # Whalesteed
 
 Whalesteeds were first tamed in the Shackles as part of an ambush between rival pirate captains. Whalesteed riders are still an unusual sight, as learning to master the skill takes years of training.
-**Recall Knowledge - Animal ([[Nature]])**: DC 14
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 14
 **Unspecific Lore**: DC 12
 **Specific Lore**: DC 9
 
 # Whalesteed<span class="item-type">Creature 0</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Animal</span>
-**Source** [[Travel Guide]]
-**Perception** +7; aquatic echolocation 120 feet, [[Low-Light Vision]]
-**Skills** [[Athletics]] +6
+**Source** [[DATABASE/source/Travel Guide|Travel Guide]]
+**Perception** +7; aquatic echolocation 120 feet, [[DATABASE/monsterability/Low-Light Vision|low-light vision]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +6
 **Str** +2, **Dex** +3, **Con** +2, **Int** -4, **Wis** +3, **Cha** +0
 **Aquatic Echolocation** A whalesteed can use its hearing as a precise sense at the listed range, but only underwater.
 **Deep Breath** A whalesteed can hold its breath for 2 hours.

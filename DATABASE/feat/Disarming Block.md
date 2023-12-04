@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Bastion Dedication|Bastion Dedication]] ; Trained
   [[DATABASE/skill/Athletics|Athletics]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,13 +26,13 @@ type: Feat
 # Disarming Block <span class="action-icon">4</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Bastion]]
-**Prerequisites** [[Bastion Dedication]]; trained in [[Athletics]]
-**Trigger** You [[Shield Block]] a melee Strike made with a held weapon.
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Bastion|Bastion]]
+**Prerequisites** [[DATABASE/feat/Bastion Dedication|Bastion Dedication]]; trained in [[DATABASE/skill/Athletics|Athletics]]
+**Trigger** You [[DATABASE/feat/Shield Block|Shield Block]] a melee Strike made with a held weapon.
 
 ---
-You attempt to [[Disarm]] the creature whose attack you blocked of the weapon they attacked you with. You can do so even if you don't have a hand free.
+You attempt to [[DATABASE/action/Disarm|Disarm]] the creature whose attack you blocked of the weapon they attacked you with. You can do so even if you don't have a hand free.
 
 ## Traits
 

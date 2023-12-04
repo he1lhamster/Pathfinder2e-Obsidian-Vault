@@ -12,6 +12,7 @@ prerequisite: an instinct that allows you to change your additional damage from 
   to a different damage type
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Scouring Rage <span class="action-icon">4</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Barbarian</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** an instinct that allows you to change your additional damage from [[Rage]] to a different damage type
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** an instinct that allows you to change your additional damage from [[DATABASE/action/Rage|Rage]] to a different damage type
 **Trigger** You Rage.
 
 ---

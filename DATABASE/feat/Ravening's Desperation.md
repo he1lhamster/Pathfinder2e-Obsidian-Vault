@@ -11,6 +11,7 @@ name: Ravening's Desperation
 prerequisite: trained in [[DATABASE/deity/Zevgavizeb|Zevgavizeb]] [[DATABASE/skill/Lore|Lore]]
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 153. Life''s Long Shadows|Pathfinder #153: Life''s
   Long Shadows]]'
@@ -26,11 +27,11 @@ type: Feat
 # Ravening's Desperation <span class="item-type">Feat 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Pathfinder 153. Life's Long Shadows]]
-**Prerequisites** trained in [[Zevgavizeb]] [[Lore]]
+**Source** [[DATABASE/source/Pathfinder 153. Life's Long Shadows|Pathfinder #153: Life's Long Shadows]]
+**Prerequisites** trained in [[DATABASE/deity/Zevgavizeb|Zevgavizeb]] [[DATABASE/skill/Lore|Lore]]
 
 ---
-Your study of the [[Zevgavizeb]] has taught you how to make do in the most trying of circumstances rather than succumb to weakness. As long as your current Hit Points are less than half your maximum Hit Points, you gain a +1 circumstance bonus to [[Survival]] and [[Stealth]] checks. If your current Hit Points are less than a quarter your maximum Hit Points, the circumstance bonus is +2 instead.
+Your study of the [[DATABASE/deity/Zevgavizeb|Beast of Gluttondark]] has taught you how to make do in the most trying of circumstances rather than succumb to weakness. As long as your current Hit Points are less than half your maximum Hit Points, you gain a +1 circumstance bonus to [[DATABASE/skill/Survival|Survival]] and [[DATABASE/skill/Stealth|Stealth]] checks. If your current Hit Points are less than a quarter your maximum Hit Points, the circumstance bonus is +2 instead.
 
 ## Traits
 
@@ -44,4 +45,4 @@ A general feat with the skill trait improves your skills and their actions or gi
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.

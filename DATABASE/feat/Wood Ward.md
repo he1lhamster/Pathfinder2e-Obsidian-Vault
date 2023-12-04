@@ -11,6 +11,7 @@ name: Wood Ward
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -27,7 +28,7 @@ type: Feat
 # Wood Ward <span class="action-icon">5</span> <span class="item-type">Feat 17</span>
 
 <span class="item-trait">Ardande</span><span class="item-trait">Concentrate</span><span class="item-trait">Plant</span><span class="item-trait">Primal</span><span class="item-trait">Wood</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Frequency** once per hour
 **Trigger** A creature targets you with an attack.
 
@@ -38,7 +39,7 @@ With a sweep of your hand, vines and roots burst from the ground along the edge 
 
 **Ardande:**
 
-Ardandes are [[Planar Scion]] descended from [[Kizidhar]] and other beings of elemental wood.
+Ardandes are [[DATABASE/monsterfamily/Planar Scion|planar scions]] descended from [[DATABASE/monster/Kizidhar|kizidhar]] and other beings of elemental wood.
 
 **Concentrate:**
 

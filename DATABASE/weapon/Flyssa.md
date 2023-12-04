@@ -12,6 +12,7 @@ name: Flyssa
 price: 1 gp
 range: null
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
 - '[[DATABASE/trait/Agile|Agile]]'
@@ -26,10 +27,10 @@ weapon_type: Melee
 # Flyssa
 
 <span class="item-trait">Agile</span><span class="item-trait">Finesse</span><span class="item-trait">Versatile P</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 1 gp; **Damage** 1d6 S; **Bulk** L
 **Hands** 1
-**Type** Melee; **Category** Martial; **Group** [[Knife]]
+**Type** Melee; **Category** Martial; **Group** [[DATABASE/weapongroup/Knife|Knife]]
 
 ---
 This single-edged blade has a guardless hilt. Often decorated with elaborate etchings, a flyssa is longer than most daggers but shorter than average for most swords, making it useful in close and pitched combat.
@@ -50,6 +51,6 @@ A versatile weapon can be used to deal a different type of damage than that list
 
 ## Critical Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
-**Knife**: The target takes 1d6 [[Persistent Damage]]. You gain an item bonus to this bleed damage equal to the weapon's item bonus to attack rolls.
+**Knife**: The target takes 1d6 [[DATABASE/condition/Persistent Damage|persistent bleed damage]]. You gain an item bonus to this bleed damage equal to the weapon's item bonus to attack rolls.

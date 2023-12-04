@@ -11,6 +11,7 @@ name: Eat Fortune
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Divination
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -27,7 +28,7 @@ type: Feat
 # Eat Fortune <span class="action-icon">5</span> <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Divination</span><span class="item-trait">Divine</span><span class="item-trait">Tengu</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Frequency** once per day
 **Trigger** A creature within 60 feet uses a fortune or misfortune effect.
 
@@ -36,7 +37,7 @@ As someone tries to twist fate, you consume the interference. The triggering eff
 
 ## Eat Fortune Leads To...
 
-[[Jinx Glutton]]
+[[DATABASE/feat/Jinx Glutton|Jinx Glutton]]
 
 ## Traits
 

@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 size: null
@@ -53,7 +54,7 @@ weapon_type: null
 # Called (Weapon Rune)<span class="item-type">Item 7</span>
 
 <span class="item-trait">Conjuration</span><span class="item-trait">Magical</span>
-**Source** [[Knights of Lastwall]]
+**Source** [[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]
 **Price** 350 gp
 **Usage** etched onto a weapon; **Bulk** —
 

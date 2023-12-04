@@ -11,6 +11,7 @@ name: Overdrive Ally
 prerequisite: '[[DATABASE/action/Overdrive|Overdrive]]'
 rarity: Common
 requirement: You are currently in overdrive.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Overdrive Ally <span class="action-icon">1</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Inventor</span><span class="item-trait">Manipulate</span>
-**Source** [[Guns & Gears]]
-**Prerequisites** [[Overdrive]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Prerequisites** [[DATABASE/action/Overdrive|Overdrive]]
 **Requirements** You are currently in overdrive.
 
 ---
@@ -33,7 +34,7 @@ You quickly fling some of your powered-up mechanisms to an ally, sharing your be
 
 ## Overdrive Ally Leads To...
 
-[[Shared Overdrive]]
+[[DATABASE/feat/Shared Overdrive|Shared Overdrive]]
 
 ## Traits
 

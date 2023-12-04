@@ -102,20 +102,20 @@ wisdom: '+1'
 # Halspin the Stung
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 44
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 44
 **Unspecific Lore**: DC 42
 **Specific Lore**: DC 39
 
 # Halspin the Stung<span class="item-type">Creature 15</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NG</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Catfolk</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 167. Ready Fight!]]
-Male [[Catfolk]] beast-singer
-**Perception** +24; [[Low-Light Vision]]
-**Languages** [[Amurrun]], [[Common]], [[Tien]]
-**Skills** [[Acrobatics]] +28, [[Diplomacy]] +28, [[Nature]] +24, [[Occultism]] +25, [[Performance]] +28
+**Source** [[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]
+Male [[DATABASE/ancestry/Catfolk|catfolk]] beast-singer
+**Perception** +24; [[DATABASE/monsterability/Low-Light Vision|low-light vision]]
+**Languages** [[DATABASE/language/Amurrun|Amurrun]], [[DATABASE/language/Common|Common]], [[DATABASE/language/Tien|Tien]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +28, [[DATABASE/skill/Diplomacy|Diplomacy]] +28, [[DATABASE/skill/Nature|Nature]] +24, [[DATABASE/skill/Occultism|Occultism]] +25, [[DATABASE/skill/Performance|Performance]] +28
 **Str** +2, **Dex** +5, **Con** +3, **Int** +2, **Wis** +1, **Cha** +5
-**Items** _+1 [[Resilient]] [[Leather Armor]]_, _+2 [[Striking]] [[Handwraps of Mighty Blows]]_, [[Musical Instrument]], _+2 [[Striking]] [[Corrosive]] [[Composite Longbow]]_ with 20 arrows
+**Items** _+1 [[DATABASE/equipment/Resilient|resilient]] [[DATABASE/armor/Leather Armor|leather armor]]_, _+2 [[DATABASE/equipment/Striking|striking]] [[DATABASE/equipment/Handwraps of Mighty Blows|handwraps of mighty blows]]_, [[DATABASE/equipment/Musical Instrument|morin khurr]], _+2 [[DATABASE/equipment/Striking|striking]] [[DATABASE/equipment/Corrosive|corrosive]] [[DATABASE/weapon/Composite Longbow|composite longbow]]_ with 20 arrows
 
 ---
 **AC** 35; **Fort** +26, **Ref** +28, **Will** +26
@@ -124,5 +124,5 @@ Male [[Catfolk]] beast-singer
 
 ---
 **Speed** 25 feet, climb 10 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _claw_ +30 [+26/+22] (agile, finesse, magical), **Damage** 2d6+10 slashing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _composite longbow_ +30 [+25/+20] (deadly d10, magical, propulsive, range increment 100 feet, volley 30 feet), **Damage** 2d8+10 piercing plus 1d6 acid</span>**Occult Spontaneous Spells** DC 34; **8th** _[[Scintillating Pattern]]_, _[[Uncontrollable Dance]]_ (2 slots); **7th** _[[Dimensional Lock]]_, _[[Energy Aegis]]_, _[[Prismatic Spray]]_ (3 slots); **6th** _[[Collective Transposition]]_, _[[Phantasmal Calamity]]_, _[[Vampiric Exsanguination]]_ (3 slots); **5th** _[[Cloak of Colors]]_, _[[Shadow Blast]]_, _[[Shadow Siphon]]_ (3 slots); **4th** _[[Blink]]_, _[[Dimension Door]]_, _[[Fly]]_ (3 slots); **3rd** _[[Haste]]_, _[[Invisibility Sphere]]_, _[[Slow]]_ (3 slots); **2nd** _[[Dispel Magic]]_, _[[Resist Energy]]_, _[[Silence]]_ (3 slots); **1st** _[[Sanctuary]]_, _[[Spirit Link]]_, _[[True Strike]]_ (3 slots); **Cantrips** **(8th)** _[[Detect Magic]]_, _[[Forbidding Ward]]_, _[[Guidance]]_, _[[Light]]_, _[[Message]]_
-**Bard Composition Spells** DC 34, 3 Focus Points; **8th** _[[Counter Performance]]_, _[[Inspire Heroics]]_, _[[Soothing Ballad]]_; **Cantrips** **(8th)** _[[Allegro]]_, _[[Inspire Courage]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _claw_ +30 [+26/+22] (agile, finesse, magical), **Damage** 2d6+10 slashing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _composite longbow_ +30 [+25/+20] (deadly d10, magical, propulsive, range increment 100 feet, volley 30 feet), **Damage** 2d8+10 piercing plus 1d6 acid</span>**Occult Spontaneous Spells** DC 34; **8th** _[[DATABASE/spell/Scintillating Pattern|scintillating pattern]]_, _[[DATABASE/spell/Uncontrollable Dance|uncontrollable dance]]_ (2 slots); **7th** _[[DATABASE/spell/Dimensional Lock|dimensional lock]]_, _[[DATABASE/spell/Energy Aegis|energy aegis]]_, _[[DATABASE/spell/Prismatic Spray|prismatic spray]]_ (3 slots); **6th** _[[DATABASE/spell/Collective Transposition|collective transposition]]_, _[[DATABASE/spell/Phantasmal Calamity|phantasmal calamity]]_, _[[DATABASE/spell/Vampiric Exsanguination|vampiric exsanguination]]_ (3 slots); **5th** _[[DATABASE/spell/Cloak of Colors|cloak of colors]]_, _[[DATABASE/spell/Shadow Blast|shadow blast]]_, _[[DATABASE/spell/Shadow Siphon|shadow siphon]]_ (3 slots); **4th** _[[DATABASE/spell/Blink|blink]]_, _[[DATABASE/spell/Dimension Door|dimension door]]_, _[[DATABASE/spell/Fly|fly]]_ (3 slots); **3rd** _[[DATABASE/spell/Haste|haste]]_, _[[DATABASE/spell/Invisibility Sphere|invisibility sphere]]_, _[[DATABASE/spell/Slow|slow]]_ (3 slots); **2nd** _[[DATABASE/spell/Dispel Magic|dispel magic]]_, _[[DATABASE/spell/Resist Energy|resist energy]]_, _[[DATABASE/spell/Silence|silence]]_ (3 slots); **1st** _[[DATABASE/spell/Sanctuary|sanctuary]]_, _[[DATABASE/spell/Spirit Link|spirit link]]_, _[[DATABASE/spell/True Strike|true strike]]_ (3 slots); **Cantrips** **(8th)** _[[DATABASE/spell/Detect Magic|detect magic]]_, _[[DATABASE/spell/Forbidding Ward|forbidding ward]]_, _[[DATABASE/spell/Guidance|guidance]]_, _[[DATABASE/spell/Light|light]]_, _[[DATABASE/spell/Message|message]]_
+**Bard Composition Spells** DC 34, 3 Focus Points; **8th** _[[DATABASE/spell/Counter Performance|counter performance]]_, _[[DATABASE/spell/Inspire Heroics|inspire heroics]]_, _[[DATABASE/spell/Soothing Ballad|soothing ballad]]_; **Cantrips** **(8th)** _[[DATABASE/spell/Allegro|allegro]]_, _[[DATABASE/spell/Inspire Courage|inspire courage]]_

@@ -11,6 +11,7 @@ name: Stormy Heart
 prerequisite: '[[DATABASE/feat/Invoke the Elements|Invoke the Elements]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Stormy Heart <span class="item-type">Feat 17</span>
 
 <span class="item-trait">Changeling</span>
-**Source** [[Ancestry Guide]] 
-**Prerequisites** [[Invoke the Elements]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
+**Prerequisites** [[DATABASE/feat/Invoke the Elements|Invoke the Elements]]
 
 ---
 The elemental power in your blood is a raging storm. You can Invoke the Elements with a frequency of once per 10 minutes, rather than once per day.
@@ -33,4 +34,4 @@ The elemental power in your blood is a raging storm. You can Invoke the Elements
 
 **Changeling:**
 
-A creature with this trait has the changeling versatile heritage. Changelings are the children of [[Hag]] and members of other humanoid ancestries. An ability with this trait can be used or selected only by changelings.
+A creature with this trait has the changeling versatile heritage. Changelings are the children of [[DATABASE/monsterfamily/Hag|hags]] and members of other humanoid ancestries. An ability with this trait can be used or selected only by changelings.

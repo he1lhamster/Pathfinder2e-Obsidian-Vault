@@ -76,23 +76,23 @@ wisdom: '+2'
 # Skeletal Champion
 
 These skeletons retain the cunning they possessed in life.
-**Recall Knowledge - Undead ([[Religion]])**: DC 16
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
 # Skeletal Champion<span class="item-type">Creature 2</span>
 
 <span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Skeleton</span><span class="item-trait">Undead</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +8; darkvision
-**Languages** [[Common]], [[Necril]]
-**Skills** [[Acrobatics]] +8, [[Athletics]] +8, [[Intimidation]] +7
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Necril|Necril]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +8, [[DATABASE/skill/Athletics|Athletics]] +8, [[DATABASE/skill/Intimidation|Intimidation]] +7
 **Str** +4, **Dex** +4, **Con** +1, **Int** -1, **Wis** +2, **Cha** +1
-**Items** [[Chain Mail]], [[Lance]], [[Longsword]], [[Steel Shield]] (Hardness 5, HP 20, BT 10)
+**Items** [[DATABASE/armor/Chain Mail|chain mail]], [[DATABASE/weapon/Lance|lance]], [[DATABASE/weapon/Longsword|longsword]], [[DATABASE/shield/Steel Shield|steel shield]] (Hardness 5, HP 20, BT 10)
 
 ---
 **AC** 19 (21 with shield raised); **Fort** +7, **Ref** +10, **Will** +6
-**HP** 25 ([[Negative Healing]]); **Immunities** death effects, disease, paralyzed, poison, unconscious; **Resistances** cold 5, electricity 5, fire 5, piercing 5, slashing 5
+**HP** 25 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects, disease, paralyzed, poison, unconscious; **Resistances** cold 5, electricity 5, fire 5, piercing 5, slashing 5
 <span class="in-box-ability">**Attack of Opportunity** <span class="action-icon">5</span> </span><span class="in-box-ability"> **Shield Block** <span class="action-icon">5</span> </span>
 
 ---

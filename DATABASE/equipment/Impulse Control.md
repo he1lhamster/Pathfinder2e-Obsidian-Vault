@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 size: null
@@ -53,9 +54,9 @@ weapon_type: null
 # Impulse Control<span class="item-type">Item 1</span>
 
 <span class="item-trait">Divination</span><span class="item-trait">Magical</span>
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 5 gp
 **Bulk** —
 
 ---
-The magical impulse control upgrade attaches the wheelchair to your fingers or nerve impulses, making it accessible for those with mobility restrictions or other health conditions You still can't move the wheelchair if you're physically or magically prevented from doing so, such as by being [[Grabbed]] or magically [[Paralyzed]].
+The magical impulse control upgrade attaches the wheelchair to your fingers or nerve impulses, making it accessible for those with mobility restrictions or other health conditions You still can't move the wheelchair if you're physically or magically prevented from doing so, such as by being [[DATABASE/condition/Grabbed|grabbed]] or magically [[DATABASE/condition/Paralyzed|paralyzed]].

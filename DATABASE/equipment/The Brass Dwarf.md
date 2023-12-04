@@ -31,6 +31,7 @@ rarity: null
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -50,7 +51,7 @@ weapon_type: null
 ---
 # The Brass Dwarf<span class="item-type">Item 20</span>
 
-**Source** [[Stolen Fate Player's Guide]], [[Pathfinder 190. The Choosing]]; **[[The Brass Dwarf]]**
+**Source** [[DATABASE/source/Stolen Fate Player's Guide|Stolen Fate Player's Guide]], [[DATABASE/source/Pathfinder 190. The Choosing|Pathfinder #190: The Choosing]]; **[[DATABASE/equipment/The Brass Dwarf|There is a more recent version of this item. Click here to view.]]**
 **Usage** carried; **Bulk** —
 **Suit** Shields (Con); **Alignment** lawful neutral
 

@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Gladiator Dedication|Gladiator Dedication]] ; Exp
   in [[DATABASE/skill/Performance|Performance]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,12 +26,12 @@ type: Feat
 # Fancy Moves <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Skill</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Gladiator]]
-**Prerequisites** [[Gladiator Dedication]]; expert in [[Performance]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Gladiator|Gladiator]]
+**Prerequisites** [[DATABASE/feat/Gladiator Dedication|Gladiator Dedication]]; expert in [[DATABASE/skill/Performance|Performance]]
 
 ---
-You show off your fighting style to discourage your foes. You can use [[Performance]] to [[Demoralize]].
+You show off your fighting style to discourage your foes. You can use [[DATABASE/skill/Performance|Performance]] to [[DATABASE/action/Demoralize|Demoralize]].
 
 ## Traits
 

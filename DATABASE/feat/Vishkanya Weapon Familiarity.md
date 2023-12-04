@@ -11,6 +11,7 @@ name: Vishkanya Weapon Familiarity
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -23,14 +24,14 @@ type: Feat
 # Vishkanya Weapon Familiarity <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Vishkanya</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 
 ---
-You favor weapons historically used in subtle work and in ceremony. You gain access to and are trained with the [[Blowgun]], [[Fighting Fan]], [[Kris]], [[Kukri]], and [[Shuriken]]. In addition, you gain access to all uncommon vishkanyan weapons. For the purpose of determining your proficiency, martial vishkanyan weapons are simple weapons and advanced vishkanyan weapons are martial weapons.
+You favor weapons historically used in subtle work and in ceremony. You gain access to and are trained with the [[DATABASE/weapon/Blowgun|blowgun]], [[DATABASE/weapon/Fighting Fan|fighting fan]], [[DATABASE/weapon/Kris|kris]], [[DATABASE/weapon/Kukri|kukri]], and [[DATABASE/weapon/Shuriken|shuriken]]. In addition, you gain access to all uncommon vishkanyan weapons. For the purpose of determining your proficiency, martial vishkanyan weapons are simple weapons and advanced vishkanyan weapons are martial weapons.
 
 ## Vishkanya Weapon Familiarity Leads To...
 
-[[Vishkanya Weapon Arts]], [[Vishkanya Weapon Expertise]]
+[[DATABASE/feat/Vishkanya Weapon Arts|Vishkanya Weapon Arts]], [[DATABASE/feat/Vishkanya Weapon Expertise|Vishkanya Weapon Expertise]]
 
 ## Traits
 

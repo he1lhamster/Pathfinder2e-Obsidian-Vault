@@ -13,6 +13,7 @@ prerequisite: '[[DATABASE/inventorinnovation/Armor Innovation|armor]] , [[DATABA
   innovation'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -27,14 +28,14 @@ type: Feat
 # Clockwork Celerity <span class="action-icon">4</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Inventor</span><span class="item-trait">Manipulate</span><span class="item-trait">Unstable</span>
-**Source** [[Guns & Gears]]
-**Prerequisites** [[Armor Innovation]], [[Construct Innovation]], or [[Weapon Innovation]] innovation
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Prerequisites** [[DATABASE/inventorinnovation/Armor Innovation|armor]], [[DATABASE/inventorinnovation/Construct Innovation|construct]], or [[DATABASE/inventorinnovation/Weapon Innovation|weapon]] innovation
 **Trigger** Your turn begins.
 
 ---
-You can use unstable clockwork devices in your innovation to push your invention to act more quickly. You are [[Quickened]] for this turn. How you can use the extra action depends on your innovation.
+You can use unstable clockwork devices in your innovation to push your invention to act more quickly. You are [[DATABASE/condition/Quickened|quickened]] for this turn. How you can use the extra action depends on your innovation.
 
-* **Armor** You can use the extra action to Step, Stride, or use another movement action granted by your innovation (such as Swim if you have the [[Diving Armor]] feat).
+* **Armor** You can use the extra action to Step, Stride, or use another movement action granted by your innovation (such as Swim if you have the [[DATABASE/feat/Diving Armor|Diving Armor]] feat).
 * **Construct** You can use the extra action to Command your construct innovation (or to provide 1 of the actions if you spend 2 actions to Command your construct).
 * **Weapon** You can use the extra action to Strike with your innovation or Reload your innovation.
 

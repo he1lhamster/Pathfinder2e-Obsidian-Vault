@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Fortitude
 school: Divination
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -37,7 +38,7 @@ type: Spell
 # Cast into Time<span class="item-type">Spell 6</span>
 
 <span class="item-trait">Divination</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Traditions** arcane, occult
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Area** 15-foot cone
@@ -47,7 +48,7 @@ type: Spell
 You release a wave of temporal energy that sends creatures violently tumbling through time, scarring their thoughts with the information flowing around them. Although the journey can feel like it lasts for minutes or even days, the targets reappear instantly. Witnessing this chaotic flow of time and being bashed against objects from different times deals the targets 5d8 mental damage and 5d6 bludgeoning damage, with a Fortitude save. A creature that falls into time disappears until the end of your turn. It then reappears in the same space it left; if that space is occupied, it appears in the nearest empty space, chosen by the GM.
 **Critical Success** The creature is unaffected.
 **Success** The creature falls into time. When it returns, it takes half damage.
-**Failure** The creature falls into time. When it returns, it takes full damage and is [[Sickened]].
+**Failure** The creature falls into time. When it returns, it takes full damage and is [[DATABASE/condition/Sickened|sickened 1]].
 **Critical Failure** The creature falls into time. When it returns, it takes double damage and is sickened 2.
 
 ---

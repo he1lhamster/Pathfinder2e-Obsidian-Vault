@@ -11,6 +11,7 @@ name: Clever Gambit
 prerequisite: '[[DATABASE/rogueracket/Mastermind|mastermind racket]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,10 +25,10 @@ type: Feat
 # Clever Gambit <span class="action-icon">5</span> <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Rogue</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Butterfly Blade]]*
-**Prerequisites** [[Mastermind]]
-**Trigger** Your Strike critically hits and deals damage to a creature you've identified with [[Recall Knowledge]].
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Butterfly Blade|Butterfly Blade]]*
+**Prerequisites** [[DATABASE/rogueracket/Mastermind|mastermind racket]]
+**Trigger** Your Strike critically hits and deals damage to a creature you've identified with [[DATABASE/action/Recall Knowledge|Recall Knowledge]].
 * This archetype offers Clever Gambit at a different level than displayed here.
 
 ---

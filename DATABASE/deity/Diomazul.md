@@ -23,6 +23,7 @@ follower_alignment:
 id: '190'
 name: Diomazul
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]]'
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
@@ -32,7 +33,7 @@ type: Deity
 ---
 # Diomazul (The Serpent of Eighty Blades) [LE]
 
-**Source** [[Impossible Lands]], [[Gods & Magic]] 
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]], [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 An obscure Vudran god of war, Diomazul, the Serpent of Eighty Blades, is a patron of ascetic meditation, bitter renewals, and inordinate retribution. Devotees and theologians speak of Diomazul as having the likeness of a massive, hooded cobra in serene slumber—80 arms folded in stillness comprise this hood, each hand grasping a sheathed blade. When roused to violence by enemies, Diomazul awakens, retaining his tranquil countenance, but his hood flares in a bristle of steel as he draws all 80 blades to welcome his newfound foes and offer a gift of their unmaking. Once the Serpent of Eighty Blades has concluded evicting the life from his enemies, he entwines his body around their remains, crushing their bones into the earth and scattering their blood into the waters, burying all spoor of their existence under his immense form.
 **Category** Vudrani Gods
 **Edicts** Remain celibate and detached from worldly pleasures, meditate, utterly destroy your enemies, erase all traces of defeated foes
@@ -42,10 +43,10 @@ An obscure Vudran god of war, Diomazul, the Serpent of Eighty Blades, is a patro
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Strength or Dexterity
-**Divine Font** _[[Harm]]_ or _[[Heal]]_
-**Divine Skill** [[Athletics]]
-**Favored Weapon** [[Scimitar]]
-**Domains** [[Destruction Domain]], [[Earth Domain]], [[Water Domain]], [[Zeal Domain]]
-**Alternate Domains** [[Might Domain]]
-**Cleric Spells** 1st: _[[Phantom Pain]]_, 2nd: _[[Slough Skin]]_, 4th: _[[Weapon Storm]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Strength or Dexterity
+**Divine Font** _[[DATABASE/spell/Harm|harm]]_ or _[[DATABASE/spell/Heal|heal]]_
+**Divine Skill** [[DATABASE/skill/Athletics|Athletics]]
+**Favored Weapon** [[DATABASE/weapon/Scimitar|scimitar]]
+**Domains** [[DATABASE/domain/Destruction Domain|destruction]], [[DATABASE/domain/Earth Domain|earth]], [[DATABASE/domain/Water Domain|water]], [[DATABASE/domain/Zeal Domain|zeal]]
+**Alternate Domains** [[DATABASE/domain/Might Domain|might]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Phantom Pain|phantom pain]]_, 2nd: _[[DATABASE/spell/Slough Skin|slough skin]]_, 4th: _[[DATABASE/spell/Weapon Storm|weapon storm]]_

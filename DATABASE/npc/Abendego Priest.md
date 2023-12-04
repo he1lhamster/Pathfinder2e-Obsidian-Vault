@@ -89,28 +89,28 @@ wisdom: '+5'
 # Abendego Priest
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 28
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 28
 **Unspecific Lore**: DC 26
 **Specific Lore**: DC 23
 
 # Abendego Priest<span class="item-type">Creature 11</span>
 
 <span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 171. Hurricane's Howl]]
-[[Human]] priest of [[Norgorber]]
+**Source** [[DATABASE/source/Pathfinder 171. Hurricane's Howl|Pathfinder #171: Hurricane's Howl]]
+[[DATABASE/ancestry/Human|Human]] priest of [[DATABASE/deity/Norgorber|Norgorber]]
 **Perception** +22
-**Languages** [[Common]]
-**Skills** [[Athletics]] +21, [[Deception]] +21, [[Intimidation]] +19, [[Religion]] +22, [[Thievery]] +20
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +21, [[DATABASE/skill/Deception|Deception]] +21, [[DATABASE/skill/Intimidation|Intimidation]] +19, [[DATABASE/skill/Religion|Religion]] +22, [[DATABASE/skill/Thievery|Thievery]] +20
 **Str** +4, **Dex** +3, **Con** +2, **Int** +0, **Wis** +5, **Cha** +2
-**Items** _+2 [[Striking]] [[Shortsword]]_, [[Religious Symbol]] of [[Norgorber]], [[Dagger]], [[Shadow Essence]], [[Studded Leather Armor]]
+**Items** _+2 [[DATABASE/equipment/Striking|striking]] [[DATABASE/weapon/Shortsword|shortsword]]_, [[DATABASE/equipment/Religious Symbol|religious symbol]] of [[DATABASE/deity/Norgorber|Norgorber]], [[DATABASE/weapon/Dagger|dagger]], [[DATABASE/equipment/Shadow Essence|shadow essence (2 doses)]], [[DATABASE/armor/Studded Leather Armor|studded leather armor]]
 
 ---
 **AC** 30; **Fort** +20, **Ref** +21, **Will** +17
 **HP** 175
-<span class="in-box-ability">**Sodden Defense <span class="action-icon">5</span> ** (conjuration, divine, water) **Trigger** An attacker misses or critically misses the Abendego priest with a melee Strike; **Effect** The priest calls upon the endless storm to punish the attacker. Seawater appears in the target's lungs and the target is [[Sickened]] (sickened 3 if the triggering attack was a critical miss).</span>
+<span class="in-box-ability">**Sodden Defense <span class="action-icon">5</span> ** (conjuration, divine, water) **Trigger** An attacker misses or critically misses the Abendego priest with a melee Strike; **Effect** The priest calls upon the endless storm to punish the attacker. Seawater appears in the target's lungs and the target is [[DATABASE/condition/Sickened|sickened 1]] (sickened 3 if the triggering attack was a critical miss).</span>
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _shortsword_ +24 [+20/+16] (agile, magical, versatile S), **Damage** 2d6+8 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> dagger +22 [+18/+14] (agile, versatile S), **Damage** 1d4+8 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> dagger +22 [+18/+14] (agile, thrown 10 feet, versatile S), **Damage** 1d4+8 piercing</span>**Divine Prepared Spells** DC 30, attack +22; **6th** _[[Harm]]_ (×3), _[[Heal]]_, _[[Phantasmal Killer]]_; **5th** _[[Flame Strike]]_, _[[Sending]]_, _[[Shadow Blast]]_; **4th** _[[Freedom of Movement]]_, _[[Invisibility]]_, _[[Phantasmal Killer]]_; **3rd** _[[Blindness]]_, _[[Chilling Darkness]]_, _[[Water Breathing]]_; **2nd** _[[Heal]]_, _[[Illusory Disguise]]_, _[[Silence]]_; **1st** _[[Command]]_, _[[Create Water]]_, _[[Sanctuary]]_; **Cantrips** **(6th)** _[[Daze]]_, _[[Detect Magic]]_, _[[Divine Lance]]_, _[[Guidance]]_, _[[Light]]_
-**Cleric Domain Spells** DC 30, 2 Focus Points; **6th** _[[Appearance of Wealth]]_, _[[Precious Metals]]_
-<span class="in-box-ability">**[[Sneak Attack]]** The Abendego priest deals an additional 2d6 precision damage to [[Flat-Footed]] creatures.</span><span class="in-box-ability">**Steady Spellcasting** If a reaction would disrupt the priest's spellcasting action, they attempt a DC 15 flat check. On a success, the action isn't disrupted.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _shortsword_ +24 [+20/+16] (agile, magical, versatile S), **Damage** 2d6+8 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> dagger +22 [+18/+14] (agile, versatile S), **Damage** 1d4+8 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> dagger +22 [+18/+14] (agile, thrown 10 feet, versatile S), **Damage** 1d4+8 piercing</span>**Divine Prepared Spells** DC 30, attack +22; **6th** _[[DATABASE/spell/Harm|harm]]_ (×3), _[[DATABASE/spell/Heal|heal]]_, _[[DATABASE/spell/Phantasmal Killer|phantasmal killer]]_; **5th** _[[DATABASE/spell/Flame Strike|flame strike]]_, _[[DATABASE/spell/Sending|sending]]_, _[[DATABASE/spell/Shadow Blast|shadow blast]]_; **4th** _[[DATABASE/spell/Freedom of Movement|freedom of movement]]_, _[[DATABASE/spell/Invisibility|invisibility]]_, _[[DATABASE/spell/Phantasmal Killer|phantasmal killer]]_; **3rd** _[[DATABASE/spell/Blindness|blindness]]_, _[[DATABASE/spell/Chilling Darkness|chilling darkness]]_, _[[DATABASE/spell/Water Breathing|water breathing]]_; **2nd** _[[DATABASE/spell/Heal|heal]]_, _[[DATABASE/spell/Illusory Disguise|illusory disguise]]_, _[[DATABASE/spell/Silence|silence]]_; **1st** _[[DATABASE/spell/Command|command]]_, _[[DATABASE/spell/Create Water|create water]]_, _[[DATABASE/spell/Sanctuary|sanctuary]]_; **Cantrips** **(6th)** _[[DATABASE/spell/Daze|daze]]_, _[[DATABASE/spell/Detect Magic|detect magic]]_, _[[DATABASE/spell/Divine Lance|divine lance]]_, _[[DATABASE/spell/Guidance|guidance]]_, _[[DATABASE/spell/Light|light]]_
+**Cleric Domain Spells** DC 30, 2 Focus Points; **6th** _[[DATABASE/spell/Appearance of Wealth|appearance of wealth]]_, _[[DATABASE/spell/Precious Metals|precious metals]]_
+<span class="in-box-ability">**[[DATABASE/monsterability/Sneak Attack|Sneak Attack]]** The Abendego priest deals an additional 2d6 precision damage to [[DATABASE/condition/Flat-Footed|flat-footed]] creatures.</span><span class="in-box-ability">**Steady Spellcasting** If a reaction would disrupt the priest's spellcasting action, they attempt a DC 15 flat check. On a success, the action isn't disrupted.</span>

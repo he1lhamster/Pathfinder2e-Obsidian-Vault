@@ -11,6 +11,7 @@ name: Ward Slumber
 prerequisite: '[[DATABASE/feat/Sleepwalker Dedication|Sleepwalker Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -25,12 +26,12 @@ type: Feat
 # Ward Slumber <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Archetype</span><span class="item-trait">Occult</span>
-**Source** [[Dark Archive]]
-**Archetype** [[Sleepwalker]]
-**Prerequisites** [[Sleepwalker Dedication]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Archetype** [[DATABASE/archetype/Sleepwalker|Sleepwalker]]
+**Prerequisites** [[DATABASE/feat/Sleepwalker Dedication|Sleepwalker Dedication]]
 
 ---
-Just before going to sleep, you can perform a 10-minute ward to protect the slumber of up to eight creatures within 30 feet of you. All creatures affected by the ritual gain a +4 status bonus on saving throws against [[Nightmare]], a [[Night Hag]] dream haunting, or other effects influencing dreams (such as those provided by this archetype) until your next daily preparations. They heal double the usual amount of Hit Points from resting.
+Just before going to sleep, you can perform a 10-minute ward to protect the slumber of up to eight creatures within 30 feet of you. All creatures affected by the ritual gain a +4 status bonus on saving throws against [[DATABASE/spell/Nightmare|nightmare]], a [[DATABASE/monster/Night Hag|night hag's]] dream haunting, or other effects influencing dreams (such as those provided by this archetype) until your next daily preparations. They heal double the usual amount of Hit Points from resting.
 
 ## Traits
 

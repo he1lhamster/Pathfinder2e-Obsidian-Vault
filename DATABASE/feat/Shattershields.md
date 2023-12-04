@@ -11,6 +11,7 @@ name: Shattershields
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -27,7 +28,7 @@ type: Feat
 # Shattershields <span class="action-icon">1</span> <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Metal</span><span class="item-trait">Primal</span><span class="item-trait">Stance</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
 Four plates of pitted metal float around you to intercept attacks. You and allies in your kinetic aura gain a +1 circumstance bonus to AC. When any creature with this bonus would take damage from a physical attack, one of the plates reduces the damage by its Hardness of 5. If the damage exceeds the Hardness, that plate is destroyed. You can replenish all destroyed plates as a single action that has the concentrate trait.

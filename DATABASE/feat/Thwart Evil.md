@@ -11,6 +11,7 @@ name: Thwart Evil
 prerequisite: '[[DATABASE/feat/Lastwall Sentry Dedication|Lastwall Sentry Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
 subcategory: null
@@ -24,10 +25,10 @@ type: Feat
 # Thwart Evil <span class="action-icon">5</span> <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Knights of Lastwall]]
-**Archetype** [[Lastwall Sentry]]
+**Source** [[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]
+**Archetype** [[DATABASE/archetype/Lastwall Sentry|Lastwall Sentry]]
 **Frequency** once per day
-**Prerequisites** [[Lastwall Sentry Dedication]]; expert in [[Religion]]
+**Prerequisites** [[DATABASE/feat/Lastwall Sentry Dedication|Lastwall Sentry Dedication]]; expert in [[DATABASE/skill/Religion|Religion]]
 **Trigger** A creature you can see uses a spell or ability that has the evil or negative traits.
 
 ---

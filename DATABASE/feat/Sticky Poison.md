@@ -11,6 +11,7 @@ name: Sticky Poison
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Sticky Poison <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Alchemist</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Poisoner]]*
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Poisoner|Poisoner]]*
 * This archetype offers Sticky Poison at a different level than displayed here.
 
 ---

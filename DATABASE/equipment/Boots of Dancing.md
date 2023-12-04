@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Enchantment
 size: null
@@ -56,8 +57,8 @@ weapon_type: null
 # Boots of Dancing<span class="item-type">Item 11</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Cursed</span><span class="item-trait">Enchantment</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Usage** worn shoes; **Bulk** L
 
 ---
-These boots act as [[Boots of Elvenkind]], but they react wildly to strong physical exertion. While you wear the boots, the curse activates whenever you attempt an [[Athletics]] check or Stride more than once in a single round during an encounter. The boots cast an 8th-level [[Uncontrollable Dance]] spell on you, and you automatically fail your save. Once the curse has activated for the first time, the boots fuse to you.
+These boots act as [[DATABASE/equipment/Boots of Elvenkind|greater boots of elvenkind]], but they react wildly to strong physical exertion. While you wear the boots, the curse activates whenever you attempt an [[DATABASE/skill/Athletics|Athletics]] check or Stride more than once in a single round during an encounter. The boots cast an 8th-level [[DATABASE/spell/Uncontrollable Dance|uncontrollable dance]] spell on you, and you automatically fail your save. Once the curse has activated for the first time, the boots fuse to you.

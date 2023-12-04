@@ -9,6 +9,7 @@ language: null
 max_speed: null
 name: Half-Orc
 rarity: null
+rus_type_level: null
 size: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 speed: null
@@ -20,11 +21,11 @@ vision: null
 # Half-Orc (Human Heritage)
 
 <span class="item-trait">Half-Orc</span><span class="item-trait">Humanoid</span><span class="item-trait">Orc</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 _A half-orc is the offspring of a human and an orc, or of two half-orcs. Because some intolerant people see orcs as more akin to monsters than people, they sometimes hate and fear half-orcs simply due to their lineage. This commonly pushes half-orcs to the margins of society, where some find work in manual labor or as mercenaries, and others fall into crime or cruelty. Many who can’t stand the indignities heaped on them in human society find a home among their orc kin or trek into the wilderness to live in peace, apart from society’s judgment.
  Humans often assume half-orcs are unintelligent or uncivilized, and half-orcs rarely find acceptance among societies with many such folk. To an orc tribe, a half-orc is considered smart enough to make a good war leader but weaker physically than other orcs. Many half-orcs thus end up having low status among orc tribes unless they can prove their strength.
  A half-orc has a shorter lifespan than other humans, living to be roughly 70 years old._
-You can create a half-orc character by selecting the [[Half-Orc]] at 1st level. This gives you access to orc and half-orc ancestry feats in addition to human ancestry feats.
+You can create a half-orc character by selecting the [[DATABASE/heritage/Half-Orc|half-orc heritage]] at 1st level. This gives you access to orc and half-orc ancestry feats in addition to human ancestry feats.
 
 ## You Might...
 
@@ -46,8 +47,8 @@ By default, half-elves and half-orcs descend from humans, but your GM might allo
 
 # Human Heritage
 
-## [[Half-Orc]]
+## [[DATABASE/heritage/Half-Orc|Half-Orc]]
 
-**Source** [[Core Rulebook]] 
-**Ancestry Page** [[Half-Orc]]
-One of your parents was an [[Orc]], or one or both were half-orcs. You have a green tinge to your skin and other indicators of orc heritage. You gain the orc trait, the half-orc trait, and low-light vision. In addition, you can select orc, half-orc, and human feats whenever you gain an ancestry feat.
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Ancestry Page** [[DATABASE/ancestry/Half-Orc|Half-Orc]]
+One of your parents was an [[DATABASE/ancestry/Orc|orc]], or one or both were half-orcs. You have a green tinge to your skin and other indicators of orc heritage. You gain the orc trait, the half-orc trait, and low-light vision. In addition, you can select orc, half-orc, and human feats whenever you gain an ancestry feat.

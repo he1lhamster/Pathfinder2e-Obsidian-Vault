@@ -88,17 +88,17 @@ wisdom: '+2'
 Found in castle dung heaps, city dumps, and sewers, ofalths are thought to be cousins of shamblers. But whereas shamblers are living heaps of soggy vegetation, ofalths are living heaps of matter from an altogether more unpleasant source: these monsters look like 9-foot-tall amalgamations of wet detritus, sewage, and rubbish with long tentacular arms and stout legs. It can be difficult to tell where an ofalth’s body ends and the foul contents of the cesspit they wallow within begins. They move through refuse heaps in search of organic material in their endless quest to sate their hunger.
  Though ofalths have a limited intellect, they still exhibit a vile curiosity. They are no strangers to dissecting their prey after it has succumbed to their wasting disease—a terrible and aptly named affliction that causes the victim’s blood to seep from its pores. When an ofalth manages to secure a victim alive, it may even torture its food by consuming it bit by bit while it shrieks for mercy.
  Ofalths’ domains typically overlap with those of otyughs, who fear ofalths, though otyughs have also been known to band together in order to take down an ofalth for its rubbery flesh, which the otyughs consider an intoxicating delicacy. On the other hand, ofalths seem to particularly enjoy taking otyughs apart one piece at a time. They have been known to keep a captured otyugh alive for days or even weeks, forcing the otyugh to endure the cloying scent of its own body decaying before the ofalth feeds.
-**Recall Knowledge - Aberration ([[Occultism]])**: DC 27
+**Recall Knowledge - Aberration ([[DATABASE/skill/Occultism|Occultism]])**: DC 27
 **Unspecific Lore**: DC 25
 **Specific Lore**: DC 22
 
 # Ofalth<span class="item-type">Creature 10</span>
 
 <span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Aberration</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +18; darkvision
-**Languages** [[Common]]; (can’t speak any language)
-**Skills** [[Athletics]] +23, [[Stealth]] +19 (+23 in trash and rubbish)
+**Languages** [[DATABASE/language/Common|Common]]; (can’t speak any language)
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +23, [[DATABASE/skill/Stealth|Stealth]] +19 (+23 in trash and rubbish)
 **Str** +7, **Dex** +3, **Con** +6, **Int** -2, **Wis** +2, **Cha** -2
 **Refuse Pile** When it’s not in danger, an ofalth can spend 1 minute settling into a 10-foot pile that looks like a heap of garbage. While doing so, the ofalth gains a +2 circumstance bonus to AC but can’t use attack, manipulate, or move actions. A creature that enters the area of the garbage heap or interacts with it must attempt a save against the ofalth’s putrid stench and wretched weeps disease. An ofalth can leave this form using a single action.
 
@@ -109,7 +109,7 @@ Found in castle dung heaps, city dumps, and sewers, ofalths are thought to be co
 
 ---
 **Speed** 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +23 [+18/+13] (reach 10 feet), **Damage** 2d12+13 bludgeoning plus wretched weeps</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> fling offal +19 [+14/+9] (range increment 30 feet), **Damage** 2d10+7 bludgeoning plus wretched weeps</span><span class="in-box-ability">**Wretched Weeps** (disease) **Saving Throw** DC 26 Fortitude; **Stage 1** carrier with no ill effect (1 day); **Stage 2** 2d8 persistent bleed damage every hour and [[Enfeebled]] (1 day); **Stage 3** 2d8 persistent bleed damage every hour and [[Enfeebled]] (1 day)</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +23 [+18/+13] (reach 10 feet), **Damage** 2d12+13 bludgeoning plus wretched weeps</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> fling offal +19 [+14/+9] (range increment 30 feet), **Damage** 2d10+7 bludgeoning plus wretched weeps</span><span class="in-box-ability">**Wretched Weeps** (disease) **Saving Throw** DC 26 Fortitude; **Stage 1** carrier with no ill effect (1 day); **Stage 2** 2d8 persistent bleed damage every hour and [[DATABASE/condition/Enfeebled|enfeebled 1]] (1 day); **Stage 3** 2d8 persistent bleed damage every hour and [[DATABASE/condition/Enfeebled|enfeebled 2]] (1 day)</span>
 
 ###  Filth Flingers
 

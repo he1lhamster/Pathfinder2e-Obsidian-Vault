@@ -12,6 +12,7 @@ prerequisite: Master in [[DATABASE/skill/Crafting|Crafting]] ; deity who grants 
   divine font
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
 subcategory: crafting
@@ -26,11 +27,11 @@ type: Feat
 # Bless Toxin <span class="item-type">Feat 7</span>
 
 <span class="item-trait">General</span><span class="item-trait">Negative</span><span class="item-trait">Skill</span>
-**Source** [[Gods & Magic]] 
-**Prerequisites** master in [[Crafting]]; deity who grants [[Harm]] divine font
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
+**Prerequisites** master in [[DATABASE/skill/Crafting|Crafting]]; deity who grants [[DATABASE/spell/Harm|harm]] divine font
 
 ---
-You pour negative energy into toxins you create to further debilitate your targets. When you [[Craft]] an alchemical poison (rather than create it with advanced alchemy, Quick Alchemy, or another means), it becomes a blessed alchemical poison and gains the negative trait. When a creature is afflicted with a blessed alchemical poison, for 1 round, any Hit Points it would regain from a positive effect are reduced by 5, or by 10 if you are legendary in [[Crafting]].
+You pour negative energy into toxins you create to further debilitate your targets. When you [[DATABASE/action/Craft|Craft]] an alchemical poison (rather than create it with advanced alchemy, Quick Alchemy, or another means), it becomes a blessed alchemical poison and gains the negative trait. When a creature is afflicted with a blessed alchemical poison, for 1 round, any Hit Points it would regain from a positive effect are reduced by 5, or by 10 if you are legendary in [[DATABASE/skill/Crafting|Crafting]].
 
 ## Traits
 
@@ -40,7 +41,7 @@ A type of feat that any character can select, regardless of ancestry and class, 
 
 **Negative:**
 
-Effects with this trait heal undead creatures with negative energy, deal negative damage to living creatures, or manipulate negative energy. Planes with this trait are vast, empty reaches that suck the life from the living. Creatures with this trait are natives of the [[Negative Energy Plane]]. They can survive the basic environmental effects of the Negative Energy Plane.
+Effects with this trait heal undead creatures with negative energy, deal negative damage to living creatures, or manipulate negative energy. Planes with this trait are vast, empty reaches that suck the life from the living. Creatures with this trait are natives of the [[DATABASE/plane/Negative Energy Plane|Negative Energy Plane]]. They can survive the basic environmental effects of the Negative Energy Plane.
 
 **Skill:**
 

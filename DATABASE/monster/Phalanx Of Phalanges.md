@@ -85,23 +85,23 @@ wisdom: '+0'
 # Phalanx Of Phalanges
 
 Made up of hundreds of finger and toe bones, a phalanx of phalanges clatters along the ground in an eerily uniform manner.
-**Recall Knowledge - Construct ([[Arcana]], [[Crafting]])**: DC 17
+**Recall Knowledge - Construct ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Crafting|Crafting]])**: DC 17
 **Unspecific Lore**: DC 15
 **Specific Lore**: DC 12
 
 # Phalanx Of Phalanges<span class="item-type">Creature 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Construct</span><span class="item-trait">Mindless</span><span class="item-trait">Swarm</span>
-**Source** [[Pathfinder 181. Zombie Feast]]
-**Perception** +5; [[Darkvision]]
-**Skills** [[Acrobatics]] +8
+**Source** [[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie Feast]]
+**Perception** +5; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +8
 **Str** +1, **Dex** +3, **Con** +4, **Int** -5, **Wis** +0, **Cha** -5
 
 ---
 **AC** 15; **Fort** +9, **Ref** +8, **Will** +5
-**HP** 16; **Immunities** death effects, disease, [[Doomed]], [[Drained]], fatigued, healing, mental, necromancy, nonlethal attacks, [[Paralyzed]], poison, [[Sickened]], [[Unconscious]]; **Resistances** cold 3, electricity 3, fire 3, piercing 3, slashing 3; **Weaknesses** area damage 3, splash damage 3
+**HP** 16; **Immunities** death effects, disease, [[DATABASE/condition/Doomed|doomed]], [[DATABASE/condition/Drained|drained]], fatigued, healing, mental, necromancy, nonlethal attacks, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Sickened|sickened]], [[DATABASE/condition/Unconscious|unconscious]]; **Resistances** cold 3, electricity 3, fire 3, piercing 3, slashing 3; **Weaknesses** area damage 3, splash damage 3
 <span class="in-box-ability">**Predetermined Path** A phalanx of phalanges knows a single path on even ground no longer than 100 feet, as determined by its creator. The phalanx of phalanges makes no actions other than moving along this path or making Countless Digits attacks against creatures in its way. If impeded on this path or if it takes damage, the phalanx of phalanges is unbound from its path and is permanently berserk, attacking nearby creatures to the best of its ability. Speed 20 feet</span>
 
 ---
 **Speed** 
-<span class="in-box-ability">**Countless Digits** <span class="action-icon">1</span> Each other creature in the phalanx of phalanges' space takes 1d6 piercing damage (1d6+2 piercing damage if the swarm is berserk) (DC 17 basic Reflex save). On a critical failure, the target is thoroughly pinned by the phalanges, becoming [[Immobilized]] until it [[Escape]] (DC 17) or until any creature uses 2 Interact actions to scrape away the bones pinning them down.</span>
+<span class="in-box-ability">**Countless Digits** <span class="action-icon">1</span> Each other creature in the phalanx of phalanges' space takes 1d6 piercing damage (1d6+2 piercing damage if the swarm is berserk) (DC 17 basic Reflex save). On a critical failure, the target is thoroughly pinned by the phalanges, becoming [[DATABASE/condition/Immobilized|immobilized]] until it [[DATABASE/action/Escape|Escapes]] (DC 17) or until any creature uses 2 Interact actions to scrape away the bones pinning them down.</span>

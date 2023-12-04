@@ -20,6 +20,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Enchantment
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
@@ -40,8 +41,8 @@ type: Focus
 # Call to Arms<span class="item-type">Focus 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Auditory</span><span class="item-trait">Cursebound</span><span class="item-trait">Emotion</span><span class="item-trait">Enchantment</span><span class="item-trait">Mental</span><span class="item-trait">Oracle</span>
-**Source** [[Advanced Player's Guide]] 
-**Mystery** [[Battle]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Mystery** [[DATABASE/oraclemystery/Battle|battle]]
 **Cast** <span class="action-icon">5</span> verbal; **Trigger** You are about to roll for initiative.
 **Area** 20-foot emanation
 **Duration** 1 minute

@@ -2,6 +2,7 @@
 id: '43'
 name: Agents of Edgewatch Player's Guide
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -16,4 +17,4 @@ type: Source
 
 ## Backgrounds [10]
 
-[[Ex-Con Token Guard]], [[Godless Graycloak]], [[Grizzled Muckrucker]], [[Harbor Guard Moonlighter]], [[Learned Guard Prodigy]], [[Political Scion]], [[Post Guard of All Trade]], [[Sally Guard Neophyte]], [[Sleepless Suns Star]], [[Undercover Lotus Guard]]
+[[DATABASE/background/Ex-Con Token Guard|Ex-Con Token Guard]], [[DATABASE/background/Godless Graycloak|Godless Graycloak]], [[DATABASE/background/Grizzled Muckrucker|Grizzled Muckrucker]], [[DATABASE/background/Harbor Guard Moonlighter|Harbor Guard Moonlighter]], [[DATABASE/background/Learned Guard Prodigy|Learned Guard Prodigy]], [[DATABASE/background/Political Scion|Political Scion]], [[DATABASE/background/Post Guard of All Trade|Post Guard of All Trade]], [[DATABASE/background/Sally Guard Neophyte|Sally Guard Neophyte]], [[DATABASE/background/Sleepless Suns Star|Sleepless Suns Star]], [[DATABASE/background/Undercover Lotus Guard|Undercover Lotus Guard]]

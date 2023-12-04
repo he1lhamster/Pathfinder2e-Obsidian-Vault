@@ -12,6 +12,7 @@ name: Shield Bash
 price: null
 range: null
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait: null
 type: Weapon
@@ -22,16 +23,16 @@ weapon_type: Melee
 ---
 # Shield Bash
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** —; **Damage** 1d4 B; **Bulk** —
 **Hands** 1
-**Type** Melee; **Category** Martial; **Group** [[Shield]]
+**Type** Melee; **Category** Martial; **Group** [[DATABASE/weapongroup/Shield|Shield]]
 
 ---
 A shield bash is not actually a weapon, but a maneuver in which you thrust or swing your shield to hit your foe with an impromptu attack.
 
 ## Critical Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
 **Shield**: You knock the target back from you 5 feet. This is forced movement.

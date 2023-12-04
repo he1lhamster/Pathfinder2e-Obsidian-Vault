@@ -11,6 +11,7 @@ name: Potent Poisoner
 prerequisite: '[[DATABASE/class_/Alchemist|powerful alchemy]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Potent Poisoner <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Alchemist</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Alchemist]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/class_/Alchemist|powerful alchemy]]
 
 ---
 By concentrating your poisons’ toxic components, you make them harder for victims to resist. When you craft an alchemical item with the poison trait by any means, the DC is increased by up to 4, to a maximum of your class DC.

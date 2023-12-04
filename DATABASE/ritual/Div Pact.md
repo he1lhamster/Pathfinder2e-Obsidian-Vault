@@ -13,6 +13,7 @@ primary_check: '[[DATABASE/skill/Religion|Religion]] (expert; you must be a [[DA
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: Conjuration
 secondary_casters: null
 secondary_check: null
@@ -27,32 +28,32 @@ type: Ritual
 # Div Pact<span class="item-type">Ritual 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Conjuration</span>
-**Source** [[Bestiary 3]]
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
 **Cast** 1 day
-**Primary Check** [[Religion]] (expert; you must be a [[Div]])
+**Primary Check** [[DATABASE/skill/Religion|Religion]] (expert; you must be a [[DATABASE/monsterfamily/Div|div]])
 
 ---
-You call upon the powers of [[Abaddon]] to grant you the assistance of a [[Div]]. You call upon a div whose level can be no more than double _div pact_'s spell level, two divs whose levels are each at least 2 less than double the spell level, or three divs whose levels are each at least 3 less than double the spell level.
+You call upon the powers of [[DATABASE/plane/Abaddon|Abaddon]] to grant you the assistance of a [[DATABASE/monsterfamily/Div|div]]. You call upon a div whose level can be no more than double _div pact_'s spell level, two divs whose levels are each at least 2 less than double the spell level, or three divs whose levels are each at least 3 less than double the spell level.
 
 ## Level 1 Divs
 
-[[Doru]] (LE)
+[[DATABASE/monster/Doru|Doru]] (LE)
 
 ## Level 4 Divs
 
-[[Aghash]] (LE)
+[[DATABASE/monster/Aghash|Aghash]] (LE)
 
 ## Level 7 Divs
 
-[[Pairaka]] (LE)
+[[DATABASE/monster/Pairaka|Pairaka]] (LE)
 
 ## Level 8 Divs
 
-[[Yshula]] (NE), [[Zridi]] (NE)
+[[DATABASE/monster/Yshula|Yshula]] (NE), [[DATABASE/monster/Zridi|Zridi]] (NE)
 
 ## Level 14 Divs
 
-[[Sepid]] (LE)
+[[DATABASE/monster/Sepid|Sepid]] (LE)
 **Critical Success** You conjure the div or divs, and they require nothing in return for their service.
 **Success** You conjure the div or divs. They are not eager to pursue the task, so they require a favor in return.
 **Failure** you don't conjure any divs.

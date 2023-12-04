@@ -11,6 +11,7 @@ name: Minor Omen
 prerequisite: '[[DATABASE/feat/Oatia Skysage Dedication|Oatia Skysage Dedication]]'
 rarity: Common
 requirement: You can see the night sky.
+rus_type_level: null
 school: Divination
 source: '[[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh
   Arch]]'
@@ -27,10 +28,10 @@ type: Feat
 # Minor Omen <span class="action-icon">5</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Divination</span><span class="item-trait">Fortune</span><span class="item-trait">Occult</span>
-**Source** [[Pathfinder 187. The Seventh Arch]]
-**Archetype** [[Oatia Skysage]]
+**Source** [[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh Arch]]
+**Archetype** [[DATABASE/archetype/Oatia Skysage|Oatia Skysage]]
 **Frequency** once per day
-**Prerequisites** [[Oatia Skysage Dedication]]
+**Prerequisites** [[DATABASE/feat/Oatia Skysage Dedication|Oatia Skysage Dedication]]
 **Trigger** You fail a Reflex save.
 **Requirements** You can see the night sky.
 

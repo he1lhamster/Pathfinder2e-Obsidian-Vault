@@ -24,6 +24,7 @@ patron_theme: null
 range: 120 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -41,10 +42,10 @@ type: Spell
 # Magic Missile<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Evocation</span><span class="item-trait">Force</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult
-**Bloodline** [[Imperial]]
-**Deities** [[Gravelady's Guard]], [[Lorthact]], [[Nethys]]
+**Bloodline** [[DATABASE/sorcererbloodline/Imperial|imperial]]
+**Deities** [[DATABASE/deity/Gravelady's Guard|Gravelady's Guard]], [[DATABASE/deity/Lorthact|Lorthact]], [[DATABASE/deity/Nethys|Nethys]]
 **Cast** <span class="action-icon">1</span> to <span class="action-icon">3</span> (somatic, verbal)
 **Range** 120 feet; **Targets** 1 creature
 

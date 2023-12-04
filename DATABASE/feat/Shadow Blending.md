@@ -11,6 +11,7 @@ name: Shadow Blending
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Illusion
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -27,8 +28,8 @@ type: Feat
 # Shadow Blending <span class="action-icon">5</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Fetchling</span><span class="item-trait">Illusion</span><span class="item-trait">Occult</span><span class="item-trait">Shadow</span>
-**Source** [[Ancestry Guide]] 
-**Trigger** A creature attempts a flat check to target you while you're [[Concealed]] or [[Hidden]] due to dim light or darkness.
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
+**Trigger** A creature attempts a flat check to target you while you're [[DATABASE/condition/Concealed|concealed]] or [[DATABASE/condition/Hidden|hidden]] due to dim light or darkness.
 
 ---
 You draw shadows close to create a shroud. Increase the DC of the flat check by 2.
@@ -37,7 +38,7 @@ You draw shadows close to create a shroud. Increase the DC of the flat check by 
 
 **Fetchling:**
 
-A creature with this trait is a member of the fetchling ancestry. Fetchlings were once human, but generations of life on the [[Shadow Plane]] have transformed them.
+A creature with this trait is a member of the fetchling ancestry. Fetchlings were once human, but generations of life on the [[DATABASE/plane/Shadow Plane|Shadow Plane]] have transformed them.
 
 **Illusion:**
 
@@ -49,4 +50,4 @@ This magic comes from the occult tradition, calling upon bizarre and ephemeral m
 
 **Shadow:**
 
-Magic with this trait involves shadows or the energy of the [[Shadow Plane]]. Creatures with this trait are natives of the Shadow Plane. They can survive the basic environmental effects of the Shadow Plane.
+Magic with this trait involves shadows or the energy of the [[DATABASE/plane/Shadow Plane|Shadow Plane]]. Creatures with this trait are natives of the Shadow Plane. They can survive the basic environmental effects of the Shadow Plane.

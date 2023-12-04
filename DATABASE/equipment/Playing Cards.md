@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -50,7 +51,7 @@ weapon_type: null
 ---
 # Playing Cards<span class="item-type">Item 0+</span>
 
-**Source** [[PFS Guide]]
+**Source** [[DATABASE/source/PFS Guide|PFS Guide]]
 **Hands** 2; **Bulk** —
 
 ---
@@ -58,13 +59,13 @@ A standard deck of cards consists of 54 cards made from thick paper contained wi
 
 ## Marked Playing Cards<span class="item-type">Item 0</span>
 
-**Source** [[PFS Guide]]
+**Source** [[DATABASE/source/PFS Guide|PFS Guide]]
 **Price** 1 gp
 **Hands** 2
-A deck of marked playing cards appears to be an ordinary deck upon initial inspection but bears specific folds, colors, scratches, or other markings on each card that allow an informed user to know what's on the other side of a card. A deck of marked cards grants you a +1 item bonus to [[Lore]] checks or other relevant checks to gamble with the cards. You can determine that an unattended deck of cards is marked with a successful DC 20 Perception check. Determining that a deck is marked during play is more difficult and is typically determined by a Perception check against the dealer's Games Lore or [[Thievery]] DC.
+A deck of marked playing cards appears to be an ordinary deck upon initial inspection but bears specific folds, colors, scratches, or other markings on each card that allow an informed user to know what's on the other side of a card. A deck of marked cards grants you a +1 item bonus to [[DATABASE/skill/Lore|Games Lore]] checks or other relevant checks to gamble with the cards. You can determine that an unattended deck of cards is marked with a successful DC 20 Perception check. Determining that a deck is marked during play is more difficult and is typically determined by a Perception check against the dealer's Games Lore or [[DATABASE/skill/Thievery|Thievery]] DC.
 
 ## Playing Cards<span class="item-type">Item 0</span>
 
-**Source** [[PFS Guide]]
+**Source** [[DATABASE/source/PFS Guide|PFS Guide]]
 **Price** 5 sp
 **Hands** 2

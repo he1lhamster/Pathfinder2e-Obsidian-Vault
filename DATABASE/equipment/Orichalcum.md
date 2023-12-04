@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -53,7 +54,7 @@ weapon_type: null
 # Orichalcum<span class="item-type">Item 0+</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Precious</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Bulk** —
 
 ---
@@ -61,33 +62,35 @@ The most rare and valuable skymetal, orichalcum is coveted for its incredible ti
 
 ## Orichalcum Items
 
-| ('Orichalcum Items', 'Thin Items')   |   ('Hardness', 'Unnamed: 1_level_1') |   ('HP', 'Unnamed: 2_level_1') |   ('BT', 'Unnamed: 3_level_1') |
-|:-------------------------------------|-------------------------------------:|-------------------------------:|-------------------------------:|
-| High-grade                           |                                   16 |                             64 |                             32 |
-| Items                                |                                  nan |                            nan |                            nan |
-| High-grade                           |                                   18 |                             72 |                             36 |
-| Structure                            |                                  nan |                            nan |                            nan |
-| High-grade                           |                                   35 |                            140 |                             70 |
+| 0 | 1 | 2 | 3 |
+|:-----------------|:---------|:----|:----|
+| Orichalcum Items | Hardness | HP | BT |
+| Thin Items | nan | nan | nan |
+| High-grade | 16 | 64 | 32 |
+| Items | nan | nan | nan |
+| High-grade | 18 | 72 | 36 |
+| Structure | nan | nan | nan |
+| High-grade | 35 | 140 | 70 |
 
 ### Material Uses
 
-[[Orichalcum Armor]]
-[[Orichalcum Shield]]
-[[Orichalcum Weapon]]
+[[DATABASE/equipment/Orichalcum Armor|Orichalcum Armor]]
+[[DATABASE/equipment/Orichalcum Shield|Orichalcum Shield]]
+[[DATABASE/equipment/Orichalcum Weapon|Orichalcum Weapon]]
 
 ## Orichalcum Chunk<span class="item-type">Item 0</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 1,000 gp
 **Bulk** L
 
 ## Orichalcum Ingot<span class="item-type">Item 0</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 10,000 gp
 **Bulk** 1
 
 ## Orichalcum Object (High-Grade)<span class="item-type">Item 17</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 10,000 gp (per Bulk)

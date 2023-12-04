@@ -11,6 +11,7 @@ name: Expanded Splash
 prerequisite: '[[DATABASE/feat/Calculated Splash|Calculated Splash]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Expanded Splash <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Alchemist</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Demolitionist]]*
-**Prerequisites** [[Calculated Splash]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Demolitionist|Demolitionist]]*
+**Prerequisites** [[DATABASE/feat/Calculated Splash|Calculated Splash]]
 * This archetype offers Expanded Splash at a different level than displayed here.
 
 ---
@@ -37,4 +38,4 @@ This feat can be used for one or more Archetypes in addition to the listed Class
 
 ## Expanded Splash Leads To...
 
-[[Controlled Blast]], [[Mega Bomb]]
+[[DATABASE/feat/Controlled Blast|Controlled Blast]], [[DATABASE/feat/Mega Bomb|Mega Bomb]]

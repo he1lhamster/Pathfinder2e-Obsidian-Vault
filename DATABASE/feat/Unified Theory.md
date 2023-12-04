@@ -11,6 +11,7 @@ name: Unified Theory
 prerequisite: Legendary in [[DATABASE/skill/Arcana|Arcana]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: arcana
@@ -24,11 +25,11 @@ type: Feat
 # Unified Theory <span class="item-type">Feat 15</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** legendary in [[Arcana]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** legendary in [[DATABASE/skill/Arcana|Arcana]]
 
 ---
-You've started to make a meaningful connection about the common underpinnings of the four traditions of magic and magical essences, allowing you to understand them all through an arcane lens. Whenever you use a skill action or a skill feat that requires a [[Nature]], [[Occultism]], or [[Religion]] check, depending on the magic tradition, you can use [[Arcana]] instead. If you would normally take a penalty or have a higher DC for using Arcana on other magic (such as when using [[Identify Magic]]), you no longer do so.
+You've started to make a meaningful connection about the common underpinnings of the four traditions of magic and magical essences, allowing you to understand them all through an arcane lens. Whenever you use a skill action or a skill feat that requires a [[DATABASE/skill/Nature|Nature]], [[DATABASE/skill/Occultism|Occultism]], or [[DATABASE/skill/Religion|Religion]] check, depending on the magic tradition, you can use [[DATABASE/skill/Arcana|Arcana]] instead. If you would normally take a penalty or have a higher DC for using Arcana on other magic (such as when using [[DATABASE/action/Identify Magic|Identify Magic]]), you no longer do so.
 
 ## Traits
 

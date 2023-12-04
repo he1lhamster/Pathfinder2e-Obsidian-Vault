@@ -11,6 +11,7 @@ name: Stargazer's Eyes
 prerequisite: '[[DATABASE/feat/Oatia Skysage Dedication|Oatia Skysage Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh
   Arch]]'
@@ -24,9 +25,9 @@ type: Feat
 # Stargazer's Eyes <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Pathfinder 187. The Seventh Arch]]
-**Archetype** [[Oatia Skysage]]
-**Prerequisites** [[Oatia Skysage Dedication]]
+**Source** [[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh Arch]]
+**Archetype** [[DATABASE/archetype/Oatia Skysage|Oatia Skysage]]
+**Prerequisites** [[DATABASE/feat/Oatia Skysage Dedication|Oatia Skysage Dedication]]
 
 ---
 Long hours in darkened observatories have sharpened your senses. If you don't have low-light vision or darkvision, you gain low-light vision, or if you already have low-light vision, you gain darkvision.

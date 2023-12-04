@@ -17,6 +17,7 @@ name: Quarry Sluiceway
 rarity: Common
 reflex: null
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 147. Tomorrow Must Burn|Pathfinder #147: Tomorrow
   Must Burn]]'
@@ -32,13 +33,13 @@ will: null
 # Quarry Sluiceway<span class="item-type">Hazard 9</span>
 
 <span class="item-trait">Complex</span><span class="item-trait">Mechanical</span><span class="item-trait">Trap</span>
-**Source** [[Pathfinder 147. Tomorrow Must Burn]]
+**Source** [[DATABASE/source/Pathfinder 147. Tomorrow Must Burn|Pathfinder #147: Tomorrow Must Burn]]
 **Complexity** Complex
 **Stealth** +17 (expert) or Perception DC 27 (expert) to notice the six cleverly hidden sluice gates while they are closed
 **Description** Six sluice gates open to allow thousands of gallons of water to begin flooding the room. The water churns through the room and flows out through three chutes on the south end of the room.
 
 ---
-**Disable** [[Thievery]] DC 28 (expert) twice to close a sluice (on a critical success, a sluice is closed immediately)
+**Disable** [[DATABASE/skill/Thievery|Thievery]] DC 28 (expert) twice to close a sluice (on a critical success, a sluice is closed immediately)
 **Sluiceway Hardness** 17, **Sluiceway HP** 38 (BT 34); **Immunities** critical hits, object immunities, precision damage
 **Opened Sluices** <span class="action-icon">5</span> **Trigger** A creature Interacts to throw either the primary lever or backup lever. **Effect** The trap rolls initiative.
 

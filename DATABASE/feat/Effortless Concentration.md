@@ -11,6 +11,7 @@ name: Effortless Concentration
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -28,7 +29,7 @@ type: Feat
 # Effortless Concentration <span class="action-icon">4</span> <span class="item-type">Feat 16</span>
 
 <span class="item-trait">Bard</span><span class="item-trait">Druid</span><span class="item-trait">Sorcerer</span><span class="item-trait">Summoner</span><span class="item-trait">Witch</span><span class="item-trait">Wizard</span>
-**Source** [[Secrets of Magic]] , [[Core Rulebook]] , [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] , [[DATABASE/source/Core Rulebook|Core Rulebook]] , [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Trigger** Your turn begins.
 
 ---

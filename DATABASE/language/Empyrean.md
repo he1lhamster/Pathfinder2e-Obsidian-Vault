@@ -2,6 +2,7 @@
 id: '115'
 name: Empyrean
 rarity: Uncommon
+rus_type_level: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -10,9 +11,9 @@ type: Language
 ---
 # Empyrean
 
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 The below entries contain speakers of Empyrean.
 
 ## Monsters (2)
 
-[[Anemos]], [[Asp Of Grief]]
+[[DATABASE/monster/Anemos|Anemos]], [[DATABASE/monster/Asp Of Grief|Asp Of Grief]]

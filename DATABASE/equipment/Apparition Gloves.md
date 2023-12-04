@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Illusion
 size: null
@@ -53,7 +54,7 @@ weapon_type: null
 # Apparition Gloves<span class="item-type">Item 2</span>
 
 <span class="item-trait">Illusion</span><span class="item-trait">Magical</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 25 gp
 **Usage** worn gloves; **Bulk** L
 

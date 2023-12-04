@@ -68,24 +68,24 @@ wisdom: '+4'
 # Palace Guard
 
 Every palace has its gatekeepers. Often the younger offspring of minor nobility or those from long lines of trusted staff, the palace guards are in charge of defending the royal family and their inner stronghold. Their days consist of guarding doorways, escorting nobles to various locations, and keeping those in their charge as safe as possible. The statistics below are for the lowest rank-and-file member of a small nation's palace guards; they also work well for elite guards of a lesser noble.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 19
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 19
 **Unspecific Lore**: DC 17
 **Specific Lore**: DC 14
 
 # Palace Guard<span class="item-type">Creature 4</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Perception** +15
-**Languages** [[Common]]
-**Skills** [[Athletics]] +12, [[Diplomacy]] +10, [[Intimidation]] +8
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +12, [[DATABASE/skill/Diplomacy|Diplomacy]] +10, [[DATABASE/skill/Intimidation|Intimidation]] +8
 **Str** +4, **Dex** +2, **Con** +3, **Int** +0, **Wis** +4, **Cha** +2
-**Items** [[Chain Mail]], [[Halberd]], [[Manacles]]
+**Items** [[DATABASE/armor/Chain Mail|chain mail with palace insignia]], [[DATABASE/weapon/Halberd|halberd]], [[DATABASE/equipment/Manacles|simple manacles]]
 
 ---
 **AC** 22; **Fort** +13, **Ref** +8, **Will** +10
 **HP** 60
-<span class="in-box-ability">**[[Attack of Opportunity]] <span class="action-icon">5</span> ** </span>
+<span class="in-box-ability">**[[DATABASE/monsterability/Attack of Opportunity|Attack of Opportunity]] <span class="action-icon">5</span> ** </span>
 
 ---
 **Speed** 25 feet

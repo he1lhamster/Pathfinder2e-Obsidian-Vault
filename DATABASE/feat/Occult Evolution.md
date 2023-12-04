@@ -11,6 +11,7 @@ name: Occult Evolution
 prerequisite: bloodline that grants occult spells
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Occult Evolution <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Occult</span><span class="item-trait">Sorcerer</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Prerequisites** bloodline that grants occult spells
 
 ---
@@ -32,7 +33,7 @@ Glimpses of the obscure secrets of the universe loan you power. You become train
 
 ## Occult Evolution Leads To...
 
-[[Greater Mental Evolution]], [[Greater Spiritual Evolution]]
+[[DATABASE/feat/Greater Mental Evolution|Greater Mental Evolution]], [[DATABASE/feat/Greater Spiritual Evolution|Greater Spiritual Evolution]]
 
 ## Traits
 

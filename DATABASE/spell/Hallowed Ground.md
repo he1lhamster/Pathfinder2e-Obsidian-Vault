@@ -21,6 +21,7 @@ patron_theme: null
 range: 60 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
@@ -38,7 +39,7 @@ type: Focus
 # Hallowed Ground<span class="item-type">Focus 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Good</span><span class="item-trait">Necromancy</span><span class="item-trait">Positive</span>
-**Source** [[Book of the Dead]]
+**Source** [[DATABASE/source/Book of the Dead|Book of the Dead]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 60 feet; **Area** 10-foot burst
 **Duration** 1 minute

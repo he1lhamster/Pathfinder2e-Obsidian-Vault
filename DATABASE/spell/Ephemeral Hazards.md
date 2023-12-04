@@ -23,6 +23,7 @@ patron_theme: null
 range: 60 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -39,8 +40,8 @@ type: Focus
 # Ephemeral Hazards<span class="item-type">Focus 4</span>
 
 <span class="item-trait">Illusion</span><span class="item-trait">Mental</span><span class="item-trait">Visual</span>
-**Source** [[Gods & Magic]] 
-**Domain** [[Delirium Domain]]
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
+**Domain** [[DATABASE/domain/Delirium Domain|delirium]]
 **Cast** <span class="action-icon">3</span> material, somatic, verbal
 **Range** 60 feet
 **Duration** 1 minute

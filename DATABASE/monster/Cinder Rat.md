@@ -73,16 +73,16 @@ wisdom: '+2'
 # Cinder Rat
 
 These oversized rodents are made of smoldering charcoal and elemental fire, and noxious fumes continually bellow from their flaming flesh.
-**Recall Knowledge - Elemental ([[Arcana]], [[Nature]])**: DC 18
+**Recall Knowledge - Elemental ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Cinder Rat<span class="item-type">Creature 3</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Small</span><span class="item-trait">Elemental</span><span class="item-trait">Fire</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +9; darkvision, smoke vision
-**Skills** [[Acrobatics]] +10, [[Stealth]] +10, [[Survival]] +9
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +10, [[DATABASE/skill/Stealth|Stealth]] +10, [[DATABASE/skill/Survival|Survival]] +9
 **Str** +2, **Dex** +3, **Con** +2, **Int** -4, **Wis** +2, **Cha** +0
 **Smoke Vision** The cinder rat ignores the concealed condition from smoke.
 

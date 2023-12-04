@@ -76,23 +76,23 @@ wisdom: '+2'
 # Chimera
 
 The chimera is the archetypal example of an unnatural monster made up of a monstrous mix of wildly different component creatures: in this case, a lion, a dragon, and a goat. Wild, hateful, and hungry, it tries to eat any creature it sees, but sometimes a strong-willed master is able to compel a chimera to serve as a guardian or even a mount.
-**Recall Knowledge - Beast ([[Arcana]], [[Nature]])**: DC 26
+**Recall Knowledge - Beast ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 26
 **Unspecific Lore**: DC 24
 **Specific Lore**: DC 21
 
 # Chimera<span class="item-type">Creature 8</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Beast</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +16; darkvision, scent (imprecise) 30 feet
-**Languages** [[Draconic]]
-**Skills** [[Acrobatics]] +14, [[Athletics]] +18, [[Stealth]] +18
+**Languages** [[DATABASE/language/Draconic|Draconic]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +14, [[DATABASE/skill/Athletics|Athletics]] +18, [[DATABASE/skill/Stealth|Stealth]] +18
 **Str** +6, **Dex** +2, **Con** +4, **Int** -3, **Wis** +2, **Cha** +0
 
 ---
 **AC** 27; **Fort** +18, **Ref** +16, **Will** +14
 **HP** 135
-<span class="in-box-ability">**Three Headed** Any ability that would sever a chimera's head (such as a critical hit with a _[[Vorpal]]_ weapon) severs one head at random. Losing a head doesn't kill a chimera (as long as it has one head left), but it does prevent it from making Strikes with the lost head or using the head's Breath Weapon.</span><span class="in-box-ability"> **Triple Opportunity** A chimera gains 2 extra reactions each round that it can use only to make Attacks of Opportunity. It must use a different head for each reaction, and it can't use more than one on the same triggering action. If it loses one of its heads, it also loses one of these extra reactions.</span><span class="in-box-ability"> **[[Attack of Opportunity]]** <span class="action-icon">5</span> </span>
+<span class="in-box-ability">**Three Headed** Any ability that would sever a chimera's head (such as a critical hit with a _[[DATABASE/equipment/Vorpal|vorpal]]_ weapon) severs one head at random. Losing a head doesn't kill a chimera (as long as it has one head left), but it does prevent it from making Strikes with the lost head or using the head's Breath Weapon.</span><span class="in-box-ability"> **Triple Opportunity** A chimera gains 2 extra reactions each round that it can use only to make Attacks of Opportunity. It must use a different head for each reaction, and it can't use more than one on the same triggering action. If it loses one of its heads, it also loses one of these extra reactions.</span><span class="in-box-ability"> **[[DATABASE/monsterability/Attack of Opportunity|Attack of Opportunity]]** <span class="action-icon">5</span> </span>
 
 ---
 **Speed** 25 feet, fly 40 feet

@@ -11,6 +11,7 @@ name: True Gaze
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Divination
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 subcategory: null
@@ -26,11 +27,11 @@ type: Feat
 # True Gaze <span class="action-icon">1</span> <span class="item-type">Feat 17</span>
 
 <span class="item-trait">Arcane</span><span class="item-trait">Concentrate</span><span class="item-trait">Divination</span><span class="item-trait">Goloma</span>
-**Source** [[The Mwangi Expanse]] 
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]] 
 **Frequency** once per hour
 
 ---
-When you focus your eyes carefully, your gaze can pierce through all obfuscations, even magical ones. When you use True Gaze, you gain the effects of a 6th-level [[True Seeing]] spell, using your Perception modifier for the counteract check.
+When you focus your eyes carefully, your gaze can pierce through all obfuscations, even magical ones. When you use True Gaze, you gain the effects of a 6th-level [[DATABASE/spell/True Seeing|true seeing]] spell, using your Perception modifier for the counteract check.
 
 ## Traits
 

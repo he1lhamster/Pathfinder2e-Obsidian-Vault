@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 size: null
@@ -57,7 +58,7 @@ weapon_type: null
 # Rhino Hide Brooch<span class="item-type">Item 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Abjuration</span><span class="item-trait">Consumable</span><span class="item-trait">Magical</span><span class="item-trait">Talisman</span>
-**Source** [[Pathfinder 170. Spoken on the Song Wind]]
+**Source** [[DATABASE/source/Pathfinder 170. Spoken on the Song Wind|Pathfinder #170: Spoken on the Song Wind]]
 **Price** 28 gp
 **Usage** affixed to armor; **Bulk** —
 **Activate** <span class="action-icon">5</span> envision **Trigger** You would take physical damage

@@ -70,17 +70,17 @@ wisdom: '+3'
 # Grave Spinosaurus
 
 This creature did not include a description.
-**Recall Knowledge - Animal ([[Nature]])**: DC 44
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 44
 **Unspecific Lore**: DC 42
 **Specific Lore**: DC 39
 
 # Grave Spinosaurus<span class="item-type">Creature 15</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Gargantuan</span><span class="item-trait">Animal</span><span class="item-trait">Dinosaur</span>
-**Source** [[Pathfinder 166. Despair on Danger Island]]
-Variant [[Spinosaurus]]
-**Perception** +26; [[Low-Light Vision]], [[Scent]] (imprecise) 30 feet
-**Skills** [[Acrobatics]] +26, [[Athletics]] +30 (+32 to Swim)
+**Source** [[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #166: Despair on Danger Island]]
+Variant [[DATABASE/monster/Spinosaurus|spinosaurus]]
+**Perception** +26; [[DATABASE/monsterability/Low-Light Vision|low-light vision]], [[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +26, [[DATABASE/skill/Athletics|Athletics]] +30 (+32 to Swim)
 **Str** +9, **Dex** +5, **Con** +7, **Int** -4, **Wis** +3, **Cha** +3
 **Deep Breath** The grave spinosaurus can hold its breath for 4 hours.
 
@@ -90,8 +90,8 @@ Variant [[Spinosaurus]]
 
 ---
 **Speed** 40 feet, swim 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +30 [+25/+20] (deadly d12, reach 20 feet), **Damage** 3d12+15 piercing plus [[Grab]]</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +30 [+26/+22] (agile, reach 15 feet), **Damage** 3d8+15 slashing</span><span class="in-box-ability">**Pouncing Pin** <span class="action-icon">2</span> The grave spinosaurus Strides and makes a Strike at the end of its movement. If the Strike hits, it deals damage as normal and the grave spinosaurus makes an [[Athletics]] check to [[Trip]] the target. This check counts toward the grave spinosaurus's multiple attack penalty, but the multiple attack penalty doesn't increase until after it makes the check.</span><span class="in-box-ability">**Rip and Tear** <span class="action-icon">1</span> **Requirements** The grave spinosaurus has a creature [[Grabbed]] in its jaws; **Effect** The grave spinosaurus reaches up, slashes the creature it has grabbed with its claws, dealing 6d10 slashing damage (DC 36 basic Reflex save) and 2d6 [[Persistent Damage]].</span><span class="in-box-ability">**Staggering Sail** <span class="action-icon">2</span> (incapacitation) **Requirements** The grave spinosaurus is swimming on the surface of water; **Effect** With a powerful lunge to the side, the grave spinosaurus uses its sail to slap the water's surface, creating a crushing wave that deals 8d6 bludgeoning damage in a 30-foot cone. Each creature in the water in the area must attempt a DC 36 Reflex save. 
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +30 [+25/+20] (deadly d12, reach 20 feet), **Damage** 3d12+15 piercing plus [[DATABASE/monsterability/Grab|Grab]]</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +30 [+26/+22] (agile, reach 15 feet), **Damage** 3d8+15 slashing</span><span class="in-box-ability">**Pouncing Pin** <span class="action-icon">2</span> The grave spinosaurus Strides and makes a Strike at the end of its movement. If the Strike hits, it deals damage as normal and the grave spinosaurus makes an [[DATABASE/skill/Athletics|Athletics]] check to [[DATABASE/action/Trip|Trip]] the target. This check counts toward the grave spinosaurus's multiple attack penalty, but the multiple attack penalty doesn't increase until after it makes the check.</span><span class="in-box-ability">**Rip and Tear** <span class="action-icon">1</span> **Requirements** The grave spinosaurus has a creature [[DATABASE/condition/Grabbed|grabbed]] in its jaws; **Effect** The grave spinosaurus reaches up, slashes the creature it has grabbed with its claws, dealing 6d10 slashing damage (DC 36 basic Reflex save) and 2d6 [[DATABASE/condition/Persistent Damage|persistent bleed damage]].</span><span class="in-box-ability">**Staggering Sail** <span class="action-icon">2</span> (incapacitation) **Requirements** The grave spinosaurus is swimming on the surface of water; **Effect** With a powerful lunge to the side, the grave spinosaurus uses its sail to slap the water's surface, creating a crushing wave that deals 8d6 bludgeoning damage in a 30-foot cone. Each creature in the water in the area must attempt a DC 36 Reflex save. 
 **Critical Success** The creature is unaffected. 
 **Success** The creature takes half damage. 
-**Failure** The creature takes full damage and is [[Slowed]] until the end of its next turn. 
-**Critical Failure** The creature takes double damage and is [[Stunned]].</span><span class="in-box-ability">**[[Swallow Whole]]** <span class="action-icon">1</span> (attack) Medium, 3d12+12 bludgeoning, Rupture 36</span>
+**Failure** The creature takes full damage and is [[DATABASE/condition/Slowed|slowed 1]] until the end of its next turn. 
+**Critical Failure** The creature takes double damage and is [[DATABASE/condition/Stunned|stunned 3]].</span><span class="in-box-ability">**[[DATABASE/monsterability/Swallow Whole|Swallow Whole]]** <span class="action-icon">1</span> (attack) Medium, 3d12+12 bludgeoning, Rupture 36</span>

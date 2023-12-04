@@ -76,29 +76,29 @@ wisdom: '+2'
 # Rust Scarab
 
 These elementals resemble enormous beetles, with thick outer shells composed of multiple layers of heavily pockmarked, rusted plates protecting a jagged metallic skeleton.
-**Recall Knowledge - Elemental ([[Arcana]], [[Nature]])**: DC 20
+**Recall Knowledge - Elemental ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 20
 **Unspecific Lore**: DC 18
 **Specific Lore**: DC 15
 
 # Rust Scarab<span class="item-type">Creature 5</span>
 
 <span class="trait-size item-trait">Large</span><span class="item-trait">Elemental</span><span class="item-trait">Metal</span>
-**Source** [[Rage of Elements]]
-**Perception** +9; [[Darkvision]], rust vision
-**Languages** [[Talican]]
-**Skills** [[Athletics]] +13, [[Lore]] +11
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
+**Perception** +9; [[DATABASE/monsterability/Darkvision|darkvision]], rust vision
+**Languages** [[DATABASE/language/Talican|Talican]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +13, [[DATABASE/skill/Lore|Plane of Metal Lore]] +11
 **Str** +6, **Dex** +2, **Con** +5, **Int** +2, **Wis** +2, **Cha** +2
 **Heavy** As long as it is immobile, the elemental can't be forcibly moved or knocked prone. If it takes a move action, it loses this immunity until the start of its next turn.
-**Rust Vision** A rust scarab ignores the [[Concealed]] condition from rust clouds.
+**Rust Vision** A rust scarab ignores the [[DATABASE/condition/Concealed|concealed]] condition from rust clouds.
 
 ---
 **AC** 21; **Fort** +14, **Ref** +9, **Will** +11
-**HP** 65; **Immunities** bleed, [[Paralyzed]], poison, sleep; **Resistances** electricity 5, physical 5 (except [[Adamantine Weapon]])
-<span class="in-box-ability">**Crumbling Carapace** When a rust scarab is reduced to fewer than half its maximum Hit Points or is damaged by a critical hit, its outer shell breaks into a veil of rusty metal flakes. This causes it to lose its resistance to physical damage and its heavy ability, but it gains a rust cloud aura (as [[Metal Wisp]]) and a 35-foot land Speed.</span>
+**HP** 65; **Immunities** bleed, [[DATABASE/condition/Paralyzed|paralyzed]], poison, sleep; **Resistances** electricity 5, physical 5 (except [[DATABASE/equipment/Adamantine Weapon|adamantine]])
+<span class="in-box-ability">**Crumbling Carapace** When a rust scarab is reduced to fewer than half its maximum Hit Points or is damaged by a critical hit, its outer shell breaks into a veil of rusty metal flakes. This causes it to lose its resistance to physical damage and its heavy ability, but it gains a rust cloud aura (as [[DATABASE/monster/Metal Wisp|metal wisp]]) and a 35-foot land Speed.</span>
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +15 [+10/+5], **Damage** 2d8+6 slashing plus tetanus</span><span class="in-box-ability">**Tetanus** (disease) **Saving Throw** DC 19 Fortitude; **Onset** 1 week; **Stage 1** [[Clumsy]] (1 week); **Stage 2** clumsy 2 and can't speak (1 day); **Stage 3** [[Paralyzed]] with spasms (1 day); **Stage 4** death</span><span class="in-box-ability">**[[Trample]]** <span class="action-icon">3</span> Medium or smaller, claw, DC 23</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +15 [+10/+5], **Damage** 2d8+6 slashing plus tetanus</span><span class="in-box-ability">**Tetanus** (disease) **Saving Throw** DC 19 Fortitude; **Onset** 1 week; **Stage 1** [[DATABASE/condition/Clumsy|clumsy 1]] (1 week); **Stage 2** clumsy 2 and can't speak (1 day); **Stage 3** [[DATABASE/condition/Paralyzed|paralyzed]] with spasms (1 day); **Stage 4** death</span><span class="in-box-ability">**[[DATABASE/monsterability/Trample|Trample]]** <span class="action-icon">3</span> Medium or smaller, claw, DC 23</span>
 
 ###  Ancient Remnants
 

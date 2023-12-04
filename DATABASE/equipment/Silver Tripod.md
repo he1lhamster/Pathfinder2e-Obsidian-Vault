@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 size: null
@@ -56,10 +57,10 @@ weapon_type: null
 # Silver Tripod<span class="item-type">Item 1</span>
 
 <span class="item-trait">Conjuration</span><span class="item-trait">Consumable</span><span class="item-trait">Force</span><span class="item-trait">Magical</span><span class="item-trait">Talisman</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 3 gp
 **Usage** affixed to a firearm with the kickback trait; **Bulk** —
 **Activate** <span class="action-icon">1</span> envision
 
 ---
-This tiny, silver facsimile of a weapon [[Tripod]] is usually attached to the underside of the affixed weapon's barrel. When activated, it creates an invisible construct of magical force that attaches to the weapon and automatically stabilizes it in any location, even in midair. The effect lasts for 1 minute or until you Dismiss it. The effect also ends immediately if you let go of the affixed weapon. The affixed weapon cannot be moved while this effect is active.
+This tiny, silver facsimile of a weapon [[DATABASE/equipment/Tripod|tripod]] is usually attached to the underside of the affixed weapon's barrel. When activated, it creates an invisible construct of magical force that attaches to the weapon and automatically stabilizes it in any location, even in midair. The effect lasts for 1 minute or until you Dismiss it. The effect also ends immediately if you let go of the affixed weapon. The affixed weapon cannot be moved while this effect is active.

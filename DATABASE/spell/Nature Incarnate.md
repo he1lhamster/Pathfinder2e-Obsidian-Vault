@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -37,7 +38,7 @@ type: Spell
 # Nature Incarnate<span class="item-type">Spell 10</span>
 
 <span class="item-trait">Polymorph</span><span class="item-trait">Transmutation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** primal
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Duration** 1 minute
@@ -49,8 +50,8 @@ The primal power of the world flows through you. You transform into an incarnati
 * AC = 25 + your level. Ignore your armor's check penalty and Speed reduction. 
 * 30 temporary Hit Points. 
 * Darkvision. 
-* One or more attacks specific to the battle form you choose, which are the only attacks you can Strike with. You're trained with them. Your attack modifier is +34, and you use the listed damage. These attacks are Strength based (for the purpose of the [[Enfeebled]] condition, for example). If your unarmed attack modifier is higher, you can use it instead. 
-* [[Athletics]] modifier of +36, unless your own modifier is higher.
+* One or more attacks specific to the battle form you choose, which are the only attacks you can Strike with. You're trained with them. Your attack modifier is +34, and you use the listed damage. These attacks are Strength based (for the purpose of the [[DATABASE/condition/Enfeebled|enfeebled]] condition, for example). If your unarmed attack modifier is higher, you can use it instead. 
+* [[DATABASE/skill/Athletics|Athletics]] modifier of +36, unless your own modifier is higher.
 
 You also gain specific abilities based on the type of incarnation you choose:
 

@@ -70,20 +70,20 @@ wisdom: '+2'
 # Fayati Alummur
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 34
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 34
 **Unspecific Lore**: DC 32
 **Specific Lore**: DC 29
 
 # Fayati Alummur<span class="item-type">Creature 8</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 158. Sixty Feet Under]]
-Female [[Human]] guildmaster
+**Source** [[DATABASE/source/Pathfinder 158. Sixty Feet Under|Pathfinder #158: Sixty Feet Under]]
+Female [[DATABASE/ancestry/Human|human]] guildmaster
 **Perception** +19
-**Languages** [[Common]], [[Vudrani]]
-**Skills** [[Acrobatics]] +18, [[Deception]] +18, [[Diplomacy]] +16, [[Stealth]] +18, [[Thievery]] +18
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Vudrani|Vudrani]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +18, [[DATABASE/skill/Deception|Deception]] +18, [[DATABASE/skill/Diplomacy|Diplomacy]] +16, [[DATABASE/skill/Stealth|Stealth]] +18, [[DATABASE/skill/Thievery|Thievery]] +18
 **Str** +1, **Dex** +6, **Con** +1, **Int** +0, **Wis** +2, **Cha** +4
-**Items** _+1 [[Striking]] [[Main-gauche]]_, _+1 [[Striking]] [[Rapier]]_, [[Jade Bauble]] (affixed to main-gauche), _+1 [[Dagger]]_ (3), [[Leather Armor]], [[Darkvision Elixir]]
+**Items** _+1 [[DATABASE/equipment/Striking|striking]] [[DATABASE/weapon/Main-gauche|main-gauche]]_, _+1 [[DATABASE/equipment/Striking|striking]] [[DATABASE/weapon/Rapier|rapier]]_, [[DATABASE/equipment/Jade Bauble|jade bauble talisman]] (affixed to main-gauche), _+1 [[DATABASE/weapon/Dagger|daggers]]_ (3), [[DATABASE/armor/Leather Armor|leather armor]], [[DATABASE/equipment/Darkvision Elixir|moderate darkvision elixir]]
 
 ---
 **AC** 27; **Fort** +15, **Ref** +18, **Will** +16
@@ -92,4 +92,4 @@ Female [[Human]] guildmaster
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _rapier_ +20 [+15/+10] (deadly d8, disarm, finesse), **Damage** 2d6+5 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> _main-gauche_ +20 [+16/+12] (agile, disarm, finesse, magical, parry, versatile S), **Damage** 2d4+5 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> _dagger_ +20 [+16/+12] (agile, finesse, thrown 10 feet, versatile S), **Damage** 1d4+5 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _dagger_ +20 [+16/+12] (agile, finesse, thrown 10 feet, versatile S), **Damage** 1d4+5 piercing</span><span class="in-box-ability">**Deepen the Wound** <span class="action-icon">1</span> **Requirements** Fayati's last attack was a successful melee Strike with her rapier; **Effect** Fayati makes a main-gauche Strike against the same creature that she just hit. This Strike deals an additional 4d6 precision damage.</span><span class="in-box-ability">**Guildmaster's Lead** Whenever Fayati critically succeeds at a Strike against a creature, until the start of her next turn, the first time that another member of the Copper Hand deals damage to that creature during their turn, they deal an additional 1d6 precision damage to it.</span><span class="in-box-ability">**[[Sneak Attack]]** Fayati deals 2d6 extra precision damage to [[Flat-Footed]] creatures.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _rapier_ +20 [+15/+10] (deadly d8, disarm, finesse), **Damage** 2d6+5 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> _main-gauche_ +20 [+16/+12] (agile, disarm, finesse, magical, parry, versatile S), **Damage** 2d4+5 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> _dagger_ +20 [+16/+12] (agile, finesse, thrown 10 feet, versatile S), **Damage** 1d4+5 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _dagger_ +20 [+16/+12] (agile, finesse, thrown 10 feet, versatile S), **Damage** 1d4+5 piercing</span><span class="in-box-ability">**Deepen the Wound** <span class="action-icon">1</span> **Requirements** Fayati's last attack was a successful melee Strike with her rapier; **Effect** Fayati makes a main-gauche Strike against the same creature that she just hit. This Strike deals an additional 4d6 precision damage.</span><span class="in-box-ability">**Guildmaster's Lead** Whenever Fayati critically succeeds at a Strike against a creature, until the start of her next turn, the first time that another member of the Copper Hand deals damage to that creature during their turn, they deal an additional 1d6 precision damage to it.</span><span class="in-box-ability">**[[DATABASE/monsterability/Sneak Attack|Sneak Attack]]** Fayati deals 2d6 extra precision damage to [[DATABASE/condition/Flat-Footed|flat-footed]] creatures.</span>

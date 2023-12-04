@@ -11,6 +11,7 @@ name: Sea Glass Guardians
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -27,7 +28,7 @@ type: Feat
 # Sea Glass Guardians <span class="action-icon">1</span> <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Primal</span><span class="item-trait">Stance</span><span class="item-trait">Water</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
 Eerily beautiful elemental water beings race around you, eager to protect and heal you and your allies. Their forms vary and might include eels formed of undulating water or ice crystals whirling in the shape of a jellyfish. The guardians flow around combatants and don't occupy a space. They attempt to intercept all dangers, granting you and your allies within your kinetic aura a +1 status bonus to AC and saving throws.

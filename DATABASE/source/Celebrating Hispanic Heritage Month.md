@@ -2,6 +2,7 @@
 id: '149'
 name: Celebrating Hispanic Heritage Month
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -15,4 +16,4 @@ type: Source
 
 ## Equipment [3]
 
-[[Guiding Cajon Drum]], [[Memory Guitar]], [[Tornado Trompo]]
+[[DATABASE/equipment/Guiding Cajon Drum|Guiding Cajon Drum]], [[DATABASE/equipment/Memory Guitar|Memory Guitar]], [[DATABASE/equipment/Tornado Trompo|Tornado Trompo]]

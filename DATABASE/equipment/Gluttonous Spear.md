@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 size: null
@@ -54,10 +55,10 @@ weapon_type: null
 # Gluttonous Spear<span class="item-type">Item 6</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Magical</span><span class="item-trait">Necromancy</span>
-**Source** [[The Slithering]]
+**Source** [[DATABASE/source/The Slithering|The Slithering]]
 **Price** 250 gp
 **Usage** held in 1 hand; **Bulk** 1
-**Base Weapon** [[Spear]]
+**Base Weapon** [[DATABASE/weapon/Spear|Spear]]
 
 ---
-The head of this _+1 [[Striking]] [[Returning]] [[Spear]]_ is wrapped in greasy hide, and its head resembles a thick, clawed finger. On a critical hit, the target is [[Enfeebled]] for 1 minute, and you gain 1d8 temporary Hit Points that last for 1 minute.
+The head of this _+1 [[DATABASE/equipment/Striking|striking]] [[DATABASE/equipment/Returning|returning]] [[DATABASE/weapon/Spear|spear]]_ is wrapped in greasy hide, and its head resembles a thick, clawed finger. On a critical hit, the target is [[DATABASE/condition/Enfeebled|enfeebled 1]] for 1 minute, and you gain 1d8 temporary Hit Points that last for 1 minute.

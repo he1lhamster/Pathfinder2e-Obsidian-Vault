@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Uzunjati Storytelling|Uzunjati Storytelling]] ; m
   in a [[DATABASE/action/Recall Knowledge|Recall Knowledge]] skill'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 subcategory: null
@@ -25,16 +26,16 @@ type: Feat
 # Uzunjati Recollection <span class="action-icon">1</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Skill</span>
-**Source** [[Character Guide]] 
-**Archetype** [[Magaambyan Attendant]]
-**Prerequisites** [[Uzunjati Storytelling]]; master in a [[Recall Knowledge]] skill
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
+**Archetype** [[DATABASE/archetype/Magaambyan Attendant|Magaambyan Attendant]]
+**Prerequisites** [[DATABASE/feat/Uzunjati Storytelling|Uzunjati Storytelling]]; master in a [[DATABASE/action/Recall Knowledge|Recall Knowledge]] skill
 
 ---
-You tell a story spontaneously from nearly forgotten facts, delving into your memory and entertaining your audience in the process. [[Recall Knowledge]] with a skill in which you have master proficiency, then use Uzunjati Storytelling with the same skill. You gain a +1 circumstance bonus to your skill check for Uzunjati Storytelling from the added details.
+You tell a story spontaneously from nearly forgotten facts, delving into your memory and entertaining your audience in the process. [[DATABASE/action/Recall Knowledge|Recall Knowledge]] with a skill in which you have master proficiency, then use Uzunjati Storytelling with the same skill. You gain a +1 circumstance bonus to your skill check for Uzunjati Storytelling from the added details.
 
 ## Uzunjati Recollection Leads To...
 
-[[Janatimo's Lessons]]
+[[DATABASE/feat/Janatimo's Lessons|Janatimo's Lessons]]
 
 ## Traits
 

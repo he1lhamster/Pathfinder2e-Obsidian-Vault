@@ -11,6 +11,7 @@ name: Ratspeak
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Ratspeak <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Ratfolk</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
-To you, the squeaking of rats and other rodents makes a strange kind of sense. You can ask questions of, receive answers from, and use the [[Diplomacy]] skill with rodents, including beavers, mice, porcupines, rats, and squirrels, but not with other mammals, such as dogs or bats. The GM determines which animals count as rodents.
+To you, the squeaking of rats and other rodents makes a strange kind of sense. You can ask questions of, receive answers from, and use the [[DATABASE/skill/Diplomacy|Diplomacy]] skill with rodents, including beavers, mice, porcupines, rats, and squirrels, but not with other mammals, such as dogs or bats. The GM determines which animals count as rodents.
 
 ## Traits
 

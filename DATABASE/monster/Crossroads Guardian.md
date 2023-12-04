@@ -95,34 +95,34 @@ wisdom: '+6'
 ---
 # Crossroads Guardian
 
-When a village is threatened by a horde of bandits but there's no one to help, when a monastery's divine relic must be guarded but the last monk is on their deathbed, when the world can be saved only through the use of an artifact no one alive remembers, nature responds by creating a crossroads guardian, a naturally occurring entity of primal magic. Every crossroads guardian exists to satisfy a particular need—usually a quest that must be carried out, helpless individuals who must be saved from harm, or an object or location which must be guarded. Although they often appear at actual crossroads, a crossroads guardian can materialize anywhere there is a community, from a giant metropolis to a [[Lizardfolk]] village in a remote swamp.
+When a village is threatened by a horde of bandits but there's no one to help, when a monastery's divine relic must be guarded but the last monk is on their deathbed, when the world can be saved only through the use of an artifact no one alive remembers, nature responds by creating a crossroads guardian, a naturally occurring entity of primal magic. Every crossroads guardian exists to satisfy a particular need—usually a quest that must be carried out, helpless individuals who must be saved from harm, or an object or location which must be guarded. Although they often appear at actual crossroads, a crossroads guardian can materialize anywhere there is a community, from a giant metropolis to a [[DATABASE/ancestry/Lizardfolk|lizardfolk]] village in a remote swamp.
  Some crossroads guardians are martial beings—defending a mystic fountain against all intruders, for example—but most are helpers and assistants, guiding heroes through the wilderness to where they're needed. A guardian is a skilled warrior and can defend a location, but when its purpose involves a quest, or the need is so great that the guardian isn't up to the task alone, the guardian must persuade others to voluntarily accept their quest.
  Once a crossroads guardian has fulfilled its purpose, it either shifts to satisfy a new need or quest—often changing its alignment and abilities as well—or else slowly vanishes, returning to the raw primal magic from which it was formed.
-**Recall Knowledge - Fey ([[Nature]])**: DC 28
+**Recall Knowledge - Fey ([[DATABASE/skill/Nature|Nature]])**: DC 28
 **Unspecific Lore**: DC 26
 **Specific Lore**: DC 23
 
 # Crossroads Guardian<span class="item-type">Creature 7</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Fey</span>
-**Source** [[Bestiary 3]]
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
 **Perception** +19; recognize hero
-**Languages** [[Sylvan]]; [[Tongues]]
-**Skills** [[Arcana]] +16, [[Diplomacy]] +20, [[Lore]] +20 (associated with the guardian's need), [[Medicine]] +17, [[Nature]] +19, [[Occultism]] +16, [[Performance]] +16, [[Religion]] +17, [[Society]] +16, [[Survival]] +19
+**Languages** [[DATABASE/language/Sylvan|Sylvan]]; [[DATABASE/spell/Tongues|tongues]]
+**Skills** [[DATABASE/skill/Arcana|Arcana]] +16, [[DATABASE/skill/Diplomacy|Diplomacy]] +20, [[DATABASE/skill/Lore|Lore]] +20 (associated with the guardian's need), [[DATABASE/skill/Medicine|Medicine]] +17, [[DATABASE/skill/Nature|Nature]] +19, [[DATABASE/skill/Occultism|Occultism]] +16, [[DATABASE/skill/Performance|Performance]] +16, [[DATABASE/skill/Religion|Religion]] +17, [[DATABASE/skill/Society|Society]] +16, [[DATABASE/skill/Survival|Survival]] +19
 **Str** +5, **Dex** +4, **Con** +3, **Int** +5, **Wis** +6, **Cha** +7
-**Bound** A crossroads guardian is bound to the site of its creation, but it can leave so long as it remains within 100 feet of the object it is guarding or individuals under a [[Geas]] to fulfill the guardian's need. If it strays farther than 100 feet, it vanishes and reappears within 1 day at the site of its creation.
+**Bound** A crossroads guardian is bound to the site of its creation, but it can leave so long as it remains within 100 feet of the object it is guarding or individuals under a [[DATABASE/ritual/Geas|geas]] to fulfill the guardian's need. If it strays farther than 100 feet, it vanishes and reappears within 1 day at the site of its creation.
 **Recognize Hero** A crossroads guardian knows the name, lineage, and significant history of everyone who speaks to it. If that individual has two or more identities, the crossroads guardian knows all those identities and which one is most true.
-**Items** [[Chain Mail]], [[Greatsword]]
+**Items** [[DATABASE/armor/Chain Mail|chain mail]], [[DATABASE/weapon/Greatsword|greatsword]]
 
 ---
 **AC** 25; **Fort** +14, **Ref** +13, **Will** +19
 **HP** 115 (primal purpose)
-<span class="in-box-ability">**Primal Purpose** A crossroads guardian can't be permanently destroyed while its need remains unfulfilled. If killed, it reforms within 1 day near the object it guards, near someone under a [[Geas]] to fulfill its need, or at the site of its original appearance. Once the guardian's need is fulfilled, the crossroads guardian dissipates naturally within a week unless it finds a new quest.</span>
+<span class="in-box-ability">**Primal Purpose** A crossroads guardian can't be permanently destroyed while its need remains unfulfilled. If killed, it reforms within 1 day near the object it guards, near someone under a [[DATABASE/ritual/Geas|geas]] to fulfill its need, or at the site of its original appearance. Once the guardian's need is fulfilled, the crossroads guardian dissipates naturally within a week unless it finds a new quest.</span>
 
 ---
 **Speed** 25 feet, swim 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> greatsword +18 [+13/+8] (versatile P), **Damage** 1d12+11 slashing plus 1d6 mental</span>**Primal Innate Spells** DC 25; **7th** _[[Plane Shift]]_; **4th** _[[Obscuring Mist]]_ (at will), _[[Solid Fog]]_; **Constant** **(5th)** _[[Tongues]]_
-**Rituals** DC 25; **3rd** _[[Geas]]_ (doesn't require secondary casters and can target a willing creature of any level)
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> greatsword +18 [+13/+8] (versatile P), **Damage** 1d12+11 slashing plus 1d6 mental</span>**Primal Innate Spells** DC 25; **7th** _[[DATABASE/spell/Plane Shift|plane shift]]_; **4th** _[[DATABASE/spell/Obscuring Mist|obscuring mist]]_ (at will), _[[DATABASE/spell/Solid Fog|solid fog]]_; **Constant** **(5th)** _[[DATABASE/spell/Tongues|tongues]]_
+**Rituals** DC 25; **3rd** _[[DATABASE/ritual/Geas|geas]]_ (doesn't require secondary casters and can target a willing creature of any level)
 
 ###  Variant Guardians
 

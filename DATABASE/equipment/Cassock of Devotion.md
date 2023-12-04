@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Cassock of Devotion<span class="item-type">Item 11</span>
 
 <span class="item-trait">Divination</span><span class="item-trait">Divine</span><span class="item-trait">Focused</span><span class="item-trait">Invested</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 1,150 gp
 **Usage** worn garment; **Bulk** L
 

@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: basicReflex
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -38,7 +39,7 @@ type: Spell
 # Fire Seeds<span class="item-type">Spell 6</span>
 
 <span class="item-trait">Evocation</span><span class="item-trait">Fire</span><span class="item-trait">Plant</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** primal
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Saving Throw** basic Reflex; **Duration** 1 minute

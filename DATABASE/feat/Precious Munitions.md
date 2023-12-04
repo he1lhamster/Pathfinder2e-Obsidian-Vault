@@ -11,6 +11,7 @@ name: Precious Munitions
 prerequisite: '[[DATABASE/feat/Munitions Machinist|Munitions Machinist]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Precious Munitions <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Gunslinger</span>
-**Source** [[Guns & Gears]]
-**Prerequisites** [[Munitions Machinist]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Prerequisites** [[DATABASE/feat/Munitions Machinist|Munitions Machinist]]
 
 ---
-You mix flecks of precious materials you've gathered on your journeys into your custom bullets to bring out those properties in your temporary ammunition. You can use advanced alchemy to create standard-grade [[Adamantine Weapon]], [[Cold Iron Weapon]], or [[Silver Weapon]] ammunition, spending 1 batch of reagents per piece of ammunition. At 15th level, you can create high-grade adamantine, cold iron, or silver ammunition.
+You mix flecks of precious materials you've gathered on your journeys into your custom bullets to bring out those properties in your temporary ammunition. You can use advanced alchemy to create standard-grade [[DATABASE/equipment/Adamantine Weapon|adamantine]], [[DATABASE/equipment/Cold Iron Weapon|cold iron]], or [[DATABASE/equipment/Silver Weapon|silver]] ammunition, spending 1 batch of reagents per piece of ammunition. At 15th level, you can create high-grade adamantine, cold iron, or silver ammunition.

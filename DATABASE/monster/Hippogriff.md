@@ -99,26 +99,26 @@ With the proud bearing of a great raptor and the magnificence of a powerful hors
  Hippogriffs are exceptionally territorial and fiercely protect the lands under their domain. They typically favor sweeping grasslands, rolling hills, and prairies. Exceptionally hardy hippogriffs make their homes nestled into niches on canyon walls, from which they comb the rocky deserts for coyotes, deer, and the occasional humanoid. Hippogriffs prefer mammalian prey, but they graze after every meal to aid in digestion.
  Since hippogriff hunting habits can be dangerous to both ranchers and their livestock, such communities often set bounties on hippogriffs. As a result, preserved hippogriffs frequently decorate frontier taverns and remote outposts alongside the taxidermic remains of deer, elk, and bears.
  However, other communities train hippogriffs from hatching to be ridden by elite soldiers in combat— the most notable among these groups in the Inner Sea region is the Sable Company Mercenaries in the city-state of Korvosa. Attempts are sometimes made to train adult hippogriffs in the same manner, but this often proves far more difficult. Hippogriff riders must use special saddles and combat techniques that allow them to act in concert with their mount, fighting effectively while avoiding interfering with the movement of their companion's wings.
-**Recall Knowledge - Animal ([[Nature]])**: DC 16
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
 # Hippogriff<span class="item-type">Creature 2</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary 2]] 
-**Perception** +8; [[Darkvision]], [[Scent]]
-**Skills** [[Acrobatics]] +7, [[Athletics]] +7, [[Survival]] +6
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +8; [[DATABASE/monsterability/Darkvision|darkvision]], [[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +7, [[DATABASE/skill/Athletics|Athletics]] +7, [[DATABASE/skill/Survival|Survival]] +6
 **Str** +3, **Dex** +3, **Con** +2, **Int** -4, **Wis** +2, **Cha** +0
 
 ---
 **AC** 18; **Fort** +8, **Ref** +9, **Will** +6
 **HP** 32
-<span class="in-box-ability">**[[Buck]] <span class="action-icon">5</span> ** DC 17</span>
+<span class="in-box-ability">**[[DATABASE/monsterability/Buck|Buck]] <span class="action-icon">5</span> ** DC 17</span>
 
 ---
 **Speed** 30 feet, fly 65 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> beak +9 [+4/-1], **Damage** 1d10+3 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> talon +9 [+5/+1] (agile), **Damage** 1d6+3 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> wing +9 [+4/-1] (reach 10 feet), **Damage** 1d6+3 bludgeoning</span><span class="in-box-ability">**Flying Strafe** <span class="action-icon">2</span> The hippogriff [[Lie]] up to its fly speed and makes two talon Strikes at any point during that movement. Each Strike must target a different creature. The attacks take the normal multiple attack penalty.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> beak +9 [+4/-1], **Damage** 1d10+3 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> talon +9 [+5/+1] (agile), **Damage** 1d6+3 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> wing +9 [+4/-1] (reach 10 feet), **Damage** 1d6+3 bludgeoning</span><span class="in-box-ability">**Flying Strafe** <span class="action-icon">2</span> The hippogriff [[DATABASE/action/Lie|Flies]] up to its fly speed and makes two talon Strikes at any point during that movement. Each Strike must target a different creature. The attacks take the normal multiple attack penalty.</span>
 
 ###  Hippogriff Eggs
 

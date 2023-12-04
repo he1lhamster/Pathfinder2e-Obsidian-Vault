@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -52,7 +53,7 @@ weapon_type: null
 # Political Favor<span class="item-type">Item 0+</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Bulk** —
 
 ---
@@ -62,18 +63,18 @@ For many, the allure of being in a secret society is the chance to place their h
 
 ## Political Favor (Minor)<span class="item-type">Item 0</span>
 
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Price** 50 gp
 Minor favors involve little risk and can be done in a matter of minutes, or at most, a few hours. Examples include signing a search warrant against a target of no political importance or arranging the loan of some horses from a military stable.
 
 ## Political Favor (Moderate)<span class="item-type">Item 0</span>
 
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Price** 1,000 gp
 Moderate favors require work from the politician and the expenditure of at least some political capital, such as having the government purchase a specific building, or reassigning a meddlesome city watch officer. Typically, only NPCs of 11th level or higher can grant such favors. If an NPC is a specialist with a higher level for some tasks, that higher level could apply here, as determined by the GM.
 
 ## Political Favor (Major)<span class="item-type">Item 0</span>
 
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Price** 10,000 gp
 Major favors are serious, politically fraught, or otherwise controversial: pardoning a notorious criminal or granting a royal trade monopoly. Typically, only NPCs of 17th level or higher can grant such favors, with exceptions for specialists.

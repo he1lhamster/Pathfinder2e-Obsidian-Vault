@@ -11,6 +11,7 @@ name: Swim Through Earth
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -26,10 +27,10 @@ type: Feat
 # Swim Through Earth <span class="action-icon">2</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Earth</span><span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Primal</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
-The earth parts before you, letting you swim through it. You gain a burrow Speed equal to your land Speed and can immediately [[Burrow]] once. You don't gain the ability to breathe while in the earth, so you must hold your breath. The impulse ends at the end of your next turn, but you can Sustain it up to 1 minute. If you're inside the earth when the impulse ends, you immediately return to the surface directly above you, fall [[Prone]] when you reach the surface, and are [[Slowed]] until the end of your next turn.
+The earth parts before you, letting you swim through it. You gain a burrow Speed equal to your land Speed and can immediately [[DATABASE/action/Burrow|Burrow]] once. You don't gain the ability to breathe while in the earth, so you must hold your breath. The impulse ends at the end of your next turn, but you can Sustain it up to 1 minute. If you're inside the earth when the impulse ends, you immediately return to the surface directly above you, fall [[DATABASE/condition/Prone|prone]] when you reach the surface, and are [[DATABASE/condition/Slowed|slowed 1]] until the end of your next turn.
 
 ---
 **Level (14th)** You can burrow through rock and similar dense earthen matter, leaving no tunnels or signs of your passing.

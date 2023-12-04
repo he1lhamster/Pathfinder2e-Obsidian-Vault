@@ -20,6 +20,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
@@ -38,14 +39,14 @@ type: Cantrip
 # Omnidirectional Scan<span class="item-type">Cantrip 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Cantrip</span><span class="item-trait">Divination</span><span class="item-trait">Psychic</span><span class="item-trait">Scrying</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Cast** <span class="action-icon">1</span> verbal
 **Area** 30-foot emanation; **Targets** 1 ally and 1 enemy
 **Duration** until the start of your next turn
 
 ---
-You quickly view your surroundings from a variety of angles, your senses constructing an overall mental picture. You can choose to [[Seek]] the entire emanation of the spell.
- Regardless of whether you Seek, target one ally and one enemy in the area; if a target is [[Concealed]] or [[Hidden]] from you, you automatically succeed at the flat check to target it with this spell. You prepare to [[Aid]] the target ally on an attack roll against the target enemy. If you take this Aid reaction, you use your spell attack modifier and proficiency rank on your check to Aid. If you critically fail the roll to Aid, you get a failure instead.
+You quickly view your surroundings from a variety of angles, your senses constructing an overall mental picture. You can choose to [[DATABASE/action/Seek|Seek]] the entire emanation of the spell.
+ Regardless of whether you Seek, target one ally and one enemy in the area; if a target is [[DATABASE/condition/Concealed|concealed]] or [[DATABASE/condition/Hidden|hidden]] from you, you automatically succeed at the flat check to target it with this spell. You prepare to [[DATABASE/action/Aid|Aid]] the target ally on an attack roll against the target enemy. If you take this Aid reaction, you use your spell attack modifier and proficiency rank on your check to Aid. If you critically fail the roll to Aid, you get a failure instead.
 
 ---
 **Amp** Your scans are so minute that you can project your foe's likely strengths and weaknesses. You learn which of the target enemy's saving throws is highest and which is lowest, and you and all allies within 30 feet gain a +1 circumstance bonus to attacks and damage against the creature.

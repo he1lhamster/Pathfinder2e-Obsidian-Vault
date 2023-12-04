@@ -70,16 +70,16 @@ wisdom: '+3'
 # Dire Wolf
 
 Much larger and more foul-tempered than their common cousins, dire wolves haunt primeval lands that accommodate their massive size and proportionately large hunting grounds and appetites. Orcs are fond of using dire wolves as mounts, finding their vicious tempers perfect for hunting and warfare.
-**Recall Knowledge - Animal ([[Nature]])**: DC 18
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Dire Wolf<span class="item-type">Creature 3</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +10; low-light vision, scent (imprecise) 30 feet
-**Skills** [[Acrobatics]] +8, [[Athletics]] +12, [[Stealth]] +8, [[Survival]] +10
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +8, [[DATABASE/skill/Athletics|Athletics]] +12, [[DATABASE/skill/Stealth|Stealth]] +8, [[DATABASE/skill/Survival|Survival]] +10
 **Str** +5, **Dex** +3, **Con** +4, **Int** -4, **Wis** +3, **Cha** -2
 
 ---

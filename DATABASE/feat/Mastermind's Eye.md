@@ -11,6 +11,7 @@ name: Mastermind's Eye
 prerequisite: '[[DATABASE/feat/Butterfly Blade Dedication|Butterfly Blade Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #166:
   Despair on Danger Island]]'
@@ -24,12 +25,12 @@ type: Feat
 # Mastermind's Eye <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Pathfinder 166. Despair on Danger Island]]
-**Archetype** [[Butterfly Blade]]
-**Prerequisites** [[Butterfly Blade Dedication]]
+**Source** [[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #166: Despair on Danger Island]]
+**Archetype** [[DATABASE/archetype/Butterfly Blade|Butterfly Blade]]
+**Prerequisites** [[DATABASE/feat/Butterfly Blade Dedication|Butterfly Blade Dedication]]
 
 ---
-When you succeed at identifying a creature using [[Recall Knowledge]], that creature is [[Flat-Footed]] against your attacks until the start of your next turn; if you critically succeed, it's flat-footed against your attacks for 1 minute. This feat serves as the rogue's [[Mastermind]] racket for the purpose of meeting prerequisites.
+When you succeed at identifying a creature using [[DATABASE/action/Recall Knowledge|Recall Knowledge]], that creature is [[DATABASE/condition/Flat-Footed|flat-footed]] against your attacks until the start of your next turn; if you critically succeed, it's flat-footed against your attacks for 1 minute. This feat serves as the rogue's [[DATABASE/rogueracket/Mastermind|mastermind]] racket for the purpose of meeting prerequisites.
 
 ## Traits
 

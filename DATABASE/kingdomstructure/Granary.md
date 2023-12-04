@@ -4,6 +4,7 @@ id: '19'
 level: '1'
 name: Granary
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - '[[DATABASE/trait/Building|Building]]'
@@ -13,10 +14,10 @@ type: Kingdom Structure
 # Granary<span class="item-type">Structure 1</span>
 
 <span class="item-trait">Building</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 A granary consists of silos and warehouses for the storage of grain and other preserved foodstuffs.
 
 ---
 **Lots** 1; **Cost** 12 RP, 2 Lumber
-**Construction** [[Agriculture]] DC 15
+**Construction** [[DATABASE/skill/Agriculture|Agriculture]] DC 15
 **Effects** Each granary in your kingdom increases your maximum Food Commodity capacity by 1.

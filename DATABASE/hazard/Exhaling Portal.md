@@ -14,6 +14,7 @@ name: Exhaling Portal
 rarity: Common
 reflex: null
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 trait:
@@ -28,14 +29,14 @@ will: null
 # Exhaling Portal<span class="item-type">Hazard 9</span>
 
 <span class="item-trait">Complex</span><span class="item-trait">Magical</span><span class="item-trait">Trap</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Complexity** Complex
 **Stealth** DC 33
 **Description** Magic runes carved into a doorframe connect a door to the Plane of Air when opened, blowing creatures down the connecting hall.
 
 ---
-**Disable** DC 30 [[Thievery]] (expert) twice to scratch out the runes, or [[Dispel Magic]] (5th level; counteract DC 30) to counteract the planar runes; DC 32 [[Athletics]] to shut the door if it's open (using Athletics only stops the trap, it doesn't fully disable it)
-**Gust** <span class="action-icon">5</span> (air, conjuration) **Trigger** A creature opens the door; **Effect** The hall is buffeted by powerful winds for as long as the door remains open. A creature must succeed at a DC 32 Athletics check to move toward the door. A creature who fails at this check is pushed back 5 feet and falls [[Prone]].
+**Disable** DC 30 [[DATABASE/skill/Thievery|Thievery]] (expert) twice to scratch out the runes, or [[DATABASE/spell/Dispel Magic|dispel magic]] (5th level; counteract DC 30) to counteract the planar runes; DC 32 [[DATABASE/skill/Athletics|Athletics]] to shut the door if it's open (using Athletics only stops the trap, it doesn't fully disable it)
+**Gust** <span class="action-icon">5</span> (air, conjuration) **Trigger** A creature opens the door; **Effect** The hall is buffeted by powerful winds for as long as the door remains open. A creature must succeed at a DC 32 Athletics check to move toward the door. A creature who fails at this check is pushed back 5 feet and falls [[DATABASE/condition/Prone|prone]].
  Additionally, the triggering creature is blasted by a powerful gust of wind and must attempt a DC 32 Fortitude save. The trap then rolls initiative.
 **Critical Success** The creature is unaffected.
 **Success** The creature is pushed back 5 feet.

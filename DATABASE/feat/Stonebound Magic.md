@@ -11,6 +11,7 @@ name: Stonebound Magic
 prerequisite: '[[DATABASE/feat/Stonebound Dedication|Stonebound Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 195. Heavy is the Crown|Pathfinder #195: Heavy
   is the Crown]]'
@@ -24,12 +25,12 @@ type: Feat
 # Stonebound Magic <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Pathfinder 195. Heavy is the Crown]]
-**Archetype** [[Stonebound]]
-**Prerequisites** [[Stonebound Dedication]]
+**Source** [[DATABASE/source/Pathfinder 195. Heavy is the Crown|Pathfinder #195: Heavy is the Crown]]
+**Archetype** [[DATABASE/archetype/Stonebound|Stonebound]]
+**Prerequisites** [[DATABASE/feat/Stonebound Dedication|Stonebound Dedication]]
 
 ---
-You've learned to manifest your connection to stone by conjuring it to your side. You gain [[Scatter Scree]] as a primal innate cantrip. At 8th level, you gain [[Meld into Stone]] as a primal innate spell once per day. At 10th level, you gain [[Shape Stone]] as a primal innate spell once per day. At 12th level, you gain [[Wall of Stone]] as a primal innate spell once per day.
+You've learned to manifest your connection to stone by conjuring it to your side. You gain [[DATABASE/spell/Scatter Scree|scatter scree]] as a primal innate cantrip. At 8th level, you gain [[DATABASE/spell/Meld into Stone|meld into stone]] as a primal innate spell once per day. At 10th level, you gain [[DATABASE/spell/Shape Stone|shape stone]] as a primal innate spell once per day. At 12th level, you gain [[DATABASE/spell/Wall of Stone|wall of stone]] as a primal innate spell once per day.
 
 ## Traits
 

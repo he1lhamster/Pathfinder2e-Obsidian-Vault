@@ -2,6 +2,7 @@
 id: '68'
 name: No-Prep Character. Eleukas
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -15,4 +16,4 @@ type: Source
 
 ## NPCs [1]
 
-[[Eleukas, Courageous Guard]]
+[[DATABASE/npc/Eleukas, Courageous Guard|Eleukas]]

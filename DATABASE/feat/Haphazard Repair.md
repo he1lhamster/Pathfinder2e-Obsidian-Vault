@@ -11,6 +11,7 @@ name: Haphazard Repair
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -24,10 +25,10 @@ type: Feat
 # Haphazard Repair <span class="action-icon">1</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Inventor</span><span class="item-trait">Unstable</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 
 ---
-You quickly fix your innovation, at the cost of its stability. You [[Repair]] your innovation almost immediately. You don't have to place the innovation on a flat surface, but you do need to be adjacent to it (including holding or wearing it), as well as having a [[Repair Kit]] as normal.
+You quickly fix your innovation, at the cost of its stability. You [[DATABASE/action/Repair|Repair]] your innovation almost immediately. You don't have to place the innovation on a flat surface, but you do need to be adjacent to it (including holding or wearing it), as well as having a [[DATABASE/equipment/Repair Kit|repair kit]] as normal.
 
 ## Traits
 

@@ -21,6 +21,7 @@ patron_theme: null
 range: touch
 rarity: Rare
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Pathfinder 147. Tomorrow Must Burn|Pathfinder #147: Tomorrow
@@ -40,7 +41,7 @@ type: Spell
 # Forgotten Lines<span class="item-type">Spell 4</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Divination</span>
-**Source** [[Pathfinder 147. Tomorrow Must Burn]]
+**Source** [[DATABASE/source/Pathfinder 147. Tomorrow Must Burn|Pathfinder #147: Tomorrow Must Burn]]
 **Traditions** arcane, divine, occult
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** touch; **Targets** 1 text or remnants thereof

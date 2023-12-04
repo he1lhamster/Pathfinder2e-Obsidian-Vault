@@ -68,20 +68,20 @@ wisdom: '+3'
 # Master Xun
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 37
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 37
 **Unspecific Lore**: DC 35
 **Specific Lore**: DC 32
 
 # Master Xun<span class="item-type">Creature 14</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 167. Ready Fight!]]
-[[Human]] Golden League ruffians
+**Source** [[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]
+[[DATABASE/ancestry/Human|Tian-Shu]] Golden League ruffians
 **Perception** +25
-**Languages** [[Tien]]
-**Skills** [[Acrobatics]] +26, [[Athletics]] +27, [[Deception]] +24, [[Intimidation]] +26, [[Stealth]] +26, [[Thievery]] +26
+**Languages** [[DATABASE/language/Tien|Tien]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +26, [[DATABASE/skill/Athletics|Athletics]] +27, [[DATABASE/skill/Deception|Deception]] +24, [[DATABASE/skill/Intimidation|Intimidation]] +26, [[DATABASE/skill/Stealth|Stealth]] +26, [[DATABASE/skill/Thievery|Thievery]] +26
 **Str** +5, **Dex** +4, **Con** +4, **Int** +0, **Wis** +3, **Cha** +2
-**Items** _+2 [[Striking]] [[Shock]] [[Dagger]]_
+**Items** _+2 [[DATABASE/equipment/Striking|striking]] [[DATABASE/equipment/Shock|shock]] [[DATABASE/weapon/Dagger|dagger]]_
 
 ---
 **AC** 36; **Fort** +26, **Ref** +24, **Will** +23
@@ -89,9 +89,9 @@ This creature did not include a description.
 
 ---
 **Speed** 25 feet, climb 15 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> dagger +28 [+24/+20] (agile, finesse, versatile S), **Damage** 2d4+13 piercing plus 1d6 electricity</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> dagger +28 [+24/+20] (agile, finesse, thrown 10 feet), **Damage** 2d4+13 piercing plus 1d6 electricity</span><span class="in-box-ability">**Lasting Debilitating Strike** <span class="action-icon">4</span> **Trigger** The xun's Strike hits a [[Flat-Footed]] creature and deals damage; **Effect** The xun applies one of the following debilitations, which lasts until the end of the xun's next turn or for 1 week on a critical hit.
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> dagger +28 [+24/+20] (agile, finesse, versatile S), **Damage** 2d4+13 piercing plus 1d6 electricity</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> dagger +28 [+24/+20] (agile, finesse, thrown 10 feet), **Damage** 2d4+13 piercing plus 1d6 electricity</span><span class="in-box-ability">**Lasting Debilitating Strike** <span class="action-icon">4</span> **Trigger** The xun's Strike hits a [[DATABASE/condition/Flat-Footed|flat-footed]] creature and deals damage; **Effect** The xun applies one of the following debilitations, which lasts until the end of the xun's next turn or for 1 week on a critical hit.
 
 * **Debilitation** The target takes a –10-foot status penalty to its Speeds.
-* **Debilitation** The target becomes [[Enfeebled]].
+* **Debilitation** The target becomes [[DATABASE/condition/Enfeebled|enfeebled 1]].
 
-</span><span class="in-box-ability">**Looming Threat** <span class="action-icon">1</span> The master xun Steps or [[Feint]], then [[Demoralize]].</span><span class="in-box-ability">**[[Sneak Attack]]** The master xun deals an extra 3d6 precision damage to [[Flat-Footed]] opponents.</span>
+</span><span class="in-box-ability">**Looming Threat** <span class="action-icon">1</span> The master xun Steps or [[DATABASE/action/Feint|Feints]], then [[DATABASE/action/Demoralize|Demoralizes]].</span><span class="in-box-ability">**[[DATABASE/monsterability/Sneak Attack|Sneak Attack]]** The master xun deals an extra 3d6 precision damage to [[DATABASE/condition/Flat-Footed|flat-footed]] opponents.</span>

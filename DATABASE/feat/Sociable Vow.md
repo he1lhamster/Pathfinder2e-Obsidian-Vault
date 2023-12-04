@@ -11,6 +11,7 @@ name: Sociable Vow
 prerequisite: '[[DATABASE/feat/Pactbinder Dedication|Pactbinder Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -24,12 +25,12 @@ type: Feat
 # Sociable Vow <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Skill</span>
-**Source** [[Dark Archive]]
-**Archetype** [[Pactbinder]]
-**Prerequisites** [[Pactbinder Dedication]]; expert in [[Diplomacy]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Archetype** [[DATABASE/archetype/Pactbinder|Pactbinder]]
+**Prerequisites** [[DATABASE/feat/Pactbinder Dedication|Pactbinder Dedication]]; expert in [[DATABASE/skill/Diplomacy|Diplomacy]]
 
 ---
-You can leverage your vow in more social interactions. The circumstance bonus from your [[Pactbinder Dedication]] also applies to attempts to [[Gather Information]], [[Make an Impression]], or [[Demoralize]] you make directly in service of fulfilling the vow.
+You can leverage your vow in more social interactions. The circumstance bonus from your [[DATABASE/feat/Pactbinder Dedication|Binding Vow]] also applies to attempts to [[DATABASE/action/Gather Information|Gather Information]], [[DATABASE/action/Make an Impression|Make an Impression]], or [[DATABASE/action/Demoralize|Demoralize]] you make directly in service of fulfilling the vow.
 
 ## Traits
 

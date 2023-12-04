@@ -11,6 +11,7 @@ name: Bloodline Mutation
 prerequisite: a bloodline based on a specific type of creature
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,11 +24,11 @@ type: Feat
 # Bloodline Mutation <span class="item-type">Feat 20</span>
 
 <span class="item-trait">Sorcerer</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Prerequisites** a bloodline based on a specific type of creature
 
 ---
-You permanently mutate to become more like the creatures of your bloodline. You gain the appropriate trait or traits for those types of creatures (aberration for [[Aberrant]], angel and celestial for [[Angelic]], psychopomp and monitor for [[Psychopomp]], and so on). You gain low-light vision or darkvision, if one is appropriate for creatures with those traits. Choose one of the following.
+You permanently mutate to become more like the creatures of your bloodline. You gain the appropriate trait or traits for those types of creatures (aberration for [[DATABASE/sorcererbloodline/Aberrant|aberrant]], angel and celestial for [[DATABASE/sorcererbloodline/Angelic|angelic]], psychopomp and monitor for [[DATABASE/sorcererbloodline/Psychopomp|psychopomp]], and so on). You gain low-light vision or darkvision, if one is appropriate for creatures with those traits. Choose one of the following.
 
 * If the creatures associated with your bloodline have the ability to fly, you gain a fly Speed equal to your land Speed.
 * If the creatures associated with your bloodline are aquatic or amphibious, you become amphibious, able to breathe water and air equally well, and you gain a swim Speed equal to your Speed.

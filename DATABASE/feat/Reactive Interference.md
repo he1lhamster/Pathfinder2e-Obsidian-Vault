@@ -11,6 +11,7 @@ name: Reactive Interference
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Reactive Interference <span class="action-icon">5</span> <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Rogue</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Trigger** An adjacent enemy begins to use a reaction.
 
 ---

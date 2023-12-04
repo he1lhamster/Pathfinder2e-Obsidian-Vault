@@ -103,20 +103,20 @@ wisdom: '+0'
 # Yabin the Just (Level 13)
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 41
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 41
 **Unspecific Lore**: DC 39
 **Specific Lore**: DC 36
 
 # Yabin the Just (Level 13)<span class="item-type">Creature 13</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NG</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Humanoid</span><span class="item-trait">Nagaji</span>
-**Source** [[Pathfinder 167. Ready Fight!]]
-Male [[Nagaji]] [[Draconic]] [[Sorcerer]]
-**Perception** +23; [[Low-Light Vision]]
-**Languages** [[Common]], [[Nagaji]], [[Tengu]], [[Tien]]
-**Skills** [[Acrobatics]] +22, [[Arcana]] +26, [[Diplomacy]] +24, [[Intimidation]] +24, [[Occultism]] +21
+**Source** [[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]
+Male [[DATABASE/monsterfamily/Nagaji|nagaji]] [[DATABASE/sorcererbloodline/Draconic|dragon]] [[DATABASE/class_/Sorcerer|sorcerer]]
+**Perception** +23; [[DATABASE/monsterability/Low-Light Vision|low-light vision]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Nagaji|Nagaji]], [[DATABASE/language/Tengu|Tengu]], [[DATABASE/language/Tien|Tien]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +22, [[DATABASE/skill/Arcana|Arcana]] +26, [[DATABASE/skill/Diplomacy|Diplomacy]] +24, [[DATABASE/skill/Intimidation|Intimidation]] +24, [[DATABASE/skill/Occultism|Occultism]] +21
 **Str** +0, **Dex** +3, **Con** +5, **Int** +2, **Wis** +0, **Cha** +5
-**Items** _+2 [[Explorer's Clothing]]_, [[Tanglefoot]], _+2 [[Striking]] [[Bo Staff]]_
+**Items** _+2 [[DATABASE/armor/Explorer's Clothing|explorer's clothing]]_, [[DATABASE/spell/Tanglefoot|greater tanglefoot bag]], _+2 [[DATABASE/equipment/Striking|greater striking]] [[DATABASE/weapon/Bo Staff|bo staff]]_
 
 ---
 **AC** 33; **Fort** +24, **Ref** +22, **Will** +19; +1 status to all saves vs. poison
@@ -124,6 +124,6 @@ Male [[Nagaji]] [[Draconic]] [[Sorcerer]]
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _bo staff_ +22 [+17/+12] (parry, reach, trip), **Damage** 3d8+7 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> venom +22 [+17/+12] (range 10 feet), **Effect** nagaji venom</span>**Arcane Spontaneous Spells** DC 32, attack +24; **7th** _[[Haste]]_, _[[Mask of Terror]]_, _[[Reverse Gravity]]_ (3 slots); **6th** _[[Dragon Form]]_, _[[Flesh to Stone]]_, _[[Magic Missile]]_, _[[Repulsion]]_ (4 slots); **5th** _[[Chromatic Wall]]_, _[[Cloak of Colors]]_, _[[Cone of Cold]]_, _[[Summon Dragon]]_ (4 slots); **4th** _[[Confusion]]_, _[[Freedom of Movement]]_, _[[Spell Immunity]]_, _[[Wall of Fire]]_ (4 slots); **3rd** _[[Fireball]]_, _[[Haste]]_, _[[Lightning Bolt]]_, _[[Slow]]_ (4 slots); **2nd** _[[Blur]]_, _[[Mirror Image]]_, _[[Resist Energy]]_, _[[Touch of Idiocy]]_ (4 slots); **1st** _[[Charm]]_, _[[Fear]]_, _[[Ray of Enfeeblement]]_, _[[True Strike]]_ (4 slots); **Cantrips** **(5th)** _[[Acid Splash]]_, _[[Detect Magic]]_, _[[Light]]_, _[[Shield]]_, _[[Telekinetic Projectile]]_
-**Sorcerer Bloodline Spells** DC 32, 3 Focus Points; **7th** _[[Dragon Breath]]_, _[[Dragon Claws]]_, _[[Dragon Wings]]_
-<span class="in-box-ability">**Nagaji Venom** (poison) **Saving Throw** DC 30 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 2d6 poison (1 round); **Stage 2** 3d6 poison and [[Dazzled]] (1 round); **Stage 3** 4d6 poison and [[Blinded]] (1 round)</span><span class="in-box-ability">**Quickened Casting** <span class="action-icon">4</span> (concentrate, metamagic) If Yabin's next action is to cast a sorcerer cantrip or a sorcerer spell of 5th level or lower, he reduces the number of actions to cast it by 1 (minimum 1 action).</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _bo staff_ +22 [+17/+12] (parry, reach, trip), **Damage** 3d8+7 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> venom +22 [+17/+12] (range 10 feet), **Effect** nagaji venom</span>**Arcane Spontaneous Spells** DC 32, attack +24; **7th** _[[DATABASE/spell/Haste|haste]]_, _[[DATABASE/spell/Mask of Terror|mask of terror]]_, _[[DATABASE/spell/Reverse Gravity|reverse gravity]]_ (3 slots); **6th** _[[DATABASE/spell/Dragon Form|dragon form]]_, _[[DATABASE/spell/Flesh to Stone|flesh to stone]]_, _[[DATABASE/spell/Magic Missile|magic missile]]_, _[[DATABASE/spell/Repulsion|repulsion]]_ (4 slots); **5th** _[[DATABASE/spell/Chromatic Wall|chromatic wall]]_, _[[DATABASE/spell/Cloak of Colors|cloak of colors]]_, _[[DATABASE/spell/Cone of Cold|cone of cold]]_, _[[DATABASE/spell/Summon Dragon|summon dragon]]_ (4 slots); **4th** _[[DATABASE/spell/Confusion|confusion]]_, _[[DATABASE/spell/Freedom of Movement|freedom of movement]]_, _[[DATABASE/spell/Spell Immunity|spell immunity]]_, _[[DATABASE/spell/Wall of Fire|wall of fire]]_ (4 slots); **3rd** _[[DATABASE/spell/Fireball|fireball]]_, _[[DATABASE/spell/Haste|haste]]_, _[[DATABASE/spell/Lightning Bolt|lightning bolt]]_, _[[DATABASE/spell/Slow|slow]]_ (4 slots); **2nd** _[[DATABASE/spell/Blur|blur]]_, _[[DATABASE/spell/Mirror Image|mirror image]]_, _[[DATABASE/spell/Resist Energy|resist energy]]_, _[[DATABASE/spell/Touch of Idiocy|touch of idiocy]]_ (4 slots); **1st** _[[DATABASE/spell/Charm|charm]]_, _[[DATABASE/spell/Fear|fear]]_, _[[DATABASE/spell/Ray of Enfeeblement|ray of enfeeblement]]_, _[[DATABASE/spell/True Strike|true strike]]_ (4 slots); **Cantrips** **(5th)** _[[DATABASE/spell/Acid Splash|acid splash]]_, _[[DATABASE/spell/Detect Magic|detect magic]]_, _[[DATABASE/spell/Light|light]]_, _[[DATABASE/spell/Shield|shield]]_, _[[DATABASE/spell/Telekinetic Projectile|telekinetic projectile]]_
+**Sorcerer Bloodline Spells** DC 32, 3 Focus Points; **7th** _[[DATABASE/spell/Dragon Breath|dragon breath]]_, _[[DATABASE/spell/Dragon Claws|dragon claws]]_, _[[DATABASE/spell/Dragon Wings|dragon wings]]_
+<span class="in-box-ability">**Nagaji Venom** (poison) **Saving Throw** DC 30 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 2d6 poison (1 round); **Stage 2** 3d6 poison and [[DATABASE/condition/Dazzled|dazzled]] (1 round); **Stage 3** 4d6 poison and [[DATABASE/condition/Blinded|blinded]] (1 round)</span><span class="in-box-ability">**Quickened Casting** <span class="action-icon">4</span> (concentrate, metamagic) If Yabin's next action is to cast a sorcerer cantrip or a sorcerer spell of 5th level or lower, he reduces the number of actions to cast it by 1 (minimum 1 action).</span>

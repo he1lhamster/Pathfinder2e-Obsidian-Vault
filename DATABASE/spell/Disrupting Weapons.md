@@ -21,6 +21,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -38,7 +39,7 @@ type: Spell
 # Disrupting Weapons<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Necromancy</span><span class="item-trait">Positive</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** divine
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** touch; **Targets** up to two weapons, each of which must be wielded by you or a willing ally, or else unattended

@@ -7,6 +7,7 @@ id: '545'
 name: Clue In
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 trait:
@@ -19,7 +20,7 @@ type: Action
 # Clue In <span class="action-icon">5</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Investigator</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Frequency** once per 10 minutes
 **Trigger** Another creature attempts a check to investigate a lead you're pursuing.
 

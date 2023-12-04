@@ -12,6 +12,7 @@ prerequisite: null
 rarity: Common
 requirement: "You\u2019re aware of the attack, are not flat-footed against it, and\
   \ have a hand free."
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Deflect Arrow <span class="action-icon">5</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Monk</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Trigger** You are the target of a physical ranged attack.
 **Requirements** You’re aware of the attack, are not flat-footed against it, and have a hand free.
 
@@ -33,4 +34,4 @@ You gain a +4 circumstance bonus to AC against the triggering attack. If the att
 
 ## Deflect Arrow Leads To...
 
-[[Arrow Snatching]], [[Return Fire]]
+[[DATABASE/feat/Arrow Snatching|Arrow Snatching ]], [[DATABASE/feat/Return Fire|Return Fire]]

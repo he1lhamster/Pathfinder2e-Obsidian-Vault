@@ -101,20 +101,20 @@ wisdom: '+1'
 # Sixth Pillar Students
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 37
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 37
 **Unspecific Lore**: DC 35
 **Specific Lore**: DC 32
 
 # Sixth Pillar Students<span class="item-type">Creature 14</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">LN</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span><span class="item-trait">Nagaji</span>
-**Source** [[Pathfinder 167. Ready Fight!]]
-[[Nagaji]] and [[Human]] [[Sorcerer]] [[Monk]]
+**Source** [[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]
+[[DATABASE/monsterfamily/Nagaji|Nagaji]] and [[DATABASE/ancestry/Human|human]] [[DATABASE/class_/Sorcerer|sorcerous]] [[DATABASE/class_/Monk|monks]]
 **Perception** +23; darkvision
-**Languages** [[Aklo]], [[Nagaji]], [[Tien]]
-**Skills** [[Acrobatics]] +25, [[Arcana]] +25, [[Athletics]] +26
+**Languages** [[DATABASE/language/Aklo|Aklo]], [[DATABASE/language/Nagaji|Nagaji]], [[DATABASE/language/Tien|Tien]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +25, [[DATABASE/skill/Arcana|Arcana]] +25, [[DATABASE/skill/Athletics|Athletics]] +26
 **Str** +4, **Dex** +3, **Con** +2, **Int** +3, **Wis** +1, **Cha** +5
-**Items** _+2 [[Striking]] [[Handwraps of Mighty Blows]]_
+**Items** _+2 [[DATABASE/equipment/Striking|greater striking]] [[DATABASE/equipment/Handwraps of Mighty Blows|handwraps of mighty blows]]_
 
 ---
 **AC** 34; **Fort** +24, **Ref** +25, **Will** +23; +1 status to all saves vs. magic
@@ -122,6 +122,6 @@ This creature did not include a description.
 
 ---
 **Speed** 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +26 [+22/+18] (agile, finesse, unarmed), **Damage** 3d6+10 bludgeoning</span>**Arcane Spontaneous Spells** DC 35, attack +27; **7th** _[[Disappearance]]_, _[[Monstrosity Form]]_, _[[Polar Ray]]_ (3 slots); **6th** _[[Baleful Polymorph]]_, _[[Field of Life]]_, _[[Repulsion]]_, _[[Tangling Creepers]]_ (4 slots); **5th** _[[Elemental Form]]_, _[[Mariner's Curse]]_, _[[Moon Frenzy]]_, _[[Wall of Ice]]_ (4 slots); **4th** _[[Fire Shield]]_, _[[Freedom of Movement]]_, _[[Stoneskin]]_, _[[Wall of Fire]]_ (4 slots); **3rd** _[[Earthbind]]_, _[[Fireball]]_, _[[Wall of Thorns]]_, _[[Wall of Wind]]_ (4 slots); **2nd** _[[Dispel Magic]]_, _[[Glitterdust]]_, _[[Humanoid Form]]_, _[[Resist Energy]]_ (4 slots); **1st** _[[Burning Hands]]_, _[[Fleet Step]]_, _[[Jump]]_, _[[Mending]]_ (4 slots); **Cantrips** **(6th)** _[[Detect Magic]]_, _[[Light]]_, _[[Produce Flame]]_, _[[Ray of Frost]]_, _[[Shield]]_
-**Sorcerer Bloodline Spells** DC 35, 3 Focus Points; **7th** _[[Elemental Blast]]_ (air), _[[Elemental Motion]]_ (air), _[[Elemental Toss]]_ (air)
-<span class="in-box-ability">**Bludgeoning Energy** The students' combine elemental energies with physical brawn, blasting opponents with huge gusts of compressed air instead of typical energies. Any of the students' spells that deal energy damage (such as [[Fireball]], [[Burning Hands]], [[Ray of Frost]], and so on) instead deal bludgeoning damage.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +26 [+22/+18] (agile, finesse, unarmed), **Damage** 3d6+10 bludgeoning</span>**Arcane Spontaneous Spells** DC 35, attack +27; **7th** _[[DATABASE/spell/Disappearance|disappearance]]_, _[[DATABASE/spell/Monstrosity Form|monstrosity form]]_, _[[DATABASE/spell/Polar Ray|polar ray]]_ (3 slots); **6th** _[[DATABASE/spell/Baleful Polymorph|baleful polymorph]]_, _[[DATABASE/spell/Field of Life|field of life]]_, _[[DATABASE/spell/Repulsion|repulsion]]_, _[[DATABASE/spell/Tangling Creepers|tangling creepers]]_ (4 slots); **5th** _[[DATABASE/spell/Elemental Form|elemental form]]_, _[[DATABASE/spell/Mariner's Curse|mariner's curse]]_, _[[DATABASE/spell/Moon Frenzy|moon frenzy]]_, _[[DATABASE/spell/Wall of Ice|wall of ice]]_ (4 slots); **4th** _[[DATABASE/spell/Fire Shield|fire shield]]_, _[[DATABASE/spell/Freedom of Movement|freedom of movement]]_, _[[DATABASE/spell/Stoneskin|stoneskin]]_, _[[DATABASE/spell/Wall of Fire|wall of fire]]_ (4 slots); **3rd** _[[DATABASE/spell/Earthbind|earthbind]]_, _[[DATABASE/spell/Fireball|fireball]]_, _[[DATABASE/spell/Wall of Thorns|wall of thorns]]_, _[[DATABASE/spell/Wall of Wind|wall of wind]]_ (4 slots); **2nd** _[[DATABASE/spell/Dispel Magic|dispel magic]]_, _[[DATABASE/spell/Glitterdust|glitterdust]]_, _[[DATABASE/spell/Humanoid Form|humanoid form]]_, _[[DATABASE/spell/Resist Energy|resist energy]]_ (4 slots); **1st** _[[DATABASE/spell/Burning Hands|burning hands]]_, _[[DATABASE/spell/Fleet Step|fleet step]]_, _[[DATABASE/spell/Jump|jump]]_, _[[DATABASE/spell/Mending|mending]]_ (4 slots); **Cantrips** **(6th)** _[[DATABASE/spell/Detect Magic|detect magic]]_, _[[DATABASE/spell/Light|light]]_, _[[DATABASE/spell/Produce Flame|produce flame]]_, _[[DATABASE/spell/Ray of Frost|ray of frost]]_, _[[DATABASE/spell/Shield|shield]]_
+**Sorcerer Bloodline Spells** DC 35, 3 Focus Points; **7th** _[[DATABASE/spell/Elemental Blast|elemental blast]]_ (air), _[[DATABASE/spell/Elemental Motion|elemental motion]]_ (air), _[[DATABASE/spell/Elemental Toss|elemental toss]]_ (air)
+<span class="in-box-ability">**Bludgeoning Energy** The students' combine elemental energies with physical brawn, blasting opponents with huge gusts of compressed air instead of typical energies. Any of the students' spells that deal energy damage (such as [[DATABASE/spell/Fireball|fireball]], [[DATABASE/spell/Burning Hands|burning hands]], [[DATABASE/spell/Ray of Frost|ray of frost]], and so on) instead deal bludgeoning damage.</span>

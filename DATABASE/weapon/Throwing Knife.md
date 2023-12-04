@@ -12,6 +12,7 @@ name: Throwing Knife
 price: 3 sp
 range: null
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
 trait:
 - '[[DATABASE/trait/Agile|Agile]]'
@@ -26,10 +27,10 @@ weapon_type: Melee
 # Throwing Knife
 
 <span class="item-trait">Agile</span><span class="item-trait">Finesse</span><span class="item-trait">Thrown 20 ft.</span>
-**Source** [[Grand Bazaar]], [[Pathfinder 151. The Show Must Go On]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]], [[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: The Show Must Go On]]
 **Price** 3 sp; **Damage** 1d4 P; **Bulk** L
 **Hands** 1
-**Type** Melee; **Category** Simple; **Group** [[Knife]]
+**Type** Melee; **Category** Simple; **Group** [[DATABASE/weapongroup/Knife|Knife]]
 
 ---
 This light knife is optimally balanced to be thrown accurately at a greater distance than a common dagger. While this comes at the cost of a significant cutting edge, the difference is worth it for throwing specialists.
@@ -50,6 +51,6 @@ You can throw this weapon as a ranged attack, and it is a ranged weapon when thr
 
 ## Critical Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
-**Knife**: The target takes 1d6 [[Persistent Damage]]. You gain an item bonus to this bleed damage equal to the weapon's item bonus to attack rolls.
+**Knife**: The target takes 1d6 [[DATABASE/condition/Persistent Damage|persistent bleed damage]]. You gain an item bonus to this bleed damage equal to the weapon's item bonus to attack rolls.

@@ -12,6 +12,7 @@ prerequisite: null
 rarity: Common
 requirement: You have an unexpended spell slot of a level equal to or higher than
   the triggering spell.
+rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,8 +26,8 @@ type: Feat
 # Energetic Resonance <span class="action-icon">5</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Sorcerer</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Wellspring Mage]]*
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Wellspring Mage|Wellspring Mage]]*
 **Trigger** You would take acid, cold, electricity, fire, or sonic damage from a spell.
 **Requirements** You have an unexpended spell slot of a level equal to or higher than the triggering spell.
 * This archetype offers Energetic Resonance at a different level than displayed here.

@@ -90,19 +90,19 @@ wisdom: '+5'
 # Harrow Doll
 
 Harrow dolls are unique constructs that can make predictions about the future. The more elite circuses and traveling shows frequently feature a harrow doll, and many use the doll’s abilities to learn more about locals to better customize shows to their tastes—or to find easy marks for later cons. Upset patrons that try to harm a harrow doll or reclaim their payment quickly learn that the construct is more than capable of defending itself.
-**Recall Knowledge - Construct ([[Arcana]], [[Crafting]])**: DC 26
+**Recall Knowledge - Construct ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Crafting|Crafting]])**: DC 26
 **Unspecific Lore**: DC 24
 **Specific Lore**: DC 21
 
 # Harrow Doll<span class="item-type">Creature 8</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Construct</span>
-**Source** [[Pathfinder 154. Siege of the Dinosaurs]]
+**Source** [[DATABASE/source/Pathfinder 154. Siege of the Dinosaurs|Pathfinder #154: Siege of the Dinosaurs]]
 **Perception** +14; darkvision
-**Languages** [[Common]]
-**Skills** [[Lore]] +16
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Lore|Fortune-Telling Lore]] +16
 **Str** +3, **Dex** +4, **Con** +2, **Int** +0, **Wis** +5, **Cha** +5
-**Uncanny Divination** A harrow doll can cast [[Augury]] as part of a harrow reading, which takes the usual 10 minutes. When casting [[Locate]], the harrow doll doesn’t need to have previously observed a specific object to learn its direction, but instead can detail the direction only vaguely, using such phrases as “beside a weeping mound” or “beneath the lost sky.” When the harrow doll casts [[Mind Reading]], there is no effect if the target critically succeeds its save. Each time a harrow doll makes a harrow reading, it also changes which saving throw is affected by its fortune’s favor ability.
+**Uncanny Divination** A harrow doll can cast [[DATABASE/spell/Augury|augury]] as part of a harrow reading, which takes the usual 10 minutes. When casting [[DATABASE/spell/Locate|locate]], the harrow doll doesn’t need to have previously observed a specific object to learn its direction, but instead can detail the direction only vaguely, using such phrases as “beside a weeping mound” or “beneath the lost sky.” When the harrow doll casts [[DATABASE/spell/Mind Reading|mind reading]], there is no effect if the target critically succeeds its save. Each time a harrow doll makes a harrow reading, it also changes which saving throw is affected by its fortune’s favor ability.
 **Items** metal harrow deck
 
 ---
@@ -112,7 +112,7 @@ Harrow dolls are unique constructs that can make predictions about the future. T
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +17 [+13/+9] (agile, magical), **Damage** 2d12+6 bludgeoning plus Grab</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> harrow card +18 [+13/+8] (magical, range increment 60 feet), **Damage** 2d8+6 slashing plus harrowing misfortune</span>**Arcane Innate Spells** DC 27; **3rd** _[[Locate]]_, _[[Mind Reading]]_; **2nd** _[[Augury]]_ (at will)
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +17 [+13/+9] (agile, magical), **Damage** 2d12+6 bludgeoning plus Grab</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> harrow card +18 [+13/+8] (magical, range increment 60 feet), **Damage** 2d8+6 slashing plus harrowing misfortune</span>**Arcane Innate Spells** DC 27; **3rd** _[[DATABASE/spell/Locate|locate]]_, _[[DATABASE/spell/Mind Reading|mind reading]]_; **2nd** _[[DATABASE/spell/Augury|augury]]_ (at will)
 <span class="in-box-ability">**Harrowing Misfortune** (curse, misfortune) A creature struck by one of the harrow doll’s cards must attempt a DC 25 Will save or be cursed with misfortune, which forces the creature to roll twice and take the lower result on its next roll of a specific type, determined by the card’s suit (roll 1d6 to randomly determine the suit). A creature can be cursed with only one effect from harrowing misfortune at a time, with a new curse overriding any previous curse. The curse ends after 1 minute or after the specified roll is made, whichever comes first. The suits and their effects are: Hammers (melee attack roll), Keys (Reflex save), Shields (Fortitude save), Books (skill check), Stars (Will save), and Crowns (spell attack roll).</span>
 
 ###  Fortune Telling Prices

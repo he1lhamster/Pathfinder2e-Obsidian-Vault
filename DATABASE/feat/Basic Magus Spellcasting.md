@@ -11,6 +11,7 @@ name: Basic Magus Spellcasting
 prerequisite: '[[DATABASE/feat/Magus Dedication|Magus Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -23,16 +24,16 @@ type: Feat
 # Basic Magus Spellcasting <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Secrets of Magic]] 
-**Archetype** [[Magus]]
-**Prerequisites** [[Magus Dedication]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
+**Archetype** [[DATABASE/archetype/Magus|Magus]]
+**Prerequisites** [[DATABASE/feat/Magus Dedication|Magus Dedication]]
 
 ---
 You gain the basic bounded spellcasting benefits.
 
 ## Basic Magus Spellcasting Leads To...
 
-[[Expert Magus Spellcasting]]
+[[DATABASE/feat/Expert Magus Spellcasting|Expert Magus Spellcasting]]
 
 ## Traits
 

@@ -21,6 +21,7 @@ follower_alignment:
 id: '68'
 name: Mammon
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Thievery|Thievery]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -30,7 +31,7 @@ type: Deity
 ---
 # Mammon (The Argent Prince) [LE]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 Mammon, the Grasping One, oversees the vast treasuries of Hell secured in the vaults of Erebus, Hell’s third layer. As his angelic form was slain, he has no form of his own, so instead he infuses the very wealth that he guards, taking forms composed of riches and extending his senses out through each nigh-uncountable coin—he knows well the exact sum held in Hell’s vaults and the greatest treasures among them. His worshippers are the greedy rich and poor alike, and he often arranges for such mortals to stumble across a “lucky copper” through which he whispers encouragements for the bearer to indulge in greater and greater vices, eventually claiming their soul as his own.
 **Category** Archdevils
 **Edicts** Gain financial control over others, gather new wealth, count your riches
@@ -39,9 +40,9 @@ Mammon, the Grasping One, oversees the vast treasuries of Hell secured in the va
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Wisdom or Charisma
-**Divine Font** _[[Harm]]_
-**Divine Skill** [[Thievery]]
-**Favored Weapon** [[Spear]]
-**Domains** [[Ambition Domain]], [[Creation Domain]], [[Wealth Domain]]
-**Cleric Spells** 1st: _[[Shattering Gem]]_, 4th: _[[Creation]]_, 7th: _[[Magnificent Mansion]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Wisdom or Charisma
+**Divine Font** _[[DATABASE/spell/Harm|harm]]_
+**Divine Skill** [[DATABASE/skill/Thievery|Thievery]]
+**Favored Weapon** [[DATABASE/weapon/Spear|spear]]
+**Domains** [[DATABASE/domain/Ambition Domain|ambition]], [[DATABASE/domain/Creation Domain|creation]], [[DATABASE/domain/Wealth Domain|wealth]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Shattering Gem|shattering gem]]_, 4th: _[[DATABASE/spell/Creation|creation]]_, 7th: _[[DATABASE/spell/Magnificent Mansion|magnificent mansion]]_

@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Stalwart's Ring<span class="item-type">Item 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Invested</span><span class="item-trait">Necromancy</span>
-**Source** [[The Fall of Plaguestone]]
+**Source** [[DATABASE/source/The Fall of Plaguestone|The Fall of Plaguestone]]
 **Price** 160 gp
 **Usage** worn; **Bulk** —
 

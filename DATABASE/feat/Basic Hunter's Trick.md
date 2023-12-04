@@ -11,6 +11,7 @@ name: Basic Hunter's Trick
 prerequisite: '[[DATABASE/feat/Ranger Dedication|Ranger Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,16 +24,16 @@ type: Feat
 # Basic Hunter's Trick <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Ranger]]
-**Prerequisites** [[Ranger Dedication]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Ranger|Ranger]]
+**Prerequisites** [[DATABASE/feat/Ranger Dedication|Ranger Dedication]]
 
 ---
 You gain a 1st- or 2nd-level ranger feat.
 
 ## Basic Hunter's Trick Leads To...
 
-[[Advanced Hunter's Trick]]
+[[DATABASE/feat/Advanced Hunter's Trick|Advanced Hunter's Trick]]
 
 ## Traits
 

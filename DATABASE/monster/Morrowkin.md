@@ -70,18 +70,18 @@ wisdom: '+4'
 # Morrowkin
 
 This creature did not include a description.
-**Recall Knowledge - Aberration ([[Occultism]])**: DC 42
+**Recall Knowledge - Aberration ([[DATABASE/skill/Occultism|Occultism]])**: DC 42
 **Unspecific Lore**: DC 40
 **Specific Lore**: DC 37
 
 # Morrowkin<span class="item-type">Creature 14</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Aberration</span><span class="item-trait">Time</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Perception** +24
-**Skills** [[Athletics]] +26, [[Deception]] +24, [[Intimidation]] +28, [[Occultism]] +25, [[Stealth]] +25
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +26, [[DATABASE/skill/Deception|Deception]] +24, [[DATABASE/skill/Intimidation|Intimidation]] +28, [[DATABASE/skill/Occultism|Occultism]] +25, [[DATABASE/skill/Stealth|Stealth]] +25
 **Str** +8, **Dex** +7, **Con** +7, **Int** +5, **Wis** +4, **Cha** +4
-**Disgusted by Food** The morrowkin eats dreams and potential, not food. A creature that spends an action to brandish food at the morrowkin automatically makes the creature [[Sickened]] (or increases its sickened value by 1, to a maximum of sickened 6), decreasing the morrowkin's AC, attack rolls, saves, skills, and ability DCs accordingly, as normal for the sickened condition. The morrowkin can't retch to reduce its sickened condition.
+**Disgusted by Food** The morrowkin eats dreams and potential, not food. A creature that spends an action to brandish food at the morrowkin automatically makes the creature [[DATABASE/condition/Sickened|sickened 1]] (or increases its sickened value by 1, to a maximum of sickened 6), decreasing the morrowkin's AC, attack rolls, saves, skills, and ability DCs accordingly, as normal for the sickened condition. The morrowkin can't retch to reduce its sickened condition.
 **Endless** If reduced to 0 Hit Points or incapacitated for more than a few rounds, the morrowkin vanishes. In 1 minute, it reappears refreshed completely as if the previous battle never happened, with full HP, with all effects on it cleared, and with its Swallow Future ability ready to use again.
 
 ---
@@ -90,8 +90,8 @@ This creature did not include a description.
 
 ---
 **Speed** 35 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +29 [+25/+21] (agile, finesse, reach 10), **Damage** 3d8+14 slashing plus drain potential</span><span class="in-box-ability">**Drain Potential** (misfortune, negative) The morrowkin tries to drain the motivation from its target, who must attempt a DC 31 Fortitude save. If the target fails, it is [[Doomed]] (doomed 2 on a critical failure) and must roll twice and use the worse result on all checks for 1 minute. Creatures wearing a hope talisman are unaffected.</span><span class="in-box-ability">**Swallow Future** <span class="action-icon">2</span> (mental, necromancy, negative) The morrowkin inhales and draws forth the future deeds of all creatures around it. All creatures within a 30-foot emanation of the morrowkin take 6d8+18 mental damage and must attempt a DC 39 Will save. The morrowkin can't Swallow Future again for 1 minute. Creatures wearing hope talismans can choose to let their hope talisman break in order to ignore the effect after seeing the result of their Will save.
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +29 [+25/+21] (agile, finesse, reach 10), **Damage** 3d8+14 slashing plus drain potential</span><span class="in-box-ability">**Drain Potential** (misfortune, negative) The morrowkin tries to drain the motivation from its target, who must attempt a DC 31 Fortitude save. If the target fails, it is [[DATABASE/condition/Doomed|doomed 1]] (doomed 2 on a critical failure) and must roll twice and use the worse result on all checks for 1 minute. Creatures wearing a hope talisman are unaffected.</span><span class="in-box-ability">**Swallow Future** <span class="action-icon">2</span> (mental, necromancy, negative) The morrowkin inhales and draws forth the future deeds of all creatures around it. All creatures within a 30-foot emanation of the morrowkin take 6d8+18 mental damage and must attempt a DC 39 Will save. The morrowkin can't Swallow Future again for 1 minute. Creatures wearing hope talismans can choose to let their hope talisman break in order to ignore the effect after seeing the result of their Will save.
  **Critical Success** The creature takes no damage.
- **Success** The creature takes half damage and is [[Doomed]].
+ **Success** The creature takes half damage and is [[DATABASE/condition/Doomed|doomed 1]].
  **Failure** The creature takes full damage and is doomed 2.
  **Critical Failure** The creature takes double damage and becomes doomed 4 (likely causing it to die immediately).</span><span class="in-box-ability">**Tomorrow's Fury** <span class="action-icon">2</span> The morrowkin makes claw attacks against any number of targets within reach. The claw attacks count against the morrowkin's multiple attack penalty, but don't apply the penalty until after all attacks have been made.</span>

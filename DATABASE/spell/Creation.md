@@ -40,6 +40,7 @@ patron_theme: null
 range: 0 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -56,10 +57,10 @@ type: Spell
 # Creation<span class="item-type">Spell 4</span>
 
 <span class="item-trait">Conjuration</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, primal
-**Bloodline** [[Genie]]
-**Deities** [[Abadar]], [[Alglenweis]], [[Apsu]], [[Bolka]], [[Brigh]], [[Demon Bringers]], [[Dwarven Pantheon]], [[Findeladlara]], [[Isis]], [[Mammon]], [[Nocticula]], [[Shelyn]], [[Sun Wukong]], [[The Endless Road]], [[The Laborer's Bastion]], [[The Prismatic Ray]], [[Torag]]
+**Bloodline** [[DATABASE/sorcererbloodline/Genie|genie]]
+**Deities** [[DATABASE/deity/Abadar|Abadar]], [[DATABASE/deity/Alglenweis|Alglenweis]], [[DATABASE/deity/Apsu|Apsu]], [[DATABASE/deity/Bolka|Bolka]], [[DATABASE/deity/Brigh|Brigh]], [[DATABASE/deity/Demon Bringers|Demon Bringers]], [[DATABASE/deity/Dwarven Pantheon|Dwarven Pantheon]], [[DATABASE/deity/Findeladlara|Findeladlara]], [[DATABASE/deity/Isis|Isis]], [[DATABASE/deity/Mammon|Mammon]], [[DATABASE/deity/Nocticula|Nocticula]], [[DATABASE/deity/Shelyn|Shelyn]], [[DATABASE/deity/Sun Wukong|Sun Wukong]], [[DATABASE/deity/The Endless Road|The Endless Road]], [[DATABASE/deity/The Laborer's Bastion|The Laborer's Bastion]], [[DATABASE/deity/The Prismatic Ray|The Prismatic Ray]], [[DATABASE/deity/Torag|Torag]]
 **Cast** 1 minute (material, somatic, verbal)
 **Range** 0 feet
 **Duration** 1 hour

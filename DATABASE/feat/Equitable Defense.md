@@ -11,6 +11,7 @@ name: Equitable Defense
 prerequisite: '[[DATABASE/feat/Shieldmarshal Dedication|Shieldmarshal Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Equitable Defense <span class="action-icon">5</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Impossible Lands]]
-**Archetype** [[Shieldmarshal]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
+**Archetype** [[DATABASE/archetype/Shieldmarshal|Shieldmarshal]]
 **Frequency** once per 10 minutes
-**Prerequisites** [[Shieldmarshal Dedication]]
+**Prerequisites** [[DATABASE/feat/Shieldmarshal Dedication|Shieldmarshal Dedication]]
 **Trigger** You take damage from a critical hit.
 
 ---

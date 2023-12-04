@@ -93,20 +93,20 @@ wisdom: '+5'
 # Yarrika
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 44
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 44
 **Unspecific Lore**: DC 42
 **Specific Lore**: DC 39
 
 # Yarrika<span class="item-type">Creature 15</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">LG</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 167. Ready Fight!]]
-Female [[Human]] spiritualist
+**Source** [[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]
+Female [[DATABASE/ancestry/Human|human]] spiritualist
 **Perception** +27
-**Languages** [[Arcadian]], [[Common]], [[Tien]]
-**Skills** [[Athletics]] +23, [[Occultism]] +24, [[Religion]] +28
+**Languages** [[DATABASE/language/Arcadian|Arcadian]], [[DATABASE/language/Common|Common]], [[DATABASE/language/Tien|Tien]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +23, [[DATABASE/skill/Occultism|Occultism]] +24, [[DATABASE/skill/Religion|Religion]] +28
 **Str** +2, **Dex** +4, **Con** +3, **Int** +1, **Wis** +5, **Cha** +3
-**Items** _+1 [[Resilient]] [[Leather Armor]]_, _+2 [[Striking]] [[Handwraps of Mighty Blows]]_
+**Items** _+1 [[DATABASE/equipment/Resilient|resilient]] [[DATABASE/armor/Leather Armor|leather armor]]_, _+2 [[DATABASE/equipment/Striking|greater striking]] [[DATABASE/equipment/Handwraps of Mighty Blows|handwraps of mighty blows]]_
 
 ---
 **AC** 37; **Fort** +24, **Ref** +27, **Will** +28
@@ -115,5 +115,5 @@ Female [[Human]] spiritualist
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _fist_ +27 [+23/+19] (agile, finesse, unarmed), **Damage** 3d4+10 bludgeoning</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> _mantis strike_ +25 [+21/+17] (agile, finesse, twin, unarmed), **Damage** 3d12+10 slashing plus [[Grab]]</span>**Occult Spontaneous Spells** DC 36; **8th** _[[Scintillating Pattern]]_, _[[Uncontrollable Dance]]_ (2 slots); **7th** _[[Dimensional Lock]]_, _[[Duplicate Foe]]_, _[[Energy Aegis]]_ (3 slots); **6th** _[[Collective Transposition]]_, _[[Spellwrack]]_, _[[Spirit Blast]]_ (3 slots); **5th** _[[Banishment]]_, _[[Shadow Siphon]]_, _[[Synaptic Pulse]]_ (3 slots); **4th** _[[Confusion]]_, _[[Remove Curse]]_, _[[Telepathy]]_ (3 slots); **3rd** _[[Circle of Protection]]_, _[[Invisibility Sphere]]_, _[[Nondetection]]_ (3 slots); **2nd** _[[Dispel Magic]]_, _[[Paranoia]]_, _[[Spiritual Weapon]]_ (3 slots); **1st** _[[Sanctuary]]_, _[[Summon Fey]]_, _[[True Strike]]_ (3 slots); **Cantrips** **(8th)** _[[Daze]]_, _[[Detect Magic]]_, _[[Guidance]]_, _[[Light]]_, _[[Message]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _fist_ +27 [+23/+19] (agile, finesse, unarmed), **Damage** 3d4+10 bludgeoning</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> _mantis strike_ +25 [+21/+17] (agile, finesse, twin, unarmed), **Damage** 3d12+10 slashing plus [[DATABASE/monsterability/Grab|Grab]]</span>**Occult Spontaneous Spells** DC 36; **8th** _[[DATABASE/spell/Scintillating Pattern|scintillating pattern]]_, _[[DATABASE/spell/Uncontrollable Dance|uncontrollable dance]]_ (2 slots); **7th** _[[DATABASE/spell/Dimensional Lock|dimensional lock]]_, _[[DATABASE/spell/Duplicate Foe|duplicate foe]]_, _[[DATABASE/spell/Energy Aegis|energy aegis]]_ (3 slots); **6th** _[[DATABASE/spell/Collective Transposition|collective transposition]]_, _[[DATABASE/spell/Spellwrack|spellwrack]]_, _[[DATABASE/spell/Spirit Blast|spirit blast]]_ (3 slots); **5th** _[[DATABASE/spell/Banishment|banishment]]_, _[[DATABASE/spell/Shadow Siphon|shadow siphon]]_, _[[DATABASE/spell/Synaptic Pulse|synaptic pulse]]_ (3 slots); **4th** _[[DATABASE/spell/Confusion|confusion]]_, _[[DATABASE/spell/Remove Curse|remove curse]]_, _[[DATABASE/spell/Telepathy|telepathy]]_ (3 slots); **3rd** _[[DATABASE/spell/Circle of Protection|circle of protection]]_, _[[DATABASE/spell/Invisibility Sphere|invisibility sphere]]_, _[[DATABASE/spell/Nondetection|nondetection]]_ (3 slots); **2nd** _[[DATABASE/spell/Dispel Magic|dispel magic]]_, _[[DATABASE/spell/Paranoia|paranoia]]_, _[[DATABASE/spell/Spiritual Weapon|spiritual weapon]]_ (3 slots); **1st** _[[DATABASE/spell/Sanctuary|sanctuary]]_, _[[DATABASE/spell/Summon Fey|summon fey]]_, _[[DATABASE/spell/True Strike|true strike]]_ (3 slots); **Cantrips** **(8th)** _[[DATABASE/spell/Daze|daze]]_, _[[DATABASE/spell/Detect Magic|detect magic]]_, _[[DATABASE/spell/Guidance|guidance]]_, _[[DATABASE/spell/Light|light]]_, _[[DATABASE/spell/Message|message]]_
 <span class="in-box-ability">**Occult Strike** <span class="action-icon">4</span> **Trigger** Yarrika casts an occult spell; **Effect** Yarrika makes a fist Strike against a creature within reach.</span>

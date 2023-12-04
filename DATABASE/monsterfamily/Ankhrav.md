@@ -3,6 +3,7 @@ creature_family: Ankhrav
 id: '5'
 name: Ankhrav
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Ankhrav
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Ankhravs are immense, burrowing, and insectile predators, considered by inhabitants of the rural areas of the world to be an all-too-common plague.
 
 ### Members
 
-[[Ankhrav]] (Creature 3), [[Hive Mother]] (Creature 8)
+[[DATABASE/monster/Ankhrav|Ankhrav]] (Creature 3), [[DATABASE/monster/Hive Mother|Hive Mother]] (Creature 8)
 
 ###  Ankhrav Burrows
 

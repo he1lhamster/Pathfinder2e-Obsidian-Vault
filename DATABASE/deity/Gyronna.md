@@ -23,6 +23,7 @@ follower_alignment:
 id: '153'
 name: Gyronna
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Intimidation|Intimidation]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -32,18 +33,18 @@ type: Deity
 ---
 # Gyronna (The Angry Hag) [CE]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Category** Other Gods
 **Edicts** Expose hypocrisy (real or imagined) in others, make other creatures miserable, demand bribes to spare creatures from your torments
 **Anathema** Allow others to slight you without retaliation, seek the approval of society, forgive those who have wronged you
 **Follower Alignments** NE, CE
-**Pantheons** [[The Perplexing Jest]]
+**Pantheons** [[DATABASE/deity/The Perplexing Jest|The Perplexing Jest]]
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Wisdom or Charisma
-**Divine Font** _[[Harm]]_
-**Divine Skill** [[Intimidation]]
-**Favored Weapon** [[Dagger]]
-**Domains** [[Ambition Domain]], [[Nightmares Domain]], [[Pain Domain]], [[Zeal Domain]]
-**Cleric Spells** 1st: _[[Ill Omen]]_, 2nd: _[[Paranoia]]_, 6th: _[[Feeblemind]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Wisdom or Charisma
+**Divine Font** _[[DATABASE/spell/Harm|harm]]_
+**Divine Skill** [[DATABASE/skill/Intimidation|Intimidation]]
+**Favored Weapon** [[DATABASE/weapon/Dagger|dagger]]
+**Domains** [[DATABASE/domain/Ambition Domain|ambition]], [[DATABASE/domain/Nightmares Domain|nightmares]], [[DATABASE/domain/Pain Domain|pain]], [[DATABASE/domain/Zeal Domain|zeal]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Ill Omen|ill omen]]_, 2nd: _[[DATABASE/spell/Paranoia|paranoia]]_, 6th: _[[DATABASE/spell/Feeblemind|feeblemind]]_

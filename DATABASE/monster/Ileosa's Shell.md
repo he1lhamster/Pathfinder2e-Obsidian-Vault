@@ -78,28 +78,28 @@ wisdom: '+5'
 # Ileosa's Shell
 
 This creature did not include a description.
-**Recall Knowledge - Undead ([[Religion]])**: DC 41
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 41
 **Unspecific Lore**: DC 39
 **Specific Lore**: DC 36
 
 # Ileosa's Shell<span class="item-type">Creature 13</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Undead</span>
-**Source** [[Shadows at Sundown]]
-**Perception** +24; [[Darkvision]]
-**Languages** [[Aklo]], [[Common]], [[Elven]], [[Infernal]], [[Shadowtongue]], [[Thassilonian]], [[Varisian]]; (can't speak any languages)
-**Skills** [[Acrobatics]] +24, [[Athletics]] +27
+**Source** [[DATABASE/source/Shadows at Sundown|Shadows at Sundown]]
+**Perception** +24; [[DATABASE/monsterability/Darkvision|greater darkvision]]
+**Languages** [[DATABASE/language/Aklo|Aklo]], [[DATABASE/language/Common|Common]], [[DATABASE/language/Elven|Elven]], [[DATABASE/language/Infernal|Infernal]], [[DATABASE/language/Shadowtongue|Shadowtongue]], [[DATABASE/language/Thassilonian|Thassilonian]], [[DATABASE/language/Varisian|Varisian]]; (can't speak any languages)
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +24, [[DATABASE/skill/Athletics|Athletics]] +27
 **Str** +8, **Dex** +5, **Con** +5, **Int** +0, **Wis** +5, **Cha** +0
-**Escape From Hell** (auditory, divine, emotion, fear, mental, necromancy) When Ileosa's shell is reduced to 0 HP, the hollow corpse immediately melts into a pool of blood, at the center of which lies her still-beating heart. A moment later, a crimson ghostly shape—Queen Ileosa's soul—rises from the heart. After the soul shrieks in relief at escaping from [[Hell]], it rises through the ceiling and vanishes while the heart dies and rots. All creatures within 30 feet of the shell when this occurs must attempt a DC 30 Will save.
- **Critical Success** A living creature becomes invigorated and elated by the sense of freedom from Hell, and becomes [[Quickened]] for 1 minute. The creature can use the extra action each round only for Strike and Stride actions. An undead creature gains no benefit.
+**Escape From Hell** (auditory, divine, emotion, fear, mental, necromancy) When Ileosa's shell is reduced to 0 HP, the hollow corpse immediately melts into a pool of blood, at the center of which lies her still-beating heart. A moment later, a crimson ghostly shape—Queen Ileosa's soul—rises from the heart. After the soul shrieks in relief at escaping from [[DATABASE/plane/Hell|Hell]], it rises through the ceiling and vanishes while the heart dies and rots. All creatures within 30 feet of the shell when this occurs must attempt a DC 30 Will save.
+ **Critical Success** A living creature becomes invigorated and elated by the sense of freedom from Hell, and becomes [[DATABASE/condition/Quickened|quickened]] for 1 minute. The creature can use the extra action each round only for Strike and Stride actions. An undead creature gains no benefit.
  **Success** As success, but the creature can use the extra action only for Stride actions.
- **Failure** The creature becomes [[Frightened]].
+ **Failure** The creature becomes [[DATABASE/condition/Frightened|frightened 1]].
  **Critical Failure** The creature becomes frightened 2.
 
 ---
 **AC** 34; **Fort** +22, **Ref** +26, **Will** +24
-**HP** 235 ([[Negative Healing]]); **Immunities** death effects, disease, mental, [[Paralyzed]], poison, [[Unconscious]]; **Resistances** physical 10 (except [[Silver Weapon]]); **Weaknesses** bleed 10
+**HP** 235 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects, disease, mental, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Unconscious|unconscious]]; **Resistances** physical 10 (except [[DATABASE/equipment/Silver Weapon|silver]]); **Weaknesses** bleed 10
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fangs +29 [+24/+19], **Damage** 3d12+8 piercing plus 2d6 [[Persistent Damage]] and blood feast</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +29 [+25/+21] (agile), **Damage** 3d8+8 slashing plus 2d6 [[Persistent Damage]]</span><span class="in-box-ability">**Blood Feast** When a creature takes damage from a fangs Strike, the creature must succeed at a DC 33 Fortitude save or become [[Enfeebled]] (enfeebled 1 and [[Drained]] on a critical failure). The shell becomes [[Quickened]] for 1 round, and can use the extra action only for fangs Strike actions against a creature that is taking persistent bleed damage. Further damage dealt by the shell increases the enfeebled condition by 1 on a failed save, to a maximum of enfeebled 4.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fangs +29 [+24/+19], **Damage** 3d12+8 piercing plus 2d6 [[DATABASE/condition/Persistent Damage|persistent bleed]] and blood feast</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +29 [+25/+21] (agile), **Damage** 3d8+8 slashing plus 2d6 [[DATABASE/condition/Persistent Damage|persistent bleed]]</span><span class="in-box-ability">**Blood Feast** When a creature takes damage from a fangs Strike, the creature must succeed at a DC 33 Fortitude save or become [[DATABASE/condition/Enfeebled|enfeebled 1]] (enfeebled 1 and [[DATABASE/condition/Drained|drained 1]] on a critical failure). The shell becomes [[DATABASE/condition/Quickened|quickened]] for 1 round, and can use the extra action only for fangs Strike actions against a creature that is taking persistent bleed damage. Further damage dealt by the shell increases the enfeebled condition by 1 on a failed save, to a maximum of enfeebled 4.</span>

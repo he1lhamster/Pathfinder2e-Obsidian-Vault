@@ -12,6 +12,7 @@ name: Repeating Heavy Crossbow
 price: 20 gp
 range: 180 ft.
 rarity: Uncommon
+rus_type_level: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
 - '[[DATABASE/trait/Repeating|Repeating]]'
@@ -25,11 +26,11 @@ weapon_type: Ranged
 # Repeating Heavy Crossbow<span class="item-type">Item 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Repeating</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 20 gp; **Damage** 1d10 P; **Bulk** 2
 **Hands** 2; **Range** 180 ft.; **Reload** 1
-**Type** Ranged; **Category** Martial; **Group** [[Bow]]
-**Ammunition** [[Repeating Heavy Crossbow Magazine]]
+**Type** Ranged; **Category** Martial; **Group** [[DATABASE/weapongroup/Bow|Bow]]
+**Ammunition** [[DATABASE/weapon/Repeating Heavy Crossbow Magazine|Repeating Heavy Crossbow Magazine]]
 
 ---
 This large crossbow has an internal chamber that can be loaded with up to five bolts. While it uses the same automated catch mechanism as other repeating crossbows, a repeating heavy crossbow's design has significant trade-offs. It has increased range and damage and is easier to learn how to use, but requires a small amount of effort to reload.
@@ -42,10 +43,10 @@ A repeating weapon is a type of ranged weapon with a shorter reload time. These 
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.
 
 ## Critical Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
-**Bow**: If the target of the critical hit is adjacent to a surface, it gets stuck to that surface by the missile. The target is [[Immobilized]] and must spend an Interact action to attempt a DC 10 [[Athletics]] check to pull the missile free; it can't move from its space until it succeeds. The creature doesn't become stuck if it is incorporeal, is liquid (like a [[Elemental, Water]] or some [[Ooze]]), or could otherwise escape without effort.
+**Bow**: If the target of the critical hit is adjacent to a surface, it gets stuck to that surface by the missile. The target is [[DATABASE/condition/Immobilized|immobilized]] and must spend an Interact action to attempt a DC 10 [[DATABASE/skill/Athletics|Athletics]] check to pull the missile free; it can't move from its space until it succeeds. The creature doesn't become stuck if it is incorporeal, is liquid (like a [[DATABASE/monsterfamily/Elemental, Water|water elemental]] or some [[DATABASE/monsterfamily/Ooze|oozes]]), or could otherwise escape without effort.

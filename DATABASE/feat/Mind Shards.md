@@ -11,6 +11,7 @@ name: Mind Shards
 prerequisite: '[[DATABASE/feat/Mind Smith Dedication|Mind Smith Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Enchantment
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -27,9 +28,9 @@ type: Feat
 # Mind Shards <span class="action-icon">2</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Concentrate</span><span class="item-trait">Enchantment</span><span class="item-trait">Magical</span><span class="item-trait">Mental</span>
-**Source** [[Dark Archive]]
-**Archetype** [[Mind Smith]]
-**Prerequisites** [[Mind Smith Dedication]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Archetype** [[DATABASE/archetype/Mind Smith|Mind Smith]]
+**Prerequisites** [[DATABASE/feat/Mind Smith Dedication|Mind Smith Dedication]]
 
 ---
 With a swing and a thought, you detonate your mind weapon into a burst of psychic shards that shred the mind. You concentrate and unleash a 15-foot cone that deals 3d6 mental damage to all creatures in the area, with a basic Will save against the higher of your class DC or spell DC. After the attack, your mind weapon automatically re-forms, and you can't use this ability again for 1 minute. Mind Shards' damage increases by 1d6 at level 7 and every two levels thereafter.

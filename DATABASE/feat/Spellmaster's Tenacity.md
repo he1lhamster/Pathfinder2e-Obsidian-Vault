@@ -11,6 +11,7 @@ name: Spellmaster's Tenacity
 prerequisite: '[[DATABASE/feat/Spellmaster''s Resilience|Spellmaster''s Resilience]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
 subcategory: null
@@ -25,11 +26,11 @@ type: Feat
 # Spellmaster's Tenacity <span class="action-icon">5</span> <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[PFS Guide]]
-**Archetype** [[Spellmaster]]
+**Source** [[DATABASE/source/PFS Guide|PFS Guide]]
+**Archetype** [[DATABASE/archetype/Spellmaster|Spellmaster]]
 **Frequency** once per day
-**Prerequisites** [[Spellmaster's Resilience]]
-**Trigger** You critically fail at a saving throw against a foe's spell, and that spell was cast or created with the tradition of magic you selected with the [[Spellmaster's Resilience]] feat.
+**Prerequisites** [[DATABASE/feat/Spellmaster's Resilience|Spellmaster's Resilience]]
+**Trigger** You critically fail at a saving throw against a foe's spell, and that spell was cast or created with the tradition of magic you selected with the [[DATABASE/feat/Spellmaster's Resilience|Spellmaster's Resilience]] feat.
 
 ---
 You call upon the power of your spells to protect you from the worst of the magic headed your way. You fail your saving throw instead of critically failing. For 1 minute, increase the circumstance bonus to saving throws from the Spellmaster's Resilience feat to +2, and increase the resistance to damage it grants to 10.

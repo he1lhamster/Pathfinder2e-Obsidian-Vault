@@ -89,17 +89,17 @@ wisdom: '+5'
 # Vaspercham
 
 The darkly intelligent vaspercham, an aquatic horror who delights in violence and destruction, lurks in the shallows near shorelines. Once a vaspercham settles on a new home, they stubbornly stay there, regardless of any communities dwelling nearby. A vaspercham's physical might and magic-warping abilities make them incredibly hard to dislodge once entrenched, and many seaside communities have relocated after a vaspercham came calling. The monster responds only to strength, so one must best a vaspercham in combat to gain their begrudging cooperation. But once the creature recovers their strength, they inevitably betray any temporary alliance.
-**Recall Knowledge - Aberration ([[Occultism]])**: DC 36
+**Recall Knowledge - Aberration ([[DATABASE/skill/Occultism|Occultism]])**: DC 36
 **Unspecific Lore**: DC 34
 **Specific Lore**: DC 31
 
 # Vaspercham<span class="item-type">Creature 17</span>
 
 <span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Huge</span><span class="item-trait">Aberration</span><span class="item-trait">Aquatic</span>
-**Source** [[Bestiary 2]] 
-**Perception** +30; [[Darkvision]], [[See Invisibility]]
-**Languages** [[Aklo]]
-**Skills** [[Arcana]] +33, [[Athletics]] +33, [[Deception]] +31, [[Intimidation]] +29, [[Lore]] +33
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +30; [[DATABASE/monsterability/Darkvision|darkvision]], [[DATABASE/spell/See Invisibility|see invisibility]]
+**Languages** [[DATABASE/language/Aklo|Aklo]]
+**Skills** [[DATABASE/skill/Arcana|Arcana]] +33, [[DATABASE/skill/Athletics|Athletics]] +33, [[DATABASE/skill/Deception|Deception]] +31, [[DATABASE/skill/Intimidation|Intimidation]] +29, [[DATABASE/skill/Lore|Sea Lore]] +33
 **Str** +8, **Dex** +4, **Con** +6, **Int** +8, **Wis** +5, **Cha** +6
 
 ---
@@ -109,8 +109,8 @@ The darkly intelligent vaspercham, an aquatic horror who delights in violence an
 
 ---
 **Speed** 20 feet, swim 50 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> tentacle +33 [+29/+25] (agile, magical, reach 20 feet), **Damage** 3d10+16 bludgeoning plus hallucinatory brine</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> water blast +33 [+28/+23] (brutal, magical, range increment 100 feet, water), **Damage** 2d8+16 bludgeoning plus hallucinatory brine</span>**Arcane Innate Spells** DC 41; **9th** _[[Cone of Cold]]_, _[[Spell Immunity]]_; **8th** _[[Lightning Bolt]]_; **7th** _[[Regenerate]]_; **6th** _[[Spellwrack]]_ (x3); **5th** _[[Control Water]]_ (at will); **Constant** **(7th)** _[[See Invisibility]]_
-<span class="in-box-ability">**Hallucinatory Brine** (arcane, illusion, mental) A creature hit by the vaspercham's Strikes or Mindwarping Tide must attempt a DC 38 Fortitude save. On a failure, the creature is overwhelmed with phantasmal visions, becoming [[Confused]] for 1 round (1 minute on a critical failure).</span><span class="in-box-ability">**Mindwarping Tide** <span class="action-icon">1</span> (concentrate) The vaspercham releases an effusion of noxious water from its shell. Creatures within a 15-foot emanation must save against the vaspercham's hallucinatory brine.</span><span class="in-box-ability">**Whipping Tentacles** <span class="action-icon">2</span> The vaspercham makes four tentacle Strikes, each against a different target. These attacks count toward the vaspercham's multiple attack penalty, but the multiple attack penalty doesn't increase until after the vaspercham makes all of their attacks.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> tentacle +33 [+29/+25] (agile, magical, reach 20 feet), **Damage** 3d10+16 bludgeoning plus hallucinatory brine</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> water blast +33 [+28/+23] (brutal, magical, range increment 100 feet, water), **Damage** 2d8+16 bludgeoning plus hallucinatory brine</span>**Arcane Innate Spells** DC 41; **9th** _[[DATABASE/spell/Cone of Cold|cone of cold]]_, _[[DATABASE/spell/Spell Immunity|spell immunity]]_; **8th** _[[DATABASE/spell/Lightning Bolt|lightning bolt]]_; **7th** _[[DATABASE/spell/Regenerate|regenerate]]_; **6th** _[[DATABASE/spell/Spellwrack|spellwrack]]_ (x3); **5th** _[[DATABASE/spell/Control Water|control water]]_ (at will); **Constant** **(7th)** _[[DATABASE/spell/See Invisibility|see invisibility]]_
+<span class="in-box-ability">**Hallucinatory Brine** (arcane, illusion, mental) A creature hit by the vaspercham's Strikes or Mindwarping Tide must attempt a DC 38 Fortitude save. On a failure, the creature is overwhelmed with phantasmal visions, becoming [[DATABASE/condition/Confused|confused]] for 1 round (1 minute on a critical failure).</span><span class="in-box-ability">**Mindwarping Tide** <span class="action-icon">1</span> (concentrate) The vaspercham releases an effusion of noxious water from its shell. Creatures within a 15-foot emanation must save against the vaspercham's hallucinatory brine.</span><span class="in-box-ability">**Whipping Tentacles** <span class="action-icon">2</span> The vaspercham makes four tentacle Strikes, each against a different target. These attacks count toward the vaspercham's multiple attack penalty, but the multiple attack penalty doesn't increase until after the vaspercham makes all of their attacks.</span>
 
 ###  Forbidden Armor
 

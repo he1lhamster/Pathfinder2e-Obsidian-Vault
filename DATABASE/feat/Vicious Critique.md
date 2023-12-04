@@ -11,6 +11,7 @@ name: Vicious Critique
 prerequisite: Trained in [[DATABASE/skill/Crafting|Crafting]] ; Trained in [[DATABASE/skill/Intimidation|Intimidation]]
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Highhelm|Highhelm]]'
 subcategory: crafting
@@ -26,9 +27,9 @@ type: Feat
 # Vicious Critique <span class="action-icon">4</span> <span class="item-type">Feat 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Highhelm]]
-**Prerequisites** trained in [[Crafting]] and [[Intimidation]]
-**Trigger** You are about to attempt to [[Coerce]] a merchant or crafter.
+**Source** [[DATABASE/source/Highhelm|Highhelm]]
+**Prerequisites** trained in [[DATABASE/skill/Crafting|Crafting]] and [[DATABASE/skill/Intimidation|Intimidation]]
+**Trigger** You are about to attempt to [[DATABASE/action/Coerce|Coerce]] a merchant or crafter.
 
 ---
 You have an eye for detail and a mouth for pointing out flaws, which makes it all the easier to convince the merchants and crafters of King's Heart to help you. You quickly analyze the triggering creature's wares in hopes of finding something useful in your coercion and attempt a Crafting check.
@@ -49,4 +50,4 @@ A general feat with the skill trait improves your skills and their actions or gi
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.

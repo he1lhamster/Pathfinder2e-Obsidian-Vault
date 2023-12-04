@@ -11,6 +11,7 @@ name: Sap Life
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,10 +25,10 @@ type: Feat
 # Sap Life <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Cleric</span><span class="item-trait">Healing</span>
-**Source** [[Core Rulebook]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
-You draw the life force out of your enemies to heal your own wounds. When you cast a [[Harm]] spell and damage at least one living creature, you regain Hit Points equal to the spell level of your _harm_ spell. If you aren’t a living creature, you gain no benefit from this feat.
+You draw the life force out of your enemies to heal your own wounds. When you cast a [[DATABASE/spell/Harm|harm]] spell and damage at least one living creature, you regain Hit Points equal to the spell level of your _harm_ spell. If you aren’t a living creature, you gain no benefit from this feat.
 
 ## Traits
 

@@ -2,6 +2,7 @@
 id: '141'
 name: Scrying
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Scrying
@@ -10,25 +11,25 @@ type: Trait
 ---
 # Scrying
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 A scrying effect lets you see, hear, or otherwise get sensory information from a distance using a sensor or apparatus, rather than your own eyes and ears.
 
 ## Actions
 
-[[Share Senses]]
+[[DATABASE/action/Share Senses|Share Senses]]
 
 ## Equipment
 
-[[Calamity Glass]], [[Crystal Ball]], [[Earthsight Box]], [[Hag Eye]], [[Recording Rod]], [[Shortbread Spy]], [[Stargazer]], [[Tattletale Orb]], [[The Lens of the Outreaching Eye]], [[Watchful Portrait]]
+[[DATABASE/equipment/Calamity Glass|Calamity Glass]], [[DATABASE/equipment/Crystal Ball|Crystal Ball]], [[DATABASE/equipment/Earthsight Box|Earthsight Box]], [[DATABASE/equipment/Hag Eye|Hag Eye]], [[DATABASE/equipment/Recording Rod|Recording Rod]], [[DATABASE/equipment/Shortbread Spy|Shortbread Spy]], [[DATABASE/equipment/Stargazer|Stargazer]], [[DATABASE/equipment/Tattletale Orb|Tattletale Orb]], [[DATABASE/equipment/The Lens of the Outreaching Eye|The Lens of the Outreaching Eye]], [[DATABASE/equipment/Watchful Portrait|Watchful Portrait]]
 
 ## Feats
 
-[[Read the Roots]]
+[[DATABASE/feat/Read the Roots|Read the Roots]]
 
 ## Focus Spells
 
-[[Omnidirectional Scan]], [[Pulse of the City]]
+[[DATABASE/spell/Omnidirectional Scan|Omnidirectional Scan]], [[DATABASE/spell/Pulse of the City|Pulse of the City]]
 
 ## Spells
 
-[[Clairaudience]], [[Clairvoyance]], [[Familiar's Face]], [[Painted Scout]], [[Proliferating Eyes]], [[Prying Eye]], [[Prying Survey]], [[Scrying]], [[Scrying Ripples]], [[Spy's Mark]], [[Unrelenting Observation]], [[Web of Eyes]]
+[[DATABASE/spell/Clairaudience|Clairaudience]], [[DATABASE/spell/Clairvoyance|Clairvoyance]], [[DATABASE/spell/Familiar's Face|Familiar's Face]], [[DATABASE/spell/Painted Scout|Painted Scout]], [[DATABASE/spell/Proliferating Eyes|Proliferating Eyes]], [[DATABASE/spell/Prying Eye|Prying Eye]], [[DATABASE/spell/Prying Survey|Prying Survey]], [[DATABASE/spell/Scrying|Scrying]], [[DATABASE/spell/Scrying Ripples|Scrying Ripples]], [[DATABASE/spell/Spy's Mark|Spy's Mark]], [[DATABASE/spell/Unrelenting Observation|Unrelenting Observation]], [[DATABASE/spell/Web of Eyes|Web of Eyes]]

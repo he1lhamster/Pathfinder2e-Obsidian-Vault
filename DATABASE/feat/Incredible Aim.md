@@ -11,6 +11,7 @@ name: Incredible Aim
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,14 +25,14 @@ type: Feat
 # Incredible Aim <span class="action-icon">2</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Fighter</span>
-**Source** [[Core Rulebook]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
-By spending a moment to focus, you can ensure your attack strikes true. Make a ranged weapon Strike. On this Strike, you gain a +2 circumstance bonus to the attack roll and ignore the target's [[Concealed]] condition.
+By spending a moment to focus, you can ensure your attack strikes true. Make a ranged weapon Strike. On this Strike, you gain a +2 circumstance bonus to the attack roll and ignore the target's [[DATABASE/condition/Concealed|concealed]] condition.
 
 ## Incredible Aim Leads To...
 
-[[Incredible Ricochet]]
+[[DATABASE/feat/Incredible Ricochet|Incredible Ricochet]]
 
 ## Traits
 

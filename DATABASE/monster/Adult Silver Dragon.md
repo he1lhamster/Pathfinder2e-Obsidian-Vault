@@ -116,17 +116,17 @@ Silver dragons are among the most chivalrous of all dragonkind; they wield frost
  Silver dragons are sleek and sinuous. Their hides resemble nothing so much as a suit of gleaming armor, lending further credence to the popular myth that silver dragons are the paladins of dragonkind. The zeal with which they seek out, confront, and defeat evil is unsurpassed even among their metallic cousins, and they adhere to strict codes of honor usually passed down from parent to hatchling. On occasion, they instead learn these codes from trusted mentors, usually other silver dragons or gold dragons. As they age, they become even more dedicated to their codes, often adding new and even more restrictive clauses to the systems that guide their behavior.
  Silver dragons are incredibly altruistic and regularly consort with the citizens of goodly societies, of which they consider themselves protectors and guides. In addition to responding to evil threats, silver dragons work to prevent evil from taking root in the first place, and they ensure mortals under their care are well fed, educated, and treated with dignity. Although silver dragons can seem overzealous or even eager to join the fight against evil, they know that the best way to rid the world of corruption is to stamp out strife and disillusionment at their source, not to passively sit back and watch it grow into an unsolvable problem. Silver dragons can be vindictive, but they can also be forgiving; for evildoers who seek to atone for their sins and turn over a new leaf, the support of a silver dragon is both unwavering and invaluable.
  Many silver dragons are also drawn to religious endeavors, venerating deities such as Iomedae, Sarenrae, and other deities concerned with justice, virtue, and redemption.
-**Recall Knowledge - Dragon ([[Arcana]])**: DC 32
+**Recall Knowledge - Dragon ([[DATABASE/skill/Arcana|Arcana]])**: DC 32
 **Unspecific Lore**: DC 30
 **Specific Lore**: DC 27
 
 # Adult Silver Dragon<span class="item-type">Creature 14</span>
 
 <span class="trait-alignment item-trait">LG</span><span class="trait-size item-trait">Huge</span><span class="item-trait">Cold</span><span class="item-trait">Dragon</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +26; darkvision, fog vision, scent (imprecise) 60 feet
-**Languages** [[Auran]], [[Common]], [[Draconic]], [[Dwarven]]
-**Skills** [[Acrobatics]] +21, [[Athletics]] +27, [[Diplomacy]] +25, [[Intimidation]] +27, [[Medicine]] +24, [[Religion]] +24, [[Society]] +20
+**Languages** [[DATABASE/language/Auran|Auran]], [[DATABASE/language/Common|Common]], [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Dwarven|Dwarven]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +21, [[DATABASE/skill/Athletics|Athletics]] +27, [[DATABASE/skill/Diplomacy|Diplomacy]] +25, [[DATABASE/skill/Intimidation|Intimidation]] +27, [[DATABASE/skill/Medicine|Medicine]] +24, [[DATABASE/skill/Religion|Religion]] +24, [[DATABASE/skill/Society|Society]] +20
 **Str** +7, **Dex** +3, **Con** +4, **Int** +3, **Wis** +4, **Cha** +5
 **Fog Vision** The silver dragon ignores the concealed condition from fog and clouds.
 
@@ -137,11 +137,11 @@ Silver dragons are among the most chivalrous of all dragonkind; they wield frost
 
 ---
 **Speed** 50 feet, fly 140 feet; cloud walk
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +29 [+24/+19] (cold, magical, reach 15 feet), **Damage** 3d10+13 piercing plus 3d6 cold</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +29 [+25/+21] (agile, magical, reach 10 feet), **Damage** 3d8+13 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> tail +27 [+22/+17] (magical, reach 20 feet), **Damage** 2d10+11 bludgeoning</span>**Arcane Innate Spells** DC 33; **1st** _[[Detect Alignment]]_ (evil only)
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +29 [+24/+19] (cold, magical, reach 15 feet), **Damage** 3d10+13 piercing plus 3d6 cold</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +29 [+25/+21] (agile, magical, reach 10 feet), **Damage** 3d8+13 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> tail +27 [+22/+17] (magical, reach 20 feet), **Damage** 2d10+11 bludgeoning</span>**Arcane Innate Spells** DC 33; **1st** _[[DATABASE/spell/Detect Alignment|detect alignment]]_ (evil only)
 <span class="in-box-ability">**Breath Weapon ** <span class="action-icon">2</span> The silver dragon breathes in one of two ways. The dragon can’t use Breath Weapon again for 1d4 rounds.
 
 * **Frost** (arcane,cold,evocation); The dragon breathes a cloud of frost in a 40-foot cone that deals 15d6 cold damage (DC 35 basic Reflex save).
-* **Paralyzing Gas** (arcane, enchantment,incapacitation); The dragon breathes a blast of paralyzing gas. Each creature within a 40-foot cone must succeed at a DC 35 Fortitude save or be [[Slowed]] 2 for 1 round (or [[Paralyzed]] for two rounds on a critical failure).
+* **Paralyzing Gas** (arcane, enchantment,incapacitation); The dragon breathes a blast of paralyzing gas. Each creature within a 40-foot cone must succeed at a DC 35 Fortitude save or be [[DATABASE/condition/Slowed|slowed]] 2 for 1 round (or [[DATABASE/condition/Paralyzed|paralyzed]] for two rounds on a critical failure).
 
 </span><span class="in-box-ability">**Cloud Walk** The silver dragon can tread on clouds or fog as though on solid ground.</span><span class="in-box-ability">**Draconic Frenzy** <span class="action-icon">2</span> The silver dragon makes two claw Strikes and one tail Strike in any order.</span><span class="in-box-ability">**Draconic Momentum** When the silver dragon scores a critical hit with a Strike, it recharges its Breath Weapon.</span>
 
@@ -149,6 +149,6 @@ Silver dragons are among the most chivalrous of all dragonkind; they wield frost
 
 Silver dragon spellcasters tend to cast the following spells. Unlike most dragons, they cast divine spells instead of arcane.
 **Young Silver Dragon**
-**Divine Prepared Spells** DC 28, attack +23; **4th** [[Freedom of Movement]], [[Read Omens]], [[Restoration]]; **3rd** [[Heal]], [[Paralyze]], [[Wall of Wind]]; **2nd** [[Augury]], [[Calm Emotions]], [[Restoration]], [[See Invisibility]]; **1st** [[Alarm]], [[Bless]], [[Protection]], [[True Strike]]; **Cantrips (4th)** [[Detect Magic]], [[Light]], [[Message]], [[Read Aura]], [[Stabilize]]
+**Divine Prepared Spells** DC 28, attack +23; **4th** [[DATABASE/spell/Freedom of Movement|freedom of movement]], [[DATABASE/spell/Read Omens|read omens]], [[DATABASE/spell/Restoration|restoration]]; **3rd** [[DATABASE/spell/Heal|heal]], [[DATABASE/spell/Paralyze|paralyze]], [[DATABASE/spell/Wall of Wind|wall of wind]]; **2nd** [[DATABASE/spell/Augury|augury]], [[DATABASE/spell/Calm Emotions|calm emotions]], [[DATABASE/spell/Restoration|restoration]], [[DATABASE/spell/See Invisibility|see invisibility]]; **1st** [[DATABASE/spell/Alarm|alarm]], [[DATABASE/spell/Bless|bless]], [[DATABASE/spell/Protection|protection]], [[DATABASE/spell/True Strike|true strike]]; **Cantrips (4th)** [[DATABASE/spell/Detect Magic|detect magic]], [[DATABASE/spell/Light|light]], [[DATABASE/spell/Message|message]], [[DATABASE/spell/Read Aura|read aura]], [[DATABASE/spell/Stabilize|stabilize]]
 **Adult Silver Dragon**
-**Divine Prepared Spells** DC 33, attack +29; As young silver dragon, plus **6th** [[Repulsion]], [[True Seeing]], [[Zealous Conviction]]; **5th** [[Banishment]], [[Heal]], [[Sending]]; **Cantrips (6th)** [[Detect Magic]], [[Light]], [[Message]], [[Read Aura]], [[Stabilize]]
+**Divine Prepared Spells** DC 33, attack +29; As young silver dragon, plus **6th** [[DATABASE/spell/Repulsion|repulsion]], [[DATABASE/spell/True Seeing|true seeing]], [[DATABASE/spell/Zealous Conviction|zealous conviction]]; **5th** [[DATABASE/spell/Banishment|banishment]], [[DATABASE/spell/Heal|heal]], [[DATABASE/spell/Sending|sending]]; **Cantrips (6th)** [[DATABASE/spell/Detect Magic|detect magic]], [[DATABASE/spell/Light|light]], [[DATABASE/spell/Message|message]], [[DATABASE/spell/Read Aura|read aura]], [[DATABASE/spell/Stabilize|stabilize]]

@@ -2,6 +2,7 @@
 id: '4'
 name: Pathfinder 145. Hellknight Hill
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -16,19 +17,19 @@ type: Source
 
 ## Equipment [2]
 
-[[Cinderclaw Gauntlet]], [[Hunter's Arrowhead]]
+[[DATABASE/equipment/Cinderclaw Gauntlet|Cinderclaw Gauntlet]], [[DATABASE/equipment/Hunter's Arrowhead|Hunter's Arrowhead]]
 
 ## Hazards [3]
 
-[[Gloomglow Mushrooms]], [[Spiked Doorframe]], [[Town Hall Fire]]
+[[DATABASE/hazard/Gloomglow Mushrooms|Gloomglow Mushrooms]], [[DATABASE/hazard/Spiked Doorframe|Spiked Doorframe]], [[DATABASE/hazard/Town Hall Fire|Town Hall Fire]]
 
 ## Languages [1]
 
-[[Anadi]]
+[[DATABASE/language/Anadi|Anadi]]
 
 ## Monsters [9]
 
-[[Anadi Elder]], [[Anadi Hunter]], [[Anadi Sage]], [[Doorwarden]], [[Emperor Bird]], [[Grauladon]], [[Graveshell]], [[Hellcrown]], [[Tixitog]]
+[[DATABASE/monster/Anadi Elder|Anadi Elder]], [[DATABASE/monster/Anadi Hunter|Anadi Hunter]], [[DATABASE/monster/Anadi Sage|Anadi Sage]], [[DATABASE/monster/Doorwarden|Doorwarden]], [[DATABASE/monster/Emperor Bird|Emperor Bird]], [[DATABASE/monster/Grauladon|Grauladon]], [[DATABASE/monster/Graveshell|Graveshell]], [[DATABASE/monster/Hellcrown|Hellcrown]], [[DATABASE/monster/Tixitog|Tixitog]]
 
 ## Setting Articles [1]
 

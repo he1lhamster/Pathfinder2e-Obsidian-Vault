@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Spellmaster Dedication|Spellmaster Dedication]] ;
   repertoire or ability toprepare spells'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 subcategory: null
@@ -25,10 +26,10 @@ type: Feat
 # Absorb Spell <span class="action-icon">5</span> <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Character Guide]] 
-**Archetype** [[Spellmaster]]
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
+**Archetype** [[DATABASE/archetype/Spellmaster|Spellmaster]]
 **Frequency** once per 10 minutes
-**Prerequisites** [[Spellmaster Dedication]]; spell repertoire or ability to prepare spells
+**Prerequisites** [[DATABASE/feat/Spellmaster Dedication|Spellmaster Dedication]]; spell repertoire or ability to prepare spells
 **Trigger** You critically succeed at a saving throw against a foe’s spell, and that spell is of a level you can normally cast.
 
 ---
@@ -36,7 +37,7 @@ You absorb a spell and store it in your body. If you are a spontaneous spellcast
 
 ## Absorb Spell Leads To...
 
-[[Retain Absorbed Spell]]
+[[DATABASE/feat/Retain Absorbed Spell|Retain Absorbed Spell]]
 
 ## Traits
 

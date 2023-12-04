@@ -3,6 +3,7 @@ creature_family: Arboreal
 id: '8'
 name: Arboreal
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Arboreal
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Arboreals are guardians of the forest and representatives of the trees. As longlived as the woods they watch over, arboreals consider themselves parents and shepherds of trees rather than their gardeners. Consequently, while arboreals tend to be slow and methodical, they are terrifyingly swift when forced to fight in defense of the woods. Though they rarely seek out the companionship of short-lived folk—even elves are fugacious in the eyes of arboreals—and have an inherent distrust of change, arboreals have been known to tolerate those who seek to learn from their long-winded, rambling monologues, especially if such pupils also express a desire to protect the timberlands. Against those who threaten their realm, such as loggers eager to harvest lumber or settlers aiming to establish croplands or a town, arboreals’ wrath is unwavering and devastating. Perhaps ironically, arboreals are gifted at tearing down what others build—a trait that serves vengeful members of their kind well.
 
 ### Members
 
-[[Arboreal Archive]] (Creature 12), [[Arboreal Reaper]] (Creature 7), [[Arboreal Regent]] (Creature 8), [[Arboreal Warden]] (Creature 4), [[Awakened Tree]] (Creature 6), [[Canopy Elder]] (Creature 19)
+[[DATABASE/monster/Arboreal Archive|Arboreal Archive]] (Creature 12), [[DATABASE/monster/Arboreal Reaper|Arboreal Reaper]] (Creature 7), [[DATABASE/monster/Arboreal Regent|Arboreal Regent]] (Creature 8), [[DATABASE/monster/Arboreal Warden|Arboreal Warden]] (Creature 4), [[DATABASE/monster/Awakened Tree|Awakened Tree]] (Creature 6), [[DATABASE/monster/Canopy Elder|Canopy Elder]] (Creature 19)
 
 ###  Felled Arboreals
 

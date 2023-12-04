@@ -2,6 +2,7 @@
 id: '132'
 name: A Song of Making and Unmaking
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source

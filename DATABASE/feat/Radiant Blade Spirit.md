@@ -11,6 +11,7 @@ name: Radiant Blade Spirit
 prerequisite: '[[DATABASE/class_/Champion|divine ally (blade)]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,12 +24,12 @@ type: Feat
 # Radiant Blade Spirit <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Champion</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Champion]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/class_/Champion|divine ally (blade)]]
 
 ---
-Your divine ally radiates power, enhancing your chosen weapon. When you choose the weapon for your blade ally during your daily preparations, add the following property runes to the list of effects you can choose from: _[[Flaming]]_ and any aligned properties (_[[Anarchic]]_, _[[Axiomatic]]_, _[[Holy]]_, or _[[Unholy]]_) that match your cause’s alignment.
+Your divine ally radiates power, enhancing your chosen weapon. When you choose the weapon for your blade ally during your daily preparations, add the following property runes to the list of effects you can choose from: _[[DATABASE/equipment/Flaming|flaming]]_ and any aligned properties (_[[DATABASE/equipment/Anarchic|anarchic]]_, _[[DATABASE/equipment/Axiomatic|axiomatic]]_, _[[DATABASE/equipment/Holy|holy]]_, or _[[DATABASE/equipment/Unholy|unholy]]_) that match your cause’s alignment.
 
 ## Radiant Blade Spirit Leads To...
 
-[[Radiant Blade Master]]
+[[DATABASE/feat/Radiant Blade Master|Radiant Blade Master]]

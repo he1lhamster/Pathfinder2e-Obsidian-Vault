@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 size: null
@@ -57,10 +58,10 @@ weapon_type: null
 # Lucky Rabbit's Foot<span class="item-type">Item 10</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Consumable</span><span class="item-trait">Divination</span><span class="item-trait">Fortune</span><span class="item-trait">Magical</span><span class="item-trait">Talisman</span>
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Price** 175 gp
 **Usage** affixed to armor; **Bulk** —
-**Access** follower of [[Desna]]
+**Access** follower of [[DATABASE/deity/Desna|Desna]]
 **Activate** <span class="action-icon">5</span> envision **Trigger** You fail a Reflex save against a damaging effect.
 
 ---

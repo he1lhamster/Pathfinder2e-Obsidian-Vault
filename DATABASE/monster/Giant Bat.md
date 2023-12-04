@@ -73,16 +73,16 @@ wisdom: '+3'
 # Giant Bat
 
 While big bats are certainly not uncommon in dark caves and abandoned ruins and may instill fear in squeamish spelunkers, the so-called giant bat is a true monster, weighing well over 100 pounds and having a wingspan of nearly 15 feet. It primarily eats fruit and bugs, but can be incited to violence through fear or hunger. Giant bat attacks can quickly give rise to rumors of more dangerous monsters—many mistake these massive animals for some sort of demon or vampiric monster. But like other bats, giant bats are simply social and intelligent mammals. They are sometimes used as mounts by smaller humanoids, commonly those who hail from or dwell in mountainous or underground regions.
-**Recall Knowledge - Animal ([[Nature]])**: DC 16
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
 # Giant Bat<span class="item-type">Creature 2</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +11; echolocation (precise) 40 feet, low-light vision
-**Skills** [[Acrobatics]] +8, [[Athletics]] +8, [[Stealth]] +8
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +8, [[DATABASE/skill/Athletics|Athletics]] +8, [[DATABASE/skill/Stealth|Stealth]] +8
 **Str** +4, **Dex** +2, **Con** +3, **Int** -4, **Wis** +3, **Cha** -2
 **Echolocation** A bat can use its hearing as a precise sense at the listed range.
 

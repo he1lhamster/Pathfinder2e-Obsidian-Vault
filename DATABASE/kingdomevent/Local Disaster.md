@@ -3,6 +3,7 @@ id: '21'
 level: '0'
 name: Local Disaster
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Industry|Industry]]'
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
@@ -15,10 +16,10 @@ type: Kingdom Event
 # Local Disaster<span class="item-type">Event +0</span>
 
 <span class="item-trait">Dangerous</span><span class="item-trait">Settlement</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 **Location** A randomly determined settlement
 A disaster strikes the settlement, be it fire, flooding, earthquakes, an architectural failure, or the like.
-**Kingdom Skill** [[Industry]]; **Leader** Magister
+**Kingdom Skill** [[DATABASE/skill/Industry|Industry]]; **Leader** Magister
 **Critical Success** You prepared well for the disaster and the settlement survives intact and undamaged.
 **Success** The settlement still functions despite the loss of some resources. During the next turn, reduce your Resource Dice total by 2.
 **Failure** Several lots in the settlement are torn up, including at least one structure. Gain 1 Decay and place rubble into three lots of the PCs' choice in the settlement's Urban Grid. During the next turn, reduce your Resource Dice total by 4.

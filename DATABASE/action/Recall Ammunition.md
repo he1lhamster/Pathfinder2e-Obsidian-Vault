@@ -7,6 +7,7 @@ id: '924'
 name: Recall Ammunition
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
@@ -22,7 +23,7 @@ type: Action
 # Recall Ammunition <span class="action-icon">5</span>
 
 <span class="item-trait">Conjuration</span><span class="item-trait">Magical</span><span class="item-trait">Spellshot</span><span class="item-trait">Teleportation</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Trigger** You miss with a firearm or crossbow Strike while using an ordinary level-0 bolt or bullet
 
 ---

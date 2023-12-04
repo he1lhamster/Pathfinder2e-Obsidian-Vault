@@ -11,6 +11,7 @@ name: Megavolt
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -25,7 +26,7 @@ type: Feat
 # Megavolt <span class="action-icon">2</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Electricity</span><span class="item-trait">Inventor</span><span class="item-trait">Manipulate</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 
 ---
 You bleed off some electric power from your innovation in the shape of a damaging bolt. Creatures in a 20-foot line from your innovation take 3d4 electricity damage, with a basic Reflex save against your class DC. The electricity damage increases by 1d4 at 8th level and every 2 levels thereafter.
@@ -35,7 +36,7 @@ You bleed off some electric power from your innovation in the shape of a damagin
 
 ## Megavolt Leads To...
 
-[[Gigavolt]]
+[[DATABASE/feat/Gigavolt|Gigavolt]]
 
 ## Traits
 

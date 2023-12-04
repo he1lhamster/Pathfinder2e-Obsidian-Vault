@@ -3,6 +3,7 @@ alignment: LG
 id: '1'
 name: Paladin
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait: null
 type: Champion Cause
@@ -10,18 +11,18 @@ type: Champion Cause
 ---
 # Paladin [Lawful Good]
 
-**Source** [[Core Rulebook]] 
-You’re honorable, forthright, and committed to pushing back the forces of cruelty. You gain the Retributive Strike champion’s reaction and the [[Lay on Hands]] devotion spell. After the tenets of good, add these tenets:
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+You’re honorable, forthright, and committed to pushing back the forces of cruelty. You gain the Retributive Strike champion’s reaction and the [[DATABASE/spell/Lay on Hands|lay on hands]] devotion spell. After the tenets of good, add these tenets:
 
 * You must act with honor, never taking advantage of others, lying, or cheating. 
 * You must respect the lawful authority of legitimate leadership wherever you go, and follow its laws.
 
 ## Champion's Reaction
 
-### [[Retributive Strike]] <span class="action-icon">5</span>
+### [[DATABASE/action/Retributive Strike|Retributive Strike]] <span class="action-icon">5</span>
 
 <span class="item-trait">Champion</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Trigger** An enemy damages your ally, and both are within 15 feet of you.
 
 ---
@@ -29,7 +30,7 @@ You protect your ally and strike your foe. The ally gains resistance to all dama
 
 ## Divine Smite<span class="item-type">Level 9</span>
 
-You surround evil targets in a punishing halo. If you hit with your Retributive Strike, the target takes [[Persistent Damage]] equal to your Charisma modifier.
+You surround evil targets in a punishing halo. If you hit with your Retributive Strike, the target takes [[DATABASE/condition/Persistent Damage|persistent good damage]] equal to your Charisma modifier.
 
 ## Exalt<span class="item-type">Level 11</span>
 

@@ -13,6 +13,7 @@ name: Longspear
 price: 5 sp
 range: null
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Reach|Reach]]'
@@ -25,11 +26,11 @@ weapon_type: Melee
 # Longspear
 
 <span class="item-trait">Reach</span>
-**Source** [[Core Rulebook]] 
-**Favored Weapon** [[Lubaiko]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Favored Weapon** [[DATABASE/deity/Lubaiko|Lubaiko]]
 **Price** 5 sp; **Damage** 1d8 P; **Bulk** 2
 **Hands** 2
-**Type** Melee; **Category** Simple; **Group** [[Spear]]
+**Type** Melee; **Category** Simple; **Group** [[DATABASE/weapongroup/Spear|Spear]]
 
 ---
 This very long spear, sometimes called a pike, is purely for thrusting rather than throwing. Used by many soldiers and city watch for crowd control and defense against charging enemies, it must be wielded with two hands.
@@ -42,10 +43,10 @@ Natural attacks with this trait can be used to attack creatures up to the listed
 
 ## Critical Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
-**Spear**: The weapon pierces the target, weakening its attacks. The target is [[Clumsy]] until the start of your next turn.
+**Spear**: The weapon pierces the target, weakening its attacks. The target is [[DATABASE/condition/Clumsy|clumsy 1]] until the start of your next turn.
 
 ## Specific Magic Weapons
 
-[[Spear of the Destroyer's Flame]]
+[[DATABASE/equipment/Spear of the Destroyer's Flame|Spear of the Destroyer's Flame]]

@@ -65,19 +65,19 @@ wisdom: '+1'
 # Orc Brute
 
 If orc armies are rarely well organized, this shortcoming can likely be traced to the furious and undisciplined rank-and-file brutes who make up the bulk of an orc warband.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 14
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 14
 **Unspecific Lore**: DC 12
 **Specific Lore**: DC 9
 
 # Orc Brute<span class="item-type">Creature 0</span>
 
 <span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Humanoid</span><span class="item-trait">Orc</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +5; darkvision
-**Languages** [[Orcish]]
-**Skills** [[Athletics]] +5, [[Intimidation]] +2
+**Languages** [[DATABASE/language/Orcish|Orcish]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +5, [[DATABASE/skill/Intimidation|Intimidation]] +2
 **Str** +3, **Dex** +2, **Con** +3, **Int** -1, **Wis** +1, **Cha** +0
-**Items** [[Javelin]], [[Orc Knuckle Dagger]], [[Breastplate]]
+**Items** [[DATABASE/weapon/Javelin|javelin (3)]], [[DATABASE/weapon/Orc Knuckle Dagger|orc knuckle dagger (2)]], [[DATABASE/armor/Breastplate|shoddy breastplate]]
 
 ---
 **AC** 15; **Fort** +6, **Ref** +4, **Will** +2

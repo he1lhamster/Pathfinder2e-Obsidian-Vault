@@ -83,20 +83,20 @@ wisdom: '+5'
 # Terwa Prodigy
 
 Among the Terwa Lord clans, iruxis display immense, unrefined magical talent from a very young age. These abilities reveal themselves in a wide number of ways, but advanced spellcasting is the most common.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 24
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 24
 **Unspecific Lore**: DC 22
 **Specific Lore**: DC 19
 
 # Terwa Prodigy<span class="item-type">Creature 6</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Humanoid</span><span class="item-trait">Lizardfolk</span>
-**Source** [[Pathfinder 171. Hurricane's Howl]]
+**Source** [[DATABASE/source/Pathfinder 171. Hurricane's Howl|Pathfinder #171: Hurricane's Howl]]
 **Perception** +17
-**Languages** [[Common]], [[Draconic]], [[Iruxi]]
-**Skills** [[Acrobatics]] +15, [[Arcana]] +13, [[Lore]] +11, [[Medicine]] +13, [[Nature]] +15, [[Survival]] +15
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Iruxi|Iruxi]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +15, [[DATABASE/skill/Arcana|Arcana]] +13, [[DATABASE/skill/Lore|Astrology Lore]] +11, [[DATABASE/skill/Medicine|Medicine]] +13, [[DATABASE/skill/Nature|Nature]] +15, [[DATABASE/skill/Survival|Survival]] +15
 **Str** +2, **Dex** +5, **Con** +4, **Int** +3, **Wis** +5, **Cha** +2
 **Deep Breath** A terwa prodigy can hold their breath for 10 minutes.
-**Items** _+1 [[Longbow]]_, [[Leather Armor]]
+**Items** _+1 [[DATABASE/weapon/Longbow|longbow]]_, [[DATABASE/armor/Leather Armor|leather armor]]
 
 ---
 **AC** 23; **Fort** +13, **Ref** +15, **Will** +15
@@ -104,4 +104,4 @@ Among the Terwa Lord clans, iruxis display immense, unrefined magical talent fro
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +15 [+11/+7] (agile, finesse), **Damage** 2d6+5 slashing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _longbow_ +17 [+12/+7] (deadly d10, volley), **Damage** 1d8+5 piercing</span>**Primal Innate Spells** DC 24, attack +16; **3rd** _[[Fireball]]_ (×2), _[[Heal]]_; **2nd** _[[Acid Arrow]]_, _[[Clawsong]]_, _[[Dispel Magic]]_, _[[Heal]]_; **1st** _[[Heal]]_ (×2), _[[Pass Without Trace]]_, _[[Swampcall]]_; **Cantrips** **(3rd)** _[[Acid Splash]]_, _[[Guidance]]_, _[[Stabilize]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +15 [+11/+7] (agile, finesse), **Damage** 2d6+5 slashing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _longbow_ +17 [+12/+7] (deadly d10, volley), **Damage** 1d8+5 piercing</span>**Primal Innate Spells** DC 24, attack +16; **3rd** _[[DATABASE/spell/Fireball|fireball]]_ (×2), _[[DATABASE/spell/Heal|heal]]_; **2nd** _[[DATABASE/spell/Acid Arrow|acid arrow]]_, _[[DATABASE/spell/Clawsong|clawsong]]_, _[[DATABASE/spell/Dispel Magic|dispel magic]]_, _[[DATABASE/spell/Heal|heal]]_; **1st** _[[DATABASE/spell/Heal|heal]]_ (×2), _[[DATABASE/spell/Pass Without Trace|pass without trace]]_, _[[DATABASE/spell/Swampcall|swampcall]]_; **Cantrips** **(3rd)** _[[DATABASE/spell/Acid Splash|acid splash]]_, _[[DATABASE/spell/Guidance|guidance]]_, _[[DATABASE/spell/Stabilize|stabilize]]_

@@ -11,6 +11,7 @@ name: Gnoll Weapon Expertise
 prerequisite: '[[DATABASE/feat/Gnoll Weapon Practicality|Gnoll Weapon Practicality]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 subcategory: null
@@ -23,11 +24,11 @@ type: Feat
 # Gnoll Weapon Expertise <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Gnoll</span>
-**Source** [[The Mwangi Expanse]] 
-**Prerequisites** [[Gnoll Weapon Practicality]]
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]] 
+**Prerequisites** [[DATABASE/feat/Gnoll Weapon Practicality|Gnoll Weapon Practicality]]
 
 ---
-Whenever you gain a class feature that grants you expert or greater proficiency in a given weapon or weapons, you also gain that proficiency in [[Flail]], [[Khopesh]], [[Mambele]], [[Spear]], and [[War Flail]].
+Whenever you gain a class feature that grants you expert or greater proficiency in a given weapon or weapons, you also gain that proficiency in [[DATABASE/weapon/Flail|flails]], [[DATABASE/weapon/Khopesh|khopeshes]], [[DATABASE/weapon/Mambele|mambeles]], [[DATABASE/weapon/Spear|spears]], and [[DATABASE/weapon/War Flail|war flails]].
 
 ## Traits
 

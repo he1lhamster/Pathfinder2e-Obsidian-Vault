@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Predictive Purchase (Investigator)|Predictive Pur
   (Investigator)]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Implausible Purchase (Investigator) <span class="item-type">Feat 16</span>
 
 <span class="item-trait">Investigator</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** [[Predictive Purchase (Investigator)]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** [[DATABASE/feat/Predictive Purchase (Investigator)|Predictive Purchase (Investigator)]]
 
 ---
-It seems impossible, but you've analyzed every angle and are able to just keep pulling out exactly the item you need, even in far-flung locations. You can use [[Prescient Planner]] even if you have already used it after purchasing goods, and you can use it as a single action instead of a 2-action activity, during which you Interact to draw the item. In addition, five times per day, you can use Prescient Planner to pull out a common consumable item up to 6 levels lower than your level.
+It seems impossible, but you've analyzed every angle and are able to just keep pulling out exactly the item you need, even in far-flung locations. You can use [[DATABASE/feat/Prescient Planner|Prescient Planner]] even if you have already used it after purchasing goods, and you can use it as a single action instead of a 2-action activity, during which you Interact to draw the item. In addition, five times per day, you can use Prescient Planner to pull out a common consumable item up to 6 levels lower than your level.

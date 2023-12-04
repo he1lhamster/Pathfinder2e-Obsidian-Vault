@@ -10,6 +10,7 @@ id: '6'
 name: Barkeep
 prerequisite: null
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Diplomacy|Diplomacy]]'
 - Alcohol [[DATABASE/skill/Lore|Lore]]
@@ -21,7 +22,7 @@ type: Background
 ---
 # Barkeep<span class="item-type">Background</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 You have five specialties: hefting barrels, drinking, polishing steins, drinking, and drinking. You worked in a bar, where you learned how to hold your liquor and rowdily socialize.
 Choose two ability boosts. One must be to **Constitution** or **Charisma**, and one is a free ability boost.
-You're trained in the [[Diplomacy]] skill, and the [[Lore]] skill. You gain the [[Hobnobber]] skill feat.
+You're trained in the [[DATABASE/skill/Diplomacy|Diplomacy]] skill, and the [[DATABASE/skill/Lore|Alcohol Lore]] skill. You gain the [[DATABASE/feat/Hobnobber|Hobnobber]] skill feat.

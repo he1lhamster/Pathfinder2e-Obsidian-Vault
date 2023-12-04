@@ -11,6 +11,7 @@ name: Vicious Fangs
 prerequisite: '[[DATABASE/feat/Vampire Dedication|Vampire Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 subcategory: null
@@ -23,12 +24,12 @@ type: Feat
 # Vicious Fangs <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Book of the Dead]]
-**Archetype** [[Vampire]]
-**Prerequisites** [[Vampire Dedication]]
+**Source** [[DATABASE/source/Book of the Dead|Book of the Dead]]
+**Archetype** [[DATABASE/archetype/Vampire|Vampire]]
+**Prerequisites** [[DATABASE/feat/Vampire Dedication|Vampire Dedication]]
 
 ---
-You aim for your victim's prominent arteries. Your fangs Strike deals an additional 1d6 [[Persistent Damage]] on a critical hit. At 14th level, the persistent bleed damage increases to 2d6, and at 20th level, the persistent bleed damage increases to 3d6.
+You aim for your victim's prominent arteries. Your fangs Strike deals an additional 1d6 [[DATABASE/condition/Persistent Damage|persistent bleed damage]] on a critical hit. At 14th level, the persistent bleed damage increases to 2d6, and at 20th level, the persistent bleed damage increases to 3d6.
 
 ## Traits
 

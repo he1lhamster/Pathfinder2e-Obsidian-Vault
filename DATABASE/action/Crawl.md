@@ -7,6 +7,7 @@ id: '76'
 name: Crawl
 rarity: Common
 requirement: You are prone and your Speed is at least 10 feet.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
@@ -18,7 +19,7 @@ type: Action
 # Crawl <span class="action-icon">1</span>
 
 <span class="item-trait">Move</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Requirements** You are prone and your Speed is at least 10 feet.
 
 ---

@@ -11,6 +11,7 @@ name: Stormsoul
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Stormsoul <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Lineage</span><span class="item-trait">Sylph</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
 Your elemental ancestor's influence manifests in you as tumultuous, thundering storms, with dark clouds and bolts of lightning. You gain resistance to electricity equal to half your level (minimum 1).
@@ -37,4 +38,4 @@ A feat with this trait indicates a character's descendance from a particular typ
 
 **Sylph:**
 
-Sylphs are planar scions descended from [[Djinni]].
+Sylphs are planar scions descended from [[DATABASE/monster/Djinni|djinn]].

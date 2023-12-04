@@ -69,19 +69,19 @@ wisdom: '+1'
 # Gnoll Hunter
 
 Gnoll hunters serve their clans by hunting for food in the wilds, marauding along well-traveled roads, and tracking down escaped slaves.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 16
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
 # Gnoll Hunter<span class="item-type">Creature 2</span>
 
 <span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Gnoll</span><span class="item-trait">Humanoid</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +7; darkvision
-**Languages** [[Gnoll]]
-**Skills** [[Acrobatics]] +7, [[Athletics]] +8, [[Intimidation]] +4, [[Stealth]] +7, [[Survival]] +5
+**Languages** [[DATABASE/language/Gnoll|Gnoll]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +7, [[DATABASE/skill/Athletics|Athletics]] +8, [[DATABASE/skill/Intimidation|Intimidation]] +4, [[DATABASE/skill/Stealth|Stealth]] +7, [[DATABASE/skill/Survival|Survival]] +5
 **Str** +4, **Dex** +3, **Con** +2, **Int** -1, **Wis** +1, **Cha** +0
-**Items** [[Battle Axe]], [[Leather Armor]], [[Shortbow]]
+**Items** [[DATABASE/weapon/Battle Axe|battle axe]], [[DATABASE/armor/Leather Armor|leather armor]], [[DATABASE/weapon/Shortbow|shortbow (20 arrows)]]
 
 ---
 **AC** 18; **Fort** +8, **Ref** +7, **Will** +7

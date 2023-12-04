@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -55,11 +56,11 @@ weapon_type: null
 # Silent Heart<span class="item-type">Item 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span><span class="item-trait">Tattoo</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 **Price** 130 gp
 **Usage** worn; **Bulk** —
 **Access** Followers of Abraxas from Nex have access to this tattoo.
 
 ---
-[[Abraxas]] teaches that the true heart is impenetrable, dedicated only to knowledge. This tattoo of a venom-soaked heart provides a +1 item bonus to [[Occultism]] checks.
-**Activate** <span class="action-icon">5</span> envision **Frequency** once per hour; **Trigger** You're about to attempt a saving throw against an emotion effect or an effect that would make you [[Controlled]]; **Effect** Abraxas envelops your heart in the shadow of his secret, granting you a +2 status bonus on your saving throw against the triggering effect.
+[[DATABASE/deity/Abraxas|Abraxas]] teaches that the true heart is impenetrable, dedicated only to knowledge. This tattoo of a venom-soaked heart provides a +1 item bonus to [[DATABASE/skill/Occultism|Occultism]] checks.
+**Activate** <span class="action-icon">5</span> envision **Frequency** once per hour; **Trigger** You're about to attempt a saving throw against an emotion effect or an effect that would make you [[DATABASE/condition/Controlled|controlled]]; **Effect** Abraxas envelops your heart in the shadow of his secret, granting you a +2 status bonus on your saving throw against the triggering effect.

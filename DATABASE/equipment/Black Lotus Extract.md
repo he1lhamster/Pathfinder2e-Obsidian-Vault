@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: DC 42 Fortitude
 school: null
 size: null
@@ -57,11 +58,11 @@ weapon_type: null
 # Black Lotus Extract<span class="item-type">Item 19</span>
 
 <span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Contact</span><span class="item-trait">Poison</span><span class="item-trait">Virulent</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 6,500 gp
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
 ---
 Black lotus extract causes severe internal bleeding.
-**Saving Throw** DC 42 Fortitude; **Onset** 1 minute; **Maximum Duration** 6 rounds; **Stage 1** 15d6 poison damage and [[Drained]] (1 round); **Stage 2** 17d6 poison damage and drained 1 (1 round); **Stage 3** 20d6 poison damage and drained 2 (1 round)
+**Saving Throw** DC 42 Fortitude; **Onset** 1 minute; **Maximum Duration** 6 rounds; **Stage 1** 15d6 poison damage and [[DATABASE/condition/Drained|drained 1]] (1 round); **Stage 2** 17d6 poison damage and drained 1 (1 round); **Stage 3** 20d6 poison damage and drained 2 (1 round)

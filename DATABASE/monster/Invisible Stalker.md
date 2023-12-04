@@ -73,17 +73,17 @@ wisdom: '+2'
 # Invisible Stalker
 
 Invisible stalkers have a poor opinion of mortals due to the unsavory nature of the violent tasks summoners usually call them to the Material Plane to perform.
-**Recall Knowledge - Elemental ([[Arcana]], [[Nature]])**: DC 23
+**Recall Knowledge - Elemental ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 23
 **Unspecific Lore**: DC 21
 **Specific Lore**: DC 18
 
 # Invisible Stalker<span class="item-type">Creature 7</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Air</span><span class="item-trait">Elemental</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +16; darkvision
-**Languages** [[Auran]]
-**Skills** [[Acrobatics]] +16, [[Stealth]] +18, [[Survival]] +15 (+19 to Track)
+**Languages** [[DATABASE/language/Auran|Auran]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +16, [[DATABASE/skill/Stealth|Stealth]] +18, [[DATABASE/skill/Survival|Survival]] +15 (+19 to Track)
 **Str** +3, **Dex** +6, **Con** +3, **Int** -2, **Wis** +2, **Cha** +0
 
 ---
@@ -93,4 +93,4 @@ Invisible stalkers have a poor opinion of mortals due to the unsavory nature of 
 
 ---
 **Speed** 25 feet, fly 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +18 [+14/+10] (agile, finesse), **Damage** 1d10+5 bludgeoning</span><span class="in-box-ability">**[[Sneak Attack]]** The invisible stalker deals 2d6 extra precision damage to [[Flat-Footed]] creatures.</span><span class="in-box-ability">**Swift Tracker** The invisible stalker moves at full Speed while Tracking.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +18 [+14/+10] (agile, finesse), **Damage** 1d10+5 bludgeoning</span><span class="in-box-ability">**[[DATABASE/monsterability/Sneak Attack|Sneak Attack]]** The invisible stalker deals 2d6 extra precision damage to [[DATABASE/condition/Flat-Footed|flat-footed]] creatures.</span><span class="in-box-ability">**Swift Tracker** The invisible stalker moves at full Speed while Tracking.</span>

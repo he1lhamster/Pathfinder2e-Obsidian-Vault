@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 size: null
@@ -56,11 +57,11 @@ weapon_type: null
 # Wand of Caustic Effluence<span class="item-type">Item 5</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Acid</span><span class="item-trait">Conjuration</span><span class="item-trait">Magical</span><span class="item-trait">Wand</span>
-**Source** [[Pathfinder Special. Fumbus]]
+**Source** [[DATABASE/source/Pathfinder Special. Fumbus|Pathfinder Special: Fumbus]]
 **Price** 160 gp
 **Usage** held in 1 hand; **Bulk** L
 
 ---
 This dirty metal wand is covered in an oily acrid smelling film. 
-**Activate** Cast a Spell **Frequency** once per day, plus overcharge; **Effect** You cast [[Grease]], but the grease is caustic. If you cast this spell on an area, any creature that fails their Reflex save and falls [[Prone]], or that begins their turn prone, takes 1d6 acid damage. If you cast this spell on an unattended object, the first creature to pick up the object during the duration takes 1d6 [[Persistent Damage]]. If you cast this spell on an attended object and the holder or wielder fails their [[Acrobatics]] or Reflex save, the holder or wielder takes 1d6 persistent acid damage. If you cast this spell on a worn object, any creature who [[Grapple]] or [[Grab]] the wearer takes 1d6 acid damage.
-**Craft Requirements** Supply a casting of [[Grease]]
+**Activate** Cast a Spell **Frequency** once per day, plus overcharge; **Effect** You cast [[DATABASE/spell/Grease|grease]], but the grease is caustic. If you cast this spell on an area, any creature that fails their Reflex save and falls [[DATABASE/condition/Prone|prone]], or that begins their turn prone, takes 1d6 acid damage. If you cast this spell on an unattended object, the first creature to pick up the object during the duration takes 1d6 [[DATABASE/condition/Persistent Damage|persistent acid damage]]. If you cast this spell on an attended object and the holder or wielder fails their [[DATABASE/skill/Acrobatics|Acrobatics]] or Reflex save, the holder or wielder takes 1d6 persistent acid damage. If you cast this spell on a worn object, any creature who [[DATABASE/action/Grapple|Grapples]] or [[DATABASE/monsterability/Grab|Grabs]] the wearer takes 1d6 acid damage.
+**Craft Requirements** Supply a casting of [[DATABASE/spell/Grease|grease]]

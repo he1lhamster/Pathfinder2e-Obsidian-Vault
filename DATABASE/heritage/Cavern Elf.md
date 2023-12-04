@@ -2,6 +2,7 @@
 id: '7'
 name: Cavern Elf
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait: null
 type: Heritage
@@ -9,9 +10,9 @@ type: Heritage
 ---
 # Cavern Elf
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 You were born or spent many years in underground tunnels or caverns where light is scarce. You gain darkvision.
 
 ### Feats Requiring Cavern Elf...
 
-[[Wandering Heart]]
+[[DATABASE/feat/Wandering Heart|Wandering Heart]]

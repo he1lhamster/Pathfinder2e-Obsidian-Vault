@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Ring of the Ram<span class="item-type">Item 6+</span>
 
 <span class="item-trait">Evocation</span><span class="item-trait">Force</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** worn; **Bulk** —
 
 ---
@@ -68,11 +69,11 @@ This heavy iron ring is shaped to look like the head of a ram, with curling horn
 
 ## Ring of the Ram<span class="item-type">Item 6</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 220 gp
 
 ## Ring of the Ram (Greater)<span class="item-type">Item 13</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 2,700 gp
 The ring deals 3d6 force damage per action spent, and the save DC is 32. When you activate the ring using 3 actions, you can disperse the force into multiple magical rams, targeting all creatures in a 30-foot cone instead of one target within 60 feet.

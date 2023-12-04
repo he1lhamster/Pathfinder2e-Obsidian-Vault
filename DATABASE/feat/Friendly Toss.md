@@ -11,6 +11,7 @@ name: Friendly Toss
 prerequisite: null
 rarity: Common
 requirement: You are adjacent to an ally and have one or more hands free.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,7 +26,7 @@ type: Feat
 # Friendly Toss <span class="action-icon">2</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Barbarian</span><span class="item-trait">Manipulate</span><span class="item-trait">Rage</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Requirements** You are adjacent to an ally and have one or more hands free.
 
 ---

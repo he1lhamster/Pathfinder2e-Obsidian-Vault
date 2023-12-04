@@ -4,6 +4,7 @@ ability_boost: null
 id: '30'
 name: Statecraft
 rarity: Common
+rus_type_level: null
 skill:
 - Statecraft
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
@@ -13,15 +14,15 @@ type: Skill
 ---
 # Statecraft (Loyalty)
 
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 Statecraft measures the kingdom’s ability to engage and interact with other nations, Freeholds, and political powers in above-the board political manners, including its trustworthiness in the eyes of other nations and its own citizens.
 
-* **[[Focused Attention]]**
-* **[[New Leadership]]**
+* **[[DATABASE/generalskillaction/Focused Attention|Focused Attention]]**
+* **[[DATABASE/generalskillaction/New Leadership|New Leadership]]**
 
 ## Statecraft Trained Actions
 
-* **[[Pledge of Fealty]]**
+* **[[DATABASE/generalskillaction/Pledge of Fealty|Pledge of Fealty]]**
 
 ### Related Feats
 
@@ -29,10 +30,10 @@ To see a list of Feats related to Statecraft, click here.
 
 # Statecraft Untrained Actions
 
-## [[Tap Treasury]]
+## [[DATABASE/action/Tap Treasury|Tap Treasury]]
 
 <span class="item-trait">Commerce</span><span class="item-trait">Downtime</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 
 ---
 You tap into the cash reserves of your kingdom for the PCs' personal use or to provide emergency funding for an event. This is a basic check, but after you succeed or critically succeed at this activity, all future attempts to Tap Treasury have their results worsened two degrees. This penalty persists until funds equal to those taken from the treasury are repaid via Capital Investment (page 529).
@@ -43,10 +44,10 @@ You tap into the cash reserves of your kingdom for the PCs' personal use or to p
 
 # Statecraft Trained Actions
 
-## [[Request Foreign Aid]]
+## [[DATABASE/action/Request Foreign Aid|Request Foreign Aid]]
 
 <span class="item-trait">Downtime</span><span class="item-trait">Leadership</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 **Requirements** You have diplomatic relations with the group you are requesting aid from.
 
 ---
@@ -56,10 +57,10 @@ When disaster strikes, you send out a call for help to another nation with whom 
 **Failure** Your ally marshals its resources but cannot get aid to you in time to deal with your current situation. At the start of your next Kingdom turn, gain 1d4 RP.
 **Critical Failure** Your ally is tangled up in its own problems and is unable to assist you, is insulted by your request for aid, or might even have an interest in seeing your kingdom struggle against one of your ongoing events. Whatever the case, your pleas for aid make your kingdom look desperate. You gain no aid, but you do increase Unrest by 1d4.
 
-## [[Send Diplomatic Envoy]]
+## [[DATABASE/action/Send Diplomatic Envoy|Send Diplomatic Envoy]]
 
 <span class="item-trait">Downtime</span><span class="item-trait">Leadership</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 
 ---
 You send emissaries to another group to foster positive relations and communication. The DC of this check is the group's Negotiation DC (see the sidebar on page 519). Attempts to Send a Diplomatic Envoy to a nation with which your kingdom is at war take a –4 circumstance penalty to the check and have the result worsened one degree. At the GM's option, some wars might be so heated that this activity has no chance of success.

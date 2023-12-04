@@ -14,6 +14,7 @@ rarity: Common
 requirement: You're fighting a creature of your level or lower that could be identified
   by [[DATABASE/action/Recall Knowledge|Recall Knowledge]] with a skill in which you're
   an expert.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
 subcategory: null
@@ -27,10 +28,10 @@ type: Feat
 # Recollect Studies <span class="action-icon">1</span> <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Skill</span>
-**Source** [[PFS Guide]]
-**Archetype** [[Swordmaster]]
-**Prerequisites** [[Swordmaster Dedication]]; expert in a skill used to [[Recall Knowledge]]
-**Requirements** You're fighting a creature of your level or lower that could be identified by [[Recall Knowledge]] with a skill in which you're an expert.
+**Source** [[DATABASE/source/PFS Guide|PFS Guide]]
+**Archetype** [[DATABASE/archetype/Swordmaster|Swordmaster]]
+**Prerequisites** [[DATABASE/feat/Swordmaster Dedication|Swordmaster Dedication]]; expert in a skill used to [[DATABASE/action/Recall Knowledge|Recall Knowledge]]
+**Requirements** You're fighting a creature of your level or lower that could be identified by [[DATABASE/action/Recall Knowledge|Recall Knowledge]] with a skill in which you're an expert.
 
 ---
 You paid attention during your studies and remember the right way to attack various creatures. Choose a creature that meets the requirements. You learn the resistances, immunities, or weaknesses of the creature (your choice) without needing to successfully Recall Knowledge.

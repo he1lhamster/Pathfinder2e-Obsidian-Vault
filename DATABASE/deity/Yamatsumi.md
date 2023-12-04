@@ -24,6 +24,7 @@ follower_alignment:
 id: '185'
 name: Yamatsumi
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -33,7 +34,7 @@ type: Deity
 ---
 # Yamatsumi (The Mountain Lord) [N]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Category** Tian Gods
 **Edicts** Strive to be self-sufficient, respect nature, test yourself against the elements
 **Anathema** Become reliant on civilization, destroy something without creating or growing something in its place
@@ -41,9 +42,9 @@ type: Deity
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Strength or Wisdom
-**Divine Font** _[[Harm]]_ or _[[Heal]]_
-**Divine Skill** [[Athletics]]
-**Favored Weapon** [[Greatclub]]
-**Domains** [[Cold Domain]], [[Earth Domain]], [[Fire Domain]], [[Might Domain]]
-**Cleric Spells** 1st: _[[Shockwave]]_, 3rd: _[[Shifting Sand]]_, 7th: _[[Volcanic Eruption]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Strength or Wisdom
+**Divine Font** _[[DATABASE/spell/Harm|harm]]_ or _[[DATABASE/spell/Heal|heal]]_
+**Divine Skill** [[DATABASE/skill/Athletics|Athletics]]
+**Favored Weapon** [[DATABASE/weapon/Greatclub|greatclub]]
+**Domains** [[DATABASE/domain/Cold Domain|cold]], [[DATABASE/domain/Earth Domain|earth]], [[DATABASE/domain/Fire Domain|fire]], [[DATABASE/domain/Might Domain|might]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Shockwave|shockwave]]_, 3rd: _[[DATABASE/spell/Shifting Sand|shifting sand]]_, 7th: _[[DATABASE/spell/Volcanic Eruption|volcanic eruption]]_

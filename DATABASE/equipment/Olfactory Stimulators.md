@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -52,7 +53,7 @@ weapon_type: null
 # Olfactory Stimulators<span class="item-type">Item 1+</span>
 
 <span class="item-trait">Magical</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Usage** worn; **Bulk** —
 
 ---
@@ -60,12 +61,12 @@ This cluster of sensitive wire whiskers fits over the nose or snout to provide s
 
 ## Olfactory Stimulators<span class="item-type">Item 1</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 5 gp
 
 ## Olfactory Stimulators (Bloodhound)<span class="item-type">Item 5</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 136 gp
 **Bulk** L
 These _olfactory stimulators_ can be enhanced to better localize scents.

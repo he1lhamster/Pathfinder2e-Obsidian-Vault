@@ -76,28 +76,28 @@ wisdom: '+3'
 # Carbuncle
 
 Never have legend and misinformation met upon a more inauspicious brow than that of the lowly carbuncle. At first glance, carbuncles appear to be little more than ungainly reptiles. What sets them apart is their strange magical abilities and the gemstone-like horn protruding from between their goggling eyes. Although rumors suggest various uses for carbuncle horns, ranging from miracle cure-alls to potent magical components, the truth is much more mundane: a carbuncle's horn is merely a highly reflective growth, not unlike a fingernail.
-**Recall Knowledge - Beast ([[Arcana]], [[Nature]])**: DC 20
+**Recall Knowledge - Beast ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 20
 **Unspecific Lore**: DC 18
 **Specific Lore**: DC 15
 
 # Carbuncle<span class="item-type">Creature 1</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Tiny</span><span class="item-trait">Beast</span>
-**Source** [[Bestiary 2]] 
-**Perception** +7; [[Darkvision]]
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +7; [[DATABASE/monsterability/Darkvision|darkvision]]
 **Languages** carbuncle empathy 30 feet
-**Skills** [[Stealth]] +3 (+7 in grass or undergrowth), [[Survival]] +6
+**Skills** [[DATABASE/skill/Stealth|Stealth]] +3 (+7 in grass or undergrowth), [[DATABASE/skill/Survival|Survival]] +6
 **Str** -3, **Dex** +0, **Con** +3, **Int** -2, **Wis** +3, **Cha** +0
-**Carbuncle Empathy** The carbuncle can [[Telepathy]] send mild feelings and sensations to nearby creatures. It can't use this ability to communicate in language or hinder a target, but it might convey a feeling of dread or the scent of food cooking nearby.
+**Carbuncle Empathy** The carbuncle can [[DATABASE/monsterability/Telepathy|telepathically]] send mild feelings and sensations to nearby creatures. It can't use this ability to communicate in language or hinder a target, but it might convey a feeling of dread or the scent of food cooking nearby.
 
 ---
 **AC** 16; **Fort** +8, **Ref** +3, **Will** +6
 **HP** 20
-<span class="in-box-ability">**Easy to Influence** Any mental spell can affect a carbuncle, regardless of creature type limitations. Against a [[Suggestion]] spell, a carbuncle always gets an outcome one degree of success worse than it rolled on its saving throw.</span><span class="in-box-ability">**Fatal Faker <span class="action-icon">5</span> ** (arcane, conjuration, teleportation) **Trigger **The carbuncle takes damage; **Effect **The carbuncle feigns death by teleporting away and leaving a replica of its corpse behind, creating a colorful flash of light and a croaking sound. The real carbuncle transports to a clear space within 30 feet that it can see, and a hollow shell remains behind. The fake body appears solid until it is touched, at which point it crumbles to dust.</span>
+<span class="in-box-ability">**Easy to Influence** Any mental spell can affect a carbuncle, regardless of creature type limitations. Against a [[DATABASE/spell/Suggestion|suggestion]] spell, a carbuncle always gets an outcome one degree of success worse than it rolled on its saving throw.</span><span class="in-box-ability">**Fatal Faker <span class="action-icon">5</span> ** (arcane, conjuration, teleportation) **Trigger **The carbuncle takes damage; **Effect **The carbuncle feigns death by teleporting away and leaving a replica of its corpse behind, creating a colorful flash of light and a croaking sound. The real carbuncle transports to a clear space within 30 feet that it can see, and a hollow shell remains behind. The fake body appears solid until it is touched, at which point it crumbles to dust.</span>
 
 ---
 **Speed** 15 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +5 [+0/-5] (finesse), **Damage** 1d6 piercing</span>**Primal Innate Spells** DC 18; **3rd** _[[Levitate]]_ (at will; self only); **1st** _[[Jump]]_ (at will); **Cantrips** **(1st)** _[[Daze]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +5 [+0/-5] (finesse), **Damage** 1d6 piercing</span>**Primal Innate Spells** DC 18; **3rd** _[[DATABASE/spell/Levitate|levitate]]_ (at will; self only); **1st** _[[DATABASE/spell/Jump|jump]]_ (at will); **Cantrips** **(1st)** _[[DATABASE/spell/Daze|daze]]_
 <span class="in-box-ability">**Specious Suggestion** <span class="action-icon">2</span> (enchantment, incapacitation, mental) **Frequency **three times per day; **Effect **The carbuncle concentrates on a creature it can see and tries to manipulate that creature. The target must attempt a DC 18 Will save. The target then becomes temporarily immune for 24 hours. 
 **Critical Success **The attempt backfires and bolsters the target's mind instead, granting it a +1 status bonus to Will saving throws for 1 hour. 
 **Success **The target briefly experiences an unusual but harmless sensation like an unexpected flavor or scent, an urge to eat something strange, or an amusing half-forgotten memory. 

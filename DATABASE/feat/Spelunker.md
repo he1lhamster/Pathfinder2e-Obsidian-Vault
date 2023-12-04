@@ -11,6 +11,7 @@ name: Spelunker
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Spelunker <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Shisk</span>
-**Source** [[The Mwangi Expanse]]
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]
 
 ---
-Living underground, you have learned to find your way without landmarks or even solid ground. If you roll a success on an [[Survival]] check to [[Sense Direction]] or an [[Athletics]] check to [[Climb]], you get a critical success instead. You're not [[Flat-Footed]] when you attempt to Climb.
+Living underground, you have learned to find your way without landmarks or even solid ground. If you roll a success on an [[DATABASE/skill/Survival|Survival]] check to [[DATABASE/action/Sense Direction|Sense Direction]] or an [[DATABASE/skill/Athletics|Athletics]] check to [[DATABASE/action/Climb|Climb]], you get a critical success instead. You're not [[DATABASE/condition/Flat-Footed|flat-footed]] when you attempt to Climb.
 
 ## Traits
 

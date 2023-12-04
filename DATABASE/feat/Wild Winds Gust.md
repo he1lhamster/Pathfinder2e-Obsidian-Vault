@@ -11,6 +11,7 @@ name: Wild Winds Gust
 prerequisite: '[[DATABASE/feat/Wild Winds Initiate|Wild Winds Initiate]]'
 rarity: Common
 requirement: You are in Wild Winds Stance.
+rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -27,8 +28,8 @@ type: Feat
 # Wild Winds Gust <span class="action-icon">2</span> <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Air</span><span class="item-trait">Concentrate</span><span class="item-trait">Evocation</span><span class="item-trait">Manipulate</span><span class="item-trait">Monk</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Wild Winds Initiate]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/feat/Wild Winds Initiate|Wild Winds Initiate]]
 **Requirements** You are in Wild Winds Stance.
 
 ---

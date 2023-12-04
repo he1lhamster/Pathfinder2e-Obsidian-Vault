@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 size: null
@@ -56,7 +57,7 @@ weapon_type: null
 # Golden-Cased Bullet<span class="item-type">Item 4+</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Consumable</span><span class="item-trait">Divination</span><span class="item-trait">Magical</span>
-**Source** [[Pathfinder 179. Cradle of Quartz]]
+**Source** [[DATABASE/source/Pathfinder 179. Cradle of Quartz|Pathfinder #179: Cradle of Quartz]]
 **Ammunition** round; **Bulk** —
 **Activate** <span class="action-icon">1</span> envision
 
@@ -65,17 +66,17 @@ The magic-infused metal of this bullet's golden casing allows it to curve just a
 
 ## Golden-Cased Bullet (Standard)<span class="item-type">Item 4</span>
 
-**Source** [[Pathfinder 179. Cradle of Quartz]]
+**Source** [[DATABASE/source/Pathfinder 179. Cradle of Quartz|Pathfinder #179: Cradle of Quartz]]
 **Price** 20 gp
 
 ## Golden-Cased Bullet (Greater)<span class="item-type">Item 10</span>
 
-**Source** [[Pathfinder 179. Cradle of Quartz]]
+**Source** [[DATABASE/source/Pathfinder 179. Cradle of Quartz|Pathfinder #179: Cradle of Quartz]]
 **Price** 200 gp
 You ignore the bonus to AC granted to a target in standard or lesser cover.
 
 ## Golden-Cased Bullet (Major)<span class="item-type">Item 16</span>
 
-**Source** [[Pathfinder 179. Cradle of Quartz]]
+**Source** [[DATABASE/source/Pathfinder 179. Cradle of Quartz|Pathfinder #179: Cradle of Quartz]]
 **Price** 2,000 gp
 You ignore the bonus to AC granted to a target in greater, standard, or lesser cover.

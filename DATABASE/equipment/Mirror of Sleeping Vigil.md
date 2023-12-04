@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Illusion
 size: null
@@ -56,9 +57,9 @@ weapon_type: null
 # Mirror of Sleeping Vigil<span class="item-type">Item 7</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Illusion</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span><span class="item-trait">Sleep</span>
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 300 gp
 **Usage** worn; **Bulk** L
 
 ---
-This jeweled mirror grants you gain greater control over your dreaming self. While invested, you can watch over your sleeping body from the [[Dreamlands]], letting you see your own body and a 5-foot emanation around you, though you can't hear, smell, or use other senses from your dreaming self. You do not take the –4 status penalty to visual Perception checks in that area or gain the [[Blinded]] condition from being [[Unconscious]] against creatures in that area. As long as you fell asleep voluntarily and not from a sleep effect, you can automatically wake up from sleep if there is visible activity around you.
+This jeweled mirror grants you gain greater control over your dreaming self. While invested, you can watch over your sleeping body from the [[DATABASE/plane/Dreamlands|Dreamlands]], letting you see your own body and a 5-foot emanation around you, though you can't hear, smell, or use other senses from your dreaming self. You do not take the –4 status penalty to visual Perception checks in that area or gain the [[DATABASE/condition/Blinded|blinded]] condition from being [[DATABASE/condition/Unconscious|unconscious]] against creatures in that area. As long as you fell asleep voluntarily and not from a sleep effect, you can automatically wake up from sleep if there is visible activity around you.

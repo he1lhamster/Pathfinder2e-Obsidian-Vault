@@ -80,22 +80,22 @@ wisdom: '+2'
 ---
 # Drake Skeleton
 
-Moving with sinuous grace, these flying [[Drake]] skeletons are held aloft by rotting membranes stretched between their bony wings. Although just as mindless as other skeletons, skeletal drakes maintain much of the draconic ferocity and raw spite they possessed in life, allowing them to attack viciously.
-**Recall Knowledge - Undead ([[Religion]])**: DC 24
+Moving with sinuous grace, these flying [[DATABASE/monsterfamily/Drake|drake]] skeletons are held aloft by rotting membranes stretched between their bony wings. Although just as mindless as other skeletons, skeletal drakes maintain much of the draconic ferocity and raw spite they possessed in life, allowing them to attack viciously.
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 24
 **Unspecific Lore**: DC 22
 **Specific Lore**: DC 19
 
 # Drake Skeleton<span class="item-type">Creature 8</span>
 
 <span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Mindless</span><span class="item-trait">Skeleton</span><span class="item-trait">Undead</span>
-**Source** [[Book of the Dead]]
-**Perception** +14; [[Darkvision]]
-**Skills** [[Acrobatics]] +14, [[Athletics]] +18, [[Stealth]] +16
+**Source** [[DATABASE/source/Book of the Dead|Book of the Dead]]
+**Perception** +14; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +14, [[DATABASE/skill/Athletics|Athletics]] +18, [[DATABASE/skill/Stealth|Stealth]] +16
 **Str** +6, **Dex** +4, **Con** +4, **Int** -5, **Wis** +2, **Cha** -1
 
 ---
 **AC** 26; **Fort** +16, **Ref** +14, **Will** +12
-**HP** 130 ([[Negative Healing]]); **Immunities** death effects, disease, mental, [[Paralyzed]], poison, [[Unconscious]]; **Resistances** cold 10, electricity 10, fire 10, piercing 10, slashing 10
+**HP** 130 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects, disease, mental, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Unconscious|unconscious]]; **Resistances** cold 10, electricity 10, fire 10, piercing 10, slashing 10
 <span class="in-box-ability">**Fragile Wings** When the drake skeleton is reduced to fewer than half its Hit Points, it can no longer fly. If it's aloft when this happens, it crashes immediately but can use the tatters of its wings to soften the landing, treating the fall as 20 feet shorter to calculate falling damage.</span>
 
 ---

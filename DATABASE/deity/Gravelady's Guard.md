@@ -25,6 +25,7 @@ follower_alignment:
 id: '247'
 name: Gravelady's Guard
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]]'
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
@@ -34,8 +35,8 @@ type: Deity
 ---
 # Gravelady's Guard [N]
 
-**Source** [[Knights of Lastwall]]
-It is only natural for [[Pharasma]] to head a pantheon whose primary focus is destroying the undead at any cost. The Lady of Graves is joined by [[Arazni]] (The Unyielding) with her hatred for unwilling undeath, and [[Gorum]] (Our Lord in Iron), who rejoices in victory via fair combat. The devotees of this pantheon believe nothing is more important than stopping the spread of undeath and bringing swift justice to those who practice such twisted magic. This order's adherents slay undead wherever they menace innocent people, tend to wounds inflicted by the undead, perform the proper rituals to prepare a corpse for burial and safeguard it against undeath, and aid those who lost loved ones to the blight of the unliving.
+**Source** [[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]
+It is only natural for [[DATABASE/deity/Pharasma|Pharasma]] to head a pantheon whose primary focus is destroying the undead at any cost. The Lady of Graves is joined by [[DATABASE/deity/Arazni|Arazni]] (The Unyielding) with her hatred for unwilling undeath, and [[DATABASE/deity/Gorum|Gorum]] (Our Lord in Iron), who rejoices in victory via fair combat. The devotees of this pantheon believe nothing is more important than stopping the spread of undeath and bringing swift justice to those who practice such twisted magic. This order's adherents slay undead wherever they menace innocent people, tend to wounds inflicted by the undead, perform the proper rituals to prepare a corpse for burial and safeguard it against undeath, and aid those who lost loved ones to the blight of the unliving.
 **Category** Pantheons
 **Edicts** destroy undead, lay bodies to rest, battle the evils of necromancy
 **Anathema** create undead, practice necromancy, desecrate a corpse, cower from battle
@@ -44,9 +45,9 @@ It is only natural for [[Pharasma]] to head a pantheon whose primary focus is de
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Constitution or Wisdom
-**Divine Font** _[[Heal]]_
-**Divine Skill** [[Athletics]]
-**Favored Weapon** [[Dagger]]
-**Domains** [[Confidence Domain]], [[Death Domain]], [[Fate Domain]], [[Protection Domain]]
-**Cleric Spells** 1st: _[[Magic Missile]]_, 3rd: _[[Ghostly Weapon]]_, 6th: _[[Wall of Force]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Constitution or Wisdom
+**Divine Font** _[[DATABASE/spell/Heal|heal]]_
+**Divine Skill** [[DATABASE/skill/Athletics|Athletics]]
+**Favored Weapon** [[DATABASE/weapon/Dagger|dagger]]
+**Domains** [[DATABASE/domain/Confidence Domain|confidence]], [[DATABASE/domain/Death Domain|death]], [[DATABASE/domain/Fate Domain|fate]], [[DATABASE/domain/Protection Domain|protection]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Magic Missile|magic missile]]_, 3rd: _[[DATABASE/spell/Ghostly Weapon|ghostly weapon]]_, 6th: _[[DATABASE/spell/Wall of Force|wall of force]]_

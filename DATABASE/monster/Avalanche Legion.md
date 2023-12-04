@@ -84,33 +84,33 @@ wisdom: '+1'
 ---
 # Avalanche Legion
 
-Elementals of the [[Plane of Earth]] can be fiercely territorial. Some more solitary elementals protect their lairs on their own, but occasionally others band together to defend larger regions that serve as shared turf. Notable among these alliances are avalanche legions, who patrol the perimeter of these shared territories, driving off intruders who dare to trespass upon their home ground.
-**Recall Knowledge - Elemental ([[Arcana]], [[Nature]])**: DC 28
+Elementals of the [[DATABASE/plane/Plane of Earth|Plane of Earth]] can be fiercely territorial. Some more solitary elementals protect their lairs on their own, but occasionally others band together to defend larger regions that serve as shared turf. Notable among these alliances are avalanche legions, who patrol the perimeter of these shared territories, driving off intruders who dare to trespass upon their home ground.
+**Recall Knowledge - Elemental ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 28
 **Unspecific Lore**: DC 26
 **Specific Lore**: DC 23
 
 # Avalanche Legion<span class="item-type">Creature 11</span>
 
 <span class="trait-size item-trait">Gargantuan</span><span class="item-trait">Earth</span><span class="item-trait">Elemental</span><span class="item-trait">Troop</span>
-**Source** [[Rage of Elements]]
-**Perception** +21; [[Darkvision]], [[Tremorsense]] (imprecise) 60 feet
-**Languages** [[Petran]]
-**Skills** [[Athletics]] +23
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
+**Perception** +21; [[DATABASE/monsterability/Darkvision|darkvision]], [[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 60 feet
+**Languages** [[DATABASE/language/Petran|Petran]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +23
 **Str** +5, **Dex** +0, **Con** +4, **Int** -2, **Wis** +1, **Cha** +0
-**Earthbound** When not touching solid ground, the avalanche legion is [[Slowed]].
+**Earthbound** When not touching solid ground, the avalanche legion is [[DATABASE/condition/Slowed|slowed 1]].
 
 ---
 **AC** 31; **Fort** +24, **Ref** +20, **Will** +21
-**HP** 240 (16 squares); **Thresholds** 160 (12 squares), 80 (8 squares); **Immunities** bleed, [[Paralyzed]], poison, sleep; **Weaknesses** area damage 15, splash damage 8
-<span class="in-box-ability">**[[Troop Defenses]]** </span>
+**HP** 240 (16 squares); **Thresholds** 160 (12 squares), 80 (8 squares); **Immunities** bleed, [[DATABASE/condition/Paralyzed|paralyzed]], poison, sleep; **Weaknesses** area damage 15, splash damage 8
+<span class="in-box-ability">**[[DATABASE/monsterability/Troop Defenses|Troop Defenses]]** </span>
 
 ---
 **Speed** 30 feet, burrow 25 feet; earth glide, troop movement
-<span class="in-box-ability">**Earth Glide** The avalanche legion can [[Burrow]] through any earthen matter, including rock. When it does so, the legion moves at its full burrow Speed, leaving no tunnels or signs of its passing.</span><span class="in-box-ability">**[[Form Up]]** <span class="action-icon">1</span> </span><span class="in-box-ability">**Pummeling Boulders** <span class="action-icon">1</span> to <span class="action-icon">3</span> **Frequency** once per round; **Effect** The avalanche legion unleashes an onslaught of blows against each enemy within 5 feet (DC 28 basic Reflex save). The damage depends on the number of actions.
+<span class="in-box-ability">**Earth Glide** The avalanche legion can [[DATABASE/action/Burrow|Burrow]] through any earthen matter, including rock. When it does so, the legion moves at its full burrow Speed, leaving no tunnels or signs of its passing.</span><span class="in-box-ability">**[[DATABASE/monsterability/Form Up|Form Up]]** <span class="action-icon">1</span> </span><span class="in-box-ability">**Pummeling Boulders** <span class="action-icon">1</span> to <span class="action-icon">3</span> **Frequency** once per round; **Effect** The avalanche legion unleashes an onslaught of blows against each enemy within 5 feet (DC 28 basic Reflex save). The damage depends on the number of actions.
  <span class="action-icon">1</span> 2d8 bludgeoning damage
  <span class="action-icon">2</span> 3d8+8 bludgeoning damage
- <span class="action-icon">3</span> 4d8+11 bludgeoning damage</span><span class="in-box-ability">**Spinning Stones** <span class="action-icon">2</span> The avalanche legion spins in place, kicking up a barrage of stones. Each creature in a 10-foot burst within 30 feet of the troop takes 2d12+10 bludgeoning damage (DC 28 basic Reflex save). When the troop is reduced to 8 or fewer squares, this area decreases to a 5-foot burst.</span><span class="in-box-ability">**Trample into the Earth** <span class="action-icon">3</span> The avalanche legion speeds forward, running over creatures with their stone bodies and knocking them down. As [[Trample]]; Gargantuan or smaller, 2d8 bludgeoning damage, DC 28. A creature that critically fails its save is knocked [[Prone]].</span><span class="in-box-ability">**Troop Movement** Whenever the avalanche legion Strides or Burrows, it first Forms Up as a free action to condense into a 20-foot-by-20-foot area (minus any missing squares), then moves up to its respective Speed. This works just like a Gargantuan creature moving; for instance, if any square of the legion enters difficult terrain, the extra movement cost applies to all the elementals.</span>
+ <span class="action-icon">3</span> 4d8+11 bludgeoning damage</span><span class="in-box-ability">**Spinning Stones** <span class="action-icon">2</span> The avalanche legion spins in place, kicking up a barrage of stones. Each creature in a 10-foot burst within 30 feet of the troop takes 2d12+10 bludgeoning damage (DC 28 basic Reflex save). When the troop is reduced to 8 or fewer squares, this area decreases to a 5-foot burst.</span><span class="in-box-ability">**Trample into the Earth** <span class="action-icon">3</span> The avalanche legion speeds forward, running over creatures with their stone bodies and knocking them down. As [[DATABASE/monsterability/Trample|Trample]]; Gargantuan or smaller, 2d8 bludgeoning damage, DC 28. A creature that critically fails its save is knocked [[DATABASE/condition/Prone|prone]].</span><span class="in-box-ability">**Troop Movement** Whenever the avalanche legion Strides or Burrows, it first Forms Up as a free action to condense into a 20-foot-by-20-foot area (minus any missing squares), then moves up to its respective Speed. This works just like a Gargantuan creature moving; for instance, if any square of the legion enters difficult terrain, the extra movement cost applies to all the elementals.</span>
 
 ###  Familial Instincts
 
-Although elementals don't reproduce like typical creatures, [[Living Landslide]] sometimes develop bonds with smaller or weaker earth elementals, such as [[Earth Wisp]], [[Living Boulder]], and [[Sod Hound]]. When several of these smaller elementals are gathered in one place, living landslides who cared for the creatures often continue to watch over their wards. Avalanche legions sometimes form from these gatherings, as multiple living landslides join forces to protect the smaller elementals.
+Although elementals don't reproduce like typical creatures, [[DATABASE/monster/Living Landslide|living landslide]] sometimes develop bonds with smaller or weaker earth elementals, such as [[DATABASE/monster/Earth Wisp|earth wisps]], [[DATABASE/monster/Living Boulder|living boulders]], and [[DATABASE/monster/Sod Hound|sod hounds]]. When several of these smaller elementals are gathered in one place, living landslides who cared for the creatures often continue to watch over their wards. Avalanche legions sometimes form from these gatherings, as multiple living landslides join forces to protect the smaller elementals.

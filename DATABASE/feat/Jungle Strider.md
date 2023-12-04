@@ -11,6 +11,7 @@ name: Jungle Strider
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Jungle Strider <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Grippli</span>
-**Source** [[The Mwangi Expanse]]
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]
 
 ---
-You are adept at dodging roots, foliage, and other jungle obstacles. You ignore difficult terrain in forests and jungles. In addition, when you use the [[Acrobatics]] skill to [[Balance]] on narrow surfaces or uneven ground made of plant material, you aren't [[Flat-Footed]], and when you roll a success at one of these Acrobatics checks, you get a critical success instead.
+You are adept at dodging roots, foliage, and other jungle obstacles. You ignore difficult terrain in forests and jungles. In addition, when you use the [[DATABASE/skill/Acrobatics|Acrobatics]] skill to [[DATABASE/action/Balance|Balance]] on narrow surfaces or uneven ground made of plant material, you aren't [[DATABASE/condition/Flat-Footed|flat-footed]], and when you roll a success at one of these Acrobatics checks, you get a critical success instead.
 
 ## Traits
 

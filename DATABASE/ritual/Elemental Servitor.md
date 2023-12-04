@@ -14,6 +14,7 @@ primary_check: '[[DATABASE/skill/Arcana|Arcana]] or [[DATABASE/skill/Nature|Natu
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: null
 secondary_casters: '2'
 secondary_check: '[[DATABASE/skill/Diplomacy|Diplomacy]]'
@@ -27,9 +28,9 @@ type: Ritual
 # Elemental Servitor<span class="item-type">Ritual 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Cast** 1 day; **Cost** rare items and offerings worth a total value of 2 gp × the spell rank × the target's level, see text for more details; **Secondary Casters** 2
-**Primary Check** [[Arcana]] or [[Nature]] (expert); **Secondary Checks** [[Diplomacy]]
+**Primary Check** [[DATABASE/skill/Arcana|Arcana]] or [[DATABASE/skill/Nature|Nature]] (expert); **Secondary Checks** [[DATABASE/skill/Diplomacy|Diplomacy]]
 **Duration** see text
 
 ---

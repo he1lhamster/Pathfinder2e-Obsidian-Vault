@@ -11,6 +11,7 @@ name: Body of Air
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -28,11 +29,11 @@ type: Feat
 # Body of Air <span class="action-icon">5</span> or <span class="action-icon">2</span> <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Air</span><span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Overflow</span><span class="item-trait">Polymorph</span><span class="item-trait">Primal</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Trigger** An enemy you can observe targets you with an attack or other damaging effect.
 
 ---
-Your gathered air consumes your body, leaving only a cloud of living vapor. This has the same effects on you as [[Gaseous Form]]. The effect lasts until the end of your next turn, but you can Sustain the form up to 5 minutes. If you activate your kinetic aura, Body of Air ends.
+Your gathered air consumes your body, leaving only a cloud of living vapor. This has the same effects on you as [[DATABASE/spell/Gaseous Form|vapor form]]. The effect lasts until the end of your next turn, but you can Sustain the form up to 5 minutes. If you activate your kinetic aura, Body of Air ends.
  You can use Body of Air as a reaction only when the trigger is met, but you can use it as a 2-action activity without the trigger being met.
 
 ---
@@ -50,7 +51,7 @@ The primary magical actions kineticists use are called impulses. You can use an 
 
 **Overflow:**
 
-Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
+Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[DATABASE/action/Channel Elements|Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
 
 **Polymorph:**
 

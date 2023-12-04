@@ -11,6 +11,7 @@ name: Twin Parry
 prerequisite: null
 rarity: Common
 requirement: You are wielding two melee weapons, one in each hand.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,8 +26,8 @@ type: Feat
 # Twin Parry <span class="action-icon">1</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Fighter</span><span class="item-trait">Ranger</span><span class="item-trait">Swashbuckler</span>
-**Source** [[Advanced Player's Guide]] , [[Core Rulebook]] 
-**Archetype** [[Dual-Weapon Warrior]]*
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] , [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Dual-Weapon Warrior|Dual-Weapon Warrior]]*
 **Requirements** You are wielding two melee weapons, one in each hand.
 * This archetype offers Twin Parry at a different level than displayed here.
 
@@ -39,4 +40,4 @@ This feat can be used for one or more Archetypes in addition to the listed Class
 
 ## Twin Parry Leads To...
 
-[[Twinned Defense (Fighter)]], [[Twinned Defense (Swashbuckler)]]
+[[DATABASE/feat/Twinned Defense (Fighter)|Twinned Defense (Fighter)]], [[DATABASE/feat/Twinned Defense (Swashbuckler)|Twinned Defense (Swashbuckler)]]

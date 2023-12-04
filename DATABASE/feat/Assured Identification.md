@@ -12,6 +12,7 @@ prerequisite: Expert in [[DATABASE/skill/Arcana|Arcana]] , Expert in [[DATABASE/
   , Expert in [[DATABASE/skill/Occultism|Occultism]] , or Expert in [[DATABASE/skill/Religion|Religion]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: arcana
@@ -25,11 +26,11 @@ type: Feat
 # Assured Identification <span class="item-type">Feat 2</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** expert in [[Arcana]], [[Nature]], [[Occultism]], or [[Religion]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** expert in [[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]], [[DATABASE/skill/Occultism|Occultism]], or [[DATABASE/skill/Religion|Religion]]
 
 ---
-You rarely misidentify an item. When using [[Arcana]], [[Nature Domain]], [[Occultism]], or [[Religion]] checks to [[Identify Magic]], if you roll a critical failure, you get a failure instead. If you would misidentify a cursed item because you roll a success but not a critical success, you simply can't identify it instead.
+You rarely misidentify an item. When using [[DATABASE/skill/Arcana|Arcana]], [[DATABASE/domain/Nature Domain|Nature]], [[DATABASE/skill/Occultism|Occultism]], or [[DATABASE/skill/Religion|Religion]] checks to [[DATABASE/action/Identify Magic|Identify Magic]], if you roll a critical failure, you get a failure instead. If you would misidentify a cursed item because you roll a success but not a critical success, you simply can't identify it instead.
 
 ## Traits
 

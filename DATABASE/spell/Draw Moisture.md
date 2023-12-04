@@ -19,6 +19,7 @@ patron_theme: null
 range: 10 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
@@ -39,7 +40,7 @@ type: Cantrip
 # Draw Moisture<span class="item-type">Cantrip 1</span>
 
 <span class="item-trait">Cantrip</span><span class="item-trait">Concentrate</span><span class="item-trait">Manipulate</span><span class="item-trait">Water</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Traditions** arcane, divine, primal
 **Cast** <span class="action-icon">2</span> 
 **Range** 10 feet; **Targets** 1 object up to 10 Bulk

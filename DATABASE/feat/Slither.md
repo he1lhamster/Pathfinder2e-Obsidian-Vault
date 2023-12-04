@@ -11,6 +11,7 @@ name: Slither
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,13 +24,13 @@ type: Feat
 # Slither <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Kobold</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-You are an expert at moving through extremely tight spaces. You gain the [[Quick Squeeze]] skill feat, even if you're not trained in [[Acrobatics]]. When you roll a success on an Acrobatics check to [[Squeeze]], you get a critical success instead.
+You are an expert at moving through extremely tight spaces. You gain the [[DATABASE/feat/Quick Squeeze|Quick Squeeze]] skill feat, even if you're not trained in [[DATABASE/skill/Acrobatics|Acrobatics]]. When you roll a success on an Acrobatics check to [[DATABASE/action/Squeeze|Squeeze]], you get a critical success instead.
 
 ## Traits
 
 **Kobold:**
 
-A creature with this trait is a member of the kobold ancestry. Kobolds are reptilian humanoids who are usually Small and typically have [[Darkvision]]. An ability with this trait can be used or selected only by kobolds.
+A creature with this trait is a member of the kobold ancestry. Kobolds are reptilian humanoids who are usually Small and typically have [[DATABASE/monsterability/Darkvision|darkvision]]. An ability with this trait can be used or selected only by kobolds.

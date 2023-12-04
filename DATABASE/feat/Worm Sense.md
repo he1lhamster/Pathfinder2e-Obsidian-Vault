@@ -11,6 +11,7 @@ name: Worm Sense
 prerequisite: '[[DATABASE/feat/Worm Caller Dedication|Worm Caller Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 194. Cult of the Cave Worm|Pathfinder #194:
   Cult of the Cave Worm]]'
@@ -24,12 +25,12 @@ type: Feat
 # Worm Sense <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Pathfinder 194. Cult of the Cave Worm]]
-**Archetype** [[Worm Caller]]
-**Prerequisites** [[Worm Caller Dedication]]
+**Source** [[DATABASE/source/Pathfinder 194. Cult of the Cave Worm|Pathfinder #194: Cult of the Cave Worm]]
+**Archetype** [[DATABASE/archetype/Worm Caller|Worm Caller]]
+**Prerequisites** [[DATABASE/feat/Worm Caller Dedication|Worm Caller Dedication]]
 
 ---
-You emulate the senses of the [[Cave Worm]]. You gain darkvision and [[Tremorsense]] as an imprecise sense within 5 feet.
+You emulate the senses of the [[DATABASE/monsterfamily/Cave Worm|cave worm]]. You gain darkvision and [[DATABASE/monsterability/Tremorsense|tremorsense]] as an imprecise sense within 5 feet.
  The range of the tremorsense increases to 10 feet at 8th level and to 15 feet at 12th level.
 
 ## Traits

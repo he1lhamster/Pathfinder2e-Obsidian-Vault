@@ -31,6 +31,7 @@ rarity: Unique
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 size: null
@@ -57,14 +58,14 @@ weapon_type: null
 # The Silent Hag<span class="item-type">Item 20</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="item-trait">Artifact</span><span class="item-trait">Divination</span><span class="item-trait">Harrow Court</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span>
-**Source** [[Pathfinder 190. The Choosing]]
+**Source** [[DATABASE/source/Pathfinder 190. The Choosing|Pathfinder #190: The Choosing]]
 **Usage** carried; **Bulk** —
 **Suit** Stars (Wis); **Alignment** neutral evil
 
 ---
-_The Silent Hag_ represents insight, treacherous secrets, and strife. As long as you have _The Silent Hag_ invested, it grants you a +2 item bonus to [[Arcana]], [[Nature]], [[Occultism]], or [[Religion]] checks to [[Recall Knowledge]]—when you invest the card, choose which of these four skills gains the bonus. You can change the skill by investing the card again. This increases to a +3 item bonus if you are at least 17th level.
+_The Silent Hag_ represents insight, treacherous secrets, and strife. As long as you have _The Silent Hag_ invested, it grants you a +2 item bonus to [[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]], [[DATABASE/skill/Occultism|Occultism]], or [[DATABASE/skill/Religion|Religion]] checks to [[DATABASE/action/Recall Knowledge|Recall Knowledge]]—when you invest the card, choose which of these four skills gains the bonus. You can change the skill by investing the card again. This increases to a +3 item bonus if you are at least 17th level.
 **Activate** <span class="action-icon">3</span> envision **Frequency** once per hour; **Effect** You choose to lose one of your senses and gain another until you use this activation again. Choose from one of the following:
 
-* Your eyes are replaced by dark pits that see only death. You become blinded and gain [[Lifesense]], an imprecise sense out to 60 feet. Lifesense allows you to see the vital essence of living and undead creatures, distinguishing between the positive energy animating living creatures and negative energy animating undead creatures, much as sight distinguishes colors.
-* Your ears close up then become covered with hairs that are sensitive to movement. You become [[Deafened]], but you can't be flanked.
+* Your eyes are replaced by dark pits that see only death. You become blinded and gain [[DATABASE/monsterability/Lifesense|lifesense]], an imprecise sense out to 60 feet. Lifesense allows you to see the vital essence of living and undead creatures, distinguishing between the positive energy animating living creatures and negative energy animating undead creatures, much as sight distinguishes colors.
+* Your ears close up then become covered with hairs that are sensitive to movement. You become [[DATABASE/condition/Deafened|deafened]], but you can't be flanked.
 * Your mouth seals over with flesh. You lose the ability to speak, but you do not need to breathe.

@@ -20,6 +20,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
@@ -36,7 +37,7 @@ type: Focus
 # Ki Form<span class="item-type">Focus 9</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Monk</span><span class="item-trait">Polymorph</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Cast** <span class="action-icon">1</span> verbal
 **Duration** 1 minute
 

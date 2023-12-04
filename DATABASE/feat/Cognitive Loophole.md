@@ -12,6 +12,7 @@ prerequisite: null
 rarity: Common
 requirement: You are currently affected by a mental effect that you gained by failing,
   but not critically failing,a saving throw.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Cognitive Loophole <span class="action-icon">5</span> <span class="item-type">Feat 16</span>
 
 <span class="item-trait">Rogue</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Shadowdancer]]*
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Shadowdancer|Shadowdancer]]*
 **Trigger** Your turn ends.
 **Requirements** You are currently affected by a mental effect that you gained by failing, but not critically failing, a saving throw.
 * This archetype offers Cognitive Loophole at a different level than displayed here.

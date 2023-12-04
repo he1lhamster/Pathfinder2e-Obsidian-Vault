@@ -17,6 +17,7 @@ language:
 max_speed: '25'
 name: Poppet
 rarity: Rare
+rus_type_level: null
 size: Small
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
 speed:
@@ -32,7 +33,7 @@ vision: Darkvision
 # Poppet
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Construct</span><span class="item-trait">Humanoid</span>
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 _Poppets are small, basic constructs that typically help their owners with simple tasks. Occasionally, poppets gain sapience, independence, and a spark of life. Elevated beyond mere helpers or playthings, these poppets are free to chart their own destinies._
 Most commonly made of cloth, wicker, and wood, poppets are among the simplest of constructs. They serve as helpers to fetch tools, clean dishes, tidy rooms, or perform other light tasks. Their size and appearance vary, but nearly all poppets appear humanoid in shape and between 1 to 3 feet tall. They're usually roughly made with button eyes sewn onto blank faces, strings of yarn in place of hair, and a simple dress or tunic made from coarse, cheap cloth. Wealthy families sometimes purchase poppets as toys, with their squishy bodies and stitched smiles, to keep their children company. Most poppets can't speak and lack the intellect to understand speech beyond preprogrammed orders. Poppets can become familiars, as presented here.
  Very, very rarely, a common poppet spontaneously manifests a spark of life—a tiny bit of life essence— and becomes a thinking, independent creature. These events are exceedingly rare; fewer than one in a thousand gain this spark. A poppet might manifest this life essence through a magical fluke in its construction, a brush with ephemeral spirits, or even the fervent wish of a loving child. Whatever their origin, the poppets described here as an ancestry have their own life and free will. They might consider their creators or former owners to be friends, but they acknowledge no one as their master and often leave comfortable homes or workshops to seek their place in the world.
@@ -62,11 +63,11 @@ Free-willed poppets are so rare that almost no such poppet has met another. Popp
 
 ## Alignment and Religion
 
-Ordinary poppets are built as helpers and companions, and awakened poppets tend to retain this drive to aid others. They're therefore generally good, and more poppets are lawful than chaotic. Some spend their time trying to uncover secrets of their creation, find others like them, or keep out of trouble; these poppets are generally neutral in alignment. Poppets aren't typically religious unless a particular faith defined their creation, such as being made from scraps of [[Iomedae]] altar cloth or woven from reeds around a sacred [[Gozreh]] pool. These poppets tend to be vocally religious, even zealous, in their faith. Poppets who find religion later in their lives often revere [[Brigh]], [[Casandalee]], or [[Nethys]].
+Ordinary poppets are built as helpers and companions, and awakened poppets tend to retain this drive to aid others. They're therefore generally good, and more poppets are lawful than chaotic. Some spend their time trying to uncover secrets of their creation, find others like them, or keep out of trouble; these poppets are generally neutral in alignment. Poppets aren't typically religious unless a particular faith defined their creation, such as being made from scraps of [[DATABASE/deity/Iomedae|Iomedaean]] altar cloth or woven from reeds around a sacred [[DATABASE/deity/Gozreh|Gozren]] pool. These poppets tend to be vocally religious, even zealous, in their faith. Poppets who find religion later in their lives often revere [[DATABASE/deity/Brigh|Brigh]], [[DATABASE/deity/Casandalee|Casandalee]], or [[DATABASE/deity/Nethys|Nethys]].
 
 ## Adventurers
 
-Poppets like helping others and experiencing new things; both of these motivations lead naturally into the life of an adventurer. They aren't generally driven by a lust for treasure, but they like adorning themselves with pretty accoutrement and using their finds to better the lives of others. The [[Acolyte]], [[Entertainer]], and [[Laborer]] backgrounds are good choices for many poppets, as are [[Cook]], [[Scavenger]], and [[Servant]]. Poppets who watched their creator work might have the [[Artist]], [[Hermit]], or [[Tinker]] background to reflect what they've seen. Because poppets like to help others, they gravitate toward becoming [[Bard]] or [[Champion]]. Some might think that poppets' small size and general clumsiness make them poor [[Fighter]] or [[Ranger]], but certain poppets embrace these classes out of a drive to display their bravery and prove the naysayers wrong.
+Poppets like helping others and experiencing new things; both of these motivations lead naturally into the life of an adventurer. They aren't generally driven by a lust for treasure, but they like adorning themselves with pretty accoutrement and using their finds to better the lives of others. The [[DATABASE/background/Acolyte|acolyte]], [[DATABASE/background/Entertainer|entertainer]], and [[DATABASE/background/Laborer|laborer]] backgrounds are good choices for many poppets, as are [[DATABASE/background/Cook|cook]], [[DATABASE/background/Scavenger|scavenger]], and [[DATABASE/background/Servant|servant]]. Poppets who watched their creator work might have the [[DATABASE/background/Artist|artist]], [[DATABASE/background/Hermit|hermit]], or [[DATABASE/background/Tinker|tinker]] background to reflect what they've seen. Because poppets like to help others, they gravitate toward becoming [[DATABASE/class_/Bard|bards]] or [[DATABASE/class_/Champion|champions]]. Some might think that poppets' small size and general clumsiness make them poor [[DATABASE/class_/Fighter|fighters]] or [[DATABASE/class_/Ranger|rangers]], but certain poppets embrace these classes out of a drive to display their bravery and prove the naysayers wrong.
 
 ## Names
 
@@ -116,8 +117,8 @@ Dexterity
 
 ## Languages
 
-[[Common]]
-Additional languages equal to your Intelligence modifier (if positive). Choose from [[Draconic]], [[Dwarven]], [[Elven]], [[Gnomish]], [[Goblin]], [[Sylvan]], and any other languages to which you have access (such as the languages prevalent in your region).
+[[DATABASE/language/Common|Common]]
+Additional languages equal to your Intelligence modifier (if positive). Choose from [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Dwarven|Dwarven]], [[DATABASE/language/Elven|Elven]], [[DATABASE/language/Gnomish|Gnomish]], [[DATABASE/language/Goblin|Goblin]], [[DATABASE/language/Sylvan|Sylvan]], and any other languages to which you have access (such as the languages prevalent in your region).
 
 ## Darkvision
 
@@ -125,7 +126,7 @@ You can see in darkness and dim light just as well as you can see in bright ligh
 
 ## Constructed
 
-The materials of your body resist ailments that assail the flesh. You gain a +1 circumstance bonus to saving throws against death effects, disease, and poison as well as to saving throws against effects that would give you the [[Drained]], [[Paralyzed]], or [[Sickened]] conditions. Your spark of life means that you're a living creature, and you can be healed by positive energy and harmed by negative energy as normal.
+The materials of your body resist ailments that assail the flesh. You gain a +1 circumstance bonus to saving throws against death effects, disease, and poison as well as to saving throws against effects that would give you the [[DATABASE/condition/Drained|drained]], [[DATABASE/condition/Paralyzed|paralyzed]], or [[DATABASE/condition/Sickened|sickened]] conditions. Your spark of life means that you're a living creature, and you can be healed by positive energy and harmed by negative energy as normal.
 
 ## Flammable
 

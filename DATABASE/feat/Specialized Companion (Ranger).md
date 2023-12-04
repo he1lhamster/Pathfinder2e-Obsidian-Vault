@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Incredible Companion (Ranger)|Incredible Companio
   (Ranger)]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Specialized Companion (Ranger) <span class="item-type">Feat 16</span>
 
 <span class="item-trait">Ranger</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Incredible Companion (Ranger)]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/feat/Incredible Companion (Ranger)|Incredible Companion (Ranger)]]
 
 ---
 Your animal companion has become cunning enough to become specialized. Your animal companion gains one specialization of your choice.

@@ -11,6 +11,7 @@ name: Fortified Mind
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Fortified Mind <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Kashrishi</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 
 ---
-Your mind is unusually resilient and resistant to influence. When you would gain the [[Fascinated]] or [[Stupefied]] condition, you can attempt a DC 17 flat check. On a success, you don't gain the fascinated or stupefied condition.
+Your mind is unusually resilient and resistant to influence. When you would gain the [[DATABASE/condition/Fascinated|fascinated]] or [[DATABASE/condition/Stupefied|stupefied]] condition, you can attempt a DC 17 flat check. On a success, you don't gain the fascinated or stupefied condition.
 
 ## Traits
 

@@ -11,6 +11,7 @@ name: Play Dead
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Play Dead <span class="action-icon">1</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Skeleton</span>
-**Source** [[Book of the Dead]]
+**Source** [[DATABASE/source/Book of the Dead|Book of the Dead]]
 
 ---
-You lie [[Prone]] and pretend to be an ordinary skeleton. As long as you don't move or take any actions requiring anything other than your mind, you appear dead. To see through your ruse, another creature must succeed at a check against your [[Deception]] DC, either by [[Seek]] or [[Recall Knowledge]] (typically using [[Religion]] or an appropriate [[Lore]] skill). This ability doesn't work against creatures that already know you're an animate undead unless you have changed your appearance.
+You lie [[DATABASE/condition/Prone|prone]] and pretend to be an ordinary skeleton. As long as you don't move or take any actions requiring anything other than your mind, you appear dead. To see through your ruse, another creature must succeed at a check against your [[DATABASE/skill/Deception|Deception]] DC, either by [[DATABASE/action/Seek|Seeking]] or [[DATABASE/action/Recall Knowledge|Recalling Knowledge]] (typically using [[DATABASE/skill/Religion|Religion]] or an appropriate [[DATABASE/skill/Lore|Lore]] skill). This ability doesn't work against creatures that already know you're an animate undead unless you have changed your appearance.
 
 ## Traits
 

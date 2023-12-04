@@ -77,23 +77,23 @@ wisdom: '+3'
 # Hunter Wight
 
 Dangers deep in the wilderness claim the life some lone scout or hunter. When they arise as wights, they renew their hunt with equal vigor, but all the living are now their prey. Hunter wights prefer to seek strategic ground, frequently taking residence atop hills or within abandoned watchtowers and keeps.
-**Recall Knowledge - Undead ([[Religion]])**: DC 25
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 25
 **Unspecific Lore**: DC 23
 **Specific Lore**: DC 20
 
 # Hunter Wight<span class="item-type">Creature 7</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Undead</span><span class="item-trait">Wight</span>
-**Source** [[Book of the Dead]]
-**Perception** +16; [[Darkvision]]
-**Languages** [[Common]], [[Necril]]
-**Skills** [[Athletics]] +14, [[Crafting]] +14, [[Intimidation]] +12, [[Stealth]] +17
+**Source** [[DATABASE/source/Book of the Dead|Book of the Dead]]
+**Perception** +16; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Necril|Necril]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +14, [[DATABASE/skill/Crafting|Crafting]] +14, [[DATABASE/skill/Intimidation|Intimidation]] +12, [[DATABASE/skill/Stealth|Stealth]] +17
 **Str** +3, **Dex** +4, **Con** +2, **Int** +1, **Wis** +3, **Cha** +2
-**Items** _+1 [[Composite Longbow]]_, [[Leather Armor]], [[Snare Kit]]
+**Items** _+1 [[DATABASE/weapon/Composite Longbow|composite longbow]]_, [[DATABASE/armor/Leather Armor|leather armor]], [[DATABASE/equipment/Snare Kit|snare kit]]
 
 ---
 **AC** 24; **Fort** +13, **Ref** +17, **Will** +14
-**HP** 112 ([[Negative Healing]]); **Immunities** death effects, disease, [[Paralyzed]], poison, [[Unconscious]]
+**HP** 112 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects, disease, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Unconscious|unconscious]]
 <span class="in-box-ability">**Final Snare <span class="action-icon">5</span> ** **Trigger** The hunter wight is reduced to 0 Hit Points; **Effect** The hunter wight has rigged their own body with a snare, which they trigger before being destroyed. Slivers of bone launch at an adjacent creature, dealing 4d8 piercing damage (DC 25 basic Reflex save).</span>
 
 ---

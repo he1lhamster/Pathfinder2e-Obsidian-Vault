@@ -26,6 +26,7 @@ patron_theme: null
 range: touch
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -44,9 +45,9 @@ type: Spell
 # Nondetection<span class="item-type">Spell 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Abjuration</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult, primal
-**Deities** [[Ahriman]], [[Erecura]], [[Lao Shu Po]], [[Nocticula]]
+**Deities** [[DATABASE/deity/Ahriman|Ahriman]], [[DATABASE/deity/Erecura|Erecura]], [[DATABASE/deity/Lao Shu Po|Lao Shu Po]], [[DATABASE/deity/Nocticula|Nocticula]]
 **Cast** 10 minutes (material, somatic, verbal)
 **Range** touch; **Targets** 1 creature or object
 **Duration** 8 hours

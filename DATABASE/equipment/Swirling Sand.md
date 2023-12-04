@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -56,10 +57,10 @@ weapon_type: null
 # Swirling Sand<span class="item-type">Item 7</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Catalyst</span><span class="item-trait">Consumable</span><span class="item-trait">Magical</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Price** 52 gp
 **Usage** held in 1 hand; **Bulk** L
 **Activate** Cast a Spell
 
 ---
-_Swirling sand_ carries a faint trace of strange compulsions from the helical sand spire near Beachcomber. Adding this catalyst to a [[Suggestion]] spell implants a strange compulsion in one target of the spell. The target creature must spin counterclockwise at the end of its turn if it didn't take a move action that turn. This spin is a free action that has the move trait. This effect lasts for 3 rounds on a success, failure, or critical failure against suggestion (even if the target completes its suggestion in fewer rounds); a target that critically succeeds against _suggestion_ is unaffected by the _swirling sand_.
+_Swirling sand_ carries a faint trace of strange compulsions from the helical sand spire near Beachcomber. Adding this catalyst to a [[DATABASE/spell/Suggestion|suggestion]] spell implants a strange compulsion in one target of the spell. The target creature must spin counterclockwise at the end of its turn if it didn't take a move action that turn. This spin is a free action that has the move trait. This effect lasts for 3 rounds on a success, failure, or critical failure against suggestion (even if the target completes its suggestion in fewer rounds); a target that critically succeeds against _suggestion_ is unaffected by the _swirling sand_.

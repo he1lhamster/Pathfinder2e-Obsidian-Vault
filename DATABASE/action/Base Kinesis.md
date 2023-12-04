@@ -7,6 +7,7 @@ id: '2126'
 name: Base Kinesis
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 trait:
@@ -20,7 +21,7 @@ type: Action
 # Base Kinesis <span class="action-icon">2</span>
 
 <span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Primal</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
 It's trivial for you to create some of your element or alter a portion of it that already exists. Choose one of your kinetic elements to affect. This impulse has a range of 30 feet, and the Bulk of the target must be negligible or light. The GM decides what Bulk the element is. You can't affect an element that's magical, secured in place (like a stone mortared in a wall), or attended by a creature unwilling to let you.

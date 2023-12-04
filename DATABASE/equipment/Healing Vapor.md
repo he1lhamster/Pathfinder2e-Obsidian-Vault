@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Healing Vapor<span class="item-type">Item 4+</span>
 
 <span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Healing</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Usage** held in 2 hands; **Bulk** L
 **Activate** <span class="action-icon">3</span> Interact
 
@@ -63,28 +64,28 @@ Healing vapor is a substance that accelerates natural recovery processes by disp
 
 ## Healing Vapor (Lesser)<span class="item-type">Item 4</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 20 gp
 **Bulk** L
 Each creature regains 1 Hit Point every 2 minutes and gets a +1 bonus.
 
 ## Healing Vapor (Moderate)<span class="item-type">Item 8</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 100 gp
 **Bulk** L
 Each creature regains 1 Hit Point every minute and gets a +1 bonus.
 
 ## Healing Vapor (Greater)<span class="item-type">Item 12</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 400 gp
 **Bulk** L
 Each creature regains 2 Hit Points every minute and gets a +2 bonus.
 
 ## Healing Vapor (Major)<span class="item-type">Item 17</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 3,000 gp
 **Bulk** L
 Each creature regains 3 Hit Points every minute and gets a +3 bonus.

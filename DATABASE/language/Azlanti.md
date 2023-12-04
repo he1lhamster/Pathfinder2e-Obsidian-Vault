@@ -2,6 +2,7 @@
 id: '49'
 name: Azlanti
 rarity: Uncommon
+rus_type_level: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -10,16 +11,16 @@ type: Language
 ---
 # Azlanti
 
-**Source** [[World Guide]] 
+**Source** [[DATABASE/source/World Guide|World Guide]] 
 The below entries contain speakers of Azlanti.
 
 ## Monsters (5)
 
-[[Azarketi Explorer]], [[Lorthact]], [[Mezlan]], [[Remnant of Barzillai]], [[Ulthadar]]
+[[DATABASE/monster/Azarketi Explorer|Azarketi Explorer]], [[DATABASE/monster/Lorthact|Lorthact]], [[DATABASE/monster/Mezlan|Mezlan]], [[DATABASE/monster/Remnant of Barzillai|Remnant of Barzillai]], [[DATABASE/monster/Ulthadar|Ulthadar]]
 
 ## NPCs (1)
 
-[[Gerhard Pendergrast]]
+[[DATABASE/npc/Gerhard Pendergrast|Gerhard Pendergrast]]
 
 ## Regions (1)
 

@@ -11,6 +11,7 @@ name: Premonition of Clarity
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Premonition of Clarity <span class="action-icon">5</span> <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Cleric</span><span class="item-trait">Fortune</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Frequency** once per hour
 **Trigger** You fail a saving throw against a mental effect.
 
@@ -33,7 +34,7 @@ Your deity sends you a vision of faith to steel you against mental attacks. Rero
 
 ## Premonition of Clarity Leads To...
 
-[[Shared Clarity]]
+[[DATABASE/feat/Shared Clarity|Shared Clarity]]
 
 ## Traits
 

@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Pathfinder 172. Secrets of the Temple City|Pathfinder #172:
@@ -42,7 +43,7 @@ type: Spell
 # Cloak of Light<span class="item-type">Spell 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Healing</span><span class="item-trait">Light</span><span class="item-trait">Necromancy</span><span class="item-trait">Positive</span>
-**Source** [[Pathfinder 172. Secrets of the Temple City]]
+**Source** [[DATABASE/source/Pathfinder 172. Secrets of the Temple City|Pathfinder #172: Secrets of the Temple City]]
 **Traditions** divine, primal
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Duration** sustained for up to 5 rounds

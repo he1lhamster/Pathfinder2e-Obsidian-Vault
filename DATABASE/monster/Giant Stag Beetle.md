@@ -71,16 +71,16 @@ wisdom: '+2'
 
 The giant stag beetle is larger than a horse, and the sight of one flying (if slowly and somewhat clumsily) on great buzzing wings is unnerving. Its enormous mandibles are used to impress mates, intimidate rivals, and discourage predators, for they can deliver deadly blows. While giant stag beetles are deadly predators, they can be domesticated by skilled wranglers. In such a capacity, these beetles serve well as beasts of burden or even as mounts.
  Giant stag beetles can be a serious menace in marshes, cavern complexes, and heavy forests. More than one logging camp has attracted a cluster of giant stag beetles and had to be completely abandoned, yielding all its lumber to the hunger of the giant insects.
-**Recall Knowledge - Animal ([[Nature]])**: DC 19
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 19
 **Unspecific Lore**: DC 17
 **Specific Lore**: DC 14
 
 # Giant Stag Beetle<span class="item-type">Creature 4</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +10; darkvision
-**Skills** [[Acrobatics]] +9, [[Athletics]] +13
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +9, [[DATABASE/skill/Athletics|Athletics]] +13
 **Str** +5, **Dex** +1, **Con** +5, **Int** -5, **Wis** +2, **Cha** -1
 
 ---
@@ -89,4 +89,4 @@ The giant stag beetle is larger than a horse, and the sight of one flying (if sl
 
 ---
 **Speed** 20 feet, fly 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> mandibles +13 [+8/+3], **Damage** 2d8+5 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> foot +11 [+6/+1], **Damage** 1d10+5 bludgeoning</span><span class="in-box-ability">**[[Trample]]** <span class="action-icon">3</span> Medium or smaller, foot, DC 21</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> mandibles +13 [+8/+3], **Damage** 2d8+5 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> foot +11 [+6/+1], **Damage** 1d10+5 bludgeoning</span><span class="in-box-ability">**[[DATABASE/monsterability/Trample|Trample]]** <span class="action-icon">3</span> Medium or smaller, foot, DC 21</span>

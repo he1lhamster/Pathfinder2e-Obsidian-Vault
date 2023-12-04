@@ -73,17 +73,17 @@ wisdom: '+1'
 # Living Waterfall
 
 Living waterfalls are humanoid-shaped columns of churning water.
-**Recall Knowledge - Elemental ([[Arcana]], [[Nature]])**: DC 20
+**Recall Knowledge - Elemental ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 20
 **Unspecific Lore**: DC 18
 **Specific Lore**: DC 15
 
 # Living Waterfall<span class="item-type">Creature 5</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Aquatic</span><span class="item-trait">Elemental</span><span class="item-trait">Water</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +10; darkvision
-**Languages** [[Aquan]]
-**Skills** [[Athletics]] +13, [[Stealth]] +12
+**Languages** [[DATABASE/language/Aquan|Aquan]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +13, [[DATABASE/skill/Stealth|Stealth]] +12
 **Str** +4, **Dex** +3, **Con** +3, **Int** -2, **Wis** +1, **Cha** +0
 **Water-Bound** When not touching water, the living waterfall is slowed 1 and can’t use reactions.
 

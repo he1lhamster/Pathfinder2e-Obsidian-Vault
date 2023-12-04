@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Enchantment
 size: null
@@ -53,20 +54,20 @@ weapon_type: null
 # Menacing<span class="item-type">Item 3+</span>
 
 <span class="item-trait">Enchantment</span><span class="item-trait">Magical</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Usage** applied any visible article of clothing; **Bulk** —
 
 ---
-Common among brutes who use the magic to scare others into compliance, _menacing_ runes lend you a formidable appearance, granting you a +1 item bonus to [[Intimidation]] checks to [[Coerce]] others.
+Common among brutes who use the magic to scare others into compliance, _menacing_ runes lend you a formidable appearance, granting you a +1 item bonus to [[DATABASE/skill/Intimidation|Intimidation]] checks to [[DATABASE/action/Coerce|Coerce]] others.
 
 ## Menacing<span class="item-type">Item 3</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 50 gp
 
 ## Menacing (Greater)<span class="item-type">Item 10</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 900 gp
 This rune grants a +2 item bonus and has an activation.
-**Activate** <span class="action-icon">2</span> command, Interact **Frequency** once per day; **Effect** The rune casts a 3rd-level [[Fear]] spell (DC 25).
+**Activate** <span class="action-icon">2</span> command, Interact **Frequency** once per day; **Effect** The rune casts a 3rd-level [[DATABASE/spell/Fear|fear]] spell (DC 25).

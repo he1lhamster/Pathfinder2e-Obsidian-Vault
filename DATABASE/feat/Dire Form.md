@@ -11,6 +11,7 @@ name: Dire Form
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Dire Form <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Beastkin</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-Your hybrid shape is a hulking beast. While in your hybrid shape, you gain the effects of [[Enlarge]].
+Your hybrid shape is a hulking beast. While in your hybrid shape, you gain the effects of [[DATABASE/spell/Enlarge|enlarge]].
 
 ## Traits
 

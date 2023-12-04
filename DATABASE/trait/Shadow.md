@@ -2,6 +2,7 @@
 id: '143'
 name: Shadow
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Shadow
@@ -10,41 +11,41 @@ type: Trait
 ---
 # Shadow
 
-**Source** [[Core Rulebook]] 
-Magic with this trait involves shadows or the energy of the [[Shadow Plane]]. Creatures with this trait are natives of the Shadow Plane. They can survive the basic environmental effects of the Shadow Plane.
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+Magic with this trait involves shadows or the energy of the [[DATABASE/plane/Shadow Plane|Shadow Plane]]. Creatures with this trait are natives of the Shadow Plane. They can survive the basic environmental effects of the Shadow Plane.
 
 ## Curses
 
-[[Obnubilate Curse]]
+[[DATABASE/curse/Obnubilate Curse|Obnubilate Curse]]
 
 ## Equipment
 
-[[Gloaming Arc]], [[Gloaming Shard]], [[Maw of Hungry Shadows]], [[Shadewither Key]], [[Sparkwarden]], [[Tome of Dripping Shadows]], [[Undertaker's Manifest]]
+[[DATABASE/equipment/Gloaming Arc|Gloaming Arc]], [[DATABASE/equipment/Gloaming Shard|Gloaming Shard]], [[DATABASE/equipment/Maw of Hungry Shadows|Maw of Hungry Shadows]], [[DATABASE/equipment/Shadewither Key|Shadewither Key]], [[DATABASE/equipment/Sparkwarden|Sparkwarden]], [[DATABASE/equipment/Tome of Dripping Shadows|Tome of Dripping Shadows]], [[DATABASE/equipment/Undertaker's Manifest|Undertaker's Manifest]]
 
 ## Feats
 
-[[Clever Shadow]], [[Hefting Shadow]], [[Sculpt Shadows]], [[Shadow Blending]], [[Shadow Spell]]
+[[DATABASE/feat/Clever Shadow|Clever Shadow]], [[DATABASE/feat/Hefting Shadow|Hefting Shadow]], [[DATABASE/feat/Sculpt Shadows|Sculpt Shadows]], [[DATABASE/feat/Shadow Blending|Shadow Blending]], [[DATABASE/feat/Shadow Spell|Shadow Spell]]
 
 ## Focus Spells
 
-[[Clinging Shadows Stance]], [[Cloak of Shadow]], [[Consuming Darkness]], [[Darklight]], [[Inscrutable Mask]], [[Malicious Shadow]], [[Shadow Illusion]], [[Shadow Jump]], [[Steal Shadow]]
+[[DATABASE/spell/Clinging Shadows Stance|Clinging Shadows Stance]], [[DATABASE/spell/Cloak of Shadow|Cloak of Shadow]], [[DATABASE/spell/Consuming Darkness|Consuming Darkness]], [[DATABASE/spell/Darklight|Darklight]], [[DATABASE/spell/Inscrutable Mask|Inscrutable Mask]], [[DATABASE/spell/Malicious Shadow|Malicious Shadow]], [[DATABASE/spell/Shadow Illusion|Shadow Illusion]], [[DATABASE/spell/Shadow Jump|Shadow Jump]], [[DATABASE/spell/Steal Shadow|Steal Shadow]]
 
 ## Hazards
 
-[[Shadow Guards]]
+[[DATABASE/hazard/Shadow Guards|Shadow Guards]]
 
 ## Monsters
 
-[[Adult Umbral Dragon]], [[Alapolo]], [[Ancient Umbral Dragon]], [[Betobeto-San]], [[Caligni Assassin]], [[D'ziriak]], [[Fetchling Scout]], [[Namorrodor]], [[Nasurgeth (Nightwave)]], [[Owb]], [[Owb Prophet]], [[Shadow Drake]], [[Shadow Giant]], [[Shadow Worm]], [[Shadow Yai]], [[Shae]], [[Skull Fairy]], [[Strigoi Progenitor]], [[Sykever (Nightwalker)]], [[Tenebric Giant]], [[Darvakka, Umbraex]], [[Urveth (Nightcrawler)]], [[Vanyver (Nightwing)]], [[Wayang Whisperblade]], [[Young Umbral Dragon]]
+[[DATABASE/monster/Adult Umbral Dragon|Adult Umbral Dragon]], [[DATABASE/monster/Alapolo|Alapolo]], [[DATABASE/monster/Ancient Umbral Dragon|Ancient Umbral Dragon]], [[DATABASE/monster/Betobeto-San|Betobeto-San]], [[DATABASE/monster/Caligni Assassin|Caligni Assassin]], [[DATABASE/monster/D'ziriak|D'ziriak]], [[DATABASE/monster/Fetchling Scout|Fetchling Scout]], [[DATABASE/monster/Namorrodor|Namorrodor]], [[DATABASE/monster/Nasurgeth (Nightwave)|Nasurgeth]], [[DATABASE/monster/Owb|Owb]], [[DATABASE/monster/Owb Prophet|Owb Prophet]], [[DATABASE/monster/Shadow Drake|Shadow Drake]], [[DATABASE/monster/Shadow Giant|Shadow Giant]], [[DATABASE/monster/Shadow Worm|Shadow Worm]], [[DATABASE/monster/Shadow Yai|Shadow Yai]], [[DATABASE/monster/Shae|Shae]], [[DATABASE/monster/Skull Fairy|Skull Fairy]], [[DATABASE/monster/Strigoi Progenitor|Strigoi Progenitor]], [[DATABASE/monster/Sykever (Nightwalker)|Sykever]], [[DATABASE/monster/Tenebric Giant|Tenebric Giant]], [[DATABASE/monster/Darvakka, Umbraex|Umbraex]], [[DATABASE/monster/Urveth (Nightcrawler)|Urveth]], [[DATABASE/monster/Vanyver (Nightwing)|Vanyver]], [[DATABASE/monster/Wayang Whisperblade|Wayang Whisperblade]], [[DATABASE/monster/Young Umbral Dragon|Young Umbral Dragon]]
 
 ## Planes
 
-[[Shadow Plane]]
+[[DATABASE/plane/Shadow Plane|Shadow Plane]]
 
 ## Rituals
 
-[[Split Shadow]]
+[[DATABASE/ritual/Split Shadow|Split Shadow]]
 
 ## Spells
 
-[[Gray Shadow]], [[Penumbral Disguise]], [[Replicate]], [[Shadow Army]], [[Shadow Blast]], [[Shadow Projectile]], [[Shadow Raid]], [[Shadow Siphon]], [[Shadow Walk]], [[Shadow Zombie]], [[Umbral Extraction]], [[Umbral Graft]], [[Umbral Mindtheft]], [[Undermine Reality]], [[Unspeakable Shadow]]
+[[DATABASE/spell/Gray Shadow|Gray Shadow]], [[DATABASE/spell/Penumbral Disguise|Penumbral Disguise]], [[DATABASE/spell/Replicate|Replicate]], [[DATABASE/spell/Shadow Army|Shadow Army]], [[DATABASE/spell/Shadow Blast|Shadow Blast]], [[DATABASE/spell/Shadow Projectile|Shadow Projectile]], [[DATABASE/spell/Shadow Raid|Shadow Raid]], [[DATABASE/spell/Shadow Siphon|Shadow Siphon]], [[DATABASE/spell/Shadow Walk|Shadow Walk]], [[DATABASE/spell/Shadow Zombie|Shadow Zombie]], [[DATABASE/spell/Umbral Extraction|Umbral Extraction]], [[DATABASE/spell/Umbral Graft|Umbral Graft]], [[DATABASE/spell/Umbral Mindtheft|Umbral Mindtheft]], [[DATABASE/spell/Undermine Reality|Undermine Reality]], [[DATABASE/spell/Unspeakable Shadow|Unspeakable Shadow]]

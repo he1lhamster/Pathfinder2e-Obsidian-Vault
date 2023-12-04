@@ -12,6 +12,7 @@ name: Gnome Flickmace
 price: 3 gp
 range: null
 rarity: Uncommon
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Gnome|Gnome]]'
@@ -27,10 +28,10 @@ weapon_type: Melee
 # Gnome Flickmace
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Gnome</span><span class="item-trait">Reach</span><span class="item-trait">Sweep</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 3 gp; **Damage** 1d6 B; **Bulk** 1
 **Hands** 1
-**Type** Melee; **Category** Advanced; **Group** [[Flail]]
+**Type** Melee; **Category** Advanced; **Group** [[DATABASE/weapongroup/Flail|Flail]]
 
 ---
 More a flail than a mace, this weapon has a short handle attached to a length of chain with a ball at the end. The ball is propelled to its reach with the flick of the wrist, the momentum of which brings the ball back to the wielder after the strike.
@@ -39,7 +40,7 @@ More a flail than a mace, this weapon has a short handle attached to a length of
 
 **Gnome:**
 
-A creature with this trait is a member of the gnome ancestry. Gnomes are small people skilled at magic who seek out new experiences and usually have [[Low-Light Vision]]. An ability with this trait can be used or selected only by gnomes. A weapon with this trait is created and used by gnomes.
+A creature with this trait is a member of the gnome ancestry. Gnomes are small people skilled at magic who seek out new experiences and usually have [[DATABASE/monsterability/Low-Light Vision|low-light vision]]. An ability with this trait can be used or selected only by gnomes. A weapon with this trait is created and used by gnomes.
 
 **Reach:**
 
@@ -51,10 +52,10 @@ This weapon makes wide sweeping or spinning attacks, making it easier to attack 
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.
 
 ## Critical Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
-**Flail**: The target is knocked [[Prone]].
+**Flail**: The target is knocked [[DATABASE/condition/Prone|prone]].

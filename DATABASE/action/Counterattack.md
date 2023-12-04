@@ -7,6 +7,7 @@ id: '1429'
 name: Counterattack
 rarity: Common
 requirement: '[[DATABASE/kingmakerwarfaretactic/Flexible Tactics|Flexible Tactics]]'
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
@@ -19,9 +20,9 @@ type: Action
 # Counterattack <span class="action-icon">5</span>
 
 <span class="item-trait">Infantry</span><span class="item-trait">Skirmisher</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 **Trigger** An army you are engaged with attempts a maneuver war action.
-**Requirements** [[Flexible Tactics]]
+**Requirements** [[DATABASE/kingmakerwarfaretactic/Flexible Tactics|Flexible Tactics]]
 
 ---
 Your army lashes out at the foe as they attempt to perform a maneuver. Attempt a melee Strike against the triggering army's AC. Counterattack doesn't count toward your multiple attack penalty, and your multiple attack penalty doesn't apply to this Strike.

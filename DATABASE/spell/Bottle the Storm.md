@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -36,8 +37,8 @@ type: Focus
 # Bottle the Storm<span class="item-type">Focus 4</span>
 
 <span class="item-trait">Electricity</span><span class="item-trait">Evocation</span>
-**Source** [[Gods & Magic]] 
-**Domain** [[Lightning Domain]]
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
+**Domain** [[DATABASE/domain/Lightning Domain|lightning]]
 **Cast** <span class="action-icon">5</span> somatic; **Trigger** You would take electricity damage.
 **Duration** 1 minute
 

@@ -3,6 +3,7 @@ creature_family: Performers
 id: '193'
 name: Performers
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Performers
 
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 Performances can serve as entertainment, expressions of beauty, or part of a shared culture.
 
 ### Members
 
-[[Acrobat]] (Creature 2), [[Beast Tamer]] (Creature 4), [[Dancer]] (Creature 1), [[Troubadour]] (Creature 3)
+[[DATABASE/npc/Acrobat|Acrobat]] (Creature 2), [[DATABASE/npc/Beast Tamer|Beast Tamer]] (Creature 4), [[DATABASE/npc/Dancer|Dancer]] (Creature 1), [[DATABASE/npc/Troubadour|Troubadour]] (Creature 3)
 
 ###  Let's See A Show
 

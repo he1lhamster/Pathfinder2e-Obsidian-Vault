@@ -2,6 +2,7 @@
 id: '40'
 name: Elfbane Hobgoblin
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 trait: null
 type: Heritage
@@ -9,12 +10,12 @@ type: Heritage
 ---
 # Elfbane Hobgoblin
 
-**Source** [[Character Guide]] 
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
 Hobgoblins were engineered long ago from the unreliable and fecund goblins, to be used as an army against the elves. Although the elves ultimately freed the hobgoblins from their bondage, some hobgoblins retain ancestral resistance to magic, which they refer to as “elf magic.” You gain the Resist Elf Magic reaction.
 
-### [[Resist Elf Magic]] <span class="action-icon">5</span>
+### [[DATABASE/action/Resist Elf Magic|Resist Elf Magic]] <span class="action-icon">5</span>
 
-**Source** [[Character Guide]] 
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
 **Trigger** You attempt a saving throw against a magical effect but haven’t rolled yet.
 
 ---

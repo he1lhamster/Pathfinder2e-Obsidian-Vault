@@ -3,6 +3,7 @@ creature_family: Redcap
 id: '348'
 name: Redcap
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 194. Cult of the Cave Worm|Pathfinder #194:
   Cult of the Cave Worm]]'
 trait: null
@@ -11,11 +12,11 @@ type: Creature Family
 ---
 # Redcap
 
-**Source** [[Pathfinder 194. Cult of the Cave Worm]]
+**Source** [[DATABASE/source/Pathfinder 194. Cult of the Cave Worm|Pathfinder #194: Cult of the Cave Worm]]
 
 ### Members
 
-[[Redcap Cavalry]] (Creature 6)
+[[DATABASE/monster/Redcap Cavalry|Redcap Cavalry]] (Creature 6)
 
 ###  That Bloody Hat
 

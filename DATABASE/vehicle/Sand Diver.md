@@ -16,6 +16,7 @@ price: 155 gp
 rarity: Uncommon
 reflex: null
 resistance: null
+rus_type_level: null
 school: null
 size: Large
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
@@ -28,7 +29,7 @@ type: Vehicle
 # Sand Diver<span class="item-type">Vehicle 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-size item-trait">Large</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 155 gp
 
 ---
@@ -37,7 +38,7 @@ A sand diver is a vaguely scorpion-shaped vehicle that uses alchemical reactions
 ---
 **Space** 15 feet long, 6 feet wide, 6 feet high
 **Crew** 1 pilot; **Passengers** 2
-**Piloting Check** [[Lore]] (DC 18) or [[Crafting]] (DC 20)
+**Piloting Check** [[DATABASE/skill/Lore|Driving Lore]] (DC 18) or [[DATABASE/skill/Crafting|Crafting]] (DC 20)
 
 ---
 **AC** 14; **Fort** +9

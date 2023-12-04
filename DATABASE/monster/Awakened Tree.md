@@ -71,17 +71,17 @@ wisdom: '+3'
 # Awakened Tree
 
 Arboreal regents and other wielders of powerful primal magic grant temporary sentience to trees in order to protect the forest. Invested with a workable set of instincts and the ability to mobilize and attack, these awakened trees follow the commands of their master and fight to protect their home. The statistics below work just as well for foliage that has become animate via other methods, such as a mystical influence from another dimension, a capricious fey spirit, or the like.
-**Recall Knowledge - Plant ([[Nature]])**: DC 22
+**Recall Knowledge - Plant ([[DATABASE/skill/Nature|Nature]])**: DC 22
 **Unspecific Lore**: DC 20
 **Specific Lore**: DC 17
 
 # Awakened Tree<span class="item-type">Creature 6</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Huge</span><span class="item-trait">Plant</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +13; low-light vision
-**Languages** [[Arboreal]]; (can’t speak any language)
-**Skills** [[Athletics]] +14, [[Stealth]] +9 (+14 in forests)
+**Languages** [[DATABASE/language/Arboreal|Arboreal]]; (can’t speak any language)
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +14, [[DATABASE/skill/Stealth|Stealth]] +9 (+14 in forests)
 **Str** +6, **Dex** -1, **Con** +6, **Int** -5, **Wis** +3, **Cha** +0
 
 ---

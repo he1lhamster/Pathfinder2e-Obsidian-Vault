@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Grudgestone<span class="item-type">Item 7+</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Evocation</span><span class="item-trait">Magical</span><span class="item-trait">Talisman</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Usage** affixed to a weapon; **Bulk** —
 **Activate** <span class="action-icon">4</span> envision **Trigger** A creature critically hits you.
 
@@ -64,11 +65,11 @@ This dull black pebble, ominously cold to the touch and curiously heavy for its 
 
 ## Grudgestone<span class="item-type">Item 7</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 70 gp
 
 ## Grudgestone (Greater)<span class="item-type">Item 15</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 900 gp
 The bonus is +5.

@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -53,9 +54,9 @@ weapon_type: null
 # Basic Companion Chair<span class="item-type">Item 0</span>
 
 <span class="item-trait">Barding</span><span class="item-trait">Companion</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 4 sp
 **Bulk** 1
 
 ---
-[[Barding]] around the torso connects via struts to a number of wheels to assist animal companions' movement. Companion chairs can be fitted for animal companions of any shape or size and have two- and four-wheel configurations depending on the level of physical support needed. Like the [[Basic Chair]], a companion chair is ideal for everyday use but not more strenuous activity, making it more common among non-adventurers.
+[[DATABASE/equipment/Barding|Light barding]] around the torso connects via struts to a number of wheels to assist animal companions' movement. Companion chairs can be fitted for animal companions of any shape or size and have two- and four-wheel configurations depending on the level of physical support needed. Like the [[DATABASE/equipment/Basic Chair|basic chair]], a companion chair is ideal for everyday use but not more strenuous activity, making it more common among non-adventurers.

@@ -74,23 +74,23 @@ wisdom: '+2'
 # Scorned Hound
 
 Scorned hounds rise from the most devoted dogs. They're incredibly possessive of their owners, allowing no living beings to approach and refusing to be parted.
-**Recall Knowledge - Undead ([[Religion]])**: DC 15
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Scorned Hound<span class="item-type">Creature 1</span>
 
 <span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Small</span><span class="item-trait">Undead</span>
-**Source** [[Book of the Dead]]
-**Perception** +7; [[Darkvision]], [[Scent]] (imprecise) 30 feet, sense companion
-**Skills** [[Acrobatics]] +5, [[Athletics]] +7, [[Stealth]] +5, [[Survival]] +5
+**Source** [[DATABASE/source/Book of the Dead|Book of the Dead]]
+**Perception** +7; [[DATABASE/monsterability/Darkvision|darkvision]], [[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet, sense companion
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +5, [[DATABASE/skill/Athletics|Athletics]] +7, [[DATABASE/skill/Stealth|Stealth]] +5, [[DATABASE/skill/Survival|Survival]] +5
 **Str** +4, **Dex** +2, **Con** +2, **Int** -4, **Wis** +2, **Cha** -1
 **Sense Companion** (detection, divination, occult) A scorned hound knows the direction of its past owner or family (as long as they're both on the same plane), but not the distance.
 
 ---
 **AC** 15; **Fort** +9, **Ref** +7, **Will** +5
-**HP** 22 ([[Negative Healing]]); **Immunities** death effects, disease, [[Paralyzed]], poison, sleep
-<span class="in-box-ability">**Stench** (aura, olfactory) 10 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 14 Fortitude save or become [[Sickened]] (plus [[Grapple]] for as long as it's sickened on a critical failure). While within the aura, affected creatures take a –2 circumstance penalty to saves against disease and to recover from the sickened condition. A creature that succeeds at its save is temporarily immune for 1 minute.
+**HP** 22 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects, disease, [[DATABASE/condition/Paralyzed|paralyzed]], poison, sleep
+<span class="in-box-ability">**Stench** (aura, olfactory) 10 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 14 Fortitude save or become [[DATABASE/condition/Sickened|sickened 1]] (plus [[DATABASE/action/Grapple|slowed 1]] for as long as it's sickened on a critical failure). While within the aura, affected creatures take a –2 circumstance penalty to saves against disease and to recover from the sickened condition. A creature that succeeds at its save is temporarily immune for 1 minute.
 </span>
 
 ---

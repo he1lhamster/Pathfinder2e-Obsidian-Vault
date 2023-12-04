@@ -6,6 +6,7 @@ id: '5'
 name: Darkvision
 rarity: Common
 requirement: null
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait: null
 type: Familiar Ability
@@ -13,6 +14,6 @@ type: Familiar Ability
 ---
 # Darkvision
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Ability Type** Familiar
 It gains darkvision.

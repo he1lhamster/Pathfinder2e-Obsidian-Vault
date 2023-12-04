@@ -19,6 +19,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Fortitude
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
@@ -38,15 +39,15 @@ type: Spell
 # Mercurial Stride<span class="item-type">Spell 4</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Manipulate</span><span class="item-trait">Metal</span><span class="item-trait">Poison</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Traditions** arcane, occult
 **Cast** <span class="action-icon">2</span> 
 **Defense** Fortitude
 
 ---
-Your form ripples as you take on the fluidity and toxicity of quicksilver. You partially shift into a liquid metal form and Stride up to twice your speed. During this movement, you can pass through one creature's space—without needing to attempt a check to [[Tumble Through]]—by splitting into droplets of mercury and reforming on the other side, though you can't end your turn in such a space. Passing through a creature's space in this way exposes it to mercury poisoning, with a Fortitude save.
+Your form ripples as you take on the fluidity and toxicity of quicksilver. You partially shift into a liquid metal form and Stride up to twice your speed. During this movement, you can pass through one creature's space—without needing to attempt a check to [[DATABASE/action/Tumble Through|Tumble Through]]—by splitting into droplets of mercury and reforming on the other side, though you can't end your turn in such a space. Passing through a creature's space in this way exposes it to mercury poisoning, with a Fortitude save.
 **Critical Success** The target is unaffected.
-**Success** The target becomes [[Sickened]].
+**Success** The target becomes [[DATABASE/condition/Sickened|sickened 1]].
 **Failure** The target becomes sickened 2 and takes 6d6 poison damage.
 **Critical Failure** The target becomes sickened 2 and takes 12d6 poison damage.
 

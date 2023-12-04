@@ -8,6 +8,7 @@ name: Aid
 rarity: Common
 requirement: The ally is willing to accept your aid, and you have prepared to help
   (see below).
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait: null
@@ -17,7 +18,7 @@ type: Action
 ---
 # Aid <span class="action-icon">5</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Trigger** An ally is about to use an action that requires a skill check or attack roll.
 **Requirements** The ally is willing to accept your aid, and you have prepared to help (see below).
 

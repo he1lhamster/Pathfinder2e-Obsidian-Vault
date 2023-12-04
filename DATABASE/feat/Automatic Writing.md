@@ -11,6 +11,7 @@ name: Automatic Writing
 prerequisite: Expert in [[DATABASE/skill/Occultism|Occultism]]
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: occultism
@@ -28,12 +29,12 @@ type: Feat
 # Automatic Writing <span class="item-type">Feat 2</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Concentrate</span><span class="item-trait">Exploration</span><span class="item-trait">General</span><span class="item-trait">Manipulate</span><span class="item-trait">Skill</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Frequency** once per day
-**Prerequisites** expert in [[Occultism]]
+**Prerequisites** expert in [[DATABASE/skill/Occultism|Occultism]]
 
 ---
-When confronted with the unknown, you can receive knowledge beyond your own experience via written messages delivered by your hand. You spend 10 minutes seated while holding a writing utensil, using it to make small circular motions as you open your mind to the forces around you. You receive information as your hand writes on its own, guided by spirits. At the end of these 10 minutes, [[Recall Knowledge]] with any [[Lore]] skill in which you are not trained, using your Occultism modifier instead of your modifier with that skill. The strain of this spirit channeling leaves you [[Stupefied]] for the next 10 minutes.
+When confronted with the unknown, you can receive knowledge beyond your own experience via written messages delivered by your hand. You spend 10 minutes seated while holding a writing utensil, using it to make small circular motions as you open your mind to the forces around you. You receive information as your hand writes on its own, guided by spirits. At the end of these 10 minutes, [[DATABASE/action/Recall Knowledge|Recall Knowledge]] with any [[DATABASE/skill/Lore|Lore]] skill in which you are not trained, using your Occultism modifier instead of your modifier with that skill. The strain of this spirit channeling leaves you [[DATABASE/condition/Stupefied|stupefied 1]] for the next 10 minutes.
 
 ## Traits
 
@@ -59,4 +60,4 @@ A general feat with the skill trait improves your skills and their actions or gi
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.

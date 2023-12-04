@@ -12,6 +12,7 @@ prerequisite: null
 rarity: Common
 requirement: Your most recent action was to cast a non-cantrip spell that dealt energy
   damage.
+rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,7 +26,7 @@ type: Feat
 # Energy Ward <span class="action-icon">4</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Sorcerer</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Frequency** once per turn
 **Requirements** Your most recent action was to cast a non-cantrip spell that dealt energy damage.
 

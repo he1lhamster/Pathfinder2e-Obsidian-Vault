@@ -11,6 +11,7 @@ name: Dual-Handed Assault
 prerequisite: null
 rarity: Common
 requirement: You are wielding a one-handed melee weapon and have a free hand.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Dual-Handed Assault <span class="action-icon">1</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Fighter</span><span class="item-trait">Flourish</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Requirements** You are wielding a one-handed melee weapon and have a free hand.
 
 ---

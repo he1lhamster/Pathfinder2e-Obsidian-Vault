@@ -14,6 +14,7 @@ name: Eldritch Echoes
 rarity: Common
 reflex: null
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
@@ -28,7 +29,7 @@ will: null
 # Eldritch Echoes<span class="item-type">Hazard 20</span>
 
 <span class="item-trait">Complex</span><span class="item-trait">Magical</span><span class="item-trait">Trap</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 **Complexity** Complex
 **Stealth** DC +38 (master) to realize that the strange faint sounds could be dangerous.
 **Description** Those who listen to the sounds for too long become convinced that these forces can be defeated by lashing out at them, even though the forces themselves are not apparent.
@@ -39,6 +40,6 @@ will: null
 
 ---
 **Routine** (1 action; emotion, enchantment, mental, primal) The trap starts scrambling senses and forcing creatures to perceive threats to their very place in time and space where no such threats actually exist. Every creature in area **K13** must attempt a DC 42 Will saving throw. Critical Success The creature is unaffected.
- Success The creature is [[Stupefied]] 1 for 1 round.
- **Failure** As success, but the creature is also [[Confused]] as long as it remains stupefied.
+ Success The creature is [[DATABASE/condition/Stupefied|stupefied]] 1 for 1 round.
+ **Failure** As success, but the creature is also [[DATABASE/condition/Confused|confused]] as long as it remains stupefied.
  **Critical Failure** The creature is stupefied 2 and confused. The confused condition persists until the creature recovers normally, but the stupefaction effect is permanent until removed.

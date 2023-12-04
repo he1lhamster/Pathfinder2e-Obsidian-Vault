@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Enchantment
 size: null
@@ -55,11 +56,11 @@ weapon_type: null
 # Troubadour's Cap<span class="item-type">Item 17</span>
 
 <span class="item-trait">Apex</span><span class="item-trait">Enchantment</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 15,000 gp
 **Usage** worn cap; **Bulk** —
 
 ---
-This jaunty cap can take the form and color of any type of hat you wish upon investing the item, but it always has a peacock feather jutting out from one side. You gain a +2 item bonus to [[Diplomacy]] and [[Performance]] checks while wearing the cap. When you invest the cap, you either increase your Charisma score by 2 or increase it to 18, whichever is higher.
-**Activate** <span class="action-icon">2</span> envision **Frequency** once per hour; **Effect** You cast [[Hypnotic Pattern]] (DC 37).
-**Activate** <span class="action-icon">2</span> Interact **Frequency** once per day; **Effect** Picking the feather from your cap, you throw it toward a target, casting [[Prismatic Spray]] (DC 35).
+This jaunty cap can take the form and color of any type of hat you wish upon investing the item, but it always has a peacock feather jutting out from one side. You gain a +2 item bonus to [[DATABASE/skill/Diplomacy|Diplomacy]] and [[DATABASE/skill/Performance|Performance]] checks while wearing the cap. When you invest the cap, you either increase your Charisma score by 2 or increase it to 18, whichever is higher.
+**Activate** <span class="action-icon">2</span> envision **Frequency** once per hour; **Effect** You cast [[DATABASE/spell/Hypnotic Pattern|hypnotic pattern]] (DC 37).
+**Activate** <span class="action-icon">2</span> Interact **Frequency** once per day; **Effect** Picking the feather from your cap, you throw it toward a target, casting [[DATABASE/spell/Prismatic Spray|prismatic spray]] (DC 35).

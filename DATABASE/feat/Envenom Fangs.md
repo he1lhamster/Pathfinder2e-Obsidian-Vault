@@ -11,6 +11,7 @@ name: Envenom Fangs
 prerequisite: '[[DATABASE/feat/Sharp Fangs|Sharp Fangs]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Envenom Fangs <span class="action-icon">1</span> <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Lizardfolk</span>
-**Source** [[Character Guide]] 
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
 **Frequency** a number of times per day equal to your level
-**Prerequisites** [[Sharp Fangs]]
+**Prerequisites** [[DATABASE/feat/Sharp Fangs|Sharp Fangs]]
 
 ---
 You envenom your fangs. If the next fangs Strike you make before the end of your next turn hits and deals damage, the Strike deals an additional 1d6 poison damage. On a critical failure, the poison is wasted as normal.

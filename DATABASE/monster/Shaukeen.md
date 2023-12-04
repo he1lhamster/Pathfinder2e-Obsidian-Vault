@@ -85,17 +85,17 @@ wisdom: '+3'
 # Shaukeen
 
 Perhaps the most perverse asuras of them all, shaukeens particularly delight in causing the downfall of those who give them succor, shelter, and most of all, schooling. Many a teacher has come across a shaukeen disguised as a small child of exceptional talents or curiosity and taken them under their wing, only to be beguiled into ruin. This diminutive asura's cleverness is disproportionate to their size; they ask probing questions and coax their prey into decisions that lead to heresy, furthering the collapse of order and decency. When the world turns on the shaukeen's mentor, the asura is gone—but not very far, for they love hiding unseen and watching the torment and destruction of their mentors.
-**Recall Knowledge - Fiend ([[Religion]])**: DC 15
+**Recall Knowledge - Fiend ([[DATABASE/skill/Religion|Religion]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Shaukeen<span class="item-type">Creature 1</span>
 
 <span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Tiny</span><span class="item-trait">Asura</span><span class="item-trait">Fiend</span>
-**Source** [[Bestiary 3]]
-**Perception** +8; [[Darkvision]]
-**Languages** [[Common]], [[Infernal]]; [[Telepathy]] (touch)
-**Skills** [[Acrobatics]] +7, [[Deception]] +9, [[Performance]] +7, [[Religion]] +7, [[Stealth]] +7
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
+**Perception** +8; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Infernal|Infernal]]; [[DATABASE/monsterability/Telepathy|telepathy]] (touch)
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +7, [[DATABASE/skill/Deception|Deception]] +9, [[DATABASE/skill/Performance|Performance]] +7, [[DATABASE/skill/Religion|Religion]] +7, [[DATABASE/skill/Stealth|Stealth]] +7
 **Str** +0, **Dex** +4, **Con** +1, **Int** +0, **Wis** +3, **Cha** +4
 
 ---
@@ -104,5 +104,5 @@ Perhaps the most perverse asuras of them all, shaukeens particularly delight in 
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +9 [+4/-1] (finesse), **Damage** 1d8 piercing plus fire jackal saliva and 1 evil</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> thorn +9 [+5/+1] (agile, finesse), **Damage** 1d8 piercing plus 1 evil</span>**Divine Innate Spells** DC 17; **2nd** _[[Charm]]_, _[[Spider Climb]]_, _[[Touch of Idiocy]]_; **Cantrips** **(1st)** _[[Read Aura]]_; **Constant** **(3rd)** _[[Magic Aura]]_ (shaukeen and its items only), _[[Nondetection]]_ (self only)
-<span class="in-box-ability">**[[Change Shape]]** <span class="action-icon">1</span> (concentrate, divine, polymorph, transmutation) The shaukeen takes on the appearance of a Small humanoid. This doesn't change the shaukeen's Speed or their attack and damage modifiers with their Strikes, but it might change the damage type their Strikes deal (typically to bludgeoning). The asura typically loses their jaws and thorn Strikes unless the humanoid form has fangs or a similar unarmed attack. This alternate form has a specific, persistent appearance, which the shaukeen can change by performing a 1-hour ritual.</span><span class="in-box-ability">**Fire Jackal Saliva** (poison) **Saving Throw** DC 17 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 1d4 poison damage and [[Clumsy]] (1 round); **Stage 2** 1d6 poison damage and clumsy 2 (1 round)</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +9 [+4/-1] (finesse), **Damage** 1d8 piercing plus fire jackal saliva and 1 evil</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> thorn +9 [+5/+1] (agile, finesse), **Damage** 1d8 piercing plus 1 evil</span>**Divine Innate Spells** DC 17; **2nd** _[[DATABASE/spell/Charm|charm]]_, _[[DATABASE/spell/Spider Climb|spider climb]]_, _[[DATABASE/spell/Touch of Idiocy|touch of idiocy]]_; **Cantrips** **(1st)** _[[DATABASE/spell/Read Aura|read aura]]_; **Constant** **(3rd)** _[[DATABASE/spell/Magic Aura|magic aura]]_ (shaukeen and its items only), _[[DATABASE/spell/Nondetection|nondetection]]_ (self only)
+<span class="in-box-ability">**[[DATABASE/monsterability/Change Shape|Change Shape]]** <span class="action-icon">1</span> (concentrate, divine, polymorph, transmutation) The shaukeen takes on the appearance of a Small humanoid. This doesn't change the shaukeen's Speed or their attack and damage modifiers with their Strikes, but it might change the damage type their Strikes deal (typically to bludgeoning). The asura typically loses their jaws and thorn Strikes unless the humanoid form has fangs or a similar unarmed attack. This alternate form has a specific, persistent appearance, which the shaukeen can change by performing a 1-hour ritual.</span><span class="in-box-ability">**Fire Jackal Saliva** (poison) **Saving Throw** DC 17 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 1d4 poison damage and [[DATABASE/condition/Clumsy|clumsy 1]] (1 round); **Stage 2** 1d6 poison damage and clumsy 2 (1 round)</span>

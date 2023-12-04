@@ -11,6 +11,7 @@ name: Swashbuckler Dedication
 prerequisite: Charisma 14; Dexterity 14
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,17 +26,17 @@ type: Feat
 # Swashbuckler Dedication <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Dedication</span><span class="item-trait">Multiclass</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Swashbuckler]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Swashbuckler|Swashbuckler]]
 **Prerequisites** Charisma 14; Dexterity 14
 
 ---
-Choose a swashbuckler style. You gain the [[Swashbuckler]] class feature, and you can gain panache in all the ways a swashbuckler of your style can. You become trained in [[Acrobatics]] or the skill associated with your style. If you were already trained in both skills, you instead become trained in a skill of your choice. You also become trained in swashbuckler class DC. You don't gain any other effects of your chosen style.
+Choose a swashbuckler style. You gain the [[DATABASE/class_/Swashbuckler|panache]] class feature, and you can gain panache in all the ways a swashbuckler of your style can. You become trained in [[DATABASE/skill/Acrobatics|Acrobatics]] or the skill associated with your style. If you were already trained in both skills, you instead become trained in a skill of your choice. You also become trained in swashbuckler class DC. You don't gain any other effects of your chosen style.
 **Special** You can't select another dedication feat until you have gained two other feats from the swashbuckler archetype.
 
 ## Swashbuckler Dedication Leads To...
 
-[[Basic Flair]], [[Evasiveness (Swashbuckler)]], [[Finishing Precision]], [[Swashbuckler's Riposte]], [[Swashbuckler's Speed]]
+[[DATABASE/feat/Basic Flair|Basic Flair]], [[DATABASE/feat/Evasiveness (Swashbuckler)|Evasiveness (Swashbuckler)]], [[DATABASE/feat/Finishing Precision|Finishing Precision]], [[DATABASE/feat/Swashbuckler's Riposte|Swashbuckler's Riposte]], [[DATABASE/feat/Swashbuckler's Speed|Swashbuckler's Speed]]
 
 ## Traits
 

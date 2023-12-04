@@ -11,6 +11,7 @@ name: Collateral Thrash
 prerequisite: '[[DATABASE/feat/Thrash|Thrash]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,15 +25,15 @@ type: Feat
 # Collateral Thrash <span class="item-type">Feat 16</span>
 
 <span class="item-trait">Barbarian</span><span class="item-trait">Rage</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Thrash]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/feat/Thrash|Thrash]]
 
 ---
-When you [[Thrash]] a grabbed foe, you smack that foe into another nearby. Another foe adjacent to the grabbed foe also takes your Thrash damage, with a basic Reflex save against your class DC.
+When you [[DATABASE/feat/Thrash|Thrash]] a grabbed foe, you smack that foe into another nearby. Another foe adjacent to the grabbed foe also takes your Thrash damage, with a basic Reflex save against your class DC.
 
 ## Collateral Thrash Leads To...
 
-[[Whirlwind Toss]]
+[[DATABASE/feat/Whirlwind Toss|Whirlwind Toss]]
 
 ## Traits
 

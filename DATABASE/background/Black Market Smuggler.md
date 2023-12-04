@@ -6,6 +6,7 @@ id: '74'
 name: Black Market Smuggler
 prerequisite: null
 rarity: null
+rus_type_level: null
 skill: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
 subcategory: regional
@@ -15,8 +16,8 @@ type: null
 ---
 # Black Market Smuggler<span class="item-type">Background</span>
 
-**Source** [[World Guide]] 
+**Source** [[DATABASE/source/World Guide|World Guide]] 
 **Region** Golden Road
 You know how to work the less-than-legal side of the region’s markets and know how to slip contraband past the authorities.
 Choose two ability boosts. One must be to **Wisdom** or **Charisma**, and one is a free ability boost.
-You're trained in the [[Stealth]] skill, and the [[Lore]] skill. You gain the [[Experienced Smuggler]] skill feat.
+You're trained in the [[DATABASE/skill/Stealth|Stealth]] skill, and the [[DATABASE/skill/Lore|Underworld Lore]] skill. You gain the [[DATABASE/feat/Experienced Smuggler|Experienced Smuggler]] skill feat.

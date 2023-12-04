@@ -63,19 +63,19 @@ wisdom: '+2'
 # Bone Shard Toughs
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 16
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
 # Bone Shard Toughs<span class="item-type">Creature 0</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 181. Zombie Feast]]
+**Source** [[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie Feast]]
 **Perception** +6
-**Languages** [[Common]]
-**Skills** [[Acrobatics]] +5, [[Athletics]] +5, [[Lore]] +4, [[Stealth]] +5
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +5, [[DATABASE/skill/Athletics|Athletics]] +5, [[DATABASE/skill/Lore|Graydirge Lore]] +4, [[DATABASE/skill/Stealth|Stealth]] +5
 **Str** +1, **Dex** +3, **Con** +2, **Int** +0, **Wis** +2, **Cha** +0
-**Items** bone shards, [[Lantern]], [[Leather Armor]]
+**Items** bone shards, [[DATABASE/equipment/Lantern|lantern]], [[DATABASE/armor/Leather Armor|leather armor]]
 
 ---
 **AC** 15; **Fort** +6, **Ref** +7, **Will** +4
@@ -83,4 +83,4 @@ This creature did not include a description.
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> bone shard +8 [+3/-2] (finesse), **Damage** 1d6+2 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> bone shard +8 [+3/-2] (thrown 20 feet), **Damage** 1d6+2 piercing</span><span class="in-box-ability">**Puncture** <span class="action-icon">2</span> (attack) **Requirements** The tough has two bone shards in hand; **Effect** The tough attempts to use one shard of bone to hammer another into a creature, creating a gaping wound. The tough attempts an [[Athletics]] check against the target's Reflex DC. On a hit, the target takes the listed bone shard damage and 1d4 [[Persistent Damage]].</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> bone shard +8 [+3/-2] (finesse), **Damage** 1d6+2 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> bone shard +8 [+3/-2] (thrown 20 feet), **Damage** 1d6+2 piercing</span><span class="in-box-ability">**Puncture** <span class="action-icon">2</span> (attack) **Requirements** The tough has two bone shards in hand; **Effect** The tough attempts to use one shard of bone to hammer another into a creature, creating a gaping wound. The tough attempts an [[DATABASE/skill/Athletics|Athletics]] check against the target's Reflex DC. On a hit, the target takes the listed bone shard damage and 1d4 [[DATABASE/condition/Persistent Damage|persistent bleed damage]].</span>

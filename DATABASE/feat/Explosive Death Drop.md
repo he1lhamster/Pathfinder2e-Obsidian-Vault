@@ -13,6 +13,7 @@ rarity: Common
 requirement: You are in [[DATABASE/feat/Rain of Embers Stance|Rain of Embers Stance]]
   and have a target [[DATABASE/condition/Grabbed|grabbed]] or [[DATABASE/condition/Restrained|restrained]]
   .
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
 subcategory: null
@@ -26,13 +27,13 @@ type: Feat
 # Explosive Death Drop <span class="action-icon">1</span> <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Fire</span><span class="item-trait">Monk</span>
-**Source** [[PFS Guide]]
-**Prerequisites** [[Blazing Talon Surge]]
-**Requirements** You are in [[Rain of Embers Stance]] and have a target [[Grabbed]] or [[Restrained]].
+**Source** [[DATABASE/source/PFS Guide|PFS Guide]]
+**Prerequisites** [[DATABASE/feat/Blazing Talon Surge|Blazing Talon Surge]]
+**Requirements** You are in [[DATABASE/feat/Rain of Embers Stance|Rain of Embers Stance]] and have a target [[DATABASE/condition/Grabbed|grabbed]] or [[DATABASE/condition/Restrained|restrained]].
 
 ---
-You lift your enemy into the air before bringing them crashing down with a fiery detonation. Roll an [[Athletics]] check against your target's Fortitude DC. You take a –1 circumstance penalty to your check if the target is one size larger than you and a –3 circumstance penalty if it's larger than that. You gain a +1 circumstance bonus to your check if the target is one size smaller than you and a +3 circumstance bonus if it's smaller than that.
-**Critical Success** The target takes 12d6 fire damage and falls [[Prone]] in an unoccupied adjacent square of your choice. The target is no longer grabbed. The target and any creature adjacent to it also each take 1d6 [[Persistent Damage]].
+You lift your enemy into the air before bringing them crashing down with a fiery detonation. Roll an [[DATABASE/skill/Athletics|Athletics]] check against your target's Fortitude DC. You take a –1 circumstance penalty to your check if the target is one size larger than you and a –3 circumstance penalty if it's larger than that. You gain a +1 circumstance bonus to your check if the target is one size smaller than you and a +3 circumstance bonus if it's smaller than that.
+**Critical Success** The target takes 12d6 fire damage and falls [[DATABASE/condition/Prone|prone]] in an unoccupied adjacent square of your choice. The target is no longer grabbed. The target and any creature adjacent to it also each take 1d6 [[DATABASE/condition/Persistent Damage|persistent fire damage]].
 **Success** As critical success, but the target takes 6d6 fire damage instead of 12d6, and creatures don't take persistent fire damage.
 **Failure** The target is no longer grabbed.
 **Critical Failure** As failure, but you fall prone.
@@ -45,6 +46,6 @@ Effects with the fire trait deal fire damage or either conjure or manipulate fir
 
 ### Rain of Embers Style
 
-**Source** [[PFS Guide]]
+**Source** [[DATABASE/source/PFS Guide|PFS Guide]]
 The martial artist Meleeka Sanvara (CN female human monk) originally met agents of the Pathfinder Society as an enemy when the agents were sent to retrieve an artifact she had stolen. Now, Meleeka works as a Pathfinder agent and occasionally shares the knowledge of her family's unique martial arts techniques with agents who earn her trust.
-**Related Feats**: [[Blazing Talon Surge]], [[Rain of Embers Stance]]
+**Related Feats**: [[DATABASE/feat/Blazing Talon Surge|Blazing Talon Surge]], [[DATABASE/feat/Rain of Embers Stance|Rain of Embers Stance]]

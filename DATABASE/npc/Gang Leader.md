@@ -75,28 +75,28 @@ wisdom: '-1'
 # Gang Leader
 
 Cutthroats, killers, thieves, and toughs prey upon the vulnerable of society. Directing their activities and keeping them in line are the duties of the gang leader.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 23
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 23
 **Unspecific Lore**: DC 21
 **Specific Lore**: DC 18
 
 # Gang Leader<span class="item-type">Creature 7</span>
 
 <span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Perception** +14
-**Languages** [[Common]]
-**Skills** [[Acrobatics]] +13, [[Athletics]] +13, [[Deception]] +15, [[Intimidation]] +17, [[Society]] +11, [[Stealth]] +13, [[Thievery]] +15, [[Lore]] +15
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +13, [[DATABASE/skill/Athletics|Athletics]] +13, [[DATABASE/skill/Deception|Deception]] +15, [[DATABASE/skill/Intimidation|Intimidation]] +17, [[DATABASE/skill/Society|Society]] +11, [[DATABASE/skill/Stealth|Stealth]] +13, [[DATABASE/skill/Thievery|Thievery]] +15, [[DATABASE/skill/Lore|Underworld Lore]] +15
 **Str** +4, **Dex** +4, **Con** +2, **Int** +2, **Wis** -1, **Cha** +4
-**Items** [[Shortsword]], [[Healing Potion]], [[Sling]], [[Studded Leather Armor]], [[Tanglefoot Bag]]
+**Items** [[DATABASE/weapon/Shortsword|+1 shortsword]], [[DATABASE/equipment/Healing Potion|minor healing potion]], [[DATABASE/weapon/Sling|sling (10 bullets)]], [[DATABASE/armor/Studded Leather Armor|studded leather armor]], [[DATABASE/equipment/Tanglefoot Bag|tanglefoot bag]]
 
 ---
 **AC** 26; **Fort** +13, **Ref** +17, **Will** +10
 **HP** 104
-<span class="in-box-ability">**Deny Advantage** The gang leader isn't flat-footed to creatures of 7th level or lower that are [[Hidden]], [[Undetected]], flanking, or using surprise attack.</span><span class="in-box-ability">**Evasion** When the gang leader rolls a success on a Reflex save, they get a critical success instead.</span><span class="in-box-ability">**Surprise Attack** On the first round of combat, if the gang leader rolls [[Deception]] or [[Stealth]] for initiative, creatures who haven't acted are [[Flat-Footed]] to the gang leader.</span><span class="in-box-ability">**Nimble Dodge <span class="action-icon">5</span> ** **Trigger** The gang leader is targeted with an attack by an attacker they can see; **Effect** The gang leader gains a +2 circumstance bonus to AC against the triggering attack.</span>
+<span class="in-box-ability">**Deny Advantage** The gang leader isn't flat-footed to creatures of 7th level or lower that are [[DATABASE/condition/Hidden|hidden]], [[DATABASE/condition/Undetected|undetected]], flanking, or using surprise attack.</span><span class="in-box-ability">**Evasion** When the gang leader rolls a success on a Reflex save, they get a critical success instead.</span><span class="in-box-ability">**Surprise Attack** On the first round of combat, if the gang leader rolls [[DATABASE/skill/Deception|Deception]] or [[DATABASE/skill/Stealth|Stealth]] for initiative, creatures who haven't acted are [[DATABASE/condition/Flat-Footed|flat-footed]] to the gang leader.</span><span class="in-box-ability">**Nimble Dodge <span class="action-icon">5</span> ** **Trigger** The gang leader is targeted with an attack by an attacker they can see; **Effect** The gang leader gains a +2 circumstance bonus to AC against the triggering attack.</span>
 
 ---
 **Speed** 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> shortsword +18 [+14/+10] (agile, magical, versatile S), **Damage** 1d6+10 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> sling +18 [+13/+8] (propulsive, range increment 50 feet, reload 1), **Damage** 1d6+8 bludgeoning</span><span class="in-box-ability">**Brutal Rally** <span class="action-icon">5</span> (auditory, emotion, linguistic, mental) **Trigger** The gang leader rolls a critical hit against a creature; **Effect** All allies that can see the gang leader gain a +1 circumstance bonus to attack rolls until the start of the gang leader's next turn.</span><span class="in-box-ability">**Gang Up** Any enemy is [[Flat-Footed]] against the gang leader's melee attacks due to flanking as long as the enemy is within melee reach of both the gang leader and one of the gang leader's allies.</span><span class="in-box-ability">**Quick Draw** <span class="action-icon">1</span> The gang leader Interacts to draw a weapon, then Strikes with that weapon.</span><span class="in-box-ability">**[[Sneak Attack]]** The gang leader deals an extra 2d6 precision damage to [[Flat-Footed]] creatures.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> shortsword +18 [+14/+10] (agile, magical, versatile S), **Damage** 1d6+10 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> sling +18 [+13/+8] (propulsive, range increment 50 feet, reload 1), **Damage** 1d6+8 bludgeoning</span><span class="in-box-ability">**Brutal Rally** <span class="action-icon">5</span> (auditory, emotion, linguistic, mental) **Trigger** The gang leader rolls a critical hit against a creature; **Effect** All allies that can see the gang leader gain a +1 circumstance bonus to attack rolls until the start of the gang leader's next turn.</span><span class="in-box-ability">**Gang Up** Any enemy is [[DATABASE/condition/Flat-Footed|flat-footed]] against the gang leader's melee attacks due to flanking as long as the enemy is within melee reach of both the gang leader and one of the gang leader's allies.</span><span class="in-box-ability">**Quick Draw** <span class="action-icon">1</span> The gang leader Interacts to draw a weapon, then Strikes with that weapon.</span><span class="in-box-ability">**[[DATABASE/monsterability/Sneak Attack|Sneak Attack]]** The gang leader deals an extra 2d6 precision damage to [[DATABASE/condition/Flat-Footed|flat-footed]] creatures.</span>
 
 ###  Gang Structure
 

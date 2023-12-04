@@ -11,6 +11,7 @@ name: Wrath of the First Ghoul
 prerequisite: '[[DATABASE/feat/Secret Eater|Secret Eater]]'
 rarity: Rare
 requirement: null
+rus_type_level: null
 school: Enchantment
 source: '[[DATABASE/source/Pathfinder 184. The Ghouls Hunger|Pathfinder #184: The
   Ghouls Hunger]]'
@@ -31,13 +32,13 @@ type: Feat
 # Wrath of the First Ghoul <span class="action-icon">2</span> <span class="item-type">Feat 20</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Archetype</span><span class="item-trait">Death</span><span class="item-trait">Divine</span><span class="item-trait">Enchantment</span><span class="item-trait">Flourish</span><span class="item-trait">Mental</span><span class="item-trait">Occult</span>
-**Source** [[Pathfinder 184. The Ghouls Hunger]]
-**Archetype** [[Ghoul]]
+**Source** [[DATABASE/source/Pathfinder 184. The Ghouls Hunger|Pathfinder #184: The Ghouls Hunger]]
+**Archetype** [[DATABASE/archetype/Ghoul|Ghoul]]
 **Frequency** Once per day
-**Prerequisites** [[Secret Eater]]
+**Prerequisites** [[DATABASE/feat/Secret Eater|Secret Eater]]
 
 ---
-The ravenous maggots inside you become capable of exploding forth from your attacks into the wounds of an opponent, whispering telepathic words of destruction that invoke horrific flashbacks of Kabriri's transformation from elf to [[Ghoul]] or psychic images of hundreds of maggots bursting from the victim's flesh all at once. Make a melee Strike against a target creature. If it hits, in addition to taking damage from the Strike, the target is affected by a 10th-level casting of [[Power Word Kill]]. If Wrath of the First Ghoul is used against a target elf, [[Leng Ghoul]], or worshipper of [[Pharasma]] and does not instantly kill the creature, the target takes double damage.
+The ravenous maggots inside you become capable of exploding forth from your attacks into the wounds of an opponent, whispering telepathic words of destruction that invoke horrific flashbacks of Kabriri's transformation from elf to [[DATABASE/monsterfamily/Ghoul|ghoul]] or psychic images of hundreds of maggots bursting from the victim's flesh all at once. Make a melee Strike against a target creature. If it hits, in addition to taking damage from the Strike, the target is affected by a 10th-level casting of [[DATABASE/spell/Power Word Kill|power word kill]]. If Wrath of the First Ghoul is used against a target elf, [[DATABASE/monster/Leng Ghoul|Leng ghoul]], or worshipper of [[DATABASE/deity/Pharasma|Pharasma]] and does not instantly kill the creature, the target takes double damage.
 
 ## Traits
 
@@ -71,4 +72,4 @@ This magic comes from the occult tradition, calling upon bizarre and ephemeral m
 
 **Rare:**
 
-This rarity indicates that a rules element is very difficult to find in the game world. A rare feat, spell, item or the like is available to players only if the GM decides to include it in the game, typically through discovery during play. Creatures with this trait are rare. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creatures is increased by 5.
+This rarity indicates that a rules element is very difficult to find in the game world. A rare feat, spell, item or the like is available to players only if the GM decides to include it in the game, typically through discovery during play. Creatures with this trait are rare. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creatures is increased by 5.

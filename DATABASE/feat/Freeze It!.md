@@ -11,6 +11,7 @@ name: Freeze It!
 prerequisite: '[[DATABASE/heritage/Snow Goblin|Snow Goblin]] heritage'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 subcategory: null
@@ -23,11 +24,11 @@ type: Feat
 # Freeze It! <span class="action-icon">1</span> <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Goblin</span>
-**Source** [[Character Guide]] 
-**Prerequisites** [[Snow Goblin]]
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
+**Prerequisites** [[DATABASE/heritage/Snow Goblin|Snow Goblin]]
 
 ---
-You are no rime hag or Jadwiga, but the magic of the north has still left a mark on you. Frigid ice runs through your veins, and you can expel frost from your body to freeze your foes. Attempt an [[Athletics]] check against the Fortitude DC of an adjacent foe. If you have master proficiency in Athletics, you can affect up to two adjacent foes, rolling one Athletics check against each foe.
+You are no rime hag or Jadwiga, but the magic of the north has still left a mark on you. Frigid ice runs through your veins, and you can expel frost from your body to freeze your foes. Attempt an [[DATABASE/skill/Athletics|Athletics]] check against the Fortitude DC of an adjacent foe. If you have master proficiency in Athletics, you can affect up to two adjacent foes, rolling one Athletics check against each foe.
 **Critical Success** The target becomes clumsy 2 for 1 round.
 **Success** The target becomes clumsy 1 for 1 round.
 **Critical Failure** The target is temporarily immune for 1 minute.
@@ -36,4 +37,4 @@ You are no rime hag or Jadwiga, but the magic of the north has still left a mark
 
 **Goblin:**
 
-A creature with this trait can be one of several kinds of creature, including [[Goblin]], [[Hobgoblin]], and [[Bugbear]]. Goblins tend to have darkvision. An ability with this trait can be used or chosen only by goblins. A weapon with this trait is created and used by goblins.
+A creature with this trait can be one of several kinds of creature, including [[DATABASE/ancestry/Goblin|goblins]], [[DATABASE/ancestry/Hobgoblin|hobgoblins]], and [[DATABASE/monsterfamily/Bugbear|bugbears]]. Goblins tend to have darkvision. An ability with this trait can be used or chosen only by goblins. A weapon with this trait is created and used by goblins.

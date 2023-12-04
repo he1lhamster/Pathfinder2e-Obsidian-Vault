@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Collar of the Eternal Bond<span class="item-type">Item 7</span>
 
 <span class="item-trait">Conjuration</span><span class="item-trait">Eidolon</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Price** 330 gp
 **Usage** worn collar; **Bulk** L
 

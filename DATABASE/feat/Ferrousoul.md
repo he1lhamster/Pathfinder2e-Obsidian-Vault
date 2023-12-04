@@ -11,6 +11,7 @@ name: Ferrousoul
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Ferrousoul <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Lineage</span><span class="item-trait">Talos</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
 Whether in their pure elemental forms or as part of an alloy such as steel, the elemental metal in your soul resonates strongly with iron, bronze, and other sturdy, practical metals suitable for weaponry. Your fist attacks gain the modular B, P, or S trait and lose the nonlethal trait. Your fist's damage die increases to 1d6.
@@ -37,4 +38,4 @@ A feat with this trait indicates a character's descendance from a particular typ
 
 **Talos:**
 
-Taloses are [[Planar Scion]] descended from [[Zuhra]].
+Taloses are [[DATABASE/monsterfamily/Planar Scion|planar scions]] descended from [[DATABASE/monster/Zuhra|zuhras]].

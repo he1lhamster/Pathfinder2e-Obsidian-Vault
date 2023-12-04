@@ -89,24 +89,24 @@ wisdom: '+7'
 
 A screaming sulfur is a creature born from gasping death and suffocating suffering. When an earthquake or other geological phenomena releases toxic gases, these gases can build up beneath lakes and other large bodies of water. Eventually, they escape the water, expanding into massive clouds that cover the immediate area. Its silent, unexpected arrival can take thousands of lives in an instant. Confused, in pain, and desperate for a way out, the dying souls become trapped in the noxious cloud and amass into this horrifying creature.
  While not truly undead, a screaming sulfur shares many similarities with undead creatures, including the malice of vengeful spirits and the hatred of all living creatures who breathe freely and painlessly. A screaming sulfur resembles a cloud made of countless, featureless faces, mouths agape and releasing ghastly wails.
-**Recall Knowledge - Spirit ([[Occultism]])**: DC 29
+**Recall Knowledge - Spirit ([[DATABASE/skill/Occultism|Occultism]])**: DC 29
 **Unspecific Lore**: DC 27
 **Specific Lore**: DC 24
 
 # Screaming Sulfur<span class="item-type">Creature 10</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Huge</span><span class="item-trait">Incorporeal</span><span class="item-trait">Spirit</span>
-**Source** [[Pathfinder 171. Hurricane's Howl]]
-**Perception** +22; [[Darkvision]]
-**Languages** [[Common]]
-**Skills** [[Stealth]] +22
+**Source** [[DATABASE/source/Pathfinder 171. Hurricane's Howl|Pathfinder #171: Hurricane's Howl]]
+**Perception** +22; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Stealth|Stealth]] +22
 **Str** -5, **Dex** +7, **Con** +0, **Int** +3, **Wis** +7, **Cha** +3
 **Site Bound** A screaming sulfur becomes bound to the location where the people whose souls make up its form died. It can stray up to 1,000 feet from this site of death, or up to 100 feet from the edges of any waterway associated with its death, whichever distance is shorter.
 
 ---
 **AC** 27; **Fort** +16, **Ref** +20, **Will** +20
-**HP** 125 ([[Negative Healing]], rejuvenation); **Immunities** [[Death Domain]] effects, disease, [[Paralyzed]], poison, precision, [[Unconscious]]; **Resistances** all damage 10 (except force, [[Ghost Touch]], or positive; double resistance vs. non-magical)
-<span class="in-box-ability">**Agonizing Cries** (auditory, aura, emotion, mental) 30 feet. The screaming sulfur constantly shrieks with the pained wails of countless spirits. A living creature that enters or starts its turn in the aura must succeed at a DC 26 Will save or become [[Frightened]] as long as it remains in the aura (frightened 2 on a critical failure). A creature that succeeds is temporarily immune for 1 hour.</span><span class="in-box-ability">**Rejuvenation** (divine, necromancy) Blessing the site where the screaming sulfur was formed and burying whatever dead remain allows the spirits within the screaming sulfur to move on to the afterlife, rendering it inert.</span>
+**HP** 125 ([[DATABASE/monsterability/Negative Healing|negative healing]], rejuvenation); **Immunities** [[DATABASE/domain/Death Domain|death]] effects, disease, [[DATABASE/condition/Paralyzed|paralyzed]], poison, precision, [[DATABASE/condition/Unconscious|unconscious]]; **Resistances** all damage 10 (except force, [[DATABASE/equipment/Ghost Touch|ghost touch]], or positive; double resistance vs. non-magical)
+<span class="in-box-ability">**Agonizing Cries** (auditory, aura, emotion, mental) 30 feet. The screaming sulfur constantly shrieks with the pained wails of countless spirits. A living creature that enters or starts its turn in the aura must succeed at a DC 26 Will save or become [[DATABASE/condition/Frightened|frightened 1]] as long as it remains in the aura (frightened 2 on a critical failure). A creature that succeeds is temporarily immune for 1 hour.</span><span class="in-box-ability">**Rejuvenation** (divine, necromancy) Blessing the site where the screaming sulfur was formed and burying whatever dead remain allows the spirits within the screaming sulfur to move on to the afterlife, rendering it inert.</span>
 
 ---
 **Speed** fly 40 feet

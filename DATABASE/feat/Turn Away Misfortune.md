@@ -11,6 +11,7 @@ name: Turn Away Misfortune
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -29,11 +30,11 @@ type: Feat
 # Turn Away Misfortune <span class="action-icon">5</span> <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Esoterica</span><span class="item-trait">Fortune</span><span class="item-trait">Manipulate</span><span class="item-trait">Occult</span><span class="item-trait">Thaumaturge</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Trigger** You would attempt a roll affected by a misfortune effect.
 
 ---
-You perform a superstition, such as casting salt over your shoulder to ward off bad luck. Turn Away Misfortune's fortune trait cancels out the misfortune effect, causing you to roll normally. As normal, you can apply only one fortune ability to a roll, so if you Turned Away Misfortune on an attack roll, you couldn't also use an ability like [[Halfling Luck]] to alter the roll further.
+You perform a superstition, such as casting salt over your shoulder to ward off bad luck. Turn Away Misfortune's fortune trait cancels out the misfortune effect, causing you to roll normally. As normal, you can apply only one fortune ability to a roll, so if you Turned Away Misfortune on an attack roll, you couldn't also use an ability like [[DATABASE/feat/Halfling Luck|Halfling Luck]] to alter the roll further.
 
 ## Traits
 

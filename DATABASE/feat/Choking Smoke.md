@@ -11,6 +11,7 @@ name: Choking Smoke
 prerequisite: '[[DATABASE/feat/Smoldering Explosion|Smoldering Explosion]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
 subcategory: null
@@ -23,12 +24,12 @@ type: Feat
 # Choking Smoke <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Grand Bazaar]]
-**Archetype** [[Spell Trickster]]
-**Prerequisites** [[Smoldering Explosion]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
+**Archetype** [[DATABASE/archetype/Spell Trickster|Spell Trickster]]
+**Prerequisites** [[DATABASE/feat/Smoldering Explosion|Smoldering Explosion]]
 
 ---
-When you cast [[Fireball]] heightened to at least 6th level, you can modify the spell's standard effects as follows: Reduce the spell's damage by 6d6. Your fireball leaves behind a lingering cloud of toxic smoke in its area. While it's smoke instead of mist, this cloud otherwise has the effects of [[Stinking Cloud]].
+When you cast [[DATABASE/spell/Fireball|fireball]] heightened to at least 6th level, you can modify the spell's standard effects as follows: Reduce the spell's damage by 6d6. Your fireball leaves behind a lingering cloud of toxic smoke in its area. While it's smoke instead of mist, this cloud otherwise has the effects of [[DATABASE/spell/Stinking Cloud|stinking cloud]].
 
 ## Traits
 

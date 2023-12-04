@@ -22,6 +22,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: basicReflex
 school: Evocation
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -39,9 +40,9 @@ type: Spell
 # Acidic Burst<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Acid</span><span class="item-trait">Evocation</span>
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Traditions** arcane, primal
-**Deity** [[Geryon]]
+**Deity** [[DATABASE/deity/Geryon|Geryon]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Area** 5-foot emanation
 **Saving Throw** basic Reflex

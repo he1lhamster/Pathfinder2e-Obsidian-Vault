@@ -11,6 +11,7 @@ name: Exude Abyssal Corruption
 prerequisite: '[[DATABASE/feat/Living Vessel Dedication|Living Vessel Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -25,9 +26,9 @@ type: Feat
 # Exude Abyssal Corruption <span class="action-icon">1</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Manipulate</span><span class="item-trait">Poison</span>
-**Source** [[Dark Archive]]
-**Archetype** [[Living Vessel]]
-**Prerequisites** [[Living Vessel Dedication]]; your entity is a [[Demon]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Archetype** [[DATABASE/archetype/Living Vessel|Living Vessel]]
+**Prerequisites** [[DATABASE/feat/Living Vessel Dedication|Living Vessel Dedication]]; your entity is a [[DATABASE/monsterfamily/Demon|demon]]
 
 ---
 Most of the changes from the demon within you have harmed you so far, but you've found a way to expel some of the corruption within you to poison others. Until the beginning of your next turn, you and your weapons are covered in toxic sludge or another similar manifestation of the demonic corruption; your melee Strikes deal an additional 1d6 poison damage, and each time a creature hits you with a melee unarmed attack or otherwise touches you, it takes 1d6 poison damage.

@@ -68,20 +68,20 @@ wisdom: '+3'
 # Prazil
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 30
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 30
 **Unspecific Lore**: DC 28
 **Specific Lore**: DC 25
 
 # Prazil<span class="item-type">Creature 5</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CN</span><span class="trait-size item-trait">Small</span><span class="item-trait">Humanoid</span><span class="item-trait">Kobold</span>
-**Source** [[Kingmaker Adventure Path]]
-Male [[Kobold]] spy
-**Perception** +12; [[Darkvision]]
-**Languages** [[Common]], [[Draconic]]
-**Skills** [[Acrobatics]] +13, [[Deception]] +10, [[Stealth]] +13, [[Survival]] +12, [[Thievery]] +13
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
+Male [[DATABASE/monsterfamily/Kobold|kobold]] spy
+**Perception** +12; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Draconic|Draconic]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +13, [[DATABASE/skill/Deception|Deception]] +10, [[DATABASE/skill/Stealth|Stealth]] +13, [[DATABASE/skill/Survival|Survival]] +12, [[DATABASE/skill/Thievery|Thievery]] +13
 **Str** +1, **Dex** +4, **Con** +3, **Int** +0, **Wis** +3, **Cha** +1
-**Items** _+1 [[Silver]] [[Warhammer]]_, [[Breastplate]], [[Steel Shield]]
+**Items** _+1 [[DATABASE/equipment/Silver|silver]] [[DATABASE/weapon/Warhammer|warhammer]]_, [[DATABASE/armor/Breastplate|breastplate]], [[DATABASE/shield/Steel Shield|steel shield]]
 
 ---
 **AC** 21; **Fort** +11, **Ref** +14, **Will** +17
@@ -89,4 +89,4 @@ Male [[Kobold]] spy
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _warhammer_ +13 [+8/+3] (shove), **Damage** 1d8+3 budgeoning</span><span class="in-box-ability">**Hurried Retreat** <span class="action-icon">1</span> **Requirements** The kobold warrior is adjacent to at least one enemy. **Effect** The kobold warrior Strides up to its Speed plus 5 feet and gains a +2 circumstance bonus to AC against reactions triggered by this movement. It must end this movement in a space that's not adjacent to any enemy.</span><span class="in-box-ability">**Smash Kneecaps** <span class="action-icon">2</span> Prazil attempts a warhammer Strike on a creature that is at least Medium sized and that has legs. He gains a +2 circumstance bonus to his attack roll and deals an extra 1d8 points of damage on a hit. The creature struck must succeed at a DC 22 Fortitude save or have its Speed reduced by 10 feet for 1 minute.</span><span class="in-box-ability">**[[Sneak Attack]]** Prazil deals an extra 2d6 precision damage to lat-footed creatures.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _warhammer_ +13 [+8/+3] (shove), **Damage** 1d8+3 budgeoning</span><span class="in-box-ability">**Hurried Retreat** <span class="action-icon">1</span> **Requirements** The kobold warrior is adjacent to at least one enemy. **Effect** The kobold warrior Strides up to its Speed plus 5 feet and gains a +2 circumstance bonus to AC against reactions triggered by this movement. It must end this movement in a space that's not adjacent to any enemy.</span><span class="in-box-ability">**Smash Kneecaps** <span class="action-icon">2</span> Prazil attempts a warhammer Strike on a creature that is at least Medium sized and that has legs. He gains a +2 circumstance bonus to his attack roll and deals an extra 1d8 points of damage on a hit. The creature struck must succeed at a DC 22 Fortitude save or have its Speed reduced by 10 feet for 1 minute.</span><span class="in-box-ability">**[[DATABASE/monsterability/Sneak Attack|Sneak Attack]]** Prazil deals an extra 2d6 precision damage to lat-footed creatures.</span>

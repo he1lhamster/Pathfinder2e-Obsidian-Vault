@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Shock<span class="item-type">Item 8+</span>
 
 <span class="item-trait">Electricity</span><span class="item-trait">Evocation</span><span class="item-trait">Magical</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** etched onto a weapon; **Bulk** —
 
 ---
@@ -62,11 +63,11 @@ Electric arcs crisscross this weapon, dealing an extra 1d6 electricity damage on
 
 ## Shock<span class="item-type">Item 8</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 500 gp
 
 ## Shock (Greater)<span class="item-type">Item 15</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 6,500 gp
 Electricity damage dealt by this weapon ignores the target’s electricity resistance (and the other creatures’ on a critical hit).

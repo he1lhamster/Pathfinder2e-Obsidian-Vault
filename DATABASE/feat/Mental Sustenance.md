@@ -11,6 +11,7 @@ name: Mental Sustenance
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Mental Sustenance <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Kashrishi</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 
 ---
 You can sustain yourself with the power of your mind. You need only a single serving of food and water each week to avoid starvation or dehydration. You can hold your breath for an additional 5 rounds before running out of air.

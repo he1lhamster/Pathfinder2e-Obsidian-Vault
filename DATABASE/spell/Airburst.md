@@ -20,6 +20,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Pathfinder 169. Kindled Magic|Pathfinder #169: Kindled
@@ -39,7 +40,7 @@ type: Spell
 # Airburst<span class="item-type">Spell 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Air</span><span class="item-trait">Evocation</span>
-**Source** [[Pathfinder 169. Kindled Magic]]
+**Source** [[DATABASE/source/Pathfinder 169. Kindled Magic|Pathfinder #169: Kindled Magic]]
 **Traditions** arcane, primal
 **Cast** <span class="action-icon">1</span> verbal
 **Area** 5-foot emanation; **Targets** all creatures and unattended objects in the area

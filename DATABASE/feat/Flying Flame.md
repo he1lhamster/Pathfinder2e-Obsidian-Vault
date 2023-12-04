@@ -11,6 +11,7 @@ name: Flying Flame
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -26,7 +27,7 @@ type: Feat
 # Flying Flame <span class="action-icon">2</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Fire</span><span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Primal</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
 A Tiny shape of flame appears, taking a form of your choice—such as a bird, an arrow, or a simple sphere. It Flies from you up to 30 feet in a path you choose. Each creature it passes through takes 1d6 fire damage with a basic Reflex save against your class DC. A creature attempts only one save, even if the flame passes through it multiple times.

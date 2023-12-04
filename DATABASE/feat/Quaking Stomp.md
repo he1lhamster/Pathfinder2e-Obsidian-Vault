@@ -11,6 +11,7 @@ name: Quaking Stomp
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -25,11 +26,11 @@ type: Feat
 # Quaking Stomp <span class="action-icon">1</span> <span class="item-type">Feat 20</span>
 
 <span class="item-trait">Barbarian</span><span class="item-trait">Manipulate</span><span class="item-trait">Rage</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Frequency** once per 10 minutes
 
 ---
-You stomp the ground with such force that it creates a minor earthquake, with the effects of the [[Earthquake]] spell.
+You stomp the ground with such force that it creates a minor earthquake, with the effects of the [[DATABASE/spell/Earthquake|earthquake]] spell.
 
 ## Traits
 

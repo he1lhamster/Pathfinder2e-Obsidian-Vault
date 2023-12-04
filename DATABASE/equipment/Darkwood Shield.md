@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -52,7 +53,7 @@ weapon_type: null
 # Darkwood Shield<span class="item-type">Item 8+</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** varies by shield; **Bulk** —
 
 ---
@@ -60,11 +61,11 @@ Darkwood shields are 1 Bulk lighter than normal (or light Bulk if their normal B
 
 ### Base Material
 
-[[Darkwood]]
+[[DATABASE/equipment/Darkwood|Darkwood]]
 
 ## Darkwood Buckler (Standard-Grade)<span class="item-type">Item 8</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 400 gp
 **Bulk** L
 The shield has Hardness 3, HP 12, and BT 6.
@@ -72,7 +73,7 @@ The shield has Hardness 3, HP 12, and BT 6.
 
 ## Darkwood Shield (Standard-Grade)<span class="item-type">Item 8</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 440 gp
 **Bulk** L
 The shield has Hardness 5, HP 20, and BT 10.
@@ -80,7 +81,7 @@ The shield has Hardness 5, HP 20, and BT 10.
 
 ## Darkwood Tower Shield (Standard-Grade)<span class="item-type">Item 8</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 560 gp
 **Bulk** 3
 The shield has Hardness 5, HP 20, and BT 10.
@@ -88,7 +89,7 @@ The shield has Hardness 5, HP 20, and BT 10.
 
 ## Darkwood Buckler (High-Grade)<span class="item-type">Item 16</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 8,000 gp
 **Bulk** L
 The shield has Hardness 6, HP 24, and BT 12.
@@ -96,7 +97,7 @@ The shield has Hardness 6, HP 24, and BT 12.
 
 ## Darkwood Shield (High-Grade)<span class="item-type">Item 16</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 8,800 gp
 **Bulk** L
 The shield has Hardness 8, HP 32, and BT 16.
@@ -104,7 +105,7 @@ The shield has Hardness 8, HP 32, and BT 16.
 
 ## Darkwood Tower Shield (High-Grade)<span class="item-type">Item 16</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 11,200 gp
 **Bulk** 3
 The shield has Hardness 8, HP 32, and BT 16.

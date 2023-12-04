@@ -15,6 +15,7 @@ language:
 max_speed: '25'
 name: Strix
 rarity: Rare
+rus_type_level: null
 size: Medium
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 speed:
@@ -30,7 +31,7 @@ vision: Low-Light Vision
 # Strix
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Humanoid</span><span class="item-trait">Strix</span>
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 _Known as itarii in their own language, strix are reclusive avian humanoids devoted to their homelands and their tribes. They defend their precious communities with broad wingspans and razor talons._
 Strix value ferocity, vengeance, and devotion above all else. Their dark, formidable wingspans and long history of taking revenge for their fallen family members have painted them as winged devils in the eyes of neighboring human populations. In contradiction to their misunderstood nature, strix boast a spiritual, artistic, and compassionate culture that is rarely seen outside of their roosts.
  As strix populations begin to resurge and spread beyond the mountainous region known as the Devil's Perch, their tribes now speckle the landscape of Cheliax and surrounding nations. Soaring over mountains, forests, and beaches, strix are always brought home by the deep connections they share with their kinfolk. If you want a character who is loyal yet enigmatic, fierce yet artistic, and who yearns to soar above the world, you should play a strix.
@@ -38,7 +39,7 @@ Strix value ferocity, vengeance, and devotion above all else. Their dark, formid
 ## You Might...
 
 * Dedicate and endear yourself to your family, friends, or community.
-* Harbor an inherited distrust of [[Human]].
+* Harbor an inherited distrust of [[DATABASE/ancestry/Human|humans]].
 * Keep strangers at arm's length and perhaps exhibit naivete about the world beyond your homeland.
 
 ## Others Probably...
@@ -59,11 +60,11 @@ Strix are rare and reclusive people who cling to their ancestral territories. Th
 ## Alignment and Religion
 
 Due to their deep respect for the rules of a functioning society, strix are rarely chaotic, but some may be flexible on adopting the rules of outside societies. Strix are typically nonreligious and instead use stories from an epic known as the Korrsat Akra, or “The Scattered Nest,” to tell them of their origins and give them direction on their current place in the world. They have a deep investment in the lives of their fellows and experience intense grief at their passing.
- [[Pharasma]] is a common influence among religious strix due to the popularity of religious and spiritual practices honoring the lives and deaths in their beloved community. [[Gozreh]] is also an everyday influence for many strix, who beseech the Wind and the Waves to give them satisfying tailwinds for flight and protect their kin when the sky turns dark with fury. [[Erastil]] and even [[Torag]] represent two versions of social order and may be unifying deities across entire tribes.
+ [[DATABASE/deity/Pharasma|Pharasma]] is a common influence among religious strix due to the popularity of religious and spiritual practices honoring the lives and deaths in their beloved community. [[DATABASE/deity/Gozreh|Gozreh]] is also an everyday influence for many strix, who beseech the Wind and the Waves to give them satisfying tailwinds for flight and protect their kin when the sky turns dark with fury. [[DATABASE/deity/Erastil|Erastil]] and even [[DATABASE/deity/Torag|Torag]] represent two versions of social order and may be unifying deities across entire tribes.
 
 ## Adventurers
 
-Adventuring strix most commonly take the [[Emissary]], [[Hermit]], [[Nomad]], [[Scout]], or [[Street Urchin]] backgrounds. Strix are agile combatants and prudent adventurers who excel as [[Druid]], [[Fighter]], [[Monk]], [[Ranger]], or [[Rogue]].
+Adventuring strix most commonly take the [[DATABASE/background/Emissary|emissary]], [[DATABASE/background/Hermit|hermit]], [[DATABASE/background/Nomad|nomad]], [[DATABASE/background/Scout|scout]], or [[DATABASE/background/Street Urchin|street urchin]] backgrounds. Strix are agile combatants and prudent adventurers who excel as [[DATABASE/class_/Druid|druids]], [[DATABASE/class_/Fighter|fighters]], [[DATABASE/class_/Monk|monks]], [[DATABASE/class_/Ranger|rangers]], or [[DATABASE/class_/Rogue|rogues]].
 
 ## Names
 
@@ -109,14 +110,14 @@ Free
 
 ## Languages
 
-[[Common]]
-[[Strix]]
-Additional languages equal to your Intelligence modifier (if positive). Choose from [[Draconic]], [[Jotun]], Gnome, [[Infernal]], and any other languages to which you have access (such as the languages prevalent in your region).
+[[DATABASE/language/Common|Common]]
+[[DATABASE/language/Strix|Strix]]
+Additional languages equal to your Intelligence modifier (if positive). Choose from [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Jotun|Jotun]], Gnome, [[DATABASE/language/Infernal|Infernal]], and any other languages to which you have access (such as the languages prevalent in your region).
 
 ## Low-Light Vision
 
-You can see in dim light as though it were bright light, so you ignore the [[Concealed]] condition due to dim light.
+You can see in dim light as though it were bright light, so you ignore the [[DATABASE/condition/Concealed|concealed]] condition due to dim light.
 
 ## Wings
 
-All strix possess powerful wings. While not all strix focus on honing their flying skills, a strong flap of their wings allows strix to travel longer distances when jumping. When [[Leap]] horizontally, you move an additional 5 feet. You don't automatically fail your checks to [[High Jump]] or [[Long Jump]] if you don't Stride at least 10 feet first. In addition, when you make a Long Jump, you can jump a distance up to 10 feet further than your [[Athletics]] check result, though still with the normal maximum of your Speed.
+All strix possess powerful wings. While not all strix focus on honing their flying skills, a strong flap of their wings allows strix to travel longer distances when jumping. When [[DATABASE/action/Leap|Leaping]] horizontally, you move an additional 5 feet. You don't automatically fail your checks to [[DATABASE/action/High Jump|High Jump]] or [[DATABASE/action/Long Jump|Long Jump]] if you don't Stride at least 10 feet first. In addition, when you make a Long Jump, you can jump a distance up to 10 feet further than your [[DATABASE/skill/Athletics|Athletics]] check result, though still with the normal maximum of your Speed.

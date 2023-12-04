@@ -11,6 +11,7 @@ name: Occult Resistance
 prerequisite: Expert in [[DATABASE/skill/Occultism|Occultism]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Occult Resistance <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Changeling</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** expert in [[Occultism]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** expert in [[DATABASE/skill/Occultism|Occultism]]
 
 ---
 Your study of occult practices has shown you how to best defend against them. You gain a +1 circumstance bonus to all saving throws against occult effects.
@@ -33,4 +34,4 @@ Your study of occult practices has shown you how to best defend against them. Yo
 
 **Changeling:**
 
-A creature with this trait has the changeling versatile heritage. Changelings are the children of [[Hag]] and members of other humanoid ancestries. An ability with this trait can be used or selected only by changelings.
+A creature with this trait has the changeling versatile heritage. Changelings are the children of [[DATABASE/monsterfamily/Hag|hags]] and members of other humanoid ancestries. An ability with this trait can be used or selected only by changelings.

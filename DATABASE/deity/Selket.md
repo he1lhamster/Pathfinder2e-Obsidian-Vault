@@ -24,6 +24,7 @@ follower_alignment:
 id: '59'
 name: Selket
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Medicine|Medicine]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -33,18 +34,18 @@ type: Deity
 ---
 # Selket (Mistress of the Beautiful House) [CG]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Category** Ancient Osirian Gods
 **Edicts** Avenge the wronged, protect the dead and the vulnerable, use poison and suffocation, heal others
 **Anathema** Poison someone you didn't intend to, harm a creature as punishment for a different creature’s crime, desecrate a corpse
 **Follower Alignments** NG, CG, CN
-**Pantheons** [[Wards of the Pharaoh]]
+**Pantheons** [[DATABASE/deity/Wards of the Pharaoh|Wards of the Pharaoh]]
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Dexterity or Wisdom
-**Divine Font** _[[Heal]]_
-**Divine Skill** [[Medicine]]
-**Favored Weapon** [[Whip]]
-**Domains** [[Healing Domain]], [[Magic Domain]], [[Nature Domain]], [[Protection Domain]]
-**Cleric Spells** 1st: _[[Soothe]]_, 3rd: _[[Paralyze]]_, 6th: _[[Purple Worm Sting]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Dexterity or Wisdom
+**Divine Font** _[[DATABASE/spell/Heal|heal]]_
+**Divine Skill** [[DATABASE/skill/Medicine|Medicine]]
+**Favored Weapon** [[DATABASE/weapon/Whip|whip]]
+**Domains** [[DATABASE/domain/Healing Domain|healing]], [[DATABASE/domain/Magic Domain|magic]], [[DATABASE/domain/Nature Domain|nature]], [[DATABASE/domain/Protection Domain|protection]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Soothe|soothe]]_, 3rd: _[[DATABASE/spell/Paralyze|paralyze]]_, 6th: _[[DATABASE/spell/Purple Worm Sting|purple worm sting]]_

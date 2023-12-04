@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: You are an expert in [[DATABASE/skill/Acrobatics|Acrobatics]] .
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 size: null
@@ -59,10 +60,10 @@ weapon_type: null
 # Mad Mammoth's Juke<span class="item-type">Item 5</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Conjuration</span><span class="item-trait">Consumable</span><span class="item-trait">Magical</span><span class="item-trait">Talisman</span><span class="item-trait">Teleportation</span>
-**Source** [[Pathfinder 175. Broken Tusk Moon]]
+**Source** [[DATABASE/source/Pathfinder 175. Broken Tusk Moon|Pathfinder #175: Broken Tusk Moon]]
 **Price** 30 gp
 **Usage** affixed to armor; **Bulk** —
-**Activate** <span class="action-icon">4</span> envision **Trigger** You would be injured by an effect that would bury you, such as an avalanche or a tunnel collapse; **Requirements** You are an expert in [[Acrobatics]].
+**Activate** <span class="action-icon">4</span> envision **Trigger** You would be injured by an effect that would bury you, such as an avalanche or a tunnel collapse; **Requirements** You are an expert in [[DATABASE/skill/Acrobatics|Acrobatics]].
 
 ---
 This small, fragile tusk came from a very young mammoth. It's filled with ice-cold glacial water and capped with a carved piece of ivory. When you crush the tusk, the water rushes around you in an instant as you twist away from impending disaster with a supernatural flourish. You teleport to an unoccupied space within 200 feet that you can see, bringing along all your equipment. You can't bring any other creature with you, even in an extradimensional space.

@@ -16,6 +16,7 @@ price: 50 gp
 rarity: Uncommon
 reflex: null
 resistance: null
+rus_type_level: null
 school: null
 size: Large
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
@@ -28,7 +29,7 @@ type: Vehicle
 # Automated Cycle<span class="item-type">Vehicle 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-size item-trait">Large</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 50 gp
 
 ---
@@ -37,7 +38,7 @@ This clockwork cycle provides most of its mobility via cogs and gears, which all
 ---
 **Space** 5 feet long, 10 feet wide, 3 feet high
 **Crew** 1 pilot; **Passengers** 2
-**Piloting Check** [[Lore]] (DC 15) or [[Crafting]] (DC 17)
+**Piloting Check** [[DATABASE/skill/Lore|Driving Lore]] (DC 15) or [[DATABASE/skill/Crafting|Crafting]] (DC 17)
 
 ---
 **AC** 11; **Fort** +7

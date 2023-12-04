@@ -11,6 +11,7 @@ name: Head Stomp
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Head Stomp <span class="action-icon">1</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Rogue</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
-Make an unarmed melee attack against a [[Prone]] target. On a hit, the target becomes [[Flat-Footed]] to all attacks until the end of your next turn.
+Make an unarmed melee attack against a [[DATABASE/condition/Prone|prone]] target. On a hit, the target becomes [[DATABASE/condition/Flat-Footed|flat-footed]] to all attacks until the end of your next turn.

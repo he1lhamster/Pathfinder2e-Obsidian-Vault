@@ -11,6 +11,7 @@ name: Great Tengu Form
 prerequisite: '[[DATABASE/feat/Long-Nosed Form|Long-Nosed Form]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,11 +24,11 @@ type: Feat
 # Great Tengu Form <span class="item-type">Feat 17</span>
 
 <span class="item-trait">Tengu</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** [[Long-Nosed Form]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** [[DATABASE/feat/Long-Nosed Form|Long-Nosed Form]]
 
 ---
-You take on the imposing form of a large, winged oni. Once per day, as part of using Long-Nosed Form, you also gain the benefits of 4th-level [[Enlarge]] and [[Fly]]. This lasts for 5 minutes or until you shift out of your Long-Nosed Form, whichever happens first.
+You take on the imposing form of a large, winged oni. Once per day, as part of using Long-Nosed Form, you also gain the benefits of 4th-level [[DATABASE/spell/Enlarge|enlarge]] and [[DATABASE/spell/Fly|fly]]. This lasts for 5 minutes or until you shift out of your Long-Nosed Form, whichever happens first.
 
 ## Traits
 

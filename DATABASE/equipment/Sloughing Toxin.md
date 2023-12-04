@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: DC 25 Fortitude
 school: null
 size: null
@@ -61,7 +62,7 @@ weapon_type: null
 # Sloughing Toxin<span class="item-type">Item 7</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Injury</span><span class="item-trait">Poison</span>
-**Source** [[Pathfinder 164. Hands of the Devil]]
+**Source** [[DATABASE/source/Pathfinder 164. Hands of the Devil|Pathfinder #164: Hands of the Devil]]
 **Price** 60 gp
 **Usage** held in 2 hands; **Bulk** L
 **Activate** <span class="action-icon">2</span> Interact

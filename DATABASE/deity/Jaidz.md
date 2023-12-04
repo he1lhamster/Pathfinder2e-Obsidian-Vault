@@ -24,6 +24,7 @@ follower_alignment:
 id: '122'
 name: Jaidz
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Intimidation|Intimidation]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -33,7 +34,7 @@ type: Deity
 ---
 # Jaidz (Fearless Claw) [NG]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Category** Empyreal Lords
 **Edicts** Forgive cowards and offer them guidance, encourage others to test their mettle, face and learn from your fears
 **Anathema** Punish another creature for cowardice, routinely avoid that which scares you
@@ -41,9 +42,9 @@ type: Deity
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Strength or Wisdom
-**Divine Font** _[[Heal]]_
-**Divine Skill** [[Intimidation]]
-**Favored Weapon** [[Shortsword]]
-**Domains** [[Confidence Domain]], [[Nightmares Domain]], [[Protection Domain]], [[Travel Domain]]
-**Cleric Spells** 1st: _[[Longstrider]]_, 3rd: _[[Haste]]_, 7th: _[[Mask of Terror]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Strength or Wisdom
+**Divine Font** _[[DATABASE/spell/Heal|heal]]_
+**Divine Skill** [[DATABASE/skill/Intimidation|Intimidation]]
+**Favored Weapon** [[DATABASE/weapon/Shortsword|shortsword]]
+**Domains** [[DATABASE/domain/Confidence Domain|confidence]], [[DATABASE/domain/Nightmares Domain|nightmares]], [[DATABASE/domain/Protection Domain|protection]], [[DATABASE/domain/Travel Domain|travel]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Longstrider|longstrider]]_, 3rd: _[[DATABASE/spell/Haste|haste]]_, 7th: _[[DATABASE/spell/Mask of Terror|mask of terror]]_

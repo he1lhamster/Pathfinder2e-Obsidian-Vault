@@ -7,6 +7,7 @@ id: '463'
 name: Take a Breather
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
@@ -19,7 +20,7 @@ type: Action
 # Take a Breather
 
 <span class="item-trait">Exploration</span><span class="item-trait">Stamina</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Cost** 1 Resolve Point
 
 ---

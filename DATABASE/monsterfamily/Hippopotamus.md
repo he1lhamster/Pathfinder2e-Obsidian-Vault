@@ -3,6 +3,7 @@ creature_family: Hippopotamus
 id: '139'
 name: Hippopotamus
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Hippopotamus
 
-**Source** [[Bestiary 2]] 
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
 Hippopotamuses, or hippos for short, are semiaquatic animals that spend most of their time in rivers and lakes, but they also can thrive on land.
 
 ### Members
 
-[[Behemoth Hippopotamus]] (Creature 10), [[Hippopotamus]] (Creature 5)
+[[DATABASE/monster/Behemoth Hippopotamus|Behemoth Hippopotamus]] (Creature 10), [[DATABASE/monster/Hippopotamus|Hippopotamus]] (Creature 5)
 
 ###  Hippo Sweat
 

@@ -12,6 +12,7 @@ prerequisite: Trained in [[DATABASE/skill/Arcana|Arcana]] , Trained in [[DATABAS
   , Trained in [[DATABASE/skill/Occultism|Occultism]] , or Trainedin [[DATABASE/skill/Religion|Religion]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: arcana
@@ -26,8 +27,8 @@ type: Feat
 # Trick Magic Item <span class="action-icon">1</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">General</span><span class="item-trait">Manipulate</span><span class="item-trait">Skill</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** trained in [[Arcana]], [[Nature]], [[Occultism]], or [[Religion]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** trained in [[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]], [[DATABASE/skill/Occultism|Occultism]], or [[DATABASE/skill/Religion|Religion]]
 
 ---
 You examine a magic item you normally couldn’t use in an effort to fool it and activate it temporarily. For example, this might allow a fighter to cast a spell from a wand or allow a wizard to cast a spell that’s not on the arcane list using a scroll. You must know what activating the item does, or you can’t attempt to trick it.

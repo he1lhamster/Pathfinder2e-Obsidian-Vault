@@ -10,6 +10,7 @@ id: '317'
 name: Tyrant Witness
 prerequisite: null
 rarity: Rare
+rus_type_level: null
 skill:
 - Undead [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
@@ -22,7 +23,7 @@ type: Background
 # Tyrant Witness<span class="item-type">Background</span>
 
 <span class="trait-rare item-trait">Rare</span>
-**Source** [[Knights of Lastwall]]
+**Source** [[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]
 When Tar-Baphon broke free of Gallowspire, you saw him emerge. When the god-slaying lich obliterated Vigil and Roslar's Coffer, you scrambled to safety. And when necrotic rainfall swept through the lands and the Gallowgarden grew, you weathered the storms. Others talk of what the Whispering Tyrant's return did to Lastwall, but you were there. And it changed you.
  Choose two ability boosts. One must be to **Dexterity** or **Wisdom**, and one is a free ability boost.
- You're trained in the [[Lore]] skill. You can cast [[Disrupt Undead]] as a divine innate cantrip. As normal, the cantrip heightens to half your level rounded up.
+ You're trained in the [[DATABASE/skill/Lore|Undead Lore]] skill. You can cast [[DATABASE/spell/Disrupt Undead|disrupt undead]] as a divine innate cantrip. As normal, the cantrip heightens to half your level rounded up.

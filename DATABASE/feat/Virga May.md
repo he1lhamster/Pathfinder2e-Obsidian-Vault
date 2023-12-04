@@ -11,6 +11,7 @@ name: Virga May
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -24,20 +25,20 @@ type: Feat
 # Virga May <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Changeling</span><span class="item-trait">Lineage</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-Born of a storm hag, you have one crystal-blue or rain-gray eye. You share your mother's power over wind and storm. You can cast [[Electric Arc]] as an occult innate cantrip. As normal, a cantrip is heightened to a spell level equal to half your level rounded up.
+Born of a storm hag, you have one crystal-blue or rain-gray eye. You share your mother's power over wind and storm. You can cast [[DATABASE/spell/Electric Arc|electric arc]] as an occult innate cantrip. As normal, a cantrip is heightened to a spell level equal to half your level rounded up.
 
 ## Virga May Leads To...
 
-[[Favorable Winds]], [[Invoke the Elements]]
+[[DATABASE/feat/Favorable Winds|Favorable Winds]], [[DATABASE/feat/Invoke the Elements|Invoke the Elements]]
 
 ## Traits
 
 **Changeling:**
 
-A creature with this trait has the changeling versatile heritage. Changelings are the children of [[Hag]] and members of other humanoid ancestries. An ability with this trait can be used or selected only by changelings.
+A creature with this trait has the changeling versatile heritage. Changelings are the children of [[DATABASE/monsterfamily/Hag|hags]] and members of other humanoid ancestries. An ability with this trait can be used or selected only by changelings.
 
 **Lineage:**
 

@@ -86,18 +86,18 @@ wisdom: '+5'
 # Snowy Owl
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 33
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 33
 **Unspecific Lore**: DC 31
 **Specific Lore**: DC 28
 
 # Snowy Owl<span class="item-type">Creature 7</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 189. Dreamers of the Nameless Spires]]
+**Source** [[DATABASE/source/Pathfinder 189. Dreamers of the Nameless Spires|Pathfinder #189: Dreamers of the Nameless Spires]]
 Female avatar of a Sarkorian god
-**Perception** +16; [[Darkvision]]
-**Languages** [[Celestial]], [[Common]], [[Elven]], [[Erutaki]]
-**Skills** [[Lore]] +15, [[Lore]] +15, [[Medicine]] +16, [[Nature]] +16, [[Occultism]] +15, [[Religion]] +14, [[Survival]] +16
+**Perception** +16; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Celestial|Celestial]], [[DATABASE/language/Common|Common]], [[DATABASE/language/Elven|Elven]], [[DATABASE/language/Erutaki|Erutaki]]
+**Skills** [[DATABASE/skill/Lore|Astronomy Lore]] +15, [[DATABASE/skill/Lore|Fortune-Telling Lore]] +15, [[DATABASE/skill/Medicine|Medicine]] +16, [[DATABASE/skill/Nature|Nature]] +16, [[DATABASE/skill/Occultism|Occultism]] +15, [[DATABASE/skill/Religion|Religion]] +14, [[DATABASE/skill/Survival|Survival]] +16
 **Str** +0, **Dex** +1, **Con** +2, **Int** +1, **Wis** +5, **Cha** +4
 **Items** hide clothing
 
@@ -108,5 +108,5 @@ Female avatar of a Sarkorian god
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +12 [+8/+4] (agile, finesse, nonlethal, unarmed), **Damage** 1d4 bludgeoning</span>**Occult Prepared Spells** DC 18, attack +12; **4th** _[[Read Omens]]_, _[[Soothe]]_; **3rd** _[[Dispel Magic]]_, _[[Hypercognition]]_, _[[Soothe]]_; **2nd** _[[Resist Energy]]_, _[[Restoration]]_, _[[Soothe]]_; **1st** _[[Alarm]]_, _[[Bless]]_, _[[Soothe]]_; **Cantrips** **(4th)** _[[Detect Magic]]_, _[[Guidance]]_, _[[Light]]_, _[[Read Aura]]_, _[[Shield]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +12 [+8/+4] (agile, finesse, nonlethal, unarmed), **Damage** 1d4 bludgeoning</span>**Occult Prepared Spells** DC 18, attack +12; **4th** _[[DATABASE/spell/Read Omens|read omens]]_, _[[DATABASE/spell/Soothe|soothe]]_; **3rd** _[[DATABASE/spell/Dispel Magic|dispel magic]]_, _[[DATABASE/spell/Hypercognition|hypercognition]]_, _[[DATABASE/spell/Soothe|soothe]]_; **2nd** _[[DATABASE/spell/Resist Energy|resist energy]]_, _[[DATABASE/spell/Restoration|restoration]]_, _[[DATABASE/spell/Soothe|soothe]]_; **1st** _[[DATABASE/spell/Alarm|alarm]]_, _[[DATABASE/spell/Bless|bless]]_, _[[DATABASE/spell/Soothe|soothe]]_; **Cantrips** **(4th)** _[[DATABASE/spell/Detect Magic|detect magic]]_, _[[DATABASE/spell/Guidance|guidance]]_, _[[DATABASE/spell/Light|light]]_, _[[DATABASE/spell/Read Aura|read aura]]_, _[[DATABASE/spell/Shield|shield]]_
 <span class="in-box-ability">**Ruun's Wings** <span class="action-icon">1</span> (conjuration, occult) Snowy Owl manifests a spectral pair of owl's wings that grant her a fly Speed of 25 feet. She can use this action again to hide her wings, which she often does when in mixed company in order to avoid drawing too much attention. If she falls, she can activate this ability as a reaction to immediately arrest her fall.</span>

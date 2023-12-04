@@ -11,6 +11,7 @@ name: Ratfolk Lore
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Ratfolk Lore <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Ratfolk</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
-Years of experience among ratfolk communities have made you nimble, and you've learned to run and hide when enemies threaten. You gain the trained proficiency rank in [[Acrobatics]] and [[Stealth]]. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. You also become trained in [[Lore]].
+Years of experience among ratfolk communities have made you nimble, and you've learned to run and hide when enemies threaten. You gain the trained proficiency rank in [[DATABASE/skill/Acrobatics|Acrobatics]] and [[DATABASE/skill/Stealth|Stealth]]. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. You also become trained in [[DATABASE/skill/Lore|Ratfolk Lore]].
 
 ## Traits
 

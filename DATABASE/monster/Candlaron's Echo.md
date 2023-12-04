@@ -109,27 +109,27 @@ wisdom: '+7'
 # Candlaron's Echo
 
 This creature did not include a description.
-**Recall Knowledge - Spirit ([[Occultism]])**: DC 42
+**Recall Knowledge - Spirit ([[DATABASE/skill/Occultism|Occultism]])**: DC 42
 **Unspecific Lore**: DC 40
 **Specific Lore**: DC 37
 
 # Candlaron's Echo<span class="item-type">Creature 21</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Ghost</span><span class="item-trait">Incorporeal</span><span class="item-trait">Spirit</span>
-**Source** [[Pathfinder 150. Broken Promises]]
-Male elf [[Ghost]]
-**Perception** +35; [[Darkvision]]
-**Languages** [[Draconic]], [[Elven]], [[Sylvan]]
-**Skills** [[Arcana]] +40, [[Diplomacy]] +36, [[Occultism]] +40, [[Religion]] +36, [[Stealth]] +34
+**Source** [[DATABASE/source/Pathfinder 150. Broken Promises|Pathfinder #150: Broken Promises]]
+Male elf [[DATABASE/monsterfamily/Ghost|ghost]]
+**Perception** +35; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Elven|Elven]], [[DATABASE/language/Sylvan|Sylvan]]
+**Skills** [[DATABASE/skill/Arcana|Arcana]] +40, [[DATABASE/skill/Diplomacy|Diplomacy]] +36, [[DATABASE/skill/Occultism|Occultism]] +40, [[DATABASE/skill/Religion|Religion]] +36, [[DATABASE/skill/Stealth|Stealth]] +34
 **Str** -5, **Dex** +10, **Con** +0, **Int** +10, **Wis** +7, **Cha** +8
 **Site Bound**
 
 ---
 **AC** 46; **Fort** +30, **Ref** +33, **Will** +36
-**HP** 315 ([[Negative Healing]], rejuvenation); **Immunities** death effects, disease, [[Paralyzed]], poison, precision, [[Unconscious]]; **Resistances** all damage 15 (except force, [[Ghost Touch]], or positive; double resistance vs. non-magical)
+**HP** 315 ([[DATABASE/monsterability/Negative Healing|negative healing]], rejuvenation); **Immunities** death effects, disease, [[DATABASE/condition/Paralyzed|paralyzed]], poison, precision, [[DATABASE/condition/Unconscious|unconscious]]; **Resistances** all damage 15 (except force, [[DATABASE/equipment/Ghost Touch|ghost touch]], or positive; double resistance vs. non-magical)
 <span class="in-box-ability">**Rejuvenation** (divine, necromancy) Candlaron's echo rejuvenates so long as Dahak's manifestation lives.</span>
 
 ---
 **Speed** fly 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> ghostly hand +39 [+35/+31] (agile, finesse, magical), **Damage** 8d8+8 negative</span>**Arcane Innate Spells** DC 44, attack +39; **10th** _[[Wish]]_; **9th** _[[Disjunction]]_, _[[Telepathic Demand]]_; **8th** _[[Maze]]_, _[[Power Word Stun]]_; **7th** _[[Duplicate Foe]]_, _[[Prismatic Spray]]_, _[[Reverse Gravity]]_; **6th** _[[Chain Lightning]]_ (×2), _[[Mislead]]_; **5th** _[[Cone of Cold]]_, _[[Crushing Despair]]_, _[[Hallucination]]_; **4th** _[[Resilient Sphere]]_, _[[Suggestion]]_ (×2); **3rd** _[[Blindness]]_, _[[Dispel Magic]]_, _[[Slow]]_; **2nd** _[[Blur]]_, _[[Telekinetic Maneuver]]_ (×2); **1st** _[[Grease]]_, _[[Ray of Enfeeblement]]_ (×2); **Cantrips** **(10th)** _[[Detect Magic]]_, _[[Ghost Sound]]_, _[[Mage Hand]]_, _[[Prestidigitation]]_
-<span class="in-box-ability">**Frightful Moan** <span class="action-icon">1</span> (auditory, divine, emotion, enchantment, fear, mental) The ghost laments its fate, forcing each living creature within 30 feet to attempt a DC 44 Will save. On a failure, a creature becomes [[Frightened]] (or frightened 3 on a critical failure). On a success, a creature is temporarily immune to this ghost's frightful moan for 1 minute.</span><span class="in-box-ability">**Telekinetic Assault** <span class="action-icon">2</span> (divine, evocation) The ghost cries out in pain and anguish as small objects and debris fly about in a 30-foot emanation. Creatures in this area take 12d6 bludgeoning damage , subject to a DC 44 basic Reflex save.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> ghostly hand +39 [+35/+31] (agile, finesse, magical), **Damage** 8d8+8 negative</span>**Arcane Innate Spells** DC 44, attack +39; **10th** _[[DATABASE/spell/Wish|wish]]_; **9th** _[[DATABASE/spell/Disjunction|disjunction]]_, _[[DATABASE/spell/Telepathic Demand|telepathic demand]]_; **8th** _[[DATABASE/spell/Maze|maze]]_, _[[DATABASE/spell/Power Word Stun|power word stun]]_; **7th** _[[DATABASE/spell/Duplicate Foe|duplicate foe]]_, _[[DATABASE/spell/Prismatic Spray|prismatic spray]]_, _[[DATABASE/spell/Reverse Gravity|reverse gravity]]_; **6th** _[[DATABASE/spell/Chain Lightning|chain lightning]]_ (×2), _[[DATABASE/spell/Mislead|mislead]]_; **5th** _[[DATABASE/spell/Cone of Cold|cone of cold]]_, _[[DATABASE/spell/Crushing Despair|crushing despair]]_, _[[DATABASE/spell/Hallucination|hallucination]]_; **4th** _[[DATABASE/spell/Resilient Sphere|resilient sphere]]_, _[[DATABASE/spell/Suggestion|suggestion]]_ (×2); **3rd** _[[DATABASE/spell/Blindness|blindness]]_, _[[DATABASE/spell/Dispel Magic|dispel magic]]_, _[[DATABASE/spell/Slow|slow]]_; **2nd** _[[DATABASE/spell/Blur|blur]]_, _[[DATABASE/spell/Telekinetic Maneuver|telekinetic maneuver]]_ (×2); **1st** _[[DATABASE/spell/Grease|grease]]_, _[[DATABASE/spell/Ray of Enfeeblement|ray of enfeeblement]]_ (×2); **Cantrips** **(10th)** _[[DATABASE/spell/Detect Magic|detect magic]]_, _[[DATABASE/spell/Ghost Sound|ghost sound]]_, _[[DATABASE/spell/Mage Hand|mage hand]]_, _[[DATABASE/spell/Prestidigitation|prestidigitation]]_
+<span class="in-box-ability">**Frightful Moan** <span class="action-icon">1</span> (auditory, divine, emotion, enchantment, fear, mental) The ghost laments its fate, forcing each living creature within 30 feet to attempt a DC 44 Will save. On a failure, a creature becomes [[DATABASE/condition/Frightened|frightened 2]] (or frightened 3 on a critical failure). On a success, a creature is temporarily immune to this ghost's frightful moan for 1 minute.</span><span class="in-box-ability">**Telekinetic Assault** <span class="action-icon">2</span> (divine, evocation) The ghost cries out in pain and anguish as small objects and debris fly about in a 30-foot emanation. Creatures in this area take 12d6 bludgeoning damage , subject to a DC 44 basic Reflex save.</span>

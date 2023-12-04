@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -53,18 +54,18 @@ weapon_type: null
 # Warpglass Weapon<span class="item-type">Item 17+</span>
 
 <span class="trait-rare item-trait">Rare</span>
-**Source** [[Pathfinder 162. Ruins of the Radiant Siege]]
+**Source** [[DATABASE/source/Pathfinder 162. Ruins of the Radiant Siege|Pathfinder #162: Ruins of the Radiant Siege]]
 **Bulk** —
 
 ---
-If you critically hit a creature with a Strike with a [[Warpglass]] weapon, the target is affected by a [[Protean]] and automatically fails its saving throw.
+If you critically hit a creature with a Strike with a [[DATABASE/equipment/Warpglass|warpglass]] weapon, the target is affected by a [[DATABASE/monsterfamily/Protean|warpwave]] and automatically fails its saving throw.
 
 ### Base Material
 
-[[Warpglass]]
+[[DATABASE/equipment/Warpglass|Warpglass]]
 
 ## Warpglass Weapon (High-Grade)<span class="item-type">Item 17</span>
 
-**Source** [[Pathfinder 162. Ruins of the Radiant Siege]]
+**Source** [[DATABASE/source/Pathfinder 162. Ruins of the Radiant Siege|Pathfinder #162: Ruins of the Radiant Siege]]
 **Price** 14,000 gp (+ 1,400 gp per Bulk)
 **Craft Requirements** at least 7,000 gp of warpglass + 700 gp per Bulk

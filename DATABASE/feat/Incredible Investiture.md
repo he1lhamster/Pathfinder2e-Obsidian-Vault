@@ -11,6 +11,7 @@ name: Incredible Investiture
 prerequisite: Charisma 16
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Incredible Investiture <span class="item-type">Feat 11</span>
 
 <span class="item-trait">General</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Prerequisites** Charisma 16
 
 ---

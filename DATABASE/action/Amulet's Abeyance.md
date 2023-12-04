@@ -8,6 +8,7 @@ name: Amulet's Abeyance
 rarity: Common
 requirement: You're holding your amulet implement and are benefiting from Exploit
   Vulnerability.
+rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 trait:
@@ -23,8 +24,8 @@ type: Action
 # Amulet's Abeyance <span class="action-icon">5</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Magical</span><span class="item-trait">Manipulate</span><span class="item-trait">Thaumaturge</span>
-**Source** [[Dark Archive]]
-**Trigger** The target of your [[Exploit Vulnerability]] would damage you or an ally within 15 feet of you.
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Trigger** The target of your [[DATABASE/action/Exploit Vulnerability|Exploit Vulnerability]] would damage you or an ally within 15 feet of you.
 **Requirements** You're holding your amulet implement and are benefiting from Exploit Vulnerability.
 
 ---

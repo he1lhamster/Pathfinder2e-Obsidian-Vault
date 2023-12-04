@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: Gargantuan
@@ -51,22 +52,22 @@ weapon_type: null
 ---
 # Compass<span class="item-type">Item 0+</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 1 gp
 **Hands** 1; **Bulk** —
 
 ---
-A compass helps you [[Sense Direction]] or navigate, provided you're in a location with uniform magnetic fields. Without a compass, you take a –2 item penalty to these checks (similar to using a shoddy item).
+A compass helps you [[DATABASE/action/Sense Direction|Sense Direction]] or navigate, provided you're in a location with uniform magnetic fields. Without a compass, you take a –2 item penalty to these checks (similar to using a shoddy item).
 
 ## Compass<span class="item-type">Item 0</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 1 gp
 **Hands** 1
 
 ## Compass (Lensatic)<span class="item-type">Item 3</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 20 gp
 **Hands** 1
 A lensatic compass gives you a +1 item bonus to these checks.

@@ -11,6 +11,7 @@ name: Tidal Shield
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -27,7 +28,7 @@ type: Feat
 # Tidal Shield <span class="action-icon">2</span> <span class="item-type">Feat 17</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Concentrate</span><span class="item-trait">Primal</span><span class="item-trait">Undine</span><span class="item-trait">Water</span>
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 **Frequency** once per day
 
 ---
@@ -49,7 +50,7 @@ This magic comes from the primal tradition, connecting to the natural world and 
 
 **Undine:**
 
-Undines are planar scions descended from [[Marid]].
+Undines are planar scions descended from [[DATABASE/monster/Marid|marids]].
 
 **Water:**
 

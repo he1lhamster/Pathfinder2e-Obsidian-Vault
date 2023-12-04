@@ -3,6 +3,7 @@ element: Water
 id: '6'
 name: Water
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 trait: null
 type: Kineticist Element
@@ -10,7 +11,7 @@ type: Kineticist Element
 ---
 # Water
 
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ## Impulse Feats
 
@@ -29,4 +30,4 @@ After the impulse's other effects, you can move one creature targeted by the imp
 **Critical Blast** The blast deals 2 splash damage per damage die of the blast, with the same damage type.
 **Elemental Resistance** fire, water
 **Aura Junction** The aura becomes saturated with humidity, and water moves as you please. Non-magical fires in the aura are extinguished, and creatures in the aura gain fire resistance equal to half your level.
-**Skill Junction** [[Athletics]], [[Underwater Marauder]]
+**Skill Junction** [[DATABASE/skill/Athletics|Athletics]], [[DATABASE/feat/Underwater Marauder|Underwater Marauder]]

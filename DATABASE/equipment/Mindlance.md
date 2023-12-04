@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Enchantment
 size: null
@@ -55,10 +56,10 @@ weapon_type: null
 # Mindlance<span class="item-type">Item 8</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Arcane</span><span class="item-trait">Enchantment</span><span class="item-trait">Mental</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 500 gp
 **Usage** held in 2 hands; **Bulk** 2
-**Base Weapon** [[Arquebus]]
+**Base Weapon** [[DATABASE/weapon/Arquebus|Arquebus]]
 
 ---
-This _+1 [[Striking]] [[Arquebus]]_ is used by caravan guards to nonlethally—though powerfully—deter large game and bandits. When fired, the spark gun deals mental damage and adds the nonlethal trait to the attack. Each _mindlance_ also includes a [[Reinforced Stock]] that benefits from any fundamental runes on the firearm. When you critically succeed at an attack roll with a _mindlance_, the target becomes [[Frightened]] unless it succeeds at a DC 24 Will save.
+This _+1 [[DATABASE/equipment/Striking|striking]] [[DATABASE/weapon/Arquebus|arquebus]]_ is used by caravan guards to nonlethally—though powerfully—deter large game and bandits. When fired, the spark gun deals mental damage and adds the nonlethal trait to the attack. Each _mindlance_ also includes a [[DATABASE/weapon/Reinforced Stock|reinforced stock]] that benefits from any fundamental runes on the firearm. When you critically succeed at an attack roll with a _mindlance_, the target becomes [[DATABASE/condition/Frightened|frightened 2]] unless it succeeds at a DC 24 Will save.

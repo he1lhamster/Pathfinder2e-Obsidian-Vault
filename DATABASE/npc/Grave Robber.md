@@ -68,20 +68,20 @@ wisdom: '+2'
 # Grave Robber
 
 Many cultures have a tradition of burying their dead with a selection of the deceased's most precious possessions, and some include gifts that are thought to provide a boon in the afterlife. Such valuables can be easy pickings for those with no respect for—or fear of—the dead.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 15
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Grave Robber<span class="item-type">Creature 1</span>
 
 <span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Perception** +5
-**Languages** [[Common]]
-**Skills** [[Crafting]] +6, [[Deception]] +2, [[Intimidation]] +2, [[Society]] +6, [[Stealth]] +5, [[Lore]] +6
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Crafting|Crafting]] +6, [[DATABASE/skill/Deception|Deception]] +2, [[DATABASE/skill/Intimidation|Intimidation]] +2, [[DATABASE/skill/Society|Society]] +6, [[DATABASE/skill/Stealth|Stealth]] +5, [[DATABASE/skill/Lore|Underworld Lore]] +6
 **Str** +1, **Dex** +2, **Con** +2, **Int** +3, **Wis** +2, **Cha** -1
-**Infused Items** A grave robber carries the following infused items: 2 [[Bottled Lightning]], a [[Frost Vial]], and a [[Thunderstone]]. These items last for 24 hours, or until the next time the grave robber makes their daily preparations.
-**Items** [[Formula Book (Blank)]], [[Tool]], [[Alchemist's Tools]], [[Dagger]], [[Holy Water]], [[Studded Leather Armor]]
+**Infused Items** A grave robber carries the following infused items: 2 [[DATABASE/equipment/Bottled Lightning|lesser bottled lightnings]], a [[DATABASE/equipment/Frost Vial|lesser frost vial]], and a [[DATABASE/equipment/Thunderstone|lesser thunderstone]]. These items last for 24 hours, or until the next time the grave robber makes their daily preparations.
+**Items** [[DATABASE/equipment/Formula Book (Blank)|formula book]], [[DATABASE/equipment/Tool|shovel]], [[DATABASE/equipment/Alchemist's Tools|alchemist's tools]], [[DATABASE/weapon/Dagger|dagger]], [[DATABASE/equipment/Holy Water|holy water]], [[DATABASE/armor/Studded Leather Armor|studded leather armor]]
 
 ---
 **AC** 17; **Fort** +7, **Ref** +7, **Will** +5

@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Knight Reclaimant Dedication|Knight Reclaimant De
   ; Expert in [[DATABASE/skill/Religion|Religion]] ; Master in [[DATABASE/skill/Stealth|Stealth]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
 subcategory: null
@@ -26,12 +27,12 @@ type: Feat
 # Ashen Veil <span class="action-icon">3</span> <span class="item-type">Feat 7</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Manipulate</span><span class="item-trait">Skill</span>
-**Source** [[Knights of Lastwall]]
-**Archetype** [[Knight Reclaimant]]
-**Prerequisites** [[Knight Reclaimant Dedication]]; expert in [[Religion]] and master in [[Stealth]]
+**Source** [[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]
+**Archetype** [[DATABASE/archetype/Knight Reclaimant|Knight Reclaimant]]
+**Prerequisites** [[DATABASE/feat/Knight Reclaimant Dedication|Knight Reclaimant Dedication]]; expert in [[DATABASE/skill/Religion|Religion]] and master in [[DATABASE/skill/Stealth|Stealth]]
 
 ---
-By smearing ash or tainted earth over your skin and armor, you shroud yourself from the dead. You become concealed to undead using vision or [[Lifesense]], allowing you to [[Hide]] and [[Sneak]] without other sources of cover or concealment. This effect lasts only as long as you continue to take no actions other than to Hide, Sneak, or other surreptitious actions. The GM determines which actions end the effect, but attacking, casting spells, activating items, and the like always do.
+By smearing ash or tainted earth over your skin and armor, you shroud yourself from the dead. You become concealed to undead using vision or [[DATABASE/monsterability/Lifesense|lifesense]], allowing you to [[DATABASE/action/Hide|Hide]] and [[DATABASE/action/Sneak|Sneak]] without other sources of cover or concealment. This effect lasts only as long as you continue to take no actions other than to Hide, Sneak, or other surreptitious actions. The GM determines which actions end the effect, but attacking, casting spells, activating items, and the like always do.
 
 ## Traits
 

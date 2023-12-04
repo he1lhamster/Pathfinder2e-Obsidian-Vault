@@ -31,6 +31,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Enchantment
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -48,9 +49,9 @@ type: Spell
 # Endure<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Enchantment</span><span class="item-trait">Mental</span>
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Traditions** arcane, occult
-**Deities** [[Arazni]], [[Arqueros]], [[Fandarra]], [[Folgrit]], [[Narakaas]], [[The Last Breath]], [[Trudd]]
+**Deities** [[DATABASE/deity/Arazni|Arazni]], [[DATABASE/deity/Arqueros|Arqueros]], [[DATABASE/deity/Fandarra|Fandarra]], [[DATABASE/deity/Folgrit|Folgrit]], [[DATABASE/deity/Narakaas|Narakaas]], [[DATABASE/deity/The Last Breath|The Last Breath]], [[DATABASE/deity/Trudd|Trudd]]
 **Cast** <span class="action-icon">1</span> somatic
 **Range** touch; **Targets** 1 creature
 **Duration** 1 round

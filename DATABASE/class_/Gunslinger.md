@@ -19,6 +19,7 @@ id: '20'
 name: Gunslinger
 perception_proficiency: Expert
 rarity: Uncommon
+rus_type_level: null
 skill_proficiency:
 - Trained in one or more skills determined by your gunslinger's way
 - Trained in a number of additional skills equal to 3 plus your Intelligence modifier
@@ -32,7 +33,7 @@ type: Class
 # Gunslinger
 
 <span class="trait-uncommon item-trait">Uncommon</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 _While some fear projectile weapons, you savor the searing flash, wild kick, and cloying smoke that accompanies a gunshot, or snap of the cable and telltale thunk of your crossbow just before your bolt finds purchase. Ready to draw a bead on an enemy at every turn, you rely on your reflexes, steady hand, and knowledge of your weapons to riddle your foes with holes. _
 **Key Ability: DEXTERITY**
 At 1st level, your class gives you an ability boost to Dexterity
@@ -120,30 +121,29 @@ Trained in gunslinger class DC
 
 # Class Features
 
-You gain these features as a Gunslinger. Abilities gained at higher levels list the levels at which you gain them next to the features' names.
-
-|   Your Level | Class Features                                                                                                      |
-|-------------:|:--------------------------------------------------------------------------------------------------------------------|
-|            1 | Ancestry and background, initial proficiencies, gunslinger's way, initial deed, gunslinger feat, singular expertise |
-|            2 | Gunslinger feat, skill feat                                                                                         |
-|            3 | General feat, skill increase, stubborn                                                                              |
-|            4 | Gunslinger feat, skill feat                                                                                         |
-|            5 | Ability boosts, ancestry feat, gunslinger weapon mastery, skill increase                                            |
-|            6 | Gunslinger feat, skill feat                                                                                         |
-|            7 | General feat, skill increase, vigilant senses, weapon specialization                                                |
-|            8 | Gunslinger feat, skill feat                                                                                         |
-|            9 | Advanced deed, ancestry feat, gunslinger expertise, skill increase                                                  |
-|           10 | Ability boosts, gunslinger feat, skill feat                                                                         |
-|           11 | Evasion, general feat, skill increase                                                                               |
-|           12 | Gunslinger feat, skill feat                                                                                         |
-|           13 | Ancestry feat, gunslinging legend, medium armor expertise, skill increase                                           |
-|           14 | Gunslinger feat, skill feat                                                                                         |
-|           15 | Ability boosts, general feat, greater deed, greater weapon specialization, skill increase                           |
-|           16 | Gunslinger feat, skill feat                                                                                         |
-|           17 | Ancestry feat, juggernaut, shootist's edge, skill increase                                                          |
-|           18 | Gunslinger feat, skill feat                                                                                         |
-|           19 | General feat, incredible senses, medium armor mastery, skill increase                                               |
-|           20 | Ability boosts, gunslinger feat, skill feat                                                                         |
+You gain these features as a Gunslinger. Abilities gained at higher levels list the levels at which you gain them next to the features' names.| 0 | 1 |
+|:-----------|:--------------------------------------------------------------------------------------------------------------------|
+| Your Level | Class Features |
+| 1 | Ancestry and background, initial proficiencies, gunslinger's way, initial deed, gunslinger feat, singular expertise |
+| 2 | Gunslinger feat, skill feat |
+| 3 | General feat, skill increase, stubborn |
+| 4 | Gunslinger feat, skill feat |
+| 5 | Ability boosts, ancestry feat, gunslinger weapon mastery, skill increase |
+| 6 | Gunslinger feat, skill feat |
+| 7 | General feat, skill increase, vigilant senses, weapon specialization |
+| 8 | Gunslinger feat, skill feat |
+| 9 | Advanced deed, ancestry feat, gunslinger expertise, skill increase |
+| 10 | Ability boosts, gunslinger feat, skill feat |
+| 11 | Evasion, general feat, skill increase |
+| 12 | Gunslinger feat, skill feat |
+| 13 | Ancestry feat, gunslinging legend, medium armor expertise, skill increase |
+| 14 | Gunslinger feat, skill feat |
+| 15 | Ability boosts, general feat, greater deed, greater weapon specialization, skill increase |
+| 16 | Gunslinger feat, skill feat |
+| 17 | Ancestry feat, juggernaut, shootist's edge, skill increase |
+| 18 | Gunslinger feat, skill feat |
+| 19 | General feat, incredible senses, medium armor mastery, skill increase |
+| 20 | Ability boosts, gunslinger feat, skill feat |
 
 ## Ancestry and Background
 
@@ -182,7 +182,7 @@ At 3rd level and every 2 levels thereafter, you gain a skill increase. You can u
 
 ## Stubborn<span class="item-type">Level 3</span>
 
-You don't like being told what to do, and you don't give up. Your proficiency rank for Will saves increases to expert. When you fail, but don't critically fail, a Will save against an effect that would give you the [[Controlled]] condition, you can attempt a second save against the effect at the start of your next turn. On a successful second save, the controlled condition ends, though any other effects remain. As normal, failing this second save doesn't allow you to attempt a third save on the subsequent turn.
+You don't like being told what to do, and you don't give up. Your proficiency rank for Will saves increases to expert. When you fail, but don't critically fail, a Will save against an effect that would give you the [[DATABASE/condition/Controlled|controlled]] condition, you can attempt a second save against the effect at the start of your next turn. On a successful second save, the controlled condition ends, though any other effects remain. As normal, failing this second save doesn't allow you to attempt a third save on the subsequent turn.
 
 ## Ability Boosts<span class="item-type">Level 5</span>
 

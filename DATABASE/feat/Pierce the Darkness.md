@@ -11,6 +11,7 @@ name: Pierce the Darkness
 prerequisite: low-light vision
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Pierce the Darkness <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Goloma</span>
-**Source** [[The Mwangi Expanse]] 
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]] 
 **Prerequisites** low-light vision
 
 ---

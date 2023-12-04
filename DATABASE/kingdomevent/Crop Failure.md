@@ -3,6 +3,7 @@ id: '6'
 level: '0'
 name: Crop Failure
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Agriculture|Agriculture]]'
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
@@ -15,10 +16,10 @@ type: Kingdom Event
 # Crop Failure<span class="item-type">Event +0</span>
 
 <span class="item-trait">Dangerous</span><span class="item-trait">Hex-KM</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 **Location** A Farmland hex of the GM's choice. If there are no Farmlands in the kingdom, this event has no effect.
 Pests, blight, or bad weather damage the harvest.
-**Kingdom Skill** [[Agriculture]]; **Leader** Treasurer
+**Kingdom Skill** [[DATABASE/skill/Agriculture|Agriculture]]; **Leader** Treasurer
 **Critical Success** You contain the damage from the crop failure without it impacting your kingdom's resources.
 **Success** You contain the crop failure, but not before it impacts your kingdom. Increase your kingdom's Consumption by 1 during the next Kingdom turn.
 **Failure** The crop failure wipes out entire fields. Increase your kingdom's Consumption by 1d4+1 during the next Kingdom turn.

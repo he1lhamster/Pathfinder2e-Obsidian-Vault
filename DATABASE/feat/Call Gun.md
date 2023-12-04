@@ -11,6 +11,7 @@ name: Call Gun
 prerequisite: '[[DATABASE/feat/Spellshot Dedication|Spellshot Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -26,9 +27,9 @@ type: Feat
 # Call Gun <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Conjuration</span><span class="item-trait">Magical</span><span class="item-trait">Teleportation</span>
-**Source** [[Guns & Gears]]
-**Archetypes** [[Beast Gunner]], [[Spellshot]]
-**Prerequisites** [[Spellshot Dedication]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Archetypes** [[DATABASE/archetype/Beast Gunner|Beast Gunner]], [[DATABASE/archetype/Spellshot|Spellshot]]
+**Prerequisites** [[DATABASE/feat/Spellshot Dedication|Spellshot Dedication]]
 
 ---
 You build a powerful magical connection with a chosen gun or crossbow, gaining the ability to conjure it directly to your hand from any distant location. During your daily preparations, choose a single crossbow or firearm. Until your next daily preparations, you can use the Call Gun action to call the gun to your hand.

@@ -70,16 +70,16 @@ wisdom: '+1'
 # Giant Viper
 
 The giant viper’s fangs are a frightening sight, with injection tubes as long as daggers. The sheer amount of venom injected by a giant viper can cause severe blood clotting and leave a victim utterly drained of vitality.
-**Recall Knowledge - Animal ([[Nature]])**: DC 16
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
 # Giant Viper<span class="item-type">Creature 2</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +7; low-light vision, scent (imprecise) 30 feet
-**Skills** [[Acrobatics]] +9, [[Athletics]] +8, [[Stealth]] +8, [[Survival]] +6
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +9, [[DATABASE/skill/Athletics|Athletics]] +8, [[DATABASE/skill/Stealth|Stealth]] +8, [[DATABASE/skill/Survival|Survival]] +6
 **Str** +3, **Dex** +4, **Con** +3, **Int** -4, **Wis** +1, **Cha** -2
 
 ---

@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: DC 33 Fortitude
 school: null
 size: null
@@ -56,11 +57,11 @@ weapon_type: null
 # Deathcap Powder<span class="item-type">Item 13</span>
 
 <span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Ingested</span><span class="item-trait">Poison</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 450 gp
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
 ---
 The toxic deathcap mushroom can be dried, ground, and treated to form a flavorless powder with accelerated effects.
-**Saving Throw** DC 33 Fortitude; **Onset** 10 minutes; **Maximum Duration** 6 minutes; **Stage 1** 13d6 poison damage (1 minute); **Stage 2** 17d6 poison damage and [[Sickened]] (1 minute); **Stage 3** 20d6 poison damage and sickened 3 (1 minute)
+**Saving Throw** DC 33 Fortitude; **Onset** 10 minutes; **Maximum Duration** 6 minutes; **Stage 1** 13d6 poison damage (1 minute); **Stage 2** 17d6 poison damage and [[DATABASE/condition/Sickened|sickened 2]] (1 minute); **Stage 3** 20d6 poison damage and sickened 3 (1 minute)

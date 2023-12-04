@@ -11,6 +11,7 @@ name: Focused Fascination
 prerequisite: '[[DATABASE/feat/Fascinating Performance|Fascinating Performance]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Focused Fascination <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Swashbuckler</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** [[Fascinating Performance]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** [[DATABASE/feat/Fascinating Performance|Fascinating Performance]]
 
 ---
-When you use [[Fascinating Performance]] in a combat encounter, you need only a success, rather than a critical success, to [[Fascinated]] your target. This works only if you're attempting to fascinate one target. For example, if you were an expert in [[Performance]], you could choose to target multiple creatures normally or target one creature and fascinate it on a success.
+When you use [[DATABASE/feat/Fascinating Performance|Fascinating Performance]] in a combat encounter, you need only a success, rather than a critical success, to [[DATABASE/condition/Fascinated|fascinate]] your target. This works only if you're attempting to fascinate one target. For example, if you were an expert in [[DATABASE/skill/Performance|Performance]], you could choose to target multiple creatures normally or target one creature and fascinate it on a success.

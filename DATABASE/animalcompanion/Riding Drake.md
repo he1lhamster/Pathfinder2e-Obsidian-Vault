@@ -13,6 +13,7 @@ land_speed: '45'
 max_speed: '45'
 name: Riding Drake
 rarity: Uncommon
+rus_type_level: null
 sense:
 - darkvision
 size: Large
@@ -33,23 +34,23 @@ wisdom: '+1'
 # Riding Drake
 
 <span class="trait-uncommon item-trait">Uncommon</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 Your companion is a swift, flightless drake with limited intelligence, less vicious than most drakes but fiercely loyal to you. A riding drake has the dragon trait instead of the animal trait, but it otherwise functions normally as an animal companion.
 **Size** Large
 **Melee** <span class="action-icon">1</span> jaws, **Damage** 1d8 piercing
 **Melee** <span class="action-icon">1</span> tail, **Damage** 1d6 bludgeoning
 **Str** +2, **Dex** +1, **Con** +2, **Int** -4, **Wis** +1, **Cha** +2
 **Hit Points** 8
-**Skill** [[Intimidation]] 
+**Skill** [[DATABASE/skill/Intimidation|Intimidation]] 
 **Senses** darkvision
 **Speed** 45 feet
 **Special** mount
 **Support Benefit** Your drake snorts fire in your foes' faces. Until the start of your next turn, each time you Strike while riding the drake and hit a creature in the drake's reach, the creature takes 1d4 fire damage from the drake. If your drake is nimble or savage, the fire damage increases to 2d4. 
 **Advanced Maneuver** Breath Weapon
 
-### [[Breath Weapon]] <span class="action-icon">2</span>
+### [[DATABASE/action/Breath Weapon|Breath Weapon]] <span class="action-icon">2</span>
 
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Frequency** once per hour
 
 ---

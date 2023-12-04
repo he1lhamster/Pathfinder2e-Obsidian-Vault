@@ -11,6 +11,7 @@ name: Battle Prayer
 prerequisite: Master in [[DATABASE/skill/Religion|Religion]] ; you follow a deity
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
 subcategory: religion
@@ -25,12 +26,12 @@ type: Feat
 # Battle Prayer <span class="action-icon">1</span> <span class="item-type">Feat 7</span>
 
 <span class="item-trait">Divine</span><span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Gods & Magic]] 
-**Prerequisites** master in [[Religion]]; you follow a deity
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
+**Prerequisites** master in [[DATABASE/skill/Religion|Religion]]; you follow a deity
 
 ---
 Calling out to your deity, you recite scripture to harm a foe. When you select this feat, choose chaos, evil, good, or law. Your choice must match one of your deity’s alignment components. This action has the trait corresponding to the chosen alignment.
- Attempt a [[Religion]] check against the Will DC of a foe within 30 feet. The foe is then temporarily immune to Battle Prayers from your deity for 1 day.
+ Attempt a [[DATABASE/skill/Religion|Religion]] check against the Will DC of a foe within 30 feet. The foe is then temporarily immune to Battle Prayers from your deity for 1 day.
 **Critical Success** You deal 2d6 damage of the chosen alignment type, or 6d6 damage if you have legendary proficiency in Religion.
 **Success** You deal 1d6 damage of the chosen alignment type, or 3d6 damage if you have legendary proficiency in Religion.
 **Failure** There is no effect.

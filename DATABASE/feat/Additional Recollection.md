@@ -11,6 +11,7 @@ name: Additional Recollection
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Additional Recollection <span class="action-icon">4</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Ranger</span>
-**Source** [[Advanced Player's Guide]] 
-**Trigger** You succeed or critically succeed at a check to [[Recall Knowledge]] on your hunted prey.
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Trigger** You succeed or critically succeed at a check to [[DATABASE/action/Recall Knowledge|Recall Knowledge]] on your hunted prey.
 
 ---
 You scan the battlefield quickly, remembering critical details about multiple opponents you face. You immediately attempt a check to Recall Knowledge about a different creature you can perceive.

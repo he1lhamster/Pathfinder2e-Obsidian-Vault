@@ -11,6 +11,7 @@ name: Shooter's Camouflage
 prerequisite: Master in [[DATABASE/skill/Stealth|Stealth]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Shooter's Camouflage <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Gunslinger</span>
-**Source** [[Guns & Gears]]
-**Prerequisites** master in [[Stealth]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Prerequisites** master in [[DATABASE/skill/Stealth|Stealth]]
 
 ---
-You specialize in blending into a particular type of environment, able to disappear after taking your shot. Choose either natural or urban terrain. In the chosen terrain, you can [[Hide]] and [[Sneak]] even without cover or being [[Concealed]].
+You specialize in blending into a particular type of environment, able to disappear after taking your shot. Choose either natural or urban terrain. In the chosen terrain, you can [[DATABASE/action/Hide|Hide]] and [[DATABASE/action/Sneak|Sneak]] even without cover or being [[DATABASE/condition/Concealed|concealed]].

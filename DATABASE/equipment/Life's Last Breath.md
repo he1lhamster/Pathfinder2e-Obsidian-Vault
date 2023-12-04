@@ -31,6 +31,7 @@ rarity: Unique
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 size: null
@@ -56,13 +57,13 @@ weapon_type: null
 # Life's Last Breath<span class="item-type">Item 18</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="item-trait">Evil</span><span class="item-trait">Magical</span><span class="item-trait">Necromancy</span>
-**Source** [[Pathfinder 155. Lord of the Black Sands]]
+**Source** [[DATABASE/source/Pathfinder 155. Lord of the Black Sands|Pathfinder #155: Lord of the Black Sands]]
 **Price** 23,500 gp
 **Usage** held in 1 hand; **Bulk** 2
-**Base Weapon** [[Rhoka Sword]]
+**Base Weapon** [[DATABASE/weapon/Rhoka Sword|Rhoka Sword]]
 
 ---
-The twin serrated blades of this legendary [[Rhoka Sword]] are dull black and constantly drip with blood. _Life's Last Breath_ is said to have been forged centuries ago for an unknown [[Urdefhan]] general and has since fallen into the hands of countless other powerful urdefhan warlords.
- _Life's Last Breath_ is a _+3 greater striking [[Unholy]] [[Wounding]] rhoka sword_ with the following special abilities.
-**Activate** <span class="action-icon">5</span> command **Frequency** once per day; **Requirements** You successfully Strike a creature with _Life's Last Breath_; **Effect** You cast a 9th-level [[Paralyze]] spell on the target.
+The twin serrated blades of this legendary [[DATABASE/weapon/Rhoka Sword|rhoka sword]] are dull black and constantly drip with blood. _Life's Last Breath_ is said to have been forged centuries ago for an unknown [[DATABASE/monsterfamily/Urdefhan|urdefhan]] general and has since fallen into the hands of countless other powerful urdefhan warlords.
+ _Life's Last Breath_ is a _+3 greater striking [[DATABASE/equipment/Unholy|unholy]] [[DATABASE/equipment/Wounding|wounding]] rhoka sword_ with the following special abilities.
+**Activate** <span class="action-icon">5</span> command **Frequency** once per day; **Requirements** You successfully Strike a creature with _Life's Last Breath_; **Effect** You cast a 9th-level [[DATABASE/spell/Paralyze|paralyze]] spell on the target.
 **Activate** <span class="action-icon">5</span> envision **Frequency** once per 10 minutes; **Trigger** You successfully Strike a creature with _Life's Last Breath_; **Effect** The target must succeed at a DC 38 Fortitude save or take 4d6 negative damage; you gain an equal amount of temporary Hit Points that last 1 minute.

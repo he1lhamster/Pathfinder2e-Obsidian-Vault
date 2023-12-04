@@ -11,6 +11,7 @@ name: Purge Sins
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -24,17 +25,17 @@ type: Feat
 # Purge Sins <span class="action-icon">1</span> <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Aasimar</span><span class="item-trait">Healing</span>
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 **Frequency** once per day
 
 ---
-You call on your celestial forebears to rid your body of all toxins and impurities. For each disease or poison currently affecting you, attempt a [[Religion]] check to counteract that disease or poison. As normal, your counteract level is equal to half your level, rounded up.
+You call on your celestial forebears to rid your body of all toxins and impurities. For each disease or poison currently affecting you, attempt a [[DATABASE/skill/Religion|Religion]] check to counteract that disease or poison. As normal, your counteract level is equal to half your level, rounded up.
 
 ## Traits
 
 **Aasimar:**
 
-A creature with this trait has the aasimar versatile heritage. Aasimars are [[Planar Scion]] descended from celestial beings. An ability with this trait can be used or selected only by aasimars.
+A creature with this trait has the aasimar versatile heritage. Aasimars are [[DATABASE/monsterfamily/Planar Scion|planar scions]] descended from celestial beings. An ability with this trait can be used or selected only by aasimars.
 
 **Healing:**
 

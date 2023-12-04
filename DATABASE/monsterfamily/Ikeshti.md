@@ -3,6 +3,7 @@ creature_family: Ikeshti
 id: '294'
 name: Ikeshti
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 173. Doorway to the Red Star|Pathfinder #173:
   Doorway to the Red Star]]'
 trait: null
@@ -11,12 +12,12 @@ type: Creature Family
 ---
 # Ikeshti
 
-**Source** [[Pathfinder 173. Doorway to the Red Star]]
-Ikeshtis are reptilian humanoids native to Akiton's wastelands. Smaller than Golarion's [[Lizardfolk]], ikeshtis organize around distinct societal roles.
+**Source** [[DATABASE/source/Pathfinder 173. Doorway to the Red Star|Pathfinder #173: Doorway to the Red Star]]
+Ikeshtis are reptilian humanoids native to Akiton's wastelands. Smaller than Golarion's [[DATABASE/ancestry/Lizardfolk|iruxi]], ikeshtis organize around distinct societal roles.
 
 ### Members
 
-[[Ancient Rivener]] (Creature 14), [[Ikeshti Brood-Minder]] (Creature 2)
+[[DATABASE/monster/Ancient Rivener|Ancient Rivener]] (Creature 14), [[DATABASE/monster/Ikeshti Brood-Minder|Ikeshti Brood-Minder]] (Creature 2)
 
 ###  Ikeshti Characteristics
 

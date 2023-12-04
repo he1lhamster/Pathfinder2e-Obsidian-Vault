@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 size: null
@@ -57,10 +58,10 @@ weapon_type: null
 # Swift Block Cabochon<span class="item-type">Item 7</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Abjuration</span><span class="item-trait">Consumable</span><span class="item-trait">Magical</span><span class="item-trait">Talisman</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 70 gp
 **Usage** affixed to a shield; **Bulk** —
 **Activate** <span class="action-icon">4</span> envision **Trigger** You take damage from a physical attack while you don't have the affixed shield raised
 
 ---
-This clear quartz cabochon attaches to the center of your shield. When you activate the cabochon, you use the [[Shield Block]] reaction even if you hadn’t raised the affixed shield (and even if you don’t normally have that reaction).
+This clear quartz cabochon attaches to the center of your shield. When you activate the cabochon, you use the [[DATABASE/feat/Shield Block|Shield Block]] reaction even if you hadn’t raised the affixed shield (and even if you don’t normally have that reaction).

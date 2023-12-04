@@ -2,6 +2,7 @@
 id: '140'
 name: A Fistful of Flowers
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -15,4 +16,4 @@ type: Source
 
 ## Equipment [1]
 
-[[Sack of Rotten Fruit]]
+[[DATABASE/equipment/Sack of Rotten Fruit|Sack of Rotten Fruit]]

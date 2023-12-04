@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -56,7 +57,7 @@ weapon_type: null
 # Deathless Light<span class="item-type">Item 10</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Catalyst</span><span class="item-trait">Consumable</span><span class="item-trait">Magical</span>
-**Source** [[Pathfinder 172. Secrets of the Temple City]]
+**Source** [[DATABASE/source/Pathfinder 172. Secrets of the Temple City|Pathfinder #172: Secrets of the Temple City]]
 **Price** 165 gp
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> envision

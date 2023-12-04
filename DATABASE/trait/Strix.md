@@ -2,6 +2,7 @@
 id: '342'
 name: Strix
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 trait:
 - Strix
@@ -10,17 +11,17 @@ type: Trait
 ---
 # Strix
 
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 Winged humanoids, most of whom live in and around Cheliax.
 
 ## Ancestries
 
-[[Strix]]
+[[DATABASE/ancestry/Strix|Strix]]
 
 ## Feats
 
-[[Ancestor's Transformation]], [[Feathered Cloak]], [[Ferocious Gust]], [[Fledgling Flight]], [[Fully Flighted]], [[Juvenile Flight]], [[Nestling Fall]], [[Rokoan Arts]], [[Story Crooner]], [[Strix Defender]], [[Strix Lore]], [[Strix Vengeance]], [[Thrown Voice]], [[Wing Step]]
+[[DATABASE/feat/Ancestor's Transformation|Ancestor's Transformation]], [[DATABASE/feat/Feathered Cloak|Feathered Cloak]], [[DATABASE/feat/Ferocious Gust|Ferocious Gust]], [[DATABASE/feat/Fledgling Flight|Fledgling Flight]], [[DATABASE/feat/Fully Flighted|Fully Flighted]], [[DATABASE/feat/Juvenile Flight|Juvenile Flight]], [[DATABASE/feat/Nestling Fall|Nestling Fall]], [[DATABASE/feat/Rokoan Arts|Rokoan Arts]], [[DATABASE/feat/Story Crooner|Story Crooner]], [[DATABASE/feat/Strix Defender|Strix Defender]], [[DATABASE/feat/Strix Lore|Strix Lore]], [[DATABASE/feat/Strix Vengeance|Strix Vengeance]], [[DATABASE/feat/Thrown Voice|Thrown Voice]], [[DATABASE/feat/Wing Step|Wing Step]]
 
 ## Monsters
 
-[[Strix Kinmate]]
+[[DATABASE/monster/Strix Kinmate|Strix Kinmate]]

@@ -11,6 +11,7 @@ name: Conflux Focus
 prerequisite: conflux spells
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Conflux Focus <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Magus</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Prerequisites** conflux spells
 
 ---
@@ -31,4 +32,4 @@ You imagine how you'll weave magic and combat into future battles, improving you
 
 ## Conflux Focus Leads To...
 
-[[Conflux Wellspring]]
+[[DATABASE/feat/Conflux Wellspring|Conflux Wellspring]]

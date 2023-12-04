@@ -11,6 +11,7 @@ name: Crafter's Appraisal
 prerequisite: Trained in [[DATABASE/skill/Crafting|Crafting]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: crafting
@@ -24,11 +25,11 @@ type: Feat
 # Crafter's Appraisal <span class="item-type">Feat 1</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** trained in [[Crafting]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** trained in [[DATABASE/skill/Crafting|Crafting]]
 
 ---
-Your knowledge of items' construction allows you to discern their magical effects as well. You can use [[Crafting]] instead of a skill associated with a magic tradition to [[Identify Magic]] on magic items, though not on any other sorts of magic.
+Your knowledge of items' construction allows you to discern their magical effects as well. You can use [[DATABASE/skill/Crafting|Crafting]] instead of a skill associated with a magic tradition to [[DATABASE/action/Identify Magic|Identify Magic]] on magic items, though not on any other sorts of magic.
 
 ## Traits
 

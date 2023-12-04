@@ -3,6 +3,7 @@ creature_family: Boar
 id: '15'
 name: Boar
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Boar
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 While domesticated pigs are a staple of farm life, wild boars are much more dangerous. Foul-tempered warthogs are relatively common, while the lumbering, primeval beasts known as daeodons are less so. Voracious eaters, boars can ravage the countryside in which they live. Boars breed freely, and a pair of boars can rapidly grow to a large family. Boars are a particular nuisance to farmers, as they break into food stores and root through gardens to sate their hunger.
 
 ### Members
 
-[[Boar]] (Creature 2), [[Daeodon]] (Creature 4)
+[[DATABASE/monster/Boar|Boar]] (Creature 2), [[DATABASE/monster/Daeodon|Daeodon]] (Creature 4)
 
 ###  Boar Locations
 

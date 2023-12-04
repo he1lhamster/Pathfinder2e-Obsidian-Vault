@@ -73,16 +73,16 @@ wisdom: '+2'
 
 These hardy mountain dwellers surpass their lowlander cousins in stubbornness and agility. Rosethorn rams sport distinctive, twisted horns that measure up to 4 feet in length and bear thorny growths, which they use to damage enemies in combat and strip the bark from trees during harsh winters when other food is scarce.
  Though hardly a domesticated species, rosethorn rams' shaggy outer coats cover fine hair that makes a yarn prized for both its softness and rarity. Their milk also provides nourishment during severe seasons.
-**Recall Knowledge - Animal ([[Nature]])**: DC 16
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
 # Rosethorn<span class="item-type">Creature 2</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary 3]]
-**Perception** +8; [[Low-Light Vision]]
-**Skills** [[Acrobatics]] +8, [[Athletics]] +7, [[Stealth]] +8, [[Survival]] +8
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
+**Perception** +8; [[DATABASE/monsterability/Low-Light Vision|low-light vision]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +8, [[DATABASE/skill/Athletics|Athletics]] +7, [[DATABASE/skill/Stealth|Stealth]] +8, [[DATABASE/skill/Survival|Survival]] +8
 **Str** +3, **Dex** +4, **Con** +3, **Int** -5, **Wis** +2, **Cha** +1
 
 ---
@@ -91,4 +91,4 @@ These hardy mountain dwellers surpass their lowlander cousins in stubbornness an
 
 ---
 **Speed** 30 feet, climb 20 feet; mountain stride
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> hoof +11 [+6/+1] (finesse), **Damage** 1d8+5 bludgeoning</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> horn +11 [+7/+3] (agile, finesse), **Damage** 1d6+5 piercing</span><span class="in-box-ability">**Broken Thorns** <span class="action-icon">1</span> **Requirements** The rosethorn ram damaged a creature with its horns on its most recent action this turn; **Effect** The ram breaks off one of the thorny protrusions of its horns and leaves it in the wound, dealing 1d6 [[Persistent Damage]].</span><span class="in-box-ability">**Mountain Stride** The Rosethorn ram ignores difficult terrain caused by narrow ledges and icy terrain, and reduces the effects it suffers from cold environments by one step.</span><span class="in-box-ability">**Ram Charge** <span class="action-icon">2</span> The ram Strides twice in a straight line and then makes a horn Strike with a +1 circumstance bonus to its attack roll.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> hoof +11 [+6/+1] (finesse), **Damage** 1d8+5 bludgeoning</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> horn +11 [+7/+3] (agile, finesse), **Damage** 1d6+5 piercing</span><span class="in-box-ability">**Broken Thorns** <span class="action-icon">1</span> **Requirements** The rosethorn ram damaged a creature with its horns on its most recent action this turn; **Effect** The ram breaks off one of the thorny protrusions of its horns and leaves it in the wound, dealing 1d6 [[DATABASE/condition/Persistent Damage|persistent bleed damage]].</span><span class="in-box-ability">**Mountain Stride** The Rosethorn ram ignores difficult terrain caused by narrow ledges and icy terrain, and reduces the effects it suffers from cold environments by one step.</span><span class="in-box-ability">**Ram Charge** <span class="action-icon">2</span> The ram Strides twice in a straight line and then makes a horn Strike with a +1 circumstance bonus to its attack roll.</span>

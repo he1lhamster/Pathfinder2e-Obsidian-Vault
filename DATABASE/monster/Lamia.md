@@ -105,19 +105,19 @@ Just as they were cursed long ago, lamias can curse those they touch, clouding t
  Whatever the source of this ancient transformation, lamias themselves have grown to enjoy the strengths it has granted them. Regardless, they continue to cling to a hatred of the gods, seeing them as the cause of their monstrous forms and, thus, their eternal exile from the societies they watch with jealous eyes from their lairs amid the ruins of lost civilizations. Because lamias blame divine powers for their curse, they take special delight in the downfall of temples, the suffering and death of champions and clerics, and the spread of dissension within organized religions.
  While they can briefly assume humanoid form with magic, lamias are usually forced to hide from civilization, making their homes in the barren wilderness. There, they attract cults of their own, gathering up chaotic and evil humanoids. With the help of these cultists, lamias strive to bring down popular faiths, introduce schisms into flourishing churches, and humiliate or defame high-profile religious leaders. Most lamias themselves have no true religious faith in anything, hearing instead a mystical calling that manifests as sighs on the desert wind or murmurs from the dark places between the stars.
  Lamias are traditionally matriarchal, revering the eldest female among them as leader, mother, and shaman.
-**Recall Knowledge - Beast ([[Arcana]], [[Nature]])**: DC 22
+**Recall Knowledge - Beast ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 22
 **Unspecific Lore**: DC 20
 **Specific Lore**: DC 17
 
 # Lamia<span class="item-type">Creature 6</span>
 
 <span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Beast</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +13; darkvision
-**Languages** [[Abyssal]], [[Common]]
-**Skills** [[Lore]] +11, [[Deception]] +15, [[Diplomacy]] +11, [[Intimidation]] +13, [[Stealth]] +15, [[Survival]] +11
+**Languages** [[DATABASE/language/Abyssal|Abyssal]], [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Lore|Cult Lore]] +11, [[DATABASE/skill/Deception|Deception]] +15, [[DATABASE/skill/Diplomacy|Diplomacy]] +11, [[DATABASE/skill/Intimidation|Intimidation]] +13, [[DATABASE/skill/Stealth|Stealth]] +15, [[DATABASE/skill/Survival|Survival]] +11
 **Str** +5, **Dex** +3, **Con** +2, **Int** +1, **Wis** +3, **Cha** +3
-**Items** [[Spear]], [[Javelin]]
+**Items** [[DATABASE/weapon/Spear|+1 spear]], [[DATABASE/weapon/Javelin|javelin (2)]]
 
 ---
 **AC** 24; **Fort** +12, **Ref** +15, **Will** +15
@@ -125,5 +125,5 @@ Just as they were cursed long ago, lamias can curse those they touch, clouding t
 
 ---
 **Speed** 40 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _spear_ +17 [+12/+7], **Damage** 1d6+8 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +17 [+13/+9] (agile), **Damage** 1d6+8 slashing plus Grab</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _spear_ +14 [+9/+4] (thrown 20 feet, versatile S), **Damage** 1d4+8 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> javelin +15 [+10/+5] (thrown 30 feet), **Damage** 1d6+8 piercing</span>**Occult Innate Spells** DC 25; **4th** _[[Charm]]_ (x3), _[[Suggestion]]_; **3rd** _[[Sleep]]_; **2nd** _[[Humanoid Form]]_ (at will), _[[Mirror Image]]_; **1st** _[[Illusory Disguise]]_ (at will), _[[Illusory Object]]_ (at will), _[[Ventriloquism]]_ (at will)
-<span class="in-box-ability">**Lamia's Caress** <span class="action-icon">2</span> (curse, enchantment, mental, occult) The lamia touches a creature, who must succeed at a DC 23 Will save or become [[Stupefied]]. If the target fails additional saves against this ability, the condition value increases by 1 (to a maximum of stupefied 4). This condition value decreases by 1 every 24 hours.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _spear_ +17 [+12/+7], **Damage** 1d6+8 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +17 [+13/+9] (agile), **Damage** 1d6+8 slashing plus Grab</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _spear_ +14 [+9/+4] (thrown 20 feet, versatile S), **Damage** 1d4+8 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> javelin +15 [+10/+5] (thrown 30 feet), **Damage** 1d6+8 piercing</span>**Occult Innate Spells** DC 25; **4th** _[[DATABASE/spell/Charm|charm]]_ (x3), _[[DATABASE/spell/Suggestion|suggestion]]_; **3rd** _[[DATABASE/spell/Sleep|sleep]]_; **2nd** _[[DATABASE/spell/Humanoid Form|humanoid form]]_ (at will), _[[DATABASE/spell/Mirror Image|mirror image]]_; **1st** _[[DATABASE/spell/Illusory Disguise|illusory disguise]]_ (at will), _[[DATABASE/spell/Illusory Object|illusory object]]_ (at will), _[[DATABASE/spell/Ventriloquism|ventriloquism]]_ (at will)
+<span class="in-box-ability">**Lamia's Caress** <span class="action-icon">2</span> (curse, enchantment, mental, occult) The lamia touches a creature, who must succeed at a DC 23 Will save or become [[DATABASE/condition/Stupefied|stupefied 1]]. If the target fails additional saves against this ability, the condition value increases by 1 (to a maximum of stupefied 4). This condition value decreases by 1 every 24 hours.</span>

@@ -22,6 +22,7 @@ name: Light Hammer
 price: 3 sp
 range: null
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Agile|Agile]]'
@@ -35,11 +36,11 @@ weapon_type: Melee
 # Light Hammer
 
 <span class="item-trait">Agile</span><span class="item-trait">Thrown 20 ft.</span>
-**Source** [[Core Rulebook]] 
-**Favored Weapon** [[Brigh]], [[Droskar]], [[Grundinnar]], [[Keepers of the Hearth]], [[Kols]], [[Nivi Rhombodazzle]], [[Pillars of Knowledge]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Favored Weapon** [[DATABASE/deity/Brigh|Brigh]], [[DATABASE/deity/Droskar|Droskar]], [[DATABASE/deity/Grundinnar|Grundinnar]], [[DATABASE/deity/Keepers of the Hearth|Keepers of the Hearth]], [[DATABASE/deity/Kols|Kols]], [[DATABASE/deity/Nivi Rhombodazzle|Nivi Rhombodazzle]], [[DATABASE/deity/Pillars of Knowledge|Pillars of Knowledge]]
 **Price** 3 sp; **Damage** 1d6 B; **Bulk** L
 **Hands** 1
-**Type** Melee; **Category** Martial; **Group** [[Hammer]]
+**Type** Melee; **Category** Martial; **Group** [[DATABASE/weapongroup/Hammer|Hammer]]
 
 ---
 This smaller version of the warhammer has a wooden or metal shaft ending in a metal head. Unlike its heavier cousin, it is light enough to throw.
@@ -56,10 +57,10 @@ You can throw this weapon as a ranged attack, and it is a ranged weapon when thr
 
 ## Critical Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
-**Hammer**: The target is knocked [[Prone]].
+**Hammer**: The target is knocked [[DATABASE/condition/Prone|prone]].
 
 ## Specific Magic Weapons
 
-[[Cayden's Tankard]]
+[[DATABASE/equipment/Cayden's Tankard|Cayden's Tankard]]

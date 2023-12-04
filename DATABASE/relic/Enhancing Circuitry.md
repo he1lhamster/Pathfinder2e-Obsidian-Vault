@@ -5,6 +5,7 @@ item_category: Relics
 name: Enhancing Circuitry
 prerequisite: null
 rarity: Common
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 trait:
@@ -15,7 +16,7 @@ type: Relic Minor Gift
 # Enhancing Circuitry<span class="item-type">Minor Gift</span>
 
 <span class="item-trait">Metal</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Aspect** metal
 
 ---

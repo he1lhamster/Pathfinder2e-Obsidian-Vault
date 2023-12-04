@@ -11,6 +11,7 @@ name: Dualistic Synergy
 prerequisite: '[[DATABASE/feat/Halcyon Speaker Dedication|Halcyon Speaker Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 subcategory: null
@@ -24,16 +25,16 @@ type: Feat
 # Dualistic Synergy <span class="action-icon">1</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Metamagic</span>
-**Source** [[Character Guide]] 
-**Archetype** [[Halcyon Speaker]]
-**Prerequisites** [[Halcyon Speaker Dedication]]
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
+**Archetype** [[DATABASE/archetype/Halcyon Speaker|Halcyon Speaker]]
+**Prerequisites** [[DATABASE/feat/Halcyon Speaker Dedication|Halcyon Speaker Dedication]]
 
 ---
-If your next action is to Cast a Spell from your spell slots, you gain a benefit. If the spell is arcane, you can attempt a skill check to [[Recall Knowledge]] with a +1 status bonus to the check after casting the spell, or a +2 status bonus if the spell is 7th level or higher. If the spell is primal, you gain a number of temporary Hit Points equal to the spell’s level for 1 round. If the spell is a halcyon spell, you gain both benefits.
+If your next action is to Cast a Spell from your spell slots, you gain a benefit. If the spell is arcane, you can attempt a skill check to [[DATABASE/action/Recall Knowledge|Recall Knowledge]] with a +1 status bonus to the check after casting the spell, or a +2 status bonus if the spell is 7th level or higher. If the spell is primal, you gain a number of temporary Hit Points equal to the spell’s level for 1 round. If the spell is a halcyon spell, you gain both benefits.
 
 ## Dualistic Synergy Leads To...
 
-[[Fulminating Synergy]], [[Shared Synergy]]
+[[DATABASE/feat/Fulminating Synergy|Fulminating Synergy]], [[DATABASE/feat/Shared Synergy|Shared Synergy]]
 
 ## Traits
 

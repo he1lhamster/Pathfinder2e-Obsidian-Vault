@@ -11,6 +11,7 @@ name: Trespass Teleportation
 prerequisite: '[[DATABASE/action/Exploit Vulnerability|Exploit Vulnerability]]'
 rarity: Common
 requirement: You are benefiting from Exploit Vulnerability.
+rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -27,13 +28,13 @@ type: Feat
 # Trespass Teleportation <span class="action-icon">5</span> <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Conjuration</span><span class="item-trait">Occult</span><span class="item-trait">Teleportation</span><span class="item-trait">Thaumaturge</span>
-**Source** [[Dark Archive]]
-**Prerequisites** [[Exploit Vulnerability]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Prerequisites** [[DATABASE/action/Exploit Vulnerability|Exploit Vulnerability]]
 **Trigger** The target of your Exploit Vulnerability is within 120 feet and uses a teleportation effect.
 **Requirements** You are benefiting from Exploit Vulnerability.
 
 ---
-You can hunt your foe to the ends of creation. You teleport along with the enemy, appearing the same direction and distance from it as you were before it teleported (or the nearest unoccupied space if your destination is occupied). Any allies affected by [[Share Weakness]] or [[Ubiquitous Weakness]], if you have those abilities, can spend their reaction to teleport along with the enemy if they're within 120 of the enemy and choose to do so.
+You can hunt your foe to the ends of creation. You teleport along with the enemy, appearing the same direction and distance from it as you were before it teleported (or the nearest unoccupied space if your destination is occupied). Any allies affected by [[DATABASE/feat/Share Weakness|Share Weakness]] or [[DATABASE/feat/Ubiquitous Weakness|Ubiquitous Weakness]], if you have those abilities, can spend their reaction to teleport along with the enemy if they're within 120 of the enemy and choose to do so.
 
 ## Traits
 

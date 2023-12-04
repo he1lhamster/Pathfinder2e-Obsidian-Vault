@@ -24,6 +24,7 @@ patron_theme: null
 range: 30 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Divination
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -43,9 +44,9 @@ type: Spell
 # Mind Probe<span class="item-type">Spell 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Divination</span><span class="item-trait">Linguistic</span><span class="item-trait">Mental</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult
-**Deities** [[Conqueror Worm]], [[Ma'at]]
+**Deities** [[DATABASE/deity/Conqueror Worm|Conqueror Worm]], [[DATABASE/deity/Ma'at|Ma'at]]
 **Cast** 1 minute (material, somatic, verbal)
 **Range** 30 feet; **Targets** 1 creature
 **Saving Throw** Will; **Duration** sustained up to 1 minute

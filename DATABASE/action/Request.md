@@ -7,6 +7,7 @@ id: '51'
 name: Request
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
@@ -21,7 +22,7 @@ type: Action
 # Request <span class="action-icon">1</span>
 
 <span class="item-trait">Auditory</span><span class="item-trait">Concentrate</span><span class="item-trait">Linguistic</span><span class="item-trait">Mental</span>
-**Source** [[Core Rulebook]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
 You can make a request of a creature that’s friendly or helpful to you. You must couch the request in terms that the target would accept given their current attitude toward you. The GM sets the DC based on the difficulty of the request. Some requests are unsavory or impossible, and even a helpful NPC would never agree to them.

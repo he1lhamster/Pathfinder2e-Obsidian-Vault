@@ -62,23 +62,23 @@ wisdom: '+1'
 # Rhino Warrior
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 24
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 24
 **Unspecific Lore**: DC 22
 **Specific Lore**: DC 19
 
 # Rhino Warrior<span class="item-type">Creature 4</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">CN</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 177. Burning Tundra]]
-[[Human]] barbarians
+**Source** [[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burning Tundra]]
+[[DATABASE/ancestry/Human|human]] barbarians
 **Perception** +11
-**Skills** [[Athletics]] +12, [[Intimidation]] +10
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +12, [[DATABASE/skill/Intimidation|Intimidation]] +10
 **Str** +5, **Dex** +2, **Con** +3, **Int** -1, **Wis** +1, **Cha** +0
 
 ---
 **AC** 20; **Fort** +12, **Ref** +14, **Will** +10
 **HP** 70
-<span class="in-box-ability">**Counter-Charge <span class="action-icon">5</span> ** **Trigger** A creature Strides within reach of the warrior and critically fails to Strike the warrior with a melee weapon; **Effect** The rhino warrior knocks the creature to the ground, and the triggering creature falls [[Prone]] and takes 2d6+5 bludgeoning damage. The rhino warrior is [[Flat-Footed]] until the end of their next turn.</span>
+<span class="in-box-ability">**Counter-Charge <span class="action-icon">5</span> ** **Trigger** A creature Strides within reach of the warrior and critically fails to Strike the warrior with a melee weapon; **Effect** The rhino warrior knocks the creature to the ground, and the triggering creature falls [[DATABASE/condition/Prone|prone]] and takes 2d6+5 bludgeoning damage. The rhino warrior is [[DATABASE/condition/Flat-Footed|flat-footed]] until the end of their next turn.</span>
 
 ---
 **Speed** 25 feet

@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: You are a master in Perception
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Eye of Apprehension<span class="item-type">Item 12</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Divination</span><span class="item-trait">Fortune</span><span class="item-trait">Talisman</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 400 gp
 **Usage** affixed to armor; **Bulk** —
 **Activate** <span class="action-icon">4</span> envision **Trigger** You are about to roll Perception for initiative but haven't rolled yet; **Requirements** You are a master in Perception

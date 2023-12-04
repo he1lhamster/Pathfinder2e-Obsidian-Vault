@@ -11,6 +11,7 @@ name: Duelist's Challenge
 prerequisite: '[[DATABASE/feat/Duelist Dedication|Duelist Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Duelist's Challenge <span class="action-icon">1</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Open</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Duelist]]
-**Prerequisites** [[Duelist Dedication]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Duelist|Duelist]]
+**Prerequisites** [[DATABASE/feat/Duelist Dedication|Duelist Dedication]]
 
 ---
 Select one foe that you can see and proclaim a challenge. That foe is your dueling opponent until they are defeated, flee, or the encounter ends. Any time you hit that enemy using a single one-handed melee weapon while your other hand or hands are free, you gain a circumstance bonus to the Strike's damage equal to the number of damage dice your weapon deals.

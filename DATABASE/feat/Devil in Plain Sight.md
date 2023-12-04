@@ -11,6 +11,7 @@ name: Devil in Plain Sight
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -27,14 +28,14 @@ type: Feat
 # Devil in Plain Sight <span class="action-icon">2</span> <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Divine</span><span class="item-trait">Polymorph</span><span class="item-trait">Tiefling</span><span class="item-trait">Transmutation</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-You've learned to draw your fiendish nature into a small ball of corruption and hide it in your soul. Your obviously fiendish traits disappear, including any tails, horns, and cloven hooves, though hints remain (claws turn into jagged nails or eyes retain an odd hue, for instance). You're still recognizably yourself, but now appear as a typical, non-tiefling member of your base ancestry. Using Devil in Plain Sight counts as creating a disguise when using [[Deception]] to [[Impersonate]], and your transformation automatically defeats Perception DCs to determine if you're a normal member of your base ancestry; only creatures actively rolling Perception to examine you might notice the disguise. While in your shapeshifted form, you can't use unarmed attacks, innate spells, or other abilities that require physical features you receive from a tiefling ancestry feat—for instance, you can't use the [[Skillful Tail]] feat. You can remain in your alternate form indefinitely, and can shift back to your tiefling form by using this action again.
+You've learned to draw your fiendish nature into a small ball of corruption and hide it in your soul. Your obviously fiendish traits disappear, including any tails, horns, and cloven hooves, though hints remain (claws turn into jagged nails or eyes retain an odd hue, for instance). You're still recognizably yourself, but now appear as a typical, non-tiefling member of your base ancestry. Using Devil in Plain Sight counts as creating a disguise when using [[DATABASE/skill/Deception|Deception]] to [[DATABASE/action/Impersonate|Impersonate]], and your transformation automatically defeats Perception DCs to determine if you're a normal member of your base ancestry; only creatures actively rolling Perception to examine you might notice the disguise. While in your shapeshifted form, you can't use unarmed attacks, innate spells, or other abilities that require physical features you receive from a tiefling ancestry feat—for instance, you can't use the [[DATABASE/feat/Skillful Tail|Skillful Tail]] feat. You can remain in your alternate form indefinitely, and can shift back to your tiefling form by using this action again.
 
 ## Devil in Plain Sight Leads To...
 
-[[Finest Trick]]
+[[DATABASE/feat/Finest Trick|Finest Trick]]
 
 ## Traits
 
@@ -53,7 +54,7 @@ These effects transform the target into a new form. A target can't be under the 
 
 **Tiefling:**
 
-A creature with this trait has the tiefling versatile heritage. Tieflings are [[Planar Scion]] descended from fiends. An ability with this trait can be used or selected only by tieflings.
+A creature with this trait has the tiefling versatile heritage. Tieflings are [[DATABASE/monsterfamily/Planar Scion|planar scions]] descended from fiends. An ability with this trait can be used or selected only by tieflings.
 
 **Transmutation:**
 

@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 size: null
@@ -57,7 +58,7 @@ weapon_type: null
 # Recording Rod<span class="item-type">Item 3+</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Consumable</span><span class="item-trait">Divination</span><span class="item-trait">Magical</span><span class="item-trait">Scrying</span>
-**Source** [[Pathfinder 157. Devil at the Dreaming Palace]]
+**Source** [[DATABASE/source/Pathfinder 157. Devil at the Dreaming Palace|Pathfinder #157: Devil at the Dreaming Palace]]
 **Usage** varies; **Bulk** 1
 
 ---
@@ -66,12 +67,12 @@ This smooth metal bar is short enough to fit in one hand. It has several inset g
 
 ## Recording Rod (Basic)<span class="item-type">Item 3</span>
 
-**Source** [[Pathfinder 157. Devil at the Dreaming Palace]]
+**Source** [[DATABASE/source/Pathfinder 157. Devil at the Dreaming Palace|Pathfinder #157: Devil at the Dreaming Palace]]
 **Price** 20 gp
 **Bulk** 1
 
 ## Recording Rod (Reusable)<span class="item-type">Item 5</span>
 
-**Source** [[Pathfinder 157. Devil at the Dreaming Palace]]
+**Source** [[DATABASE/source/Pathfinder 157. Devil at the Dreaming Palace|Pathfinder #157: Devil at the Dreaming Palace]]
 **Price** 60 gp
 **Bulk** 1

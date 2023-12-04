@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 size: null
@@ -55,9 +56,9 @@ weapon_type: null
 # Antivenom Potion<span class="item-type">Item 2</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Magical</span><span class="item-trait">Necromancy</span><span class="item-trait">Potion</span>
-**Source** [[Troubles in Otari]]
+**Source** [[DATABASE/source/Troubles in Otari|Troubles in Otari]]
 **Price** 6 gp
 **Usage** held in 1 hand; **Bulk** L
 
 ---
-This cloudy, white liquid helps protect against poisons. When you drink an _antivenom potion_, you can immediately attempt a DC 10 flat check to end any [[Persistent Damage]] you're taking. In addition, for 1 minute after drinking the potion, you gain a +1 item bonus to Fortitude saving throws to avoid taking persistent poison damage.
+This cloudy, white liquid helps protect against poisons. When you drink an _antivenom potion_, you can immediately attempt a DC 10 flat check to end any [[DATABASE/condition/Persistent Damage|persistent poison damage]] you're taking. In addition, for 1 minute after drinking the potion, you gain a +1 item bonus to Fortitude saving throws to avoid taking persistent poison damage.

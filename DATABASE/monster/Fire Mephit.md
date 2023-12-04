@@ -80,25 +80,25 @@ wisdom: '+0'
 # Fire Mephit
 
 Fire mephits are conniving and quick to anger. They aren’t evil, but they delight in inflicting pain, and their love of burning things pushes them the closest to this alignment of all mephits. They have bright-orange skin, and wisps of flame flicker along their wings as they flap through the air. The rivalry between fire and water mephits is notorious, and these creatures loathe working together for any amount of time.
-**Recall Knowledge - Elemental ([[Arcana]], [[Nature]])**: DC 15
+**Recall Knowledge - Elemental ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Fire Mephit<span class="item-type">Creature 1</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Small</span><span class="item-trait">Elemental</span><span class="item-trait">Fire</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +3; darkvision, smoke vision
-**Languages** [[Ignan]]
-**Skills** [[Acrobatics]] +7, [[Deception]] +7
+**Languages** [[DATABASE/language/Ignan|Ignan]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +7, [[DATABASE/skill/Deception|Deception]] +7
 **Str** +0, **Dex** +4, **Con** +0, **Int** -2, **Wis** +0, **Cha** +2
 **Smoke Vision** The fire mephit ignores the concealed condition from smoke.
 
 ---
 **AC** 17; **Fort** +3, **Ref** +9, **Will** +7
-**HP** 16 ([[Fast Healing]] 2 (while touching fire)); **Immunities** bleed, fire, paralyzed, poison, sleep; **Weaknesses** cold 3
+**HP** 16 ([[DATABASE/monsterability/Fast Healing|fast healing]] 2 (while touching fire)); **Immunities** bleed, fire, paralyzed, poison, sleep; **Weaknesses** cold 3
 
 ---
 **Speed** 20 feet, fly 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +9 [+4/-1] (finesse), **Damage** 1d6 piercing and 1d4 fire</span>**Arcane Innate Spells** DC 15; **Cantrips** **(1st)** _[[Daze]]_, _[[Light]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +9 [+4/-1] (finesse), **Damage** 1d6 piercing and 1d4 fire</span>**Arcane Innate Spells** DC 15; **Cantrips** **(1st)** _[[DATABASE/spell/Daze|daze]]_, _[[DATABASE/spell/Light|light]]_
 <span class="in-box-ability">**Breath Weapon** <span class="action-icon">2</span> (arcane, fire) The fire mephit breathes flames in a 15-foot cone that deals 2d4 fire and 1d4 persistent fire damage to each creature within the area (DC 17 basic Reflex save). The fire mephit can’t use Breath Weapon again for 1d4 rounds.</span>

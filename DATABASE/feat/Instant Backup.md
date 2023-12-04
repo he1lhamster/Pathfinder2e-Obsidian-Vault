@@ -11,6 +11,7 @@ name: Instant Backup
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Instant Backup <span class="action-icon">5</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Gunslinger</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Trigger** Your attack with a firearm misfires.
 
 ---

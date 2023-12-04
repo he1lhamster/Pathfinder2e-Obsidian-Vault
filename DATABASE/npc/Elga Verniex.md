@@ -83,20 +83,20 @@ wisdom: '+3'
 # Elga Verniex
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 32
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 32
 **Unspecific Lore**: DC 30
 **Specific Lore**: DC 27
 
 # Elga Verniex<span class="item-type">Creature 6</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Kingmaker Adventure Path]]
-Female fey-touched [[Human]] [[Sorcerer]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
+Female fey-touched [[DATABASE/ancestry/Human|human]] [[DATABASE/class_/Sorcerer|sorcerer]]
 **Perception** +13
-**Languages** [[Common]]
-**Skills** [[Arcana]] +12, [[Crafting]] +14, [[Medicine]] +13, [[Nature]] +12, [[Occultism]] +12, [[Survival]] +13
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Arcana|Arcana]] +12, [[DATABASE/skill/Crafting|Crafting]] +14, [[DATABASE/skill/Medicine|Medicine]] +13, [[DATABASE/skill/Nature|Nature]] +12, [[DATABASE/skill/Occultism|Occultism]] +12, [[DATABASE/skill/Survival|Survival]] +13
 **Str** +0, **Dex** +2, **Con** +0, **Int** +2, **Wis** +3, **Cha** +5
-**Items** _+1 [[Staff]]_ with an [[Owlbear Claw]] talisman affixed, [[Healing Potion]] (2), [[Artisan's Tools]]
+**Items** _+1 [[DATABASE/weapon/Staff|staff]]_ with an [[DATABASE/equipment/Owlbear Claw|owlbear claw]] talisman affixed, [[DATABASE/equipment/Healing Potion|lesser healing potions]] (2), [[DATABASE/equipment/Artisan's Tools|artisan's tools]]
 
 ---
 **AC** 21; **Fort** +10, **Ref** +14, **Will** +15
@@ -105,6 +105,6 @@ Female fey-touched [[Human]] [[Sorcerer]]
 
 ---
 **Speed** 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _staff_ +13 [+8/+3] (two-hand d8), **Damage** 1d4+2 bludgeoning</span>**Occult Spontaneous Spells** DC 24, attack +17; **3rd** _[[Clairaudience]]_, _[[Paralyze]]_, _[[Phantom Pain]]_, _[[Wanderer's Guide]]_ (4 slots); **2nd** _[[Hideous Laughter]]_, _[[Illusory Creature]]_, _[[Invisibility]]_, _[[Silence]]_ (4 slots); **1st** _[[Alarm]]_, _[[Fear]]_, _[[Sanctuary]]_, _[[Sleep]]_ (4 slots); **Cantrips** **(3rd)** _[[Daze]]_, _[[Detect Magic]]_, _[[Ghost Sound]]_, _[[Know Direction]]_, _[[Prestidigitation]]_
-**Rituals** DC 24; **2nd** _[[Animate Object]]_, _[[Inveigle]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _staff_ +13 [+8/+3] (two-hand d8), **Damage** 1d4+2 bludgeoning</span>**Occult Spontaneous Spells** DC 24, attack +17; **3rd** _[[DATABASE/spell/Clairaudience|clairaudience]]_, _[[DATABASE/spell/Paralyze|paralyze]]_, _[[DATABASE/spell/Phantom Pain|phantom pain]]_, _[[DATABASE/spell/Wanderer's Guide|wanderer's guide]]_ (4 slots); **2nd** _[[DATABASE/spell/Hideous Laughter|hideous laughter]]_, _[[DATABASE/spell/Illusory Creature|illusory creature]]_, _[[DATABASE/spell/Invisibility|invisibility]]_, _[[DATABASE/spell/Silence|silence]]_ (4 slots); **1st** _[[DATABASE/spell/Alarm|alarm]]_, _[[DATABASE/spell/Fear|fear]]_, _[[DATABASE/spell/Sanctuary|sanctuary]]_, _[[DATABASE/spell/Sleep|sleep]]_ (4 slots); **Cantrips** **(3rd)** _[[DATABASE/spell/Daze|daze]]_, _[[DATABASE/spell/Detect Magic|detect magic]]_, _[[DATABASE/spell/Ghost Sound|ghost sound]]_, _[[DATABASE/spell/Know Direction|know direction]]_, _[[DATABASE/spell/Prestidigitation|prestidigitation]]_
+**Rituals** DC 24; **2nd** _[[DATABASE/ritual/Animate Object|animate object]]_, _[[DATABASE/ritual/Inveigle|inveigle]]_
 <span class="in-box-ability">**Steady Spellcasting** If another creature's reaction would disrupt Elga's spellcasting action, she attempts a DC 15 flat check. If she succeeds, her action isn't disrupted.</span>

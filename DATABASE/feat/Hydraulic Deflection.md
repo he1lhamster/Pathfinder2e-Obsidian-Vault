@@ -11,6 +11,7 @@ name: Hydraulic Deflection
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -27,7 +28,7 @@ type: Feat
 # Hydraulic Deflection <span class="action-icon">1</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Azarketi</span><span class="item-trait">Concentrate</span><span class="item-trait">Primal</span><span class="item-trait">Water</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
 Drawing moisture from the atmosphere, you create a disc of hovering water that deflects attacks. You gain a +1 circumstance bonus to AC until the start of your next turn.

@@ -11,6 +11,7 @@ name: Continuous Assault
 prerequisite: '[[DATABASE/feat/Elemental Assault|Elemental Assault]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Continuous Assault <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Suli</span>
-**Source** [[Ancestry Guide]] 
-**Prerequisites** [[Elemental Assault]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
+**Prerequisites** [[DATABASE/feat/Elemental Assault|Elemental Assault]]
 
 ---
 You can use Elemental Assault once per hour instead of once per day.
@@ -33,4 +34,4 @@ You can use Elemental Assault once per hour instead of once per day.
 
 **Suli:**
 
-Sulis are planar scions descended from [[Janni]].
+Sulis are planar scions descended from [[DATABASE/monster/Janni|jann]].

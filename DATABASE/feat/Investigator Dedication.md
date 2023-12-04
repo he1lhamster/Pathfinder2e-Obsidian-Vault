@@ -11,6 +11,7 @@ name: Investigator Dedication
 prerequisite: Intelligence 14
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,17 +26,17 @@ type: Feat
 # Investigator Dedication <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Dedication</span><span class="item-trait">Multiclass</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Investigator]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Investigator|Investigator]]
 **Prerequisites** Intelligence 14
 
 ---
-You gain the [[Investigator]] class feature, which grants you both the Pursue a Lead activity and Clue In reaction. You become trained in [[Society]] and another skill of your choice. If you were already trained in Society, you instead become trained in an additional skill of your choice. You also become trained in investigator class DC.
+You gain the [[DATABASE/class_/Investigator|on the case]] class feature, which grants you both the Pursue a Lead activity and Clue In reaction. You become trained in [[DATABASE/skill/Society|Society]] and another skill of your choice. If you were already trained in Society, you instead become trained in an additional skill of your choice. You also become trained in investigator class DC.
 
-### [[Pursue a Lead]]
+### [[DATABASE/action/Pursue a Lead|Pursue a Lead]]
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Exploration</span><span class="item-trait">Investigator</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Frequency** once per 10 minutes
 
 ---
@@ -43,10 +44,10 @@ You spend 1 minute examining the details of one potential clue, designating the 
  Whenever you attempt a Perception or skill check to investigate a designated subject, you gain a +1 circumstance bonus to the check. The exact checks this applies to depend on the actions you use to investigate and are determined by the GM, but checks to investigate are typically Perception checks or skill checks that use Intelligence, Wisdom, or Charisma.
  You can maintain two active investigations at a time. If you Pursue another Lead after that, the subject must be different from any of your current investigations (or rather, they must be different as far as you know), and you give up on a current subject of your choice. Once you've given up pursuit of a subject, you can't Pursue that Lead again until after the next time you make your daily preparations.
 
-### [[Clue In]] <span class="action-icon">5</span>
+### [[DATABASE/action/Clue In|Clue In]] <span class="action-icon">5</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Investigator</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Frequency** once per 10 minutes
 **Trigger** Another creature attempts a check to investigate a lead you're pursuing.
 
@@ -56,7 +57,7 @@ You share information with the triggering creature. They gain a circumstance bon
 
 ## Investigator Dedication Leads To...
 
-[[Basic Deduction]], [[Investigator's Stratagem]], [[Keen Recollection]], [[Master Spotter (Investigator)]], [[Skill Mastery (Investigator)]]
+[[DATABASE/feat/Basic Deduction|Basic Deduction]], [[DATABASE/feat/Investigator's Stratagem|Investigator's Stratagem]], [[DATABASE/feat/Keen Recollection|Keen Recollection]], [[DATABASE/feat/Master Spotter (Investigator)|Master Spotter (Investigator)]], [[DATABASE/feat/Skill Mastery (Investigator)|Skill Mastery (Investigator)]]
 
 ## Traits
 

@@ -11,6 +11,7 @@ name: Legendary Linguist
 prerequisite: Legendary in [[DATABASE/skill/Society|Society]] ; [[DATABASE/feat/Multilingual|Multilingual]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: society
@@ -24,8 +25,8 @@ type: Feat
 # Legendary Linguist <span class="item-type">Feat 15</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** legendary in [[Society]]; [[Multilingual]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** legendary in [[DATABASE/skill/Society|Society]]; [[DATABASE/feat/Multilingual|Multilingual]]
 
 ---
 You’re so skilled with languages you can create a pidgin instantly. You can always talk to any creature that has a language—even a language you don’t know —by creating a new pidgin language that uses simplified terms and conveys basic concepts. To do so, you must first understand at least what medium of communication the creature uses (speech, sign language, and so on).

@@ -65,25 +65,25 @@ wisdom: '+3'
 # Nwanyian Defender
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 22
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 22
 **Unspecific Lore**: DC 20
 **Specific Lore**: DC 17
 
 # Nwanyian Defender<span class="item-type">Creature 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">NG</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 183. Field of Maidens]]
+**Source** [[DATABASE/source/Pathfinder 183. Field of Maidens|Pathfinder #183: Field of Maidens]]
 **Perception** +12
-**Languages** [[Drooni]]
-**Skills** [[Athletics]] +13, [[Intimidation]] +11, [[Survival]] +12
+**Languages** [[DATABASE/language/Drooni|Drooni]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +13, [[DATABASE/skill/Intimidation|Intimidation]] +11, [[DATABASE/skill/Survival|Survival]] +12
 **Str** +4, **Dex** +1, **Con** +3, **Int** +0, **Wis** +3, **Cha** +0
-**Bravery** Whenever the defender rolls a success at a Will save against a fear effect, they get a critical success instead. In addition, any time they gain the [[Frightened]] condition, they reduce its value by 1.
-**Items** _+1 [[Guisarme]]_, [[Breastplate]], [[Composite Shortbow]]
+**Bravery** Whenever the defender rolls a success at a Will save against a fear effect, they get a critical success instead. In addition, any time they gain the [[DATABASE/condition/Frightened|frightened]] condition, they reduce its value by 1.
+**Items** _+1 [[DATABASE/weapon/Guisarme|guisarme]]_, [[DATABASE/armor/Breastplate|breastplate]], [[DATABASE/weapon/Composite Shortbow|composite shortbow (20 arrows)]]
 
 ---
 **AC** 22; **Fort** +15, **Ref** +9, **Will** +12
 **HP** 80
-<span class="in-box-ability">**[[Attack of Opportunity]] <span class="action-icon">5</span> ** </span>
+<span class="in-box-ability">**[[DATABASE/monsterability/Attack of Opportunity|Attack of Opportunity]] <span class="action-icon">5</span> ** </span>
 
 ---
 **Speed** 25 feet

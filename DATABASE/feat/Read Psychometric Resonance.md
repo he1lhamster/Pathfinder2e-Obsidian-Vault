@@ -11,6 +11,7 @@ name: Read Psychometric Resonance
 prerequisite: Trained in [[DATABASE/skill/Occultism|Occultism]]
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: Divination
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: occultism
@@ -31,11 +32,11 @@ type: Feat
 # Read Psychometric Resonance <span class="item-type">Feat 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Concentrate</span><span class="item-trait">Divination</span><span class="item-trait">Emotion</span><span class="item-trait">Exploration</span><span class="item-trait">General</span><span class="item-trait">Mental</span><span class="item-trait">Occult</span><span class="item-trait">Skill</span>
-**Source** [[Dark Archive]]
-**Prerequisites** trained in [[Occultism]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Prerequisites** trained in [[DATABASE/skill/Occultism|Occultism]]
 
 ---
-With a touch, you can read the psychic impressions left on objects by their previous owners. This exploration activity functions similarly to [[Detect Magic]] in that you move at half your travel speed or slower while looking for psychometric resonance. You must brush your bare hands over any objects you pass while you do this. This detects objects with significant emotional resonance attached to them, such as the joy from a child's beloved teddy bear, the sorrow from a widower's wedding ring, or the fear from a victim's murder weapon. If you're looking for a particular type of emotional resonance, you can choose to ignore other emotions. If you find an item with that resonance, you can explore that resonance with the following action.
+With a touch, you can read the psychic impressions left on objects by their previous owners. This exploration activity functions similarly to [[DATABASE/action/Detect Magic|Detect Magic]] in that you move at half your travel speed or slower while looking for psychometric resonance. You must brush your bare hands over any objects you pass while you do this. This detects objects with significant emotional resonance attached to them, such as the joy from a child's beloved teddy bear, the sorrow from a widower's wedding ring, or the fear from a victim's murder weapon. If you're looking for a particular type of emotional resonance, you can choose to ignore other emotions. If you find an item with that resonance, you can explore that resonance with the following action.
  **Psychometric Assessment** (concentrate, divination, emotion, exploration, mental, occult) **Requirements** Your bare hands are touching an object in which you detected psychometric resonance; **Effect** You spend 1 minute concentrating on the object to get a vision of the face of the person who imbued the item with such emotion in the first place. If the associated emotion is painfully negative, you might take 1d6 psychic damage, as determined by the GM.
 
 ## Traits
@@ -74,4 +75,4 @@ A general feat with the skill trait improves your skills and their actions or gi
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.

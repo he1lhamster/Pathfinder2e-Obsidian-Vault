@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Investigator Dedication|Investigator Dedication]]
   expert in Perception'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Master Spotter (Investigator) <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Investigator]]
-**Prerequisites** [[Investigator Dedication]]; expert in Perception
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Investigator|Investigator]]
+**Prerequisites** [[DATABASE/feat/Investigator Dedication|Investigator Dedication]]; expert in Perception
 
 ---
 Your proficiency rank in Perception increases to master.

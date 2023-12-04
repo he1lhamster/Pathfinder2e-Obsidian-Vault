@@ -11,6 +11,7 @@ name: Riftmarked
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -24,14 +25,14 @@ type: Feat
 # Riftmarked <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Lineage</span><span class="item-trait">Tiefling</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-Long ago, [[Qlippoth]] marked someone in your lineage, most likely through their ancient runestones that dot Golarion's surface. Yours is an old lineage, primordial and twisted, and you have a sense for similarly twisted things. You're trained in [[Occultism]]. If you're already trained in Occultism (from your background or class, for example), you instead become trained in a skill of your choice. You also gain the [[Oddity Identification]] skill feat.
+Long ago, [[DATABASE/monsterfamily/Qlippoth|qlippoth]] marked someone in your lineage, most likely through their ancient runestones that dot Golarion's surface. Yours is an old lineage, primordial and twisted, and you have a sense for similarly twisted things. You're trained in [[DATABASE/skill/Occultism|Occultism]]. If you're already trained in Occultism (from your background or class, for example), you instead become trained in a skill of your choice. You also gain the [[DATABASE/feat/Oddity Identification|Oddity Identification]] skill feat.
 
 ## Riftmarked Leads To...
 
-[[Qlippoth Magic]]
+[[DATABASE/feat/Qlippoth Magic|Qlippoth Magic]]
 
 ## Traits
 
@@ -41,4 +42,4 @@ A feat with this trait indicates a character's descendance from a particular typ
 
 **Tiefling:**
 
-A creature with this trait has the tiefling versatile heritage. Tieflings are [[Planar Scion]] descended from fiends. An ability with this trait can be used or selected only by tieflings.
+A creature with this trait has the tiefling versatile heritage. Tieflings are [[DATABASE/monsterfamily/Planar Scion|planar scions]] descended from fiends. An ability with this trait can be used or selected only by tieflings.

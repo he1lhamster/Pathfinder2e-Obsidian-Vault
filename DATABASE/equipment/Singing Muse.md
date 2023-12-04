@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 size: null
@@ -57,10 +58,10 @@ weapon_type: null
 # Singing Muse<span class="item-type">Item 6</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Abjuration</span><span class="item-trait">Consumable</span><span class="item-trait">Magical</span><span class="item-trait">Talisman</span>
-**Source** [[Pathfinder 170. Spoken on the Song Wind]]
+**Source** [[DATABASE/source/Pathfinder 170. Spoken on the Song Wind|Pathfinder #170: Spoken on the Song Wind]]
 **Price** 250 gp
 **Usage** affixed to armor; **Bulk** —
-**Activate** <span class="action-icon">5</span> envision **Trigger** You attempt a [[Performance]] check
+**Activate** <span class="action-icon">5</span> envision **Trigger** You attempt a [[DATABASE/skill/Performance|Performance]] check
 
 ---
 This small figurine is carved from a single piece of silvery, spiky stone and resembles a beautiful dryad pouring water into a small pool. When you activate the muse, you are momentarily enlightened with inspiration that bolsters your performance. If you roll a success on your triggering check, you get a critical success instead.

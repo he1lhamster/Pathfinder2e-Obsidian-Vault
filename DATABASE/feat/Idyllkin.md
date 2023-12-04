@@ -11,6 +11,7 @@ name: Idyllkin
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -24,20 +25,20 @@ type: Feat
 # Idyllkin <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Aasimar</span><span class="item-trait">Lineage</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-Your wild, unique features betray your [[Agathion]] birthright. Serene celestials from the plane of [[Nirvana]], agathions seek the peaceful path, ensuring a better world for all to coexist. Your halcyon demeanor leads you to search for peaceful resolution to conflict. You gain the trained proficiency rank in [[Nature]]. If you would automatically become trained in Nature (from your background or class, for example), you instead become trained in a skill of your choice. You know the [[Sylvan]] language and gain the [[Natural Medicine]] skill feat.
+Your wild, unique features betray your [[DATABASE/monsterfamily/Agathion|agathion]] birthright. Serene celestials from the plane of [[DATABASE/plane/Nirvana|Nirvana]], agathions seek the peaceful path, ensuring a better world for all to coexist. Your halcyon demeanor leads you to search for peaceful resolution to conflict. You gain the trained proficiency rank in [[DATABASE/skill/Nature|Nature]]. If you would automatically become trained in Nature (from your background or class, for example), you instead become trained in a skill of your choice. You know the [[DATABASE/language/Sylvan|Sylvan]] language and gain the [[DATABASE/feat/Natural Medicine|Natural Medicine]] skill feat.
 
 ## Idyllkin Leads To...
 
-[[Agathion Magic]], [[Tranquil Sanctuary]]
+[[DATABASE/feat/Agathion Magic|Agathion Magic]], [[DATABASE/feat/Tranquil Sanctuary|Tranquil Sanctuary]]
 
 ## Traits
 
 **Aasimar:**
 
-A creature with this trait has the aasimar versatile heritage. Aasimars are [[Planar Scion]] descended from celestial beings. An ability with this trait can be used or selected only by aasimars.
+A creature with this trait has the aasimar versatile heritage. Aasimars are [[DATABASE/monsterfamily/Planar Scion|planar scions]] descended from celestial beings. An ability with this trait can be used or selected only by aasimars.
 
 **Lineage:**
 

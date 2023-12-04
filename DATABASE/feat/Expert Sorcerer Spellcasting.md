@@ -14,6 +14,7 @@ prerequisite: '[[DATABASE/feat/Basic Sorcerer Spellcasting|Basic Sorcerer Spellc
   , depending on bloodline'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -26,16 +27,16 @@ type: Feat
 # Expert Sorcerer Spellcasting <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Sorcerer]]
-**Prerequisites** [[Basic Sorcerer Spellcasting]]; master in [[Arcana]], [[Nature]], [[Occultism]], or [[Religion]], depending on bloodline
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Sorcerer|Sorcerer]]
+**Prerequisites** [[DATABASE/feat/Basic Sorcerer Spellcasting|Basic Sorcerer Spellcasting]]; master in [[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]], [[DATABASE/skill/Occultism|Occultism]], or [[DATABASE/skill/Religion|Religion]], depending on bloodline
 
 ---
 You gain the expert spellcasting benefits.
 
 ## Expert Sorcerer Spellcasting Leads To...
 
-[[Master Sorcerer Spellcasting]]
+[[DATABASE/feat/Master Sorcerer Spellcasting|Master Sorcerer Spellcasting]]
 
 ## Traits
 

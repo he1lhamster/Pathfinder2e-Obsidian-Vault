@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 size: null
@@ -54,10 +55,10 @@ weapon_type: null
 # Fearless Sash<span class="item-type">Item 7</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 325 gp
 **Usage** worn belt; **Bulk** —
 
 ---
 A feeling of security radiates out from this sash made of fine yellow fabric. You gain a +1 status bonus to saves against fear.
-**Activate** <span class="action-icon">1</span> command **Frequency** once per day; **Effect** You and each ally in a 5-foot emanation reduce your [[Frightened]] values by 1.
+**Activate** <span class="action-icon">1</span> command **Frequency** once per day; **Effect** You and each ally in a 5-foot emanation reduce your [[DATABASE/condition/Frightened|frightened]] values by 1.

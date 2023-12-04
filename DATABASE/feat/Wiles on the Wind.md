@@ -11,6 +11,7 @@ name: Wiles on the Wind
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Illusion
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -28,14 +29,14 @@ type: Feat
 # Wiles on the Wind <span class="action-icon">2</span> <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Air</span><span class="item-trait">Auditory</span><span class="item-trait">Illusion</span><span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Primal</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
 Speaking lies, you set them loose upon a drifting wind. You create an auditory illusion that comes from a square within 500 feet and can be as loud as four normal humans talking. The sound can be intricate, including speech or music, though the GM might require you to attempt a check or know a language for it to be convincing. The illusion lasts until the end of your next turn, and you can Sustain the impulse.
  You can have any creature within 40 feet of the illusion, or that comes within 40 feet of it during the duration, attempt a Will save against your class DC. This is a mental effect.
 **Success** The creature is unaffected, disbelieves the illusion, and is temporarily immune for 1 hour.
-**Failure** The creature is [[Fascinated]] with the source of the sound until the end of its next turn. When the fascination ends, the creature is temporarily immune for 1 hour.
-**Critical Failure** As failure, but the creature is fascinated for 1 minute or until it [[War Pony]].
+**Failure** The creature is [[DATABASE/condition/Fascinated|fascinated]] with the source of the sound until the end of its next turn. When the fascination ends, the creature is temporarily immune for 1 hour.
+**Critical Failure** As failure, but the creature is fascinated for 1 minute or until it [[DATABASE/monster/War Pony|disbelieves]].
 
 ## Traits
 
@@ -45,7 +46,7 @@ Effects with the air trait either manipulate or conjure air. Those that manipula
 
 **Auditory:**
 
-Auditory actions and effects rely on sound. An action with the auditory trait can be successfully performed only if the creature using the action can speak or otherwise produce the required sounds. A spell or effect with the auditory trait has its effect only if the target can hear it. This applies only to sound-based parts of the effect, as determined by the GM. This is different from a sonic effect, which still affects targets who can't hear it (such as [[Deafened]] targets) as long as the effect itself makes sound.
+Auditory actions and effects rely on sound. An action with the auditory trait can be successfully performed only if the creature using the action can speak or otherwise produce the required sounds. A spell or effect with the auditory trait has its effect only if the target can hear it. This applies only to sound-based parts of the effect, as determined by the GM. This is different from a sonic effect, which still affects targets who can't hear it (such as [[DATABASE/condition/Deafened|deaf]] targets) as long as the effect itself makes sound.
 
 **Illusion:**
 

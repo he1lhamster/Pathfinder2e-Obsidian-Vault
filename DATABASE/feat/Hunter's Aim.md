@@ -11,6 +11,7 @@ name: Hunter's Aim
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Hunter's Aim <span class="action-icon">2</span> <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Ranger</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Game Hunter]]*
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Game Hunter|Game Hunter]]*
 * This archetype offers Hunter's Aim at a different level than displayed here.
 
 ---
@@ -37,7 +38,7 @@ This feat can be used for one or more Archetypes in addition to the listed Class
 
 ## Hunter's Aim Leads To...
 
-[[Targeting Shot]]
+[[DATABASE/feat/Targeting Shot|Targeting Shot]]
 
 ## Traits
 

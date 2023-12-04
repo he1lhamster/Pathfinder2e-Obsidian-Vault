@@ -11,6 +11,7 @@ name: Avalanche Strike
 prerequisite: '[[DATABASE/feat/Mauler Dedication|Mauler Dedication]]'
 rarity: Common
 requirement: You're wielding a melee weapon in two hands.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,9 +26,9 @@ type: Feat
 # Avalanche Strike <span class="action-icon">3</span> <span class="item-type">Feat 16</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Flourish</span><span class="item-trait">Open</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Mauler]]
-**Prerequisites** [[Mauler Dedication]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Mauler|Mauler]]
+**Prerequisites** [[DATABASE/feat/Mauler Dedication|Mauler Dedication]]
 **Requirements** You're wielding a melee weapon in two hands.
 
 ---

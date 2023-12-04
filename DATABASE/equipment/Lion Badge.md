@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: You're an expert in Will saves.
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 size: null
@@ -57,10 +58,10 @@ weapon_type: null
 # Lion Badge<span class="item-type">Item 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Abjuration</span><span class="item-trait">Consumable</span><span class="item-trait">Magical</span><span class="item-trait">Talisman</span>
-**Source** [[Threshold of Knowledge]]
+**Source** [[DATABASE/source/Threshold of Knowledge|Threshold of Knowledge]]
 **Price** 15 gp
 **Usage** affixed to armor; **Bulk** —
-**Activate** <span class="action-icon">4</span> envision **Trigger** You gain the [[Frightened]] condition as a result of a Will save; **Requirements** You're an expert in Will saves.
+**Activate** <span class="action-icon">4</span> envision **Trigger** You gain the [[DATABASE/condition/Frightened|frightened]] condition as a result of a Will save; **Requirements** You're an expert in Will saves.
 
 ---
 This plain wooden badge has the face of a roaring lion etched onto its surface. When you activate this talisman, reduce the value of your frightened condition by 1 (to a minimum of 0). When this talisman is used, the image of the lion fades and the item becomes a plain, non-magical wooden badge.

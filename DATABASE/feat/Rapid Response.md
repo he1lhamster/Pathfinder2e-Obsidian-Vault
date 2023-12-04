@@ -11,6 +11,7 @@ name: Rapid Response
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Rapid Response <span class="action-icon">5</span> <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Cleric</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Trigger** An ally is reduced to 0 Hit Points.
 
 ---

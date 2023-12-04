@@ -11,6 +11,7 @@ name: Numb to Death
 prerequisite: '[[DATABASE/feat/Diehard|Diehard]] ; you have died at least once'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
 subcategory: null
@@ -23,11 +24,11 @@ type: Feat
 # Numb to Death <span class="item-type">Feat 7</span>
 
 <span class="item-trait">General</span>
-**Source** [[Gods & Magic]] 
-**Frequency** once per day**Prerequisites** [[Diehard]]; you have died at least once
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
+**Frequency** once per day**Prerequisites** [[DATABASE/feat/Diehard|Diehard]]; you have died at least once
 
 ---
-Your past has left you numb to death’s call. The first time each day that you regain Hit Points while you are [[Dying]], you regain additional Hit Points equal to your level, and you neither gain the [[Wounded]] condition nor increase the value of this condition.
+Your past has left you numb to death’s call. The first time each day that you regain Hit Points while you are [[DATABASE/condition/Dying|dying]], you regain additional Hit Points equal to your level, and you neither gain the [[DATABASE/condition/Wounded|wounded]] condition nor increase the value of this condition.
 
 ## Traits
 

@@ -20,6 +20,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -37,8 +38,8 @@ type: Focus
 # Dragon Claws<span class="item-type">Focus 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Morph</span><span class="item-trait">Sorcerer</span><span class="item-trait">Transmutation</span>
-**Source** [[Core Rulebook]] 
-**Bloodlines** [[Draconic]], [[Wyrmblessed]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Bloodlines** [[DATABASE/sorcererbloodline/Draconic|draconic]], [[DATABASE/sorcererbloodline/Wyrmblessed|wyrmblessed]]
 **Cast** <span class="action-icon">1</span> verbal
 **Duration** 1 minute
 
@@ -47,19 +48,18 @@ Vicious claws grow from your fingers. They are finesse unarmed attacks that deal
 
 ## Dragon Claws
 
-| Dragon Type                                                                                                                                                                                                                                             | Damage Type   |
-|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------|
-| [[Dragon, Black]], [[Dragon, Brine]]*, or [[Dragon, Copper]]                                                                                                    | Acid          |
-| [[Dragon, Blue]], [[Dragon, Bronze]], [[Dragon, Cloud]]*, or [[Dragon, Sky]]*                                                         | Electricity   |
-| [[Dragon, Brass]], [[Dragon, Gold]], [[Dragon, Magma]]*, [[Dragon, Red]], or [[Dragon, Underworld]]* | Fire          |
-| [[Dragon, Crystal]]* or [[Dragon, Forest]]*                                                                                                                                                | Piercing      |
-| [[Dragon, Green]]                                                                                                                                                                                                          | Poison        |
-| [[Dragon, Sea]]*                                                                                                                                                                                                             | Bludgeoning   |
-| [[Dragon, Silver]] or [[Dragon, White]]                                                                                                                                                      | Cold          |
-| [[Dragon, Sovereign]]*                                                                                                                                                                                                 | Mental        |
-| [[Dragon, Umbral]]*                                                                                                                                                                                                       | Negative      |
-
-***Source** 
+| 0 | 1 |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------|
+| Dragon Type | Damage Type |
+| [[Dragon, Black]], [[Dragon, Brine]]*, or [[Dragon, Copper]] | Acid |
+| [[Dragon, Blue]], [[Dragon, Bronze]], [[Dragon, Cloud]]*, or [[Dragon, Sky]]* | Electricity |
+| [[Dragon, Brass]], [[Dragon, Gold]], [[Dragon, Magma]]*, [[Dragon, Red]], or [[Dragon, Underworld]]* | Fire |
+| [[Dragon, Crystal]]* or [[Dragon, Forest]]* | Piercing |
+| [[Dragon, Green]] | Poison |
+| [[Dragon, Sea]]* | Bludgeoning |
+| [[Dragon, Silver]] or [[Dragon, White]] | Cold |
+| [[Dragon, Sovereign]]* | Mental |
+| [[Dragon, Umbral]]* | Negative | ***Source** 
  Your scales from blood magic glow with faint energy, giving you resistance 5 to the same damage type.
 
 ---

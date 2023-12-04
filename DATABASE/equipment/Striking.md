@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -53,7 +54,7 @@ weapon_type: null
 # Striking<span class="item-type">Item 4+</span>
 
 <span class="item-trait">Evocation</span><span class="item-trait">Magical</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** etched onto a weapon; **Bulk** —
 
 ---
@@ -62,17 +63,17 @@ A _striking_ rune stores destructive magic in the weapon, increasing the weapon 
 
 ## Striking<span class="item-type">Item 4</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 65 gp
 
 ## Striking (Greater)<span class="item-type">Item 12</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 1,065 gp
 The weapon deals three weapon damage dice.
 
 ## Striking (Major)<span class="item-type">Item 19</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 31,065 gp
 The weapon deals four weapon damage dice.

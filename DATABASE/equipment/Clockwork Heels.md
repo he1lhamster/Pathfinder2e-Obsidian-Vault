@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -53,7 +54,7 @@ weapon_type: null
 # Clockwork Heels<span class="item-type">Item 7</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Clockwork</span>
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 300 gp
 **Usage** worn shoes; **Bulk** L
 

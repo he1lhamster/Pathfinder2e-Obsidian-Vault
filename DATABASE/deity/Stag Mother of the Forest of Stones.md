@@ -29,6 +29,7 @@ follower_alignment:
 id: '172'
 name: Stag Mother of the Forest of Stones
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Medicine|Medicine]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -38,7 +39,7 @@ type: Deity
 ---
 # Stag Mother of the Forest of Stones (She Who Listens) [N]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Category** Sarkorian Gods
 **Edicts** Provide shelter and succor for women and children in need, act as a responsible steward of your environment
 **Anathema** Harm a pregnant mother or innocent child, including animals
@@ -46,9 +47,9 @@ type: Deity
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Constitution or Intelligence
-**Divine Font** _[[Heal]]_
-**Divine Skill** [[Medicine]]
-**Favored Weapon** [[Ranseur]]
-**Domains** [[Family Domain]], [[Healing Domain]], [[Nature Domain]], [[Pain Domain]]
-**Cleric Spells** 1st: _[[Phantom Pain]]_, 2nd: _[[Animal Form]]_ (bull only, appears as stag), 6th: _[[Flesh to Stone]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Constitution or Intelligence
+**Divine Font** _[[DATABASE/spell/Heal|heal]]_
+**Divine Skill** [[DATABASE/skill/Medicine|Medicine]]
+**Favored Weapon** [[DATABASE/weapon/Ranseur|ranseur]]
+**Domains** [[DATABASE/domain/Family Domain|family]], [[DATABASE/domain/Healing Domain|healing]], [[DATABASE/domain/Nature Domain|nature]], [[DATABASE/domain/Pain Domain|pain]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Phantom Pain|phantom pain]]_, 2nd: _[[DATABASE/spell/Animal Form|animal form]]_ (bull only, appears as stag), 6th: _[[DATABASE/spell/Flesh to Stone|flesh to stone]]_

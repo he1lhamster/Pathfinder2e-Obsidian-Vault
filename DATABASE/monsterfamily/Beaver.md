@@ -3,6 +3,7 @@ creature_family: Beaver
 id: '300'
 name: Beaver
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 176. Lost Mammoth Valley|Pathfinder #176: Lost
   Mammoth Valley]]'
 trait: null
@@ -11,12 +12,12 @@ type: Creature Family
 ---
 # Beaver
 
-**Source** [[Pathfinder 176. Lost Mammoth Valley]]
+**Source** [[DATABASE/source/Pathfinder 176. Lost Mammoth Valley|Pathfinder #176: Lost Mammoth Valley]]
 Beavers are stocky, herbivorous rodents that live in freshwater ecosystems throughout Avistan. They live in lodges, which they construct from logs, grass, rocks, and mud.
 
 ### Members
 
-[[Beaver]] (Creature -1), [[Castoroides]] (Creature 3)
+[[DATABASE/monster/Beaver|Beaver]] (Creature -1), [[DATABASE/monster/Castoroides|Castoroides]] (Creature 3)
 
 ###  Nature's Engineers
 

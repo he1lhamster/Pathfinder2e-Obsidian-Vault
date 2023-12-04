@@ -11,6 +11,7 @@ name: Trick Shot
 prerequisite: null
 rarity: Common
 requirement: You're wielding a loaded crossbow or firearm.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Trick Shot <span class="action-icon">2</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Gunslinger</span>
-**Source** [[Guns & Gears]]
-**Archetypes** [[Bullet Dancer]]*, [[Pistol Phenom]]*, [[Unexpected Sharpshooter]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Archetypes** [[DATABASE/archetype/Bullet Dancer|Bullet Dancer]]*, [[DATABASE/archetype/Pistol Phenom|Pistol Phenom]]*, [[DATABASE/archetype/Unexpected Sharpshooter|Unexpected Sharpshooter]]
 **Requirements** You're wielding a loaded crossbow or firearm.
 * This archetype offers Trick Shot at a different level than displayed here.
 
@@ -40,4 +41,4 @@ This feat can be used for one or more Archetypes in addition to the listed Class
 
 ## Trick Shot Leads To...
 
-[[Ranged Disarm]]
+[[DATABASE/feat/Ranged Disarm|Ranged Disarm]]

@@ -89,13 +89,13 @@ This creature did not include a description.
 # Gurija<span class="item-type">Creature 5</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Giant</span><span class="item-trait">Troll</span>
-**Source** [[Kingmaker Adventure Path]]
-Female [[Troll]] sorcerer
-**Perception** +11; [[Darkvision]]
-**Languages** [[Abyssal]], [[Common]], [[Jotun]]
-**Skills** [[Athletics]] +10, [[Deception]] +13, [[Intimidation]] +13, [[Religion]] +11
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
+Female [[DATABASE/monster/Troll|troll]] sorcerer
+**Perception** +11; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Abyssal|Abyssal]], [[DATABASE/language/Common|Common]], [[DATABASE/language/Jotun|Jotun]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +10, [[DATABASE/skill/Deception|Deception]] +13, [[DATABASE/skill/Intimidation|Intimidation]] +13, [[DATABASE/skill/Religion|Religion]] +11
 **Str** +3, **Dex** +2, **Con** +4, **Int** +0, **Wis** +0, **Cha** +4
-**Items** wand of [[Shocking Grasp]] (2nd), [[Hide Armor]]
+**Items** wand of [[DATABASE/spell/Shocking Grasp|shocking grasp]] (2nd), [[DATABASE/armor/Hide Armor|hide armor]]
 
 ---
 **AC** 21; **Fort** +13, **Ref** +13, **Will** +11
@@ -103,5 +103,5 @@ Female [[Troll]] sorcerer
 
 ---
 **Speed** 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +12 [+7/+2] (reach 10 feet), **Damage** 2d10+5 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claws +12 [+8/+4] (agile, reach 10 feet), **Damage** 2d8+5 slashing</span>**Primal Spontaneous Spells** DC 22, attack +14; **3rd** _[[Lightning Bolt]]_, _[[Slow]]_; **2nd** _[[Dispel Magic]]_, _[[Hydraulic Push]]_, _[[Resist Energy]]_; **1st** _[[Fear]]_, _[[Magic Fang]]_, _[[Shocking Grasp]]_; **Cantrips** **(3rd)** _[[Electric Arc]]_, _[[Prestidigitation]]_, _[[Ray of Frost]]_, _[[Read Aura]]_, _[[Tanglefoot]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +12 [+7/+2] (reach 10 feet), **Damage** 2d10+5 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claws +12 [+8/+4] (agile, reach 10 feet), **Damage** 2d8+5 slashing</span>**Primal Spontaneous Spells** DC 22, attack +14; **3rd** _[[DATABASE/spell/Lightning Bolt|lightning bolt]]_, _[[DATABASE/spell/Slow|slow]]_; **2nd** _[[DATABASE/spell/Dispel Magic|dispel magic]]_, _[[DATABASE/spell/Hydraulic Push|hydraulic push]]_, _[[DATABASE/spell/Resist Energy|resist energy]]_; **1st** _[[DATABASE/spell/Fear|fear]]_, _[[DATABASE/spell/Magic Fang|magic fang]]_, _[[DATABASE/spell/Shocking Grasp|shocking grasp]]_; **Cantrips** **(3rd)** _[[DATABASE/spell/Electric Arc|electric arc]]_, _[[DATABASE/spell/Prestidigitation|prestidigitation]]_, _[[DATABASE/spell/Ray of Frost|ray of frost]]_, _[[DATABASE/spell/Read Aura|read aura]]_, _[[DATABASE/spell/Tanglefoot|tanglefoot]]_
 <span class="in-box-ability">**Sudden Stormburst** <span class="action-icon">5</span> (evocation, primal, water) **Requirement** An ally within 60 feet is suffering persistent acid or fire damage. **Effect** Gurija summons a torrential but localized rainstorm around the ally that washes off any acid or douses any fire on it to immediately end persistent acid or fire damage.</span>

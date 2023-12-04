@@ -12,6 +12,7 @@ prerequisite: null
 rarity: Common
 requirement: You're wielding a firearm or crossbow in one hand and a slashing (or
   [[DATABASE/trait/Versatile|versatile S]] ) melee weapon in the other.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -25,7 +26,7 @@ type: Feat
 # Bullet Split <span class="action-icon">1</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Flourish</span><span class="item-trait">Gunslinger</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Requirements** You're wielding a firearm or crossbow in one hand and a slashing (or versatile S) melee weapon in the other.
 
 ---

@@ -7,6 +7,7 @@ id: '469'
 name: Scout Location
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
@@ -19,7 +20,7 @@ type: Action
 # Scout Location
 
 <span class="item-trait">Downtime</span><span class="item-trait">Secret</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 
 ---
 You spend time observing the place or group you wish to infiltrate. Attempt a normal, hard, or very hard DC Perception, Society or Stealth check. 

@@ -79,19 +79,19 @@ wisdom: '+1'
 # Mage for Hire
 
 Not all mercenaries sell brawn and intimidating glares. Some sell their magical talents to earn a living. While there are many types of mages for hire, some of the sneakiest are specialized in divination, using their skills for infiltration and sabotage.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 18
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Mage for Hire<span class="item-type">Creature 3</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Perception** +7
-**Languages** [[Common]]
-**Skills** [[Arcana]] +11, [[Society]] +9, [[Stealth]] +7, [[Thievery]] +9
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Arcana|Arcana]] +11, [[DATABASE/skill/Society|Society]] +9, [[DATABASE/skill/Stealth|Stealth]] +7, [[DATABASE/skill/Thievery|Thievery]] +9
 **Str** +0, **Dex** +2, **Con** +1, **Int** +4, **Wis** +1, **Cha** +1
-**Items** [[Invisibility Potion]], spellbook, [[Staff]], [[Thieves' Tools]]
+**Items** [[DATABASE/equipment/Invisibility Potion|invisibility potion]], spellbook, [[DATABASE/weapon/Staff|staff]], [[DATABASE/equipment/Thieves' Tools|thieves' tools]]
 
 ---
 **AC** 17; **Fort** +8, **Ref** +9, **Will** +10
@@ -99,5 +99,5 @@ Not all mercenaries sell brawn and intimidating glares. Some sell their magical 
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> staff +7 [+2/-3] (two-hand d8), **Damage** 1d4 bludgeoning</span>**Arcane Prepared Spells** DC 20, attack +12; **2nd** _[[Flaming Sphere]]_, _[[Knock]]_, _[[See Invisibility]]_; **1st** _[[Grease]]_, _[[Mage Armor]]_, _[[Magic Missile]]_, _[[True Strike]]_; **Cantrips** **(2nd)** _[[Dancing Lights]]_, _[[Daze]]_, _[[Detect Magic]]_, _[[Electric Arc]]_, _[[Mage Hand]]_, _[[Message]]_, _[[Shield]]_
-**Wizard School Spell** DC 20, 1 Focus Point; **2nd** _[[Diviner's Sight]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> staff +7 [+2/-3] (two-hand d8), **Damage** 1d4 bludgeoning</span>**Arcane Prepared Spells** DC 20, attack +12; **2nd** _[[DATABASE/spell/Flaming Sphere|flaming sphere]]_, _[[DATABASE/spell/Knock|knock]]_, _[[DATABASE/spell/See Invisibility|see invisibility]]_; **1st** _[[DATABASE/spell/Grease|grease]]_, _[[DATABASE/spell/Mage Armor|mage armor]]_, _[[DATABASE/spell/Magic Missile|magic missile]]_, _[[DATABASE/spell/True Strike|true strike]]_; **Cantrips** **(2nd)** _[[DATABASE/spell/Dancing Lights|dancing lights]]_, _[[DATABASE/spell/Daze|daze]]_, _[[DATABASE/spell/Detect Magic|detect magic]]_, _[[DATABASE/spell/Electric Arc|electric arc]]_, _[[DATABASE/spell/Mage Hand|mage hand]]_, _[[DATABASE/spell/Message|message]]_, _[[DATABASE/spell/Shield|shield]]_
+**Wizard School Spell** DC 20, 1 Focus Point; **2nd** _[[DATABASE/spell/Diviner's Sight|diviner's sight]]_

@@ -81,28 +81,28 @@ wisdom: '+5'
 # Ovinnik
 
 The ovinnik is the most ferocious of house spirits, and the only one that will kill if sufficiently angered. They live in granaries, storage rooms, and sheds where food—particularly grain—is kept. Ovinniks resemble bipedal cats but bark like a dog to scare away thieves, and they often demand gifts of milk, pancakes, and dead roosters.
-**Recall Knowledge - Fey ([[Nature]])**: DC 19
+**Recall Knowledge - Fey ([[DATABASE/skill/Nature|Nature]])**: DC 19
 **Unspecific Lore**: DC 17
 **Specific Lore**: DC 14
 
 # Ovinnik<span class="item-type">Creature 4</span>
 
 <span class="trait-alignment item-trait">CN</span><span class="trait-size item-trait">Tiny</span><span class="item-trait">Fey</span>
-**Source** [[Bestiary 3]]
-**Perception** +14; [[Tremorsense]] (imprecise) within their entire bound granary or storeroom
-**Languages** [[Common]], [[Sylvan]]
-**Skills** [[Lore]] +12, [[Intimidation]] +11, [[Stealth]] +13
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
+**Perception** +14; [[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) within their entire bound granary or storeroom
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Sylvan|Sylvan]]
+**Skills** [[DATABASE/skill/Lore|Household Lore]] +12, [[DATABASE/skill/Intimidation|Intimidation]] +11, [[DATABASE/skill/Stealth|Stealth]] +13
 **Str** +0, **Dex** +5, **Con** +0, **Int** +2, **Wis** +5, **Cha** +3
-**Master of the Granary** A granary with a friendly ovinnik is blessed, as the preserves food from vermin and mold and does a hundred other small tasks. A granary so blessed never suffers from random accidents such as fires, and any checks to [[Craft]], [[Earn Income]], [[Repair]], or [[Subsist]] in the granary receive a +2 circumstance bonus. If the ovinnik is unfriendly, such checks take a –2 circumstance penalty instead, as the ovinnik causes devastating fires and infestations and otherwise makes life a misery. A ovinnik must spend a week in a place before these benefits occur.
+**Master of the Granary** A granary with a friendly ovinnik is blessed, as the preserves food from vermin and mold and does a hundred other small tasks. A granary so blessed never suffers from random accidents such as fires, and any checks to [[DATABASE/action/Craft|Craft]], [[DATABASE/action/Earn Income|Earn Income]], [[DATABASE/action/Repair|Repair]], or [[DATABASE/action/Subsist|Subsist]] in the granary receive a +2 circumstance bonus. If the ovinnik is unfriendly, such checks take a –2 circumstance penalty instead, as the ovinnik causes devastating fires and infestations and otherwise makes life a misery. A ovinnik must spend a week in a place before these benefits occur.
 
 ---
 **AC** 20; **Fort** +8, **Ref** +13, **Will** +11
 **HP** 59; **Resistances** fire 5; **Weaknesses** cold iron 5
-<span class="in-box-ability">**Shy** A ovinnik is naturally [[Invisible]] while within sight of their bound granary. The ovinnik can become visible, or even selectively visible—allowing some people to see them.</span>
+<span class="in-box-ability">**Shy** A ovinnik is naturally [[DATABASE/condition/Invisible|invisible]] while within sight of their bound granary. The ovinnik can become visible, or even selectively visible—allowing some people to see them.</span>
 
 ---
 **Speed** 30 feet, climb 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +13 [+9/+5] (agile, finesse, magical), **Damage** 2d6+2 slashing</span>**Primal Innate Spells** DC 21; **4th** _[[Read Omens]]_; **2nd** _[[Augury]]_, _[[Burning Hands]]_, _[[Flaming Sphere]]_, _[[Purify Food and Drink]]_ (at will); **Cantrips** **(2nd)** _[[Daze]]_, _[[Produce Flame]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +13 [+9/+5] (agile, finesse, magical), **Damage** 2d6+2 slashing</span>**Primal Innate Spells** DC 21; **4th** _[[DATABASE/spell/Read Omens|read omens]]_; **2nd** _[[DATABASE/spell/Augury|augury]]_, _[[DATABASE/spell/Burning Hands|burning hands]]_, _[[DATABASE/spell/Flaming Sphere|flaming sphere]]_, _[[DATABASE/spell/Purify Food and Drink|purify food and drink]]_ (at will); **Cantrips** **(2nd)** _[[DATABASE/spell/Daze|daze]]_, _[[DATABASE/spell/Produce Flame|produce flame]]_
 <span class="in-box-ability">**Raise Grain Cloud** <span class="action-icon">2</span> While in their bound storeroom or granary, the ovinnik slams a paw against the ground, stirring up a cloud of grain dust in an 20-foot emanation. Within this cloud, they gain a +4 status bonus to any fire damage they deal. The ovinnik doubles their fire resistance against this increased damage. The grain cloud dissipates after the first such effect or after 1 minute if no such effects occur.</span>
 
 ###  Ovinnik's Foretelling

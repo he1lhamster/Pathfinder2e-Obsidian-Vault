@@ -77,16 +77,16 @@ wisdom: '+0'
 
 Sluglike abominations, grothluts are fleshwarps that were once humans. While their head and torsos are vaguely human, their arms are rubbery and move awkwardly at their sides. Wretched creatures, they moan piteously when other creatures are near, perhaps as the last remnants of their shattered human consciousness pleads to be free from their horrid warped form.
  Many fleshwarpers consider the grothlut to be a failure of a creation, as the transformation all but stamps out the human consciousness. Others disagree, arguing that warping the creature’s mind makes it all the more useful, since its stupidity makes it pliable and easy to herd. Drow typically use grothluts as guardians that slowly patrol the edges of their enclaves. Once in position, grothluts can be used as crude shock troops, unleashed to soften enemy forces before more-valuable warriors wade in and cut down the enemies who have been nauseated by the grothluts’ exploded organs and flesh.
-**Recall Knowledge - Aberration ([[Occultism]])**: DC 18
+**Recall Knowledge - Aberration ([[DATABASE/skill/Occultism|Occultism]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Grothlut<span class="item-type">Creature 3</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Aberration</span><span class="item-trait">Mindless</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +5; darkvision
-**Skills** [[Athletics]] +11
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +11
 **Str** +4, **Dex** -2, **Con** +4, **Int** -5, **Wis** +0, **Cha** -3
 
 ---

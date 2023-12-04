@@ -11,6 +11,7 @@ name: Magical Knowledge
 prerequisite: '[[DATABASE/feat/Thaumaturge Dedication|Thaumaturge Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Magical Knowledge <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Dark Archive]]
-**Archetype** [[Thaumaturge]]
-**Prerequisites** [[Thaumaturge Dedication]]; trained in one of [[Arcana]], [[Nature]], [[Occultism]], or [[Religion]] and expert in another
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Archetype** [[DATABASE/archetype/Thaumaturge|Thaumaturge]]
+**Prerequisites** [[DATABASE/feat/Thaumaturge Dedication|Thaumaturge Dedication]]; trained in one of [[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]], [[DATABASE/skill/Occultism|Occultism]], or [[DATABASE/skill/Religion|Religion]] and expert in another
 
 ---
 Increase your proficiency rank in one of Arcana, Nature, Occultism, or Religion from expert to master and in another from trained to expert. You gain a skill feat associated with the skill you chose.

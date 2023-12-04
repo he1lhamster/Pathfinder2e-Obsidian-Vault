@@ -66,24 +66,24 @@ wisdom: '+2'
 # Pirate
 
 These scourges of the seas are a threat to anyone who spends time away from land.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 16
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
 # Pirate<span class="item-type">Creature 2</span>
 
 <span class="trait-alignment item-trait">CN</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Perception** +6
-**Languages** [[Common]]
-**Skills** [[Acrobatics]] +7, [[Athletics]] +8, [[Deception]] +6, [[Intimidation]] +6, [[Lore]] +8
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +7, [[DATABASE/skill/Athletics|Athletics]] +8, [[DATABASE/skill/Deception|Deception]] +6, [[DATABASE/skill/Intimidation|Intimidation]] +6, [[DATABASE/skill/Lore|Sailing Lore]] +8
 **Str** +2, **Dex** +3, **Con** +1, **Int** +0, **Wis** +2, **Cha** +2
-**Items** cutlass (functions as a [[Scimitar]]), [[Dagger]], [[Padded Armor]]
+**Items** cutlass (functions as a [[DATABASE/weapon/Scimitar|scimitar]]), [[DATABASE/weapon/Dagger|dagger]], [[DATABASE/armor/Padded Armor|padded armor]]
 
 ---
 **AC** 18; **Fort** +7, **Ref** +8, **Will** +6
 **HP** 32
-<span class="in-box-ability">**[[Attack of Opportunity]] <span class="action-icon">5</span> ** </span><span class="in-box-ability">**Bravery** When the pirate rolls a success on a Will save against a fear effect, they get a critical success instead. In addition, anytime they gain the [[Frightened]] condition, reduce its value by 1.</span>
+<span class="in-box-ability">**[[DATABASE/monsterability/Attack of Opportunity|Attack of Opportunity]] <span class="action-icon">5</span> ** </span><span class="in-box-ability">**Bravery** When the pirate rolls a success on a Will save against a fear effect, they get a critical success instead. In addition, anytime they gain the [[DATABASE/condition/Frightened|frightened]] condition, reduce its value by 1.</span>
 
 ---
 **Speed** 25 feet

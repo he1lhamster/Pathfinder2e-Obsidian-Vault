@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -53,7 +54,7 @@ weapon_type: null
 # Ready<span class="item-type">Item 6+</span>
 
 <span class="item-trait">Evocation</span><span class="item-trait">Magical</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Usage** etched onto armor; **Bulk** —
 
 ---
@@ -61,11 +62,11 @@ A _ready_ rune draws component pieces of a suit of armor toward one another, mak
 
 ## Ready<span class="item-type">Item 6</span>
 
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Price** 200 gp
 
 ## Ready (Greater)<span class="item-type">Item 11</span>
 
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Price** 1,200 gp
 You can don light armor with a _greater ready rune_ as a single action, or medium or heavy armor with a _greater ready rune_ as a 3-action activity.

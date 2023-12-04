@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 size: null
@@ -55,10 +56,10 @@ weapon_type: null
 # Stargazer's Spyglass<span class="item-type">Item 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Divination</span><span class="item-trait">Magical</span>
-**Source** [[Pathfinder 188. They Watched the Stars]]
+**Source** [[DATABASE/source/Pathfinder 188. They Watched the Stars|Pathfinder #188: They Watched the Stars]]
 **Price** 80 gp
 **Usage** held in 2 hands; **Bulk** L
 
 ---
-This ornate [[Spyglass]] has a brass tube inscribed with constellations and green-tinted lens. It's often used by field astronomers to pick out greater details among stars and other celestial bodies. Like a typical spyglass, you can see eight times farther while looking through a _stargazer's spyglass_.
-**Activate** <span class="action-icon">1</span> envision **Frequency** once per day; **Requirements** You are viewing the night sky with the spyglass; **Effect** You set your eye upon a star and think of someone to cast [[Guiding Star]].
+This ornate [[DATABASE/equipment/Spyglass|spyglass]] has a brass tube inscribed with constellations and green-tinted lens. It's often used by field astronomers to pick out greater details among stars and other celestial bodies. Like a typical spyglass, you can see eight times farther while looking through a _stargazer's spyglass_.
+**Activate** <span class="action-icon">1</span> envision **Frequency** once per day; **Requirements** You are viewing the night sky with the spyglass; **Effect** You set your eye upon a star and think of someone to cast [[DATABASE/spell/Guiding Star|guiding star]].

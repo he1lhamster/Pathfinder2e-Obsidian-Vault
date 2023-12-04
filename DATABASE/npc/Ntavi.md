@@ -67,26 +67,26 @@ wisdom: '+1'
 # Ntavi
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 32
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 32
 **Unspecific Lore**: DC 30
 **Specific Lore**: DC 27
 
 # Ntavi<span class="item-type">Creature 6</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CN</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Kingmaker Companion Guide]]
+**Source** [[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]
 Female human fighter 6
 **Perception** +13
-**Languages** [[Common]]
-**Skills** [[Acrobatics]] +15, [[Athletics]] +14, [[Crafting]] +12, [[Intimidation]] +13, [[Society]] +12, [[Survival]] +13
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +15, [[DATABASE/skill/Athletics|Athletics]] +14, [[DATABASE/skill/Crafting|Crafting]] +12, [[DATABASE/skill/Intimidation|Intimidation]] +13, [[DATABASE/skill/Society|Society]] +12, [[DATABASE/skill/Survival|Survival]] +13
 **Str** +4, **Dex** +2, **Con** +3, **Int** +0, **Wis** +1, **Cha** +2
-**Items** _+1 [[Maul]]_, 10 gp, [[Chain Mail]], [[Composite Longbow]], [[Healing Potion]]
+**Items** _+1 [[DATABASE/weapon/Maul|maul]]_, 10 gp, [[DATABASE/armor/Chain Mail|chain mail]], [[DATABASE/weapon/Composite Longbow|composite longbow (20 arrows)]], [[DATABASE/equipment/Healing Potion|lesser healing potions (2)]]
 
 ---
 **AC** 23; **Fort** +15, **Ref** +14, **Will** +11
 **HP** 105
-<span class="in-box-ability">**[[Attack of Opportunity]]** <span class="action-icon">5</span> </span>
+<span class="in-box-ability">**[[DATABASE/monsterability/Attack of Opportunity|Attack of Opportunity]]** <span class="action-icon">5</span> </span>
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _maul_ +17 [+12/+7] (shove), **Damage** 1d12+7 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> composite longbow +14 [+9/+4] (deadly d10, propulsive, range 100 feet, volley 30 feet), **Damage** 1d8+7 piercing</span><span class="in-box-ability">**Furious Power Attack** <span class="action-icon">2</span> Ntavi makes a melee Strike. This counts as one attack when calculating her multiple attack penalty. If the Strike hits, she deals an extra die of weapon damage.</span><span class="in-box-ability">**Maul Mastery** Ntavi has access to the critical specialization effects for [[Hammer]].</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _maul_ +17 [+12/+7] (shove), **Damage** 1d12+7 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> composite longbow +14 [+9/+4] (deadly d10, propulsive, range 100 feet, volley 30 feet), **Damage** 1d8+7 piercing</span><span class="in-box-ability">**Furious Power Attack** <span class="action-icon">2</span> Ntavi makes a melee Strike. This counts as one attack when calculating her multiple attack penalty. If the Strike hits, she deals an extra die of weapon damage.</span><span class="in-box-ability">**Maul Mastery** Ntavi has access to the critical specialization effects for [[DATABASE/weapongroup/Hammer|hammers]].</span>

@@ -13,6 +13,7 @@ name: Heavy Bombard
 price: 1,400 gp
 rarity: Uncommon
 reflex: '+10'
+rus_type_level: null
 size: Gargantuan
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
@@ -25,7 +26,7 @@ usage: mounted (black powder)
 # Heavy Bombard<span class="item-type">Item 9</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-size item-trait">Gargantuan</span><span class="item-trait">Mounted</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 1,400 gp; **Ammunition** large stone spheres (8 gp, 16 Bulk)
 
 ---
@@ -39,5 +40,5 @@ usage: mounted (black powder)
 ---
 A heavy bombard looks like little more than a large metal cylinder, resembling the barrel of a firearm so large that it's immobile. The sheer size of the weapon allows it to strike far and hard.
  **Aim** <span class="action-icon">3</span> 50 feet, minimum distance 50 feet
- **Load** <span class="action-icon">2</span> (manipulate) 3 times, requires a successful DC 20 [[Athletics]] check
+ **Load** <span class="action-icon">2</span> (manipulate) 3 times, requires a successful DC 20 [[DATABASE/skill/Athletics|Athletics]] check
  **Launch** <span class="action-icon">1</span> (manipulate, range increment 250 feet) 7d10 bludgeoning, 20-foot burst, DC 25 Reflex

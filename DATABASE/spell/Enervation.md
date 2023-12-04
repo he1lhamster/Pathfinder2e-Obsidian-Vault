@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Fortitude
 school: Necromancy
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
@@ -39,7 +40,7 @@ type: Spell
 # Enervation<span class="item-type">Spell 4</span>
 
 <span class="item-trait">Necromancy</span><span class="item-trait">Negative</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Traditions** arcane, divine, occult
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Area** 30-foot line
@@ -48,9 +49,9 @@ type: Spell
 ---
 Extending a finger, you fire a beam of negative energy that weakens the life force of any creature it touches. Each living creature in the line must attempt a Fortitude save.
 **Critical Success** The creature is unaffected.
-**Success** The creature takes 2d8 [[Persistent Damage]].
-**Failure** The creature takes 4d8 persistent negative damage and becomes [[Drained]].
-**Critical Failure** The creature takes 4d8 persistent negative damage and becomes drained 2 and [[Doomed]].
+**Success** The creature takes 2d8 [[DATABASE/condition/Persistent Damage|persistent negative damage]].
+**Failure** The creature takes 4d8 persistent negative damage and becomes [[DATABASE/condition/Drained|drained 1]].
+**Critical Failure** The creature takes 4d8 persistent negative damage and becomes drained 2 and [[DATABASE/condition/Doomed|doomed 1]].
 
 ---
 **Heightened (+2)** The persistent negative damage increases by 1d8 on a success, or by 2d8 on a failure or critical failure.

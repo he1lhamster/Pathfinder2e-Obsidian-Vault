@@ -4,6 +4,7 @@ ability_boost: null
 id: '33'
 name: Wilderness
 rarity: Common
+rus_type_level: null
 skill:
 - Wilderness
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
@@ -13,13 +14,13 @@ type: Skill
 ---
 # Wilderness (Stability)
 
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 Wilderness measures how well the kingdom manages its natural resources, integrates with the natural ecosystem, and handles dangerous wildlife. It also reflects the kingdom’s ability to anticipate, prevent, and recover from natural disasters, in much the same way the Defense skill protects against other threats.
 
-* **[[Abandon Hex]]**
-* **[[Claim Hex]]**
-* **[[Focused Attention]]**
-* **[[Rest and Relax]]**
+* **[[DATABASE/generalskillaction/Abandon Hex|Abandon Hex]]**
+* **[[DATABASE/generalskillaction/Claim Hex|Claim Hex]]**
+* **[[DATABASE/generalskillaction/Focused Attention|Focused Attention]]**
+* **[[DATABASE/generalskillaction/Rest and Relax|Rest and Relax]]**
 
 ### Related Feats
 
@@ -27,10 +28,10 @@ To see a list of Feats related to Wilderness, click here.
 
 # Wilderness Untrained Actions
 
-## [[Gather Livestock]]
+## [[DATABASE/action/Gather Livestock|Gather Livestock]]
 
 <span class="item-trait">Downtime</span><span class="item-trait">Region</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 
 ---
 Attempt a basic check to gather excess livestock from local wildlife, ranches, and farms. This generates a number of Food commodities.

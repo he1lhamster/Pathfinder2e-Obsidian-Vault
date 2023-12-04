@@ -11,6 +11,7 @@ name: Know-It-All
 prerequisite: '[[DATABASE/class_/Bard|Bard]] [[DATABASE/bardmuse/Enigma|enigma muse]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Know-It-All <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Bard</span><span class="item-trait">Thaumaturge</span>
-**Source** [[Dark Archive]], [[Core Rulebook]] 
-**Archetype** [[Oatia Skysage]]*
-**Prerequisites** [Bard] [[Enigma]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]], [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Oatia Skysage|Oatia Skysage]]*
+**Prerequisites** [Bard] [[DATABASE/bardmuse/Enigma|enigma muse]]
 * This archetype offers Know-It-All at a different level than displayed here.
 
 ---

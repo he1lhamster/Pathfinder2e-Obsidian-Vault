@@ -11,6 +11,7 @@ name: Buckler Dance
 prerequisite: null
 rarity: Common
 requirement: You are wielding a [[DATABASE/shield/Buckler|buckler]] .
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,11 +25,11 @@ type: Feat
 # Buckler Dance <span class="action-icon">1</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Stance</span><span class="item-trait">Swashbuckler</span>
-**Source** [[Advanced Player's Guide]] 
-**Requirements** You are wielding a [[Buckler]].
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Requirements** You are wielding a [[DATABASE/shield/Buckler|buckler]].
 
 ---
-You spin your buckler defensively toward every attack. While you are in this stance, you constantly have your buckler raised as if you'd used [[Raise a Shield]], as long as you meet that action's requirements.
+You spin your buckler defensively toward every attack. While you are in this stance, you constantly have your buckler raised as if you'd used [[DATABASE/action/Raise a Shield|Raise a Shield]], as long as you meet that action's requirements.
 
 ## Traits
 

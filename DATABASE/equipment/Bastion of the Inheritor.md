@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Enchantment
 size: null
@@ -55,12 +56,12 @@ weapon_type: null
 # Bastion of the Inheritor<span class="item-type">Item 12</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Enchantment</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 1,750 gp
 **Usage** worn armor; **Bulk** 5
-**Base Armor** [[Bastion Plate]]
+**Base Armor** [[DATABASE/armor/Bastion Plate|Bastion Plate]]
 
 ---
-Worn by [[Iomedae]] prestigious knights, this _+2 [[Resilient]] [[Bastion Plate]]_ is emblazoned with the Inheritor's [[Religious Symbol]] and sports a white cloak. While the cloak is white, this armor grants you a +2 item bonus to [[Diplomacy]] checks to [[Make an Impression]], provided your target has no enmity toward Iomedae.
+Worn by [[DATABASE/deity/Iomedae|Iomedae's]] prestigious knights, this _+2 [[DATABASE/equipment/Resilient|resilient]] [[DATABASE/armor/Bastion Plate|bastion plate]]_ is emblazoned with the Inheritor's [[DATABASE/equipment/Religious Symbol|religious symbol]] and sports a white cloak. While the cloak is white, this armor grants you a +2 item bonus to [[DATABASE/skill/Diplomacy|Diplomacy]] checks to [[DATABASE/action/Make an Impression|Make an Impression]], provided your target has no enmity toward Iomedae.
 **Activate** <span class="action-icon">1</span> command ; **Effect** The armor's cloak becomes red for 1 minute. As long as the cloak is red, you gain the benefits of the armor's deflect melee trait without needing to spend an additional action to activate it during each turn.
 **Craft Requirements** You worship Iomedae.

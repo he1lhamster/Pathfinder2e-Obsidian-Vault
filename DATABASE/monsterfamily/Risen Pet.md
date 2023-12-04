@@ -3,6 +3,7 @@ creature_family: Risen Pet
 id: '309'
 name: Risen Pet
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Risen Pet
 
-**Source** [[Book of the Dead]]
+**Source** [[DATABASE/source/Book of the Dead|Book of the Dead]]
 Bonds of loyalty that endure beyond death reanimate pets to crawl from their graves within days of dying, returning to the side of their past owners, family, or pack. Unfortunately, death irrevocably changes a risen pet. They return as aggressive, predatory beasts, difficult to control and easy to anger. Even the most friendly and docile of pets becomes sadistic and violent in undeath— fixating first on those it views as competition for the attention of its owners. When a risen pet is jilted, rebuffed, or offended by its owner, it turns on them.
 
 ### Members
 
-[[Predatory Rabbit]] (Creature -1), [[Scorned Hound]] (Creature 1)
+[[DATABASE/monster/Predatory Rabbit|Predatory Rabbit]] (Creature -1), [[DATABASE/monster/Scorned Hound|Scorned Hound]] (Creature 1)
 
 ###  Lairs and Loot
 

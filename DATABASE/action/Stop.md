@@ -7,6 +7,7 @@ id: '485'
 name: Stop
 rarity: Common
 requirement: You are piloting a vehicle in motion.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
@@ -18,7 +19,7 @@ type: Action
 # Stop <span class="action-icon">1</span>
 
 <span class="item-trait">Manipulate</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Requirements** You are piloting a vehicle in motion.
 
 ---

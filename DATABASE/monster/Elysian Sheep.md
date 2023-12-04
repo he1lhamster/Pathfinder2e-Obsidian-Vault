@@ -67,24 +67,24 @@ wisdom: '+3'
 # Elysian Sheep
 
 This creature did not include a description.
-**Recall Knowledge - Animal ([[Nature]])**: DC 28
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 28
 **Unspecific Lore**: DC 26
 **Specific Lore**: DC 23
 
 # Elysian Sheep<span class="item-type">Creature 7</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">NG</span><span class="trait-size item-trait">Large</span><span class="item-trait">Animal</span>
-**Source** [[Pathfinder 156. The Apocalypse Prophet]]
-**Perception** +18; [[Low-Light Vision]]
-**Skills** [[Acrobatics]] +17, [[Athletics]] +15, [[Survival]] +16
+**Source** [[DATABASE/source/Pathfinder 156. The Apocalypse Prophet|Pathfinder #156: The Apocalypse Prophet]]
+**Perception** +18; [[DATABASE/monsterability/Low-Light Vision|low-light vision]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +17, [[DATABASE/skill/Athletics|Athletics]] +15, [[DATABASE/skill/Survival|Survival]] +16
 **Str** +2, **Dex** +6, **Con** +4, **Int** -4, **Wis** +3, **Cha** -1
 **Nimble Grazer** Inclines and rocky areas are not difficult terrain for an Elysian sheep.
 
 ---
 **AC** 25; **Fort** +15, **Ref** +18, **Will** +12; +1 status to all saves vs. magic
 **HP** 140; **Weaknesses** evil 5
-<span class="in-box-ability">**Cowardly** An Elysian sheep gains the [[Fleeing]] condition whenever it has the [[Frightened]] condition.</span>
+<span class="in-box-ability">**Cowardly** An Elysian sheep gains the [[DATABASE/condition/Fleeing|fleeing]] condition whenever it has the [[DATABASE/condition/Frightened|frightened]] condition.</span>
 
 ---
 **Speed** 40 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> horn +16 [+11/+6], **Damage** 2d8+5 plus 1d6 good</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> hoof +16 [+11/+6], **Damage** 2d6+5 plus 1d6 good</span><span class="in-box-ability">**[[Trample]]** <span class="action-icon">3</span> Medium or smaller, hoof, DC 24</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> horn +16 [+11/+6], **Damage** 2d8+5 plus 1d6 good</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> hoof +16 [+11/+6], **Damage** 2d6+5 plus 1d6 good</span><span class="in-box-ability">**[[DATABASE/monsterability/Trample|Trample]]** <span class="action-icon">3</span> Medium or smaller, hoof, DC 24</span>

@@ -3,6 +3,7 @@ bloodline: Diabolic
 id: '4'
 name: Diabolic
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 spell:
 - '[[DATABASE/spell/Charm|Charm]]'
@@ -24,10 +25,10 @@ type: Sorcerer Bloodline
 ---
 # Diabolic
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Devils are evil with a silver tongue, and one of your ancestors dallied in darkness or made an infernal pact.
 **Spell List** divine
-**Bloodline Skills** [[Deception]], [[Religion]]
-**Granted Spells** cantrip: [[Produce Flame]], 1st: [[Charm]], 2nd: [[Flaming Sphere]], 3rd: [[Enthrall]], 4th: [[Suggestion]], 5th: [[Crushing Despair]], 6th: [[True Seeing]], 7th: [[Divine Decree]], 8th: [[Divine Aura]], 9th: [[Meteor Swarm]]
-**Bloodline Spells** initial: [[Diabolic Edict]], advanced: [[Embrace the Pit]], greater: [[Hellfire Plume]]
+**Bloodline Skills** [[DATABASE/skill/Deception|Deception]], [[DATABASE/skill/Religion|Religion]]
+**Granted Spells** cantrip: [[DATABASE/spell/Produce Flame|produce flame]], 1st: [[DATABASE/spell/Charm|charm]], 2nd: [[DATABASE/spell/Flaming Sphere|flaming sphere]], 3rd: [[DATABASE/spell/Enthrall|enthrall]], 4th: [[DATABASE/spell/Suggestion|suggestion]], 5th: [[DATABASE/spell/Crushing Despair|crushing despair]], 6th: [[DATABASE/spell/True Seeing|true seeing]], 7th: [[DATABASE/spell/Divine Decree|divine decree]], 8th: [[DATABASE/spell/Divine Aura|divine aura]], 9th: [[DATABASE/spell/Meteor Swarm|meteor swarm]]
+**Bloodline Spells** initial: [[DATABASE/spell/Diabolic Edict|diabolic edict]], advanced: [[DATABASE/spell/Embrace the Pit|embrace the pit]], greater: [[DATABASE/spell/Hellfire Plume|hellfire plume]]
 **Blood Magic** Hellfire scorches a target or fills your tongue with lies. Either a target takes 1 fire damage per spell level (if the spell already deals initial fire damage, combine this with the spell’s initial damage before determining weaknesses and resistances), or you gain a +1 status bonus to Deception checks for 1 round.

@@ -31,6 +31,7 @@ rarity: Unique
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 size: null
@@ -57,7 +58,7 @@ weapon_type: null
 # The Lost<span class="item-type">Item 20</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="item-trait">Abjuration</span><span class="item-trait">Artifact</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span>
-**Source** [[Pathfinder 191. The Destiny War]]
+**Source** [[DATABASE/source/Pathfinder 191. The Destiny War|Pathfinder #191: The Destiny War]]
 **Usage** carried; **Bulk** —
 **Suit** Stars (Wis); **Alignment** chaotic evil
 

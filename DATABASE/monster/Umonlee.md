@@ -93,18 +93,18 @@ wisdom: '+2'
 
 Those who dwell in the coldest climates of Golarion tell of a brutal beast that swims through the ice and snow and can devastate entire villages in minutes. Ancient Erutaki who made their homes in the frozen polar expanse called the Crown of the World named this monster the umonlee.
  Umonlees are bestial predators who constantly hunt, rarely resting in service of a hunger that is never fully sated. Despite this animalistic drive, umonlees are semi-intelligent creatures who often select and stalk their prey. However, they are not terribly bright and often keep their hunting grounds in sparsely-trafficked areas. It is rare for an umonlee to attack a village, but one might attack a sparse group, such as a hunting or scouting party. Many caravans traversing the Path of Aganhei—the trade route between the continents of Avistan and Tian Xia that crosses the Crown of the World—have had their expeditions abruptly ended by an encounter with one of these monstrosities.
- Those who study monsters posit that umonlees are related to [[Chuul]], as the creatures exhibit some similarities. Both are semi-intelligent, crustacean predators that use ambush tactics to kill and eat their prey. Even though they can talk, umonlees typically only speak [[Aklo]], which also gives credence to this theory. This would also lend to the theory that chuuls are products of [[Alghollthu]] manipulation, meaning that umonlees are also the results of these alien designs. However, the fact that these creatures aren't evil argues well against such a theory.
-**Recall Knowledge - Beast ([[Arcana]], [[Nature]])**: DC 36
+ Those who study monsters posit that umonlees are related to [[DATABASE/monster/Chuul|chuuls]], as the creatures exhibit some similarities. Both are semi-intelligent, crustacean predators that use ambush tactics to kill and eat their prey. Even though they can talk, umonlees typically only speak [[DATABASE/language/Aklo|Aklo]], which also gives credence to this theory. This would also lend to the theory that chuuls are products of [[DATABASE/monsterfamily/Alghollthu|alghollthu]] manipulation, meaning that umonlees are also the results of these alien designs. However, the fact that these creatures aren't evil argues well against such a theory.
+**Recall Knowledge - Beast ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 36
 **Unspecific Lore**: DC 34
 **Specific Lore**: DC 31
 
 # Umonlee<span class="item-type">Creature 15</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Huge</span><span class="item-trait">Amphibious</span><span class="item-trait">Beast</span><span class="item-trait">Cold</span>
-**Source** [[Bestiary 2]] 
-**Perception** +25; [[Darkvision]], [[Tremorsense]]
-**Languages** [[Aklo]]
-**Skills** [[Athletics]] +31, [[Stealth]] +24
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +25; [[DATABASE/monsterability/Darkvision|darkvision]], [[DATABASE/monsterability/Tremorsense|tremorsense (imprecise) 80 feet]]
+**Languages** [[DATABASE/language/Aklo|Aklo]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +31, [[DATABASE/skill/Stealth|Stealth]] +24
 **Str** +8, **Dex** +3, **Con** +7, **Int** -3, **Wis** +2, **Cha** +3
 
 ---
@@ -113,11 +113,11 @@ Those who dwell in the coldest climates of Golarion tell of a brutal beast that 
 
 ---
 **Speed** 50 feet, burrow 25 feet, swim 40 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +31 [+26/+21] (reach 10 feet), **Damage** 3d6+16 piercing plus 3d6 cold</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> pincers +31 [+27/+23] (agile, reach 15 feet), **Damage** 3d8+16 slashing plus [[Improved Grab]]</span><span class="in-box-ability">**Freezing Breath** <span class="action-icon">2</span> (cold, evocation, incapacitation, primal) The umonlee breathes a cone of extremely cold air that damages its prey and can freeze them to the ground. Its breath deals 12d8 cold damage to creatures in the 50-foot cone (DC 38 Reflex save). The umonlee can't use Freezing Breath again for 1d4 rounds. 
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +31 [+26/+21] (reach 10 feet), **Damage** 3d6+16 piercing plus 3d6 cold</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> pincers +31 [+27/+23] (agile, reach 15 feet), **Damage** 3d8+16 slashing plus [[DATABASE/monsterability/Improved Grab|Improved Grab]]</span><span class="in-box-ability">**Freezing Breath** <span class="action-icon">2</span> (cold, evocation, incapacitation, primal) The umonlee breathes a cone of extremely cold air that damages its prey and can freeze them to the ground. Its breath deals 12d8 cold damage to creatures in the 50-foot cone (DC 38 Reflex save). The umonlee can't use Freezing Breath again for 1d4 rounds. 
 **Critical Success** The creature is unaffected. 
-**Success** The creature takes half damage and is [[Slowed]] for 1 round. 
-**Failure** The creature takes full damage and is slowed 1 for 1 round. If the creature is standing on the ground, it's [[Immobilized]] as thick ice forms around it, and it can't recover from being slowed. The creature remains immobilized and slowed 1 until it manages to [[Escape]] (DC 36) or deal 30 damage to the ice, which has weakness 10 to fire. 
-**Critical Failure** As failure, except the creature takes double damage and the ice holding it in place requires 60 damage to break.</span><span class="in-box-ability">**[[Greater Constrict]]** <span class="action-icon">1</span> 2d10+8 bludgeoning, DC 36</span>
+**Success** The creature takes half damage and is [[DATABASE/condition/Slowed|slowed 1]] for 1 round. 
+**Failure** The creature takes full damage and is slowed 1 for 1 round. If the creature is standing on the ground, it's [[DATABASE/condition/Immobilized|immobilized]] as thick ice forms around it, and it can't recover from being slowed. The creature remains immobilized and slowed 1 until it manages to [[DATABASE/action/Escape|Escape]] (DC 36) or deal 30 damage to the ice, which has weakness 10 to fire. 
+**Critical Failure** As failure, except the creature takes double damage and the ice holding it in place requires 60 damage to break.</span><span class="in-box-ability">**[[DATABASE/monsterability/Greater Constrict|Greater Constrict]]** <span class="action-icon">1</span> 2d10+8 bludgeoning, DC 36</span>
 
 ###  Umonlee Fables
 

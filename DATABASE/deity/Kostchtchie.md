@@ -22,6 +22,7 @@ follower_alignment:
 id: '77'
 name: Kostchtchie
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -31,7 +32,7 @@ type: Deity
 ---
 # Kostchtchie (The Deathless Frost) [CE]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Category** Demon Lords
 **Edicts** Avenge all slights three times over, kill all witches
 **Anathema** Make a deal with Baba Yaga or her children, defer to or obey a woman
@@ -39,9 +40,9 @@ type: Deity
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Strength or Constitution
-**Divine Font** _[[Harm]]_
-**Divine Skill** [[Athletics]]
-**Favored Weapon** [[Warhammer]]
-**Domains** [[Cold Domain]], [[Destruction Domain]], [[Might Domain]], [[Zeal Domain]]
-**Cleric Spells** 1st: _[[Chilling Spray]]_, 2nd: _[[Enlarge]]_, 5th: _[[Cone of Cold]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Strength or Constitution
+**Divine Font** _[[DATABASE/spell/Harm|harm]]_
+**Divine Skill** [[DATABASE/skill/Athletics|Athletics]]
+**Favored Weapon** [[DATABASE/weapon/Warhammer|warhammer]]
+**Domains** [[DATABASE/domain/Cold Domain|cold]], [[DATABASE/domain/Destruction Domain|destruction]], [[DATABASE/domain/Might Domain|might]], [[DATABASE/domain/Zeal Domain|zeal]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Chilling Spray|chilling spray]]_, 2nd: _[[DATABASE/spell/Enlarge|enlarge]]_, 5th: _[[DATABASE/spell/Cone of Cold|cone of cold]]_

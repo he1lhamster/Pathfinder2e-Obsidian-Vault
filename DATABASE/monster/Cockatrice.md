@@ -93,16 +93,16 @@ Ugly and aggressive, the dread cockatrice stalks garbage pits and hillside dumps
  The first cockatrice is rumored to have hatched from a rooster’s egg incubated on a dung hill by a toad. Whether or not the rumor is true, the cockatrice’s monstrous appearance certainly doesn’t contradict its strange and filthy origin story, and these creatures are more than capable of propagating on their own. Cockatrices are remarkably fecund and gather in flocks of up to a dozen members. Each flock contains only a few females. The males—which differ in appearance from the females by having warty wattles and gnarled combs— often fight with each other, with lower-ranking males eventually driven away to find their own lairs or compete among other flocks. Most creatures who run afoul of a solitary cockatrice do so with one of these surly outcasts.
  Cockatrice lairs are often littered with fragments of statuary from past victims—although these are as likely to be remnants of frogs, lizards, and insects as people. Curiously, weasels and ferrets, who infiltrate cockatrice lairs to steal their eggs, are immune to the creatures’ petrifying bites. For unknown reasons, cockatrices are both terrified of and enraged by conventional roosters, and they are equally likely to flee or attack when confronted by one.
  Particularly brave (or foolhardy) individuals sometimes keep cockatrices as pets or guard animals. In their natural habitat among plains, forests, and sewers near humanoid settlements, cockatrices are content to live off vermin or scraps of waste, but their greatest pleasure is consuming warm meals of freshly petrified flesh.
-**Recall Knowledge - Beast ([[Arcana]], [[Nature]])**: DC 18
+**Recall Knowledge - Beast ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Cockatrice<span class="item-type">Creature 3</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Small</span><span class="item-trait">Beast</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +8; darkvision
-**Skills** [[Acrobatics]] +11
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +11
 **Str** -2, **Dex** +4, **Con** +1, **Int** -3, **Wis** +1, **Cha** -1
 
 ---

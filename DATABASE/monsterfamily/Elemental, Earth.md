@@ -3,6 +3,7 @@ creature_family: Elemental, Earth
 id: '42'
 name: Elemental, Earth
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Elemental, Earth
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Earth elementals make excellent bodyguards for adventuresome spelunkers and are ideal protectors of important subterranean locations such as vaults and treasuries.
 
 ### Members
 
-[[Crystal Strider]] (Creature 10), [[Crystalline Sentinel]] (Creature 11), [[Earthen Destrier]] (Creature 4), [[Elder Outcrop]] (Creature 13), [[Elemental Avalanche]] (Creature 11), [[Gluttonous Geode]] (Creature 1), [[Granite Glyptodont]] (Creature 8), [[Living Boulder]] (Creature 2), [[Living Landslide]] (Creature 5), [[Sand Sentry]] (Creature 6), [[Sod Hound]] (Creature 3), [[Stone Mauler]] (Creature 9), [[Xorn]] (Creature 7)
+[[DATABASE/monster/Crystal Strider|Crystal Strider]] (Creature 10), [[DATABASE/monster/Crystalline Sentinel|Crystalline Sentinel]] (Creature 11), [[DATABASE/monster/Earthen Destrier|Earthen Destrier]] (Creature 4), [[DATABASE/monster/Elder Outcrop|Elder Outcrop]] (Creature 13), [[DATABASE/monster/Elemental Avalanche|Elemental Avalanche]] (Creature 11), [[DATABASE/monster/Gluttonous Geode|Gluttonous Geode]] (Creature 1), [[DATABASE/monster/Granite Glyptodont|Granite Glyptodont]] (Creature 8), [[DATABASE/monster/Living Boulder|Living Boulder]] (Creature 2), [[DATABASE/monster/Living Landslide|Living Landslide]] (Creature 5), [[DATABASE/monster/Sand Sentry|Sand Sentry]] (Creature 6), [[DATABASE/monster/Sod Hound|Sod Hound]] (Creature 3), [[DATABASE/monster/Stone Mauler|Stone Mauler]] (Creature 9), [[DATABASE/monster/Xorn|Xorn]] (Creature 7)
 
 ###  "Civilized" Elementals
 
@@ -23,7 +24,7 @@ Some elementals, such as invisible stalkers, xorns, and salamanders, have specif
 
 ###  Diverse Elementals
 
-The Elemental Planes are more than expanses of sky, rock, fire, and ocean. Clouds of fog, dust, and storms float through the [[Plane of Air]]. The [[Plane of Earth]] includes verdant groves, shining metal and crystal, and irradiated wastelands. The [[Plane of Fire]] features magma, suffocating smoke, and radiant firelight. Amid the endless sea of the [[Plane of Water]] are pockets of ooze and brine, plus the otherworldly environs of the deep.
+The Elemental Planes are more than expanses of sky, rock, fire, and ocean. Clouds of fog, dust, and storms float through the [[DATABASE/plane/Plane of Air|Plane of Air]]. The [[DATABASE/plane/Plane of Earth|Plane of Earth]] includes verdant groves, shining metal and crystal, and irradiated wastelands. The [[DATABASE/plane/Plane of Fire|Plane of Fire]] features magma, suffocating smoke, and radiant firelight. Amid the endless sea of the [[DATABASE/plane/Plane of Water|Plane of Water]] are pockets of ooze and brine, plus the otherworldly environs of the deep.
 
 ###  Earthy Emotions
 
@@ -47,7 +48,7 @@ Where the boundary between planes wears thin, elementals manifest in the world t
 
 ###  Looting Earth Elementals
 
-Earth elementals sometimes have valuable gemstones or minerals incorporated into their bodies, and once they are slain, these valuables can be scavenged as treasure. Gemstones, precious metals such as silver or gold ore, or rarer materials such as [[Mithral]] or [[Adamantine]] can be harvested from these creatures, although the more expensive finds tend to be incorporated into only the most powerful earth elementals.
+Earth elementals sometimes have valuable gemstones or minerals incorporated into their bodies, and once they are slain, these valuables can be scavenged as treasure. Gemstones, precious metals such as silver or gold ore, or rarer materials such as [[DATABASE/equipment/Mithral|mithral]] or [[DATABASE/equipment/Adamantine|adamantine]] can be harvested from these creatures, although the more expensive finds tend to be incorporated into only the most powerful earth elementals.
 
 ###  Monstrous Elementals
 
@@ -63,5 +64,5 @@ The most well known of all elementals are the primal elementals, creatures compo
 
 ## Elemental
 
-**Related Groups** [[Elemental, Air]], [[Elemental, Fire]], [[Elemental, Mephit]], [[Elemental, Metal]], [[Elemental, Water]], [[Elemental, Wisp]], [[Elemental, Wood]]
+**Related Groups** [[DATABASE/monsterfamily/Elemental, Air|Elemental, Air]], [[DATABASE/monsterfamily/Elemental, Fire|Elemental, Fire]], [[DATABASE/monsterfamily/Elemental, Mephit|Elemental, Mephit]], [[DATABASE/monsterfamily/Elemental, Metal|Elemental, Metal]], [[DATABASE/monsterfamily/Elemental, Water|Elemental, Water]], [[DATABASE/monsterfamily/Elemental, Wisp|Elemental, Wisp]], [[DATABASE/monsterfamily/Elemental, Wood|Elemental, Wood]]
 The Elemental Planes—primordial realms defined by aspects of air, earth, fire, or water—are home to a diverse group of beings known as elementals. Spellcasters on the Material Plane call upon elementals for aid, though these enigmatic creatures can also travel to the world of mortals via interplanar gateways and rifts. The elementals on these pages exemplify the creatures of the Elemental Planes, but this list is by no means exhaustive.

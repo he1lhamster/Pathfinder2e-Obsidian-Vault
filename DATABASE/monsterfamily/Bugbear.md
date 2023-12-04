@@ -3,6 +3,7 @@ creature_family: Bugbear
 id: '17'
 name: Bugbear
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Bugbear
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 These stealthy and cruel goblinoid creatures delight in spreading fear and tormenting their victims. Bugbears are the monsters lurking in the closet and hiding under the bed. Preying on remote farmsteads, bugbears reveal their presence with thumps in the night or creaks of boards to build lurking dread and arouse suspicion and fear.
 
 ### Members
 
-[[Bugbear Thug]] (Creature 2), [[Bugbear Tormentor]] (Creature 3)
+[[DATABASE/monster/Bugbear Thug|Bugbear Thug]] (Creature 2), [[DATABASE/monster/Bugbear Tormentor|Bugbear Tormentor]] (Creature 3)
 
 ###  Bugbear Lairs
 

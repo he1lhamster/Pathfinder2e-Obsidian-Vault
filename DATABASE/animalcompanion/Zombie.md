@@ -13,6 +13,7 @@ land_speed: '20'
 max_speed: '20'
 name: Zombie
 rarity: Uncommon
+rus_type_level: null
 sense:
 - darkvision
 size: Small, Medium
@@ -32,8 +33,8 @@ wisdom: '+0'
 # Zombie
 
 <span class="trait-uncommon item-trait">Uncommon</span>
-**Source** [[Book of the Dead]]
-Your companion is a mindless [[Zombie]] created from a soulless dead body, be it animal or humanoid. The stats below list a fist Strike, but this can be replaced by a claw or similar option better suited to the creature's form.
+**Source** [[DATABASE/source/Book of the Dead|Book of the Dead]]
+Your companion is a mindless [[DATABASE/monsterfamily/Zombie|zombie]] created from a soulless dead body, be it animal or humanoid. The stats below list a fist Strike, but this can be replaced by a claw or similar option better suited to the creature's form.
 **Size** Small or Medium
 **Melee** <span class="action-icon">1</span> fist, **Damage** 1d8 piercing
 **Str** +2, **Dex** +0, **Con** +4, **Int** -5, **Wis** +0, **Cha** +0
@@ -45,9 +46,9 @@ Your companion is a mindless [[Zombie]] created from a soulless dead body, be it
 **Support Benefit** The zombie emits an aura of rot, causing wounds to fester. Until the start of your next turn, each time you hit a creature that's within 10 feet of the zombie and you deal damage, the creature takes an additional 1d6 damage as the wound festers. If your zombie is nimble or savage, the damage increases to 2d6. This is a disease and necromancy effect.
 **Advanced Maneuver** Take a Taste
 
-### [[Take a Taste]] <span class="action-icon">1</span>
+### [[DATABASE/action/Take a Taste|Take a Taste]] <span class="action-icon">1</span>
 
-**Source** [[Book of the Dead]]
+**Source** [[DATABASE/source/Book of the Dead|Book of the Dead]]
 **Requirements** The zombie has a creature grabbed or restrained.
 
 ---

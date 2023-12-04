@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Scout Dedication|Scout Dedication]]'
 rarity: Common
 requirement: You are [[DATABASE/condition/Hidden|hidden]] from or [[DATABASE/condition/Undetected|undetected]]
   by all of your opponents, and you aren't within 10 feet of any enemy.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,13 +26,13 @@ type: Feat
 # Scout's Pounce <span class="action-icon">2</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Flourish</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Scout]]
-**Prerequisites** [[Scout Dedication]]
-**Requirements** You are [[Hidden]] from or [[Undetected]] by all of your opponents, and you aren't within 10 feet of any enemy.
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Scout|Scout]]
+**Prerequisites** [[DATABASE/feat/Scout Dedication|Scout Dedication]]
+**Requirements** You are [[DATABASE/condition/Hidden|hidden]] from or [[DATABASE/condition/Undetected|undetected]] by all of your opponents, and you aren't within 10 feet of any enemy.
 
 ---
-You leap from the shadows to strike your foes. Stride up to your Speed, then Strike twice. If you were hidden or [[Unnoticed]] by the target of these Strikes, your foe is [[Flat-Footed]] against both attacks. Your multiple attack penalty applies normally for both attacks.
+You leap from the shadows to strike your foes. Stride up to your Speed, then Strike twice. If you were hidden or [[DATABASE/condition/Unnoticed|unnoticed]] by the target of these Strikes, your foe is [[DATABASE/condition/Flat-Footed|flat-footed]] against both attacks. Your multiple attack penalty applies normally for both attacks.
 
 ## Traits
 

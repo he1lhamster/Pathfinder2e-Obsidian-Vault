@@ -5,6 +5,7 @@ name: Monster Casserole
 price: 70 gp
 rarity: Common
 requirement: null
+rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 trait:
 - '[[DATABASE/trait/Meal|Meal]]'
@@ -13,11 +14,11 @@ type: Campsite Meal
 ---
 # Monster Casserole<span class="item-type">Meal 11</span>
 
-**Source** [[Kingmaker Companion Guide]]
+**Source** [[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]
 **Recipe Price** 70 gp
 **Ingredients** 7 basic, 2 special
-**Preparation** DC 28 [[Lore]] or DC 30 [[Survival]]
-**Favorite Meal** +1 status bonus to [[Athletics]] checks for the next 24 hours.
+**Preparation** DC 28 [[DATABASE/skill/Lore|Cooking Lore]] or DC 30 [[DATABASE/skill/Survival|Survival]]
+**Favorite Meal** +1 status bonus to [[DATABASE/skill/Athletics|Athletics]] checks for the next 24 hours.
 
 ---
 The exact ingredients of a monster casserole vary according to taste, but always include eggs, cheese, and meat.

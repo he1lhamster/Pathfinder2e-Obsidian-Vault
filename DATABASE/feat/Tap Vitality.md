@@ -11,6 +11,7 @@ name: Tap Vitality
 prerequisite: '[[DATABASE/feat/Living Vessel Dedication|Living Vessel Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -27,14 +28,14 @@ type: Feat
 # Tap Vitality <span class="action-icon">1</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Concentrate</span><span class="item-trait">Healing</span><span class="item-trait">Necromancy</span><span class="item-trait">Positive</span>
-**Source** [[Dark Archive]]
-**Archetype** [[Living Vessel]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Archetype** [[DATABASE/archetype/Living Vessel|Living Vessel]]
 **Frequency** once per hour
-**Prerequisites** [[Living Vessel Dedication]]
+**Prerequisites** [[DATABASE/feat/Living Vessel Dedication|Living Vessel Dedication]]
 
 ---
 You tap into the entity's life force to heal your wounds, though at the cost of the entity's personality bleeding into your own. You recover a number of Hit Points equal to four times your level. Each time you use Tap Vitality, you begin to bleed more and more of the entity's personality and instincts into your own until the next time you spend an hour or more assuaging the entity, bringing your mind back under your own control.
-**Special** This action has the tradition trait appropriate to your entity, typically divine for a [[Demon]], occult for an aberration or outer entity, or primal for a fey
+**Special** This action has the tradition trait appropriate to your entity, typically divine for a [[DATABASE/monsterfamily/Demon|demon]], occult for an aberration or outer entity, or primal for a fey
 
 ## Traits
 
@@ -56,4 +57,4 @@ Effects and magic items with this trait are associated with the necromancy schoo
 
 **Positive:**
 
-Effects with this trait heal living creatures with positive energy, deal positive energy damage to undead, or manipulate positive energy. Planes with this trait are awash with life energy of such intensity that it can harm living creatures. Creatures with this trait are natives of the [[Positive Energy Plane]]. They can survive the basic environmental effects of the Positive Energy Plane.
+Effects with this trait heal living creatures with positive energy, deal positive energy damage to undead, or manipulate positive energy. Planes with this trait are awash with life energy of such intensity that it can harm living creatures. Creatures with this trait are natives of the [[DATABASE/plane/Positive Energy Plane|Positive Energy Plane]]. They can survive the basic environmental effects of the Positive Energy Plane.

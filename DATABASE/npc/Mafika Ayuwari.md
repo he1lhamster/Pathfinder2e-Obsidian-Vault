@@ -108,20 +108,20 @@ wisdom: '+4'
 # Mafika Ayuwari
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 46
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 46
 **Unspecific Lore**: DC 44
 **Specific Lore**: DC 41
 
 # Mafika Ayuwari<span class="item-type">Creature 17</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NG</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 167. Ready Fight!]]
-Male [[Human]] Tempest-Sun [[Halcyon Speaker]]
+**Source** [[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]
+Male [[DATABASE/ancestry/Human|Zenj]] Tempest-Sun [[DATABASE/archetype/Halcyon Speaker|halcyon speaker]]
 **Perception** +29
-**Languages** [[Celestial]], [[Common]], [[Draconic]], [[Gnoll]], [[Mwangi]], [[Tien]]
-**Skills** [[Lore]] +32, [[Arcana]] +34, [[Diplomacy]] +30, [[Nature]] +30, [[Society]] +30, [[Stealth]] +32
+**Languages** [[DATABASE/language/Celestial|Celestial]], [[DATABASE/language/Common|Common]], [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Gnoll|Gnoll]], [[DATABASE/language/Mwangi|Mwangi]], [[DATABASE/language/Tien|Tien]]
+**Skills** [[DATABASE/skill/Lore|Academia Lore]] +32, [[DATABASE/skill/Arcana|Arcana]] +34, [[DATABASE/skill/Diplomacy|Diplomacy]] +30, [[DATABASE/skill/Nature|Nature]] +30, [[DATABASE/skill/Society|Society]] +30, [[DATABASE/skill/Stealth|Stealth]] +32
 **Str** +0, **Dex** +4, **Con** +2, **Int** +6, **Wis** +4, **Cha** +4
-**Items** _+2 [[Striking]] [[Staff]]_, _[[Bracers of Armor]]_
+**Items** _+2 [[DATABASE/equipment/Striking|greater striking]] [[DATABASE/weapon/Staff|staff]]_, _[[DATABASE/equipment/Bracers of Armor|bracers of armor III]]_
 
 ---
 **AC** 37; **Fort** +27, **Ref** +29, **Will** +29
@@ -130,6 +130,6 @@ Male [[Human]] Tempest-Sun [[Halcyon Speaker]]
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _staff_ +28 [+23/+18] (magical, two-handed 3d8), **Damage** 3d4+6 bludgeoning</span>**Arcane Prepared Spells** DC 41, attack +33; **9th** _[[Foresight]]_, _[[Meteor Swarm]]_, _[[Summon Elemental]]_; **8th** _[[Disappearance]]_, _[[Polar Ray]]_, _[[Power Word Stun]]_, _[[Punishing Winds]]_; **7th** _[[Chain Lightning]]_, _[[Dispel Magic]]_, _[[Reverse Gravity]]_, _[[Spell Turning]]_; **6th** _[[Dispel Magic]]_, _[[Flesh to Stone]]_, _[[Mislead]]_, _[[Tangling Creepers]]_; **5th** _[[Black Tentacles]]_ (×2), _[[Heal]]_, _[[Tongues]]_; **4th** _[[Dimension Door]]_, _[[Fly]]_ (×2), _[[Resilient Sphere]]_; **3rd** _[[Heal]]_ (×2), _[[Stinking Cloud]]_, _[[Wall of Wind]]_; **2nd** _[[Dispel Magic]]_, _[[Glitterdust]]_ (×2), _[[Obscuring Mist]]_; **1st** _[[Alarm]]_, _[[Fleet Step]]_, _[[Heal]]_, _[[Ventriloquism]]_; **Cantrips** **(9th)** _[[Detect Magic]]_, _[[Electric Arc]]_, _[[Light]]_, _[[Ray of Frost]]_, _[[Shield]]_
-**Druid Order Spells** DC 41, 2 Focus Points; **9th** _[[Impaling Briars]]_, _[[Tempest Surge]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _staff_ +28 [+23/+18] (magical, two-handed 3d8), **Damage** 3d4+6 bludgeoning</span>**Arcane Prepared Spells** DC 41, attack +33; **9th** _[[DATABASE/spell/Foresight|foresight]]_, _[[DATABASE/spell/Meteor Swarm|meteor swarm]]_, _[[DATABASE/spell/Summon Elemental|summon elemental]]_; **8th** _[[DATABASE/spell/Disappearance|disappearance]]_, _[[DATABASE/spell/Polar Ray|polar ray]]_, _[[DATABASE/spell/Power Word Stun|power word stun]]_, _[[DATABASE/spell/Punishing Winds|punishing winds]]_; **7th** _[[DATABASE/spell/Chain Lightning|chain lightning]]_, _[[DATABASE/spell/Dispel Magic|dispel magic]]_, _[[DATABASE/spell/Reverse Gravity|reverse gravity]]_, _[[DATABASE/spell/Spell Turning|spell turning]]_; **6th** _[[DATABASE/spell/Dispel Magic|dispel magic]]_, _[[DATABASE/spell/Flesh to Stone|flesh to stone]]_, _[[DATABASE/spell/Mislead|mislead]]_, _[[DATABASE/spell/Tangling Creepers|tangling creepers]]_; **5th** _[[DATABASE/spell/Black Tentacles|black tentacles]]_ (×2), _[[DATABASE/spell/Heal|heal]]_, _[[DATABASE/spell/Tongues|tongues]]_; **4th** _[[DATABASE/spell/Dimension Door|dimension door]]_, _[[DATABASE/spell/Fly|fly]]_ (×2), _[[DATABASE/spell/Resilient Sphere|resilient sphere]]_; **3rd** _[[DATABASE/spell/Heal|heal]]_ (×2), _[[DATABASE/spell/Stinking Cloud|stinking cloud]]_, _[[DATABASE/spell/Wall of Wind|wall of wind]]_; **2nd** _[[DATABASE/spell/Dispel Magic|dispel magic]]_, _[[DATABASE/spell/Glitterdust|glitterdust]]_ (×2), _[[DATABASE/spell/Obscuring Mist|obscuring mist]]_; **1st** _[[DATABASE/spell/Alarm|alarm]]_, _[[DATABASE/spell/Fleet Step|fleet step]]_, _[[DATABASE/spell/Heal|heal]]_, _[[DATABASE/spell/Ventriloquism|ventriloquism]]_; **Cantrips** **(9th)** _[[DATABASE/spell/Detect Magic|detect magic]]_, _[[DATABASE/spell/Electric Arc|electric arc]]_, _[[DATABASE/spell/Light|light]]_, _[[DATABASE/spell/Ray of Frost|ray of frost]]_, _[[DATABASE/spell/Shield|shield]]_
+**Druid Order Spells** DC 41, 2 Focus Points; **9th** _[[DATABASE/spell/Impaling Briars|impaling briars]]_, _[[DATABASE/spell/Tempest Surge|tempest surge]]_
 <span class="in-box-ability">**Halcyon Surge** <span class="action-icon">3</span> Mafika casts an arcane spell that takes 2 actions or fewer to Cast, then casts a druid order spell that takes 2 actions or fewer to Cast (paying 1 Focus Point, as normal).</span><span class="in-box-ability">**Shift Spell** <span class="action-icon">1</span> (concentrate) **Requirements** Mafika has an area spell active with a remaining duration and he is within the spell's range; **Effect** Mafika moves the spell's area to a new point of origin. The spell's remaining duration is reduced by half. Instantaneous or permanent effects of the spell (such as damage or healing) are unaffected and aren't repeated.</span>

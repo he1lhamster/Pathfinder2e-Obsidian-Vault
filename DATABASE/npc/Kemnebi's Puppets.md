@@ -67,24 +67,24 @@ wisdom: '+5'
 # Kemnebi's Puppets
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 37
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 37
 **Unspecific Lore**: DC 35
 **Specific Lore**: DC 32
 
 # Kemnebi's Puppets <span class="item-type">Creature 16</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 186. Ghost King's Rage]]
+**Source** [[DATABASE/source/Pathfinder 186. Ghost King's Rage|Pathfinder #186: Ghost King's Rage]]
 **Perception** +30
-**Languages** [[Common]], [[Necril]]
-**Skills** [[Acrobatics]] +28, [[Athletics]] +32, [[Stealth]] +28
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Necril|Necril]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +28, [[DATABASE/skill/Athletics|Athletics]] +32, [[DATABASE/skill/Stealth|Stealth]] +28
 **Str** +9, **Dex** +6, **Con** +6, **Int** -5, **Wis** +5, **Cha** -1
 
 ---
 **AC** 36; **Fort** +30, **Ref** +30, **Will** +22
 **HP** 365; **Immunities** mental
-<span class="in-box-ability">**Controlled** (divine, enchantment) Kemnebi can manipulate one of his comatose victims as if they were a puppet, maintaining complete control over each. Kemnebi's puppets are immune to all mental effects. Kemnebi can stop controlling one of his puppets as a free action. If he does, the puppet returns to its comatose state, becoming permanently [[Unconscious]]. Kemnebi can reassert control as a free action, causing the puppet to temporarily lose the unconscious condition.</span>
+<span class="in-box-ability">**Controlled** (divine, enchantment) Kemnebi can manipulate one of his comatose victims as if they were a puppet, maintaining complete control over each. Kemnebi's puppets are immune to all mental effects. Kemnebi can stop controlling one of his puppets as a free action. If he does, the puppet returns to its comatose state, becoming permanently [[DATABASE/condition/Unconscious|unconscious]]. Kemnebi can reassert control as a free action, causing the puppet to temporarily lose the unconscious condition.</span>
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +32 [+28/+24] (agile), **Damage** 3d6+15 bludgeoning plus [[Grab]]</span><span class="in-box-ability">**Gang Up** Kemnebi's puppets work together to take down more powerful foes. A puppet's Strikes deal an additional 4d6 damage against a creature that's [[Grabbed]] by at least one of the puppet's allies.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +32 [+28/+24] (agile), **Damage** 3d6+15 bludgeoning plus [[DATABASE/monsterability/Grab|grab]]</span><span class="in-box-ability">**Gang Up** Kemnebi's puppets work together to take down more powerful foes. A puppet's Strikes deal an additional 4d6 damage against a creature that's [[DATABASE/condition/Grabbed|grabbed]] by at least one of the puppet's allies.</span>

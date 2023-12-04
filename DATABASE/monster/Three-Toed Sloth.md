@@ -69,16 +69,16 @@ wisdom: '+2'
 # Three-Toed Sloth
 
 The diminutive three-toed sloth is a solitary, tree-dwelling creature. Possessing a gentle nature and unassuming countenance, it has little to defend itself with other than its surprisingly fearsome climbing claws. These sloths are sometimes used as lookouts by secretive druid enclaves, as the symbiotic algae in their fur makes them difficult to spot in tree canopies, though their slow speed leaves them vulnerable on the ground.
-**Recall Knowledge - Animal ([[Nature]])**: DC 13
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 13
 **Unspecific Lore**: DC 11
 **Specific Lore**: DC 8
 
 # Three-Toed Sloth<span class="item-type">Creature -1</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Tiny</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary 3]]
-**Perception** +5; [[Low-Light Vision]], [[Scent]] (imprecise) 30 feet
-**Skills** [[Athletics]] +5 (+7 to [[Climb]]), [[Stealth]] +5 (+7 to [[Hide]] and [[Sneak]] while in a tree), [[Survival]] +4
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
+**Perception** +5; [[DATABASE/monsterability/Low-Light Vision|low-light vision]], [[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +5 (+7 to [[DATABASE/action/Climb|Climb]]), [[DATABASE/skill/Stealth|Stealth]] +5 (+7 to [[DATABASE/action/Hide|Hide]] and [[DATABASE/action/Sneak|Sneak]] while in a tree), [[DATABASE/skill/Survival|Survival]] +4
 **Str** +2, **Dex** +1, **Con** +3, **Int** -4, **Wis** +2, **Cha** +0
 
 ---
@@ -87,4 +87,4 @@ The diminutive three-toed sloth is a solitary, tree-dwelling creature. Possessin
 
 ---
 **Speed** 5 feet, climb 10 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +6 [+1/-4], **Damage** 1d6+2 slashing</span><span class="in-box-ability">**[[Rend]]** <span class="action-icon">1</span> claw</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +6 [+1/-4], **Damage** 1d6+2 slashing</span><span class="in-box-ability">**[[DATABASE/monsterability/Rend|Rend]]** <span class="action-icon">1</span> claw</span>

@@ -16,6 +16,7 @@ price: 50 gp
 rarity: Common
 reflex: null
 resistance: null
+rus_type_level: null
 school: null
 size: Large
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
@@ -27,13 +28,13 @@ type: Vehicle
 # Sleigh<span class="item-type">Vehicle 1</span>
 
 <span class="trait-size item-trait">Large</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Price** 50 gp
 
 ---
 **Space** 10 feet long, 5 feet wide, 4 feet high
 **Crew** 1 pilot; **Passengers** 1
-**Piloting Check** [[Lore]] (DC 15) or [[Nature]] (DC 17 to DC 25, depending on pulling creature)
+**Piloting Check** [[DATABASE/skill/Lore|Driving Lore]] (DC 15) or [[DATABASE/skill/Nature|Nature]] (DC 17 to DC 25, depending on pulling creature)
 
 ---
 **AC** 11; **Fort** +7

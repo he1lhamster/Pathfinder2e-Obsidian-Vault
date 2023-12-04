@@ -11,6 +11,7 @@ name: Bloodline Focus
 prerequisite: bloodline spell
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Bloodline Focus <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Sorcerer</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Prerequisites** bloodline spell
 
 ---
@@ -31,4 +32,4 @@ Your focus recovers faster. If you have spent at least 2 Focus Points since the 
 
 ## Bloodline Focus Leads To...
 
-[[Bloodline Wellspring]]
+[[DATABASE/feat/Bloodline Wellspring|Bloodline Wellspring]]

@@ -2,6 +2,7 @@
 id: '67'
 name: GM's Toolkit. Secret Keeper's Mask
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -15,4 +16,4 @@ type: Source
 
 ## Equipment [5]
 
-[[Secret-Keeper's Mask]], [[Secret-Keeper's Mask]], [[Secret-Keeper's Mask]], [[Secret-Keeper's Mask]], [[Secret-Keeper's Mask]]
+[[DATABASE/equipment/Secret-Keeper's Mask|Secret-Keeper's Mask]], [[DATABASE/equipment/Secret-Keeper's Mask|Secret-Keeper's Mask (Blackfingers)]], [[DATABASE/equipment/Secret-Keeper's Mask|Secret-Keeper's Mask (Father Skinsaw)]], [[DATABASE/equipment/Secret-Keeper's Mask|Secret-Keeper's Mask (Gray Master)]], [[DATABASE/equipment/Secret-Keeper's Mask|Secret-Keeper's Mask (Reaper of Reputation)]]

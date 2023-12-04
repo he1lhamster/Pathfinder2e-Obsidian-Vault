@@ -14,6 +14,7 @@ name: Shadow Lash
 rarity: Uncommon
 reflex: null
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 186. Ghost King''s Rage|Pathfinder #186: Ghost
   King''s Rage]]'
@@ -30,13 +31,13 @@ will: null
 # Shadow Lash<span class="item-type">Hazard 20</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Complex</span><span class="item-trait">Magical</span><span class="item-trait">Trap</span>
-**Source** [[Pathfinder 186. Ghost King's Rage]]
+**Source** [[DATABASE/source/Pathfinder 186. Ghost King's Rage|Pathfinder #186: Ghost King's Rage]]
 **Complexity** Complex
 **Stealth** +38 (legendary)
 **Description** Four pillars manifest shadow lashes that attack intruders.
 
 ---
-**Disable** DC 46 [[Arcana]] (legendary) to drain the magic from each shadow lash or DC 48 [[Thievery]] (legendary) to disable each shadow lash
+**Disable** DC 46 [[DATABASE/skill/Arcana|Arcana]] (legendary) to drain the magic from each shadow lash or DC 48 [[DATABASE/skill/Thievery|Thievery]] (legendary) to disable each shadow lash
 **Manifest** <span class="action-icon">5</span> (arcane, conjuration, shadow) **Trigger** A creature other than Kemnebi enters the chamber; **Effect** Four pillars (see above) manifest a writhing whip composed of solidified shadows. The trap then rolls initiative.
 
 ---

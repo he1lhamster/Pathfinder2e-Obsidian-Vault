@@ -31,6 +31,7 @@ rarity: Unique
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 size: null
@@ -58,10 +59,10 @@ weapon_type: null
 # The Snakebite<span class="item-type">Item 20</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="item-trait">Artifact</span><span class="item-trait">Harrow Court</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span><span class="item-trait">Necromancy</span><span class="item-trait">Poison</span>
-**Source** [[Pathfinder 190. The Choosing]]
+**Source** [[DATABASE/source/Pathfinder 190. The Choosing|Pathfinder #190: The Choosing]]
 **Usage** carried; **Bulk** —
 **Suit** Books (Int); **Alignment** chaotic evil
 
 ---
-_The Snakebite_ represents poison, assassination, and disharmony. As long as you have _The Snakebite_ invested, it grants you a +2 item bonus to [[Deception]] and [[Stealth]] checks you make for initiative. This increases to a +3 item bonus if you're at least 17th level. The DCs of your poison effects have a +1 item bonus to targets that are [[Flat-Footed]] to you when you afflict the target with the poison (the DC retains this bonus for the target's subsequent saves against the affliction, even if the target is no longer flat-footed to you).
-**Activate** <span class="action-icon">2</span> envision, Interact **Frequency** once per day; **Effect** You cast [[Purple Worm Sting]] on a creature within your reach, with a DC equal to your class DC.
+_The Snakebite_ represents poison, assassination, and disharmony. As long as you have _The Snakebite_ invested, it grants you a +2 item bonus to [[DATABASE/skill/Deception|Deception]] and [[DATABASE/skill/Stealth|Stealth]] checks you make for initiative. This increases to a +3 item bonus if you're at least 17th level. The DCs of your poison effects have a +1 item bonus to targets that are [[DATABASE/condition/Flat-Footed|flat-footed]] to you when you afflict the target with the poison (the DC retains this bonus for the target's subsequent saves against the affliction, even if the target is no longer flat-footed to you).
+**Activate** <span class="action-icon">2</span> envision, Interact **Frequency** once per day; **Effect** You cast [[DATABASE/spell/Purple Worm Sting|purple worm sting]] on a creature within your reach, with a DC equal to your class DC.

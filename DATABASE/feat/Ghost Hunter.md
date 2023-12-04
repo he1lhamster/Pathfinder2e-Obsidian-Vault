@@ -11,6 +11,7 @@ name: Ghost Hunter
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,13 +24,13 @@ type: Feat
 # Ghost Hunter <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Duskwalker</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
-Your connection to the [[Boneyard]] ensures that your blows strike true against spectral beings. Your weapon and unarmed attack Strikes against incorporeal creatures become magical. If they are already magical, they instead gain the effects of a [[Ghost Touch]] property rune.
+Your connection to the [[DATABASE/plane/Boneyard|Boneyard]] ensures that your blows strike true against spectral beings. Your weapon and unarmed attack Strikes against incorporeal creatures become magical. If they are already magical, they instead gain the effects of a [[DATABASE/equipment/Ghost Touch|ghost touch]] property rune.
 
 ## Traits
 
 **Duskwalker:**
 
-A creature with this trait has the duskwalker versatile heritage. Duskwalkers are planar scions infused with the supernatural energy of [[Psychopomp]]. An ability with this trait can be used or selected only by duskwalkers.
+A creature with this trait has the duskwalker versatile heritage. Duskwalkers are planar scions infused with the supernatural energy of [[DATABASE/monsterfamily/Psychopomp|psychopomps]]. An ability with this trait can be used or selected only by duskwalkers.

@@ -88,29 +88,29 @@ wisdom: '+3'
 
 In secret conclaves around Nar-Voth, hidden in plain sight within hryngar settlements, are the workshops and training grounds for the Darklands' most technologically sophisticated group of killers. Most hryngar assassins train from childhood, having been recruited from orphanages, and are under a life-debt obligation to their guild leader.
  While on contract, hryngar assassins are on the lookout for new technologies, gadgets, and alchemical creations. They bring what they find back to their guild to be reverse engineered and replicated for other guild assassins. When the opportunity presents itself, they destroy the schematics and formulae that other organizations, inventors, and alchemists have created if they can't steal them.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 25
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 25
 **Unspecific Lore**: DC 23
 **Specific Lore**: DC 20
 
 # Hryngar Assassin<span class="item-type">Creature 7</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Duergar</span><span class="item-trait">Dwarf</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 195. Heavy is the Crown]]
-**Perception** +16; [[Darkvision]]
-**Languages** [[Common]], [[Dwarven]], [[Undercommon]]
-**Skills** [[Acrobatics]] +17, [[Athletics]] +13, [[Crafting]] +13, [[Stealth]] +19, [[Survival]] +14, [[Thievery]] +17
+**Source** [[DATABASE/source/Pathfinder 195. Heavy is the Crown|Pathfinder #195: Heavy is the Crown]]
+**Perception** +16; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Dwarven|Dwarven]], [[DATABASE/language/Undercommon|Undercommon]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +17, [[DATABASE/skill/Athletics|Athletics]] +13, [[DATABASE/skill/Crafting|Crafting]] +13, [[DATABASE/skill/Stealth|Stealth]] +19, [[DATABASE/skill/Survival|Survival]] +14, [[DATABASE/skill/Thievery|Thievery]] +17
 **Str** +2, **Dex** +6, **Con** +4, **Int** +4, **Wis** +3, **Cha** +2
-**Items** +1 [[Striking]] [[Repeating Heavy Crossbow]] (4 magazines with 5 bolts each), [[Lock]], [[Dagger]], [[Climbing Kit]], [[Hunting Spider Venom]]
+**Items** +1 [[DATABASE/equipment/Striking|striking]] [[DATABASE/weapon/Repeating Heavy Crossbow|repeating heavy crossbow]] (4 magazines with 5 bolts each), [[DATABASE/equipment/Lock|clockwork grappling gun]], [[DATABASE/weapon/Dagger|dagger]], [[DATABASE/equipment/Climbing Kit|extreme climbing kit]], [[DATABASE/equipment/Hunting Spider Venom|hunting spider venom (5 doses applied to first magazine)]]
 
 ---
 **AC** 25; **Fort** +15, **Ref** +17, **Will** +12; +2 status to all saves vs. magic
 **HP** 115
-<span class="in-box-ability">**[[Light Blindness]]** </span><span class="in-box-ability">**Disengaging Shot <span class="action-icon">5</span> ** **Requirements** The hryngar assassin is equipped with a loaded repeating heavy crossbow; **Trigger** A creature critically misses the hryngar assassin with a melee Strike; **Effect** The hryngar assassin Strides, then Strikes the triggering creature with their repeating heavy crossbow; the target is [[Flat-Footed]] against this Strike.</span>
+<span class="in-box-ability">**[[DATABASE/monsterability/Light Blindness|Light Blindness]]** </span><span class="in-box-ability">**Disengaging Shot <span class="action-icon">5</span> ** **Requirements** The hryngar assassin is equipped with a loaded repeating heavy crossbow; **Trigger** A creature critically misses the hryngar assassin with a melee Strike; **Effect** The hryngar assassin Strides, then Strikes the triggering creature with their repeating heavy crossbow; the target is [[DATABASE/condition/Flat-Footed|flat-footed]] against this Strike.</span>
 
 ---
 **Speed** 25 feet; climb 10 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> dagger +17 [+13/+9] (agile, finesse, thrown 10 feet, versatile S), **Damage** 1d4+8 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _repeating heavy crossbow_ +18 [+13/+8] (range 180 feet, reload 1, repeating), **Damage** 2d10+2 piercing</span>**Occult Innate Spells** DC 25; **2nd** _[[Blood Vendetta]]_, _[[Paranoia]]_; **Cantrips** **(4th)** _[[Sigil]]_
-<span class="in-box-ability">**[[Sneak Attack]]** The hryngar assassin deals an extra 2d6 precision damage to [[Flat-Footed]] creatures.</span><span class="in-box-ability">**Surprise Attack** On the first round of combat, creatures that haven't acted yet are [[Flat-Footed]] to the hryngar assassin.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> dagger +17 [+13/+9] (agile, finesse, thrown 10 feet, versatile S), **Damage** 1d4+8 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _repeating heavy crossbow_ +18 [+13/+8] (range 180 feet, reload 1, repeating), **Damage** 2d10+2 piercing</span>**Occult Innate Spells** DC 25; **2nd** _[[DATABASE/spell/Blood Vendetta|blood vendetta]]_, _[[DATABASE/spell/Paranoia|paranoia]]_; **Cantrips** **(4th)** _[[DATABASE/spell/Sigil|sigil]]_
+<span class="in-box-ability">**[[DATABASE/monsterability/Sneak Attack|Sneak Attack]]** The hryngar assassin deals an extra 2d6 precision damage to [[DATABASE/condition/Flat-Footed|flat-footed]] creatures.</span><span class="in-box-ability">**Surprise Attack** On the first round of combat, creatures that haven't acted yet are [[DATABASE/condition/Flat-Footed|flat-footed]] to the hryngar assassin.</span>
 
 ###  Bleeding Edge Killing Tech
 

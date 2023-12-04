@@ -11,6 +11,7 @@ name: Tempest-Sun Shielding
 prerequisite: '[[DATABASE/feat/Tempest-Sun Redirection|Tempest-Sun Redirection]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Tempest-Sun Shielding <span class="action-icon">5</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Character Guide]] 
-**Archetype** [[Magaambyan Attendant]]
-**Prerequisites** [[Tempest-Sun Redirection]]
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
+**Archetype** [[DATABASE/archetype/Magaambyan Attendant|Magaambyan Attendant]]
+**Prerequisites** [[DATABASE/feat/Tempest-Sun Redirection|Tempest-Sun Redirection]]
 **Trigger** You or an ally within 30 feet takes damage.
 
 ---

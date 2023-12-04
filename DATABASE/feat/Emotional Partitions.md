@@ -11,6 +11,7 @@ name: Emotional Partitions
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Emotional Partitions <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Kashrishi</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 
 ---
 You have created strong mental partitions in your mind to filter out negative emotional influences. You gain a +1 circumstance bonus on saving throws against emotion effects. If you roll a success on a saving throw against an emotion effect, you get a critical success instead.

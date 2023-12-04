@@ -11,6 +11,7 @@ name: Poison Coat
 prerequisite: '[[DATABASE/feat/Poisoner Dedication|Poisoner Dedication]]'
 rarity: Common
 requirement: You have prepared your clothing to poison attackers (see below).
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Poison Coat <span class="action-icon">5</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Poisoner]]
-**Prerequisites** [[Poisoner Dedication]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Poisoner|Poisoner]]
+**Prerequisites** [[DATABASE/feat/Poisoner Dedication|Poisoner Dedication]]
 **Trigger** A creature adjacent to you hits you with a melee unarmed Strike.
 **Requirements** You have prepared your clothing to poison attackers (see below).
 

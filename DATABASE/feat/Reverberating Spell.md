@@ -11,6 +11,7 @@ name: Reverberating Spell
 prerequisite: '[[DATABASE/feat/Elementalist Dedication|Elementalist Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -25,12 +26,12 @@ type: Feat
 # Reverberating Spell <span class="action-icon">1</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Metal</span><span class="item-trait">Spellshape</span>
-**Source** [[Rage of Elements]]
-**Archetype** [[Elementalist]]
-**Prerequisites** [[Elementalist Dedication]]; metal is in your elemental philosophy
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
+**Archetype** [[DATABASE/archetype/Elementalist|Elementalist]]
+**Prerequisites** [[DATABASE/feat/Elementalist Dedication|Elementalist Dedication]]; metal is in your elemental philosophy
 
 ---
-Your spell disorients your targets with a metallic clangor. If the next action you use this turn is to Cast a non-cantrip Spell that deals damage in an area (such as a burst, line, or cone), the spell deals an additional 1d8 sonic damage and all creatures who fail their save against the spell are [[Deafened]] for 1 round. Targets who critically fail their saves against this spell are instead deafened for 1 minute. The spell gains the sonic trait.
+Your spell disorients your targets with a metallic clangor. If the next action you use this turn is to Cast a non-cantrip Spell that deals damage in an area (such as a burst, line, or cone), the spell deals an additional 1d8 sonic damage and all creatures who fail their save against the spell are [[DATABASE/condition/Deafened|deafened]] for 1 round. Targets who critically fail their saves against this spell are instead deafened for 1 minute. The spell gains the sonic trait.
 
 ## Traits
 

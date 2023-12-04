@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Atmospheric Staff<span class="item-type">Item 4+</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Air</span><span class="item-trait">Magical</span><span class="item-trait">Staff</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Usage** held in 1 hand; **Bulk** 2
 
 ---
@@ -65,36 +66,36 @@ This staff is made of a dense wood and strikes the ground with an imposing boom.
 
 ## Atmospheric Staff (Lesser)<span class="item-type">Item 4</span>
 
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Price** 95 gp
 **Bulk** 2
 
-* **Cantrip** [[Gale Blast]]
-* **1st** [[Air Bubble]], [[Gravitational Pull]]
+* **Cantrip** [[DATABASE/spell/Gale Blast|gale blast]]
+* **1st** [[DATABASE/spell/Air Bubble|air bubble]], [[DATABASE/spell/Gravitational Pull|gravitational pull]]
 
 ## Atmospheric Staff<span class="item-type">Item 8</span>
 
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Price** 480 gp
 **Bulk** 2
 
-* **2nd** [[Gentle Breeze]]
-* **3rd** [[Gravity Well]], [[Tempest Cloak]]
+* **2nd** [[DATABASE/spell/Gentle Breeze|gentle breeze]]
+* **3rd** [[DATABASE/spell/Gravity Well|gravity well]], [[DATABASE/spell/Tempest Cloak|tempest cloak]]
 
 ## Atmospheric Staff (Greater)<span class="item-type">Item 12</span>
 
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Price** 1,900 gp
 **Bulk** 2
 
-* **4th** [[Fly]], [[Variable Gravity]]
-* **5th** [[Elemental Form]] (air only), [[Telekinetic Haul]]
+* **4th** [[DATABASE/spell/Fly|fly]], [[DATABASE/spell/Variable Gravity|variable gravity]]
+* **5th** [[DATABASE/spell/Elemental Form|elemental form]] (air only), [[DATABASE/spell/Telekinetic Haul|telekinetic haul]]
 
 ## Atmospheric Staff (Major)<span class="item-type">Item 16</span>
 
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Price** 8,900 gp
 **Bulk** 2
 
-* **6th** [[Zero Gravity]]
-* **7th** _elemental form_ (air only), [[Vacuum]]
+* **6th** [[DATABASE/spell/Zero Gravity|zero gravity]]
+* **7th** _elemental form_ (air only), [[DATABASE/spell/Vacuum|vacuum]]

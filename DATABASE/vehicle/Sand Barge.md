@@ -16,6 +16,7 @@ price: 750 gp
 rarity: Uncommon
 reflex: null
 resistance: null
+rus_type_level: null
 school: null
 size: Huge
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
@@ -28,13 +29,13 @@ type: Vehicle
 # Sand Barge<span class="item-type">Vehicle 6</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-size item-trait">Huge</span>
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 750 gp
 
 ---
 **Space** 30 feet long, 20 feet wide, 15 feet high
 **Crew** 1 pilot, 2 crew; **Passengers** 5
-**Piloting Check** [[Diplomacy]] (DC 24), [[Intimidation]] (DC 24), [[Lore]] (DC 22)
+**Piloting Check** [[DATABASE/skill/Diplomacy|Diplomacy]] (DC 24), [[DATABASE/skill/Intimidation|Intimidation]] (DC 24), [[DATABASE/skill/Lore|Sailing Lore]] (DC 22)
 
 ---
 **AC** 20; **Fort** +14

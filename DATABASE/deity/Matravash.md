@@ -23,6 +23,7 @@ follower_alignment:
 id: '193'
 name: Matravash
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Survival|Survival]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -32,7 +33,7 @@ type: Deity
 ---
 # Matravash (The Wide Water) [LN]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Category** Vudrani Gods
 **Edicts** Aid the persecuted, accommodate and facilitate others, practice contemplation and restraint
 **Anathema** Destroy lotus fields, interfere with the flow of the Matra river, pollute clean water, reveal the location of nonevil fugitives
@@ -40,9 +41,9 @@ type: Deity
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Constitution or Wisdom
-**Divine Font** _[[Heal]]_
-**Divine Skill** [[Survival]]
-**Favored Weapon** [[Whip]]
-**Domains** [[Cities Domain]], [[Nature Domain]], [[Travel Domain]], [[Water Domain]]
-**Cleric Spells** 1st: _[[Share Lore]]_, 3rd: _[[Slow]]_, 4th: _[[Speak with Plants]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Constitution or Wisdom
+**Divine Font** _[[DATABASE/spell/Heal|heal]]_
+**Divine Skill** [[DATABASE/skill/Survival|Survival]]
+**Favored Weapon** [[DATABASE/weapon/Whip|whip]]
+**Domains** [[DATABASE/domain/Cities Domain|cities]], [[DATABASE/domain/Nature Domain|nature]], [[DATABASE/domain/Travel Domain|travel]], [[DATABASE/domain/Water Domain|water]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Share Lore|share lore]]_, 3rd: _[[DATABASE/spell/Slow|slow]]_, 4th: _[[DATABASE/spell/Speak with Plants|speak with plants]]_

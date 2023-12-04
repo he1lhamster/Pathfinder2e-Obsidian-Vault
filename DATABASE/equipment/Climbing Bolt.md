@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 size: null
@@ -54,9 +55,9 @@ weapon_type: null
 # Climbing Bolt<span class="item-type">Item 4</span>
 
 <span class="item-trait">Conjuration</span><span class="item-trait">Consumable</span><span class="item-trait">Magical</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 15 gp
-**Ammunition** [[Bolts]]; **Bulk** —
+**Ammunition** [[DATABASE/weapon/Bolts|bolt]]; **Bulk** —
 
 ---
 The shaft of this bolt is wrapped with fine twine. When the bolt strikes a solid surface, the twine unwinds and enlarges into a 50-foot-long rope, securely fastened to the surface the bolt struck. The rope can be pulled free with an Interact action and a successful DC 20 Athletics check.

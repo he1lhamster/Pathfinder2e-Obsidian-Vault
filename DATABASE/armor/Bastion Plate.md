@@ -12,6 +12,7 @@ level: '2'
 name: Bastion Plate
 price: 33 gp
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 speed_penalty: -10 ft.
 strength: '+18'
@@ -26,9 +27,9 @@ type: Armor
 # Bastion Plate<span class="item-type">Item 2</span>
 
 <span class="item-trait">Bulwark</span><span class="item-trait">Entrench Melee</span><span class="item-trait">Hindering</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 33 gp; **AC Bonus** +6; **Dex Cap** +0; **Check Penalty** -3; **Speed Penalty** -10 ft.
-**Strength** 18; **Bulk** 5; **Category** Heavy; **Group** [[Plate]]
+**Strength** 18; **Bulk** 5; **Category** Heavy; **Group** [[DATABASE/armorgroup/Plate|Plate]]
 
 ---
 This cumbersome and sturdy plate armor has fluting and additional protection built into the cuirass, helm, pauldrons, and vambraces. Bastion plate was invented for protection in combat tournaments meant to be sporting rather than lethal.
@@ -37,7 +38,7 @@ This cumbersome and sturdy plate armor has fluting and additional protection bui
 
 **Bulwark:**
 
-The armor covers you so completely that it provides benefits against some damaging effects. On Reflex saves to avoid a damaging effect, such as a _[[Fireball]]_, you add a +3 modifier instead of your Dexterity modifier.
+The armor covers you so completely that it provides benefits against some damaging effects. On Reflex saves to avoid a damaging effect, such as a _[[DATABASE/spell/Fireball|fireball]]_, you add a +3 modifier instead of your Dexterity modifier.
 
 **Entrench Melee:**
 
@@ -49,10 +50,10 @@ This armor is so heavy and bulky it slows you down no matter what. You take a �
 
 ## Armor Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain class features can grant you additional benefits with certain armors. This is called an armor specialization effect. The exact effect depends on which armor group your armor belongs to, as listed below. Only medium and heavy armors have armor specialization effects.
 **Plate**: The sturdy plate provides no purchase for a cutting edge. You gain resistance to slashing damage equal to 1 + the value of the armor’s potency rune for medium armor, or 2 + the value of the armor’s potency rune for heavy armor.
 
 ## Specific Magic Armor
 
-[[Bastion of the Inheritor]], [[Highhelm Stronghold Plate]], [[Immortal Bastion]]
+[[DATABASE/equipment/Bastion of the Inheritor|Bastion of the Inheritor]], [[DATABASE/equipment/Highhelm Stronghold Plate|Highhelm Stronghold Plate]], [[DATABASE/equipment/Immortal Bastion|Immortal Bastion]]

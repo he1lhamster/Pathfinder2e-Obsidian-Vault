@@ -11,6 +11,7 @@ name: Instructive Strike
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Instructive Strike <span class="action-icon">1</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Thaumaturge</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 
 ---
-You attack your foe and analyze how it reacts. Make a Strike. On a hit, you can immediately attempt a check to [[Recall Knowledge]] about the target. On a critical hit, you gain a +2 circumstance bonus to the check to Recall Knowledge.
+You attack your foe and analyze how it reacts. Make a Strike. On a hit, you can immediately attempt a check to [[DATABASE/action/Recall Knowledge|Recall Knowledge]] about the target. On a critical hit, you gain a +2 circumstance bonus to the check to Recall Knowledge.

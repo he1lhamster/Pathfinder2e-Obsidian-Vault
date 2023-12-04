@@ -69,19 +69,19 @@ wisdom: '+1'
 # Orc Warchief
 
 When orcs raid, the strongest is chosen as the leader, backed up by brothers, sisters, and other immediate family.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 16
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
 # Orc Warchief<span class="item-type">Creature 2</span>
 
 <span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Humanoid</span><span class="item-trait">Orc</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +11; darkvision
-**Languages** [[Common]], [[Orcish]]
-**Skills** [[Athletics]] +8, [[Intimidation]] +6, [[Survival]] +5
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Orcish|Orcish]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +8, [[DATABASE/skill/Intimidation|Intimidation]] +6, [[DATABASE/skill/Survival|Survival]] +5
 **Str** +4, **Dex** +2, **Con** +1, **Int** -1, **Wis** +1, **Cha** +2
-**Items** [[Greatclub]], [[Hide Armor]], [[Javelin]]
+**Items** [[DATABASE/weapon/Greatclub|greatclub]], [[DATABASE/armor/Hide Armor|hide armor]], [[DATABASE/weapon/Javelin|javelin (6)]]
 
 ---
 **AC** 19; **Fort** +7, **Ref** +6, **Will** +7

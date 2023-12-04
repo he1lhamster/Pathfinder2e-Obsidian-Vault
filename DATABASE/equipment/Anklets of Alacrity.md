@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -55,10 +56,10 @@ weapon_type: null
 # Anklets of Alacrity<span class="item-type">Item 17</span>
 
 <span class="item-trait">Apex</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span><span class="item-trait">Transmutation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 15,000 gp
 **Usage** worn anklets; **Bulk** —
 
 ---
 These gem-studded golden anklets give you a +3 item bonus to Acrobatics checks. When you invest the anklets, you either increase your Dexterity score by 2 or increase it to 18, whichever would give you a higher score.
-**Activate** <span class="action-icon">1</span> Interact **Frequency** once per day; **Effect** You click the anklets together, gaining a +20-foot status bonus to all your Speeds and the effects of [[Water Walk]] for the next 10 minutes.
+**Activate** <span class="action-icon">1</span> Interact **Frequency** once per day; **Effect** You click the anklets together, gaining a +20-foot status bonus to all your Speeds and the effects of [[DATABASE/spell/Water Walk|water walk]] for the next 10 minutes.

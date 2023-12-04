@@ -10,6 +10,7 @@ requirement: "You have Reconnoitered the hex to be claimed during hexploration. 
   \ hex must be adjacent to atleast one hex that's already part of your kingdom. If\
   \ the hex to be claimed contains dangeroushazards or monsters, they must first be\
   \ cleared out\u2014either via standard adventuring or the Clear Hexactivity."
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
@@ -22,7 +23,7 @@ type: Action
 # Claim Hex
 
 <span class="item-trait">Downtime</span><span class="item-trait">Region</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 **Requirements** You have Reconnoitered the hex to be claimed during hexploration. This hex must be adjacent to at least one hex that's already part of your kingdom. If the hex to be claimed contains dangerous hazards or monsters, they must first be cleared out—either via standard adventuring or the Clear Hex activity.
 
 ---

@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Threshold of Knowledge|Threshold of Knowledge]]'
@@ -38,7 +39,7 @@ type: Spell
 # Nettleskin<span class="item-type">Spell 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Plant</span><span class="item-trait">Transmutation</span>
-**Source** [[Threshold of Knowledge]]
+**Source** [[DATABASE/source/Threshold of Knowledge|Threshold of Knowledge]]
 **Traditions** primal
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Duration** 1 minute

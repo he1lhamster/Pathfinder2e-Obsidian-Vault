@@ -11,6 +11,7 @@ name: Practiced Paddler
 prerequisite: '[[DATABASE/heritage/Paddler Shoony|Paddler Shoony]] heritage'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 153. Life''s Long Shadows|Pathfinder #153: Life''s
   Long Shadows]]'
@@ -24,8 +25,8 @@ type: Feat
 # Practiced Paddler <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Shoony</span>
-**Source** [[Pathfinder 153. Life's Long Shadows]]
-**Prerequisites** [[Paddler Shoony]]
+**Source** [[DATABASE/source/Pathfinder 153. Life's Long Shadows|Pathfinder #153: Life's Long Shadows]]
+**Prerequisites** [[DATABASE/heritage/Paddler Shoony|Paddler Shoony]]
 
 ---
 You’re skilled at navigating bogs and marshes, even for a paddler shoony. You gain a swim Speed of 15 feet.
@@ -33,5 +34,3 @@ You’re skilled at navigating bogs and marshes, even for a paddler shoony. You 
 ## Traits
 
 **Shoony:**
-
-_Note from Nethys: no description was provided for this trait_

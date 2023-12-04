@@ -11,6 +11,7 @@ name: Nightvision Adaptation
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Nightvision Adaptation <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Android</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
 The nanites in your ocular processors have adapted to darkness, enhancing your ability to see in the dark. You gain darkvision.

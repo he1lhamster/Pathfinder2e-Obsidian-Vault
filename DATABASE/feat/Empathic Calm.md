@@ -11,6 +11,7 @@ name: Empathic Calm
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Empathic Calm <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Kashrishi</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 
 ---
-Once per day, you can cast either [[Calm Emotions]] or [[Sanctuary]] as an innate occult spell, heightened to half your level rounded up.
+Once per day, you can cast either [[DATABASE/spell/Calm Emotions|calm emotions]] or [[DATABASE/spell/Sanctuary|sanctuary]] as an innate occult spell, heightened to half your level rounded up.
 
 ## Traits
 

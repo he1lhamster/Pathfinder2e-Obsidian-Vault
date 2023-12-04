@@ -64,22 +64,22 @@ wisdom: '+2'
 # Elk
 
 Elk are exceptionally adaptable survivors. Most breeds stand between 3 and 5 feet tall and weigh between 350 and 550 pounds.
-**Recall Knowledge - Animal ([[Nature]])**: DC 15
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Elk<span class="item-type">Creature 1</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Animal</span>
-**Source** [[Kingmaker Adventure Path]], [[Pathfinder 176. Lost Mammoth Valley]]
-**Perception** +7; [[Low-Light Vision]], [[Scent]] (imprecise) 30 feet
-**Skills** [[Athletics]] +7, [[Survival]] +5
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]], [[DATABASE/source/Pathfinder 176. Lost Mammoth Valley|Pathfinder #176: Lost Mammoth Valley]]
+**Perception** +7; [[DATABASE/monsterability/Low-Light Vision|low-light vision]], [[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +7, [[DATABASE/skill/Survival|Survival]] +5
 **Str** +4, **Dex** +2, **Con** +4, **Int** -4, **Wis** +2, **Cha** +0
 
 ---
 **AC** 16; **Fort** +9, **Ref** +7, **Will** +5
 **HP** 20
-<span class="in-box-ability">**[[Buck]] <span class="action-icon">5</span> ** DC 17</span>
+<span class="in-box-ability">**[[DATABASE/monsterability/Buck|Buck]] <span class="action-icon">5</span> ** DC 17</span>
 
 ---
 **Speed** 40 feet

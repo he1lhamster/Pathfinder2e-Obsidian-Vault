@@ -13,6 +13,7 @@ name: Hwacha
 price: 180 gp
 rarity: Uncommon
 reflex: '+4'
+rus_type_level: null
 size: Large
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
@@ -25,7 +26,7 @@ usage: mounted (black powder)
 # Hwacha<span class="item-type">Item 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-size item-trait">Large</span><span class="item-trait">Mounted</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 180 gp; **Ammunition** 100 hwacha arrows (2 gp, 1 Bulk)
 
 ---

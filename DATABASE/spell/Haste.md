@@ -37,6 +37,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -54,10 +55,10 @@ type: Spell
 # Haste<span class="item-type">Spell 3</span>
 
 <span class="item-trait">Transmutation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult, primal
-**Bloodlines** [[Draconic]], [[Imperial]], [[Wyrmblessed]]
-**Deities** [[Droskar]], [[Irori]], [[Jaidz]], [[Kurgess]], [[Ragathiel]], [[Shax]], [[Shyka]], [[Skode]], [[Szuriel]], [[The Divine Dare]], [[Trudd]], [[Uvuko]]
+**Bloodlines** [[DATABASE/sorcererbloodline/Draconic|draconic]], [[DATABASE/sorcererbloodline/Imperial|imperial]], [[DATABASE/sorcererbloodline/Wyrmblessed|wyrmblessed]]
+**Deities** [[DATABASE/deity/Droskar|Droskar]], [[DATABASE/deity/Irori|Irori]], [[DATABASE/deity/Jaidz|Jaidz]], [[DATABASE/deity/Kurgess|Kurgess]], [[DATABASE/deity/Ragathiel|Ragathiel]], [[DATABASE/deity/Shax|Shax]], [[DATABASE/deity/Shyka|Shyka]], [[DATABASE/deity/Skode|Skode]], [[DATABASE/deity/Szuriel|Szuriel]], [[DATABASE/deity/The Divine Dare|The Divine Dare]], [[DATABASE/deity/Trudd|Trudd]], [[DATABASE/deity/Uvuko|Uvuko]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet; **Targets** 1 creature
 **Duration** 1 minute

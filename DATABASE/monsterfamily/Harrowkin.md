@@ -3,6 +3,7 @@ creature_family: Harrowkin
 id: '339'
 name: Harrowkin
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 192. Worst of All Possible Worlds|Pathfinder
   #192: Worst of All Possible Worlds]]'
 trait: null
@@ -11,8 +12,8 @@ type: Creature Family
 ---
 # Harrowkin
 
-**Source** [[Pathfinder 192. Worst of All Possible Worlds]]
-When a [[Harrow Deck]] becomes infused with great magical power, it can produce a harrowkin.
+**Source** [[DATABASE/source/Pathfinder 192. Worst of All Possible Worlds|Pathfinder #192: Worst of All Possible Worlds]]
+When a [[DATABASE/equipment/Harrow Deck|harrow deck]] becomes infused with great magical power, it can produce a harrowkin.
 
 ## Harrowkin Abilities
 
@@ -22,7 +23,7 @@ Each harrowkin is connected one specific harrow suit and has the following share
 
 * **Hammers** The harrowkin gains a +2 status bonus to damage rolls.
 * **Keys** The harrowkin gains a +1 status bonus to AC.
-* **Shields** The harrowkin gains [[Fast Healing]].
+* **Shields** The harrowkin gains [[DATABASE/monsterability/Fast Healing|fast healing 5]].
 * **Books** The harrowkin gains a +1 status bonus to skill checks.
 * **Stars** The harrowkin gains a +1 status bonus to saving throws.
 * **Crown** The harrowkin can reroll 1 check within the next minute and take the higher result. This is a fortune effect.
@@ -30,7 +31,7 @@ Each harrowkin is connected one specific harrow suit and has the following share
 
 ### Members
 
-[[Fabled Harrowkin]] (Creature 17), [[Simple Harrowkin]] (Creature 4), [[Storied Harrowkin]] (Creature 10)
+[[DATABASE/monster/Fabled Harrowkin|Fabled Harrowkin]] (Creature 17), [[DATABASE/monster/Simple Harrowkin|Simple Harrowkin]] (Creature 4), [[DATABASE/monster/Storied Harrowkin|Storied Harrowkin]] (Creature 10)
 
 ###  Ancient Harrowkin
 

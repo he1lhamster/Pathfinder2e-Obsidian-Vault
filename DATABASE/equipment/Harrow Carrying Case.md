@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -51,7 +52,7 @@ weapon_type: null
 ---
 # Harrow Carrying Case<span class="item-type">Item 0</span>
 
-**Source** [[Pathfinder 160. Assault on Hunting Lodge Seven]]
+**Source** [[DATABASE/source/Pathfinder 160. Assault on Hunting Lodge Seven|Pathfinder #160: Assault on Hunting Lodge Seven]]
 **Price** 1 gp
 **Hands** 1; **Bulk** 1
 

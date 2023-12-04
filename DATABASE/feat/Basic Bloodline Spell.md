@@ -11,6 +11,7 @@ name: Basic Bloodline Spell
 prerequisite: '[[DATABASE/feat/Sorcerer Dedication|Sorcerer Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Basic Bloodline Spell <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Sorcerer]]
-**Prerequisites** [[Sorcerer Dedication]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Sorcerer|Sorcerer]]
+**Prerequisites** [[DATABASE/feat/Sorcerer Dedication|Sorcerer Dedication]]
 
 ---
 You gain your bloodline’s initial bloodline spell. If you don’t already have one, you also gain a focus pool of 1 Focus Point, which you can Refocus without any special effort.

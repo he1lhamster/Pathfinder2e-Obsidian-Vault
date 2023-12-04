@@ -22,6 +22,7 @@ patron_theme: null
 range: 120 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -38,9 +39,9 @@ type: Spell
 # Blade Barrier<span class="item-type">Spell 6</span>
 
 <span class="item-trait">Evocation</span><span class="item-trait">Force</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** divine
-**Bloodline** [[Angelic]]
+**Bloodline** [[DATABASE/sorcererbloodline/Angelic|angelic]]
 **Cast** <span class="action-icon">3</span> material, somatic, verbal
 **Range** 120 feet
 **Duration** 1 minute

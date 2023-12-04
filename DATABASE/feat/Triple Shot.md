@@ -11,6 +11,7 @@ name: Triple Shot
 prerequisite: '[[DATABASE/feat/Double Shot|Double Shot]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Triple Shot <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Fighter</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Archer]]*
-**Prerequisites** [[Double Shot]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Archer|Archer]]*
+**Prerequisites** [[DATABASE/feat/Double Shot|Double Shot]]
 * This archetype offers Triple Shot at a different level than displayed here.
 
 ---
@@ -37,4 +38,4 @@ This feat can be used for one or more Archetypes in addition to the listed Class
 
 ## Triple Shot Leads To...
 
-[[Multishot Stance]]
+[[DATABASE/feat/Multishot Stance|Multishot Stance]]

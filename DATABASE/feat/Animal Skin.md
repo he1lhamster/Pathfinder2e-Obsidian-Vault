@@ -11,6 +11,7 @@ name: Animal Skin
 prerequisite: '[[DATABASE/barbarianinstinct/Animal Instinct|animal instinct]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -26,11 +27,11 @@ type: Feat
 # Animal Skin <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Barbarian</span><span class="item-trait">Morph</span><span class="item-trait">Primal</span><span class="item-trait">Transmutation</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Animal Instinct]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/barbarianinstinct/Animal Instinct|animal instinct]]
 
 ---
-Your proficiency in unarmored defense increases to expert. When you are raging and unarmored, your skin transforms into a thick hide. You gain a +2 item bonus to AC (+3 if you have the greater juggernaut class feature). The thickness of your hide gives you a Dexterity modifier cap to your AC of +3. This item bonus to AC is cumulative with [[Armor Potency]] on your [[Explorer's Clothing]], [[Mage Armor]], and [[Bracers of Armor]].
+Your proficiency in unarmored defense increases to expert. When you are raging and unarmored, your skin transforms into a thick hide. You gain a +2 item bonus to AC (+3 if you have the greater juggernaut class feature). The thickness of your hide gives you a Dexterity modifier cap to your AC of +3. This item bonus to AC is cumulative with [[DATABASE/equipment/Armor Potency|armor potency runes]] on your [[DATABASE/armor/Explorer's Clothing|explorer's clothing]], [[DATABASE/spell/Mage Armor|mage armor]], and [[DATABASE/equipment/Bracers of Armor|bracers of armor]].
 
 ## Traits
 

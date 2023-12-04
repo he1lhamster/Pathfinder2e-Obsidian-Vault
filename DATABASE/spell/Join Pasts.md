@@ -20,6 +20,7 @@ patron_theme: null
 range: touch
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Pathfinder 147. Tomorrow Must Burn|Pathfinder #147: Tomorrow
@@ -39,14 +40,14 @@ type: Cantrip
 # Join Pasts<span class="item-type">Cantrip 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Cantrip</span><span class="item-trait">Divination</span><span class="item-trait">Mental</span>
-**Source** [[Pathfinder 147. Tomorrow Must Burn]]
+**Source** [[DATABASE/source/Pathfinder 147. Tomorrow Must Burn|Pathfinder #147: Tomorrow Must Burn]]
 **Traditions** occult
 **Cast** <span class="action-icon">1</span> somatic
 **Range** touch; **Targets** 2 willing creatures
 **Duration** 1 round
 
 ---
-With touches to the targets’ foreheads, you bring them into mental communion. The targets can share thoughts and experiences, but not words. When one target attempts to [[Recall Knowledge]], the other can [[Aid]] the first target’s skill check, using any [[Lore]] skill (even if that Lore wouldn’t normally apply) without having made any preparations to Aid.
+With touches to the targets’ foreheads, you bring them into mental communion. The targets can share thoughts and experiences, but not words. When one target attempts to [[DATABASE/action/Recall Knowledge|Recall Knowledge]], the other can [[DATABASE/action/Aid|Aid]] the first target’s skill check, using any [[DATABASE/skill/Lore|Lore]] skill (even if that Lore wouldn’t normally apply) without having made any preparations to Aid.
 
 ---
 **Heightened (+1)** You can touch one additional target to include them in the spell’s effects. Multiple targets can attempt checks to Aid the target who is attempting to Recall Knowledge.

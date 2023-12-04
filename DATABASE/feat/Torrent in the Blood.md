@@ -11,6 +11,7 @@ name: Torrent in the Blood
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -30,7 +31,7 @@ type: Feat
 # Torrent in the Blood <span class="action-icon">2</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Healing</span><span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Manipulate</span><span class="item-trait">Overflow</span><span class="item-trait">Primal</span><span class="item-trait">Vitality</span><span class="item-trait">Water</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
 A healing wave splashes across creatures in a 30-foot cone, its cleansing water driving afflictions from the body. Each creature in the area regains 3d8 Hit Points and can attempt a new save against one poison or disease affliction affecting it; on a failed save, the condition doesn't worsen.
@@ -55,7 +56,7 @@ You must physically manipulate an item or make gestures to use an action with th
 
 **Overflow:**
 
-Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
+Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[DATABASE/action/Channel Elements|Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
 
 **Primal:**
 

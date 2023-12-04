@@ -11,6 +11,7 @@ name: Shiny Button Eyes
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Shiny Button Eyes <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Poppet</span>
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 
 ---
-You've polished your eyes to reflect the smallest details in dimmest light. You gain the [[Canny Acumen]] skill feat as a bonus feat, but you must choose Perception. Additionally, you gain a +1 circumstance bonus to Perception checks against visual illusions.
+You've polished your eyes to reflect the smallest details in dimmest light. You gain the [[DATABASE/feat/Canny Acumen|Canny Acumen]] skill feat as a bonus feat, but you must choose Perception. Additionally, you gain a +1 circumstance bonus to Perception checks against visual illusions.
 
 ## Traits
 

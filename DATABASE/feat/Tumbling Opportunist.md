@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Acrobat Dedication|Acrobat Dedication]]'
 rarity: Common
 requirement: Your most recent action was to [[DATABASE/action/Tumble Through|Tumble
   Through]] or TumblingStrike, and you successfully moved through an enemy's space.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,14 +26,14 @@ type: Feat
 # Tumbling Opportunist <span class="action-icon">4</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Attack</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Acrobat]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Acrobat|Acrobat]]
 **Frequency** once per minute
-**Prerequisites** [[Acrobat Dedication]]
-**Requirements** Your most recent action was to [[Tumble Through]] or Tumbling Strike, and you successfully moved through an enemy's space.
+**Prerequisites** [[DATABASE/feat/Acrobat Dedication|Acrobat Dedication]]
+**Requirements** Your most recent action was to [[DATABASE/action/Tumble Through|Tumble Through]] or Tumbling Strike, and you successfully moved through an enemy's space.
 
 ---
-You use a burst of stamina to perform a breathtaking feat of [[Acrobatics]] as you speed through a foe's space, leaving your foe lying flat on their back. You attempt to [[Trip]] the enemy whose space you moved through. You can use Acrobatics instead of [[Athletics]] for this check.
+You use a burst of stamina to perform a breathtaking feat of [[DATABASE/skill/Acrobatics|Acrobatics]] as you speed through a foe's space, leaving your foe lying flat on their back. You attempt to [[DATABASE/action/Trip|Trip]] the enemy whose space you moved through. You can use Acrobatics instead of [[DATABASE/skill/Athletics|Athletics]] for this check.
 
 ## Traits
 

@@ -11,6 +11,7 @@ name: Archwizard's Might
 prerequisite: '[[DATABASE/class_/Wizard|archwizard''s spellcraft]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Archwizard's Might <span class="item-type">Feat 20</span>
 
 <span class="item-trait">Wizard</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Wizard]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/class_/Wizard|archwizard's spellcraft]]
 
 ---
 You have mastered the greatest secrets of arcane magic. You gain an additional 10th-level spell slot.

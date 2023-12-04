@@ -6,6 +6,7 @@ id: '143'
 name: Finadar Leshy
 prerequisite: null
 rarity: null
+rus_type_level: null
 skill: null
 source: '[[DATABASE/source/PFS Scenario 1-15. The Blooming Catastrophe|PFS Scenario
   #1-15: The Blooming Catastrophe]]'
@@ -16,8 +17,8 @@ type: null
 ---
 # Finadar Leshy<span class="item-type">Background</span>
 
-**Source** [[PFS Scenario 1-15. The Blooming Catastrophe]]
-**Prerequisites** [[Leshy]] ancestry
+**Source** [[DATABASE/source/PFS Scenario 1-15. The Blooming Catastrophe|PFS Scenario #1-15: The Blooming Catastrophe]]
+**Prerequisites** [[DATABASE/ancestry/Leshy|Leshy]] ancestry
 You are a leshy from Finadar Forest, originally created under the corruption of a cyclopean monolith. Though the Pathfinder Society managed to sever the monolith’s connection, freeing the forest and your people from its influence, you retain a trace, unnerving connection to the Abyss.
 Choose two ability boosts. One must be to **Constitution** or **Charisma**, and one is a free ability boost.
-You're trained in the [[Intimidation]] skill, and the [[Lore]] skill. You gain the [[Intimidating Glare]] skill feat.
+You're trained in the [[DATABASE/skill/Intimidation|Intimidation]] skill, and the [[DATABASE/skill/Lore|Abyssal Lore]] skill. You gain the [[DATABASE/feat/Intimidating Glare|Intimidating Glare]] skill feat.

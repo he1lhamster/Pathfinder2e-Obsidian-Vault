@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Expert Eldritch Archer Spellcasting|Expert Eldrit
   Archer Spellcasting]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Master Eldritch Archer Spellcasting <span class="item-type">Feat 18</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Eldritch Archer]]
-**Prerequisites** [[Expert Eldritch Archer Spellcasting]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Eldritch Archer|Eldritch Archer]]
+**Prerequisites** [[DATABASE/feat/Expert Eldritch Archer Spellcasting|Expert Eldritch Archer Spellcasting]]
 
 ---
 You gain the master spellcasting benefits.

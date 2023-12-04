@@ -29,6 +29,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Fortitude
 school: Necromancy
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -46,10 +47,10 @@ type: Spell
 # Grim Tendrils<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Necromancy</span><span class="item-trait">Negative</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult
-**Bloodline** [[Shadow]]
-**Deities** [[Charon]], [[Dajermube]], [[Fumeiyoshi]], [[Nhimbaloth]], [[Nyarlathotep]], [[Orcus]], [[Treerazer]]
+**Bloodline** [[DATABASE/sorcererbloodline/Shadow|shadow]]
+**Deities** [[DATABASE/deity/Charon|Charon]], [[DATABASE/deity/Dajermube|Dajermube]], [[DATABASE/deity/Fumeiyoshi|Fumeiyoshi]], [[DATABASE/deity/Nhimbaloth|Nhimbaloth]], [[DATABASE/deity/Nyarlathotep|Nyarlathotep (Haunter in the Dark)]], [[DATABASE/deity/Orcus|Orcus]], [[DATABASE/deity/Treerazer|Treerazer]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Area** 30-foot line
 **Saving Throw** Fortitude

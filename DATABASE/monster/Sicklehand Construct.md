@@ -81,24 +81,24 @@ wisdom: '+0'
 # Sicklehand Construct
 
 This creature did not include a description.
-**Recall Knowledge - Construct ([[Arcana]], [[Crafting]])**: DC 19
+**Recall Knowledge - Construct ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Crafting|Crafting]])**: DC 19
 **Unspecific Lore**: DC 17
 **Specific Lore**: DC 14
 
 # Sicklehand Construct<span class="item-type">Creature 0</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Construct</span><span class="item-trait">Mindless</span>
-**Source** [[Pathfinder 169. Kindled Magic]]
-**Perception** +6; [[Low-Light Vision]]
-**Skills** [[Acrobatics]] +7, [[Athletics]] +5 (+6 to [[Trip]])
+**Source** [[DATABASE/source/Pathfinder 169. Kindled Magic|Pathfinder #169: Kindled Magic]]
+**Perception** +6; [[DATABASE/monsterability/Low-Light Vision|low-light vision]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +7, [[DATABASE/skill/Athletics|Athletics]] +5 (+6 to [[DATABASE/action/Trip|Trip]])
 **Str** +1, **Dex** +3, **Con** +1, **Int** -5, **Wis** +0, **Cha** -5
-**Items** [[Sickle]]
+**Items** [[DATABASE/weapon/Sickle|wooden sickles (2)]]
 
 ---
 **AC** 16; **Fort** +5, **Ref** +9, **Will** +4
-**HP** 15; **Immunities** bleed, death effects, disease, [[Doomed]], [[Drained]], [[Fatigued]], mental, necromancy, nonlethal attacks, [[Paralyzed]], poison, [[Sickened]], [[Unconscious]]; **Weaknesses** fire 3
-<span class="in-box-ability">**Critical Vulnerability** A critical hit damages the construct's controls, making it [[Clumsy]] until repaired. Additional critical hits increase this value, up to clumsy 4.</span><span class="in-box-ability">**Ridden Construct** The construct is piloted by a [[Leaf Leshy]], who can be targeted separately but has greater cover. The leshy can't take actions of their own while inside the construct, other than to leave it, which takes 1 minute.</span>
+**HP** 15; **Immunities** bleed, death effects, disease, [[DATABASE/condition/Doomed|doomed]], [[DATABASE/condition/Drained|drained]], [[DATABASE/condition/Fatigued|fatigued]], mental, necromancy, nonlethal attacks, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Sickened|sickened]], [[DATABASE/condition/Unconscious|unconscious]]; **Weaknesses** fire 3
+<span class="in-box-ability">**Critical Vulnerability** A critical hit damages the construct's controls, making it [[DATABASE/condition/Clumsy|clumsy 1]] until repaired. Additional critical hits increase this value, up to clumsy 4.</span><span class="in-box-ability">**Ridden Construct** The construct is piloted by a [[DATABASE/monster/Leaf Leshy|leaf leshy]], who can be targeted separately but has greater cover. The leshy can't take actions of their own while inside the construct, other than to leave it, which takes 1 minute.</span>
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> wooden sickle +8 [+4/+0] (agile, finesse, trip), **Damage** 1d4+1 slashing</span><span class="in-box-ability">**Menacing Sickles** The construct deals an additional 1d4 precision damage to [[Flat-Footed]] or [[Prone]] creatures.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> wooden sickle +8 [+4/+0] (agile, finesse, trip), **Damage** 1d4+1 slashing</span><span class="in-box-ability">**Menacing Sickles** The construct deals an additional 1d4 precision damage to [[DATABASE/condition/Flat-Footed|flat-footed]] or [[DATABASE/condition/Prone|prone]] creatures.</span>

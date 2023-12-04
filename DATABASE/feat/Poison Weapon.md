@@ -11,6 +11,7 @@ name: Poison Weapon
 prerequisite: null
 rarity: Common
 requirement: You are wielding a piercing or slashing weapon.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Poison Weapon <span class="action-icon">1</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Manipulate</span><span class="item-trait">Rogue</span>
-**Source** [[Core Rulebook]] 
-**Archetypes** [[Assassin]]*, [[Drow Shootist]]*, [[Poisoner]]*
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetypes** [[DATABASE/archetype/Assassin|Assassin]]*, [[DATABASE/archetype/Drow Shootist|Drow Shootist]]*, [[DATABASE/archetype/Poisoner|Poisoner]]*
 **Requirements** You are wielding a piercing or slashing weapon.
 * This archetype offers Poison Weapon at a different level than displayed here.
 
@@ -39,7 +40,7 @@ This feat can be used for one or more Archetypes in addition to the listed Class
 
 ## Poison Weapon Leads To...
 
-[[Improved Poison Weapon]]
+[[DATABASE/feat/Improved Poison Weapon|Improved Poison Weapon]]
 
 ## Traits
 

@@ -85,27 +85,27 @@ wisdom: '+4'
 # Xulgath Demon-Caller
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 30
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 30
 **Unspecific Lore**: DC 28
 **Specific Lore**: DC 25
 
 # Xulgath Demon-Caller<span class="item-type">Creature 5</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Humanoid</span><span class="item-trait">Xulgath</span>
-**Source** [[Pathfinder 152. Legacy of the Lost God]]
-**Perception** +11; [[Darkvision]]
-**Languages** [[Draconic]], [[Undercommon]]
-**Skills** [[Arcana]] +9, [[Athletics]] +13, [[Intimidation]] +11, [[Religion]] +9, [[Stealth]] +10, [[Survival]] +11
+**Source** [[DATABASE/source/Pathfinder 152. Legacy of the Lost God|Pathfinder #152: Legacy of the Lost God]]
+**Perception** +11; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Undercommon|Undercommon]]
+**Skills** [[DATABASE/skill/Arcana|Arcana]] +9, [[DATABASE/skill/Athletics|Athletics]] +13, [[DATABASE/skill/Intimidation|Intimidation]] +11, [[DATABASE/skill/Religion|Religion]] +9, [[DATABASE/skill/Stealth|Stealth]] +10, [[DATABASE/skill/Survival|Survival]] +11
 **Str** +4, **Dex** +1, **Con** +2, **Int** +0, **Wis** +4, **Cha** +2
-**Items** _+1 [[Striking]] [[Spiked Gauntlet]]_, [[Religious Symbol]] of [[Zevgavizeb]]
+**Items** _+1 [[DATABASE/equipment/Striking|striking]] [[DATABASE/weapon/Spiked Gauntlet|spiked gauntlet]]_, [[DATABASE/equipment/Religious Symbol|religious symbol]] of [[DATABASE/deity/Zevgavizeb|Zevgavizeb]]
 
 ---
 **AC** 22; **Fort** +11, **Ref** +8, **Will** +13
 **HP** 80
-<span class="in-box-ability">**Stench** (aura, olfactory) 30 feet. A creature entering the aura must attempt a DC 22 Fortitude save. On a failure, the creature is [[Sickened]], and on a critical failure, the creature also takes a –5-foot status penalty to its Speeds for 1 round. While within the aura, the creature takes a –2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all [[Xulgath]] stench for 1 minute.</span>
+<span class="in-box-ability">**Stench** (aura, olfactory) 30 feet. A creature entering the aura must attempt a DC 22 Fortitude save. On a failure, the creature is [[DATABASE/condition/Sickened|sickened 1]], and on a critical failure, the creature also takes a –5-foot status penalty to its Speeds for 1 round. While within the aura, the creature takes a –2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all [[DATABASE/monsterfamily/Xulgath|xulgaths']] stench for 1 minute.</span>
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _spiked gauntlet_ +16 [+12/+8] (agile, magical), **Damage** 2d4+4 piercing plus demonic condemnation</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +15 [+10/+5], **Damage** 2d8+4 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +15 [+11/+7] (agile), **Damage** 2d6+4 slashing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> javelin +12 [+7/+2] (thrown 30 feet), **Damage** 1d6+4 piercing</span>**Divine Prepared Spells** DC 24, attack +16; **3rd** _[[Blindness]]_, _[[Harm]]_, _[[Vampiric Touch]]_; **2nd** _[[Death Knell]]_, _[[Dispel Magic]]_, _[[Spiritual Weapon]]_ (×2); **1st** _[[Bane]]_, _[[Command]]_ (×2), _[[Heal]]_; **Cantrips** **(3rd)** _[[Detect Magic]]_, _[[Forbidding Ward]]_, _[[Guidance]]_, _[[Shield]]_
-**Cleric Domain Spells 1 Focus Point,** DC 24; **3rd** _[[Athletic Rush]]_
-<span class="in-box-ability">**Demonic Condemnation** The target must succeed at a DC 22 Fortitude save or become [[Frightened]] (frightened 4 on a critical failure). The target is [[Enfeebled]] for as long as it is frightened.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _spiked gauntlet_ +16 [+12/+8] (agile, magical), **Damage** 2d4+4 piercing plus demonic condemnation</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +15 [+10/+5], **Damage** 2d8+4 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +15 [+11/+7] (agile), **Damage** 2d6+4 slashing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> javelin +12 [+7/+2] (thrown 30 feet), **Damage** 1d6+4 piercing</span>**Divine Prepared Spells** DC 24, attack +16; **3rd** _[[DATABASE/spell/Blindness|blindness]]_, _[[DATABASE/spell/Harm|harm]]_, _[[DATABASE/spell/Vampiric Touch|vampiric touch]]_; **2nd** _[[DATABASE/spell/Death Knell|death knell]]_, _[[DATABASE/spell/Dispel Magic|dispel magic]]_, _[[DATABASE/spell/Spiritual Weapon|spiritual weapon]]_ (×2); **1st** _[[DATABASE/spell/Bane|bane]]_, _[[DATABASE/spell/Command|command]]_ (×2), _[[DATABASE/spell/Heal|heal]]_; **Cantrips** **(3rd)** _[[DATABASE/spell/Detect Magic|detect magic]]_, _[[DATABASE/spell/Forbidding Ward|forbidding ward]]_, _[[DATABASE/spell/Guidance|guidance]]_, _[[DATABASE/spell/Shield|shield]]_
+**Cleric Domain Spells 1 Focus Point,** DC 24; **3rd** _[[DATABASE/spell/Athletic Rush|athletic rush]]_
+<span class="in-box-ability">**Demonic Condemnation** The target must succeed at a DC 22 Fortitude save or become [[DATABASE/condition/Frightened|frightened 2]] (frightened 4 on a critical failure). The target is [[DATABASE/condition/Enfeebled|enfeebled 1]] for as long as it is frightened.</span>

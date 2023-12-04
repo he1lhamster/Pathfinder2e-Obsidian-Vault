@@ -2,6 +2,7 @@
 id: '69'
 name: Deep Orc
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 trait: null
 type: Heritage
@@ -9,5 +10,5 @@ type: Heritage
 ---
 # Deep Orc
 
-**Source** [[Advanced Player's Guide]] 
-Your calloused hands and red eyes speak to a life spent in the deep darkness of mountain caverns, where you learned to battle on rocky cliffs and survive with minimal resources. You gain the [[Terrain Expertise]] skill feat for underground terrain and the [[Combat Climber]] skill feat.
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+Your calloused hands and red eyes speak to a life spent in the deep darkness of mountain caverns, where you learned to battle on rocky cliffs and survive with minimal resources. You gain the [[DATABASE/feat/Terrain Expertise|Terrain Expertise]] skill feat for underground terrain and the [[DATABASE/feat/Combat Climber|Combat Climber]] skill feat.

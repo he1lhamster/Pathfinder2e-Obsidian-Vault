@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -52,7 +53,7 @@ weapon_type: null
 # Mithral Shield<span class="item-type">Item 8+</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** varies by shield; **Bulk** —
 
 ---
@@ -60,11 +61,11 @@ Mithral shields are 1 Bulk lighter than normal (or light Bulk if their normal Bu
 
 ### Base Material
 
-[[Mithral]]
+[[DATABASE/equipment/Mithral|Mithral]]
 
 ## Mithral Buckler (Standard-Grade)<span class="item-type">Item 8</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 400 gp
 **Bulk** L
 The shield has Hardness 3, HP 12, and BT 6.
@@ -72,7 +73,7 @@ The shield has Hardness 3, HP 12, and BT 6.
 
 ## Mithral Shield (Standard-Grade)<span class="item-type">Item 8</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 440 gp
 **Bulk** L
 The shield has Hardness 5, HP 20, BT 10.
@@ -80,7 +81,7 @@ The shield has Hardness 5, HP 20, BT 10.
 
 ## Mithral Buckler (High-Grade)<span class="item-type">Item 16</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 8,000 gp
 **Bulk** L
 The shield has Hardness 6, HP 24, and BT 12.
@@ -88,7 +89,7 @@ The shield has Hardness 6, HP 24, and BT 12.
 
 ## Mithral Shield (High-Grade)<span class="item-type">Item 16</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 8,800 gp
 **Bulk** L
 The shield has Hardness 8, HP 32, and BT 16.

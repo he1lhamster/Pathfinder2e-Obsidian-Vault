@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: DC 17 Fortitude
 school: null
 size: null
@@ -57,11 +58,11 @@ weapon_type: null
 # Blue Dragonfly Poison<span class="item-type">Item 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Ingested</span><span class="item-trait">Poison</span>
-**Source** [[Treasure Vault]] , [[Bestiary]]
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] , [[DATABASE/source/Bestiary|Bestiary]]
 **Price** 7 gp
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
 ---
-[[Boggard]] brew a potent toxin made from blue dragonflies. Swampseers consume this mixture to awaken their divine powers, but the poison causes debilitating hallucinations in most other creatures.
- **Saving Throw** DC 17 Fortitude; **Onset** 10 minutes; **Maximum Duration** 30 minutes; **Stage 1** [[Dazzled]] (10 minutes); **Stage 2** dazzled and [[Frightened]] (10 minutes); **Stage 3** frightened 1 and [[Confused]] (1 minute)
+[[DATABASE/monsterfamily/Boggard|Boggards]] brew a potent toxin made from blue dragonflies. Swampseers consume this mixture to awaken their divine powers, but the poison causes debilitating hallucinations in most other creatures.
+ **Saving Throw** DC 17 Fortitude; **Onset** 10 minutes; **Maximum Duration** 30 minutes; **Stage 1** [[DATABASE/condition/Dazzled|dazzled]] (10 minutes); **Stage 2** dazzled and [[DATABASE/condition/Frightened|frightened 1]] (10 minutes); **Stage 3** frightened 1 and [[DATABASE/condition/Confused|confused 1]] (1 minute)

@@ -23,6 +23,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -44,10 +45,10 @@ type: Spell
 # Mask of Terror<span class="item-type">Spell 7</span>
 
 <span class="item-trait">Emotion</span><span class="item-trait">Fear</span><span class="item-trait">Illusion</span><span class="item-trait">Mental</span><span class="item-trait">Visual</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult, primal
-**Bloodlines** [[Draconic]], [[Wyrmblessed]]
-**Deities** [[Jaidz]], [[Urgathoa]]
+**Bloodlines** [[DATABASE/sorcererbloodline/Draconic|draconic]], [[DATABASE/sorcererbloodline/Wyrmblessed|wyrmblessed]]
+**Deities** [[DATABASE/deity/Jaidz|Jaidz]], [[DATABASE/deity/Urgathoa|Urgathoa]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet; **Targets** 1 creature
 **Duration** 1 minute

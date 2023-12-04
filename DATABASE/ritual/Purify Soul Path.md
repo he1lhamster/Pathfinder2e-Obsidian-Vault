@@ -12,6 +12,7 @@ primary_check: '[[DATABASE/skill/Religion|Religion]] (trained)'
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: Abjuration
 secondary_casters: null
 secondary_check: null
@@ -26,9 +27,9 @@ type: Ritual
 # Purify Soul Path<span class="item-type">Ritual 2</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Abjuration</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Cast** 1 day; **Cost** rare incense and offering worth a total value of 10 gp × your level 
-**Primary Check** [[Religion]] (trained)
+**Primary Check** [[DATABASE/skill/Religion|Religion]] (trained)
 
 ---
 You delve inward, spending extensive time contemplating the purity of your own soul and the actions of your past. If you aren't truly penitent, the outcome is always a critical failure.

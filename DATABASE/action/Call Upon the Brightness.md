@@ -7,6 +7,7 @@ id: '320'
 name: Call Upon the Brightness
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 trait: null
@@ -17,7 +18,7 @@ type: Action
 ---
 # Call Upon the Brightness <span class="action-icon">5</span>
 
-**Source** [[Character Guide]] 
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
 **Trigger** You attempt an attack roll, skill check, or saving throw while performing the course of action from your _augury_, but you haven’t rolled yet
 
 ---

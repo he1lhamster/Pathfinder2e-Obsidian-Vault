@@ -11,6 +11,7 @@ name: Elemental Transformation
 prerequisite: exactly one kinetic element
 rarity: Common
 requirement: Your kinetic gate is deactivated.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -25,13 +26,13 @@ type: Feat
 # Elemental Transformation <span class="action-icon">1</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Kineticist</span><span class="item-trait">Polymorph</span><span class="item-trait">Primal</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Frequency** once per day
 **Prerequisites** exactly one kinetic element
 **Requirements** Your kinetic gate is deactivated.
 
 ---
-You open your kinetic gate, but rather than activating your kinetic aura, you instead become overwhelmed with transformative elemental energy. You're affected by an [[Elemental Form]] spell with the same trait as your kinetic element. You can heighten it to any spell rank up to half your level rounded up.
+You open your kinetic gate, but rather than activating your kinetic aura, you instead become overwhelmed with transformative elemental energy. You're affected by an [[DATABASE/spell/Elemental Form|elemental form]] spell with the same trait as your kinetic element. You can heighten it to any spell rank up to half your level rounded up.
 
 ## Traits
 

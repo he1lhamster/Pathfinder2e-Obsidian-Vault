@@ -27,6 +27,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -45,9 +46,9 @@ type: Spell
 # Paralyze<span class="item-type">Spell 3</span>
 
 <span class="item-trait">Enchantment</span><span class="item-trait">Incapacitation</span><span class="item-trait">Mental</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult
-**Deities** [[Barbatos]], [[Dammerich]], [[Kabriri]], [[Kalekot]], [[Selket]]
+**Deities** [[DATABASE/deity/Barbatos|Barbatos]], [[DATABASE/deity/Dammerich|Dammerich]], [[DATABASE/deity/Kabriri|Kabriri]], [[DATABASE/deity/Kalekot|Kalekot]], [[DATABASE/deity/Selket|Selket]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet; **Targets** 1 creature
 **Saving Throw** Will; **Duration** varies

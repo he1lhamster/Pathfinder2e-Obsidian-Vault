@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -55,10 +56,10 @@ weapon_type: null
 # Nightpitch<span class="item-type">Item 5</span>
 
 <span class="item-trait">Catalyst</span><span class="item-trait">Consumable</span><span class="item-trait">Magical</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 60 gp
 **Usage** held in 1 hand; **Bulk** L
 **Activate** Cast a Spell
 
 ---
-A pellet of tar mixed with the fur of a nocturnal creature, such as a [[Bat]], _nightpitch_ used to cast a [[Darkness]] spell makes the area of the _darkness_ difficult terrain.
+A pellet of tar mixed with the fur of a nocturnal creature, such as a [[DATABASE/monsterfamily/Bat|bat]], _nightpitch_ used to cast a [[DATABASE/spell/Darkness|darkness]] spell makes the area of the _darkness_ difficult terrain.

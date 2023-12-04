@@ -11,6 +11,7 @@ name: Resolute
 prerequisite: '[[DATABASE/feat/Thaumaturge Dedication|Thaumaturge Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Resolute <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Dark Archive]]
-**Archetype** [[Thaumaturge]]
-**Prerequisites** [[Thaumaturge Dedication]]; expert in Will
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Archetype** [[DATABASE/archetype/Thaumaturge|Thaumaturge]]
+**Prerequisites** [[DATABASE/feat/Thaumaturge Dedication|Thaumaturge Dedication]]; expert in Will
 
 ---
 You've tempered your mind and become resolute against effects that strain your willpower. Your proficiency rank for Will saves increases to master.

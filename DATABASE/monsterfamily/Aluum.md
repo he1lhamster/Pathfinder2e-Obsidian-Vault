@@ -3,6 +3,7 @@ creature_family: Aluum
 id: '113'
 name: Aluum
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 149. Against the Scarlet Triad|Pathfinder #149:
   Against the Scarlet Triad]]'
 trait: null
@@ -11,12 +12,12 @@ type: Creature Family
 ---
 # Aluum
 
-**Source** [[Pathfinder 149. Against the Scarlet Triad]]
-Aluums are powerful metal and stone constructs originally created by the Pactmasters to maintain order in Katapesh. The construction of each aluum includes the creation of an [[Aluum Charm]], a brass pendant set with a blue crystal designed to control that particular construct. The charm constructed at the same time as an aluum is called its linked charm.
+**Source** [[DATABASE/source/Pathfinder 149. Against the Scarlet Triad|Pathfinder #149: Against the Scarlet Triad]]
+Aluums are powerful metal and stone constructs originally created by the Pactmasters to maintain order in Katapesh. The construction of each aluum includes the creation of an [[DATABASE/equipment/Aluum Charm|aluum charm]], a brass pendant set with a blue crystal designed to control that particular construct. The charm constructed at the same time as an aluum is called its linked charm.
 
 ### Members
 
-[[Aluum Enforcer]] (Creature 10), [[Guardian Aluum]] (Creature 13), [[Spiritbound Aluum]] (Creature 16)
+[[DATABASE/monster/Aluum Enforcer|Aluum Enforcer]] (Creature 10), [[DATABASE/monster/Guardian Aluum|Guardian Aluum]] (Creature 13), [[DATABASE/monster/Spiritbound Aluum|Spiritbound Aluum]] (Creature 16)
 
 ###  Loyal City Servants
 

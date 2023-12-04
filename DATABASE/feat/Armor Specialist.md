@@ -11,6 +11,7 @@ name: Armor Specialist
 prerequisite: '[[DATABASE/feat/Sentinel Dedication|Sentinel Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Armor Specialist <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Sentinel]]
-**Prerequisites** [[Sentinel Dedication]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Sentinel|Sentinel]]
+**Prerequisites** [[DATABASE/feat/Sentinel Dedication|Sentinel Dedication]]
 
 ---
 You have trained hard to optimize your armor's protective qualities. You gain the armor specialization effects of medium and heavy armor.

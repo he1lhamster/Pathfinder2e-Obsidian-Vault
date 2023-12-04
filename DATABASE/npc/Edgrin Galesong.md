@@ -80,21 +80,21 @@ wisdom: '+1'
 # Edgrin Galesong
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 26
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 26
 **Unspecific Lore**: DC 24
 **Specific Lore**: DC 21
 
 # Edgrin Galesong<span class="item-type">Creature 2</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CG</span><span class="trait-size item-trait">Small</span><span class="item-trait">Halfling</span><span class="item-trait">Humanoid</span>
-**Source** [[Crown of the Kobold King]]
-Male [[Halfling]] [[Bard]]
+**Source** [[DATABASE/source/Crown of the Kobold King|Crown of the Kobold King]]
+Male [[DATABASE/ancestry/Halfling|halfling]] [[DATABASE/class_/Bard|bard]]
 **Perception** +7
-**Languages** [[Common]], [[Draconic]], [[Halfling]]
-**Skills** [[Acrobatics]] +7, [[Deception]] +8, [[Diplomacy]] +8, [[Performance]] +8, [[Society]] +7, [[Stealth]] +7
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Halfling|Halfling]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +7, [[DATABASE/skill/Deception|Deception]] +8, [[DATABASE/skill/Diplomacy|Diplomacy]] +8, [[DATABASE/skill/Performance|Performance]] +8, [[DATABASE/skill/Society|Society]] +7, [[DATABASE/skill/Stealth|Stealth]] +7
 **Str** -1, **Dex** +3, **Con** +2, **Int** +1, **Wis** +1, **Cha** +4
-**Bardic Lore** Edgrin can [[Recall Knowledge]] on any subject with a +7 modifier
-**Items** [[Broken]] [[Musical Instrument]], dirty clothes
+**Bardic Lore** Edgrin can [[DATABASE/action/Recall Knowledge|Recall Knowledge]] on any subject with a +7 modifier
+**Items** [[DATABASE/condition/Broken|broken]] [[DATABASE/equipment/Musical Instrument|lute]], dirty clothes
 
 ---
 **AC** 17; **Fort** +8, **Ref** +8, **Will** +5
@@ -102,5 +102,5 @@ Male [[Halfling]] [[Bard]]
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +7 [+3/-1] (agile, finesse, nonlethal, unarmed), **Damage** 1d4–1 bludgeoning</span>**Occult Spontaneous Spells** DC 18, attack +10; **1st** _[[Alarm]]_, _[[Bless]]_, _[[Soothe]]_, _[[Spirit Link]]_ (3 slots); **Cantrips** **(1st)** _[[Dancing Lights]]_, _[[Detect Magic]]_, _[[Mage Hand]]_, _[[Read Aura]]_, _[[Telekinetic Projectile]]_
-**Bard Composition Spells** DC 18, 2 Focus Points; **1st** _[[Counter Performance]]_, _[[Lingering Composition]]_; **Cantrips** **(1st)** _[[Inspire Courage]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +7 [+3/-1] (agile, finesse, nonlethal, unarmed), **Damage** 1d4–1 bludgeoning</span>**Occult Spontaneous Spells** DC 18, attack +10; **1st** _[[DATABASE/spell/Alarm|alarm]]_, _[[DATABASE/spell/Bless|bless]]_, _[[DATABASE/spell/Soothe|soothe]]_, _[[DATABASE/spell/Spirit Link|spirit link]]_ (3 slots); **Cantrips** **(1st)** _[[DATABASE/spell/Dancing Lights|dancing lights]]_, _[[DATABASE/spell/Detect Magic|detect magic]]_, _[[DATABASE/spell/Mage Hand|mage hand]]_, _[[DATABASE/spell/Read Aura|read aura]]_, _[[DATABASE/spell/Telekinetic Projectile|telekinetic projectile]]_
+**Bard Composition Spells** DC 18, 2 Focus Points; **1st** _[[DATABASE/spell/Counter Performance|counter performance]]_, _[[DATABASE/spell/Lingering Composition|lingering composition]]_; **Cantrips** **(1st)** _[[DATABASE/spell/Inspire Courage|inspire courage]]_

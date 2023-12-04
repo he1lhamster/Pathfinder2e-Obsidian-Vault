@@ -11,6 +11,7 @@ name: Volcanic Escape
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -27,11 +28,11 @@ type: Feat
 # Volcanic Escape <span class="action-icon">5</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Fire</span><span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Overflow</span><span class="item-trait">Primal</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Trigger** An enemy in your kinetic aura damages you.
 
 ---
-Lava reflexively explodes underneath you and the creature that hurt you. The triggering enemy takes 1d6 fire damage with a basic Reflex save against your class DC. You [[Leap]] up to half your Speed in any direction; this movement doesn't trigger reactions.
+Lava reflexively explodes underneath you and the creature that hurt you. The triggering enemy takes 1d6 fire damage with a basic Reflex save against your class DC. You [[DATABASE/action/Leap|Leap]] up to half your Speed in any direction; this movement doesn't trigger reactions.
 
 ---
 **Level (+4)** The damage increases by 1d6.
@@ -48,7 +49,7 @@ The primary magical actions kineticists use are called impulses. You can use an 
 
 **Overflow:**
 
-Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
+Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[DATABASE/action/Channel Elements|Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
 
 **Primal:**
 

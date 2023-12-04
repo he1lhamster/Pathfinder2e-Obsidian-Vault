@@ -3,6 +3,7 @@ bloodline: Angelic
 id: '2'
 name: Angelic
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 spell:
 - '[[DATABASE/spell/Angelic Halo|Angelic Halo]]'
@@ -24,10 +25,10 @@ type: Sorcerer Bloodline
 ---
 # Angelic
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 One of your forebears hailed from a celestial realm, or your ancestors’ devotion led to their lineage being blessed.
 **Spell List** divine
-**Bloodline Skills** [[Diplomacy]], [[Religion]]
-**Granted Spells** cantrip: [[Light]], 1st: [[Heal]], 2nd: [[Spiritual Weapon]], 3rd: [[Searing Light]], 4th: [[Divine Wrath]], 5th: [[Flame Strike]], 6th: [[Blade Barrier]], 7th: [[Divine Decree]], 8th: [[Divine Aura]], 9th: [[Foresight]]
-**Bloodline Spells** initial: [[Angelic Halo]], advanced: [[Angelic Wings]], greater: [[Celestial Brand]]
+**Bloodline Skills** [[DATABASE/skill/Diplomacy|Diplomacy]], [[DATABASE/skill/Religion|Religion]]
+**Granted Spells** cantrip: [[DATABASE/spell/Light|light]], 1st: [[DATABASE/spell/Heal|heal]], 2nd: [[DATABASE/spell/Spiritual Weapon|spiritual weapon]], 3rd: [[DATABASE/spell/Searing Light|searing light]], 4th: [[DATABASE/spell/Divine Wrath|divine wrath]], 5th: [[DATABASE/spell/Flame Strike|flame strike]], 6th: [[DATABASE/spell/Blade Barrier|blade barrier]], 7th: [[DATABASE/spell/Divine Decree|divine decree]], 8th: [[DATABASE/spell/Divine Aura|divine aura]], 9th: [[DATABASE/spell/Foresight|foresight]]
+**Bloodline Spells** initial: [[DATABASE/spell/Angelic Halo|angelic halo]], advanced: [[DATABASE/spell/Angelic Wings|angelic wings]], greater: [[DATABASE/spell/Celestial Brand|celestial brand]]
 **Blood Magic** An angelic aura protects you or one target, granting a +1 status bonus to saving throws for 1 round.

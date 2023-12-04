@@ -2,6 +2,7 @@
 id: '309'
 name: Spriggan
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 trait:
 - Spriggan
@@ -10,9 +11,9 @@ type: Trait
 ---
 # Spriggan
 
-**Source** [[Bestiary 2]] 
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
 Kin to gnomes, spriggans tend to be evil and can grow in size to resemble giants.
 
 ## Monsters
 
-[[Spriggan Bully]], [[Spriggan Warlord]]
+[[DATABASE/monster/Spriggan Bully|Spriggan Bully]], [[DATABASE/monster/Spriggan Warlord|Spriggan Warlord]]

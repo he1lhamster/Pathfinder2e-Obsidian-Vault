@@ -2,6 +2,7 @@
 id: '2'
 name: Conjuration
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait: null
 type: Wizard Arcane School
@@ -9,5 +10,5 @@ type: Wizard Arcane School
 ---
 # Conjuration
 
-**Source** [[Core Rulebook]] 
-As a conjurer, you summon creatures and objects from places beyond, and use magic to transport to distant locales. You understand that the true key to victory is strength in numbers. You add one 1st-level conjuration spell (such as [[Summon Animal]]) to your spellbook. You learn the [[Augment Summoning]] school spell.
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+As a conjurer, you summon creatures and objects from places beyond, and use magic to transport to distant locales. You understand that the true key to victory is strength in numbers. You add one 1st-level conjuration spell (such as [[DATABASE/spell/Summon Animal|summon animal]]) to your spellbook. You learn the [[DATABASE/spell/Augment Summoning|augment summoning]] school spell.

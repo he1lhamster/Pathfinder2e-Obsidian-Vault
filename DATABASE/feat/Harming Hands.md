@@ -11,6 +11,7 @@ name: Harming Hands
 prerequisite: '[[DATABASE/class_/Cleric|harmful font]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Harming Hands <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Cleric</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Cleric]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/class_/Cleric|harmful font]]
 
 ---
-The mordant power of your negative energy grows. When you cast [[Harm]], you roll d10s instead of d8s.
+The mordant power of your negative energy grows. When you cast [[DATABASE/spell/Harm|harm]], you roll d10s instead of d8s.

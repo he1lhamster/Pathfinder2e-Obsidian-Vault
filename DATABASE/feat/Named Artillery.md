@@ -11,6 +11,7 @@ name: Named Artillery
 prerequisite: Trained in [[DATABASE/skill/Crafting|Crafting]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Named Artillery <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Skill</span>
-**Source** [[Guns & Gears]]
-**Archetype** [[Artillerist]]
-**Prerequisites** trained in [[Crafting]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Archetype** [[DATABASE/archetype/Artillerist|Artillerist]]
+**Prerequisites** trained in [[DATABASE/skill/Crafting|Crafting]]
 
 ---
 It is a tradition among artillerists to name the siege weapon most important to them and closest to their heart—much as a sailor on a ship, the weapon is their livelihood. You've gone a step further, and you always make sure that your named artillery has the best possible maintenance and upkeep. You can spend a full day adjusting and working on a single siege weapon to designate it as your named artillery. The siege weapon you designated as your named artillery gains a +2 circumstance bonus to AC, Fortitude saves, and Reflex saves as well as additional Hit Points equal to twice your level.

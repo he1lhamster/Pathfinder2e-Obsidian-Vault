@@ -67,19 +67,19 @@ wisdom: '+0'
 # Smith
 
 Most smaller communities have at least one smithy where locals and travelers can have horses shod or equipment repaired. Larger settlements and cities often have a variety of smiths, many specializing in blacksmithing, weapon smithing, armor smithing, or even smelting coins in a mint. The smith is a 6th-level challenge when competing with smithing or other crafting tasks.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 18
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Smith<span class="item-type">Creature 3</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Perception** +5
-**Languages** [[Common]]
-**Skills** [[Athletics]] +8, [[Crafting]] +15, [[Diplomacy]] +5, [[Lore]] +15, [[Society]] +8
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +8, [[DATABASE/skill/Crafting|Crafting]] +15, [[DATABASE/skill/Diplomacy|Diplomacy]] +5, [[DATABASE/skill/Lore|Smithy Lore]] +15, [[DATABASE/skill/Society|Society]] +8
 **Str** +3, **Dex** +1, **Con** +2, **Int** +3, **Wis** +0, **Cha** +0
-**Items** leather apron (functions as [[Padded Armor]]), [[Artisan's Tools]], [[Hammer]]
+**Items** leather apron (functions as [[DATABASE/armor/Padded Armor|padded armor]]), [[DATABASE/equipment/Artisan's Tools|artisan's tools]], [[DATABASE/equipment/Hammer|light hammer]]
 
 ---
 **AC** 17; **Fort** +9, **Ref** +8, **Will** +5

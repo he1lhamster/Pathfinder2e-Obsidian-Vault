@@ -16,6 +16,7 @@ id: '21'
 name: Psychic
 perception_proficiency: Trained
 rarity: Common
+rus_type_level: null
 skill_proficiency:
 - Trained in Occultism
 - Trained in a number of additional skills equal to 3 plus your Intelligence modifier
@@ -27,7 +28,7 @@ type: Class
 
 ---
 # Psychic
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 _The mind can perceive truths hidden to fine-tuned instruments, house more secrets than any tome, and move objects and hearts more deftly than any lever. By delving into both the conscious and subconscious aspects of your inner self, you have awoken to the might of psychic magic, allowing you to cast spells not through incantations or gestures but by the power of your will alone. While the thin line between your mind and reality means that a single errant thought could have unintended consequences for yourself and your companions, you know that anything is possible, if you can imagine it._
 **Key Ability: INTELLIGENCE OR CHARISMA**
 At 1st level, your class gives you an ability boost to Intelligence or Charisma, as determined by your choice of subconscious mind.
@@ -88,7 +89,7 @@ Expert in Will
 
 ## Skills
 
-Trained in [[Occultism]]
+Trained in [[DATABASE/skill/Occultism|Occultism]]
  Trained in a number of additional skills equal to 3 plus your Intelligence modifier
 
 ## Attacks
@@ -108,54 +109,52 @@ Trained in occult spell attack rolls
 
 # Class Features
 
-You gain these features as a Psychic. Abilities gained at higher levels list the levels at which you gain them next to the features' names.
-
-|   Your Level | Class Features                                                                                                                                                       |
-|-------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|            1 | Ancestry and background, initial proficiencies, psychic spellcasting, spell repertoire, psi cantrips and psi amps, Unleash Psyche, subconscious mind, conscious mind |
-|            2 | Psychic feat, skill feat                                                                                                                                             |
-|            3 | 2nd-level spells, general feat, signature spells, skill increase                                                                                                     |
-|            4 | Psychic feat, skill feat                                                                                                                                             |
-|            5 | 3rd-level spells, ability boosts, ancestry feat, clarity of focus, precognitive reflexes, skill increase                                                             |
-|            6 | Psychic feat, skill feat                                                                                                                                             |
-|            7 | 4th-level spells, expert spellcaster, general feat, skill increase                                                                                                   |
-|            8 | Psychic feat, skill feat                                                                                                                                             |
-|            9 | 5th-level spells, ancestry feat, great fortitude, skill increase                                                                                                     |
-|           10 | Ability boosts, psychic feat, skill feat                                                                                                                             |
-|           11 | 6th-level spells, extrasensory perception, general feat, skill increase, walls of will, weapon expertise                                                             |
-|           12 | Psychic feat, skill feat                                                                                                                                             |
-|           13 | 7th-level spells, ancestry feat, personal barrier, skill increase, weapon specialization                                                                             |
-|           14 | Psychic feat, skill feat                                                                                                                                             |
-|           15 | 8th-level spells, ability boosts, general feat, master spellcaster, skill increase                                                                                   |
-|           16 | Psychic feat, skill feat                                                                                                                                             |
-|           17 | 9th-level spells, ancestry feat, fortress of will, skill increase                                                                                                    |
-|           18 | Psychic feat, skill feat                                                                                                                                             |
-|           19 | General feat, infinite mind, legendary spellcaster, skill increase                                                                                                   |
-|           20 | Ability boosts, psychic feat, skill feat                                                                                                                             |
-
-| Your Level                                                                                                                                                                                                                                  | Cantrips   |   1st | 2nd   | 3rd   | 4th   | 5th   | 6th   | 7th   | 8th   | 9th   | 10th   |
-|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------|------:|:------|:------|:------|:------|:------|:------|:------|:------|:-------|
-| 1                                                                                                                                                                                                                                           | 3*         |     1 | —     | —     | —     | —     | —     | —     | —     | —     | —      |
-| 2                                                                                                                                                                                                                                           | 3*         |     2 | —     | —     | —     | —     | —     | —     | —     | —     | —      |
-| 3                                                                                                                                                                                                                                           | 3*         |     2 | 1     | —     | —     | —     | —     | —     | —     | —     | —      |
-| 4                                                                                                                                                                                                                                           | 3*         |     2 | 2     | —     | —     | —     | —     | —     | —     | —     | —      |
-| 5                                                                                                                                                                                                                                           | 3*         |     2 | 2     | 1     | —     | —     | —     | —     | —     | —     | —      |
-| 6                                                                                                                                                                                                                                           | 3*         |     2 | 2     | 2     | —     | —     | —     | —     | —     | —     | —      |
-| 7                                                                                                                                                                                                                                           | 3*         |     2 | 2     | 2     | 1     | —     | —     | —     | —     | —     | —      |
-| 8                                                                                                                                                                                                                                           | 3*         |     2 | 2     | 2     | 2     | —     | —     | —     | —     | —     | —      |
-| 9                                                                                                                                                                                                                                           | 3*         |     2 | 2     | 2     | 2     | 1     | —     | —     | —     | —     | —      |
-| 10                                                                                                                                                                                                                                          | 3*         |     2 | 2     | 2     | 2     | 2     | —     | —     | —     | —     | —      |
-| 11                                                                                                                                                                                                                                          | 3*         |     2 | 2     | 2     | 2     | 2     | 1     | —     | —     | —     | —      |
-| 12                                                                                                                                                                                                                                          | 3*         |     2 | 2     | 2     | 2     | 2     | 2     | —     | —     | —     | —      |
-| 13                                                                                                                                                                                                                                          | 3*         |     2 | 2     | 2     | 2     | 2     | 2     | 1     | —     | —     | —      |
-| 14                                                                                                                                                                                                                                          | 3*         |     2 | 2     | 2     | 2     | 2     | 2     | 2     | —     | —     | —      |
-| 15                                                                                                                                                                                                                                          | 3*         |     2 | 2     | 2     | 2     | 2     | 2     | 2     | 1     | —     | —      |
-| 16                                                                                                                                                                                                                                          | 3*         |     2 | 2     | 2     | 2     | 2     | 2     | 2     | 2     | —     | —      |
-| 17                                                                                                                                                                                                                                          | 3*         |     2 | 2     | 2     | 2     | 2     | 2     | 2     | 2     | 1     | —      |
-| 18                                                                                                                                                                                                                                          | 3*         |     2 | 2     | 2     | 2     | 2     | 2     | 2     | 2     | 2     | —      |
-| 19                                                                                                                                                                                                                                          | 3*         |     2 | 2     | 2     | 2     | 2     | 2     | 2     | 2     | 2     | 1†     |
-| 20                                                                                                                                                                                                                                          | 3*         |     2 | 2     | 2     | 2     | 2     | 2     | 2     | 2     | 2     | 1†     |
-| * Your conscious mind gives you three additional cantrips with amps. One cantrip is unique to your conscious mind. † The infinite mind class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | nan        |   nan | nan   | nan   | nan   | nan   | nan   | nan   | nan   | nan   | nan    |
+You gain these features as a Psychic. Abilities gained at higher levels list the levels at which you gain them next to the features' names.| 0 | 1 |
+|:-----------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Your Level | Class Features |
+| 1 | Ancestry and background, initial proficiencies, psychic spellcasting, spell repertoire, psi cantrips and psi amps, Unleash Psyche, subconscious mind, conscious mind |
+| 2 | Psychic feat, skill feat |
+| 3 | 2nd-level spells, general feat, signature spells, skill increase |
+| 4 | Psychic feat, skill feat |
+| 5 | 3rd-level spells, ability boosts, ancestry feat, clarity of focus, precognitive reflexes, skill increase |
+| 6 | Psychic feat, skill feat |
+| 7 | 4th-level spells, expert spellcaster, general feat, skill increase |
+| 8 | Psychic feat, skill feat |
+| 9 | 5th-level spells, ancestry feat, great fortitude, skill increase |
+| 10 | Ability boosts, psychic feat, skill feat |
+| 11 | 6th-level spells, extrasensory perception, general feat, skill increase, walls of will, weapon expertise |
+| 12 | Psychic feat, skill feat |
+| 13 | 7th-level spells, ancestry feat, personal barrier, skill increase, weapon specialization |
+| 14 | Psychic feat, skill feat |
+| 15 | 8th-level spells, ability boosts, general feat, master spellcaster, skill increase |
+| 16 | Psychic feat, skill feat |
+| 17 | 9th-level spells, ancestry feat, fortress of will, skill increase |
+| 18 | Psychic feat, skill feat |
+| 19 | General feat, infinite mind, legendary spellcaster, skill increase |
+| 20 | Ability boosts, psychic feat, skill feat || 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Your Level | Cantrips | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th | 10th |
+| 1 | 3* | 1 | — | — | — | — | — | — | — | — | — |
+| 2 | 3* | 2 | — | — | — | — | — | — | — | — | — |
+| 3 | 3* | 2 | 1 | — | — | — | — | — | — | — | — |
+| 4 | 3* | 2 | 2 | — | — | — | — | — | — | — | — |
+| 5 | 3* | 2 | 2 | 1 | — | — | — | — | — | — | — |
+| 6 | 3* | 2 | 2 | 2 | — | — | — | — | — | — | — |
+| 7 | 3* | 2 | 2 | 2 | 1 | — | — | — | — | — | — |
+| 8 | 3* | 2 | 2 | 2 | 2 | — | — | — | — | — | — |
+| 9 | 3* | 2 | 2 | 2 | 2 | 1 | — | — | — | — | — |
+| 10 | 3* | 2 | 2 | 2 | 2 | 2 | — | — | — | — | — |
+| 11 | 3* | 2 | 2 | 2 | 2 | 2 | 1 | — | — | — | — |
+| 12 | 3* | 2 | 2 | 2 | 2 | 2 | 2 | — | — | — | — |
+| 13 | 3* | 2 | 2 | 2 | 2 | 2 | 2 | 1 | — | — | — |
+| 14 | 3* | 2 | 2 | 2 | 2 | 2 | 2 | 2 | — | — | — |
+| 15 | 3* | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 1 | — | — |
+| 16 | 3* | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | — | — |
+| 17 | 3* | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 1 | — |
+| 18 | 3* | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | — |
+| 19 | 3* | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 1† |
+| 20 | 3* | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 1† |
+| * Your conscious mind gives you three additional cantrips with amps. One cantrip is unique to your conscious mind. † The infinite mind class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * Your conscious mind gives you three additional cantrips with amps. One cantrip is unique to your conscious mind. † The infinite mind class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * Your conscious mind gives you three additional cantrips with amps. One cantrip is unique to your conscious mind. † The infinite mind class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * Your conscious mind gives you three additional cantrips with amps. One cantrip is unique to your conscious mind. † The infinite mind class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * Your conscious mind gives you three additional cantrips with amps. One cantrip is unique to your conscious mind. † The infinite mind class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * Your conscious mind gives you three additional cantrips with amps. One cantrip is unique to your conscious mind. † The infinite mind class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * Your conscious mind gives you three additional cantrips with amps. One cantrip is unique to your conscious mind. † The infinite mind class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * Your conscious mind gives you three additional cantrips with amps. One cantrip is unique to your conscious mind. † The infinite mind class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * Your conscious mind gives you three additional cantrips with amps. One cantrip is unique to your conscious mind. † The infinite mind class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * Your conscious mind gives you three additional cantrips with amps. One cantrip is unique to your conscious mind. † The infinite mind class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * Your conscious mind gives you three additional cantrips with amps. One cantrip is unique to your conscious mind. † The infinite mind class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * Your conscious mind gives you three additional cantrips with amps. One cantrip is unique to your conscious mind. † The infinite mind class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. |
 
 ## Ancestry and Background
 
@@ -196,27 +195,27 @@ As you gain new spells in your repertoire, you might want to replace some of the
 The magic of your mind manifests as psi cantrips, which you can modify by spending Focus Points. Like other cantrips, you can cast psi cantrips as often as you like, and they are automatically heightened to half your level rounded up. Your psi cantrips are in addition to the cantrips you choose from the occult list as part of your psychic spellcasting. Generally, only feats can give you more psi cantrips. Unlike other cantrips, you can't swap out psi cantrips gained from psychic feats at a later level, unless you swap out the specific feat via retraining.
  At 1st level, you learn three psi cantrips determined by your choice of conscious mind; one is a unique psi cantrip and two are common cantrips, typically from the occult spellcasting tradition, that you always cast as psi cantrips. You automatically gain more psi cantrips as you progress in your career as a psychic.
  You start with a focus pool of 2 Focus Points. However, unlike other spellcasters, you don't gain focus spells that cost Focus Points to cast. Instead, you use your Focus Points to boost or modify your psi cantrips by applying amps—specialized thoughtforms that alter the expression of your psychic power. Each of your psi cantrips has a special amp heading. Whenever you cast a psi cantrip, you can amp it by spending 1 Focus Point to add the amp effect. You can also gain additional amps through feats, allowing you to substitute a psi cantrip's normal amp effect for another one. You choose which amp to use, if you choose to use any, each time you cast a psi cantrip. Unless otherwise noted, you can apply only one amp to a given psi cantrip.
- You refill your focus pool during your daily preparations, and you can regain Focus Points by spending 10 minutes using the [[Refocus]] activity to explore your mind, whether via meditation, practicing a craft or activity that gives you the mental space to self-reflect, or talking through your thoughts and feelings with yourself or another. If you've spent Focus Points only to amp psi cantrips or fuel psychic abilities since the last time you Refocused, you regain 2 Focus Points when you Refocus, up to your maximum of 2. If you've spent Focus Points on focus spells or abilities other than those from the psychic class (for instance, to cast a focus spell you gained from an archetype), you regain only 1 Focus Point.
+ You refill your focus pool during your daily preparations, and you can regain Focus Points by spending 10 minutes using the [[DATABASE/action/Refocus|Refocus]] activity to explore your mind, whether via meditation, practicing a craft or activity that gives you the mental space to self-reflect, or talking through your thoughts and feelings with yourself or another. If you've spent Focus Points only to amp psi cantrips or fuel psychic abilities since the last time you Refocused, you regain 2 Focus Points when you Refocus, up to your maximum of 2. If you've spent Focus Points on focus spells or abilities other than those from the psychic class (for instance, to cast a focus spell you gained from an archetype), you regain only 1 Focus Point.
 
 ## Unleash Psyche
 
 When one thins the barrier between their inner mind and the outer world, one can unleash true psychic power. However, the mind wasn't meant to tap its full strength for long, leading to backlash once your unleashed psyche ends.
 
-### [[Unleash Psyche]] <span class="action-icon">4</span>
+### [[DATABASE/action/Unleash Psyche|Unleash Psyche]] <span class="action-icon">4</span>
 
 <span class="item-trait">Psychic</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Trigger** Your turn begins.
-**Requirements** You're in an encounter, you Cast a Spell on your previous turn, and you aren't [[Stupefied]].
+**Requirements** You're in an encounter, you Cast a Spell on your previous turn, and you aren't [[DATABASE/condition/Stupefied|stupefied]].
 
 ---
-You call on the depths of your mind and let psychic power flood through. Your Psyche remains Unleashed for 2 rounds or until your fall [[Unconscious]], whichever comes first. You can't voluntarily quell your unleashed psyche. While your Psyche is Unleashed, the following effects occur.
+You call on the depths of your mind and let psychic power flood through. Your Psyche remains Unleashed for 2 rounds or until your fall [[DATABASE/condition/Unconscious|unconscious]], whichever comes first. You can't voluntarily quell your unleashed psyche. While your Psyche is Unleashed, the following effects occur.
 
 * You're constantly surrounded by the visual manifestation of your psychic magic.
 * When you cast a damaging spell, you gain a status bonus to its damage equal to double the spell's level. This applies only to spells that don't have a duration and that you cast using psychic spellcasting.
 * You can use actions that have the psyche trait.
 
-After your unleashed psyche subsides, your mind must recover from the strain of channeling its full power. You can't use Unleash Psyche again for 2 rounds, and you're [[Stupefied]] for 2 rounds.
+After your unleashed psyche subsides, your mind must recover from the strain of channeling its full power. You can't use Unleash Psyche again for 2 rounds, and you're [[DATABASE/condition/Stupefied|stupefied 1]] for 2 rounds.
 
 ## Subconscious Mind
 

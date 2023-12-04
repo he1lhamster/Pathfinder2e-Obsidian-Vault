@@ -11,6 +11,7 @@ name: Spellstriker
 prerequisite: '[[DATABASE/feat/Magus Dedication|Magus Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -23,17 +24,17 @@ type: Feat
 # Spellstriker <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Secrets of Magic]] 
-**Archetype** [[Magus]]
-**Prerequisites** [[Magus Dedication]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
+**Archetype** [[DATABASE/archetype/Magus|Magus]]
+**Prerequisites** [[DATABASE/feat/Magus Dedication|Magus Dedication]]
 
 ---
 You gain the magus's Spellstrike activity. You can recharge it only as an activity that takes 1 minute. This restriction applies even if you gain another ability that recharges Spellstrike.
 
-### [[Spellstrike]] <span class="action-icon">2</span>
+### [[DATABASE/action/Spellstrike|Spellstrike]] <span class="action-icon">2</span>
 
 <span class="item-trait">Magus</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Frequency** until recharged (see below)
 
 ---
@@ -44,9 +45,9 @@ You channel a spell into a punch or sword thrust to deliver a combined attack. Y
 
 Though the base Spellstrike rules cover most spells, various modifications apply to more complicated spells when loaded into your fist, blade, or other attack. 
 **One Target**: The spell targets only the target of your Strike, even if it normally allows more targets. Some feats let you affect more creatures. 
-**Reach**: The coupled spell affects the target using the reach of the weapon or unarmed attack you make your Spellstrike with. For instance, [[Shocking Grasp]] would affect a creature beyond the reach of your hand if you used a weapon with reach, and [[Ray of Frost]] would affect only a creature in your weapon's reach, even though the spell's range is longer. 
-**Ancillary Effects**: Your spell still has any non-targeted effects that might affect creatures other than the target, as well as any ongoing effects starting from the moment you hit with the Strike. For example, [[Acid Splash]] would still deal its splash damage to creatures other than the target and [[Tanglefoot]]'s circumstance penalty would last for its normal duration. The spell takes effect after the Strike deals damage; if the Strike has other special effects, the GM determines whether they happen before or after the spell. 
-**Multiple Defenses**: Any additional rolls after the initial spell attack still happen normally, such as the Fortitude save attempted by the target of a [[Disintegrate]] spell. Similarly, a spell that allows you to attack with it again on subsequent rounds would only combine a Strike with its initial attack roll, not with any later ones.
+**Reach**: The coupled spell affects the target using the reach of the weapon or unarmed attack you make your Spellstrike with. For instance, [[DATABASE/spell/Shocking Grasp|shocking grasp]] would affect a creature beyond the reach of your hand if you used a weapon with reach, and [[DATABASE/spell/Ray of Frost|ray of frost]] would affect only a creature in your weapon's reach, even though the spell's range is longer. 
+**Ancillary Effects**: Your spell still has any non-targeted effects that might affect creatures other than the target, as well as any ongoing effects starting from the moment you hit with the Strike. For example, [[DATABASE/spell/Acid Splash|acid splash]] would still deal its splash damage to creatures other than the target and [[DATABASE/spell/Tanglefoot|tanglefoot]]'s circumstance penalty would last for its normal duration. The spell takes effect after the Strike deals damage; if the Strike has other special effects, the GM determines whether they happen before or after the spell. 
+**Multiple Defenses**: Any additional rolls after the initial spell attack still happen normally, such as the Fortitude save attempted by the target of a [[DATABASE/spell/Disintegrate|disintegrate]] spell. Similarly, a spell that allows you to attack with it again on subsequent rounds would only combine a Strike with its initial attack roll, not with any later ones.
  **Invalid or Immune Target**: If the target you hit wouldn't be a valid target for the spell, the spell is still expended but doesn't affect the target. If the target is immune to your attack but not the spell, it can still be affected by the spell.
  **Variable Actions**: Some spells have different effects based on the number of actions you spend to cast them. You choose whether to use the effects of the 1- or 2-action version of the spell when you use Spellstrike. A spell has to take _exactly_ 1 or 2 actions; you can't use Spellstrike with a spell that takes a free action, reaction, or 3 or more actions.
  **Metamagic**: You typically can't use metamagic with Spellstrike because metamagic requires the next action you take to be Cast a Spell, and Spellstrike is a combined activity that doesn't qualify.

@@ -3,6 +3,7 @@ creature_family: Spirit Guide
 id: '264'
 name: Spirit Guide
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 trait: null
 type: Creature Family
@@ -10,14 +11,14 @@ type: Creature Family
 ---
 # Spirit Guide
 
-**Source** [[Bestiary 3]]
-Spirit guides are a distinctive form of spiritual entity with a tenuous attachment to the [[Material Plane]]. Some legends say that the first spirit guides were the perfect conceptual forms of animals, and that from them, eagles, foxes, bears, and other mortal animals were born. Each guide displayed an interest in mortal affairs, watching over communities and imparting their gifts. Fox shared his cunning with the mortals he befriended, while Bear taught them how to survive and endure.
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
+Spirit guides are a distinctive form of spiritual entity with a tenuous attachment to the [[DATABASE/plane/Material Plane|Material Plane]]. Some legends say that the first spirit guides were the perfect conceptual forms of animals, and that from them, eagles, foxes, bears, and other mortal animals were born. Each guide displayed an interest in mortal affairs, watching over communities and imparting their gifts. Fox shared his cunning with the mortals he befriended, while Bear taught them how to survive and endure.
  Over the passing of countless mortal generations, new spirit guides were born, many of them possessing traits from two or more of the original spirit guides. In the ancient human nation of Sarkoris, the people abandoned the worship of traditional gods in favor of venerating the spirit guides who watched over them. While the people of some neighboring nations saw this as heresy, to the old Sarkorians, this worship was perfectly natural. The same beings who had taught their forebears lessons that allowed them to survive and thrive still walked among them.
  Spirit guides can form bonds with mortal partners. While many spirit guides create a permanent bond with a mortal, such as the relationship between the spirit guides of Sarkoris and the mortal spiritual leaders known as god callers, some instead form temporary bonds, either to test the prospective mortal before committing or because a permanent bond is undesirable. It's not uncommon for a single spirit guide to form bonds with recurring generations of a family or community, protecting and guiding mortals they've grown fond of or who do them a great service.
 
 ### Members
 
-[[Cunning Guide]] (Creature 1), [[Feathered Bear]] (Creature 10), [[Nimble Guide]] (Creature 3), [[Sage Guide]] (Creature 5)
+[[DATABASE/monster/Cunning Guide|Cunning Guide]] (Creature 1), [[DATABASE/monster/Feathered Bear|Feathered Bear]] (Creature 10), [[DATABASE/monster/Nimble Guide|Green Monkey]] (Creature 3), [[DATABASE/monster/Sage Guide|Stone-Breasted Owl]] (Creature 5)
 
 ###  Permanent Bonds
 
@@ -25,11 +26,11 @@ A spirit guide can form a permanent, close bond with a mortal, granting both new
 
 ###  Spirit Guide Companions
 
-One way to gain the aid of a spirit guide is to take the [[Scions of Domora]] archetype. This archetype allows character to choose a spirit guide to accompany them on their adventures—provided they first prove themselves worthy of the honor.
+One way to gain the aid of a spirit guide is to take the [[DATABASE/archetype/Scions of Domora|scion of Domora]] archetype. This archetype allows character to choose a spirit guide to accompany them on their adventures—provided they first prove themselves worthy of the honor.
 
 ###  Strength and Adversity
 
-In the region of the Broken Lands known as the Sarkoris Scar, spirit guides are active participants in the fight against the [[Demon]] who infest that poisoned land. Battle-tested knights and Sarkorian reclaimers alike have countless stories of being rescued from certain doom by a charging bear cloaked in feathers and tearing [[Vrock (Wrath Demon)]] out of the skies, or ghostly eagles with dragon scales swooping in to snatch warriors clear of a [[Marilith (Pride Demon)]] descending blades. Others speak of discovering caches of safe food, clean water, and other supplies left by ghostly foxes or martens.
+In the region of the Broken Lands known as the Sarkoris Scar, spirit guides are active participants in the fight against the [[DATABASE/monsterfamily/Demon|demons]] who infest that poisoned land. Battle-tested knights and Sarkorian reclaimers alike have countless stories of being rescued from certain doom by a charging bear cloaked in feathers and tearing [[DATABASE/monster/Vrock (Wrath Demon)|wrath demons]] out of the skies, or ghostly eagles with dragon scales swooping in to snatch warriors clear of a [[DATABASE/monster/Marilith (Pride Demon)|pride demon's]] descending blades. Others speak of discovering caches of safe food, clean water, and other supplies left by ghostly foxes or martens.
 
 ###  The Sarkoris Scar
 

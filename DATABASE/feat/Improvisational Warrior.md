@@ -11,6 +11,7 @@ name: Improvisational Warrior
 prerequisite: '[[DATABASE/feat/Improvisational Defender|Improvisational Defender]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 153. Life''s Long Shadows|Pathfinder #153: Life''s
   Long Shadows]]'
@@ -24,14 +25,12 @@ type: Feat
 # Improvisational Warrior <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Shoony</span>
-**Source** [[Pathfinder 153. Life's Long Shadows]]
-**Prerequisites** [[Improvisational Defender]]
+**Source** [[DATABASE/source/Pathfinder 153. Life's Long Shadows|Pathfinder #153: Life's Long Shadows]]
+**Prerequisites** [[DATABASE/feat/Improvisational Defender|Improvisational Defender]]
 
 ---
-When you use an improvised weapon, you apply the critical specialization of a [[Brawling]] weapon to it. Depending on the shape and nature of the improvised weapon, your GM might determine another weapon group’s critical specialization is more appropriate.
+When you use an improvised weapon, you apply the critical specialization of a [[DATABASE/weapongroup/Brawling|brawling]] weapon to it. Depending on the shape and nature of the improvised weapon, your GM might determine another weapon group’s critical specialization is more appropriate.
 
 ## Traits
 
 **Shoony:**
-
-_Note from Nethys: no description was provided for this trait_

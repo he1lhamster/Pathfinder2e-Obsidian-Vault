@@ -64,16 +64,16 @@ wisdom: '+2'
 # Giant Tarantula
 
 Tarantulas are ambush predators, but will attack prey in the open.
-**Recall Knowledge - Animal ([[Nature]])**: DC 22
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 22
 **Unspecific Lore**: DC 20
 **Specific Lore**: DC 17
 
 # Giant Tarantula<span class="item-type">Creature 6</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +14; darkvision
-**Skills** [[Acrobatics]] +9, [[Athletics]] +16, [[Stealth]] +11
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +9, [[DATABASE/skill/Athletics|Athletics]] +16, [[DATABASE/skill/Stealth|Stealth]] +11
 **Str** +6, **Dex** +1, **Con** +5, **Int** -5, **Wis** +2, **Cha** -4
 
 ---

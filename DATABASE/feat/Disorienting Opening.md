@@ -11,6 +11,7 @@ name: Disorienting Opening
 prerequisite: '[[DATABASE/feat/Attack of Opportunity|Attack of Opportunity]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Disorienting Opening <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Fighter</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** [[Attack of Opportunity]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** [[DATABASE/feat/Attack of Opportunity|Attack of Opportunity]]
 
 ---
-You use your foes' openings to expose even greater weaknesses. When you hit a creature as part of an Attack of Opportunity, that creature becomes [[Flat-Footed]] until the start of your next turn.
+You use your foes' openings to expose even greater weaknesses. When you hit a creature as part of an Attack of Opportunity, that creature becomes [[DATABASE/condition/Flat-Footed|flat-footed]] until the start of your next turn.

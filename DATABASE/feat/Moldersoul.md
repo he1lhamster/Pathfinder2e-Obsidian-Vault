@@ -11,6 +11,7 @@ name: Moldersoul
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Moldersoul <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Ardande</span><span class="item-trait">Lineage</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
 Your connection to elemental wood asserts itself in the form of decay, like forgotten logs left to rot and the char that remains after a forest fire, cycles of devastation clearing away what was to make room for the next generation of life. You gain the Decompose action.
@@ -34,7 +35,7 @@ Your connection to elemental wood asserts itself in the form of decay, like forg
 
 **Ardande:**
 
-Ardandes are [[Planar Scion]] descended from [[Kizidhar]] and other beings of elemental wood.
+Ardandes are [[DATABASE/monsterfamily/Planar Scion|planar scions]] descended from [[DATABASE/monster/Kizidhar|kizidhar]] and other beings of elemental wood.
 
 **Lineage:**
 

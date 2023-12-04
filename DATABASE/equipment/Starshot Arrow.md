@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Starshot Arrow<span class="item-type">Item 7+</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Conjuration</span><span class="item-trait">Consumable</span><span class="item-trait">Magical</span>
-**Source** [[Legends]]
+**Source** [[DATABASE/source/Legends|Legends]]
 **Ammunition** arrow; **Bulk** —
 **Activate** <span class="action-icon">1</span> Interact
 
@@ -64,12 +65,12 @@ The metal of these arrows is said to have come from a star that ventured too clo
 
 ## Starshot Arrow (Lesser)<span class="item-type">Item 7</span>
 
-**Source** [[Legends]]
+**Source** [[DATABASE/source/Legends|Legends]]
 **Price** 55 gp
 The target must be within the maximum range of your weapon.
 
 ## Starshot Arrow (Greater)<span class="item-type">Item 14</span>
 
-**Source** [[Legends]]
+**Source** [[DATABASE/source/Legends|Legends]]
 **Price** 800 gp
 You can fire at any creature you can detect, regardless of range. The arrow travels instantly, hitting your target as soon as you fire the arrow. This is a teleportation effect.

@@ -11,6 +11,7 @@ name: Reimagine
 prerequisite: '[[DATABASE/feat/Transcendent Realization|Transcendent Realization]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -23,11 +24,11 @@ type: Feat
 # Reimagine <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Kashrishi</span>
-**Source** [[Impossible Lands]]
-**Prerequisites** [[Transcendent Realization]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
+**Prerequisites** [[DATABASE/feat/Transcendent Realization|Transcendent Realization]]
 
 ---
-You can cast [[Dreaming Potential]] as an innate occult spell. You can cast this spell targeting yourself as your last activity before falling asleep to receive its normal benefits and effects.
+You can cast [[DATABASE/spell/Dreaming Potential|dreaming potential]] as an innate occult spell. You can cast this spell targeting yourself as your last activity before falling asleep to receive its normal benefits and effects.
 
 ## Traits
 

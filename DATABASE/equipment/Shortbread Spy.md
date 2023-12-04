@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 size: null
@@ -56,7 +57,7 @@ weapon_type: null
 # Shortbread Spy<span class="item-type">Item 6</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Consumable</span><span class="item-trait">Divination</span><span class="item-trait">Magical</span><span class="item-trait">Scrying</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Price** 40 gp
 **Usage** held in 2 hands; **Bulk** —
 **Activate** 1 minute (Interact)

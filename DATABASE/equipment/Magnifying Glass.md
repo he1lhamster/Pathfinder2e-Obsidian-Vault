@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: Large
@@ -51,7 +52,7 @@ weapon_type: null
 ---
 # Magnifying Glass<span class="item-type">Item 3</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 40 gp
 **Hands** 1; **Bulk** —
 

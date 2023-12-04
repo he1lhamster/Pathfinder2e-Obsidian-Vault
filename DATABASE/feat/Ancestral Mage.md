@@ -11,6 +11,7 @@ name: Ancestral Mage
 prerequisite: '[[DATABASE/feat/Ancestral Blood Magic|Ancestral Blood Magic]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Ancestral Mage <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Sorcerer</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** [[Ancestral Blood Magic]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** [[DATABASE/feat/Ancestral Blood Magic|Ancestral Blood Magic]]
 
 ---
 The magic of your ancestry and bloodline are one and the same. Add any innate spells you have from a heritage or an ancestry feat to your spell repertoire, meaning you can cast them using your spell slots.

@@ -80,17 +80,17 @@ wisdom: '+3'
 # Quatoid
 
 Quatoids are peculiar, mysterious elementals native to the Plane of Water that resemble four-tentacled octopuses with eerily humanoid faces on their mantles.
-**Recall Knowledge - Elemental ([[Arcana]], [[Nature]])**: DC 23
+**Recall Knowledge - Elemental ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 23
 **Unspecific Lore**: DC 21
 **Specific Lore**: DC 18
 
 # Quatoid<span class="item-type">Creature 7</span>
 
 <span class="trait-alignment item-trait">LN</span><span class="trait-size item-trait">Small</span><span class="item-trait">Aquatic</span><span class="item-trait">Elemental</span><span class="item-trait">Water</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +18; darkvision
-**Languages** [[Aquan]], [[Common]]
-**Skills** [[Athletics]] +15, [[Diplomacy]] +12, [[Lore]] +17, [[Occultism]] +17, [[Society]] +17, [[Stealth]] +13
+**Languages** [[DATABASE/language/Aquan|Aquan]], [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +15, [[DATABASE/skill/Diplomacy|Diplomacy]] +12, [[DATABASE/skill/Lore|Elemental Lore]] +17, [[DATABASE/skill/Occultism|Occultism]] +17, [[DATABASE/skill/Society|Society]] +17, [[DATABASE/skill/Stealth|Stealth]] +13
 **Str** +4, **Dex** +2, **Con** +0, **Int** +4, **Wis** +3, **Cha** +1
 
 ---
@@ -100,5 +100,5 @@ Quatoids are peculiar, mysterious elementals native to the Plane of Water that r
 
 ---
 **Speed** 25 feet, swim 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> tentacle +16 [+11/+6] (reach 10 feet), **Damage** 2d12+6 bludgeoning plus Grab</span>**Primal Innate Spells** DC 27, attack +17; **2nd** _[[Hydraulic Push]]_ (at will)
-<span class="in-box-ability">**[[Constrict]]** <span class="action-icon">1</span> 1d12+6 bludgeoning, DC 25</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> tentacle +16 [+11/+6] (reach 10 feet), **Damage** 2d12+6 bludgeoning plus Grab</span>**Primal Innate Spells** DC 27, attack +17; **2nd** _[[DATABASE/spell/Hydraulic Push|hydraulic push]]_ (at will)
+<span class="in-box-ability">**[[DATABASE/monsterability/Constrict|Constrict]]** <span class="action-icon">1</span> 1d12+6 bludgeoning, DC 25</span>

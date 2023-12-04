@@ -23,6 +23,7 @@ patron_theme: null
 range: 60 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -39,9 +40,9 @@ type: Spell
 # Feather Fall<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Abjuration</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, primal
-**Deities** [[Adanye]], [[Ma'at]], [[Ylimancha]]
+**Deities** [[DATABASE/deity/Adanye|Adanye]], [[DATABASE/deity/Ma'at|Ma'at]], [[DATABASE/deity/Ylimancha|Ylimancha]]
 **Cast** <span class="action-icon">5</span> verbal; **Trigger** a creature within range is falling
 **Range** 60 feet; **Targets** 1 falling creature
 **Duration** 1 minute

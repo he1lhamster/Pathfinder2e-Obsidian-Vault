@@ -25,6 +25,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -41,10 +42,10 @@ type: Spell
 # False Life<span class="item-type">Spell 2</span>
 
 <span class="item-trait">Necromancy</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult
-**Bloodline** [[Undead]]
-**Deities** [[Osiris]], [[Qi Zhong]], [[Touch of the Sun]], [[Urgathoa]]
+**Bloodline** [[DATABASE/sorcererbloodline/Undead|undead]]
+**Deities** [[DATABASE/deity/Osiris|Osiris]], [[DATABASE/deity/Qi Zhong|Qi Zhong]], [[DATABASE/deity/Touch of the Sun|Touch of the Sun]], [[DATABASE/deity/Urgathoa|Urgathoa]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Duration** 8 hours
 

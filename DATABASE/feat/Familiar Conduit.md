@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Familiar Master Dedication|Familiar Master Dedica
   ; able to cast spells'
 rarity: Common
 requirement: You have line of effect to your familiar.
+rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -26,9 +27,9 @@ type: Feat
 # Familiar Conduit <span class="action-icon">1</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Conjuration</span><span class="item-trait">Metamagic</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Familiar Master]]
-**Prerequisites** [[Familiar Master Dedication]]; able to cast spells
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Familiar Master|Familiar Master]]
+**Prerequisites** [[DATABASE/feat/Familiar Master Dedication|Familiar Master Dedication]]; able to cast spells
 **Requirements** You have line of effect to your familiar.
 
 ---

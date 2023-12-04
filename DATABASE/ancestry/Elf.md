@@ -18,6 +18,7 @@ language:
 max_speed: '30'
 name: Elf
 rarity: Common
+rus_type_level: null
 size: Medium
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 speed:
@@ -32,7 +33,7 @@ vision: Low-Light Vision
 # Elf
 
 <span class="item-trait">Elf</span><span class="item-trait">Humanoid</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 _As an ancient people, elves have seen great change and have the perspective that can come only from watching the arc of history. After leaving the world in ancient times, they returned to a changed land, and they still struggle to reclaim their ancestral homes, most notably from terrible demons that have invaded parts of their lands. To some, the elves are objects of awe—graceful and beautiful, with immense talent and knowledge. Among themselves, however, the elves place far more importance on personal freedom than on living up to these ideals._
 Elves combine otherworldly grace, sharp intellect, and mysterious charm in a way that is practically magnetic to members of other ancestries. They are often voraciously intellectual, though their studies delve into a level of detail that most shorter-lived peoples find excessive or inefficient. Valuing kindness and beauty, elves ever strive to improve their manners, appearance, and culture.
  Elves are often rather private people, steeped in the secrets of their groves and kinship groups. They’re slow to build friendships outside their kinsfolk, but for a specific reason: they subtly and deeply attune to their environment and their companions. There’s a physical element to this attunement, but it isn’t only superficial. Elves who spend their lives among shorter‑lived peoples often develop a skewed perception of their own mortality and tend to become morose after watching generation after generation of companions age and die. These elves are called the Forlorn.
@@ -47,7 +48,7 @@ Elves combine otherworldly grace, sharp intellect, and mysterious charm in a way
 ## Others Probably...
 
 * Focus on your appearance, either admiring your grace or treating you as if you're physically fragile. 
-* Assume you practice archery, cast spells, fight [[Demon]], and have perfected one or more fine arts. 
+* Assume you practice archery, cast spells, fight [[DATABASE/monsterfamily/Demon|demons]], and have perfected one or more fine arts. 
 * Worry that you privately look down on them, or feel like you're condescending and aloof.
 
 ## Physical Description
@@ -58,16 +59,16 @@ While generally taller than humans, elves possess a fragile grace, accentuated b
 
 ## Society
 
-Elven culture is deep, rich, and on the decline. Their society peaked millennia ago, long before they fled the world to escape a great calamity. They've since returned, but rebuilding is no easy task. Their inborn patience and intellectual curiosity make elves excellent sages, philosophers, and [[Wizard]], and their societies are built upon their inherent sense of wonder and knowledge. Elven architecture displays their deep appreciation of beauty, and elven cities are wondrous works of art.
+Elven culture is deep, rich, and on the decline. Their society peaked millennia ago, long before they fled the world to escape a great calamity. They've since returned, but rebuilding is no easy task. Their inborn patience and intellectual curiosity make elves excellent sages, philosophers, and [[DATABASE/class_/Wizard|wizards]], and their societies are built upon their inherent sense of wonder and knowledge. Elven architecture displays their deep appreciation of beauty, and elven cities are wondrous works of art.
  Elves hold deeply seated ideals of individualism, allowing each elf to explore multiple occupations before alighting on a particular pursuit or passion that suits her best. Elves bear notorious grudges against rivals, which the elves call _ilduliel_, but these antagonistic relationships can sometimes blossom into friendships over time.
 
 ## Alignment and Religion
 
-Elves are often emotional and capricious, yet they hold high ideals close to their hearts. As such, many are chaotic good. They prefer deities who share their love of all things mystic and artistic. [[Desna]] and [[Shelyn]] are particular favorites, the former for her sense of wonder and the latter for her appreciation of artistry. [[Calistria]] is the most notorious of elven deities, as she represents many of the elven ideals taken to the extreme.
+Elves are often emotional and capricious, yet they hold high ideals close to their hearts. As such, many are chaotic good. They prefer deities who share their love of all things mystic and artistic. [[DATABASE/deity/Desna|Desna]] and [[DATABASE/deity/Shelyn|Shelyn]] are particular favorites, the former for her sense of wonder and the latter for her appreciation of artistry. [[DATABASE/deity/Calistria|Calistria]] is the most notorious of elven deities, as she represents many of the elven ideals taken to the extreme.
 
 ## Adventurers
 
-Many elves adventure to find beauty and discover new things. Typical backgrounds for an elf include [[Emissary]], [[Hunter]], [[Noble]], [[Scholar]], or [[Scout]]. Elves often become [[Ranger]] or [[Rogue]], taking advantage of their dexterity, or [[Alchemist]] or [[Wizard]], exploring their intellectual curiosity.
+Many elves adventure to find beauty and discover new things. Typical backgrounds for an elf include [[DATABASE/background/Emissary|emissary]], [[DATABASE/background/Hunter|hunter]], [[DATABASE/background/Noble|noble]], [[DATABASE/background/Scholar|scholar]], or [[DATABASE/background/Scout|scout]]. Elves often become [[DATABASE/class_/Ranger|rangers]] or [[DATABASE/class_/Rogue|rogues]], taking advantage of their dexterity, or [[DATABASE/class_/Alchemist|alchemists]] or [[DATABASE/class_/Wizard|wizards]], exploring their intellectual curiosity.
 
 ## Names
 
@@ -103,10 +104,10 @@ Constitution
 
 ## Languages
 
-[[Common]]
-[[Elven]]
-Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[Celestial]], [[Draconic]], [[Gnoll]], [[Gnomish]], [[Goblin]], [[Orcish]], [[Sylvan]], and any other languages to which you have access (such as the languages prevalent in your region).
+[[DATABASE/language/Common|Common]]
+[[DATABASE/language/Elven|Elven]]
+Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[DATABASE/language/Celestial|Celestial]], [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Gnoll|Gnoll]], [[DATABASE/language/Gnomish|Gnomish]], [[DATABASE/language/Goblin|Goblin]], [[DATABASE/language/Orcish|Orcish]], [[DATABASE/language/Sylvan|Sylvan]], and any other languages to which you have access (such as the languages prevalent in your region).
 
 ## Low-Light Vision
 
-You can see in dim light as though it were bright light, so you ignore the [[Concealed]] condition due to dim light.
+You can see in dim light as though it were bright light, so you ignore the [[DATABASE/condition/Concealed|concealed]] condition due to dim light.

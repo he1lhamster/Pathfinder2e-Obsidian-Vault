@@ -14,6 +14,7 @@ name: Telekinetic Swarm Trap
 rarity: Common
 reflex: '+19'
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
@@ -29,13 +30,13 @@ will: null
 # Telekinetic Swarm Trap<span class="item-type">Hazard 12</span>
 
 <span class="item-trait">Complex</span><span class="item-trait">Magical</span><span class="item-trait">Mechanical</span><span class="item-trait">Trap</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Complexity** Complex
 **Stealth** +24 (expert)
 **Description** Three innocuous decorations instilled with telekinetic magic pull objects and pieces of the room itself into spinning clouds of debris that attack all creatures in the room.
 
 ---
-**Disable** [[Thievery]] DC 27 (expert) to take apart a telekinetic cloud, Thievery DC 32 (master) to disable each telekinetic decoration, or [[Dispel Magic]] (6th level; counteract DC 30) to counteract each telekinetic decoration
+**Disable** [[DATABASE/skill/Thievery|Thievery]] DC 27 (expert) to take apart a telekinetic cloud, Thievery DC 32 (master) to disable each telekinetic decoration, or [[DATABASE/spell/Dispel Magic|dispel magic]] (6th level; counteract DC 30) to counteract each telekinetic decoration
 **AC** 33, **Fort** +24, **Ref** +19
 **Hardness** 22, **HP** 88 (BT 44) per telekinetic cloud
 **Agitate** <span class="action-icon">5</span> (arcane, evocation); **Trigger** A creature stays in the room for at least 6 seconds. **Effect** Each telekinetic decoration constructs a cloud of objects in the room (three clouds total) and the trap rolls initiative. The creatures in the room when the trap is triggered become the trap’s targets, regardless of whether they leave the room or other creatures later enter the room. Each decoration targets a different creature if possible. A target creature that moves at least 1 mile from the trap ceases being a target, at which point the decoration designates a new target.

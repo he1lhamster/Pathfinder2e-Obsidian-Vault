@@ -3,6 +3,7 @@ creature_family: Noppera-Bo
 id: '350'
 name: Noppera-Bo
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 196. The Summer That Never Was|Pathfinder #196:
   The Summer That Never Was]]'
 trait: null
@@ -11,12 +12,12 @@ type: Creature Family
 ---
 # Noppera-Bo
 
-**Source** [[Pathfinder 196. The Summer That Never Was]]
+**Source** [[DATABASE/source/Pathfinder 196. The Summer That Never Was|Pathfinder #196: The Summer That Never Was]]
 Noppera-bos appear to be regular humans from behind, and might even resemble someone you know, until they turn to reveal a featureless face.
 
 ### Members
 
-[[Noppera-Bo Grunt]] (Creature 0), [[Noppera-Bo Occultist]] (Creature 2), [[Noppera-Bo Trickster]] (Creature 1)
+[[DATABASE/monster/Noppera-Bo Grunt|Noppera-Bo Grunt]] (Creature 0), [[DATABASE/monster/Noppera-Bo Occultist|Noppera-Bo Occultist]] (Creature 2), [[DATABASE/monster/Noppera-Bo Trickster|Noppera-Bo Trickster]] (Creature 1)
 
 ###  Consummate Professionals
 

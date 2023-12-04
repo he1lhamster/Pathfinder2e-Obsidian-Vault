@@ -11,6 +11,7 @@ name: Eternal Torch
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -28,10 +29,10 @@ type: Feat
 # Eternal Torch <span class="action-icon">1</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Fire</span><span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Light</span><span class="item-trait">Manipulate</span><span class="item-trait">Primal</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
-You open a connection to your kinetic gate, large enough for a torch flame to flow. You create a magical, [[Torch]]-like flame within 120 feet in any color you choose. It's as bright and hot as a torch. You can have it orbit a target willing creature or emit from a target object that's unattended or attended by a willing creature. If you create a flame on a weapon, you still need to use it as an improvised weapon to attack with the flame, just as with a torch.
+You open a connection to your kinetic gate, large enough for a torch flame to flow. You create a magical, [[DATABASE/equipment/Torch|torch]]-like flame within 120 feet in any color you choose. It's as bright and hot as a torch. You can have it orbit a target willing creature or emit from a target object that's unattended or attended by a willing creature. If you create a flame on a weapon, you still need to use it as an improvised weapon to attack with the flame, just as with a torch.
  The flame has an unlimited duration. You can have a maximum number of Eternal Torches equal to your Constitution modifier, and you can Dismiss each torch individually.
 
 ---

@@ -19,6 +19,7 @@ patron_theme: null
 range: 120 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: Fortitude
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
@@ -37,13 +38,13 @@ type: Focus
 # Combustion<span class="item-type">Focus 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Concentrate</span><span class="item-trait">Fire</span><span class="item-trait">Focus</span><span class="item-trait">Manipulate</span>
-**Source** [[Rage of Elements]], [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]], [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Cast** <span class="action-icon">2</span> 
 **Range** 120 feet; **Targets** 1 creature
 **Defense** Fortitude
 
 ---
-You ignite a creature in lasting flames. The fire deals 4d8 fire damage and 2d6 [[Persistent Damage]] to the creature, which must attempt a Fortitude save.
+You ignite a creature in lasting flames. The fire deals 4d8 fire damage and 2d6 [[DATABASE/condition/Persistent Damage|persistent fire damage]] to the creature, which must attempt a Fortitude save.
 **Critical Success** The creature is unaffected.
 **Success** The creature takes half damage and takes no persistent damage.
 **Failure** The creature takes full damage, as well as full persistent damage.

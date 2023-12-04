@@ -11,6 +11,7 @@ name: Call Bonded Item
 prerequisite: '[[DATABASE/class_/Wizard|arcane bond]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -26,8 +27,8 @@ type: Feat
 # Call Bonded Item <span class="action-icon">1</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Conjuration</span><span class="item-trait">Teleportation</span><span class="item-trait">Wizard</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** [[Wizard]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** [[DATABASE/class_/Wizard|arcane bond]]
 
 ---
 You're mystically connected to your bonded item and can call it to your hand. If your bonded item is 1 Bulk or less, you teleport your bonded item into your hand from up to 1 mile away.

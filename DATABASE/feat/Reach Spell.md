@@ -11,6 +11,7 @@ name: Reach Spell
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -31,7 +32,7 @@ type: Feat
 # Reach Spell <span class="action-icon">1</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Bard</span><span class="item-trait">Cleric</span><span class="item-trait">Concentrate</span><span class="item-trait">Druid</span><span class="item-trait">Metamagic</span><span class="item-trait">Oracle</span><span class="item-trait">Sorcerer</span><span class="item-trait">Witch</span><span class="item-trait">Wizard</span>
-**Source** [[Advanced Player's Guide]] , [[Core Rulebook]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] , [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
 You can extend the range of your spells. If the next action you use is to Cast a Spell that has a range, increase that spell’s range by 30 feet. As is standard for increasing spell ranges, if the spell normally has a range of touch, you extend its range to 30 feet.

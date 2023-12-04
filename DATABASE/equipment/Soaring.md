@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 size: null
@@ -53,10 +54,10 @@ weapon_type: null
 # Soaring<span class="item-type">Item 14</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Magical</span>
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 **Price** 3,750 gp
 **Usage** etched onto armor; **Bulk** —
 
 ---
 A set of _soaring_ armor helps you fly faster and protects you and nearby allies from falling. While wearing _soaring_ armor, you gain a +10-foot item bonus to your fly Speed, if you have one. As normal, if your fly Speed is based on your land Speed and you already have an item bonus to your land Speed, these bonuses aren't cumulative.
-**Activate** <span class="action-icon">5</span> command **Trigger** You or a creature within 60 feet of you is falling; **Effect** You cast [[Feather Fall]] on the triggering creature.
+**Activate** <span class="action-icon">5</span> command **Trigger** You or a creature within 60 feet of you is falling; **Effect** You cast [[DATABASE/spell/Feather Fall|feather fall]] on the triggering creature.

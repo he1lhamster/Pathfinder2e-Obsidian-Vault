@@ -11,6 +11,7 @@ name: Conrasu Weapon Understanding
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Conrasu Weapon Understanding <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Conrasu</span>
-**Source** [[The Mwangi Expanse]]
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]
 
 ---
-You have come to know conrasu weapons as you know yourself. Whenever you critically hit using a [[Composite Shortbow]], [[Glaive]], [[Longspear]], [[Longsword]], [[Shortbow]], [[Spear]], or a conrasu weapon, you apply the weapon's critical specialization effect.
+You have come to know conrasu weapons as you know yourself. Whenever you critically hit using a [[DATABASE/weapon/Composite Shortbow|composite shortbow]], [[DATABASE/weapon/Glaive|glaive]], [[DATABASE/weapon/Longspear|longspear]], [[DATABASE/weapon/Longsword|longsword]], [[DATABASE/weapon/Shortbow|shortbow]], [[DATABASE/weapon/Spear|spear]], or a conrasu weapon, you apply the weapon's critical specialization effect.
 
 ## Traits
 

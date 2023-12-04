@@ -11,6 +11,7 @@ name: Witchwood Seed
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -29,13 +30,13 @@ type: Feat
 # Witchwood Seed <span class="action-icon">2</span> <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Overflow</span><span class="item-trait">Plant</span><span class="item-trait">Polymorph</span><span class="item-trait">Primal</span><span class="item-trait">Wood</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
 You touch a creature to implant a malignant seed in its body. The creature takes 5d10 piercing damage and other effects depending on its Fortitude save against your class DC. The creature is then temporarily immune for 24 hours. Creatures with the fungus, plant, or wood trait are immune.
 **Critical Success** The creature is unaffected.
 **Success** The creature takes half damage and takes a –10-foot status penalty to all its Speeds until the end of its next turn.
-**Failure** The target takes full damage and is [[Clumsy]] and [[Immobilized]] until the end of its next turn.
+**Failure** The target takes full damage and is [[DATABASE/condition/Clumsy|clumsy 2]] and [[DATABASE/condition/Immobilized|immobilized]] until the end of its next turn.
 **Critical Failure** The target takes double damage and is clumsy 2 and immobilized. It attempts a new save at the end of each of its turns, ending the effect if it succeeds.
 
 ---
@@ -49,7 +50,7 @@ The primary magical actions kineticists use are called impulses. You can use an 
 
 **Overflow:**
 
-Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
+Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[DATABASE/action/Channel Elements|Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
 
 **Plant:**
 

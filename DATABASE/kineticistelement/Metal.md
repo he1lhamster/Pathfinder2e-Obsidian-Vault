@@ -3,6 +3,7 @@ element: Metal
 id: '5'
 name: Metal
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 trait: null
 type: Kineticist Element
@@ -10,7 +11,7 @@ type: Kineticist Element
 ---
 # Metal
 
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ## Impulse Feats
 
@@ -26,7 +27,7 @@ Choose acid, electricity, or piercing. Until the start of your next turn, each t
 
 ## Gate Junction<span class="item-type">Level 5</span>
 
-**Critical Blast** The target takes 1d6 [[Persistent Damage]]; if the creature has the metal trait or is made of metal, it instead takes 1d6 persistent damage with no type from rust. You gain an item bonus to this persistent damage equal to your item bonus to impulse attack rolls, such as from a _gate attenuator_.
+**Critical Blast** The target takes 1d6 [[DATABASE/condition/Persistent Damage|persistent bleed damage]]; if the creature has the metal trait or is made of metal, it instead takes 1d6 persistent damage with no type from rust. You gain an item bonus to this persistent damage equal to your item bonus to impulse attack rolls, such as from a _gate attenuator_.
 **Elemental Resistance** electricity, metal
 **Aura Junction** Your enemies in the aura take a –1 status penalty to attacks with metal objects, and they take a –1 status penalty to AC if they're wearing metal armor, have the metal trait, or are made of metal.
-**Skill Junction** [[Crafting]], [[Quick Repair]]
+**Skill Junction** [[DATABASE/skill/Crafting|Crafting]], [[DATABASE/feat/Quick Repair|Quick Repair]]

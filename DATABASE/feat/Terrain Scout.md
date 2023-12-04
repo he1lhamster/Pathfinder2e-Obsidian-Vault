@@ -11,6 +11,7 @@ name: Terrain Scout
 prerequisite: '[[DATABASE/feat/Scout Dedication|Scout Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,12 +24,12 @@ type: Feat
 # Terrain Scout <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Scout]]
-**Prerequisites** [[Scout Dedication]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Scout|Scout]]
+**Prerequisites** [[DATABASE/feat/Scout Dedication|Scout Dedication]]
 
 ---
-You gain the [[Terrain Stalker]] skill feat twice, choosing a different terrain each time. If you [[Avoid Notice]] while exploring and any allies use [[Follow the Expert]] to follow you as you do so, you can choose one of those allies to gain the benefit of any one Terrain Stalker feat you have.
+You gain the [[DATABASE/feat/Terrain Stalker|Terrain Stalker]] skill feat twice, choosing a different terrain each time. If you [[DATABASE/action/Avoid Notice|Avoid Notice]] while exploring and any allies use [[DATABASE/action/Follow the Expert|Follow the Expert]] to follow you as you do so, you can choose one of those allies to gain the benefit of any one Terrain Stalker feat you have.
 
 ## Traits
 

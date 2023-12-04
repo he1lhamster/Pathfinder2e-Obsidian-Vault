@@ -12,6 +12,7 @@ prerequisite: at least one arcane or occult innate spell gained from a gnome her
   or gnome ancestry feat
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Illusion
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -26,19 +27,19 @@ type: Feat
 # Instinctive Obfuscation <span class="action-icon">5</span> <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Gnome</span><span class="item-trait">Illusion</span><span class="item-trait">Visual</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Frequency** once per day
 **Prerequisites** at least one arcane or occult innate spell gained from a gnome heritage or gnome ancestry feat
 **Trigger** You are attacked by a foe.
 
 ---
-The magic within you manifests as a natural reaction to threats. You gain the effects of [[Mirror Image]] but with two images instead of three. The tradition of this action matches the tradition of your gnome ancestry options.
+The magic within you manifests as a natural reaction to threats. You gain the effects of [[DATABASE/spell/Mirror Image|mirror image]] but with two images instead of three. The tradition of this action matches the tradition of your gnome ancestry options.
 
 ## Traits
 
 **Gnome:**
 
-A creature with this trait is a member of the gnome ancestry. Gnomes are small people skilled at magic who seek out new experiences and usually have [[Low-Light Vision]]. An ability with this trait can be used or selected only by gnomes. A weapon with this trait is created and used by gnomes.
+A creature with this trait is a member of the gnome ancestry. Gnomes are small people skilled at magic who seek out new experiences and usually have [[DATABASE/monsterability/Low-Light Vision|low-light vision]]. An ability with this trait can be used or selected only by gnomes. A weapon with this trait is created and used by gnomes.
 
 **Illusion:**
 

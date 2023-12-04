@@ -11,6 +11,7 @@ name: Crystal Healing
 prerequisite: Trained in [[DATABASE/skill/Occultism|Occultism]]
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: occultism
@@ -27,11 +28,11 @@ type: Feat
 # Crystal Healing <span class="item-type">Feat 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">General</span><span class="item-trait">Healing</span><span class="item-trait">Manipulate</span><span class="item-trait">Skill</span>
-**Source** [[Dark Archive]]
-**Prerequisites** trained in [[Occultism]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Prerequisites** trained in [[DATABASE/skill/Occultism|Occultism]]
 
 ---
-You know how to stimulate a body's natural healing abilities through the application of resonant crystals. Doing so requires you to use at least two semiprecious stones with a total value of 5 gp or more in place of [[Healer's Tools]], which allows you to attempt to [[Treat Disease]] or [[Treat Poison]] using Occultism rather than [[Medicine]]. Examples and prices of semiprecious stones can be found under Gems.
+You know how to stimulate a body's natural healing abilities through the application of resonant crystals. Doing so requires you to use at least two semiprecious stones with a total value of 5 gp or more in place of [[DATABASE/equipment/Healer's Tools|healer's tools]], which allows you to attempt to [[DATABASE/action/Treat Disease|Treat Disease]] or [[DATABASE/action/Treat Poison|Treat Poison]] using Occultism rather than [[DATABASE/skill/Medicine|Medicine]]. Examples and prices of semiprecious stones can be found under Gems.
  If you're an expert in Occultism and you use gems whose total value equals or exceeds 50 gp, you gain a +1 item bonus to your Occultism check. If you're a master and the gems' value equals or exceeds 700 gp, the item bonus increases to +2; if you're legendary in Occultism and the gems' value equals or exceeds 15,000 gp, the item bonus increases to +3.
 
 ## Traits
@@ -54,4 +55,4 @@ A general feat with the skill trait improves your skills and their actions or gi
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.

@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -35,8 +36,8 @@ type: Focus
 # Oathkeeper's Insignia<span class="item-type">Focus 1</span>
 
 <span class="item-trait">Conjuration</span>
-**Source** [[Gods & Magic]] 
-**Domain** [[Duty Domain]]
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
+**Domain** [[DATABASE/domain/Duty Domain|duty]]
 **Cast** <span class="action-icon">4</span> verbal; **Trigger** You make a promise or deal.
 **Duration** 1 hour
 

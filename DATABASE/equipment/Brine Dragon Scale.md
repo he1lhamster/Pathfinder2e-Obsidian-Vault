@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -57,10 +58,10 @@ weapon_type: null
 # Brine Dragon Scale<span class="item-type">Item 8</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Acid</span><span class="item-trait">Consumable</span><span class="item-trait">Talisman</span><span class="item-trait">Water</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Price** 100 gp
 **Usage** affixed to a melee weapon; **Bulk** —
 **Activate** <span class="action-icon">5</span> (concentrate) **Trigger** A creature in reach of the weapon takes an action with the concentrate trait. ; **Prerequisite** You're an expert with the affixed weapon
 
 ---
-[[Dragon, Brine]] are known to distract their foes at just the right moment, and this blue-green scale appears to have come from one of these creatures. When you activate the scale, it cracks open and releases a spray of caustic saltwater at the triggering creature. The creature takes 2d8 acid damage with a DC 24 basic Reflex save. If the creature critically fails at its save, its concentration is broken—the triggering action is disrupted.
+[[DATABASE/monsterfamily/Dragon, Brine|Brine dragons]] are known to distract their foes at just the right moment, and this blue-green scale appears to have come from one of these creatures. When you activate the scale, it cracks open and releases a spray of caustic saltwater at the triggering creature. The creature takes 2d8 acid damage with a DC 24 basic Reflex save. If the creature critically fails at its save, its concentration is broken—the triggering action is disrupted.

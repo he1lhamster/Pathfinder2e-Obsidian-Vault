@@ -11,6 +11,7 @@ name: Insider Trading
 prerequisite: Trained in [[DATABASE/skill/Industry|Industry]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 subcategory: null
@@ -24,11 +25,11 @@ type: Feat
 # Insider Trading <span class="item-type">Feat 1</span>
 
 <span class="item-trait">General</span><span class="item-trait">Kingdom</span>
-**Source** [[Kingmaker Adventure Path]]
-**Prerequisites** trained in [[Industry]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
+**Prerequisites** trained in [[DATABASE/skill/Industry|Industry]]
 
 ---
-Your leading citizens share valuable business information with one another and with associates in other lands, and they hire one another's workers to supply the labor they need to fuel their production. You gain a +1 status bonus to [[Establish Work Site]], [[Establish Trade Agreement]], and [[Trade Commodities]] activities. In addition, gain 1 bonus Resource Die at the start of each Kingdom turn.
+Your leading citizens share valuable business information with one another and with associates in other lands, and they hire one another's workers to supply the labor they need to fuel their production. You gain a +1 status bonus to [[DATABASE/action/Establish Work Site|Establish Work Site]], [[DATABASE/action/Establish Trade Agreement|Establish Trade Agreement]], and [[DATABASE/action/Trade Commodities|Trade Commodities]] activities. In addition, gain 1 bonus Resource Die at the start of each Kingdom turn.
 
 ## Traits
 

@@ -16,6 +16,7 @@ price: 12,500 gp
 rarity: Rare
 reflex: null
 resistance: null
+rus_type_level: null
 school: null
 size: Huge
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
@@ -28,13 +29,13 @@ type: Vehicle
 # Steam Giant<span class="item-type">Vehicle 14</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-size item-trait">Huge</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Price** 12,500 gp
 
 ---
 **Space** 20 feet long, 20 feet wide, 25 feet high
 **Crew** 1 pilot, 3 crew; **Passengers** 4
-**Piloting Check** [[Lore]] (DC 32) or [[Crafting]] (DC 34)
+**Piloting Check** [[DATABASE/skill/Lore|Driving Lore]] (DC 32) or [[DATABASE/skill/Crafting|Crafting]] (DC 34)
 
 ---
 **AC** 33; **Fort** +28

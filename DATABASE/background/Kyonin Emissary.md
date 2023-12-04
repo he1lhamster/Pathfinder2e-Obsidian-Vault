@@ -6,6 +6,7 @@ id: '119'
 name: Kyonin Emissary
 prerequisite: null
 rarity: null
+rus_type_level: null
 skill: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
 subcategory: regional
@@ -15,8 +16,8 @@ type: null
 ---
 # Kyonin Emissary<span class="item-type">Background</span>
 
-**Source** [[World Guide]] 
+**Source** [[DATABASE/source/World Guide|World Guide]] 
 **Region** Shining Kingdoms
 You were trained to be an ambassador of the elven land of Kyonin, and you have now been sent out into the wider world to build alliances between Kyonin and the neighboring kingdoms.
 Choose two ability boosts. One must be to **Charisma** or **Intelligence**, and one is a free ability boost.
-You're trained in the [[Society]] skill, and the [[Lore]] skill. You gain the [[Multilingual]] skill feat.
+You're trained in the [[DATABASE/skill/Society|Society]] skill, and the [[DATABASE/skill/Lore|Politics Lore]] skill. You gain the [[DATABASE/feat/Multilingual|Multilingual]] skill feat.

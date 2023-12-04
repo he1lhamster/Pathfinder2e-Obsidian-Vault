@@ -74,16 +74,16 @@ wisdom: '+3'
 # Giant Anaconda
 
 The monstrous giant anaconda is capable of swallowing whole creatures as big as horses—to say nothing of their riders. Although novice bushwhackers watch out for snakes that might drop on them from the jungle canopy above, giant anacondas are most commonly encountered in ponds and rivers, where they feed on prey including manatees and capybaras.
-**Recall Knowledge - Animal ([[Nature]])**: DC 24
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 24
 **Unspecific Lore**: DC 22
 **Specific Lore**: DC 19
 
 # Giant Anaconda<span class="item-type">Creature 8</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Huge</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +17; low-light vision, scent (imprecise) 60 feet
-**Skills** [[Acrobatics]] +15, [[Athletics]] +21, [[Stealth]] +15, [[Survival]] +15
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +15, [[DATABASE/skill/Athletics|Athletics]] +21, [[DATABASE/skill/Stealth|Stealth]] +15, [[DATABASE/skill/Survival|Survival]] +15
 **Str** +7, **Dex** +3, **Con** +6, **Int** -4, **Wis** +3, **Cha** -2
 
 ---
@@ -93,4 +93,4 @@ The monstrous giant anaconda is capable of swallowing whole creatures as big as 
 
 ---
 **Speed** 30 feet, climb 30 feet, swim 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +21 [+16/+11] (reach 10 feet), **Damage** 2d10+7 piercing plus Grab</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> tail +21 [+17/+13] (agile, reach 15 feet), **Damage** 2d8+7 bludgeoning plus Push 10 feet</span><span class="in-box-ability">**[[Greater Constrict]]** <span class="action-icon">1</span> 1d10+7 bludgeoning, DC 26</span><span class="in-box-ability">**Slither** <span class="action-icon">1</span> The giant anaconda Strides, Climbs, or Swims up to half its Speed, pulling any creatures it has grabbed with it.</span><span class="in-box-ability">**[[Swallow Whole]]** <span class="action-icon">1</span> (attack) Large, 1d10+7 bludgeoning, Rupture 21</span><span class="in-box-ability">**Wrap in Coils** <span class="action-icon">1</span> (attack) **Requirement** A Large or smaller creature is grabbed or restrained in the giant anaconda’s jaws. **Effect** The giant anaconda moves the creature into its coils, freeing its jaws to make attacks, then uses Greater Constrict against the creature. The giant anaconda’s coils can hold as many creatures as will fit in its space.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +21 [+16/+11] (reach 10 feet), **Damage** 2d10+7 piercing plus Grab</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> tail +21 [+17/+13] (agile, reach 15 feet), **Damage** 2d8+7 bludgeoning plus Push 10 feet</span><span class="in-box-ability">**[[DATABASE/monsterability/Greater Constrict|Greater Constrict]]** <span class="action-icon">1</span> 1d10+7 bludgeoning, DC 26</span><span class="in-box-ability">**Slither** <span class="action-icon">1</span> The giant anaconda Strides, Climbs, or Swims up to half its Speed, pulling any creatures it has grabbed with it.</span><span class="in-box-ability">**[[DATABASE/monsterability/Swallow Whole|Swallow Whole]]** <span class="action-icon">1</span> (attack) Large, 1d10+7 bludgeoning, Rupture 21</span><span class="in-box-ability">**Wrap in Coils** <span class="action-icon">1</span> (attack) **Requirement** A Large or smaller creature is grabbed or restrained in the giant anaconda’s jaws. **Effect** The giant anaconda moves the creature into its coils, freeing its jaws to make attacks, then uses Greater Constrict against the creature. The giant anaconda’s coils can hold as many creatures as will fit in its space.</span>

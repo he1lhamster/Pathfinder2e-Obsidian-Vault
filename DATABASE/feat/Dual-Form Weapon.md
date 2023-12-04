@@ -11,6 +11,7 @@ name: Dual-Form Weapon
 prerequisite: '[[DATABASE/inventorinnovation/Weapon Innovation|weapon innovation]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Dual-Form Weapon <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Inventor</span><span class="item-trait">Modification</span>
-**Source** [[Guns & Gears]]
-**Prerequisites** [[Weapon Innovation]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Prerequisites** [[DATABASE/inventorinnovation/Weapon Innovation|weapon innovation]]
 
 ---
 You've built your innovation with replaceable interlocking pieces that you can use to transform it into another type of weapon entirely. When you select this feat, choose a level 0 or 1st-level simple or martial weapon. It must be either a common weapon or another to which you have access. This weapon becomes your innovation's second configuration.
@@ -35,4 +36,4 @@ You've built your innovation with replaceable interlocking pieces that you can u
 
 **Modification:**
 
-A feat with this trait alters the construction of your innovation. If you have the [[Inventor]], you can retrain such a feat more easily
+A feat with this trait alters the construction of your innovation. If you have the [[DATABASE/class_/Inventor|reconfigure class feature]], you can retrain such a feat more easily

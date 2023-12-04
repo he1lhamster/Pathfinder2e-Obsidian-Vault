@@ -70,20 +70,20 @@ wisdom: '+2'
 # Kaava Stalker
 
 Kaava hunting parties can number in the dozens, although they blend easily into the forest and cover all traces of their passage. While community elders assign various tasks to hunting parties, such as recovering food or deterring intruders, the parties are expected to accomplish these tasks as they see fit.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 15
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Kaava Stalker<span class="item-type">Creature 1</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Small</span><span class="item-trait">Humanoid</span>
-**Source** [[The Mwangi Expanse]] 
-**Perception** +7; [[Low-Light Vision]]
-**Languages** [[Mwangi]]
-**Skills** [[Acrobatics]] +7, [[Athletics]] +6, [[Intimidation]] +5, [[Stealth]] +9 (+11 in forests or jungles), [[Survival]] +7
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]] 
+**Perception** +7; [[DATABASE/monsterability/Low-Light Vision|low-light vision]]
+**Languages** [[DATABASE/language/Mwangi|Mwangi]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +7, [[DATABASE/skill/Athletics|Athletics]] +6, [[DATABASE/skill/Intimidation|Intimidation]] +5, [[DATABASE/skill/Stealth|Stealth]] +9 (+11 in forests or jungles), [[DATABASE/skill/Survival|Survival]] +7
 **Str** +3, **Dex** +4, **Con** +0, **Int** +0, **Wis** +2, **Cha** +0
-**Trackless** A kaava moving at half their Speed or less steps so lightly that they leave virtually no trace. The DCs of checks to [[Track]] a kaava are increased by 10.
-**Items** [[Sickle]], [[Spear]]
+**Trackless** A kaava moving at half their Speed or less steps so lightly that they leave virtually no trace. The DCs of checks to [[DATABASE/action/Track|Track]] a kaava are increased by 10.
+**Items** [[DATABASE/weapon/Sickle|obsidian sickle]], [[DATABASE/weapon/Spear|spear (3)]]
 
 ---
 **AC** 16; **Fort** +5, **Ref** +9, **Will** +7
@@ -91,4 +91,4 @@ Kaava hunting parties can number in the dozens, although they blend easily into 
 
 ---
 **Speed** 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> sickle +9 [+5/+1] (agile, finesse, trip), **Damage** 1d4+3 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +8 [+3/-2], **Damage** 1d6+3 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> spear +9 [+4/-1] (thrown 20 feet), **Damage** 1d6+3 piercing</span><span class="in-box-ability">**Skulking Attack** If a kaava stalker starts their turn [[Hidden]] from or [[Undetected]] by a creature, that creature is [[Flat-Footed]] against the kaava's attacks until the end of the turn.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> sickle +9 [+5/+1] (agile, finesse, trip), **Damage** 1d4+3 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +8 [+3/-2], **Damage** 1d6+3 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> spear +9 [+4/-1] (thrown 20 feet), **Damage** 1d6+3 piercing</span><span class="in-box-ability">**Skulking Attack** If a kaava stalker starts their turn [[DATABASE/condition/Hidden|hidden]] from or [[DATABASE/condition/Undetected|undetected]] by a creature, that creature is [[DATABASE/condition/Flat-Footed|flat-footed]] against the kaava's attacks until the end of the turn.</span>

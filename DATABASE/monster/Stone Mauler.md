@@ -73,17 +73,17 @@ wisdom: '+3'
 # Stone Mauler
 
 These towering heaps of earth can inflict tremendous damage up close and from afar.
-**Recall Knowledge - Elemental ([[Arcana]], [[Nature]])**: DC 26
+**Recall Knowledge - Elemental ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 26
 **Unspecific Lore**: DC 24
 **Specific Lore**: DC 21
 
 # Stone Mauler<span class="item-type">Creature 9</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Earth</span><span class="item-trait">Elemental</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +16; darkvision, tremorsense (imprecise) 80 feet
-**Languages** [[Terran]]
-**Skills** [[Athletics]] +21, [[Stealth]] +12
+**Languages** [[DATABASE/language/Terran|Terran]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +21, [[DATABASE/skill/Stealth|Stealth]] +12
 **Str** +6, **Dex** -1, **Con** +7, **Int** -1, **Wis** +3, **Cha** -1
 **Earthbound** When not touching solid ground, a stone mauler is slowed 1 and can’t use reactions.
 

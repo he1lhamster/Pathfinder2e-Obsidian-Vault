@@ -66,17 +66,17 @@ wisdom: '+4'
 # The Beast
 
 This creature did not include a description.
-**Recall Knowledge - Animal ([[Nature]])**: DC 36
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 36
 **Unspecific Lore**: DC 34
 **Specific Lore**: DC 31
 
 # The Beast<span class="item-type">Creature 9</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Huge</span><span class="item-trait">Animal</span>
-**Source** [[Kingmaker Adventure Path]]
-Variant [[Owlbear]]
-**Perception** +19; [[Low-Light Vision]], [[Scent]] (imprecise) 30 feet
-**Skills** [[Acrobatics]] +18, [[Athletics]] +20, [[Intimidation]] +18
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
+Variant [[DATABASE/monster/Owlbear|owlbear]]
+**Perception** +19; [[DATABASE/monsterability/Low-Light Vision|low-light vision]], [[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +18, [[DATABASE/skill/Athletics|Athletics]] +20, [[DATABASE/skill/Intimidation|Intimidation]] +18
 **Str** +7, **Dex** +3, **Con** +6, **Int** -4, **Wis** +4, **Cha** +3
 
 ---
@@ -85,11 +85,11 @@ Variant [[Owlbear]]
 
 ---
 **Speed** 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> talon +21 [+17/+13] (agile), **Damage** 2d10+10 piercing plus [[Grab]]</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> beak +21 [+16/+11], **Damage** 2d12+10 piercing</span><span class="in-box-ability">**Bloodcurdling Screech** <span class="action-icon">1</span> (auditory, emotion, fear, mental) The owlbear unleashes a loud screech that terrifies its prey. Each creature in an 80-foot emanation must attempt a DC 25 Will save. Regardless of the result, creatures are temporarily immune for 1 minute.
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> talon +21 [+17/+13] (agile), **Damage** 2d10+10 piercing plus [[DATABASE/monsterability/Grab|Grab]]</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> beak +21 [+16/+11], **Damage** 2d12+10 piercing</span><span class="in-box-ability">**Bloodcurdling Screech** <span class="action-icon">1</span> (auditory, emotion, fear, mental) The owlbear unleashes a loud screech that terrifies its prey. Each creature in an 80-foot emanation must attempt a DC 25 Will save. Regardless of the result, creatures are temporarily immune for 1 minute.
  **Critical Success** The creature is unaffected.
- **Success** The creature is [[Frightened]].
- **Failure** The creature is [[Frightened]].
- **Critical Failure** The creature is fleeing for 1 round and [[Frightened]].</span><span class="in-box-ability">**Gnaw** <span class="action-icon">1</span> **Requirements** The owlbear has a creature grabbed with its talons. **Effect** The owlbear attempts to disembowel the creature with a beak Strike. If the Strike hits, the target must attempt a DC 28 Will save.
+ **Success** The creature is [[DATABASE/condition/Frightened|frightened 1]].
+ **Failure** The creature is [[DATABASE/condition/Frightened|frightened 2]].
+ **Critical Failure** The creature is fleeing for 1 round and [[DATABASE/condition/Frightened|frightened 3]].</span><span class="in-box-ability">**Gnaw** <span class="action-icon">1</span> **Requirements** The owlbear has a creature grabbed with its talons. **Effect** The owlbear attempts to disembowel the creature with a beak Strike. If the Strike hits, the target must attempt a DC 28 Will save.
  **Critical Success** The target is unaffected.
- **Success** The target is [[Sickened]].
- **Failure** The target is [[Sickened]] and [[Slowed]] as long as it remains [[Sickened]].</span><span class="in-box-ability">**Screeching Advance** <span class="action-icon">2</span> (auditory, emotion, fear, mental) The owlbear makes a Bloodcurdling Screech and Strides twice. All creatures within 80 feet of the owlbear at any point during this movement are subjected to the effects of Bloodcurdling Screech.</span>
+ **Success** The target is [[DATABASE/condition/Sickened|sickened 1]].
+ **Failure** The target is [[DATABASE/condition/Sickened|sickened 1]] and [[DATABASE/condition/Slowed|slowed 1]] as long as it remains [[DATABASE/condition/Sickened|sickened]].</span><span class="in-box-ability">**Screeching Advance** <span class="action-icon">2</span> (auditory, emotion, fear, mental) The owlbear makes a Bloodcurdling Screech and Strides twice. All creatures within 80 feet of the owlbear at any point during this movement are subjected to the effects of Bloodcurdling Screech.</span>

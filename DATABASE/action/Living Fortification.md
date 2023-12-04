@@ -7,6 +7,7 @@ id: '919'
 name: Living Fortification
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
@@ -18,7 +19,7 @@ type: Action
 # Living Fortification <span class="action-icon">4</span>
 
 <span class="item-trait">Gunslinger</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Trigger** You roll initiative.
 
 ---

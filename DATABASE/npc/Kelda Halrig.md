@@ -153,22 +153,22 @@ _Despite a diverse background in numerous skills and professions, Kelda Halrig's
 Kelda's roots are now firmly planted in Kovlar, so she is unlikely to leave the city. However, by the time “Fires of the Haunted City” concludes, she recognizes the great service the PCs have done for Kovlar in foiling Embermead's and Veshumirix's plots. After the PCs' victory, she is willing to personally take commissions to create weapons and armor for them and she can even arrange Earn Income tasks of up to 12th level among the various guilds, should the PCs wish to work in the city.
  If one of the PCs attempts to court Kelda, she finds their interest amusing. She has not given much attention to matters of the heart in recent decades, as she has found few capable of measuring up to her exacting standards. While she has no interest in short-term arrangements, a loyal, brave, honest PC of any gender with a strong drive toward self-improvement might capture her heart, particularly if that PC is also a master craftsperson.
  Kelda's ties to Kovlar may keep her from accepting a long-term post working for the PCs in Citadel Altaerein, but at your option, and if the PCs are particularly compelling (or tempt her with a large enough payment), she could be convinced to help for a short amount of time with downtime activities in Citadel Altaerein. Part of this might require the PCs installing additional protection in and around Jewelgate's exit into the Darklands and in the adjoining ruins within Saggorak.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 34
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 34
 **Unspecific Lore**: DC 32
 **Specific Lore**: DC 29
 
-## Elite | [[Kelda Halrig]] | Weak
+## Elite | [[DATABASE/npc/Kelda Halrig|Normal]] | Weak
 Proficiency without Level
 
 # Kelda Halrig<span class="item-type">Creature 8</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">LN</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Dwarf</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 148. Fires of the Haunted City]]
-**Perception** +22; [[Darkvision]]
-**Languages** [[Common]], [[Dwarven]], [[Undercommon]]
-**Skills** [[Athletics]] +22, [[Crafting]] +27 (+29 blacksmithing), [[Diplomacy]] +23, [[Lore]] +25, [[Society]] +21
+**Source** [[DATABASE/source/Pathfinder 148. Fires of the Haunted City|Pathfinder #148: Fires of the Haunted City]]
+**Perception** +22; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Dwarven|Dwarven]], [[DATABASE/language/Undercommon|Undercommon]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +22, [[DATABASE/skill/Crafting|Crafting]] +27 (+29 blacksmithing), [[DATABASE/skill/Diplomacy|Diplomacy]] +23, [[DATABASE/skill/Lore|Kovlar Lore]] +25, [[DATABASE/skill/Society|Society]] +21
 **Str** +4, **Dex** +2, **Con** +3, **Int** +5, **Wis** +4, **Cha** +3
-Gear _+2 [[Striking]] [[Flaming]] [[Warhammer]]_, _+1 [[Striking]] [[Light Hammer]]_ (3), leather armor, sterling blacksmith's tools
+Gear _+2 [[DATABASE/equipment/Striking|greater striking]] [[DATABASE/equipment/Flaming|greater flaming]] [[DATABASE/weapon/Warhammer|warhammer]]_, _+1 [[DATABASE/equipment/Striking|striking]] [[DATABASE/weapon/Light Hammer|light hammer]]_ (3), leather armor, sterling blacksmith's tools
 
 ---
 **AC** 24; **Fort** +19, **Ref** +13, **Will** +16
@@ -176,4 +176,4 @@ Gear _+2 [[Striking]] [[Flaming]] [[Warhammer]]_, _+1 [[Striking]] [[Light Hamme
 
 ---
 **Speed** 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _warhammer_ +20 [+15/+10] (shove), **Damage** 2d8+13 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _light hammer_ +20 [+16/+12] (agile, thrown 20 feet), **Damage** 2d6+8 bludgeoning</span><span class="in-box-ability">**Master Smith** As the most skillful blacksmith in Kovlar, Kelda's abilities far surpass those of typical smiths. She can [[Craft]] items as if she were 16th level. Additionally, she knows how to make a vast catalog of items, including numerous uncommon formulas and several rare formulas. The exact formulas she knows can be tailored to fit the needs of each particular group of PCs, but most are for weapons, armor, and other items that could reasonably be made in a forge.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _warhammer_ +20 [+15/+10] (shove), **Damage** 2d8+13 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _light hammer_ +20 [+16/+12] (agile, thrown 20 feet), **Damage** 2d6+8 bludgeoning</span><span class="in-box-ability">**Master Smith** As the most skillful blacksmith in Kovlar, Kelda's abilities far surpass those of typical smiths. She can [[DATABASE/action/Craft|Craft]] items as if she were 16th level. Additionally, she knows how to make a vast catalog of items, including numerous uncommon formulas and several rare formulas. The exact formulas she knows can be tailored to fit the needs of each particular group of PCs, but most are for weapons, armor, and other items that could reasonably be made in a forge.</span>

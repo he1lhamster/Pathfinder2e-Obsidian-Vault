@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -50,9 +51,9 @@ weapon_type: null
 ---
 # Reinforced Wheels<span class="item-type">Item 0</span>
 
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 5 sp
 **Bulk** —
 
 ---
-The chair's wheels have been reinforced with tough, metal rims or a metal cap. While in the chair, you gain a wheel Strike. Your wheel deals 1d4 bludgeoning damage and has the agile, attached, and free-hand traits. A reinforced wheel is a simple melee weapon in the [[Club]] weapon group. You can etch weapon runes onto reinforced wheels. A wheelchair can only have one attached weapon.
+The chair's wheels have been reinforced with tough, metal rims or a metal cap. While in the chair, you gain a wheel Strike. Your wheel deals 1d4 bludgeoning damage and has the agile, attached, and free-hand traits. A reinforced wheel is a simple melee weapon in the [[DATABASE/weapongroup/Club|club]] weapon group. You can etch weapon runes onto reinforced wheels. A wheelchair can only have one attached weapon.

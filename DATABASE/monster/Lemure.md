@@ -71,23 +71,23 @@ wisdom: '+0'
 ---
 # Lemure
 
-These shapeless masses of quivering flesh are the least of devilkind. Pathetic creatures from [[Hell]] first layer, lemures roam alongside damned and suffering souls. [[Pit Fiend (Tyrant Devil)]] can combine the essence of a mob of lemures to concentrate their collective wickedness with a single form, granting it an infernal sentience and transforming it into a more powerful devil (see the pit fiend's Devil Shaping ability).
-**Recall Knowledge - Fiend ([[Religion]])**: DC 14
+These shapeless masses of quivering flesh are the least of devilkind. Pathetic creatures from [[DATABASE/plane/Hell|Hell's]] first layer, lemures roam alongside damned and suffering souls. [[DATABASE/monster/Pit Fiend (Tyrant Devil)|Pit fiends]] can combine the essence of a mob of lemures to concentrate their collective wickedness with a single form, granting it an infernal sentience and transforming it into a more powerful devil (see the pit fiend's Devil Shaping ability).
+**Recall Knowledge - Fiend ([[DATABASE/skill/Religion|Religion]])**: DC 14
 **Unspecific Lore**: DC 12
 **Specific Lore**: DC 9
 
 # Lemure<span class="item-type">Creature 0</span>
 
 <span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Devil</span><span class="item-trait">Fiend</span><span class="item-trait">Mindless</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +0; greater darkvision
-**Skills** [[Athletics]] +5
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +5
 **Str** +2, **Dex** +0, **Con** +3, **Int** -5, **Wis** +0, **Cha** -3
 
 ---
 **AC** 13; **Fort** +10, **Ref** +5, **Will** +3
 **HP** 20; **Immunities** fire, mental
-; **Resistances** physical 3 (except [[Silver Weapon]]), poison 5
+; **Resistances** physical 3 (except [[DATABASE/equipment/Silver Weapon|silver]]), poison 5
 ; **Weaknesses** good 3
 
 ---

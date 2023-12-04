@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Alter Ego Dedication|Alter Ego Dedication]] or [[
   Dedication|Vigilante Dedication]]'
 rarity: Uncommon
 requirement: Your identity is hidden, either by magic or a disguise.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
 subcategory: null
@@ -27,15 +28,15 @@ type: Feat
 # It Was Me All Along! <span class="action-icon">1</span> <span class="item-type">Feat 14</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Archetype</span><span class="item-trait">Fortune</span><span class="item-trait">Mental</span>
-**Source** [[Firebrands]]
-**Archetypes** [[Alter Ego]], [[Vigilante]]
+**Source** [[DATABASE/source/Firebrands|Firebrands]]
+**Archetypes** [[DATABASE/archetype/Alter Ego|Alter Ego]], [[DATABASE/archetype/Vigilante|Vigilante]]
 **Frequency** once per day
-**Prerequisites** [[Alter Ego Dedication]], or [[Vigilante Dedication]]
+**Prerequisites** [[DATABASE/feat/Alter Ego Dedication|Alter Ego Dedication]], or [[DATABASE/feat/Vigilante Dedication|Vigilante Dedication]]
 **Access** Members of the Firebrands at the rank of second mark or higher have access to this feat.
 **Requirements** Your identity is hidden, either by magic or a disguise.
 
 ---
-You discard a disguise and dramatically reveal your true identity, catching your foes off guard. If you created your disguise using magic such as with [[Humanoid Form]] or [[Illusory Disguise]], you immediately Dismiss the spell as a free action. Stride up to your speed and attempt a [[Deception]] check to [[Feint]] one target within 30 feet. If you succeed, you roll twice and take the better result on your first attack roll against that target this turn.
+You discard a disguise and dramatically reveal your true identity, catching your foes off guard. If you created your disguise using magic such as with [[DATABASE/spell/Humanoid Form|humanoid form]] or [[DATABASE/spell/Illusory Disguise|illusory disguise]], you immediately Dismiss the spell as a free action. Stride up to your speed and attempt a [[DATABASE/skill/Deception|Deception]] check to [[DATABASE/action/Feint|Feint]] one target within 30 feet. If you succeed, you roll twice and take the better result on your first attack roll against that target this turn.
 
 ## Traits
 
@@ -53,4 +54,4 @@ A mental effect can alter the target's mind. It has no effect on an object or a 
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.

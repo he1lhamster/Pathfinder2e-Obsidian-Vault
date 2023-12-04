@@ -11,6 +11,7 @@ name: Terrain Advantage
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Terrain Advantage <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Lizardfolk</span>
-**Source** [[Character Guide]]
+**Source** [[DATABASE/source/Character Guide|Character Guide]]
 
 ---
-You can take advantage of the terrain to bypass foes’ defenses. Non-lizardfolk creatures in difficult terrain are [[Flat-Footed]] to you. If you have a swim Speed, non-lizardfolk creatures that are in water and lack a swim Speed are also flat-footed to you.
+You can take advantage of the terrain to bypass foes’ defenses. Non-lizardfolk creatures in difficult terrain are [[DATABASE/condition/Flat-Footed|flat-footed]] to you. If you have a swim Speed, non-lizardfolk creatures that are in water and lack a swim Speed are also flat-footed to you.
 
 ## Traits
 

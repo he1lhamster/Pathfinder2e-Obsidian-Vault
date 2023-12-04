@@ -12,6 +12,7 @@ prerequisite: Master in [[DATABASE/skill/Medicine|Medicine]] ; [[DATABASE/feat/P
   Agent Dedication|Pathfinder Agent Dedication]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
 subcategory: null
@@ -25,12 +26,12 @@ type: Feat
 # Snap Out of It! (Pathfinder Agent) <span class="action-icon">2</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Skill</span>
-**Source** [[PFS Guide]]
-**Archetype** [[Pathfinder Agent]]
-**Prerequisites** master in [[Medicine]]; [[Pathfinder Agent Dedication]]
+**Source** [[DATABASE/source/PFS Guide|PFS Guide]]
+**Archetype** [[DATABASE/archetype/Pathfinder Agent|Pathfinder Agent]]
+**Prerequisites** master in [[DATABASE/skill/Medicine|Medicine]]; [[DATABASE/feat/Pathfinder Agent Dedication|Pathfinder Agent Dedication]]
 
 ---
-Pathfinders are trained to help each other be safe and successful, and you know how to jolt your allies back to their senses. Attempt a [[Medicine]] check on an adjacent ally who is [[Fascinated]], [[Frightened]], [[Stunned]], or [[Stupefied]] and choose one of those conditions. The DC is the DC for the effect that caused the condition.
+Pathfinders are trained to help each other be safe and successful, and you know how to jolt your allies back to their senses. Attempt a [[DATABASE/skill/Medicine|Medicine]] check on an adjacent ally who is [[DATABASE/condition/Fascinated|fascinated]], [[DATABASE/condition/Frightened|frightened]], [[DATABASE/condition/Stunned|stunned]], or [[DATABASE/condition/Stupefied|stupefied]] and choose one of those conditions. The DC is the DC for the effect that caused the condition.
 **Critical Success** Reduce the value of the chosen condition by 2. If you chose fascinated, that condition ends.
 **Success** Reduce the value of the chosen condition by 1. If you chose fascinated, that condition ends.
 **Failure** The target is unaffected.

@@ -12,6 +12,7 @@ prerequisite: Master in [[DATABASE/skill/Crafting|Crafting]] ; [[DATABASE/feat/Q
   Snares|Quick Snares]] ; [[DATABASE/feat/Snare Specialist|Snare Specialist]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Lightning Snares <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Ranger</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Snarecrafter]]*
-**Prerequisites** master in [[Crafting]]; [[Quick Snares]]; [[Snare Specialist]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Snarecrafter|Snarecrafter]]*
+**Prerequisites** master in [[DATABASE/skill/Crafting|Crafting]]; [[DATABASE/feat/Quick Snares|Quick Snares]]; [[DATABASE/feat/Snare Specialist|Snare Specialist]]
 * This archetype offers Lightning Snares at a different level than displayed here.
 
 ---

@@ -11,6 +11,7 @@ name: Vacate Vision
 prerequisite: '[[DATABASE/feat/Oozemorph Dedication|Oozemorph Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/The Slithering|The Slithering]]'
 subcategory: null
@@ -24,13 +25,13 @@ type: Feat
 # Vacate Vision <span class="action-icon">5</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[The Slithering]]
-**Archetype** [[Oozemorph]]
-**Prerequisites** [[Oozemorph Dedication]]
+**Source** [[DATABASE/source/The Slithering|The Slithering]]
+**Archetype** [[DATABASE/archetype/Oozemorph|Oozemorph]]
+**Prerequisites** [[DATABASE/feat/Oozemorph Dedication|Oozemorph Dedication]]
 **Trigger** You fail (but don't critically fail) a saving throw against an effect with the visual trait.
 
 ---
-You cause your eyes to liquefy and run out of your eye sockets, leaving them empty. You get a success on the save against the triggering effect, but you are [[Blinded]] for the duration the effect would have had on a failure. At that time, your eyes regrow and your normal vision returns.
+You cause your eyes to liquefy and run out of your eye sockets, leaving them empty. You get a success on the save against the triggering effect, but you are [[DATABASE/condition/Blinded|blinded]] for the duration the effect would have had on a failure. At that time, your eyes regrow and your normal vision returns.
 
 ## Traits
 

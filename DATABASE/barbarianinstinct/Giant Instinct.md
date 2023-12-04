@@ -2,6 +2,7 @@
 id: '4'
 name: Giant Instinct
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait: null
 type: Barbarian Instinct
@@ -9,7 +10,7 @@ type: Barbarian Instinct
 ---
 # Giant Instinct
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Your rage gives you the raw power and size of a giant. This doesn't necessarily mean you revere giants—you might scoff at them or even aspire to slay them! You could instead seem like a giant to other people due to your exceptional strength or larger-than-life emotions and ego.
 
 ## Anathema
@@ -22,7 +23,7 @@ You can use a weapon built for a Large creature if you are Small or Medium (both
 
 ## Specialization Ability<span class="item-type">7th</span>
 
-Increase the damage from [[Rage]] when using a larger weapon from 6 to 10; if you have greater weapon specialization, increase it from 10 to 18.
+Increase the damage from [[DATABASE/action/Rage|Rage]] when using a larger weapon from 6 to 10; if you have greater weapon specialization, increase it from 10 to 18.
 
 ## Raging Resistance<span class="item-type">9th</span>
 

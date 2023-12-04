@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Enchantment
 size: null
@@ -54,10 +55,10 @@ weapon_type: null
 # Singing Bowl of the Versatile Stance<span class="item-type">Item 11</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Enchantment</span><span class="item-trait">Magical</span>
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Price** 1,175 gp
 **Usage** held in 2 hands; **Bulk** L
-**Access** follower of [[Irori]]
+**Access** follower of [[DATABASE/deity/Irori|Irori]]
 
 ---
 In true Iroran form, the simplicity of this small, inverted copper bell belies its flawlessness. When struck with a mallet (included with the singing bowl), it emits a harmonious tone that inspires bodily perfection in those who know how to hear it.

@@ -25,6 +25,7 @@ follower_alignment:
 id: '239'
 name: Skode
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Survival|Survival]]'
 source: '[[DATABASE/source/Pathfinder 176. Lost Mammoth Valley|Pathfinder #176: Lost
@@ -35,7 +36,7 @@ type: Deity
 ---
 # Skode (The Hunter) [CG]
 
-**Source** [[Pathfinder 176. Lost Mammoth Valley]]
+**Source** [[DATABASE/source/Pathfinder 176. Lost Mammoth Valley|Pathfinder #176: Lost Mammoth Valley]]
 When hunters are driven not only by necessity but also by pride, they turn to the Hunter, Skode. Primarily a giant goddess in other parts of the world, among Mammoth Lord followings Skode is depicted as a strong Kellid woman with facial tattoos, dressed in leathers and wielding spears and a longbow. She urges her followers not just to hunt prey, but to hunt the best and strongest prey. Skode's worship is most popular among young adults, particularly those who seek to fulfill coming-of-age rites, climb to higher standing among their following, woo a paramour, or earn respect from their kin. 
 Despite Skode's slightly more frivolous and competitive aspects when compared to the Provider, she still requires her followers to respect the animals they hunt and ensure nothing goes to waste. Skode's religious symbol is a sun rising over the horizon.
 **Category** Mammoth Lord Gods
@@ -46,9 +47,9 @@ Despite Skode's slightly more frivolous and competitive aspects when compared to
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Strength or Dexterity
-**Divine Font** _[[Heal]]_
-**Divine Skill** [[Survival]]
-**Favored Weapon** [[Longbow]]
-**Domains** [[Ambition Domain]], [[Confidence Domain]], [[Protection Domain]], [[Zeal Domain]]
-**Cleric Spells** 1st: _[[Negate Aroma]]_, 3rd: _[[Haste]]_, 4th: _[[Weapon Storm]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Strength or Dexterity
+**Divine Font** _[[DATABASE/spell/Heal|heal]]_
+**Divine Skill** [[DATABASE/skill/Survival|Survival]]
+**Favored Weapon** [[DATABASE/weapon/Longbow|longbow]]
+**Domains** [[DATABASE/domain/Ambition Domain|ambition]], [[DATABASE/domain/Confidence Domain|confidence]], [[DATABASE/domain/Protection Domain|protection]], [[DATABASE/domain/Zeal Domain|zeal]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Negate Aroma|negate aroma]]_, 3rd: _[[DATABASE/spell/Haste|haste]]_, 4th: _[[DATABASE/spell/Weapon Storm|weapon storm]]_

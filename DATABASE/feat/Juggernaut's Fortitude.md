@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Barbarian Dedication|Barbarian Dedication]] ; exp
   in Fortitude Saves'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Juggernaut's Fortitude <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Barbarian]]
-**Prerequisites** [[Barbarian Dedication]]; expert in Fortitude Saves
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Barbarian|Barbarian]]
+**Prerequisites** [[DATABASE/feat/Barbarian Dedication|Barbarian Dedication]]; expert in Fortitude Saves
 
 ---
 Your proficiency rank in Fortitude saves increases to master.

@@ -11,6 +11,7 @@ name: Stave Off Catastrophe
 prerequisite: '[[DATABASE/feat/Shoulder Catastrophe|Shoulder Catastrophe]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
 subcategory: null
@@ -23,12 +24,12 @@ type: Feat
 # Stave Off Catastrophe <span class="item-type">Feat 18</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[PFS Guide]]
-**Archetype** [[Swordmaster]]
-**Prerequisites** [[Shoulder Catastrophe]]
+**Source** [[DATABASE/source/PFS Guide|PFS Guide]]
+**Archetype** [[DATABASE/archetype/Swordmaster|Swordmaster]]
+**Prerequisites** [[DATABASE/feat/Shoulder Catastrophe|Shoulder Catastrophe]]
 
 ---
-You fully protect your allies from the worst blows. When you use the [[Shoulder Catastrophe]] reaction, you can choose to take the full critical damage and effects from the attack, including effects that apply on a critical hit, and have your ally take no damage and avoid the attack's effects.
+You fully protect your allies from the worst blows. When you use the [[DATABASE/feat/Shoulder Catastrophe|Shoulder Catastrophe]] reaction, you can choose to take the full critical damage and effects from the attack, including effects that apply on a critical hit, and have your ally take no damage and avoid the attack's effects.
 
 ## Traits
 

@@ -7,6 +7,7 @@ id: '1269'
 name: Grip Throat
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie Feast]]'
 trait: null
@@ -16,7 +17,7 @@ type: Action
 ---
 # Grip Throat <span class="action-icon">1</span>
 
-**Source** [[Pathfinder 181. Zombie Feast]]
+**Source** [[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie Feast]]
 
 ---
-The hand attempts to [[Grapple]] a Medium or smaller creature by the throat. If the Grapple succeeds, in addition to the normal effects, the creature has difficulty speaking. While it remains [[Grabbed]] or [[Restrained]] by the hand, it must spend an extra action to perform any action that has the verbal trait.
+The hand attempts to [[DATABASE/action/Grapple|Grapple]] a Medium or smaller creature by the throat. If the Grapple succeeds, in addition to the normal effects, the creature has difficulty speaking. While it remains [[DATABASE/condition/Grabbed|grabbed]] or [[DATABASE/condition/Restrained|restrained]] by the hand, it must spend an extra action to perform any action that has the verbal trait.

@@ -68,24 +68,24 @@ wisdom: '+3'
 # Windchaser
 
 This creature did not include a description.
-**Recall Knowledge - Beast ([[Arcana]], [[Nature]])**: DC 34
+**Recall Knowledge - Beast ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 34
 **Unspecific Lore**: DC 32
 **Specific Lore**: DC 29
 
 # Windchaser<span class="item-type">Creature 8</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CN</span><span class="trait-size item-trait">Large</span><span class="item-trait">Beast</span>
-**Source** [[Kingmaker Adventure Path]]
-Variant [[War Horse]]
-**Perception** +16; [[Low-Light Vision]], [[Scent]] (imprecise) 30 feet
-**Languages** [[Common]], [[Druidic]]
-**Skills** [[Acrobatics]] +15, [[Athletics]] +18
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
+Variant [[DATABASE/monster/War Horse|war horse]]
+**Perception** +16; [[DATABASE/monsterability/Low-Light Vision|low-light vision]], [[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Druidic|Druidic]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +15, [[DATABASE/skill/Athletics|Athletics]] +18
 **Str** +6, **Dex** +1, **Con** +6, **Int** +2, **Wis** +3, **Cha** +2
 
 ---
 **AC** 27; **Fort** +18, **Ref** +15, **Will** +16
 **HP** 138
-<span class="in-box-ability">**[[Attack of Opportunity]] <span class="action-icon">5</span> **</span><span class="in-box-ability">**[[Buck]] <span class="action-icon">5</span> ** DC 26</span>
+<span class="in-box-ability">**[[DATABASE/monsterability/Attack of Opportunity|Attack of Opportunity]] <span class="action-icon">5</span> **</span><span class="in-box-ability">**[[DATABASE/monsterability/Buck|Buck]] <span class="action-icon">5</span> ** DC 26</span>
 
 ---
 **Speed** 40 feet

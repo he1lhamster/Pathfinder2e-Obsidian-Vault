@@ -11,6 +11,7 @@ name: Snare Crafting
 prerequisite: Trained in [[DATABASE/skill/Crafting|Crafting]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: crafting
@@ -24,15 +25,15 @@ type: Feat
 # Snare Crafting <span class="item-type">Feat 1</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** trained in [[Crafting]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** trained in [[DATABASE/skill/Crafting|Crafting]]
 
 ---
-You can use the [[Craft]] activity to create snares. When you select this feat, you add the formulas for four common snares to your formula book.
+You can use the [[DATABASE/action/Craft|Craft]] activity to create snares. When you select this feat, you add the formulas for four common snares to your formula book.
 
 ## Snare Crafting Leads To...
 
-[[Big Game Trapper]], [[Snare Commando]], [[Snare Genius]], [[Snare Hopping]], [[Snare Specialist]], [[Snarecrafter Dedication]], [[Vicious Snares]]
+[[DATABASE/feat/Big Game Trapper|Big Game Trapper]], [[DATABASE/feat/Snare Commando|Snare Commando]], [[DATABASE/feat/Snare Genius|Snare Genius]], [[DATABASE/feat/Snare Hopping|Snare Hopping]], [[DATABASE/feat/Snare Specialist|Snare Specialist]], [[DATABASE/feat/Snarecrafter Dedication|Snarecrafter Dedication]], [[DATABASE/feat/Vicious Snares|Vicious Snares]]
 
 ## Traits
 

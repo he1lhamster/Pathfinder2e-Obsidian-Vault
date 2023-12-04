@@ -93,20 +93,20 @@ wisdom: '+2'
 # Phuthi
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 41
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 41
 **Unspecific Lore**: DC 39
 **Specific Lore**: DC 36
 
 # Phuthi<span class="item-type">Creature 13</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Gnoll</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 167. Ready Fight!]]
-Female [[Gnoll]] Cascade Bearer transmuter
-**Perception** +27; [[Darkvision]]
-**Languages** [[Common]], [[Draconic]], [[Gnoll]], [[Mwangi]]
-**Skills** [[Arcana]] +26, [[Athletics]] +26
+**Source** [[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]
+Female [[DATABASE/ancestry/Gnoll|gnoll]] Cascade Bearer transmuter
+**Perception** +27; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Gnoll|Gnoll]], [[DATABASE/language/Mwangi|Mwangi]]
+**Skills** [[DATABASE/skill/Arcana|Arcana]] +26, [[DATABASE/skill/Athletics|Athletics]] +26
 **Str** +3, **Dex** +3, **Con** +4, **Int** +5, **Wis** +2, **Cha** +0
-**Items** _+2 [[Striking]] [[Staff]]_
+**Items** _+2 [[DATABASE/equipment/Striking|greater striking]] [[DATABASE/weapon/Staff|staff]]_
 
 ---
 **AC** 31; **Fort** +23, **Ref** +24, **Will** +23
@@ -114,5 +114,5 @@ Female [[Gnoll]] Cascade Bearer transmuter
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _staff_ +24 [+19/+14] (magical, two-handed 3d8), **Damage** 3d4+9 bludgeoning</span>**Arcane Prepared Spells** DC 35, attack +27; **7th** _[[Elemental Form]]_, _[[Haste]]_, _[[Unfettered Pack]]_; **6th** _[[Baleful Polymorph]]_, _[[Barkskin]]_, _[[Flesh to Stone]]_, _[[Moon Frenzy]]_; **5th** _[[Black Tentacles]]_ (×2), _[[Heal]]_, _[[Tongues]]_; **4th** _[[Enlarge]]_, _[[Fly]]_ (×2), _[[Heal]]_; **3rd** _[[Haste]]_, _[[Jump]]_ (×2), _[[Slow]]_; **2nd** _[[Glitterdust]]_ (×2), _[[Invisibility]]_, _[[Longstrider]]_; **1st** _[[Fear]]_, _[[Fleet Step]]_, _[[True Strike]]_, _[[Unseen Servant]]_; **Cantrips** **(7th)** _[[Detect Magic]]_, _[[Electric Arc]]_, _[[Light]]_, _[[Produce Flame]]_, _[[Shield]]_
-<span class="in-box-ability">**[[Change Shape]]** <span class="action-icon">1</span> (concentrate, polymorph, primal, transmutation) The transmuter becomes a Medium [[Elemental, Air]] or returns to her gnoll form. As an elemental, she has a fly Speed of 60 feet, her movement doesn't trigger reactions, and the only Strike she can make is an agile gust Strike (which deals 3d8+5 bludgeoning damage plus [[Knockdown]]). She can't cast spells in this form.</span><span class="in-box-ability">**Drain Bonded Item** <span class="action-icon">4</span> (arcane) **Frequency** once per day; **Requirements** The transmuter hasn't acted yet on this turn; **Effect** During this turn, the transmuter can cast one prepared spell she has already cast, without spending a spell slot.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _staff_ +24 [+19/+14] (magical, two-handed 3d8), **Damage** 3d4+9 bludgeoning</span>**Arcane Prepared Spells** DC 35, attack +27; **7th** _[[DATABASE/spell/Elemental Form|elemental form]]_, _[[DATABASE/spell/Haste|haste]]_, _[[DATABASE/spell/Unfettered Pack|unfettered pack]]_; **6th** _[[DATABASE/spell/Baleful Polymorph|baleful polymorph]]_, _[[DATABASE/spell/Barkskin|barkskin]]_, _[[DATABASE/spell/Flesh to Stone|flesh to stone]]_, _[[DATABASE/spell/Moon Frenzy|moon frenzy]]_; **5th** _[[DATABASE/spell/Black Tentacles|black tentacles]]_ (×2), _[[DATABASE/spell/Heal|heal]]_, _[[DATABASE/spell/Tongues|tongues]]_; **4th** _[[DATABASE/spell/Enlarge|enlarge]]_, _[[DATABASE/spell/Fly|fly]]_ (×2), _[[DATABASE/spell/Heal|heal]]_; **3rd** _[[DATABASE/spell/Haste|haste]]_, _[[DATABASE/spell/Jump|jump]]_ (×2), _[[DATABASE/spell/Slow|slow]]_; **2nd** _[[DATABASE/spell/Glitterdust|glitterdust]]_ (×2), _[[DATABASE/spell/Invisibility|invisibility]]_, _[[DATABASE/spell/Longstrider|longstrider]]_; **1st** _[[DATABASE/spell/Fear|fear]]_, _[[DATABASE/spell/Fleet Step|fleet step]]_, _[[DATABASE/spell/True Strike|true strike]]_, _[[DATABASE/spell/Unseen Servant|unseen servant]]_; **Cantrips** **(7th)** _[[DATABASE/spell/Detect Magic|detect magic]]_, _[[DATABASE/spell/Electric Arc|electric arc]]_, _[[DATABASE/spell/Light|light]]_, _[[DATABASE/spell/Produce Flame|produce flame]]_, _[[DATABASE/spell/Shield|shield]]_
+<span class="in-box-ability">**[[DATABASE/monsterability/Change Shape|Change Shape]]** <span class="action-icon">1</span> (concentrate, polymorph, primal, transmutation) The transmuter becomes a Medium [[DATABASE/monsterfamily/Elemental, Air|air elemental]] or returns to her gnoll form. As an elemental, she has a fly Speed of 60 feet, her movement doesn't trigger reactions, and the only Strike she can make is an agile gust Strike (which deals 3d8+5 bludgeoning damage plus [[DATABASE/monsterability/Knockdown|Knockdown]]). She can't cast spells in this form.</span><span class="in-box-ability">**Drain Bonded Item** <span class="action-icon">4</span> (arcane) **Frequency** once per day; **Requirements** The transmuter hasn't acted yet on this turn; **Effect** During this turn, the transmuter can cast one prepared spell she has already cast, without spending a spell slot.</span>

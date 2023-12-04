@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: You're wielding the affixed firearm.
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Adaptive Cogwheel<span class="item-type">Item 2</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Magical</span><span class="item-trait">Talisman</span><span class="item-trait">Transmutation</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 5 gp
 **Usage** affixed to a firearm; **Bulk** —
 **Activate** <span class="action-icon">4</span> envision **Requirements** You're wielding the affixed firearm.

@@ -3,6 +3,7 @@ creature_family: Dragon, Copper
 id: '172'
 name: Dragon, Copper
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,18 +11,18 @@ type: Creature Family
 ---
 # Dragon, Copper
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Capricious and always eager to share a good laugh, copper dragons are among the wiliest of the metallic dragons, but this by no means interferes with their mission to spread freedom in oppressive lands. Copper dragons are hedonists who are quick to indulge in simple pleasures, but they're also sympathetic to other creatures, slow to pass judgment, and careful to always examine a situation from as many perspectives as possible. This philosophy has its drawbacks, however, as copper dragons are susceptible to negative influences and prone to forgiving the less serious evil acts performed by their chromatic cousins and other cruel creatures. Copper dragons also have a difficult time keeping their temper in check once they are roused to anger.
- Copper dragons tend to lair in warm or temperate hills, but due to their nature, they move their lairs every few years. They sometimes live among other people, especially any dwarves who reside nearby. Some copper dragons even worship gods typically worshipped only by humanoids. Among these dragons, worship of [[Cayden Cailean]] is most popular, as they see his love of freedom and penchant for alcohol aligning with the typical copper dragon mindset.
+ Copper dragons tend to lair in warm or temperate hills, but due to their nature, they move their lairs every few years. They sometimes live among other people, especially any dwarves who reside nearby. Some copper dragons even worship gods typically worshipped only by humanoids. Among these dragons, worship of [[DATABASE/deity/Cayden Cailean|Cayden Cailean]] is most popular, as they see his love of freedom and penchant for alcohol aligning with the typical copper dragon mindset.
  A copper dragon's combat tactics are as unorthodox as its sense of humor, as it is more likely to use mockery and tricks than outright strength to win its battles. As a copper dragon ages, it perfects jokes capable of rendering its foes helpless with laughter.
 
 ### Members
 
-[[Adult Copper Dragon]] (Creature 12), [[Ancient Copper Dragon]] (Creature 17), [[Young Copper Dragon]] (Creature 8)
+[[DATABASE/monster/Adult Copper Dragon|Adult Copper Dragon]] (Creature 12), [[DATABASE/monster/Ancient Copper Dragon|Ancient Copper Dragon]] (Creature 17), [[DATABASE/monster/Young Copper Dragon|Young Copper Dragon]] (Creature 8)
 
 ## Dragon, Metallic
 
-**Related Groups** [[Dragon, Brass]], [[Dragon, Bronze]], [[Dragon, Gold]], [[Dragon, Silver]]
+**Related Groups** [[DATABASE/monsterfamily/Dragon, Brass|Dragon, Brass]], [[DATABASE/monsterfamily/Dragon, Bronze|Dragon, Bronze]], [[DATABASE/monsterfamily/Dragon, Gold|Dragon, Gold]], [[DATABASE/monsterfamily/Dragon, Silver|Dragon, Silver]]
 Paragons of virtue, nobility, and grace, metallic dragons are benevolent entities revered as mythic beings akin to gods in both their power and majesty. Few have ever seen a metallic dragon firsthand, but tales of their intervention in mortals’ lives—and of their passing—always spread far and wide. Named for the way their scales resemble the shining metals humanoids use in commerce, warfare, and industry, these immense beings are diverse in their interests and abilities, and they don’t seem to mind being associated with such mundane materials. After all, to compare a gold dragon to a gold coin is like comparing an ocean to a glass of water—though they may seem similar at first glance, the raw power, breadth, and grandeur of one simply overwhelms the other.
  In addition to metallic dragons and their chromatic counterparts (page 104–115), other types of dragons roam the world and the rest of the multiverse. In the legendary lands of Tian Xia on the other side of the globe are the imperial dragons, serpentine beings who protect the cosmic balance and defend their ancient homeland. Outside the Material Plane, primal dragons such as the domineering brine dragon and reclusive cloud dragon shape the nature and goings-on of the Elemental Planes. Countless other types of dragons are sure to exist, including dragons on far-fiung planes of existence and, it is rumored, primeval dragons who soar between the stars.
 

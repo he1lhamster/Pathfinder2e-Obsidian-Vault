@@ -2,6 +2,7 @@
 id: '84'
 name: No-Prep Character. Zhang Yong
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -15,4 +16,4 @@ type: Source
 
 ## NPCs [1]
 
-[[Zhang Yong, Spirit Tender]]
+[[DATABASE/npc/Zhang Yong, Spirit Tender|Zhang Yong]]

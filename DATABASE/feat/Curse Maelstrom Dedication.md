@@ -11,6 +11,7 @@ name: Curse Maelstrom Dedication
 prerequisite: You are cursed or have previously been cursed.
 rarity: Rare
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -25,8 +26,8 @@ type: Feat
 # Curse Maelstrom Dedication <span class="item-type">Feat 2</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Archetype</span><span class="item-trait">Dedication</span>
-**Source** [[Dark Archive]]
-**Archetype** [[Curse Maelstrom]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Archetype** [[DATABASE/archetype/Curse Maelstrom|Curse Maelstrom]]
 **Prerequisites** You are cursed or have previously been cursed.
 
 ---
@@ -41,7 +42,7 @@ A horrible curse has left a lingering stain on your soul, and its effects contin
 
 ## Curse Maelstrom Dedication Leads To...
 
-[[Accursed Magic]], [[Counter Curse]], [[Familiar Oddities]], [[Share Burden]], [[Torrential Backlash]], [[Unnerving Expansion]]
+[[DATABASE/feat/Accursed Magic|Accursed Magic]], [[DATABASE/feat/Counter Curse|Counter Curse]], [[DATABASE/feat/Familiar Oddities|Familiar Oddities]], [[DATABASE/feat/Share Burden|Share Burden]], [[DATABASE/feat/Torrential Backlash|Torrential Backlash]], [[DATABASE/feat/Unnerving Expansion|Unnerving Expansion]]
 
 ## Traits
 
@@ -55,4 +56,4 @@ You must select a feat with this trait to apply an archetype to your character.
 
 **Rare:**
 
-This rarity indicates that a rules element is very difficult to find in the game world. A rare feat, spell, item or the like is available to players only if the GM decides to include it in the game, typically through discovery during play. Creatures with this trait are rare. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creatures is increased by 5.
+This rarity indicates that a rules element is very difficult to find in the game world. A rare feat, spell, item or the like is available to players only if the GM decides to include it in the game, typically through discovery during play. Creatures with this trait are rare. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creatures is increased by 5.

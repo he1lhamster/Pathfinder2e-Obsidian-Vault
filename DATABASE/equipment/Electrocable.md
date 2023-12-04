@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Electrocable<span class="item-type">Item 3</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Electricity</span><span class="item-trait">Fire</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 45 gp
 **Usage** held in 2 hands; **Bulk** L
 

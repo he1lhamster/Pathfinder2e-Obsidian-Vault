@@ -7,6 +7,7 @@ id: '321'
 name: Absorb into the Aegis
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 trait: null
@@ -16,7 +17,7 @@ type: Action
 ---
 # Absorb into the Aegis <span class="action-icon">5</span>
 
-**Source** [[Character Guide]] 
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
 **Trigger** An enemy casts a spell that targets you or an ally within 15 feet of you
 
 ---

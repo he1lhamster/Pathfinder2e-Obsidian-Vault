@@ -11,6 +11,7 @@ name: Swimming Poppet
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Swimming Poppet <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Poppet</span>
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 
 ---
 Your fins, flippers, or other accessories assist with steering you through water. You gain a swim Speed of 15 feet.

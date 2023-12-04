@@ -11,6 +11,7 @@ name: Fey's Trickery
 prerequisite: '[[DATABASE/feat/Living Vessel Dedication|Living Vessel Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Illusion
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -26,13 +27,13 @@ type: Feat
 # Fey's Trickery <span class="action-icon">2</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Illusion</span><span class="item-trait">Primal</span><span class="item-trait">Visual</span>
-**Source** [[Dark Archive]]
-**Archetype** [[Living Vessel]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Archetype** [[DATABASE/archetype/Living Vessel|Living Vessel]]
 **Frequency** once per hour
-**Prerequisites** [[Living Vessel Dedication]]; your entity is a fey
+**Prerequisites** [[DATABASE/feat/Living Vessel Dedication|Living Vessel Dedication]]; your entity is a fey
 
 ---
-You connect with the fey trickster within yourself to create whimsical illusory duplicates that distract your foes. This has the effects of [[Mirror Image]].
+You connect with the fey trickster within yourself to create whimsical illusory duplicates that distract your foes. This has the effects of [[DATABASE/spell/Mirror Image|mirror image]].
 
 ## Traits
 

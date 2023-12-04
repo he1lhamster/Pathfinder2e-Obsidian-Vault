@@ -11,6 +11,7 @@ name: Hit the Dirt!
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -23,13 +24,13 @@ type: Feat
 # Hit the Dirt! <span class="action-icon">5</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Gunslinger</span>
-**Source** [[Guns & Gears]]
-**Archetype** [[Unexpected Sharpshooter]]*
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Archetype** [[DATABASE/archetype/Unexpected Sharpshooter|Unexpected Sharpshooter]]*
 **Trigger** A creature you can see attempts a ranged Strike against you.
 * This archetype offers Hit the Dirt! at a different level than displayed here.
 
 ---
-You fling yourself out of harm's way. You [[Leap]]. Your movement gives you a +2 circumstance bonus to AC against the triggering attack. Regardless of whether or not the triggering attack hits, you land [[Prone]] after completing your Leap.
+You fling yourself out of harm's way. You [[DATABASE/action/Leap|Leap]]. Your movement gives you a +2 circumstance bonus to AC against the triggering attack. Regardless of whether or not the triggering attack hits, you land [[DATABASE/condition/Prone|prone]] after completing your Leap.
 
 ## Archetype Use
 
@@ -37,4 +38,4 @@ This feat can be used for one or more Archetypes in addition to the listed Class
 
 ## Hit the Dirt! Leads To...
 
-[[Leap and Fire]]
+[[DATABASE/feat/Leap and Fire|Leap and Fire]]

@@ -3,6 +3,7 @@ creature_family: Horse
 id: '62'
 name: Horse
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Horse
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Horses serve as mounts and beasts of burden in many societies. They are loyal and typically gentle creatures, and they are invaluable to those looking to travel long distances. Smaller folk, like gnomes and halflings, often utilize ponies as mounts, while horses are the favored steeds for humans and other Medium humanoids. Most horses that the average humanoid encounters are domesticated, though large herds of these powerful animals can be found in the wild.
 
 ### Members
 
-[[Riding Horse]] (Creature 1), [[Riding Pony]] (Creature 0), [[War Horse]] (Creature 2), [[War Pony]] (Creature 1)
+[[DATABASE/monster/Riding Horse|Riding Horse]] (Creature 1), [[DATABASE/monster/Riding Pony|Riding Pony]] (Creature 0), [[DATABASE/monster/War Horse|War Horse]] (Creature 2), [[DATABASE/monster/War Pony|War Pony]] (Creature 1)
 
 ###  Goblins and Horses
 

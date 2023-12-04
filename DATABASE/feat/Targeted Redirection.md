@@ -11,6 +11,7 @@ name: Targeted Redirection
 prerequisite: '[[DATABASE/feat/Sniping Duo Dedication|Sniping Duo Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Targeted Redirection <span class="action-icon">1</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Guns & Gears]]
-**Archetype** [[Sniping Duo]]
-**Prerequisites** [[Sniping Duo Dedication]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Archetype** [[DATABASE/archetype/Sniping Duo|Sniping Duo]]
+**Prerequisites** [[DATABASE/feat/Sniping Duo Dedication|Sniping Duo Dedication]]
 
 ---
 You aim a shot at your spotter, intending for your spotter to redirect that shot off their own weapon or shield to hit your foe from a better angle, and avoid your foe's cover. If your next action is to make a ranged Strike, you treat your spotter's position as your own for the purposes of determining cover and range. Your spotter must be within your weapon's first range increment and they must use a reaction to redirect your shot.

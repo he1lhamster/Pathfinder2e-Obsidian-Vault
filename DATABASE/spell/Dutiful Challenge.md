@@ -22,6 +22,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -36,8 +37,8 @@ type: Focus
 # Dutiful Challenge<span class="item-type">Focus 4</span>
 
 <span class="item-trait">Abjuration</span>
-**Source** [[Gods & Magic]] 
-**Domain** [[Duty Domain]]
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
+**Domain** [[DATABASE/domain/Duty Domain|duty]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet; **Targets** 1 creature
 **Duration** 1 minute

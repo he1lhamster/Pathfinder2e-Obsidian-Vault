@@ -66,16 +66,16 @@ wisdom: '+2'
 # Mastodon
 
 Not to be confused with the larger mammoth, mastodons are primeval elephants who dwell predominantly in temperate forests. There, they travel in close-knit social groups and feed on the forest vegetation.
-**Recall Knowledge - Animal ([[Nature]])**: DC 26
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 26
 **Unspecific Lore**: DC 24
 **Specific Lore**: DC 21
 
 # Mastodon<span class="item-type">Creature 9</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Huge</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary 2]] 
-**Perception** +17; [[Low-Light Vision]], [[Scent]]
-**Skills** [[Athletics]] +21, [[Stealth]] +17
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +17; [[DATABASE/monsterability/Low-Light Vision|low-light vision]], [[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +21, [[DATABASE/skill/Stealth|Stealth]] +17
 **Str** +8, **Dex** +0, **Con** +5, **Int** -4, **Wis** +2, **Cha** -2
 
 ---
@@ -84,4 +84,4 @@ Not to be confused with the larger mammoth, mastodons are primeval elephants who
 
 ---
 **Speed** 45 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> tusk +21 [+16/+11] (reach 15 feet), **Damage** 3d8+12 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> trunk +21 [+16/+11] (reach 15 feet), **Effect** grabbing trunk</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> foot +21 [+16/+11] (reach 10 feet), **Damage** 2d10+12 bludgeoning</span><span class="in-box-ability">**Dual Tusks** <span class="action-icon">1</span> The mastodon makes two tusk Strikes, each against a different creature. This counts as one attack for the mastodon's multiple attack penalty, and the penalty doesn't increase until after both attacks.</span><span class="in-box-ability">**Grabbing Trunk** A Medium or smaller creature hit by the mastodon's trunk is [[Grabbed]]. If the mastodon moves, it can bring the grabbed creature along with it.</span><span class="in-box-ability">**[[Trample]]** <span class="action-icon">3</span> Large or smaller, foot, DC 27</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> tusk +21 [+16/+11] (reach 15 feet), **Damage** 3d8+12 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> trunk +21 [+16/+11] (reach 15 feet), **Effect** grabbing trunk</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> foot +21 [+16/+11] (reach 10 feet), **Damage** 2d10+12 bludgeoning</span><span class="in-box-ability">**Dual Tusks** <span class="action-icon">1</span> The mastodon makes two tusk Strikes, each against a different creature. This counts as one attack for the mastodon's multiple attack penalty, and the penalty doesn't increase until after both attacks.</span><span class="in-box-ability">**Grabbing Trunk** A Medium or smaller creature hit by the mastodon's trunk is [[DATABASE/condition/Grabbed|grabbed]]. If the mastodon moves, it can bring the grabbed creature along with it.</span><span class="in-box-ability">**[[DATABASE/monsterability/Trample|Trample]]** <span class="action-icon">3</span> Large or smaller, foot, DC 27</span>

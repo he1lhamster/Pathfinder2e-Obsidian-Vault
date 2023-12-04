@@ -20,6 +20,7 @@ patron_theme: null
 range: 10 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
@@ -38,7 +39,7 @@ type: Spell
 # Instant Pottery<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Earth</span><span class="item-trait">Manipulate</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Traditions** arcane, primal
 **Cast** 1 minute
 **Range** 10 feet

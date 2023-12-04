@@ -13,6 +13,7 @@ rarity: Common
 requirement: Your last action was a successful Spellstrike, and the spell you cast
   dealt energy damage (acid,cold, electricity, fire, force, negative, positive, or
   sonic).
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -26,8 +27,8 @@ type: Feat
 # Cascading Ray <span class="action-icon">1</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Attack</span><span class="item-trait">Magus</span>
-**Source** [[Secrets of Magic]] 
-**Prerequisites** [[Spellstrike]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
+**Prerequisites** [[DATABASE/action/Spellstrike|Spellstrike]]
 **Requirements** Your last action was a successful Spellstrike, and the spell you cast dealt energy damage (acid, cold, electricity, fire, force, negative, positive, or sonic).
 
 ---

@@ -78,24 +78,24 @@ wisdom: '+1'
 # Tar Zombie Snatcher
 
 Humanoids consumed by a tar ooze become sticky warriors in the tar ooze's mindless procession. Some carry weapons.
-**Recall Knowledge - Undead ([[Religion]])**: DC 24
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 24
 **Unspecific Lore**: DC 22
 **Specific Lore**: DC 19
 
 # Tar Zombie Snatcher<span class="item-type">Creature 6</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Mindless</span><span class="item-trait">Undead</span><span class="item-trait">Zombie</span>
-**Source** [[Pathfinder 177. Burning Tundra]]
-**Perception** +12; [[Darkvision]]
-**Skills** [[Athletics]] +15, [[Stealth]] +10 (+14 in tar pits)
+**Source** [[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burning Tundra]]
+**Perception** +12; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +15, [[DATABASE/skill/Stealth|Stealth]] +10 (+14 in tar pits)
 **Str** +5, **Dex** +0, **Con** +4, **Int** -5, **Wis** +1, **Cha** -3
-**Slow** A tar zombie is permanently [[Slowed]] and can't use reactions.
+**Slow** A tar zombie is permanently [[DATABASE/condition/Slowed|slowed 1]] and can't use reactions.
 
 ---
 **AC** 22; **Fort** +18, **Ref** +10, **Will** +13
-**HP** 130 ([[Negative Healing]]); **Immunities** death effects, disease, mental, [[Paralyzed]], poison, [[Unconscious]]; **Weaknesses** fire 5, positive 5, slashing 5
-<span class="in-box-ability">**Flammable** A tar zombie requires a successful DC 20 flat check to recover from [[Persistent Damage]]. This DC isn't reduced for assisted recovery.</span>
+**HP** 130 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects, disease, mental, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Unconscious|unconscious]]; **Weaknesses** fire 5, positive 5, slashing 5
+<span class="in-box-ability">**Flammable** A tar zombie requires a successful DC 20 flat check to recover from [[DATABASE/condition/Persistent Damage|persistent fire damage]]. This DC isn't reduced for assisted recovery.</span>
 
 ---
 **Speed** 25 feet, climb 10 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +17 [+12/+7], **Damage** 2d8+8 bludgeoning plus [[Improved Grab]]</span><span class="in-box-ability">**Vomit Tar** <span class="action-icon">2</span> (evocation, primal) The tar zombie vomits a gout of sticky tar in a 15-foot cone that deals 5d6 bludgeoning damage (DC 24 basic Reflex save). Creatures that fail the save are [[Slowed]] and gain fire weakness 5. Both conditions end after 3 rounds or when the tar is scrubbed off (which requires 3 Interact actions). The tar zombie can't Vomit Tar again for 1d4 rounds.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +17 [+12/+7], **Damage** 2d8+8 bludgeoning plus [[DATABASE/monsterability/Improved Grab|Improved Grab]]</span><span class="in-box-ability">**Vomit Tar** <span class="action-icon">2</span> (evocation, primal) The tar zombie vomits a gout of sticky tar in a 15-foot cone that deals 5d6 bludgeoning damage (DC 24 basic Reflex save). Creatures that fail the save are [[DATABASE/condition/Slowed|slowed 1]] and gain fire weakness 5. Both conditions end after 3 rounds or when the tar is scrubbed off (which requires 3 Interact actions). The tar zombie can't Vomit Tar again for 1d4 rounds.</span>

@@ -11,6 +11,7 @@ name: Steadfast Ally
 prerequisite: '[[DATABASE/feat/Loyal Empath|Loyal Empath]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 153. Life''s Long Shadows|Pathfinder #153: Life''s
   Long Shadows]]'
@@ -24,14 +25,12 @@ type: Feat
 # Steadfast Ally <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Shoony</span>
-**Source** [[Pathfinder 153. Life's Long Shadows]]
-**Prerequisites** [[Loyal Empath]]
+**Source** [[DATABASE/source/Pathfinder 153. Life's Long Shadows|Pathfinder #153: Life's Long Shadows]]
+**Prerequisites** [[DATABASE/feat/Loyal Empath|Loyal Empath]]
 
 ---
-Your presence alone is enough to provide your allies with emotional support. You can use the [[Aid]] reaction to grant a bonus to another creature’s Will saving throw even when you haven’t prepared to help.
+Your presence alone is enough to provide your allies with emotional support. You can use the [[DATABASE/action/Aid|Aid]] reaction to grant a bonus to another creature’s Will saving throw even when you haven’t prepared to help.
 
 ## Traits
 
 **Shoony:**
-
-_Note from Nethys: no description was provided for this trait_

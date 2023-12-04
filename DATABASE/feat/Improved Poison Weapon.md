@@ -11,6 +11,7 @@ name: Improved Poison Weapon
 prerequisite: '[[DATABASE/feat/Poison Weapon|Poison Weapon]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Improved Poison Weapon <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Rogue</span>
-**Source** [[Core Rulebook]] 
-**Archetypes** [[Assassin]]*, [[Poisoner]]*
-**Prerequisites** [[Poison Weapon]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetypes** [[DATABASE/archetype/Assassin|Assassin]]*, [[DATABASE/archetype/Poisoner|Poisoner]]*
+**Prerequisites** [[DATABASE/feat/Poison Weapon|Poison Weapon]]
 * This archetype offers Improved Poison Weapon at a different level than displayed here.
 
 ---
@@ -37,4 +38,4 @@ This feat can be used for one or more Archetypes in addition to the listed Class
 
 ## Improved Poison Weapon Leads To...
 
-[[Deadly Poison Weapon]]
+[[DATABASE/feat/Deadly Poison Weapon|Deadly Poison Weapon]]

@@ -77,24 +77,24 @@ wisdom: '+0'
 # Mechanical Laborer
 
 This creature did not include a description.
-**Recall Knowledge - Construct ([[Arcana]], [[Crafting]])**: DC 22
+**Recall Knowledge - Construct ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Crafting|Crafting]])**: DC 22
 **Unspecific Lore**: DC 20
 **Specific Lore**: DC 17
 
 # Mechanical Laborer<span class="item-type">Creature 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Construct</span><span class="item-trait">Earth</span><span class="item-trait">Mindless</span>
-**Source** [[Pathfinder 182. Graveclaw]]
-Variant [[Animated Statue]]
-**Perception** +11; [[Darkvision]]
-**Skills** [[Athletics]] +14
+**Source** [[DATABASE/source/Pathfinder 182. Graveclaw|Pathfinder #182: Graveclaw]]
+Variant [[DATABASE/monster/Animated Statue|animated statue]]
+**Perception** +11; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +14
 **Str** +5, **Dex** +1, **Con** +4, **Int** -5, **Wis** +0, **Cha** -5
 
 ---
 **AC** 22 (18 when broken, construct armor); **Fort** +15, **Ref** +10, **Will** +8
-**HP** 55; **Hardness** 8; **Immunities** death effects, disease, [[Doomed]], [[Drained]], [[Fatigued]], healing, mental, necromancy, nonlethal attacks, [[Paralyzed]], poison, [[Sickened]], [[Unconscious]]
+**HP** 55; **Hardness** 8; **Immunities** death effects, disease, [[DATABASE/condition/Doomed|doomed]], [[DATABASE/condition/Drained|drained]], [[DATABASE/condition/Fatigued|fatigued]], healing, mental, necromancy, nonlethal attacks, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Sickened|sickened]], [[DATABASE/condition/Unconscious|unconscious]]
 <span class="in-box-ability">**Construct Armor** Like normal objects, a mechanical laborer has Hardness. This Hardness reduces any damage it takes by 8. Once a mechanical laborer is reduced to less than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks. It loses its Hardness, and its Armor Class is reduced to 18.</span>
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +15 [+10/+5] (magical), **Damage** 2d8+7 bludgeoning plus [[Grab]]</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +15 [+10/+5] (magical), **Damage** 2d8+7 bludgeoning plus [[DATABASE/monsterability/Grab|Grab]]</span>

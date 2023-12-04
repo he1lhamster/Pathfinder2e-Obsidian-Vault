@@ -11,6 +11,7 @@ name: Debilitating Dichotomy
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Debilitating Dichotomy <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Oracle</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
-You can give others a glimpse of the impossible conflicts and unchecked power that courses through your body. You learn the [[Debilitating Dichotomy]] revelation spell. Increase the number of Focus Points in your focus pool by 1.
+You can give others a glimpse of the impossible conflicts and unchecked power that courses through your body. You learn the [[DATABASE/spell/Debilitating Dichotomy|debilitating dichotomy]] revelation spell. Increase the number of Focus Points in your focus pool by 1.

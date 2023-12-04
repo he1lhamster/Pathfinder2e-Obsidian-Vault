@@ -14,6 +14,7 @@ name: Siphoning Spirit
 rarity: Common
 reflex: null
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 trait:
@@ -27,17 +28,17 @@ will: null
 # Siphoning Spirit<span class="item-type">Hazard 19</span>
 
 <span class="item-trait">Complex</span><span class="item-trait">Haunt</span>
-**Source** [[Book of the Dead]]
+**Source** [[DATABASE/source/Book of the Dead|Book of the Dead]]
 **Complexity** Complex
 **Stealth** +40 (trained)
 **Description** A formless spirit drains life from the living, becoming progressively visible as its victims weaken.
 
 ---
-**Disable** DC 48 [[Occultism]] or [[Religion]] (expert) to weaken the spirit; four total successes are required to disable the haunt
+**Disable** DC 48 [[DATABASE/skill/Occultism|Occultism]] or [[DATABASE/skill/Religion|Religion]] (expert) to weaken the spirit; four total successes are required to disable the haunt
 **Sudden Siphon** <span class="action-icon">5</span> (divine, necromancy, negative) **Trigger** A living creature passes within 15 feet of the spirit; **Effect** The invisible spirit latches onto the life essence of the living, dealing 4d10+20 negative damage to all living creatures within 60 feet (DC 41 basic Fortitude save). The haunt then rolls initiative.
 **Critical Success** The creature is unaffected.
 **Success** The creature takes half damage.
-**Failure** The creature takes full damage and increases its [[Drained]] value by 1, to a maximum of drained 4.
+**Failure** The creature takes full damage and increases its [[DATABASE/condition/Drained|drained]] value by 1, to a maximum of drained 4.
 **Critical Failure** The creature takes double damage and increases its drained value by 2, to a maximum of drained 4. If the creature was already drained 4, it dies.
 
 ---

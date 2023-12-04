@@ -19,6 +19,7 @@ patron_theme: null
 range: 120 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Reflex (see text)
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
@@ -38,14 +39,14 @@ type: Spell
 # Freezing Rain<span class="item-type">Spell 5</span>
 
 <span class="item-trait">Cold</span><span class="item-trait">Concentrate</span><span class="item-trait">Manipulate</span><span class="item-trait">Water</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Traditions** arcane, primal
 **Cast** <span class="action-icon">3</span> 
 **Range** 120 feet; **Area** 20-foot burst
 **Defense** Reflex (see text); **Duration** sustained up to 10 minutes
 
 ---
-Intense cold rain comes from nowhere, a microcosm of a sudden downpour, and a magical tweak can turn the rain to freezing sleet. The driving rain and pooling water make the area difficult terrain and extinguish non-magical fires. On subsequent rounds, the first time you Sustain the spell each round, you can move the area up to 20 feet and can also freeze the rain. If you freeze the rain, each creature in the area takes 4d6 cold damage and might be [[Slowed]], depending on result of its Reflex save.
+Intense cold rain comes from nowhere, a microcosm of a sudden downpour, and a magical tweak can turn the rain to freezing sleet. The driving rain and pooling water make the area difficult terrain and extinguish non-magical fires. On subsequent rounds, the first time you Sustain the spell each round, you can move the area up to 20 feet and can also freeze the rain. If you freeze the rain, each creature in the area takes 4d6 cold damage and might be [[DATABASE/condition/Slowed|slowed]], depending on result of its Reflex save.
 **Critical Success** The creature is unaffected.
 **Success** The creature takes half damage.
 **Failure** The creature takes full damage and is slowed 1 for 1 round.

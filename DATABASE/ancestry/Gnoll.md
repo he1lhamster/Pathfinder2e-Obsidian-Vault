@@ -18,6 +18,7 @@ language:
 max_speed: '25'
 name: Gnoll
 rarity: Uncommon
+rus_type_level: null
 size: Medium
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 speed:
@@ -33,7 +34,7 @@ vision: Low-Light Vision
 # Gnoll
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Gnoll</span><span class="item-trait">Humanoid</span>
-**Source** [[The Mwangi Expanse]] 
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]] 
 _Powerfully-built humanoids that resemble hyenas, gnolls are cunning warriors and hunters. Their frightening visage and efficient tactics have given them an ill-starred reputation._
 In lands to the east, such as Katapesh, gnolls have earned themselves well-deserved reputations as brutal slavers and demon-worshippers. Even in the Mwangi Expanse, many outsiders believe that gnolls are witches, cannibals, and worse. The truth is more complex.
  Mwangi gnolls, known to themselves as “kholo,” are eminently practical and pragmatic hunters and raiders. To gnolls, honor is just another word for pointless risk. Any loss of a gnoll affects not just the individual, but their packmates and kin as well. Wasting time on anything but victory, whether it's mercy or cruelty, is seen as little shy of immoral. Gnolls see effectiveness as a cardinal virtue and believe that the best fight is one that never gives the opponent a chance to strike back. Mwangi gnolls are masters of ambushes, tactical feints, and psychological warfare—none of which endears them to their neighbors.
@@ -64,12 +65,12 @@ Kholo generally live in clans of 10 to 20 interrelated family groups, containing
 ## Alignment and Religion
 
 Mwangi gnolls have an unsentimental, matter-of-fact approach to life, and prioritize results over methods. They are usually loyal and generous to their people and ruthless toward outsiders—gnolls are typically chaotic neutral but can skew good or evil depending on who they view as “their people.”
- Gnolls appeal to their ancestors on a day-to-day basis, invoking their kin to bless cubs, ward off disease, or grant luck on hunts. Gnolls call upon the gods on special occasions or in times of great crisis. Most kholo give homage to [[Calistria]] and [[Shelyn]] as the Elder and Younger Sisters, twin goddesses of power and beauty. [[Nethys]], the Brother, is the patron of bonekeepers, and [[Lamashtu]], while a popular deity in other gnoll societies, is propitiated as the Old Mother, a goddess called upon only as a very last resort, and otherwise begged to stay away.
+ Gnolls appeal to their ancestors on a day-to-day basis, invoking their kin to bless cubs, ward off disease, or grant luck on hunts. Gnolls call upon the gods on special occasions or in times of great crisis. Most kholo give homage to [[DATABASE/deity/Calistria|Calistria]] and [[DATABASE/deity/Shelyn|Shelyn]] as the Elder and Younger Sisters, twin goddesses of power and beauty. [[DATABASE/deity/Nethys|Nethys]], the Brother, is the patron of bonekeepers, and [[DATABASE/deity/Lamashtu|Lamashtu]], while a popular deity in other gnoll societies, is propitiated as the Old Mother, a goddess called upon only as a very last resort, and otherwise begged to stay away.
 
 ## Adventurers
 
 Some gnolls leave their clans to work as mercenaries and adventurers, learning new skills, earning wealth, and gaining allies that will one day benefit their people. Other adventuring gnolls are without clans, left orphaned by some disaster or exiled, fairly or not, for some crime. All gnolls are strongly pack-minded and tend to adopt their friends as honorary gnolls and packmates.
- Gnolls usually hail from the [[Animal Whisperer]], [[Entertainer]], [[Herbalist]], [[Hunter]], [[Nomad]], [[Scout]], and [[Warrior]] backgrounds. The [[Ranger]] is the archetypal gnoll class, a cunning warrior of the wilderness, but gnolls also make excellent [[Barbarian]] and [[Fighter]], and their love of clever tricks make them outstanding [[Rogue]]. Bonekeepers are usually [[Witch]], treating ancestral spirits more like squabbling colleagues than objects of worship, while storytellers are typically [[Bard]].
+ Gnolls usually hail from the [[DATABASE/background/Animal Whisperer|animal whisperer]], [[DATABASE/background/Entertainer|entertainer]], [[DATABASE/background/Herbalist|herbalist]], [[DATABASE/background/Hunter|hunter]], [[DATABASE/background/Nomad|nomad]], [[DATABASE/background/Scout|scout]], and [[DATABASE/background/Warrior|warrior]] backgrounds. The [[DATABASE/class_/Ranger|ranger]] is the archetypal gnoll class, a cunning warrior of the wilderness, but gnolls also make excellent [[DATABASE/class_/Barbarian|barbarians]] and [[DATABASE/class_/Fighter|fighters]], and their love of clever tricks make them outstanding [[DATABASE/class_/Rogue|rogues]]. Bonekeepers are usually [[DATABASE/class_/Witch|witches]], treating ancestral spirits more like squabbling colleagues than objects of worship, while storytellers are typically [[DATABASE/class_/Bard|bards]].
 
 ## Names
 
@@ -105,14 +106,14 @@ Wisdom
 
 ## Languages
 
-[[Common]]
-[[Gnoll]]
-Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[Draconic]], [[Elven]], [[Iruxi]], [[Necril]], [[Orcish]], [[Sylvan]], and any other languages to which you have access (such as the languages prevalent in your region).
+[[DATABASE/language/Common|Common]]
+[[DATABASE/language/Gnoll|Gnoll]]
+Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Elven|Elven]], [[DATABASE/language/Iruxi|Iruxi]], [[DATABASE/language/Necril|Necril]], [[DATABASE/language/Orcish|Orcish]], [[DATABASE/language/Sylvan|Sylvan]], and any other languages to which you have access (such as the languages prevalent in your region).
 
 ## Low-Light Vision
 
-You can see in dim light as though it were bright light, and you ignore the [[Concealed]] condition due to dim light.
+You can see in dim light as though it were bright light, and you ignore the [[DATABASE/condition/Concealed|concealed]] condition due to dim light.
 
 ## Bite
 
-Your sharp teeth and powerful jaws are fearsome weapons. You have a jaws unarmed attack that deals 1d6 piercing damage. Your jaws are in the [[Brawling]] group.
+Your sharp teeth and powerful jaws are fearsome weapons. You have a jaws unarmed attack that deals 1d6 piercing damage. Your jaws are in the [[DATABASE/weapongroup/Brawling|brawling]] group.

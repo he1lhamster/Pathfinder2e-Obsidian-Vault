@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: DC 21 Fortitude
 school: null
 size: null
@@ -57,11 +58,11 @@ weapon_type: null
 # Brightshade<span class="item-type">Item 4</span>
 
 <span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Injury</span><span class="item-trait">Poison</span><span class="item-trait">Positive</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 18 gp
 **Usage** held in 2 hands; **Bulk** L
 **Activate** <span class="action-icon">2</span> Interact
 
 ---
-Brewed from a plant native to the [[First World]], brightshade destroys tissue, living or dead. Victims of this poison take poison damage if they're alive and positive damage if they're undead.
+Brewed from a plant native to the [[DATABASE/plane/First World|First World]], brightshade destroys tissue, living or dead. Victims of this poison take poison damage if they're alive and positive damage if they're undead.
  **Saving Throw** DC 21 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 1d6 poison or positive damage (1 round); **Stage 2** 2d6 poison or positive damage (1 round)

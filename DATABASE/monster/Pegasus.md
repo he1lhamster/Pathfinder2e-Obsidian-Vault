@@ -91,17 +91,17 @@ The pegasus is a winged horse prized for its capacity to serve as an aerial moun
  Pegasi are highly intelligent beasts and have a strong sense of pride and honor. The best way to entreat a pegasus is by speaking to it with grace and offering gifts appropriate to a creature of such majesty. Prospective riders who seek the mount for a worthy cause or virtuous quest have a much easier time coaxing a pegasus into granting its favor. Regardless, a pegasus never accepts a bit or saddle, for reasons both practical (a standard horse saddle interferes with its wings) and purely egotistical.
  In the wild, pegasi live in small herds and establish territories on remote mountains where they are relatively safe from hunters and slavers. They mature at the same rate as horses and can even breed with other equines, though the outcome of such unions is typically a foal with the traits of its least magical parent. On rare occasions, the interbreeding of a pegasus and a unicorn may result in a winged unicorn with characteristics of both parents and an unrivaled sense of righteousness.
  Some pegasi carry in them the blood of a mighty and heroic ancestor. These champions of pegasus-kind dedicate their long lives to the pursuit of justice. They possess powerful supernatural abilities to aid them in this fight, such as resistance to fire and poison, immunity to petrification, and holy hoof attacks.
-**Recall Knowledge - Beast ([[Arcana]], [[Nature]])**: DC 18
+**Recall Knowledge - Beast ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Pegasus<span class="item-type">Creature 3</span>
 
 <span class="trait-alignment item-trait">NG</span><span class="trait-size item-trait">Large</span><span class="item-trait">Beast</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +12; darkvision, scent (imprecise) 30 feet
-**Languages** [[Common]]; (can’t speak any language)
-**Skills** [[Acrobatics]] +11, [[Athletics]] +10
+**Languages** [[DATABASE/language/Common|Common]]; (can’t speak any language)
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +11, [[DATABASE/skill/Athletics|Athletics]] +10
 **Str** +3, **Dex** +4, **Con** +2, **Int** +0, **Wis** +2, **Cha** +3
 
 ---

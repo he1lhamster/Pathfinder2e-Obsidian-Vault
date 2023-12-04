@@ -11,6 +11,7 @@ name: Look Again
 prerequisite: '[[DATABASE/feat/Captivator Dedication|Captivator Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
 subcategory: null
@@ -24,10 +25,10 @@ type: Feat
 # Look Again <span class="action-icon">1</span> <span class="item-type">Feat 18</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Metamagic</span>
-**Source** [[Grand Bazaar]]
-**Archetype** [[Captivator]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
+**Archetype** [[DATABASE/archetype/Captivator|Captivator]]
 **Frequency** once per day
-**Prerequisites** [[Captivator Dedication]]
+**Prerequisites** [[DATABASE/feat/Captivator Dedication|Captivator Dedication]]
 
 ---
 If your illusions or enchantments fail to ensnare the minds of others, you can cast them again. If your next action is to cast an innate enchantment or illusion spell and it fails to affect any targets, you do not lose the spell. You must use the same number of actions to recast the same spell on your following turn; if you can't, or choose not to, you waste that number of actions with no effect. After this second casting, you lose the spell whether it affected any targets or not. Look Again works only with spells that require targets and doesn't do anything if you cast a targeted spell but didn't select any targets.

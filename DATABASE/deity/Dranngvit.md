@@ -25,6 +25,7 @@ follower_alignment:
 id: '86'
 name: Dranngvit
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Intimidation|Intimidation]]'
 source: '[[DATABASE/source/Highhelm|Highhelm]]'
@@ -34,21 +35,21 @@ type: Deity
 ---
 # Dranngvit (The Debt Minder) [LN]
 
-**Source** [[Highhelm]], [[Gods & Magic]] 
-Most dwarves consider the dour goddess Dranngvit to be a necessary evil, a harsh and acrimonious deity to whom one turns only when all other options have been exhausted. Dwarven legend holds that she was once betrothed to [[Torag]] and destined to become queen of the dwarven pantheon, only to be denied her promised throne when Torag fell in love with and chose [[Folgrit]] as his bride instead. Humiliated and embittered, Dranngvit withdrew from Forgeheart, the [[Heaven]] domain of the dwarven gods, to dwell forever in self-imposed exile far from the rest of her pantheon with her great hound Hefnd as her sole companion.
+**Source** [[DATABASE/source/Highhelm|Highhelm]], [[DATABASE/source/Gods & Magic|Gods & Magic]] 
+Most dwarves consider the dour goddess Dranngvit to be a necessary evil, a harsh and acrimonious deity to whom one turns only when all other options have been exhausted. Dwarven legend holds that she was once betrothed to [[DATABASE/deity/Torag|Torag]] and destined to become queen of the dwarven pantheon, only to be denied her promised throne when Torag fell in love with and chose [[DATABASE/deity/Folgrit|Folgrit]] as his bride instead. Humiliated and embittered, Dranngvit withdrew from Forgeheart, the [[DATABASE/plane/Heaven|Heavenly]] domain of the dwarven gods, to dwell forever in self-imposed exile far from the rest of her pantheon with her great hound Hefnd as her sole companion.
 **Category** Dwarven Gods
 **Edicts** Help reclaim just debts, seek appropriate vengeance against transgressions
 **Anathema** Allow a slight to go unrecognized, avoid repaying a debt, force others into debts you know are unpayable
 **Areas of Concern** debt, pursuit, vengeance
 **Follower Alignments** LN, LE
-**Pantheons** [[Dwarven Pantheon]]
+**Pantheons** [[DATABASE/deity/Dwarven Pantheon|Dwarven Pantheon]]
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Constitution or Wisdom
-**Divine Font** _[[Harm]]_ or _[[Heal]]_
-**Divine Skill** [[Intimidation]]
-**Favored Weapon** [[Light Pick]]
-**Domains** [[Knowledge Domain]], [[Might Domain]], [[Travel Domain]], [[Vigil Domain]]
-**Alternate Domains** [[Fate Domain]], [[Truth Domain]]
-**Cleric Spells** 1st: _[[Longstrider]]_, 2nd: _[[Knock]]_, 5th: _[[Passwall]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Constitution or Wisdom
+**Divine Font** _[[DATABASE/spell/Harm|harm]]_ or _[[DATABASE/spell/Heal|heal]]_
+**Divine Skill** [[DATABASE/skill/Intimidation|Intimidation]]
+**Favored Weapon** [[DATABASE/weapon/Light Pick|light pick]]
+**Domains** [[DATABASE/domain/Knowledge Domain|knowledge]], [[DATABASE/domain/Might Domain|might]], [[DATABASE/domain/Travel Domain|travel]], [[DATABASE/domain/Vigil Domain|vigil]]
+**Alternate Domains** [[DATABASE/domain/Fate Domain|fate]], [[DATABASE/domain/Truth Domain|truth]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Longstrider|longstrider]]_, 2nd: _[[DATABASE/spell/Knock|knock]]_, 5th: _[[DATABASE/spell/Passwall|passwall]]_

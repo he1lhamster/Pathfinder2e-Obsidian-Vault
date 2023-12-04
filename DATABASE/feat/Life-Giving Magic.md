@@ -11,6 +11,7 @@ name: Life-Giving Magic
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Life-Giving Magic <span class="action-icon">5</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Gnome</span>
-**Source** [[Character Guide]] 
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
 **Frequency** once per minute
 **Trigger** You cast an innate spell from a gnome heritage or ancestry feat.
 
@@ -34,4 +35,4 @@ The upwelling of innate magic refreshes your body. You gain a number of temporar
 
 **Gnome:**
 
-A creature with this trait is a member of the gnome ancestry. Gnomes are small people skilled at magic who seek out new experiences and usually have [[Low-Light Vision]]. An ability with this trait can be used or selected only by gnomes. A weapon with this trait is created and used by gnomes.
+A creature with this trait is a member of the gnome ancestry. Gnomes are small people skilled at magic who seek out new experiences and usually have [[DATABASE/monsterability/Low-Light Vision|low-light vision]]. An ability with this trait can be used or selected only by gnomes. A weapon with this trait is created and used by gnomes.

@@ -17,6 +17,7 @@ name: Spiked Doorframe
 rarity: Common
 reflex: '+8'
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 145. Hellknight Hill|Pathfinder #145: Hellknight
   Hill]]'
@@ -31,13 +32,13 @@ will: null
 # Spiked Doorframe<span class="item-type">Hazard 4</span>
 
 <span class="item-trait">Mechanical</span><span class="item-trait">Trap</span>
-**Source** [[Pathfinder 145. Hellknight Hill]]
+**Source** [[DATABASE/source/Pathfinder 145. Hellknight Hill|Pathfinder #145: Hellknight Hill]]
 **Complexity** Simple
 **Stealth** DC 25 (trained)
 **Description** Spikes lance out of the doorframe to skewer anyone who attempts to open the door.
 
 ---
-**Disable** [[Thievery]] DC 20 (trained) to deactivate a trigger built into the door's handle
+**Disable** [[DATABASE/skill/Thievery|Thievery]] DC 20 (trained) to deactivate a trigger built into the door's handle
 **AC** 21, **Fort** +12, **Ref** +8
 **Hardness** 11, **HP** 44 (BT 22); **Immunities** critical hits, object immunities, precision damage
 **Spikes** <span class="action-icon">1</span> (attack); **Trigger** The door is opened. **Effect** The trap makes an attack against the creature that opened the door.

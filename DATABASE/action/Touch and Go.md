@@ -7,6 +7,7 @@ id: '1454'
 name: Touch and Go
 rarity: Common
 requirement: You're wielding a [[DATABASE/trait/Combination|combination]] weapon.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 trait:
@@ -18,7 +19,7 @@ type: Action
 # Touch and Go <span class="action-icon">1</span>
 
 <span class="item-trait">Gunslinger</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 **Requirements** You're wielding a combination weapon.
 
 ---

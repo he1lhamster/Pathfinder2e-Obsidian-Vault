@@ -11,6 +11,7 @@ name: Sever Magic
 prerequisite: null
 rarity: Common
 requirement: You're holding animplement.
+rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -26,7 +27,7 @@ type: Feat
 # Sever Magic <span class="action-icon">2</span> <span class="item-type">Feat 16</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Arcane</span><span class="item-trait">Esoterica</span><span class="item-trait">Thaumaturge</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Requirements** You're holding an implement.
 
 ---

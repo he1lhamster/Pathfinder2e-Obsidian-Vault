@@ -13,6 +13,7 @@ prerequisite: Master in [[DATABASE/skill/Survival|Survival]] ; deity who grants 
   Domain|nature]] , or [[DATABASE/domain/Travel Domain|travel]] domain
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
 subcategory: survival
@@ -26,8 +27,8 @@ type: Feat
 # Environmental Grace <span class="item-type">Feat 7</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Gods & Magic]] 
-**Prerequisites** master in [[Survival]]; deity who grants the [[Cold Domain]], [[Fire Domain]], [[Nature Domain]], or [[Travel Domain]] domain
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
+**Prerequisites** master in [[DATABASE/skill/Survival|Survival]]; deity who grants the [[DATABASE/domain/Cold Domain|cold]], [[DATABASE/domain/Fire Domain|fire]], [[DATABASE/domain/Nature Domain|nature]], or [[DATABASE/domain/Travel Domain|travel]] domain
 
 ---
 You rapidly adapt to environments through a combination of skill, meditation, and divine grace. After spending an hour in an environment of severe cold or colder, you are protected from the effects of severe cold until you leave that environment. After spending an hour in an environment of severe heat or hotter, you are protected from the effects of severe heat until you leave that environment.

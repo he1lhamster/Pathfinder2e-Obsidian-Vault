@@ -11,6 +11,7 @@ name: Eclectic Sword Mastery
 prerequisite: '[[DATABASE/feat/Eclectic Sword Training|Eclectic Sword Training]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -24,11 +25,11 @@ type: Feat
 # Eclectic Sword Mastery <span class="action-icon">2</span> <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Tengu</span>
-**Source** [[Ancestry Guide]] 
-**Prerequisites** [[Eclectic Sword Training]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
+**Prerequisites** [[DATABASE/feat/Eclectic Sword Training|Eclectic Sword Training]]
 
 ---
-You instinctively learn how to use a sword with just a few practice swings. You change one of the swords designated in your [[Tengu Weapon Familiarity]] to a new one that you're wielding, provided the sword meets the specifications of Tengu Weapon Familiarity. You can Interact to draw a sword as part of this activity, designating the sword as part of drawing it; disrupting that Interact action prevents you from designating it as one of your swords. This designation lasts until your next daily preparations.
+You instinctively learn how to use a sword with just a few practice swings. You change one of the swords designated in your [[DATABASE/feat/Tengu Weapon Familiarity|Tengu Weapon Familiarity]] to a new one that you're wielding, provided the sword meets the specifications of Tengu Weapon Familiarity. You can Interact to draw a sword as part of this activity, designating the sword as part of drawing it; disrupting that Interact action prevents you from designating it as one of your swords. This designation lasts until your next daily preparations.
 
 ## Traits
 

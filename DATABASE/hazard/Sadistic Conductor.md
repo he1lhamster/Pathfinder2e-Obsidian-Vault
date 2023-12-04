@@ -17,6 +17,7 @@ name: Sadistic Conductor
 rarity: Common
 reflex: null
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 trait:
@@ -30,13 +31,13 @@ will: null
 # Sadistic Conductor<span class="item-type">Hazard 4</span>
 
 <span class="item-trait">Complex</span><span class="item-trait">Haunt</span>
-**Source** [[Book of the Dead]]
+**Source** [[DATABASE/source/Book of the Dead|Book of the Dead]]
 **Complexity** Complex
 **Stealth** +12 (trained)
 **Description** A phantom conductor appears with a flourish, causing spectral instruments with razor-like strings to appear in the hands of those present. As the conductor gestures for the performance to begin, creatures are compelled to play the instruments.
 
 ---
-**Disable** DC 18 [[Performance]] to perform so well the conductor releases you from your instrument, banishing it voluntarily; DC 22 [[Occultism]] or [[Religion]] (trained) to banish one instrument; or DC 25 [[Thievery]] (trained) to sabotage one instrument; each instrument must be banished, sabotaged, or destroyed to disable the haunt
+**Disable** DC 18 [[DATABASE/skill/Performance|Performance]] to perform so well the conductor releases you from your instrument, banishing it voluntarily; DC 22 [[DATABASE/skill/Occultism|Occultism]] or [[DATABASE/skill/Religion|Religion]] (trained) to banish one instrument; or DC 25 [[DATABASE/skill/Thievery|Thievery]] (trained) to sabotage one instrument; each instrument must be banished, sabotaged, or destroyed to disable the haunt
 **Hardness** 10, **HP** 22 per instrument (BT 11); **Immunities** critical hits, object immunities, precision damage
 **Conjure Instruments** <span class="action-icon">5</span> (conjuration, occult) **Trigger** A creature approaches within 15 feet; **Effect** The conductor conjures a hazardous spectral instrument into the hands of each sentient creature within 30 feet. Even a creature whose hands are full finds a spectral instrument superimposed over the other items it's carrying. Affected creatures must each attempt a DC 19 Will save. The haunt then rolls initiative.
 **Critical Success** The conjuration fails and no instrument appears in the creature's hands.

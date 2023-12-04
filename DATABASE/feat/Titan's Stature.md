@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/barbarianinstinct/Giant Instinct|giant instinct]] ; [[
   Stature|Giant''s Stature]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -26,11 +27,11 @@ type: Feat
 # Titan's Stature <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Barbarian</span><span class="item-trait">Polymorph</span><span class="item-trait">Transmutation</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Giant Instinct]]; [[Giant's Stature]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/barbarianinstinct/Giant Instinct|giant instinct]]; [[DATABASE/feat/Giant's Stature|Giant's Stature]]
 
 ---
-You grow to even greater size. When using [[Giant's Stature]], you can instead become Huge (increasing your reach by 10 feet if you were Medium or smaller) while you are raging. You have the [[Clumsy]] condition as long as you are Huge.
+You grow to even greater size. When using [[DATABASE/feat/Giant's Stature|Giant’s Stature]], you can instead become Huge (increasing your reach by 10 feet if you were Medium or smaller) while you are raging. You have the [[DATABASE/condition/Clumsy|clumsy 1]] condition as long as you are Huge.
 
 ## Traits
 

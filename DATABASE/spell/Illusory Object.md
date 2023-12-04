@@ -23,6 +23,7 @@ patron_theme: null
 range: 500 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -40,9 +41,9 @@ type: Spell
 # Illusory Object<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Illusion</span><span class="item-trait">Visual</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult
-**Deities** [[Abadar]], [[Findeladlara]]
+**Deities** [[DATABASE/deity/Abadar|Abadar]], [[DATABASE/deity/Findeladlara|Findeladlara]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 500 feet; **Area** 20-foot burst
 **Duration** 10 minutes

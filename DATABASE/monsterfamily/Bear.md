@@ -3,6 +3,7 @@ creature_family: Bear
 id: '13'
 name: Bear
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Bear
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Bears are ferocious predators typically found in cold or temperate woodlands and hills. Many species of bear exist in addition to the two presented below, such as the smaller (but no less dangerous) black bear or the arctic-dwelling polar bear.
 
 ### Members
 
-[[Black Bear]] (Creature 2), [[Cave Bear]] (Creature 6), [[Grizzly Bear]] (Creature 3), [[Polar Bear]] (Creature 5)
+[[DATABASE/monster/Black Bear|Black Bear]] (Creature 2), [[DATABASE/monster/Cave Bear|Cave Bear]] (Creature 6), [[DATABASE/monster/Grizzly Bear|Grizzly Bear]] (Creature 3), [[DATABASE/monster/Polar Bear|Polar Bear]] (Creature 5)
 
 ###  Bear Resources
 

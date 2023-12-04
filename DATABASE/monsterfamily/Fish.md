@@ -3,6 +3,7 @@ creature_family: Fish
 id: '235'
 name: Fish
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 trait: null
 type: Creature Family
@@ -10,9 +11,9 @@ type: Creature Family
 ---
 # Fish
 
-**Source** [[Bestiary 3]]
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
 Swimming in vast shoals through open ocean underneath the sparkling sun, lurking deep in the muddy beds of rivers, or schooling in pristine lakes, fish are found nearly anywhere there is water.
 
 ### Members
 
-[[Piranha Swarm]] (Creature 3), [[Pufferfish]] (Creature -1)
+[[DATABASE/monster/Piranha Swarm|Piranha Swarm]] (Creature 3), [[DATABASE/monster/Pufferfish|Pufferfish]] (Creature -1)

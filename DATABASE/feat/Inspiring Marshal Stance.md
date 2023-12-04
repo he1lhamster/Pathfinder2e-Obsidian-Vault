@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Marshal Dedication|Marshal Dedication]] ; Trained
   [[DATABASE/skill/Diplomacy|Diplomacy]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -26,12 +27,12 @@ type: Feat
 # Inspiring Marshal Stance <span class="action-icon">1</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Open</span><span class="item-trait">Stance</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Marshal]]
-**Prerequisites** [[Marshal Dedication]]; trained in [[Diplomacy]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Marshal|Marshal]]
+**Prerequisites** [[DATABASE/feat/Marshal Dedication|Marshal Dedication]]; trained in [[DATABASE/skill/Diplomacy|Diplomacy]]
 
 ---
-You become a brilliant example of dedication and poise in battle, encouraging your allies to follow suit. When you spend this action, attempt a [[Diplomacy]] check. The DC is usually a standard-difficulty DC of your level, but the GM can assign a different DC based on the circumstances. The effect depends on the result of your check.
+You become a brilliant example of dedication and poise in battle, encouraging your allies to follow suit. When you spend this action, attempt a [[DATABASE/skill/Diplomacy|Diplomacy]] check. The DC is usually a standard-difficulty DC of your level, but the GM can assign a different DC based on the circumstances. The effect depends on the result of your check.
 **Critical Success** Your marshal's aura increases to a 20-foot emanation and grants you and allies a +1 status bonus to attack rolls and saves against mental effects.
 **Success** As critical success, but your aura's size doesn't increase.
 **Failure** You fail to enter the stance.

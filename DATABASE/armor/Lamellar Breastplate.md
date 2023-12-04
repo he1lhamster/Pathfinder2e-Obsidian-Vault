@@ -12,6 +12,7 @@ level: '0'
 name: Lamellar Breastplate
 price: 7 gp
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 speed_penalty: -5 ft.
 strength: '+16'
@@ -25,9 +26,9 @@ type: Armor
 # Lamellar Breastplate
 
 <span class="item-trait">Hindering</span><span class="item-trait">Laminar</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 7 gp; **AC Bonus** +4; **Dex Cap** +1; **Check Penalty** -2; **Speed Penalty** -5 ft.
-**Strength** 16; **Bulk** 2; **Category** Medium; **Group** [[Composite]]
+**Strength** 16; **Bulk** 2; **Category** Medium; **Group** [[DATABASE/armorgroup/Composite|Composite]]
 
 ---
 Slats of lacquered steel or other metal held together with cord, whether leather or silk, make up most lamellar breastplates. The lacquering prevents the metal from corroding.
@@ -40,10 +41,10 @@ This armor is so heavy and bulky it slows you down no matter what. You take a �
 
 **Laminar:**
 
-The armor is made up of layered sections, so when it breaks, it isn't as much of a problem. The status penalty to AC if this armor is [[Broken]] is –1 for broken medium armor, –2 for broken heavy armor, or no penalty for broken light armor.
+The armor is made up of layered sections, so when it breaks, it isn't as much of a problem. The status penalty to AC if this armor is [[DATABASE/condition/Broken|broken]] is –1 for broken medium armor, –2 for broken heavy armor, or no penalty for broken light armor.
 
 ## Armor Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain class features can grant you additional benefits with certain armors. This is called an armor specialization effect. The exact effect depends on which armor group your armor belongs to, as listed below. Only medium and heavy armors have armor specialization effects.
 **Composite**: The numerous overlapping pieces of this armor protect you from piercing attacks. You gain resistance to piercing damage equal to 1 + the value of the armor’s potency rune for medium armor, or 2 + the value of the armor’s potency rune for heavy armor.

@@ -11,6 +11,7 @@ name: Twin Feint
 prerequisite: null
 rarity: Common
 requirement: You are wielding two melee weapons, each in a different hand.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Twin Feint <span class="action-icon">2</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Rogue</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Requirements** You are wielding two melee weapons, each in a different hand.
 
 ---
@@ -31,4 +32,4 @@ You make a dazzling series of attacks with both weapons, using the first attack 
 
 ## Twin Feint Leads To...
 
-[[Twin Distraction]]
+[[DATABASE/feat/Twin Distraction|Twin Distraction]]

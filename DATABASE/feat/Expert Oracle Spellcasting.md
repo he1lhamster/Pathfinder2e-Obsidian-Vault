@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Basic Oracle Spellcasting|Basic Oracle Spellcasti
   ; Master in [[DATABASE/skill/Religion|Religion]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,16 +25,16 @@ type: Feat
 # Expert Oracle Spellcasting <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Oracle]]
-**Prerequisites** [[Basic Oracle Spellcasting]]; master in [[Religion]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Oracle|Oracle]]
+**Prerequisites** [[DATABASE/feat/Basic Oracle Spellcasting|Basic Oracle Spellcasting]]; master in [[DATABASE/skill/Religion|Religion]]
 
 ---
 You gain the expert spellcasting benefits.
 
 ## Expert Oracle Spellcasting Leads To...
 
-[[Master Oracle Spellcasting]]
+[[DATABASE/feat/Master Oracle Spellcasting|Master Oracle Spellcasting]]
 
 ## Traits
 

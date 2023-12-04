@@ -76,24 +76,24 @@ wisdom: '+2'
 # Terra-Cotta Soldier
 
 A single terra-cotta warrior stands 6 feet tall and weighs 600 pounds.
-**Recall Knowledge - Construct ([[Arcana]], [[Crafting]])**: DC 22
+**Recall Knowledge - Construct ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Crafting|Crafting]])**: DC 22
 **Unspecific Lore**: DC 20
 **Specific Lore**: DC 17
 
 # Terra-Cotta Soldier<span class="item-type">Creature 6</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Construct</span>
-**Source** [[Bestiary 3]]
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
 **Perception** +14
-**Languages** [[Common]]; (can't speak any language)
-**Skills** [[Athletics]] +15, [[Intimidation]] +15
+**Languages** [[DATABASE/language/Common|Common]]; (can't speak any language)
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +15, [[DATABASE/skill/Intimidation|Intimidation]] +15
 **Str** +5, **Dex** +4, **Con** +5, **Int** +1, **Wis** +2, **Cha** +3
-**Items** [[Composite Longbow]], [[Longsword]], [[Steel Shield]]
+**Items** [[DATABASE/weapon/Composite Longbow|composite longbow (10 arrows)]], [[DATABASE/weapon/Longsword|longsword]], [[DATABASE/shield/Steel Shield|steel shield (Hardness 5, HP 20, BT 10)]]
 
 ---
 **AC** 24 (26 with shield raised); **Fort** +17, **Ref** +14, **Will** +10
-**HP** 120; **Immunities** death effects, diseased, [[Doomed]], [[Drained]], [[Fatigued]], healing, necromancy, nonlethal attacks, [[Paralyzed]], poison, [[Sickened]], [[Unconscious]]; **Weaknesses** bludgeoning 10
-<span class="in-box-ability">**[[Attack of Opportunity]] <span class="action-icon">5</span> ** </span><span class="in-box-ability">**[[Shield Block]] <span class="action-icon">5</span> ** </span>
+**HP** 120; **Immunities** death effects, diseased, [[DATABASE/condition/Doomed|doomed]], [[DATABASE/condition/Drained|drained]], [[DATABASE/condition/Fatigued|fatigued]], healing, necromancy, nonlethal attacks, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Sickened|sickened]], [[DATABASE/condition/Unconscious|unconscious]]; **Weaknesses** bludgeoning 10
+<span class="in-box-ability">**[[DATABASE/monsterability/Attack of Opportunity|Attack of Opportunity]] <span class="action-icon">5</span> ** </span><span class="in-box-ability">**[[DATABASE/monsterability/Shield Block|Shield Block]] <span class="action-icon">5</span> ** </span>
 
 ---
 **Speed** 25 feet

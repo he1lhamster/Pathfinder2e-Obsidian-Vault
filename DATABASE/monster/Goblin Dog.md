@@ -98,16 +98,16 @@ Goblins’ eponymous pets aren’t true canines at all, but rather large, blunt-
  Goblin dogs take their name from their long association with goblins, who breed the beasts as guard animals and mounts. Most goblins take issue with the name, as the average goblin is appalled at the suggestion that these, their favored mounts, have anything at all to do with actual dogs. Of course, being goblins, they haven’t bothered to come up with their own, unique name for goblin dogs.
  Even the most pampered goblin dogs have itchy mange and prolific dander that tenaciously affects those who come in contact with them. This “goblin pox” causes itchy hives and festering sores that are as unsightly as they are irritating and distracting. Goblin dog dander causes allergic reactions in nearly all other creatures that don’t share the goblin dogs’ terrible hygiene—with the notable exception, of course, of goblins, who remain entirely immune to the disease regardless of cleanliness.
  Hunger can drive goblin dogs to bouts of uncharacteristic violence; many goblins purposefully starve their pets to make them more aggressive in battle. Goblin dogs subsist on whatever organic material they can scavenge, and they particularly enjoy fresh carrion. Although goblins are far from picky eaters, they value goblin dogs as pets because the noisome animals will consume food that even goblins won’t dare to eat. “Will it eat?” is one of several games goblins enjoy playing with their goblin dog pets, where a wide range of mouth-sized morsels (not always edible or safe to consume) are dangled before a goblin dog’s snout. “Will it die?” is often a game played after “Will it eat?” Goblin dogs who survive the second game earn renown for their digestive prowess and often become favored tribal pets treated better than most of the rank-and-file goblins.
-**Recall Knowledge - Animal ([[Nature]])**: DC 15
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Goblin Dog<span class="item-type">Creature 1</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +6; low-light vision, scent (imprecise) 30 feet
-**Skills** [[Athletics]] +6, [[Stealth]] +7
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +6, [[DATABASE/skill/Stealth|Stealth]] +7
 **Str** +3, **Dex** +2, **Con** +2, **Int** -4, **Wis** +1, **Cha** -1
 
 ---
@@ -117,7 +117,7 @@ Goblins’ eponymous pets aren’t true canines at all, but rather large, blunt-
 
 ---
 **Speed** 40 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +9 [+4/-1], **Damage** 1d6+3 piercing plus goblin pox</span><span class="in-box-ability">**Goblin Pox** (disease) Goblins and goblin dogs are immune to goblin pox. **Saving Throw** DC 17 Fortitude; **Stage 1** [[Sickened]] 1 (1 round); **Stage 2** sickened 1 and [[Slowed]] 1 (1 round); **Stage 3** sickened 2 and can't reduce its sickened value below 1 (1 day).</span><span class="in-box-ability">**Scratch** <span class="action-icon">2</span> (manipulate) The goblin dog vigorously scratches itself, exposing all adjacent creatures to goblin pox.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +9 [+4/-1], **Damage** 1d6+3 piercing plus goblin pox</span><span class="in-box-ability">**Goblin Pox** (disease) Goblins and goblin dogs are immune to goblin pox. **Saving Throw** DC 17 Fortitude; **Stage 1** [[DATABASE/condition/Sickened|sickened]] 1 (1 round); **Stage 2** sickened 1 and [[DATABASE/condition/Slowed|slowed]] 1 (1 round); **Stage 3** sickened 2 and can't reduce its sickened value below 1 (1 day).</span><span class="in-box-ability">**Scratch** <span class="action-icon">2</span> (manipulate) The goblin dog vigorously scratches itself, exposing all adjacent creatures to goblin pox.</span>
 
 ###  Goblin Dog Stories
 

@@ -68,20 +68,20 @@ wisdom: '+2'
 # Knurr Ragnulf
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 26
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 26
 **Unspecific Lore**: DC 24
 **Specific Lore**: DC 21
 
 # Knurr Ragnulf<span class="item-type">Creature 2</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Dwarf</span><span class="item-trait">Humanoid</span>
-**Source** [[Rusthenge]]
-Male [[Dwarf]] ex-cleric of [[Gorum]]
-**Perception** +8; [[Darkvision]]
-**Languages** [[Common]], [[Dwarven]], [[Skald]]
-**Skills** [[Athletics]] +7, [[Crafting]] +4, [[Deception]] +7, [[Intimidation]] +9, [[Religion]] +6
+**Source** [[DATABASE/source/Rusthenge|Rusthenge]]
+Male [[DATABASE/ancestry/Dwarf|dwarf]] ex-cleric of [[DATABASE/deity/Gorum|Gorum]]
+**Perception** +8; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Dwarven|Dwarven]], [[DATABASE/language/Skald|Skald]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +7, [[DATABASE/skill/Crafting|Crafting]] +4, [[DATABASE/skill/Deception|Deception]] +7, [[DATABASE/skill/Intimidation|Intimidation]] +9, [[DATABASE/skill/Religion|Religion]] +6
 **Str** +3, **Dex** +0, **Con** +2, **Int** +0, **Wis** +2, **Cha** +3
-**Items** _+1 [[Warhammer]]_, rusty ([[Broken]]) full plate
+**Items** _+1 [[DATABASE/weapon/Warhammer|warhammer]]_, rusty ([[DATABASE/condition/Broken|broken]]) full plate
 
 ---
 **AC** 17; **Fort** +8, **Ref** +4, **Will** +8
@@ -89,4 +89,4 @@ Male [[Dwarf]] ex-cleric of [[Gorum]]
 
 ---
 **Speed** 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _warhammer_ +10 [+5/+0] (magical, shove), **Damage** 1d8+5 bludgeoning</span><span class="in-box-ability">**Intimidating Strike** <span class="action-icon">2</span> (emotion, fear, mental) Knurr makes a melee Strike while roaring Xar-Azmak's name. If he hits and deals damage, the target is [[Frightened]], or frightened 2 on a critical hit.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _warhammer_ +10 [+5/+0] (magical, shove), **Damage** 1d8+5 bludgeoning</span><span class="in-box-ability">**Intimidating Strike** <span class="action-icon">2</span> (emotion, fear, mental) Knurr makes a melee Strike while roaring Xar-Azmak's name. If he hits and deals damage, the target is [[DATABASE/condition/Frightened|frightened 1]], or frightened 2 on a critical hit.</span>

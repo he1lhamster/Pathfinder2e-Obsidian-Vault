@@ -18,6 +18,7 @@ language:
 max_speed: '20'
 name: Sprite
 rarity: Rare
+rus_type_level: null
 size: Tiny
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 speed:
@@ -33,9 +34,9 @@ vision: Low-Light Vision
 # Sprite
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Fey</span><span class="item-trait">Sprite</span>
-**Source** [[Ancestry Guide]] 
-_Sprites are diminutive, whimsical, and exuberant creatures from the fey realm known as the [[First World]]. They love playing pranks, exploring new things, and embracing everything to do with magic._
-When most people picture a fey, chances are they're thinking of a sprite. The majority of sprites remain in the First World, where they are essentially immortal, reincarnating to a new form of fey when their life eventually comes to an end. Some even meld together with others to form a more substantial body or split apart into multiple smaller fey. However, sprites are incredibly curious about all forms of magic, leading a significant number to risk the mortal world to explore the new possibilities offered by the unusually static nature of mortal existence. These creatures mix in with other, smaller groups of [[Material Plane]] comrades, including exiles from the First World, those whose family swore pacts to mortals, and even contemplative individuals curious to enter the mortal cycle of souls.
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
+_Sprites are diminutive, whimsical, and exuberant creatures from the fey realm known as the [[DATABASE/plane/First World|First World]]. They love playing pranks, exploring new things, and embracing everything to do with magic._
+When most people picture a fey, chances are they're thinking of a sprite. The majority of sprites remain in the First World, where they are essentially immortal, reincarnating to a new form of fey when their life eventually comes to an end. Some even meld together with others to form a more substantial body or split apart into multiple smaller fey. However, sprites are incredibly curious about all forms of magic, leading a significant number to risk the mortal world to explore the new possibilities offered by the unusually static nature of mortal existence. These creatures mix in with other, smaller groups of [[DATABASE/plane/Material Plane|Material Plane]] comrades, including exiles from the First World, those whose family swore pacts to mortals, and even contemplative individuals curious to enter the mortal cycle of souls.
  The first generation of Material Plane sprites were content to guard magical locations or objects, learn music, and play pranks on the unsuspecting. Panic struck when children born in the mortal world didn't form wings upon adulthood—some sprites transitioning to the mortal world likewise lost their wings after a time. Believing this to be a sign that the mortal world was too alien for them to live there, many of the initial sprite explorers returned to the safety of the First World.
  However, their wingless children exhibited a potential unmatched by any of their ancestors, as well as a particular magical affinity for the mortal world. They became the mightiest of sprite heroes, but also, on occasion, the most dangerous villains. As they came close to reaching their full strength, many of them did grow their wings at long last: larger, unique, and more vibrant than any from the First World had seen before, a sign of their limitless potential.
  If you want a character who is tiny, mercurial, and curious, you should play a sprite.
@@ -54,7 +55,7 @@ When most people picture a fey, chances are they're thinking of a sprite. The ma
 
 ## Physical Description
 
-Sprites are tiny faeries whose features vary wildly based on their heritage. The Wingless—those with the potential to become powerful heroes and villains, including all PC sprites—slowly grow their wings over time as their magical potential manifests, though some never grow wings at all. Those sprites with humbler destinies typically grow wings when reaching full adulthood and mastering their innate magic. Sprites reach adulthood at around the same rate as humans do, but a typical fey who can manage to stay out of mischief and danger can live 1,000 years or more. [[Material Plane]] sprites who sense their time is coming to an end usually return to the [[First World]] to be reborn and start their adventure all over again.
+Sprites are tiny faeries whose features vary wildly based on their heritage. The Wingless—those with the potential to become powerful heroes and villains, including all PC sprites—slowly grow their wings over time as their magical potential manifests, though some never grow wings at all. Those sprites with humbler destinies typically grow wings when reaching full adulthood and mastering their innate magic. Sprites reach adulthood at around the same rate as humans do, but a typical fey who can manage to stay out of mischief and danger can live 1,000 years or more. [[DATABASE/plane/Material Plane|Material Plane]] sprites who sense their time is coming to an end usually return to the [[DATABASE/plane/First World|First World]] to be reborn and start their adventure all over again.
 
 ## Society
 
@@ -62,11 +63,11 @@ Sprites habitually live in tiny, reclusive villages in areas with abundant magic
 
 ## Alignment and Religion
 
-Sprites run the gamut of alignments but are rarely lawful or evil. They are far more likely to worship the Eldest— the peculiar deities of the fey—than those of the mortal world. They have a particular affinity for [[Shyka]], the many-formed Eldest of time, and [[The Lantern King]], the trickster among their ranks. Among mortal deities, sprites appreciate [[Desna]] the most, and due to her iconic depiction as a butterfly-winged woman, some Desnan sprites claim her as one of their own. Sprites also readily comprehend the doctrines of [[Cayden Cailean]] and [[Shelyn]], and the goddess of beauty and art is a particular favorite among [[Grig]].
+Sprites run the gamut of alignments but are rarely lawful or evil. They are far more likely to worship the Eldest— the peculiar deities of the fey—than those of the mortal world. They have a particular affinity for [[DATABASE/deity/Shyka|Shyka]], the many-formed Eldest of time, and [[DATABASE/deity/The Lantern King|the Lantern King]], the trickster among their ranks. Among mortal deities, sprites appreciate [[DATABASE/deity/Desna|Desna]] the most, and due to her iconic depiction as a butterfly-winged woman, some Desnan sprites claim her as one of their own. Sprites also readily comprehend the doctrines of [[DATABASE/deity/Cayden Cailean|Cayden Cailean]] and [[DATABASE/deity/Shelyn|Shelyn]], and the goddess of beauty and art is a particular favorite among [[DATABASE/heritage/Grig|grigs]].
 
 ## Adventurers
 
-While PCs sprites are marked from adulthood as destined for great things, their childhoods before that point vary as widely as any other ancestry. That said, the tendency of most sprites to live either apart from civilization or in small villages means they rarely have backgrounds related to cities or large organizations and more likely were [[Acrobat]], [[Animal Whisperer]], [[Artist]], [[Entertainer]], [[Gambler]], [[Herbalist]], [[Hermit]], [[Nomad]], or [[Scout]]. Sprites are most often [[Bard]], [[Rogue]], or [[Sorcerer]], though sprite [[Ranger]] and [[Druid]] do exist and tap into their love of the natural world. Likewise, sprite [[Witch]] and [[Wizard]] are even more enthusiastic about learning the secrets of magic, and sprite [[Oracle]] approach the contradictions of their mystery from the experience of living the contradictions between the fey and mortal worlds.
+While PCs sprites are marked from adulthood as destined for great things, their childhoods before that point vary as widely as any other ancestry. That said, the tendency of most sprites to live either apart from civilization or in small villages means they rarely have backgrounds related to cities or large organizations and more likely were [[DATABASE/background/Acrobat|acrobats]], [[DATABASE/background/Animal Whisperer|animal whisperers]], [[DATABASE/background/Artist|artists]], [[DATABASE/background/Entertainer|entertainers]], [[DATABASE/background/Gambler|gamblers]], [[DATABASE/background/Herbalist|herbalists]], [[DATABASE/background/Hermit|hermits]], [[DATABASE/background/Nomad|nomads]], or [[DATABASE/background/Scout|scouts]]. Sprites are most often [[DATABASE/class_/Bard|bards]], [[DATABASE/class_/Rogue|rogues]], or [[DATABASE/class_/Sorcerer|sorcerers]], though sprite [[DATABASE/class_/Ranger|rangers]] and [[DATABASE/class_/Druid|druids]] do exist and tap into their love of the natural world. Likewise, sprite [[DATABASE/class_/Witch|witches]] and [[DATABASE/class_/Wizard|wizards]] are even more enthusiastic about learning the secrets of magic, and sprite [[DATABASE/class_/Oracle|oracles]] approach the contradictions of their mystery from the experience of living the contradictions between the fey and mortal worlds.
 
 ## Names
 
@@ -88,7 +89,7 @@ Sprites who mingle openly among mortals find that mortal superstitions about fey
 
 ### Tiny PCs
 
-PCs are typically Small or Medium size, but most sprite PCs are Tiny instead! Being Tiny comes with its own set of rules about space and reach. Your Tiny sprite can enter another creature's space, which is important because your melee Strikes typically have no reach, meaning you must enter their space to attack them. Like other Tiny creatures, you don't automatically receive lesser cover from being in a larger creature's space, but circumstances might allow you to [[Take Cover]]. You can purchase weapons, armor, and other items for your size with the same statistics as normal gear, except that melee weapons have a reach of 0 for you (or a reach 5 feet shorter than normal if they have the reach trait). Remember to adjust the Bulk of items and your Bulk limit for Tiny size (see Items and Sizes).
+PCs are typically Small or Medium size, but most sprite PCs are Tiny instead! Being Tiny comes with its own set of rules about space and reach. Your Tiny sprite can enter another creature's space, which is important because your melee Strikes typically have no reach, meaning you must enter their space to attack them. Like other Tiny creatures, you don't automatically receive lesser cover from being in a larger creature's space, but circumstances might allow you to [[DATABASE/action/Take Cover|Take Cover]]. You can purchase weapons, armor, and other items for your size with the same statistics as normal gear, except that melee weapons have a reach of 0 for you (or a reach 5 feet shorter than normal if they have the reach trait). Remember to adjust the Bulk of items and your Bulk limit for Tiny size (see Items and Sizes).
 
 # Sprite Mechanics
 
@@ -116,13 +117,13 @@ Strength
 
 ## Languages
 
-[[Common]]
-[[Sylvan]]
-Additional languages equal to your Intelligence modifier (if it's positive). Choose from Celestial, [[Draconic]], [[Elven]], [[Gnomish]], Goblin, [[Jotun]], and any other languages to which you have access (such as the languages prevalent in your region).
+[[DATABASE/language/Common|Common]]
+[[DATABASE/language/Sylvan|Sylvan]]
+Additional languages equal to your Intelligence modifier (if it's positive). Choose from Celestial, [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Elven|Elven]], [[DATABASE/language/Gnomish|Gnomish]], Goblin, [[DATABASE/language/Jotun|Jotun]], and any other languages to which you have access (such as the languages prevalent in your region).
 
 ## Low-Light Vision
 
-You can see in dim light as though it were bright light, and you ignore the [[Concealed]] condition due to dim light.
+You can see in dim light as though it were bright light, and you ignore the [[DATABASE/condition/Concealed|concealed]] condition due to dim light.
 
 ## Magical Strikes
 

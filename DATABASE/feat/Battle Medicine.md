@@ -12,6 +12,7 @@ prerequisite: Trained in [[DATABASE/skill/Medicine|Medicine]]
 rarity: Common
 requirement: You are holding [[DATABASE/equipment/Healer's Tools|healer's tools]]
   , or you are wearing themand have a hand free
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: medicine
@@ -27,16 +28,16 @@ type: Feat
 # Battle Medicine <span class="action-icon">1</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">General</span><span class="item-trait">Healing</span><span class="item-trait">Manipulate</span><span class="item-trait">Skill</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** trained in [[Medicine]]
-**Requirements** You are holding [[Healer's Tools]], or you are wearing them and have a hand free
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** trained in [[DATABASE/skill/Medicine|Medicine]]
+**Requirements** You are holding [[DATABASE/equipment/Healer's Tools|healer's tools]], or you are wearing them and have a hand free
 
 ---
-You can patch up wounds, even in combat. Attempt a [[Medicine]] check with the same DC as for [[Treat Wounds]] and restore the corresponding amount of HP; this doesn't remove the [[Wounded]] condition. As with Treat Wounds, you can attempt checks against higher DCs if you have the minimum proficiency rank. The target is then temporarily immune to your Battle Medicine for 1 day.
+You can patch up wounds, even in combat. Attempt a [[DATABASE/skill/Medicine|Medicine]] check with the same DC as for [[DATABASE/action/Treat Wounds|Treat Wounds]] and restore the corresponding amount of HP; this doesn't remove the [[DATABASE/condition/Wounded|wounded]] condition. As with Treat Wounds, you can attempt checks against higher DCs if you have the minimum proficiency rank. The target is then temporarily immune to your Battle Medicine for 1 day.
 
 ## Battle Medicine Leads To...
 
-[[Godless Healing]], [[Medic Dedication]], [[Paragon Battle Medicine]]
+[[DATABASE/feat/Godless Healing|Godless Healing]], [[DATABASE/feat/Medic Dedication|Medic Dedication]], [[DATABASE/feat/Paragon Battle Medicine|Paragon Battle Medicine]]
 
 ## Traits
 

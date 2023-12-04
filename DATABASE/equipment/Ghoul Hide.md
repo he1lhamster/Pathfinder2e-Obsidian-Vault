@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 size: null
@@ -55,11 +56,11 @@ weapon_type: null
 # Ghoul Hide<span class="item-type">Item 6</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span><span class="item-trait">Necromancy</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 220 gp
 **Usage** worn armor; **Bulk** 2
-**Base Armor** [[Hide Armor]]
+**Base Armor** [[DATABASE/armor/Hide Armor|Hide Armor]]
 
 ---
-Stitched together from pieces of ghoul skin, this suit of _+1 [[Hide Armor]]_ grants you a +1 item bonus to saving throws against disease and paralysis and makes you immune to the paralysis of ghouls. _Ghoul hide_ with a _resilient rune_ increases the resilient rune’s item bonus to saving throws against disease and paralysis by 1 (maximum +4).
+Stitched together from pieces of ghoul skin, this suit of _+1 [[DATABASE/armor/Hide Armor|hide armor]]_ grants you a +1 item bonus to saving throws against disease and paralysis and makes you immune to the paralysis of ghouls. _Ghoul hide_ with a _resilient rune_ increases the resilient rune’s item bonus to saving throws against disease and paralysis by 1 (maximum +4).
  _Ghoul hide_ hisses with sibilant hatred at the touch of elves. When worn by a creature with the elf trait, the armor gains the noisy trait.

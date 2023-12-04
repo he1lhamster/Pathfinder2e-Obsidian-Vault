@@ -63,16 +63,16 @@ wisdom: '+2'
 # War Horse
 
 _This entry did not have a separate description for the creature._
-**Recall Knowledge - Animal ([[Nature]])**: DC 16
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
 # War Horse<span class="item-type">Creature 2</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +6; low-light vision, scent (imprecise) 30 feet
-**Skills** [[Acrobatics]] +7, [[Athletics]] +11
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +7, [[DATABASE/skill/Athletics|Athletics]] +11
 **Str** +5, **Dex** +3, **Con** +4, **Int** -4, **Wis** +2, **Cha** -2
 
 ---

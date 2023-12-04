@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Game Hunter Dedication|Game Hunter Dedication]] ;
   Crafting|Snare Crafting]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 175. Broken Tusk Moon|Pathfinder #175: Broken
   Tusk Moon]]'
@@ -25,9 +26,9 @@ type: Feat
 # Big Game Trapper <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Pathfinder 175. Broken Tusk Moon]]
-**Archetype** [[Game Hunter]]
-**Prerequisites** [[Game Hunter Dedication]]; [[Snare Crafting]]
+**Source** [[DATABASE/source/Pathfinder 175. Broken Tusk Moon|Pathfinder #175: Broken Tusk Moon]]
+**Archetype** [[DATABASE/archetype/Game Hunter|Game Hunter]]
+**Prerequisites** [[DATABASE/feat/Game Hunter Dedication|Game Hunter Dedication]]; [[DATABASE/feat/Snare Crafting|Snare Crafting]]
 
 ---
 You can set snares specifically for big prey, leaving smaller creatures unscathed. Each time you set a snare, you can choose Small, Medium, Large, or Huge. That snare can be triggered only by creatures of that size or larger.

@@ -3,6 +3,7 @@ creature_family: Bat
 id: '12'
 name: Bat
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Bat
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 A wide range of bats dwell throughout the world. Most of these nocturnal animals are harmless insectivores, but deadly breeds of vampire bats and oversized bats the size of horses pose much more significant threats to adventurers.
 
 ### Members
 
-[[Albino Giant Bat]] (Creature 5), [[Giant Bat]] (Creature 2), [[Vampire Bat Swarm]] (Creature 1)
+[[DATABASE/monster/Albino Giant Bat|Albino Giant Bat]] (Creature 5), [[DATABASE/monster/Giant Bat|Giant Bat]] (Creature 2), [[DATABASE/monster/Vampire Bat Swarm|Vampire Bat Swarm]] (Creature 1)
 
 ###  Bat Locations
 

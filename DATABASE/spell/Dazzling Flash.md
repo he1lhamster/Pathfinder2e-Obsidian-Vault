@@ -22,6 +22,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: Fortitude
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -40,8 +41,8 @@ type: Focus
 # Dazzling Flash<span class="item-type">Focus 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Cleric</span><span class="item-trait">Evocation</span><span class="item-trait">Light</span><span class="item-trait">Visual</span>
-**Source** [[Core Rulebook]] 
-**Domain** [[Sun Domain]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Domain** [[DATABASE/domain/Sun Domain|sun]]
 **Cast** <span class="action-icon">2</span> material, verbal
 **Area** 15-foot cone
 **Saving Throw** Fortitude
@@ -49,8 +50,8 @@ type: Focus
 ---
 You raise your religious symbol and create a blinding flash of light. Each creature in the area must attempt a Fortitude save.
 **Critical Success** The creature is unaffected.
-**Success** The creature is [[Dazzled]] for 1 round.
-**Failure** The creature is [[Blinded]] for 1 round and dazzled for 1 minute. The creature can spend an Interact action rubbing its eyes to end the blinded condition.
+**Success** The creature is [[DATABASE/condition/Dazzled|dazzled]] for 1 round.
+**Failure** The creature is [[DATABASE/condition/Blinded|blinded]] for 1 round and dazzled for 1 minute. The creature can spend an Interact action rubbing its eyes to end the blinded condition.
 **Critical Failure** The creature is blinded for 1 round and dazzled for 1 hour.
 
 ---

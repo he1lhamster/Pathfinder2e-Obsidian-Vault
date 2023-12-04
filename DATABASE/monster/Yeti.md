@@ -94,17 +94,17 @@ wisdom: '+4'
 
 Nearly a myth, the yeti is rarely seen—and even when it is, it is often too late. Yetis dwell amid the highest, most remote peaks of the world, coming down from their snowy mountain holds to raid, steal livestock, and sometimes feed their insatiable urges for slaughter and destruction. Those folks who live at the foot of a yeti-ruled mountain warn of the “abominable snowmen”: monstrous, fur-covered humanoids who leave strange and bloody tracks in the snow.
  Normally yetis seek to protect the world rather than hunt its other civilized denizens. They do so by lairing near eldritch portals that form links between the Material Plane and other, much stranger dimensions of reality. From within these snow-covered arches and ancient stone doorways, aliens, living nightmares, fiends, and worse can emerge through dimensional networks into the world. Yetis who guard these portals sometimes succumb to these horrors and are corrupted, taking on the bloodthirsty urges and horrific behaviors of the very monsters they strive to protect the world against. Yetis who manifest such violent tendencies are driven out of their clan and forced to wander the mountaintops alone, thus giving rise to the myth of the legendary abominable snowman. Forced to fend for themselves, these exiled yetis often fully embrace the corrupting elements that caused their exile in the first place, growing more powerful and more deadly as a result. The most vile of these yetis turn to cannibalism, not out of need, but out of a sheer joy at the terror they inflict upon their kin. Invariably such cannibalistic yetis attract the attention of wendigos, which makes a bad situation all the worse.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 22
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 22
 **Unspecific Lore**: DC 20
 **Specific Lore**: DC 17
 
 # Yeti<span class="item-type">Creature 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Humanoid</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +15; darkvision, scent (imprecise) 30 feet
-**Languages** [[Aklo]]
-**Skills** [[Athletics]] +14, [[Stealth]] +12 (+15 in snow), [[Survival]] +11
+**Languages** [[DATABASE/language/Aklo|Aklo]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +14, [[DATABASE/skill/Stealth|Stealth]] +12 (+15 in snow), [[DATABASE/skill/Survival|Survival]] +11
 **Str** +5, **Dex** +2, **Con** +4, **Int** -1, **Wis** +4, **Cha** -1
 **Snowblind** When Hiding, the yeti is concealed by any snowfall, even if it’s not thick enough to make other creatures concealed.
 
@@ -115,7 +115,7 @@ Nearly a myth, the yeti is rarely seen—and even when it is, it is often too la
 
 ---
 **Speed** 35 feet, climb 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +15 [+10/+5], **Damage** 2d10+5 slashing</span><span class="in-box-ability">**Grisly Arrival** <span class="action-icon">4</span> (emotion, fear, mental) **Trigger** The yeti hits a creature in the first round of combat and the yeti was [[Hidden]] from that creature at the start of combat. **Effect** Each enemy within 30 feet that witnesses the attack (including the target of the attack) must attempt a DC 23 Will save. On a failure, the creature is [[Frightened]]; on a critical failure, it’s [[Frightened]].</span><span class="in-box-ability">**[[Rend]]** <span class="action-icon">1</span> claw</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +15 [+10/+5], **Damage** 2d10+5 slashing</span><span class="in-box-ability">**Grisly Arrival** <span class="action-icon">4</span> (emotion, fear, mental) **Trigger** The yeti hits a creature in the first round of combat and the yeti was [[DATABASE/condition/Hidden|hidden]] from that creature at the start of combat. **Effect** Each enemy within 30 feet that witnesses the attack (including the target of the attack) must attempt a DC 23 Will save. On a failure, the creature is [[DATABASE/condition/Frightened|frightened 2]]; on a critical failure, it’s [[DATABASE/condition/Frightened|frightened 4]].</span><span class="in-box-ability">**[[DATABASE/monsterability/Rend|Rend]]** <span class="action-icon">1</span> claw</span>
 
 ###  Yeti Treasure
 

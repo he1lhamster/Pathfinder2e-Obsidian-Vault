@@ -18,6 +18,7 @@ domain_spell: '[[DATABASE/spell/Touch of Undeath|Touch of Undeath]]'
 id: '34'
 name: Undeath Domain
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait: null
 type: Domain
@@ -25,7 +26,7 @@ type: Domain
 ---
 # Undeath Domain
 
-**Source** [[Core Rulebook]] 
-**Deities** [[Ayrzul]], [[Fumeiyoshi]], [[Kabriri]], [[Mahathallah]], [[Nhimbaloth]], [[Orcus]], [[Urgathoa]], [[Zura]], [[Zyphus]]
-**Domain Spell** _[[Touch of Undeath]]_; **Advanced Domain Spell** _[[Malignant Sustenance]]_
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Deities** [[DATABASE/deity/Ayrzul|Ayrzul]], [[DATABASE/deity/Fumeiyoshi|Fumeiyoshi]], [[DATABASE/deity/Kabriri|Kabriri]], [[DATABASE/deity/Mahathallah|Mahathallah]], [[DATABASE/deity/Nhimbaloth|Nhimbaloth]], [[DATABASE/deity/Orcus|Orcus]], [[DATABASE/deity/Urgathoa|Urgathoa]], [[DATABASE/deity/Zura|Zura]], [[DATABASE/deity/Zyphus|Zyphus]]
+**Domain Spell** _[[DATABASE/spell/Touch of Undeath|Touch of Undeath]]_; **Advanced Domain Spell** _[[DATABASE/spell/Malignant Sustenance|Malignant Sustenance]]_
 Your magic carries close ties to the undead.

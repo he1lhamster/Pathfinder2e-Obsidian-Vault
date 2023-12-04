@@ -5,6 +5,7 @@ item_category: Relics
 name: Emotion Conduit
 prerequisite: null
 rarity: Common
+rus_type_level: null
 school: Enchantment
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
@@ -17,7 +18,7 @@ type: Relic Major Gift
 # Emotion Conduit<span class="item-type">Major Gift</span>
 
 <span class="item-trait">Emotion</span><span class="item-trait">Enchantment</span><span class="item-trait">Mental</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Aspect** emotion
 
 ---

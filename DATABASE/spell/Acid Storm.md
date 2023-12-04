@@ -23,6 +23,7 @@ patron_theme: null
 range: 120 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -40,9 +41,9 @@ type: Spell
 # Acid Storm<span class="item-type">Spell 5</span>
 
 <span class="item-trait">Acid</span><span class="item-trait">Evocation</span>
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Traditions** arcane, primal
-**Deities** [[Moloch]], [[Trelmarixian]]
+**Deities** [[DATABASE/deity/Moloch|Moloch]], [[DATABASE/deity/Trelmarixian|Trelmarixian]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 120 feet; **Area** 20-foot-radius burst
 **Duration** 1 minute

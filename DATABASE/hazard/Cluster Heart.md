@@ -20,6 +20,7 @@ resistance:
 - '[[DATABASE/spell/Disintegrate|disintegrate]] deals double damage'
 - ignoringHardness
 - rather than destroying the cluster heart outright
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 191. The Destiny War|Pathfinder #191: The Destiny
   War]]'
@@ -34,17 +35,17 @@ will: null
 # Cluster Heart<span class="item-type">Hazard 18</span>
 
 <span class="item-trait">Environmental</span>
-**Source** [[Pathfinder 191. The Destiny War]]
+**Source** [[DATABASE/source/Pathfinder 191. The Destiny War|Pathfinder #191: The Destiny War]]
 **Complexity** Simple
 **Stealth** DC 45 (master) to hear or feel the energy coalescing
 **Description** A wave of magic passes through the area, causing crystal shards to grow and stab intruders.
 
 ---
-**Disable** DC 45 [[Nature]] (master) to chip away at the crystal and disrupt its resonance, or DC 42 [[Thievery]] (master) to carefully detach the crystals and then safely smash them
+**Disable** DC 45 [[DATABASE/skill/Nature|Nature]] (master) to chip away at the crystal and disrupt its resonance, or DC 42 [[DATABASE/skill/Thievery|Thievery]] (master) to carefully detach the crystals and then safely smash them
 **AC** 39, **Fort** +33, **Ref** +27
-**Hardness** 15, **HP** 300 (BT 150); **Immunities** critical hits, object immunities, precision damage, **Weaknesses** sonic 20, **Resistances** [[Disintegrate]] deals double damage, ignoring Hardness, rather than destroying the cluster heart outright
+**Hardness** 15, **HP** 300 (BT 150); **Immunities** critical hits, object immunities, precision damage, **Weaknesses** sonic 20, **Resistances** [[DATABASE/spell/Disintegrate|disintegrate]] deals double damage, ignoring Hardness, rather than destroying the cluster heart outright
 **Crystal Surge** <span class="action-icon">5</span> (force) **Trigger** A non-elemental creature ends its turn adjacent to the cluster heart; **Effect** The heart extends shards of crystal imbued with force, like a jabbing blade, and deals 3d10+20 force damage and 3d10+20 piercing damage to all creatures in a 20-foot radius (DC 40 basic Reflex save). A creature who takes piercing damage from the surge is exposed to crystal corruption. On a critical failure, a creature also takes 2d6 persistent bleed damage.
- **Crystal Corruption** (arcane, curse, incapacitation, transmutation) Creatures afflicted by this curse slowly turn to solid crystal. This affliction's [[Sickened]], [[Slowed]], and [[Paralyzed]] conditions can't be removed until the affliction itself is removed. Creatures with both the earth and elemental traits instead become carriers and suffer no ill effects aside from gaining the weakness to sonic. **Saving Throw** DC 40 Fortitude; **Stage 1** sickened 1 (1 hour); Stage 2 weakness 5 to sonic and sickened 1 (1 day); **Stage 3** weakness 5 to sonic and slowed 1 (1 day); **Stage 4** weakness 10 to sonic and paralyzed (1 day); **Stage 5** weakness 10 to sonic, and the creature is permanently [[Petrified]].
+ **Crystal Corruption** (arcane, curse, incapacitation, transmutation) Creatures afflicted by this curse slowly turn to solid crystal. This affliction's [[DATABASE/condition/Sickened|sickened]], [[DATABASE/condition/Slowed|slowed]], and [[DATABASE/condition/Paralyzed|paralyzed]] conditions can't be removed until the affliction itself is removed. Creatures with both the earth and elemental traits instead become carriers and suffer no ill effects aside from gaining the weakness to sonic. **Saving Throw** DC 40 Fortitude; **Stage 1** sickened 1 (1 hour); Stage 2 weakness 5 to sonic and sickened 1 (1 day); **Stage 3** weakness 5 to sonic and slowed 1 (1 day); **Stage 4** weakness 10 to sonic and paralyzed (1 day); **Stage 5** weakness 10 to sonic, and the creature is permanently [[DATABASE/condition/Petrified|petrified]].
 
 ---
 **Reset** Once the cluster heart uses its reaction, it automatically resets after 1 minute. As long as the cluster heart has 150 or more Hit Points, it recovers 50 per day.

@@ -7,6 +7,7 @@ id: '1451'
 name: Envenom
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 trait: null
@@ -16,7 +17,7 @@ type: Action
 ---
 # Envenom <span class="action-icon">1</span>
 
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 **Frequency** once per day
 
 ---

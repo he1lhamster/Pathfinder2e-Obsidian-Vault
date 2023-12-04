@@ -2,6 +2,7 @@
 id: '200'
 name: The Enmity Cycle
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -16,24 +17,24 @@ type: Source
 
 ## Equipment [2]
 
-[[Desiccating Scepter]], [[Statue Skin Salve]]
+[[DATABASE/equipment/Desiccating Scepter|Desiccating Scepter]], [[DATABASE/equipment/Statue Skin Salve|Statue Skin Salve]]
 
 ## Hazards [5]
 
-[[Clockwork Dancers]], [[Corrupted Draft]], [[Deadly Workshop]], [[Entangling Shredder Trap]], [[The Enmity Cycle]]
+[[DATABASE/hazard/Clockwork Dancers|Clockwork Dancers]], [[DATABASE/hazard/Corrupted Draft|Corrupted Draft]], [[DATABASE/hazard/Deadly Workshop|Deadly Workshop]], [[DATABASE/hazard/Entangling Shredder Trap|Entangling Shredder Trap]], [[DATABASE/hazard/The Enmity Cycle|The Enmity Cycle]]
 
 ## Languages [1]
 
-[[Taldane]]
+[[DATABASE/language/Taldane|Taldane]]
 
 ## Monsters [2]
 
-[[Sand Wolf]], [[Scrapborn]]
+[[DATABASE/monster/Sand Wolf|Sand Wolf]], [[DATABASE/monster/Scrapborn|Scrapborn]]
 
 ## Rituals [1]
 
-[[Amity Cycle]]
+[[DATABASE/ritual/Amity Cycle|Amity Cycle]]
 
 ## Spells [1]
 
-[[Glass Sand]]
+[[DATABASE/spell/Glass Sand|Glass Sand]]

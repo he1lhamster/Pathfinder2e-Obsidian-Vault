@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -54,41 +55,41 @@ weapon_type: null
 # Lyrakien Staff<span class="item-type">Item 6+</span>
 
 <span class="item-trait">Evocation</span><span class="item-trait">Magical</span><span class="item-trait">Staff</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Usage** held in 1 hand; **Bulk** 1
 
 ---
-A crystalline sphere, swirling with constantly shifting constellations, sits atop a _lyrakien staff_, a silver shaft that sparkles with the gentle glow of starlight. [[Desna]] first created the staves, inspired by the music- and freedom-loving [[Lyrakien (Wanderer Azata)]], but these staves are popular with spellcasters of all faiths who like travel, art, or the stars. While wielding a _lyrakien staff_, you gain a +1 circumstance bonus on saving throws against incapacitation effects.
+A crystalline sphere, swirling with constantly shifting constellations, sits atop a _lyrakien staff_, a silver shaft that sparkles with the gentle glow of starlight. [[DATABASE/deity/Desna|Desnans]] first created the staves, inspired by the music- and freedom-loving [[DATABASE/monster/Lyrakien (Wanderer Azata)|lyrakien azatas]], but these staves are popular with spellcasters of all faiths who like travel, art, or the stars. While wielding a _lyrakien staff_, you gain a +1 circumstance bonus on saving throws against incapacitation effects.
 **Activate** Cast a Spell ; **Effect** You expend a number of charges from the staff to cast a spell from its list.
 **Craft Requirements** Supply one casting of all listed levels of all listed spells.
 
 ## Lyrakien Staff<span class="item-type">Item 6</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 225 gp
 **Bulk** 1
 
-* **Cantrip** [[Guidance]], [[Summon Instrument]]
-* **1st** [[Concordant Choir]]
-* **2nd** [[Guiding Star]], [[Remove Paralysis]]
+* **Cantrip** [[DATABASE/spell/Guidance|guidance]], [[DATABASE/spell/Summon Instrument|summon instrument]]
+* **1st** [[DATABASE/spell/Concordant Choir|concordant choir]]
+* **2nd** [[DATABASE/spell/Guiding Star|guiding star]], [[DATABASE/spell/Remove Paralysis|remove paralysis]]
 
 ## Lyrakien Staff (Greater)<span class="item-type">Item 10</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 920 gp
 **Bulk** 1
 The circumstance bonus is +2.
 
-* **3rd** [[Dream Message]], [[Safe Passage]], [[Wanderer's Guide]]
-* **4th** _concordant choir_, [[Dream Message]], [[Freedom of Movement]], [[Remove Paralysis]]
+* **3rd** [[DATABASE/spell/Dream Message|dream message]], [[DATABASE/spell/Safe Passage|safe passage]], [[DATABASE/spell/Wanderer's Guide|wanderer's guide]]
+* **4th** _concordant choir_, [[DATABASE/spell/Dream Message|dream message]], [[DATABASE/spell/Freedom of Movement|freedom of movement]], [[DATABASE/spell/Remove Paralysis|remove paralysis]]
 
 ## Lyrakien Staff (Major)<span class="item-type">Item 16</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 8,600 gp
 **Bulk** 1
 The circumstance bonus is +2.
 
-* **5th** [[Safe Passage]], [[Summon Celestial]] ([[Azata]] only)
-* **6th** _concordant choir_, [[Zealous Conviction]]
-* **7th** [[Cosmic Form]], _remove paralysis_
+* **5th** [[DATABASE/spell/Safe Passage|safe passage]], [[DATABASE/spell/Summon Celestial|summon celestial]] ([[DATABASE/monsterfamily/Azata|azata]] only)
+* **6th** _concordant choir_, [[DATABASE/spell/Zealous Conviction|zealous conviction]]
+* **7th** [[DATABASE/spell/Cosmic Form|cosmic form]], _remove paralysis_

@@ -11,6 +11,7 @@ name: Drain Vitality
 prerequisite: '[[DATABASE/feat/Beast Gunner Dedication|Beast Gunner Dedication]]'
 rarity: Common
 requirement: You're wielding your bondedbeastgun.
+rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -25,14 +26,14 @@ type: Feat
 # Drain Vitality <span class="action-icon">1</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Magical</span><span class="item-trait">Necromancy</span>
-**Source** [[Guns & Gears]]
-**Archetype** [[Beast Gunner]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Archetype** [[DATABASE/archetype/Beast Gunner|Beast Gunner]]
 **Frequency** once per minute
-**Prerequisites** [[Beast Gunner Dedication]]
+**Prerequisites** [[DATABASE/feat/Beast Gunner Dedication|Beast Gunner Dedication]]
 **Requirements** You're wielding your bonded beast gun.
 
 ---
-You draw out the bestial magic energy within your bonded beast gun to fortify yourself, purge ongoing harm, and bolster your life force with a sheath of swirling life essence. You gain temporary Hit Points equal to your level and attempt a flat check against any ongoing [[Persistent Damage]], using the DC appropriate for particularly effective assistance. Using this ability depletes the magic within your bonded beast gun, preventing you from using any of its activated abilities until the end of your next turn.
+You draw out the bestial magic energy within your bonded beast gun to fortify yourself, purge ongoing harm, and bolster your life force with a sheath of swirling life essence. You gain temporary Hit Points equal to your level and attempt a flat check against any ongoing [[DATABASE/condition/Persistent Damage|persistent damage]], using the DC appropriate for particularly effective assistance. Using this ability depletes the magic within your bonded beast gun, preventing you from using any of its activated abilities until the end of your next turn.
 
 ## Traits
 

@@ -70,19 +70,19 @@ wisdom: '+2'
 # Hobgoblin Archer
 
 Bands of hobgoblin soldiers typically have at least one archer among their ranks. In smaller groups, the hobgoblin archer also serves as that band’s captain.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 19
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 19
 **Unspecific Lore**: DC 17
 **Specific Lore**: DC 14
 
 # Hobgoblin Archer<span class="item-type">Creature 4</span>
 
 <span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Goblin</span><span class="item-trait">Humanoid</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +10; darkvision
-**Languages** [[Common]], [[Goblin]]
-**Skills** [[Acrobatics]] +8, [[Athletics]] +8, [[Stealth]] +10
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Goblin|Goblin]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +8, [[DATABASE/skill/Athletics|Athletics]] +8, [[DATABASE/skill/Stealth|Stealth]] +10
 **Str** +2, **Dex** +4, **Con** +2, **Int** +0, **Wis** +2, **Cha** -1
-**Items** [[Crossbow]], [[Scale Mail]], [[Shortsword]]
+**Items** [[DATABASE/weapon/Crossbow|crossbow (20 bolts)]], [[DATABASE/armor/Scale Mail|scale mail]], [[DATABASE/weapon/Shortsword|shortsword]]
 
 ---
 **AC** 23; **Fort** +10, **Ref** +12, **Will** +8

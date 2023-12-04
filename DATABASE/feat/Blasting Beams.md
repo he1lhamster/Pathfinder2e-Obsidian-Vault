@@ -11,6 +11,7 @@ name: Blasting Beams
 prerequisite: null
 rarity: Rare
 requirement: You have a free hand.
+rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Gatewalkers Player''s Guide|Gatewalkers Player''s Guide]]'
 subcategory: null
@@ -27,7 +28,7 @@ type: Feat
 # Blasting Beams <span class="action-icon">1</span> <span class="item-type">Feat 2</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Attack</span><span class="item-trait">Deviant</span><span class="item-trait">Evocation</span><span class="item-trait">Magical</span>
-**Source** [[Gatewalkers Player's Guide]], [[Dark Archive]]
+**Source** [[DATABASE/source/Gatewalkers Player's Guide|Gatewalkers Player's Guide]], [[DATABASE/source/Dark Archive|Dark Archive]]
 **Requirements** You have a free hand.
 
 ---
@@ -56,4 +57,4 @@ Something with the magical trait is imbued with magical energies not tied to a s
 
 **Rare:**
 
-This rarity indicates that a rules element is very difficult to find in the game world. A rare feat, spell, item or the like is available to players only if the GM decides to include it in the game, typically through discovery during play. Creatures with this trait are rare. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creatures is increased by 5.
+This rarity indicates that a rules element is very difficult to find in the game world. A rare feat, spell, item or the like is available to players only if the GM decides to include it in the game, typically through discovery during play. Creatures with this trait are rare. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creatures is increased by 5.

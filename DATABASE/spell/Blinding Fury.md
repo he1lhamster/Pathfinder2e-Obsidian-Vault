@@ -20,6 +20,7 @@ patron_theme: null
 range: 60 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
@@ -41,7 +42,7 @@ type: Spell
 # Blinding Fury<span class="item-type">Spell 6</span>
 
 <span class="item-trait">Curse</span><span class="item-trait">Emotion</span><span class="item-trait">Enchantment</span><span class="item-trait">Incapacitation</span><span class="item-trait">Mental</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Traditions** divine, occult, primal
 **Cast** <span class="action-icon">5</span> verbal; **Trigger** A creature damages you.
 **Range** 60 feet; **Targets** the triggering creature
@@ -50,6 +51,6 @@ type: Spell
 ---
 You curse the target with your outrage at being attacked. The effect is determined by the target's Will save.
 **Critical Success** The target is unaffected.
-**Success** The target can't observe you until the end of its turn, and if you're currently [[Observed]] by it, you become [[Hidden]] to it.
+**Success** The target can't observe you until the end of its turn, and if you're currently [[DATABASE/condition/Observed|observed]] by it, you become [[DATABASE/condition/Hidden|hidden]] to it.
 **Failure** As success, and for 1 minute, every time the target damages you, it can't observe you until the end of its turn.
 **Critical Failure** As success, and for an unlimited duration, the first time each round the target damages a creature, it can't observe that creature until the end of its turn. If it damages several creatures at once, the creature it can't perceive is chosen randomly among those creatures.

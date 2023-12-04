@@ -13,6 +13,7 @@ name: Blasting Ram
 price: 360 gp
 rarity: Uncommon
 reflex: null
+rus_type_level: null
 size: Large
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
@@ -25,7 +26,7 @@ usage: portable (black powder), held in 8 hands
 # Blasting Ram<span class="item-type">Item 7</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-size item-trait">Large</span><span class="item-trait">Portable</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 360 gp; **Ammunition** ram powder charge (2 gp, 1 Bulk)
 
 ---

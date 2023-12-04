@@ -16,6 +16,7 @@ id: '8'
 name: Monk
 perception_proficiency: Trained
 rarity: Common
+rus_type_level: null
 skill_proficiency:
 - Trained in a number of skills equal to 4 plus your Intelligence modifier
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -25,7 +26,7 @@ type: Class
 
 ---
 # Monk
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 _The strength of your fist flows from your mind and spirit. You seek perfection—honing your body into a flawless instrument and your mind into an orderly bastion of wisdom. You’re a fierce combatant renowned for martial arts skills and combat stances that grant you unique fighting moves. While the challenge of mastering many fighting styles drives you to great heights, you also enjoy meditating on philosophical questions and discovering new ways to obtain peace and enlightenment._
 **Key Ability: STRENGTH OR DEXTERITY**
 At 1st level, your class gives you an ability boost to your choice of Strength or Dexterity.
@@ -106,30 +107,29 @@ Trained in monk class DC
 
 # Class Features
 
-You gain these features as a Monk. Abilities gained at higher levels list the levels at which you gain them next to the features' names.
-
-|   Your Level | Class Features                                                                                                                      |
-|-------------:|:------------------------------------------------------------------------------------------------------------------------------------|
-|            1 | Ancestry and background, initial proficiencies, flurry of blows, monk feat, powerful fist                                           |
-|            2 | Monk feat, skill feat                                                                                                               |
-|            3 | General feat, incredible movement +10 feet, mystic strikes, skill increase                                                          |
-|            4 | Monk feat, skill feat                                                                                                               |
-|            5 | Ability boosts, alertness, ancestry feat, expert strikes, skill increase                                                            |
-|            6 | Monk feat, skill feat                                                                                                               |
-|            7 | General feat, incredible movement +15 feet, path to perfection, skill increase, weapon specialization                               |
-|            8 | Monk feat, skill feat                                                                                                               |
-|            9 | Ancestry feat, metal strikes, monk expertise, skill increase                                                                        |
-|           10 | Ability boosts, monk feat, skill feat                                                                                               |
-|           11 | General feat, incredible movement +20 feet, second path to perfection, skill increase                                               |
-|           12 | Monk feat, skill feat                                                                                                               |
-|           13 | Ancestry feat, graceful mastery, master strikes, skill increase                                                                     |
-|           14 | Monk feat, skill feat                                                                                                               |
-|           15 | Ability boosts, general feat, greater weapon specialization, incredible movement +25 feet, skill increase, third path to perfection |
-|           16 | Monk feat, skill feat                                                                                                               |
-|           17 | Adamantine strikes, ancestry feat, graceful legend, skill increase                                                                  |
-|           18 | Monk feat, skill feat                                                                                                               |
-|           19 | General feat, incredible movement +30 feet, perfected form, skill increase                                                          |
-|           20 | Ability boosts, monk feat, skill feat                                                                                               |
+You gain these features as a Monk. Abilities gained at higher levels list the levels at which you gain them next to the features' names.| 0 | 1 |
+|:-----------|:------------------------------------------------------------------------------------------------------------------------------------|
+| Your Level | Class Features |
+| 1 | Ancestry and background, initial proficiencies, flurry of blows, monk feat, powerful fist |
+| 2 | Monk feat, skill feat |
+| 3 | General feat, incredible movement +10 feet, mystic strikes, skill increase |
+| 4 | Monk feat, skill feat |
+| 5 | Ability boosts, alertness, ancestry feat, expert strikes, skill increase |
+| 6 | Monk feat, skill feat |
+| 7 | General feat, incredible movement +15 feet, path to perfection, skill increase, weapon specialization |
+| 8 | Monk feat, skill feat |
+| 9 | Ancestry feat, metal strikes, monk expertise, skill increase |
+| 10 | Ability boosts, monk feat, skill feat |
+| 11 | General feat, incredible movement +20 feet, second path to perfection, skill increase |
+| 12 | Monk feat, skill feat |
+| 13 | Ancestry feat, graceful mastery, master strikes, skill increase |
+| 14 | Monk feat, skill feat |
+| 15 | Ability boosts, general feat, greater weapon specialization, incredible movement +25 feet, skill increase, third path to perfection |
+| 16 | Monk feat, skill feat |
+| 17 | Adamantine strikes, ancestry feat, graceful legend, skill increase |
+| 18 | Monk feat, skill feat |
+| 19 | General feat, incredible movement +30 feet, perfected form, skill increase |
+| 20 | Ability boosts, monk feat, skill feat |
 
 ## Ancestry and Background
 
@@ -143,10 +143,10 @@ At 1st level, you gain a number of proficiencies representing your basic trainin
 
 You can attack rapidly with fists, feet, elbows, knees, and other unarmed attacks. You gain the Flurry of Blows action.
 
-### [[Flurry of Blows]] <span class="action-icon">1</span>
+### [[DATABASE/action/Flurry of Blows|Flurry of Blows]] <span class="action-icon">1</span>
 
 <span class="item-trait">Flourish</span><span class="item-trait">Monk</span>
-**Source** [[Core Rulebook]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
 Make two unarmed Strikes. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses. Apply your multiple attack penalty to the Strikes normally. As it has the flourish trait, you can use Flurry of Blows only once per turn.
@@ -173,7 +173,7 @@ You move like the wind. You gain a +10-foot status bonus to your Speed whenever 
 
 ## Mystic Strikes<span class="item-type">Level 3</span>
 
-Focusing your will into your physical attacks imbues them with mystical energy. Your unarmed attacks become magical, allowing them to get past resistances to non-magical attacks. However, you still need an item such as [[Handwraps of Mighty Blows]] to gain an item bonus to attack rolls or increase your attacks' weapon damage dice.
+Focusing your will into your physical attacks imbues them with mystical energy. Your unarmed attacks become magical, allowing them to get past resistances to non-magical attacks. However, you still need an item such as [[DATABASE/equipment/Handwraps of Mighty Blows|handwraps of mighty blows]] to gain an item bonus to attack rolls or increase your attacks' weapon damage dice.
 
 ## Skill Increases<span class="item-type">Level 3</span>
 

@@ -2,6 +2,7 @@
 id: '5'
 name: Gnomish
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait: null
 type: Language
@@ -9,20 +10,20 @@ type: Language
 ---
 # Gnomish
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 The below entries contain speakers of Gnomish.
 
 ## Ancestries (1)
 
-[[Gnome]]
+[[DATABASE/ancestry/Gnome|Gnome]]
 
 ## Monsters (26)
 
-[[Adult Brass Dragon]], [[Adult Bronze Dragon]], [[Adult Copper Dragon]], [[Ancient Brass Dragon]], [[Ancient Bronze Dragon]], [[Ancient Copper Dragon]], [[Ancient Gold Dragon]], [[Brownie]], [[Coil Spy]], [[Deep Gnome Rockwarden]], [[Deep Gnome Scout]], [[Deep Gnome Warrior]], [[Duende]], [[Fate's Prophet]], [[Jabberwock]], [[Jin Durwhimmer]], [[Lesser Jabberwock]], [[Mengkare]], [[Nyrissa]], [[Pukwudgie]], [[Remnant of Barzillai]], [[Unfeeling Empath]], [[Werendegar]], [[Xae]], [[Young Brass Dragon]], [[Young Copper Dragon]]
+[[DATABASE/monster/Adult Brass Dragon|Adult Brass Dragon]], [[DATABASE/monster/Adult Bronze Dragon|Adult Bronze Dragon]], [[DATABASE/monster/Adult Copper Dragon|Adult Copper Dragon]], [[DATABASE/monster/Ancient Brass Dragon|Ancient Brass Dragon]], [[DATABASE/monster/Ancient Bronze Dragon|Ancient Bronze Dragon]], [[DATABASE/monster/Ancient Copper Dragon|Ancient Copper Dragon]], [[DATABASE/monster/Ancient Gold Dragon|Ancient Gold Dragon]], [[DATABASE/monster/Brownie|Brownie]], [[DATABASE/monster/Coil Spy|Coil Spy]], [[DATABASE/monster/Deep Gnome Rockwarden|Deep Gnome Rockwarden]], [[DATABASE/monster/Deep Gnome Scout|Deep Gnome Scout]], [[DATABASE/monster/Deep Gnome Warrior|Deep Gnome Warrior]], [[DATABASE/monster/Duende|Duende]], [[DATABASE/monster/Fate's Prophet|Fate's Prophet]], [[DATABASE/monster/Jabberwock|Jabberwock]], [[DATABASE/monster/Jin Durwhimmer|Jin Durwhimmer]], [[DATABASE/monster/Lesser Jabberwock|Lesser Jabberwock]], [[DATABASE/monster/Mengkare|Mengkare]], [[DATABASE/monster/Nyrissa|Nyrissa]], [[DATABASE/monster/Pukwudgie|Pukwudgie]], [[DATABASE/monster/Remnant of Barzillai|Remnant of Barzillai]], [[DATABASE/monster/Unfeeling Empath|Unfeeling Empath]], [[DATABASE/monster/Werendegar|Werendegar]], [[DATABASE/monster/Xae|Xae]], [[DATABASE/monster/Young Brass Dragon|Young Brass Dragon]], [[DATABASE/monster/Young Copper Dragon|Young Copper Dragon]]
 
 ## NPCs (8)
 
-[[Duhgik, Kobold Trapsmith]], [[Jubilost Narthropple (Level 1)]], [[Jubilost Narthropple (Level 8)]], [[Linzi (Level 7)]], [[Lyrma Swampwalker]], [[Rumin Purgo]], [[Shoma Lyzerius, Bitter Firebug Rival]], [[Tartuccio (Tartuk)]]
+[[DATABASE/npc/Duhgik, Kobold Trapsmith|Duhgik]], [[DATABASE/npc/Jubilost Narthropple (Level 1)|Jubilost Narthropple (Level 1)]], [[DATABASE/npc/Jubilost Narthropple (Level 8)|Jubilost Narthropple (Level 8)]], [[DATABASE/npc/Linzi (Level 7)|Linzi (Level 7)]], [[DATABASE/npc/Lyrma Swampwalker|Lyrma Swampwalker]], [[DATABASE/npc/Rumin Purgo|Rumin Purgo]], [[DATABASE/npc/Shoma Lyzerius, Bitter Firebug Rival|Shoma Lyzerius]], [[DATABASE/npc/Tartuccio (Tartuk)|Tartuccio]]
 
 ## Regions (4)
 

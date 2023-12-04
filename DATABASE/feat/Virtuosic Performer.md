@@ -11,6 +11,7 @@ name: Virtuosic Performer
 prerequisite: Trained in [[DATABASE/skill/Performance|Performance]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: performance
@@ -24,29 +25,30 @@ type: Feat
 # Virtuosic Performer <span class="item-type">Feat 1</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** trained in [[Performance]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** trained in [[DATABASE/skill/Performance|Performance]]
 
 ---
 You have exceptional talent with one type of performance. You gain a +1 circumstance bonus when making a certain type of performance. If you are a master in Performance, this bonus increases to +2. Select one of the following specialties and apply the bonus when attempting Performance checks of that type. If it’s unclear whether the specialty applies, the GM decides.
 
 ## Virtuosic Performer
 
-| Specialty   | Examples                            |
-|:------------|:------------------------------------|
-| Acting      | Drama, pantomime, puppetry          |
-| Comedy      | Buffoonery, joke telling, limericks |
-| Dance       | Ballet, huara, jig, macru           |
-| Keyboards   | Harpsichord, organ, piano           |
-| Oratory     | Epic, ode, poetry, storytelling     |
-| Percussion  | Chimes, drum, gong, xylophone       |
-| Singing     | Ballad, chant, melody, rhyming      |
-| Strings     | Fiddle, harp, lute, viol            |
-| Winds       | Bagpipe, flute, recorder, trumpet   |
+| 0 | 1 |
+|:-----------|:------------------------------------|
+| Specialty | Examples |
+| Acting | Drama, pantomime, puppetry |
+| Comedy | Buffoonery, joke telling, limericks |
+| Dance | Ballet, huara, jig, macru |
+| Keyboards | Harpsichord, organ, piano |
+| Oratory | Epic, ode, poetry, storytelling |
+| Percussion | Chimes, drum, gong, xylophone |
+| Singing | Ballad, chant, melody, rhyming |
+| Strings | Fiddle, harp, lute, viol |
+| Winds | Bagpipe, flute, recorder, trumpet |
 
 ## Virtuosic Performer Leads To...
 
-[[Legendary Performer]]
+[[DATABASE/feat/Legendary Performer|Legendary Performer]]
 
 ## Traits
 

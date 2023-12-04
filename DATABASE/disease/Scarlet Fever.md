@@ -4,6 +4,7 @@ level: '1'
 name: Scarlet Fever
 onset: 2 days
 rarity: Common
+rus_type_level: null
 saving_throw: DC 13 Fortitude
 school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
@@ -17,6 +18,6 @@ type: Disease
 # Scarlet Fever<span class="item-type">Disease 1</span>
 
 <span class="item-trait">Disease</span>
-**Source** [[Gamemastery Guide]]
-The relatively simple sore throat caused by this disease leads many victims to initially dismiss it as a mild illness, but scarlet fever can be deadly if left untreated. You can’t reduce your [[Sickened]] condition while affected with scarlet fever.
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
+The relatively simple sore throat caused by this disease leads many victims to initially dismiss it as a mild illness, but scarlet fever can be deadly if left untreated. You can’t reduce your [[DATABASE/condition/Sickened|sickened]] condition while affected with scarlet fever.
 **Saving Throw** DC 13 Fortitude; **Onset** 2 days; **Stage 1** sickened 1 (1 day); **Stage 2** sickened 2 (1 day); **Stage 3** sickened 3 and can’t speak (1 day); **Stage 4** death

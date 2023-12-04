@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 size: null
@@ -53,7 +54,7 @@ weapon_type: null
 # Darkvision Scope<span class="item-type">Item 5+</span>
 
 <span class="item-trait">Divination</span><span class="item-trait">Magical</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 _ Characters with access to firearms gain access to accessories that can be used with those weapons._
 **Usage** attached to firearm or crossbow (scope); **Bulk** L
 
@@ -63,13 +64,13 @@ These scopes, popular with snipers and other sneaky sharpshooters who ply their 
 
 ## Darkvision Scope<span class="item-type">Item 5</span>
 
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 160 gp
 **Bulk** L
 
 ## Darkvision Scope (Greater)<span class="item-type">Item 15</span>
 
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 5,500 gp
 **Bulk** L
 The item bonus is +2 and activating the scope grants greater darkvision until the beginning of your next turn, as long as you continue to look through the scope.

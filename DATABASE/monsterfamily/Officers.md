@@ -3,6 +3,7 @@ creature_family: Officers
 id: '192'
 name: Officers
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Officers
 
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 Larger societies rely on those with the authority and the ability to interpret and enforce laws. In good-aligned societies, these officials carry out their duties fairly. In neutral and evil ones, these officials can be harsh and cruel (with an altered alignment to reflect this), imposing severe punishments on those who can't pay for mercy.
 
 ### Members
 
-[[Archer Sentry]] (Creature 2), [[Barrister]] (Creature -1), [[Captain of the Guard]] (Creature 6), [[Executioner]] (Creature 6), [[Guard]] (Creature 1), [[Jailer]] (Creature 3), [[Watch Officer]] (Creature 3)
+[[DATABASE/npc/Archer Sentry|Archer Sentry]] (Creature 2), [[DATABASE/npc/Barrister|Barrister]] (Creature -1), [[DATABASE/npc/Captain of the Guard|Captain of the Guard]] (Creature 6), [[DATABASE/npc/Executioner|Executioner]] (Creature 6), [[DATABASE/npc/Guard|Guard]] (Creature 1), [[DATABASE/npc/Jailer|Jailer]] (Creature 3), [[DATABASE/npc/Watch Officer|Watch Officer]] (Creature 3)
 
 ###  Deploying The Watch
 

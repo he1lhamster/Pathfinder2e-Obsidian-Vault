@@ -5,6 +5,7 @@ item_category: Relics
 name: Beginner's Luck
 prerequisite: null
 rarity: Common
+rus_type_level: null
 school: Divination
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
@@ -16,7 +17,7 @@ type: Relic Minor Gift
 # Beginner's Luck<span class="item-type">Minor Gift</span>
 
 <span class="item-trait">Divination</span><span class="item-trait">Fortune</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Aspect** luck
 
 ---

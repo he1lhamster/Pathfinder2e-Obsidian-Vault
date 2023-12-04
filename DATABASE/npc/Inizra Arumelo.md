@@ -148,28 +148,28 @@ _Ever hopeful, the captain of Promise's guard hopes to steer the city toward bec
 ## Campaign Role
 
 Inizra is starting to see evidence of Mengkare's corruption, but she still believes the Glorious Endeavor can be salvaged. What she's learned so far about Mengkare's plans, including brief snippets about the _Anima Invocation_, have only increased her concern and her convictions.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 50
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 50
 **Unspecific Lore**: DC 48
 **Specific Lore**: DC 45
 
-## Elite | [[Inizra Arumelo]] | Weak
+## Elite | [[DATABASE/npc/Inizra Arumelo|Normal]] | Weak
 Proficiency without Level
 
 # Inizra Arumelo<span class="item-type">Creature 20</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">LG</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 150. Broken Promises]]
+**Source** [[DATABASE/source/Pathfinder 150. Broken Promises|Pathfinder #150: Broken Promises]]
 **Perception** +36
-**Languages** [[Common]], [[Draconic]]
-**Skills** [[Arcana]] +32, [[Athletics]] +38, [[Diplomacy]] +38, [[Lore]] +41, [[Medicine]] +34, [[Society]] +38
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Draconic|Draconic]]
+**Skills** [[DATABASE/skill/Arcana|Arcana]] +32, [[DATABASE/skill/Athletics|Athletics]] +38, [[DATABASE/skill/Diplomacy|Diplomacy]] +38, [[DATABASE/skill/Lore|Hermea Lore]] +41, [[DATABASE/skill/Medicine|Medicine]] +34, [[DATABASE/skill/Society|Society]] +38
 **Str** +7, **Dex** +1, **Con** +5, **Int** +3, **Wis** +2, **Cha** +4
-**Items** _+3 [[Striking]] [[Returning]] [[Spear]]_, _[[Potion of Flying]]_ (4), [[Sturdy Shield]] (Hardness 20, HP 160, BT 80), _+3 [[Resilient]] [[Full Plate]]_
+**Items** _+3 [[DATABASE/equipment/Striking|major striking]] [[DATABASE/equipment/Returning|returning]] [[DATABASE/weapon/Spear|spear]]_, _[[DATABASE/equipment/Potion of Flying|potion of flying]]_ (4), [[DATABASE/equipment/Sturdy Shield|supreme sturdy shield]] (Hardness 20, HP 160, BT 80), _+3 [[DATABASE/equipment/Resilient|greater resilient]] [[DATABASE/armor/Full Plate|full plate]]_
 
 ---
 **AC** 46 (48 with shield raised); **Fort** +36, **Ref** +33, **Will** +31
 **HP** 375
-<span class="in-box-ability">**Boundless Reprisals** Inizra gains a reaction at the start of each enemy's turn that she can use only during that turn.</span><span class="in-box-ability">**Paragon's Guard Stance** Inizra always has her shield raised as if she had used the [[Raise a Shield]] action, as long as she meets that action's requirements.</span><span class="in-box-ability">[[Attack of Opportunity]] 5 Inizra can use Attack of Opportunity when a creature within her reach uses a concentrate action, in addition to its normal trigger. She can disrupt triggering concentrate actions, and she disrupts actions on any hit, not just a critical hit.</span><span class="in-box-ability">**[[Mirror Shield]] <span class="action-icon">5</span> ** **Requirements** You have a shield raised. **Trigger** An opponent casting a spell that targets you critically fails a spell attack roll against your AC. **Effect** You reflect the spell back against the triggering opponent. Make a ranged attack against the triggering creature using your highest proficiency with a ranged weapon. If you can cast spells, you can make a spell attack roll instead. If you succeed, your opponent takes the effects of a successful spell attack roll for their own spell (or the effects of a critical success if your attack roll was a critical success).</span><span class="in-box-ability">**[[Shield Block]] <span class="action-icon">5</span> ** </span>
+<span class="in-box-ability">**Boundless Reprisals** Inizra gains a reaction at the start of each enemy's turn that she can use only during that turn.</span><span class="in-box-ability">**Paragon's Guard Stance** Inizra always has her shield raised as if she had used the [[DATABASE/action/Raise a Shield|Raise a Shield]] action, as long as she meets that action's requirements.</span><span class="in-box-ability">[[DATABASE/monsterability/Attack of Opportunity|Attack of Opportunity]] 5 Inizra can use Attack of Opportunity when a creature within her reach uses a concentrate action, in addition to its normal trigger. She can disrupt triggering concentrate actions, and she disrupts actions on any hit, not just a critical hit.</span><span class="in-box-ability">**[[DATABASE/feat/Mirror Shield|Mirror Shield]] <span class="action-icon">5</span> ** **Requirements** You have a shield raised. **Trigger** An opponent casting a spell that targets you critically fails a spell attack roll against your AC. **Effect** You reflect the spell back against the triggering opponent. Make a ranged attack against the triggering creature using your highest proficiency with a ranged weapon. If you can cast spells, you can make a spell attack roll instead. If you succeed, your opponent takes the effects of a successful spell attack roll for their own spell (or the effects of a critical success if your attack roll was a critical success).</span><span class="in-box-ability">**[[DATABASE/monsterability/Shield Block|Shield Block]] <span class="action-icon">5</span> ** </span>
 
 ---
 **Speed** 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _spear_ +38 [+33/+28], **Damage** 6d6+20 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _spear_ +38 [+33/+28] (thrown 20 feet), **Damage** 6d6+8 piercing</span><span class="in-box-ability">**Weapon Supremacy** Inizra is permanently [[Quickened]]. She can use her extra action only to Strike.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _spear_ +38 [+33/+28], **Damage** 6d6+20 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _spear_ +38 [+33/+28] (thrown 20 feet), **Damage** 6d6+8 piercing</span><span class="in-box-ability">**Weapon Supremacy** Inizra is permanently [[DATABASE/condition/Quickened|quickened 1]]. She can use her extra action only to Strike.</span>

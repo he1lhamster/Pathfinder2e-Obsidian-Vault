@@ -8,6 +8,7 @@ name: Constrict
 rarity: Common
 requirement: The snake has a smaller creature [[DATABASE/condition/Grabbed|grabbed]]
   .
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait: null
@@ -17,8 +18,8 @@ type: Action
 ---
 # Constrict <span class="action-icon">1</span>
 
-**Source** [[Core Rulebook]] 
-**Requirements** The snake has a smaller creature [[Grabbed]].
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Requirements** The snake has a smaller creature [[DATABASE/condition/Grabbed|grabbed]].
 
 ---
-The snake deals 12 bludgeoning damage to the [[Grabbed]] creature; the creature must attempt a basic Fortitude save. If the snake is a specialized animal companion, increase this damage to 20.
+The snake deals 12 bludgeoning damage to the [[DATABASE/condition/Grabbed|grabbed]] creature; the creature must attempt a basic Fortitude save. If the snake is a specialized animal companion, increase this damage to 20.

@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 size: null
@@ -57,33 +58,33 @@ weapon_type: null
 # Bonmuan Swapping Stone<span class="item-type">Item 11+</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Conjuration</span><span class="item-trait">Consumable</span><span class="item-trait">Magical</span><span class="item-trait">Teleportation</span>
-**Source** [[Pathfinder 166. Despair on Danger Island]]
+**Source** [[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #166: Despair on Danger Island]]
 **Usage** held in 1 hand; **Bulk** —
 **Activate** <span class="action-icon">1</span> Interact
 
 ---
-This small, opalescent stone glows with a light that constantly shifts between colors. When you activate the stone, you throw it into a space within 100 feet. The stone then casts [[Dimension Door]] on you and transports you to itself. This destroys the stone.
+This small, opalescent stone glows with a light that constantly shifts between colors. When you activate the stone, you throw it into a space within 100 feet. The stone then casts [[DATABASE/spell/Dimension Door|dimension door]] on you and transports you to itself. This destroys the stone.
  You can instead hurl the stone at a creature in an attempt to bring that creature closer to you. Make a ranged Strike against a creature using your highest proficiency with a ranged weapon. The swapping stone has a range increment of 15 feet. On a hit, the stone shatters against the creature, casting _dimension door_ on the creature and causing it to instantly teleport to a space adjacent to you. An unwilling creature can resist this teleportation with a successful DC 28 Will save.
 
 ## Lesser Swapping Stone<span class="item-type">Item 11</span>
 
-**Source** [[Pathfinder 166. Despair on Danger Island]]
+**Source** [[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #166: Despair on Danger Island]]
 **Price** 300 gp
 
 ## Moderate Swapping Stone<span class="item-type">Item 14</span>
 
-**Source** [[Pathfinder 166. Despair on Danger Island]]
+**Source** [[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #166: Despair on Danger Island]]
 **Price** 600 gp
 The Will save DC is 31.
 
 ## Greater Swapping Stone<span class="item-type">Item 17</span>
 
-**Source** [[Pathfinder 166. Despair on Danger Island]]
+**Source** [[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #166: Despair on Danger Island]]
 **Price** 3,000 gp
 The Will save DC is 37.
 
 ## Major Swapping Stone<span class="item-type">Item 20</span>
 
-**Source** [[Pathfinder 166. Despair on Danger Island]]
+**Source** [[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #166: Despair on Danger Island]]
 **Price** 9,000 gp
 The Will save DC is 43.

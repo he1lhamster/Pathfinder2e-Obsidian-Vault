@@ -101,25 +101,25 @@ Tales tell of strange humanoids who harvest appendages and organs from other cre
  Despite not being undead, umasi can't heal naturally or via magic. Instead, they must harvest appendages and organs from the living to perpetuate their own lives. These modifications require special techniques, obscure rituals, and often the assistance of other umasi. Shorter rituals make quick repairs to wounded flesh— even consuming a nutrient-rich organ of a recently slain creature can provide quick rejuvenation—while more extensive changes require a full day's work.
  Because of the nature of their existences, no one single form remains common to umasi. Many graft any number of arms or legs of various sizes on their bodies, while others are conglomerations of exotic beasts, other humanoids, and whatever creatures they've hunted or scavenged. However, all umasi remain vaguely humanoid in shape. An umasi with additional arms can hold or wield more items at once, while additional legs or other limbs might grant increased Speed or new types of Speed. Concepts such as gender, ethnicity, and even recognizing someone based on their appearance are irrelevant to umasi. Instead, they value age and experience and identify themselves with iconic adornments or speech patterns.
  Despite their morbid nature, umasi are rarely at odds with living creatures. These opportunistic hunters value their self-preservation, but use fast-acting nonlethal poisons to subdue their targets for safe and minimally destructive harvesting. Few umasi harbor malice toward the living, but some possess a streak of self-loathing and search for powerful magics that might break whatever curse binds them to their current state. Rarely, an umasi finds some strange form of acceptance on the fringes of a remote community where their skills at medicine carry more weight than fear of their strange appearances.
-**Recall Knowledge - Aberration ([[Occultism]])**: DC 24
-**Recall Knowledge - Humanoid ([[Society]])**: DC 24
+**Recall Knowledge - Aberration ([[DATABASE/skill/Occultism|Occultism]])**: DC 24
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 24
 **Unspecific Lore**: DC 22
 **Specific Lore**: DC 19
 
 # Umasi<span class="item-type">Creature 6</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">CN</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Aberration</span><span class="item-trait">Humanoid</span>
-**Source** [[Bestiary 3]]
-**Perception** +12; [[Darkvision]]
-**Languages** [[Common]]
-**Skills** [[Athletics]] +15, [[Intimidation]] +9, [[Medicine]] +14, [[Stealth]] +13, [[Survival]] +10
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
+**Perception** +12; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +15, [[DATABASE/skill/Intimidation|Intimidation]] +9, [[DATABASE/skill/Medicine|Medicine]] +14, [[DATABASE/skill/Stealth|Stealth]] +13, [[DATABASE/skill/Survival|Survival]] +10
 **Str** +5, **Dex** +3, **Con** +4, **Int** +1, **Wis** +2, **Cha** +1
-**Items** wooden shield (Hardness 5, HP 12, BT 6) with [[Shield Spikes]], _+1 [[Blowgun]]_ (10 darts with harvester poison)
+**Items** wooden shield (Hardness 5, HP 12, BT 6) with [[DATABASE/weapon/Shield Spikes|shield spikes]], _+1 [[DATABASE/weapon/Blowgun|blowgun]]_ (10 darts with harvester poison)
 
 ---
 **AC** 23 (25 with shield raised); **Fort** +16, **Ref** +11, **Will** +12; +2 status to all saves vs. poison
 **HP** 99 (immortal flesh); **Immunities** disease
-<span class="in-box-ability">**Immortal Flesh** Umasi can't heal or recover HP in any way except their flesh grafting techniques (see sidebar). However, despite being living creatures, they don't take damage from either positive or negative damage.</span><span class="in-box-ability">**[[Shield Block]] <span class="action-icon">5</span> ** </span>
+<span class="in-box-ability">**Immortal Flesh** Umasi can't heal or recover HP in any way except their flesh grafting techniques (see sidebar). However, despite being living creatures, they don't take damage from either positive or negative damage.</span><span class="in-box-ability">**[[DATABASE/monsterability/Shield Block|Shield Block]] <span class="action-icon">5</span> ** </span>
 
 ---
 **Speed** 35 feet
@@ -127,4 +127,4 @@ Tales tell of strange humanoids who harvest appendages and organs from other cre
 
 ###  Flesh Grafting
 
-An umasi can spend 10 minutes grafting the flesh of other living or recently dead humanoids onto their body, attempting a DC 20 [[Medicine]] check with the effects of [[Treat Wounds]]. This process is the only way an umasi can recover Hit Points.
+An umasi can spend 10 minutes grafting the flesh of other living or recently dead humanoids onto their body, attempting a DC 20 [[DATABASE/skill/Medicine|Medicine]] check with the effects of [[DATABASE/action/Treat Wounds|Treat Wounds]]. This process is the only way an umasi can recover Hit Points.

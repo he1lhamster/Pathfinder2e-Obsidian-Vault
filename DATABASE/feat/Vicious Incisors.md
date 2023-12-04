@@ -11,6 +11,7 @@ name: Vicious Incisors
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,14 +24,14 @@ type: Feat
 # Vicious Incisors <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Ratfolk</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
-You've let your incisors grow long enough to serve as formidable weapons. You gain a jaws unarmed attack that deals 1d6 piercing damage. Your jaws are in the [[Brawling]] group and have the finesse and unarmed traits. Unlike most creatures, you can file down your teeth and regrow them later on, enabling you to select this feat at any level, and to retrain into and out of this feat.
+You've let your incisors grow long enough to serve as formidable weapons. You gain a jaws unarmed attack that deals 1d6 piercing damage. Your jaws are in the [[DATABASE/weapongroup/Brawling|brawling]] group and have the finesse and unarmed traits. Unlike most creatures, you can file down your teeth and regrow them later on, enabling you to select this feat at any level, and to retrain into and out of this feat.
 
 ## Vicious Incisors Leads To...
 
-[[Gnaw]]
+[[DATABASE/feat/Gnaw|Gnaw]]
 
 ## Traits
 

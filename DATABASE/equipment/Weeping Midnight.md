@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: DC 36 Fortitude
 school: null
 size: null
@@ -58,11 +59,11 @@ weapon_type: null
 # Weeping Midnight<span class="item-type">Item 16</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Injury</span><span class="item-trait">Poison</span>
-**Source** [[Pathfinder 149. Against the Scarlet Triad]]
+**Source** [[DATABASE/source/Pathfinder 149. Against the Scarlet Triad|Pathfinder #149: Against the Scarlet Triad]]
 **Price** 1,400 gp
 **Usage** held in 2 hands; **Bulk** L
 **Activate** <span class="action-icon">3</span> Interact
 
 ---
 Alchemists have refined the devastatingly allergenic pollen of the widow orchid to create this venom, which swiftly causes the victim’s eyes to leak mucus and swell shut.
- **Saving Throw** DC 36 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 6d6 poison damage and [[Dazzled]] (1 round); **Stage 2** 7d6 poison damage, dazzled, and [[Sickened]] (1 round); **Stage 3** 8d6 poison damage and [[Blinded]] (1 round)
+ **Saving Throw** DC 36 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 6d6 poison damage and [[DATABASE/condition/Dazzled|dazzled]] (1 round); **Stage 2** 7d6 poison damage, dazzled, and [[DATABASE/condition/Sickened|sickened 1]] (1 round); **Stage 3** 8d6 poison damage and [[DATABASE/condition/Blinded|blinded]] (1 round)

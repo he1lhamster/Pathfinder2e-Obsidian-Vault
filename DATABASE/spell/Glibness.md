@@ -24,6 +24,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -41,9 +42,9 @@ type: Spell
 # Glibness<span class="item-type">Spell 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Enchantment</span><span class="item-trait">Mental</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** occult
-**Deities** [[Dhalavei]], [[Grandmother Spider]], [[Ydajisk]]
+**Deities** [[DATABASE/deity/Dhalavei|Dhalavei]], [[DATABASE/deity/Grandmother Spider|Grandmother Spider]], [[DATABASE/deity/Ydajisk|Ydajisk]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Duration** 10 minutes
 

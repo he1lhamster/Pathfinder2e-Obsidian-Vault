@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/barbarianinstinct/Dragon Instinct|dragon instinct]] ; 
   Rage Wings|Dragon''s Rage Wings]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -29,11 +30,11 @@ type: Feat
 # Dragon Transformation <span class="action-icon">1</span> <span class="item-type">Feat 16</span>
 
 <span class="item-trait">Barbarian</span><span class="item-trait">Concentrate</span><span class="item-trait">Polymorph</span><span class="item-trait">Primal</span><span class="item-trait">Rage</span><span class="item-trait">Transmutation</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Dragon Instinct]]; [[Dragon's Rage Wings]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/barbarianinstinct/Dragon Instinct|dragon instinct]]; [[DATABASE/feat/Dragon's Rage Wings|Dragon's Rage Wings]]
 
 ---
-You transform into a ferocious Large dragon, gaining the effects of 6th-level [[Dragon Form]] except that you use your own AC and attack modifier, you apply your extra damage from [[Rage]], and the Breath Weapon uses your class DC. The action to Dismiss the transformation gains the rage trait.
+You transform into a ferocious Large dragon, gaining the effects of 6th-level [[DATABASE/spell/Dragon Form|dragon form]] except that you use your own AC and attack modifier, you apply your extra damage from [[DATABASE/action/Rage|Rage]], and the Breath Weapon uses your class DC. The action to Dismiss the transformation gains the rage trait.
  At 18th level, you gain a +20-foot status bonus to your fly Speed, your damage bonus with dragon Strikes increases to +12, and you gain a +14 status bonus to your breath weapon damage.
 
 ## Traits

@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Magaambyan Attendant Dedication|Magaambyan Attend
   Dedication]] ; Expert in [[DATABASE/skill/Society|Society]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 subcategory: null
@@ -25,12 +26,12 @@ type: Feat
 # Emerald Boughs Accustomation <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Skill</span>
-**Source** [[Character Guide]] 
-**Archetype** [[Magaambyan Attendant]]
-**Prerequisites** [[Magaambyan Attendant Dedication]]; Emerald Boughs affiliation; expert in [[Society]]
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
+**Archetype** [[DATABASE/archetype/Magaambyan Attendant|Magaambyan Attendant]]
+**Prerequisites** [[DATABASE/feat/Magaambyan Attendant Dedication|Magaambyan Attendant Dedication]]; Emerald Boughs affiliation; expert in [[DATABASE/skill/Society|Society]]
 
 ---
-You are comfortable and socially capable in almost any cultural context. When you use the Society skill to [[Subsist]], if you roll a critical failure, you get a failure instead; if you roll a success, you get a critical success instead; and if you roll a critical success, you can provide for another additional creature. Furthermore, when you attempt a Society check to [[Recall Knowledge]] about cultural practices and roll a critical failure, you get a failure instead.
+You are comfortable and socially capable in almost any cultural context. When you use the Society skill to [[DATABASE/action/Subsist|Subsist]], if you roll a critical failure, you get a failure instead; if you roll a success, you get a critical success instead; and if you roll a critical success, you can provide for another additional creature. Furthermore, when you attempt a Society check to [[DATABASE/action/Recall Knowledge|Recall Knowledge]] about cultural practices and roll a critical failure, you get a failure instead.
 
 ## Traits
 

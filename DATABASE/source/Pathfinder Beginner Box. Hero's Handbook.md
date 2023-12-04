@@ -2,6 +2,7 @@
 id: '64'
 name: Pathfinder Beginner Box. Hero's Handbook
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -15,4 +16,4 @@ type: Source
 
 ## Backgrounds [1]
 
-[[Deckhand]]
+[[DATABASE/background/Deckhand|Deckhand]]

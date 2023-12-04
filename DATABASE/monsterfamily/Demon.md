@@ -3,6 +3,7 @@ creature_family: Demon
 id: '28'
 name: Demon
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,24 +11,24 @@ type: Creature Family
 ---
 # Demon
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 When a sinful mortal soul is judged and sent on to the Abyss, it can become a deadly fiend—a demon. Demons are living incarnations of sin—be they classic sins like wrath or gluttony, or more “specialized” depravities like an obsession with torture or the act of treason or treachery. Once formed, a demon’s driving goals are twofold—the amassing of personal power, and the corruption of mortal souls to cause them to become tainted by sin. In this way demons ensure a never-ending supply of new demons to bolster their ever-growing ranks in the Abyss.
 
 ### Members
 
-[[Abrikandilu (Wrecker Demon)]] (Creature 4), [[Babau (Blood Demon)]] (Creature 6), [[Balor (Fire Demon)]] (Creature 20), [[Brimorak (Arson Demon)]] (Creature 5), [[Dretch (Sloth Demon)]] (Creature 2), [[Ghalzarokh (Tyranny Demon)]] (Creature 15), [[Glabrezu (Treachery Demon)]] (Creature 13), [[Hezrou (Toad Demon)]] (Creature 11), [[Invidiak (Shadow Demon)]] (Creature 7), [[Kalavakus (Slaver Demon)]] (Creature 10), [[Katpaskir (Nihilism Demon)]] (Creature 18), [[Kithangian (Beast Demon)]] (Creature 9), [[Marilith (Pride Demon)]] (Creature 17), [[Nabasu (Gluttony Demon)]] (Creature 8), [[Nalfeshnee (Boar Demon)]] (Creature 14), [[Omox (Slime Demon)]] (Creature 12), [[Quasit]] (Creature 1), [[Demon, Roru]] (Creature 7), [[Shemhazian (Mutilation Demon)]] (Creature 16), [[Succubus (Lust Demon)]] (Creature 7), [[Demon, Urglid]] (Creature 13), [[Vavakia]] (Creature 18), [[Vermlek (Worm Demon)]] (Creature 3), [[Vloriak (Despoiler Demon)]] (Creature 5), [[Vrock (Wrath Demon)]] (Creature 9), [[Vrolikai (Death Demon)]] (Creature 19)
+[[DATABASE/monster/Abrikandilu (Wrecker Demon)|Abrikandilu]] (Creature 4), [[DATABASE/monster/Babau (Blood Demon)|Babau]] (Creature 6), [[DATABASE/monster/Balor (Fire Demon)|Balor]] (Creature 20), [[DATABASE/monster/Brimorak (Arson Demon)|Brimorak]] (Creature 5), [[DATABASE/monster/Dretch (Sloth Demon)|Dretch]] (Creature 2), [[DATABASE/monster/Ghalzarokh (Tyranny Demon)|Ghalzarokh]] (Creature 15), [[DATABASE/monster/Glabrezu (Treachery Demon)|Glabrezu]] (Creature 13), [[DATABASE/monster/Hezrou (Toad Demon)|Hezrou]] (Creature 11), [[DATABASE/monster/Invidiak (Shadow Demon)|Invidiak]] (Creature 7), [[DATABASE/monster/Kalavakus (Slaver Demon)|Kalavakus]] (Creature 10), [[DATABASE/monster/Katpaskir (Nihilism Demon)|Katpaskir]] (Creature 18), [[DATABASE/monster/Kithangian (Beast Demon)|Kithangian]] (Creature 9), [[DATABASE/monster/Marilith (Pride Demon)|Marilith]] (Creature 17), [[DATABASE/monster/Nabasu (Gluttony Demon)|Nabasu]] (Creature 8), [[DATABASE/monster/Nalfeshnee (Boar Demon)|Nalfeshnee]] (Creature 14), [[DATABASE/monster/Omox (Slime Demon)|Omox]] (Creature 12), [[DATABASE/monster/Quasit|Quasit]] (Creature 1), [[DATABASE/monster/Demon, Roru|Roru]] (Creature 7), [[DATABASE/monster/Shemhazian (Mutilation Demon)|Shemhazian]] (Creature 16), [[DATABASE/monster/Succubus (Lust Demon)|Succubus]] (Creature 7), [[DATABASE/monster/Demon, Urglid|Urglid (Grave Demon)]] (Creature 13), [[DATABASE/monster/Vavakia|Vavakia]] (Creature 18), [[DATABASE/monster/Vermlek (Worm Demon)|Vermlek]] (Creature 3), [[DATABASE/monster/Vloriak (Despoiler Demon)|Vloriak]] (Creature 5), [[DATABASE/monster/Vrock (Wrath Demon)|Vrock]] (Creature 9), [[DATABASE/monster/Vrolikai (Death Demon)|Vrolikai]] (Creature 19)
 
 ### Members
 
-[[Demon Throng]]
+[[DATABASE/monsterfamily/Demon Throng|Demon Throng]]
 
 ###  Abyssal Newcomers
 
-Though now the most plentiful fiends of the [[Abyss]], demons are relative newcomers, spawning only as mortal influence—and mortal sin, in particular—began to shape the plane. For eons, demons fought with other longstanding residents of the Abyss for dominance, but eventually their sheer numbers allowed them to become the predominant chaotic fiends.
+Though now the most plentiful fiends of the [[DATABASE/plane/Abyss|Abyss]], demons are relative newcomers, spawning only as mortal influence—and mortal sin, in particular—began to shape the plane. For eons, demons fought with other longstanding residents of the Abyss for dominance, but eventually their sheer numbers allowed them to become the predominant chaotic fiends.
 
 ###  Conjuring Demons
 
-Conjuring demons is ill-advised, yet the desperate or wicked still do. Rituals like [[Planar Ally]] or [[Planar Binding]] are typical for long-term ends, and [[Summon Fiend]] for combat applications. For _planar ally_, demons sometimes accept offerings that aren't valuable if gifting them to a demon pushes the ritualist further into sin.
+Conjuring demons is ill-advised, yet the desperate or wicked still do. Rituals like [[DATABASE/ritual/Planar Ally|planar ally]] or [[DATABASE/ritual/Planar Binding|planar binding]] are typical for long-term ends, and [[DATABASE/spell/Summon Fiend|summon fiend]] for combat applications. For _planar ally_, demons sometimes accept offerings that aren't valuable if gifting them to a demon pushes the ritualist further into sin.
 
 ###  Demonic Deities
 
@@ -51,7 +52,7 @@ Demons, like many other fiends, hunger for souls. In their eyes, the primary use
 
 ###  Half-Demons
 
-The [[Abyss]] can corrupt living creatures through direct congress or supernatural infusion of Abyssal energies, resulting in monstrous hybrids. A half-demon should be a custom creature, but you can quickly generate one by giving an existing creature a few of a demon's abilities along with the demon's sin-related vulnerability. For example, a half-[[Hezrou (Toad Demon)]] [[Hill Giant]] would gain purity vulnerability, but perhaps also a bite, swim Speed, and poisonous pustules. When swapping over abilities between creatures of different levels, be sure to adjust the numbers for the new level.
+The [[DATABASE/plane/Abyss|Abyss]] can corrupt living creatures through direct congress or supernatural infusion of Abyssal energies, resulting in monstrous hybrids. A half-demon should be a custom creature, but you can quickly generate one by giving an existing creature a few of a demon's abilities along with the demon's sin-related vulnerability. For example, a half-[[DATABASE/monster/Hezrou (Toad Demon)|hezrou]] [[DATABASE/monster/Hill Giant|hill giant]] would gain purity vulnerability, but perhaps also a bite, swim Speed, and poisonous pustules. When swapping over abilities between creatures of different levels, be sure to adjust the numbers for the new level.
 
 ###  Other Demons
 

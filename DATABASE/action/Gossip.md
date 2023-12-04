@@ -7,6 +7,7 @@ id: '468'
 name: Gossip
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
@@ -19,7 +20,7 @@ type: Action
 # Gossip
 
 <span class="item-trait">Downtime</span><span class="item-trait">Secret</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 
 ---
 You seek out rumors about the infiltration’s target. Attempt a normal, hard, or very hard Diplomacy check. 

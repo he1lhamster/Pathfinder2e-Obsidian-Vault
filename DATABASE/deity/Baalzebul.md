@@ -21,6 +21,7 @@ follower_alignment:
 id: '63'
 name: Baalzebul
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Deception|Deception]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -30,7 +31,7 @@ type: Deity
 ---
 # Baalzebul (Lord of Flies) [LE]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 Baalzebul was one of the first angels of Heaven, a glorious lieutenant who followed Asmodeus in his exodus to Hell. In this new realm, he led the infernal armies and trained several other archdevils as generals. When Asmodeus divided the nine realms of Hell between himself and the eight archdevils, Baalzebul protested, thinking he had earned a place at his god’s side. Asmodeus responded by stripping away the archdevil’s radiant form, reducing him to a figure composed of swarming flies. Now known as the Lord of Flies, he rules over Cocytus, the frozen seventh layer of Hell, and attracts followers possessed of deep ambition and a powerful drive to triumph.
 **Category** Archdevils
 **Edicts** Convey yourself with regal dignity, claim what you desire and deserve, seek vengeance from those who wrong you
@@ -39,9 +40,9 @@ Baalzebul was one of the first angels of Heaven, a glorious lieutenant who follo
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Dexterity or Charisma
-**Divine Font** _[[Harm]]_
-**Divine Skill** [[Deception]]
-**Favored Weapon** [[Spear]]
-**Domains** [[Air Domain]], [[Ambition Domain]], [[Magic Domain]], [[Trickery Domain]]
-**Cleric Spells** 1st: _[[Fleet Step]]_, 2nd: _[[Vomit Swarm]]_, 6th: _[[Mislead]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Dexterity or Charisma
+**Divine Font** _[[DATABASE/spell/Harm|harm]]_
+**Divine Skill** [[DATABASE/skill/Deception|Deception]]
+**Favored Weapon** [[DATABASE/weapon/Spear|spear]]
+**Domains** [[DATABASE/domain/Air Domain|air]], [[DATABASE/domain/Ambition Domain|ambition]], [[DATABASE/domain/Magic Domain|magic]], [[DATABASE/domain/Trickery Domain|trickery]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Fleet Step|fleet step]]_, 2nd: _[[DATABASE/spell/Vomit Swarm|vomit swarm]]_, 6th: _[[DATABASE/spell/Mislead|mislead]]_

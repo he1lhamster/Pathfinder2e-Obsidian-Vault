@@ -3,6 +3,7 @@ creature_family: Cat
 id: '19'
 name: Cat
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Cat
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Few predators of the natural world can match the cat’s talent for stalking and stealth.
 
 ### Members
 
-[[Leopard]] (Creature 2), [[Lion]] (Creature 3), [[Smilodon]] (Creature 6), [[Tiger]] (Creature 4)
+[[DATABASE/monster/Leopard|Leopard]] (Creature 2), [[DATABASE/monster/Lion|Lion]] (Creature 3), [[DATABASE/monster/Smilodon|Smilodon]] (Creature 6), [[DATABASE/monster/Tiger|Tiger]] (Creature 4)
 
 ###  Cat Locations
 

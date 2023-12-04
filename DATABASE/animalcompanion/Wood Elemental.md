@@ -13,6 +13,7 @@ land_speed: '25'
 max_speed: '25'
 name: Wood Elemental
 rarity: Uncommon
+rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -36,22 +37,22 @@ wisdom: '+1'
 # Wood Elemental
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Plant</span><span class="item-trait">Wood</span>
-**Source** [[Rage of Elements]]
-Your companion is a wood elemental, such as a [[Moss Sloth]].
-**Access** You are a member of the [[Leaf]].
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
+Your companion is a wood elemental, such as a [[DATABASE/monster/Moss Sloth|moss sloth]].
+**Access** You are a member of the [[DATABASE/druidicorder/Leaf|leaf order]].
 **Size** Small
 **Melee** <span class="action-icon">1</span> branch, **Damage** 1d8 bludgeoning
 **Str** +2, **Dex** +1, **Con** +2, **Int** -4, **Wis** +1, **Cha** +0
 **Hit Points** 8
-**Skill** [[Survival]] 
-**Senses** [[Darkvision]]
+**Skill** [[DATABASE/skill/Survival|Survival]] 
+**Senses** [[DATABASE/monsterability/Darkvision|darkvision]]
 **Speed** 25 feet, climb 25 feet
 **Support Benefit** Your wood elemental entangles your foes with detachable branches and roots. Until the start of your next turn, if you hit with a Strike that deals damage to a creature in your wood elemental's reach, the creature takes a –5-foot circumstance penalty to its Speeds for 1 minute (–10 on a critical success). The creature, or a creature adjacent to it, can use an Interact action to unravel the branches and roots and remove the penalty.
 **Advanced Maneuver** Grabbing Branches
 
-### [[Grabbing Branches]] <span class="action-icon">2</span>
+### [[DATABASE/action/Grabbing Branches|Grabbing Branches]] <span class="action-icon">2</span>
 
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
-Your wood elemental surrounds a foe with branches, grabbing it in place. Your wood elemental makes a branch Strike; on a success, the target is also [[Grabbed]] by the wood elemental until the end of your next turn unless your wood elemental moves or the target [[Escape]].
+Your wood elemental surrounds a foe with branches, grabbing it in place. Your wood elemental makes a branch Strike; on a success, the target is also [[DATABASE/condition/Grabbed|grabbed]] by the wood elemental until the end of your next turn unless your wood elemental moves or the target [[DATABASE/action/Escape|Escapes]].

@@ -11,6 +11,7 @@ name: Basic Cleric Spellcasting
 prerequisite: '[[DATABASE/feat/Cleric Dedication|Cleric Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,16 +24,16 @@ type: Feat
 # Basic Cleric Spellcasting <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Cleric]]
-**Prerequisites** [[Cleric Dedication]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Cleric|Cleric]]
+**Prerequisites** [[DATABASE/feat/Cleric Dedication|Cleric Dedication]]
 
 ---
 You gain the basic spellcasting benefits. You can prepare your deity’s spells in your spell slots of the appropriate level from the cleric archetype.
 
 ## Basic Cleric Spellcasting Leads To...
 
-[[Divine Breadth]], [[Expert Cleric Spellcasting]]
+[[DATABASE/feat/Divine Breadth|Divine Breadth]], [[DATABASE/feat/Expert Cleric Spellcasting|Expert Cleric Spellcasting]]
 
 ## Traits
 

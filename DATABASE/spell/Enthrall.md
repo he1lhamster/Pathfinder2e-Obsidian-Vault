@@ -34,6 +34,7 @@ patron_theme: null
 range: 120 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -52,10 +53,10 @@ type: Spell
 # Enthrall<span class="item-type">Spell 3</span>
 
 <span class="item-trait">Auditory</span><span class="item-trait">Emotion</span><span class="item-trait">Enchantment</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult
-**Bloodlines** [[Diabolic]], [[Fey]], [[Genie]]
-**Deities** [[Ardad Lili]], [[Belial]], [[Bes]], [[Calistria]], [[Eritrice]], [[Likha]], [[Milani]], [[Nyarlathotep]], [[Shelyn]], [[Thisamet]], [[Tlehar]]
+**Bloodlines** [[DATABASE/sorcererbloodline/Diabolic|diabolic]], [[DATABASE/sorcererbloodline/Fey|fey]], [[DATABASE/sorcererbloodline/Genie|genie]]
+**Deities** [[DATABASE/deity/Ardad Lili|Ardad Lili]], [[DATABASE/deity/Belial|Belial]], [[DATABASE/deity/Bes|Bes]], [[DATABASE/deity/Calistria|Calistria]], [[DATABASE/deity/Eritrice|Eritrice]], [[DATABASE/deity/Likha|Likha]], [[DATABASE/deity/Milani|Milani]], [[DATABASE/deity/Nyarlathotep|Nyarlathotep (The Crawling Chaos)]], [[DATABASE/deity/Shelyn|Shelyn]], [[DATABASE/deity/Thisamet|Thisamet]], [[DATABASE/deity/Tlehar|Tlehar]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 120 feet; **Targets** all creatures in range
 **Saving Throw** Will; **Duration** sustained

@@ -12,6 +12,7 @@ prerequisite: Master in [[DATABASE/skill/Deception|Deception]] ; [[DATABASE/feat
   Dedication|Vigilante Dedication]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,12 +26,12 @@ type: Feat
 # Subjective Truth <span class="item-type">Feat 7</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Skill</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Vigilante]]
-**Prerequisites** master in [[Deception]]; [[Vigilante Dedication]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Vigilante|Vigilante]]
+**Prerequisites** master in [[DATABASE/skill/Deception|Deception]]; [[DATABASE/feat/Vigilante Dedication|Vigilante Dedication]]
 
 ---
-Your disparate identities allow you to defeat magic that detects lies. As long as what you say is true from the point of view of your current identity, you can say it even under effects like [[Zone of Truth]] that force you to speak the truth.
+Your disparate identities allow you to defeat magic that detects lies. As long as what you say is true from the point of view of your current identity, you can say it even under effects like [[DATABASE/spell/Zone of Truth|zone of truth]] that force you to speak the truth.
 
 ## Traits
 

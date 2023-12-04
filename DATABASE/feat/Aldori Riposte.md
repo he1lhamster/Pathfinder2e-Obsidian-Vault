@@ -11,6 +11,7 @@ name: Aldori Riposte
 prerequisite: '[[DATABASE/feat/Aldori Parry|Aldori Parry]]'
 rarity: Common
 requirement: You are benefiting from Aldori Parry.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
 subcategory: null
@@ -23,14 +24,14 @@ type: Feat
 # Aldori Riposte <span class="action-icon">5</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[World Guide]] 
-**Archetype** [[Aldori Duelist]]
-**Prerequisites** [[Aldori Parry]]
+**Source** [[DATABASE/source/World Guide|World Guide]] 
+**Archetype** [[DATABASE/archetype/Aldori Duelist|Aldori Duelist]]
+**Prerequisites** [[DATABASE/feat/Aldori Parry|Aldori Parry]]
 **Trigger** An opponent within your reach critically fails a Strike against you.
 **Requirements** You are benefiting from Aldori Parry.
 
 ---
-You riposte with your [[Aldori Dueling Sword]] when your enemy leaves an opening. Make a melee Strike or use a [[Disarm]] action against the triggering opponent using your Aldori dueling sword.
+You riposte with your [[DATABASE/weapon/Aldori Dueling Sword|Aldori dueling sword]] when your enemy leaves an opening. Make a melee Strike or use a [[DATABASE/action/Disarm|Disarm]] action against the triggering opponent using your Aldori dueling sword.
 
 ## Traits
 

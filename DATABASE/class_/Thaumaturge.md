@@ -16,6 +16,7 @@ id: '22'
 name: Thaumaturge
 perception_proficiency: Expert
 rarity: Common
+rus_type_level: null
 skill_proficiency:
 - Trained in Arcana
 - Nature
@@ -29,7 +30,7 @@ type: Class
 
 ---
 # Thaumaturge
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 _The world is full of the unexplainable: ancient magic, dead gods, and even stranger things. In response, you've scavenged the best parts of every magical tradition and built up a collection of esoterica—a broken holy relic here, a sprig of mistletoe there—that you can use to best any creature by exploiting their weaknesses and vulnerabilities. The mystic implement you carry is both badge and weapon, its symbolic weight helping you bargain with and subdue the supernatural. Every path to power has its restrictions and costs, but you turn them all to your advantage. You're a thaumaturge, and you work wonders._
 **Key Ability: CHARISMA**
 At 1st level, your class gives you an ability boost to Charisma.
@@ -40,14 +41,14 @@ You increase your maximum number of HP by this number at 1st level and every lev
 
 You'll see the following key terms in many thaumaturge class features.
  **Esoterica**: The esoterica trait is present in many thaumaturge feats and class features that incorporate the various talismans, supernatural trinkets, and other objects you carry with you. Abilities that have the esoterica trait require you to be in possession of your esoterica to use them. Normally, you're assumed to always have your esoterica with you, but in some rare circumstances, you might either not have them on hand or have your gear stripped from you.
- **Temporary Items**: Several feats allow you to prepare temporary items. Much like the infused items created by [[Alchemist]], these temporary items last only a short time before becoming useless. Temporary items are clearly not up to the same quality as other items, so they typically can't be sold. If an ability doesn't list how long a temporary item lasts, the item lasts until the next time you make your daily preparations. Any effect created by a temporary item also ends at that time if it hasn't already (unless it's a permanent effect).
+ **Temporary Items**: Several feats allow you to prepare temporary items. Much like the infused items created by [[DATABASE/class_/Alchemist|alchemists]], these temporary items last only a short time before becoming useless. Temporary items are clearly not up to the same quality as other items, so they typically can't be sold. If an ability doesn't list how long a temporary item lasts, the item lasts until the next time you make your daily preparations. Any effect created by a temporary item also ends at that time if it hasn't already (unless it's a permanent effect).
 
 ## Cards and Astrology
 
 The thaumaturge class draws inspiration from symbolism pertaining to both real-world and fantasy beliefs about divination via cards or reading the stars. The class references the following Golarion- specific divination deck and zodiacs.
  The **Harrow** is a divination deck similar to tarot on Earth, but with six suits of nine cards each. The suits each have a symbological correspondence with one of the six ability scores. For example, the suit of hammers has a connotation of strength, and the suit of books is related to learning and intelligence.
  The **Cosmic Caravan** is an astrological zodiac especially common among Varisians but used throughout various regions in the Inner Sea, imagining the 13 different signs as members of a traveling caravan as well as locations and people encountered on the journey.
- The **Dragon Empires Zodiac** is popular across the continent of Tian Xia, particularly with the oracles of Po Li, who use it to help craft laws. It contains 12 signs, comprising the five types of [[Dragon, Imperial]] as well as other creatures and archetypes of import in Tian Xia.
+ The **Dragon Empires Zodiac** is popular across the continent of Tian Xia, particularly with the oracles of Po Li, who use it to help craft laws. It contains 12 signs, comprising the five types of [[DATABASE/monsterfamily/Dragon, Imperial|imperial dragon]] as well as other creatures and archetypes of import in Tian Xia.
 
 # Roleplaying the Thaumaturge
 
@@ -77,7 +78,7 @@ You research deeper into the supernatural mysteries you discovered on your last 
 
 * Look to you to learn the weaknesses of a supernatural threat when one rears its head. Even when your explanations are invented on the fly, they just seem to work.
 * Rely on you to come up with a solution when the situation seems hopeless.
-* Mistake you for a common [[Wizard]] or magician.
+* Mistake you for a common [[DATABASE/class_/Wizard|wizard]] or magician.
 
 # Initial Proficiencies
 
@@ -95,7 +96,7 @@ Expert in Will
 
 ## Skills
 
-Trained in [[Arcana]], [[Nature]], [[Occultism]], and [[Religion]]
+Trained in [[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]], [[DATABASE/skill/Occultism|Occultism]], and [[DATABASE/skill/Religion|Religion]]
  Trained in a number of additional skills equal to 3 plus your Intelligence modifier
 
 ## Attacks
@@ -116,30 +117,29 @@ Trained in thaumaturge class DC
 
 # Class Features
 
-You gain these features as a Thaumaturge. Abilities gained at higher levels list the levels at which you gain them next to the features' names.
-
-|   Your Level | Class Features                                                                                                                          |
-|-------------:|:----------------------------------------------------------------------------------------------------------------------------------------|
-|            1 | Ancestry and background, initial proficiencies, esoteric lore, first implement and esoterica, implement's empowerment, thaumaturge feat |
-|            2 | Skill feat, thaumaturge feat                                                                                                            |
-|            3 | General feat, lightning reflexes, skill increase                                                                                        |
-|            4 | Skill feat, thaumaturge feat                                                                                                            |
-|            5 | Ability boosts, ancestry feat, second implement, skill increase, thaumaturge weapon expertise                                           |
-|            6 | Skill feat, thaumaturge feat                                                                                                            |
-|            7 | General feat, implement adept, resolve, skill increase, weapon specialization                                                           |
-|            8 | Skill feat, thaumaturge feat                                                                                                            |
-|            9 | Ancestry feat, intensify vulnerability, skill increase, thaumaturgic expertise, vigilant senses                                         |
-|           10 | Ability boosts, skill feat, thaumaturge feat                                                                                            |
-|           11 | General feat, medium armor expertise, second adept, skill increase                                                                      |
-|           12 | Skill feat, thaumaturge feat                                                                                                            |
-|           13 | Ancestry feat, greater resolve, skill increase, weapon mastery                                                                          |
-|           14 | Skill feat, thaumaturge feat                                                                                                            |
-|           15 | Ability boosts, general feat, greater weapon specialization, juggernaut, skill increase, third implement                                |
-|           16 | Skill feat, thaumaturge feat                                                                                                            |
-|           17 | Ancestry feat, implement paragon, skill increase, thaumaturgic mastery                                                                  |
-|           18 | Skill feat, thaumaturge feat                                                                                                            |
-|           19 | General feat, medium armor mastery, skill increase, unlimited esoterica                                                                 |
-|           20 | Ability boosts, skill feat, thaumaturge feat                                                                                            |
+You gain these features as a Thaumaturge. Abilities gained at higher levels list the levels at which you gain them next to the features' names.| 0 | 1 |
+|:-----------|:----------------------------------------------------------------------------------------------------------------------------------------|
+| Your Level | Class Features |
+| 1 | Ancestry and background, initial proficiencies, esoteric lore, first implement and esoterica, implement's empowerment, thaumaturge feat |
+| 2 | Skill feat, thaumaturge feat |
+| 3 | General feat, lightning reflexes, skill increase |
+| 4 | Skill feat, thaumaturge feat |
+| 5 | Ability boosts, ancestry feat, second implement, skill increase, thaumaturge weapon expertise |
+| 6 | Skill feat, thaumaturge feat |
+| 7 | General feat, implement adept, resolve, skill increase, weapon specialization |
+| 8 | Skill feat, thaumaturge feat |
+| 9 | Ancestry feat, intensify vulnerability, skill increase, thaumaturgic expertise, vigilant senses |
+| 10 | Ability boosts, skill feat, thaumaturge feat |
+| 11 | General feat, medium armor expertise, second adept, skill increase |
+| 12 | Skill feat, thaumaturge feat |
+| 13 | Ancestry feat, greater resolve, skill increase, weapon mastery |
+| 14 | Skill feat, thaumaturge feat |
+| 15 | Ability boosts, general feat, greater weapon specialization, juggernaut, skill increase, third implement |
+| 16 | Skill feat, thaumaturge feat |
+| 17 | Ancestry feat, implement paragon, skill increase, thaumaturgic mastery |
+| 18 | Skill feat, thaumaturge feat |
+| 19 | General feat, medium armor mastery, skill increase, unlimited esoterica |
+| 20 | Ability boosts, skill feat, thaumaturge feat |
 
 ## Ancestry and Background
 
@@ -151,13 +151,13 @@ At 1st level, you gain a number of proficiencies that represent your basic train
 
 ## Esoteric Lore
 
-Your experience with the unknown, as well as the tales you've exchanged with other thaumaturges, has taught you about strange phenomena of every kind. You become trained in [[Lore]], a special lore skill that can be used to [[Recall Knowledge]] regarding haunts, curses, and creatures of any type, but that can't be used to Recall Knowledge of other topics. Unlike a normal Lore skill, you use Charisma as your modifier on Esoteric Lore checks. You also gain the [[Dubious Knowledge]] skill feat.
+Your experience with the unknown, as well as the tales you've exchanged with other thaumaturges, has taught you about strange phenomena of every kind. You become trained in [[DATABASE/skill/Lore|Esoteric Lore]], a special lore skill that can be used to [[DATABASE/action/Recall Knowledge|Recall Knowledge]] regarding haunts, curses, and creatures of any type, but that can't be used to Recall Knowledge of other topics. Unlike a normal Lore skill, you use Charisma as your modifier on Esoteric Lore checks. You also gain the [[DATABASE/feat/Dubious Knowledge|Dubious Knowledge]] skill feat.
  At 3rd level, you become an expert in Esoteric Lore; at 7th level, you become a master in Esoteric Lore; and at 15th level, you become legendary in Esoteric Lore.
 
 ## First Implement and Esoterica
 
 Your implement is a special object of symbolic importance: your badge as you treat with the supernatural and a powerful tool if things turn violent. Choose an implement from the options to which you have access. You begin play with a mundane item of that type, and you gain the initiate benefit for that implement. While an implement is useful to you, it typically has no value if sold. If you acquire a new object of the same general implement type, you can switch your implement to the new object by spending 1 day of downtime with the new item. As you advance as a thaumaturge, you will collect up to three implements and unlock the hidden potential stored within each, so you can mix and match their benefits to suit your situation.
- While your implements are your primary tools in your dealings with the supernatural, you know the value of always being prepared. You constantly collect and carry various smaller mystic objects, bits of materials with paranormal affinities, and items used in folk practices: your esoterica. These might include [[Cold Iron]] nails, scraps of scrolls and scriptures, fragments of bones purportedly from a saint, and other similar objects. You keep your esoterica in easy-to-access places on your person and are well practiced in brandishing your implement and esoterica together, so you can draw and use esoterica with the same hand you're using to wield an implement.
+ While your implements are your primary tools in your dealings with the supernatural, you know the value of always being prepared. You constantly collect and carry various smaller mystic objects, bits of materials with paranormal affinities, and items used in folk practices: your esoterica. These might include [[DATABASE/equipment/Cold Iron|cold iron]] nails, scraps of scrolls and scriptures, fragments of bones purportedly from a saint, and other similar objects. You keep your esoterica in easy-to-access places on your person and are well practiced in brandishing your implement and esoterica together, so you can draw and use esoterica with the same hand you're using to wield an implement.
 Implements can be found here.
 
 ## Exploit Vulnerability
@@ -165,20 +165,20 @@ Implements can be found here.
 You know that every creature, no matter how obscure, has a weakness. By identifying and empowering the right object, you can strike down even the most resilient of monsters.
  You gain the Exploit Vulnerability action.
 
-### [[Exploit Vulnerability]] <span class="action-icon">1</span>
+### [[DATABASE/action/Exploit Vulnerability|Exploit Vulnerability]] <span class="action-icon">1</span>
 
 <span class="item-trait">Esoterica</span><span class="item-trait">Manipulate</span><span class="item-trait">Thaumaturge</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Frequency** once per round
 **Requirements** You are holding your implement.
 
 ---
-You scour your experiences and learning to identify something that might repel your foe. You retrieve an object from your esoterica with the appropriate supernatural qualities, then use your implement to stoke the remnants of its power into a blaze. Select a creature you can see and attempt an [[Lore]] check against a standard DC for its level, as you retrieve the right object from your esoterica and use your implement to empower it. You gain the following effects until you Exploit Vulnerabilities again.
-**Critical Success** You remember the creature's weaknesses, and as you empower your esoterica, you have a flash of insight that grants even more knowledge about the creature. You learn all of the creature's resistances, weaknesses, and immunities, including the amounts of the resistances and weaknesses and any unusual weaknesses or vulnerabilities, such as what spells will pass through a [[Golem]] antimagic. You can exploit either the creature's mortal weakness or personal antithesis (see below). Your unarmed and weapon Strikes against the creature also become magical if they weren't already.
+You scour your experiences and learning to identify something that might repel your foe. You retrieve an object from your esoterica with the appropriate supernatural qualities, then use your implement to stoke the remnants of its power into a blaze. Select a creature you can see and attempt an [[DATABASE/skill/Lore|Esoteric Lore]] check against a standard DC for its level, as you retrieve the right object from your esoterica and use your implement to empower it. You gain the following effects until you Exploit Vulnerabilities again.
+**Critical Success** You remember the creature's weaknesses, and as you empower your esoterica, you have a flash of insight that grants even more knowledge about the creature. You learn all of the creature's resistances, weaknesses, and immunities, including the amounts of the resistances and weaknesses and any unusual weaknesses or vulnerabilities, such as what spells will pass through a [[DATABASE/monsterfamily/Golem|golem's]] antimagic. You can exploit either the creature's mortal weakness or personal antithesis (see below). Your unarmed and weapon Strikes against the creature also become magical if they weren't already.
 **Success** You recall an important fact about the creature, learning its highest weakness (or one of its highest weaknesses, if it has multiple with the same value) but not its other weaknesses, resistances, or immunities. You can exploit either the creature's mortal weakness or personal antithesis. Your unarmed and weapon Strikes against the creature also become magical if they weren't already.
 **Failure** Failing to recall a salient weakness about the creature, you instead attempt to exploit a more personal vulnerability. You can exploit only the creature's personal antithesis. Your unarmed and weapon Strikes against the creature also become magical if they weren't already.
-**Critical Failure** You couldn't remember the right object to use and become distracted while you rummage through your esoterica. You become [[Flat-Footed]] until the beginning of your next turn. You can attempt to Exploit Vulnerabilities in one of two ways: either by invoking properties that repel that type of creature, or by attempting a more improvisational, ad-hoc method with your esoterica that can impose a custom weakness on any creature, albeit one that usually isn't as dire as a creature's existing weakness.
- **Mortal Weakness** After identifying a creature's weakness, you use a thematically resonant bit of esoterica to attune your attacks to your discovery. Your unarmed and weapon Strikes activate the highest weakness you discovered with Exploit Vulnerability, even though the damage type your weapon deals doesn't change. This damage affects the target of your Exploit Vulnerability, as well as any other creatures of the exact same type, but not other creatures with the same weakness. For example, when fighting a pack of [[Werewolf]] you might use [[Silver]] shavings or crushed moonstone to deal damage that applies their weakness to silver to your attacks against any of the werewolves, but you wouldn't apply this damage to any other monsters with a weakness to silver.
+**Critical Failure** You couldn't remember the right object to use and become distracted while you rummage through your esoterica. You become [[DATABASE/condition/Flat-Footed|flat-footed]] until the beginning of your next turn. You can attempt to Exploit Vulnerabilities in one of two ways: either by invoking properties that repel that type of creature, or by attempting a more improvisational, ad-hoc method with your esoterica that can impose a custom weakness on any creature, albeit one that usually isn't as dire as a creature's existing weakness.
+ **Mortal Weakness** After identifying a creature's weakness, you use a thematically resonant bit of esoterica to attune your attacks to your discovery. Your unarmed and weapon Strikes activate the highest weakness you discovered with Exploit Vulnerability, even though the damage type your weapon deals doesn't change. This damage affects the target of your Exploit Vulnerability, as well as any other creatures of the exact same type, but not other creatures with the same weakness. For example, when fighting a pack of [[DATABASE/monster/Werewolf|werewolves]] you might use [[DATABASE/equipment/Silver|silver]] shavings or crushed moonstone to deal damage that applies their weakness to silver to your attacks against any of the werewolves, but you wouldn't apply this damage to any other monsters with a weakness to silver.
  **Personal Antithesis** You improvise a custom weakness on a creature by forcefully presenting and empowering a piece of esoterica that repels it on an individual level; for instance, against a tyrant, you might procure a broken chain that once held a captive. This causes the target creature, and only the target creature, to gain a weakness against your unarmed and weapon Strikes equal to 2 + half your level.
 
 ## Implement's Empowerment
@@ -239,10 +239,10 @@ You've learned how to inflict greater injuries with the weapons you know best. Y
 
 You've learned to use your implement to further assault a creature whose vulnerabilities you're exploiting. You gain the intensify vulnerability benefit of all of your implements, as well as the following action.
 
-### [[Intensify Vulnerability]] <span class="action-icon">1</span>
+### [[DATABASE/action/Intensify Vulnerability|Intensify Vulnerability]] <span class="action-icon">1</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Divination</span><span class="item-trait">Esoterica</span><span class="item-trait">Magical</span><span class="item-trait">Thaumaturge</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Frequency** once per round
 **Requirements** You're benefiting from Exploit Vulnerability, you can see the subject, and you haven't used Exploit Vulnerability this round.
 
@@ -252,7 +252,7 @@ You present your implement and esoterica again, intensifying their effects on th
 ## Thaumaturgic Expertise<span class="item-type">Level 9</span>
 
 You've learned deeper secrets of the supernatural, and your abilities are harder to resist. Your proficiency rank for your thaumaturge class DC increases to expert. 
-You also gain an additional skill increase, which you can apply only to [[Arcana]], [[Nature]], [[Occultism]], or [[Religion]].
+You also gain an additional skill increase, which you can apply only to [[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]], [[DATABASE/skill/Occultism|Occultism]], or [[DATABASE/skill/Religion|Religion]].
 
 ## Vigilant Senses<span class="item-type">Level 9</span>
 
@@ -293,7 +293,7 @@ You have unlocked the last secrets of an implement. Choose one of your implement
 ## Thaumaturgic Mastery<span class="item-type">Level 17</span>
 
 You've become a master in paranormal phenomena, and your esoterica grow in power. Your proficiency rank for your thaumaturge class DC increases to master. 
-You also gain an additional skill increase, which you can apply only to [[Arcana]], [[Nature]], [[Occultism]], or [[Religion]].
+You also gain an additional skill increase, which you can apply only to [[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]], [[DATABASE/skill/Occultism|Occultism]], or [[DATABASE/skill/Religion|Religion]].
 
 ## Medium Armor Mastery<span class="item-type">Level 19</span>
 

@@ -72,16 +72,16 @@ wisdom: '+2'
 # Giant Moray Eel
 
 Giant moray eels dwell in warm, tropical waters and build lairs in narrow, twisting caves made of coral. Their size, speed, and powerful bite make them dangerous to divers and fishermen. Giant moray eels have rubbery hides that secrete a layer of mucus, making them difficult to harm with some weapons.
-**Recall Knowledge - Animal ([[Nature]])**: DC 20
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 20
 **Unspecific Lore**: DC 18
 **Specific Lore**: DC 15
 
 # Giant Moray Eel<span class="item-type">Creature 5</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Animal</span><span class="item-trait">Aquatic</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +11; low-light vision, scent (imprecise) 30 feet
-**Skills** [[Acrobatics]] +9, [[Athletics]] +13, [[Stealth]] +13
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +9, [[DATABASE/skill/Athletics|Athletics]] +13, [[DATABASE/skill/Stealth|Stealth]] +13
 **Str** +6, **Dex** +2, **Con** +3, **Int** -4, **Wis** +2, **Cha** -1
 
 ---
@@ -91,4 +91,4 @@ Giant moray eels dwell in warm, tropical waters and build lairs in narrow, twist
 
 ---
 **Speed** 10 feet, swim 40 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +15 [+10/+5] (reach 10 feet), **Damage** 2d6+8 piercing plus Grab</span><span class="in-box-ability">**Pharyngeal Jaws** <span class="action-icon">2</span> **Requirements** The giant moray eel has a creature grabbed in its jaws. **Effect** The giant moray eel uses its second set of jaws to pull the prey into its gullet. The eel deals 1d6+4 piercing damage to the grabbed creature and gains a +2 circumstance bonus to its Swallow Whole attempts and to the DC for the creature to Escape. This effect ends if the target Escapes or the giant moray eel Swallows it Whole.</span><span class="in-box-ability">**[[Swallow Whole]]** <span class="action-icon">1</span> (attack) Small, 1d6+6 bludgeoning, Rupture 12</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +15 [+10/+5] (reach 10 feet), **Damage** 2d6+8 piercing plus Grab</span><span class="in-box-ability">**Pharyngeal Jaws** <span class="action-icon">2</span> **Requirements** The giant moray eel has a creature grabbed in its jaws. **Effect** The giant moray eel uses its second set of jaws to pull the prey into its gullet. The eel deals 1d6+4 piercing damage to the grabbed creature and gains a +2 circumstance bonus to its Swallow Whole attempts and to the DC for the creature to Escape. This effect ends if the target Escapes or the giant moray eel Swallows it Whole.</span><span class="in-box-ability">**[[DATABASE/monsterability/Swallow Whole|Swallow Whole]]** <span class="action-icon">1</span> (attack) Small, 1d6+6 bludgeoning, Rupture 12</span>

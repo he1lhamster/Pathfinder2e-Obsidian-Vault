@@ -75,21 +75,21 @@ wisdom: '+2'
 # Skeletal Horse
 
 Skeletal horses are sometimes used as mounts by other undead or monsters.
-**Recall Knowledge - Undead ([[Religion]])**: DC 16
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
 # Skeletal Horse<span class="item-type">Creature 2</span>
 
 <span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Mindless</span><span class="item-trait">Skeleton</span><span class="item-trait">Undead</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +8; darkvision
-**Skills** [[Acrobatics]] +7, [[Athletics]] +9
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +7, [[DATABASE/skill/Athletics|Athletics]] +9
 **Str** +5, **Dex** +3, **Con** +2, **Int** -5, **Wis** +2, **Cha** +0
 
 ---
 **AC** 16; **Fort** +6, **Ref** +9, **Will** +8
-**HP** 33 ([[Negative Healing]]); **Immunities** death effects, disease, mental, paralyzed, poison, unconscious; **Resistances** cold 5, electricity 5, fire 5, piercing 5, slashing 5
+**HP** 33 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects, disease, mental, paralyzed, poison, unconscious; **Resistances** cold 5, electricity 5, fire 5, piercing 5, slashing 5
 
 ---
 **Speed** 40 feet

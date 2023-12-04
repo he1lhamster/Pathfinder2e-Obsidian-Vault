@@ -19,6 +19,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
@@ -38,11 +39,11 @@ type: Spell
 # Conductive Weapon<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Electricity</span><span class="item-trait">Manipulate</span><span class="item-trait">Metal</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Traditions** arcane, primal
 **Cast** <span class="action-icon">2</span> 
 **Range** touch; **Targets** 1 metal weapon that is unattended or attended by a willing creature
 **Duration** 1 minute
 
 ---
-You channel powerful electric current through the metal of a weapon, zapping anyone the item hits. The target becomes a _+1 [[Shock]]_ weapon. If any target of an attack with the weapon is wearing metal armor or is primarily made of metal, the electricity damage die from the _shock_ rune is 1d12.
+You channel powerful electric current through the metal of a weapon, zapping anyone the item hits. The target becomes a _+1 [[DATABASE/equipment/Shock|shock]]_ weapon. If any target of an attack with the weapon is wearing metal armor or is primarily made of metal, the electricity damage die from the _shock_ rune is 1d12.

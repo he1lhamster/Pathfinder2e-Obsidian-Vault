@@ -18,6 +18,7 @@ language:
 max_speed: '20'
 name: Azarketi
 rarity: Uncommon
+rus_type_level: null
 size: Medium
 source: '[[DATABASE/source/Absalom, City of Lost Omens|Absalom, City of Lost Omens]]'
 speed:
@@ -34,9 +35,9 @@ vision: Low-Light Vision
 # Azarketi
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Amphibious</span><span class="item-trait">Azarketi</span><span class="item-trait">Humanoid</span>
-**Source** [[Absalom, City of Lost Omens]]
+**Source** [[DATABASE/source/Absalom, City of Lost Omens|Absalom, City of Lost Omens]]
 _Azarketis, inheritors of a shattered empire's legacy, hold their proud traditions close but still surface to interact with the rest of the world._
-The aquatic humanoids of the Inner Sea share a somber and burdened history. Most refer to these aquatic peoples as gillmen or sometimes Low Azlanti, though they typically refer to themselves as azarketi, an Azlanti word that translates roughly to “people of the seas.” After Earthfall, these proud [[Human]] were mutated into aquatic servants by their [[Alghollthu]] foes. Feeling like they don't fully belong with their human brethren nor with the sea that binds them, many azarketis struggle for a sense of identity and purpose. Though they remain distrusted by the surface dwellers, azarketis celebrate their unique lineage and their descent from the venerated Azlanti culture.
+The aquatic humanoids of the Inner Sea share a somber and burdened history. Most refer to these aquatic peoples as gillmen or sometimes Low Azlanti, though they typically refer to themselves as azarketi, an Azlanti word that translates roughly to “people of the seas.” After Earthfall, these proud [[DATABASE/ancestry/Human|humans]] were mutated into aquatic servants by their [[DATABASE/monsterfamily/Alghollthu|alghollthu]] foes. Feeling like they don't fully belong with their human brethren nor with the sea that binds them, many azarketis struggle for a sense of identity and purpose. Though they remain distrusted by the surface dwellers, azarketis celebrate their unique lineage and their descent from the venerated Azlanti culture.
 
 ## You Might...
 
@@ -62,13 +63,13 @@ Azarketis lack the center for combined culture that helps other groups maintain 
 
 ## Alignment and Religion
 
-As they are typically outsiders to the domains of surface life, azarketis tend toward deities with an affinity for the ocean or other forms of water, the most popular being [[Gozreh]]. They are also likely to give reverence to other deities of nature or navigation, such as [[Desna]].
- Some azarketis are tempted toward the call of the deep and serve their old [[Alghollthu]] masters as gods. These individuals are enticed by eldritch entities such as the mysterious [[Veiled Master (Vidileth)]]—powerful beings of the deep ocean responsible for both uplifting and destroying the Azlanti people.
+As they are typically outsiders to the domains of surface life, azarketis tend toward deities with an affinity for the ocean or other forms of water, the most popular being [[DATABASE/deity/Gozreh|Gozreh]]. They are also likely to give reverence to other deities of nature or navigation, such as [[DATABASE/deity/Desna|Desna]].
+ Some azarketis are tempted toward the call of the deep and serve their old [[DATABASE/monsterfamily/Alghollthu|alghollthu]] masters as gods. These individuals are enticed by eldritch entities such as the mysterious [[DATABASE/monster/Veiled Master (Vidileth)|veiled masters]]—powerful beings of the deep ocean responsible for both uplifting and destroying the Azlanti people.
  Azarketis vary wildly in beliefs and values, as evidenced by their broad divergence in allegiance; thus, azarketis can be of any alignment.
 
 ## Adventurers
 
-With their affinity to water, nautical navigation skills, and athletic capabilities, azarketis make ideal [[Ranger]]. Azarketis' versatility both on land and in water make them particularly formidable [[Fighter]], while their direct connection to the sea leads many others to become [[Druid]]. As many azarketis have a connection to alghollthus' occult magic, it's not uncommon for azarketis to be [[Sorcerer]], though studious individuals sometimes become [[Bard]] or [[Wizard]] instead.
+With their affinity to water, nautical navigation skills, and athletic capabilities, azarketis make ideal [[DATABASE/class_/Ranger|rangers]]. Azarketis' versatility both on land and in water make them particularly formidable [[DATABASE/class_/Fighter|fighters]], while their direct connection to the sea leads many others to become [[DATABASE/class_/Druid|druids]]. As many azarketis have a connection to alghollthus' occult magic, it's not uncommon for azarketis to be [[DATABASE/class_/Sorcerer|sorcerers]], though studious individuals sometimes become [[DATABASE/class_/Bard|bards]] or [[DATABASE/class_/Wizard|wizards]] instead.
 
 ## Names
 
@@ -82,11 +83,11 @@ Aft, Aliz, Cascade, Delta, Harbor, Ilani, Inkua, Jib, Lagoon, Lobay, Marine, Tid
 
 ### A Place Undersea
 
-Due to their association with the [[Alghollthu]], azarketi often face discrimination on the surface. Below, however, they are just another ocean denizen. Many revel in the isolation from their human ancestors, finding true peace in the depths.
+Due to their association with the [[DATABASE/monsterfamily/Alghollthu|alghollthu]], azarketi often face discrimination on the surface. Below, however, they are just another ocean denizen. Many revel in the isolation from their human ancestors, finding true peace in the depths.
 
 ### Alghollthus
 
-Azarketis have a complex relationship with [[Alghollthu]], who saved but then enslaved their people. Alvadnas have the greatest chance of meeting an alghollthu face to face. Azarketi sentiments toward these creatures vary: some fight fiercely against their ancient enemies; others bargain for power or safety, or even serve through compulsion.
+Azarketis have a complex relationship with [[DATABASE/monsterfamily/Alghollthu|alghollthus]], who saved but then enslaved their people. Alvadnas have the greatest chance of meeting an alghollthu face to face. Azarketi sentiments toward these creatures vary: some fight fiercely against their ancient enemies; others bargain for power or safety, or even serve through compulsion.
 
 ### Azarketi Enclaves
 
@@ -106,7 +107,7 @@ Directly descended from the people of Azlant, azarketis have preserved their anc
 
 ### Other Sea Creatures
 
-Azarketis are one of many ancestries to live beneath the water's surface. They have the most contact with locathahs, humanoid fish-folk with an easygoing, friendly demeanor. Azarketis find [[Merfolk]] territorial neighbors, though their shared private tendencies lead to mostly amicable relations. Together they combat their shared enemies, the monstrous but intelligent sahuagins.
+Azarketis are one of many ancestries to live beneath the water's surface. They have the most contact with locathahs, humanoid fish-folk with an easygoing, friendly demeanor. Azarketis find [[DATABASE/monsterfamily/Merfolk|merfolk]] territorial neighbors, though their shared private tendencies lead to mostly amicable relations. Together they combat their shared enemies, the monstrous but intelligent sahuagins.
 
 # Azarketi Mechanics
 
@@ -135,13 +136,13 @@ Wisdom
 
 ## Languages
 
-[[Common]]
-[[Alghollthu]]
-Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[Aklo]], [[Aquan]], [[Azlanti]], [[Draconic]], [[Elven]], and [[Undercommon]] and any other languages to which you have access (such as the languages prevalent in your region).
+[[DATABASE/language/Common|Common]]
+[[DATABASE/language/Alghollthu|Alghollthu]]
+Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[DATABASE/language/Aklo|Aklo]], [[DATABASE/language/Aquan|Aquan]], [[DATABASE/language/Azlanti|Azlanti]], [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Elven|Elven]], and [[DATABASE/language/Undercommon|Undercommon]] and any other languages to which you have access (such as the languages prevalent in your region).
 
 ## Low-Light Vision
 
-You can see in dim light as though it were bright light and you ignore the [[Concealed]] condition due to dim light.
+You can see in dim light as though it were bright light and you ignore the [[DATABASE/condition/Concealed|concealed]] condition due to dim light.
 
 ## Hydration
 

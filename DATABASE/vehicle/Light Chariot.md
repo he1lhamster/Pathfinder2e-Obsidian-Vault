@@ -16,6 +16,7 @@ price: 10 gp
 rarity: Common
 reflex: null
 resistance: null
+rus_type_level: null
 school: null
 size: Large
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
@@ -27,13 +28,13 @@ type: Vehicle
 # Light Chariot<span class="item-type">Vehicle 0</span>
 
 <span class="trait-size item-trait">Large</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Price** 10 gp
 
 ---
 **Space** 5 feet long, 5 feet wide, 4 feet high
 **Crew** 1 pilot
-**Piloting Check** [[Lore]] (DC 14) or [[Nature]] (DC 16 to DC 24, depending on pulling creature)
+**Piloting Check** [[DATABASE/skill/Lore|Driving Lore]] (DC 14) or [[DATABASE/skill/Nature|Nature]] (DC 16 to DC 24, depending on pulling creature)
 
 ---
 **AC** 10; **Fort** +6

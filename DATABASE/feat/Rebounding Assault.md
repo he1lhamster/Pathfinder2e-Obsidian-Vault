@@ -12,6 +12,7 @@ prerequisite: null
 rarity: Common
 requirement: You're wielding a loaded firearm or loaded crossbow in one hand and a
   bludgeoning or slashing meleeweapon in the other.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Rebounding Assault <span class="action-icon">2</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Gunslinger</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Requirements** You're wielding a loaded firearm or loaded crossbow in one hand and a bludgeoning or slashing melee weapon in the other.
 
 ---

@@ -22,6 +22,7 @@ follower_alignment:
 id: '201'
 name: Laws of Mortality
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Medicine|Medicine]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -31,7 +32,7 @@ type: Deity
 ---
 # Laws of Mortality [LN]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 The Laws of Mortality originated in the Garundi nation of Rahadoum as a response to the Oath Wars, a series of internecine conflicts that were tearing the nation’s society apart. The fundamental principle behind the Laws is a relatively simple assertion that deific aid—even the best intentioned—ultimately comes at too high a price. The slaughter of fellow mortals for the glory of distant, unfathomable beings is not something that should be permitted within a society. Instead, mortal beings must shape their own fate, aware of their own limitations, trusting in their reliance upon one another and their shared values rather than divine intervention and guidance. This philosophy is summed up in the primary tenet of the Laws of Mortality: Let no mortal be beholden to a god.
 **Category** Faiths & Philosophies
 **Edicts** challenge religious power and the spread of religion, expose and eradicate hidden worship, provide a peaceful and autonomous society in which the people are cared for through social infrastructure
@@ -41,9 +42,9 @@ The Laws of Mortality originated in the Garundi nation of Rahadoum as a response
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Constitution or Intelligence
-**Divine Skill** [[Medicine]]
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Constitution or Intelligence
+**Divine Skill** [[DATABASE/skill/Medicine|Medicine]]
 
 ## Feats Requiring Worship of Laws of Mortality...
 
-[[Mortal Healing]]
+[[DATABASE/feat/Mortal Healing|Mortal Healing]]

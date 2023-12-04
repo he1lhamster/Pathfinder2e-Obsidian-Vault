@@ -14,6 +14,7 @@ name: Paranoia Well
 rarity: Common
 reflex: null
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
@@ -27,7 +28,7 @@ will: null
 # Paranoia Well<span class="item-type">Hazard 19</span>
 
 <span class="item-trait">Magical</span><span class="item-trait">Trap</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 **Complexity** Simple
 **Stealth** DC 47 (legendary)
 **Description** Sudden invasive emotions of fear, paranoia, and anger well up in the mind, causing companions to take on sinister casts to their no-longer familiar features.

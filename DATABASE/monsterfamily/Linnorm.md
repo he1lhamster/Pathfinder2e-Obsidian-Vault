@@ -3,6 +3,7 @@ creature_family: Linnorm
 id: '69'
 name: Linnorm
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Linnorm
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Immense, primeval dragons of the northern reaches of the world, linnorms hate those they deem to be lesser creatures and seek to inflict as much suffering as possible upon their unfortunate victims. While these serpentine monstrosities might not be the powerful winged dragons most imagine, they nonetheless possess incredible strength and deadly powers that often rival authentic dragon brutality.
 
 ### Members
 
-[[Cairn Linnorm]] (Creature 18), [[Crag Linnorm]] (Creature 14), [[Fjord Linnorm]] (Creature 16), [[Ice Linnorm]] (Creature 17), [[Shoal Linnorm]] (Creature 15), [[Taiga Linnorm]] (Creature 19), [[Tarn Linnorm]] (Creature 20), [[Tor Linnorm]] (Creature 21), [[Young Linnorm]] (Creature 7)
+[[DATABASE/monster/Cairn Linnorm|Cairn Linnorm]] (Creature 18), [[DATABASE/monster/Crag Linnorm|Crag Linnorm]] (Creature 14), [[DATABASE/monster/Fjord Linnorm|Fjord Linnorm]] (Creature 16), [[DATABASE/monster/Ice Linnorm|Ice Linnorm]] (Creature 17), [[DATABASE/monster/Shoal Linnorm|Shoal Linnorm]] (Creature 15), [[DATABASE/monster/Taiga Linnorm|Taiga Linnorm]] (Creature 19), [[DATABASE/monster/Tarn Linnorm|Tarn Linnorm]] (Creature 20), [[DATABASE/monster/Tor Linnorm|Tor Linnorm]] (Creature 21), [[DATABASE/monster/Young Linnorm|Young Linnorm]] (Creature 7)
 
 ###  Death Curses
 
@@ -23,7 +24,7 @@ The death curses of the linnorms are often the subjects of tragic sagas, and tho
 
 ###  First World Connections
 
-Linnorms have a deep connection to the [[First World]], the primordial home of the fey. While linnorms typically won't think twice before devouring a [[Gnome]] or other fey, they do have an unusual respect for wielders of powerful primal magic. The only way to cow a linnorm, according to common wisdom, is to remind it that there are forces of nature even stronger than itself.
+Linnorms have a deep connection to the [[DATABASE/plane/First World|First World]], the primordial home of the fey. While linnorms typically won't think twice before devouring a [[DATABASE/ancestry/Gnome|gnome]] or other fey, they do have an unusual respect for wielders of powerful primal magic. The only way to cow a linnorm, according to common wisdom, is to remind it that there are forces of nature even stronger than itself.
 
 ###  Linnorm Kings
 
@@ -31,7 +32,7 @@ In the storied Lands of the Linnorm Kings, the slaying of a linnorm is tradition
 
 ###  Linnorm Legends
 
-Creatures as powerful as linnorms tend to spawn stories of their own, accurate or not. Critical failure on a check to [[Recall Knowledge]] on linnorms might suggest that you can avoid a linnorm's death curse by closing your eyes as you deliver the fatal blow, or that rubbing poison oak on yourself can ward off a linnorm's attention.
+Creatures as powerful as linnorms tend to spawn stories of their own, accurate or not. Critical failure on a check to [[DATABASE/action/Recall Knowledge|Recall Knowledge]] on linnorms might suggest that you can avoid a linnorm's death curse by closing your eyes as you deliver the fatal blow, or that rubbing poison oak on yourself can ward off a linnorm's attention.
 
 ###  Linnorm Treasure
 
@@ -47,4 +48,4 @@ Linnorms exist in a variety of forms beyond the four detailed here. The gaunt ca
 
 ###  Rarer Linnorms
 
-While the linnorms presented here and in the first _Bestiary_ constitute the majority of these creatures, others exist, particularly in the remote regions of the [[First World]]. It may be that these rare linnorms simply find the [[Material Plane]] too constraining for their might!
+While the linnorms presented here and in the first _Bestiary_ constitute the majority of these creatures, others exist, particularly in the remote regions of the [[DATABASE/plane/First World|First World]]. It may be that these rare linnorms simply find the [[DATABASE/plane/Material Plane|Material Plane]] too constraining for their might!

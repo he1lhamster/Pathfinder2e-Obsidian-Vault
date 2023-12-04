@@ -20,6 +20,7 @@ patron_theme: null
 range: null
 rarity: Rare
 requirement: You know your true name.
+rus_type_level: null
 saving_throw: Will
 school: Divination
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -39,7 +40,7 @@ type: Spell
 # Catch Your Name<span class="item-type">Spell 6</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Divination</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Traditions** arcane, divine, occult, primal
 **Cast** <span class="action-icon">5</span> somatic; **Trigger** A creature on your plane speaks your private or true name; **Requirements** You know your true name.
 **Saving Throw** Will

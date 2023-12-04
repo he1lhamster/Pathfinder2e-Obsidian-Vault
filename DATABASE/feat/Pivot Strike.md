@@ -11,6 +11,7 @@ name: Pivot Strike
 prerequisite: '[[DATABASE/feat/Staff Acrobat Dedication|Staff Acrobat Dedication]]'
 rarity: Uncommon
 requirement: You are wielding your staff.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: The
   Show Must Go On]]'
@@ -27,13 +28,13 @@ type: Feat
 # Pivot Strike <span class="action-icon">2</span> <span class="item-type">Feat 14</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Archetype</span><span class="item-trait">Attack</span><span class="item-trait">Open</span>
-**Source** [[Pathfinder 151. The Show Must Go On]]
-**Archetype** [[Staff Acrobat]]
-**Prerequisites** [[Staff Acrobat Dedication]]
+**Source** [[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: The Show Must Go On]]
+**Archetype** [[DATABASE/archetype/Staff Acrobat|Staff Acrobat]]
+**Prerequisites** [[DATABASE/feat/Staff Acrobat Dedication|Staff Acrobat Dedication]]
 **Requirements** You are wielding your staff.
 
 ---
-You [[Leap]] and then Strike using your staff. You gain a circumstance bonus to damage for the Strike equal to twice the number of weapon damage dice. Regardless of whether your Strike hit, you can then attempt to [[Shove]] or [[Trip]] the target.
+You [[DATABASE/action/Leap|Leap]] and then Strike using your staff. You gain a circumstance bonus to damage for the Strike equal to twice the number of weapon damage dice. Regardless of whether your Strike hit, you can then attempt to [[DATABASE/action/Shove|Shove]] or [[DATABASE/action/Trip|Trip]] the target.
 
 ## Traits
 
@@ -51,4 +52,4 @@ These maneuvers work only as the first salvo on your turn. You can use an open o
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.

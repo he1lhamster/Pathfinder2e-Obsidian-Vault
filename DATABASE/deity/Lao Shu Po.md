@@ -24,6 +24,7 @@ follower_alignment:
 id: '180'
 name: Lao Shu Po
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Thievery|Thievery]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -33,7 +34,7 @@ type: Deity
 ---
 # Lao Shu Po (Old Rat Woman) [NE]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Category** Tian Gods
 **Edicts** Work quietly toward your goals in the shadows, steal what you need, keep an ear among the ignored and downtrodden
 **Anathema** Work honestly for something you could steal instead, risk too much for another creature
@@ -41,9 +42,9 @@ type: Deity
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Dexterity or Intelligence
-**Divine Font** _[[Harm]]_
-**Divine Skill** [[Thievery]]
-**Favored Weapon** [[Dagger]]
-**Domains** [[Darkness Domain]], [[Luck Domain]], [[Swarm Domain]], [[Trickery Domain]]
-**Cleric Spells** 1st: _[[Summon Animal]]_ (rodents only), 2nd: _[[Knock]]_, 3rd: _[[Nondetection]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Dexterity or Intelligence
+**Divine Font** _[[DATABASE/spell/Harm|harm]]_
+**Divine Skill** [[DATABASE/skill/Thievery|Thievery]]
+**Favored Weapon** [[DATABASE/weapon/Dagger|dagger]]
+**Domains** [[DATABASE/domain/Darkness Domain|darkness]], [[DATABASE/domain/Luck Domain|luck]], [[DATABASE/domain/Swarm Domain|swarm]], [[DATABASE/domain/Trickery Domain|trickery]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Summon Animal|summon animal]]_ (rodents only), 2nd: _[[DATABASE/spell/Knock|knock]]_, 3rd: _[[DATABASE/spell/Nondetection|nondetection]]_

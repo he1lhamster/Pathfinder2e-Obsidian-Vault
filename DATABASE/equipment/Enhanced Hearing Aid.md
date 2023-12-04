@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 size: null
@@ -53,10 +54,10 @@ weapon_type: null
 # Enhanced Hearing Aid<span class="item-type">Item 3</span>
 
 <span class="item-trait">Divination</span><span class="item-trait">Magical</span>
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 50 gp
 **Usage** worn; **Bulk** L
 
 ---
-These hearing aids work like [[Basic Hearing Aid]], but they're designed with a more potent and focused magic.
+These hearing aids work like [[DATABASE/equipment/Basic Hearing Aid|magical hearing aids]], but they're designed with a more potent and focused magic.
 **Activate** <span class="action-icon">4</span> envision **Frequency** once per day; **Requirements** Your hearing aids are currently on; **Effect** You mentally increase the input of your hearing aids. You gain a +1 item bonus to all hearing-based Perception checks for 10 minutes.

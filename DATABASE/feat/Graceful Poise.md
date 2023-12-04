@@ -11,6 +11,7 @@ name: Graceful Poise
 prerequisite: '[[DATABASE/feat/Double Slice|Double Slice]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Graceful Poise <span class="action-icon">1</span> <span class="item-type">Feat 16</span>
 
 <span class="item-trait">Fighter</span><span class="item-trait">Stance</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Double Slice]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/feat/Double Slice|Double Slice]]
 
 ---
 With the right positioning, your off-hand weapon can strike like a scorpion's stinger. While you are in this stance, if you make your second Strike from Double Slice with an agile weapon, Double Slice counts as one attack when calculating your multiple attack penalty.

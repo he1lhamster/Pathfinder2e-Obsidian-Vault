@@ -22,6 +22,7 @@ patron_theme: null
 range: 60 feet
 rarity: Rare
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Legends|Legends]]'
@@ -39,7 +40,7 @@ type: Spell
 # All is One, One is All<span class="item-type">Spell 8</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Necromancy</span>
-**Source** [[Legends]]
+**Source** [[DATABASE/source/Legends|Legends]]
 **Traditions** arcane, primal
 **Cast** <span class="action-icon">3</span> material, somatic, verbal
 **Range** 60 feet; **Targets** you and up to 10 willing living allies

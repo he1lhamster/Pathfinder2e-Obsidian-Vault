@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Mature Animal Companion (Ranger)|Mature Animal Co
   (Ranger)]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,12 +25,12 @@ type: Feat
 # Incredible Companion (Ranger) <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Ranger</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Mature Animal Companion (Ranger)]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/feat/Mature Animal Companion (Ranger)|Mature Animal Companion (Ranger)]]
 
 ---
 Your animal companion continues to grow and develop. It becomes a nimble or savage animal companion (your choice), gaining additional capabilities determined by the type of companion.
 
 ## Incredible Companion (Ranger) Leads To...
 
-[[Specialized Companion (Ranger)]]
+[[DATABASE/feat/Specialized Companion (Ranger)|Specialized Companion (Ranger)]]

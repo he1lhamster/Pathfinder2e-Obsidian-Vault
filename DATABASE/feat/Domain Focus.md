@@ -11,6 +11,7 @@ name: Domain Focus
 prerequisite: one or more domain spells
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Domain Focus <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Cleric</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Prerequisites** one or more domain spells
 
 ---
@@ -31,4 +32,4 @@ Your devotion to your deity’s domains grows greater, and so does the power gra
 
 ## Domain Focus Leads To...
 
-[[Domain Wellspring]]
+[[DATABASE/feat/Domain Wellspring|Domain Wellspring]]

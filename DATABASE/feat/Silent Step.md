@@ -11,6 +11,7 @@ name: Silent Step
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -24,16 +25,16 @@ type: Feat
 # Silent Step <span class="action-icon">1</span> <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Catfolk</span><span class="item-trait">Flourish</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-You vanish with silent treads. You Step, then [[Hide]] or [[Sneak]]. You still need to meet the requirements to Hide or Sneak, as normal.
+You vanish with silent treads. You Step, then [[DATABASE/action/Hide|Hide]] or [[DATABASE/action/Sneak|Sneak]]. You still need to meet the requirements to Hide or Sneak, as normal.
 
 ## Traits
 
 **Catfolk:**
 
-A creature with this trait is a member of the [[Catfolk]] ancestry. Catfolk are humanoids with feline features. An ability with this trait can be used or selected only by catfolk. An item with this trait is created and used by catfolk.
+A creature with this trait is a member of the [[DATABASE/ancestry/Catfolk|catfolk]] ancestry. Catfolk are humanoids with feline features. An ability with this trait can be used or selected only by catfolk. An item with this trait is created and used by catfolk.
 
 **Flourish:**
 

@@ -11,6 +11,7 @@ name: Basic Sorcerer Spellcasting
 prerequisite: '[[DATABASE/feat/Sorcerer Dedication|Sorcerer Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,16 +24,16 @@ type: Feat
 # Basic Sorcerer Spellcasting <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Sorcerer]]
-**Prerequisites** [[Sorcerer Dedication]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Sorcerer|Sorcerer]]
+**Prerequisites** [[DATABASE/feat/Sorcerer Dedication|Sorcerer Dedication]]
 
 ---
 You gain the basic spellcasting benefits. Each time you gain a spell slot of a new level from the sorcerer archetype, add a spell of the appropriate spell level to your repertoire: a common spell of your bloodline’s tradition, one of your bloodline’s granted spells, or another spell you have learned or discovered.
 
 ## Basic Sorcerer Spellcasting Leads To...
 
-[[Bloodline Breadth]], [[Expert Sorcerer Spellcasting]]
+[[DATABASE/feat/Bloodline Breadth|Bloodline Breadth]], [[DATABASE/feat/Expert Sorcerer Spellcasting|Expert Sorcerer Spellcasting]]
 
 ## Traits
 

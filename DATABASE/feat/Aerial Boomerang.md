@@ -11,6 +11,7 @@ name: Aerial Boomerang
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -26,7 +27,7 @@ type: Feat
 # Aerial Boomerang <span class="action-icon">2</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Air</span><span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Primal</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
 A blade of shearing wind races away from you in a 60-foot line. Each creature in the area takes 2d4 slashing damage with a basic Reflex save against your class DC. In the final square of the line, the boomerang whirls in place until the end of your next turn. Any creature that ends its turn in that square has to save against the boomerang.

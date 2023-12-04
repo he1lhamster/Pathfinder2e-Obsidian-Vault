@@ -11,6 +11,7 @@ name: Alacritous Action
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Alacritous Action <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Evolution</span><span class="item-trait">Summoner</span>
-**Source** [[Secrets of Magic]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]]
 
 ---
 Your eidolon moves more quickly. It gains a +10-foot status bonus to its Speed.

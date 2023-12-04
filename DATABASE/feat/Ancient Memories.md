@@ -11,6 +11,7 @@ name: Ancient Memories
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -23,14 +24,14 @@ type: Feat
 # Ancient Memories <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Ghoran</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 
 ---
 In the long years since Ghorus's day, you've done pretty much everything at one time or another. During your daily preparations, you can explore your memories of your past lives to become trained in one skill of your choice. This proficiency lasts until you prepare again. Since this proficiency is temporary, you can't use it as a prerequisite for a skill increase or a permanent character option like a feat.
 
 ## Ancient Memories Leads To...
 
-[[Endless Memories]]
+[[DATABASE/feat/Endless Memories|Endless Memories]]
 
 ## Traits
 

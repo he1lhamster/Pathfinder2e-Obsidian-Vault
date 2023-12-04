@@ -94,26 +94,26 @@ wisdom: '+5'
 # Hantu Belian
 
 The hantu belian represents the spiritual essence of a tiger and typically manifests as a ghostly bird perched on a tiger's back. Hantu belians commit acts of great destruction as well as restoration. They sometimes possess humanoids to cause great discord and devastation, though their intentions are typically borne of amusement or boredom rather than malice.
-**Recall Knowledge - Beast ([[Arcana]], [[Nature]])**: DC 30
-**Recall Knowledge - Spirit ([[Occultism]])**: DC 30
+**Recall Knowledge - Beast ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 30
+**Recall Knowledge - Spirit ([[DATABASE/skill/Occultism|Occultism]])**: DC 30
 **Unspecific Lore**: DC 28
 **Specific Lore**: DC 25
 
 # Hantu Belian<span class="item-type">Creature 11</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Small</span><span class="item-trait">Beast</span><span class="item-trait">Hantu</span><span class="item-trait">Incorporeal</span><span class="item-trait">Spirit</span>
-**Source** [[Pathfinder 166. Despair on Danger Island]]
-**Perception** +24; [[Darkvision]]
-**Languages** [[Common]]
-**Skills** [[Acrobatics]] +23, [[Athletics]] +20, [[Medicine]] +22, [[Stealth]] +19
+**Source** [[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #166: Despair on Danger Island]]
+**Perception** +24; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +23, [[DATABASE/skill/Athletics|Athletics]] +20, [[DATABASE/skill/Medicine|Medicine]] +22, [[DATABASE/skill/Stealth|Stealth]] +19
 **Str** -5, **Dex** +6, **Con** +0, **Int** +0, **Wis** +5, **Cha** +7
 
 ---
 **AC** 27; **Fort** +19, **Ref** +21, **Will** +24
-**HP** 150; **Immunities** death effects, disease, [[Paralyzed]], poison, precision, [[Unconscious]]; **Resistances** all damage 10 (except force or [[Ghost Touch]]; double resistance vs. non-magical)
-<span class="in-box-ability">**Unrest Aura** (emotion, enchantment, mental, occult) 30 feet. A creature that enters the emanation must attempt a DC 27 Will save. On a failure, the creature is [[Confused]] until the end of its next turn (1 minute on a critical failure). During this confusion, the creature attempts to cause turmoil, using its actions to create disarray in its general vicinity by throwing around objects or scaring passersby. A creature that succeeds at its save is immune to all hantu belians' unrest auras for 1 hour. A hantu belian can suppress or resume the effects of this aura as an action, which has the concentrate trait.</span>
+**HP** 150; **Immunities** death effects, disease, [[DATABASE/condition/Paralyzed|paralyzed]], poison, precision, [[DATABASE/condition/Unconscious|unconscious]]; **Resistances** all damage 10 (except force or [[DATABASE/equipment/Ghost Touch|ghost touch]]; double resistance vs. non-magical)
+<span class="in-box-ability">**Unrest Aura** (emotion, enchantment, mental, occult) 30 feet. A creature that enters the emanation must attempt a DC 27 Will save. On a failure, the creature is [[DATABASE/condition/Confused|confused]] until the end of its next turn (1 minute on a critical failure). During this confusion, the creature attempts to cause turmoil, using its actions to create disarray in its general vicinity by throwing around objects or scaring passersby. A creature that succeeds at its save is immune to all hantu belians' unrest auras for 1 hour. A hantu belian can suppress or resume the effects of this aura as an action, which has the concentrate trait.</span>
 
 ---
 **Speed** fly 35 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +22 [+18/+14] (agile, finesse, magical), **Damage** 2d6+13 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> beak +22 [+17/+12] (finesse, magical), **Damage** 2d8+13 piercing</span>**Occult Innate Spells** DC 30, attack +22; **7th** _[[Possession]]_; **6th** _[[Heal]]_; **4th** _[[Remove Curse]]_; **3rd** _[[Fear]]_, _[[Remove Disease]]_; **Cantrips** **(6th)** _[[Daze]]_, _[[Light]]_, _[[Prestidigitation]]_, _[[Telekinetic Projectile]]_
-<span class="in-box-ability">**Greater Possession** A hantu belian can use its possession innate spell to possess a creature for up to 1 hour rather than 1 minute. While possessing a creature, the hantu uses its own [[Acrobatics]], [[Athletics]], and [[Stealth]] modifiers unless those of the possessed creature are higher.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +22 [+18/+14] (agile, finesse, magical), **Damage** 2d6+13 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> beak +22 [+17/+12] (finesse, magical), **Damage** 2d8+13 piercing</span>**Occult Innate Spells** DC 30, attack +22; **7th** _[[DATABASE/spell/Possession|possession]]_; **6th** _[[DATABASE/spell/Heal|heal]]_; **4th** _[[DATABASE/spell/Remove Curse|remove curse]]_; **3rd** _[[DATABASE/spell/Fear|fear]]_, _[[DATABASE/spell/Remove Disease|remove disease]]_; **Cantrips** **(6th)** _[[DATABASE/spell/Daze|daze]]_, _[[DATABASE/spell/Light|light]]_, _[[DATABASE/spell/Prestidigitation|prestidigitation]]_, _[[DATABASE/spell/Telekinetic Projectile|telekinetic projectile]]_
+<span class="in-box-ability">**Greater Possession** A hantu belian can use its possession innate spell to possess a creature for up to 1 hour rather than 1 minute. While possessing a creature, the hantu uses its own [[DATABASE/skill/Acrobatics|Acrobatics]], [[DATABASE/skill/Athletics|Athletics]], and [[DATABASE/skill/Stealth|Stealth]] modifiers unless those of the possessed creature are higher.</span>

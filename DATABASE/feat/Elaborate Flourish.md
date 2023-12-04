@@ -11,6 +11,7 @@ name: Elaborate Flourish
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -26,10 +27,10 @@ type: Feat
 # Elaborate Flourish <span class="action-icon">1</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Manipulate</span><span class="item-trait">Metamagic</span><span class="item-trait">Sorcerer</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
-You embellish your spellcasting with entrancing flourishes and grand pronouncements, making it harder to identify or counter. If the next action you use is to Cast a Spell, creatures with the ability to Cast that Spell don't automatically know what the spell is. In addition, creatures that witness your spellcasting take a –2 circumstance penalty to checks to identify the spell with [[Recall Knowledge]] and checks to counteract the spell during its casting (such as with [[Counterspell]]).
+You embellish your spellcasting with entrancing flourishes and grand pronouncements, making it harder to identify or counter. If the next action you use is to Cast a Spell, creatures with the ability to Cast that Spell don't automatically know what the spell is. In addition, creatures that witness your spellcasting take a –2 circumstance penalty to checks to identify the spell with [[DATABASE/action/Recall Knowledge|Recall Knowledge]] and checks to counteract the spell during its casting (such as with [[DATABASE/feat/Counterspell|Counterspell]]).
 
 ## Traits
 

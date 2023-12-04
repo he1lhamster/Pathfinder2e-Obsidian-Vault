@@ -78,22 +78,22 @@ wisdom: '+2'
 # Thatchling
 
 The typical thatchling appears as a humanoid bundle of dry grass and twigs, held together by coils of what looks like glowing blue hair. These minor undead can't form bodies larger than those of a small human child.
-**Recall Knowledge - Undead ([[Religion]])**: DC 16
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
 # Thatchling<span class="item-type">Creature 0</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Small</span><span class="item-trait">Undead</span>
-**Source** [[Pathfinder 196. The Summer That Never Was]]
-**Perception** +6; [[Darkvision]]q
-**Languages** [[Common]]
-**Skills** [[Acrobatics]] +5, [[Stealth]] +5 (+7 in undergrowth)
+**Source** [[DATABASE/source/Pathfinder 196. The Summer That Never Was|Pathfinder #196: The Summer That Never Was]]
+**Perception** +6; [[DATABASE/monsterability/Darkvision|darkvision]]q
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +5, [[DATABASE/skill/Stealth|Stealth]] +5 (+7 in undergrowth)
 **Str** +0, **Dex** +3, **Con** +2, **Int** +0, **Wis** +2, **Cha** +3
 
 ---
 **AC** 15; **Fort** +4, **Ref** +7, **Will** +6
-**HP** 16 ([[Negative Healing]]); **Immunities** death effects, disease, [[Paralyzed]], poison, precision, [[Unconscious]]; **Resistances** bludgeoning 2, piercing 2; **Weaknesses** fire 5
+**HP** 16 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects, disease, [[DATABASE/condition/Paralyzed|paralyzed]], poison, precision, [[DATABASE/condition/Unconscious|unconscious]]; **Resistances** bludgeoning 2, piercing 2; **Weaknesses** fire 5
 <span class="in-box-ability">**Distracting Giggle** (auditory, aura, emotion, enchantment, mental, occult) 15 feet. The thatchling's giggle echoes in the back of the mind. Creatures within the aura take a –1 status penalty to Will saves.</span><span class="in-box-ability">**Rejuvenation** (divine, necromancy) When a thatchling is destroyed by damage other than fire, it attempts a DC 11 flat check. On a success, it reforms after 2d4 days within 120 feet of where it was destroyed, fully healed. A thatchling is always permanently destroyed if reduced to 0 Hit Points by fire damage or if the obstacle preventing the soul from reincarnating is removed.</span>
 
 ---
@@ -102,4 +102,4 @@ The typical thatchling appears as a humanoid bundle of dry grass and twigs, held
  **Critical Success** The target is unaffected and is temporarily immune to Thatchling's Curse for 24 hours.
  **Success** The target is momentarily disoriented and has difficulty moving in the right direction. The target takes a –5-foot status penalty to its Speeds for 1 round.
  **Failure** As success, but the penalty to its Speeds lasts for 1 minute.
- **Critical Failure** As failure, but the penalty to its Speeds lasts until the curse is removed or until the thatchling that created the effect is permanently destroyed, whichever comes first. In addition, when the cursed creature attempts a [[Survival]] check to [[Sense Direction]] or [[Track]], they use the outcome for one degree of success worse than the result of their check, and they can't take the [[Scout]] exploration activity.</span><span class="in-box-ability">**Thicket Walker** Thatchlings ignore difficult terrain caused by brambles, tangled grass, and undergrowth, even those manipulated by magic.</span>
+ **Critical Failure** As failure, but the penalty to its Speeds lasts until the curse is removed or until the thatchling that created the effect is permanently destroyed, whichever comes first. In addition, when the cursed creature attempts a [[DATABASE/skill/Survival|Survival]] check to [[DATABASE/action/Sense Direction|Sense Direction]] or [[DATABASE/action/Track|Track]], they use the outcome for one degree of success worse than the result of their check, and they can't take the [[DATABASE/action/Scout|Scout]] exploration activity.</span><span class="in-box-ability">**Thicket Walker** Thatchlings ignore difficult terrain caused by brambles, tangled grass, and undergrowth, even those manipulated by magic.</span>

@@ -84,24 +84,24 @@ wisdom: '+0'
 # Shadowbound Monk Statue
 
 This creature did not include a description.
-**Recall Knowledge - Construct ([[Arcana]], [[Crafting]])**: DC 29
+**Recall Knowledge - Construct ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Crafting|Crafting]])**: DC 29
 **Unspecific Lore**: DC 27
 **Specific Lore**: DC 24
 
 # Shadowbound Monk Statue<span class="item-type">Creature 8</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Construct</span><span class="item-trait">Earth</span><span class="item-trait">Mindless</span><span class="item-trait">Shadow</span>
-**Source** [[Pathfinder 183. Field of Maidens]]
-Variant elite [[Giant Animated Statue]]
-**Perception** +15; [[Darkvision]]
-**Skills** [[Athletics]] +19
+**Source** [[DATABASE/source/Pathfinder 183. Field of Maidens|Pathfinder #183: Field of Maidens]]
+Variant elite [[DATABASE/monster/Giant Animated Statue|giant animated statue]]
+**Perception** +15; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +19
 **Str** +6, **Dex** -1, **Con** +6, **Int** -5, **Wis** +0, **Cha** -5
 
 ---
 **AC** 28 (24 when broken, construct armor); **Fort** +19, **Ref** +12, **Will** +11
-**HP** 120; **Hardness** 10; **Immunities** bleed, death effects, disease, [[Doomed]], [[Drained]], [[Fatigued]], healing, mental, necromancy, nonlethal attacks, [[Paralyzed]], poison, [[Sickened]], [[Unconscious]]
+**HP** 120; **Hardness** 10; **Immunities** bleed, death effects, disease, [[DATABASE/condition/Doomed|doomed]], [[DATABASE/condition/Drained|drained]], [[DATABASE/condition/Fatigued|fatigued]], healing, mental, necromancy, nonlethal attacks, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Sickened|sickened]], [[DATABASE/condition/Unconscious|unconscious]]
 <span class="in-box-ability">**Construct Armor** Like normal objects, the statue has Hardness. This Hardness reduces any damage it takes by an amount equal to the Hardness. Once the statue is reduced to less than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks, and its Armor Class is reduced to 24.</span>
 
 ---
 **Speed** 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> stone fist +21 [+16/+11] (magical, reach 10 feet), **Damage** 2d12+8 bludgeoning plus [[Grab]]</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> darkness mote +14 [+9/+4] (magical, range increment 80 feet), **Damage** 4d8 negative</span><span class="in-box-ability">**Clinging Gloom The statue pulls a creature it has [[Grabbed]] into its grasping shadows. The target takes 3d8 negative damage and 1d8 [[Persistent Damage]].** <span class="action-icon">1</span> </span><span class="in-box-ability">**Cowl of Shadow** Shifting shadows cover the statue. If the statue is dealt at least 15 positive damage or brought within an area of magical light, the shadows recede, and the statue can't make darkness mote attacks or use Clinging Gloom.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> stone fist +21 [+16/+11] (magical, reach 10 feet), **Damage** 2d12+8 bludgeoning plus [[DATABASE/monsterability/Grab|Grab]]</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> darkness mote +14 [+9/+4] (magical, range increment 80 feet), **Damage** 4d8 negative</span><span class="in-box-ability">**Clinging Gloom The statue pulls a creature it has [[DATABASE/condition/Grabbed|grabbed]] into its grasping shadows. The target takes 3d8 negative damage and 1d8 [[DATABASE/condition/Persistent Damage|persistent negative damage]].** <span class="action-icon">1</span> </span><span class="in-box-ability">**Cowl of Shadow** Shifting shadows cover the statue. If the statue is dealt at least 15 positive damage or brought within an area of magical light, the shadows recede, and the statue can't make darkness mote attacks or use Clinging Gloom.</span>

@@ -69,20 +69,20 @@ wisdom: '+2'
 # Gref
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 26
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 26
 **Unspecific Lore**: DC 24
 **Specific Lore**: DC 21
 
 # Gref<span class="item-type">Creature 2</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Small</span><span class="item-trait">Humanoid</span><span class="item-trait">Ratfolk</span>
-**Source** [[Pathfinder 157. Devil at the Dreaming Palace]]
-Male [[Ratfolk]] smuggler
-**Perception** +9; [[Darkvision]]
-**Languages** [[Common]], [[Undercommon]]
-**Skills** [[Acrobatics]] +8, [[Deception]] +6, [[Stealth]] +8, [[Thievery]] +8
+**Source** [[DATABASE/source/Pathfinder 157. Devil at the Dreaming Palace|Pathfinder #157: Devil at the Dreaming Palace]]
+Male [[DATABASE/ancestry/Ratfolk|ratfolk]] smuggler
+**Perception** +9; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Undercommon|Undercommon]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +8, [[DATABASE/skill/Deception|Deception]] +6, [[DATABASE/skill/Stealth|Stealth]] +8, [[DATABASE/skill/Thievery|Thievery]] +8
 **Str** +2, **Dex** +4, **Con** +2, **Int** -1, **Wis** +2, **Cha** +0
-**Items** [[Crossbow]], [[Katar]], [[Leather Armor]], [[Snake Oil]], [[Tindertwig]]
+**Items** [[DATABASE/weapon/Crossbow|crossbow with 10 bolts]], [[DATABASE/weapon/Katar|katar]], [[DATABASE/armor/Leather Armor|leather armor]], [[DATABASE/equipment/Snake Oil|snake oil (2)]], [[DATABASE/equipment/Tindertwig|tindertwig]]
 
 ---
 **AC** 17; **Fort** +9, **Ref** +12, **Will** +4

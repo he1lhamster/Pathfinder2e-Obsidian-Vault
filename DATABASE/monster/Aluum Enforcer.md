@@ -86,16 +86,16 @@ wisdom: '+1'
 # Aluum Enforcer
 
 The most common aluum is powered by the bound soul of a loyal city servant, but its creation is among the Pactmasters’ most guarded secrets. There are dozens of dormant aluums spread throughout Katapesh, and only someone wearing an aluum charm can activate and command one of these 14-foot-tall soldiers. The Pactmasters entrust few beyond the Zephyr Guard to carry these charms, and stealing such a charm is one of the most severe crimes in the city.
-**Recall Knowledge - Construct ([[Arcana]], [[Crafting]])**: DC 29
+**Recall Knowledge - Construct ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Crafting|Crafting]])**: DC 29
 **Unspecific Lore**: DC 27
 **Specific Lore**: DC 24
 
 # Aluum Enforcer<span class="item-type">Creature 10</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Construct</span><span class="item-trait">Mindless</span>
-**Source** [[Pathfinder 149. Against the Scarlet Triad]]
+**Source** [[DATABASE/source/Pathfinder 149. Against the Scarlet Triad|Pathfinder #149: Against the Scarlet Triad]]
 **Perception** +17; darkvision
-**Skills** [[Athletics]] +23
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +23
 **Str** +7, **Dex** +2, **Con** +5, **Int** -5, **Wis** +1, **Cha** -5
 
 ---
@@ -105,4 +105,4 @@ The most common aluum is powered by the bound soul of a loyal city servant, but 
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +23 [+18/+13] (magical), **Damage** 2d10+13 bludgeoning plus paralyzing force</span><span class="in-box-ability">**Aluum Antimagic** Aluum enforcers are immune to spells and magical abilities, with two exceptions. A negative spell or magical ability grants an aluum enforcer the [[Quickened]] condition until the end of its next turn instead of its normal effects. A positive spell or ability makes an aluum enforcer [[Slowed]] until the end of its next turn instead of its normal effects.</span><span class="in-box-ability">**Paralyzing Force** (arcane, incapacitation, necromancy) A creature damaged by the aluum enforcer’s fist Strike must succeed at a DC 27 Fortitude save or become [[Paralyzed]] for 1 round. On a critical failure, the creature is paralyzed for 1d4 minutes and falls [[Prone]].</span><span class="in-box-ability">**Soul Shriek** <span class="action-icon">2</span> (arcane, auditory, evocation, mental, sonic) The aluum enforcer emits a keening wail in a 15-foot cone that deals 9d6 sonic damage (DC 27 basic Fortitude save). A creature that fails its save is [[Stunned]], or stunned 3 on a critical failure. The aluum can’t use Soul Shriek again for 1d4 rounds.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +23 [+18/+13] (magical), **Damage** 2d10+13 bludgeoning plus paralyzing force</span><span class="in-box-ability">**Aluum Antimagic** Aluum enforcers are immune to spells and magical abilities, with two exceptions. A negative spell or magical ability grants an aluum enforcer the [[DATABASE/condition/Quickened|quickened]] condition until the end of its next turn instead of its normal effects. A positive spell or ability makes an aluum enforcer [[DATABASE/condition/Slowed|slowed 1]] until the end of its next turn instead of its normal effects.</span><span class="in-box-ability">**Paralyzing Force** (arcane, incapacitation, necromancy) A creature damaged by the aluum enforcer’s fist Strike must succeed at a DC 27 Fortitude save or become [[DATABASE/condition/Paralyzed|paralyzed]] for 1 round. On a critical failure, the creature is paralyzed for 1d4 minutes and falls [[DATABASE/condition/Prone|prone]].</span><span class="in-box-ability">**Soul Shriek** <span class="action-icon">2</span> (arcane, auditory, evocation, mental, sonic) The aluum enforcer emits a keening wail in a 15-foot cone that deals 9d6 sonic damage (DC 27 basic Fortitude save). A creature that fails its save is [[DATABASE/condition/Stunned|stunned 1]], or stunned 3 on a critical failure. The aluum can’t use Soul Shriek again for 1d4 rounds.</span>

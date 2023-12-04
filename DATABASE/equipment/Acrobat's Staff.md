@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -56,12 +57,12 @@ weapon_type: null
 # Acrobat's Staff<span class="item-type">Item 6</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Fortune</span><span class="item-trait">Magical</span><span class="item-trait">Transmutation</span>
-**Source** [[Pathfinder 152. Legacy of the Lost God]]
+**Source** [[DATABASE/source/Pathfinder 152. Legacy of the Lost God|Pathfinder #152: Legacy of the Lost God]]
 **Price** 235 gp
 **Usage** held in 2 hands
 ; **Bulk** 2
-**Base Weapon** [[Bo Staff]]
+**Base Weapon** [[DATABASE/weapon/Bo Staff|Bo Staff]]
 
 ---
-This _+1 striking [[Bo Staff]]_ is particularly long, making it useful as a balancing pole. While you wield it, the acrobat’s staff releases chalk dust to make your grip more secure, granting you a +1 circumstance bonus to your Reflex DC against checks to [[Disarm]] you of it.
-**Activate** <span class="action-icon">5</span> command **Trigger** You fail or critically fail an [[Acrobatics]] check to [[Balance]] and would fall; **Effect** Reroll the Acrobatics check and take the better result.
+This _+1 striking [[DATABASE/weapon/Bo Staff|bo staff]]_ is particularly long, making it useful as a balancing pole. While you wield it, the acrobat’s staff releases chalk dust to make your grip more secure, granting you a +1 circumstance bonus to your Reflex DC against checks to [[DATABASE/action/Disarm|Disarm]] you of it.
+**Activate** <span class="action-icon">5</span> command **Trigger** You fail or critically fail an [[DATABASE/skill/Acrobatics|Acrobatics]] check to [[DATABASE/action/Balance|Balance]] and would fall; **Effect** Reroll the Acrobatics check and take the better result.

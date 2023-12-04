@@ -11,6 +11,7 @@ name: You're Next
 prerequisite: Trained in [[DATABASE/skill/Intimidation|Intimidation]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -27,8 +28,8 @@ type: Feat
 # You're Next <span class="action-icon">5</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Emotion</span><span class="item-trait">Fear</span><span class="item-trait">Mental</span><span class="item-trait">Rogue</span><span class="item-trait">Swashbuckler</span>
-**Source** [[Advanced Player's Guide]] , [[Core Rulebook]] 
-**Prerequisites** trained in [[Intimidation]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] , [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** trained in [[DATABASE/skill/Intimidation|Intimidation]]
 **Trigger** You reduce an enemy to 0 Hit Points.
 
 ---

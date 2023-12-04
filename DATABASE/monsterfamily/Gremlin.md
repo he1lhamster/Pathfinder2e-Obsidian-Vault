@@ -3,6 +3,7 @@ creature_family: Gremlin
 id: '58'
 name: Gremlin
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Gremlin
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Gremlins are cruel fey tricksters and saboteurs who have fully acclimated to life on the Material Plane, finding distinct niches for their inventive destructiveness. All gremlins delight in ruining or breaking things, whether it’s something physical like a device or vehicle or something intangible such as an alliance or relationship. A gremlin’s greatest joy is watching the collapse of complex creations, preferably after the lightest and slightest, carefully targeted push from the gremlin. Gremlins tend to denigrate, bully, or even slaughter their lesser kin, particularly mitflits, whom gremlins (and many others) derisively call “mites.”
 
 ### Members
 
-[[Fuath]] (Creature 1), [[Gnagrif]] (Creature 2), [[Grimple]] (Creature -1), [[Haniver]] (Creature -1), [[Jinkin]] (Creature 1), [[Mitflit]] (Creature -1), [[Nuglub]] (Creature 2), [[Pugwampi]] (Creature 0), [[Scrit]] (Creature 0), [[Very Drunk Jinkin]] (Creature -1), [[Vexgit]] (Creature 1)
+[[DATABASE/monster/Fuath|Fuath]] (Creature 1), [[DATABASE/monster/Gnagrif|Gnagrif]] (Creature 2), [[DATABASE/monster/Grimple|Grimple]] (Creature -1), [[DATABASE/monster/Haniver|Haniver]] (Creature -1), [[DATABASE/monster/Jinkin|Jinkin]] (Creature 1), [[DATABASE/monster/Mitflit|Mitflit]] (Creature -1), [[DATABASE/monster/Nuglub|Nuglub]] (Creature 2), [[DATABASE/monster/Pugwampi|Pugwampi]] (Creature 0), [[DATABASE/monster/Scrit|Scrit]] (Creature 0), [[DATABASE/monster/Very Drunk Jinkin|Very Drunk Jinkin]] (Creature -1), [[DATABASE/monster/Vexgit|Vexgit]] (Creature 1)
 
 ###  Gremlin "Treasure"
 
@@ -27,7 +28,7 @@ Superstitious societies sometimes hang tiny bells made of semiprecious metals in
 
 ###  Gremlin Faith
 
-Lawful evil gremlins are sometimes drawn to the worship of archdevils, though not in an orthodox fashion. [[Dispater]] is revered as the archdevil of cities—playgrounds to engage in thievery and sabotage. [[Mammon]] is worshipped as the bringer of wealth and protector of gremlin warrens that, like his domain of Erebus, are dark and trap-filled. Neutral evil gremlins have been known to worship [[Norgorber]] in his aspect as a patron of thieves, but pugwampis in particular prefer to worship [[Gnoll]] (or at least, worship whoever the local gnolls worship). Chaotic evil gremlins often revere Andirifkhu, demon lord of illusions, knives, and traps. Those that retain a connection to the First World may swear allegiance to the [[The Lantern King]], Eldest of laughter, mischief, and transmutation.
+Lawful evil gremlins are sometimes drawn to the worship of archdevils, though not in an orthodox fashion. [[DATABASE/deity/Dispater|Dispater]] is revered as the archdevil of cities—playgrounds to engage in thievery and sabotage. [[DATABASE/deity/Mammon|Mammon]] is worshipped as the bringer of wealth and protector of gremlin warrens that, like his domain of Erebus, are dark and trap-filled. Neutral evil gremlins have been known to worship [[DATABASE/deity/Norgorber|Norgorber]] in his aspect as a patron of thieves, but pugwampis in particular prefer to worship [[DATABASE/monsterfamily/Gnoll|gnolls]] (or at least, worship whoever the local gnolls worship). Chaotic evil gremlins often revere Andirifkhu, demon lord of illusions, knives, and traps. Those that retain a connection to the First World may swear allegiance to the [[DATABASE/deity/The Lantern King|Lantern King]], Eldest of laughter, mischief, and transmutation.
 
 ###  Gremlin Minions
 

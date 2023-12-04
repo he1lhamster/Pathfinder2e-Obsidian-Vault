@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Pathfinder Agent Dedication|Pathfinder Agent Dedi
   ; master in a skill used to [[DATABASE/action/Recall Knowledge|Recall Knowledge]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
 subcategory: null
@@ -26,11 +27,11 @@ type: Feat
 # Diverse Recognition <span class="action-icon">4</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Skill</span>
-**Source** [[PFS Guide]]
-**Archetype** [[Pathfinder Agent]]
+**Source** [[DATABASE/source/PFS Guide|PFS Guide]]
+**Archetype** [[DATABASE/archetype/Pathfinder Agent|Pathfinder Agent]]
 **Frequency** once per round
-**Prerequisites** [[Pathfinder Agent Dedication]]; master in a skill used to [[Recall Knowledge]]
-**Trigger** You successfully [[Recall Knowledge]] about a creature you can see, using a skill in which you are a master.
+**Prerequisites** [[DATABASE/feat/Pathfinder Agent Dedication|Pathfinder Agent Dedication]]; master in a skill used to [[DATABASE/action/Recall Knowledge|Recall Knowledge]]
+**Trigger** You successfully [[DATABASE/action/Recall Knowledge|Recall Knowledge]] about a creature you can see, using a skill in which you are a master.
 
 ---
 Your Pathfinder training allows you to quickly size up numerous threats. Attempt to Recall Knowledge against a different kind of creature you can see using the same skill. You must still meet the requirements to attempt this check.

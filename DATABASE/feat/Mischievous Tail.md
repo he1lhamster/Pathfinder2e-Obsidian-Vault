@@ -11,6 +11,7 @@ name: Mischievous Tail
 prerequisite: '[[DATABASE/feat/Skillful Tail (Ganzi)|Skillful Tail (Ganzi)]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,11 +24,11 @@ type: Feat
 # Mischievous Tail <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Ganzi</span>
-**Source** [[Ancestry Guide]] 
-**Prerequisites** [[Skillful Tail (Ganzi)]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
+**Prerequisites** [[DATABASE/feat/Skillful Tail (Ganzi)|Skillful Tail (Ganzi)]]
 
 ---
-Your tail can bedevil your foes. You can [[Disarm]] and [[Trip]] creatures with your tail, even if you don't have a free hand. All restrictions of Skillful Tail otherwise continue to apply. If you have [[Smashing Tail]], your tail unarmed attack gains the disarm and trip traits.
+Your tail can bedevil your foes. You can [[DATABASE/action/Disarm|Disarm]] and [[DATABASE/action/Trip|Trip]] creatures with your tail, even if you don't have a free hand. All restrictions of Skillful Tail otherwise continue to apply. If you have [[DATABASE/feat/Smashing Tail|Smashing Tail]], your tail unarmed attack gains the disarm and trip traits.
 
 ## Traits
 

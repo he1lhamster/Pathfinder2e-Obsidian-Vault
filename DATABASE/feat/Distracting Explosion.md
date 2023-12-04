@@ -11,6 +11,7 @@ name: Distracting Explosion
 prerequisite: '[[DATABASE/class_/Inventor|offensive boost]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -25,8 +26,8 @@ type: Feat
 # Distracting Explosion <span class="action-icon">5</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Inventor</span><span class="item-trait">Manipulate</span>
-**Source** [[Guns & Gears]]
-**Prerequisites** [[Inventor]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Prerequisites** [[DATABASE/class_/Inventor|offensive boost]]
 **Trigger** A creature within your reach uses a concentrate action.
 
 ---

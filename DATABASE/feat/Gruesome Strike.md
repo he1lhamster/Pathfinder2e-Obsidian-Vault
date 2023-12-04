@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/championtenet/Evil|tenets of evil]] ; champion''s reac
   that grants extra damagewith your Strikes'
 rarity: Uncommon
 requirement: Your Strikes currently deal extra damage from your champion's reaction.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,8 +26,8 @@ type: Feat
 # Gruesome Strike <span class="action-icon">1</span> <span class="item-type">Feat 12</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Champion</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** [[Evil]]; champion's reaction that grants extra damage with your Strikes
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** [[DATABASE/championtenet/Evil|tenets of evil]]; champion's reaction that grants extra damage with your Strikes
 **Requirements** Your Strikes currently deal extra damage from your champion's reaction.
 
 ---
@@ -36,4 +37,4 @@ Make a Strike against the creature that triggered your champion's reaction. If y
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.

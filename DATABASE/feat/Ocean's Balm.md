@@ -11,6 +11,7 @@ name: Ocean's Balm
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -29,10 +30,10 @@ type: Feat
 # Ocean's Balm <span class="action-icon">1</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Healing</span><span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Manipulate</span><span class="item-trait">Primal</span><span class="item-trait">Vitality</span><span class="item-trait">Water</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
-A blessing of the living sea salves wounds and douses flames. Touch a willing living creature. It regains 1d8 Hit Points and gains resistance 2 to fire for 1 minute. If it has [[Persistent Damage]], it can attempt a flat check to remove it with especially appropriate help. The target is temporarily immune to healing from Ocean's Balm for 10 minutes.
+A blessing of the living sea salves wounds and douses flames. Touch a willing living creature. It regains 1d8 Hit Points and gains resistance 2 to fire for 1 minute. If it has [[DATABASE/condition/Persistent Damage|persistent fire damage]], it can attempt a flat check to remove it with especially appropriate help. The target is temporarily immune to healing from Ocean's Balm for 10 minutes.
 
 ---
 **Level (+2)** The healing increases by 1d8, and the resistance increases by 1.

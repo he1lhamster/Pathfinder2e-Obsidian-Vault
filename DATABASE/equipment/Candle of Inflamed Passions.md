@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -55,10 +56,10 @@ weapon_type: null
 # Candle of Inflamed Passions<span class="item-type">Item 3</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Fire</span><span class="item-trait">Magical</span><span class="item-trait">Mental</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Price** 10 gp
 **Usage** held in 1 hand; **Bulk** —
 **Activate** <span class="action-icon">1</span> (manipulate)
 
 ---
-This blood-red candle is made from wax derived from oil shale found in certain parts of the [[Plane of Fire]]. The wick burns with a flame that flickers and dances even if there's no draft to stir it. You activate the candle by lighting it, which causes creatures within 10 feet of the candle to find their emotions running high. Creatures in the area take a –1 status penalty to saving throws against emotion effects. Once lit, the candle burns for 10 minutes. If extinguished, it can't be relit.
+This blood-red candle is made from wax derived from oil shale found in certain parts of the [[DATABASE/plane/Plane of Fire|Plane of Fire]]. The wick burns with a flame that flickers and dances even if there's no draft to stir it. You activate the candle by lighting it, which causes creatures within 10 feet of the candle to find their emotions running high. Creatures in the area take a –1 status penalty to saving throws against emotion effects. Once lit, the candle burns for 10 minutes. If extinguished, it can't be relit.

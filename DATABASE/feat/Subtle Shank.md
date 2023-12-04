@@ -13,6 +13,7 @@ rarity: Uncommon
 requirement: You have a melee weapon of light bulk [[DATABASE/action/Conceal an Object|Concealed]]
   on yourperson via the [[DATABASE/skill/Stealth|Stealth]] skill, and the target isn't
   awareof it.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 159. All or Nothing|Pathfinder #159: All or
   Nothing]]'
@@ -28,13 +29,13 @@ type: Feat
 # Subtle Shank <span class="action-icon">2</span> <span class="item-type">Feat 8</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Flourish</span><span class="item-trait">Rogue</span>
-**Source** [[Pathfinder 159. All or Nothing]]
-**Prerequisites** [[Quick Draw]]
+**Source** [[DATABASE/source/Pathfinder 159. All or Nothing|Pathfinder #159: All or Nothing]]
+**Prerequisites** [[DATABASE/feat/Quick Draw|Quick Draw]]
 **Access** Help either the Washboard Dogs or the Diobel Sweepers destroy their rival.
-**Requirements** You have a melee weapon of light bulk [[Conceal an Object]] on your person via the [[Stealth]] skill, and the target isn't aware of it.
+**Requirements** You have a melee weapon of light bulk [[DATABASE/action/Conceal an Object|Concealed]] on your person via the [[DATABASE/skill/Stealth|Stealth]] skill, and the target isn't aware of it.
 
 ---
-You draw a concealed weapon, attack with it, and then hide it away again in one smooth motion. Interact to draw the weapon, Strike with that weapon, and then Conceal it with a Stealth check. The target is [[Flat-Footed]] for this attack.
+You draw a concealed weapon, attack with it, and then hide it away again in one smooth motion. Interact to draw the weapon, Strike with that weapon, and then Conceal it with a Stealth check. The target is [[DATABASE/condition/Flat-Footed|flat-footed]] for this attack.
 
 ## Traits
 
@@ -44,11 +45,11 @@ Flourish actions are actions that require too much exertion to perform a large n
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.
 
 ### Gang Feats
 
-**Source** [[Pathfinder 159. All or Nothing]]
+**Source** [[DATABASE/source/Pathfinder 159. All or Nothing|Pathfinder #159: All or Nothing]]
 Street gangs in Absalom recruit amateur pickpockets, ruffians, and vandals who show promise in their specialties and operate well in tight groups.
  Rogue agents can gain access to some of the following rogue feats by successfully helping Maurrisa Jonne or Bloody Berleth eliminate their rival (see Chapter 1). Some of these feats, however, can be gained only by helping a particular side in the gang conflict.
-**Related Feats**: [[Ambushing Knockdown]], [[Coordinated Distraction]], [[Deny Support]], [[Slice and Swipe]]
+**Related Feats**: [[DATABASE/feat/Ambushing Knockdown|Ambushing Knockdown]], [[DATABASE/feat/Coordinated Distraction|Coordinated Distraction]], [[DATABASE/feat/Deny Support|Deny Support]], [[DATABASE/feat/Slice and Swipe|Slice and Swipe]]

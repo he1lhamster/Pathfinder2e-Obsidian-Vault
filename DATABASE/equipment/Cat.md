@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -50,18 +51,18 @@ weapon_type: null
 ---
 # Cat<span class="item-type">Item 0+</span>
 
-**Source** [[Travel Guide]]
+**Source** [[DATABASE/source/Travel Guide|Travel Guide]]
 **Bulk** —
 
 ---
 
 ## Cat<span class="item-type">Item 0</span>
 
-**Source** [[Travel Guide]]
+**Source** [[DATABASE/source/Travel Guide|Travel Guide]]
 **Price** 3 cp+
 
 ## Cat (Galtan Orange)<span class="item-type">Item 0</span>
 
-**Source** [[Travel Guide]]
+**Source** [[DATABASE/source/Travel Guide|Travel Guide]]
 **Price** 10 gp
 The Galtan orange cat was bred to have short legs and a thick orange coat so it could easily hunt vermin in tight spaces. They were often kept as staff in noble houses. During the Galtan revolution, as noble households fell, these cats were left to fend for their themselves. While there's a substantial feral population, only one breeder of pedigreed Galtan orange cats remains, making them highly sought after.

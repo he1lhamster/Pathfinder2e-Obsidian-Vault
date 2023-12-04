@@ -6,6 +6,7 @@ id: '66'
 name: Nirmathi Guerrilla
 prerequisite: null
 rarity: null
+rus_type_level: null
 skill: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
 subcategory: regional
@@ -15,8 +16,8 @@ type: null
 ---
 # Nirmathi Guerrilla<span class="item-type">Background</span>
 
-**Source** [[World Guide]] 
+**Source** [[DATABASE/source/World Guide|World Guide]] 
 **Region** Eye of Dread
 Woodcraft comes naturally to you, and you have learned how to use the forest to your tactical advantage against superior forces in skirmishes against the Molthuni army or the Ironfang Legion.
 Choose two ability boosts. One must be to **Dexterity** or **Wisdom**, and one is a free ability boost.
-You're trained in the [[Stealth]] skill, and the [[Lore]] skill. You gain the [[Terrain Stalker]] (underbrush) skill feat.
+You're trained in the [[DATABASE/skill/Stealth|Stealth]] skill, and the [[DATABASE/skill/Lore|Forest Lore]] skill. You gain the [[DATABASE/feat/Terrain Stalker|Terrain Stalker]] (underbrush) skill feat.

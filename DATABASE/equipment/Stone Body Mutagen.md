@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -56,7 +57,7 @@ weapon_type: null
 # Stone Body Mutagen<span class="item-type">Item 5+</span>
 
 <span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Elixir</span><span class="item-trait">Mutagen</span><span class="item-trait">Polymorph</span>
-**Source** [[Treasure Vault]] , [[The Fall of Plaguestone]]
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] , [[DATABASE/source/The Fall of Plaguestone|The Fall of Plaguestone]]
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
@@ -67,21 +68,21 @@ This mutagen calcifies your body, making it as hard as stone.
 
 ## Stone Body Mutagen (Lesser)<span class="item-type">Item 5</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 22 gp
 **Bulk** L
 You gain resistance 5 to physical damage (except bludgeoning) and the duration is 10 minutes.
 
 ## Stone Body Mutagen (Moderate)<span class="item-type">Item 12</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 300 gp
 **Bulk** L
 You gain resistance 5 to physical damage (except bludgeoning) and the duration is 1 hour.
 
 ## Stone Body Mutagen (Greater)<span class="item-type">Item 15</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 920 gp
 **Bulk** L
 You gain resistance 10 to physical damage (except bludgeoning) and the duration is 1 hour.

@@ -24,6 +24,7 @@ follower_alignment:
 id: '58'
 name: Sekhmet
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Medicine|Medicine]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -33,7 +34,7 @@ type: Deity
 ---
 # Sekhmet (Lady of Slaughter) [CN]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Category** Ancient Osirian Gods
 **Edicts** Slaughter your enemies, drink the blood of defeated foes, heal battle injuries
 **Anathema** Spare an evil fiend, fail to placate Sekhmet with daily rituals
@@ -41,9 +42,9 @@ type: Deity
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Strength or Wisdom
-**Divine Font** _[[Harm]]_ or _[[Heal]]_
-**Divine Skill** [[Medicine]]
-**Favored Weapon** [[Fist]] or [[Battle Axe]]
-**Domains** [[Destruction Domain]], [[Healing Domain]], [[Indulgence Domain]], [[Might Domain]]
-**Cleric Spells** 1st: _[[True Strike]]_, 4th: _[[Wall of Fire]]_, 5th: _[[Moon Frenzy]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Strength or Wisdom
+**Divine Font** _[[DATABASE/spell/Harm|harm]]_ or _[[DATABASE/spell/Heal|heal]]_
+**Divine Skill** [[DATABASE/skill/Medicine|Medicine]]
+**Favored Weapon** [[DATABASE/weapon/Fist|claw]] or [[DATABASE/weapon/Battle Axe|battle axe]]
+**Domains** [[DATABASE/domain/Destruction Domain|destruction]], [[DATABASE/domain/Healing Domain|healing]], [[DATABASE/domain/Indulgence Domain|indulgence]], [[DATABASE/domain/Might Domain|might]]
+**Cleric Spells** 1st: _[[DATABASE/spell/True Strike|true strike]]_, 4th: _[[DATABASE/spell/Wall of Fire|wall of fire]]_, 5th: _[[DATABASE/spell/Moon Frenzy|moon frenzy]]_

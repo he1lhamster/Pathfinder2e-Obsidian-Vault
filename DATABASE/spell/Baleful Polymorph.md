@@ -23,6 +23,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Fortitude
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -41,10 +42,10 @@ type: Spell
 # Baleful Polymorph<span class="item-type">Spell 6</span>
 
 <span class="item-trait">Incapacitation</span><span class="item-trait">Polymorph</span><span class="item-trait">Transmutation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, primal
-**Bloodline** [[Hag]]
-**Deities** [[Mother Vulture]], [[The Lantern King]]
+**Bloodline** [[DATABASE/sorcererbloodline/Hag|hag]]
+**Deities** [[DATABASE/deity/Mother Vulture|Mother Vulture]], [[DATABASE/deity/The Lantern King|The Lantern King]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet; **Targets** 1 creature
 **Saving Throw** Fortitude; **Duration** varies

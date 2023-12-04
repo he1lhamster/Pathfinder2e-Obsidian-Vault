@@ -18,6 +18,7 @@ domain_spell: '[[DATABASE/spell/Zenith Star|Zenith Star]]'
 id: '52'
 name: Star Domain
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
 trait: null
 type: Domain
@@ -25,7 +26,7 @@ type: Domain
 ---
 # Star Domain
 
-**Source** [[Gods & Magic]] 
-**Deities** [[Black Butterfly]], [[Cosmic Caravan]], [[Dajermube]], [[Desna]], [[Findeladlara]], [[Luhar]], [[Ma'at]], [[Pulura]], [[The Path of the Heavens]]
-**Domain Spell** _[[Zenith Star]]_; **Advanced Domain Spell** _[[Asterism]]_
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
+**Deities** [[DATABASE/deity/Black Butterfly|Black Butterfly]], [[DATABASE/deity/Cosmic Caravan|Cosmic Caravan]], [[DATABASE/deity/Dajermube|Dajermube]], [[DATABASE/deity/Desna|Desna]], [[DATABASE/deity/Findeladlara|Findeladlara]], [[DATABASE/deity/Luhar|Luhar]], [[DATABASE/deity/Ma'at|Ma'at]], [[DATABASE/deity/Pulura|Pulura]], [[DATABASE/deity/The Path of the Heavens|The Path of the Heavens]]
+**Domain Spell** _[[DATABASE/spell/Zenith Star|Zenith Star]]_; **Advanced Domain Spell** _[[DATABASE/spell/Asterism|Asterism]]_
 You command the power of the stars.

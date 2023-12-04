@@ -74,19 +74,19 @@ wisdom: '+3'
 # Kreekoss
 
 This creature did not include a description.
-**Recall Knowledge - Beast ([[Arcana]], [[Nature]])**: DC 32
-**Recall Knowledge - Fiend ([[Religion]])**: DC 32
+**Recall Knowledge - Beast ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 32
+**Recall Knowledge - Fiend ([[DATABASE/skill/Religion|Religion]])**: DC 32
 **Unspecific Lore**: DC 30
 **Specific Lore**: DC 27
 
 # Kreekoss<span class="item-type">Creature 6</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Beast</span><span class="item-trait">Fiend</span>
-**Source** [[Pathfinder 170. Spoken on the Song Wind]]
-Male variant [[Giant Eagle]]
-**Perception** +15; [[Low-Light Vision]]
-**Languages** [[Auran]], [[Common]], [[Sylvan]]; (can't speak any language)
-**Skills** [[Acrobatics]] +15, [[Athletics]] +12
+**Source** [[DATABASE/source/Pathfinder 170. Spoken on the Song Wind|Pathfinder #170: Spoken on the Song Wind]]
+Male variant [[DATABASE/monster/Giant Eagle|giant eagle]]
+**Perception** +15; [[DATABASE/monsterability/Low-Light Vision|low-light vision]]
+**Languages** [[DATABASE/language/Auran|Auran]], [[DATABASE/language/Common|Common]], [[DATABASE/language/Sylvan|Sylvan]]; (can't speak any language)
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +15, [[DATABASE/skill/Athletics|Athletics]] +12
 **Str** +4, **Dex** +5, **Con** +2, **Int** +0, **Wis** +3, **Cha** +1
 
 ---
@@ -96,4 +96,4 @@ Male variant [[Giant Eagle]]
 
 ---
 **Speed** 10 feet, fly 60 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> beak +17 [+12/+7], **Damage** 2d10+8 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> talon +17 [+13/+9] (agile), **Damage** 2d6+8 slashing plus [[Grab]]</span><span class="in-box-ability">**Eagle Dive** <span class="action-icon">1</span> Kreekoss Flies up to double his fly Speed in a straight line, descending at least 10 feet, and then makes a talon Strike.</span><span class="in-box-ability">**Snatch** Kreekoss can Fly at half Speed while he has a creature [[Grabbed]] or [[Restrained]] in his talons, carrying that creature along with it.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> beak +17 [+12/+7], **Damage** 2d10+8 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> talon +17 [+13/+9] (agile), **Damage** 2d6+8 slashing plus [[DATABASE/monsterability/Grab|Grab]]</span><span class="in-box-ability">**Eagle Dive** <span class="action-icon">1</span> Kreekoss Flies up to double his fly Speed in a straight line, descending at least 10 feet, and then makes a talon Strike.</span><span class="in-box-ability">**Snatch** Kreekoss can Fly at half Speed while he has a creature [[DATABASE/condition/Grabbed|grabbed]] or [[DATABASE/condition/Restrained|restrained]] in his talons, carrying that creature along with it.</span>

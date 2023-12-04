@@ -11,6 +11,7 @@ name: Shared Attunement
 prerequisite: '[[DATABASE/feat/Geomancer Dedication|Geomancer Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Shared Attunement <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Secrets of Magic]] 
-**Archetype** [[Geomancer]]
-**Prerequisites** [[Geomancer Dedication]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
+**Archetype** [[DATABASE/archetype/Geomancer|Geomancer]]
+**Prerequisites** [[DATABASE/feat/Geomancer Dedication|Geomancer Dedication]]
 
 ---
 When you would gain a benefit from your terrain attunement, you can grant it to one ally within 30 feet instead of yourself. This has no effect if the terrain attunement affects your foes instead of granting you a benefit.

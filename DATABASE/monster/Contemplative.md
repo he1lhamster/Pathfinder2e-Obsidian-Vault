@@ -82,17 +82,17 @@ wisdom: '+2'
 # Contemplative
 
 Even the average contemplative demonstrates an intellect that far surpasses those of most other beings.
-**Recall Knowledge - Aberration ([[Occultism]])**: DC 18
+**Recall Knowledge - Aberration ([[DATABASE/skill/Occultism|Occultism]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Contemplative<span class="item-type">Creature 2</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Aberration</span>
-**Source** [[Pathfinder 173. Doorway to the Red Star]]
-**Perception** +8; [[Darkvision]], thoughtsense (imprecise) 30 feet
-**Languages** [[Akitonian]]; [[Telepathy]] 30 feet
-**Skills** [[Arcana]] +8, [[Medicine]] +6, [[Nature]] +8, [[Occultism]] +10, [[Society]] +8
+**Source** [[DATABASE/source/Pathfinder 173. Doorway to the Red Star|Pathfinder #173: Doorway to the Red Star]]
+**Perception** +8; [[DATABASE/monsterability/Darkvision|darkvision]], thoughtsense (imprecise) 30 feet
+**Languages** [[DATABASE/language/Akitonian|Akitonian]]; [[DATABASE/monsterability/Telepathy|telepathy]] 30 feet
+**Skills** [[DATABASE/skill/Arcana|Arcana]] +8, [[DATABASE/skill/Medicine|Medicine]] +6, [[DATABASE/skill/Nature|Nature]] +8, [[DATABASE/skill/Occultism|Occultism]] +10, [[DATABASE/skill/Society|Society]] +8
 **Str** -2, **Dex** +3, **Con** +0, **Int** +4, **Wis** +2, **Cha** +3
 **Thoughtsense** (divination, mental, occult) The contemplative senses all non-mindless creatures at the listed range.
 
@@ -103,4 +103,4 @@ Even the average contemplative demonstrates an intellect that far surpasses thos
 
 ---
 **Speed** 5 feet, fly 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +7 [+2/-3] (finesse), **Damage** 1d6 slashing</span>**Occult Innate Spells** DC 18, attack +10; **1st** _[[Magic Missile]]_ (×3), _[[Mindlink]]_; **Cantrips** **(1st)** _[[Daze]]_, _[[Ghost Sound]]_, _[[Mage Hand]]_, _[[Read Aura]]_, _[[Telekinetic Projectile]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +7 [+2/-3] (finesse), **Damage** 1d6 slashing</span>**Occult Innate Spells** DC 18, attack +10; **1st** _[[DATABASE/spell/Magic Missile|magic missile]]_ (×3), _[[DATABASE/spell/Mindlink|mindlink]]_; **Cantrips** **(1st)** _[[DATABASE/spell/Daze|daze]]_, _[[DATABASE/spell/Ghost Sound|ghost sound]]_, _[[DATABASE/spell/Mage Hand|mage hand]]_, _[[DATABASE/spell/Read Aura|read aura]]_, _[[DATABASE/spell/Telekinetic Projectile|telekinetic projectile]]_

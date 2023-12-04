@@ -65,16 +65,16 @@ wisdom: '+1'
 # Giant Ant
 
 Giant ants are much like their smaller kin in their industrious habits, though growing to the size of ponies makes them much deadlier.
-**Recall Knowledge - Animal ([[Nature]])**: DC 16
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
 # Giant Ant<span class="item-type">Creature 2</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary 2]] 
-**Perception** +7; [[Darkvision]], [[Scent]]
-**Skills** [[Athletics]] +8, [[Survival]] +7
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +7; [[DATABASE/monsterability/Darkvision|darkvision]], [[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +8, [[DATABASE/skill/Survival|Survival]] +7
 **Str** +4, **Dex** +1, **Con** +4, **Int** -5, **Wis** +1, **Cha** -4
 
 ---
@@ -83,7 +83,7 @@ Giant ants are much like their smaller kin in their industrious habits, though g
 
 ---
 **Speed** 40 feet, climb 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> mandibles +11 [+6/+1], **Damage** 1d8+4 slashing plus [[Grab]]</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> stinger +11 [+7/+3] (agile), **Damage** 1d6+4 piercing plus giant ant venom</span><span class="in-box-ability">**Giant Ant Venom** (poison) **Saving Throw** DC 18 Fortitude; **Maximum Duration** 4 rounds; **Stage 1** 1d8 poison and [[Enfeebled]] (1 round); **Stage 2** 1d10 poison and enfeebled 2 (1 round); **Stage 3** 1d12 poison and enfeebled 3 (1 round)</span><span class="in-box-ability">**Haul Away** <span class="action-icon">1</span> **Requirements** The giant ant has a Large or smaller creature grabbed; **Effect** The giant ant Strides up to its full Speed, carrying the grabbed creature with it. It is [[Encumbered]] if the grabbed creature is Medium or larger.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> mandibles +11 [+6/+1], **Damage** 1d8+4 slashing plus [[DATABASE/monsterability/Grab|Grab]]</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> stinger +11 [+7/+3] (agile), **Damage** 1d6+4 piercing plus giant ant venom</span><span class="in-box-ability">**Giant Ant Venom** (poison) **Saving Throw** DC 18 Fortitude; **Maximum Duration** 4 rounds; **Stage 1** 1d8 poison and [[DATABASE/condition/Enfeebled|enfeebled 1]] (1 round); **Stage 2** 1d10 poison and enfeebled 2 (1 round); **Stage 3** 1d12 poison and enfeebled 3 (1 round)</span><span class="in-box-ability">**Haul Away** <span class="action-icon">1</span> **Requirements** The giant ant has a Large or smaller creature grabbed; **Effect** The giant ant Strides up to its full Speed, carrying the grabbed creature with it. It is [[DATABASE/condition/Encumbered|encumbered]] if the grabbed creature is Medium or larger.</span>
 
 ###  Ant Hives
 

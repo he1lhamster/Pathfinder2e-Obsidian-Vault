@@ -11,6 +11,7 @@ name: Elemental Summons
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Elemental Summons <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Druid</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
-You can call the four elements to you. You can spend 10 minutes in concert with nature to replace one of the spells you've prepared in one of your druid spell slots with a [[Summon Elemental]] spell of the same level.
+You can call the four elements to you. You can spend 10 minutes in concert with nature to replace one of the spells you've prepared in one of your druid spell slots with a [[DATABASE/spell/Summon Elemental|summon elemental]] spell of the same level.

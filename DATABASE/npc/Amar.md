@@ -82,19 +82,19 @@ wisdom: '+2'
 # Amar
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 32
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 32
 **Unspecific Lore**: DC 30
 **Specific Lore**: DC 27
 
 # Amar<span class="item-type">Creature 6</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[The Enmity Cycle]]
-**Perception** +15; [[Low-Light Vision]]
-**Languages** [[Osiriani]], [[Taldane]]
-**Skills** [[Deception]] +13, [[Diplomacy]] +15, [[Medicine]] +11, [[Occultism]] +15, [[Performance]] +16, [[Society]] +13, [[Stealth]] +13
+**Source** [[DATABASE/source/The Enmity Cycle|The Enmity Cycle]]
+**Perception** +15; [[DATABASE/monsterability/Low-Light Vision|low-light vision]]
+**Languages** [[DATABASE/language/Osiriani|Osiriani]], [[DATABASE/language/Taldane|Taldane]]
+**Skills** [[DATABASE/skill/Deception|Deception]] +13, [[DATABASE/skill/Diplomacy|Diplomacy]] +15, [[DATABASE/skill/Medicine|Medicine]] +11, [[DATABASE/skill/Occultism|Occultism]] +15, [[DATABASE/skill/Performance|Performance]] +16, [[DATABASE/skill/Society|Society]] +13, [[DATABASE/skill/Stealth|Stealth]] +13
 **Str** +2, **Dex** +4, **Con** +2, **Int** +4, **Wis** +2, **Cha** +5
-**Items** _+1 [[Striking]] [[Rapier]]_, [[Leather Armor]], [[Musical Instrument]]
+**Items** _+1 [[DATABASE/equipment/Striking|striking]] [[DATABASE/weapon/Rapier|rapier]]_, [[DATABASE/armor/Leather Armor|leather armor]], [[DATABASE/equipment/Musical Instrument|lute]]
 
 ---
 **AC** 23; **Fort** +11, **Ref** +17, **Will** +14
@@ -102,5 +102,5 @@ This creature did not include a description.
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> rapier +16 [+11/+6] (deadly d8, disarm, finesse), **Damage** 2d6+8 piercing</span>**Occult Spontaneous Spells** DC 24, attack +16; **3rd** _[[Agonizing Despair]]_, _[[Roaring Applause]]_, _[[Slow]]_; **2nd** _[[Dispel Magic]]_, _[[False Life]]_, _[[Mirror Image]]_; **1st** _[[Biting Words]]_, _[[Charm]]_, _[[Fear]]_; **Cantrips** **(2nd)** _[[Bullhorn]]_, _[[Ghost Sound]]_, _[[Haunting Hymn]]_, _[[Light]]_, _[[Summon Instrument]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> rapier +16 [+11/+6] (deadly d8, disarm, finesse), **Damage** 2d6+8 piercing</span>**Occult Spontaneous Spells** DC 24, attack +16; **3rd** _[[DATABASE/spell/Agonizing Despair|agonizing despair]]_, _[[DATABASE/spell/Roaring Applause|roaring applause]]_, _[[DATABASE/spell/Slow|slow]]_; **2nd** _[[DATABASE/spell/Dispel Magic|dispel magic]]_, _[[DATABASE/spell/False Life|false life]]_, _[[DATABASE/spell/Mirror Image|mirror image]]_; **1st** _[[DATABASE/spell/Biting Words|biting words]]_, _[[DATABASE/spell/Charm|charm]]_, _[[DATABASE/spell/Fear|fear]]_; **Cantrips** **(2nd)** _[[DATABASE/spell/Bullhorn|bullhorn]]_, _[[DATABASE/spell/Ghost Sound|ghost sound]]_, _[[DATABASE/spell/Haunting Hymn|haunting hymn]]_, _[[DATABASE/spell/Light|light]]_, _[[DATABASE/spell/Summon Instrument|summon instrument]]_
 <span class="in-box-ability">**Cruel Performance** <span class="action-icon">2</span> (occult, evil, sonic) **Frequency** once per day; **Effect** The bard makes cruel, cutting comments that draw blood. All enemies within 30 feet take 7d6 slashing damage (DC 24 basic Fortitude save).</span>

@@ -22,6 +22,7 @@ patron_theme: null
 range: 1 mile
 rarity: Rare
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
@@ -41,7 +42,7 @@ type: Spell
 # Detect Creator<span class="item-type">Spell 4</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Detection</span><span class="item-trait">Divination</span>
-**Source** [[Knights of Lastwall]]
+**Source** [[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]
 **Traditions** arcane, divine, occult
 **Cast** 10 minutes (material, somatic, verbal)
 **Range** 1 mile; **Targets** 1 destroyed undead

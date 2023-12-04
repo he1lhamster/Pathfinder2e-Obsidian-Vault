@@ -11,6 +11,7 @@ name: No Cause for Alarm
 prerequisite: Trained in [[DATABASE/skill/Diplomacy|Diplomacy]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: diplomacy
@@ -29,11 +30,11 @@ type: Feat
 # No Cause for Alarm <span class="action-icon">3</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Auditory</span><span class="item-trait">Concentrate</span><span class="item-trait">Emotion</span><span class="item-trait">General</span><span class="item-trait">Linguistic</span><span class="item-trait">Mental</span><span class="item-trait">Skill</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** trained in [[Diplomacy]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** trained in [[DATABASE/skill/Diplomacy|Diplomacy]]
 
 ---
-You attempt to reduce panic. Attempt a [[Diplomacy]] check, comparing it to the Will DC of creatures in a 10-foot emanation around you who are [[Frightened]]. Each of them is temporarily immune for 1 hour.
+You attempt to reduce panic. Attempt a [[DATABASE/skill/Diplomacy|Diplomacy]] check, comparing it to the Will DC of creatures in a 10-foot emanation around you who are [[DATABASE/condition/Frightened|frightened]]. Each of them is temporarily immune for 1 hour.
 **Critical Success** Reduce the creature's frightened value by 2.
 **Success** Reduce the creature's frightened value by 1.
 
@@ -41,7 +42,7 @@ You attempt to reduce panic. Attempt a [[Diplomacy]] check, comparing it to the 
 
 **Auditory:**
 
-Auditory actions and effects rely on sound. An action with the auditory trait can be successfully performed only if the creature using the action can speak or otherwise produce the required sounds. A spell or effect with the auditory trait has its effect only if the target can hear it. This applies only to sound-based parts of the effect, as determined by the GM. This is different from a sonic effect, which still affects targets who can't hear it (such as [[Deafened]] targets) as long as the effect itself makes sound.
+Auditory actions and effects rely on sound. An action with the auditory trait can be successfully performed only if the creature using the action can speak or otherwise produce the required sounds. A spell or effect with the auditory trait has its effect only if the target can hear it. This applies only to sound-based parts of the effect, as determined by the GM. This is different from a sonic effect, which still affects targets who can't hear it (such as [[DATABASE/condition/Deafened|deaf]] targets) as long as the effect itself makes sound.
 
 **Concentrate:**
 

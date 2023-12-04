@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: DC 20 Fortitude
 school: null
 size: null
@@ -57,11 +58,11 @@ weapon_type: null
 # Elven Absinthe<span class="item-type">Item 5</span>
 
 <span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Drug</span><span class="item-trait">Ingested</span><span class="item-trait">Poison</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Price** 25 gp
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
 ---
 Specialists in Kyonin prepare this emerald-green beverage.
-**Saving Throw** DC 20 Fortitude; **Onset** 1 hour; **Maximum Duration** 1 day; **Stage 1** +2 item bonus to [[Diplomacy]] and [[Performance]] checks (1 hour); **Stage 2** [[Drained]] (1 hour); **Stage 3** [[Stupefied]] (1 hour)
+**Saving Throw** DC 20 Fortitude; **Onset** 1 hour; **Maximum Duration** 1 day; **Stage 1** +2 item bonus to [[DATABASE/skill/Diplomacy|Diplomacy]] and [[DATABASE/skill/Performance|Performance]] checks (1 hour); **Stage 2** [[DATABASE/condition/Drained|drained 2]] (1 hour); **Stage 3** [[DATABASE/condition/Stupefied|stupefied 4]] (1 hour)

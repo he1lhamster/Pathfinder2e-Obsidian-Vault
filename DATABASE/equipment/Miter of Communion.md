@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 size: null
@@ -55,10 +56,10 @@ weapon_type: null
 # Miter of Communion<span class="item-type">Item 10</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Divination</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span>
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Price** 800 gp
 **Usage** worn headwear; **Bulk** L
 
 ---
-This ornate headgear comes in many different shapes and sizes, though most are elaborately decorated with motifs of the deity whose honor in which it was made. The miter brings you spiritually closer to your deity’s servitors, granting you a +2 item bonus to [[Religion]] checks.
-**Activate** 1 minute (command) **Frequency** once per week; **Effect** You chant for a minute about a task at hand for the coming week to cast a 4th-level [[Read Omens]] spell that grants you cryptic but useful advice.
+This ornate headgear comes in many different shapes and sizes, though most are elaborately decorated with motifs of the deity whose honor in which it was made. The miter brings you spiritually closer to your deity’s servitors, granting you a +2 item bonus to [[DATABASE/skill/Religion|Religion]] checks.
+**Activate** 1 minute (command) **Frequency** once per week; **Effect** You chant for a minute about a task at hand for the coming week to cast a 4th-level [[DATABASE/spell/Read Omens|read omens]] spell that grants you cryptic but useful advice.

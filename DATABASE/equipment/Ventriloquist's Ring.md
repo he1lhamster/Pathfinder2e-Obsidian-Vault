@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Illusion
 size: null
@@ -54,20 +55,20 @@ weapon_type: null
 # Ventriloquist's Ring<span class="item-type">Item 3+</span>
 
 <span class="item-trait">Illusion</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** worn; **Bulk** —
 
 ---
 This elegant copper ring has miniature images of songbirds engraved around its circumference. You gain a +1 item bonus to Deception checks.
-**Activate** <span class="action-icon">2</span> Interact **Frequency** once per day; **Effect** Twisting the ring around your finger allows you to magically throw your voice, with the effects of a [[Ventriloquism]] spell (DC 19).
+**Activate** <span class="action-icon">2</span> Interact **Frequency** once per day; **Effect** Twisting the ring around your finger allows you to magically throw your voice, with the effects of a [[DATABASE/spell/Ventriloquism|ventriloquism]] spell (DC 19).
 
 ## Ventriloquist's Ring<span class="item-type">Item 3</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 60 gp
 
 ## Ventriloquist's Ring (Greater)<span class="item-type">Item 9</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 670 gp
 The ring grants a +2 bonus. When you activate the ring, you gain the effects of 2nd-level _ventriloquism_ (DC 27). You can activate the ring any number of times per day.

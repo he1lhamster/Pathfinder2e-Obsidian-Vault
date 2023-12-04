@@ -12,6 +12,7 @@ prerequisite: ability to cast spells from spell slots; [[DATABASE/feat/Shadowcas
   Dedication|ShadowcasterDedication]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Shadow Reservoir <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Secrets of Magic]] 
-**Archetype** [[Shadowcaster]]
-**Prerequisites** ability to cast spells from spell slots; [[Shadowcaster Dedication]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
+**Archetype** [[DATABASE/archetype/Shadowcaster|Shadowcaster]]
+**Prerequisites** ability to cast spells from spell slots; [[DATABASE/feat/Shadowcaster Dedication|Shadowcaster Dedication]]
 
 ---
 Your own shadow speaks to you, providing knowledge of spells and a reservoir of magical power. Your shadow reservoir contains a single spell of each spell level at least 2 levels lower than the highest-level spell you can cast from your spell slots. This spell must come from your spell list, you must have access to it, and it must require a spell attack roll or a saving throw. These spells don't need to be prepared and aren't in your repertoire.
@@ -36,7 +37,7 @@ Your own shadow speaks to you, providing knowledge of spells and a reservoir of 
 
 ## Shadow Reservoir Leads To...
 
-[[Secrets of Shadow]]
+[[DATABASE/feat/Secrets of Shadow|Secrets of Shadow]]
 
 ## Traits
 

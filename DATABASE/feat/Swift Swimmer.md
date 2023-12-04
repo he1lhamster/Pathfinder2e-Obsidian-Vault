@@ -11,6 +11,7 @@ name: Swift Swimmer
 prerequisite: '[[DATABASE/heritage/Wetlander Lizardfolk|Wetlander Lizardfolk]] heritage'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Swift Swimmer <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Lizardfolk</span>
-**Source** [[Character Guide]] 
-**Prerequisites** [[Wetlander Lizardfolk]]
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
+**Prerequisites** [[DATABASE/heritage/Wetlander Lizardfolk|Wetlander Lizardfolk]]
 
 ---
 You swim faster than most iruxi. Your swim Speed increases to 25 feet.

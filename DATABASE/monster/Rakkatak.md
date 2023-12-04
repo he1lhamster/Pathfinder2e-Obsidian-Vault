@@ -90,30 +90,30 @@ wisdom: '+2'
 
 Pulsating organs and tumors squirm loosely within a sac of skin, all forming the misshapen lump that is the body of a rakkatak. The predator's eyes scan the area, shimmering in the smoke like glowing dots. Wriggling insectoid legs—varying in number from one rakkatak to another—hang from its bulbous body. These limbs flail chaotically as a rakkatak fights, only calming when it's time to eat or rest.
  Most rakkataks fly alone, picking off meals in sudden swooping strikes, but they will occasionally form a flock. Despite having little faculty for communication with other creatures, rakkataks have a certain ravenous genius for hunting with kin. Typically, once one grabs prey, the others swoop in to latch on as well, ingesting their meal with leech-like mouths.
- Rakkataks possess insatiable appetites to help them withstand the long periods of famine between their infrequent meals as they travel the expanses of the [[Plane of Fire]]. As a result, they easily overconsume if brought somewhere with more abundant fauna, like the [[Material Plane]]. A single rakkatak can hold a surprising quantity of offal, even growing in size as its body expands. It becomes more unwieldy the larger it gets, which planar biologists believe to be a survival tactic to keep a rakkatak from indulging its hunger until it quite literally bursts.
-**Recall Knowledge - Elemental ([[Arcana]], [[Nature]])**: DC 20
+ Rakkataks possess insatiable appetites to help them withstand the long periods of famine between their infrequent meals as they travel the expanses of the [[DATABASE/plane/Plane of Fire|Plane of Fire]]. As a result, they easily overconsume if brought somewhere with more abundant fauna, like the [[DATABASE/plane/Material Plane|Universe]]. A single rakkatak can hold a surprising quantity of offal, even growing in size as its body expands. It becomes more unwieldy the larger it gets, which planar biologists believe to be a survival tactic to keep a rakkatak from indulging its hunger until it quite literally bursts.
+**Recall Knowledge - Elemental ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 20
 **Unspecific Lore**: DC 18
 **Specific Lore**: DC 15
 
 # Rakkatak<span class="item-type">Creature 5</span>
 
 <span class="trait-size item-trait">Medium</span><span class="item-trait">Elemental</span><span class="item-trait">Fire</span>
-**Source** [[Rage of Elements]]
-**Perception** +9; [[Darkvision]]
-**Languages** [[Pyric]]; (can't speak any language)
-**Skills** [[Acrobatics]] +11
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
+**Perception** +9; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Pyric|Pyric]]; (can't speak any language)
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +11
 **Str** +4, **Dex** +2, **Con** +5, **Int** -3, **Wis** +2, **Cha** -2
 
 ---
 **AC** 21; **Fort** +14, **Ref** +11, **Will** +9
 **HP** 90; **Immunities** fire; **Weaknesses** cold 5
 <span class="in-box-ability">**Exploding Guts** When the rakkatak is critically hit or critically fails a Fortitude save, one of its organs bursts. Roll 1d4 to determine what effect this has.</span><span class="in-box-ability">
-**1.** Trapped noxious gas rushes out. The rakkatak is pushed 10 feet away from the source of the triggering attack or effect.</span><span class="in-box-ability">**2.** Pus showers those nearby. Each creature in a 5-foot emanation is [[Sickened]].</span><span class="in-box-ability">**3.** The damage is severe. The rakkatak takes 1d6 [[Persistent Damage]].</span><span class="in-box-ability">**4.** Gelatinous rakkatak eggs explode forth and instantly hatch. Each creature in a 5-foot emanation takes 1d6 [[Persistent Damage]] from the ravenous larvae.</span>
+**1.** Trapped noxious gas rushes out. The rakkatak is pushed 10 feet away from the source of the triggering attack or effect.</span><span class="in-box-ability">**2.** Pus showers those nearby. Each creature in a 5-foot emanation is [[DATABASE/condition/Sickened|sickened 1]].</span><span class="in-box-ability">**3.** The damage is severe. The rakkatak takes 1d6 [[DATABASE/condition/Persistent Damage|persistent bleed damage]].</span><span class="in-box-ability">**4.** Gelatinous rakkatak eggs explode forth and instantly hatch. Each creature in a 5-foot emanation takes 1d6 [[DATABASE/condition/Persistent Damage|persistent piercing damage]] from the ravenous larvae.</span>
 
 ---
 **Speed** 5 feet, fly 45 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> mouth +15 [+10/+5], **Damage** 2d8+7 piercing plus [[Grab]]</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> leg +15 [+11/+7] (agile), **Damage** 1d10+7 slashing</span><span class="in-box-ability">**Predator's Stare** <span class="action-icon">1</span> (concentrate, emotion, mental, visual) The rakkatak turns its grotesque yet mesmerizing eyes upon one creature it can see within 30 feet. That creature must succeed at a DC 22 Will save or become [[Fascinated]] with the rakkatak. While fascinated, the creature must spend at least 1 action each round moving closer to the rakkatak as expediently as possible, and can't intentionally move away from it. The fascination ends after 1 minute or when the rakkatak uses Predator's Stare again, whichever comes first.</span><span class="in-box-ability">**Suck Innards** <span class="action-icon">1</span> **Requirements** A [[Grabbed]], [[Paralyzed]], [[Restrained]], [[Unconscious]], or willing creature is within the rakkatak's reach; **Effect** The rakkatak deals 3d6 damage to the target (DC 22 basic Fortitude save). If the creature takes at least 12 damage, the rakkatak regains 10 HP.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> mouth +15 [+10/+5], **Damage** 2d8+7 piercing plus [[DATABASE/monsterability/Grab|Grab]]</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> leg +15 [+11/+7] (agile), **Damage** 1d10+7 slashing</span><span class="in-box-ability">**Predator's Stare** <span class="action-icon">1</span> (concentrate, emotion, mental, visual) The rakkatak turns its grotesque yet mesmerizing eyes upon one creature it can see within 30 feet. That creature must succeed at a DC 22 Will save or become [[DATABASE/condition/Fascinated|fascinated]] with the rakkatak. While fascinated, the creature must spend at least 1 action each round moving closer to the rakkatak as expediently as possible, and can't intentionally move away from it. The fascination ends after 1 minute or when the rakkatak uses Predator's Stare again, whichever comes first.</span><span class="in-box-ability">**Suck Innards** <span class="action-icon">1</span> **Requirements** A [[DATABASE/condition/Grabbed|grabbed]], [[DATABASE/condition/Paralyzed|paralyzed]], [[DATABASE/condition/Restrained|restrained]], [[DATABASE/condition/Unconscious|unconscious]], or willing creature is within the rakkatak's reach; **Effect** The rakkatak deals 3d6 damage to the target (DC 22 basic Fortitude save). If the creature takes at least 12 damage, the rakkatak regains 10 HP.</span>
 
 ###  Ashen Hunting Grounds
 
-Avoiding the blazing chaos and ifrit rule that typify much of the [[Plane of Fire]], rakkataks prefer ashen wastelands as their hunting grounds. They dig simple burrows just barely below the surface, called rakkatak hills. Within, they can doze and digest in peace or lay and tend their horrifying eggs.
+Avoiding the blazing chaos and ifrit rule that typify much of the [[DATABASE/plane/Plane of Fire|Plane of Fire]], rakkataks prefer ashen wastelands as their hunting grounds. They dig simple burrows just barely below the surface, called rakkatak hills. Within, they can doze and digest in peace or lay and tend their horrifying eggs.

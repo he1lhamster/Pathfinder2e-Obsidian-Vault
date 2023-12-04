@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Hellfire Boots<span class="item-type">Item 13</span>
 
 <span class="item-trait">Evocation</span><span class="item-trait">Fire</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Price** 3,000 gp
 **Usage** worn; **Bulk** 1
 

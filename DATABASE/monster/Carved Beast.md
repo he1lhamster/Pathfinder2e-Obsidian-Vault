@@ -74,28 +74,28 @@ wisdom: '+1'
 ---
 # Carved Beast
 
-An untold number of stumps carved into roughly hewn animal shapes roam the [[Plane of Wood]]. The statue portion of these carved beasts is incapable of articulated movement, though the living wood at their base is fully animate. When left to their own devices, carved beasts prefer to roughly mimic the behaviors of the animals they resemble, like children playing with inarticulate toys.
-**Recall Knowledge - Elemental ([[Arcana]], [[Nature]])**: DC 22
-**Recall Knowledge - Plant ([[Nature]])**: DC 22
+An untold number of stumps carved into roughly hewn animal shapes roam the [[DATABASE/plane/Plane of Wood|Plane of Wood]]. The statue portion of these carved beasts is incapable of articulated movement, though the living wood at their base is fully animate. When left to their own devices, carved beasts prefer to roughly mimic the behaviors of the animals they resemble, like children playing with inarticulate toys.
+**Recall Knowledge - Elemental ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 22
+**Recall Knowledge - Plant ([[DATABASE/skill/Nature|Nature]])**: DC 22
 **Unspecific Lore**: DC 20
 **Specific Lore**: DC 17
 
 # Carved Beast<span class="item-type">Creature 6</span>
 
 <span class="trait-size item-trait">Medium</span><span class="item-trait">Elemental</span><span class="item-trait">Plant</span><span class="item-trait">Wood</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Perception** +16
-**Skills** [[Nature]] +15, [[Stealth]] +16 (+19 when posing as a mundane wooden statue)
+**Skills** [[DATABASE/skill/Nature|Nature]] +15, [[DATABASE/skill/Stealth|Stealth]] +16 (+19 when posing as a mundane wooden statue)
 **Str** +2, **Dex** +4, **Con** +3, **Int** +0, **Wis** +1, **Cha** +2
-**Top-Heavy** While the carved beast is not Dug In (see below), its unwieldy design leaves it vulnerable to falling over. The DC of any attempt to knock the carved beast [[Prone]] is reduced by 5, and the beast takes a –5 status penalty to any check or save it attempts to resist being knocked prone. Additionally, whenever the beast fails to [[Trip]] opponents with its roots Strike, it critically fails instead. If successfully [[Shove]] by an opponent, the beast must succeed at a DC 20 Reflex save or fall prone.
+**Top-Heavy** While the carved beast is not Dug In (see below), its unwieldy design leaves it vulnerable to falling over. The DC of any attempt to knock the carved beast [[DATABASE/condition/Prone|prone]] is reduced by 5, and the beast takes a –5 status penalty to any check or save it attempts to resist being knocked prone. Additionally, whenever the beast fails to [[DATABASE/action/Trip|Trip]] opponents with its roots Strike, it critically fails instead. If successfully [[DATABASE/action/Shove|Shoved]] by an opponent, the beast must succeed at a DC 20 Reflex save or fall prone.
 
 ---
 **AC** 22 (24 while Dug In); **Fort** +13 (+15 while Dug In), **Ref** +9, **Will** +17
-**HP** 92; **Immunities** bleed, [[Paralyzed]], poison, sleep; **Weaknesses** [[Axe]] 5, fire 10
+**HP** 92; **Immunities** bleed, [[DATABASE/condition/Paralyzed|paralyzed]], poison, sleep; **Weaknesses** [[DATABASE/weapongroup/Axe|axes]] 5, fire 10
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> statue +15 [+10/+5] (shove), **Damage** 2d8+5 (3d8+5 while Dug In) bludgeoning plus [[Knockdown]]</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> roots +17 [+12/+7] (finesse, trip), **Damage** 2d8+5 bludgeoning</span><span class="in-box-ability">**Dig In** <span class="action-icon">1</span> The carved beast digs its roots into the ground for better protection and purchase. While Dug In, the carved beast can't Stride nor use its roots Strike; however, this also negates the effects of top-heavy, grants the beast a +2 status bonus to its AC and Fortitude saves, and increases the damage of its statue Strike by 1d8. The carved beast can spend an action on its turn to end the effect; alternatively, the effect ends when the carved beast is moved by force, such as via a successful [[Shove]] attack.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> statue +15 [+10/+5] (shove), **Damage** 2d8+5 (3d8+5 while Dug In) bludgeoning plus [[DATABASE/monsterability/Knockdown|Knockdown]]</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> roots +17 [+12/+7] (finesse, trip), **Damage** 2d8+5 bludgeoning</span><span class="in-box-ability">**Dig In** <span class="action-icon">1</span> The carved beast digs its roots into the ground for better protection and purchase. While Dug In, the carved beast can't Stride nor use its roots Strike; however, this also negates the effects of top-heavy, grants the beast a +2 status bonus to its AC and Fortitude saves, and increases the damage of its statue Strike by 1d8. The carved beast can spend an action on its turn to end the effect; alternatively, the effect ends when the carved beast is moved by force, such as via a successful [[DATABASE/action/Shove|Shove]] attack.</span>
 
 ###  Carved Treasures
 

@@ -12,6 +12,7 @@ name: Visap
 price: 2 gp
 range: null
 rarity: Uncommon
+rus_type_level: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 trait:
 - '[[DATABASE/trait/Agile|Agile]]'
@@ -29,10 +30,10 @@ weapon_type: Melee
 # Visap
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Agile</span><span class="item-trait">Finesse</span><span class="item-trait">Injection</span><span class="item-trait">Versatile P</span><span class="item-trait">Vishkanya</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 **Price** 2 gp; **Damage** 1d4 S; **Bulk** L
 **Hands** 1
-**Type** Melee; **Category** Advanced; **Group** [[Knife]]
+**Type** Melee; **Category** Advanced; **Group** [[DATABASE/weapongroup/Knife|Knife]]
 
 ---
 Two small, curved blades extend from a single hilt. There's a hollow area inside that vishkanyas can use to store an unused dose of their blood, or other poison, for the future.
@@ -53,7 +54,7 @@ This weapon can be filled with a liquid, usually an injury poison. Immediately a
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.
 
 **Versatile P:**
 
@@ -65,6 +66,6 @@ These faintly ophidian humanoids have venomous blood and saliva.
 
 ## Critical Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
-**Knife**: The target takes 1d6 [[Persistent Damage]]. You gain an item bonus to this bleed damage equal to the weapon's item bonus to attack rolls.
+**Knife**: The target takes 1d6 [[DATABASE/condition/Persistent Damage|persistent bleed damage]]. You gain an item bonus to this bleed damage equal to the weapon's item bonus to attack rolls.

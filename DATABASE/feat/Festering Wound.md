@@ -11,6 +11,7 @@ name: Festering Wound
 prerequisite: '[[DATABASE/feat/Zombie Dedication|Zombie Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 subcategory: null
@@ -26,12 +27,12 @@ type: Feat
 # Festering Wound <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Disease</span><span class="item-trait">Divine</span><span class="item-trait">Necromancy</span>
-**Source** [[Book of the Dead]]
-**Archetype** [[Zombie]]
-**Prerequisites** [[Zombie Dedication]]
+**Source** [[DATABASE/source/Book of the Dead|Book of the Dead]]
+**Archetype** [[DATABASE/archetype/Zombie|Zombie]]
+**Prerequisites** [[DATABASE/feat/Zombie Dedication|Zombie Dedication]]
 
 ---
-Wounds you inflict with your unarmed attacks fester and rot, becoming infected and difficult to heal. The DC to [[Treat Wounds]] using [[Medicine]] increases by 5, and magically or alchemically healing these wounds requires a counteract check against your class DC or spell DC, whichever is higher. Succeeding at any of these removes the disease. The effect also ends if the creature is healed to full Hit Points by any means.
+Wounds you inflict with your unarmed attacks fester and rot, becoming infected and difficult to heal. The DC to [[DATABASE/action/Treat Wounds|Treat these Wounds]] using [[DATABASE/skill/Medicine|Medicine]] increases by 5, and magically or alchemically healing these wounds requires a counteract check against your class DC or spell DC, whichever is higher. Succeeding at any of these removes the disease. The effect also ends if the creature is healed to full Hit Points by any means.
 
 ## Traits
 

@@ -82,24 +82,24 @@ wisdom: '+4'
 # Clockwork Gunner
 
 This creature did not include a description.
-**Recall Knowledge - Construct ([[Arcana]], [[Crafting]])**: DC 34
+**Recall Knowledge - Construct ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Crafting|Crafting]])**: DC 34
 **Unspecific Lore**: DC 32
 **Specific Lore**: DC 29
 
 # Clockwork Gunner<span class="item-type">Creature 8</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Clockwork</span><span class="item-trait">Construct</span><span class="item-trait">Mindless</span>
-**Source** [[Pathfinder 179. Cradle of Quartz]]
+**Source** [[DATABASE/source/Pathfinder 179. Cradle of Quartz|Pathfinder #179: Cradle of Quartz]]
 Custom-built clockwork prototype
-**Perception** +16; [[Darkvision]]
-**Skills** [[Athletics]] +16 (+18 to [[Disarm]]; [[Grapple]]; or avoid being Disarmed)
+**Perception** +16; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +16 (+18 to [[DATABASE/action/Disarm|Disarm]]; [[DATABASE/action/Grapple|Grapple]]; or avoid being Disarmed)
 **Str** +4, **Dex** +6, **Con** +2, **Int** -5, **Wis** +4, **Cha** -5
 **Wind-Up** 24 hours, DC 24, standby
-**Items** integrated _+1 [[Striking]] [[Mace Multipistol]]_, integrated [[Dragon Mouth Pistol]]
+**Items** integrated _+1 [[DATABASE/equipment/Striking|striking]] [[DATABASE/weapon/Mace Multipistol|mace multipistol]]_, integrated [[DATABASE/weapon/Dragon Mouth Pistol|dragon-mouth pistol]]
 
 ---
 **AC** 26; **Fort** +14, **Ref** +18, **Will** +16
-**HP** 100; **Immunities** death effects, disease, [[Doomed]], [[Drained]], [[Fatigued]], healing, mental, necromancy, nonlethal attacks, paralyzed, poison, [[Sickened]], [[Unconscious]]; **Resistances** physical 10 (except [[Adamantine Weapon]] or orichalcum); **Weaknesses** electricity 10, [[Orichalcum]] 10
+**HP** 100; **Immunities** death effects, disease, [[DATABASE/condition/Doomed|doomed]], [[DATABASE/condition/Drained|drained]], [[DATABASE/condition/Fatigued|fatigued]], healing, mental, necromancy, nonlethal attacks, paralyzed, poison, [[DATABASE/condition/Sickened|sickened]], [[DATABASE/condition/Unconscious|unconscious]]; **Resistances** physical 10 (except [[DATABASE/equipment/Adamantine Weapon|adamantine]] or orichalcum); **Weaknesses** electricity 10, [[DATABASE/equipment/Orichalcum|orichalcum]] 10
 
 ---
 **Speed** 25 feet

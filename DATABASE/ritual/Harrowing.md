@@ -13,6 +13,7 @@ primary_check: '[[DATABASE/skill/Lore|Fortune-Telling Lore]] (trained) or [[DATA
 range: touch
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: Divination
 secondary_casters: null
 secondary_check: null
@@ -28,10 +29,10 @@ type: Ritual
 # Harrowing<span class="item-type">Ritual 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Divination</span><span class="item-trait">Fortune</span>
-**Source** [[Stolen Fate Player's Guide]]
+**Source** [[DATABASE/source/Stolen Fate Player's Guide|Stolen Fate Player's Guide]]
 **Access** This ritual is available to all players in a Stolen Fate campaign.
 **Cast** 1 hour; **Cost** rare pigments and inks worth a total value of 20 gp × the target's level
-**Primary Check** [[Lore]] (trained) or [[Occultism]] (expert)
+**Primary Check** [[DATABASE/skill/Lore|Fortune-Telling Lore]] (trained) or [[DATABASE/skill/Occultism|Occultism]] (expert)
 **Range** touch; **Target(s)** 1 willing creature
 **Duration** 1 month or until fulfilled
 
@@ -46,14 +47,15 @@ The typical harrow reading does not magically manipulate fate, but when you perf
 
 ## Associated Suit Checks
 
-| Suit            | Associated Check                         |
+| 0 | 1 |
 |:----------------|:-----------------------------------------|
-| 1—Hammers (Str) | Strikes (both melee and ranged)          |
-| 2—Keys (Dex)    | Reflex saving throws                     |
-| 3—Shields (Con) | Fortitude saving throws                  |
-| 4—Books (Int)   | Skill checks                             |
-| 5—Stars (Wis)   | Will saving throws                       |
-| 6—Crowns (Cha)  | All other checks (including flat checks) |
+| Suit | Associated Check |
+| 1—Hammers (Str) | Strikes (both melee and ranged) |
+| 2—Keys (Dex) | Reflex saving throws |
+| 3—Shields (Con) | Fortitude saving throws |
+| 4—Books (Int) | Skill checks |
+| 5—Stars (Wis) | Will saving throws |
+| 6—Crowns (Cha) | All other checks (including flat checks) |
 
 ---
 **Heightened (+1)** The target gains an additional wild card. Attempt a primary skill check for each additional wild card drawn to determine that card's benefits. The _harrowing's_ duration ends as soon as the target spends all of their wild cards.

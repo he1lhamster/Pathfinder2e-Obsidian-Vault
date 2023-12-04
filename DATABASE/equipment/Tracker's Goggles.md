@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Tracker's Goggles<span class="item-type">Item 3+</span>
 
 <span class="item-trait">Divination</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** worn eyepiece; **Bulk** —
 
 ---
@@ -62,11 +63,11 @@ These lenses of forest-green glass are bound in rough leather stitched with crud
 
 ## Tracker's Goggles<span class="item-type">Item 3</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 60 gp
 
 ## Tracker's Goggles (Greater)<span class="item-type">Item 9</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 660 gp
 The goggles grant a +2 bonus. If you fail a check to Track, you can try again after 15 minutes rather than an hour.

@@ -11,6 +11,7 @@ name: Devoted Focus
 prerequisite: devotion spells
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Devoted Focus <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Champion</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Prerequisites** devotion spells
 
 ---

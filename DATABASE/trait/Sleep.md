@@ -2,6 +2,7 @@
 id: '145'
 name: Sleep
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Sleep
@@ -10,21 +11,21 @@ type: Trait
 ---
 # Sleep
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 This effect can cause a creature to fall asleep or get drowsy.
 
 ## Curses
 
-[[Curse of Slumber]]
+[[DATABASE/curse/Curse of Slumber|Curse of Slumber]]
 
 ## Equipment
 
-[[Dreaming Round]], [[Lethargy Poison]], [[Mirror of Sleeping Vigil]], [[Sleep Arrow]], [[Slumber Wine]], [[Stupor Poison]], [[Wand of Tormented Slumber]]
+[[DATABASE/equipment/Dreaming Round|Dreaming Round]], [[DATABASE/equipment/Lethargy Poison|Lethargy Poison]], [[DATABASE/equipment/Mirror of Sleeping Vigil|Mirror of Sleeping Vigil]], [[DATABASE/equipment/Sleep Arrow|Sleep Arrow]], [[DATABASE/equipment/Slumber Wine|Slumber Wine]], [[DATABASE/equipment/Stupor Poison|Stupor Poison]], [[DATABASE/equipment/Wand of Tormented Slumber|Wand of Tormented Slumber]]
 
 ## Focus Spells
 
-[[Sweet Dream]]
+[[DATABASE/spell/Sweet Dream|Sweet Dream]]
 
 ## Spells
 
-[[Dream Council]], [[Sleep]]
+[[DATABASE/spell/Dream Council|Dream Council]], [[DATABASE/spell/Sleep|Sleep]]

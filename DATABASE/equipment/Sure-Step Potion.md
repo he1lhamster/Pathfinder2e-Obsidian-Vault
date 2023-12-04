@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -55,10 +56,10 @@ weapon_type: null
 # Sure-Step Potion<span class="item-type">Item 4</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Magical</span><span class="item-trait">Potion</span><span class="item-trait">Transmutation</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 17 gp
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
 ---
-The light-brown liquid of a _sure-step potion_ helps you find your footing. After drinking it, you gain a +1 item bonus to [[Acrobatics]] checks to [[Balance]] for 1 hour. In addition, you can Step into difficult terrain, and you aren't flat-footed on uneven ground.
+The light-brown liquid of a _sure-step potion_ helps you find your footing. After drinking it, you gain a +1 item bonus to [[DATABASE/skill/Acrobatics|Acrobatics]] checks to [[DATABASE/action/Balance|Balance]] for 1 hour. In addition, you can Step into difficult terrain, and you aren't flat-footed on uneven ground.

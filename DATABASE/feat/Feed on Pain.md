@@ -11,6 +11,7 @@ name: Feed on Pain
 prerequisite: '[[DATABASE/feat/Adhyabhau|Adhyabhau]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Feed on Pain <span class="action-icon">5</span> <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Dhampir</span>
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 **Frequency** once per hour
-**Prerequisites** [[Adhyabhau]]
+**Prerequisites** [[DATABASE/feat/Adhyabhau|Adhyabhau]]
 **Trigger** you deal mental damage
 
 ---
@@ -35,4 +36,4 @@ The psychic feedback of another creature's pain fills you with false life. You g
 
 **Dhampir:**
 
-A creature with this trait has the dhampir versatile heritage. These humanoids are the mortal offspring of [[Vampire]] and members of other ancestries.
+A creature with this trait has the dhampir versatile heritage. These humanoids are the mortal offspring of [[DATABASE/monsterfamily/Vampire|vampires]] and members of other ancestries.

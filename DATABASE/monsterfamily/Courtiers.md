@@ -3,6 +3,7 @@ creature_family: Courtiers
 id: '181'
 name: Courtiers
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Courtiers
 
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 Though adventurers travel through perilous dungeons and across treacherous wilderness, sometimes the most dangerous place they can end up is in a noble court.
 
 ### Members
 
-[[Advisor]] (Creature 5), [[Noble]] (Creature 3), [[Palace Guard]] (Creature 4), [[Spy]] (Creature 6)
+[[DATABASE/npc/Advisor|Advisor]] (Creature 5), [[DATABASE/npc/Noble|Noble]] (Creature 3), [[DATABASE/npc/Palace Guard|Palace Guard]] (Creature 4), [[DATABASE/npc/Spy|Spy]] (Creature 6)
 
 ###  Intriguing Plots
 

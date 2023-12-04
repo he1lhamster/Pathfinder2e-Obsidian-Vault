@@ -71,24 +71,24 @@ wisdom: '+2'
 # Nagaji Soldier
 
 Nagaji are brawny bipeds with humanoid figures and serpentine heads. Their bodies are covered in tightly layered scales that range in color from green to brown, and almost all nagaji have a colorful ridge along their head and back. Ophidian eyes lend nagaji an imperious visage, with irises that span every color of the rainbow
-**Recall Knowledge - Humanoid ([[Society]])**: DC 16
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
 # Nagaji Soldier<span class="item-type">Creature 2</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Humanoid</span><span class="item-trait">Nagaji</span>
-**Source** [[Bestiary 3]]
-**Perception** +8; [[Low-Light Vision]]
-**Languages** [[Common]], [[Draconic]]
-**Skills** [[Athletics]] +8, [[Intimidation]] +5, [[Nature]] +6 (+8 to [[Command an Animal]] that is a reptile)
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
+**Perception** +8; [[DATABASE/monsterability/Low-Light Vision|low-light vision]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Draconic|Draconic]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +8, [[DATABASE/skill/Intimidation|Intimidation]] +5, [[DATABASE/skill/Nature|Nature]] +6 (+8 to [[DATABASE/action/Command an Animal|Command an Animal]] that is a reptile)
 **Str** +4, **Dex** +1, **Con** +3, **Int** -1, **Wis** +2, **Cha** +1
-**Items** [[Leather Armor]], [[Longbow]], [[Ranseur]]
+**Items** [[DATABASE/armor/Leather Armor|leather armor]], [[DATABASE/weapon/Longbow|longbow (with 20 arrows)]], [[DATABASE/weapon/Ranseur|ranseur]]
 
 ---
 **AC** 18; **Fort** +9, **Ref** +7, **Will** +6
 **HP** 28; **Resistances** poison 2
-<span class="in-box-ability">**[[Attack of Opportunity]] <span class="action-icon">5</span> ** </span>
+<span class="in-box-ability">**[[DATABASE/monsterability/Attack of Opportunity|Attack of Opportunity]] <span class="action-icon">5</span> ** </span>
 
 ---
 **Speed** 25 feet

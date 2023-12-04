@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -56,7 +57,7 @@ weapon_type: null
 # Juggernaut Mutagen<span class="item-type">Item 1+</span>
 
 <span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Elixir</span><span class="item-trait">Mutagen</span><span class="item-trait">Polymorph</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
@@ -67,24 +68,24 @@ After you drink this mutagen, your body becomes thick and sturdy. You exhibit a 
 
 ## Juggernaut Mutagen (Lesser)<span class="item-type">Item 1</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 4 gp
 The bonus is +1, you gain 5 temporary Hit Points, and the duration is 1 minute.
 
 ## Juggernaut Mutagen (Moderate)<span class="item-type">Item 3</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 12 gp
 The bonus is +2, you gain 10 temporary Hit Points, and the duration is 10 minutes.
 
 ## Juggernaut Mutagen (Greater)<span class="item-type">Item 11</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 300 gp
 The bonus is +3, you gain 30 temporary Hit Points, and the duration is 1 hour. When you roll a success on a Fortitude save, you get a critical success instead.
 
 ## Juggernaut Mutagen (Major)<span class="item-type">Item 17</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 3,000 gp
 The bonus is +4, you gain 45 temporary Hit Points, and the duration is 1 hour. When you roll a success on a Fortitude save, you get a critical success instead, and your critical failures on Fortitude saves become failures instead.

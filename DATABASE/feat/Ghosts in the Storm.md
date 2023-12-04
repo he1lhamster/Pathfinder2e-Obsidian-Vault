@@ -11,6 +11,7 @@ name: Ghosts in the Storm
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -28,11 +29,11 @@ type: Feat
 # Ghosts in the Storm <span class="action-icon">1</span> <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Air</span><span class="item-trait">Electricity</span><span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Primal</span><span class="item-trait">Stance</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 PFS Note
 
 ---
-Clouds, like eager pets, are drawn to you and to those in your good graces. Fast-moving gray clouds surround you, as well as your allies while they're in your kinetic aura. Anyone surrounded by these clouds gains a +2 status bonus to Reflex saves and [[Acrobatics]] checks. When an affected creature uses a move action, clouds dance around it. Until the start of its next turn, it's [[Concealed]], and its Strikes gain the [[Shock]] rune.
+Clouds, like eager pets, are drawn to you and to those in your good graces. Fast-moving gray clouds surround you, as well as your allies while they're in your kinetic aura. Anyone surrounded by these clouds gains a +2 status bonus to Reflex saves and [[DATABASE/skill/Acrobatics|Acrobatics]] checks. When an affected creature uses a move action, clouds dance around it. Until the start of its next turn, it's [[DATABASE/condition/Concealed|concealed]], and its Strikes gain the [[DATABASE/equipment/Shock|shock]] rune.
 
 ## Traits
 

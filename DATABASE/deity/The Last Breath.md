@@ -28,6 +28,7 @@ follower_alignment:
 id: '270'
 name: The Last Breath
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Intimidation|Intimidation]]'
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
@@ -37,7 +38,7 @@ type: Deity
 ---
 # The Last Breath [CN]
 
-**Source** [[Firebrands]]
+**Source** [[DATABASE/source/Firebrands|Firebrands]]
 When all seems lost and no good reason for hope endures, some still resolve to fight their oppressors with every last ounce of strength. If they can't triumph, at least they'll make their foes pay dearly for victory. Whether inspired by Arazni's unyielding spirit, Milani's selflessness, or Calistria's thirst for vengeance, those who worship the Last Breath will never yield to tyrants, bullies, or abusers. Deeply self-reliant, these faithful rarely trouble the goddesses with lengthy prayers, merely asking for the strength to honor their convictions and the resolve to hold out despite all odds.
  While Firebrands are often dismissed as whimsical and flighty braggadocios, members of the organization have been involved in the Inner Sea's most serious political upheavals. The struggles that gave birth to the Firebrands—namely, Vidrian and Ravounel's fights for independence—began with small, brave bands fighting against the impossible might of infernal Cheliax.
  Firebrands still join with the remnants of the Knights of Lastwall to fight the Whispering Tyrant. When setting out to spit in the eye of the forces of Hell or to challenge dire powers beyond death, there's little hope of victory—but what could be greater than standing with the oppressed, facing down evil with dignity?
@@ -46,14 +47,14 @@ When all seems lost and no good reason for hope endures, some still resolve to f
 **Anathema** give in to despair, surrender
 **Areas of Concern** defiance, perseverance, and triumph over impossible odds
 **Follower Alignments** CG, CN
-**Pantheon Members** [[Arazni]], [[Calistria]], [[Milani]]
+**Pantheon Members** [[DATABASE/deity/Arazni|Arazni]], [[DATABASE/deity/Calistria|Calistria]], [[DATABASE/deity/Milani|Milani]]
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Constitution or Wisdom
-**Divine Font** _[[Harm]]_ or _[[Heal]]_
-**Divine Skill** [[Intimidation]]
-**Favored Weapon** [[Dagger]]
-**Domains** [[Freedom Domain]], [[Pain Domain]], [[Protection Domain]], [[Zeal Domain]]
-**Alternate Domains** [[Change Domain]], [[Destruction Domain]], [[Duty Domain]]
-**Cleric Spells** 1st: _[[Endure]]_, 4th: _[[Resilient Sphere]]_, 7th: _[[Prismatic Sphere]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Constitution or Wisdom
+**Divine Font** _[[DATABASE/spell/Harm|harm]]_ or _[[DATABASE/spell/Heal|heal]]_
+**Divine Skill** [[DATABASE/skill/Intimidation|Intimidation]]
+**Favored Weapon** [[DATABASE/weapon/Dagger|dagger]]
+**Domains** [[DATABASE/domain/Freedom Domain|freedom]], [[DATABASE/domain/Pain Domain|pain]], [[DATABASE/domain/Protection Domain|protection]], [[DATABASE/domain/Zeal Domain|zeal]]
+**Alternate Domains** [[DATABASE/domain/Change Domain|change]], [[DATABASE/domain/Destruction Domain|destruction]], [[DATABASE/domain/Duty Domain|duty]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Endure|endure]]_, 4th: _[[DATABASE/spell/Resilient Sphere|resilient sphere]]_, 7th: _[[DATABASE/spell/Prismatic Sphere|prismatic sphere]]_

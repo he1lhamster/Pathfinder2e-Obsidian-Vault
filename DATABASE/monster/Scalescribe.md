@@ -81,19 +81,19 @@ wisdom: '+4'
 # Scalescribe
 
 Often seen at the sides of spellcasters, scalescribes are tiny, snakelike creatures with numerous hands that usually hold a multitude of fountain pens in various ink colors. The words scrawled across their bodies shift depending on what texts they've encountered recently. Scalescribes have a fondness for language, especially magical language, and make their homes in libraries or other places of learning.
-**Recall Knowledge - Aberration ([[Occultism]])**: DC 18
+**Recall Knowledge - Aberration ([[DATABASE/skill/Occultism|Occultism]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Scalescribe<span class="item-type">Creature 3</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Tiny</span><span class="item-trait">Aberration</span>
-**Source** [[Bestiary 3]]
-**Perception** +11; [[Darkvision]]
-**Languages** [[Aklo]], [[Common]], [[Draconic]]
-**Skills** [[Arcana]] +11, [[Lore]] +11, [[Occultism]] +9, [[Lore]] +11, [[Stealth]] +8
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
+**Perception** +11; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Aklo|Aklo]], [[DATABASE/language/Common|Common]], [[DATABASE/language/Draconic|Draconic]]
+**Skills** [[DATABASE/skill/Arcana|Arcana]] +11, [[DATABASE/skill/Lore|Library Lore]] +11, [[DATABASE/skill/Occultism|Occultism]] +9, [[DATABASE/skill/Lore|Scribing Lore]] +11, [[DATABASE/skill/Stealth|Stealth]] +8
 **Str** -2, **Dex** +3, **Con** +1, **Int** +4, **Wis** +4, **Cha** +0
-**Mage Bond** After performing a 1-hour ritual, a scalescribe can bond with one willing creature capable of Casting Spells. The scalescribe can [[Aid]] their bonded caster in [[Crafting]] a scroll, and they can make their Transcribed spell available to the caster so long as the spell is of the caster's tradition. A bonded prepared caster can prepare the spell. A bonded spontaneous caster can add the spell to their spell repertoire during their daily preparations, and it remains as long as the Transcribed scroll exists.
+**Mage Bond** After performing a 1-hour ritual, a scalescribe can bond with one willing creature capable of Casting Spells. The scalescribe can [[DATABASE/action/Aid|Aid]] their bonded caster in [[DATABASE/skill/Crafting|Crafting]] a scroll, and they can make their Transcribed spell available to the caster so long as the spell is of the caster's tradition. A bonded prepared caster can prepare the spell. A bonded spontaneous caster can add the spell to their spell repertoire during their daily preparations, and it remains as long as the Transcribed scroll exists.
 
 ---
 **AC** 18; **Fort** +6, **Ref** +10, **Will** +11; +2 status to all saves vs. linguistic effects
@@ -102,9 +102,9 @@ Often seen at the sides of spellcasters, scalescribes are tiny, snakelike creatu
 
 ---
 **Speed** 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fountain pen +10 [+6/+2] (agile, finesse, magical), **Damage** 1d6+2 piercing plus inkstain</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> morpheme glyph +10 [+5/+0] (evocation, magical, range 40 feet), **Damage** 3d6 force</span>**Arcane Innate Spells** DC 20; **3rd** _[[Secret Page]]_; **2nd** _[[Comprehend Language]]_ (×3; self only), _[[Dispel Magic]]_; **Cantrips** **(2nd)** _[[Detect Magic]]_, _[[Message]]_, _[[Read Aura]]_, _[[Sigil]]_
-<span class="in-box-ability">**Inkstain** When the scalescribe deals damage to a creature with their fountain pen, the creature takes 1d4 [[Persistent Damage]]. When a creature taking this damage attempts to take an action with the concentrate trait, it must succeed at a DC 5 flat check or the action is disrupted.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fountain pen +10 [+6/+2] (agile, finesse, magical), **Damage** 1d6+2 piercing plus inkstain</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> morpheme glyph +10 [+5/+0] (evocation, magical, range 40 feet), **Damage** 3d6 force</span>**Arcane Innate Spells** DC 20; **3rd** _[[DATABASE/spell/Secret Page|secret page]]_; **2nd** _[[DATABASE/spell/Comprehend Language|comprehend language]]_ (×3; self only), _[[DATABASE/spell/Dispel Magic|dispel magic]]_; **Cantrips** **(2nd)** _[[DATABASE/spell/Detect Magic|detect magic]]_, _[[DATABASE/spell/Message|message]]_, _[[DATABASE/spell/Read Aura|read aura]]_, _[[DATABASE/spell/Sigil|sigil]]_
+<span class="in-box-ability">**Inkstain** When the scalescribe deals damage to a creature with their fountain pen, the creature takes 1d4 [[DATABASE/condition/Persistent Damage|persistent poison damage]]. When a creature taking this damage attempts to take an action with the concentrate trait, it must succeed at a DC 5 flat check or the action is disrupted.</span>
 
 ###  Scalescribe Assistants
 
-Due to their scribing capabilities, scalescribes are highly sought after as assistants for [[Wizard]] and other scholarly spellcasters. Though rarely deigning to become true familiars, scalescribes keenly work with those they deem “clever,” as long as their friend helps them discover new words
+Due to their scribing capabilities, scalescribes are highly sought after as assistants for [[DATABASE/class_/Wizard|wizards]] and other scholarly spellcasters. Though rarely deigning to become true familiars, scalescribes keenly work with those they deem “clever,” as long as their friend helps them discover new words

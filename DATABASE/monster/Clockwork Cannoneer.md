@@ -106,26 +106,26 @@ wisdom: '+4'
 Clockwork cannoneers are cannon-armed constructs created to defend the Grand Duchy of Alkenstar. The people of Alkenstar typically find conventional arms sufficient for battling creatures who wander out of the Mana Wastes, but recent increases in activity from the fleshforges of Nex and the necromantic chambers of Geb have spurred the people of the city into a flurry of defensive innovations. Created by an experimental collaboration between the city's gunsmiths and clockwork inventors, the clockwork cannoneer provides exceptional mobile firepower. Two cannon-arms swing at the sides of the 15-foot-tall automaton, and its body contains a hopper of cannonballs that are replenished by engineers when the creature is wound up for duty. Triple-walled reinforcement on the cannoneer's black-powder reservoirs provides ample protection from the accidental explosions and backfires that often troubled early prototypes of the finely engineered machine. The current design combines the long-range capabilities of field artillery with the stopping power of a firedrake against engaged enemies, and its heat-tempered gear assembly minimizes warping that might cause slipping, grinding, or shaking.
  While reports from living artillery members serving alongside clockwork cannoneers complain of blisters, smoke inhalation, and singed eyebrows, the Grand Duchy's chief clockwork machinists have assured the city's leadership that the constructs function well within safety parameters. The clockwork cannoneer's self-sufficient construction frees crews to see to those battlefield tasks that can, for the moment, only be conducted by sentient beings.
  Intelligence reports from Quantium and Absalom indicate that attempts to replicate the clockwork cannoneer's design have been spectacularly unsuccessful.
-**Recall Knowledge - Construct ([[Arcana]], [[Crafting]])**: DC 39
+**Recall Knowledge - Construct ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Crafting|Crafting]])**: DC 39
 **Unspecific Lore**: DC 37
 **Specific Lore**: DC 34
 
 # Clockwork Cannoneer<span class="item-type">Creature 15</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Huge</span><span class="item-trait">Clockwork</span><span class="item-trait">Construct</span><span class="item-trait">Mindless</span>
-**Source** [[Impossible Lands]]
-**Perception** +25; [[Darkvision]]
-**Skills** [[Athletics]] +30
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
+**Perception** +25; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +30
 **Str** +7, **Dex** +8, **Con** +6, **Int** -5, **Wis** +4, **Cha** -5
 **Wind-Up** 24 hours, DC 33, standby
 
 ---
 **AC** 38; **Fort** +27, **Ref** +29, **Will** +23
-**HP** 250; **Immunities** death effects, disease, [[Doomed]], [[Drained]], [[Fatigued]], healing, mental, necromancy, nonlethal attacks, [[Paralyzed]], poison, [[Sickened]], [[Unconscious]]; **Resistances** physical 10 (except [[Adamantine Weapon]] or orichalcum); **Weaknesses** electricity 15, [[Orichalcum Weapon]] 15
+**HP** 250; **Immunities** death effects, disease, [[DATABASE/condition/Doomed|doomed]], [[DATABASE/condition/Drained|drained]], [[DATABASE/condition/Fatigued|fatigued]], healing, mental, necromancy, nonlethal attacks, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Sickened|sickened]], [[DATABASE/condition/Unconscious|unconscious]]; **Resistances** physical 10 (except [[DATABASE/equipment/Adamantine Weapon|adamantine]] or orichalcum); **Weaknesses** electricity 15, [[DATABASE/equipment/Orichalcum Weapon|orichalcum]] 15
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> bore +28 [+23/+18] (backswing, shove), **Damage** 3d12+12 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> cannonball +29 [+24/+19] (range increment 100 feet), **Damage** 6d12 bludgeoning</span><span class="in-box-ability">**Bombard** <span class="action-icon">2</span> (fire) The clockwork cannoneer launches an explosive shot up to a range of 200 feet that explodes in a 20-foot burst. Creatures within the burst take 5d10 bludgeoning damage (DC 36 basic Reflex save).</span><span class="in-box-ability">**Muzzleburn** The heat from a discharged cannon sears those who touch its metal shell. The clockwork cannoneer's bore Strike deal an additional 2d6 fire damage until the end of its next turn after it makes a cannonball Strike or uses its Bombard or Powder Blast abilities.</span><span class="in-box-ability">**Powder Blast** <span class="action-icon">2</span> (fire) The clockwork cannoneer spews flames from one of its cannons, dealing 8d6 fire damage in a 30-foot cone (DC 36 basic Reflex save). Those that fail the save also take 2d6 [[Persistent Damage]].</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> bore +28 [+23/+18] (backswing, shove), **Damage** 3d12+12 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> cannonball +29 [+24/+19] (range increment 100 feet), **Damage** 6d12 bludgeoning</span><span class="in-box-ability">**Bombard** <span class="action-icon">2</span> (fire) The clockwork cannoneer launches an explosive shot up to a range of 200 feet that explodes in a 20-foot burst. Creatures within the burst take 5d10 bludgeoning damage (DC 36 basic Reflex save).</span><span class="in-box-ability">**Muzzleburn** The heat from a discharged cannon sears those who touch its metal shell. The clockwork cannoneer's bore Strike deal an additional 2d6 fire damage until the end of its next turn after it makes a cannonball Strike or uses its Bombard or Powder Blast abilities.</span><span class="in-box-ability">**Powder Blast** <span class="action-icon">2</span> (fire) The clockwork cannoneer spews flames from one of its cannons, dealing 8d6 fire damage in a 30-foot cone (DC 36 basic Reflex save). Those that fail the save also take 2d6 [[DATABASE/condition/Persistent Damage|persistent fire damage]].</span>
 
 ###  Safety and Innovation
 

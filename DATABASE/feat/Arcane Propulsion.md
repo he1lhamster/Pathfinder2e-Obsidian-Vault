@@ -11,6 +11,7 @@ name: Arcane Propulsion
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -25,7 +26,7 @@ type: Feat
 # Arcane Propulsion <span class="action-icon">2</span> <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Arcane</span><span class="item-trait">Automaton</span><span class="item-trait">Transmutation</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Frequency** once per day
 
 ---

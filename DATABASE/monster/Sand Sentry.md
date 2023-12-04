@@ -76,27 +76,27 @@ wisdom: '+2'
 # Sand Sentry
 
 Shifting back and forth between a detailed likeness of a human and a muted and featureless bipedal form, this creature of pure sand moves with an eerie grace. The sand sentry is often called upon by spellcasters to stand guard over an area of great importance—these elementals are patient participants in such roles, making them well suited for long-term service.
-**Recall Knowledge - Elemental ([[Arcana]], [[Nature]])**: DC 22
+**Recall Knowledge - Elemental ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 22
 **Unspecific Lore**: DC 20
 **Specific Lore**: DC 17
 
 # Sand Sentry<span class="item-type">Creature 6</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Earth</span><span class="item-trait">Elemental</span>
-**Source** [[Bestiary 2]] 
-**Perception** +14; [[Darkvision]], [[Tremorsense]]
-**Languages** [[Terran]]
-**Skills** [[Acrobatics]] +14, [[Stealth]] +14 (+17 in sand)
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +14; [[DATABASE/monsterability/Darkvision|darkvision]], [[DATABASE/monsterability/Tremorsense|tremorsense (imprecise) 60 feet]]
+**Languages** [[DATABASE/language/Terran|Terran]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +14, [[DATABASE/skill/Stealth|Stealth]] +14 (+17 in sand)
 **Str** +5, **Dex** +2, **Con** +4, **Int** +0, **Wis** +2, **Cha** +1
 
 ---
 **AC** 24; **Fort** +16, **Ref** +12, **Will** +14
-**HP** 94; **Immunities** bleed, [[Paralyzed]], poison, sleep
+**HP** 94; **Immunities** bleed, [[DATABASE/condition/Paralyzed|paralyzed]], poison, sleep
 <span class="in-box-ability">**Glass Armor** When the sand sentry takes fire or lightning damage, its outer layer of sand fuses into sheets of hardened glass for 1 minute. This increases the sand sentry's AC to 26 and grants it resistance 5 to acid, cold, electricity, fire, force, piercing, and slashing damage. A sand sentry can't use earth glide while glass armor is active.</span>
 
 ---
 **Speed** 25 feet, burrow 50 feet; earth glide
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +17 [+12/+7], **Damage** 2d8+8 bludgeoning plus blinding sand</span><span class="in-box-ability">**Blinding Sand** When the sand sentry critically hits with a fist Strike, the target is blinded for 1 round.</span><span class="in-box-ability">**Earth Glide** A sand sentry can [[Burrow]] through earthen matter, including rock. When it does so, it moves at its full burrow Speed, leaving no tunnels or signs of its passing.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +17 [+12/+7], **Damage** 2d8+8 bludgeoning plus blinding sand</span><span class="in-box-ability">**Blinding Sand** When the sand sentry critically hits with a fist Strike, the target is blinded for 1 round.</span><span class="in-box-ability">**Earth Glide** A sand sentry can [[DATABASE/action/Burrow|Burrow]] through earthen matter, including rock. When it does so, it moves at its full burrow Speed, leaving no tunnels or signs of its passing.</span>
 
 ###  Sand Mimics
 

@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Hauling<span class="item-type">Item 6+</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Evocation</span><span class="item-trait">Magical</span>
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Usage** etched onto a weapon; **Bulk** —
 
 ---
@@ -63,11 +64,11 @@ _Hauling_ weapons are adept at moving creatures around the battlefield after a s
 
 ## Hauling<span class="item-type">Item 6</span>
 
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 225 gp
 
 ## Hauling (Greater)<span class="item-type">Item 11</span>
 
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 1,300 gp
 The DC is 28, and the target is moved up to 10 feet.

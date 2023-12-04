@@ -13,6 +13,7 @@ name: Shuriken
 price: 1 cp
 range: 20 ft.
 rarity: Uncommon
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Agile|Agile]]'
@@ -28,11 +29,11 @@ weapon_type: Ranged
 # Shuriken
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Agile</span><span class="item-trait">Monk</span><span class="item-trait">Thrown</span>
-**Source** [[Core Rulebook]] 
-**Favored Weapon** [[Yaezhing]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Favored Weapon** [[DATABASE/deity/Yaezhing|Yaezhing]]
 **Price** 1 cp; **Damage** 1d4 P; **Bulk** —
 **Hands** 1; **Range** 20 ft.; **Reload** 0
-**Type** Ranged; **Category** Martial; **Group** [[Dart]]
+**Type** Ranged; **Category** Martial; **Group** [[DATABASE/weapongroup/Dart|Dart]]
 
 ---
 This “throwing star” is a small piece of flat metal with sharp edges, designed to be flung with a flick of the wrist.
@@ -45,7 +46,7 @@ The multiple attack penalty you take with this weapon on the second attack on yo
 
 **Monk:**
 
-Abilities with this trait are from the [[Monk]] class. A weapon with this trait is primarily used by monks.
+Abilities with this trait are from the [[DATABASE/class_/Monk|monk]] class. A weapon with this trait is primarily used by monks.
 
 **Thrown:**
 
@@ -53,10 +54,10 @@ You can throw this weapon as a ranged attack, and it is a ranged weapon when thr
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.
 
 ## Critical Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
-**Dart**: The target takes 1d6 [[Persistent Damage]]. You gain an item bonus to this bleed damage equal to the weapon's item bonus to attack rolls.
+**Dart**: The target takes 1d6 [[DATABASE/condition/Persistent Damage|persistent bleed damage]]. You gain an item bonus to this bleed damage equal to the weapon's item bonus to attack rolls.

@@ -11,6 +11,7 @@ name: Archaeologist's Luck
 prerequisite: '[[DATABASE/feat/Archaeologist Dedication|Archaeologist Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -26,11 +27,11 @@ type: Feat
 # Archaeologist's Luck <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Fortune</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Archaeologist]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Archaeologist|Archaeologist]]
 **Frequency** once per hour
-**Prerequisites** [[Archaeologist Dedication]]
-**Trigger** You fail a check against a trap, such as a [[Thievery]] check to [[Disable a Device]] the trap or a Reflex save to avoid its effects.
+**Prerequisites** [[DATABASE/feat/Archaeologist Dedication|Archaeologist Dedication]]
+**Trigger** You fail a check against a trap, such as a [[DATABASE/skill/Thievery|Thievery]] check to [[DATABASE/action/Disable a Device|Disable]] the trap or a Reflex save to avoid its effects.
 
 ---
 You are more than just skillful; your drive to find the secrets of the past manifests as a strange kind of luck. Reroll the failed check and use the new result.

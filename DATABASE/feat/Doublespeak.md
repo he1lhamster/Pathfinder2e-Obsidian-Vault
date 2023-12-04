@@ -11,6 +11,7 @@ name: Doublespeak
 prerequisite: Master in [[DATABASE/skill/Deception|Deception]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: deception
@@ -24,11 +25,11 @@ type: Feat
 # Doublespeak <span class="item-type">Feat 7</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** master in [[Deception]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** master in [[DATABASE/skill/Deception|Deception]]
 
 ---
-You are skilled at saying one thing while meaning something different. You disguise your true meaning behind other words and phrases, relying on subtle emphasis and shared experience to convey meaning that only your allies understand. Any allies who have traveled alongside you for at least 1 full week automatically discern your meaning. Other observers must succeed at a Perception check against your [[Deception]] DC to realize you are passing a secret message, and they must critically succeed to understand the message itself.
+You are skilled at saying one thing while meaning something different. You disguise your true meaning behind other words and phrases, relying on subtle emphasis and shared experience to convey meaning that only your allies understand. Any allies who have traveled alongside you for at least 1 full week automatically discern your meaning. Other observers must succeed at a Perception check against your [[DATABASE/skill/Deception|Deception]] DC to realize you are passing a secret message, and they must critically succeed to understand the message itself.
 
 ## Traits
 

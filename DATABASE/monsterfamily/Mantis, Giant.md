@@ -3,6 +3,7 @@ creature_family: Mantis, Giant
 id: '72'
 name: Mantis, Giant
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Mantis, Giant
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 These monstrously oversized insects are silent predators with lightning-quick forelegs and a bone-breaking bite.
 
 ### Members
 
-[[Deadly Mantis]] (Creature 11), [[Giant Mantis]] (Creature 3)
+[[DATABASE/monster/Deadly Mantis|Deadly Mantis]] (Creature 11), [[DATABASE/monster/Giant Mantis|Giant Mantis]] (Creature 3)
 
 ###  Sacred Insects
 

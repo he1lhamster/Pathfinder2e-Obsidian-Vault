@@ -98,28 +98,28 @@ wisdom: '+5'
 
 The enigmatic and strange radiant wardens were constructed thousands of years ago to protect observatories and scholars against the incursion of alien aggressors from the Dominion of the Black. Over time, their roles as guardians expanded to include watching over any region where the laws of time and space have worn thin, particularly near portals and permanent gates between planets, planes, or dimensions.
  Named for both the radial nature of the concentric rings that make up their bodies as well as the glowing radiance of their attacks, radiant wardens carry on their orders, defending sites from invasion with single-minded purpose.
-**Recall Knowledge - Construct ([[Arcana]], [[Crafting]])**: DC 38
+**Recall Knowledge - Construct ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Crafting|Crafting]])**: DC 38
 **Unspecific Lore**: DC 36
 **Specific Lore**: DC 33
 
 # Radiant Warden<span class="item-type">Creature 17</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Gargantuan</span><span class="item-trait">Construct</span>
-**Source** [[Bestiary 2]] 
-**Perception** +30; [[Darkvision]]
-**Languages** any one ancient language (such as [[Jistkan]])
-**Skills** [[Arcana]] +32, [[Lore]] +36, [[Athletics]] +33, [[Occultism]] +32
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +30; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** any one ancient language (such as [[DATABASE/language/Jistkan|Jistkan]])
+**Skills** [[DATABASE/skill/Arcana|Arcana]] +32, [[DATABASE/skill/Lore|Astronomy Lore]] +36, [[DATABASE/skill/Athletics|Athletics]] +33, [[DATABASE/skill/Occultism|Occultism]] +32
 **Str** +9, **Dex** +6, **Con** +5, **Int** +6, **Wis** +5, **Cha** +0
 
 ---
 **AC** 40; **Fort** +32, **Ref** +29, **Will** +28
-**HP** 300; **Immunities** bleed, death effects, disease, [[Doomed]], [[Drained]], [[Fatigued]], necromancy, nonlethal attacks, [[Paralyzed]], poison, [[Sickened]], [[Unconscious]]; **Resistances** mental 15, physical 15 (except adamantine)
-<span class="in-box-ability">**Gatekeeper Aura** (abjuration, aura, occult) 60 feet. A creature that uses a teleportation ability within the aura's emanation or enters it via a teleportation ability must succeed a DC 38 Will save or become [[Sickened]] and have its destination changed to a point of the radiant warden's choosing within the emanation. On a successful save, the creature arrives as intended but is still sickened 1.</span>
+**HP** 300; **Immunities** bleed, death effects, disease, [[DATABASE/condition/Doomed|doomed]], [[DATABASE/condition/Drained|drained]], [[DATABASE/condition/Fatigued|fatigued]], necromancy, nonlethal attacks, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Sickened|sickened]], [[DATABASE/condition/Unconscious|unconscious]]; **Resistances** mental 15, physical 15 (except adamantine)
+<span class="in-box-ability">**Gatekeeper Aura** (abjuration, aura, occult) 60 feet. A creature that uses a teleportation ability within the aura's emanation or enters it via a teleportation ability must succeed a DC 38 Will save or become [[DATABASE/condition/Sickened|sickened 1]] and have its destination changed to a point of the radiant warden's choosing within the emanation. On a successful save, the creature arrives as intended but is still sickened 1.</span>
 
 ---
 **Speed** 30 feet, fly 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> hammer +32 [+27/+22] (magical, reach 15 feet, shove), **Damage** 3d12+15 bludgeoning plus radiant blow</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> radiant beam +32 [+27/+22] (magical, reach 15 feet), **Damage** 4d10 force</span>**Occult Innate Spells** DC 38; **9th** _[[Teleport]]_; **8th** _[[Collective Transposition]]_ (×3), _[[Scintillating Pattern]]_; **7th** _[[Dimensional Lock]]_, _[[Prismatic Spray]]_; **5th** _[[Dimension Door]]_ (at will)
-<span class="in-box-ability">**Orrery** <span class="action-icon">1</span> (concentrate) Until it acts, the radiant warden appears to be an orrery (or similar large mechanical contraption, such as a telescope). It has an automatic result of 53 on [[Deception]] checks and DCs to convincingly pass as such a machine.</span><span class="in-box-ability">**Radiant Blast** <span class="action-icon">2</span> (evocation, force, occult) The radiant warden releases a 50-foot cone of bright energy that deals 10d12 force damage (DC 38 basic Reflex save). The radiant warden can't use Radiant Blast for 1d4 rounds.</span><span class="in-box-ability">**Radiant Blow** When a creature is hit by the radiant warden's hammer Strike, a flash of radiant energy attempts to anchor the creature in place. The creature must attempt a DC 38 Will save; on a failure, the creature can't use any teleportation effects for 1 minute. On a critical failure, the creature is also permanently [[Blinded]].</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> hammer +32 [+27/+22] (magical, reach 15 feet, shove), **Damage** 3d12+15 bludgeoning plus radiant blow</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> radiant beam +32 [+27/+22] (magical, reach 15 feet), **Damage** 4d10 force</span>**Occult Innate Spells** DC 38; **9th** _[[DATABASE/spell/Teleport|teleport]]_; **8th** _[[DATABASE/spell/Collective Transposition|collective transposition]]_ (×3), _[[DATABASE/spell/Scintillating Pattern|scintillating pattern]]_; **7th** _[[DATABASE/spell/Dimensional Lock|dimensional lock]]_, _[[DATABASE/spell/Prismatic Spray|prismatic spray]]_; **5th** _[[DATABASE/spell/Dimension Door|dimension door]]_ (at will)
+<span class="in-box-ability">**Orrery** <span class="action-icon">1</span> (concentrate) Until it acts, the radiant warden appears to be an orrery (or similar large mechanical contraption, such as a telescope). It has an automatic result of 53 on [[DATABASE/skill/Deception|Deception]] checks and DCs to convincingly pass as such a machine.</span><span class="in-box-ability">**Radiant Blast** <span class="action-icon">2</span> (evocation, force, occult) The radiant warden releases a 50-foot cone of bright energy that deals 10d12 force damage (DC 38 basic Reflex save). The radiant warden can't use Radiant Blast for 1d4 rounds.</span><span class="in-box-ability">**Radiant Blow** When a creature is hit by the radiant warden's hammer Strike, a flash of radiant energy attempts to anchor the creature in place. The creature must attempt a DC 38 Will save; on a failure, the creature can't use any teleportation effects for 1 minute. On a critical failure, the creature is also permanently [[DATABASE/condition/Blinded|blinded]].</span>
 
 ###  Ancient Intellects
 

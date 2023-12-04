@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Illusion
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Persona Mask<span class="item-type">Item 3+</span>
 
 <span class="item-trait">Fortune</span><span class="item-trait">Illusion</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** worn mask; **Bulk** —
 
 ---
@@ -64,12 +65,12 @@ Despite covering the entire face, this alabaster mask does not hinder vision or 
 
 ## Persona Mask<span class="item-type">Item 3</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 50 gp
 
 ## Persona Mask (Greater)<span class="item-type">Item 9</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 650 gp
 The mask grants a +2 bonus and can be activated.
 **Activate** <span class="action-icon">5</span> envision (fortune) **Frequency** once per day; **Trigger** You fail a Performance check that benefits from the mask’s bonus; **Effect** You change the mask’s character and reroll the Performance check, using the second result.

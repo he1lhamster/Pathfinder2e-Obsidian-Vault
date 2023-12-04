@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 size: null
@@ -59,7 +60,7 @@ weapon_type: null
 # Stormbreaker Fulu<span class="item-type">Item 16</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Abjuration</span><span class="item-trait">Consumable</span><span class="item-trait">Fulu</span><span class="item-trait">Magical</span><span class="item-trait">Talisman</span>
-**Source** [[Secrets of Magic]] , [[Pathfinder 167. Ready Fight!]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] , [[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]
 **Price** 1,900 gp
 **Usage** affixed to armor; **Bulk** —
 **Activate** <span class="action-icon">4</span> command **Trigger** You would be forced to move, you would be teleported, or you would take cold, electricity, or sonic damage.

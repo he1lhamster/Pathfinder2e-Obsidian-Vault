@@ -11,6 +11,7 @@ name: Diverting Vortex
 prerequisite: null
 rarity: Common
 requirement: Your most recent action was to cast a non-cantrip spell.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Diverting Vortex <span class="action-icon">1</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Sorcerer</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Requirements** Your most recent action was to cast a non-cantrip spell.
 
 ---

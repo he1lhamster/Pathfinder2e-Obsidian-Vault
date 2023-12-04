@@ -11,6 +11,7 @@ name: Azarketi Weapon Aptitude
 prerequisite: '[[DATABASE/feat/Azarketi Weapon Familiarity|Azarketi Weapon Familiarity]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Absalom, City of Lost Omens|Absalom, City of Lost Omens]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Azarketi Weapon Aptitude <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Azarketi</span>
-**Source** [[Absalom, City of Lost Omens]], [[Azarketi Ancestry Web Supplement]]
-**Prerequisites** [[Azarketi Weapon Familiarity]]
+**Source** [[DATABASE/source/Absalom, City of Lost Omens|Absalom, City of Lost Omens]], [[DATABASE/source/Azarketi Ancestry Web Supplement|Azarketi Ancestry Web Supplement]]
+**Prerequisites** [[DATABASE/feat/Azarketi Weapon Familiarity|Azarketi Weapon Familiarity]]
 
 ---
 You become familiar with using your weapons both in and out of water. Whenever you critically hit using an azarketi weapon or one of the weapons listed in Azarketi Weapon Familiarity, you apply the weapon's critical specialization effect.

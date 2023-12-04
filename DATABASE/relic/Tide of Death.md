@@ -5,6 +5,7 @@ item_category: Relics
 name: Tide of Death
 prerequisite: death gaze gift
 rarity: Common
+rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
@@ -16,7 +17,7 @@ type: Relic Major Gift
 # Tide of Death<span class="item-type">Major Gift</span>
 
 <span class="item-trait">Necromancy</span><span class="item-trait">Negative</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Aspect** death; **Prerequisite** death gaze gift
 
 ---

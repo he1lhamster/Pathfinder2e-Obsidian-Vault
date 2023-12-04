@@ -70,16 +70,16 @@ wisdom: '+2'
 # Hunting Spider
 
 Hunting spiders are the most common type of giant spider, though not the largest.
-**Recall Knowledge - Animal ([[Nature]])**: DC 15
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Hunting Spider<span class="item-type">Creature 1</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +7; darkvision, web sense
-**Skills** [[Acrobatics]] +7, [[Athletics]] +5, [[Stealth]] +7
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +7, [[DATABASE/skill/Athletics|Athletics]] +5, [[DATABASE/skill/Stealth|Stealth]] +7
 **Str** +2, **Dex** +4, **Con** +1, **Int** -5, **Wis** +2, **Cha** -4
 **Web Sense** The hunting spider has imprecise tremorsense to detect the vibrations of creatures touching its web.
 

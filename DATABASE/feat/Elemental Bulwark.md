@@ -11,6 +11,7 @@ name: Elemental Bulwark
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -25,7 +26,7 @@ type: Feat
 # Elemental Bulwark <span class="action-icon">5</span> <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Suli</span>
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 **Trigger** An enemy is about to damage you with cold, electricity, or fire, or with a spell that has the air, earth, fire, or water trait.
 
 ---
@@ -33,10 +34,10 @@ You call upon the corresponding elements of your suli heritage to resist the eff
 
 ## Elemental Bulwark Leads To...
 
-[[Improved Elemental Bulwark]]
+[[DATABASE/feat/Improved Elemental Bulwark|Improved Elemental Bulwark]]
 
 ## Traits
 
 **Suli:**
 
-Sulis are planar scions descended from [[Janni]].
+Sulis are planar scions descended from [[DATABASE/monster/Janni|jann]].

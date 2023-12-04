@@ -11,6 +11,7 @@ name: Instant Opening
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Instant Opening <span class="action-icon">1</span> <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Rogue</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Alkenstar Agent]]*
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Alkenstar Agent|Alkenstar Agent]]*
 * This archetype offers Instant Opening at a different level than displayed here.
 
 ---

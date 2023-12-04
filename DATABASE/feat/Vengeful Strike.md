@@ -11,6 +11,7 @@ name: Vengeful Strike
 prerequisite: '[[DATABASE/feat/Come and Get Me|Come and Get Me]]'
 rarity: Common
 requirement: "You\u2019re under the effect of Come and Get Me."
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -25,8 +26,8 @@ type: Feat
 # Vengeful Strike <span class="action-icon">5</span> <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Barbarian</span><span class="item-trait">Rage</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Come and Get Me]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/feat/Come and Get Me|Come and Get Me]]
 **Trigger** A creature within your reach succeeds or critically succeeds at an attack against you.
 **Requirements** You’re under the effect of Come and Get Me.
 

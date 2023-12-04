@@ -3,6 +3,7 @@ creature_family: Dragon, Imperial
 id: '226'
 name: Dragon, Imperial
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 trait: null
 type: Creature Family
@@ -10,7 +11,7 @@ type: Creature Family
 ---
 # Dragon, Imperial
 
-**Source** [[Bestiary 3]]
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
 Imperial dragons, namesake of the Dragon Empires and guardians of Tian Xia before humanity arrived, embody five strengthening and counteracting forces. Unlike other true dragons, imperial dragons dive deep into human affairs. Some remain secretive, posing as reclusive hermits, while others keep a high profile, openly ruling factions. Tian cultures in turn venerate the dragons, depicting gods in the form of dragons or claiming ancestry from them. Not all are adored, for plenty of these creatures act wickedly.
 
 ## Draconic Cycles
@@ -32,4 +33,4 @@ Imperial dragons are rarely spotted beyond Tian Xia, where some establish territ
 
 ### Members
 
-[[Dragon, Forest]], [[Dragon, Sea]], [[Dragon, Sky]], [[Dragon, Sovereign]], [[Dragon, Underworld]]
+[[DATABASE/monsterfamily/Dragon, Forest|Dragon, Forest]], [[DATABASE/monsterfamily/Dragon, Sea|Dragon, Sea]], [[DATABASE/monsterfamily/Dragon, Sky|Dragon, Sky]], [[DATABASE/monsterfamily/Dragon, Sovereign|Dragon, Sovereign]], [[DATABASE/monsterfamily/Dragon, Underworld|Dragon, Underworld]]

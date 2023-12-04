@@ -11,6 +11,7 @@ name: Thorough Search
 prerequisite: expert in Perception
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,11 +24,11 @@ type: Feat
 # Thorough Search <span class="item-type">Feat 3</span>
 
 <span class="item-trait">General</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Prerequisites** expert in Perception
 
 ---
-You take your time searching to ensure you find everything. When [[Search]], you can take twice as long to search. Normally this means you Search at up to one quarter of your Speed, to a maximum of 150 feet per minute to check everything, or 75 feet per minute to check everything before you walk into it. If you do, you gain a +2 circumstance bonus to your Perception checks to [[Seek]].
+You take your time searching to ensure you find everything. When [[DATABASE/action/Search|Searching]], you can take twice as long to search. Normally this means you Search at up to one quarter of your Speed, to a maximum of 150 feet per minute to check everything, or 75 feet per minute to check everything before you walk into it. If you do, you gain a +2 circumstance bonus to your Perception checks to [[DATABASE/action/Seek|Seek]].
 
 ## Traits
 

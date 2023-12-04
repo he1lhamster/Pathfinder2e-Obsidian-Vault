@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -53,7 +54,7 @@ weapon_type: null
 # Demilich Eye Gem<span class="item-type">Item 15</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Arcane</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Price** 3,000 gp (can't be crafted)
 **Usage** held in 1 hand; **Bulk** —
 

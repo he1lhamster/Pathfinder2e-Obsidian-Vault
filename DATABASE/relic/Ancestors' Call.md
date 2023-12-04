@@ -5,6 +5,7 @@ item_category: Relics
 name: Ancestors' Call
 prerequisite: null
 rarity: Common
+rus_type_level: null
 school: Divination
 source: '[[DATABASE/source/Pathfinder 193. Mantle of Gold|Pathfinder #193: Mantle
   of Gold]]'
@@ -18,7 +19,7 @@ type: Relic Minor Gift
 # Ancestors' Call<span class="item-type">Minor Gift</span>
 
 <span class="item-trait">Divination</span><span class="item-trait">Dwarf</span><span class="item-trait">Mental</span>
-**Source** [[Pathfinder 193. Mantle of Gold]]
+**Source** [[DATABASE/source/Pathfinder 193. Mantle of Gold|Pathfinder #193: Mantle of Gold]]
 **Aspect** mind
 
 ---

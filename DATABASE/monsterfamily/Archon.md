@@ -3,6 +3,7 @@ creature_family: Archon
 id: '9'
 name: Archon
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,13 +11,13 @@ type: Creature Family
 ---
 # Archon
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Archons are guardians of Heaven and enemies of chaos and evil. They openly fight back the spread of fiends but also quietly nurture the seeds of virtue within mortals, teaching the denizens of the Material Plane how to act with honor and integrity, enact just laws, and cast off sin and temptation.
  Archons live in the immense seven-tiered mountain of Heaven. They manifest in the Garden at the mountain’s peak from mortal souls who answer a mysterious voice. There they swear to forever serve the cause of justice and transform into their new archon forms. Intensely orderly in their metamorphosis, new archons begin as lantern archons or other lesser forms, transforming into ever-greater archons as their virtue and achievements grow. Each archon represents a particular virtue, such as hope, charity, justice, or courage, and they gain strength in the presence of mortals who exemplify this virtue. Due to their extremely lawful nature, archons sometimes find themselves at odds with azatas.
 
 ### Members
 
-[[Bastion Archon]] (Creature 20), [[Horned Archon]] (Creature 4), [[Hound Archon]] (Creature 4), [[Lantern Archon]] (Creature 1), [[Legion Archon]] (Creature 7), [[Shield Archon]] (Creature 10), [[Star Archon]] (Creature 19), [[Trumpet Archon]] (Creature 14), [[Archon, Wheel]] (Creature 16)
+[[DATABASE/monster/Bastion Archon|Bastion Archon]] (Creature 20), [[DATABASE/monster/Horned Archon|Horned Archon]] (Creature 4), [[DATABASE/monster/Hound Archon|Hound Archon]] (Creature 4), [[DATABASE/monster/Lantern Archon|Lantern Archon]] (Creature 1), [[DATABASE/monster/Legion Archon|Legion Archon]] (Creature 7), [[DATABASE/monster/Shield Archon|Shield Archon]] (Creature 10), [[DATABASE/monster/Star Archon|Star Archon]] (Creature 19), [[DATABASE/monster/Trumpet Archon|Trumpet Archon]] (Creature 14), [[DATABASE/monster/Archon, Wheel|Wheel Archon]] (Creature 16)
 
 ###  Archon Aesthetics
 
@@ -40,7 +41,7 @@ Always ready to defend others, most archons are never encountered out of their s
 
 ###  Heavenly Mountain
 
-Archons reside in [[Heaven]], a plane that appears as a single massive mountain. Heaven is broken into seven tiers, with most archons occupying the second level and base of army operations, Proelera, or the sixth level, Iudica, the administrative heart of Heaven.
+Archons reside in [[DATABASE/plane/Heaven|Heaven]], a plane that appears as a single massive mountain. Heaven is broken into seven tiers, with most archons occupying the second level and base of army operations, Proelera, or the sixth level, Iudica, the administrative heart of Heaven.
 
 ###  Other Archons
 

@@ -11,6 +11,7 @@ name: Burning Spell
 prerequisite: '[[DATABASE/feat/Elementalist Dedication|Elementalist Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -25,12 +26,12 @@ type: Feat
 # Burning Spell <span class="action-icon">1</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Fire</span><span class="item-trait">Spellshape</span>
-**Source** [[Rage of Elements]]
-**Archetype** [[Elementalist]]
-**Prerequisites** [[Elementalist Dedication]]; fire is in your elemental philosophy
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
+**Archetype** [[DATABASE/archetype/Elementalist|Elementalist]]
+**Prerequisites** [[DATABASE/feat/Elementalist Dedication|Elementalist Dedication]]; fire is in your elemental philosophy
 
 ---
-You enhance your spell with elemental fire, causing it to set the target on fire. If the next action you use is to Cast a non-cantrip Spell that deals damage at a single target, the spell deals additional [[Persistent Damage]] equal to the spell rank, in addition to its other effects. This has no effect if the spell already deals persistent fire damage. The spell gains the fire trait.
+You enhance your spell with elemental fire, causing it to set the target on fire. If the next action you use is to Cast a non-cantrip Spell that deals damage at a single target, the spell deals additional [[DATABASE/condition/Persistent Damage|persistent fire damage]] equal to the spell rank, in addition to its other effects. This has no effect if the spell already deals persistent fire damage. The spell gains the fire trait.
 
 ## Traits
 

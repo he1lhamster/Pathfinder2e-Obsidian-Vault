@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 size: null
@@ -54,12 +55,12 @@ weapon_type: null
 # Reflecting Shield<span class="item-type">Item 18</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Abjuration</span><span class="item-trait">Magical</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 18,000 gp
 **Usage** held in 1 hand; **Bulk** L
-**Base Shield** [[Buckler]]
+**Base Shield** [[DATABASE/shield/Buckler|Buckler]]
 
 ---
-This [[Silver Shield]] [[Buckler]] (Hardness 6, HP 24, BT 12) is polished to a mirrorlike sheen. The shield functions as a [[Spellguard Shield]] that can also reflect spells.
-**Activate** <span class="action-icon">5</span> command **Frequency** once per day; **Trigger** You are targeted by a spell; **Requirements** The _reflecting shield_ is raised; **Effect** You attempt to reflect the spell on its caster, with the effects of a 9th-level [[Spell Turning]] with a counteract modifier of +30.
+This [[DATABASE/equipment/Silver Shield|high-grade silver]] [[DATABASE/shield/Buckler|buckler]] (Hardness 6, HP 24, BT 12) is polished to a mirrorlike sheen. The shield functions as a [[DATABASE/equipment/Spellguard Shield|spellguard shield]] that can also reflect spells.
+**Activate** <span class="action-icon">5</span> command **Frequency** once per day; **Trigger** You are targeted by a spell; **Requirements** The _reflecting shield_ is raised; **Effect** You attempt to reflect the spell on its caster, with the effects of a 9th-level [[DATABASE/spell/Spell Turning|spell turning]] with a counteract modifier of +30.
 **Craft Requirements** Supply one casting of _spell turning_, and the initial raw materials must include at least 2,750 gp of silver.

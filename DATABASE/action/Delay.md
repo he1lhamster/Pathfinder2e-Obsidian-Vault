@@ -7,6 +7,7 @@ id: '77'
 name: Delay
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait: null
@@ -16,7 +17,7 @@ type: Action
 ---
 # Delay <span class="action-icon">4</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Trigger** Your turn begins.
 
 ---

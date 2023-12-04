@@ -91,16 +91,16 @@ wisdom: '+2'
 Blood boars are fearsome swine bred in Cheliax for the singular purpose of hunting down escaped slaves. The species originated from a type of large feral boar native to Nidal’s shadowy Uskwood, and blood boars retain their predecessors’ gray fur, red eyes, and exceptional senses. The intensive breeding process to produce blood boars—augmented by the selective application of magic—grants the creatures an unparalleled awareness of blood, including the ability to precisely detect a bloodied creature’s location and movements, allowing the boars to track their prey from up to a mile away.
  Blood boars’ keepers groom and mark the animals to enhance their already unsettling appearance. While from a distance, a blood boar might be mistaken for an ordinary pig, up close the differences are stark. Blood-red eyes, ashen fur, and unnaturally sharp tusks frame hundreds of pounds of raw muscle, the veins of which can be seen through the boar’s ghastly pale flesh. Chains, manacles, and spikes are typical blood boar accessories, ensuring the boars are as fearsome as possible.
  A blood boar’s ability to track its quarry using only the scent of the target’s blood has been the bane of many thieves, brigands, and the occasional illicit lover, but none have as much cause to fear the beasts as slaves in pursuit of freedom. Even washing off spilled blood does nothing to deter the blood boar’s pursuit if it already has the scent. As a result, many halflings in the Bellflower Network zealously practice disarming and nonlethal combat techniques specifically to avoid accidental bloodshed during an escape.
-**Recall Knowledge - Animal ([[Nature]])**: DC 22
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 22
 **Unspecific Lore**: DC 20
 **Specific Lore**: DC 17
 
 # Blood Boar<span class="item-type">Creature 6</span>
 
 <span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Animal</span>
-**Source** [[Pathfinder 147. Tomorrow Must Burn]]
+**Source** [[DATABASE/source/Pathfinder 147. Tomorrow Must Burn|Pathfinder #147: Tomorrow Must Burn]]
 **Perception** +15; bloodsense 60 feet, low-light vision, scent (imprecise) 30 feet
-**Skills** [[Acrobatics]] +10, [[Athletics]] +15, [[Survival]] +15
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +10, [[DATABASE/skill/Athletics|Athletics]] +15, [[DATABASE/skill/Survival|Survival]] +15
 **Str** +5, **Dex** +2, **Con** +4, **Int** -4, **Wis** +2, **Cha** -2
 **Bloodsense** The blood boar can precisely sense bleeding creatures within 60 feet.
  **Blood Quarry** On smelling a creature’s blood, the blood boar can designate that creature as its quarry. The blood boar can smell its quarry from up to a mile away. A blood boar can have only one quarry at a time.
@@ -112,7 +112,7 @@ Blood boars are fearsome swine bred in Cheliax for the singular purpose of hunti
 
 ---
 **Speed** 40 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +17 [+12/+7], **Damage** 2d8+8 piercing</span><span class="in-box-ability">**Chase Down** <span class="action-icon">1</span> The blood boar Strides toward its quarry, ignoring difficult terrain and gaining a +10-foot circumstance bonus to its Speed during the movement.</span><span class="in-box-ability">**Terrifying Squeal** <span class="action-icon">1</span> (auditory, emotion, fear, mental) The blood boar lets forth a hair-raising squeal. Each creature within 30 feet must succeed at a DC 23 Will save or become [[Frightened]] ([[Frightened]] on a critical failure). If the blood boar uses Terrifying Squeal on the same turn after using Chase Down, the Will save DC is instead 25.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +17 [+12/+7], **Damage** 2d8+8 piercing</span><span class="in-box-ability">**Chase Down** <span class="action-icon">1</span> The blood boar Strides toward its quarry, ignoring difficult terrain and gaining a +10-foot circumstance bonus to its Speed during the movement.</span><span class="in-box-ability">**Terrifying Squeal** <span class="action-icon">1</span> (auditory, emotion, fear, mental) The blood boar lets forth a hair-raising squeal. Each creature within 30 feet must succeed at a DC 23 Will save or become [[DATABASE/condition/Frightened|frightened 1]] ([[DATABASE/condition/Frightened|frightened 2]] on a critical failure). If the blood boar uses Terrifying Squeal on the same turn after using Chase Down, the Will save DC is instead 25.</span>
 
 ###  Blood Boar Handlers
 

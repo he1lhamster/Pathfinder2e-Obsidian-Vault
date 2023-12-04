@@ -2,6 +2,7 @@
 id: '6'
 name: Lesson of Mischief
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 trait: null
 type: Witch Lesson
@@ -9,6 +10,6 @@ type: Witch Lesson
 ---
 # Lesson of Mischief
 
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Lesson Type** Greater
-You gain the _[[Deceiver's Cloak]]_ hex, and your familiar learns _[[Mad Monkeys]]_.
+You gain the _[[DATABASE/spell/Deceiver's Cloak|deceiver's cloak]]_ hex, and your familiar learns _[[DATABASE/spell/Mad Monkeys|mad monkeys]]_.

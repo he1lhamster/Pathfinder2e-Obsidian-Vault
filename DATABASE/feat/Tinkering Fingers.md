@@ -11,6 +11,7 @@ name: Tinkering Fingers
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Tinkering Fingers <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Ratfolk</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
-You're good with your hands and can quickly improvise a fix for broken or damaged equipment. You're trained in [[Crafting]]. If you would automatically become trained in Crafting (from your background or class, for example), you instead become trained in a skill of your choice. You can [[Repair]] an item without using a [[Repair Kit]] without taking the –2 circumstance penalty, improvising tools from whatever you have at hand.
+You're good with your hands and can quickly improvise a fix for broken or damaged equipment. You're trained in [[DATABASE/skill/Crafting|Crafting]]. If you would automatically become trained in Crafting (from your background or class, for example), you instead become trained in a skill of your choice. You can [[DATABASE/action/Repair|Repair]] an item without using a [[DATABASE/equipment/Repair Kit|repair kit]] without taking the –2 circumstance penalty, improvising tools from whatever you have at hand.
 
 ## Traits
 

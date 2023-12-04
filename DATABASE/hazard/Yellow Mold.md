@@ -17,6 +17,7 @@ name: Yellow Mold
 rarity: Common
 reflex: '+13'
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
@@ -30,13 +31,13 @@ will: null
 # Yellow Mold<span class="item-type">Hazard 8</span>
 
 <span class="item-trait">Environmental</span><span class="item-trait">Fungus</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Complexity** Simple
 **Stealth** DC 28 (trained)
 **Description** Poisonous mold spores assault nearby creatures.
 
 ---
-**Disable** [[Survival]] DC 26 (expert) to remove the mold without triggering the spores
+**Disable** [[DATABASE/skill/Survival|Survival]] DC 26 (expert) to remove the mold without triggering the spores
 **AC** 27, **Fort** +17, **Ref** +13
 **HP** 70; **Immunities** critical hits, object immunities, precision damage
 **Spore Explosion** <span class="action-icon">5</span> **Trigger** A creature moves into the mold’s space or damages the mold. The mold can’t use this reaction if it’s in direct sunlight or if the damage was fire damage. **Effect** The triggering creature and all creatures within 10 feet are exposed to yellow mold spores.

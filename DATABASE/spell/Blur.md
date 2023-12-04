@@ -22,6 +22,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -39,12 +40,12 @@ type: Spell
 # Blur<span class="item-type">Spell 2</span>
 
 <span class="item-trait">Illusion</span><span class="item-trait">Visual</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult
-**Deity** [[Black Butterfly]]
+**Deity** [[DATABASE/deity/Black Butterfly|Black Butterfly]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** touch; **Targets** 1 creature
 **Duration** 1 minute
 
 ---
-The target's form appears blurry. It becomes [[Concealed]]. As the nature of this effect still leaves the target's location obvious, the target can't use this concealment to [[Hide]] or [[Sneak]].
+The target's form appears blurry. It becomes [[DATABASE/condition/Concealed|concealed]]. As the nature of this effect still leaves the target's location obvious, the target can't use this concealment to [[DATABASE/action/Hide|Hide]] or [[DATABASE/action/Sneak|Sneak]].

@@ -22,6 +22,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: You are wielding a sword or spear made partly or wholly of metal
+rus_type_level: null
 saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
@@ -38,7 +39,7 @@ type: Focus
 # For Love, For Lightning<span class="item-type">Focus 6</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Electricity</span><span class="item-trait">Evocation</span>
-**Source** [[Knights of Lastwall]]
+**Source** [[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]
 **Cast** <span class="action-icon">3</span> material, somatic, verbal; **Requirements** You are wielding a sword or spear made partly or wholly of metal
 **Duration** sustained for up to 1 minute
 

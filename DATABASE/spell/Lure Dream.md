@@ -21,6 +21,7 @@ patron_theme: null
 range: 30 feet
 rarity: Rare
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Monsters of Myth|Monsters of Myth]]'
@@ -38,11 +39,11 @@ type: Spell
 # Lure Dream<span class="item-type">Spell 6</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Conjuration</span><span class="item-trait">Dream</span>
-**Source** [[Monsters of Myth]]
+**Source** [[DATABASE/source/Monsters of Myth|Monsters of Myth]]
 **Traditions** occult
 **Cast** <span class="action-icon">3</span> somatic, verbal
 **Range** 30 feet
 **Duration** sustained up to 1 minute
 
 ---
-You reach out to the dream realm, beckoning an animate dream to your side. This works like [[Summon Animal]], except you summon an [[Animate Dream]].
+You reach out to the dream realm, beckoning an animate dream to your side. This works like [[DATABASE/spell/Summon Animal|summon animal]], except you summon an [[DATABASE/monster/Animate Dream|animate dream]].

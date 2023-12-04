@@ -11,6 +11,7 @@ name: Bone Investiture
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Bone Investiture <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Lizardfolk</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-You encase yourself in spiritual dinosaur bones to become a Huge dinosaur. You can cast [[Dinosaur Form]] on yourself as a 5th-level primal innate spell once per day.
+You encase yourself in spiritual dinosaur bones to become a Huge dinosaur. You can cast [[DATABASE/spell/Dinosaur Form|dinosaur form]] on yourself as a 5th-level primal innate spell once per day.
 
 ## Traits
 

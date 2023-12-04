@@ -77,19 +77,19 @@ wisdom: '+2'
 # Jinkin
 
 Jinkins are sadistic tinkers who steal and sabotage items and take great pride in their power to curse precious objects. They hold grudges and create convoluted plans for revenge whenever they feel slighted, such as when a creature dares to remove one of their curses. Rarely content to wreak simple mayhem, jinkins also take immense pleasure in torture and murder, though they prefer to lead victims into traps designed to capture or incapacitate rather than kill outright. Deep pits are favorites, since victims who survive the fall face a slow death from starvation and thirst. Jinkins enjoy gathering at the edge of pits to mock, tease, and torment.
-**Recall Knowledge - Fey ([[Nature]])**: DC 15
+**Recall Knowledge - Fey ([[DATABASE/skill/Nature|Nature]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Jinkin<span class="item-type">Creature 1</span>
 
 <span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Tiny</span><span class="item-trait">Fey</span><span class="item-trait">Gremlin</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +7; darkvision
-**Languages** [[Undercommon]]
-**Skills** [[Acrobatics]] +7, [[Crafting]] +5 (+7 traps), [[Deception]] +5, [[Nature]] +5, [[Stealth]] +7, [[Thievery]] +7
+**Languages** [[DATABASE/language/Undercommon|Undercommon]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +7, [[DATABASE/skill/Crafting|Crafting]] +5 (+7 traps), [[DATABASE/skill/Deception|Deception]] +5, [[DATABASE/skill/Nature|Nature]] +5, [[DATABASE/skill/Stealth|Stealth]] +7, [[DATABASE/skill/Thievery|Thievery]] +7
 **Str** -2, **Dex** +4, **Con** +0, **Int** +2, **Wis** +2, **Cha** +2
-**Items** [[Shortsword]]
+**Items** [[DATABASE/weapon/Shortsword|shortsword]]
 
 ---
 **AC** 17; **Fort** +6, **Ref** +10, **Will** +7
@@ -97,5 +97,5 @@ Jinkins are sadistic tinkers who steal and sabotage items and take great pride i
 
 ---
 **Speed** 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> shortsword +9 [+5/+1] (agile, finesse, magical, versatile S), **Damage** 1d6-2 piercing</span>**Primal Innate Spells** DC 17; **Cantrips** **(1st)** _[[Prestidigitation]]_
-<span class="in-box-ability">**[[Sneak Attack]]** The jinkin deals 1d6 extra precision damage to [[Flat-Footed]] creatures.</span><span class="in-box-ability">**Tinker** (curse, primal, transmutation) A group of six jinkins can work together for an hour to imbue an item with a curse at a range of 60 feet. While this process is lengthy, it’s also unobtrusive and can be performed while Hiding. Jinkins prefer to use this ability on magic items. The curse makes the item unreliable (DC 5 flat check or waste any action to Interact with or Activate the item), adds a bizarre requirement to use the item, or imparts some other curse of a similar caliber.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> shortsword +9 [+5/+1] (agile, finesse, magical, versatile S), **Damage** 1d6-2 piercing</span>**Primal Innate Spells** DC 17; **Cantrips** **(1st)** _[[DATABASE/spell/Prestidigitation|prestidigitation]]_
+<span class="in-box-ability">**[[DATABASE/monsterability/Sneak Attack|Sneak Attack]]** The jinkin deals 1d6 extra precision damage to [[DATABASE/condition/Flat-Footed|flat-footed]] creatures.</span><span class="in-box-ability">**Tinker** (curse, primal, transmutation) A group of six jinkins can work together for an hour to imbue an item with a curse at a range of 60 feet. While this process is lengthy, it’s also unobtrusive and can be performed while Hiding. Jinkins prefer to use this ability on magic items. The curse makes the item unreliable (DC 5 flat check or waste any action to Interact with or Activate the item), adds a bizarre requirement to use the item, or imparts some other curse of a similar caliber.</span>

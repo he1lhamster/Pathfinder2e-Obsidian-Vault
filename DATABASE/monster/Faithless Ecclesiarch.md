@@ -93,28 +93,28 @@ wisdom: '+4'
 ---
 # Faithless Ecclesiarch
 
-Faithless ecclesiarchs were powerful religious leaders in life—archpriests, hierarchs, oracles, and divine servitors personally blessed by their deities. They are adept at corrupting the pious and inspiring their fellow herexens, often becoming leaders among their kind. This faithless ecclesiarch once worshipped [[Nethys]], god of magic.
-**Recall Knowledge - Undead ([[Religion]])**: DC 24
+Faithless ecclesiarchs were powerful religious leaders in life—archpriests, hierarchs, oracles, and divine servitors personally blessed by their deities. They are adept at corrupting the pious and inspiring their fellow herexens, often becoming leaders among their kind. This faithless ecclesiarch once worshipped [[DATABASE/deity/Nethys|Nethys]], god of magic.
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 24
 **Unspecific Lore**: DC 22
 **Specific Lore**: DC 19
 
 # Faithless Ecclesiarch<span class="item-type">Creature 6</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Undead</span>
-**Source** [[Book of the Dead]]
-**Perception** +16; [[Darkvision]]
-**Languages** [[Common]], [[Necril]]
-**Skills** [[Athletics]] +11, [[Deception]] +14, [[Intimidation]] +14, [[Lore]] +14, [[Religion]] +14, [[Stealth]] +13
+**Source** [[DATABASE/source/Book of the Dead|Book of the Dead]]
+**Perception** +16; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Necril|Necril]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +11, [[DATABASE/skill/Deception|Deception]] +14, [[DATABASE/skill/Intimidation|Intimidation]] +14, [[DATABASE/skill/Lore|Nethys Lore]] +14, [[DATABASE/skill/Religion|Religion]] +14, [[DATABASE/skill/Stealth|Stealth]] +13
 **Str** +3, **Dex** +3, **Con** +2, **Int** +2, **Wis** +4, **Cha** +4
-**Items** _+1 [[Staff]]_, defiled [[Religious Symbol]] of [[Nethys]]
+**Items** _+1 [[DATABASE/weapon/Staff|staff]]_, defiled [[DATABASE/equipment/Religious Symbol|religious symbol]] of [[DATABASE/deity/Nethys|Nethys]]
 
 ---
 **AC** 21; **Fort** +12, **Ref** +13, **Will** +16
-**HP** 93 ([[Negative Healing]]); **Immunities** death effects, disease, [[Paralyzed]], poison, [[Unconscious]]
-<span class="in-box-ability">**Final Blasphemy** (divine, necromancy, negative) When the herexen is destroyed, it explodes in a wave of negative energy with the effects of a 3rd-level, 3-action [[Harm]] spell (DC 24). The herexen is destroyed, so it doesn't gain any Hit Points from this use of _harm_, and it doesn't need to have any _harm_ spells remaining to use this ability.</span><span class="in-box-ability">**Inspire the Faithless** (aura, divine, necromancy) 30 feet. Other herexens are bolstered by the presence of a faithless ecclesiarch. Whenever a herexen in the aura casts a [[Harm]] spell, that _harm_ spell is heightened by 1 level (to a maximum of 3rd).</span>
+**HP** 93 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects, disease, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Unconscious|unconscious]]
+<span class="in-box-ability">**Final Blasphemy** (divine, necromancy, negative) When the herexen is destroyed, it explodes in a wave of negative energy with the effects of a 3rd-level, 3-action [[DATABASE/spell/Harm|harm]] spell (DC 24). The herexen is destroyed, so it doesn't gain any Hit Points from this use of _harm_, and it doesn't need to have any _harm_ spells remaining to use this ability.</span><span class="in-box-ability">**Inspire the Faithless** (aura, divine, necromancy) 30 feet. Other herexens are bolstered by the presence of a faithless ecclesiarch. Whenever a herexen in the aura casts a [[DATABASE/spell/Harm|harm]] spell, that _harm_ spell is heightened by 1 level (to a maximum of 3rd).</span>
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _staff_ +14 [+9/+4] (magical, two-hand d8), **Damage** 1d4+5 bludgeoning plus heretic's smite</span>**Divine Prepared Spells** DC 24, attack +16; **3rd** _[[Harm]]_ (×5), _[[Levitate]]_, _[[Magic Missile]]_; **2nd** _[[Darkness]]_, _[[Dispel Magic]]_, _[[Resist Energy]]_; **1st** _[[Fear]]_, _[[Magic Missile]]_, _[[Ray of Enfeeblement]]_; **Cantrips** **(3rd)** _[[Chill Touch]]_, _[[Daze]]_, _[[Detect Magic]]_, _[[Read Aura]]_, _[[Shield]]_
-**Cleric Domain Spells** DC 24, 1 Focus Point; **3rd** _[[Cry of Destruction]]_
-<span class="in-box-ability">**Heretic's Smite** (divine, necromancy) While wielding the favored weapon of its former deity (such as a [[Staff]] for an ex-[[Nethys]] herexen), the herexen's Strikes deal an additional 2d6 evil damage against creatures that can cast divine spells. This damages divine spellcasters who follow the herexen's former faith regardless of their alignment.</span><span class="in-box-ability">**Siphon Faith** <span class="action-icon">5</span> (divine, necromancy) **Trigger** A creature fails a saving throw against a spell cast by the faithless ecclesiarch; **Effect** The faithless ecclesiarch siphons the triggering creature's spiritual energy to fuel their own magic. The triggering creature is stupefied 1 for 1 round, and the faithless ecclesiarch regains 1 Focus Point.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _staff_ +14 [+9/+4] (magical, two-hand d8), **Damage** 1d4+5 bludgeoning plus heretic's smite</span>**Divine Prepared Spells** DC 24, attack +16; **3rd** _[[DATABASE/spell/Harm|harm]]_ (×5), _[[DATABASE/spell/Levitate|levitate]]_, _[[DATABASE/spell/Magic Missile|magic missile]]_; **2nd** _[[DATABASE/spell/Darkness|darkness]]_, _[[DATABASE/spell/Dispel Magic|dispel magic]]_, _[[DATABASE/spell/Resist Energy|resist energy]]_; **1st** _[[DATABASE/spell/Fear|fear]]_, _[[DATABASE/spell/Magic Missile|magic missile]]_, _[[DATABASE/spell/Ray of Enfeeblement|ray of enfeeblement]]_; **Cantrips** **(3rd)** _[[DATABASE/spell/Chill Touch|chill touch]]_, _[[DATABASE/spell/Daze|daze]]_, _[[DATABASE/spell/Detect Magic|detect magic]]_, _[[DATABASE/spell/Read Aura|read aura]]_, _[[DATABASE/spell/Shield|shield]]_
+**Cleric Domain Spells** DC 24, 1 Focus Point; **3rd** _[[DATABASE/spell/Cry of Destruction|cry of destruction]]_
+<span class="in-box-ability">**Heretic's Smite** (divine, necromancy) While wielding the favored weapon of its former deity (such as a [[DATABASE/weapon/Staff|staff]] for an ex-[[DATABASE/deity/Nethys|Nethys]] herexen), the herexen's Strikes deal an additional 2d6 evil damage against creatures that can cast divine spells. This damages divine spellcasters who follow the herexen's former faith regardless of their alignment.</span><span class="in-box-ability">**Siphon Faith** <span class="action-icon">5</span> (divine, necromancy) **Trigger** A creature fails a saving throw against a spell cast by the faithless ecclesiarch; **Effect** The faithless ecclesiarch siphons the triggering creature's spiritual energy to fuel their own magic. The triggering creature is stupefied 1 for 1 round, and the faithless ecclesiarch regains 1 Focus Point.</span>

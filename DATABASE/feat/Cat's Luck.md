@@ -11,6 +11,7 @@ name: Cat's Luck
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Cat's Luck <span class="action-icon">4</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Catfolk</span><span class="item-trait">Fortune</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Frequency** once per day
 **Trigger** You fail a Reflex saving throw.
 
@@ -33,13 +34,13 @@ You instinctively twist away from danger. You can reroll the triggering saving t
 
 ## Cat's Luck Leads To...
 
-[[Expanded Luck]], [[Lucky Break]], [[Reliable Luck]], [[Sense for Trouble]], [[Shared Luck (Catfolk)]]
+[[DATABASE/feat/Expanded Luck|Expanded Luck]], [[DATABASE/feat/Lucky Break|Lucky Break]], [[DATABASE/feat/Reliable Luck|Reliable Luck]], [[DATABASE/feat/Sense for Trouble|Sense for Trouble]], [[DATABASE/feat/Shared Luck (Catfolk)|Shared Luck (Catfolk)]]
 
 ## Traits
 
 **Catfolk:**
 
-A creature with this trait is a member of the [[Catfolk]] ancestry. Catfolk are humanoids with feline features. An ability with this trait can be used or selected only by catfolk. An item with this trait is created and used by catfolk.
+A creature with this trait is a member of the [[DATABASE/ancestry/Catfolk|catfolk]] ancestry. Catfolk are humanoids with feline features. An ability with this trait can be used or selected only by catfolk. An item with this trait is created and used by catfolk.
 
 **Fortune:**
 

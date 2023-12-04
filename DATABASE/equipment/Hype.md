@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: DC 25 Fortitude
 school: null
 size: null
@@ -58,11 +59,11 @@ weapon_type: null
 # Hype<span class="item-type">Item 8</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Drug</span><span class="item-trait">Ingested</span><span class="item-trait">Poison</span>
-**Source** [[Legends]]
+**Source** [[DATABASE/source/Legends|Legends]]
 **Price** 100 gp
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
 ---
 A synthetic adrenaline supplement that increases awareness and reaction time.
- **Saving Throw** DC 25 Fortitude; **Maximum Duration** 1 minute; **Stage 1** [[Quickened]] and can use the additional action to Step or Stride (1 round); **Stage 2** [[Stupefied]] (1 round); Stage 3 [[Drained]] and stupefied 2 (1 round)
+ **Saving Throw** DC 25 Fortitude; **Maximum Duration** 1 minute; **Stage 1** [[DATABASE/condition/Quickened|quickened]] and can use the additional action to Step or Stride (1 round); **Stage 2** [[DATABASE/condition/Stupefied|stupefied 2]] (1 round); Stage 3 [[DATABASE/condition/Drained|drained 2]] and stupefied 2 (1 round)

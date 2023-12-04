@@ -11,6 +11,7 @@ name: Blessed Medicine
 prerequisite: '[[DATABASE/feat/Undead Slayer Dedication|Undead Slayer Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 subcategory: null
@@ -27,10 +28,10 @@ type: Feat
 # Blessed Medicine <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Fortune</span><span class="item-trait">Skill</span>
-**Source** [[Book of the Dead]]
-**Archetype** [[Undead Slayer]]
-**Prerequisites** [[Undead Slayer Dedication]]
-**Trigger** You fail a check to [[Treat Disease]] that was inflicted by an undead (such as ghoul fever or mummy rot).
+**Source** [[DATABASE/source/Book of the Dead|Book of the Dead]]
+**Archetype** [[DATABASE/archetype/Undead Slayer|Undead Slayer]]
+**Prerequisites** [[DATABASE/feat/Undead Slayer Dedication|Undead Slayer Dedication]]
+**Trigger** You fail a check to [[DATABASE/action/Treat Disease|Treat a Disease]] that was inflicted by an undead (such as ghoul fever or mummy rot).
 
 ---
 Your experience battling undead has uniquely prepared you to fight the diseases they inflict on the survivors, and you know that leaving these maladies untreated for long will eventually lead to more undead. Reroll the failed check and use the new result.

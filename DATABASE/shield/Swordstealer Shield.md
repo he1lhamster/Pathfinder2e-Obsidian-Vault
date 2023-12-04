@@ -10,6 +10,7 @@ level: '0'
 name: Swordstealer Shield
 price: 6 gp
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 speed_penalty: null
 trait:
@@ -20,7 +21,7 @@ type: Shield
 # Swordstealer Shield
 
 <span class="item-trait">Deflecting Slashing</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 6 gp; **AC Bonus** +2; **Speed Penalty** —
 **Bulk** 1; **Hardness** 4; **HP (BT)** 20 (10)
 

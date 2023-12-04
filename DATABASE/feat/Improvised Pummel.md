@@ -11,6 +11,7 @@ name: Improvised Pummel
 prerequisite: '[[DATABASE/feat/Weapon Improviser Dedication|Weapon Improviser Dedication]]'
 rarity: Common
 requirement: You are wielding an improvised weapon.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Improvised Pummel <span class="action-icon">1</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Weapon Improviser]]
-**Prerequisites** [[Weapon Improviser Dedication]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Weapon Improviser|Weapon Improviser]]
+**Prerequisites** [[DATABASE/feat/Weapon Improviser Dedication|Weapon Improviser Dedication]]
 **Requirements** You are wielding an improvised weapon.
 
 ---
@@ -34,7 +35,7 @@ You make a Strike with your wielded improvised weapon. You gain a +1 item bonus 
 
 ## Improvised Pummel Leads To...
 
-[[Shattering Strike (Weapon Improviser)]]
+[[DATABASE/feat/Shattering Strike (Weapon Improviser)|Shattering Strike (Weapon Improviser)]]
 
 ## Traits
 

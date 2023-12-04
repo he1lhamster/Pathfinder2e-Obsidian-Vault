@@ -78,33 +78,33 @@ wisdom: '+1'
 # Living Grove
 
 A living grove is a singular connected entity, with dozens of genetically identical trunks united within the same root system. At rest, a living grove resembles nothing so much as a small arboretum of birch and aspen trees, though oak and redwood varieties that are significantly larger and tougher exist as well.
-**Recall Knowledge - Elemental ([[Arcana]], [[Nature]])**: DC 20
-**Recall Knowledge - Plant ([[Nature]])**: DC 20
+**Recall Knowledge - Elemental ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 20
+**Recall Knowledge - Plant ([[DATABASE/skill/Nature|Nature]])**: DC 20
 **Unspecific Lore**: DC 18
 **Specific Lore**: DC 15
 
 # Living Grove<span class="item-type">Creature 5</span>
 
 <span class="trait-size item-trait">Large</span><span class="item-trait">Elemental</span><span class="item-trait">Plant</span><span class="item-trait">Wood</span>
-**Source** [[Rage of Elements]]
-**Perception** +15; [[Tremorsense]] 30 feet
-**Languages** [[Arboreal]], [[Muan]]; (understands but can't speak)
-**Skills** [[Nature]] +13, [[Stealth]] +13 (+16 in forests or grasslands), [[Survival]] +12
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
+**Perception** +15; [[DATABASE/monsterability/Tremorsense|tremorsense]] 30 feet
+**Languages** [[DATABASE/language/Arboreal|Arboreal]], [[DATABASE/language/Muan|Muan]]; (understands but can't speak)
+**Skills** [[DATABASE/skill/Nature|Nature]] +13, [[DATABASE/skill/Stealth|Stealth]] +13 (+16 in forests or grasslands), [[DATABASE/skill/Survival|Survival]] +12
 **Str** +4, **Dex** +0, **Con** +5, **Int** +0, **Wis** +1, **Cha** +1
-**Defensive Camouflage** The living grove can [[Hide]] in natural environments even if it doesn't have cover. While Hiding, its root system is safely covered in dirt, granting the grove a +3 status bonus to AC. A critical hit cracks this protective layer of earth to disperse in the wind, ending the effect.
+**Defensive Camouflage** The living grove can [[DATABASE/action/Hide|Hide]] in natural environments even if it doesn't have cover. While Hiding, its root system is safely covered in dirt, granting the grove a +3 status bonus to AC. A critical hit cracks this protective layer of earth to disperse in the wind, ending the effect.
 
 ---
 **AC** 24 (21 without defensive camouflage); **Fort** +12, **Ref** +7, **Will** +15
-**HP** 90; **Immunities** bleed, [[Paralyzed]], poison, sleep; **Weaknesses** [[Axe]] 5, fire 7
+**HP** 90; **Immunities** bleed, [[DATABASE/condition/Paralyzed|paralyzed]], poison, sleep; **Weaknesses** [[DATABASE/weapongroup/Axe|axes]] 5, fire 7
 
 ---
 **Speed** 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> branch +15 [+10/+5], **Damage** 2d8+4 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> nuts +11 [+6/+1] (range increment 20 feet), **Damage** 2d6+4 bludgeoning</span><span class="in-box-ability">**[[Engulf]]** <span class="action-icon">2</span> DC 22, 5d8 bludgeoning, [[Escape]] DC 20, Rupture 10. A creature Engulfed by the living grove must also attempt a basic Fortitude save as it's battered between the thin, tightly packed trunks.
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> branch +15 [+10/+5], **Damage** 2d8+4 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> nuts +11 [+6/+1] (range increment 20 feet), **Damage** 2d6+4 bludgeoning</span><span class="in-box-ability">**[[DATABASE/monsterability/Engulf|Engulf]]** <span class="action-icon">2</span> DC 22, 5d8 bludgeoning, [[DATABASE/action/Escape|Escape]] DC 20, Rupture 10. A creature Engulfed by the living grove must also attempt a basic Fortitude save as it's battered between the thin, tightly packed trunks.
  **Critical Success** The creature is unaffected.
- **Success** The creature is [[Stunned]].
+ **Success** The creature is [[DATABASE/condition/Stunned|stunned 1]].
  **Failure** The creature is stunned 2.
  **Critical Failure** The creature is stunned 4.</span>
 
 ###  Slumbering Giants
 
-Long before mortal civilization, living groves made their way to the [[Material Plane]], buried their roots deep for safety, and fell dormant. A handful of these ancient elementals survive to this day, numbering among the oldest non-immortal entities yet living on the plane. Their long separation from the [[Plane of Wood]] has sent most into a deep hibernation, but an infusion of planar energy or powerful primal magic could potentially wake them up.
+Long before mortal civilization, living groves made their way to the [[DATABASE/plane/Material Plane|Universe]], buried their roots deep for safety, and fell dormant. A handful of these ancient elementals survive to this day, numbering among the oldest non-immortal entities yet living on the plane. Their long separation from the [[DATABASE/plane/Plane of Wood|Plane of Wood]] has sent most into a deep hibernation, but an infusion of planar energy or powerful primal magic could potentially wake them up.

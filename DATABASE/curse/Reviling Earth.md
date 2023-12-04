@@ -4,6 +4,7 @@ id: '24'
 level: '12'
 name: Reviling Earth
 rarity: Common
+rus_type_level: null
 saving_throw: DC 30 Fortitude
 school: Necromancy
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
@@ -19,6 +20,6 @@ usage: null
 # Reviling Earth<span class="item-type">Curse 12</span>
 
 <span class="item-trait">Curse</span><span class="item-trait">Death</span><span class="item-trait">Magical</span><span class="item-trait">Necromancy</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 A reviling earth curse usually appears across a specific geographical region, such as a ruined town, a necromancer’s domain, or a similar area.
-**Saving Throw** DC 30 Fortitude; **Effect** When you enter the area, you become [[Doomed]], or doomed 2 on a critical failure.
+**Saving Throw** DC 30 Fortitude; **Effect** When you enter the area, you become [[DATABASE/condition/Doomed|doomed 1]], or doomed 2 on a critical failure.

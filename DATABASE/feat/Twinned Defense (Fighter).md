@@ -11,6 +11,7 @@ name: Twinned Defense (Fighter)
 prerequisite: '[[DATABASE/feat/Twin Parry|Twin Parry]]'
 rarity: Common
 requirement: You are wielding two melee weapons, one in each hand.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Twinned Defense (Fighter) <span class="action-icon">1</span> <span class="item-type">Feat 16</span>
 
 <span class="item-trait">Fighter</span><span class="item-trait">Stance</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Dual-Weapon Warrior]]*
-**Prerequisites** [[Twin Parry]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Dual-Weapon Warrior|Dual-Weapon Warrior]]*
+**Prerequisites** [[DATABASE/feat/Twin Parry|Twin Parry]]
 **Requirements** You are wielding two melee weapons, one in each hand.
 * This archetype offers Twinned Defense (Fighter) at a different level than displayed here.
 

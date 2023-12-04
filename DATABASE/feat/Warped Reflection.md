@@ -11,6 +11,7 @@ name: Warped Reflection
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -28,11 +29,11 @@ type: Feat
 # Warped Reflection <span class="action-icon">1</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Emotion</span><span class="item-trait">Fear</span><span class="item-trait">Mental</span><span class="item-trait">Reflection</span><span class="item-trait">Visual</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Frequency** once per minute
 
 ---
-Due to your origins, your form is more flexible than most. You shift your appearance to resemble a creature within 30 feet but with an unsettling, horrifying twist. Though this transformation is momentary, witnessing it gives the target deep existential dread. It must succeed at a Will save against the higher of your class DC or spell DC or become [[Frightened]] (frightened 2 on a critical failure) and be stupefied 1 as long as the frightened condition lasts. Once you've used Warped Reflection against a creature, it's temporarily immune for 24 hours.
+Due to your origins, your form is more flexible than most. You shift your appearance to resemble a creature within 30 feet but with an unsettling, horrifying twist. Though this transformation is momentary, witnessing it gives the target deep existential dread. It must succeed at a Will save against the higher of your class DC or spell DC or become [[DATABASE/condition/Frightened|frightened 1]] (frightened 2 on a critical failure) and be stupefied 1 as long as the frightened condition lasts. Once you've used Warped Reflection against a creature, it's temporarily immune for 24 hours.
 
 ## Traits
 
@@ -54,7 +55,7 @@ A mental effect can alter the target's mind. It has no effect on an object or a 
 
 **Reflection:**
 
-A creature with this trait has the [[Reflection]] versatile heritage. Reflections are beings who are copies of living people, whether through cloning, planar duplication, or another mechanism. An ability with this trait can be used or selected only by reflections.
+A creature with this trait has the [[DATABASE/ancestry/Reflection|reflection]] versatile heritage. Reflections are beings who are copies of living people, whether through cloning, planar duplication, or another mechanism. An ability with this trait can be used or selected only by reflections.
 
 **Visual:**
 

@@ -2,6 +2,7 @@
 id: '148'
 name: Crown of the Kobold King
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -16,28 +17,28 @@ type: Source
 
 ## Backgrounds [1]
 
-[[Friendly Darkmoon Kobold]]
+[[DATABASE/background/Friendly Darkmoon Kobold|Friendly Darkmoon Kobold]]
 
 ## Curses [1]
 
-[[Droskar's Gloom]]
+[[DATABASE/curse/Droskar's Gloom|Droskar's Gloom]]
 
 ## Equipment [14]
 
-[[Azarim]], [[Cresset of Grisly Interrogation]], [[Crown of the Kobold King]], [[Drazmorg's Staff of All-Sight]], [[Grasp of Droskar]], [[Heartripper Blade]], [[In the Shadows of Toil]], [[Man-Feller]], [[Necrobinding Serum]], [[Ring of Torag]], [[Shard of the Third Seal]], [[Soul Chain]], [[Soulspeaker]], [[Tallowheart Mass]]
+[[DATABASE/equipment/Azarim|Azarim]], [[DATABASE/equipment/Cresset of Grisly Interrogation|Cresset of Grisly Interrogation]], [[DATABASE/equipment/Crown of the Kobold King|Crown of the Kobold King]], [[DATABASE/equipment/Drazmorg's Staff of All-Sight|Drazmorg's Staff of All-Sight]], [[DATABASE/equipment/Grasp of Droskar|Grasp of Droskar]], [[DATABASE/equipment/Heartripper Blade|Heartripper Blade]], [[DATABASE/equipment/In the Shadows of Toil|In the Shadows of Toil]], [[DATABASE/equipment/Man-Feller|Man-Feller]], [[DATABASE/equipment/Necrobinding Serum|Necrobinding Serum]], [[DATABASE/equipment/Ring of Torag|Ring of Torag]], [[DATABASE/equipment/Shard of the Third Seal|Shard of the Third Seal]], [[DATABASE/equipment/Soul Chain|Soul Chain]], [[DATABASE/equipment/Soulspeaker|Soulspeaker]], [[DATABASE/equipment/Tallowheart Mass|Tallowheart Mass]]
 
 ## Hazards [15]
 
-[[Avalanche Doors]], [[Charge of the Spear Legion]], [[Explosive Crystal Spheres]], [[Falling Debris]], [[Lodestone Trap]], [[Loose Slab]], [[Obscured Pitfalls]], [[Pendulum Blades]], [[Phantom Mold]], [[Pit of Toil]], [[Spike Thrower]], [[The Last Crucible]], [[Toxic Furnace]], [[Trapped Elevator]], [[Unsafe Stairs]]
+[[DATABASE/hazard/Avalanche Doors|Avalanche Doors]], [[DATABASE/hazard/Charge of the Spear Legion|Charge of the Spear Legion]], [[DATABASE/hazard/Explosive Crystal Spheres|Explosive Crystal Spheres]], [[DATABASE/hazard/Falling Debris|Falling Debris]], [[DATABASE/hazard/Lodestone Trap|Lodestone Trap]], [[DATABASE/hazard/Loose Slab|Loose Slab]], [[DATABASE/hazard/Obscured Pitfalls|Obscured Pitfalls]], [[DATABASE/hazard/Pendulum Blades|Pendulum Blades]], [[DATABASE/hazard/Phantom Mold|Phantom Mold]], [[DATABASE/hazard/Pit of Toil|Pit of Toil]], [[DATABASE/hazard/Spike Thrower|Spike Thrower]], [[DATABASE/hazard/The Last Crucible|The Last Crucible]], [[DATABASE/hazard/Toxic Furnace|Toxic Furnace]], [[DATABASE/hazard/Trapped Elevator|Trapped Elevator]], [[DATABASE/hazard/Unsafe Stairs|Unsafe Stairs]]
 
 ## Monsters [7]
 
-[[Darkmantle]], [[Forge-Spurned]], [[Grick]], [[Id Ooze]], [[Tallow Guardian]], [[Thoqqua]], [[Vargouille]]
+[[DATABASE/monster/Darkmantle|Darkmantle]], [[DATABASE/monster/Forge-Spurned|Forge-Spurned]], [[DATABASE/monster/Grick|Grick]], [[DATABASE/monster/Id Ooze|Id Ooze]], [[DATABASE/monster/Tallow Guardian|Tallow Guardian]], [[DATABASE/monster/Thoqqua|Thoqqua]], [[DATABASE/monster/Vargouille|Vargouille]]
 
 ## Rituals [1]
 
-[[Rite of the Blood Crown]]
+[[DATABASE/ritual/Rite of the Blood Crown|Rite of the Blood Crown]]
 
 ## Weapons [1]
 
-[[Flying Talon]]
+[[DATABASE/weapon/Flying Talon|Flying Talon]]

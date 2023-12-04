@@ -106,31 +106,31 @@ wisdom: '+6'
 # Thresholder Mystic
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 41
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 41
 **Unspecific Lore**: DC 39
 **Specific Lore**: DC 36
 
 # Thresholder Mystic<span class="item-type">Creature 17</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 Human cleric of Yog-Sothoth
 **Perception** +31; unseen sight
-**Languages** [[Aklo]], [[Hallit]]
-**Skills** [[Acrobatics]] +28, [[Deception]] +30, [[Intimidation]] +32, [[Medicine]] +31, [[Occultism]] +30, [[Religion]] +33, [[Lore]] +32
+**Languages** [[DATABASE/language/Aklo|Aklo]], [[DATABASE/language/Hallit|Hallit]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +28, [[DATABASE/skill/Deception|Deception]] +30, [[DATABASE/skill/Intimidation|Intimidation]] +32, [[DATABASE/skill/Medicine|Medicine]] +31, [[DATABASE/skill/Occultism|Occultism]] +30, [[DATABASE/skill/Religion|Religion]] +33, [[DATABASE/skill/Lore|Yog-Sothoth Lore]] +32
 **Str** +0, **Dex** +4, **Con** +1, **Int** +2, **Wis** +6, **Cha** +5
-**Items** _[[Resilient]] [[Leather Armor]]_, _[[Magic Weapon]] [[I]] [[Dagger]] (contains [[Blindness]])_, [[Religious Symbol]]
+**Items** _[[DATABASE/equipment/Resilient|+2 resilient]] [[DATABASE/armor/Leather Armor|leather armor]]_, _[[DATABASE/equipment/Magic Weapon|+2 greater striking]] [[DATABASE/monster/I|spell storing]] [[DATABASE/weapon/Dagger|dagger]] (contains [[DATABASE/spell/Blindness|blindness]])_, [[DATABASE/equipment/Religious Symbol|religious symbol of Yog-Sothoth]]
 
 ---
 **AC** 41; **Fort** +27, **Ref** +29, **Will** +33; resolve
 **HP** 315; **Resistances** mental 15
-<span class="in-box-ability">**Resolve** When the mystic rolls a success on a Will save, they get a critical success instead.</span><span class="in-box-ability">**Outside of Time** The Thresholder Hermeticist exists outside of time; they don't age, don't need food or drink to survive, and can't be [[Quickened]] or [[Slowed]] unless they choose to be.Outside of Time As Thresholder Hermeticist.</span>
+<span class="in-box-ability">**Resolve** When the mystic rolls a success on a Will save, they get a critical success instead.</span><span class="in-box-ability">**Outside of Time** The Thresholder Hermeticist exists outside of time; they don't age, don't need food or drink to survive, and can't be [[DATABASE/condition/Quickened|quickened]] or [[DATABASE/condition/Slowed|slowed]] unless they choose to be.Outside of Time As Thresholder Hermeticist.</span>
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _dagger_ +31 [+27/+23] (agile, finesse, magical, versatile S), **Damage** 3d4+6 piercing</span>**Divine Prepared Spells** DC 39, attack +30; **9th** _[[Dispel Magic]]_, _[[Harm]]_ (×6 overwhelming presence), _[[Heal]]_, _[[Spirit Blast]]_, _[[Telepathic Demand]]_; **7th** _[[Crisis of Faith]]_, _[[Divine Decree]]_, _[[Eclipse Burst]]_; **6th** _[[Blade Barrier]]_, _[[Heal]]_, _[[True Seeing]]_; **5th** _[[Prying Eye]]_, _[[Sending]]_, _[[Tongues]]_; **4th** _[[Air Walk]]_, _[[Discern Lies]]_, _[[Silence]]_; **3rd** _[[Blindness]]_, _[[Dream Message]]_, _[[Locate]]_; **2nd** _[[Darkness]]_, _[[Deafness]]_, _[[Silence]]_; **1st** _[[Bless]]_, _[[Command]]_, _[[Sanctuary]]_; **Cantrips** **(9th)** _[[Daze]]_, _[[Disrupt Undead]]_, _[[Forbidding Ward]]_, _[[Guidance]]_, _[[Message]]_
-**Cleric Domain Spells 2 Focus Points,** DC 38; **9th** _[[Delay Consequence]]_, _[[Stasis]]_
-<span class="in-box-ability">**Divine Font** [[Harm]]</span><span class="in-box-ability">**Reminder of Doom** <span class="action-icon">1</span> (auditory, concentrate, emotion, linguistic, mental) The mystic reminds their allies of the punishments awaiting those who fail Yog- Sothoth. The mystic and their allies within 60 feet gain a +2 status bonus to attack rolls and damage rolls until the end of the mystic's next turn.</span><span class="in-box-ability">**Steady Spellcasting** If a reaction would disrupt the Thresholder Mystic's spellcasting action, they attempt a DC 15 flat check; on a success, the action isn't disrupted.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _dagger_ +31 [+27/+23] (agile, finesse, magical, versatile S), **Damage** 3d4+6 piercing</span>**Divine Prepared Spells** DC 39, attack +30; **9th** _[[DATABASE/spell/Dispel Magic|dispel magic]]_, _[[DATABASE/spell/Harm|harm]]_ (×6 overwhelming presence), _[[DATABASE/spell/Heal|heal]]_, _[[DATABASE/spell/Spirit Blast|spirit blast]]_, _[[DATABASE/spell/Telepathic Demand|telepathic demand]]_; **7th** _[[DATABASE/spell/Crisis of Faith|crisis of faith]]_, _[[DATABASE/spell/Divine Decree|divine decree]]_, _[[DATABASE/spell/Eclipse Burst|eclipse burst]]_; **6th** _[[DATABASE/spell/Blade Barrier|blade barrier]]_, _[[DATABASE/spell/Heal|heal]]_, _[[DATABASE/spell/True Seeing|true seeing]]_; **5th** _[[DATABASE/spell/Prying Eye|prying eye]]_, _[[DATABASE/spell/Sending|sending]]_, _[[DATABASE/spell/Tongues|tongues]]_; **4th** _[[DATABASE/spell/Air Walk|air walk]]_, _[[DATABASE/spell/Discern Lies|discern lies]]_, _[[DATABASE/spell/Silence|silence]]_; **3rd** _[[DATABASE/spell/Blindness|blindness]]_, _[[DATABASE/spell/Dream Message|dream message]]_, _[[DATABASE/spell/Locate|locate]]_; **2nd** _[[DATABASE/spell/Darkness|darkness]]_, _[[DATABASE/spell/Deafness|deafness]]_, _[[DATABASE/spell/Silence|silence]]_; **1st** _[[DATABASE/spell/Bless|bless]]_, _[[DATABASE/spell/Command|command]]_, _[[DATABASE/spell/Sanctuary|sanctuary]]_; **Cantrips** **(9th)** _[[DATABASE/spell/Daze|daze]]_, _[[DATABASE/spell/Disrupt Undead|disrupt undead]]_, _[[DATABASE/spell/Forbidding Ward|forbidding ward]]_, _[[DATABASE/spell/Guidance|guidance]]_, _[[DATABASE/spell/Message|message]]_
+**Cleric Domain Spells 2 Focus Points,** DC 38; **9th** _[[DATABASE/spell/Delay Consequence|delay consequence]]_, _[[DATABASE/spell/Stasis|stasis]]_
+<span class="in-box-ability">**Divine Font** [[DATABASE/spell/Harm|harm]]</span><span class="in-box-ability">**Reminder of Doom** <span class="action-icon">1</span> (auditory, concentrate, emotion, linguistic, mental) The mystic reminds their allies of the punishments awaiting those who fail Yog- Sothoth. The mystic and their allies within 60 feet gain a +2 status bonus to attack rolls and damage rolls until the end of the mystic's next turn.</span><span class="in-box-ability">**Steady Spellcasting** If a reaction would disrupt the Thresholder Mystic's spellcasting action, they attempt a DC 15 flat check; on a success, the action isn't disrupted.</span>
 
 ### Unseen Sight
 

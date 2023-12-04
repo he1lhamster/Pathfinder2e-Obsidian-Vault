@@ -11,6 +11,7 @@ name: Strategic Assessment
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Strategic Assessment <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Investigator</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
-You learn your foes' strengths and weaknesses by watching them move. When you critically hit a creature with a Strike on which you substituted your attack roll due to [[Devise a Stratagem]], the GM chooses one of the following pieces of information about the enemy to tell you.
+You learn your foes' strengths and weaknesses by watching them move. When you critically hit a creature with a Strike on which you substituted your attack roll due to [[DATABASE/action/Devise a Stratagem|Devising a Stratagem]], the GM chooses one of the following pieces of information about the enemy to tell you.
 
 * Which of the enemy's weaknesses is highest
 * Which of the enemy's resistances is highest

@@ -12,6 +12,7 @@ prerequisite: Legendary in [[DATABASE/skill/Stealth|Stealth]] ; [[DATABASE/feat/
   Sneak|Swift Sneak]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: stealth
@@ -25,11 +26,11 @@ type: Feat
 # Legendary Sneak <span class="item-type">Feat 15</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** legendary in [[Stealth]]; [[Swift Sneak]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** legendary in [[DATABASE/skill/Stealth|Stealth]]; [[DATABASE/feat/Swift Sneak|Swift Sneak]]
 
 ---
-You’re always sneaking unless you choose to be seen, even when there’s nowhere to hide. You can [[Hide]] and [[Sneak]] even without cover or being [[Concealed]]. When you employ an exploration tactic other than [[Avoid Notice]], you also gain the benefits of Avoiding Notice unless you choose not to.
+You’re always sneaking unless you choose to be seen, even when there’s nowhere to hide. You can [[DATABASE/action/Hide|Hide]] and [[DATABASE/action/Sneak|Sneak]] even without cover or being [[DATABASE/condition/Concealed|concealed]]. When you employ an exploration tactic other than [[DATABASE/action/Avoid Notice|Avoiding Notice]], you also gain the benefits of Avoiding Notice unless you choose not to.
 
 ## Traits
 

@@ -11,6 +11,7 @@ name: Cantrip Expansion
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -30,7 +31,7 @@ type: Feat
 # Cantrip Expansion <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Bard</span><span class="item-trait">Cleric</span><span class="item-trait">Magus</span><span class="item-trait">Oracle</span><span class="item-trait">Psychic</span><span class="item-trait">Sorcerer</span><span class="item-trait">Witch</span><span class="item-trait">Wizard</span>
-**Source** [[Dark Archive]], [[Core Rulebook]] , [[Advanced Player's Guide]] , [[Secrets of Magic]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]], [[DATABASE/source/Core Rulebook|Core Rulebook]] , [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] , [[DATABASE/source/Secrets of Magic|Secrets of Magic]]
 
 ---
 A greater understanding of your magic broadens your range of simple spells.

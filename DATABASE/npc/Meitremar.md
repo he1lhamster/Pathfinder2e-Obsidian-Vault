@@ -86,20 +86,20 @@ wisdom: '+1'
 # Meitremar
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 28
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 28
 **Unspecific Lore**: DC 26
 **Specific Lore**: DC 23
 
 # Meitremar<span class="item-type">Creature 3</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Rusthenge]]
-Male [[Human]] cultist of Xar-Azmak
+**Source** [[DATABASE/source/Rusthenge|Rusthenge]]
+Male [[DATABASE/ancestry/Human|human]] cultist of Xar-Azmak
 **Perception** +7
-**Languages** [[Abyssal]], [[Aklo]], [[Common]], [[Thassilonian]], [[Varisian]]
-**Skills** [[Arcana]] +7, [[Crafting]] +7, [[Deception]] +9, [[Diplomacy]] +9, [[Intimidation]] +9, [[Occultism]] +7, [[Religion]] +8
+**Languages** [[DATABASE/language/Abyssal|Abyssal]], [[DATABASE/language/Aklo|Aklo]], [[DATABASE/language/Common|Common]], [[DATABASE/language/Thassilonian|Thassilonian]], [[DATABASE/language/Varisian|Varisian]]
+**Skills** [[DATABASE/skill/Arcana|Arcana]] +7, [[DATABASE/skill/Crafting|Crafting]] +7, [[DATABASE/skill/Deception|Deception]] +9, [[DATABASE/skill/Diplomacy|Diplomacy]] +9, [[DATABASE/skill/Intimidation|Intimidation]] +9, [[DATABASE/skill/Occultism|Occultism]] +7, [[DATABASE/skill/Religion|Religion]] +8
 **Str** +2, **Dex** +1, **Con** +0, **Int** +2, **Wis** +1, **Cha** +4
-**Items** _+1 [[Striking]] [[Pick]]_, rusted ([[Broken]]) breastplate, tarnished silver [[Religious Symbol]] (Xar-Azmak), [[Create Food]], [[Restoration]], [[Horn of Rust]] (page 60), [[Chest]]
+**Items** _+1 [[DATABASE/equipment/Striking|striking]] [[DATABASE/weapon/Pick|pick]]_, rusted ([[DATABASE/condition/Broken|broken]]) breastplate, tarnished silver [[DATABASE/equipment/Religious Symbol|religious symbol]] (Xar-Azmak), [[DATABASE/spell/Create Food|wand of create food]], [[DATABASE/spell/Restoration|wand of restoration]], [[DATABASE/equipment/Horn of Rust|Horn of Rust]] (page 60), [[DATABASE/equipment/Chest|key to chest in area E2]]
 
 ---
 **AC** 18; **Fort** +9, **Ref** +6, **Will** +12
@@ -107,7 +107,7 @@ Male [[Human]] cultist of Xar-Azmak
 
 ---
 **Speed** 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _pick_ +8 [+3/-2] (fatal d10), **Damage** 2d6+2 piercing</span>**Divine Spontaneous Spells** DC 20, attack +12; **2nd** _[[Enlarge]]_, _[[Ghoulish Cravings]]_, _[[Harm]]_, _[[Sudden Blight]]_ (3 slots); **1st** _[[Bane]]_, _[[Command]]_, _[[Fear]]_, _[[Heal]]_ (×2); **Cantrips** **(2nd)** _[[Acid Splash]]_, _[[Divine Lance]]_, _[[Guidance]]_, _[[Light]]_, _[[Shield]]_, _[[Sigil]]_
-**Demonic Bloodline Spells** DC 20, 1 Focus Point; **2nd** _[[Glutton's Jaw]]_
-**Rituals**; **2nd** _[[Create Undead]]_, _[[Inveigle]]_
-<span class="in-box-ability">**Reach Spell** <span class="action-icon">1</span> (metamagic) If Meitremar's next action this turn is to Cast a Spell that has a range, he increases that spell's range by 30 feet (or increases the range of a touch spell to 30 feet).</span><span class="in-box-ability">**Signature Spell** Meitremar can heighten [[Heal]] spells freely</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _pick_ +8 [+3/-2] (fatal d10), **Damage** 2d6+2 piercing</span>**Divine Spontaneous Spells** DC 20, attack +12; **2nd** _[[DATABASE/spell/Enlarge|enlarge]]_, _[[DATABASE/spell/Ghoulish Cravings|ghoulish cravings]]_, _[[DATABASE/spell/Harm|harm]]_, _[[DATABASE/spell/Sudden Blight|sudden blight]]_ (3 slots); **1st** _[[DATABASE/spell/Bane|bane]]_, _[[DATABASE/spell/Command|command]]_, _[[DATABASE/spell/Fear|fear]]_, _[[DATABASE/spell/Heal|heal]]_ (×2); **Cantrips** **(2nd)** _[[DATABASE/spell/Acid Splash|acid splash]]_, _[[DATABASE/spell/Divine Lance|divine lance]]_, _[[DATABASE/spell/Guidance|guidance]]_, _[[DATABASE/spell/Light|light]]_, _[[DATABASE/spell/Shield|shield]]_, _[[DATABASE/spell/Sigil|sigil]]_
+**Demonic Bloodline Spells** DC 20, 1 Focus Point; **2nd** _[[DATABASE/spell/Glutton's Jaw|glutton's jaw]]_
+**Rituals**; **2nd** _[[DATABASE/ritual/Create Undead|create undead]]_, _[[DATABASE/ritual/Inveigle|inveigle]]_
+<span class="in-box-ability">**Reach Spell** <span class="action-icon">1</span> (metamagic) If Meitremar's next action this turn is to Cast a Spell that has a range, he increases that spell's range by 30 feet (or increases the range of a touch spell to 30 feet).</span><span class="in-box-ability">**Signature Spell** Meitremar can heighten [[DATABASE/spell/Heal|heal]] spells freely</span>

@@ -2,6 +2,7 @@
 id: '241'
 name: Troll
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait:
 - Troll
@@ -10,9 +11,9 @@ type: Trait
 ---
 # Troll
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Trolls are giant, brutish creatures and are well known for their ability to regenerate.
 
 ## Monsters
 
-[[Cavern Troll]], [[Frost Troll]], [[Jotund Troll]], [[Nightwood Guardian]], [[Troll, Tombstone]], [[Troll]], [[Troll King]], [[Trollhound]], [[Two-Headed Troll]]
+[[DATABASE/monster/Cavern Troll|Cavern Troll]], [[DATABASE/monster/Frost Troll|Frost Troll]], [[DATABASE/monster/Jotund Troll|Jotund Troll]], [[DATABASE/monster/Nightwood Guardian|Nightwood Guardian]], [[DATABASE/monster/Troll, Tombstone|Tombstone Troll]], [[DATABASE/monster/Troll|Troll]], [[DATABASE/monster/Troll King|Troll King]], [[DATABASE/monster/Trollhound|Trollhound]], [[DATABASE/monster/Two-Headed Troll|Two-Headed Troll]]

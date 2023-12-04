@@ -11,6 +11,7 @@ name: Squirm Free
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
 subcategory: null
@@ -24,11 +25,11 @@ type: Feat
 # Squirm Free <span class="action-icon">5</span> <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Poppet</span>
-**Source** [[Grand Bazaar]]
-**Trigger** A creature [[Grabbed]], [[Immobilized]], or [[Restrained]] you.
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
+**Trigger** A creature [[DATABASE/condition/Grabbed|grabs]], [[DATABASE/condition/Immobilized|immobilizes]], or [[DATABASE/condition/Restrained|restrains]] you.
 
 ---
-You're used to slipping out of a bigger creature's grasp or escaping a child's overly enthusiastic hug. You attempt to [[Escape]].
+You're used to slipping out of a bigger creature's grasp or escaping a child's overly enthusiastic hug. You attempt to [[DATABASE/action/Escape|Escape]].
 
 ## Traits
 

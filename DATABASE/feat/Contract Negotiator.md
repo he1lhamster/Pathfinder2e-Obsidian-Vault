@@ -11,6 +11,7 @@ name: Contract Negotiator
 prerequisite: Trained in [[DATABASE/skill/Lore|Legal Lore]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Highhelm|Highhelm]]'
 subcategory: lore
@@ -24,11 +25,11 @@ type: Feat
 # Contract Negotiator <span class="item-type">Feat 1</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Highhelm]]
-**Prerequisites** trained in [[Lore]]
+**Source** [[DATABASE/source/Highhelm|Highhelm]]
+**Prerequisites** trained in [[DATABASE/skill/Lore|Legal Lore]]
 
 ---
-Your experience with bargaining and deciding terms as part of Highhelm's guilds helps you make deals in other situations. When negotiating deals or agreements, you can use Legal Lore in place of [[Diplomacy]] to [[Make an Impression]] or a [[Request]], even if there is no legal framework under which you are negotiating. If you are an expert in Diplomacy, you gain a +1 circumstance bonus to these checks; if you are a master in Diplomacy, this increases to +2, and +3 if you are legendary.
+Your experience with bargaining and deciding terms as part of Highhelm's guilds helps you make deals in other situations. When negotiating deals or agreements, you can use Legal Lore in place of [[DATABASE/skill/Diplomacy|Diplomacy]] to [[DATABASE/action/Make an Impression|Make an Impression]] or a [[DATABASE/action/Request|Request]], even if there is no legal framework under which you are negotiating. If you are an expert in Diplomacy, you gain a +1 circumstance bonus to these checks; if you are a master in Diplomacy, this increases to +2, and +3 if you are legendary.
 
 ## Traits
 

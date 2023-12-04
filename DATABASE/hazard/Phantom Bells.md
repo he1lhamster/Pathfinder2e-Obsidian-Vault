@@ -14,6 +14,7 @@ name: Phantom Bells
 rarity: Rare
 reflex: null
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 147. Tomorrow Must Burn|Pathfinder #147: Tomorrow
   Must Burn]]'
@@ -31,13 +32,13 @@ will: null
 # Phantom Bells<span class="item-type">Hazard 6</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Auditory</span><span class="item-trait">Complex</span><span class="item-trait">Haunt</span><span class="item-trait">Sonic</span>
-**Source** [[Pathfinder 147. Tomorrow Must Burn]]
+**Source** [[DATABASE/source/Pathfinder 147. Tomorrow Must Burn|Pathfinder #147: Tomorrow Must Burn]]
 **Complexity** Complex
 **Stealth** +10
 **Description** The echo of diabolic bells reverberates with a bone-shaking clamor.
 
 ---
-**Disable** [[Religion]] DC 27 (expert) to break the curse with recitations against the power of [[Hell]] (2 actions), or [[Performance]] DC 22 (expert) to [[Perform]] an opposing composition
+**Disable** [[DATABASE/skill/Religion|Religion]] DC 27 (expert) to break the curse with recitations against the power of [[DATABASE/plane/Hell|Hell]] (2 actions), or [[DATABASE/skill/Performance|Performance]] DC 22 (expert) to [[DATABASE/action/Perform|Perform]] an opposing composition
 **Distant Ringing** <span class="action-icon">5</span> (auditory, sonic); **Trigger** A living creature approaches within 30 feet. **Effect** Sounds of creaking metal fill the area as the phantom bells begin to swing and the haunt rolls initiative.
 
 ---

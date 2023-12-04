@@ -26,6 +26,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: basicReflex
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -43,9 +44,9 @@ type: Spell
 # Lightning Bolt<span class="item-type">Spell 3</span>
 
 <span class="item-trait">Electricity</span><span class="item-trait">Evocation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, primal
-**Deities** [[Cernunnos]], [[Chamidu]], [[Gozreh]], [[Nalinivati]]
+**Deities** [[DATABASE/deity/Cernunnos|Cernunnos]], [[DATABASE/deity/Chamidu|Chamidu]], [[DATABASE/deity/Gozreh|Gozreh]], [[DATABASE/deity/Nalinivati|Nalinivati]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Area** 120-foot line
 **Saving Throw** basic Reflex

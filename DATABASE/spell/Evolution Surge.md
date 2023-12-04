@@ -21,6 +21,7 @@ patron_theme: null
 range: 100 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -38,7 +39,7 @@ type: Focus
 # Evolution Surge<span class="item-type">Focus 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Morph</span><span class="item-trait">Summoner</span><span class="item-trait">Transmutation</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 100 feet; **Targets** your eidolon
 **Duration** 1 minute
@@ -46,8 +47,8 @@ type: Focus
 ---
 You flood your eidolon with power, creating a temporary evolution in your eidolon's capabilities. Choose one of the following effects:
 
-* Your eidolon gains [[Low-Light Vision]] and [[Darkvision]].
-* Your eidolon gains [[Scent]] as an imprecise sense up to 30 feet.
+* Your eidolon gains [[DATABASE/monsterability/Low-Light Vision|low-light vision]] and [[DATABASE/monsterability/Darkvision|darkvision]].
+* Your eidolon gains [[DATABASE/monsterability/Scent|scent]] as an imprecise sense up to 30 feet.
 * Your eidolon can breathe underwater and gains a swim Speed equal to its land Speed or 30 feet, whichever is less. Alternatively, if your eidolon is normally aquatic, it can breathe air and gains a land Speed equal to its swim Speed or 30 feet, whichever is less. Either way, it gains the amphibious trait.
 * Your eidolon gains a +20-foot status bonus to its Speed.
 

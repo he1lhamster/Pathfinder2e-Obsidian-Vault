@@ -11,6 +11,7 @@ name: Usurp the Lunar Reins
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -27,7 +28,7 @@ type: Feat
 # Usurp the Lunar Reins <span class="action-icon">3</span> <span class="item-type">Feat 18</span>
 
 <span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Overflow</span><span class="item-trait">Primal</span><span class="item-trait">Water</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
 The moon has always been connected to the tides, and now you can grasp that connection. You can create massive amounts of water and control these tides, subverting even the moon's sovereignty over the oceans and seas. Choose an area 50 feet long by 50 feet wide within 500 feet, and choose two different effects from the options provided below. The effects take place in the listed order.
@@ -35,7 +36,7 @@ The moon has always been connected to the tides, and now you can grasp that conn
 * **Flood** You create a pool of pure, clean water in the area, which coalesces from ambient moisture. This water must be created on a surface—not in air—and flows normally.
 * **Control** You tug on the moon to raise or lower the level of bodies of water in the area by 10 feet. If you control a portion of a larger body of water, the water then equalizes normally.
 * **Modulate** With a wave of your hand, you create or smooth ripples, making all bodies of water in the area either calm or turbulent. Making it calm turns difficult terrain or greater difficult terrain to calm water, and making it turbulent turns calm water into difficult terrain.
-* **Slow** By exercising your rightful control over all water, each creature with the water trait in the area must succeed at a Fortitude save against your class DC or be [[Slowed]] (or slowed 2 on a critical failure).
+* **Slow** By exercising your rightful control over all water, each creature with the water trait in the area must succeed at a Fortitude save against your class DC or be [[DATABASE/condition/Slowed|slowed 1]] (or slowed 2 on a critical failure).
 
 Flood and control are permanent and non-magical. Modulate and slow last until the end of your next turn, but you can Sustain the impulse to continue them.
 
@@ -47,7 +48,7 @@ The primary magical actions kineticists use are called impulses. You can use an 
 
 **Overflow:**
 
-Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
+Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[DATABASE/action/Channel Elements|Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
 
 **Primal:**
 

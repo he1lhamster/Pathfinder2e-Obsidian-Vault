@@ -24,6 +24,7 @@ follower_alignment:
 id: '152'
 name: Gendowyn
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Stealth|Stealth]]'
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
@@ -33,7 +34,7 @@ type: Deity
 ---
 # Gendowyn (Lady of the Fangwood) [CN]
 
-**Source** [[Knights of Lastwall]], [[Gods & Magic]] 
+**Source** [[DATABASE/source/Knights of Lastwall|Knights of Lastwall]], [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 The fey queen Gendowyn might seem an unusual divine patron for the Knights of Lastwall, but it makes perfect sense to her devotees. Gendowyn is a living manifestation and representation of the natural world, a world in which the undead simply have no place. While her personal morality represents the inscrutable whims and caprices of the First World from which she hails, she recognizes the aligned goals she shares with her knightly followers and bestows her divine blessings upon them in turn.
 **Category** Other Gods
 **Edicts** Preserve primal areas, destroy blighted fey and agents of Cyth V'sug, protect those who placate you with offerings
@@ -43,9 +44,9 @@ The fey queen Gendowyn might seem an unusual divine patron for the Knights of La
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Dexterity or Charisma
-**Divine Font** _[[Heal]]_
-**Divine Skill** [[Stealth]]
-**Favored Weapon** [[Whip]]
-**Domains** [[Earth Domain]], [[Family Domain]], [[Luck Domain]], [[Nature Domain]]
-**Cleric Spells** 1st: _[[Summon Fey]]_, 2nd: _[[Barkskin]]_, 5th: _[[Tree Stride]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Dexterity or Charisma
+**Divine Font** _[[DATABASE/spell/Heal|heal]]_
+**Divine Skill** [[DATABASE/skill/Stealth|Stealth]]
+**Favored Weapon** [[DATABASE/weapon/Whip|whip]]
+**Domains** [[DATABASE/domain/Earth Domain|earth]], [[DATABASE/domain/Family Domain|family]], [[DATABASE/domain/Luck Domain|luck]], [[DATABASE/domain/Nature Domain|nature]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Summon Fey|summon fey]]_, 2nd: _[[DATABASE/spell/Barkskin|barkskin]]_, 5th: _[[DATABASE/spell/Tree Stride|tree stride]]_

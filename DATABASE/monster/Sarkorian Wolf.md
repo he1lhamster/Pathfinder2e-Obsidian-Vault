@@ -66,17 +66,17 @@ wisdom: '+2'
 ---
 # Sarkorian Wolf
 
-To survive living in the Worldwound, Sarkorian wolves developed defenses against the [[Abyss]]. They've become symbols for Mendevian crusaders who struggled to adapt to the world after the war ended. 
-**Recall Knowledge - Animal ([[Nature]])**: DC 15
+To survive living in the Worldwound, Sarkorian wolves developed defenses against the [[DATABASE/plane/Abyss|Abyss]]. They've become symbols for Mendevian crusaders who struggled to adapt to the world after the war ended. 
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Sarkorian Wolf<span class="item-type">Creature 1</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Animal</span>
-**Source** [[Travel Guide]]
-**Perception** +7; [[Low-Light Vision]], [[Scent]] (imprecise) 30 feet
-**Skills** [[Acrobatics]] +7, [[Athletics]] +5, [[Stealth]] +7, [[Survival]] +7
+**Source** [[DATABASE/source/Travel Guide|Travel Guide]]
+**Perception** +7; [[DATABASE/monsterability/Low-Light Vision|low-light vision]], [[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +7, [[DATABASE/skill/Athletics|Athletics]] +5, [[DATABASE/skill/Stealth|Stealth]] +7, [[DATABASE/skill/Survival|Survival]] +7
 **Str** +2, **Dex** +4, **Con** +1, **Int** -4, **Wis** +2, **Cha** -2
 
 ---
@@ -85,4 +85,4 @@ To survive living in the Worldwound, Sarkorian wolves developed defenses against
 
 ---
 **Speed** 35 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +9 [+4/-1], **Damage** 1d6+2 piercing plus [[Knockdown]]</span><span class="in-box-ability">**Pack Attack** The wolf's Strikes deal 1d4 extra damage to creatures within reach of at least two of the wolf's allies.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +9 [+4/-1], **Damage** 1d6+2 piercing plus [[DATABASE/monsterability/Knockdown|Knockdown]]</span><span class="in-box-ability">**Pack Attack** The wolf's Strikes deal 1d4 extra damage to creatures within reach of at least two of the wolf's allies.</span>

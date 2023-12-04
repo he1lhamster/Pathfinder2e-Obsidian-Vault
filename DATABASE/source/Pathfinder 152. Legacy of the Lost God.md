@@ -2,6 +2,7 @@
 id: '23'
 name: Pathfinder 152. Legacy of the Lost God
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -21,23 +22,23 @@ type: Source
 
 ## Equipment [19]
 
-[[Acrobat's Staff]], [[Beckoning Cat Amulet]], [[Bullhook]], [[DATABASE/equipment/Bullhook|Bullhook (Greater)
+[[DATABASE/equipment/Acrobat's Staff|Acrobat's Staff]], [[DATABASE/equipment/Beckoning Cat Amulet|Beckoning Cat Amulet]], [[DATABASE/equipment/Bullhook|Bullhook]], [[DATABASE/equipment/Bullhook|Bullhook (Greater)
 ]], [[DATABASE/equipment/Bullhook|Bullhook
-]], [[Grail of Twisted Desires]], [[Inspiring Spotlight]], [[Invisible Net]], [[Marvelous Calliope]], [[Moonstone Diadem]], [[Ringmaster's Staff]], [[DATABASE/equipment/Ringmaster's Staff|Ringmaster's Staff (Greater)
+]], [[DATABASE/equipment/Grail of Twisted Desires|Grail of Twisted Desires]], [[DATABASE/equipment/Inspiring Spotlight|Inspiring Spotlight]], [[DATABASE/equipment/Invisible Net|Invisible Net]], [[DATABASE/equipment/Marvelous Calliope|Marvelous Calliope]], [[DATABASE/equipment/Moonstone Diadem|Moonstone Diadem]], [[DATABASE/equipment/Ringmaster's Staff|Ringmaster's Staff]], [[DATABASE/equipment/Ringmaster's Staff|Ringmaster's Staff (Greater)
 ]], [[DATABASE/equipment/Ringmaster's Staff|Ringmaster's Staff
-]], [[Saints' Balm]], [[Spangled Rider's Suit]], [[Stole of Civility]], [[Whip of Compliance]], [[Wondrous Figurine]], [[Wondrous Figurine]]
+]], [[DATABASE/equipment/Saints' Balm|Saints' Balm]], [[DATABASE/equipment/Spangled Rider's Suit|Spangled Rider's Suit]], [[DATABASE/equipment/Stole of Civility|Stole of Civility]], [[DATABASE/equipment/Whip of Compliance|Whip of Compliance]], [[DATABASE/equipment/Wondrous Figurine|Wondrous Figurine (Candy Constrictor)]], [[DATABASE/equipment/Wondrous Figurine|Wondrous Figurine (Rubber Bear)]]
 
 ## Feats [6]
 
-[[Animal Trainer Dedication]], [[Beast Speaker]], [[Insistent Command]], [[Mature Trained Companion]], [[Specialized Companion]], [[Splendid Companion]]
+[[DATABASE/feat/Animal Trainer Dedication|Animal Trainer Dedication]], [[DATABASE/feat/Beast Speaker|Beast Speaker]], [[DATABASE/feat/Insistent Command|Insistent Command]], [[DATABASE/feat/Mature Trained Companion|Mature Trained Companion]], [[DATABASE/feat/Specialized Companion|Specialized Companion]], [[DATABASE/feat/Splendid Companion|Splendid Companion]]
 
 ## Hazards [7]
 
-[[Echoes of Faith]], [[Ghost Crystal Cloud]], [[Hallowed Wheel]], [[Krooth Summoning Rune]], [[Masks of Aroden's Guises]], [[Maze of Mirrors]], [[Thunderstone Cascade Trap]]
+[[DATABASE/hazard/Echoes of Faith|Echoes of Faith]], [[DATABASE/hazard/Ghost Crystal Cloud|Ghost Crystal Cloud]], [[DATABASE/hazard/Hallowed Wheel|Hallowed Wheel]], [[DATABASE/hazard/Krooth Summoning Rune|Krooth Summoning Rune]], [[DATABASE/hazard/Masks of Aroden's Guises|Masks of Aroden's Guises]], [[DATABASE/hazard/Maze of Mirrors|Maze of Mirrors]], [[DATABASE/hazard/Thunderstone Cascade Trap|Thunderstone Cascade Trap]]
 
 ## Monsters [9]
 
-[[Bogey]], [[Bogeyman]], [[Bugaboo]], [[Chimpanzee Visitant]], [[Iridescent Animal]], [[Lion Visitant]], [[Muse Phantom]], [[Xulgath Spinesnapper]], [[Zuipnyrn (Moon Mole)]]
+[[DATABASE/monster/Bogey|Bogey]], [[DATABASE/monster/Bogeyman|Bogeyman]], [[DATABASE/monster/Bugaboo|Bugaboo]], [[DATABASE/monster/Chimpanzee Visitant|Chimpanzee Visitant]], [[DATABASE/monster/Iridescent Animal|Iridescent Elephant]], [[DATABASE/monster/Lion Visitant|Lion Visitant]], [[DATABASE/monster/Muse Phantom|Muse Phantom]], [[DATABASE/monster/Xulgath Spinesnapper|Xulgath Spinesnapper]], [[DATABASE/monster/Zuipnyrn (Moon Mole)|Zuipnyrn]]
 
 ## Setting Articles [2]
 
@@ -45,4 +46,4 @@ Among the Xulgaths, Catfolk of Golarion
 
 ## Spells [4]
 
-[[Clownish Curse]], [[Favorable Review]], [[Pillar of Water]], [[Pyrotechnics]]
+[[DATABASE/spell/Clownish Curse|Clownish Curse]], [[DATABASE/spell/Favorable Review|Favorable Review]], [[DATABASE/spell/Pillar of Water|Pillar of Water]], [[DATABASE/spell/Pyrotechnics|Pyrotechnics]]

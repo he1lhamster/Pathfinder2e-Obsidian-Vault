@@ -66,19 +66,19 @@ wisdom: '+0'
 # Jellico Bounce-Bounce
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 26
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 26
 **Unspecific Lore**: DC 24
 **Specific Lore**: DC 21
 
 # Jellico Bounce-Bounce<span class="item-type">Creature 2</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 151. The Show Must Go On]]
-Male [[Human]] clown
+**Source** [[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: The Show Must Go On]]
+Male [[DATABASE/ancestry/Human|human]] clown
 **Perception** +7
-**Skills** [[Acrobatics]] +7, [[Performance]] +7, [[Stealth]] +7, [[Thievery]] +9
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +7, [[DATABASE/skill/Performance|Performance]] +7, [[DATABASE/skill/Stealth|Stealth]] +7, [[DATABASE/skill/Thievery|Thievery]] +9
 **Str** +2, **Dex** +3, **Con** +1, **Int** +2, **Wis** +0, **Cha** +1
-**Items** bowling pins, clown costume, [[Dagger]], pots of grease paint
+**Items** bowling pins, clown costume, [[DATABASE/weapon/Dagger|dagger (6)]], pots of grease paint
 
 ---
 **AC** 17; **Fort** +7, **Ref** +9, **Will** +6
@@ -87,4 +87,4 @@ Male [[Human]] clown
 
 ---
 **Speed** 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> bowling pin +9 [+5/+1] (agile, nonlethal), **Damage** 1d6+2 bludgeoning</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> dagger +10 [+6/+2] (agile, finesse, versatile S), **Damage** 1d4+2 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> bowling pin +10 [+6/+2] (agile, nonlethal, thrown 10 feet), **Damage** 1d6+2 bludgeoning</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> dagger +10 [+6/+2] (agile, thrown 10 feet, versatile S), **Damage** 1d4+2 piercing</span><span class="in-box-ability">**Bounce** <span class="action-icon">1</span> Jellico makes a [[High Jump]] or [[Long Jump]]</span><span class="in-box-ability">**Bounce-Bounce** <span class="action-icon">2</span> Jellico Strides up to his Speed and does not trigger reactions during this movement.</span><span class="in-box-ability">**Juggler** If Jellico's bowling pin ranged Strike hits, the bowling pin bounces off the target back toward Jellico. Jellico can catch it again if he has a free hand.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> bowling pin +9 [+5/+1] (agile, nonlethal), **Damage** 1d6+2 bludgeoning</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> dagger +10 [+6/+2] (agile, finesse, versatile S), **Damage** 1d4+2 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> bowling pin +10 [+6/+2] (agile, nonlethal, thrown 10 feet), **Damage** 1d6+2 bludgeoning</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> dagger +10 [+6/+2] (agile, thrown 10 feet, versatile S), **Damage** 1d4+2 piercing</span><span class="in-box-ability">**Bounce** <span class="action-icon">1</span> Jellico makes a [[DATABASE/action/High Jump|High Jump]] or [[DATABASE/action/Long Jump|Long Jump]]</span><span class="in-box-ability">**Bounce-Bounce** <span class="action-icon">2</span> Jellico Strides up to his Speed and does not trigger reactions during this movement.</span><span class="in-box-ability">**Juggler** If Jellico's bowling pin ranged Strike hits, the bowling pin bounces off the target back toward Jellico. Jellico can catch it again if he has a free hand.</span>

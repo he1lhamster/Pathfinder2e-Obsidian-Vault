@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Firework Technician Dedication|Firework Technicia
   Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Banshee Cry Display <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Guns & Gears]]
-**Archetype** [[Fireworks Technician]]
-**Prerequisites** [[Firework Technician Dedication]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Archetype** [[DATABASE/archetype/Fireworks Technician|Fireworks Technician]]
+**Prerequisites** [[DATABASE/feat/Firework Technician Dedication|Firework Technician Dedication]]
 
 ---
 You've learned how to pull off a sudden noisemaker at just the right moment in your display, a technique that can disrupt precise wording. You gain the Banshee Cry fireworks display.

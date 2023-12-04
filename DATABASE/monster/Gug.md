@@ -100,17 +100,17 @@ A gug’s most horrid feature is its barrel-shaped head, which splits vertically
  Gugs have a strange relationship with ghouls, which seems to date from their shared origin in a distant subterranean world. Gugs live in fear of ghouls, despite towering over them; however, this strange fear doesn’t apply to ghasts, whom gugs consume as voraciously as they do other creatures.
  Gugs stand 16 feet tall and weigh 2,000 pounds, although they have an eerie, graceful gait that belies their immense size. Their light step and ability to squeeze through very small crannies makes gugs common bogeymen in tales of strange disappearances or bloody massacres.
  Some particularly bloodthirsty gugs gain awful powers as gifts from their eldritch patrons. These monsters are known as savants, are never less than 12th level in power, and gain several occult innate spells. Though each savant’s precise mix of spells varies, normally, these spells grant invisibility, offer power to manipulate and change rock, or invoke awful and destructive energies upon living flesh.
-**Recall Knowledge - Aberration ([[Occultism]])**: DC 27
+**Recall Knowledge - Aberration ([[DATABASE/skill/Occultism|Occultism]])**: DC 27
 **Unspecific Lore**: DC 25
 **Specific Lore**: DC 22
 
 # Gug<span class="item-type">Creature 10</span>
 
 <span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Aberration</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +19; darkvision
-**Languages** [[Undercommon]]
-**Skills** [[Acrobatics]] +19 (+23 to Squeeze), [[Athletics]] +23, [[Stealth]] +19, [[Survival]] +17
+**Languages** [[DATABASE/language/Undercommon|Undercommon]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +19 (+23 to Squeeze), [[DATABASE/skill/Athletics|Athletics]] +23, [[DATABASE/skill/Stealth|Stealth]] +19, [[DATABASE/skill/Survival|Survival]] +17
 **Str** +7, **Dex** +3, **Con** +6, **Int** +0, **Wis** +3, **Cha** +0
 
 ---
@@ -120,7 +120,7 @@ A gug’s most horrid feature is its barrel-shaped head, which splits vertically
 
 ---
 **Speed** 40 feet, climb 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +23 [+18/+13] (reach 15 feet), **Damage** 2d12+13 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +23 [+19/+15] (agile, reach 15 feet), **Damage** 2d8+13 slashing</span><span class="in-box-ability">**Eerie Flexibility** Despite its size, the gug’s multiple joints allow it to fit through tight spaces as if it were a Medium creature. While Squeezing, it can move at its full Speed.</span><span class="in-box-ability">**Furious Claws** <span class="action-icon">2</span> The gug makes up to four claw Strikes, each against a different target. These attacks all count toward the gug’s multiple attack penalty, but the penalty doesn’t increase until after the gug makes all its attacks.</span><span class="in-box-ability">**[[Rend]]** <span class="action-icon">1</span> claw</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +23 [+18/+13] (reach 15 feet), **Damage** 2d12+13 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +23 [+19/+15] (agile, reach 15 feet), **Damage** 2d8+13 slashing</span><span class="in-box-ability">**Eerie Flexibility** Despite its size, the gug’s multiple joints allow it to fit through tight spaces as if it were a Medium creature. While Squeezing, it can move at its full Speed.</span><span class="in-box-ability">**Furious Claws** <span class="action-icon">2</span> The gug makes up to four claw Strikes, each against a different target. These attacks all count toward the gug’s multiple attack penalty, but the penalty doesn’t increase until after the gug makes all its attacks.</span><span class="in-box-ability">**[[DATABASE/monsterability/Rend|Rend]]** <span class="action-icon">1</span> claw</span>
 
 ###  Eldritch Gods
 

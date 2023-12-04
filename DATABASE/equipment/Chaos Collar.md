@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Chaos Collar<span class="item-type">Item 5</span>
 
 <span class="item-trait">Companion</span><span class="item-trait">Invested</span><span class="item-trait">Primal</span><span class="item-trait">Transmutation</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Price** 125 gp
 **Usage** worn collar; **Bulk** L
 

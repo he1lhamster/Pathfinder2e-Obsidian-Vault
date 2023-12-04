@@ -11,6 +11,7 @@ name: Lesser Enhance Venom
 prerequisite: '[[DATABASE/action/Envenom|Envenom]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Lesser Enhance Venom <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Vishkanya</span>
-**Source** [[Impossible Lands]]
-**Prerequisites** [[Envenom]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
+**Prerequisites** [[DATABASE/action/Envenom|Envenom]]
 
 ---
 Your venom grows deadlier and more plentiful. You upgrade the vishkanyan venom you can apply with Envenom to lesser vishkanyan venom. Envenom's frequency becomes once per hour.
@@ -32,7 +33,7 @@ Your venom grows deadlier and more plentiful. You upgrade the vishkanyan venom y
 
 ## Lesser Enhance Venom Leads To...
 
-[[Moderate Enhance Venom]]
+[[DATABASE/feat/Moderate Enhance Venom|Moderate Enhance Venom]]
 
 ## Traits
 

@@ -21,6 +21,7 @@ patron_theme: null
 range: 120 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -39,7 +40,7 @@ type: Spell
 # Petal Storm<span class="item-type">Spell 4</span>
 
 <span class="item-trait">Air</span><span class="item-trait">Conjuration</span><span class="item-trait">Plant</span><span class="item-trait">Wood</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Traditions** primal
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 120 feet; **Area** 15-foot radius burst

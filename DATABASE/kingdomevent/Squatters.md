@@ -3,6 +3,7 @@ id: '35'
 level: '-1'
 name: Squatters
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Politics|Politics]]'
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
@@ -16,10 +17,10 @@ type: Kingdom Event
 # Squatters<span class="item-type">Event -1</span>
 
 <span class="item-trait">Continuous</span><span class="item-trait">Dangerous</span><span class="item-trait">Settlement</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 **Location** The settlement with the highest Consumption in the kingdom or the largest settlement in the kingdom (as chosen by the GM)
 An empty lot in your settlement is taken over by desperate people unable to find adequate work or housing. They set up camp with tents, wagons, and shanties. You cannot use the lot for anything until the squatters are given places to live.
-**Kingdom Skill** [[Politics]]; **Leader** Viceroy
+**Kingdom Skill** [[DATABASE/skill/Politics|Politics]]; **Leader** Viceroy
 **Critical Success** You find opportunities for the squatters to improve their lot in life.
 **Success** The squatters are removed from their lot, and they try to relocate and reintegrate with other citizens, but there is some strife. Increase Unrest by 1.
 **Failure** The squatters refuse to leave their lot and other citizens are split, with some decrying their mistreatment while others call for harsh measures to drive them out. Increase Unrest by 1d4.

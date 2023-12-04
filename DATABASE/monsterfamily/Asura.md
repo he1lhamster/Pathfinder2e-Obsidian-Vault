@@ -3,6 +3,7 @@ creature_family: Asura
 id: '218'
 name: Asura
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Asura
 
-**Source** [[Bestiary 3]]
-Asuras are, above all, proof that the gods are not infallible. These fiends arose as physical manifestations of divine accidents, taking form when the gods themselves stumbled and blasphemed on a cosmic scale. As a result of their own divine genesis, an asura loves above all to undo the workings of the divine. They eagerly travel to the [[Material Plane]], seeking out temples, congregations of faithful worshippers, and religious orders of all stripes to sow doubt and destroy what the gods seek to build.
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
+Asuras are, above all, proof that the gods are not infallible. These fiends arose as physical manifestations of divine accidents, taking form when the gods themselves stumbled and blasphemed on a cosmic scale. As a result of their own divine genesis, an asura loves above all to undo the workings of the divine. They eagerly travel to the [[DATABASE/plane/Material Plane|Material Plane]], seeking out temples, congregations of faithful worshippers, and religious orders of all stripes to sow doubt and destroy what the gods seek to build.
 
 ### Members
 
-[[Adhukait]] (Creature 7), [[Japalisura]] (Creature 12), [[Nikaramsa]] (Creature 14), [[Shaukeen]] (Creature 1)
+[[DATABASE/monster/Adhukait|Adhukait]] (Creature 7), [[DATABASE/monster/Japalisura|Japalisura]] (Creature 12), [[DATABASE/monster/Nikaramsa|Nikaramsa]] (Creature 14), [[DATABASE/monster/Shaukeen|Shaukeen]] (Creature 1)
 
 ###  Asura Ranas
 
@@ -23,7 +24,7 @@ Over time, the mightiest asuras complete enough cycles of reincarnation and comm
 
 ###  Asura Realms
 
-Asuras command vast empires in the corners of [[Hell]]. While their realms are tiny compared to the massive hierarchy of [[Asmodeus]] and [[Devil]], they exist in a tacit agreement of coexistence with their diabolic neighbors.
+Asuras command vast empires in the corners of [[DATABASE/plane/Hell|Hell]]. While their realms are tiny compared to the massive hierarchy of [[DATABASE/deity/Asmodeus|Asmodeus]] and [[DATABASE/monsterfamily/Devil|devilkind]], they exist in a tacit agreement of coexistence with their diabolic neighbors.
 
 ###  Asura Rebirth
 

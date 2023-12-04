@@ -2,6 +2,7 @@
 id: '68'
 name: Munavri
 rarity: Rare
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -10,9 +11,9 @@ type: Language
 ---
 # Munavri
 
-**Source** [[Bestiary 3]]
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
 The below entries contain speakers of Munavri.
 
 ## Monsters (2)
 
-[[Ashrin]], [[Munavri Spellblade]]
+[[DATABASE/monster/Ashrin|Ashrin]], [[DATABASE/monster/Munavri Spellblade|Munavri Spellblade]]

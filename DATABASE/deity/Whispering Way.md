@@ -15,6 +15,7 @@ follower_alignment:
 id: '24'
 name: Whispering Way
 rarity: Common
+rus_type_level: null
 skill: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait: null
@@ -23,7 +24,7 @@ type: Deity
 ---
 # Whispering Way [No Alignment]
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 These cultists believe undeath is the truest form of existence, and life is meant to be spent in preparation for transition to a more glorious unlife after death.
 **Category** Faiths & Philosophies
 **Edicts** seek methods to become undead (a lich if possible), oppose those who seek to destroy undead, protect necromantic secrets, serve the Whispering Tyrant

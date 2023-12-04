@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Magaambyan Attendant Dedication|Magaambyan Attend
   Dedication]] ; Cascade Bearersaffiliation'
 rarity: Common
 requirement: "You haven\u2019t yet acted on your turn."
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 subcategory: null
@@ -25,10 +26,10 @@ type: Feat
 # Cascade Bearer's Flexibility <span class="action-icon">4</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Metamagic</span>
-**Source** [[Character Guide]] 
-**Archetype** [[Magaambyan Attendant]]
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
+**Archetype** [[DATABASE/archetype/Magaambyan Attendant|Magaambyan Attendant]]
 **Frequency** once per day
-**Prerequisites** [[Magaambyan Attendant Dedication]]; Cascade Bearers affiliation
+**Prerequisites** [[DATABASE/feat/Magaambyan Attendant Dedication|Magaambyan Attendant Dedication]]; Cascade Bearers affiliation
 **Requirements** You haven’t yet acted on your turn.
 
 ---

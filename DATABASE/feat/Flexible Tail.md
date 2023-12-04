@@ -11,6 +11,7 @@ name: Flexible Tail
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,14 +24,14 @@ type: Feat
 # Flexible Tail <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Lizardfolk</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
 You can perform simple Interact actions with your tail, such as opening an unlocked door. Your tail can't perform actions that require fingers or significant manual dexterity, including any action that would require a check to accomplish, and you can't use it to hold items.
 
 ## Flexible Tail Leads To...
 
-[[Dangle]]
+[[DATABASE/feat/Dangle|Dangle]]
 
 ## Traits
 

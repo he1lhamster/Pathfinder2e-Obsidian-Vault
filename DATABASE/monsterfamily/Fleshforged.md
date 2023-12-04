@@ -3,6 +3,7 @@ creature_family: Fleshforged
 id: '329'
 name: Fleshforged
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 trait: null
 type: Creature Family
@@ -10,8 +11,8 @@ type: Creature Family
 ---
 # Fleshforged
 
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 
 ### Members
 
-[[Fleshforged Conformer]] (Creature 8), [[Fleshforged Dreadnought]] (Creature 18), [[Fleshforged Skinskitter]] (Creature 1)
+[[DATABASE/monster/Fleshforged Conformer|Fleshforged Conformer]] (Creature 8), [[DATABASE/monster/Fleshforged Dreadnought|Fleshforged Dreadnought]] (Creature 18), [[DATABASE/monster/Fleshforged Skinskitter|Skinskitter]] (Creature 1)

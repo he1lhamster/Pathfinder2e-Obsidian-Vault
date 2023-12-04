@@ -8,6 +8,7 @@ name: Bullying Press
 rarity: Common
 requirement: "You\u2019re in a duel, you\u2019re trained in Intimidation, and you\
   \ rolled an Intimidation check for initiativethis round."
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
@@ -20,7 +21,7 @@ type: Action
 # Bullying Press <span class="action-icon">5</span>
 
 <span class="item-trait">Flourish</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Trigger** You attempt a melee Strike against your opponent, but haven’t rolled yet.
 **Requirements** You’re in a duel, you’re trained in Intimidation, and you rolled an Intimidation check for initiative this round.
 

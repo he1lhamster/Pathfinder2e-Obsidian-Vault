@@ -12,6 +12,7 @@ prerequisite: Expert in [[DATABASE/skill/Religion|Religion]] ; follower of a spe
   religion
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: religion
@@ -25,11 +26,11 @@ type: Feat
 # Exhort the Faithful <span class="item-type">Feat 2</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** expert in [[Religion]]; follower of a specific religion
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** expert in [[DATABASE/skill/Religion|Religion]]; follower of a specific religion
 
 ---
-Your knowledge of the tenets of your faith gives you insight into the best ways to get others of your faith to help you or to follow your directions. When you [[Request]] something of or [[Coerce]] members of your own faith, you can attempt a [[Religion]] check instead of [[Diplomacy]] or [[Intimidation]], and you gain a +2 circumstance bonus to the check. On a critically failed attempt to make a Request, the target's attitude toward you doesn't worsen.
+Your knowledge of the tenets of your faith gives you insight into the best ways to get others of your faith to help you or to follow your directions. When you [[DATABASE/action/Request|Request]] something of or [[DATABASE/action/Coerce|Coerce]] members of your own faith, you can attempt a [[DATABASE/skill/Religion|Religion]] check instead of [[DATABASE/skill/Diplomacy|Diplomacy]] or [[DATABASE/skill/Intimidation|Intimidation]], and you gain a +2 circumstance bonus to the check. On a critically failed attempt to make a Request, the target's attitude toward you doesn't worsen.
 
 ## Traits
 

@@ -11,6 +11,7 @@ name: Ritual Reversion
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 subcategory: null
@@ -26,10 +27,10 @@ type: Feat
 # Ritual Reversion <span class="action-icon">2</span> <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Leshy</span><span class="item-trait">Polymorph</span><span class="item-trait">Primal</span><span class="item-trait">Transmutation</span>
-**Source** [[Character Guide]]
+**Source** [[DATABASE/source/Character Guide|Character Guide]]
 
 ---
-You can temporarily revert to a less conspicuous form without diminishing your senses. You take the form of an ordinary specimen of the type of plant or fungus that most closely resembles you, reverting to your body’s appearance just before your spirit joined with it. This otherwise has the effects of [[Tree Shape]], except that your size remains Small.
+You can temporarily revert to a less conspicuous form without diminishing your senses. You take the form of an ordinary specimen of the type of plant or fungus that most closely resembles you, reverting to your body’s appearance just before your spirit joined with it. This otherwise has the effects of [[DATABASE/spell/Tree Shape|tree shape]], except that your size remains Small.
 
 ## Traits
 

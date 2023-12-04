@@ -11,6 +11,7 @@ name: Defensive Instincts
 prerequisite: null
 rarity: Common
 requirement: you are adjacent to at least two enemies
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Defensive Instincts <span class="action-icon">1</span> <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Goloma</span>
-**Source** [[The Mwangi Expanse]] 
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]] 
 **Requirements** you are adjacent to at least two enemies
 
 ---

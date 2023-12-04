@@ -11,6 +11,7 @@ name: Ursine Avenger Form
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 subcategory: null
@@ -27,15 +28,15 @@ type: Feat
 # Ursine Avenger Form <span class="action-icon">1</span> <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Artifact</span><span class="item-trait">Morph</span><span class="item-trait">Primal</span><span class="item-trait">Transmutation</span>
-**Source** [[Treasure Vault]] 
-**Archetype** [[Ursine Avenger Hood]]
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
+**Archetype** [[DATABASE/archetype/Ursine Avenger Hood|Ursine Avenger Hood]]
 
 ---
-You draw the _[[Ursine Avenger Hood]]_ over your head and its fur over your arms, assuming an ursine form that has traits of your original form as well as that of a bear. In your ursine form, you gain a jaws unarmed attack that deals 1d8 piercing damage and a claws unarmed attack that deals 1d6 slashing damage and has the agile trait. Both unarmed attacks are in the [[Brawling]] group. You lose the ability to speak complex sentences while transformed and can only communicate through grunts and gestures; this prevents you from using effects that require a shared or spoken language until you revert back to your non-hybrid form. You can use this action while transformed to remove the hood and return to your original form.
+You draw the _[[DATABASE/equipment/Ursine Avenger Hood|Ursine Avenger Hood]]_ over your head and its fur over your arms, assuming an ursine form that has traits of your original form as well as that of a bear. In your ursine form, you gain a jaws unarmed attack that deals 1d8 piercing damage and a claws unarmed attack that deals 1d6 slashing damage and has the agile trait. Both unarmed attacks are in the [[DATABASE/weapongroup/Brawling|brawling]] group. You lose the ability to speak complex sentences while transformed and can only communicate through grunts and gestures; this prevents you from using effects that require a shared or spoken language until you revert back to your non-hybrid form. You can use this action while transformed to remove the hood and return to your original form.
 
 ## Ursine Avenger Form Leads To...
 
-[[Fearsome Fangs]], [[Great Bear]], [[Immortal Bear]], [[Terrible Transformation]]
+[[DATABASE/feat/Fearsome Fangs|Fearsome Fangs]], [[DATABASE/feat/Great Bear|Great Bear]], [[DATABASE/feat/Immortal Bear|Immortal Bear]], [[DATABASE/feat/Terrible Transformation|Terrible Transformation]]
 
 ## Traits
 

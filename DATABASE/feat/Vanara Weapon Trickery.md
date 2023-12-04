@@ -11,6 +11,7 @@ name: Vanara Weapon Trickery
 prerequisite: '[[DATABASE/feat/Vanara Weapon Familiarity|Vanara Weapon Familiarity]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -23,11 +24,11 @@ type: Feat
 # Vanara Weapon Trickery <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Vanara</span>
-**Source** [[Impossible Lands]]
-**Prerequisites** [[Vanara Weapon Familiarity]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
+**Prerequisites** [[DATABASE/feat/Vanara Weapon Familiarity|Vanara Weapon Familiarity]]
 
 ---
-You've learned how to trick your foes using vanara weapons. Whenever you critically hit using a [[Bo Staff]], [[Chakram]], [[Katar]], [[Panabas]], [[Urumi]], or vanara weapon, you apply the weapon's critical specialization effect.
+You've learned how to trick your foes using vanara weapons. Whenever you critically hit using a [[DATABASE/weapon/Bo Staff|bo staff]], [[DATABASE/weapon/Chakram|chakram]], [[DATABASE/weapon/Katar|katar]], [[DATABASE/weapon/Panabas|panabas]], [[DATABASE/weapon/Urumi|urumi]], or vanara weapon, you apply the weapon's critical specialization effect.
 
 ## Traits
 

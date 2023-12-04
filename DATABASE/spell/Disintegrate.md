@@ -26,6 +26,7 @@ patron_theme: null
 range: 120 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Fortitude
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -42,17 +43,17 @@ type: Spell
 # Disintegrate<span class="item-type">Spell 6</span>
 
 <span class="item-trait">Attack</span><span class="item-trait">Evocation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane
-**Bloodlines** [[Demonic]], [[Imperial]], [[Phoenix]]
-**Deities** [[Kerkamoth]], [[Rovagug]], [[Set]], [[Sorrow's Sword]]
+**Bloodlines** [[DATABASE/sorcererbloodline/Demonic|demonic]], [[DATABASE/sorcererbloodline/Imperial|imperial]], [[DATABASE/sorcererbloodline/Phoenix|phoenix]]
+**Deities** [[DATABASE/deity/Kerkamoth|Kerkamoth]], [[DATABASE/deity/Rovagug|Rovagug]], [[DATABASE/deity/Set|Set]], [[DATABASE/deity/Sorrow's Sword|Sorrow's Sword]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 120 feet; **Targets** 1 creature or unattended object
 **Saving Throw** Fortitude
 
 ---
 You fire a green ray at your target. Make a spell attack. On a hit, you deal 12d10 damage, and the target must attempt a basic Fortitude save. On a critical hit, treat the save result as one degree worse. A creature reduced to 0 HP is reduced to fine powder; its gear remains.
- An object you hit is destroyed (no save), regardless of Hardness, unless it's an artifact or similarly hard to destroy. A single casting can destroy no more than a 10-foot cube of matter. This automatically destroys any force construct, such as a [[Wall of Force]].
+ An object you hit is destroyed (no save), regardless of Hardness, unless it's an artifact or similarly hard to destroy. A single casting can destroy no more than a 10-foot cube of matter. This automatically destroys any force construct, such as a [[DATABASE/spell/Wall of Force|wall of force]].
 
 ---
 **Heightened (+1)** The damage increases by 2d10.

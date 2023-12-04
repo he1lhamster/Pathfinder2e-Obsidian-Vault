@@ -69,25 +69,25 @@ wisdom: '+1'
 # Desiak
 
 This creature did not include a description.
-**Recall Knowledge - Aberration ([[Occultism]])**: DC 34
+**Recall Knowledge - Aberration ([[DATABASE/skill/Occultism|Occultism]])**: DC 34
 **Unspecific Lore**: DC 32
 **Specific Lore**: DC 29
 
 # Desiak<span class="item-type">Creature 8</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Aberration</span><span class="item-trait">Human</span>
-**Source** [[Pathfinder 176. Lost Mammoth Valley]]
+**Source** [[DATABASE/source/Pathfinder 176. Lost Mammoth Valley|Pathfinder #176: Lost Mammoth Valley]]
 Male fleshwarp warrior
 **Perception** +16; low-light vision
-**Languages** [[Common]], [[Hallit]], [[Necril]]
-**Skills** [[Acrobatics]] +18, [[Athletics]] +16, [[Intimidation]] +12, [[Stealth]] +14
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Hallit|Hallit]], [[DATABASE/language/Necril|Necril]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +18, [[DATABASE/skill/Athletics|Athletics]] +16, [[DATABASE/skill/Intimidation|Intimidation]] +12, [[DATABASE/skill/Stealth|Stealth]] +14
 **Str** +4, **Dex** +4, **Con** +3, **Int** +2, **Wis** +1, **Cha** +0
-**Items** _+1 [[Breastplate]]_, bone [[Religious Symbol]] ([[Venexus]]), [[Runescribed Disk]]
+**Items** _+1 [[DATABASE/armor/Breastplate|breastplate]]_, bone [[DATABASE/equipment/Religious Symbol|religious symbol]] ([[DATABASE/monster/Venexus|Venexus]]), [[DATABASE/equipment/Runescribed Disk|runescribed disk]]
 
 ---
 **AC** 27; **Fort** +16, **Ref** +18, **Will** +13; +1 status to all saves vs. disease and poisons
 **HP** 135; **Resistances** negative 4
-<span class="in-box-ability">[[Attack of Opportunity]] <span class="action-icon">5</span> </span>
+<span class="in-box-ability">[[DATABASE/monsterability/Attack of Opportunity|Attack of Opportunity]] <span class="action-icon">5</span> </span>
 
 ---
 **Speed** 25 feet

@@ -13,6 +13,7 @@ name: Ballista
 price: 320 gp
 rarity: Uncommon
 reflex: '+11'
+rus_type_level: null
 size: Large
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
@@ -25,7 +26,7 @@ usage: mounted
 # Ballista<span class="item-type">Item 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-size item-trait">Large</span><span class="item-trait">Mounted</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 320 gp; **Ammunition** ballista bolt (5 sp, 1 Bulk)
 
 ---

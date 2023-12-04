@@ -11,6 +11,7 @@ name: Safeguarded Spell
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,7 +26,7 @@ type: Feat
 # Safeguarded Spell <span class="action-icon">1</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Metamagic</span><span class="item-trait">Sorcerer</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
 You bring the magical wavelengths of your spell into sync with the ones produced by your own body. If the next action you take is to Cast a Spell with an area, you aren't affected by the spell even if you are within the area.

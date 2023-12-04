@@ -11,6 +11,7 @@ name: Stoked Flame Stance
 prerequisite: null
 rarity: Common
 requirement: You're unarmored.
+rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -26,17 +27,17 @@ type: Feat
 # Stoked Flame Stance <span class="action-icon">1</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Evocation</span><span class="item-trait">Fire</span><span class="item-trait">Monk</span><span class="item-trait">Stance</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Requirements** You're unarmored.
 
 ---
-You enter a stance of fast, fiery movements. You can make flashing spark attacks that deal 1d8 slashing damage. They are in the [[Brawling]] group and have the forceful, nonlethal, sweep, and unarmed traits. If you have access to the flashing sparks' critical specialization effect, you can take an alternate effect instead: if your critical Strike dealt damage, the target takes 1d6 [[Persistent Damage]].
- While in Stoked Flame Stance, you gain a +5-foot status bonus to your Speed. If you have [[Monk]], increase the benefit from incredible movement to a +15-foot status bonus plus 5 feet for every 4 levels beyond 3rd.
+You enter a stance of fast, fiery movements. You can make flashing spark attacks that deal 1d8 slashing damage. They are in the [[DATABASE/weapongroup/Brawling|brawling]] group and have the forceful, nonlethal, sweep, and unarmed traits. If you have access to the flashing sparks' critical specialization effect, you can take an alternate effect instead: if your critical Strike dealt damage, the target takes 1d6 [[DATABASE/condition/Persistent Damage|persistent fire damage]].
+ While in Stoked Flame Stance, you gain a +5-foot status bonus to your Speed. If you have [[DATABASE/class_/Monk|incredible movement]], increase the benefit from incredible movement to a +15-foot status bonus plus 5 feet for every 4 levels beyond 3rd.
 **Special** This feat gains your choice of either the divine or occult trait, matching your ki spell tradition if possible.
 
 ## Stoked Flame Stance Leads To...
 
-[[Blazing Streak]], [[Inner Fire (SoM)]]
+[[DATABASE/feat/Blazing Streak|Blazing Streak]], [[DATABASE/feat/Inner Fire (SoM)|Inner Fire (SoM)]]
 
 ## Traits
 

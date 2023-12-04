@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 size: null
@@ -57,7 +58,7 @@ weapon_type: null
 # Festrem Mortu<span class="item-type">Item 6</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Cursed</span><span class="item-trait">Grimoire</span><span class="item-trait">Magical</span><span class="item-trait">Necromancy</span>
-**Source** [[Pathfinder 194. Cult of the Cave Worm]]
+**Source** [[DATABASE/source/Pathfinder 194. Cult of the Cave Worm|Pathfinder #194: Cult of the Cave Worm]]
 **Price** 230 gp
 **Bulk** L
 

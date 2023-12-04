@@ -11,6 +11,7 @@ name: Community Knowledge
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Divination
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -26,7 +27,7 @@ type: Feat
 # Community Knowledge <span class="action-icon">5</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Divination</span><span class="item-trait">Kashrishi</span><span class="item-trait">Occult</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 **Frequency** once per hour
 **Trigger** You attempt a skill check requiring 3 actions or fewer.
 

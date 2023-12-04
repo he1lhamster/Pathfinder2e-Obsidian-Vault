@@ -70,16 +70,16 @@ wisdom: '+1'
 # Viper
 
 Each member of this family of venomous snakes has long, hinged fangs that inject potent venom in their prey. Different vipers inject different types of venom, which might result in paralysis, extreme pain and swelling, blood clotting, or even the sudden stopping of the victim’s heart.
-**Recall Knowledge - Animal ([[Nature]])**: DC 13
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 13
 **Unspecific Lore**: DC 11
 **Specific Lore**: DC 8
 
 # Viper<span class="item-type">Creature -1</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Tiny</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +5; low-light vision, scent (imprecise) 30 feet
-**Skills** [[Acrobatics]] +5, [[Athletics]] +1 (+4 to Climb), [[Stealth]] +5, [[Survival]] +3
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +5, [[DATABASE/skill/Athletics|Athletics]] +1 (+4 to Climb), [[DATABASE/skill/Stealth|Stealth]] +5, [[DATABASE/skill/Survival|Survival]] +3
 **Str** -3, **Dex** +4, **Con** +0, **Int** -4, **Wis** +1, **Cha** -2
 
 ---

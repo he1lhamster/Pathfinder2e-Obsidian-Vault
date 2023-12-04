@@ -11,6 +11,7 @@ name: Tactical Cadence
 prerequisite: '[[DATABASE/feat/Cadence Call|Cadence Call]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,12 +24,12 @@ type: Feat
 # Tactical Cadence <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Marshal]]
-**Prerequisites** [[Cadence Call]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Marshal|Marshal]]
+**Prerequisites** [[DATABASE/feat/Cadence Call|Cadence Call]]
 
 ---
-Your remarkable breath control and concise instructions allow you to coordinate your allies more effectively. When you grant allies the [[Quickened]] condition using [[Cadence Call]], they can use the extra action to either Stride or Strike, and they aren't [[Slowed]] on their following turn if they use the extra action.
+Your remarkable breath control and concise instructions allow you to coordinate your allies more effectively. When you grant allies the [[DATABASE/condition/Quickened|quickened]] condition using [[DATABASE/feat/Cadence Call|Cadence Call]], they can use the extra action to either Stride or Strike, and they aren't [[DATABASE/condition/Slowed|slowed 1]] on their following turn if they use the extra action.
 
 ## Traits
 

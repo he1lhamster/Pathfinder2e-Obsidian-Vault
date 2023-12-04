@@ -19,6 +19,7 @@ patron_theme: null
 range: 60 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
@@ -38,7 +39,7 @@ type: Spell
 # Falsify Heat<span class="item-type">Spell 2</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Fire</span><span class="item-trait">Illusion</span><span class="item-trait">Manipulate</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Traditions** arcane, primal
 **Cast** <span class="action-icon">2</span> 
 **Range** 60 feet; **Targets** 1 willing creature or object
@@ -47,7 +48,7 @@ type: Spell
 ---
 You veil the signs of the fires of vitality, altering the target's apparent body temperature. This illusion applies to all senses, and a creature that touches the target can attempt to disbelieve the illusion. You can Dismiss the spell. Choose an illusory body temperature when you cast the spell.
 
-* **Moderate** The target's body temperature appears the same as the surrounding environment, giving the target a +2 circumstance bonus to [[Deception]] checks to [[Impersonate]] an undead, a cold-blooded creature, or an inanimate object (such as a corpse). The target is also invisible to [[Heatvision]] and other abilities that sense heat similarly.
+* **Moderate** The target's body temperature appears the same as the surrounding environment, giving the target a +2 circumstance bonus to [[DATABASE/skill/Deception|Deception]] checks to [[DATABASE/action/Impersonate|Impersonate]] an undead, a cold-blooded creature, or an inanimate object (such as a corpse). The target is also invisible to [[DATABASE/spell/Heatvision|heatvision]] and other abilities that sense heat similarly.
 * **Warm** The target appears to emit substantial body heat, gaining a +2 circumstance bonus to Deception checks to Impersonate a warm-blooded creature.
 
 ---

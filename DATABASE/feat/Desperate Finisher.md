@@ -11,6 +11,7 @@ name: Desperate Finisher
 prerequisite: null
 rarity: Common
 requirement: You meet the requirements to use an action with the press trait.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Desperate Finisher <span class="action-icon">5</span> <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Fighter</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Trigger** You complete the last action on your turn, and your turn has not ended yet.
 **Requirements** You meet the requirements to use an action with the press trait.
 

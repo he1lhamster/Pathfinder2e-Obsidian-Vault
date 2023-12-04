@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Dragon's Breath Potion<span class="item-type">Item 7+</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Evocation</span><span class="item-trait">Magical</span><span class="item-trait">Potion</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
@@ -65,28 +66,29 @@ Exhaling dragon breath uses a single action. The damage type and the area of the
 
 ## Dragon's Breath Potion
 
-| Dragon Type     | Breath Weapon (Save)                 |
+| 0 | 1 |
 |:----------------|:-------------------------------------|
-| Black or copper | 30-foot line of acid (Reflex)        |
-| Blue or bronze  | 30-foot line of electricity (Reflex) |
-| Brass           | 30-foot line of fire (Reflex)        |
-| Green           | 15-foot cone of poison (Fortitude)   |
-| Gold or red     | 15-foot cone of fire (Reflex)        |
-| Silver or white | 15-foot cone of cold (Reflex)        |
+| Dragon Type | Breath Weapon (Save) |
+| Black or copper | 30-foot line of acid (Reflex) |
+| Blue or bronze | 30-foot line of electricity (Reflex) |
+| Brass | 30-foot line of fire (Reflex) |
+| Green | 15-foot cone of poison (Fortitude) |
+| Gold or red | 15-foot cone of fire (Reflex) |
+| Silver or white | 15-foot cone of cold (Reflex) |
 
 ## Dragon's Breath Potion (Young)<span class="item-type">Item 7</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 70 gp
 
 ## Dragon's Breath Potion (Adult)<span class="item-type">Item 12</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 400 gp
 The damage is 6d6 and the save DC is 29.
 
 ## Dragon's Breath Potion (Wyrm)<span class="item-type">Item 17</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 3,000 gp
 The damage is 10d6 and the save DC is 37.

@@ -22,6 +22,7 @@ patron_theme: null
 range: 500 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -41,7 +42,7 @@ type: Spell
 # Locate<span class="item-type">Spell 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Detection</span><span class="item-trait">Divination</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, divine, occult
 **Cast** 10 minutes (material, somatic, verbal)
 **Range** 500 feet; **Targets** 1 specific object or type of object

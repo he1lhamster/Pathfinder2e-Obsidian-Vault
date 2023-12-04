@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Spellmaster Dedication|Spellmaster Dedication]]'
 rarity: Common
 requirement: An enemy's action disrupted your attempts to Cast a Spell since the beginning
   of your last turn.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
 subcategory: null
@@ -26,13 +27,13 @@ type: Feat
 # Recover Spell <span class="action-icon">1</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Concentrate</span><span class="item-trait">Metamagic</span>
-**Source** [[PFS Guide]]
-**Archetype** [[Spellmaster]]
-**Prerequisites** [[Spellmaster Dedication]]
+**Source** [[DATABASE/source/PFS Guide|PFS Guide]]
+**Archetype** [[DATABASE/archetype/Spellmaster|Spellmaster]]
+**Prerequisites** [[DATABASE/feat/Spellmaster Dedication|Spellmaster Dedication]]
 **Requirements** An enemy's action disrupted your attempts to Cast a Spell since the beginning of your last turn.
 
 ---
-You recover the energy of a recently disrupted spell, allowing you to cast it again as long as you do so immediately before the energy dissipates. You regain the use of a spell that was disrupted since the beginning of your last turn, but you must immediately Cast the Spell again with your next action or else you lose the spell; as normal for metamagic, this must be on the same turn that you use Recover Spell. You can change the area, targets, and other variables, including the number of actions used to Cast the Spell if the spell allows, such as when casting [[Heal]] or [[Magic Missile]].
+You recover the energy of a recently disrupted spell, allowing you to cast it again as long as you do so immediately before the energy dissipates. You regain the use of a spell that was disrupted since the beginning of your last turn, but you must immediately Cast the Spell again with your next action or else you lose the spell; as normal for metamagic, this must be on the same turn that you use Recover Spell. You can change the area, targets, and other variables, including the number of actions used to Cast the Spell if the spell allows, such as when casting [[DATABASE/spell/Heal|heal]] or [[DATABASE/spell/Magic Missile|magic missile]].
 
 ## Traits
 

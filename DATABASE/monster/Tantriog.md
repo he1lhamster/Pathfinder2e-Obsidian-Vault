@@ -100,17 +100,17 @@ Wherever exquisite cuisine is consumed, amazing songs are performed, or epic wav
  If one possesses rare art, lost lore, or fantastic surfing or cooking skills, a tantriog can be a wonderful companion. They're charming and friendly to those they find interesting, but their interest can be highly precarious, dropped the second someone bores them. Tantriogs may even betray acquaintances if it would give them another interesting story to tell. This makes befriending one a tricky proposition, as nothing can be taken for granted.
  It's a mystery how tantriogs came to wear their current forms. Some say that, in the earliest days of the elemental planes, tantriogs were assassins of ice and mist who committed a crime so great that they're being punished for it to this day. Others claim tantriogs assumed their shape after losing a bizarre cosmic bet. One of the more popular theories about the tantriog's current form is that in the past, they used to be able to shift shape as easily as water molds to its container. In their endless boredom, they were trying out a variety of shapes when a sudden curse (possibly cast by faydhaans) caused them to lose their ability while transforming from a turtle to a crab, leaving them stuck between the two. It's said that any who can teach a tantriog how to relearn their morphing ability could earn the elemental's undying friendship. Whatever the case, the surest way to anger a tantriog is to ask them about their appearance.
  Conversely, the surest way to befriend a tantriog is with compliments about their appearance or their skills. Don't be too fawning, though. Tantriogs don't like being tricked or made to look a fool.
-**Recall Knowledge - Elemental ([[Arcana]], [[Nature]])**: DC 23
+**Recall Knowledge - Elemental ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 23
 **Unspecific Lore**: DC 21
 **Specific Lore**: DC 18
 
 # Tantriog<span class="item-type">Creature 7</span>
 
 <span class="trait-size item-trait">Medium</span><span class="item-trait">Amphibious</span><span class="item-trait">Elemental</span><span class="item-trait">Water</span>
-**Source** [[Rage of Elements]]
-**Perception** +16; [[All-Around Vision]]
-**Languages** [[Thalassic]]
-**Skills** [[Lore]] +15, [[Lore]] +17, [[Deception]] +16, [[Diplomacy]] +14, [[Performance]] +14
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
+**Perception** +16; [[DATABASE/monsterability/All-Around Vision|all-around vision]]
+**Languages** [[DATABASE/language/Thalassic|Thalassic]]
+**Skills** [[DATABASE/skill/Lore|Art Lore]] +15, [[DATABASE/skill/Lore|Cooking Lore]] +17, [[DATABASE/skill/Deception|Deception]] +16, [[DATABASE/skill/Diplomacy|Diplomacy]] +14, [[DATABASE/skill/Performance|Performance]] +14
 **Str** +3, **Dex** +3, **Con** +3, **Int** +4, **Wis** +1, **Cha** +5
 
 ---
@@ -119,8 +119,8 @@ Wherever exquisite cuisine is consumed, amazing songs are performed, or epic wav
 
 ---
 **Speed** 20 feet, swim 40 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +15 [+10/+5], **Damage** 5d6+5 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> beak +15 [+10/+5], **Damage** 5d4+5 piercing plus listless saliva</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> spitball +13 [+8/+3] (range 20 feet), **Damage** 4d6+5 bludgeoning plus listless saliva</span>**Primal Innate Spells** DC 25; **3rd** _[[Wall of Water]]_ (×3); **Cantrips** **(2nd)** _[[Spout]]_
-<span class="in-box-ability">**Listless Saliva** (emotion, mental) The tantriog's essence is imbued with their endless ennui. Any creature hit by the tantriog's beak or spitball Strikes must succeed at a DC 24 Will save or become [[Stunned]] (stunned 2 on a critical failure).</span><span class="in-box-ability">**Shell Defense** <span class="action-icon">1</span> The tantriog retracts their limbs and head into their shell and ends their turn. This increases their AC to 26, but they can't act except to reemerge, which they can do as a single action.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +15 [+10/+5], **Damage** 5d6+5 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> beak +15 [+10/+5], **Damage** 5d4+5 piercing plus listless saliva</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> spitball +13 [+8/+3] (range 20 feet), **Damage** 4d6+5 bludgeoning plus listless saliva</span>**Primal Innate Spells** DC 25; **3rd** _[[DATABASE/spell/Wall of Water|wall of water]]_ (×3); **Cantrips** **(2nd)** _[[DATABASE/spell/Spout|spout]]_
+<span class="in-box-ability">**Listless Saliva** (emotion, mental) The tantriog's essence is imbued with their endless ennui. Any creature hit by the tantriog's beak or spitball Strikes must succeed at a DC 24 Will save or become [[DATABASE/condition/Stunned|stunned 1]] (stunned 2 on a critical failure).</span><span class="in-box-ability">**Shell Defense** <span class="action-icon">1</span> The tantriog retracts their limbs and head into their shell and ends their turn. This increases their AC to 26, but they can't act except to reemerge, which they can do as a single action.</span>
 
 ###  Impressing a Tantriog
 

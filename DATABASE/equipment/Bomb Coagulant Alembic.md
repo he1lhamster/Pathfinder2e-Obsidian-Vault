@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -53,9 +54,9 @@ weapon_type: null
 # Bomb Coagulant Alembic<span class="item-type">Item 5</span>
 
 <span class="item-trait">Additive 0</span><span class="item-trait">Alchemical</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 150 gp
 **Usage** held in 2 hands; **Bulk** L
 
 ---
-This apparatus increases the viscosity of the reagents in alchemical bombs, to deadly effect. As a 10-minute activity that has the manipulate trait, you can use a bomb coagulant alembic to distill the contents of one alchemical bomb that deals splash damage into a stickier substance. After distilling, the bomb deals no splash damage but instead deals [[Persistent Damage]] equal to and of the same type as its original splash damage. If the bomb already deals persistent damage, distilling increases that damage by the bomb's original splash damage.
+This apparatus increases the viscosity of the reagents in alchemical bombs, to deadly effect. As a 10-minute activity that has the manipulate trait, you can use a bomb coagulant alembic to distill the contents of one alchemical bomb that deals splash damage into a stickier substance. After distilling, the bomb deals no splash damage but instead deals [[DATABASE/condition/Persistent Damage|persistent damage]] equal to and of the same type as its original splash damage. If the bomb already deals persistent damage, distilling increases that damage by the bomb's original splash damage.

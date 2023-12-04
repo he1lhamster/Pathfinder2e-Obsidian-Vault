@@ -11,6 +11,7 @@ name: Quick Stow (Ratfolk)
 prerequisite: '[[DATABASE/feat/Cheek Pouches|Cheek Pouches]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Quick Stow (Ratfolk) <span class="action-icon">4</span> <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Ratfolk</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Frequency** once per round
-**Prerequisites** [[Cheek Pouches]]
+**Prerequisites** [[DATABASE/feat/Cheek Pouches|Cheek Pouches]]
 
 ---
 You are adept at quickly moving items into your cheek pouches. You Interact to store one held item in your cheek pouches (provided it fits).

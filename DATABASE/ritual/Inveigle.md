@@ -13,6 +13,7 @@ primary_check: '[[DATABASE/skill/Arcana|Arcana]] (expert), [[DATABASE/skill/Occu
 range: 10 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: Enchantment
 secondary_casters: null
 secondary_check: null
@@ -28,9 +29,9 @@ type: Ritual
 # Inveigle<span class="item-type">Ritual 2</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Enchantment</span><span class="item-trait">Mental</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Cast** 1 day; **Cost** rare oils worth a total value of 10 gp × the target’s level
-**Primary Check** [[Arcana]] (expert), [[Occultism]] (expert), or [[Religion]] (expert)
+**Primary Check** [[DATABASE/skill/Arcana|Arcana]] (expert), [[DATABASE/skill/Occultism|Occultism]] (expert), or [[DATABASE/skill/Religion|Religion]] (expert)
 **Range** 10 feet; **Target(s)** 1 creature of a level no greater than double the _inveigle_ ritual’s level
 **Duration** 1 year or until dismissed
 

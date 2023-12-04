@@ -11,6 +11,7 @@ name: Long-Nosed Form
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -27,14 +28,14 @@ type: Feat
 # Long-Nosed Form <span class="action-icon">1</span> <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Polymorph</span><span class="item-trait">Primal</span><span class="item-trait">Tengu</span><span class="item-trait">Transmutation</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
-You can transform into a specific, curious-looking human form. This human form is the same age and body type as your tengu form and has roughly analogous physical traits, such as height, though your nose remains as long as your beak and your complexion has red undertones, no matter the skin color of your human form. Using Long-Nosed Form counts as creating a disguise for the [[Impersonate]] use of [[Deception]]. Due to your imperfect transformation, your transformation doesn't automatically defeat Perception DCs to determine whether you are human, though you may be able to explain away or hide your tengu traits. You lose your beak unarmed Strike in your human form, as well as any other unarmed Strikes you gained from a tengu heritage or ancestry feat. You can remain in your human form indefinitely, and you can shift back to your tengu form by using this action again.
+You can transform into a specific, curious-looking human form. This human form is the same age and body type as your tengu form and has roughly analogous physical traits, such as height, though your nose remains as long as your beak and your complexion has red undertones, no matter the skin color of your human form. Using Long-Nosed Form counts as creating a disguise for the [[DATABASE/action/Impersonate|Impersonate]] use of [[DATABASE/skill/Deception|Deception]]. Due to your imperfect transformation, your transformation doesn't automatically defeat Perception DCs to determine whether you are human, though you may be able to explain away or hide your tengu traits. You lose your beak unarmed Strike in your human form, as well as any other unarmed Strikes you gained from a tengu heritage or ancestry feat. You can remain in your human form indefinitely, and you can shift back to your tengu form by using this action again.
 
 ## Long-Nosed Form Leads To...
 
-[[Great Tengu Form]]
+[[DATABASE/feat/Great Tengu Form|Great Tengu Form]]
 
 ## Traits
 

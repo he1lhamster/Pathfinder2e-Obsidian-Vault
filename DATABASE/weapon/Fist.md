@@ -32,6 +32,7 @@ name: Fist
 price: null
 range: null
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Agile|Agile]]'
@@ -47,11 +48,11 @@ weapon_type: Melee
 # Fist
 
 <span class="item-trait">Agile</span><span class="item-trait">Finesse</span><span class="item-trait">Nonlethal</span><span class="item-trait">Unarmed</span>
-**Source** [[Core Rulebook]] 
-**Favored Weapon** [[Angazhan]], [[Irori]], [[Korada]], [[Monad]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Favored Weapon** [[DATABASE/deity/Angazhan|Angazhan]], [[DATABASE/deity/Irori|Irori]], [[DATABASE/deity/Korada|Korada]], [[DATABASE/deity/Monad|Monad]]
 **Price** —; **Damage** 1d4 B; **Bulk** —
 **Hands** 1
-**Type** Melee; **Category** Unarmed; **Group** [[Brawling]]
+**Type** Melee; **Category** Unarmed; **Group** [[DATABASE/weapongroup/Brawling|Brawling]]
 
 ---
 
@@ -71,10 +72,10 @@ An effect with this trait is not inherently deadly. Damage from a nonlethal effe
 
 **Unarmed:**
 
-An unarmed attack uses your body rather than a manufactured weapon. An unarmed attack isn't a weapon, though it's categorized with weapons for weapon groups, and it might have weapon traits. Since it's part of your body, an unarmed attack can't be [[Disarm]]. It also doesn't take up a hand, though a fist or other grasping appendage generally works like a free-hand weapon.
+An unarmed attack uses your body rather than a manufactured weapon. An unarmed attack isn't a weapon, though it's categorized with weapons for weapon groups, and it might have weapon traits. Since it's part of your body, an unarmed attack can't be [[DATABASE/action/Disarm|Disarmed]]. It also doesn't take up a hand, though a fist or other grasping appendage generally works like a free-hand weapon.
 
 ## Critical Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
-**Brawling**: The target must succeed at a Fortitude save against your class DC or be [[Slowed]] until the end of your next turn.
+**Brawling**: The target must succeed at a Fortitude save against your class DC or be [[DATABASE/condition/Slowed|slowed 1]] until the end of your next turn.

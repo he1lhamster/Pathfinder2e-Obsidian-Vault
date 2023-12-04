@@ -11,6 +11,7 @@ name: Debilitating Shot
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,10 +25,10 @@ type: Feat
 # Debilitating Shot <span class="action-icon">2</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Fighter</span><span class="item-trait">Flourish</span>
-**Source** [[Core Rulebook]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
-Aiming for a weak point, you impede your foe with a precise shot. Make a ranged weapon Strike. If it hits and deals damage, the target is [[Slowed]] until the end of its next turn.
+Aiming for a weak point, you impede your foe with a precise shot. Make a ranged weapon Strike. If it hits and deals damage, the target is [[DATABASE/condition/Slowed|slowed 1]] until the end of its next turn.
 
 ## Traits
 

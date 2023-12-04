@@ -73,19 +73,19 @@ wisdom: '+2'
 # Guildmaster
 
 In cities, artisans working in a common trade often form guilds to set standards of quality, establish common prices, engage in collective bargaining with business owners, and lobby local governments for favorable laws. The guildmaster—often a master artisan in their own right—also acts as an administrator and politician, advocating for artisans in their trade. The guildmaster is a 12th-level challenge when competing in crafting or their area of expertise (architecture in the example below).
-**Recall Knowledge - Humanoid ([[Society]])**: DC 24
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 24
 **Unspecific Lore**: DC 22
 **Specific Lore**: DC 19
 
 # Guildmaster<span class="item-type">Creature 8</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Perception** +16
-**Languages** [[Common]]
-**Skills** [[Lore]] +25, [[Athletics]] +13, [[Lore]] +19, [[Crafting]] +25, [[Diplomacy]] +24, [[Intimidation]] +22, [[Society]] +21
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Lore|Architecture Lore]] +25, [[DATABASE/skill/Athletics|Athletics]] +13, [[DATABASE/skill/Lore|Bureaucracy Lore]] +19, [[DATABASE/skill/Crafting|Crafting]] +25, [[DATABASE/skill/Diplomacy|Diplomacy]] +24, [[DATABASE/skill/Intimidation|Intimidation]] +22, [[DATABASE/skill/Society|Society]] +21
 **Str** +3, **Dex** +1, **Con** +1, **Int** +4, **Wis** +2, **Cha** +3
-**Items** _+1 [[Striking]] [[Light Hammer]]_, guildmaster's uniform (functions as [[Hide Armor]]), [[Artisan's Tools]], construction schematics, tax ledgers
+**Items** _+1 [[DATABASE/equipment/Striking|striking]] [[DATABASE/weapon/Light Hammer|light hammer]]_, guildmaster's uniform (functions as [[DATABASE/armor/Hide Armor|hide armor]]), [[DATABASE/equipment/Artisan's Tools|artisan's tools]], construction schematics, tax ledgers
 
 ---
 **AC** 26; **Fort** +14, **Ref** +14, **Will** +17

@@ -11,6 +11,7 @@ name: Arcane Communication
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Arcane Communication <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Automaton</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 
 ---
-You can deliver silent messages. You gain [[Telepathy]], allowing you to communicate silently and mentally with any creature you're touching, as long as you share a language.
+You can deliver silent messages. You gain [[DATABASE/monsterability/Telepathy|touch telepathy]], allowing you to communicate silently and mentally with any creature you're touching, as long as you share a language.
 **Enhancement** You can send your messages even further. Your telepathy gains a range of 10 feet, but you still have to share a language with your target.
 
 ## Traits

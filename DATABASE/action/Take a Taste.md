@@ -7,6 +7,7 @@ id: '1173'
 name: Take a Taste
 rarity: Common
 requirement: The zombie has a creature grabbed or restrained.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 trait: null
@@ -16,7 +17,7 @@ type: Action
 ---
 # Take a Taste <span class="action-icon">1</span>
 
-**Source** [[Book of the Dead]]
+**Source** [[DATABASE/source/Book of the Dead|Book of the Dead]]
 **Requirements** The zombie has a creature grabbed or restrained.
 
 ---

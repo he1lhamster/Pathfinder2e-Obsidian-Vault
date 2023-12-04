@@ -11,6 +11,7 @@ name: Mask of Rejection
 prerequisite: '[[DATABASE/feat/Orc Warmask|Orc Warmask]]'
 rarity: Common
 requirement: You're wearing yourwarmask.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Mask of Rejection <span class="action-icon">5</span> <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Fortune</span><span class="item-trait">Orc</span>
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 **Frequency** once per day
-**Prerequisites** [[Orc Warmask]]
+**Prerequisites** [[DATABASE/feat/Orc Warmask|Orc Warmask]]
 **Trigger** You fail a saving throw against an effect from your _warmask's_ magical tradition.
 **Requirements** You're wearing your _warmask_.
 
@@ -41,4 +42,4 @@ A fortune effect beneficially alters how you roll your dice. You can never have 
 
 **Orc:**
 
-A creature with this trait is a member of the [[Orc]] ancestry. These green-skinned people tend to have darkvision. An ability with this trait can be used or selected only by orcs. An item with this trait is created and used by orcs.
+A creature with this trait is a member of the [[DATABASE/ancestry/Orc|orc]] ancestry. These green-skinned people tend to have darkvision. An ability with this trait can be used or selected only by orcs. An item with this trait is created and used by orcs.

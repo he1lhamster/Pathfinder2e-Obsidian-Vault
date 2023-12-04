@@ -11,6 +11,7 @@ name: Hungry Goblin
 prerequisite: '[[DATABASE/feat/Fang Sharpener|Fang Sharpener]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Hungry Goblin <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Goblin</span>
-**Source** [[Character Guide]] 
-**Prerequisites** [[Fang Sharpener]]
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
+**Prerequisites** [[DATABASE/feat/Fang Sharpener|Fang Sharpener]]
 
 ---
 You’ll eat anything and anyone. Whenever you inflict persistent bleed damage with your jaws unarmed attack, you gain temporary Hit Points equal to half your level for 1 minute.
@@ -33,4 +34,4 @@ You’ll eat anything and anyone. Whenever you inflict persistent bleed damage w
 
 **Goblin:**
 
-A creature with this trait can be one of several kinds of creature, including [[Goblin]], [[Hobgoblin]], and [[Bugbear]]. Goblins tend to have darkvision. An ability with this trait can be used or chosen only by goblins. A weapon with this trait is created and used by goblins.
+A creature with this trait can be one of several kinds of creature, including [[DATABASE/ancestry/Goblin|goblins]], [[DATABASE/ancestry/Hobgoblin|hobgoblins]], and [[DATABASE/monsterfamily/Bugbear|bugbears]]. Goblins tend to have darkvision. An ability with this trait can be used or chosen only by goblins. A weapon with this trait is created and used by goblins.

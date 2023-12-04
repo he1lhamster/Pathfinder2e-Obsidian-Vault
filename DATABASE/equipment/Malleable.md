@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -53,7 +54,7 @@ weapon_type: null
 # Malleable<span class="item-type">Item 9</span>
 
 <span class="item-trait">Magical</span><span class="item-trait">Metal</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Price** 650 gp
 **Usage** etched onto a metal medium or heavy armor; **Bulk** —
 

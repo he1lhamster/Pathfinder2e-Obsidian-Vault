@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Nantambu Chime-Ringer Dedication|Nantambu Chime-R
   Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 170. Spoken on the Song Wind|Pathfinder #170:
   Spoken on the Song Wind]]'
@@ -25,12 +26,12 @@ type: Feat
 # Deny the Songs of War <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Pathfinder 170. Spoken on the Song Wind]]
-**Archetype** [[Nantambu Chime-Ringer]]
-**Prerequisites** [[Nantambu Chime-Ringer Dedication]]
+**Source** [[DATABASE/source/Pathfinder 170. Spoken on the Song Wind|Pathfinder #170: Spoken on the Song Wind]]
+**Archetype** [[DATABASE/archetype/Nantambu Chime-Ringer|Nantambu Chime-Ringer]]
+**Prerequisites** [[DATABASE/feat/Nantambu Chime-Ringer Dedication|Nantambu Chime-Ringer Dedication]]
 
 ---
-To keep the peace, you disrupt those who seek to break it. You can cast [[Deafness]] and 4th-level [[Silence]] once per day each as innate spells. The tradition of these spells is the one you chose for the Nantambu Chime-Ringer Dedication feat.
+To keep the peace, you disrupt those who seek to break it. You can cast [[DATABASE/spell/Deafness|deafness]] and 4th-level [[DATABASE/spell/Silence|silence]] once per day each as innate spells. The tradition of these spells is the one you chose for the Nantambu Chime-Ringer Dedication feat.
 
 ## Traits
 

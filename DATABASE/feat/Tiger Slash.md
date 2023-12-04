@@ -11,6 +11,7 @@ name: Tiger Slash
 prerequisite: '[[DATABASE/feat/Tiger Stance|Tiger Stance]]'
 rarity: Common
 requirement: You are in Tiger Stance.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Tiger Slash <span class="action-icon">2</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Monk</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Martial Artist]]*
-**Prerequisites** [[Tiger Stance]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Martial Artist|Martial Artist]]*
+**Prerequisites** [[DATABASE/feat/Tiger Stance|Tiger Stance]]
 **Requirements** You are in Tiger Stance.
 * This archetype offers Tiger Slash at a different level than displayed here.
 

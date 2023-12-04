@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -52,10 +53,10 @@ weapon_type: null
 # Rappelling Kit<span class="item-type">Item 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span>
-**Source** [[Firebrands]]
+**Source** [[DATABASE/source/Firebrands|Firebrands]]
 **Price** 30 gp
 **Hands** 2; **Bulk** 1
 **Access** Second-mark members of the Firebrands have access to this item.
 
 ---
-This satchel contains all the basic equipment found in a [[Climbing Kit]] plus the specialized equipment—including a harness, belay device, and locking clips—needed for descents. When [[Climb]] down with a rappelling kit, you move twice as fast as usual based on your check result.
+This satchel contains all the basic equipment found in a [[DATABASE/equipment/Climbing Kit|climbing kit]] plus the specialized equipment—including a harness, belay device, and locking clips—needed for descents. When [[DATABASE/action/Climb|Climbing]] down with a rappelling kit, you move twice as fast as usual based on your check result.

@@ -21,6 +21,7 @@ patron_theme: null
 range: 30 feet
 rarity: Rare
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
@@ -39,7 +40,7 @@ type: Spell
 # Phantasmal Protagonist<span class="item-type">Spell 4</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Illusion</span><span class="item-trait">Mental</span>
-**Source** [[Kingmaker Companion Guide]]
+**Source** [[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]
 **Traditions** divine, occult
 **Cast** <span class="action-icon">3</span> verbal, somatic
 **Range** 30 feet
@@ -50,7 +51,7 @@ You create a phantasmal incarnation of a significant character from a novel, his
 
 * **Ally** The protagonist takes the form of a recognizable support character. Its thematic action is to grant an adjacent creature 4d4 temporary Hit Points, which last for 1 round.
 * **Hero** The protagonist takes the form of a legendary hero. Its thematic action is to attempt a melee Strike, using your spell attack roll to make the attack and inflicting 4d6+6 mental damage on a hit.
-* **Villain** The protagonist takes the form of a notorious villain. Its thematic action is to harry and mock an adjacent target. The target must succeed at a Will save or become [[Flat-Footed]] ([[Slowed]] on a critical failure) until the end of your next turn.
+* **Villain** The protagonist takes the form of a notorious villain. Its thematic action is to harry and mock an adjacent target. The target must succeed at a Will save or become [[DATABASE/condition/Flat-Footed|flat-footed]] ([[DATABASE/condition/Slowed|slowed 1]] on a critical failure) until the end of your next turn.
 
 ---
 **Heightened (+1)** The protagonist's AC, saving throw modifiers, skill modifiers, and Perception modifier increases by 3, and its HP increase by 30. A heroic protagonist's damage increases by 1d6. An ally protagonist's temporary Hit Points granted increases by 1d4.

@@ -11,6 +11,7 @@ name: Power Slide
 prerequisite: '[[DATABASE/feat/Trick Driver Dedication|Trick Driver Dedication]]'
 rarity: Common
 requirement: You are piloting avehicle.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -26,13 +27,13 @@ type: Feat
 # Power Slide <span class="action-icon">1</span> to <span class="action-icon">3</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Move</span><span class="item-trait">Reckless</span><span class="item-trait">Skill</span>
-**Source** [[Guns & Gears]]
-**Archetype** [[Trick Driver]]
-**Prerequisites** [[Trick Driver Dedication]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Archetype** [[DATABASE/archetype/Trick Driver|Trick Driver]]
+**Prerequisites** [[DATABASE/feat/Trick Driver Dedication|Trick Driver Dedication]]
 **Requirements** You are piloting a vehicle.
 
 ---
-You throw the vehicle into a barely controlled skid, turning sharply to evade pursuit or bring your weapons to bear. You [[Drive]] with a –2 penalty to your piloting check, gaining the effects of the Drive action for the same number of actions you spent to Power Slide. At the end of the movement, if you succeed, you can turn the vehicle up to 90 degrees. If you critically succeed at your piloting check, you can instead turn the vehicle up to 180 degrees.
+You throw the vehicle into a barely controlled skid, turning sharply to evade pursuit or bring your weapons to bear. You [[DATABASE/action/Drive|Drive]] with a –2 penalty to your piloting check, gaining the effects of the Drive action for the same number of actions you spent to Power Slide. At the end of the movement, if you succeed, you can turn the vehicle up to 90 degrees. If you critically succeed at your piloting check, you can instead turn the vehicle up to 180 degrees.
 
 ## Traits
 

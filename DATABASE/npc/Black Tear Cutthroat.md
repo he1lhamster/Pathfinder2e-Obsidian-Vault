@@ -60,20 +60,20 @@ wisdom: '+0'
 # Black Tear Cutthroat
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 15
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Black Tear Cutthroat<span class="item-type">Creature -1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Kingmaker Adventure Path]]
-Male Black Tears [[Rogue]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
+Male Black Tears [[DATABASE/class_/Rogue|rogue]]
 **Perception** +3
-**Languages** [[Common]]
-**Skills** [[Athletics]] +4, [[Stealth]] +5
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +4, [[DATABASE/skill/Stealth|Stealth]] +5
 **Str** +2, **Dex** +3, **Con** +1, **Int** +0, **Wis** +0, **Cha** +0
-**Items** belt pouch with 5 sp, [[Dagger]], [[Hand Crossbow]], [[Studded Leather Armor]]
+**Items** belt pouch with 5 sp, [[DATABASE/weapon/Dagger|dagger]], [[DATABASE/weapon/Hand Crossbow|hand crossbow (10 bolts)]], [[DATABASE/armor/Studded Leather Armor|studded leather armor]]
 
 ---
 **AC** 15; **Fort** +5, **Ref** +7, **Will** +2

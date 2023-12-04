@@ -115,17 +115,17 @@ Although they are much smaller than their larger dragon cousins, faerie dragons 
  Faerie dragons usually exhibit pleasant and good-natured temperaments, though they have a mischievous streak that leads them to play tricks on those around them. In search of an amusement, they prefer harmless annoyances to wounding malice. While often spontaneous, they may also spend months if not years planning the perfect prank. Especially responsive targets endear themselves to faerie dragons and may create a lifelong bond. A faerie dragon’s reputation as a trickster leads many to associate them with fey, with whom the tiny dragons have cordial relationships.
  Peaceful by nature, faerie dragons do not enjoy confrontation. If faced with hostility, they prefer to remain at a distance and breathe euphoric gas at their foes, diffusing the skirmish by creating an atmosphere of bliss. If conflict escalates, they target their opponents with spells, using their renowned trickery to escape. If their companions are in danger, however, their desire to remain out of combat changes. Faerie dragons protect their friends by any means available, including physical combat.
  Sometimes as faerie dragons grow older, their connection to the First World grows stronger. In addition to growing more lustrous and vibrant in appearance, these faerie dragons gain an increasing amount of magical primal power. Such faerie dragons increase in strength as appropriate—a faerie dragon of 20th level or even higher is possible, but it is exceptionally unusual to encounter a faerie dragon of 9th level or higher beyond the most remote regions of the First World. When creating a more powerful faerie dragon, change its tradition to primal and grant it a number of primal spells known appropriate for a druid of its level. Faerie dragons don’t grow much larger, regardless of how powerful they become. Those who would seek to torment or vex a faerie dragon would do well to consider this, as it’s often difficult to tell how powerful one of these tiny dragons truly is at a simple glance!
-**Recall Knowledge - Dragon ([[Arcana]])**: DC 18
+**Recall Knowledge - Dragon ([[DATABASE/skill/Arcana|Arcana]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Faerie Dragon<span class="item-type">Creature 2</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">CG</span><span class="trait-size item-trait">Tiny</span><span class="item-trait">Dragon</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +16; darkvision
-**Languages** [[Common]], [[Draconic]], [[Sylvan]]; telepathy 100 feet
-**Skills** [[Acrobatics]] +8, [[Deception]] +8, [[Diplomacy]] +8, [[Nature]] +4, [[Stealth]] +10
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Sylvan|Sylvan]]; telepathy 100 feet
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +8, [[DATABASE/skill/Deception|Deception]] +8, [[DATABASE/skill/Diplomacy|Diplomacy]] +8, [[DATABASE/skill/Nature|Nature]] +4, [[DATABASE/skill/Stealth|Stealth]] +10
 **Str** -2, **Dex** +4, **Con** +0, **Int** +2, **Wis** +0, **Cha** +2
 
 ---
@@ -134,9 +134,9 @@ Although they are much smaller than their larger dragon cousins, faerie dragons 
 
 ---
 **Speed** 15 feet, fly 40 feet, swim 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +10 [+5/+0] (magical, finesse), **Damage** 1d4 piercing</span>**Arcane Innate Spells** DC 21; **4th** _[[Invisibility]]_ (self only)
-**Arcane Spontaneous Spells** DC 18, attack +10; **1st** _[[Grease]]_, _[[Illusory Object]]_, _[[Sleep]]_ (4 slots); **Cantrips** **(1st)** _[[Dancing Lights]]_, _[[Ghost Sound]]_, _[[Prestidigitation]]_, _[[Tanglefoot]]_, _[[Telekinetic Projectile]]_
-<span class="in-box-ability">**Breath Weapon** <span class="action-icon">2</span> (arcane, evocation, poison) The dragon breathes euphoric gas in a 10-foot cone. Each creature in the area must succeed at a DC 18 Fortitude save or become [[Stupefied]] and [[Slowed]] for 1d4 rounds; on a critical failure, the duration is 1 minute. The faerie dragon can’t use Breath Weapon again for 1d4 rounds.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +10 [+5/+0] (magical, finesse), **Damage** 1d4 piercing</span>**Arcane Innate Spells** DC 21; **4th** _[[DATABASE/spell/Invisibility|invisibility]]_ (self only)
+**Arcane Spontaneous Spells** DC 18, attack +10; **1st** _[[DATABASE/spell/Grease|grease]]_, _[[DATABASE/spell/Illusory Object|illusory object]]_, _[[DATABASE/spell/Sleep|sleep]]_ (4 slots); **Cantrips** **(1st)** _[[DATABASE/spell/Dancing Lights|dancing lights]]_, _[[DATABASE/spell/Ghost Sound|ghost sound]]_, _[[DATABASE/spell/Prestidigitation|prestidigitation]]_, _[[DATABASE/spell/Tanglefoot|tanglefoot]]_, _[[DATABASE/spell/Telekinetic Projectile|telekinetic projectile]]_
+<span class="in-box-ability">**Breath Weapon** <span class="action-icon">2</span> (arcane, evocation, poison) The dragon breathes euphoric gas in a 10-foot cone. Each creature in the area must succeed at a DC 18 Fortitude save or become [[DATABASE/condition/Stupefied|stupefied 2]] and [[DATABASE/condition/Slowed|slowed 1]] for 1d4 rounds; on a critical failure, the duration is 1 minute. The faerie dragon can’t use Breath Weapon again for 1d4 rounds.</span>
 
 ###  Faerie Dragon Lairs
 

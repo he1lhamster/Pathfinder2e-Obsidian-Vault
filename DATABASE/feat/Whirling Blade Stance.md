@@ -11,6 +11,7 @@ name: Whirling Blade Stance
 prerequisite: '[[DATABASE/feat/Monastic Weaponry|Monastic Weaponry]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Whirling Blade Stance <span class="action-icon">1</span> <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Monk</span><span class="item-trait">Stance</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** [[Monastic Weaponry]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** [[DATABASE/feat/Monastic Weaponry|Monastic Weaponry]]
 
 ---
 You enter a mindful stance that creates a deep connection between you and your monk weapons, allowing you to manipulate them with your ki even at a distance. All melee monk weapons you wield with the finesse trait gain the thrown 10 feet trait (unless they already have the thrown trait with a greater range).

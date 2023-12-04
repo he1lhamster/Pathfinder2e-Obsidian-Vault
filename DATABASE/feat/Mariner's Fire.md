@@ -11,6 +11,7 @@ name: Mariner's Fire
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Mariner's Fire <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Tengu</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-You conjure uncanny orbs of spiritual flame that float above or below the water's surface. You can cast the [[Produce Flame]] cantrip as a primal innate spell at will, heightened to a spell level equal to half your level rounded up. You can cast this cantrip underwater.
+You conjure uncanny orbs of spiritual flame that float above or below the water's surface. You can cast the [[DATABASE/spell/Produce Flame|produce flame]] cantrip as a primal innate spell at will, heightened to a spell level equal to half your level rounded up. You can cast this cantrip underwater.
 
 ## Traits
 

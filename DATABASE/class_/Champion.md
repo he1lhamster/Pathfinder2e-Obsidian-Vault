@@ -17,6 +17,7 @@ id: '4'
 name: Champion
 perception_proficiency: Trained
 rarity: Common
+rus_type_level: null
 skill_proficiency:
 - Trained in Religion
 - Trained in one skill determined by your choice of deity
@@ -28,7 +29,7 @@ type: Class
 
 ---
 # Champion
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 _You are an emissary of a deity, a devoted servant who has taken up a weighty mantle, and you adhere to a code that holds you apart from those around you. While champions exist for every alignment, as a champion of good, you provide certainty and hope to the innocent. You have powerful defenses that you share freely with your allies and innocent bystanders, as well as holy power you use to end the threat of evil. Your devotion even attracts the attention of holy spirits who aid you on your journey._
 **Key Ability: STRENGTH OR DEXTERITY**
 At 1st level, your class gives you an ability boost to your choice of Strength or Dexterity.
@@ -88,7 +89,7 @@ Expert in Will
 
 ## Skills
 
-Trained in [[Religion]]
+Trained in [[DATABASE/skill/Religion|Religion]]
 Trained in one skill determined by your choice of deity
 Trained in a number of additional skills equal to 2 plus your Intelligence modifier
 
@@ -114,30 +115,29 @@ Trained in divine spell DCs
 
 # Class Features
 
-You gain these features as a Champion. Abilities gained at higher levels list the levels at which you gain them next to the features' names.
-
-|   Your Level | Class Features                                                                                                                                                     |
-|-------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|            1 | Ancestry and background, initial proficiencies, champion’s code, deity and cause, deific weapon, champion’s reaction, devotion spells, champion feat, shield block |
-|            2 | Champion feat, skill feat                                                                                                                                          |
-|            3 | Divine ally, general feat, skill increase                                                                                                                          |
-|            4 | Champion feat, skill feat                                                                                                                                          |
-|            5 | Ability boosts, ancestry feat, skill increase, weapon expertise                                                                                                    |
-|            6 | Champion feat, skill feat                                                                                                                                          |
-|            7 | Armor expertise, general feat, skill increase, weapon specialization                                                                                               |
-|            8 | Champion feat, skill feat                                                                                                                                          |
-|            9 | Ancestry feat, champion expertise, divine smite, juggernaut, lightning reflexes, skill increase                                                                    |
-|           10 | Ability boosts, champion feat, skill feat                                                                                                                          |
-|           11 | Alertness, divine will, exalt, general feat, skill increase                                                                                                        |
-|           12 | Champion feat, skill feat                                                                                                                                          |
-|           13 | Ancestry feat, armor mastery, skill increase, weapon mastery                                                                                                       |
-|           14 | Champion feat, skill feat                                                                                                                                          |
-|           15 | Ability boosts, general feat, greater weapon specialization, skill increase                                                                                        |
-|           16 | Champion feat, skill feat                                                                                                                                          |
-|           17 | Ancestry feat, champion mastery, legendary armor, skill increase                                                                                                   |
-|           18 | Champion feat, skill feat                                                                                                                                          |
-|           19 | General feat, hero’s defiance, skill increase                                                                                                                      |
-|           20 | Ability boosts, champion feat, skill feat                                                                                                                          |
+You gain these features as a Champion. Abilities gained at higher levels list the levels at which you gain them next to the features' names.| 0 | 1 |
+|:-----------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Your Level | Class Features |
+| 1 | Ancestry and background, initial proficiencies, champion’s code, deity and cause, deific weapon, champion’s reaction, devotion spells, champion feat, shield block |
+| 2 | Champion feat, skill feat |
+| 3 | Divine ally, general feat, skill increase |
+| 4 | Champion feat, skill feat |
+| 5 | Ability boosts, ancestry feat, skill increase, weapon expertise |
+| 6 | Champion feat, skill feat |
+| 7 | Armor expertise, general feat, skill increase, weapon specialization |
+| 8 | Champion feat, skill feat |
+| 9 | Ancestry feat, champion expertise, divine smite, juggernaut, lightning reflexes, skill increase |
+| 10 | Ability boosts, champion feat, skill feat |
+| 11 | Alertness, divine will, exalt, general feat, skill increase |
+| 12 | Champion feat, skill feat |
+| 13 | Ancestry feat, armor mastery, skill increase, weapon mastery |
+| 14 | Champion feat, skill feat |
+| 15 | Ability boosts, general feat, greater weapon specialization, skill increase |
+| 16 | Champion feat, skill feat |
+| 17 | Ancestry feat, champion mastery, legendary armor, skill increase |
+| 18 | Champion feat, skill feat |
+| 19 | General feat, hero’s defiance, skill increase |
+| 20 | Ability boosts, champion feat, skill feat |
 
 ## Ancestry and Background
 
@@ -149,8 +149,8 @@ At 1st level, you gain a number of proficiencies that represent your basic train
 
 ## Champion's Code
 
-You follow a code of conduct, beginning with tenets shared by all champions of an alignment (such as good), and continuing with tenets of your cause. Deities often add additional strictures (for instance, [[Torag]] champions can’t show mercy to enemies of their people, making it almost impossible for them to follow the [[Redeemer]] cause). Tenets are listed in order of importance, starting with the most important. If a situation places two tenets in conflict, you aren’t in a no-win situation; instead, follow the more important tenet. For instance, as a paladin, if an evil king asked you if you’re hiding refugees so he could execute them, you could lie to him, since the tenet against lying is less important than preventing harm to innocents. Trying to subvert your code by creating a situation that forces a higher tenet to override a lower tenet (for example, promising not to respect authorities and then, to keep your word, disrespecting authorities) is a violation of the champion code.
- If you stray from your alignment or violate your code of conduct, you lose your focus pool and divine ally until you demonstrate your repentance by conducting an [[Atone]] ritual, but you keep any other champion abilities that don’t require those class features. If your alignment shifts but is still one allowed by your deity, your GM might let you retrain your cause while still following the same deity.
+You follow a code of conduct, beginning with tenets shared by all champions of an alignment (such as good), and continuing with tenets of your cause. Deities often add additional strictures (for instance, [[DATABASE/deity/Torag|Torag’s]] champions can’t show mercy to enemies of their people, making it almost impossible for them to follow the [[DATABASE/championcause/Redeemer|redeemer]] cause). Tenets are listed in order of importance, starting with the most important. If a situation places two tenets in conflict, you aren’t in a no-win situation; instead, follow the more important tenet. For instance, as a paladin, if an evil king asked you if you’re hiding refugees so he could execute them, you could lie to him, since the tenet against lying is less important than preventing harm to innocents. Trying to subvert your code by creating a situation that forces a higher tenet to override a lower tenet (for example, promising not to respect authorities and then, to keep your word, disrespecting authorities) is a violation of the champion code.
+ If you stray from your alignment or violate your code of conduct, you lose your focus pool and divine ally until you demonstrate your repentance by conducting an [[DATABASE/ritual/Atone|atone]] ritual, but you keep any other champion abilities that don’t require those class features. If your alignment shifts but is still one allowed by your deity, your GM might let you retrain your cause while still following the same deity.
 Tenets can be found here.
 
 ## Deity and Cause
@@ -177,7 +177,7 @@ At 1st level and every even-numbered level thereafter, you gain a champion class
 
 ## Shield Block
 
-You gain the [[Shield Block]] general feat, a reaction that lets you reduce damage with your shield.
+You gain the [[DATABASE/feat/Shield Block|Shield Block]] general feat, a reaction that lets you reduce damage with your shield.
 
 ## Skill Feats<span class="item-type">Level 2</span>
 
@@ -187,9 +187,9 @@ At 2nd level and every 2 levels thereafter, you gain a skill feat. Skill feats c
 
 Your devotion attracts a spirit of your deity's alignment. Once you choose an ally, your choice can't be changed.
  The following are divine allies: 
-**Blade Ally**: A spirit of battle dwells within your armaments. Select one weapon or [[Handwraps of Mighty Blows]] when you make your daily preparations. In your hands, the item gains the effect of a property rune and you also gain the weapon's critical specialization effect. For a champion following the [[Good]], choose _[[Disrupting]]_, _[[Ghost Touch]]_, _[[Returning]]_, or _[[Shifting]]_. For a champion following the [[Evil]], choose [[Fearsome]], _returning_, or _shifting_.
+**Blade Ally**: A spirit of battle dwells within your armaments. Select one weapon or [[DATABASE/equipment/Handwraps of Mighty Blows|handwraps of mighty blows]] when you make your daily preparations. In your hands, the item gains the effect of a property rune and you also gain the weapon's critical specialization effect. For a champion following the [[DATABASE/championtenet/Good|tenets of good]], choose _[[DATABASE/equipment/Disrupting|disrupting]]_, _[[DATABASE/equipment/Ghost Touch|ghost touch]]_, _[[DATABASE/equipment/Returning|returning]]_, or _[[DATABASE/equipment/Shifting|shifting]]_. For a champion following the [[DATABASE/championtenet/Evil|tenets of evil]], choose [[DATABASE/equipment/Fearsome|fearsome]], _returning_, or _shifting_.
 **Shield Ally**: A spirit of protection dwells within your shield. In your hands, the shield's Hardness increases by 2 and its HP and BT increase by half. 
-**Steed Ally**: You gain a young animal companion as a mount. Ordinarily, your animal companion is one that has the mount special ability, such as a [[Horse]]. You can select a different animal companion (GM's discretion), but this ability doesn't grant it the mount special ability.
+**Steed Ally**: You gain a young animal companion as a mount. Ordinarily, your animal companion is one that has the mount special ability, such as a [[DATABASE/animalcompanion/Horse|horse]]. You can select a different animal companion (GM's discretion), but this ability doesn't grant it the mount special ability.
 
 ## General Feats<span class="item-type">Level 3</span>
 
@@ -272,4 +272,4 @@ You shield yourself with steel as easily as with faith. Your proficiency ranks f
 
 ## Hero's Defiance<span class="item-type">Level 19</span>
 
-You can defy fate and continue fighting as long as you have divine energy. You gain the [[Hero's Defiance]] devotion spell.
+You can defy fate and continue fighting as long as you have divine energy. You gain the [[DATABASE/spell/Hero's Defiance|hero’s defiance]] devotion spell.

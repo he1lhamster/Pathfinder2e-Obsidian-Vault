@@ -95,17 +95,17 @@ wisdom: '+0'
 Rivkas are parasitic monsters that cling to the sides of kaiju. In their natural form, they resemble giant cockroaches with eight razor-like legs and two mouths—one between two vicious pincers plus a second, much larger mouth on their abdomen. With this secondary mouth they feed off the primordial energy of whichever kaiju they've latched onto.
  In the wake of a kaiju attack, a rivka detaches from its host and wades into the disaster zone to prey on the unsuspecting populace by presenting itself as an emissary of the kaiju and demanding tribute. According to this cruel charlatan, only sacrifices of blood and gold can appease their master—though of course the rivka absconds with these offerings before the gifts ever reach the kaiju (such tributes would mean little to the kaiju anyway). Particularly heinous rivkas search the rubble for dead victims to impersonate, magically adopting the visage of a beloved city elder or priest in order to stoke the citizens' paranoia.
  Drinking kaiju blood has a strange effect on a rivka's anatomy, enriching both its defensive and offensive capabilities with the primal energy of its host. Other creatures have attempted to drink kaiju blood and replicate this phenomenon, always to terrible effect. Clearly rivkas have coevolved with kaiju in order to metabolize their ancient blood.
-**Recall Knowledge - Aberration ([[Occultism]])**: DC 36
+**Recall Knowledge - Aberration ([[DATABASE/skill/Occultism|Occultism]])**: DC 36
 **Unspecific Lore**: DC 34
 **Specific Lore**: DC 31
 
 # Rivka<span class="item-type">Creature 13</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Aberration</span>
-**Source** [[Pathfinder 167. Ready Fight!]]
+**Source** [[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]
 **Perception** +21
-**Languages** [[Aklo]], [[Common]]
-**Skills** [[Acrobatics]] +26, [[Athletics]] +22, [[Deception]] +27, [[Stealth]] +26, [[Survival]] +19
+**Languages** [[DATABASE/language/Aklo|Aklo]], [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +26, [[DATABASE/skill/Athletics|Athletics]] +22, [[DATABASE/skill/Deception|Deception]] +27, [[DATABASE/skill/Stealth|Stealth]] +26, [[DATABASE/skill/Survival|Survival]] +19
 **Str** +5, **Dex** +7, **Con** +5, **Int** +0, **Wis** +0, **Cha** +8
 **Kaiju Blood** Each rivka gains resistances and offensive powers by feasting on the primordial blood of a kaiju. The type of damage the rivka resists and the type of damage dealt by its Kaiju Ray depend on the kaiju it last fed upon. Some of the most typical rivkas include those that feed on **Cimurlian** (cold), **Kujiba** (negative), **Igroon** (acid), **Mogaru** (fire), or **Yorak** (electricity).
 
@@ -115,7 +115,7 @@ Rivkas are parasitic monsters that cling to the sides of kaiju. In their natural
 
 ---
 **Speed** 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +26 [+22/+18] (agile, finesse), **Damage** 3d6+11 slashing</span>**Innate Primal Spells** DC 33; **5th** _[[Charm]]_ (at will), _[[Illusory Disguise]]_ (×3)
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +26 [+22/+18] (agile, finesse), **Damage** 3d6+11 slashing</span>**Innate Primal Spells** DC 33; **5th** _[[DATABASE/spell/Charm|charm]]_ (at will), _[[DATABASE/spell/Illusory Disguise|illusory disguise]]_ (×3)
 <span class="in-box-ability">**Eviscerate** <span class="action-icon">2</span> **Requirements** The rivka has not attacked yet this turn; **Effect** The rivka lashes out with four of its razor-like claws. It makes four Strikes: the first at its highest attack bonus, the next two with a –4 penalty to their attack rolls, and the last one with a –8 penalty. This ability counts as four Strikes for the purpose of its multiple attack penalty.</span><span class="in-box-ability">**Kaiju Ray** <span class="action-icon">2</span> (evocation, primal) The rivka opens its maw and projects a 60-foot line of primal energy that deals 14d6 damage (DC 32 basic Reflex save). The type of damage dealt by the ray depends on which kaiju the rivka has most recently fed from (see above). The rivka can't use Kaiju Ray again for 1d4 rounds.</span>
 
 ###  Blending In

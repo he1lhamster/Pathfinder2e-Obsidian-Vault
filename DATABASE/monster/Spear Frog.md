@@ -66,16 +66,16 @@ wisdom: '+2'
 # Spear Frog
 
 The spear frog is named for its toxin, which is traditionally used to envenom thrown projectiles like spears and daggers.
-**Recall Knowledge - Animal ([[Nature]])**: DC 14
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 14
 **Unspecific Lore**: DC 12
 **Specific Lore**: DC 9
 
 # Spear Frog<span class="item-type">Creature 0</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Tiny</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary 2]] 
-**Perception** +6; [[Low-Light Vision]]
-**Skills** [[Acrobatics]] +5, [[Athletics]] +0 (+6 to [[Climb]], [[High Jump]], [[Long Jump]], and [[Swim]])
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +6; [[DATABASE/monsterability/Low-Light Vision|low-light vision]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +5, [[DATABASE/skill/Athletics|Athletics]] +0 (+6 to [[DATABASE/action/Climb|Climb]], [[DATABASE/action/High Jump|High Jump]], [[DATABASE/action/Long Jump|Long Jump]], and [[DATABASE/action/Swim|Swim]])
 **Str** -2, **Dex** +3, **Con** +1, **Int** -4, **Wis** +2, **Cha** +0
 
 ---
@@ -85,4 +85,4 @@ The spear frog is named for its toxin, which is traditionally used to envenom th
 
 ---
 **Speed** 20 feet, climb 20 feet, swim 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +7 [+3/-1] (agile, finesse), **Damage** 1d6 piercing plus spear frog venom</span><span class="in-box-ability">**Spear Frog Venom** (poison) **Saving Throw** DC 15 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 1d4 poison damage (1 round); **Stage 2** 1d6 poison damage and [[Enfeebled]] (1 round)</span><span class="in-box-ability">**Sticky Feet** Spear frogs are not flat-footed when [[Balance]] on a narrow surface, and they gain a +4 bonus to Reflex saves to avoid falling.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +7 [+3/-1] (agile, finesse), **Damage** 1d6 piercing plus spear frog venom</span><span class="in-box-ability">**Spear Frog Venom** (poison) **Saving Throw** DC 15 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 1d4 poison damage (1 round); **Stage 2** 1d6 poison damage and [[DATABASE/condition/Enfeebled|enfeebled 1]] (1 round)</span><span class="in-box-ability">**Sticky Feet** Spear frogs are not flat-footed when [[DATABASE/action/Balance|Balancing]] on a narrow surface, and they gain a +4 bonus to Reflex saves to avoid falling.</span>

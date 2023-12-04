@@ -85,24 +85,24 @@ wisdom: '+4'
 
 A vetalarana emergent is inexperienced and ravenous, often caring more for the consumption of thoughts than the quality of the thoughts and memories consumed. These undead gluttons gorge themselves on memories, leaving a crowd of addled and terrified victims in their wake.
  Experienced emergents are cannier than their newly risen kin, stalking their chosen victims and being sure to abduct, kill, or render their victims comatose after draining their memories to ensure no witnesses remain to reveal the presence of a vetalarana.
-**Recall Knowledge - Undead ([[Religion]])**: DC 24
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 24
 **Unspecific Lore**: DC 22
 **Specific Lore**: DC 19
 
 # Vetalarana Emergent<span class="item-type">Creature 8</span>
 
 <span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Undead</span><span class="item-trait">Vampire</span>
-**Source** [[Book of the Dead]]
-**Perception** +14; [[Darkvision]], thoughtsense (precise) 100 feet
-**Languages** [[Common]], [[Necril]]
-**Skills** [[Acrobatics]] +15, [[Athletics]] +18, [[Intimidation]] +16, [[Occultism]] +13, [[Stealth]] +17
+**Source** [[DATABASE/source/Book of the Dead|Book of the Dead]]
+**Perception** +14; [[DATABASE/monsterability/Darkvision|darkvision]], thoughtsense (precise) 100 feet
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Necril|Necril]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +15, [[DATABASE/skill/Athletics|Athletics]] +18, [[DATABASE/skill/Intimidation|Intimidation]] +16, [[DATABASE/skill/Occultism|Occultism]] +13, [[DATABASE/skill/Stealth|Stealth]] +17
 **Str** +6, **Dex** +5, **Con** +4, **Int** +3, **Wis** +4, **Cha** +4
-**Items** _+1 [[Striking]] [[Crossbow]]_
+**Items** _+1 [[DATABASE/equipment/Striking|striking]] [[DATABASE/weapon/Crossbow|crossbow]]_
 
 ---
 **AC** 26; **Fort** +14, **Ref** +17, **Will** +16
-**HP** 100 ([[Fast Healing]], mental rebirth, [[Negative Healing]]); **Immunities** death effects, disease, [[Paralyzed]], poison, [[Sleep]]; **Resistances** mental 10, physical 10 (except [[Cold Iron Weapon]]); **Weaknesses** vetalarana vulnerabilities
+**HP** 100 ([[DATABASE/monsterability/Fast Healing|fast healing 10]], mental rebirth, [[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects, disease, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/spell/Sleep|sleep]]; **Resistances** mental 10, physical 10 (except [[DATABASE/equipment/Cold Iron Weapon|cold iron]]); **Weaknesses** vetalarana vulnerabilities
 
 ---
 **Speed** 25 feet, climb 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +20 [+16/+12] (agile), **Damage** 2d8+9 slashing plus [[Grab]]</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _crossbow_ +20 [+15/+10] (magical, range increment 120 feet, reload 1), **Damage** 2d8+3 piercing</span><span class="in-box-ability">**Anticipatory Attack** The vetalarana emergent uses consumed memories to anticipate their prey's movements. The vetalarana emergent's Strikes deal an additional 1d8 precision damage to creatures [[Stupefied]] due to the vetalarana's Drain Thoughts.</span><span class="in-box-ability">**Drain Thoughts** <span class="action-icon">1</span> (divination, mental, occult) When Draining Thoughts, the vetalarana emergent regains 10 HP.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +20 [+16/+12] (agile), **Damage** 2d8+9 slashing plus [[DATABASE/monsterability/Grab|Grab]]</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _crossbow_ +20 [+15/+10] (magical, range increment 120 feet, reload 1), **Damage** 2d8+3 piercing</span><span class="in-box-ability">**Anticipatory Attack** The vetalarana emergent uses consumed memories to anticipate their prey's movements. The vetalarana emergent's Strikes deal an additional 1d8 precision damage to creatures [[DATABASE/condition/Stupefied|stupefied]] due to the vetalarana's Drain Thoughts.</span><span class="in-box-ability">**Drain Thoughts** <span class="action-icon">1</span> (divination, mental, occult) When Draining Thoughts, the vetalarana emergent regains 10 HP.</span>

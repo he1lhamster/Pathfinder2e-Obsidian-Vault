@@ -11,6 +11,7 @@ name: Elemental Assault
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -26,7 +27,7 @@ type: Feat
 # Elemental Assault <span class="action-icon">1</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Arcane</span><span class="item-trait">Concentrate</span><span class="item-trait">Evocation</span><span class="item-trait">Suli</span>
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 **Frequency** once per day
 
 ---
@@ -34,7 +35,7 @@ You shroud your arms and held weapons in elemental magic. Choose one element. Un
 
 ## Elemental Assault Leads To...
 
-[[Continuous Assault]], [[Tetraelemental Assault]]
+[[DATABASE/feat/Continuous Assault|Continuous Assault]], [[DATABASE/feat/Tetraelemental Assault|Tetraelemental Assault]]
 
 ## Traits
 
@@ -52,4 +53,4 @@ Effects and magic items with this trait are associated with the evocation school
 
 **Suli:**
 
-Sulis are planar scions descended from [[Janni]].
+Sulis are planar scions descended from [[DATABASE/monster/Janni|jann]].

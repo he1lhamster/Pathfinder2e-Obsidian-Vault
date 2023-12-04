@@ -11,6 +11,7 @@ name: Hurricane Swing
 prerequisite: '[[DATABASE/feat/Storm''s Lash|Storm''s Lash]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,13 +24,13 @@ type: Feat
 # Hurricane Swing <span class="action-icon">5</span> <span class="item-type">Feat 17</span>
 
 <span class="item-trait">Tengu</span>
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 **Frequency** once per day
-**Prerequisites** [[Storm's Lash]]
+**Prerequisites** [[DATABASE/feat/Storm's Lash|Storm's Lash]]
 **Trigger** You critically hit a foe with a Strike with a slashing weapon.
 
 ---
-Choose either [[Lightning Bolt]] or [[Gust of Wind]]. You Cast the chosen Spell as a 6th-level primal innate spell in the direction of the target of the triggering action.
+Choose either [[DATABASE/spell/Lightning Bolt|lightning bolt]] or [[DATABASE/spell/Gust of Wind|gust of wind]]. You Cast the chosen Spell as a 6th-level primal innate spell in the direction of the target of the triggering action.
 
 ## Traits
 

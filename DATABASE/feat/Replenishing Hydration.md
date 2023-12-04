@@ -11,6 +11,7 @@ name: Replenishing Hydration
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Absalom, City of Lost Omens|Absalom, City of Lost Omens]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Replenishing Hydration <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Azarketi</span>
-**Source** [[Absalom, City of Lost Omens]], [[Azarketi Ancestry Web Supplement]]
+**Source** [[DATABASE/source/Absalom, City of Lost Omens|Absalom, City of Lost Omens]], [[DATABASE/source/Azarketi Ancestry Web Supplement|Azarketi Ancestry Web Supplement]]
 
 ---
 You draw life from the water around you. If you submerge in water and rest for 10 minutes, you regain Hit Points equal to your Constitution modifier × half your level.

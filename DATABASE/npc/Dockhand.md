@@ -65,19 +65,19 @@ wisdom: '+1'
 # Dockhand
 
 Working to load and unload cargo from ships, dockhands are considered unruly, but many stay focused and work hard until the job is done. Some do celebrate the end of their work day with rowdy drinking.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 14
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 14
 **Unspecific Lore**: DC 12
 **Specific Lore**: DC 9
 
 # Dockhand<span class="item-type">Creature 0</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Perception** +3
-**Languages** [[Common]]
-**Skills** [[Acrobatics]] +3, [[Athletics]] +5, [[Intimidation]] +3, [[Lore]] +4
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +3, [[DATABASE/skill/Athletics|Athletics]] +5, [[DATABASE/skill/Intimidation|Intimidation]] +3, [[DATABASE/skill/Lore|Labor Lore]] +4
 **Str** +3, **Dex** +1, **Con** +3, **Int** +0, **Wis** +1, **Cha** +1
-**Items** empty bottle (3), [[Leather Armor]], whiskey (1 bottle)
+**Items** empty bottle (3), [[DATABASE/armor/Leather Armor|leather armor]], whiskey (1 bottle)
 
 ---
 **AC** 14; **Fort** +7, **Ref** +5, **Will** +3
@@ -85,4 +85,4 @@ Working to load and unload cargo from ships, dockhands are considered unruly, bu
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +7 [+3/-1] (agile, nonlethal), **Damage** 1d4+3 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> bottle +5 [+1/-3] (agile, thrown 20 feet), **Damage** 1d6+3 bludgeoning</span><span class="in-box-ability">**Heft Crate** <span class="action-icon">2</span> (manipulate) **Requirements** The dockhand is adjacent to a crate; **Effect** The dockhand picks up a crate and heaves it up to 15 feet. Upon landing, the crate breaks open in a 5-foot burst. Each creature within the area takes 2d6 bludgeoning damage (DC 13 basic Reflex save), and the area becomes difficult terrain until cleared.</span><span class="in-box-ability">**Swig** <span class="action-icon">2</span> (manipulate) The dockhand Interacts to either draw a bottle of alcohol or pick up a nearby unattended bottle of alcohol and drink the whole thing. For 1 minute, the dockhand gains a +2 item bonus to melee damage rolls and saving throws against fear, but they become [[Clumsy]].</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +7 [+3/-1] (agile, nonlethal), **Damage** 1d4+3 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> bottle +5 [+1/-3] (agile, thrown 20 feet), **Damage** 1d6+3 bludgeoning</span><span class="in-box-ability">**Heft Crate** <span class="action-icon">2</span> (manipulate) **Requirements** The dockhand is adjacent to a crate; **Effect** The dockhand picks up a crate and heaves it up to 15 feet. Upon landing, the crate breaks open in a 5-foot burst. Each creature within the area takes 2d6 bludgeoning damage (DC 13 basic Reflex save), and the area becomes difficult terrain until cleared.</span><span class="in-box-ability">**Swig** <span class="action-icon">2</span> (manipulate) The dockhand Interacts to either draw a bottle of alcohol or pick up a nearby unattended bottle of alcohol and drink the whole thing. For 1 minute, the dockhand gains a +2 item bonus to melee damage rolls and saving throws against fear, but they become [[DATABASE/condition/Clumsy|clumsy 1]].</span>

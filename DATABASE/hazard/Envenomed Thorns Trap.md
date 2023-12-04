@@ -17,6 +17,7 @@ name: Envenomed Thorns Trap
 rarity: Common
 reflex: '+4'
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: The
   Show Must Go On]]'
@@ -31,13 +32,13 @@ will: null
 # Envenomed Thorns Trap<span class="item-type">Hazard 2</span>
 
 <span class="item-trait">Mechanical</span><span class="item-trait">Trap</span>
-**Source** [[Pathfinder 151. The Show Must Go On]]
+**Source** [[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: The Show Must Go On]]
 **Complexity** Simple
 **Stealth** DC 20 (trained)
 **Description** A trip wire strung 4 feet above the ground releases a branch studded with envenomed thorns.
 
 ---
-**Disable** [[Thievery]] DC 18 (trained) to remove the trip wire.
+**Disable** [[DATABASE/skill/Thievery|Thievery]] DC 18 (trained) to remove the trip wire.
 **AC** 18, **Fort** +10, **Ref** +4
 **Hardness** 5, **HP** 28 (BT 14); **Immunities** critical hits, object immunities, precision damage
 **Thorny Branch** <span class="action-icon">5</span> (poison); **Trigger** The trip wire is touched; **Effect** The trap's poisoned thorns attack the creature or object touching the trip wire.

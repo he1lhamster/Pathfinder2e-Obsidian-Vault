@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -52,9 +53,9 @@ weapon_type: null
 # Experimental Clothing<span class="item-type">Item 2</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span>
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 25 gp
 **Usage** worn clothing; **Bulk** L
 
 ---
-Experimental clothing is custom tailored in radical, avant-garde styles by independent dressmakers, utilizing expensive or eccentric materials and unconventional patterns. At the GM's discretion, wearing experimental clothing may impart a +1 item bonus or –1 item penalty on checks to [[Make an Impression]], depending on the target's fashion sense.
+Experimental clothing is custom tailored in radical, avant-garde styles by independent dressmakers, utilizing expensive or eccentric materials and unconventional patterns. At the GM's discretion, wearing experimental clothing may impart a +1 item bonus or –1 item penalty on checks to [[DATABASE/action/Make an Impression|Make An Impression]], depending on the target's fashion sense.

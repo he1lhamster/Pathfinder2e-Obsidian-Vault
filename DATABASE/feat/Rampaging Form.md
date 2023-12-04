@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/action/Change Shape|Change Shape]] with a fox alternat
   form'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -24,12 +25,12 @@ type: Feat
 # Rampaging Form <span class="item-type">Feat 17</span>
 
 <span class="item-trait">Kitsune</span>
-**Source** [[Ancestry Guide]] 
-**Prerequisites** [[Change Shape]] with a fox alternate form
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
+**Prerequisites** [[DATABASE/action/Change Shape|Change Shape]] with a fox alternate form
 
 ---
-Once per day, when you Change Shape into a fox, you can instead gain the effects of both the canine form of 5th-level [[Animal Form]] and 7th-level [[Fiery Body]] for 1 minute or until you shift back, whichever comes first. You can cast [[Produce Flame]] from the fiery body effect even though you're in a battle form.
-**Special** If you are a [[Frozen Wind Kitsune]], your form is ice instead of fire. This changes the immunity and damage from the _fiery body_ effect to cold, changes the weakness to fire, and changes _produce flame_ to [[Ray of Frost]]
+Once per day, when you Change Shape into a fox, you can instead gain the effects of both the canine form of 5th-level [[DATABASE/spell/Animal Form|animal form]] and 7th-level [[DATABASE/spell/Fiery Body|fiery body]] for 1 minute or until you shift back, whichever comes first. You can cast [[DATABASE/spell/Produce Flame|produce flame]] from the fiery body effect even though you're in a battle form.
+**Special** If you are a [[DATABASE/heritage/Frozen Wind Kitsune|frozen wind kitsune]], your form is ice instead of fire. This changes the immunity and damage from the _fiery body_ effect to cold, changes the weakness to fire, and changes _produce flame_ to [[DATABASE/spell/Ray of Frost|ray of frost]]
 
 ## Traits
 

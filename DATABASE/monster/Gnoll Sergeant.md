@@ -74,19 +74,19 @@ wisdom: '+1'
 # Gnoll Sergeant
 
 When gnolls band together to form hunting or raiding parties, the strongest among them is often designated the leader or sergeant. These gnolls train extensively in the art of war. Their skill at arms and the respect they command make them powerful adversaries. In smaller clans or single family units, a gnoll sergeant might also serve as the group’s leader in other affairs, such as sorting out domestic disputes or negotiating with rival gnoll clans.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 19
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 19
 **Unspecific Lore**: DC 17
 **Specific Lore**: DC 14
 
 # Gnoll Sergeant<span class="item-type">Creature 4</span>
 
 <span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Gnoll</span><span class="item-trait">Humanoid</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +10; darkvision
-**Languages** [[Common]], [[Gnoll]]
-**Skills** [[Athletics]] +13, [[Intimidation]] +9, [[Stealth]] +11, [[Survival]] +10
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Gnoll|Gnoll]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +13, [[DATABASE/skill/Intimidation|Intimidation]] +9, [[DATABASE/skill/Stealth|Stealth]] +11, [[DATABASE/skill/Survival|Survival]] +10
 **Str** +4, **Dex** +2, **Con** +2, **Int** +0, **Wis** +1, **Cha** +0
-**Items** [[Composite Shortbow]], [[Hide Armor]], [[Scimitar]]
+**Items** [[DATABASE/weapon/Composite Shortbow|composite shortbow (20 arrows)]], [[DATABASE/armor/Hide Armor|hide armor]], [[DATABASE/weapon/Scimitar|scimitar]]
 
 ---
 **AC** 21; **Fort** +12, **Ref** +10, **Will** +8

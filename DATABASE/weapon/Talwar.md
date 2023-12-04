@@ -12,6 +12,7 @@ name: Talwar
 price: 2 gp
 range: null
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 trait:
 - '[[DATABASE/trait/Forceful|Forceful]]'
@@ -26,13 +27,13 @@ weapon_type: Melee
 # Talwar
 
 <span class="item-trait">Forceful</span><span class="item-trait">Two-Hand d10</span><span class="item-trait">Versatile P</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 **Price** 2 gp; **Damage** 1d6 S; **Bulk** 1
 **Hands** 1
-**Type** Melee; **Category** Martial; **Group** [[Sword]]
+**Type** Melee; **Category** Martial; **Group** [[DATABASE/weapongroup/Sword|Sword]]
 
 ---
-Longer, and with less curve than a [[Scimitar]], this blade is ubiquitous in guard and mercenary groups throughout Casmaron.
+Longer, and with less curve than a [[DATABASE/weapon/Scimitar|scimitar]], this blade is ubiquitous in guard and mercenary groups throughout Casmaron.
 
 ## Traits
 
@@ -42,7 +43,7 @@ This weapon becomes more dangerous as you build momentum. When you attack with i
 
 **Two-Hand d10:**
 
-This weapon can be wielded with two hands. Doing so changes its weapon damage die to the indicated value. This change applies to all the weapon's damage dice, such as those from _[[Striking]]_ runes.
+This weapon can be wielded with two hands. Doing so changes its weapon damage die to the indicated value. This change applies to all the weapon's damage dice, such as those from _[[DATABASE/equipment/Striking|striking]]_ runes.
 
 **Versatile P:**
 
@@ -50,6 +51,6 @@ A versatile weapon can be used to deal a different type of damage than that list
 
 ## Critical Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
-**Sword**: The target is made off-balance by your attack, becoming [[Flat-Footed]] until the start of your next turn.
+**Sword**: The target is made off-balance by your attack, becoming [[DATABASE/condition/Flat-Footed|flat-footed]] until the start of your next turn.

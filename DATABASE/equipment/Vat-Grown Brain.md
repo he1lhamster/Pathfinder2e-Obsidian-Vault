@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Vat-Grown Brain<span class="item-type">Item 10</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span>
-**Source** [[Pathfinder 189. Dreamers of the Nameless Spires]]
+**Source** [[DATABASE/source/Pathfinder 189. Dreamers of the Nameless Spires|Pathfinder #189: Dreamers of the Nameless Spires]]
 **Price** 190 gp
 **Usage** held in 2 hands; **Bulk** 1
 **Activate** <span class="action-icon">3</span> Interact

@@ -12,6 +12,7 @@ prerequisite: null
 rarity: Common
 requirement: You are wielding a loaded ranged weapon with reload 1 or more, and you
   have not reloaded your weaponsince your last turn.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -25,7 +26,7 @@ type: Feat
 # Perfect Shot <span class="action-icon">3</span> <span class="item-type">Feat 18</span>
 
 <span class="item-trait">Flourish</span><span class="item-trait">Ranger</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Requirements** You are wielding a loaded ranged weapon with reload 1 or more, and you have not reloaded your weapon since your last turn.
 
 ---

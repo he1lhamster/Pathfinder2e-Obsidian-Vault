@@ -11,6 +11,7 @@ name: Turn to Mist
 prerequisite: '[[DATABASE/feat/Vampire Dedication|Vampire Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 subcategory: null
@@ -26,17 +27,17 @@ type: Feat
 # Turn to Mist <span class="action-icon">1</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Concentrate</span><span class="item-trait">Divine</span><span class="item-trait">Transmutation</span>
-**Source** [[Book of the Dead]]
-**Archetype** [[Vampire]]
+**Source** [[DATABASE/source/Book of the Dead|Book of the Dead]]
+**Archetype** [[DATABASE/archetype/Vampire|Vampire]]
 **Frequency** once per day
-**Prerequisites** [[Vampire Dedication]]
+**Prerequisites** [[DATABASE/feat/Vampire Dedication|Vampire Dedication]]
 
 ---
-You turn into vapor, gaining the effects of [[Gaseous Form]].
+You turn into vapor, gaining the effects of [[DATABASE/spell/Gaseous Form|gaseous form]].
 
 ## Turn to Mist Leads To...
 
-[[Mist Escape]]
+[[DATABASE/feat/Mist Escape|Mist Escape]]
 
 ## Traits
 

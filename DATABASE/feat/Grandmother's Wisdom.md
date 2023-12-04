@@ -11,6 +11,7 @@ name: Grandmother's Wisdom
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Grandmother's Wisdom <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Gnoll</span>
-**Source** [[The Mwangi Expanse]]
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]
 
 ---
-You carry the bones of your ancestors with you, and you can ask them for counsel. You can cast [[Augury]] twice per day as a 2nd-level occult innate spell.
+You carry the bones of your ancestors with you, and you can ask them for counsel. You can cast [[DATABASE/spell/Augury|augury]] twice per day as a 2nd-level occult innate spell.
 
 ## Traits
 

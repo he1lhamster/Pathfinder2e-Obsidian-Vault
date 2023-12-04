@@ -11,6 +11,7 @@ name: Hierophant's Power
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Hierophant's Power <span class="item-type">Feat 20</span>
 
 <span class="item-trait">Druid</span>
-**Source** [[Core Rulebook]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
 You have entwined yourself with the natural world, and its full power flows through you. You gain an additional 10th-level spell slot.

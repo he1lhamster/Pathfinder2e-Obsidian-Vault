@@ -3,6 +3,7 @@ creature_family: Angel
 id: '3'
 name: Angel
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Angel
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 The celestial hosts of angels are messengers and warriors, divided into choirs based on their abilities and purviews. The majority of angels are neutral good and live in Nirvana, the plane of virtue and enlightenment. However, some angels, including several angelic deities, have different alignments, and some even dwell on other planes. Regardless of alignment, angels remain benevolent messengers possessed with magical auras to aid their allies.
 
 ### Members
 
-[[Astral Deva (Emissary Angel)]] (Creature 14), [[Balisse (Confessor Angel)]] (Creature 8), [[Cassisian (Archive Angel)]] (Creature 1), [[Choral (Choir Angel)]] (Creature 6), [[Monadic Deva (Soul Angel)]] (Creature 12), [[Movanic Deva (Guardian Angel)]] (Creature 10), [[Planetar (Justice Angel)]] (Creature 16), [[Solar (Archangel)]] (Creature 23)
+[[DATABASE/monster/Astral Deva (Emissary Angel)|Astral Deva]] (Creature 14), [[DATABASE/monster/Balisse (Confessor Angel)|Balisse]] (Creature 8), [[DATABASE/monster/Cassisian (Archive Angel)|Cassisian]] (Creature 1), [[DATABASE/monster/Choral (Choir Angel)|Choral]] (Creature 6), [[DATABASE/monster/Monadic Deva (Soul Angel)|Monadic Deva]] (Creature 12), [[DATABASE/monster/Movanic Deva (Guardian Angel)|Movanic Deva]] (Creature 10), [[DATABASE/monster/Planetar (Justice Angel)|Planetar]] (Creature 16), [[DATABASE/monster/Solar (Archangel)|Solar]] (Creature 23)
 
 ###  Angelic Divinities
 

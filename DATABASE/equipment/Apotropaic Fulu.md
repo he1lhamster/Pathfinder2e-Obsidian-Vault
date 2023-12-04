@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 size: null
@@ -55,9 +56,9 @@ weapon_type: null
 # Apotropaic Fulu<span class="item-type">Item 5</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Consumable</span><span class="item-trait">Fulu</span><span class="item-trait">Magical</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Price** 25 gp
 **Usage** affixed over an entrance; **Bulk** —
 
 ---
-This unassuming yellow paper, affixed above a door or gate, flickers in the light. Pick an alignment trait: chaotic, good, lawful, or evil. When a creature with the opposing alignment trait of the fulu (good for an evil fulu, and so on) passes through the entrance, it must succeed at a DC 17 Fortitude save or become [[Sickened]]; regardless of whether they succeed, the creature becomes temporarily immune for 1 day.
+This unassuming yellow paper, affixed above a door or gate, flickers in the light. Pick an alignment trait: chaotic, good, lawful, or evil. When a creature with the opposing alignment trait of the fulu (good for an evil fulu, and so on) passes through the entrance, it must succeed at a DC 17 Fortitude save or become [[DATABASE/condition/Sickened|sickened 2]]; regardless of whether they succeed, the creature becomes temporarily immune for 1 day.

@@ -22,6 +22,7 @@ patron_theme: null
 range: 120 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -41,8 +42,8 @@ type: Focus
 # Moonbeam<span class="item-type">Focus 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Attack</span><span class="item-trait">Cleric</span><span class="item-trait">Evocation</span><span class="item-trait">Fire</span><span class="item-trait">Light</span>
-**Source** [[Core Rulebook]] 
-**Domain** [[Moon Domain]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Domain** [[DATABASE/domain/Moon Domain|moon]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 120 feet; **Targets** 1 creature
 

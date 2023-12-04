@@ -11,6 +11,7 @@ name: Tengu Lore
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Tengu Lore <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Tengu</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
-You learned skills for surviving in the place where your people were dispersed. You gain the trained proficiency rank in [[Society]] and [[Survival]]. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. You also become trained in [[Lore]].
+You learned skills for surviving in the place where your people were dispersed. You gain the trained proficiency rank in [[DATABASE/skill/Society|Society]] and [[DATABASE/skill/Survival|Survival]]. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. You also become trained in [[DATABASE/skill/Lore|Tengu Lore]].
 
 ## Traits
 

@@ -10,6 +10,7 @@ level: '0'
 name: Meteor Shield
 price: 4 gp
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 speed_penalty: null
 trait:
@@ -20,7 +21,7 @@ type: Shield
 # Meteor Shield
 
 <span class="item-trait">Shield Throw 30 ft.</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 4 gp; **AC Bonus** +2; **Speed Penalty** —
 **Bulk** 1; **Hardness** 4; **HP (BT)** 16 (8)
 
@@ -29,4 +30,4 @@ Meteor shields are specifically designed with throwing in mind. A meteor shield 
 
 ## Specific Magic Shields
 
-[[Helmsman's Recourse]]
+[[DATABASE/equipment/Helmsman's Recourse|Helmsman's Recourse]]

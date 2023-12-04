@@ -89,23 +89,23 @@ wisdom: '+0'
 ---
 # Mithral Golem
 
-Mithral golems are gorgeously crafted, silvery humanoids made from colossal amounts of the purest [[Mithral]]. While massive in construction, they possess amazing speed and grace through literal fluidity. Unpredictable and flexible, they can melt into liquid form and reform into a solid shape in mere seconds, allowing them to shape their limbs into sharp spikes or heavy fists as needed.
-**Recall Knowledge - Construct ([[Arcana]], [[Crafting]])**: DC 40
+Mithral golems are gorgeously crafted, silvery humanoids made from colossal amounts of the purest [[DATABASE/equipment/Mithral|mithral]]. While massive in construction, they possess amazing speed and grace through literal fluidity. Unpredictable and flexible, they can melt into liquid form and reform into a solid shape in mere seconds, allowing them to shape their limbs into sharp spikes or heavy fists as needed.
+**Recall Knowledge - Construct ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Crafting|Crafting]])**: DC 40
 **Unspecific Lore**: DC 38
 **Specific Lore**: DC 35
 
 # Mithral Golem<span class="item-type">Creature 16</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Huge</span><span class="item-trait">Construct</span><span class="item-trait">Golem</span><span class="item-trait">Mindless</span>
-**Source** [[Bestiary 3]]
-**Perception** +26; [[Darkvision]]
-**Skills** [[Acrobatics]] +30, [[Athletics]] +33
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
+**Perception** +26; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +30, [[DATABASE/skill/Athletics|Athletics]] +33
 **Str** +9, **Dex** +6, **Con** +5, **Int** -5, **Wis** +0, **Cha** -5
 
 ---
 **AC** 40; **Fort** +27, **Ref** +30, **Will** +24
-**HP** 220; **Immunities** death effects, disease, [[Doomed]], [[Drained]], [[Fatigued]], healing, magic (see below), mental, necromancy, nonlethal attacks, [[Paralyzed]], poison, [[Sickened]], [[Unconscious]]; **Resistances** physical 15 (except [[Adamantine Weapon]])
-<span class="in-box-ability">**Evasion** When the mithral golem rolls a success on a Reflex save, it gets a critical success instead.</span><span class="in-box-ability">**Golem Antimagic** harmed by cold and water (8d10, 2d10 from areas and persistent damage); healed by transmutation (area 2d10 HP); slowed by electricity</span><span class="in-box-ability">**Swift Steps** A mithral golem is permanently [[Quickened]], and it can use the extra action only to Step or Stride.</span><span class="in-box-ability">**Vulnerable to Slow** A mithral golem is not healed by a [[Slow]] spell, and such spells affect them normally. A [[Haste]] spell reverses the effects of a _slow_ spell immediately.</span>
+**HP** 220; **Immunities** death effects, disease, [[DATABASE/condition/Doomed|doomed]], [[DATABASE/condition/Drained|drained]], [[DATABASE/condition/Fatigued|fatigued]], healing, magic (see below), mental, necromancy, nonlethal attacks, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Sickened|sickened]], [[DATABASE/condition/Unconscious|unconscious]]; **Resistances** physical 15 (except [[DATABASE/equipment/Adamantine Weapon|adamantine]])
+<span class="in-box-ability">**Evasion** When the mithral golem rolls a success on a Reflex save, it gets a critical success instead.</span><span class="in-box-ability">**Golem Antimagic** harmed by cold and water (8d10, 2d10 from areas and persistent damage); healed by transmutation (area 2d10 HP); slowed by electricity</span><span class="in-box-ability">**Swift Steps** A mithral golem is permanently [[DATABASE/condition/Quickened|quickened]], and it can use the extra action only to Step or Stride.</span><span class="in-box-ability">**Vulnerable to Slow** A mithral golem is not healed by a [[DATABASE/spell/Slow|slow]] spell, and such spells affect them normally. A [[DATABASE/spell/Haste|haste]] spell reverses the effects of a _slow_ spell immediately.</span>
 
 ---
 **Speed** 50 feet, climb 40 feet

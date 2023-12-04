@@ -11,6 +11,7 @@ name: Back to Back
 prerequisite: '[[DATABASE/feat/Marshal Dedication|Marshal Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,12 +24,12 @@ type: Feat
 # Back to Back <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Marshal]]
-**Prerequisites** [[Marshal Dedication]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Marshal|Marshal]]
+**Prerequisites** [[DATABASE/feat/Marshal Dedication|Marshal Dedication]]
 
 ---
-You excel at watching your allies' backs and helping them watch yours. As long as you and an ally are adjacent to each other, neither of you can become [[Flat-Footed]] due to flanking unless both of you are flanked. If you're adjacent to more than one ally, all eligible allies can benefit at a given time. The benefit is negated for everyone if at least you and any one eligible ally are flanked, but not if your allies are flanked and you aren't.
+You excel at watching your allies' backs and helping them watch yours. As long as you and an ally are adjacent to each other, neither of you can become [[DATABASE/condition/Flat-Footed|flat-footed]] due to flanking unless both of you are flanked. If you're adjacent to more than one ally, all eligible allies can benefit at a given time. The benefit is negated for everyone if at least you and any one eligible ally are flanked, but not if your allies are flanked and you aren't.
 
 ## Traits
 

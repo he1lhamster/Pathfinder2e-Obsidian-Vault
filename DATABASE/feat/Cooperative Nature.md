@@ -11,6 +11,7 @@ name: Cooperative Nature
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,17 +24,17 @@ type: Feat
 # Cooperative Nature <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Human</span>
-**Source** [[Core Rulebook]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
-The short human life span lends perspective and has taught you from a young age to set aside differences and work with others to achieve greatness. You gain a +4 circumstance bonus on checks to [[Aid]].
+The short human life span lends perspective and has taught you from a young age to set aside differences and work with others to achieve greatness. You gain a +4 circumstance bonus on checks to [[DATABASE/action/Aid|Aid]].
 
 ## Cooperative Nature Leads To...
 
-[[Cooperative Soul]]
+[[DATABASE/feat/Cooperative Soul|Cooperative Soul]]
 
 ## Traits
 
 **Human:**
 
-A creature with this trait is a member of the [[Human]] ancestry. Humans are a diverse array of people known for their adaptability. An ability with this trait can be used or selected only by humans.
+A creature with this trait is a member of the [[DATABASE/ancestry/Human|human]] ancestry. Humans are a diverse array of people known for their adaptability. An ability with this trait can be used or selected only by humans.

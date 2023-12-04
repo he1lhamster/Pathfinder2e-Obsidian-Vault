@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Enchantment
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Choker of Elocution<span class="item-type">Item 6+</span>
 
 <span class="item-trait">Enchantment</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** worn collar; **Bulk** L
 
 ---
@@ -63,13 +64,13 @@ This platinum choker bears characters from a language’s alphabet, and it gives
 
 ## Choker of Elocution<span class="item-type">Item 6</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 200 gp
 **Bulk** L
 
 ## Choker of Elocution (Greater)<span class="item-type">Item 10</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 850 gp
 **Bulk** L
 The item bonus is +2. The choker bears characters from three languages and grants fluency in all three.

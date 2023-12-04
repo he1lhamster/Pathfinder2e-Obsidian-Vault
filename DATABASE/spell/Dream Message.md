@@ -21,6 +21,7 @@ patron_theme: null
 range: planetary
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -39,7 +40,7 @@ type: Spell
 # Dream Message<span class="item-type">Spell 3</span>
 
 <span class="item-trait">Enchantment</span><span class="item-trait">Mental</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, divine, occult
 **Cast** 10 minutes (somatic, verbal)
 **Range** planetary; **Targets** 1 creature you know by name and have met in person

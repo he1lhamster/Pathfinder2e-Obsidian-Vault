@@ -11,6 +11,7 @@ name: Miraculous Repair
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -32,7 +33,7 @@ type: Feat
 # Miraculous Repair <span class="action-icon">3</span> <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Arcane</span><span class="item-trait">Ardande</span><span class="item-trait">Concentrate</span><span class="item-trait">Ifrit</span><span class="item-trait">Oread</span><span class="item-trait">Suli</span><span class="item-trait">Sylph</span><span class="item-trait">Talos</span><span class="item-trait">Transmutation</span><span class="item-trait">Undine</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 **Frequency** once per day
 
 ---
@@ -46,7 +47,7 @@ This magic comes from the arcane tradition, which is built on logic and rational
 
 **Ardande:**
 
-Ardandes are [[Planar Scion]] descended from [[Kizidhar]] and other beings of elemental wood.
+Ardandes are [[DATABASE/monsterfamily/Planar Scion|planar scions]] descended from [[DATABASE/monster/Kizidhar|kizidhar]] and other beings of elemental wood.
 
 **Concentrate:**
 
@@ -54,23 +55,23 @@ An action with this trait requires a degree of mental concentration and discipli
 
 **Ifrit:**
 
-Ifrits are planar scions descended from [[Efreeti]].
+Ifrits are planar scions descended from [[DATABASE/monster/Efreeti|efreet]].
 
 **Oread:**
 
-Oreads are planar scions descended from [[Shaitan]].
+Oreads are planar scions descended from [[DATABASE/monster/Shaitan|shaitans]].
 
 **Suli:**
 
-Sulis are planar scions descended from [[Janni]].
+Sulis are planar scions descended from [[DATABASE/monster/Janni|jann]].
 
 **Sylph:**
 
-Sylphs are planar scions descended from [[Djinni]].
+Sylphs are planar scions descended from [[DATABASE/monster/Djinni|djinn]].
 
 **Talos:**
 
-Taloses are [[Planar Scion]] descended from [[Zuhra]].
+Taloses are [[DATABASE/monsterfamily/Planar Scion|planar scions]] descended from [[DATABASE/monster/Zuhra|zuhras]].
 
 **Transmutation:**
 
@@ -78,4 +79,4 @@ Effects and magic items with this trait are associated with the transmutation sc
 
 **Undine:**
 
-Undines are planar scions descended from [[Marid]].
+Undines are planar scions descended from [[DATABASE/monster/Marid|marids]].

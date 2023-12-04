@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Swashbuckler Dedication|Swashbuckler Dedication]]
   expert in Reflex saves'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Evasiveness (Swashbuckler) <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Swashbuckler]]
-**Prerequisites** [[Swashbuckler Dedication]]; expert in Reflex saves
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Swashbuckler|Swashbuckler]]
+**Prerequisites** [[DATABASE/feat/Swashbuckler Dedication|Swashbuckler Dedication]]; expert in Reflex saves
 
 ---
 Your proficiency rank for Reflex saves increases to master.

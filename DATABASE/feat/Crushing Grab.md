@@ -11,6 +11,7 @@ name: Crushing Grab
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Crushing Grab <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Monk</span>
-**Source** [[Core Rulebook]] 
-**Archetypes** [[Wrestler]]*, [[Zombie]]*
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetypes** [[DATABASE/archetype/Wrestler|Wrestler]]*, [[DATABASE/archetype/Zombie|Zombie]]*
 * This archetype offers Crushing Grab at a different level than displayed here.
 
 ---

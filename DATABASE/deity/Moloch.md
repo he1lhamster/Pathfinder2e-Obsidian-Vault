@@ -21,6 +21,7 @@ follower_alignment:
 id: '70'
 name: Moloch
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -30,7 +31,7 @@ type: Deity
 ---
 # Moloch (The Ashen Bull) [LE]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 The general of Hell’s armies, Moloch, embodies infernal discipline and incomparable destructive power. Across his ream of Malebolge, the sixth layer of Hell, the Ashen Bull trains countless legions of devils to wage unending war. He not only teaches obedience, but demands it, punishing even the slightest misstep or insurrection with immediate, fiery retribution. Despite his harsh nature, Moloch is the most widely worshipped of the archdevils among mortals, as he is the most likely to answer supplicants’ mundane pleas. In exchange, he asks only their souls to add to his endless armies—a price many are willing to pay.
 **Category** Archdevils
 **Edicts** Spread Hell’s order through war, convert communities to sole worship of Moloch, sacrifice creatures in fire
@@ -39,9 +40,9 @@ The general of Hell’s armies, Moloch, embodies infernal discipline and incompa
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Strength or Constitution
-**Divine Font** _[[Harm]]_
-**Divine Skill** [[Athletics]]
-**Favored Weapon** [[Whip]]
-**Domains** [[Destruction Domain]], [[Duty Domain]], [[Fire Domain]], [[Might Domain]]
-**Cleric Spells** 1st: _[[Burning Hands]]_, 5th: _[[Acid Storm]]_, 7th: _[[Fiery Body]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Strength or Constitution
+**Divine Font** _[[DATABASE/spell/Harm|harm]]_
+**Divine Skill** [[DATABASE/skill/Athletics|Athletics]]
+**Favored Weapon** [[DATABASE/weapon/Whip|whip]]
+**Domains** [[DATABASE/domain/Destruction Domain|destruction]], [[DATABASE/domain/Duty Domain|duty]], [[DATABASE/domain/Fire Domain|fire]], [[DATABASE/domain/Might Domain|might]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Burning Hands|burning hands]]_, 5th: _[[DATABASE/spell/Acid Storm|acid storm]]_, 7th: _[[DATABASE/spell/Fiery Body|fiery body]]_

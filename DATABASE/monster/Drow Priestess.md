@@ -87,20 +87,20 @@ wisdom: '+4'
 # Drow Priestess
 
 Many drow priestesses venerate demon lords and other foul divinities.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 18
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Drow Priestess<span class="item-type">Creature 3</span>
 
 <span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Drow</span><span class="item-trait">Elf</span><span class="item-trait">Humanoid</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +9; darkvision
-**Languages** [[Abyssal]], [[Elven]], [[Undercommon]]
-**Skills** [[Deception]] +8, [[Intimidation]] +8, [[Religion]] +9, [[Society]] +5, [[Stealth]] +7
+**Languages** [[DATABASE/language/Abyssal|Abyssal]], [[DATABASE/language/Elven|Elven]], [[DATABASE/language/Undercommon|Undercommon]]
+**Skills** [[DATABASE/skill/Deception|Deception]] +8, [[DATABASE/skill/Intimidation|Intimidation]] +8, [[DATABASE/skill/Religion|Religion]] +9, [[DATABASE/skill/Society|Society]] +5, [[DATABASE/skill/Stealth|Stealth]] +7
 **Str** +1, **Dex** +2, **Con** +1, **Int** +0, **Wis** +4, **Cha** +1
-**[[Light Blindness]]**
-**Items** [[Chain Mail]], [[Hand Crossbow]], [[Lethargy Poison]], [[Rapier]], [[Religious Symbol]], [[Steel Shield]] (Hardness 5, HP 20, BT 10)
+**[[DATABASE/monsterability/Light Blindness|Light Blindness]]**
+**Items** [[DATABASE/armor/Chain Mail|chain mail]], [[DATABASE/weapon/Hand Crossbow|hand crossbow (10 bolts)]], [[DATABASE/equipment/Lethargy Poison|lethargy poison (4 doses)]], [[DATABASE/weapon/Rapier|rapier]], [[DATABASE/equipment/Religious Symbol|religious symbol]], [[DATABASE/shield/Steel Shield|steel shield]] (Hardness 5, HP 20, BT 10)
 
 ---
 **AC** 20 (22 with shield raised); **Fort** +8, **Ref** +7, **Will** +11; +1 status to all saves vs. magic, +2 status to all saves vs. mental
@@ -109,5 +109,5 @@ Many drow priestesses venerate demon lords and other foul divinities.
 
 ---
 **Speed** 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> rapier +9 [+4/-1] (deadly 1d8, disarm, finesse), **Damage** 1d6+2 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> hand crossbow +9 [+4/-1] (range increment 60 feet, reload 1), **Damage** 1d6 piercing plus [[Lethargy Poison]]</span>**Divine Prepared Spells** DC 21; **2nd** _[[Harm]]_ (x3), _[[Silence]]_, _[[Spiritual Weapon]]_; **1st** _[[Bless]]_, _[[Command]]_, _[[Fear]]_; **Cantrips** **(2nd)** _[[Detect Magic]]_, _[[Guidance]]_, _[[Know Direction]]_, _[[Read Aura]]_, _[[Stabilize]]_
-**Divine Innate Spells** DC 17; **4th** _[[Darkness]]_; **3rd** _[[Dispel Magic]]_, _[[Levitate]]_ (x3); **2nd** _[[Darkness]]_ (at will), _[[Faerie Fire]]_ (at will); **1st** _[[Command]]_ (at will); **Cantrips** **(4th)** _[[Dancing Lights]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> rapier +9 [+4/-1] (deadly 1d8, disarm, finesse), **Damage** 1d6+2 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> hand crossbow +9 [+4/-1] (range increment 60 feet, reload 1), **Damage** 1d6 piercing plus [[DATABASE/equipment/Lethargy Poison|lethargy poison]]</span>**Divine Prepared Spells** DC 21; **2nd** _[[DATABASE/spell/Harm|harm]]_ (x3), _[[DATABASE/spell/Silence|silence]]_, _[[DATABASE/spell/Spiritual Weapon|spiritual weapon]]_; **1st** _[[DATABASE/spell/Bless|bless]]_, _[[DATABASE/spell/Command|command]]_, _[[DATABASE/spell/Fear|fear]]_; **Cantrips** **(2nd)** _[[DATABASE/spell/Detect Magic|detect magic]]_, _[[DATABASE/spell/Guidance|guidance]]_, _[[DATABASE/spell/Know Direction|know direction]]_, _[[DATABASE/spell/Read Aura|read aura]]_, _[[DATABASE/spell/Stabilize|stabilize]]_
+**Divine Innate Spells** DC 17; **4th** _[[DATABASE/spell/Darkness|darkness]]_; **3rd** _[[DATABASE/spell/Dispel Magic|dispel magic]]_, _[[DATABASE/spell/Levitate|levitate]]_ (x3); **2nd** _[[DATABASE/spell/Darkness|darkness]]_ (at will), _[[DATABASE/spell/Faerie Fire|faerie fire]]_ (at will); **1st** _[[DATABASE/spell/Command|command]]_ (at will); **Cantrips** **(4th)** _[[DATABASE/spell/Dancing Lights|dancing lights]]_

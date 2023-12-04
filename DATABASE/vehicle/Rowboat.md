@@ -16,6 +16,7 @@ price: 15 gp
 rarity: Common
 reflex: null
 resistance: null
+rus_type_level: null
 school: null
 size: Medium
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
@@ -27,13 +28,13 @@ type: Vehicle
 # Rowboat<span class="item-type">Vehicle 0</span>
 
 <span class="trait-size item-trait">Medium</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Price** 15 gp
 
 ---
 **Space** 10 feet long, 5 feet wide, 3 feet high
 **Crew** 1 pilot; **Passengers** 2
-**Piloting Check** [[Athletics]] (DC 16) or [[Lore]] (DC 14)
+**Piloting Check** [[DATABASE/skill/Athletics|Athletics]] (DC 16) or [[DATABASE/skill/Lore|Sailing Lore]] (DC 14)
 
 ---
 **AC** 10; **Fort** +6
@@ -42,4 +43,4 @@ type: Vehicle
 ---
 **Speed** swim 20 feet (rowed)
 **Collision** 2d4 (DC 14)
-**Portaged** The rowboat can be carried overland by 2 Medium creatures or 1 Large creature. Those creatures are [[Encumbered]] when doing so.
+**Portaged** The rowboat can be carried overland by 2 Medium creatures or 1 Large creature. Those creatures are [[DATABASE/condition/Encumbered|encumbered]] when doing so.

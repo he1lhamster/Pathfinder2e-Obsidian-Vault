@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -56,10 +57,10 @@ weapon_type: null
 # Fundamental Oil<span class="item-type">Item 11</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Consumable</span><span class="item-trait">Evocation</span><span class="item-trait">Magical</span><span class="item-trait">Oil</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 220 gp
 **Usage** held in 2 hands; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
 ---
-Made of elemental salts and essences from the Inner Sphere or where such planes leak onto the [[Material Plane]], _fundamental oil_ is anathema to elementals and other creatures with a weakness to elemental damage. A weapon anointed with this oil acts as _[[Bane Oil]]_ to elementals, but the damage type is the same as the target's greatest weakness if the target has weakness to acid, cold, electricity, fire, or sonic damage. If it has none of these, the additional damage is the same type as the weapon's damage type. These effects last 1 minute.
+Made of elemental salts and essences from the Inner Sphere or where such planes leak onto the [[DATABASE/plane/Material Plane|Material Plane]], _fundamental oil_ is anathema to elementals and other creatures with a weakness to elemental damage. A weapon anointed with this oil acts as _[[DATABASE/equipment/Bane Oil|bane oil]]_ to elementals, but the damage type is the same as the target's greatest weakness if the target has weakness to acid, cold, electricity, fire, or sonic damage. If it has none of these, the additional damage is the same type as the weapon's damage type. These effects last 1 minute.

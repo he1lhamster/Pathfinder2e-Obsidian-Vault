@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 size: null
@@ -55,10 +56,10 @@ weapon_type: null
 # Diadem of Intellect<span class="item-type">Item 17</span>
 
 <span class="item-trait">Apex</span><span class="item-trait">Divination</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 15,000 gp
 **Usage** worn circlet; **Bulk** L
 
 ---
 An elegant, colorful gem cut into a complex geometric pattern is slotted into a narrow metal band that fits around your brow. You gain a +3 item bonus to checks to Recall Knowledge, regardless of the skill. When you invest the diadem, you either increase your Intelligence score by 2 or increase it to 18, whichever would give you a higher score. This gives you additional trained skills and languages, as normal for increasing your Intelligence score. You must select skills and languages the first time you invest the item, and whenever you invest the same _diadem of intellect_, you get the same skills and languages you chose the first time.
-**Activate** <span class="action-icon">1</span> envision **Frequency** once per hour; **Effect** You gain the effects of [[Hypercognition]].
+**Activate** <span class="action-icon">1</span> envision **Frequency** once per hour; **Effect** You gain the effects of [[DATABASE/spell/Hypercognition|hypercognition]].

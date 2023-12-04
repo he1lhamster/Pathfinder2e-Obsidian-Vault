@@ -8,6 +8,7 @@ name: Board
 rarity: Common
 requirement: You are adjacent to a point of entry on the vehicle you are attempting
   to board.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
@@ -19,7 +20,7 @@ type: Action
 # Board <span class="action-icon">1</span>
 
 <span class="item-trait">Move</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Requirements** You are adjacent to a point of entry on the vehicle you are attempting to board.
 
 ---

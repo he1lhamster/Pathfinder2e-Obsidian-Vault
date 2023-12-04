@@ -27,6 +27,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -46,16 +47,16 @@ type: Spell
 # Feeblemind<span class="item-type">Spell 6</span>
 
 <span class="item-trait">Curse</span><span class="item-trait">Enchantment</span><span class="item-trait">Incapacitation</span><span class="item-trait">Mental</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult
-**Bloodline** [[Aberrant]]
-**Deities** [[Abraxas]], [[Arazni]], [[Gyronna]], [[Lorthact]], [[Valmallos]]
+**Bloodline** [[DATABASE/sorcererbloodline/Aberrant|aberrant]]
+**Deities** [[DATABASE/deity/Abraxas|Abraxas]], [[DATABASE/deity/Arazni|Arazni]], [[DATABASE/deity/Gyronna|Gyronna]], [[DATABASE/deity/Lorthact|Lorthact]], [[DATABASE/deity/Valmallos|Valmallos]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet; **Targets** 1 creature
 **Saving Throw** Will; **Duration** varies
 
 ---
-You drastically reduce the target's mental faculties. The target must attempt a Will save. The effects of this curse can be removed only through [[Remove Curse]] or another effect that targets curses.
+You drastically reduce the target's mental faculties. The target must attempt a Will save. The effects of this curse can be removed only through [[DATABASE/spell/Remove Curse|remove curse]] or another effect that targets curses.
 **Critical Success** The target is unaffected.
 **Success** The target is stupefied 2 for 1 round.
 **Failure** The target is stupefied 4 with an unlimited duration.

@@ -21,6 +21,7 @@ patron_theme: null
 range: 100 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Fortitude
 school: Evocation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -38,7 +39,7 @@ type: Spell
 # Painful Vibrations<span class="item-type">Spell 4</span>
 
 <span class="item-trait">Evocation</span><span class="item-trait">Sonic</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Traditions** divine, occult
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 100 feet; **Targets** 1 living creature
@@ -48,7 +49,7 @@ type: Spell
 You send powerful sound waves through an opponent's body, vibrating its bones and internal organs painfully. The creature takes 8d6 sonic damage and must attempt a Fortitude save.
 **Critical Success** The target is unaffected.
 **Success** The target takes half damage.
-**Failure** The target takes full damage, is [[Sickened]], and is [[Deafened]] for 1 round.
+**Failure** The target takes full damage, is [[DATABASE/condition/Sickened|sickened 1]], and is [[DATABASE/condition/Deafened|deafened]] for 1 round.
 **Critical Failure** The target takes double damage, is sickened 2, and is deafened for 1 minute.
 
 ---

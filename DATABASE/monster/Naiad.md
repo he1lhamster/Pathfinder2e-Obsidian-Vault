@@ -89,17 +89,17 @@ wisdom: '+1'
 # Naiad
 
 Naiads protect streams, ponds, springs, and other natural bodies of fresh water. While most naiads lead solitary lives close to their chosen ward, sometimes these nymphs congregate in coven-like groups where river tributaries meet, performing great magic and blessing the waters of the land. Because naiads’ bonds to their bodies of water permit more flexibility, they are the nymphs most likely to interact with humanoids and even visit their settlements on occasion. Unlike other nymphs, naiads occasionally become adventurers, especially when dark forces seek to despoil nature or otherwise threaten the land, joining forces with others to prevent the corruption of nature.
-**Recall Knowledge - Fey ([[Nature]])**: DC 15
+**Recall Knowledge - Fey ([[DATABASE/skill/Nature|Nature]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Naiad<span class="item-type">Creature 1</span>
 
 <span class="trait-alignment item-trait">CG</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Amphibious</span><span class="item-trait">Fey</span><span class="item-trait">Nymph</span><span class="item-trait">Water</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +6; low-light vision
-**Languages** [[Common]], [[Elven]], [[Sylvan]]; [[Speak with Animals]]
-**Skills** [[Acrobatics]] +6, [[Athletics]] +3, [[Diplomacy]] +7, [[Nature]] +6, [[Stealth]] +6, [[Survival]] +4
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Elven|Elven]], [[DATABASE/language/Sylvan|Sylvan]]; [[DATABASE/spell/Speak with Animals|speak with animals]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +6, [[DATABASE/skill/Athletics|Athletics]] +3, [[DATABASE/skill/Diplomacy|Diplomacy]] +7, [[DATABASE/skill/Nature|Nature]] +6, [[DATABASE/skill/Stealth|Stealth]] +6, [[DATABASE/skill/Survival|Survival]] +4
 **Str** +0, **Dex** +3, **Con** +0, **Int** +1, **Wis** +1, **Cha** +4
 **Wild Empathy** The naiad can use Diplomacy to Make an Impression on and make very simple Requests of animals.
 
@@ -110,5 +110,5 @@ Naiads protect streams, ponds, springs, and other natural bodies of fresh water.
 
 ---
 **Speed** 25 feet, swim 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> aqueous fist +8 [+4/+0] (agile, finesse, magical, water), **Damage** 1d6 bludgeoning</span>**Primal Innate Spells** DC 17; **1st** _[[Charm]]_, _[[Create Water]]_, _[[Tidal Surge]]_; **Constant** **(2nd)** _[[Speak with Animals]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> aqueous fist +8 [+4/+0] (agile, finesse, magical, water), **Damage** 1d6 bludgeoning</span>**Primal Innate Spells** DC 17; **1st** _[[DATABASE/spell/Charm|charm]]_, _[[DATABASE/spell/Create Water|create water]]_, _[[DATABASE/spell/Tidal Surge|tidal surge]]_; **Constant** **(2nd)** _[[DATABASE/spell/Speak with Animals|speak with animals]]_
 <span class="in-box-ability">**Water Healing** <span class="action-icon">2</span> (concentrate, healing, necromancy, primal) While within her bonded body of water (see water dependent above), the naiad heals 1 Hit Point every 10 minutes.</span>

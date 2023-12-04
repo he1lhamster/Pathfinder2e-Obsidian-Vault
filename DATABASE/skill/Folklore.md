@@ -4,6 +4,7 @@ ability_boost: null
 id: '24'
 name: Folklore
 rarity: Common
+rus_type_level: null
 skill:
 - Folklore
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
@@ -13,11 +14,11 @@ type: Skill
 ---
 # Folklore (Culture)
 
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 Folklore measures the kingdom’s connection with faiths and customs of all kinds. It also indicates how deeply tradition affects public life and the prominence of faith, worship, and culturally traditional activities.
 
-* **[[Focused Attention]]**
-* **[[Quell Unrest]]**
+* **[[DATABASE/generalskillaction/Focused Attention|Focused Attention]]**
+* **[[DATABASE/generalskillaction/Quell Unrest|Quell Unrest]]**
 
 ### Related Feats
 
@@ -25,10 +26,10 @@ To see a list of Feats related to Folklore, click here.
 
 # Folklore Untrained Actions
 
-## [[Celebrate Holiday]]
+## [[DATABASE/action/Celebrate Holiday|Celebrate Holiday]]
 
 <span class="item-trait">Downtime</span><span class="item-trait">Leadership</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 
 ---
 You declare a day of celebration. Holidays may be religious, historical, martial, or simply festive, but all relieve your citizens from their labors and give them a chance to make merry at the kingdom's expense. Attempt a basic check, but if your kingdom Celebrated a Holiday the previous turn, the DC increases by 4, as your kingdom hasn't had a chance to recover from the previous gala.

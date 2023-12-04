@@ -12,6 +12,7 @@ name: Broadspear
 price: 2 gp
 range: null
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 trait:
 - '[[DATABASE/trait/Reach|Reach]]'
@@ -26,10 +27,10 @@ weapon_type: Melee
 # Broadspear
 
 <span class="item-trait">Reach</span><span class="item-trait">Sweep</span><span class="item-trait">Versatile S</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 **Price** 2 gp; **Damage** 1d10 P; **Bulk** 2
 **Hands** 2
-**Type** Melee; **Category** Advanced; **Group** [[Spear]]
+**Type** Melee; **Category** Advanced; **Group** [[DATABASE/weapongroup/Spear|Spear]]
 
 ---
 The spearhead of this weapon is in the shape of a long leaf.
@@ -50,6 +51,6 @@ A versatile weapon can be used to deal a different type of damage than that list
 
 ## Critical Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
-**Spear**: The weapon pierces the target, weakening its attacks. The target is [[Clumsy]] until the start of your next turn.
+**Spear**: The weapon pierces the target, weakening its attacks. The target is [[DATABASE/condition/Clumsy|clumsy 1]] until the start of your next turn.

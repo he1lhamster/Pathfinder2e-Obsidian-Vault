@@ -79,17 +79,17 @@ wisdom: '+2'
 # Xorn
 
 These squat, rotund elementals have three legs, three arms, three eyes, and one massive maw, which they fill with the gems and metals they find so delicious.
-**Recall Knowledge - Elemental ([[Arcana]], [[Nature]])**: DC 23
+**Recall Knowledge - Elemental ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 23
 **Unspecific Lore**: DC 21
 **Specific Lore**: DC 18
 
 # Xorn<span class="item-type">Creature 7</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Earth</span><span class="item-trait">Elemental</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +15; darkvision, tremorsense (imprecise) 60 feet
-**Languages** [[Common]], [[Terran]]
-**Skills** [[Athletics]] +17, [[Lore]] +15, [[Stealth]] +11, [[Survival]] +15
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Terran|Terran]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +17, [[DATABASE/skill/Lore|Geology Lore]] +15, [[DATABASE/skill/Stealth|Stealth]] +11, [[DATABASE/skill/Survival|Survival]] +15
 **Str** +6, **Dex** +0, **Con** +5, **Int** +0, **Wis** +2, **Cha** +0
 
 ---

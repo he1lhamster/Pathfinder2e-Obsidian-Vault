@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Linguist Dedication|Linguist Dedication]] ; Exper
   in [[DATABASE/skill/Society|Society]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,9 +26,9 @@ type: Feat
 # Phonetic Training <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Skill</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Linguist]]
-**Prerequisites** [[Linguist Dedication]]; expert in [[Society]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Linguist|Linguist]]
+**Prerequisites** [[DATABASE/feat/Linguist Dedication|Linguist Dedication]]; expert in [[DATABASE/skill/Society|Society]]
 
 ---
 You can pronounce and repeat words with near-perfect accuracy even if you don't understand their meaning, and you can write them down in a phonetic script that allows you or another creature with Phonetic Training to read it later. Even if the words are in a language with sound you can't pronounce, you can faithfully transcribe them. Memorizing long sequences of words remains just as difficult as it is normally.

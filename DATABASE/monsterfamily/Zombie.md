@@ -3,6 +3,7 @@ creature_family: Zombie
 id: '103'
 name: Zombie
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,7 +11,7 @@ type: Creature Family
 ---
 # Zombie
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 A zombie's only desire is to consume the living. Unthinking and ever-shambling harbingers of death, zombies stop only when they're destroyed.
 
 ## Zombie Abilities
@@ -27,24 +28,24 @@ You can modify zombies with the following zombie abilities. Most zombies have on
 ### Bestiary 3
 
 You can modify zombies with the following zombie abilities, in addition to those found on page 340 of the _Bestiary_. Most zombies have one of these abilities; if you give a zombie more, you might want to increase its level and adjust its statistics. 
-**Ankle Biter** This zombie fights just as well on the ground as it does standing. While [[Prone]], the zombie isn't [[Flat-Footed]], it ignores the status penalty to its attack rolls, and it gains a +2 circumstance bonus to [[Athletics]] checks to [[Trip]]. The zombie can also move up to half its Speed when it [[Crawl]]. 
+**Ankle Biter** This zombie fights just as well on the ground as it does standing. While [[DATABASE/condition/Prone|prone]], the zombie isn't [[DATABASE/condition/Flat-Footed|flat-footed]], it ignores the status penalty to its attack rolls, and it gains a +2 circumstance bonus to [[DATABASE/skill/Athletics|Athletics]] checks to [[DATABASE/action/Trip|Trip]]. The zombie can also move up to half its Speed when it [[DATABASE/action/Crawl|Crawls]]. 
 **Persistent Limbs** The first time the zombie is critically hit with a melee or ranged Strike, a limb falls off its body and continues to attack. The limb acts on the zombie's initiative; each round it can Stride up to half the zombie's Speed and make a Strike. The limb uses and contributes to the zombie's multiple attack penalty. 
-**Putrid Stench** (aura, olfactory) 15 feet. The zombie's rotting flesh is particularly malodorous. A creature that enters the area must attempt a Fortitude save. On a failure, the creature is [[Sickened]], and on a critical failure, the creature also takes a –5-foot status penalty to its Speeds for 1 round. While within the aura, the creature takes a –2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all zombies' putrid stenches for 1 minute. 
+**Putrid Stench** (aura, olfactory) 15 feet. The zombie's rotting flesh is particularly malodorous. A creature that enters the area must attempt a Fortitude save. On a failure, the creature is [[DATABASE/condition/Sickened|sickened 1]], and on a critical failure, the creature also takes a –5-foot status penalty to its Speeds for 1 round. While within the aura, the creature takes a –2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all zombies' putrid stenches for 1 minute. 
 **Unholy Speed** The zombie gains a +10 status bonus to all its Speeds
 
 ### Book of the Dead
 
 **Infested** The zombie's flesh is infested with swarming vermin. When the zombie is hit with a critical hit or destroyed, the swarm is set free. Its initiative is immediately after the zombie's. If the swarm is 4 or more levels lower than the zombie, it isn't worth XP (and doesn't add its XP to the encounter budget).
- **Spitting Zombie** The zombie spits acid as a ranged Strike with a range of 30 feet. This uses the highest attack bonus among the zombie's Strikes and deals 1d12 acid damage per 3 levels of the zombie (or 1d6 acid damage below level 3). On a critical hit, the target also takes 1d4 [[Persistent Damage]] per 3 levels of the zombie. Once used, the zombie must spend 1 action to cough up enough acid to use this ability again.
- **Tearing Grapple** The zombies work in groups to rip foes to pieces. Whenever a zombie with this ability successfully [[Grapple]] a foe that's already [[Grabbed]] or [[Restrained]] by another zombie with this ability, they violently struggle over the poor victim, dealing fist damage (or a similar Strike's damage if the zombie doesn't have a fist Strike). If the grapple is a critical success, the target takes double damage and ceases being grabbed or restrained by any other creatures. If the zombie has the [[Grab]] ability, using Grab deals half its fist Strike damage to the target.
+ **Spitting Zombie** The zombie spits acid as a ranged Strike with a range of 30 feet. This uses the highest attack bonus among the zombie's Strikes and deals 1d12 acid damage per 3 levels of the zombie (or 1d6 acid damage below level 3). On a critical hit, the target also takes 1d4 [[DATABASE/condition/Persistent Damage|persistent acid damage]] per 3 levels of the zombie. Once used, the zombie must spend 1 action to cough up enough acid to use this ability again.
+ **Tearing Grapple** The zombies work in groups to rip foes to pieces. Whenever a zombie with this ability successfully [[DATABASE/action/Grapple|Grapples]] a foe that's already [[DATABASE/condition/Grabbed|grabbed]] or [[DATABASE/condition/Restrained|restrained]] by another zombie with this ability, they violently struggle over the poor victim, dealing fist damage (or a similar Strike's damage if the zombie doesn't have a fist Strike). If the grapple is a critical success, the target takes double damage and ceases being grabbed or restrained by any other creatures. If the zombie has the [[DATABASE/monsterability/Grab|Grab]] ability, using Grab deals half its fist Strike damage to the target.
 
 ### Members
 
-[[Zombie, Dirge Piper]] (Creature 3), [[Husk Zombie]] (Creature 2), [[Plague Zombie]] (Creature 1), [[Shambler Troop]] (Creature 4), [[Zombie, Shock]] (Creature 6), [[Sulfur Zombie]] (Creature 6), [[Withered]] (Creature 5), [[Zombie Brute]] (Creature 2), [[Zombie Dragon]] (Creature 9), [[Zombie Hulk]] (Creature 6), [[Zombie Lord]] (Creature 4), [[Zombie Mammoth]] (Creature 11), [[Zombie Owlbear]] (Creature 3), [[Zombie Shambler]] (Creature -1), [[Zombie Snake]] (Creature 0)
+[[DATABASE/monster/Zombie, Dirge Piper|Dirge Piper]] (Creature 3), [[DATABASE/monster/Husk Zombie|Husk Zombie]] (Creature 2), [[DATABASE/monster/Plague Zombie|Plague Zombie]] (Creature 1), [[DATABASE/monster/Shambler Troop|Shambler Troop]] (Creature 4), [[DATABASE/monster/Zombie, Shock|Shock Zombie]] (Creature 6), [[DATABASE/monster/Sulfur Zombie|Sulfur Zombie]] (Creature 6), [[DATABASE/monster/Withered|Withered]] (Creature 5), [[DATABASE/monster/Zombie Brute|Zombie Brute]] (Creature 2), [[DATABASE/monster/Zombie Dragon|Zombie Dragon]] (Creature 9), [[DATABASE/monster/Zombie Hulk|Zombie Hulk]] (Creature 6), [[DATABASE/monster/Zombie Lord|Zombie Lord]] (Creature 4), [[DATABASE/monster/Zombie Mammoth|Zombie Mammoth]] (Creature 11), [[DATABASE/monster/Zombie Owlbear|Zombie Owlbear]] (Creature 3), [[DATABASE/monster/Zombie Shambler|Zombie Shambler]] (Creature -1), [[DATABASE/monster/Zombie Snake|Zombie Snake]] (Creature 0)
 
 ### Members
 
-[[Zombie]], [[Zombie, Tar]]
+[[DATABASE/monsterfamily/Zombie|Zombie]], [[DATABASE/monsterfamily/Zombie, Tar|Zombie, Tar]]
 
 ###  Creating Zombies
 
@@ -77,4 +78,4 @@ Life creates flesh to fulfill its needs, growing it to hunt, consume, and surviv
 
 ###  Zombie Animals
 
-Animals, like the [[Snake]], [[Owlbear]], and [[Mammoth]] found here, can easily turn into zombies. They commonly rise from areas cursed by necromancy rather than being deliberately created. [[Risen Pet]] sometimes develop a fondness for zombies, especially zombies of their former owners. An ordinary zombie can be a suitable companion, capable of petting the risen pet endlessly without the capacity to grow bored.
+Animals, like the [[DATABASE/monsterfamily/Snake|snake]], [[DATABASE/monster/Owlbear|owlbear]], and [[DATABASE/monster/Mammoth|mammoth]] found here, can easily turn into zombies. They commonly rise from areas cursed by necromancy rather than being deliberately created. [[DATABASE/monsterfamily/Risen Pet|Risen pets]] sometimes develop a fondness for zombies, especially zombies of their former owners. An ordinary zombie can be a suitable companion, capable of petting the risen pet endlessly without the capacity to grow bored.

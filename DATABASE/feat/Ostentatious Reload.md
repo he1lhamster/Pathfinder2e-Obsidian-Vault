@@ -11,6 +11,7 @@ name: Ostentatious Reload
 prerequisite: Trained in [[DATABASE/skill/Performance|Performance]]
 rarity: Uncommon
 requirement: You're wielding two one-handed firearms.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Ostentatious Reload <span class="action-icon">1</span> <span class="item-type">Feat 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Gunslinger</span>
-**Source** [[Firebrands]]
-**Prerequisites** trained in [[Performance]]
+**Source** [[DATABASE/source/Firebrands|Firebrands]]
+**Prerequisites** trained in [[DATABASE/skill/Performance|Performance]]
 **Access** Members of the Firebrands at the rank of second mark or higher have access to this feat.
 **Requirements** You're wielding two one-handed firearms.
 
@@ -40,4 +41,4 @@ Every good Firebrand knows that style can be as important as substance—so long
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.

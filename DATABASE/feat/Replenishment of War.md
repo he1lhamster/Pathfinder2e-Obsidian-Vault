@@ -11,6 +11,7 @@ name: Replenishment of War
 prerequisite: "expert in your deity\u2019s favored weapon"
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Replenishment of War <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Cleric</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Prerequisites** expert in your deity’s favored weapon
 
 ---
@@ -31,4 +32,4 @@ Striking out against your enemies draws praise and protection from your deity. W
 
 ## Replenishment of War Leads To...
 
-[[Shared Replenishment]]
+[[DATABASE/feat/Shared Replenishment|Shared Replenishment]]

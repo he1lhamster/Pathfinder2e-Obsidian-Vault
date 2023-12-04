@@ -13,6 +13,7 @@ land_speed: '20'
 max_speed: '20'
 name: Undead Hand
 rarity: Uncommon
+rus_type_level: null
 sense:
 - darkvision
 size: Small
@@ -33,8 +34,8 @@ wisdom: '+1'
 # Undead Hand
 
 <span class="trait-uncommon item-trait">Uncommon</span>
-**Source** [[Pathfinder 181. Zombie Feast]]
-Your companion is a large skeletal or fleshy humanoid hand, similar to a [[Giant Crawling Hand]].
+**Source** [[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie Feast]]
+Your companion is a large skeletal or fleshy humanoid hand, similar to a [[DATABASE/monster/Giant Crawling Hand|giant crawling hand]].
 **Size** Small
 **Melee** <span class="action-icon">1</span> claw (agile, finesse), **Damage** 1d6 slashing
 **Str** +2, **Dex** +2, **Con** +1, **Int** -5, **Wis** +1, **Cha** +0
@@ -46,9 +47,9 @@ Your companion is a large skeletal or fleshy humanoid hand, similar to a [[Giant
 **Support Benefit** The hand viciously batters the foes you attack. Until the start of your next turn, each time you hit a creature in the hand's reach with a Strike, the creature takes 1d6 bludgeoning damage from the hand. If your hand is nimble or savage, the bludgeoning damage increases to 2d6.
 **Advanced Maneuver** Grip Throat
 
-### [[Grip Throat]] <span class="action-icon">1</span>
+### [[DATABASE/action/Grip Throat|Grip Throat]] <span class="action-icon">1</span>
 
-**Source** [[Pathfinder 181. Zombie Feast]]
+**Source** [[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie Feast]]
 
 ---
-The hand attempts to [[Grapple]] a Medium or smaller creature by the throat. If the Grapple succeeds, in addition to the normal effects, the creature has difficulty speaking. While it remains [[Grabbed]] or [[Restrained]] by the hand, it must spend an extra action to perform any action that has the verbal trait.
+The hand attempts to [[DATABASE/action/Grapple|Grapple]] a Medium or smaller creature by the throat. If the Grapple succeeds, in addition to the normal effects, the creature has difficulty speaking. While it remains [[DATABASE/condition/Grabbed|grabbed]] or [[DATABASE/condition/Restrained|restrained]] by the hand, it must spend an extra action to perform any action that has the verbal trait.

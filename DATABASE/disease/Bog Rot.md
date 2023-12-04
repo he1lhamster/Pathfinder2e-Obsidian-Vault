@@ -4,6 +4,7 @@ level: '0'
 name: Bog Rot
 onset: 1 day
 rarity: Common
+rus_type_level: null
 saving_throw: DC 13 Fortitude
 school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
@@ -18,6 +19,6 @@ type: Disease
 # Bog Rot<span class="item-type">Disease 0</span>
 
 <span class="item-trait">Disease</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 Sometimes called bog foot, bog rot is caused by having waterlogged feet for an extended period of time. In addition to the usual cures for an affliction, bog rot can be cured through amputation of the affected appendages.
-**Saving Throw** DC 13 Fortitude; **Onset** 1 day; **Stage 1** [[Clumsy]] (1 day); **Stage 2** clumsy 1 and a –5-foot status penalty to Speed (1 day); **Stage 3** clumsy 2 and a –10-foot status penalty to Speed (1 day)
+**Saving Throw** DC 13 Fortitude; **Onset** 1 day; **Stage 1** [[DATABASE/condition/Clumsy|clumsy 1]] (1 day); **Stage 2** clumsy 1 and a –5-foot status penalty to Speed (1 day); **Stage 3** clumsy 2 and a –10-foot status penalty to Speed (1 day)

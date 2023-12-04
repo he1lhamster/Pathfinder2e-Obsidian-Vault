@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: You're a master with the affixed weapon
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 size: null
@@ -55,11 +56,11 @@ weapon_type: null
 # Dispelling Sliver<span class="item-type">Item 17</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Consumable</span><span class="item-trait">Magical</span><span class="item-trait">Talisman</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 2,400 gp
 **Usage** affixed to a weapon; **Bulk** —
 **Activate** <span class="action-icon">4</span> envision **Trigger** Your Strike damages a target; **Requirements** You're a master with the affixed weapon
 
 ---
-Made from a treated sliver of cold iron, this talisman allows you to counteract magical effects. When you activate the _dispelling sliver_, it attempts to counteract a single spell active on the target, with the effects of an 8th-level [[Dispel Magic]] spell (counteract modifier +29)
- If you activate the talisman on a successful [[Dispelling Slice]], the talisman attempts to counteract all spells active on the target.
+Made from a treated sliver of cold iron, this talisman allows you to counteract magical effects. When you activate the _dispelling sliver_, it attempts to counteract a single spell active on the target, with the effects of an 8th-level [[DATABASE/spell/Dispel Magic|dispel magic]] spell (counteract modifier +29)
+ If you activate the talisman on a successful [[DATABASE/feat/Dispelling Slice|Dispelling Slice]], the talisman attempts to counteract all spells active on the target.

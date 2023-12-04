@@ -70,21 +70,21 @@ wisdom: '+2'
 ---
 # Merchant
 
-Small settlements can typically support one or two generalist merchants, and larger cities house multiple specialists—experts in one type of product. Merchants can be found anywhere: vendors hustling in the public square, shopkeepers running small storefronts, traveling salespeople in carriages or caravans, or wealthy tycoons running entire organizations devoted to commerce. For encounters involving negotiation or mercantile skill, a merchant is a 4th—level challenge. A merchant might have an additional [[Lore]] skill about a specific category of item (such as jewelry or magic weapons), with a total skill bonus 2 higher than Mercantile Lore.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 13
+Small settlements can typically support one or two generalist merchants, and larger cities house multiple specialists—experts in one type of product. Merchants can be found anywhere: vendors hustling in the public square, shopkeepers running small storefronts, traveling salespeople in carriages or caravans, or wealthy tycoons running entire organizations devoted to commerce. For encounters involving negotiation or mercantile skill, a merchant is a 4th—level challenge. A merchant might have an additional [[DATABASE/skill/Lore|Lore]] skill about a specific category of item (such as jewelry or magic weapons), with a total skill bonus 2 higher than Mercantile Lore.
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 13
 **Unspecific Lore**: DC 11
 **Specific Lore**: DC 8
 
 # Merchant<span class="item-type">Creature -1</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Perception** +6
-**Languages** [[Common]]
-**Skills** [[Deception]] +10, [[Diplomacy]] +12, [[Lore]] +10, [[Performance]] +8, [[Society]] +8
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Deception|Deception]] +10, [[DATABASE/skill/Diplomacy|Diplomacy]] +12, [[DATABASE/skill/Lore|Mercantile Lore]] +10, [[DATABASE/skill/Performance|Performance]] +8, [[DATABASE/skill/Society|Society]] +8
 **Str** +2, **Dex** +0, **Con** -1, **Int** +2, **Wis** +2, **Cha** +4
-**Appraising Eye** The merchant can use [[Ant]] to [[Recall Knowledge]] about items, including determining their value. They can also attempt to [[Identify Magic]] using Mercantile Lore and can do so without first knowing whether the item is magical.
-**Items** [[Crossbow]], [[Padded Armor]]
+**Appraising Eye** The merchant can use [[DATABASE/monsterfamily/Ant|Mercantile Lore]] to [[DATABASE/action/Recall Knowledge|Recall Knowledge]] about items, including determining their value. They can also attempt to [[DATABASE/action/Identify Magic|Identify Magic]] using Mercantile Lore and can do so without first knowing whether the item is magical.
+**Items** [[DATABASE/weapon/Crossbow|crossbow (10 bolts)]], [[DATABASE/armor/Padded Armor|padded armor]]
 
 ---
 **AC** 13; **Fort** +1, **Ref** +2, **Will** +10

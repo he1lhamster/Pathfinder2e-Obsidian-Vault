@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Instant Fortress<span class="item-type">Item 16</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Conjuration</span><span class="item-trait">Magical</span><span class="item-trait">Structure</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 9,300 gp
 **Bulk** L
 
@@ -66,4 +67,4 @@ This metal cube is small enough to fit in your palm. Close inspection reveals fi
  As a magical structure, the fortress has the structure trait. Because it expands outward, the fortress can’t catch creatures inside it as a magical structure normally does. Instead, it pushes those creatures back. It can’t push a creature into a surface or hazard this way, and stops expanding if that would happen.
  The fortress has a single door in the center of one wall on the ground level, and the door appears directly in front of you when you activate the fortress. Provided you’re within 100 feet of the door, you can cause the door to open or slam shut and lock by spending a single action to issue a verbal command, which has the auditory trait. The DC to Force Open the door or Pick its Lock is 40.
  You can instantly return the _instant fortress_ to its cube form by spending a single action to issue a verbal command, which has the auditory trait. Once deactivated, the fortress can’t be activated again for 4 hours.
- If the fortress becomes damaged, it can be repaired only with a [[Remake]] spell or by someone who is legendary at Crafting.
+ If the fortress becomes damaged, it can be repaired only with a [[DATABASE/spell/Remake|remake]] spell or by someone who is legendary at Crafting.

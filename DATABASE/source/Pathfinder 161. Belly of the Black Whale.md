@@ -2,6 +2,7 @@
 id: '51'
 name: Pathfinder 161. Belly of the Black Whale
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -16,19 +17,19 @@ type: Source
 
 ## Deities [1]
 
-[[Ravithra]]
+[[DATABASE/deity/Ravithra|Ravithra]]
 
 ## Domains [1]
 
-[[Naga Domain]]
+[[DATABASE/domain/Naga Domain|Naga]]
 
 ## Equipment [10]
 
-[[Cauldron of Nightmares]], [[Clockwork Cloak]], [[Clockwork Helm]], [[Clockwork Rejuvenator]], [[Forgotten Shell]], [[Fungal Armor]], [[Garrote Bolt]], [[Gearblade]], [[Miogimo's Mask]], [[Nightmare Cudgel]]
+[[DATABASE/equipment/Cauldron of Nightmares|Cauldron of Nightmares]], [[DATABASE/equipment/Clockwork Cloak|Clockwork Cloak]], [[DATABASE/equipment/Clockwork Helm|Clockwork Helm]], [[DATABASE/equipment/Clockwork Rejuvenator|Clockwork Rejuvenator]], [[DATABASE/equipment/Forgotten Shell|Forgotten Shell]], [[DATABASE/equipment/Fungal Armor|Fungal Armor]], [[DATABASE/equipment/Garrote Bolt|Garrote Bolt]], [[DATABASE/equipment/Gearblade|Gearblade]], [[DATABASE/equipment/Miogimo's Mask|Miogimo's Mask]], [[DATABASE/equipment/Nightmare Cudgel|Nightmare Cudgel]]
 
 ## Monsters [7]
 
-[[Clockwork Amalgam]], [[Elemental Vessel, Water]], [[Lusca]], [[Minchgorm]], [[Myrucarx]], [[Obrousian]], [[Zealborn]]
+[[DATABASE/monster/Clockwork Amalgam|Clockwork Amalgam]], [[DATABASE/monster/Elemental Vessel, Water|Elemental Vessel, Water]], [[DATABASE/monster/Lusca|Lusca]], [[DATABASE/monster/Minchgorm|Minchgorm]], [[DATABASE/monster/Myrucarx|Myrucarx]], [[DATABASE/monster/Obrousian|Obrousian]], [[DATABASE/monster/Zealborn|Zealborn]]
 
 ## Setting Articles [2]
 
@@ -36,4 +37,4 @@ Prisons of the Inner Sea, Ravithra
 
 ## Spells [2]
 
-[[Ordained Purpose]], [[Split the Tongue]]
+[[DATABASE/spell/Ordained Purpose|Ordained Purpose]], [[DATABASE/spell/Split the Tongue|Split the Tongue]]

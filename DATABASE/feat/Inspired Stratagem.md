@@ -12,6 +12,7 @@ prerequisite: null
 rarity: Common
 requirement: You spent 10 minutes during your daily preparations reviewing stratagems
   for the day's adventureswith up to four allies.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -26,7 +27,7 @@ type: Feat
 # Inspired Stratagem <span class="action-icon">5</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Fortune</span><span class="item-trait">Linguistic</span><span class="item-trait">Rogue</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Trigger** One of the required allies is about to attempt an attack roll or skill check.
 **Requirements** You spent 10 minutes during your daily preparations reviewing stratagems for the day's adventures with up to four allies.
 

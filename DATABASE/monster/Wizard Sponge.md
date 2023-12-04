@@ -95,24 +95,24 @@ This strange type of fungus colony takes its name from its initial purpose: the 
 ## Variant Sponges
 
 Many types of wizard sponge exist, as an individual colony takes on distinctive properties based on what they've consumed in their environment. 
-**Crypt**: The wizard sponge gains [[Negative Healing]]. 
-**Fey Domain**: The wizard sponge gains weakness 5 to [[Cold Iron Weapon]], increases its Speed and climb Speed to 30 feet, and develops a strangely capricious growth pattern despite being mindless, such as growing in the pockets of a creature's clothing before devouring it. 
+**Crypt**: The wizard sponge gains [[DATABASE/monsterability/Negative Healing|negative healing]]. 
+**Fey Domain**: The wizard sponge gains weakness 5 to [[DATABASE/equipment/Cold Iron Weapon|cold iron]], increases its Speed and climb Speed to 30 feet, and develops a strangely capricious growth pattern despite being mindless, such as growing in the pockets of a creature's clothing before devouring it. 
 **Fiendish Temple**: The sponge gains weakness 5 to good damage, and Swarming Slither deals an extra 1d6 evil damage. 
-**Toxic Lair**: Swarming Slither deals 1d10 acid damage and 1d10 poison damage. If this variety is eaten, it deals 1d6 persistent [[Persistent Damage]]. 
+**Toxic Lair**: Swarming Slither deals 1d10 acid damage and 1d10 poison damage. If this variety is eaten, it deals 1d6 persistent [[DATABASE/condition/Persistent Damage|poison damage]]. 
 **Underwater**: The sponge grows as an aquatic fungus, gaining a swim speed of 20 feet.
-**Recall Knowledge - Fungus ([[Nature]])**: DC 20
+**Recall Knowledge - Fungus ([[DATABASE/skill/Nature|Nature]])**: DC 20
 **Unspecific Lore**: DC 18
 **Specific Lore**: DC 15
 
-## Elite | [[Wizard Sponge]] | Weak
+## Elite | [[DATABASE/monster/Wizard Sponge|Normal]] | Weak
 Proficiency without Level
 
 # Wizard Sponge<span class="item-type">Creature 5</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Fungus</span><span class="item-trait">Mindless</span><span class="item-trait">Swarm</span>
-**Source** [[Bestiary 3]]
-**Perception** +10; no vision, [[Tremorsense]] 60 feet
-**Skills** [[Athletics]] +12, [[Stealth]] +13 (+15 amid decaying plant matter or fungus)
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
+**Perception** +10; no vision, [[DATABASE/monsterability/Tremorsense|tremorsense]] 60 feet
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +12, [[DATABASE/skill/Stealth|Stealth]] +13 (+15 amid decaying plant matter or fungus)
 **Str** +3, **Dex** +4, **Con** +5, **Int** -5, **Wis** +1, **Cha** -3
 
 ---
@@ -122,7 +122,7 @@ Proficiency without Level
 
 ---
 **Speed** 20 feet, climb 20 feet; suction
-<span class="in-box-ability">**Swarming Slither** <span class="action-icon">1</span> The wizard sponge slithers over each creature in its space, dealing 2d10 acid damage (DC 20 basic Reflex save). A creature that critically fails is [[Sickened]].</span><span class="in-box-ability">**Suction Wizard** sponges can climb on ceilings and other inverted surfaces.</span><span class="in-box-ability">**Weak Acid** Wizard sponge acid damages only organic material—not metal, stone, or other inorganic substances.</span>
+<span class="in-box-ability">**Swarming Slither** <span class="action-icon">1</span> The wizard sponge slithers over each creature in its space, dealing 2d10 acid damage (DC 20 basic Reflex save). A creature that critically fails is [[DATABASE/condition/Sickened|sickened 1]].</span><span class="in-box-ability">**Suction Wizard** sponges can climb on ceilings and other inverted surfaces.</span><span class="in-box-ability">**Weak Acid** Wizard sponge acid damages only organic material—not metal, stone, or other inorganic substances.</span>
 
 ###  By Any Other Name
 

@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Staff of Divination<span class="item-type">Item 6+</span>
 
 <span class="item-trait">Divination</span><span class="item-trait">Magical</span><span class="item-trait">Staff</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** held in 1 hand; **Bulk** —
 
 ---
@@ -64,28 +65,28 @@ Semiprecious gemstones emerge, seemingly at random, from the surface of this gna
 
 ## Staff of Divination<span class="item-type">Item 6</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 230 gp
 **Bulk** 1
 
-* **Cantrip** [[Detect Magic]] 
-* **1st** [[True Strike]] 
-* **2nd** [[Comprehend Language]], [[Darkvision]], [[See Invisibility]]
+* **Cantrip** [[DATABASE/spell/Detect Magic|detect magic]] 
+* **1st** [[DATABASE/spell/True Strike|true strike]] 
+* **2nd** [[DATABASE/spell/Comprehend Language|comprehend language]], [[DATABASE/spell/Darkvision|darkvision]], [[DATABASE/spell/See Invisibility|see invisibility]]
 
 ## Staff of Divination (Greater)<span class="item-type">Item 10</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 900 gp
 **Bulk** 1
 
-* **3rd** [[Clairaudience]], _darkvision_ 
-* **4th** [[Clairvoyance]], _comprehend language_, [[Telepathy]]
+* **3rd** [[DATABASE/spell/Clairaudience|clairaudience]], _darkvision_ 
+* **4th** [[DATABASE/spell/Clairvoyance|clairvoyance]], _comprehend language_, [[DATABASE/spell/Telepathy|telepathy]]
 
 ## Staff of Divination (Major)<span class="item-type">Item 14</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 4,000 gp
 **Bulk** 1
 
-* **5th** [[Prying Eye]], [[Sending]] 
-* **6th** _telepathy_, [[True Seeing]]
+* **5th** [[DATABASE/spell/Prying Eye|prying eye]], [[DATABASE/spell/Sending|sending]] 
+* **6th** _telepathy_, [[DATABASE/spell/True Seeing|true seeing]]

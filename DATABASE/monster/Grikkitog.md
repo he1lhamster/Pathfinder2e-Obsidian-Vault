@@ -78,17 +78,17 @@ wisdom: '+5'
 # Grikkitog
 
 Grikkitogs, also known as “hungry earth,” are strange parasites from the Plane of Earth that infest and possess earth, rock, and stone in order to feed their endless hunger. A young grikkitog is a formless apparition until it corrupts an earth elemental host, forming the grikkitog’s core. A grikkitog can then infest the earth and stone nearby with its voracious essence, forming maws and eyes all around it. These creatures are particularly dangerous to small creatures that lair within gaps and holes among rocks, as well as mountain climbers searching for the perfect handhold.
-**Recall Knowledge - Aberration ([[Occultism]])**: DC 32
+**Recall Knowledge - Aberration ([[DATABASE/skill/Occultism|Occultism]])**: DC 32
 **Unspecific Lore**: DC 30
 **Specific Lore**: DC 27
 
 # Grikkitog<span class="item-type">Creature 14</span>
 
 <span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Huge</span><span class="item-trait">Aberration</span><span class="item-trait">Earth</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +29; darkvision, manifold vision, tremorsense (imprecise) 30 feet
-**Languages** [[Terran]]
-**Skills** [[Athletics]] +28, [[Deception]] +27 (+31 to imitate stone), [[Survival]] +25
+**Languages** [[DATABASE/language/Terran|Terran]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +28, [[DATABASE/skill/Deception|Deception]] +27 (+31 to imitate stone), [[DATABASE/skill/Survival|Survival]] +25
 **Str** +8, **Dex** +4, **Con** +5, **Int** +2, **Wis** +5, **Cha** +5
 **Implant Core** <span class="action-icon">3</span> (manipulate) The grikkitog implants its core into an adjacent section of earth or stone, melding seamlessly and changing its visual appearance to match the surrounding rock. It’s immobilized but automatically succeeds at its Deception check to Impersonate the stone around it; creatures actively searching for it can still attempt Perception checks against its Deception DC as normal. A grikkitog can release its implantation as a free action, which has the manipulate trait. A grikkitog’s infestation aura and manifold vision are only active while implanted.
  **Manifold Vision** While its core is implanted, the grikkitog can see through the eyes it creates throughout the area of its infestation aura, gaining the benefits of all-around vision.
@@ -100,7 +100,7 @@ Grikkitogs, also known as “hungry earth,” are strange parasites from the Pla
 
 ---
 **Speed** 20 feet; burrow 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +29 [+24/+19] (magical), **Damage** 3d12+14 piercing plus barbed maw</span><span class="in-box-ability">**Barbed Maw** Upon Striking a creature with its jaws, the grikkitog can extend its barbed teeth, immobilizing the target unless it succeeds at a DC 34 Reflex save. While [[Immobilized]], the victim takes 3d8 persistent bleed damage and the grikkitog feeds upon its flesh. The creature is immobilized until the grikkitog ends the effect as a free action or the target succeeds at a DC 38 check to Escape. The grikkitog can immobilize any number of creatures with these maws.</span><span class="in-box-ability">**Earth Glide** The grikkitog can Burrow through dirt and stone at its full burrow Speed, leaving no tunnels or signs of its passing.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +29 [+24/+19] (magical), **Damage** 3d12+14 piercing plus barbed maw</span><span class="in-box-ability">**Barbed Maw** Upon Striking a creature with its jaws, the grikkitog can extend its barbed teeth, immobilizing the target unless it succeeds at a DC 34 Reflex save. While [[DATABASE/condition/Immobilized|immobilized]], the victim takes 3d8 persistent bleed damage and the grikkitog feeds upon its flesh. The creature is immobilized until the grikkitog ends the effect as a free action or the target succeeds at a DC 38 check to Escape. The grikkitog can immobilize any number of creatures with these maws.</span><span class="in-box-ability">**Earth Glide** The grikkitog can Burrow through dirt and stone at its full burrow Speed, leaving no tunnels or signs of its passing.</span>
 
 ###  Grikkitog Origins
 

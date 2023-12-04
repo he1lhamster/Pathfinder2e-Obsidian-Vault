@@ -21,6 +21,7 @@ patron_theme: null
 range: 60 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -37,8 +38,8 @@ type: Focus
 # Flame Barrier<span class="item-type">Focus 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Abjuration</span><span class="item-trait">Cleric</span>
-**Source** [[Core Rulebook]] 
-**Domain** [[Fire Domain]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Domain** [[DATABASE/domain/Fire Domain|fire]]
 **Cast** <span class="action-icon">5</span> verbal; **Trigger** An effect would deal fire damage to either you or an ally within range.
 **Range** 60 feet; **Targets** the creature that would take fire damage
 

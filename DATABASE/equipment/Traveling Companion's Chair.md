@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -53,9 +54,9 @@ weapon_type: null
 # Traveling Companion's Chair<span class="item-type">Item 1</span>
 
 <span class="item-trait">Barding</span><span class="item-trait">Companion</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 4 gp
 **Bulk** 1
 
 ---
-This more robust assembly is well suited for longer travel and all manner of adventuring. As with the [[Traveler's Chair]], small mechanisms built into the wheels and support struts allow the user to traverse up and down stairs without any additional difficulty (though moving up stairs is still difficult terrain, just like for other adventurers) and move without additional difficulty through ladders, uneven ground, and other common adventuring terrain.
+This more robust assembly is well suited for longer travel and all manner of adventuring. As with the [[DATABASE/equipment/Traveler's Chair|traveler's chair]], small mechanisms built into the wheels and support struts allow the user to traverse up and down stairs without any additional difficulty (though moving up stairs is still difficult terrain, just like for other adventurers) and move without additional difficulty through ladders, uneven ground, and other common adventuring terrain.

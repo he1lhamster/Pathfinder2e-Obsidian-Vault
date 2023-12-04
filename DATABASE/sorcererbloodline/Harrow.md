@@ -3,6 +3,7 @@ bloodline: Harrow
 id: '18'
 name: Harrow
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Stolen Fate Player''s Guide|Stolen Fate Player''s Guide]]'
 spell:
 - '[[DATABASE/spell/Augury|Augury]]'
@@ -24,10 +25,10 @@ type: Sorcerer Bloodline
 ---
 # Harrow
 
-**Source** [[Stolen Fate Player's Guide]]
+**Source** [[DATABASE/source/Stolen Fate Player's Guide|Stolen Fate Player's Guide]]
 You have a deep connection to the harrow, perhaps passed on through generations or unlocked after you had a harrow reading performed for you. This connection gives you an uncanny influence over your own fate.
 **Spell List** occult
-**Bloodline Skills** [[Occultism]], [[Performance]]
-**Granted Spells** cantrip: [[Detect Magic]], 1st: [[Ill Omen]], 2nd: [[Augury]], 3rd: [[Wanderer's Guide]], 4th: [[Suggestion]], 5th: [[Shadow Siphon]], 6th: [[True Seeing]], 7th: [[Retrocognition]], 8th: [[Unrelenting Observation]], 9th: [[Weird]]
-**Bloodline Spells** initial: [[Unraveling Blast]], advanced: [[Invoke the Harrow]], greater: [[Rewrite Possibility]]
-**Blood Magic** You become enveloped in possibility, represented as multiple versions of yourself from your possible futures overlaid on each other. You gain [[Concealed]] for 1 round, but can't use the concealment to [[Hide]].
+**Bloodline Skills** [[DATABASE/skill/Occultism|Occultism]], [[DATABASE/skill/Performance|Performance]]
+**Granted Spells** cantrip: [[DATABASE/spell/Detect Magic|detect magic]], 1st: [[DATABASE/spell/Ill Omen|ill omen]], 2nd: [[DATABASE/spell/Augury|augury]], 3rd: [[DATABASE/spell/Wanderer's Guide|wanderer's guide]], 4th: [[DATABASE/spell/Suggestion|suggestion]], 5th: [[DATABASE/spell/Shadow Siphon|shadow siphon]], 6th: [[DATABASE/spell/True Seeing|true seeing]], 7th: [[DATABASE/spell/Retrocognition|retrocognition]], 8th: [[DATABASE/spell/Unrelenting Observation|unrelenting observation]], 9th: [[DATABASE/spell/Weird|weird]]
+**Bloodline Spells** initial: [[DATABASE/spell/Unraveling Blast|unraveling blast]], advanced: [[DATABASE/spell/Invoke the Harrow|invoke the harrow]], greater: [[DATABASE/spell/Rewrite Possibility|rewrite possibility]]
+**Blood Magic** You become enveloped in possibility, represented as multiple versions of yourself from your possible futures overlaid on each other. You gain [[DATABASE/condition/Concealed|concealment]] for 1 round, but can't use the concealment to [[DATABASE/action/Hide|Hide]].

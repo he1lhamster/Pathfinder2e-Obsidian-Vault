@@ -71,20 +71,20 @@ wisdom: '+4'
 # Oaksteward Enforcer
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 19
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 19
 **Unspecific Lore**: DC 17
 **Specific Lore**: DC 14
 
 # Oaksteward Enforcer<span class="item-type">Creature 0</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">LN</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 187. The Seventh Arch]]
+**Source** [[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh Arch]]
 Human druids
 **Perception** +6
-**Languages** [[Common]], [[Druidic]]
-**Skills** [[Intimidation]] +5, [[Nature]] +6
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Druidic|Druidic]]
+**Skills** [[DATABASE/skill/Intimidation|Intimidation]] +5, [[DATABASE/skill/Nature|Nature]] +6
 **Str** +2, **Dex** +4, **Con** +0, **Int** -2, **Wis** +4, **Cha** +0
-**Items** [[Dagger]], [[Leather Armor]], [[Staff]]
+**Items** [[DATABASE/weapon/Dagger|dagger]], [[DATABASE/armor/Leather Armor|leather armor]], [[DATABASE/weapon/Staff|staff]]
 
 ---
 **AC** 16; **Fort** +4, **Ref** +6, **Will** +8
@@ -92,6 +92,6 @@ Human druids
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> staff +6 [+1/-4] (two-hand d8), **Damage** 1d4+2 bludgeoning</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> dagger +6 [+2/-2] (agile, finesse, versatile S), **Damage** 1d4+2 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> dagger +6 [+2/-2] (agile, finesse, thrown 10 feet, versatile S), **Damage** 1d4+2 piercing</span>**Druid Prepared Spells** DC 16, attack +8; **1st** _[[Magic Fang]]_, _[[Shillelagh]]_; **Cantrips** **(1st)** _[[Light]]_, _[[Ray of Frost]]_, _[[Stabilize]]_, _[[Tanglefoot]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> staff +6 [+1/-4] (two-hand d8), **Damage** 1d4+2 bludgeoning</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> dagger +6 [+2/-2] (agile, finesse, versatile S), **Damage** 1d4+2 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> dagger +6 [+2/-2] (agile, finesse, thrown 10 feet, versatile S), **Damage** 1d4+2 piercing</span>**Druid Prepared Spells** DC 16, attack +8; **1st** _[[DATABASE/spell/Magic Fang|magic fang]]_, _[[DATABASE/spell/Shillelagh|shillelagh]]_; **Cantrips** **(1st)** _[[DATABASE/spell/Light|light]]_, _[[DATABASE/spell/Ray of Frost|ray of frost]]_, _[[DATABASE/spell/Stabilize|stabilize]]_, _[[DATABASE/spell/Tanglefoot|tanglefoot]]_
 <span class="in-box-ability">**Wild Shape** <span class="action-icon">2</span> (morph, primal, transmutation) **Frequency** once per day; **Effect** The Oaksteward's hands transform into wild claws for 1 minute. The Oaksteward gains the following Strike.
  Melee <span class="action-icon">1</span> claw +7 (agile, finesse), Damage 1d6+2 slashing</span>

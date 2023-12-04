@@ -11,6 +11,7 @@ name: Weight of Stone
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -27,13 +28,13 @@ type: Feat
 # Weight of Stone <span class="action-icon">3</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Earth</span><span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Overflow</span><span class="item-trait">Primal</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
 A packed cloud of thundering boulders descends from the sky, beating down everyone in its path. The rain of stone falls in a cylinder 20 feet in diameter and 80 feet high, and the bottom must be within 120 feet of you. Each creature in the area takes 4d8 bludgeoning damage and might be pushed downward, depending on its Reflex save against your class DC.
 **Critical Success** The creature is unaffected.
 **Success** The creature takes half damage.
-**Failure** The creature takes full damage and is pushed downward 40 feet without taking falling damage. If it reaches the bottom of the cylinder or the ground, the push ends. If the creature is pushed to the ground, it can't [[Fly]], [[Levitate]], or otherwise leave the ground for 1 round.
+**Failure** The creature takes full damage and is pushed downward 40 feet without taking falling damage. If it reaches the bottom of the cylinder or the ground, the push ends. If the creature is pushed to the ground, it can't [[DATABASE/action/Fly|Fly]], [[DATABASE/spell/Levitate|levitate]], or otherwise leave the ground for 1 round.
 **Critical Failure** As failure, but double damage and the distance the creature is pushed is 80 feet.
 
 ---
@@ -51,7 +52,7 @@ The primary magical actions kineticists use are called impulses. You can use an 
 
 **Overflow:**
 
-Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
+Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[DATABASE/action/Channel Elements|Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
 
 **Primal:**
 

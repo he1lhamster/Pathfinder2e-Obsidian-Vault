@@ -11,6 +11,7 @@ name: Intuitive Illusions
 prerequisite: '[[DATABASE/feat/Illusion Sense|Illusion Sense]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 subcategory: null
@@ -23,16 +24,16 @@ type: Feat
 # Intuitive Illusions <span class="action-icon">4</span> <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Gnome</span>
-**Source** [[Character Guide]] 
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
 **Frequency** once per day
-**Prerequisites** [[Illusion Sense]]
+**Prerequisites** [[DATABASE/feat/Illusion Sense|Illusion Sense]]
 **Trigger** Your turn begins.
 
 ---
-Illusion magic comes to you so naturally that you can effortlessly sustain your magical ruses. You immediately gain the effects of a [[Sustain a Spell]] action to extend the duration of one of your active illusion spells.
+Illusion magic comes to you so naturally that you can effortlessly sustain your magical ruses. You immediately gain the effects of a [[DATABASE/action/Sustain a Spell|Sustain a Spell]] action to extend the duration of one of your active illusion spells.
 
 ## Traits
 
 **Gnome:**
 
-A creature with this trait is a member of the gnome ancestry. Gnomes are small people skilled at magic who seek out new experiences and usually have [[Low-Light Vision]]. An ability with this trait can be used or selected only by gnomes. A weapon with this trait is created and used by gnomes.
+A creature with this trait is a member of the gnome ancestry. Gnomes are small people skilled at magic who seek out new experiences and usually have [[DATABASE/monsterability/Low-Light Vision|low-light vision]]. An ability with this trait can be used or selected only by gnomes. A weapon with this trait is created and used by gnomes.

@@ -93,20 +93,20 @@ wisdom: '+4'
 # Endlo Kiver
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 40
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 40
 **Unspecific Lore**: DC 38
 **Specific Lore**: DC 35
 
 # Endlo Kiver<span class="item-type">Creature 12</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Dwarf</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 190. The Choosing]]
-Male [[Dwarf]] zealot of [[Gorum]]
-**Perception** +22; [[Darkvision]]
-**Languages** [[Common]], [[Dwarven]], [[Jotun]]
-**Skills** [[Athletics]] +25, [[Intimidation]] +21, [[Performance]] +21, [[Religion]] +22, [[Survival]] +22
+**Source** [[DATABASE/source/Pathfinder 190. The Choosing|Pathfinder #190: The Choosing]]
+Male [[DATABASE/ancestry/Dwarf|dwarf]] zealot of [[DATABASE/deity/Gorum|Gorum]]
+**Perception** +22; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Dwarven|Dwarven]], [[DATABASE/language/Jotun|Jotun]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +25, [[DATABASE/skill/Intimidation|Intimidation]] +21, [[DATABASE/skill/Performance|Performance]] +21, [[DATABASE/skill/Religion|Religion]] +22, [[DATABASE/skill/Survival|Survival]] +22
 **Str** +5, **Dex** +1, **Con** +3, **Int** +0, **Wis** +4, **Cha** +3
-**Items** _+1 [[Resilient]] [[Half Plate]]_, _+1 [[Striking]] [[Greatsword]]_, [[Religious Symbol]] of [[Gorum]], [[The Publican]], steel-colored [[Feather Token]]
+**Items** _+1 [[DATABASE/equipment/Resilient|resilient]] [[DATABASE/armor/Half Plate|half plate]]_, _+1 [[DATABASE/equipment/Striking|striking]] [[DATABASE/weapon/Greatsword|greatsword]]_, [[DATABASE/equipment/Religious Symbol|religious symbol]] of [[DATABASE/deity/Gorum|Gorum]], [[DATABASE/equipment/The Publican|The Publican]], steel-colored [[DATABASE/equipment/Feather Token|bird feather token]]
 
 ---
 **AC** 33; **Fort** +22, **Ref** +18, **Will** +23
@@ -115,5 +115,5 @@ Male [[Dwarf]] zealot of [[Gorum]]
 
 ---
 **Speed** 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _greatsword_ +26 [+21/+16] (magical, versatile P), **Damage** 3d12+11 slashing</span>**Divine Spontaneous Spells** DC 30, attack +22; **6th** _[[Heroism]]_, _[[Weapon Storm]]_, _[[Zealous Conviction]]_ (3 slots); **5th** _[[Flame Strike]]_, _[[Harm]]_, _[[Heal]]_ (3 slots); **4th** _[[Air Walk]]_, _[[Dimensional Anchor]]_, _[[Enlarge]]_ (3 slots); **3rd** _[[Chilling Darkness]]_, _[[Harm]]_, _[[Remove Disease]]_ (3 slots); **2nd** _[[Death Knell]]_, _[[Resist Energy]]_, _[[See Invisibility]]_ (3 slots); **1st** _[[Command]]_, _[[Ray of Enfeeblement]]_, _[[True Strike]]_ (3 slots); **Cantrips** **(6th)** _[[Chill Touch]]_, _[[Daze]]_, _[[Message]]_, _[[Sigil]]_, _[[Stabilize]]_
-<span class="in-box-ability">**Gorum's Hand** Endlo deals an additional die of damage with greatswords (included in his Strike above), which also adds an additional die to his [[Weapon Storm]] spell.</span><span class="in-box-ability">**Replenishment of War** When Endlo damages a creature with a greatsword Strike, he gains 6 temporary Hit Points until the start of his next turn. If the Strike was a critical hit, he instead gains 12 temporary Hit Points.</span><span class="in-box-ability">**Resolute Stance** <span class="action-icon">1</span> (stance) Endlo draws upon the might of stone to bolster his defenses. While in this stance, he gains a +2 status bonus to his AC and increases his resistance to slashing damage to 15, but he reduces his Speeds by 5 feet.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _greatsword_ +26 [+21/+16] (magical, versatile P), **Damage** 3d12+11 slashing</span>**Divine Spontaneous Spells** DC 30, attack +22; **6th** _[[DATABASE/spell/Heroism|heroism]]_, _[[DATABASE/spell/Weapon Storm|weapon storm]]_, _[[DATABASE/spell/Zealous Conviction|zealous conviction]]_ (3 slots); **5th** _[[DATABASE/spell/Flame Strike|flame strike]]_, _[[DATABASE/spell/Harm|harm]]_, _[[DATABASE/spell/Heal|heal]]_ (3 slots); **4th** _[[DATABASE/spell/Air Walk|air walk]]_, _[[DATABASE/spell/Dimensional Anchor|dimensional anchor]]_, _[[DATABASE/spell/Enlarge|enlarge]]_ (3 slots); **3rd** _[[DATABASE/spell/Chilling Darkness|chilling darkness]]_, _[[DATABASE/spell/Harm|harm]]_, _[[DATABASE/spell/Remove Disease|remove disease]]_ (3 slots); **2nd** _[[DATABASE/spell/Death Knell|death knell]]_, _[[DATABASE/spell/Resist Energy|resist energy]]_, _[[DATABASE/spell/See Invisibility|see invisibility]]_ (3 slots); **1st** _[[DATABASE/spell/Command|command]]_, _[[DATABASE/spell/Ray of Enfeeblement|ray of enfeeblement]]_, _[[DATABASE/spell/True Strike|true strike]]_ (3 slots); **Cantrips** **(6th)** _[[DATABASE/spell/Chill Touch|chill touch]]_, _[[DATABASE/spell/Daze|daze]]_, _[[DATABASE/spell/Message|message]]_, _[[DATABASE/spell/Sigil|sigil]]_, _[[DATABASE/spell/Stabilize|stabilize]]_
+<span class="in-box-ability">**Gorum's Hand** Endlo deals an additional die of damage with greatswords (included in his Strike above), which also adds an additional die to his [[DATABASE/spell/Weapon Storm|weapon storm]] spell.</span><span class="in-box-ability">**Replenishment of War** When Endlo damages a creature with a greatsword Strike, he gains 6 temporary Hit Points until the start of his next turn. If the Strike was a critical hit, he instead gains 12 temporary Hit Points.</span><span class="in-box-ability">**Resolute Stance** <span class="action-icon">1</span> (stance) Endlo draws upon the might of stone to bolster his defenses. While in this stance, he gains a +2 status bonus to his AC and increases his resistance to slashing damage to 15, but he reduces his Speeds by 5 feet.</span>

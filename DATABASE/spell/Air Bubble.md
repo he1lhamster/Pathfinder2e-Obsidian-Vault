@@ -20,6 +20,7 @@ patron_theme: null
 range: 60 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -38,7 +39,7 @@ type: Spell
 # Air Bubble<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Air</span><span class="item-trait">Conjuration</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, divine, primal
 **Cast** <span class="action-icon">5</span> verbal; **Trigger** A creature within range enters an environment where it can't breathe.
 **Range** 60 feet; **Targets** the triggering creature

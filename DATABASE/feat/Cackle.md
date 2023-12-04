@@ -11,6 +11,7 @@ name: Cackle
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Cackle <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Witch</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
-You can extend one of your spells with a quick burst of laughter. You learn the [[Cackle]] hex. Increase the number of Focus Points in your focus pool by 1.
+You can extend one of your spells with a quick burst of laughter. You learn the [[DATABASE/spell/Cackle|cackle]] hex. Increase the number of Focus Points in your focus pool by 1.

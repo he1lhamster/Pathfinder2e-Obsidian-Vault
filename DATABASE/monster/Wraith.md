@@ -110,28 +110,28 @@ Wraiths are malevolent undead who drain life and shun light. Their shadowy, inco
  Wraiths weigh nothing and are unharmed by most physical attacks. They haunt any place where they can feed on the living, though their vulnerability to sunlight confines them to the shadowy places of the world—places where they can blend in seamlessly with their dark surroundings before silently engulfing their prey.
  Wraiths may form packs with others of their kind in places where death and mayhem are commonplace—countrysides ravaged by war, metropolitan underworlds run by criminal overlords, or sites of fiendish cultic rituals. In these places, the living do well to tread with sunrods and powerful clerics in tow. Ruins, sewers, and abandoned buildings provide sanctuary for wraiths during the day, as the creatures hunt exclusively at night or in dark places. Wraiths are smart enough to take advantage of their incorporeality in combat, so they keep to tortuous caverns or structures with hallways and avoid open areas.
  As they’re formed purely of anti-life from the Negative Energy Plane, wraiths pervade that unholy realm. Within nations and civilizations ruled by the undead, wraiths have places of power as assassins and spies. They’re among the ruling class in Geb, but have greater numbers in Ustalav, where packs of wraiths roam graveyards and misty trails, consuming the populations of entire villages. In other parts of the world, wraiths tend not to wander and limit their activity to smaller environs, typically just the site of their chosen haunting and its immediate surroundings.
-**Recall Knowledge - Undead ([[Religion]])**: DC 22
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 22
 **Unspecific Lore**: DC 20
 **Specific Lore**: DC 17
 
 # Wraith<span class="item-type">Creature 6</span>
 
 <span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Incorporeal</span><span class="item-trait">Undead</span><span class="item-trait">Wraith</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +14; darkvision, lifesense 60 feet
-**Languages** [[Common]], [[Necril]]
-**Skills** [[Acrobatics]] +14, [[Intimidation]] +15, [[Stealth]] +14
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Necril|Necril]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +14, [[DATABASE/skill/Intimidation|Intimidation]] +15, [[DATABASE/skill/Stealth|Stealth]] +14
 **Str** -5, **Dex** +4, **Con** +0, **Int** +2, **Wis** +2, **Cha** +5
 **Lifesense** (divination, divine) Wraiths sense the vital essence of living and undead creatures within the listed range.
 
 ---
 **AC** 24; **Fort** +8, **Ref** +14, **Will** +14; +1 status to all saves vs. positive
-**HP** 80 ([[Negative Healing]]); **Immunities** death effects, disease, paralyzed, poison, precision, unconscious; **Resistances** all 5 (except force, _ghost touch_, or positive; double resistance vs. non-magical)
+**HP** 80 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects, disease, paralyzed, poison, precision, unconscious; **Resistances** all 5 (except force, _ghost touch_, or positive; double resistance vs. non-magical)
 <span class="in-box-ability">**Sunlight Powerlessness** A wraith caught in sunlight is stunned 2 and clumsy 2.</span><span class="in-box-ability"> **Attack of Opportunity** <span class="action-icon">5</span> </span>
 
 ---
 **Speed** fly 40 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> spectral hand +17 [+12/+7] (finesse), **Damage** 2d8+5 negative plus drain life</span><span class="in-box-ability">**Drain Life** (divine, necromancy) When the wraith damages a living creature with its spectral hand Strike, the wraith gains 5 temporary Hit Points and the creature must succeed at a DC 23 Fortitude save or become [[Drained]]. Further damage dealt by the wraith increases the amount of drain by 1 on a failed save to a maximum of [[Drained]].</span><span class="in-box-ability">**Wraith Spawn** (divine, necromancy) A living humanoid slain by a wraith’s spectral hand Strike rises as a wraith spawn after 1d4 rounds. This wraith spawn is under the command of the wraith that killed it. It doesn’t have drain life or wraith spawn and becomes [[Clumsy]] for as long as it is a wraith spawn. If the creator of the wraith spawn dies, the wraith spawn becomes a full-fledged, autonomous wraith; it regains its free will, gains Wraith Spawn, and is no longer [[Clumsy]].</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> spectral hand +17 [+12/+7] (finesse), **Damage** 2d8+5 negative plus drain life</span><span class="in-box-ability">**Drain Life** (divine, necromancy) When the wraith damages a living creature with its spectral hand Strike, the wraith gains 5 temporary Hit Points and the creature must succeed at a DC 23 Fortitude save or become [[DATABASE/condition/Drained|drained 1]]. Further damage dealt by the wraith increases the amount of drain by 1 on a failed save to a maximum of [[DATABASE/condition/Drained|drained 4]].</span><span class="in-box-ability">**Wraith Spawn** (divine, necromancy) A living humanoid slain by a wraith’s spectral hand Strike rises as a wraith spawn after 1d4 rounds. This wraith spawn is under the command of the wraith that killed it. It doesn’t have drain life or wraith spawn and becomes [[DATABASE/condition/Clumsy|clumsy 2]] for as long as it is a wraith spawn. If the creator of the wraith spawn dies, the wraith spawn becomes a full-fledged, autonomous wraith; it regains its free will, gains Wraith Spawn, and is no longer [[DATABASE/condition/Clumsy|clumsy]].</span>
 
 ###  Dread Wraiths
 

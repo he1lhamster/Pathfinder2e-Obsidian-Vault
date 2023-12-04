@@ -9,6 +9,7 @@ language: null
 max_speed: null
 name: Half-Elf
 rarity: null
+rus_type_level: null
 size: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 speed: null
@@ -20,11 +21,11 @@ vision: null
 # Half-Elf (Human Heritage)
 
 <span class="item-trait">Elf</span><span class="item-trait">Half-Elf</span><span class="item-trait">Humanoid</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 _A half-elf is born to an elf and a human, or to two half-elves. The life of a half-elf can be difficult, often marked by a struggle to fit in. Half-elves don’t have their own homeland on Golarion, nor are populations of half-elves particularly tied to one another, since they often have very disparate human and elven traditions. Instead, most half-elves attempt to find acceptance in either human or elven settlements.
  Half-elves often appear primarily human, with subtly pointed ears and a taller stature than most full-blooded humans. Half-elves lack the almost alien eyes of their elf parents, though they do have a natural presence—and often a striking beauty— that leads many to become artists or entertainers. Despite this innate appeal, many half-elves have difficulty forming lasting bonds with either humans or elves due to the distance they feel from both peoples as a whole.
  Half-elves live longer than other humans, often reaching an age around 150 years. This causes some of them to fear friendship and romance with humans, knowing that they’ll likely outlive their companions._
-You can create a half-elf character by selecting the [[Half-Elf]] at 1st level. This gives you access to elf and half-elf ancestry feats in addition to human ancestry feats.
+You can create a half-elf character by selecting the [[DATABASE/heritage/Half-Elf|half-elf heritage]] at 1st level. This gives you access to elf and half-elf ancestry feats in addition to human ancestry feats.
 
 ## You Might...
 
@@ -46,8 +47,8 @@ By default, half-elves and half-orcs descend from humans, but your GM might allo
 
 # Human Heritage
 
-## [[Half-Elf]]
+## [[DATABASE/heritage/Half-Elf|Half-Elf]]
 
-**Source** [[Core Rulebook]] 
-**Ancestry Page** [[Half-Elf]]
-Either one of your parents was an [[Elf]], or one or both were half-elves. You have pointed ears and other telltale signs of elf heritage. You gain the elf trait, the half-elf trait, and low-light vision. In addition, you can select elf, half-elf, and human feats whenever you gain an ancestry feat.
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Ancestry Page** [[DATABASE/ancestry/Half-Elf|Half-Elf]]
+Either one of your parents was an [[DATABASE/ancestry/Elf|elf]], or one or both were half-elves. You have pointed ears and other telltale signs of elf heritage. You gain the elf trait, the half-elf trait, and low-light vision. In addition, you can select elf, half-elf, and human feats whenever you gain an ancestry feat.

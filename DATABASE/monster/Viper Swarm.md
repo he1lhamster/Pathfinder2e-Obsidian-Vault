@@ -78,16 +78,16 @@ wisdom: '+2'
 # Viper Swarm
 
 The frightening mass of shining scales, gleaming eyes, and fangs dripping with venom that comprise a viper swarm has brought an end to many an unlucky adventurer. Normally nocturnal, these notoriously aggressive snakes strike at anything that comes within reach, be it limb or weapon. Their venom is a potent toxin that leaves victims shaky and weak.
-**Recall Knowledge - Animal ([[Nature]])**: DC 19
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 19
 **Unspecific Lore**: DC 17
 **Specific Lore**: DC 14
 
 # Viper Swarm<span class="item-type">Creature 4</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Animal</span><span class="item-trait">Swarm</span>
-**Source** [[Bestiary 3]]
-**Perception** +12; [[Low-Light Vision]], [[Scent]] (imprecise) 60 feet
-**Skills** [[Acrobatics]] +13, [[Stealth]] +11
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
+**Perception** +12; [[DATABASE/monsterability/Low-Light Vision|low-light vision]], [[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +13, [[DATABASE/skill/Stealth|Stealth]] +11
 **Str** +1, **Dex** +5, **Con** +3, **Int** -4, **Wis** +2, **Cha** -3
 
 ---
@@ -96,4 +96,4 @@ The frightening mass of shining scales, gleaming eyes, and fangs dripping with v
 
 ---
 **Speed** 30 feet, climb 30 feet, swim 30 feet
-<span class="in-box-ability">**Venom Spritz** <span class="action-icon">2</span> The vipers spray venom from their fangs in a defensive display. Each creature in a 10-foot cone is exposed to viper swarm venom but gains a +2 circumstance bonus to its initial saving throw against the poison.</span><span class="in-box-ability">**Venomous Fangs** <span class="action-icon">1</span> Each enemy in the swarm's space takes 2d8 piercing damage (DC 21 basic Reflex save) plus viper swarm venom.</span><span class="in-box-ability">**Viper Swarm Venom** (poison) **Saving Throw** DC 21 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 1d4 poison damage (1 round); **Stage 2** 1d6 poison damage and [[Clumsy]] (1 round); **Stage 3** 2d4 poison damage, clumsy 2, and [[Enfeebled]] (1 round)</span>
+<span class="in-box-ability">**Venom Spritz** <span class="action-icon">2</span> The vipers spray venom from their fangs in a defensive display. Each creature in a 10-foot cone is exposed to viper swarm venom but gains a +2 circumstance bonus to its initial saving throw against the poison.</span><span class="in-box-ability">**Venomous Fangs** <span class="action-icon">1</span> Each enemy in the swarm's space takes 2d8 piercing damage (DC 21 basic Reflex save) plus viper swarm venom.</span><span class="in-box-ability">**Viper Swarm Venom** (poison) **Saving Throw** DC 21 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 1d4 poison damage (1 round); **Stage 2** 1d6 poison damage and [[DATABASE/condition/Clumsy|clumsy 1]] (1 round); **Stage 3** 2d4 poison damage, clumsy 2, and [[DATABASE/condition/Enfeebled|enfeebled 1]] (1 round)</span>

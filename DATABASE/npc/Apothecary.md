@@ -65,20 +65,20 @@ wisdom: '+3'
 # Apothecary
 
 Surrounded by bottles and bins of crushed herbs, curative minerals, and potent extracts, the apothecary skillfully combines materials into unguents and medicines. For encounters involving making medicine or alchemical contests, the apothecary is a 3rd-level challenge.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 13
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 13
 **Unspecific Lore**: DC 11
 **Specific Lore**: DC 8
 
 # Apothecary<span class="item-type">Creature -1</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Perception** +5
-**Languages** [[Common]]
-**Skills** [[Crafting]] +5 (+8 for alchemy and medication), [[Medicine]] +10, [[Nature]] +8
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Crafting|Crafting]] +5 (+8 for alchemy and medication), [[DATABASE/skill/Medicine|Medicine]] +10, [[DATABASE/skill/Nature|Nature]] +8
 **Str** +0, **Dex** +1, **Con** +1, **Int** +3, **Wis** +3, **Cha** +1
 **Medical Wisdom** The apothecary can identify the effect of any alchemical composition or medical ingredient using only their senses. This typically takes 1 minute.
-**Items** leather apron (functions as [[Padded Armor]]), [[Dagger]], [[Healer's Tools]], [[Acid Flask]], [[Elixir of Life]], mortar and pestle
+**Items** leather apron (functions as [[DATABASE/armor/Padded Armor|padded armor]]), [[DATABASE/weapon/Dagger|dagger]], [[DATABASE/equipment/Healer's Tools|healer's tools]], [[DATABASE/equipment/Acid Flask|lesser acid flask (2)]], [[DATABASE/equipment/Elixir of Life|minor elixir of life (2)]], mortar and pestle
 
 ---
 **AC** 14; **Fort** +8, **Ref** +3, **Will** +5; +1 circumstance to all saves vs. poisons
@@ -86,4 +86,4 @@ Surrounded by bottles and bins of crushed herbs, curative minerals, and potent e
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> stone pestle +4 [-1/-6], **Damage** 1d6 bludgeoning</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +5 [+1/-3] (agile, nonlethal), **Damage** 1d4 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> acid flask +5 [+0/-5] (range increment 20 feet, splash), **Effect** 1 acid plus 1d6 [[Persistent Damage]] and 1 splash acid</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> stone pestle +4 [-1/-6], **Damage** 1d6 bludgeoning</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +5 [+1/-3] (agile, nonlethal), **Damage** 1d4 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> acid flask +5 [+0/-5] (range increment 20 feet, splash), **Effect** 1 acid plus 1d6 [[DATABASE/condition/Persistent Damage|persistent acid]] and 1 splash acid</span>

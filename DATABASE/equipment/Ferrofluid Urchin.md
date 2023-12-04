@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Ferrofluid Urchin<span class="item-type">Item 7+</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Magical</span><span class="item-trait">Metal</span><span class="item-trait">Talisman</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Usage** affixed to a medium metal armor or heavy metal armor; **Bulk** —
 **Activate** <span class="action-icon">4</span> (concentrate) **Trigger** You take physical damage; **Prerequisite** You have the armor specialization effect of the affixed armor
 
@@ -64,18 +65,18 @@ This spiky glob of magnetic liquid attaches directly onto the metal of your armo
 
 ## Ferrofluid Urchin (Lesser)<span class="item-type">Item 7</span>
 
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Price** 55 gp
 You gain resistance 3.
 
 ## Ferrofluid Urchin (Moderate)<span class="item-type">Item 11</span>
 
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Price** 225 gp
 You gain resistance 6.
 
 ## Ferrofluid Urchin (Greater)<span class="item-type">Item 15</span>
 
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Price** 925 gp
 You gain resistance 10.

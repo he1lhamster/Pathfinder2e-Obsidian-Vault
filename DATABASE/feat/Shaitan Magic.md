@@ -11,6 +11,7 @@ name: Shaitan Magic
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,13 +24,13 @@ type: Feat
 # Shaitan Magic <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Oread</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-The magic of shaitans runs through your blood. You can cast [[Glitterdust]] and [[Resist Energy]] once per day each as 2nd-level arcane innate spells.
+The magic of shaitans runs through your blood. You can cast [[DATABASE/spell/Glitterdust|glitterdust]] and [[DATABASE/spell/Resist Energy|resist energy]] once per day each as 2nd-level arcane innate spells.
 
 ## Traits
 
 **Oread:**
 
-Oreads are planar scions descended from [[Shaitan]].
+Oreads are planar scions descended from [[DATABASE/monster/Shaitan|shaitans]].

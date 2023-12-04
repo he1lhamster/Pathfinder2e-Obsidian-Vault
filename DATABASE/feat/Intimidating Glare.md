@@ -11,6 +11,7 @@ name: Intimidating Glare
 prerequisite: Trained in [[DATABASE/skill/Intimidation|Intimidation]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: intimidation
@@ -24,15 +25,15 @@ type: Feat
 # Intimidating Glare <span class="item-type">Feat 1</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** trained in [[Intimidation]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** trained in [[DATABASE/skill/Intimidation|Intimidation]]
 
 ---
 You can Demoralize with a mere glare. When you do, Demoralize loses the auditory trait and gains the visual trait, and you don’t take a penalty if the creature doesn’t understand your language.
 
 ## Intimidating Glare Leads To...
 
-[[Terrifying Howl]]
+[[DATABASE/feat/Terrifying Howl|Terrifying Howl]]
 
 ## Traits
 

@@ -144,23 +144,23 @@ A child of the Puddles, Ralso grew up hard, orphaned at a young age and forced t
 ## Campaign Role
 
 The player characters likely engage Ralso in combat at one point or another during Chapter 4 of this adventure, since she is unwilling to turn over her dearest friend Pratchett without a fight. Never eager to attract attention from the city guard, yet equally unwilling to travel unarmed, she uses a _ring of discretion_ (contraband that would easily land her another five years in prison if discovered) to conceal her various armaments. In combat, Ralso is ferocious and desperate, throwing herself into the fray with seeming disregard for her own life and focusing her attacks on one opponent at a time.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 29
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 29
 **Unspecific Lore**: DC 27
 **Specific Lore**: DC 24
 
-## Elite | [[Ralso]] | Weak
+## Elite | [[DATABASE/npc/Ralso|Normal]] | Weak
 Proficiency without Level
 
 # Ralso<span class="item-type">Creature 4</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span><span class="item-trait">Orc</span>
-**Source** [[Pathfinder 157. Devil at the Dreaming Palace]]
-Female [[Half-Orc]] thief
-**Perception** +14; [[Darkvision]]
-**Languages** [[Common]]
-**Skills** [[Acrobatics]] +12, [[Deception]] +12, [[Diplomacy]] +10, [[Intimidation]] +12, [[Society]] +7, [[Stealth]] +12, [[Thievery]] +12
+**Source** [[DATABASE/source/Pathfinder 157. Devil at the Dreaming Palace|Pathfinder #157: Devil at the Dreaming Palace]]
+Female [[DATABASE/ancestry/Half-Orc|half-orc]] thief
+**Perception** +14; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +12, [[DATABASE/skill/Deception|Deception]] +12, [[DATABASE/skill/Diplomacy|Diplomacy]] +10, [[DATABASE/skill/Intimidation|Intimidation]] +12, [[DATABASE/skill/Society|Society]] +7, [[DATABASE/skill/Stealth|Stealth]] +12, [[DATABASE/skill/Thievery|Thievery]] +12
 **Str** +3, **Dex** +4, **Con** +2, **Int** -1, **Wis** +1, **Cha** +2
-**Items** [[Healing Domain]], [[Ring of Discretion]], [[Caltrops]], [[Dagger]], [[Shortsword]], [[Studded Leather Armor]]
+**Items** [[DATABASE/domain/Healing Domain|lesser healing potion]], [[DATABASE/equipment/Ring of Discretion|ring of discretion]], [[DATABASE/equipment/Caltrops|caltrops]], [[DATABASE/weapon/Dagger|daggers (2)]], [[DATABASE/weapon/Shortsword|shortswords (2)]], [[DATABASE/armor/Studded Leather Armor|studded leather armor]]
 
 ---
 **AC** 22; **Fort** +8, **Ref** +14, **Will** +9
@@ -168,4 +168,4 @@ Female [[Half-Orc]] thief
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> shortsword +14 [+10/+6] (agile, finesse, versatile S), **Damage** 1d6+7 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> dagger +14 [+10/+6] (agile, finesse, thrown 10 feet, versatile S), **Damage** 1d4+7 piercing</span><span class="in-box-ability">**Double Stab** <span class="action-icon">1</span> **Requirements** Ralso is wielding two piercing weapons; **Frequency** once per round; **Effect** Ralso makes two Strikes against a single creature within reach, one Strike per weapon. These attacks count toward Ralso's multiple attack penalty, but the penalty doesn't increase until after both attacks.</span><span class="in-box-ability">**[[Sneak Attack]]** Ralso deals an extra 1d6 precision damage to [[Flat-Footed]] creatures.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> shortsword +14 [+10/+6] (agile, finesse, versatile S), **Damage** 1d6+7 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> dagger +14 [+10/+6] (agile, finesse, thrown 10 feet, versatile S), **Damage** 1d4+7 piercing</span><span class="in-box-ability">**Double Stab** <span class="action-icon">1</span> **Requirements** Ralso is wielding two piercing weapons; **Frequency** once per round; **Effect** Ralso makes two Strikes against a single creature within reach, one Strike per weapon. These attacks count toward Ralso's multiple attack penalty, but the penalty doesn't increase until after both attacks.</span><span class="in-box-ability">**[[DATABASE/monsterability/Sneak Attack|Sneak Attack]]** Ralso deals an extra 1d6 precision damage to [[DATABASE/condition/Flat-Footed|flat-footed]] creatures.</span>

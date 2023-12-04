@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Marshal Dedication|Marshal Dedication]] ; Trained
   [[DATABASE/skill/Athletics|Athletics]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,13 +26,13 @@ type: Feat
 # Topple Foe <span class="action-icon">5</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Marshal]]
-**Prerequisites** [[Marshal Dedication]]; trained in [[Athletics]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Marshal|Marshal]]
+**Prerequisites** [[DATABASE/feat/Marshal Dedication|Marshal Dedication]]; trained in [[DATABASE/skill/Athletics|Athletics]]
 **Trigger** An ally succeeds at a melee Strike against an opponent you are both adjacent to.
 
 ---
-You take advantage of the opening created by your ally to tip your foe off their feet. Attempt an [[Athletics]] check to [[Trip]] the target of the triggering attack.
+You take advantage of the opening created by your ally to tip your foe off their feet. Attempt an [[DATABASE/skill/Athletics|Athletics]] check to [[DATABASE/action/Trip|Trip]] the target of the triggering attack.
 
 ## Traits
 

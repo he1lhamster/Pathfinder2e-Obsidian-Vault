@@ -11,6 +11,7 @@ name: Abundant Step
 prerequisite: '[[DATABASE/class_/Monk|incredible movement]] ; ki spells'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Abundant Step <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Monk</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Monk]]; ki spells
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/class_/Monk|incredible movement]]; ki spells
 
 ---
-You can teleport yourself a short distance. You gain the [[Abundant Step]] ki spell. Increase the number of Focus Points in your focus pool by 1.
+You can teleport yourself a short distance. You gain the [[DATABASE/spell/Abundant Step|abundant step]] ki spell. Increase the number of Focus Points in your focus pool by 1.

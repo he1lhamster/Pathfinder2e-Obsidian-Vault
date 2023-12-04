@@ -98,31 +98,31 @@ The weight of murder wears heavy on the soul. With souls marked by a lifetime of
 
 ## Mohrg Spawn
 
-When a creature returns after death as a mohrg spawn, its flesh decays away save for its entrails, and it grows a long, awful tongue. The creature gains the undead trait and becomes chaotic evil, and it loses any abilities that come from it being a living creature. It gains [[Darkvision]], [[Negative Healing]], and the mohrg's immunities and resistances. If the creature had hands, it gains a claw Strike (an unarmed attack that deals slashing damage). The creature also gains a tongue Strike, an agile attack that causes paralysis, as the mohrg ability; the Fortitude save uses the DC for the mohrg spawn's level. Mohrg spawn cannot create mohrg spawn of their own.
-**Recall Knowledge - Undead ([[Religion]])**: DC 24
+When a creature returns after death as a mohrg spawn, its flesh decays away save for its entrails, and it grows a long, awful tongue. The creature gains the undead trait and becomes chaotic evil, and it loses any abilities that come from it being a living creature. It gains [[DATABASE/monsterability/Darkvision|darkvision]], [[DATABASE/monsterability/Negative Healing|negative healing]], and the mohrg's immunities and resistances. If the creature had hands, it gains a claw Strike (an unarmed attack that deals slashing damage). The creature also gains a tongue Strike, an agile attack that causes paralysis, as the mohrg ability; the Fortitude save uses the DC for the mohrg spawn's level. Mohrg spawn cannot create mohrg spawn of their own.
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 24
 **Unspecific Lore**: DC 22
 **Specific Lore**: DC 19
 
-## Elite | [[Mohrg]] | Weak
+## Elite | [[DATABASE/monster/Mohrg|Normal]] | Weak
 Proficiency without Level
 
 # Mohrg<span class="item-type">Creature 8</span>
 
 <span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Undead</span>
-**Source** [[Bestiary 2]] 
-**Perception** +17; [[Darkvision]]
-**Languages** [[Common]], [[Necril]]
-**Skills** [[Acrobatics]] +16, [[Athletics]] +18, [[Intimidation]] +19, [[Society]] +15, [[Stealth]] +18
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +17; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Necril|Necril]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +16, [[DATABASE/skill/Athletics|Athletics]] +18, [[DATABASE/skill/Intimidation|Intimidation]] +19, [[DATABASE/skill/Society|Society]] +15, [[DATABASE/skill/Stealth|Stealth]] +18
 **Str** +6, **Dex** +4, **Con** +4, **Int** +1, **Wis** +3, **Cha** +5
 
 ---
 **AC** 28; **Fort** +18, **Ref** +16, **Will** +13
-**HP** 120 ([[Negative Healing]]); **Immunities** death effects, disease, [[Paralyzed]], poison, [[Unconscious]]; **Resistances** piercing 10, slashing 5
+**HP** 120 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects, disease, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Unconscious|unconscious]]; **Resistances** piercing 10, slashing 5
 <span class="in-box-ability">**Mohrg Spawn** (occult, necromancy) A living creature slain by a mohrg that had a lower level than the mohrg rises as a mohrg spawn after 1d4 rounds, on its turn. This mohrg spawn is under the command of the mohrg that created it. If the creator of the mohrg spawn is destroyed, the mohrg spawn is destroyed as well, immediately collapsing into a pile of decayed flesh and bones.</span>
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +20 [+15/+10], **Damage** 2d10+9 slashing plus [[Grab]]</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> tongue +20 [+16/+12] (agile), **Effect** paralysis</span><span class="in-box-ability">**Paralysis** (occult, incapacitation, necromancy) A living creature hit by a mohrg's tongue Strike must succeed at a DC 26 Fortitude save or become [[Paralyzed]]. The creature can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each attempt.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +20 [+15/+10], **Damage** 2d10+9 slashing plus [[DATABASE/monsterability/Grab|Grab]]</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> tongue +20 [+16/+12] (agile), **Effect** paralysis</span><span class="in-box-ability">**Paralysis** (occult, incapacitation, necromancy) A living creature hit by a mohrg's tongue Strike must succeed at a DC 26 Fortitude save or become [[DATABASE/condition/Paralyzed|paralyzed]]. The creature can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each attempt.</span>
 
 ###  Inhuman Murderers
 

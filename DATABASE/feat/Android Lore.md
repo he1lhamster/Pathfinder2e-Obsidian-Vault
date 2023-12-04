@@ -11,6 +11,7 @@ name: Android Lore
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Android Lore <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Android</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-You have a keen interest in the origins of your people. You gain the trained proficiency rank in [[Crafting]] and [[Thievery]]. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. You also become trained in [[Lore]].
+You have a keen interest in the origins of your people. You gain the trained proficiency rank in [[DATABASE/skill/Crafting|Crafting]] and [[DATABASE/skill/Thievery|Thievery]]. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. You also become trained in [[DATABASE/skill/Lore|Android Lore]].
 
 ## Traits
 

@@ -4,6 +4,7 @@ ability_boost: null
 id: '25'
 name: Industry
 rarity: Common
+rus_type_level: null
 skill:
 - Industry
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
@@ -13,11 +14,11 @@ type: Skill
 ---
 # Industry (Economy)
 
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 Industry measures the kingdom’s devotion to the business of building and making things, from basic necessities to luxury goods for trade. It puts people to work creating a prosperous future.
 
-* **[[Establish Settlement]]**
-* **[[Focused Attention]]**
+* **[[DATABASE/generalskillaction/Establish Settlement|Establish Settlement]]**
+* **[[DATABASE/generalskillaction/Focused Attention|Focused Attention]]**
 
 ### Related Feats
 
@@ -25,10 +26,10 @@ To see a list of Feats related to Industry, click here.
 
 # Industry Untrained Actions
 
-## [[Trade Commodities]]
+## [[DATABASE/action/Trade Commodities|Trade Commodities]]
 
 <span class="item-trait">Commerce</span><span class="item-trait">Downtime</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 
 ---
 There are five different categories of Commodities: Food, Lumber, Luxuries, Ore, and Stone. When you Trade Commodities, select one Commodity that your kingdom currently stockpiles and reduce that Commodity's stockpile by up to 4. Then attempt a basic check. If you trade with a group that you've established diplomatic relations with, you gain a +1 circumstance bonus to the check.
@@ -39,10 +40,10 @@ There are five different categories of Commodities: Food, Lumber, Luxuries, Ore,
 
 # Industry Trained Actions
 
-## [[Relocate Capital]]
+## [[DATABASE/action/Relocate Capital|Relocate Capital]]
 
 <span class="item-trait">Downtime</span><span class="item-trait">Leadership</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 **Requirements** One of your settlements that is not your current capital must contain a Castle, Palace, or Town Hall. All leaders must spend all of their leadership activities during the Activity phase of a Kingdom turn on this activity.
 
 ---

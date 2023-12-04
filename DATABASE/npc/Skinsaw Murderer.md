@@ -65,19 +65,19 @@ wisdom: '+1'
 # Skinsaw Murderer
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 27
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 27
 **Unspecific Lore**: DC 25
 **Specific Lore**: DC 22
 
 # Skinsaw Murderer<span class="item-type">Creature 6</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 158. Sixty Feet Under]]
+**Source** [[DATABASE/source/Pathfinder 158. Sixty Feet Under|Pathfinder #158: Sixty Feet Under]]
 **Perception** +17
-**Languages** [[Common]], [[Daemonic]]
-**Skills** [[Acrobatics]] +15, [[Deception]] +12, [[Stealth]] +15
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Daemonic|Daemonic]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +15, [[DATABASE/skill/Deception|Deception]] +12, [[DATABASE/skill/Stealth|Stealth]] +15
 **Str** +2, **Dex** +5, **Con** +4, **Int** +0, **Wis** +1, **Cha** +0
-**Items** _+1 [[Shortsword]]_, silver [[Religious Symbol]] of [[Norgorber]], [[Skinsaw Mask]], [[Dagger]], [[Leather Armor]], [[War Razor]]
+**Items** _+1 [[DATABASE/weapon/Shortsword|shortsword]]_, silver [[DATABASE/equipment/Religious Symbol|religious symbol]] of [[DATABASE/deity/Norgorber|Norgorber]], [[DATABASE/equipment/Skinsaw Mask|Skinsaw mask]], [[DATABASE/weapon/Dagger|daggers (2)]], [[DATABASE/armor/Leather Armor|leather armor]], [[DATABASE/weapon/War Razor|war razor]]
 
 ---
 **AC** 22; **Fort** +14, **Ref** +17, **Will** +9
@@ -85,4 +85,4 @@ This creature did not include a description.
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _shortsword_ +15 [+11/+7] (agile, finesse, magical, versatile S), **Damage** 1d6+5 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> war razor +17 [+13/+9] (agile, backstabber, deadly d8, finesse), **Damage** 1d4+5 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> dagger +17 [+13/+9] (agile, finesse, thrown 10 feet, versatile S), **Damage** 1d4+5 piercing</span><span class="in-box-ability">**[[Sneak Attack]]** When attacking a [[Flat-Footed]] creature, the Skinsaw murderer deals 1d6 additional precision damage.</span><span class="in-box-ability">**[[Twin Takedown]]** <span class="action-icon">1</span> (flourish) </span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _shortsword_ +15 [+11/+7] (agile, finesse, magical, versatile S), **Damage** 1d6+5 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> war razor +17 [+13/+9] (agile, backstabber, deadly d8, finesse), **Damage** 1d4+5 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> dagger +17 [+13/+9] (agile, finesse, thrown 10 feet, versatile S), **Damage** 1d4+5 piercing</span><span class="in-box-ability">**[[DATABASE/monsterability/Sneak Attack|Sneak Attack]]** When attacking a [[DATABASE/condition/Flat-Footed|flat-footed]] creature, the Skinsaw murderer deals 1d6 additional precision damage.</span><span class="in-box-ability">**[[DATABASE/feat/Twin Takedown|Twin Takedown]]** <span class="action-icon">1</span> (flourish) </span>

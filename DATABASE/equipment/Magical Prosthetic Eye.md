@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 size: null
@@ -53,9 +54,9 @@ weapon_type: null
 # Magical Prosthetic Eye<span class="item-type">Item 1</span>
 
 <span class="item-trait">Divination</span><span class="item-trait">Magical</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 5 gp
 **Usage** worn; **Bulk** L
 
 ---
-This prosthetic eye converts visible light into a telepathic signal that is relayed to the wearer's mind using divination magic. As the wearer's mind must process the telepathic signal in the same way as it would a nerve impulse, the acuity and other abilities related to the vision provided by the _magical prosthetic eye_ matches that of other members of your ancestry (for instance, a [[Goblin]] with a magical prosthetic eye would be able to see in darkvision, while a [[Human]] wearing the same prosthetic would need illumination). You can remove or replace a _magical prosthetic eye_ using an Interact action.
+This prosthetic eye converts visible light into a telepathic signal that is relayed to the wearer's mind using divination magic. As the wearer's mind must process the telepathic signal in the same way as it would a nerve impulse, the acuity and other abilities related to the vision provided by the _magical prosthetic eye_ matches that of other members of your ancestry (for instance, a [[DATABASE/ancestry/Goblin|goblin]] with a magical prosthetic eye would be able to see in darkvision, while a [[DATABASE/ancestry/Human|human]] wearing the same prosthetic would need illumination). You can remove or replace a _magical prosthetic eye_ using an Interact action.

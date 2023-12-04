@@ -100,20 +100,20 @@ wisdom: '+6'
 # Xiuli Cachu
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 41
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 41
 **Unspecific Lore**: DC 39
 **Specific Lore**: DC 36
 
 # Xiuli Cachu<span class="item-type">Creature 13</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 191. The Destiny War]]
-Female [[Morlock]] priest of [[Lamashtu]]
-**Perception** +25; [[Darkvision]]
-**Languages** [[Abyssal]], [[Undercommon]]
-**Skills** [[Acrobatics]] +24, [[Athletics]] +23 (+25 [[Climb]]), [[Religion]] +27, [[Stealth]] +24, [[Survival]] +25
+**Source** [[DATABASE/source/Pathfinder 191. The Destiny War|Pathfinder #191: The Destiny War]]
+Female [[DATABASE/monster/Morlock|morlock]] priest of [[DATABASE/deity/Lamashtu|Lamashtu]]
+**Perception** +25; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Abyssal|Abyssal]], [[DATABASE/language/Undercommon|Undercommon]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +24, [[DATABASE/skill/Athletics|Athletics]] +23 (+25 [[DATABASE/action/Climb|Climbing]]), [[DATABASE/skill/Religion|Religion]] +27, [[DATABASE/skill/Stealth|Stealth]] +24, [[DATABASE/skill/Survival|Survival]] +25
 **Str** +4, **Dex** +5, **Con** +5, **Int** +2, **Wis** +6, **Cha** +5
-**Items** _+1 [[Resilient]] [[Studded Leather Armor]]_, _+1 [[Striking]] [[Wounding]] [[Falchion]]_, [[The Lost]], bone [[Religious Symbol]] of [[Lamashtu]], [[Material Component Pouch]]
+**Items** _+1 [[DATABASE/equipment/Resilient|resilient]] [[DATABASE/armor/Studded Leather Armor|studded leather armor]]_, _+1 [[DATABASE/equipment/Striking|striking]] [[DATABASE/equipment/Wounding|wounding]] [[DATABASE/weapon/Falchion|falchion]]_, [[DATABASE/equipment/The Lost|The Lost]], bone [[DATABASE/equipment/Religious Symbol|symbol]] of [[DATABASE/deity/Lamashtu|Lamashtu]], [[DATABASE/equipment/Material Component Pouch|material component pouch]]
 
 ---
 **AC** 34; **Fort** +24, **Ref** +22, **Will** +25; +2 status to all saves vs. disease and poison
@@ -121,10 +121,10 @@ Female [[Morlock]] priest of [[Lamashtu]]
 
 ---
 **Speed** 30 feet, climb 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _falchion_ +24 [+19/+14] (forceful, magical, sweep), **Damage** 2d10+10 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +25 [+21/+17] (agile), **Damage** 3d4+10 piercing</span>**Divine Innate Spells** DC 33; **4th** _[[Confusion]]_
-**Divine Prepared Spells** DC 33, attack +25; **7th** _[[Divine Vessel]]_, _[[Harm]]_ (×4), _[[Regenerate]]_; **6th** _[[Dispel Magic]]_, _[[Heal]]_, _[[Repulsion]]_; **5th** _[[Drop Dead]]_, _[[Heal]]_, _[[Shadow Blast]]_; **4th** _[[Air Walk]]_, _[[Divine Wrath]]_, _[[Outcast's Curse]]_; **3rd** _[[Blindness]]_, _[[Heal]]_, _[[Vampiric Touch]]_; **2nd** _[[Darkness]]_, _[[Death Knell]]_, _[[See Invisibility]]_; **1st** _[[Bane]]_, _[[Protection]]_, _[[Sanctuary]]_; **Cantrips** **(7th)** _[[Bullhorn]]_, _[[Chill Touch]]_, _[[Detect Magic]]_, _[[Read Aura]]_, _[[Shield]]_
-**Cleric Domain Spells** DC 33, 2 Focus Points; **7th** _[[Shared Nightmare]]_, _[[Waking Nightmare]]_
-<span class="in-box-ability">**Frenetic Casting** <span class="action-icon">2</span> Xiuli Strides up to her speed. At any point during her movement, Xiuli can Cast a Spell that normally takes two actions or fewer to cast.</span><span class="in-box-ability">**Instinctual Tinker** <span class="action-icon">2</span> The morlock tinkers with an adjacent construct or mechanical hazard. They attempt a [[Crafting]] check against the construct's or hazard's Fortitude DC. The morlock can't succeed if the target's level is more than double the morlock's.
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _falchion_ +24 [+19/+14] (forceful, magical, sweep), **Damage** 2d10+10 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +25 [+21/+17] (agile), **Damage** 3d4+10 piercing</span>**Divine Innate Spells** DC 33; **4th** _[[DATABASE/spell/Confusion|confusion]]_
+**Divine Prepared Spells** DC 33, attack +25; **7th** _[[DATABASE/spell/Divine Vessel|divine vessel]]_, _[[DATABASE/spell/Harm|harm]]_ (×4), _[[DATABASE/spell/Regenerate|regenerate]]_; **6th** _[[DATABASE/spell/Dispel Magic|dispel magic]]_, _[[DATABASE/spell/Heal|heal]]_, _[[DATABASE/spell/Repulsion|repulsion]]_; **5th** _[[DATABASE/spell/Drop Dead|drop dead]]_, _[[DATABASE/spell/Heal|heal]]_, _[[DATABASE/spell/Shadow Blast|shadow blast]]_; **4th** _[[DATABASE/spell/Air Walk|air walk]]_, _[[DATABASE/spell/Divine Wrath|divine wrath]]_, _[[DATABASE/spell/Outcast's Curse|outcast's curse]]_; **3rd** _[[DATABASE/spell/Blindness|blindness]]_, _[[DATABASE/spell/Heal|heal]]_, _[[DATABASE/spell/Vampiric Touch|vampiric touch]]_; **2nd** _[[DATABASE/spell/Darkness|darkness]]_, _[[DATABASE/spell/Death Knell|death knell]]_, _[[DATABASE/spell/See Invisibility|see invisibility]]_; **1st** _[[DATABASE/spell/Bane|bane]]_, _[[DATABASE/spell/Protection|protection]]_, _[[DATABASE/spell/Sanctuary|sanctuary]]_; **Cantrips** **(7th)** _[[DATABASE/spell/Bullhorn|bullhorn]]_, _[[DATABASE/spell/Chill Touch|chill touch]]_, _[[DATABASE/spell/Detect Magic|detect magic]]_, _[[DATABASE/spell/Read Aura|read aura]]_, _[[DATABASE/spell/Shield|shield]]_
+**Cleric Domain Spells** DC 33, 2 Focus Points; **7th** _[[DATABASE/spell/Shared Nightmare|shared nightmare]]_, _[[DATABASE/spell/Waking Nightmare|waking nightmare]]_
+<span class="in-box-ability">**Frenetic Casting** <span class="action-icon">2</span> Xiuli Strides up to her speed. At any point during her movement, Xiuli can Cast a Spell that normally takes two actions or fewer to cast.</span><span class="in-box-ability">**Instinctual Tinker** <span class="action-icon">2</span> The morlock tinkers with an adjacent construct or mechanical hazard. They attempt a [[DATABASE/skill/Crafting|Crafting]] check against the construct's or hazard's Fortitude DC. The morlock can't succeed if the target's level is more than double the morlock's.
  **Critical Success** The target gains 4d6 HP and a +1 circumstance bonus to attack rolls for 1 minute.
  **Success** The target gains 2d6 HP.
- **Critical Failure** The morlock injures itself, taking 2d6 damage (typically bludgeoning, piercing, or slashing, but potentially a different type at the GM's discretion).</span><span class="in-box-ability">**[[Sneak Attack]]** Xiuli deals an additional 3d6 precision damage to [[Flat-Footed]] creatures.</span><span class="in-box-ability">**Swarming Stance** A morlock can share the same space as another morlock, but no more than two morlocks can occupy the same space. When morlocks share the same space, they gain a +1 circumstance bonus to attack rolls.</span>
+ **Critical Failure** The morlock injures itself, taking 2d6 damage (typically bludgeoning, piercing, or slashing, but potentially a different type at the GM's discretion).</span><span class="in-box-ability">**[[DATABASE/monsterability/Sneak Attack|Sneak Attack]]** Xiuli deals an additional 3d6 precision damage to [[DATABASE/condition/Flat-Footed|flat-footed]] creatures.</span><span class="in-box-ability">**Swarming Stance** A morlock can share the same space as another morlock, but no more than two morlocks can occupy the same space. When morlocks share the same space, they gain a +1 circumstance bonus to attack rolls.</span>

@@ -24,6 +24,7 @@ follower_alignment:
 id: '174'
 name: Daikitsu
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Crafting|Crafting]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -33,7 +34,7 @@ type: Deity
 ---
 # Daikitsu (Lady of Foxes) [N]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Category** Tian Gods
 **Edicts** Ensure the health of crops and vegetation, perfect a craft or trade, leave offerings for foxes, celebrate the turning of the seasons
 **Anathema** Mistreat your tools, pass a beggar without giving alms, discriminate against sex workers or the lower class
@@ -41,9 +42,9 @@ type: Deity
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Dexterity or Intelligence
-**Divine Font** _[[Heal]]_
-**Divine Skill** [[Crafting]]
-**Favored Weapon** [[Flail]]
-**Domains** [[Change Domain]], [[Creation Domain]], [[Family Domain]], [[Nature Domain]]
-**Cleric Spells** 1st: _[[Pest Form]]_, 2nd: _[[Humanoid Form]]_, 5th: _[[Illusory Scene]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Dexterity or Intelligence
+**Divine Font** _[[DATABASE/spell/Heal|heal]]_
+**Divine Skill** [[DATABASE/skill/Crafting|Crafting]]
+**Favored Weapon** [[DATABASE/weapon/Flail|flail]]
+**Domains** [[DATABASE/domain/Change Domain|change]], [[DATABASE/domain/Creation Domain|creation]], [[DATABASE/domain/Family Domain|family]], [[DATABASE/domain/Nature Domain|nature]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Pest Form|pest form]]_, 2nd: _[[DATABASE/spell/Humanoid Form|humanoid form]]_, 5th: _[[DATABASE/spell/Illusory Scene|illusory scene]]_

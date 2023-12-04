@@ -11,6 +11,7 @@ name: Domain Fluency
 prerequisite: initial domain spell
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Domain Fluency <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Oracle</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Prerequisites** initial domain spell
 
 ---

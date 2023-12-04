@@ -11,6 +11,7 @@ name: Alluring Performance
 prerequisite: Trained in [[DATABASE/skill/Performance|Performance]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -26,13 +27,13 @@ type: Feat
 # Alluring Performance <span class="action-icon">2</span> <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Incapacitation</span><span class="item-trait">Mental</span><span class="item-trait">Vishkanya</span><span class="item-trait">Visual</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 **Frequency** once per day
-**Prerequisites** trained in [[Performance]]
+**Prerequisites** trained in [[DATABASE/skill/Performance|Performance]]
 
 ---
 You command the attention of those around you with an elegant display. Attempt a Performance check and compare it to the Will DC of each creature in a 15-foot emanation.
-**Critical Success** The target is [[Fascinated]] with you for as long as you perform (unless it breaks from the fascination, as normal for the condition) and is [[Dazzled]] for 1 round or as long as it's fascinated, whichever is longer.
+**Critical Success** The target is [[DATABASE/condition/Fascinated|fascinated]] with you for as long as you perform (unless it breaks from the fascination, as normal for the condition) and is [[DATABASE/condition/Dazzled|dazzled]] for 1 round or as long as it's fascinated, whichever is longer.
 **Success** The target is fascinated for 1 round and is dazzled for 1 round.
 **Failure** The target is dazzled for 1 round.
 **Critical Failure** The target is unaffected.

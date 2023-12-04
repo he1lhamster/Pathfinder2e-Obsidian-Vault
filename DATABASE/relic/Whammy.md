@@ -5,6 +5,7 @@ item_category: Relics
 name: Whammy
 prerequisite: null
 rarity: Common
+rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
@@ -16,7 +17,7 @@ type: Relic Minor Gift
 # Whammy<span class="item-type">Minor Gift</span>
 
 <span class="item-trait">Misfortune</span><span class="item-trait">Transmutation</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Aspect** luck
 
 ---

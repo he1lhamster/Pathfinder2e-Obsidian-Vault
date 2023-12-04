@@ -71,16 +71,16 @@ wisdom: '+1'
 # Guard Dog
 
 The typical guard dog is loyal to and beloved by many communities. Often adored as pets, they also excel as protectors and trackers, and can be fearless when defending a beloved master or family member. The statistics presented below work well for any number of breeds of dog ranging from 20 to 50 pounds in weight. Wild dogs can also use these statistics, but their untamed nature makes them far more unpredictable and threatening. Feral dogs are perhaps even more dangerous, for unlike their wild cousins, feral dogs often lack the instinctual fear of humanity that stops wild creatures from interacting with people.
-**Recall Knowledge - Animal ([[Nature]])**: DC 13
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 13
 **Unspecific Lore**: DC 11
 **Specific Lore**: DC 8
 
 # Guard Dog<span class="item-type">Creature -1</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Small</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +6; low-light vision, scent (imprecise) 30 feet
-**Skills** [[Acrobatics]] +5, [[Athletics]] +4, [[Stealth]] +5, [[Survival]] +4
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +5, [[DATABASE/skill/Athletics|Athletics]] +4, [[DATABASE/skill/Stealth|Stealth]] +5, [[DATABASE/skill/Survival|Survival]] +4
 **Str** +1, **Dex** +2, **Con** +2, **Int** -4, **Wis** +1, **Cha** -1
 
 ---

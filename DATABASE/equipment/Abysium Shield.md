@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -52,19 +53,19 @@ weapon_type: null
 # Abysium Shield<span class="item-type">Item 8+</span>
 
 <span class="trait-rare item-trait">Rare</span>
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Usage** varies by shield; **Bulk** —
 
 ---
-These glowing shields are crafted to ensure that the abysium used is safely contained within a durable outer shell. If the shield breaks, however, the toxic metal becomes exposed. When you use the [[Shield Block]] reaction against an adjacent creature's melee Strike, if the shield breaks, the creature is exposed to the abysium and is [[Sickened]] for a standard-grade shield or sickened 2 for a high-grade shield.
+These glowing shields are crafted to ensure that the abysium used is safely contained within a durable outer shell. If the shield breaks, however, the toxic metal becomes exposed. When you use the [[DATABASE/feat/Shield Block|Shield Block]] reaction against an adjacent creature's melee Strike, if the shield breaks, the creature is exposed to the abysium and is [[DATABASE/condition/Sickened|sickened 1]] for a standard-grade shield or sickened 2 for a high-grade shield.
 
 ### Base Material
 
-[[Abysium]]
+[[DATABASE/equipment/Abysium|Abysium]]
 
 ## Abysium Buckler (Standard-Grade)<span class="item-type">Item 8</span>
 
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 400 gp
 **Bulk** L
 The shield has Hardness 4, HP 16, and BT 8.
@@ -72,7 +73,7 @@ The shield has Hardness 4, HP 16, and BT 8.
 
 ## Abysium Shield (Standard-Grade)<span class="item-type">Item 8</span>
 
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 440 gp
 **Bulk** 1
 The shield has Hardness 6, HP 24, and BT 12.
@@ -80,7 +81,7 @@ The shield has Hardness 6, HP 24, and BT 12.
 
 ## Abysium Buckler (High-Grade)<span class="item-type">Item 16</span>
 
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 8,000 gp
 **Bulk** L
 The shield has Hardness 7, HP 28, and BT 14.
@@ -88,7 +89,7 @@ The shield has Hardness 7, HP 28, and BT 14.
 
 ## Abysium Shield (High-Grade)<span class="item-type">Item 16</span>
 
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 8,800 gp
 **Bulk** 1
 The shield has Hardness 10, HP 40, and BT 20.

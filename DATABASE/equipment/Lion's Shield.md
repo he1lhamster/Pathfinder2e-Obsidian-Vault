@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 size: null
@@ -53,11 +54,11 @@ weapon_type: null
 # Lion's Shield<span class="item-type">Item 6</span>
 
 <span class="item-trait">Conjuration</span><span class="item-trait">Magical</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 245 gp
 **Usage** held in 1 hand; **Bulk** 1
-**Base Shield** [[Steel Shield]]
+**Base Shield** [[DATABASE/shield/Steel Shield|Steel Shield]]
 
 ---
-This [[Steel Shield]] (Hardness 6, HP 36, BT 18) is forged into the shape of a roaring lion’s head. The lion’s head functions as _+1 striking [[Shield Boss]]_ that can’t be removed from the shield.
-**Activate** <span class="action-icon">1</span> Raise a Shield **Frequency** once per day; **Effect** You animate the lion’s head. You [[Raise a Shield]] and make a melee Strike with it as part of the same action. The shield’s biting maw is a martial melee weapon that deals 2d6 piercing damage and has the deadly 1d6 trait; it can’t be enhanced by runes. The shield remains animated for 1 minute, during which time you can Strike with it each time you Raise the Shield, as well as with a Strike action.
+This [[DATABASE/shield/Steel Shield|steel shield]] (Hardness 6, HP 36, BT 18) is forged into the shape of a roaring lion’s head. The lion’s head functions as _+1 striking [[DATABASE/weapon/Shield Boss|shield boss]]_ that can’t be removed from the shield.
+**Activate** <span class="action-icon">1</span> Raise a Shield **Frequency** once per day; **Effect** You animate the lion’s head. You [[DATABASE/action/Raise a Shield|Raise the Shield]] and make a melee Strike with it as part of the same action. The shield’s biting maw is a martial melee weapon that deals 2d6 piercing damage and has the deadly 1d6 trait; it can’t be enhanced by runes. The shield remains animated for 1 minute, during which time you can Strike with it each time you Raise the Shield, as well as with a Strike action.

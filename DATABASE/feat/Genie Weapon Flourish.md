@@ -11,6 +11,7 @@ name: Genie Weapon Flourish
 prerequisite: '[[DATABASE/feat/Genie Weapon Familiarity|Genie Weapon Familiarity]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -29,38 +30,38 @@ type: Feat
 # Genie Weapon Flourish <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Ardande</span><span class="item-trait">Ifrit</span><span class="item-trait">Oread</span><span class="item-trait">Suli</span><span class="item-trait">Sylph</span><span class="item-trait">Talos</span><span class="item-trait">Undine</span>
-**Source** [[Ancestry Guide]] 
-**Prerequisites** [[Genie Weapon Familiarity]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
+**Prerequisites** [[DATABASE/feat/Genie Weapon Familiarity|Genie Weapon Familiarity]]
 
 ---
-Whenever you critically hit using a [[Falchion]], [[Ranseur]], [[Scimitar]], [[Trident]], or a geniekin weapon, you apply the weapon's critical specialization effect.
+Whenever you critically hit using a [[DATABASE/weapon/Falchion|falchion]], [[DATABASE/weapon/Ranseur|ranseur]], [[DATABASE/weapon/Scimitar|scimitar]], [[DATABASE/weapon/Trident|trident]], or a geniekin weapon, you apply the weapon's critical specialization effect.
 
 ## Traits
 
 **Ardande:**
 
-Ardandes are [[Planar Scion]] descended from [[Kizidhar]] and other beings of elemental wood.
+Ardandes are [[DATABASE/monsterfamily/Planar Scion|planar scions]] descended from [[DATABASE/monster/Kizidhar|kizidhar]] and other beings of elemental wood.
 
 **Ifrit:**
 
-Ifrits are planar scions descended from [[Efreeti]].
+Ifrits are planar scions descended from [[DATABASE/monster/Efreeti|efreet]].
 
 **Oread:**
 
-Oreads are planar scions descended from [[Shaitan]].
+Oreads are planar scions descended from [[DATABASE/monster/Shaitan|shaitans]].
 
 **Suli:**
 
-Sulis are planar scions descended from [[Janni]].
+Sulis are planar scions descended from [[DATABASE/monster/Janni|jann]].
 
 **Sylph:**
 
-Sylphs are planar scions descended from [[Djinni]].
+Sylphs are planar scions descended from [[DATABASE/monster/Djinni|djinn]].
 
 **Talos:**
 
-Taloses are [[Planar Scion]] descended from [[Zuhra]].
+Taloses are [[DATABASE/monsterfamily/Planar Scion|planar scions]] descended from [[DATABASE/monster/Zuhra|zuhras]].
 
 **Undine:**
 
-Undines are planar scions descended from [[Marid]].
+Undines are planar scions descended from [[DATABASE/monster/Marid|marids]].

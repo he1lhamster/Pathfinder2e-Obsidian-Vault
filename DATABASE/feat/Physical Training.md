@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Swordmaster Dedication|Swordmaster Dedication]] ;
   in [[DATABASE/skill/Acrobatics|Acrobatics]] ; Expert in [[DATABASE/skill/Athletics|Athletics]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
 subcategory: null
@@ -24,12 +25,12 @@ type: Feat
 # Physical Training <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[PFS Guide]]
-**Archetype** [[Swordmaster]]
-**Prerequisites** [[Swordmaster Dedication]]; expert in [[Acrobatics]] and [[Athletics]]
+**Source** [[DATABASE/source/PFS Guide|PFS Guide]]
+**Archetype** [[DATABASE/archetype/Swordmaster|Swordmaster]]
+**Prerequisites** [[DATABASE/feat/Swordmaster Dedication|Swordmaster Dedication]]; expert in [[DATABASE/skill/Acrobatics|Acrobatics]] and [[DATABASE/skill/Athletics|Athletics]]
 
 ---
-You spend a lot of time focusing on your physical fitness. You increase your proficiency rank in [[Acrobatics]] and [[Athletics]] from expert to master.
+You spend a lot of time focusing on your physical fitness. You increase your proficiency rank in [[DATABASE/skill/Acrobatics|Acrobatics]] and [[DATABASE/skill/Athletics|Athletics]] from expert to master.
 
 ## Traits
 

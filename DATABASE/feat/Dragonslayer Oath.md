@@ -11,6 +11,7 @@ name: Dragonslayer Oath
 prerequisite: '[[DATABASE/championtenet/Good|tenets of good]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Dragonslayer Oath <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Champion</span><span class="item-trait">Oath</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Good]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/championtenet/Good|tenets of good]]
 
 ---
 You’ve sworn to slay evil dragons. Add the following tenet to your code after the others: “You must slay evil dragons you encounter as long as you have a reasonable chance of success.” 
@@ -34,7 +35,7 @@ Your Retributive Strike gains a +4 circumstance bonus to damage against an evil 
 
 ## Dragonslayer Oath Leads To...
 
-[[Wyrmbane Aura]]
+[[DATABASE/feat/Wyrmbane Aura|Wyrmbane Aura]]
 
 ## Traits
 

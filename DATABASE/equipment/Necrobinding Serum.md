@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 size: null
@@ -57,7 +58,7 @@ weapon_type: null
 # Necrobinding Serum<span class="item-type">Item 5</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Consumable</span><span class="item-trait">Incapacitation</span><span class="item-trait">Injury</span><span class="item-trait">Magical</span><span class="item-trait">Necromancy</span>
-**Source** [[Crown of the Kobold King]]
+**Source** [[DATABASE/source/Crown of the Kobold King|Crown of the Kobold King]]
 **Price** 30 gp
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">2</span> Interact
@@ -67,6 +68,6 @@ This potent necromantic serum is distilled from the body of an intelligent corpo
  When an undead creature is targeted by a dose of _necrobinding serum_, it must attempt a DC 19 Will save.
 **Critical Success** The undead creature is unaffected.
 **Success** The undead creature is momentarily disoriented; it takes a –1 status penalty to all attack rolls made against you until the start of your next turn.
-**Failure** The undead creature becomes [[Friendly]] toward you. If it was already friendly, it becomes [[Helpful]]. It can't use hostile actions against you. This effect persists for 8 hours if the undead is mindless. Against other undead, the effect gains the mental trait and persists for 10 minutes.
+**Failure** The undead creature becomes [[DATABASE/condition/Friendly|friendly]] toward you. If it was already friendly, it becomes [[DATABASE/condition/Helpful|helpful]]. It can't use hostile actions against you. This effect persists for 8 hours if the undead is mindless. Against other undead, the effect gains the mental trait and persists for 10 minutes.
 **Critical Failure** The undead creature becomes helpful toward you and can't use hostile actions against you. This effect persists for 24 hours if the undead is mindless. Against other undead, the effect gains the mental trait and persists for 1 hour.
 **Craft Requirements** You must be a corporeal undead, and the serum must include some of your flesh and blood.

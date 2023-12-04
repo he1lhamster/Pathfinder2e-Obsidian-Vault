@@ -11,6 +11,7 @@ name: Histrionic Injury
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
 subcategory: null
@@ -24,12 +25,12 @@ type: Feat
 # Histrionic Injury <span class="action-icon">5</span> <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Mental</span><span class="item-trait">Poppet</span>
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Frequency** once per hour
 **Trigger** A creature you can see damages you with a melee Strike.
 
 ---
-You respond with a startled look, dramatic pratfall, or theatrical arm-flailing that stymies your attacker. The attacker must succeed at a Will saving throw against your class DC or spell DC, whichever is higher, or become [[Stupefied]] for 1 round (stupefied 2 on a critical failure).
+You respond with a startled look, dramatic pratfall, or theatrical arm-flailing that stymies your attacker. The attacker must succeed at a Will saving throw against your class DC or spell DC, whichever is higher, or become [[DATABASE/condition/Stupefied|stupefied 1]] for 1 round (stupefied 2 on a critical failure).
 
 ## Traits
 

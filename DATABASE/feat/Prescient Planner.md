@@ -12,6 +12,7 @@ prerequisite: null
 rarity: Common
 requirement: You haven't used this ability since the last time you were able to purchase
   goods.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,16 +25,16 @@ type: Feat
 # Prescient Planner <span class="item-type">Feat 3</span>
 
 <span class="item-trait">General</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Cost** the Price of the chosen item
 **Requirements** You haven't used this ability since the last time you were able to purchase goods.
 
 ---
-You regularly create convoluted plans and contingencies, using your resources to enact them. You take 1 minute to remove your [[Backpack]], then carefully remove an item you hadn't previously declared that you purchased—you intuited that you would come to need the item and purchased it at the latest opportunity. The item must be a piece of adventuring gear, and can't be a weapon, armor, alchemical item, magic item, or other treasure. It must be common with a level no higher than half your level, and its Bulk must be low enough that carrying it wouldn't have made you [[Encumbered]].
+You regularly create convoluted plans and contingencies, using your resources to enact them. You take 1 minute to remove your [[DATABASE/equipment/Backpack|backpack]], then carefully remove an item you hadn't previously declared that you purchased—you intuited that you would come to need the item and purchased it at the latest opportunity. The item must be a piece of adventuring gear, and can't be a weapon, armor, alchemical item, magic item, or other treasure. It must be common with a level no higher than half your level, and its Bulk must be low enough that carrying it wouldn't have made you [[DATABASE/condition/Encumbered|encumbered]].
 
 ## Prescient Planner Leads To...
 
-[[Prescient Consumable]]
+[[DATABASE/feat/Prescient Consumable|Prescient Consumable]]
 
 ## Traits
 

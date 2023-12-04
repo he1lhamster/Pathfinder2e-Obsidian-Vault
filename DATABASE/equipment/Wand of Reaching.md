@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -53,7 +54,7 @@ weapon_type: null
 # Wand of Reaching<span class="item-type">Item 4+</span>
 
 <span class="item-trait">Magical</span><span class="item-trait">Wand</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Usage** held in 1 hand; **Bulk** L
 
 ---
@@ -63,54 +64,54 @@ This long, slender wand is constructed of silver, polished to a mirror shine.
 
 ## Wand of Reaching (1st-Level Spell)<span class="item-type">Item 4</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 100 gp
 **Bulk** L
 
 ## Wand of Reaching (2nd-Level Spell)<span class="item-type">Item 6</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 250 gp
 **Bulk** L
 
 ## Wand of Reaching (3rd-Level Spell)<span class="item-type">Item 8</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 500 gp
 **Bulk** L
 
 ## Wand of Reaching (4th-Level Spell)<span class="item-type">Item 10</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 1,000 gp
 **Bulk** L
 
 ## Wand of Reaching (5th-Level Spell)<span class="item-type">Item 12</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 2,000 gp
 **Bulk** L
 
 ## Wand of Reaching (6th-Level Spell)<span class="item-type">Item 14</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 4,500 gp
 **Bulk** L
 
 ## Wand of Reaching (7th-Level Spell)<span class="item-type">Item 16</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 10,000 gp
 **Bulk** L
 
 ## Wand of Reaching (8th-Level Spell)<span class="item-type">Item 18</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 24,000 gp
 **Bulk** L
 
 ## Wand of Reaching (9th-Level Spell)<span class="item-type">Item 20</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 70,000 gp
 **Bulk** L

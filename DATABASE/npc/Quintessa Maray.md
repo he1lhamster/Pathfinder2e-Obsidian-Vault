@@ -93,28 +93,28 @@ wisdom: '+3'
 # Quintessa Maray
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 38
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 38
 **Unspecific Lore**: DC 36
 **Specific Lore**: DC 33
 
 # Quintessa Maray<span class="item-type">Creature 11</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CN</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 Female human bard
 **Perception** +20
-**Languages** [[Common]], [[Elven]]
-**Skills** [[Acrobatics]] +19, [[Deception]] +24, [[Diplomacy]] +20, [[Performance]] +22, [[Society]] +21, [[Stealth]] +21, [[Thievery]] +23
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Elven|Elven]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +19, [[DATABASE/skill/Deception|Deception]] +24, [[DATABASE/skill/Diplomacy|Diplomacy]] +20, [[DATABASE/skill/Performance|Performance]] +22, [[DATABASE/skill/Society|Society]] +21, [[DATABASE/skill/Stealth|Stealth]] +21, [[DATABASE/skill/Thievery|Thievery]] +23
 **Str** +0, **Dex** +4, **Con** +2, **Int** +2, **Wis** +3, **Cha** +5
-**Items** _+1 [[Glamered]] [[Chain Shirt]]_, _[[Magic Weapon]] [[Silver]] [[Dagger]]_, mithral necklace worth 30 gp
+**Items** _+1 [[DATABASE/equipment/Glamered|glamered]] [[DATABASE/armor/Chain Shirt|chain shirt]]_, _[[DATABASE/equipment/Magic Weapon|+1 striking]] [[DATABASE/equipment/Silver|silver]] [[DATABASE/weapon/Dagger|dagger]]_, mithral necklace worth 30 gp
 
 ---
 **AC** 32; **Fort** +19, **Ref** +23, **Will** +20
 **HP** 145
-<span class="in-box-ability">**Damsel Act** <span class="action-icon">5</span> (mental) **Trigger** A critical hit is scored against Lady Quintessa; **Effect** Lady Quintessa exaggerates the impact of the blow, attempting to trick her foes into underestimating her as weak and frail. She makes a [[Feint]] attempt against the triggering creature. If she successfully performs her Damsel Act while she has an inspire courage composition active, the duration of that composition increases by 1 round.</span>
+<span class="in-box-ability">**Damsel Act** <span class="action-icon">5</span> (mental) **Trigger** A critical hit is scored against Lady Quintessa; **Effect** Lady Quintessa exaggerates the impact of the blow, attempting to trick her foes into underestimating her as weak and frail. She makes a [[DATABASE/action/Feint|Feint]] attempt against the triggering creature. If she successfully performs her Damsel Act while she has an inspire courage composition active, the duration of that composition increases by 1 round.</span>
 
 ---
 **Speed** 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _dagger_ +23 [+19/+15] (agile, finesse, versatile S), **Damage** 2d4+4 piercing</span>**Bard Spontaneous Spells** DC 30, attack +22; **6th** _[[Feeblemind]]_, _[[Spirit Blast]]_ (2 slots); **5th** _[[Hallucination]]_, _[[Sending]]_, _[[Subconscious Suggestion]]_ (3 slots); **4th** _[[Confusion]]_, _[[Dimension Door]]_, _[[Glibness]]_ (3 slots); **3rd** _[[Haste]]_, _[[Mind Reading]]_, _[[Vampiric Touch]]_ (3 slots); **2nd** _[[Dispel Magic]]_, _[[Invisibility]]_, _[[Mirror Image]]_ (3 slots); **1st** _[[Charm]]_, _[[Sleep]]_ (3 slots), _[[Soothe]]_; **Cantrips** **(6th)** _[[Dancing Lights]]_, _[[Ghost Sound]]_, _[[Prestidigitation]]_, _[[Shield]]_, _[[Telekinetic Projectile]]_
-**Bard Composition Spells 2 Focus Points,** DC 30; **6th** _[[Inspire Heroics]]_; **Cantrips** **(6th)** _[[Inspire Courage]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _dagger_ +23 [+19/+15] (agile, finesse, versatile S), **Damage** 2d4+4 piercing</span>**Bard Spontaneous Spells** DC 30, attack +22; **6th** _[[DATABASE/spell/Feeblemind|feeblemind]]_, _[[DATABASE/spell/Spirit Blast|spirit blast]]_ (2 slots); **5th** _[[DATABASE/spell/Hallucination|hallucination]]_, _[[DATABASE/spell/Sending|sending]]_, _[[DATABASE/spell/Subconscious Suggestion|subconscious suggestion]]_ (3 slots); **4th** _[[DATABASE/spell/Confusion|confusion]]_, _[[DATABASE/spell/Dimension Door|dimension door]]_, _[[DATABASE/spell/Glibness|glibness]]_ (3 slots); **3rd** _[[DATABASE/spell/Haste|haste]]_, _[[DATABASE/spell/Mind Reading|mind reading]]_, _[[DATABASE/spell/Vampiric Touch|vampiric touch]]_ (3 slots); **2nd** _[[DATABASE/spell/Dispel Magic|dispel magic]]_, _[[DATABASE/spell/Invisibility|invisibility]]_, _[[DATABASE/spell/Mirror Image|mirror image]]_ (3 slots); **1st** _[[DATABASE/spell/Charm|charm]]_, _[[DATABASE/spell/Sleep|sleep]]_ (3 slots), _[[DATABASE/spell/Soothe|soothe]]_; **Cantrips** **(6th)** _[[DATABASE/spell/Dancing Lights|dancing lights]]_, _[[DATABASE/spell/Ghost Sound|ghost sound]]_, _[[DATABASE/spell/Prestidigitation|prestidigitation]]_, _[[DATABASE/spell/Shield|shield]]_, _[[DATABASE/spell/Telekinetic Projectile|telekinetic projectile]]_
+**Bard Composition Spells 2 Focus Points,** DC 30; **6th** _[[DATABASE/spell/Inspire Heroics|inspire heroics]]_; **Cantrips** **(6th)** _[[DATABASE/spell/Inspire Courage|inspire courage]]_
 <span class="in-box-ability">**Quickened Casting** <span class="action-icon">4</span> (concentrate, metamagic) Frequency once per day; Effect If Quintessa's next action is to cast a bard cantrip or a bard spell that is 4th level or lower, reduce the number of actions to cast it by 1 (minimum 1 action).</span><span class="in-box-ability">**Signature Spells** Quintessa can heighten the following spells freely: _dimension door, dispel magic, hallucination, soothe,_ and _vampiric touch._</span>

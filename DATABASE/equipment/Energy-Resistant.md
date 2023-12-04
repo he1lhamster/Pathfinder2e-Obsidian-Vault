@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 size: null
@@ -53,7 +54,7 @@ weapon_type: null
 # Energy-Resistant<span class="item-type">Item 8+</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Magical</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** etched onto armor; **Bulk** —
 
 ---
@@ -61,11 +62,11 @@ These symbols convey protective forces from the Elemental Planes. You gain resis
 
 ## Energy-Resistant<span class="item-type">Item 8</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 420 gp
 
 ## Energy-Resistant (Greater)<span class="item-type">Item 12</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 1,650 gp
 You gain resistance 10 to the specified damage type.

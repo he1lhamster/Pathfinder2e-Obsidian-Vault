@@ -81,26 +81,26 @@ wisdom: '+4'
 # Drake Courser
 
 This creature did not include a description.
-**Recall Knowledge - Dragon ([[Arcana]])**: DC 32
+**Recall Knowledge - Dragon ([[DATABASE/skill/Arcana|Arcana]])**: DC 32
 **Unspecific Lore**: DC 30
 **Specific Lore**: DC 27
 
 # Drake Courser<span class="item-type">Creature 12</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">CN</span><span class="trait-size item-trait">Large</span><span class="item-trait">Cold</span><span class="item-trait">Dragon</span>
-**Source** [[Pathfinder 167. Ready Fight!]]
-Variant [[Frost Drake]]
-**Perception** +22; [[Darkvision]], [[Scent]] (imprecise) 30 feet, snow vision
-**Languages** [[Draconic]], [[Tien]]
-**Skills** [[Acrobatics]] +27, [[Athletics]] +23, [[Intimidation]] +19
+**Source** [[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]
+Variant [[DATABASE/monster/Frost Drake|frost drake]]
+**Perception** +22; [[DATABASE/monsterability/Darkvision|darkvision]], [[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet, snow vision
+**Languages** [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Tien|Tien]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +27, [[DATABASE/skill/Athletics|Athletics]] +23, [[DATABASE/skill/Intimidation|Intimidation]] +19
 **Str** +5, **Dex** +7, **Con** +5, **Int** -1, **Wis** +4, **Cha** +1
-**Snow Vision** Snow doesn't impair a drake courser's vision. It ignores [[Concealed]] from snowfall.
+**Snow Vision** Snow doesn't impair a drake courser's vision. It ignores [[DATABASE/condition/Concealed|concealment]] from snowfall.
 
 ---
 **AC** 32; **Fort** +23, **Ref** +25, **Will** +18
-**HP** 230; **Immunities** cold, [[Paralyzed]], [[Unconscious]]; **Weaknesses** fire 15
-<span class="in-box-ability">**Attack of Opportunity <span class="action-icon">5</span> ** Tail only. On a critical hit, the target is knocked [[Prone]]; if the target was using a move action, its movement ends.</span>
+**HP** 230; **Immunities** cold, [[DATABASE/condition/Paralyzed|paralyzed]], [[DATABASE/condition/Unconscious|unconscious]]; **Weaknesses** fire 15
+<span class="in-box-ability">**Attack of Opportunity <span class="action-icon">5</span> ** Tail only. On a critical hit, the target is knocked [[DATABASE/condition/Prone|prone]]; if the target was using a move action, its movement ends.</span>
 
 ---
 **Speed** 35 feet, fly 65 feet, swim 35 feet, ice climb 35 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fangs +25 [+20/+15], **Damage** 3d12+11 piercing plus 1d6 cold</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> tail +25 [+20/+15] (reach 10 feet), **Damage** 3d10+11 bludgeoning plus [[Knockdown]]</span><span class="in-box-ability">**Battle Dance** <span class="action-icon">2</span> The drake courser makes two fangs Strikes and one tail Strike in any order. It can replace any of these Strikes with [[Demoralize]] or Step.</span><span class="in-box-ability">**Buffeting Surge** <span class="action-icon">1</span> (move) **Frequency** three times per day; **Effect** The drake courser moves up to twice its Speed. It can attempt to [[Trip]] with its tail once at any point during its movement.</span><span class="in-box-ability">**Freezing Mist Breath** <span class="action-icon">2</span> The drake spits a ball of liquid up to 60 feet that explodes into a 20-foot burst of freezing mist. Those in the burst take 13d6 cold damage (DC 31 basic Reflex save). The mist cakes all surfaces in the area with a sheet of slippery ice that turns the area into difficult terrain for 2d4 rounds. It can't use Freezing Mist Breath again for 1d6 rounds.</span><span class="in-box-ability">**Ice Climb** A drake courser can climb on ice as though it had the listed climb Speed. It ignores difficult terrain and greater difficult terrain from ice and snow and doesn't risk falling when crossing ice.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fangs +25 [+20/+15], **Damage** 3d12+11 piercing plus 1d6 cold</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> tail +25 [+20/+15] (reach 10 feet), **Damage** 3d10+11 bludgeoning plus [[DATABASE/monsterability/Knockdown|Knockdown]]</span><span class="in-box-ability">**Battle Dance** <span class="action-icon">2</span> The drake courser makes two fangs Strikes and one tail Strike in any order. It can replace any of these Strikes with [[DATABASE/action/Demoralize|Demoralize]] or Step.</span><span class="in-box-ability">**Buffeting Surge** <span class="action-icon">1</span> (move) **Frequency** three times per day; **Effect** The drake courser moves up to twice its Speed. It can attempt to [[DATABASE/action/Trip|Trip]] with its tail once at any point during its movement.</span><span class="in-box-ability">**Freezing Mist Breath** <span class="action-icon">2</span> The drake spits a ball of liquid up to 60 feet that explodes into a 20-foot burst of freezing mist. Those in the burst take 13d6 cold damage (DC 31 basic Reflex save). The mist cakes all surfaces in the area with a sheet of slippery ice that turns the area into difficult terrain for 2d4 rounds. It can't use Freezing Mist Breath again for 1d6 rounds.</span><span class="in-box-ability">**Ice Climb** A drake courser can climb on ice as though it had the listed climb Speed. It ignores difficult terrain and greater difficult terrain from ice and snow and doesn't risk falling when crossing ice.</span>

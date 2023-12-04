@@ -112,19 +112,19 @@ wisdom: '+5'
 # Ilgreth
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 50
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 50
 **Unspecific Lore**: DC 48
 **Specific Lore**: DC 45
 
 # Ilgreth<span class="item-type">Creature 20</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 150. Broken Promises]]
+**Source** [[DATABASE/source/Pathfinder 150. Broken Promises|Pathfinder #150: Broken Promises]]
 **Perception** +39
-**Languages** [[Abyssal]], [[Common]], [[Draconic]], [[Dwarven]], [[Ignan]], [[Infernal]], [[Undercommon]]
-**Skills** [[Arcana]] +35, [[Athletics]] +28, [[Deception]] +34, [[Intimidation]] +32, [[Occultism]] +35, [[Lore]] +39, [[Religion]] +28
+**Languages** [[DATABASE/language/Abyssal|Abyssal]], [[DATABASE/language/Common|Common]], [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Dwarven|Dwarven]], [[DATABASE/language/Ignan|Ignan]], [[DATABASE/language/Infernal|Infernal]], [[DATABASE/language/Undercommon|Undercommon]]
+**Skills** [[DATABASE/skill/Arcana|Arcana]] +35, [[DATABASE/skill/Athletics|Athletics]] +28, [[DATABASE/skill/Deception|Deception]] +34, [[DATABASE/skill/Intimidation|Intimidation]] +32, [[DATABASE/skill/Occultism|Occultism]] +35, [[DATABASE/skill/Lore|Plane of Fire Lore]] +39, [[DATABASE/skill/Religion|Religion]] +28
 **Str** +3, **Dex** +5, **Con** +5, **Int** +10, **Wis** +5, **Cha** +6
-**Items** _[[Staff of Fire]]_ (arcane focus), _+3 [[Striking]] [[Dagger]]_
+**Items** _[[DATABASE/equipment/Staff of Fire|major staff of fire]]_ (arcane focus), _+3 [[DATABASE/equipment/Striking|major striking]] [[DATABASE/weapon/Dagger|dagger]]_
 
 ---
 **AC** 28; **Fort** +17, **Ref** +19, **Will** +19
@@ -132,7 +132,7 @@ This creature did not include a description.
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _dagger_ +35 [+31/+27] (agile, finesse, versatile S), **Damage** 4d4+14 piercing</span>**Arcane Prepared Spells** DC 44, attack +36; **10th** _[[Cataclysm]]_ (×2); **9th** _[[Fireball]]_ (×3), _[[Meteor Swarm]]_; **8th** _[[Earthquake]]_, _[[Maze]]_, _[[Polar Ray]]_ (×2); **7th** _[[Energy Aegis]]_, _[[Fireball]]_, _[[Prismatic Spray]]_, _[[Warp Mind]]_; **6th** _[[Chain Lightning]]_ (×2), _[[Disintegrate]]_, _[[Dominate]]_; **5th** _[[Cone of Cold]]_, _[[Dispel Magic]]_ (×2), _[[Fireball]]_; **4th** _[[Blink]]_, _[[Dimension Door]]_, _[[Fly]]_, _[[Wall of Fire]]_; **3rd** _[[Acid Arrow]]_, _[[Fireball]]_, _[[Invisibility Sphere]]_, _[[Slow]]_; **2nd** _[[Acid Arrow]]_, _[[Invisibility]]_, _[[Mirror Image]]_, _[[Obscuring Mist]]_; **1st** _[[Command]]_, _[[Fear]]_, _[[Magic Missile]]_, _[[Shocking Grasp]]_; **Cantrips** **(10th)** _[[Acid Splash]]_, _[[Detect Magic]]_, _[[Electric Arc]]_, _[[Prestidigitation]]_, _[[Read Aura]]_, _[[Shield]]_
-**Wizard School Spells** DC 44, 3 Focus Points; **10th** _[[Elemental Tempest]]_, _[[Force Bolt]]_
-**Arcane Rituals** DC 44; **8th** _[[Imprisonment]]_; **2nd** _[[Inveigle]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _dagger_ +35 [+31/+27] (agile, finesse, versatile S), **Damage** 4d4+14 piercing</span>**Arcane Prepared Spells** DC 44, attack +36; **10th** _[[DATABASE/spell/Cataclysm|cataclysm]]_ (×2); **9th** _[[DATABASE/spell/Fireball|fireball]]_ (×3), _[[DATABASE/spell/Meteor Swarm|meteor swarm]]_; **8th** _[[DATABASE/spell/Earthquake|earthquake]]_, _[[DATABASE/spell/Maze|maze]]_, _[[DATABASE/spell/Polar Ray|polar ray]]_ (×2); **7th** _[[DATABASE/spell/Energy Aegis|energy aegis]]_, _[[DATABASE/spell/Fireball|fireball]]_, _[[DATABASE/spell/Prismatic Spray|prismatic spray]]_, _[[DATABASE/spell/Warp Mind|warp mind]]_; **6th** _[[DATABASE/spell/Chain Lightning|chain lightning]]_ (×2), _[[DATABASE/spell/Disintegrate|disintegrate]]_, _[[DATABASE/spell/Dominate|dominate]]_; **5th** _[[DATABASE/spell/Cone of Cold|cone of cold]]_, _[[DATABASE/spell/Dispel Magic|dispel magic]]_ (×2), _[[DATABASE/spell/Fireball|fireball]]_; **4th** _[[DATABASE/spell/Blink|blink]]_, _[[DATABASE/spell/Dimension Door|dimension door]]_, _[[DATABASE/spell/Fly|fly]]_, _[[DATABASE/spell/Wall of Fire|wall of fire]]_; **3rd** _[[DATABASE/spell/Acid Arrow|acid arrow]]_, _[[DATABASE/spell/Fireball|fireball]]_, _[[DATABASE/spell/Invisibility Sphere|invisibility sphere]]_, _[[DATABASE/spell/Slow|slow]]_; **2nd** _[[DATABASE/spell/Acid Arrow|acid arrow]]_, _[[DATABASE/spell/Invisibility|invisibility]]_, _[[DATABASE/spell/Mirror Image|mirror image]]_, _[[DATABASE/spell/Obscuring Mist|obscuring mist]]_; **1st** _[[DATABASE/spell/Command|command]]_, _[[DATABASE/spell/Fear|fear]]_, _[[DATABASE/spell/Magic Missile|magic missile]]_, _[[DATABASE/spell/Shocking Grasp|shocking grasp]]_; **Cantrips** **(10th)** _[[DATABASE/spell/Acid Splash|acid splash]]_, _[[DATABASE/spell/Detect Magic|detect magic]]_, _[[DATABASE/spell/Electric Arc|electric arc]]_, _[[DATABASE/spell/Prestidigitation|prestidigitation]]_, _[[DATABASE/spell/Read Aura|read aura]]_, _[[DATABASE/spell/Shield|shield]]_
+**Wizard School Spells** DC 44, 3 Focus Points; **10th** _[[DATABASE/spell/Elemental Tempest|elemental tempest]]_, _[[DATABASE/spell/Force Bolt|force bolt]]_
+**Arcane Rituals** DC 44; **8th** _[[DATABASE/ritual/Imprisonment|imprisonment]]_; **2nd** _[[DATABASE/ritual/Inveigle|inveigle]]_
 <span class="in-box-ability">**Drain Bonded Item** <span class="action-icon">4</span> **Frequency** once per day; **Requirements** Ilgreth hasn't acted yet on this turn; **Effect** Ilgreth can cast one prepared spell he has already cast today without spending a spell slot. He must still Cast the Spell and meet the spell's other requirements.</span><span class="in-box-ability">**Overwhelming Energy** <span class="action-icon">1</span> If Ilgreth's next action is to Cast a Spell, the spell ignores 20 resistance to acid, cold, electricity, fire, or sonic damage.</span>

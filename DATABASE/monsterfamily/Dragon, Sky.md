@@ -3,6 +3,7 @@ creature_family: Dragon, Sky
 id: '229'
 name: Dragon, Sky
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 trait: null
 type: Creature Family
@@ -10,13 +11,13 @@ type: Creature Family
 ---
 # Dragon, Sky
 
-**Source** [[Bestiary 3]]
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
 Sky dragons live above the clouds near the summits of mountains. They maintain a strong religious tradition, a unique practice among imperial dragons that sets them apart as much as their wings do. Desperate souls risk steep cliffs and loose snow to seek these dragons' counsel, and most sky dragons gladly help those who make the journey, but they expel any express hostilities or badger without hesitation.
  The sky dragon's wings aren't true wings, but long fins fused to their forearms; their scales also form only very slowly. Young dragons coil tightly in their lairs as they absorb minerals that color and harden their scales. Even adults often wrap around pillars out of habit.
 
 ### Members
 
-[[Adult Sky Dragon]] (Creature 13), [[Ancient Sky Dragon]] (Creature 18), [[Young Sky Dragon]] (Creature 9)
+[[DATABASE/monster/Adult Sky Dragon|Adult Sky Dragon]] (Creature 13), [[DATABASE/monster/Ancient Sky Dragon|Ancient Sky Dragon]] (Creature 18), [[DATABASE/monster/Young Sky Dragon|Young Sky Dragon]] (Creature 9)
 
 ###  Arcane and Primal Sky Dragons
 
@@ -24,7 +25,7 @@ Some sky dragons choose not to pursue religious studies. Inquisitive individuals
 
 ###  Shinonome
 
-Herald of the goddess [[Shizuru]], Shinonome is a paragon of the divine connection all sky dragons supposedly have. She upholds a tireless devotion to the goddess, carrying out her will on Golarion.
+Herald of the goddess [[DATABASE/deity/Shizuru|Shizuru]], Shinonome is a paragon of the divine connection all sky dragons supposedly have. She upholds a tireless devotion to the goddess, carrying out her will on Golarion.
 
 ###  Sky Dragon Spellcasters
 
@@ -32,19 +33,19 @@ Sky dragon spellcasters tend to cast the following spells.
 
 ## Young Sky Dragon
 
-**Divine Prepared Spells** DC 28, attack +21; **4th** [[Discern Lies]], [[Dispel Magic]], [[Divine Wrath]]; **3rd** [[Heroism]], [[Locate]], [[Wanderer's Guide]]; **2nd** [[Augury]], [[Comprehend Language]], [[Create Food]]; **1st** [[Alarm]], [[Bless]], [[Detect Alignment]] (at will, evil only), [[Sanctuary]]; **Cantrips (4th)** [[Detect Magic]], [[Divine Lance]], [[Read Aura]], [[Shield]], [[Stabilize]]; **Rituals** DC 28; [[Consecrate]]
+**Divine Prepared Spells** DC 28, attack +21; **4th** [[DATABASE/spell/Discern Lies|discern lies]], [[DATABASE/spell/Dispel Magic|dispel magic]], [[DATABASE/spell/Divine Wrath|divine wrath]]; **3rd** [[DATABASE/spell/Heroism|heroism]], [[DATABASE/spell/Locate|locate]], [[DATABASE/spell/Wanderer's Guide|wanderer's guide]]; **2nd** [[DATABASE/spell/Augury|augury]], [[DATABASE/spell/Comprehend Language|comprehend language]], [[DATABASE/spell/Create Food|create food]]; **1st** [[DATABASE/spell/Alarm|alarm]], [[DATABASE/spell/Bless|bless]], [[DATABASE/spell/Detect Alignment|detect alignment]] (at will, evil only), [[DATABASE/spell/Sanctuary|sanctuary]]; **Cantrips (4th)** [[DATABASE/spell/Detect Magic|detect magic]], [[DATABASE/spell/Divine Lance|divine lance]], [[DATABASE/spell/Read Aura|read aura]], [[DATABASE/spell/Shield|shield]], [[DATABASE/spell/Stabilize|stabilize]]; **Rituals** DC 28; [[DATABASE/ritual/Consecrate|consecrate]]
 
 ## Adult Sky Dragon
 
-**Divine Prepared Spells** DC 33, attack +26; As young sky dragon, plus **6th** [[Blade Barrier]], [[Righteous Might]], [[True Seeing]]; **5th** [[Banishment]], [[Prying Eye]], [[Tongues]]; **Cantrips (6th)** [[Detect Magic]], [[Divine Lance]], [[Read Aura]], [[Shield]], [[Stabilize]]; **Rituals** DC 33; [[Atone]]
+**Divine Prepared Spells** DC 33, attack +26; As young sky dragon, plus **6th** [[DATABASE/spell/Blade Barrier|blade barrier]], [[DATABASE/spell/Righteous Might|righteous might]], [[DATABASE/spell/True Seeing|true seeing]]; **5th** [[DATABASE/spell/Banishment|banishment]], [[DATABASE/spell/Prying Eye|prying eye]], [[DATABASE/spell/Tongues|tongues]]; **Cantrips (6th)** [[DATABASE/spell/Detect Magic|detect magic]], [[DATABASE/spell/Divine Lance|divine lance]], [[DATABASE/spell/Read Aura|read aura]], [[DATABASE/spell/Shield|shield]], [[DATABASE/spell/Stabilize|stabilize]]; **Rituals** DC 33; [[DATABASE/ritual/Atone|atone]]
 
 ## Ancient Sky Dragon
 
-**Divine Prepared Spells** DC 42, attack +36; As adult sky dragon, plus **8th** [[Discern Location]], [[Divine Aura]], [[Divine Decree]]; **7th** [[Energy Aegis]], [[Prismatic Spray]], [[Sunburst]]; **Cantrips (9th)** [[Detect Magic]], [[Divine Lance]], [[Read Aura]], [[Shield]], [[Stabilize]]; **Rituals** DC 42; [[Legend Lore]]
+**Divine Prepared Spells** DC 42, attack +36; As adult sky dragon, plus **8th** [[DATABASE/spell/Discern Location|discern location]], [[DATABASE/spell/Divine Aura|divine aura]], [[DATABASE/spell/Divine Decree|divine decree]]; **7th** [[DATABASE/spell/Energy Aegis|energy aegis]], [[DATABASE/spell/Prismatic Spray|prismatic spray]], [[DATABASE/spell/Sunburst|sunburst]]; **Cantrips (9th)** [[DATABASE/spell/Detect Magic|detect magic]], [[DATABASE/spell/Divine Lance|divine lance]], [[DATABASE/spell/Read Aura|read aura]], [[DATABASE/spell/Shield|shield]], [[DATABASE/spell/Stabilize|stabilize]]; **Rituals** DC 42; [[DATABASE/ritual/Legend Lore|legend lore]]
 
 ## Dragon, Imperial
 
-**Related Groups** [[Dragon, Forest]], [[Dragon, Sea]], [[Dragon, Sovereign]], [[Dragon, Underworld]]
+**Related Groups** [[DATABASE/monsterfamily/Dragon, Forest|Dragon, Forest]], [[DATABASE/monsterfamily/Dragon, Sea|Dragon, Sea]], [[DATABASE/monsterfamily/Dragon, Sovereign|Dragon, Sovereign]], [[DATABASE/monsterfamily/Dragon, Underworld|Dragon, Underworld]]
 Imperial dragons, namesake of the Dragon Empires and guardians of Tian Xia before humanity arrived, embody five strengthening and counteracting forces. Unlike other true dragons, imperial dragons dive deep into human affairs. Some remain secretive, posing as reclusive hermits, while others keep a high profile, openly ruling factions. Tian cultures in turn venerate the dragons, depicting gods in the form of dragons or claiming ancestry from them. Not all are adored, for plenty of these creatures act wickedly.
 
 ## Draconic Cycles
@@ -55,7 +56,7 @@ Each imperial dragon represents one element and has four abilities related to th
 ## Shape-Changing Dragons
 
 Imperial dragons are the most likely (and willing) of Golarion's dragons to take humanoid forms. The vast majority of them have the following ability, with the tradition trait matching the dragon's innate spells: 
-**[[Change Shape]]** <span class="action-icon">1</span> (concentrate, polymorph, transmutation) The dragon takes on the appearance of any Small or Medium humanoid. This doesn't change their Speed or attack and damage modifiers with their Strikes, but it might change the damage type their Strikes deal (typically to bludgeoning).
+**[[DATABASE/monsterability/Change Shape|Change Shape]]** <span class="action-icon">1</span> (concentrate, polymorph, transmutation) The dragon takes on the appearance of any Small or Medium humanoid. This doesn't change their Speed or attack and damage modifiers with their Strikes, but it might change the damage type their Strikes deal (typically to bludgeoning).
 
 ## Imperial Dragon Spellcasters
 
@@ -71,8 +72,8 @@ Classifying a dragon is as difficult as asking for their name. A variety of name
 
 ###  Rules of Depiction
 
-In some parts of the old empire of Lung Wa, it was illegal— blasphemous even—to depict a dragon with five talons on objects not used by the emperor or royalty. Officials might receive permission to wear a robe with a “four-talon serpent,” while common folk were only ever allowed to depict dragons with three talons, even for their temples. These rules might explain why old portraits of [[Dragon, Sovereign]] sold amongst the wealthy often have clutter in the foreground, obscuring their claws.
+In some parts of the old empire of Lung Wa, it was illegal— blasphemous even—to depict a dragon with five talons on objects not used by the emperor or royalty. Officials might receive permission to wear a robe with a “four-talon serpent,” while common folk were only ever allowed to depict dragons with three talons, even for their temples. These rules might explain why old portraits of [[DATABASE/monsterfamily/Dragon, Sovereign|young sovereign dragons]] sold amongst the wealthy often have clutter in the foreground, obscuring their claws.
 
 ###  Rumored Rivalries
 
-Some Tian philosophers, particularly worshipers of [[Qi Zhong]]—the Tian god of magic, medicine, and knowledge— speculate that each type of imperial dragon is mortal enemies with another type. Asking the dragons if this hypothesis is true often gets one laughed out of their lairs or a breath weapon to the face. In truth, imperial dragons have complicated relationships with one another that aren't as simple as being enemies or friends.
+Some Tian philosophers, particularly worshipers of [[DATABASE/deity/Qi Zhong|Qi Zhong]]—the Tian god of magic, medicine, and knowledge— speculate that each type of imperial dragon is mortal enemies with another type. Asking the dragons if this hypothesis is true often gets one laughed out of their lairs or a breath weapon to the face. In truth, imperial dragons have complicated relationships with one another that aren't as simple as being enemies or friends.

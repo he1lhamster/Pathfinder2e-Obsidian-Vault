@@ -65,20 +65,20 @@ wisdom: '+2'
 # Antaro Boldblade
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 13
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 13
 **Unspecific Lore**: DC 11
 **Specific Lore**: DC 8
 
 # Antaro Boldblade<span class="item-type">Creature -1</span>
 
 <span class="trait-alignment item-trait">CG</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 157. Devil at the Dreaming Palace]]
-Male [[Human]] [[Druid]] of [[Cayden Cailean]]
+**Source** [[DATABASE/source/Pathfinder 157. Devil at the Dreaming Palace|Pathfinder #157: Devil at the Dreaming Palace]]
+Male [[DATABASE/ancestry/Human|human]] [[DATABASE/class_/Druid|cleric]] of [[DATABASE/deity/Cayden Cailean|Cayden Cailean]]
 **Perception** +4
-**Languages** [[Common]], [[Dwarven]]
-**Skills** [[Athletics]] +4, [[Diplomacy]] +6, [[Religion]] +4
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Dwarven|Dwarven]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +4, [[DATABASE/skill/Diplomacy|Diplomacy]] +6, [[DATABASE/skill/Religion|Religion]] +4
 **Str** +2, **Dex** +0, **Con** +1, **Int** +0, **Wis** +2, **Cha** +2
-**Items** [[Rapier]], [[Splint Mail]], [[Wooden Shield]]
+**Items** [[DATABASE/weapon/Rapier|rapier]], [[DATABASE/armor/Splint Mail|splint mail]], [[DATABASE/shield/Wooden Shield|wooden shield]]
 
 ---
 **AC** 15 (17 with Shield Raised); **Fort** +5, **Ref** +2, **Will** +8
@@ -86,4 +86,4 @@ Male [[Human]] [[Druid]] of [[Cayden Cailean]]
 
 ---
 **Speed** 15 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> rapier +5 [+0/-5] (deadly 1d8, disarm, finesse), **Damage** 1d6+2 piercing</span>**Divine Prepared Spells** DC 16; **1st** _[[Heal]]_; **Cantrips** **(1st)** _[[Light]]_, _[[Stabilize]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> rapier +5 [+0/-5] (deadly 1d8, disarm, finesse), **Damage** 1d6+2 piercing</span>**Divine Prepared Spells** DC 16; **1st** _[[DATABASE/spell/Heal|heal]]_; **Cantrips** **(1st)** _[[DATABASE/spell/Light|light]]_, _[[DATABASE/spell/Stabilize|stabilize]]_

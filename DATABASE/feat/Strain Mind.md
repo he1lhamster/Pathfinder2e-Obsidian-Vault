@@ -11,6 +11,7 @@ name: Strain Mind
 prerequisite: null
 rarity: Common
 requirement: You have 0 Focus Points.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Strain Mind <span class="action-icon">4</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Psychic</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Frequency** once per hour
 **Trigger** You cast a psi cantrip.
 **Requirements** You have 0 Focus Points.

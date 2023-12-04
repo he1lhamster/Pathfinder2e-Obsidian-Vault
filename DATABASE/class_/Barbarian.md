@@ -16,6 +16,7 @@ id: '2'
 name: Barbarian
 perception_proficiency: Expert
 rarity: Common
+rus_type_level: null
 skill_proficiency:
 - Trained in Athletics
 - Trained in a number of additional skills equal to 3 plus your Intelligence modifier
@@ -26,7 +27,7 @@ type: Class
 
 ---
 # Barbarian
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 _Rage consumes you in battle. You delight in wreaking havoc and using powerful weapons to carve through your enemies, relying on astonishing durability without needing complicated techniques or rigid training. Your rages draw upon a vicious instinct, which you might associate with an animal, a spirit, or some part of yourself. To many barbarians, brute force is a hammer and every problem looks like a nail, whereas others try to hold back the storm of emotions inside them and release their rage only when it matters most._
 **Key Ability: STRENGTH**
 At 1st level, your class gives you an ability boost to Strength.
@@ -38,7 +39,7 @@ You increase your maximum number of HP by this number at 1st level and every lev
 You'll see the following key terms in many barbarian class features.
  **Flourish**: Flourish actions are techniques that require too much exertion to perform a large number in a row. You can use only 1 action with the flourish trait per turn.
  **Open**: These maneuvers work only as your first salvo on your turn. You can use an open action only if you haven't used an action with the attack or open trait yet this turn.
- **Rage**: You must be [[Rage]] to use abilities with the rage trait, and they end automatically when you stop raging.
+ **Rage**: You must be [[DATABASE/action/Rage|raging]] to use abilities with the rage trait, and they end automatically when you stop raging.
 
 # Roleplaying the Barbarian
 
@@ -86,7 +87,7 @@ Expert in Will
 
 ## Skills
 
-Trained in [[Athletics]]
+Trained in [[DATABASE/skill/Athletics|Athletics]]
 Trained in a number of additional skills equal to 3 plus your Intelligence modifier
 
 ## Attacks
@@ -107,30 +108,29 @@ Trained in barbarian class DC
 
 # Class Features
 
-You gain these features as a Barbarian. Abilities gained at higher levels list the levels at which you gain them next to the features' names.
-
-|   Your Level | Class Features                                                                                |
-|-------------:|:----------------------------------------------------------------------------------------------|
-|            1 | Ancestry and background, initial proficiencies, rage, instinct, barbarian feat                |
-|            2 | Barbarian feat, skill feat                                                                    |
-|            3 | Deny advantage, general feat, skill increase                                                  |
-|            4 | Barbarian feat, skill feat                                                                    |
-|            5 | Ability boosts, ancestry feat, brutality, skill increase                                      |
-|            6 | Barbarian feat, skill feat                                                                    |
-|            7 | General feat, juggernaut, skill increase, weapon specialization                               |
-|            8 | Barbarian feat, skill feat                                                                    |
-|            9 | Ancestry feat, lightning reflexes, raging resistance, skill increase                          |
-|           10 | Ability boosts, barbarian feat, skill feat                                                    |
-|           11 | General feat, mighty rage, skill increase                                                     |
-|           12 | Barbarian feat, skill feat                                                                    |
-|           13 | Ancestry feat, greater juggernaut, medium armor expertise, skill increase, weapon fury        |
-|           14 | Barbarian feat, skill feat                                                                    |
-|           15 | Ability boosts, general feat, greater weapon specialization, indomitable will, skill increase |
-|           16 | Barbarian feat, skill feat                                                                    |
-|           17 | Ancestry feat, heightened senses, skill increase, quick rage                                  |
-|           18 | Barbarian feat, skill feat                                                                    |
-|           19 | Armor of fury, devastator, general feat, skill increase                                       |
-|           20 | Ability boosts, barbarian feat, skill feat                                                    |
+You gain these features as a Barbarian. Abilities gained at higher levels list the levels at which you gain them next to the features' names.| 0 | 1 |
+|:-----------|:----------------------------------------------------------------------------------------------|
+| Your Level | Class Features |
+| 1 | Ancestry and background, initial proficiencies, rage, instinct, barbarian feat |
+| 2 | Barbarian feat, skill feat |
+| 3 | Deny advantage, general feat, skill increase |
+| 4 | Barbarian feat, skill feat |
+| 5 | Ability boosts, ancestry feat, brutality, skill increase |
+| 6 | Barbarian feat, skill feat |
+| 7 | General feat, juggernaut, skill increase, weapon specialization |
+| 8 | Barbarian feat, skill feat |
+| 9 | Ancestry feat, lightning reflexes, raging resistance, skill increase |
+| 10 | Ability boosts, barbarian feat, skill feat |
+| 11 | General feat, mighty rage, skill increase |
+| 12 | Barbarian feat, skill feat |
+| 13 | Ancestry feat, greater juggernaut, medium armor expertise, skill increase, weapon fury |
+| 14 | Barbarian feat, skill feat |
+| 15 | Ability boosts, general feat, greater weapon specialization, indomitable will, skill increase |
+| 16 | Barbarian feat, skill feat |
+| 17 | Ancestry feat, heightened senses, skill increase, quick rage |
+| 18 | Barbarian feat, skill feat |
+| 19 | Armor of fury, devastator, general feat, skill increase |
+| 20 | Ability boosts, barbarian feat, skill feat |
 
 ## Ancestry and Background
 
@@ -144,18 +144,18 @@ At 1st level you gain a number of proficiencies that represent your basic traini
 
 You gain the Rage action, which lets you fly into a frenzy.
 
-### [[Rage]] <span class="action-icon">1</span>
+### [[DATABASE/action/Rage|Rage]] <span class="action-icon">1</span>
 
 <span class="item-trait">Barbarian</span><span class="item-trait">Concentrate</span><span class="item-trait">Emotion</span><span class="item-trait">Mental</span>
-**Source** [[Core Rulebook]] 
-**Requirements** You aren’t [[Fatigued]] or raging.
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Requirements** You aren’t [[DATABASE/condition/Fatigued|fatigued]] or raging.
 
 ---
-You tap into your inner fury and begin raging. You gain a number of temporary Hit Points equal to your level plus your Constitution modifier. This frenzy lasts for 1 minute, until there are no enemies you can perceive, or until you fall [[Unconscious]], whichever comes first. You can't voluntarily stop raging. While you are raging:
+You tap into your inner fury and begin raging. You gain a number of temporary Hit Points equal to your level plus your Constitution modifier. This frenzy lasts for 1 minute, until there are no enemies you can perceive, or until you fall [[DATABASE/condition/Unconscious|unconscious]], whichever comes first. You can't voluntarily stop raging. While you are raging:
 
 * You deal 2 additional damage with melee Strikes. This additional damage is halved if your weapon or unarmed attack is agile. 
 * You take a –1 penalty to AC. 
-* You can't use actions with the concentrate trait unless they also have the rage trait. You can [[Seek]] while raging.
+* You can't use actions with the concentrate trait unless they also have the rage trait. You can [[DATABASE/action/Seek|Seek]] while raging.
 
 After you stop raging, you lose any remaining temporary Hit Points from Rage, and you can't Rage again for 1 minute.
 
@@ -219,10 +219,10 @@ See specific instincts for more information.
 
 Your rage intensifies and lets you burst into action. Your proficiency rank for your barbarian class DC increases to expert. You gain the Mighty Rage free action.
 
-### [[Mighty Rage]] <span class="action-icon">4</span>
+### [[DATABASE/action/Mighty Rage|Mighty Rage]] <span class="action-icon">4</span>
 
 <span class="item-trait">Barbarian</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Trigger** You use the Rage action on your turn.
 
 ---

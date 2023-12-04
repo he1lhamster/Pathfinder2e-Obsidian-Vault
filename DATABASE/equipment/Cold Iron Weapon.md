@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -50,7 +51,7 @@ weapon_type: null
 ---
 # Cold Iron Weapon<span class="item-type">Item 2+</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** varies by weapon; **Bulk** varies by weapon
 
 ---
@@ -58,22 +59,22 @@ Cold iron weapons deal additional damage to creatures with weakness to cold iron
 
 ### Base Material
 
-[[Cold Iron]]
+[[DATABASE/equipment/Cold Iron|Cold Iron]]
 
 ## Cold Iron Weapon (Low-Grade)<span class="item-type">Item 2</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 40 gp (+4 gp per Bulk)
 **Craft Requirements** at least 20 sp of cold iron + 2 sp per Bulk
 
 ## Cold Iron Weapon (Standard-Grade)<span class="item-type">Item 10</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 880 gp (+88 gp per Bulk)
 **Craft Requirements** at least 110 gp of cold iron + 11 gp per Bulk
 
 ## Cold Iron Weapon (High-Grade)<span class="item-type">Item 16</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 9,000 gp (+900 gp per Bulk)
 **Craft Requirements** at least 4,500 gp of cold iron + 450 gp per Bulk

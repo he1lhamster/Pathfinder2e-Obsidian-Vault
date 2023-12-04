@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 size: null
@@ -54,11 +55,11 @@ weapon_type: null
 # Ethereal<span class="item-type">Item 17</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Conjuration</span><span class="item-trait">Magical</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 13,500 gp
 **Usage** etched onto armor; **Bulk** —
 
 ---
 An _ethereal rune_ replicates armor on the Ethereal Plane.
-**Activate** <span class="action-icon">1</span> command **Frequency** once per day; **Effect** You gain the effects of an [[Ethereal Jaunt]] spell. This doesn’t require concentration and lasts for 10 minutes or until you choose to return to material form as a free action.
+**Activate** <span class="action-icon">1</span> command **Frequency** once per day; **Effect** You gain the effects of an [[DATABASE/spell/Ethereal Jaunt|ethereal jaunt]] spell. This doesn’t require concentration and lasts for 10 minutes or until you choose to return to material form as a free action.
 **Craft Requirements** Supply a casting of 9th-level _ethereal jaunt_.

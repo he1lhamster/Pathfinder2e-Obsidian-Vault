@@ -11,6 +11,7 @@ name: Azarketi Weapon Familiarity
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Absalom, City of Lost Omens|Absalom, City of Lost Omens]]'
 subcategory: null
@@ -23,14 +24,14 @@ type: Feat
 # Azarketi Weapon Familiarity <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Azarketi</span>
-**Source** [[Absalom, City of Lost Omens]], [[Azarketi Ancestry Web Supplement]]
+**Source** [[DATABASE/source/Absalom, City of Lost Omens|Absalom, City of Lost Omens]], [[DATABASE/source/Azarketi Ancestry Web Supplement|Azarketi Ancestry Web Supplement]]
 
 ---
-You are familiar with weapons that excel underwater. You are trained with [[Crossbow]], [[Hand Crossbow]], [[Longspear]], [[Spear]], and [[Trident]]. In addition, you gain access to all uncommon azarketi weapons. For the purpose of determining your proficiency, martial azarketi weapons are simple weapons and advanced azarketi weapons are martial weapons.
+You are familiar with weapons that excel underwater. You are trained with [[DATABASE/weapon/Crossbow|crossbows]], [[DATABASE/weapon/Hand Crossbow|hand crossbows]], [[DATABASE/weapon/Longspear|longspears]], [[DATABASE/weapon/Spear|spears]], and [[DATABASE/weapon/Trident|tridents]]. In addition, you gain access to all uncommon azarketi weapons. For the purpose of determining your proficiency, martial azarketi weapons are simple weapons and advanced azarketi weapons are martial weapons.
 
 ## Azarketi Weapon Familiarity Leads To...
 
-[[Azarketi Weapon Aptitude]], [[Azarketi Weapon Expertise]]
+[[DATABASE/feat/Azarketi Weapon Aptitude|Azarketi Weapon Aptitude]], [[DATABASE/feat/Azarketi Weapon Expertise|Azarketi Weapon Expertise]]
 
 ## Traits
 

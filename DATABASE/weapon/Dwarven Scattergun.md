@@ -12,6 +12,7 @@ name: Dwarven Scattergun
 price: 10 gp
 range: 50 ft.
 rarity: Uncommon
+rus_type_level: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
 - '[[DATABASE/trait/Concussive|Concussive]]'
@@ -28,15 +29,15 @@ weapon_type: Ranged
 # Dwarven Scattergun<span class="item-type">Item 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Concussive</span><span class="item-trait">Dwarf</span><span class="item-trait">Kickback</span><span class="item-trait">Scatter 10 ft.</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Access** The following regions have access to firearms: Alkenstar, Dongun Hold, Tian Xia, Vudra, Arcadia, Ustalav, the Shackles
 **Price** 10 gp; **Damage** 1d8 P; **Bulk** 2
 **Hands** 2; **Range** 50 ft.; **Reload** 1
-**Type** Ranged; **Category** Advanced; **Group** [[Firearm]]
-**Ammunition** [[Firearm Ammunition (5 rounds)]]
+**Type** Ranged; **Category** Advanced; **Group** [[DATABASE/weapongroup/Firearm|Firearm]]
+**Ammunition** [[DATABASE/weapon/Firearm Ammunition (5 rounds)|Firearm Ammunition (5 rounds)]]
 
 ---
-A favored weapon of [[Dwarf]] scouts from Dongun Hold, the dwarven scattergun is a powerful weapon designed to take advantage of a dwarf's sturdy frame. A dwarven scattergun fires a large paper cartridge stuffed with black powder and knuckle-sized lumps of metal, creating a devastating burst so destructive that a foolish dwarf might find themself catching painful ricochets when firing at a too-close target. Some scatterguns are crafted with a clockwork firing tray that can quickly sort and load black powder and shot without needing a prepackaged cartridge, though this is largely an aesthetic feature with no real mechanical benefit.
+A favored weapon of [[DATABASE/ancestry/Dwarf|dwarf]] scouts from Dongun Hold, the dwarven scattergun is a powerful weapon designed to take advantage of a dwarf's sturdy frame. A dwarven scattergun fires a large paper cartridge stuffed with black powder and knuckle-sized lumps of metal, creating a devastating burst so destructive that a foolish dwarf might find themself catching painful ricochets when firing at a too-close target. Some scatterguns are crafted with a clockwork firing tray that can quickly sort and load black powder and shot without needing a prepackaged cartridge, though this is largely an aesthetic feature with no real mechanical benefit.
 
 ## Traits
 
@@ -46,7 +47,7 @@ These weapons smash as much as puncture. When determining a creature's resistanc
 
 **Dwarf:**
 
-A creature with this trait is a member of the dwarf ancestry. Dwarves are stout folk who often live underground and typically have [[Darkvision]]. An ability with this trait can be used or selected only by dwarves. An item with this trait is created and used by dwarves.
+A creature with this trait is a member of the dwarf ancestry. Dwarves are stout folk who often live underground and typically have [[DATABASE/monsterability/Darkvision|darkvision]]. An ability with this trait can be used or selected only by dwarves. An item with this trait is created and used by dwarves.
 
 **Kickback:**
 
@@ -58,14 +59,14 @@ This weapon fires a cluster of pellets in a wide spray. Scatter always has an ar
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.
 
 ## Critical Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
-**Firearm**: The target must succeed at a Fortitude save against your class DC or be [[Stunned]].
+**Firearm**: The target must succeed at a Fortitude save against your class DC or be [[DATABASE/condition/Stunned|stunned 1]].
 
 ## Specific Magic Weapons
 
-[[Animate Dreamer]]
+[[DATABASE/equipment/Animate Dreamer|Animate Dreamer]]

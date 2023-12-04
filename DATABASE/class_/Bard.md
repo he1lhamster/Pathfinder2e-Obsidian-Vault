@@ -20,6 +20,7 @@ id: '3'
 name: Bard
 perception_proficiency: Expert
 rarity: Common
+rus_type_level: null
 skill_proficiency:
 - Trained in Occultism
 - Trained in Performance
@@ -32,7 +33,7 @@ type: Class
 
 ---
 # Bard
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 _You are a master of artistry, a scholar of hidden secrets, and a captivating persuader. Using powerful performances, you influence minds and elevate souls to new levels of heroics. You might use your powers to become a charismatic leader, or perhaps you might instead be a counselor, manipulator, scholar, scoundrel, or virtuoso. While your versatility leads some to consider you a beguiling ne’erdo- well and a jack-of-all-trades, it’s dangerous to dismiss you as a master of none._
 **Key Ability: CHARISMA**
 At 1st level, your class gives you an ability boost to Charisma.
@@ -42,7 +43,7 @@ You increase your maximum number of HP by this number at 1st level and every lev
 ## Key Terms
 
 You'll see the following key terms in many bard class features.
- **Composition**: To cast a composition cantrip or focus spell, you use a type of [[Performance]]. If the spell includes a verbal component, you must use an auditory performance, and if it includes a somatic component, you must use a visual one. The spell gains all the traits of the performance you used. You can cast only one composition spell each turn, and you can have only one active at a time. If you cast a new composition spell, any ongoing effects from your previous composition spell end immediately.
+ **Composition**: To cast a composition cantrip or focus spell, you use a type of [[DATABASE/skill/Performance|Performance]]. If the spell includes a verbal component, you must use an auditory performance, and if it includes a somatic component, you must use a visual one. The spell gains all the traits of the performance you used. You can cast only one composition spell each turn, and you can have only one active at a time. If you cast a new composition spell, any ongoing effects from your previous composition spell end immediately.
  **Metamagic**: Actions with the metamagic trait tweak the properties of your spells. These actions usually come from metamagic feats. You must use a metamagic action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the metamagic action. Any additional effects added by a metamagic action are part of the spell's effect, not of the metamagic action itself.
 
 # Roleplaying the Bard
@@ -91,14 +92,14 @@ Expert in Will
 
 ## Skills
 
-Trained in [[Occultism]]
-Trained in [[Performance]]
+Trained in [[DATABASE/skill/Occultism|Occultism]]
+Trained in [[DATABASE/skill/Performance|Performance]]
 Trained in a number of additional skills equal to 4 plus your Intelligence modifier
 
 ## Attacks
 
 Trained in simple weapons
-Trained in the [[Longsword]], [[Rapier]], [[Sap]], [[Shortbow]], [[Shortsword]], and [[Whip]]
+Trained in the [[DATABASE/weapon/Longsword|longsword]], [[DATABASE/weapon/Rapier|rapier]], [[DATABASE/weapon/Sap|sap]], [[DATABASE/weapon/Shortbow|shortbow]], [[DATABASE/weapon/Shortsword|shortsword]], and [[DATABASE/weapon/Whip|whip]]
 Trained in unarmed attacks
 
 ## Defenses
@@ -113,54 +114,52 @@ Trained in occult spell DCs
 
 # Class Features
 
-You gain these features as a Bard. Abilities gained at higher levels list the levels at which you gain them next to the features' names.
-
-|   Your Level | Class Features                                                                                                  |
-|-------------:|:----------------------------------------------------------------------------------------------------------------|
-|            1 | Ancestry and background, initial proficiencies, occult spellcasting, spell repertoire, composition spells, muse |
-|            2 | Bard feat, skill feat                                                                                           |
-|            3 | 2nd-level spells, general feat, lightning reflexes, signature spells, skill increase                            |
-|            4 | Bard feat, skill feat                                                                                           |
-|            5 | 3rd-level spells, ability boosts, ancestry feat, skill increase                                                 |
-|            6 | Bard feat, skill feat                                                                                           |
-|            7 | 4th-level spells, expert spellcaster, general feat, skill increase                                              |
-|            8 | Bard feat, skill feat                                                                                           |
-|            9 | 5th-level spells, ancestry feat, great fortitude, resolve, skill increase                                       |
-|           10 | Ability boosts, bard feat, skill feat                                                                           |
-|           11 | 6th-level spells, bard weapon expertise, general feat, skill increase, vigilant senses                          |
-|           12 | Bard feat, skill feat                                                                                           |
-|           13 | 7th-level spells, ancestry feat, light armor expertise, skill increase, weapon specialization                   |
-|           14 | Bard feat, skill feat                                                                                           |
-|           15 | 8th-level spells, ability boosts, general feat, master spellcaster, skill increase                              |
-|           16 | Bard feat, skill feat                                                                                           |
-|           17 | 9th-level spells, ancestry feat, greater resolve, skill increase                                                |
-|           18 | Bard feat, skill feat                                                                                           |
-|           19 | General feat, legendary spellcaster, magnum opus, skill increase                                                |
-|           20 | Ability boosts, bard feat, skill feat                                                                           |
-
-| Your Level                                                                                                             |   Cantrips |   1st | 2nd   | 3rd   | 4th   | 5th   | 6th   | 7th   | 8th   | 9th   | 10th   |
-|:-----------------------------------------------------------------------------------------------------------------------|-----------:|------:|:------|:------|:------|:------|:------|:------|:------|:------|:-------|
-| 1                                                                                                                      |          5 |     2 | —     | —     | —     | —     | —     | —     | —     | —     | —      |
-| 2                                                                                                                      |          5 |     3 | —     | —     | —     | —     | —     | —     | —     | —     | —      |
-| 3                                                                                                                      |          5 |     3 | 2     | —     | —     | —     | —     | —     | —     | —     | —      |
-| 4                                                                                                                      |          5 |     3 | 3     | —     | —     | —     | —     | —     | —     | —     | —      |
-| 5                                                                                                                      |          5 |     3 | 3     | 2     | —     | —     | —     | —     | —     | —     | —      |
-| 6                                                                                                                      |          5 |     3 | 3     | 3     | —     | —     | —     | —     | —     | —     | —      |
-| 7                                                                                                                      |          5 |     3 | 3     | 3     | 2     | —     | —     | —     | —     | —     | —      |
-| 8                                                                                                                      |          5 |     3 | 3     | 3     | 3     | —     | —     | —     | —     | —     | —      |
-| 9                                                                                                                      |          5 |     3 | 3     | 3     | 3     | 2     | —     | —     | —     | —     | —      |
-| 10                                                                                                                     |          5 |     3 | 3     | 3     | 3     | 3     | —     | —     | —     | —     | —      |
-| 11                                                                                                                     |          5 |     3 | 3     | 3     | 3     | 3     | 2     | —     | —     | —     | —      |
-| 12                                                                                                                     |          5 |     3 | 3     | 3     | 3     | 3     | 3     | —     | —     | —     | —      |
-| 13                                                                                                                     |          5 |     3 | 3     | 3     | 3     | 3     | 3     | 2     | —     | —     | —      |
-| 14                                                                                                                     |          5 |     3 | 3     | 3     | 3     | 3     | 3     | 3     | —     | —     | —      |
-| 15                                                                                                                     |          5 |     3 | 3     | 3     | 3     | 3     | 3     | 3     | 2     | —     | —      |
-| 16                                                                                                                     |          5 |     3 | 3     | 3     | 3     | 3     | 3     | 3     | 3     | —     | —      |
-| 17                                                                                                                     |          5 |     3 | 3     | 3     | 3     | 3     | 3     | 3     | 3     | 2     | —      |
-| 18                                                                                                                     |          5 |     3 | 3     | 3     | 3     | 3     | 3     | 3     | 3     | 3     | —      |
-| 19                                                                                                                     |          5 |     3 | 3     | 3     | 3     | 3     | 3     | 3     | 3     | 3     | 1*     |
-| 20                                                                                                                     |          5 |     3 | 3     | 3     | 3     | 3     | 3     | 3     | 3     | 3     | 1*     |
-| * The magnum opus class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. |        nan |   nan | nan   | nan   | nan   | nan   | nan   | nan   | nan   | nan   | nan    |
+You gain these features as a Bard. Abilities gained at higher levels list the levels at which you gain them next to the features' names.| 0 | 1 |
+|:-----------|:----------------------------------------------------------------------------------------------------------------|
+| Your Level | Class Features |
+| 1 | Ancestry and background, initial proficiencies, occult spellcasting, spell repertoire, composition spells, muse |
+| 2 | Bard feat, skill feat |
+| 3 | 2nd-level spells, general feat, lightning reflexes, signature spells, skill increase |
+| 4 | Bard feat, skill feat |
+| 5 | 3rd-level spells, ability boosts, ancestry feat, skill increase |
+| 6 | Bard feat, skill feat |
+| 7 | 4th-level spells, expert spellcaster, general feat, skill increase |
+| 8 | Bard feat, skill feat |
+| 9 | 5th-level spells, ancestry feat, great fortitude, resolve, skill increase |
+| 10 | Ability boosts, bard feat, skill feat |
+| 11 | 6th-level spells, bard weapon expertise, general feat, skill increase, vigilant senses |
+| 12 | Bard feat, skill feat |
+| 13 | 7th-level spells, ancestry feat, light armor expertise, skill increase, weapon specialization |
+| 14 | Bard feat, skill feat |
+| 15 | 8th-level spells, ability boosts, general feat, master spellcaster, skill increase |
+| 16 | Bard feat, skill feat |
+| 17 | 9th-level spells, ancestry feat, greater resolve, skill increase |
+| 18 | Bard feat, skill feat |
+| 19 | General feat, legendary spellcaster, magnum opus, skill increase |
+| 20 | Ability boosts, bard feat, skill feat || 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
+|:-----------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------|
+| Your Level | Cantrips | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th | 10th |
+| 1 | 5 | 2 | — | — | — | — | — | — | — | — | — |
+| 2 | 5 | 3 | — | — | — | — | — | — | — | — | — |
+| 3 | 5 | 3 | 2 | — | — | — | — | — | — | — | — |
+| 4 | 5 | 3 | 3 | — | — | — | — | — | — | — | — |
+| 5 | 5 | 3 | 3 | 2 | — | — | — | — | — | — | — |
+| 6 | 5 | 3 | 3 | 3 | — | — | — | — | — | — | — |
+| 7 | 5 | 3 | 3 | 3 | 2 | — | — | — | — | — | — |
+| 8 | 5 | 3 | 3 | 3 | 3 | — | — | — | — | — | — |
+| 9 | 5 | 3 | 3 | 3 | 3 | 2 | — | — | — | — | — |
+| 10 | 5 | 3 | 3 | 3 | 3 | 3 | — | — | — | — | — |
+| 11 | 5 | 3 | 3 | 3 | 3 | 3 | 2 | — | — | — | — |
+| 12 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | — | — | — | — |
+| 13 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 2 | — | — | — |
+| 14 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | — | — | — |
+| 15 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 2 | — | — |
+| 16 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | — | — |
+| 17 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 2 | — |
+| 18 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | — |
+| 19 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 1* |
+| 20 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 1* |
+| * The magnum opus class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The magnum opus class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The magnum opus class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The magnum opus class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The magnum opus class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The magnum opus class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The magnum opus class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The magnum opus class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The magnum opus class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The magnum opus class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The magnum opus class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * The magnum opus class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. |
 
 ## Ancestry and Background
 
@@ -172,7 +171,7 @@ At 1st level, you gain a number of proficiencies that represent your basic train
 
 ## Occult Spellcasting
 
-You draw upon magic from esoteric knowledge. You can cast occult spells using the Cast a Spell activity, and you can supply material, somatic, and verbal components when casting spells (see Casting Spells). Because you're a bard, you can usually play an instrument for spells requiring somatic or material components, as long as it takes at least one of your hands to do so. If you use an instrument, you don't need a [[Material Component Pouch]] or another hand free. You can usually also play an instrument for spells requiring verbal components, instead of speaking.
+You draw upon magic from esoteric knowledge. You can cast occult spells using the Cast a Spell activity, and you can supply material, somatic, and verbal components when casting spells (see Casting Spells). Because you're a bard, you can usually play an instrument for spells requiring somatic or material components, as long as it takes at least one of your hands to do so. If you use an instrument, you don't need a [[DATABASE/equipment/Material Component Pouch|material component pouch]] or another hand free. You can usually also play an instrument for spells requiring verbal components, instead of speaking.
 Each day, you can cast up to two 1st-level spells. You must know spells to cast them, and you learn them via the spell repertoire class feature. The number of spells you can cast each day is called your spell slots.
  As you increase in level as a bard, your number of spells per day increases, as does the highest level of spells you can cast, as shown on Table 3–6: Bard Spells per Day
  Some of your spells require you to attempt a spell attack roll to see how effective they are, or have your enemies roll against your spell DC (typically by attempting a saving throw). Since your key ability is Charisma, your spell attack rolls and spell DCs use your Charisma modifier. Details on calculating these statistics are found under Spell Attack Rolls.
@@ -199,11 +198,11 @@ As you gain new spells in your repertoire, you might want to replace some of the
 
 You can infuse your performances with magic to create unique effects called compositions. Compositions are a special type of spell that often require you to use the Performance skill when casting them. Composition spells are a type of focus spell. It costs 1 Focus Point to cast a focus spell, and you start with a focus pool of 1 Focus Point. You refill your focus pool during your daily preparations, and you can regain 1 Focus Point by spending 10 minutes using the Refocus activity to perform, write a new composition, or otherwise engage your muse.
  Focus spells are automatically heightened to half your level rounded up, much like cantrips. Focus spells don't require spell slots, and you can't cast them using spell slots. Taking feats can give you more focus spells and increase the size of your focus pool, though your focus pool can never hold more than 3 Focus Points. The full rules for focus spells are found here.
- You learn the [[Counter Performance]] composition spell, protecting against auditory and visual effects.
+ You learn the [[DATABASE/spell/Counter Performance|counter performance]] composition spell, protecting against auditory and visual effects.
 
 ### Composition Cantrips
 
-Composition cantrips are special composition spells that don't cost Focus Points, so you can use them as often as you like. Composition cantrips are in addition to the cantrips you choose from the occult list. Generally, only feats can give you more composition cantrips. Unlike other cantrips, you can't swap out composition cantrips gained from bard feats at a later level, unless you swap out the specific feat via retraining. You learn the [[Inspire Courage]] composition cantrip, which boosts your allies' attacks, damage, and defense against fear.
+Composition cantrips are special composition spells that don't cost Focus Points, so you can use them as often as you like. Composition cantrips are in addition to the cantrips you choose from the occult list. Generally, only feats can give you more composition cantrips. Unlike other cantrips, you can't swap out composition cantrips gained from bard feats at a later level, unless you swap out the specific feat via retraining. You learn the [[DATABASE/spell/Inspire Courage|inspire courage]] composition cantrip, which boosts your allies' attacks, damage, and defense against fear.
 
 ## Muses
 
@@ -257,7 +256,7 @@ You’ve steeled your mind with resolve. Your proficiency rank for Will saves in
 
 ## Bard Weapon Expertise<span class="item-type">Level 11</span>
 
-You have become thoroughly adept with bardic weapons. You gain expert proficiency in simple weapons and unarmed attacks, plus the [[Longsword]], [[Rapier]], [[Sap]], [[Shortbow]], [[Shortsword]], and [[Whip]]. When you critically succeed at an attack roll using one of these weapons or an unarmed attack while one of your compositions is active, you apply the critical specialization effect for that weapon or unarmed attack.
+You have become thoroughly adept with bardic weapons. You gain expert proficiency in simple weapons and unarmed attacks, plus the [[DATABASE/weapon/Longsword|longsword]], [[DATABASE/weapon/Rapier|rapier]], [[DATABASE/weapon/Sap|sap]], [[DATABASE/weapon/Shortbow|shortbow]], [[DATABASE/weapon/Shortsword|shortsword]], and [[DATABASE/weapon/Whip|whip]]. When you critically succeed at an attack roll using one of these weapons or an unarmed attack while one of your compositions is active, you apply the critical specialization effect for that weapon or unarmed attack.
 
 ## Vigilant Senses<span class="item-type">Level 11</span>
 

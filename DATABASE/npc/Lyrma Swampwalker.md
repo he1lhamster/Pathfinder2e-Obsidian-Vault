@@ -67,20 +67,20 @@ wisdom: '+3'
 # Lyrma Swampwalker
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 16
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
 # Lyrma Swampwalker<span class="item-type">Creature 2</span>
 
 <span class="trait-alignment item-trait">CG</span><span class="trait-size item-trait">Small</span><span class="item-trait">Gnome</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 157. Devil at the Dreaming Palace]]
-Female [[Gnome]] hunter
-**Perception** +11; [[Low-Light Vision]]
-**Languages** [[Common]], [[Gnomish]], [[Sylvan]]
-**Skills** [[Acrobatics]] +8, [[Athletics]] +9, [[Medicine]] +9, [[Nature]] +7, [[Stealth]] +8, [[Survival]] +9
+**Source** [[DATABASE/source/Pathfinder 157. Devil at the Dreaming Palace|Pathfinder #157: Devil at the Dreaming Palace]]
+Female [[DATABASE/ancestry/Gnome|gnome]] hunter
+**Perception** +11; [[DATABASE/monsterability/Low-Light Vision|low-light vision]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Gnomish|Gnomish]], [[DATABASE/language/Sylvan|Sylvan]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +8, [[DATABASE/skill/Athletics|Athletics]] +9, [[DATABASE/skill/Medicine|Medicine]] +9, [[DATABASE/skill/Nature|Nature]] +7, [[DATABASE/skill/Stealth|Stealth]] +8, [[DATABASE/skill/Survival|Survival]] +9
 **Str** +3, **Dex** +4, **Con** +1, **Int** -1, **Wis** +3, **Cha** +0
-**Items** [[Trident]]
+**Items** [[DATABASE/weapon/Trident|trident]]
 
 ---
 **AC** 14; **Fort** +7, **Ref** +10, **Will** +9

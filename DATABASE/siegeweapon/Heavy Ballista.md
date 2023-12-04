@@ -13,6 +13,7 @@ name: Heavy Ballista
 price: 900 gp
 rarity: Uncommon
 reflex: '+12'
+rus_type_level: null
 size: Huge
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
@@ -25,7 +26,7 @@ usage: mounted
 # Heavy Ballista<span class="item-type">Item 8</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-size item-trait">Huge</span><span class="item-trait">Mounted</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 900 gp; **Ammunition** heavy ballista bolt (3 gp, 3 Bulk)
 
 ---
@@ -42,5 +43,5 @@ usage: mounted
 ---
 Capable of launching bolts the size of fully grown trees, a heavy ballista is best suited to smashing down castle gates, walls, or similar fortifications.
  **Aim** <span class="action-icon">2</span> 60 feet, minimum distance 40 feet 
-**Load** <span class="action-icon">2</span> (manipulate) 3 times, requires a successful DC 20 [[Athletics]] check
+**Load** <span class="action-icon">2</span> (manipulate) 3 times, requires a successful DC 20 [[DATABASE/skill/Athletics|Athletics]] check
  **Launch** <span class="action-icon">1</span> (attack, manipulate, range increment 180 feet) 7d12 piercing, single target, DC 23 Reflex

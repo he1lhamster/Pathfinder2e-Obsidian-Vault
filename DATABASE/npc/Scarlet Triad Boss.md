@@ -71,19 +71,19 @@ wisdom: '+5'
 # Scarlet Triad Boss
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 36
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 36
 **Unspecific Lore**: DC 34
 **Specific Lore**: DC 31
 
 # Scarlet Triad Boss<span class="item-type">Creature 17</span>
 
 <span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 149. Against the Scarlet Triad]]
+**Source** [[DATABASE/source/Pathfinder 149. Against the Scarlet Triad|Pathfinder #149: Against the Scarlet Triad]]
 **Perception** +30
-**Languages** [[Common]], [[Gnoll]], [[Kelish]], [[Osiriani]]
-**Skills** [[Acrobatics]] +32, [[Deception]] +29, [[Diplomacy]] +27, [[Intimidation]] +31, [[Society]] +28, [[Stealth]] +30, [[Thievery]] +33
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Gnoll|Gnoll]], [[DATABASE/language/Kelish|Kelish]], [[DATABASE/language/Osiriani|Osiriani]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +32, [[DATABASE/skill/Deception|Deception]] +29, [[DATABASE/skill/Diplomacy|Diplomacy]] +27, [[DATABASE/skill/Intimidation|Intimidation]] +31, [[DATABASE/skill/Society|Society]] +28, [[DATABASE/skill/Stealth|Stealth]] +30, [[DATABASE/skill/Thievery|Thievery]] +33
 **Str** +6, **Dex** +9, **Con** +5, **Int** +7, **Wis** +5, **Cha** +4
-**Items** _+2 [[Resilient]] [[Studded Leather Armor]]_, _+2 [[Striking]] [[Shortsword]]_, arrow with [[Weeping Midnight]], _+2 [[Striking]] [[Composite Shortbow]]_ (40 arrows), [[Thieves' Tools]]
+**Items** _+2 [[DATABASE/equipment/Resilient|resilient]] [[DATABASE/armor/Studded Leather Armor|studded leather armor]]_, _+2 [[DATABASE/equipment/Striking|striking]] [[DATABASE/weapon/Shortsword|shortsword]]_, arrow with [[DATABASE/equipment/Weeping Midnight|weeping midnight poison]], _+2 [[DATABASE/equipment/Striking|greater striking]] [[DATABASE/weapon/Composite Shortbow|composite shortbow]]_ (40 arrows), [[DATABASE/equipment/Thieves' Tools|infiltrator thieves' tools]]
 
 ---
 **AC** 39; **Fort** +27, **Ref** +33, **Will** +29
@@ -92,4 +92,4 @@ This creature did not include a description.
 
 ---
 **Speed** 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _shortsword_ +34 [+30/+26] (agile, finesse, versatile S), **Damage** 2d6+12 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _composite shortbow_ +34 [+29/+24] (deadly 2d10, range increment 60 feet, reload 0), **Damage** 3d6+9 piercing</span><span class="in-box-ability">**Darting Shot** <span class="action-icon">2</span> The Scarlet Triad boss [[Feint]] a target, Strides up to their Speed, and makes a Strike with their shortbow in any order. They can Feint any target within 30 feet when using this ability.</span><span class="in-box-ability">**[[Sneak Attack]]** 4d6</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _shortsword_ +34 [+30/+26] (agile, finesse, versatile S), **Damage** 2d6+12 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _composite shortbow_ +34 [+29/+24] (deadly 2d10, range increment 60 feet, reload 0), **Damage** 3d6+9 piercing</span><span class="in-box-ability">**Darting Shot** <span class="action-icon">2</span> The Scarlet Triad boss [[DATABASE/action/Feint|Feints]] a target, Strides up to their Speed, and makes a Strike with their shortbow in any order. They can Feint any target within 30 feet when using this ability.</span><span class="in-box-ability">**[[DATABASE/monsterability/Sneak Attack|Sneak Attack]]** 4d6</span>

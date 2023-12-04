@@ -101,26 +101,26 @@ wisdom: '+0'
 
 Ice golems are either carved from massive blocks of ice, or pieced together from individual components that are then fused together through heat and refreezing. In most cases, the resulting shape is little more than a crude approximation of a humanoid form, but given the right talent, an ice golem could be an exquisitely carved statue of a mythical creature, famous persona, or even a deity.
  While ice golems most frequently serve as guardians in freezing climates, the magic that holds an ice golem together keeps it from melting in warmer temperatures. This, combined with the fact that ice golems lie on the lower end of the scale as far as cost and difficulty to create, gives these constructs unusual features that puts them in great demand. The rich and powerful in hot, arid regions often commission ice golems not only as guardians for their estates and vaults, but for comfort—the presence of an ice golem standing quietly sentinel in the corner of a room can help to keep the chamber at a comfortable temperature. The truly decadent use ice golems as servants to keep drinks cold.
-**Recall Knowledge - Construct ([[Arcana]], [[Crafting]])**: DC 22
+**Recall Knowledge - Construct ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Crafting|Crafting]])**: DC 22
 **Unspecific Lore**: DC 20
 **Specific Lore**: DC 17
 
 # Ice Golem<span class="item-type">Creature 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Cold</span><span class="item-trait">Construct</span><span class="item-trait">Golem</span><span class="item-trait">Mindless</span>
-**Source** [[Bestiary 2]] 
-**Perception** +9; [[Darkvision]]
-**Skills** [[Athletics]] +15
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +9; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +15
 **Str** +5, **Dex** +0, **Con** +4, **Int** -5, **Wis** +0, **Cha** -5
 
 ---
 **AC** 21; **Fort** +15, **Ref** +11, **Will** +9
-**HP** 80; **Immunities** bleed, cold, death effects, disease, [[Doomed]], [[Drained]], electricity, [[Fatigued]], healing, magic (see Golem Antimagic below), mental, necromancy, nonlethal attacks, [[Paralyzed]], poison, [[Sickened]], [[Unconscious]]; **Resistances** physical 5 (except adamantine and bludgeoning)
-<span class="in-box-ability">**Golem Antimagic** harmed by fire (4d6, 1d10 from areas or [[Tent]]); healed by cold (area 1d6 HP); [[Slowed]] by water</span><span class="in-box-ability">**Icy Demise** (arcane, cold, evocation) When an ice golem is destroyed, its body explodes in a blast of frigid air and razor-sharp ice, dealing 2d6 slashing damage and 2d6 cold damage to creatures in a 20-foot emanation, with a DC 19 basic Reflex save.</span><span class="in-box-ability">**Vulnerable to Endure Elements** An ice golem can be targeted with [[Endure Elements]] even if it's not willing. If it is targeted, for 1 round it can't use Breath Weapon or benefit from creeping cold, and its fist attack doesn't deal cold damage.</span>
+**HP** 80; **Immunities** bleed, cold, death effects, disease, [[DATABASE/condition/Doomed|doomed]], [[DATABASE/condition/Drained|drained]], electricity, [[DATABASE/condition/Fatigued|fatigued]], healing, magic (see Golem Antimagic below), mental, necromancy, nonlethal attacks, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Sickened|sickened]], [[DATABASE/condition/Unconscious|unconscious]]; **Resistances** physical 5 (except adamantine and bludgeoning)
+<span class="in-box-ability">**Golem Antimagic** harmed by fire (4d6, 1d10 from areas or [[DATABASE/equipment/Tent|persistent damage]]); healed by cold (area 1d6 HP); [[DATABASE/condition/Slowed|slowed]] by water</span><span class="in-box-ability">**Icy Demise** (arcane, cold, evocation) When an ice golem is destroyed, its body explodes in a blast of frigid air and razor-sharp ice, dealing 2d6 slashing damage and 2d6 cold damage to creatures in a 20-foot emanation, with a DC 19 basic Reflex save.</span><span class="in-box-ability">**Vulnerable to Endure Elements** An ice golem can be targeted with [[DATABASE/spell/Endure Elements|endure elements]] even if it's not willing. If it is targeted, for 1 round it can't use Breath Weapon or benefit from creeping cold, and its fist attack doesn't deal cold damage.</span>
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +15 [+10/+5] (magical, versatile P), **Damage** 2d6+7 bludgeoning plus 1d6 cold</span><span class="in-box-ability">**Breath Weapon** <span class="action-icon">2</span> (arcane, cold, evocation) The ice golem exhales a blast of freezing mist that deals 6d6 cold damage in a 30-foot cone (DC 22 basic Reflex save). It can't use Breath Weapon again for 1d4 rounds.</span><span class="in-box-ability">**Creeping Cold** (arcane, cold, evocation) When the ice golem gets a critical hit with a fist Strike, the target also takes 2d6 [[Persistent Damage]] and is [[Slowed]] for 1 round.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +15 [+10/+5] (magical, versatile P), **Damage** 2d6+7 bludgeoning plus 1d6 cold</span><span class="in-box-ability">**Breath Weapon** <span class="action-icon">2</span> (arcane, cold, evocation) The ice golem exhales a blast of freezing mist that deals 6d6 cold damage in a 30-foot cone (DC 22 basic Reflex save). It can't use Breath Weapon again for 1d4 rounds.</span><span class="in-box-ability">**Creeping Cold** (arcane, cold, evocation) When the ice golem gets a critical hit with a fist Strike, the target also takes 2d6 [[DATABASE/condition/Persistent Damage|persistent cold damage]] and is [[DATABASE/condition/Slowed|slowed 1]] for 1 round.</span>
 
 ###  Ice Golem Components
 

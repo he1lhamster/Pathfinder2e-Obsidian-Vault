@@ -21,6 +21,7 @@ patron_theme: null
 range: 60 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: Reflex
 school: Evocation
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
@@ -39,7 +40,7 @@ type: Cantrip
 # Astral Rain<span class="item-type">Cantrip 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Cantrip</span><span class="item-trait">Evocation</span><span class="item-trait">Force</span><span class="item-trait">Psychic</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 60 feet; **Area** one 5-foot cube
 **Saving Throw** Reflex

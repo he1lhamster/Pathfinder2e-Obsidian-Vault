@@ -7,6 +7,7 @@ id: '1506'
 name: Show of Force
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 trait:
@@ -19,11 +20,10 @@ type: Action
 # Show of Force
 
 <span class="item-trait">Downtime</span><span class="item-trait">Leadership</span>
-**Source** [[Kingmaker Companion Guide]]
+**Source** [[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]
 
 ---
-_Nethys note: this activity requires that Regongar is the General and is at least [[Friendly]]_
-Using Regongar's advice, a public show of force is performed in an attempt to curtail criminal activity or subversive activity in the kingdom. Attempt a basic [[Warfare]] check to determine how effective the Show of Force is.
+Using Regongar's advice, a public show of force is performed in an attempt to curtail criminal activity or subversive activity in the kingdom. Attempt a basic [[DATABASE/skill/Warfare|Warfare]] check to determine how effective the Show of Force is.
 **Critical Success** The kingdom's criminals are cowed by the show of force. Reduce Crime by 2 and reduce one other Ruin of your choice by 1.
 **Success** The kingdom's criminals take note of the show of force. Reduce Crime by 1.
 **Failure** The show of force fails to impress criminals but unsettles the rest of the citizens. Increase Unrest by 1.

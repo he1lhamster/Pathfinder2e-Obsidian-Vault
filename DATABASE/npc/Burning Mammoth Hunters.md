@@ -67,19 +67,19 @@ wisdom: '+3'
 # Burning Mammoth Hunters
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 16
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
 # Burning Mammoth Hunters<span class="item-type">Creature 0</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 175. Broken Tusk Moon]]
+**Source** [[DATABASE/source/Pathfinder 175. Broken Tusk Moon|Pathfinder #175: Broken Tusk Moon]]
 **Perception** +7
-**Languages** [[Hallit]]
-**Skills** [[Acrobatics]] +5, [[Athletics]] +4, [[Nature]] +5, [[Stealth]] +5, [[Survival]] +5
+**Languages** [[DATABASE/language/Hallit|Hallit]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +5, [[DATABASE/skill/Athletics|Athletics]] +4, [[DATABASE/skill/Nature|Nature]] +5, [[DATABASE/skill/Stealth|Stealth]] +5, [[DATABASE/skill/Survival|Survival]] +5
 **Str** +2, **Dex** +3, **Con** +2, **Int** -1, **Wis** +3, **Cha** +0
-**Items** [[Leather Armor]], [[Rope]], [[Sling]], [[Spear]], [[Tindertwig]]
+**Items** [[DATABASE/armor/Leather Armor|leather armor]], [[DATABASE/equipment/Rope|rope]], [[DATABASE/weapon/Sling|sling (20 bullets)]], [[DATABASE/weapon/Spear|spears (3)]], [[DATABASE/equipment/Tindertwig|tindertwigs (3)]]
 
 ---
 **AC** 16; **Fort** +4, **Ref** +7, **Will** +7

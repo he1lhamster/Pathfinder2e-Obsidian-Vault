@@ -11,6 +11,7 @@ name: Life Leap
 prerequisite: null
 rarity: Common
 requirement: You must be adjacent to a living creature.
+rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -26,7 +27,7 @@ type: Feat
 # Life Leap <span class="action-icon">1</span> <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Gnome</span><span class="item-trait">Move</span><span class="item-trait">Necromancy</span><span class="item-trait">Teleportation</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Requirements** You must be adjacent to a living creature.
 
 ---
@@ -37,7 +38,7 @@ You phase through a space that a living creature occupies in a flash, spontaneou
 
 **Gnome:**
 
-A creature with this trait is a member of the gnome ancestry. Gnomes are small people skilled at magic who seek out new experiences and usually have [[Low-Light Vision]]. An ability with this trait can be used or selected only by gnomes. A weapon with this trait is created and used by gnomes.
+A creature with this trait is a member of the gnome ancestry. Gnomes are small people skilled at magic who seek out new experiences and usually have [[DATABASE/monsterability/Low-Light Vision|low-light vision]]. An ability with this trait can be used or selected only by gnomes. A weapon with this trait is created and used by gnomes.
 
 **Move:**
 

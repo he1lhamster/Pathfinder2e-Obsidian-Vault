@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Horizon Walker Dedication|Horizon Walker Dedicati
   ; Expert in [[DATABASE/skill/Acrobatics|Acrobatics]] ; Expert in [[DATABASE/skill/Athletics|Athletics]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,12 +26,12 @@ type: Feat
 # Sure Foot <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Skill</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Horizon Walker]]
-**Prerequisites** [[Horizon Walker Dedication]]; expert in [[Acrobatics]] and [[Athletics]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Horizon Walker|Horizon Walker]]
+**Prerequisites** [[DATABASE/feat/Horizon Walker Dedication|Horizon Walker Dedication]]; expert in [[DATABASE/skill/Acrobatics|Acrobatics]] and [[DATABASE/skill/Athletics|Athletics]]
 
 ---
-You know the secrets of moving in your favored terrain. You gain a +2 circumstance bonus to skill checks to move within your favored terrain, such as [[Acrobatics]] checks to [[Balance]] on ice, [[Athletics]] checks to [[Swim]] in rough water, Acrobatics checks to [[Fly]] in windy conditions, and so forth.
+You know the secrets of moving in your favored terrain. You gain a +2 circumstance bonus to skill checks to move within your favored terrain, such as [[DATABASE/skill/Acrobatics|Acrobatics]] checks to [[DATABASE/action/Balance|Balance]] on ice, [[DATABASE/skill/Athletics|Athletics]] checks to [[DATABASE/action/Swim|Swim]] in rough water, Acrobatics checks to [[DATABASE/action/Fly|Fly]] in windy conditions, and so forth.
 
 ## Traits
 

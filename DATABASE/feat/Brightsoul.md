@@ -11,6 +11,7 @@ name: Brightsoul
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -24,16 +25,16 @@ type: Feat
 # Brightsoul <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Ifrit</span><span class="item-trait">Lineage</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-The fire inside you asserts itself as beaming, radiant light. Your body is naturally luminescent, glowing with the effects of a primal [[Light]] cantrip. A cantrip is heightened to a spell level equal to half your level rounded up. The light is involuntary and constant; if counteracted, it returns in 1d4 rounds. You suffer a –2 circumstance penalty on [[Stealth]] checks to [[Hide]] or [[Sneak]] and gain a +1 circumstance bonus on saves against light effects and effects that inflict the [[Blinded]] or [[Dazzled]] conditions.
+The fire inside you asserts itself as beaming, radiant light. Your body is naturally luminescent, glowing with the effects of a primal [[DATABASE/spell/Light|light]] cantrip. A cantrip is heightened to a spell level equal to half your level rounded up. The light is involuntary and constant; if counteracted, it returns in 1d4 rounds. You suffer a –2 circumstance penalty on [[DATABASE/skill/Stealth|Stealth]] checks to [[DATABASE/action/Hide|Hide]] or [[DATABASE/action/Sneak|Sneak]] and gain a +1 circumstance bonus on saves against light effects and effects that inflict the [[DATABASE/condition/Blinded|blinded]] or [[DATABASE/condition/Dazzled|dazzled]] conditions.
 
 ## Traits
 
 **Ifrit:**
 
-Ifrits are planar scions descended from [[Efreeti]].
+Ifrits are planar scions descended from [[DATABASE/monster/Efreeti|efreet]].
 
 **Lineage:**
 

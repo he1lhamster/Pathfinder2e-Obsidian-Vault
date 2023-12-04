@@ -79,16 +79,16 @@ wisdom: '+2'
 
 The counteflora resembles an oversized dandelion with black flowers and sinister patterns on its bracts, which it can contract for additional protection and to turn its flower head into a deadly bashing weapon. Unlike dandelions, countefloras do not have separate flowering and seeding stages, and can release their intoxicating seedpods as long as their bracts are open.
  Countefloras exhibit a strange intellect and communicate with one another by releasing invisible pheromones into the air. Alone, a desperate counteflora may ally with another creature if it is offered water or fertile soil. Contrary to popular belief, countefloras absorb sunlight for sustenance; they do not attack other creatures to feast upon them. Rather, the reason countefloras go to such lengths to kill their opponents is to fertilize the surrounding soil and create a nutrient-rich environment for their seedpods.
-**Recall Knowledge - Plant ([[Nature]])**: DC 27
+**Recall Knowledge - Plant ([[DATABASE/skill/Nature|Nature]])**: DC 27
 **Unspecific Lore**: DC 25
 **Specific Lore**: DC 22
 
 # Counteflora<span class="item-type">Creature 10</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Plant</span>
-**Source** [[Pathfinder 153. Life's Long Shadows]]
+**Source** [[DATABASE/source/Pathfinder 153. Life's Long Shadows|Pathfinder #153: Life's Long Shadows]]
 **Perception** +18; tremorsense (imprecise) 60 feet
-**Skills** [[Athletics]] +23, [[Stealth]] +20 (+24 in jungles and flower fields)
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +23, [[DATABASE/skill/Stealth|Stealth]] +20 (+24 in jungles and flower fields)
 **Str** +5, **Dex** +6, **Con** +6, **Int** -4, **Wis** +2, **Cha** +0
 
 ---
@@ -99,7 +99,7 @@ The counteflora resembles an oversized dandelion with black flowers and sinister
 ---
 **Speed** 25 feet
 <span class="in-box-ability">**Melee** <span class="action-icon">1</span> vines +21 [+17/+13] (agile), **Damage** 2d6+9 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> head +23 [+18/+13] (reach 10 feet, sweep), **Damage** 3d10+9 bludgeoning</span><span class="in-box-ability">**Black Seed Cloud** <span class="action-icon">2</span> The counteflora releases a cloud of black seedpods in a 15-foot-radius emanation. Non-counteflora creatures in the area must succeed at a Fortitude save or breathe in the toxic seeds. (Against plants and fungi, the seeds burrow into the creatures’ flesh rather than infiltrate their lungs.)
- **Counteflora Toxin** (contact [for plants and fungi] or inhaled, poison) **Saving Throw** DC 30 Fortitude (DC 32 for plants and fungi); **Maximum Duration** 6 rounds; **Stage 1** 4d6 poison damage and [[Enfeebled]] 1 (1 round); **Stage 2** 6d6 poison damage, enfeebled 1, and [[Fascinated]] (1 round)</span><span class="in-box-ability">**Furious Swing** <span class="action-icon">3</span> (attack) **Requirements** The counteflora’s bracts are tightened; **Effect** The counteflora makes up to four headbutt Strikes (see Flower Headbutt), each against a different creature within reach.</span>
+ **Counteflora Toxin** (contact [for plants and fungi] or inhaled, poison) **Saving Throw** DC 30 Fortitude (DC 32 for plants and fungi); **Maximum Duration** 6 rounds; **Stage 1** 4d6 poison damage and [[DATABASE/condition/Enfeebled|enfeebled]] 1 (1 round); **Stage 2** 6d6 poison damage, enfeebled 1, and [[DATABASE/condition/Fascinated|fascinated]] (1 round)</span><span class="in-box-ability">**Furious Swing** <span class="action-icon">3</span> (attack) **Requirements** The counteflora’s bracts are tightened; **Effect** The counteflora makes up to four headbutt Strikes (see Flower Headbutt), each against a different creature within reach.</span>
 
 ###  Counteflora Fields
 

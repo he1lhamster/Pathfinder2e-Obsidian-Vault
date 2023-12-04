@@ -13,6 +13,7 @@ primary_check: '[[DATABASE/skill/Religion|Religion]] (trained)'
 range: 30 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: Divination
 secondary_casters: '3'
 secondary_check: '[[DATABASE/skill/Crafting|Crafting]] , [[DATABASE/skill/Performance|Performance]]
@@ -28,9 +29,9 @@ type: Ritual
 # Lucky Month<span class="item-type">Ritual 2</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Divination</span>
-**Source** [[Travel Guide]]
+**Source** [[DATABASE/source/Travel Guide|Travel Guide]]
 **Cast** 1 day; **Cost** Cost a favorite food or drink and a wearable token with personal or familial significance worth 10 gp total; **Secondary Casters** 3
-**Primary Check** [[Religion]] (trained); **Secondary Checks** [[Crafting]], [[Performance]], [[Society]]
+**Primary Check** [[DATABASE/skill/Religion|Religion]] (trained); **Secondary Checks** [[DATABASE/skill/Crafting|Crafting]], [[DATABASE/skill/Performance|Performance]], [[DATABASE/skill/Society|Society]]
 **Range** 30 feet; **Target(s)** 1 creature and 1 object
 
 ---

@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Enchantment
 size: null
@@ -55,11 +56,11 @@ weapon_type: null
 # Wand of Wearying Dance<span class="item-type">Item 18</span>
 
 <span class="item-trait">Enchantment</span><span class="item-trait">Magical</span><span class="item-trait">Mental</span><span class="item-trait">Wand</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 24,000 gp
 **Usage** held in 1 hand; **Bulk** L
 
 ---
 This colorfully painted wand has a few jingling bells tied to the pommel.
-**Activate** Cast a Spell **Frequency** once per day, plus overcharge; **Effect** You cast [[Uncontrollable Dance]]. When the spell's duration ends, if the target was forced to dance for 1 minute, it becomes [[Fatigued]].
+**Activate** Cast a Spell **Frequency** once per day, plus overcharge; **Effect** You cast [[DATABASE/spell/Uncontrollable Dance|uncontrollable dance]]. When the spell's duration ends, if the target was forced to dance for 1 minute, it becomes [[DATABASE/condition/Fatigued|fatigued]].
 **Craft Requirements** Supply a casting of _uncontrollable dance_.

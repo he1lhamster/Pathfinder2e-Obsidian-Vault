@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Staff of Abjuration<span class="item-type">Item 6+</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Magical</span><span class="item-trait">Staff</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** held in 1 hand; **Bulk** —
 
 ---
@@ -64,28 +65,28 @@ This intricately carved wooden staff is warm to the touch and thrums with inner 
 
 ## Staff of Abjuration<span class="item-type">Item 6</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 230 gp
 **Bulk** 1
 
-* **Cantrip** [[Shield]] 
-* **1st** [[Alarm]], [[Feather Fall]] 
-* **2nd** [[Dispel Magic]], [[Endure Elements]], [[Resist Energy]]
+* **Cantrip** [[DATABASE/spell/Shield|shield]] 
+* **1st** [[DATABASE/spell/Alarm|alarm]], [[DATABASE/spell/Feather Fall|feather fall]] 
+* **2nd** [[DATABASE/spell/Dispel Magic|dispel magic]], [[DATABASE/spell/Endure Elements|endure elements]], [[DATABASE/spell/Resist Energy|resist energy]]
 
 ## Staff of Abjuration (Greater)<span class="item-type">Item 10</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 900 gp
 **Bulk** 1
 
-* **3rd** _alarm_, [[Glyph of Warding]] 
-* **4th** [[Dimensional Anchor]], _dispel magic_, _resist energy_
+* **3rd** _alarm_, [[DATABASE/spell/Glyph of Warding|glyph of warding]] 
+* **4th** [[DATABASE/spell/Dimensional Anchor|dimensional anchor]], _dispel magic_, _resist energy_
 
 ## Staff of Abjuration (Major)<span class="item-type">Item 14</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 4,000 gp
 **Bulk** 1
 
-* **5th** [[Banishment]], _endure elements_ 
-* **6th** _dispel magic_, [[Repulsion]]
+* **5th** [[DATABASE/spell/Banishment|banishment]], _endure elements_ 
+* **6th** _dispel magic_, [[DATABASE/spell/Repulsion|repulsion]]

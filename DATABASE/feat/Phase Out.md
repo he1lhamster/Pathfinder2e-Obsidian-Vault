@@ -11,6 +11,7 @@ name: Phase Out
 prerequisite: your eidolon is a [[DATABASE/trait/Phantom|phantom]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -26,11 +27,11 @@ type: Feat
 # Phase Out <span class="action-icon">3</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Evolution</span><span class="item-trait">Summoner</span><span class="item-trait">Transmutation</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Prerequisites** your eidolon is a phantom
 
 ---
-Your eidolon phases out of reality slightly, gaining resistance to all damage (except force and negative) equal to half your level. It's not incorporeal, but it can't use Strikes or actions that require a fully physical form, such as [[Grapple]], [[Shove]], or [[Trip]]. Your eidolon can return to its normal form with a single action, which has the concentrate trait.
+Your eidolon phases out of reality slightly, gaining resistance to all damage (except force and negative) equal to half your level. It's not incorporeal, but it can't use Strikes or actions that require a fully physical form, such as [[DATABASE/action/Grapple|Grapple]], [[DATABASE/action/Shove|Shove]], or [[DATABASE/action/Trip|Trip]]. Your eidolon can return to its normal form with a single action, which has the concentrate trait.
 
 ## Traits
 

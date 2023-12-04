@@ -11,6 +11,7 @@ name: Straveika
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,20 +25,20 @@ type: Feat
 # Straveika <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Dhampir</span><span class="item-trait">Lineage</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
-You descend from one of the truly ancient vampires, a nosferatu cursed to eternal life but not eternal youth. People call you straveika, or ancient-born. The vestiges of your forebear's powers of domination have left you with an understanding of how a creature's intentions change its behaviors. You gain a +1 circumstance bonus to Perception checks to [[Sense Motive]] and Perception DCs against attempts to [[Lie]] to you.
+You descend from one of the truly ancient vampires, a nosferatu cursed to eternal life but not eternal youth. People call you straveika, or ancient-born. The vestiges of your forebear's powers of domination have left you with an understanding of how a creature's intentions change its behaviors. You gain a +1 circumstance bonus to Perception checks to [[DATABASE/action/Sense Motive|Sense Motive]] and Perception DCs against attempts to [[DATABASE/action/Lie|Lie]] to you.
 
 ## Straveika Leads To...
 
-[[Taste Blood]]
+[[DATABASE/feat/Taste Blood|Taste Blood]]
 
 ## Traits
 
 **Dhampir:**
 
-A creature with this trait has the dhampir versatile heritage. These humanoids are the mortal offspring of [[Vampire]] and members of other ancestries.
+A creature with this trait has the dhampir versatile heritage. These humanoids are the mortal offspring of [[DATABASE/monsterfamily/Vampire|vampires]] and members of other ancestries.
 
 **Lineage:**
 

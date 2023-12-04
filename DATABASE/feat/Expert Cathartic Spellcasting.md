@@ -11,6 +11,7 @@ name: Expert Cathartic Spellcasting
 prerequisite: '[[DATABASE/feat/Basic Cathartic Spellcasting|Basic Cathartic Spellcasting]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -23,16 +24,16 @@ type: Feat
 # Expert Cathartic Spellcasting <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Secrets of Magic]] 
-**Archetype** [[Cathartic Mage]]
-**Prerequisites** [[Basic Cathartic Spellcasting]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
+**Archetype** [[DATABASE/archetype/Cathartic Mage|Cathartic Mage]]
+**Prerequisites** [[DATABASE/feat/Basic Cathartic Spellcasting|Basic Cathartic Spellcasting]]
 
 ---
 You gain the expert spellcasting benefits.
 
 ## Expert Cathartic Spellcasting Leads To...
 
-[[Master Cathartic Spellcasting]]
+[[DATABASE/feat/Master Cathartic Spellcasting|Master Cathartic Spellcasting]]
 
 ## Traits
 

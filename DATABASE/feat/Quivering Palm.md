@@ -11,6 +11,7 @@ name: Quivering Palm
 prerequisite: ki spells
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Quivering Palm <span class="item-type">Feat 16</span>
 
 <span class="item-trait">Monk</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Prerequisites** ki spells
 
 ---
-Your strikes can kill foes. You gain the [[Quivering Palm]] ki spell. Increase the number of Focus Points in your focus pool by 1.
+Your strikes can kill foes. You gain the [[DATABASE/spell/Quivering Palm|quivering palm]] ki spell. Increase the number of Focus Points in your focus pool by 1.

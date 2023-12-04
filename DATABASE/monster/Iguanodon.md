@@ -71,16 +71,16 @@ wisdom: '+4'
 
 Iguanodons are large, herbivorous dinosaurs that inhabit swamps and forests where they browse on the abundant vegetation. The iguanodon is capable of moving on two feet or on four, quickly switching from one stance to the other depending on whether it needs to move through dense foliage or to reach delectable morsels hanging up in the canopy.
 Although iguanodons are herbivores, they are notoriously quick to anger. Their thumb spikes make their claws particularly devastating weapons. A well-placed blow from one of these claws can turn a hungry predator into a cowering beast with one swift strike. Iguanodons are 30 feet long and weigh 6,000 pounds.
-**Recall Knowledge - Animal ([[Nature]])**: DC 22
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 22
 **Unspecific Lore**: DC 20
 **Specific Lore**: DC 17
 
 # Iguanodon<span class="item-type">Creature 6</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Huge</span><span class="item-trait">Animal</span><span class="item-trait">Dinosaur</span>
-**Source** [[Bestiary 2]] 
-**Perception** +14; [[Low-Light Vision]], [[Scent]]
-**Skills** [[Athletics]] +15
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +14; [[DATABASE/monsterability/Low-Light Vision|low-light vision]], [[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +15
 **Str** +7, **Dex** +4, **Con** +4, **Int** -4, **Wis** +4, **Cha** +0
 
 ---

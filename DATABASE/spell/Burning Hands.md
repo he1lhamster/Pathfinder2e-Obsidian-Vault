@@ -35,6 +35,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: basicReflex
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -52,10 +53,10 @@ type: Spell
 # Burning Hands<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Evocation</span><span class="item-trait">Fire</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, primal
-**Bloodlines** [[Elemental]], [[Phoenix]]
-**Deities** [[Angradd]], [[Chohar]], [[Lady Nanbyo]], [[Moloch]], [[Nurgal]], [[Ra]], [[Rovagug]], [[Sarenrae]], [[Szuriel]], [[Walkena]], [[Ymeri]]
+**Bloodlines** [[DATABASE/sorcererbloodline/Elemental|elemental]], [[DATABASE/sorcererbloodline/Phoenix|phoenix]]
+**Deities** [[DATABASE/deity/Angradd|Angradd]], [[DATABASE/deity/Chohar|Chohar]], [[DATABASE/deity/Lady Nanbyo|Lady Nanbyo]], [[DATABASE/deity/Moloch|Moloch]], [[DATABASE/deity/Nurgal|Nurgal]], [[DATABASE/deity/Ra|Ra]], [[DATABASE/deity/Rovagug|Rovagug]], [[DATABASE/deity/Sarenrae|Sarenrae]], [[DATABASE/deity/Szuriel|Szuriel]], [[DATABASE/deity/Walkena|Walkena]], [[DATABASE/deity/Ymeri|Ymeri]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Area** 15-foot cone
 **Saving Throw** basic Reflex

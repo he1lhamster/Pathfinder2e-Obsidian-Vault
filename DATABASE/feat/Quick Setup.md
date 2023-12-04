@@ -11,6 +11,7 @@ name: Quick Setup
 prerequisite: Master in [[DATABASE/skill/Crafting|Crafting]]
 rarity: Rare
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 subcategory: crafting
@@ -25,11 +26,10 @@ type: Feat
 # Quick Setup <span class="item-type">Feat 7</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Treasure Vault]] 
-**Prerequisites** master in [[Crafting]]
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
+**Prerequisites** master in [[DATABASE/skill/Crafting|Crafting]]
 
 ---
-_Note from Nethys: this skill feat is intended to be used with the Complex Crafting variant crafting rules._
 You have learned to setup simple crafting jobs with ease. Your setup time for consumables that are at least 6 levels lower than you is 1 day, and your setup time for permanent items 6 levels lower than you is 3 days.
  If you rush the setup and reduce the setup time for consumables at least 6 levels lower than you to less than 1 day, you can instead set them up in just 2 hours (allowing you to do so during an adventuring day if you have access to your tools and materials). If you rush the setup of a permanent item at least 6 levels lower than you and reduce the setup time to less than 1 day, you can perform the setup in 4 hours.
 
@@ -41,7 +41,7 @@ A type of feat that any character can select, regardless of ancestry and class, 
 
 **Rare:**
 
-This rarity indicates that a rules element is very difficult to find in the game world. A rare feat, spell, item or the like is available to players only if the GM decides to include it in the game, typically through discovery during play. Creatures with this trait are rare. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creatures is increased by 5.
+This rarity indicates that a rules element is very difficult to find in the game world. A rare feat, spell, item or the like is available to players only if the GM decides to include it in the game, typically through discovery during play. Creatures with this trait are rare. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creatures is increased by 5.
 
 **Skill:**
 

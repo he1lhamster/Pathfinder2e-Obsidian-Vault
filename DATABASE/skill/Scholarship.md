@@ -4,6 +4,7 @@ ability_boost: null
 id: '29'
 name: Scholarship
 rarity: Common
+rus_type_level: null
 skill:
 - Scholarship
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
@@ -13,12 +14,12 @@ type: Skill
 ---
 # Scholarship (Culture)
 
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 Scholarship measures the kingdom’s interest in teaching and training its citizens to learn about the world around them. It also includes researching answers to problems in every field, from history and medicine to alchemy and philosophy.
 
-* **[[Establish Settlement]]**
-* **[[Focused Attention]]**
-* **[[Rest and Relax]]**
+* **[[DATABASE/generalskillaction/Establish Settlement|Establish Settlement]]**
+* **[[DATABASE/generalskillaction/Focused Attention|Focused Attention]]**
+* **[[DATABASE/generalskillaction/Rest and Relax|Rest and Relax]]**
 
 ### Related Feats
 
@@ -26,10 +27,10 @@ To see a list of Feats related to Scholarship, click here.
 
 # Scholarship Untrained Actions
 
-## [[Creative Solution]]
+## [[DATABASE/action/Creative Solution|Creative Solution]]
 
 <span class="item-trait">Downtime</span><span class="item-trait">Fortune</span><span class="item-trait">Leadership</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 
 ---
 You work with your kingdom's scholars, thinkers, and practitioners of magical and mundane experimentation to come up with new ways to resolve issues when business as usual is just not working. Attempt a basic check. 

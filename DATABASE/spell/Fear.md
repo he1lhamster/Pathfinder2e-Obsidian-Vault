@@ -24,6 +24,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -45,10 +46,10 @@ type: Spell
 # Fear<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Emotion</span><span class="item-trait">Enchantment</span><span class="item-trait">Fear</span><span class="item-trait">Mental</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, divine, occult, primal
-**Bloodline** [[Demonic]]
-**Deities** [[Dhalavei]], [[Kelizandri]]
+**Bloodline** [[DATABASE/sorcererbloodline/Demonic|demonic]]
+**Deities** [[DATABASE/deity/Dhalavei|Dhalavei]], [[DATABASE/deity/Kelizandri|Kelizandri]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet; **Targets** 1 creature
 **Saving Throw** Will; **Duration** varies

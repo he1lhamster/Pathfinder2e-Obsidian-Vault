@@ -2,6 +2,7 @@
 id: '99'
 name: Night of the Gray Death
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -16,28 +17,28 @@ type: Source
 
 ## Archetypes [1]
 
-[[Gray Gardener]]
+[[DATABASE/archetype/Gray Gardener|Gray Gardener]]
 
 ## Deities [1]
 
-[[Conqueror Worm]]
+[[DATABASE/deity/Conqueror Worm|Conqueror Worm]]
 
 ## Equipment [3]
 
-[[Final Blade]], [[Nosoi Charm]], [[Nosoi Charm]]
+[[DATABASE/equipment/Final Blade|Final Blade]], [[DATABASE/equipment/Nosoi Charm|Nosoi Charm]], [[DATABASE/equipment/Nosoi Charm|Nosoi Charm (Greater)]]
 
 ## Feats [11]
 
-[[Accurate Swing]], [[Discerning Gaze]], [[Execution]], [[Executioner Weapon Training]], [[Frightful Condemnation]], [[Gardener's Resolve]], [[Harsh Judgment]], [[Reminder of the Greater Fear]], [[Strident Command]], [[Terrifying Countenance]], [[Voice of Authority]]
+[[DATABASE/feat/Accurate Swing|Accurate Swing]], [[DATABASE/feat/Discerning Gaze|Discerning Gaze]], [[DATABASE/feat/Execution|Execution]], [[DATABASE/feat/Executioner Weapon Training|Executioner Weapon Training]], [[DATABASE/feat/Frightful Condemnation|Frightful Condemnation]], [[DATABASE/feat/Gardener's Resolve|Gardener's Resolve]], [[DATABASE/feat/Harsh Judgment|Harsh Judgment]], [[DATABASE/feat/Reminder of the Greater Fear|Reminder of the Greater Fear]], [[DATABASE/feat/Strident Command|Strident Command]], [[DATABASE/feat/Terrifying Countenance|Terrifying Countenance]], [[DATABASE/feat/Voice of Authority|Voice of Authority]]
 
 ## Hazards [2]
 
-[[Pendulum Pit]], [[Planar Eviction Trap]]
+[[DATABASE/hazard/Pendulum Pit|Pendulum Pit]], [[DATABASE/hazard/Planar Eviction Trap|Planar Eviction Trap]]
 
 ## Monsters [5]
 
-[[Chakanaj]], [[Conqueror Worm]], [[Gray Death]], [[Riekanoy]], [[Tumblak]]
+[[DATABASE/monster/Chakanaj|Chakanaj]], [[DATABASE/monster/Conqueror Worm|Conqueror Worm]], [[DATABASE/monster/Gray Death|Gray Death]], [[DATABASE/monster/Riekanoy|Riekanoy]], [[DATABASE/monster/Tumblak|Tumblak]]
 
 ## Rituals [1]
 
-[[Blunt the Final Blade]]
+[[DATABASE/ritual/Blunt the Final Blade|Blunt the Final Blade]]

@@ -11,6 +11,7 @@ name: Mammoth Charge
 prerequisite: '[[DATABASE/feat/Mammoth Lord Dedication|Mammoth Lord Dedication]]'
 rarity: Common
 requirement: You are riding your megafauna companion.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burning
   Tundra]]'
@@ -25,13 +26,13 @@ type: Feat
 # Mammoth Charge <span class="action-icon">2</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Flourish</span>
-**Source** [[Pathfinder 177. Burning Tundra]]
-**Archetype** [[Mammoth Lord]]
-**Prerequisites** [[Mammoth Lord Dedication]]
+**Source** [[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burning Tundra]]
+**Archetype** [[DATABASE/archetype/Mammoth Lord|Mammoth Lord]]
+**Prerequisites** [[DATABASE/feat/Mammoth Lord Dedication|Mammoth Lord Dedication]]
 **Requirements** You are riding your megafauna companion.
 
 ---
-You [[Command an Animal]] to order your megafauna companion to Stride twice. At any point during this movement, you can make a melee Strike against one enemy within reach.
+You [[DATABASE/action/Command an Animal|Command an Animal]] to order your megafauna companion to Stride twice. At any point during this movement, you can make a melee Strike against one enemy within reach.
 
 ## Traits
 

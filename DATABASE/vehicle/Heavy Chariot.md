@@ -16,6 +16,7 @@ price: 150 gp
 rarity: Common
 reflex: null
 resistance: null
+rus_type_level: null
 school: null
 size: Large
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
@@ -27,13 +28,13 @@ type: Vehicle
 # Heavy Chariot<span class="item-type">Vehicle 3</span>
 
 <span class="trait-size item-trait">Large</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Price** 150 gp
 
 ---
 **Space** 10 feet long, 10 feet wide, 4 feet high
 **Crew** 1 pilot; **Passengers** 3
-**Piloting Check** [[Lore]] (DC 18) or [[Nature]] (DC 20 to DC 28, depending on pulling creature)
+**Piloting Check** [[DATABASE/skill/Lore|Driving Lore]] (DC 18) or [[DATABASE/skill/Nature|Nature]] (DC 20 to DC 28, depending on pulling creature)
 
 ---
 **AC** 14; **Fort** +9

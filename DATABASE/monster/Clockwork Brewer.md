@@ -98,30 +98,30 @@ wisdom: '+3'
 
 With the rise of the automated workforce in Alkenstar came the “professional” line of clockworks, capable of carrying out more complex tasks and even interacting with the public. These clockworks were given modules inscribed with information and procedures for carrying out a specific profession. The clockwork brewer is one such example, capable of extracting wort, stirring a fermenter, or monitoring a boiling temperature. As many other types of clockwork professional exist as there are professions; clockworks have been programmed to reshelf library books, swab ship decks, and fill holes in heavily trafficked roads.
  Clockwork professionals made by reputable manufacturers are generally considered safe to interact with the public. Accidents have been known to occur, however, particularly when careless engineers fail to perform regular maintenance checks or when operators program a clockwork with insufficiently specific directives. Flesh and blood laborers forced to work in close proximity to a clockwork professional tend to keep a wide berth.
-**Recall Knowledge - Construct ([[Arcana]], [[Crafting]])**: DC 20
+**Recall Knowledge - Construct ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Crafting|Crafting]])**: DC 20
 **Unspecific Lore**: DC 18
 **Specific Lore**: DC 15
 
 # Clockwork Brewer<span class="item-type">Creature 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Clockwork</span><span class="item-trait">Construct</span><span class="item-trait">Mindless</span>
-**Source** [[Pathfinder 178. Punks in a Powderkeg]]
-**Perception** +8; [[Darkvision]]
-**Skills** [[Athletics]] +9, [[Lore]] +8
+**Source** [[DATABASE/source/Pathfinder 178. Punks in a Powderkeg|Pathfinder #178: Punks in a Powderkeg]]
+**Perception** +8; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +9, [[DATABASE/skill/Lore|Brewing Lore]] +8
 **Str** +4, **Dex** +3, **Con** +1, **Int** -5, **Wis** +3, **Cha** +1
 **Wind-Up** 24 hours, DC 18, standby
-**Items** [[Artisan's Tools]]
+**Items** [[DATABASE/equipment/Artisan's Tools|artisan's tools (brewing)]]
 
 ---
 **AC** 18; **Fort** +8, **Ref** +10, **Will** +8
-**HP** 40; **Immunities** death effects, disease, [[Doomed]], [[Drained]], [[Fatigued]], healing, mental, necromancy, nonlethal attacks, [[Paralyzed]], poison, [[Sickened]], [[Unconscious]]; **Resistances** physical 3 (except [[Adamantine Weapon]] or orichalcum); **Weaknesses** electricity 3, [[Orichalcum Weapon]] 3
+**HP** 40; **Immunities** death effects, disease, [[DATABASE/condition/Doomed|doomed]], [[DATABASE/condition/Drained|drained]], [[DATABASE/condition/Fatigued|fatigued]], healing, mental, necromancy, nonlethal attacks, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Sickened|sickened]], [[DATABASE/condition/Unconscious|unconscious]]; **Resistances** physical 3 (except [[DATABASE/equipment/Adamantine Weapon|adamantine]] or orichalcum); **Weaknesses** electricity 3, [[DATABASE/equipment/Orichalcum Weapon|orichalcum]] 3
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> leg +9 [+5/+1] (agile, unarmed), **Damage** 2d4+4 bludgeoning plus [[Grab]]</span><span class="in-box-ability">**Bottoms Up** <span class="action-icon">1</span> **Requirements** The clockwork brewer has a creature [[Grapple]]; **Effect** The clockwork brewer forcefeeds the grappled creature 1 serving of whatever liquid is in the clockwork brewer's tank (typically beer such as Smokeside Sour; see sidebar). The creature is exposed to the liquid's effects, and it can't breathe or speak until the start of its turn.</span><span class="in-box-ability">**Pre-Programmed Greeting** <span class="action-icon">1</span> (auditory, mental) The clockwork brewer clearly delivers a disarmingly friendly greeting to a creature within 30 feet. The creature attempts a DC 17 Will save. On a failure, the creature is [[Flat-Footed]] against the clockwork brewer's next attack before the end of the brewer's next turn. The target is then immune to Pre-Programmed Greeting for 1 day.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> leg +9 [+5/+1] (agile, unarmed), **Damage** 2d4+4 bludgeoning plus [[DATABASE/monsterability/Grab|Grab]]</span><span class="in-box-ability">**Bottoms Up** <span class="action-icon">1</span> **Requirements** The clockwork brewer has a creature [[DATABASE/action/Grapple|grappled]]; **Effect** The clockwork brewer forcefeeds the grappled creature 1 serving of whatever liquid is in the clockwork brewer's tank (typically beer such as Smokeside Sour; see sidebar). The creature is exposed to the liquid's effects, and it can't breathe or speak until the start of its turn.</span><span class="in-box-ability">**Pre-Programmed Greeting** <span class="action-icon">1</span> (auditory, mental) The clockwork brewer clearly delivers a disarmingly friendly greeting to a creature within 30 feet. The creature attempts a DC 17 Will save. On a failure, the creature is [[DATABASE/condition/Flat-Footed|flat-footed]] against the clockwork brewer's next attack before the end of the brewer's next turn. The target is then immune to Pre-Programmed Greeting for 1 day.</span>
 
 ###  Beer and Ale
 
 Beer, ale, and their many variants are the liquids most commonly contained inside the tanks of Alkenstar's clockwork brewers.
  The following type of beer was originally popular among factory workers in the industrial quarters of Alkenstar, though it can now be found in taverns throughout most of the Inner Sea region.
- **Smokeside Sour** (ingested, poison) **Saving Throw** DC 12 Fortitude; **Maximum Duration** 1 hour; **Stage 1** [[Clumsy]] (10 minutes); **Stage 2** clumsy 1 and [[Stupefied]] (10 minutes); **Stage 3** clumsy 2, stupefied 2, and [[Sickened]] (40 minutes)
+ **Smokeside Sour** (ingested, poison) **Saving Throw** DC 12 Fortitude; **Maximum Duration** 1 hour; **Stage 1** [[DATABASE/condition/Clumsy|clumsy 1]] (10 minutes); **Stage 2** clumsy 1 and [[DATABASE/condition/Stupefied|stupefied 1]] (10 minutes); **Stage 3** clumsy 2, stupefied 2, and [[DATABASE/condition/Sickened|sickened]] (40 minutes)

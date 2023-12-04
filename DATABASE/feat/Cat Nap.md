@@ -11,6 +11,7 @@ name: Cat Nap
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -25,20 +26,20 @@ type: Feat
 # Cat Nap <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Catfolk</span><span class="item-trait">Concentrate</span><span class="item-trait">Exploration</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
 You can briefly sleep to regain your energy quickly. Once per hour, by sleeping for 10 minutes, you can gain temporary Hit Points equal to your level that last for 10 minutes.
 
 ## Cat Nap Leads To...
 
-[[Focused Cat Nap]]
+[[DATABASE/feat/Focused Cat Nap|Focused Cat Nap]]
 
 ## Traits
 
 **Catfolk:**
 
-A creature with this trait is a member of the [[Catfolk]] ancestry. Catfolk are humanoids with feline features. An ability with this trait can be used or selected only by catfolk. An item with this trait is created and used by catfolk.
+A creature with this trait is a member of the [[DATABASE/ancestry/Catfolk|catfolk]] ancestry. Catfolk are humanoids with feline features. An ability with this trait can be used or selected only by catfolk. An item with this trait is created and used by catfolk.
 
 **Concentrate:**
 

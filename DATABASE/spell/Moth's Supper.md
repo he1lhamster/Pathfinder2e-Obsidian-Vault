@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
@@ -37,7 +38,7 @@ type: Spell
 # Moth's Supper<span class="item-type">Spell 3</span>
 
 <span class="item-trait">Necromancy</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Traditions** occult, primal
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Duration** 1 hour
@@ -46,7 +47,7 @@ type: Spell
 You sigh, and your breath transforms into delicate, black-winged butterflies and huge death's-head hawkmoths. They flutter about you briefly, and then range forth in search of sustenance— fresh-spilled blood, by preference, but rotting corpses, flowering plants, or even left-behind food will do in a pinch. They then return, perching on your hair or shoulders and whispering their secrets into your ears. This has three effects.
 
 * You heal 2d4 Hit Points every 10 minutes.
-* The first time during the duration when someone successfully [[Treat Wounds]], you regain an additional 4d4 Hit Points.
+* The first time during the duration when someone successfully [[DATABASE/action/Treat Wounds|Treats your Wounds]], you regain an additional 4d4 Hit Points.
 * You gain an imprecise sense out to 30 feet that senses only freshly spilled blood and rotten flesh.
 
 ---

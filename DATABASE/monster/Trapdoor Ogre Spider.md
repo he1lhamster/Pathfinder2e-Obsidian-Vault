@@ -66,24 +66,24 @@ wisdom: '+2'
 # Trapdoor Ogre Spider
 
 This creature did not include a description.
-**Recall Knowledge - Animal ([[Nature]])**: DC 22
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 22
 **Unspecific Lore**: DC 20
 **Specific Lore**: DC 17
 
 # Trapdoor Ogre Spider<span class="item-type">Creature 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Huge</span><span class="item-trait">Animal</span>
-**Source** [[Kingmaker Adventure Path]]
-Variant [[Ogre Spider]]
-**Perception** +13; [[Darkvision]]
-**Skills** [[Acrobatics]] +13, [[Athletics]] +13, [[Stealth]] +13
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
+Variant [[DATABASE/monster/Ogre Spider|ogre spider]]
+**Perception** +13; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +13, [[DATABASE/skill/Athletics|Athletics]] +13, [[DATABASE/skill/Stealth|Stealth]] +13
 **Str** +6, **Dex** +4, **Con** +4, **Int** -5, **Wis** +2, **Cha** -4
 
 ---
 **AC** 23; **Fort** +15, **Ref** +13, **Will** +9
 **HP** 70
-<span class="in-box-ability">**Trapdoor Lunge <span class="action-icon">5</span> ** **Trigger** A creature comes within 25 feet of the spider's lair while the spider is positioned just under the ajar trapdoor and the spider notices the creature; **Requirements** Initiative has not yet been rolled; **Effect** The spider Strides or [[Climb]] before it rolls initiative.</span>
+<span class="in-box-ability">**Trapdoor Lunge <span class="action-icon">5</span> ** **Trigger** A creature comes within 25 feet of the spider's lair while the spider is positioned just under the ajar trapdoor and the spider notices the creature; **Requirements** Initiative has not yet been rolled; **Effect** The spider Strides or [[DATABASE/action/Climb|Climbs]] before it rolls initiative.</span>
 
 ---
 **Speed** 30 feet, climb 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fangs +15 [+10/+5] (reach 10 feet), **Damage** 2d8+8 piercing plus ogre spider venom</span><span class="in-box-ability">**Eerie Flexibility** A trapdoor ogre spider can fit through tight spaces as if it were a Large creature. While [[Squeeze]], it can move at full speed.</span><span class="in-box-ability">**Ogre Spider Venom** (poison) **Saving Throw** Fortitude DC 22; **Maximum Duration** 6 rounds; **Stage 1** 1d6 poison damage (1 round); **Stage 2** 1d6 poison damage, [[Clumsy]], and [[Flat-Footed]] (1 round); **Stage 3** 2d6 poison damage, clumsy 1, and flat-footed (1 round); **Stage 4** 2d6 poison and [[Paralyzed]] (1 round).</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fangs +15 [+10/+5] (reach 10 feet), **Damage** 2d8+8 piercing plus ogre spider venom</span><span class="in-box-ability">**Eerie Flexibility** A trapdoor ogre spider can fit through tight spaces as if it were a Large creature. While [[DATABASE/action/Squeeze|Squeezing]], it can move at full speed.</span><span class="in-box-ability">**Ogre Spider Venom** (poison) **Saving Throw** Fortitude DC 22; **Maximum Duration** 6 rounds; **Stage 1** 1d6 poison damage (1 round); **Stage 2** 1d6 poison damage, [[DATABASE/condition/Clumsy|clumsy 1]], and [[DATABASE/condition/Flat-Footed|flat-footed]] (1 round); **Stage 3** 2d6 poison damage, clumsy 1, and flat-footed (1 round); **Stage 4** 2d6 poison and [[DATABASE/condition/Paralyzed|paralyzed]] (1 round).</span>

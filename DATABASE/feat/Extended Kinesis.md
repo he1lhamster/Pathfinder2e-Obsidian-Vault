@@ -11,6 +11,7 @@ name: Extended Kinesis
 prerequisite: '[[DATABASE/action/Base Kinesis|Base Kinesis]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Extended Kinesis <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Kineticist</span>
-**Source** [[Rage of Elements]]
-**Prerequisites** [[Base Kinesis]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
+**Prerequisites** [[DATABASE/action/Base Kinesis|Base Kinesis]]
 
 ---
 You've refined the control you can exert over your elements. Add the following options to Base Kinesis.

@@ -7,6 +7,7 @@ id: '1478'
 name: Organize Watch
 rarity: Common
 requirement: expert in Perception
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 trait:
@@ -18,7 +19,7 @@ type: Action
 # Organize Watch
 
 <span class="item-trait">Camping</span>
-**Source** [[Kingmaker Companion Guide]]
+**Source** [[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]
 **Requirements** expert in Perception
 
 ---

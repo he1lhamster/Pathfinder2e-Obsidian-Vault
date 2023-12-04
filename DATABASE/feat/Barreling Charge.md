@@ -11,6 +11,7 @@ name: Barreling Charge
 prerequisite: Trained in [[DATABASE/skill/Athletics|Athletics]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,15 +26,15 @@ type: Feat
 # Barreling Charge <span class="action-icon">2</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Barbarian</span><span class="item-trait">Fighter</span><span class="item-trait">Flourish</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** trained in [[Athletics]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** trained in [[DATABASE/skill/Athletics|Athletics]]
 
 ---
-You rush forward, moving enemies aside to reach your foe. You Stride, attempting to move through your enemies' spaces and make a melee Strike. Roll an [[Athletics]] check and compare the result to the Fortitude DC of each creature whose space you attempt to move through during your Stride, moving through its space on a success but ending your movement before entering its space on a failure. You can use Barreling Charge to [[Burrow]], [[Climb]], [[Fly]], or [[Swim]] instead of Stride, as long as you have the corresponding movement type.
+You rush forward, moving enemies aside to reach your foe. You Stride, attempting to move through your enemies' spaces and make a melee Strike. Roll an [[DATABASE/skill/Athletics|Athletics]] check and compare the result to the Fortitude DC of each creature whose space you attempt to move through during your Stride, moving through its space on a success but ending your movement before entering its space on a failure. You can use Barreling Charge to [[DATABASE/action/Burrow|Burrow]], [[DATABASE/action/Climb|Climb]], [[DATABASE/action/Fly|Fly]], or [[DATABASE/action/Swim|Swim]] instead of Stride, as long as you have the corresponding movement type.
 
 ## Barreling Charge Leads To...
 
-[[Overpowering Charge]]
+[[DATABASE/feat/Overpowering Charge|Overpowering Charge]]
 
 ## Traits
 

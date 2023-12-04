@@ -11,6 +11,7 @@ name: Eyes of the City
 prerequisite: Trained in [[DATABASE/skill/Diplomacy|Diplomacy]] or Trained in [[DATABASE/skill/Society|Society]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
 subcategory: diplomacy
@@ -24,11 +25,11 @@ type: Feat
 # Eyes of the City <span class="item-type">Feat 2</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Firebrands]]
-**Prerequisites** trained in [[Diplomacy]] or [[Society]]
+**Source** [[DATABASE/source/Firebrands|Firebrands]]
+**Prerequisites** trained in [[DATABASE/skill/Diplomacy|Diplomacy]] or [[DATABASE/skill/Society|Society]]
 
 ---
-You can track down targets with the help of locals. You can use Diplomacy or Society, whichever you're trained in, to [[Track]] creatures in settlements. You chat with locals to help follow the trail of creatures you Track. At the GM's discretion, there might not be enough people to speak with to keep following the trail.
+You can track down targets with the help of locals. You can use Diplomacy or Society, whichever you're trained in, to [[DATABASE/action/Track|Track]] creatures in settlements. You chat with locals to help follow the trail of creatures you Track. At the GM's discretion, there might not be enough people to speak with to keep following the trail.
 
 ## Traits
 

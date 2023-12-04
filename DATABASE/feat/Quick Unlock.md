@@ -11,6 +11,7 @@ name: Quick Unlock
 prerequisite: Master in [[DATABASE/skill/Thievery|Thievery]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: thievery
@@ -24,8 +25,8 @@ type: Feat
 # Quick Unlock <span class="item-type">Feat 7</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** master in [[Thievery]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** master in [[DATABASE/skill/Thievery|Thievery]]
 
 ---
 You can Pick a Lock using 1 action instead of 2.

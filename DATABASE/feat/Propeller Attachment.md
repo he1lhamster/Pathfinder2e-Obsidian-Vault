@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Trapsmith Dedication|Trapsmith Dedication]] ; Mas
   in [[DATABASE/skill/Crafting|Crafting]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -25,9 +26,9 @@ type: Feat
 # Propeller Attachment <span class="item-type">Feat 7</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Skill</span>
-**Source** [[Guns & Gears]]
-**Archetype** [[Trapsmith]]
-**Prerequisites** [[Trapsmith Dedication]]; master in [[Crafting]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Archetype** [[DATABASE/archetype/Trapsmith|Trapsmith]]
+**Prerequisites** [[DATABASE/feat/Trapsmith Dedication|Trapsmith Dedication]]; master in [[DATABASE/skill/Crafting|Crafting]]
 
 ---
 You've mastered attaching clockwork propellers to your daily quick-deploy snares that use gears. This allows you to place your snares in the air or underwater, where they remain in place for up to 10 minutes, after which the propeller runs out of power and they fall or sink. Unless you use additional precautions to hide it, a propeller snare's location is usually obvious.

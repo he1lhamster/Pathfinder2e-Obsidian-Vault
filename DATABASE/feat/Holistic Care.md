@@ -12,6 +12,7 @@ prerequisite: Trained in [[DATABASE/skill/Diplomacy|Diplomacy]] ; [[DATABASE/fea
   Condition|Treat Condition]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,12 +26,12 @@ type: Feat
 # Holistic Care <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Skill</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Medic]]
-**Prerequisites** trained in [[Diplomacy]]; [[Treat Condition]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Medic|Medic]]
+**Prerequisites** trained in [[DATABASE/skill/Diplomacy|Diplomacy]]; [[DATABASE/feat/Treat Condition|Treat Condition]]
 
 ---
-You provide emotional and spiritual care. Add [[Frightened]], [[Stupefied]], and [[Stunned]] to the list of conditions you can reduce with [[Treat Condition]]. If the stunned condition has a duration instead of a value, you can't use Treat Condition to reduce it.
+You provide emotional and spiritual care. Add [[DATABASE/condition/Frightened|frightened]], [[DATABASE/condition/Stupefied|stupefied]], and [[DATABASE/condition/Stunned|stunned]] to the list of conditions you can reduce with [[DATABASE/feat/Treat Condition|Treat Condition]]. If the stunned condition has a duration instead of a value, you can't use Treat Condition to reduce it.
 
 ## Traits
 

@@ -11,6 +11,7 @@ name: Piercing Quills
 prerequisite: '[[DATABASE/feat/Spine Stabber|Spine Stabber]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 subcategory: null
@@ -23,11 +24,11 @@ type: Feat
 # Piercing Quills <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Shisk</span>
-**Source** [[The Mwangi Expanse]] 
-**Prerequisites** [[Spine Stabber]]
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]] 
+**Prerequisites** [[DATABASE/feat/Spine Stabber|Spine Stabber]]
 
 ---
-Your quills can dig particularly deep into the flesh of your opponents. Your quills unarmed attack deals 1d4 [[Persistent Damage]] on a critical hit.
+Your quills can dig particularly deep into the flesh of your opponents. Your quills unarmed attack deals 1d4 [[DATABASE/condition/Persistent Damage|persistent bleed damage]] on a critical hit.
 
 ## Traits
 

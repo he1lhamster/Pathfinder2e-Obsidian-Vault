@@ -11,6 +11,7 @@ name: Kineticist Dedication
 prerequisite: Constitution 2
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -25,16 +26,16 @@ type: Feat
 # Kineticist Dedication <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Dedication</span><span class="item-trait">Multiclass</span>
-**Source** [[Rage of Elements]]
-**Archetype** [[Kineticist]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
+**Archetype** [[DATABASE/archetype/Kineticist|Kineticist]]
 **Prerequisites** Constitution +2
 
 ---
-You become trained in kineticist class DC and impulse attack rolls. Choose one element to be your kinetic element (air, earth, fire, metal, water, or wood). You gain a kinetic aura and the [[Channel Elements]] action, though you don't get to use an Elemental Blast or stance impulse when you take that action. You gain the [[Elemental Blast]] action. Your Elemental Blast does not automatically gain additional damage dice every four levels, instead requiring you to take the [[Improved Elemental Blast]] feat.
+You become trained in kineticist class DC and impulse attack rolls. Choose one element to be your kinetic element (air, earth, fire, metal, water, or wood). You gain a kinetic aura and the [[DATABASE/action/Channel Elements|Channel Elements]] action, though you don't get to use an Elemental Blast or stance impulse when you take that action. You gain the [[DATABASE/action/Elemental Blast|Elemental Blast]] action. Your Elemental Blast does not automatically gain additional damage dice every four levels, instead requiring you to take the [[DATABASE/feat/Improved Elemental Blast|Improved Elemental Blast]] feat.
 
 ## Kineticist Dedication Leads To...
 
-[[Base Kinesis]], [[Expert Kinetic Control]], [[Improved Elemental Blast]], [[Through the Gate]]
+[[DATABASE/feat/Base Kinesis|Base Kinesis]], [[DATABASE/feat/Expert Kinetic Control|Expert Kinetic Control]], [[DATABASE/feat/Improved Elemental Blast|Improved Elemental Blast]], [[DATABASE/feat/Through the Gate|Through the Gate]]
 
 ## Traits
 

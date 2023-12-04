@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Bounty Hunter Dedication|Bounty Hunter Dedication
 rarity: Common
 requirement: Your prey is within your reach, you have at least one free hand, and
   your target is no more than onesize larger than you.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,14 +25,14 @@ type: Feat
 # Opportunistic Grapple <span class="action-icon">5</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Bounty Hunter]]
-**Prerequisites** [[Bounty Hunter Dedication]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Bounty Hunter|Bounty Hunter]]
+**Prerequisites** [[DATABASE/feat/Bounty Hunter Dedication|Bounty Hunter Dedication]]
 **Trigger** Your prey critically fails on a melee Strike's attack roll against you.
 **Requirements** Your prey is within your reach, you have at least one free hand, and your target is no more than one size larger than you.
 
 ---
-You attempt an [[Athletics]] check to [[Grapple]] your prey.
+You attempt an [[DATABASE/skill/Athletics|Athletics]] check to [[DATABASE/action/Grapple|Grapple]] your prey.
 
 ## Traits
 

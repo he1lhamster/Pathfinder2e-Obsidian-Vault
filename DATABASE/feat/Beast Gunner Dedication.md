@@ -13,6 +13,7 @@ prerequisite: Trained in [[DATABASE/skill/Arcana|Arcana]] ; Trained in [[DATABAS
   type of creature associated with your beast gun in a fair hunt (see above)
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -28,9 +29,9 @@ type: Feat
 # Beast Gunner Dedication <span class="item-type">Feat 6</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Archetype</span><span class="item-trait">Dedication</span><span class="item-trait">Magical</span>
-**Source** [[Guns & Gears]]
-**Archetype** [[Beast Gunner]]
-**Prerequisites** trained in [[Arcana]] and [[Crafting]]; expert with at least one type of firearm, you own a beast gun and have slain the type of creature associated with your beast gun in a fair hunt (see above)
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Archetype** [[DATABASE/archetype/Beast Gunner|Beast Gunner]]
+**Prerequisites** trained in [[DATABASE/skill/Arcana|Arcana]] and [[DATABASE/skill/Crafting|Crafting]]; expert with at least one type of firearm, you own a beast gun and have slain the type of creature associated with your beast gun in a fair hunt (see above)
 
 ---
 You've bonded to your beast gun and unlocked the first hints of its hidden potential. You treat all beast guns as martial firearms when determining your proficiency with them, even beast guns that are normally advanced weapons. You can change your bonded beast gun to another beast gun you own each day during your daily preparations, as long as you've previously performed a ritual hunt associated with the new beast gun.
@@ -42,7 +43,7 @@ You've bonded to your beast gun and unlocked the first hints of its hidden poten
 
 ## Beast Gunner Dedication Leads To...
 
-[[Basic Beast Gunner Spellcasting]], [[Controlled Bullet]], [[Drain Vitality]]
+[[DATABASE/feat/Basic Beast Gunner Spellcasting|Basic Beast Gunner Spellcasting]], [[DATABASE/feat/Controlled Bullet|Controlled Bullet]], [[DATABASE/feat/Drain Vitality|Drain Vitality]]
 
 ## Traits
 
@@ -61,4 +62,4 @@ Something with the magical trait is imbued with magical energies not tied to a s
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.

@@ -11,6 +11,7 @@ name: Double Shot
 prerequisite: null
 rarity: Common
 requirement: You are wielding a ranged weapon with reload 0.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Double Shot <span class="action-icon">2</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Fighter</span><span class="item-trait">Flourish</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Archer]]*
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Archer|Archer]]*
 **Requirements** You are wielding a ranged weapon with reload 0.
 * This archetype offers Double Shot at a different level than displayed here.
 
@@ -38,7 +39,7 @@ This feat can be used for one or more Archetypes in addition to the listed Class
 
 ## Double Shot Leads To...
 
-[[Triple Shot]]
+[[DATABASE/feat/Triple Shot|Triple Shot]]
 
 ## Traits
 

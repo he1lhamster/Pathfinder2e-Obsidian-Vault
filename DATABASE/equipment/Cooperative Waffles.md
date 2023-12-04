@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -54,22 +55,22 @@ weapon_type: null
 # Cooperative Waffles<span class="item-type">Item 2+</span>
 
 <span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Processed</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Usage** held in 2 hands; **Bulk** L
 **Activate** 10 minutes (Interact)
 
 ---
-Flash-cooked on a [[Waffle Iron]] and drizzled with alchemical syrups and compound butter, cooperative waffles bolster the supportive spirit of those who share the batch. You can split the waffles with one other creature. After you both eat half of the waffles to Activate them, when one of you uses [[Follow the Expert]] to follow the other, the circumstance bonus granted is 1 higher. The waffles' bonus lasts 24 hours or until you next make your daily preparations, whichever comes first. You can only be linked to one creature in this way at a time; if either of you eats cooperative waffles again, the effect of your previous waffles ends.
+Flash-cooked on a [[DATABASE/equipment/Waffle Iron|waffle iron]] and drizzled with alchemical syrups and compound butter, cooperative waffles bolster the supportive spirit of those who share the batch. You can split the waffles with one other creature. After you both eat half of the waffles to Activate them, when one of you uses [[DATABASE/action/Follow the Expert|Follow the Expert]] to follow the other, the circumstance bonus granted is 1 higher. The waffles' bonus lasts 24 hours or until you next make your daily preparations, whichever comes first. You can only be linked to one creature in this way at a time; if either of you eats cooperative waffles again, the effect of your previous waffles ends.
 
 ## Cooperative Waffles<span class="item-type">Item 2</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 5 gp
 **Bulk** L
 
 ## Cooperative Waffles (Greater)<span class="item-type">Item 5</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 25 gp
 **Bulk** L
-The benefit of the waffles also applies when one of you successfully [[Aid]] a skill check the other attempts.
+The benefit of the waffles also applies when one of you successfully [[DATABASE/action/Aid|Aids]] a skill check the other attempts.

@@ -14,6 +14,7 @@ name: Banshee's Symphony
 rarity: Common
 reflex: null
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
@@ -28,13 +29,13 @@ will: null
 # Banshee's Symphony<span class="item-type">Hazard 18</span>
 
 <span class="item-trait">Complex</span><span class="item-trait">Magical</span><span class="item-trait">Trap</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Complexity** Complex
 **Stealth** +30 (legendary)
 **Description** A magically contagious wail of the banshee spell is trapped in the larynx of an invisible, mummified elf.
 
 ---
-**Disable** [[Thievery]] DC 42 (master) to pierce the invisible larynx so precisely that the magic releases in a trickle before the trap activates, Thievery DC 44 (legendary) three times to deconstruct the larynx while the trap is active in such a way that it tears the spell apart, or spell DC 38 (9th level) to counteract the [[Wail of the Banshee]] before the trap activates
+**Disable** [[DATABASE/skill/Thievery|Thievery]] DC 42 (master) to pierce the invisible larynx so precisely that the magic releases in a trickle before the trap activates, Thievery DC 44 (legendary) three times to deconstruct the larynx while the trap is active in such a way that it tears the spell apart, or spell DC 38 (9th level) to counteract the [[DATABASE/spell/Wail of the Banshee|wail of the banshee]] before the trap activates
 **Scream** <span class="action-icon">5</span> **Trigger** Three or more living creatures remain within 100 feet of the trap for 6 seconds or longer. **Effect** The trap releases an arcane wail of the banshee (DC 40) with a 100-foot-radius emanation instead of 40 feet, targeting all living creatures in the area, and rolls initiative.
 
 ---

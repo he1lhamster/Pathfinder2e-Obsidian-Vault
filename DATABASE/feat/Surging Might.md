@@ -11,6 +11,7 @@ name: Surging Might
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,11 +26,11 @@ type: Feat
 # Surging Might <span class="action-icon">1</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Manipulate</span><span class="item-trait">Metamagic</span><span class="item-trait">Oracle</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Wellspring Mage]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Wellspring Mage|Wellspring Mage]]
 
 ---
-With a complex gesture, you focus the divine power of your spell to overcome enemies' resistances. If the next action you use is to Cast a Spell, the spell ignores an amount of the target's resistance equal to your level against all the following types of damage: chaotic, evil, good, lawful, negative, and positive. This applies to all damage the spell deals, including [[Persistent Damage]] and damage caused by an ongoing effect of the spell, such as the positive energy within a [[Field of Life]]. This doesn't cause the spell to ignore immunities, only resistances.
+With a complex gesture, you focus the divine power of your spell to overcome enemies' resistances. If the next action you use is to Cast a Spell, the spell ignores an amount of the target's resistance equal to your level against all the following types of damage: chaotic, evil, good, lawful, negative, and positive. This applies to all damage the spell deals, including [[DATABASE/condition/Persistent Damage|persistent damage]] and damage caused by an ongoing effect of the spell, such as the positive energy within a [[DATABASE/spell/Field of Life|field of life]]. This doesn't cause the spell to ignore immunities, only resistances.
 
 ## Archetype Use
 

@@ -66,20 +66,20 @@ wisdom: '+0'
 # Miriel Grayleaf
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 13
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 13
 **Unspecific Lore**: DC 11
 **Specific Lore**: DC 8
 
 # Miriel Grayleaf<span class="item-type">Creature -1</span>
 
 <span class="trait-alignment item-trait">CG</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Elf</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 157. Devil at the Dreaming Palace]]
-Female [[Elf]] [[Wizard]]
-**Perception** +2; [[Low-Light Vision]]
-**Languages** [[Common]], [[Elven]]
-**Skills** [[Arcana]] +5, [[Lore]] +5, [[Occultism]] +5
+**Source** [[DATABASE/source/Pathfinder 157. Devil at the Dreaming Palace|Pathfinder #157: Devil at the Dreaming Palace]]
+Female [[DATABASE/ancestry/Elf|elf]] [[DATABASE/class_/Wizard|wizard]]
+**Perception** +2; [[DATABASE/monsterability/Low-Light Vision|low-light vision]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Elven|Elven]]
+**Skills** [[DATABASE/skill/Arcana|Arcana]] +5, [[DATABASE/skill/Lore|Library Lore]] +5, [[DATABASE/skill/Occultism|Occultism]] +5
 **Str** +0, **Dex** +3, **Con** -1, **Int** +3, **Wis** +0, **Cha** +2
-**Items** [[Crossbow]], [[Dagger]]
+**Items** [[DATABASE/weapon/Crossbow|crossbow (10 bolts)]], [[DATABASE/weapon/Dagger|dagger]]
 
 ---
 **AC** 13; **Fort** +1, **Ref** +7, **Will** +4
@@ -87,4 +87,4 @@ Female [[Elf]] [[Wizard]]
 
 ---
 **Speed** 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> dagger +2 [-2/-6] (agile, finesse, thrown 10 feet, versatile S), **Damage** 1d4 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> crossbow +5 [+0/-5] (range 120 feet, reload 1), **Damage** 1d8 piercing</span>**Arcane Prepared Spells** DC 15, attack +7; **1st** _[[Grease]]_; **Cantrips** **(1st)** _[[Mage Hand]]_, _[[Tanglefoot]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> dagger +2 [-2/-6] (agile, finesse, thrown 10 feet, versatile S), **Damage** 1d4 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> crossbow +5 [+0/-5] (range 120 feet, reload 1), **Damage** 1d8 piercing</span>**Arcane Prepared Spells** DC 15, attack +7; **1st** _[[DATABASE/spell/Grease|grease]]_; **Cantrips** **(1st)** _[[DATABASE/spell/Mage Hand|mage hand]]_, _[[DATABASE/spell/Tanglefoot|tanglefoot]]_

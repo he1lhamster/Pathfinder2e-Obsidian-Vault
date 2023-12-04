@@ -11,6 +11,7 @@ name: Calaca's Showstopper
 prerequisite: Expert in [[DATABASE/skill/Performance|Performance]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Enchantment
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -27,18 +28,18 @@ type: Feat
 # Calaca's Showstopper <span class="action-icon">2</span> <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Auditory</span><span class="item-trait">Divine</span><span class="item-trait">Duskwalker</span><span class="item-trait">Enchantment</span><span class="item-trait">Incapacitation</span>
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 **Frequency** once per day
-**Prerequisites** expert in [[Performance]]
+**Prerequisites** expert in [[DATABASE/skill/Performance|Performance]]
 
 ---
-You've spent many an evening learning songs and tales featuring calacas, death's wandering minstrels. You dramatically unleash a stunning blast of sound by smashing an instrument you hold or belting out a discordant note. This has the effects of [[Synaptic Pulse]], but the effect is auditory rather than mental. The DC is either your class DC or spell DC, whichever is higher.
+You've spent many an evening learning songs and tales featuring calacas, death's wandering minstrels. You dramatically unleash a stunning blast of sound by smashing an instrument you hold or belting out a discordant note. This has the effects of [[DATABASE/spell/Synaptic Pulse|synaptic pulse]], but the effect is auditory rather than mental. The DC is either your class DC or spell DC, whichever is higher.
 
 ## Traits
 
 **Auditory:**
 
-Auditory actions and effects rely on sound. An action with the auditory trait can be successfully performed only if the creature using the action can speak or otherwise produce the required sounds. A spell or effect with the auditory trait has its effect only if the target can hear it. This applies only to sound-based parts of the effect, as determined by the GM. This is different from a sonic effect, which still affects targets who can't hear it (such as [[Deafened]] targets) as long as the effect itself makes sound.
+Auditory actions and effects rely on sound. An action with the auditory trait can be successfully performed only if the creature using the action can speak or otherwise produce the required sounds. A spell or effect with the auditory trait has its effect only if the target can hear it. This applies only to sound-based parts of the effect, as determined by the GM. This is different from a sonic effect, which still affects targets who can't hear it (such as [[DATABASE/condition/Deafened|deaf]] targets) as long as the effect itself makes sound.
 
 **Divine:**
 
@@ -46,7 +47,7 @@ This magic comes from the divine tradition, drawing power from deities or simila
 
 **Duskwalker:**
 
-A creature with this trait has the duskwalker versatile heritage. Duskwalkers are planar scions infused with the supernatural energy of [[Psychopomp]]. An ability with this trait can be used or selected only by duskwalkers.
+A creature with this trait has the duskwalker versatile heritage. Duskwalkers are planar scions infused with the supernatural energy of [[DATABASE/monsterfamily/Psychopomp|psychopomps]]. An ability with this trait can be used or selected only by duskwalkers.
 
 **Enchantment:**
 

@@ -11,6 +11,7 @@ name: Orc Sight
 prerequisite: low-light vision
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Orc Sight <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Half-Orc</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Prerequisites** low-light vision
 
 ---
@@ -34,4 +35,4 @@ Your orc blood is strong enough to grant you the keen vision of your orc forebea
 
 **Half-Orc:**
 
-A creature with this trait is part [[Human]] and part [[Orc]]. An ability with this trait can be used or selected only by half-orcs.
+A creature with this trait is part [[DATABASE/ancestry/Human|human]] and part [[DATABASE/ancestry/Orc|orc]]. An ability with this trait can be used or selected only by half-orcs.

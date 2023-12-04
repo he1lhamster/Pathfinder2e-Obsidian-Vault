@@ -11,6 +11,7 @@ name: Advanced Synergy
 prerequisite: '[[DATABASE/feat/Basic Synergy|Basic Synergy]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Advanced Synergy <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Secrets of Magic]] 
-**Archetype** [[Summoner]]
-**Prerequisites** [[Basic Synergy]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
+**Archetype** [[DATABASE/archetype/Summoner|Summoner]]
+**Prerequisites** [[DATABASE/feat/Basic Synergy|Basic Synergy]]
 
 ---
 You gain one summoner feat. For the purpose of meeting its prerequisites, your summoner level is equal to half your character level.
@@ -33,7 +34,7 @@ You gain one summoner feat. For the purpose of meeting its prerequisites, your s
 
 ## Advanced Synergy Leads To...
 
-[[Signature Synergy]]
+[[DATABASE/feat/Signature Synergy|Signature Synergy]]
 
 ## Traits
 

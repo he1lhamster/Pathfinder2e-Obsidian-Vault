@@ -11,6 +11,7 @@ name: Dodging Roll
 prerequisite: Master in [[DATABASE/skill/Acrobatics|Acrobatics]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Dodging Roll <span class="action-icon">5</span> <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Monk</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** master in [[Acrobatics]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** master in [[DATABASE/skill/Acrobatics|Acrobatics]]
 **Trigger** You take damage from an area effect that allows a Reflex save.
 
 ---

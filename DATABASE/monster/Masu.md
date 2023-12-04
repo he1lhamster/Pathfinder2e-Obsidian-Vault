@@ -63,17 +63,17 @@ wisdom: '+1'
 # Masu
 
 This creature did not include a description.
-**Recall Knowledge - Animal ([[Nature]])**: DC 23
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 23
 **Unspecific Lore**: DC 21
 **Specific Lore**: DC 18
 
 # Masu<span class="item-type">Creature -1</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Tiny</span><span class="item-trait">Animal</span>
-**Source** [[Pathfinder 179. Cradle of Quartz]]
+**Source** [[DATABASE/source/Pathfinder 179. Cradle of Quartz|Pathfinder #179: Cradle of Quartz]]
 Female tabby cat
 **Perception** +8; low-light vision
-**Skills** [[Acrobatics]] +6, [[Stealth]] +6
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +6, [[DATABASE/skill/Stealth|Stealth]] +6
 **Str** -4, **Dex** +2, **Con** -2, **Int** -4, **Wis** +1, **Cha** +1
 
 ---
@@ -82,4 +82,4 @@ Female tabby cat
 
 ---
 **Speed** 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> bite +6 [+1/-4] (finesse, nonlethal), **Effect** 1 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +6 [+2/-2] (agile, finesse, nonlethal), **Effect** 1 slashing</span><span class="in-box-ability">**Get Underfoot** <span class="action-icon">1</span> Masu Strides up to half her Speed, moving through one or more space occupied by allied creatures, rubbing against and around legs and feet. Each creature whose space Masu moves through is [[Clumsy]] for 1 round.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> bite +6 [+1/-4] (finesse, nonlethal), **Effect** 1 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +6 [+2/-2] (agile, finesse, nonlethal), **Effect** 1 slashing</span><span class="in-box-ability">**Get Underfoot** <span class="action-icon">1</span> Masu Strides up to half her Speed, moving through one or more space occupied by allied creatures, rubbing against and around legs and feet. Each creature whose space Masu moves through is [[DATABASE/condition/Clumsy|clumsy 1]] for 1 round.</span>

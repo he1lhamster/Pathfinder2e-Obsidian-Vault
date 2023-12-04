@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Knight Vigilant|Knight Vigilant]] ; [[DATABASE/fe
   Block|Shield Block]] ; Master in [[DATABASE/skill/Religion|Religion]]'
 rarity: Common
 requirement: You are wielding a shield.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 subcategory: null
@@ -24,17 +25,17 @@ type: Feat
 # Aegis of Arnisant <span class="action-icon">2</span> <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Character Guide]] 
-**Archetype** [[Knight Vigilant]]
-**Prerequisites** [[Knight Vigilant]]; [[Shield Block]]; master in [[Religion]]
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
+**Archetype** [[DATABASE/archetype/Knight Vigilant|Knight Vigilant]]
+**Prerequisites** [[DATABASE/feat/Knight Vigilant|Knight Vigilant]]; [[DATABASE/feat/Shield Block|Shield Block]]; master in [[DATABASE/skill/Religion|Religion]]
 **Requirements** You are wielding a shield.
 
 ---
 Inspired by the tale of Arnisant, you transform your shield into a magic ward. Until the beginning of your next turn, you gain the following reaction:
 
-### [[Absorb into the Aegis]] <span class="action-icon">5</span>
+### [[DATABASE/action/Absorb into the Aegis|Absorb into the Aegis]] <span class="action-icon">5</span>
 
-**Source** [[Character Guide]] 
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
 **Trigger** An enemy casts a spell that targets you or an ally within 15 feet of you
 
 ---

@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: '+5'
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: Large
@@ -52,7 +53,7 @@ weapon_type: null
 ---
 # Chalk<span class="item-type">Item 0</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 1 cp (10 pieces)
 **Hands** 1; **Bulk** —
 

@@ -72,20 +72,20 @@ wisdom: '+2'
 # Reth
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 33
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 33
 **Unspecific Lore**: DC 31
 **Specific Lore**: DC 28
 
 # Reth<span class="item-type">Creature 7</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Humanoid</span><span class="item-trait">Lizardfolk</span>
-**Source** [[Pathfinder 170. Spoken on the Song Wind]]
-Male [[Lizardfolk]] gang leader
+**Source** [[DATABASE/source/Pathfinder 170. Spoken on the Song Wind|Pathfinder #170: Spoken on the Song Wind]]
+Male [[DATABASE/ancestry/Lizardfolk|lizardfolk]] gang leader
 **Perception** +13
-**Languages** [[Common]], [[Draconic]], [[Iruxi]]
-**Skills** [[Acrobatics]] +15, [[Intimidation]] +15, [[Society]] +12, [[Stealth]] +15, [[Survival]] +13, [[Thievery]] +15
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Iruxi|Iruxi]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +15, [[DATABASE/skill/Intimidation|Intimidation]] +15, [[DATABASE/skill/Society|Society]] +12, [[DATABASE/skill/Stealth|Stealth]] +15, [[DATABASE/skill/Survival|Survival]] +13, [[DATABASE/skill/Thievery|Thievery]] +15
 **Str** +3, **Dex** +4, **Con** +1, **Int** +1, **Wis** +2, **Cha** +2
-**Items** _+1 [[Hand Crossbow]]_ (10 bolts), keyring, [[Leather Armor]], [[Thieves' Tools]]
+**Items** _+1 [[DATABASE/weapon/Hand Crossbow|hand crossbow]]_ (10 bolts), keyring, [[DATABASE/armor/Leather Armor|leather armor]], [[DATABASE/equipment/Thieves' Tools|thieves' tools]]
 
 ---
 **AC** 25; **Fort** +14, **Ref** +17, **Will** +11

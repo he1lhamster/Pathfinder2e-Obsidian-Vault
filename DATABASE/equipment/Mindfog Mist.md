@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: DC 35 Fortitude
 school: null
 size: null
@@ -56,11 +57,11 @@ weapon_type: null
 # Mindfog Mist<span class="item-type">Item 15</span>
 
 <span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Inhaled</span><span class="item-trait">Poison</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 1,000 gp
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
 ---
 Mindfog mist can be used to undermine spellcasters, as its effect on a victim's mental faculties are swift and powerful.
-**Saving Throw** DC 35 Fortitude; **Onset** 1 round; **Maximum Duration** 6 rounds; **Stage 1** [[Stupefied]] (1 round); **Stage 2** [[Confused]] and stupefied 3 (1 round); **Stage 3** confused and stupefied 4 (1 round)
+**Saving Throw** DC 35 Fortitude; **Onset** 1 round; **Maximum Duration** 6 rounds; **Stage 1** [[DATABASE/condition/Stupefied|stupefied 2]] (1 round); **Stage 2** [[DATABASE/condition/Confused|confused]] and stupefied 3 (1 round); **Stage 3** confused and stupefied 4 (1 round)

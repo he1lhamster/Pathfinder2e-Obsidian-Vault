@@ -11,6 +11,7 @@ name: Kip Up
 prerequisite: Master in [[DATABASE/skill/Acrobatics|Acrobatics]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: acrobatics
@@ -24,8 +25,8 @@ type: Feat
 # Kip Up <span class="action-icon">4</span> <span class="item-type">Feat 7</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** master in [[Acrobatics]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** master in [[DATABASE/skill/Acrobatics|Acrobatics]]
 
 ---
 You stand up. This movement doesn’t trigger reactions.

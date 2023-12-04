@@ -96,23 +96,23 @@ wisdom: '+7'
 # Aiudara Wraith
 
 Dahak’s influence in Alseta’s Landing created a soul-draining effect that slays unprotected creatures within, transforming them into ghostly creatures known as aiudara wraiths, but these rare undead can rise within modern _aiudara _portals as well. Each time an individual travels through an _aiudara_, there’s a chance their passage could leave a faint imprint of their subconscious in the network. Normally this imprint simply fades away, but when an _aiudara _is damaged or the individual is suffering from necromantic contagions, these imprints can accumulate and, in time, coalesce on the Astral Plane or within Alseta’s Landing as a full-fledged aiudara wraith. The wraith is forced to live with an incomplete sense of self, always seeking its own memories and swiftly growing violent and vengeful as its quest to reclaim these ephemeral notions constantly meets with failure.
-**Recall Knowledge - Astral ([[Occultism]])**: DC 43
-**Recall Knowledge - Undead ([[Religion]])**: DC 43
+**Recall Knowledge - Astral ([[DATABASE/skill/Occultism|Occultism]])**: DC 43
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 43
 **Unspecific Lore**: DC 41
 **Specific Lore**: DC 38
 
 # Aiudara Wraith<span class="item-type">Creature 18</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Astral</span><span class="item-trait">Incorporeal</span><span class="item-trait">Undead</span><span class="item-trait">Wraith</span>
-**Source** [[Pathfinder 150. Broken Promises]]
+**Source** [[DATABASE/source/Pathfinder 150. Broken Promises|Pathfinder #150: Broken Promises]]
 **Perception** +33; darkvision, lifesense 60 feet
-**Languages** [[Common]], [[Elven]], [[Necril]]
-**Skills** [[Acrobatics]] +35, [[Arcana]] +31, [[Stealth]] +35
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Elven|Elven]], [[DATABASE/language/Necril|Necril]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +35, [[DATABASE/skill/Arcana|Arcana]] +31, [[DATABASE/skill/Stealth|Stealth]] +35
 **Str** -5, **Dex** +9, **Con** +5, **Int** +0, **Wis** +7, **Cha** +8
 
 ---
 **AC** 45; **Fort** +33, **Ref** +37, **Will** +33
-**HP** 300 ([[Negative Healing]]); **Immunities** death effects, disease, paralyzed, poison, precision, unconscious; **Resistances** all damage 15 (except force, _ghost touch_, or positive; double resistance vs. non-magical)
+**HP** 300 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects, disease, paralyzed, poison, precision, unconscious; **Resistances** all damage 15 (except force, _ghost touch_, or positive; double resistance vs. non-magical)
 <span class="in-box-ability">**Teleportation Attachment** <span class="action-icon">5</span> (conjuration, teleportation) **Trigger** A creature within 60 feet uses a teleportation effect; **Effect** The aiudara wraith teleports with the creature, arriving in an empty space of its choice adjacent to the triggering creature’s destination. If the triggering effect targets multiple creatures, the aiudara wraith chooses which creature it arrives beside.</span>
 
 ---
@@ -121,7 +121,7 @@ Dahak’s influence in Alseta’s Landing created a soul-draining effect that sl
  **Critical Success** The creature is unaffected and becomes temporarily immune to dimensional shunt for 1 minute.
  **Success** The creature is pushed 5 feet in a random direction.
  **Failure** The creature is teleported 20 feet in a direction of the aiudara wraith’s choice.
- **Critical Failure** As failure, but the creature is also [[Stunned]].</span><span class="in-box-ability">**Drain Life** (arcane, necromancy) When an aiudara wraith damages a living creature with its spectral hand Strike, the aiudara wraith gains 18 temporary Hit Points and the target must succeed at a DC 40 Fortitude save or become [[Drained]] and [[Stupefied]] as long as it is drained. Further damage dealt by the aiudara wraith’s spectral hand Strikes increases the value of the [[Drained]] and [[Stupefied]] conditions by 1 each on a failed save, to a maximum of 10 for both.</span><span class="in-box-ability">**Instantaneous Movement** (arcane, conjuration, teleportation) An aiudara wraith moves by means of localized teleportation. An aiudara wraith’s Stride does not have the move trait. When an aiudara wraith Strides, it reaches its destination within the range of its Speed immediately.</span>
+ **Critical Failure** As failure, but the creature is also [[DATABASE/condition/Stunned|stunned 2]].</span><span class="in-box-ability">**Drain Life** (arcane, necromancy) When an aiudara wraith damages a living creature with its spectral hand Strike, the aiudara wraith gains 18 temporary Hit Points and the target must succeed at a DC 40 Fortitude save or become [[DATABASE/condition/Drained|drained 1]] and [[DATABASE/condition/Stupefied|stupefied 1]] as long as it is drained. Further damage dealt by the aiudara wraith’s spectral hand Strikes increases the value of the [[DATABASE/condition/Drained|drained]] and [[DATABASE/condition/Stupefied|stupefied]] conditions by 1 each on a failed save, to a maximum of 10 for both.</span><span class="in-box-ability">**Instantaneous Movement** (arcane, conjuration, teleportation) An aiudara wraith moves by means of localized teleportation. An aiudara wraith’s Stride does not have the move trait. When an aiudara wraith Strides, it reaches its destination within the range of its Speed immediately.</span>
 
 ###  Draining Memories
 

@@ -2,6 +2,7 @@
 id: '50'
 name: Strix
 rarity: Uncommon
+rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 147. Tomorrow Must Burn|Pathfinder #147: Tomorrow
   Must Burn]]'
 trait:
@@ -11,13 +12,13 @@ type: Language
 ---
 # Strix
 
-**Source** [[Pathfinder 147. Tomorrow Must Burn]]
+**Source** [[DATABASE/source/Pathfinder 147. Tomorrow Must Burn|Pathfinder #147: Tomorrow Must Burn]]
 The below entries contain speakers of Strix.
 
 ## Ancestries (1)
 
-[[Strix]]
+[[DATABASE/ancestry/Strix|Strix]]
 
 ## Monsters (2)
 
-[[Remnant of Barzillai]], [[Strix Kinmate]]
+[[DATABASE/monster/Remnant of Barzillai|Remnant of Barzillai]], [[DATABASE/monster/Strix Kinmate|Strix Kinmate]]

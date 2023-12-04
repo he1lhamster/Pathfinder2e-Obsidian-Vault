@@ -11,6 +11,7 @@ name: Reptile Speaker
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Reptile Speaker <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Lizardfolk</span>
-**Source** [[Character Guide]]
+**Source** [[DATABASE/source/Character Guide|Character Guide]]
 
 ---
-You hear the sounds of reptiles as language. You can ask questions of, receive answers from, and use the [[Diplomacy]] skill with animals that are reptiles (the GM determines which animals count as reptiles).
+You hear the sounds of reptiles as language. You can ask questions of, receive answers from, and use the [[DATABASE/skill/Diplomacy|Diplomacy]] skill with animals that are reptiles (the GM determines which animals count as reptiles).
 
 ## Traits
 

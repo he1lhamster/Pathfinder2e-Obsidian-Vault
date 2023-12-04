@@ -68,16 +68,16 @@ wisdom: '+1'
 # Giant Silverfish
 
 Some silverfish can grow as large as a pig, particularly in magic colleges and ancient vault-libraries, where they terrify hapless students and destroy precious tomes. Popular academic lore attributes their unusual size to a steady diet of spellbooks.
-**Recall Knowledge - Animal ([[Nature]])**: DC 16
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
 # Giant Silverfish<span class="item-type">Creature 0</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Small</span><span class="item-trait">Animal</span>
-**Source** [[Pathfinder 169. Kindled Magic]]
-**Perception** +8; [[Darkvision]]
-**Skills** [[Acrobatics]] +6, [[Athletics]] +4, [[Stealth]] +6
+**Source** [[DATABASE/source/Pathfinder 169. Kindled Magic|Pathfinder #169: Kindled Magic]]
+**Perception** +8; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +6, [[DATABASE/skill/Athletics|Athletics]] +4, [[DATABASE/skill/Stealth|Stealth]] +6
 **Str** +2, **Dex** +4, **Con** +1, **Int** -5, **Wis** +1, **Cha** -2
 
 ---

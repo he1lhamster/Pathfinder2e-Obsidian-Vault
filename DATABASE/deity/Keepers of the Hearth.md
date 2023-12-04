@@ -24,6 +24,7 @@ follower_alignment:
 id: '248'
 name: Keepers of the Hearth
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Society|Society]]'
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
@@ -33,8 +34,8 @@ type: Deity
 ---
 # Keepers of the Hearth [NG]
 
-**Source** [[Knights of Lastwall]]
-Through art and tales from the continent of Arcadia, the goddess [[Kazutal]] (Mother Jaguar) is becoming increasingly popular in the Inner Sea Region due to her devotion to defending and providing for those in need, as well as fostering a powerful sense of community. Joined by [[Milani]] (The Everbloom), who opposes oppression in all forms and seeks to help those unable to protect themselves, and by [[Iomedae]] (The Inheritor) who values fighting for justice, the Keepers of the Hearth stress the importance of defending the weak and defenseless in any community, especially those unwillingly subjugated or taken advantage of. Keepers not only protect those weaker than themselves but also do their best to teach the skills necessary for a community to defend and provide for itself. Many of those most devoted to the aspect of training and teaching self-defense also look to [[Irori]] (Master of Masters) for guidance and motivation as part of their faith.
+**Source** [[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]
+Through art and tales from the continent of Arcadia, the goddess [[DATABASE/deity/Kazutal|Kazutal]] (Mother Jaguar) is becoming increasingly popular in the Inner Sea Region due to her devotion to defending and providing for those in need, as well as fostering a powerful sense of community. Joined by [[DATABASE/deity/Milani|Milani]] (The Everbloom), who opposes oppression in all forms and seeks to help those unable to protect themselves, and by [[DATABASE/deity/Iomedae|Iomedae]] (The Inheritor) who values fighting for justice, the Keepers of the Hearth stress the importance of defending the weak and defenseless in any community, especially those unwillingly subjugated or taken advantage of. Keepers not only protect those weaker than themselves but also do their best to teach the skills necessary for a community to defend and provide for itself. Many of those most devoted to the aspect of training and teaching self-defense also look to [[DATABASE/deity/Irori|Irori]] (Master of Masters) for guidance and motivation as part of their faith.
 **Category** Pantheons
 **Edicts** protect those in need of help, stand up to bullies, teach communities to defend themselves
 **Anathema** prey on the weak, abuse power, sow discord in a community
@@ -43,9 +44,9 @@ Through art and tales from the continent of Arcadia, the goddess [[Kazutal]] (Mo
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Strength or Wisdom
-**Divine Font** _[[Heal]]_
-**Divine Skill** [[Society]]
-**Favored Weapon** [[Light Hammer]]
-**Domains** [[Family Domain]], [[Freedom Domain]], [[Might Domain]], [[Protection Domain]]
-**Cleric Spells** 1st: _[[Mage Armor]]_, 2nd: _[[Enlarge]]_, 4th: _[[Stoneskin]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Strength or Wisdom
+**Divine Font** _[[DATABASE/spell/Heal|heal]]_
+**Divine Skill** [[DATABASE/skill/Society|Society]]
+**Favored Weapon** [[DATABASE/weapon/Light Hammer|light hammer]]
+**Domains** [[DATABASE/domain/Family Domain|family]], [[DATABASE/domain/Freedom Domain|freedom]], [[DATABASE/domain/Might Domain|might]], [[DATABASE/domain/Protection Domain|protection]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Mage Armor|mage armor]]_, 2nd: _[[DATABASE/spell/Enlarge|enlarge]]_, 4th: _[[DATABASE/spell/Stoneskin|stoneskin]]_

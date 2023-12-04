@@ -2,6 +2,7 @@
 id: '463'
 name: Ratajin
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Tomorrow''s Feast|Tomorrow''s Feast]]'
 trait:
 - Ratajin
@@ -10,9 +11,8 @@ type: Trait
 ---
 # Ratajin
 
-**Source** [[Tomorrow's Feast]]
-_Note from Nethys: no description was provided for this trait_
+**Source** [[DATABASE/source/Tomorrow's Feast|Tomorrow's Feast]]
 
 ## Monsters
 
-[[Ratajin]]
+[[DATABASE/monster/Ratajin|Ratajin Mastermind]]

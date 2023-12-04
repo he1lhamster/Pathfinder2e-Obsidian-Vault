@@ -11,6 +11,7 @@ name: Flexible Spellcaster Dedication
 prerequisite: flexible spell preparation
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -25,8 +26,8 @@ type: Feat
 # Flexible Spellcaster Dedication <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Class</span><span class="item-trait">Dedication</span>
-**Source** [[Secrets of Magic]] 
-**Archetype** [[Flexible Spellcaster]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
+**Archetype** [[DATABASE/archetype/Flexible Spellcaster|Flexible Spellcaster]]
 **Prerequisites** flexible spell preparation
 
 ---

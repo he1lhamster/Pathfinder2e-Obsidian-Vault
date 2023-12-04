@@ -11,6 +11,7 @@ name: Felicitous Riposte
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Felicitous Riposte <span class="item-type">Feat 16</span>
 
 <span class="item-trait">Fortune</span><span class="item-trait">Swashbuckler</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
 You take advantage of your foe's openings with uncanny odds. When you make an Opportune Riposte, roll twice on the attack roll and take the better result.

@@ -11,6 +11,7 @@ name: Storming Breath
 prerequisite: null
 rarity: Rare
 requirement: null
+rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Gatewalkers Player''s Guide|Gatewalkers Player''s Guide]]'
 subcategory: null
@@ -26,12 +27,12 @@ type: Feat
 # Storming Breath <span class="action-icon">2</span> <span class="item-type">Feat 6</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Deviant</span><span class="item-trait">Evocation</span><span class="item-trait">Magical</span>
-**Source** [[Gatewalkers Player's Guide]], [[Dark Archive]]
+**Source** [[DATABASE/source/Gatewalkers Player's Guide|Gatewalkers Player's Guide]], [[DATABASE/source/Dark Archive|Dark Archive]]
 
 ---
 You spit out a freezing breath or sonic scream. You deal 4d6 damage, plus 1d6 damage for every level you have beyond 6th, to all creatures in a 30-foot cone, with a basic Reflex save.
-**Awakening** Your blast powerfully batters your foes. A creature that critically fails its save is knocked [[Prone]].
-**Awakening** The kickback of your blast helps you make a speedy escape. When you use this ability, you [[Fly]] backward 15 feet in a straight line directly opposite your blast. This movement doesn't trigger reactions based on movement.
+**Awakening** Your blast powerfully batters your foes. A creature that critically fails its save is knocked [[DATABASE/condition/Prone|prone]].
+**Awakening** The kickback of your blast helps you make a speedy escape. When you use this ability, you [[DATABASE/action/Fly|Fly]] backward 15 feet in a straight line directly opposite your blast. This movement doesn't trigger reactions based on movement.
 
 ## Traits
 
@@ -50,4 +51,4 @@ Something with the magical trait is imbued with magical energies not tied to a s
 
 **Rare:**
 
-This rarity indicates that a rules element is very difficult to find in the game world. A rare feat, spell, item or the like is available to players only if the GM decides to include it in the game, typically through discovery during play. Creatures with this trait are rare. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creatures is increased by 5.
+This rarity indicates that a rules element is very difficult to find in the game world. A rare feat, spell, item or the like is available to players only if the GM decides to include it in the game, typically through discovery during play. Creatures with this trait are rare. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creatures is increased by 5.

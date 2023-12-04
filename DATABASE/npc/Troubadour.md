@@ -81,20 +81,20 @@ wisdom: '+1'
 # Troubadour
 
 Troubadours keep alive the traditional songs of their cultural and write original works to commemorate major events.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 18
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Troubadour<span class="item-type">Creature 3</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Perception** +8
-**Languages** [[Common]]
-**Skills** [[Acrobatics]] +8, [[Deception]] +9, [[Diplomacy]] +9, [[Occultism]] +7, [[Performance]] +13 (+14 when playing the lute), [[Society]] +7, [[Stealth]] +8, [[Lore]] +9
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +8, [[DATABASE/skill/Deception|Deception]] +9, [[DATABASE/skill/Diplomacy|Diplomacy]] +9, [[DATABASE/skill/Occultism|Occultism]] +7, [[DATABASE/skill/Performance|Performance]] +13 (+14 when playing the lute), [[DATABASE/skill/Society|Society]] +7, [[DATABASE/skill/Stealth|Stealth]] +8, [[DATABASE/skill/Lore|Theater Lore]] +9
 **Str** +0, **Dex** +3, **Con** +0, **Int** +2, **Wis** +1, **Cha** +4
-**Bardic Lore** The troubadour can [[Recall Knowledge]] on any subject with a +7 modifier.
-**Items** [[Crossbow]], [[Leather Armor]], [[Musical Instrument]], poetry book, [[Rapier]]
+**Bardic Lore** The troubadour can [[DATABASE/action/Recall Knowledge|Recall Knowledge]] on any subject with a +7 modifier.
+**Items** [[DATABASE/weapon/Crossbow|crossbow (10 bolts)]], [[DATABASE/armor/Leather Armor|leather armor]], [[DATABASE/equipment/Musical Instrument|lute]], poetry book, [[DATABASE/weapon/Rapier|rapier]]
 
 ---
 **AC** 19; **Fort** +5, **Ref** +10, **Will** +8
@@ -102,5 +102,5 @@ Troubadours keep alive the traditional songs of their cultural and write origina
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> rapier +12 [+7/+2] (deadly 1d8, disarm, finesse), **Damage** 1d6+3 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> crossbow +12 [+7/+2] (range increment 120 feet, reload 1), **Damage** 1d8+3 piercing</span>**Occult Spontaneous Spells** DC 21; **2nd** _[[Calm Emotions]]_, _[[Charm]]_, _[[Magic Mouth]]_ (2 slots); **1st** _[[Charm]]_, _[[Illusory Disguise]]_, _[[Soothe]]_, _[[Ventriloquism]]_ (3 slots); **Cantrips** **(2nd)** _[[Detect Magic]]_, _[[Ghost Sound]]_, _[[Message]]_, _[[Prestidigitation]]_, _[[Read Aura]]_
-**Bard Composition Spells** DC 21, 2 Focus Points; **2nd** _[[Counter Performance]]_, _[[Lingering Composition]]_; **Cantrips** **(2nd)** _[[Inspire Courage]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> rapier +12 [+7/+2] (deadly 1d8, disarm, finesse), **Damage** 1d6+3 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> crossbow +12 [+7/+2] (range increment 120 feet, reload 1), **Damage** 1d8+3 piercing</span>**Occult Spontaneous Spells** DC 21; **2nd** _[[DATABASE/spell/Calm Emotions|calm emotions]]_, _[[DATABASE/spell/Charm|charm]]_, _[[DATABASE/spell/Magic Mouth|magic mouth]]_ (2 slots); **1st** _[[DATABASE/spell/Charm|charm]]_, _[[DATABASE/spell/Illusory Disguise|illusory disguise]]_, _[[DATABASE/spell/Soothe|soothe]]_, _[[DATABASE/spell/Ventriloquism|ventriloquism]]_ (3 slots); **Cantrips** **(2nd)** _[[DATABASE/spell/Detect Magic|detect magic]]_, _[[DATABASE/spell/Ghost Sound|ghost sound]]_, _[[DATABASE/spell/Message|message]]_, _[[DATABASE/spell/Prestidigitation|prestidigitation]]_, _[[DATABASE/spell/Read Aura|read aura]]_
+**Bard Composition Spells** DC 21, 2 Focus Points; **2nd** _[[DATABASE/spell/Counter Performance|counter performance]]_, _[[DATABASE/spell/Lingering Composition|lingering composition]]_; **Cantrips** **(2nd)** _[[DATABASE/spell/Inspire Courage|inspire courage]]_

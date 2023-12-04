@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 size: null
@@ -59,10 +60,10 @@ weapon_type: null
 # Animal-Turning Fulu<span class="item-type">Item 1</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Abjuration</span><span class="item-trait">Consumable</span><span class="item-trait">Fulu</span><span class="item-trait">Magical</span><span class="item-trait">Talisman</span>
-**Source** [[Pathfinder 196. The Summer That Never Was]]
+**Source** [[DATABASE/source/Pathfinder 196. The Summer That Never Was|Pathfinder #196: The Summer That Never Was]]
 **Price** 4 gp
 **Usage** affixed to armor; **Bulk** —
 **Activate** <span class="action-icon">5</span> envision **Trigger** A creature with the animal trait successfully Strikes you.
 
 ---
-Frightened animals depicted on this fulu flee in all directions from a central figure (traditionally represented by a human hunter, but sometimes depicted as a skeletal undead creature or even a fiend with long, broken arms). You activate this fulu, gaining a +2 item bonus to AC against the triggering Strike. If this causes the Strike to miss, you become [[Concealed]] from the triggering creature until the start of your next turn.
+Frightened animals depicted on this fulu flee in all directions from a central figure (traditionally represented by a human hunter, but sometimes depicted as a skeletal undead creature or even a fiend with long, broken arms). You activate this fulu, gaining a +2 item bonus to AC against the triggering Strike. If this causes the Strike to miss, you become [[DATABASE/condition/Concealed|concealed]] from the triggering creature until the start of your next turn.

@@ -3,6 +3,7 @@ creature_family: Elephant
 id: '46'
 name: Elephant
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Elephant
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Immediately recognizable by their long, prehensile trunks and impressive tusks, elephants have different characteristics depending on where they are found. Elephants are used as beasts of burden in many regions, but they are extremely clever and must be handled with great care.
 
 ### Members
 
-[[Anancus]] (Creature 8), [[Elephant]] (Creature 7), [[Mammoth]] (Creature 10), [[Mastodon]] (Creature 9)
+[[DATABASE/monster/Anancus|Anancus]] (Creature 8), [[DATABASE/monster/Elephant|Elephant]] (Creature 7), [[DATABASE/monster/Mammoth|Mammoth]] (Creature 10), [[DATABASE/monster/Mastodon|Mastodon]] (Creature 9)
 
 ###  Elephant Resources
 

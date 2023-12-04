@@ -74,23 +74,23 @@ wisdom: '+0'
 # Crawling Hand
 
 A crawling hand formed from the appendage of a Medium creature is quick and agile, skittering in the shadows until it can strike its prey.
-**Recall Knowledge - Undead ([[Religion]])**: DC 13
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 13
 **Unspecific Lore**: DC 11
 **Specific Lore**: DC 8
 
 # Crawling Hand<span class="item-type">Creature -1</span>
 
 <span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Tiny</span><span class="item-trait">Undead</span>
-**Source** [[Bestiary 2]] 
-**Perception** +5; [[Lifesense]], [[Tremorsense]]
-**Languages** [[Common]]; can't speak any language
-**Skills** [[Athletics]] +5, [[Stealth]] +6, [[Survival]] +2
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +5; [[DATABASE/monsterability/Lifesense|lifesense 30 feet]], [[DATABASE/monsterability/Tremorsense|tremorsense (imprecise) 30 feet]]
+**Languages** [[DATABASE/language/Common|Common]]; can't speak any language
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +5, [[DATABASE/skill/Stealth|Stealth]] +6, [[DATABASE/skill/Survival|Survival]] +2
 **Str** +1, **Dex** +3, **Con** +0, **Int** -4, **Wis** +0, **Cha** +0
 
 ---
 **AC** 12; **Fort** +2, **Ref** +5, **Will** +2
-**HP** 8 ([[Negative Healing]]); **Immunities** death effects, disease, [[Paralyzed]], poison, [[Unconscious]], visual
+**HP** 8 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects, disease, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Unconscious|unconscious]], visual
 
 ---
 **Speed** 30 feet, climb 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +7 [+3/-1] (agile, finesse), **Damage** 1d4+1 slashing plus [[Grab]]</span><span class="in-box-ability">**Grip Throat** A Medium or smaller creature that is [[Grabbed]] by the crawling hand has difficulty speaking and must spend an extra action to perform any action with the verbal trait.</span><span class="in-box-ability">**Mark Quarry** A crawling hand can be assigned a quarry by anointing the hand with a drop of the intended quarry's blood. If the hand ever has no quarry, it automatically gains the next creature it damages as its quarry. The hand gains a +1 circumstance bonus to Perception checks when it [[Seek]] its quarry, to [[Survival]] checks when it [[Track]] its quarry, and damage rolls when it Strikes its quarry.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +7 [+3/-1] (agile, finesse), **Damage** 1d4+1 slashing plus [[DATABASE/monsterability/Grab|Grab]]</span><span class="in-box-ability">**Grip Throat** A Medium or smaller creature that is [[DATABASE/condition/Grabbed|grabbed]] by the crawling hand has difficulty speaking and must spend an extra action to perform any action with the verbal trait.</span><span class="in-box-ability">**Mark Quarry** A crawling hand can be assigned a quarry by anointing the hand with a drop of the intended quarry's blood. If the hand ever has no quarry, it automatically gains the next creature it damages as its quarry. The hand gains a +1 circumstance bonus to Perception checks when it [[DATABASE/action/Seek|Seeks]] its quarry, to [[DATABASE/skill/Survival|Survival]] checks when it [[DATABASE/action/Track|Tracks]] its quarry, and damage rolls when it Strikes its quarry.</span>

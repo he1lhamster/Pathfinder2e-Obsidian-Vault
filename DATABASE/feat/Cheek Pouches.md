@@ -11,6 +11,7 @@ name: Cheek Pouches
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Cheek Pouches <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Ratfolk</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 PFS Note
 
 ---
@@ -31,7 +32,7 @@ Your cheeks are stretchy, and you can store up to four items of light Bulk or le
 
 ## Cheek Pouches Leads To...
 
-[[Big Mouth]], [[Quick Stow (Ratfolk)]]
+[[DATABASE/feat/Big Mouth|Big Mouth]], [[DATABASE/feat/Quick Stow (Ratfolk)|Quick Stow (Ratfolk)]]
 
 ## Traits
 

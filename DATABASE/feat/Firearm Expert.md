@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Gunslinger Dedication|Gunslinger Dedication]] ; e
   in any kind of weapon orunarmed attack'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Firearm Expert <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Guns & Gears]]
-**Archetype** [[Gunslinger]]
-**Prerequisites** [[Gunslinger Dedication]]; expert in any kind of weapon or unarmed attack
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Archetype** [[DATABASE/archetype/Gunslinger|Gunslinger]]
+**Prerequisites** [[DATABASE/feat/Gunslinger Dedication|Gunslinger Dedication]]; expert in any kind of weapon or unarmed attack
 
 ---
 You've become an expert with your chosen weapons. Your proficiency ranks for simple and martial crossbows and simple and martial firearms increase to expert.

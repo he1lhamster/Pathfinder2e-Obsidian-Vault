@@ -3,6 +3,7 @@ creature_family: Alghollthu
 id: '1'
 name: Alghollthu
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,14 +11,14 @@ type: Creature Family
 ---
 # Alghollthu
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 In bygone millennia, aquatic monsters known as alghollthus used their occult powers to conquer and rule vast parts of the world. Their empires contained countless mortal slaves treated as little more than cattle. Alghollthus shaped their slaves and other creatures using mental manipulation and physically transformative magic. Aberrant horrors from faceless stalkers to mimics can be traced back to this meddling. The rulers of the alghollthu race, the so-called veiled masters, further shaped entire societies by assuming the forms of those they controlled. From the heights of power to the shadows of poverty, the veiled masters manipulated these societies according to their own dark designs, enslaving, killing, or horrifically transforming those who discovered their plans or acted against them.
  In time, the alghollthus grew frustrated with their increasingly upstart slave societies and sought to wipe the slate clean—both starting anew and punishing those who had become too willful and rebellious. They used incredible magical power to call forth a cataclysm, hoping to destroy the rebellious societies they’d manipulated. Yet they miscalculated the strength of faith and will to survive of their pawns and slaves, and in time the world and its empires recovered and grew strong once again—this time without alghollthu influence.
  Today, the alghollthus have retreated from their mass-scale manipulation of the surface world, and they have mostly remained within the deep aquatic realms where they still rule without question. Yet they have not abandoned their plots entirely, and the reemergence of servitor races like ugothols points to a frightening possibility—that the alghollthus have turned their hateful eyes to the surface once again.
 
 ### Members
 
-[[Alghollthu Master (Aboleth)]] (Creature 7), [[Faceless Stalker (Ugothol)]] (Creature 4), [[Skum (Ulat-Kini)]] (Creature 2), [[Slime Puppeteer (Ungothol)]] (Creature 6), [[Ulat-Kini Initiate]] (Creature 4), [[Ulat-Kini Mindreaver]] (Creature 7), [[Veiled Master (Vidileth)]] (Creature 14)
+[[DATABASE/monster/Alghollthu Master (Aboleth)|Alghollthu Master]] (Creature 7), [[DATABASE/monster/Faceless Stalker (Ugothol)|Faceless Stalker]] (Creature 4), [[DATABASE/monster/Skum (Ulat-Kini)|Skum]] (Creature 2), [[DATABASE/monster/Slime Puppeteer (Ungothol)|Slime Puppeteer]] (Creature 6), [[DATABASE/monster/Ulat-Kini Initiate|Ulat-Kini Initiate]] (Creature 4), [[DATABASE/monster/Ulat-Kini Mindreaver|Ulat-Kini Mindreaver]] (Creature 7), [[DATABASE/monster/Veiled Master (Vidileth)|Veiled Master]] (Creature 14)
 
 ###  Alghollthu Domains
 

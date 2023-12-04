@@ -11,6 +11,7 @@ name: Eidetic Ear
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Eidetic Ear <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Shisk</span>
-**Source** [[The Mwangi Expanse]]
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]
 
 ---
-You have an amazing memory for sound. You gain the [[Assurance]] feat. With a successful DC 8 flat check, you can accurately recall a sound or a snippet of conversation you heard within the last week. You are memorizing by rote rather than content, and can't use this to cram facts, so this doesn't grant you any extra ability to [[Recall Knowledge]].
+You have an amazing memory for sound. You gain the [[DATABASE/feat/Assurance|Assurance (Performance)]] feat. With a successful DC 8 flat check, you can accurately recall a sound or a snippet of conversation you heard within the last week. You are memorizing by rote rather than content, and can't use this to cram facts, so this doesn't grant you any extra ability to [[DATABASE/action/Recall Knowledge|Recall Knowledge]].
 
 ## Traits
 

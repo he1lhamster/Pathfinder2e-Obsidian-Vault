@@ -12,6 +12,7 @@ prerequisite: Master in [[DATABASE/skill/Survival|Survival]] ; [[DATABASE/feat/F
   Terrain|Favored Terrain]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Terrain Master <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Ranger</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Horizon Walker]]*
-**Prerequisites** master in [[Survival]]; [[Favored Terrain]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Horizon Walker|Horizon Walker]]*
+**Prerequisites** master in [[DATABASE/skill/Survival|Survival]]; [[DATABASE/feat/Favored Terrain|Favored Terrain]]
 * This archetype offers Terrain Master at a different level than displayed here.
 
 ---

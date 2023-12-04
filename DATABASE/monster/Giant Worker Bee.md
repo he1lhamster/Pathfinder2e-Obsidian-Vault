@@ -69,22 +69,22 @@ wisdom: '+1'
 # Giant Worker Bee
 
 Worker bees, exclusively female, exist to feed and defend a hive. They have no qualms about sacrificing their lives when confronting intruders in their territory. Worker bees can fight singly, in small groups, or in swarms of dozens. Giant worker bees inject a venom with their stings, but this venom is rarely dangerous except to people sensitive to it. Other worker bees have no stinger and only bite their enemies.
-**Recall Knowledge - Animal ([[Nature]])**: DC 14
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 14
 **Unspecific Lore**: DC 12
 **Specific Lore**: DC 9
 
 # Giant Worker Bee<span class="item-type">Creature 0</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Animal</span>
-**Source** [[Pathfinder 169. Kindled Magic]]
-**Perception** +5; [[Darkvision]]
-**Skills** [[Acrobatics]] +6, [[Athletics]] +5
+**Source** [[DATABASE/source/Pathfinder 169. Kindled Magic|Pathfinder #169: Kindled Magic]]
+**Perception** +5; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +6, [[DATABASE/skill/Athletics|Athletics]] +5
 **Str** +2, **Dex** +3, **Con** +2, **Int** -5, **Wis** +1, **Cha** -1
 
 ---
 **AC** 16; **Fort** +6, **Ref** +9, **Will** +3
 **HP** 16; **Weaknesses** smoke susceptibility
-<span class="in-box-ability">**Smoke Susceptibility** A giant bee is [[Slowed]] for 1 round if it starts its turn in heavy smoke.</span>
+<span class="in-box-ability">**Smoke Susceptibility** A giant bee is [[DATABASE/condition/Slowed|slowed 1]] for 1 round if it starts its turn in heavy smoke.</span>
 
 ---
 **Speed** 20 feet, fly 40 feet

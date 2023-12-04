@@ -11,6 +11,7 @@ name: Oneiric Influence
 prerequisite: '[[DATABASE/feat/Infiltrate Dream|Infiltrate Dream]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Enchantment
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -27,12 +28,12 @@ type: Feat
 # Oneiric Influence <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Enchantment</span><span class="item-trait">Incapacitation</span><span class="item-trait">Mental</span><span class="item-trait">Occult</span>
-**Source** [[Dark Archive]]
-**Archetype** [[Sleepwalker]]
-**Prerequisites** [[Infiltrate Dream]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Archetype** [[DATABASE/archetype/Sleepwalker|Sleepwalker]]
+**Prerequisites** [[DATABASE/feat/Infiltrate Dream|Infiltrate Dream]]
 
 ---
-While Infiltrating a Dream, you can also implant a suggestion in the target's mind. The target must attempt a Will save against your class DC or spell DC, whichever is higher, to resist your modification, which has the effects of a [[Subconscious Suggestion]] spell, but even on a critical success, the target doesn't realize you were trying to control them and may not recognize your presence in the dream. The suggestion remains in the target's subconscious for 1 week or until triggered. Their memories of carrying out the suggestion are hazy and dreamlike and they may not remember doing it unless later reminded.
+While Infiltrating a Dream, you can also implant a suggestion in the target's mind. The target must attempt a Will save against your class DC or spell DC, whichever is higher, to resist your modification, which has the effects of a [[DATABASE/spell/Subconscious Suggestion|subconscious suggestion]] spell, but even on a critical success, the target doesn't realize you were trying to control them and may not recognize your presence in the dream. The suggestion remains in the target's subconscious for 1 week or until triggered. Their memories of carrying out the suggestion are hazy and dreamlike and they may not remember doing it unless later reminded.
 
 ## Traits
 

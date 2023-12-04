@@ -11,6 +11,7 @@ name: Impossible Flurry
 prerequisite: null
 rarity: Common
 requirement: You are wielding two melee weapons, each in a different hand.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -25,7 +26,7 @@ type: Feat
 # Impossible Flurry <span class="action-icon">3</span> <span class="item-type">Feat 18</span>
 
 <span class="item-trait">Flourish</span><span class="item-trait">Open</span><span class="item-trait">Ranger</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Requirements** You are wielding two melee weapons, each in a different hand.
 
 ---
@@ -33,7 +34,7 @@ You forgo precision to attack at an impossible speed. Make three melee Strikes w
 
 ## Impossible Flurry Leads To...
 
-[[Accurate Flurry]]
+[[DATABASE/feat/Accurate Flurry|Accurate Flurry]]
 
 ## Traits
 

@@ -16,6 +16,7 @@ requirement: "When you make your daily preparations, you must specify a trigger 
   \ of 4th level or lower. The spell can\u2019t have a cost, nor can itscasting time\
   \ be more than 10 minutes. The spell must be able to target a single creature, and\
   \ youmust be a valid target for it."
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -31,7 +32,7 @@ type: Feat
 # Trickster's Ace <span class="action-icon">5</span> <span class="item-type">Feat 18</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Investigator</span><span class="item-trait">Rogue</span>
-**Source** [[Advanced Player's Guide]] , [[Core Rulebook]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] , [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Trigger** You specify the trigger when you make your daily preparations (see Requirements below).
 **Requirements** When you make your daily preparations, you must specify a trigger for this reaction using the same restrictions as the triggers for the Ready action. You also choose a single spell from the arcane, divine, occult, or primal list of 4th level or lower. The spell can’t have a cost, nor can its casting time be more than 10 minutes. The spell must be able to target a single creature, and you must be a valid target for it.
 

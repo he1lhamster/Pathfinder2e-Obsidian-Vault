@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -57,21 +58,21 @@ weapon_type: null
 # Liquid Gold<span class="item-type">Item 6+</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Consumable</span><span class="item-trait">Evocation</span><span class="item-trait">Magical</span><span class="item-trait">Talisman</span>
-**Source** [[Pathfinder 179. Cradle of Quartz]]
+**Source** [[DATABASE/source/Pathfinder 179. Cradle of Quartz|Pathfinder #179: Cradle of Quartz]]
 **Usage** affixed to a one-handed firearm or hand crossbow; **Bulk** —
-**Activate** <span class="action-icon">4</span> Interact **Trigger** You roll for initiative; **Requirements** You're an expert in [[Stealth]].
+**Activate** <span class="action-icon">4</span> Interact **Trigger** You roll for initiative; **Requirements** You're an expert in [[DATABASE/skill/Stealth|Stealth]].
 
 ---
 This glass vial containing liquid gold is fastened to a weapon by a fine gold chain.
 
 ## Liquid Gold<span class="item-type">Item 6</span>
 
-**Source** [[Pathfinder 179. Cradle of Quartz]]
+**Source** [[DATABASE/source/Pathfinder 179. Cradle of Quartz|Pathfinder #179: Cradle of Quartz]]
 **Price** 40 gp
 You draw the attached weapon as a free action instead of as a reaction.
 
 ## Liquid Gold (Greater)<span class="item-type">Item 8</span>
 
-**Source** [[Pathfinder 179. Cradle of Quartz]]
+**Source** [[DATABASE/source/Pathfinder 179. Cradle of Quartz|Pathfinder #179: Cradle of Quartz]]
 **Price** 80 gp
 You load the weapon as you draw it.

@@ -11,6 +11,7 @@ name: Conceal Spell
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -27,7 +28,7 @@ type: Feat
 # Conceal Spell <span class="action-icon">1</span> <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Manipulate</span><span class="item-trait">Metamagic</span><span class="item-trait">Witch</span><span class="item-trait">Wizard</span>
-**Source** [[Advanced Player's Guide]] , [[Core Rulebook]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] , [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
 Hiding your gestures and incantations within other speech and movement, you attempt to conceal the fact that you are Casting a Spell. If the next action you use is to Cast a Spell, attempt a Stealth check against one or more observers’ Perception DCs; if the spell has verbal components, you must also attempt a Deception check against the observers’ Perception DC. If you succeed at your check (or checks) against an observer’s DC, that observer doesn’t notice you’re casting a spell, even though material, somatic, and verbal components are usually noticeable and spells normally have sensory manifestations that would make spellcasting obvious to those nearby.
@@ -35,7 +36,7 @@ Hiding your gestures and incantations within other speech and movement, you atte
 
 ## Conceal Spell Leads To...
 
-[[Silent Spell]]
+[[DATABASE/feat/Silent Spell|Silent Spell]]
 
 ## Traits
 

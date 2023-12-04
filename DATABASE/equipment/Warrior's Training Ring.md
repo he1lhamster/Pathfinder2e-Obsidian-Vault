@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 size: null
@@ -56,7 +57,7 @@ weapon_type: null
 # Warrior's Training Ring<span class="item-type">Item 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Divination</span><span class="item-trait">Invested</span>
-**Source** [[The Fall of Plaguestone]]
+**Source** [[DATABASE/source/The Fall of Plaguestone|The Fall of Plaguestone]]
 **Price** 160 gp
 **Usage** worn; **Bulk** —
 **Activate** <span class="action-icon">4</span> envision **Frequency** once per day; **Trigger** You make an attack with a weapon in which you’re untrained; You gain a +2 circumstance bonus to the attack roll. If you are an expert in any weapon, you instead gain a +4 circumstance bonus to the attack roll.

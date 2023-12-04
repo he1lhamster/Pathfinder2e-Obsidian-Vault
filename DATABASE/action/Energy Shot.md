@@ -7,6 +7,7 @@ id: '923'
 name: Energy Shot
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
@@ -20,7 +21,7 @@ type: Action
 # Energy Shot <span class="action-icon">4</span>
 
 <span class="item-trait">Evocation</span><span class="item-trait">Magical</span><span class="item-trait">Spellshot</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Trigger** You roll initiative.
 
 ---

@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -52,10 +53,10 @@ weapon_type: null
 # Grappling Bolt<span class="item-type">Item 0</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span>
-**Source** [[PFS Guide]]
+**Source** [[DATABASE/source/PFS Guide|PFS Guide]]
 **Price** 2 sp
 **Hands** 1; **Bulk** L
 **Access** Member of the Pathfinder Society.
 
 ---
-This small [[Grappling Hook]] is designed to be tied to a rope and fired from a crossbow. When fired, it has half the normal range increment for the weapon.
+This small [[DATABASE/equipment/Grappling Hook|grappling hook]] is designed to be tied to a rope and fired from a crossbow. When fired, it has half the normal range increment for the weapon.

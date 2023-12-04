@@ -2,6 +2,7 @@
 id: '9'
 name: Orcish
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait: null
 type: Language
@@ -9,20 +10,20 @@ type: Language
 ---
 # Orcish
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 The below entries contain speakers of Orcish.
 
 ## Ancestries (1)
 
-[[Orc]]
+[[DATABASE/ancestry/Orc|Orc]]
 
 ## Monsters (10)
 
-[[Adult Red Dragon]], [[Ancient Black Dragon]], [[Ancient Red Dragon]], [[Ilthuliak]], [[Manifestation Of Dahak]], [[Orc Brute]], [[Orc Warchief]], [[Orc Warrior]], [[Ravener]], [[Warg]]
+[[DATABASE/monster/Adult Red Dragon|Adult Red Dragon]], [[DATABASE/monster/Ancient Black Dragon|Ancient Black Dragon]], [[DATABASE/monster/Ancient Red Dragon|Ancient Red Dragon]], [[DATABASE/monster/Ilthuliak|Ilthuliak]], [[DATABASE/monster/Manifestation Of Dahak|Manifestation Of Dahak]], [[DATABASE/monster/Orc Brute|Orc Brute]], [[DATABASE/monster/Orc Warchief|Orc Warchief]], [[DATABASE/monster/Orc Warrior|Orc Warrior]], [[DATABASE/monster/Ravener|Ravener]], [[DATABASE/monster/Warg|Warg]]
 
 ## NPCs (7)
 
-[[Bloody Blade Mercenary]], [[Butterfly Blade Warrior]], [[Darivan]], [[Narseigus]], [[Urnak Lostwind]], [[Veteran Reclaimer]], [[Voz Lirayne]]
+[[DATABASE/npc/Bloody Blade Mercenary|Bloody Blade Mercenary]], [[DATABASE/npc/Butterfly Blade Warrior|Butterfly Blade Warrior]], [[DATABASE/npc/Darivan|Darivan]], [[DATABASE/npc/Narseigus|Narseigus Wormcaller]], [[DATABASE/npc/Urnak Lostwind|Urnak Lostwind]], [[DATABASE/npc/Veteran Reclaimer|Veteran Reclaimer]], [[DATABASE/npc/Voz Lirayne|Voz Lirayne]]
 
 ## Regions (1)
 

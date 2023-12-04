@@ -95,26 +95,26 @@ wisdom: '+5'
 # Theiltemar
 
 This creature did not include a description.
-**Recall Knowledge - Undead ([[Religion]])**: DC 29
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 29
 **Unspecific Lore**: DC 27
 **Specific Lore**: DC 24
 
 # Theiltemar<span class="item-type">Creature 4</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Skeleton</span><span class="item-trait">Undead</span>
-**Source** [[Rusthenge]]
-Male variant [[Skeleton]]
-**Perception** +13; [[Darkvision]]
-**Languages** [[Abyssal]], [[Infernal]], [[Jotun]], [[Thassilonian]], [[Varisian]]
-**Skills** [[Athletics]] +10, [[Crafting]] +9, [[Intimidation]] +11, [[Occultism]] +11, [[Religion]] +13, [[Stealth]] +10
+**Source** [[DATABASE/source/Rusthenge|Rusthenge]]
+Male variant [[DATABASE/monsterfamily/Skeleton|skeleton]]
+**Perception** +13; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Abyssal|Abyssal]], [[DATABASE/language/Infernal|Infernal]], [[DATABASE/language/Jotun|Jotun]], [[DATABASE/language/Thassilonian|Thassilonian]], [[DATABASE/language/Varisian|Varisian]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +10, [[DATABASE/skill/Crafting|Crafting]] +9, [[DATABASE/skill/Intimidation|Intimidation]] +11, [[DATABASE/skill/Occultism|Occultism]] +11, [[DATABASE/skill/Religion|Religion]] +13, [[DATABASE/skill/Stealth|Stealth]] +10
 **Str** +2, **Dex** +4, **Con** +0, **Int** +3, **Wis** +5, **Cha** +3
-**Items** rusted ([[Broken]]) chain mail
+**Items** rusted ([[DATABASE/condition/Broken|broken]]) chain mail
 
 ---
 **AC** 20; **Fort** +8, **Ref** +10, **Will** +13
-**HP** 50 ([[Negative Healing]]); **Immunities** death effects, disease, [[Paralyzed]], poison, [[Unconscious]]; **Resistances** cold 5, electricity 5, fire 5, piercing 5, slashing 5
-<span class="in-box-ability">**Rusting Death** When Theiltemar is destroyed, his bones explode as the necromantic energy holding him together is released. This shreds his rusted chain mail as well, flinging rusty shards of jagged metal in all directions. Adjacent creatures take 2d6 piercing damage (DC 21 basic Reflex save) and are exposed to [[Rust Creep]]. As his remains settled to the floor, the [[Wall of Force]] blocking area **F14** flickers and fades.</span>
+**HP** 50 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects, disease, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Unconscious|unconscious]]; **Resistances** cold 5, electricity 5, fire 5, piercing 5, slashing 5
+<span class="in-box-ability">**Rusting Death** When Theiltemar is destroyed, his bones explode as the necromantic energy holding him together is released. This shreds his rusted chain mail as well, flinging rusty shards of jagged metal in all directions. Adjacent creatures take 2d6 piercing damage (DC 21 basic Reflex save) and are exposed to [[DATABASE/disease/Rust Creep|rust creep]]. As his remains settled to the floor, the [[DATABASE/spell/Wall of Force|wall of force]] blocking area **F14** flickers and fades.</span>
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +12 [+8/+4] (agile, finesse), **Damage** 2d6+4 slashing</span>**Divine Spontaneous Spells** DC 21, attack +13; **2nd** _[[Blood Vendetta]]_, _[[Darkness]]_, _[[Harm]]_, _[[Sudden Blight]]_ (4 slots); **1st** _[[Bane]]_, _[[Command]]_, _[[Fear]]_, _[[Harm]]_ (4 slots); **Cantrips** **(2nd)** _[[Daze]]_, _[[Divine Lance]]_, _[[Prestidigitation]]_, _[[Read Aura]]_, _[[Shield]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +12 [+8/+4] (agile, finesse), **Damage** 2d6+4 slashing</span>**Divine Spontaneous Spells** DC 21, attack +13; **2nd** _[[DATABASE/spell/Blood Vendetta|blood vendetta]]_, _[[DATABASE/spell/Darkness|darkness]]_, _[[DATABASE/spell/Harm|harm]]_, _[[DATABASE/spell/Sudden Blight|sudden blight]]_ (4 slots); **1st** _[[DATABASE/spell/Bane|bane]]_, _[[DATABASE/spell/Command|command]]_, _[[DATABASE/spell/Fear|fear]]_, _[[DATABASE/spell/Harm|harm]]_ (4 slots); **Cantrips** **(2nd)** _[[DATABASE/spell/Daze|daze]]_, _[[DATABASE/spell/Divine Lance|divine lance]]_, _[[DATABASE/spell/Prestidigitation|prestidigitation]]_, _[[DATABASE/spell/Read Aura|read aura]]_, _[[DATABASE/spell/Shield|shield]]_

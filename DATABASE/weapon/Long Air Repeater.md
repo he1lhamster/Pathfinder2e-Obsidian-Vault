@@ -12,6 +12,7 @@ name: Long Air Repeater
 price: 9 gp
 range: 60 ft.
 rarity: Uncommon
+rus_type_level: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
 - '[[DATABASE/trait/Repeating|Repeating]]'
@@ -25,15 +26,15 @@ weapon_type: Ranged
 # Long Air Repeater
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Repeating</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Access** The following regions have access to firearms: Alkenstar, Dongun Hold, Tian Xia, Vudra, Arcadia, Ustalav, the Shackles
 **Price** 9 gp; **Damage** 1d4 P; **Bulk** 1
 **Hands** 1; **Range** 60 ft.; **Reload** 0
-**Type** Ranged; **Category** Simple; **Group** [[Firearm]]
-**Ammunition** [[Magazine (Long Air Repeater)]]
+**Type** Ranged; **Category** Simple; **Group** [[DATABASE/weapongroup/Firearm|Firearm]]
+**Ammunition** [[DATABASE/weapon/Magazine (Long Air Repeater)|Magazine (Long Air Repeater)]]
 
 ---
-Like the one-handed [[Air Repeater]], this thin-barreled firearm uses a container of pressurized air instead of black powder to propel small metal pellets from an attached cartridge. The long air repeater has better range and ammo capacity than the one-handed variant, though it still lacks significant stopping power. A typical long air repeater magazine holds 8 pellets.
+Like the one-handed [[DATABASE/weapon/Air Repeater|air repeater]], this thin-barreled firearm uses a container of pressurized air instead of black powder to propel small metal pellets from an attached cartridge. The long air repeater has better range and ammo capacity than the one-handed variant, though it still lacks significant stopping power. A typical long air repeater magazine holds 8 pellets.
 
 ## Traits
 
@@ -43,10 +44,10 @@ A repeating weapon is a type of ranged weapon with a shorter reload time. These 
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.
 
 ## Critical Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
-**Firearm**: The target must succeed at a Fortitude save against your class DC or be [[Stunned]].
+**Firearm**: The target must succeed at a Fortitude save against your class DC or be [[DATABASE/condition/Stunned|stunned 1]].

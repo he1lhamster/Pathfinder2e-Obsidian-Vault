@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -55,10 +56,10 @@ weapon_type: null
 # Soothing Scents<span class="item-type">Item 3</span>
 
 <span class="item-trait">Catalyst</span><span class="item-trait">Consumable</span><span class="item-trait">Magical</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Price** 10 gp
 **Usage** held in 1 hand; **Bulk** L
 **Activate** Cast a Spell (add 1 action)
 
 ---
-Performers popularized these bundles of aromatic herbs to calm the mind and ward off misfortune before a big show, though soldier bards have found them especially useful for clearing fear during particularly tumultuous battles. Adding this catalyst to a [[Soothe]] spell also causes the spell to reduce the target's [[Frightened]] condition value by 1.
+Performers popularized these bundles of aromatic herbs to calm the mind and ward off misfortune before a big show, though soldier bards have found them especially useful for clearing fear during particularly tumultuous battles. Adding this catalyst to a [[DATABASE/spell/Soothe|soothe]] spell also causes the spell to reduce the target's [[DATABASE/condition/Frightened|frightened]] condition value by 1.

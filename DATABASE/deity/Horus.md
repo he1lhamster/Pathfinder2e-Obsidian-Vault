@@ -24,6 +24,7 @@ follower_alignment:
 id: '53'
 name: Horus
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Diplomacy|Diplomacy]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -33,7 +34,7 @@ type: Deity
 ---
 # Horus (The Distant Falcon) [LN]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Category** Ancient Osirian Gods
 **Edicts** Protect those you have authority over, maintain harmony in your community
 **Anathema** Undermine a rightful ruler, serve a usurper
@@ -41,9 +42,9 @@ type: Deity
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Strength or Charisma
-**Divine Font** _[[Heal]]_
-**Divine Skill** [[Diplomacy]]
-**Favored Weapon** [[Khopesh]]
-**Domains** [[Air Domain]], [[Moon Domain]], [[Protection Domain]], [[Sun Domain]]
-**Cleric Spells** 1st: _[[Floating Disk]]_, 3rd: _[[Wall of Wind]]_, 4th: _[[Aerial Form]]_ (bird only)
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Strength or Charisma
+**Divine Font** _[[DATABASE/spell/Heal|heal]]_
+**Divine Skill** [[DATABASE/skill/Diplomacy|Diplomacy]]
+**Favored Weapon** [[DATABASE/weapon/Khopesh|khopesh]]
+**Domains** [[DATABASE/domain/Air Domain|air]], [[DATABASE/domain/Moon Domain|moon]], [[DATABASE/domain/Protection Domain|protection]], [[DATABASE/domain/Sun Domain|sun]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Floating Disk|floating disk]]_, 3rd: _[[DATABASE/spell/Wall of Wind|wall of wind]]_, 4th: _[[DATABASE/spell/Aerial Form|aerial form]]_ (bird only)

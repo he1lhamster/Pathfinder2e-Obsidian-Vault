@@ -11,6 +11,7 @@ name: Incredible Luck
 prerequisite: '[[DATABASE/feat/Charmed Life|Charmed Life]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,11 +25,11 @@ type: Feat
 # Incredible Luck <span class="item-type">Feat 18</span>
 
 <span class="item-trait">Fortune</span><span class="item-trait">Swashbuckler</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** [[Charmed Life]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** [[DATABASE/feat/Charmed Life|Charmed Life]]
 
 ---
-You always seem to bounce back from the worst. When you use [[Charmed Life]], roll the save twice (including the +2 circumstance bonus from Charmed Life) and use the better result.
+You always seem to bounce back from the worst. When you use [[DATABASE/feat/Charmed Life|Charmed Life]], roll the save twice (including the +2 circumstance bonus from Charmed Life) and use the better result.
 
 ## Traits
 

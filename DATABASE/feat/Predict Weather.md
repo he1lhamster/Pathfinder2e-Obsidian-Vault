@@ -11,6 +11,7 @@ name: Predict Weather
 prerequisite: Trained in [[DATABASE/skill/Survival|Survival]]
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 subcategory: survival
@@ -26,8 +27,8 @@ type: Feat
 # Predict Weather <span class="item-type">Feat 2</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">General</span><span class="item-trait">Secret</span><span class="item-trait">Skill</span>
-**Source** [[Kingmaker Companion Guide]]
-**Prerequisites** trained in [[Survival]]
+**Source** [[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]
+**Prerequisites** trained in [[DATABASE/skill/Survival|Survival]]
 
 ---
 By observing often subtle indicators in the environment, you may try to predict the day's weather. Spend 10 minutes outdoors then attempt a DC 20 Survival check. (This check is reduced to DC 15 if you have a commanding view of the region, but increases to 30 if conditions are poor, such as attempting to predict weather with impaired visibility). 
@@ -52,4 +53,4 @@ A general feat with the skill trait improves your skills and their actions or gi
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.

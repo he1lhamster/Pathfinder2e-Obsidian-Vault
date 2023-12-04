@@ -11,6 +11,7 @@ name: Predator's Pounce
 prerequisite: '[[DATABASE/barbarianinstinct/Animal Instinct|animal instinct]]'
 rarity: Common
 requirement: You are unarmored or wearing light armor.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -26,8 +27,8 @@ type: Feat
 # Predator's Pounce <span class="action-icon">1</span> <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Barbarian</span><span class="item-trait">Flourish</span><span class="item-trait">Open</span><span class="item-trait">Rage</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Animal Instinct]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/barbarianinstinct/Animal Instinct|animal instinct]]
 **Requirements** You are unarmored or wearing light armor.
 
 ---

@@ -97,19 +97,19 @@ wisdom: '+2'
 
 These strange, fey felines resemble large, broad bobcats from a distance, but a closer view reveals something amiss. Their forms ripple and billow with heat, and their eyes glow from within as if they contain tiny, flickering flames. The pungent scent of rotting leaves smoldering in a bonfire clings to their fur. Yet those who have the chance to watch elananxes hunt or attack prey witness the greatest indication that these creatures are something more than mere predators, for they act with cruel and savvy instincts, reveling in the pain they infiict.
  Elananxes typically hunt alone, but sometimes these cunning and malicious hunters of the First World roam in packs called “billows” to take down large prey. Like many house cats, elananxes are not content to merely track and devour prey, but prefer to toy with their victims, drawing joy and excitement from the fear and pain of those they capture. To this end, elananxes rarely use their cinder dispersal ability to evade their targets, instead opting to foil their quarry just before the end of the hunt—though, as selfish creatures who wish to live to hunt again, elananxes often reserve one use of this ability, just in case.
- Because of their clever and malicious ways, elananxes are favored as hunting companions by [[Redcap]], who go out of their way to befriend or make deals with these creatures. Redcaps also flnd great sport in hunts where competing elananxes chase a single creature. Although they’re large enough to serve as mounts for redcaps, elananxes despise being ridden and resist such attempts—little is as sure to cause a supposedly friendly elananx to turn on its redcap ally than a foolhardy attempt to treat the fey cat as a horse!
+ Because of their clever and malicious ways, elananxes are favored as hunting companions by [[DATABASE/monster/Redcap|redcaps]], who go out of their way to befriend or make deals with these creatures. Redcaps also flnd great sport in hunts where competing elananxes chase a single creature. Although they’re large enough to serve as mounts for redcaps, elananxes despise being ridden and resist such attempts—little is as sure to cause a supposedly friendly elananx to turn on its redcap ally than a foolhardy attempt to treat the fey cat as a horse!
  Elananxes have a strange affinity to forest fires. Because they are immune to the damage caused by flickering flames, they enjoy capering and caterwauling through the smoky, burning ruins of forest infernos. Some have even been known to use their burning bites to deliberately light undergrowth on fire, simply so they might experience the beauty of the flames combined with the inevitable pain such disasters inflict on other creatures.
-**Recall Knowledge - Fey ([[Nature]])**: DC 22
+**Recall Knowledge - Fey ([[DATABASE/skill/Nature|Nature]])**: DC 22
 **Unspecific Lore**: DC 20
 **Specific Lore**: DC 17
 
 # Elananx<span class="item-type">Creature 6</span>
 
 <span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Fey</span><span class="item-trait">Fire</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +14; darkvision
-**Languages** [[Sylvan]]; (can’t speak any language)
-**Skills** [[Acrobatics]] +14, [[Athletics]] +14, [[Survival]] +14 (+17 to Track)
+**Languages** [[DATABASE/language/Sylvan|Sylvan]]; (can’t speak any language)
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +14, [[DATABASE/skill/Athletics|Athletics]] +14, [[DATABASE/skill/Survival|Survival]] +14 (+17 to Track)
 **Str** +4, **Dex** +4, **Con** +2, **Int** -3, **Wis** +2, **Cha** -2
 
 ---

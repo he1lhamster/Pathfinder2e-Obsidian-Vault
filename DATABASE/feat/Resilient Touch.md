@@ -11,6 +11,7 @@ name: Resilient Touch
 prerequisite: devotion spell ( [[DATABASE/spell/Lay on Hands|lay on hands]] )
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,13 +24,13 @@ type: Feat
 # Resilient Touch <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Champion</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Blessed One]]*
-**Prerequisites** devotion spell ([[Lay on Hands]])
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Blessed One|Blessed One]]*
+**Prerequisites** devotion spell ([[DATABASE/spell/Lay on Hands|lay on hands]])
 * This archetype offers Resilient Touch at a different level than displayed here.
 
 ---
-Your healing energies create an aura of protection that defends your allies against more than just blades and arrows. An ally that recovers Hit Points from your [[Lay on Hands]] gains a +1 status bonus to their saving throws until the end of their next turn.
+Your healing energies create an aura of protection that defends your allies against more than just blades and arrows. An ally that recovers Hit Points from your [[DATABASE/spell/Lay on Hands|lay on hands]] gains a +1 status bonus to their saving throws until the end of their next turn.
 
 ## Archetype Use
 

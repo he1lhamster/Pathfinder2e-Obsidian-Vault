@@ -98,17 +98,17 @@ wisdom: '+2'
 Murderous tyrants of marshes, swamps, bogs, and fens, black dragons terrorize their domains with intense fervor. Gleefully sadistic, they rule their fetid principalities from a deep cave or otherwise isolated part of the swamp with a mix of lightning-quick raids and subterfuge. Their hatred for other creatures is as acidic as their breath weapons, and they rarely tolerate even other dragons of their kind—except perhaps to mate or temporarily collaborate to take down a mutual enemy.
  Black dragons are amphibious—although they breathe air, their gills also allow them to breathe water. Their frills and fins make them accomplished swimmers, well suited to their wetland environments and submerged lairs. They’re immune to the fetid water that comes as a result of their magical ability to corrupt water.
  Black dragon lairs are as foul as their souls. The floors are littered with rotting meat, and plundered treasures line the muck and slime of their dank caves amid twisted roots and creepers. Such places are often crawling with pests, snakes, and slimes. Though they claim natural caverns when they can, they make do with areas of dense, twisted vegetation within a swamp. Black dragon treasure hoards primarily consist of gems and expensive glass work, as valuables of softer substance can’t survive the dragon’s acidic presence.
-**Recall Knowledge - Dragon ([[Arcana]])**: DC 23
+**Recall Knowledge - Dragon ([[DATABASE/skill/Arcana|Arcana]])**: DC 23
 **Unspecific Lore**: DC 21
 **Specific Lore**: DC 18
 
 # Young Black Dragon<span class="item-type">Creature 7</span>
 
 <span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Acid</span><span class="item-trait">Amphibious</span><span class="item-trait">Dragon</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +15; darkvision, scent (imprecise) 60 feet
-**Languages** [[Draconic]]
-**Skills** [[Acrobatics]] +14, [[Arcana]] +12, [[Athletics]] +17, [[Deception]] +15, [[Intimidation]] +15, [[Stealth]] +16
+**Languages** [[DATABASE/language/Draconic|Draconic]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +14, [[DATABASE/skill/Arcana|Arcana]] +12, [[DATABASE/skill/Athletics|Athletics]] +17, [[DATABASE/skill/Deception|Deception]] +15, [[DATABASE/skill/Intimidation|Intimidation]] +15, [[DATABASE/skill/Stealth|Stealth]] +16
 **Str** +6, **Dex** +3, **Con** +4, **Int** +1, **Wis** +2, **Cha** +2
 
 ---
@@ -124,4 +124,4 @@ Murderous tyrants of marshes, swamps, bogs, and fens, black dragons terrorize th
 
 Black dragon spellcasters tend to cast the following spells.
 **Young Black Dragon**
-**Arcane Prepared Spells** DC 25, attack +18; **3rd** [[Slow]], [[Stinking Cloud]]; **2nd** [[Blur]], [[Glitterdust]], [[Invisibility]]; **1st** [[Alarm]], [[Ray of Enfeeblement]], [[True Strike]]; **Cantrips (3rd)** [[Dancing Lights]], [[Detect Magic]], [[Prestidigitation]], [[Read Aura]], [[Tanglefoot]]
+**Arcane Prepared Spells** DC 25, attack +18; **3rd** [[DATABASE/spell/Slow|slow]], [[DATABASE/spell/Stinking Cloud|stinking cloud]]; **2nd** [[DATABASE/spell/Blur|blur]], [[DATABASE/spell/Glitterdust|glitterdust]], [[DATABASE/spell/Invisibility|invisibility]]; **1st** [[DATABASE/spell/Alarm|alarm]], [[DATABASE/spell/Ray of Enfeeblement|ray of enfeeblement]], [[DATABASE/spell/True Strike|true strike]]; **Cantrips (3rd)** [[DATABASE/spell/Dancing Lights|dancing lights]], [[DATABASE/spell/Detect Magic|detect magic]], [[DATABASE/spell/Prestidigitation|prestidigitation]], [[DATABASE/spell/Read Aura|read aura]], [[DATABASE/spell/Tanglefoot|tanglefoot]]

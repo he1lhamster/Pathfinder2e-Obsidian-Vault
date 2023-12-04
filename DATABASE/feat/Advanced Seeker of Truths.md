@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Eldritch Researcher Dedication|Eldritch Researche
   Dedication]] ; [[DATABASE/feat/Seeker of Truths|Seeker of Truths]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 164. Hands of the Devil|Pathfinder #164: Hands
   of the Devil]]'
@@ -25,9 +26,9 @@ type: Feat
 # Advanced Seeker of Truths <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Pathfinder 164. Hands of the Devil]]
-**Archetype** [[Eldritch Researcher]]
-**Prerequisites** [[Eldritch Researcher Dedication]]; [[Seeker of Truths]]
+**Source** [[DATABASE/source/Pathfinder 164. Hands of the Devil|Pathfinder #164: Hands of the Devil]]
+**Archetype** [[DATABASE/archetype/Eldritch Researcher|Eldritch Researcher]]
+**Prerequisites** [[DATABASE/feat/Eldritch Researcher Dedication|Eldritch Researcher Dedication]]; [[DATABASE/feat/Seeker of Truths|Seeker of Truths]]
 
 ---
 You have unlocked deeper secrets to uncovering and hoarding lore. You gain an advanced domain spell from one domain you selected with Seeker of Truths. Increase the number of Focus Points in your focus pool by 1.

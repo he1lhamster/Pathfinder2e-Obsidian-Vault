@@ -94,27 +94,27 @@ wisdom: '+2'
 Though they resemble pterosaurs and hail from a similar era, kongamatos are actually a primeval branch of dragonkind. They aren't particularly intelligent and lack the powerful magical abilities that many of their dragon kindred command, but a kongamato has a supernaturally strong beak that can punch through incredibly dense substances. While this beak might seem like a valuable trophy for hunters, its magic dies with the kongamato, and all attempts to integrate them into weapons have failed.
  Though they dwell in swamps and other still waters, kongamatos prefer to hunt in rivers and streams, since running water delivers new prey on a regular basis. The predators hunt everything, and they are well aware their powerful beaks can sink boats and rafts. They even possess a semblance of draconic greed. While they care little for the material wealth or societal power, kongamatos claim large hunting territories, violently attacking any would-be rivals and ravenously slaughtering large animals in their territory, leaving carcasses half-eaten with little regard for whether they'll still have meals in the future.
  When a kongamato claims a territory that encapsulates a community, the people there have no choice but to hunt down the vicious predator or hire adventurers to do so on their behalf. Kongamatos' hunger is such that a single one can devastate entire herds of livestock and threaten the safety of the entire community. Unlike their draconic relatives, kongamatos ignore attempts to bargain with them, and efforts to appease them through regular sacrifices have no effect.
-**Recall Knowledge - Dragon ([[Arcana]])**: DC 30
+**Recall Knowledge - Dragon ([[DATABASE/skill/Arcana|Arcana]])**: DC 30
 **Unspecific Lore**: DC 28
 **Specific Lore**: DC 25
 
 # Kongamato<span class="item-type">Creature 11</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Dragon</span>
-**Source** [[Bestiary 3]]
-**Perception** +19; [[Darkvision]]
-**Languages** [[Draconic]]
-**Skills** [[Acrobatics]] +22, [[Athletics]] +24, [[Intimidation]] +20, [[Stealth]] +20, [[Survival]] +19
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
+**Perception** +19; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Draconic|Draconic]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +22, [[DATABASE/skill/Athletics|Athletics]] +24, [[DATABASE/skill/Intimidation|Intimidation]] +20, [[DATABASE/skill/Stealth|Stealth]] +20, [[DATABASE/skill/Survival|Survival]] +19
 **Str** +7, **Dex** +3, **Con** +5, **Int** -1, **Wis** +2, **Cha** +3
 
 ---
 **AC** 30; **Fort** +22, **Ref** +20, **Will** +19; +1 status to all saves vs. magic
-**HP** 190; **Immunities** [[Paralyzed]], sleep
-<span class="in-box-ability">**[[Attack of Opportunity]] <span class="action-icon">5</span> ** Tail only.</span>
+**HP** 190; **Immunities** [[DATABASE/condition/Paralyzed|paralyzed]], sleep
+<span class="in-box-ability">**[[DATABASE/monsterability/Attack of Opportunity|Attack of Opportunity]] <span class="action-icon">5</span> ** Tail only.</span>
 
 ---
 **Speed** 30 feet, fly 130 feet, swim 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> beak +24 [+19/+14] (magical, reach 15 feet), **Damage** 2d12+13 piercing plus boat breaker and [[Grab]]</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +24 [+20/+16] (agile, reach 10 feet), **Damage** 2d8+13 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> wing +22 [+18/+14] (agile, reach 15 feet), **Damage** 2d10+11 bludgeoning</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> tail +22 [+18/+14] (agile, reach 20 feet), **Damage** 2d8+11 bludgeoning</span><span class="in-box-ability">**Boat Breaker** A kongamato's beak is supernaturally hard. Their beak Strikes ignore half the Hardness of any object they hit.</span><span class="in-box-ability">**Flying Strafe** <span class="action-icon">2</span> The kongamato Flies up to their fly Speed and makes two wing Strikes at any point during that movement. Each Strike must target a different creature.</span><span class="in-box-ability">**Wailing Dive** <span class="action-icon">2</span> The kongamato Flies while emitting a terrifying screech. Each creature the kongamato flies over must succeed at a DC 30 Will save or become [[Frightened]] (frightened 2 on a critical failure). After attempting their saves, the creatures are temporarily immune for 1 hour. At the end of their movement, the kongamato can make a beak Strike.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> beak +24 [+19/+14] (magical, reach 15 feet), **Damage** 2d12+13 piercing plus boat breaker and [[DATABASE/monsterability/Grab|Grab]]</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +24 [+20/+16] (agile, reach 10 feet), **Damage** 2d8+13 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> wing +22 [+18/+14] (agile, reach 15 feet), **Damage** 2d10+11 bludgeoning</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> tail +22 [+18/+14] (agile, reach 20 feet), **Damage** 2d8+11 bludgeoning</span><span class="in-box-ability">**Boat Breaker** A kongamato's beak is supernaturally hard. Their beak Strikes ignore half the Hardness of any object they hit.</span><span class="in-box-ability">**Flying Strafe** <span class="action-icon">2</span> The kongamato Flies up to their fly Speed and makes two wing Strikes at any point during that movement. Each Strike must target a different creature.</span><span class="in-box-ability">**Wailing Dive** <span class="action-icon">2</span> The kongamato Flies while emitting a terrifying screech. Each creature the kongamato flies over must succeed at a DC 30 Will save or become [[DATABASE/condition/Frightened|frightened 1]] (frightened 2 on a critical failure). After attempting their saves, the creatures are temporarily immune for 1 hour. At the end of their movement, the kongamato can make a beak Strike.</span>
 
 ###  The Mother Kongamato
 

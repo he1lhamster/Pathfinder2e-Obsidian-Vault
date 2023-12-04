@@ -11,6 +11,7 @@ name: Emblazon Armament
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Emblazon Armament <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Cleric</span><span class="item-trait">Exploration</span>
-**Source** [[Core Rulebook]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
 Carefully etching a sacred image into a physical object, you steel yourself for battle. You can spend 10 minutes emblazoning a symbol of your deity upon a weapon or shield. The symbol doesn’t fade until 1 year has passed, but if you Emblazon an Armament, any symbol you previously emblazoned and any symbol already emblazoned on that item instantly disappears. The item becomes a religious symbol of your deity and can be used as a divine focus while emblazoned, and it gains another benefit determined by the type of item. This benefit applies only to followers of the deity the symbol represents.
@@ -34,7 +35,7 @@ Carefully etching a sacred image into a physical object, you steel yourself for 
 
 ## Emblazon Armament Leads To...
 
-[[Emblazon Antimagic]], [[Emblazon Divinity]], [[Emblazon Energy]]
+[[DATABASE/feat/Emblazon Antimagic|Emblazon Antimagic]], [[DATABASE/feat/Emblazon Divinity|Emblazon Divinity]], [[DATABASE/feat/Emblazon Energy|Emblazon Energy]]
 
 ## Traits
 

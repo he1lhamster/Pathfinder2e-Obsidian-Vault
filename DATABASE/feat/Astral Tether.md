@@ -11,6 +11,7 @@ name: Astral Tether
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -25,11 +26,11 @@ type: Feat
 # Astral Tether <span class="action-icon">1</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Occult</span><span class="item-trait">Psychic</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 
 ---
 You spin out a thread of psychic energy that connects you to an ally, using it as a conduit for your abilities. Choose a willing creature within 60 feet and connect to it. Whenever you would gain a benefit from a psychic amp, you can have the amp affect the tethered creature instead. You can do so only if the amp grants a distinct benefit, not if it alters the amped spell. 
-The tether can't be severed physically but breaks if the distance between you and the tethered ally ever exceeds 60 feet, if you become [[Unconscious]], or if you use Astral Tether again.
+The tether can't be severed physically but breaks if the distance between you and the tethered ally ever exceeds 60 feet, if you become [[DATABASE/condition/Unconscious|unconscious]], or if you use Astral Tether again.
 
 ## Traits
 

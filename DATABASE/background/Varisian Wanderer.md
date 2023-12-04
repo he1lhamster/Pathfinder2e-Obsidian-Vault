@@ -6,6 +6,7 @@ id: '114'
 name: Varisian Wanderer
 prerequisite: null
 rarity: null
+rus_type_level: null
 skill: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
 subcategory: regional
@@ -15,8 +16,8 @@ type: null
 ---
 # Varisian Wanderer<span class="item-type">Background</span>
 
-**Source** [[World Guide]] 
+**Source** [[DATABASE/source/World Guide|World Guide]] 
 **Region** Saga Lands
 You have spent your youth wandering the lands of Varisia and beyond among the brightly painted wagons of a Varisian caravan. You have heard endless tales of your people’s history and lore, and have learned many songs and stories from the disparate people you have met.
 Choose two ability boosts. One must be to **Dexterity** or **Charisma**, and one is a free ability boost.
-You're trained in the [[Performance]] skill, and the [[Lore]] skill. You gain the [[Fascinating Performance]] skill feat.
+You're trained in the [[DATABASE/skill/Performance|Performance]] skill, and the [[DATABASE/skill/Lore|Circus Lore]] skill. You gain the [[DATABASE/feat/Fascinating Performance|Fascinating Performance]] skill feat.

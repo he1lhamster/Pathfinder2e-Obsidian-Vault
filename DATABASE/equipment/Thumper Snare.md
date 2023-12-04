@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -59,9 +60,9 @@ weapon_type: null
 # Thumper Snare<span class="item-type">Item 3</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Auditory</span><span class="item-trait">Clockwork</span><span class="item-trait">Consumable</span><span class="item-trait">Mechanical</span><span class="item-trait">Snare</span><span class="item-trait">Trap</span>
-**Source** [[Pathfinder 194. Cult of the Cave Worm]]
+**Source** [[DATABASE/source/Pathfinder 194. Cult of the Cave Worm|Pathfinder #194: Cult of the Cave Worm]]
 **Price** 10 gp
 **Bulk** —
 
 ---
-This small box contains a clockwork mechanism that rhythmically thumps the ground, allowing creatures with [[Tremorsense]] to detect it at up to double their usual range. The mechanism can be wound to thump anywhere from 1 round to 1 minute before falling into useless components.
+This small box contains a clockwork mechanism that rhythmically thumps the ground, allowing creatures with [[DATABASE/monsterability/Tremorsense|tremorsense]] to detect it at up to double their usual range. The mechanism can be wound to thump anywhere from 1 round to 1 minute before falling into useless components.

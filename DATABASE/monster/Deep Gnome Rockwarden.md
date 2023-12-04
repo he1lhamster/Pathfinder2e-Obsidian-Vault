@@ -83,19 +83,19 @@ wisdom: '+5'
 # Deep Gnome Rockwarden
 
 Deep gnome rockwardens follow druidic teachings and commune with the natural elemental influences and denizens of the Darklands. They know that not everything that lives below ground is sinister and evil, but they also understand that all primal spirits and entities must be respected.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 20
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 20
 **Unspecific Lore**: DC 18
 **Specific Lore**: DC 15
 
 # Deep Gnome Rockwarden<span class="item-type">Creature 5</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Small</span><span class="item-trait">Gnome</span><span class="item-trait">Humanoid</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +14; darkvision
-**Languages** [[Gnomish]], [[Terran]], [[Undercommon]]
-**Skills** [[Crafting]] +9, [[Diplomacy]] +11, [[Nature]] +14, [[Stealth]] +9
+**Languages** [[DATABASE/language/Gnomish|Gnomish]], [[DATABASE/language/Terran|Terran]], [[DATABASE/language/Undercommon|Undercommon]]
+**Skills** [[DATABASE/skill/Crafting|Crafting]] +9, [[DATABASE/skill/Diplomacy|Diplomacy]] +11, [[DATABASE/skill/Nature|Nature]] +14, [[DATABASE/skill/Stealth|Stealth]] +9
 **Str** +1, **Dex** +2, **Con** +3, **Int** +0, **Wis** +5, **Cha** +2
-**Items** [[Hide Armor]], [[Pick]], primal focus, scroll of [[Nondetection]], [[Sling]]
+**Items** [[DATABASE/armor/Hide Armor|hide armor]], [[DATABASE/weapon/Pick|pick]], primal focus, scroll of [[DATABASE/spell/Nondetection|nondetection]], [[DATABASE/weapon/Sling|sling (10 bullets)]]
 
 ---
 **AC** 22; **Fort** +12, **Ref** +9, **Will** +14
@@ -103,5 +103,5 @@ Deep gnome rockwardens follow druidic teachings and commune with the natural ele
 
 ---
 **Speed** 15 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> pick +10 [+5/+0] (fatal d10), **Damage** 1d6 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> sling +11 [+6/+1] (propulsive, range increment 50 feet), **Damage** 1d6 bludgeoning</span>**Primal Innate Spells** DC 21; **1st** _[[Illusory Disguise]]_
-**Primal Prepared Spells** DC 24, attack +14; **3rd** _[[Blindness]]_, _[[Meld into Stone]]_; **2nd** _[[Acid Arrow]]_, _[[Deafness]]_, _[[Spider Climb]]_; **1st** _[[Ant Haul]]_, _[[Shocking Grasp]]_, _[[Ventriloquism]]_; **Cantrips** **(3rd)** _[[Acid Splash]]_, _[[Detect Magic]]_, _[[Prestidigitation]]_, _[[Produce Flame]]_, _[[Read Aura]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> pick +10 [+5/+0] (fatal d10), **Damage** 1d6 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> sling +11 [+6/+1] (propulsive, range increment 50 feet), **Damage** 1d6 bludgeoning</span>**Primal Innate Spells** DC 21; **1st** _[[DATABASE/spell/Illusory Disguise|illusory disguise]]_
+**Primal Prepared Spells** DC 24, attack +14; **3rd** _[[DATABASE/spell/Blindness|blindness]]_, _[[DATABASE/spell/Meld into Stone|meld into stone]]_; **2nd** _[[DATABASE/spell/Acid Arrow|acid arrow]]_, _[[DATABASE/spell/Deafness|deafness]]_, _[[DATABASE/spell/Spider Climb|spider climb]]_; **1st** _[[DATABASE/spell/Ant Haul|ant haul]]_, _[[DATABASE/spell/Shocking Grasp|shocking grasp]]_, _[[DATABASE/spell/Ventriloquism|ventriloquism]]_; **Cantrips** **(3rd)** _[[DATABASE/spell/Acid Splash|acid splash]]_, _[[DATABASE/spell/Detect Magic|detect magic]]_, _[[DATABASE/spell/Prestidigitation|prestidigitation]]_, _[[DATABASE/spell/Produce Flame|produce flame]]_, _[[DATABASE/spell/Read Aura|read aura]]_

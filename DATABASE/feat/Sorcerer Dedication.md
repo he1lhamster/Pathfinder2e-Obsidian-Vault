@@ -11,6 +11,7 @@ name: Sorcerer Dedication
 prerequisite: Charisma 14
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -25,8 +26,8 @@ type: Feat
 # Sorcerer Dedication <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Dedication</span><span class="item-trait">Multiclass</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Sorcerer]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Sorcerer|Sorcerer]]
 **Prerequisites** Charisma 14
 
 ---
@@ -36,7 +37,7 @@ Choose a bloodline. You become trained in the bloodline's two skills; for each o
 
 ## Sorcerer Dedication Leads To...
 
-[[Basic Blood Potency]], [[Basic Bloodline Spell]], [[Basic Sorcerer Spellcasting]]
+[[DATABASE/feat/Basic Blood Potency|Basic Blood Potency]], [[DATABASE/feat/Basic Bloodline Spell|Basic Bloodline Spell]], [[DATABASE/feat/Basic Sorcerer Spellcasting|Basic Sorcerer Spellcasting]]
 
 ## Traits
 

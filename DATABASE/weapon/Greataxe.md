@@ -17,6 +17,7 @@ name: Greataxe
 price: 2 gp
 range: null
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Sweep|Sweep]]'
@@ -29,11 +30,11 @@ weapon_type: Melee
 # Greataxe
 
 <span class="item-trait">Sweep</span>
-**Source** [[Core Rulebook]] 
-**Favored Weapon** [[Angradd]], [[Dammerich]], [[Narakaas]], [[Rovagug]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Favored Weapon** [[DATABASE/deity/Angradd|Angradd]], [[DATABASE/deity/Dammerich|Dammerich]], [[DATABASE/deity/Narakaas|Narakaas]], [[DATABASE/deity/Rovagug|Rovagug]]
 **Price** 2 gp; **Damage** 1d12 S; **Bulk** 2
 **Hands** 2
-**Type** Melee; **Category** Martial; **Group** [[Axe]]
+**Type** Melee; **Category** Martial; **Group** [[DATABASE/weapongroup/Axe|Axe]]
 
 ---
 This large battle axe is too heavy to wield with only one hand. Many greataxes incorporate two blades, and they are often “bearded,” having a hook at the bottom to increase the strength of their chopping power.
@@ -46,10 +47,10 @@ This weapon makes wide sweeping or spinning attacks, making it easier to attack 
 
 ## Critical Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
-**Axe**: Choose one creature adjacent to the initial target and within reach. If its AC is lower than your attack roll result for the critical hit, you deal damage to that creature equal to the result of the weapon damage die you rolled (including extra dice for its _[[Striking]]_ rune, if any). This amount isn't doubled, and no bonuses or other additional dice apply to this damage.
+**Axe**: Choose one creature adjacent to the initial target and within reach. If its AC is lower than your attack roll result for the critical hit, you deal damage to that creature equal to the result of the weapon damage die you rolled (including extra dice for its _[[DATABASE/equipment/Striking|striking]]_ rune, if any). This amount isn't doubled, and no bonuses or other additional dice apply to this damage.
 
 ## Specific Magic Weapons
 
-[[Blackaxe]], [[Retribution Axe]]
+[[DATABASE/equipment/Blackaxe|Blackaxe]], [[DATABASE/equipment/Retribution Axe|Retribution Axe]]

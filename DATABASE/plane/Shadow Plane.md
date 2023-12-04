@@ -5,6 +5,7 @@ id: '11'
 name: Shadow Plane
 plane_category: Transitive Planes
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
 - '[[DATABASE/trait/Shadow|Shadow]]'
@@ -14,10 +15,10 @@ type: Plane
 # Shadow Plane<span class="item-type">Plane</span>
 
 <span class="trait-alignment item-trait">N</span><span class="item-trait">Shadow</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Category** Transitive Planes
-**Divinities** [[Velstrac]] demagogues, [[Zon-Kuthon]]
-**Native Inhabitants** [[Caligni]], [[D'ziriak]], [[Fetchling]], [[Petitioner]] (the mutilated), [[Dragon, Umbral]], [[Velstrac]]
+**Divinities** [[DATABASE/monsterfamily/Velstrac|velstrac]] demagogues, [[DATABASE/deity/Zon-Kuthon|Zon-Kuthon]]
+**Native Inhabitants** [[DATABASE/monsterfamily/Caligni|caligni]], [[DATABASE/monster/D'ziriak|d'ziriaks]], [[DATABASE/ancestry/Fetchling|kayals (fetchlings)]], [[DATABASE/monster/Petitioner|petitioners]] (the mutilated), [[DATABASE/monsterfamily/Dragon, Umbral|umbral dragons]], [[DATABASE/monsterfamily/Velstrac|velstracs]]
 
 ---
 A murky, distorted, and imperfect mirror of the Material Plane, the Shadow Plane overlaps the Material Plane and serves as a buffer or conduit between it and the Negative Energy Plane. The Shadow Plane exists in a state of perpetually dim half-light, the landscape containing similar features to the overlapping Material Plane, but in warped or twisted fashions. Cities on the Material Plane might exist on the Shadow Plane, sometimes in ruins and sometimes as terrible, frightening replicas. The darkness also holds points of beauty and relative safety, such as the great city of Shadow Absalom. The bleak doppelganger of Golarion’s own Absalom hosts cross-planar trade facilitated by a permanent, one-way portal out of the gloom.

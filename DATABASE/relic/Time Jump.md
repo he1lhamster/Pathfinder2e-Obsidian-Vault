@@ -5,6 +5,7 @@ item_category: Relics
 name: Time Jump
 prerequisite: null
 rarity: Common
+rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
@@ -15,8 +16,8 @@ type: Relic Major Gift
 # Time Jump<span class="item-type">Major Gift</span>
 
 <span class="item-trait">Transmutation</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Aspect** time
 
 ---
-**Activate** <span class="action-icon">1</span> command **Frequency** once per day; **Effect** Your relic casts [[Time Jump]] on you to your specifications.
+**Activate** <span class="action-icon">1</span> command **Frequency** once per day; **Effect** Your relic casts [[DATABASE/spell/Time Jump|time jump]] on you to your specifications.

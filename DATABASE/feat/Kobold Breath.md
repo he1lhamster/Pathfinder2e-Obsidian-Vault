@@ -11,6 +11,7 @@ name: Kobold Breath
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,7 +26,7 @@ type: Feat
 # Kobold Breath <span class="action-icon">2</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Arcane</span><span class="item-trait">Evocation</span><span class="item-trait">Kobold</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
 You channel your draconic exemplar's power into a gout of energy that manifests as a 30-foot line or a 15-foot cone, dealing 1d4 damage. Each creature in the area must attempt a basic saving throw against the higher of your class DC or spell DC. You can't use this ability again for 1d4 rounds.
@@ -33,22 +34,23 @@ You channel your draconic exemplar's power into a gout of energy that manifests 
 
 ## Table 1-1: Draconic Exemplars
 
-| Dragon   | Breath Weapon Shape   | Damage Type   | Saving Throw   |
-|:---------|:----------------------|:--------------|:---------------|
-| Black    | Line                  | Acid          | Reflex         |
-| Blue     | Line                  | Electricity   | Reflex         |
-| Green    | Cone                  | Poison        | Fortitude      |
-| Red      | Cone                  | Fire          | Reflex         |
-| White    | Cone                  | Cold          | Reflex         |
-| Brass    | Line                  | Fire          | Reflex         |
-| Bronze   | Line                  | Electricity   | Reflex         |
-| Copper   | Line                  | Acid          | Reflex         |
-| Gold     | Cone                  | Fire          | Reflex         |
-| Silver   | Cone                  | Cold          | Reflex         |
+| 0 | 1 | 2 | 3 |
+|:-------|:--------------------|:------------|:-------------|
+| Dragon | Breath Weapon Shape | Damage Type | Saving Throw |
+| Black | Line | Acid | Reflex |
+| Blue | Line | Electricity | Reflex |
+| Green | Cone | Poison | Fortitude |
+| Red | Cone | Fire | Reflex |
+| White | Cone | Cold | Reflex |
+| Brass | Line | Fire | Reflex |
+| Bronze | Line | Electricity | Reflex |
+| Copper | Line | Acid | Reflex |
+| Gold | Cone | Fire | Reflex |
+| Silver | Cone | Cold | Reflex |
 
 ## Kobold Breath Leads To...
 
-[[Dragonblood Paragon]], [[Dragon's Breath]]
+[[DATABASE/feat/Dragonblood Paragon|Dragonblood Paragon]], [[DATABASE/feat/Dragon's Breath|Dragon's Breath]]
 
 ## Traits
 
@@ -62,4 +64,4 @@ Effects and magic items with this trait are associated with the evocation school
 
 **Kobold:**
 
-A creature with this trait is a member of the kobold ancestry. Kobolds are reptilian humanoids who are usually Small and typically have [[Darkvision]]. An ability with this trait can be used or selected only by kobolds.
+A creature with this trait is a member of the kobold ancestry. Kobolds are reptilian humanoids who are usually Small and typically have [[DATABASE/monsterability/Darkvision|darkvision]]. An ability with this trait can be used or selected only by kobolds.

@@ -11,6 +11,7 @@ name: Kingdom Assurance
 prerequisite: Trained in at least three skills
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 subcategory: null
@@ -25,7 +26,7 @@ type: Feat
 # Kingdom Assurance <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Fortune</span><span class="item-trait">General</span><span class="item-trait">Kingdom</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 **Prerequisites** Trained in at least three skills
 
 ---

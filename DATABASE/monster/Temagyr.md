@@ -80,23 +80,23 @@ wisdom: '+3'
 
 Temagyrs embody the fear of nocturnal hunters—predators that stalk through the dark of night and attack when their prey is most vulnerable. Able to blend in with and step between shadows to surprise victims, temagyrs delight in ambush tactics.
  An average temagyr is 8 feet long and weighs 500 pounds but moves with unnatural fluidity and grace, the shadows they carry seeming to hang in the air behind them. In combat, a temagyr can take down opponents either with physical attacks or by taking bites out of their enemy's shadow. These shadow wounds, which remain visible unless healed, often perplex Material Plane doctors and investigators; a corpse from a temagyr attack can appear pristine, its tattered shadow the only clue to how it met its untimely fate.
-**Recall Knowledge - Fey ([[Nature]])**: DC 17
+**Recall Knowledge - Fey ([[DATABASE/skill/Nature|Nature]])**: DC 17
 **Unspecific Lore**: DC 15
 **Specific Lore**: DC 12
 
 # Temagyr<span class="item-type">Creature 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Fey</span>
-**Source** [[Pathfinder 187. The Seventh Arch]]
-**Perception** +9; [[Darkvision]]
-**Languages** [[Aklo]], [[Sylvan]]; (can't speak any language)
-**Skills** [[Acrobatics]] +7, [[Athletics]] +7, [[Stealth]] +8
+**Source** [[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh Arch]]
+**Perception** +9; [[DATABASE/monsterability/Darkvision|greater darkvision]]
+**Languages** [[DATABASE/language/Aklo|Aklo]], [[DATABASE/language/Sylvan|Sylvan]]; (can't speak any language)
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +7, [[DATABASE/skill/Athletics|Athletics]] +7, [[DATABASE/skill/Stealth|Stealth]] +8
 **Str** +2, **Dex** +3, **Con** +2, **Int** -2, **Wis** +3, **Cha** +1
 
 ---
 **AC** 16; **Fort** +8, **Ref** +10, **Will** +5
-**HP** 25; **Weaknesses** [[Cold Iron Weapon]] 3
-<span class="in-box-ability">**[[Attack of Opportunity]]** <span class="action-icon">5</span> </span><span class="in-box-ability">**Cloak of Shadows** Temagyrs are constantly surrounded by shifting shadows. A temagyr can always [[Hide]] in dim light or darkness.</span>
+**HP** 25; **Weaknesses** [[DATABASE/equipment/Cold Iron Weapon|cold iron]] 3
+<span class="in-box-ability">**[[DATABASE/monsterability/Attack of Opportunity|Attack of Opportunity]]** <span class="action-icon">5</span> </span><span class="in-box-ability">**Cloak of Shadows** Temagyrs are constantly surrounded by shifting shadows. A temagyr can always [[DATABASE/action/Hide|Hide]] in dim light or darkness.</span>
 
 ---
 **Speed** 40 feet

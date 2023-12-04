@@ -92,16 +92,16 @@ These razor-plated pangolins—about the size of small ponies—are the traditio
  Though ugvashi are mostly harmless, they're somewhat more dangerous than their smaller cousins, causing a stir when reckless citizens attempt to pet the creatures. Ugvashi scales are razor sharp, and their large and blunted digging claws can be deadly due to their size. People who attempt to steal the animals or ride them without training often receive moderate cuts for their trouble. However, ugvashi are generally curious and very friendly, and more than one visitor or wilderness explorer has found a baby ugvashi toddling after them and pawing at their boots.
  Nearic halflings also paint their ugvashi with distinctive warding patterns and sigils, some of which are actually effective and provide a surprise for opportunistic thieves or predators. Though due consideration is spent on protecting an ugvashi's cargo, the animals themselves have proven to be tempting targets as well, especially for their meat. With blighted landscapes making animal husbandry impractical and magical pollution leaving local seafood with a distinct aftertaste, a number of Nexian and Mana Wastes peoples have developed a taste for ugvashi. Since the animals lack an aggressive temperament, it often falls to their caretakers to discourage such predations through whatever means necessary.
  Ugvashi shed their scales each winter, allowing for the plates to be collected safely and turned into quality armor and other pieces of craftwork. Nearic halflings rarely trade or sell these items, however, out of fear that they might lead to more people trying to steal their ugvashi.
-**Recall Knowledge - Animal ([[Nature]])**: DC 18
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Ugvashi<span class="item-type">Creature 3</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Animal</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 **Perception** +8
-**Skills** [[Athletics]] +11, [[Survival]] +8
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +11, [[DATABASE/skill/Survival|Survival]] +8
 **Str** +4, **Dex** +1, **Con** +4, **Int** -3, **Wis** +1, **Cha** +1
 
 ---
@@ -110,7 +110,7 @@ These razor-plated pangolins—about the size of small ponies—are the traditio
 
 ---
 **Speed** 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> body +12 [+7/+2], **Damage** 1d12+4 bludgeoning plus serrated plates</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +12 [+8/+4] (agile), **Damage** 1d10+4 slashing</span><span class="in-box-ability">**Defensive Curl** <span class="action-icon">1</span> The ugvashi coils into a ball to defend itself. It gains a +2 circumstance bonus to AC. Any creatures who make unarmed attacks against the ugvashi while it's in its Defensive Curl are exposed to its serrated plates, as if they'd taken damage from the ugvashi's body. The ugvashi can't move while in its Defensive Curl, but it can unfurl as an action.</span><span class="in-box-ability">**Serrated Plates** Creatures who take damage from an ugvashi's body must attempt a DC 17 Reflex save or take 1d4 [[Persistent Damage]] (2d4 on a critical failure).</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> body +12 [+7/+2], **Damage** 1d12+4 bludgeoning plus serrated plates</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +12 [+8/+4] (agile), **Damage** 1d10+4 slashing</span><span class="in-box-ability">**Defensive Curl** <span class="action-icon">1</span> The ugvashi coils into a ball to defend itself. It gains a +2 circumstance bonus to AC. Any creatures who make unarmed attacks against the ugvashi while it's in its Defensive Curl are exposed to its serrated plates, as if they'd taken damage from the ugvashi's body. The ugvashi can't move while in its Defensive Curl, but it can unfurl as an action.</span><span class="in-box-ability">**Serrated Plates** Creatures who take damage from an ugvashi's body must attempt a DC 17 Reflex save or take 1d4 [[DATABASE/condition/Persistent Damage|persistent bleed damage]] (2d4 on a critical failure).</span>
 
 ###  Pest Control
 

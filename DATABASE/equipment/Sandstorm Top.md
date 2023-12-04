@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Sandstorm Top<span class="item-type">Item 13</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Evocation</span><span class="item-trait">Magical</span>
-**Source** [[Monsters of Myth]]
+**Source** [[DATABASE/source/Monsters of Myth|Monsters of Myth]]
 **Price** 3,000 gp
 **Usage** held in 1 hand; **Bulk** L
 

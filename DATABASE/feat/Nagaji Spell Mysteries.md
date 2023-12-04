@@ -11,6 +11,7 @@ name: Nagaji Spell Mysteries
 prerequisite: at least one innate spell from a nagaji heritage or ancestry feat
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -23,15 +24,15 @@ type: Feat
 # Nagaji Spell Mysteries <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Nagaji</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 **Prerequisites** at least one innate spell from a nagaji heritage or ancestry feat
 
 ---
-You've learned more [[Naga]] magic. During your daily preparations, choose [[Charm]], [[Fleet Step]], or [[Heal]]. You can cast the chosen spell as a 1st-level occult innate spell once that day.
+You've learned more [[DATABASE/monsterfamily/Naga|naga]] magic. During your daily preparations, choose [[DATABASE/spell/Charm|charm]], [[DATABASE/spell/Fleet Step|fleet step]], or [[DATABASE/spell/Heal|heal]]. You can cast the chosen spell as a 1st-level occult innate spell once that day.
 
 ## Nagaji Spell Mysteries Leads To...
 
-[[Nagaji Spell Expertise]]
+[[DATABASE/feat/Nagaji Spell Expertise|Nagaji Spell Expertise]]
 
 ## Traits
 

@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -55,10 +56,10 @@ weapon_type: null
 # Potion of Leaping<span class="item-type">Item 5</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Magical</span><span class="item-trait">Potion</span><span class="item-trait">Transmutation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 21 gp
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
 ---
-For 1 minute after you drink this fizzy potion, whenever you Leap, you gain the effect of the 1st-level [[Jump]] spell.
+For 1 minute after you drink this fizzy potion, whenever you Leap, you gain the effect of the 1st-level [[DATABASE/spell/Jump|jump]] spell.

@@ -11,6 +11,7 @@ name: Hydraulic Maneuvers
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -28,10 +29,10 @@ type: Feat
 # Hydraulic Maneuvers <span class="action-icon">1</span> <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Azarketi</span><span class="item-trait">Concentrate</span><span class="item-trait">Manipulate</span><span class="item-trait">Primal</span><span class="item-trait">Transmutation</span><span class="item-trait">Water</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-You batter your foes with a torrent of water siphoned from your surroundings. If the next action you take is an [[Athletics]] check to [[Disarm]], [[Shove]], or [[Trip]], that action has a range of 15 feet. You don't receive any item bonuses to that check or any circumstance bonuses related to your physical body, but if you roll a critical failure on that Athletics check, you get a failure instead.
+You batter your foes with a torrent of water siphoned from your surroundings. If the next action you take is an [[DATABASE/skill/Athletics|Athletics]] check to [[DATABASE/action/Disarm|Disarm]], [[DATABASE/action/Shove|Shove]], or [[DATABASE/action/Trip|Trip]], that action has a range of 15 feet. You don't receive any item bonuses to that check or any circumstance bonuses related to your physical body, but if you roll a critical failure on that Athletics check, you get a failure instead.
 
 ## Traits
 

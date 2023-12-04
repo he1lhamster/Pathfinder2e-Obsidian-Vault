@@ -18,6 +18,7 @@ name: Dahak's Skull
 rarity: Unique
 reflex: '+8'
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 146. Cult of Cinders|Pathfinder #146: Cult of
   Cinders]]'
@@ -35,14 +36,14 @@ will: null
 # Dahak's Skull<span class="item-type">Hazard 6</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="item-trait">Complex</span><span class="item-trait">Fire</span><span class="item-trait">Magical</span><span class="item-trait">Trap</span>
-**Source** [[Pathfinder 146. Cult of Cinders]]
+**Source** [[DATABASE/source/Pathfinder 146. Cult of Cinders|Pathfinder #146: Cult of Cinders]]
 **Complexity** Complex
 **Stealth** +0, but DC 24 to notice that the fiery lights within the skull's eye sockets seem to be looking around the room.
 **Description** A pair of magical gems inside the dragon skull's eye sockets act as magical sensors with a 30-foot radius.
 
 ---
-**Disable** [[Thievery]] DC 27 (expert) two times to pry the gems embedded deep in the skull's eye sockets without triggering the sensor, or [[Dispel Magic]] (4th level, counteract DC 22) twice to dispel both eyes.
-**Perception** +16; [[Darkvision]], [[See Invisibility]]
+**Disable** [[DATABASE/skill/Thievery|Thievery]] DC 27 (expert) two times to pry the gems embedded deep in the skull's eye sockets without triggering the sensor, or [[DATABASE/spell/Dispel Magic|dispel magic]] (4th level, counteract DC 22) twice to dispel both eyes.
+**Perception** +16; [[DATABASE/monsterability/Darkvision|darkvision]], [[DATABASE/spell/See Invisibility|see invisibility]]
 **AC** 24, **Fort** +17, **Ref** +8
 **Hardness** 14, **HP** 56 (BT 28); **Immunities** critical hits, fire, object immunities, precision damage
 **Dahak's Glance** <span class="action-icon">5</span> (divine, evocation, fire); **Trigger** A living creature that is not a member of the Cinderclaws enters area C9; **Effect** One of the dragon skull's eye sockets shoots an eye beam at the triggering creature, then the hazard rolls initiative.

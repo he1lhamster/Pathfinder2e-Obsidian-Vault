@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Weapon Shot<span class="item-type">Item 5+</span>
 
 <span class="item-trait">Conjuration</span><span class="item-trait">Consumable</span><span class="item-trait">Magical</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Ammunition** any; **Bulk** —
 
 ---
@@ -64,24 +65,24 @@ The body of a _weapon shot_ is translucent and filled with quicksilver. It impar
 
 ## Weapon Shot (Lesser)<span class="item-type">Item 5</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 20 gp
-The attack functions appropriately for a _+1 [[Striking]] weapon_.
+The attack functions appropriately for a _+1 [[DATABASE/equipment/Striking|striking]] weapon_.
 
 ## Weapon Shot (Moderate)<span class="item-type">Item 10</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 200 gp
 The attack functions appropriately for a _+2 striking weapon_.
 
 ## Weapon Shot (Greater)<span class="item-type">Item 12</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 400 gp
 The attack functions appropriately for a _+2 greater striking weapon_.
 
 ## Weapon Shot (Major)<span class="item-type">Item 16</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 2,000 gp
 The attack functions appropriately for a _+3 greater striking weapon_.

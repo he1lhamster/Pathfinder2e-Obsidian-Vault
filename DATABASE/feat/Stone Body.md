@@ -11,6 +11,7 @@ name: Stone Body
 prerequisite: '[[DATABASE/feat/Stalwart Defender Dedication|Stalwart Defender Dedication]]'
 rarity: Common
 requirement: You are in Tenacious Stance.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Highhelm|Highhelm]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Stone Body <span class="action-icon">1</span> <span class="item-type">Feat 16</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Highhelm]]
-**Archetype** [[Stalwart Defender]]
+**Source** [[DATABASE/source/Highhelm|Highhelm]]
+**Archetype** [[DATABASE/archetype/Stalwart Defender|Stalwart Defender]]
 **Frequency** once per hour
-**Prerequisites** [[Stalwart Defender Dedication]]
+**Prerequisites** [[DATABASE/feat/Stalwart Defender Dedication|Stalwart Defender Dedication]]
 **Requirements** You are in Tenacious Stance.
 
 ---

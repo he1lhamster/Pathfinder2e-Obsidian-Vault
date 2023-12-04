@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Hidden Thorn|Hidden Thorn]] or [[DATABASE/heritag
   Rose|Thorned Rose]] heritage'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Murderous Thorns <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Ghoran</span>
-**Source** [[Impossible Lands]]
-**Prerequisites** [[Hidden Thorn]], or [[Thorned Rose]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
+**Prerequisites** [[DATABASE/feat/Hidden Thorn|Hidden Thorn]], or [[DATABASE/heritage/Thorned Rose|Thorned Rose]]
 
 ---
 Your thorns are many, vicious, and sharp. If you have the Hidden Thorn feat, your thorn attack gains the deadly d6 trait. If you have the thorned rose heritage, you can use the Wicked Thorns reaction once every hour.

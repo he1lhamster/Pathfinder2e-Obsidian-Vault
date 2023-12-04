@@ -20,6 +20,7 @@ patron_theme: '[[DATABASE/witchpatron/Mosquito Witch|Mosquito Witch]]'
 range: 30 feet
 rarity: Rare
 requirement: null
+rus_type_level: null
 saving_throw: Fortitude
 school: Evocation
 source: '[[DATABASE/source/Monsters of Myth|Monsters of Myth]]'
@@ -38,7 +39,7 @@ type: Cantrip
 # Buzzing Bites<span class="item-type">Cantrip 1</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Cantrip</span><span class="item-trait">Evocation</span><span class="item-trait">Hex</span><span class="item-trait">Witch</span>
-**Source** [[Monsters of Myth]]
+**Source** [[DATABASE/source/Monsters of Myth|Monsters of Myth]]
 **Patron Theme** [[DATABASE/witchpatron/Mosquito Witch|mosquito witch
 ]]
 **Cast** <span class="action-icon">1</span> somatic

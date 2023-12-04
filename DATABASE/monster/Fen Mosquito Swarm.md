@@ -75,22 +75,22 @@ wisdom: '+0'
 # Fen Mosquito Swarm
 
 When deadly fen mosquitoes gather in large numbers, they form into lethal swarms capable of draining blood at a truly alarming rate. Fen mosquito swarms are typically encountered only in tropical swamps or bogs, but during humid months in spring or summer they can drift into riverine areas or even through the waterfront reaches of settlements.
-**Recall Knowledge - Animal ([[Nature]])**: DC 18
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Fen Mosquito Swarm<span class="item-type">Creature 3</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Animal</span><span class="item-trait">Swarm</span>
-**Source** [[Bestiary 2]] 
-**Perception** +8; [[Darkvision]]
-**Skills** [[Acrobatics]] +6, [[Stealth]] +8
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +8; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +6, [[DATABASE/skill/Stealth|Stealth]] +8
 **Str** +0, **Dex** +4, **Con** +3, **Int** -5, **Wis** +0, **Cha** -5
 
 ---
 **AC** 19; **Fort** +8, **Ref** +11, **Will** +5
-**HP** 25; **Immunities** precision, [[Swarm Mind]]; **Resistances** bludgeoning 2, piercing 5, slashing 5; **Weaknesses** area damage 5, splash damage 5
+**HP** 25; **Immunities** precision, [[DATABASE/monsterability/Swarm Mind|swarm mind]]; **Resistances** bludgeoning 2, piercing 5, slashing 5; **Weaknesses** area damage 5, splash damage 5
 
 ---
 **Speed** 5 feet, fly 25 feet
-<span class="in-box-ability">**Pyrexic Malaria** (disease) The victim can't reduce its [[Sickened]] condition while it's affected by pyrexic malaria; **Saving Throw** DC 20 Fortitude; **Onset** 4 days; **Stage 1** sickened 1 (1 day); **Stage 2** [[Enfeebled]] and sickened 1 (1 day); **Stage 3** as stage 2 (1 day); Stage 4 [[Unconscious]] (1 day); Stage 5 dead</span><span class="in-box-ability">**Swarming Bites** <span class="action-icon">1</span> Each enemy in the swarm's space takes 1d6 piercing damage (DC 20 basic Reflex save) and is exposed to pyrexic malaria. Creatures that fail the saving throw also take 1d4 [[Persistent Damage]].</span>
+<span class="in-box-ability">**Pyrexic Malaria** (disease) The victim can't reduce its [[DATABASE/condition/Sickened|sickened]] condition while it's affected by pyrexic malaria; **Saving Throw** DC 20 Fortitude; **Onset** 4 days; **Stage 1** sickened 1 (1 day); **Stage 2** [[DATABASE/condition/Enfeebled|enfeebled 1]] and sickened 1 (1 day); **Stage 3** as stage 2 (1 day); Stage 4 [[DATABASE/condition/Unconscious|unconscious]] (1 day); Stage 5 dead</span><span class="in-box-ability">**Swarming Bites** <span class="action-icon">1</span> Each enemy in the swarm's space takes 1d6 piercing damage (DC 20 basic Reflex save) and is exposed to pyrexic malaria. Creatures that fail the saving throw also take 1d4 [[DATABASE/condition/Persistent Damage|persistent bleed damage]].</span>

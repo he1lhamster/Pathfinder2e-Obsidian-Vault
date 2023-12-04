@@ -11,6 +11,7 @@ name: Smash from the Air
 prerequisite: '[[DATABASE/feat/Cut from the Air|Cut from the Air]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Smash from the Air <span class="item-type">Feat 18</span>
 
 <span class="item-trait">Fighter</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** [[Cut from the Air]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** [[DATABASE/feat/Cut from the Air|Cut from the Air]]
 
 ---
-Your expertise enables you to knock away spells. You can use [[Cut from the Air]] against ranged spell attack rolls.
+Your expertise enables you to knock away spells. You can use [[DATABASE/feat/Cut from the Air|Cut from the Air]] against ranged spell attack rolls.

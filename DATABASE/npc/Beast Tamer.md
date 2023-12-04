@@ -80,20 +80,20 @@ wisdom: '+4'
 # Beast Tamer
 
 Beast tamers bring the wild to civilization, rearing and training creatures to follow their commands and perform flashy tricks that entertain audiences.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 19
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 19
 **Unspecific Lore**: DC 17
 **Specific Lore**: DC 14
 
 # Beast Tamer<span class="item-type">Creature 4</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Perception** +12
-**Languages** [[Common]], [[Druidic]]
-**Skills** [[Athletics]] +8, [[Lore]] +6, [[Diplomacy]] +8, [[Intimidation]] +8, [[Nature]] +12, [[Performance]] +8, [[Survival]] +10
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Druidic|Druidic]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +8, [[DATABASE/skill/Lore|Circus Lore]] +6, [[DATABASE/skill/Diplomacy|Diplomacy]] +8, [[DATABASE/skill/Intimidation|Intimidation]] +8, [[DATABASE/skill/Nature|Nature]] +12, [[DATABASE/skill/Performance|Performance]] +8, [[DATABASE/skill/Survival|Survival]] +10
 **Str** +2, **Dex** +1, **Con** +2, **Int** +0, **Wis** +4, **Cha** +2
-**Wild Empathy** The beast tamer can use [[Diplomacy]] to [[Make an Impression]] on animals and to make very simple [[Request]] of them.
-**Items** [[Holly and Mistletoe]], [[Leather Armor]], [[Rope]], [[Whip]]
+**Wild Empathy** The beast tamer can use [[DATABASE/skill/Diplomacy|Diplomacy]] to [[DATABASE/action/Make an Impression|Make an Impression]] on animals and to make very simple [[DATABASE/action/Request|Requests]] of them.
+**Items** [[DATABASE/equipment/Holly and Mistletoe|holly and mistletoe]], [[DATABASE/armor/Leather Armor|leather armor]], [[DATABASE/equipment/Rope|rope (50 feet)]], [[DATABASE/weapon/Whip|whip]]
 
 ---
 **AC** 20; **Fort** +10, **Ref** +7, **Will** +12
@@ -101,7 +101,7 @@ Beast tamers bring the wild to civilization, rearing and training creatures to f
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> whip +11 [+6/+1] (disarm, nonlethal, reach, trip), **Damage** 1d4+5 slashing</span>**Primal Prepared Spells** DC 22, attack +14; **2nd** _[[Animal Form]]_, _[[Animal Messenger]]_, _[[Speak with Animals]]_; **1st** _[[Grease]]_, _[[Jump]]_, _[[Magic Fang]]_; **Cantrips** **(2nd)** _[[Dancing Lights]]_, _[[Guidance]]_, _[[Produce Flame]]_, _[[Stabilize]]_, _[[Tanglefoot]]_
-**Druid Order Spells** DC 22, 1 Focus Point; **1st** _[[Heal Animal]]_
-<span class="in-box-ability">**Trained Animal** The beast tamer fights alongside a trained animal ally of its level or lower, most likely a [[Tiger]]. The animal has the standard number of actions, uses its normal stat block, and counts toward the encounter's XP budget normally.
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> whip +11 [+6/+1] (disarm, nonlethal, reach, trip), **Damage** 1d4+5 slashing</span>**Primal Prepared Spells** DC 22, attack +14; **2nd** _[[DATABASE/spell/Animal Form|animal form]]_, _[[DATABASE/spell/Animal Messenger|animal messenger]]_, _[[DATABASE/spell/Speak with Animals|speak with animals]]_; **1st** _[[DATABASE/spell/Grease|grease]]_, _[[DATABASE/spell/Jump|jump]]_, _[[DATABASE/spell/Magic Fang|magic fang]]_; **Cantrips** **(2nd)** _[[DATABASE/spell/Dancing Lights|dancing lights]]_, _[[DATABASE/spell/Guidance|guidance]]_, _[[DATABASE/spell/Produce Flame|produce flame]]_, _[[DATABASE/spell/Stabilize|stabilize]]_, _[[DATABASE/spell/Tanglefoot|tanglefoot]]_
+**Druid Order Spells** DC 22, 1 Focus Point; **1st** _[[DATABASE/spell/Heal Animal|heal animal]]_
+<span class="in-box-ability">**Trained Animal** The beast tamer fights alongside a trained animal ally of its level or lower, most likely a [[DATABASE/monster/Tiger|tiger]]. The animal has the standard number of actions, uses its normal stat block, and counts toward the encounter's XP budget normally.
  The beast tamer can spend 1 action to gain the support benefit appropriate to its trained animal. Unlike for an animal companion, this doesn't require the animal to use any of its actions.</span>

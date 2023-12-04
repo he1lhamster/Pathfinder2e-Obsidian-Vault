@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 size: null
@@ -53,11 +54,11 @@ weapon_type: null
 # Burr Shield<span class="item-type">Item 5</span>
 
 <span class="item-trait">Magical</span><span class="item-trait">Necromancy</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Price** 160 gp
 **Usage** held in 1 hand; **Bulk** L
-**Base Shield** [[Wooden Shield]]
+**Base Shield** [[DATABASE/shield/Wooden Shield|Wooden Shield]]
 
 ---
-This well-crafted [[Wooden Shield]] (Hardness 5, HP 30, BT 15) is covered in numerous seed pods with long spurs. You can Strike with these burrs as though they were _+1 [[Striking]] [[Shield Spikes]]_.
-**Activate** <span class="action-icon">1</span> Interact **Requirements** Your previous action was a successful Strike with the burrs; **Effect** One of the burrs catches on the Strike's target, inflicting 1d10 [[Persistent Damage]].
+This well-crafted [[DATABASE/shield/Wooden Shield|wooden shield]] (Hardness 5, HP 30, BT 15) is covered in numerous seed pods with long spurs. You can Strike with these burrs as though they were _+1 [[DATABASE/equipment/Striking|striking]] [[DATABASE/weapon/Shield Spikes|shield spikes]]_.
+**Activate** <span class="action-icon">1</span> Interact **Requirements** Your previous action was a successful Strike with the burrs; **Effect** One of the burrs catches on the Strike's target, inflicting 1d10 [[DATABASE/condition/Persistent Damage|persistent bleed damage]].

@@ -11,6 +11,7 @@ name: Saving Slash
 prerequisite: '[[DATABASE/feat/Aldori Duelist Dedication|Aldori Duelist Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Saving Slash <span class="action-icon">5</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[World Guide]] 
-**Archetype** [[Aldori Duelist]]
-**Prerequisites** [[Aldori Duelist Dedication]]
+**Source** [[DATABASE/source/World Guide|World Guide]] 
+**Archetype** [[DATABASE/archetype/Aldori Duelist|Aldori Duelist]]
+**Prerequisites** [[DATABASE/feat/Aldori Duelist Dedication|Aldori Duelist Dedication]]
 **Trigger** An opponent critically hits you with a melee attack.
 
 ---

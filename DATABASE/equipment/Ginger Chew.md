@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -54,10 +55,10 @@ weapon_type: null
 # Ginger Chew<span class="item-type">Item 5</span>
 
 <span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Lozenge</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 28 gp
 **Usage** held in 1 hand; **Bulk** —
 
 ---
-This chewy ginger candy aids digestion and soothes unsettled stomachs. A ginger chew lasts for 1 hour and grants you a +1 item bonus to Fortitude saves against being [[Sickened]].
+This chewy ginger candy aids digestion and soothes unsettled stomachs. A ginger chew lasts for 1 hour and grants you a +1 item bonus to Fortitude saves against being [[DATABASE/condition/Sickened|sickened]].
  **Secondary Effect** <span class="action-icon">1</span> **Effect** Reduce your sickened value by 1, if any. The chew becomes inert.

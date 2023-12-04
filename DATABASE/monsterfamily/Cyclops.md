@@ -3,6 +3,7 @@ creature_family: Cyclops
 id: '25'
 name: Cyclops
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Cyclops
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 The cyclopes are violent giants with a tragic past. Although they possess only one eye, they could once see far more than most, possessing occult wisdom and divinatory magic that gave them the mystic ability of foresight. But their legendary oracular powers failed to prevent the fall of their society, and the vast kingdoms of the cyclops long ago collapsed into ruin. Today, cyclopes have forgotten much of what they once knew, and they skulk among the crumbling remains of their fallen cities like forgotten kings and queens gone mad.
 
 ### Members
 
-[[Cyclops]] (Creature 5), [[Great Cyclops]] (Creature 12)
+[[DATABASE/monster/Cyclops|Cyclops]] (Creature 5), [[DATABASE/monster/Great Cyclops|Great Cyclops]] (Creature 12)
 
 ###  Cyclops Seers
 

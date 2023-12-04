@@ -78,17 +78,17 @@ wisdom: '+1'
 
 Thought to be the result of a failed experiment meant to animate objects or a sinister alghollthu creation, mimics are clever monsters that can take the form of common manufactured objects. Mimics are ambush predators and voracious eaters, surprising their prey through their uncanny ability to mimic the form of common furniture and miscellany. They remain disguised until unsuspecting adventurers happen by, then they lash out in ambush.
  Mimics possess complex alien minds, and while often cruel and self-serving, they also enjoy conversation with their prey from time to time. For unknown reasons, they are especially interested in humanoids. Mimics have a strong dislike for others of their kind and tend to live alone. A mimic can remain in its alternate form for an extremely long period of time, sometimes remaining disguised in a dungeon chamber for decades. Regardless of how long it waits, the mimic remains vigilant and alert, ready to strike at any moment.
-**Recall Knowledge - Aberration ([[Occultism]])**: DC 19
+**Recall Knowledge - Aberration ([[DATABASE/skill/Occultism|Occultism]])**: DC 19
 **Unspecific Lore**: DC 17
 **Specific Lore**: DC 14
 
 # Mimic<span class="item-type">Creature 4</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Aberration</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +9; darkvision
-**Languages** [[Common]]
-**Skills** [[Athletics]] +12, [[Deception]] +8, [[Lore]] +10 (applies only to the dungeon it lives in)
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +12, [[DATABASE/skill/Deception|Deception]] +8, [[DATABASE/skill/Lore|Dwelling Lore]] +10 (applies only to the dungeon it lives in)
 **Str** +4, **Dex** +1, **Con** +3, **Int** +0, **Wis** +1, **Cha** +0
 
 ---

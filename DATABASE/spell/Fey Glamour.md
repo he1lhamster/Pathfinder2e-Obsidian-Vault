@@ -21,6 +21,7 @@ patron_theme: null
 range: 30 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -37,11 +38,11 @@ type: Focus
 # Fey Glamour<span class="item-type">Focus 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Illusion</span><span class="item-trait">Sorcerer</span>
-**Source** [[Core Rulebook]] 
-**Bloodline** [[Fey]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Bloodline** [[DATABASE/sorcererbloodline/Fey|fey]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet; **Area** 30-foot burst or; **Targets** up to 10 creatures
 **Duration** 10 minutes
 
 ---
-You call upon fey glamours to cloak an area or the targets in illusion. This has the effect of either [[Illusory Scene]] on the area or [[Veil]] on the creatures, as if heightened to a level 1 level lower than _fey glamour_, using _fey glamour_'s range and duration.
+You call upon fey glamours to cloak an area or the targets in illusion. This has the effect of either [[DATABASE/spell/Illusory Scene|illusory scene]] on the area or [[DATABASE/spell/Veil|veil]] on the creatures, as if heightened to a level 1 level lower than _fey glamour_, using _fey glamour_'s range and duration.

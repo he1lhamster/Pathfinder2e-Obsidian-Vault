@@ -11,6 +11,7 @@ name: Shielded Stride
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,12 +24,12 @@ type: Feat
 # Shielded Stride <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Fighter</span>
-**Source** [[Core Rulebook]] 
-**Archetypes** [[Bastion]]*, [[Viking]]*
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetypes** [[DATABASE/archetype/Bastion|Bastion]]*, [[DATABASE/archetype/Viking|Viking]]*
 * This archetype offers Shielded Stride at a different level than displayed here.
 
 ---
-When your shield is up, your enemies' blows can't touch you. When you have your shield raised, you can Stride to move half your Speed without triggering reactions that are triggered by your movement (such as [[Attack of Opportunity]]). You can use Shielded Stride while [[Fly]] or [[Swim]] instead of Striding if you have the corresponding movement type.
+When your shield is up, your enemies' blows can't touch you. When you have your shield raised, you can Stride to move half your Speed without triggering reactions that are triggered by your movement (such as [[DATABASE/action/Attack of Opportunity|Attacks of Opportunity]]). You can use Shielded Stride while [[DATABASE/action/Fly|Flying]] or [[DATABASE/action/Swim|Swimming]] instead of Striding if you have the corresponding movement type.
 
 ## Archetype Use
 

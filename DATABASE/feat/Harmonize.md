@@ -11,6 +11,7 @@ name: Harmonize
 prerequisite: '[[DATABASE/bardmuse/Maestro|maestro muse]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -26,15 +27,15 @@ type: Feat
 # Harmonize <span class="action-icon">1</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Bard</span><span class="item-trait">Concentrate</span><span class="item-trait">Manipulate</span><span class="item-trait">Metamagic</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Maestro]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/bardmuse/Maestro|maestro muse]]
 
 ---
 You can perform multiple compositions simultaneously. If your next action is to cast a composition, it becomes a harmonized composition. Unlike a normal composition, a harmonized composition doesn’t end if you cast another composition, and you can cast another composition on the same turn as a harmonized one. Casting another harmonized composition ends any harmonized composition you have in effect.
 
 ## Harmonize Leads To...
 
-[[Symphony of the Muses]]
+[[DATABASE/feat/Symphony of the Muses|Symphony of the Muses]]
 
 ## Traits
 

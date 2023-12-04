@@ -11,6 +11,7 @@ name: Wind-Tossed Spell
 prerequisite: '[[DATABASE/feat/Elementalist Dedication|Elementalist Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -26,12 +27,12 @@ type: Feat
 # Wind-Tossed Spell <span class="action-icon">1</span> <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Air</span><span class="item-trait">Archetype</span><span class="item-trait">Concentrate</span><span class="item-trait">Spellshape</span>
-**Source** [[Rage of Elements]]
-**Archetype** [[Elementalist]]
-**Prerequisites** [[Elementalist Dedication]]; air is in your elemental philosophy
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
+**Archetype** [[DATABASE/archetype/Elementalist|Elementalist]]
+**Prerequisites** [[DATABASE/feat/Elementalist Dedication|Elementalist Dedication]]; air is in your elemental philosophy
 
 ---
-You enhance your spell with elemental air, using the wind to find your target and carry your magic around cover. If the next action you use is to Cast a Spell that requires a spell attack roll, you ignore the target's [[Concealed]] condition and any cover they have from you. The spell gains the air trait.
+You enhance your spell with elemental air, using the wind to find your target and carry your magic around cover. If the next action you use is to Cast a Spell that requires a spell attack roll, you ignore the target's [[DATABASE/condition/Concealed|concealed]] condition and any cover they have from you. The spell gains the air trait.
 
 ## Traits
 

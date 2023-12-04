@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Expert Bard Spellcasting|Expert Bard Spellcasting
   ; Legendary in [[DATABASE/skill/Occultism|Occultism]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Master Bard Spellcasting <span class="item-type">Feat 18</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Bard]]
-**Prerequisites** [[Expert Bard Spellcasting]]; legendary in [[Occultism]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Bard|Bard]]
+**Prerequisites** [[DATABASE/feat/Expert Bard Spellcasting|Expert Bard Spellcasting]]; legendary in [[DATABASE/skill/Occultism|Occultism]]
 
 ---
 You gain the master spellcasting benefits.

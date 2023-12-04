@@ -19,6 +19,7 @@ patron_theme: null
 range: 60 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
@@ -40,14 +41,14 @@ type: Spell
 # Gentle Breeze<span class="item-type">Spell 2</span>
 
 <span class="item-trait">Air</span><span class="item-trait">Concentrate</span><span class="item-trait">Healing</span><span class="item-trait">Manipulate</span><span class="item-trait">Vitality</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Traditions** divine, occult, primal
 **Cast** <span class="action-icon">2</span> 
 **Range** 60 feet; **Area** 40-foot burst
 **Duration** 10 minutes
 
 ---
-A light, soothing breeze flows through the area, making it easier to rest and recover. [[Medicine]] checks attempted to benefit living creatures in the area get a +2 status bonus. Any living creature in the area also gets a +2 status bonus to saving throws against afflictions and, if it remains within the area for the full duration, regains 10 Hit Points. In addition, the cool breeze reduces the temperature effects of heat by one step for any creature in the area.
+A light, soothing breeze flows through the area, making it easier to rest and recover. [[DATABASE/skill/Medicine|Medicine]] checks attempted to benefit living creatures in the area get a +2 status bonus. Any living creature in the area also gets a +2 status bonus to saving throws against afflictions and, if it remains within the area for the full duration, regains 10 Hit Points. In addition, the cool breeze reduces the temperature effects of heat by one step for any creature in the area.
 
 ---
 **Heightened (+2)** The healing increases by 10 Hit Points.

@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Illusion
 size: null
@@ -56,10 +57,10 @@ weapon_type: null
 # Ghostshot Wrapping<span class="item-type">Item 11</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Illusion</span><span class="item-trait">Magical</span><span class="item-trait">Talisman</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 300 gp
 **Usage** affixed to a ranged weapon; **Bulk** —
-**Activate** <span class="action-icon">4</span> envision **Trigger** You attempt a ranged Strike with the affixed weapon while [[Hidden]] or [[Undetected]].
+**Activate** <span class="action-icon">4</span> envision **Trigger** You attempt a ranged Strike with the affixed weapon while [[DATABASE/condition/Hidden|hidden]] or [[DATABASE/condition/Undetected|undetected]].
 
 ---
 This long strip of linen is tightly wound around the barrel of the affixed firearm or the grip of a bow. When activated, the talisman's magic dampens the sound of the triggering shot, rendering it completely silent, and additionally skews the angle of the shot, so it appears to come from a different location and direction than your actual position. You don't become automatically observed to any creatures due to making the triggering Strike.

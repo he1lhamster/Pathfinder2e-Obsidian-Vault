@@ -11,6 +11,7 @@ name: Running Tackle
 prerequisite: '[[DATABASE/feat/Wrestler Dedication|Wrestler Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
 subcategory: null
@@ -24,12 +25,12 @@ type: Feat
 # Running Tackle <span class="action-icon">2</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Open</span>
-**Source** [[Grand Bazaar]]
-**Archetype** [[Wrestler]]
-**Prerequisites** [[Wrestler Dedication]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
+**Archetype** [[DATABASE/archetype/Wrestler|Wrestler]]
+**Prerequisites** [[DATABASE/feat/Wrestler Dedication|Wrestler Dedication]]
 
 ---
-You charge toward your opponent, throwing your body at them in a vicious tackle. Stride up to your Speed and then make an unarmed melee Strike. If you hit, you can attempt to [[Shove]] the target.
+You charge toward your opponent, throwing your body at them in a vicious tackle. Stride up to your Speed and then make an unarmed melee Strike. If you hit, you can attempt to [[DATABASE/action/Shove|Shove]] the target.
 
 ## Traits
 

@@ -26,6 +26,7 @@ follower_alignment:
 id: '89'
 name: Kols
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Society|Society]]'
 source: '[[DATABASE/source/Highhelm|Highhelm]]'
@@ -35,21 +36,21 @@ type: Deity
 ---
 # Kols (The Oathkeeper) [LN]
 
-**Source** [[Highhelm]], [[Gods & Magic]] , [[Knights of Lastwall]]
-As [[Torag]] firstborn, Kols was always a serious child. He watched how his father, chief among the dwarven gods, struggled to create deals and oaths that other deities would betray at their earliest convenience. He grew angry at the setbacks Torag had to endure from those who swore friendship but instead used him for their own selfish ends. Kols was baptized in the fires of being the eldest of Torag's children, a firsthand witness to his father's fury and pain. He thus vowed that he would do everything in his power to protect his father's followers, and also keep a record of those who had broken deals, broken faith, or shirked their duty in any way. 
+**Source** [[DATABASE/source/Highhelm|Highhelm]], [[DATABASE/source/Gods & Magic|Gods & Magic]] , [[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]
+As [[DATABASE/deity/Torag|Torag's]] firstborn, Kols was always a serious child. He watched how his father, chief among the dwarven gods, struggled to create deals and oaths that other deities would betray at their earliest convenience. He grew angry at the setbacks Torag had to endure from those who swore friendship but instead used him for their own selfish ends. Kols was baptized in the fires of being the eldest of Torag's children, a firsthand witness to his father's fury and pain. He thus vowed that he would do everything in his power to protect his father's followers, and also keep a record of those who had broken deals, broken faith, or shirked their duty in any way. 
 **Category** Dwarven Gods
 **Edicts** Seek those that break oaths and enforce just restitution, uphold your promises
 **Anathema** Lie, dishonor yourself or your family, shirk your duties, break an oath
 **Areas of Concern** duty, honor, promises
 **Follower Alignments** LG, LN
-**Pantheons** [[Dwarven Pantheon]]
+**Pantheons** [[DATABASE/deity/Dwarven Pantheon|Dwarven Pantheon]]
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Strength or Wisdom
-**Divine Font** _[[Harm]]_ or _[[Heal]]_
-**Divine Skill** [[Society]]
-**Favored Weapon** [[Light Hammer]]
-**Domains** [[Duty Domain]], [[Knowledge Domain]], [[Might Domain]], [[Truth Domain]]
-**Alternate Domains** [[Confidence Domain]], [[Glyph Domain]], [[Secrecy Domain]]
-**Cleric Spells** 1st: _[[Unseen Servant]]_, 4th: _[[Suggestion]]_, 8th: _[[Unrelenting Observation]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Strength or Wisdom
+**Divine Font** _[[DATABASE/spell/Harm|harm]]_ or _[[DATABASE/spell/Heal|heal]]_
+**Divine Skill** [[DATABASE/skill/Society|Society]]
+**Favored Weapon** [[DATABASE/weapon/Light Hammer|light hammer]]
+**Domains** [[DATABASE/domain/Duty Domain|duty]], [[DATABASE/domain/Knowledge Domain|knowledge]], [[DATABASE/domain/Might Domain|might]], [[DATABASE/domain/Truth Domain|truth]]
+**Alternate Domains** [[DATABASE/domain/Confidence Domain|confidence]], [[DATABASE/domain/Glyph Domain|glyph]], [[DATABASE/domain/Secrecy Domain|secrecy]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Unseen Servant|unseen servant]]_, 4th: _[[DATABASE/spell/Suggestion|suggestion]]_, 8th: _[[DATABASE/spell/Unrelenting Observation|unrelenting observation]]_

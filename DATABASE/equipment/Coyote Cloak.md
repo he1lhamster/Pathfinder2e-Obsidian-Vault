@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Coyote Cloak<span class="item-type">Item 3+</span>
 
 <span class="item-trait">Divination</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** worn cloak; **Bulk** —
 
 ---
@@ -62,11 +63,11 @@ This dusty coat is made of mangy brown-and-gray coyote fur. You gain a +1 item b
 
 ## Coyote Cloak<span class="item-type">Item 3</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 60 gp
 
 ## Coyote Cloak (Greater)<span class="item-type">Item 9</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 650 gp
 The cloak grants a +2 item bonus, and if you critically succeed at a Survival check to Subsist, you can feed four times as many additional creatures.

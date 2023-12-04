@@ -11,6 +11,7 @@ name: Rain of Razors
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -27,7 +28,7 @@ type: Feat
 # Rain of Razors <span class="action-icon">3</span> <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Metal</span><span class="item-trait">Overflow</span><span class="item-trait">Primal</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
 Razor-sharp slivers of metal fall from the sky. Each creature in a 20-foot burst within 60 feet takes 9d6 slashing damage with a basic Reflex save against your class DC. The razors embed in all surfaces in the area, making them hazardous terrain for 1 minute. A creature that moves through this hazardous terrain takes 3 slashing damage for every square of the area it moves into.
@@ -47,7 +48,7 @@ Effects with the metal trait conjure or manipulate metal. Those that manipulate 
 
 **Overflow:**
 
-Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
+Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[DATABASE/action/Channel Elements|Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
 
 **Primal:**
 

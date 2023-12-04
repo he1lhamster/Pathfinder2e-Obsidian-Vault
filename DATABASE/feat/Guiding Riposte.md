@@ -11,6 +11,7 @@ name: Guiding Riposte
 prerequisite: '[[DATABASE/feat/Dueling Riposte|Dueling Riposte]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Guiding Riposte <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Fighter</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Duelist]]*
-**Prerequisites** [[Dueling Riposte]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Duelist|Duelist]]*
+**Prerequisites** [[DATABASE/feat/Dueling Riposte|Dueling Riposte]]
 * This archetype offers Guiding Riposte at a different level than displayed here.
 
 ---

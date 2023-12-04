@@ -22,6 +22,7 @@ patron_theme: null
 range: 30 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: Fortitude
 school: Abjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -38,8 +39,8 @@ type: Focus
 # Forced Quiet<span class="item-type">Focus 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Abjuration</span><span class="item-trait">Cleric</span>
-**Source** [[Core Rulebook]] 
-**Domain** [[Secrecy Domain]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Domain** [[DATABASE/domain/Secrecy Domain|secrecy]]
 **Cast** <span class="action-icon">2</span> material, somatic
 **Range** 30 feet; **Targets** 1 creature
 **Saving Throw** Fortitude; **Duration** varies

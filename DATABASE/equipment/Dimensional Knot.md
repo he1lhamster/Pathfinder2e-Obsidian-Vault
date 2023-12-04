@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -55,10 +56,10 @@ weapon_type: null
 # Dimensional Knot<span class="item-type">Item 7</span>
 
 <span class="item-trait">Catalyst</span><span class="item-trait">Consumable</span><span class="item-trait">Magical</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Price** 60 gp
 **Usage** held in 1 hand; **Bulk** L
 **Activate** Cast a Spell
 
 ---
-[[Shelyn]] originally crafted this complex knot of vibrant string for bracelets meant to tie the destinies of two people together. Now, however, spellcasters of all religions use them to enhance their capacity with teleportation magic. Adding this catalyst to a 4th-level [[Dimension Door]] spell allows you to bring a single willing adjacent creature along with you; however, the teleportation is somewhat disorienting for them, causing them to become [[Stunned]].
+[[DATABASE/deity/Shelyn|Shelynites]] originally crafted this complex knot of vibrant string for bracelets meant to tie the destinies of two people together. Now, however, spellcasters of all religions use them to enhance their capacity with teleportation magic. Adding this catalyst to a 4th-level [[DATABASE/spell/Dimension Door|dimension door]] spell allows you to bring a single willing adjacent creature along with you; however, the teleportation is somewhat disorienting for them, causing them to become [[DATABASE/condition/Stunned|stunned 1]].

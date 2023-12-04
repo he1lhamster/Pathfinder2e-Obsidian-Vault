@@ -11,6 +11,7 @@ name: Dragon's Rage Wings
 prerequisite: '[[DATABASE/barbarianinstinct/Dragon Instinct|dragon instinct]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -27,15 +28,15 @@ type: Feat
 # Dragon's Rage Wings <span class="action-icon">1</span> <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Barbarian</span><span class="item-trait">Morph</span><span class="item-trait">Primal</span><span class="item-trait">Rage</span><span class="item-trait">Transmutation</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Dragon Instinct]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/barbarianinstinct/Dragon Instinct|dragon instinct]]
 
 ---
 You sprout dragon wings from your back of the same color as your chosen dragon. While you are raging, you gain a fly Speed equal to your land Speed. If you are flying when your rage ends, you start to fall but the transformation only completes at the last moment, so you take no damage from the fall and land standing up.
 
 ## Dragon's Rage Wings Leads To...
 
-[[Dragon Transformation]]
+[[DATABASE/feat/Dragon Transformation|Dragon Transformation]]
 
 ## Traits
 

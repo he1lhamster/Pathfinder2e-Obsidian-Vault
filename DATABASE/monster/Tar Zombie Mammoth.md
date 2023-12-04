@@ -81,24 +81,24 @@ wisdom: '+1'
 # Tar Zombie Mammoth
 
 Because their massive size makes them difficult for tar oozes to fully digest, tar zombie mammoths tend to resemble their living forms more closely than other tar zombies. However, this doesn't make them any less malignant than smaller tar zombies.
-**Recall Knowledge - Undead ([[Religion]])**: DC 28
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 28
 **Unspecific Lore**: DC 26
 **Specific Lore**: DC 23
 
 # Tar Zombie Mammoth<span class="item-type">Creature 9</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Huge</span><span class="item-trait">Mindless</span><span class="item-trait">Undead</span><span class="item-trait">Zombie</span>
-**Source** [[Pathfinder 177. Burning Tundra]]
-**Perception** +18; [[Darkvision]]
-**Skills** [[Athletics]] +20, [[Stealth]] +12 (+16 in tar pits)
+**Source** [[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burning Tundra]]
+**Perception** +18; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +20, [[DATABASE/skill/Stealth|Stealth]] +12 (+16 in tar pits)
 **Str** +7, **Dex** -1, **Con** +5, **Int** -5, **Wis** +1, **Cha** -3
-**Slow** A tar zombie is permanently [[Slowed]] and can't use reactions.
+**Slow** A tar zombie is permanently [[DATABASE/condition/Slowed|slowed 1]] and can't use reactions.
 
 ---
 **AC** 26; **Fort** +22, **Ref** +14, **Will** +16
-**HP** 240 ([[Negative Healing]]); **Immunities** death effects, disease, mental, [[Paralyzed]], poison, [[Unconscious]]; **Weaknesses** fire 10, positive 10, slashing 10
-<span class="in-box-ability">**Flammable** A tar zombie requires a successful DC 20 flat check to recover from [[Persistent Damage]]. This DC isn't reduced for assisted recovery.</span>
+**HP** 240 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects, disease, mental, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Unconscious|unconscious]]; **Weaknesses** fire 10, positive 10, slashing 10
+<span class="in-box-ability">**Flammable** A tar zombie requires a successful DC 20 flat check to recover from [[DATABASE/condition/Persistent Damage|persistent fire damage]]. This DC isn't reduced for assisted recovery.</span>
 
 ---
 **Speed** 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> tusk +21 [+16/+11] (reach 15 feet), **Damage** 2d12+11 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> trunk +21 [+16/+11] (reach 15 feet), **Damage** 2d8+11 bludgeoning plus [[Improved Grab]]</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> foot +21 [+16/+11] (reach 10 feet), **Damage** 2d6+11 bludgeoning</span><span class="in-box-ability">**Fling** <span class="action-icon">1</span> **Requirements** The tar zombie mammoth has a creature [[Grabbed]] or [[Restrained]] by its trunk; **Effect** The tar zombie mammoth whips its prey violently into the air. It attempts an [[Athletics]] check against the grabbed or restrained creature's Fortitude DC. If the creature is restrained, the mammoth gains a +4 circumstance bonus to this check. On a success, the mammoth flings the creature up to 30 feet overhead and up to 30 feet away (the creature takes damage from the fall as normal, up to 15 damage for a 30-foot fall). If the flung creature lands on another creature, the creature it lands on takes the same amount of bludgeoning damage (DC 28 basic Reflex save).</span><span class="in-box-ability">**Shambling Trample** <span class="action-icon">2</span> As [[Trample]] (Large or smaller, foot, DC 27), but the tar zombie mammoth Strides up to its Speed instead of double its Speed.</span><span class="in-box-ability">**Vomit Tar** <span class="action-icon">2</span> (evocation, primal) The tar zombie vomits a gout of sticky tar in a 15-foot cone that deals 7d6 bludgeoning damage (DC 28 basic Reflex save). Creatures that fail the save are [[Slowed]] and gain fire weakness 5. Both conditions end after 3 rounds or when the tar is scrubbed off (which requires 3 Interact actions). The tar zombie can't Vomit Tar again for 1d4 rounds.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> tusk +21 [+16/+11] (reach 15 feet), **Damage** 2d12+11 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> trunk +21 [+16/+11] (reach 15 feet), **Damage** 2d8+11 bludgeoning plus [[DATABASE/monsterability/Improved Grab|Improved Grab]]</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> foot +21 [+16/+11] (reach 10 feet), **Damage** 2d6+11 bludgeoning</span><span class="in-box-ability">**Fling** <span class="action-icon">1</span> **Requirements** The tar zombie mammoth has a creature [[DATABASE/condition/Grabbed|grabbed]] or [[DATABASE/condition/Restrained|restrained]] by its trunk; **Effect** The tar zombie mammoth whips its prey violently into the air. It attempts an [[DATABASE/skill/Athletics|Athletics]] check against the grabbed or restrained creature's Fortitude DC. If the creature is restrained, the mammoth gains a +4 circumstance bonus to this check. On a success, the mammoth flings the creature up to 30 feet overhead and up to 30 feet away (the creature takes damage from the fall as normal, up to 15 damage for a 30-foot fall). If the flung creature lands on another creature, the creature it lands on takes the same amount of bludgeoning damage (DC 28 basic Reflex save).</span><span class="in-box-ability">**Shambling Trample** <span class="action-icon">2</span> As [[DATABASE/monsterability/Trample|Trample]] (Large or smaller, foot, DC 27), but the tar zombie mammoth Strides up to its Speed instead of double its Speed.</span><span class="in-box-ability">**Vomit Tar** <span class="action-icon">2</span> (evocation, primal) The tar zombie vomits a gout of sticky tar in a 15-foot cone that deals 7d6 bludgeoning damage (DC 28 basic Reflex save). Creatures that fail the save are [[DATABASE/condition/Slowed|slowed 1]] and gain fire weakness 5. Both conditions end after 3 rounds or when the tar is scrubbed off (which requires 3 Interact actions). The tar zombie can't Vomit Tar again for 1d4 rounds.</span>

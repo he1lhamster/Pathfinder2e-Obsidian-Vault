@@ -12,6 +12,7 @@ prerequisite: null
 rarity: Common
 requirement: Your last action was a successful Strike, and either you have a hand
   free or your Strike used agrapple weapon.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -25,7 +26,7 @@ type: Feat
 # Furious Grab <span class="action-icon">1</span> <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Barbarian</span><span class="item-trait">Rage</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Requirements** Your last action was a successful Strike, and either you have a hand free or your Strike used a grapple weapon.
 
 ---

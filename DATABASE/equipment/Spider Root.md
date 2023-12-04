@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: DC 28 Fortitude
 school: null
 size: null
@@ -56,11 +57,11 @@ weapon_type: null
 # Spider Root<span class="item-type">Item 9</span>
 
 <span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Contact</span><span class="item-trait">Poison</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 110 gp
 **Usage** held in 2 hands; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
 ---
 A paste made by mashing the fine, threadlike roots of a certain creeper vine, spider root renders a victim clumsy and maladroit.
-**Saving Throw** DC 28 Fortitude; **Onset** 1 minute; **Maximum Duration** 6 minutes; **Stage 1** 8d6 poison damage and [[Clumsy]] (1 minute); **Stage 2** 9d6 poison damage and clumsy 2 (1 minute); **Stage 3** 10d6 poison damage and clumsy 3 (1 minute)
+**Saving Throw** DC 28 Fortitude; **Onset** 1 minute; **Maximum Duration** 6 minutes; **Stage 1** 8d6 poison damage and [[DATABASE/condition/Clumsy|clumsy 1]] (1 minute); **Stage 2** 9d6 poison damage and clumsy 2 (1 minute); **Stage 3** 10d6 poison damage and clumsy 3 (1 minute)

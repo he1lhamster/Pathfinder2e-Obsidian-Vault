@@ -3,6 +3,7 @@ creature_family: Warg
 id: '98'
 name: Warg
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Warg
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 The warg is an intelligent and malevolent wolf that dwells among goblins, hobgoblins, orcs, and other violent humanoids.
 
 ### Members
 
-[[Warg]] (Creature 2), [[Winter Wolf]] (Creature 5)
+[[DATABASE/monster/Warg|Warg]] (Creature 2), [[DATABASE/monster/Winter Wolf|Winter Wolf]] (Creature 5)
 
 ###  Warg Legends
 

@@ -11,6 +11,7 @@ name: Backup Disguise
 prerequisite: Expert in [[DATABASE/skill/Deception|Deception]]
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 subcategory: deception
@@ -25,12 +26,12 @@ type: Feat
 # Backup Disguise <span class="item-type">Feat 2</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Character Guide]] 
-**Prerequisites** expert in [[Deception]]
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
+**Prerequisites** expert in [[DATABASE/skill/Deception|Deception]]
 **Access** members of the Firebrands gain access to them once they reach the rank of second mark
 
 ---
-You have a specific disguise that you keep at the ready, worn underneath your outer garment. You can change into this disguise to [[Impersonate]] as a 3-action activity. If you have master proficiency in Deception, it is instead a 2-action activity, and if you have legendary proficiency, it is a single action. You can create a new backup disguise by spending the normal amount of time it takes you to Impersonate, but you can have only one backup disguise at a time. Having a backup disguise doesn’t allow you to remove your armor or any other complex piece of clothing any more quickly, but once you have those off, the disguise is readily available. Because you have the backup disguise at the ready, it’s possible that a thorough search might reveal some elements of the disguise (see [[Conceal an Object]] in the [[Stealth]] skill).
+You have a specific disguise that you keep at the ready, worn underneath your outer garment. You can change into this disguise to [[DATABASE/action/Impersonate|Impersonate]] as a 3-action activity. If you have master proficiency in Deception, it is instead a 2-action activity, and if you have legendary proficiency, it is a single action. You can create a new backup disguise by spending the normal amount of time it takes you to Impersonate, but you can have only one backup disguise at a time. Having a backup disguise doesn’t allow you to remove your armor or any other complex piece of clothing any more quickly, but once you have those off, the disguise is readily available. Because you have the backup disguise at the ready, it’s possible that a thorough search might reveal some elements of the disguise (see [[DATABASE/action/Conceal an Object|Conceal an Object]] in the [[DATABASE/skill/Stealth|Stealth]] skill).
 
 ## Traits
 
@@ -44,10 +45,10 @@ A general feat with the skill trait improves your skills and their actions or gi
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.
 
 ### Firebrand Options
 
-**Source** [[Character Guide]] 
-The Firebrands use a variety of unorthodox equipment and techniques to achieve their goals, whether those goals include drawing attention, or subterfuge and subtlety. The following Firebrand options are uncommon, and members of the Firebrands gain access to them once they reach the rank of second mark. The [[Entourage]] feat is rare even for members of the Firebrands, as it requires a certain degree of fame and in-world activity to acquire, and potentially requires the player or GM to keep track of additional background NPCs. Typically, only third mark and fourth mark Firebrands have the notoriety and social influence required to maintain an entourage. While Firebrands seek to build an entourage more than most adventurers, it’s not unreasonable for any famous character to gain access to it if the players are interested in playing with the [[Entourage]] feat.
-**Related Feats**: [[Entourage]], [[Sow Rumor]]
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
+The Firebrands use a variety of unorthodox equipment and techniques to achieve their goals, whether those goals include drawing attention, or subterfuge and subtlety. The following Firebrand options are uncommon, and members of the Firebrands gain access to them once they reach the rank of second mark. The [[DATABASE/feat/Entourage|Entourage]] feat is rare even for members of the Firebrands, as it requires a certain degree of fame and in-world activity to acquire, and potentially requires the player or GM to keep track of additional background NPCs. Typically, only third mark and fourth mark Firebrands have the notoriety and social influence required to maintain an entourage. While Firebrands seek to build an entourage more than most adventurers, it’s not unreasonable for any famous character to gain access to it if the players are interested in playing with the [[DATABASE/feat/Entourage|Entourage]] feat.
+**Related Feats**: [[DATABASE/feat/Entourage|Entourage]], [[DATABASE/feat/Sow Rumor|Sow Rumor]]

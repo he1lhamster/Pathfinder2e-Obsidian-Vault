@@ -23,6 +23,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -39,9 +40,9 @@ type: Spell
 # Invisibility Sphere<span class="item-type">Spell 3</span>
 
 <span class="item-trait">Illusion</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult
-**Deities** [[Luhar]], [[Thamir]]
+**Deities** [[DATABASE/deity/Luhar|Luhar]], [[DATABASE/deity/Thamir|Thamir]]
 **Cast** <span class="action-icon">2</span> material, somatic
 **Area** 10-foot emanation; **Targets** you and any number of creatures in range
 **Duration** 10 minutes

@@ -11,6 +11,7 @@ name: Alter Resistance
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,12 +24,12 @@ type: Feat
 # Alter Resistance <span class="action-icon">5</span> <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Ganzi</span>
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 **Frequency** once per hour
 **Trigger** You take acid, electricity, or sonic damage.
 
 ---
-You focus on your [[Protean]] forebears to change your energy resistance. The energy resistance you gain from your ganzi heritage changes to match the triggering damage. This change occurs after the damage is dealt.
+You focus on your [[DATABASE/monsterfamily/Protean|protean]] forebears to change your energy resistance. The energy resistance you gain from your ganzi heritage changes to match the triggering damage. This change occurs after the damage is dealt.
 
 ## Traits
 

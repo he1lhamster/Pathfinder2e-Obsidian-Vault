@@ -70,19 +70,19 @@ wisdom: '+3'
 # Grippli Archer
 
 These sharpshooters are renowned for their patience and their accuracy.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 18
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Grippli Archer<span class="item-type">Creature 3</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Small</span><span class="item-trait">Grippli</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 146. Cult of Cinders]]
+**Source** [[DATABASE/source/Pathfinder 146. Cult of Cinders|Pathfinder #146: Cult of Cinders]]
 **Perception** +10; darkvision
-**Languages** [[Common]], [[Grippli]]
-**Skills** [[Acrobatics]] +9, [[Athletics]] +6, [[Nature]] +8, [[Stealth]] +11 (+13 in forests), [[Survival]] +8
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Grippli|Grippli]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +9, [[DATABASE/skill/Athletics|Athletics]] +6, [[DATABASE/skill/Nature|Nature]] +8, [[DATABASE/skill/Stealth|Stealth]] +11 (+13 in forests), [[DATABASE/skill/Survival|Survival]] +8
 **Str** +1, **Dex** +4, **Con** +2, **Int** +0, **Wis** +3, **Cha** -1
-**Items** [[Leather Armor]], [[Shortbow]], [[Shortsword]]
+**Items** [[DATABASE/armor/Leather Armor|leather armor]], [[DATABASE/weapon/Shortbow|shortbow (30 arrows)]], [[DATABASE/weapon/Shortsword|shortsword]]
 
 ---
 **AC** 20; **Fort** +9, **Ref** +11, **Will** +10

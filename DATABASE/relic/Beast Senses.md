@@ -5,6 +5,7 @@ item_category: Relics
 name: Beast Senses
 prerequisite: The relic is a worn item.
 rarity: Common
+rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
@@ -15,7 +16,7 @@ type: Relic Minor Gift
 # Beast Senses<span class="item-type">Minor Gift</span>
 
 <span class="item-trait">Transmutation</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Aspect** beast; **Prerequisite** The relic is a worn item.
 
 ---

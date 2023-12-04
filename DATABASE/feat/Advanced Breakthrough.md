@@ -11,6 +11,7 @@ name: Advanced Breakthrough
 prerequisite: '[[DATABASE/feat/Basic Breakthrough|Basic Breakthrough]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Advanced Breakthrough <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Guns & Gears]]
-**Archetype** [[Inventor]]
-**Prerequisites** [[Basic Breakthrough]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Archetype** [[DATABASE/archetype/Inventor|Inventor]]
+**Prerequisites** [[DATABASE/feat/Basic Breakthrough|Basic Breakthrough]]
 
 ---
 You gain one inventor feat. For the purpose of meeting its prerequisites, your inventor level is equal to half your character level.

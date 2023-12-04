@@ -17,6 +17,7 @@ name: Flying Guillotine
 rarity: Common
 reflex: '+17'
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 157. Devil at the Dreaming Palace|Pathfinder
   #157: Devil at the Dreaming Palace]]'
@@ -32,13 +33,13 @@ will: null
 # Flying Guillotine<span class="item-type">Hazard 5</span>
 
 <span class="item-trait">Complex</span><span class="item-trait">Magical</span><span class="item-trait">Trap</span>
-**Source** [[Pathfinder 157. Devil at the Dreaming Palace]]
+**Source** [[DATABASE/source/Pathfinder 157. Devil at the Dreaming Palace|Pathfinder #157: Devil at the Dreaming Palace]]
 **Complexity** Complex
 **Stealth** +10 (trained) or DC 23 (expert) to spot the glyph
 **Description** An invisible magical glyph on the guillotine's blade detects living creatures in the room, which causes the guillotine to fly off its hinges and attack.
 
 ---
-**Disable** DC 20 [[Thievery]] (trained) to erase the glyph (which requires a successful unarmed attack roll if the blade is already active) or [[Dispel Magic]] (3rd level; counteract DC 20) to counteract it. The trap has a secret bypass known only to Ralso and Pratchett: as long as the guillotine can see a creature in the room touching thumb and pinky together with an empty hand, it remains dormant.
+**Disable** DC 20 [[DATABASE/skill/Thievery|Thievery]] (trained) to erase the glyph (which requires a successful unarmed attack roll if the blade is already active) or [[DATABASE/spell/Dispel Magic|dispel magic]] (3rd level; counteract DC 20) to counteract it. The trap has a secret bypass known only to Ralso and Pratchett: as long as the guillotine can see a creature in the room touching thumb and pinky together with an empty hand, it remains dormant.
 **AC** 23, **Fort** +9, **Ref** +17
 **Blade Hardness** 13, **Blade HP** 52 (BT 26); **Immunities** critical hits, object immunities, precision damage
 **Flying Blade** <span class="action-icon">5</span> (abjuration, arcane, attack) **Trigger** A living creature enters the room; **Effect** One round after a creature enters the room, the door to the room slams shut and locks (two DC 20 Thievery checks to pick), and the guillotine blade detaches from its housing and begins flying around the room as the trap rolls initiative.

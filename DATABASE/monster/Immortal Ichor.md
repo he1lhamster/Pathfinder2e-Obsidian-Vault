@@ -96,17 +96,17 @@ wisdom: '+6'
 # Immortal Ichor
 
 An immortal ichor is an intelligent mass of blood from a dead evil deity. The cultists who perform the ritual to create immortal ichor typically seal up the sentient ooze in an underground or remote chamber that blocks its magical abilities, but over time these seals break or weaken, freeing the unholy monster.
-**Recall Knowledge - Ooze ([[Occultism]])**: DC 39
+**Recall Knowledge - Ooze ([[DATABASE/skill/Occultism|Occultism]])**: DC 39
 **Unspecific Lore**: DC 37
 **Specific Lore**: DC 34
 
 # Immortal Ichor<span class="item-type">Creature 15</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Ooze</span>
-**Source** [[Pathfinder 149. Against the Scarlet Triad]]
+**Source** [[DATABASE/source/Pathfinder 149. Against the Scarlet Triad|Pathfinder #149: Against the Scarlet Triad]]
 **Perception** +20; motion sense 60 feet, no vision
-**Languages** [[Abyssal]], [[Aklo]], [[Infernal]], [[Undercommon]]; telepathy 100 feet
-**Skills** [[Lore]] +30, [[Arcana]] +30, [[Religion]] +29
+**Languages** [[DATABASE/language/Abyssal|Abyssal]], [[DATABASE/language/Aklo|Aklo]], [[DATABASE/language/Infernal|Infernal]], [[DATABASE/language/Undercommon|Undercommon]]; telepathy 100 feet
+**Skills** [[DATABASE/skill/Lore|Ancient History Lore]] +30, [[DATABASE/skill/Arcana|Arcana]] +30, [[DATABASE/skill/Religion|Religion]] +29
 **Str** +6, **Dex** +3, **Con** +9, **Int** +7, **Wis** +6, **Cha** +6
 
 ---
@@ -116,9 +116,9 @@ An immortal ichor is an intelligent mass of blood from a dead evil deity. The cu
 
 ---
 **Speed** 20 feet, fly 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> pseudopod +27 [+22/+17], **Damage** 3d8+12 bludgeoning plus mental erosion</span>**Divine Innate Spells** DC 37, attack +31; **7th** _[[Charm]]_ (x3), _[[Feeblemind]]_, _[[Possession]]_, _[[Suggestion]]_; **6th** _[[Crisis of Faith]]_, _[[Telekinetic Haul]]_ (at will); **3rd** _[[Mind Reading]]_ (at will); **2nd** _[[Telekinetic Maneuver]]_ (at will); **1st** _[[Charm]]_ (at will), _[[Command]]_ (at will); **Cantrips** **(7th)** _[[Telekinetic Projectile]]_
-**Cleric Domain Spells** DC 37, attack +31, 3 Focus Points; **8th** _[[Cry of Destruction]]_, _[[Destructive Aura]]_
-<span class="in-box-ability">**Corrupt Ally** (divine, enchantment, mental) A creature that fails to save against an immortal ichor’s [[Charm]] spell becomes [[Stupefied]]. The stupefied value reduces by 1 every 24 hours. The first time each day a creature stupefied by the ichor’s _charm_ fails to save against another casting of the ichor’s _charm_, the value of the condition increases by 1d4. If the stupefied condition ever equals the creature’s Wisdom score, it becomes [[Controlled]] by the ichor permanently; if it dies, it rises the next round as a [[Zombie]] (of the GM’s choice) under the ichor’s control. If the ichor is killed, these zombies are destroyed.</span><span class="in-box-ability">**Dead Spells** An immortal ichor can cast an initial and advanced domain spell of a domain that belonged to the dead deity from which the ichor arose (the domain spells presented here are from the [[Destruction Domain]] domain).</span><span class="in-box-ability">**Mental Erosion** A creature hit by the ichor’s pseudopod is [[Stupefied]] for 1 day unless it succeeds at a DC 35 Will save.</span><span class="in-box-ability">**Resanguinate** <span class="action-icon">3</span> (divine, healing, necromancy) The immortal ichor draws blood from the pores of living creatures around it. Any living creature within 30 feet that has blood takes 4d6 damage (DC 33 basic Fortitude save). The immortal ichor regains HP equal to the total damage dealt. A creature that fails its save is also [[Drained]] (or drained 2 on a critical failure).</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> pseudopod +27 [+22/+17], **Damage** 3d8+12 bludgeoning plus mental erosion</span>**Divine Innate Spells** DC 37, attack +31; **7th** _[[DATABASE/spell/Charm|charm]]_ (x3), _[[DATABASE/spell/Feeblemind|feeblemind]]_, _[[DATABASE/spell/Possession|possession]]_, _[[DATABASE/spell/Suggestion|suggestion]]_; **6th** _[[DATABASE/spell/Crisis of Faith|crisis of faith]]_, _[[DATABASE/spell/Telekinetic Haul|telekinetic haul]]_ (at will); **3rd** _[[DATABASE/spell/Mind Reading|mind reading]]_ (at will); **2nd** _[[DATABASE/spell/Telekinetic Maneuver|telekinetic maneuver]]_ (at will); **1st** _[[DATABASE/spell/Charm|charm]]_ (at will), _[[DATABASE/spell/Command|command]]_ (at will); **Cantrips** **(7th)** _[[DATABASE/spell/Telekinetic Projectile|telekinetic projectile]]_
+**Cleric Domain Spells** DC 37, attack +31, 3 Focus Points; **8th** _[[DATABASE/spell/Cry of Destruction|cry of destruction]]_, _[[DATABASE/spell/Destructive Aura|destructive aura]]_
+<span class="in-box-ability">**Corrupt Ally** (divine, enchantment, mental) A creature that fails to save against an immortal ichor’s [[DATABASE/spell/Charm|charm]] spell becomes [[DATABASE/condition/Stupefied|stupefied 1]]. The stupefied value reduces by 1 every 24 hours. The first time each day a creature stupefied by the ichor’s _charm_ fails to save against another casting of the ichor’s _charm_, the value of the condition increases by 1d4. If the stupefied condition ever equals the creature’s Wisdom score, it becomes [[DATABASE/condition/Controlled|controlled]] by the ichor permanently; if it dies, it rises the next round as a [[DATABASE/monsterfamily/Zombie|zombie]] (of the GM’s choice) under the ichor’s control. If the ichor is killed, these zombies are destroyed.</span><span class="in-box-ability">**Dead Spells** An immortal ichor can cast an initial and advanced domain spell of a domain that belonged to the dead deity from which the ichor arose (the domain spells presented here are from the [[DATABASE/domain/Destruction Domain|destruction]] domain).</span><span class="in-box-ability">**Mental Erosion** A creature hit by the ichor’s pseudopod is [[DATABASE/condition/Stupefied|stupefied 2]] for 1 day unless it succeeds at a DC 35 Will save.</span><span class="in-box-ability">**Resanguinate** <span class="action-icon">3</span> (divine, healing, necromancy) The immortal ichor draws blood from the pores of living creatures around it. Any living creature within 30 feet that has blood takes 4d6 damage (DC 33 basic Fortitude save). The immortal ichor regains HP equal to the total damage dealt. A creature that fails its save is also [[DATABASE/condition/Drained|drained 1]] (or drained 2 on a critical failure).</span>
 
 ###  Dead Deities
 

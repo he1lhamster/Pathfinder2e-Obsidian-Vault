@@ -16,6 +16,7 @@ price: 1,000 gp
 rarity: Uncommon
 reflex: null
 resistance: null
+rus_type_level: null
 school: null
 size: Huge
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
@@ -28,7 +29,7 @@ type: Vehicle
 # Snail Coach<span class="item-type">Vehicle 7</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-size item-trait">Huge</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 1,000 gp
 
 ---
@@ -37,7 +38,7 @@ Shaped like its animal namesake, a snail coach is a trolley powered by a combina
 ---
 **Space** 30 feet long, 10 feet wide, 15 feet high
 **Crew** 1 pilot; **Passengers** 6
-**Piloting Check** [[Lore]] (DC 23) or [[Crafting]] (DC 25)
+**Piloting Check** [[DATABASE/skill/Lore|Driving Lore]] (DC 23) or [[DATABASE/skill/Crafting|Crafting]] (DC 25)
 
 ---
 **AC** 21; **Fort** +15
@@ -46,4 +47,4 @@ Shaped like its animal namesake, a snail coach is a trolley powered by a combina
 ---
 **Speed** 15 feet, climb 15 feet (alchemical, magical)
 **Collision** 7d6 (DC 21)
-**Adhesive Secretions** This vehicle secretes an alchemical adhesive that allows it to stick to and climb up solid surfaces. Spaces the snail coach moves through become difficult terrain for 1 round. Any creature that ends their turn on the adhesive must succeed at a DC 23 Reflex save or take a –10-foot status penalty to its Speeds for 1 round. On a critical failure, the creature is also [[Immobilized]] for 1 round ([[Escape]] DC 23).
+**Adhesive Secretions** This vehicle secretes an alchemical adhesive that allows it to stick to and climb up solid surfaces. Spaces the snail coach moves through become difficult terrain for 1 round. Any creature that ends their turn on the adhesive must succeed at a DC 23 Reflex save or take a –10-foot status penalty to its Speeds for 1 round. On a critical failure, the creature is also [[DATABASE/condition/Immobilized|immobilized]] for 1 round ([[DATABASE/action/Escape|Escape]] DC 23).

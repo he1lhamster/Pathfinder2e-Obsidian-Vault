@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: DC 17 Fortitude
 school: null
 size: null
@@ -57,11 +58,11 @@ weapon_type: null
 # Violet Venom<span class="item-type">Item 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Contact</span><span class="item-trait">Poison</span>
-**Source** [[Treasure Vault]] , [[Bestiary 2]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] , [[DATABASE/source/Bestiary 2|Bestiary 2]] 
 **Price** 12 gp
 **Usage** held in 2 hands; **Bulk** L
 **Activate** <span class="action-icon">2</span> Interact
 
 ---
-The delicate process of extracting violet venom from a [[Violet Fungus]] leaves it diluted at the best of times. Alchemists are still on the hunt for a truly pure, unadulterated version of this highly toxic poison.
- **Saving Throw** DC 17 Fortitude; **Onset** 1 minute; **Maximum Duration** 6 rounds; **Stage 1** 1d6 poison plus [[Enfeebled]] (1 round); **Stage 2** 1d6 poison plus [[Drained]] (1 round); **Stage 3** 2d6 poison plus [[Enfeebled]] (1 round)
+The delicate process of extracting violet venom from a [[DATABASE/monster/Violet Fungus|violet fungus]] leaves it diluted at the best of times. Alchemists are still on the hunt for a truly pure, unadulterated version of this highly toxic poison.
+ **Saving Throw** DC 17 Fortitude; **Onset** 1 minute; **Maximum Duration** 6 rounds; **Stage 1** 1d6 poison plus [[DATABASE/condition/Enfeebled|enfeebled 1]] (1 round); **Stage 2** 1d6 poison plus [[DATABASE/condition/Drained|drained 1]] (1 round); **Stage 3** 2d6 poison plus [[DATABASE/condition/Enfeebled|enfeebled 1]] (1 round)

@@ -11,6 +11,7 @@ name: Rehydration
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -26,7 +27,7 @@ type: Feat
 # Rehydration <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Azarketi</span><span class="item-trait">Primal</span><span class="item-trait">Transmutation</span><span class="item-trait">Water</span>
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 **Frequency** once per day
 
 ---

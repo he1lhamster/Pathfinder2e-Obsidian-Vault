@@ -18,6 +18,7 @@ id: '5'
 name: Cleric
 perception_proficiency: Trained
 rarity: Common
+rus_type_level: null
 skill_proficiency:
 - Trained in Religion
 - Trained in one skill determined by your choice of deity
@@ -30,7 +31,7 @@ type: Class
 
 ---
 # Cleric
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 _Deities work their will upon the world in infinite ways, and you serve as one of their most stalwart mortal servants. Blessed with divine magic, you live the ideals of your faith, adorn yourself with the symbols of your church, and train diligently to wield your deity’s favored weapon. Your spells might protect and heal your allies, or they might punish foes and enemies of your faith, as your deity wills. Yours is a life of devotion, spreading the teachings of your faith through both word and deed._
 **Key Ability: WISDOM**
 At 1st level, your class gives you an ability boost to Wisdom.
@@ -88,7 +89,7 @@ Expert in Will
 
 ## Skills
 
-Trained in [[Religion]]
+Trained in [[DATABASE/skill/Religion|Religion]]
 Trained in one skill determined by your choice of deity
 Trained in a number of additional skills equal to 2 plus your Intelligence modifier
 
@@ -110,54 +111,52 @@ Trained in divine spell DCs
 
 # Class Features
 
-You gain these features as a Cleric. Abilities gained at higher levels list the levels at which you gain them next to the features' names.
-
-|   Your Level | Class Features                                                                                    |
-|-------------:|:--------------------------------------------------------------------------------------------------|
-|            1 | Ancestry and background, initial proficiencies, deity, divine spellcasting, divine font, doctrine |
-|            2 | Cleric feat, skill feat                                                                           |
-|            3 | 2nd-level spells, general feat, second doctrine, skill increase                                   |
-|            4 | Cleric feat, skill feat                                                                           |
-|            5 | 3rd-level spells, ability boosts, alertness, ancestry feat, skill increase                        |
-|            6 | Cleric feat, skill feat                                                                           |
-|            7 | 4th-level spells, general feat, skill increase, third doctrine                                    |
-|            8 | Cleric feat, skill feat                                                                           |
-|            9 | 5th-level spells, ancestry feat, resolve, skill increase                                          |
-|           10 | Ability boosts, cleric feat, skill feat                                                           |
-|           11 | 6th-level spells, fourth doctrine, general feat, lightning reflexes, skill increase               |
-|           12 | Cleric feat, skill feat                                                                           |
-|           13 | 7th-level spells, ancestry feat, divine defense, skill increase, weapon specialization            |
-|           14 | Cleric feat, skill feat                                                                           |
-|           15 | 8th-level spells, ability boosts, fifth doctrine, general feat, skill increase                    |
-|           16 | Cleric feat, skill feat                                                                           |
-|           17 | 9th-level spells, ancestry feat, skill increase                                                   |
-|           18 | Cleric feat, skill feat                                                                           |
-|           19 | Final doctrine, general feat, miraculous spell, skill increase                                    |
-|           20 | Ability boosts, cleric feat, skill feat                                                           |
-
-| Your Level                                                                                                                                                                                                                                                     |   Cantrips | 1st   | 2nd   | 3rd   | 4th   | 5th   | 6th   | 7th   | 8th   | 9th   | 10th   |
-|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------:|:------|:------|:------|:------|:------|:------|:------|:------|:------|:-------|
-| 1                                                                                                                                                                                                                                                              |          5 | 2*    | —     | —     | —     | —     | —     | —     | —     | —     | —      |
-| 2                                                                                                                                                                                                                                                              |          5 | 3*    | —     | —     | —     | —     | —     | —     | —     | —     | —      |
-| 3                                                                                                                                                                                                                                                              |          5 | 3     | 2*    | —     | —     | —     | —     | —     | —     | —     | —      |
-| 4                                                                                                                                                                                                                                                              |          5 | 3     | 3*    | —     | —     | —     | —     | —     | —     | —     | —      |
-| 5                                                                                                                                                                                                                                                              |          5 | 3     | 3     | 2*    | —     | —     | —     | —     | —     | —     | —      |
-| 6                                                                                                                                                                                                                                                              |          5 | 3     | 3     | 3*    | —     | —     | —     | —     | —     | —     | —      |
-| 7                                                                                                                                                                                                                                                              |          5 | 3     | 3     | 3     | 2*    | —     | —     | —     | —     | —     | —      |
-| 8                                                                                                                                                                                                                                                              |          5 | 3     | 3     | 3     | 3*    | —     | —     | —     | —     | —     | —      |
-| 9                                                                                                                                                                                                                                                              |          5 | 3     | 3     | 3     | 3     | 2*    | —     | —     | —     | —     | —      |
-| 10                                                                                                                                                                                                                                                             |          5 | 3     | 3     | 3     | 3     | 3*    | —     | —     | —     | —     | —      |
-| 11                                                                                                                                                                                                                                                             |          5 | 3     | 3     | 3     | 3     | 3     | 2*    | —     | —     | —     | —      |
-| 12                                                                                                                                                                                                                                                             |          5 | 3     | 3     | 3     | 3     | 3     | 3*    | —     | —     | —     | —      |
-| 13                                                                                                                                                                                                                                                             |          5 | 3     | 3     | 3     | 3     | 3     | 3     | 2*    | —     | —     | —      |
-| 14                                                                                                                                                                                                                                                             |          5 | 3     | 3     | 3     | 3     | 3     | 3     | 3*    | —     | —     | —      |
-| 15                                                                                                                                                                                                                                                             |          5 | 3     | 3     | 3     | 3     | 3     | 3     | 3     | 2*    | —     | —      |
-| 16                                                                                                                                                                                                                                                             |          5 | 3     | 3     | 3     | 3     | 3     | 3     | 3     | 3*    | —     | —      |
-| 17                                                                                                                                                                                                                                                             |          5 | 3     | 3     | 3     | 3     | 3     | 3     | 3     | 3     | 2*    | —      |
-| 18                                                                                                                                                                                                                                                             |          5 | 3     | 3     | 3     | 3     | 3     | 3     | 3     | 3     | 3*    | —      |
-| 19                                                                                                                                                                                                                                                             |          5 | 3     | 3     | 3     | 3     | 3     | 3     | 3     | 3     | 3     | 1* †   |
-| 20                                                                                                                                                                                                                                                             |          5 | 3     | 3     | 3     | 3     | 3     | 3     | 3     | 3     | 3     | 1* †   |
-| * Your divine font gives you additional _heal_ or _harm_ spells of this level. The number is equal to 1 + your Charisma modifier.  † The miraculous spell class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. |        nan | nan   | nan   | nan   | nan   | nan   | nan   | nan   | nan   | nan   | nan    |
+You gain these features as a Cleric. Abilities gained at higher levels list the levels at which you gain them next to the features' names.| 0 | 1 |
+|:-----------|:--------------------------------------------------------------------------------------------------|
+| Your Level | Class Features |
+| 1 | Ancestry and background, initial proficiencies, deity, divine spellcasting, divine font, doctrine |
+| 2 | Cleric feat, skill feat |
+| 3 | 2nd-level spells, general feat, second doctrine, skill increase |
+| 4 | Cleric feat, skill feat |
+| 5 | 3rd-level spells, ability boosts, alertness, ancestry feat, skill increase |
+| 6 | Cleric feat, skill feat |
+| 7 | 4th-level spells, general feat, skill increase, third doctrine |
+| 8 | Cleric feat, skill feat |
+| 9 | 5th-level spells, ancestry feat, resolve, skill increase |
+| 10 | Ability boosts, cleric feat, skill feat |
+| 11 | 6th-level spells, fourth doctrine, general feat, lightning reflexes, skill increase |
+| 12 | Cleric feat, skill feat |
+| 13 | 7th-level spells, ancestry feat, divine defense, skill increase, weapon specialization |
+| 14 | Cleric feat, skill feat |
+| 15 | 8th-level spells, ability boosts, fifth doctrine, general feat, skill increase |
+| 16 | Cleric feat, skill feat |
+| 17 | 9th-level spells, ancestry feat, skill increase |
+| 18 | Cleric feat, skill feat |
+| 19 | Final doctrine, general feat, miraculous spell, skill increase |
+| 20 | Ability boosts, cleric feat, skill feat || 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Your Level | Cantrips | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th | 10th |
+| 1 | 5 | 2* | — | — | — | — | — | — | — | — | — |
+| 2 | 5 | 3* | — | — | — | — | — | — | — | — | — |
+| 3 | 5 | 3 | 2* | — | — | — | — | — | — | — | — |
+| 4 | 5 | 3 | 3* | — | — | — | — | — | — | — | — |
+| 5 | 5 | 3 | 3 | 2* | — | — | — | — | — | — | — |
+| 6 | 5 | 3 | 3 | 3* | — | — | — | — | — | — | — |
+| 7 | 5 | 3 | 3 | 3 | 2* | — | — | — | — | — | — |
+| 8 | 5 | 3 | 3 | 3 | 3* | — | — | — | — | — | — |
+| 9 | 5 | 3 | 3 | 3 | 3 | 2* | — | — | — | — | — |
+| 10 | 5 | 3 | 3 | 3 | 3 | 3* | — | — | — | — | — |
+| 11 | 5 | 3 | 3 | 3 | 3 | 3 | 2* | — | — | — | — |
+| 12 | 5 | 3 | 3 | 3 | 3 | 3 | 3* | — | — | — | — |
+| 13 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 2* | — | — | — |
+| 14 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3* | — | — | — |
+| 15 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 2* | — | — |
+| 16 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3* | — | — |
+| 17 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 2* | — |
+| 18 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3* | — |
+| 19 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 1* † |
+| 20 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 1* † |
+| * Your divine font gives you additional heal or harm spells of this level. The number is equal to 1 + your Charisma modifier. † The miraculous spell class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * Your divine font gives you additional heal or harm spells of this level. The number is equal to 1 + your Charisma modifier. † The miraculous spell class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * Your divine font gives you additional heal or harm spells of this level. The number is equal to 1 + your Charisma modifier. † The miraculous spell class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * Your divine font gives you additional heal or harm spells of this level. The number is equal to 1 + your Charisma modifier. † The miraculous spell class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * Your divine font gives you additional heal or harm spells of this level. The number is equal to 1 + your Charisma modifier. † The miraculous spell class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * Your divine font gives you additional heal or harm spells of this level. The number is equal to 1 + your Charisma modifier. † The miraculous spell class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * Your divine font gives you additional heal or harm spells of this level. The number is equal to 1 + your Charisma modifier. † The miraculous spell class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * Your divine font gives you additional heal or harm spells of this level. The number is equal to 1 + your Charisma modifier. † The miraculous spell class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * Your divine font gives you additional heal or harm spells of this level. The number is equal to 1 + your Charisma modifier. † The miraculous spell class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * Your divine font gives you additional heal or harm spells of this level. The number is equal to 1 + your Charisma modifier. † The miraculous spell class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * Your divine font gives you additional heal or harm spells of this level. The number is equal to 1 + your Charisma modifier. † The miraculous spell class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. | * Your divine font gives you additional heal or harm spells of this level. The number is equal to 1 + your Charisma modifier. † The miraculous spell class feature gives you a 10th-level spell slot that works a bit differently from other spell slots. |
 
 ## Ancestry and Background
 
@@ -176,12 +175,12 @@ A list of all deities can be found here.
 ### Anathema
 
 Acts fundamentally opposed to your deity's alignment or ideals are anathema to your faith. Learning or casting spells, committing acts, and using items that are anathema to your deity remove you from your deity's good graces.
- Casting spells with the evil trait is almost always anathema to good deities, and casting good spells is likewise anathema to evil deities; similarly, casting chaotic spells is anathema to lawful deities, and casting lawful spells is anathema to chaotic deities. A neutral cleric who worships a neutral deity isn't limited this way, but their alignment might change over time if they frequently cast spells or use abilities with a certain alignment. Similarly, casting spells that are anathema to the tenets or goals of your faith could interfere with your connection to your deity. For example, casting a spell to create undead would be anathema to [[Pharasma]], the goddess of death. For borderline cases, you and your GM determine which acts are anathema.
- If you perform enough acts that are anathema to your deity, or if your alignment changes to one not allowed by your deity, you lose the magical abilities that come from your connection to your deity. The class features that you lose are determined by the GM, but they likely include your divine font and all divine spellcasting. These abilities can be regained only if you demonstrate your repentance by conducting an [[Atone]] ritual.
+ Casting spells with the evil trait is almost always anathema to good deities, and casting good spells is likewise anathema to evil deities; similarly, casting chaotic spells is anathema to lawful deities, and casting lawful spells is anathema to chaotic deities. A neutral cleric who worships a neutral deity isn't limited this way, but their alignment might change over time if they frequently cast spells or use abilities with a certain alignment. Similarly, casting spells that are anathema to the tenets or goals of your faith could interfere with your connection to your deity. For example, casting a spell to create undead would be anathema to [[DATABASE/deity/Pharasma|Pharasma]], the goddess of death. For borderline cases, you and your GM determine which acts are anathema.
+ If you perform enough acts that are anathema to your deity, or if your alignment changes to one not allowed by your deity, you lose the magical abilities that come from your connection to your deity. The class features that you lose are determined by the GM, but they likely include your divine font and all divine spellcasting. These abilities can be regained only if you demonstrate your repentance by conducting an [[DATABASE/ritual/Atone|atone]] ritual.
 
 ## Divine Spellcasting
 
-Your deity bestows on you the power to cast divine spells. You can cast divine spells using the Cast a Spell activity, and you can supply material, somatic, and verbal components when casting spells (see Casting Spells). Because you're a cleric, you can usually hold a divine focus (such as a [[Religious Symbol]]) for spells requiring material components instead of needing to use a [[Material Component Pouch]]. At 1st level, you can prepare two 1st-level spells and five cantrips each morning from the common spells on the divine spell list or from other divine spells to which you gain access. Prepared spells remain available to you until you cast them or until you prepare your spells again. The number of spells you can prepare is called your spell slots.
+Your deity bestows on you the power to cast divine spells. You can cast divine spells using the Cast a Spell activity, and you can supply material, somatic, and verbal components when casting spells (see Casting Spells). Because you're a cleric, you can usually hold a divine focus (such as a [[DATABASE/equipment/Religious Symbol|religious symbol]]) for spells requiring material components instead of needing to use a [[DATABASE/equipment/Material Component Pouch|material component pouch]]. At 1st level, you can prepare two 1st-level spells and five cantrips each morning from the common spells on the divine spell list or from other divine spells to which you gain access. Prepared spells remain available to you until you cast them or until you prepare your spells again. The number of spells you can prepare is called your spell slots.
  As you increase in level as a cleric, the number of spells you can prepare each day increases, as does the highest level of spell you can cast, as shown in Table 3–9: Cleric Spells per Day on page 120.
  Some of your spells require you to attempt a spell attack roll to see how effective they are, or your enemies to roll against your spell DC (typically by attempting a saving throw). Since your key ability is Wisdom, your spell attack rolls and spell DCs use your Wisdom modifier. Details on calculating these statistics appear in Spell Attack Rolls.
 
@@ -195,7 +194,7 @@ A cantrip is a special type of spell that doesn't use spell slots. You can cast 
 
 ## Divine Font
 
-Through your deity's blessing, you gain additional spells that channel either the life force called positive energy or its counterforce, negative energy. When you prepare your spells each day, you can prepare additional [[Heal]] or [[Harm]] spells, depending on your deity. The divine font spell your deity provides is listed in the Divine Font entry for your deity; if both are listed, you can choose between _heal_ or _harm_. Once you choose, you can't change your choice short of an ethical shift or divine intervention.
+Through your deity's blessing, you gain additional spells that channel either the life force called positive energy or its counterforce, negative energy. When you prepare your spells each day, you can prepare additional [[DATABASE/spell/Heal|heal]] or [[DATABASE/spell/Harm|harm]] spells, depending on your deity. The divine font spell your deity provides is listed in the Divine Font entry for your deity; if both are listed, you can choose between _heal_ or _harm_. Once you choose, you can't change your choice short of an ethical shift or divine intervention.
 **Healing Font**: You gain additional spell slots each day at your highest level of cleric spell slots. You can prepare only _heal_ spells in these slots, and the number of slots is equal to 1 plus your Charisma modifier.
 **Harmful Font**: You gain additional spell slots each day at your highest level of cleric spell slots. You can prepare only _harm_ spells in these slots, and the number of slots is equal to 1 plus your Charisma modifier.
 
@@ -251,4 +250,4 @@ You’ve learned how to inflict greater injuries with the weapons you know best.
 
 ## Miraculous Spell<span class="item-type">Level 19</span>
 
-You're exalted by your deity and gain truly incredible spells. You gain a single 10th-level spell slot and can prepare a spell in that slot using divine spellcasting. You can't use this spell slot for abilities that let you cast spells without expending spell slots or that give you more spell slots. You don't gain more 10th-level spells as you level up, though you can take the [[Maker of Miracles]] feat to gain a second slot.
+You're exalted by your deity and gain truly incredible spells. You gain a single 10th-level spell slot and can prepare a spell in that slot using divine spellcasting. You can't use this spell slot for abilities that let you cast spells without expending spell slots or that give you more spell slots. You don't gain more 10th-level spells as you level up, though you can take the [[DATABASE/feat/Maker of Miracles|Maker of Miracles]] feat to gain a second slot.

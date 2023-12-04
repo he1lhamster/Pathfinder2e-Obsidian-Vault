@@ -70,16 +70,16 @@ wisdom: '+3'
 # Goliath Spider
 
 Goliath spiders dwell in the deepest jungles, where they build webs as big as temples and feast on prey as large as hippopotami.
-**Recall Knowledge - Animal ([[Nature]])**: DC 28
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 28
 **Unspecific Lore**: DC 26
 **Specific Lore**: DC 23
 
 # Goliath Spider<span class="item-type">Creature 11</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Gargantuan</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +22; darkvision, web sense
-**Skills** [[Acrobatics]] +18, [[Athletics]] +23, [[Stealth]] +22
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +18, [[DATABASE/skill/Athletics|Athletics]] +23, [[DATABASE/skill/Stealth|Stealth]] +22
 **Str** +8, **Dex** +5, **Con** +7, **Int** -5, **Wis** +3, **Cha** -4
 **Web Sense** The goliath spider has imprecise tremorsense to detect the vibrations of creatures touching its web.
 

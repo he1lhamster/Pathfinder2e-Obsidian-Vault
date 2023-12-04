@@ -67,23 +67,23 @@ wisdom: '+1'
 # Giant Maggot
 
 Giant flies lay their eggs on the bodies of larger monsters or livestock. When they hatch, these eggs release squirming maggots the size of human children, ravenous young who voraciously consume any flesh in the immediate vicinity—typically starting with the body upon which they were born.
-**Recall Knowledge - Animal ([[Nature]])**: DC 14
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 14
 **Unspecific Lore**: DC 12
 **Specific Lore**: DC 9
 
 # Giant Maggot<span class="item-type">Creature 0</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary 2]] 
-**Perception** +3; no vision, [[Tremorsense]]
-**Skills** [[Athletics]] +4
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +3; no vision, [[DATABASE/monsterability/Tremorsense|tremorsense 30 feet]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +4
 **Str** +2, **Dex** -1, **Con** +3, **Int** -5, **Wis** +1, **Cha** -5
 
 ---
 **AC** 13; **Fort** +9, **Ref** +3, **Will** +3
 **HP** 18; **Immunities** visual
-<span class="in-box-ability">**Regurgitation <span class="action-icon">5</span> ** **Trigger **The giant maggot takes damage; **Effect **The giant maggot regurgitates its rancid, foul meal. All creatures in a 5-foot emanation must succeed at a DC 16 Fortitude save or become [[Sickened]] (or sickened 2 on a critical failure). The giant maggot can't use Regurgitation again until it spends at least an hour feeding on a corpse.</span>
+<span class="in-box-ability">**Regurgitation <span class="action-icon">5</span> ** **Trigger **The giant maggot takes damage; **Effect **The giant maggot regurgitates its rancid, foul meal. All creatures in a 5-foot emanation must succeed at a DC 16 Fortitude save or become [[DATABASE/condition/Sickened|sickened 1]] (or sickened 2 on a critical failure). The giant maggot can't use Regurgitation again until it spends at least an hour feeding on a corpse.</span>
 
 ---
 **Speed** 10 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> mandibles +6 [+1/-4], **Damage** 1d8+2 piercing plus [[Grab]]</span><span class="in-box-ability">**Gnaw Flesh** <span class="action-icon">1</span> **Requirement** The giant maggot has [[Grabbed]] a creature; **Effect** The giant maggot deals 1d8+2 slashing damage to the grabbed creature as it chews the creature's flesh (DC 19 basic Reflex save).</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> mandibles +6 [+1/-4], **Damage** 1d8+2 piercing plus [[DATABASE/monsterability/Grab|Grab]]</span><span class="in-box-ability">**Gnaw Flesh** <span class="action-icon">1</span> **Requirement** The giant maggot has [[DATABASE/condition/Grabbed|Grabbed]] a creature; **Effect** The giant maggot deals 1d8+2 slashing damage to the grabbed creature as it chews the creature's flesh (DC 19 basic Reflex save).</span>

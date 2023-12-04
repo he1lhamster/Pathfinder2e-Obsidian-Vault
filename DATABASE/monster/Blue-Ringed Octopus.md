@@ -67,16 +67,16 @@ wisdom: '+3'
 # Blue-Ringed Octopus
 
 While relatively small, the blue-ringed octopus is particularly venomous for its size.
-**Recall Knowledge - Animal ([[Nature]])**: DC 14
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 14
 **Unspecific Lore**: DC 12
 **Specific Lore**: DC 9
 
 # Blue-Ringed Octopus<span class="item-type">Creature 0</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Tiny</span><span class="item-trait">Animal</span><span class="item-trait">Aquatic</span>
-**Source** [[Bestiary 2]] 
-**Perception** +6; [[Low-Light Vision]]
-**Skills** [[Athletics]] +6, [[Stealth]] +7
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +6; [[DATABASE/monsterability/Low-Light Vision|low-light vision]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +6, [[DATABASE/skill/Stealth|Stealth]] +7
 **Str** +0, **Dex** +3, **Con** +1, **Int** -4, **Wis** +3, **Cha** +0
 
 ---
@@ -85,4 +85,4 @@ While relatively small, the blue-ringed octopus is particularly venomous for its
 
 ---
 **Speed** swim 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> beak +7 [+2/-3] (finesse), **Damage** 1d6 piercing plus blue-ringed octopus venom</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> arms +6 [+1/-4], **Effect** [[Grab]]</span><span class="in-box-ability">**Blue-Ringed Octopus Venom** (poison) **Saving Throw** DC 17 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 1d4 poison damage (1 round); **Stage 2** 1d6 poison damage (1 round); **Stage 3** 1d6 poison damage and [[Paralyzed]] (1 round)</span><span class="in-box-ability">**Camouflage** The blue-ringed octopus can change the color of its skin to [[Hide]] even if it doesn't have cover.</span><span class="in-box-ability">**Jet** <span class="action-icon">2</span> The blue-ringed octopus moves up to 60 feet in a straight line through the water without triggering reactions.</span><span class="in-box-ability">**Toxic Bite** <span class="action-icon">1</span> **Requirements** The blue-ringed octopus has a creature [[Grabbed]]; **Effect** The blue-ringed octopus makes a beak Strike against the grabbed creature. If it hits, it injects additional poison, causing its venom to gain the virulent trait.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> beak +7 [+2/-3] (finesse), **Damage** 1d6 piercing plus blue-ringed octopus venom</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> arms +6 [+1/-4], **Effect** [[DATABASE/monsterability/Grab|Grab]]</span><span class="in-box-ability">**Blue-Ringed Octopus Venom** (poison) **Saving Throw** DC 17 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 1d4 poison damage (1 round); **Stage 2** 1d6 poison damage (1 round); **Stage 3** 1d6 poison damage and [[DATABASE/condition/Paralyzed|paralyzed]] (1 round)</span><span class="in-box-ability">**Camouflage** The blue-ringed octopus can change the color of its skin to [[DATABASE/action/Hide|Hide]] even if it doesn't have cover.</span><span class="in-box-ability">**Jet** <span class="action-icon">2</span> The blue-ringed octopus moves up to 60 feet in a straight line through the water without triggering reactions.</span><span class="in-box-ability">**Toxic Bite** <span class="action-icon">1</span> **Requirements** The blue-ringed octopus has a creature [[DATABASE/condition/Grabbed|grabbed]]; **Effect** The blue-ringed octopus makes a beak Strike against the grabbed creature. If it hits, it injects additional poison, causing its venom to gain the virulent trait.</span>

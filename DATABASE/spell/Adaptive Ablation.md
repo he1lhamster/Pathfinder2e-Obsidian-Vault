@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -35,8 +36,8 @@ type: Focus
 # Adaptive Ablation<span class="item-type">Focus 4</span>
 
 <span class="item-trait">Abjuration</span>
-**Source** [[Gods & Magic]] 
-**Domain** [[Change Domain]]
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
+**Domain** [[DATABASE/domain/Change Domain|change]]
 **Cast** <span class="action-icon">5</span> somatic; **Trigger** You take acid, cold, electricity, fire, or sonic damage.
 **Duration** 1 minute
 

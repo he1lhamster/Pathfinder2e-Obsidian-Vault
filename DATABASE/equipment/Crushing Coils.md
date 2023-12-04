@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -56,10 +57,10 @@ weapon_type: null
 # Crushing Coils<span class="item-type">Item 5</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Cursed</span><span class="item-trait">Evocation</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Usage** worn armor; **Bulk** 1
-**Base Armor** [[Leather Armor]]
+**Base Armor** [[DATABASE/armor/Leather Armor|Leather Armor]]
 
 ---
-Made from constrictor snakeskin, the strips of this _+1 [[Leather Armor]]_ wrap around you like an anaconda might wrap around its victim. The first time you roll a 1 on any attack roll or check after donning the armor, it fuses with you and constricts. It constricts anytime you roll a 1 on any attack roll or check thereafter. When the armor constricts, you're [[Restrained]] for 1 round.
+Made from constrictor snakeskin, the strips of this _+1 [[DATABASE/armor/Leather Armor|leather armor]]_ wrap around you like an anaconda might wrap around its victim. The first time you roll a 1 on any attack roll or check after donning the armor, it fuses with you and constricts. It constricts anytime you roll a 1 on any attack roll or check thereafter. When the armor constricts, you're [[DATABASE/condition/Restrained|restrained]] for 1 round.
 **Activate** <span class="action-icon">1</span> command, Interact ; **Effect** The armor wraps around you, allowing you to don it by the time the activation finishes.

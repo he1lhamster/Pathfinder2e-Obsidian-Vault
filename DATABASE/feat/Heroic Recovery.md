@@ -11,6 +11,7 @@ name: Heroic Recovery
 prerequisite: '[[DATABASE/class_/Cleric|healing font]] ; good alignment'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -25,11 +26,11 @@ type: Feat
 # Heroic Recovery <span class="action-icon">1</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Cleric</span><span class="item-trait">Concentrate</span><span class="item-trait">Metamagic</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Cleric]]; good alignment
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/class_/Cleric|healing font]]; good alignment
 
 ---
-The restorative power of your healing invigorates the recipient. If the next action you use is to cast [[Heal]] targeting a single living creature and the target regains Hit Points from the spell, it also gains three bonuses until the end of its next turn: a +5-foot status bonus to its Speed, a +1 status bonus to attack rolls, and a +1 status bonus to damage rolls.
+The restorative power of your healing invigorates the recipient. If the next action you use is to cast [[DATABASE/spell/Heal|heal]] targeting a single living creature and the target regains Hit Points from the spell, it also gains three bonuses until the end of its next turn: a +5-foot status bonus to its Speed, a +1 status bonus to attack rolls, and a +1 status bonus to damage rolls.
 
 ## Traits
 

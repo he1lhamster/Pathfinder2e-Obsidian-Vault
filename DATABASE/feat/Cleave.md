@@ -11,6 +11,7 @@ name: Cleave
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -25,7 +26,7 @@ type: Feat
 # Cleave <span class="action-icon">5</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Barbarian</span><span class="item-trait">Rage</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Trigger** Your melee Strike kills a creature or knocks it unconscious, and another foe is adjacent to that creature.
 
 ---
@@ -33,7 +34,7 @@ You swing clear through one foe and into another. Make a melee Strike against th
 
 ## Cleave Leads To...
 
-[[Great Cleave]]
+[[DATABASE/feat/Great Cleave|Great Cleave]]
 
 ## Traits
 

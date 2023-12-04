@@ -2,6 +2,7 @@
 id: '6'
 name: Superstition Instinct
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 trait: null
 type: Barbarian Instinct
@@ -9,7 +10,7 @@ type: Barbarian Instinct
 ---
 # Superstition Instinct
 
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 A deep distrust of magic drives you to forgo and counter the metaphysical nonsense of spellcasters. Whether you're a member of a superstitious family or culture that distrusts magic, a warrior in constant battle against wizards and witches, a survivor of a magical accident that instilled an intense aversion in your mind and body, or a scion of a bloodline known for its magic resistance, your rage is inimical to magic. This makes you an excellent mage hunter but slow to trust practitioners of magical arts. Your extremely restrictive anathema grants you powers beyond those of other instincts.
 
 ## Anathema
@@ -18,11 +19,11 @@ Willingly accepting the effects of magic spells (including from scrolls, wands, 
 
 ## Superstitious Resilience (Instinct Ability)
 
-While raging, you gain a +2 status bonus to all saves against magic. Increase your damage from [[Rage]] from 2 to 4 against creatures that can cast spells. Once every 10 minutes, when you Rage, you regain Hit Points equal to the temporary Hit Points you gain from that Rage action.
+While raging, you gain a +2 status bonus to all saves against magic. Increase your damage from [[DATABASE/action/Rage|Rage]] from 2 to 4 against creatures that can cast spells. Once every 10 minutes, when you Rage, you regain Hit Points equal to the temporary Hit Points you gain from that Rage action.
 
 ## Specialization Ability<span class="item-type">7th</span>
 
-Increase the damage from [[Rage]] from 4 to 8 against creatures that can cast spells. If you have greater raging specialization, instead increase the damage from Rage to 12 against creatures with spells and 8 against other creatures.
+Increase the damage from [[DATABASE/action/Rage|Rage]] from 4 to 8 against creatures that can cast spells. If you have greater raging specialization, instead increase the damage from Rage to 12 against creatures with spells and 8 against other creatures.
 
 ## Raging Resistance<span class="item-type">9th</span>
 

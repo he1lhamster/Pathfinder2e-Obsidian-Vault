@@ -11,6 +11,7 @@ name: Escape Timeline
 prerequisite: '[[DATABASE/feat/Chronoskimmer Dedication|Chronoskimmer Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Escape Timeline <span class="action-icon">4</span> <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Dark Archive]]
-**Archetype** [[Chronoskimmer]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Archetype** [[DATABASE/archetype/Chronoskimmer|Chronoskimmer]]
 **Frequency** once per day
-**Prerequisites** [[Chronoskimmer Dedication]]
+**Prerequisites** [[DATABASE/feat/Chronoskimmer Dedication|Chronoskimmer Dedication]]
 **Trigger** Your turn begins.
 
 ---

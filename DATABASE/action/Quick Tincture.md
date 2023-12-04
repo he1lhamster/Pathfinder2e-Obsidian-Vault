@@ -9,6 +9,7 @@ rarity: Common
 requirement: You know the formula for the alchemical item you're creating, you are
   holding or wearing [[DATABASE/equipment/Alchemist's Tools|alchemist's tools]] ,
   and you have a free hand.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 trait:
@@ -21,9 +22,9 @@ type: Action
 # Quick Tincture <span class="action-icon">1</span>
 
 <span class="item-trait">Investigator</span><span class="item-trait">Manipulate</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Cost** 1 versatile vial
-**Requirements** You know the formula for the alchemical item you're creating, you are holding or wearing [[Alchemist's Tools]], and you have a free hand.
+**Requirements** You know the formula for the alchemical item you're creating, you are holding or wearing [[DATABASE/equipment/Alchemist's Tools|alchemist's tools]], and you have a free hand.
 
 ---
-You quickly brew up a short-lived tincture. You create a single alchemical elixir or tool of your level or lower without having to spend the normal monetary cost in alchemical reagents or needing to attempt a [[Crafting]] check. This item has the infused trait, but it remains potent only until the end of the current turn.
+You quickly brew up a short-lived tincture. You create a single alchemical elixir or tool of your level or lower without having to spend the normal monetary cost in alchemical reagents or needing to attempt a [[DATABASE/skill/Crafting|Crafting]] check. This item has the infused trait, but it remains potent only until the end of the current turn.

@@ -21,6 +21,7 @@ follower_alignment:
 id: '202'
 name: Sangpotshi
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Religion|Religion]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -30,7 +31,7 @@ type: Deity
 ---
 # Sangpotshi [N]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 The philosophy of Sangpotshi, also known as the River of Life, centers around concepts of fate, karma, and cyclic reincarnation. Adherents believe each soul is judged upon its actions in life, and these actions determine its station when it returns to the living world. This cycle repeats until the soul reaches its perfected form through the accrual of experience and wisdom, whereupon it passes on to Pharasma’s court and the afterlife to come.
 **Category** Faiths & Philosophies
 **Edicts** live selflessly; heed the wisdom of the learned, the wise, and those in stations of authority
@@ -40,5 +41,5 @@ The philosophy of Sangpotshi, also known as the River of Life, centers around co
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Intelligence or Wisdom
-**Divine Skill** [[Religion]]
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Intelligence or Wisdom
+**Divine Skill** [[DATABASE/skill/Religion|Religion]]

@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: You're trained in the affixed weapon.
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 size: null
@@ -56,7 +57,7 @@ weapon_type: null
 # Merciful Charm<span class="item-type">Item 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Abjuration</span><span class="item-trait">Magical</span><span class="item-trait">Talisman</span>
-**Source** [[Pathfinder 176. Lost Mammoth Valley]]
+**Source** [[DATABASE/source/Pathfinder 176. Lost Mammoth Valley|Pathfinder #176: Lost Mammoth Valley]]
 **Price** 9 gp
 **Usage** affixed to weapon; **Bulk** —
 **Activate** <span class="action-icon">4</span> envision **Trigger** You Strike with the affixed weapon; **Requirements** You're trained in the affixed weapon.

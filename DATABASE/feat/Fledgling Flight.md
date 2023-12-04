@@ -11,6 +11,7 @@ name: Fledgling Flight
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Fledgling Flight <span class="action-icon">1</span> <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Strix</span>
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 **Frequency** once per round
 
 ---

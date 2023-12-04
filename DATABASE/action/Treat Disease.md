@@ -8,6 +8,7 @@ name: Treat Disease
 rarity: Common
 requirement: You are holding [[DATABASE/equipment/Healer's Tools|healer's tools]]
   , or you are wearing themand have a hand free
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
@@ -20,8 +21,8 @@ type: Action
 # Treat Disease
 
 <span class="item-trait">Downtime</span><span class="item-trait">Manipulate</span>
-**Source** [[Core Rulebook]] 
-**Requirements** You are holding [[Healer's Tools]], or you are wearing them and have a hand free
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Requirements** You are holding [[DATABASE/equipment/Healer's Tools|healer's tools]], or you are wearing them and have a hand free
 
 ---
 You spend at least 8 hours caring for a diseased creature. Attempt a Medicine check against the disease’s DC. After you attempt to Treat a Disease for a creature, you can’t try again until after that creature’s next save against the disease.

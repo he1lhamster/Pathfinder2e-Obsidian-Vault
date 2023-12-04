@@ -22,6 +22,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -39,10 +40,10 @@ type: Spell
 # Levitate<span class="item-type">Spell 3</span>
 
 <span class="item-trait">Evocation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult
 **Spell List** elemental
-**Deity** [[Nethys]]
+**Deity** [[DATABASE/deity/Nethys|Nethys]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** touch; **Targets** 1 unattended object or willing creature
 **Duration** 5 minutes

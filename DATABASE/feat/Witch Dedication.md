@@ -11,6 +11,7 @@ name: Witch Dedication
 prerequisite: Intelligence 14
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,8 +26,8 @@ type: Feat
 # Witch Dedication <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Dedication</span><span class="item-trait">Multiclass</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Witch]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Witch|Witch]]
 **Prerequisites** Intelligence 14
 
 ---
@@ -35,7 +36,7 @@ You cast spells like a witch. Choose a patron; you gain a familiar with two comm
 
 ## Witch Dedication Leads To...
 
-[[Basic Witch Spellcasting]], [[Basic Witchcraft]]
+[[DATABASE/feat/Basic Witch Spellcasting|Basic Witch Spellcasting]], [[DATABASE/feat/Basic Witchcraft|Basic Witchcraft]]
 
 ## Traits
 

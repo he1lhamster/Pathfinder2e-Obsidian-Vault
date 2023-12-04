@@ -24,6 +24,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -42,10 +43,10 @@ type: Spell
 # Confusion<span class="item-type">Spell 4</span>
 
 <span class="item-trait">Emotion</span><span class="item-trait">Enchantment</span><span class="item-trait">Mental</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult
-**Bloodline** [[Aberrant]]
-**Deities** [[Hastur]], [[Lahkgya]], [[Narriseminek]]
+**Bloodline** [[DATABASE/sorcererbloodline/Aberrant|aberrant]]
+**Deities** [[DATABASE/deity/Hastur|Hastur]], [[DATABASE/deity/Lahkgya|Lahkgya]], [[DATABASE/deity/Narriseminek|Narriseminek]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet; **Targets** 1 creature
 **Saving Throw** Will; **Duration** 1 minute

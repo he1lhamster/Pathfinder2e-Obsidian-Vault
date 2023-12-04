@@ -11,6 +11,7 @@ name: Cloak of Poison
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Cloak of Poison <span class="action-icon">2</span> <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Leshy</span><span class="item-trait">Poison</span>
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 **Frequency** once per day
 
 ---

@@ -13,6 +13,7 @@ prerequisite: '[[DATABASE/feat/Lastwall Sentry Dedication|Lastwall Sentry Dedica
   Lore]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
 subcategory: null
@@ -26,12 +27,12 @@ type: Feat
 # Familiar Foe <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Skill</span>
-**Source** [[Knights of Lastwall]]
-**Archetype** [[Lastwall Sentry]]
-**Prerequisites** [[Lastwall Sentry Dedication]]; expert in [[Religion]] or [[Lore]]
+**Source** [[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]
+**Archetype** [[DATABASE/archetype/Lastwall Sentry|Lastwall Sentry]]
+**Prerequisites** [[DATABASE/feat/Lastwall Sentry Dedication|Lastwall Sentry Dedication]]; expert in [[DATABASE/skill/Religion|Religion]] or [[DATABASE/skill/Lore|Undead Lore]]
 
 ---
-You regularly face off against undead and can identify many with a glance. You gain a +1 circumstance bonus on skill checks to [[Recall Knowledge]] about undead. Whenever you roll a critical failure on a check to Recall Knowledge about undead, you get a failure instead.
+You regularly face off against undead and can identify many with a glance. You gain a +1 circumstance bonus on skill checks to [[DATABASE/action/Recall Knowledge|Recall Knowledge]] about undead. Whenever you roll a critical failure on a check to Recall Knowledge about undead, you get a failure instead.
 
 ## Traits
 

@@ -90,20 +90,20 @@ Gargoyles are monstrous hunters made of elemental stone. They use their resembla
 ## Kapoacinth
 
 Kapoacinths dwell not amid cliffs or rooftops, but beneath the sea, using their wings to swim. These water-dwelling gargoyles often dwell in shallow coastal regions and shamble forth from the sea to attack prey. Kapoacinths are less individualistic and tend to create more stable wings for longer periods of time. Kapoacinths have the same abilities as the gargoyle presented below, but with the following adjustments: they have the aquatic trait, they have a swim Speed of 40 feet instead of a fly Speed, and their Clawed Feat reaction triggers when they are Swimming instead of Flying.
-**Recall Knowledge - Beast ([[Arcana]], [[Nature]])**: DC 19
+**Recall Knowledge - Beast ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 19
 **Unspecific Lore**: DC 17
 **Specific Lore**: DC 14
 
-## Elite | [[Gargoyle]] | Weak
+## Elite | [[DATABASE/monster/Gargoyle|Normal]] | Weak
 Proficiency without Level
 
 # Gargoyle<span class="item-type">Creature 4</span>
 
 <span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Beast</span><span class="item-trait">Earth</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +10; darkvision
-**Languages** [[Common]], [[Terran]]
-**Skills** [[Acrobatics]] +10, [[Athletics]] +9, [[Stealth]] +12
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Terran|Terran]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +10, [[DATABASE/skill/Athletics|Athletics]] +9, [[DATABASE/skill/Stealth|Stealth]] +12
 **Str** +3, **Dex** +2, **Con** +3, **Int** -2, **Wis** +2, **Cha** -2
 
 ---
@@ -113,7 +113,7 @@ Proficiency without Level
 
 ---
 **Speed** 25 feet, fly 40 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +13 [+8/+3], **Damage** 2d8+3 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +13 [+9/+5] (agile), **Damage** 2d6+3 slashing</span><span class="in-box-ability">**Statue** <span class="action-icon">1</span> (concentrate) Until the next time it acts, the gargoyle appears to be a statue. It has an automatic result of 32 on [[Deception]] checks and DCs to pass as a statue.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +13 [+8/+3], **Damage** 2d8+3 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +13 [+9/+5] (agile), **Damage** 2d6+3 slashing</span><span class="in-box-ability">**Statue** <span class="action-icon">1</span> (concentrate) Until the next time it acts, the gargoyle appears to be a statue. It has an automatic result of 32 on [[DATABASE/skill/Deception|Deception]] checks and DCs to pass as a statue.</span>
 
 ###  Gargoyle Treasure
 

@@ -3,6 +3,7 @@ creature_family: Kaava
 id: '287'
 name: Kaava
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Kaava
 
-**Source** [[The Mwangi Expanse]] 
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]] 
 Kaava are stealthy, jungle-dwelling humanoids with short down feathers that can easily be mistaken for fur from a distance. Kaava have tough scales beneath these feathers. Both the scales and feathers have mutable pigmentation that allows a kaava to blend into surrounding foliage like a chameleon.
 
 ### Members
 
-[[Kaava Stalker]] (Creature 1), [[Pygmy Kaava]] (Creature 0)
+[[DATABASE/monster/Kaava Stalker|Kaava Stalker]] (Creature 1), [[DATABASE/monster/Pygmy Kaava|Pygmy Kaava]] (Creature 0)
 
 ###  Kaava Diplomacy
 

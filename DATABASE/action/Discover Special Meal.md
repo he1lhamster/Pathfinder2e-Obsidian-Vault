@@ -7,6 +7,7 @@ id: '1475'
 name: Discover Special Meal
 rarity: Common
 requirement: trained in [[DATABASE/skill/Lore|Cooking Lore]]
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 trait:
@@ -19,8 +20,8 @@ type: Action
 # Discover Special Meal
 
 <span class="item-trait">Camping</span><span class="item-trait">Manipulate</span>
-**Source** [[Kingmaker Companion Guide]]
-**Requirements** trained in [[Lore]]
+**Source** [[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]
+**Requirements** trained in [[DATABASE/skill/Lore|Cooking Lore]]
 
 ---
 You spend 2 hours attempting to discover a special recipe. Choose a common recipe from those listed starting on page 114; the recipe must be of a level equal to or less than the level of the zone you're camping in. Expend twice the normal amount of ingredients required to prepare 1 serving of the special meal, then attempt that special meal's Cooking Lore check.

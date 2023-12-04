@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -54,9 +55,9 @@ weapon_type: null
 # Dispersing Bullet<span class="item-type">Item 6</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Evocation</span><span class="item-trait">Magical</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Price** 50 gp
-**Ammunition** [[Sling]]; **Bulk** —
+**Ammunition** [[DATABASE/weapon/Sling|sling bullet]]; **Bulk** —
 **Activate** <span class="action-icon">1</span> Interact
 
 ---

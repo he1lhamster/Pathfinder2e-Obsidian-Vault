@@ -86,20 +86,20 @@ wisdom: '+4'
 # Advisor
 
 Trusted counselors of the court, advisors whisper words of guidance in the ears of those in power. Many nobles lean so heavily on their counsel that they make few decisions without them and insist on their attendance at all meetings and public events. Advisors are often master manipulators, and their guidance can shape a barony or even a kingdom—for good or ill.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 20
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 20
 **Unspecific Lore**: DC 18
 **Specific Lore**: DC 15
 
 # Advisor<span class="item-type">Creature 5</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Perception** +14
-**Languages** [[Common]]
-**Skills** [[Deception]] +15, [[Diplomacy]] +15, [[Lore]] +11, [[Occultism]] +9, [[Performance]] +11, [[Society]] +11
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Deception|Deception]] +15, [[DATABASE/skill/Diplomacy|Diplomacy]] +15, [[DATABASE/skill/Lore|Legal Lore]] +11, [[DATABASE/skill/Occultism|Occultism]] +9, [[DATABASE/skill/Performance|Performance]] +11, [[DATABASE/skill/Society|Society]] +11
 **Str** +0, **Dex** +2, **Con** +2, **Int** +0, **Wis** +4, **Cha** +4
-**Placate** An advisor is well versed in soothing agitated nobles. Their calming voice gives them a +2 circumstance bonus to [[Deception]] and [[Diplomacy]] checks when dealing with members of the nobility.
-**Items** [[Dagger]], [[Clothing]], [[Healing Potion]], [[Musical Instrument]], [[Whip]]
+**Placate** An advisor is well versed in soothing agitated nobles. Their calming voice gives them a +2 circumstance bonus to [[DATABASE/skill/Deception|Deception]] and [[DATABASE/skill/Diplomacy|Diplomacy]] checks when dealing with members of the nobility.
+**Items** [[DATABASE/weapon/Dagger|dagger (2)]], [[DATABASE/equipment/Clothing|fine clothes]], [[DATABASE/equipment/Healing Potion|minor healing potion]], [[DATABASE/equipment/Musical Instrument|small harp]], [[DATABASE/weapon/Whip|whip]]
 
 ---
 **AC** 21; **Fort** +9, **Ref** +11, **Will** +15
@@ -107,5 +107,5 @@ Trusted counselors of the court, advisors whisper words of guidance in the ears 
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> whip +11 [+6/+1] (disarm, finesse, nonlethal, reach, trip), **Damage** 1d4+2 slashing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> dagger +11 [+7/+3] (agile, thrown 10 feet, versatile S), **Damage** 1d4+2 piercing</span>**Occult Spontaneous Spells** DC 22, attack +13; **3rd** _[[Mind Reading]]_, _[[Soothe]]_, _[[Zone of Truth]]_ (2 slots); **2nd** _[[Augury]]_, _[[Restoration]]_, _[[Soothe]]_, _[[Touch of Idiocy]]_ (3 slots); **1st** _[[Charm]]_, _[[Mage Armor]]_, _[[Magic Missile]]_, _[[Soothe]]_; **Cantrips** **(3rd)** _[[Chill Touch]]_, _[[Daze]]_, _[[Light]]_, _[[Prestidigitation]]_, _[[Shield]]_ (3 slots)
-**Bard Composition Spells** DC 22, 1 Focus Point; **3rd** _[[Counter Performance]]_; **Cantrips** **(3rd)** _[[Inspire Competence]]_, _[[Inspire Courage]]_, _[[Inspire Defense]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> whip +11 [+6/+1] (disarm, finesse, nonlethal, reach, trip), **Damage** 1d4+2 slashing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> dagger +11 [+7/+3] (agile, thrown 10 feet, versatile S), **Damage** 1d4+2 piercing</span>**Occult Spontaneous Spells** DC 22, attack +13; **3rd** _[[DATABASE/spell/Mind Reading|mind reading]]_, _[[DATABASE/spell/Soothe|soothe]]_, _[[DATABASE/spell/Zone of Truth|zone of truth]]_ (2 slots); **2nd** _[[DATABASE/spell/Augury|augury]]_, _[[DATABASE/spell/Restoration|restoration]]_, _[[DATABASE/spell/Soothe|soothe]]_, _[[DATABASE/spell/Touch of Idiocy|touch of idiocy]]_ (3 slots); **1st** _[[DATABASE/spell/Charm|charm]]_, _[[DATABASE/spell/Mage Armor|mage armor]]_, _[[DATABASE/spell/Magic Missile|magic missile]]_, _[[DATABASE/spell/Soothe|soothe]]_; **Cantrips** **(3rd)** _[[DATABASE/spell/Chill Touch|chill touch]]_, _[[DATABASE/spell/Daze|daze]]_, _[[DATABASE/spell/Light|light]]_, _[[DATABASE/spell/Prestidigitation|prestidigitation]]_, _[[DATABASE/spell/Shield|shield]]_ (3 slots)
+**Bard Composition Spells** DC 22, 1 Focus Point; **3rd** _[[DATABASE/spell/Counter Performance|counter performance]]_; **Cantrips** **(3rd)** _[[DATABASE/spell/Inspire Competence|inspire competence]]_, _[[DATABASE/spell/Inspire Courage|inspire courage]]_, _[[DATABASE/spell/Inspire Defense|inspire defense]]_

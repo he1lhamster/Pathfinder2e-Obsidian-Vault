@@ -11,6 +11,7 @@ name: Poison Resistance
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Poison Resistance <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Alchemist</span><span class="item-trait">Druid</span>
-**Source** [[Core Rulebook]] 
-**Archetypes** [[Assassin]]*, [[Poisoner]]*
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetypes** [[DATABASE/archetype/Assassin|Assassin]]*, [[DATABASE/archetype/Poisoner|Poisoner]]*
 * This archetype offers Poison Resistance at a different level than displayed here.
 
 ---

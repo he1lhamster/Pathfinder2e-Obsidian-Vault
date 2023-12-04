@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Ration Tonic<span class="item-type">Item 1+</span>
 
 <span class="item-trait">Conjuration</span><span class="item-trait">Consumable</span><span class="item-trait">Magical</span><span class="item-trait">Potion</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
@@ -64,13 +65,13 @@ This slender vial appears to hold clean, clear water with a faintly fruity scent
 
 ## Ration Tonic<span class="item-type">Item 1</span>
 
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Price** 3 gp
 **Bulk** L
 
 ## Ration Tonic (Greater)<span class="item-type">Item 7</span>
 
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Price** 55 gp
 **Bulk** L
 A _greater ration tonic_ nourishes you for 1 week instead of 1 day, distributing the nourishment in a constant and healthy flow across the week.

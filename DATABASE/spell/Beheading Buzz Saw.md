@@ -19,6 +19,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Reflex
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
@@ -36,14 +37,14 @@ type: Spell
 # Beheading Buzz Saw<span class="item-type">Spell 7</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Manipulate</span><span class="item-trait">Metal</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Traditions** arcane
 **Cast** <span class="action-icon">2</span> 
 **Area** 60-foot line
 **Defense** Reflex
 
 ---
-You compress molten scraps pulled from the [[Plane of Metal]] into a spinning disc with gruesome blades protruding from its edges. It wheels forward, slicing through anyone in its path. Each creature in the area takes 5d10 slashing damage and 4d6 [[Persistent Damage]], with a Reflex save.
+You compress molten scraps pulled from the [[DATABASE/plane/Plane of Metal|Plane of Metal]] into a spinning disc with gruesome blades protruding from its edges. It wheels forward, slicing through anyone in its path. Each creature in the area takes 5d10 slashing damage and 4d6 [[DATABASE/condition/Persistent Damage|persistent bleed damage]], with a Reflex save.
 **Success** The creature is unaffected.
 **Failure** The creature takes full damage.
 **Critical Failure** The creature takes double damage. If the creature has a head, it must succeed at a Fortitude save or be decapitated; this kills any creature except ones that don't require a head to live. For creatures with multiple heads, this usually kills the creature only if you sever its last head. This second save has the death and incapacitation traits.

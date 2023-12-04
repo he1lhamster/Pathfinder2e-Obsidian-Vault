@@ -74,23 +74,23 @@ wisdom: '+3'
 # Tick Swarm
 
 This swarm of thousands of fist-sized ticks forms a moving carpet of bloated insects—a nauseating and intimidating sight.
-**Recall Knowledge - Animal ([[Nature]])**: DC 26
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 26
 **Unspecific Lore**: DC 24
 **Specific Lore**: DC 21
 
 # Tick Swarm<span class="item-type">Creature 9</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Animal</span><span class="item-trait">Swarm</span>
-**Source** [[Bestiary 2]] 
-**Perception** +18; [[Darkvision]]
-**Skills** [[Athletics]] +16, [[Stealth]] +19
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +18; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +16, [[DATABASE/skill/Stealth|Stealth]] +19
 **Str** +1, **Dex** +6, **Con** +4, **Int** -5, **Wis** +3, **Cha** -5
 
 ---
 **AC** 28; **Fort** +19, **Ref** +19, **Will** +14
-**HP** 130; **Immunities** precision, [[Swarm Mind]]; **Resistances** bludgeoning 5, piercing 10, slashing 10; **Weaknesses** area damage 10, splash damage 10
-<span class="in-box-ability">**Cling <span class="action-icon">5</span> ** **Trigger** A creature leaves the swarm's space; **Effect** The swarm takes 1d6 damage as ticks cling to the creature and continue biting, dealing 3d6 [[Persistent Damage]]. Immersion in water reduces the DC of the flat check to end this persistent damage to 5, and any area damage dealt to the creature destroys these clinging ticks.</span>
+**HP** 130; **Immunities** precision, [[DATABASE/monsterability/Swarm Mind|swarm mind]]; **Resistances** bludgeoning 5, piercing 10, slashing 10; **Weaknesses** area damage 10, splash damage 10
+<span class="in-box-ability">**Cling <span class="action-icon">5</span> ** **Trigger** A creature leaves the swarm's space; **Effect** The swarm takes 1d6 damage as ticks cling to the creature and continue biting, dealing 3d6 [[DATABASE/condition/Persistent Damage|persistent piercing damage]]. Immersion in water reduces the DC of the flat check to end this persistent damage to 5, and any area damage dealt to the creature destroys these clinging ticks.</span>
 
 ---
 **Speed** 25 feet, climb 25 feet
-<span class="in-box-ability">**Swarming Bites** <span class="action-icon">1</span> Each enemy in the swarm's space takes 3d6 piercing damage (DC 28 basic Reflex save) plus Cling and exposure to tick fever.</span><span class="in-box-ability">**Tick Fever** (disease) **Saving Throw** DC 27 Fortitude; **Onset** 1 day; **Stage 1** [[Enfeebled]] (1 day); **Stage 2** enfeebled 2 (1 day).</span>
+<span class="in-box-ability">**Swarming Bites** <span class="action-icon">1</span> Each enemy in the swarm's space takes 3d6 piercing damage (DC 28 basic Reflex save) plus Cling and exposure to tick fever.</span><span class="in-box-ability">**Tick Fever** (disease) **Saving Throw** DC 27 Fortitude; **Onset** 1 day; **Stage 1** [[DATABASE/condition/Enfeebled|enfeebled]] (1 day); **Stage 2** enfeebled 2 (1 day).</span>

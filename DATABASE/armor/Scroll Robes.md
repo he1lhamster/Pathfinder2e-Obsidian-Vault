@@ -12,6 +12,7 @@ level: '0'
 name: Scroll Robes
 price: 1 gp, 5 sp
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 speed_penalty: null
 strength: null
@@ -24,9 +25,9 @@ type: Armor
 # Scroll Robes
 
 <span class="item-trait">Inscribed</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 1 gp, 5 sp; **AC Bonus** +0; **Dex Cap** +5; **Check Penalty** —; **Speed Penalty** —
-**Strength** —; **Bulk** L; **Category** Unarmored; **Group** [[Cloth]]
+**Strength** —; **Bulk** L; **Category** Unarmored; **Group** [[DATABASE/armorgroup/Cloth|Cloth]]
 
 ---
 Scroll robes are composed of paper alchemically treated for strength and flexibility. A layered structure prevents cutting and tearing, and for the purpose of calculating damage, the robes are considered to be cloth. The paper accepts all sorts of decoration, including magical writing, as detailed in the inscribed trait.
@@ -35,15 +36,15 @@ Scroll robes are composed of paper alchemically treated for strength and flexibi
 
 **Inscribed:**
 
-The equipment, typically an armor or shield, has been treated so it can be inscribed with magical symbols using the same methods as [[Craft]] a [[Scroll]]. Inscribed attire can hold one scroll inscribed on it. You need a free hand to Activate the scroll, but you don't need to Interact to draw it. You can also Activate the magic to erase the scroll the equipment currently contains. You can't inscribe a new scroll onto the equipment if a scroll is currently inscribed on it or if the equipment is [[Broken]].
+The equipment, typically an armor or shield, has been treated so it can be inscribed with magical symbols using the same methods as [[DATABASE/action/Craft|Crafting]] a [[DATABASE/equipment/Scroll|scroll]]. Inscribed attire can hold one scroll inscribed on it. You need a free hand to Activate the scroll, but you don't need to Interact to draw it. You can also Activate the magic to erase the scroll the equipment currently contains. You can't inscribe a new scroll onto the equipment if a scroll is currently inscribed on it or if the equipment is [[DATABASE/condition/Broken|broken]].
 
 ## Armor Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain class features can grant you additional benefits with certain armors. This is called an armor specialization effect. The exact effect depends on which armor group your armor belongs to, as listed below. Only medium and heavy armors have armor specialization effects.
 **Cloth**: 
 Clothing isn't armor, but if it has a Dex cap it can accept fundamental and property runes.
 
 ## Specific Magic Armor
 
-[[Library Robes]]
+[[DATABASE/equipment/Library Robes|Library Robes]]

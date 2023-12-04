@@ -3,6 +3,7 @@ creature_family: Dragon, Black
 id: '165'
 name: Dragon, Black
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,18 +11,18 @@ type: Creature Family
 ---
 # Dragon, Black
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Murderous tyrants of marshes, swamps, bogs, and fens, black dragons terrorize their domains with intense fervor. Gleefully sadistic, they rule their fetid principalities from a deep cave or otherwise isolated part of the swamp with a mix of lightning-quick raids and subterfuge. Their hatred for other creatures is as acidic as their breath weapons, and they rarely tolerate even other dragons of their kind—except perhaps to mate or temporarily collaborate to take down a mutual enemy.
  Black dragons are amphibious—although they breathe air, their gills also allow them to breathe water. Their frills and fins make them accomplished swimmers, well suited to their wetland environments and submerged lairs. They're immune to the fetid water that comes as a result of their magical ability to corrupt water.
  Black dragon lairs are as foul as their souls. The floors are littered with rotting meat, and plundered treasures line the muck and slime of their dank caves amid twisted roots and creepers. Such places are often crawling with pests, snakes, and slimes. Though they claim natural caverns when they can, they make do with areas of dense, twisted vegetation within a swamp. Black dragon treasure hoards primarily consist of gems and expensive glass work, as valuables of softer substance can't survive the dragon's acidic presence.
 
 ### Members
 
-[[Adult Black Dragon]] (Creature 11), [[Ancient Black Dragon]] (Creature 16), [[Young Black Dragon]] (Creature 7)
+[[DATABASE/monster/Adult Black Dragon|Adult Black Dragon]] (Creature 11), [[DATABASE/monster/Ancient Black Dragon|Ancient Black Dragon]] (Creature 16), [[DATABASE/monster/Young Black Dragon|Young Black Dragon]] (Creature 7)
 
 ## Dragon, Chromatic
 
-**Related Groups** [[Dragon, Blue]], [[Dragon, Green]], [[Dragon, Red]], [[Dragon, White]]
+**Related Groups** [[DATABASE/monsterfamily/Dragon, Blue|Dragon, Blue]], [[DATABASE/monsterfamily/Dragon, Green|Dragon, Green]], [[DATABASE/monsterfamily/Dragon, Red|Dragon, Red]], [[DATABASE/monsterfamily/Dragon, White|Dragon, White]]
 While there are many types of dragons, from the powerful planar dragons to the strange esoteric dragons, few dragon varieties are as well-known and as rightly feared as the chromatic dragons. Differentiated by the hue of their scales, each color of dragon unleashes its own flavor of murderous cruelty—be it by claw, tooth, or breath—and unlike most creatures, dragons only become more powerful as they age. Their lust for treasure, food, bloodshed, and control are legendary. Physically powerful with egos to match, these dragons are often morally depraved and act as criminal masterminds, vicious tyrants, or voracious raiders.
 
 ### Shape-Changing Dragons

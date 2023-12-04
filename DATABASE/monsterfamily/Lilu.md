@@ -3,6 +3,7 @@ creature_family: Lilu
 id: '336'
 name: Lilu
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 190. The Choosing|Pathfinder #190: The Choosing]]'
 trait: null
 type: Creature Family
@@ -10,8 +11,8 @@ type: Creature Family
 ---
 # Lilu
 
-**Source** [[Pathfinder 190. The Choosing]]
+**Source** [[DATABASE/source/Pathfinder 190. The Choosing|Pathfinder #190: The Choosing]]
 
 ### Members
 
-[[Hurlilu]] (Creature 11)
+[[DATABASE/monster/Hurlilu|Hurlilu]] (Creature 11)

@@ -23,6 +23,7 @@ follower_alignment:
 id: '55'
 name: Ma'at
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Society|Society]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -32,7 +33,7 @@ type: Deity
 ---
 # Ma'at (The Feather of Truth) [LN]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Category** Ancient Osirian Gods
 **Edicts** Defend civilization from chaos, live an honest and just life, be impartial in judgment and reveal the truth
 **Anathema** Deal unfairly with your family or community, destroy the environment, lie
@@ -40,9 +41,9 @@ type: Deity
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Intelligence or Wisdom
-**Divine Font** _[[Heal]]_
-**Divine Skill** [[Society]]
-**Favored Weapon** [[Starknife]]
-**Domains** [[Knowledge Domain]], [[Protection Domain]], [[Star Domain]], [[Truth Domain]]
-**Cleric Spells** 1st: _[[Feather Fall]]_, 4th: _[[Resilient Sphere]]_, 5th: _[[Mind Probe]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Intelligence or Wisdom
+**Divine Font** _[[DATABASE/spell/Heal|heal]]_
+**Divine Skill** [[DATABASE/skill/Society|Society]]
+**Favored Weapon** [[DATABASE/weapon/Starknife|starknife]]
+**Domains** [[DATABASE/domain/Knowledge Domain|knowledge]], [[DATABASE/domain/Protection Domain|protection]], [[DATABASE/domain/Star Domain|star]], [[DATABASE/domain/Truth Domain|truth]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Feather Fall|feather fall]]_, 4th: _[[DATABASE/spell/Resilient Sphere|resilient sphere]]_, 5th: _[[DATABASE/spell/Mind Probe|mind probe]]_

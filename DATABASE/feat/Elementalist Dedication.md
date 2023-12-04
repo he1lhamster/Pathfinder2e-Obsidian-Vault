@@ -11,6 +11,7 @@ name: Elementalist Dedication
 prerequisite: elemental magic
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -25,8 +26,8 @@ type: Feat
 # Elementalist Dedication <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Class</span><span class="item-trait">Dedication</span>
-**Source** [[Rage of Elements]]
-**Archetype** [[Elementalist]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
+**Archetype** [[DATABASE/archetype/Elementalist|Elementalist]]
 **Prerequisites** elemental magic
 
 ---
@@ -34,7 +35,7 @@ Each day when you make your daily preparations, you can attune yourself to one e
 
 ## Elementalist Dedication Leads To...
 
-[[Burning Spell]], [[Current Spell]], [[Dousing Spell]], [[Elemental Familiar]], [[Expanded Elemental Magic]], [[Growth Spell]], [[Metabolize Element]], [[Redirect Elements]], [[Reverberating Spell]], [[Rockslide Spell]], [[Water Step]], [[Wind-Tossed Spell]]
+[[DATABASE/feat/Burning Spell|Burning Spell]], [[DATABASE/feat/Current Spell|Current Spell]], [[DATABASE/feat/Dousing Spell|Dousing Spell]], [[DATABASE/feat/Elemental Familiar|Elemental Familiar]], [[DATABASE/feat/Expanded Elemental Magic|Expanded Elemental Magic]], [[DATABASE/feat/Growth Spell|Growth Spell]], [[DATABASE/feat/Metabolize Element|Metabolize Element]], [[DATABASE/feat/Redirect Elements|Redirect Elements]], [[DATABASE/feat/Reverberating Spell|Reverberating Spell]], [[DATABASE/feat/Rockslide Spell|Rockslide Spell]], [[DATABASE/feat/Water Step|Water Step]], [[DATABASE/feat/Wind-Tossed Spell|Wind-Tossed Spell]]
 
 ## Traits
 

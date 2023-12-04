@@ -11,6 +11,7 @@ name: Ancestral Insight
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Ancestral Insight <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Azarketi</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-You have extensive knowledge of your ancestors' ancient origins. You gain the trained proficiency rank in [[Lore]] and Azlanti Lore. If you roll a critical failure on an [[Alghollthu]] Lore or Azlanti Lore check to [[Recall Knowledge]], you get a failure instead.
+You have extensive knowledge of your ancestors' ancient origins. You gain the trained proficiency rank in [[DATABASE/skill/Lore|Alghollthu Lore]] and Azlanti Lore. If you roll a critical failure on an [[DATABASE/monsterfamily/Alghollthu|Alghollthu]] Lore or Azlanti Lore check to [[DATABASE/action/Recall Knowledge|Recall Knowledge]], you get a failure instead.
 
 ## Traits
 

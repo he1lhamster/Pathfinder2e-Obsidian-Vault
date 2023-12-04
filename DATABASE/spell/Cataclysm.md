@@ -21,6 +21,7 @@ patron_theme: null
 range: 1,000 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: basicReflex
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -45,7 +46,7 @@ type: Spell
 # Cataclysm<span class="item-type">Spell 10</span>
 
 <span class="item-trait">Acid</span><span class="item-trait">Air</span><span class="item-trait">Cold</span><span class="item-trait">Earth</span><span class="item-trait">Electricity</span><span class="item-trait">Evocation</span><span class="item-trait">Fire</span><span class="item-trait">Water</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, primal
 **Spell List** elemental
 **Cast** <span class="action-icon">2</span> somatic, verbal

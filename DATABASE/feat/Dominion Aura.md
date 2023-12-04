@@ -11,6 +11,7 @@ name: Dominion Aura
 prerequisite: '[[DATABASE/feat/Faultspawn|Faultspawn]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -27,11 +28,11 @@ type: Feat
 # Dominion Aura <span class="action-icon">1</span> <span class="item-type">Feat 17</span>
 
 <span class="item-trait">Aura</span><span class="item-trait">Divine</span><span class="item-trait">Evocation</span><span class="item-trait">Force</span><span class="item-trait">Tiefling</span>
-**Source** [[Impossible Lands]]
-**Frequency** once per day**Prerequisites** [[Faultspawn]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
+**Frequency** once per day**Prerequisites** [[DATABASE/feat/Faultspawn|Faultspawn]]
 
 ---
-For a short time, you fully manifest the expectations of the god destroyer within you. All creatures within a 10-foot emanation take 8d6 force damage with a basic Fortitude save. A creature that fails this save is also knocked [[Prone]]. For 1 minute, any creature who ends its turn within the 10-foot emanation takes 5d6 force damage with a basic Fortitude save. If you aren't [[Drained]], you can choose to become drained 2 when you use Dominion Aura to increase the radius of the emanation from 10 feet to 20 feet.
+For a short time, you fully manifest the expectations of the god destroyer within you. All creatures within a 10-foot emanation take 8d6 force damage with a basic Fortitude save. A creature that fails this save is also knocked [[DATABASE/condition/Prone|prone]]. For 1 minute, any creature who ends its turn within the 10-foot emanation takes 5d6 force damage with a basic Fortitude save. If you aren't [[DATABASE/condition/Drained|drained]], you can choose to become drained 2 when you use Dominion Aura to increase the radius of the emanation from 10 feet to 20 feet.
 
 ## Traits
 
@@ -53,4 +54,4 @@ Effects with this trait deal force damage or create objects made of pure magical
 
 **Tiefling:**
 
-A creature with this trait has the tiefling versatile heritage. Tieflings are [[Planar Scion]] descended from fiends. An ability with this trait can be used or selected only by tieflings.
+A creature with this trait has the tiefling versatile heritage. Tieflings are [[DATABASE/monsterfamily/Planar Scion|planar scions]] descended from fiends. An ability with this trait can be used or selected only by tieflings.

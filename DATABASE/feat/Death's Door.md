@@ -11,6 +11,7 @@ name: Death's Door
 prerequisite: '[[DATABASE/feat/Swordmaster Dedication|Swordmaster Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Death's Door <span class="action-icon">5</span> <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Character Guide]] 
-**Archetype** [[Swordmaster]]
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
+**Archetype** [[DATABASE/archetype/Swordmaster|Swordmaster]]
 **Frequency** once per 10 minutes
-**Prerequisites** [[Swordmaster Dedication]]
+**Prerequisites** [[DATABASE/feat/Swordmaster Dedication|Swordmaster Dedication]]
 **Trigger** You take damage that would reduce you to 0 Hit Points.
 
 ---

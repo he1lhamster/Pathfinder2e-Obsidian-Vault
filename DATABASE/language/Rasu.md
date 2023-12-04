@@ -2,6 +2,7 @@
 id: '82'
 name: Rasu
 rarity: Rare
+rus_type_level: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -10,13 +11,13 @@ type: Language
 ---
 # Rasu
 
-**Source** [[The Mwangi Expanse]] 
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]] 
 The below entries contain speakers of Rasu.
 
 ## Ancestries (1)
 
-[[Conrasu]]
+[[DATABASE/ancestry/Conrasu|Conrasu]]
 
 ## Monsters (1)
 
-[[Lomori Sprout]]
+[[DATABASE/monster/Lomori Sprout|Lomori Sprout]]

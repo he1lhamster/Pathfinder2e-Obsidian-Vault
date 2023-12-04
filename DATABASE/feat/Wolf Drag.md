@@ -11,6 +11,7 @@ name: Wolf Drag
 prerequisite: '[[DATABASE/feat/Wolf Stance|Wolf Stance]]'
 rarity: Common
 requirement: You are in Wolf Stance.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Wolf Drag <span class="action-icon">2</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Monk</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Martial Artist]]*
-**Prerequisites** [[Wolf Stance]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Martial Artist|Martial Artist]]*
+**Prerequisites** [[DATABASE/feat/Wolf Stance|Wolf Stance]]
 **Requirements** You are in Wolf Stance.
 * This archetype offers Wolf Drag at a different level than displayed here.
 

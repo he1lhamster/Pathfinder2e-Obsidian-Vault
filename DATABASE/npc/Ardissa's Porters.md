@@ -64,19 +64,19 @@ wisdom: '+2'
 # Ardissa's Porters
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 19
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 19
 **Unspecific Lore**: DC 17
 **Specific Lore**: DC 14
 
 # Ardissa's Porters<span class="item-type">Creature 0</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Dwarf</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 175. Broken Tusk Moon]]
-**Perception** +6; [[Darkvision]]
-**Languages** [[Common]], [[Dwarven]]
-**Skills** [[Athletics]] +6, [[Intimidation]] +3
+**Source** [[DATABASE/source/Pathfinder 175. Broken Tusk Moon|Pathfinder #175: Broken Tusk Moon]]
+**Perception** +6; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Dwarven|Dwarven]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +6, [[DATABASE/skill/Intimidation|Intimidation]] +3
 **Str** +2, **Dex** +1, **Con** +2, **Int** -1, **Wis** +2, **Cha** +1
-**Items** cargo hook (as [[Light Pick]]), [[Padded Armor]]
+**Items** cargo hook (as [[DATABASE/weapon/Light Pick|light pick]]), [[DATABASE/armor/Padded Armor|padded armor]]
 
 ---
 **AC** 14; **Fort** +9, **Ref** +3, **Will** +6

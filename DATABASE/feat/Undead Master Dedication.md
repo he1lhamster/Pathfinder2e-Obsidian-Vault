@@ -11,6 +11,7 @@ name: Undead Master Dedication
 prerequisite: evil alignment
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 subcategory: null
@@ -25,18 +26,18 @@ type: Feat
 # Undead Master Dedication <span class="item-type">Feat 2</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Archetype</span><span class="item-trait">Dedication</span>
-**Source** [[Book of the Dead]]
-**Archetype** [[Undead Master]]
+**Source** [[DATABASE/source/Book of the Dead|Book of the Dead]]
+**Archetype** [[DATABASE/archetype/Undead Master|Undead Master]]
 **Prerequisites** evil alignment
 
 ---
 You gain the services of an undead companion that travels with you and obeys your commands. The rules for undead companions are under Undead Companions and utilize those for animal companions.
  Contrary to the usual rules for companions, as an undead master it's possible for you to have more than one undead companion at a time. However, only one of those companions, your “active companion,” follows you during exploration and encounters; the rest are reduced to an “inactive” state that can be easily tucked into an inventory or stored in a nearby crypt. If you ever have more than one undead companion, you gain the Call Companion action, with your undead companions taking the place of animal companions.
 
-### [[Call Companion]]
+### [[DATABASE/action/Call Companion|Call Companion]]
 
 <span class="item-trait">Exploration</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
 You spend 1 minute calling for a different animal companion, switching your active companion for another of your animal companions. 
@@ -44,7 +45,7 @@ You spend 1 minute calling for a different animal companion, switching your acti
 
 ## Undead Master Dedication Leads To...
 
-[[Guardian Ghosts]], [[Their Master's Call]]
+[[DATABASE/feat/Guardian Ghosts|Guardian Ghosts]], [[DATABASE/feat/Their Master's Call|Their Master's Call]]
 
 ## Traits
 
@@ -58,4 +59,4 @@ You must select a feat with this trait to apply an archetype to your character.
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.

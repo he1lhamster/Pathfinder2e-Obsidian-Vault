@@ -2,6 +2,7 @@
 id: '4'
 name: Toxicologist
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 trait: null
 type: Alchemist Research Field
@@ -9,7 +10,7 @@ type: Alchemist Research Field
 ---
 # Toxicologist
 
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 You specialize in toxins and venoms of all types. You start with the formulas for two common 1st-level alchemical poisons in your formula book, in addition to your other formulas. You can apply an injury poison you're holding to a weapon you're wielding as a single action, rather than as a 2-action activity, and you can change the DCs of your infused poisons to your class DC if it's higher.
 
 ## Field Discovery<span class="item-type">Level 5</span>

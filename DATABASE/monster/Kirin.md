@@ -100,18 +100,18 @@ wisdom: '+4'
 
 The rare and majestic antlered beast known as a kirin supposedly appear only in times of peace and prosperity or during the birth or death of a great sage. Thus, encountering a kirin is a sign of great fortune, success, and prosperity to come. Conversely, finding a kirin's corpse or witnessing their death is a portent of tragedy and misfortune. A kirin's song always precedes the sighting of one of these graceful creatures, a sound often mistaken for wind chimes gently dancing in the breeze.
  Kirin are chimeric creatures with the body of a stag, the tail of an ox, two horns atop their heads, and the scales and vibrant coloration of a dragon. Their majestic manes and beards constantly flow in the breeze, even on days with no wind, and sometimes appear wreathed in flames.
- As creatures that treasure life, kirin don't consume flesh, and they take great care not to kill even a single insect beneath their cloven hooves. They're the embodiment of peace yet will quickly strike down evil with a powerful thrust of their horns, knowing that their acts preserve the peace for those who might otherwise come to harm. Legends tell of particularly pious [[Champion]] who have persuaded kirin to partner with them as mounts, though accomplishing such a feat is even rarer than the kirin.
-**Recall Knowledge - Beast ([[Arcana]], [[Nature]])**: DC 28
+ As creatures that treasure life, kirin don't consume flesh, and they take great care not to kill even a single insect beneath their cloven hooves. They're the embodiment of peace yet will quickly strike down evil with a powerful thrust of their horns, knowing that their acts preserve the peace for those who might otherwise come to harm. Legends tell of particularly pious [[DATABASE/class_/Champion|champions]] who have persuaded kirin to partner with them as mounts, though accomplishing such a feat is even rarer than the kirin.
+**Recall Knowledge - Beast ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 28
 **Unspecific Lore**: DC 26
 **Specific Lore**: DC 23
 
 # Kirin<span class="item-type">Creature 7</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">LG</span><span class="trait-size item-trait">Large</span><span class="item-trait">Air</span><span class="item-trait">Beast</span><span class="item-trait">Fire</span>
-**Source** [[Bestiary 3]]
-**Perception** +17; [[Darkvision]], [[Scent]] (imprecise) 60 feet
-**Languages** [[Auran]], [[Celestial]], [[Common]], [[Draconic]]; [[Telepathy]] 100 feet
-**Skills** [[Acrobatics]] +17, [[Diplomacy]] +19, [[Nature]] +15, [[Religion]] +15, [[Stealth]] +17
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
+**Perception** +17; [[DATABASE/monsterability/Darkvision|darkvision]], [[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet
+**Languages** [[DATABASE/language/Auran|Auran]], [[DATABASE/language/Celestial|Celestial]], [[DATABASE/language/Common|Common]], [[DATABASE/language/Draconic|Draconic]]; [[DATABASE/monsterability/Telepathy|telepathy]] 100 feet
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +17, [[DATABASE/skill/Diplomacy|Diplomacy]] +19, [[DATABASE/skill/Nature|Nature]] +15, [[DATABASE/skill/Religion|Religion]] +15, [[DATABASE/skill/Stealth|Stealth]] +17
 **Str** +5, **Dex** +6, **Con** +2, **Int** +2, **Wis** +4, **Cha** +6
 
 ---
@@ -121,8 +121,8 @@ The rare and majestic antlered beast known as a kirin supposedly appear only in 
 
 ---
 **Speed** 40 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> hoof +18 [+13/+8] (magical), **Damage** 2d10+8 bludgeoning</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> horn +18 [+14/+10] (agile, magical), **Damage** 2d8+8 piercing</span>**Divine Innate Spells** DC 25; **3rd** _[[Calm Emotions]]_ (at will), _[[Gust of Wind]]_ (×3), _[[Heal]]_ (×2); **1st** _[[Detect Alignment]]_ (at will); **Cantrips** **(4th)** _[[Light]]_; **Constant** **(4th)** _[[Air Walk]]_ (self only)
-<span class="in-box-ability">**Breath Weapon** <span class="action-icon">2</span> (divine, evocation, fire) The kirin breathes fire in a 30-foot cone, dealing 8d6 fire damage (DC 25 basic Reflex save). The kirin can't use Breath Weapon again for 1d4 rounds.</span><span class="in-box-ability">**Rearing Thrust** <span class="action-icon">2</span> The kirin rushes forward, rears up on their hind legs, and descends upon their target with their horn. The kirin Strides and makes a horn Strike. If this Strike hits, it deals an additional 1d8 damage, and the target is knocked [[Prone]].</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> hoof +18 [+13/+8] (magical), **Damage** 2d10+8 bludgeoning</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> horn +18 [+14/+10] (agile, magical), **Damage** 2d8+8 piercing</span>**Divine Innate Spells** DC 25; **3rd** _[[DATABASE/spell/Calm Emotions|calm emotions]]_ (at will), _[[DATABASE/spell/Gust of Wind|gust of wind]]_ (×3), _[[DATABASE/spell/Heal|heal]]_ (×2); **1st** _[[DATABASE/spell/Detect Alignment|detect alignment]]_ (at will); **Cantrips** **(4th)** _[[DATABASE/spell/Light|light]]_; **Constant** **(4th)** _[[DATABASE/spell/Air Walk|air walk]]_ (self only)
+<span class="in-box-ability">**Breath Weapon** <span class="action-icon">2</span> (divine, evocation, fire) The kirin breathes fire in a 30-foot cone, dealing 8d6 fire damage (DC 25 basic Reflex save). The kirin can't use Breath Weapon again for 1d4 rounds.</span><span class="in-box-ability">**Rearing Thrust** <span class="action-icon">2</span> The kirin rushes forward, rears up on their hind legs, and descends upon their target with their horn. The kirin Strides and makes a horn Strike. If this Strike hits, it deals an additional 1d8 damage, and the target is knocked [[DATABASE/condition/Prone|prone]].</span>
 
 ###  Kirin Justice
 

@@ -11,6 +11,7 @@ name: Retch Rust
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -27,10 +28,10 @@ type: Feat
 # Retch Rust <span class="action-icon">2</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Metal</span><span class="item-trait">Overflow</span><span class="item-trait">Primal</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
-You exhale tendrils formed from flakes of rusted metal. All creatures in a 30-foot cone take 4d10 slashing damage with a basic Fortitude save against your class DC. A metal creature that fails its save also takes 2d4 [[Persistent Damage]].
+You exhale tendrils formed from flakes of rusted metal. All creatures in a 30-foot cone take 4d10 slashing damage with a basic Fortitude save against your class DC. A metal creature that fails its save also takes 2d4 [[DATABASE/condition/Persistent Damage|persistent slashing damage]].
 
 ---
 **Level (+2)** The cloud's slashing damage increases by 1d10 and the persistent damage increases by 1d4.
@@ -47,7 +48,7 @@ Effects with the metal trait conjure or manipulate metal. Those that manipulate 
 
 **Overflow:**
 
-Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
+Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[DATABASE/action/Channel Elements|Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
 
 **Primal:**
 

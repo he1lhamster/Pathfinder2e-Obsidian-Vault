@@ -11,6 +11,7 @@ name: Triumphant Inspiration
 prerequisite: '[[DATABASE/bardmuse/Warrior|warrior muse]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Triumphant Inspiration <span class="action-icon">4</span> <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Bard</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** [[Warrior]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** [[DATABASE/bardmuse/Warrior|warrior muse]]
 **Trigger** You critically hit a foe with a melee weapon Strike or a melee unarmed attack.
 
 ---

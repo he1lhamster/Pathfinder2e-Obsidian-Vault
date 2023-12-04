@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -54,13 +55,13 @@ weapon_type: null
 # Mukradi Jar<span class="item-type">Item 15</span>
 
 <span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Expandable</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 1,300 gp
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">2</span> Interact
 
 ---
-A miniature [[Mukradi]], its chitin shrunken and pale, is coiled within this jar. Its hollow form grows to a Gargantuan shell when you open the jar. It emits one of three breath weapons, chosen by you. Each creature in the area must attempt a DC 34 basic Reflex save.
+A miniature [[DATABASE/monster/Mukradi|mukradi]], its chitin shrunken and pale, is coiled within this jar. Its hollow form grows to a Gargantuan shell when you open the jar. It emits one of three breath weapons, chosen by you. Each creature in the area must attempt a DC 34 basic Reflex save.
 
 * **Acid Maw** (acid) 10-foot-wide, 60-foot line of acid dealing 12d6 acid damage.
 * **Flame Maw** (fire) 60-foot cone of fire dealing 12d6 fire damage.

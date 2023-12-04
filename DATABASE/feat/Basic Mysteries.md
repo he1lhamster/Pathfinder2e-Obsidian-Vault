@@ -11,6 +11,7 @@ name: Basic Mysteries
 prerequisite: '[[DATABASE/feat/Oracle Dedication|Oracle Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,16 +24,16 @@ type: Feat
 # Basic Mysteries <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Oracle]]
-**Prerequisites** [[Oracle Dedication]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Oracle|Oracle]]
+**Prerequisites** [[DATABASE/feat/Oracle Dedication|Oracle Dedication]]
 
 ---
 You gain a 1st- or 2nd-level oracle feat of your choice.
 
 ## Basic Mysteries Leads To...
 
-[[Advanced Mysteries]]
+[[DATABASE/feat/Advanced Mysteries|Advanced Mysteries]]
 
 ## Traits
 

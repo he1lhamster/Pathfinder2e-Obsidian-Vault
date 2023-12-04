@@ -11,6 +11,7 @@ name: Beastbrood
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -24,14 +25,14 @@ type: Feat
 # Beastbrood <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Lineage</span><span class="item-trait">Tiefling</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-One of your ancestors was a [[Rakshasa]], the corrupt and aristocratic reincarnated souls that call Golarion home. You have some dim echo of your ancestor's memories— enough to play the role of noble as needed, no matter your origins. You're trained in [[Society]]. If you're already trained in Society (from your background or class, for example), you instead become trained in a skill of your choice. You also gain the [[Courtly Graces]] skill feat.
+One of your ancestors was a [[DATABASE/monsterfamily/Rakshasa|rakshasa]], the corrupt and aristocratic reincarnated souls that call Golarion home. You have some dim echo of your ancestor's memories— enough to play the role of noble as needed, no matter your origins. You're trained in [[DATABASE/skill/Society|Society]]. If you're already trained in Society (from your background or class, for example), you instead become trained in a skill of your choice. You also gain the [[DATABASE/feat/Courtly Graces|Courtly Graces]] skill feat.
 
 ## Beastbrood Leads To...
 
-[[Idol Threat]], [[Jalmeri Rakshasa Magic]], [[Rakshasa Magic]], [[Reveal Hidden Self]]
+[[DATABASE/feat/Idol Threat|Idol Threat]], [[DATABASE/feat/Jalmeri Rakshasa Magic|Jalmeri Rakshasa Magic]], [[DATABASE/feat/Rakshasa Magic|Rakshasa Magic]], [[DATABASE/feat/Reveal Hidden Self|Reveal Hidden Self]]
 
 ## Traits
 
@@ -41,4 +42,4 @@ A feat with this trait indicates a character's descendance from a particular typ
 
 **Tiefling:**
 
-A creature with this trait has the tiefling versatile heritage. Tieflings are [[Planar Scion]] descended from fiends. An ability with this trait can be used or selected only by tieflings.
+A creature with this trait has the tiefling versatile heritage. Tieflings are [[DATABASE/monsterfamily/Planar Scion|planar scions]] descended from fiends. An ability with this trait can be used or selected only by tieflings.

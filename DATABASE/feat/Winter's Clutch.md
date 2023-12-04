@@ -11,6 +11,7 @@ name: Winter's Clutch
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -27,7 +28,7 @@ type: Feat
 # Winter's Clutch <span class="action-icon">2</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Cold</span><span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Primal</span><span class="item-trait">Water</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
 Gleaming flakes of chilling snow fall in a 10-foot burst within 60 feet. Each creature in the area takes 2d4 cold damage with a basic Reflex save against your class DC. The ground in the area is covered in a snow drift, which is difficult terrain. Each square of the drift lasts until it melts, either naturally or until fire damage is dealt in that square.

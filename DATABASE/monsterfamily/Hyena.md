@@ -3,6 +3,7 @@ creature_family: Hyena
 id: '63'
 name: Hyena
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Hyena
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Hyenas are pack-hunting scavengers known for their unnerving, laughter-like cries, and they aren’t above supplementing their carrion diets with fresh prey.
 
 ### Members
 
-[[Hyaenodon]] (Creature 3), [[Hyena]] (Creature 1)
+[[DATABASE/monster/Hyaenodon|Hyaenodon]] (Creature 3), [[DATABASE/monster/Hyena|Hyena]] (Creature 1)
 
 ###  Hyena Legends
 

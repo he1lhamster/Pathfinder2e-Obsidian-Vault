@@ -68,19 +68,19 @@ wisdom: '+2'
 # Copper Hand Rogue
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 24
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 24
 **Unspecific Lore**: DC 22
 **Specific Lore**: DC 19
 
 # Copper Hand Rogue<span class="item-type">Creature 4</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 158. Sixty Feet Under]]
+**Source** [[DATABASE/source/Pathfinder 158. Sixty Feet Under|Pathfinder #158: Sixty Feet Under]]
 **Perception** +13
-**Languages** [[Common]], [[Vudrani]]
-**Skills** [[Acrobatics]] +12, [[Athletics]] +10, [[Deception]] +11, [[Stealth]] +12, [[Thievery]] +12
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Vudrani|Vudrani]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +12, [[DATABASE/skill/Athletics|Athletics]] +10, [[DATABASE/skill/Deception|Deception]] +11, [[DATABASE/skill/Stealth|Stealth]] +12, [[DATABASE/skill/Thievery|Thievery]] +12
 **Str** +2, **Dex** +4, **Con** +2, **Int** +0, **Wis** +2, **Cha** +1
-**Items** [[Black Adder Venom]], [[Hand Crossbow]], [[Leather Armor]], [[Shortsword]]
+**Items** [[DATABASE/equipment/Black Adder Venom|black adder venom (5 doses)]], [[DATABASE/weapon/Hand Crossbow|hand crossbow (10 bolts)]], [[DATABASE/armor/Leather Armor|leather armor]], [[DATABASE/weapon/Shortsword|shortsword]]
 
 ---
 **AC** 21; **Fort** +12, **Ref** +14, **Will** +10
@@ -89,4 +89,4 @@ This creature did not include a description.
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> shortsword +14 [+10/+6] (agile, finesse, versatile S), **Damage** 1d6+5 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> hand crossbow +14 [+9/+4] (range 60 feet, reload 1), **Damage** 1d6 piercing</span><span class="in-box-ability">**Poison Weapon** <span class="action-icon">1</span> The rogue applies one of their [[Black Adder Venom]] poisons to their wielded weapon. If their next attack with that weapon before the end of their next turn hits and deals damage, the target is afflicted with the poison.</span><span class="in-box-ability">**[[Sneak Attack]]** The Copper Hand rogue deals 1d6 additional precision damage to [[Flat-Footed]] creatures.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> shortsword +14 [+10/+6] (agile, finesse, versatile S), **Damage** 1d6+5 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> hand crossbow +14 [+9/+4] (range 60 feet, reload 1), **Damage** 1d6 piercing</span><span class="in-box-ability">**Poison Weapon** <span class="action-icon">1</span> The rogue applies one of their [[DATABASE/equipment/Black Adder Venom|black adder venom]] poisons to their wielded weapon. If their next attack with that weapon before the end of their next turn hits and deals damage, the target is afflicted with the poison.</span><span class="in-box-ability">**[[DATABASE/monsterability/Sneak Attack|Sneak Attack]]** The Copper Hand rogue deals 1d6 additional precision damage to [[DATABASE/condition/Flat-Footed|flat-footed]] creatures.</span>

@@ -77,30 +77,30 @@ wisdom: '+3'
 # Thresholder Hermeticist
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 40
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 40
 **Unspecific Lore**: DC 38
 **Specific Lore**: DC 35
 
 # Thresholder Hermeticist<span class="item-type">Creature 16</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 Human occult researcher
 **Perception** +29; unseen sight
-**Languages** [[Aklo]], [[Hallit]]
-**Skills** [[Acrobatics]] +29, [[Crafting]] +31, [[Intimidation]] +25, [[Medicine]] +27, [[Occultism]] +31, [[Stealth]] +27, [[Survival]] +27, [[Lore]] +31
+**Languages** [[DATABASE/language/Aklo|Aklo]], [[DATABASE/language/Hallit|Hallit]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +29, [[DATABASE/skill/Crafting|Crafting]] +31, [[DATABASE/skill/Intimidation|Intimidation]] +25, [[DATABASE/skill/Medicine|Medicine]] +27, [[DATABASE/skill/Occultism|Occultism]] +31, [[DATABASE/skill/Stealth|Stealth]] +27, [[DATABASE/skill/Survival|Survival]] +27, [[DATABASE/skill/Lore|Yog-Sothoth Lore]] +31
 **Str** +2, **Dex** +5, **Con** +3, **Int** +5, **Wis** +3, **Cha** +1
-**Infused Items** A Thresholder Hermeticist carries the following infused items, which last for 24 hours or until the next time the Thresholder Hermeticist makes their daily preparations: infused [[Acid Flask]] (14), infused [[Eagle-Eye Elixir]] (2), infused [[Elixir of Life]] (3), infused [[Mistform Elixir]] (2).
-**Items** _[[Magic Weapon]] [[Dagger]]_, _[[Magic Armor]] [[Studded Leather Armor]]_, [[Alchemist's Tools]], [[Antidote]], [[Religious Symbol]]
+**Infused Items** A Thresholder Hermeticist carries the following infused items, which last for 24 hours or until the next time the Thresholder Hermeticist makes their daily preparations: infused [[DATABASE/equipment/Acid Flask|greater acid flasks]] (14), infused [[DATABASE/equipment/Eagle-Eye Elixir|major eagle-eye elixirs]] (2), infused [[DATABASE/equipment/Elixir of Life|major elixirs of life]] (3), infused [[DATABASE/equipment/Mistform Elixir|greater mistform elixirs]] (2).
+**Items** _[[DATABASE/equipment/Magic Weapon|+2 greater striking]] [[DATABASE/weapon/Dagger|dagger]]_, _[[DATABASE/equipment/Magic Armor|+2 resilient]] [[DATABASE/armor/Studded Leather Armor|studded leather armor]]_, [[DATABASE/equipment/Alchemist's Tools|expanded alchemist's tools]], [[DATABASE/equipment/Antidote|major antidote]], [[DATABASE/equipment/Religious Symbol|religious symbol of Yog-Sothoth]]
 
 ---
 **AC** 39 concealed; **Fort** +28, **Ref** +30, **Will** +26; juggernaut
 **HP** 290; **Resistances** mental 15
-<span class="in-box-ability">**Juggernaut** When the Thresholder Hermeticist rolls a success on a Fortitude save, they get a critical success instead.</span><span class="in-box-ability">**Outside of Time** The Thresholder Hermeticist exists outside of time; they don't age, don't need food or drink to survive, and can't be [[Quickened]] or [[Slowed]] unless they choose to be.</span>
+<span class="in-box-ability">**Juggernaut** When the Thresholder Hermeticist rolls a success on a Fortitude save, they get a critical success instead.</span><span class="in-box-ability">**Outside of Time** The Thresholder Hermeticist exists outside of time; they don't age, don't need food or drink to survive, and can't be [[DATABASE/condition/Quickened|quickened]] or [[DATABASE/condition/Slowed|slowed]] unless they choose to be.</span>
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _dagger_ +31 [+27/+23] (agile, finesse, magical, versatile S), **Damage** 3d4+8 piercing plus cruel anatomist</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> greater acid flask +31 [+26/+21] (range increment 30 feet, splash 10 feet), **Effect** 1 acid damage plus 3d6 [[Persistent Damage]] and 3 acid splash damage</span><span class="in-box-ability">**Bomber** When throwing an alchemical bomb with the splash trait, the Thresholder Hermeticist can deal splash damage to only their primary target instead of the usual splash area.</span><span class="in-box-ability">**Cruel Anatomist** The Thresholder Hermeticist deals an additional 2d8 bleed damage with melee Strikes. A creature who bleeds for 2 rounds from this becomes [[Enfeebled]] 1 for as long as it continues bleeding.</span><span class="in-box-ability">**Quick Bomber** <span class="action-icon">1</span> The Thresholder Hermeticist Interacts to draw an alchemical bomb, then Strikes with it.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _dagger_ +31 [+27/+23] (agile, finesse, magical, versatile S), **Damage** 3d4+8 piercing plus cruel anatomist</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> greater acid flask +31 [+26/+21] (range increment 30 feet, splash 10 feet), **Effect** 1 acid damage plus 3d6 [[DATABASE/condition/Persistent Damage|persistent acid damage]] and 3 acid splash damage</span><span class="in-box-ability">**Bomber** When throwing an alchemical bomb with the splash trait, the Thresholder Hermeticist can deal splash damage to only their primary target instead of the usual splash area.</span><span class="in-box-ability">**Cruel Anatomist** The Thresholder Hermeticist deals an additional 2d8 bleed damage with melee Strikes. A creature who bleeds for 2 rounds from this becomes [[DATABASE/condition/Enfeebled|enfeebled]] 1 for as long as it continues bleeding.</span><span class="in-box-ability">**Quick Bomber** <span class="action-icon">1</span> The Thresholder Hermeticist Interacts to draw an alchemical bomb, then Strikes with it.</span>
 
 ### Unseen Sight
 

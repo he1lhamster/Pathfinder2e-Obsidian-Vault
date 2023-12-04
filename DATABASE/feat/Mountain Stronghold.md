@@ -11,6 +11,7 @@ name: Mountain Stronghold
 prerequisite: '[[DATABASE/feat/Mountain Stance|Mountain Stance]]'
 rarity: Common
 requirement: You are in Mountain Stance.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Mountain Stronghold <span class="action-icon">1</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Monk</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Martial Artist]]*
-**Prerequisites** [[Mountain Stance]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Martial Artist|Martial Artist]]*
+**Prerequisites** [[DATABASE/feat/Mountain Stance|Mountain Stance]]
 **Requirements** You are in Mountain Stance.
 * This archetype offers Mountain Stronghold at a different level than displayed here.
 
@@ -39,4 +40,4 @@ This feat can be used for one or more Archetypes in addition to the listed Class
 
 ## Mountain Stronghold Leads To...
 
-[[Mountain Quake]]
+[[DATABASE/feat/Mountain Quake|Mountain Quake]]

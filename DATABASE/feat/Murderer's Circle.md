@@ -11,6 +11,7 @@ name: Murderer's Circle
 prerequisite: '[[DATABASE/feat/Provocator Dedication|Provocator Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 159. All or Nothing|Pathfinder #159: All or
   Nothing]]'
@@ -24,12 +25,12 @@ type: Feat
 # Murderer's Circle <span class="action-icon">1</span> <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Pathfinder 159. All or Nothing]]
-**Archetype** [[Provocator]]
-**Prerequisites** [[Provocator Dedication]]
+**Source** [[DATABASE/source/Pathfinder 159. All or Nothing|Pathfinder #159: All or Nothing]]
+**Archetype** [[DATABASE/archetype/Provocator|Provocator]]
+**Prerequisites** [[DATABASE/feat/Provocator Dedication|Provocator Dedication]]
 
 ---
-You Strike a target within reach and then Step to any other open space adjacent to that target. Your target is then [[Flat-Footed]] against your next Strike this turn.
+You Strike a target within reach and then Step to any other open space adjacent to that target. Your target is then [[DATABASE/condition/Flat-Footed|flat-footed]] against your next Strike this turn.
 
 ## Traits
 

@@ -92,19 +92,19 @@ wisdom: '+2'
 # Green Hag
 
 Green hags hate beauty and purity, so they use disguises and treachery to lure and murder innocents, corrupt the pure of heart, and shatter the minds and morals of their victims. Green hags create imaginative schemes to utterly ruin anyone who crosses them, as well as good or righteous folk whose very existence insults the hag’s twisted sensibilities. The complicated scandals perpetuated by green hags involve impersonation, mistaken identity, the seduction and betrayal of loved ones, or all these things in combination.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 19
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 19
 **Unspecific Lore**: DC 17
 **Specific Lore**: DC 14
 
 # Green Hag<span class="item-type">Creature 4</span>
 
 <span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Hag</span><span class="item-trait">Humanoid</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +10; darkvision
-**Languages** [[Aklo]], [[Common]], [[Jotun]]; [[Tongues]]
-**Skills** [[Acrobatics]] +9, [[Athletics]] +11, [[Deception]] +10, [[Nature]] +8, [[Occultism]] +8, [[Stealth]] +9
+**Languages** [[DATABASE/language/Aklo|Aklo]], [[DATABASE/language/Common|Common]], [[DATABASE/language/Jotun|Jotun]]; [[DATABASE/spell/Tongues|tongues]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +9, [[DATABASE/skill/Athletics|Athletics]] +11, [[DATABASE/skill/Deception|Deception]] +10, [[DATABASE/skill/Nature|Nature]] +8, [[DATABASE/skill/Occultism|Occultism]] +8, [[DATABASE/skill/Stealth|Stealth]] +9
 **Str** +5, **Dex** +3, **Con** +3, **Int** +2, **Wis** +2, **Cha** +4
-**Coven** A green hag adds [[Entangle]], [[Outcast's Curse]], and [[Wall of Thorns]] to her coven’s spells.
+**Coven** A green hag adds [[DATABASE/spell/Entangle|entangle]], [[DATABASE/spell/Outcast's Curse|outcast’s curse]], and [[DATABASE/spell/Wall of Thorns|wall of thorns]] to her coven’s spells.
 
 ---
 **AC** 21; **Fort** +11, **Ref** +11, **Will** +12; +1 status to all saves vs. magic
@@ -113,5 +113,5 @@ Green hags hate beauty and purity, so they use disguises and treachery to lure a
 
 ---
 **Speed** 25 feet, swim 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +14 [+10/+6] (agile, magical), **Damage** 1d10+5 slashing plus enfeebling humors</span>**Occult Innate Spells** DC 20, attack +14; **2nd** _[[Invisibility]]_ (at will), _[[Tree Shape]]_ (at will); **Cantrips** **(2nd)** _[[Acid Splash]]_, _[[Dancing Lights]]_, _[[Ghost Sound]]_, _[[Message]]_; **Constant** **(5th)** _[[Tongues]]_; **(2nd)** _[[Water Breathing]]_; **(1st)** _[[Pass Without Trace]]_
-<span class="in-box-ability">**Betraying Touch** <span class="action-icon">1</span> The green hag touches a creature that doesn’t realize the hag is an enemy. The betrayed creature is affected by the hag’s enfeebling humors and takes a –4 circumstance penalty to their saving throw against that effect.</span><span class="in-box-ability">**[[Change Shape]]** <span class="action-icon">1</span> (concentrate, occult, polymorph, transmutation) The green hag can take on the appearance of any Medium humanoid woman. This doesn’t change her Speed or her attack and damage bonuses with her Strikes, but might change the damage type her Strikes deal (typically to bludgeoning).</span><span class="in-box-ability">**Enfeebling Humors** (necromancy, occult) A creature damaged by a hag’s claw must succeed at a DC 20 Fortitude save or be [[Enfeebled]] for 1 day. On a critical failure, or if it gets hit again and fails its save a second time, it’s enfeebled 2 for 1 day.</span><span class="in-box-ability">**Exhale Miasma** <span class="action-icon">2</span> (necromancy, occult) The green hag exhales a miasma of green vapors. Each living creature in a 15-foot cone is affected by her enfeebling humors (attempting a save as normal). She can’t use Exhale Miasma again for 1d4 rounds.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +14 [+10/+6] (agile, magical), **Damage** 1d10+5 slashing plus enfeebling humors</span>**Occult Innate Spells** DC 20, attack +14; **2nd** _[[DATABASE/spell/Invisibility|invisibility]]_ (at will), _[[DATABASE/spell/Tree Shape|tree shape]]_ (at will); **Cantrips** **(2nd)** _[[DATABASE/spell/Acid Splash|acid splash]]_, _[[DATABASE/spell/Dancing Lights|dancing lights]]_, _[[DATABASE/spell/Ghost Sound|ghost sound]]_, _[[DATABASE/spell/Message|message]]_; **Constant** **(5th)** _[[DATABASE/spell/Tongues|tongues]]_; **(2nd)** _[[DATABASE/spell/Water Breathing|water breathing]]_; **(1st)** _[[DATABASE/spell/Pass Without Trace|pass without trace]]_
+<span class="in-box-ability">**Betraying Touch** <span class="action-icon">1</span> The green hag touches a creature that doesn’t realize the hag is an enemy. The betrayed creature is affected by the hag’s enfeebling humors and takes a –4 circumstance penalty to their saving throw against that effect.</span><span class="in-box-ability">**[[DATABASE/monsterability/Change Shape|Change Shape]]** <span class="action-icon">1</span> (concentrate, occult, polymorph, transmutation) The green hag can take on the appearance of any Medium humanoid woman. This doesn’t change her Speed or her attack and damage bonuses with her Strikes, but might change the damage type her Strikes deal (typically to bludgeoning).</span><span class="in-box-ability">**Enfeebling Humors** (necromancy, occult) A creature damaged by a hag’s claw must succeed at a DC 20 Fortitude save or be [[DATABASE/condition/Enfeebled|enfeebled 1]] for 1 day. On a critical failure, or if it gets hit again and fails its save a second time, it’s enfeebled 2 for 1 day.</span><span class="in-box-ability">**Exhale Miasma** <span class="action-icon">2</span> (necromancy, occult) The green hag exhales a miasma of green vapors. Each living creature in a 15-foot cone is affected by her enfeebling humors (attempting a save as normal). She can’t use Exhale Miasma again for 1d4 rounds.</span>

@@ -7,6 +7,7 @@ id: '759'
 name: Share Senses
 rarity: Common
 requirement: Your eidolon is manifested.
+rus_type_level: null
 school: Divination
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 trait:
@@ -21,7 +22,7 @@ type: Action
 # Share Senses <span class="action-icon">1</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Divination</span><span class="item-trait">Scrying</span><span class="item-trait">Summoner</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Requirements** Your eidolon is manifested.
 
 ---

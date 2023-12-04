@@ -3,6 +3,7 @@ creature_family: Visitant
 id: '119'
 name: Visitant
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 152. Legacy of the Lost God|Pathfinder #152:
   Legacy of the Lost God]]'
 trait: null
@@ -11,7 +12,7 @@ type: Creature Family
 ---
 # Visitant
 
-**Source** [[Pathfinder 152. Legacy of the Lost God]]
+**Source** [[DATABASE/source/Pathfinder 152. Legacy of the Lost God|Pathfinder #152: Legacy of the Lost God]]
 Although the wild creatures seen at traveling circuses can entertain and amaze, the lives of such animals and beasts are sometimes sad and cruel. Circus owners who mistreat their animals through harsh discipline or overtraining see little wrong with their mercilessness, even going so far as to slaughter their entertainers—supposedly “by accident”—via neglect or abuse. The victims of such cruelty who cannot move onto the afterlife—either because they somehow become infused with negative energy or their spirits cannot rest without first enacting revenge on their assailants—occasionally rise from the dead as visitants.
  These undead monsters haunt the sites of their demise and search out the masters who made their lives so hellish with only one goal in mind: vengeance. When they can’t locate their particular abuser, or if they are still unable to rest even after confronting their aggressor, visitants seek out similarly evil harmers of animals, becoming torturers of torturers. However, visitants are for the most part unable to distinguish between individual members of a species; thus, if a visitant was abused by a human trainer, any human that crosses its path may become a target of its rage.
  A visitant resembles a zombified animal, but it retains a spark of the animal intelligence it had in life, making it all the more dangerous as a result. Visitants’ bodies are marred by the horrors of their brutal existences: Their mouths are furrowed in a constant snarl, with a black ichor dripping from their cracked, rotten lips. Whip scars from their hours of “training” glow with an unnatural purple light. And perhaps above all, their eyes mark them as touched by undeath—sunken horribly deep into their skull, leaking blood or other fluid, and glowing with an aura of dread and palpable anger.
@@ -30,13 +31,13 @@ You can modify visitants by applying the following abilities. Most visitants hav
 
 ### Members
 
-[[Chimpanzee Visitant]] (Creature 3), [[Lion Visitant]] (Creature 5)
+[[DATABASE/monster/Chimpanzee Visitant|Chimpanzee Visitant]] (Creature 3), [[DATABASE/monster/Lion Visitant|Lion Visitant]] (Creature 5)
 
 ###  Creating Visitants
 
-To create a visitant animal, use one of the stat blocks on this page as a starting point. Adjust the size as necessary and give its Strikes reach if it’s Huge or larger. Visitants can also be made using a [[Zombie]] as a base; in this case, adjust the creature’s Intelligence to –4. All visitants have imprecise lifesense as an additional sense.
+To create a visitant animal, use one of the stat blocks on this page as a starting point. Adjust the size as necessary and give its Strikes reach if it’s Huge or larger. Visitants can also be made using a [[DATABASE/monsterfamily/Zombie|zombie stat block]] as a base; in this case, adjust the creature’s Intelligence to –4. All visitants have imprecise lifesense as an additional sense.
 
 ###  Visitant Spells
 
 Some visitants can cast the following innate occult spells. If you give a visitant the following spells, consider removing one of its other special abilities.
- **Occult Innate Spells** DC varies, spell attack varies; **1st** [[Fear]], [[Ray of Enfeeblement]]; **Constant (1st)** [[Detect Alignment]] (evil only)
+ **Occult Innate Spells** DC varies, spell attack varies; **1st** [[DATABASE/spell/Fear|fear]], [[DATABASE/spell/Ray of Enfeeblement|ray of enfeeblement]]; **Constant (1st)** [[DATABASE/spell/Detect Alignment|detect alignment]] (evil only)

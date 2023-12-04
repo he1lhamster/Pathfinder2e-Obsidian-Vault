@@ -22,6 +22,7 @@ follower_alignment:
 id: '260'
 name: Haagenti
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Crafting|Crafting]]'
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
@@ -31,7 +32,7 @@ type: Deity
 ---
 # Haagenti (The Whispers Within) [CE]
 
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 Haagenti plays at seeming reasonable, tempting forbearance with his numerous helpful inventions. Yet, he's just as monstrous as any other demon, only giving his knowledge to those who'll use it to cause horrendous suffering. He claims to have invented the art of fleshwarping, and the many victims of his followers stand as a stunning testament to his true cruelty.
 **Category** Demon Lords
 **Edicts** practice alchemical transmutations, pursue knowledge whatever the cost, use your inventions to exploit others
@@ -40,9 +41,9 @@ Haagenti plays at seeming reasonable, tempting forbearance with his numerous hel
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Constitution or Intelligence
-**Divine Font** _[[Harm]]_ or _[[Heal]]_
-**Divine Skill** [[Crafting]]
-**Favored Weapon** [[Battle Axe]]
-**Domains** [[Change Domain]], [[Might Domain]], [[Wealth Domain]]
-**Cleric Spells** 1st: _[[Summon Construct]]_, 2nd: _[[Humanoid Form]]_, 4th: _[[Bestial Curse]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Constitution or Intelligence
+**Divine Font** _[[DATABASE/spell/Harm|harm]]_ or _[[DATABASE/spell/Heal|heal]]_
+**Divine Skill** [[DATABASE/skill/Crafting|Crafting]]
+**Favored Weapon** [[DATABASE/weapon/Battle Axe|battle axe]]
+**Domains** [[DATABASE/domain/Change Domain|change]], [[DATABASE/domain/Might Domain|might]], [[DATABASE/domain/Wealth Domain|wealth]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Summon Construct|summon construct]]_, 2nd: _[[DATABASE/spell/Humanoid Form|humanoid form]]_, 4th: _[[DATABASE/spell/Bestial Curse|bestial curse]]_

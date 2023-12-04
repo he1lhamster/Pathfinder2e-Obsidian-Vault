@@ -20,6 +20,7 @@ range: null
 rarity: Uncommon
 requirement: You have a spell slot from which you could Cast a Spell of the triggering
   spell's countering element;see text.
+rus_type_level: null
 saving_throw: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
@@ -42,7 +43,7 @@ type: Cantrip
 # Elemental Counter<span class="item-type">Cantrip 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Cantrip</span><span class="item-trait">Concentrate</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Traditions** arcane, primal
 **Spell List** elemental
 **Cast** <span class="action-icon">5</span> ; **Trigger** You or a creature within 60 feet rolls a saving throw against a spell with the earth, fire, metal, plant, water, or wood trait, or are targeted by a spell attack with such a trait.; **Requirements** You have a spell slot from which you could Cast a Spell of the triggering spell's countering element; see text.

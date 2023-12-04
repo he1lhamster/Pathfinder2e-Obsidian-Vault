@@ -11,6 +11,7 @@ name: Fiery Retort
 prerequisite: '[[DATABASE/druidicorder/Flame|flame order]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -26,9 +27,9 @@ type: Feat
 # Fiery Retort <span class="action-icon">5</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Druid</span><span class="item-trait">Evocation</span><span class="item-trait">Fire</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Frequency** once per minute
-**Prerequisites** [[Flame]]
+**Prerequisites** [[DATABASE/druidicorder/Flame|flame order]]
 **Trigger** An opponent adjacent to you hits you with a melee weapon or a melee unarmed attack.
 
 ---

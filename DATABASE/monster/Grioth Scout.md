@@ -83,27 +83,27 @@ wisdom: '+2'
 # Grioth Scout
 
 The first grioths encountered on a new world are scouts. Typically traveling the vastness of space via one-way portals from their home worlds, grioth scouts never expect to see their homes again, as grioth leadership ensures true devotion to the colonization effort by stranding them on new worlds.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 17
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 17
 **Unspecific Lore**: DC 15
 **Specific Lore**: DC 12
 
 # Grioth Scout<span class="item-type">Creature 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Grioth</span><span class="item-trait">Humanoid</span>
-**Source** [[Bestiary 3]]
-**Perception** +7; [[Darkvision]], echolocation (precise) 20 feet
-**Languages** [[Aklo]], [[Grioth]]; [[Telepathy]] 30 feet
-**Skills** [[Acrobatics]] +7, [[Occultism]] +6, [[Stealth]] +7
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
+**Perception** +7; [[DATABASE/monsterability/Darkvision|greater darkvision]], echolocation (precise) 20 feet
+**Languages** [[DATABASE/language/Aklo|Aklo]], [[DATABASE/language/Grioth|Grioth]]; [[DATABASE/monsterability/Telepathy|telepathy]] 30 feet
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +7, [[DATABASE/skill/Occultism|Occultism]] +6, [[DATABASE/skill/Stealth|Stealth]] +7
 **Str** +0, **Dex** +4, **Con** +2, **Int** +1, **Wis** +2, **Cha** +0
 **Echolocation** A grioth can use its hearing as a precise sense at the listed range.
-**Items** [[Kukri]]
+**Items** [[DATABASE/weapon/Kukri|voidglass kukri]]
 
 ---
 **AC** 17; **Fort** +5, **Ref** +9, **Will** +7
 **HP** 16; **Immunities** cold; **Weaknesses** fire 3
-<span class="in-box-ability">**[[Light Blindness]]** </span><span class="in-box-ability">**No Breath** A grioth doesn't breathe except to speak and is immune to effects that require breathing (such as an inhaled poison).</span>
+<span class="in-box-ability">**[[DATABASE/monsterability/Light Blindness|Light Blindness]]** </span><span class="in-box-ability">**No Breath** A grioth doesn't breathe except to speak and is immune to effects that require breathing (such as an inhaled poison).</span>
 
 ---
 **Speed** 25 feet, fly 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> kukri +7 [+3/-1] (agile, finesse, trip), **Damage** 1d6 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +7 [+3/-1] (agile, finesse), **Damage** 1d4 piercing plus grioth venom</span>**Occult Innate Spells** DC 16, attack +8; **1st** _[[Phantom Pain]]_; **Cantrips** **(1st)** _[[Daze]]_, _[[Detect Magic]]_, _[[Mage Hand]]_, _[[Telekinetic Projectile]]_
-<span class="in-box-ability">**Grioth Venom** (emotion, fear, mental, poison) **Saving Throw** Fortitude DC 17; **Maximum Duration** 6 rounds; **Stage 1** [[Frightened]] (1 round); **Stage 2** frightened 2 (1 round); **Stage 3** frightened 3 (1 round)</span><span class="in-box-ability">**Shock Mind** <span class="action-icon">2</span> (enchantment, mental, occult) The grioth scout makes a Strike with a voidglass weapon. If the Strike hits, it deals an additional 1d6 mental damage, and the target must succeed at a DC 17 Will save (this has the incapacitation trait) or become [[Confused]] for 1 round.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> kukri +7 [+3/-1] (agile, finesse, trip), **Damage** 1d6 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +7 [+3/-1] (agile, finesse), **Damage** 1d4 piercing plus grioth venom</span>**Occult Innate Spells** DC 16, attack +8; **1st** _[[DATABASE/spell/Phantom Pain|phantom pain]]_; **Cantrips** **(1st)** _[[DATABASE/spell/Daze|daze]]_, _[[DATABASE/spell/Detect Magic|detect magic]]_, _[[DATABASE/spell/Mage Hand|mage hand]]_, _[[DATABASE/spell/Telekinetic Projectile|telekinetic projectile]]_
+<span class="in-box-ability">**Grioth Venom** (emotion, fear, mental, poison) **Saving Throw** Fortitude DC 17; **Maximum Duration** 6 rounds; **Stage 1** [[DATABASE/condition/Frightened|frightened 1]] (1 round); **Stage 2** frightened 2 (1 round); **Stage 3** frightened 3 (1 round)</span><span class="in-box-ability">**Shock Mind** <span class="action-icon">2</span> (enchantment, mental, occult) The grioth scout makes a Strike with a voidglass weapon. If the Strike hits, it deals an additional 1d6 mental damage, and the target must succeed at a DC 17 Will save (this has the incapacitation trait) or become [[DATABASE/condition/Confused|confused]] for 1 round.</span>

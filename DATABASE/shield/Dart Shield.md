@@ -10,6 +10,7 @@ level: '0'
 name: Dart Shield
 price: 8 gp
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 speed_penalty: null
 trait:
@@ -20,7 +21,7 @@ type: Shield
 # Dart Shield
 
 <span class="item-trait">Launching Dart</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 8 gp; **AC Bonus** +1; **Speed Penalty** —
 **Bulk** 1; **Hardness** 3; **HP (BT)** 12 (6)
 

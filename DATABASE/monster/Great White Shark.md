@@ -69,16 +69,16 @@ wisdom: '+1'
 # Great White Shark
 
 An apex predator among the coastal surface waters where it hunts, the great white shark is one of the largest shark species. These silent killers glide gracefully through the ocean, always in search of their next meal.
-**Recall Knowledge - Animal ([[Nature]])**: DC 19
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 19
 **Unspecific Lore**: DC 17
 **Specific Lore**: DC 14
 
 # Great White Shark<span class="item-type">Creature 4</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Huge</span><span class="item-trait">Animal</span><span class="item-trait">Aquatic</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +11; blood scent, scent (imprecise) 100 feet
-**Skills** [[Athletics]] +14, [[Stealth]] +12, [[Survival]] +9
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +14, [[DATABASE/skill/Stealth|Stealth]] +12, [[DATABASE/skill/Survival|Survival]] +9
 **Str** +6, **Dex** +2, **Con** +4, **Int** -4, **Wis** +1, **Cha** -4
 **Blood Scent** The shark can smell blood in the water from up to 1 mile away.
 

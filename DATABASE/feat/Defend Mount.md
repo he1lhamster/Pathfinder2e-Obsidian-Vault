@@ -11,6 +11,7 @@ name: Defend Mount
 prerequisite: '[[DATABASE/feat/Cavalier Dedication|Cavalier Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Defend Mount <span class="action-icon">5</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Cavalier]]
-**Prerequisites** [[Cavalier Dedication]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Cavalier|Cavalier]]
+**Prerequisites** [[DATABASE/feat/Cavalier Dedication|Cavalier Dedication]]
 **Trigger** An enemy makes an attack roll against your mount while you're riding it.
 
 ---

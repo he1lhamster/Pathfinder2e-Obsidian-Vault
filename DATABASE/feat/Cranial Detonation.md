@@ -11,6 +11,7 @@ name: Cranial Detonation
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -27,7 +28,7 @@ type: Feat
 # Cranial Detonation <span class="action-icon">4</span> <span class="item-type">Feat 18</span>
 
 <span class="item-trait">Death</span><span class="item-trait">Mindshift</span><span class="item-trait">Psyche</span><span class="item-trait">Psychic</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Frequency** once per round
 **Trigger** You successfully reduce one or more non-mindless enemies to 0 Hit Points with a spell.
 

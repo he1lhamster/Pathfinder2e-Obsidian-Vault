@@ -76,20 +76,20 @@ wisdom: '+1'
 # Ekundayo (Level 1)
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 25
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 25
 **Unspecific Lore**: DC 23
 **Specific Lore**: DC 20
 
 # Ekundayo (Level 1)<span class="item-type">Creature 1</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">LG</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Kingmaker Companion Guide]]
-Male [[Skilled Heritage]] human ranger ([[Artisan]] background)
+**Source** [[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]
+Male [[DATABASE/heritage/Skilled Heritage|skilled]] human ranger ([[DATABASE/background/Artisan|Artisan]] background)
 **Perception** +6; (expert) 
-**Languages** [[Common]]
-**Skills** [[Acrobatics]] +7, [[Athletics]] +5, [[Crafting]] +3 (+4 to woodworking), [[Lore]] +3, [[Lore]] +3, [[Lore]] +3, [[Nature]] +4, [[Stealth]] +7, [[Survival]] +4
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +7, [[DATABASE/skill/Athletics|Athletics]] +5, [[DATABASE/skill/Crafting|Crafting]] +3 (+4 to woodworking), [[DATABASE/skill/Lore|Giant Lore]] +3, [[DATABASE/skill/Lore|Guild Lore]] +3, [[DATABASE/skill/Lore|Hunting Lore]] +3, [[DATABASE/skill/Nature|Nature]] +4, [[DATABASE/skill/Stealth|Stealth]] +7, [[DATABASE/skill/Survival|Survival]] +4
 **Str** +2, **Dex** +4, **Con** +2, **Int** +0, **Wis** +1, **Cha** +0
-**Items** [[Backpack]], basic woodworker's book, [[Bedroll]], [[Compass]], [[Explorer's Clothing]], [[Flint and Steel]], [[Leather Armor]], [[Alchemist's Fire]], [[Longbow]], [[Longsword]], [[Rations]], [[Rope]], [[Torch]], [[Waterskin]], [[Tool]]
+**Items** [[DATABASE/equipment/Backpack|backpack]], basic woodworker's book, [[DATABASE/equipment/Bedroll|bedroll]], [[DATABASE/equipment/Compass|compass]], [[DATABASE/armor/Explorer's Clothing|explorer's clothing]], [[DATABASE/equipment/Flint and Steel|flint and steel]], [[DATABASE/armor/Leather Armor|leather armor]], [[DATABASE/equipment/Alchemist's Fire|lesser alchemist's fire (3)]], [[DATABASE/weapon/Longbow|longbow (20 arrows)]], [[DATABASE/weapon/Longsword|longsword]], [[DATABASE/equipment/Rations|rations (1 week)]], [[DATABASE/equipment/Rope|rope (50 feet)]], [[DATABASE/equipment/Torch|torches (3)]], [[DATABASE/equipment/Waterskin|waterskin]], [[DATABASE/equipment/Tool|woodworker's artisan tools]]
 
 ---
 **AC** 18; **Fort** +7, **Ref** +9, **Will** +4
@@ -97,4 +97,4 @@ Male [[Skilled Heritage]] human ranger ([[Artisan]] background)
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> longsword +5 [+0/-5] (versatile P), **Damage** 1d8+2 slashing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> longbow +7 [+2/-3] (deadly d10, range 100 feet, volley 30 feet), **Damage** 1d8 piercing</span><span class="in-box-ability">**Hunter's Edge** </span><span class="in-box-ability">**Ancestry Feats** [[General Training]] ([[Toughness]])</span><span class="in-box-ability">**Class Feats** [[Hunted Shot]]</span><span class="in-box-ability">**Class Abilities** Hunt Prey, Hunter's Edge ([[Precision]])</span><span class="in-box-ability">**General Feats** [[Toughness]]</span><span class="in-box-ability">**[[Hunt Prey]]** <span class="action-icon">1</span> (concentrate) </span><span class="in-box-ability">**[[Hunted Shot]]** <span class="action-icon">1</span> (flourish) </span><span class="in-box-ability">**Skill Feats** [[Specialty Crafting]] (woodworking)</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> longsword +5 [+0/-5] (versatile P), **Damage** 1d8+2 slashing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> longbow +7 [+2/-3] (deadly d10, range 100 feet, volley 30 feet), **Damage** 1d8 piercing</span><span class="in-box-ability">**Hunter's Edge** </span><span class="in-box-ability">**Ancestry Feats** [[DATABASE/feat/General Training|General Training]] ([[DATABASE/feat/Toughness|Toughness]])</span><span class="in-box-ability">**Class Feats** [[DATABASE/feat/Hunted Shot|Hunted Shot]]</span><span class="in-box-ability">**Class Abilities** Hunt Prey, Hunter's Edge ([[DATABASE/rangerhuntersedge/Precision|precision]])</span><span class="in-box-ability">**General Feats** [[DATABASE/feat/Toughness|Toughness]]</span><span class="in-box-ability">**[[DATABASE/action/Hunt Prey|Hunt Prey]]** <span class="action-icon">1</span> (concentrate) </span><span class="in-box-ability">**[[DATABASE/feat/Hunted Shot|Hunted Shot]]** <span class="action-icon">1</span> (flourish) </span><span class="in-box-ability">**Skill Feats** [[DATABASE/feat/Specialty Crafting|Specialty Crafting]] (woodworking)</span>

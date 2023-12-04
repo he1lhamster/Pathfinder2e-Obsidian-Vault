@@ -21,6 +21,7 @@ patron_theme: null
 range: 100 feet
 rarity: Uncommon
 requirement: Your most recent action dealt damage to a target
+rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -39,11 +40,11 @@ type: Focus
 # Commanding Lash<span class="item-type">Focus 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Cleric</span><span class="item-trait">Enchantment</span><span class="item-trait">Incapacitation</span><span class="item-trait">Mental</span>
-**Source** [[Core Rulebook]] 
-**Domain** [[Tyranny Domain]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Domain** [[DATABASE/domain/Tyranny Domain|tyranny]]
 **Cast** <span class="action-icon">1</span> verbal; **Requirements** Your most recent action dealt damage to a target
 **Range** 100 feet; **Targets** A creature you dealt damage to on your most recent action.
 **Saving Throw** Will; **Duration** until the end of your target's next turn
 
 ---
-With the threat of more pain, you compel a creature you've recently harmed. You issue a command to the target, with the effects of the spell [[Command]].
+With the threat of more pain, you compel a creature you've recently harmed. You issue a command to the target, with the effects of the spell [[DATABASE/spell/Command|command]].

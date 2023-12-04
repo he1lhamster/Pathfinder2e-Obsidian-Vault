@@ -11,6 +11,7 @@ name: Strix Vengeance
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -25,12 +26,12 @@ type: Feat
 # Strix Vengeance <span class="action-icon">5</span> <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Emotion</span><span class="item-trait">Mental</span><span class="item-trait">Strix</span>
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 **Frequency** once per 10 minutes
 **Trigger** You, or a strix ally you can see, are damaged by an enemy's critical hit.
 
 ---
-You dedicate yourself to destroying those who harm your kin. Until the end of your next turn, you deal an additional +1d6 damage on Strikes against the triggering enemy. The bonus increases to +2d6 if you use a [[Striking]] weapon or unarmed attack and +3d6 if you use a _major striking_ weapon or unarmed attack.
+You dedicate yourself to destroying those who harm your kin. Until the end of your next turn, you deal an additional +1d6 damage on Strikes against the triggering enemy. The bonus increases to +2d6 if you use a [[DATABASE/equipment/Striking|striking]] weapon or unarmed attack and +3d6 if you use a _major striking_ weapon or unarmed attack.
 
 ## Traits
 

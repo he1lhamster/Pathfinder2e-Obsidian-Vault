@@ -11,6 +11,7 @@ name: Grasping Limbs
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -24,10 +25,10 @@ type: Feat
 # Grasping Limbs <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Evolution</span><span class="item-trait">Summoner</span>
-**Source** [[Secrets of Magic]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]]
 
 ---
-Your eidolon grabs enemies. Choose one of the eidolon's unarmed attacks with the grapple trait. It gains the [[Grab]] action on that unarmed attack.
+Your eidolon grabs enemies. Choose one of the eidolon's unarmed attacks with the grapple trait. It gains the [[DATABASE/monsterability/Grab|Grab]] action on that unarmed attack.
 
 ## Traits
 

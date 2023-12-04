@@ -11,6 +11,7 @@ name: Storm Spiral
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -29,10 +30,10 @@ type: Feat
 # Storm Spiral <span class="action-icon">3</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Air</span><span class="item-trait">Electricity</span><span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Overflow</span><span class="item-trait">Primal</span><span class="item-trait">Sonic</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
-Dark thunderclouds swirl in a miniature storm, crisscrossed with lightning bolts; a tremendous thunderclap fills the air. The storm appears in a 20-foot burst within 60 feet. Each creature in the area takes 3d12 electricity damage and 1d10 sonic damage, with a basic Reflex save against your class DC. A creature that fails its save is [[Deafened]] until the end of its next turn (or for 1 minute on a critical failure). A creature wearing metal armor or made of metal takes a –1 circumstance penalty to its save.
+Dark thunderclouds swirl in a miniature storm, crisscrossed with lightning bolts; a tremendous thunderclap fills the air. The storm appears in a 20-foot burst within 60 feet. Each creature in the area takes 3d12 electricity damage and 1d10 sonic damage, with a basic Reflex save against your class DC. A creature that fails its save is [[DATABASE/condition/Deafened|deafened]] until the end of its next turn (or for 1 minute on a critical failure). A creature wearing metal armor or made of metal takes a –1 circumstance penalty to its save.
 
 ---
 **Level (+3)** The electricity damage increases by 1d12.
@@ -53,7 +54,7 @@ The primary magical actions kineticists use are called impulses. You can use an 
 
 **Overflow:**
 
-Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
+Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[DATABASE/action/Channel Elements|Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
 
 **Primal:**
 

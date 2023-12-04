@@ -22,6 +22,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -39,7 +40,7 @@ type: Spell
 # Life Connection<span class="item-type">Spell 3</span>
 
 <span class="item-trait">Contingency</span><span class="item-trait">Necromancy</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Traditions** divine, primal
 **Cast** 10 minutes (material, somatic, verbal)
 **Range** touch; **Targets** 1 living creature

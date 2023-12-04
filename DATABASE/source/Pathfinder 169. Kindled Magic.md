@@ -2,6 +2,7 @@
 id: '94'
 name: Pathfinder 169. Kindled Magic
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -16,23 +17,23 @@ type: Source
 
 ## Equipment [17]
 
-[[Forgetful Ink]], [[Goz Mask]], [[Goz Mask]], [[Goz Mask]], [[Herd Mask]], [[Mask of Mercy]], [[Mask of the Cursed Eye]], [[Psychopomp Mask]], [[Rhinoceros Mask]], [[Rhinoceros Mask]], [[Rhythm Bone]], [[Rhythm Bone]], [[Shapespeak Mask]], [[Skittering Mask]], [[Skittering Mask]], [[Tlil Mask]], [[Tlil Mask]]
+[[DATABASE/equipment/Forgetful Ink|Forgetful Ink]], [[DATABASE/equipment/Goz Mask|Goz Mask]], [[DATABASE/equipment/Goz Mask|Goz Mask (Greater)]], [[DATABASE/equipment/Goz Mask|Goz Mask (Major)]], [[DATABASE/equipment/Herd Mask|Herd Mask]], [[DATABASE/equipment/Mask of Mercy|Mask of Mercy]], [[DATABASE/equipment/Mask of the Cursed Eye|Mask of the Cursed Eye]], [[DATABASE/equipment/Psychopomp Mask|Psychopomp Mask]], [[DATABASE/equipment/Rhinoceros Mask|Rhinoceros Mask]], [[DATABASE/equipment/Rhinoceros Mask|Rhinoceros Mask (Greater)]], [[DATABASE/equipment/Rhythm Bone|Rhythm Bone]], [[DATABASE/equipment/Rhythm Bone|Rhythm Bone (Greater)]], [[DATABASE/equipment/Shapespeak Mask|Shapespeak Mask]], [[DATABASE/equipment/Skittering Mask|Skittering Mask]], [[DATABASE/equipment/Skittering Mask|Skittering Mask (Greater)]], [[DATABASE/equipment/Tlil Mask|Tlil Mask]], [[DATABASE/equipment/Tlil Mask|Tlil Mask (Greater)]]
 
 ## Hazards [1]
 
-[[Centipede Carcasses Trap]]
+[[DATABASE/hazard/Centipede Carcasses Trap|Centipede Carcasses Trap]]
 
 ## Lessons [1]
 
-[[Lesson of Calamity]]
+[[DATABASE/witchlesson/Lesson of Calamity|Lesson of Calamity]]
 
 ## Monsters [11]
 
-[[Anadi Fateweaver]], [[Anadi Lurker]], [[Anadi Seeker]], [[Giant Mining Bee]], [[Giant Silverfish]], [[Giant Tsetse Fly]], [[Giant Worker Bee]], [[Gnagrif]], [[Scrit]], [[Silverfish Swarm]], [[Spellskein]]
+[[DATABASE/monster/Anadi Fateweaver|Anadi Fateweaver]], [[DATABASE/monster/Anadi Lurker|Anadi Lurker]], [[DATABASE/monster/Anadi Seeker|Anadi Seeker]], [[DATABASE/monster/Giant Mining Bee|Giant Mining Bee]], [[DATABASE/monster/Giant Silverfish|Giant Silverfish]], [[DATABASE/monster/Giant Tsetse Fly|Giant Tsetse Fly]], [[DATABASE/monster/Giant Worker Bee|Giant Worker Bee]], [[DATABASE/monster/Gnagrif|Gnagrif]], [[DATABASE/monster/Scrit|Scrit]], [[DATABASE/monster/Silverfish Swarm|Silverfish Swarm]], [[DATABASE/monster/Spellskein|Spellskein]]
 
 ## Rituals [3]
 
-[[Arcane Weaving]], [[Fey Abeyance]], [[Tattoo Whispers]]
+[[DATABASE/ritual/Arcane Weaving|Arcane Weaving]], [[DATABASE/ritual/Fey Abeyance|Fey Abeyance]], [[DATABASE/ritual/Tattoo Whispers|Tattoo Whispers]]
 
 ## Rules [1]
 
@@ -44,4 +45,4 @@ Life in the Academy, Students of the Magaambya
 
 ## Spells [7]
 
-[[Airburst]], [[Friendfetch]], [[Grave Impressions]], [[Impeccable Flow]], [[Mind Games]], [[Stumbling Curse]], [[Verminous Lure]]
+[[DATABASE/spell/Airburst|Airburst]], [[DATABASE/spell/Friendfetch|Friendfetch]], [[DATABASE/spell/Grave Impressions|Grave Impressions]], [[DATABASE/spell/Impeccable Flow|Impeccable Flow]], [[DATABASE/spell/Mind Games|Mind Games]], [[DATABASE/spell/Stumbling Curse|Stumbling Curse]], [[DATABASE/spell/Verminous Lure|Verminous Lure]]

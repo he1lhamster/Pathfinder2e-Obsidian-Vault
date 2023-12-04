@@ -71,20 +71,20 @@ wisdom: '+4'
 # Spy
 
 No empire would be complete without its spies. The spy is a master of infiltrating the court and blending in: they might be one of a number of nobles, a beloved confidante of the queen, or even the court jester. Spies use their skills to subtly manipulate courtiers, turn enemies against one another, and collect valuable information either for blackmail or to auction to the highest bidder.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 22
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 22
 **Unspecific Lore**: DC 20
 **Specific Lore**: DC 17
 
 # Spy<span class="item-type">Creature 6</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Perception** +17
-**Languages** [[Common]]
-**Skills** [[Deception]] +15, [[Diplomacy]] +13, [[Intimidation]] +15, [[Lore]] +16, [[Society]] +12, [[Stealth]] +14, [[Thievery]] +12
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Deception|Deception]] +15, [[DATABASE/skill/Diplomacy|Diplomacy]] +13, [[DATABASE/skill/Intimidation|Intimidation]] +15, [[DATABASE/skill/Lore|Local Court Lore]] +16, [[DATABASE/skill/Society|Society]] +12, [[DATABASE/skill/Stealth|Stealth]] +14, [[DATABASE/skill/Thievery|Thievery]] +12
 **Str** +0, **Dex** +4, **Con** +1, **Int** +2, **Wis** +4, **Cha** +4
-**Noble's Ally** The spy has positioned themself to seem a trusted ally, gaining a +2 circumstance bonus to [[Gather Information]] or to [[Make an Impression]] among the nobles of that court.
-**Items** [[Rapier]], [[Dagger]], [[Disguise Kit]], [[Clothing]], [[Leather Armor]], [[Thieves' Tools]]
+**Noble's Ally** The spy has positioned themself to seem a trusted ally, gaining a +2 circumstance bonus to [[DATABASE/action/Gather Information|Gather Information]] or to [[DATABASE/action/Make an Impression|Make an Impression]] among the nobles of that court.
+**Items** [[DATABASE/weapon/Rapier|+1 rapier]], [[DATABASE/weapon/Dagger|dagger (4)]], [[DATABASE/equipment/Disguise Kit|disguise kit]], [[DATABASE/equipment/Clothing|fine clothes]], [[DATABASE/armor/Leather Armor|leather armor]], [[DATABASE/equipment/Thieves' Tools|thieves' tools]]
 
 ---
 **AC** 23; **Fort** +11, **Ref** +17, **Will** +14
@@ -92,4 +92,4 @@ No empire would be complete without its spies. The spy is a master of infiltrati
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _rapier_ +16 [+11/+6] (deadly 1d8, disarm, finesse, magical), **Damage** 1d6+7 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> dagger +14 [+10/+6] (agile, thrown 10 feet, versatile S), **Damage** 1d4+6 piercing</span><span class="in-box-ability">**Hidden Blade** <span class="action-icon">1</span> **Frequency** once per round; **Effect** The spy draws a weapon and then Strikes with it. The target of the Strike is [[Flat-Footed]] against the attack.</span><span class="in-box-ability">**[[Sneak Attack]]** The spy deals an extra 2d6 precision damage to [[Flat-Footed]] creatures.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _rapier_ +16 [+11/+6] (deadly 1d8, disarm, finesse, magical), **Damage** 1d6+7 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> dagger +14 [+10/+6] (agile, thrown 10 feet, versatile S), **Damage** 1d4+6 piercing</span><span class="in-box-ability">**Hidden Blade** <span class="action-icon">1</span> **Frequency** once per round; **Effect** The spy draws a weapon and then Strikes with it. The target of the Strike is [[DATABASE/condition/Flat-Footed|flat-footed]] against the attack.</span><span class="in-box-ability">**[[DATABASE/monsterability/Sneak Attack|Sneak Attack]]** The spy deals an extra 2d6 precision damage to [[DATABASE/condition/Flat-Footed|flat-footed]] creatures.</span>

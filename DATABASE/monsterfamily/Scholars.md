@@ -3,6 +3,7 @@ creature_family: Scholars
 id: '195'
 name: Scholars
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Scholars
 
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 True power comes from knowledge: the power to shape the growth of kingdoms by mere whispers, staying three steps ahead of adversaries, or even knowing which flora is best for creating untraceable poisons.
 
 ### Members
 
-[[Astronomer]] (Creature 2), [[Librarian]] (Creature -1), [[Sage]] (Creature 6), [[Teacher]] (Creature -1)
+[[DATABASE/npc/Astronomer|Astronomer]] (Creature 2), [[DATABASE/npc/Librarian|Librarian]] (Creature -1), [[DATABASE/npc/Sage|Sage]] (Creature 6), [[DATABASE/npc/Teacher|Teacher]] (Creature -1)
 
 ###  Centers Of Learning
 

@@ -24,6 +24,7 @@ follower_alignment:
 id: '110'
 name: Ketephys
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Survival|Survival]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -33,19 +34,19 @@ type: Deity
 ---
 # Ketephys (The Hunter) [CG]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Category** Elven Gods
 **Edicts** Hunt and kill demons and undead, maintain the health of the forest, provide for your community
 **Anathema** Take more than needed from the wilderness, hunt an animal for sport, aid Treerazer or his minions
 **Areas of Concern** hunting and the moon
 **Follower Alignments** NG, CG
-**Pantheons** [[Cosmic Caravan]], [[Elven Pantheon]]
+**Pantheons** [[DATABASE/deity/Cosmic Caravan|Cosmic Caravan]], [[DATABASE/deity/Elven Pantheon|Elven Pantheon]]
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Dexterity or Wisdom
-**Divine Font** _[[Heal]]_
-**Divine Skill** [[Survival]]
-**Favored Weapon** [[Longbow]]
-**Domains** [[Darkness Domain]], [[Moon Domain]], [[Nature Domain]], [[Secrecy Domain]]
-**Cleric Spells** 1st: _[[Pass Without Trace]]_, 2nd: _[[Invisibility]]_, 3rd: _[[Animal Vision]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Dexterity or Wisdom
+**Divine Font** _[[DATABASE/spell/Heal|heal]]_
+**Divine Skill** [[DATABASE/skill/Survival|Survival]]
+**Favored Weapon** [[DATABASE/weapon/Longbow|longbow]]
+**Domains** [[DATABASE/domain/Darkness Domain|darkness]], [[DATABASE/domain/Moon Domain|moon]], [[DATABASE/domain/Nature Domain|nature]], [[DATABASE/domain/Secrecy Domain|secrecy]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Pass Without Trace|pass without trace]]_, 2nd: _[[DATABASE/spell/Invisibility|invisibility]]_, 3rd: _[[DATABASE/spell/Animal Vision|animal vision]]_

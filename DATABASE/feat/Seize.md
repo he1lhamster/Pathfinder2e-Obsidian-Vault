@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Zombie Dedication|Zombie Dedication]]'
 rarity: Common
 requirement: Your last action was a successful fist Strike against a creature no more
   than one size larger thanyou.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 subcategory: null
@@ -25,13 +26,13 @@ type: Feat
 # Seize <span class="action-icon">1</span> <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Flourish</span>
-**Source** [[Book of the Dead]]
-**Archetype** [[Zombie]]
-**Prerequisites** [[Zombie Dedication]]
+**Source** [[DATABASE/source/Book of the Dead|Book of the Dead]]
+**Archetype** [[DATABASE/archetype/Zombie|Zombie]]
+**Prerequisites** [[DATABASE/feat/Zombie Dedication|Zombie Dedication]]
 **Requirements** Your last action was a successful fist Strike against a creature no more than one size larger than you.
 
 ---
-You seize your foe and pull it close. The foe you hit is [[Grabbed]] as if you succeeded at an [[Athletics]] check to [[Grapple]] the foe.
+You seize your foe and pull it close. The foe you hit is [[DATABASE/condition/Grabbed|grabbed]] as if you succeeded at an [[DATABASE/skill/Athletics|Athletics]] check to [[DATABASE/action/Grapple|Grapple]] the foe.
 
 ## Traits
 

@@ -74,19 +74,19 @@ wisdom: '+2'
 # Thasteron Khefak
 
 Thasteron khefaks are alchemically enhanced versions of standard khefaks, capable of converting the minerals they eat into thasteron. While thasteron remains highly valuable as fuel and for specialized weapons, finding an experienced thasteron khefak breeder is hard because the creatures become radioactive over time.
-**Recall Knowledge - Beast ([[Arcana]], [[Nature]])**: DC 20
+**Recall Knowledge - Beast ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 20
 **Unspecific Lore**: DC 18
 **Specific Lore**: DC 15
 
 # Thasteron Khefak<span class="item-type">Creature 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Beast</span>
-**Source** [[Pathfinder 173. Doorway to the Red Star]]
-**Perception** +9; [[Darkvision]], [[Tremorsense]] (imprecise) 60 feet
-**Skills** [[Acrobatics]] +9, [[Athletics]] +10, [[Stealth]] +9
+**Source** [[DATABASE/source/Pathfinder 173. Doorway to the Red Star|Pathfinder #173: Doorway to the Red Star]]
+**Perception** +9; [[DATABASE/monsterability/Darkvision|darkvision]], [[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 60 feet
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +9, [[DATABASE/skill/Athletics|Athletics]] +10, [[DATABASE/skill/Stealth|Stealth]] +9
 **Str** +3, **Dex** +2, **Con** +3, **Int** -5, **Wis** +2, **Cha** -3
 **Consume Objects** A khefak can gain nourishment by eating objects with hardness 10 or lower. When attacking an object with its mandibles, it ignores the first 10 points of that object's Hardness.
-**Radiation Aura** (aura, radiation) 10 feet. Thasteron khefaks convert radioactive minerals they eat into thasteron, a combustive fuel. The more radioactive elements of the material concentrates in their chitin and taints the air around them. A creature who begins their turn within this aura must succeed at a DC 20 Fortitude saving throw or become [[Sickened]] (sickened 2 on a critical failure).
+**Radiation Aura** (aura, radiation) 10 feet. Thasteron khefaks convert radioactive minerals they eat into thasteron, a combustive fuel. The more radioactive elements of the material concentrates in their chitin and taints the air around them. A creature who begins their turn within this aura must succeed at a DC 20 Fortitude saving throw or become [[DATABASE/condition/Sickened|sickened 1]] (sickened 2 on a critical failure).
 
 ---
 **AC** 19; **Fort** +12, **Ref** +9, **Will** +7

@@ -11,6 +11,7 @@ name: Orc Superstition
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Orc Superstition <span class="action-icon">5</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Orc</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Trigger** You attempt a saving throw against a spell or magical effect, before rolling.
 
 ---
@@ -32,7 +33,7 @@ You defend yourself against magic by relying on techniques derived from orc cult
 
 ## Orc Superstition Leads To...
 
-[[Pervasive Superstition]]
+[[DATABASE/feat/Pervasive Superstition|Pervasive Superstition]]
 
 ## Traits
 
@@ -42,4 +43,4 @@ An action with this trait requires a degree of mental concentration and discipli
 
 **Orc:**
 
-A creature with this trait is a member of the [[Orc]] ancestry. These green-skinned people tend to have darkvision. An ability with this trait can be used or selected only by orcs. An item with this trait is created and used by orcs.
+A creature with this trait is a member of the [[DATABASE/ancestry/Orc|orc]] ancestry. These green-skinned people tend to have darkvision. An ability with this trait can be used or selected only by orcs. An item with this trait is created and used by orcs.

@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -52,10 +53,10 @@ weapon_type: null
 # Knight's Maintenance Kit<span class="item-type">Item 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span>
-**Source** [[Knights of Lastwall]]
+**Source** [[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]
 **Price** 50 gp
 **Hands** 2; **Bulk** 1
 **Access** Knights of Lastwall have access to this item.
 
 ---
-This set of gear contains a repair kit, cloth rolls for storing or covering equipment, and specialized mixtures developed by the Knights of Lastwall to clean and treat armaments for continued use. This kit gives you a +1 item bonus to checks to [[Repair]] weapons, shields, and armor using the [[Crafting]] skill, and you restore an additional 5 Hit Points when you successfully Repair such items using it.
+This set of gear contains a repair kit, cloth rolls for storing or covering equipment, and specialized mixtures developed by the Knights of Lastwall to clean and treat armaments for continued use. This kit gives you a +1 item bonus to checks to [[DATABASE/action/Repair|Repair]] weapons, shields, and armor using the [[DATABASE/skill/Crafting|Crafting]] skill, and you restore an additional 5 Hit Points when you successfully Repair such items using it.

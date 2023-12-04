@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Illusion
 size: null
@@ -55,11 +56,11 @@ weapon_type: null
 # Wand of Shattering Images<span class="item-type">Item 6</span>
 
 <span class="item-trait">Illusion</span><span class="item-trait">Magical</span><span class="item-trait">Visual</span><span class="item-trait">Wand</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 250 gp
 **Usage** held in 1 hand; **Bulk** L
 
 ---
 Shattered pieces of a glass mirror, formed into a reflective mosaic, comprise the irregular shaft of this wand. The handle is black and polished smooth, the pommel capped with a tiny reflective orb.
-**Activate** Cast a Spell **Frequency** once per day, plus overcharge; **Effect** You cast [[Mirror Image]]. Each time an image is destroyed, the image shatters into sharp fragments of glass. If the creature that destroyed the image is adjacent to you, it takes 5 slashing damage.
+**Activate** Cast a Spell **Frequency** once per day, plus overcharge; **Effect** You cast [[DATABASE/spell/Mirror Image|mirror image]]. Each time an image is destroyed, the image shatters into sharp fragments of glass. If the creature that destroyed the image is adjacent to you, it takes 5 slashing damage.
 **Craft Requirements** Supply a casting of _mirror image_.

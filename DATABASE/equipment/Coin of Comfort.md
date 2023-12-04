@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Enchantment
 size: null
@@ -54,10 +55,10 @@ weapon_type: null
 # Coin of Comfort<span class="item-type">Item 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Enchantment</span><span class="item-trait">Magical</span>
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 45 gp
 **Usage** held in 1 hand; **Bulk** —
 
 ---
 This thick silver coin is deeply worn on one side, creating a shallow dip.
-**Activate** <span class="action-icon">1</span> Interact **Frequency** once per hour; **Effect** You rub your thumb along the grooved side and become filled with a sense of comfort and safety. You reduce your [[Frightened]] condition by 1.
+**Activate** <span class="action-icon">1</span> Interact **Frequency** once per hour; **Effect** You rub your thumb along the grooved side and become filled with a sense of comfort and safety. You reduce your [[DATABASE/condition/Frightened|frightened]] condition by 1.

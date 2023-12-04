@@ -11,6 +11,7 @@ name: Wall Run
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Wall Run <span class="action-icon">1</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Monk</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Ghoul]]*
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Ghoul|Ghoul]]*
 * This archetype offers Wall Run at a different level than displayed here.
 
 ---

@@ -11,6 +11,7 @@ name: Rebounding Toss
 prerequisite: null
 rarity: Common
 requirement: You are wielding a thrown weapon.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Rebounding Toss <span class="action-icon">2</span> <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Fighter</span><span class="item-trait">Flourish</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Requirements** You are wielding a thrown weapon.
 
 ---

@@ -17,6 +17,7 @@ name: Deathly Dream
 rarity: Rare
 reflex: '+23'
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 173. Doorway to the Red Star|Pathfinder #173:
   Doorway to the Red Star]]'
@@ -32,13 +33,13 @@ will: null
 # Deathly Dream<span class="item-type">Hazard 15</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Magical</span><span class="item-trait">Trap</span>
-**Source** [[Pathfinder 173. Doorway to the Red Star]]
+**Source** [[DATABASE/source/Pathfinder 173. Doorway to the Red Star|Pathfinder #173: Doorway to the Red Star]]
 **Complexity** Simple
 **Stealth** DC 38 (master)
 **Description** Sinister runes adorn the doorway, opening a portal to a realm of nightmares if anyone other than Dwandek opens the door.
 
 ---
-**Disable** [[Thievery]] DC 40 (master) to seal the rift using materials strongly grounded to the [[Material Plane]], or [[Dispel Magic]] (7th-level, counteract DC 33) to counteract the portal.
+**Disable** [[DATABASE/skill/Thievery|Thievery]] DC 40 (master) to seal the rift using materials strongly grounded to the [[DATABASE/plane/Material Plane|Material Plane]], or [[DATABASE/spell/Dispel Magic|dispel magic]] (7th-level, counteract DC 33) to counteract the portal.
 **AC** 34, **Fort** +29, **Ref** +23
 **Hardness** 24, **HP** 96 (BT 48); **Immunities** critical hits, object immunities, precision damage
 **Drawn to Nightmare** <span class="action-icon">5</span> (arcane, conjuration, teleportation); **Trigger** A creature other than Dwandek opens the door; **Effect** The triggering creature is drawn into a pocket plane of pure nightmare (DC 38 Will save to resist). Each round at the start of their turn, the creature takes 4d8 mental damage as they are assaulted by otherworldly visions, and must succeed at a new Will save against the original DC to be ejected from the pocket plane and deposited in the center of area A5.

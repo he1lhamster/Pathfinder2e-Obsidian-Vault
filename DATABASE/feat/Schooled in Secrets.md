@@ -11,6 +11,7 @@ name: Schooled in Secrets
 prerequisite: Trained in [[DATABASE/skill/Occultism|Occultism]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: occultism
@@ -24,11 +25,11 @@ type: Feat
 # Schooled in Secrets <span class="item-type">Feat 1</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** trained in [[Occultism]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** trained in [[DATABASE/skill/Occultism|Occultism]]
 
 ---
-You notice the signs and symbols that members of mystery cults and other secret societies use to declare their affiliation to fellow members. You can use [[Occultism]] in place of [[Diplomacy]] to [[Gather Information]] about such groups. If you belong to a secret cult, lodge, sect, or similar organization, you automatically recognize members of your group unless they are specifically attempting to conceal their presence from you.
+You notice the signs and symbols that members of mystery cults and other secret societies use to declare their affiliation to fellow members. You can use [[DATABASE/skill/Occultism|Occultism]] in place of [[DATABASE/skill/Diplomacy|Diplomacy]] to [[DATABASE/action/Gather Information|Gather Information]] about such groups. If you belong to a secret cult, lodge, sect, or similar organization, you automatically recognize members of your group unless they are specifically attempting to conceal their presence from you.
 
 ## Traits
 

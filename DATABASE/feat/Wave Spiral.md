@@ -11,6 +11,7 @@ name: Wave Spiral
 prerequisite: '[[DATABASE/feat/Reflective Ripple Stance|Reflective Ripple Stance]]'
 rarity: Common
 requirement: You're in Reflective Ripple Stance.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -24,13 +25,13 @@ type: Feat
 # Wave Spiral <span class="action-icon">2</span> <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Monk</span><span class="item-trait">Water</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Frequency** once per minute
-**Prerequisites** [[Reflective Ripple Stance]]
+**Prerequisites** [[DATABASE/feat/Reflective Ripple Stance|Reflective Ripple Stance]]
 **Requirements** You're in Reflective Ripple Stance.
 
 ---
-You dip and spin, unleashing a wide whirlpool of water. Make an [[Athletics]] check to [[Trip]] each creature standing on the ground in a 10-foot emanation. These attacks all count toward your multiple attack penalty, but the penalty doesn't increase until after you make all the attacks.
+You dip and spin, unleashing a wide whirlpool of water. Make an [[DATABASE/skill/Athletics|Athletics]] check to [[DATABASE/action/Trip|Trip]] each creature standing on the ground in a 10-foot emanation. These attacks all count toward your multiple attack penalty, but the penalty doesn't increase until after you make all the attacks.
 
 ## Traits
 

@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 size: null
@@ -55,10 +56,10 @@ weapon_type: null
 # Eidetic Potion<span class="item-type">Item 6</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Divination</span><span class="item-trait">Magical</span><span class="item-trait">Potion</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 40 gp
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
 ---
-Bright pink, pale lavender, and vibrant orange colors swirl through this purplish liquid, making the _eidetic potion_ resemble an unforgettable sunset. When you drink this potion, for 1 round, anything you observe becomes locked into your memory. You can recall the memory perfectly and gain a +2 status bonus to create representations of that memory, whether using [[Crafting]] to create an artistic rendition or [[Society]] to create a [[Create Forgery]]. The memory remains locked for 1 week or until you benefit from the bonus it imparts for the first time, whichever comes first; afterward, it becomes a normal, fallible memory. You can only have a single memory locked in your mind at a time. Using this potion while you have a locked memory from a previous use makes the previously locked memory fallible but allows you to lock a new memory.
+Bright pink, pale lavender, and vibrant orange colors swirl through this purplish liquid, making the _eidetic potion_ resemble an unforgettable sunset. When you drink this potion, for 1 round, anything you observe becomes locked into your memory. You can recall the memory perfectly and gain a +2 status bonus to create representations of that memory, whether using [[DATABASE/skill/Crafting|Crafting]] to create an artistic rendition or [[DATABASE/skill/Society|Society]] to create a [[DATABASE/action/Create Forgery|Forgery]]. The memory remains locked for 1 week or until you benefit from the bonus it imparts for the first time, whichever comes first; afterward, it becomes a normal, fallible memory. You can only have a single memory locked in your mind at a time. Using this potion while you have a locked memory from a previous use makes the previously locked memory fallible but allows you to lock a new memory.

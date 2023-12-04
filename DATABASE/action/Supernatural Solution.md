@@ -7,6 +7,7 @@ id: '1400'
 name: Supernatural Solution
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
@@ -20,7 +21,7 @@ type: Action
 # Supernatural Solution
 
 <span class="item-trait">Downtime</span><span class="item-trait">Fortune</span><span class="item-trait">Leadership</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 
 ---
 Your spellcasters try to resolve issues when mundane solutions just aren't enough. Attempt a basic check.

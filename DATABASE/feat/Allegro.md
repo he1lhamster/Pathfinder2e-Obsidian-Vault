@@ -11,6 +11,7 @@ name: Allegro
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Allegro <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Bard</span>
-**Source** [[Core Rulebook]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
-You can quicken your allies with a fast-paced performance. You learn the [[Allegro]] composition cantrip.
+You can quicken your allies with a fast-paced performance. You learn the [[DATABASE/spell/Allegro|allegro]] composition cantrip.

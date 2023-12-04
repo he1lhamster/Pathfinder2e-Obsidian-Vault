@@ -11,6 +11,7 @@ name: Burrowing Form
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Burrowing Form <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Evolution</span><span class="item-trait">Summoner</span>
-**Source** [[Secrets of Magic]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]]
 
 ---
 Your eidolon can burrow through loose dirt. Your eidolon gains a burrow Speed of 15 feet.

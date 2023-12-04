@@ -100,19 +100,19 @@ wisdom: '+1'
 Doorwardens are constructs originally invented by elves. Upon first glance, these guardians resemble ornate doors made entirely of steel or even mithral, but when trespassers try to force their way past, the doorwarden transforms into a skilled and sturdy soldier bearing its “door” like a towering shield.
  Perceptive travelers can sometimes spot a door warden before its magic becomes obvious. The door often bears a round disk or similar embossment that resembles a shield boss designed for bashing, and the bar that can be lowered to block entry resembles an arm clasping a longsword by the hilt. The original doorwardens crafted by the elves included a motif of elven armor and a metal mask in the style of Alseta’s own, though other cultures embellish their own doorwardens with their own themes and sometimes even their own ancestral weapons, such as axes for dwarven doorwardens.
  Doorwardens sometimes know about the chambers they guard, and they have been known to speak to trespassers, especially elves. But a doorwarden cannot be persuaded to stand aside; it is bound to the portal where it has been placed and will defend it until destroyed.
-**Recall Knowledge - Construct ([[Arcana]], [[Crafting]])**: DC 22
+**Recall Knowledge - Construct ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Crafting|Crafting]])**: DC 22
 **Unspecific Lore**: DC 20
 **Specific Lore**: DC 17
 
 # Doorwarden<span class="item-type">Creature 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">LN</span><span class="trait-size item-trait">Large</span><span class="item-trait">Construct</span>
-**Source** [[Pathfinder 145. Hellknight Hill]]
-**Perception** +13; low-light vision; _[[See Invisibility]]_
-**Languages** [[Common]]
-**Skills** [[Athletics]] +13, [[Intimidation]] +11
+**Source** [[DATABASE/source/Pathfinder 145. Hellknight Hill|Pathfinder #145: Hellknight Hill]]
+**Perception** +13; low-light vision; _[[DATABASE/spell/See Invisibility|see invisibility]]_
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +13, [[DATABASE/skill/Intimidation|Intimidation]] +11
 **Str** +6, **Dex** +0, **Con** +3, **Int** -1, **Wis** +1, **Cha** +2
-**Items** [[Longsword]], [[Steel Shield]] (Hardness 5, HP 20, BT 10) with [[Shield Boss]]
+**Items** [[DATABASE/weapon/Longsword|longsword]], [[DATABASE/shield/Steel Shield|steel shield]] (Hardness 5, HP 20, BT 10) with [[DATABASE/weapon/Shield Boss|shield boss]]
 
 ---
 **AC** 22 (24 with shield raised); **Fort** +12, **Ref** +7, **Will** +10
@@ -121,9 +121,9 @@ Doorwardens are constructs originally invented by elves. Upon first glance, thes
 
 ---
 **Speed** 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> longsword +15 [+10/+5] (reach 10 feet, versatile P), **Damage** 1d8+9 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> shield boss +15 [+10/+5], **Damage** 1d6+9 bludgeoning</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> door +13 [+8/+3], **Damage** 1d4+8 bludgeoning</span>**Arcane Innate Spells** DC 19; **2nd** _[[See Invisibility]]_
-<span class="in-box-ability">**Imitate Door** <span class="action-icon">1</span> (concentrate) Until the next time it acts, the doorwarden appears to be a door. It has an automatic result of 31 on [[Deception]] checks and DCs to pass as a door.</span><span class="in-box-ability">**Slam Doors** <span class="action-icon">2</span> (concentrate) The door opens and slams its doors, making two door Strikes against one creature. If both hit, the creature is [[Grabbed]]—stuck between the doors. The doorwarden’s multiple attack penalty doesn’t increase until it has finished both attacks.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> longsword +15 [+10/+5] (reach 10 feet, versatile P), **Damage** 1d8+9 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> shield boss +15 [+10/+5], **Damage** 1d6+9 bludgeoning</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> door +13 [+8/+3], **Damage** 1d4+8 bludgeoning</span>**Arcane Innate Spells** DC 19; **2nd** _[[DATABASE/spell/See Invisibility|see invisibility]]_
+<span class="in-box-ability">**Imitate Door** <span class="action-icon">1</span> (concentrate) Until the next time it acts, the doorwarden appears to be a door. It has an automatic result of 31 on [[DATABASE/skill/Deception|Deception]] checks and DCs to pass as a door.</span><span class="in-box-ability">**Slam Doors** <span class="action-icon">2</span> (concentrate) The door opens and slams its doors, making two door Strikes against one creature. If both hit, the creature is [[DATABASE/condition/Grabbed|grabbed]]—stuck between the doors. The doorwarden’s multiple attack penalty doesn’t increase until it has finished both attacks.</span>
 
 ###  The First Doorwardens
 
-Elves crafted the original doorwardens in honor of their goddess of portals, [[Alseta]]. Such doorwardens (such as the one in this volume's adventure) are similar to the one presented here, but they speak Elven instead of Common, wield specially crafted elven curve blades rather than longswords, and may have great knowledge of elven culture and religion.
+Elves crafted the original doorwardens in honor of their goddess of portals, [[DATABASE/deity/Alseta|Alseta]]. Such doorwardens (such as the one in this volume's adventure) are similar to the one presented here, but they speak Elven instead of Common, wield specially crafted elven curve blades rather than longswords, and may have great knowledge of elven culture and religion.

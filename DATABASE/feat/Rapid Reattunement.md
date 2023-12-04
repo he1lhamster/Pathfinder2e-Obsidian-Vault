@@ -11,6 +11,7 @@ name: Rapid Reattunement
 prerequisite: reflow elements
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -25,7 +26,7 @@ type: Feat
 # Rapid Reattunement <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Exploration</span><span class="item-trait">Kineticist</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Prerequisites** reflow elements
 
 ---

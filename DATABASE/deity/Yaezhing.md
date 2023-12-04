@@ -22,6 +22,7 @@ follower_alignment:
 id: '184'
 name: Yaezhing
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Stealth|Stealth]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -31,7 +32,7 @@ type: Deity
 ---
 # Yaezhing (Minister of Blood) [LE]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Category** Tian Gods
 **Edicts** Commit assassinations for hire, strike unseen, carry out punishment for convicted criminals
 **Anathema** Show mercy to a target, take credit for your assassinations, refuse to punish a lawfully convicted criminal
@@ -39,9 +40,9 @@ type: Deity
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Dexterity or Intelligence
-**Divine Font** _[[Harm]]_
-**Divine Skill** [[Stealth]]
-**Favored Weapon** [[Shuriken]]
-**Domains** [[Death Domain]], [[Duty Domain]], [[Pain Domain]], [[Trickery Domain]]
-**Cleric Spells** 1st: _[[True Strike]]_, 2nd: _[[Invisibility]]_, 6th: _[[Mislead]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Dexterity or Intelligence
+**Divine Font** _[[DATABASE/spell/Harm|harm]]_
+**Divine Skill** [[DATABASE/skill/Stealth|Stealth]]
+**Favored Weapon** [[DATABASE/weapon/Shuriken|shuriken]]
+**Domains** [[DATABASE/domain/Death Domain|death]], [[DATABASE/domain/Duty Domain|duty]], [[DATABASE/domain/Pain Domain|pain]], [[DATABASE/domain/Trickery Domain|trickery]]
+**Cleric Spells** 1st: _[[DATABASE/spell/True Strike|true strike]]_, 2nd: _[[DATABASE/spell/Invisibility|invisibility]]_, 6th: _[[DATABASE/spell/Mislead|mislead]]_

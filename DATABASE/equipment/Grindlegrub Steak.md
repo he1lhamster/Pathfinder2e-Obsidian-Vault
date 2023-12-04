@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -54,10 +55,10 @@ weapon_type: null
 # Grindlegrub Steak<span class="item-type">Item 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span>
-**Source** [[Highhelm]]
+**Source** [[DATABASE/source/Highhelm|Highhelm]]
 **Price** 20 gp
 **Usage** held in 1 hand; **Bulk** L
 **Activate** 1 minute (Interact)
 
 ---
-Fried grindlegrub is a common street food in Highhelm, but Sanra has elevated the dish to something almost gourmet for such pedestrian fare, bringing out both the height of its flavor and its natural energy boosting properties. You do not need to eat for three days after consuming a grindlegrub steak, and for that duration you gain a +1 item bonus to Fortitude saving throws against [[Fatigued]] and the [[Drained]] condition.
+Fried grindlegrub is a common street food in Highhelm, but Sanra has elevated the dish to something almost gourmet for such pedestrian fare, bringing out both the height of its flavor and its natural energy boosting properties. You do not need to eat for three days after consuming a grindlegrub steak, and for that duration you gain a +1 item bonus to Fortitude saving throws against [[DATABASE/condition/Fatigued|fatigue]] and the [[DATABASE/condition/Drained|drained]] condition.

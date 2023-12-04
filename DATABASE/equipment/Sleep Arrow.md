@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Enchantment
 size: null
@@ -56,11 +57,11 @@ weapon_type: null
 # Sleep Arrow<span class="item-type">Item 3</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Enchantment</span><span class="item-trait">Magical</span><span class="item-trait">Mental</span><span class="item-trait">Sleep</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 11 gp
-**Ammunition** [[Arrows]]; **Bulk** —
+**Ammunition** [[DATABASE/weapon/Arrows|arrow]]; **Bulk** —
 **Activate** <span class="action-icon">1</span> Interact
 
 ---
-_Sleep arrows_ often have shafts of deep blue or black, and their fletching is exceptionally soft and downy. An activated _sleep arrow_ deals no damage, but a living creature hit by it is subject to the effects of a [[Sleep]] spell (DC 17).
+_Sleep arrows_ often have shafts of deep blue or black, and their fletching is exceptionally soft and downy. An activated _sleep arrow_ deals no damage, but a living creature hit by it is subject to the effects of a [[DATABASE/spell/Sleep|sleep]] spell (DC 17).
 **Craft Requirements** Supply one casting of _sleep_.

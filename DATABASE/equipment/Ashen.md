@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Enchantment
 size: null
@@ -54,19 +55,19 @@ weapon_type: null
 # Ashen<span class="item-type">Item 9+</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Enchantment</span><span class="item-trait">Magical</span>
-**Source** [[Highhelm]]
+**Source** [[DATABASE/source/Highhelm|Highhelm]]
 **Usage** etched onto a weapon; **Bulk** —
 
 ---
-In his attempts to recreate the initial feeling of the object he encountered ages ago, the Ash Engineer discovered a different effect, one that would confound his enemies. _Ashen_ weapons are typically coated in a thin layer of ash that gradually returns over the span of a day, even after wiping away. A creature hit by an attack from an _ashen_ weapon becomes surrounded by burning ash, which deals 1d4 [[Persistent Damage]]. This ash clouds the senses, causing the creature to become [[Confused]] for 1 round unless it succeeds at a DC 25 Will save.
+In his attempts to recreate the initial feeling of the object he encountered ages ago, the Ash Engineer discovered a different effect, one that would confound his enemies. _Ashen_ weapons are typically coated in a thin layer of ash that gradually returns over the span of a day, even after wiping away. A creature hit by an attack from an _ashen_ weapon becomes surrounded by burning ash, which deals 1d4 [[DATABASE/condition/Persistent Damage|persistent fire damage]]. This ash clouds the senses, causing the creature to become [[DATABASE/condition/Confused|confused]] for 1 round unless it succeeds at a DC 25 Will save.
 
 ## Ashen<span class="item-type">Item 9</span>
 
-**Source** [[Highhelm]]
+**Source** [[DATABASE/source/Highhelm|Highhelm]]
 **Price** 700 gp
 
 ## Ashen (Greater)<span class="item-type">Item 16</span>
 
-**Source** [[Highhelm]]
+**Source** [[DATABASE/source/Highhelm|Highhelm]]
 **Price** 9,000 gp
 The persistent fire damage is 1d8. The save DC is 35. On a critical failure, the effect lasts for 1 minute.

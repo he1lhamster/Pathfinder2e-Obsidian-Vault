@@ -13,6 +13,7 @@ land_speed: '35'
 max_speed: '35'
 name: Beetle
 rarity: Common
+rus_type_level: null
 sense:
 - low-light vision
 size: Medium, Large
@@ -31,23 +32,23 @@ wisdom: '+1'
 ---
 # Beetle
 
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 Your animal companion is a large, flightless stag beetle.
 **Size** Medium or Large
 **Melee** <span class="action-icon">1</span> mandible, **Damage** 1d8 piercing
 **Melee** <span class="action-icon">1</span> foot (agile), **Damage** 1d6 bludgeoning
 **Str** +3, **Dex** +1, **Con** +3, **Int** -4, **Wis** +1, **Cha** +0
 **Hit Points** 8
-**Skill** [[Survival]] 
+**Skill** [[DATABASE/skill/Survival|Survival]] 
 **Senses** low-light vision
 **Speed** 35 feet
 **Special** mount
-**Support Benefit** Your beetle stomps around and smashes into foes, knocking them off balance or pushing them aside when you create an opening. Until the start of your next turn, while riding on your beetle, your Strikes that deal damage either make the target [[Flat-Footed]] until the end of your next turn or move the target 5 feet away from the beetle (this is forced movement). The target chooses which effect occurs.
+**Support Benefit** Your beetle stomps around and smashes into foes, knocking them off balance or pushing them aside when you create an opening. Until the start of your next turn, while riding on your beetle, your Strikes that deal damage either make the target [[DATABASE/condition/Flat-Footed|flat-footed]] until the end of your next turn or move the target 5 feet away from the beetle (this is forced movement). The target chooses which effect occurs.
 **Advanced Maneuver** Hustle
 
-### [[Hustle]] <span class="action-icon">2</span>
+### [[DATABASE/action/Hustle|Hustle]] <span class="action-icon">2</span>
 
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 
 ---
 The beetle moves at incredible speed. It Strides three times.

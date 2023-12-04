@@ -12,6 +12,7 @@ prerequisite: null
 rarity: Common
 requirement: You're afflicted by a [[DATABASE/trait/Disease|disease]] or [[DATABASE/trait/Poison|poison]]
   , or are taking [[DATABASE/condition/Persistent Damage|persistent damage]] .
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Intercorporate <span class="action-icon">1</span> <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Aphorite</span>
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 **Frequency** once per day
-**Requirements** You're afflicted by a disease or poison, or are taking [[Persistent Damage]].
+**Requirements** You're afflicted by a disease or poison, or are taking [[DATABASE/condition/Persistent Damage|persistent damage]].
 
 ---
 Your ordered physiology rejects unwelcome elements. Choose one. 

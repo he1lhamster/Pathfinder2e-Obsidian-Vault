@@ -31,6 +31,7 @@ rarity: Unique
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Enchantment
 size: null
@@ -57,10 +58,10 @@ weapon_type: null
 # The Publican<span class="item-type">Item 20</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="item-trait">Artifact</span><span class="item-trait">Enchantment</span><span class="item-trait">Harrow Court</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span>
-**Source** [[Pathfinder 190. The Choosing]]
+**Source** [[DATABASE/source/Pathfinder 190. The Choosing|Pathfinder #190: The Choosing]]
 **Usage** carried; **Bulk** —
 **Suit** Stars (Wis); **Alignment** chaotic good
 
 ---
-_The Publican_ represents friendship, shelter, and insight. As long as you have _The Publican_ invested, treat critically failed checks made to [[Aid]] as regular failures instead. If you are at least 14th level, the circumstance bonus you provide for succeeding or critically succeeding at checks to Aid increases by 1.
+_The Publican_ represents friendship, shelter, and insight. As long as you have _The Publican_ invested, treat critically failed checks made to [[DATABASE/action/Aid|Aid]] as regular failures instead. If you are at least 14th level, the circumstance bonus you provide for succeeding or critically succeeding at checks to Aid increases by 1.
 **Activate** <span class="action-icon">5</span> envision **Frequency** once per day; **Trigger** You improve a creature's attitude to you; **Effect** You improve the creature's attitude by an additional step more than you would normally. If you're at least 18th level, you improve the creature's attitude by two additional steps.

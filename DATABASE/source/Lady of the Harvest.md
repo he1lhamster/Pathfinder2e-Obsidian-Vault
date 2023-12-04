@@ -2,6 +2,7 @@
 id: '133'
 name: Lady of the Harvest
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source

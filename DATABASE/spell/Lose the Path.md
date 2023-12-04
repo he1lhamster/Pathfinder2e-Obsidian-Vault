@@ -20,6 +20,7 @@ patron_theme: null
 range: 60 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Illusion
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -38,7 +39,7 @@ type: Spell
 # Lose the Path<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Illusion</span><span class="item-trait">Mental</span><span class="item-trait">Visual</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Traditions** occult, primal
 **Cast** <span class="action-icon">5</span> somatic; **Trigger** A creature in range Strides.
 **Range** 60 feet; **Targets** the triggering creature

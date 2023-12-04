@@ -68,19 +68,19 @@ wisdom: '+2'
 # Hobgoblin Soldier
 
 Soldiers make up the bulk of hobgoblin society, whether that society is a village or a military unit.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 15
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Hobgoblin Soldier<span class="item-type">Creature 1</span>
 
 <span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Goblin</span><span class="item-trait">Humanoid</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +7; darkvision
-**Languages** [[Common]], [[Goblin]]
-**Skills** [[Athletics]] +6, [[Stealth]] +6
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Goblin|Goblin]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +6, [[DATABASE/skill/Stealth|Stealth]] +6
 **Str** +3, **Dex** +3, **Con** +2, **Int** +0, **Wis** +2, **Cha** -1
-**Items** [[Hide Armor]], [[Longsword]], [[Shortbow]], [[Wooden Shield]] (Hardness 3, HP 12, BT 6)
+**Items** [[DATABASE/armor/Hide Armor|hide armor]], [[DATABASE/weapon/Longsword|longsword]], [[DATABASE/weapon/Shortbow|shortbow (10 arrows)]], [[DATABASE/shield/Wooden Shield|wooden shield]] (Hardness 3, HP 12, BT 6)
 
 ---
 **AC** 18 (20 with shield raised); **Fort** +5, **Ref** +6, **Will** +5

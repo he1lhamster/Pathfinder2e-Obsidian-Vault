@@ -79,20 +79,20 @@ wisdom: '+1'
 # Jekkajak
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 29
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 29
 **Unspecific Lore**: DC 27
 **Specific Lore**: DC 24
 
 # Jekkajak<span class="item-type">Creature 4</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Small</span><span class="item-trait">Humanoid</span><span class="item-trait">Kobold</span>
-**Source** [[Crown of the Kobold King]]
-Female [[Kobold]] [[Sorcerer]]
-**Perception** +9; [[Darkvision]]
-**Languages** [[Common]], [[Draconic]]
-**Skills** [[Arcana]] +7, [[Deception]] +12, [[Intimidation]] +12, [[Religion]] +9, [[Stealth]] +11
+**Source** [[DATABASE/source/Crown of the Kobold King|Crown of the Kobold King]]
+Female [[DATABASE/ancestry/Kobold|kobold]] [[DATABASE/class_/Sorcerer|sorcerer]]
+**Perception** +9; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Draconic|Draconic]]
+**Skills** [[DATABASE/skill/Arcana|Arcana]] +7, [[DATABASE/skill/Deception|Deception]] +12, [[DATABASE/skill/Intimidation|Intimidation]] +12, [[DATABASE/skill/Religion|Religion]] +9, [[DATABASE/skill/Stealth|Stealth]] +11
 **Str** +0, **Dex** +3, **Con** +2, **Int** +1, **Wis** +1, **Cha** +4
-**Items** _[[Heartripper Blade]]_, [[Hat of Disguise]]
+**Items** _[[DATABASE/equipment/Heartripper Blade|heartripper blade]]_, [[DATABASE/equipment/Hat of Disguise|greater hat of disguise]]
 
 ---
 **AC** 21; **Fort** +10, **Ref** +13, **Will** +9
@@ -100,6 +100,6 @@ Female [[Kobold]] [[Sorcerer]]
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _heartripper blade_ +10 [+6/+2] (agile, finesse, versatile S), **Damage** 2d4 piercing</span>**Divine Spontaneous Spells** DC 21, attack +13; **2nd** _[[Death Knell]]_, _[[Dispel Magic]]_, _[[Heal]]_, _[[Sound Burst]]_ (4 slots); **1st** _[[Command]]_, _[[Fear]]_, _[[Heal]]_, _[[Ray of Enfeeblement]]_ (4 slots); **Cantrips** **(2nd)** _[[Detect Magic]]_, _[[Divine Lance]]_, _[[Message]]_, _[[Prestidigitation]]_, _[[Shield]]_
-**Sorcerer Bloodline Spells 1 Focus Point,** DC 21; **1st** _[[Diabolic Edict]]_
-<span class="in-box-ability">**Smoky Retreat** <span class="action-icon">3</span> (divine, evocation, move) **Frequency** once per hour; **Requirements** Jekkajak is adjacent to at least one enemy; **Effect** Jekkajak squeals in fright as she exhales a noxious cloud of stinking smoke. This smoke fills a 10-foot emanation around her and grants [[Concealed]] to all creatures within the smoke. In addition, any non-[[Kobold]] starting their turn in the smoke must succeed at a DC 21 Fortitude save or become [[Sickened]] by the foul smoke (or sickened 2 on a critical failure). Once created, the cloud of smoke is immobile and persists for 3 rounds. Jekkajak can move up to her Speed, but she must end her movement in a space that isn't adjacent to any enemies. This is a 2nd-level spell that requires a somatic component.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _heartripper blade_ +10 [+6/+2] (agile, finesse, versatile S), **Damage** 2d4 piercing</span>**Divine Spontaneous Spells** DC 21, attack +13; **2nd** _[[DATABASE/spell/Death Knell|death knell]]_, _[[DATABASE/spell/Dispel Magic|dispel magic]]_, _[[DATABASE/spell/Heal|heal]]_, _[[DATABASE/spell/Sound Burst|sound burst]]_ (4 slots); **1st** _[[DATABASE/spell/Command|command]]_, _[[DATABASE/spell/Fear|fear]]_, _[[DATABASE/spell/Heal|heal]]_, _[[DATABASE/spell/Ray of Enfeeblement|ray of enfeeblement]]_ (4 slots); **Cantrips** **(2nd)** _[[DATABASE/spell/Detect Magic|detect magic]]_, _[[DATABASE/spell/Divine Lance|divine lance]]_, _[[DATABASE/spell/Message|message]]_, _[[DATABASE/spell/Prestidigitation|prestidigitation]]_, _[[DATABASE/spell/Shield|shield]]_
+**Sorcerer Bloodline Spells 1 Focus Point,** DC 21; **1st** _[[DATABASE/spell/Diabolic Edict|diabolic edict]]_
+<span class="in-box-ability">**Smoky Retreat** <span class="action-icon">3</span> (divine, evocation, move) **Frequency** once per hour; **Requirements** Jekkajak is adjacent to at least one enemy; **Effect** Jekkajak squeals in fright as she exhales a noxious cloud of stinking smoke. This smoke fills a 10-foot emanation around her and grants [[DATABASE/condition/Concealed|concealment]] to all creatures within the smoke. In addition, any non-[[DATABASE/monsterfamily/Kobold|kobold]] starting their turn in the smoke must succeed at a DC 21 Fortitude save or become [[DATABASE/condition/Sickened|sickened 1]] by the foul smoke (or sickened 2 on a critical failure). Once created, the cloud of smoke is immobile and persists for 3 rounds. Jekkajak can move up to her Speed, but she must end her movement in a space that isn't adjacent to any enemies. This is a 2nd-level spell that requires a somatic component.</span>

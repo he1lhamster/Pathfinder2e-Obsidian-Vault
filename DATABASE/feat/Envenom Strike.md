@@ -12,6 +12,7 @@ prerequisite: you possess a Strike from a nagaji heritage or ancestry feat that 
   poison damage
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Envenom Strike <span class="action-icon">1</span> <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Nagaji</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 **Frequency** once per 10 minutes
 **Prerequisites** you possess a Strike from a nagaji heritage or ancestry feat that deals poison damage
 

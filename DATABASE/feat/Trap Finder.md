@@ -11,6 +11,7 @@ name: Trap Finder
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Trap Finder <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Investigator</span><span class="item-trait">Rogue</span>
-**Source** [[Advanced Player's Guide]] , [[Core Rulebook]] 
-**Archetype** [[Archaeologist]]*
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] , [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Archaeologist|Archaeologist]]*
 * This archetype offers Trap Finder at a different level than displayed here.
 
 ---

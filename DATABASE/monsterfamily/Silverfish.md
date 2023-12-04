@@ -3,6 +3,7 @@ creature_family: Silverfish
 id: '289'
 name: Silverfish
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 169. Kindled Magic|Pathfinder #169: Kindled
   Magic]]'
 trait: null
@@ -11,12 +12,12 @@ type: Creature Family
 ---
 # Silverfish
 
-**Source** [[Pathfinder 169. Kindled Magic]]
+**Source** [[DATABASE/source/Pathfinder 169. Kindled Magic|Pathfinder #169: Kindled Magic]]
 A common pest with a silvery carapace and an undulating, fishlike scuttle, the nocturnal silverfish infests homes and libraries throughout Golarion. These insects aren't typically dangerous, but their tendency to devour books and clothing often puts them at odds with larger creatures.
 
 ### Members
 
-[[Giant Silverfish]] (Creature 0), [[Silverfish Swarm]] (Creature -1)
+[[DATABASE/monster/Giant Silverfish|Giant Silverfish]] (Creature 0), [[DATABASE/monster/Silverfish Swarm|Silverfish Swarm]] (Creature -1)
 
 ###  Silverfish Molts
 

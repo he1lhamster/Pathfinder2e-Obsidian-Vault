@@ -2,6 +2,7 @@
 id: '61'
 name: No-Prep Character. Pr'rall
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -15,4 +16,4 @@ type: Source
 
 ## NPCs [1]
 
-[[Pr'rall, Catfolk Stalker]]
+[[DATABASE/npc/Pr'rall, Catfolk Stalker|Pr'rall]]

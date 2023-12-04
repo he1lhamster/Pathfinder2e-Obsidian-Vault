@@ -76,21 +76,21 @@ wisdom: '+2'
 # Trilobite Swarm
 
 Trilobites typically live in close proximity to others of their kind. On rare occasions, particularly when the most common prey around is larger than what a single trilobite can take down, they form swarms that seem to actively cooperate with each other. These swarms latch onto their prey, and the combined efforts of so many trilobites at once make escape difficult.
-**Recall Knowledge - Animal ([[Nature]])**: DC 18
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Trilobite Swarm<span class="item-type">Creature 3</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Animal</span><span class="item-trait">Aquatic</span><span class="item-trait">Swarm</span>
-**Source** [[Bestiary 3]]
-**Perception** +9; [[Darkvision]], [[Wavesense]] (imprecise) 60 feet
-**Skills** [[Athletics]] +8, [[Stealth]] +9, [[Survival]] +7
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
+**Perception** +9; [[DATABASE/monsterability/Darkvision|darkvision]], [[DATABASE/monsterability/Wavesense|wavesense]] (imprecise) 60 feet
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +8, [[DATABASE/skill/Stealth|Stealth]] +9, [[DATABASE/skill/Survival|Survival]] +7
 **Str** +1, **Dex** +4, **Con** +3, **Int** -5, **Wis** +2, **Cha** +0
 
 ---
 **AC** 18; **Fort** +10, **Ref** +9, **Will** +7
-**HP** 30; **Immunities** precision, [[Swarm Mind]]; **Resistances** bludgeoning 3, piercing 3, slashing 5; **Weaknesses** area damage 5, splash damage 5
+**HP** 30; **Immunities** precision, [[DATABASE/monsterability/Swarm Mind|swarm mind]]; **Resistances** bludgeoning 3, piercing 3, slashing 5; **Weaknesses** area damage 5, splash damage 5
 
 ---
 **Speed** swim 25 feet

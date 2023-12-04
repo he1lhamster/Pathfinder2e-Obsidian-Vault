@@ -7,6 +7,7 @@ id: '1386'
 name: Create a Masterpiece
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
@@ -19,7 +20,7 @@ type: Action
 # Create a Masterpiece
 
 <span class="item-trait">Downtime</span><span class="item-trait">Leadership</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 
 ---
 You encourage your kingdom's artists to create and display a masterful work of art to bolster your kingdom's reputation. Attempt a basic check; the result affects either Fame or Infamy (depending on the type of kingdom you're running). Create a Masterpiece may be attempted only once per Kingdom turn regardless of the number of leaders pursuing activities.

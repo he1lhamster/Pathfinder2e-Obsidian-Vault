@@ -16,6 +16,7 @@ name: Scimitar
 price: 1 gp
 range: null
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Forceful|Forceful]]'
@@ -29,11 +30,11 @@ weapon_type: Melee
 # Scimitar
 
 <span class="item-trait">Forceful</span><span class="item-trait">Sweep</span>
-**Source** [[Core Rulebook]] 
-**Favored Weapon** [[Cyth-V'sug]], [[Diomazul]], [[Sarenrae]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Favored Weapon** [[DATABASE/deity/Cyth-V'sug|Cyth-V'sug]], [[DATABASE/deity/Diomazul|Diomazul]], [[DATABASE/deity/Sarenrae|Sarenrae]]
 **Price** 1 gp; **Damage** 1d6 S; **Bulk** 1
 **Hands** 1
-**Type** Melee; **Category** Martial; **Group** [[Sword]]
+**Type** Melee; **Category** Martial; **Group** [[DATABASE/weapongroup/Sword|Sword]]
 
 ---
 This one-handed curved blade is sharp on one side.
@@ -50,10 +51,10 @@ This weapon makes wide sweeping or spinning attacks, making it easier to attack 
 
 ## Critical Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
-**Sword**: The target is made off-balance by your attack, becoming [[Flat-Footed]] until the start of your next turn.
+**Sword**: The target is made off-balance by your attack, becoming [[DATABASE/condition/Flat-Footed|flat-footed]] until the start of your next turn.
 
 ## Specific Magic Weapons
 
-[[Gloaming Arc]], [[South Wind's Scorch Song]]
+[[DATABASE/equipment/Gloaming Arc|Gloaming Arc]], [[DATABASE/equipment/South Wind's Scorch Song|South Wind's Scorch Song]]

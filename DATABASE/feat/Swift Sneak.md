@@ -11,6 +11,7 @@ name: Swift Sneak
 prerequisite: Master in [[DATABASE/skill/Stealth|Stealth]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: stealth
@@ -24,15 +25,15 @@ type: Feat
 # Swift Sneak <span class="item-type">Feat 7</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** master in [[Stealth]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** master in [[DATABASE/skill/Stealth|Stealth]]
 
 ---
 You can move your full Speed when you Sneak. You can use Swift Sneak while Burrowing, Climbing, Flying, or Swimming instead of Striding if you have the corresponding movement type.
 
 ## Swift Sneak Leads To...
 
-[[Legendary Sneak]]
+[[DATABASE/feat/Legendary Sneak|Legendary Sneak]]
 
 ## Traits
 

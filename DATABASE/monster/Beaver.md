@@ -69,16 +69,16 @@ wisdom: '+2'
 # Beaver
 
 A typical beaver can grow up to 4 feet long and weigh up to 65 pounds.
-**Recall Knowledge - Animal ([[Nature]])**: DC 13
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 13
 **Unspecific Lore**: DC 11
 **Specific Lore**: DC 8
 
 # Beaver<span class="item-type">Creature -1</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Small</span><span class="item-trait">Animal</span>
-**Source** [[Pathfinder 176. Lost Mammoth Valley]]
-**Perception** +6; [[Low-Light Vision]], [[Scent]] (imprecise) 30 feet
-**Skills** [[Athletics]] +3, [[Crafting]] +2, [[Survival]] +4
+**Source** [[DATABASE/source/Pathfinder 176. Lost Mammoth Valley|Pathfinder #176: Lost Mammoth Valley]]
+**Perception** +6; [[DATABASE/monsterability/Low-Light Vision|low-light vision]], [[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +3, [[DATABASE/skill/Crafting|Crafting]] +2, [[DATABASE/skill/Survival|Survival]] +4
 **Str** +1, **Dex** +2, **Con** +3, **Int** -4, **Wis** +2, **Cha** +0
 **Deep Breath** A beaver can hold its breath for 15 minutes.
 
@@ -88,4 +88,4 @@ A typical beaver can grow up to 4 feet long and weigh up to 65 pounds.
 
 ---
 **Speed** 15 feet, swim 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +6 [+1/-4], **Damage** 1d6+1 piercing</span><span class="in-box-ability">**Construct Shelter** The beaver takes 1 minute to rapidly construct a simple mound along one side of its space, which can be used to [[Take Cover]].</span><span class="in-box-ability">**Penetrating Bite** <span class="action-icon">2</span> The beaver makes a jaws Strike. The Strike ignores the first 5 Hardness of organic materials, such as rope, leather, and wood.</span><span class="in-box-ability">**Prop** <span class="action-icon">1</span> The beaver stabilizes itself with its tail, gaining a +1 circumstance bonus to its Fortitude and Reflex DCs against [[Shove]] and [[Trip]] attempts until it next takes an action with the move trait.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +6 [+1/-4], **Damage** 1d6+1 piercing</span><span class="in-box-ability">**Construct Shelter** The beaver takes 1 minute to rapidly construct a simple mound along one side of its space, which can be used to [[DATABASE/action/Take Cover|Take Cover]].</span><span class="in-box-ability">**Penetrating Bite** <span class="action-icon">2</span> The beaver makes a jaws Strike. The Strike ignores the first 5 Hardness of organic materials, such as rope, leather, and wood.</span><span class="in-box-ability">**Prop** <span class="action-icon">1</span> The beaver stabilizes itself with its tail, gaining a +1 circumstance bonus to its Fortitude and Reflex DCs against [[DATABASE/action/Shove|Shove]] and [[DATABASE/action/Trip|Trip]] attempts until it next takes an action with the move trait.</span>

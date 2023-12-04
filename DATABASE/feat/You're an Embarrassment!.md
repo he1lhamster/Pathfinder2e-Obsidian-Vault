@@ -11,6 +11,7 @@ name: You're an Embarrassment!
 prerequisite: Celebrity Archetype
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
 subcategory: null
@@ -26,8 +27,8 @@ type: Feat
 # You're an Embarrassment! <span class="action-icon">5</span> <span class="item-type">Feat 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Archetype</span><span class="item-trait">Fortune</span>
-**Source** [[Firebrands]]
-**Archetype** [[Celebrity]]
+**Source** [[DATABASE/source/Firebrands|Firebrands]]
+**Archetype** [[DATABASE/archetype/Celebrity|Celebrity]]
 **Prerequisites** Celebrity Archetype 
 **Access** Members of the Firebrands at the rank of second mark or higher have access to this feat.
 **Trigger** An ally within 30 feet fails a Will saving throw against an incapacitation effect.
@@ -47,4 +48,4 @@ A fortune effect beneficially alters how you roll your dice. You can never have 
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.

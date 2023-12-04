@@ -23,6 +23,7 @@ follower_alignment:
 id: '175'
 name: Fumeiyoshi
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Intimidation|Intimidation]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -32,7 +33,7 @@ type: Deity
 ---
 # Fumeiyoshi (Lord of Envy) [NE]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Category** Tian Gods
 **Edicts** Punish those who have good fortune they don't deserve, devour the pleasures of the living, encourage resentment, make graveyards supernaturally unsafe
 **Anathema** Pass by food without stealing a bite, allow honor or tradition to prevent you from taking what you want
@@ -40,9 +41,9 @@ type: Deity
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Constitution or Charisma
-**Divine Font** _[[Harm]]_
-**Divine Skill** [[Intimidation]]
-**Favored Weapon** [[Naginata]]
-**Domains** [[Ambition Domain]], [[Destruction Domain]], [[Earth Domain]], [[Undeath Domain]]
-**Cleric Spells** 1st: _[[Grim Tendrils]]_, 2nd: _[[Feast of Ashes]]_, 7th: _[[Possession]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Constitution or Charisma
+**Divine Font** _[[DATABASE/spell/Harm|harm]]_
+**Divine Skill** [[DATABASE/skill/Intimidation|Intimidation]]
+**Favored Weapon** [[DATABASE/weapon/Naginata|naginata]]
+**Domains** [[DATABASE/domain/Ambition Domain|ambition]], [[DATABASE/domain/Destruction Domain|destruction]], [[DATABASE/domain/Earth Domain|earth]], [[DATABASE/domain/Undeath Domain|undeath]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Grim Tendrils|grim tendrils]]_, 2nd: _[[DATABASE/spell/Feast of Ashes|feast of ashes]]_, 7th: _[[DATABASE/spell/Possession|possession]]_

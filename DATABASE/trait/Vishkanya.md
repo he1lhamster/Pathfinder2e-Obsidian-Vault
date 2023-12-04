@@ -2,6 +2,7 @@
 id: '369'
 name: Vishkanya
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 trait:
 - Vishkanya
@@ -10,21 +11,21 @@ type: Trait
 ---
 # Vishkanya
 
-**Source** [[Bestiary 3]]
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
 These faintly ophidian humanoids have venomous blood and saliva.
 
 ## Ancestries
 
-[[Vishkanya]]
+[[DATABASE/ancestry/Vishkanya|Vishkanya]]
 
 ## Feats
 
-[[Alabaster Eyes]], [[Alluring Performance]], [[Debilitating Venom]], [[Greater Enhance Venom]], [[Lesser Enhance Venom]], [[Moderate Enhance Venom]], [[Restoring Blood]], [[Social Camouflage]], [[Stronger Debilitating Venom]], [[Swift Application]], [[Venom Purge]], [[Vicious Venom]], [[Viper Strike]], [[Vishkanya Lore]], [[Vishkanya Weapon Arts]], [[Vishkanya Weapon Expertise]], [[Vishkanya Weapon Familiarity]]
+[[DATABASE/feat/Alabaster Eyes|Alabaster Eyes]], [[DATABASE/feat/Alluring Performance|Alluring Performance]], [[DATABASE/feat/Debilitating Venom|Debilitating Venom]], [[DATABASE/feat/Greater Enhance Venom|Greater Enhance Venom]], [[DATABASE/feat/Lesser Enhance Venom|Lesser Enhance Venom]], [[DATABASE/feat/Moderate Enhance Venom|Moderate Enhance Venom]], [[DATABASE/feat/Restoring Blood|Restoring Blood]], [[DATABASE/feat/Social Camouflage|Social Camouflage]], [[DATABASE/feat/Stronger Debilitating Venom|Stronger Debilitating Venom]], [[DATABASE/feat/Swift Application|Swift Application]], [[DATABASE/feat/Venom Purge|Venom Purge]], [[DATABASE/feat/Vicious Venom|Vicious Venom]], [[DATABASE/feat/Viper Strike|Viper Strike]], [[DATABASE/feat/Vishkanya Lore|Vishkanya Lore]], [[DATABASE/feat/Vishkanya Weapon Arts|Vishkanya Weapon Arts]], [[DATABASE/feat/Vishkanya Weapon Expertise|Vishkanya Weapon Expertise]], [[DATABASE/feat/Vishkanya Weapon Familiarity|Vishkanya Weapon Familiarity]]
 
 ## Monsters
 
-[[Vishkanya Infiltrator]]
+[[DATABASE/monster/Vishkanya Infiltrator|Vishkanya Infiltrator]]
 
 ## Weapons
 
-[[Visap]]
+[[DATABASE/weapon/Visap|Visap]]

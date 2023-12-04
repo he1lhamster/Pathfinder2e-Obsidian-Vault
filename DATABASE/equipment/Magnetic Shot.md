@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Magnetic Shot<span class="item-type">Item 7+</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Evocation</span><span class="item-trait">Magical</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Ammunition** any; **Bulk** —
 **Activate** <span class="action-icon">1</span> envision
 
@@ -63,18 +64,18 @@ Shiny gray metal that slightly thrums when touched makes up the metal parts of a
 
 ## Magnetic Shot (Lesser)<span class="item-type">Item 7</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 60 gp
 The ammunition grants a +1 circumstance bonus to the attack roll, deals two additional weapon damage dice, and is deadly d8.
 
 ## Magnetic Shot (Moderate)<span class="item-type">Item 12</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 360 gp
 The ammo grants a +1 circumstance bonus to the attack roll, deals three additional weapon damage dice, and is deadly d10.
 
 ## Magnetic Shot (Greater)<span class="item-type">Item 17</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 2,200 gp
 The ammunition grants a +2 circumstance bonus to the attack roll, deals four additional weapon damage dice, and is deadly d12.

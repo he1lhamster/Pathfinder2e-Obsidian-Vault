@@ -82,24 +82,24 @@ wisdom: '+5'
 ---
 # Dracolisk
 
-Dracolisks are rare magical crossbreeds of chromatic dragons and [[Basilisk]]. None now know how they first came to be, but they have proven viable and can breed with one another as well as with basilisks. While a dracolisk appears much like a young true dragon of its parent type, its eight legs are an immediate indication that it is something more. Its coloration varies, depending on the nature of its draconic ancestry, though it's lighter on its underside and darker near its wing tips. A typical dracolisk is 15 feet long and weighs 3,000 pounds.
-**Recall Knowledge - Beast ([[Arcana]], [[Nature]])**: DC 28
-**Recall Knowledge - Dragon ([[Arcana]])**: DC 28
+Dracolisks are rare magical crossbreeds of chromatic dragons and [[DATABASE/monster/Basilisk|basilisks]]. None now know how they first came to be, but they have proven viable and can breed with one another as well as with basilisks. While a dracolisk appears much like a young true dragon of its parent type, its eight legs are an immediate indication that it is something more. Its coloration varies, depending on the nature of its draconic ancestry, though it's lighter on its underside and darker near its wing tips. A typical dracolisk is 15 feet long and weighs 3,000 pounds.
+**Recall Knowledge - Beast ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 28
+**Recall Knowledge - Dragon ([[DATABASE/skill/Arcana|Arcana]])**: DC 28
 **Unspecific Lore**: DC 26
 **Specific Lore**: DC 23
 
 # Dracolisk<span class="item-type">Creature 9</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Beast</span><span class="item-trait">Dragon</span>
-**Source** [[Bestiary 2]] 
-**Perception** +18; [[Darkvision]], [[Tremorsense]]
-**Skills** [[Acrobatics]] +17, [[Athletics]] +21, [[Stealth]] +17, [[Survival]] +20
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +18; [[DATABASE/monsterability/Darkvision|darkvision]], [[DATABASE/monsterability/Tremorsense|tremorsense (imprecise) 30 feet]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +17, [[DATABASE/skill/Athletics|Athletics]] +21, [[DATABASE/skill/Stealth|Stealth]] +17, [[DATABASE/skill/Survival|Survival]] +20
 **Str** +6, **Dex** +2, **Con** +5, **Int** -3, **Wis** +5, **Cha** +1
 
 ---
 **AC** 28; **Fort** +20, **Ref** +17, **Will** +18
-**HP** 155; **Immunities** [[Paralyzed]], [[Petrified]], sleep; **Resistances** draconic resistance 10
-<span class="in-box-ability">**Draconic Resistance** A dracolisk has resistance 10 to the type of damage it produces with its breath weapon (see below).</span><span class="in-box-ability">**Petrifying Glance <span class="action-icon">5</span> ** (arcane, aura, transmutation, visual) **Trigger **A creature within 30 feet that the dracolisk can see starts its turn; **Effect **The target must attempt a DC 26 Fortitude save. If it fails, it becomes [[Slowed]] for 1 minute as its body stiffens.</span>
+**HP** 155; **Immunities** [[DATABASE/condition/Paralyzed|paralyzed]], [[DATABASE/condition/Petrified|petrified]], sleep; **Resistances** draconic resistance 10
+<span class="in-box-ability">**Draconic Resistance** A dracolisk has resistance 10 to the type of damage it produces with its breath weapon (see below).</span><span class="in-box-ability">**Petrifying Glance <span class="action-icon">5</span> ** (arcane, aura, transmutation, visual) **Trigger **A creature within 30 feet that the dracolisk can see starts its turn; **Effect **The target must attempt a DC 26 Fortitude save. If it fails, it becomes [[DATABASE/condition/Slowed|slowed 1]] for 1 minute as its body stiffens.</span>
 
 ---
 **Speed** 20 feet, fly 40 feet
@@ -108,7 +108,7 @@ Dracolisks are rare magical crossbreeds of chromatic dragons and [[Basilisk]]. N
 **Blue **(electricity) 60-foot line of electricity (Reflex) 
 **Green **(poison) 30-foot cone of poison (Fortitude) 
 **Red **(fire) 30-foot cone of fire (Reflex) 
-**White **(cold) 30-foot cone of cold (Reflex)</span><span class="in-box-ability">**Petrifying Gaze** <span class="action-icon">2</span> (arcane, concentrate, incapacitation, transmutation, visual) The dracolisk stares at a creature it can see within 30 feet. That creature must attempt a DC 28 Fortitude save. If it fails and has not already been slowed by Petrifying Glance or this ability, it becomes [[Slowed]]. If the creature already was slowed by this ability or Petrifying Glance, a failed save causes the creature to be [[Petrified]] permanently.
+**White **(cold) 30-foot cone of cold (Reflex)</span><span class="in-box-ability">**Petrifying Gaze** <span class="action-icon">2</span> (arcane, concentrate, incapacitation, transmutation, visual) The dracolisk stares at a creature it can see within 30 feet. That creature must attempt a DC 28 Fortitude save. If it fails and has not already been slowed by Petrifying Glance or this ability, it becomes [[DATABASE/condition/Slowed|slowed 1]]. If the creature already was slowed by this ability or Petrifying Glance, a failed save causes the creature to be [[DATABASE/condition/Petrified|petrified]] permanently.
 A creature petrified in this manner can be instantly restored to flesh by being coated (not just splashed) with fresh dracolisk or basilisk blood no more than 1 hour old. A single dracolisk contains enough blood to coat 1d4+2 Medium creatures in this manner.</span><span class="in-box-ability">**Savage Jaws** <span class="action-icon">2</span> The dracolisk makes a single Strike with its jaws. If the attack hits, it deals 4d12+16 piercing damage (versatile S). This counts as two attacks for its multiple attack penalty.</span>
 
 ###  Draconic Heritage

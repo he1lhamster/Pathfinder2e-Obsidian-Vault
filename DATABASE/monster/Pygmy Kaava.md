@@ -69,20 +69,20 @@ wisdom: '+2'
 # Pygmy Kaava
 
 An unusually large number of kaava living in the Kaava Lands are relatively small, standing about 3 feet tall and weighing about 30 pounds. Pygmy kaava openly show their disdain for larger kaava, and the two groups rarely get along. Pygmy kaava often hunt alongside trained bush vipers or black mamba snakes.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 14
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 14
 **Unspecific Lore**: DC 12
 **Specific Lore**: DC 9
 
 # Pygmy Kaava<span class="item-type">Creature 0</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Small</span><span class="item-trait">Humanoid</span>
-**Source** [[The Mwangi Expanse]] 
-**Perception** +6; [[Low-Light Vision]]
-**Languages** [[Mwangi]]
-**Skills** [[Acrobatics]] +5, [[Intimidation]] +4, [[Stealth]] +7 (+9 in forests or jungles), [[Survival]] +6
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]] 
+**Perception** +6; [[DATABASE/monsterability/Low-Light Vision|low-light vision]]
+**Languages** [[DATABASE/language/Mwangi|Mwangi]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +5, [[DATABASE/skill/Intimidation|Intimidation]] +4, [[DATABASE/skill/Stealth|Stealth]] +7 (+9 in forests or jungles), [[DATABASE/skill/Survival|Survival]] +6
 **Str** +2, **Dex** +3, **Con** +1, **Int** +1, **Wis** +2, **Cha** +0
-**Trackless** A kaava moving at half their Speed or less steps so lightly that they leave virtually no trace. The DCs of checks to [[Track]] a kaava are increased by 10.
-**Items** [[Sickle]], [[Spear]]
+**Trackless** A kaava moving at half their Speed or less steps so lightly that they leave virtually no trace. The DCs of checks to [[DATABASE/action/Track|Track]] a kaava are increased by 10.
+**Items** [[DATABASE/weapon/Sickle|obsidian sickle]], [[DATABASE/weapon/Spear|spear]]
 
 ---
 **AC** 15; **Fort** +5, **Ref** +7, **Will** +6

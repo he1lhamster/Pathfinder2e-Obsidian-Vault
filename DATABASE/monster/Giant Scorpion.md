@@ -69,16 +69,16 @@ wisdom: '+2'
 # Giant Scorpion
 
 These massive, terrifying arachnids are typically 8 feet long from head to the base of the tail. Giant scorpions are the favored pack animals and war beasts of various desert-dwelling monsters, particularly gnolls. They are most commonly encountered in the wild, however. There they lair in mountainside caves or burrow beneath shallow layers of sand where they lie in wait for prey to wander near. Sleek, pallid subterranean scorpions also exist, as do still larger species.
-**Recall Knowledge - Animal ([[Nature]])**: DC 18
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Giant Scorpion<span class="item-type">Creature 3</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +9; darkvision, tremorsense (imprecise) 60 feet
-**Skills** [[Athletics]] +11, [[Stealth]] +7
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +11, [[DATABASE/skill/Stealth|Stealth]] +7
 **Str** +4, **Dex** +2, **Con** +3, **Int** -5, **Wis** +2, **Cha** -4
 
 ---
@@ -88,4 +88,4 @@ These massive, terrifying arachnids are typically 8 feet long from head to the b
 
 ---
 **Speed** 40 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> pincer +11 [+7/+3] (agile, reach 10 feet), **Damage** 1d8+6 slashing plus Grab</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> stinger +11 [+6/+1] (reach 10 feet), **Damage** 1d6+6 piercing plus giant scorpion venom</span><span class="in-box-ability">**[[Constrict]]** <span class="action-icon">1</span> 1d6+4 bludgeoning, DC 20</span><span class="in-box-ability">**Giant Scorpion Venom** (poison) **Saving Throw** DC 18 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 1d10 poison damage and [[Enfeebled]] (1 round); **Stage 2** 2d10 poison damage and [[Enfeebled]] (1 round); **Stage 3** 2d10 poison damage and [[Enfeebled]] (1 round)</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> pincer +11 [+7/+3] (agile, reach 10 feet), **Damage** 1d8+6 slashing plus Grab</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> stinger +11 [+6/+1] (reach 10 feet), **Damage** 1d6+6 piercing plus giant scorpion venom</span><span class="in-box-ability">**[[DATABASE/monsterability/Constrict|Constrict]]** <span class="action-icon">1</span> 1d6+4 bludgeoning, DC 20</span><span class="in-box-ability">**Giant Scorpion Venom** (poison) **Saving Throw** DC 18 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 1d10 poison damage and [[DATABASE/condition/Enfeebled|enfeebled 1]] (1 round); **Stage 2** 2d10 poison damage and [[DATABASE/condition/Enfeebled|enfeebled 1]] (1 round); **Stage 3** 2d10 poison damage and [[DATABASE/condition/Enfeebled|enfeebled 2]] (1 round)</span>

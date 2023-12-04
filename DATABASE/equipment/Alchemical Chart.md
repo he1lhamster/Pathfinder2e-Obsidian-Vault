@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -52,29 +53,29 @@ weapon_type: null
 # Alchemical Chart<span class="item-type">Item 4+</span>
 
 <span class="item-trait">Alchemical</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Usage** held in 1 hand; **Bulk** L
 
 ---
-This sturdy, rigid alchemical chart contains shorthand references on quickly mixing reagents for maximum effect. If you hold this chart while using [[Quick Alchemy]], the items you create of the listed level remain potent for 1 additional round.
+This sturdy, rigid alchemical chart contains shorthand references on quickly mixing reagents for maximum effect. If you hold this chart while using [[DATABASE/feat/Quick Alchemy|Quick Alchemy]], the items you create of the listed level remain potent for 1 additional round.
 
 ## Alchemical Chart (Lesser)<span class="item-type">Item 4</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 100 gp
 **Bulk** L
 The chart works for Quick Alchemy items of level 4 or lower.
 
 ## Alchemical Chart (Moderate)<span class="item-type">Item 12</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 1,750 gp
 **Bulk** L
 The chart works for Quick Alchemy items of level 12 or lower.
 
 ## Alchemical Chart (Greater)<span class="item-type">Item 18</span>
 
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 19,000 gp
 **Bulk** L
 The chart works for Quick Alchemy items of level 18 or lower.

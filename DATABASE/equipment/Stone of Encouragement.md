@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Stone of Encouragement<span class="item-type">Item 2+</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Divination</span><span class="item-trait">Magical</span>
-**Source** [[Firebrands]]
+**Source** [[DATABASE/source/Firebrands|Firebrands]]
 **Usage** held in 1 hand; **Bulk** L
 **Access** Second-mark members of the Firebrands have access to this item.
 
@@ -64,13 +65,13 @@ This smooth, round, gray stone fits neatly into the palm of your hand and feels 
 
 ## Stone of Encouragement<span class="item-type">Item 2</span>
 
-**Source** [[Firebrands]]
+**Source** [[DATABASE/source/Firebrands|Firebrands]]
 **Price** 30 gp
 **Bulk** L
 
 ## Stone of Encouragement (Greater)<span class="item-type">Item 8</span>
 
-**Source** [[Firebrands]]
+**Source** [[DATABASE/source/Firebrands|Firebrands]]
 **Price** 475 gp
 **Bulk** L
 The item bonus is +2.

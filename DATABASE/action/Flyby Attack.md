@@ -7,6 +7,7 @@ id: '16'
 name: Flyby Attack
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait: null
@@ -16,7 +17,7 @@ type: Action
 ---
 # Flyby Attack <span class="action-icon">2</span>
 
-**Source** [[Core Rulebook]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
 The bird Flies and makes a talon Strike at any point along the way.

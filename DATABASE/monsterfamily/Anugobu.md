@@ -3,6 +3,7 @@ creature_family: Anugobu
 id: '284'
 name: Anugobu
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #166:
   Despair on Danger Island]]'
 trait: null
@@ -11,7 +12,7 @@ type: Creature Family
 ---
 # Anugobu
 
-**Source** [[Pathfinder 166. Despair on Danger Island]]
+**Source** [[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #166: Despair on Danger Island]]
 Renowned in Tengah folklore as divinely gifted artisans and crafters, anugobus are a curious group of tiny humanoids native to the central islands of Minata. Countless stories describe anugobus sneaking around Minatan cities to tinker with and improve upon other humanoids' structures and architecture.
  Owing to their slight stature and relatively frail bodies, anugobus are said to be particularly shy of larger peoples and creatures. Whether under cover of darkness, during a festival that draws people away from their domiciles, or simply whenever they think they're unseen, anugobus in folklore perform their wondrous restorations and crafting projects in secret nearly without exception. Many popular Tengah stories feature homes ruined by a natural disaster that are then magically restored the next morning or unfinished projects like half-built bridges that are mysteriously completed while its workers wonder at how this was accomplished.
  According to most legends, anugobus are unparalleled masters of architecture and engineering and use this expertise to erect complex structures or greatly improve upon already-existing buildings. Some have questioned these extraordinary stories, but anyone who witnesses an anugobu walk on the walls and ceilings of buildings while improving them knows that such tales aren't that far-fetched.
@@ -20,7 +21,7 @@ Renowned in Tengah folklore as divinely gifted artisans and crafters, anugobus a
 
 ### Members
 
-[[Anugobu Apprentice]] (Creature 3), [[Anugobu Wondercrafter]] (Creature 7)
+[[DATABASE/monster/Anugobu Apprentice|Anugobu Apprentice]] (Creature 3), [[DATABASE/monster/Anugobu Wondercrafter|Anugobu Wondercrafter]] (Creature 7)
 
 ###  Anugobu Tools
 

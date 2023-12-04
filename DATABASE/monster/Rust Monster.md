@@ -83,16 +83,16 @@ wisdom: '+1'
 Found in lost dungeons, deep caves, and abandoned mines, rust monsters are a bane to any adventurers who rely on armor, weapons, or other metal items. These strange-looking creatures grow to about 5 feet long, with four insectile legs and a long tail ending in a four-pronged appendage resembling a tiny windmill. However, it is the rust monster’s feathery antennae that strike fear in the hearts of battle-hardened warriors, for a single touch from even just one antenna can reduce an adventurer’s most valuable tools to a useless pile of rust.
  Rust monsters aren’t inherently aggressive creatures, but they’re voracious oxidivores, meaning they consume the rust created by their antennae. The creatures savagely attack anything that gets between them and a possible meal, and they relentlessly pursue any source of metal. A rust monster can be distracted by a single metal-rich item, but they are often encountered in groups of three or more, sharply raising the cost of escape.
  Rust monsters are a terrible scourge in mining communities. If a group of rust monsters discovers rich veins of ore, they can multiply quickly. By weakening tunnels, attacking workers, and consuming the source of the miners’ livelihood, these aberrations have created many mountainside ghost towns.
-**Recall Knowledge - Aberration ([[Occultism]])**: DC 18
+**Recall Knowledge - Aberration ([[DATABASE/skill/Occultism|Occultism]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Rust Monster<span class="item-type">Creature 3</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Aberration</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +8; darkvision, metal scent 30 feet
-**Skills** [[Athletics]] +7 (+13 to Disarm a metal item)
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +7 (+13 to Disarm a metal item)
 **Str** +0, **Dex** +3, **Con** +1, **Int** -4, **Wis** +1, **Cha** +0
 **Metal Scent** A rust monster can smell metal as a precise sense.
 

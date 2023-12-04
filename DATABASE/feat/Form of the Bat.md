@@ -11,6 +11,7 @@ name: Form of the Bat
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -27,11 +28,11 @@ type: Feat
 # Form of the Bat <span class="action-icon">1</span> <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Dhampir</span><span class="item-trait">Divine</span><span class="item-trait">Polymorph</span><span class="item-trait">Transmutation</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Frequency** once per hour
 
 ---
-You can transform into a harmless bat. You gain the effects of a 4th-level [[Pest Form]], except you always transform into a bat.
+You can transform into a harmless bat. You gain the effects of a 4th-level [[DATABASE/spell/Pest Form|pest form]], except you always transform into a bat.
 
 ## Traits
 
@@ -41,7 +42,7 @@ An action with this trait requires a degree of mental concentration and discipli
 
 **Dhampir:**
 
-A creature with this trait has the dhampir versatile heritage. These humanoids are the mortal offspring of [[Vampire]] and members of other ancestries.
+A creature with this trait has the dhampir versatile heritage. These humanoids are the mortal offspring of [[DATABASE/monsterfamily/Vampire|vampires]] and members of other ancestries.
 
 **Divine:**
 

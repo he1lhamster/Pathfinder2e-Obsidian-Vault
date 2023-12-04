@@ -24,6 +24,7 @@ patron_theme: null
 range: planetary
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -41,9 +42,9 @@ type: Spell
 # Nightmare<span class="item-type">Spell 4</span>
 
 <span class="item-trait">Illusion</span><span class="item-trait">Mental</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult
-**Deities** [[Lamashtu]], [[Nyarlathotep]]
+**Deities** [[DATABASE/deity/Lamashtu|Lamashtu]], [[DATABASE/deity/Nyarlathotep|Nyarlathotep (Haunter in the Dark)]]
 **Cast** 10 minutes (material, somatic, verbal)
 **Range** planetary; **Targets** 1 creature you know by name
 **Saving Throw** Will; **Duration** 1 day

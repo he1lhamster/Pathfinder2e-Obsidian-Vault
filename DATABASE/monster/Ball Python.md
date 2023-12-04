@@ -71,16 +71,16 @@ wisdom: '+1'
 # Ball Python
 
 This nonvenomous snake’s name comes from its tendency to curl into a ball when frightened, though most people know it for its hunting tactic of coiling around prey and crushing victims with its powerful muscles. Nonetheless, brave herpetologists sometimes keep ball pythons as pets.
-**Recall Knowledge - Animal ([[Nature]])**: DC 15
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Ball Python<span class="item-type">Creature 1</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +6; low-light vision, scent (imprecise) 30 feet
-**Skills** [[Acrobatics]] +6, [[Athletics]] +6, [[Stealth]] +6, [[Survival]] +4
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +6, [[DATABASE/skill/Athletics|Athletics]] +6, [[DATABASE/skill/Stealth|Stealth]] +6, [[DATABASE/skill/Survival|Survival]] +4
 **Str** +3, **Dex** +3, **Con** +3, **Int** -4, **Wis** +1, **Cha** -2
 
 ---
@@ -90,4 +90,4 @@ This nonvenomous snake’s name comes from its tendency to curl into a ball when
 
 ---
 **Speed** 20 feet, climb 20 feet, swim 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +8 [+3/-2], **Damage** 1d8+3 piercing plus Grab</span><span class="in-box-ability">**[[Constrict]]** <span class="action-icon">1</span> 1d8 bludgeoning, DC 17</span><span class="in-box-ability">**Wrap in Coils** <span class="action-icon">1</span> **Requirement** A Medium or smaller creature is grabbed or restrained in the ball python’s jaws. **Effect** The ball python moves the creature into its coils, freeing its jaws to make attacks, then uses Constrict against the creature. The ball python’s coils can hold one creature.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +8 [+3/-2], **Damage** 1d8+3 piercing plus Grab</span><span class="in-box-ability">**[[DATABASE/monsterability/Constrict|Constrict]]** <span class="action-icon">1</span> 1d8 bludgeoning, DC 17</span><span class="in-box-ability">**Wrap in Coils** <span class="action-icon">1</span> **Requirement** A Medium or smaller creature is grabbed or restrained in the ball python’s jaws. **Effect** The ball python moves the creature into its coils, freeing its jaws to make attacks, then uses Constrict against the creature. The ball python’s coils can hold one creature.</span>

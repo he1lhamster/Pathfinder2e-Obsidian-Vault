@@ -73,20 +73,20 @@ wisdom: '+4'
 # Acolyte Of Pharasma
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 17
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 17
 **Unspecific Lore**: DC 15
 **Specific Lore**: DC 12
 
 # Acolyte Of Pharasma<span class="item-type">Creature 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Shadows at Sundown]]
-N [[Cleric]] of [[Pharasma]]
+**Source** [[DATABASE/source/Shadows at Sundown|Shadows at Sundown]]
+N [[DATABASE/class_/Cleric|clerics]] of [[DATABASE/deity/Pharasma|Pharasma]]
 **Perception** +7
-**Languages** [[Common]], [[Varisian]]
-**Skills** [[Crafting]] +5, [[Diplomacy]] +4, [[Occultism]] +5, [[Religion]] +7, [[Society]] +5
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Varisian|Varisian]]
+**Skills** [[DATABASE/skill/Crafting|Crafting]] +5, [[DATABASE/skill/Diplomacy|Diplomacy]] +4, [[DATABASE/skill/Occultism|Occultism]] +5, [[DATABASE/skill/Religion|Religion]] +7, [[DATABASE/skill/Society|Society]] +5
 **Str** +1, **Dex** +2, **Con** -1, **Int** +2, **Wis** +4, **Cha** +1
-**Items** [[Religious Symbol]] of [[Pharasma]], [[Dagger]]
+**Items** [[DATABASE/equipment/Religious Symbol|religious symbol]] of [[DATABASE/deity/Pharasma|Pharasma]], [[DATABASE/weapon/Dagger|dagger]]
 
 ---
 **AC** 15; **Fort** +2, **Ref** +5, **Will** +9
@@ -94,5 +94,5 @@ N [[Cleric]] of [[Pharasma]]
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> dagger +4 [+0/-4] (agile, finesse, thrown 10 feet, versatile S), **Damage** 1d4+2 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> dagger +4 [+0/-4] (agile, finesse, thrown 10 feet, versatile S), **Damage** 1d4+2 piercing</span>**Divine Prepared Spells** DC 17, attack +9; **1st** _[[Create Water]]_, _[[Heal]]_ (×2), _[[Mending]]_; **Cantrips** **(1st)** _[[Detect Magic]]_, _[[Disrupt Undead]]_, _[[Light]]_, _[[Prestidigitation]]_, _[[Read Aura]]_
-**Cleric Domain Spells** DC 17, 1 Focus Point; **1st** _[[Healer's Blessing]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> dagger +4 [+0/-4] (agile, finesse, thrown 10 feet, versatile S), **Damage** 1d4+2 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> dagger +4 [+0/-4] (agile, finesse, thrown 10 feet, versatile S), **Damage** 1d4+2 piercing</span>**Divine Prepared Spells** DC 17, attack +9; **1st** _[[DATABASE/spell/Create Water|create water]]_, _[[DATABASE/spell/Heal|heal]]_ (×2), _[[DATABASE/spell/Mending|mending]]_; **Cantrips** **(1st)** _[[DATABASE/spell/Detect Magic|detect magic]]_, _[[DATABASE/spell/Disrupt Undead|disrupt undead]]_, _[[DATABASE/spell/Light|light]]_, _[[DATABASE/spell/Prestidigitation|prestidigitation]]_, _[[DATABASE/spell/Read Aura|read aura]]_
+**Cleric Domain Spells** DC 17, 1 Focus Point; **1st** _[[DATABASE/spell/Healer's Blessing|healer's blessing]]_

@@ -2,6 +2,7 @@
 id: '213'
 name: Season of Ghosts Players Guide
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -16,4 +17,4 @@ type: Source
 
 ## Backgrounds [6]
 
-[[Close Ties]], [[Folklore Enthusiast]], [[Northridge Scholar]], [[Outskirt Dweller]], [[Southbank Traditionalist]], [[Willowshire Urchin]]
+[[DATABASE/background/Close Ties|Close Ties]], [[DATABASE/background/Folklore Enthusiast|Folklore Enthusiast]], [[DATABASE/background/Northridge Scholar|Northridge Scholar]], [[DATABASE/background/Outskirt Dweller|Outskirt Dweller]], [[DATABASE/background/Southbank Traditionalist|Southbank Traditionalist]], [[DATABASE/background/Willowshire Urchin|Willowshire Urchin]]

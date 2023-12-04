@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Illusion
 size: null
@@ -56,7 +57,7 @@ weapon_type: null
 # Ringmaster's Staff<span class="item-type">Item 6+</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Illusion</span><span class="item-trait">Magical</span><span class="item-trait">Staff</span>
-**Source** [[Pathfinder 152. Legacy of the Lost God]]
+**Source** [[DATABASE/source/Pathfinder 152. Legacy of the Lost God|Pathfinder #152: Legacy of the Lost God]]
 **Usage** held in 1 hand
 ; **Bulk** 1
 
@@ -68,21 +69,21 @@ This highly polished black wooden staff resembles an aristocrat’s oversized wa
 ## Ringmaster's Staff
 <span class="item-type">Item 6</span>
 
-**Source** [[Pathfinder 152. Legacy of the Lost God]]
+**Source** [[DATABASE/source/Pathfinder 152. Legacy of the Lost God|Pathfinder #152: Legacy of the Lost God]]
 **Price** 230 gp
 **Bulk** 1
 
-* Cantrips [[Dancing Lights]] 
-* 1st [[Feather Fall]], [[Floating Disk]] 
-* 2nd [[Glitterdust]], [[Illusory Creature]], [[Obscuring Mist]]
+* Cantrips [[DATABASE/spell/Dancing Lights|dancing lights]] 
+* 1st [[DATABASE/spell/Feather Fall|feather fall]], [[DATABASE/spell/Floating Disk|floating disk]] 
+* 2nd [[DATABASE/spell/Glitterdust|glitterdust]], [[DATABASE/spell/Illusory Creature|illusory creature]], [[DATABASE/spell/Obscuring Mist|obscuring mist]]
 
 ## Ringmaster's Staff (Greater)
 <span class="item-type">Item 12</span>
 
-**Source** [[Pathfinder 152. Legacy of the Lost God]]
+**Source** [[DATABASE/source/Pathfinder 152. Legacy of the Lost God|Pathfinder #152: Legacy of the Lost God]]
 **Price** 1,800 gp
 **Bulk** 1
 
-* 3rd [[Enthrall]], [[Pyrotechnics]]
-* 4th [[Freedom of Movement]], [[Summon Animal]]
-* 5th [[Cloak of Colors]], [[Command]]
+* 3rd [[DATABASE/spell/Enthrall|enthrall]], [[DATABASE/spell/Pyrotechnics|pyrotechnics]]
+* 4th [[DATABASE/spell/Freedom of Movement|freedom of movement]], [[DATABASE/spell/Summon Animal|summon animal]]
+* 5th [[DATABASE/spell/Cloak of Colors|cloak of colors]], [[DATABASE/spell/Command|command]]

@@ -82,16 +82,16 @@ wisdom: '+2'
 The stegosaurus is easily recognized by its twin rows of diamond-shaped dorsal plates that run down its spine, and thick tail adorned with four large spikes. This strange configuration protects this herbivore from predators, as the stegosaurus can hunker down to interpose its dorsal plates between an attacker and its thick body. A stegosaurus defends itself by swinging its spiked tail at larger foes and trampling smaller opponents underfoot.
  The stegosaurus often inhabits grasslands, where nutritious vegetation is plentiful and only its dorsal plates rise above waving fields of tall grass. The stegosaurus is among the most curious of dinosaurs, and hunters often find it easy to bait them with shiny trinkets or strange noises. A stegosaurus is about 30 feet long, 16 feet high at the top of its highest dorsal plate, and weighs between 2 and 3 tons.
  The stegosaurus is generally more even-tempered and even gentle, despite its size, than the ankylosaurus. This combination makes it even more popular as a trained pet or guard, but even then one should take care to not annoy the dinosaur—an angry or annoyed stegosaurus can lash out with its tail with little warning. Often, it’s wiser to train smaller variants, such as the kentrosaurus. Regardless, their dorsal plates make this dinosaur a poor choice as a mount.
-**Recall Knowledge - Animal ([[Nature]])**: DC 23
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 23
 **Unspecific Lore**: DC 21
 **Specific Lore**: DC 18
 
 # Stegosaurus<span class="item-type">Creature 7</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Huge</span><span class="item-trait">Animal</span><span class="item-trait">Dinosaur</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +15; low-light vision, scent (imprecise) 30 feet
-**Skills** [[Athletics]] +20
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +20
 **Str** +7, **Dex** +2, **Con** +4, **Int** -4, **Wis** +2, **Cha** +0
 
 ---
@@ -101,4 +101,4 @@ The stegosaurus is easily recognized by its twin rows of diamond-shaped dorsal p
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> tail +18 [+13/+8] (sweep, reach 15 feet), **Damage** 2d8+9 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> foot +18 [+13/+8] (reach 10 feet), **Damage** 2d6+9 bludgeoning</span><span class="in-box-ability">**[[Trample]]** <span class="action-icon">3</span> Large or smaller, foot, DC 25</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> tail +18 [+13/+8] (sweep, reach 15 feet), **Damage** 2d8+9 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> foot +18 [+13/+8] (reach 10 feet), **Damage** 2d6+9 bludgeoning</span><span class="in-box-ability">**[[DATABASE/monsterability/Trample|Trample]]** <span class="action-icon">3</span> Large or smaller, foot, DC 25</span>

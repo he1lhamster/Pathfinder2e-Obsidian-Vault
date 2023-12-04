@@ -66,19 +66,19 @@ wisdom: '+2'
 # Gravedigger
 
 An often-overlooked group of laborers, gravediggers have a reputation for being as quiet and grim as their workplace. They are commonly strong and tough from their long hours of backbreaking labor, and they tend to have a unique perspective on life and death.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 15
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Gravedigger<span class="item-type">Creature 1</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Perception** +6
-**Languages** [[Common]]
-**Skills** [[Athletics]] +7, [[Lore]] +4, [[Religion]] +4, [[Stealth]] +4
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +7, [[DATABASE/skill/Lore|Graveyard Lore]] +4, [[DATABASE/skill/Religion|Religion]] +4, [[DATABASE/skill/Stealth|Stealth]] +4
 **Str** +4, **Dex** +1, **Con** +3, **Int** +0, **Wis** +2, **Cha** +0
-**Items** [[Lantern]], gravedigger's garb (functions as [[Leather Armor]]), [[Religious Symbol]] of [[Pharasma]], [[Tool]]
+**Items** [[DATABASE/equipment/Lantern|bull's-eye lantern (2 oils)]], gravedigger's garb (functions as [[DATABASE/armor/Leather Armor|leather armor]]), [[DATABASE/equipment/Religious Symbol|religious symbol]] of [[DATABASE/deity/Pharasma|Pharasma]], [[DATABASE/equipment/Tool|shovel]]
 
 ---
 **AC** 15; **Fort** +8, **Ref** +4, **Will** +7
@@ -86,4 +86,4 @@ An often-overlooked group of laborers, gravediggers have a reputation for being 
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> shovel +9 [+4/-1], **Damage** 1d4+4 bludgeoning</span><span class="in-box-ability">**Light in the Dark** <span class="action-icon">2</span> (concentrate, divine, manipulate) **Requirements** The gravedigger holds a [[Lantern]] in one hand and their [[Religious Symbol]] in the other, and the lantern contains oil; **Effect** The gravedigger recites a brief chant to ignite their lantern with positive energy. Each undead creature in a 15-foot line takes 3d6 positive damage (DC 14 basic Fortitude save). This action uses all remaining oil in the bull's-eye lantern.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> shovel +9 [+4/-1], **Damage** 1d4+4 bludgeoning</span><span class="in-box-ability">**Light in the Dark** <span class="action-icon">2</span> (concentrate, divine, manipulate) **Requirements** The gravedigger holds a [[DATABASE/equipment/Lantern|bull's-eye lantern]] in one hand and their [[DATABASE/equipment/Religious Symbol|religious symbol]] in the other, and the lantern contains oil; **Effect** The gravedigger recites a brief chant to ignite their lantern with positive energy. Each undead creature in a 15-foot line takes 3d6 positive damage (DC 14 basic Fortitude save). This action uses all remaining oil in the bull's-eye lantern.</span>

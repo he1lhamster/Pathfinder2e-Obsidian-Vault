@@ -11,6 +11,7 @@ name: Lawbringer
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,20 +25,20 @@ type: Feat
 # Lawbringer <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Aasimar</span><span class="item-trait">Lineage</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
-You trace your lineage to [[Archon]]: embodiments of heavenly virtues, guardians of the seven-tiered mountain of [[Heaven]], and nurturers of law and virtue within mortals. Your own virtue and orderly mind protect you from foes who would turn your emotions against you. You gain a +1 circumstance bonus to saves against emotion effects, and if you roll a success on a save against an emotion effect, you get a critical success instead.
+You trace your lineage to [[DATABASE/monsterfamily/Archon|archons]]: embodiments of heavenly virtues, guardians of the seven-tiered mountain of [[DATABASE/plane/Heaven|Heaven]], and nurturers of law and virtue within mortals. Your own virtue and orderly mind protect you from foes who would turn your emotions against you. You gain a +1 circumstance bonus to saves against emotion effects, and if you roll a success on a save against an emotion effect, you get a critical success instead.
 
 ## Lawbringer Leads To...
 
-[[Archon Magic]], [[Enforced Order]]
+[[DATABASE/feat/Archon Magic|Archon Magic]], [[DATABASE/feat/Enforced Order|Enforced Order]]
 
 ## Traits
 
 **Aasimar:**
 
-A creature with this trait has the aasimar versatile heritage. Aasimars are [[Planar Scion]] descended from celestial beings. An ability with this trait can be used or selected only by aasimars.
+A creature with this trait has the aasimar versatile heritage. Aasimars are [[DATABASE/monsterfamily/Planar Scion|planar scions]] descended from celestial beings. An ability with this trait can be used or selected only by aasimars.
 
 **Lineage:**
 

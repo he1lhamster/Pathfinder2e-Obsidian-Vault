@@ -11,6 +11,7 @@ name: Ignite the Sun
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -27,7 +28,7 @@ type: Feat
 # Ignite the Sun <span class="action-icon">2</span> <span class="item-type">Feat 18</span>
 
 <span class="item-trait">Fire</span><span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Light</span><span class="item-trait">Primal</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
 The fires of creation become yours to control. You create a miniature sun in a 5-foot burst within 500 feet. A creature takes 7d6 fire damage any time it's in the miniature sun, with a basic Reflex save against your class DC. A creature can take this damage no more than once per round. The sun sheds bright light in a 500-foot emanation (and dim light for another 500 feet); this is sunlight for creatures with a particular vulnerability to sunlight.

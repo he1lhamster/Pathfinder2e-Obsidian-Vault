@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/psychicsubconsciousmind/Gathered Lore|gathered lore]] 
   mind'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -25,11 +26,11 @@ type: Feat
 # Scour the Library <span class="action-icon">1</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Psyche</span><span class="item-trait">Psychic</span>
-**Source** [[Dark Archive]]
-**Prerequisites** [[Gathered Lore]] subconscious mind
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Prerequisites** [[DATABASE/psychicsubconsciousmind/Gathered Lore|gathered lore]] subconscious mind
 
 ---
-Seeing an enemy's attack, you quickly consult multiple scraps of lore in your mind, synthesizing them into the perfect plan. Make a check to [[Recall Knowledge]] (using an appropriate skill) about one creature within 60 feet. On a success, in addition to the normal benefits, you gain a +1 circumstance bonus to your next attack roll against that creature and to your AC against the creature's next attack. On a critical success, the bonuses are +2.
+Seeing an enemy's attack, you quickly consult multiple scraps of lore in your mind, synthesizing them into the perfect plan. Make a check to [[DATABASE/action/Recall Knowledge|Recall Knowledge]] (using an appropriate skill) about one creature within 60 feet. On a success, in addition to the normal benefits, you gain a +1 circumstance bonus to your next attack roll against that creature and to your AC against the creature's next attack. On a critical success, the bonuses are +2.
 
 ## Traits
 

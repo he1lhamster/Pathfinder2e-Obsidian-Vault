@@ -22,6 +22,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -37,7 +38,7 @@ type: Spell
 # Miracle<span class="item-type">Spell 10</span>
 
 <span class="item-trait">Divination</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** divine
 **Cast** <span class="action-icon">3</span> material, somatic, verbal
 
@@ -47,6 +48,6 @@ You request aid directly from your divine source. Your divine source always refu
 * Duplicate any spell from the divine list of 9th level or lower to which you have access.
 * Duplicate any spell from another spell list of 7th level or lower. It must be common or you must have access.
 * Produce any effect whose power level is in line with the above effects. 
-* Reverse certain effects that refer to the [[Wish]] spell.
+* Reverse certain effects that refer to the [[DATABASE/spell/Wish|wish]] spell.
 
 The GM might allow you to try using _miracle_ to produce greater effects than these, but doing so may be dangerous, or the spell may have only a partial effect.

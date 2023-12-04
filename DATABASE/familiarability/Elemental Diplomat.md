@@ -6,6 +6,7 @@ id: '102'
 name: Elemental Diplomat
 rarity: Common
 requirement: null
+rus_type_level: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 trait: null
 type: Familiar Ability
@@ -13,6 +14,6 @@ type: Familiar Ability
 ---
 # Elemental Diplomat
 
-**Source** [[Rage of Elements]]
-**Ability Type** Specific Familiar - [[Gennayn]]
-A gennayn's modifier for [[Diplomacy]] is equal to your level plus your key spellcasting attribute modifier, rather than just your level. The gennayn gets a +1 circumstance bonus to Diplomacy checks against elementals and grants you the same bonus if you're in the same space.
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
+**Ability Type** Specific Familiar - [[DATABASE/familiarspecific/Gennayn|Gennayn]]
+A gennayn's modifier for [[DATABASE/skill/Diplomacy|Diplomacy]] is equal to your level plus your key spellcasting attribute modifier, rather than just your level. The gennayn gets a +1 circumstance bonus to Diplomacy checks against elementals and grants you the same bonus if you're in the same space.

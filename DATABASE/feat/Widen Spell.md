@@ -11,6 +11,7 @@ name: Widen Spell
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -29,7 +30,7 @@ type: Feat
 # Widen Spell <span class="action-icon">1</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Druid</span><span class="item-trait">Manipulate</span><span class="item-trait">Metamagic</span><span class="item-trait">Oracle</span><span class="item-trait">Sorcerer</span><span class="item-trait">Witch</span><span class="item-trait">Wizard</span>
-**Source** [[Advanced Player's Guide]] , [[Core Rulebook]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] , [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
 You manipulate the energy of your spell, causing it to spread out and affect a wider area. If the next action you use is to Cast a Spell that has an area of a burst, cone, or line and does not have a duration, increase the area of that spell. Add 5 feet to the radius of a burst that normally has a radius of at least 10 feet (a burst with a smaller radius is not affected). Add 5 feet to the length of a cone or line that is normally 15 feet long or smaller, and add 10 feet to the length of a larger cone or line.

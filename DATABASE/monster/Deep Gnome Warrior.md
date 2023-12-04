@@ -68,19 +68,19 @@ wisdom: '+1'
 # Deep Gnome Warrior
 
 Deep gnome warriors are quick to charge into battle but focus on defending their kin and their homes over more aggressive tactics when a choice is available.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 16
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
 # Deep Gnome Warrior<span class="item-type">Creature 2</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Small</span><span class="item-trait">Gnome</span><span class="item-trait">Humanoid</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +7; darkvision
-**Languages** [[Gnomish]], [[Undercommon]]
-**Skills** [[Athletics]] +8, [[Intimidation]] +5, [[Stealth]] +5
+**Languages** [[DATABASE/language/Gnomish|Gnomish]], [[DATABASE/language/Undercommon|Undercommon]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +8, [[DATABASE/skill/Intimidation|Intimidation]] +5, [[DATABASE/skill/Stealth|Stealth]] +5
 **Str** +4, **Dex** +2, **Con** +3, **Int** +0, **Wis** +1, **Cha** -1
-**Items** [[Heavy Crossbow]], [[Spear]], [[Steel Shield]] (Hardness 5, HP 20, BT 10), [[Studded Leather Armor]]
+**Items** [[DATABASE/weapon/Heavy Crossbow|heavy crossbow (20 bolts)]], [[DATABASE/weapon/Spear|spear]], [[DATABASE/shield/Steel Shield|steel shield]] (Hardness 5, HP 20, BT 10), [[DATABASE/armor/Studded Leather Armor|studded leather armor]]
 
 ---
 **AC** 18 (20 with shield raised); **Fort** +9, **Ref** +8, **Will** +5
@@ -89,4 +89,4 @@ Deep gnome warriors are quick to charge into battle but focus on defending their
 
 ---
 **Speed** 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> spear +10 [+5/+0], **Damage** 1d6+4 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> heavy crossbow +8 [+3/-2] (range increment 120 feet, reload 2), **Damage** 1d10 piercing</span>**Primal Innate Spells** DC 15; **1st** _[[Illusory Disguise]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> spear +10 [+5/+0], **Damage** 1d6+4 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> heavy crossbow +8 [+3/-2] (range increment 120 feet, reload 2), **Damage** 1d10 piercing</span>**Primal Innate Spells** DC 15; **1st** _[[DATABASE/spell/Illusory Disguise|illusory disguise]]_

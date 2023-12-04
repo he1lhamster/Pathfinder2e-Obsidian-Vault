@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -54,10 +55,10 @@ weapon_type: null
 # Energizing Treat<span class="item-type">Item 7</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Magical</span><span class="item-trait">Transmutation</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 70 gp
 **Usage** held in 1 hand; **Bulk** —
 **Activate** <span class="action-icon">1</span> Interact
 
 ---
-An _energizing treat_ is a treat made from meat or grains. When you feed your animal companion or familiar an energizing treat, it's [[Quickened]] for 1 minute. It can use the extra action each round only for Strike, Stride, and [[Support]] actions, and it can do so only if it normally has those actions available and you take the proper action to command it.
+An _energizing treat_ is a treat made from meat or grains. When you feed your animal companion or familiar an energizing treat, it's [[DATABASE/condition/Quickened|quickened]] for 1 minute. It can use the extra action each round only for Strike, Stride, and [[DATABASE/action/Support|Support]] actions, and it can do so only if it normally has those actions available and you take the proper action to command it.

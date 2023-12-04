@@ -2,6 +2,7 @@
 id: '22'
 name: Terran
 rarity: Uncommon
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -10,13 +11,13 @@ type: Language
 ---
 # Terran
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 The below entries contain speakers of Terran.
 
 ## Monsters (59)
 
-[[Adult Crystal Dragon]], [[Adult Magma Dragon]], [[Azata, Aeolaeka]], [[Ancient Crystal Dragon]], [[Ancient Forest Dragon]], [[Ancient Magma Dragon]], [[Ancient Sovereign Dragon]], [[Ancient Underworld Dragon]], [[Anugobu Apprentice]], [[Anugobu Wondercrafter]], [[Ararda]], [[Arzuu]], [[Bauble Beast]], [[Calcifda]], [[Consonite Choir]], [[Crystalline Sentinel]], [[Dalos]], [[Deep Gnome Rockwarden]], [[Dust Mephit]], [[Earth Mephit]], [[Earth Wisp]], [[Earthen Destrier]], [[Elemental Avalanche]], [[Ferrugon (Rust Devil)]], [[Gargoyle]], [[Gedovius]], [[Grand Defender]], [[Grikkitog]], [[Irlgaunt]], [[Kapoacinth]], [[Kasesh]], [[Lampad Queen]], [[Lerritan]], [[Lintwerth]], [[Living Landslide]], [[Mu Spore]], [[Mudwretch]], [[Ooze Mephit]], [[Oread]], [[Rune Giant]], [[Rust Hag]], [[Sand Sentry]], [[Sand Wolf]], [[Shaitan]], [[Stone Ghost, Spite-Filled Apparation and Failed Student]], [[Stone Mauler]], [[Sturzstromer]], [[Stygira]], [[Suli]], [[Temteki]], [[The Wriggling Man]], [[Ulistul]], [[Vehanezhad]], [[Veshumirix]], [[Xevalorg]], [[Xorn]], [[Young Crystal Dragon]], [[Zaramuun]], [[Zomok]]
+[[DATABASE/monster/Adult Crystal Dragon|Adult Crystal Dragon]], [[DATABASE/monster/Adult Magma Dragon|Adult Magma Dragon]], [[DATABASE/monster/Azata, Aeolaeka|Aeolaeka (Stone Azata)]], [[DATABASE/monster/Ancient Crystal Dragon|Ancient Crystal Dragon]], [[DATABASE/monster/Ancient Forest Dragon|Ancient Forest Dragon]], [[DATABASE/monster/Ancient Magma Dragon|Ancient Magma Dragon]], [[DATABASE/monster/Ancient Sovereign Dragon|Ancient Sovereign Dragon]], [[DATABASE/monster/Ancient Underworld Dragon|Ancient Underworld Dragon]], [[DATABASE/monster/Anugobu Apprentice|Anugobu Apprentice]], [[DATABASE/monster/Anugobu Wondercrafter|Anugobu Wondercrafter]], [[DATABASE/monster/Ararda|Ararda]], [[DATABASE/monster/Arzuu|Arzuu]], [[DATABASE/monster/Bauble Beast|Bauble Beast]], [[DATABASE/monster/Calcifda|Calcifda]], [[DATABASE/monster/Consonite Choir|Consonite Choir]], [[DATABASE/monster/Crystalline Sentinel|Crystalline Sentinel]], [[DATABASE/monster/Dalos|Dalos]], [[DATABASE/monster/Deep Gnome Rockwarden|Deep Gnome Rockwarden]], [[DATABASE/monster/Dust Mephit|Dust Mephit]], [[DATABASE/monster/Earth Mephit|Earth Mephit]], [[DATABASE/monster/Earth Wisp|Earth Wisp]], [[DATABASE/monster/Earthen Destrier|Earthen Destrier]], [[DATABASE/monster/Elemental Avalanche|Elemental Avalanche]], [[DATABASE/monster/Ferrugon (Rust Devil)|Ferrugon]], [[DATABASE/monster/Gargoyle|Gargoyle]], [[DATABASE/monster/Gedovius|Gedovius]], [[DATABASE/monster/Grand Defender|Grand Defender]], [[DATABASE/monster/Grikkitog|Grikkitog]], [[DATABASE/monster/Irlgaunt|Irlgaunt]], [[DATABASE/monster/Kapoacinth|Kapoacinth]], [[DATABASE/monster/Kasesh|Kasesh]], [[DATABASE/monster/Lampad Queen|Lampad Queen]], [[DATABASE/monster/Lerritan|Lerritan]], [[DATABASE/monster/Lintwerth|Lintwerth]], [[DATABASE/monster/Living Landslide|Living Landslide]], [[DATABASE/monster/Mu Spore|Mu Spore]], [[DATABASE/monster/Mudwretch|Mudwretch]], [[DATABASE/monster/Ooze Mephit|Ooze Mephit]], [[DATABASE/monster/Oread|Oread Guard]], [[DATABASE/monster/Rune Giant|Rune Giant]], [[DATABASE/monster/Rust Hag|Rust Hag]], [[DATABASE/monster/Sand Sentry|Sand Sentry]], [[DATABASE/monster/Sand Wolf|Sand Wolf]], [[DATABASE/monster/Shaitan|Shaitan]], [[DATABASE/monster/Stone Ghost, Spite-Filled Apparation and Failed Student|Stone Ghost]], [[DATABASE/monster/Stone Mauler|Stone Mauler]], [[DATABASE/monster/Sturzstromer|Sturzstromer]], [[DATABASE/monster/Stygira|Stygira]], [[DATABASE/monster/Suli|Suli Dune Dancer]], [[DATABASE/monster/Temteki|Temteki]], [[DATABASE/monster/The Wriggling Man|The Wriggling Man]], [[DATABASE/monster/Ulistul|Ulistul]], [[DATABASE/monster/Vehanezhad|Vehanezhad]], [[DATABASE/monster/Veshumirix|Veshumirix]], [[DATABASE/monster/Xevalorg|Xevalorg]], [[DATABASE/monster/Xorn|Xorn]], [[DATABASE/monster/Young Crystal Dragon|Young Crystal Dragon]], [[DATABASE/monster/Zaramuun|Zaramuun]], [[DATABASE/monster/Zomok|Zomok]]
 
 ## NPCs (2)
 
-[[Ibrium, Cold-Hearted Nexian Vitrumancer]], [[Unshadowed Okoro]]
+[[DATABASE/npc/Ibrium, Cold-Hearted Nexian Vitrumancer|Ibrium]], [[DATABASE/npc/Unshadowed Okoro|Unshadowed Okoro]]

@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -52,7 +53,7 @@ weapon_type: null
 # Inubrix Armor<span class="item-type">Item 11+</span>
 
 <span class="trait-rare item-trait">Rare</span>
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Usage** worn armor; **Bulk** varies by armor
 
 ---
@@ -60,16 +61,16 @@ Inubrix's malleable nature means armor crafted from it is less rigid than usual,
 
 ### Base Material
 
-[[Inubrix]]
+[[DATABASE/equipment/Inubrix|Inubrix]]
 
 ## Inubrix Armor (Standard-Grade)<span class="item-type">Item 11</span>
 
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 1,200 gp (+120 gp per Bulk)
 **Craft Requirements** The initial raw materials must include at least 150 gp of inubrix + 15 gp per Bulk.
 
 ## Inubrix Armor (High-Grade)<span class="item-type">Item 18</span>
 
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 18,000 gp (+1,800 gp per Bulk)
 **Craft Requirements** The initial raw materials must include at least 9,000 gp of inubrix + 900 gp per Bulk.

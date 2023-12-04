@@ -11,6 +11,7 @@ name: Shatter Space
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Shatter Space <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Amp</span><span class="item-trait">Psychic</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 
 ---
 The sheer power of your magic fractures reality. Use this amp in place of a psi cantrip's normal amp entry. The cantrip must be one that takes 2 or more actions to cast.

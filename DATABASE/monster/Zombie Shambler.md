@@ -71,22 +71,22 @@ wisdom: '+0'
 # Zombie Shambler
 
 A zombie shambler is a slow-moving horror dangerous in larger groups.
-**Recall Knowledge - Undead ([[Religion]])**: DC 13
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 13
 **Unspecific Lore**: DC 11
 **Specific Lore**: DC 8
 
 # Zombie Shambler<span class="item-type">Creature -1</span>
 
 <span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Mindless</span><span class="item-trait">Undead</span><span class="item-trait">Zombie</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +0; darkvision
-**Skills** [[Athletics]] +5
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +5
 **Str** +3, **Dex** -2, **Con** +2, **Int** -5, **Wis** +0, **Cha** -2
 **Slow** A zombie is permanently slowed 1 and can’t use reactions.
 
 ---
 **AC** 12; **Fort** +6, **Ref** +0, **Will** +2
-**HP** 20 ([[Negative Healing]]); **Immunities** death effects, disease, mental, paralyzed, poison, unconscious; **Weaknesses** positive 5, slashing 5
+**HP** 20 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects, disease, mental, paralyzed, poison, unconscious; **Weaknesses** positive 5, slashing 5
 
 ---
 **Speed** 25 feet

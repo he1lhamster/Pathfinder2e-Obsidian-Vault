@@ -82,17 +82,17 @@ wisdom: '+3'
 # Flame Drake
 
 The distant kin of red dragons, flame drakes thankfully lack the intelligence and ambition of their larger cousins, but are no less territorial or violent. Flame drakes dwell near volcanoes and magma, but it’s not unheard of for one to drift into nearby areas like forests or wooded hills. Their scales are usually some shade of red, occasionally fading to smoky blacks and grays along the edges of their wings and the tips of their tails.
-**Recall Knowledge - Dragon ([[Arcana]])**: DC 20
+**Recall Knowledge - Dragon ([[DATABASE/skill/Arcana|Arcana]])**: DC 20
 **Unspecific Lore**: DC 18
 **Specific Lore**: DC 15
 
 # Flame Drake<span class="item-type">Creature 5</span>
 
 <span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Dragon</span><span class="item-trait">Fire</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +12; darkvision, scent (imprecise) 30 feet, smoke vision
-**Languages** [[Draconic]]
-**Skills** [[Acrobatics]] +10, [[Athletics]] +12, [[Stealth]] +9, [[Survival]] +10
+**Languages** [[DATABASE/language/Draconic|Draconic]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +10, [[DATABASE/skill/Athletics|Athletics]] +12, [[DATABASE/skill/Stealth|Stealth]] +9, [[DATABASE/skill/Survival|Survival]] +10
 **Str** +5, **Dex** +1, **Con** +3, **Int** -1, **Wis** +3, **Cha** +0
 **Smoke Vision** Smoke doesn’t impair a flame drake’s vision; it ignores concealment from smoke.
 

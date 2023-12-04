@@ -2,6 +2,7 @@
 id: '170'
 name: Chapter 1. A Call for Heroes
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source

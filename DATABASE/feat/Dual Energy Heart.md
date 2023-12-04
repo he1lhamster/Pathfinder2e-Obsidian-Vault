@@ -11,6 +11,7 @@ name: Dual Energy Heart
 prerequisite: '[[DATABASE/feat/Energy Heart|Energy Heart]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Dual Energy Heart <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Evolution</span><span class="item-trait">Summoner</span>
-**Source** [[Secrets of Magic]] 
-**Prerequisites** [[Energy Heart]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
+**Prerequisites** [[DATABASE/feat/Energy Heart|Energy Heart]]
 
 ---
 A second energy dwells in your eidolon. Choose an additional energy damage type. Your unarmed attack that deals energy damage gains the versatile trait for the second energy damage type, and your eidolon gains resistance to the second type of energy damage equal to half your level.

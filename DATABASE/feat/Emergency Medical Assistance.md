@@ -13,6 +13,7 @@ prerequisite: '[[DATABASE/feat/Swordmaster Dedication|Swordmaster Dedication]] ;
 rarity: Common
 requirement: An adjacent ally is suffering [[DATABASE/condition/Persistent Damage|persistent
   damage]] .
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
 subcategory: null
@@ -27,10 +28,10 @@ type: Feat
 # Emergency Medical Assistance <span class="action-icon">2</span> <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Manipulate</span><span class="item-trait">Skill</span>
-**Source** [[PFS Guide]]
-**Archetype** [[Swordmaster]]
-**Prerequisites** [[Swordmaster Dedication]]; master in [[Medicine]]
-**Requirements** An adjacent ally is suffering [[Persistent Damage]].
+**Source** [[DATABASE/source/PFS Guide|PFS Guide]]
+**Archetype** [[DATABASE/archetype/Swordmaster|Swordmaster]]
+**Prerequisites** [[DATABASE/feat/Swordmaster Dedication|Swordmaster Dedication]]; master in [[DATABASE/skill/Medicine|Medicine]]
+**Requirements** An adjacent ally is suffering [[DATABASE/condition/Persistent Damage|persistent damage]].
 
 ---
 You've learned a variety of methods for helping allies who are bleeding, burning, or otherwise suffering persistent damage, from brushing off acid to patting down fires. Your ally immediately attempts a flat check to remove all types of persistent damage, and your use of this feat automatically counts as especially effective aid, reducing the DC from 15 to 10 for all future flat checks to remove the persistent damage.

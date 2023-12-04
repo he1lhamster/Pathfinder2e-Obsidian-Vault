@@ -11,6 +11,7 @@ name: Impossible Technique
 prerequisite: null
 rarity: Common
 requirement: You are not armored or fatigued.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -25,7 +26,7 @@ type: Feat
 # Impossible Technique <span class="action-icon">5</span> <span class="item-type">Feat 20</span>
 
 <span class="item-trait">Fortune</span><span class="item-trait">Monk</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Trigger** An enemy’s attack hits you or you fail a saving throw against an enemy’s ability.
 **Requirements** You are not armored or fatigued.
 

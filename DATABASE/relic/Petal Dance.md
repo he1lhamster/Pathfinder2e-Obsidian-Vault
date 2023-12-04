@@ -5,6 +5,7 @@ item_category: Relics
 name: Petal Dance
 prerequisite: null
 rarity: Common
+rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
@@ -16,7 +17,7 @@ type: Relic Major Gift
 # Petal Dance<span class="item-type">Major Gift</span>
 
 <span class="item-trait">Plant</span><span class="item-trait">Transmutation</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Aspect** plant
 
 ---

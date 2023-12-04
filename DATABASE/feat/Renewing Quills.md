@@ -11,6 +11,7 @@ name: Renewing Quills
 prerequisite: '[[DATABASE/heritage/Quillcoat Shisk|Quillcoat Shisk]] heritage'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Renewing Quills <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Shisk</span>
-**Source** [[The Mwangi Expanse]] 
-**Prerequisites** [[Quillcoat Shisk]]
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]] 
+**Prerequisites** [[DATABASE/heritage/Quillcoat Shisk|Quillcoat Shisk]]
 
 ---
 Your spines grow back much faster than other shisks. You can use the Barbed Quills reaction once every 10 minutes.

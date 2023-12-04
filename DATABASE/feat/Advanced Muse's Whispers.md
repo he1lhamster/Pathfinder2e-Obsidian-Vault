@@ -11,6 +11,7 @@ name: Advanced Muse's Whispers
 prerequisite: '[[DATABASE/feat/Basic Muse''s Whispers|Basic Muse''s Whispers]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Advanced Muse's Whispers <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Bard]]
-**Prerequisites** [[Basic Muse's Whispers]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Bard|Bard]]
+**Prerequisites** [[DATABASE/feat/Basic Muse's Whispers|Basic Muse's Whispers]]
 
 ---
 You gain one bard feat. For the purpose of meeting its prerequisites, your bard level is equal to half your character level.

@@ -65,22 +65,22 @@ wisdom: '+1'
 # Daring Danika
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 26
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 26
 **Unspecific Lore**: DC 24
 **Specific Lore**: DC 21
 
 # Daring Danika<span class="item-type">Creature 2</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 151. The Show Must Go On]]
-Female [[Human]] lion-tamer
+**Source** [[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: The Show Must Go On]]
+Female [[DATABASE/ancestry/Human|human]] lion-tamer
 **Perception** +7
-**Skills** [[Athletics]] +6 (+7 to [[Disarm]]), [[Diplomacy]] +7, [[Intimidation]] +7, [[Nature]] +6, [[Performance]] +7
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +6 (+7 to [[DATABASE/action/Disarm|Disarm]]), [[DATABASE/skill/Diplomacy|Diplomacy]] +7, [[DATABASE/skill/Intimidation|Intimidation]] +7, [[DATABASE/skill/Nature|Nature]] +6, [[DATABASE/skill/Performance|Performance]] +7
 **Str** +0, **Dex** +3, **Con** +1, **Int** +1, **Wis** +1, **Cha** +3
-**Items** lion tamer's outfit, short stool, [[Whip]]
+**Items** lion tamer's outfit, short stool, [[DATABASE/weapon/Whip|whip]]
 
 ---
-**AC** 17; **Fort** +7, **Ref** +9, **Will** +7; +2 circumstance vs. [[Disarm]]
+**AC** 17; **Fort** +7, **Ref** +9, **Will** +7; +2 circumstance vs. [[DATABASE/action/Disarm|Disarm]]
 **HP** 30
 
 ---

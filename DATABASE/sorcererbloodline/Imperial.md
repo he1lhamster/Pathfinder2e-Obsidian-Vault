@@ -3,6 +3,7 @@ bloodline: Imperial
 id: '9'
 name: Imperial
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 spell:
 - '[[DATABASE/spell/Ancestral Memories|Ancestral Memories]]'
@@ -24,10 +25,10 @@ type: Sorcerer Bloodline
 ---
 # Imperial
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 One of your ancestors was a mortal who mastered magic. Such magical blood can remain latent for generations, but in you it manifested in full.
 **Spell List** arcane
-**Bloodline Skills** [[Arcana]], [[Society]]
-**Granted Spells** cantrip: [[Detect Magic]], 1st: [[Magic Missile]], 2nd: [[Dispel Magic]], 3rd: [[Haste]], 4th: [[Dimension Door]], 5th: [[Prying Eye]], 6th: [[Disintegrate]], 7th: [[Prismatic Spray]], 8th: [[Maze]], 9th: [[Prismatic Sphere]]
-**Bloodline Spells** initial: [[Ancestral Memories]], advanced: [[Extend Spell]], greater: [[Arcane Countermeasure]]
+**Bloodline Skills** [[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Society|Society]]
+**Granted Spells** cantrip: [[DATABASE/spell/Detect Magic|detect magic]], 1st: [[DATABASE/spell/Magic Missile|magic missile]], 2nd: [[DATABASE/spell/Dispel Magic|dispel magic]], 3rd: [[DATABASE/spell/Haste|haste]], 4th: [[DATABASE/spell/Dimension Door|dimension door]], 5th: [[DATABASE/spell/Prying Eye|prying eye]], 6th: [[DATABASE/spell/Disintegrate|disintegrate]], 7th: [[DATABASE/spell/Prismatic Spray|prismatic spray]], 8th: [[DATABASE/spell/Maze|maze]], 9th: [[DATABASE/spell/Prismatic Sphere|prismatic sphere]]
+**Bloodline Spells** initial: [[DATABASE/spell/Ancestral Memories|ancestral memories]], advanced: [[DATABASE/spell/Extend Spell|extend spell]], greater: [[DATABASE/spell/Arcane Countermeasure|arcane countermeasure]]
 **Blood Magic** A surge of ancestral memories grants you or one target a +1 status bonus to skill checks for 1 round.

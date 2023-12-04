@@ -2,6 +2,7 @@
 id: '120'
 name: March of the Dead
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source

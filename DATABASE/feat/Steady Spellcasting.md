@@ -11,6 +11,7 @@ name: Steady Spellcasting
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -30,11 +31,11 @@ type: Feat
 # Steady Spellcasting <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Bard</span><span class="item-trait">Cleric</span><span class="item-trait">Druid</span><span class="item-trait">Oracle</span><span class="item-trait">Psychic</span><span class="item-trait">Sorcerer</span><span class="item-trait">Witch</span><span class="item-trait">Wizard</span>
-**Source** [[Dark Archive]], [[Core Rulebook]] , [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]], [[DATABASE/source/Core Rulebook|Core Rulebook]] , [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
 Confident in your technique, you don’t easily lose your concentration when you Cast a Spell. If a reaction would disrupt your spellcasting action, attempt a DC 15 flat check. If you succeed, your action isn’t disrupted.
 
 ## Steady Spellcasting Leads To...
 
-[[Ward Casting]]
+[[DATABASE/feat/Ward Casting|Ward Casting]]

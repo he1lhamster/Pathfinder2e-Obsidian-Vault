@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -55,9 +56,9 @@ weapon_type: null
 # Bitter<span class="item-type">Item 9</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Magical</span><span class="item-trait">Poison</span><span class="item-trait">Transmutation</span>
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 135 gp
 **Usage** etched onto armor; **Bulk** —
 
 ---
-While you wear this acrid armor, any creature that [[Engulf]] you or [[Swallow Whole]] is [[Sickened]]; if it spends an action retching to reduce the sickened condition, you can attempt to [[Escape]] as a reaction.
+While you wear this acrid armor, any creature that [[DATABASE/monsterability/Engulf|Engulfs]] you or [[DATABASE/monsterability/Swallow Whole|Swallows you Whole]] is [[DATABASE/condition/Sickened|sickened 1]]; if it spends an action retching to reduce the sickened condition, you can attempt to [[DATABASE/action/Escape|Escape]] as a reaction.

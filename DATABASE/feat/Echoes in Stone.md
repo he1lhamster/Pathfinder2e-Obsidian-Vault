@@ -11,6 +11,7 @@ name: Echoes in Stone
 prerequisite: null
 rarity: Common
 requirement: You are standing on a stone or earthen surface.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Echoes in Stone <span class="action-icon">1</span> <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Dwarf</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Requirements** You are standing on a stone or earthen surface.
 
 ---
@@ -38,4 +39,4 @@ An action with this trait requires a degree of mental concentration and discipli
 
 **Dwarf:**
 
-A creature with this trait is a member of the dwarf ancestry. Dwarves are stout folk who often live underground and typically have [[Darkvision]]. An ability with this trait can be used or selected only by dwarves. An item with this trait is created and used by dwarves.
+A creature with this trait is a member of the dwarf ancestry. Dwarves are stout folk who often live underground and typically have [[DATABASE/monsterability/Darkvision|darkvision]]. An ability with this trait can be used or selected only by dwarves. An item with this trait is created and used by dwarves.

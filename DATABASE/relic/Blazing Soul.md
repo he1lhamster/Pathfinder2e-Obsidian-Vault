@@ -5,6 +5,7 @@ item_category: Relics
 name: Blazing Soul
 prerequisite: null
 rarity: Common
+rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
@@ -16,7 +17,7 @@ type: Relic Grand Gift
 # Blazing Soul<span class="item-type">Grand Gift</span>
 
 <span class="item-trait">Evocation</span><span class="item-trait">Fire</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Aspect** fire
 
 ---

@@ -11,6 +11,7 @@ name: Revivification Protocol
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -24,12 +25,12 @@ type: Feat
 # Revivification Protocol <span class="action-icon">4</span> <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Android</span>
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 **Frequency** once per day
-**Trigger** You have the [[Dying]] condition and are about to attempt a recovery check.
+**Trigger** You have the [[DATABASE/condition/Dying|dying]] condition and are about to attempt a recovery check.
 
 ---
-Your nanites are programmed to automatically revive you. You're restored to 1 Hit Point, lose the dying and [[Unconscious]] conditions, and can act normally on this turn. You gain or increase the [[Wounded]] condition as normal when losing the dying condition in this way.
+Your nanites are programmed to automatically revive you. You're restored to 1 Hit Point, lose the dying and [[DATABASE/condition/Unconscious|unconscious]] conditions, and can act normally on this turn. You gain or increase the [[DATABASE/condition/Wounded|wounded]] condition as normal when losing the dying condition in this way.
 
 ## Traits
 

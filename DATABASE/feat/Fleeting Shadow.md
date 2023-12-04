@@ -11,6 +11,7 @@ name: Fleeting Shadow
 prerequisite: '[[DATABASE/feat/Scout Dedication|Scout Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,12 +25,12 @@ type: Feat
 # Fleeting Shadow <span class="action-icon">2</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Flourish</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Scout]]
-**Prerequisites** [[Scout Dedication]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Scout|Scout]]
+**Prerequisites** [[DATABASE/feat/Scout Dedication|Scout Dedication]]
 
 ---
-You're able to quickly disappear and then move about stealthily. You [[Hide]], then [[Sneak]] twice.
+You're able to quickly disappear and then move about stealthily. You [[DATABASE/action/Hide|Hide]], then [[DATABASE/action/Sneak|Sneak]] twice.
 
 ## Traits
 

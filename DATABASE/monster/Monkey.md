@@ -63,16 +63,16 @@ wisdom: '+2'
 # Monkey
 
 When these small, curious primates come in contact with large humanoid populations, they quickly adapt, learning to steal food or small objects before retreating to the nearest tree branch with their prize.
-**Recall Knowledge - Animal ([[Nature]])**: DC 13
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 13
 **Unspecific Lore**: DC 11
 **Specific Lore**: DC 8
 
 # Monkey<span class="item-type">Creature -1</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Tiny</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary 3]]
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
 **Perception** +6
-**Skills** [[Acrobatics]] +5, [[Thievery]] +5
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +5, [[DATABASE/skill/Thievery|Thievery]] +5
 **Str** +0, **Dex** +3, **Con** +0, **Int** -4, **Wis** +2, **Cha** +0
 
 ---
@@ -81,4 +81,4 @@ When these small, curious primates come in contact with large humanoid populatio
 
 ---
 **Speed** 25 feet, climb 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +7 [+3/-1] (agile, finesse), **Damage** 1d6 piercing</span><span class="in-box-ability">**Grab and Go** <span class="action-icon">2</span> The monkey Strides or Climbs up to its Speed. At any point during this movement, it can Interact to take a single unattended item of light Bulk or less that it can see from a square it moves through or is adjacent to. Alternatively, if not in combat, during this movement it can attempt to [[Steal]] from an adjacent creature.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +7 [+3/-1] (agile, finesse), **Damage** 1d6 piercing</span><span class="in-box-ability">**Grab and Go** <span class="action-icon">2</span> The monkey Strides or Climbs up to its Speed. At any point during this movement, it can Interact to take a single unattended item of light Bulk or less that it can see from a square it moves through or is adjacent to. Alternatively, if not in combat, during this movement it can attempt to [[DATABASE/action/Steal|Steal]] from an adjacent creature.</span>

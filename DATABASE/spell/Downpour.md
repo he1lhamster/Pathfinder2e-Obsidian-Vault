@@ -22,6 +22,7 @@ patron_theme: null
 range: 120 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -39,14 +40,14 @@ type: Focus
 # Downpour<span class="item-type">Focus 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Cleric</span><span class="item-trait">Evocation</span><span class="item-trait">Water</span>
-**Source** [[Core Rulebook]] 
-**Domain** [[Water Domain]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Domain** [[DATABASE/domain/Water Domain|water]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 120 feet; **Area** 30-foot burst
 **Duration** 1 minute
 
 ---
-You call forth a torrential downpour, which extinguishes nonmagical flames. Creatures in the area are [[Concealed]] and gain fire resistance 10. Creatures outside the area are concealed to those inside the area. Creatures with weakness to water that end their turns in the area take damage equal to their weakness.
+You call forth a torrential downpour, which extinguishes nonmagical flames. Creatures in the area are [[DATABASE/condition/Concealed|concealed]] and gain fire resistance 10. Creatures outside the area are concealed to those inside the area. Creatures with weakness to water that end their turns in the area take damage equal to their weakness.
 
 ---
 **Heightened (+1)** The fire resistance increases by 2.

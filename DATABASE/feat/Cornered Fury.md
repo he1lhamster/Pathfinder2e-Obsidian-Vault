@@ -11,6 +11,7 @@ name: Cornered Fury
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Cornered Fury <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Ratfolk</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-When physically outmatched, you fight with unexpected ferocity. If a foe of a larger size than you critically hits and damages you, that foe is [[Flat-Footed]] to you for 1 round.
+When physically outmatched, you fight with unexpected ferocity. If a foe of a larger size than you critically hits and damages you, that foe is [[DATABASE/condition/Flat-Footed|flat-footed]] to you for 1 round.
 
 ## Traits
 

@@ -18,6 +18,7 @@ language:
 max_speed: '25'
 name: Goblin
 rarity: Common
+rus_type_level: null
 size: Small
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 speed:
@@ -32,7 +33,7 @@ vision: Darkvision
 # Goblin
 
 <span class="item-trait">Goblin</span><span class="item-trait">Humanoid</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 _The convoluted histories other people cling to don’t interest goblins. These small folk live in the moment, and they prefer tall tales over factual records. The wars of a few decades ago might as well be from the ancient past. Misunderstood by other people, goblins are happy how they are. Goblin virtues are about being present, creative, and honest. They strive to lead fulfilled lives, rather than worrying about how their journeys will end. To tell stories, not nitpick the facts. To be small, but dream big._
 Goblins have a reputation as simple creatures who love songs, fire, and eating disgusting things and who hate reading, dogs, and horses—and there are a great many for whom this description fits perfectly. However, great changes have come to goblinkind, and more and more goblins resist conformity to these stereotypes. Even among goblins that are more worldly, many still exemplify their old ways in some small manner, just to a more sensible degree. Some goblins remain deeply fascinated with fire or fearlessly devour a meal that might turn others’ stomachs. Others are endless tinkerers and view their companions’ trash as the components of gadgets yet to be made.
  Though goblins’ culture has splintered radically, their reputation has changed little. As such, goblins who travel to larger cities are frequently subjected to derision, and many work twice as hard at proving their worth.
@@ -62,12 +63,12 @@ Goblins tend to flock to strong leaders, forming small tribes. These tribes rare
 
 ## Alignment and Religion
 
-Even well-intentioned goblins have trouble following the rules, meaning they’re rarely lawful. Most goblin adventurers are chaotic neutral or chaotic good. Organized worship confounds goblins, and most of them would rather pick their own deities, choosing powerful monsters, natural wonders, or anything else they find fascinating. Longshanks might have books upon books about the structures of divinity, but to a goblin, anything can be a god if you want it to. Goblins who spend time around people of other ancestries might adopt some of their beliefs, though, and many goblin adventurers adopt the worship of [[Cayden Cailean]].
+Even well-intentioned goblins have trouble following the rules, meaning they’re rarely lawful. Most goblin adventurers are chaotic neutral or chaotic good. Organized worship confounds goblins, and most of them would rather pick their own deities, choosing powerful monsters, natural wonders, or anything else they find fascinating. Longshanks might have books upon books about the structures of divinity, but to a goblin, anything can be a god if you want it to. Goblins who spend time around people of other ancestries might adopt some of their beliefs, though, and many goblin adventurers adopt the worship of [[DATABASE/deity/Cayden Cailean|Cayden Cailean]].
 
 ## Adventurers
 
 To some degree, almost every goblin is an adventurer, surviving life on the edge using skill and wits. Goblins explore and hunt for treasures by nature, though some become true adventurers in their own rights, often after being separated from their group or tribe.
- Goblins often have the [[Acrobat]], [[Criminal]], [[Entertainer]], [[Gladiator]], [[Hunter]], and [[Street Urchin]] backgrounds. Consider playing an [[Alchemist]], since many goblins love fire, or a [[Bard]], since many goblins love songs. As scrappy survivors, goblins are often [[Rogue]] who dart about the shadows, though their inherently charismatic nature also draws them to the pursuit of magical classes such as [[Sorcerer]].
+ Goblins often have the [[DATABASE/background/Acrobat|acrobat]], [[DATABASE/background/Criminal|criminal]], [[DATABASE/background/Entertainer|entertainer]], [[DATABASE/background/Gladiator|gladiator]], [[DATABASE/background/Hunter|hunter]], and [[DATABASE/background/Street Urchin|street urchin]] backgrounds. Consider playing an [[DATABASE/class_/Alchemist|alchemist]], since many goblins love fire, or a [[DATABASE/class_/Bard|bard]], since many goblins love songs. As scrappy survivors, goblins are often [[DATABASE/class_/Rogue|rogues]] who dart about the shadows, though their inherently charismatic nature also draws them to the pursuit of magical classes such as [[DATABASE/class_/Sorcerer|sorcerer]].
 
 ## Names
 
@@ -103,9 +104,9 @@ Wisdom
 
 ## Languages
 
-[[Common]]
-[[Goblin]]
-Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[Draconic]], [[Dwarven]], [[Gnoll]], [[Gnomish]], [[Halfling]], [[Orcish]], and any other languages to which you have access (such as the languages prevalent in your region).
+[[DATABASE/language/Common|Common]]
+[[DATABASE/language/Goblin|Goblin]]
+Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Dwarven|Dwarven]], [[DATABASE/language/Gnoll|Gnoll]], [[DATABASE/language/Gnomish|Gnomish]], [[DATABASE/language/Halfling|Halfling]], [[DATABASE/language/Orcish|Orcish]], and any other languages to which you have access (such as the languages prevalent in your region).
 
 ## Darkvision
 

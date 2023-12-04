@@ -11,6 +11,7 @@ name: Solar Detonation
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -29,10 +30,10 @@ type: Feat
 # Solar Detonation <span class="action-icon">3</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Fire</span><span class="item-trait">Impulse</span><span class="item-trait">Incapacitation</span><span class="item-trait">Kineticist</span><span class="item-trait">Overflow</span><span class="item-trait">Primal</span><span class="item-trait">Vitality</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
-Blinding flames explode in a swirling sphere! The detonation fills a 20-foot burst within 60 feet of you. Each creature in the area takes 6d6 fire damage, plus 2d6 vitality damage if it has void healing, and can become [[Dazzled]] or [[Blinded]] depending on the result of its Reflex save. The light from Solar Detonation is sunlight for creatures with a particular vulnerability to sunlight. Each creature that attempts a save becomes temporarily immune to being dazzled or blinded by Solar Detonation for 10 minutes, but not the impulse's other effects.
+Blinding flames explode in a swirling sphere! The detonation fills a 20-foot burst within 60 feet of you. Each creature in the area takes 6d6 fire damage, plus 2d6 vitality damage if it has void healing, and can become [[DATABASE/condition/Dazzled|dazzled]] or [[DATABASE/condition/Blinded|blinded]] depending on the result of its Reflex save. The light from Solar Detonation is sunlight for creatures with a particular vulnerability to sunlight. Each creature that attempts a save becomes temporarily immune to being dazzled or blinded by Solar Detonation for 10 minutes, but not the impulse's other effects.
 **Critical Success** The creature is unaffected.
 **Success** The creature takes half damage and is dazzled until the start of your next turn.
 **Failure** The creature takes full damage and is blinded until the start of your next turn.
@@ -57,7 +58,7 @@ An ability with this trait can take a character completely out of the fight or e
 
 **Overflow:**
 
-Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
+Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[DATABASE/action/Channel Elements|Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
 
 **Primal:**
 

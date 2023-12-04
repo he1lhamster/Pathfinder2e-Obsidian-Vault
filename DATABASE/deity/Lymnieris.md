@@ -23,6 +23,7 @@ follower_alignment:
 id: '124'
 name: Lymnieris
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Society|Society]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -32,7 +33,7 @@ type: Deity
 ---
 # Lymnieris (The Auroral Tower) [LG]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Category** Empyreal Lords
 **Edicts** Help others achieve their desires, aid and protect sex workers, help others through difficult transitions
 **Anathema** Persecute sex workers, force or support unwanted marriages
@@ -40,9 +41,9 @@ type: Deity
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Wisdom or Charisma
-**Divine Font** _[[Heal]]_
-**Divine Skill** [[Society]]
-**Favored Weapon** [[Longsword]]
-**Domains** [[Change Domain]], [[Passion Domain]], [[Protection Domain]], [[Repose Domain]]
-**Cleric Spells** 1st: _[[Mage Armor]]_, 3rd: _[[Threefold Aspect]]_, 4th: _[[Resilient Sphere]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Wisdom or Charisma
+**Divine Font** _[[DATABASE/spell/Heal|heal]]_
+**Divine Skill** [[DATABASE/skill/Society|Society]]
+**Favored Weapon** [[DATABASE/weapon/Longsword|longsword]]
+**Domains** [[DATABASE/domain/Change Domain|change]], [[DATABASE/domain/Passion Domain|passion]], [[DATABASE/domain/Protection Domain|protection]], [[DATABASE/domain/Repose Domain|repose]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Mage Armor|mage armor]]_, 3rd: _[[DATABASE/spell/Threefold Aspect|threefold aspect]]_, 4th: _[[DATABASE/spell/Resilient Sphere|resilient sphere]]_

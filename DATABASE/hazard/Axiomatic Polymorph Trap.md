@@ -14,6 +14,7 @@ name: Axiomatic Polymorph Trap
 rarity: Common
 reflex: null
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 156. The Apocalypse Prophet|Pathfinder #156:
   The Apocalypse Prophet]]'
@@ -28,14 +29,14 @@ will: null
 # Axiomatic Polymorph Trap<span class="item-type">Hazard 20</span>
 
 <span class="item-trait">Magical</span><span class="item-trait">Trap</span>
-**Source** [[Pathfinder 156. The Apocalypse Prophet]]
+**Source** [[DATABASE/source/Pathfinder 156. The Apocalypse Prophet|Pathfinder #156: The Apocalypse Prophet]]
 **Complexity** Simple
 **Stealth** DC 47 (master)
-**Description** A [[Utopian]] glyph transforms trespassers into aeons.
+**Description** A [[DATABASE/language/Utopian|Utopian]] glyph transforms trespassers into aeons.
 
 ---
-**Disable** DC 48 [[Thievery]] (master) to drain the glyph's power harmlessly, or [[Dispel Magic]] (9th level; counteract DC 42) to counteract the glyph
-**Axiomatic Polymorph** <span class="action-icon">5</span> (divine, transmutation); **Trigger** A creature moves within 10 feet of the entryway to the Hall of Wonders (area N4) without speaking the passphrase (“The History and Future of Humanity”) in Utopian; **Effect** Each creature within 20 feet of the door is targeted by [[Baleful Polymorph]] (DC 42 Will save), except the effect transforms creatures into the form of an [[Arbiter]] rather than that of an animal.
+**Disable** DC 48 [[DATABASE/skill/Thievery|Thievery]] (master) to drain the glyph's power harmlessly, or [[DATABASE/spell/Dispel Magic|dispel magic]] (9th level; counteract DC 42) to counteract the glyph
+**Axiomatic Polymorph** <span class="action-icon">5</span> (divine, transmutation); **Trigger** A creature moves within 10 feet of the entryway to the Hall of Wonders (area N4) without speaking the passphrase (“The History and Future of Humanity”) in Utopian; **Effect** Each creature within 20 feet of the door is targeted by [[DATABASE/spell/Baleful Polymorph|baleful polymorph]] (DC 42 Will save), except the effect transforms creatures into the form of an [[DATABASE/monster/Arbiter|arbiter aeon]] rather than that of an animal.
 
 ---
 **Reset** 1 hour

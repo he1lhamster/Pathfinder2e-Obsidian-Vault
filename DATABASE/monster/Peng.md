@@ -91,31 +91,31 @@ wisdom: '+5'
 # Peng
 
 Pengs are massive avian beasts who fly effortlessly among the highest clouds. Their bright plumage makes it difficult to see their shape against an azure sky, but with patience, an onlooker might notice movement too swift to be a natural cloud.
- Beautiful and graceful, pengs arise from the unlikeliest of origins: the cruel [[Kun]], a hateful fish monster whose predilection for the crushing depths of the sea matches the peng's own love of the bright, open sky. After a kun sacrifices their power for a noble heart by bathing in the sun's rays, they transform into this majestic bird, which eschews violence unless they must fight to stay free. Pengs do not seek danger or thrills; they want only to make their long voyages and fly without disruption.
+ Beautiful and graceful, pengs arise from the unlikeliest of origins: the cruel [[DATABASE/monster/Kun|kun]], a hateful fish monster whose predilection for the crushing depths of the sea matches the peng's own love of the bright, open sky. After a kun sacrifices their power for a noble heart by bathing in the sun's rays, they transform into this majestic bird, which eschews violence unless they must fight to stay free. Pengs do not seek danger or thrills; they want only to make their long voyages and fly without disruption.
  A peng's calm and steady nature is so strong that its mere presence can quell storms and still winds. Mariners and pilots believe spotting a peng is a sign of good luck. When the sky is clear and blue and the weather gentle for an extended period, people attribute such fine conditions to the presence of an unseen peng.
-**Recall Knowledge - Beast ([[Arcana]], [[Nature]])**: DC 35
+**Recall Knowledge - Beast ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 35
 **Unspecific Lore**: DC 33
 **Specific Lore**: DC 30
 
 # Peng<span class="item-type">Creature 12</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">NG</span><span class="trait-size item-trait">Gargantuan</span><span class="item-trait">Air</span><span class="item-trait">Beast</span><span class="item-trait">Cold</span>
-**Source** [[Pathfinder 167. Ready Fight!]]
+**Source** [[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]
 **Perception** +25
-**Languages** [[Auran]], [[Common]]
-**Skills** [[Acrobatics]] +23, [[Athletics]] +22, [[Nature]] +25
+**Languages** [[DATABASE/language/Auran|Auran]], [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +23, [[DATABASE/skill/Athletics|Athletics]] +22, [[DATABASE/skill/Nature|Nature]] +25
 **Str** +4, **Dex** +6, **Con** +5, **Int** +3, **Wis** +5, **Cha** +7
 **Heaven's View** Clouds don't impair a peng's vision.
 
 ---
 **AC** 32; **Fort** +23, **Ref** +24, **Will** +23
 **HP** 200; **Resistances** cold 10; **Weaknesses** evil 10
-<span class="in-box-ability">**Calm Weather Aura** (air, aura, evocation, primal) 1 mile. The ambient weather around a peng is always lightly cloudy with a pleasant breeze, and the temperature is pleasantly warm for the season. A creature that attempts to alter the weather within this aura (such as with a [[Control Weather]] ritual or localized effect like [[Gust of Wind]]) must succeed at a DC 33 Will save; otherwise the effect is disrupted. The peng can activate or deactivate this aura as a single action (this action has the concentrate trait).</span>
+<span class="in-box-ability">**Calm Weather Aura** (air, aura, evocation, primal) 1 mile. The ambient weather around a peng is always lightly cloudy with a pleasant breeze, and the temperature is pleasantly warm for the season. A creature that attempts to alter the weather within this aura (such as with a [[DATABASE/ritual/Control Weather|control weather]] ritual or localized effect like [[DATABASE/spell/Gust of Wind|gust of wind]]) must succeed at a DC 33 Will save; otherwise the effect is disrupted. The peng can activate or deactivate this aura as a single action (this action has the concentrate trait).</span>
 
 ---
 **Speed** 10 feet, fly 70 feet; windslice
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> beak +22 [+17/+12] (reach 10 feet), **Damage** 3d8+10 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> talon +22 [+18/+14] (agile), **Damage** 3d6+10 slashing</span>**Primal Innate Spells** DC 31; **5th** _[[Cone of Cold]]_, _[[Gust of Wind]]_ (at will), _[[Wall of Wind]]_ (at will)
-<span class="in-box-ability">**Cloud Cover** <span class="action-icon">1</span> (air, evocation, primal) The peng exhales a thick cloud and envelops themself in the mist. The peng gains cover until the end of their next turn.</span><span class="in-box-ability">**Flap Wings** <span class="action-icon">2</span> The peng beats its wings to create a mighty burst of frosty air and push away foes. Each creature within 10 feet of the peng takes 3d6 bludgeoning and 3d6 cold damage (DC 32 basic Reflex save). Creatures that fail their save are pushed away 10 feet; creatures that critically fail are pushed away 20 feet and knocked [[Prone]]. The peng can't Flap Wings again for 1d4 rounds.</span><span class="in-box-ability">**Windslice** Pengs can move in any wind with easy grace. A peng ignores difficult terrain caused by wind and doesn't need to [[Maneuver in Flight]] in high winds.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> beak +22 [+17/+12] (reach 10 feet), **Damage** 3d8+10 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> talon +22 [+18/+14] (agile), **Damage** 3d6+10 slashing</span>**Primal Innate Spells** DC 31; **5th** _[[DATABASE/spell/Cone of Cold|cone of cold]]_, _[[DATABASE/spell/Gust of Wind|gust of wind]]_ (at will), _[[DATABASE/spell/Wall of Wind|wall of wind]]_ (at will)
+<span class="in-box-ability">**Cloud Cover** <span class="action-icon">1</span> (air, evocation, primal) The peng exhales a thick cloud and envelops themself in the mist. The peng gains cover until the end of their next turn.</span><span class="in-box-ability">**Flap Wings** <span class="action-icon">2</span> The peng beats its wings to create a mighty burst of frosty air and push away foes. Each creature within 10 feet of the peng takes 3d6 bludgeoning and 3d6 cold damage (DC 32 basic Reflex save). Creatures that fail their save are pushed away 10 feet; creatures that critically fail are pushed away 20 feet and knocked [[DATABASE/condition/Prone|prone]]. The peng can't Flap Wings again for 1d4 rounds.</span><span class="in-box-ability">**Windslice** Pengs can move in any wind with easy grace. A peng ignores difficult terrain caused by wind and doesn't need to [[DATABASE/action/Maneuver in Flight|Maneuver in Flight]] in high winds.</span>
 
 ###  Clear Direction
 

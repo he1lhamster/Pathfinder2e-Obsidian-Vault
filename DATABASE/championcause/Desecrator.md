@@ -3,6 +3,7 @@ alignment: NE
 id: '5'
 name: Desecrator
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 trait: null
 type: Champion Cause
@@ -10,17 +11,17 @@ type: Champion Cause
 ---
 # Desecrator [Neutral Evil]
 
-**Source** [[Advanced Player's Guide]] 
-You always take what pleases you, no matter who it hurts, and you spread the influence of evil across all you touch. You gain the Selfish Shield champion's reaction and the [[Touch of Corruption]] devotion spell. After the tenets of evil, add this tenet.
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+You always take what pleases you, no matter who it hurts, and you spread the influence of evil across all you touch. You gain the Selfish Shield champion's reaction and the [[DATABASE/spell/Touch of Corruption|touch of corruption]] devotion spell. After the tenets of evil, add this tenet.
 
 * Subvert or corrupt everything in your path that is pure and good, and sow doubt among those upholding such ideals.
 
 ## Champion's Reaction
 
-### [[Selfish Shield]] <span class="action-icon">5</span>
+### [[DATABASE/action/Selfish Shield|Selfish Shield]] <span class="action-icon">5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Champion</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Trigger** An enemy within 15 feet damages you.
 
 ---

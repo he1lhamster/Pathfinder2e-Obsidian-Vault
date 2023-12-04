@@ -11,6 +11,7 @@ name: Hardwood Armor
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -26,11 +27,11 @@ type: Feat
 # Hardwood Armor <span class="action-icon">1</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Primal</span><span class="item-trait">Wood</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
-Wood and bark grow over your body like armor. This hardwood armor is medium armor but uses your highest armor proficiency. The wooden armor's statistics are: _AC Bonus_ +3; _Dex Cap_ +2; _Check Penalty_ –2; _Speed Penalty_ –5 feet; _Strength_ 14; _Bulk_ 1; _Group_ [[Wood]]. Any bonuses, runes, and magical abilities of your actual armor are suppressed, but any runes that could apply to the hardwood armor are replicated onto it.
- When you use this impulse, you can also create a wooden shield in a free hand. You can [[Shield Block]] with this shield even if you don't have that feat. The hand wielding this shield counts as a free hand for using impulses. The shield decays in an instant if it becomes [[Broken]] or leaves your grasp.
+Wood and bark grow over your body like armor. This hardwood armor is medium armor but uses your highest armor proficiency. The wooden armor's statistics are: _AC Bonus_ +3; _Dex Cap_ +2; _Check Penalty_ –2; _Speed Penalty_ –5 feet; _Strength_ 14; _Bulk_ 1; _Group_ [[DATABASE/armorgroup/Wood|wood]]. Any bonuses, runes, and magical abilities of your actual armor are suppressed, but any runes that could apply to the hardwood armor are replicated onto it.
+ When you use this impulse, you can also create a wooden shield in a free hand. You can [[DATABASE/feat/Shield Block|Shield Block]] with this shield even if you don't have that feat. The hand wielding this shield counts as a free hand for using impulses. The shield decays in an instant if it becomes [[DATABASE/condition/Broken|broken]] or leaves your grasp.
  The armor lasts for 10 minutes, and you can Dismiss this impulse. If you use this impulse again, any existing one ends.
 
 ---

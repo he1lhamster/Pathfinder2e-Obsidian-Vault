@@ -71,22 +71,22 @@ wisdom: '+0'
 # Zombie Brute
 
 Necromantic augmentations have granted this zombie increased size and power.
-**Recall Knowledge - Undead ([[Religion]])**: DC 16
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
 # Zombie Brute<span class="item-type">Creature 2</span>
 
 <span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Mindless</span><span class="item-trait">Undead</span><span class="item-trait">Zombie</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +4; darkvision
-**Skills** [[Athletics]] +9
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +9
 **Str** +5, **Dex** -3, **Con** +4, **Int** -5, **Wis** +0, **Cha** -2
 **Slow** A zombie is permanently slowed 1 and can’t use reactions.
 
 ---
 **AC** 15; **Fort** +10, **Ref** +3, **Will** +6
-**HP** 70 ([[Negative Healing]]); **Immunities** death effects, disease, mental, paralyzed, poison, unconscious; **Weaknesses** positive 10, slashing 10
+**HP** 70 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects, disease, mental, paralyzed, poison, unconscious; **Weaknesses** positive 10, slashing 10
 
 ---
 **Speed** 25 feet

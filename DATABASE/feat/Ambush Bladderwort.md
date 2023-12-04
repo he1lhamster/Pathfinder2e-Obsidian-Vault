@@ -11,6 +11,7 @@ name: Ambush Bladderwort
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -29,10 +30,10 @@ type: Feat
 # Ambush Bladderwort <span class="action-icon">3</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Composite</span><span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Plant</span><span class="item-trait">Primal</span><span class="item-trait">Water</span><span class="item-trait">Wood</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
-You plant the seed of a giant bladderwort in an unoccupied square of ground or water within 30 feet. It lasts for 10 minutes. Using this impulse again ends any previous one. If a creature enters its square, the seed erupts into a voluminous, translucent plant that seals tight around the triggering creature and fills with water. Unless the creature succeeds at a Reflex save against your class DC, it's [[Immobilized]] within the bladderwort and must hold its breath or begin drowning. The [[Escape]] DC is also your class DC. The plant has AC 10 and 50 Hit Points.
+You plant the seed of a giant bladderwort in an unoccupied square of ground or water within 30 feet. It lasts for 10 minutes. Using this impulse again ends any previous one. If a creature enters its square, the seed erupts into a voluminous, translucent plant that seals tight around the triggering creature and fills with water. Unless the creature succeeds at a Reflex save against your class DC, it's [[DATABASE/condition/Immobilized|immobilized]] within the bladderwort and must hold its breath or begin drowning. The [[DATABASE/action/Escape|Escape]] DC is also your class DC. The plant has AC 10 and 50 Hit Points.
  If a creature dies inside it, the plant shrinks down, converting itself and the remains into a watery fruit. A creature can eat this consumable to regain 1d8+4 HP, after which that creature is temporarily immune for 10 minutes. This fruit rots after 1 hour.
 
 ---

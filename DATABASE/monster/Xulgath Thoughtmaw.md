@@ -102,36 +102,36 @@ wisdom: '+5'
 # Xulgath Thoughtmaw
 
 Xulgath thoughtmaws are inheritors of the xulgaths' ancient psychic legacy. They eagerly and liberally use their ability to extract knowledge from their foes to quicken their own prodigious intellects.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 39
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 39
 **Unspecific Lore**: DC 37
 **Specific Lore**: DC 34
 
 # Xulgath Thoughtmaw<span class="item-type">Creature 15</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Amphibious</span><span class="item-trait">Humanoid</span><span class="item-trait">Xulgath</span>
-**Source** [[Pathfinder 156. The Apocalypse Prophet]]
-**Perception** +30; [[Darkvision]], thoughtsense (imprecise) 60 feet
-**Languages** [[Draconic]], [[Undercommon]]; [[Telepathy]] 100 feet
-**Skills** [[Acrobatics]] +25, [[Arcana]] +27, [[Deception]] +29, [[Diplomacy]] +27, [[Intimidation]] +29, [[Occultism]] +31, [[Society]] +27, [[Lore]] +31
+**Source** [[DATABASE/source/Pathfinder 156. The Apocalypse Prophet|Pathfinder #156: The Apocalypse Prophet]]
+**Perception** +30; [[DATABASE/monsterability/Darkvision|darkvision]], thoughtsense (imprecise) 60 feet
+**Languages** [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Undercommon|Undercommon]]; [[DATABASE/monsterability/Telepathy|telepathy]] 100 feet
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +25, [[DATABASE/skill/Arcana|Arcana]] +27, [[DATABASE/skill/Deception|Deception]] +29, [[DATABASE/skill/Diplomacy|Diplomacy]] +27, [[DATABASE/skill/Intimidation|Intimidation]] +29, [[DATABASE/skill/Occultism|Occultism]] +31, [[DATABASE/skill/Society|Society]] +27, [[DATABASE/skill/Lore|Xulgath Lore]] +31
 **Str** +4, **Dex** +6, **Con** +4, **Int** +8, **Wis** +5, **Cha** +6
 **Thoughtsense** (divination, mental, occult) The thoughtmaw senses a creature's mental essence at the listed range.
-**Items** _+2 [[Striking]] [[Spear]]_, _+2 [[Resilient]] [[Leather Armor]]_
+**Items** _+2 [[DATABASE/equipment/Striking|striking]] [[DATABASE/weapon/Spear|spear]]_, _+2 [[DATABASE/equipment/Resilient|resilient]] [[DATABASE/armor/Leather Armor|leather armor]]_
 
 ---
 **AC** 36; **Fort** +23, **Ref** +26, **Will** +30
 **HP** 280; **Resistances** mental 15
-<span class="in-box-ability">**Psychogenic Secretions** (aura, mental) 30 feet. A creature that enters the emanation must attempt a DC 36 Will save. On a failure, the creature is [[Stupefied]] for 1 minute (stupefied 2 and also paralyzed for 1 round on a critical failure). A creature that succeeds at its save is temporarily immune to psychogenic secretions for 1 minute.</span>
+<span class="in-box-ability">**Psychogenic Secretions** (aura, mental) 30 feet. A creature that enters the emanation must attempt a DC 36 Will save. On a failure, the creature is [[DATABASE/condition/Stupefied|stupefied 1]] for 1 minute (stupefied 2 and also paralyzed for 1 round on a critical failure). A creature that succeeds at its save is temporarily immune to psychogenic secretions for 1 minute.</span>
 
 ---
-**Speed** 25 feet, fly 35 feet (from [[Fly]])
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _spear_ +30 [+25/+20] (magical), **Damage** 2d6+10 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +28 [+23/+18], **Damage** 3d8+10 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +28 [+24/+20] (agile, finesse), **Damage** 3d4+10 slashing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _spear_ +30 [+25/+20] (magical, thrown 20 feet), **Damage** 2d6+10 piercing</span>**Occult Spontaneous Spells** DC 36; **7th** _[[Phantasmal Killer]]_, _[[Visions of Danger]]_, _[[Warp Mind]]_ (3 slots); **6th** _[[Phantasmal Calamity]]_, _[[Scrying]]_, _[[Wall of Force]]_ (3 slots); **5th** _[[Hallucination]]_, _[[Mind Probe]]_, _[[Synaptic Pulse]]_ (3 slots); **4th** _[[Invisibility]]_, _[[Modify Memory]]_, _[[Suggestion]]_ (3 slots); **Cantrips** **(7th)** _[[Daze]]_, _[[Forbidding Ward]]_, _[[Message]]_, _[[Shield]]_
-**Occult Innate Spells** DC 36, attack +28; **8th** _[[Phantom Pain]]_ (×3); **5th** _[[Telekinetic Haul]]_ (at will); **2nd** _[[Telekinetic Maneuver]]_ (at will); **Cantrips** **(8th)** _[[Telekinetic Projectile]]_; **Constant** **(8th)** _[[Fly]]_
-**Occult Rituals** DC 36; **2nd** _[[Inveigle]]_
+**Speed** 25 feet, fly 35 feet (from [[DATABASE/spell/Fly|fly]])
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _spear_ +30 [+25/+20] (magical), **Damage** 2d6+10 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +28 [+23/+18], **Damage** 3d8+10 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +28 [+24/+20] (agile, finesse), **Damage** 3d4+10 slashing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _spear_ +30 [+25/+20] (magical, thrown 20 feet), **Damage** 2d6+10 piercing</span>**Occult Spontaneous Spells** DC 36; **7th** _[[DATABASE/spell/Phantasmal Killer|phantasmal killer]]_, _[[DATABASE/spell/Visions of Danger|visions of danger]]_, _[[DATABASE/spell/Warp Mind|warp mind]]_ (3 slots); **6th** _[[DATABASE/spell/Phantasmal Calamity|phantasmal calamity]]_, _[[DATABASE/spell/Scrying|scrying]]_, _[[DATABASE/spell/Wall of Force|wall of force]]_ (3 slots); **5th** _[[DATABASE/spell/Hallucination|hallucination]]_, _[[DATABASE/spell/Mind Probe|mind probe]]_, _[[DATABASE/spell/Synaptic Pulse|synaptic pulse]]_ (3 slots); **4th** _[[DATABASE/spell/Invisibility|invisibility]]_, _[[DATABASE/spell/Modify Memory|modify memory]]_, _[[DATABASE/spell/Suggestion|suggestion]]_ (3 slots); **Cantrips** **(7th)** _[[DATABASE/spell/Daze|daze]]_, _[[DATABASE/spell/Forbidding Ward|forbidding ward]]_, _[[DATABASE/spell/Message|message]]_, _[[DATABASE/spell/Shield|shield]]_
+**Occult Innate Spells** DC 36, attack +28; **8th** _[[DATABASE/spell/Phantom Pain|phantom pain]]_ (×3); **5th** _[[DATABASE/spell/Telekinetic Haul|telekinetic haul]]_ (at will); **2nd** _[[DATABASE/spell/Telekinetic Maneuver|telekinetic maneuver]]_ (at will); **Cantrips** **(8th)** _[[DATABASE/spell/Telekinetic Projectile|telekinetic projectile]]_; **Constant** **(8th)** _[[DATABASE/spell/Fly|fly]]_
+**Occult Rituals** DC 36; **2nd** _[[DATABASE/ritual/Inveigle|inveigle]]_
 <span class="in-box-ability">**Consume Knowledge** <span class="action-icon">2</span> (divination, mental, occult) The thoughtmaw invades the mind of a creature within 100 feet and attempts to swallow its capacity for higher thought. The creature must attempt a DC 36 Will save. Using Consume Knowledge immediately ends any of the ability's previous effects on a different creature. 
 **Critical Success** The creature is unaffected. 
-**Success** The creature is [[Slowed]] for 1 round. 
+**Success** The creature is [[DATABASE/condition/Slowed|slowed 1]] for 1 round. 
 **Failure** The creature is slowed 1 and can take no actions other than basic actions for 1 minute. 
-**Critical Failure** As failure, and the thoughtmaw is [[Quickened]] for 1 minute. It can use this extra action to Stride, Strike, or Cast a Spell if the target had prepared spells or a spell repertoire.</span>
+**Critical Failure** As failure, and the thoughtmaw is [[DATABASE/condition/Quickened|quickened 1]] for 1 minute. It can use this extra action to Stride, Strike, or Cast a Spell if the target had prepared spells or a spell repertoire.</span>
 
 ###  Thoughtmaw Locations
 

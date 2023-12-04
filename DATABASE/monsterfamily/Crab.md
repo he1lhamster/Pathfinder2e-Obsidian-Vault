@@ -3,6 +3,7 @@ creature_family: Crab
 id: '129'
 name: Crab
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 trait: null
 type: Creature Family
@@ -10,13 +11,13 @@ type: Creature Family
 ---
 # Crab
 
-**Source** [[Bestiary 2]] 
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
 Crabs are scavenging crustaceans known for their hard shells and iconic sideways gait. They use their claws to defend themselves, hunt, and fight other crabs for territory. When confronted with threats from outside their species, most crabs prefer to flee, but when retreat isn't possible, they clamp on to their foes as tightly as they can.
  Hermit crabs have hard exoskeletons like other crabs, but with much weaker abdomens. They find and “wear” shells as homes and protection, getting around with their front legs and claws. Surprisingly fierce, hermit crabs fight for new shells as they grow bigger, using an assortment of hollow alternatives as substitutes when shells of the right size can't be found.
 
 ### Members
 
-[[Giant Crab]] (Creature 2), [[Giant Hermit Crab]] (Creature 5), [[Hermit Crab Swarm]] (Creature 4)
+[[DATABASE/monster/Giant Crab|Giant Crab]] (Creature 2), [[DATABASE/monster/Giant Hermit Crab|Giant Hermit Crab]] (Creature 5), [[DATABASE/monster/Hermit Crab Swarm|Hermit Crab Swarm]] (Creature 4)
 
 ###  Crab Species
 

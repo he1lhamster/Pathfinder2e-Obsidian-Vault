@@ -11,6 +11,7 @@ name: Conrasu Weapon Familiarity
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Conrasu Weapon Familiarity <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Conrasu</span>
-**Source** [[The Mwangi Expanse]]
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]
 
 ---
-You have taken it upon yourself to learn the ways of combat to aid with your tasks, perhaps in a role as a corrector. You are trained with the [[Composite Shortbow]], [[Glaive]], [[Longspear]], [[Longsword]], [[Shortbow]], and [[Spear]]. You also gain access to all uncommon conrasu weapons. For the purpose of determining your proficiency, martial conrasu weapons are simple weapons and advanced conrasu weapons are martial weapons.
+You have taken it upon yourself to learn the ways of combat to aid with your tasks, perhaps in a role as a corrector. You are trained with the [[DATABASE/weapon/Composite Shortbow|composite shortbow]], [[DATABASE/weapon/Glaive|glaive]], [[DATABASE/weapon/Longspear|longspear]], [[DATABASE/weapon/Longsword|longsword]], [[DATABASE/weapon/Shortbow|shortbow]], and [[DATABASE/weapon/Spear|spear]]. You also gain access to all uncommon conrasu weapons. For the purpose of determining your proficiency, martial conrasu weapons are simple weapons and advanced conrasu weapons are martial weapons.
 
 ## Traits
 

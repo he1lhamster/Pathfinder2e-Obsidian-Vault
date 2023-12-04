@@ -11,6 +11,7 @@ name: Skillful Climber
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Skillful Climber <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Vanara</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 
 ---
-You can scamper up or down surfaces as nimbly as a monkey. You gain a climb Speed of 10 feet. If you have the [[Climbing Tail]] ancestry feat, your total climb Speed increases to your land Speed when climbing trees.
+You can scamper up or down surfaces as nimbly as a monkey. You gain a climb Speed of 10 feet. If you have the [[DATABASE/feat/Climbing Tail|Climber's Tail]] ancestry feat, your total climb Speed increases to your land Speed when climbing trees.
 
 ## Traits
 

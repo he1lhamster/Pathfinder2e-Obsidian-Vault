@@ -11,6 +11,7 @@ name: Effortless Captivation
 prerequisite: '[[DATABASE/feat/Captivator Dedication|Captivator Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Effortless Captivation <span class="action-icon">4</span> <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Metamagic</span>
-**Source** [[Grand Bazaar]]
-**Archetype** [[Captivator]]
-**Prerequisites** [[Captivator Dedication]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
+**Archetype** [[DATABASE/archetype/Captivator|Captivator]]
+**Prerequisites** [[DATABASE/feat/Captivator Dedication|Captivator Dedication]]
 **Trigger** Your turn begins.
 
 ---

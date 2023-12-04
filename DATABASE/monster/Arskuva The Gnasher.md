@@ -72,24 +72,24 @@ wisdom: '+4'
 # Arskuva The Gnasher
 
 This creature did not include a description.
-**Recall Knowledge - Undead ([[Religion]])**: DC 40
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 40
 **Unspecific Lore**: DC 38
 **Specific Lore**: DC 35
 
 # Arskuva The Gnasher<span class="item-type">Creature 12</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Minion</span><span class="item-trait">Undead</span>
-**Source** [[Pathfinder 154. Siege of the Dinosaurs]]
-**Perception** +22; [[Darkvision]]
-**Languages** [[Draconic]], [[Undercommon]]
-**Skills** [[Athletics]] +25, [[Intimidation]] +20
+**Source** [[DATABASE/source/Pathfinder 154. Siege of the Dinosaurs|Pathfinder #154: Siege of the Dinosaurs]]
+**Perception** +22; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Undercommon|Undercommon]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +25, [[DATABASE/skill/Intimidation|Intimidation]] +20
 **Str** +7, **Dex** +0, **Con** +5, **Int** -2, **Wis** +4, **Cha** +2
 **Minion** Arskuva can't use reactions. If Helg issues a mental command as an action with the concentrate trait, Arskuva can use 2 actions on her turn. Otherwise, she can use only 1 action to Stride or Strike.
-**Items** _+2 [[Striking]] [[Flaming]] [[War Flail]]_, [[Noxious Jerkin]]
+**Items** _+2 [[DATABASE/equipment/Striking|greater striking]] [[DATABASE/equipment/Flaming|greater flaming]] [[DATABASE/weapon/War Flail|war flail]]_, [[DATABASE/equipment/Noxious Jerkin|noxious jerkin]]
 
 ---
 **AC** 31; **Fort** +25, **Ref** +18, **Will** +22
-**HP** 270; **Immunities** death effects, disease, [[Paralyzed]], poison, [[Unconscious]]; **Weaknesses** positive 15
+**HP** 270; **Immunities** death effects, disease, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Unconscious|unconscious]]; **Weaknesses** positive 15
 
 ---
 **Speed** 25 feet

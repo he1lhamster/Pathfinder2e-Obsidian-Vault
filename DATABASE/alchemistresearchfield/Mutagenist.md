@@ -2,6 +2,7 @@
 id: '3'
 name: Mutagenist
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait: null
 type: Alchemist Research Field
@@ -9,14 +10,14 @@ type: Alchemist Research Field
 ---
 # Mutagenist
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 You focus on bizarre mutagenic transformations that sacrifice one aspect of a creature's physical or psychological being in order to strengthen another. You start with the formulas for two common 1st-level alchemical mutagens in your formula book, in addition to your other formulas.
  You also gain the following free action.
 
-### [[Mutagenic Flashback]] <span class="action-icon">4</span>
+### [[DATABASE/action/Mutagenic Flashback|Mutagenic Flashback]] <span class="action-icon">4</span>
 
 <span class="item-trait">Alchemist</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Frequency** once per day
 
 ---

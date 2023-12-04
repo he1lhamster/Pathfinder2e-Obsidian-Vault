@@ -8,6 +8,7 @@ name: Disable a Device
 rarity: Common
 requirement: "Some devices require you to use [[DATABASE/equipment/Thieves' Tools|thieves\u2019\
   \ tools]] whendisabling them."
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
@@ -19,8 +20,8 @@ type: Action
 # Disable a Device <span class="action-icon">2</span>
 
 <span class="item-trait">Manipulate</span>
-**Source** [[Core Rulebook]] 
-**Requirements** Some devices require you to use [[Thieves' Tools]] when disabling them.
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Requirements** Some devices require you to use [[DATABASE/equipment/Thieves' Tools|thieves’ tools]] when disabling them.
 
 ---
 This action allows you to disarm a trap or another complex device. Often, a device requires numerous successes before becoming disabled, depending on its construction and complexity. Thieves’ tools are helpful and sometimes even required to Disable a Device, as determined by the GM, and sometimes a device requires a higher proficiency rank in Thievery to disable it.

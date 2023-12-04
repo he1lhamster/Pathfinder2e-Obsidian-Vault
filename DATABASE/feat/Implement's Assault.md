@@ -11,6 +11,7 @@ name: Implement's Assault
 prerequisite: null
 rarity: Common
 requirement: You're holding animplement.
+rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -25,7 +26,7 @@ type: Feat
 # Implement's Assault <span class="action-icon">3</span> <span class="item-type">Feat 18</span>
 
 <span class="item-trait">Evocation</span><span class="item-trait">Magical</span><span class="item-trait">Thaumaturge</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Requirements** You're holding an implement.
 
 ---

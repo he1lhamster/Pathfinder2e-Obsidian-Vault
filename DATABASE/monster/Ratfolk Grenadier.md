@@ -71,20 +71,20 @@ wisdom: '+2'
 # Ratfolk Grenadier
 
 Ratfolk grenadiers use alchemy and stealth to defend their communities.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 19
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 19
 **Unspecific Lore**: DC 17
 **Specific Lore**: DC 14
 
 # Ratfolk Grenadier<span class="item-type">Creature 4</span>
 
 <span class="trait-alignment item-trait">LN</span><span class="trait-size item-trait">Small</span><span class="item-trait">Humanoid</span><span class="item-trait">Ratfolk</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +10; darkvision
-**Languages** [[Common]]
-**Skills** [[Acrobatics]] +9, [[Crafting]] +12, [[Deception]] +7, [[Society]] +10, [[Stealth]] +12, [[Thievery]] +9
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +9, [[DATABASE/skill/Crafting|Crafting]] +12, [[DATABASE/skill/Deception|Deception]] +7, [[DATABASE/skill/Society|Society]] +10, [[DATABASE/skill/Stealth|Stealth]] +12, [[DATABASE/skill/Thievery|Thievery]] +9
 **Str** +0, **Dex** +4, **Con** +2, **Int** +4, **Wis** +2, **Cha** +1
 **Infused Items** A ratfolk grenadier carries 2 infused moderate acid flasks, 2 infused moderate alchemist’s fires, and 2 infused moderate frost vials. These items last for 24 hours, or until the next time they make their daily preparations.
-**Items** [[Alchemist's Tools]], [[Hand Crossbow]], [[Studded Leather Armor]]
+**Items** [[DATABASE/equipment/Alchemist's Tools|alchemist's tools]], [[DATABASE/weapon/Hand Crossbow|hand crossbow (20 bolts)]], [[DATABASE/armor/Studded Leather Armor|studded leather armor]]
 
 ---
 **AC** 21; **Fort** +11, **Ref** +13, **Will** +9

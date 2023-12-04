@@ -8,6 +8,7 @@ name: Capital Investment
 rarity: Common
 requirement: You must be within the influence of a settlement that contains at least
   one Bank.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
@@ -20,7 +21,7 @@ type: Action
 # Capital Investment
 
 <span class="item-trait">Downtime</span><span class="item-trait">Leadership</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 **Requirements** You must be within the influence of a settlement that contains at least one Bank.
 
 ---

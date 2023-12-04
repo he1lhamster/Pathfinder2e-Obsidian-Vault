@@ -11,6 +11,7 @@ name: Ceremony of Protection
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 subcategory: null
@@ -24,14 +25,14 @@ type: Feat
 # Ceremony of Protection <span class="action-icon">1</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Conrasu</span><span class="item-trait">Manipulate</span>
-**Source** [[The Mwangi Expanse]]
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]
 
 ---
 You manipulate your exoskeleton to overlap itself. You gain a +1 circumstance bonus to AC until the start of your next turn.
 
 ## Ceremony of Protection Leads To...
 
-[[Ceremony of Fortification]]
+[[DATABASE/feat/Ceremony of Fortification|Ceremony of Fortification]]
 
 ## Traits
 

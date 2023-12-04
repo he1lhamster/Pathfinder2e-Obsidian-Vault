@@ -71,17 +71,17 @@ wisdom: '+3'
 # Elemental Hurricane
 
 Elemental hurricanes embody the ferocity of violent windstorms.
-**Recall Knowledge - Elemental ([[Arcana]], [[Nature]])**: DC 28
+**Recall Knowledge - Elemental ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 28
 **Unspecific Lore**: DC 26
 **Specific Lore**: DC 23
 
 # Elemental Hurricane<span class="item-type">Creature 11</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Huge</span><span class="item-trait">Air</span><span class="item-trait">Elemental</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +20; darkvision
-**Languages** [[Auran]]
-**Skills** [[Acrobatics]] +24, [[Stealth]] +22
+**Languages** [[DATABASE/language/Auran|Auran]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +24, [[DATABASE/skill/Stealth|Stealth]] +22
 **Str** +6, **Dex** +7, **Con** +4, **Int** +0, **Wis** +3, **Cha** +0
 
 ---

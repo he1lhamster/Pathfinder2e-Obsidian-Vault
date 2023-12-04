@@ -13,6 +13,7 @@ primary_check: '[[DATABASE/skill/Arcana|Arcana]] or [[DATABASE/skill/Occultism|O
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: Enchantment
 secondary_casters: '1'
 secondary_check: '[[DATABASE/skill/Deception|Deception]]'
@@ -31,9 +32,9 @@ type: Ritual
 # Dread Ambience<span class="item-type">Ritual 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Consecration</span><span class="item-trait">Emotion</span><span class="item-trait">Enchantment</span><span class="item-trait">Fear</span><span class="item-trait">Mental</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Cast** 2 days; **Cost** candles, specialty salts, and rare herbs worth 80 gp total; **Secondary Casters** 1
-**Primary Check** [[Arcana]] or [[Occultism]] (expert); **Secondary Checks** [[Deception]]
+**Primary Check** [[DATABASE/skill/Arcana|Arcana]] or [[DATABASE/skill/Occultism|Occultism]] (expert); **Secondary Checks** [[DATABASE/skill/Deception|Deception]]
 **Area** 1 square mile
 **Duration** 1 year
 

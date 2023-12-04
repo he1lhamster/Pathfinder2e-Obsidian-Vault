@@ -74,22 +74,22 @@ wisdom: '+2'
 # Tyrannosaurus Skeleton
 
 A massive dinosaur predator makes for a fearsome skeleton.
-**Recall Knowledge - Undead ([[Religion]])**: DC 26
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 26
 **Unspecific Lore**: DC 24
 **Specific Lore**: DC 21
 
 # Tyrannosaurus Skeleton<span class="item-type">Creature 9</span>
 
 <span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Gargantuan</span><span class="item-trait">Mindless</span><span class="item-trait">Skeleton</span><span class="item-trait">Undead</span>
-**Source** [[Bestiary 3]]
-**Perception** +17; [[Darkvision]]
-**Skills** [[Athletics]] +22
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
+**Perception** +17; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +22
 **Str** +7, **Dex** +0, **Con** +5, **Int** -5, **Wis** +2, **Cha** +0
 
 ---
 **AC** 27; **Fort** +20, **Ref** +13, **Will** +17
-**HP** 140 ([[Negative Healing]]); **Immunities** death effects, disease, mental, [[Paralyzed]], poison, [[Unconscious]]; **Resistances** cold 10, electricity 10, fire 10, piercing 10, slashing 10
+**HP** 140 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects, disease, mental, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Unconscious|unconscious]]; **Resistances** cold 10, electricity 10, fire 10, piercing 10, slashing 10
 
 ---
 **Speed** 40 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +20 [+15/+10] (deadly d12, reach 20 feet), **Damage** 2d12+9 piercing plus [[Grab]]</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> foot +20 [+15/+10] (reach 15 feet), **Damage** 2d10+9 bludgeoning</span><span class="in-box-ability">**Rib Skewer** <span class="action-icon">1</span> The tyrannosaurus skeleton bends down, attempting to skewer one adjacent creature on one of its massive ribs. The creature takes 2d10+9 piercing damage (DC 28 basic Reflex save). If the creature fails its save and is Medium or smaller, it's also impaled and stuck to the rib. It moves with the skeleton and takes 2d6 [[Persistent Damage]] until it either [[Escape]] or someone uses [[Force Open]] to break the rib (either is DC 28).</span><span class="in-box-ability">**[[Trample]]** <span class="action-icon">3</span> Huge or smaller, foot, DC 28</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +20 [+15/+10] (deadly d12, reach 20 feet), **Damage** 2d12+9 piercing plus [[DATABASE/monsterability/Grab|Grab]]</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> foot +20 [+15/+10] (reach 15 feet), **Damage** 2d10+9 bludgeoning</span><span class="in-box-ability">**Rib Skewer** <span class="action-icon">1</span> The tyrannosaurus skeleton bends down, attempting to skewer one adjacent creature on one of its massive ribs. The creature takes 2d10+9 piercing damage (DC 28 basic Reflex save). If the creature fails its save and is Medium or smaller, it's also impaled and stuck to the rib. It moves with the skeleton and takes 2d6 [[DATABASE/condition/Persistent Damage|persistent bleed damage]] until it either [[DATABASE/action/Escape|Escapes]] or someone uses [[DATABASE/action/Force Open|Force Open]] to break the rib (either is DC 28).</span><span class="in-box-ability">**[[DATABASE/monsterability/Trample|Trample]]** <span class="action-icon">3</span> Huge or smaller, foot, DC 28</span>

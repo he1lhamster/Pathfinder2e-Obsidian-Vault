@@ -13,6 +13,7 @@ primary_check: '[[DATABASE/skill/Religion|Religion]] (expert; you must be a [[DA
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: Conjuration
 secondary_casters: null
 secondary_check: null
@@ -27,9 +28,9 @@ type: Ritual
 # Abyssal Pact<span class="item-type">Ritual 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Conjuration</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Cast** 1 day
-**Primary Check** [[Religion]] (expert; you must be a [[Demon]])
+**Primary Check** [[DATABASE/skill/Religion|Religion]] (expert; you must be a [[DATABASE/monsterfamily/Demon|demon]])
 
 ---
 You call in a favor from another demon whose level is no more than double _Abyssal pact’s_ spell level, two demons whose levels are each at least 2 less than double the spell level, or three demons whose levels are each at least 3 less than double the spell level.
@@ -40,80 +41,80 @@ You call in a favor from another demon whose level is no more than double _Abyss
 
 ## Level 1 Demons
 
-[[Quasit]] (CE)
+[[DATABASE/monster/Quasit|Quasit]] (CE)
 
 ## Level 2 Demons
 
-[[Dretch (Sloth Demon)]] (CE)
+[[DATABASE/monster/Dretch (Sloth Demon)|Dretch]] (CE)
 
 ## Level 3 Demons
 
-[[Vermlek (Worm Demon)]] (CE)
+[[DATABASE/monster/Vermlek (Worm Demon)|Vermlek]] (CE)
 
 ## Level 4 Demons
 
-[[Abrikandilu (Wrecker Demon)]] (CE)
+[[DATABASE/monster/Abrikandilu (Wrecker Demon)|Abrikandilu]] (CE)
 
 ## Level 5 Demons
 
-[[Brimorak (Arson Demon)]] (CE), [[Vloriak (Despoiler Demon)]] (CE)
+[[DATABASE/monster/Brimorak (Arson Demon)|Brimorak]] (CE), [[DATABASE/monster/Vloriak (Despoiler Demon)|Vloriak]] (CE)
 
 ## Level 6 Demons
 
-[[Babau (Blood Demon)]] (CE)
+[[DATABASE/monster/Babau (Blood Demon)|Babau]] (CE)
 
 ## Level 7 Demons
 
-[[Gluttondark Babau]] (CE), [[Invidiak (Shadow Demon)]] (CE), [[Demon, Roru]] (CE), [[Succubus (Lust Demon)]] (CE)
+[[DATABASE/monster/Gluttondark Babau|Gluttondark Babau]] (CE), [[DATABASE/monster/Invidiak (Shadow Demon)|Invidiak]] (CE), [[DATABASE/monster/Demon, Roru|Roru]] (CE), [[DATABASE/monster/Succubus (Lust Demon)|Succubus]] (CE)
 
 ## Level 8 Demons
 
-[[Nabasu (Gluttony Demon)]] (CE)
+[[DATABASE/monster/Nabasu (Gluttony Demon)|Nabasu]] (CE)
 
 ## Level 9 Demons
 
-[[Kithangian (Beast Demon)]] (CE), [[Vrock (Wrath Demon)]] (CE)
+[[DATABASE/monster/Kithangian (Beast Demon)|Kithangian]] (CE), [[DATABASE/monster/Vrock (Wrath Demon)|Vrock]] (CE)
 
 ## Level 10 Demons
 
-[[Kalavakus (Slaver Demon)]] (CE)
+[[DATABASE/monster/Kalavakus (Slaver Demon)|Kalavakus]] (CE)
 
 ## Level 11 Demons
 
-[[Hezrou (Toad Demon)]] (CE)
+[[DATABASE/monster/Hezrou (Toad Demon)|Hezrou]] (CE)
 
 ## Level 12 Demons
 
-[[Omox (Slime Demon)]] (CE)
+[[DATABASE/monster/Omox (Slime Demon)|Omox]] (CE)
 
 ## Level 13 Demons
 
-[[Glabrezu (Treachery Demon)]] (CE), [[Demon, Urglid]] (CE)
+[[DATABASE/monster/Glabrezu (Treachery Demon)|Glabrezu]] (CE), [[DATABASE/monster/Demon, Urglid|Urglid (Grave Demon)]] (CE)
 
 ## Level 14 Demons
 
-[[Fate's Prophet]] (CE), [[Nalfeshnee (Boar Demon)]] (CE), [[The Bloodstorm]] (NE)
+[[DATABASE/monster/Fate's Prophet|Fate's Prophet]] (CE), [[DATABASE/monster/Nalfeshnee (Boar Demon)|Nalfeshnee]] (CE), [[DATABASE/monster/The Bloodstorm|The Bloodstorm]] (NE)
 
 ## Level 15 Demons
 
-[[Ghalzarokh (Tyranny Demon)]] (CE)
+[[DATABASE/monster/Ghalzarokh (Tyranny Demon)|Ghalzarokh]] (CE)
 
 ## Level 16 Demons
 
-[[Shemhazian (Mutilation Demon)]] (CE)
+[[DATABASE/monster/Shemhazian (Mutilation Demon)|Shemhazian]] (CE)
 
 ## Level 17 Demons
 
-[[Kimilekki]] (CE), [[Marilith (Pride Demon)]] (CE), [[Morgaran]] (CE)
+[[DATABASE/monster/Kimilekki|Kimilekki]] (CE), [[DATABASE/monster/Marilith (Pride Demon)|Marilith]] (CE), [[DATABASE/monster/Morgaran|Morgaran]] (CE)
 
 ## Level 18 Demons
 
-[[Katpaskir (Nihilism Demon)]] (CE), [[Vavakia]] (CE)
+[[DATABASE/monster/Katpaskir (Nihilism Demon)|Katpaskir]] (CE), [[DATABASE/monster/Vavakia|Vavakia]] (CE)
 
 ## Level 19 Demons
 
-[[Vrolikai (Death Demon)]] (CE)
+[[DATABASE/monster/Vrolikai (Death Demon)|Vrolikai]] (CE)
 
 ## Level 20 Demons
 
-[[Balor (Fire Demon)]] (CE)
+[[DATABASE/monster/Balor (Fire Demon)|Balor]] (CE)

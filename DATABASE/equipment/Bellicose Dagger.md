@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 size: null
@@ -55,10 +56,10 @@ weapon_type: null
 # Bellicose Dagger<span class="item-type">Item 7</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Cursed</span><span class="item-trait">Magical</span><span class="item-trait">Necromancy</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Usage** held in 1 hand; **Bulk** L
-**Base Weapon** [[Dagger]]
+**Base Weapon** [[DATABASE/weapon/Dagger|Dagger]]
 
 ---
-The hilt of a _bellicose dagger_ is etched with the word for “war” in various languages. Having absorbed the spirit of violence over the course of its existence, the weapon now craves bloodshed. A _bellicose dagger_ is a _+1 [[Striking]] [[Wounding]] [[Dagger]]_. However, anytime you interact with creatures, no matter the context, you must succeed at a DC 25 Will save or else find you have, as a reaction, drawn the dagger.
- When you use the _bellicose dagger_ as a weapon for the first time, it fuses to you. While it's in your possession, you take a –2 circumstance penalty to [[Diplomacy]] checks and skill checks to avoid fighting, such as [[Deception]] checks to trick your way out of a scuffle or [[Stealth]] checks to sneak past enemies.
+The hilt of a _bellicose dagger_ is etched with the word for “war” in various languages. Having absorbed the spirit of violence over the course of its existence, the weapon now craves bloodshed. A _bellicose dagger_ is a _+1 [[DATABASE/equipment/Striking|striking]] [[DATABASE/equipment/Wounding|wounding]] [[DATABASE/weapon/Dagger|dagger]]_. However, anytime you interact with creatures, no matter the context, you must succeed at a DC 25 Will save or else find you have, as a reaction, drawn the dagger.
+ When you use the _bellicose dagger_ as a weapon for the first time, it fuses to you. While it's in your possession, you take a –2 circumstance penalty to [[DATABASE/skill/Diplomacy|Diplomacy]] checks and skill checks to avoid fighting, such as [[DATABASE/skill/Deception|Deception]] checks to trick your way out of a scuffle or [[DATABASE/skill/Stealth|Stealth]] checks to sneak past enemies.

@@ -69,17 +69,17 @@ wisdom: '+1'
 # Living Whirlwind
 
 A living whirlwind resembles a roughly humanoid-shaped dust devil.
-**Recall Knowledge - Elemental ([[Arcana]], [[Nature]])**: DC 20
+**Recall Knowledge - Elemental ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 20
 **Unspecific Lore**: DC 18
 **Specific Lore**: DC 15
 
 # Living Whirlwind<span class="item-type">Creature 5</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Air</span><span class="item-trait">Elemental</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +10; darkvision
-**Languages** [[Auran]]
-**Skills** [[Acrobatics]] +16, [[Stealth]] +14
+**Languages** [[DATABASE/language/Auran|Auran]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +16, [[DATABASE/skill/Stealth|Stealth]] +14
 **Str** +3, **Dex** +5, **Con** +2, **Int** -2, **Wis** +1, **Cha** +0
 
 ---

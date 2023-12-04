@@ -9,6 +9,7 @@ language: null
 max_speed: null
 name: Undine
 rarity: null
+rus_type_level: null
 size: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 speed: null
@@ -20,10 +21,10 @@ vision: null
 # Undine (Versatile Heritage)
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Amphibious</span><span class="item-trait">Undine</span>
-**Source** [[Ancestry Guide]] 
-_These dynamic, fluid mortals trace their ancestry to creatures from the [[Plane of Water]], such as [[Marid]], [[Water Mephit]], and [[Dragon, Brine]]._
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
+_These dynamic, fluid mortals trace their ancestry to creatures from the [[DATABASE/plane/Plane of Water|Plane of Water]], such as [[DATABASE/monster/Marid|marids]], [[DATABASE/monster/Water Mephit|water mephits]], and [[DATABASE/monsterfamily/Dragon, Brine|brine dragons]]._
 Undines often go through life in a series of shifting phases, their interests waxing, waning, or sometimes morphing altogether as old loves are discarded for new interests. Structure provides a much-needed focus to undines' lives, and without strong goals or support from those around them, undines can find themselves stagnating in feelings of despondence. Most undines feel they personify specific aspects of water, some seeing themselves with the strength and power of the waves, the speed and tenacity of a river current, or the calm of a peaceful lake or pond. Others identify with all these aspects and more, their demeanors shifting like the tides from one situation to the next.
- Undines born with a connection only to a specific subtype of elemental water, such as ice, brine, or mist, might have a specific undine lineage. These are typically passed down from parent to child, as with other geniekin, but on occasion, a child is born with a lineage never seen in their family. Sometimes lineages are the result of where an undine's ancestors lived, such as rimesoul undines being born in the cold northern countries or at the tops of mountain peaks. At other times it can be related to the undine's elemental heritage, as is often the case with brinesoul undines, who usually descend from brine dragons. Mistsoul undines might have a distant but powerful connection to [[Elemental, Water]], or might even have a bit of [[Elemental, Air]] mixed into their ancestry.
+ Undines born with a connection only to a specific subtype of elemental water, such as ice, brine, or mist, might have a specific undine lineage. These are typically passed down from parent to child, as with other geniekin, but on occasion, a child is born with a lineage never seen in their family. Sometimes lineages are the result of where an undine's ancestors lived, such as rimesoul undines being born in the cold northern countries or at the tops of mountain peaks. At other times it can be related to the undine's elemental heritage, as is often the case with brinesoul undines, who usually descend from brine dragons. Mistsoul undines might have a distant but powerful connection to [[DATABASE/monsterfamily/Elemental, Water|elemental water]], or might even have a bit of [[DATABASE/monsterfamily/Elemental, Air|elemental air]] mixed into their ancestry.
 
 ## You Might...
 
@@ -49,17 +50,17 @@ Unlike other geniekin, undines create and congregate within their own tightly kn
 ## Alignment and Religion
 
 Undines are flexible and community-minded, often valuing the overall health of their communities above that of any one individual. Usually of a neutral alignment, their moral concerns are often centered around their societies rather than their actions.
- Religion isn't a major part of most undine's lives, but they often have strong spiritual connections to their supernatural ancestors or to water itself. Some undines worship deities of water, such as [[Gozreh]] or [[Hei Feng]], while others might offer their prayers to [[Lysianassa]], the lost elemental lord of water.
+ Religion isn't a major part of most undine's lives, but they often have strong spiritual connections to their supernatural ancestors or to water itself. Some undines worship deities of water, such as [[DATABASE/deity/Gozreh|Gozreh]] or [[DATABASE/deity/Hei Feng|Hei Feng]], while others might offer their prayers to [[DATABASE/deity/Lysianassa|Lysianassa]], the lost elemental lord of water.
 
 ## Adventurers
 
-Undines often come from the [[Animal Whisperer]], [[Artist]], and [[Sailor]] backgrounds before becoming adventurers. The artist background is especially common among undines descended from [[Marid]], and undines raised on the [[Plane of Water]] in their parent's courts often develop their skills as [[Bard]]. Undine [[Cleric]] usually serve water deities, while most undine [[Sorcerer]] possess the [[Elemental]] or [[Genie]] bloodlines.
+Undines often come from the [[DATABASE/background/Animal Whisperer|animal whisperer]], [[DATABASE/background/Artist|artist]], and [[DATABASE/background/Sailor|sailor]] backgrounds before becoming adventurers. The artist background is especially common among undines descended from [[DATABASE/monster/Marid|marids]], and undines raised on the [[DATABASE/plane/Plane of Water|Plane of Water]] in their parent's courts often develop their skills as [[DATABASE/class_/Bard|bards]]. Undine [[DATABASE/class_/Cleric|clerics]] usually serve water deities, while most undine [[DATABASE/class_/Sorcerer|sorcerers]] possess the [[DATABASE/sorcererbloodline/Elemental|elemental]] or [[DATABASE/sorcererbloodline/Genie|genie]] bloodlines.
 
 ## Other Information
 
 ### Family Relations
 
-Most undines descend from [[Marid]]— the water genies native to the [[Plane of Water]]—and the mortals they take for lovers. These mercurial genies usually show their favor to musicians, dancers, and other artists, inviting mortals of exceptional talents to live with them. Other planar creatures occasionally have undine progeny as well. The children of [[Water Mephit]], [[Ice Mephit]], and salt mephits are often born with small statures, nub-like horns, hooked or beak-like faces, or vestigial wings and tails. Those related to [[Dragon, Brine]] are sometimes born with draconic wings and tails and almost always have the [[Brinesoul]] lineage.
+Most undines descend from [[DATABASE/monster/Marid|marids]]— the water genies native to the [[DATABASE/plane/Plane of Water|Plane of Water]]—and the mortals they take for lovers. These mercurial genies usually show their favor to musicians, dancers, and other artists, inviting mortals of exceptional talents to live with them. Other planar creatures occasionally have undine progeny as well. The children of [[DATABASE/monster/Water Mephit|water]], [[DATABASE/monster/Ice Mephit|ice]], and salt mephits are often born with small statures, nub-like horns, hooked or beak-like faces, or vestigial wings and tails. Those related to [[DATABASE/monsterfamily/Dragon, Brine|brine dragons]] are sometimes born with draconic wings and tails and almost always have the [[DATABASE/feat/Brinesoul|brinesoul]] lineage.
 
 ### Geniekin Cuisine
 
@@ -76,9 +77,9 @@ Undines are the geniekin most likely to form their own settlements and communiti
 
 # Versatile Heritage
 
-## [[Undine]]
+## [[DATABASE/heritage/Undine|Undine]]
 
 <span class="trait-uncommon item-trait">Uncommon</span>
-**Source** [[Ancestry Guide]] 
-**Ancestry Page** [[Undine]]
-A [[Elemental, Water]] ancestor influences your bloodline. You gain the undine trait, in addition to the traits from your ancestry. You gain a swim Speed of 10 feet and the amphibious trait. Like all creatures with the amphibious trait, you can breathe both water and air. You can choose from undine feats and feats from your ancestry whenever you gain an ancestry feat.
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
+**Ancestry Page** [[DATABASE/ancestry/Undine|Undine]]
+A [[DATABASE/monsterfamily/Elemental, Water|water elemental]] ancestor influences your bloodline. You gain the undine trait, in addition to the traits from your ancestry. You gain a swim Speed of 10 feet and the amphibious trait. Like all creatures with the amphibious trait, you can breathe both water and air. You can choose from undine feats and feats from your ancestry whenever you gain an ancestry feat.

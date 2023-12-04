@@ -16,6 +16,7 @@ price: 9,000 gp
 rarity: Uncommon
 reflex: null
 resistance: null
+rus_type_level: null
 school: null
 size: Huge
 source: '[[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]'
@@ -28,7 +29,7 @@ type: Vehicle
 # Sky Chariot, Heavy<span class="item-type">Vehicle 13</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-size item-trait">Huge</span>
-**Source** [[Pathfinder 167. Ready Fight!]]
+**Source** [[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]
 **Price** 9,000 gp
 
 ---

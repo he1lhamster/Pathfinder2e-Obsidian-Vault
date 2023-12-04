@@ -16,6 +16,7 @@ price: 1,500 gp
 rarity: Rare
 reflex: null
 resistance: null
+rus_type_level: null
 school: null
 size: Huge
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
@@ -28,7 +29,7 @@ type: Vehicle
 # Mobile Inn<span class="item-type">Vehicle 8</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-size item-trait">Huge</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 1,500 gp
 
 ---
@@ -37,7 +38,7 @@ A mobile inn is the next step up from an armored carriage, bringing the limited 
 ---
 **Space** 20 feet long, 20 feet wide, 13 feet high
 **Crew** 1 pilot; **Passengers** 3 (can hold up to 5 by stripping accommodations)
-**Piloting Check** [[Lore]] (DC 24) or [[Crafting]] (DC 26)
+**Piloting Check** [[DATABASE/skill/Lore|Driving Lore]] (DC 24) or [[DATABASE/skill/Crafting|Crafting]] (DC 26)
 
 ---
 **AC** 22; **Fort** +18

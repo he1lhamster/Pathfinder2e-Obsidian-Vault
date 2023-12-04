@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Clockwork Reanimator Dedication|Clockwork Reanima
   Dedication]]'
 rarity: Common
 requirement: You're within 60 feet of your reanimated clockwork companion.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 180. The Smoking Gun|Pathfinder #180: The Smoking
   Gun]]'
@@ -25,9 +26,9 @@ type: Feat
 # Self-Destruct <span class="action-icon">5</span> <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Pathfinder 180. The Smoking Gun]]
-**Archetype** [[Clockwork Reanimator]]
-**Prerequisites** [[Clockwork Reanimator Dedication]]
+**Source** [[DATABASE/source/Pathfinder 180. The Smoking Gun|Pathfinder #180: The Smoking Gun]]
+**Archetype** [[DATABASE/archetype/Clockwork Reanimator|Clockwork Reanimator]]
+**Prerequisites** [[DATABASE/feat/Clockwork Reanimator Dedication|Clockwork Reanimator Dedication]]
 **Trigger** Your reanimated clockwork companion is reduced to 0 Hit Points.
 **Requirements** You're within 60 feet of your reanimated clockwork companion.
 

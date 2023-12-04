@@ -11,6 +11,7 @@ name: Purge of Moments
 prerequisite: '[[DATABASE/feat/Time Mage Dedication|Time Mage Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -25,13 +26,13 @@ type: Feat
 # Purge of Moments <span class="action-icon">3</span> <span class="item-type">Feat 16</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Concentrate</span><span class="item-trait">Transmutation</span>
-**Source** [[Dark Archive]]
-**Archetype** [[Time Mage]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Archetype** [[DATABASE/archetype/Time Mage|Time Mage]]
 **Frequency** once per hour
-**Prerequisites** [[Time Mage Dedication]]
+**Prerequisites** [[DATABASE/feat/Time Mage Dedication|Time Mage Dedication]]
 
 ---
-All things eventually end, a truth that you can put into practice by accelerating your passage through time to shake off harmful effects. Five rounds of apparent time occur for you. No one, including you, can act during this time, but effects on you run their course, including beneficial effects, negative effects, afflictions, conditions, and [[Persistent Damage]]. Roll saving throws, flat checks, damage, and any other rolls for those effects normally as if the time had passed. Excessive use of this technique is responsible for more than a few premature gray hairs among time mages.
+All things eventually end, a truth that you can put into practice by accelerating your passage through time to shake off harmful effects. Five rounds of apparent time occur for you. No one, including you, can act during this time, but effects on you run their course, including beneficial effects, negative effects, afflictions, conditions, and [[DATABASE/condition/Persistent Damage|persistent damage]]. Roll saving throws, flat checks, damage, and any other rolls for those effects normally as if the time had passed. Excessive use of this technique is responsible for more than a few premature gray hairs among time mages.
 
 ## Traits
 

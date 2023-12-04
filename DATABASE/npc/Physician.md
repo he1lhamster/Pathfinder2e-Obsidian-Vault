@@ -67,21 +67,21 @@ wisdom: '+2'
 # Physician
 
 The art of medicine is a blend of the intellectual and the practical, concerned with how diseases work and how to prevent them. The physician can be found consulting well-thumbed tomes while meticulously examining patients to better understand their condition, before determining the most effective treatment. For medical matters, the physician is a 4th-level challenge.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 13
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 13
 **Unspecific Lore**: DC 11
 **Specific Lore**: DC 8
 
 # Physician<span class="item-type">Creature -1</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Perception** +6; (8 to notice ailments) 
-**Languages** [[Common]]
-**Skills** [[Diplomacy]] +8, [[Medicine]] +12, [[Society]] +10
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Diplomacy|Diplomacy]] +8, [[DATABASE/skill/Medicine|Medicine]] +12, [[DATABASE/skill/Society|Society]] +10
 **Str** -1, **Dex** +1, **Con** +1, **Int** +4, **Wis** +2, **Cha** +2
-**Bedside Manner** A physician has a +2 circumstance bonus to [[Diplomacy]] checks to [[Make an Impression]] on or [[Request]] of a diseased, poisoned, or [[Wounded]] creature.
-**Doctor's Hand** When the physician rolls a critical failure on a check to [[Treat Disease]], [[Treat Poison]], or [[Treat Wounds]], they get a failure instead.
-**Items** [[Healer's Tools]], medical textbook, [[Elixir of Life]]
+**Bedside Manner** A physician has a +2 circumstance bonus to [[DATABASE/skill/Diplomacy|Diplomacy]] checks to [[DATABASE/action/Make an Impression|Make an Impression]] on or [[DATABASE/action/Request|make a Request]] of a diseased, poisoned, or [[DATABASE/condition/Wounded|wounded]] creature.
+**Doctor's Hand** When the physician rolls a critical failure on a check to [[DATABASE/action/Treat Disease|Treat Disease]], [[DATABASE/action/Treat Poison|Treat Poison]], or [[DATABASE/action/Treat Wounds|Treat Wounds]], they get a failure instead.
+**Items** [[DATABASE/equipment/Healer's Tools|healer's tools]], medical textbook, [[DATABASE/equipment/Elixir of Life|minor elixir of life (2)]]
 
 ---
 **AC** 13; **Fort** +9, **Ref** +3, **Will** +8

@@ -21,6 +21,7 @@ patron_theme: null
 range: 120 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: Fortitude
 school: Evocation
 source: '[[DATABASE/source/Pathfinder 185. A Taste of Ashes|Pathfinder #185: A Taste
@@ -40,8 +41,8 @@ type: Focus
 # Incendiary Ashes<span class="item-type">Focus 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Cursebound</span><span class="item-trait">Evocation</span><span class="item-trait">Fire</span><span class="item-trait">Oracle</span>
-**Source** [[Pathfinder 185. A Taste of Ashes]]
-**Mystery** [[Ash]]
+**Source** [[DATABASE/source/Pathfinder 185. A Taste of Ashes|Pathfinder #185: A Taste of Ashes]]
+**Mystery** [[DATABASE/oraclemystery/Ash|ash]]
 **Cast** <span class="action-icon">2</span> verbal, somatic
 **Range** 120 feet; **Area** 20-foot burst
 **Saving Throw** Fortitude

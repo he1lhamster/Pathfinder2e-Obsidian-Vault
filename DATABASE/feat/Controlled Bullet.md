@@ -11,6 +11,7 @@ name: Controlled Bullet
 prerequisite: '[[DATABASE/feat/Beast Gunner Dedication|Beast Gunner Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -25,13 +26,13 @@ type: Feat
 # Controlled Bullet <span class="action-icon">2</span> <span class="item-type">Feat 16</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Evocation</span><span class="item-trait">Magical</span>
-**Source** [[Guns & Gears]]
-**Archetype** [[Beast Gunner]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Archetype** [[DATABASE/archetype/Beast Gunner|Beast Gunner]]
 **Frequency** once per day
-**Prerequisites** [[Beast Gunner Dedication]]
+**Prerequisites** [[DATABASE/feat/Beast Gunner Dedication|Beast Gunner Dedication]]
 
 ---
-You create a direct magical connection with your beast gun, allowing you to guide the beast gun's next shot by taking control of the projectile directly, steering it through the air, and swerving and veering it to continue to hit target after target. Make a beast gun Strike against a creature within the first range increment. On a hit, the shot tears through the target and continues toward another target you can see. You make a Strike against this new target. The new target must be no farther from the previous target than a distance equal to the beast gun's range increment. For example, the new target must be within 150 feet of the previous target when attacking with a _[[Drake Rifle]]_. On a hit, you can direct the bullet toward a new target.
+You create a direct magical connection with your beast gun, allowing you to guide the beast gun's next shot by taking control of the projectile directly, steering it through the air, and swerving and veering it to continue to hit target after target. Make a beast gun Strike against a creature within the first range increment. On a hit, the shot tears through the target and continues toward another target you can see. You make a Strike against this new target. The new target must be no farther from the previous target than a distance equal to the beast gun's range increment. For example, the new target must be within 150 feet of the previous target when attacking with a _[[DATABASE/equipment/Drake Rifle|drake rifle]]_. On a hit, you can direct the bullet toward a new target.
  You can continue to make Strikes against new targets in this same way until your attack misses, at which point your shot dissipates. You can't make a Strike against a target you already attacked during this use of Controlled Bullet, but you can otherwise continue to make attacks against valid targets until you miss. Each attack counts toward your multiple attack penalty, but don't increase your penalty until you've made all your attacks.
 
 ## Traits

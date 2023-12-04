@@ -68,17 +68,17 @@ wisdom: '+5'
 # Overgrown Viper Vine
 
 This creature did not include a description.
-**Recall Knowledge - Plant ([[Nature]])**: DC 37
+**Recall Knowledge - Plant ([[DATABASE/skill/Nature|Nature]])**: DC 37
 **Unspecific Lore**: DC 35
 **Specific Lore**: DC 32
 
 # Overgrown Viper Vine<span class="item-type">Creature 14</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Plant</span>
-**Source** [[Kingmaker Adventure Path]]
-Variant [[I]]
-**Perception** +24; [[Low-Light Vision]], [[Tremorsense]] (precise in area A7, otherwise imprecise) 60 feet
-**Skills** [[Athletics]] +29, [[Stealth]] +26
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
+Variant [[DATABASE/monster/I|viper vines]]
+**Perception** +24; [[DATABASE/monsterability/Low-Light Vision|low-light vision]], [[DATABASE/monsterability/Tremorsense|tremorsense]] (precise in area A7, otherwise imprecise) 60 feet
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +29, [[DATABASE/skill/Stealth|Stealth]] +26
 **Str** +8, **Dex** +5, **Con** +7, **Int** -4, **Wis** +5, **Cha** -3
 
 ---
@@ -88,12 +88,12 @@ Variant [[I]]
 
 ---
 **Speed** 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +29 [+24/+19] (reach 10 feet), **Damage** 3d6+13 piercing plus 3d6 poison</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> vine +29 [+25/+21] (agile, reach 15 feet), **Damage** 3d10+13 bludgeoning plus [[Grab]]</span><span class="in-box-ability">**Captivating Pollen** <span class="action-icon">1</span> (enchantment, incapacitation, mental, poison) The viper vine releases a 60-foot emanation of invisible pollen that stays in the air for 5 rounds unless dispersed by a moderate or stronger wind. Each creature that enters or starts its turn in the area must attempt a DC 33 Will save or be captivated. The viper vine can't use Captivating Pollen for 1d4 rounds.
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +29 [+24/+19] (reach 10 feet), **Damage** 3d6+13 piercing plus 3d6 poison</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> vine +29 [+25/+21] (agile, reach 15 feet), **Damage** 3d10+13 bludgeoning plus [[DATABASE/monsterability/Grab|Grab]]</span><span class="in-box-ability">**Captivating Pollen** <span class="action-icon">1</span> (enchantment, incapacitation, mental, poison) The viper vine releases a 60-foot emanation of invisible pollen that stays in the air for 5 rounds unless dispersed by a moderate or stronger wind. Each creature that enters or starts its turn in the area must attempt a DC 33 Will save or be captivated. The viper vine can't use Captivating Pollen for 1d4 rounds.
  **Critical Success** The creature is unaffected and is temporarily immune to Captivating Pollen for 24 hours.
- **Success** The creature is [[Sickened]] 1.
- **Failure** The creature is [[Fascinated]], and it must spend each of its actions to move closer to the viper vine as expediently as possible while avoiding obvious dangers. If a captivated creature is adjacent to the viper vine, it stays still and doesn't act. It ceases to be fascinated if it's no longer in the pollen aura at the end of its turn.
-</span><span class="in-box-ability">**[[Constrict]]** <span class="action-icon">1</span> 3d8+10 bludgeoning, DC 35.</span><span class="in-box-ability">**Grasping Roots** <span class="action-icon">5</span> **Trigger** a creature attempts a Move action in area A7; **Requirement** the overgrown viper vine is in area A7; **Effect** The viper vine manipulates its roots to cause foliage around the triggering creature to suddenly seem to spring to life. The triggering creature must attempt a DC 35 Reflex saving throw.
+ **Success** The creature is [[DATABASE/condition/Sickened|sickened]] 1.
+ **Failure** The creature is [[DATABASE/condition/Fascinated|fascinated]], and it must spend each of its actions to move closer to the viper vine as expediently as possible while avoiding obvious dangers. If a captivated creature is adjacent to the viper vine, it stays still and doesn't act. It ceases to be fascinated if it's no longer in the pollen aura at the end of its turn.
+</span><span class="in-box-ability">**[[DATABASE/monsterability/Constrict|Constrict]]** <span class="action-icon">1</span> 3d8+10 bludgeoning, DC 35.</span><span class="in-box-ability">**Grasping Roots** <span class="action-icon">5</span> **Trigger** a creature attempts a Move action in area A7; **Requirement** the overgrown viper vine is in area A7; **Effect** The viper vine manipulates its roots to cause foliage around the triggering creature to suddenly seem to spring to life. The triggering creature must attempt a DC 35 Reflex saving throw.
  **Critical Success** The target is unaffected. 
 **Success**The target treats the first square of its movement as difficult terrain.
- **Failure** The target becomes [[Immobilized]] by the foliage, (escape DC 35).
- **Critical Failure** As failure but the target also falls [[Prone]].</span>
+ **Failure** The target becomes [[DATABASE/condition/Immobilized|immobilized]] by the foliage, (escape DC 35).
+ **Critical Failure** As failure but the target also falls [[DATABASE/condition/Prone|prone]].</span>

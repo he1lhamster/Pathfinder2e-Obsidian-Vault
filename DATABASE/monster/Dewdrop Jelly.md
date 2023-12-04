@@ -77,24 +77,24 @@ wisdom: '+1'
 # Dewdrop Jelly
 
 Dewdrop jellies are small water elementals resembling jellyfish made of gelatinous bubbles. They typically travel in small schools, floating through the air or swimming through the endless seas of their home plane. When threatened, the jellies discorporate into a thin, vaporous mist, reconstituting into their bubble shape only after the danger has passed. Their clever elusiveness makes them hard to find, leading some to claim that dewdrop jellies are mythical flights of fancy told to entertain children.
-**Recall Knowledge - Elemental ([[Arcana]], [[Nature]])**: DC 15
+**Recall Knowledge - Elemental ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Dewdrop Jelly<span class="item-type">Creature 1</span>
 
 <span class="trait-size item-trait">Small</span><span class="item-trait">Aquatic</span><span class="item-trait">Elemental</span><span class="item-trait">Water</span>
-**Source** [[Rage of Elements]]
-**Perception** +7; [[Darkvision]]
-**Languages** [[Thalassic]]
-**Skills** [[Athletics]] +6, [[Stealth]] +7
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
+**Perception** +7; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Thalassic|Thalassic]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +6, [[DATABASE/skill/Stealth|Stealth]] +7
 **Str** +2, **Dex** +3, **Con** +3, **Int** -4, **Wis** +1, **Cha** +0
 
 ---
 **AC** 16; **Fort** +7, **Ref** +10, **Will** +4
-**HP** 20; **Immunities** bleed, [[Paralyzed]], poison, sleep; **Resistances** fire 5
+**HP** 20; **Immunities** bleed, [[DATABASE/condition/Paralyzed|paralyzed]], poison, sleep; **Resistances** fire 5
 <span class="in-box-ability">**Dissolve <span class="action-icon">5</span> ** **Trigger** The dewdrop jelly takes damage from a hostile action; **Effect** The dewdrop jelly dissolves into a fine mist. Until the start of the jelly's next turn, it can't be attacked or targeted and doesn't take up space. At the end of the round, the jelly re-forms in any open space within 25 feet of where it Dissolved.</span>
 
 ---
 **Speed** fly 20 feet, swim 50 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> tentacle +8 [+3/-2], **Damage** 1d6+2 bludgeoning</span><span class="in-box-ability">**Overflow** <span class="action-icon">3</span> (move) The dewdrop jelly flattens its bell and shoots forward, [[Fly]] or [[Swim]] twice in a straight line toward its target and attempting a tentacle Strike. On a success, the dewdrop attaches to the target's face, covering its mouth in the suspended water of its gelatinous body. If the target cannot breathe water, it begins to drown. The DC to [[Escape]] is 16.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> tentacle +8 [+3/-2], **Damage** 1d6+2 bludgeoning</span><span class="in-box-ability">**Overflow** <span class="action-icon">3</span> (move) The dewdrop jelly flattens its bell and shoots forward, [[DATABASE/action/Fly|Flying]] or [[DATABASE/action/Swim|Swimming]] twice in a straight line toward its target and attempting a tentacle Strike. On a success, the dewdrop attaches to the target's face, covering its mouth in the suspended water of its gelatinous body. If the target cannot breathe water, it begins to drown. The DC to [[DATABASE/action/Escape|Escape]] is 16.</span>

@@ -13,6 +13,7 @@ name: Battering Ram
 price: 160 gp
 rarity: Uncommon
 reflex: null
+rus_type_level: null
 size: Large
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
@@ -25,7 +26,7 @@ usage: portable, held in 12 hands
 # Battering Ram<span class="item-type">Item 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-size item-trait">Large</span><span class="item-trait">Portable</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 160 gp
 
 ---

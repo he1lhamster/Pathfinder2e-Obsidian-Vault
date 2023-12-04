@@ -93,16 +93,16 @@ wisdom: '+0'
 # Flesh Golem
 
 Made of odd scraps of skin and muscle, a flesh golem is a grotesque parody of life. Though it has no mind, it can still go into a berserk rage when harmed, giving it a faint semblance of emotion. Flesh golems guard the laboratories and charnel houses of fleshwarpers and necromancers who feel no compunctions about desecrating corpses for their own ends. Though the first flesh golem is believed to have been a misguided attempt to create from simple base elements, these monstrosities are far from human. In isolated cases, echoes of a personality might rise in a flesh golem if the brain used as part of its construction belonged to a particularly powerful personality, but such tragic instances are (thankfully) rare in the extreme.
-**Recall Knowledge - Construct ([[Arcana]], [[Crafting]])**: DC 26
+**Recall Knowledge - Construct ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Crafting|Crafting]])**: DC 26
 **Unspecific Lore**: DC 24
 **Specific Lore**: DC 21
 
 # Flesh Golem<span class="item-type">Creature 8</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Construct</span><span class="item-trait">Golem</span><span class="item-trait">Mindless</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +12; darkvision
-**Skills** [[Athletics]] +19
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +19
 **Str** +5, **Dex** -1, **Con** +3, **Int** -5, **Wis** +0, **Cha** -5
 
 ---
@@ -112,7 +112,7 @@ Made of odd scraps of skin and muscle, a flesh golem is a grotesque parody of li
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +20 [+15/+10] (magical, reach 10 feet), **Damage** 2d10+7 bludgeoning</span><span class="in-box-ability">**Berserk Slam** <span class="action-icon">1</span> **Requirement** The flesh golem is berserk. **Effect** The flesh golem Strikes with its fist at a –1 circumstance penalty. If it hits, it deals 1d6 extra damage and knocks the target [[Prone]].</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +20 [+15/+10] (magical, reach 10 feet), **Damage** 2d10+7 bludgeoning</span><span class="in-box-ability">**Berserk Slam** <span class="action-icon">1</span> **Requirement** The flesh golem is berserk. **Effect** The flesh golem Strikes with its fist at a –1 circumstance penalty. If it hits, it deals 1d6 extra damage and knocks the target [[DATABASE/condition/Prone|prone]].</span>
 
 ###  Flesh Golems
 

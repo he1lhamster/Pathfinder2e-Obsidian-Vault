@@ -66,24 +66,24 @@ wisdom: '+2'
 # Guard
 
 Guards are rank-and-file members of a town watch or city guard, trained to look for trouble, take down criminals, and follow orders. They are a match for only the most fledgling of adventurers and criminals, but, given time, the settlement can usually muster them in numbers sufficient to neutralize most threats.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 15
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Guard<span class="item-type">Creature 1</span>
 
 <span class="trait-alignment item-trait">LN</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Perception** +7; (8 to find concealed objects) 
-**Languages** [[Common]]
-**Skills** [[Athletics]] +7, [[Intimidation]] +5, [[Lore]] +3
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +7, [[DATABASE/skill/Intimidation|Intimidation]] +5, [[DATABASE/skill/Lore|Legal Lore]] +3
 **Str** +4, **Dex** +2, **Con** +2, **Int** +0, **Wis** +2, **Cha** -1
-**Items** [[Club]], [[Crossbow]], [[Dagger]], [[Sap]], [[Scale Mail]], [[Signal Whistle]]
+**Items** [[DATABASE/weapon/Club|club]], [[DATABASE/weapon/Crossbow|crossbow (10 bolts)]], [[DATABASE/weapon/Dagger|dagger]], [[DATABASE/weapon/Sap|sap]], [[DATABASE/armor/Scale Mail|scale mail]], [[DATABASE/equipment/Signal Whistle|signal whistle]]
 
 ---
 **AC** 18; **Fort** +7, **Ref** +5, **Will** +5
 **HP** 20
-<span class="in-box-ability">**[[Attack of Opportunity]] <span class="action-icon">5</span> ** </span>
+<span class="in-box-ability">**[[DATABASE/monsterability/Attack of Opportunity|Attack of Opportunity]] <span class="action-icon">5</span> ** </span>
 
 ---
 **Speed** 25 feet

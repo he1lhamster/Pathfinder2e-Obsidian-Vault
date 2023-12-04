@@ -68,20 +68,20 @@ wisdom: '+4'
 # Surgeon
 
 The surgeon specializes in the physical alteration of the body to prevent the spread of disease, removing necrotic and decaying flesh to help the whole to survive. Few healers know the science of anatomy and physiology better than the surgeon. While their expertise is of grave importance in the medical world, the downside is that when one is in need of their talents, it is likely the complaint is serious. In medical matters, a surgeon is a 6th-level challenge.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 16
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
 # Surgeon<span class="item-type">Creature 2</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Perception** +14
-**Languages** [[Common]]
-**Skills** [[Crafting]] +10, [[Diplomacy]] +8, [[Medicine]] +16
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Crafting|Crafting]] +10, [[DATABASE/skill/Diplomacy|Diplomacy]] +8, [[DATABASE/skill/Medicine|Medicine]] +16
 **Str** +1, **Dex** +3, **Con** +1, **Int** +2, **Wis** +4, **Cha** +0
-**Doctor's Hand** When the surgeon rolls a critical failure on a check to [[Treat Disease]], [[Treat Poison]], or [[Treat Wounds]], they get a failure instead.
-**Items** [[Healer's Tools]], scalpel
+**Doctor's Hand** When the surgeon rolls a critical failure on a check to [[DATABASE/action/Treat Disease|Treat Disease]], [[DATABASE/action/Treat Poison|Treat Poison]], or [[DATABASE/action/Treat Wounds|Treat Wounds]], they get a failure instead.
+**Items** [[DATABASE/equipment/Healer's Tools|healer's tools]], scalpel
 
 ---
 **AC** 17; **Fort** +7, **Ref** +7, **Will** +10
@@ -89,4 +89,4 @@ The surgeon specializes in the physical alteration of the body to prevent the sp
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> scalpel +11 [+7/+3] (agile, versatile P), **Damage** 1d4+1 slashing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> scalpel +11 [+7/+3] (agile, thrown 10 feet, versatile P), **Damage** 1d4+1 slashing</span><span class="in-box-ability">**Medical Malpractice** <span class="action-icon">1</span> The surgeon attempts a [[Medicine]] check against the Fortitude DC of one living creature they can see within 60 feet. On a success, the surgeon's melee Strikes deal an extra 1d6 precision damage against that creature (2d6 on a critical success) until 1 minute passes or the surgeon critically hits that creature, whichever comes first. Using this action again designates a new target and ends the effect for any previous target. A surgeon can target an individual creature no more than once per day with this ability.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> scalpel +11 [+7/+3] (agile, versatile P), **Damage** 1d4+1 slashing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> scalpel +11 [+7/+3] (agile, thrown 10 feet, versatile P), **Damage** 1d4+1 slashing</span><span class="in-box-ability">**Medical Malpractice** <span class="action-icon">1</span> The surgeon attempts a [[DATABASE/skill/Medicine|Medicine]] check against the Fortitude DC of one living creature they can see within 60 feet. On a success, the surgeon's melee Strikes deal an extra 1d6 precision damage against that creature (2d6 on a critical success) until 1 minute passes or the surgeon critically hits that creature, whichever comes first. Using this action again designates a new target and ends the effect for any previous target. A surgeon can target an individual creature no more than once per day with this ability.</span>

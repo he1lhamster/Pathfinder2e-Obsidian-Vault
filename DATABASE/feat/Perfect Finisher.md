@@ -11,6 +11,7 @@ name: Perfect Finisher
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,7 +26,7 @@ type: Feat
 # Perfect Finisher <span class="action-icon">1</span> <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Finisher</span><span class="item-trait">Fortune</span><span class="item-trait">Swashbuckler</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
 You focus your panache into an impeccable assault. Make a Strike, rolling the attack roll twice and using the better result.

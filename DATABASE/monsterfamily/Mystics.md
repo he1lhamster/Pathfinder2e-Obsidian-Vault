@@ -3,6 +3,7 @@ creature_family: Mystics
 id: '191'
 name: Mystics
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Mystics
 
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 Those initiated into the hidden truths and forbidden secrets of the world are forever transformed—or so they claim. To the cynical, a mystic is nothing more than a charlatan or zealot. Others profess to sense an aura around such luminaries and treat them with reverence, lest they offend some harbinger of unspeakable doom.
 
 ### Members
 
-[[Adept]] (Creature -1), [[Cult Leader]] (Creature 7), [[Cultist]] (Creature 1), [[Demonologist]] (Creature 7), [[False Priest]] (Creature 4), [[Harrow Reader]] (Creature -1), [[Necromancer]] (Creature 5)
+[[DATABASE/npc/Adept|Adept]] (Creature -1), [[DATABASE/npc/Cult Leader|Cult Leader]] (Creature 7), [[DATABASE/npc/Cultist|Cultist]] (Creature 1), [[DATABASE/npc/Demonologist|Demonologist]] (Creature 7), [[DATABASE/npc/False Priest|False Priest]] (Creature 4), [[DATABASE/npc/Harrow Reader|Harrow Reader]] (Creature -1), [[DATABASE/npc/Necromancer|Necromancer]] (Creature 5)
 
 ###  Dark Rituals
 
@@ -41,11 +42,11 @@ Golarion has several mystic groups. **The Church of Razmir** offers a plan of 31
 
 The following are rituals sometimes cast by mystic groups. Those from the _Bestiary_ are available only to appropriate celestials and fiends within the organizations.
 
-* [[Abyssal Pact]]
-* [[Angelic Messenger]]
-* [[Call Spirit]]
-* [[Commune]]
-* [[Infernal Pact]]
-* [[Legend Lore]]
-* [[Planar Ally]]
-* [[Planar Binding]]
+* [[DATABASE/ritual/Abyssal Pact|Abyssal pact]]
+* [[DATABASE/ritual/Angelic Messenger|angelic messenger]]
+* [[DATABASE/ritual/Call Spirit|call spirit]]
+* [[DATABASE/ritual/Commune|commune]]
+* [[DATABASE/ritual/Infernal Pact|Infernal pact]]
+* [[DATABASE/ritual/Legend Lore|legend lore]]
+* [[DATABASE/ritual/Planar Ally|planar ally]]
+* [[DATABASE/ritual/Planar Binding|planar binding]]

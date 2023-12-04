@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Monastic Weaponry|Monastic Weaponry]]'
 rarity: Common
 requirement: You are wielding a sword that has the [[DATABASE/trait/Monk|monk]] trait
   in onehand.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,8 +26,8 @@ type: Feat
 # Peafowl Stance <span class="action-icon">1</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Monk</span><span class="item-trait">Stance</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** [[Monastic Weaponry]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** [[DATABASE/feat/Monastic Weaponry|Monastic Weaponry]]
 **Requirements** You are wielding a sword that has the monk trait in one hand.
 
 ---
@@ -34,7 +35,7 @@ You enter a tall and proud stance while remaining mobile, with all the grace and
 
 ## Peafowl Stance Leads To...
 
-[[Peafowl Strut]]
+[[DATABASE/feat/Peafowl Strut|Peafowl Strut]]
 
 ## Traits
 

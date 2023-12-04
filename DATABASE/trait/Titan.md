@@ -2,6 +2,7 @@
 id: '316'
 name: Titan
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 156. The Apocalypse Prophet|Pathfinder #156:
   The Apocalypse Prophet]]'
 trait:
@@ -11,9 +12,9 @@ type: Trait
 ---
 # Titan
 
-**Source** [[Pathfinder 156. The Apocalypse Prophet]]
+**Source** [[DATABASE/source/Pathfinder 156. The Apocalypse Prophet|Pathfinder #156: The Apocalypse Prophet]]
 Titans are enormous, primordial creatures of neargodlike power who predate the mortal races.
 
 ## Monsters
 
-[[Danava Titan]], [[Elysian Titan]], [[Hekatonkheires Titan]], [[Thanatotic Titan]]
+[[DATABASE/monster/Danava Titan|Danava Titan]], [[DATABASE/monster/Elysian Titan|Elysian Titan]], [[DATABASE/monster/Hekatonkheires Titan|Hekatonkheires Titan]], [[DATABASE/monster/Thanatotic Titan|Thanatotic Titan]]

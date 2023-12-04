@@ -22,6 +22,7 @@ patron_theme: null
 range: 500 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -39,7 +40,7 @@ type: Spell
 # Clairaudience<span class="item-type">Spell 3</span>
 
 <span class="item-trait">Divination</span><span class="item-trait">Scrying</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult
 **Cast** 1 minute (material, somatic, verbal)
 **Range** 500 feet

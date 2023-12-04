@@ -11,6 +11,7 @@ name: Natural Medicine
 prerequisite: Trained in [[DATABASE/skill/Nature|Nature]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: nature
@@ -24,15 +25,15 @@ type: Feat
 # Natural Medicine <span class="item-type">Feat 1</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** trained in [[Nature]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** trained in [[DATABASE/skill/Nature|Nature]]
 
 ---
 You can apply natural cures to heal your allies. You can use Nature instead of Medicine to Treat Wounds. If you’re in the wilderness, you might have easier access to fresh ingredients, allowing you to gain a +2 circumstance bonus to your check to Treat Wounds using Nature, subject to the GM’s determination.
 
 ## Natural Medicine Leads To...
 
-[[Herbalist Dedication]]
+[[DATABASE/feat/Herbalist Dedication|Herbalist Dedication]]
 
 ## Traits
 

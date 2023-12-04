@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/class_/Magus|Spellstrike]] , [[DATABASE/magushybridstu
   Tree|twisting tree hybrid study]]'
 rarity: Common
 requirement: You're wielding a [[DATABASE/weapon/Staff|staff]] .
+rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -26,9 +27,9 @@ type: Feat
 # Lunging Spellstrike <span class="action-icon">2</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Arcane</span><span class="item-trait">Magus</span><span class="item-trait">Transmutation</span>
-**Source** [[Secrets of Magic]] 
-**Prerequisites** [[Magus]], [[Twisting Tree]]
-**Requirements** You're wielding a [[Staff]].
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
+**Prerequisites** [[DATABASE/class_/Magus|Spellstrike]], [[DATABASE/magushybridstudy/Twisting Tree|twisting tree hybrid study]]
+**Requirements** You're wielding a [[DATABASE/weapon/Staff|staff]].
 
 ---
 Your spell unwinds the structure of your staff to make it exceptionally long, or even separate it into shards held together by magical power. Make a Spellstrike with a staff, with a spell that isn't a cantrip or focus spell. Increase the staff's reach by 5 feet × the spell's level.

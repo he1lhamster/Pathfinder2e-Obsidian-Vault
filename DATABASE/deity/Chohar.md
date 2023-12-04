@@ -29,6 +29,7 @@ follower_alignment:
 id: '215'
 name: Chohar
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Intimidation|Intimidation]]'
 source: '[[DATABASE/source/Legends|Legends]]'
@@ -38,21 +39,21 @@ type: Deity
 ---
 # Chohar (The Golden Lion) [LG]
 
-**Source** [[Legends]]
+**Source** [[DATABASE/source/Legends|Legends]]
 The Lion God of justice, loyalty, and work. He is most commonly depicted as a golden lion with a sun for a mane. Some priests of Walkena claim that the child god is a descendant of Chohar, because of their shared love of justice—yet Walkena's justice is vindictive and cruel, while Chohar's is one of duty.
 **Category** Old Sun Gods
 **Edicts** finish any and all tasks you accept, bring those who are cruel to justice, show pride in your home and your heritage
 **Anathema** break your word, be cruel to the innocent, rebuke someone due to their homeland
 **Areas of Concern** justice, loyalty, and work
 **Follower Alignments** LG, NG, LN
-**Pantheons** [[Demon Bringers]], [[Touch of the Sun]]
+**Pantheons** [[DATABASE/deity/Demon Bringers|Demon Bringers]], [[DATABASE/deity/Touch of the Sun|Touch of the Sun]]
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Strength or Charisma
-**Divine Font** _[[Heal]]_
-**Divine Skill** [[Intimidation]]
-**Favored Weapon** [[Starknife]]
-**Domains** [[Cities Domain]], [[Family Domain]], [[Fire Domain]], [[Sun Domain]]
-**Alternate Domains** [[Duty Domain]], [[Vigil Domain]], [[Zeal Domain]]
-**Cleric Spells** 1st: _[[Burning Hands]]_, 3rd: _[[Fireball]]_, 4th: _[[Fire Shield]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Strength or Charisma
+**Divine Font** _[[DATABASE/spell/Heal|heal]]_
+**Divine Skill** [[DATABASE/skill/Intimidation|Intimidation]]
+**Favored Weapon** [[DATABASE/weapon/Starknife|starknife]]
+**Domains** [[DATABASE/domain/Cities Domain|cities]], [[DATABASE/domain/Family Domain|family]], [[DATABASE/domain/Fire Domain|fire]], [[DATABASE/domain/Sun Domain|sun]]
+**Alternate Domains** [[DATABASE/domain/Duty Domain|duty]], [[DATABASE/domain/Vigil Domain|vigil]], [[DATABASE/domain/Zeal Domain|zeal]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Burning Hands|burning hands]]_, 3rd: _[[DATABASE/spell/Fireball|fireball]]_, 4th: _[[DATABASE/spell/Fire Shield|fire shield]]_

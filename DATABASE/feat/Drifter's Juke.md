@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/gunslingerway/Way of the Drifter|way of the drifter]]'
 rarity: Common
 requirement: You're wielding a firearm or crossbow in one hand, and your other hand
   is either wielding a meleeweapon or is empty.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -25,8 +26,8 @@ type: Feat
 # Drifter's Juke <span class="action-icon">2</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Flourish</span><span class="item-trait">Gunslinger</span>
-**Source** [[Guns & Gears]]
-**Prerequisites** [[Way of the Drifter]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Prerequisites** [[DATABASE/gunslingerway/Way of the Drifter|way of the drifter]]
 **Requirements** You're wielding a firearm or crossbow in one hand, and your other hand is either wielding a melee weapon or is empty.
 
 ---

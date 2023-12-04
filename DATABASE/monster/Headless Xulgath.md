@@ -73,28 +73,28 @@ wisdom: '+3'
 # Headless Xulgath
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 38
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 38
 **Unspecific Lore**: DC 36
 **Specific Lore**: DC 33
 
 # Headless Xulgath<span class="item-type">Creature 11</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Humanoid</span><span class="item-trait">Xulgath</span>
-**Source** [[Pathfinder 153. Life's Long Shadows]]
+**Source** [[DATABASE/source/Pathfinder 153. Life's Long Shadows|Pathfinder #153: Life's Long Shadows]]
 **Perception** +20; motion sense, no vision
-**Languages** [[Draconic]], [[Undercommon]]; (can't speak any language)
-**Skills** [[Athletics]] +23, [[Intimidation]] +21, [[Survival]] +21
+**Languages** [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Undercommon|Undercommon]]; (can't speak any language)
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +23, [[DATABASE/skill/Intimidation|Intimidation]] +21, [[DATABASE/skill/Survival|Survival]] +21
 **Str** +7, **Dex** +3, **Con** +5, **Int** +0, **Wis** +3, **Cha** +3
 **Motion Sense** The headless xulgath can sense nearby motion through vibrations and air movement
 
 ---
 **AC** 29; **Fort** +24, **Ref** +20, **Will** +22
 **HP** 195
-<span class="in-box-ability">**[[Attack of Opportunity]] <span class="action-icon">5</span> ** </span><span class="in-box-ability">**Powerful Stench** (aura, olfactory) 30 feet. A creature that enters the area must attempt a DC 29 Fortitude save. On a failure, the creature is [[Sickened]], and on a critical failure, the creature is also [[Slowed]] for as long as it is sickened. While within the aura, the creature takes a –2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all xulgaths' stenches for 1 minute.</span>
+<span class="in-box-ability">**[[DATABASE/monsterability/Attack of Opportunity|Attack of Opportunity]] <span class="action-icon">5</span> ** </span><span class="in-box-ability">**Powerful Stench** (aura, olfactory) 30 feet. A creature that enters the area must attempt a DC 29 Fortitude save. On a failure, the creature is [[DATABASE/condition/Sickened|sickened 2]], and on a critical failure, the creature is also [[DATABASE/condition/Slowed|slowed 1]] for as long as it is sickened. While within the aura, the creature takes a –2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all xulgaths' stenches for 1 minute.</span>
 
 ---
 **Speed** 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +22 [+18/+14] (agile, reach 15 feet), **Damage** 2d8+13 slashing plus [[Grab]]</span><span class="in-box-ability">**Choke Slam **Frequency** once per round** <span class="action-icon">1</span> **Requirements** The headless xulgath has a creature [[Grabbed]]; **Effect** The headless xulgath slams the creature against a nearby surface. The creature takes 6d6+6 bludgeoning damage and must attempt a DC 30 Fortitude save. 
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +22 [+18/+14] (agile, reach 15 feet), **Damage** 2d8+13 slashing plus [[DATABASE/monsterability/Grab|Grab]]</span><span class="in-box-ability">**Choke Slam **Frequency** once per round** <span class="action-icon">1</span> **Requirements** The headless xulgath has a creature [[DATABASE/condition/Grabbed|grabbed]]; **Effect** The headless xulgath slams the creature against a nearby surface. The creature takes 6d6+6 bludgeoning damage and must attempt a DC 30 Fortitude save. 
 **Critical Success** The creature is no longer grabbed. 
-**Failure** The creature is [[Slowed]] for 1 round. 
-**Critical Failure** The creature is [[Stunned]] for 1 round.</span><span class="in-box-ability">**Furious Claws** <span class="action-icon">3</span> (attack) The headless xulgath makes up to four claws Strikes, each against a different target. These attacks all count toward the headless xulgath's multiple attack penalty, but the penalty doesn't increase until after the headless xulgath makes all its attacks.</span>
+**Failure** The creature is [[DATABASE/condition/Slowed|slowed 1]] for 1 round. 
+**Critical Failure** The creature is [[DATABASE/condition/Stunned|stunned]] for 1 round.</span><span class="in-box-ability">**Furious Claws** <span class="action-icon">3</span> (attack) The headless xulgath makes up to four claws Strikes, each against a different target. These attacks all count toward the headless xulgath's multiple attack penalty, but the penalty doesn't increase until after the headless xulgath makes all its attacks.</span>

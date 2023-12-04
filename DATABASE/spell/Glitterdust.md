@@ -24,6 +24,7 @@ patron_theme: null
 range: 120 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Reflex
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -40,9 +41,9 @@ type: Spell
 # Glitterdust<span class="item-type">Spell 2</span>
 
 <span class="item-trait">Evocation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, primal
-**Deities** [[Ashava]], [[Cosmic Caravan]]
+**Deities** [[DATABASE/deity/Ashava|Ashava]], [[DATABASE/deity/Cosmic Caravan|Cosmic Caravan]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 120 feet; **Area** 10-foot burst
 **Saving Throw** Reflex

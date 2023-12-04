@@ -8,6 +8,7 @@ name: Sense Weakness
 rarity: Common
 requirement: "You\u2019re in a duel, you\u2019re trained in Perception, and you rolled\
   \ a Perception check for initiative thisround."
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait: null
@@ -18,7 +19,7 @@ type: Action
 ---
 # Sense Weakness <span class="action-icon">5</span>
 
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Trigger** You attempt a melee Strike against your opponent, but haven’t rolled yet.
 **Requirements** You’re in a duel, you’re trained in Perception, and you rolled a Perception check for initiative this round.
 

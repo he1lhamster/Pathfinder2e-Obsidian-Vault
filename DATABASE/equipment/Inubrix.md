@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -53,7 +54,7 @@ weapon_type: null
 # Inubrix<span class="item-type">Item 0+</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Precious</span>
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Bulk** —
 
 ---
@@ -61,39 +62,41 @@ This pale, malleable metal's unusual molecular structure allows it to partially 
 
 ## Inubrix
 
-| ('Inubrix Items', 'Thin Items')   |   ('Hardness', 'Unnamed: 1_level_1') |   ('HP', 'Unnamed: 2_level_1') |   ('BT', 'Unnamed: 3_level_1') |
-|:----------------------------------|-------------------------------------:|-------------------------------:|-------------------------------:|
-| Standard-grade                    |                                    4 |                             16 |                              8 |
-| High-grade                        |                                    7 |                             28 |                             14 |
-| Items                             |                                  nan |                            nan |                            nan |
-| Standard-grade                    |                                    8 |                             32 |                             16 |
-| High-grade                        |                                   11 |                             44 |                             22 |
-| Structures                        |                                  nan |                            nan |                            nan |
-| Standard-grade                    |                                   17 |                             68 |                             34 |
-| High-grade                        |                                   23 |                             92 |                             46 |
+| 0 | 1 | 2 | 3 |
+|:---------------|:-----------|:-----------|:-----------|
+| Inubrix Items | Hardness | HP | BT |
+| Thin Items | Thin Items | Thin Items | Thin Items |
+| Standard-grade | 4 | 16 | 8 |
+| High-grade | 7 | 28 | 14 |
+| Items | Items | Items | Items |
+| Standard-grade | 8 | 32 | 16 |
+| High-grade | 11 | 44 | 22 |
+| Structures | Structures | Structures | Structures |
+| Standard-grade | 17 | 68 | 34 |
+| High-grade | 23 | 92 | 46 |
 
 ### Material Uses
 
-[[Inubrix Armor]]
-[[Inubrix Shield]]
-[[Inubrix Weapon]]
+[[DATABASE/equipment/Inubrix Armor|Inubrix Armor]]
+[[DATABASE/equipment/Inubrix Shield|Inubrix Shield]]
+[[DATABASE/equipment/Inubrix Weapon|Inubrix Weapon]]
 
 ## Inubrix Chunk<span class="item-type">Item 0</span>
 
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 550 gp
 
 ## Inubrix Ingot<span class="item-type">Item 0</span>
 
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 5,500 gp
 
 ## Inubrix Object (Standard-Grade)<span class="item-type">Item 8</span>
 
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 400 gp (per Bulk)
 
 ## Inubrix Object (High-Grade)<span class="item-type">Item 16</span>
 
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 6,500 gp (per Bulk)

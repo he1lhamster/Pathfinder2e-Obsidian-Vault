@@ -11,6 +11,7 @@ name: Wary Skulker
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,13 +24,13 @@ type: Feat
 # Wary Skulker <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Catfolk</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
-Ever alert, you scout for danger even when you are trying to stay hidden. You can perform the [[Scout]] exploration activity at the same time as the [[Avoid Notice]] exploration activity.
+Ever alert, you scout for danger even when you are trying to stay hidden. You can perform the [[DATABASE/action/Scout|Scout]] exploration activity at the same time as the [[DATABASE/action/Avoid Notice|Avoid Notice]] exploration activity.
 
 ## Traits
 
 **Catfolk:**
 
-A creature with this trait is a member of the [[Catfolk]] ancestry. Catfolk are humanoids with feline features. An ability with this trait can be used or selected only by catfolk. An item with this trait is created and used by catfolk.
+A creature with this trait is a member of the [[DATABASE/ancestry/Catfolk|catfolk]] ancestry. Catfolk are humanoids with feline features. An ability with this trait can be used or selected only by catfolk. An item with this trait is created and used by catfolk.

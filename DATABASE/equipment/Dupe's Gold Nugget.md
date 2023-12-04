@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: You're an expert with the affixed weapon.
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -57,7 +58,7 @@ weapon_type: null
 # Dupe's Gold Nugget<span class="item-type">Item 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Consumable</span><span class="item-trait">Magical</span><span class="item-trait">Talisman</span><span class="item-trait">Transmutation</span>
-**Source** [[Pathfinder 179. Cradle of Quartz]]
+**Source** [[DATABASE/source/Pathfinder 179. Cradle of Quartz|Pathfinder #179: Cradle of Quartz]]
 **Price** 30 gp
 **Usage** affixed to a ranged weapon; **Bulk** —
 **Activate** <span class="action-icon">4</span> envision **Trigger** You hit with a ranged Strike with the affixed weapon; **Requirements** You're an expert with the affixed weapon.

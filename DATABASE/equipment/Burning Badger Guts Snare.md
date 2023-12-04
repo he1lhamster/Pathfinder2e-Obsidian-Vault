@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -57,13 +58,13 @@ weapon_type: null
 # Burning Badger Guts Snare<span class="item-type">Item 10</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Consumable</span><span class="item-trait">Fire</span><span class="item-trait">Mechanical</span><span class="item-trait">Snare</span><span class="item-trait">Trap</span>
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 170 gp
 **Bulk** —
 
 ---
 When a creature enters the trapped square, putrefied badger guts coated in hyper-flammable oil and several other incendiary reactants catch fire and are dumped in the snare's square, as well as up to two adjacent squares that you choose when you set the snare. The burning oil deals 5d8 fire damage to any creatures in the affected squares. Those creatures must attempt a DC 27 Fortitude save.
 **Critical Success** The creature is unaffected.
-**Success** The creature takes half damage and 1d8 [[Persistent Damage]].
-**Failure** The creature takes full damage and 2d8 persistent fire damage, and is [[Sickened]].
+**Success** The creature takes half damage and 1d8 [[DATABASE/condition/Persistent Damage|persistent fire damage]].
+**Failure** The creature takes full damage and 2d8 persistent fire damage, and is [[DATABASE/condition/Sickened|sickened 1]].
 **Critical Failure** As failure, but the creature is sickened 2.

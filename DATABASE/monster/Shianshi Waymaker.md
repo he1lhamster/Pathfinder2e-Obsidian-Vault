@@ -100,29 +100,29 @@ wisdom: '+5'
 # Shianshi Waymaker
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 48
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 48
 **Unspecific Lore**: DC 46
 **Specific Lore**: DC 43
 
 # Shianshi Waymaker<span class="item-type">Creature 18</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Humanoid</span><span class="item-trait">Negative</span>
-**Source** [[Pathfinder 174. Shadows of the Ancients]]
-Female variant [[Sumbreiva]]
-**Perception** +32; [[Darkvision]], [[Scent]] (imprecise) 30 feet
-**Languages** [[Aklo]], [[Common]], [[Necril]]
-**Skills** [[Arcana]] +35, [[Athletics]] +34, [[Intimidation]] +32, [[Occultism]] +31, [[Stealth]] +38, [[Survival]] +31
+**Source** [[DATABASE/source/Pathfinder 174. Shadows of the Ancients|Pathfinder #174: Shadows of the Ancients]]
+Female variant [[DATABASE/monster/Sumbreiva|sumbreiva]]
+**Perception** +32; [[DATABASE/monsterability/Darkvision|greater darkvision]], [[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet
+**Languages** [[DATABASE/language/Aklo|Aklo]], [[DATABASE/language/Common|Common]], [[DATABASE/language/Necril|Necril]]
+**Skills** [[DATABASE/skill/Arcana|Arcana]] +35, [[DATABASE/skill/Athletics|Athletics]] +34, [[DATABASE/skill/Intimidation|Intimidation]] +32, [[DATABASE/skill/Occultism|Occultism]] +31, [[DATABASE/skill/Stealth|Stealth]] +38, [[DATABASE/skill/Survival|Survival]] +31
 **Str** +8, **Dex** +8, **Con** +3, **Int** +9, **Wis** +5, **Cha** +4
-**Items** _+3 [[Striking]] [[Orichalcum Weapon]] [[Greatsword]]_
+**Items** _+3 [[DATABASE/equipment/Striking|greater striking]] [[DATABASE/equipment/Orichalcum Weapon|orichalcum]] [[DATABASE/weapon/Greatsword|greatsword]]_
 
 ---
 **AC** 42; **Fort** +27, **Ref** +35, **Will** +29
-**HP** 330 ([[Negative Healing]]); **Immunities** death effects, [[Drained]]
-<span class="in-box-ability">**[[Attack of Opportunity]] <span class="action-icon">5</span> ** </span>
+**HP** 330 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects, [[DATABASE/condition/Drained|drained]]
+<span class="in-box-ability">**[[DATABASE/monsterability/Attack of Opportunity|Attack of Opportunity]] <span class="action-icon">5</span> ** </span>
 
 ---
 **Speed** 50 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _greatsword_ +36 [+31/+26] (death, magical, versatile P), **Damage** 3d12+14 slashing plus huntblade brutality</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> shadow whip +36 [+32/+28] (agile, death, disarm, finesse, magical, reach 10 feet, trip), **Damage** 3d4+14 bludgeoning plus [[Improved Grab]]</span>**Arcane Prepared Spells** DC 40, attack +32; **9th** _[[Dispel Magic]]_, _[[Foresight]]_, _[[Telepathic Demand]]_; **8th** _[[Eclipse Burst]]_, _[[Maze]]_, _[[Unrelenting Observation]]_; **7th** _[[Dimensional Lock]]_, _[[Plane Shift]]_, _[[True Target]]_; **6th** _[[Collective Transposition]]_, _[[Disintegrate]]_, _[[Teleport]]_; **5th** _[[Dimension Door]]_, _[[Sending]]_, _[[Shadow Walk]]_; **Cantrips** **(9th)** _[[Daze]]_, _[[Detect Magic]]_, _[[Electric Arc]]_, _[[Produce Flame]]_, _[[Read Aura]]_
-**Arcane Innate Spells** DC 40; **4th** _[[Darkness]]_, _[[Earthbind]]_
-**Rituals** DC 40; **8th** _[[Imprisonment]]_
-<span class="in-box-ability">**Claim Trophy** <span class="action-icon">1</span> Shianshi claims the soul of a creature she killed within the last minute. This works like [[Bind Soul]], except that no black sapphire is required and the soul is turned into a glowing blue light called a soul trophy. Anyone who kills Shianshi can then free the soul from any soul trophy by touching it and speaking the word for “freedom” in any language.</span><span class="in-box-ability">**Huntblade Brutality** Shianshi's greatsword Strikes have the death trait and deal an additional 2d8 damage to [[Drained]], [[Flat-Footed]], or [[Frightened]] creatures.</span><span class="in-box-ability">**Hunter's Leap** <span class="action-icon">5</span> (occult, conjuration, teleportation) **Trigger** Shianshi kills a creature; **Effect** Shianshi teleports up to 30 feet and makes a greatsword Strike; on a hit, the target of the Strike is [[Frightened]] (frightened 3 on a critical hit).</span><span class="in-box-ability">**Whip Drain** <span class="action-icon">1</span> (arcane, death, necromancy) **Requirements** Shianshi has a creature [[Grabbed]] with her shadow whip; **Effect** The grabbed creature must succeed at a DC 41 Fortitude save or become [[Drained]] (drained 3 on a critical failure). If the creature is already drained, this increases its drained value instead, to a maximum of drained 4.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _greatsword_ +36 [+31/+26] (death, magical, versatile P), **Damage** 3d12+14 slashing plus huntblade brutality</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> shadow whip +36 [+32/+28] (agile, death, disarm, finesse, magical, reach 10 feet, trip), **Damage** 3d4+14 bludgeoning plus [[DATABASE/monsterability/Improved Grab|Improved Grab]]</span>**Arcane Prepared Spells** DC 40, attack +32; **9th** _[[DATABASE/spell/Dispel Magic|dispel magic]]_, _[[DATABASE/spell/Foresight|foresight]]_, _[[DATABASE/spell/Telepathic Demand|telepathic demand]]_; **8th** _[[DATABASE/spell/Eclipse Burst|eclipse burst]]_, _[[DATABASE/spell/Maze|maze]]_, _[[DATABASE/spell/Unrelenting Observation|unrelenting observation]]_; **7th** _[[DATABASE/spell/Dimensional Lock|dimensional lock]]_, _[[DATABASE/spell/Plane Shift|plane shift]]_, _[[DATABASE/spell/True Target|true target]]_; **6th** _[[DATABASE/spell/Collective Transposition|collective transposition]]_, _[[DATABASE/spell/Disintegrate|disintegrate]]_, _[[DATABASE/spell/Teleport|teleport]]_; **5th** _[[DATABASE/spell/Dimension Door|dimension door]]_, _[[DATABASE/spell/Sending|sending]]_, _[[DATABASE/spell/Shadow Walk|shadow walk]]_; **Cantrips** **(9th)** _[[DATABASE/spell/Daze|daze]]_, _[[DATABASE/spell/Detect Magic|detect magic]]_, _[[DATABASE/spell/Electric Arc|electric arc]]_, _[[DATABASE/spell/Produce Flame|produce flame]]_, _[[DATABASE/spell/Read Aura|read aura]]_
+**Arcane Innate Spells** DC 40; **4th** _[[DATABASE/spell/Darkness|darkness]]_, _[[DATABASE/spell/Earthbind|earthbind]]_
+**Rituals** DC 40; **8th** _[[DATABASE/ritual/Imprisonment|imprisonment]]_
+<span class="in-box-ability">**Claim Trophy** <span class="action-icon">1</span> Shianshi claims the soul of a creature she killed within the last minute. This works like [[DATABASE/spell/Bind Soul|bind soul]], except that no black sapphire is required and the soul is turned into a glowing blue light called a soul trophy. Anyone who kills Shianshi can then free the soul from any soul trophy by touching it and speaking the word for “freedom” in any language.</span><span class="in-box-ability">**Huntblade Brutality** Shianshi's greatsword Strikes have the death trait and deal an additional 2d8 damage to [[DATABASE/condition/Drained|drained]], [[DATABASE/condition/Flat-Footed|flat-footed]], or [[DATABASE/condition/Frightened|frightened]] creatures.</span><span class="in-box-ability">**Hunter's Leap** <span class="action-icon">5</span> (occult, conjuration, teleportation) **Trigger** Shianshi kills a creature; **Effect** Shianshi teleports up to 30 feet and makes a greatsword Strike; on a hit, the target of the Strike is [[DATABASE/condition/Frightened|frightened 1]] (frightened 3 on a critical hit).</span><span class="in-box-ability">**Whip Drain** <span class="action-icon">1</span> (arcane, death, necromancy) **Requirements** Shianshi has a creature [[DATABASE/condition/Grabbed|grabbed]] with her shadow whip; **Effect** The grabbed creature must succeed at a DC 41 Fortitude save or become [[DATABASE/condition/Drained|drained 2]] (drained 3 on a critical failure). If the creature is already drained, this increases its drained value instead, to a maximum of drained 4.</span>

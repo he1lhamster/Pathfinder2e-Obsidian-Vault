@@ -11,6 +11,7 @@ name: Aquatic Conversationalist
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Aquatic Conversationalist <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Azarketi</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-You can ask questions of, receive answers from, and use the [[Diplomacy]] skill with animals with the amphibious or aquatic traits. You gain a +1 circumstance bonus to [[Make an Impression]] on such animals.
+You can ask questions of, receive answers from, and use the [[DATABASE/skill/Diplomacy|Diplomacy]] skill with animals with the amphibious or aquatic traits. You gain a +1 circumstance bonus to [[DATABASE/action/Make an Impression|Make an Impression]] on such animals.
 
 ## Traits
 

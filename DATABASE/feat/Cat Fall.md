@@ -11,6 +11,7 @@ name: Cat Fall
 prerequisite: Trained in [[DATABASE/skill/Acrobatics|Acrobatics]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: acrobatics
@@ -24,15 +25,15 @@ type: Feat
 # Cat Fall <span class="item-type">Feat 1</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** trained in [[Acrobatics]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** trained in [[DATABASE/skill/Acrobatics|Acrobatics]]
 
 ---
 Your catlike aerial acrobatics allow you to cushion your falls. Treat falls as 10 feet shorter. If you’re an expert in Acrobatics, treat falls as 25 feet shorter. If you’re a master in Acrobatics, treat them as 50 feet shorter. If you’re legendary in Acrobatics, you always land on your feet and don’t take damage, regardless of the distance of the fall.
 
 ## Cat Fall Leads To...
 
-[[Leshy Glide]], [[Rolling Landing]]
+[[DATABASE/feat/Leshy Glide|Leshy Glide]], [[DATABASE/feat/Rolling Landing|Rolling Landing]]
 
 ## Traits
 

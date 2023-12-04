@@ -11,6 +11,7 @@ name: Can't Fall Here
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -25,18 +26,18 @@ type: Feat
 # Can't Fall Here <span class="action-icon">5</span> <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Auditory</span><span class="item-trait">Hobgoblin</span><span class="item-trait">Manipulate</span>
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 **Frequency** once per day
 **Trigger** An adjacent and willing ally would be reduced to 0 HP but not killed.
 
 ---
-You physically help an ally remain standing and encourage them to push through their pain against dire odds. Your ally doesn't fall [[Unconscious]] and remains at 1 Hit Point. The ally also gains a number of temporary Hit Points equal to your level that last for 1 minute. Fighting onward with such an injury isn't without consequence; your ally's [[Wounded]] condition increases by 1.
+You physically help an ally remain standing and encourage them to push through their pain against dire odds. Your ally doesn't fall [[DATABASE/condition/Unconscious|unconscious]] and remains at 1 Hit Point. The ally also gains a number of temporary Hit Points equal to your level that last for 1 minute. Fighting onward with such an injury isn't without consequence; your ally's [[DATABASE/condition/Wounded|wounded]] condition increases by 1.
 
 ## Traits
 
 **Auditory:**
 
-Auditory actions and effects rely on sound. An action with the auditory trait can be successfully performed only if the creature using the action can speak or otherwise produce the required sounds. A spell or effect with the auditory trait has its effect only if the target can hear it. This applies only to sound-based parts of the effect, as determined by the GM. This is different from a sonic effect, which still affects targets who can't hear it (such as [[Deafened]] targets) as long as the effect itself makes sound.
+Auditory actions and effects rely on sound. An action with the auditory trait can be successfully performed only if the creature using the action can speak or otherwise produce the required sounds. A spell or effect with the auditory trait has its effect only if the target can hear it. This applies only to sound-based parts of the effect, as determined by the GM. This is different from a sonic effect, which still affects targets who can't hear it (such as [[DATABASE/condition/Deafened|deaf]] targets) as long as the effect itself makes sound.
 
 **Hobgoblin:**
 

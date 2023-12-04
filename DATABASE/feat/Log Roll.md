@@ -13,6 +13,7 @@ prerequisite: '[[DATABASE/feat/Turpin Rowe Lumberjack Dedication|Turpin Rowe Lum
 rarity: Common
 requirement: You and an adjacent creature are both on a narrow surface or uneven ground
   and the other creature isflat-footed.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 153. Life''s Long Shadows|Pathfinder #153: Life''s
   Long Shadows]]'
@@ -26,13 +27,13 @@ type: Feat
 # Log Roll <span class="action-icon">1</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Pathfinder 153. Life's Long Shadows]]
-**Archetype** [[Turpin Rowe Lumberjack]]
-**Prerequisites** [[Turpin Rowe Lumberjack Dedication]]
+**Source** [[DATABASE/source/Pathfinder 153. Life's Long Shadows|Pathfinder #153: Life's Long Shadows]]
+**Archetype** [[DATABASE/archetype/Turpin Rowe Lumberjack|Turpin Rowe Lumberjack]]
+**Prerequisites** [[DATABASE/feat/Turpin Rowe Lumberjack Dedication|Turpin Rowe Lumberjack Dedication]]
 **Requirements** You and an adjacent creature are both on a narrow surface or uneven ground and the other creature is flat-footed.
 
 ---
-You shuffle your feet to dislodge the surface beneath you or otherwise cause your opponent to become unsteady. Attempt an [[Acrobatics]] check against the adjacent creature’s Reflex saving throw DC. On a success, the creature falls. On a critical failure, you fall.
+You shuffle your feet to dislodge the surface beneath you or otherwise cause your opponent to become unsteady. Attempt an [[DATABASE/skill/Acrobatics|Acrobatics]] check against the adjacent creature’s Reflex saving throw DC. On a success, the creature falls. On a critical failure, you fall.
 
 ## Traits
 

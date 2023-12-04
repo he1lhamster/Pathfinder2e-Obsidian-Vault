@@ -11,6 +11,7 @@ name: Desert Wind
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -29,10 +30,10 @@ type: Feat
 # Desert Wind <span class="action-icon">1</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Air</span><span class="item-trait">Composite</span><span class="item-trait">Earth</span><span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Primal</span><span class="item-trait">Stance</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
-A vortex of sand and dust surrounds you. Each creature inside your kinetic aura (including you) is [[Concealed]] from any creature outside your kinetic aura, and creatures outside the aura are concealed from creatures inside the aura other than you. Your air impulses carry sands that cut at great speed. When you use a damaging air impulse that affects at least one creature in your kinetic aura, that impulse deals 1 additional slashing damage, or 2 if the impulse has a single target.
+A vortex of sand and dust surrounds you. Each creature inside your kinetic aura (including you) is [[DATABASE/condition/Concealed|concealed]] from any creature outside your kinetic aura, and creatures outside the aura are concealed from creatures inside the aura other than you. Your air impulses carry sands that cut at great speed. When you use a damaging air impulse that affects at least one creature in your kinetic aura, that impulse deals 1 additional slashing damage, or 2 if the impulse has a single target.
 
 ---
 **Level (+2)** The extra damage increases by 1, or 2 if the impulse has a single target.

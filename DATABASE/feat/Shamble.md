@@ -11,6 +11,7 @@ name: Shamble
 prerequisite: '[[DATABASE/feat/Zombie Dedication|Zombie Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Shamble <span class="action-icon">2</span> or <span class="action-icon">3</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Book of the Dead]]
-**Archetype** [[Zombie]]
-**Prerequisites** [[Zombie Dedication]]
+**Source** [[DATABASE/source/Book of the Dead|Book of the Dead]]
+**Archetype** [[DATABASE/archetype/Zombie|Zombie]]
+**Prerequisites** [[DATABASE/feat/Zombie Dedication|Zombie Dedication]]
 
 ---
 You may be slower than you were in life, but your pace is unfaltering. Stride twice, or three times if you spent 3 actions to Shamble. During this movement, you ignore difficult terrain and greater difficult terrain.

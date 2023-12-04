@@ -12,6 +12,7 @@ prerequisite: null
 rarity: Common
 requirement: You are wielding only a single one-handed melee weapon and have your
   other hand or hands free.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Dueling Parry (Swashbuckler) <span class="action-icon">1</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Swashbuckler</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Requirements** You are wielding only a single one-handed melee weapon and have your other hand or hands free.
 
 ---
@@ -32,4 +33,4 @@ You can parry attacks against you with your weapon. You gain a +2 circumstance b
 
 ## Dueling Parry (Swashbuckler) Leads To...
 
-[[Dueling Dance (Swashbuckler)]]
+[[DATABASE/feat/Dueling Dance (Swashbuckler)|Dueling Dance (Swashbuckler)]]

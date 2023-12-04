@@ -11,6 +11,7 @@ name: Lingering Composition
 prerequisite: '[[DATABASE/bardmuse/Maestro|maestro muse]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Lingering Composition <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Bard</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Maestro]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/bardmuse/Maestro|maestro muse]]
 
 ---
-By adding a flourish, you make your compositions last longer. You learn the [[Lingering Composition]] focus spell. Increase the number of Focus Points in your focus pool by 1.
+By adding a flourish, you make your compositions last longer. You learn the [[DATABASE/spell/Lingering Composition|lingering composition]] focus spell. Increase the number of Focus Points in your focus pool by 1.

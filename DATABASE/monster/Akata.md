@@ -87,19 +87,19 @@ wisdom: '+3'
 # Akata
 
 An akata is a hairless, blue-skinned quadruped with fearsome jaws, glowing eyes, a pair of thin tails, and a mane of writhing tentacles. It is a strangely silent beast, as it lacks the lungs and vocal chords necessary to vocalize. It also lacks ears, but it has heightened visual and olfactory senses.
-When food is scarce, an akata secretes a resin from its pores that forms into a sturdy cocoon of pale green crystal—the skymetal noqual. An akata can hibernate in this cocoon without needing to eat or drink for centuries, though it retains a rudimentary sense of its surroundings and can break out in only a few minutes' time. These cocoons allow the creatures to travel through the void of space, seeking new worlds where they can infect suitable humanoid hosts with their larval young. Once a victim succumbs to this infection, the offspring fight among themselves until one proves the strongest. The surviving akata then animates the corpse—now a [[Void Zombie]]—which shambles about of its own accord.
-**Recall Knowledge - Aberration ([[Occultism]])**: DC 20
+When food is scarce, an akata secretes a resin from its pores that forms into a sturdy cocoon of pale green crystal—the skymetal noqual. An akata can hibernate in this cocoon without needing to eat or drink for centuries, though it retains a rudimentary sense of its surroundings and can break out in only a few minutes' time. These cocoons allow the creatures to travel through the void of space, seeking new worlds where they can infect suitable humanoid hosts with their larval young. Once a victim succumbs to this infection, the offspring fight among themselves until one proves the strongest. The surviving akata then animates the corpse—now a [[DATABASE/monster/Void Zombie|void zombie]]—which shambles about of its own accord.
+**Recall Knowledge - Aberration ([[DATABASE/skill/Occultism|Occultism]])**: DC 20
 **Unspecific Lore**: DC 18
 **Specific Lore**: DC 15
 
 # Akata<span class="item-type">Creature 1</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Aberration</span>
-**Source** [[Bestiary 2]] 
-**Perception** +6; [[Darkvision]], no hearing, [[Scent]]
-**Skills** [[Acrobatics]] +7, [[Athletics]] +7, [[Stealth]] +7
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +6; [[DATABASE/monsterability/Darkvision|darkvision]], no hearing, [[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +7, [[DATABASE/skill/Athletics|Athletics]] +7, [[DATABASE/skill/Stealth|Stealth]] +7
 **Str** +4, **Dex** +2, **Con** +4, **Int** -4, **Wis** +3, **Cha** +0
-**Hibernation** After 3 or more days without eating, an akata can secrete resin that encases it in a noqual cocoon. The cocoon has Hardness 9, 40 HP, and a Broken Threshold of 18. It has resistance 5 to damage from magical sources. As long as the cocoon remains intact, the akata can't be harmed, and it doesn't need to eat or drink. While inside the cocoon, the akata gains [[Lifesense]]. The akata remains in a state of hibernation until it is exposed to extreme heat or senses a living creature, at which point it can burst free of its cocoon in 1d4 minutes.
+**Hibernation** After 3 or more days without eating, an akata can secrete resin that encases it in a noqual cocoon. The cocoon has Hardness 9, 40 HP, and a Broken Threshold of 18. It has resistance 5 to damage from magical sources. As long as the cocoon remains intact, the akata can't be harmed, and it doesn't need to eat or drink. While inside the cocoon, the akata gains [[DATABASE/monsterability/Lifesense|lifesense 30 feet]]. The akata remains in a state of hibernation until it is exposed to extreme heat or senses a living creature, at which point it can burst free of its cocoon in 1d4 minutes.
 **No Hearing** An akata has no auditory senses. It is immune to auditory effects, automatically critically fails Perception checks that require it to hear, and takes a –2 status penalty to Perception checks (but not initiative rolls) that involve sound but also rely on other senses.
 
 ---
@@ -109,7 +109,7 @@ When food is scarce, an akata secretes a resin from its pores that forms into a 
 
 ---
 **Speed** 30 feet, climb 15 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +9 [+5/+1] (agile), **Damage** 1d6+4 piercing plus void death</span><span class="in-box-ability">**Void Death** (disease) An akata implants its parasitic larval young into any creature it bites, but only Medium or Small humanoids make suitable hosts; all other creatures are immune to this disease; **Saving Throw** DC 17 Fortitude; **Stage 1** carrier with no ill effect 1 (1 day); **Stage 2** [[Drained]] (1 day); **Stage 3** as stage 2 (1 day); **Stage 4** drained 2 and [[Fatigued]] (1 day); **Stage 5** as stage 4 (1 day); **Stage 6** dead and corpse rises as a void zombie in 2d4 hours</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +9 [+5/+1] (agile), **Damage** 1d6+4 piercing plus void death</span><span class="in-box-ability">**Void Death** (disease) An akata implants its parasitic larval young into any creature it bites, but only Medium or Small humanoids make suitable hosts; all other creatures are immune to this disease; **Saving Throw** DC 17 Fortitude; **Stage 1** carrier with no ill effect 1 (1 day); **Stage 2** [[DATABASE/condition/Drained|drained 1]] (1 day); **Stage 3** as stage 2 (1 day); **Stage 4** drained 2 and [[DATABASE/condition/Fatigued|fatigued]] (1 day); **Stage 5** as stage 4 (1 day); **Stage 6** dead and corpse rises as a void zombie in 2d4 hours</span>
 
 ###  Noqual Cocoons
 

@@ -13,6 +13,7 @@ prerequisite: Master in [[DATABASE/skill/Intimidation|Intimidation]] ; [[DATABAS
   ; member of the Gray Gardeners
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Night of the Gray Death|Night of the Gray Death]]'
 subcategory: null
@@ -25,12 +26,12 @@ type: Feat
 # Strident Command <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Night of the Gray Death]]
-**Archetype** [[Gray Gardener]]
-**Prerequisites** master in [[Intimidation]]; [[Vigilante Dedication]]; [[Voice of Authority]]; member of the Gray Gardeners
+**Source** [[DATABASE/source/Night of the Gray Death|Night of the Gray Death]]
+**Archetype** [[DATABASE/archetype/Gray Gardener|Gray Gardener]]
+**Prerequisites** master in [[DATABASE/skill/Intimidation|Intimidation]]; [[DATABASE/feat/Vigilante Dedication|Vigilante Dedication]]; [[DATABASE/feat/Voice of Authority|Voice of Authority]]; member of the Gray Gardeners
 
 ---
-The common folk heed your demands, and though your true foes rarely bend to your commands, when they do the hesitation can cost them the battle. You can cast [[Command]] once every 10 minutes as a 1st-level occult innate spell. 
+The common folk heed your demands, and though your true foes rarely bend to your commands, when they do the hesitation can cost them the battle. You can cast [[DATABASE/spell/Command|command]] once every 10 minutes as a 1st-level occult innate spell. 
 If you're in your vigilante identity, you can command the target only to approach you, drop prone, or stand in place. If you're in your social identity, you can command the target only to run away or release what the target is holding.
 
 ## Traits

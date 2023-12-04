@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Enchantment
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Mindlock Shot<span class="item-type">Item 11</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Enchantment</span><span class="item-trait">Magical</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 250 gp
 **Ammunition** any; **Bulk** —
 **Activate** <span class="action-icon">2</span> command, envision

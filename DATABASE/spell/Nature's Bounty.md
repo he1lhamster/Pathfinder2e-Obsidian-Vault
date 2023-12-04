@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: You have a free hand.
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -39,8 +40,8 @@ type: Focus
 # Nature's Bounty<span class="item-type">Focus 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Cleric</span><span class="item-trait">Conjuration</span><span class="item-trait">Plant</span><span class="item-trait">Positive</span>
-**Source** [[Core Rulebook]] 
-**Domain** [[Nature Domain]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Domain** [[DATABASE/domain/Nature Domain|nature]]
 **Cast** <span class="action-icon">1</span> somatic; **Requirements** You have a free hand.
 
 ---

@@ -11,6 +11,7 @@ name: Perfect Encore
 prerequisite: '[[DATABASE/class_/Bard|magnum opus]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Perfect Encore <span class="item-type">Feat 20</span>
 
 <span class="item-trait">Bard</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Bard]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/class_/Bard|magnum opus]]
 
 ---
 You develop another incredible creation. You gain an additional 10th-level spell slot.

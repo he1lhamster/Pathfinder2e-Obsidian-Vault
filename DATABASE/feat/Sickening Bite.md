@@ -11,6 +11,7 @@ name: Sickening Bite
 prerequisite: '[[DATABASE/feat/Ghoul Dedication|Ghoul Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 subcategory: null
@@ -23,12 +24,12 @@ type: Feat
 # Sickening Bite <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Book of the Dead]]
-**Archetype** [[Ghoul]]
-**Prerequisites** [[Ghoul Dedication]]
+**Source** [[DATABASE/source/Book of the Dead|Book of the Dead]]
+**Archetype** [[DATABASE/archetype/Ghoul|Ghoul]]
+**Prerequisites** [[DATABASE/feat/Ghoul Dedication|Ghoul Dedication]]
 
 ---
-Your saliva causes severe nausea and mild fever in the living, weakening them so that you can more easily finish them off. When you critically hit a creature with your jaws, the creature is [[Sickened]]. This is a disease effect.
+Your saliva causes severe nausea and mild fever in the living, weakening them so that you can more easily finish them off. When you critically hit a creature with your jaws, the creature is [[DATABASE/condition/Sickened|sickened 1]]. This is a disease effect.
  If you are satiated, you can end your satiation to make the target sickened 1 on a regular hit instead.
 
 ## Traits

@@ -11,6 +11,7 @@ name: Ricochet Shot
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Ricochet Shot <span class="action-icon">1</span> <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Gunslinger</span>
-**Source** [[Guns & Gears]]
-**Archetype** [[Bullet Dancer]]*
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Archetype** [[DATABASE/archetype/Bullet Dancer|Bullet Dancer]]*
 * This archetype offers Ricochet Shot at a different level than displayed here.
 
 ---
@@ -37,7 +38,7 @@ This feat can be used for one or more Archetypes in addition to the listed Class
 
 ## Ricochet Shot Leads To...
 
-[[Ricochet Master]]
+[[DATABASE/feat/Ricochet Master|Ricochet Master]]
 
 ## Traits
 

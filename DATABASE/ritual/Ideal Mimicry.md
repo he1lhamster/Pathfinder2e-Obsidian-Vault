@@ -15,6 +15,7 @@ primary_check: '[[DATABASE/skill/Occultism|Occultism]] (expert)'
 range: see text
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: Enchantment
 secondary_casters: '1'
 secondary_check: '[[DATABASE/skill/Crafting|Crafting]]'
@@ -30,9 +31,9 @@ type: Ritual
 # Ideal Mimicry<span class="item-type">Ritual 6</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Enchantment</span><span class="item-trait">Mental</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Cast** 6 days; **Cost** crafting materials worth at least 50 gp × the target's level; a lock of hair from the target, nail clippings from the target, or a vial of blood from the target; **Secondary Casters** 1
-**Primary Check** [[Occultism]] (expert); **Secondary Checks** [[Crafting]]
+**Primary Check** [[DATABASE/skill/Occultism|Occultism]] (expert); **Secondary Checks** [[DATABASE/skill/Crafting|Crafting]]
 **Range** see text; **Target(s)** 1 sentient living creature
 **Duration** until used 10 times or until the target's body parts are removed from the doll
 

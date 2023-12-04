@@ -14,6 +14,7 @@ name: The Cleansing Hall
 rarity: Rare
 reflex: null
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 186. Ghost King''s Rage|Pathfinder #186: Ghost
   King''s Rage]]'
@@ -31,13 +32,13 @@ will: null
 # The Cleansing Hall<span class="item-type">Hazard 18</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Complex</span><span class="item-trait">Force</span><span class="item-trait">Magical</span><span class="item-trait">Trap</span>
-**Source** [[Pathfinder 186. Ghost King's Rage]]
+**Source** [[DATABASE/source/Pathfinder 186. Ghost King's Rage|Pathfinder #186: Ghost King's Rage]]
 **Complexity** Complex
 **Stealth** +29 (master)
 **Description** The hall's entry and exit seal with a force barrier, then waves of force surge through the hall.
 
 ---
-**Disable** DC 48 [[Thievery]] (master) to deface the script without triggering, DC 47 [[Arcana]] (master) to redirect the magical energy, or DC 46 [[Religion]] (master) to quote [[Pharasma]] prayers
+**Disable** DC 48 [[DATABASE/skill/Thievery|Thievery]] (master) to deface the script without triggering, DC 47 [[DATABASE/skill/Arcana|Arcana]] (master) to redirect the magical energy, or DC 46 [[DATABASE/skill/Religion|Religion]] (master) to quote [[DATABASE/deity/Pharasma|Pharasmin]] prayers
 **Force Barrier** <span class="action-icon">5</span> (abjuration, divine, force) **Trigger** A creature reaches the hall's midpoint; **Effect** Force barriers seal the hall's entrance and exit for 1 minute. The trap then rolls initiative.
 
 ---

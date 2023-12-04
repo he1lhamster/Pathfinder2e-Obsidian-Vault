@@ -2,6 +2,7 @@
 id: '8'
 name: Lesson of Snow
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 trait: null
 type: Witch Lesson
@@ -9,6 +10,6 @@ type: Witch Lesson
 ---
 # Lesson of Snow
 
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Lesson Type** Greater
-You gain the _[[Personal Blizzard]]_ hex, and your familiar learns _[[Wall of Wind]]_.
+You gain the _[[DATABASE/spell/Personal Blizzard|personal blizzard]]_ hex, and your familiar learns _[[DATABASE/spell/Wall of Wind|wall of wind]]_.

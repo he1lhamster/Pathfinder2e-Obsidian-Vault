@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Ceremony of the Evened Hand|Ceremony of the Evene
   Hand]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Ceremony of the Strengthened Hand <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Conrasu</span>
-**Source** [[The Mwangi Expanse]] 
-**Prerequisites** [[Ceremony of the Evened Hand]]
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]] 
+**Prerequisites** [[DATABASE/feat/Ceremony of the Evened Hand|Ceremony of the Evened Hand]]
 
 ---
 Your exoskeleton's weapons are even more potent. If you have a claws unarmed attack, it gains the deadly d8 trait. If you have a branch unarmed attack, it gains the shove and trip traits.

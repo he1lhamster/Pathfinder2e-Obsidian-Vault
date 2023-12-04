@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Crown of the Fire Eater<span class="item-type">Item 8+</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Evocation</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span>
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Usage** worn; **Bulk** L
 
 ---
@@ -64,20 +65,20 @@ A wreath of flames dances around the rim of this golden crown. You gain resistan
 
 ## Crown of the Fire Eater<span class="item-type">Item 8</span>
 
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 500 gp
 **Bulk** L
 
 ## Crown of the Fire Eater (Greater)<span class="item-type">Item 12</span>
 
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 2,000 gp
 **Bulk** L
 The constant fire resistance is 10. When activated, the fire resistance and maximum number of Hit Points regained are each 25.
 
 ## Crown of the Fire Eater (Major)<span class="item-type">Item 16</span>
 
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 10,000 gp
 **Bulk** L
 The constant fire resistance is 15. When activated, the fire resistance and maximum number of Hit Points regained are each 35.

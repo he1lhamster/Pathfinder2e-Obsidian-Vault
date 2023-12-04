@@ -11,6 +11,7 @@ name: Expert Scroll Cache
 prerequisite: '[[DATABASE/feat/Basic Scroll Cache|Basic Scroll Cache]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,16 +24,16 @@ type: Feat
 # Expert Scroll Cache <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Scroll Trickster]]
-**Prerequisites** [[Basic Scroll Cache]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Scroll Trickster|Scroll Trickster]]
+**Prerequisites** [[DATABASE/feat/Basic Scroll Cache|Basic Scroll Cache]]
 
 ---
 Your scroll collection is more powerful. In addition to your daily scrolls from Basic Scroll Cache, add a scroll with a 3rd-level spell. At 14th level, add a scroll with a 4th-level spell. At 16th level, add a scroll with a 5th-level spell.
 
 ## Expert Scroll Cache Leads To...
 
-[[Master Scroll Cache]]
+[[DATABASE/feat/Master Scroll Cache|Master Scroll Cache]]
 
 ## Traits
 

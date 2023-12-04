@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: basicReflex
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -37,8 +38,8 @@ type: Focus
 # Abyssal Wrath<span class="item-type">Focus 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Evocation</span><span class="item-trait">Sorcerer</span>
-**Source** [[Core Rulebook]] 
-**Bloodline** [[Demonic]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Bloodline** [[DATABASE/sorcererbloodline/Demonic|demonic]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Area** 60-foot cone
 **Saving Throw** basic Reflex
@@ -48,12 +49,13 @@ You evoke the energy of an Abyssal realm. The damage types of the spell (one ene
 
 ## Abyssal Wrath
 
-|   1d4 | Realm    | Manifestation                         | Damage Type                 |
-|------:|:---------|:--------------------------------------|:----------------------------|
-|     1 | Skies    | Bolts and lightning and flying debris | Bludgeoning and electricity |
-|     2 | Depths   | Acid and demonic shells               | Acid and slashing           |
-|     3 | Frozen   | Frigid air and ice                    | Bludgeoning and cold        |
-|     4 | Volcanic | Jagged volcanic rocks and magma       | Fire and piercing           |
+| 0 | 1 | 2 | 3 |
+|:----|:---------|:--------------------------------------|:----------------------------|
+| 1d4 | Realm | Manifestation | Damage Type |
+| 1 | Skies | Bolts and lightning and flying debris | Bludgeoning and electricity |
+| 2 | Depths | Acid and demonic shells | Acid and slashing |
+| 3 | Frozen | Frigid air and ice | Bludgeoning and cold |
+| 4 | Volcanic | Jagged volcanic rocks and magma | Fire and piercing |
 You deal 4d6 damage of each of the corresponding damage types to each creature in the cone (8d6 total damage).
 
 ---

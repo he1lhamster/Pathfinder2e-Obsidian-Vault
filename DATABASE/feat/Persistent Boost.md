@@ -11,6 +11,7 @@ name: Persistent Boost
 prerequisite: '[[DATABASE/class_/Inventor|offensive boost]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Persistent Boost <span class="item-type">Feat 16</span>
 
 <span class="item-trait">Inventor</span>
-**Source** [[Guns & Gears]]
-**Prerequisites** [[Inventor]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Prerequisites** [[DATABASE/class_/Inventor|offensive boost]]
 
 ---
-Your innovation sets foes on fire, covers them in acid, leaves barbed thorns behind, or otherwise deals persistent damage to your foes that sticks around long after you deliver your boosted attack. When you or your construct innovation damage a foe with offensive boost, that foe also takes 1d8 [[Persistent Damage]] of the same damage type as the offensive boost damage.
+Your innovation sets foes on fire, covers them in acid, leaves barbed thorns behind, or otherwise deals persistent damage to your foes that sticks around long after you deliver your boosted attack. When you or your construct innovation damage a foe with offensive boost, that foe also takes 1d8 [[DATABASE/condition/Persistent Damage|persistent damage]] of the same damage type as the offensive boost damage.

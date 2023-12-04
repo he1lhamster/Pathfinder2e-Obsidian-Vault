@@ -7,6 +7,7 @@ id: '484'
 name: Run Over
 rarity: Common
 requirement: You are piloting a vehicle.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
@@ -19,7 +20,7 @@ type: Action
 # Run Over <span class="action-icon">3</span>
 
 <span class="item-trait">Move</span><span class="item-trait">Reckless</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Requirements** You are piloting a vehicle.
 
 ---

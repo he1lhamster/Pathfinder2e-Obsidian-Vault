@@ -3,6 +3,7 @@ creature_family: Animated Bones
 id: '317'
 name: Animated Bones
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie Feast]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Animated Bones
 
-**Source** [[Pathfinder 181. Zombie Feast]]
+**Source** [[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie Feast]]
 Commonly mistaken for undead, animated bones are mindless constructs with no connection to necromancy. The following are examples of typical animated bones.
 
 ### Members
 
-[[Chattering Jaws]] (Creature -1), [[Floating Femur]] (Creature -1), [[Phalanx Of Phalanges]] (Creature 1), [[Scrabbling Ribcage]] (Creature 1)
+[[DATABASE/monster/Chattering Jaws|Chattering Jaws]] (Creature -1), [[DATABASE/monster/Floating Femur|Floating Femur]] (Creature -1), [[DATABASE/monster/Phalanx Of Phalanges|Phalanx Of Phalanges]] (Creature 1), [[DATABASE/monster/Scrabbling Ribcage|Scrabbling Ribcage]] (Creature 1)
 
 ###  More Bones
 

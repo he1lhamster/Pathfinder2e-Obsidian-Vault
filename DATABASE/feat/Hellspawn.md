@@ -11,6 +11,7 @@ name: Hellspawn
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,14 +25,14 @@ type: Feat
 # Hellspawn <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Lineage</span><span class="item-trait">Tiefling</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
-Your lineage descends from [[Devil]], the conniving schemers of [[Hell]] malevolent hierarchy. You're as skilled at noticing lies and twisted wordings as you are at constructing them. You are trained in [[Deception]] and [[Lore]]. If you were already trained in Deception (from your background or class, for example), you instead become trained in a skill of your choice. You also gain the [[Lie to Me]] skill feat.
+Your lineage descends from [[DATABASE/monsterfamily/Devil|devils]], the conniving schemers of [[DATABASE/plane/Hell|Hell's]] malevolent hierarchy. You're as skilled at noticing lies and twisted wordings as you are at constructing them. You are trained in [[DATABASE/skill/Deception|Deception]] and [[DATABASE/skill/Lore|Legal Lore]]. If you were already trained in Deception (from your background or class, for example), you instead become trained in a skill of your choice. You also gain the [[DATABASE/feat/Lie to Me|Lie to Me]] skill feat.
 
 ## Hellspawn Leads To...
 
-[[Devil Magic]]
+[[DATABASE/feat/Devil Magic|Devil Magic]]
 
 ## Traits
 
@@ -41,4 +42,4 @@ A feat with this trait indicates a character's descendance from a particular typ
 
 **Tiefling:**
 
-A creature with this trait has the tiefling versatile heritage. Tieflings are [[Planar Scion]] descended from fiends. An ability with this trait can be used or selected only by tieflings.
+A creature with this trait has the tiefling versatile heritage. Tieflings are [[DATABASE/monsterfamily/Planar Scion|planar scions]] descended from fiends. An ability with this trait can be used or selected only by tieflings.

@@ -11,6 +11,7 @@ name: Showstopper
 prerequisite: '[[DATABASE/feat/Pistol Twirl|Pistol Twirl]] ; Master in [[DATABASE/skill/Deception|Deception]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -23,13 +24,13 @@ type: Feat
 # Showstopper <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Gunslinger</span>
-**Source** [[Guns & Gears]]
-**Archetypes** [[Bullet Dancer]]*, [[Pistol Phenom]]*
-**Prerequisites** [[Pistol Twirl]]; master in [[Deception]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Archetypes** [[DATABASE/archetype/Bullet Dancer|Bullet Dancer]]*, [[DATABASE/archetype/Pistol Phenom|Pistol Phenom]]*
+**Prerequisites** [[DATABASE/feat/Pistol Twirl|Pistol Twirl]]; master in [[DATABASE/skill/Deception|Deception]]
 * This archetype offers Showstopper at a different level than displayed here.
 
 ---
-Your twirling weapons create a grand distraction that's difficult to look away from. When using Pistol Twirl to [[Feint]], you can target all enemies within your weapon's first range increment who you can perceive and who can see you. You roll one [[Deception]] check and compare it against each target's Perception DC.
+Your twirling weapons create a grand distraction that's difficult to look away from. When using Pistol Twirl to [[DATABASE/action/Feint|Feint]], you can target all enemies within your weapon's first range increment who you can perceive and who can see you. You roll one [[DATABASE/skill/Deception|Deception]] check and compare it against each target's Perception DC.
 
 ## Archetype Use
 

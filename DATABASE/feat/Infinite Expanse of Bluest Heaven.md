@@ -11,6 +11,7 @@ name: Infinite Expanse of Bluest Heaven
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Illusion
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -30,13 +31,13 @@ type: Feat
 # Infinite Expanse of Bluest Heaven <span class="action-icon">3</span> <span class="item-type">Feat 18</span>
 
 <span class="item-trait">Air</span><span class="item-trait">Illusion</span><span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Mental</span><span class="item-trait">Overflow</span><span class="item-trait">Primal</span><span class="item-trait">Visual</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
 An illusion of a limitless expanse with an impossibly blue sky makes all within feel the sensation of falling... forever. The vision appears in a 20-foot burst within 100 feet. The illusion lasts until the end of your next turn, but you can Sustain it up to 1 minute. Using this impulse again ends any previous one. Each creature in the area or that later enters it must attempt a Will save against your class DC. Creatures with the air trait are immune. Any effect of the illusion ends for a creature as soon as it leaves the illusion's area or the impulse ends, and the creature then becomes temporarily immune for 1 hour.
 **Critical Success** The creature is unaffected.
-**Success** The creature is [[Off-Guard]].
-**Failure** The creature is off-guard. It is [[Fleeing]] from the illusory sky but is also disoriented; any time it uses an action to attempt to flee, it must succeed at a DC 11 flat check or flee to a space that's still within the illusion. The GM determines where the creatures ends up, but the creature can't stay stationary if it's able to move.
+**Success** The creature is [[DATABASE/condition/Off-Guard|off-guard]].
+**Failure** The creature is off-guard. It is [[DATABASE/condition/Fleeing|fleeing]] from the illusory sky but is also disoriented; any time it uses an action to attempt to flee, it must succeed at a DC 11 flat check or flee to a space that's still within the illusion. The GM determines where the creatures ends up, but the creature can't stay stationary if it's able to move.
 
 ## Traits
 
@@ -58,7 +59,7 @@ A mental effect can alter the target's mind. It has no effect on an object or a 
 
 **Overflow:**
 
-Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
+Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[DATABASE/action/Channel Elements|Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
 
 **Primal:**
 

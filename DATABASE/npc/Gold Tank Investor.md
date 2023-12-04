@@ -62,20 +62,20 @@ wisdom: '+0'
 # Gold Tank Investor
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 15
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Gold Tank Investor<span class="item-type">Creature -1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 178. Punks in a Powderkeg]]
+**Source** [[DATABASE/source/Pathfinder 178. Punks in a Powderkeg|Pathfinder #178: Punks in a Powderkeg]]
 Various white-collar criminals
 **Perception** +3
-**Languages** [[Common]]
-**Skills** [[Athletics]] +3, [[Intimidation]] +4, [[Society]] +1
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +3, [[DATABASE/skill/Intimidation|Intimidation]] +4, [[DATABASE/skill/Society|Society]] +1
 **Str** +2, **Dex** +3, **Con** +2, **Int** +0, **Wis** +0, **Cha** +1
-**Items** [[Club]]
+**Items** [[DATABASE/weapon/Club|club]]
 
 ---
 **AC** 14; **Fort** +3, **Ref** +4, **Will** +2

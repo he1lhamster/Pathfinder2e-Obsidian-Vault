@@ -2,6 +2,7 @@
 id: '20'
 name: PFS Character Options
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -15,4 +16,4 @@ type: Source
 
 ## Languages [2]
 
-[[Erutaki]], [[Varki]]
+[[DATABASE/language/Erutaki|Erutaki]], [[DATABASE/language/Varki|Varki]]

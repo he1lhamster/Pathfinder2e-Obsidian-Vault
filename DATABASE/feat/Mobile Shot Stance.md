@@ -11,6 +11,7 @@ name: Mobile Shot Stance
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,12 +25,12 @@ type: Feat
 # Mobile Shot Stance <span class="action-icon">1</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Fighter</span><span class="item-trait">Stance</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Archer]]*
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Archer|Archer]]*
 * This archetype offers Mobile Shot Stance at a different level than displayed here.
 
 ---
-Your shots become nimble and deadly. While you're in this stance, your ranged Strikes don't trigger [[Attack of Opportunity]] or other reactions that are triggered by a ranged attack.
+Your shots become nimble and deadly. While you're in this stance, your ranged Strikes don't trigger [[DATABASE/monsterability/Attack of Opportunity|Attacks of Opportunity]] or other reactions that are triggered by a ranged attack.
  If you have Attack of Opportunity, you can use it with a loaded ranged weapon you're wielding. The triggering creature must be within 5 feet of you for you to do so.
 
 ## Archetype Use

@@ -78,25 +78,25 @@ wisdom: '+3'
 # Kreeth-Ni
 
 This creature did not include a description.
-**Recall Knowledge - Fey ([[Nature]])**: DC 28
+**Recall Knowledge - Fey ([[DATABASE/skill/Nature|Nature]])**: DC 28
 **Unspecific Lore**: DC 26
 **Specific Lore**: DC 23
 
 # Kreeth-Ni<span class="item-type">Creature 3</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NG</span><span class="trait-size item-trait">Tiny</span><span class="item-trait">Fey</span><span class="item-trait">Sprite</span>
-**Source** [[Pathfinder 179. Cradle of Quartz]]
-Female [[Nyktera]] oracle
-**Perception** +11; (13 to [[Seek]] creatures using hearing), [[Low-Light Vision]]
-**Languages** [[Common]], [[Sylvan]]; speak with bats
-**Skills** [[Acrobatics]] +11, [[Deception]] +11, [[Diplomacy]] +11, [[Nature]] +10, [[Occultism]] +9, [[Stealth]] +9
+**Source** [[DATABASE/source/Pathfinder 179. Cradle of Quartz|Pathfinder #179: Cradle of Quartz]]
+Female [[DATABASE/monster/Nyktera|nyktera]] oracle
+**Perception** +11; (13 to [[DATABASE/action/Seek|Seek]] creatures using hearing), [[DATABASE/monsterability/Low-Light Vision|low-light vision]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Sylvan|Sylvan]]; speak with bats
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +11, [[DATABASE/skill/Deception|Deception]] +11, [[DATABASE/skill/Diplomacy|Diplomacy]] +11, [[DATABASE/skill/Nature|Nature]] +10, [[DATABASE/skill/Occultism|Occultism]] +9, [[DATABASE/skill/Stealth|Stealth]] +9
 **Str** -3, **Dex** +4, **Con** +0, **Int** +0, **Wis** +3, **Cha** +4
-**Items** [[Ventriloquist's Ring]], [[Staff]]
+**Items** [[DATABASE/equipment/Ventriloquist's Ring|ventriloquist's ring]], [[DATABASE/weapon/Staff|staff]]
 
 ---
 **AC** 19; **Fort** +7, **Ref** +11, **Will** +12
-**HP** 40; **Weaknesses** [[Cold Iron Weapon]] 3
+**HP** 40; **Weaknesses** [[DATABASE/equipment/Cold Iron Weapon|cold iron]] 3
 
 ---
 **Speed** 10 feet, fly 40 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> staff +8 [+3/-2], **Damage** 1d4–1 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> ultrasonic pulse +11 [+6/+1] (evocation, magical, range 20 feet), **Damage** 1d4 sonic</span>**Primal Innate Spells** DC 20; **2nd** _[[Heal]]_, _[[Remove Fear]]_; **1st** _[[Anticipate Peril]]_, _[[Heal]]_, _[[Mending]]_; **Cantrips** **(1st)** _[[Dancing Lights]]_, _[[Ghost Sound]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> staff +8 [+3/-2], **Damage** 1d4–1 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> ultrasonic pulse +11 [+6/+1] (evocation, magical, range 20 feet), **Damage** 1d4 sonic</span>**Primal Innate Spells** DC 20; **2nd** _[[DATABASE/spell/Heal|heal]]_, _[[DATABASE/spell/Remove Fear|remove fear]]_; **1st** _[[DATABASE/spell/Anticipate Peril|anticipate peril]]_, _[[DATABASE/spell/Heal|heal]]_, _[[DATABASE/spell/Mending|mending]]_; **Cantrips** **(1st)** _[[DATABASE/spell/Dancing Lights|dancing lights]]_, _[[DATABASE/spell/Ghost Sound|ghost sound]]_

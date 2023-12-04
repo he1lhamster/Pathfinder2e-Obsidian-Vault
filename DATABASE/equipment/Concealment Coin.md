@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -52,10 +53,10 @@ weapon_type: null
 # Concealment Coin<span class="item-type">Item 0</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span>
-**Source** [[Firebrands]]
+**Source** [[DATABASE/source/Firebrands|Firebrands]]
 **Price** 3 gp
 **Hands** 1; **Bulk** —
 **Access** Second-mark members of the Firebrands have access to this item.
 
 ---
-This hollow piece resembles a typical coin and features enough space inside to hide brief messages written on small pieces of paper. You can unscrew or close the coin with an Interact action. You can determine an unattended concealment coin's true nature with a successful DC 20 Perception check. Determining the coin's nature while it's being handled is more difficult and typically requires a successful Perception check against the [[Thievery]] DC of the person holding the coin.
+This hollow piece resembles a typical coin and features enough space inside to hide brief messages written on small pieces of paper. You can unscrew or close the coin with an Interact action. You can determine an unattended concealment coin's true nature with a successful DC 20 Perception check. Determining the coin's nature while it's being handled is more difficult and typically requires a successful Perception check against the [[DATABASE/skill/Thievery|Thievery]] DC of the person holding the coin.

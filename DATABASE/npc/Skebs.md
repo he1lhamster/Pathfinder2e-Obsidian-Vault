@@ -65,21 +65,21 @@ wisdom: '+2'
 # Skebs
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 13
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 13
 **Unspecific Lore**: DC 11
 **Specific Lore**: DC 8
 
 # Skebs<span class="item-type">Creature -1</span>
 
 <span class="trait-alignment item-trait">CN</span><span class="trait-size item-trait">Small</span><span class="item-trait">Halfling</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 157. Devil at the Dreaming Palace]]
-Agender [[Halfling]] [[Rogue]]
+**Source** [[DATABASE/source/Pathfinder 157. Devil at the Dreaming Palace|Pathfinder #157: Devil at the Dreaming Palace]]
+Agender [[DATABASE/ancestry/Halfling|halfling]] [[DATABASE/class_/Rogue|rogue]]
 **Perception** +4
-**Languages** [[Common]], [[Halfling]]
-**Skills** [[Acrobatics]] +5, [[Deception]] +2, [[Stealth]] +5, [[Thievery]] +5
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Halfling|Halfling]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +5, [[DATABASE/skill/Deception|Deception]] +2, [[DATABASE/skill/Stealth|Stealth]] +5, [[DATABASE/skill/Thievery|Thievery]] +5
 **Str** +0, **Dex** +3, **Con** +1, **Int** +1, **Wis** +2, **Cha** +0
-**Distracting Shadows** Skebs can use creatures that are at least one size larger than themself as cover for the [[Hide]] and [[Sneak]] actions.
-**Items** [[Dagger]], [[Studded Leather Armor]]
+**Distracting Shadows** Skebs can use creatures that are at least one size larger than themself as cover for the [[DATABASE/action/Hide|Hide]] and [[DATABASE/action/Sneak|Sneak]] actions.
+**Items** [[DATABASE/weapon/Dagger|daggers (4)]], [[DATABASE/armor/Studded Leather Armor|studded leather armor]]
 
 ---
 **AC** 15; **Fort** +3, **Ref** +7, **Will** +4
@@ -87,4 +87,4 @@ Agender [[Halfling]] [[Rogue]]
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> dagger +8 [+4/+0] (agile, finesse, thrown 10 feet, versatile S), **Damage** 1d4 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> dagger +8 [+4/+0] (agile, finesse, thrown 10 feet, versatile S), **Damage** 1d4 piercing</span><span class="in-box-ability">**[[Sneak Attack]]** Skebs deals 1d6 extra precision damage to [[Flat-Footed]] creatures.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> dagger +8 [+4/+0] (agile, finesse, thrown 10 feet, versatile S), **Damage** 1d4 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> dagger +8 [+4/+0] (agile, finesse, thrown 10 feet, versatile S), **Damage** 1d4 piercing</span><span class="in-box-ability">**[[DATABASE/monsterability/Sneak Attack|Sneak Attack]]** Skebs deals 1d6 extra precision damage to [[DATABASE/condition/Flat-Footed|flat-footed]] creatures.</span>

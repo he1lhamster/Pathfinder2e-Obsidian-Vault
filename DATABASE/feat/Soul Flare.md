@@ -11,6 +11,7 @@ name: Soul Flare
 prerequisite: '[[DATABASE/feat/Soulforger Dedication|Soulforger Dedication]]'
 rarity: Common
 requirement: Your soulforged armament is manifested.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -26,9 +27,9 @@ type: Feat
 # Soul Flare <span class="action-icon">5</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Concentrate</span>
-**Source** [[Secrets of Magic]] 
-**Archetype** [[Soulforger]]
-**Prerequisites** [[Soulforger Dedication]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
+**Archetype** [[DATABASE/archetype/Soulforger|Soulforger]]
+**Prerequisites** [[DATABASE/feat/Soulforger Dedication|Soulforger Dedication]]
 **Trigger** An attack you made with a soulforged weapon or shield misses a creature, or a creature hits you with an attack while you're either wearing manifested soulforged armor or have your soulforged shield raised.
 **Requirements** Your soulforged armament is manifested.
 

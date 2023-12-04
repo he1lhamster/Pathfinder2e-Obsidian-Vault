@@ -68,19 +68,19 @@ wisdom: '+1'
 # Catfolk Pouncer
 
 Catfolk pouncers travel the world in search of new experiences.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 15
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Catfolk Pouncer<span class="item-type">Creature 1</span>
 
 <span class="trait-alignment item-trait">CG</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Catfolk</span><span class="item-trait">Humanoid</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +6; low-light vision
-**Languages** [[Amurrun]], [[Common]]
-**Skills** [[Acrobatics]] +7, [[Athletics]] +6, [[Nature]] +4, [[Stealth]] +7, [[Survival]] +4
+**Languages** [[DATABASE/language/Amurrun|Amurrun]], [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +7, [[DATABASE/skill/Athletics|Athletics]] +6, [[DATABASE/skill/Nature|Nature]] +4, [[DATABASE/skill/Stealth|Stealth]] +7, [[DATABASE/skill/Survival|Survival]] +4
 **Str** +3, **Dex** +4, **Con** +1, **Int** -1, **Wis** +1, **Cha** +1
-**Items** [[Greataxe]], [[Leather Armor]], [[Spear]]
+**Items** [[DATABASE/weapon/Greataxe|greataxe]], [[DATABASE/armor/Leather Armor|leather armor]], [[DATABASE/weapon/Spear|spear (3)]]
 
 ---
 **AC** 17; **Fort** +6, **Ref** +9, **Will** +4

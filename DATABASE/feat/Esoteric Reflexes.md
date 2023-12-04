@@ -11,6 +11,7 @@ name: Esoteric Reflexes
 prerequisite: an implement that grants a reaction
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Esoteric Reflexes <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Thaumaturge</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Prerequisites** an implement that grants a reaction
 
 ---

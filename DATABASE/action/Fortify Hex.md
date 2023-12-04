@@ -8,6 +8,7 @@ name: Fortify Hex
 rarity: Common
 requirement: The target hex must be claimed by your kingdom and must not have a settlement
   in it.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
@@ -20,7 +21,7 @@ type: Action
 # Fortify Hex
 
 <span class="item-trait">Downtime</span><span class="item-trait">Region</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 **Requirements** The target hex must be claimed by your kingdom and must not have a settlement in it.
 
 ---

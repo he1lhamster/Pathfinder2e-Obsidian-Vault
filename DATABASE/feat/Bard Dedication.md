@@ -11,6 +11,7 @@ name: Bard Dedication
 prerequisite: Charisma 14
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -25,18 +26,18 @@ type: Feat
 # Bard Dedication <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Dedication</span><span class="item-trait">Multiclass</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Bard]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Bard|Bard]]
 **Prerequisites** Charisma 14
 
 ---
-You cast spells like a bard and gain the Cast a Spell activity. You gain a spell repertoire with two common cantrips from the occult spell list or any other occult cantrips you learn or discover. You're trained in spell attack rolls and spell DCs for occult spells. Your key spellcasting ability for bard archetype spells is Charisma, and they are occult bard spells. You become trained in [[Occultism]] and [[Performance]]; for each of these skills in which you were already trained, you instead become trained in a skill of your choice.
+You cast spells like a bard and gain the Cast a Spell activity. You gain a spell repertoire with two common cantrips from the occult spell list or any other occult cantrips you learn or discover. You're trained in spell attack rolls and spell DCs for occult spells. Your key spellcasting ability for bard archetype spells is Charisma, and they are occult bard spells. You become trained in [[DATABASE/skill/Occultism|Occultism]] and [[DATABASE/skill/Performance|Performance]]; for each of these skills in which you were already trained, you instead become trained in a skill of your choice.
  Choose a muse as you would if you were a bard. You have that muse for all purposes, allowing you to take that muse's feats, but you don't gain any of the other abilities it grants.
 **Special** You cannot select another dedication feat until you have gained two other feats from the bard archetype.
 
 ## Bard Dedication Leads To...
 
-[[Basic Bard Spellcasting]], [[Basic Muse's Whispers]], [[Counter Perform]], [[Inspirational Performance]]
+[[DATABASE/feat/Basic Bard Spellcasting|Basic Bard Spellcasting]], [[DATABASE/feat/Basic Muse's Whispers|Basic Muse's Whispers]], [[DATABASE/feat/Counter Perform|Counter Perform]], [[DATABASE/feat/Inspirational Performance|Inspirational Performance]]
 
 ## Traits
 

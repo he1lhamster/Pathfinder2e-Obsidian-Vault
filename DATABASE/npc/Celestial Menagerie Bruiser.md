@@ -66,26 +66,26 @@ wisdom: '+0'
 # Celestial Menagerie Bruiser
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 24
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 24
 **Unspecific Lore**: DC 22
 **Specific Lore**: DC 19
 
 # Celestial Menagerie Bruiser<span class="item-type">Creature 8</span>
 
 <span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 152. Legacy of the Lost God]]
-Male [[Satyr]] sideshow barker
+**Source** [[DATABASE/source/Pathfinder 152. Legacy of the Lost God|Pathfinder #152: Legacy of the Lost God]]
+Male [[DATABASE/monster/Satyr|satyr]] sideshow barker
 **Perception** +14
-**Languages** [[Common]]
-**Skills** [[Athletics]] +17 (+20 to [[Shove]]), [[Lore]] +12, [[Intimidation]] +16, [[Stealth]] +13, [[Survival]] +12, [[Thievery]] +13
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +17 (+20 to [[DATABASE/action/Shove|Shove]]), [[DATABASE/skill/Lore|Circus Lore]] +12, [[DATABASE/skill/Intimidation|Intimidation]] +16, [[DATABASE/skill/Stealth|Stealth]] +13, [[DATABASE/skill/Survival|Survival]] +12, [[DATABASE/skill/Thievery|Thievery]] +13
 **Str** +5, **Dex** +1, **Con** +2, **Int** +0, **Wis** +0, **Cha** +2
-**Items** _+1 [[Striking]] [[Greatclub]]_, [[Chain Shirt]], [[Dagger]]
+**Items** _+1 [[DATABASE/equipment/Striking|striking]] [[DATABASE/weapon/Greatclub|greatclub]]_, [[DATABASE/armor/Chain Shirt|chain shirt]], [[DATABASE/weapon/Dagger|dagger]]
 
 ---
 **AC** 27; **Fort** +16, **Ref** +15, **Will** +13
 **HP** 135
-<span class="in-box-ability">**Opportunistic Brawler <span class="action-icon">5</span> ** **Trigger** A creature hits the bruiser with a melee Strike; **Effect** The bruiser attempts to [[Shove]] the creature. On a success or a critical success, the target is also knocked [[Prone]]. The bruiser can't Stride after a target it successfully Shoves in this way.</span>
+<span class="in-box-ability">**Opportunistic Brawler <span class="action-icon">5</span> ** **Trigger** A creature hits the bruiser with a melee Strike; **Effect** The bruiser attempts to [[DATABASE/action/Shove|Shove]] the creature. On a success or a critical success, the target is also knocked [[DATABASE/condition/Prone|prone]]. The bruiser can't Stride after a target it successfully Shoves in this way.</span>
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _greatclub_ +20 [+15/+10] (backswing, magical, shove), **Damage** 2d10+10 bludgeoning</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +19 [+15/+11] (agile, nonlethal), **Damage** 1d4+8 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> dagger +15 [+11/+7] (agile, thrown 10 feet, versatile S), **Damage** 1d4+8 piercing</span><span class="in-box-ability">**Terrifying Sneer** <span class="action-icon">1</span> **Frequency** once per turn; **Requirements** The bruiser must target a creature they [[Shove]] since the end of the bruiser's last turn; **Effect** The bruiser attempts to [[Demoralize]] the target. If the bruiser rolls a success, they gets a critical success instead.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _greatclub_ +20 [+15/+10] (backswing, magical, shove), **Damage** 2d10+10 bludgeoning</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +19 [+15/+11] (agile, nonlethal), **Damage** 1d4+8 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> dagger +15 [+11/+7] (agile, thrown 10 feet, versatile S), **Damage** 1d4+8 piercing</span><span class="in-box-ability">**Terrifying Sneer** <span class="action-icon">1</span> **Frequency** once per turn; **Requirements** The bruiser must target a creature they [[DATABASE/action/Shove|Shoved]] since the end of the bruiser's last turn; **Effect** The bruiser attempts to [[DATABASE/action/Demoralize|Demoralize]] the target. If the bruiser rolls a success, they gets a critical success instead.</span>

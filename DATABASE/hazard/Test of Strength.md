@@ -14,6 +14,7 @@ name: Test of Strength
 rarity: Common
 reflex: null
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
@@ -27,7 +28,7 @@ will: null
 # Test of Strength<span class="item-type">Hazard 13</span>
 
 <span class="item-trait">Mechanical</span><span class="item-trait">Trap</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 **Complexity** Simple
 **Stealth** DC 37 (expert)
 **Description** The steps angle downward into a slope, releasing all currently placed boulders to roll back down to the north.

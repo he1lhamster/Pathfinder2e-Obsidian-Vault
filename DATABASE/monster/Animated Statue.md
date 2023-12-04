@@ -82,23 +82,23 @@ wisdom: '+0'
 # Animated Statue
 
 Animated statues are often used to guard crypts, small shrines, or areas in government buildings where they can be positioned amid normal statues to hide their true nature until an intruder arouses their ire. Adventurers’ suspicions regarding statues suddenly animating and attacking has led many less scrupulous adventurers to automatically attack any statues they encounter, ruining harmless, ancient relics.
-**Recall Knowledge - Construct ([[Arcana]], [[Crafting]])**: DC 18
+**Recall Knowledge - Construct ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Crafting|Crafting]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Animated Statue<span class="item-type">Creature 3</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Construct</span><span class="item-trait">Earth</span><span class="item-trait">Mindless</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +9; darkvision
-**Skills** [[Athletics]] +11
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +11
 **Str** +4, **Dex** -2, **Con** +5, **Int** -5, **Wis** +0, **Cha** -5
 
 ---
 **AC** 19 (15 when broken); construct armor; **Fort** +12, **Ref** +5, **Will** +5
-**HP** 35; **Hardness** 6; **Immunities** bleed, death effects, disease, [[Doomed]], [[Drained]], [[Fatigued]], healing, mental, necromancy, nonlethal attacks, [[Paralyzed]], poison, [[Sickened]], [[Unconscious]]
+**HP** 35; **Hardness** 6; **Immunities** bleed, death effects, disease, [[DATABASE/condition/Doomed|doomed]], [[DATABASE/condition/Drained|drained]], [[DATABASE/condition/Fatigued|fatigued]], healing, mental, necromancy, nonlethal attacks, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Sickened|sickened]], [[DATABASE/condition/Unconscious|unconscious]]
 <span class="in-box-ability">**Construct Armor** Like normal objects, an animated statue has Hardness. This Hardness reduces any damage it takes by an amount equal to the Hardness. Once an animated statue is reduced to less than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks and its Armor Class is reduced to 15.</span>
 
 ---
 **Speed** 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +11 [+6/+1] (magical), **Damage** 1d8+6 bludgeoning plus [[Grab]]</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +11 [+6/+1] (magical), **Damage** 1d8+6 bludgeoning plus [[DATABASE/monsterability/Grab|Grab]]</span>

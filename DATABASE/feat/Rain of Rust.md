@@ -11,6 +11,7 @@ name: Rain of Rust
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -28,10 +29,10 @@ type: Feat
 # Rain of Rust <span class="action-icon">3</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Composite</span><span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Metal</span><span class="item-trait">Primal</span><span class="item-trait">Water</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
-You conjure a red raincloud in a 10-foot burst within 60 feet, which pours rust-colored rain directly below it. Any creature in the rain with the metal trait, that is made of metal, or is wearing metal armor is covered in corrosive build-up. Any such creature is [[Clumsy]] as long as it remains in the area. If such a creature is in the rain at the start of its turn, it takes 3d6 damage with a basic Fortitude save against your class DC, plus 1d6 [[Persistent Damage]] if it fails. Damage from this impulse ignores Hardness.
+You conjure a red raincloud in a 10-foot burst within 60 feet, which pours rust-colored rain directly below it. Any creature in the rain with the metal trait, that is made of metal, or is wearing metal armor is covered in corrosive build-up. Any such creature is [[DATABASE/condition/Clumsy|clumsy 1]] as long as it remains in the area. If such a creature is in the rain at the start of its turn, it takes 3d6 damage with a basic Fortitude save against your class DC, plus 1d6 [[DATABASE/condition/Persistent Damage|persistent damage]] if it fails. Damage from this impulse ignores Hardness.
 
 ---
 **Level (+2)** The initial damage increases by 1d6.

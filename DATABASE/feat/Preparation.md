@@ -11,6 +11,7 @@ name: Preparation
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Preparation <span class="action-icon">1</span> <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Flourish</span><span class="item-trait">Rogue</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
 You survey the battlefield, calculating the possibilities. You gain one additional reaction, which you can use before the beginning of your next turn for any rogue reaction.

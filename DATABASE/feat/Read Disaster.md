@@ -11,6 +11,7 @@ name: Read Disaster
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Divination
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -26,12 +27,12 @@ type: Feat
 # Read Disaster <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Divination</span><span class="item-trait">Exploration</span><span class="item-trait">Oracle</span><span class="item-trait">Prediction</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Time Mage]]*
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Time Mage|Time Mage]]*
 * This archetype offers Read Disaster at a different level than displayed here.
 
 ---
-You spend 10 minutes and open yourself to the divine mysteries of the world, peering into the most sinister portents of the future. You gain the effects of [[Augury]], except you learn only about the dangers ahead; any results of “weal” are instead “nothing,” and results of “weal and woe” are instead “woe.” If you are legendary in [[Religion]], you take only 1 minute to Read Disaster.
+You spend 10 minutes and open yourself to the divine mysteries of the world, peering into the most sinister portents of the future. You gain the effects of [[DATABASE/spell/Augury|augury]], except you learn only about the dangers ahead; any results of “weal” are instead “nothing,” and results of “weal and woe” are instead “woe.” If you are legendary in [[DATABASE/skill/Religion|Religion]], you take only 1 minute to Read Disaster.
 
 ## Archetype Use
 

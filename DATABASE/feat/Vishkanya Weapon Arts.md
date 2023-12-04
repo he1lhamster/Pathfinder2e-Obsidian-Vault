@@ -11,6 +11,7 @@ name: Vishkanya Weapon Arts
 prerequisite: '[[DATABASE/feat/Vishkanya Weapon Familiarity|Vishkanya Weapon Familiarity]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -23,11 +24,11 @@ type: Feat
 # Vishkanya Weapon Arts <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Vishkanya</span>
-**Source** [[Impossible Lands]]
-**Prerequisites** [[Vishkanya Weapon Familiarity]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
+**Prerequisites** [[DATABASE/feat/Vishkanya Weapon Familiarity|Vishkanya Weapon Familiarity]]
 
 ---
-You are graceful and efficient in the use of vishkanyan weapons. Whenever you critically hit using a [[Blowgun]], [[Fighting Fan]], [[Kris]], [[Kukri]], [[Shuriken]], or vishkanya weapon, you apply the weapon's critical specialization effect.
+You are graceful and efficient in the use of vishkanyan weapons. Whenever you critically hit using a [[DATABASE/weapon/Blowgun|blowgun]], [[DATABASE/weapon/Fighting Fan|fighting fan]], [[DATABASE/weapon/Kris|kris]], [[DATABASE/weapon/Kukri|kukri]], [[DATABASE/weapon/Shuriken|shuriken]], or vishkanya weapon, you apply the weapon's critical specialization effect.
 
 ## Traits
 

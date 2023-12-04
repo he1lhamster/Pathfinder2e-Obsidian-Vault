@@ -17,6 +17,7 @@ name: Spiked Barricade Trap
 rarity: Common
 reflex: '+18'
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 154. Siege of the Dinosaurs|Pathfinder #154:
   Siege of the Dinosaurs]]'
@@ -32,13 +33,13 @@ will: null
 # Spiked Barricade Trap<span class="item-type">Hazard 13</span>
 
 <span class="item-trait">Mechanical</span><span class="item-trait">Trap</span>
-**Source** [[Pathfinder 154. Siege of the Dinosaurs]]
+**Source** [[DATABASE/source/Pathfinder 154. Siege of the Dinosaurs|Pathfinder #154: Siege of the Dinosaurs]]
 **Complexity** Simple
 **Stealth** DC 32 (expert)
 **Description** Spring-loaded wedges of sharpened stone pop out of the wooden barricade.
 
 ---
-**Disable** DC 33 [[Thievery]] (expert) to suppress the spring mechanism for one 5-foot segment of the barricade
+**Disable** DC 33 [[DATABASE/skill/Thievery|Thievery]] (expert) to suppress the spring mechanism for one 5-foot segment of the barricade
 **AC** 34, **Fort** +26, **Ref** +18
 **Hardness** 22, **HP** 88 (BT 44); **Immunities** critical hits, object immunities, precision damage, **Weaknesses** fire 10
 **Spike Jab** <span class="action-icon">5</span> (attack) **Trigger** A creature enters the area adjacent to a barrier; **Effect** Wedges of sharpened stone extend from the barricade in all directions and attack all creatures within 10 feet.

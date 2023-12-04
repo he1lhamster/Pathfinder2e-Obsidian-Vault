@@ -2,6 +2,7 @@
 id: '47'
 name: Pathfinder 158. Sixty Feet Under
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -16,27 +17,27 @@ type: Source
 
 ## Archetypes [1]
 
-[[Jalmeri Heavenseeker]]
+[[DATABASE/archetype/Jalmeri Heavenseeker|Jalmeri Heavenseeker]]
 
 ## Equipment [7]
 
-[[Chain of the Stilled Spirit]], [[Deafening Music Box]], [[Ethersight Ring]], [[Floorbell]], [[Skinsaw Mask]], [[Swarmeater's Clasp]], [[Vaultbreaker's Harness]]
+[[DATABASE/equipment/Chain of the Stilled Spirit|Chain of the Stilled Spirit]], [[DATABASE/equipment/Deafening Music Box|Deafening Music Box]], [[DATABASE/equipment/Ethersight Ring|Ethersight Ring]], [[DATABASE/equipment/Floorbell|Floorbell]], [[DATABASE/equipment/Skinsaw Mask|Skinsaw Mask]], [[DATABASE/equipment/Swarmeater's Clasp|Swarmeater's Clasp]], [[DATABASE/equipment/Vaultbreaker's Harness|Vaultbreaker's Harness]]
 
 ## Feats [7]
 
-[[Cross the Final Horizon]], [[Heaven's Thunder]], [[Jalmeri Heavenseeker Dedication]], [[Sky and Heaven Stance]], [[Skyseeker]], [[Speaking Sky]], [[Steal the Sky]]
+[[DATABASE/feat/Cross the Final Horizon|Cross the Final Horizon]], [[DATABASE/feat/Heaven's Thunder|Heaven's Thunder]], [[DATABASE/feat/Jalmeri Heavenseeker Dedication|Jalmeri Heavenseeker Dedication]], [[DATABASE/feat/Sky and Heaven Stance|Sky and Heaven Stance]], [[DATABASE/feat/Skyseeker|Skyseeker]], [[DATABASE/feat/Speaking Sky|Speaking Sky]], [[DATABASE/feat/Steal the Sky|Steal the Sky]]
 
 ## Hazards [4]
 
-[[Hands of the Forgotten]], [[Iron Maiden Trap]], [[Life Magnet]], [[Rigged Cubby]]
+[[DATABASE/hazard/Hands of the Forgotten|Hands of the Forgotten]], [[DATABASE/hazard/Iron Maiden Trap|Iron Maiden Trap]], [[DATABASE/hazard/Life Magnet|Life Magnet]], [[DATABASE/hazard/Rigged Cubby|Rigged Cubby]]
 
 ## Monsters [9]
 
-[[Bone Skipper Swarm]], [[Dreadsong Dancer]], [[Excorion]], [[Giant Bone Skipper]], [[Najra Lizard]], [[Skinstitch]], [[Tenome]], [[Teraphant]], [[Vaultbreaker Ooze]]
+[[DATABASE/monster/Bone Skipper Swarm|Bone Skipper Swarm]], [[DATABASE/monster/Dreadsong Dancer|Dreadsong Dancer]], [[DATABASE/monster/Excorion|Excorion]], [[DATABASE/monster/Giant Bone Skipper|Giant Bone Skipper]], [[DATABASE/monster/Najra Lizard|Najra Lizard]], [[DATABASE/monster/Skinstitch|Skinstitch]], [[DATABASE/monster/Tenome|Tenome]], [[DATABASE/monster/Teraphant|Teraphant]], [[DATABASE/monster/Vaultbreaker Ooze|Vaultbreaker Ooze]]
 
 ## Rituals [1]
 
-[[Create Skinstitch]]
+[[DATABASE/ritual/Create Skinstitch|Create Skinstitch]]
 
 ## Setting Articles [2]
 
@@ -44,4 +45,4 @@ Guards of Absalom, Vudra
 
 ## Spells [6]
 
-[[Admonishing Ray]], [[Magical Fetters]], [[Maze of Locked Doors]], [[Putrefy Food and Drink]], [[Speaking Sky]], [[Steal the Sky]]
+[[DATABASE/spell/Admonishing Ray|Admonishing Ray]], [[DATABASE/spell/Magical Fetters|Magical Fetters]], [[DATABASE/spell/Maze of Locked Doors|Maze of Locked Doors]], [[DATABASE/spell/Putrefy Food and Drink|Putrefy Food and Drink]], [[DATABASE/spell/Speaking Sky|Speaking Sky]], [[DATABASE/spell/Steal the Sky|Steal the Sky]]

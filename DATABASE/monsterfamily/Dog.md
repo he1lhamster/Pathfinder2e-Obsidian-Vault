@@ -3,6 +3,7 @@ creature_family: Dog
 id: '33'
 name: Dog
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Dog
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Dogs are trusted and loyal companions that serve as guardians, protectors, and hunting companions. Their ability to detect prey or predators via scent and their predilection to accompany humanoids makes them ideal pets for most adventurers. There are hundreds of breeds of dogs in the world—from tiny lapdogs who shower their masters in affection to muscular dogs that stand nearly 4 feet high at the shoulder—and they can be found in nearly any place where people reside. Larger breeds might even be used as mounts for smaller adventurers, and some cultures use dogs as beasts of burden capable of pulling sleds loaded with supplies across the icy tundra. Regardless, many adventurers find value in having a dog.
 
 ### Members
 
-[[Guard Dog]] (Creature -1), [[Riding Dog]] (Creature 1)
+[[DATABASE/monster/Guard Dog|Guard Dog]] (Creature -1), [[DATABASE/monster/Riding Dog|Riding Dog]] (Creature 1)
 
 ###  Rabies
 

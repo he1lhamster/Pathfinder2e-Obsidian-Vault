@@ -67,17 +67,17 @@ wisdom: '+4'
 # Old Crackjaw
 
 This creature did not include a description.
-**Recall Knowledge - Animal ([[Nature]])**: DC 30
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 30
 **Unspecific Lore**: DC 28
 **Specific Lore**: DC 25
 
 # Old Crackjaw<span class="item-type">Creature 5</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Animal</span>
-**Source** [[Kingmaker Adventure Path]]
-Variant [[Snapping Turtle]]
-**Perception** +11; [[Low-Light Vision]], [[Scent]] (imprecise) 30 feet
-**Skills** [[Athletics]] +12, [[Stealth]] +11 (+13 in water)
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
+Variant [[DATABASE/monster/Snapping Turtle|snapping turtle]]
+**Perception** +11; [[DATABASE/monsterability/Low-Light Vision|low-light vision]], [[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +12, [[DATABASE/skill/Stealth|Stealth]] +11 (+13 in water)
 **Str** +5, **Dex** +2, **Con** +4, **Int** -4, **Wis** +4, **Cha** -2
 **Deep Breath** Old Crackjaw can hold its breath for 30 minutes.
 

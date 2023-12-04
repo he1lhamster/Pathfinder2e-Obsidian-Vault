@@ -11,6 +11,7 @@ name: Consume Power
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -26,7 +27,7 @@ type: Feat
 # Consume Power <span class="action-icon">5</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Metal</span><span class="item-trait">Primal</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Trigger** You would take acid, electricity, fire, or sonic damage.
 
 ---

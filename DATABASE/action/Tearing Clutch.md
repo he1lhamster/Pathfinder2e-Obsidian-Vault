@@ -7,6 +7,7 @@ id: '1044'
 name: Tearing Clutch
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
 trait: null
@@ -16,7 +17,7 @@ type: Action
 ---
 # Tearing Clutch <span class="action-icon">2</span>
 
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 
 ---
-The terror bird makes a beak Strike; on a successful hit, the target takes 2d6 [[Persistent Damage]].
+The terror bird makes a beak Strike; on a successful hit, the target takes 2d6 [[DATABASE/condition/Persistent Damage|persistent bleed damage]].

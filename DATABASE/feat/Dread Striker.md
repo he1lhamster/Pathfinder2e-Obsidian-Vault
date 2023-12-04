@@ -11,6 +11,7 @@ name: Dread Striker
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Dread Striker <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Rogue</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Butterfly Blade]]*
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Butterfly Blade|Butterfly Blade]]*
 * This archetype offers Dread Striker at a different level than displayed here.
 
 ---

@@ -68,16 +68,16 @@ wisdom: '+1'
 # Black Bear
 
 Contrary to the name, black bears can be cinnamon or even blond in coloration, depending on which hue is most beneficial for surviving in their local environment. Regardless of their coloration, they are opportunistic eaters who gain sustenance from berries and nuts just as often as from fish and smaller mammals. They steal food when they find it, including from humanoid camps. Although they are predators, black bears are more timid than other bears. Unless defending themselves or their young, black bears often avoid conflict or fight only until they can retreat.
-**Recall Knowledge - Animal ([[Nature]])**: DC 16
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
 # Black Bear<span class="item-type">Creature 2</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary 2]] 
-**Perception** +8; [[Low-Light Vision]], [[Scent]]
-**Skills** [[Athletics]] +9, [[Survival]] +7
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +8; [[DATABASE/monsterability/Low-Light Vision|low-light vision]], [[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +9, [[DATABASE/skill/Survival|Survival]] +7
 **Str** +3, **Dex** +2, **Con** +3, **Int** -4, **Wis** +1, **Cha** -2
 
 ---
@@ -86,4 +86,4 @@ Contrary to the name, black bears can be cinnamon or even blond in coloration, d
 
 ---
 **Speed** 35 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +9 [+4/-1], **Damage** 1d8+5 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +9 [+5/+1] (agile), **Damage** 1d6+5 slashing plus [[Grab]]</span><span class="in-box-ability">**Mauler** The black bear gains +1 circumstance bonus to damage rolls against creatures it has grabbed.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +9 [+4/-1], **Damage** 1d8+5 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +9 [+5/+1] (agile), **Damage** 1d6+5 slashing plus [[DATABASE/monsterability/Grab|Grab]]</span><span class="in-box-ability">**Mauler** The black bear gains +1 circumstance bonus to damage rolls against creatures it has grabbed.</span>

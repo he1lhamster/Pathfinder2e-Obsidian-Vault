@@ -5,6 +5,7 @@ item_category: Relics
 name: Artistic Perfection
 prerequisite: null
 rarity: Common
+rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
@@ -15,8 +16,8 @@ type: Relic Grand Gift
 # Artistic Perfection<span class="item-type">Grand Gift</span>
 
 <span class="item-trait">Transmutation</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Aspect** artistry
 
 ---
-Your relic enhances your skill with [[Crafting]] or [[Performance]]. (Choose one.) If you succeed at a check with the chosen skill, you get a critical success instead.
+Your relic enhances your skill with [[DATABASE/skill/Crafting|Crafting]] or [[DATABASE/skill/Performance|Performance]]. (Choose one.) If you succeed at a check with the chosen skill, you get a critical success instead.

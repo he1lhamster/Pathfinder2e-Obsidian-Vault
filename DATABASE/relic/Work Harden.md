@@ -5,6 +5,7 @@ item_category: Relics
 name: Work Harden
 prerequisite: null
 rarity: Common
+rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Highhelm|Highhelm]]'
 trait:
@@ -15,7 +16,7 @@ type: Relic Minor Gift
 # Work Harden<span class="item-type">Minor Gift</span>
 
 <span class="item-trait">Abjuration</span>
-**Source** [[Highhelm]]
+**Source** [[DATABASE/source/Highhelm|Highhelm]]
 **Aspect** forge
 
 ---

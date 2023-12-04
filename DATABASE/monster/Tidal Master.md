@@ -73,17 +73,17 @@ wisdom: '+3'
 # Tidal Master
 
 Tidal masters use their power over waves and water to drown their enemies.
-**Recall Knowledge - Elemental ([[Arcana]], [[Nature]])**: DC 26
+**Recall Knowledge - Elemental ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 26
 **Unspecific Lore**: DC 24
 **Specific Lore**: DC 21
 
 # Tidal Master<span class="item-type">Creature 9</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Aquatic</span><span class="item-trait">Elemental</span><span class="item-trait">Water</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +18; darkvision
-**Languages** [[Aquan]]
-**Skills** [[Athletics]] +20, [[Stealth]] +19
+**Languages** [[DATABASE/language/Aquan|Aquan]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +20, [[DATABASE/skill/Stealth|Stealth]] +19
 **Str** +5, **Dex** +5, **Con** +5, **Int** -1, **Wis** +3, **Cha** +0
 **Water-Bound** When not touching water, the tidal master is slowed 1 and can’t use reactions.
 

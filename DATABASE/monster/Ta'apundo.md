@@ -82,26 +82,26 @@ wisdom: '+10'
 ---
 # Ta'apundo
 
-The [[First World]] still holds the first rough draft of many creatures in the [[Material Plane]], but it's hard to tell what sort of creature the ta'apundo was ever intended to be. Its bark poses significant danger to metallic objects, as it converts any metal touching it into wood as fibrous and as flexible as its own body. Capricious and skittish, ta'apundos make friends easily but consider anyone who wields or wears metal to be a hated enemy.
-**Recall Knowledge - Fey ([[Nature]])**: DC 44
-**Recall Knowledge - Plant ([[Nature]])**: DC 44
+The [[DATABASE/plane/First World|First World]] still holds the first rough draft of many creatures in the [[DATABASE/plane/Material Plane|Material Plane]], but it's hard to tell what sort of creature the ta'apundo was ever intended to be. Its bark poses significant danger to metallic objects, as it converts any metal touching it into wood as fibrous and as flexible as its own body. Capricious and skittish, ta'apundos make friends easily but consider anyone who wields or wears metal to be a hated enemy.
+**Recall Knowledge - Fey ([[DATABASE/skill/Nature|Nature]])**: DC 44
+**Recall Knowledge - Plant ([[DATABASE/skill/Nature|Nature]])**: DC 44
 **Unspecific Lore**: DC 42
 **Specific Lore**: DC 39
 
 # Ta'apundo<span class="item-type">Creature 19</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">CN</span><span class="trait-size item-trait">Huge</span><span class="item-trait">Fey</span><span class="item-trait">Plant</span>
-**Source** [[Pathfinder 174. Shadows of the Ancients]]
-**Perception** +35; [[Low-Light Vision]], greensight
-**Languages** [[Common]], [[Sylvan]]
-**Skills** [[Acrobatics]] +35, [[Nature]] +33, [[Stealth]] +35, [[Survival]] +37
+**Source** [[DATABASE/source/Pathfinder 174. Shadows of the Ancients|Pathfinder #174: Shadows of the Ancients]]
+**Perception** +35; [[DATABASE/monsterability/Low-Light Vision|low-light vision]], greensight
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Sylvan|Sylvan]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +35, [[DATABASE/skill/Nature|Nature]] +33, [[DATABASE/skill/Stealth|Stealth]] +35, [[DATABASE/skill/Survival|Survival]] +37
 **Str** +6, **Dex** +10, **Con** +5, **Int** +0, **Wis** +10, **Cha** +6
-**Greensight** Vegetation doesn't impair a ta'apundo's vision and doesn't provide a creature cover or [[Concealed]] from a ta'apundo.
+**Greensight** Vegetation doesn't impair a ta'apundo's vision and doesn't provide a creature cover or [[DATABASE/condition/Concealed|concealment]] from a ta'apundo.
 
 ---
 **AC** 45; **Fort** +30, **Ref** +35, **Will** +33
-**HP** 440; **Resistances** wood 20; **Weaknesses** [[Cold Iron Weapon]] 20, fire 20
-<span class="in-box-ability">**Wood Resistance** (abjuration, primal) A ta'apundo has resistance 20 against wooden objects and unarmed attacks from creatures made mostly of wood (such as [[Arboreal]]).</span><span class="in-box-ability">**Lignification <span class="action-icon">5</span> ** (primal, transmutation) **Trigger** a non–[[Cold Iron]] metal object damages the ta'apundo; **Effect** The ta'apundo emits a jolt of magic into the object, transforming it into wood with an unlimited duration. A thrown weapon, ammunition, or other unattended item automatically transforms; the wielder of an attended object can resist this effect with a successful DC 41 Fortitude save. [[Dispel Magic]] can end the effect. While a weapon is wood, the ta'apundo's resistance applies. Once transformed, a formerly metal item's Hardness and HP change to those of wood. This typically inflicts a –2 circumstance penalty to attack rolls made with metal weapons and a –2 circumstance penalty to AC for those wearing metal armor; the GM might determine a different penalty for a specific weapon or armor.</span>
+**HP** 440; **Resistances** wood 20; **Weaknesses** [[DATABASE/equipment/Cold Iron Weapon|cold iron]] 20, fire 20
+<span class="in-box-ability">**Wood Resistance** (abjuration, primal) A ta'apundo has resistance 20 against wooden objects and unarmed attacks from creatures made mostly of wood (such as [[DATABASE/monsterfamily/Arboreal|arboreals]]).</span><span class="in-box-ability">**Lignification <span class="action-icon">5</span> ** (primal, transmutation) **Trigger** a non–[[DATABASE/equipment/Cold Iron|cold iron]] metal object damages the ta'apundo; **Effect** The ta'apundo emits a jolt of magic into the object, transforming it into wood with an unlimited duration. A thrown weapon, ammunition, or other unattended item automatically transforms; the wielder of an attended object can resist this effect with a successful DC 41 Fortitude save. [[DATABASE/spell/Dispel Magic|Dispel magic]] can end the effect. While a weapon is wood, the ta'apundo's resistance applies. Once transformed, a formerly metal item's Hardness and HP change to those of wood. This typically inflicts a –2 circumstance penalty to attack rolls made with metal weapons and a –2 circumstance penalty to AC for those wearing metal armor; the GM might determine a different penalty for a specific weapon or armor.</span>
 
 ---
 **Speed** 20 feet; woodland stride
@@ -109,4 +109,4 @@ The [[First World]] still holds the first rough draft of many creatures in the [
 
 ###  Seed Survivors
 
-[[The Green Mother]], one of the erratic fey deities known collectively as the Eldest, planted the seeds for several ta'apundos across the world long ago. With the devastation of Earthfall and the destruction of natural places across much of the world, most ta'apundo seeds were destroyed. In the Mwangi Expanse, however, many seeds took root. Most ta'apundos that exist on Golarion—which are far fewer than the number in the [[First World]]—can be found in the Mwangi jungles.
+[[DATABASE/deity/The Green Mother|The Green Mother]], one of the erratic fey deities known collectively as the Eldest, planted the seeds for several ta'apundos across the world long ago. With the devastation of Earthfall and the destruction of natural places across much of the world, most ta'apundo seeds were destroyed. In the Mwangi Expanse, however, many seeds took root. Most ta'apundos that exist on Golarion—which are far fewer than the number in the [[DATABASE/plane/First World|First World]]—can be found in the Mwangi jungles.

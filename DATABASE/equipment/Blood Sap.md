@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: DC 16 Fortitude
 school: null
 size: null
@@ -57,11 +58,11 @@ weapon_type: null
 # Blood Sap<span class="item-type">Item 1</span>
 
 <span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Drug</span><span class="item-trait">Ingested</span><span class="item-trait">Poison</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Price** 4 gp
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
 ---
 This potent drug is distilled from a certain tropical vine into a deep-red syrup that, over time, stains the user’s lips and teeth a vivid shade of red.
-**Saving Throw** DC 16 Fortitude; **Onset** 10 minutes; **Maximum Duration** 3 hours; **Stage 1** [[Drained]], +1 item bonus to weapon and unarmed attack rolls, [[Acrobatics]] checks, and [[Athletics]] checks (10 minutes); **Stage 2** [[Slowed]] (1 hour)
+**Saving Throw** DC 16 Fortitude; **Onset** 10 minutes; **Maximum Duration** 3 hours; **Stage 1** [[DATABASE/condition/Drained|drained 1]], +1 item bonus to weapon and unarmed attack rolls, [[DATABASE/skill/Acrobatics|Acrobatics]] checks, and [[DATABASE/skill/Athletics|Athletics]] checks (10 minutes); **Stage 2** [[DATABASE/condition/Slowed|slowed 1]] (1 hour)

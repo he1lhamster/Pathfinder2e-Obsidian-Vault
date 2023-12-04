@@ -3,6 +3,7 @@ creature_family: Ghoul
 id: '52'
 name: Ghoul
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Ghoul
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Few creatures are more ubiquitous to sinister locations such as lonely graveyards and ruined crypts than the flesh-eating undead known as ghouls.
 
 ### Members
 
-[[Barnacle Ghoul]] (Creature 9), [[Ghast]] (Creature 2), [[Ghoul]] (Creature 1), [[Ghoul Antipaladin]] (Creature 9), [[Ghoul Gnawer]] (Creature 11), [[Ghoul Razorclaw]] (Creature 13), [[Lacedon]] (Creature 2), [[Leng Ghoul]] (Creature 10), [[Priest of Kabriri]] (Creature 5)
+[[DATABASE/monster/Barnacle Ghoul|Barnacle Ghoul]] (Creature 9), [[DATABASE/monster/Ghast|Ghast]] (Creature 2), [[DATABASE/monster/Ghoul|Ghoul]] (Creature 1), [[DATABASE/monster/Ghoul Antipaladin|Ghoul Antipaladin]] (Creature 9), [[DATABASE/monster/Ghoul Gnawer|Ghoul Gnawer]] (Creature 11), [[DATABASE/monster/Ghoul Razorclaw|Ghoul Razorclaw]] (Creature 13), [[DATABASE/monster/Lacedon|Lacedon]] (Creature 2), [[DATABASE/monster/Leng Ghoul|Leng Ghoul]] (Creature 10), [[DATABASE/monster/Priest of Kabriri|Priest of Kabriri]] (Creature 5)
 
 ## Creating Ghouls
 
@@ -27,8 +28,8 @@ You can turn a living creature into a ghoul by completing the following steps. W
 ### Ghoul Abilities
 
 A ghoul gains the undead and ghoul traits, and it usually becomes evil. If the base creature has any abilities that come from it being a living creature, it loses them. It also loses any traits that represented its life as a living creature, such as human and humanoid. You might also need to adjust abilities that conflict with the theme of a ghoul. All ghouls gain the following abilities. The save DC for all abilities uses the DC of the ghoul's level.
- **[[Darkvision]]**
- **[[Negative Healing]]**
+ **[[DATABASE/monsterability/Darkvision|Darkvision]]**
+ **[[DATABASE/monsterability/Negative Healing|Negative Healing]]**
  **Immunities** death effects, disease, paralyzed, poison, unconscious
  **Claws** If the creature had hands, it gains a claw Strike (an agile unarmed attack that deals slashing damage plus paralysis). If it had any agile attacks, the damage dealt by its claws should be roughly the same as the damage dealt by those attacks. If it had only non-agile attacks, its claws should deal three-quarters that damage.
  **Jaws** If the creature had a mouth, it gains a jaws Strike (an unarmed attack that deals slashing damage plus ghoul fever and paralysis). The damage amount should be the same as the creature's non-agile attacks.
@@ -61,4 +62,4 @@ Legend holds that the first humanoid (an elf, as it so happened) to feed upon th
 
 ###  Whispers in the Warrens
 
-Legend holds that Briganthor, a [[Dwarf]] [[Champion]] of [[Torag]], quested to root out a pack of [[Ghoul]]. After slaying the undead, he stumbled upon a tome of cannibalistic prayer-recipes. As Briganthor attempted to burn the book, the warren collapsed—trapping him and his brother. Desperate for sustenance, Briganthor searched the cave-in only to conclude there was no way out. As days melted into weeks, the paladin feared they would starve. That's when the whispers came. Pleading, gnawing, begging him to open the grimoire.
+Legend holds that Briganthor, a [[DATABASE/ancestry/Dwarf|dwarf]] [[DATABASE/class_/Champion|champion]] of [[DATABASE/deity/Torag|Torag]], quested to root out a pack of [[DATABASE/monster/Ghoul|ghouls]]. After slaying the undead, he stumbled upon a tome of cannibalistic prayer-recipes. As Briganthor attempted to burn the book, the warren collapsed—trapping him and his brother. Desperate for sustenance, Briganthor searched the cave-in only to conclude there was no way out. As days melted into weeks, the paladin feared they would starve. That's when the whispers came. Pleading, gnawing, begging him to open the grimoire.

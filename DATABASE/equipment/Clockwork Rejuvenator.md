@@ -32,6 +32,7 @@ reflex: null
 requirement: The round you activate the rejuvenator, you must first spend either 1
   Interact action or 2 Interactactions to wind the device.
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 size: null
@@ -58,7 +59,7 @@ weapon_type: null
 # Clockwork Rejuvenator<span class="item-type">Item 18</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Clockwork</span><span class="item-trait">Consumable</span><span class="item-trait">Magical</span><span class="item-trait">Necromancy</span>
-**Source** [[Pathfinder 161. Belly of the Black Whale]]
+**Source** [[DATABASE/source/Pathfinder 161. Belly of the Black Whale|Pathfinder #161: Belly of the Black Whale]]
 **Price** 4,500 gp
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> or <span class="action-icon">2</span> Interact **Requirements** The round you activate the rejuvenator, you must first spend either 1 Interact action or 2 Interact actions to wind the device.

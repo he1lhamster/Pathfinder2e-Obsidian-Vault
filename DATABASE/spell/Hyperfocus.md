@@ -22,6 +22,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Divination
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -36,8 +37,8 @@ type: Focus
 # Hyperfocus<span class="item-type">Focus 1</span>
 
 <span class="item-trait">Divination</span>
-**Source** [[Gods & Magic]] 
-**Domain** [[Delirium Domain]]
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
+**Domain** [[DATABASE/domain/Delirium Domain|delirium]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet; **Targets** 1 creature
 **Saving Throw** Will; **Duration** varies

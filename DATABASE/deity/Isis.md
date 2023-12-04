@@ -24,6 +24,7 @@ follower_alignment:
 id: '54'
 name: Isis
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Arcana|Arcana]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -33,18 +34,18 @@ type: Deity
 ---
 # Isis (Queen of Miracles) [NG]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Category** Ancient Osirian Gods
 **Edicts** Provide aid to the sick and wounded, use magic to help others, mourn the cherished dead, ritually purify yourself before entering sacred areas
 **Anathema** Reveal sacred rites to the uninitiated, betray your children or your lover, discriminate based on social status
 **Follower Alignments** LG, NG, CG
-**Pantheons** [[Wards of the Pharaoh]]
+**Pantheons** [[DATABASE/deity/Wards of the Pharaoh|Wards of the Pharaoh]]
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Wisdom or Charisma
-**Divine Font** _[[Heal]]_
-**Divine Skill** [[Arcana]]
-**Favored Weapon** [[Staff]]
-**Domains** [[Family Domain]], [[Healing Domain]], [[Magic Domain]], [[Passion Domain]]
-**Cleric Spells** 1st: _[[Soothe]]_, 2nd: _[[Humanoid Form]]_, 3rd: _[[Animal Vision]]_, 4th: _[[Creation]]_, 5th: _[[Control Water]]_, 6th: _[[Wall of Force]]_, 7th: _[[Magnificent Mansion]]_, 8th: _[[Wind Walk]]_, 9th: _[[Shapechange]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Wisdom or Charisma
+**Divine Font** _[[DATABASE/spell/Heal|heal]]_
+**Divine Skill** [[DATABASE/skill/Arcana|Arcana]]
+**Favored Weapon** [[DATABASE/weapon/Staff|staff]]
+**Domains** [[DATABASE/domain/Family Domain|family]], [[DATABASE/domain/Healing Domain|healing]], [[DATABASE/domain/Magic Domain|magic]], [[DATABASE/domain/Passion Domain|passion]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Soothe|soothe]]_, 2nd: _[[DATABASE/spell/Humanoid Form|humanoid form]]_, 3rd: _[[DATABASE/spell/Animal Vision|animal vision]]_, 4th: _[[DATABASE/spell/Creation|creation]]_, 5th: _[[DATABASE/spell/Control Water|control water]]_, 6th: _[[DATABASE/spell/Wall of Force|wall of force]]_, 7th: _[[DATABASE/spell/Magnificent Mansion|magnificent mansion]]_, 8th: _[[DATABASE/spell/Wind Walk|wind walk]]_, 9th: _[[DATABASE/spell/Shapechange|shapechange]]_

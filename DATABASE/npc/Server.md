@@ -62,19 +62,19 @@ wisdom: '+1'
 # Server
 
 Always on the move from patron to patron, servers are the backbone of any tavern or eatery. Their work hones both their agility and their diplomacy.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 13
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 13
 **Unspecific Lore**: DC 11
 **Specific Lore**: DC 8
 
 # Server<span class="item-type">Creature -1</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Perception** +3
-**Languages** [[Common]]
-**Skills** [[Acrobatics]] +6, [[Diplomacy]] +4, [[Thievery]] +5
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +6, [[DATABASE/skill/Diplomacy|Diplomacy]] +4, [[DATABASE/skill/Thievery|Thievery]] +5
 **Str** +1, **Dex** +4, **Con** +0, **Int** +0, **Wis** +1, **Cha** +2
-**Items** [[Mug]], serving tray
+**Items** [[DATABASE/equipment/Mug|pewter mug]], serving tray
 
 ---
 **AC** 16; **Fort** +2, **Ref** +7, **Will** +5

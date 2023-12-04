@@ -7,6 +7,7 @@ id: '757'
 name: Manifest Eidolon
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 trait:
@@ -22,7 +23,7 @@ type: Action
 # Manifest Eidolon <span class="action-icon">3</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Conjuration</span><span class="item-trait">Manipulate</span><span class="item-trait">Summoner</span><span class="item-trait">Teleportation</span>
-**Source** [[Secrets of Magic]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]]
 
 ---
 Your eidolon appears in an open space adjacent to you, and can then take a single action. If your eidolon was already manifested, you unmanifest it instead.

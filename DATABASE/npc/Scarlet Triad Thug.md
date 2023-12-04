@@ -70,25 +70,25 @@ wisdom: '+2'
 # Scarlet Triad Thug
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 25
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 25
 **Unspecific Lore**: DC 23
 **Specific Lore**: DC 20
 
 # Scarlet Triad Thug<span class="item-type">Creature 7</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Dwarf</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 147. Tomorrow Must Burn]]
-**Perception** +13; [[Darkvision]]
-**Languages** [[Common]], [[Dwarven]]
-**Skills** [[Acrobatics]] +13, [[Athletics]] +17, [[Intimidation]] +16, [[Survival]] +13, [[Thievery]] +13
+**Source** [[DATABASE/source/Pathfinder 147. Tomorrow Must Burn|Pathfinder #147: Tomorrow Must Burn]]
+**Perception** +13; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Dwarven|Dwarven]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +13, [[DATABASE/skill/Athletics|Athletics]] +17, [[DATABASE/skill/Intimidation|Intimidation]] +16, [[DATABASE/skill/Survival|Survival]] +13, [[DATABASE/skill/Thievery|Thievery]] +13
 **Str** +4, **Dex** +2, **Con** +3, **Int** +0, **Wis** +2, **Cha** +2
-**Items** _+1 [[Flail]]_, [[Manacles]], [[Chain Mail]], [[Javelin]], [[Manacles]]
+**Items** _+1 [[DATABASE/weapon/Flail|flail]]_, [[DATABASE/equipment/Manacles|average manacles (marked with the symbol of the Scarlet Triad)]], [[DATABASE/armor/Chain Mail|chain mail]], [[DATABASE/weapon/Javelin|javelin (3)]], [[DATABASE/equipment/Manacles|keys to manacles]]
 
 ---
-**AC** 25; **Fort** +18, **Ref** +12, **Will** +15; +2 circumstance on saves vs. [[Shove]], [[Trip]], or being knocked [[Prone]]
+**AC** 25; **Fort** +18, **Ref** +12, **Will** +15; +2 circumstance on saves vs. [[DATABASE/action/Shove|Shove]], [[DATABASE/action/Trip|Trip]], or being knocked [[DATABASE/condition/Prone|prone]]
 **HP** 120
-<span class="in-box-ability">**Rock Dwarf** When forced to move 10 feet or more, the thug is moved only half the distance.</span><span class="in-box-ability">**Bully's Push <span class="action-icon">5</span> ** **Trigger** A creature within the thug's reach misses the thug with a melee Strike. **Effect** The thug attempts to [[Shove]] the triggering creature at a –2 penalty. If the thug rolls a critical failure, it gets a failure instead.</span>
+<span class="in-box-ability">**Rock Dwarf** When forced to move 10 feet or more, the thug is moved only half the distance.</span><span class="in-box-ability">**Bully's Push <span class="action-icon">5</span> ** **Trigger** A creature within the thug's reach misses the thug with a melee Strike. **Effect** The thug attempts to [[DATABASE/action/Shove|Shove]] the triggering creature at a –2 penalty. If the thug rolls a critical failure, it gets a failure instead.</span>
 
 ---
 **Speed** 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _flail_ +18 [+13/+8] (disarm, sweep, trip), **Damage** 2d6+10 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> javelin +15 [+10/+5] (thrown 30 feet), **Damage** 1d6+10 piercing</span><span class="in-box-ability">**Efficient Capture** <span class="action-icon">3</span> (attack, manipulate) **Requirements** The thug has [[Manacles]] in hand and is next to a creature. **Effect** The thug attempts to bind the creature's wrists or ankles with the manacles. The thug must succeed at an attack roll with a +18 modifier against the target's AC.</span><span class="in-box-ability">**Pack Attack** The thug deals an extra 1d8 damage to any creature that's within reach of at least two of the thug's allies.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _flail_ +18 [+13/+8] (disarm, sweep, trip), **Damage** 2d6+10 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> javelin +15 [+10/+5] (thrown 30 feet), **Damage** 1d6+10 piercing</span><span class="in-box-ability">**Efficient Capture** <span class="action-icon">3</span> (attack, manipulate) **Requirements** The thug has [[DATABASE/equipment/Manacles|manacles]] in hand and is next to a creature. **Effect** The thug attempts to bind the creature's wrists or ankles with the manacles. The thug must succeed at an attack roll with a +18 modifier against the target's AC.</span><span class="in-box-ability">**Pack Attack** The thug deals an extra 1d8 damage to any creature that's within reach of at least two of the thug's allies.</span>

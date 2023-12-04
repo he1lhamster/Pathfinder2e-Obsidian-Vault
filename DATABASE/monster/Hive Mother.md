@@ -71,22 +71,22 @@ wisdom: '+2'
 # Hive Mother
 
 Ankhrav hive mothers are fearsome predators that one can easily distinguish from the typical ankhrav not only by their greater size, but the presence of a large pair of razor-sharp, mantis-like arms.
-**Recall Knowledge - Animal ([[Nature]])**: DC 26
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 26
 **Unspecific Lore**: DC 24
 **Specific Lore**: DC 21
 
 # Hive Mother<span class="item-type">Creature 8</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Huge</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +16; darkvision, tremorsense (imprecise) 90 feet
-**Skills** [[Acrobatics]] +13, [[Athletics]] +20, [[Stealth]] +11, [[Survival]] +16
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +13, [[DATABASE/skill/Athletics|Athletics]] +20, [[DATABASE/skill/Stealth|Stealth]] +11, [[DATABASE/skill/Survival|Survival]] +16
 **Str** +6, **Dex** +1, **Con** +4, **Int** -4, **Wis** +2, **Cha** -2
 
 ---
 **AC** 29; **Fort** +18, **Ref** +15, **Will** +14
 **HP** 120
-<span class="in-box-ability">**[[Attack of Opportunity]]** <span class="action-icon">5</span> </span>
+<span class="in-box-ability">**[[DATABASE/monsterability/Attack of Opportunity|Attack of Opportunity]]** <span class="action-icon">5</span> </span>
 
 ---
 **Speed** 25 feet, burrow 20 feet

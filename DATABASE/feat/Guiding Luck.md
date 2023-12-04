@@ -11,6 +11,7 @@ name: Guiding Luck
 prerequisite: '[[DATABASE/feat/Halfling Luck|Halfling Luck]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,14 +24,14 @@ type: Feat
 # Guiding Luck <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Halfling</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Halfling Luck]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/feat/Halfling Luck|Halfling Luck]]
 
 ---
-Your luck guides you to look the right way and aim your blows unerringly. You can use [[Halfling Luck]] twice per day: once in response to its normal trigger, and once when you fail a Perception check or attack roll instead of the normal trigger.
+Your luck guides you to look the right way and aim your blows unerringly. You can use [[DATABASE/feat/Halfling Luck|Halfling Luck]] twice per day: once in response to its normal trigger, and once when you fail a Perception check or attack roll instead of the normal trigger.
 
 ## Traits
 
 **Halfling:**
 
-A creature with this trait is a member of the [[Halfling]] ancestry. These small people are friendly wanderers considered to be lucky. An ability with this trait can be used or selected only by halflings. A weapon with this trait is created and used by halflings.
+A creature with this trait is a member of the [[DATABASE/ancestry/Halfling|halfling]] ancestry. These small people are friendly wanderers considered to be lucky. An ability with this trait can be used or selected only by halflings. A weapon with this trait is created and used by halflings.

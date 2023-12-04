@@ -13,6 +13,7 @@ prerequisite: '[[DATABASE/feat/Dual-Weapon Warrior Dedication|Dual-Weapon Warrio
 rarity: Common
 requirement: You are wielding two one-handed weapons, each in a different hand, one
   of which is a ranged weapon.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,9 +26,9 @@ type: Feat
 # Dual-Weapon Reload <span class="action-icon">1</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Dual-Weapon Warrior]]
-**Prerequisites** [[Dual-Weapon Warrior Dedication]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Dual-Weapon Warrior|Dual-Weapon Warrior]]
+**Prerequisites** [[DATABASE/feat/Dual-Weapon Warrior Dedication|Dual-Weapon Warrior Dedication]]
 **Requirements** You are wielding two one-handed weapons, each in a different hand, one of which is a ranged weapon.
 
 ---

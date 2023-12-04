@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -41,10 +42,10 @@ type: Focus
 # Dread Aura<span class="item-type">Focus 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Aura</span><span class="item-trait">Emotion</span><span class="item-trait">Enchantment</span><span class="item-trait">Fear</span><span class="item-trait">Mental</span><span class="item-trait">Wizard</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Area** 30-foot-radius emanation
 **Duration** sustained up to 1 minute
 
 ---
-You emit an aura of terror. Foes in the area are [[Frightened]] and unable to reduce the condition.
+You emit an aura of terror. Foes in the area are [[DATABASE/condition/Frightened|frightened 1]] and unable to reduce the condition.

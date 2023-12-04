@@ -11,6 +11,7 @@ name: Distant Cackle
 prerequisite: '[[DATABASE/heritage/Witch Gnoll|Witch Gnoll]] heritage'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 subcategory: null
@@ -23,11 +24,11 @@ type: Feat
 # Distant Cackle <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Gnoll</span>
-**Source** [[The Mwangi Expanse]] 
-**Prerequisites** [[Witch Gnoll]]
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]] 
+**Prerequisites** [[DATABASE/heritage/Witch Gnoll|Witch Gnoll]]
 
 ---
-It takes a very brave person to enter the laughter-haunted forest where you dwell. You can cast [[Ventriloquism]] once per day as a 1st-level occult innate spell.
+It takes a very brave person to enter the laughter-haunted forest where you dwell. You can cast [[DATABASE/spell/Ventriloquism|ventriloquism]] once per day as a 1st-level occult innate spell.
 
 ## Traits
 

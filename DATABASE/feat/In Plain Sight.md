@@ -11,6 +11,7 @@ name: In Plain Sight
 prerequisite: '[[DATABASE/feat/Alter Ego Dedication|Alter Ego Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -24,12 +25,12 @@ type: Feat
 # In Plain Sight <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Skill</span>
-**Source** [[Dark Archive]]
-**Archetype** [[Alter Ego]]
-**Prerequisites** [[Alter Ego Dedication]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Archetype** [[DATABASE/archetype/Alter Ego|Alter Ego]]
+**Prerequisites** [[DATABASE/feat/Alter Ego Dedication|Alter Ego Dedication]]
 
 ---
-People often only see what they want to see, a weakness you know how to take full advantage of. While you've Assumed a Role, you can use [[Deception]] in place of [[Stealth]] when using the [[Avoid Notice]] exploration activity in an area where someone with your role wouldn't be unusual, such as when impersonating a sailor or fisher when infiltrating the docks.
+People often only see what they want to see, a weakness you know how to take full advantage of. While you've Assumed a Role, you can use [[DATABASE/skill/Deception|Deception]] in place of [[DATABASE/skill/Stealth|Stealth]] when using the [[DATABASE/action/Avoid Notice|Avoid Notice]] exploration activity in an area where someone with your role wouldn't be unusual, such as when impersonating a sailor or fisher when infiltrating the docks.
 
 ## Traits
 

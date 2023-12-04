@@ -11,6 +11,7 @@ name: Beastmaster Bond
 prerequisite: '[[DATABASE/feat/Beastmaster Dedication|Beastmaster Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Divination
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -26,12 +27,12 @@ type: Feat
 # Beastmaster Bond <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Divination</span><span class="item-trait">Mental</span><span class="item-trait">Primal</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Beastmaster]]
-**Prerequisites** [[Beastmaster Dedication]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Beastmaster|Beastmaster]]
+**Prerequisites** [[DATABASE/feat/Beastmaster Dedication|Beastmaster Dedication]]
 
 ---
-You can communicate telepathically with your animal companions within 100 feet. If you're legendary in [[Nature]], you can communicate telepathically with your animal companions anywhere on the planet.
+You can communicate telepathically with your animal companions within 100 feet. If you're legendary in [[DATABASE/skill/Nature|Nature]], you can communicate telepathically with your animal companions anywhere on the planet.
 
 ## Traits
 

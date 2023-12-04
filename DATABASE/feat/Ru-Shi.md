@@ -11,6 +11,7 @@ name: Ru-Shi
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -24,20 +25,20 @@ type: Feat
 # Ru-Shi <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Dhampir</span><span class="item-trait">Lineage</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-You were born to a jiang-shi, one of the so-called hopping vampires found most often in Tian-Xia. Your parent had a supernatural obsession with counting small objects, which manifests in you as a preternatural gift for linguistics and mathematics. You are trained in [[Society]] and gain the [[Eye for Numbers]] skill feat. If you would automatically become trained in Society (from your background or class, for example), you instead become trained in a skill of your choice.
+You were born to a jiang-shi, one of the so-called hopping vampires found most often in Tian-Xia. Your parent had a supernatural obsession with counting small objects, which manifests in you as a preternatural gift for linguistics and mathematics. You are trained in [[DATABASE/skill/Society|Society]] and gain the [[DATABASE/feat/Eye for Numbers|Eye for Numbers]] skill feat. If you would automatically become trained in Society (from your background or class, for example), you instead become trained in a skill of your choice.
 
 ## Ru-Shi Leads To...
 
-[[Hopping Stride]]
+[[DATABASE/feat/Hopping Stride|Hopping Stride]]
 
 ## Traits
 
 **Dhampir:**
 
-A creature with this trait has the dhampir versatile heritage. These humanoids are the mortal offspring of [[Vampire]] and members of other ancestries.
+A creature with this trait has the dhampir versatile heritage. These humanoids are the mortal offspring of [[DATABASE/monsterfamily/Vampire|vampires]] and members of other ancestries.
 
 **Lineage:**
 

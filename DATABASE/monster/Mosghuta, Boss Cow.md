@@ -72,23 +72,23 @@ wisdom: '+0'
 # Mosghuta, Boss Cow
 
 This creature did not include a description.
-**Recall Knowledge - Undead ([[Religion]])**: DC 28
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 28
 **Unspecific Lore**: DC 26
 **Specific Lore**: DC 23
 
 # Mosghuta, Boss Cow<span class="item-type">Creature 3</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Mindless</span><span class="item-trait">Undead</span><span class="item-trait">Zombie</span>
-**Source** [[Pathfinder 181. Zombie Feast]]
-**Perception** +4; [[Darkvision]]
-**Skills** [[Athletics]] +9
+**Source** [[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie Feast]]
+**Perception** +4; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +9
 **Str** +5, **Dex** -2, **Con** +4, **Int** -5, **Wis** +0, **Cha** -2
-**Slow** A zombie is permanently [[Slowed]] and can't use reactions.
+**Slow** A zombie is permanently [[DATABASE/condition/Slowed|slowed 1]] and can't use reactions.
 
 ---
 **AC** 15; **Fort** +11, **Ref** +3, **Will** +7; Will +7
-**HP** 70 ([[Negative Healing]]); **Immunities** death effects, disease, mental, [[Paralyzed]], poison, [[Unconscious]]; **Resistances** all damage 3; **Weaknesses** critical hits 6
+**HP** 70 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects, disease, mental, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Unconscious|unconscious]]; **Resistances** all damage 3; **Weaknesses** critical hits 6
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> horn +11 [+6/+1], **Damage** 1d12+5 piercing plus [[Knockdown]]</span><span class="in-box-ability">**Trundling Gore** <span class="action-icon">2</span> Mosghuta surges forward at her foe, horn lowered. She Strides once. If she ends her movement within melee range of an enemy, she makes a horn Strike against that enemy. If that Strike succeeds, Mosghuta uses [[Knockdown]] as a free action.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> horn +11 [+6/+1], **Damage** 1d12+5 piercing plus [[DATABASE/monsterability/Knockdown|Knockdown]]</span><span class="in-box-ability">**Trundling Gore** <span class="action-icon">2</span> Mosghuta surges forward at her foe, horn lowered. She Strides once. If she ends her movement within melee range of an enemy, she makes a horn Strike against that enemy. If that Strike succeeds, Mosghuta uses [[DATABASE/monsterability/Knockdown|Knockdown]] as a free action.</span>

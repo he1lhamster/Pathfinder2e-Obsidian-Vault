@@ -11,6 +11,7 @@ name: Inventor Dedication
 prerequisite: Intelligence 14
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -26,17 +27,17 @@ type: Feat
 # Inventor Dedication <span class="item-type">Feat 2</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Archetype</span><span class="item-trait">Dedication</span><span class="item-trait">Multiclass</span>
-**Source** [[Guns & Gears]]
-**Archetype** [[Inventor]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Archetype** [[DATABASE/archetype/Inventor|Inventor]]
 **Prerequisites** Intelligence 14
 
 ---
-You become trained in [[Crafting]] and inventor class DC. You gain the [[Inventor]] skill feat, even if you don't meet the skill feat's requirements. Choose an innovation. You gain that innovation, though you don't gain any other abilities that modify or use that innovation, such as modifications or [[Explode]].
+You become trained in [[DATABASE/skill/Crafting|Crafting]] and inventor class DC. You gain the [[DATABASE/feat/Inventor|Inventor]] skill feat, even if you don't meet the skill feat's requirements. Choose an innovation. You gain that innovation, though you don't gain any other abilities that modify or use that innovation, such as modifications or [[DATABASE/action/Explode|Explode]].
 **Special** You cannot select another dedication feat until you have first gained two other feats from the inventor archetype.
 
 ## Inventor Dedication Leads To...
 
-[[Basic Breakthrough]], [[Basic Modification]], [[Brilliant Crafter]], [[Explosion]]
+[[DATABASE/feat/Basic Breakthrough|Basic Breakthrough]], [[DATABASE/feat/Basic Modification|Basic Modification]], [[DATABASE/feat/Brilliant Crafter|Brilliant Crafter]], [[DATABASE/feat/Explosion|Explosion]]
 
 ## Traits
 
@@ -54,4 +55,4 @@ Archetypes with the multiclass trait represent diversifying your training into a
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.

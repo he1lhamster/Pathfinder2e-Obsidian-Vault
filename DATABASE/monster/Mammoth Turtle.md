@@ -69,17 +69,17 @@ wisdom: '+5'
 # Mammoth Turtle
 
 This creature did not include a description.
-**Recall Knowledge - Animal ([[Nature]])**: DC 37
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 37
 **Unspecific Lore**: DC 35
 **Specific Lore**: DC 32
 
 # Mammoth Turtle<span class="item-type">Creature 14</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Gargantuan</span><span class="item-trait">Animal</span>
-**Source** [[Pathfinder 166. Despair on Danger Island]]
-Variant [[Giant Snapping Turtle]]
-**Perception** +24; [[Low-Light Vision]], [[Scent]] (imprecise) 30 feet
-**Skills** [[Athletics]] +28
+**Source** [[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #166: Despair on Danger Island]]
+Variant [[DATABASE/monster/Giant Snapping Turtle|giant snapping turtle]]
+**Perception** +24; [[DATABASE/monsterability/Low-Light Vision|low-light vision]], [[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +28
 **Str** +9, **Dex** +0, **Con** +5, **Int** -4, **Wis** +5, **Cha** -2
 **Deep Breath** The mammoth turtle can hold its breath for 4 hours.
 
@@ -89,4 +89,4 @@ Variant [[Giant Snapping Turtle]]
 
 ---
 **Speed** 20 feet, swim 50 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +29 [+24/+19], **Damage** 3d12+14 piercing plus [[Improved Grab]]</span><span class="in-box-ability">**Capsize** <span class="action-icon">1</span> (attack, move) The turtle tries to capsize an adjacent aquatic vessel of its size or smaller. The turtle must succeed at a DC 43 [[Athletics]] check (reduced by 5 for each size smaller the vessel is than the turtle) or the pilot's [[Lore]] DC, whichever is higher.</span><span class="in-box-ability">**Fling** <span class="action-icon">1</span> **Requirements** The turtle has a creature [[Grabbed]] in its jaws; **Effect** The turtle flings the creature into the air from its mouth, sending it up to 10 feet up and 20 feet away. The creature falls 25 feet (assuming the turtle flings it as high as it can) and takes the appropriate amount of bludgeoning damage from the fall.</span><span class="in-box-ability">**Shell Defense** <span class="action-icon">1</span> The giant snapping turtle retracts its limbs and head into its shell and ends its turn. This increases its AC to 38, but it can't act except to reemerge, which it can do as a single action.</span><span class="in-box-ability">**[[Swallow Whole]]** <span class="action-icon">1</span> Large, 3d12+10 bludgeoning, Rupture 38</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +29 [+24/+19], **Damage** 3d12+14 piercing plus [[DATABASE/monsterability/Improved Grab|Improved Grab]]</span><span class="in-box-ability">**Capsize** <span class="action-icon">1</span> (attack, move) The turtle tries to capsize an adjacent aquatic vessel of its size or smaller. The turtle must succeed at a DC 43 [[DATABASE/skill/Athletics|Athletics]] check (reduced by 5 for each size smaller the vessel is than the turtle) or the pilot's [[DATABASE/skill/Lore|Sailing Lore]] DC, whichever is higher.</span><span class="in-box-ability">**Fling** <span class="action-icon">1</span> **Requirements** The turtle has a creature [[DATABASE/condition/Grabbed|grabbed]] in its jaws; **Effect** The turtle flings the creature into the air from its mouth, sending it up to 10 feet up and 20 feet away. The creature falls 25 feet (assuming the turtle flings it as high as it can) and takes the appropriate amount of bludgeoning damage from the fall.</span><span class="in-box-ability">**Shell Defense** <span class="action-icon">1</span> The giant snapping turtle retracts its limbs and head into its shell and ends its turn. This increases its AC to 38, but it can't act except to reemerge, which it can do as a single action.</span><span class="in-box-ability">**[[DATABASE/monsterability/Swallow Whole|Swallow Whole]]** <span class="action-icon">1</span> Large, 3d12+10 bludgeoning, Rupture 38</span>

@@ -135,20 +135,20 @@ Druidism draws some adherents because they love nature—and others because they
  Soon afterward, Bolan received his frst visit from a terrifying fey which called themself Kaneepo the Slim. Desperate for an ally and already favorably inclined toward fey, Bolan agreed to do whatever the fgure wanted. In exchange for a simple favor from Bolan— namely, stealing the sacred key to the Seventh Arch— Kaneepo promised to help Bolan not only overthrow humanoid civilization, but to destroy it entirely so that the natural world could heal.
  **Campaign Role**
  Though the primary antagonist for the frst chapter of the adventure, Bolan is ultimately a patsy—a desperate zealot who's become a pawn in Kaneepo the Slim's wicked game. Kaneepo has no problem with the rebel Oaksteward's genocidal goals. The fey only needs Bolan to steal the Shadewither Key, with which Kaneepo can expand their territory and pursue their own vengeance against the elves of Kyonin. Bolan is at once a tragic fgure and a dangerous foe, quick to spout proclamations about civilization's unchecked growth. Although he cares little for the other Oakstewards who've joined his cause, he genuinely feels for his fey allies, and he's surprisingly tolerant of their shenanigans.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 26
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 26
 **Unspecific Lore**: DC 24
 **Specific Lore**: DC 21
 
 # Bolan Nogasso<span class="item-type">Creature 2</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 187. The Seventh Arch]]
+**Source** [[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh Arch]]
 Male human druid
 **Perception** +11
-**Languages** [[Common]], [[Druidic]], [[Sylvan]]
-**Skills** [[Acrobatics]] +7, [[Athletics]] +7, [[Intimidation]] +8, [[Nature]] +8, [[Stealth]] +5, [[Survival]] +8
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Druidic|Druidic]], [[DATABASE/language/Sylvan|Sylvan]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +7, [[DATABASE/skill/Athletics|Athletics]] +7, [[DATABASE/skill/Intimidation|Intimidation]] +8, [[DATABASE/skill/Nature|Nature]] +8, [[DATABASE/skill/Stealth|Stealth]] +5, [[DATABASE/skill/Survival|Survival]] +8
 **Str** +2, **Dex** +2, **Con** +0, **Int** +0, **Wis** +4, **Cha** +2
-**Items** _+1 [[Staff]]_, [[Dagger]], [[Hide Armor]], leaf mask
+**Items** _+1 [[DATABASE/weapon/Staff|staff]]_, [[DATABASE/weapon/Dagger|dagger]], [[DATABASE/armor/Hide Armor|hide armor]], leaf mask
 
 ---
 **AC** 18; **Fort** +8, **Ref** +8, **Will** +11
@@ -156,9 +156,9 @@ Male human druid
 
 ---
 **Speed** 20 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> staff +9 [+4/-1] (magical, reach 10 feet [with wild morph], two-hand d8), **Damage** 1d8+3 bludgeoning</span>**Druid Prepared Spells** DC 18, attack +10; **1st** _[[Burning Hands]]_, _[[Fleet Step]]_, _[[Shillelagh]]_, _[[Summon Fey]]_; **Cantrips** **(1st)** _[[Acid Splash]]_, _[[Guidance]]_, _[[Light]]_, _[[Ray of Frost]]_, _[[Tanglefoot]]_
-**Druid Order Spells, 1 Focus Point** DC 18, attack +10; **1st** _[[Wild Morph]]_ (Plant Shape)
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> staff +9 [+4/-1] (magical, reach 10 feet [with wild morph], two-hand d8), **Damage** 1d8+3 bludgeoning</span>**Druid Prepared Spells** DC 18, attack +10; **1st** _[[DATABASE/spell/Burning Hands|burning hands]]_, _[[DATABASE/spell/Fleet Step|fleet step]]_, _[[DATABASE/spell/Shillelagh|shillelagh]]_, _[[DATABASE/spell/Summon Fey|summon fey]]_; **Cantrips** **(1st)** _[[DATABASE/spell/Acid Splash|acid splash]]_, _[[DATABASE/spell/Guidance|guidance]]_, _[[DATABASE/spell/Light|light]]_, _[[DATABASE/spell/Ray of Frost|ray of frost]]_, _[[DATABASE/spell/Tanglefoot|tanglefoot]]_
+**Druid Order Spells, 1 Focus Point** DC 18, attack +10; **1st** _[[DATABASE/spell/Wild Morph|wild morph]]_ (Plant Shape)
 <span class="in-box-ability">**Guardian Thorns** <span class="action-icon">2</span> (conjuration, primal) Bolan compels plant-based materials within 10 feet of him to grow sharp thorns and spiky branches. This ability affects all walls, floors, and large objects made from dead organic material, such as wood. Affected areas become difficult terrain. Non-fey and non-plant creatures in the affected area or those who move through an affected square take 2d10 piercing damage (DC 18 basic Reflex save). This ability does not affect stone, dirt, living plants, or other materials. The effect ends when Bolan moves out of his square.</span><span class="in-box-ability">**Item Treachery** <span class="action-icon">1</span> (primal, transmutation) Bolan targets a held item (such as a bow stave, wooden shield, or scroll) within 60 feet composed, at least partially, of wood, cotton, or other dead plant matter. The plant-based part of this item animates and attempts to wriggle free of its holder's grasp. The holder must attempt a DC 18 Reflex save.
  **Success** The creature holds onto the item with no ill effect.
- **Failure** The creature struggles to hold onto the item. Until the start of the creature's next turn, attempts to [[Disarm]] the creature of that item gain a +2 circumstance bonus, and the creature takes a –2 circumstance penalty to attacks with the item or other checks requiring a firm grasp on the item.
- **Critical Failure** The creature drops the item into the creature's space or drops the object in an adjacent square of Bolan's choice, at which point the item returns to normal.</span><span class="in-box-ability">**Vengeful Fibers** <span class="action-icon">1</span> (primal, transmutation) A piece of clothing animates and attacks its wearer at Bolan's command. Bolan targets a creature within 60 feet wearing clothing made from plants, such as cotton, hemp, or grass. The clothing chokes its wearer, restricts their movement, and abrades their skin. The target takes 2d10 bludgeoning damage (DC 18 basic Fortitude save). A creature that takes damage in this way is also [[Flat-Footed]] and takes a –10-foot circumstance penalty to Speed until the beginning of Bolan's next turn.</span>
+ **Failure** The creature struggles to hold onto the item. Until the start of the creature's next turn, attempts to [[DATABASE/action/Disarm|Disarm]] the creature of that item gain a +2 circumstance bonus, and the creature takes a –2 circumstance penalty to attacks with the item or other checks requiring a firm grasp on the item.
+ **Critical Failure** The creature drops the item into the creature's space or drops the object in an adjacent square of Bolan's choice, at which point the item returns to normal.</span><span class="in-box-ability">**Vengeful Fibers** <span class="action-icon">1</span> (primal, transmutation) A piece of clothing animates and attacks its wearer at Bolan's command. Bolan targets a creature within 60 feet wearing clothing made from plants, such as cotton, hemp, or grass. The clothing chokes its wearer, restricts their movement, and abrades their skin. The target takes 2d10 bludgeoning damage (DC 18 basic Fortitude save). A creature that takes damage in this way is also [[DATABASE/condition/Flat-Footed|flat-footed]] and takes a –10-foot circumstance penalty to Speed until the beginning of Bolan's next turn.</span>

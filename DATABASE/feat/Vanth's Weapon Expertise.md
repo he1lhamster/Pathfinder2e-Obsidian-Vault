@@ -11,6 +11,7 @@ name: Vanth's Weapon Expertise
 prerequisite: '[[DATABASE/feat/Vanth''s Weapon Familiarity|Vanth''s Weapon Familiarity]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,14 +24,14 @@ type: Feat
 # Vanth's Weapon Expertise <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Duskwalker</span>
-**Source** [[Ancestry Guide]] 
-**Prerequisites** [[Vanth's Weapon Familiarity]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
+**Prerequisites** [[DATABASE/feat/Vanth's Weapon Familiarity|Vanth's Weapon Familiarity]]
 
 ---
-[[Vanth]] themselves recognize you as an honorary reaper. Whenever you gain a class feature that grants you expert or greater proficiency in a given weapon or weapons, you also gain that proficiency in [[Bo Staff]], [[Longbow]], [[Longbow]], [[Scythe]], and [[Staff]].
+[[DATABASE/monster/Vanth|Vanths]] themselves recognize you as an honorary reaper. Whenever you gain a class feature that grants you expert or greater proficiency in a given weapon or weapons, you also gain that proficiency in [[DATABASE/weapon/Bo Staff|bo staves]], [[DATABASE/weapon/Longbow|longbows]], [[DATABASE/weapon/Longbow|composite longbows]], [[DATABASE/weapon/Scythe|scythes]], and [[DATABASE/weapon/Staff|staves]].
 
 ## Traits
 
 **Duskwalker:**
 
-A creature with this trait has the duskwalker versatile heritage. Duskwalkers are planar scions infused with the supernatural energy of [[Psychopomp]]. An ability with this trait can be used or selected only by duskwalkers.
+A creature with this trait has the duskwalker versatile heritage. Duskwalkers are planar scions infused with the supernatural energy of [[DATABASE/monsterfamily/Psychopomp|psychopomps]]. An ability with this trait can be used or selected only by duskwalkers.

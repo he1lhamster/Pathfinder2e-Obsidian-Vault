@@ -11,6 +11,7 @@ name: Energize Wings
 prerequisite: '[[DATABASE/feat/Evanescent Wings|Evanescent Wings]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -27,16 +28,16 @@ type: Feat
 # Energize Wings <span class="action-icon">1</span> <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Morph</span><span class="item-trait">Primal</span><span class="item-trait">Sprite</span><span class="item-trait">Transmutation</span>
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 **Frequency** once per hour
-**Prerequisites** [[Evanescent Wings]]
+**Prerequisites** [[DATABASE/feat/Evanescent Wings|Evanescent Wings]]
 
 ---
 You stoke your magic to energize your wings, temporarily transforming them into glowing, majestic forms. For 1 minute, you gain a fly Speed of 30 feet.
 
 ## Energize Wings Leads To...
 
-[[Hero's Wings]]
+[[DATABASE/feat/Hero's Wings|Hero's Wings]]
 
 ## Traits
 

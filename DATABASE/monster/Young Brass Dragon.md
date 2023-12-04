@@ -105,17 +105,17 @@ Brass dragons are whimsical tricksters who delight in humor and play. They parti
  These carefree dragons value independence and feel that all creatures deserve to live as they please, provided they don’t harm others. They are emotional creatures and tend to have short attention spans, sometimes falling victim to depression in their twilight years. To combat this, some brass dragons keep pets and houseplants that they can care for.
  Though they may seem childlike in their curiosity concerning mortal affairs, a brass dragon’s prowess in battle is no laughing matter. A brass dragon whose territory or allies are threatened is a terrifying foe indeed, quick to shed their innocent guise and unleash their terrifying might upon evildoers.
  Most brass dragons live in desert climates, and while they keep their lairs hidden, they often build near humanoid settlements.
-**Recall Knowledge - Dragon ([[Arcana]])**: DC 23
+**Recall Knowledge - Dragon ([[DATABASE/skill/Arcana|Arcana]])**: DC 23
 **Unspecific Lore**: DC 21
 **Specific Lore**: DC 18
 
 # Young Brass Dragon<span class="item-type">Creature 7</span>
 
 <span class="trait-alignment item-trait">CG</span><span class="trait-size item-trait">Large</span><span class="item-trait">Dragon</span><span class="item-trait">Fire</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +15; darkvision, scent (imprecise) 60 feet, tremorsense (imprecise) 30 feet
-**Languages** [[Common]], [[Draconic]], [[Gnomish]], [[Halfling]], [[Sylvan]]; [[Speak with Animals]]
-**Skills** [[Acrobatics]] +13, [[Athletics]] +18, [[Deception]] +15, [[Diplomacy]] +15, [[Society]] +14
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Gnomish|Gnomish]], [[DATABASE/language/Halfling|Halfling]], [[DATABASE/language/Sylvan|Sylvan]]; [[DATABASE/spell/Speak with Animals|speak with animals]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +13, [[DATABASE/skill/Athletics|Athletics]] +18, [[DATABASE/skill/Deception|Deception]] +15, [[DATABASE/skill/Diplomacy|Diplomacy]] +15, [[DATABASE/skill/Society|Society]] +14
 **Str** +5, **Dex** +2, **Con** +3, **Int** +1, **Wis** +1, **Cha** +2
 
 ---
@@ -125,11 +125,11 @@ Brass dragons are whimsical tricksters who delight in humor and play. They parti
 
 ---
 **Speed** 40 feet, burrow 30 feet, fly 120 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +19 [+14/+9] (fire, reach 10 feet), **Damage** 2d6+8 piercing plus 1d8 fire</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +19 [+15/+11] (agile), **Damage** 2d6+8 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> wing +17 [+12/+7] (reach 10 feet), **Damage** 1d8+7 slashing</span>**Arcane Innate Spells** DC 25; **Constant** **(2nd)** _[[Speak with Animals]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +19 [+14/+9] (fire, reach 10 feet), **Damage** 2d6+8 piercing plus 1d8 fire</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +19 [+15/+11] (agile), **Damage** 2d6+8 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> wing +17 [+12/+7] (reach 10 feet), **Damage** 1d8+7 slashing</span>**Arcane Innate Spells** DC 25; **Constant** **(2nd)** _[[DATABASE/spell/Speak with Animals|speak with animals]]_
 <span class="in-box-ability">**Breath Weapon** <span class="action-icon">2</span> (arcane, evocation, fire) The brass dragon breathes fire in a 60-foot line that deals 8d6 fire damage (DC 26 basic Reflex save). The dragon can’t use Breath Weapon again for 1d4 rounds.</span><span class="in-box-ability">**Draconic Frenzy** <span class="action-icon">2</span> The dragon makes two claw Strikes and one jaws Strike in any order.</span><span class="in-box-ability">**Draconic Momentum** When the dragon scores a critical hit with a Strike, it recharges Breath Weapon.</span>
 
 ###  Brass Dragon Spellcasters
 
 Brass dragon spellcasters tend to cast the following spells.
 **Young Brass Dragon**
-**Arcane Prepared Spells** DC 25, attack +18; **3rd** [[Earthbind]], [[Paralyze]]; **2nd** [[Humanoid Form]], [[Mirror Image]], [[Resist Energy]]; **1st** [[Alarm]], [[Sleep]], [[Ventriloquism]]; **Cantrips (3rd)** [[Dancing Lights]], [[Detect Magic]], [[Mage Hand]], [[Prestidigitation]], [[Read Aura]]
+**Arcane Prepared Spells** DC 25, attack +18; **3rd** [[DATABASE/spell/Earthbind|earthbind]], [[DATABASE/spell/Paralyze|paralyze]]; **2nd** [[DATABASE/spell/Humanoid Form|humanoid form]], [[DATABASE/spell/Mirror Image|mirror image]], [[DATABASE/spell/Resist Energy|resist energy]]; **1st** [[DATABASE/spell/Alarm|alarm]], [[DATABASE/spell/Sleep|sleep]], [[DATABASE/spell/Ventriloquism|ventriloquism]]; **Cantrips (3rd)** [[DATABASE/spell/Dancing Lights|dancing lights]], [[DATABASE/spell/Detect Magic|detect magic]], [[DATABASE/spell/Mage Hand|mage hand]], [[DATABASE/spell/Prestidigitation|prestidigitation]], [[DATABASE/spell/Read Aura|read aura]]

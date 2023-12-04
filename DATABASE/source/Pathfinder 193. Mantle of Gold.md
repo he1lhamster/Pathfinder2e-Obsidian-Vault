@@ -2,6 +2,7 @@
 id: '206'
 name: Pathfinder 193. Mantle of Gold
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -16,27 +17,27 @@ type: Source
 
 ## Equipment [13]
 
-[[Adamantine Echo]], [[Mycoweave Shield]], [[Mycoweave Shield]], [[Mycoweave Shield]], [[Mycoweave Shield]], [[Setup Snare]], [[Skysunder]], [[Sparkwarden]], [[Spore Shepherd's Staff]], [[Spore Shepherd's Staff]], [[Spore Shepherd's Staff]], [[Steadyfoot Tassel]], [[Uniter of Clans]]
+[[DATABASE/equipment/Adamantine Echo|Adamantine Echo]], [[DATABASE/equipment/Mycoweave Shield|Mycoweave Shield]], [[DATABASE/equipment/Mycoweave Shield|Mycoweave Shield (Greater)]], [[DATABASE/equipment/Mycoweave Shield|Mycoweave Shield (Lesser)]], [[DATABASE/equipment/Mycoweave Shield|Mycoweave Shield (Major)]], [[DATABASE/equipment/Setup Snare|Setup Snare]], [[DATABASE/equipment/Skysunder|Skysunder]], [[DATABASE/equipment/Sparkwarden|Sparkwarden]], [[DATABASE/equipment/Spore Shepherd's Staff|Spore Shepherd's Staff]], [[DATABASE/equipment/Spore Shepherd's Staff|Spore Shepherd's Staff (Greater)]], [[DATABASE/equipment/Spore Shepherd's Staff|Spore Shepherd's Staff (Major)]], [[DATABASE/equipment/Steadyfoot Tassel|Steadyfoot Tassel]], [[DATABASE/equipment/Uniter of Clans|Uniter of Clans]]
 
 ## Hazards [5]
 
-[[Avernal Flashback]], [[Dart Launcher]], [[Offended Epitaphs]], [[Ornery Augdunars]], [[Spitter Pods]]
+[[DATABASE/hazard/Avernal Flashback|Avernal Flashback]], [[DATABASE/hazard/Dart Launcher|Dart Launcher]], [[DATABASE/hazard/Offended Epitaphs|Offended Epitaphs]], [[DATABASE/hazard/Ornery Augdunars|Ornery Augdunars]], [[DATABASE/hazard/Spitter Pods|Spitter Pods]]
 
 ## Monsters [5]
 
-[[Hyphae Tyrant]], [[Soulbound Mauler]], [[Sporeborn Myceloid]], [[Unfeeling Empath]], [[Xulgath Ravening]]
+[[DATABASE/monster/Hyphae Tyrant|Hyphae Tyrant]], [[DATABASE/monster/Soulbound Mauler|Soulbound Mauler]], [[DATABASE/monster/Sporeborn Myceloid|Sporeborn Myceloid]], [[DATABASE/monster/Unfeeling Empath|Unfeeling Empath]], [[DATABASE/monster/Xulgath Ravening|Xulgath Ravening]]
 
 ## NPCs [1]
 
-[[Krohan Veldollow]]
+[[DATABASE/npc/Krohan Veldollow|Krohan Veldollow]]
 
 ## Relic Gifts [1]
 
-[[Ancestors' Call]]
+[[DATABASE/relic/Ancestors' Call|Ancestors' Call]]
 
 ## Rituals [1]
 
-[[Rite of Repatriation]]
+[[DATABASE/ritual/Rite of Repatriation|Rite of Repatriation]]
 
 ## Setting Articles [1]
 

@@ -81,27 +81,27 @@ wisdom: '+3'
 # Spellscar Sky Marauder
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 22
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 22
 **Unspecific Lore**: DC 20
 **Specific Lore**: DC 17
 
 # Spellscar Sky Marauder<span class="item-type">Creature 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Humanoid</span><span class="item-trait">Mutant</span>
-**Source** [[Pathfinder 179. Cradle of Quartz]]
-[[Mana Wastes Mutant]] [[Maftet]] bandits
-**Perception** +12; [[Darkvision]]
-**Languages** [[Common]], [[Sphinx]]
-**Skills** [[Acrobatics]] +13, [[Arcana]] +11, [[Athletics]] +13, [[Intimidation]] +10, [[Lore]] +13, [[Stealth]] +13
+**Source** [[DATABASE/source/Pathfinder 179. Cradle of Quartz|Pathfinder #179: Cradle of Quartz]]
+[[DATABASE/monsterfamily/Mana Wastes Mutant|Mana Wastes mutant]] [[DATABASE/monsterfamily/Maftet|maftet]] bandits
+**Perception** +12; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Sphinx|Sphinx]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +13, [[DATABASE/skill/Arcana|Arcana]] +11, [[DATABASE/skill/Athletics|Athletics]] +13, [[DATABASE/skill/Intimidation|Intimidation]] +10, [[DATABASE/skill/Lore|Spellscar Desert Lore]] +13, [[DATABASE/skill/Stealth|Stealth]] +13
 **Str** +4, **Dex** +4, **Con** +5, **Int** +0, **Wis** +3, **Cha** -1
-**Items** [[Scimitar]]
+**Items** [[DATABASE/weapon/Scimitar|scimitar (2)]]
 
 ---
 **AC** 22; **Fort** +12, **Ref** +13, **Will** +10
 **HP** 85; **Immunities** disease; **Resistances** acid 5
-<span class="in-box-ability">**Acidic Pustules** The marauder's skin is covered with necrotic boils that burst when struck. Whenever a creature deals slashing or piercing damage to the marauder, each creature within 5 feet takes 2d6 acid damage (DC 22 basic Reflex save). On a critically failed save, a creature also takes 1d4 [[Persistent Damage]].</span><span class="in-box-ability">**Runic Resistance <span class="action-icon">5</span> ** (arcane, abjuration) **Trigger** The maftet takes damage from a Strike or spell effect; **Effect** The maftet's protective runic tattoos glow, granting them resistance 5 to one damage type dealt by the triggering attack. This resistance applies against the triggering effect and lasts for 1 minute or until the maftet uses this ability again, whichever comes first. If the triggering effect deals multiple damage types, the maftet chooses which type to resist.</span>
+<span class="in-box-ability">**Acidic Pustules** The marauder's skin is covered with necrotic boils that burst when struck. Whenever a creature deals slashing or piercing damage to the marauder, each creature within 5 feet takes 2d6 acid damage (DC 22 basic Reflex save). On a critically failed save, a creature also takes 1d4 [[DATABASE/condition/Persistent Damage|persistent acid damage]].</span><span class="in-box-ability">**Runic Resistance <span class="action-icon">5</span> ** (arcane, abjuration) **Trigger** The maftet takes damage from a Strike or spell effect; **Effect** The maftet's protective runic tattoos glow, granting them resistance 5 to one damage type dealt by the triggering attack. This resistance applies against the triggering effect and lasts for 1 minute or until the maftet uses this ability again, whichever comes first. If the triggering effect deals multiple damage types, the maftet chooses which type to resist.</span>
 
 ---
 **Speed** 30 feet, fly 40 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _scimitar_ +15 [+10/+5] (forceful, magical, sweep), **Damage** 2d6+6 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> talon +15 [+11/+7] (agile, finesse), **Damage** 2d4+6 plus mana fever</span>**Arcane Innate Spells** DC 22; **1st** _[[Sanctuary]]_ (×3), _[[True Strike]]_; **Cantrips** **(3rd)** _[[Sigil]]_
-<span class="in-box-ability">**Mana Fever** (disease) A creature can't remove the [[Fatigued]] condition while infected; **Saving Throw** DC 22 Fortitude; **Onset** 1 day; **Stage 1** fatigued and [[Stupefied]] (1 day); **Stage 2** fatigued and stupefied 2 (1 day); **Stage 3** fatigued and stupefied 3 (1 day); **Stage 4** gain immunity to mana fever and become a [[Mana Wastes Mutant]]</span><span class="in-box-ability">**Paired Strike** <span class="action-icon">2</span> **Requirements** The maftet is wielding two [[Scimitar]]; **Effect** The maftet makes two Strikes against the same target, one with each of their scimitars. The maftet combines the damage of any attacks that hit and applies resistances and weaknesses only once. This counts as one attack when calculating the maftet's multiple attack penalty.</span><span class="in-box-ability">**Powerful Scimitars** (arcane, evocation) Any non-magical scimitar becomes a _+1 [[Striking]] scimitar_ while a maftet wields it.</span><span class="in-box-ability">**Raptor Dive** <span class="action-icon">3</span> **Requirements** The maftet is flying at least 10 feet above the target; **Effect** The maftet Flies up to twice their fly Speed and makes a Paired Strike at the end of the movement. If both Strikes hit, the target is also knocked [[Prone]].</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _scimitar_ +15 [+10/+5] (forceful, magical, sweep), **Damage** 2d6+6 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> talon +15 [+11/+7] (agile, finesse), **Damage** 2d4+6 plus mana fever</span>**Arcane Innate Spells** DC 22; **1st** _[[DATABASE/spell/Sanctuary|sanctuary]]_ (×3), _[[DATABASE/spell/True Strike|true strike]]_; **Cantrips** **(3rd)** _[[DATABASE/spell/Sigil|sigil]]_
+<span class="in-box-ability">**Mana Fever** (disease) A creature can't remove the [[DATABASE/condition/Fatigued|fatigued]] condition while infected; **Saving Throw** DC 22 Fortitude; **Onset** 1 day; **Stage 1** fatigued and [[DATABASE/condition/Stupefied|stupefied 1]] (1 day); **Stage 2** fatigued and stupefied 2 (1 day); **Stage 3** fatigued and stupefied 3 (1 day); **Stage 4** gain immunity to mana fever and become a [[DATABASE/monsterfamily/Mana Wastes Mutant|Mana Wastes mutant]]</span><span class="in-box-ability">**Paired Strike** <span class="action-icon">2</span> **Requirements** The maftet is wielding two [[DATABASE/weapon/Scimitar|scimitars]]; **Effect** The maftet makes two Strikes against the same target, one with each of their scimitars. The maftet combines the damage of any attacks that hit and applies resistances and weaknesses only once. This counts as one attack when calculating the maftet's multiple attack penalty.</span><span class="in-box-ability">**Powerful Scimitars** (arcane, evocation) Any non-magical scimitar becomes a _+1 [[DATABASE/equipment/Striking|striking]] scimitar_ while a maftet wields it.</span><span class="in-box-ability">**Raptor Dive** <span class="action-icon">3</span> **Requirements** The maftet is flying at least 10 feet above the target; **Effect** The maftet Flies up to twice their fly Speed and makes a Paired Strike at the end of the movement. If both Strikes hit, the target is also knocked [[DATABASE/condition/Prone|prone]].</span>

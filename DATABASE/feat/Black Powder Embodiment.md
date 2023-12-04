@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Spellshot Dedication|Spellshot Dedication]] ; Mas
   in [[DATABASE/skill/Arcana|Arcana]]'
 rarity: Common
 requirement: You're wielding a loaded magical firearm or crossbow.
+rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -26,9 +27,9 @@ type: Feat
 # Black Powder Embodiment <span class="action-icon">2</span> <span class="item-type">Feat 18</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Conjuration</span><span class="item-trait">Teleportation</span>
-**Source** [[Guns & Gears]]
-**Archetype** [[Spellshot]]
-**Prerequisites** [[Spellshot Dedication]]; master in [[Arcana]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Archetype** [[DATABASE/archetype/Spellshot|Spellshot]]
+**Prerequisites** [[DATABASE/feat/Spellshot Dedication|Spellshot Dedication]]; master in [[DATABASE/skill/Arcana|Arcana]]
 **Requirements** You're wielding a loaded magical firearm or crossbow.
 
 ---

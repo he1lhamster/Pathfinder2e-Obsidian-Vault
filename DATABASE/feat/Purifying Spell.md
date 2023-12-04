@@ -11,6 +11,7 @@ name: Purifying Spell
 prerequisite: '[[DATABASE/druidicorder/Wave|wave order]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -26,11 +27,11 @@ type: Feat
 # Purifying Spell <span class="action-icon">1</span> <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Druid</span><span class="item-trait">Metamagic</span><span class="item-trait">Water</span>
-**Source** [[Secrets of Magic]] 
-**Prerequisites** [[Wave]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
+**Prerequisites** [[DATABASE/druidicorder/Wave|wave order]]
 
 ---
-You purify the water within a creature's body to cleanse them of illness. If the next action you use is to cast [[Heal]] targeting a single living creature, you can attempt to counteract a disease or poison affecting the target, in addition to the other benefits of _heal_. If you do, _heal_ gains the water trait.
+You purify the water within a creature's body to cleanse them of illness. If the next action you use is to cast [[DATABASE/spell/Heal|heal]] targeting a single living creature, you can attempt to counteract a disease or poison affecting the target, in addition to the other benefits of _heal_. If you do, _heal_ gains the water trait.
 
 ## Traits
 

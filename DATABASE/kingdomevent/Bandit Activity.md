@@ -3,6 +3,7 @@ id: '3'
 level: '1'
 name: Bandit Activity
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Defense|Defense]]'
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
@@ -15,9 +16,9 @@ type: Kingdom Event
 # Bandit Activity<span class="item-type">Event +1</span>
 
 <span class="item-trait">Continuous</span><span class="item-trait">Dangerous</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 Bandits have begun to prey upon your kingdom!
-**Kingdom Skill** [[Defense]]; **Leader** Warden
+**Kingdom Skill** [[DATABASE/skill/Defense|Defense]]; **Leader** Warden
 **Critical Success** The bandits are captured, run off, or defeated, and merchants can confidently ply their wares. Reduce Unrest by 1d4, and during the next Kingdom turn, you gain a +1 circumstance bonus to Economy-based checks.
 **Success** The bandits are prevented from preying upon your people, but they continue to be active. Your Resource Dice are reduced by 1 at the start of your next Kingdom turn.
 **Failure** The bandits plunder caravans and remote storehouses, and merchants grow cautious and afraid. Gain 1 Unrest, and at the start of your next Kingdom turn, your Resource Dice are reduced by 4.

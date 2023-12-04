@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 size: null
@@ -57,7 +58,7 @@ weapon_type: null
 # Venomous Cure Fulu<span class="item-type">Item 3</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Fulu</span><span class="item-trait">Magical</span><span class="item-trait">Necromancy</span><span class="item-trait">Talisman</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Price** 10 gp
 **Usage** affixed to armor; **Bulk** —
 **Activate** <span class="action-icon">4</span> envision **Trigger** You attempt a saving throw against an injected poison.

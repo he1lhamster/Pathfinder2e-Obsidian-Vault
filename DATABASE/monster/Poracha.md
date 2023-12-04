@@ -100,20 +100,20 @@ wisdom: '+2'
 ---
 # Poracha
 
-Porachas are feline beasts native to the mystical Forest of Spirits in Tian Xia. In their natural form, these graceful eight-legged creatures sport a gray tabby coat of fur streaked with lines of olive green, but they are rarely seen this way. Even the youngest porachas are capable of hiding within objects, making them incredibly elusive and rarely seen except on their own terms. Because porachas can so effortlessly blend in with the forest and emerge from its dark corners in an instant, superstitious locals believe these beasts are related to [[Kami]]—nature spirits who embody individual trees, stones, or other elements of nature in the Forest of Spirits. The truth is that while porachas frequently associate with kami, they are their own breed of mysterious monster with powers over time and space that set them apart from nature spirits.
+Porachas are feline beasts native to the mystical Forest of Spirits in Tian Xia. In their natural form, these graceful eight-legged creatures sport a gray tabby coat of fur streaked with lines of olive green, but they are rarely seen this way. Even the youngest porachas are capable of hiding within objects, making them incredibly elusive and rarely seen except on their own terms. Because porachas can so effortlessly blend in with the forest and emerge from its dark corners in an instant, superstitious locals believe these beasts are related to [[DATABASE/monsterfamily/Kami|kami]]—nature spirits who embody individual trees, stones, or other elements of nature in the Forest of Spirits. The truth is that while porachas frequently associate with kami, they are their own breed of mysterious monster with powers over time and space that set them apart from nature spirits.
  The poracha's most iconic feature is its ability to bend reality to teleport, or jaunt, short distances. But a poracha can also rest within objects, allowing it to safely sleep inside. Given that a poracha experiences time very slowly while hiding within objects, it can sleep inside of one for an extended period. Once it wakes, a poracha departs to play in the living world. Porachas especially enjoy resting inside roadside milestones, to maximize their chances of coming across travelers.
  Porachas rarely tread humanoid-occupied lands, preferring the company of the kami and their natural habitat in the Forest of Spirits. Though they enjoy occasional conversation, they're extremely sensitive to sound; they speak softly and request the same from those they speak with. Their territories span vast swaths of the wood, making them ideal allies for hunters or treasure seekers who would otherwise become lost in the dense trees. But porachas are nothing if not flckle, and typically demand inscrutable favors in return for their aid, such as the planting of a rare sapling in a particular grotto or the clearing of an invasive monster species around a treasured spring. Any attempt to coerce or trick a poracha into service is ill advised, for these sacred beasts have many friends among the kami as well as others of their kind. Though they generally don't travel in groups, porachas know where to find more of their kind in times of need, and an organized pack of porachas is a disorienting threat.
-**Recall Knowledge - Beast ([[Arcana]], [[Nature]])**: DC 21
+**Recall Knowledge - Beast ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 21
 **Unspecific Lore**: DC 19
 **Specific Lore**: DC 16
 
 # Poracha<span class="item-type">Creature 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Beast</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +10; tremorsense (imprecise) 10 feet, darkvision
-**Languages** [[Common]], [[Sylvan]]
-**Skills** [[Acrobatics]] +13, [[Athletics]] +9, [[Deception]] +11, [[Diplomacy]] +11, [[Stealth]] +13, [[Survival]] +10
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Sylvan|Sylvan]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +13, [[DATABASE/skill/Athletics|Athletics]] +9, [[DATABASE/skill/Deception|Deception]] +11, [[DATABASE/skill/Diplomacy|Diplomacy]] +11, [[DATABASE/skill/Stealth|Stealth]] +13, [[DATABASE/skill/Survival|Survival]] +10
 **Str** +3, **Dex** +5, **Con** +3, **Int** +0, **Wis** +2, **Cha** +3
 
 ---
@@ -126,4 +126,4 @@ Porachas are feline beasts native to the mystical Forest of Spirits in Tian Xia.
 
 ###  What is a Kami?
 
-The spirit creatures known collectively as [[Kami]] were originally protectors of the natural world, especially those things unable to protect themselves. Over time, though, their remit has grown, and now kami protectors extend their services to include artificial structures and items. In theory, any animal, plant, object, or location could be served by its own kami, but not everything has yet been blessed with such protection. The classification of which objects warrant kami protection—and those that don't—is confusing and complicated to all save the kami, who find the organizational system perfectly logical.
+The spirit creatures known collectively as [[DATABASE/monsterfamily/Kami|kami]] were originally protectors of the natural world, especially those things unable to protect themselves. Over time, though, their remit has grown, and now kami protectors extend their services to include artificial structures and items. In theory, any animal, plant, object, or location could be served by its own kami, but not everything has yet been blessed with such protection. The classification of which objects warrant kami protection—and those that don't—is confusing and complicated to all save the kami, who find the organizational system perfectly logical.

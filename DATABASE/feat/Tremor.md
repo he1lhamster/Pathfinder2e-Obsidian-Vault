@@ -11,6 +11,7 @@ name: Tremor
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -27,10 +28,10 @@ type: Feat
 # Tremor <span class="action-icon">2</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Earth</span><span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Overflow</span><span class="item-trait">Primal</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
-You unleash a small, localized tremor in a 10-foot burst within 30 feet. Each creature in the area takes 1d8 bludgeoning damage with a basic Fortitude save against your class DC. A creature that critically fails is knocked [[Prone]]. Earth and stone in the area is difficult terrain until the start of your next turn.
+You unleash a small, localized tremor in a 10-foot burst within 30 feet. Each creature in the area takes 1d8 bludgeoning damage with a basic Fortitude save against your class DC. A creature that critically fails is knocked [[DATABASE/condition/Prone|prone]]. Earth and stone in the area is difficult terrain until the start of your next turn.
 
 ---
 **Level (+2)** The damage increases by 1d10.
@@ -47,7 +48,7 @@ The primary magical actions kineticists use are called impulses. You can use an 
 
 **Overflow:**
 
-Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
+Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[DATABASE/action/Channel Elements|Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
 
 **Primal:**
 

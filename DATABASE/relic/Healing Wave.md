@@ -5,6 +5,7 @@ item_category: Relics
 name: Healing Wave
 prerequisite: null
 rarity: Common
+rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
@@ -17,7 +18,7 @@ type: Relic Minor Gift
 # Healing Wave<span class="item-type">Minor Gift</span>
 
 <span class="item-trait">Healing</span><span class="item-trait">Necromancy</span><span class="item-trait">Positive</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Aspect** life
 
 ---

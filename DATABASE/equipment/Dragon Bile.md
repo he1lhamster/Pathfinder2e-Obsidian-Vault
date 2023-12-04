@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: DC 37 Fortitude
 school: null
 size: null
@@ -56,11 +57,11 @@ weapon_type: null
 # Dragon Bile<span class="item-type">Item 15</span>
 
 <span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Contact</span><span class="item-trait">Poison</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 925 gp
 **Usage** held in 2 hands; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
 ---
-A mix of digestive juices and [[Dragon, Green]] poison glands nauseates the victim as its flesh is digested from within.
-**Saving Throw** DC 37 Fortitude; **Onset** 1 minute; **Maximum Duration** 6 rounds; **Stage 1** 6d6 poison damage and [[Sickened]] (1 round); **Stage 2** 7d6 poison damage and sickened 3 (1 round); **Stage 3** 9d6 poison damage and sickened 4 (1 round)
+A mix of digestive juices and [[DATABASE/monsterfamily/Dragon, Green|green dragon]] poison glands nauseates the victim as its flesh is digested from within.
+**Saving Throw** DC 37 Fortitude; **Onset** 1 minute; **Maximum Duration** 6 rounds; **Stage 1** 6d6 poison damage and [[DATABASE/condition/Sickened|sickened 2]] (1 round); **Stage 2** 7d6 poison damage and sickened 3 (1 round); **Stage 3** 9d6 poison damage and sickened 4 (1 round)

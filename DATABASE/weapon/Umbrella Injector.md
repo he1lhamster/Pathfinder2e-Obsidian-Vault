@@ -12,6 +12,7 @@ name: Umbrella Injector
 price: 4 gp
 range: null
 rarity: Uncommon
+rus_type_level: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
 - '[[DATABASE/trait/Concealable|Concealable]]'
@@ -28,10 +29,10 @@ weapon_type: Melee
 # Umbrella Injector
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Concealable</span><span class="item-trait">Finesse</span><span class="item-trait">Injection</span><span class="item-trait">Parry</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 4 gp; **Damage** 1d4 P; **Bulk** 1
 **Hands** 1
-**Type** Melee; **Category** Martial; **Group** [[Sword]]
+**Type** Melee; **Category** Martial; **Group** [[DATABASE/weapongroup/Sword|Sword]]
 
 ---
 This umbrella's ferrule is a hollow-tipped blade three to four inches in length and often overlooked as decorative. A receptacle inside the umbrella's shaft can be loaded with a single dose of injury poison and injected into a damaged target with the pull of a sliding trigger. Reinforced ribs enable you to parry and deflect blows with the umbrella's tear-resistant canopy.
@@ -40,7 +41,7 @@ This umbrella's ferrule is a hollow-tipped blade three to four inches in length 
 
 **Concealable:**
 
-This weapon is designed to be inconspicuous or easily concealed. You gain a +2 circumstance bonus to [[Stealth]] checks and DCs to hide or conceal a weapon with this trait.
+This weapon is designed to be inconspicuous or easily concealed. You gain a +2 circumstance bonus to [[DATABASE/skill/Stealth|Stealth]] checks and DCs to hide or conceal a weapon with this trait.
 
 **Finesse:**
 
@@ -56,10 +57,10 @@ This weapon can be used defensively to block attacks. While wielding this weapon
 
 **Uncommon:**
 
-Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[Recall Knowledge]] checks related to these creature is increased by 2.
+Something of uncommon rarity requires special training or comes from a particular culture or part of the world. Some character choices give access to uncommon options, and the GM can choose to allow access for anyone. Less is known about uncommon creatures than common creatures. They typically can't be summoned. The DC of [[DATABASE/action/Recall Knowledge|Recall Knowledge]] checks related to these creature is increased by 2.
 
 ## Critical Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
-**Sword**: The target is made off-balance by your attack, becoming [[Flat-Footed]] until the start of your next turn.
+**Sword**: The target is made off-balance by your attack, becoming [[DATABASE/condition/Flat-Footed|flat-footed]] until the start of your next turn.

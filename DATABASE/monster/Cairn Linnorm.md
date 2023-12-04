@@ -92,25 +92,25 @@ wisdom: '+6'
 
 Cairn linnorms are disturbing, even by linnorm standards. They make their homes in necropolises, burial grounds, and the sites of immense and gory battles. Some point out that cairn linnorms feast on shambling undead and thus provide a service to the living, but these beasts are not choosy and will happily consume any creature, whether or not it draws breath.
  Some tales state that cairn linnorms will not—or cannot—enter a tomb without the permission of a descendant of the deceased (or the permission of the deceased itself, in the instance that it has risen from the dead). Likewise, once a cairn linnorm has entered a tomb, it won't leave until it has secured permission to do so. Whether such legends are true or not is anyone's guess; nevertheless, reports of a cairn linnorm in the vicinity are harrowing enough to dissuade even the most foolhardy grave robber from peeking into too many crypts or mausoleums.
-**Recall Knowledge - Dragon ([[Arcana]])**: DC 40
+**Recall Knowledge - Dragon ([[DATABASE/skill/Arcana|Arcana]])**: DC 40
 **Unspecific Lore**: DC 38
 **Specific Lore**: DC 35
 
 # Cairn Linnorm<span class="item-type">Creature 18</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Gargantuan</span><span class="item-trait">Dragon</span>
-**Source** [[Bestiary 2]] 
-**Perception** +30; [[Darkvision]], [[Scent]], [[True Seeing]]
-**Languages** [[Aklo]], [[Draconic]], [[Sylvan]]
-**Skills** [[Acrobatics]] +32, [[Athletics]] +35
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +30; [[DATABASE/monsterability/Darkvision|darkvision]], [[DATABASE/monsterability/Scent|scent (imprecise) 60 feet]], [[DATABASE/spell/True Seeing|true seeing]]
+**Languages** [[DATABASE/language/Aklo|Aklo]], [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Sylvan|Sylvan]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +32, [[DATABASE/skill/Athletics|Athletics]] +35
 **Str** +9, **Dex** +6, **Con** +8, **Int** -2, **Wis** +6, **Cha** +7
 
 ---
 **AC** 43; **Fort** +34, **Ref** +30, **Will** +26; +1 status to all saves vs. magic
-**HP** 360, regeneration 15 (deactivated by cold iron); **Immunities** acid, curse, [[Paralyzed]], sleep; **Weaknesses** cold iron 15
-<span class="in-box-ability">**Curse of the Crooked Cane** (curse, primal) When a creature slays a cairn linnorm, it must succeed at a DC 44 Will save or become permanently [[Enfeebled]]. In addition, the victim ages at an accelerated rate, aging 1 year every day, eventually causing it to die of old age if the curse is left untended.</span><span class="in-box-ability">**[[Attack of Opportunity]] <span class="action-icon">5</span> ** Tail only.</span>
+**HP** 360, regeneration 15 (deactivated by cold iron); **Immunities** acid, curse, [[DATABASE/condition/Paralyzed|paralyzed]], sleep; **Weaknesses** cold iron 15
+<span class="in-box-ability">**Curse of the Crooked Cane** (curse, primal) When a creature slays a cairn linnorm, it must succeed at a DC 44 Will save or become permanently [[DATABASE/condition/Enfeebled|enfeebled 2]]. In addition, the victim ages at an accelerated rate, aging 1 year every day, eventually causing it to die of old age if the curse is left untended.</span><span class="in-box-ability">**[[DATABASE/monsterability/Attack of Opportunity|Attack of Opportunity]] <span class="action-icon">5</span> ** Tail only.</span>
 
 ---
-**Speed** 35 feet, climb 40 feet, fly 100 feet, swim 40 feet; [[Freedom of Movement]]
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +35 [+30/+25] (magical, reach 25 feet), **Damage** 3d12+17 piercing plus cairn linnorm venom</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +35 [+31/+27] (agile, magical, reach 25 feet), **Damage** 3d8+17 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> tail +35 [+31/+27] (agile, magical, reach 25 feet), **Damage** 3d10+17 bludgeoning plus [[Improved Grab]]</span>**Primal Innate Spells** DC 40; **Constant** **(8th)** _[[Freedom of Movement]]_; **(7th)** _[[True Seeing]]_
-<span class="in-box-ability">**Breath Weapon** <span class="action-icon">2</span> (acid, evocation, primal) The cairn linnorm expels a 60-foot cone of negative energy–infused acid, dealing 19d6 acid damage to creatures in the area (DC 40 basic Reflex save). The acid also saps the life out of affected creatures. At the beginning of the linnorm's next turn, each creature that failed the Reflex save must succeed at a DC 40 Fortitude save or become [[Drained]] (drained 2 on a critical failure). The cairn linnorm can't use Breath Weapon again for 1d4 rounds.</span><span class="in-box-ability">**Cairn Linnorm Venom** (acid, poison) **Saving Throw** DC 41 Fortitude; **Maximum Duration** 10 rounds; **Stage 1** 6d6 acid damage and [[Drained]] (1 round); **Stage 2** 8d6 acid damage and drained 2 (1 round)</span>
+**Speed** 35 feet, climb 40 feet, fly 100 feet, swim 40 feet; [[DATABASE/spell/Freedom of Movement|freedom of movement]]
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +35 [+30/+25] (magical, reach 25 feet), **Damage** 3d12+17 piercing plus cairn linnorm venom</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +35 [+31/+27] (agile, magical, reach 25 feet), **Damage** 3d8+17 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> tail +35 [+31/+27] (agile, magical, reach 25 feet), **Damage** 3d10+17 bludgeoning plus [[DATABASE/monsterability/Improved Grab|Improved Grab]]</span>**Primal Innate Spells** DC 40; **Constant** **(8th)** _[[DATABASE/spell/Freedom of Movement|freedom of movement]]_; **(7th)** _[[DATABASE/spell/True Seeing|true seeing]]_
+<span class="in-box-ability">**Breath Weapon** <span class="action-icon">2</span> (acid, evocation, primal) The cairn linnorm expels a 60-foot cone of negative energy–infused acid, dealing 19d6 acid damage to creatures in the area (DC 40 basic Reflex save). The acid also saps the life out of affected creatures. At the beginning of the linnorm's next turn, each creature that failed the Reflex save must succeed at a DC 40 Fortitude save or become [[DATABASE/condition/Drained|drained 1]] (drained 2 on a critical failure). The cairn linnorm can't use Breath Weapon again for 1d4 rounds.</span><span class="in-box-ability">**Cairn Linnorm Venom** (acid, poison) **Saving Throw** DC 41 Fortitude; **Maximum Duration** 10 rounds; **Stage 1** 6d6 acid damage and [[DATABASE/condition/Drained|drained 1]] (1 round); **Stage 2** 8d6 acid damage and drained 2 (1 round)</span>

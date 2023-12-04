@@ -12,6 +12,7 @@ prerequisite: Trained in [[DATABASE/skill/Survival|Survival]] ; [[DATABASE/feat/
   Dedication|Sentinel Dedication]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,9 +26,9 @@ type: Feat
 # Steel Skin <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Skill</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetypes** [[Sentinel]], [[Stalwart Defender]]*
-**Prerequisites** trained in [[Survival]]; [[Sentinel Dedication]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetypes** [[DATABASE/archetype/Sentinel|Sentinel]], [[DATABASE/archetype/Stalwart Defender|Stalwart Defender]]*
+**Prerequisites** trained in [[DATABASE/skill/Survival|Survival]]; [[DATABASE/feat/Sentinel Dedication|Sentinel Dedication]]
 * This archetype offers Steel Skin at a different level than displayed here.
 
 ---

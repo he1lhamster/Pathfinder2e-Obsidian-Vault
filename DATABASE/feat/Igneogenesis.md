@@ -11,6 +11,7 @@ name: Igneogenesis
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -27,11 +28,11 @@ type: Feat
 # Igneogenesis <span class="action-icon">2</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Earth</span><span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Manipulate</span><span class="item-trait">Primal</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
-You can create a permanent stone object, either sculpting stone pulled directly from your kinetic gate or manipulating earth and stone around you. It must fit within one 5-foot cube that's adjacent to you and on solid ground, and you can make the object large enough to occupy the square. If you create the object underneath you or another willing creature, you cause the target to rise on top of the object; you can't create it under an unwilling creature. This impulse has an unlimited duration, but if you use Igneogenesis again, the object returns to its original location or form. You can spend 1 hour to use Igneogenesis as an [[Exploration]] activity; in this case, the object is permanent and non-magical.
- The object can't include any intricate parts or moving pieces. You can attempt a [[Crafting]] skill check as part of using this impulse to add details to your creation, such as a symbol, short message, or pattern (with the DC determined by the GM).
+You can create a permanent stone object, either sculpting stone pulled directly from your kinetic gate or manipulating earth and stone around you. It must fit within one 5-foot cube that's adjacent to you and on solid ground, and you can make the object large enough to occupy the square. If you create the object underneath you or another willing creature, you cause the target to rise on top of the object; you can't create it under an unwilling creature. This impulse has an unlimited duration, but if you use Igneogenesis again, the object returns to its original location or form. You can spend 1 hour to use Igneogenesis as an [[DATABASE/skill/Exploration|exploration]] activity; in this case, the object is permanent and non-magical.
+ The object can't include any intricate parts or moving pieces. You can attempt a [[DATABASE/skill/Crafting|Crafting]] skill check as part of using this impulse to add details to your creation, such as a symbol, short message, or pattern (with the DC determined by the GM).
 
 ---
 **Level (+3)** You can add an additional 5-foot cube to the object. Each cube must be contiguous.

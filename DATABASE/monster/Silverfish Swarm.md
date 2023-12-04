@@ -73,22 +73,22 @@ wisdom: '+1'
 # Silverfish Swarm
 
 It's uncommon for silverfish to congregate in sufficient numbers to constitute a swarm, but forgotten libraries or similar out-of-the-way places might harbor a multitude of the voracious pests.
-**Recall Knowledge - Animal ([[Nature]])**: DC 15
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Silverfish Swarm<span class="item-type">Creature -1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Animal</span><span class="item-trait">Swarm</span>
-**Source** [[Pathfinder 169. Kindled Magic]]
-**Perception** +5; [[Darkvision]]
-**Skills** [[Acrobatics]] +6, [[Stealth]] +4
+**Source** [[DATABASE/source/Pathfinder 169. Kindled Magic|Pathfinder #169: Kindled Magic]]
+**Perception** +5; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +6, [[DATABASE/skill/Stealth|Stealth]] +4
 **Str** -2, **Dex** +3, **Con** +0, **Int** -5, **Wis** +1, **Cha** -2
 
 ---
 **AC** 13; **Fort** +5, **Ref** +8, **Will** +4
-**HP** 9; **Immunities** precision, [[Swarm Mind]]; **Resistances** physical 2; **Weaknesses** area damage 2, splash damage 2
+**HP** 9; **Immunities** precision, [[DATABASE/monsterability/Swarm Mind|swarm mind]]; **Resistances** physical 2; **Weaknesses** area damage 2, splash damage 2
 
 ---
 **Speed** 40 feet, climb 20 feet
-<span class="in-box-ability">**Swarming Bites** <span class="action-icon">1</span> Each enemy in the silverfish swarm's space takes 1d4 piercing damage (DC 14 basic Fortitude save). A creature that fails its save is [[Sickened]].</span><span class="in-box-ability">**Voracious Consumption** (1 minute) A silverfish swarm consumes up to 1 Bulk of paper, cloth, or similar material. It can consume up to 4 Bulk each day.</span>
+<span class="in-box-ability">**Swarming Bites** <span class="action-icon">1</span> Each enemy in the silverfish swarm's space takes 1d4 piercing damage (DC 14 basic Fortitude save). A creature that fails its save is [[DATABASE/condition/Sickened|sickened 1]].</span><span class="in-box-ability">**Voracious Consumption** (1 minute) A silverfish swarm consumes up to 1 Bulk of paper, cloth, or similar material. It can consume up to 4 Bulk each day.</span>

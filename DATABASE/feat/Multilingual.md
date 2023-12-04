@@ -11,6 +11,7 @@ name: Multilingual
 prerequisite: Trained in [[DATABASE/skill/Society|Society]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: society
@@ -24,8 +25,8 @@ type: Feat
 # Multilingual <span class="item-type">Feat 1</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** trained in [[Society]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** trained in [[DATABASE/skill/Society|Society]]
 
 ---
 You easily pick up new languages. You learn two new languages, chosen from common languages, uncommon languages, and any others you have access to. You learn an additional language if you are or become a master in Society and again if you are or become legendary.
@@ -33,7 +34,7 @@ You easily pick up new languages. You learn two new languages, chosen from commo
 
 ## Multilingual Leads To...
 
-[[Legendary Linguist]]
+[[DATABASE/feat/Legendary Linguist|Legendary Linguist]]
 
 ## Traits
 

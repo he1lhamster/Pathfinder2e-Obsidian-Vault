@@ -11,6 +11,7 @@ name: Inspire Heroics
 prerequisite: '[[DATABASE/bardmuse/Maestro|maestro muse]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Inspire Heroics <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Bard</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Maestro]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/bardmuse/Maestro|maestro muse]]
 
 ---
-Your performances inspire even greater deeds in your allies. You learn the [[Inspire Heroics]] metamagic focus spell. Increase the number of Focus Points in your focus pool by 1.
+Your performances inspire even greater deeds in your allies. You learn the [[DATABASE/spell/Inspire Heroics|inspire heroics]] metamagic focus spell. Increase the number of Focus Points in your focus pool by 1.

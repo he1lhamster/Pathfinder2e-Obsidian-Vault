@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Collar of Empathy<span class="item-type">Item 9</span>
 
 <span class="item-trait">Companion</span><span class="item-trait">Divination</span><span class="item-trait">Invested</span><span class="item-trait">Primal</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 600 gp
 **Usage** worn collar (companion) and worn bracelet (you); **Bulk** 1
 

@@ -89,20 +89,20 @@ wisdom: '+5'
 # Jesseri The Hailstorm
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 37
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 37
 **Unspecific Lore**: DC 35
 **Specific Lore**: DC 32
 
 # Jesseri The Hailstorm<span class="item-type">Creature 10</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 177. Burning Tundra]]
-Female [[Human]] Hillcross Witch
+**Source** [[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burning Tundra]]
+Female [[DATABASE/ancestry/Human|human]] Hillcross Witch
 **Perception** +23
-**Languages** [[Common]], [[Hallit]]
-**Skills** [[Lore]] +16, [[Medicine]] +23, [[Nature]] +23, [[Performance]] +20, [[Religion]] +21, [[Society]] +18, [[Survival]] +21
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Hallit|Hallit]]
+**Skills** [[DATABASE/skill/Lore|Mammoth Lord Lore]] +16, [[DATABASE/skill/Medicine|Medicine]] +23, [[DATABASE/skill/Nature|Nature]] +23, [[DATABASE/skill/Performance|Performance]] +20, [[DATABASE/skill/Religion|Religion]] +21, [[DATABASE/skill/Society|Society]] +18, [[DATABASE/skill/Survival|Survival]] +21
 **Str** +0, **Dex** +4, **Con** +5, **Int** +2, **Wis** +5, **Cha** +2
-**Items** _+1 [[Hide Armor]]_, _+1 [[Staff of Divination]]_, _[[Healing Potion]]_
+**Items** _+1 [[DATABASE/armor/Hide Armor|hide]]_, _+1 [[DATABASE/equipment/Staff of Divination|staff of divination]]_, _[[DATABASE/equipment/Healing Potion|moderate healing potion]]_
 
 ---
 **AC** 29; **Fort** +21, **Ref** +20, **Will** +21
@@ -110,6 +110,6 @@ Female [[Human]] Hillcross Witch
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _staff_ +19 [+14/+9] (two-hand d8), **Damage** 1d4+6 bludgeoning</span>**Primal Spontaneous Spells** DC 29, attack +21; **5th** _[[Cone of Cold]]_, _[[Wall of Ice]]_ (3 slots); **4th** _[[Hydraulic Torrent]]_, _[[Ice Storm]]_ (3 slots); **3rd** _[[Lightning Bolt]]_, _[[Wall of Wind]]_ (3 slots); **2nd** _[[Create Food]]_, _[[Endure Elements]]_, _[[Water Walk]]_ (3 slots); **1st** _[[Air Bubble]]_, _[[Create Water]]_, _[[Gust of Wind]]_, _[[Heal]]_ (3 slots); **Cantrips** **(5th)** _[[Electric Arc]]_, _[[Light]]_, _[[Ray of Frost]]_, _[[Read Aura]]_, _[[Stabilize]]_
-**Rituals**; **5th** _[[Summerland Spell]]_; **3rd** _[[Reincarnate]]_
-<span class="in-box-ability">**Child of Winter** When Jesseri Casts a Spell that deals damage and doesn't have a duration, she deals additional cold damage that's equal to the spell's level and ignores cold resistance 10.</span><span class="in-box-ability">**Signature Spells** Jesseri can heighten [[Heal]] and [[Lightning Bolt]] to any level for which she has an available spell slot.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> _staff_ +19 [+14/+9] (two-hand d8), **Damage** 1d4+6 bludgeoning</span>**Primal Spontaneous Spells** DC 29, attack +21; **5th** _[[DATABASE/spell/Cone of Cold|cone of cold]]_, _[[DATABASE/spell/Wall of Ice|wall of ice]]_ (3 slots); **4th** _[[DATABASE/spell/Hydraulic Torrent|hydraulic torrent]]_, _[[DATABASE/spell/Ice Storm|ice storm]]_ (3 slots); **3rd** _[[DATABASE/spell/Lightning Bolt|lightning bolt]]_, _[[DATABASE/spell/Wall of Wind|wall of wind]]_ (3 slots); **2nd** _[[DATABASE/spell/Create Food|create food]]_, _[[DATABASE/spell/Endure Elements|endure elements]]_, _[[DATABASE/spell/Water Walk|water walk]]_ (3 slots); **1st** _[[DATABASE/spell/Air Bubble|air bubble]]_, _[[DATABASE/spell/Create Water|create water]]_, _[[DATABASE/spell/Gust of Wind|gust of wind]]_, _[[DATABASE/spell/Heal|heal]]_ (3 slots); **Cantrips** **(5th)** _[[DATABASE/spell/Electric Arc|electric arc]]_, _[[DATABASE/spell/Light|light]]_, _[[DATABASE/spell/Ray of Frost|ray of frost]]_, _[[DATABASE/spell/Read Aura|read aura]]_, _[[DATABASE/spell/Stabilize|stabilize]]_
+**Rituals**; **5th** _[[DATABASE/ritual/Summerland Spell|summerland spell]]_; **3rd** _[[DATABASE/ritual/Reincarnate|reincarnate]]_
+<span class="in-box-ability">**Child of Winter** When Jesseri Casts a Spell that deals damage and doesn't have a duration, she deals additional cold damage that's equal to the spell's level and ignores cold resistance 10.</span><span class="in-box-ability">**Signature Spells** Jesseri can heighten [[DATABASE/spell/Heal|heal]] and [[DATABASE/spell/Lightning Bolt|lightning bolt]] to any level for which she has an available spell slot.</span>

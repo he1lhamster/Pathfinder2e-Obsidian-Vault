@@ -26,6 +26,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -42,9 +43,9 @@ type: Spell
 # Misdirection<span class="item-type">Spell 2</span>
 
 <span class="item-trait">Illusion</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult
-**Deities** [[Adanye]], [[Chaldira]], [[Erecura]], [[Mahathallah]]
+**Deities** [[DATABASE/deity/Adanye|Adanye]], [[DATABASE/deity/Chaldira|Chaldira]], [[DATABASE/deity/Erecura|Erecura]], [[DATABASE/deity/Mahathallah|Mahathallah]]
 **Cast** 1 minute (somatic, verbal)
 **Range** 30 feet; **Targets** 2 creatures or objects
 **Duration** until the next time you make your daily preparations

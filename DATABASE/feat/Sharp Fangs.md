@@ -11,6 +11,7 @@ name: Sharp Fangs
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 subcategory: null
@@ -23,14 +24,14 @@ type: Feat
 # Sharp Fangs <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Lizardfolk</span>
-**Source** [[Character Guide]]
+**Source** [[DATABASE/source/Character Guide|Character Guide]]
 
 ---
 Your teeth are formidable weapons. You gain a fangs unarmed attack that deals 1d8 piercing damage.
 
 ## Sharp Fangs Leads To...
 
-[[Envenom Fangs]]
+[[DATABASE/feat/Envenom Fangs|Envenom Fangs]]
 
 ## Traits
 

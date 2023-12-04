@@ -11,6 +11,7 @@ name: Ironblood Surge
 prerequisite: '[[DATABASE/feat/Ironblood Stance|Ironblood Stance]]'
 rarity: Common
 requirement: You are in Ironblood Stance.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Ironblood Surge <span class="action-icon">1</span> <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Monk</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Ironblood Stance]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/feat/Ironblood Stance|Ironblood Stance]]
 **Requirements** You are in Ironblood Stance.
 
 ---

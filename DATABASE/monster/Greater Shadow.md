@@ -78,17 +78,17 @@ wisdom: '+2'
 # Greater Shadow
 
 Shadows that spend long amounts of time on the Shadow Plane and absorb its magic become greater shadows.
-**Recall Knowledge - Undead ([[Religion]])**: DC 23
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 23
 **Unspecific Lore**: DC 21
 **Specific Lore**: DC 18
 
 # Greater Shadow<span class="item-type">Creature 7</span>
 
 <span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Incorporeal</span><span class="item-trait">Undead</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +14; darkvision
-**Languages** [[Necril]]
-**Skills** [[Acrobatics]] +16, [[Stealth]] +20
+**Languages** [[DATABASE/language/Necril|Necril]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +16, [[DATABASE/skill/Stealth|Stealth]] +20
 **Str** -5, **Dex** +5, **Con** +0, **Int** +0, **Wis** +2, **Cha** +4
 
 ---
@@ -98,5 +98,5 @@ Shadows that spend long amounts of time on the Shadow Plane and absorb its magic
 
 ---
 **Speed** fly 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> shadow hand +18 [+13/+8] (finesse, magical), **Damage** 2d10+6 negative</span>**Divine Innate Spells** DC 25; **2nd** _[[Darkness]]_ (at will)
-<span class="in-box-ability">**Shadow Spawn** When a creature’s shadow is pulled free by Steal Shadow, it becomes a shadow spawn under the command of the greater shadow that created it. This shadow spawn doesn’t have Steal Shadow. If the creature the shadow spawn was pulled from dies, the shadow spawn becomes a full-fledged, autonomous shadow. If the creature recovers from its enfeeblement, its shadow returns to it and the shadow spawn is extinguished.</span><span class="in-box-ability">**Slink in Shadows** The greater shadow can Hide or end its Sneak in a creature’s or object’s shadow.</span><span class="in-box-ability">**Steal Shadow** <span class="action-icon">1</span> (divine, necromancy) **Requirement** The greater shadow hit a living creature with a shadow hand Strike on its previous action. **Effect** The greater shadow pulls at the target’s shadow, making the creature [[Enfeebled]] (or [[Enfeebled]] on a critical hit). This is cumulative with other [[Enfeebled]] conditions from shadows, to a maximum of [[Enfeebled]]. If this increases a creature’s [[Enfeebled]] value to 3 or more, the target’s shadow is separated from its body (see shadow spawn). [[Enfeebled]] from Steal Shadow decreases by 1 every hour.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> shadow hand +18 [+13/+8] (finesse, magical), **Damage** 2d10+6 negative</span>**Divine Innate Spells** DC 25; **2nd** _[[DATABASE/spell/Darkness|darkness]]_ (at will)
+<span class="in-box-ability">**Shadow Spawn** When a creature’s shadow is pulled free by Steal Shadow, it becomes a shadow spawn under the command of the greater shadow that created it. This shadow spawn doesn’t have Steal Shadow. If the creature the shadow spawn was pulled from dies, the shadow spawn becomes a full-fledged, autonomous shadow. If the creature recovers from its enfeeblement, its shadow returns to it and the shadow spawn is extinguished.</span><span class="in-box-ability">**Slink in Shadows** The greater shadow can Hide or end its Sneak in a creature’s or object’s shadow.</span><span class="in-box-ability">**Steal Shadow** <span class="action-icon">1</span> (divine, necromancy) **Requirement** The greater shadow hit a living creature with a shadow hand Strike on its previous action. **Effect** The greater shadow pulls at the target’s shadow, making the creature [[DATABASE/condition/Enfeebled|enfeebled 2]] (or [[DATABASE/condition/Enfeebled|enfeebled 3]] on a critical hit). This is cumulative with other [[DATABASE/condition/Enfeebled|enfeebled]] conditions from shadows, to a maximum of [[DATABASE/condition/Enfeebled|enfeebled 4]]. If this increases a creature’s [[DATABASE/condition/Enfeebled|enfeebled]] value to 3 or more, the target’s shadow is separated from its body (see shadow spawn). [[DATABASE/condition/Enfeebled|Enfeebled]] from Steal Shadow decreases by 1 every hour.</span>

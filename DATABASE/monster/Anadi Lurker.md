@@ -83,19 +83,19 @@ wisdom: '+2'
 # Anadi Lurker
 
 These anadis lurkers combine their innate magical talents and wilderness lore to snare prey. 
-**Recall Knowledge - Humanoid ([[Society]])**: DC 20
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 20
 **Unspecific Lore**: DC 18
 **Specific Lore**: DC 15
 
 # Anadi Lurker<span class="item-type">Creature 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">CN</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Anadi</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 169. Kindled Magic]]
+**Source** [[DATABASE/source/Pathfinder 169. Kindled Magic|Pathfinder #169: Kindled Magic]]
 **Perception** +11
-**Languages** [[Anadi]], [[Common]]
-**Skills** [[Acrobatics]] +9, [[Athletics]] +10 (+12 to [[Climb]] in hybrid or spider form), [[Crafting]] +5 (+9 weaving), [[Nature]] +7, [[Stealth]] +11, [[Survival]] +9
+**Languages** [[DATABASE/language/Anadi|Anadi]], [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +9, [[DATABASE/skill/Athletics|Athletics]] +10 (+12 to [[DATABASE/action/Climb|Climb]] in hybrid or spider form), [[DATABASE/skill/Crafting|Crafting]] +5 (+9 weaving), [[DATABASE/skill/Nature|Nature]] +7, [[DATABASE/skill/Stealth|Stealth]] +11, [[DATABASE/skill/Survival|Survival]] +9
 **Str** +3, **Dex** +4, **Con** +0, **Int** +0, **Wis** +2, **Cha** +1
-**Items** [[Kukri]], [[Leather Armor]]
+**Items** [[DATABASE/weapon/Kukri|kukri]], [[DATABASE/armor/Leather Armor|leather armor]]
 
 ---
 **AC** 19; **Fort** +7, **Ref** +11, **Will** +9
@@ -103,5 +103,5 @@ These anadis lurkers combine their innate magical talents and wilderness lore to
 
 ---
 **Speed** 25 feet, climb 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fangs +12 [+7/+2] (finesse), **Damage** 1d8+3 piercing plus anadi venom</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> kukri +12 [+8/+4] (agile, finesse, trip), **Damage** 1d6+3 slashing</span>**Arcane Innate Spells** DC 20; **2nd** _[[Blur]]_, _[[Web]]_; **1st** _[[Color Spray]]_, _[[Illusory Disguise]]_, _[[Illusory Object]]_; **Cantrips** **(2nd)** _[[Daze]]_, _[[Detect Magic]]_, _[[Mage Hand]]_, _[[Message]]_
-<span class="in-box-ability">**Anadi Venom** (poison) **Saving Throw** DC 18 Fortitude; **Maximum Duration** 4 rounds; **Stage 1** 1d6 poison damage and [[Flat-Footed]] (1 round); **Stage 2** 1d6 poison damage, flat-footed, and [[Clumsy]] (1 round)</span><span class="in-box-ability">**Change Shape** <span class="action-icon">1</span> (arcane, concentrate, polymorph, transmutation) The anadi changes into their hybrid, spider, or human form. The above statistics assume the anadi is in hybrid form. While in human form, the anadi seeker loses their climb Speed and can't use their fangs attack. When in spider form, they can't use weapons.</span><span class="in-box-ability">**[[Sneak Attack]]** The anadi lurker deals an additional 1d6 precision damage to [[Flat-Footed]] creatures.</span><span class="in-box-ability">**Spin Silk** (concentrate, exploration, manipulate) By spending several minutes, an anadi can produce silk to craft items made of cloth. An anadi can produce enough silk in a day to craft a single garment.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fangs +12 [+7/+2] (finesse), **Damage** 1d8+3 piercing plus anadi venom</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> kukri +12 [+8/+4] (agile, finesse, trip), **Damage** 1d6+3 slashing</span>**Arcane Innate Spells** DC 20; **2nd** _[[DATABASE/spell/Blur|blur]]_, _[[DATABASE/spell/Web|web]]_; **1st** _[[DATABASE/spell/Color Spray|color spray]]_, _[[DATABASE/spell/Illusory Disguise|illusory disguise]]_, _[[DATABASE/spell/Illusory Object|illusory object]]_; **Cantrips** **(2nd)** _[[DATABASE/spell/Daze|daze]]_, _[[DATABASE/spell/Detect Magic|detect magic]]_, _[[DATABASE/spell/Mage Hand|mage hand]]_, _[[DATABASE/spell/Message|message]]_
+<span class="in-box-ability">**Anadi Venom** (poison) **Saving Throw** DC 18 Fortitude; **Maximum Duration** 4 rounds; **Stage 1** 1d6 poison damage and [[DATABASE/condition/Flat-Footed|flat-footed]] (1 round); **Stage 2** 1d6 poison damage, flat-footed, and [[DATABASE/condition/Clumsy|clumsy 1]] (1 round)</span><span class="in-box-ability">**Change Shape** <span class="action-icon">1</span> (arcane, concentrate, polymorph, transmutation) The anadi changes into their hybrid, spider, or human form. The above statistics assume the anadi is in hybrid form. While in human form, the anadi seeker loses their climb Speed and can't use their fangs attack. When in spider form, they can't use weapons.</span><span class="in-box-ability">**[[DATABASE/monsterability/Sneak Attack|Sneak Attack]]** The anadi lurker deals an additional 1d6 precision damage to [[DATABASE/condition/Flat-Footed|flat-footed]] creatures.</span><span class="in-box-ability">**Spin Silk** (concentrate, exploration, manipulate) By spending several minutes, an anadi can produce silk to craft items made of cloth. An anadi can produce enough silk in a day to craft a single garment.</span>

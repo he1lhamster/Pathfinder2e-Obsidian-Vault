@@ -32,6 +32,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -53,7 +54,7 @@ weapon_type: Ranged
 # Spellcasting<span class="item-type">Item 0+</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Bulk** —
 
 ---
@@ -61,45 +62,45 @@ Spellcasting services, listed on Table 6–15, are uncommon. Having a spell cast
 
 ## Spellcasting (1st level)<span class="item-type">Item 0</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 3 gp (plus any cost required to cast the specific spell)
 
 ## Spellcasting (2nd level)<span class="item-type">Item 0</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 7 gp (plus any cost required to cast the specific spell)
 
 ## Spellcasting (3rd level)<span class="item-type">Item 0</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 18 gp (plus any cost required to cast the specific spell)
 
 ## Spellcasting (4th level)<span class="item-type">Item 0</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 40 gp (plus any cost required to cast the specific spell)
 
 ## Spellcasting (5th level)<span class="item-type">Item 0</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 80 gp (plus any cost required to cast the specific spell)
 
 ## Spellcasting (6th level)<span class="item-type">Item 0</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 160 gp (plus any cost required to cast the specific spell)
 
 ## Spellcasting (7th level)<span class="item-type">Item 0</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 360 gp (plus any cost required to cast the specific spell)
 
 ## Spellcasting (8th level)<span class="item-type">Item 0</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 720 gp (plus any cost required to cast the specific spell)
 
 ## Spellcasting (9th level)<span class="item-type">Item 0</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 1,800 gp (plus any cost required to cast the specific spell)

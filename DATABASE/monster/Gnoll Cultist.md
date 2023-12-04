@@ -85,19 +85,19 @@ wisdom: '+3'
 # Gnoll Cultist
 
 Gnoll cultists serve as their clans’ spiritual guides and conduits to the divine. As often as not, their influence drives entire gnoll civilizations to commit atrocious acts of violence and enslavement. Lamashtu and Rovagug are favored deities of gnoll cultists, and many gnolls believe their kind was in fact birthed from the womb of the Mother of Monsters. Some gnoll clans worship lesser-known demon lords or entire pantheons of sinister patrons.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 18
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Gnoll Cultist<span class="item-type">Creature 3</span>
 
 <span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Gnoll</span><span class="item-trait">Humanoid</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +8; darkvision
-**Languages** [[Abyssal]], [[Common]], [[Gnoll]]
-**Skills** [[Intimidation]] +7, [[Medicine]] +7, [[Religion]] +10, [[Stealth]] +7, [[Survival]] +8
+**Languages** [[DATABASE/language/Abyssal|Abyssal]], [[DATABASE/language/Common|Common]], [[DATABASE/language/Gnoll|Gnoll]]
+**Skills** [[DATABASE/skill/Intimidation|Intimidation]] +7, [[DATABASE/skill/Medicine|Medicine]] +7, [[DATABASE/skill/Religion|Religion]] +10, [[DATABASE/skill/Stealth|Stealth]] +7, [[DATABASE/skill/Survival|Survival]] +8
 **Str** +2, **Dex** +2, **Con** +0, **Int** +0, **Wis** +3, **Cha** +2
-**Items** [[Falchion]], [[Hide Armor]], [[Religious Symbol]]
+**Items** [[DATABASE/weapon/Falchion|falchion]], [[DATABASE/armor/Hide Armor|hide armor]], [[DATABASE/equipment/Religious Symbol|wooden religious symbol]]
 
 ---
 **AC** 19; **Fort** +8, **Ref** +6, **Will** +10
@@ -105,5 +105,5 @@ Gnoll cultists serve as their clans’ spiritual guides and conduits to the divi
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> falchion +10 [+5/+0] (forceful, sweep), **Damage** 1d10+3 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +10 [+6/+2] (agile), **Damage** 1d6+3 piercing</span>**Divine Prepared Spells** DC 22, spell attack +10; **2nd** _[[Darkness]]_, _[[Harm]]_ (x4), _[[Spiritual Weapon]]_; **1st** _[[Command]]_, _[[Fear]]_, _[[Magic Weapon]]_; **Cantrips** **(2nd)** _[[Daze]]_, _[[Detect Magic]]_, _[[Light]]_, _[[Read Aura]]_, _[[Sigil]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> falchion +10 [+5/+0] (forceful, sweep), **Damage** 1d10+3 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +10 [+6/+2] (agile), **Damage** 1d6+3 piercing</span>**Divine Prepared Spells** DC 22, spell attack +10; **2nd** _[[DATABASE/spell/Darkness|darkness]]_, _[[DATABASE/spell/Harm|harm]]_ (x4), _[[DATABASE/spell/Spiritual Weapon|spiritual weapon]]_; **1st** _[[DATABASE/spell/Command|command]]_, _[[DATABASE/spell/Fear|fear]]_, _[[DATABASE/spell/Magic Weapon|magic weapon]]_; **Cantrips** **(2nd)** _[[DATABASE/spell/Daze|daze]]_, _[[DATABASE/spell/Detect Magic|detect magic]]_, _[[DATABASE/spell/Light|light]]_, _[[DATABASE/spell/Read Aura|read aura]]_, _[[DATABASE/spell/Sigil|sigil]]_
 <span class="in-box-ability">**Pack Attack** A gnoll cultist deals 1d4 extra damage to any creature that’s within reach of at least two of the gnoll cultist's allies.</span><span class="in-box-ability">**Rugged Travel** A gnoll ignores the first square of difficult terrain it moves into each time it Steps or Strides.</span>

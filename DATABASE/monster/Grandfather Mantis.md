@@ -73,19 +73,19 @@ wisdom: '+4'
 # Grandfather Mantis
 
 This creature did not include a description.
-**Recall Knowledge - Monitor ([[Religion]])**: DC 44
-**Recall Knowledge - Spirit ([[Occultism]])**: DC 44
+**Recall Knowledge - Monitor ([[DATABASE/skill/Religion|Religion]])**: DC 44
+**Recall Knowledge - Spirit ([[DATABASE/skill/Occultism|Occultism]])**: DC 44
 **Unspecific Lore**: DC 42
 **Specific Lore**: DC 39
 
 # Grandfather Mantis<span class="item-type">Creature 15</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NG</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Minion</span><span class="item-trait">Monitor</span><span class="item-trait">Spirit</span>
-**Source** [[Pathfinder 167. Ready Fight!]]
-[[Yarrika]] spirit guardian
+**Source** [[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]
+[[DATABASE/npc/Yarrika|Yarrika's]] spirit guardian
 **Perception** +27
-**Languages** [[Arcadian]]; [[Telepathy]] 100 feet
-**Skills** [[Athletics]] +28, [[Occultism]] +25, [[Religion]] +25
+**Languages** [[DATABASE/language/Arcadian|Arcadian]]; [[DATABASE/monsterability/Telepathy|telepathy]] 100 feet
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +28, [[DATABASE/skill/Occultism|Occultism]] +25, [[DATABASE/skill/Religion|Religion]] +25
 **Str** +5, **Dex** +5, **Con** +3, **Int** +2, **Wis** +4, **Cha** +2
 
 ---
@@ -95,5 +95,5 @@ This creature did not include a description.
 
 ---
 **Speed** 35 feet, climb 35 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +28 [+24/+20] (agile, magical), **Damage** 3d10+13 slashing plus [[Improved Grab]]</span>**Occult Innate Spells** DC 35; **5th** _[[Fly]]_, _[[Shadow Blast]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +28 [+24/+20] (agile, magical), **Damage** 3d10+13 slashing plus [[DATABASE/monsterability/Improved Grab|Improved Grab]]</span>**Occult Innate Spells** DC 35; **5th** _[[DATABASE/spell/Fly|fly]]_, _[[DATABASE/spell/Shadow Blast|shadow blast]]_
 <span class="in-box-ability">**Pounce** <span class="action-icon">1</span> Grandfather Mantis Strides, then Strikes.</span>

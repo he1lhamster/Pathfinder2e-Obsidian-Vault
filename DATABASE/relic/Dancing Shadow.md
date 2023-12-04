@@ -5,6 +5,7 @@ item_category: Relics
 name: Dancing Shadow
 prerequisite: The relic is a weapon.
 rarity: Common
+rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
@@ -16,7 +17,7 @@ type: Relic Major Gift
 # Dancing Shadow<span class="item-type">Major Gift</span>
 
 <span class="item-trait">Evocation</span><span class="item-trait">Shadow</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Aspect** shadow; **Prerequisite** The relic is a weapon.
 
 ---

@@ -67,17 +67,17 @@ wisdom: '+1'
 # Beggar
 
 Wherever there is poverty, there are beggars. Beggars are truly the downtrodden of society—folks who have been cast out into the streets due to a variety of setbacks or the weight of circumstance. Some beggars work for underworld organizations as lookouts, spies, or even hired muscle on the cheap—sometimes by choice, but often not.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 13
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 13
 **Unspecific Lore**: DC 11
 **Specific Lore**: DC 8
 
 # Beggar<span class="item-type">Creature -1</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Perception** +3
-**Languages** [[Common]]
-**Skills** [[Athletics]] +3, [[Deception]] +3, [[Diplomacy]] +3, [[Stealth]] +5, [[Lore]] +2
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +3, [[DATABASE/skill/Deception|Deception]] +3, [[DATABASE/skill/Diplomacy|Diplomacy]] +3, [[DATABASE/skill/Stealth|Stealth]] +5, [[DATABASE/skill/Lore|Underworld Lore]] +2
 **Str** +1, **Dex** +3, **Con** +2, **Int** +0, **Wis** +1, **Cha** +1
 
 ---

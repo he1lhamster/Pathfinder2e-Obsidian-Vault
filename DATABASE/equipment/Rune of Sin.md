@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Rune of Sin<span class="item-type">Item 12</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Arcane</span><span class="item-trait">Invested</span><span class="item-trait">Tattoo</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Price** 1,700 gp
 **Usage** tattooed on the body; **Bulk** —
 

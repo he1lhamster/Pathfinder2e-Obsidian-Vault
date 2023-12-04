@@ -72,17 +72,17 @@ wisdom: '+5'
 # Vicious Army Ant Swarm
 
 This creature did not include a description.
-**Recall Knowledge - Animal ([[Nature]])**: DC 35
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 35
 **Unspecific Lore**: DC 33
 **Specific Lore**: DC 30
 
 # Vicious Army Ant Swarm<span class="item-type">Creature 12</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Animal</span><span class="item-trait">Swarm</span>
-**Source** [[Kingmaker Adventure Path]]
-Variant [[Army Ant Swarm]]
-**Perception** +23; [[Darkvision]], [[Scent]] (imprecise) 
-**Skills** [[Athletics]] +16
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
+Variant [[DATABASE/monster/Army Ant Swarm|army ant swarm]]
+**Perception** +23; [[DATABASE/monsterability/Darkvision|darkvision]], [[DATABASE/monsterability/Scent|scent]] (imprecise) 
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +16
 **Str** -2, **Dex** +7, **Con** +5, **Int** -5, **Wis** +5, **Cha** -4
 
 ---
@@ -92,4 +92,4 @@ Variant [[Army Ant Swarm]]
 
 ---
 **Speed** 30 feet, climb 30 feet
-<span class="in-box-ability">**Swarming Bites** <span class="action-icon">1</span> Each enemy in the swarm's space takes 3d6 piercing damage (DC 21 basic Fortitude save). A creature that fails its save against Swarming Bites becomes [[Clumsy]] 1 for 1 round. If the creature attempts a concentrate or manipulate action while affected, it must succeed at a DC 5 flat check or the action is lost; roll the check after spending the action, but before any effects are applied.</span>
+<span class="in-box-ability">**Swarming Bites** <span class="action-icon">1</span> Each enemy in the swarm's space takes 3d6 piercing damage (DC 21 basic Fortitude save). A creature that fails its save against Swarming Bites becomes [[DATABASE/condition/Clumsy|clumsy]] 1 for 1 round. If the creature attempts a concentrate or manipulate action while affected, it must succeed at a DC 5 flat check or the action is lost; roll the check after spending the action, but before any effects are applied.</span>

@@ -3,6 +3,7 @@ creature_family: Dragon, Primal
 id: '132'
 name: Dragon, Primal
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 trait: null
 type: Creature Family
@@ -10,8 +11,8 @@ type: Creature Family
 ---
 # Dragon, Primal
 
-**Source** [[Bestiary 2]] 
-The strange and otherworldly primal dragons hail from realities adjacent to the Material Plane—the four Elemental Planes and the [[Shadow Plane]]. These true dragons have natures and powers that exemplify their plane of origin and an affinity for primal magic, unlike chromatic and metallic dragons, who favor arcane or divine magic. Although they come from distant planes, primal dragons can be found on the Material Plane in regions touched by or reminiscent of their home plane. Although such encounters are rare, adventurers and travelers have sometimes found a brine dragon dwelling near a salty inland sea, for example, or a crystal dragon living in massive natural caverns deep in the Darklands. Unlike chromatic and metallic dragons, primal dragons tend not to develop shape-changing powers, and they are less interested in infiltrating settlements or influencing others from the shadows.
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+The strange and otherworldly primal dragons hail from realities adjacent to the Material Plane—the four Elemental Planes and the [[DATABASE/plane/Shadow Plane|Shadow Plane]]. These true dragons have natures and powers that exemplify their plane of origin and an affinity for primal magic, unlike chromatic and metallic dragons, who favor arcane or divine magic. Although they come from distant planes, primal dragons can be found on the Material Plane in regions touched by or reminiscent of their home plane. Although such encounters are rare, adventurers and travelers have sometimes found a brine dragon dwelling near a salty inland sea, for example, or a crystal dragon living in massive natural caverns deep in the Darklands. Unlike chromatic and metallic dragons, primal dragons tend not to develop shape-changing powers, and they are less interested in infiltrating settlements or influencing others from the shadows.
 
 ## Primal Dragon Spellcasters
 
@@ -24,7 +25,7 @@ Golarion is not home to many primal dragons. Yet primal dragons do still come to
 
 ### Members
 
-[[Dragon, Brine]], [[Dragon, Cloud]], [[Dragon, Crystal]], [[Dragon, Magma]], [[Dragon, Umbral]]
+[[DATABASE/monsterfamily/Dragon, Brine|Dragon, Brine]], [[DATABASE/monsterfamily/Dragon, Cloud|Dragon, Cloud]], [[DATABASE/monsterfamily/Dragon, Crystal|Dragon, Crystal]], [[DATABASE/monsterfamily/Dragon, Magma|Dragon, Magma]], [[DATABASE/monsterfamily/Dragon, Umbral|Dragon, Umbral]]
 
 ###  Primal Dragon Hoards
 
@@ -32,4 +33,4 @@ Primal dragons may hail from other planes of existence than chromatic or metalli
 
 ###  Primal Dragon Religion
 
-While religious primal dragons sometimes worship [[Apsu]] or [[Dahak]] (which dragon god they favor depends on their stance on good or evil), most prefer to worship elemental divinities.
+While religious primal dragons sometimes worship [[DATABASE/deity/Apsu|Apsu]] or [[DATABASE/deity/Dahak|Dahak]] (which dragon god they favor depends on their stance on good or evil), most prefer to worship elemental divinities.

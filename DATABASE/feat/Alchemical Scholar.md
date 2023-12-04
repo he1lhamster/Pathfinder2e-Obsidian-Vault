@@ -11,6 +11,7 @@ name: Alchemical Scholar
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Alchemical Scholar <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Hobgoblin</span>
-**Source** [[Character Guide]]
+**Source** [[DATABASE/source/Character Guide|Character Guide]]
 
 ---
-You learn formulas more easily. You gain four common 1st-level alchemical formulas when you take this feat, and each time you gain a level, you gain a common alchemical formula of that level. You still need [[Alchemical Crafting]] to Craft alchemical items.
+You learn formulas more easily. You gain four common 1st-level alchemical formulas when you take this feat, and each time you gain a level, you gain a common alchemical formula of that level. You still need [[DATABASE/feat/Alchemical Crafting|Alchemical Crafting]] to Craft alchemical items.
 **Special** You can take this feat only at 1st level, and you can’t retrain into or out of this feat.
 
 ## Traits

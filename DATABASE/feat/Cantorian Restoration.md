@@ -11,6 +11,7 @@ name: Cantorian Restoration
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -26,12 +27,12 @@ type: Feat
 # Cantorian Restoration <span class="action-icon">5</span> <span class="item-type">Feat 17</span>
 
 <span class="item-trait">Healing</span><span class="item-trait">Hobgoblin</span><span class="item-trait">Necromancy</span><span class="item-trait">Positive</span>
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 **Frequency** once per day
 **Trigger** A living creature within 60 feet would die.
 
 ---
-The energy that flows in your blood can save a life in the direst of times. The triggering creature receives the effects of [[Breath of Life]], except they recover a number of Hit Points equal to 6d8 plus your Constitution modifier.
+The energy that flows in your blood can save a life in the direst of times. The triggering creature receives the effects of [[DATABASE/spell/Breath of Life|breath of life]], except they recover a number of Hit Points equal to 6d8 plus your Constitution modifier.
 
 ## Traits
 
@@ -49,4 +50,4 @@ Effects and magic items with this trait are associated with the necromancy schoo
 
 **Positive:**
 
-Effects with this trait heal living creatures with positive energy, deal positive energy damage to undead, or manipulate positive energy. Planes with this trait are awash with life energy of such intensity that it can harm living creatures. Creatures with this trait are natives of the [[Positive Energy Plane]]. They can survive the basic environmental effects of the Positive Energy Plane.
+Effects with this trait heal living creatures with positive energy, deal positive energy damage to undead, or manipulate positive energy. Planes with this trait are awash with life energy of such intensity that it can harm living creatures. Creatures with this trait are natives of the [[DATABASE/plane/Positive Energy Plane|Positive Energy Plane]]. They can survive the basic environmental effects of the Positive Energy Plane.

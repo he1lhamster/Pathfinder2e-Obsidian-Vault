@@ -11,6 +11,7 @@ name: Wandering Thoughts
 prerequisite: null
 rarity: Common
 requirement: You used your most recent action to Cast a Spell.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -27,12 +28,12 @@ type: Feat
 # Wandering Thoughts <span class="action-icon">4</span> <span class="item-type">Feat 16</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Occult</span><span class="item-trait">Psyche</span><span class="item-trait">Psychic</span><span class="item-trait">Teleportation</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Frequency** once per round
 **Requirements** You used your most recent action to Cast a Spell.
 
 ---
-When your [[Unleash Psyche]], each burst of magic you cast also folds space around you, and you travel through one of those folds. You teleport 15 feet to a square you can see.
+When your [[DATABASE/action/Unleash Psyche|Psyche is Unleashed]], each burst of magic you cast also folds space around you, and you travel through one of those folds. You teleport 15 feet to a square you can see.
 
 ## Traits
 

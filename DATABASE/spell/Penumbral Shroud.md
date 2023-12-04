@@ -27,6 +27,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -44,9 +45,9 @@ type: Spell
 # Penumbral Shroud<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Darkness</span><span class="item-trait">Evocation</span>
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Traditions** arcane, occult
-**Deities** [[Black Butterfly]], [[Count Ranalc]], [[Kerkamoth]], [[Nocticula]], [[Set]], [[Thamir]]
+**Deities** [[DATABASE/deity/Black Butterfly|Black Butterfly]], [[DATABASE/deity/Count Ranalc|Count Ranalc]], [[DATABASE/deity/Kerkamoth|Kerkamoth]], [[DATABASE/deity/Nocticula|Nocticula]], [[DATABASE/deity/Set|Set]], [[DATABASE/deity/Thamir|Thamir]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet; **Targets** 1 creature
 **Duration** 10 minutes

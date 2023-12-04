@@ -83,23 +83,23 @@ wisdom: '+0'
 # Giant Animated Statue
 
 As with any humanoid animated statues of Medium size, giant animated statues are used to guard locations of importance, but their increased size and power make them most useful in large vaults, spacious chambers, or outdoor locations. Animated objects of this strength and size are ideal for tasks and responsibilities usually performed by golems, and more powerful animated objects are thus all but unheard of.
-**Recall Knowledge - Construct ([[Arcana]], [[Crafting]])**: DC 23
+**Recall Knowledge - Construct ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Crafting|Crafting]])**: DC 23
 **Unspecific Lore**: DC 21
 **Specific Lore**: DC 18
 
 # Giant Animated Statue<span class="item-type">Creature 7</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Huge</span><span class="item-trait">Construct</span><span class="item-trait">Earth</span><span class="item-trait">Mindless</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +13; darkvision
-**Skills** [[Athletics]] +17
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +17
 **Str** +6, **Dex** -1, **Con** +6, **Int** -5, **Wis** +0, **Cha** -5
 
 ---
 **AC** 26 (22 when broken); construct armor; **Fort** +17, **Ref** +10, **Will** +9
-**HP** 100; **Hardness** 10; **Immunities** bleed, death effects, disease, [[Doomed]], [[Drained]], [[Fatigued]], healing, mental, necromancy, nonlethal attacks, [[Paralyzed]], poison, [[Sickened]], [[Unconscious]]
+**HP** 100; **Hardness** 10; **Immunities** bleed, death effects, disease, [[DATABASE/condition/Doomed|doomed]], [[DATABASE/condition/Drained|drained]], [[DATABASE/condition/Fatigued|fatigued]], healing, mental, necromancy, nonlethal attacks, [[DATABASE/condition/Paralyzed|paralyzed]], poison, [[DATABASE/condition/Sickened|sickened]], [[DATABASE/condition/Unconscious|unconscious]]
 <span class="in-box-ability">**Construct Armor** Like normal objects, a giant animated statue has Hardness. This Hardness reduces any damage it takes by an amount equal to the Hardness. Once a giant animated statue is reduced to less than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks and its Armor Class is reduced to 22.</span>
 
 ---
 **Speed** 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> stone fist +19 [+14/+9] (magical), **Damage** 2d12+6 bludgeoning plus [[Grab]]</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> flaming coal +12 [+7/+2] (fire, magical, range increment 80 feet), **Damage** 2d6+6 bludgeoning and 2d8 fire</span><span class="in-box-ability">**Brazier** The statue carries a wide brazier full of hot coals. To make flaming coal Strikes or use Burn Alive, the statue must have the brazier held in one hand or otherwise have it within reach. Instead of targeting the statue with an attack, a creature can target the brazier directly. The brazier has the same AC and saves as the statue. Dealing 15 cold damage to the brazier or dousing it with at least 2 gallons of water extinguishes the coals. This prevents the statue from using Burn Alive and causes its ranged attacks to no longer deal 2d8 fire damage.</span><span class="in-box-ability">**Burn Alive** <span class="action-icon">1</span> (fire) The statue grinds a creature it has grabbed into the red-hot coals of its brazier. The target takes 3d8 fire damage and 1d8 persistent fire damage.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> stone fist +19 [+14/+9] (magical), **Damage** 2d12+6 bludgeoning plus [[DATABASE/monsterability/Grab|Grab]]</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> flaming coal +12 [+7/+2] (fire, magical, range increment 80 feet), **Damage** 2d6+6 bludgeoning and 2d8 fire</span><span class="in-box-ability">**Brazier** The statue carries a wide brazier full of hot coals. To make flaming coal Strikes or use Burn Alive, the statue must have the brazier held in one hand or otherwise have it within reach. Instead of targeting the statue with an attack, a creature can target the brazier directly. The brazier has the same AC and saves as the statue. Dealing 15 cold damage to the brazier or dousing it with at least 2 gallons of water extinguishes the coals. This prevents the statue from using Burn Alive and causes its ranged attacks to no longer deal 2d8 fire damage.</span><span class="in-box-ability">**Burn Alive** <span class="action-icon">1</span> (fire) The statue grinds a creature it has grabbed into the red-hot coals of its brazier. The target takes 3d8 fire damage and 1d8 persistent fire damage.</span>

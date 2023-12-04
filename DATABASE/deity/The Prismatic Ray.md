@@ -29,6 +29,7 @@ follower_alignment:
 id: '207'
 name: The Prismatic Ray
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Diplomacy|Diplomacy]]'
 source: '[[DATABASE/source/Friends in High Places|Friends in High Places]]'
@@ -38,20 +39,20 @@ type: Deity
 ---
 # The Prismatic Ray [NG]
 
-**Source** [[Friends in High Places]]
+**Source** [[DATABASE/source/Friends in High Places|Friends in High Places]]
 **Category** Pantheons
 **Edicts** Create works that inspire good acts, defend those who cannot defend themselves, pursue evil
 **Anathema** allow evil to spread, destroy that which brings joy to others, fail to offer evil a chance to surrender
 **Areas of Concern** Defeating evil, guarding innocents, and wholesome creations
 **Follower Alignments** LG, NG, CG
-**Pantheon Members** [[Desna]], [[Sarenrae]], [[Shelyn]]
+**Pantheon Members** [[DATABASE/deity/Desna|Desna]], [[DATABASE/deity/Sarenrae|Sarenrae]], [[DATABASE/deity/Shelyn|Shelyn]]
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Wisdom or Charisma
-**Divine Font** _[[Heal]]_
-**Divine Skill** [[Diplomacy]]
-**Favored Weapon** [[Shortsword]]
-**Domains** [[Creation Domain]], [[Moon Domain]], [[Protection Domain]], [[Sun Domain]]
-**Alternate Domains** [[Family Domain]], [[Healing Domain]], [[Travel Domain]]
-**Cleric Spells** 1st: _[[Sleep]]_, 3rd: _[[Fireball]]_, 4th: _[[Creation]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Wisdom or Charisma
+**Divine Font** _[[DATABASE/spell/Heal|heal]]_
+**Divine Skill** [[DATABASE/skill/Diplomacy|Diplomacy]]
+**Favored Weapon** [[DATABASE/weapon/Shortsword|shortsword]]
+**Domains** [[DATABASE/domain/Creation Domain|creation]], [[DATABASE/domain/Moon Domain|moon]], [[DATABASE/domain/Protection Domain|protection]], [[DATABASE/domain/Sun Domain|sun]]
+**Alternate Domains** [[DATABASE/domain/Family Domain|family]], [[DATABASE/domain/Healing Domain|healing]], [[DATABASE/domain/Travel Domain|travel]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Sleep|sleep]]_, 3rd: _[[DATABASE/spell/Fireball|fireball]]_, 4th: _[[DATABASE/spell/Creation|creation]]_

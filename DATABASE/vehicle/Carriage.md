@@ -16,6 +16,7 @@ price: 100 gp
 rarity: Common
 reflex: null
 resistance: null
+rus_type_level: null
 school: null
 size: Large
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
@@ -27,13 +28,13 @@ type: Vehicle
 # Carriage<span class="item-type">Vehicle 2</span>
 
 <span class="trait-size item-trait">Large</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Price** 100 gp
 
 ---
 **Space** 10 feet long, 10 feet wide, 7 feet tall
 **Crew** 1 pilot; **Passengers** 2
-**Piloting Check** [[Lore]] (DC 16) or [[Nature]] (DC 18 to DC 26, depending on pulling creature)
+**Piloting Check** [[DATABASE/skill/Lore|Driving Lore]] (DC 16) or [[DATABASE/skill/Nature|Nature]] (DC 18 to DC 26, depending on pulling creature)
 
 ---
 **AC** 13; **Fort** +8

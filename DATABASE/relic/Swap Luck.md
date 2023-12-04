@@ -5,6 +5,7 @@ item_category: Relics
 name: Swap Luck
 prerequisite: null
 rarity: Common
+rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
@@ -15,7 +16,7 @@ type: Relic Minor Gift
 # Swap Luck<span class="item-type">Minor Gift</span>
 
 <span class="item-trait">Abjuration</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Aspect** luck
 
 ---

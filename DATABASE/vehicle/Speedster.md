@@ -16,6 +16,7 @@ price: 2,900 gp
 rarity: Rare
 reflex: null
 resistance: null
+rus_type_level: null
 school: null
 size: Large
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
@@ -28,7 +29,7 @@ type: Vehicle
 # Speedster<span class="item-type">Vehicle 10</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-size item-trait">Large</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 2,900 gp
 
 ---
@@ -37,7 +38,7 @@ A speedster is a light streamlined hybrid clockwork and steam-powered alchemical
 ---
 **Space** 10 feet long, 5 feet wide, 5 feet high
 **Crew** 1 pilot; **Passengers** 1
-**Piloting Check** [[Lore]] (DC 27) or [[Crafting]] (DC 29)
+**Piloting Check** [[DATABASE/skill/Lore|Driving Lore]] (DC 27) or [[DATABASE/skill/Crafting|Crafting]] (DC 29)
 
 ---
 **AC** 23; **Fort** +19

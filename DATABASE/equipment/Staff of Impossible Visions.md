@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Illusion
 size: null
@@ -55,48 +56,48 @@ weapon_type: null
 # Staff of Impossible Visions<span class="item-type">Item 6+</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Illusion</span><span class="item-trait">Magical</span><span class="item-trait">Staff</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Usage** held in 1 hand; **Bulk** 1
 
 ---
-This bizarre staff is made from oak, capped with a cluster of eye-shaped gemstones that seem to move and undulate at the corner of your vision. While wielding the staff, you can peer through the eyes, using your normal visual senses (including any benefits of spells affecting your vision, like [[See Invisibility]]). You can maneuver the staff to see things around corners, at higher elevations, or in places where the staff can fit but your head can't. This doesn't provide sufficient line of effect to target creatures around corners. The eyes are as vulnerable as your eyes and can be affected by anything that alters your vision, such as a blinding flash of light.
+This bizarre staff is made from oak, capped with a cluster of eye-shaped gemstones that seem to move and undulate at the corner of your vision. While wielding the staff, you can peer through the eyes, using your normal visual senses (including any benefits of spells affecting your vision, like [[DATABASE/spell/See Invisibility|see invisibility]]). You can maneuver the staff to see things around corners, at higher elevations, or in places where the staff can fit but your head can't. This doesn't provide sufficient line of effect to target creatures around corners. The eyes are as vulnerable as your eyes and can be affected by anything that alters your vision, such as a blinding flash of light.
 **Activate** Cast a Spell ; **Effect** You expend a number of charges from the staff to cast a spell from its list.
 **Craft Requirements** Supply one casting of all listed levels of all listed spells.
 
 ## Staff of Impossible Visions<span class="item-type">Item 6</span>
 
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Price** 230 gp
 **Bulk** 1
 
-* **Cantrip** [[Daze]]
-* **1st** [[Fear]], [[Phantom Pain]]
-* **2nd** [[Augury]], [[Paranoia]]
+* **Cantrip** [[DATABASE/spell/Daze|daze]]
+* **1st** [[DATABASE/spell/Fear|fear]], [[DATABASE/spell/Phantom Pain|phantom pain]]
+* **2nd** [[DATABASE/spell/Augury|augury]], [[DATABASE/spell/Paranoia|paranoia]]
 
 ## Staff of Impossible Visions (Greater)<span class="item-type">Item 12</span>
 
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Price** 1,800 gp
 **Bulk** 1
 
-* **3rd** [[Hypnotic Pattern]], [[Paralyze]]
-* **4th** [[Countless Eyes]], [[Phantasmal Killer]]
-* **5th** [[Strange Geometry]]
+* **3rd** [[DATABASE/spell/Hypnotic Pattern|hypnotic pattern]], [[DATABASE/spell/Paralyze|paralyze]]
+* **4th** [[DATABASE/spell/Countless Eyes|countless eyes]], [[DATABASE/spell/Phantasmal Killer|phantasmal killer]]
+* **5th** [[DATABASE/spell/Strange Geometry|strange geometry]]
 
 ## Staff of Impossible Visions (Major)<span class="item-type">Item 16</span>
 
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Price** 10,000 gp
 **Bulk** 1
 
-* **6th** [[Blinding Fury]], [[Phantasmal Calamity]]
-* **7th** [[Visions of Danger]], [[Warp Mind]]
+* **6th** [[DATABASE/spell/Blinding Fury|blinding fury]], [[DATABASE/spell/Phantasmal Calamity|phantasmal calamity]]
+* **7th** [[DATABASE/spell/Visions of Danger|visions of danger]], [[DATABASE/spell/Warp Mind|warp mind]]
 
 ## Staff of Impossible Visions (True)<span class="item-type">Item 20</span>
 
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Price** 70,000 gp
 **Bulk** 1
 
-* **8th** [[Spirit Song]], [[Uncontrollable Dance]]
-* **9th** [[Unfathomable Song]], [[Weird]]
+* **8th** [[DATABASE/spell/Spirit Song|spirit song]], [[DATABASE/spell/Uncontrollable Dance|uncontrollable dance]]
+* **9th** [[DATABASE/spell/Unfathomable Song|unfathomable song]], [[DATABASE/spell/Weird|weird]]

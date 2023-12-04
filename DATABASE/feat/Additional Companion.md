@@ -11,6 +11,7 @@ name: Additional Companion
 prerequisite: '[[DATABASE/feat/Beastmaster Dedication|Beastmaster Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,12 +24,12 @@ type: Feat
 # Additional Companion <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetypes** [[Beastmaster]], [[Undead Master]]
-**Prerequisites** [[Beastmaster Dedication]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetypes** [[DATABASE/archetype/Beastmaster|Beastmaster]], [[DATABASE/archetype/Undead Master|Undead Master]]
+**Prerequisites** [[DATABASE/feat/Beastmaster Dedication|Beastmaster Dedication]]
 
 ---
-Another animal joins you in your travels. It is a young animal companion that has the minion trait. See [[Beastmaster]] for rules on how having multiple animal companions works.
+Another animal joins you in your travels. It is a young animal companion that has the minion trait. See [[DATABASE/archetype/Beastmaster|Beastmaster Animal Companions]] for rules on how having multiple animal companions works.
 **Special** You can select this feat more than once, gaining an additional animal companion each time, to a maximum of four total companions (including the one you gained from Beastmaster Dedication and possibly one you gained from sources other than the beastmaster archetype).
 
 ## Traits

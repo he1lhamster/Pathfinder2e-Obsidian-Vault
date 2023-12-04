@@ -5,6 +5,7 @@ name: Onion Soup
 price: 25 gp
 rarity: Common
 requirement: null
+rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 trait:
 - '[[DATABASE/trait/Meal|Meal]]'
@@ -13,11 +14,11 @@ type: Campsite Meal
 ---
 # Onion Soup<span class="item-type">Meal 8</span>
 
-**Source** [[Kingmaker Companion Guide]]
+**Source** [[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]
 **Recipe Price** 25 gp
 **Ingredients** 2 basic, 1 special
-**Preparation** DC 24 [[Lore]] or DC 26 [[Survival]]
-**Favorite Meal** +1 status bonus to [[Arcana]] checks.
+**Preparation** DC 24 [[DATABASE/skill/Lore|Cooking Lore]] or DC 26 [[DATABASE/skill/Survival|Survival]]
+**Favorite Meal** +1 status bonus to [[DATABASE/skill/Arcana|Arcana]] checks.
 
 ---
 A deceptively simple meal, the inclusion of gourmet cheeses in onion soup can elevate it to something extraordinary.

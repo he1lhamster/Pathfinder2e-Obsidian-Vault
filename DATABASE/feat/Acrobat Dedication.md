@@ -11,6 +11,7 @@ name: Acrobat Dedication
 prerequisite: Trained in [[DATABASE/skill/Acrobatics|Acrobatics]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,17 +25,17 @@ type: Feat
 # Acrobat Dedication <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Dedication</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Acrobat]]
-**Prerequisites** trained in [[Acrobatics]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Acrobat|Acrobat]]
+**Prerequisites** trained in [[DATABASE/skill/Acrobatics|Acrobatics]]
 
 ---
-You become an expert in [[Acrobatics]]. At 7th level, you become a master in Acrobatics, and at 15th level, you become legendary in Acrobatics. Whenever you critically succeed at an Acrobatics check to [[Tumble Through]] an enemy's space, you don't treat the enemy's space as difficult terrain.
+You become an expert in [[DATABASE/skill/Acrobatics|Acrobatics]]. At 7th level, you become a master in Acrobatics, and at 15th level, you become legendary in Acrobatics. Whenever you critically succeed at an Acrobatics check to [[DATABASE/action/Tumble Through|Tumble Through]] an enemy's space, you don't treat the enemy's space as difficult terrain.
 **Special** You can't select another dedication feat until you have gained two other feats from the acrobat archetype.
 
 ## Acrobat Dedication Leads To...
 
-[[Contortionist]], [[Dodge Away]], [[Graceful Leaper]], [[Mockingbird's Disarm]], [[Quick Spring]], [[Show-Off]], [[Tumbling Opportunist]], [[Tumbling Strike]]
+[[DATABASE/feat/Contortionist|Contortionist]], [[DATABASE/feat/Dodge Away|Dodge Away]], [[DATABASE/feat/Graceful Leaper|Graceful Leaper]], [[DATABASE/feat/Mockingbird's Disarm|Mockingbird's Disarm]], [[DATABASE/feat/Quick Spring|Quick Spring]], [[DATABASE/feat/Show-Off|Show-Off]], [[DATABASE/feat/Tumbling Opportunist|Tumbling Opportunist]], [[DATABASE/feat/Tumbling Strike|Tumbling Strike]]
 
 ## Traits
 

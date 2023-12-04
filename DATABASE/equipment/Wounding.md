@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 size: null
@@ -53,9 +54,9 @@ weapon_type: null
 # Wounding<span class="item-type">Item 7</span>
 
 <span class="item-trait">Magical</span><span class="item-trait">Necromancy</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 340 gp
 **Usage** etched onto a piercing or slashing melee weapon; **Bulk** —
 
 ---
-Weapons with _wounding_ runes are said to thirst for blood. When you hit a creature with a _wounding_ weapon, you deal an extra 1d6 [[Persistent Damage]].
+Weapons with _wounding_ runes are said to thirst for blood. When you hit a creature with a _wounding_ weapon, you deal an extra 1d6 [[DATABASE/condition/Persistent Damage|persistent bleed damage]].

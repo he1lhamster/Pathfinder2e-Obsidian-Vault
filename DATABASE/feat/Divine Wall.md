@@ -11,6 +11,7 @@ name: Divine Wall
 prerequisite: null
 rarity: Common
 requirement: You are wielding a shield.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Divine Wall <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Champion</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Requirements** You are wielding a shield.
 
 ---

@@ -11,6 +11,7 @@ name: Janni Hospitality
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,13 +24,13 @@ type: Feat
 # Janni Hospitality <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Suli</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-You can use magic to show others desert hospitality. You can cast 2nd-level [[Create Food]] once per day and [[Create Water]] twice per day as arcane innate spells.
+You can use magic to show others desert hospitality. You can cast 2nd-level [[DATABASE/spell/Create Food|create food]] once per day and [[DATABASE/spell/Create Water|create water]] twice per day as arcane innate spells.
 
 ## Traits
 
 **Suli:**
 
-Sulis are planar scions descended from [[Janni]].
+Sulis are planar scions descended from [[DATABASE/monster/Janni|jann]].

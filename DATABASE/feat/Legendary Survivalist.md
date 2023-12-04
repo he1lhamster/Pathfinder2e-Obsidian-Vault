@@ -11,6 +11,7 @@ name: Legendary Survivalist
 prerequisite: Legendary in [[DATABASE/skill/Survival|Survival]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: survival
@@ -24,8 +25,8 @@ type: Feat
 # Legendary Survivalist <span class="item-type">Feat 15</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** legendary in [[Survival]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** legendary in [[DATABASE/skill/Survival|Survival]]
 
 ---
 You can survive indefinitely without food or water and can endure severe, extreme, and incredible cold and heat without taking damage from doing so.

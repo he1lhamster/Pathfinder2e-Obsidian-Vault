@@ -5,6 +5,7 @@ item_category: Relics
 name: Against All Odds
 prerequisite: null
 rarity: Common
+rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
@@ -16,7 +17,7 @@ type: Relic Grand Gift
 # Against All Odds<span class="item-type">Grand Gift</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Fortune</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Aspect** luck
 
 ---

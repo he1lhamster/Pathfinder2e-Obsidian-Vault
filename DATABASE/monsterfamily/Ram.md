@@ -3,6 +3,7 @@ creature_family: Ram
 id: '256'
 name: Ram
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Ram
 
-**Source** [[Bestiary 3]]
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
 Rams are sturdy, stubborn herd animals suited to rugged terrain and cold weather. Regardless of their territory, all share a stubborn nature and surefootedness, navigating uncertain terrain with ease and weathering all seasons in scattered herds.
 
 ### Members
 
-[[Ringhorn Ram]] (Creature 0), [[Rosethorn]] (Creature 2)
+[[DATABASE/monster/Ringhorn Ram|Ringhorn Ram]] (Creature 0), [[DATABASE/monster/Rosethorn|Rosethorn]] (Creature 2)
 
 ###  Mindspun Rams
 

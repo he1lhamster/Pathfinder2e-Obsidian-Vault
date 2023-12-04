@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 size: null
@@ -54,9 +55,9 @@ weapon_type: null
 # Hooked<span class="item-type">Item 5</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Conjuration</span><span class="item-trait">Magical</span>
-**Source** [[Kingmaker Companion Guide]]
+**Source** [[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]
 **Price** 140 gp
 **Usage** etched onto a melee weapon; **Bulk** —
 
 ---
-A _hooked weapon_ extends hooks when it's used to attack. A _hooked weapon_ gains the trip trait. If a _hooked weapon_ normally has the trip trait, you can attempt to [[Trip]] a foe as a reaction when you critically hit it with the _hooked weapon_.
+A _hooked weapon_ extends hooks when it's used to attack. A _hooked weapon_ gains the trip trait. If a _hooked weapon_ normally has the trip trait, you can attempt to [[DATABASE/action/Trip|Trip]] a foe as a reaction when you critically hit it with the _hooked weapon_.

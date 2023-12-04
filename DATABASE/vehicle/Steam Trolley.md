@@ -16,6 +16,7 @@ price: 250 gp
 rarity: Rare
 reflex: null
 resistance: null
+rus_type_level: null
 school: null
 size: Large
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
@@ -28,7 +29,7 @@ type: Vehicle
 # Steam Trolley<span class="item-type">Vehicle 4</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-size item-trait">Large</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 250 gp
 
 ---
@@ -37,7 +38,7 @@ A steam trolley is essentially a much bigger steam cart, with a heavier-duty alc
 ---
 **Space** 15 feet long, 10 feet wide, 8 feet high
 **Crew** 1 pilot, 1 crew; **Passengers** 6
-**Piloting Check** [[Lore]] (DC 19) or [[Crafting]] (DC 21)
+**Piloting Check** [[DATABASE/skill/Lore|Driving Lore]] (DC 19) or [[DATABASE/skill/Crafting|Crafting]] (DC 21)
 
 ---
 **AC** 15; **Fort** +11

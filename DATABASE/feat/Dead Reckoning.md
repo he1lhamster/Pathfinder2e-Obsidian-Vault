@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Pathfinder Agent Dedication|Pathfinder Agent Dedi
   ; Trained in [[DATABASE/skill/Survival|Survival]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
 subcategory: null
@@ -26,12 +27,12 @@ type: Feat
 # Dead Reckoning <span class="action-icon">2</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Concentrate</span><span class="item-trait">Skill</span>
-**Source** [[PFS Guide]]
-**Archetype** [[Pathfinder Agent]]
-**Prerequisites** [[Pathfinder Agent Dedication]]; trained in [[Survival]]
+**Source** [[DATABASE/source/PFS Guide|PFS Guide]]
+**Archetype** [[DATABASE/archetype/Pathfinder Agent|Pathfinder Agent]]
+**Prerequisites** [[DATABASE/feat/Pathfinder Agent Dedication|Pathfinder Agent Dedication]]; trained in [[DATABASE/skill/Survival|Survival]]
 
 ---
-You've trained yourself to maintain a strong sense of direction at all times, even when you can't use a [[Compass]] or see the sky above. You immediately intuit which direction is north (assuming the concept of north exists at your current location).
+You've trained yourself to maintain a strong sense of direction at all times, even when you can't use a [[DATABASE/equipment/Compass|compass]] or see the sky above. You immediately intuit which direction is north (assuming the concept of north exists at your current location).
 
 ## Traits
 

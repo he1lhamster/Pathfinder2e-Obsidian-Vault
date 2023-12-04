@@ -11,6 +11,7 @@ name: Warden's Boon
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,11 +24,11 @@ type: Feat
 # Warden's Boon <span class="action-icon">1</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Ranger</span>
-**Source** [[Core Rulebook]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
 By pointing out vulnerabilities, you grant the benefits listed in Hunt Prey and your hunter’s edge benefit to an ally until the end of their next turn. Depending on whether you call out or use gestures, this action gains either the auditory or visual trait.
 
 ## Warden's Boon Leads To...
 
-[[Shared Prey]]
+[[DATABASE/feat/Shared Prey|Shared Prey]]

@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Feyfoul<span class="item-type">Item 1+</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span>
-**Source** [[Kingmaker Companion Guide]]
+**Source** [[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
@@ -64,21 +65,21 @@ To creatures other than fey, the scent of feyfoul seems to be a faint but non-ob
 
 ## Feyfoul (Lesser)<span class="item-type">Item 1</span>
 
-**Source** [[Kingmaker Companion Guide]]
+**Source** [[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]
 **Price** 4 gp
 **Bulk** L
 You gain a +1 item bonus, and the duration is 1 minute.
 
 ## Feyfoul (Moderate)<span class="item-type">Item 8</span>
 
-**Source** [[Kingmaker Companion Guide]]
+**Source** [[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]
 **Price** 90 gp
 **Bulk** L
 You gain a +2 item bonus, and the duration is 1 hour.
 
 ## Feyfoul (Greater)<span class="item-type">Item 14</span>
 
-**Source** [[Kingmaker Companion Guide]]
+**Source** [[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]
 **Price** 750 gp
 **Bulk** L
 You gain a +3 item bonus, and the duration is 8 hours.

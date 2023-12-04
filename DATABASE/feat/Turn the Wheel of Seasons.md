@@ -11,6 +11,7 @@ name: Turn the Wheel of Seasons
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -27,14 +28,14 @@ type: Feat
 # Turn the Wheel of Seasons <span class="action-icon">3</span> <span class="item-type">Feat 18</span>
 
 <span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Overflow</span><span class="item-trait">Primal</span><span class="item-trait">Wood</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
 The seasons shift rapidly. This impulse affects a cube 100 feet in each dimension within 1,000 feet. Choose the starting season. The impulse lasts for 4 rounds, proceeding to the next season at the start of each of your turns. You can't use this impulse again until the previous one ends.
- **Spring** Each ally in the cube gains 20 temporary HP that last until the start of your next turn. Any [[Dying]] ally rolls a recovery check, but can't get worse than a success.
- **Summer** (light) Each enemy in the area is exposed to sunlight and must attempt a Reflex save against your class DC. It's unaffected on a critical success, [[Dazzled]] until the start of your next turn on a success, or [[Blinded]] until the start of your next turn on a failure.
- **Autumn** Leaves and rain make everything in the area [[Concealed]] until the start of your next turn, and a cold wind makes each enemy in the area [[Slowed]] until the start of your next turn unless it succeeds at a Fortitude save against your class DC.
- **Winter** Each enemy in the aura takes 5d6 cold damage with a basic Reflex save against your class DC. A creature that fails its save also takes 2d6 [[Persistent Damage]].
+ **Spring** Each ally in the cube gains 20 temporary HP that last until the start of your next turn. Any [[DATABASE/condition/Dying|dying]] ally rolls a recovery check, but can't get worse than a success.
+ **Summer** (light) Each enemy in the area is exposed to sunlight and must attempt a Reflex save against your class DC. It's unaffected on a critical success, [[DATABASE/condition/Dazzled|dazed]] until the start of your next turn on a success, or [[DATABASE/condition/Blinded|blinded]] until the start of your next turn on a failure.
+ **Autumn** Leaves and rain make everything in the area [[DATABASE/condition/Concealed|concealed]] until the start of your next turn, and a cold wind makes each enemy in the area [[DATABASE/condition/Slowed|slowed 1]] until the start of your next turn unless it succeeds at a Fortitude save against your class DC.
+ **Winter** Each enemy in the aura takes 5d6 cold damage with a basic Reflex save against your class DC. A creature that fails its save also takes 2d6 [[DATABASE/condition/Persistent Damage|persistent cold damage]].
 
 ## Traits
 
@@ -44,7 +45,7 @@ The primary magical actions kineticists use are called impulses. You can use an 
 
 **Overflow:**
 
-Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
+Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[DATABASE/action/Channel Elements|Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
 
 **Primal:**
 

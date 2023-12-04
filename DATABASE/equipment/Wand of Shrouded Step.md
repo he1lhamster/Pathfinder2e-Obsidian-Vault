@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -54,11 +55,11 @@ weapon_type: null
 # Wand of Shrouded Step<span class="item-type">Item 4</span>
 
 <span class="item-trait">Magical</span><span class="item-trait">Transmutation</span><span class="item-trait">Wand</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 80 gp
 **Usage** held in 1 hand; **Bulk** L
 
 ---
 When you move this delicately carved poplar wand, it looks indistinct, leaving a trail of afterimages in its wake.
-**Activate** Cast a Spell **Frequency** once per day, plus overcharge; **Effect** You cast [[Fleet Step]]. For the duration of the spell, you're also [[Concealed]] while you Stride.
+**Activate** Cast a Spell **Frequency** once per day, plus overcharge; **Effect** You cast [[DATABASE/spell/Fleet Step|fleet step]]. For the duration of the spell, you're also [[DATABASE/condition/Concealed|concealed]] while you Stride.
 **Craft Requirements** Supply a casting of _fleet step_.

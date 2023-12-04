@@ -80,25 +80,25 @@ wisdom: '+5'
 # Phantom Knight
 
 Cavaliers and knights who died for their cause make for particularly strong-willed phantoms. Though their motives vary, these phantoms often seek to continue their lifelong missions even in their purgatorial states, and their strong forces of will make them formidable fighters in spite of their incorporeality. A phantom knight might strive to find living followers of their church or order, or seek out other mortals they knew in life as a way of staying grounded and avoiding the corruption of undeath.
-**Recall Knowledge - Ethereal ([[Occultism]])**: DC 21
-**Recall Knowledge - Spirit ([[Occultism]])**: DC 21
+**Recall Knowledge - Ethereal ([[DATABASE/skill/Occultism|Occultism]])**: DC 21
+**Recall Knowledge - Spirit ([[DATABASE/skill/Occultism|Occultism]])**: DC 21
 **Unspecific Lore**: DC 19
 **Specific Lore**: DC 16
 
 # Phantom Knight<span class="item-type">Creature 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">LN</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Ethereal</span><span class="item-trait">Incorporeal</span><span class="item-trait">Phantom</span><span class="item-trait">Spirit</span>
-**Source** [[Bestiary 3]]
-**Perception** +13; [[Darkvision]]
-**Languages** [[Common]]
-**Skills** [[Intimidation]] +12
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
+**Perception** +13; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Intimidation|Intimidation]] +12
 **Str** -5, **Dex** +4, **Con** +0, **Int** +0, **Wis** +5, **Cha** +4
-**Walk the Ethereal Line <span class="action-icon">2</span> ** The phantom walks the thin line between the [[Ethereal Plane]] and [[Material Plane]] in order to exist on both planes simultaneously. They can shift back to solely the Ethereal Plane by using this ability again.
+**Walk the Ethereal Line <span class="action-icon">2</span> ** The phantom walks the thin line between the [[DATABASE/plane/Ethereal Plane|Ethereal]] and [[DATABASE/plane/Material Plane|Material Planes]] in order to exist on both planes simultaneously. They can shift back to solely the Ethereal Plane by using this ability again.
 
 ---
 **AC** 21; **Fort** +8, **Ref** +12, **Will** +13; –1 status penalty to saves vs. death effects
-**HP** 45; **Immunities** disease, [[Paralyzed]], poison, precision; **Resistances** all damage 3 (except force or [[Ghost Touch]]; double resistance vs. non-magical)
-<span class="in-box-ability">**Susceptible to Death** Though phantoms aren't alive, neither are they undead, and they are uniquely vulnerable to the effects of death. A phantom whose Hit Points are reduced to 0 as a result of a death effect (such as from a spell like [[Finger of Death]]) is immediately whisked away to the River of Souls, where their soul resumes the usual path to the afterlife.</span>
+**HP** 45; **Immunities** disease, [[DATABASE/condition/Paralyzed|paralyzed]], poison, precision; **Resistances** all damage 3 (except force or [[DATABASE/equipment/Ghost Touch|ghost touch]]; double resistance vs. non-magical)
+<span class="in-box-ability">**Susceptible to Death** Though phantoms aren't alive, neither are they undead, and they are uniquely vulnerable to the effects of death. A phantom whose Hit Points are reduced to 0 as a result of a death effect (such as from a spell like [[DATABASE/spell/Finger of Death|finger of death]]) is immediately whisked away to the River of Souls, where their soul resumes the usual path to the afterlife.</span>
 
 ---
 **Speed** fly 25 feet

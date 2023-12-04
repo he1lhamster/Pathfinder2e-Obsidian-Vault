@@ -19,6 +19,7 @@ follower_alignment:
 id: '211'
 name: Ydersius
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Deception|Deception]]'
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
@@ -28,7 +29,7 @@ type: Deity
 ---
 # Ydersius [CE]
 
-**Source** [[Bestiary 2]] 
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
 The serpentfolk god is not dead, but in his decapitated state, he might as well be. Reduced to a feral, animalistic existence, Ydersius is even less aware of his legacy than the lowest of the aapoph. Ydersius’s symbol is a snake’s skull surrounded by a skeletal ouroboros.
 **Category** Other Gods
 **Edicts** seek to return Ydersius to life, fulfill your passions, conquer your foes with no mercy, achieve glory for serpentkind
@@ -37,8 +38,8 @@ The serpentfolk god is not dead, but in his decapitated state, he might as well 
 
 ## Devotee Benefits
 
-**Divine Font** _[[Harm]]_
-**Divine Skill** [[Deception]]
-**Favored Weapon** [[Dagger]]
-**Domains** [[Ambition Domain]], [[Indulgence Domain]], [[Might Domain]], [[Zeal Domain]]
-**Cleric Spells** 1st: _[[Magic Fang]]_, 5th: _[[Cloudkill]]_, 6th: _[[Purple Worm Sting]]_
+**Divine Font** _[[DATABASE/spell/Harm|harm]]_
+**Divine Skill** [[DATABASE/skill/Deception|Deception]]
+**Favored Weapon** [[DATABASE/weapon/Dagger|dagger]]
+**Domains** [[DATABASE/domain/Ambition Domain|ambition]], [[DATABASE/domain/Indulgence Domain|indulgence]], [[DATABASE/domain/Might Domain|might]], [[DATABASE/domain/Zeal Domain|zeal]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Magic Fang|magic fang]]_, 5th: _[[DATABASE/spell/Cloudkill|cloudkill]]_, 6th: _[[DATABASE/spell/Purple Worm Sting|purple worm sting]]_

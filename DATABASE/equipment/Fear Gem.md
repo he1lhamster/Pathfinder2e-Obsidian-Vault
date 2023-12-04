@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Enchantment
 size: null
@@ -57,11 +58,11 @@ weapon_type: null
 # Fear Gem<span class="item-type">Item 4</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Enchantment</span><span class="item-trait">Fear</span><span class="item-trait">Magical</span><span class="item-trait">Mental</span><span class="item-trait">Talisman</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 20 gp
 **Usage** affixed to a weapon; **Bulk** —
 **Activate** <span class="action-icon">2</span> Intimidating Strike
 
 ---
-Dark smoke seems to writhe within this obsidian gem. When you activate the gem, you make an [[Intimidating Strike]], as the fighter feat.
+Dark smoke seems to writhe within this obsidian gem. When you activate the gem, you make an [[DATABASE/feat/Intimidating Strike|Intimidating Strike]], as the fighter feat.
  If you have the Intimidating Strike feat, increase the frightened condition value from this Intimidating Strike to frightened 2, or frightened 3 on a critical hit.

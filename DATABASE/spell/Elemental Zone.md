@@ -21,6 +21,7 @@ patron_theme: null
 range: 120 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -38,7 +39,7 @@ type: Spell
 # Elemental Zone<span class="item-type">Spell 2</span>
 
 <span class="item-trait">Evocation</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Traditions** arcane, primal
 **Spell List** elemental
 **Cast** <span class="action-icon">2</span> somatic, verbal
@@ -51,7 +52,7 @@ Select an elemental trait: air, earth, fire, or water. _Elemental zone_ gains th
 
 ### Elemental Spell Changes
 
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
  Add metal (electricity or slashing damage) and wood (bludgeoning or vitality damage) to the choices.
 
 ---

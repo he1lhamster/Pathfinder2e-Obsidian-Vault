@@ -75,16 +75,16 @@ wisdom: '+1'
 # Velociraptor
 
 A smaller cousin of the deinonychus, the velociraptor is a swift, cunning pack hunter. It has no fear of larger creatures, and a group of these dinosaurs won’t hesitate to attack creatures the size of a horse. Velociraptors are social animals, and tend to live in groups of up to a dozen other velociraptors. They have manes of feathery plumage that extend down their backs and along the sides of their arms, legs, and tail, while their underbellies and flanks are scaly. These feathers allow them to blend into their natural terrains with ease, but when excited, attempting to intimidate, or seeking a mate, a velociraptor can puff and frill this plumage to expose much brighter colors normally covered by the longer feathers. A typical velociraptor is 1-1/2 feet tall, 7 feet long, and weighs 35 pounds.
-**Recall Knowledge - Animal ([[Nature]])**: DC 15
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Velociraptor<span class="item-type">Creature 1</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Small</span><span class="item-trait">Animal</span><span class="item-trait">Dinosaur</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +6; low-light vision, scent (imprecise) 30 feet
-**Skills** [[Acrobatics]] +8, [[Athletics]] +5 (+8 jumping), [[Stealth]] +6
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +8, [[DATABASE/skill/Athletics|Athletics]] +5 (+8 jumping), [[DATABASE/skill/Stealth|Stealth]] +6
 **Str** +0, **Dex** +3, **Con** +2, **Int** -4, **Wis** +1, **Cha** +1
 
 ---

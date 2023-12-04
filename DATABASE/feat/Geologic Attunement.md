@@ -11,6 +11,7 @@ name: Geologic Attunement
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -27,10 +28,10 @@ type: Feat
 # Geologic Attunement <span class="action-icon">1</span> <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Earth</span><span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Primal</span><span class="item-trait">Stance</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
-You tune to the earth and stone around you, extending your senses through it in rippling waves. You gain [[Tremorsense]] (imprecise) in your kinetic aura. Once per round, you can [[Point Out]] a creature you can sense with tremorsense as a free action.
+You tune to the earth and stone around you, extending your senses through it in rippling waves. You gain [[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) in your kinetic aura. Once per round, you can [[DATABASE/action/Point Out|Point Out]] a creature you can sense with tremorsense as a free action.
 
 ---
 **Level (13th)** The tremorsense becomes precise.

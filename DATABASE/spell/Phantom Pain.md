@@ -31,6 +31,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -48,10 +49,10 @@ type: Spell
 # Phantom Pain<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Illusion</span><span class="item-trait">Mental</span><span class="item-trait">Nonlethal</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** occult
-**Deities** [[Diomazul]], [[Doloras]], [[Groetus]], [[Shax]], [[Stag Mother of the Forest of Stones]], [[The Godclaw]], [[Vildeis]], [[Zon-Kuthon]]
-**Lesson** [[Lesson of Vengeance]]
+**Deities** [[DATABASE/deity/Diomazul|Diomazul]], [[DATABASE/deity/Doloras|Doloras]], [[DATABASE/deity/Groetus|Groetus]], [[DATABASE/deity/Shax|Shax]], [[DATABASE/deity/Stag Mother of the Forest of Stones|Stag Mother of the Forest of Stones]], [[DATABASE/deity/The Godclaw|The Godclaw]], [[DATABASE/deity/Vildeis|Vildeis]], [[DATABASE/deity/Zon-Kuthon|Zon-Kuthon]]
+**Lesson** [[DATABASE/witchlesson/Lesson of Vengeance|lesson of vengeance]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet; **Targets** 1 creature
 **Saving Throw** Will; **Duration** 1 minute

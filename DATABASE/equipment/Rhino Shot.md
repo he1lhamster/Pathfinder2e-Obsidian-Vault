@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 size: null
@@ -55,10 +56,10 @@ weapon_type: null
 # Rhino Shot<span class="item-type">Item 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Conjuration</span><span class="item-trait">Consumable</span><span class="item-trait">Magical</span>
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 22 gp
 **Ammunition** any; **Bulk** —
 **Activate** <span class="action-icon">1</span> Interact
 
 ---
-This arrow is made of polished animal horn, with the head of a rhinoceros carved in place of a traditional arrowhead. When an activated _rhino shot_ is fired, the ethereal form of a large rhinoceros takes shape around the projectile. On a successful Strike, the attack deals an additional 2d6 force damage, and the target must succeed at a DC 19 Fortitude save or be knocked [[Prone]]. If the hit with the _rhino shot_ was a critical success, the target is knocked prone unless it critically succeeds at its save.
+This arrow is made of polished animal horn, with the head of a rhinoceros carved in place of a traditional arrowhead. When an activated _rhino shot_ is fired, the ethereal form of a large rhinoceros takes shape around the projectile. On a successful Strike, the attack deals an additional 2d6 force damage, and the target must succeed at a DC 19 Fortitude save or be knocked [[DATABASE/condition/Prone|prone]]. If the hit with the _rhino shot_ was a critical success, the target is knocked prone unless it critically succeeds at its save.

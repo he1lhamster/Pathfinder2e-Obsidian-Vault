@@ -80,17 +80,17 @@ wisdom: '+3'
 # Winter Wolf
 
 Winter wolves are related to wargs, but are larger, smarter, and far more dangerous. They are capable of exhaling plumes of freezing breath and are big enough to easily serve as mounts for orcs and hobgoblins—provided the winter wolf is willing, of course. Like wargs, winter wolves hunt in packs, but unlike their smaller cousins, they have a notable proud streak. When they deign to serve others, they reserve this privilege for larger and more dangerous creatures such as frost giants, renegade yetis, or even white dragons.
-**Recall Knowledge - Beast ([[Arcana]], [[Nature]])**: DC 20
+**Recall Knowledge - Beast ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 20
 **Unspecific Lore**: DC 18
 **Specific Lore**: DC 15
 
 # Winter Wolf<span class="item-type">Creature 5</span>
 
 <span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Beast</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +14; darkvision, scent (imprecise) 30 feet
-**Languages** [[Common]], [[Jotun]]
-**Skills** [[Acrobatics]] +13, [[Athletics]] +13, [[Deception]] +11, [[Intimidation]] +11, [[Stealth]] +13 (+16 in snow), [[Survival]] +12
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Jotun|Jotun]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +13, [[DATABASE/skill/Athletics|Athletics]] +13, [[DATABASE/skill/Deception|Deception]] +11, [[DATABASE/skill/Intimidation|Intimidation]] +11, [[DATABASE/skill/Stealth|Stealth]] +13 (+16 in snow), [[DATABASE/skill/Survival|Survival]] +12
 **Str** +6, **Dex** +4, **Con** +4, **Int** +2, **Wis** +3, **Cha** +2
 
 ---

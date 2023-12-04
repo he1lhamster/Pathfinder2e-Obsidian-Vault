@@ -11,6 +11,7 @@ name: Shed Tail
 prerequisite: '[[DATABASE/feat/Tail Whip|Tail Whip]]'
 rarity: Common
 requirement: You have a fully grown tail.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Shed Tail <span class="action-icon">5</span> <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Lizardfolk</span>
-**Source** [[Character Guide]] 
-**Prerequisites** [[Tail Whip]]
-**Trigger** You become [[Grabbed]].
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
+**Prerequisites** [[DATABASE/feat/Tail Whip|Tail Whip]]
+**Trigger** You become [[DATABASE/condition/Grabbed|grabbed]].
 **Requirements** You have a fully grown tail.
 
 ---

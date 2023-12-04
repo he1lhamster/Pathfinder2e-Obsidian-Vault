@@ -2,6 +2,7 @@
 id: '208'
 name: Sky King's Tomb Player's Guide
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -16,4 +17,4 @@ type: Source
 
 ## Backgrounds [6]
 
-[[Child of Notoriety]], [[Clan Associate]], [[Conservator]], [[Dedicated Delver]], [[Eclectic Scholar]], [[Historical Reeanactor]]
+[[DATABASE/background/Child of Notoriety|Child of Notoriety]], [[DATABASE/background/Clan Associate|Clan Associate]], [[DATABASE/background/Conservator|Conservator]], [[DATABASE/background/Dedicated Delver|Dedicated Delver]], [[DATABASE/background/Eclectic Scholar|Eclectic Scholar]], [[DATABASE/background/Historical Reeanactor|Historical Reeanactor]]

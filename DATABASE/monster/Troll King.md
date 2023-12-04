@@ -84,10 +84,10 @@ Some trolls have learned the skills necessary to survive well beyond the typical
 # Troll King<span class="item-type">Creature 10</span>
 
 <span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Giant</span><span class="item-trait">Troll</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +19; darkvision
-**Languages** [[Jotun]]
-**Skills** [[Athletics]] +21, [[Intimidation]] +22, [[Survival]] +17
+**Languages** [[DATABASE/language/Jotun|Jotun]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +21, [[DATABASE/skill/Intimidation|Intimidation]] +22, [[DATABASE/skill/Survival|Survival]] +17
 **Str** +7, **Dex** +3, **Con** +7, **Int** -1, **Wis** +1, **Cha** +4
 
 ---
@@ -101,4 +101,4 @@ Some trolls have learned the skills necessary to survive well beyond the typical
 **Critical Success** The creature is unaffected.
 **Success** The creature is frightened 1.
 **Failure** The creature is frightened 2.
-**Critical Failure** The creature is frightened 3.</span><span class="in-box-ability">**[[Rend]]** <span class="action-icon">1</span> claw</span><span class="in-box-ability">**Unstoppable Charge** <span class="action-icon">3</span> The troll king Strides twice in a straight line. It can make up to two claw Strikes during this movement and one jaws Strike at the end of its movement. It can’t Strike the same creature more than once.</span>
+**Critical Failure** The creature is frightened 3.</span><span class="in-box-ability">**[[DATABASE/monsterability/Rend|Rend]]** <span class="action-icon">1</span> claw</span><span class="in-box-ability">**Unstoppable Charge** <span class="action-icon">3</span> The troll king Strides twice in a straight line. It can make up to two claw Strikes during this movement and one jaws Strike at the end of its movement. It can’t Strike the same creature more than once.</span>

@@ -3,6 +3,7 @@ creature_family: Grim Reaper
 id: '104'
 name: Grim Reaper
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Grim Reaper
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 _This entry did not have a separate description for the family._
 
 ### Members
 
-[[Grim Reaper]] (Creature 21), [[Lesser Death]] (Creature 16)
+[[DATABASE/monster/Grim Reaper|Grim Reaper]] (Creature 21), [[DATABASE/monster/Lesser Death|Lesser Death]] (Creature 16)
 
 ###  Dead Man's Hand
 

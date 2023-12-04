@@ -2,6 +2,7 @@
 id: '197'
 name: Stolen Fate Player's Guide
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -16,28 +17,28 @@ type: Source
 
 ## Archetypes [1]
 
-[[Harrower]]
+[[DATABASE/archetype/Harrower|Harrower]]
 
 ## Backgrounds [6]
 
-[[Bookish Providence]], [[Crown of Chaos]], [[Hammered by Fate]], [[Keys to Destiny]], [[Shielded Fortune]], [[Writ in the Stars]]
+[[DATABASE/background/Bookish Providence|Bookish Providence]], [[DATABASE/background/Crown of Chaos|Crown of Chaos]], [[DATABASE/background/Hammered by Fate|Hammered by Fate]], [[DATABASE/background/Keys to Destiny|Keys to Destiny]], [[DATABASE/background/Shielded Fortune|Shielded Fortune]], [[DATABASE/background/Writ in the Stars|Writ in the Stars]]
 
 ## Bloodlines [1]
 
-[[Harrow]]
+[[DATABASE/sorcererbloodline/Harrow|Harrow]]
 
 ## Equipment [4]
 
-[[The Brass Dwarf]], [[The Empty Throne]], [[The Paladin]], [[The Rabbit Prince]]
+[[DATABASE/equipment/The Brass Dwarf|The Brass Dwarf]], [[DATABASE/equipment/The Empty Throne|The Empty Throne]], [[DATABASE/equipment/The Paladin|The Paladin]], [[DATABASE/equipment/The Rabbit Prince|The Rabbit Prince]]
 
 ## Feats [8]
 
-[[Benevolent Spirit Deck]], [[Experienced Harrower]], [[Harrow Casting]], [[Harrow Ritualist]], [[Harrower Dedication]], [[Reading the Signs]], [[Restore Omen]], [[Vengeful Spirit Deck]]
+[[DATABASE/feat/Benevolent Spirit Deck|Benevolent Spirit Deck]], [[DATABASE/feat/Experienced Harrower|Experienced Harrower]], [[DATABASE/feat/Harrow Casting|Harrow Casting]], [[DATABASE/feat/Harrow Ritualist|Harrow Ritualist]], [[DATABASE/feat/Harrower Dedication|Harrower Dedication]], [[DATABASE/feat/Reading the Signs|Reading the Signs]], [[DATABASE/feat/Restore Omen|Restore Omen]], [[DATABASE/feat/Vengeful Spirit Deck|Vengeful Spirit Deck]]
 
 ## Rituals [1]
 
-[[Harrowing]]
+[[DATABASE/ritual/Harrowing|Harrowing]]
 
 ## Spells [3]
 
-[[Invoke the Harrow]], [[Rewrite Possibility]], [[Unraveling Blast]]
+[[DATABASE/spell/Invoke the Harrow|Invoke the Harrow]], [[DATABASE/spell/Rewrite Possibility|Rewrite Possibility]], [[DATABASE/spell/Unraveling Blast|Unraveling Blast]]

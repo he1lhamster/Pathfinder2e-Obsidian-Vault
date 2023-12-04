@@ -2,6 +2,7 @@
 id: '6'
 name: Dart
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait: null
 type: Weapon Critical Specialization
@@ -9,6 +10,6 @@ type: Weapon Critical Specialization
 ---
 # Dart
 
-**Source** [[Core Rulebook]] 
-The target takes 1d6 [[Persistent Damage]]. You gain an item bonus to this bleed damage equal to the weapon's item bonus to attack rolls.
-**Weapons** [[Atlatl]], [[Blowgun]], [[Blowgun Darts]], [[Chakri]], [[Dart]], [[Dart Umbrella]], [[Harpoon]], [[Javelin]], [[Rope Dart]], [[Shuriken]], [[Stiletto Pen]], [[Tamchal Chakram]], [[Wrist Launcher]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+The target takes 1d6 [[DATABASE/condition/Persistent Damage|persistent bleed damage]]. You gain an item bonus to this bleed damage equal to the weapon's item bonus to attack rolls.
+**Weapons** [[DATABASE/weapon/Atlatl|Atlatl]], [[DATABASE/weapon/Blowgun|Blowgun]], [[DATABASE/weapon/Blowgun Darts|Blowgun Darts]], [[DATABASE/weapon/Chakri|Chakri]], [[DATABASE/weapon/Dart|Dart]], [[DATABASE/weapon/Dart Umbrella|Dart Umbrella]], [[DATABASE/weapon/Harpoon|Harpoon]], [[DATABASE/weapon/Javelin|Javelin]], [[DATABASE/weapon/Rope Dart|Rope Dart]], [[DATABASE/weapon/Shuriken|Shuriken]], [[DATABASE/weapon/Stiletto Pen|Stiletto Pen]], [[DATABASE/weapon/Tamchal Chakram|Tamchal Chakram]], [[DATABASE/weapon/Wrist Launcher|Wrist Launcher]]

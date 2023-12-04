@@ -11,6 +11,7 @@ name: Skirmish Strike
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -25,8 +26,8 @@ type: Feat
 # Skirmish Strike <span class="action-icon">1</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Flourish</span><span class="item-trait">Ranger</span><span class="item-trait">Rogue</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Drow Shootist]]*
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Drow Shootist|Drow Shootist]]*
 * This archetype offers Skirmish Strike at a different level than displayed here.
 
 ---

@@ -2,6 +2,7 @@
 id: '135'
 name: Wishes in Krasnoprudny
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source

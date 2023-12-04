@@ -5,6 +5,7 @@ id: '1'
 level: '1'
 name: Infantry Army
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - '[[DATABASE/trait/Infantry|Infantry]]'
@@ -14,7 +15,7 @@ type: Warfare Army
 # Infantry Army<span class="item-type">Army 1</span>
 
 <span class="item-trait">Infantry</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 **Scouting** +7
 **Recruitment** 15; **Consumption** 1
 This is a platoon of armored soldiers armed with melee weapons.

@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -52,7 +53,7 @@ weapon_type: null
 # Dragonhide Shield<span class="item-type">Item 8+</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** varies by shield; **Bulk** —
 
 ---
@@ -60,23 +61,22 @@ Dragonhide shields are each immune to one damage type based on the type of drago
 
 ## Dragonhide Resistance
 
-| Dragon Type         | Resistance   |
-|:--------------------|:-------------|
-| Black or copper     | Acid         |
-| Blue or bronze      | Electricity  |
-| Brass, gold, or red | Fire         |
-| Green               | Poison       |
-| Silver or white     | Cold         |
-
-.
+| 0 | 1 |
+|:--------------------|:------------|
+| Dragon Type | Resistance |
+| Black or copper | Acid |
+| Blue or bronze | Electricity |
+| Brass, gold, or red | Fire |
+| Green | Poison |
+| Silver or white | Cold |.
 
 ### Base Material
 
-[[Dragonhide]]
+[[DATABASE/equipment/Dragonhide|Dragonhide]]
 
 ## Dragonhide Buckler (Standard-Grade)<span class="item-type">Item 8</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 400 gp
 **Bulk** L
 The shield has Hardness 2, HP 8, and BT 4.
@@ -84,7 +84,7 @@ The shield has Hardness 2, HP 8, and BT 4.
 
 ## Dragonhide Shield (Standard-Grade)<span class="item-type">Item 8</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 440 gp
 **Bulk** 1
 The shield has Hardness 4, HP 16, and BT 8.
@@ -92,7 +92,7 @@ The shield has Hardness 4, HP 16, and BT 8.
 
 ## Dragonhide Buckler (High-Grade)<span class="item-type">Item 16</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 8,000 gp
 **Bulk** L
 The shield has Hardness 5, HP 20, and BT 10.
@@ -100,7 +100,7 @@ The shield has Hardness 5, HP 20, and BT 10.
 
 ## Dragonhide Shield (High-Grade)<span class="item-type">Item 16</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 8,800 gp
 **Bulk** 1
 The shield has Hardness 7, HP 28, and BT 14.

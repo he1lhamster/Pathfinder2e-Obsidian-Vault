@@ -16,6 +16,7 @@ price: 15 gp
 rarity: Uncommon
 reflex: null
 resistance: null
+rus_type_level: null
 school: null
 size: Large
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
@@ -28,13 +29,13 @@ type: Vehicle
 # Glider<span class="item-type">Vehicle 0</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-size item-trait">Large</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Price** 15 gp
 
 ---
 **Space** 5 long, 10 feet wide, 2 feet high
 **Crew** 1 pilot
-**Piloting Check** [[Lore]] (DC 14) or [[Nature]] (DC 16)
+**Piloting Check** [[DATABASE/skill/Lore|Piloting Lore]] (DC 14) or [[DATABASE/skill/Nature|Nature]] (DC 16)
 
 ---
 **AC** 10; **Fort** +6

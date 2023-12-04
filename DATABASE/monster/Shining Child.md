@@ -109,17 +109,17 @@ Shining children are wicked, enigmatic monsters that roam remote planes and untr
  Because of their reputation as scholars of the alien and the eldritch, shining children are sometimes summoned by powerful wizards or occultists in search of rare knowledge. The creatures never give away their lore without some price, though, and typically demand in return the performance of contemptible deeds that further their inscrutable, far-ranging plans.
  These mysterious beings are natives of the Astral Plane. In that vast plane, accretions of metaphysical matter gradually accumulate and eventually coalesce into demiplanes. During this tumultuous process, sparks of living light sometimes shear off the newly formed planes, and these sparks of raw planar energy somehow transform into shining children. Every newly formed demiplane leaves a different mental imprint on its shining “offspring,” making it easy for shining children to telepathically recognize their brothers and sisters. Forever trapped in apparently adolescent bodies, shining children dedicate themselves to scholarship and violence with equal measure in a futile effort to understand their roles in the multiverse and the burning injustice of their births.
  Shining children confuse most other creatures with their refusal to use individual names in favor of alternating between referring to each other singularly and collectively.
-**Recall Knowledge - Astral ([[Occultism]])**: DC 30
+**Recall Knowledge - Astral ([[DATABASE/skill/Occultism|Occultism]])**: DC 30
 **Unspecific Lore**: DC 28
 **Specific Lore**: DC 25
 
 # Shining Child<span class="item-type">Creature 12</span>
 
 <span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Astral</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +23; darkvision
-**Languages** [[Aklo]]; telepathy 120 feet
-**Skills** [[Arcana]] +18, [[Deception]] +23, [[Diplomacy]] +21, [[Intimidation]] +21, [[Occultism]] +18
+**Languages** [[DATABASE/language/Aklo|Aklo]]; telepathy 120 feet
+**Skills** [[DATABASE/skill/Arcana|Arcana]] +18, [[DATABASE/skill/Deception|Deception]] +23, [[DATABASE/skill/Diplomacy|Diplomacy]] +21, [[DATABASE/skill/Intimidation|Intimidation]] +21, [[DATABASE/skill/Occultism|Occultism]] +18
 **Str** +2, **Dex** +5, **Con** +6, **Int** +2, **Wis** +5, **Cha** +7
 **Radiance Dependence** The shining child is flat-footed while in areas of darkness.
 
@@ -130,7 +130,7 @@ Shining children are wicked, enigmatic monsters that roam remote planes and untr
 
 ---
 **Speed** 30 feet, fly 50 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +25 [+21/+17] (agile, finesse, magical), **Damage** 3d4+5 bludgeoning plus 4d6 fire and 2d4 persistent fire</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> fire ray +25 [+20/+15] (arcane, evocation, magical, range 100 feet), **Damage** 3d10+3 fire, plus 2d10 positive damage if the target is undead</span>**Occult Innate Spells** DC 33; **7th** _[[Spell Turning]]_, _[[Sunburst]]_; **6th** _[[Dispel Magic]]_, _[[Vibrant Pattern]]_, _[[Wall of Force]]_; **5th** _[[Dimension Door]]_, _[[False Vision]]_, _[[Hallucinatory Terrain]]_; **4th** _[[Dimension Door]]_ (at will; self only); **2nd** _[[Illusory Object]]_ (at will); **Cantrips** **(6th)** _[[Light]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +25 [+21/+17] (agile, finesse, magical), **Damage** 3d4+5 bludgeoning plus 4d6 fire and 2d4 persistent fire</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> fire ray +25 [+20/+15] (arcane, evocation, magical, range 100 feet), **Damage** 3d10+3 fire, plus 2d10 positive damage if the target is undead</span>**Occult Innate Spells** DC 33; **7th** _[[DATABASE/spell/Spell Turning|spell turning]]_, _[[DATABASE/spell/Sunburst|sunburst]]_; **6th** _[[DATABASE/spell/Dispel Magic|dispel magic]]_, _[[DATABASE/spell/Vibrant Pattern|vibrant pattern]]_, _[[DATABASE/spell/Wall of Force|wall of force]]_; **5th** _[[DATABASE/spell/Dimension Door|dimension door]]_, _[[DATABASE/spell/False Vision|false vision]]_, _[[DATABASE/spell/Hallucinatory Terrain|hallucinatory terrain]]_; **4th** _[[DATABASE/spell/Dimension Door|dimension door]]_ (at will; self only); **2nd** _[[DATABASE/spell/Illusory Object|illusory object]]_ (at will); **Cantrips** **(6th)** _[[DATABASE/spell/Light|light]]_
 
 ###  Ancient Guardians
 

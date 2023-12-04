@@ -89,16 +89,16 @@ wisdom: '+4'
 Amelekanas are amphibious ambush predators native to rivers and lakes across Castrovel. An amelekana looks similar to a giant snail, with an opalescent spiraling shell and eyeless face sporting a crown of six antennae, but that's where the resemblance ends. Instead of one giant foot, the amelekana has fleshy tubes standing upright through holes in its shell and a host of tiny armored legs, like those of a crab. Yet perhaps the most unusual feature of the amelekana is that it's actually a symbiotic community of two separate organisms, neither of which can live without the other.
  Like many creatures on Castrovel, amelekanas have some basic psychic ability—in their case, a sense for nearby living creatures. A hunting amelekana submerges itself to obscure its location. When prey draws near, the amelekana rises from the water and releases compressed gasses to launch its symbiotes—blobby amoebas the size of a bread loaf—at their victims. These amoebas act as external digesters for the stomachless amelekana, using their acidic coating to dissolve prey and absorb nutrition. Once its amoebas have had their fill, the amelekana slurps them back up, providing the amoeba colony with a safe haven inside its body in exchange for a portion of the processed nutrients.
  A typical amelekana is 9 feet long and weighs up to 2,000 pounds.
-**Recall Knowledge - Beast ([[Arcana]], [[Nature]])**: DC 21
+**Recall Knowledge - Beast ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 21
 **Unspecific Lore**: DC 19
 **Specific Lore**: DC 16
 
 # Amelekana<span class="item-type">Creature 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Amphibious</span><span class="item-trait">Beast</span>
-**Source** [[Pathfinder 187. The Seventh Arch]]
-**Perception** +14; [[Lifesense]] 100 feet
-**Skills** [[Acrobatics]] +10, [[Athletics]] +10, [[Stealth]] +12, [[Survival]] +12
+**Source** [[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh Arch]]
+**Perception** +14; [[DATABASE/monsterability/Lifesense|lifesense]] 100 feet
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +10, [[DATABASE/skill/Athletics|Athletics]] +10, [[DATABASE/skill/Stealth|Stealth]] +12, [[DATABASE/skill/Survival|Survival]] +12
 **Str** +5, **Dex** +1, **Con** +4, **Int** -3, **Wis** +4, **Cha** +0
 
 ---

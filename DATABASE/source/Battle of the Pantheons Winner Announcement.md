@@ -2,6 +2,7 @@
 id: '42'
 name: Battle of the Pantheons Winner Announcement
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -15,4 +16,4 @@ type: Source
 
 ## Deities [1]
 
-[[The Path of the Heavens]]
+[[DATABASE/deity/The Path of the Heavens|The Path of the Heavens]]

@@ -23,6 +23,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: basicReflex
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -40,9 +41,9 @@ type: Spell
 # Cone of Cold<span class="item-type">Spell 5</span>
 
 <span class="item-trait">Cold</span><span class="item-trait">Evocation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, primal
-**Deities** [[Alglenweis]], [[Kostchtchie]]
+**Deities** [[DATABASE/deity/Alglenweis|Alglenweis]], [[DATABASE/deity/Kostchtchie|Kostchtchie]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Area** 60-foot cone
 **Saving Throw** basic Reflex

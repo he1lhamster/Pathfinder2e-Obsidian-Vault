@@ -11,6 +11,7 @@ name: Metal-Veined Strikes
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,13 +24,13 @@ type: Feat
 # Metal-Veined Strikes <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Oread</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-Metallic veins grow throughout your body, giving your unarmed attacks a metallic sheen. Choose either [[Cold Iron Weapon]] or [[Silver Weapon]]. Your unarmed attacks are treated as the chosen type of metal.
+Metallic veins grow throughout your body, giving your unarmed attacks a metallic sheen. Choose either [[DATABASE/equipment/Cold Iron Weapon|cold iron]] or [[DATABASE/equipment/Silver Weapon|silver]]. Your unarmed attacks are treated as the chosen type of metal.
 
 ## Traits
 
 **Oread:**
 
-Oreads are planar scions descended from [[Shaitan]].
+Oreads are planar scions descended from [[DATABASE/monster/Shaitan|shaitans]].

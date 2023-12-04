@@ -78,17 +78,17 @@ wisdom: '+1'
 ---
 # Bloodseeker Swarm
 
-The Court of Ether release the less useful, smaller breed of bloodseekers into the Endless Gulf, where they form into dangerous swarms of the insatiable devourers. This has lead to a dangerous new game, Seek-a-Bang, where fey mounted on giant bloodseekers throw [[Thunderstone]] at swarms of their mounts' smaller cousins and see how many they can kill with a single throw. So far, the fatalities are few enough to be acceptable.
-**Recall Knowledge - Animal ([[Nature]])**: DC 20
+The Court of Ether release the less useful, smaller breed of bloodseekers into the Endless Gulf, where they form into dangerous swarms of the insatiable devourers. This has lead to a dangerous new game, Seek-a-Bang, where fey mounted on giant bloodseekers throw [[DATABASE/equipment/Thunderstone|thunderstones]] at swarms of their mounts' smaller cousins and see how many they can kill with a single throw. So far, the fatalities are few enough to be acceptable.
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 20
 **Unspecific Lore**: DC 18
 **Specific Lore**: DC 15
 
 # Bloodseeker Swarm<span class="item-type">Creature 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Animal</span><span class="item-trait">Swarm</span>
-**Source** [[Pathfinder 194. Cult of the Cave Worm]]
-**Perception** +8; [[Darkvision]], [[Scent]] (imprecise) 60 feet
-**Skills** [[Acrobatics]] +12, [[Stealth]] +12
+**Source** [[DATABASE/source/Pathfinder 194. Cult of the Cave Worm|Pathfinder #194: Cult of the Cave Worm]]
+**Perception** +8; [[DATABASE/monsterability/Darkvision|darkvision]], [[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +12, [[DATABASE/skill/Stealth|Stealth]] +12
 **Str** -3, **Dex** +5, **Con** +1, **Int** -5, **Wis** +1, **Cha** -2
 
 ---
@@ -97,4 +97,4 @@ The Court of Ether release the less useful, smaller breed of bloodseekers into t
 
 ---
 **Speed** 10 feet, fly 30 feet
-<span class="in-box-ability">**Blood Draining Bites** <span class="action-icon">1</span> Each creature in the swarm's space takes 1d6 piercing damage plus 1d6 [[Persistent Damage]] and is [[Drained]]. A successful DC 20 Reflex save reduces the piercing damage by half and negates the bleed damage and drained condition.</span>
+<span class="in-box-ability">**Blood Draining Bites** <span class="action-icon">1</span> Each creature in the swarm's space takes 1d6 piercing damage plus 1d6 [[DATABASE/condition/Persistent Damage|persistent bleed damage]] and is [[DATABASE/condition/Drained|drained 1]]. A successful DC 20 Reflex save reduces the piercing damage by half and negates the bleed damage and drained condition.</span>

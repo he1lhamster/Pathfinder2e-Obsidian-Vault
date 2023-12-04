@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Eldritch Researcher Dedication|Eldritch Researche
   Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 164. Hands of the Devil|Pathfinder #164: Hands
   of the Devil]]'
@@ -25,12 +26,12 @@ type: Feat
 # Know it All <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Pathfinder 164. Hands of the Devil]]
-**Archetype** [[Eldritch Researcher]]
-**Prerequisites** [[Eldritch Researcher Dedication]]
+**Source** [[DATABASE/source/Pathfinder 164. Hands of the Devil|Pathfinder #164: Hands of the Devil]]
+**Archetype** [[DATABASE/archetype/Eldritch Researcher|Eldritch Researcher]]
+**Prerequisites** [[DATABASE/feat/Eldritch Researcher Dedication|Eldritch Researcher Dedication]]
 
 ---
-Your knowledge of abstruse topics is unparalleled. When you succeed at a check to [[Recall Knowledge]], you gain additional information or context. When you critically succeed at a Knowledge check, at the GM's discretion you might gain even more additional information or context than normal.
+Your knowledge of abstruse topics is unparalleled. When you succeed at a check to [[DATABASE/action/Recall Knowledge|Recall Knowledge]], you gain additional information or context. When you critically succeed at a Knowledge check, at the GM's discretion you might gain even more additional information or context than normal.
 
 ## Traits
 

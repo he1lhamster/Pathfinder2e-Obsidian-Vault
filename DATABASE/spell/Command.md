@@ -21,6 +21,7 @@ patron_theme: '[[DATABASE/witchpatron/Fervor|Fervor]] , [[DATABASE/witchpatron/P
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -41,9 +42,9 @@ type: Spell
 # Command<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Auditory</span><span class="item-trait">Enchantment</span><span class="item-trait">Linguistic</span><span class="item-trait">Mental</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, divine, occult
-**Patron Themes** [[Fervor]], [[Pacts]]
+**Patron Themes** [[DATABASE/witchpatron/Fervor|fervor]], [[DATABASE/witchpatron/Pacts|pacts]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet; **Targets** 1 creature
 **Saving Throw** Will; **Duration** until the end of the target's next turn

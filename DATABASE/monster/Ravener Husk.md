@@ -80,23 +80,23 @@ wisdom: '+4'
 # Ravener Husk
 
 Raveners require a steady diet of souls, and a ravener that's unable to feed for too long eventually cannibalizes their own soul. Should a ravener's soul ward ever be reduced to 0 Hit Points by hunger while the ravener has more than 1 Hit Point (see Soul Ward), they lose all traces of their former identity and descend into a feral, nearly mindless state. Even if a ravener husk later consumes soul energy, the transformation can be reversed only via Ravenous Repast.
-**Recall Knowledge - Dragon ([[Arcana]])**: DC 37
-**Recall Knowledge - Undead ([[Religion]])**: DC 37
+**Recall Knowledge - Dragon ([[DATABASE/skill/Arcana|Arcana]])**: DC 37
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 37
 **Unspecific Lore**: DC 35
 **Specific Lore**: DC 32
 
 # Ravener Husk<span class="item-type">Creature 14</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Gargantuan</span><span class="item-trait">Dragon</span><span class="item-trait">Undead</span>
-**Source** [[Bestiary 2]] 
-**Perception** +26; [[Darkvision]], soulsense 60 feet
-**Skills** [[Acrobatics]] +22, [[Athletics]] +28
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +26; [[DATABASE/monsterability/Darkvision|darkvision]], soulsense 60 feet
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +22, [[DATABASE/skill/Athletics|Athletics]] +28
 **Str** +8, **Dex** +0, **Con** +6, **Int** -5, **Wis** +4, **Cha** +4
 
 ---
 **AC** 35; **Fort** +28, **Ref** +22, **Will** +26
-**HP** 325; **Immunities** death effects, disease, [[Paralyzed]], poison, sleep; **Weaknesses** good 10
-<span class="in-box-ability">**[[Frightful Presence]]** (aura, emotion, fear, mental) 90 feet, DC 31</span><span class="in-box-ability">**Boneshatter <span class="action-icon">5</span> ** **Trigger** The ravener husk takes any amount of bludgeoning damage; **Effect** The ravener's brittle bones shatter, spraying bone shards everywhere. Every creature within a 10-foot emanation of the ravener husk takes 7d6 piercing damage (DC 31 basic Reflex save).</span>
+**HP** 325; **Immunities** death effects, disease, [[DATABASE/condition/Paralyzed|paralyzed]], poison, sleep; **Weaknesses** good 10
+<span class="in-box-ability">**[[DATABASE/monsterability/Frightful Presence|Frightful Presence]]** (aura, emotion, fear, mental) 90 feet, DC 31</span><span class="in-box-ability">**Boneshatter <span class="action-icon">5</span> ** **Trigger** The ravener husk takes any amount of bludgeoning damage; **Effect** The ravener's brittle bones shatter, spraying bone shards everywhere. Every creature within a 10-foot emanation of the ravener husk takes 7d6 piercing damage (DC 31 basic Reflex save).</span>
 
 ---
 **Speed** 60 feet, fly 180 feet

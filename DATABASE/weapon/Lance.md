@@ -12,6 +12,7 @@ name: Lance
 price: 1 gp
 range: null
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Deadly|Deadly d8]]'
@@ -26,10 +27,10 @@ weapon_type: Melee
 # Lance
 
 <span class="item-trait">Deadly d8</span><span class="item-trait">Jousting 1d6</span><span class="item-trait">Reach</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 1 gp; **Damage** 1d8 P; **Bulk** 2
 **Hands** 2
-**Type** Melee; **Category** Martial; **Group** [[Spear]]
+**Type** Melee; **Category** Martial; **Group** [[DATABASE/weapongroup/Spear|Spear]]
 
 ---
 This spear-like weapon is used by a mounted creature to deal a great deal of damage.
@@ -38,7 +39,7 @@ This spear-like weapon is used by a mounted creature to deal a great deal of dam
 
 **Deadly d8:**
 
-On a critical hit, the weapon adds a weapon damage die of the listed size. Roll this after doubling the weapon's damage. This increases to two dice if the weapon has a _greater striking rune_ and three dice if the weapon has a _major striking rune_. For instance, a [[Rapier]] with a _greater striking rune_ deals 2d8 extra piercing damage on a critical hit. An ability that changes the size of the weapon's normal damage dice doesn't change the size of its deadly die.
+On a critical hit, the weapon adds a weapon damage die of the listed size. Roll this after doubling the weapon's damage. This increases to two dice if the weapon has a _greater striking rune_ and three dice if the weapon has a _major striking rune_. For instance, a [[DATABASE/weapon/Rapier|rapier]] with a _greater striking rune_ deals 2d8 extra piercing damage on a critical hit. An ability that changes the size of the weapon's normal damage dice doesn't change the size of its deadly die.
 
 **Jousting 1d6:**
 
@@ -50,10 +51,10 @@ Natural attacks with this trait can be used to attack creatures up to the listed
 
 ## Critical Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
-**Spear**: The weapon pierces the target, weakening its attacks. The target is [[Clumsy]] until the start of your next turn.
+**Spear**: The weapon pierces the target, weakening its attacks. The target is [[DATABASE/condition/Clumsy|clumsy 1]] until the start of your next turn.
 
 ## Specific Magic Weapons
 
-[[Alicorn Lance]], [[Blast Lance]], [[Knight Captain's Lance]], [[Radiant Lance]]
+[[DATABASE/equipment/Alicorn Lance|Alicorn Lance]], [[DATABASE/equipment/Blast Lance|Blast Lance]], [[DATABASE/equipment/Knight Captain's Lance|Knight Captain's Lance]], [[DATABASE/equipment/Radiant Lance|Radiant Lance]]

@@ -13,6 +13,7 @@ prerequisite: Expert in [[DATABASE/skill/Arcana|Arcana]] , Expert in [[DATABASE/
   ; [[DATABASE/feat/Vigilante Dedication|VigilanteDedication]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -26,12 +27,12 @@ type: Feat
 # Hidden Magic <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Skill</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Vigilante]]
-**Prerequisites** expert in [[Arcana]], [[Nature]], [[Occultism]], or [[Religion]]; [[Vigilante Dedication]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Vigilante|Vigilante]]
+**Prerequisites** expert in [[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]], [[DATABASE/skill/Occultism|Occultism]], or [[DATABASE/skill/Religion|Religion]]; [[DATABASE/feat/Vigilante Dedication|Vigilante Dedication]]
 
 ---
-You've learned to hide the magical auras of your gear. During your daily preparations, you carefully tweak any or all of your magic items to appear non-magical. Objects adjusted in this way remain so until your next preparations. A spellcaster using [[Detect Magic]] or [[Read Aura]] must succeed at a Perception check against your [[Deception]] DC to see through your obfuscations.
+You've learned to hide the magical auras of your gear. During your daily preparations, you carefully tweak any or all of your magic items to appear non-magical. Objects adjusted in this way remain so until your next preparations. A spellcaster using [[DATABASE/spell/Detect Magic|detect magic]] or [[DATABASE/spell/Read Aura|read aura]] must succeed at a Perception check against your [[DATABASE/skill/Deception|Deception]] DC to see through your obfuscations.
 
 ## Traits
 

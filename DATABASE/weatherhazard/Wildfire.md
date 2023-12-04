@@ -5,6 +5,7 @@ level: '4'
 name: Wildfire
 rarity: Common
 requirement: null
+rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 trait:
 - '[[DATABASE/trait/Weather|Weather]]'
@@ -14,12 +15,12 @@ type: Weather Hazard
 # Wildfire<span class="item-type">Hazard 4+</span>
 
 <span class="item-trait">Weather</span>
-**Source** [[Kingmaker Companion Guide]]
+**Source** [[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]
 **Survival** DC 22 (trained)
-**Description** A fire spreads through the region, be it one accidentally started by a poorly maintained campfire, deliberate arson, a lightning strike, or from a supernatural source like a creature's fiery breath or a fire spell being cast by a bandit in the region. Wildfires cannot occur during [[Heavy Downpour]] or [[Blizzard]], and if such an event starts in the area, it brings an existing wildfire to an end.
+**Description** A fire spreads through the region, be it one accidentally started by a poorly maintained campfire, deliberate arson, a lightning strike, or from a supernatural source like a creature's fiery breath or a fire spell being cast by a bandit in the region. Wildfires cannot occur during [[DATABASE/weatherhazard/Heavy Downpour|heavy downpours]] or [[DATABASE/weatherhazard/Blizzard|blizzards]], and if such an event starts in the area, it brings an existing wildfire to an end.
 
 ---
-**Prepare** DC 18 [[Survival]] (trained) or DC 25 Perception to notice plumes of smoke or the tang of smoke in the air.
+**Prepare** DC 18 [[DATABASE/skill/Survival|Survival]] (trained) or DC 25 Perception to notice plumes of smoke or the tang of smoke in the air.
 **Routine** (1+ hour) An unsheltered character must succeed at a DC 21 Reflex save or take 6d6 fire damage (12d6 fire damage on a critical failure). If the character has sheltered in a temporary shelter or a flammable building, attempt a DC 16 flat check each hour the fire persists; on a failure, the fire consumes the shelter.
 
 ---

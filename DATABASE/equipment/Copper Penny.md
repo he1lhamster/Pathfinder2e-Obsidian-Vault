@@ -32,6 +32,7 @@ reflex: null
 requirement: You're an expert in [[DATABASE/skill/Acrobatics|Acrobatics]] , and you
   are unarmored.
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -57,10 +58,10 @@ weapon_type: null
 # Copper Penny<span class="item-type">Item 5</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Magical</span><span class="item-trait">Talisman</span><span class="item-trait">Transmutation</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 30 gp
-**Usage** affixed to [[Explorer's Clothing]] (or another item in the unarmored defense category); **Bulk** —
-**Activate** <span class="action-icon">4</span> envision **Trigger** You are knocked [[Prone]]; **Requirements** You're an expert in [[Acrobatics]], and you are unarmored.
+**Usage** affixed to [[DATABASE/armor/Explorer's Clothing|explorer's clothing]] (or another item in the unarmored defense category); **Bulk** —
+**Activate** <span class="action-icon">4</span> envision **Trigger** You are knocked [[DATABASE/condition/Prone|prone]]; **Requirements** You're an expert in [[DATABASE/skill/Acrobatics|Acrobatics]], and you are unarmored.
 
 ---
 This plain copper coin is typically affixed near the feet, on a pant leg or hem. When you Activate it, you Stand and can't be knocked prone again on the current turn.

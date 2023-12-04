@@ -65,26 +65,26 @@ wisdom: '+0'
 # Akiros Ismort
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 28
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 28
 **Unspecific Lore**: DC 26
 **Specific Lore**: DC 23
 
 # Akiros Ismort<span class="item-type">Creature 3</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CN</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 Male human bandit lieutenant
 **Perception** +10
-**Languages** [[Common]]
-**Skills** [[Athletics]] +11, [[Intimidation]] +9, [[Religion]] +7, [[Survival]] +7
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +11, [[DATABASE/skill/Intimidation|Intimidation]] +9, [[DATABASE/skill/Religion|Religion]] +7, [[DATABASE/skill/Survival|Survival]] +7
 **Str** +4, **Dex** +1, **Con** +3, **Int** +0, **Wis** +0, **Cha** +2
 healing potions (2), _+1 longsword_, steel shield, rusted iron holy symbol of Erastil, silver Stag Lord amulet (worth 3 gp), 8 gp
-**Items** [[Longsword]], [[Healing Potion]], 8 gp, [[Chain]], [[Composite Longbow]], [[Religious Symbol]], silver Stag Lord amulet, [[Steel Shield]]
+**Items** [[DATABASE/weapon/Longsword|+1 longsword]], [[DATABASE/equipment/Healing Potion|lesser healing potions (2)]], 8 gp, [[DATABASE/equipment/Chain|chainmail]], [[DATABASE/weapon/Composite Longbow|composite longbow (20 arrows)]], [[DATABASE/equipment/Religious Symbol|rusted iron holy symbol of Erastil]], silver Stag Lord amulet, [[DATABASE/shield/Steel Shield|steel shield]]
 
 ---
 **AC** 18; **Fort** +11, **Ref** +8, **Will** +7
 **HP** 53
-<span class="in-box-ability">**Shameful Memories** (emotion, mental, visual If Akiros sees another creature openly wearing Erastil's holy symbol, he must attempt a DC 15 Will save. Unless he critically fails his saving throw, he is temporarily immune to Shameful Memories for 24 hours.</span><span class="in-box-ability"> **Critical Success** Akiros is unaffected.</span><span class="in-box-ability"> **Success** Akiros is distracted by shame and becomes [[Sickened]] 1 for 1 round.</span><span class="in-box-ability"> **Failure** Akiros becomes sickened 2 with his shame.</span><span class="in-box-ability"> **Critical Failure** As failure, but Akiros is [[Stunned]] 1 as well. He does not become temporarily immune to Shameful Memories, and he can be affected by this weakness again) this likely means he will have to immediately attempt the save again once he recovers from the stun.</span>
+<span class="in-box-ability">**Shameful Memories** (emotion, mental, visual If Akiros sees another creature openly wearing Erastil's holy symbol, he must attempt a DC 15 Will save. Unless he critically fails his saving throw, he is temporarily immune to Shameful Memories for 24 hours.</span><span class="in-box-ability"> **Critical Success** Akiros is unaffected.</span><span class="in-box-ability"> **Success** Akiros is distracted by shame and becomes [[DATABASE/condition/Sickened|sickened]] 1 for 1 round.</span><span class="in-box-ability"> **Failure** Akiros becomes sickened 2 with his shame.</span><span class="in-box-ability"> **Critical Failure** As failure, but Akiros is [[DATABASE/condition/Stunned|stunned]] 1 as well. He does not become temporarily immune to Shameful Memories, and he can be affected by this weakness again) this likely means he will have to immediately attempt the save again once he recovers from the stun.</span>
 
 ---
 **Speed** 25 feet

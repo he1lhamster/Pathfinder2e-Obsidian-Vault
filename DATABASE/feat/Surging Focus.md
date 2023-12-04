@@ -11,6 +11,7 @@ name: Surging Focus
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Surging Focus <span class="action-icon">4</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Cleric</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Frequency** once per day
 **Trigger** An ally you can see falls to 0 Hit Points.
 

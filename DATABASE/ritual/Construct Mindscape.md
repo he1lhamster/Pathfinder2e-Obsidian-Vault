@@ -14,6 +14,7 @@ primary_check: '[[DATABASE/skill/Arcana|Arcana]] or [[DATABASE/skill/Occultism|O
 range: null
 rarity: Rare
 requirement: null
+rus_type_level: null
 school: Illusion
 secondary_casters: '2'
 secondary_check: Arcana or Occultism, [[DATABASE/skill/Crafting|Crafting]]
@@ -28,9 +29,9 @@ type: Ritual
 # Construct Mindscape<span class="item-type">Ritual 5</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Illusion</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Cast** 1 day; **Cost** precious clay, wood, or other modeling materials worth spell level × 20 gp; **Secondary Casters** 2
-**Primary Check** [[Arcana]] or [[Occultism]] (master); **Secondary Checks** Arcana or Occultism, [[Crafting]]
+**Primary Check** [[DATABASE/skill/Arcana|Arcana]] or [[DATABASE/skill/Occultism|Occultism]] (master); **Secondary Checks** Arcana or Occultism, [[DATABASE/skill/Crafting|Crafting]]
 **Duration** 1 day
 
 ---

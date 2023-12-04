@@ -5,6 +5,7 @@ item_category: Relics
 name: Raise Ramparts
 prerequisite: null
 rarity: Common
+rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
@@ -16,8 +17,8 @@ type: Relic Major Gift
 # Raise Ramparts<span class="item-type">Major Gift</span>
 
 <span class="item-trait">Conjuration</span><span class="item-trait">Earth</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Aspect** earth
 
 ---
-**Activate** <span class="action-icon">3</span> command, Interact **Frequency** once per day; **Effect** Your relic reshapes the earth around you. You cast 5th-level [[Wall of Stone]].
+**Activate** <span class="action-icon">3</span> command, Interact **Frequency** once per day; **Effect** Your relic reshapes the earth around you. You cast 5th-level [[DATABASE/spell/Wall of Stone|wall of stone]].

@@ -16,6 +16,7 @@ price: 2,000 gp
 rarity: Common
 reflex: null
 resistance: null
+rus_type_level: null
 school: null
 size: Gargantuan
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
@@ -27,13 +28,13 @@ type: Vehicle
 # Sailing Ship<span class="item-type">Vehicle 9</span>
 
 <span class="trait-size item-trait">Gargantuan</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Price** 2,000 gp
 
 ---
 **Space** 75 feet long, 20 feet wide, 25 feet high
 **Crew** 1 pilot, 8 crew; **Passengers** 10
-**Piloting Check** [[Lore]] (DC 26), [[Diplomacy]] (DC 28), or [[Intimidation]] (DC 28)
+**Piloting Check** [[DATABASE/skill/Lore|Sailing Lore]] (DC 26), [[DATABASE/skill/Diplomacy|Diplomacy]] (DC 28), or [[DATABASE/skill/Intimidation|Intimidation]] (DC 28)
 
 ---
 **AC** 23; **Fort** +18

@@ -3,6 +3,7 @@ creature_family: Shark
 id: '90'
 name: Shark
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Shark
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Sharks of all shapes and sizes have stalked the oceans, largely unchanged, since primordial times. They are efficient, ruthless predators with multiple rows of razor-sharp teeth capable of rending prey in an instant. Their uncanny ability to smell blood in the water means sharks might show up at any scene of aquatic carnage.
 
 ### Members
 
-[[Great White Shark]] (Creature 4), [[Megalodon]] (Creature 9)
+[[DATABASE/monster/Great White Shark|Great White Shark]] (Creature 4), [[DATABASE/monster/Megalodon|Megalodon]] (Creature 9)
 
 ###  Becoming Meateaters
 

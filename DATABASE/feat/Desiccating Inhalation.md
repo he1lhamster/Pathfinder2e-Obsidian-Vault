@@ -11,6 +11,7 @@ name: Desiccating Inhalation
 prerequisite: '[[DATABASE/feat/Mummy Dedication|Mummy Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 subcategory: null
@@ -25,13 +26,13 @@ type: Feat
 # Desiccating Inhalation <span class="action-icon">2</span> <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Divine</span><span class="item-trait">Evocation</span>
-**Source** [[Book of the Dead]]
-**Archetype** [[Mummy]]
+**Source** [[DATABASE/source/Book of the Dead|Book of the Dead]]
+**Archetype** [[DATABASE/archetype/Mummy|Mummy]]
 **Frequency** once per hour
-**Prerequisites** [[Mummy Dedication]]
+**Prerequisites** [[DATABASE/feat/Mummy Dedication|Mummy Dedication]]
 
 ---
-You draw in the moisture from nearby creatures, draining them dry to heal your wounds. Creatures in a 30-foot cone take 6d8 negative damage, with a basic Reflex save against your class DC. A creature that critically fails this saving throw is also [[Drained]]. As long as at least one creature was damaged by your Desiccating Inhalation, you regain HP equal to your level.
+You draw in the moisture from nearby creatures, draining them dry to heal your wounds. Creatures in a 30-foot cone take 6d8 negative damage, with a basic Reflex save against your class DC. A creature that critically fails this saving throw is also [[DATABASE/condition/Drained|drained 1]]. As long as at least one creature was damaged by your Desiccating Inhalation, you regain HP equal to your level.
  At 14th level and every 2 levels thereafter, the damage increases by 1d8.
 
 ## Traits

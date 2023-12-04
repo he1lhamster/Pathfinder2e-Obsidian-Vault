@@ -11,6 +11,7 @@ name: Sneak Savant
 prerequisite: Master in [[DATABASE/skill/Stealth|Stealth]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Sneak Savant <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Rogue</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Knight Reclaimant]]*
-**Prerequisites** master in [[Stealth]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Knight Reclaimant|Knight Reclaimant]]*
+**Prerequisites** master in [[DATABASE/skill/Stealth|Stealth]]
 * This archetype offers Sneak Savant at a different level than displayed here.
 
 ---

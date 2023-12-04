@@ -89,17 +89,17 @@ These notorious predators have an undeniable thirst for blood. Chupacabras prefe
 Chupacabras prefer to eat lone travelers and farm animals (particularly goats), and leave little evidence of their presence apart from the grisly, blood-drained husks of their meals. Their tendency to stay out of sight combined with their naturally nocturnal activity often leads superstitious locals to conclude the worst, imagining that a particularly reckless vampire lives in the area.
 A typical chupacabra measures nearly 5-1/2 feet from its muzzle to the tip of its spiny tail, and it stands just under 4 feet tall. With their slight build and lightweight bones, most weigh close to 100 pounds. They mate rarely and only during the hottest months, with the females each producing a single egg that hatches into a tiny, dehydrated creature. The mother typically leaves helpless prey in her cave so the hatchling can immediately feed.
 Although chupacabras are typically solitary creatures, they have been known to form small gangs in bountiful areas. Members of these groups work well together, growing bold enough to attack larger animals, small herds, and otherwise more dangerous prey. Stories of chupacabras attacking travelers or laying siege to farmhouses typically stem from the hunting practices of such gangs. Regions where chupacabra activity like this is more common often have complex and colorful myths and tall tales about chupacabra capabilities or motive —- and a few of the claims, such as that some chupacabras can fly, are all too true.
-**Recall Knowledge - Beast ([[Arcana]], [[Nature]])**: DC 18
+**Recall Knowledge - Beast ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 18
 **Unspecific Lore**: DC 16
 **Specific Lore**: DC 13
 
 # Chupacabra<span class="item-type">Creature 3</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Small</span><span class="item-trait">Beast</span>
-**Source** [[Bestiary 2]] 
-**Perception** +9; [[Darkvision]]
-**Languages** [[Aklo]]; can't speak any language
-**Skills** [[Acrobatics]] +9 (+11 to [[Leap]]), [[Stealth]] +9 (+11 in undergrowth or rocky areas)
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +9; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Aklo|Aklo]]; can't speak any language
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +9 (+11 to [[DATABASE/action/Leap|Leap]]), [[DATABASE/skill/Stealth|Stealth]] +9 (+11 in undergrowth or rocky areas)
 **Str** +3, **Dex** +4, **Con** +2, **Int** -3, **Wis** +2, **Cha** -2
 
 ---
@@ -108,7 +108,7 @@ Although chupacabras are typically solitary creatures, they have been known to f
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +11 [+6/+1] (finesse), **Damage** 1d10+5 piercing plus [[Grab]]</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +11 [+7/+3] (agile, finesse), **Damage** 1d6+5 slashing</span><span class="in-box-ability">**Chupar** <span class="action-icon">1</span> **Requirements **The chupacabra has a creature [[Grabbed]]; **Effect **The chupacabra sucks blood from the grabbed creature. The chupacabra gains the [[Quickened]] condition for 1 minute and can use the extra action only for Strike and Stride actions. A chupacabra can't use Chupar again while it is quickened in this way. A creature that has its blood drained by a chupacabra is [[Drained]] until it receives healing (of any kind or amount).</span><span class="in-box-ability">**Pounce** <span class="action-icon">1</span> The chupacabra Strides and makes a Strike at the end of that movement. If the chupacabra began this action [[Hidden]], it remains hidden until after this ability's Strike.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +11 [+6/+1] (finesse), **Damage** 1d10+5 piercing plus [[DATABASE/monsterability/Grab|Grab]]</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +11 [+7/+3] (agile, finesse), **Damage** 1d6+5 slashing</span><span class="in-box-ability">**Chupar** <span class="action-icon">1</span> **Requirements **The chupacabra has a creature [[DATABASE/condition/Grabbed|grabbed]]; **Effect **The chupacabra sucks blood from the grabbed creature. The chupacabra gains the [[DATABASE/condition/Quickened|quickened]] condition for 1 minute and can use the extra action only for Strike and Stride actions. A chupacabra can't use Chupar again while it is quickened in this way. A creature that has its blood drained by a chupacabra is [[DATABASE/condition/Drained|drained 1]] until it receives healing (of any kind or amount).</span><span class="in-box-ability">**Pounce** <span class="action-icon">1</span> The chupacabra Strides and makes a Strike at the end of that movement. If the chupacabra began this action [[DATABASE/condition/Hidden|hidden]], it remains hidden until after this ability's Strike.</span>
 
 ###  Winged Chupacabras
 

@@ -11,6 +11,7 @@ name: Basic Shooting
 prerequisite: '[[DATABASE/feat/Gunslinger Dedication|Gunslinger Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -23,16 +24,16 @@ type: Feat
 # Basic Shooting <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Guns & Gears]]
-**Archetype** [[Gunslinger]]
-**Prerequisites** [[Gunslinger Dedication]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Archetype** [[DATABASE/archetype/Gunslinger|Gunslinger]]
+**Prerequisites** [[DATABASE/feat/Gunslinger Dedication|Gunslinger Dedication]]
 
 ---
 You gain a 1st- or 2nd-level gunslinger feat of your choice.
 
 ## Basic Shooting Leads To...
 
-[[Advanced Shooting]]
+[[DATABASE/feat/Advanced Shooting|Advanced Shooting]]
 
 ## Traits
 

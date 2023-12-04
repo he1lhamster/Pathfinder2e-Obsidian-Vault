@@ -3,6 +3,7 @@ creature_family: Dinosaur
 id: '32'
 name: Dinosaur
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Dinosaur
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Remnants from the world’s primeval era, these enormous reptilian animals still exist in large numbers in isolated and remote wildernesses or far underground within magical Darklands caverns. Lizardfolk, orcs, giants, and other monstrous humanoids sometimes use dinosaurs as mounts, guards, or hunting animals. Humans and other ancestries have also been known to collect dinosaurs, be it to display them in menageries or keep them as exotic pets or guardians. Such activities are generally pursuits of the rich or eccentric, but certain druids and other guardians of nature feel strong kinships with dinosaurs as well and take them on as companions. When dinosaurs establish themselves in regions beyond their normal habitats, it is generally the result of these captive creatures escaping into the wild.
 
 ### Members
 
-[[Ankylosaurus]] (Creature 6), [[Brontosaurus]] (Creature 10), [[Compsognathus]] (Creature -1), [[Deinonychus]] (Creature 2), [[Hadrosaurid]] (Creature 4), [[Iguanodon]] (Creature 6), [[Pachycephalosaurus]] (Creature 3), [[Spinosaurus]] (Creature 11), [[Stegosaurus]] (Creature 7), [[Triceratops]] (Creature 8), [[Tyrannosaurus]] (Creature 10), [[Velociraptor]] (Creature 1)
+[[DATABASE/monster/Ankylosaurus|Ankylosaurus]] (Creature 6), [[DATABASE/monster/Brontosaurus|Brontosaurus]] (Creature 10), [[DATABASE/monster/Compsognathus|Compsognathus]] (Creature -1), [[DATABASE/monster/Deinonychus|Deinonychus]] (Creature 2), [[DATABASE/monster/Hadrosaurid|Hadrosaurid]] (Creature 4), [[DATABASE/monster/Iguanodon|Iguanodon]] (Creature 6), [[DATABASE/monster/Pachycephalosaurus|Pachycephalosaurus]] (Creature 3), [[DATABASE/monster/Spinosaurus|Spinosaurus]] (Creature 11), [[DATABASE/monster/Stegosaurus|Stegosaurus]] (Creature 7), [[DATABASE/monster/Triceratops|Triceratops]] (Creature 8), [[DATABASE/monster/Tyrannosaurus|Tyrannosaurus]] (Creature 10), [[DATABASE/monster/Velociraptor|Velociraptor]] (Creature 1)
 
 ###  Dinosaur Abilities
 
@@ -39,7 +40,7 @@ Another classic place that dinosaurs are found in fiction are in “hollow world
 
 ###  Magical Dinosaurs
 
-In a fantasy setting, magical effects or supernatural influences can enhance dinosaurs by giving them unexpected attacks, modes of movement, or other abilities. You can quickly create a memorable magical beast simply by giving a dinosaur the magical attack of another creature of an equal level, such as a [[Spinosaurus]] gaining an acidic breath weapon akin to that of an [[Adult Black Dragon]].
+In a fantasy setting, magical effects or supernatural influences can enhance dinosaurs by giving them unexpected attacks, modes of movement, or other abilities. You can quickly create a memorable magical beast simply by giving a dinosaur the magical attack of another creature of an equal level, such as a [[DATABASE/monster/Spinosaurus|spinosaurus]] gaining an acidic breath weapon akin to that of an [[DATABASE/monster/Adult Black Dragon|adult black dragon]].
 
 ###  Other Dinosaurs
 

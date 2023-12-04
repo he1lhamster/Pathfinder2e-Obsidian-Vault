@@ -86,30 +86,30 @@ wisdom: '+4'
 
 When an evil mortal creature dies, it sometimes returns to haunt the area of its death as a specter, a hateful remnant, always seeking to slay others—particularly humanoids—in an attempt to distribute its pain among as many souls as it can. A specter maintains a strange semblance of its prior identity, but with a corrupted sense of purpose. It cannot be reasoned with.
  A specter denied the opportunity to harm living humanoids grows increasingly agonized and irrational, akin to the mindset of a starving person forever denied a release from agony through death.
-**Recall Knowledge - Undead ([[Religion]])**: DC 23
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 23
 **Unspecific Lore**: DC 21
 **Specific Lore**: DC 18
 
 # Specter<span class="item-type">Creature 7</span>
 
 <span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Incorporeal</span><span class="item-trait">Undead</span>
-**Source** [[Bestiary 2]] 
-**Perception** +15; [[Darkvision]]
-**Languages** [[Common]], [[Necril]]; [[Telepathy]] (with spectral thralls only)
-**Skills** [[Acrobatics]] +17, [[Intimidation]] +15, [[Stealth]] +17
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +15; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Necril|Necril]]; [[DATABASE/monsterability/Telepathy|telepathy 100 feet]] (with spectral thralls only)
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +17, [[DATABASE/skill/Intimidation|Intimidation]] +15, [[DATABASE/skill/Stealth|Stealth]] +17
 **Str** -5, **Dex** +6, **Con** +4, **Int** +0, **Wis** +4, **Cha** +4
 
 ---
 **AC** 25; **Fort** +13, **Ref** +17, **Will** +15
-**HP** 95 ([[Negative Healing]]); **Immunities** death effects, disease, [[Paralyzed]], poison, precision, [[Unconscious]]; **Resistances** all 5 (except force, [[Ghost Touch]], or positive; double resistance vs. non-magical)
-<span class="in-box-ability">**[[Frightful Presence]]** (aura, emotion, fear, mental) 30 feet, DC 22</span><span class="in-box-ability">**Pain Starvation** A specter that goes for more than a month without dealing negative damage to a living humanoid becomes desperate and almost feral. It changes alignment from lawful evil to chaotic evil, loses control of any corrupted thralls it might have, and becomes [[Quickened]]. It can use its additional action only to make vile touch Strikes against humanoid targets. At the end of any turn in which it deals any amount of negative damage to a living humanoid, it reverts to lawful evil and is no longer quickened, but any thralls it lost control of remain free.</span><span class="in-box-ability">**Sunlight Powerlessness** A specter caught in sunlight is [[Clumsy]] and [[Slowed]] for as long as it remains in the sunlight.</span>
+**HP** 95 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects, disease, [[DATABASE/condition/Paralyzed|paralyzed]], poison, precision, [[DATABASE/condition/Unconscious|unconscious]]; **Resistances** all 5 (except force, [[DATABASE/equipment/Ghost Touch|ghost touch]], or positive; double resistance vs. non-magical)
+<span class="in-box-ability">**[[DATABASE/monsterability/Frightful Presence|Frightful Presence]]** (aura, emotion, fear, mental) 30 feet, DC 22</span><span class="in-box-ability">**Pain Starvation** A specter that goes for more than a month without dealing negative damage to a living humanoid becomes desperate and almost feral. It changes alignment from lawful evil to chaotic evil, loses control of any corrupted thralls it might have, and becomes [[DATABASE/condition/Quickened|quickened]]. It can use its additional action only to make vile touch Strikes against humanoid targets. At the end of any turn in which it deals any amount of negative damage to a living humanoid, it reverts to lawful evil and is no longer quickened, but any thralls it lost control of remain free.</span><span class="in-box-ability">**Sunlight Powerlessness** A specter caught in sunlight is [[DATABASE/condition/Clumsy|clumsy 2]] and [[DATABASE/condition/Slowed|slowed 2]] for as long as it remains in the sunlight.</span>
 
 ---
 **Speed** fly 40 feet
 <span class="in-box-ability">**Melee** <span class="action-icon">1</span> vile touch +16 [+11/+6] (finesse), **Damage** 2d8+8 negative</span><span class="in-box-ability">**Spectral Corruption** <span class="action-icon">2</span> (curse, divine, enchantment, incapacitation, mental) The specter makes a vile touch Strike. If it damages a living creature, the specter gains 5 temporary Hit Points and the target creature must attempt a DC 24 Will save to avoid becoming corrupted. 
 **Critical Success** The creature is unaffected and is temporarily immune to spectral corruption for 1 minute. 
-**Success** The creature is [[Stupefied]] for 1 hour. 
-**Failure** The creature succumbs to the corruption and becomes a spectral thrall temporarily. The creature is [[Controlled]] by the specter, obeying the specter's telepathic or spoken orders, though a spectral thrall does not obey obviously self-destructive orders. This lasts until the end of the thrall's next turn, at which point it is no longer controlled but becomes stupefied 2 for 1 hour. 
+**Success** The creature is [[DATABASE/condition/Stupefied|stupefied 2]] for 1 hour. 
+**Failure** The creature succumbs to the corruption and becomes a spectral thrall temporarily. The creature is [[DATABASE/condition/Controlled|controlled]] by the specter, obeying the specter's telepathic or spoken orders, though a spectral thrall does not obey obviously self-destructive orders. This lasts until the end of the thrall's next turn, at which point it is no longer controlled but becomes stupefied 2 for 1 hour. 
 **Critical Failure** As failure, but the duration is unlimited. The thrall can attempt a new Will save at the end of each of its turns; on a success, it is no longer controlled by the specter but becomes stupefied 2 for 1 hour.</span>
 
 ###  Spectral Thralls

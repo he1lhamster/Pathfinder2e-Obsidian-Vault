@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Oatia Skysage Dedication|Oatia Skysage Dedication
   ; [[DATABASE/feat/Night''s Glow|Night''s Glow]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh
   Arch]]'
@@ -27,12 +28,12 @@ type: Feat
 # Night's Shine <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Evocation</span><span class="item-trait">Occult</span>
-**Source** [[Pathfinder 187. The Seventh Arch]]
-**Archetype** [[Oatia Skysage]]
-**Prerequisites** [[Oatia Skysage Dedication]]; [[Night's Glow]]
+**Source** [[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh Arch]]
+**Archetype** [[DATABASE/archetype/Oatia Skysage|Oatia Skysage]]
+**Prerequisites** [[DATABASE/feat/Oatia Skysage Dedication|Oatia Skysage Dedication]]; [[DATABASE/feat/Night's Glow|Night's Glow]]
 
 ---
-Your power from the moon and stars becomes strong enough to illuminate the night sky. You gain your choice of the [[Asterism]] or [[Touch of the Moon]] domain spell. Increase the number of Focus Points in your pool by 1.
+Your power from the moon and stars becomes strong enough to illuminate the night sky. You gain your choice of the [[DATABASE/spell/Asterism|asterism]] or [[DATABASE/spell/Touch of the Moon|touch of the moon]] domain spell. Increase the number of Focus Points in your pool by 1.
 **Special** You can take this feat a second time, gaining the focus spell that you didn't gain the first time. Increase the number of Focus Points in your pool by 1.
 
 ## Traits

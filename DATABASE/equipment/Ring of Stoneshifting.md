@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 size: null
@@ -58,7 +59,7 @@ weapon_type: null
 # Ring of Stoneshifting<span class="item-type">Item 12</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Conjuration</span><span class="item-trait">Earth</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span><span class="item-trait">Teleportation</span>
-**Source** [[Pathfinder 153. Life's Long Shadows]]
+**Source** [[DATABASE/source/Pathfinder 153. Life's Long Shadows|Pathfinder #153: Life's Long Shadows]]
 **Price** 1,800 gp
 **Usage** worn; **Bulk** L
 

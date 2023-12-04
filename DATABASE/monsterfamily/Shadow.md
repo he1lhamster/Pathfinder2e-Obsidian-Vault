@@ -3,6 +3,7 @@ creature_family: Shadow
 id: '89'
 name: Shadow
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,7 +11,7 @@ type: Creature Family
 ---
 # Shadow
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 The mysterious undead known as shadows lurk in dark places and feed on those who stray too far from the light. Those who parley with shadows, typically by keeping them at bay with a glowing weapon, may learn great secrets, for they are ideal spies.
 
 ## Shadow Variants
@@ -25,7 +26,7 @@ Some shadows have taken their ability to hide in shadows to a greater level, shi
 ### Possessing Shadows
 
 Some greater shadows develop the coveted ability to possess a body. Only greater shadows can become possessing shadows, and they can't use Slink in Shadows or Steal Shadow while using Inhabit.
- **Inhabit** <span class="action-icon">2</span> The shadow attempts to possess an adjacent undead corporeal creature. This has the same effect as the [[Possession]] spell, except the shadow doesn't have a physical body, so it's unaffected by the spell's restriction.
+ **Inhabit** <span class="action-icon">2</span> The shadow attempts to possess an adjacent undead corporeal creature. This has the same effect as the [[DATABASE/spell/Possession|possession]] spell, except the shadow doesn't have a physical body, so it's unaffected by the spell's restriction.
 
 ### Shadow Thief
 
@@ -34,7 +35,7 @@ Some shadows gain the ability to handle objects. A shadow thief can't use Slink 
 
 ### Members
 
-[[Greater Shadow]] (Creature 7), [[Shadow]] (Creature 4)
+[[DATABASE/monster/Greater Shadow|Greater Shadow]] (Creature 7), [[DATABASE/monster/Shadow|Shadow]] (Creature 4)
 
 ###  Shadow Locations
 

@@ -11,6 +11,7 @@ name: Lifesense
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Divination
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,10 +26,10 @@ type: Feat
 # Lifesense <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Divination</span><span class="item-trait">Divine</span><span class="item-trait">Duskwalker</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
-You have a limited ability to sense life force, like your [[Psychopomp]] forebears. You gain [[Lifesense]] as an imprecise sense with a range of 10 feet. This allows you to sense the life force within living creatures and its counterforce that animates the undead, though you can't distinguish between the two.
+You have a limited ability to sense life force, like your [[DATABASE/monsterfamily/Psychopomp|psychopomp]] forebears. You gain [[DATABASE/monsterability/Lifesense|lifesense]] as an imprecise sense with a range of 10 feet. This allows you to sense the life force within living creatures and its counterforce that animates the undead, though you can't distinguish between the two.
 
 ## Traits
 
@@ -42,4 +43,4 @@ This magic comes from the divine tradition, drawing power from deities or simila
 
 **Duskwalker:**
 
-A creature with this trait has the duskwalker versatile heritage. Duskwalkers are planar scions infused with the supernatural energy of [[Psychopomp]]. An ability with this trait can be used or selected only by duskwalkers.
+A creature with this trait has the duskwalker versatile heritage. Duskwalkers are planar scions infused with the supernatural energy of [[DATABASE/monsterfamily/Psychopomp|psychopomps]]. An ability with this trait can be used or selected only by duskwalkers.

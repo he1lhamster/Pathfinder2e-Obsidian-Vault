@@ -78,25 +78,25 @@ wisdom: '+0'
 # Dhampir Wizard
 
 This dhampir is a svetocher, the child of a moroi vampire.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 16
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
 # Dhampir Wizard<span class="item-type">Creature 2</span>
 
 <span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Dhampir</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +4; darkvision
-**Languages** [[Common]], [[Necril]]
-**Skills** [[Acrobatics]] +7, [[Arcana]] +8, [[Deception]] +5, [[Intimidation]] +5, [[Society]] +8, [[Stealth]] +7, [[Lore]] +8
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Necril|Necril]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +7, [[DATABASE/skill/Arcana|Arcana]] +8, [[DATABASE/skill/Deception|Deception]] +5, [[DATABASE/skill/Intimidation|Intimidation]] +5, [[DATABASE/skill/Society|Society]] +8, [[DATABASE/skill/Stealth|Stealth]] +7, [[DATABASE/skill/Lore|Vampire Lore]] +8
 **Str** +2, **Dex** +3, **Con** +0, **Int** +4, **Wis** +0, **Cha** +1
-**Items** [[Dagger]], [[Spellbook (Blank)]], [[Staff]]
+**Items** [[DATABASE/weapon/Dagger|dagger]], [[DATABASE/equipment/Spellbook (Blank)|spellbook containing their prepared spells]], [[DATABASE/weapon/Staff|staff]]
 
 ---
 **AC** 17; **Fort** +4, **Ref** +7, **Will** +6; +2 circumstance to all saves vs. disease
-**HP** 22 ([[Negative Healing]])
+**HP** 22 ([[DATABASE/monsterability/Negative Healing|negative healing]])
 <span class="in-box-ability">**Blood of the Night** The dhampir’s penalty and Hit Point reduction from the drained condition are reduced as though the condition value were 1 lower.</span>
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> dagger +7 [+3/-1] (agile, finesse, versatile S), **Damage** 1d4+2 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> staff +6 [+1/-4] (two-handed d8), **Damage** 1d6+2 bludgeoning</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +7 [+3/-1] (agile, finesse, nonlethal), **Damage** 1d4+2 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> dagger +7 [+3/-1] (agile, thrown 10 feet, versatile S), **Damage** 1d4+2 piercing</span>**Arcane Prepared Spells** DC 18, attack +8; **1st** _[[Command]]_, _[[Grim Tendrils]]_ (x2), _[[Magic Missile]]_; **Cantrips** **(1st)** _[[Chill Touch]]_, _[[Detect Magic]]_, _[[Prestidigitation]]_, _[[Ray of Frost]]_, _[[Shield]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> dagger +7 [+3/-1] (agile, finesse, versatile S), **Damage** 1d4+2 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> staff +6 [+1/-4] (two-handed d8), **Damage** 1d6+2 bludgeoning</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +7 [+3/-1] (agile, finesse, nonlethal), **Damage** 1d4+2 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> dagger +7 [+3/-1] (agile, thrown 10 feet, versatile S), **Damage** 1d4+2 piercing</span>**Arcane Prepared Spells** DC 18, attack +8; **1st** _[[DATABASE/spell/Command|command]]_, _[[DATABASE/spell/Grim Tendrils|grim tendrils]]_ (x2), _[[DATABASE/spell/Magic Missile|magic missile]]_; **Cantrips** **(1st)** _[[DATABASE/spell/Chill Touch|chill touch]]_, _[[DATABASE/spell/Detect Magic|detect magic]]_, _[[DATABASE/spell/Prestidigitation|prestidigitation]]_, _[[DATABASE/spell/Ray of Frost|ray of frost]]_, _[[DATABASE/spell/Shield|shield]]_

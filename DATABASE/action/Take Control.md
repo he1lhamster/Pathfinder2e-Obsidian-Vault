@@ -7,6 +7,7 @@ id: '486'
 name: Take Control
 rarity: Common
 requirement: You are aboard the vehicle and adjacent to its controls.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
@@ -18,7 +19,7 @@ type: Action
 # Take Control <span class="action-icon">1</span>
 
 <span class="item-trait">Manipulate</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Requirements** You are aboard the vehicle and adjacent to its controls.
 
 ---

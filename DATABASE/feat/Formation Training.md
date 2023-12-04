@@ -11,6 +11,7 @@ name: Formation Training
 prerequisite: trained in all martial weapons
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Formation Training <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Hobgoblin</span>
-**Source** [[Character Guide]] 
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
 **Prerequisites** trained in all martial weapons
 
 ---
@@ -31,7 +32,7 @@ You know how to fight in formation with your brethren. When you are adjacent to 
 
 ## Formation Training Leads To...
 
-[[Formation Master]]
+[[DATABASE/feat/Formation Master|Formation Master]]
 
 ## Traits
 

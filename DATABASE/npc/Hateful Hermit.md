@@ -65,20 +65,20 @@ wisdom: '+0'
 # Hateful Hermit
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 30
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 30
 **Unspecific Lore**: DC 28
 **Specific Lore**: DC 25
 
 # Hateful Hermit<span class="item-type">Creature 5</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Kingmaker Adventure Path]]
-Male [[Human]] misanthrope
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
+Male [[DATABASE/ancestry/Human|human]] misanthrope
 **Perception** +11
-**Languages** [[Common]]
-**Skills** [[Athletics]] +13, [[Nature]] +12, [[Survival]] +11
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +13, [[DATABASE/skill/Nature|Nature]] +12, [[DATABASE/skill/Survival|Survival]] +11
 **Str** +4, **Dex** +2, **Con** +4, **Int** +1, **Wis** +0, **Cha** +1
-**Items** _+1 [[Whip]]_, [[Blowgun]], [[Graveroot]], [[Hide Armor]], [[Sickle]]
+**Items** _+1 [[DATABASE/weapon/Whip|whip]]_, [[DATABASE/weapon/Blowgun|blowgun (10 darts)]], [[DATABASE/equipment/Graveroot|graveroot (4 doses)]], [[DATABASE/armor/Hide Armor|hide armor]], [[DATABASE/weapon/Sickle|sickle]]
 
 ---
 **AC** 21; **Fort** +15, **Ref** +11, **Will** +9; +2 status to all saves vs. mental effects
@@ -88,6 +88,6 @@ Male [[Human]] misanthrope
 **Speed** 25 feet; trackless step
 <span class="in-box-ability">**Melee** <span class="action-icon">1</span> _whip_ +14 [+9/+4] (disarm, finesse, nonlethal, reach, trip), **Damage** 1d4+7 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> sickle +13 [+9/+5] (agile, finesse, trip), **Damage** 1d4+7 slashing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> blowgun +13 [+9/+5] (agile, nonlethal), **Effect** 1 piercing plus graveroot</span><span class="in-box-ability">**Focus Hatred** <span class="action-icon">1</span> (emotion, mental) The hateful hermit unleashes a vexing stream of profanities and threats at a single foe he can see within 30 feet. The hermit gains a +1 circumstance bonus on all attack rolls made against that target until he chooses a different target to Focus Hatred on. The target must attempt a DC 22 Will save, with the below effects. The hateful hermit cannot Focus Hatred again for 1d4 rounds.
  **Critical Success** The target is unaffected and is temporarily immune to Focus Hatred for 24 hours.
- **Success** The target is distracted by the hatred and is [[Flat-Footed]] against the hermit's next attack.
+ **Success** The target is distracted by the hatred and is [[DATABASE/condition/Flat-Footed|flat-footed]] against the hermit's next attack.
  **Failure** The hermit's words unnerve the target and distract them; the target is flat-footed until the end of the hateful hermit's next turn.
- **Critical Failure** As failure, but the target is flat-footed for 1 minute.</span><span class="in-box-ability">**[[Sneak Attack]]** The hateful hermit deals 2d6 extra precision damage to [[Flat-Footed]] creatures.</span><span class="in-box-ability">**Trackless Step** The hateful hermit always gains the benefits of [[Cover Tracks]] in natural surroundings, even when moving at full speed.</span>
+ **Critical Failure** As failure, but the target is flat-footed for 1 minute.</span><span class="in-box-ability">**[[DATABASE/monsterability/Sneak Attack|Sneak Attack]]** The hateful hermit deals 2d6 extra precision damage to [[DATABASE/condition/Flat-Footed|flat-footed]] creatures.</span><span class="in-box-ability">**Trackless Step** The hateful hermit always gains the benefits of [[DATABASE/action/Cover Tracks|Cover Tracks]] in natural surroundings, even when moving at full speed.</span>

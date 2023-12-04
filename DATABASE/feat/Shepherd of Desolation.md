@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Knight Reclaimant Dedication|Knight Reclaimant De
   ; [[DATABASE/feat/Survivor of Desolation|Survivor of Desolation]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
 subcategory: null
@@ -25,12 +26,12 @@ type: Feat
 # Shepherd of Desolation <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Aura</span>
-**Source** [[Knights of Lastwall]]
-**Archetype** [[Knight Reclaimant]]
-**Prerequisites** [[Knight Reclaimant Dedication]]; [[Survivor of Desolation]]
+**Source** [[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]
+**Archetype** [[DATABASE/archetype/Knight Reclaimant|Knight Reclaimant]]
+**Prerequisites** [[DATABASE/feat/Knight Reclaimant Dedication|Knight Reclaimant Dedication]]; [[DATABASE/feat/Survivor of Desolation|Survivor of Desolation]]
 
 ---
-You know how to keep others alive in the Gravelands' murkiest shadows. Allies within 10 feet of you gain the benefit of Survivor of Desolation. If you are a [[Champion]], this aura is a champion aura, even though you gained it from Knight Reclaimant instead of a champion feat or feature.
+You know how to keep others alive in the Gravelands' murkiest shadows. Allies within 10 feet of you gain the benefit of Survivor of Desolation. If you are a [[DATABASE/class_/Champion|champion]], this aura is a champion aura, even though you gained it from Knight Reclaimant instead of a champion feat or feature.
 
 ## Traits
 

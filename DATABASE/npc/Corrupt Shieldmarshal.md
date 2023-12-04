@@ -69,20 +69,20 @@ wisdom: '+0'
 # Corrupt Shieldmarshal
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 25
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 25
 **Unspecific Lore**: DC 23
 **Specific Lore**: DC 20
 
 # Corrupt Shieldmarshal<span class="item-type">Creature 7</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 180. The Smoking Gun]]
+**Source** [[DATABASE/source/Pathfinder 180. The Smoking Gun|Pathfinder #180: The Smoking Gun]]
 Various law enforcers
-**Perception** +18; (20 to [[Sense Motive]] or vs. [[Conceal an Object]]) 
-**Languages** [[Common]], [[Dwarven]], [[Kelish]]
-**Skills** [[Acrobatics]] +17, [[Crafting]] +15, [[Diplomacy]] +15, [[Lore]] +13
+**Perception** +18; (20 to [[DATABASE/action/Sense Motive|Sense Motive]] or vs. [[DATABASE/action/Conceal an Object|Conceal An Object]]) 
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Dwarven|Dwarven]], [[DATABASE/language/Kelish|Kelish]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +17, [[DATABASE/skill/Crafting|Crafting]] +15, [[DATABASE/skill/Diplomacy|Diplomacy]] +15, [[DATABASE/skill/Lore|Legal Lore]] +13
 **Str** +4, **Dex** +5, **Con** +2, **Int** +0, **Wis** +0, **Cha** +2
-**Items** _+1 [[Clan Pistol]]_ or _+1 [[Jezail]]_, [[Breastplate]], [[Longsword]]
+**Items** _+1 [[DATABASE/feat/Clan Pistol|clan pistol]]_ or _+1 [[DATABASE/weapon/Jezail|jezail]]_, [[DATABASE/armor/Breastplate|breastplate]], [[DATABASE/weapon/Longsword|longsword]]
 
 ---
 **AC** 25; **Fort** +15, **Ref** +18, **Will** +12
@@ -90,4 +90,4 @@ Various law enforcers
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> longsword +17 [+12/+7] (versatile P), **Damage** 1d8+7 slashing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _clan pistol_ +19 [+14/+9] (concussive, fatal d10, magical, range increment 80 feet, reload 1), **Damage** 1d6+3 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _jezail_ +19 [+14/+9] (concussive, fatal aim d12, magical, range increment 90 feet, reload 1), **Damage** 1d8+3 piercing</span><span class="in-box-ability">**Firearms Critical Specialization** When the shieldmarshal makes a critical hit with a [[Firearm]] weapon, the target must succeed at a DC 25 Fortitude save or be [[Stunned]].</span><span class="in-box-ability">**Lawbringer** <span class="action-icon">1</span> The shieldmarshal marks a foe for judgment, granting the shieldmarshal a +10-foot circumstance bonus to Speed whenever it Strides toward that creature. The shieldmarshal's Strikes against that creature deal an additional 2d8 precision damage.</span><span class="in-box-ability">**Reloading Strike** <span class="action-icon">1</span> The shieldmarshal makes a melee Strike against an opponent within reach and Interacts to reload a firearm in their other hand.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> longsword +17 [+12/+7] (versatile P), **Damage** 1d8+7 slashing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _clan pistol_ +19 [+14/+9] (concussive, fatal d10, magical, range increment 80 feet, reload 1), **Damage** 1d6+3 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> _jezail_ +19 [+14/+9] (concussive, fatal aim d12, magical, range increment 90 feet, reload 1), **Damage** 1d8+3 piercing</span><span class="in-box-ability">**Firearms Critical Specialization** When the shieldmarshal makes a critical hit with a [[DATABASE/weapongroup/Firearm|firearm]] weapon, the target must succeed at a DC 25 Fortitude save or be [[DATABASE/condition/Stunned|stunned 1]].</span><span class="in-box-ability">**Lawbringer** <span class="action-icon">1</span> The shieldmarshal marks a foe for judgment, granting the shieldmarshal a +10-foot circumstance bonus to Speed whenever it Strides toward that creature. The shieldmarshal's Strikes against that creature deal an additional 2d8 precision damage.</span><span class="in-box-ability">**Reloading Strike** <span class="action-icon">1</span> The shieldmarshal makes a melee Strike against an opponent within reach and Interacts to reload a firearm in their other hand.</span>

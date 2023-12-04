@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 size: null
@@ -55,9 +56,9 @@ weapon_type: null
 # Channel Protection Amulet<span class="item-type">Item 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Abjuration</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 56 gp
 **Usage** worn; **Bulk** —
 
 ---
-This nugget of polished tektite is trapped in a cage of braided wire and hangs from a silken cord. When wearing this amulet, you gain resistance 5 against damage from [[Harm]] spells if you’re living, or against [[Heal]] spells if you’re undead.
+This nugget of polished tektite is trapped in a cage of braided wire and hangs from a silken cord. When wearing this amulet, you gain resistance 5 against damage from [[DATABASE/spell/Harm|harm]] spells if you’re living, or against [[DATABASE/spell/Heal|heal]] spells if you’re undead.

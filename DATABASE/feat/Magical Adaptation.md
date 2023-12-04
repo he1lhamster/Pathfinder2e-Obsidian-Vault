@@ -11,6 +11,7 @@ name: Magical Adaptation
 prerequisite: '[[DATABASE/feat/Horizon Walker Dedication|Horizon Walker Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,12 +24,12 @@ type: Feat
 # Magical Adaptation <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Horizon Walker]]
-**Prerequisites** [[Horizon Walker Dedication]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Horizon Walker|Horizon Walker]]
+**Prerequisites** [[DATABASE/feat/Horizon Walker Dedication|Horizon Walker Dedication]]
 
 ---
-When an obstacle bars your path, you pull a trick from your sleeve to overcome it. You can cast [[Darkvision]], [[Spider Climb]], and 4th-level [[Water Breathing]] as innate primal spells, each once per day.
+When an obstacle bars your path, you pull a trick from your sleeve to overcome it. You can cast [[DATABASE/spell/Darkvision|darkvision]], [[DATABASE/spell/Spider Climb|spider climb]], and 4th-level [[DATABASE/spell/Water Breathing|water breathing]] as innate primal spells, each once per day.
 
 ## Traits
 

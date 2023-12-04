@@ -11,6 +11,7 @@ name: Flesh Wound
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Flesh Wound <span class="action-icon">1</span> <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Gunslinger</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 
 ---
 You fire to ensure that even if your shot doesn't land cleanly, it still lands close enough to deal some damage. Make a ranged Strike. It gains the following effect on a failure (though not a critical failure).

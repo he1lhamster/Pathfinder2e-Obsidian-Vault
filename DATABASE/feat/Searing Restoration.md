@@ -11,6 +11,7 @@ name: Searing Restoration
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -27,10 +28,10 @@ type: Feat
 # Searing Restoration <span class="action-icon">1</span> <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Fire</span><span class="item-trait">Healing</span><span class="item-trait">Inventor</span><span class="item-trait">Manipulate</span><span class="item-trait">Unstable</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 
 ---
-They told you there was no way that explosions could heal people, but they were fools… Fools who didn't understand your brilliance! You create a minor explosion from your innovation, altering the combustion to cauterize wounds using vaporized medicinal herbs. You or a living creature adjacent to you regains 1d10 Hit Points. In addition, the creature you heal can attempt an immediate flat check to recover from a single source of [[Persistent Damage]], with the DC reduction from appropriate assistance.
+They told you there was no way that explosions could heal people, but they were fools… Fools who didn't understand your brilliance! You create a minor explosion from your innovation, altering the combustion to cauterize wounds using vaporized medicinal herbs. You or a living creature adjacent to you regains 1d10 Hit Points. In addition, the creature you heal can attempt an immediate flat check to recover from a single source of [[DATABASE/condition/Persistent Damage|persistent bleed damage]], with the DC reduction from appropriate assistance.
  At 3rd level, and every 2 levels thereafter, increase the healing by 1d10.
 **Special** If your innovation is a minion, it can take this action rather than you, though because it's not a living creature, it can't use the ability on itself.
 

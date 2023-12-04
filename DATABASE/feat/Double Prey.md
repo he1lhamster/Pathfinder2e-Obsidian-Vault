@@ -11,6 +11,7 @@ name: Double Prey
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Double Prey <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Ranger</span>
-**Source** [[Core Rulebook]] 
-**Archetypes** [[Bounty Hunter]]*, [[Game Hunter]]*
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetypes** [[DATABASE/archetype/Bounty Hunter|Bounty Hunter]]*, [[DATABASE/archetype/Game Hunter|Game Hunter]]*
 * This archetype offers Double Prey at a different level than displayed here.
 
 ---
@@ -36,4 +37,4 @@ This feat can be used for one or more Archetypes in addition to the listed Class
 
 ## Double Prey Leads To...
 
-[[Shared Prey]]
+[[DATABASE/feat/Shared Prey|Shared Prey]]

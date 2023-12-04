@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -57,9 +58,9 @@ weapon_type: null
 # Spirit Snare<span class="item-type">Item 8</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Consumable</span><span class="item-trait">Electricity</span><span class="item-trait">Mechanical</span><span class="item-trait">Snare</span><span class="item-trait">Trap</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 90 gp
 **Bulk** —
 
 ---
-This complicated snare is affixed with various crystals and Stasian coils attached to strange electrical relays, working on the same principles as etheric [[Spirit-Singer]]. When an incorporeal creature enters its square, the device lets loose an ectoplasmic web that lashes around the creature's spectral form. The creature must succeed a DC 26 Reflex saving throw or become [[Immobilized]] for 1 round. On a critical failure, the creature becomes immobilized for 1 minute. In either case, the incorporeal creature can attempt to [[Escape]] (DC 26).
+This complicated snare is affixed with various crystals and Stasian coils attached to strange electrical relays, working on the same principles as etheric [[DATABASE/equipment/Spirit-Singer|spirit singers]]. When an incorporeal creature enters its square, the device lets loose an ectoplasmic web that lashes around the creature's spectral form. The creature must succeed a DC 26 Reflex saving throw or become [[DATABASE/condition/Immobilized|immobilized]] for 1 round. On a critical failure, the creature becomes immobilized for 1 minute. In either case, the incorporeal creature can attempt to [[DATABASE/action/Escape|Escape]] (DC 26).

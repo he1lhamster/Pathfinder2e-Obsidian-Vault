@@ -11,6 +11,7 @@ name: Advanced Revelation
 prerequisite: initial revelation spell
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Advanced Revelation <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Oracle</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Prerequisites** initial revelation spell
 
 ---
@@ -31,4 +32,4 @@ You learn an advanced revelation spell associated with your mystery. Increase th
 
 ## Advanced Revelation Leads To...
 
-[[Diverse Mystery]]
+[[DATABASE/feat/Diverse Mystery|Diverse Mystery]]

@@ -102,31 +102,31 @@ wisdom: '+5'
 
 A marut is tasked with hunting mortals who cheat death by artificially extending their lifespans. This includes those who seek undeath, such as liches and vampires, but also includes those who use powerful magic to cling to their youth, use divination to discover and avoid an appointed death, or call too often on the power of resurrection. Once the marut has selected its target, the inevitable pursues its quarry without surcease or deviation until either it or the target is dead.
  Maruts seem to be carved from stone and clad in golden armor, yet they move with the deliberate grace of a creature made of flesh and bone. A marut never rushes, but its thunderous footfalls are relentless as it pursues its target. Though able to speak any language, the marut is taciturn even among inevitables.
-**Recall Knowledge - Monitor ([[Religion]])**: DC 34
+**Recall Knowledge - Monitor ([[DATABASE/skill/Religion|Religion]])**: DC 34
 **Unspecific Lore**: DC 32
 **Specific Lore**: DC 29
 
 # Marut<span class="item-type">Creature 15</span>
 
 <span class="trait-alignment item-trait">LN</span><span class="trait-size item-trait">Large</span><span class="item-trait">Aeon</span><span class="item-trait">Inevitable</span><span class="item-trait">Monitor</span>
-**Source** [[Bestiary 2]] 
-**Perception** +26; [[Darkvision]], [[True Seeing]]
-**Languages** [[Celestial]], [[Infernal]], [[Utopian]]; truespeech
-**Skills** [[Athletics]] +31, [[Lore]] +22, [[Diplomacy]] +27, [[Intimidation]] +29, [[Religion]] +26, [[Survival]] +28
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +26; [[DATABASE/monsterability/Darkvision|darkvision]], [[DATABASE/spell/True Seeing|true seeing]]
+**Languages** [[DATABASE/language/Celestial|Celestial]], [[DATABASE/language/Infernal|Infernal]], [[DATABASE/language/Utopian|Utopian]]; truespeech
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +31, [[DATABASE/skill/Lore|Axis Lore]] +22, [[DATABASE/skill/Diplomacy|Diplomacy]] +27, [[DATABASE/skill/Intimidation|Intimidation]] +29, [[DATABASE/skill/Religion|Religion]] +26, [[DATABASE/skill/Survival|Survival]] +28
 **Str** +8, **Dex** +4, **Con** +6, **Int** +1, **Wis** +5, **Cha** +6
 **Truespeech** A marut can speak with and understand any creature with a language.
 
 ---
 **AC** 37; **Fort** +27, **Ref** +25, **Will** +26; +2 status to all saves vs. magic
 **HP** 230, regeneration 15 (deactivated by chaotic); **Immunities** death effects, disease, emotion, poison, unconscious; **Weaknesses** chaotic 15
-<span class="in-box-ability">[[Attack of Opportunity]] <span class="action-icon">5</span> </span>
+<span class="in-box-ability">[[DATABASE/monsterability/Attack of Opportunity|Attack of Opportunity]] <span class="action-icon">5</span> </span>
 
 ---
-**Speed** 25 feet; [[Air Walk]]
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +30 [+25/+20] (lawful, magical, reach 10 feet), **Damage** 3d8+11 bludgeoning plus 1d6 lawful and fists of thunder and lightning</span>**Divine Innate Spells** DC 37; **8th** _[[Chain Lightning]]_, _[[Dispel Magic]]_, _[[Earthquake]]_, _[[Harm]]_; **7th** _[[Fear]]_, _[[Plane Shift]]_, _[[Wall of Force]]_; **5th** _[[Command]]_, _[[Locate]]_; **4th** _[[Dimension Door]]_ (at will); **Constant** **(8th)** _[[Air Walk]]_, _[[True Seeing]]_
-**Rituals** DC 36; **3rd** _[[Geas]]_
-<span class="in-box-ability">**Final End** The marut is anathema to beings that unnaturally extend their existence, including undead. Its fists bypass such creatures' resistances to damage and apply the creatures' highest weakness to damage. If a marut kills a creature that rejuvenates, like a lich or ghost, it always knows that the creature isn't fully defeated.</span><span class="in-box-ability">**Fists of Thunder and Lightning** (divine, evocation, incapacitation) Each time the marut makes a fist Strike, it chooses either lightning or thunder. If it chooses lightning, the attack deals an additional 2d12 electricity damage and the target must succeed at a DC 33 Fortitude save or be [[Blinded]] for 1 minute. If it chooses thunder, the attack deals an additional 3d8 sonic damage and the target must succeed at a DC 36 Fortitude save or be [[Deafened]] for 1 minute.</span>
+**Speed** 25 feet; [[DATABASE/spell/Air Walk|air walk]]
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +30 [+25/+20] (lawful, magical, reach 10 feet), **Damage** 3d8+11 bludgeoning plus 1d6 lawful and fists of thunder and lightning</span>**Divine Innate Spells** DC 37; **8th** _[[DATABASE/spell/Chain Lightning|chain lightning]]_, _[[DATABASE/spell/Dispel Magic|dispel magic]]_, _[[DATABASE/spell/Earthquake|earthquake]]_, _[[DATABASE/spell/Harm|harm]]_; **7th** _[[DATABASE/spell/Fear|fear]]_, _[[DATABASE/spell/Plane Shift|plane shift]]_, _[[DATABASE/spell/Wall of Force|wall of force]]_; **5th** _[[DATABASE/spell/Command|command]]_, _[[DATABASE/spell/Locate|locate]]_; **4th** _[[DATABASE/spell/Dimension Door|dimension door]]_ (at will); **Constant** **(8th)** _[[DATABASE/spell/Air Walk|air walk]]_, _[[DATABASE/spell/True Seeing|true seeing]]_
+**Rituals** DC 36; **3rd** _[[DATABASE/ritual/Geas|geas]]_
+<span class="in-box-ability">**Final End** The marut is anathema to beings that unnaturally extend their existence, including undead. Its fists bypass such creatures' resistances to damage and apply the creatures' highest weakness to damage. If a marut kills a creature that rejuvenates, like a lich or ghost, it always knows that the creature isn't fully defeated.</span><span class="in-box-ability">**Fists of Thunder and Lightning** (divine, evocation, incapacitation) Each time the marut makes a fist Strike, it chooses either lightning or thunder. If it chooses lightning, the attack deals an additional 2d12 electricity damage and the target must succeed at a DC 33 Fortitude save or be [[DATABASE/condition/Blinded|blinded]] for 1 minute. If it chooses thunder, the attack deals an additional 3d8 sonic damage and the target must succeed at a DC 36 Fortitude save or be [[DATABASE/condition/Deafened|deafened]] for 1 minute.</span>
 
 ###  Psychopomp Allies
 
-The mandate of marut inevitables is similar to that of [[Psychopomp]]. Generally, the practical psychopomps are content to let an unyielding marut complete its mission and swoop in afterward to ensure the work has been done, but occasionally, they may work together.
+The mandate of marut inevitables is similar to that of [[DATABASE/monsterfamily/Psychopomp|psychopomps]]. Generally, the practical psychopomps are content to let an unyielding marut complete its mission and swoop in afterward to ensure the work has been done, but occasionally, they may work together.

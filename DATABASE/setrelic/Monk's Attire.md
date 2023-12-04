@@ -2,6 +2,7 @@
 id: '5'
 name: Monk's Attire
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
 - '[[DATABASE/trait/Relic|Relic]]'
@@ -11,23 +12,23 @@ type: Set Relic
 # Monk's Attire
 
 <span class="item-trait">Relic</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Aspects** emotion (dedication) and life
 
 ---
-According to tales, some of the first [[Monk]] to assemble the austere _monk's attire_ were servants of [[Irori]]. This deity is a symbol of devotion and self-discovery through one's understanding of body, mind, and soul. _Monk's attire_ resonates with Irori's dedication, focusing on the highest gain from minimal acquisition, eschewing material objects. Legend holds Irori did so, and that some famous _monk's attire_ sets include a scrap of Irori's original possessions. Other monastic orders have similar traditions of minimal personal effects, with an emphasis on spiritual focus, practicality, and self-defense.
+According to tales, some of the first [[DATABASE/class_/Monk|monks]] to assemble the austere _monk's attire_ were servants of [[DATABASE/deity/Irori|Irori]]. This deity is a symbol of devotion and self-discovery through one's understanding of body, mind, and soul. _Monk's attire_ resonates with Irori's dedication, focusing on the highest gain from minimal acquisition, eschewing material objects. Legend holds Irori did so, and that some famous _monk's attire_ sets include a scrap of Irori's original possessions. Other monastic orders have similar traditions of minimal personal effects, with an emphasis on spiritual focus, practicality, and self-defense.
 
 ---
-**Set Items**: _[[Handwraps of Mighty Blows]]_ (level 2), _[[Magic Armor]]_ (level 5) or _[[Bracers of Armor]]_ (level 8), _[[Ki-Channeling Beads]]_ (level 11) or _[[Mask of Uncanny Breath]]_ (level 11)
+**Set Items**: _[[DATABASE/equipment/Handwraps of Mighty Blows|handwraps of mighty blows (+1)]]_ (level 2), _[[DATABASE/equipment/Magic Armor|+1 cloth armor]]_ (level 5) or _[[DATABASE/equipment/Bracers of Armor|bracers of armor i]]_ (level 8), _[[DATABASE/equipment/Ki-Channeling Beads|ki-channeling beads]]_ (level 11) or _[[DATABASE/equipment/Mask of Uncanny Breath|mask of uncanny breath]]_ (level 11)
 
 ---
 **Gifts**: The set grants the following gifts.
 
-* _1_: [[Overflowing Life]]
-* _2_: [[Dominant Emotion]]
-* _3_: [[Inextinguishable]]
-* _3 (one 13th-level or higher item)_: [[Emotion Conduit]]
-* _3 (one 17th-level or higher item)_: [[Quickening Emotion]]
+* _1_: [[DATABASE/relic/Overflowing Life|overflowing life]]
+* _2_: [[DATABASE/relic/Dominant Emotion|dominant emotion]]
+* _3_: [[DATABASE/relic/Inextinguishable|inextinguishable]]
+* _3 (one 13th-level or higher item)_: [[DATABASE/relic/Emotion Conduit|emotion conduit]]
+* _3 (one 17th-level or higher item)_: [[DATABASE/relic/Quickening Emotion|quickening emotion]]
 
 ---
 The set grants the following features.

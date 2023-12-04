@@ -75,17 +75,17 @@ wisdom: '+3'
 # Elemental Inferno
 
 Walking conflagrations of unimaginably hot fire, elemental infernos are harbingers of destruction and heedless chaos.
-**Recall Knowledge - Elemental ([[Arcana]], [[Nature]])**: DC 28
+**Recall Knowledge - Elemental ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 28
 **Unspecific Lore**: DC 26
 **Specific Lore**: DC 23
 
 # Elemental Inferno<span class="item-type">Creature 11</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Huge</span><span class="item-trait">Elemental</span><span class="item-trait">Fire</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +20; darkvision, smoke vision
-**Languages** [[Ignan]]
-**Skills** [[Acrobatics]] +21
+**Languages** [[DATABASE/language/Ignan|Ignan]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +21
 **Str** +6, **Dex** +6, **Con** +5, **Int** +0, **Wis** +3, **Cha** +0
 **Smoke Vision** The elemental inferno ignores the concealed condition from smoke.
 

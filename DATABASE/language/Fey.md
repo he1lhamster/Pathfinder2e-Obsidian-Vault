@@ -2,6 +2,7 @@
 id: '119'
 name: Fey
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 trait: null
 type: Language
@@ -9,9 +10,9 @@ type: Language
 ---
 # Fey
 
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 The below entries contain speakers of Fey.
 
 ## Monsters (4)
 
-[[Elder Outcrop]], [[Harvest Regiment]], [[Nightwood Guardian]], [[Twins of Rowan]]
+[[DATABASE/monster/Elder Outcrop|Elder Outcrop]], [[DATABASE/monster/Harvest Regiment|Harvest Regiment]], [[DATABASE/monster/Nightwood Guardian|Nightwood Guardian]], [[DATABASE/monster/Twins of Rowan|Twins of Rowan]]

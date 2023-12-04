@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 size: null
@@ -53,7 +54,7 @@ weapon_type: null
 # Resilient<span class="item-type">Item 8+</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Magical</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** etched onto armor; **Bulk** —
 
 ---
@@ -62,17 +63,17 @@ _Resilient_ runes imbue armor with additional protective magic. This grants the 
 
 ## Resilient<span class="item-type">Item 8</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 340 gp
 
 ## Resilient (Greater)<span class="item-type">Item 14</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 3,440 gp
 The armor grants a +2 item bonus to saving throws.
 
 ## Resilient (Major)<span class="item-type">Item 20</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 49,440 gp
 The armor grants a +3 item bonus to saving throws.

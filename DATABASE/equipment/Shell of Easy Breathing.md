@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -53,7 +54,7 @@ weapon_type: null
 # Shell of Easy Breathing<span class="item-type">Item 5+</span>
 
 <span class="item-trait">Magical</span><span class="item-trait">Water</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Price** 160 gp
 **Bulk** 2
 
@@ -64,13 +65,13 @@ This large salt-encrusted seashell is more than 2 feet across, with images of de
 
 ## Shell of Easy Breathing<span class="item-type">Item 5</span>
 
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Price** 160 gp
 **Bulk** 2
 
 ## Shell of Easy Breathing (Greater)<span class="item-type">Item 9</span>
 
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Price** 700 gp
 **Bulk** 2
 The duration of the ability to breathe underwater increases to 8 hours.

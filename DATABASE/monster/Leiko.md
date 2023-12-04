@@ -86,14 +86,14 @@ This creature did not include a description.
 # Leiko<span class="item-type">Creature 4</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Shadow</span>
-**Source** [[Pathfinder 187. The Seventh Arch]]
-Female [[Shae]] experimenter
-**Perception** +10; [[Darkvision]]
-**Languages** [[Aklo]], [[Auran]], [[Common]], [[Shae]], [[Undercommon]]
-**Skills** [[Acrobatics]] +13, [[Deception]] +9, [[Occultism]] +11, [[Lore]] +11, [[Stealth]] +13
+**Source** [[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh Arch]]
+Female [[DATABASE/monster/Shae|shae]] experimenter
+**Perception** +10; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Aklo|Aklo]], [[DATABASE/language/Auran|Auran]], [[DATABASE/language/Common|Common]], [[DATABASE/language/Shae|Shae]], [[DATABASE/language/Undercommon|Undercommon]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +13, [[DATABASE/skill/Deception|Deception]] +9, [[DATABASE/skill/Occultism|Occultism]] +11, [[DATABASE/skill/Lore|Shadow Plane Lore]] +11, [[DATABASE/skill/Stealth|Stealth]] +13
 **Str** +3, **Dex** +5, **Con** +1, **Int** +3, **Wis** +2, **Cha** +3
-**Shadow Shift** Being made partially of shadow herself, Leikois [[Concealed]] in dim light or darkness even to creatures that can see clearly in those light levels.
-**Items** [[Dagger]]
+**Shadow Shift** Being made partially of shadow herself, Leikois [[DATABASE/condition/Concealed|concealed]] in dim light or darkness even to creatures that can see clearly in those light levels.
+**Items** [[DATABASE/weapon/Dagger|dagger (15)]]
 
 ---
 **AC** 21; **Fort** +9, **Ref** +11, **Will** +10
@@ -102,5 +102,5 @@ Female [[Shae]] experimenter
 
 ---
 **Speed** 25 feet, fly 35 feet; swift steps, tenebral form
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> dagger +13 [+9/+5] (agile, versatile S), **Damage** 1d4+5 piercing plus 1d6 cold</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> dagger +13 [+9/+5] (agile, thrown 10 feet, versatile S), **Damage** 1d4+5 piercing plus 1d6 cold</span>**Occult Innate Spells** DC 21; **7th** _[[Plane Shift]]_; **4th** _[[Gaseous Form]]_ (at will); **Cantrips** **(2nd)** _[[Chill Touch]]_, _[[Detect Magic]]_
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> dagger +13 [+9/+5] (agile, versatile S), **Damage** 1d4+5 piercing plus 1d6 cold</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> dagger +13 [+9/+5] (agile, thrown 10 feet, versatile S), **Damage** 1d4+5 piercing plus 1d6 cold</span>**Occult Innate Spells** DC 21; **7th** _[[DATABASE/spell/Plane Shift|plane shift]]_; **4th** _[[DATABASE/spell/Gaseous Form|gaseous form]]_ (at will); **Cantrips** **(2nd)** _[[DATABASE/spell/Chill Touch|chill touch]]_, _[[DATABASE/spell/Detect Magic|detect magic]]_
 <span class="in-box-ability">****Bide**** <span class="action-icon">2</span> Leiko prepares to take action against her foes, watching her opponent and waiting for the right opportunity to respond. Leiko gains a second reaction until the start of her next turn, though she still can't use more than one reaction on the same triggering action.</span><span class="in-box-ability">****Swift Steps**** Leiko's movement doesn't trigger reactions.</span><span class="in-box-ability">****Tenebral Form**** Leiko can Fly at full Speed in gaseous form.</span>

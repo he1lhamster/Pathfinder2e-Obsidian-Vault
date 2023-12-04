@@ -2,6 +2,7 @@
 id: '15'
 name: New Leadership
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait: null
 type: General Skill Action
@@ -9,19 +10,19 @@ type: General Skill Action
 ---
 # New Leadership (Untrained)
 
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 
 ## Skill Uses
 
-[[Intrigue]] New Leadership
-[[Politics]] New Leadership
-[[Statecraft]] New Leadership
-[[Warfare]] New Leadership
+[[DATABASE/skill/Intrigue|Intrigue]] New Leadership
+[[DATABASE/skill/Politics|Politics]] New Leadership
+[[DATABASE/skill/Statecraft|Statecraft]] New Leadership
+[[DATABASE/skill/Warfare|Warfare]] New Leadership
 
-## [[New Leadership]]
+## [[DATABASE/action/New Leadership|New Leadership]]
 
 <span class="item-trait">Downtime</span><span class="item-trait">Upkeep</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 
 ---
 You announce the promotion of a character into a leadership role, whether they're a newly appointed leader or just shifting from one leadership role to another.

@@ -11,6 +11,7 @@ name: Sense the Unseen
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -25,8 +26,8 @@ type: Feat
 # Sense the Unseen <span class="action-icon">5</span> <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Investigator</span><span class="item-trait">Ranger</span><span class="item-trait">Rogue</span>
-**Source** [[Advanced Player's Guide]] , [[Core Rulebook]] 
-**Archetypes** [[Exorcist]]*, [[Shadowdancer]]***Trigger** You fail a check to Seek.
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] , [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetypes** [[DATABASE/archetype/Exorcist|Exorcist]]*, [[DATABASE/archetype/Shadowdancer|Shadowdancer]]***Trigger** You fail a check to Seek.
 * This archetype offers Sense the Unseen at a different level than displayed here.
 
 ---

@@ -104,27 +104,27 @@ wisdom: '+6'
 # Basiri, Wellspring Keeper
 
 This creature did not include a description.
-**Recall Knowledge - Undead ([[Religion]])**: DC 49
+**Recall Knowledge - Undead ([[DATABASE/skill/Religion|Religion]])**: DC 49
 **Unspecific Lore**: DC 47
 **Specific Lore**: DC 44
 
 # Basiri, Wellspring Keeper<span class="item-type">Creature 19</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Aquatic</span><span class="item-trait">Skeleton</span><span class="item-trait">Undead</span>
-**Source** [[Pathfinder 186. Ghost King's Rage]]
-**Perception** +33; [[Darkvision]], [[True Seeing]]
-**Languages** [[Common]], [[Draconic]], [[Necril]], [[Sphinx]]; [[Telepathy]] 100 feet, [[Tongues]]
-**Skills** [[Acrobatics]] +31, [[Athletics]] +37, [[Lore]] +35, [[Deception]] +32, [[Diplomacy]] +32, [[Intimidation]] +32, [[Occultism]] +33, [[Religion]] +33
+**Source** [[DATABASE/source/Pathfinder 186. Ghost King's Rage|Pathfinder #186: Ghost King's Rage]]
+**Perception** +33; [[DATABASE/monsterability/Darkvision|darkvision]], [[DATABASE/spell/True Seeing|true seeing]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Necril|Necril]], [[DATABASE/language/Sphinx|Sphinx]]; [[DATABASE/monsterability/Telepathy|telepathy]] 100 feet, [[DATABASE/spell/Tongues|tongues]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +31, [[DATABASE/skill/Athletics|Athletics]] +37, [[DATABASE/skill/Lore|Bardic Lore]] +35, [[DATABASE/skill/Deception|Deception]] +32, [[DATABASE/skill/Diplomacy|Diplomacy]] +32, [[DATABASE/skill/Intimidation|Intimidation]] +32, [[DATABASE/skill/Occultism|Occultism]] +33, [[DATABASE/skill/Religion|Religion]] +33
 **Str** +10, **Dex** +4, **Con** +4, **Int** +6, **Wis** +6, **Cha** +5
-**Bardic Lore** Sphinxes are naturally curious, and their love of puzzles and mysteries leads them to gather information on a broad range of topics. Sphinxes have the [[Bardic Lore]] bard feat, allowing them to [[Recall Knowledge]] on any topic.
-**Items** [[Third Eye]]
+**Bardic Lore** Sphinxes are naturally curious, and their love of puzzles and mysteries leads them to gather information on a broad range of topics. Sphinxes have the [[DATABASE/feat/Bardic Lore|Bardic Lore]] bard feat, allowing them to [[DATABASE/action/Recall Knowledge|Recall Knowledge]] on any topic.
+**Items** [[DATABASE/equipment/Third Eye|third eye]]
 
 ---
 **AC** 40; **Fort** +31, **Ref** +31, **Will** +37
-**HP** 400 ([[Negative Healing]]); **Immunities** death effects, disease, [[Paralyzed]], poison, [[Unconscious]]; **Resistances** cold 20, electricity 20, fire 20, piercing 20, slashing 20
+**HP** 400 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** death effects, disease, [[DATABASE/condition/Paralyzed|paralyze]], poison, [[DATABASE/condition/Unconscious|unconscious]]; **Resistances** cold 20, electricity 20, fire 20, piercing 20, slashing 20
 
 ---
 **Speed** 35 feet, swim 40 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +36 [+32/+28] (agile), **Damage** 4d8+18 slashing</span>**Occult Innate Spells** DC 41; **9th** _[[Dispel Magic]]_; **5th** _[[Locate]]_; **4th** _[[Clairaudience]]_ (at will), _[[Clairvoyance]]_ (at will), _[[Read Omens]]_ (at will), _[[Remove Curse]]_ (at will), _[[Ventriloquism]]_ (at will); **Cantrips** **(9th)** _[[Detect Magic]]_, _[[Read Aura]]_; **Constant** **(9th)** _[[Tongues]]_, _[[True Seeing]]_
-**Rituals** DC 41; **7th** _[[Legend Lore]]_; **6th** _[[Commune]]_
-<span class="in-box-ability">**Aquatic Assault** <span class="action-icon">1</span> Basiri Swims and makes a Strike at the end of that movement. If both she and her opponent are submerged underwater, she can Strike one additional time.</span><span class="in-box-ability">**Harness Wellspring** <span class="action-icon">1</span> Basiri draws upon the necromantic wellspring to power her spellcasting. During her turn, she gains the ability to cast one of the following spells, heightened to 9th level: [[Spirit Blast]] or [[Spirit Song]].</span><span class="in-box-ability">**Wellspring Guardian** Once per day, Basiri can protect the necromantic wellspring by inscribing a magical sigil around the wellspring orrery. The first time a creature other than Basiri touches the orrery, that creature must succeed at a DC 41 Will save or be affected by [[Spirit Blast]] (9th).</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +36 [+32/+28] (agile), **Damage** 4d8+18 slashing</span>**Occult Innate Spells** DC 41; **9th** _[[DATABASE/spell/Dispel Magic|dispel magic]]_; **5th** _[[DATABASE/spell/Locate|locate]]_; **4th** _[[DATABASE/spell/Clairaudience|clairaudience]]_ (at will), _[[DATABASE/spell/Clairvoyance|clairvoyance]]_ (at will), _[[DATABASE/spell/Read Omens|read omens]]_ (at will), _[[DATABASE/spell/Remove Curse|remove curse]]_ (at will), _[[DATABASE/spell/Ventriloquism|ventriloquism]]_ (at will); **Cantrips** **(9th)** _[[DATABASE/spell/Detect Magic|detect magic]]_, _[[DATABASE/spell/Read Aura|read aura]]_; **Constant** **(9th)** _[[DATABASE/spell/Tongues|tongues]]_, _[[DATABASE/spell/True Seeing|true seeing]]_
+**Rituals** DC 41; **7th** _[[DATABASE/ritual/Legend Lore|legend lore]]_; **6th** _[[DATABASE/ritual/Commune|commune]]_
+<span class="in-box-ability">**Aquatic Assault** <span class="action-icon">1</span> Basiri Swims and makes a Strike at the end of that movement. If both she and her opponent are submerged underwater, she can Strike one additional time.</span><span class="in-box-ability">**Harness Wellspring** <span class="action-icon">1</span> Basiri draws upon the necromantic wellspring to power her spellcasting. During her turn, she gains the ability to cast one of the following spells, heightened to 9th level: [[DATABASE/spell/Spirit Blast|spirit blast]] or [[DATABASE/spell/Spirit Song|spirit song]].</span><span class="in-box-ability">**Wellspring Guardian** Once per day, Basiri can protect the necromantic wellspring by inscribing a magical sigil around the wellspring orrery. The first time a creature other than Basiri touches the orrery, that creature must succeed at a DC 41 Will save or be affected by [[DATABASE/spell/Spirit Blast|spirit blast]] (9th).</span>

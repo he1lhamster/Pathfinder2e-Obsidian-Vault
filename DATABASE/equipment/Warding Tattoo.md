@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -52,7 +53,7 @@ weapon_type: null
 # Warding Tattoo<span class="item-type">Item 5+</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span><span class="item-trait">Tattoo</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Usage** tattooed on the body; **Bulk** —
 
 ---
@@ -61,24 +62,24 @@ Many cultures of Golarion have a tattoo to turn away harm; as such, warding tatt
 
 ## Warding Tattoo<span class="item-type">Item 5</span>
 
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Price** 140 gp
 
 ## Warding Tattoo (Trail)<span class="item-type">Item 6</span>
 
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Price** 250 gp
 You gain resistance 2 to damage from hazardous terrain and environmental hazards at all times, which increases to 5 when the tattoo is activated.
 
 ## Warding Tattoo (Wave)<span class="item-type">Item 6</span>
 
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Price** 220 gp
-In addition to the normal triggers, you can activate the tattoo when you enter an environment where you can't breathe. When you activate the tattoo, it casts [[Air Bubble]] on you, in addition to the other effects.
+In addition to the normal triggers, you can activate the tattoo when you enter an environment where you can't breathe. When you activate the tattoo, it casts [[DATABASE/spell/Air Bubble|air bubble]] on you, in addition to the other effects.
 
 ## Warding Tattoo (Fiend)<span class="item-type">Item 7</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Price** 300 gp
 You gain resistance 2 to spells cast by fiends and magical attacks by fiends, which increases to 5 when the tattoo is activated.

@@ -11,6 +11,7 @@ name: Advanced Blood Potency
 prerequisite: '[[DATABASE/feat/Basic Blood Potency|Basic Blood Potency]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Advanced Blood Potency <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Sorcerer]]
-**Prerequisites** [[Basic Blood Potency]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Sorcerer|Sorcerer]]
+**Prerequisites** [[DATABASE/feat/Basic Blood Potency|Basic Blood Potency]]
 
 ---
 You gain one sorcerer feat. For the purpose of prerequisites, your sorcerer level is half your character level.

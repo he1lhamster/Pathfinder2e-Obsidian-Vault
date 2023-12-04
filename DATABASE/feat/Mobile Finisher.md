@@ -11,6 +11,7 @@ name: Mobile Finisher
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,10 +25,10 @@ type: Feat
 # Mobile Finisher <span class="action-icon">1</span> <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Finisher</span><span class="item-trait">Swashbuckler</span>
-**Source** [[Advanced Player's Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]]
 
 ---
-You attack in motion. Stride and then Strike. You can use Mobile Finisher while [[Burrow]], [[Climb]], [[Fly]], or [[Swim]] instead of Striding if you have the corresponding movement type.
+You attack in motion. Stride and then Strike. You can use Mobile Finisher while [[DATABASE/action/Burrow|Burrowing]], [[DATABASE/action/Climb|Climbing]], [[DATABASE/action/Fly|Flying]], or [[DATABASE/action/Swim|Swimming]] instead of Striding if you have the corresponding movement type.
 
 ## Traits
 

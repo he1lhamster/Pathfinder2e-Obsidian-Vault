@@ -11,6 +11,7 @@ name: Intuitive Crafting
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Intuitive Crafting <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Aphorite</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-Your affinity with process and order makes you a natural artisan. You gain the trained proficiency rank in [[Crafting]] (or another skill of your choice, if you're already trained in Crafting). You gain the [[Specialty Crafting]] skill feat in a specialty of your choice.
+Your affinity with process and order makes you a natural artisan. You gain the trained proficiency rank in [[DATABASE/skill/Crafting|Crafting]] (or another skill of your choice, if you're already trained in Crafting). You gain the [[DATABASE/feat/Specialty Crafting|Specialty Crafting]] skill feat in a specialty of your choice.
 
 ## Traits
 

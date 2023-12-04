@@ -13,6 +13,7 @@ primary_check: '[[DATABASE/skill/Religion|Religion]] (expert)'
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: Conjuration
 secondary_casters: 2, must share your religion
 secondary_check: '[[DATABASE/skill/Diplomacy|Diplomacy]]'
@@ -27,9 +28,9 @@ type: Ritual
 # Planar Ally<span class="item-type">Ritual 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Conjuration</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Cast** 1 day; **Cost** rare incense and offerings worth a total value of 2 gp × the spell level × the target’s level; **Secondary Casters** 2, must share your religion
-**Primary Check** [[Religion]] (expert); **Secondary Checks** [[Diplomacy]]
+**Primary Check** [[DATABASE/skill/Religion|Religion]] (expert); **Secondary Checks** [[DATABASE/skill/Diplomacy|Diplomacy]]
 **Duration** see text
 
 ---
@@ -37,4 +38,4 @@ You call upon your deity to grant you aid in the form of a divine servitor of yo
 **Critical Success** Your deity sends a servitor, and the servitor’s payment costs only half as much as normal. If you ask for a particular servitor by name, your deity is likely to send that servitor unless the servitor is busy.
 **Success** Your deity sends a servitor.
 **Failure** Your deity does not send a servitor.
-**Critical Failure** Your deity is offended and sends a sign of displeasure or possibly even a servitor to scold or attack you, depending on your deity’s nature. You must conduct an [[Atone]] ritual to regain your former standing with your deity.
+**Critical Failure** Your deity is offended and sends a sign of displeasure or possibly even a servitor to scold or attack you, depending on your deity’s nature. You must conduct an [[DATABASE/ritual/Atone|atone]] ritual to regain your former standing with your deity.

@@ -132,20 +132,20 @@ A slothspawn has Society +6 and usually carries a longspear. Thick rolls of exce
 The most commonly encountered of the sinspawn, a wrathspawn has Athletics +12 and typically wields a ranseur. These sinspawn are the bulkiest looking of their kind.
  **Melee** <span class="action-icon">1</span> ranseur + 10 (disarm, reach 10 feet), **Damage** 1d10+4 piercing
  **Sinful Bite** Creatures that critically fail their saves against a wrathspawn’s sinful bite are drained 1 as well as enfeebled 1 for 1 minute.
-**Recall Knowledge - Aberration ([[Occultism]])**: DC 16
+**Recall Knowledge - Aberration ([[DATABASE/skill/Occultism|Occultism]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
-## Elite | [[Sinspawn]] | Weak
+## Elite | [[DATABASE/monster/Sinspawn|Normal]] | Weak
 Proficiency without Level
 
 # Sinspawn<span class="item-type">Creature 2</span>
 
 <span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Aberration</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +10; darkvision, sin scent (imprecise) 30 feet
-**Languages** [[Aklo]]
-**Skills** [[Acrobatics]] +9, [[Athletics]] +8, [[Stealth]] +9, [[Survival]] +6
+**Languages** [[DATABASE/language/Aklo|Aklo]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +9, [[DATABASE/skill/Athletics|Athletics]] +8, [[DATABASE/skill/Stealth|Stealth]] +9, [[DATABASE/skill/Survival|Survival]] +6
 **Str** +4, **Dex** +3, **Con** +4, **Int** +0, **Wis** +2, **Cha** +1
 **Sin Scent** A sinspawn can smell creatures that reflect its sin, as the scent ability. The GM determines which creatures are appropriately sinful.
 **Items** one weapon determined by its sin
@@ -159,9 +159,9 @@ Proficiency without Level
 **Speed** 30 feet
 <span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +10 [+6/+2] (agile), **Damage** 1d8+4 piercing plus sinful bite</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> claw +10 [+5/+0], **Damage** 1d6+4 slashing</span><span class="in-box-ability">**Sinful Bite** (arcane, emotion, mental) A creature hit by the jaws of a sinspawn must attempt a DC 18 Will save as it is assailed by sinful thoughts.
  **Critical Success** Unaffected.
- **Success** [[Sickened]].
- **Failure** [[Sickened]].
- **Critical Failure** [[Sickened]] plus an additional penalty, determined by the sinspawn’s sin, while it remains sickened.</span><span class="in-box-ability">**Sin** A sinspawn gains an additional skill based on its sin, as well as a weapon that reflects the preferences of its kinds’ ancient creators. The seven sins and the benefits they confer upon a sinspawn are noted in the Sinspawn Sins section.</span>
+ **Success** [[DATABASE/condition/Sickened|Sickened 1]].
+ **Failure** [[DATABASE/condition/Sickened|Sickened 2]].
+ **Critical Failure** [[DATABASE/condition/Sickened|Sickened 2]] plus an additional penalty, determined by the sinspawn’s sin, while it remains sickened.</span><span class="in-box-ability">**Sin** A sinspawn gains an additional skill based on its sin, as well as a weapon that reflects the preferences of its kinds’ ancient creators. The seven sins and the benefits they confer upon a sinspawn are noted in the Sinspawn Sins section.</span>
 
 ###  Born of Sin
 

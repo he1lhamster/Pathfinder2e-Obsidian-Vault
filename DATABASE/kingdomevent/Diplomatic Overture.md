@@ -3,6 +3,7 @@ id: '8'
 level: '0'
 name: Diplomatic Overture
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Statecraft|Statecraft]]'
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
@@ -14,9 +15,9 @@ type: Kingdom Event
 # Diplomatic Overture<span class="item-type">Event +0</span>
 
 <span class="item-trait">Beneficial</span>
-**Source** [[Kingmaker Adventure Path]]
-Another nation or group sends an ambassador to your kingdom. The group sending the overture is randomly selected from the Negotiation DCs sidebar on page 519. If the kingdom has established diplomatic relations with that group, the event proceeds with the Statecraft check below. If the kingdom has not yet established diplomatic relations with the group, this event instead gives the kingdom the opportunity to immediately use the [[Send Diplomatic Envoy]] Leadership activity.
-**Kingdom Skill** [[Statecraft]]; **Leader** Emissary
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
+Another nation or group sends an ambassador to your kingdom. The group sending the overture is randomly selected from the Negotiation DCs sidebar on page 519. If the kingdom has established diplomatic relations with that group, the event proceeds with the Statecraft check below. If the kingdom has not yet established diplomatic relations with the group, this event instead gives the kingdom the opportunity to immediately use the [[DATABASE/action/Send Diplomatic Envoy|Send Diplomatic Envoy]] Leadership activity.
+**Kingdom Skill** [[DATABASE/skill/Statecraft|Statecraft]]; **Leader** Emissary
 **Critical Success** The diplomatic meeting is incredibly successful, and you can choose two of the following benefits: gain 5 Commodities of your choice, gain an additional 2 Resource Dice at the start of your next turn, or automatically establish a trade agreement with the group.
 **Success** As success, but choose only one benefit.
 **Failure** Your meeting is cordial but unproductive.

@@ -16,6 +16,7 @@ price: 480 gp
 rarity: Uncommon
 reflex: null
 resistance: null
+rus_type_level: null
 school: null
 size: Large
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
@@ -28,13 +29,13 @@ type: Vehicle
 # Bathysphere<span class="item-type">Vehicle 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-size item-trait">Large</span>
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 480 gp
 
 ---
 **Space** 15 feet long, 15 feet wide, 15 feet high
 **Crew** 1 pilot; **Passengers** 4
-**Piloting Check** [[Crafting]] (DC 22), Engineering [[Lore]] (DC 20), or Piloting Lore (DC 20)
+**Piloting Check** [[DATABASE/skill/Crafting|Crafting]] (DC 22), Engineering [[DATABASE/skill/Lore|Lore]] (DC 20), or Piloting Lore (DC 20)
 
 ---
 **AC** 18; **Fort** +12

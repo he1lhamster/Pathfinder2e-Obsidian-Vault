@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -38,14 +39,14 @@ type: Focus
 # Glimpse the Truth<span class="item-type">Focus 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Cleric</span><span class="item-trait">Divination</span><span class="item-trait">Revelation</span>
-**Source** [[Core Rulebook]] 
-**Domain** [[Truth Domain]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Domain** [[DATABASE/domain/Truth Domain|truth]]
 **Cast** <span class="action-icon">1</span> somatic
 **Area** 30-foot emanation
 **Duration** 1 round
 
 ---
-Divine insight lets you see things as they truly are. The GM attempts a secret counteract check against each illusion that is at least partially within the area. Instead of counteracting the illusion, you see through it (for instance, if the check succeeds against an [[Illusory Disguise]] spell, you see the creature's true form but _illusory disguise_ doesn't end).
+Divine insight lets you see things as they truly are. The GM attempts a secret counteract check against each illusion that is at least partially within the area. Instead of counteracting the illusion, you see through it (for instance, if the check succeeds against an [[DATABASE/spell/Illusory Disguise|illusory disguise]] spell, you see the creature's true form but _illusory disguise_ doesn't end).
  The area moves with you for the duration of the spell, and the GM attempts a secret counteract check each time a new illusion is within the area.
 
 ---

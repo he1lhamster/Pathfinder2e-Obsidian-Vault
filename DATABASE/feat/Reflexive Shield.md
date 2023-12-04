@@ -11,6 +11,7 @@ name: Reflexive Shield
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,12 +24,12 @@ type: Feat
 # Reflexive Shield <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Fighter</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Bastion]]*
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Bastion|Bastion]]*
 * This archetype offers Reflexive Shield at a different level than displayed here.
 
 ---
-You can use your shield to fend off the worst of area effects and other damage. When you [[Raise a Shield]], you gain your shield's circumstance bonus to Reflex saves. If you have the [[Shield Block]] reaction, damage you take as a result of a Reflex save can trigger that reaction, even if the damage isn't physical damage.
+You can use your shield to fend off the worst of area effects and other damage. When you [[DATABASE/action/Raise a Shield|Raise your Shield]], you gain your shield's circumstance bonus to Reflex saves. If you have the [[DATABASE/feat/Shield Block|Shield Block]] reaction, damage you take as a result of a Reflex save can trigger that reaction, even if the damage isn't physical damage.
 
 ## Archetype Use
 
@@ -36,4 +37,4 @@ This feat can be used for one or more Archetypes in addition to the listed Class
 
 ## Reflexive Shield Leads To...
 
-[[Improved Reflexive Shield]]
+[[DATABASE/feat/Improved Reflexive Shield|Improved Reflexive Shield]]

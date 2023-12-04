@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: DC 41 Fortitude
 school: null
 size: null
@@ -57,11 +58,11 @@ weapon_type: null
 # King's Sleep<span class="item-type">Item 18</span>
 
 <span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Ingested</span><span class="item-trait">Poison</span><span class="item-trait">Virulent</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 4,000 gp
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
 ---
-King's sleep is an insidious long-term poison that can seem like a disease or even death from natural causes on a venerable target. The [[Drained]] condition from king's sleep is cumulative with each failed save and can't be removed while the poison lasts.
+King's sleep is an insidious long-term poison that can seem like a disease or even death from natural causes on a venerable target. The [[DATABASE/condition/Drained|drained]] condition from king's sleep is cumulative with each failed save and can't be removed while the poison lasts.
 **Saving Throw** DC 41 Fortitude; **Onset** 1 day; **Stage 1** drained 1 (1 day); **Stage 2** drained 1 (1 day); **Stage 3** drained 2 (1 day)

@@ -31,6 +31,7 @@ rarity: Unique
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 size: null
@@ -57,12 +58,12 @@ weapon_type: null
 # The Crows<span class="item-type">Item 20</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="item-trait">Artifact</span><span class="item-trait">Conjuration</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span>
-**Source** [[Pathfinder 192. Worst of All Possible Worlds]]
+**Source** [[DATABASE/source/Pathfinder 192. Worst of All Possible Worlds|Pathfinder #192: Worst of All Possible Worlds]]
 **Usage** carried; **Bulk** —
 **Suit** Keys (Dex); **Alignment** neutral evil
 
 ---
-_The Crows_ represent taking things through violence or force, particularly when done through agility and swiftness rather than brawn. As long as _The Crows_ is invested, you can attempt to [[Grapple]] targets with [[Acrobatics]] checks, and if you're at least trained in [[Thievery]], to [[Disarm]] with Thievery checks. When you do so, you gain a +2 item bonus on the attempt, or a +3 item bonus if you're at least 17th level.
+_The Crows_ represent taking things through violence or force, particularly when done through agility and swiftness rather than brawn. As long as _The Crows_ is invested, you can attempt to [[DATABASE/action/Grapple|Grapple]] targets with [[DATABASE/skill/Acrobatics|Acrobatics]] checks, and if you're at least trained in [[DATABASE/skill/Thievery|Thievery]], to [[DATABASE/action/Disarm|Disarm]] with Thievery checks. When you do so, you gain a +2 item bonus on the attempt, or a +3 item bonus if you're at least 17th level.
 **Activate** <span class="action-icon">4</span> envision, Interact (teleportation) **Frequency** once per day; **Effect** You hold the card in your hand, and with a flick of the wrist it vanishes, only to be replaced by an object of your choice within 30 feet. The object must be 2 Bulk or less. If that object is unattended, it teleports into your hand automatically. If the object is attended by a creature, you must make a Thievery check against the creature's Reflex DC.
 **Critical Success** The object teleports into your hand.
 **Success** The object vanishes from the target's possession and lands on the ground at a point at a midway point between you two.

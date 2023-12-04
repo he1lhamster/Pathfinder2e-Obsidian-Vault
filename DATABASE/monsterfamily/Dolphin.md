@@ -3,6 +3,7 @@ creature_family: Dolphin
 id: '131'
 name: Dolphin
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Dolphin
 
-**Source** [[Bestiary 2]] 
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
 Dolphins encompass a wide range of aquatic mammals, all of which are quite social, intelligent, and widespread through the world’s oceans.
 
 ### Members
 
-[[Bottlenose Dolphin]] (Creature 0), [[Orca]] (Creature 5), [[Whalesteed]] (Creature 0)
+[[DATABASE/monster/Bottlenose Dolphin|Bottlenose Dolphin]] (Creature 0), [[DATABASE/monster/Orca|Orca]] (Creature 5), [[DATABASE/monster/Whalesteed|Whalesteed]] (Creature 0)
 
 ###  Dolphins to the Rescue
 

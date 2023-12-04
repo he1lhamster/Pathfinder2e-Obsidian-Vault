@@ -78,28 +78,28 @@ wisdom: '+2'
 # Ardissa Prendergant
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 28
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 28
 **Unspecific Lore**: DC 26
 **Specific Lore**: DC 23
 
 # Ardissa Prendergant<span class="item-type">Creature 3</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 175. Broken Tusk Moon]]
-Female [[Human]] trophy hunter
+**Source** [[DATABASE/source/Pathfinder 175. Broken Tusk Moon|Pathfinder #175: Broken Tusk Moon]]
+Female [[DATABASE/ancestry/Human|human]] trophy hunter
 **Perception** +9
-**Languages** [[Common]]
-**Skills** [[Acrobatics]] +7, [[Arcana]] +9, [[Crafting]] +9, [[Nature]] +9, [[Stealth]] +9, [[Survival]] +7
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +7, [[DATABASE/skill/Arcana|Arcana]] +9, [[DATABASE/skill/Crafting|Crafting]] +9, [[DATABASE/skill/Nature|Nature]] +9, [[DATABASE/skill/Stealth|Stealth]] +9, [[DATABASE/skill/Survival|Survival]] +7
 **Str** +0, **Dex** +2, **Con** +1, **Int** +4, **Wis** +2, **Cha** +0
-**Items** [[Fireball]], [[Magic Missile]] (2), [[Spellbook (Blank)]], [[Heavy Crossbow]], [[Rapier]]
+**Items** [[DATABASE/spell/Fireball|scroll of fireball]], [[DATABASE/spell/Magic Missile|scrolls of magic missile]] (2), [[DATABASE/equipment/Spellbook (Blank)|spellbook]], [[DATABASE/weapon/Heavy Crossbow|heavy crossbow (20 bolts)]], [[DATABASE/weapon/Rapier|rapier (bonded item)]]
 
 ---
 **AC** 18; **Fort** +6, **Ref** +9, **Will** +11
 **HP** 45
-<span class="in-box-ability">**Mesmerizing Sigil <span class="action-icon">5</span> ** (arcane, concentrate, enchantment) **Trigger** A creature targets Ardissa with a melee Strike; **Effect** Ardissa traces a dizzying symbol in the air. The creature must attempt a DC 20 Will save. The creature is then temporarily immune for 1 minute. </span><span class="in-box-ability">**Success** The creature is unaffected. </span><span class="in-box-ability">**Failure** Until the beginning of her next turn, Ardissa is [[Concealed]] from the creature. </span><span class="in-box-ability">**Critical Failure** Until the end of her next turn, Ardissa is [[Hidden]] from the creature.</span>
+<span class="in-box-ability">**Mesmerizing Sigil <span class="action-icon">5</span> ** (arcane, concentrate, enchantment) **Trigger** A creature targets Ardissa with a melee Strike; **Effect** Ardissa traces a dizzying symbol in the air. The creature must attempt a DC 20 Will save. The creature is then temporarily immune for 1 minute. </span><span class="in-box-ability">**Success** The creature is unaffected. </span><span class="in-box-ability">**Failure** Until the beginning of her next turn, Ardissa is [[DATABASE/condition/Concealed|concealed]] from the creature. </span><span class="in-box-ability">**Critical Failure** Until the end of her next turn, Ardissa is [[DATABASE/condition/Hidden|hidden]] from the creature.</span>
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> rapier +11 [+6/+1] (deadly d8, disarm, finesse), **Damage** 1d6 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> heavy crossbow +11 [+6/+1] (range increment 120 feet, reload 2), **Damage** 1d10 piercing</span>**Arcane Prepared Spells** DC 20, attack +12; **2nd** _[[Magic Missile]]_, _[[Obscuring Mist]]_, _[[Summon Animal]]_; **1st** _[[Magic Missile]]_ (×2), _[[Ray of Enfeeblement]]_, _[[True Strike]]_; **Cantrips** **(2nd)** _[[Dancing Lights]]_, _[[Daze]]_, _[[Mage Hand]]_, _[[Ray of Frost]]_, _[[Shield]]_
-**Wizard School Spell** DC 20, 1 Focus Point; **2nd** _[[Hand of the Apprentice]]_
-<span class="in-box-ability">**Drain Bonded Item** <span class="action-icon">4</span> (arcane) **Frequency** twice per day; **Effect** Ardissa regains the ability to cast one spell she has already cast. She must still Cast the Spell normally. She can use this ability once to recover a 1st-level spell and once to recover a 2nd-level spell. She typically uses this ability to recover her [[Magic Missile]] spells</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> rapier +11 [+6/+1] (deadly d8, disarm, finesse), **Damage** 1d6 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> heavy crossbow +11 [+6/+1] (range increment 120 feet, reload 2), **Damage** 1d10 piercing</span>**Arcane Prepared Spells** DC 20, attack +12; **2nd** _[[DATABASE/spell/Magic Missile|magic missile]]_, _[[DATABASE/spell/Obscuring Mist|obscuring mist]]_, _[[DATABASE/spell/Summon Animal|summon animal]]_; **1st** _[[DATABASE/spell/Magic Missile|magic missile]]_ (×2), _[[DATABASE/spell/Ray of Enfeeblement|ray of enfeeblement]]_, _[[DATABASE/spell/True Strike|true strike]]_; **Cantrips** **(2nd)** _[[DATABASE/spell/Dancing Lights|dancing lights]]_, _[[DATABASE/spell/Daze|daze]]_, _[[DATABASE/spell/Mage Hand|mage hand]]_, _[[DATABASE/spell/Ray of Frost|ray of frost]]_, _[[DATABASE/spell/Shield|shield]]_
+**Wizard School Spell** DC 20, 1 Focus Point; **2nd** _[[DATABASE/spell/Hand of the Apprentice|hand of the apprentice]]_
+<span class="in-box-ability">**Drain Bonded Item** <span class="action-icon">4</span> (arcane) **Frequency** twice per day; **Effect** Ardissa regains the ability to cast one spell she has already cast. She must still Cast the Spell normally. She can use this ability once to recover a 1st-level spell and once to recover a 2nd-level spell. She typically uses this ability to recover her [[DATABASE/spell/Magic Missile|magic missile]] spells</span>

@@ -21,6 +21,7 @@ follower_alignment:
 id: '150'
 name: Dahak
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -30,7 +31,7 @@ type: Deity
 ---
 # Dahak (The Endless Destruction) [CE]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Category** Other Gods
 **Edicts** Kill metallic dragons, destroy things at your whim
 **Anathema** Spare a foe after you have chosen to kill them, forgive a slight
@@ -38,9 +39,9 @@ type: Deity
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Strength or Constitution
-**Divine Font** _[[Harm]]_
-**Divine Skill** [[Athletics]]
-**Favored Weapon** [[Fist]] or [[Whip]]
-**Domains** [[Destruction Domain]], [[Fire Domain]], [[Wyrmkin Domain]], [[Zeal Domain]]
-**Cleric Spells** 1st: _[[Magic Fang]]_, 3rd: _[[Fireball]]_, 6th: _[[Dragon Form]]_ (chromatic dragons only)
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Strength or Constitution
+**Divine Font** _[[DATABASE/spell/Harm|harm]]_
+**Divine Skill** [[DATABASE/skill/Athletics|Athletics]]
+**Favored Weapon** [[DATABASE/weapon/Fist|jaws]] or [[DATABASE/weapon/Whip|whip]]
+**Domains** [[DATABASE/domain/Destruction Domain|destruction]], [[DATABASE/domain/Fire Domain|fire]], [[DATABASE/domain/Wyrmkin Domain|wyrmkin]], [[DATABASE/domain/Zeal Domain|zeal]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Magic Fang|magic fang]]_, 3rd: _[[DATABASE/spell/Fireball|fireball]]_, 6th: _[[DATABASE/spell/Dragon Form|dragon form]]_ (chromatic dragons only)

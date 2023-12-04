@@ -3,6 +3,7 @@ creature_family: Fox
 id: '236'
 name: Fox
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Fox
 
-**Source** [[Bestiary 3]]
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
 Elusive and shrewd, foxes have gained a reputation as sly tricksters, earning them a place in many folk tales.
 
 ### Members
 
-[[Fading Fox]] (Creature 2), [[Red Fox]] (Creature -1)
+[[DATABASE/monster/Fading Fox|Fading Fox]] (Creature 2), [[DATABASE/monster/Red Fox|Red Fox]] (Creature -1)
 
 ###  Noble Quarry
 

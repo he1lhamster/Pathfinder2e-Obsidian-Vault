@@ -22,6 +22,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -43,16 +44,16 @@ type: Cantrip
 # Detect Magic<span class="item-type">Cantrip 1</span>
 
 <span class="item-trait">Cantrip</span><span class="item-trait">Detection</span><span class="item-trait">Divination</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, divine, occult, primal
 **Spell List** elemental
-**Bloodlines** [[Imperial]], [[Genie]], [[Phoenix]], [[Harrow]]
+**Bloodlines** [[DATABASE/sorcererbloodline/Imperial|imperial]], [[DATABASE/sorcererbloodline/Genie|genie]], [[DATABASE/sorcererbloodline/Phoenix|phoenix]], [[DATABASE/sorcererbloodline/Harrow|harrow]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Area** 30-foot emanation
 
 ---
 You send out a pulse that registers the presence of magic. You receive no information beyond the presence or absence of magic. You can choose to ignore magic you're fully aware of, such as the magic items and ongoing spells of you and your allies.
- You detect illusion magic only if that magic's effect has a lower level than the level of your _detect magic_ spell. However, items that have an illusion aura but aren't deceptive in appearance (such as an [[Invisibility]]) typically are detected normally.
+ You detect illusion magic only if that magic's effect has a lower level than the level of your _detect magic_ spell. However, items that have an illusion aura but aren't deceptive in appearance (such as an [[DATABASE/equipment/Invisibility|invisibility potion]]) typically are detected normally.
 
 ---
 **Heightened (3rd)** You learn the school of magic for the highest-level effect within range that the spell detects. If multiple effects are equally strong, the GM determines which you learn.

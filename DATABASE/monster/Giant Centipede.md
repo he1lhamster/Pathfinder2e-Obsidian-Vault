@@ -70,16 +70,16 @@ wisdom: '+1'
 # Giant Centipede
 
 Most giant centipedes (known as sewer centipedes when found in cities) nest in small groups but hunt alone when they seek out food. Attempts to domesticate giant centipedes for use as guardians or pets generally end poorly, but some tribes of goblins, kobolds, and mitflits have developed effective methods of utilizing these vermin as guardians. Other tribes and some humanoid societies roast and eat centipedes, often with pungent peppers as a savory delicacy, although care must be taken in preparing the meal to avoid tainting the flesh with the creature’s venom.
-**Recall Knowledge - Animal ([[Nature]])**: DC 13
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 13
 **Unspecific Lore**: DC 11
 **Specific Lore**: DC 8
 
 # Giant Centipede<span class="item-type">Creature -1</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +6; darkvision
-**Skills** [[Acrobatics]] +6, [[Athletics]] +2, [[Stealth]] +6
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +6, [[DATABASE/skill/Athletics|Athletics]] +2, [[DATABASE/skill/Stealth|Stealth]] +6
 **Str** -1, **Dex** +3, **Con** +1, **Int** -5, **Wis** +1, **Cha** -4
 
 ---

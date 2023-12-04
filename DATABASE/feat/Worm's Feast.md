@@ -11,6 +11,7 @@ name: Worm's Feast
 prerequisite: '[[DATABASE/feat/Worm Caller Dedication|Worm Caller Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Pathfinder 194. Cult of the Cave Worm|Pathfinder #194:
   Cult of the Cave Worm]]'
@@ -26,17 +27,17 @@ type: Feat
 # Worm's Feast <span class="action-icon">2</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Conjuration</span><span class="item-trait">Primal</span>
-**Source** [[Pathfinder 194. Cult of the Cave Worm]]
-**Archetype** [[Worm Caller]]
+**Source** [[DATABASE/source/Pathfinder 194. Cult of the Cave Worm|Pathfinder #194: Cult of the Cave Worm]]
+**Archetype** [[DATABASE/archetype/Worm Caller|Worm Caller]]
 **Frequency** once per day
-**Prerequisites** [[Worm Caller Dedication]]
+**Prerequisites** [[DATABASE/feat/Worm Caller Dedication|Worm Caller Dedication]]
 
 ---
-You call forth a brood of infantile [[Cave Worm]] to feast on your enemy's flesh. Choose a creature within 30 feet; the creature must attempt a Fortitude save. At 8th level and every 2 levels above that, the [[Persistent Damage]] taken on a failure increases by 1d6.
+You call forth a brood of infantile [[DATABASE/monsterfamily/Cave Worm|cave worms]] to feast on your enemy's flesh. Choose a creature within 30 feet; the creature must attempt a Fortitude save. At 8th level and every 2 levels above that, the [[DATABASE/condition/Persistent Damage|persistent piercing damage]] taken on a failure increases by 1d6.
 **Critical Success** The worms writhe away harmlessly.
 **Success** The target takes 2d6 piercing damage and 2d6 persistent piercing damage.
 **Failure** The target takes 6d6 piercing damage and 2d6 persistent piercing damage.
-**Critical Failure** As failure, plus the target is [[Flat-Footed]] as long as it takes persistent piercing damage.
+**Critical Failure** As failure, plus the target is [[DATABASE/condition/Flat-Footed|flat-footed]] as long as it takes persistent piercing damage.
 
 ## Traits
 

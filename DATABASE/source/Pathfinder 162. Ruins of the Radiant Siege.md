@@ -2,6 +2,7 @@
 id: '54'
 name: Pathfinder 162. Ruins of the Radiant Siege
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -16,11 +17,11 @@ type: Source
 
 ## Equipment [9]
 
-[[Cane of the Maelstrom]], [[Radiant Spark]], [[Ring of Recalcitrant Wishes]], [[Warpglass]], [[Warpglass]], [[Warpglass]], [[Warpglass]], [[Warpglass Weapon]], [[Warpglass Weapon]]
+[[DATABASE/equipment/Cane of the Maelstrom|Cane of the Maelstrom]], [[DATABASE/equipment/Radiant Spark|Radiant Spark]], [[DATABASE/equipment/Ring of Recalcitrant Wishes|Ring of Recalcitrant Wishes]], [[DATABASE/equipment/Warpglass|Warpglass]], [[DATABASE/equipment/Warpglass|Warpglass Chunk]], [[DATABASE/equipment/Warpglass|Warpglass Ingot]], [[DATABASE/equipment/Warpglass|Warpglass Item (High-Grade)]], [[DATABASE/equipment/Warpglass Weapon|Warpglass Weapon]], [[DATABASE/equipment/Warpglass Weapon|Warpglass Weapon (High-Grade)]]
 
 ## Monsters [9]
 
-[[Agradaemon (Conflagration Daemon)]], [[Baatamidar]], [[Camarach]], [[Hegessik]], [[Izfiitar]], [[Nenchuuj]], [[Penqual]], [[Rhevanna]], [[Sordesdaemon (Pollution Daemon)]]
+[[DATABASE/monster/Agradaemon (Conflagration Daemon)|Agradaemon]], [[DATABASE/monster/Baatamidar|Baatamidar]], [[DATABASE/monster/Camarach|Camarach]], [[DATABASE/monster/Hegessik|Hegessik]], [[DATABASE/monster/Izfiitar|Izfiitar]], [[DATABASE/monster/Nenchuuj|Nenchuuj]], [[DATABASE/monster/Penqual|Penqual]], [[DATABASE/monster/Rhevanna|Rhevanna]], [[DATABASE/monster/Sordesdaemon (Pollution Daemon)|Sordesdaemon]]
 
 ## Setting Articles [2]
 
@@ -28,7 +29,7 @@ Ecology of the Sahkils, Siege Castles of Absalom
 
 ## Spells [2]
 
-[[Divinity Leech]], [[Prismatic Shield]]
+[[DATABASE/spell/Divinity Leech|Divinity Leech]], [[DATABASE/spell/Prismatic Shield|Prismatic Shield]]
 
 ## Traits [1]
 

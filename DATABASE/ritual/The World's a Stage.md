@@ -12,6 +12,7 @@ primary_check: '[[DATABASE/skill/Occultism|Occultism]] (expert)'
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: Divination
 secondary_casters: 2 to 12
 secondary_check: '[[DATABASE/skill/Crafting|Crafting]] , [[DATABASE/skill/Performance|Performance]]'
@@ -27,9 +28,9 @@ type: Ritual
 # The World's a Stage<span class="item-type">Ritual 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Divination</span><span class="item-trait">Fortune</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Cast** 1 day; **Cost** costumes and a stage large enough to fit all casters; **Secondary Casters** 2 to 12
-**Primary Check** [[Occultism]] (expert); **Secondary Checks** [[Crafting]], [[Performance]]
+**Primary Check** [[DATABASE/skill/Occultism|Occultism]] (expert); **Secondary Checks** [[DATABASE/skill/Crafting|Crafting]], [[DATABASE/skill/Performance|Performance]]
 **Duration** 1 month
 
 ---
@@ -38,4 +39,4 @@ This famous ritual is a sophisticated example of symbolic magic, binding fate an
 **Critical Success** Something sublime sparks between performance and audience, and destiny conspires to push events in the right direction. You and each secondary caster can reroll up to three skill checks at any point during the duration of the ritual after determining the results, as long as the skill check is connected to ensuring the topic of the performance comes true (to sneak past the tyrant's guards or find the murder weapon, for instance).
 **Success** As critical success except the sparks of destiny are weaker, so each caster can reroll only a single skill check.
 **Failure** The ritual has no effect.
-**Critical Failure** The performance is a dramatic and horrendous botch, and fate strikes out at the casters. You and each secondary caster are [[Doomed]] for the next month, and this condition can't be removed by anything less than a [[Wish]] or similarly powerful magic.
+**Critical Failure** The performance is a dramatic and horrendous botch, and fate strikes out at the casters. You and each secondary caster are [[DATABASE/condition/Doomed|doomed 1]] for the next month, and this condition can't be removed by anything less than a [[DATABASE/spell/Wish|wish]] or similarly powerful magic.

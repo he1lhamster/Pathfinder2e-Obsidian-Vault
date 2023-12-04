@@ -11,6 +11,7 @@ name: Miraculous Flight
 prerequisite: '[[DATABASE/feat/Vehicle Mechanic Dedication|Vehicle Mechanic Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Miraculous Flight <span class="item-type">Feat 18</span>
 
 <span class="item-trait">Archetype</span><span class="item-trait">Magical</span>
-**Source** [[Guns & Gears]]
-**Archetype** [[Vehicle Mechanic]]
-**Prerequisites** [[Vehicle Mechanic Dedication]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Archetype** [[DATABASE/archetype/Vehicle Mechanic|Vehicle Mechanic]]
+**Prerequisites** [[DATABASE/feat/Vehicle Mechanic Dedication|Vehicle Mechanic Dedication]]
 
 ---
 With superior engineering and magical application, you have freed your signature vehicle from the bonds of gravity, allowing it to soar through the sky like a dragon. The vehicle gains magical propulsion and a fly Speed equal to its fastest current Speed. If your signature vehicle already had a fly Speed, reduce the distance the vehicle needs to make a 90-degree turn to half the usual length (typically half the length of the vehicle).

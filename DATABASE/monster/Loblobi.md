@@ -91,36 +91,36 @@ wisdom: '+1'
 ---
 # Loblobi
 
-In the [[First World]], rivers don't always flow as expected; sometimes they run backward, upward, or just disappear into mist and reappear somewhere else entirely. Fey native to such rivers are often just as capricious. This quality is particularly true of loblobis, cunning carnivores who resemble small, chubby [[Human]] with the heads and wings of crested herons.
+In the [[DATABASE/plane/First World|First World]], rivers don't always flow as expected; sometimes they run backward, upward, or just disappear into mist and reappear somewhere else entirely. Fey native to such rivers are often just as capricious. This quality is particularly true of loblobis, cunning carnivores who resemble small, chubby [[DATABASE/ancestry/Human|humans]] with the heads and wings of crested herons.
  These malicious tricksters love playing any pranks that result in other creatures being embarrassed, hurt, or even drowned. Their most common “antic” is to cast _water walk_ on a hopeful river-crosser, only to dismiss the spell when their victim has traversed halfway across. Conversely, most loblobis are terrible sports when they're the butt of a joke. It's common wisdom that few creatures can hold a grudge like a loblobi.
  Exceptionally vain, loblobis flutter and dance constantly to show off their plumage. Failing to comment on a preening loblobi's appearance is a sure method to invite eternal enmity, but flattery might buy enough time to sneak away from the evil fey.
-**Recall Knowledge - Fey ([[Nature]])**: DC 17
+**Recall Knowledge - Fey ([[DATABASE/skill/Nature|Nature]])**: DC 17
 **Unspecific Lore**: DC 15
 **Specific Lore**: DC 12
 
 # Loblobi<span class="item-type">Creature 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Small</span><span class="item-trait">Fey</span>
-**Source** [[Pathfinder 175. Broken Tusk Moon]]
-**Perception** +6; [[Low-Light Vision]]
-**Languages** [[Aquan]], [[Common]], [[Sylvan]]
-**Skills** [[Acrobatics]] +7, [[Crafting]] +5, [[Deception]] +8, [[Performance]] +6, [[Stealth]] +7, [[Thievery]] +7
+**Source** [[DATABASE/source/Pathfinder 175. Broken Tusk Moon|Pathfinder #175: Broken Tusk Moon]]
+**Perception** +6; [[DATABASE/monsterability/Low-Light Vision|low-light vision]]
+**Languages** [[DATABASE/language/Aquan|Aquan]], [[DATABASE/language/Common|Common]], [[DATABASE/language/Sylvan|Sylvan]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +7, [[DATABASE/skill/Crafting|Crafting]] +5, [[DATABASE/skill/Deception|Deception]] +8, [[DATABASE/skill/Performance|Performance]] +6, [[DATABASE/skill/Stealth|Stealth]] +7, [[DATABASE/skill/Thievery|Thievery]] +7
 **Str** +2, **Dex** +4, **Con** +1, **Int** +0, **Wis** +1, **Cha** +3
 
 ---
 **AC** 16; **Fort** +4, **Ref** +9, **Will** +8
 **HP** 25
-<span class="in-box-ability">**Unflappable Self-Importance** When a loblobi rolls a success on a Will save against an emotion effect or an effect that would make it [[Controlled]], it gets a critical success instead. When it rolls a critical failure against such an effect, it gets a failure instead. However, a loblobi is vulnerable to flattery. It takes a –4 circumstance penalty to its Will and Perception DCs against any fulsome [[Deception]] and [[Diplomacy]] checks to [[Lie]], [[Make an Impression]], or [[Request]].</span>
+<span class="in-box-ability">**Unflappable Self-Importance** When a loblobi rolls a success on a Will save against an emotion effect or an effect that would make it [[DATABASE/condition/Controlled|controlled]], it gets a critical success instead. When it rolls a critical failure against such an effect, it gets a failure instead. However, a loblobi is vulnerable to flattery. It takes a –4 circumstance penalty to its Will and Perception DCs against any fulsome [[DATABASE/skill/Deception|Deception]] and [[DATABASE/skill/Diplomacy|Diplomacy]] checks to [[DATABASE/action/Lie|Lie]], [[DATABASE/action/Make an Impression|Make an Impression]], or [[DATABASE/action/Request|Request]].</span>
 
 ---
 **Speed** 20 feet, fly 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> beak +9 [+5/+1] (agile, finesse), **Damage** 1d6+2 piercing</span>**Primal Innate Spells** DC 16, attack +8; **2nd** _[[Faerie Fire]]_, _[[Water Walk]]_ (at will; the loblobi can Dismiss the Spell); **1st** _[[Grease]]_, _[[Hydraulic Push]]_; **Cantrips** **(1st)** _[[Dancing Lights]]_, _[[Prestidigitation]]_ (only to move, clean, or soil small amounts of water)
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> beak +9 [+5/+1] (agile, finesse), **Damage** 1d6+2 piercing</span>**Primal Innate Spells** DC 16, attack +8; **2nd** _[[DATABASE/spell/Faerie Fire|faerie fire]]_, _[[DATABASE/spell/Water Walk|water walk]]_ (at will; the loblobi can Dismiss the Spell); **1st** _[[DATABASE/spell/Grease|grease]]_, _[[DATABASE/spell/Hydraulic Push|hydraulic push]]_; **Cantrips** **(1st)** _[[DATABASE/spell/Dancing Lights|dancing lights]]_, _[[DATABASE/spell/Prestidigitation|prestidigitation]]_ (only to move, clean, or soil small amounts of water)
 <span class="in-box-ability">**Arrogant Preen** <span class="action-icon">1</span> (enchantment, incapacitation, mental, primal) The loblobi tidies its feathered crest to look supernaturally regal. Each non-fey creature within 30 feet must attempt a DC 17 Will save, then is temporarily immune to Arrogant Preen for 1 hour. 
 **Critical Success** The target is unaffected. 
 **Success** The target is distracted by the preening and can't take reactions until the start of its next turn. 
-**Failure** The target is [[Fascinated]] by the loblobi and can't take reactions for 1 minute. 
+**Failure** The target is [[DATABASE/condition/Fascinated|fascinated]] by the loblobi and can't take reactions for 1 minute. 
 **Critical Failure** As failure. Additionally, while the creature is fascinated, any hostile actions from the loblobi don't break the fascination, but instead allow the target to attempt a new Will save to end the effect at the start of its next turn.</span>
 
 ###  Loblobi Dupes
 
-Loblobis get along well with other river creatures who regularly flatter them and don't mind being the victims of the loblobi's inventive pranks. Since other loblobis rarely put up with this treatment, they don't often gather in groups. Loblobis particularly like to have companion creatures they find ugly, as they think it makes them look all the more regal by comparison. The one curious exception are [[Gremlin]]; though loblobis hate gremlins' appearance, they don't want anything to do with gremlins, who they viciously drive away from their rivers and shores.
+Loblobis get along well with other river creatures who regularly flatter them and don't mind being the victims of the loblobi's inventive pranks. Since other loblobis rarely put up with this treatment, they don't often gather in groups. Loblobis particularly like to have companion creatures they find ugly, as they think it makes them look all the more regal by comparison. The one curious exception are [[DATABASE/monsterfamily/Gremlin|gremlins]]; though loblobis hate gremlins' appearance, they don't want anything to do with gremlins, who they viciously drive away from their rivers and shores.

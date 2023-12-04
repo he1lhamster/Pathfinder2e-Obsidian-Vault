@@ -11,6 +11,7 @@ name: Magic Sense
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Divination
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -28,12 +29,12 @@ type: Feat
 # Magic Sense <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Detection</span><span class="item-trait">Divination</span><span class="item-trait">Magus</span><span class="item-trait">Oracle</span><span class="item-trait">Sorcerer</span><span class="item-trait">Wizard</span>
-**Source** [[Secrets of Magic]] , [[Core Rulebook]] , [[Advanced Player's Guide]] 
-**Archetype** [[Lich]]*
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] , [[DATABASE/source/Core Rulebook|Core Rulebook]] , [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Lich|Lich]]*
 * This archetype offers Magic Sense at a different level than displayed here.
 
 ---
-You have a literal sixth sense for ambient magic in your vicinity. You can sense the presence of magic auras as though you were always using a 1st-level [[Detect Magic]] spell. This detects magic in your field of vision only. When you Seek, you gain the benefits of a 3rd-level [[Detect Magic]] spell on things you see (in addition to the normal benefits of Seeking). You can turn this sense off and on with a free action at the start or the end of your turn.
+You have a literal sixth sense for ambient magic in your vicinity. You can sense the presence of magic auras as though you were always using a 1st-level [[DATABASE/spell/Detect Magic|detect magic]] spell. This detects magic in your field of vision only. When you Seek, you gain the benefits of a 3rd-level [[DATABASE/spell/Detect Magic|detect magic]] spell on things you see (in addition to the normal benefits of Seeking). You can turn this sense off and on with a free action at the start or the end of your turn.
 **Special** This feat has the trait corresponding to the tradition of spells you cast (arcane, divine, occult, or primal).
 
 ## Archetype Use

@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -53,7 +54,7 @@ weapon_type: null
 # Recovery Bladder<span class="item-type">Item 3</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Consumable</span>
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 **Price** 10 gp
 **Bulk** L (8 if inflated)
 **Activate** <span class="action-icon">1</span> Interact

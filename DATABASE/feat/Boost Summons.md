@@ -11,6 +11,7 @@ name: Boost Summons
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Boost Summons <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Summoner</span>
-**Source** [[Secrets of Magic]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]]
 
 ---
-Augmenting your eidolon extends to creatures you summon. When you cast [[Boost Eidolon]], in addition to your eidolon, it also targets your summoned creatures within 60 feet.
+Augmenting your eidolon extends to creatures you summon. When you cast [[DATABASE/spell/Boost Eidolon|boost eidolon]], in addition to your eidolon, it also targets your summoned creatures within 60 feet.

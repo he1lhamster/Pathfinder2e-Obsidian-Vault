@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 size: null
@@ -55,11 +56,11 @@ weapon_type: null
 # Reaper's Crescent<span class="item-type">Item 9</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Evocation</span><span class="item-trait">Light</span><span class="item-trait">Magical</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 575 gp
 **Usage** held in 1 hand; **Bulk** L
-**Base Weapon** [[Sickle]]
+**Base Weapon** [[DATABASE/weapon/Sickle|Sickle]]
 
 ---
-The blade of this alabaster _+1 [[Striking]] [[Sickle]]_ grows thick and pitted as the moon waxes, and it thins to a sharp sliver as the moon wanes. Moonlight also causes a second rune on the blade to change shape with the moon's phases: during the new and crescent moon, the weapon has the [[Ghost Touch]] rune; during the quarter moon, the [[Fearsome]] rune; and during the gibbous and full moon, the [[Wounding]] rune.
+The blade of this alabaster _+1 [[DATABASE/equipment/Striking|striking]] [[DATABASE/weapon/Sickle|sickle]]_ grows thick and pitted as the moon waxes, and it thins to a sharp sliver as the moon wanes. Moonlight also causes a second rune on the blade to change shape with the moon's phases: during the new and crescent moon, the weapon has the [[DATABASE/equipment/Ghost Touch|ghost touch]] rune; during the quarter moon, the [[DATABASE/equipment/Fearsome|fearsome]] rune; and during the gibbous and full moon, the [[DATABASE/equipment/Wounding|wounding]] rune.
  When wielded under moonlight of any strength, the reaper_'s crescent_ deals additional cold damage equal to the number of damage dice.

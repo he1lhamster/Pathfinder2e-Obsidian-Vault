@@ -12,6 +12,7 @@ follower_alignment: null
 id: '203'
 name: Shoanti Animism
 rarity: Common
+rus_type_level: null
 skill: null
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
 trait: null
@@ -20,7 +21,7 @@ type: Deity
 ---
 # Shoanti Animism [Any]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 Most Shoanti belong to one of seven quahs, or clans, each with specific lands, notable strengths, and unique spiritual perspectives. Traditionally, each Shoanti undergoes a rite of passage into adulthood, during which time their particular totem manifests, and a Shoanti’s first tattoo is an homage to that totem. The quahs and their most common totems are listed below:
  **Lyrune-Quah (Moon Clan)** bat, cave bear, moon, mountain lion, owl, stars
  **Shadde-Quah (Axe Clan)** cliffs, eagle, sea, shark, squid, water elemental

@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/action/Exploit Vulnerability|Exploit Vulnerability]] ,
   weakness'
 rarity: Common
 requirement: You are Exploiting a creature's Vulnerability using mortal weakness.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -26,8 +27,8 @@ type: Feat
 # Share Weakness <span class="action-icon">1</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Esoterica</span><span class="item-trait">Manipulate</span><span class="item-trait">Thaumaturge</span>
-**Source** [[Dark Archive]]
-**Prerequisites** [[Exploit Vulnerability]], mortal weakness
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Prerequisites** [[DATABASE/action/Exploit Vulnerability|Exploit Vulnerability]], mortal weakness
 **Requirements** You are Exploiting a creature's Vulnerability using mortal weakness.
 
 ---
@@ -35,7 +36,7 @@ You select an object from your esoterica that has great personal value to you, s
 
 ## Share Weakness Leads To...
 
-[[Ubiquitous Weakness]]
+[[DATABASE/feat/Ubiquitous Weakness|Ubiquitous Weakness]]
 
 ## Traits
 

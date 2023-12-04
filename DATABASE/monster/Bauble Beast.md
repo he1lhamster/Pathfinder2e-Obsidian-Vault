@@ -96,20 +96,20 @@ wisdom: '+3'
 
 The reclusive and deceptive creatures called bauble beasts create false jewelry as a byproduct of their extremely bizarre magical digestive systems. Two natural skin conditions provide the raw materials for this process: scaly patches of thin layers of metal, and warts that resemble gemstones. By chewing loose these patches and swallowing them, a bauble beast magically constructs the jewelry in its guts. After passing the forgery, it polishes and reshapes the item to make it more convincing. The beast then sneaks into a settlement to place the jewelry somewhere it can be found. A creature who dons this false jewelry is compelled to fetch their real valuables and deliver them to the beast, which it happily collects. Some bauble beasts simply send the confused victim on their way, but other more evil bauble beasts slay them to avoid being found out.
  This imitation jewelry fools laypeople, but it's infamous among merchants. Merchant training usually includes a brief course on detecting bauble beast jewelry's subtle but distinctive sweet odor.
- Though largely solitary, bauble beasts occasionally socialize with others who share their limited interests, primarily merchants, jewelers, [[Elemental, Earth]], and other bauble beasts. [[Xorn]] have a particular fondness for bauble beasts—or at least their gems. Though these aren't as nourishing as real gems, xorns find the flavor decadent and eat them as a sort of junk food.
-**Recall Knowledge - Beast ([[Arcana]], [[Nature]])**: DC 24
+ Though largely solitary, bauble beasts occasionally socialize with others who share their limited interests, primarily merchants, jewelers, [[DATABASE/monsterfamily/Elemental, Earth|earth elementals]], and other bauble beasts. [[DATABASE/monster/Xorn|Xorns]] have a particular fondness for bauble beasts—or at least their gems. Though these aren't as nourishing as real gems, xorns find the flavor decadent and eat them as a sort of junk food.
+**Recall Knowledge - Beast ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 24
 **Unspecific Lore**: DC 22
 **Specific Lore**: DC 19
 
 # Bauble Beast<span class="item-type">Creature 6</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Beast</span><span class="item-trait">Earth</span>
-**Source** [[Bestiary 3]]
-**Perception** +13; [[Darkvision]]
-**Languages** [[Common]], [[Dwarven]], [[Terran]], [[Undercommon]]
-**Skills** [[Athletics]] +14, [[Crafting]] +13 (+17 to [[Craft]] jewelry), [[Deception]] +14, [[Diplomacy]] +12, [[Lore]] +18, [[Society]] +11, [[Stealth]] +14, [[Thievery]] +14
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
+**Perception** +13; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Dwarven|Dwarven]], [[DATABASE/language/Terran|Terran]], [[DATABASE/language/Undercommon|Undercommon]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +14, [[DATABASE/skill/Crafting|Crafting]] +13 (+17 to [[DATABASE/action/Craft|Craft]] jewelry), [[DATABASE/skill/Deception|Deception]] +14, [[DATABASE/skill/Diplomacy|Diplomacy]] +12, [[DATABASE/skill/Lore|Jewelry Lore]] +18, [[DATABASE/skill/Society|Society]] +11, [[DATABASE/skill/Stealth|Stealth]] +14, [[DATABASE/skill/Thievery|Thievery]] +14
 **Str** +4, **Dex** +4, **Con** +3, **Int** +1, **Wis** +3, **Cha** +4
-**Items** [[Artisan's Tools]]
+**Items** [[DATABASE/equipment/Artisan's Tools|artisan's tools]]
 
 ---
 **AC** 23; **Fort** +15, **Ref** +12, **Will** +15
@@ -117,8 +117,8 @@ The reclusive and deceptive creatures called bauble beasts create false jewelry 
 
 ---
 **Speed** 30 feet, climb 10 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +16 [+11/+6], **Damage** 1d8+7 piercing plus 1d6 persistent acid and philanthropic bile</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> leg +16 [+12/+8] (agile), **Damage** 1d10+7 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> bile +16 [+11/+6] (acid, range increment 30 feet), **Damage** 2d8 acid plus 1d6 persistent acid and philanthropic bile</span><span class="in-box-ability">**Forge Jewelry** (arcane, enchantment, exploration) The jeweler beast creates imitation jewelry within its own digestive system. This takes about 4 hours. Determining the jewelry is fake works like [[Create Forgery]], using either Perception or [[Crafting]] instead of Perception or [[Society]], with a DC of 25.
- The process of creating fake jewelry also places an enchantment inside the item. Anyone who dons the imitation jewelry is targeted with a DC 24 [[Suggestion]] spell with a duration of 1 hour on a failure or 24 hours on a critical failure. A creature that fails learns the location where the fake jewelry was created and is compelled to collect their valuable belongings and bring them to that location. Removing the imitation jewelry ends the spell immediately, but the wearer can't take it off voluntarily</span><span class="in-box-ability">**Philanthropic Bile** Exposure to the bauble beast's magical stomach fluids enchants the mind. A creature critically hit by the beast's jaws or bile Strike is subject to a [[Charitable Urge]] spell (DC 23).</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> jaws +16 [+11/+6], **Damage** 1d8+7 piercing plus 1d6 persistent acid and philanthropic bile</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> leg +16 [+12/+8] (agile), **Damage** 1d10+7 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> bile +16 [+11/+6] (acid, range increment 30 feet), **Damage** 2d8 acid plus 1d6 persistent acid and philanthropic bile</span><span class="in-box-ability">**Forge Jewelry** (arcane, enchantment, exploration) The jeweler beast creates imitation jewelry within its own digestive system. This takes about 4 hours. Determining the jewelry is fake works like [[DATABASE/action/Create Forgery|detecting a forgery]], using either Perception or [[DATABASE/skill/Crafting|Crafting]] instead of Perception or [[DATABASE/skill/Society|Society]], with a DC of 25.
+ The process of creating fake jewelry also places an enchantment inside the item. Anyone who dons the imitation jewelry is targeted with a DC 24 [[DATABASE/spell/Suggestion|suggestion]] spell with a duration of 1 hour on a failure or 24 hours on a critical failure. A creature that fails learns the location where the fake jewelry was created and is compelled to collect their valuable belongings and bring them to that location. Removing the imitation jewelry ends the spell immediately, but the wearer can't take it off voluntarily</span><span class="in-box-ability">**Philanthropic Bile** Exposure to the bauble beast's magical stomach fluids enchants the mind. A creature critically hit by the beast's jaws or bile Strike is subject to a [[DATABASE/spell/Charitable Urge|charitable urge]] spell (DC 23).</span>
 
 ###  Swap Meets
 

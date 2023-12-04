@@ -11,6 +11,7 @@ name: Dueling Riposte
 prerequisite: '[[DATABASE/feat/Dueling Parry (Fighter)|Dueling Parry (Fighter)]]'
 rarity: Common
 requirement: You are benefiting from Dueling Parry.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,15 +24,15 @@ type: Feat
 # Dueling Riposte <span class="action-icon">5</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Fighter</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Duelist]]*
-**Prerequisites** [[Dueling Parry (Fighter)]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Duelist|Duelist]]*
+**Prerequisites** [[DATABASE/feat/Dueling Parry (Fighter)|Dueling Parry (Fighter)]]
 **Trigger** A creature within your reach critically fails a Strike against you.
 **Requirements** You are benefiting from Dueling Parry.
 * This archetype offers Dueling Riposte at a different level than displayed here.
 
 ---
-You riposte against your flailing enemy. Make a melee Strike against or attempt to [[Disarm]] the triggering creature.
+You riposte against your flailing enemy. Make a melee Strike against or attempt to [[DATABASE/action/Disarm|Disarm]] the triggering creature.
 
 ## Archetype Use
 
@@ -39,4 +40,4 @@ This feat can be used for one or more Archetypes in addition to the listed Class
 
 ## Dueling Riposte Leads To...
 
-[[Guiding Riposte]], [[Improved Dueling Riposte]], [[Reflecting Riposte]]
+[[DATABASE/feat/Guiding Riposte|Guiding Riposte]], [[DATABASE/feat/Improved Dueling Riposte|Improved Dueling Riposte]], [[DATABASE/feat/Reflecting Riposte|Reflecting Riposte]]

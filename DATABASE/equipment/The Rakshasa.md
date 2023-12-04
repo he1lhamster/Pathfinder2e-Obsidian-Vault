@@ -31,6 +31,7 @@ rarity: Unique
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 size: null
@@ -57,10 +58,10 @@ weapon_type: null
 # The Rakshasa<span class="item-type">Item 20</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="item-trait">Artifact</span><span class="item-trait">Harrow Court</span><span class="item-trait">Invested</span><span class="item-trait">Magical</span><span class="item-trait">Necromancy</span>
-**Source** [[Pathfinder 190. The Choosing]]
+**Source** [[DATABASE/source/Pathfinder 190. The Choosing|Pathfinder #190: The Choosing]]
 **Usage** carried; **Bulk** —
 **Suit** Books (Int); **Alignment** lawful evil
 
 ---
-_The Rakshasa_ represents domination of others to support your own schemes. When you invest _The Rakshasa_, identify a single willing creature within 30 feet as your pledged follower. If you're at least 15th level, you can have up to two pledged followers at once. At 18th level, you can have up to three pledged followers. If you have the maximum pledged followers active and select a new one, a previous pledged follower of your choice is no longer your pledged follower. You gain an item bonus equal to your current number of pledged followers to all [[Coerce]] attempts.
+_The Rakshasa_ represents domination of others to support your own schemes. When you invest _The Rakshasa_, identify a single willing creature within 30 feet as your pledged follower. If you're at least 15th level, you can have up to two pledged followers at once. At 18th level, you can have up to three pledged followers. If you have the maximum pledged followers active and select a new one, a previous pledged follower of your choice is no longer your pledged follower. You gain an item bonus equal to your current number of pledged followers to all [[DATABASE/action/Coerce|Coerce]] attempts.
 **Activate** <span class="action-icon">4</span> **Frequency** once per minute; **Effect** You regain Hit Points equal to twice your level, and a pledged follower of your choice loses Hit Points equal to your level (no effects apply that would decrease this Hit Point loss). If this loss kills your pledged follower, you also gain temporary Hit Points equal to your level. The pledged follower is temporarily immune to this activation for 24 hours.

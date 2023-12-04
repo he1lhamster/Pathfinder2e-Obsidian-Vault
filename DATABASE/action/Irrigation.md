@@ -8,6 +8,7 @@ name: Irrigation
 rarity: Common
 requirement: You control a hex adjacent to a river or lake that itself does not contain
   a river or lake.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
@@ -20,7 +21,7 @@ type: Action
 # Irrigation
 
 <span class="item-trait">Downtime</span><span class="item-trait">Region</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 **Requirements** You control a hex adjacent to a river or lake that itself does not contain a river or lake.
 
 ---

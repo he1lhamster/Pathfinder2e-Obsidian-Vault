@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Knight Vigilant|Knight Vigilant]] ; [[DATABASE/fe
   Charge|Interrupt Charge]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Instinctual Interception <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Knights of Lastwall]]
-**Archetype** [[Knight Vigilant]]
-**Prerequisites** [[Knight Vigilant]]; [[Interrupt Charge]]
+**Source** [[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]
+**Archetype** [[DATABASE/archetype/Knight Vigilant|Knight Vigilant]]
+**Prerequisites** [[DATABASE/feat/Knight Vigilant|Knight Vigilant]]; [[DATABASE/feat/Interrupt Charge|Interrupt Charge]]
 
 ---
 You react to movement with hardly a thought, seeming constantly poised to spring. At the start of each of your turns, you gain an additional reaction that you can use only to Interrupt Charge.

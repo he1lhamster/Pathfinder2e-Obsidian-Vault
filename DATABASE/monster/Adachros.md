@@ -95,29 +95,29 @@ wisdom: '+5'
 # Adachros
 
 When a nascent demiplane fails to coalesce, its quintessence sometimes collapses into an adachros, a dangerous entity that combines overwhelming mental potential with no exposure to alternate viewpoints. Some of these megalomaniacal beings are tyrants, creating illusory kingdoms populated by abducted creatures forced to validate the creator's views. A more altruistic adachros might seek out pupils to reeducate and advise—though often without their consent—while always pushing their students to accept whatever unique philosophy was involved in their creation. An adachros might abandon disciples who spurn them, but more often, they become a bitter enemy, intent on destroying the perceived heretics.
-**Recall Knowledge - Astral ([[Occultism]])**: DC 33
+**Recall Knowledge - Astral ([[DATABASE/skill/Occultism|Occultism]])**: DC 33
 **Unspecific Lore**: DC 31
 **Specific Lore**: DC 28
 
 # Adachros<span class="item-type">Creature 13</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Astral</span>
-**Source** [[Bestiary 3]]
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
 **Perception** +22; thoughtsense (imprecise) 120 feet
-**Languages** [[Abyssal]], [[Celestial]], [[Common]], [[Daemonic]], [[Infernal]], [[Protean]], [[Requian]], [[Utopian]]; [[Telepathy]] 120 feet
-**Skills** [[Athletics]] +25, [[Deception]] +25, [[Intimidation]] +27, [[Lore]] +28 (any one), [[Occultism]] +22
+**Languages** [[DATABASE/language/Abyssal|Abyssal]], [[DATABASE/language/Celestial|Celestial]], [[DATABASE/language/Common|Common]], [[DATABASE/language/Daemonic|Daemonic]], [[DATABASE/language/Infernal|Infernal]], [[DATABASE/language/Protean|Protean]], [[DATABASE/language/Requian|Requian]], [[DATABASE/language/Utopian|Utopian]]; [[DATABASE/monsterability/Telepathy|telepathy]] 120 feet
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +25, [[DATABASE/skill/Deception|Deception]] +25, [[DATABASE/skill/Intimidation|Intimidation]] +27, [[DATABASE/skill/Lore|Lore]] +28 (any one), [[DATABASE/skill/Occultism|Occultism]] +22
 **Str** +6, **Dex** +2, **Con** +5, **Int** +5, **Wis** +5, **Cha** +8
 **Thoughtsense** (divination, mental, occult) The adachros senses all non-mindless creatures at the listed range.
 
 ---
 **AC** 34; **Fort** +24, **Ref** +21, **Will** +26
 **HP** 225; **Resistances** mental 15
-<span class="in-box-ability">**Self-Absorbed** The adachros denies any version of reality but their own. If they begin their turn under an enchantment or illusion effect, they immediately attempt to counteract one such effect with a counteract modifier of +23, even if the effect prevents the adachros from acting.</span><span class="in-box-ability">**Splinter Sycophant <span class="action-icon">5</span> ** **Trigger** The adachros takes 25 or more bludgeoning, piercing, or slashing damage; **Effect** The attack breaks off part of the adachros's body. This fragment reshapes and animates into an [[Ioton]] with the minion trait under the adachros's control. The ioton sycophant can't move more than 120 feet from the adachros and crumbles after 1 minute. If the adachros gives it no other commands, the ioton sycophant spends its turn praising the adachros and affirming the adachros's infallibility; this grants the adachros 4d6 temporary Hit Points that last for as long as the ioton sycophant exists, and a +1 status bonus to attack rolls, Perception checks, saving throws, and skill checks for 1 round.</span>
+<span class="in-box-ability">**Self-Absorbed** The adachros denies any version of reality but their own. If they begin their turn under an enchantment or illusion effect, they immediately attempt to counteract one such effect with a counteract modifier of +23, even if the effect prevents the adachros from acting.</span><span class="in-box-ability">**Splinter Sycophant <span class="action-icon">5</span> ** **Trigger** The adachros takes 25 or more bludgeoning, piercing, or slashing damage; **Effect** The attack breaks off part of the adachros's body. This fragment reshapes and animates into an [[DATABASE/monster/Ioton|ioton]] with the minion trait under the adachros's control. The ioton sycophant can't move more than 120 feet from the adachros and crumbles after 1 minute. If the adachros gives it no other commands, the ioton sycophant spends its turn praising the adachros and affirming the adachros's infallibility; this grants the adachros 4d6 temporary Hit Points that last for as long as the ioton sycophant exists, and a +1 status bonus to attack rolls, Perception checks, saving throws, and skill checks for 1 round.</span>
 
 ---
 **Speed** 40 feet, fly 40 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +27 [+23/+19] (agile, magical, versatile P), **Damage** 3d10+14 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> psychic shard +27 [+22/+17] (magical, range increment 60 feet), **Damage** 3d8+14 piercing</span>**Occult Innate Spells** DC 33; **7th** _[[Reverse Gravity]]_; **6th** _[[Hallucination]]_ (×2), _[[Illusory Scene]]_, _[[Modify Memory]]_, _[[Zealous Conviction]]_; **5th** _[[Hallucinatory Terrain]]_ (×3); **Cantrips** **(7th)** _[[Daze]]_, _[[Detect Magic]]_
-<span class="in-box-ability">**Fatal Fantasia** (illusion, mental) An adachros's melee and ranged Strikes gain the fatal d12 trait against any creature affected by the adachros's enchantment or illusion spells, including creatures in the area of a [[Hallucinatory Terrain]] that haven't disbelieved the effect.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +27 [+23/+19] (agile, magical, versatile P), **Damage** 3d10+14 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> psychic shard +27 [+22/+17] (magical, range increment 60 feet), **Damage** 3d8+14 piercing</span>**Occult Innate Spells** DC 33; **7th** _[[DATABASE/spell/Reverse Gravity|reverse gravity]]_; **6th** _[[DATABASE/spell/Hallucination|hallucination]]_ (×2), _[[DATABASE/spell/Illusory Scene|illusory scene]]_, _[[DATABASE/spell/Modify Memory|modify memory]]_, _[[DATABASE/spell/Zealous Conviction|zealous conviction]]_; **5th** _[[DATABASE/spell/Hallucinatory Terrain|hallucinatory terrain]]_ (×3); **Cantrips** **(7th)** _[[DATABASE/spell/Daze|daze]]_, _[[DATABASE/spell/Detect Magic|detect magic]]_
+<span class="in-box-ability">**Fatal Fantasia** (illusion, mental) An adachros's melee and ranged Strikes gain the fatal d12 trait against any creature affected by the adachros's enchantment or illusion spells, including creatures in the area of a [[DATABASE/spell/Hallucinatory Terrain|hallucinatory terrain]] that haven't disbelieved the effect.</span>
 
 ###  Unreliable Allies
 

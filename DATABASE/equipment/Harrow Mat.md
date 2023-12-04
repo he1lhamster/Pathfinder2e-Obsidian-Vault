@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -51,9 +52,9 @@ weapon_type: null
 ---
 # Harrow Mat<span class="item-type">Item 0</span>
 
-**Source** [[Pathfinder 160. Assault on Hunting Lodge Seven]]
+**Source** [[DATABASE/source/Pathfinder 160. Assault on Hunting Lodge Seven|Pathfinder #160: Assault on Hunting Lodge Seven]]
 **Price** 8 gp
 **Hands** 2; **Bulk** L
 
 ---
-This leather mat bears intricate designs and symbols embossed into them to enhance the mystique of a harrow reading. The mat provides a +1 item bonus to [[Deception]], [[Diplomacy]], and relevant [[Lore]] checks (such as Fortune-Telling Lore or Harrow Lore) to convince a creature that a harrow reading was accurate.
+This leather mat bears intricate designs and symbols embossed into them to enhance the mystique of a harrow reading. The mat provides a +1 item bonus to [[DATABASE/skill/Deception|Deception]], [[DATABASE/skill/Diplomacy|Diplomacy]], and relevant [[DATABASE/skill/Lore|Lore]] checks (such as Fortune-Telling Lore or Harrow Lore) to convince a creature that a harrow reading was accurate.

@@ -2,6 +2,7 @@
 id: '514'
 name: Sporeborn
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 193. Mantle of Gold|Pathfinder #193: Mantle
   of Gold]]'
 trait:
@@ -11,9 +12,8 @@ type: Trait
 ---
 # Sporeborn
 
-**Source** [[Pathfinder 193. Mantle of Gold]]
-_Note from Nethys: no description was provided for this trait_
+**Source** [[DATABASE/source/Pathfinder 193. Mantle of Gold|Pathfinder #193: Mantle of Gold]]
 
 ## Monsters
 
-[[Sporeborn Myceloid]]
+[[DATABASE/monster/Sporeborn Myceloid|Sporeborn Myceloid]]

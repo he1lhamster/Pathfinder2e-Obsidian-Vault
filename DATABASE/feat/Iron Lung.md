@@ -11,6 +11,7 @@ name: Iron Lung
 prerequisite: '[[DATABASE/feat/Golem Grafter Dedication|Golem Grafter Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 153. Life''s Long Shadows|Pathfinder #153: Life''s
   Long Shadows]]'
@@ -24,9 +25,9 @@ type: Feat
 # Iron Lung <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Pathfinder 153. Life's Long Shadows]]
-**Archetype** [[Golem Grafter]]
-**Prerequisites** [[Golem Grafter Dedication]]
+**Source** [[DATABASE/source/Pathfinder 153. Life's Long Shadows|Pathfinder #153: Life's Long Shadows]]
+**Archetype** [[DATABASE/archetype/Golem Grafter|Golem Grafter]]
+**Prerequisites** [[DATABASE/feat/Golem Grafter Dedication|Golem Grafter Dedication]]
 
 ---
 Your lungs are infused with the resilience of iron. Treat the result of your save against an inhaled poison as one degree of success better than you rolled. Additionally, you gain the following ability.

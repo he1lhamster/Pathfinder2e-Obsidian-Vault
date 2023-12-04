@@ -11,6 +11,7 @@ name: Gigantic Megafauna Companion
 prerequisite: '[[DATABASE/feat/Mammoth Lord Dedication|Mammoth Lord Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burning
   Tundra]]'
@@ -24,9 +25,9 @@ type: Feat
 # Gigantic Megafauna Companion <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Pathfinder 177. Burning Tundra]]
-**Archetype** [[Mammoth Lord]]
-**Prerequisites** [[Mammoth Lord Dedication]]
+**Source** [[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burning Tundra]]
+**Archetype** [[DATABASE/archetype/Mammoth Lord|Mammoth Lord]]
+**Prerequisites** [[DATABASE/feat/Mammoth Lord Dedication|Mammoth Lord Dedication]]
 
 ---
 The mammoths and other megafauna ridden by your people are larger than any ordinary beast. Your megafauna companion increases in size to Huge but doesn't otherwise change its statistics.

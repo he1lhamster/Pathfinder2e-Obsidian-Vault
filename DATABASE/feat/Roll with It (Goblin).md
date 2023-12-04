@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/heritage/Unbreakable Goblin|Unbreakable Goblin]] herit
   [[DATABASE/feat/Bouncy Goblin|Bouncy Goblin]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Roll with It (Goblin) <span class="action-icon">5</span> <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Goblin</span>
-**Source** [[Character Guide]] 
-**Prerequisites** [[Unbreakable Goblin]]; [[Bouncy Goblin]]
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
+**Prerequisites** [[DATABASE/heritage/Unbreakable Goblin|Unbreakable Goblin]]; [[DATABASE/feat/Bouncy Goblin|Bouncy Goblin]]
 **Trigger** A foe hits you with a melee weapon or unarmed attack.
 
 ---
@@ -35,4 +36,4 @@ When you take a big hit, your foe bounces you around like a rubber ball, but you
 
 **Goblin:**
 
-A creature with this trait can be one of several kinds of creature, including [[Goblin]], [[Hobgoblin]], and [[Bugbear]]. Goblins tend to have darkvision. An ability with this trait can be used or chosen only by goblins. A weapon with this trait is created and used by goblins.
+A creature with this trait can be one of several kinds of creature, including [[DATABASE/ancestry/Goblin|goblins]], [[DATABASE/ancestry/Hobgoblin|hobgoblins]], and [[DATABASE/monsterfamily/Bugbear|bugbears]]. Goblins tend to have darkvision. An ability with this trait can be used or chosen only by goblins. A weapon with this trait is created and used by goblins.

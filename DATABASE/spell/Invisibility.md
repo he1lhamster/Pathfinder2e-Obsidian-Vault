@@ -30,6 +30,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -46,15 +47,15 @@ type: Spell
 # Invisibility<span class="item-type">Spell 2</span>
 
 <span class="item-trait">Illusion</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult
-**Deities** [[Achaekek]], [[Ketephys]], [[Nalinivati]], [[Ng]], [[Nivi Rhombodazzle]], [[Norgorber]], [[Raumya]], [[Shax]], [[Yaezhing]]
+**Deities** [[DATABASE/deity/Achaekek|Achaekek]], [[DATABASE/deity/Ketephys|Ketephys]], [[DATABASE/deity/Nalinivati|Nalinivati]], [[DATABASE/deity/Ng|Ng]], [[DATABASE/deity/Nivi Rhombodazzle|Nivi Rhombodazzle]], [[DATABASE/deity/Norgorber|Norgorber]], [[DATABASE/deity/Raumya|Raumya]], [[DATABASE/deity/Shax|Shax]], [[DATABASE/deity/Yaezhing|Yaezhing]]
 **Cast** <span class="action-icon">2</span> material, somatic
 **Range** touch; **Targets** 1 creature
 **Duration** 10 minutes
 
 ---
-Cloaked in illusion, the target becomes [[Invisible]]. This makes it [[Undetected]] to all creatures, though the creatures can attempt to find the target, making it [[Hidden]] to them instead. If the target uses a hostile action, the spell ends after that hostile action is completed.
+Cloaked in illusion, the target becomes [[DATABASE/condition/Invisible|invisible]]. This makes it [[DATABASE/condition/Undetected|undetected]] to all creatures, though the creatures can attempt to find the target, making it [[DATABASE/condition/Hidden|hidden]] to them instead. If the target uses a hostile action, the spell ends after that hostile action is completed.
 
 ---
 **Heightened (4th)** The spell lasts 1 minute, but it doesn't end if the target uses a hostile action.

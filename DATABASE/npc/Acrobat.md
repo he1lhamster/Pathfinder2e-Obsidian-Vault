@@ -69,20 +69,20 @@ wisdom: '+0'
 # Acrobat
 
 Acrobats perform feats of agility, balance, and strength. The acrobat is a 5th-level challenge for contests of acrobatics and the like.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 16
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
 # Acrobat<span class="item-type">Creature 2</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Perception** +6
-**Languages** [[Common]]
-**Skills** [[Acrobatics]] +15, [[Athletics]] +8, [[Lore]] +5, [[Deception]] +5, [[Performance]] +9, [[Stealth]] +8
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +15, [[DATABASE/skill/Athletics|Athletics]] +8, [[DATABASE/skill/Lore|Circus Lore]] +5, [[DATABASE/skill/Deception|Deception]] +5, [[DATABASE/skill/Performance|Performance]] +9, [[DATABASE/skill/Stealth|Stealth]] +8
 **Str** +2, **Dex** +4, **Con** +2, **Int** +1, **Wis** +0, **Cha** +1
-**Steady Balance** When the acrobat rolls a success on an [[Acrobatics]] check, they get a critical success instead. They aren't [[Flat-Footed]] when attempting to [[Balance]] and can attempt an Acrobatics check instead of a Reflex save to [[Grab an Edge]].
-**Items** [[Climbing Kit]], [[Dagger]], [[Rope]]
+**Steady Balance** When the acrobat rolls a success on an [[DATABASE/skill/Acrobatics|Acrobatics]] check, they get a critical success instead. They aren't [[DATABASE/condition/Flat-Footed|flat-footed]] when attempting to [[DATABASE/action/Balance|Balance]] and can attempt an Acrobatics check instead of a Reflex save to [[DATABASE/action/Grab an Edge|Grab an Edge]].
+**Items** [[DATABASE/equipment/Climbing Kit|climbing kit]], [[DATABASE/weapon/Dagger|dagger (5)]], [[DATABASE/equipment/Rope|rope (50 feet)]]
 
 ---
 **AC** 18; **Fort** +8, **Ref** +12, **Will** +4
@@ -91,4 +91,4 @@ Acrobats perform feats of agility, balance, and strength. The acrobat is a 5th-l
 
 ---
 **Speed** 30 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> dagger +10 [+6/+2] (agile, finesse, versatile S), **Damage** 1d4+4 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> foot +10 [+6/+2] (agile, finesse, nonlethal), **Damage** 1d4+4 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> dagger +11 [+7/+3] (agile, thrown 10 feet, versatile S), **Damage** 1d4+4 piercing</span><span class="in-box-ability">**[[Sneak Attack]]** The acrobat deals an extra 1d6 precision damage to [[Flat-Footed]] creatures.</span><span class="in-box-ability">**Swinging Strike** <span class="action-icon">2</span> The acrobat swings on a rope or trapeze, moving up to double their Speed. At any point during the swing, they can make a melee Strike.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> dagger +10 [+6/+2] (agile, finesse, versatile S), **Damage** 1d4+4 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> foot +10 [+6/+2] (agile, finesse, nonlethal), **Damage** 1d4+4 bludgeoning</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> dagger +11 [+7/+3] (agile, thrown 10 feet, versatile S), **Damage** 1d4+4 piercing</span><span class="in-box-ability">**[[DATABASE/monsterability/Sneak Attack|Sneak Attack]]** The acrobat deals an extra 1d6 precision damage to [[DATABASE/condition/Flat-Footed|flat-footed]] creatures.</span><span class="in-box-ability">**Swinging Strike** <span class="action-icon">2</span> The acrobat swings on a rope or trapeze, moving up to double their Speed. At any point during the swing, they can make a melee Strike.</span>

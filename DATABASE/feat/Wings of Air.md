@@ -11,6 +11,7 @@ name: Wings of Air
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -26,7 +27,7 @@ type: Feat
 # Wings of Air <span class="action-icon">2</span> <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Morph</span><span class="item-trait">Primal</span><span class="item-trait">Sylph</span><span class="item-trait">Transmutation</span>
-**Source** [[Ancestry Guide]] 
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
 **Frequency** once per day
 
 ---
@@ -34,7 +35,7 @@ You can strain to call forth feathered or cloudy wings from your back. Once mani
 
 ## Wings of Air Leads To...
 
-[[Eternal Wings (Sylph)]]
+[[DATABASE/feat/Eternal Wings (Sylph)|Eternal Wings (Sylph)]]
 
 ## Traits
 
@@ -49,7 +50,7 @@ This magic comes from the primal tradition, connecting to the natural world and 
 
 **Sylph:**
 
-Sylphs are planar scions descended from [[Djinni]].
+Sylphs are planar scions descended from [[DATABASE/monster/Djinni|djinn]].
 
 **Transmutation:**
 

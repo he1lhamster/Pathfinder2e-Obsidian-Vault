@@ -64,19 +64,19 @@ wisdom: '+1'
 # Oleg
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 25
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 25
 **Unspecific Lore**: DC 23
 **Specific Lore**: DC 20
 
 # Oleg<span class="item-type">Creature 1</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CG</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 **Perception** +6
-**Languages** [[Common]]
-**Skills** [[Athletics]] +6, [[Crafting]] +7, [[Intimidation]] +4, [[Nature]] +3, [[Survival]] +4
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +6, [[DATABASE/skill/Crafting|Crafting]] +7, [[DATABASE/skill/Intimidation|Intimidation]] +4, [[DATABASE/skill/Nature|Nature]] +3, [[DATABASE/skill/Survival|Survival]] +4
 **Str** +3, **Dex** +1, **Con** +3, **Int** +0, **Wis** +1, **Cha** +1
-**Items** [[Lover's Knot]] (5), [[Tool]], [[Hammer]], [[Padded Armor]], [[Repair Kit]]
+**Items** [[DATABASE/equipment/Lover's Knot|lover's knots]] (5), [[DATABASE/equipment/Tool|carpenter's tools]], [[DATABASE/equipment/Hammer|hammer]], [[DATABASE/armor/Padded Armor|padded armor]], [[DATABASE/equipment/Repair Kit|repair kit]]
 
 ---
 **AC** 12; **Fort** +8, **Ref** +6, **Will** +6

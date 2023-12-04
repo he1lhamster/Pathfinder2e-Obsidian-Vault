@@ -67,20 +67,20 @@ wisdom: '+2'
 # Dark Talon Kobold
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 21
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 21
 **Unspecific Lore**: DC 19
 **Specific Lore**: DC 16
 
 # Dark Talon Kobold<span class="item-type">Creature 2</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Small</span><span class="item-trait">Humanoid</span><span class="item-trait">Kobold</span>
-**Source** [[Crown of the Kobold King]]
-[[Kobold]] [[Rogue]] 2
-**Perception** +8; [[Darkvision]]
-**Languages** [[Common]], [[Draconic]]
-**Skills** [[Acrobatics]] +8, [[Athletics]] +7, [[Crafting]] +6 (+8 traps), [[Stealth]] +8, [[Survival]] +8
+**Source** [[DATABASE/source/Crown of the Kobold King|Crown of the Kobold King]]
+[[DATABASE/ancestry/Kobold|kobold]] [[DATABASE/class_/Rogue|rogue]] 2
+**Perception** +8; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Draconic|Draconic]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +8, [[DATABASE/skill/Athletics|Athletics]] +7, [[DATABASE/skill/Crafting|Crafting]] +6 (+8 traps), [[DATABASE/skill/Stealth|Stealth]] +8, [[DATABASE/skill/Survival|Survival]] +8
 **Str** +1, **Dex** +4, **Con** +3, **Int** +0, **Wis** +2, **Cha** +0
-**Items** [[Flying Talon]], studded leather
+**Items** [[DATABASE/weapon/Flying Talon|flying talon]], studded leather
 
 ---
 **AC** 19; **Fort** +9, **Ref** +10, **Will** +6
@@ -88,4 +88,4 @@ This creature did not include a description.
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> flying talon +10 [+5/+0] (finesse, trip), **Damage** 1d4+3 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> flying talon +10 [+5/+0] (ranged trip, tethered, thrown 10 feet), **Damage** 1d4+3 piercing</span><span class="in-box-ability">**No Retreat** <span class="action-icon">1</span> (necromancy, primal) **Frequency** once per day; **Requirement** The Dark Talon kobold is adjacent to at least one enemy, and the Dark Talon has fewer than 12 Hit Points; **Effect** The Dark Talon shrieks in fury and regains 2d6 Hit Points.</span><span class="in-box-ability">**[[Sneak Attack]]** A Dark Talon kobold deals an additional 1d6 precision damage to [[Flat-Footed]] creatures.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> flying talon +10 [+5/+0] (finesse, trip), **Damage** 1d4+3 piercing</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> flying talon +10 [+5/+0] (ranged trip, tethered, thrown 10 feet), **Damage** 1d4+3 piercing</span><span class="in-box-ability">**No Retreat** <span class="action-icon">1</span> (necromancy, primal) **Frequency** once per day; **Requirement** The Dark Talon kobold is adjacent to at least one enemy, and the Dark Talon has fewer than 12 Hit Points; **Effect** The Dark Talon shrieks in fury and regains 2d6 Hit Points.</span><span class="in-box-ability">**[[DATABASE/monsterability/Sneak Attack|Sneak Attack]]** A Dark Talon kobold deals an additional 1d6 precision damage to [[DATABASE/condition/Flat-Footed|flat-footed]] creatures.</span>

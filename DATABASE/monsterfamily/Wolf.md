@@ -3,6 +3,7 @@ creature_family: Wolf
 id: '101'
 name: Wolf
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Wolf
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Wolves roam forests, hills, and other wild lands, where they hunt in packs to beleaguer and surround their prey before going in for the kill. Like most predatory animals, wolves prefer to attack the weakest or most vulnerable prey they can find.
 
 ### Members
 
-[[Dire Wolf]] (Creature 3), [[Sarkorian Wolf]] (Creature 1), [[Wolf]] (Creature 1)
+[[DATABASE/monster/Dire Wolf|Dire Wolf]] (Creature 3), [[DATABASE/monster/Sarkorian Wolf|Sarkorian Wolf]] (Creature 1), [[DATABASE/monster/Wolf|Wolf]] (Creature 1)
 
 ###  Wolf Packs
 

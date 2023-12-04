@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -38,7 +39,7 @@ type: Spell
 # Angel Form<span class="item-type">Spell 7</span>
 
 <span class="item-trait">Good</span><span class="item-trait">Polymorph</span><span class="item-trait">Transmutation</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Traditions** divine
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Duration** 1 minute
@@ -50,15 +51,15 @@ Invoking the celestial realms, you transform into a Medium angel battle form. Wh
 * AC = 22 + your level. Ignore your armor check's penalty and Speed reduction.
 * 40 temporary Hit Points and weakness 10 to evil damage.
 * Darkvision.
-* One or more attacks specific to the battle form you choose. You're trained with them. Your attack modifier is +25, and you use the listed damage. Melee attacks are Strength based (for the purpose of the [[Enfeebled]] condition, for example), and ranged attacks are Dexterity based. If your attack modifier is higher for the given unarmed attack or weapon, you can use it instead.
-* [[Athletics]] modifier of +25, unless your own modifier is higher.
+* One or more attacks specific to the battle form you choose. You're trained with them. Your attack modifier is +25, and you use the listed damage. Melee attacks are Strength based (for the purpose of the [[DATABASE/condition/Enfeebled|enfeebled]] condition, for example), and ranged attacks are Dexterity based. If your attack modifier is higher for the given unarmed attack or weapon, you can use it instead.
+* [[DATABASE/skill/Athletics|Athletics]] modifier of +25, unless your own modifier is higher.
 
 You also gain specific abilities based on the type of angel you choose:
 
-* **[[Balisse (Confessor Angel)]]** Speed 30 feet, fly 40 feet; Perception modifier of +26 to detect lies and illusions unless your own modifier is higher; **Melee** <span class="action-icon">1</span> scimitar (forceful, sweep), **Damage** 2d6+12 slashing plus 1d6 fire and 1d6 good.
-* **[[Choral (Choir Angel)]]** Speed 30 feet, fly 40 feet; +1 status bonus to AC and saves against sonic and auditory; **Melee** <span class="action-icon">1</span> fist (agile), **Damage** 2d6+12 bludgeoning plus 1d6 good; **Ranged** <span class="action-icon">1</span> piercing hymn (range 90 feet), **Damage** 1d6+12 sonic plus 1d6 good, and [[Deafened]] for 1 round on a critical hit.
-* **[[Monadic Deva (Soul Angel)]]** Speed 30 feet, fly 40 feet; +2 status bonus on saves against death effects and effects that manipulate souls; **Melee** <span class="action-icon">1</span> holy mace (shove), **Damage** 2d6+12 bludgeoning plus 1d6 force and 1d6 good.
-* **[[Movanic Deva (Guardian Angel)]]** Speed 30 feet, fly 40 feet; resistance 10 to negative; **Melee** <span class="action-icon">1</span> bastard sword (two-hand d12), **Damage** 1d8+12 slashing plus 1d6 fire and 1d6 good.
+* **[[DATABASE/monster/Balisse (Confessor Angel)|Balisse]]** Speed 30 feet, fly 40 feet; Perception modifier of +26 to detect lies and illusions unless your own modifier is higher; **Melee** <span class="action-icon">1</span> scimitar (forceful, sweep), **Damage** 2d6+12 slashing plus 1d6 fire and 1d6 good.
+* **[[DATABASE/monster/Choral (Choir Angel)|Choral]]** Speed 30 feet, fly 40 feet; +1 status bonus to AC and saves against sonic and auditory; **Melee** <span class="action-icon">1</span> fist (agile), **Damage** 2d6+12 bludgeoning plus 1d6 good; **Ranged** <span class="action-icon">1</span> piercing hymn (range 90 feet), **Damage** 1d6+12 sonic plus 1d6 good, and [[DATABASE/condition/Deafened|deafened]] for 1 round on a critical hit.
+* **[[DATABASE/monster/Monadic Deva (Soul Angel)|Monadic Deva]]** Speed 30 feet, fly 40 feet; +2 status bonus on saves against death effects and effects that manipulate souls; **Melee** <span class="action-icon">1</span> holy mace (shove), **Damage** 2d6+12 bludgeoning plus 1d6 force and 1d6 good.
+* **[[DATABASE/monster/Movanic Deva (Guardian Angel)|Movanic Deva]]** Speed 30 feet, fly 40 feet; resistance 10 to negative; **Melee** <span class="action-icon">1</span> bastard sword (two-hand d12), **Damage** 1d8+12 slashing plus 1d6 fire and 1d6 good.
 
 ---
 **Heightened (9th)** Your battle form is Large. You must have space to expand, or the spell is lost. You instead gain 60 temporary Hit Points, weakness 15 to evil damage, attack modifier +30, damage bonus +20, and Athletics +33.

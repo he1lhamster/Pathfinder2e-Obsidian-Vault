@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Basic Bard Spellcasting|Basic Bard Spellcasting]]
   Master in [[DATABASE/skill/Occultism|Occultism]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,16 +25,16 @@ type: Feat
 # Expert Bard Spellcasting <span class="item-type">Feat 12</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Bard]]
-**Prerequisites** [[Basic Bard Spellcasting]]; master in [[Occultism]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Bard|Bard]]
+**Prerequisites** [[DATABASE/feat/Basic Bard Spellcasting|Basic Bard Spellcasting]]; master in [[DATABASE/skill/Occultism|Occultism]]
 
 ---
 You gain the expert spellcasting benefits.
 
 ## Expert Bard Spellcasting Leads To...
 
-[[Master Bard Spellcasting]]
+[[DATABASE/feat/Master Bard Spellcasting|Master Bard Spellcasting]]
 
 ## Traits
 

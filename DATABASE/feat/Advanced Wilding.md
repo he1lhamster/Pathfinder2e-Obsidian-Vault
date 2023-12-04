@@ -11,6 +11,7 @@ name: Advanced Wilding
 prerequisite: '[[DATABASE/feat/Basic Wilding|Basic Wilding]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Advanced Wilding <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Druid]]
-**Prerequisites** [[Basic Wilding]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Druid|Druid]]
+**Prerequisites** [[DATABASE/feat/Basic Wilding|Basic Wilding]]
 
 ---
 You gain one druid feat. For the purpose of meeting its prerequisites, your druid level is equal to half your character level.

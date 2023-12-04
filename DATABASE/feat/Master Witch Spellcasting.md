@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Expert Witch Spellcasting|Expert Witch Spellcasti
   ; legendary in the skillassociated with your patron''s tradition'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Master Witch Spellcasting <span class="item-type">Feat 18</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Witch]]
-**Prerequisites** [[Expert Witch Spellcasting]]; legendary in the skill associated with your patron's tradition
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Witch|Witch]]
+**Prerequisites** [[DATABASE/feat/Expert Witch Spellcasting|Expert Witch Spellcasting]]; legendary in the skill associated with your patron's tradition
 
 ---
 You gain the master spellcasting benefits.

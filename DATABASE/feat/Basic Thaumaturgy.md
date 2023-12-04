@@ -11,6 +11,7 @@ name: Basic Thaumaturgy
 prerequisite: '[[DATABASE/feat/Thaumaturge Dedication|Thaumaturge Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -23,16 +24,16 @@ type: Feat
 # Basic Thaumaturgy <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Dark Archive]]
-**Archetype** [[Thaumaturge]]
-**Prerequisites** [[Thaumaturge Dedication]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Archetype** [[DATABASE/archetype/Thaumaturge|Thaumaturge]]
+**Prerequisites** [[DATABASE/feat/Thaumaturge Dedication|Thaumaturge Dedication]]
 
 ---
 You gain a 1st- or 2nd-level thaumaturge feat of your choice.
 
 ## Basic Thaumaturgy Leads To...
 
-[[Advanced Thaumaturgy]]
+[[DATABASE/feat/Advanced Thaumaturgy|Advanced Thaumaturgy]]
 
 ## Traits
 

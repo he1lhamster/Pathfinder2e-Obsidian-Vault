@@ -91,26 +91,26 @@ The statistics here represent a relatively simple mechanical carny; the extravag
  **Bounce Back** <span class="action-icon">5</span> **Requirement** The mechanical carny takes damage from a melee attack; **Effect** The mechanical carny wobbles violently to and fro, making two headbutt Strikes: the first against the creature (if any) on the opposite side of itself from the creature that triggered this reaction and the second against the creature that triggered this reaction.
  **Spring-Loaded Jump** <span class="action-icon">1</span> (move) The mechanical carny leaps up to 25 feet into the air and lands within 25 feet (or a distance equal to the height of the carny’s jump, if fewer) of where it started, taking no falling damage.
  **Water Cannon** <span class="action-icon">2</span> (water) The mechanical carny sprays a 15-foot cone of water, dealing 2d6+4 nonlethal bludgeoning to creatures in the area (DC 18 basic Reflex save) and extinguishing any non-magical fires.
-**Recall Knowledge - Construct ([[Arcana]], [[Crafting]])**: DC 16
+**Recall Knowledge - Construct ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Crafting|Crafting]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
-## Elite | [[Mechanical Carny]] | Weak
+## Elite | [[DATABASE/monster/Mechanical Carny|Normal]] | Weak
 Proficiency without Level
 
 # Mechanical Carny<span class="item-type">Creature 2</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Construct</span><span class="item-trait">Mindless</span>
-**Source** [[Pathfinder 151. The Show Must Go On]]
+**Source** [[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: The Show Must Go On]]
 **Perception** +6; low-light vision
-**Languages** [[Common]]; (can speak pre-recorded phrases only)
-**Skills** [[Acrobatics]] +7, [[Athletics]] +9, [[Performance]] +6
+**Languages** [[DATABASE/language/Common|Common]]; (can speak pre-recorded phrases only)
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +7, [[DATABASE/skill/Athletics|Athletics]] +9, [[DATABASE/skill/Performance|Performance]] +6
 **Str** +3, **Dex** +1, **Con** +0, **Int** -5, **Wis** +0, **Cha** +2
 
 ---
 **AC** 17; **Fort** +8, **Ref** +11, **Will** +4
 **HP** 33; **Immunities** bleed, death effects, disease, doomed, drained, fatigued, healing, mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious; **Resistances** physical 3 (except adamantine); **Weaknesses** electricity 6
-<span class="in-box-ability">**Haywire** A severely damaged mechanical carny has a chance of malfunctioning. If a mechanical carny has 15 or fewer Hit Points at the start of its turn, it must succeed at a DC 5 flat check or go haywire. A haywire mechanical carny wildly attacks the nearest living creature, or the nearest object if no creatures are nearby. It takes a –1 circumstance penalty to Strikes but deals an additional 1d6 bludgeoning damage plus [[Knockdown]]. This effect lasts 10 minutes or until the mechanical carny is destroyed.</span>
+<span class="in-box-ability">**Haywire** A severely damaged mechanical carny has a chance of malfunctioning. If a mechanical carny has 15 or fewer Hit Points at the start of its turn, it must succeed at a DC 5 flat check or go haywire. A haywire mechanical carny wildly attacks the nearest living creature, or the nearest object if no creatures are nearby. It takes a –1 circumstance penalty to Strikes but deals an additional 1d6 bludgeoning damage plus [[DATABASE/monsterability/Knockdown|Knockdown]]. This effect lasts 10 minutes or until the mechanical carny is destroyed.</span>
 
 ---
 **Speed** 25 feet

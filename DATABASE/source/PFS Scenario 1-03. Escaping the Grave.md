@@ -2,6 +2,7 @@
 id: '9'
 name: PFS Scenario 1-03. Escaping the Grave
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -15,4 +16,4 @@ type: Source
 
 ## Equipment [1]
 
-[[Wayfinder]]
+[[DATABASE/equipment/Wayfinder|Wayfinder of Rescue]]

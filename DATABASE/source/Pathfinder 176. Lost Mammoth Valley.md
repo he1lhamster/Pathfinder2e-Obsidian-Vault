@@ -2,6 +2,7 @@
 id: '113'
 name: Pathfinder 176. Lost Mammoth Valley
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -16,27 +17,27 @@ type: Source
 
 ## Ancestry Heritages [1]
 
-[[Pine Leshy]]
+[[DATABASE/heritage/Pine Leshy|Pine Leshy]]
 
 ## Deities [5]
 
-[[Bergelmir]], [[Fandarra]], [[Immonhiel]], [[Rowdrosh]], [[Skode]]
+[[DATABASE/deity/Bergelmir|Bergelmir]], [[DATABASE/deity/Fandarra|Fandarra]], [[DATABASE/deity/Immonhiel|Immonhiel]], [[DATABASE/deity/Rowdrosh|Rowdrosh]], [[DATABASE/deity/Skode|Skode]]
 
 ## Equipment [36]
 
-[[Blessed Ampoule]], [[Irritating Thorn Snare]], [[Malleable Clay]], [[Merciful Charm]], [[Metuak's Pendant]], [[Mud Bomb]], [[Mud Bomb]], [[Mud Bomb]], [[Mud Bomb]], [[Mud Bomb]], [[Pernicious Spore Bomb]], [[Pernicious Spore Bomb]], [[Pernicious Spore Bomb]], [[Pernicious Spore Bomb]], [[Pernicious Spore Bomb]], [[Primordial Flame]], [[Quickmelt Slick]], [[Quickmelt Slick]], [[Quickmelt Slick]], [[Quickmelt Slick]], [[Runescribed Disk]], [[Smoke Screen Snare]], [[Smoke Screen Snare]], [[Smoke Screen Snare]], [[Spiritsight Ring]], [[Sure-Step Crampons]], [[Water Bomb]], [[Water Bomb]], [[Water Bomb]], [[Water Bomb]], [[Water Bomb]], [[Winterstep Elixir]], [[Winterstep Elixir]], [[Winterstep Elixir]], [[Winterstep Elixir]], [[Winterstep Elixir]]
+[[DATABASE/equipment/Blessed Ampoule|Blessed Ampoule]], [[DATABASE/equipment/Irritating Thorn Snare|Irritating Thorn Snare]], [[DATABASE/equipment/Malleable Clay|Malleable Clay]], [[DATABASE/equipment/Merciful Charm|Merciful Charm]], [[DATABASE/equipment/Metuak's Pendant|Metuak's Pendant]], [[DATABASE/equipment/Mud Bomb|Mud Bomb]], [[DATABASE/equipment/Mud Bomb|Mud Bomb (Greater)]], [[DATABASE/equipment/Mud Bomb|Mud Bomb (Lesser)]], [[DATABASE/equipment/Mud Bomb|Mud Bomb (Major)]], [[DATABASE/equipment/Mud Bomb|Mud Bomb (Moderate)]], [[DATABASE/equipment/Pernicious Spore Bomb|Pernicious Spore Bomb]], [[DATABASE/equipment/Pernicious Spore Bomb|Pernicious Spore Bomb (Greater)]], [[DATABASE/equipment/Pernicious Spore Bomb|Pernicious Spore Bomb (Lesser)]], [[DATABASE/equipment/Pernicious Spore Bomb|Pernicious Spore Bomb (Major)]], [[DATABASE/equipment/Pernicious Spore Bomb|Pernicious Spore Bomb (Moderate)]], [[DATABASE/equipment/Primordial Flame|Primordial Flame]], [[DATABASE/equipment/Quickmelt Slick|Quickmelt Slick]], [[DATABASE/equipment/Quickmelt Slick|Quickmelt Slick (Greater)]], [[DATABASE/equipment/Quickmelt Slick|Quickmelt Slick (Lesser)]], [[DATABASE/equipment/Quickmelt Slick|Quickmelt Slick (Moderate)]], [[DATABASE/equipment/Runescribed Disk|Runescribed Disk]], [[DATABASE/equipment/Smoke Screen Snare|Smoke Screen Snare (Greater)]], [[DATABASE/equipment/Smoke Screen Snare|Smoke Screen Snare]], [[DATABASE/equipment/Smoke Screen Snare|Smoke Screen Snare (Lesser)]], [[DATABASE/equipment/Spiritsight Ring|Spiritsight Ring]], [[DATABASE/equipment/Sure-Step Crampons|Sure-Step Crampons]], [[DATABASE/equipment/Water Bomb|Water Bomb]], [[DATABASE/equipment/Water Bomb|Water Bomb (Greater)]], [[DATABASE/equipment/Water Bomb|Water Bomb (Lesser)]], [[DATABASE/equipment/Water Bomb|Water Bomb (Major)]], [[DATABASE/equipment/Water Bomb|Water Bomb (Moderate)]], [[DATABASE/equipment/Winterstep Elixir|Winterstep Elixir]], [[DATABASE/equipment/Winterstep Elixir|Winterstep Elixir (Greater)]], [[DATABASE/equipment/Winterstep Elixir|Winterstep Elixir (Lesser)]], [[DATABASE/equipment/Winterstep Elixir|Winterstep Elixir (Minor)]], [[DATABASE/equipment/Winterstep Elixir|Winterstep Elixir (Moderate)]]
 
 ## Feats [4]
 
-[[Climate Adaptation]], [[Defensive Needles]], [[Pyrophilic Recovery]], [[Towering Growth]]
+[[DATABASE/feat/Climate Adaptation|Climate Adaptation]], [[DATABASE/feat/Defensive Needles|Defensive Needles]], [[DATABASE/feat/Pyrophilic Recovery|Pyrophilic Recovery]], [[DATABASE/feat/Towering Growth|Towering Growth]]
 
 ## Hazards [10]
 
-[[Abyss-Warped Trees]], [[Cave-In]], [[Falling Stalactites]], [[Final Flight]], [[Footsteps of Legends]], [[Forest Fire]], [[Oil Explosion]], [[Punishing Altar]], [[Rockfall Ceiling]], [[Soul Draining Cage]]
+[[DATABASE/hazard/Abyss-Warped Trees|Abyss-Warped Trees]], [[DATABASE/hazard/Cave-In|Cave-In]], [[DATABASE/hazard/Falling Stalactites|Falling Stalactites]], [[DATABASE/hazard/Final Flight|Final Flight]], [[DATABASE/hazard/Footsteps of Legends|Footsteps of Legends]], [[DATABASE/hazard/Forest Fire|Forest Fire]], [[DATABASE/hazard/Oil Explosion|Oil Explosion]], [[DATABASE/hazard/Punishing Altar|Punishing Altar]], [[DATABASE/hazard/Rockfall Ceiling|Rockfall Ceiling]], [[DATABASE/hazard/Soul Draining Cage|Soul Draining Cage]]
 
 ## Monsters [8]
 
-[[Beaver]], [[Castoroides]], [[Elk]], [[Lagofir]], [[Bison, Long-Horned]], [[Megaloceros]], [[Necrohusk]], [[Demon, Roru]]
+[[DATABASE/monster/Beaver|Beaver]], [[DATABASE/monster/Castoroides|Castoroides]], [[DATABASE/monster/Elk|Elk]], [[DATABASE/monster/Lagofir|Lagofir]], [[DATABASE/monster/Bison, Long-Horned|Long-Horned Bison]], [[DATABASE/monster/Megaloceros|Megaloceros]], [[DATABASE/monster/Necrohusk|Necrohusk]], [[DATABASE/monster/Demon, Roru|Roru]]
 
 ## Rules [1]
 
@@ -48,4 +49,4 @@ Megafauna, Religions of the Realm
 
 ## Spells [2]
 
-[[Bone Spray]], [[Boneshaker]]
+[[DATABASE/spell/Bone Spray|Bone Spray]], [[DATABASE/spell/Boneshaker|Boneshaker]]

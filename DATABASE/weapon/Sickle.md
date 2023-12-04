@@ -22,6 +22,7 @@ name: Sickle
 price: 2 sp
 range: null
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Agile|Agile]]'
@@ -36,11 +37,11 @@ weapon_type: Melee
 # Sickle
 
 <span class="item-trait">Agile</span><span class="item-trait">Finesse</span><span class="item-trait">Trip</span>
-**Source** [[Core Rulebook]] 
-**Favored Weapon** [[Green Man]], [[Hearth and Harvest]], [[Mother Vulture]], [[Shei]], [[The Green Mother]], [[Thoth]], [[Verilorn]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Favored Weapon** [[DATABASE/deity/Green Man|Green Man]], [[DATABASE/deity/Hearth and Harvest|Hearth and Harvest]], [[DATABASE/deity/Mother Vulture|Mother Vulture]], [[DATABASE/deity/Shei|Shei]], [[DATABASE/deity/The Green Mother|The Green Mother]], [[DATABASE/deity/Thoth|Thoth]], [[DATABASE/deity/Verilorn|Verilorn]]
 **Price** 2 sp; **Damage** 1d4 S; **Bulk** L
 **Hands** 1
-**Type** Melee; **Category** Simple; **Group** [[Knife]]
+**Type** Melee; **Category** Simple; **Group** [[DATABASE/weapongroup/Knife|Knife]]
 
 ---
 Originally a farming tool used for reaping grain, this one-handed weapon has a short wooden handle ending in a curved blade, sometimes sharpened on both sides.
@@ -57,14 +58,14 @@ You can use your Dexterity modifier instead of your Strength modifier on attack 
 
 **Trip:**
 
-You can use this weapon to [[Trip]] with the [[Athletics]] skill even if you don't have a free hand. This uses the weapon's reach (if different from your own) and adds the weapon's item bonus to attack rolls as an item bonus to the Athletics check. If you critically fail a check to Trip using the weapon, you can drop the weapon to take the effects of a failure instead of a critical failure.
+You can use this weapon to [[DATABASE/action/Trip|Trip]] with the [[DATABASE/skill/Athletics|Athletics]] skill even if you don't have a free hand. This uses the weapon's reach (if different from your own) and adds the weapon's item bonus to attack rolls as an item bonus to the Athletics check. If you critically fail a check to Trip using the weapon, you can drop the weapon to take the effects of a failure instead of a critical failure.
 
 ## Critical Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
-**Knife**: The target takes 1d6 [[Persistent Damage]]. You gain an item bonus to this bleed damage equal to the weapon's item bonus to attack rolls.
+**Knife**: The target takes 1d6 [[DATABASE/condition/Persistent Damage|persistent bleed damage]]. You gain an item bonus to this bleed damage equal to the weapon's item bonus to attack rolls.
 
 ## Specific Magic Weapons
 
-[[Reaper's Crescent]], [[Wordreaper]]
+[[DATABASE/equipment/Reaper's Crescent|Reaper's Crescent]], [[DATABASE/equipment/Wordreaper|Wordreaper]]

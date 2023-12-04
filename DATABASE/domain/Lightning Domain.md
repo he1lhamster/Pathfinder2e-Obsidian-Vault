@@ -19,6 +19,7 @@ domain_spell: '[[DATABASE/spell/Charged Javelin|Charged Javelin]]'
 id: '47'
 name: Lightning Domain
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
 trait: null
 type: Domain
@@ -26,7 +27,7 @@ type: Domain
 ---
 # Lightning Domain
 
-**Source** [[Gods & Magic]] 
-**Deities** [[Casandalee]], [[Cernunnos]], [[Chamidu]], [[Gozreh]], [[Hei Feng]], [[Lubaiko]], [[Ranginori]], [[Set]], [[Sky Keepers]], [[Vineshvakhi]]
-**Domain Spell** _[[Charged Javelin]]_; **Advanced Domain Spell** _[[Bottle the Storm]]_
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
+**Deities** [[DATABASE/deity/Casandalee|Casandalee]], [[DATABASE/deity/Cernunnos|Cernunnos]], [[DATABASE/deity/Chamidu|Chamidu]], [[DATABASE/deity/Gozreh|Gozreh]], [[DATABASE/deity/Hei Feng|Hei Feng]], [[DATABASE/deity/Lubaiko|Lubaiko]], [[DATABASE/deity/Ranginori|Ranginori]], [[DATABASE/deity/Set|Set]], [[DATABASE/deity/Sky Keepers|Sky Keepers]], [[DATABASE/deity/Vineshvakhi|Vineshvakhi]]
+**Domain Spell** _[[DATABASE/spell/Charged Javelin|Charged Javelin]]_; **Advanced Domain Spell** _[[DATABASE/spell/Bottle the Storm|Bottle the Storm]]_
 You control electricity, thunder, and storms.

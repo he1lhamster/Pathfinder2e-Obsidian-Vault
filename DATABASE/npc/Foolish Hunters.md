@@ -62,19 +62,19 @@ wisdom: '+1'
 # Foolish Hunters
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 13
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 13
 **Unspecific Lore**: DC 11
 **Specific Lore**: DC 8
 
 # Foolish Hunters<span class="item-type">Creature -1</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Crown of the Kobold King]]
+**Source** [[DATABASE/source/Crown of the Kobold King|Crown of the Kobold King]]
 **Perception** +9
-**Languages** [[Common]]
-**Skills** [[Acrobatics]] +5, [[Deception]] +4, [[Lore]] +4, [[Survival]] +3
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +5, [[DATABASE/skill/Deception|Deception]] +4, [[DATABASE/skill/Lore|Hunting Lore]] +4, [[DATABASE/skill/Survival|Survival]] +3
 **Str** +1, **Dex** +3, **Con** +1, **Int** +0, **Wis** +1, **Cha** +2
-**Items** [[Dagger]], hip flasks of cheap ale and wine, [[Leather Armor]], not enough food to last long in the woods, [[Shortbow]]
+**Items** [[DATABASE/weapon/Dagger|dagger]], hip flasks of cheap ale and wine, [[DATABASE/armor/Leather Armor|leather armor]], not enough food to last long in the woods, [[DATABASE/weapon/Shortbow|shortbow (20 arrows)]]
 
 ---
 **AC** 16; **Fort** +5, **Ref** +7, **Will** +3

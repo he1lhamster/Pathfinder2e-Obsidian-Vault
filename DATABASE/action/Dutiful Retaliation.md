@@ -7,6 +7,7 @@ id: '766'
 name: Dutiful Retaliation
 rarity: Common
 requirement: Your eidolon is within 15 feet of you.
+rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 trait:
@@ -21,7 +22,7 @@ type: Action
 # Dutiful Retaliation <span class="action-icon">5</span>
 
 <span class="item-trait">Eidolon</span><span class="item-trait">Occult</span><span class="item-trait">Transmutation</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Trigger** An enemy within 15 feet of you hits you with a Strike and deals damage to you.
 **Requirements** Your eidolon is within 15 feet of you.
 

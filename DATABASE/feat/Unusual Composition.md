@@ -11,6 +11,7 @@ name: Unusual Composition
 prerequisite: '[[DATABASE/bardmuse/Polymath|polymath muse]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -26,8 +27,8 @@ type: Feat
 # Unusual Composition <span class="action-icon">1</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Bard</span><span class="item-trait">Concentrate</span><span class="item-trait">Manipulate</span><span class="item-trait">Metamagic</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Polymath]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/bardmuse/Polymath|polymath muse]]
 
 ---
 You can translate the emotion and power of a composition to other mediums. If your next action is to cast a composition spell, you can use a different kind of performance than usual for the composition to change any of its somatic components to verbal components or vice versa. As usual for composition spells, this changes whether the composition is auditory or visual.

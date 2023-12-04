@@ -12,6 +12,7 @@ prerequisite: Trained in [[DATABASE/skill/Athletics|Athletics]]
 rarity: Common
 requirement: You are wielding only a single one-handed melee weapon and have your
   other hand or hands free.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -25,14 +26,14 @@ type: Feat
 # Disarming Stance <span class="action-icon">1</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Fighter</span><span class="item-trait">Stance</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Duelist]]*
-**Prerequisites** trained in [[Athletics]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Duelist|Duelist]]*
+**Prerequisites** trained in [[DATABASE/skill/Athletics|Athletics]]
 **Requirements** You are wielding only a single one-handed melee weapon and have your other hand or hands free.
 * This archetype offers Disarming Stance at a different level than displayed here.
 
 ---
-You adopt a fencing stance that improves your control over your weapon. While you are in this stance, you gain a +1 circumstance bonus to Athletics checks to [[Disarm]] and a +2 circumstance bonus to your Reflex DC when defending against checks to Disarm you. In addition, you can attempt to Disarm creatures up to two sizes larger than you.
+You adopt a fencing stance that improves your control over your weapon. While you are in this stance, you gain a +1 circumstance bonus to Athletics checks to [[DATABASE/action/Disarm|Disarm]] and a +2 circumstance bonus to your Reflex DC when defending against checks to Disarm you. In addition, you can attempt to Disarm creatures up to two sizes larger than you.
 
 ## Archetype Use
 

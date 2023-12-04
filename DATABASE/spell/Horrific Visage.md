@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -41,8 +42,8 @@ type: Focus
 # Horrific Visage<span class="item-type">Focus 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Emotion</span><span class="item-trait">Fear</span><span class="item-trait">Illusion</span><span class="item-trait">Mental</span><span class="item-trait">Sorcerer</span><span class="item-trait">Visual</span>
-**Source** [[Core Rulebook]] 
-**Bloodline** [[Hag]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Bloodline** [[DATABASE/sorcererbloodline/Hag|hag]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Area** 30-foot-radius emanation centered on you
 **Saving Throw** Will

@@ -18,6 +18,7 @@ language:
 max_speed: '25'
 name: Leshy
 rarity: Uncommon
+rus_type_level: null
 size: Small
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 speed:
@@ -33,7 +34,7 @@ vision: Low-Light Vision
 # Leshy
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Leshy</span><span class="item-trait">Plant</span>
-**Source** [[Character Guide]] 
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
 _Guardians and emissaries of the environment, leshies are immortal spirits of nature temporarily granted a physical form._
 Leshies are “born” when a skilled druid or other master of primal magic conducts a ritual to create a suitable vessel, and then a spirit chooses that vessel to be their temporary home. Leshies are self-sufficient from the moment the ritual ends, and so they do not depend upon these druids for care, though it is not uncommon for leshies to maintain lifelong bonds with their creators.
  Not all leshies have a strong enough spirit to strike off completely on their own, however. Weaker nature spirits can form only tenuous bonds that are just strong enough to animate Tiny bodies. These spirits become leshy familiars, acting as companions to their druid creators. Independent leshies are often protective of such leshy familiars, advocating for them to be treated with dignity and respect.
@@ -65,7 +66,7 @@ A leshy can be of any alignment, depending on what spirit inhabits their body, b
 
 ## Adventurers
 
-Some backgrounds are particularly suitable for adventuring leshies, especially those backgrounds with a tie to the natural world, such as [[Hunter]], [[Nomad]], or [[Scout]]. Nature-themed classes such as [[Druid]] and [[Ranger]] are popular choices for leshies. As druids, leshies gravitate toward the [[Leaf]]. [[Bard]] is also a good fit for leshies with a love of storytelling; such leshies often inhabit vine leshy bodies.
+Some backgrounds are particularly suitable for adventuring leshies, especially those backgrounds with a tie to the natural world, such as [[DATABASE/background/Hunter|hunter]], [[DATABASE/background/Nomad|nomad]], or [[DATABASE/background/Scout|scout]]. Nature-themed classes such as [[DATABASE/class_/Druid|druid]] and [[DATABASE/class_/Ranger|ranger]] are popular choices for leshies. As druids, leshies gravitate toward the [[DATABASE/druidicorder/Leaf|leaf order]]. [[DATABASE/class_/Bard|Bard]] is also a good fit for leshies with a love of storytelling; such leshies often inhabit vine leshy bodies.
 
 ## Names
 
@@ -84,7 +85,7 @@ The first beings to create leshys were green men, sometimes referred to as leshy
 
 ### Leshy Resurrection
 
-Leshys who lose their physical form incorporate the changes they experienced in life into their spirit. Even though a leshy's spirit isn't the same as the soul of many ancestries, resurrection magic can still restore it to their most recent body. Should the ritual fail, it's usually because a leshy has shed too many of their memories and attachments, rather than due to [[Pharasma]] judgment.
+Leshys who lose their physical form incorporate the changes they experienced in life into their spirit. Even though a leshy's spirit isn't the same as the soul of many ancestries, resurrection magic can still restore it to their most recent body. Should the ritual fail, it's usually because a leshy has shed too many of their memories and attachments, rather than due to [[DATABASE/deity/Pharasma|Pharasma's]] judgment.
 
 ### Life without Form
 
@@ -116,13 +117,13 @@ Intelligence
 
 ## Languages
 
-[[Common]]
-[[Sylvan]]
-Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[Draconic]], [[Elven]], [[Gnomish]], [[Goblin]], [[Halfling]], [[Undercommon]], and any other languages to which you have access (such as the languages prevalent in your region).
+[[DATABASE/language/Common|Common]]
+[[DATABASE/language/Sylvan|Sylvan]]
+Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[DATABASE/language/Draconic|Draconic]], [[DATABASE/language/Elven|Elven]], [[DATABASE/language/Gnomish|Gnomish]], [[DATABASE/language/Goblin|Goblin]], [[DATABASE/language/Halfling|Halfling]], [[DATABASE/language/Undercommon|Undercommon]], and any other languages to which you have access (such as the languages prevalent in your region).
 
 ## Low-Light Vision
 
-You can see in dim light as though it were bright light, so you ignore the [[Concealed]] condition due to dim light.
+You can see in dim light as though it were bright light, so you ignore the [[DATABASE/condition/Concealed|concealed]] condition due to dim light.
 
 ## Plant Nourishment
 

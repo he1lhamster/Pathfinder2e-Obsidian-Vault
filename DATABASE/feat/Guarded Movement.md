@@ -11,6 +11,7 @@ name: Guarded Movement
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Guarded Movement <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Monk</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Ghoul]]*
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Ghoul|Ghoul]]*
 * This archetype offers Guarded Movement at a different level than displayed here.
 
 ---

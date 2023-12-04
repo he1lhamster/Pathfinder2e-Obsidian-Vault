@@ -69,21 +69,21 @@ wisdom: '+2'
 # Teacher
 
 The passing of knowledge and traditions from generation to generation is a time-honored occupation. Teachers exist to strengthen their populations with literacy, history, and advanced sciences, but most of all with inspiration. Most teachers provide general knowledge so their students are well rounded, but some are experts or even masters of a single discipline. A teacher typically knows three languages in addition to Common. For academic encounters, a teacher is a 4th-level challenge.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 13
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 13
 **Unspecific Lore**: DC 11
 **Specific Lore**: DC 8
 
 # Teacher<span class="item-type">Creature -1</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Perception** +4
-**Languages** [[Common]]
-**Skills** [[Lore]] +14, [[Diplomacy]] +7, [[Intimidation]] +5, [[Lore]] +14
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Lore|Academia Lore]] +14, [[DATABASE/skill/Diplomacy|Diplomacy]] +7, [[DATABASE/skill/Intimidation|Intimidation]] +5, [[DATABASE/skill/Lore|one additional Lore]] +14
 **Str** +0, **Dex** +0, **Con** -1, **Int** +4, **Wis** +2, **Cha** +3
-**Font of Knowledge** The teacher can attempt to [[Recall Knowledge]] on any general subject with a +10 modifier.
-**Inspirational Presence** (aura, emotion, mental) 50 feet. Any of the teacher's students in the aura gains a +1 circumstance bonus to [[Recall Knowledge]].
-**Items** cane (functions as staff), textbook, [[Writing Set]]
+**Font of Knowledge** The teacher can attempt to [[DATABASE/action/Recall Knowledge|Recall Knowledge]] on any general subject with a +10 modifier.
+**Inspirational Presence** (aura, emotion, mental) 50 feet. Any of the teacher's students in the aura gains a +1 circumstance bonus to [[DATABASE/action/Recall Knowledge|Recall Knowledge]].
+**Items** cane (functions as staff), textbook, [[DATABASE/equipment/Writing Set|writing set]]
 
 ---
 **AC** 12; **Fort** +1, **Ref** +2, **Will** +6

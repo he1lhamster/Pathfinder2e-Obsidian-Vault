@@ -11,6 +11,7 @@ name: Hobgoblin Weapon Familiarity
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 subcategory: null
@@ -23,14 +24,14 @@ type: Feat
 # Hobgoblin Weapon Familiarity <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Hobgoblin</span>
-**Source** [[Character Guide]]
+**Source** [[DATABASE/source/Character Guide|Character Guide]]
 
 ---
-You are trained with [[Longbow]], [[Shortbow]], [[Glaive]], [[Longbow]], [[Longsword]], and [[Shortbow]]. In addition, you gain access to all uncommon hobgoblin weapons. For the purpose of determining your proficiency, martial hobgoblin weapons are simple weapons and advanced hobgoblin weapons are martial weapons.
+You are trained with [[DATABASE/weapon/Longbow|composite longbows]], [[DATABASE/weapon/Shortbow|composite shortbows]], [[DATABASE/weapon/Glaive|glaives]], [[DATABASE/weapon/Longbow|longbows]], [[DATABASE/weapon/Longsword|longswords]], and [[DATABASE/weapon/Shortbow|shortbows]]. In addition, you gain access to all uncommon hobgoblin weapons. For the purpose of determining your proficiency, martial hobgoblin weapons are simple weapons and advanced hobgoblin weapons are martial weapons.
 
 ## Hobgoblin Weapon Familiarity Leads To...
 
-[[Hobgoblin Weapon Discipline]], [[Hobgoblin Weapon Expertise]]
+[[DATABASE/feat/Hobgoblin Weapon Discipline|Hobgoblin Weapon Discipline]], [[DATABASE/feat/Hobgoblin Weapon Expertise|Hobgoblin Weapon Expertise]]
 
 ## Traits
 

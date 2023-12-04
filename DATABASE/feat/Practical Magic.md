@@ -11,6 +11,7 @@ name: Practical Magic
 prerequisite: Trained in [[DATABASE/skill/Magic|Magic]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 subcategory: null
@@ -24,11 +25,11 @@ type: Feat
 # Practical Magic <span class="item-type">Feat 1</span>
 
 <span class="item-trait">General</span><span class="item-trait">Kingdom</span>
-**Source** [[Kingmaker Adventure Path]]
-**Prerequisites** trained in [[Magic]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
+**Prerequisites** trained in [[DATABASE/skill/Magic|Magic]]
 
 ---
-Magic has an honored place in your society, and your people incorporate it into their everyday work to make life easier. You gain a +1 status bonus to Magic checks, and you can use Magic checks in place of [[Engineering]] checks. In addition, as magic-wielding NPCs find your nation a comfortable place to live and work, you reduce the cost of using the [[Hire Adventurers]] activity to 1 RP.
+Magic has an honored place in your society, and your people incorporate it into their everyday work to make life easier. You gain a +1 status bonus to Magic checks, and you can use Magic checks in place of [[DATABASE/skill/Engineering|Engineering]] checks. In addition, as magic-wielding NPCs find your nation a comfortable place to live and work, you reduce the cost of using the [[DATABASE/action/Hire Adventurers|Hire Adventurers]] activity to 1 RP.
 
 ## Traits
 

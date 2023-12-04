@@ -11,6 +11,7 @@ name: Warp Space
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -24,7 +25,7 @@ type: Feat
 # Warp Space <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Amp</span><span class="item-trait">Psychic</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 
 ---
 You use your magic to bend space, causing your spell to strike from a strange vector. Use this amp in place of a psi cantrip's normal amp entry. The amped psi cantrip must have a range.

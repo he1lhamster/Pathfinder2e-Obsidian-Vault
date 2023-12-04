@@ -69,21 +69,21 @@ wisdom: '+1'
 # Spark Bat
 
 Spark bats congregate around volatile weather in the Plane of Air.
-**Recall Knowledge - Elemental ([[Arcana]], [[Nature]])**: DC 16
+**Recall Knowledge - Elemental ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
 # Spark Bat<span class="item-type">Creature 2</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Tiny</span><span class="item-trait">Air</span><span class="item-trait">Elemental</span>
-**Source** [[Bestiary 2]] 
-**Perception** +7; [[Darkvision]]
-**Skills** [[Acrobatics]] +9, [[Stealth]] +9
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
+**Perception** +7; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +9, [[DATABASE/skill/Stealth|Stealth]] +9
 **Str** +0, **Dex** +3, **Con** +1, **Int** -4, **Wis** +1, **Cha** +0
 
 ---
 **AC** 19; **Fort** +5, **Ref** +11, **Will** +7
-**HP** 18; **Immunities** bleed, electricity, [[Paralyzed]], poison, sleep
+**HP** 18; **Immunities** bleed, electricity, [[DATABASE/condition/Paralyzed|paralyzed]], poison, sleep
 
 ---
 **Speed** 5 feet, fly 50 feet

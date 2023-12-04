@@ -21,6 +21,7 @@ patron_theme: null
 range: 120 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -42,7 +43,7 @@ type: Spell
 # Canticle of Everlasting Grief<span class="item-type">Spell 8</span>
 
 <span class="item-trait">Auditory</span><span class="item-trait">Curse</span><span class="item-trait">Emotion</span><span class="item-trait">Enchantment</span><span class="item-trait">Fear</span><span class="item-trait">Mental</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Traditions** divine, occult
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 120 feet; **Targets** 1 creature
@@ -51,6 +52,6 @@ type: Spell
 ---
 You create a melody distilled from pure grief, conveying the inevitable loss of everything your target cherishes, audible only to them. The target must attempt a Will save.
 **Critical Success** The target is unaffected.
-**Success** The target takes 5d6 mental damage, is [[Frightened]], and can't benefit from circumstance or status bonuses for 1 round.
+**Success** The target takes 5d6 mental damage, is [[DATABASE/condition/Frightened|frightened 1]], and can't benefit from circumstance or status bonuses for 1 round.
 **Failure** The target takes 10d6 mental damage, is frightened 3, and can't benefit from circumstance or status bonuses for 1 week.
 **Critical Failure** The target takes 20d6 mental damage and is frightened 4. It can't benefit from circumstance or status bonuses until the curse is broken. While the curse remains, the target's allies are also unable to benefit from circumstance or status bonuses while within 15 feet of it.

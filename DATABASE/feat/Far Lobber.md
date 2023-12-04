@@ -11,6 +11,7 @@ name: Far Lobber
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,11 +24,11 @@ type: Feat
 # Far Lobber <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Alchemist</span>
-**Source** [[Core Rulebook]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]]
 
 ---
 You’ve learned how to throw a longer distance. When you throw an alchemical bomb, it has a range increment of 30 feet instead of the usual 20 feet.
 
 ## Far Lobber Leads To...
 
-[[Uncanny Bombs]]
+[[DATABASE/feat/Uncanny Bombs|Uncanny Bombs]]

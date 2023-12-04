@@ -19,6 +19,7 @@ patron_theme: null
 range: touch or 30 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
@@ -37,7 +38,7 @@ type: Focus
 # Heal Companion<span class="item-type">Focus 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Healing</span><span class="item-trait">Necromancy</span><span class="item-trait">Positive</span><span class="item-trait">Ranger</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Cast** <span class="action-icon">1</span> or <span class="action-icon">2</span> 
 **Range** touch or 30 feet; **Targets** your animal companion
 

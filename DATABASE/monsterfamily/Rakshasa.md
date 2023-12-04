@@ -3,6 +3,7 @@ creature_family: Rakshasa
 id: '85'
 name: Rakshasa
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait: null
 type: Creature Family
@@ -10,12 +11,12 @@ type: Creature Family
 ---
 # Rakshasa
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Rakshasas are evil spirits that cloak themselves in the guises of humanoid creatures, that they might walk unseen among their prey. They embody what is taboo among most societies, and in the shape of those they seek to defile, rakshasas gorge themselves on these hideous acts. A wide range of rakshasas exist; presented below are the diminutive, sinister dandasuka rakshasa and the infamous raja rakshasa, who are the most widespread and commonly encountered of these fiends.
 
 ### Members
 
-[[Dandasuka]] (Creature 5), [[Maharaja]] (Creature 20), [[Raja Rakshasa]] (Creature 10), [[Raktavarna]] (Creature 1)
+[[DATABASE/monster/Dandasuka|Dandasuka]] (Creature 5), [[DATABASE/monster/Maharaja|Maharaja]] (Creature 20), [[DATABASE/monster/Raja Rakshasa|Raja Rakshasa]] (Creature 10), [[DATABASE/monster/Raktavarna|Raktavarna]] (Creature 1)
 
 ###  Rakshasa Immortals
 
@@ -23,7 +24,7 @@ Above all rakshasas rule the rakshasa immortals, powerful unique entities who de
 
 ###  Rakshasa Locations
 
-Rakshasas are one of the few types of fiends native to the [[Material Plane]] and aren't typically found on other planes. Instead, most rakshasas live in urban areas where humanoids congregate, supplying these fiends with a variety of mortals to prey upon and bend to their wills, as well as all the luxuries that humanoid society can offer.
+Rakshasas are one of the few types of fiends native to the [[DATABASE/plane/Material Plane|Material Plane]] and aren't typically found on other planes. Instead, most rakshasas live in urban areas where humanoids congregate, supplying these fiends with a variety of mortals to prey upon and bend to their wills, as well as all the luxuries that humanoid society can offer.
 
 ###  Rakshasa Reincarnation
 

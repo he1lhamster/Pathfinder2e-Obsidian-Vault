@@ -3,6 +3,7 @@ creature_family: Brughadatch
 id: '123'
 name: Brughadatch
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 154. Siege of the Dinosaurs|Pathfinder #154:
   Siege of the Dinosaurs]]'
 trait: null
@@ -11,12 +12,12 @@ type: Creature Family
 ---
 # Brughadatch
 
-**Source** [[Pathfinder 154. Siege of the Dinosaurs]]
+**Source** [[DATABASE/source/Pathfinder 154. Siege of the Dinosaurs|Pathfinder #154: Siege of the Dinosaurs]]
 Brughadatches are malevolent fey tricksters with distinct stages of life: they spawn from the First World’s primal energies as esurient tadpoles, grow into humanoids capable of creating enticing illusions, then finally evolve into huge, slothful toads that warp their environs with mere thoughts.
 
 ### Members
 
-[[Brughadatch (Midlife Brughadatch)]] (Creature 10), [[Doblagub (Elder Brughadatch)]] (Creature 13), [[Gahlepod (Juvenile Brughadatch)]] (Creature 7)
+[[DATABASE/monster/Brughadatch (Midlife Brughadatch)|Brughadatch]] (Creature 10), [[DATABASE/monster/Doblagub (Elder Brughadatch)|Doblagub]] (Creature 13), [[DATABASE/monster/Gahlepod (Juvenile Brughadatch)|Gahlepod]] (Creature 7)
 
 ###  Strength in Numbers
 

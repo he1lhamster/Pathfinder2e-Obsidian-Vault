@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/feat/Overwatch Dedication|Overwatch Dedication]] ; mas
   in Perception'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -26,9 +27,9 @@ type: Feat
 # Converge <span class="action-icon">5</span> <span class="item-type">Feat 16</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Guns & Gears]]
-**Archetype** [[Overwatch]]
-**Prerequisites** [[Overwatch Dedication]]; master in Perception
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Archetype** [[DATABASE/archetype/Overwatch|Overwatch]]
+**Prerequisites** [[DATABASE/feat/Overwatch Dedication|Overwatch Dedication]]; master in Perception
 **Trigger** You make a successful ranged attack against an opponent who is within your overwatch field, and who is within reach of one or more of your allies who is also within your overwatch field.
 
 ---

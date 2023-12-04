@@ -11,6 +11,7 @@ name: Magic Hide
 prerequisite: an animal companion; warden spells
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,13 +24,13 @@ type: Feat
 # Magic Hide <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Ranger</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Beastmaster]]*
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Beastmaster|Beastmaster]]*
 **Prerequisites** an animal companion; warden spells
 * This archetype offers Magic Hide at a different level than displayed here.
 
 ---
-You can defend your companion in battle. You gain the [[Magic Hide]] warden spell. Increase the number of Focus Points in your focus pool by 1.
+You can defend your companion in battle. You gain the [[DATABASE/spell/Magic Hide|magic hide]] warden spell. Increase the number of Focus Points in your focus pool by 1.
 
 ## Archetype Use
 

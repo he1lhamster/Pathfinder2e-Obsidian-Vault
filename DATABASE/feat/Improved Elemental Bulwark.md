@@ -11,6 +11,7 @@ name: Improved Elemental Bulwark
 prerequisite: '[[DATABASE/feat/Elemental Bulwark|Elemental Bulwark]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Improved Elemental Bulwark <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Suli</span>
-**Source** [[Ancestry Guide]] 
-**Prerequisites** [[Elemental Bulwark]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]] 
+**Prerequisites** [[DATABASE/feat/Elemental Bulwark|Elemental Bulwark]]
 
 ---
 You gain resistance 10 from Elemental Bulwark instead of 5.
@@ -33,4 +34,4 @@ You gain resistance 10 from Elemental Bulwark instead of 5.
 
 **Suli:**
 
-Sulis are planar scions descended from [[Janni]].
+Sulis are planar scions descended from [[DATABASE/monster/Janni|jann]].

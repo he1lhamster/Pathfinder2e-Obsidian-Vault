@@ -71,25 +71,25 @@ wisdom: '+1'
 ---
 # Veiled Current
 
-Often considered cousins of [[Invisible Stalker]], veiled currents are loose veils of wind who catch prey within their folds.
-**Recall Knowledge - Elemental ([[Arcana]], [[Nature]])**: DC 24
+Often considered cousins of [[DATABASE/monster/Invisible Stalker|phades]], veiled currents are loose veils of wind who catch prey within their folds.
+**Recall Knowledge - Elemental ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 24
 **Unspecific Lore**: DC 22
 **Specific Lore**: DC 19
 
 # Veiled Current<span class="item-type">Creature 8</span>
 
 <span class="trait-size item-trait">Large</span><span class="item-trait">Air</span><span class="item-trait">Elemental</span>
-**Source** [[Rage of Elements]]
-**Perception** +17; [[Darkvision]]
-**Languages** [[Sussuran]]
-**Skills** [[Acrobatics]] +18, [[Athletics]] +18, [[Deception]] +15, [[Stealth]] +18
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
+**Perception** +17; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Sussuran|Sussuran]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +18, [[DATABASE/skill/Athletics|Athletics]] +18, [[DATABASE/skill/Deception|Deception]] +15, [[DATABASE/skill/Stealth|Stealth]] +18
 **Str** +2, **Dex** +6, **Con** +4, **Int** +2, **Wis** +1, **Cha** +3
 
 ---
 **AC** 28; **Fort** +15, **Ref** +19, **Will** +13
-**HP** 100; **Immunities** bleed, [[Paralyzed]], poison, sleep
-<span class="in-box-ability">**Naturally Invisible** The veiled current is [[Invisible]] at all times. When they take a hostile action of any kind, the veiled current is [[Hidden]] instead of [[Undetected]] as the vague outline of their humanoid form becomes faintly visible until the start of their next turn.</span>
+**HP** 100; **Immunities** bleed, [[DATABASE/condition/Paralyzed|paralyzed]], poison, sleep
+<span class="in-box-ability">**Naturally Invisible** The veiled current is [[DATABASE/condition/Invisible|invisible]] at all times. When they take a hostile action of any kind, the veiled current is [[DATABASE/condition/Hidden|hidden]] instead of [[DATABASE/condition/Undetected|undetected]] as the vague outline of their humanoid form becomes faintly visible until the start of their next turn.</span>
 
 ---
 **Speed** fly 50 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> static fold +19 [+15/+11] (agile, finesse, reach 10 feet), **Damage** 2d10+8 bludgeoning plus [[Grab]]</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> static scream +19 [+14/+9] (range increment 50 feet), **Damage** 2d8+4 sonic</span><span class="in-box-ability">**Envelop** <span class="action-icon">2</span> **Requirements** The veiled current begins their turn with a target of their size or smaller [[Grabbed]]; **Effect** The veiled current maintains the Grab and coalesces around the creature, stretching themself into a semisolid veil that smothers the creature within. This thereafter has the same effect as if the veiled current had [[Engulf]] the creature (DC 26, 1d8+8 bludgeoning, [[Escape]] DC 26, Rupture 17). As engulfing a creature is a hostile action, the veiled current is [[Hidden]] instead of [[Undetected]] every round it has a creature engulfed.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> static fold +19 [+15/+11] (agile, finesse, reach 10 feet), **Damage** 2d10+8 bludgeoning plus [[DATABASE/monsterability/Grab|Grab]]</span><span class="in-box-ability">**Ranged** <span class="action-icon">1</span> static scream +19 [+14/+9] (range increment 50 feet), **Damage** 2d8+4 sonic</span><span class="in-box-ability">**Envelop** <span class="action-icon">2</span> **Requirements** The veiled current begins their turn with a target of their size or smaller [[DATABASE/condition/Grabbed|grabbed]]; **Effect** The veiled current maintains the Grab and coalesces around the creature, stretching themself into a semisolid veil that smothers the creature within. This thereafter has the same effect as if the veiled current had [[DATABASE/monsterability/Engulf|Engulfed]] the creature (DC 26, 1d8+8 bludgeoning, [[DATABASE/action/Escape|Escape]] DC 26, Rupture 17). As engulfing a creature is a hostile action, the veiled current is [[DATABASE/condition/Hidden|hidden]] instead of [[DATABASE/condition/Undetected|undetected]] every round it has a creature engulfed.</span>

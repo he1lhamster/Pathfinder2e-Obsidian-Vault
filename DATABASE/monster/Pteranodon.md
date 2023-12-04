@@ -65,16 +65,16 @@ wisdom: '+2'
 # Pteranodon
 
 Pteranodons are quick and agile reptiles with 20-foot wingspans that enable them to hover on wind currents for hours. These creatures have long beaks and equally long crests that protrude from the backs of their heads.
-**Recall Knowledge - Animal ([[Nature]])**: DC 16
+**Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 16
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
 # Pteranodon<span class="item-type">Creature 2</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Animal</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +8; low-light vision, scent (imprecise) 30 feet
-**Skills** [[Acrobatics]] +10, [[Athletics]] +7
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +10, [[DATABASE/skill/Athletics|Athletics]] +7
 **Str** +3, **Dex** +4, **Con** +1, **Int** -4, **Wis** +2, **Cha** -1
 
 ---

@@ -11,6 +11,7 @@ name: Cast Down
 prerequisite: '[[DATABASE/class_/Cleric|harmful font or healing font]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -25,11 +26,11 @@ type: Feat
 # Cast Down <span class="action-icon">1</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Cleric</span><span class="item-trait">Concentrate</span><span class="item-trait">Metamagic</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Cleric]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/class_/Cleric|harmful font or healing font]]
 
 ---
-The sheer force of your faith can bring a foe crashing down. If the next action you use is to cast [[Harm]] or [[Heal]] to damage one creature, the target is knocked prone if it takes any damage from the spell. If the target critically fails its save against the spell, it also takes a –10-foot status penalty to its Speed for 1 minute.
+The sheer force of your faith can bring a foe crashing down. If the next action you use is to cast [[DATABASE/spell/Harm|harm]] or [[DATABASE/spell/Heal|heal]] to damage one creature, the target is knocked prone if it takes any damage from the spell. If the target critically fails its save against the spell, it also takes a –10-foot status penalty to its Speed for 1 minute.
 
 ## Traits
 

@@ -11,6 +11,7 @@ name: Lavasoul
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 subcategory: null
@@ -24,16 +25,16 @@ type: Feat
 # Lavasoul <span class="item-type">Feat 1</span>
 
 <span class="item-trait">Ifrit</span><span class="item-trait">Lineage</span>
-**Source** [[Ancestry Guide]]
+**Source** [[DATABASE/source/Ancestry Guide|Ancestry Guide]]
 
 ---
-Your elemental lineage manifests as magma and molten rock, and you can focus the magma into your hand to attack your foes. You gain a magma spike unarmed attack, which requires a free hand to use. This is an agile, finesse, unarmed attack in the [[Brawling]] weapon group that deals 1d4 piercing damage, as well as 1 additional fire damage. Instead of the normal critical specialization effect, the target takes 1d6 [[Persistent Damage]]; you gain a bonus on this persistent damage equal to your item bonus to attack rolls on unarmed attacks.
+Your elemental lineage manifests as magma and molten rock, and you can focus the magma into your hand to attack your foes. You gain a magma spike unarmed attack, which requires a free hand to use. This is an agile, finesse, unarmed attack in the [[DATABASE/weapongroup/Brawling|brawling]] weapon group that deals 1d4 piercing damage, as well as 1 additional fire damage. Instead of the normal critical specialization effect, the target takes 1d6 [[DATABASE/condition/Persistent Damage|persistent fire damage]]; you gain a bonus on this persistent damage equal to your item bonus to attack rolls on unarmed attacks.
 
 ## Traits
 
 **Ifrit:**
 
-Ifrits are planar scions descended from [[Efreeti]].
+Ifrits are planar scions descended from [[DATABASE/monster/Efreeti|efreet]].
 
 **Lineage:**
 

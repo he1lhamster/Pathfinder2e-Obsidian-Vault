@@ -11,6 +11,7 @@ name: Triggerbrand Salvo
 prerequisite: '[[DATABASE/gunslingerway/Way of the Triggerbrand|way of the triggerbrand]]'
 rarity: Common
 requirement: You're wielding a [[DATABASE/trait/Combination|combination]] weapon.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Triggerbrand Salvo <span class="action-icon">1</span> <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Flourish</span><span class="item-trait">Gunslinger</span>
-**Source** [[Impossible Lands]]
-**Prerequisites** [[Way of the Triggerbrand]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
+**Prerequisites** [[DATABASE/gunslingerway/Way of the Triggerbrand|way of the triggerbrand]]
 **Requirements** You're wielding a combination weapon.
 
 ---

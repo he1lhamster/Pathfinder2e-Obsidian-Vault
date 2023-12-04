@@ -66,19 +66,19 @@ wisdom: '+0'
 # Dancer
 
 Dance can be used to tell stories, share emotions, provide entertainment, and display a performer's athletic ability. The dancer is a 5th-level challenge for dance contests.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 15
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 15
 **Unspecific Lore**: DC 13
 **Specific Lore**: DC 10
 
 # Dancer<span class="item-type">Creature 1</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Perception** +3
-**Languages** [[Common]]
-**Skills** [[Acrobatics]] +8, [[Athletics]] +8, [[Diplomacy]] +7, [[Performance]] +13 (+15 when dancing), [[Stealth]] +6, [[Lore]] +5
+**Languages** [[DATABASE/language/Common|Common]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +8, [[DATABASE/skill/Athletics|Athletics]] +8, [[DATABASE/skill/Diplomacy|Diplomacy]] +7, [[DATABASE/skill/Performance|Performance]] +13 (+15 when dancing), [[DATABASE/skill/Stealth|Stealth]] +6, [[DATABASE/skill/Lore|Theater Lore]] +5
 **Str** +1, **Dex** +3, **Con** +1, **Int** +0, **Wis** +0, **Cha** +4
-**Items** [[Dagger]], jewelry and clothes
+**Items** [[DATABASE/weapon/Dagger|dagger (3)]], jewelry and clothes
 
 ---
 **AC** 16; **Fort** +6, **Ref** +8, **Will** +3
@@ -86,4 +86,4 @@ Dance can be used to tell stories, share emotions, provide entertainment, and di
 
 ---
 **Speed** 25 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> dagger +8 [+4/+0] (agile, finesse, versatile S), **Damage** 1d4+3 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> foot +8 [+4/+0] (agile, finesse, nonlethal), **Damage** 1d4+3 bludgeoning</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> dagger +8 [+4/+0] (agile, thrown 10 feet, versatile S), **Damage** 1d4+3 piercing</span><span class="in-box-ability">**Fascinating Dance** <span class="action-icon">1</span> **Frequency** once per round; **Effect** The dancer Strides up to their Speed. Once during this movement, when the dancer is adjacent to a creature, the dancer can make that creature attempt a DC 17 Will save. On a failure, that creature is [[Fascinated]] with the dancer until the end of its next turn.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> dagger +8 [+4/+0] (agile, finesse, versatile S), **Damage** 1d4+3 piercing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> foot +8 [+4/+0] (agile, finesse, nonlethal), **Damage** 1d4+3 bludgeoning</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> dagger +8 [+4/+0] (agile, thrown 10 feet, versatile S), **Damage** 1d4+3 piercing</span><span class="in-box-ability">**Fascinating Dance** <span class="action-icon">1</span> **Frequency** once per round; **Effect** The dancer Strides up to their Speed. Once during this movement, when the dancer is adjacent to a creature, the dancer can make that creature attempt a DC 17 Will save. On a failure, that creature is [[DATABASE/condition/Fascinated|fascinated]] with the dancer until the end of its next turn.</span>

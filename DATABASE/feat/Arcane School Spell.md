@@ -11,6 +11,7 @@ name: Arcane School Spell
 prerequisite: '[[DATABASE/feat/Wizard Dedication|Wizard Dedication]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -23,12 +24,12 @@ type: Feat
 # Arcane School Spell <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Wizard]]
-**Prerequisites** [[Wizard Dedication]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Wizard|Wizard]]
+**Prerequisites** [[DATABASE/feat/Wizard Dedication|Wizard Dedication]]
 
 ---
-You gain your school's initial school spell. If you don't already have one, you gain a focus pool of 1 Focus Point, which you can [[Refocus]] by studying.
+You gain your school's initial school spell. If you don't already have one, you gain a focus pool of 1 Focus Point, which you can [[DATABASE/action/Refocus|Refocus]] by studying.
 
 ## Traits
 

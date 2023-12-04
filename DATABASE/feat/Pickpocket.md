@@ -11,6 +11,7 @@ name: Pickpocket
 prerequisite: Trained in [[DATABASE/skill/Thievery|Thievery]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: thievery
@@ -24,15 +25,15 @@ type: Feat
 # Pickpocket <span class="item-type">Feat 1</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** trained in [[Thievery]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** trained in [[DATABASE/skill/Thievery|Thievery]]
 
 ---
 You can Steal or Palm an Object that’s closely guarded, such as in a pocket, without taking the –5 penalty. You can’t steal objects that would be extremely noticeable or time consuming to remove (like worn shoes or armor or actively wielded objects). If you’re a master in Thievery, you can attempt to Steal from a creature in combat or otherwise on guard. When doing so, Stealing requires 2 manipulate actions instead of 1, and you take a –5 penalty.
 
 ## Pickpocket Leads To...
 
-[[Larcenous Hand]], [[Legendary Thief]], [[Plant Evidence]]
+[[DATABASE/feat/Larcenous Hand|Larcenous Hand]], [[DATABASE/feat/Legendary Thief|Legendary Thief]], [[DATABASE/feat/Plant Evidence|Plant Evidence]]
 
 ## Traits
 

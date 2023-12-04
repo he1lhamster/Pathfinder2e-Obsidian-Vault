@@ -13,6 +13,7 @@ primary_check: '[[DATABASE/skill/Occultism|Occultism]] or [[DATABASE/skill/Relig
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 school: Abjuration
 secondary_casters: '3'
 secondary_check: Fortitude, [[DATABASE/skill/Society|Society]] , Will
@@ -27,9 +28,9 @@ type: Ritual
 # Vital Singularity<span class="item-type">Ritual 9</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Abjuration</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Cast** 1 hour; **Cost** crushed rubies worth 2,000 gp; **Secondary Casters** 3
-**Primary Check** [[Occultism]] or [[Religion]] (legendary); **Secondary Checks** Fortitude, [[Society]], Will
+**Primary Check** [[DATABASE/skill/Occultism|Occultism]] or [[DATABASE/skill/Religion|Religion]] (legendary); **Secondary Checks** Fortitude, [[DATABASE/skill/Society|Society]], Will
 **Duration** 3 hours
 
 ---
@@ -37,4 +38,4 @@ When several companions or followers have reached a point of undying love and tr
 **Critical Success** The light from your secondary casters envelops you in a warm radiance. In addition to the effects described above, you're healed to full Hit Points upon completion of the ritual.
 **Success** The secondary casters channel their energies to you, protecting you as described above.
 **Failure** The secondary casters cry out in sorrow, reaching out to you to feel your embrace, then they grow sad that they couldn't live up to your expectations. Nothing else happens.
-**Critical Failure** The secondary casters' attempts to unite with you become desperate, but ultimately, the only function of the link was to disorient all of you, making your bodies feel like they aren't your own. You and all secondary casters become [[Clumsy]] for 3 days.
+**Critical Failure** The secondary casters' attempts to unite with you become desperate, but ultimately, the only function of the link was to disorient all of you, making your bodies feel like they aren't your own. You and all secondary casters become [[DATABASE/condition/Clumsy|clumsy 3]] for 3 days.

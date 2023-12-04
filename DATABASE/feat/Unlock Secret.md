@@ -11,6 +11,7 @@ name: Unlock Secret
 prerequisite: '[[DATABASE/feat/Open Mind|Open Mind]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 subcategory: null
@@ -23,15 +24,15 @@ type: Feat
 # Unlock Secret <span class="item-type">Feat 5</span>
 
 <span class="item-trait">Kashrishi</span>
-**Source** [[Impossible Lands]]
-**Prerequisites** [[Open Mind]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
+**Prerequisites** [[DATABASE/feat/Open Mind|Open Mind]]
 
 ---
 You delve deeper into your psychic potential. Choose a 1st-level occult spell, either a common spell or another to which you have access. You can cast that spell once per day as an innate occult spell.
 
 ## Unlock Secret Leads To...
 
-[[Transcendent Realization]]
+[[DATABASE/feat/Transcendent Realization|Transcendent Realization]]
 
 ## Traits
 

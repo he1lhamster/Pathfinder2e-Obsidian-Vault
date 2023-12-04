@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/class_/Cleric|harmful font or healing font]] ; deity t
   allows clerics tohave both fonts'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,12 +25,12 @@ type: Feat
 # Versatile Font <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Cleric</span>
-**Source** [[Core Rulebook]] 
-**Prerequisites** [[Cleric]]; deity that allows clerics to have both fonts
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Prerequisites** [[DATABASE/class_/Cleric|harmful font or healing font]]; deity that allows clerics to have both fonts
 
 ---
-As you explore your deity’s aspects, you move beyond restrictions on healing or harming. You can prepare either [[Harm]] or [[Heal]] in the spell slots gained from the harmful font or healing font.
+As you explore your deity’s aspects, you move beyond restrictions on healing or harming. You can prepare either [[DATABASE/spell/Harm|harm]] or [[DATABASE/spell/Heal|heal]] in the spell slots gained from the harmful font or healing font.
 
 ## Versatile Font Leads To...
 
-[[Ebb and Flow]]
+[[DATABASE/feat/Ebb and Flow|Ebb and Flow]]

@@ -86,22 +86,22 @@ wisdom: '+0'
 # Clockwork Disposer
 
 Wealthy business owners sometimes employ clockwork disposers to pick up trash around their establishment and keep the place tidy. Many are designed with handy (but dangerous) built-in furnaces, which they use to quickly incinerate collected refuse.
-**Recall Knowledge - Construct ([[Arcana]], [[Crafting]])**: DC 22
+**Recall Knowledge - Construct ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Crafting|Crafting]])**: DC 22
 **Unspecific Lore**: DC 20
 **Specific Lore**: DC 17
 
 # Clockwork Disposer<span class="item-type">Creature 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Small</span><span class="item-trait">Clockwork</span><span class="item-trait">Construct</span><span class="item-trait">Mindless</span>
-**Source** [[Pathfinder 179. Cradle of Quartz]]
-**Perception** +13; [[Darkvision]]
-**Skills** [[Athletics]] +12, [[Stealth]] +12
+**Source** [[DATABASE/source/Pathfinder 179. Cradle of Quartz|Pathfinder #179: Cradle of Quartz]]
+**Perception** +13; [[DATABASE/monsterability/Darkvision|darkvision]]
+**Skills** [[DATABASE/skill/Athletics|Athletics]] +12, [[DATABASE/skill/Stealth|Stealth]] +12
 **Str** +2, **Dex** +4, **Con** +1, **Int** -5, **Wis** +0, **Cha** -5
 **Wind-Up** 24 hours, DC 20, standby
 
 ---
 **AC** 21; **Fort** +12, **Ref** +15, **Will** +9
-**HP** 70; **Immunities** death effects, disease, [[Doomed]], [[Drained]], [[Fatigued]], healing, mental, necromancy, nonlethal attacks, [[Paralyzed]], poisoned, [[Sickened]], [[Unconscious]]; **Resistances** physical 5 (except [[Wand of Smoldering Fireballs]] or orichalcum); **Weaknesses** electricity 5, [[Orichalcum Weapon]] 5
+**HP** 70; **Immunities** death effects, disease, [[DATABASE/condition/Doomed|doomed]], [[DATABASE/condition/Drained|drained]], [[DATABASE/condition/Fatigued|fatigued]], healing, mental, necromancy, nonlethal attacks, [[DATABASE/condition/Paralyzed|paralyzed]], poisoned, [[DATABASE/condition/Sickened|sickened]], [[DATABASE/condition/Unconscious|unconscious]]; **Resistances** physical 5 (except [[DATABASE/equipment/Wand of Smoldering Fireballs|adamantine]] or orichalcum); **Weaknesses** electricity 5, [[DATABASE/equipment/Orichalcum Weapon|orichalcum]] 5
 
 ---
 **Speed** 25 feet

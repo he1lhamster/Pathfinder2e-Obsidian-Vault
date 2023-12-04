@@ -11,6 +11,7 @@ name: Caravan Leader
 prerequisite: Constitution 18; [[DATABASE/feat/Pick up the Pace|Pick up the Pace]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,11 +24,11 @@ type: Feat
 # Caravan Leader <span class="item-type">Feat 11</span>
 
 <span class="item-trait">General</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** Constitution 18; [[Pick up the Pace]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** Constitution 18; [[DATABASE/feat/Pick up the Pace|Pick up the Pace]]
 
 ---
-You know how to get the most effort out of your allies on the road. When [[Hustle]] in a group during exploration mode, your group can Hustle for as long as the member who could Hustle longest on their own, plus an additional 20 minutes beyond that.
+You know how to get the most effort out of your allies on the road. When [[DATABASE/action/Hustle|Hustling]] in a group during exploration mode, your group can Hustle for as long as the member who could Hustle longest on their own, plus an additional 20 minutes beyond that.
 
 ## Traits
 

@@ -70,17 +70,17 @@ wisdom: '+2'
 # Almiraj
 
 This creature did not include a description.
-**Recall Knowledge - Beast ([[Arcana]], [[Nature]])**: DC 17
+**Recall Knowledge - Beast ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 17
 **Unspecific Lore**: DC 15
 **Specific Lore**: DC 12
 
 # Almiraj<span class="item-type">Creature 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Small</span><span class="item-trait">Beast</span>
-**Source** [[Pathfinder 157. Devil at the Dreaming Palace]]
-**Perception** +8; [[Darkvision]], [[Scent]] (imprecise) 30 feet
-**Languages** [[Sylvan]]; (can't speak any language)
-**Skills** [[Acrobatics]] +7, [[Occultism]] +7, [[Stealth]] +7, [[Survival]] +5
+**Source** [[DATABASE/source/Pathfinder 157. Devil at the Dreaming Palace|Pathfinder #157: Devil at the Dreaming Palace]]
+**Perception** +8; [[DATABASE/monsterability/Darkvision|darkvision]], [[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet
+**Languages** [[DATABASE/language/Sylvan|Sylvan]]; (can't speak any language)
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +7, [[DATABASE/skill/Occultism|Occultism]] +7, [[DATABASE/skill/Stealth|Stealth]] +7, [[DATABASE/skill/Survival|Survival]] +5
 **Str** +2, **Dex** +4, **Con** +1, **Int** -3, **Wis** +2, **Cha** +3
 
 ---
@@ -90,4 +90,4 @@ This creature did not include a description.
 
 ---
 **Speed** 20 feet, burrow 10 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> horn +9 [+4/-1] (finesse, magical), **Damage** 1d6+2 piercing</span><span class="in-box-ability">**Magic Horn** Any living creature slain by the almiraj's horn Strike immediately becomes [[Petrified]] with no saving throw, in addition to dying. A severed almiraj horn retains a wisp of its former magic; in combat, the horn can be wielded as a _+1 [[Dagger]]_ or, if affixed to a shaft, a _+1 [[Spear]]_.</span>
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> horn +9 [+4/-1] (finesse, magical), **Damage** 1d6+2 piercing</span><span class="in-box-ability">**Magic Horn** Any living creature slain by the almiraj's horn Strike immediately becomes [[DATABASE/condition/Petrified|petrified]] with no saving throw, in addition to dying. A severed almiraj horn retains a wisp of its former magic; in combat, the horn can be wielded as a _+1 [[DATABASE/weapon/Dagger|dagger]]_ or, if affixed to a shaft, a _+1 [[DATABASE/weapon/Spear|spear]]_.</span>

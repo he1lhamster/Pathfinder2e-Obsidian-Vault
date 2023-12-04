@@ -11,6 +11,7 @@ name: Whirling Grindstone
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -29,7 +30,7 @@ type: Feat
 # Whirling Grindstone <span class="action-icon">2</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Attack</span><span class="item-trait">Composite</span><span class="item-trait">Earth</span><span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Metal</span><span class="item-trait">Primal</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
 A whirling grindstone made of flint appears in an unoccupied square within 30 feet. The grindstone shreds flesh and shoots sparks. Attempt an impulse attack roll against the AC of a creature adjacent to the grindstone. On a hit, the creature takes 2d6 slashing damage and 1d6 fire damage (or double damage on a critical hit). The grindstone lasts until the end of your next turn, and you can Sustain the impulse up to 1 minute. On subsequent turns, the first time you Sustain the impulse that turn, you can roll the grindstone up to 20 feet and can repeat the attack.

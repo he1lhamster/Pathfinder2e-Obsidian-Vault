@@ -10,6 +10,7 @@ level: '0'
 name: Caster's Targe
 price: 2 gp
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 speed_penalty: null
 trait:
@@ -20,7 +21,7 @@ type: Shield
 # Caster's Targe
 
 <span class="item-trait">Inscribed</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 2 gp; **AC Bonus** +1; **Speed Penalty** —
 **Bulk** 1; **Hardness** 3; **HP (BT)** 12 (6)
 

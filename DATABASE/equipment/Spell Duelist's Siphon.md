@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 size: null
@@ -54,10 +55,10 @@ weapon_type: null
 # Spell Duelist's Siphon<span class="item-type">Item 12</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Grimoire</span><span class="item-trait">Magical</span>
-**Source** [[Treasure Vault]] 
+**Source** [[DATABASE/source/Treasure Vault|Treasure Vault]] 
 **Price** 1,750 gp
 **Bulk** L
 
 ---
 Metal clasps line the spine of this book, and diagrams displaying proper somatic casting forms are etched into its cover.
-**Activate** <span class="action-icon">5</span> envision **Frequency** once per day; **Trigger** You're targeted with an arcane spell attack and you have this grimoire raised; **Requirements** You have the [[Raise a Tome]] feat; **Effect** The grimoire attempts to absorb knowledge of the spell targeting you. You attempt to counteract the triggering spell. If you succeed, the spell is absorbed into the grimoire, and the diagrams on the cover change to indicate the somatic gestures and sigils for the counteracted spell. While the grimoire contains a spell, you can spend a spell slot of the same or higher level as the spell in the grimoire to cast that spell instead, heightened to the appropriate level (if you spent a higher-level spell slot). After you cast the spell, it's expended from the grimoire.
+**Activate** <span class="action-icon">5</span> envision **Frequency** once per day; **Trigger** You're targeted with an arcane spell attack and you have this grimoire raised; **Requirements** You have the [[DATABASE/feat/Raise a Tome|Raise a Tome]] feat; **Effect** The grimoire attempts to absorb knowledge of the spell targeting you. You attempt to counteract the triggering spell. If you succeed, the spell is absorbed into the grimoire, and the diagrams on the cover change to indicate the somatic gestures and sigils for the counteracted spell. While the grimoire contains a spell, you can spend a spell slot of the same or higher level as the spell in the grimoire to cast that spell instead, heightened to the appropriate level (if you spent a higher-level spell slot). After you cast the spell, it's expended from the grimoire.

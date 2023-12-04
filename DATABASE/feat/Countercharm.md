@@ -11,6 +11,7 @@ name: Countercharm
 prerequisite: '[[DATABASE/feat/Basic Captivator Spellcasting|Basic Captivator Spellcasting]]'
 rarity: Common
 requirement: You have an innate non-cantrip captivator spell of the same school.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
 subcategory: null
@@ -24,9 +25,9 @@ type: Feat
 # Countercharm <span class="action-icon">5</span> <span class="item-type">Feat 8</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Grand Bazaar]]
-**Archetype** [[Captivator]]
-**Prerequisites** [[Basic Captivator Spellcasting]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
+**Archetype** [[DATABASE/archetype/Captivator|Captivator]]
+**Prerequisites** [[DATABASE/feat/Basic Captivator Spellcasting|Basic Captivator Spellcasting]]
 **Trigger** A creature Casts a Spell from the enchantment or illusion school.
 **Requirements** You have an innate non-cantrip captivator spell of the same school.
 

@@ -8,6 +8,7 @@ name: Arcane Cascade
 rarity: Common
 requirement: You used your most recent action to Cast a Spell or make a [[DATABASE/action/Spellstrike|Spellstrike]]
   .
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 trait:
@@ -21,8 +22,8 @@ type: Action
 # Arcane Cascade <span class="action-icon">1</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Magus</span><span class="item-trait">Stance</span>
-**Source** [[Secrets of Magic]] 
-**Requirements** You used your most recent action to Cast a Spell or make a [[Spellstrike]].
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
+**Requirements** You used your most recent action to Cast a Spell or make a [[DATABASE/action/Spellstrike|Spellstrike]].
 
 ---
 You divert a portion of the spell's magical power and keep it cycling through your body and weapon using specialized forms, breathing, or footwork. While you're in the stance, your melee Strikes deal 1 extra damage. This damage increases to 2 if you have weapon specialization and 3 if you have greater weapon specialization. Any Strike that benefits from this damage gains the arcane trait, making it magical.

@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -54,23 +55,23 @@ weapon_type: null
 # Oozepick<span class="item-type">Item 4+</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 **Usage** held in 1 hand; **Bulk** L
 **Access** Characters from Nex have access to this item.
 **Activate** <span class="action-icon">1</span> Interact
 
 ---
-You can pour this silver ooze into a lock or similar mechanism to create a set of malleable lockpicks and tools that conform to internal mechanisms. The ooze is treated as a set of [[Thieves' Tools]] that last for 1 hour and provide a +2 item bonus to [[Thievery]] checks to [[Pick a Lock]] or [[Disable a Device]] against the mechanism into which they were first poured.
+You can pour this silver ooze into a lock or similar mechanism to create a set of malleable lockpicks and tools that conform to internal mechanisms. The ooze is treated as a set of [[DATABASE/equipment/Thieves' Tools|thieves' tools]] that last for 1 hour and provide a +2 item bonus to [[DATABASE/skill/Thievery|Thievery]] checks to [[DATABASE/action/Pick a Lock|Pick Lock]] or [[DATABASE/action/Disable a Device|Disable a Device]] against the mechanism into which they were first poured.
 
 ## Oozepick<span class="item-type">Item 4</span>
 
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 **Price** 20 gp
 **Bulk** L
 
 ## Oozepick (Greater)<span class="item-type">Item 10</span>
 
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 **Price** 200 gp
 **Bulk** L
 The item bonus is +3, and the tools last for 8 hours.

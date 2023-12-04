@@ -7,6 +7,7 @@ id: '5'
 name: Retributive Strike
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
@@ -18,7 +19,7 @@ type: Action
 # Retributive Strike <span class="action-icon">5</span>
 
 <span class="item-trait">Champion</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Trigger** An enemy damages your ally, and both are within 15 feet of you.
 
 ---

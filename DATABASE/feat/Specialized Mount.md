@@ -11,6 +11,7 @@ name: Specialized Mount
 prerequisite: '[[DATABASE/feat/Incredible Mount|Incredible Mount]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Specialized Mount <span class="item-type">Feat 14</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Advanced Player's Guide]] 
-**Archetype** [[Cavalier]]
-**Prerequisites** [[Incredible Mount]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Archetype** [[DATABASE/archetype/Cavalier|Cavalier]]
+**Prerequisites** [[DATABASE/feat/Incredible Mount|Incredible Mount]]
 
 ---
 You've trained your mount to perform in unusual or even extreme circumstances, granting it abilities far beyond others of its kind. Your mount gains one specialization of your choice.

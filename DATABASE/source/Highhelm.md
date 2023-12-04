@@ -2,6 +2,7 @@
 id: '204'
 name: Highhelm
 rarity: Common
+rus_type_level: null
 source: null
 trait: null
 type: Source
@@ -15,40 +16,40 @@ type: Source
 
 ## Ancestry Heritages [1]
 
-[[Forge-Blessed Dwarf]]
+[[DATABASE/heritage/Forge-Blessed Dwarf|Forge-Blessed Dwarf]]
 
 ## Animal Companions [3]
 
-[[Augdunar]], [[Draft Lizard]], [[Goat]]
+[[DATABASE/animalcompanion/Augdunar|Augdunar]], [[DATABASE/animalcompanion/Draft Lizard|Draft Lizard]], [[DATABASE/animalcompanion/Goat|Goat]]
 
 ## Archetypes [1]
 
-[[Stalwart Defender]]
+[[DATABASE/archetype/Stalwart Defender|Stalwart Defender]]
 
 ## Backgrounds [3]
 
-[[Fightbreaker]], [[Highborn Snoop]], [[Union Representative]]
+[[DATABASE/background/Fightbreaker|Fightbreaker]], [[DATABASE/background/Highborn Snoop|Highborn Snoop]], [[DATABASE/background/Union Representative|Union Representative]]
 
 ## Deities [8]
 
-[[Angradd]], [[Bolka]], [[Dranngvit]], [[Folgrit]], [[Grundinnar]], [[Kols]], [[Magrim]], [[Trudd]]
+[[DATABASE/deity/Angradd|Angradd]], [[DATABASE/deity/Bolka|Bolka]], [[DATABASE/deity/Dranngvit|Dranngvit]], [[DATABASE/deity/Folgrit|Folgrit]], [[DATABASE/deity/Grundinnar|Grundinnar]], [[DATABASE/deity/Kols|Kols]], [[DATABASE/deity/Magrim|Magrim]], [[DATABASE/deity/Trudd|Trudd]]
 
 ## Equipment [53]
 
-[[Affinity Stones]], [[Ashen]], [[Ashen]], [[Black King]], [[Blade of Fallen Stars]], [[Bloodhammer Reserve]], [[Bloodhammer Reserve]], [[Bloodhammer Reserve]], [[Bloodknuckles]], [[Dark Pepper Powder]], [[Everair Mask]], [[Everair Mask]], [[Everair Mask]], [[Everair Mask]], [[Everair Mask]], [[Furnace of Endings]], [[Furnace of Endings]], [[Furnace of Endings]], [[Furnace of Endings]], [[Gray Prince]], [[Grindlegrub Steak]], [[Grub Gloves]], [[Grub Gloves]], [[Grub Gloves]], [[Grub Gloves]], [[Highhelm Drill]], [[Highhelm Drill]], [[Highhelm Drill]], [[Highhelm Drill]], [[Highhelm Stronghold Plate]], [[Highhelm War Shield]], [[Highhelm War Shield]], [[Highhelm War Shield]], [[Highhelm War Shield]], [[Irondust Stew]], [[Keep Stone]], [[Keep Stone Armor]], [[Keep Stone Armor]], [[Keep Stone]], [[Keep Stone]], [[Keep Stone]], [[Keep Stone Shield]], [[Keep Stone Shield]], [[Keep Stone Weapon]], [[Keep Stone Weapon]], [[Liar's Board]], [[Magnet Coin]], [[Scarlet Queen]], [[Unexceptional]], [[Words of Wisdom]], [[Words of Wisdom]], [[Words of Wisdom]], [[Words of Wisdom]]
+[[DATABASE/equipment/Affinity Stones|Affinity Stones]], [[DATABASE/equipment/Ashen|Ashen]], [[DATABASE/equipment/Ashen|Ashen (Greater)]], [[DATABASE/equipment/Black King|Black King]], [[DATABASE/equipment/Blade of Fallen Stars|Blade of Fallen Stars]], [[DATABASE/equipment/Bloodhammer Reserve|Bloodhammer Reserve]], [[DATABASE/equipment/Bloodhammer Reserve|Bloodhammer Reserve (Black Label)]], [[DATABASE/equipment/Bloodhammer Reserve|Bloodhammer Reserve (Select)]], [[DATABASE/equipment/Bloodknuckles|Bloodknuckles]], [[DATABASE/equipment/Dark Pepper Powder|Dark Pepper Powder]], [[DATABASE/equipment/Everair Mask|Everair Mask]], [[DATABASE/equipment/Everair Mask|Everair Mask (Greater)]], [[DATABASE/equipment/Everair Mask|Everair Mask (Lesser)]], [[DATABASE/equipment/Everair Mask|Everair Mask (Major)]], [[DATABASE/equipment/Everair Mask|Everair Mask (Moderate)]], [[DATABASE/equipment/Furnace of Endings|Furnace of Endings]], [[DATABASE/equipment/Furnace of Endings|Furnace of Endings (Greater)]], [[DATABASE/equipment/Furnace of Endings|Furnace of Endings (Lesser)]], [[DATABASE/equipment/Furnace of Endings|Furnace of Endings (Major)]], [[DATABASE/equipment/Gray Prince|Gray Prince]], [[DATABASE/equipment/Grindlegrub Steak|Grindlegrub Steak]], [[DATABASE/equipment/Grub Gloves|Grub Gloves]], [[DATABASE/equipment/Grub Gloves|Grub Gloves (Greater)]], [[DATABASE/equipment/Grub Gloves|Grub Gloves (Lesser)]], [[DATABASE/equipment/Grub Gloves|Grub Gloves (Moderate)]], [[DATABASE/equipment/Highhelm Drill|Highhelm Drill]], [[DATABASE/equipment/Highhelm Drill|Highhelm Drill (Mark I)]], [[DATABASE/equipment/Highhelm Drill|Highhelm Drill (Mark II)]], [[DATABASE/equipment/Highhelm Drill|Highhelm Drill (Mark III)]], [[DATABASE/equipment/Highhelm Stronghold Plate|Highhelm Stronghold Plate]], [[DATABASE/equipment/Highhelm War Shield|Highhelm War Shield]], [[DATABASE/equipment/Highhelm War Shield|Highhelm War Shield (Greater)]], [[DATABASE/equipment/Highhelm War Shield|Highhelm War Shield (Lesser)]], [[DATABASE/equipment/Highhelm War Shield|Highhelm War Shield (Moderate)]], [[DATABASE/equipment/Irondust Stew|Irondust Stew]], [[DATABASE/equipment/Keep Stone|Keep Stone]], [[DATABASE/equipment/Keep Stone Armor|Keep Stone Armor]], [[DATABASE/equipment/Keep Stone Armor|Keep Stone Armor (High-Grade)]], [[DATABASE/equipment/Keep Stone|Keep Stone Chunk]], [[DATABASE/equipment/Keep Stone|Keep Stone Ingot]], [[DATABASE/equipment/Keep Stone|Keep Stone Object (High-Grade)]], [[DATABASE/equipment/Keep Stone Shield|Keep Stone Shield]], [[DATABASE/equipment/Keep Stone Shield|Keep Stone Shield (High-Grade)]], [[DATABASE/equipment/Keep Stone Weapon|Keep Stone Weapon]], [[DATABASE/equipment/Keep Stone Weapon|Keep Stone Weapon (High-Grade)]], [[DATABASE/equipment/Liar's Board|Liar's Board]], [[DATABASE/equipment/Magnet Coin|Magnet Coin]], [[DATABASE/equipment/Scarlet Queen|Scarlet Queen]], [[DATABASE/equipment/Unexceptional|Unexceptional]], [[DATABASE/equipment/Words of Wisdom|Words of Wisdom]], [[DATABASE/equipment/Words of Wisdom|Words of Wisdom (Greater)]], [[DATABASE/equipment/Words of Wisdom|Words of Wisdom (Lesser)]], [[DATABASE/equipment/Words of Wisdom|Words of Wisdom (Moderate)]]
 
 ## Feats [19]
 
-[[Clan Lore]], [[Contract Negotiator]], [[Cooperative Crafting]], [[Cracked Mountain]], [[Crushing Step]], [[Gathering Moss]], [[Gravel Guts]], [[Master of Apprentice]], [[Mountain Skin]], [[Rivethun Disciple]], [[Rivethun Spiritual Attunement]], [[Rupture Stomp]], [[Stalwart Defender Dedication]], [[Stone Body]], [[Tunnel Wall]], [[Unshaken in Iron]], [[Upset Balance]], [[Vicious Critique]], [[Whats That up Your Sleeve]]
+[[DATABASE/feat/Clan Lore|Clan Lore]], [[DATABASE/feat/Contract Negotiator|Contract Negotiator]], [[DATABASE/feat/Cooperative Crafting|Cooperative Crafting]], [[DATABASE/feat/Cracked Mountain|Cracked Mountain]], [[DATABASE/feat/Crushing Step|Crushing Step]], [[DATABASE/feat/Gathering Moss|Gathering Moss]], [[DATABASE/feat/Gravel Guts|Gravel Guts]], [[DATABASE/feat/Master of Apprentice|Master of Apprentice]], [[DATABASE/feat/Mountain Skin|Mountain Skin]], [[DATABASE/feat/Rivethun Disciple|Rivethun Disciple]], [[DATABASE/feat/Rivethun Spiritual Attunement|Rivethun Spiritual Attunement]], [[DATABASE/feat/Rupture Stomp|Rupture Stomp]], [[DATABASE/feat/Stalwart Defender Dedication|Stalwart Defender Dedication]], [[DATABASE/feat/Stone Body|Stone Body]], [[DATABASE/feat/Tunnel Wall|Tunnel Wall]], [[DATABASE/feat/Unshaken in Iron|Unshaken in Iron]], [[DATABASE/feat/Upset Balance|Upset Balance]], [[DATABASE/feat/Vicious Critique|Vicious Critique]], [[DATABASE/feat/Whats That up Your Sleeve|Whats That up Your Sleeve?]]
 
 ## Monsters [6]
 
-[[Augdunar]], [[Draft Lizard]], [[Grand Defender]], [[Graul]], [[Pagulin]], [[The Bloodstorm]]
+[[DATABASE/monster/Augdunar|Augdunar]], [[DATABASE/monster/Draft Lizard|Draft Lizard]], [[DATABASE/monster/Grand Defender|Grand Defender]], [[DATABASE/monster/Graul|Graul]], [[DATABASE/monster/Pagulin|Pagulin]], [[DATABASE/monster/The Bloodstorm|The Bloodstorm]]
 
 ## Relic Gifts [6]
 
-[[Creative Spark]], [[Elements of Creation]], [[Forge Weld]], [[Living Forge]], [[Molten Crucible]], [[Work Harden]]
+[[DATABASE/relic/Creative Spark|Creative Spark]], [[DATABASE/relic/Elements of Creation|Elements of Creation]], [[DATABASE/relic/Forge Weld|Forge Weld]], [[DATABASE/relic/Living Forge|Living Forge]], [[DATABASE/relic/Molten Crucible|Molten Crucible]], [[DATABASE/relic/Work Harden|Work Harden]]
 
 ## Spells [1]
 
-[[Forge]]
+[[DATABASE/spell/Forge|Forge]]

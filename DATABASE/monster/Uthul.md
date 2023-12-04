@@ -76,17 +76,17 @@ wisdom: '-2'
 # Uthul
 
 An uthul most often appears to be a dark, swirling cloud filled with flying debris and streaked with sudden flashes of lightning. Although they are clearly elemental in nature, uthuls are nearly always found on the Material Plane, where they hide among natural cloud formations, especially thunderstorms.
-**Recall Knowledge - Elemental ([[Arcana]], [[Nature]])**: DC 32
+**Recall Knowledge - Elemental ([[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Nature|Nature]])**: DC 32
 **Unspecific Lore**: DC 30
 **Specific Lore**: DC 27
 
 # Uthul<span class="item-type">Creature 14</span>
 
 <span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Huge</span><span class="item-trait">Air</span><span class="item-trait">Elemental</span>
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 **Perception** +20; darkvision
-**Languages** [[Auran]]
-**Skills** [[Acrobatics]] +29, [[Athletics]] +27, [[Intimidation]] +23, [[Stealth]] +25
+**Languages** [[DATABASE/language/Auran|Auran]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +29, [[DATABASE/skill/Athletics|Athletics]] +27, [[DATABASE/skill/Intimidation|Intimidation]] +23, [[DATABASE/skill/Stealth|Stealth]] +25
 **Str** +7, **Dex** +7, **Con** +4, **Int** -1, **Wis** -2, **Cha** +3
 
 ---

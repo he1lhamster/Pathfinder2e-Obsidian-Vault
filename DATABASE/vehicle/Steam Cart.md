@@ -16,6 +16,7 @@ price: 120 gp
 rarity: Rare
 reflex: null
 resistance: null
+rus_type_level: null
 school: null
 size: Large
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
@@ -28,7 +29,7 @@ type: Vehicle
 # Steam Cart<span class="item-type">Vehicle 2</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-size item-trait">Large</span>
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 **Price** 120 gp
 
 ---
@@ -37,7 +38,7 @@ A steam cart looks like a cart with an alchemical cauldron that produces steam t
 ---
 **Space** 10 feet long, 5 feet wide, 4 feet high
 **Crew** 1 pilot; **Passengers** 1
-**Piloting Check** [[Lore]] (DC 16) or [[Crafting]] (DC 18)
+**Piloting Check** [[DATABASE/skill/Lore|Driving Lore]] (DC 16) or [[DATABASE/skill/Crafting|Crafting]] (DC 18)
 
 ---
 **AC** 12; **Fort** +8
@@ -46,4 +47,4 @@ A steam cart looks like a cart with an alchemical cauldron that produces steam t
 ---
 **Speed** 25 feet (alchemical)
 **Collision** 2d8 (DC 16)
-**Steam Cloud** Whenever the steam cart takes collision damage, its engine expels a dense cloud of steam in a 5-foot emanation. The steam cart and all creatures in the steam become [[Concealed]], and creatures outside the steam become concealed to creatures within it. The steam dissipates in 1 round.
+**Steam Cloud** Whenever the steam cart takes collision damage, its engine expels a dense cloud of steam in a 5-foot emanation. The steam cart and all creatures in the steam become [[DATABASE/condition/Concealed|concealed]], and creatures outside the steam become concealed to creatures within it. The steam dissipates in 1 round.

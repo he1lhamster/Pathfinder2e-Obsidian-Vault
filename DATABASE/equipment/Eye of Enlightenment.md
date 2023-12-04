@@ -33,6 +33,7 @@ requirement: You're an expert in [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/s
   , [[DATABASE/skill/Nature|Nature]] , [[DATABASE/skill/Religion|Religion]] , [[DATABASE/skill/Society|Society]]
   , or a [[DATABASE/skill/Lore|Lore]] skill.
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 size: null
@@ -57,10 +58,10 @@ weapon_type: null
 # Eye of Enlightenment<span class="item-type">Item 5</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Divination</span><span class="item-trait">Magical</span><span class="item-trait">Talisman</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Price** 25 gp
 **Usage** affixed to a weapon; **Bulk** —
-**Activate** <span class="action-icon">4</span> envision **Trigger** You succeed at a Strike with the affixed weapon; **Requirements** You're an expert in [[Arcana]], [[Occultism]], [[Nature]], [[Religion]], [[Society]], or a [[Lore]] skill.
+**Activate** <span class="action-icon">4</span> envision **Trigger** You succeed at a Strike with the affixed weapon; **Requirements** You're an expert in [[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Occultism|Occult]], [[DATABASE/skill/Nature|Nature]], [[DATABASE/skill/Religion|Religion]], [[DATABASE/skill/Society|Society]], or a [[DATABASE/skill/Lore|Lore]] skill.
 
 ---
-This dried eye was plucked from a magical creature. You combine your observation about your enemy's reaction to your Strike with the stores of magical wisdom within the talisman to try to glean more information about the foe's true nature. When you activate this talisman, you attempt to [[Recall Knowledge]] about the creature you hit. If you roll a critical failure, you get a failure instead.
+This dried eye was plucked from a magical creature. You combine your observation about your enemy's reaction to your Strike with the stores of magical wisdom within the talisman to try to glean more information about the foe's true nature. When you activate this talisman, you attempt to [[DATABASE/action/Recall Knowledge|Recall Knowledge]] about the creature you hit. If you roll a critical failure, you get a failure instead.

@@ -67,19 +67,19 @@ wisdom: '+0'
 # Kolo Harvan
 
 This creature did not include a description.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 26
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 26
 **Unspecific Lore**: DC 24
 **Specific Lore**: DC 21
 
 # Kolo Harvan<span class="item-type">Creature 2</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Small</span><span class="item-trait">Halfling</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 145. Hellknight Hill]]
+**Source** [[DATABASE/source/Pathfinder 145. Hellknight Hill|Pathfinder #145: Hellknight Hill]]
 **Perception** +8
-**Languages** [[Common]], [[Halfling]]
-**Skills** [[Acrobatics]] +7, [[Deception]] +8, [[Diplomacy]] +8, [[Stealth]] +9, [[Thievery]] +7
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Halfling|Halfling]]
+**Skills** [[DATABASE/skill/Acrobatics|Acrobatics]] +7, [[DATABASE/skill/Deception|Deception]] +8, [[DATABASE/skill/Diplomacy|Diplomacy]] +8, [[DATABASE/skill/Stealth|Stealth]] +9, [[DATABASE/skill/Thievery|Thievery]] +7
 **Str** +0, **Dex** +3, **Con** +1, **Int** +1, **Wis** +0, **Cha** +4
-**Items** _[[Skeleton Key]]_, [[Dagger]], [[Studded Leather Armor]]
+**Items** _[[DATABASE/equipment/Skeleton Key|standard skeleton key]]_, [[DATABASE/weapon/Dagger|daggers (5)]], [[DATABASE/armor/Studded Leather Armor|studded leather armor]]
 
 ---
 **AC** 18; **Fort** +5, **Ref** +11, **Will** +8

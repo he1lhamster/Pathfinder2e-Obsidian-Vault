@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: DC 46 Fortitude
 school: null
 size: null
@@ -57,11 +58,11 @@ weapon_type: null
 # Tears of Death<span class="item-type">Item 20</span>
 
 <span class="item-trait">Alchemical</span><span class="item-trait">Consumable</span><span class="item-trait">Contact</span><span class="item-trait">Poison</span><span class="item-trait">Virulent</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 12,000 gp
 **Usage** held in 2 hands; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
 ---
 Tears of death are among the most powerful of alchemical poisons, distilled from extracts of five other deadly poisons in just the right ratios.
-**Saving Throw** DC 46 Fortitude; **Onset** 1 minute; **Maximum Duration** 10 minutes; **Stage 1** 18d6 poison damage and [[Paralyzed]] (1 round); **Stage 2** 25d6 poison damage and paralyzed (1 minute); **Stage 3** 30d6 poison damage and paralyzed (1 minute)
+**Saving Throw** DC 46 Fortitude; **Onset** 1 minute; **Maximum Duration** 10 minutes; **Stage 1** 18d6 poison damage and [[DATABASE/condition/Paralyzed|paralyzed]] (1 round); **Stage 2** 25d6 poison damage and paralyzed (1 minute); **Stage 3** 30d6 poison damage and paralyzed (1 minute)

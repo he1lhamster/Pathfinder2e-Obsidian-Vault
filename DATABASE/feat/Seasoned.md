@@ -12,6 +12,7 @@ prerequisite: Trained in [[DATABASE/skill/Lore|Alcohol Lore]] , Trained in [[DAT
   Lore]] , or Trained in [[DATABASE/skill/Crafting|Crafting]]
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: crafting
@@ -25,11 +26,11 @@ type: Feat
 # Seasoned <span class="item-type">Feat 1</span>
 
 <span class="item-trait">General</span><span class="item-trait">Skill</span>
-**Source** [[Advanced Player's Guide]] 
-**Prerequisites** trained in [[Crafting]], [[Lore]], or [[Lore]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Prerequisites** trained in [[DATABASE/skill/Crafting|Crafting]], [[DATABASE/skill/Lore|Alcohol Lore]], or [[DATABASE/skill/Lore|Cooking Lore]]
 
 ---
-You've mastered the preparation of many types of food and drink. You gain a +1 circumstance bonus to checks to [[Craft]] food and drink, including potions. If you are a master in one of the prerequisite skills, this bonus increases to +2.
+You've mastered the preparation of many types of food and drink. You gain a +1 circumstance bonus to checks to [[DATABASE/action/Craft|Craft]] food and drink, including potions. If you are a master in one of the prerequisite skills, this bonus increases to +2.
 
 ## Traits
 

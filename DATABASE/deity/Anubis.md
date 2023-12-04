@@ -23,6 +23,7 @@ follower_alignment:
 id: '49'
 name: Anubis
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Occultism|Occultism]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -32,7 +33,7 @@ type: Deity
 ---
 # Anubis (Guardian of the Tomb) [LN]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Category** Ancient Osirian Gods
 **Edicts** Lay bodies to rest, destroy undead, be impartial in judgment
 **Anathema** Desecrate a corpse, rob a tomb, trap a soul
@@ -40,9 +41,9 @@ type: Deity
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Dexterity or Wisdom
-**Divine Font** _[[Harm]]_ or _[[Heal]]_
-**Divine Skill** [[Occultism]]
-**Favored Weapon** [[Flail]]
-**Domains** [[Death Domain]], [[Protection Domain]], [[Soul Domain]], [[Vigil Domain]]
-**Cleric Spells** 1st: _[[Unseen Servant]]_, 3rd: _[[Shifting Sand]]_, 5th: _[[Wall of Stone]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Dexterity or Wisdom
+**Divine Font** _[[DATABASE/spell/Harm|harm]]_ or _[[DATABASE/spell/Heal|heal]]_
+**Divine Skill** [[DATABASE/skill/Occultism|Occultism]]
+**Favored Weapon** [[DATABASE/weapon/Flail|flail]]
+**Domains** [[DATABASE/domain/Death Domain|death]], [[DATABASE/domain/Protection Domain|protection]], [[DATABASE/domain/Soul Domain|soul]], [[DATABASE/domain/Vigil Domain|vigil]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Unseen Servant|unseen servant]]_, 3rd: _[[DATABASE/spell/Shifting Sand|shifting sand]]_, 5th: _[[DATABASE/spell/Wall of Stone|wall of stone]]_

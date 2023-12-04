@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: You are a master with the affixed weapon
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Enchantment
 size: null
@@ -56,7 +57,7 @@ weapon_type: null
 # Jade Bauble<span class="item-type">Item 8</span>
 
 <span class="item-trait">Consumable</span><span class="item-trait">Enchantment</span><span class="item-trait">Magical</span><span class="item-trait">Mental</span><span class="item-trait">Talisman</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 100 gp
 **Usage** affixed to a melee weapon; **Bulk** —
 **Activate** <span class="action-icon">1</span> command **Requirements** You are a master with the affixed weapon

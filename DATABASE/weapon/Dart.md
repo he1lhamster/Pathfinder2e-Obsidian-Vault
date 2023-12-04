@@ -13,6 +13,7 @@ name: Dart
 price: 1 cp
 range: 20 ft.
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Agile|Agile]]'
@@ -26,11 +27,11 @@ weapon_type: Ranged
 # Dart
 
 <span class="item-trait">Agile</span><span class="item-trait">Thrown</span>
-**Source** [[Core Rulebook]] 
-**Favored Weapon** [[Irez]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Favored Weapon** [[DATABASE/deity/Irez|Irez]]
 **Price** 1 cp; **Damage** 1d4 P; **Bulk** L
 **Hands** 1; **Range** 20 ft.
-**Type** Ranged; **Category** Simple; **Group** [[Dart]]
+**Type** Ranged; **Category** Simple; **Group** [[DATABASE/weapongroup/Dart|Dart]]
 
 ---
 This thrown weapon is larger than an arrow but shorter than a javelin. It typically has a short shaft of wood ending in a metal tip and is sometimes stabilized by feathers or fur.
@@ -47,10 +48,10 @@ You can throw this weapon as a ranged attack, and it is a ranged weapon when thr
 
 ## Critical Specialization Effects
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
-**Dart**: The target takes 1d6 [[Persistent Damage]]. You gain an item bonus to this bleed damage equal to the weapon's item bonus to attack rolls.
+**Dart**: The target takes 1d6 [[DATABASE/condition/Persistent Damage|persistent bleed damage]]. You gain an item bonus to this bleed damage equal to the weapon's item bonus to attack rolls.
 
 ## Specific Magic Weapons
 
-[[Hardened Harrow Deck]]
+[[DATABASE/equipment/Hardened Harrow Deck|Hardened Harrow Deck]]

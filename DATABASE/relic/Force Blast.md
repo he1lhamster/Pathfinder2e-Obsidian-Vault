@@ -5,6 +5,7 @@ item_category: Relics
 name: Force Blast
 prerequisite: null
 rarity: Common
+rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 trait:
@@ -15,7 +16,7 @@ type: Relic Minor Gift
 # Force Blast<span class="item-type">Minor Gift</span>
 
 <span class="item-trait">Evocation</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Aspect** soul
 
 ---

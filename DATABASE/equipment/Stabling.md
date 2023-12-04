@@ -32,6 +32,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -51,7 +52,7 @@ weapon_type: Ranged
 ---
 # Stabling<span class="item-type">Item 0</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 2 cp (per day)
 **Bulk** —
 

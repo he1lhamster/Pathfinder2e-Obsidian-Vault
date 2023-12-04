@@ -11,6 +11,7 @@ name: Scaling Poppet
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
 subcategory: null
@@ -23,7 +24,7 @@ type: Feat
 # Scaling Poppet <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Poppet</span>
-**Source** [[Grand Bazaar]]
+**Source** [[DATABASE/source/Grand Bazaar|Grand Bazaar]]
 
 ---
 Your construction integrates ropes, hooks, or other tools to help you move across steep surfaces. You gain a climb Speed of 15 feet.

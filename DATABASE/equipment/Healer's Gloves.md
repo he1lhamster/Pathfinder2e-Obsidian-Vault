@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 size: null
@@ -54,7 +55,7 @@ weapon_type: null
 # Healer's Gloves<span class="item-type">Item 4+</span>
 
 <span class="item-trait">Invested</span><span class="item-trait">Magical</span><span class="item-trait">Necromancy</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Usage** worn gloves; **Bulk** L
 
 ---
@@ -63,13 +64,13 @@ These clean, white gloves never show signs of blood, even when used to stitch up
 
 ## Healer's Gloves<span class="item-type">Item 4</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 80 gp
 **Bulk** L
 
 ## Healer's Gloves (Greater)<span class="item-type">Item 9</span>
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Price** 700 gp
 **Bulk** L
 The gloves provide a +2 bonus and restore 4d6+15 Hit Points.

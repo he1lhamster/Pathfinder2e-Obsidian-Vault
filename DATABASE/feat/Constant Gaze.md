@@ -11,6 +11,7 @@ name: Constant Gaze
 prerequisite: '[[DATABASE/feat/Watchful Gaze|Watchful Gaze]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 subcategory: null
@@ -23,8 +24,8 @@ type: Feat
 # Constant Gaze <span class="item-type">Feat 9</span>
 
 <span class="item-trait">Goloma</span>
-**Source** [[The Mwangi Expanse]] 
-**Prerequisites** [[Watchful Gaze]]
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]] 
+**Prerequisites** [[DATABASE/feat/Watchful Gaze|Watchful Gaze]]
 
 ---
 Your eyes keep a continual watch for dangers from all sides. You can't be flanked by creatures of your level or lower, even when you haven't used Watchful Gaze.

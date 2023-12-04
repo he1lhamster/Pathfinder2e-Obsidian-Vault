@@ -22,6 +22,7 @@ follower_alignment:
 id: '160'
 name: Zyphus
 rarity: Common
+rus_type_level: null
 skill:
 - '[[DATABASE/skill/Thievery|Thievery]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -31,7 +32,7 @@ type: Deity
 ---
 # Zyphus (The Grim Harvestman) [NE]
 
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Category** Other Gods
 **Edicts** Set pointless traps, spread nihilism, encourage deadly accidents
 **Anathema** Spread hope, provide aid to Pharasmins
@@ -39,9 +40,9 @@ type: Deity
 
 ## Devotee Benefits
 
-**[[Raised by Belief]]** Dexterity or Constitution
-**Divine Font** _[[Harm]]_
-**Divine Skill** [[Thievery]]
-**Favored Weapon** [[Pick]]
-**Domains** [[Death Domain]], [[Sorrow Domain]], [[Soul Domain]], [[Undeath Domain]]
-**Cleric Spells** 1st: _[[Ill Omen]]_, 2nd: _[[Shatter]]_, 6th: _[[Phantasmal Calamity]]_
+**[[DATABASE/background/Raised by Belief|Divine Ability]]** Dexterity or Constitution
+**Divine Font** _[[DATABASE/spell/Harm|harm]]_
+**Divine Skill** [[DATABASE/skill/Thievery|Thievery]]
+**Favored Weapon** [[DATABASE/weapon/Pick|pick]]
+**Domains** [[DATABASE/domain/Death Domain|death]], [[DATABASE/domain/Sorrow Domain|sorrow]], [[DATABASE/domain/Soul Domain|soul]], [[DATABASE/domain/Undeath Domain|undeath]]
+**Cleric Spells** 1st: _[[DATABASE/spell/Ill Omen|ill omen]]_, 2nd: _[[DATABASE/spell/Shatter|shatter]]_, 6th: _[[DATABASE/spell/Phantasmal Calamity|phantasmal calamity]]_

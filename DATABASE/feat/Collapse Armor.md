@@ -12,6 +12,7 @@ prerequisite: '[[DATABASE/inventorinnovation/Armor Innovation|armor innovation]]
 rarity: Common
 requirement: You are wearing your armor innovation, or holding it in both hands in
   its compact form (see text).
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: null
@@ -26,8 +27,8 @@ type: Feat
 # Collapse Armor <span class="action-icon">1</span> <span class="item-type">Feat 2</span>
 
 <span class="item-trait">Inventor</span><span class="item-trait">Manipulate</span><span class="item-trait">Modification</span>
-**Source** [[Guns & Gears]]
-**Prerequisites** [[Armor Innovation]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
+**Prerequisites** [[DATABASE/inventorinnovation/Armor Innovation|armor innovation]]
 **Requirements** You are wearing your armor innovation, or holding it in both hands in its compact form (see text).
 
 ---
@@ -42,4 +43,4 @@ You must physically manipulate an item or make gestures to use an action with th
 
 **Modification:**
 
-A feat with this trait alters the construction of your innovation. If you have the [[Inventor]], you can retrain such a feat more easily
+A feat with this trait alters the construction of your innovation. If you have the [[DATABASE/class_/Inventor|reconfigure class feature]], you can retrain such a feat more easily

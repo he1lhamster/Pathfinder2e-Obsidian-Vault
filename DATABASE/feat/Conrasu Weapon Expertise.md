@@ -11,6 +11,7 @@ name: Conrasu Weapon Expertise
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 subcategory: null
@@ -23,10 +24,10 @@ type: Feat
 # Conrasu Weapon Expertise <span class="item-type">Feat 13</span>
 
 <span class="item-trait">Conrasu</span>
-**Source** [[The Mwangi Expanse]]
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]
 
 ---
-Whenever you gain a class feature that grants you expert or greater proficiency in certain weapons, you also gain that proficiency for [[Composite Shortbow]], [[Glaive]], [[Longspear]], [[Longsword]], [[Shortbow]], [[Spear]], and all conrasu weapons in which you are trained.
+Whenever you gain a class feature that grants you expert or greater proficiency in certain weapons, you also gain that proficiency for [[DATABASE/weapon/Composite Shortbow|composite shortbow]], [[DATABASE/weapon/Glaive|glaive]], [[DATABASE/weapon/Longspear|longspear]], [[DATABASE/weapon/Longsword|longsword]], [[DATABASE/weapon/Shortbow|shortbow]], [[DATABASE/weapon/Spear|spear]], and all conrasu weapons in which you are trained.
 
 ## Traits
 

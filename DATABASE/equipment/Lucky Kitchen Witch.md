@@ -31,6 +31,7 @@ rarity: Uncommon
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -54,10 +55,10 @@ weapon_type: null
 # Lucky Kitchen Witch<span class="item-type">Item 6</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Fortune</span><span class="item-trait">Magical</span>
-**Source** [[Pathfinder 182. Graveclaw]]
+**Source** [[DATABASE/source/Pathfinder 182. Graveclaw|Pathfinder #182: Graveclaw]]
 **Price** 250 gp
 **Bulk** L
 
 ---
 This small doll in the shape of a witch is made from sticks and clad in a simple dress, bonnet, and wooden shoes. It sits astride a miniature straw broom. When hung in a kitchen, the witch brings good luck and protects a cook from malicious spirits. The _lucky kitchen witch_ must hang in a kitchen for a week to give any benefit.
- When you have a _lucky kitchen witch_ hung in your kitchen, you can reroll a [[Lore]] or [[Crafting]] check made during downtime to make food, [[Earn Income]], or [[Craft]] an alchemical item in your kitchen.
+ When you have a _lucky kitchen witch_ hung in your kitchen, you can reroll a [[DATABASE/skill/Lore|Cooking Lore]] or [[DATABASE/skill/Crafting|Crafting]] check made during downtime to make food, [[DATABASE/action/Earn Income|Earn Income]], or [[DATABASE/action/Craft|Craft]] an alchemical item in your kitchen.

@@ -17,6 +17,7 @@ name: Toxic Furnace
 rarity: Common
 reflex: '+11'
 resistance: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Crown of the Kobold King|Crown of the Kobold King]]'
 trait:
@@ -31,16 +32,16 @@ will: null
 # Toxic Furnace<span class="item-type">Hazard 6</span>
 
 <span class="item-trait">Complex</span><span class="item-trait">Magical</span><span class="item-trait">Trap</span>
-**Source** [[Crown of the Kobold King]]
+**Source** [[DATABASE/source/Crown of the Kobold King|Crown of the Kobold King]]
 **Complexity** Complex
 **Stealth** +15 (expert)
 **Description** The smoking furnace begins to hiss and click, and its vents swivel and adjust to spew toxic fumes in the direction of intruders.
 
 ---
-**Disable** DC 25 [[Thievery]] (trained) to render one of the vents useless, or DC 25 [[Athletics]] to wrench and bend a vent until it no longer functions
+**Disable** DC 25 [[DATABASE/skill/Thievery|Thievery]] (trained) to render one of the vents useless, or DC 25 [[DATABASE/skill/Athletics|Athletics]] to wrench and bend a vent until it no longer functions
 **AC** 24, **Fort** +17, **Ref** +11
 **Vent Hardness** 10, **Vent HP** 18 (BT 9); **Furnace Hardness** 15, **Furnace HP** 56 (BT 28); **Immunities** critical hits, object immunities, precision damage
-**Spew Toxins** <span class="action-icon">5</span> **Trigger** A visible living creature enters the room, or a Stealthy creature fails to remain [[Hidden]] from the toxic furnace with a DC 25 [[Stealth]] check (the trap's sensors have [[Darkvision]] and [[Lifesense]]); **Effect** One of the toxic furnace's vents swivels to aim at the triggering creature and then spews a gout of boiling toxin at the target. The toxic furnace then rolls initiative.
+**Spew Toxins** <span class="action-icon">5</span> **Trigger** A visible living creature enters the room, or a Stealthy creature fails to remain [[DATABASE/condition/Hidden|hidden]] from the toxic furnace with a DC 25 [[DATABASE/skill/Stealth|Stealth]] check (the trap's sensors have [[DATABASE/monsterability/Darkvision|darkvision]] and [[DATABASE/monsterability/Lifesense|lifesense]]); **Effect** One of the toxic furnace's vents swivels to aim at the triggering creature and then spews a gout of boiling toxin at the target. The toxic furnace then rolls initiative.
 
 ---
 **Routine** (3 actions) The trap loses 1 action for each disabled vent. On each of the trap's actions, a vent spews a gout of boiling toxin at a living creature in sight of it. It can't target a single creature more than once per round, so if there aren't enough viable targets for all 3 actions, the trap loses those unspent actions.

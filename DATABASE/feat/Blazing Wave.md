@@ -11,6 +11,7 @@ name: Blazing Wave
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: null
@@ -27,10 +28,10 @@ type: Feat
 # Blazing Wave <span class="action-icon">2</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Fire</span><span class="item-trait">Impulse</span><span class="item-trait">Kineticist</span><span class="item-trait">Overflow</span><span class="item-trait">Primal</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 
 ---
-Flames flow out of you in a cascade, engulfing everyone in a 30-foot cone. Each creature in the area takes 4d6 fire damage with a basic Reflex save against your class DC. A creature that critically fails its save is knocked [[Prone]].
+Flames flow out of you in a cascade, engulfing everyone in a 30-foot cone. Each creature in the area takes 4d6 fire damage with a basic Reflex save against your class DC. A creature that critically fails its save is knocked [[DATABASE/condition/Prone|prone]].
 
 ---
 **Level (+2)** The damage increases by 1d6.
@@ -47,7 +48,7 @@ The primary magical actions kineticists use are called impulses. You can use an 
 
 **Overflow:**
 
-Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
+Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[DATABASE/action/Channel Elements|Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
 
 **Primal:**
 

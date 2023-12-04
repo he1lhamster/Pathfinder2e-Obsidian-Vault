@@ -11,6 +11,7 @@ name: Scout's Warning
 prerequisite: null
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: null
@@ -24,8 +25,8 @@ type: Feat
 # Scout's Warning <span class="action-icon">4</span> <span class="item-type">Feat 4</span>
 
 <span class="item-trait">Ranger</span><span class="item-trait">Rogue</span>
-**Source** [[Core Rulebook]] 
-**Archetype** [[Knight Reclaimant]]*
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Archetype** [[DATABASE/archetype/Knight Reclaimant|Knight Reclaimant]]*
 **Trigger** You are about to roll a Perception or Survival check for initiative.
 * This archetype offers Scout's Warning at a different level than displayed here.
 

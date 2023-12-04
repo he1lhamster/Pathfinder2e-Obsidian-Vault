@@ -128,29 +128,29 @@ Now nearly 60 years old, Shristi has fully embraced the life he built for himsel
 ## Campaign Role
 
 The Edgewatch agents meet Shristi in the course of this adventure, and the high-ranking guard can serve as an informant and potential ally for the agents throughout their subsequent adventures. Although his purview is the Foreign Quarter, Shristi has an impressive array of ties throughout Absalom; at your discretion, the commander can introduce the agents to various other precinct leaders throughout the city or to other officials whom they seek access.
-**Recall Knowledge - Humanoid ([[Society]])**: DC 33
+**Recall Knowledge - Humanoid ([[DATABASE/skill/Society|Society]])**: DC 33
 **Unspecific Lore**: DC 31
 **Specific Lore**: DC 28
 
-## Elite | [[Shristi Melipdra]] | Weak
+## Elite | [[DATABASE/npc/Shristi Melipdra|Normal]] | Weak
 Proficiency without Level
 
 # Shristi Melipdra<span class="item-type">Creature 7</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">LG</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>
-**Source** [[Pathfinder 158. Sixty Feet Under]]
-Male [[Human]] guard captain
+**Source** [[DATABASE/source/Pathfinder 158. Sixty Feet Under|Pathfinder #158: Sixty Feet Under]]
+Male [[DATABASE/ancestry/Human|human]] guard captain
 **Perception** +18
-**Languages** [[Common]], [[Goblin]], [[Hallit]]
+**Languages** [[DATABASE/language/Common|Common]], [[DATABASE/language/Goblin|Goblin]], [[DATABASE/language/Hallit|Hallit]]
 **Str** +4, **Dex** +3, **Con** +2, **Int** +0, **Wis** +3, **Cha** +1
-**Items** Foreign Guard uniform, [[Handcuffs]], victor's medallion from the Challenge of Sky and Heaven
+**Items** Foreign Guard uniform, [[DATABASE/equipment/Handcuffs|handcuffs (2)]], victor's medallion from the Challenge of Sky and Heaven
 
 ---
 **AC** 26; **Fort** +13, **Ref** +18, **Will** +16
 **HP** 100
-<span class="in-box-ability">**[[Attack of Opportunity]] <span class="action-icon">5</span> ** </span>
+<span class="in-box-ability">**[[DATABASE/monsterability/Attack of Opportunity|Attack of Opportunity]] <span class="action-icon">5</span> ** </span>
 
 ---
 **Speed** 35 feet
-<span class="in-box-ability">**Melee** <span class="action-icon">1</span> skyward slash +17 [+12/+7] (nonlethal, unarmed, versatile P), **Damage** 2d10+4 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +17 [+13/+9] (agile, finesse, nonlethal, unarmed), **Damage** 2d6+4 bludgeoning</span><span class="in-box-ability">**Flurry of Blows** <span class="action-icon">1</span> (flourish) Shristi makes two unarmed Strikes. If both hit the same creature, combine their damage for the purposes of resistances and weaknesses. He applies his multiple attack penalty to the Strikes normally. As it has the flourish trait, Shristi can use Flurry of Blows only once per turn.</span><span class="in-box-ability">**Heaven's Thunder** <span class="action-icon">1</span> (electricity, evocation, sonic) **Frequency** twice per day; **Effect** With a loud shout, Shristi unleashes his ki as a crackling shroud of thunder and lightning that engulfs his body. Until the end of his next turn, Shristi's unarmed Strikes and Strikes with weapons that have the monk trait deal an additional 3 electricity damage and 3 sonic damage.</span><span class="in-box-ability">**Sky and Heaven Stance** <span class="action-icon">1</span> (stance) Shristi enters a combat stance perfected by past champions of the Challenge of Sky and Heaven. While in this stance, the only Strikes Shristi can make are skyward slash unarmed attacks. These deal 1d10 slashing damage; are in the [[Brawling]] group; and have the nonlethal, unarmed, and versatile P traits.
+<span class="in-box-ability">**Melee** <span class="action-icon">1</span> skyward slash +17 [+12/+7] (nonlethal, unarmed, versatile P), **Damage** 2d10+4 slashing</span><span class="in-box-ability">**Melee** <span class="action-icon">1</span> fist +17 [+13/+9] (agile, finesse, nonlethal, unarmed), **Damage** 2d6+4 bludgeoning</span><span class="in-box-ability">**Flurry of Blows** <span class="action-icon">1</span> (flourish) Shristi makes two unarmed Strikes. If both hit the same creature, combine their damage for the purposes of resistances and weaknesses. He applies his multiple attack penalty to the Strikes normally. As it has the flourish trait, Shristi can use Flurry of Blows only once per turn.</span><span class="in-box-ability">**Heaven's Thunder** <span class="action-icon">1</span> (electricity, evocation, sonic) **Frequency** twice per day; **Effect** With a loud shout, Shristi unleashes his ki as a crackling shroud of thunder and lightning that engulfs his body. Until the end of his next turn, Shristi's unarmed Strikes and Strikes with weapons that have the monk trait deal an additional 3 electricity damage and 3 sonic damage.</span><span class="in-box-ability">**Sky and Heaven Stance** <span class="action-icon">1</span> (stance) Shristi enters a combat stance perfected by past champions of the Challenge of Sky and Heaven. While in this stance, the only Strikes Shristi can make are skyward slash unarmed attacks. These deal 1d10 slashing damage; are in the [[DATABASE/weapongroup/Brawling|brawling]] group; and have the nonlethal, unarmed, and versatile P traits.
  While in Sky and Heaven Stance, Shristi gains resistance 2 to electricity and sonic damage.</span>

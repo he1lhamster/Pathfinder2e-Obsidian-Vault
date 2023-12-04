@@ -2,6 +2,7 @@
 id: '11'
 name: Clear Hex
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait: null
 type: General Skill Action
@@ -9,17 +10,17 @@ type: General Skill Action
 ---
 # Clear Hex (Untrained)
 
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 
 ## Skill Uses
 
-[[Engineering]] Clear Hex
-[[Exploration]] Clear Hex
+[[DATABASE/skill/Engineering|Engineering]] Clear Hex
+[[DATABASE/skill/Exploration|Exploration]] Clear Hex
 
-## [[Clear Hex]]
+## [[DATABASE/action/Clear Hex|Clear Hex]]
 
 <span class="item-trait">Downtime</span><span class="item-trait">Region</span>
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 
 ---
 Engineers and mercenaries attempt to prepare a hex to serve as the site for a settlement, or they work to remove an existing improvement, a dangerous hazard, or an encounter.

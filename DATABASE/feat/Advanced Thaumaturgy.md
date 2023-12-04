@@ -11,6 +11,7 @@ name: Advanced Thaumaturgy
 prerequisite: '[[DATABASE/feat/Basic Thaumaturgy|Basic Thaumaturgy]]'
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -23,9 +24,9 @@ type: Feat
 # Advanced Thaumaturgy <span class="item-type">Feat 6</span>
 
 <span class="item-trait">Archetype</span>
-**Source** [[Dark Archive]]
-**Archetype** [[Thaumaturge]]
-**Prerequisites** [[Basic Thaumaturgy]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Archetype** [[DATABASE/archetype/Thaumaturge|Thaumaturge]]
+**Prerequisites** [[DATABASE/feat/Basic Thaumaturgy|Basic Thaumaturgy]]
 
 ---
 You gain one thaumaturge feat. For the purpose of meeting its prerequisites, your thaumaturge level is equal to half your character level.

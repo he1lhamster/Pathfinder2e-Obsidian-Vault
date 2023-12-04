@@ -31,6 +31,7 @@ rarity: Common
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 size: null
@@ -55,7 +56,7 @@ weapon_type: null
 # Staff of Nature's Cunning<span class="item-type">Item 7+</span>
 
 <span class="item-trait">Magical</span><span class="item-trait">Plant</span><span class="item-trait">Staff</span><span class="item-trait">Transmutation</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Usage** held in 1 hand; **Bulk** 1
 
 ---
@@ -65,28 +66,28 @@ Moss and winding vines give this gnarled staff of wild wood a vibrant green ting
 
 ## Staff of Nature's Cunning<span class="item-type">Item 7</span>
 
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Price** 250 gp
 **Bulk** 1
 
-* **Cantrip** [[Tanglefoot]]
-* **1st** [[Protector Tree]], [[Shillelagh]]
-* **2nd** [[Entangle]], [[Shape Wood]]
+* **Cantrip** [[DATABASE/spell/Tanglefoot|tanglefoot]]
+* **1st** [[DATABASE/spell/Protector Tree|protector tree]], [[DATABASE/spell/Shillelagh|shillelagh]]
+* **2nd** [[DATABASE/spell/Entangle|entangle]], [[DATABASE/spell/Shape Wood|shape wood]]
 
 ## Staff of Nature's Cunning (Greater)<span class="item-type">Item 11</span>
 
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Price** 1,400 gp
 **Bulk** 1
 
-* **3rd** [[Tree Shape]], [[Wall of Thorns]]
-* **4th** [[Barkskin]], [[Speak with Plants]]
+* **3rd** [[DATABASE/spell/Tree Shape|tree shape]], [[DATABASE/spell/Wall of Thorns|wall of thorns]]
+* **4th** [[DATABASE/spell/Barkskin|barkskin]], [[DATABASE/spell/Speak with Plants|speak with plants]]
 
 ## Staff of Nature's Cunning (Major)<span class="item-type">Item 15</span>
 
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Price** 6,500 gp
 **Bulk** 1
 
-* **5th** [[Plant Form]], _wall of thorns_
-* **6th** [[Nature's Reprisal]], _plant form_
+* **5th** [[DATABASE/spell/Plant Form|plant form]], _wall of thorns_
+* **6th** [[DATABASE/spell/Nature's Reprisal|nature's reprisal]], _plant form_

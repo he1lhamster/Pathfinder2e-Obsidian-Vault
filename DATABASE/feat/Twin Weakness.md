@@ -13,6 +13,7 @@ rarity: Common
 requirement: You're holding animplementand a weapon, you are using [[DATABASE/action/Exploit
   Vulnerability|Exploit Vulnerability]] with mortal weakness or personalantithesis,
   and the target creature is within reach of both your implement and weapon.
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: null
@@ -26,9 +27,9 @@ type: Feat
 # Twin Weakness <span class="action-icon">2</span> <span class="item-type">Feat 10</span>
 
 <span class="item-trait">Esoterica</span><span class="item-trait">Thaumaturge</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Prerequisites** mortal weakness or personal antithesis
-**Requirements** You're holding an implement and a weapon, you are using [[Exploit Vulnerability]] with mortal weakness or personal antithesis, and the target creature is within reach of both your implement and weapon.
+**Requirements** You're holding an implement and a weapon, you are using [[DATABASE/action/Exploit Vulnerability|Exploit Vulnerability]] with mortal weakness or personal antithesis, and the target creature is within reach of both your implement and weapon.
 
 ---
 As you make an attack augmented by your esoterica, you also press your implement against the creature, applying its weakness as your implement's energies sear the creature's flesh. Make a melee Strike against the target of your Exploit Vulnerability. On any attack roll result but a critical failure, you also press your implement against the creature, automatically dealing the additional damage from Exploit Vulnerability. This is in addition to any damage from your Strike, including the weakness the Strike applies from Exploit Vulnerability. This counts as two attacks when calculating your multiple attack penalty.

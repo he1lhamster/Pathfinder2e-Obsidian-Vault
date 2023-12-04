@@ -12,6 +12,7 @@ prerequisite: Master in [[DATABASE/skill/Diplomacy|Diplomacy]] ; you follow a de
   or philosophy
 rarity: Common
 requirement: null
+rus_type_level: null
 school: null
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
 subcategory: diplomacy
@@ -28,12 +29,12 @@ type: Feat
 # Evangelize <span class="action-icon">1</span> <span class="item-type">Feat 7</span>
 
 <span class="item-trait">Auditory</span><span class="item-trait">General</span><span class="item-trait">Linguistic</span><span class="item-trait">Mental</span><span class="item-trait">Skill</span>
-**Source** [[Gods & Magic]] 
-**Prerequisites** master in [[Diplomacy]]; you follow a deity or philosophy
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
+**Prerequisites** master in [[DATABASE/skill/Diplomacy|Diplomacy]]; you follow a deity or philosophy
 
 ---
 You point out a detail that incontrovertibly supports your faith, causing a listener’s mind to whirl. Attempt a Diplomacy check and compare the result to the Will DC of a single target that can hear you and understands your language; that target is then temporarily immune to Evangelize with respect to your deity or philosophy for 1 day. A creature that already agrees with you is unaffected, and at the GM’s discretion, a target that genuinely changes its perspective to support your faith as a result of the argument is also otherwise unaffected.
-**Critical Success** The target is [[Stupefied]] for 1 round.
+**Critical Success** The target is [[DATABASE/condition/Stupefied|stupefied 2]] for 1 round.
 **Success** The target is stupefied 1 for 1 round.
 **Failure** The target is unaffected.
 
@@ -41,7 +42,7 @@ You point out a detail that incontrovertibly supports your faith, causing a list
 
 **Auditory:**
 
-Auditory actions and effects rely on sound. An action with the auditory trait can be successfully performed only if the creature using the action can speak or otherwise produce the required sounds. A spell or effect with the auditory trait has its effect only if the target can hear it. This applies only to sound-based parts of the effect, as determined by the GM. This is different from a sonic effect, which still affects targets who can't hear it (such as [[Deafened]] targets) as long as the effect itself makes sound.
+Auditory actions and effects rely on sound. An action with the auditory trait can be successfully performed only if the creature using the action can speak or otherwise produce the required sounds. A spell or effect with the auditory trait has its effect only if the target can hear it. This applies only to sound-based parts of the effect, as determined by the GM. This is different from a sonic effect, which still affects targets who can't hear it (such as [[DATABASE/condition/Deafened|deaf]] targets) as long as the effect itself makes sound.
 
 **General:**
 

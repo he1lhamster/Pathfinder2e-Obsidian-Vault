@@ -31,6 +31,7 @@ rarity: Rare
 reflex: null
 requirement: null
 resistance: null
+rus_type_level: null
 saving_throw: null
 school: null
 size: null
@@ -69,12 +70,12 @@ The following side effects are appropriate for a baleblood draft or other items 
 * Your voice rises to a high, vibrating chorus of whispers that seems to contain at least five different voices speaking in unison. Your breath reeks of sulfur, and in cold air, the clouds you exhale are yellow rather than white.
 * Your skin becomes disconcertingly clammy and anyone who touches you feels a brief, tingling numbness as though they had encountered a mild contact poison. You leave behind distinct fingerprints on every surface you touch, even those that shouldn't normally hold fingerprints—but the prints aren't your own.
 
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Price** 155 gp
 **Usage** held in 1 hand; **Bulk** L
 **Activate** <span class="action-icon">1</span> Interact
 
 ---
 This vial of murky, acrid-smelling liquid is derived from a blend of strange blood, typically coming from aberrations and cryptids. It has no special properties when used alone, but if you drink one shortly before drinking an alchemical elixir, you enhance the elixir's duration. Many tales of mysterious cryptids are actually based on encounters with people suffering the aftereffects of such concoctions.
- After drinking a baleblood draft, the next elixir you drink within 1 minute that has a duration of at least 1 minute and at most 1 hour has its duration extended by 50% (so a [[Cheetah's Elixir]] lasts for a minute and a half instead of 1 minute).
+ After drinking a baleblood draft, the next elixir you drink within 1 minute that has a duration of at least 1 minute and at most 1 hour has its duration extended by 50% (so a [[DATABASE/equipment/Cheetah's Elixir|lesser cheetah's elixir]] lasts for a minute and a half instead of 1 minute).
  However, after pairing baleblood draft with another elixir, you suffer an eerie side effect for 1 week. This side effect never causes serious harm, although it might be inconvenient and is always ominous in appearance. All elixirs made in the same batch cause the same side effect. Drinking another draft with the same side effect extends the side effect's duration by another week, and drinking one with a different side effect causes you to suffer both effects simultaneously.
