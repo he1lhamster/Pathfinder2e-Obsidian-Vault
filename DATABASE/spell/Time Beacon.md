@@ -22,6 +22,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -38,9 +39,9 @@ type: Spell
 # Time Beacon<span class="item-type">Spell 7</span>
 
 <span class="item-trait">Divination</span>
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Traditions** arcane, occult
-**Deities** [[Shyka]], [[Yog-Sothoth]]
+**Deities** [[DATABASE/deity/Shyka|Shyka]], [[DATABASE/deity/Yog-Sothoth|Yog-Sothoth]]
 **Cast** <span class="action-icon">1</span> material
 **Duration** until the end of your turn
 

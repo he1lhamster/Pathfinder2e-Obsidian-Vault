@@ -19,6 +19,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Fortitude
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
@@ -37,7 +38,7 @@ type: Spell
 # Weaken Earth<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Earth</span><span class="item-trait">Manipulate</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Traditions** arcane, primal
 **Cast** <span class="action-icon">2</span> 
 **Range** touch; **Targets** 1 creature, unattended object, or hazard or structure made of stone or earth

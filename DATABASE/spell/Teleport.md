@@ -24,6 +24,7 @@ patron_theme: null
 range: 100 miles
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -44,10 +45,10 @@ type: Spell
 # Teleport<span class="item-type">Spell 6</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Conjuration</span><span class="item-trait">Teleportation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult
 **Spell List** elemental
-**Deities** [[Barzahk]], [[Pulura]]
+**Deities** [[DATABASE/deity/Barzahk|Barzahk]], [[DATABASE/deity/Pulura|Pulura]]
 **Cast** 10 minutes (material, somatic, verbal)
 **Range** 100 miles; **Targets** you and up to 4 targets touched, either willing creatures or objects roughly the size of a creature.
 

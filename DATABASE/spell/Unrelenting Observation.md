@@ -25,6 +25,7 @@ patron_theme: null
 range: 100 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -42,10 +43,10 @@ type: Spell
 # Unrelenting Observation<span class="item-type">Spell 8</span>
 
 <span class="item-trait">Divination</span><span class="item-trait">Scrying</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult
-**Bloodline** [[Harrow]]
-**Deities** [[Abraxas]], [[Kols]]
+**Bloodline** [[DATABASE/sorcererbloodline/Harrow|harrow]]
+**Deities** [[DATABASE/deity/Abraxas|Abraxas]], [[DATABASE/deity/Kols|Kols]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 100 feet; **Area** 20-foot burst; **Targets** 1 creature or object tracked and up to 5 other willing creatures
 **Duration** varies

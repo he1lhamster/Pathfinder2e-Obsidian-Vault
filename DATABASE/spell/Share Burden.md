@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -38,8 +39,8 @@ type: Focus
 # Share Burden<span class="item-type">Focus 1</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Mental</span>
-**Source** [[Gods & Magic]] 
-**Domain** [[Repose Domain]]
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
+**Domain** [[DATABASE/domain/Repose Domain|repose]]
 **Cast** <span class="action-icon">5</span> somatic; **Trigger** An ally within 30 feet is about to attempt a saving throw against a harmful emotion effect, and you would not otherwise have to save against the effect.
 **Targets** you and the triggering ally.
 

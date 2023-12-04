@@ -19,6 +19,7 @@ patron_theme: null
 range: 120 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: basicReflex
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
@@ -37,7 +38,7 @@ type: Focus
 # Pulverizing Cascade<span class="item-type">Focus 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Concentrate</span><span class="item-trait">Focus</span><span class="item-trait">Manipulate</span><span class="item-trait">Water</span>
-**Source** [[Rage of Elements]], [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]], [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Cast** <span class="action-icon">2</span> 
 **Range** 120 feet; **Area** 10-foot radius, 20-foot-tall cylinder
 **Defense** basic Reflex

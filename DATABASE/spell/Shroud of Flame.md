@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Pathfinder 168. King of the Mountain|Pathfinder #168: King
@@ -39,14 +40,14 @@ type: Focus
 # Shroud of Flame<span class="item-type">Focus 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Evocation</span><span class="item-trait">Fire</span><span class="item-trait">Sorcerer</span>
-**Source** [[Pathfinder 168. King of the Mountain]]
-**Bloodline** [[Phoenix]]
+**Source** [[DATABASE/source/Pathfinder 168. King of the Mountain|Pathfinder #168: King of the Mountain]]
+**Bloodline** [[DATABASE/sorcererbloodline/Phoenix|phoenix]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Area** 10-foot emanation
 **Duration** sustained up to 1 minute
 
 ---
-You encircle yourself in an aura of protective flames. Each creature that hits you with an unarmed attack, [[Grapple]] you, or otherwise touches you takes 3 fire damage. When you Cast the Spell and the first time you sustain it each round, each creature in the area takes 3d6 fire damage (basic Reflex save).
+You encircle yourself in an aura of protective flames. Each creature that hits you with an unarmed attack, [[DATABASE/action/Grapple|Grapples]] you, or otherwise touches you takes 3 fire damage. When you Cast the Spell and the first time you sustain it each round, each creature in the area takes 3d6 fire damage (basic Reflex save).
 
 ---
 **Heightened (+1)** The damage caused by touching you increases by 1, and the fire damage when you Cast the Spell or sustain it increases by 1d6.

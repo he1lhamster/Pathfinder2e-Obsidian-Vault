@@ -22,6 +22,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -39,7 +40,7 @@ type: Spell
 # Show the Way<span class="item-type">Spell 3</span>
 
 <span class="item-trait">Detection</span><span class="item-trait">Divination</span>
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Traditions** divine, primal
 **Cast** 10 minutes (material, somatic, verbal)
 **Area** 5-foot emanation; **Targets** you and allies in the area

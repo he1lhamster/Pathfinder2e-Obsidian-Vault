@@ -7,6 +7,7 @@ language:
 max_speed: '25'
 name: Dragon Eidolon
 rarity: Common
+rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -28,20 +29,20 @@ type: Summoner Eidolon
 # Dragon Eidolon
 
 <span class="item-trait">Astral</span><span class="item-trait">Dragon</span><span class="item-trait">Eidolon</span>
-**Source** [[Secrets of Magic]] 
-Because dragons have a strong connection to magic, their minds can often leave an echo floating in the [[Astral Plane]]. Such an entity is extremely powerful but unable to interact with the outside world on its own. Dragon eidolons manifest in the powerful, scaled forms they had in life; most take the form of true dragons (albeit smaller), but some manifest as [[Drake]] or other draconic beings. You have forged a connection with such a dragon eidolon and together, you seek to grow as powerful as an ancient wyrm.
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
+Because dragons have a strong connection to magic, their minds can often leave an echo floating in the [[DATABASE/plane/Astral Plane|Astral Plane]]. Such an entity is extremely powerful but unable to interact with the outside world on its own. Dragon eidolons manifest in the powerful, scaled forms they had in life; most take the form of true dragons (albeit smaller), but some manifest as [[DATABASE/monsterfamily/Drake|drakes]] or other draconic beings. You have forged a connection with such a dragon eidolon and together, you seek to grow as powerful as an ancient wyrm.
 **Tradition** Arcane
 **Traits (Variable)** one more (see Breath Weapon below)
-**Home Plane** [[Astral Plane]]
+**Home Plane** [[DATABASE/plane/Astral Plane|Astral Plane]]
 
 ---
 **Size** Medium
 **Suggested Attacks** claw (slashing), jaws (piercing), horn (piercing), tail (bludgeoning), wing (bludgeoning)
 **Cunning Dragon** _Str_ 12, _Dex_ 18, _Con_ 12, _Int_ 14, _Wis_ 10, _Cha_ 12; +1 AC (+4 Dex cap)
 **Marauding Dragon** _Str_ 18, _Dex_ 14, _Con_ 16, _Int_ 10, _Wis_ 10, _Cha_ 10; +2 AC (+3 Dex cap)
-**Skills** [[Arcana]], [[Intimidation]]
-**Senses** [[Darkvision]]
-**Languages** [[Draconic]]
+**Skills** [[DATABASE/skill/Arcana|Arcana]], [[DATABASE/skill/Intimidation|Intimidation]]
+**Senses** [[DATABASE/monsterability/Darkvision|darkvision]]
+**Languages** [[DATABASE/language/Draconic|Draconic]]
 **Speed** 25 feet
 
 ---
@@ -51,10 +52,10 @@ Because dragons have a strong connection to magic, their minds can often leave a
 
 Your eidolon has a powerful breath weapon, which they are able to use regularly to wreak havoc upon your foes. They gain the Breath Weapon activity. Choose a damage type from among acid, cold, electricity, fire, negative, piercing, or poison, and choose whether the area is a 60-foot line or a 30-foot cone. Unless you chose piercing damage, both Breath Weapon and your eidolon gain the trait matching the damage type.
 
-### [[Breath Weapon]] <span class="action-icon">2</span>
+### [[DATABASE/action/Breath Weapon|Breath Weapon]] <span class="action-icon">2</span>
 
 <span class="item-trait">Arcane</span><span class="item-trait">Eidolon</span><span class="item-trait">Evocation</span>
-**Source** [[Secrets of Magic]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]]
 
 ---
 Your eidolon exhales a blast of destructive energy. Your eidolon deals 1d6 damage to all creatures in the area, with a basic Reflex save against your spell DC. The area and damage type of the Breath Weapon are chosen when the eidolon gains this ability. Your eidolon then can't use their Breath Weapon again for the next 1d4 rounds.
@@ -64,10 +65,10 @@ Your eidolon exhales a blast of destructive energy. Your eidolon deals 1d6 damag
 
 Your eidolon can make a furious assault, potentially recovering the use of their Breath Weapon. They gain the Draconic Frenzy activity.
 
-### [[Draconic Frenzy]] <span class="action-icon">2</span>
+### [[DATABASE/action/Draconic Frenzy|Draconic Frenzy]] <span class="action-icon">2</span>
 
 <span class="item-trait">Eidolon</span>
-**Source** [[Secrets of Magic]]
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]]
 
 ---
 Your eidolon makes one Strike with their primary unarmed attack and two Strikes with their secondary unarmed attack (in any order). If any of these attacks critically hits an enemy, your eidolon instantly recovers the use of their Breath Weapon.
@@ -76,10 +77,10 @@ Your eidolon makes one Strike with their primary unarmed attack and two Strikes 
 
 Your eidolon can draw upon the power of wyrms to enhance the eidolon's Breath Weapon. Your eidolon gains the Wyrm's Breath free action.
 
-### [[Wyrm's Breath]] <span class="action-icon">4</span>
+### [[DATABASE/action/Wyrm's Breath|Wyrm's Breath]] <span class="action-icon">4</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Eidolon</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Frequency** once per minute
 
 ---

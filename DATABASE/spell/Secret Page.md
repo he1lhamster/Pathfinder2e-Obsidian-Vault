@@ -26,6 +26,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -43,9 +44,9 @@ type: Spell
 # Secret Page<span class="item-type">Spell 3</span>
 
 <span class="item-trait">Illusion</span><span class="item-trait">Visual</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult
-**Deities** [[Irez]], [[Lissala]], [[The Enlightened Scholar's Path]], [[Thoth]]
+**Deities** [[DATABASE/deity/Irez|Irez]], [[DATABASE/deity/Lissala|Lissala]], [[DATABASE/deity/The Enlightened Scholar's Path|The Enlightened Scholar's Path]], [[DATABASE/deity/Thoth|Thoth]]
 **Cast** 1 minute (material, somatic, verbal)
 **Range** touch; **Targets** 1 page up to 3 square feet in size
 **Duration** unlimited

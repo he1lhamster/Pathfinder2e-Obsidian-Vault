@@ -22,6 +22,7 @@ patron_theme: null
 range: touch
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -39,7 +40,7 @@ type: Spell
 # Undetectable Alignment<span class="item-type">Spell 2</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Abjuration</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** divine, occult
 **Cast** 1 minute (material, somatic, verbal)
 **Range** touch; **Targets** 1 creature or object

@@ -2,6 +2,7 @@
 id: '355'
 name: Kovintus
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 trait:
 - Kovintus
@@ -10,9 +11,9 @@ type: Trait
 ---
 # Kovintus
 
-**Source** [[Bestiary 3]]
+**Source** [[DATABASE/source/Bestiary 3|Bestiary 3]]
 Reclusive humanoids with an inborn talent for geomancy, kovintus have an intrinsic tie to nature and magic alike.
 
 ## Monsters
 
-[[Kovintus Geomancer]]
+[[DATABASE/monster/Kovintus Geomancer|Kovintus Geomancer]]

@@ -22,6 +22,7 @@ patron_theme: null
 range: 120 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Fortitude
 school: Conjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -39,15 +40,15 @@ type: Spell
 # Stinking Cloud<span class="item-type">Spell 3</span>
 
 <span class="item-trait">Conjuration</span><span class="item-trait">Poison</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, primal
-**Deity** [[Gogunta]]
+**Deity** [[DATABASE/deity/Gogunta|Gogunta]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 120 feet; **Area** 20-foot burst
 **Saving Throw** Fortitude; **Duration** 1 minute
 
 ---
-You create a cloud of putrid mist in the area. The cloud functions as [[Obscuring Mist]] except it sickens creatures that end their turns within the cloud. (The concealed condition is not a poison effect.)
+You create a cloud of putrid mist in the area. The cloud functions as [[DATABASE/spell/Obscuring Mist|obscuring mist]] except it sickens creatures that end their turns within the cloud. (The concealed condition is not a poison effect.)
 **Critical Success** The creature is unaffected.
 **Success** The creature is sickened 1.
 **Failure** The creature is sickened 1 and slowed 1 while in the cloud.

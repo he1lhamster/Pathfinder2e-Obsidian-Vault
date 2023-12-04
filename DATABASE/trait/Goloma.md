@@ -2,6 +2,7 @@
 id: '381'
 name: Goloma
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 trait:
 - Goloma
@@ -10,13 +11,13 @@ type: Trait
 ---
 # Goloma
 
-**Source** [[The Mwangi Expanse]] 
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]] 
 Insular humanoids that bear countless eyes.
 
 ## Ancestries
 
-[[Goloma]]
+[[DATABASE/ancestry/Goloma|Goloma]]
 
 ## Feats
 
-[[Ambush Awareness]], [[Arcane Sight]], [[Catch the Details]], [[Constant Gaze]], [[Defensive Instincts]], [[Goloma Courage]], [[Goloma Lore]], [[Pierce the Darkness]], [[Protective Claws]], [[See the Unseen]], [[True Gaze]], [[Watchful Gaze]]
+[[DATABASE/feat/Ambush Awareness|Ambush Awareness]], [[DATABASE/feat/Arcane Sight|Arcane Sight]], [[DATABASE/feat/Catch the Details|Catch the Details]], [[DATABASE/feat/Constant Gaze|Constant Gaze]], [[DATABASE/feat/Defensive Instincts|Defensive Instincts]], [[DATABASE/feat/Goloma Courage|Goloma Courage]], [[DATABASE/feat/Goloma Lore|Goloma Lore]], [[DATABASE/feat/Pierce the Darkness|Pierce the Darkness]], [[DATABASE/feat/Protective Claws|Protective Claws]], [[DATABASE/feat/See the Unseen|See the Unseen]], [[DATABASE/feat/True Gaze|True Gaze]], [[DATABASE/feat/Watchful Gaze|Watchful Gaze]]

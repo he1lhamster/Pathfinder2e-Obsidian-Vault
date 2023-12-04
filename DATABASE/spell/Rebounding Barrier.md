@@ -20,6 +20,7 @@ patron_theme: null
 range: null
 rarity: Rare
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Legends|Legends]]'
@@ -37,7 +38,7 @@ type: Spell
 # Rebounding Barrier<span class="item-type">Spell 4</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Abjuration</span>
-**Source** [[Legends]]
+**Source** [[DATABASE/source/Legends|Legends]]
 **Traditions** arcane, occult
 **Cast** <span class="action-icon">5</span> verbal; **Trigger** You are hit by a physical Strike.
 

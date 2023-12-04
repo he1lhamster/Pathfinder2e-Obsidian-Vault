@@ -22,6 +22,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
@@ -37,7 +38,7 @@ type: Focus
 # Spellmaster's Ward<span class="item-type">Focus 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Abjuration</span>
-**Source** [[PFS Guide]]
+**Source** [[DATABASE/source/PFS Guide|PFS Guide]]
 **Cast** <span class="action-icon">1</span> to <span class="action-icon">3</span> material, somatic, verbal
 **Duration** sustained up to 1 minute
 

@@ -20,6 +20,7 @@ patron_theme: null
 range: 120 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
@@ -38,7 +39,7 @@ type: Spell
 # Thoughtful Gift<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Conjuration</span><span class="item-trait">Teleportation</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Traditions** arcane, divine, occult
 **Cast** <span class="action-icon">1</span> somatic
 **Range** 120 feet; **Targets** 1 willing creature

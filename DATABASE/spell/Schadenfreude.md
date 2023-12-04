@@ -20,6 +20,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -39,7 +40,7 @@ type: Spell
 # Schadenfreude<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Emotion</span><span class="item-trait">Enchantment</span><span class="item-trait">Mental</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Traditions** arcane, divine, occult
 **Cast** <span class="action-icon">5</span> verbal; **Trigger** You critically fail a saving throw against a foe's effect
 **Range** 30 feet; **Targets** the triggering foe
@@ -49,5 +50,5 @@ type: Spell
 You distract your enemy with their feeling of smug pleasure when you fail catastrophically. They must attempt a Will save.
 **Critical Success** The creature is unaffected.
 **Success** The creature is distracted by its amusement and takes a –1 status penalty on Perception checks and Will saves for 1 round.
-**Failure** The creature is overcome by its amusement and is [[Stupefied]] for 1 round.
-**Critical Failure** The creature is lost in its amusement and is stupefied 2 for 1 round and [[Stunned]].
+**Failure** The creature is overcome by its amusement and is [[DATABASE/condition/Stupefied|stupefied 1]] for 1 round.
+**Critical Failure** The creature is lost in its amusement and is stupefied 2 for 1 round and [[DATABASE/condition/Stunned|stunned 1]].

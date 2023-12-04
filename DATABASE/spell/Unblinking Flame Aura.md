@@ -20,6 +20,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
@@ -37,7 +38,7 @@ type: Focus
 # Unblinking Flame Aura<span class="item-type">Focus 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Divination</span><span class="item-trait">Fire</span><span class="item-trait">Healing</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 **Cast** <span class="action-icon">1</span> verbal
 **Duration** 1 minute
 

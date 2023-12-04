@@ -32,6 +32,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -49,9 +50,9 @@ type: Spell
 # Stoneskin<span class="item-type">Spell 4</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Earth</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, primal
-**Deities** [[Arqueros]], [[Dammerich]], [[Imbrex]], [[Irori]], [[Kazutal]], [[Keepers of the Hearth]], [[Sairazul]], [[Soralyon]], [[Trudd]]
+**Deities** [[DATABASE/deity/Arqueros|Arqueros]], [[DATABASE/deity/Dammerich|Dammerich]], [[DATABASE/deity/Imbrex|Imbrex]], [[DATABASE/deity/Irori|Irori]], [[DATABASE/deity/Kazutal|Kazutal]], [[DATABASE/deity/Keepers of the Hearth|Keepers of the Hearth]], [[DATABASE/deity/Sairazul|Sairazul]], [[DATABASE/deity/Soralyon|Soralyon]], [[DATABASE/deity/Trudd|Trudd]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** touch; **Targets** 1 creature
 **Duration** 20 minutes

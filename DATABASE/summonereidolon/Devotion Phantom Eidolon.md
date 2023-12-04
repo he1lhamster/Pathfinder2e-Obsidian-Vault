@@ -7,6 +7,7 @@ language:
 max_speed: '25'
 name: Devotion Phantom Eidolon
 rarity: Common
+rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium, Small
@@ -28,18 +29,18 @@ type: Summoner Eidolon
 # Devotion Phantom Eidolon
 
 <span class="item-trait">Eidolon</span><span class="item-trait">Ethereal</span><span class="item-trait">Phantom</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 Your eidolon is a lost soul, unable to escape the mortal world due to a strong sense of duty, an undying devotion, or a need to complete an important task. Most phantom eidolons are humanoid with a spectral or ectoplasmic appearance, though some take far stranger forms. Your link with your eidolon prevents them from succumbing to corruption and undeath, and together, you will grow in strength and fulfill your phantom's devotion.
 **Tradition** Occult
-**Home Plane** [[Ethereal Plane]]
+**Home Plane** [[DATABASE/plane/Ethereal Plane|Ethereal Plane]]
 
 ---
 **Size** Medium or Small
 **Suggested Attacks** fist (bludgeoning), tendril (bludgeoning), unarmed attacks shaped like a weapon
 **Stalwart Guardian** _Str_ 18, _Dex_ 14, _Con_ 16, _Int_ 10, _Wis_ 10, _Cha_ 10; +2 AC (+3 Dex cap)
 **Swift Protector** _Str_ 14, _Dex_ 18, _Con_ 16, _Int_ 10, _Wis_ 10, _Cha_ 10; +1 AC (+4 Dex cap)
-**Skills** [[Medicine]], [[Occultism]]
-**Senses** [[Darkvision]]
+**Skills** [[DATABASE/skill/Medicine|Medicine]], [[DATABASE/skill/Occultism|Occultism]]
+**Senses** [[DATABASE/monsterability/Darkvision|darkvision]]
 **Languages** one common mortal language the eidolon spoke in life
 **Speed** 25 feet
 
@@ -50,10 +51,10 @@ Your eidolon is a lost soul, unable to escape the mortal world due to a strong s
 
 Your eidolon deeply respects your assistance, and it extends its loyalty to you, attacking those who dare harm you. It gains the Dutiful Retaliation reaction.
 
-### [[Dutiful Retaliation]] <span class="action-icon">5</span>
+### [[DATABASE/action/Dutiful Retaliation|Dutiful Retaliation]] <span class="action-icon">5</span>
 
 <span class="item-trait">Eidolon</span><span class="item-trait">Occult</span><span class="item-trait">Transmutation</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Trigger** An enemy within 15 feet of you hits you with a Strike and deals damage to you.
 **Requirements** Your eidolon is within 15 feet of you.
 

@@ -2,6 +2,7 @@
 id: '383'
 name: Kaiju
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]'
 trait:
 - Kaiju
@@ -10,9 +11,8 @@ type: Trait
 ---
 # Kaiju
 
-**Source** [[Pathfinder 167. Ready Fight!]]
-_Note from Nethys: no description was provided for this trait_
+**Source** [[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]
 
 ## Hazards
 
-[[Collapsing Structure (Ebeshra)]], [[Crystal Pin]], [[Mogaru's Breath]], [[Planar Tear]], [[Quaking Slither]], [[Storm Discharge]], [[Swatting Tail]]
+[[DATABASE/hazard/Collapsing Structure (Ebeshra)|Collapsing Structure (Ebeshra)]], [[DATABASE/hazard/Crystal Pin|Crystal Pin]], [[DATABASE/hazard/Mogaru's Breath|Mogaru's Breath]], [[DATABASE/hazard/Planar Tear|Planar Tear]], [[DATABASE/hazard/Quaking Slither|Quaking Slither]], [[DATABASE/hazard/Storm Discharge|Storm Discharge]], [[DATABASE/hazard/Swatting Tail|Swatting Tail]]

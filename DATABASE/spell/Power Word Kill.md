@@ -21,6 +21,7 @@ patron_theme: null
 range: 30 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -40,9 +41,9 @@ type: Spell
 # Power Word Kill<span class="item-type">Spell 9</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Auditory</span><span class="item-trait">Death</span><span class="item-trait">Enchantment</span><span class="item-trait">Mental</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane
-**Deity** [[Orcus]]
+**Deity** [[DATABASE/deity/Orcus|Orcus]]
 **Cast** <span class="action-icon">1</span> verbal
 **Range** 30 feet; **Targets** 1 creature
 **Duration** varies

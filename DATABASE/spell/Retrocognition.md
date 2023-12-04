@@ -25,6 +25,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -40,10 +41,10 @@ type: Spell
 # Retrocognition<span class="item-type">Spell 7</span>
 
 <span class="item-trait">Divination</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** occult
-**Bloodline** [[Harrow]]
-**Deities** [[Dwarven Pantheon]], [[Pillars of Knowledge]], [[Zohls]]
+**Bloodline** [[DATABASE/sorcererbloodline/Harrow|harrow]]
+**Deities** [[DATABASE/deity/Dwarven Pantheon|Dwarven Pantheon]], [[DATABASE/deity/Pillars of Knowledge|Pillars of Knowledge]], [[DATABASE/deity/Zohls|Zohls]]
 **Cast** 1 minute (material, somatic, verbal)
 **Duration** sustained
 

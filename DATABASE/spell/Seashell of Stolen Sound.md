@@ -21,6 +21,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -39,7 +40,7 @@ type: Spell
 # Seashell of Stolen Sound<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Divination</span><span class="item-trait">Sonic</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Traditions** arcane, occult, primal
 **Cast** <span class="action-icon">5</span> focus, verbal; **Trigger** A creature within range begins to make a sound.
 **Range** 30 feet

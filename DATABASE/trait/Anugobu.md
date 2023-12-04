@@ -2,6 +2,7 @@
 id: '376'
 name: Anugobu
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #166:
   Despair on Danger Island]]'
 trait:
@@ -11,9 +12,8 @@ type: Trait
 ---
 # Anugobu
 
-**Source** [[Pathfinder 166. Despair on Danger Island]]
-_Note from Nethys: no description was provided for this trait_
+**Source** [[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #166: Despair on Danger Island]]
 
 ## Monsters
 
-[[Anugobu Apprentice]], [[Anugobu Wondercrafter]]
+[[DATABASE/monster/Anugobu Apprentice|Anugobu Apprentice]], [[DATABASE/monster/Anugobu Wondercrafter|Anugobu Wondercrafter]]

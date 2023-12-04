@@ -22,6 +22,7 @@ patron_theme: null
 range: 120 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
@@ -40,7 +41,7 @@ type: Spell
 # Wall of Virtue<span class="item-type">Spell 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Evocation</span><span class="item-trait">Light</span>
-**Source** [[Knights of Lastwall]]
+**Source** [[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]
 **Access** Knights of Lastwall have access to this spell.
 **Traditions** arcane, divine
 **Cast** <span class="action-icon">3</span> material, somatic, verbal

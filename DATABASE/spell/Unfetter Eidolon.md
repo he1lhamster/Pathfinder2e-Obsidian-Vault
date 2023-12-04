@@ -21,6 +21,7 @@ patron_theme: null
 range: 100 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -37,7 +38,7 @@ type: Focus
 # Unfetter Eidolon<span class="item-type">Focus 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Abjuration</span><span class="item-trait">Summoner</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 100 feet; **Targets** your eidolon
 **Duration** 1 minute

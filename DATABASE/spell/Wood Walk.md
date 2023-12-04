@@ -20,6 +20,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
@@ -38,8 +39,8 @@ type: Focus
 # Wood Walk<span class="item-type">Focus 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Concentrate</span><span class="item-trait">Focus</span><span class="item-trait">Manipulate</span><span class="item-trait">Wood</span>
-**Source** [[Rage of Elements]]
-**Domain** [[Wood Domain]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
+**Domain** [[DATABASE/domain/Wood Domain|wood]]
 **Cast** <span class="action-icon">2</span> 
 **Duration** sustained up to 1 minute
 

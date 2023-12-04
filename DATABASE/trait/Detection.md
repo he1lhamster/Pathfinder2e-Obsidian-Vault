@@ -2,6 +2,7 @@
 id: '43'
 name: Detection
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Detection
@@ -10,17 +11,17 @@ type: Trait
 ---
 # Detection
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Effects with this trait attempt to determine the presence or location of a person, object, or aura.
 
 ## Equipment
 
-[[Grim Ring]], [[Librarian's Baton]]
+[[DATABASE/equipment/Grim Ring|Grim Ring]], [[DATABASE/equipment/Librarian's Baton|Librarian's Baton]]
 
 ## Feats
 
-[[Magic Sense]], [[Witch's Charge]]
+[[DATABASE/feat/Magic Sense|Magic Sense]], [[DATABASE/feat/Witch's Charge|Witch's Charge]]
 
 ## Spells
 
-[[Approximate]], [[Detect Alignment]], [[Detect Creator]], [[Detect Magic]], [[Detect Metal]], [[Detect Poison]], [[Detect Scrying]], [[Discern Location]], [[Guiding Star]], [[Know Direction]], [[Know Location]], [[Locate]], [[Mind Reading]], [[Read Aura]], [[Show the Way]], [[Spirit Sense]], [[Status]], [[Web of Influence]], [[Ymeri's Mark]]
+[[DATABASE/spell/Approximate|Approximate]], [[DATABASE/spell/Detect Alignment|Detect Alignment]], [[DATABASE/spell/Detect Creator|Detect Creator]], [[DATABASE/spell/Detect Magic|Detect Magic]], [[DATABASE/spell/Detect Metal|Detect Metal]], [[DATABASE/spell/Detect Poison|Detect Poison]], [[DATABASE/spell/Detect Scrying|Detect Scrying]], [[DATABASE/spell/Discern Location|Discern Location]], [[DATABASE/spell/Guiding Star|Guiding Star]], [[DATABASE/spell/Know Direction|Know Direction]], [[DATABASE/spell/Know Location|Know Location]], [[DATABASE/spell/Locate|Locate]], [[DATABASE/spell/Mind Reading|Mind Reading]], [[DATABASE/spell/Read Aura|Read Aura]], [[DATABASE/spell/Show the Way|Show the Way]], [[DATABASE/spell/Spirit Sense|Spirit Sense]], [[DATABASE/spell/Status|Status]], [[DATABASE/spell/Web of Influence|Web of Influence]], [[DATABASE/spell/Ymeri's Mark|Ymeri's Mark]]

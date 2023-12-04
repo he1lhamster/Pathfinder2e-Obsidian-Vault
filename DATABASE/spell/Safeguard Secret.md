@@ -22,6 +22,7 @@ patron_theme: null
 range: 10 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -39,8 +40,8 @@ type: Focus
 # Safeguard Secret<span class="item-type">Focus 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Abjuration</span><span class="item-trait">Cleric</span><span class="item-trait">Mental</span>
-**Source** [[Core Rulebook]] 
-**Domain** [[Secrecy Domain]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Domain** [[DATABASE/domain/Secrecy Domain|secrecy]]
 **Cast** 1 minute (somatic, verbal)
 **Range** 10 feet; **Targets** you and any number of willing allies
 **Duration** 1 hour

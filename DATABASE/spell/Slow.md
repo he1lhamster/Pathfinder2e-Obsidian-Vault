@@ -24,6 +24,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Fortitude
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -41,10 +42,10 @@ type: Spell
 # Slow<span class="item-type">Spell 3</span>
 
 <span class="item-trait">Transmutation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult, primal
-**Bloodline** [[Demonic]]
-**Deities** [[Korada]], [[Lorthact]], [[Matravash]]
+**Bloodline** [[DATABASE/sorcererbloodline/Demonic|demonic]]
+**Deities** [[DATABASE/deity/Korada|Korada]], [[DATABASE/deity/Lorthact|Lorthact]], [[DATABASE/deity/Matravash|Matravash]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet; **Targets** 1 creature
 **Saving Throw** Fortitude; **Duration** 1 minute

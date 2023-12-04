@@ -21,6 +21,7 @@ patron_theme: null
 range: 30 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -41,7 +42,7 @@ type: Focus
 # Soothing Ballad<span class="item-type">Focus 7</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Bard</span><span class="item-trait">Composition</span><span class="item-trait">Emotion</span><span class="item-trait">Enchantment</span><span class="item-trait">Healing</span><span class="item-trait">Mental</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet; **Targets** you and up to 9 allies
 

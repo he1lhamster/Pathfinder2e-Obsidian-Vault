@@ -2,6 +2,7 @@
 id: '101'
 name: Linguistic
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Linguistic
@@ -10,33 +11,33 @@ type: Trait
 ---
 # Linguistic
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 An effect with this trait depends on language comprehension. A linguistic effect that targets a creature works only if the target understands the language you are using.
 
 ## Actions
 
-[[Bolster Confidence]], [[Coerce]], [[Forgive Foe]], [[Grim Swagger]], [[Influence]], [[Lie]], [[Make an Impression]], [[Pointed Question]], [[Rally]], [[Request]], [[Tell Campfire Story]]
+[[DATABASE/action/Bolster Confidence|Bolster Confidence]], [[DATABASE/action/Coerce|Coerce]], [[DATABASE/action/Forgive Foe|Forgive Foe]], [[DATABASE/action/Grim Swagger|Grim Swagger]], [[DATABASE/action/Influence|Influence]], [[DATABASE/action/Lie|Lie]], [[DATABASE/action/Make an Impression|Make an Impression]], [[DATABASE/action/Pointed Question|Pointed Question]], [[DATABASE/action/Rally|Rally]], [[DATABASE/action/Request|Request]], [[DATABASE/action/Tell Campfire Story|Tell Campfire Story]]
 
 ## Equipment
 
-[[Captivating Bauble]], [[Missive Mint]]
+[[DATABASE/equipment/Captivating Bauble|Captivating Bauble]], [[DATABASE/equipment/Missive Mint|Missive Mint]]
 
 ## Feats
 
-[[Annotate Composition]], [[Bon Mot]], [[Eerie Proclamation]], [[Encouraging Words]], [[Evangelize]], [[Grudging Compliment]], [[Inspired Stratagem]], [[Narrative Conduit]], [[No Cause for Alarm]], [[One for All]], [[Pistolero's Challenge]], [[Public Execution]], [[Read Shibboleths]], [[Rule of Three]], [[Spot Translate]], [[Whisper on the Wind]]
+[[DATABASE/feat/Annotate Composition|Annotate Composition]], [[DATABASE/feat/Bon Mot|Bon Mot]], [[DATABASE/feat/Eerie Proclamation|Eerie Proclamation]], [[DATABASE/feat/Encouraging Words|Encouraging Words]], [[DATABASE/feat/Evangelize|Evangelize]], [[DATABASE/feat/Grudging Compliment|Grudging Compliment]], [[DATABASE/feat/Inspired Stratagem|Inspired Stratagem]], [[DATABASE/feat/Narrative Conduit|Narrative Conduit]], [[DATABASE/feat/No Cause for Alarm|No Cause for Alarm]], [[DATABASE/feat/One for All|One for All]], [[DATABASE/feat/Pistolero's Challenge|Pistolero's Challenge]], [[DATABASE/feat/Public Execution|Public Execution]], [[DATABASE/feat/Read Shibboleths|Read Shibboleths]], [[DATABASE/feat/Rule of Three|Rule of Three]], [[DATABASE/feat/Spot Translate|Spot Translate]], [[DATABASE/feat/Whisper on the Wind|Whisper on the Wind]]
 
 ## Focus Spells
 
-[[Charming Words]], [[Sweet Dream]], [[Wind Whispers]]
+[[DATABASE/spell/Charming Words|Charming Words]], [[DATABASE/spell/Sweet Dream|Sweet Dream]], [[DATABASE/spell/Wind Whispers|Wind Whispers]]
 
 ## Rituals
 
-[[Asmodean Wager]], [[Tattoo Whispers]]
+[[DATABASE/ritual/Asmodean Wager|Asmodean Wager]], [[DATABASE/ritual/Tattoo Whispers|Tattoo Whispers]]
 
 ## Skills
 
-[[Intimidation]], [[Deception]], [[Diplomacy]], [[Diplomacy]]
+[[DATABASE/skill/Intimidation|Coerce]], [[DATABASE/skill/Deception|Lie]], [[DATABASE/skill/Diplomacy|Make an Impression]], [[DATABASE/skill/Diplomacy|Request]]
 
 ## Spells
 
-[[Biting Words]], [[Command]], [[Compel True Name]], [[Crusade]], [[Cutting Insult]], [[Excise Lexicon]], [[Girzanje's March]], [[Message]], [[Message Rune]], [[Mind Probe]], [[Subconscious Suggestion]], [[Suggestion]], [[Telepathic Demand]], [[Telepathy]]
+[[DATABASE/spell/Biting Words|Biting Words]], [[DATABASE/spell/Command|Command]], [[DATABASE/spell/Compel True Name|Compel True Name]], [[DATABASE/spell/Crusade|Crusade]], [[DATABASE/spell/Cutting Insult|Cutting Insult]], [[DATABASE/spell/Excise Lexicon|Excise Lexicon]], [[DATABASE/spell/Girzanje's March|Girzanje's March]], [[DATABASE/spell/Message|Message]], [[DATABASE/spell/Message Rune|Message Rune]], [[DATABASE/spell/Mind Probe|Mind Probe]], [[DATABASE/spell/Subconscious Suggestion|Subconscious Suggestion]], [[DATABASE/spell/Suggestion|Suggestion]], [[DATABASE/spell/Telepathic Demand|Telepathic Demand]], [[DATABASE/spell/Telepathy|Telepathy]]

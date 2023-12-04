@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
@@ -38,9 +39,9 @@ type: Cantrip
 # Warp Step<span class="item-type">Cantrip 1</span>
 
 <span class="item-trait">Cantrip</span><span class="item-trait">Conjuration</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Traditions** arcane, occult
 **Cast** <span class="action-icon">2</span> somatic, verbal
 
 ---
-When you walk, the earth warps beneath your feet—your steps extend, distance contracts, and everything is just a little bit closer. You gain a +5-foot status bonus to your Speed until the end of your turn. You then Stride twice. You can use warp step to [[Burrow]], [[Climb]], [[Fly]], or [[Swim]] instead of Stride if you have the corresponding movement type.
+When you walk, the earth warps beneath your feet—your steps extend, distance contracts, and everything is just a little bit closer. You gain a +5-foot status bonus to your Speed until the end of your turn. You then Stride twice. You can use warp step to [[DATABASE/action/Burrow|Burrow]], [[DATABASE/action/Climb|Climb]], [[DATABASE/action/Fly|Fly]], or [[DATABASE/action/Swim|Swim]] instead of Stride if you have the corresponding movement type.

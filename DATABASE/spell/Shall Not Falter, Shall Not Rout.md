@@ -20,6 +20,7 @@ patron_theme: null
 range: null
 rarity: Rare
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Legends|Legends]]'
@@ -36,7 +37,7 @@ type: Focus
 # Shall Not Falter, Shall Not Rout<span class="item-type">Focus 5</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Healing</span><span class="item-trait">Necromancy</span>
-**Source** [[Legends]]
+**Source** [[DATABASE/source/Legends|Legends]]
 **Cast** <span class="action-icon">1</span> verbal
 **Duration** 1 minute
 

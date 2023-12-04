@@ -25,6 +25,7 @@ patron_theme: null
 range: touch
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -44,9 +45,9 @@ type: Spell
 # Shadow Walk<span class="item-type">Spell 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Conjuration</span><span class="item-trait">Shadow</span><span class="item-trait">Teleportation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult
-**Deities** [[Count Ranalc]], [[Luhar]], [[Zon-Kuthon]]
+**Deities** [[DATABASE/deity/Count Ranalc|Count Ranalc]], [[DATABASE/deity/Luhar|Luhar]], [[DATABASE/deity/Zon-Kuthon|Zon-Kuthon]]
 **Cast** 1 minute (material, somatic, verbal)
 **Range** touch; **Targets** you and up to 9 willing creatures touched
 **Duration** 8 hours

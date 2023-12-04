@@ -20,6 +20,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
@@ -36,7 +37,7 @@ type: Focus
 # Unfolding Wind Buffet<span class="item-type">Focus 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Air</span><span class="item-trait">Evocation</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 **Cast** <span class="action-icon">2</span> verbal
 
 ---
@@ -44,4 +45,4 @@ You surround your unarmed attacks with the speed and force of air. Make three un
 **Critical Success** The target is unaffected.
 **Success** The target is pushed back half the normal distance.
 **Failure** The target is pushed back the normal distance.
-**Critical Failure** The target is pushed back double the normal distance and then knocked [[Prone]].
+**Critical Failure** The target is pushed back double the normal distance and then knocked [[DATABASE/condition/Prone|prone]].

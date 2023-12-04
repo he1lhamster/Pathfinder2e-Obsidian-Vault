@@ -2,6 +2,7 @@
 id: '86'
 name: Half-Orc
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Half-Orc
@@ -10,17 +11,17 @@ type: Trait
 ---
 # Half-Orc
 
-**Source** [[Core Rulebook]] 
-A creature with this trait is part [[Human]] and part [[Orc]]. An ability with this trait can be used or selected only by half-orcs.
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+A creature with this trait is part [[DATABASE/ancestry/Human|human]] and part [[DATABASE/ancestry/Orc|orc]]. An ability with this trait can be used or selected only by half-orcs.
 
 ## Ancestries
 
-[[Half-Orc]]
+[[DATABASE/ancestry/Half-Orc|Half-Orc]]
 
 ## Feats
 
-[[Monstrous Peacemaker]], [[Orc Sight]], [[Overlooked Mastermind]]
+[[DATABASE/feat/Monstrous Peacemaker|Monstrous Peacemaker]], [[DATABASE/feat/Orc Sight|Orc Sight]], [[DATABASE/feat/Overlooked Mastermind|Overlooked Mastermind]]
 
 ## NPCs
 
-[[Zane Ikundi]], [[Zhang Yong, Spirit Tender]]
+[[DATABASE/npc/Zane Ikundi|Zane Ikundi]], [[DATABASE/npc/Zhang Yong, Spirit Tender|Zhang Yong]]

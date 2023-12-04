@@ -19,6 +19,7 @@ patron_theme: null
 range: 500 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: basicReflex
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
@@ -39,7 +40,7 @@ type: Spell
 # Rainbow Fumarole<span class="item-type">Spell 8</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Fire</span><span class="item-trait">Incapacitation</span><span class="item-trait">Light</span><span class="item-trait">Manipulate</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Traditions** arcane, primal
 **Cast** <span class="action-icon">3</span> 
 **Range** 500 feet; **Area** 20-foot radius, 60-foot-tall cylinder
@@ -51,13 +52,14 @@ Multi-hued flames break through cracks in the ground, reaching high into the sky
 
 ## 
 
-|   1d8 | Color   | Damage                                                                                                                                                       | Added Effect                                           |
-|------:|:--------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------|
-|     1 | Red     | 50 fire plus 2d6 [[Persistent Damage]]                                                                                    | —                                                      |
-|     2 | Orange  | 50 fire                                                                                                                                                      | Knocked [[Prone]]             |
-|     3 | Yellow  | 30 fire plus 20 bludgeoning                                                                                                                                  | Pushed 10 feet                                         |
-|     4 | Green   | 20 fire plus 20 acid                                                                                                                                         | [[Sickened]]             |
-|     5 | Blue    | 30 fire                                                                                                                                                      | [[Paralyzed]] for 1 round |
-|     6 | Indigo  | 30 fire                                                                                                                                                      | [[Confused]] for 1 minute  |
-|     7 | Violet  | 30 fire                                                                                                                                                      | [[Slowed]] for 1 minute    |
-|     8 | All     | Choose the color for each affected creature and use that color's damage and added effect; if a creature is affected again, you can choose a different color. | —                                                      |
+| 0 | 1 | 2 | 3 |
+|:----|:-------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------|
+| 1d8 | Color | Damage | Added Effect |
+| 1 | Red | 50 fire plus 2d6 [[Persistent Damage]] | — |
+| 2 | Orange | 50 fire | Knocked [[Prone]] |
+| 3 | Yellow | 30 fire plus 20 bludgeoning | Pushed 10 feet |
+| 4 | Green | 20 fire plus 20 acid | [[Sickened]] |
+| 5 | Blue | 30 fire | [[Paralyzed]] for 1 round |
+| 6 | Indigo | 30 fire | [[Confused]] for 1 minute |
+| 7 | Violet | 30 fire | [[Slowed]] for 1 minute |
+| 8 | All | Choose the color for each affected creature and use that color's damage and added effect; if a creature is affected again, you can choose a different color. | — |

@@ -27,6 +27,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -44,9 +45,9 @@ type: Spell
 # Shattering Gem<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Earth</span>
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Traditions** arcane, primal
-**Deities** [[Ashukharma]], [[Mammon]], [[Sairazul]], [[The Resplendent Court]], [[Yuelral]]
+**Deities** [[DATABASE/deity/Ashukharma|Ashukharma]], [[DATABASE/deity/Mammon|Mammon]], [[DATABASE/deity/Sairazul|Sairazul]], [[DATABASE/deity/The Resplendent Court|The Resplendent Court]], [[DATABASE/deity/Yuelral|Yuelral]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** touch; **Targets** 1 creature
 **Duration** 1 minute

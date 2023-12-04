@@ -21,6 +21,7 @@ patron_theme: null
 range: 30 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: Reflex
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -39,7 +40,7 @@ type: Focus
 # Tempest Surge<span class="item-type">Focus 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Air</span><span class="item-trait">Druid</span><span class="item-trait">Electricity</span><span class="item-trait">Evocation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet; **Targets** 1 creature
 **Saving Throw** Reflex

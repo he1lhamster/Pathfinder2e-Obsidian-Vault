@@ -21,6 +21,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/World Guide|World Guide]]'
@@ -40,7 +41,7 @@ type: Spell
 # Snowball<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Attack</span><span class="item-trait">Cold</span><span class="item-trait">Evocation</span><span class="item-trait">Water</span>
-**Source** [[World Guide]] 
+**Source** [[DATABASE/source/World Guide|World Guide]] 
 **Traditions** arcane, primal
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet; **Targets** 1 creature

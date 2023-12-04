@@ -2,6 +2,7 @@
 id: '347'
 name: Climbing
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Azarketi Ancestry Web Supplement|Azarketi Ancestry Web
   Supplement]]'
 trait:
@@ -11,9 +12,9 @@ type: Trait
 ---
 # Climbing
 
-**Source** [[Azarketi Ancestry Web Supplement]]
-The hand holding this weapon is freely available to [[Climb]].
+**Source** [[DATABASE/source/Azarketi Ancestry Web Supplement|Azarketi Ancestry Web Supplement]]
+The hand holding this weapon is freely available to [[DATABASE/action/Climb|Climb]].
 
 ## Weapons
 
-[[Boarding Axe]]
+[[DATABASE/weapon/Boarding Axe|Boarding Axe]]

@@ -24,6 +24,7 @@ patron_theme: null
 range: see text
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -42,10 +43,10 @@ type: Spell
 # Prying Eye<span class="item-type">Spell 5</span>
 
 <span class="item-trait">Divination</span><span class="item-trait">Scrying</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, divine, occult
-**Bloodline** [[Imperial]]
-**Deities** [[Followers of Fate]], [[Nethys]]
+**Bloodline** [[DATABASE/sorcererbloodline/Imperial|imperial]]
+**Deities** [[DATABASE/deity/Followers of Fate|Followers of Fate]], [[DATABASE/deity/Nethys|Nethys]]
 **Cast** 1 minute (material, somatic, verbal)
 **Range** see text
 **Duration** sustained

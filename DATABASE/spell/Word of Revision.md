@@ -20,6 +20,7 @@ patron_theme: null
 range: 60 feet
 rarity: Rare
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
@@ -39,7 +40,7 @@ type: Spell
 # Word of Revision<span class="item-type">Spell 6</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Divination</span><span class="item-trait">Fortune</span>
-**Source** [[Kingmaker Companion Guide]]
+**Source** [[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]
 **Traditions** arcane, occult
 **Cast** <span class="action-icon">5</span> verbal; **Trigger** A creature within range fails or critically fails a saving throw or is reduced to 0 Hit Points
 **Range** 60 feet; **Targets** 1 creature

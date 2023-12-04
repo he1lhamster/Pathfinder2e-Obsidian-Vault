@@ -22,6 +22,7 @@ patron_theme: null
 range: touch
 rarity: Rare
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
@@ -39,15 +40,15 @@ type: Spell
 # Transcribe Conflict<span class="item-type">Spell 3</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Divination</span>
-**Source** [[Kingmaker Companion Guide]]
+**Source** [[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]
 **Traditions** arcane, occult
 **Cast** 1 minute (material, somatic, verbal)
 **Range** touch
 **Duration** 1 hour
 
 ---
-You cause a sheet of paper to appear in your hand, and a moment later a detailed description of a combat you experienced within the last hour is recorded on that sheet of paper in a language that you know of your choice. The description is detailed enough that anyone who spends 1 minute reading the page can attempt to [[Recall Knowledge]] about the event as if they had been there, but the primary purpose of the transcribed conflict is to give you additional insight into the fight by allowing you to study the conflict and learn from errors or tactical blunders participants in the battle may have committed.
- When you cast this spell, choose a type of foe in the fight you transcribed and attempt to Recall Knowledge about that foe using your spell DC–10 instead of your skill modifier in an appropriate skill to do so. For this action, you can't use any special abilities, reactions, or free actions that trigger when you Recall Knowledge. If you are successful, you not only learn information about that foe as determined by the GM, but for the remainder of _transcribe conflict's_ duration, you gain a +1 status bonus to Initiative checks in combats where you face that exact kind of foe. For example, if you made the check against a [[Vrock (Wrath Demon)]], the bonus would apply only to wrath demons, not to other [[Demon]]. The GM decides if a foe who is disguised grants you this bonus.
+You cause a sheet of paper to appear in your hand, and a moment later a detailed description of a combat you experienced within the last hour is recorded on that sheet of paper in a language that you know of your choice. The description is detailed enough that anyone who spends 1 minute reading the page can attempt to [[DATABASE/action/Recall Knowledge|Recall Knowledge]] about the event as if they had been there, but the primary purpose of the transcribed conflict is to give you additional insight into the fight by allowing you to study the conflict and learn from errors or tactical blunders participants in the battle may have committed.
+ When you cast this spell, choose a type of foe in the fight you transcribed and attempt to Recall Knowledge about that foe using your spell DC–10 instead of your skill modifier in an appropriate skill to do so. For this action, you can't use any special abilities, reactions, or free actions that trigger when you Recall Knowledge. If you are successful, you not only learn information about that foe as determined by the GM, but for the remainder of _transcribe conflict's_ duration, you gain a +1 status bonus to Initiative checks in combats where you face that exact kind of foe. For example, if you made the check against a [[DATABASE/monster/Vrock (Wrath Demon)|wrath demon]], the bonus would apply only to wrath demons, not to other [[DATABASE/monsterfamily/Demon|demons]]. The GM decides if a foe who is disguised grants you this bonus.
 
 ---
 **Heightened (5th)** The bonus to initiative increases to +2 and the duration increases to 8 hours.

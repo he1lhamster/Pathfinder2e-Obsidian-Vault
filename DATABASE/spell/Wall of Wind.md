@@ -24,6 +24,7 @@ patron_theme: null
 range: 120 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -41,10 +42,10 @@ type: Spell
 # Wall of Wind<span class="item-type">Spell 3</span>
 
 <span class="item-trait">Air</span><span class="item-trait">Evocation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, primal
-**Deities** [[General Susumu]], [[Horus]]
-**Lesson** [[Lesson of Snow]]
+**Deities** [[DATABASE/deity/General Susumu|General Susumu]], [[DATABASE/deity/Horus|Horus]]
+**Lesson** [[DATABASE/witchlesson/Lesson of Snow|lesson of snow]]
 **Cast** <span class="action-icon">3</span> material, somatic, verbal
 **Range** 120 feet
 **Duration** 1 minute

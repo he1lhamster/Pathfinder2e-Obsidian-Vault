@@ -2,6 +2,7 @@
 id: '465'
 name: Camping
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 trait:
 - Camping
@@ -10,9 +11,8 @@ type: Trait
 ---
 # Camping
 
-**Source** [[Kingmaker Companion Guide]]
-_Note from Nethys: no description was provided for this trait_
+**Source** [[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]
 
 ## Actions
 
-[[Blend into the Night]], [[Bolster Confidence]], [[Camouflage Campsite]], [[Camp Management]], [[Cook Basic Meal]], [[Cook Special Meal]], [[Dawnflower's Blessing]], [[Discover Special Meal]], [[Enhance Campfire]], [[Enhance Weapons]], [[Hunt and Gather]], [[Intimidating Posture]], [[Learn from a Companion]], [[Maintain Armor]], [[Organize Watch]], [[Provide Aid]], [[Relax]], [[Set Alarms]], [[Set Traps]], [[Tell Campfire Story]], [[Undead Guardians]], [[Water Hazards]], [[Wilderness Survival]]
+[[DATABASE/action/Blend into the Night|Blend into the Night]], [[DATABASE/action/Bolster Confidence|Bolster Confidence]], [[DATABASE/action/Camouflage Campsite|Camouflage Campsite]], [[DATABASE/action/Camp Management|Camp Management]], [[DATABASE/action/Cook Basic Meal|Cook Basic Meal]], [[DATABASE/action/Cook Special Meal|Cook Special Meal]], [[DATABASE/action/Dawnflower's Blessing|Dawnflower's Blessing]], [[DATABASE/action/Discover Special Meal|Discover Special Meal]], [[DATABASE/action/Enhance Campfire|Enhance Campfire]], [[DATABASE/action/Enhance Weapons|Enhance Weapons]], [[DATABASE/action/Hunt and Gather|Hunt and Gather]], [[DATABASE/action/Intimidating Posture|Intimidating Posture]], [[DATABASE/action/Learn from a Companion|Learn from a Companion]], [[DATABASE/action/Maintain Armor|Maintain Armor]], [[DATABASE/action/Organize Watch|Organize Watch]], [[DATABASE/action/Provide Aid|Provide Aid]], [[DATABASE/action/Relax|Relax]], [[DATABASE/action/Set Alarms|Set Alarms]], [[DATABASE/action/Set Traps|Set Traps]], [[DATABASE/action/Tell Campfire Story|Tell Campfire Story]], [[DATABASE/action/Undead Guardians|Undead Guardians]], [[DATABASE/action/Water Hazards|Water Hazards]], [[DATABASE/action/Wilderness Survival|Wilderness Survival]]

@@ -21,6 +21,7 @@ patron_theme: null
 range: 500 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Reflex
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -40,7 +41,7 @@ type: Spell
 # Sunburst<span class="item-type">Spell 7</span>
 
 <span class="item-trait">Evocation</span><span class="item-trait">Fire</span><span class="item-trait">Light</span><span class="item-trait">Positive</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** divine, primal
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 500 feet; **Area** 60-foot burst
@@ -51,7 +52,7 @@ A powerful globe of searing sunlight explodes in the area, dealing 8d10 fire dam
 **Critical Success** The creature is unaffected.
 **Success** The creature takes half damage.
 **Failure** The creature takes full damage.
-**Critical Failure** The creature takes full damage and becomes [[Blinded]] permanently.
+**Critical Failure** The creature takes full damage and becomes [[DATABASE/condition/Blinded|blinded]] permanently.
  If the globe overlaps with an area of magical darkness, _sunburst_ attempts to counteract the darkness effect.
 
 ---

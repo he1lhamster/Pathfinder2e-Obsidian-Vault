@@ -21,6 +21,7 @@ patron_theme: null
 range: 120 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -41,9 +42,9 @@ type: Spell
 # Searing Light<span class="item-type">Spell 3</span>
 
 <span class="item-trait">Attack</span><span class="item-trait">Evocation</span><span class="item-trait">Fire</span><span class="item-trait">Good</span><span class="item-trait">Light</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** divine, primal
-**Bloodlines** [[Angelic]], [[Psychopomp]]
+**Bloodlines** [[DATABASE/sorcererbloodline/Angelic|angelic]], [[DATABASE/sorcererbloodline/Psychopomp|psychopomp]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 120 feet; **Targets** 1 creature
 

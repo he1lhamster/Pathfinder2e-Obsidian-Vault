@@ -20,6 +20,7 @@ patron_theme: null
 range: 60 feet
 rarity: Rare
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
@@ -37,8 +38,8 @@ type: Focus
 # String of Fate<span class="item-type">Focus 1</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Abjuration</span><span class="item-trait">Cleric</span><span class="item-trait">Fortune</span>
-**Source** [[Dark Archive]]
-**Domain** [[Fate Domain]] (apocryphal)
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Domain** [[DATABASE/domain/Fate Domain|fate]] (apocryphal)
 **Cast** <span class="action-icon">1</span> somatic
 **Range** 60 feet; **Targets** you and 1 ally
 **Duration** sustained up to 1 minute

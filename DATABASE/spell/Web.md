@@ -23,6 +23,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -39,9 +40,9 @@ type: Spell
 # Web<span class="item-type">Spell 2</span>
 
 <span class="item-trait">Conjuration</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, primal
-**Deity** [[Grandmother Spider]]
+**Deity** [[DATABASE/deity/Grandmother Spider|Grandmother Spider]]
 **Cast** <span class="action-icon">3</span> material, somatic, verbal
 **Range** 30 feet; **Area** 10-foot burst
 **Duration** 1 minute

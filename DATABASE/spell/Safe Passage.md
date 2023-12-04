@@ -22,6 +22,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
@@ -40,7 +41,7 @@ type: Spell
 # Safe Passage<span class="item-type">Spell 3</span>
 
 <span class="item-trait">Abjuration</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Traditions** arcane, divine, primal
 **Spell List** elemental
 **Cast** <span class="action-icon">3</span> material, somatic, verbal
@@ -49,7 +50,7 @@ type: Spell
 
 ---
 You repel dangers from all around you, making passage through the chosen area safe for a brief amount of time. Anyone passing through the area gains the following benefits against harmful effects of the terrain and environment, including environmental damage, hazardous terrain, and hazards in the area. The spell grants a +2 status bonus to AC and saves against such effects, and resistance 5 to all damage from such effects. Furthermore, the spell prevents anything in the area that's prone to collapse, such as a rickety bridge or an unstable ceiling, from collapsing, except under extreme strain that would collapse a normal structure of its type.
- _Safe passage_ protects only against harm, not inconvenience, and it doesn't reduce difficult terrain, remove the [[Concealed]] condition caused by precipitation, or the like, nor does it protect against creatures within the spell's area.
+ _Safe passage_ protects only against harm, not inconvenience, and it doesn't reduce difficult terrain, remove the [[DATABASE/condition/Concealed|concealed]] condition caused by precipitation, or the like, nor does it protect against creatures within the spell's area.
 
 ---
 **Heightened (5th)** The granted resistance increases to 10, and the area can be 120 feet long.

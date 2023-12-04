@@ -19,6 +19,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: basicReflex
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
@@ -38,14 +39,14 @@ type: Cantrip
 # Timber<span class="item-type">Cantrip 1</span>
 
 <span class="item-trait">Cantrip</span><span class="item-trait">Concentrate</span><span class="item-trait">Manipulate</span><span class="item-trait">Wood</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Traditions** arcane, primal
 **Cast** <span class="action-icon">2</span> 
 **Area** 15-foot line
 **Defense** basic Reflex
 
 ---
-You create a small dead tree in your space that falls over on anyone in its path, then immediately decomposes. Any creature in the area takes 2d4 bludgeoning damage, with a basic Reflex saving throw. A creature that critically fails its save is knocked for a loop, making it [[Dazzled]] until the end of its next turn.
+You create a small dead tree in your space that falls over on anyone in its path, then immediately decomposes. Any creature in the area takes 2d4 bludgeoning damage, with a basic Reflex saving throw. A creature that critically fails its save is knocked for a loop, making it [[DATABASE/condition/Dazzled|dazzled]] until the end of its next turn.
 
 ---
 **Heightened (+1)** The initial damage increases by 1d4.

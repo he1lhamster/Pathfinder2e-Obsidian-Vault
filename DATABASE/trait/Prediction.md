@@ -2,6 +2,7 @@
 id: '132'
 name: Prediction
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Prediction
@@ -10,25 +11,25 @@ type: Trait
 ---
 # Prediction
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Effects with this trait determine what is likely to happen in the near future. Most predictions are divinations.
 
 ## Equipment
 
-[[Wand of Dumbfounding Doom]]
+[[DATABASE/equipment/Wand of Dumbfounding Doom|Wand of Dumbfounding Doom]]
 
 ## Feats
 
-[[Plot the Future]], [[Read Disaster]]
+[[DATABASE/feat/Plot the Future|Plot the Future]], [[DATABASE/feat/Read Disaster|Read Disaster]]
 
 ## Focus Spells
 
-[[Cinder Gaze]], [[Read Fate]], [[Rewrite Possibility]]
+[[DATABASE/spell/Cinder Gaze|Cinder Gaze]], [[DATABASE/spell/Read Fate|Read Fate]], [[DATABASE/spell/Rewrite Possibility|Rewrite Possibility]]
 
 ## Rituals
 
-[[Commune]], [[Commune with Nature]]
+[[DATABASE/ritual/Commune|Commune]], [[DATABASE/ritual/Commune with Nature|Commune with Nature]]
 
 ## Spells
 
-[[Augury]], [[Behold the Weave]], [[Foresight]], [[Heinous Future]], [[Impending Doom]], [[Inevitable Disaster]], [[Perseis's Precautions]], [[Read Omens]], [[Suspended Retribution]], [[True Target]]
+[[DATABASE/spell/Augury|Augury]], [[DATABASE/spell/Behold the Weave|Behold the Weave]], [[DATABASE/spell/Foresight|Foresight]], [[DATABASE/spell/Heinous Future|Heinous Future]], [[DATABASE/spell/Impending Doom|Impending Doom]], [[DATABASE/spell/Inevitable Disaster|Inevitable Disaster]], [[DATABASE/spell/Perseis's Precautions|Perseis's Precautions]], [[DATABASE/spell/Read Omens|Read Omens]], [[DATABASE/spell/Suspended Retribution|Suspended Retribution]], [[DATABASE/spell/True Target|True Target]]

@@ -22,6 +22,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -39,9 +40,9 @@ type: Spell
 # Protector Tree<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Conjuration</span><span class="item-trait">Plant</span><span class="item-trait">Wood</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Traditions** primal
-**Deity** [[Verilorn]]
+**Deity** [[DATABASE/deity/Verilorn|Verilorn]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet
 **Duration** 1 minute

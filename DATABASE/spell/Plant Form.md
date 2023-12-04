@@ -25,6 +25,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -42,9 +43,9 @@ type: Spell
 # Plant Form<span class="item-type">Spell 5</span>
 
 <span class="item-trait">Plant</span><span class="item-trait">Polymorph</span><span class="item-trait">Transmutation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** primal
-**Deities** [[Cyth-V'sug]], [[Immonhiel]], [[Shumunue]], [[The Green Mother]]
+**Deities** [[DATABASE/deity/Cyth-V'sug|Cyth-V'sug]], [[DATABASE/deity/Immonhiel|Immonhiel]], [[DATABASE/deity/Shumunue|Shumunue]], [[DATABASE/deity/The Green Mother|The Green Mother]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Duration** 1 minute
 
@@ -56,8 +57,8 @@ Taking inspiration from verdant creatures, you transform into a Large plant batt
 * 12 temporary Hit Points. 
 * Resistance 10 to poison. 
 * Low-light vision. 
-* One or more unarmed melee attacks specific to the battle form you choose, which are the only attacks you can use. You're trained with them. Your attack modifier is +17, and your damage bonus is +11. These attacks are Strength based (for the purpose of the [[Enfeebled]] condition, for example). If your unarmed attack modifier is higher, you can use it instead. 
-* [[Athletics]] modifier of +19, unless your own modifier is higher.
+* One or more unarmed melee attacks specific to the battle form you choose, which are the only attacks you can use. You're trained with them. Your attack modifier is +17, and your damage bonus is +11. These attacks are Strength based (for the purpose of the [[DATABASE/condition/Enfeebled|enfeebled]] condition, for example). If your unarmed attack modifier is higher, you can use it instead. 
+* [[DATABASE/skill/Athletics|Athletics]] modifier of +19, unless your own modifier is higher.
 
 You also gain specific abilities based on the type of plant you choose:
 

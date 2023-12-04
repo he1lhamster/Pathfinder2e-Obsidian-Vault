@@ -21,6 +21,7 @@ patron_theme: null
 range: 30 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -39,8 +40,8 @@ type: Focus
 # Unity<span class="item-type">Focus 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Abjuration</span><span class="item-trait">Cleric</span><span class="item-trait">Fortune</span>
-**Source** [[Core Rulebook]] 
-**Domain** [[Family Domain]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Domain** [[DATABASE/domain/Family Domain|family]]
 **Cast** <span class="action-icon">5</span> verbal; **Trigger** You and 1 or more allies within range are targeted by a spell or ability that allows a saving throw.
 **Range** 30 feet; **Targets** each ally targeted by the triggering spell
 

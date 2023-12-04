@@ -19,6 +19,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
@@ -37,7 +38,7 @@ type: Spell
 # Wooden Double<span class="item-type">Spell 3</span>
 
 <span class="item-trait">Manipulate</span><span class="item-trait">Wood</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Traditions** arcane, occult, primal
 **Cast** <span class="action-icon">5</span> ; **Trigger** You're critically hit by a damage-dealing effect or Strike
 

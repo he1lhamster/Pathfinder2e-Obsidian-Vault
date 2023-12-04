@@ -21,6 +21,7 @@ patron_theme: null
 range: 120 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: Reflex
 school: Evocation
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
@@ -41,7 +42,7 @@ type: Spell
 # Scouring Pulse<span class="item-type">Spell 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Evocation</span><span class="item-trait">Light</span><span class="item-trait">Positive</span>
-**Source** [[Knights of Lastwall]]
+**Source** [[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]
 **Access** Knights of Lastwall have access to this spell.
 **Traditions** arcane, divine, occult
 **Cast** <span class="action-icon">2</span> somatic, verbal
@@ -49,7 +50,7 @@ type: Spell
 **Saving Throw** Reflex
 
 ---
-You inundate the area with concentrated positive energy, which scours away the stain of undeath. Each creature in the area takes 6d8 positive damage and must attempt a basic Reflex save. Creatures that fail the save also take 1d8 [[Persistent Damage]]. Creatures that take persistent positive damage from _scouring pulse_ are wreathed in a heatless halo of light. They emit bright light in a 5-foot radius preventing them from being [[Concealed]]; if the creature is [[Invisible]], they're concealed while affected by scouring pulse, rather than being [[Undetected]].
+You inundate the area with concentrated positive energy, which scours away the stain of undeath. Each creature in the area takes 6d8 positive damage and must attempt a basic Reflex save. Creatures that fail the save also take 1d8 [[DATABASE/condition/Persistent Damage|persistent positive damage]]. Creatures that take persistent positive damage from _scouring pulse_ are wreathed in a heatless halo of light. They emit bright light in a 5-foot radius preventing them from being [[DATABASE/condition/Concealed|concealed]]; if the creature is [[DATABASE/condition/Invisible|invisible]], they're concealed while affected by scouring pulse, rather than being [[DATABASE/condition/Undetected|undetected]].
 
 ---
 **Heightened (8th)** The positive damage increases to 9d8 damage, and the persistent positive damage increases to 2d8. Creatures remain suffused in light for 1d4 additional rounds after removing the persistent positive damage.

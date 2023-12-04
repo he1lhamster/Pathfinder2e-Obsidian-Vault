@@ -21,6 +21,7 @@ patron_theme: null
 range: 30 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie Feast]]'
@@ -40,7 +41,7 @@ type: Spell
 # Vicious Jealousy<span class="item-type">Spell 2</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Enchantment</span><span class="item-trait">Mental</span>
-**Source** [[Pathfinder 181. Zombie Feast]]
+**Source** [[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie Feast]]
 **Traditions** arcane, divine, occult
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet; **Targets** 1 creature
@@ -50,7 +51,7 @@ type: Spell
 The target is overcome by deep jealousy and resentment that twists its mind against other creatures. It must attempt a Will save.
 **Critical Success** The target is unaffected.
 **Success** For 1 round, the target no longer treats anyone as its allies. The spell then ends.
-**Failure** The target no longer treats anyone as its allies. The target can't take the [[Aid]] reaction or any action that would directly benefit another creature, such as casting a beneficial spell on them, though it can still take actions that indirectly benefit other creatures, such as fighting the same foes.
+**Failure** The target no longer treats anyone as its allies. The target can't take the [[DATABASE/action/Aid|Aid]] reaction or any action that would directly benefit another creature, such as casting a beneficial spell on them, though it can still take actions that indirectly benefit other creatures, such as fighting the same foes.
 **Critical Failure** As failure, and whenever the target starts its turn within reach of a creature it previously considered an ally, it must spend its first action on its turn to berate the creature or otherwise wave it away.
 
 ---

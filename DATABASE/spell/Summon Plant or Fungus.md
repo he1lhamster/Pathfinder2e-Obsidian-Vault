@@ -26,6 +26,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -41,15 +42,15 @@ type: Spell
 # Summon Plant or Fungus<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Conjuration</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** primal
-**Deities** [[Cyth-V'sug]], [[Green Man]], [[Halcamora]], [[Xhamen-Dor]]
+**Deities** [[DATABASE/deity/Cyth-V'sug|Cyth-V'sug]], [[DATABASE/deity/Green Man|Green Man]], [[DATABASE/deity/Halcamora|Halcamora]], [[DATABASE/deity/Xhamen-Dor|Xhamen-Dor]]
 **Cast** <span class="action-icon">3</span> material, somatic, verbal
 **Range** 30 feet
 **Duration** sustained up to 1 minute
 
 ---
-You conjure a plant or fungus to fight for you. This works like [[Summon Animal]], except you summon a common creature that has the plant or fungus trait and whose level is –1, such as those below.
+You conjure a plant or fungus to fight for you. This works like [[DATABASE/spell/Summon Animal|summon animal]], except you summon a common creature that has the plant or fungus trait and whose level is –1, such as those below.
 
 ---
 **Heightened (2nd)** Level 1.
@@ -64,64 +65,64 @@ You conjure a plant or fungus to fight for you. This works like [[Summon Animal]
 
 ## Level -1 Plants and Fungis
 
-[[Yellow Musk Thrall]] (N)
+[[DATABASE/monster/Yellow Musk Thrall|Yellow Musk Thrall]] (N)
 
 ## Level 0 Plants and Fungis
 
-[[Leaf Leshy]] (N), [[Vine Lasher]] (N), [[Vine Leshy]] (N), [[Wood Wisp]]
+[[DATABASE/monster/Leaf Leshy|Leaf Leshy]] (N), [[DATABASE/monster/Vine Lasher|Vine Lasher]] (N), [[DATABASE/monster/Vine Leshy|Vine Leshy]] (N), [[DATABASE/monster/Wood Wisp|Wood Wisp]]
 
 ## Level 1 Plants and Fungis
 
-[[Gourd Leshy]] (N), [[Sunflower Leshy]] (N), [[Vegetable Lamb]] , [[Wood Scamp]]
+[[DATABASE/monster/Gourd Leshy|Gourd Leshy]] (N), [[DATABASE/monster/Sunflower Leshy|Sunflower Leshy]] (N), [[DATABASE/monster/Vegetable Lamb|Vegetable Lamb]] , [[DATABASE/monster/Wood Scamp|Wood Scamp]]
 
 ## Level 2 Plants and Fungis
 
-[[Bloodlash Bush]] (N), [[Cactus Leshy]] (N), [[Fungus Leshy]] (N), [[Moss Sloth]] , [[Slime Mold]] (N), [[Stinkweed Shambler]] (NE), [[Yellow Musk Brute]] (N), [[Yellow Musk Creeper]] (N)
+[[DATABASE/monster/Bloodlash Bush|Bloodlash Bush]] (N), [[DATABASE/monster/Cactus Leshy|Cactus Leshy]] (N), [[DATABASE/monster/Fungus Leshy|Fungus Leshy]] (N), [[DATABASE/monster/Moss Sloth|Moss Sloth]] , [[DATABASE/monster/Slime Mold|Slime Mold]] (N), [[DATABASE/monster/Stinkweed Shambler|Stinkweed Shambler]] (NE), [[DATABASE/monster/Yellow Musk Brute|Yellow Musk Brute]] (N), [[DATABASE/monster/Yellow Musk Creeper|Yellow Musk Creeper]] (N)
 
 ## Level 3 Plants and Fungis
 
-[[Assassin Vine]] (N), [[Dryad]] (CG), [[Nursery Crawler]] , [[Seaweed Leshy]] (N), [[Snapping Flytrap]] (N), [[Twigjack]] (CE), [[Violet Fungus]] (N)
+[[DATABASE/monster/Assassin Vine|Assassin Vine]] (N), [[DATABASE/monster/Dryad|Dryad]] (CG), [[DATABASE/monster/Nursery Crawler|Nursery Crawler]] , [[DATABASE/monster/Seaweed Leshy|Seaweed Leshy]] (N), [[DATABASE/monster/Snapping Flytrap|Snapping Flytrap]] (N), [[DATABASE/monster/Twigjack|Twigjack]] (CE), [[DATABASE/monster/Violet Fungus|Violet Fungus]] (N)
 
 ## Level 4 Plants and Fungis
 
-[[Arboreal Warden]] (NG), [[Calathgar]] (N), [[Flytrap Leshy]] (N), [[Mandragora]] (CE), [[Myceloid]] (NE), [[Whipping Willow]]
+[[DATABASE/monster/Arboreal Warden|Arboreal Warden]] (NG), [[DATABASE/monster/Calathgar|Calathgar]] (N), [[DATABASE/monster/Flytrap Leshy|Flytrap Leshy]] (N), [[DATABASE/monster/Mandragora|Mandragora]] (CE), [[DATABASE/monster/Myceloid|Myceloid]] (NE), [[DATABASE/monster/Whipping Willow|Whipping Willow]]
 
 ## Level 5 Plants and Fungis
 
-[[Basidirond]] (N), [[Living Grove]] , [[Wizard Sponge]] (N)
+[[DATABASE/monster/Basidirond|Basidirond]] (N), [[DATABASE/monster/Living Grove|Living Grove]] , [[DATABASE/monster/Wizard Sponge|Wizard Sponge]] (N)
 
 ## Level 6 Plants and Fungis
 
-[[Awakened Tree]] (N), [[Carved Beast]] , [[Scythe Tree]] (CE), [[Shambler]] (N)
+[[DATABASE/monster/Awakened Tree|Awakened Tree]] (N), [[DATABASE/monster/Carved Beast|Carved Beast]] , [[DATABASE/monster/Scythe Tree|Scythe Tree]] (CE), [[DATABASE/monster/Shambler|Shambler]] (N)
 
 ## Level 7 Plants and Fungis
 
-[[Arboreal Reaper]] (N), [[Pine Pangolin]] , [[Tendriculos]] (N)
+[[DATABASE/monster/Arboreal Reaper|Arboreal Reaper]] (N), [[DATABASE/monster/Pine Pangolin|Pine Pangolin]] , [[DATABASE/monster/Tendriculos|Tendriculos]] (N)
 
 ## Level 8 Plants and Fungis
 
-[[Arboreal Regent]] (NG), [[Snapdrake]]
+[[DATABASE/monster/Arboreal Regent|Arboreal Regent]] (NG), [[DATABASE/monster/Snapdrake|Snapdrake]]
 
 ## Level 9 Plants and Fungis
 
-[[Drakauthix]] (N), [[Painted Stag]]
+[[DATABASE/monster/Drakauthix|Drakauthix]] (N), [[DATABASE/monster/Painted Stag|Painted Stag]]
 
 ## Level 10 Plants and Fungis
 
-[[Counteflora]] (N), [[Dezullon]] (N), [[Giant Flytrap]] (N)
+[[DATABASE/monster/Counteflora|Counteflora]] (N), [[DATABASE/monster/Dezullon|Dezullon]] (N), [[DATABASE/monster/Giant Flytrap|Giant Flytrap]] (N)
 
 ## Level 11 Plants and Fungis
 
-[[Elemental Thicket]]
+[[DATABASE/monster/Elemental Thicket|Elemental Thicket]]
 
 ## Level 12 Plants and Fungis
 
-[[Arboreal Archive]] (NG)
+[[DATABASE/monster/Arboreal Archive|Arboreal Archive]] (NG)
 
 ## Level 13 Plants and Fungis
 
-[[Twins of Rowan]] , [[Viper Vine]] (N)
+[[DATABASE/monster/Twins of Rowan|Twins of Rowan]] , [[DATABASE/monster/Viper Vine|Viper Vine]] (N)
 
 ## Level 15 Plants and Fungis
 
-[[Wemmuth]] (NE)
+[[DATABASE/monster/Wemmuth|Wemmuth]] (NE)

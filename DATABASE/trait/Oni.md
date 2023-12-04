@@ -2,6 +2,7 @@
 id: '303'
 name: Oni
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 trait:
 - Oni
@@ -10,9 +11,9 @@ type: Trait
 ---
 # Oni
 
-**Source** [[Bestiary 2]] 
+**Source** [[DATABASE/source/Bestiary 2|Bestiary 2]] 
 Oni are a family of fiends who dwell on the Material Plane and take monstrous forms based on humanoid shapes.
 
 ## Monsters
 
-[[Fire Yai]], [[Ice Yai]], [[Onidoshi]], [[Shadow Yai]], [[Taiga Yai]], [[Water Yai]]
+[[DATABASE/monster/Fire Yai|Fire Yai]], [[DATABASE/monster/Ice Yai|Ice Yai]], [[DATABASE/monster/Onidoshi|Onidoshi]], [[DATABASE/monster/Shadow Yai|Shadow Yai]], [[DATABASE/monster/Taiga Yai|Taiga Yai]], [[DATABASE/monster/Water Yai|Water Yai]]

@@ -22,6 +22,7 @@ patron_theme: null
 range: 120 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -40,9 +41,9 @@ type: Spell
 # Scintillating Pattern<span class="item-type">Spell 8</span>
 
 <span class="item-trait">Illusion</span><span class="item-trait">Incapacitation</span><span class="item-trait">Visual</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult
-**Deity** [[Nalinivati]]
+**Deity** [[DATABASE/deity/Nalinivati|Nalinivati]]
 **Cast** <span class="action-icon">2</span> material, somatic
 **Range** 120 feet; **Area** 20-foot burst
 **Saving Throw** Will; **Duration** sustained up to 1 minute

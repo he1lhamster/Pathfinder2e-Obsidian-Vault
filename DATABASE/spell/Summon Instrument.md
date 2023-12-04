@@ -22,6 +22,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
@@ -39,13 +40,13 @@ type: Cantrip
 # Summon Instrument<span class="item-type">Cantrip 1</span>
 
 <span class="item-trait">Cantrip</span><span class="item-trait">Conjuration</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Traditions** divine, occult
 **Cast** <span class="action-icon">3</span> material, somatic, verbal
 **Duration** 1 hour
 
 ---
-You materialize a [[Musical Instrument]] in your grasp. The instrument is typical for its type, but it plays only for you. The instrument vanishes when the spell ends. If you cast _summon instrument_ again, any instrument you previously summoned disappears.
+You materialize a [[DATABASE/equipment/Musical Instrument|handheld musical instrument]] in your grasp. The instrument is typical for its type, but it plays only for you. The instrument vanishes when the spell ends. If you cast _summon instrument_ again, any instrument you previously summoned disappears.
 
 ---
 **Heightened (5th)** The instrument is instead a virtuoso handheld instrument.

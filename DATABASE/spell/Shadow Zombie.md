@@ -21,6 +21,7 @@ patron_theme: null
 range: 30 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Necromancy
 source: '[[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie Feast]]'
@@ -40,10 +41,10 @@ type: Spell
 # Shadow Zombie<span class="item-type">Spell 2</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Necromancy</span><span class="item-trait">Shadow</span>
-**Source** [[Pathfinder 181. Zombie Feast]]
+**Source** [[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie Feast]]
 **Traditions** arcane, divine, occult
 **Cast** <span class="action-icon">2</span> somatic, verbal
-**Range** 30 feet; **Targets** 1 [[Zombie]] of level 1 or lower
+**Range** 30 feet; **Targets** 1 [[DATABASE/monsterfamily/Zombie|zombie]] of level 1 or lower
 **Saving Throw** Will; **Duration** varies
 
 ---

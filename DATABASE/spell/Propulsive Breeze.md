@@ -19,6 +19,7 @@ patron_theme: null
 range: 60 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
@@ -37,9 +38,9 @@ type: Spell
 # Propulsive Breeze<span class="item-type">Spell 2</span>
 
 <span class="item-trait">Air</span><span class="item-trait">Manipulate</span><span class="item-trait">Move</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Traditions** arcane, primal
-**Cast** <span class="action-icon">5</span> ; **Trigger** An ally in range Strides or [[Leap]].
+**Cast** <span class="action-icon">5</span> ; **Trigger** An ally in range Strides or [[DATABASE/action/Leap|Leaps]].
 **Range** 60 feet; **Targets** the triggering creature
 
 ---

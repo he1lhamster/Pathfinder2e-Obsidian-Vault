@@ -22,6 +22,7 @@ patron_theme: null
 range: 100 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -38,7 +39,7 @@ type: Spell
 # Punishing Winds<span class="item-type">Spell 8</span>
 
 <span class="item-trait">Air</span><span class="item-trait">Evocation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** primal
 **Cast** <span class="action-icon">3</span> material, somatic, verbal
 **Range** 100 feet; **Area** 30-foot radius, 100-foot-cylinder

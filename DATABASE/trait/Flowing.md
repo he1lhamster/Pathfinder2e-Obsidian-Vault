@@ -2,6 +2,7 @@
 id: '277'
 name: Flowing
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
 - Flowing
@@ -10,9 +11,9 @@ type: Trait
 ---
 # Flowing
 
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 Planes with this trait have a flow of time that is consistently faster or slower than that of other planes.
 
 ## Planes
 
-[[Dreamlands]]
+[[DATABASE/plane/Dreamlands|Dreamlands]]

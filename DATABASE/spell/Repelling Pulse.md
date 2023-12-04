@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Reflex
 school: Evocation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -38,7 +39,7 @@ type: Spell
 # Repelling Pulse<span class="item-type">Spell 5</span>
 
 <span class="item-trait">Evocation</span><span class="item-trait">Force</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Traditions** divine, occult
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Area** 30-foot emanation
@@ -49,7 +50,7 @@ You unleash a powerful pulse of telekinetic power, and the pulse violently hurls
 **Critical Success** The creature is unaffected.
 **Success** The creature takes half damage.
 **Failure** The creature takes full damage and is pushed 10 feet away from you.
-**Critical Failure** The creature takes double damage. The creature is pushed 20 feet away from you and is then knocked [[Prone]].
+**Critical Failure** The creature takes double damage. The creature is pushed 20 feet away from you and is then knocked [[DATABASE/condition/Prone|prone]].
 
 ---
 **Heightened (+2)** The force damage increases by 2d10, and the distance the target is moved on a failure and critical failure increases by 5 feet.

@@ -2,6 +2,7 @@
 id: '276'
 name: Finite
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
 - Finite
@@ -10,9 +11,9 @@ type: Trait
 ---
 # Finite
 
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 Planes with this trait consist of a limited amount of space.
 
 ## Planes
 
-[[The Harrow Court]]
+[[DATABASE/plane/The Harrow Court|The Harrow Court]]

@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -41,7 +42,7 @@ type: Spell
 # Ventriloquism<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Auditory</span><span class="item-trait">Illusion</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, divine, occult, primal
 **Spell List** elemental
 **Cast** <span class="action-icon">2</span> somatic, verbal

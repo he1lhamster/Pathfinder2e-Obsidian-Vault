@@ -24,6 +24,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -41,9 +42,9 @@ type: Spell
 # Shape Stone<span class="item-type">Spell 4</span>
 
 <span class="item-trait">Earth</span><span class="item-trait">Transmutation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, primal
-**Deities** [[Ashukharma]], [[Mazludeh]]
+**Deities** [[DATABASE/deity/Ashukharma|Ashukharma]], [[DATABASE/deity/Mazludeh|Mazludeh]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** touch; **Targets** cube of stone 10 feet across or smaller
 

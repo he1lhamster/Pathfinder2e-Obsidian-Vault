@@ -24,6 +24,7 @@ patron_theme: null
 range: 60 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Illusion
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
@@ -39,9 +40,9 @@ type: Spell
 # Strange Geometry<span class="item-type">Spell 5</span>
 
 <span class="item-trait">Illusion</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Traditions** occult
-**Deities** [[Suyuddha]], [[The Enlightened Scholar's Path]]
+**Deities** [[DATABASE/deity/Suyuddha|Suyuddha]], [[DATABASE/deity/The Enlightened Scholar's Path|The Enlightened Scholar's Path]]
 **Cast** <span class="action-icon">3</span> material, somatic, verbal
 **Range** 60 feet; **Area** 4 cubes, each 10 feet on a side
 **Saving Throw** Will; **Duration** 1 minute

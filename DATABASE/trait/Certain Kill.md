@@ -2,6 +2,7 @@
 id: '384'
 name: Certain Kill
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 168. King of the Mountain|Pathfinder #168: King
   of the Mountain]]'
 trait:
@@ -11,5 +12,5 @@ type: Trait
 ---
 # Certain Kill
 
-**Source** [[Pathfinder 168. King of the Mountain]]
+**Source** [[DATABASE/source/Pathfinder 168. King of the Mountain|Pathfinder #168: King of the Mountain]]
 This trait is from the _Fists of the Ruby Phoenix_ Adventure Path and is closely tied to a specific location visited during the adventure. Only one Certain Kill Art can be used in a given round.

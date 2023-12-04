@@ -21,6 +21,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -40,16 +41,16 @@ type: Cantrip
 # Produce Flame<span class="item-type">Cantrip 1</span>
 
 <span class="item-trait">Attack</span><span class="item-trait">Cantrip</span><span class="item-trait">Evocation</span><span class="item-trait">Fire</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, primal
-**Bloodlines** [[Diabolic]], [[Elemental]]
-**Mysteries** [[Flames]], [[Ash]]
+**Bloodlines** [[DATABASE/sorcererbloodline/Diabolic|diabolic]], [[DATABASE/sorcererbloodline/Elemental|elemental]]
+**Mysteries** [[DATABASE/oraclemystery/Flames|flames]], [[DATABASE/oraclemystery/Ash|ash]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet; **Targets** 1 creature
 
 ---
 A small ball of flame appears in the palm of your hand, and you lash out with it either in melee or at range. Make a spell attack roll against your target's AC. This is normally a ranged attack, but you can also make a melee attack against a creature in your unarmed reach. The flame deals fire damage equal to 1d4 + your spellcasting ability modifier.
-**Critical Success** The target takes double damage and 1d4 [[Persistent Damage]].
+**Critical Success** The target takes double damage and 1d4 [[DATABASE/condition/Persistent Damage|persistent fire damage]].
 **Success** The target takes full damage.
 
 ---

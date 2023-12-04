@@ -21,6 +21,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -37,7 +38,7 @@ type: Spell
 # Purify Food and Drink<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Necromancy</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** divine, primal
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** touch; **Targets** 1 cubic foot of contaminated food or water

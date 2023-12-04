@@ -2,6 +2,7 @@
 id: '454'
 name: Army
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - Army
@@ -10,9 +11,9 @@ type: Trait
 ---
 # Army
 
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 This item is related to Warfare
 
 ## Actions
 
-[[Deploy Army]], [[Disband Army]], [[Garrison Army]], [[Offensive Gambit]], [[Outfit Army]], [[Recover Army]], [[Recruit Army]], [[Train Army]]
+[[DATABASE/action/Deploy Army|Deploy Army]], [[DATABASE/action/Disband Army|Disband Army]], [[DATABASE/action/Garrison Army|Garrison Army]], [[DATABASE/action/Offensive Gambit|Offensive Gambit]], [[DATABASE/action/Outfit Army|Outfit Army]], [[DATABASE/action/Recover Army|Recover Army]], [[DATABASE/action/Recruit Army|Recruit Army]], [[DATABASE/action/Train Army|Train Army]]

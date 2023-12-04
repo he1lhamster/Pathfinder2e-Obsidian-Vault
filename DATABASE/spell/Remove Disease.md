@@ -22,6 +22,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -39,7 +40,7 @@ type: Spell
 # Remove Disease<span class="item-type">Spell 3</span>
 
 <span class="item-trait">Healing</span><span class="item-trait">Necromancy</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** divine, primal
 **Cast** 10 minutes (material, somatic, verbal)
 **Range** touch; **Targets** 1 creature

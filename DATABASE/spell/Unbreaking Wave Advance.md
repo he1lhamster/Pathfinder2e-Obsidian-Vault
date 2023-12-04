@@ -20,6 +20,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: Fortitude
 school: Evocation
 source: '[[DATABASE/source/World Guide|World Guide]]'
@@ -36,7 +37,7 @@ type: Focus
 # Unbreaking Wave Advance<span class="item-type">Focus 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Evocation</span><span class="item-trait">Water</span>
-**Source** [[World Guide]] 
+**Source** [[DATABASE/source/World Guide|World Guide]] 
 **Cast** <span class="action-icon">1</span> verbal
 **Area** 15-foot cone
 **Saving Throw** Fortitude

@@ -29,6 +29,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -46,15 +47,15 @@ type: Spell
 # Share Lore<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Divination</span><span class="item-trait">Mental</span>
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Traditions** arcane, occult
-**Deities** [[Abraxas]], [[Gruhastha]], [[Matravash]], [[Mazludeh]], [[Saloc]], [[The Endless Road]], [[The Enlightened Scholar's Path]], [[Winlas]], [[Zohls]]
+**Deities** [[DATABASE/deity/Abraxas|Abraxas]], [[DATABASE/deity/Gruhastha|Gruhastha]], [[DATABASE/deity/Matravash|Matravash]], [[DATABASE/deity/Mazludeh|Mazludeh]], [[DATABASE/deity/Saloc|Saloc]], [[DATABASE/deity/The Endless Road|The Endless Road]], [[DATABASE/deity/The Enlightened Scholar's Path|The Enlightened Scholar's Path]], [[DATABASE/deity/Winlas|Winlas]], [[DATABASE/deity/Zohls|Zohls]]
 **Cast** 1 minute
 **Range** touch; **Targets** up to 3 creatures
 **Duration** 10 minutes
 
 ---
-You share your knowledge with the touched creatures. Choose one [[Lore]] skill in which you are trained. The targets become trained in that Lore skill for the duration of the spell.
+You share your knowledge with the touched creatures. Choose one [[DATABASE/skill/Lore|Lore]] skill in which you are trained. The targets become trained in that Lore skill for the duration of the spell.
 
 ---
 **Heightened (3rd)** The duration of the spell is 1 hour and you can target up to five creatures.

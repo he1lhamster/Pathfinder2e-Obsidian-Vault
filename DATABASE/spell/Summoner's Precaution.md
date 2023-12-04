@@ -22,6 +22,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: You have an eidolon.
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -41,7 +42,7 @@ type: Spell
 # Summoner's Precaution<span class="item-type">Spell 2</span>
 
 <span class="item-trait">Contingency</span><span class="item-trait">Necromancy</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Traditions** arcane, divine, occult, primal
 **Cast** 10 minutes (material, somatic, verbal); **Requirements** You have an eidolon.
 **Duration** until your next daily preparations

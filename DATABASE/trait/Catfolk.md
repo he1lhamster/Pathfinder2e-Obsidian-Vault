@@ -2,6 +2,7 @@
 id: '211'
 name: Catfolk
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 trait:
 - Catfolk
@@ -10,25 +11,25 @@ type: Trait
 ---
 # Catfolk
 
-**Source** [[Advanced Player's Guide]] 
-A creature with this trait is a member of the [[Catfolk]] ancestry. Catfolk are humanoids with feline features. An ability with this trait can be used or selected only by catfolk. An item with this trait is created and used by catfolk.
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+A creature with this trait is a member of the [[DATABASE/ancestry/Catfolk|catfolk]] ancestry. Catfolk are humanoids with feline features. An ability with this trait can be used or selected only by catfolk. An item with this trait is created and used by catfolk.
 
 ## Ancestries
 
-[[Catfolk]]
+[[DATABASE/ancestry/Catfolk|Catfolk]]
 
 ## Feats
 
-[[Aggravating Scratch]], [[Black Cat Curse]], [[Cat Nap]], [[Caterwaul]], [[Catfolk Dance]], [[Catfolk Lore]], [[Catfolk Weapon Expertise]], [[Catfolk Weapon Familiarity]], [[Catfolk Weapon Rake]], [[Cat's Luck]], [[Climbing Claws]], [[Elude Trouble]], [[Evade Doom]], [[Expanded Luck]], [[Focused Cat Nap]], [[Graceful Guidance]], [[Inspirit Hazard]], [[Light Paws]], [[Lucky Break]], [[No Evidence]], [[Predator's Growl]], [[Pride Hunter]], [[Reliable Luck]], [[Saberteeth]], [[Sense for Trouble]], [[Shared Luck (Catfolk)]], [[Silent Step]], [[Springing Leaper]], [[Ten Lives]], [[Wary Skulker]], [[Well-Groomed]], [[Well-Met Traveler]], [[Winter Cat Senses]]
+[[DATABASE/feat/Aggravating Scratch|Aggravating Scratch]], [[DATABASE/feat/Black Cat Curse|Black Cat Curse]], [[DATABASE/feat/Cat Nap|Cat Nap]], [[DATABASE/feat/Caterwaul|Caterwaul]], [[DATABASE/feat/Catfolk Dance|Catfolk Dance]], [[DATABASE/feat/Catfolk Lore|Catfolk Lore]], [[DATABASE/feat/Catfolk Weapon Expertise|Catfolk Weapon Expertise]], [[DATABASE/feat/Catfolk Weapon Familiarity|Catfolk Weapon Familiarity]], [[DATABASE/feat/Catfolk Weapon Rake|Catfolk Weapon Rake]], [[DATABASE/feat/Cat's Luck|Cat's Luck]], [[DATABASE/feat/Climbing Claws|Climbing Claws]], [[DATABASE/feat/Elude Trouble|Elude Trouble]], [[DATABASE/feat/Evade Doom|Evade Doom]], [[DATABASE/feat/Expanded Luck|Expanded Luck]], [[DATABASE/feat/Focused Cat Nap|Focused Cat Nap]], [[DATABASE/feat/Graceful Guidance|Graceful Guidance]], [[DATABASE/feat/Inspirit Hazard|Inspirit Hazard]], [[DATABASE/feat/Light Paws|Light Paws]], [[DATABASE/feat/Lucky Break|Lucky Break]], [[DATABASE/feat/No Evidence|No Evidence]], [[DATABASE/feat/Predator's Growl|Predator's Growl]], [[DATABASE/feat/Pride Hunter|Pride Hunter]], [[DATABASE/feat/Reliable Luck|Reliable Luck]], [[DATABASE/feat/Saberteeth|Saberteeth]], [[DATABASE/feat/Sense for Trouble|Sense for Trouble]], [[DATABASE/feat/Shared Luck (Catfolk)|Shared Luck (Catfolk)]], [[DATABASE/feat/Silent Step|Silent Step]], [[DATABASE/feat/Springing Leaper|Springing Leaper]], [[DATABASE/feat/Ten Lives|Ten Lives]], [[DATABASE/feat/Wary Skulker|Wary Skulker]], [[DATABASE/feat/Well-Groomed|Well-Groomed]], [[DATABASE/feat/Well-Met Traveler|Well-Met Traveler]], [[DATABASE/feat/Winter Cat Senses|Winter Cat Senses]]
 
 ## Monsters
 
-[[Catfolk Pouncer]]
+[[DATABASE/monster/Catfolk Pouncer|Catfolk Pouncer]]
 
 ## NPCs
 
-[[Pr'rall, Catfolk Stalker]]
+[[DATABASE/npc/Pr'rall, Catfolk Stalker|Pr'rall]]
 
 ## Weapons
 
-[[Claw Blade]], [[Whip Claw]]
+[[DATABASE/weapon/Claw Blade|Claw Blade]], [[DATABASE/weapon/Whip Claw|Whip Claw]]

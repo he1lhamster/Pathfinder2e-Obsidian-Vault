@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -39,9 +40,9 @@ type: Spell
 # Vital Beacon<span class="item-type">Spell 4</span>
 
 <span class="item-trait">Healing</span><span class="item-trait">Necromancy</span><span class="item-trait">Positive</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** divine, primal
-**Bloodline** [[Nymph]]
+**Bloodline** [[DATABASE/sorcererbloodline/Nymph|nymph]]
 **Cast** 1 minute (somatic, verbal)
 **Duration** until your next daily preparations
 

@@ -2,6 +2,7 @@
 id: '420'
 name: Ikeshti
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 173. Doorway to the Red Star|Pathfinder #173:
   Doorway to the Red Star]]'
 trait:
@@ -11,9 +12,8 @@ type: Trait
 ---
 # Ikeshti
 
-**Source** [[Pathfinder 173. Doorway to the Red Star]]
-_Note from Nethys: no description was provided for this trait_
+**Source** [[DATABASE/source/Pathfinder 173. Doorway to the Red Star|Pathfinder #173: Doorway to the Red Star]]
 
 ## Monsters
 
-[[Ancient Rivener]], [[Ikeshti Brood-Minder]]
+[[DATABASE/monster/Ancient Rivener|Ancient Rivener]], [[DATABASE/monster/Ikeshti Brood-Minder|Ikeshti Brood-Minder]]

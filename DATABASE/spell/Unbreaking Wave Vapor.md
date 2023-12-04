@@ -20,6 +20,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
@@ -36,8 +37,8 @@ type: Focus
 # Unbreaking Wave Vapor<span class="item-type">Focus 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Abjuration</span><span class="item-trait">Water</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 **Cast** <span class="action-icon">5</span> verbal; **Trigger** You're targeted by an attack made by an attacker you can see.
 
 ---
-You're [[Concealed]] against the triggering attack and gain a +2 circumstance bonus to AC against it. After the triggering attack is complete, you can Step if the triggering attack hit or Step twice if the triggering attack missed.
+You're [[DATABASE/condition/Concealed|concealed]] against the triggering attack and gain a +2 circumstance bonus to AC against it. After the triggering attack is complete, you can Step if the triggering attack hit or Step twice if the triggering attack missed.

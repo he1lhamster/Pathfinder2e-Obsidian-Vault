@@ -21,6 +21,7 @@ patron_theme: null
 range: 60 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: Reflex
 school: Evocation
 source: '[[DATABASE/source/Pathfinder 171. Hurricane''s Howl|Pathfinder #171: Hurricane''s
@@ -39,7 +40,7 @@ type: Spell
 # Stormburst<span class="item-type">Spell 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Electricity</span><span class="item-trait">Evocation</span>
-**Source** [[Pathfinder 171. Hurricane's Howl]]
+**Source** [[DATABASE/source/Pathfinder 171. Hurricane's Howl|Pathfinder #171: Hurricane's Howl]]
 **Traditions** primal
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 60 feet; **Area** 15-foot burst
@@ -49,8 +50,8 @@ type: Spell
 Your voice projects like cracking thunder as you summon a localized storm, creating a fearsome surge of lightning and wind that deals 6d6 electricity damage. Each creature must attempt a Reflex saving throw.
 **Critical Success** The creature is unaffected.
 **Success** The creature takes half damage.
-**Failure** The creature takes full damage and is knocked [[Prone]].
-**Critical Failure** The creature takes double damage, is knocked prone, and is [[Stunned]].
+**Failure** The creature takes full damage and is knocked [[DATABASE/condition/Prone|prone]].
+**Critical Failure** The creature takes double damage, is knocked prone, and is [[DATABASE/condition/Stunned|stunned 1]].
 
 ---
 **Heightened (7th)** The damage increases to 8d6, and targets who critically fail are stunned 2.

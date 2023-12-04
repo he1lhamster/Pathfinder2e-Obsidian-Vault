@@ -20,6 +20,7 @@ patron_theme: null
 range: 60 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
@@ -37,7 +38,7 @@ type: Cantrip
 # Thermal Stasis<span class="item-type">Cantrip 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Abjuration</span><span class="item-trait">Cantrip</span><span class="item-trait">Psychic</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Cast** <span class="action-icon">1</span> verbal
 **Range** 60 feet; **Targets** 1 creature
 **Duration** until the start of your next turn

@@ -20,6 +20,7 @@ patron_theme: null
 range: touch
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
@@ -37,7 +38,7 @@ type: Focus
 # Touch of Corruption<span class="item-type">Focus 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Champion</span><span class="item-trait">Necromancy</span><span class="item-trait">Negative</span>
-**Source** [[Advanced Player's Guide]] , [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] , [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 **Cast** <span class="action-icon">1</span> somatic
 **Range** touch; **Targets** 1 willing undead creature or 1 living creature
 

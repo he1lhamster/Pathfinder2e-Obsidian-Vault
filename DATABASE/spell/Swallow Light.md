@@ -21,6 +21,7 @@ patron_theme: null
 range: 30 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie Feast]]'
@@ -42,10 +43,10 @@ type: Spell
 # Swallow Light<span class="item-type">Spell 2</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Cold</span><span class="item-trait">Darkness</span><span class="item-trait">Evocation</span><span class="item-trait">Negative</span>
-**Source** [[Pathfinder 181. Zombie Feast]]
+**Source** [[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie Feast]]
 **Traditions** arcane, divine, occult
 **Cast** <span class="action-icon">2</span> somatic, verbal
-**Range** 30 feet; **Targets** 1 magical [[Light]] effect
+**Range** 30 feet; **Targets** 1 magical [[DATABASE/spell/Light|light]] effect
 **Duration** 1 minute
 
 ---

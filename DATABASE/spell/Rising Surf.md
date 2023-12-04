@@ -19,6 +19,7 @@ patron_theme: null
 range: 30 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
@@ -37,7 +38,7 @@ type: Focus
 # Rising Surf<span class="item-type">Focus 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Focus</span><span class="item-trait">Manipulate</span><span class="item-trait">Move</span><span class="item-trait">Water</span>
-**Source** [[Rage of Elements]], [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]], [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Cast** <span class="action-icon">1</span> 
 **Range** 30 feet
 

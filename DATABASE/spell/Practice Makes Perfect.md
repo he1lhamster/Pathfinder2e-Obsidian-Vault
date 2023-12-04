@@ -20,6 +20,7 @@ patron_theme: null
 range: 30 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
@@ -37,8 +38,8 @@ type: Focus
 # Practice Makes Perfect<span class="item-type">Focus 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Focus</span><span class="item-trait">Manipulate</span>
-**Source** [[Rage of Elements]], [[Pathfinder 148. Fires of the Haunted City]]
-**Domain** [[Toil Domain]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]], [[DATABASE/source/Pathfinder 148. Fires of the Haunted City|Pathfinder #148: Fires of the Haunted City]]
+**Domain** [[DATABASE/domain/Toil Domain|toil]]
 **Cast** <span class="action-icon">5</span> ; **Trigger** You or an ally within range fails a skill check for a skill in which you or they are trained.
 **Range** 30 feet; **Targets** the triggering creature
 

@@ -20,6 +20,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -40,7 +41,7 @@ type: Cantrip
 # Protect Companion<span class="item-type">Cantrip 1</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Cantrip</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Traditions** arcane, divine, occult, primal
 **Cast** <span class="action-icon">1</span> verbal
 **Range** 30 feet; **Targets** your eidolon, or a creature with the minion trait under your control

@@ -24,6 +24,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -39,15 +40,15 @@ type: Spell
 # Summon Construct<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Conjuration</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane
-**Deities** [[Haagenti]], [[Soralyon]]
+**Deities** [[DATABASE/deity/Haagenti|Haagenti]], [[DATABASE/deity/Soralyon|Soralyon]]
 **Cast** <span class="action-icon">3</span> material, somatic, verbal
 **Range** 30 feet
 **Duration** sustained up to 1 minute
 
 ---
-You conjure a construct to fight for you. This works like [[Summon Animal]], except you summon a common creature that has the construct trait and whose level is –1, such as those below.
+You conjure a construct to fight for you. This works like [[DATABASE/spell/Summon Animal|summon animal]], except you summon a common creature that has the construct trait and whose level is –1, such as those below.
 
 ---
 **Heightened (2nd)** Level 1.
@@ -62,56 +63,56 @@ You conjure a construct to fight for you. This works like [[Summon Animal]], exc
 
 ## Level -1 Constructs
 
-[[Animated Broom]] (N)
+[[DATABASE/monster/Animated Broom|Animated Broom]] (N)
 
 ## Level 0 Constructs
 
-[[Homunculus]] (N)
+[[DATABASE/monster/Homunculus|Homunculus]] (N)
 
 ## Level 1 Constructs
 
-[[Animated Silverware Swarm]] (N)
+[[DATABASE/monster/Animated Silverware Swarm|Animated Silverware Swarm]] (N)
 
 ## Level 2 Constructs
 
-[[Animated Armor]] (N), [[Mechanical Carny]] (N), [[Quarry Construct]] (N), [[Soulbound Doll]] (Any), [[Ulizmila's Cauldron]] (N)
+[[DATABASE/monster/Animated Armor|Animated Armor]] (N), [[DATABASE/monster/Mechanical Carny|Mechanical Carny]] (N), [[DATABASE/monster/Quarry Construct|Quarry Construct]] (N), [[DATABASE/monster/Soulbound Doll|Soulbound Doll]] (Any), [[DATABASE/monster/Ulizmila's Cauldron|Ulizmila's Cauldron]] (N)
 
 ## Level 3 Constructs
 
-[[Animated Statue]] (N), [[Necrophidius]] (N)
+[[DATABASE/monster/Animated Statue|Animated Statue]] (N), [[DATABASE/monster/Necrophidius|Necrophidius]] (N)
 
 ## Level 4 Constructs
 
-[[Scarecrow]] (N)
+[[DATABASE/monster/Scarecrow|Scarecrow]] (N)
 
 ## Level 5 Constructs
 
-[[Dig-Widget]] (N), [[Dismemberment Table]] (N)
+[[DATABASE/monster/Dig-Widget|Dig-Widget]] (N), [[DATABASE/monster/Dismemberment Table|Dismemberment Table]] (N)
 
 ## Level 6 Constructs
 
-[[Terra-Cotta Soldier]] (N)
+[[DATABASE/monster/Terra-Cotta Soldier|Terra-Cotta Soldier]] (N)
 
 ## Level 7 Constructs
 
-[[Giant Animated Statue]] (N), [[Levaloch (Warmonger Devil)]] (LE), [[Tupilaq]] (N)
+[[DATABASE/monster/Giant Animated Statue|Giant Animated Statue]] (N), [[DATABASE/monster/Levaloch (Warmonger Devil)|Levaloch]] (LE), [[DATABASE/monster/Tupilaq|Tupilaq]] (N)
 
 ## Level 9 Constructs
 
-[[Animated Furnace]] (N)
+[[DATABASE/monster/Animated Furnace|Animated Furnace]] (N)
 
 ## Level 10 Constructs
 
-[[Swordkeeper]] (N)
+[[DATABASE/monster/Swordkeeper|Swordkeeper]] (N)
 
 ## Level 11 Constructs
 
-[[Spiral Centurion]] (N)
+[[DATABASE/monster/Spiral Centurion|Spiral Centurion]] (N)
 
 ## Level 13 Constructs
 
-[[Animated Trebuchet]] (N), [[Living-Sun Spire]] (N)
+[[DATABASE/monster/Animated Trebuchet|Animated Trebuchet]] (N), [[DATABASE/monster/Living-Sun Spire|Living-Sun Spire]] (N)
 
 ## Level 15 Constructs
 
-[[Animated Colossus]] (N), [[Soulbound Ruin]] (NE)
+[[DATABASE/monster/Animated Colossus|Animated Colossus]] (N), [[DATABASE/monster/Soulbound Ruin|Soulbound Ruin]] (NE)

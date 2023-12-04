@@ -21,6 +21,7 @@ patron_theme: null
 range: 60 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -38,7 +39,7 @@ type: Focus
 # Warped Terrain<span class="item-type">Focus 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Illusion</span><span class="item-trait">Visual</span><span class="item-trait">Wizard</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Cast** <span class="action-icon">1</span> to <span class="action-icon">3</span> somatic, verbal
 **Range** 60 feet; **Area** 5-foot burst or more
 **Duration** 1 minute

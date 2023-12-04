@@ -22,6 +22,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
@@ -39,14 +40,14 @@ type: Spell
 # Spy's Mark<span class="item-type">Spell 2</span>
 
 <span class="item-trait">Divination</span><span class="item-trait">Scrying</span>
-**Source** [[Firebrands]]
+**Source** [[DATABASE/source/Firebrands|Firebrands]]
 **Traditions** arcane, occult
 **Cast** <span class="action-icon">3</span> material, somatic, verbal
 **Range** touch; **Targets** a wall or other solid, immobile surface
 **Duration** 1 hour
 
 ---
-By pressing your hand to a wall or other solid immobile surface, you cause the crossed-swords symbol of the Firebrands—or a different symbol of your choosing—to appear on the targeted surface. This symbol is immobile. You can use an action, which has the concentrate trait, to shut your eyes and focus on the symbol, projecting your senses into the symbol. While projecting your senses, you can see, hear, and smell through the symbol using whatever senses you have (including natural senses like [[Scent]] and darkvision and magical senses like [[See Invisibility]]). You must be within 100 feet to sense through the symbol in this way. You can Dismiss the projection effect but can otherwise freely project your senses into the symbol at any time during the spell's duration.
+By pressing your hand to a wall or other solid immobile surface, you cause the crossed-swords symbol of the Firebrands—or a different symbol of your choosing—to appear on the targeted surface. This symbol is immobile. You can use an action, which has the concentrate trait, to shut your eyes and focus on the symbol, projecting your senses into the symbol. While projecting your senses, you can see, hear, and smell through the symbol using whatever senses you have (including natural senses like [[DATABASE/monsterability/Scent|scent]] and darkvision and magical senses like [[DATABASE/spell/See Invisibility|see invisibility]]). You must be within 100 feet to sense through the symbol in this way. You can Dismiss the projection effect but can otherwise freely project your senses into the symbol at any time during the spell's duration.
  A creature can erase the symbol (and end the spell) by spending 3 Interact actions to scrub the symbol away. These actions do not need to be consecutive.
 
 ---

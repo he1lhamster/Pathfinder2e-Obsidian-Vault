@@ -20,6 +20,7 @@ patron_theme: null
 range: touch
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Necromancy
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -37,14 +38,14 @@ type: Focus
 # Undeath's Blessing<span class="item-type">Focus 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Necromancy</span><span class="item-trait">Negative</span><span class="item-trait">Sorcerer</span>
-**Source** [[Core Rulebook]] 
-**Bloodline** [[Undead]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Bloodline** [[DATABASE/sorcererbloodline/Undead|undead]]
 **Cast** <span class="action-icon">1</span> somatic
 **Range** touch; **Targets** 1 living creature touched
 **Saving Throw** Will; **Duration** 1 minute
 
 ---
-You instill within a creature the touch of the grave. For the duration, [[Harm]] and [[Heal]] spells treat the creature as undead. In addition, _harm_ spells gain a +2 status bonus to the Hit Points restored to the target.
+You instill within a creature the touch of the grave. For the duration, [[DATABASE/spell/Harm|harm]] and [[DATABASE/spell/Heal|heal]] spells treat the creature as undead. In addition, _harm_ spells gain a +2 status bonus to the Hit Points restored to the target.
  If the target wishes to avoid the spell, it can attempt a Will save to reduce the effects.
 **Critical Success** The target is unaffected.
 **Success** The target heals half as much from _heal_ and takes half as much damage from _harm_ for 1 round.

@@ -22,6 +22,7 @@ patron_theme: null
 range: 500 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Reflex
 school: Evocation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -38,7 +39,7 @@ type: Spell
 # Whirlwind<span class="item-type">Spell 8</span>
 
 <span class="item-trait">Air</span><span class="item-trait">Evocation</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Traditions** primal
 **Cast** <span class="action-icon">3</span> material, somatic, verbal
 **Range** 500 feet; **Area** 15-foot radius, 80-foot tall cylinder

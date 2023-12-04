@@ -38,6 +38,7 @@ patron_theme: '[[DATABASE/witchpatron/Fate|Fate]]'
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -55,11 +56,11 @@ type: Spell
 # True Strike<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Divination</span><span class="item-trait">Fortune</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult
-**Bloodline** [[Draconic]]
-**Deities** [[Achaekek]], [[Cernunnos]], [[Dammerich]], [[Eiseth]], [[Erastil]], [[Falayna]], [[General Susumu]], [[Gorum]], [[Iomedae]], [[Otolmens]], [[Ragathiel]], [[Raumya]], [[Sekhmet]], [[Shizuru]], [[Sorrow's Sword]], [[Yaezhing]]
-**Patron Theme** [[Fate]]
+**Bloodline** [[DATABASE/sorcererbloodline/Draconic|draconic]]
+**Deities** [[DATABASE/deity/Achaekek|Achaekek]], [[DATABASE/deity/Cernunnos|Cernunnos]], [[DATABASE/deity/Dammerich|Dammerich]], [[DATABASE/deity/Eiseth|Eiseth]], [[DATABASE/deity/Erastil|Erastil]], [[DATABASE/deity/Falayna|Falayna]], [[DATABASE/deity/General Susumu|General Susumu]], [[DATABASE/deity/Gorum|Gorum]], [[DATABASE/deity/Iomedae|Iomedae]], [[DATABASE/deity/Otolmens|Otolmens]], [[DATABASE/deity/Ragathiel|Ragathiel]], [[DATABASE/deity/Raumya|Raumya]], [[DATABASE/deity/Sekhmet|Sekhmet]], [[DATABASE/deity/Shizuru|Shizuru]], [[DATABASE/deity/Sorrow's Sword|Sorrow's Sword]], [[DATABASE/deity/Yaezhing|Yaezhing]]
+**Patron Theme** [[DATABASE/witchpatron/Fate|fate]]
 **Cast** <span class="action-icon">1</span> verbal
 **Duration** until the end of your turn
 

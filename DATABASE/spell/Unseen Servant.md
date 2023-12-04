@@ -27,6 +27,7 @@ patron_theme: null
 range: 60 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -43,9 +44,9 @@ type: Spell
 # Unseen Servant<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Conjuration</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult
-**Deities** [[Anubis]], [[Kols]], [[Monad]]
+**Deities** [[DATABASE/deity/Anubis|Anubis]], [[DATABASE/deity/Kols|Kols]], [[DATABASE/deity/Monad|Monad]]
 **Cast** <span class="action-icon">3</span> material, somatic, verbal
 **Range** 60 feet
 **Duration** sustained
@@ -53,23 +54,23 @@ type: Spell
 ---
 You summon an unseen servant, which you can command as part of Sustaining the Spell. It serves you until its Hit Points are reduced to 0, at which point the spell ends, or until you stop Sustaining the Spell. The unseen servant gains the summoned trait.
 
-## Elite | [[Unseen Servant]] | Weak
+## Elite | [[DATABASE/monster/Unseen Servant|Normal]] | Weak
 Proficiency without Level
 
-## [[Unseen Servant]]<span class="item-type">Creature -1</span>
+## [[DATABASE/monster/Unseen Servant|Unseen Servant]]<span class="item-type">Creature -1</span>
 
 <span class="item-trait">No Alignment</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Mindless</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Perception** +0; darkvision
 **Languages** - (understands its creator)
-**Skills** [[Stealth]] +8
+**Skills** [[DATABASE/skill/Stealth|Stealth]] +8
 **Str** -4, **Dex** +2, **Con** +0, **Int** -5, **Wis** +0, **Cha** +0
 **Invisible** An unseen servant is invisible, though it normally doesn’t Sneak, so it is usually only hidden.
 
 ---
 **AC** 13; **Fort** +0, **Ref** +4, **Will** +0
-**HP** 4; **Immunities** disease, mental, non-magical attacks, [[Paralyzed]], poison, precision, [[Unconscious]]
-; **Resistances** all damage 5 (except force or [[Ghost Touch]])
+**HP** 4; **Immunities** disease, mental, non-magical attacks, [[DATABASE/condition/Paralyzed|paralysis]], poison, precision, [[DATABASE/condition/Unconscious|unconscious]]
+; **Resistances** all damage 5 (except force or [[DATABASE/equipment/Ghost Touch|ghost touch]])
 
 ---
 **Speed** fly 30 feet

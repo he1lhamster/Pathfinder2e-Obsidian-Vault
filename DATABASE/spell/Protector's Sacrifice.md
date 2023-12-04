@@ -21,6 +21,7 @@ patron_theme: null
 range: 30 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -37,8 +38,8 @@ type: Focus
 # Protector's Sacrifice<span class="item-type">Focus 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Abjuration</span><span class="item-trait">Cleric</span>
-**Source** [[Core Rulebook]] 
-**Domain** [[Protection Domain]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Domain** [[DATABASE/domain/Protection Domain|protection]]
 **Cast** <span class="action-icon">5</span> somatic; **Trigger** An ally within 30 feet takes damage.
 **Range** 30 feet
 

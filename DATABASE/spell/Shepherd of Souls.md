@@ -20,6 +20,7 @@ patron_theme: null
 range: 30 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
@@ -37,8 +38,8 @@ type: Focus
 # Shepherd of Souls<span class="item-type">Focus 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Healing</span><span class="item-trait">Necromancy</span><span class="item-trait">Sorcerer</span>
-**Source** [[Advanced Player's Guide]] 
-**Bloodline** [[Psychopomp]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Bloodline** [[DATABASE/sorcererbloodline/Psychopomp|psychopomp]]
 **Cast** <span class="action-icon">5</span> verbal; **Trigger** A living creature within 30 feet takes damage.
 **Range** 30 feet; **Area** 1 creature
 

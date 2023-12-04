@@ -22,6 +22,7 @@ patron_theme: null
 range: 60 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
@@ -38,7 +39,7 @@ type: Spell
 # Spike Stones<span class="item-type">Spell 4</span>
 
 <span class="item-trait">Conjuration</span><span class="item-trait">Earth</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Traditions** primal
 **Cast** <span class="action-icon">3</span> material, somatic, verbal
 **Range** 60 feet; **Area** 20-foot burst

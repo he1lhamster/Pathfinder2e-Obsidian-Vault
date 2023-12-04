@@ -2,6 +2,7 @@
 id: '213'
 name: Daemon
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait:
 - Daemon
@@ -10,9 +11,9 @@ type: Trait
 ---
 # Daemon
 
-**Source** [[Bestiary]]
-A family of fiends spawned on the desolate plane of [[Abaddon]], most daemons are neutral evil. They typically have darkvision and weakness to good damage.
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
+A family of fiends spawned on the desolate plane of [[DATABASE/plane/Abaddon|Abaddon]], most daemons are neutral evil. They typically have darkvision and weakness to good damage.
 
 ## Monsters
 
-[[Agradaemon (Conflagration Daemon)]], [[Astradaemon (Void Daemon)]], [[Cacodaemon (Harvester Daemon)]], [[Ceustodaemon (Guardian Daemon)]], [[Crucidaemon (Torture Daemon)]], [[Derghodaemon (Ravager Daemon)]], [[Leukodaemon (Pestilence Daemon)]], [[Meladaemon (Famine Daemon)]], [[Obcisidaemon (Obliteration Daemon)]], [[Olethrodaemon (Apocalypse Daemon)]], [[Phasmadaemon (Terror Daemon)]], [[Piscodaemon (Venom Daemon)]], [[Purrodaemon (War Daemon)]], [[Sordesdaemon (Pollution Daemon)]], [[Thanadaemon (Death Daemon)]]
+[[DATABASE/monster/Agradaemon (Conflagration Daemon)|Agradaemon]], [[DATABASE/monster/Astradaemon (Void Daemon)|Astradaemon]], [[DATABASE/monster/Cacodaemon (Harvester Daemon)|Cacodaemon]], [[DATABASE/monster/Ceustodaemon (Guardian Daemon)|Ceustodaemon]], [[DATABASE/monster/Crucidaemon (Torture Daemon)|Crucidaemon]], [[DATABASE/monster/Derghodaemon (Ravager Daemon)|Derghodaemon]], [[DATABASE/monster/Leukodaemon (Pestilence Daemon)|Leukodaemon]], [[DATABASE/monster/Meladaemon (Famine Daemon)|Meladaemon]], [[DATABASE/monster/Obcisidaemon (Obliteration Daemon)|Obcisidaemon]], [[DATABASE/monster/Olethrodaemon (Apocalypse Daemon)|Olethrodaemon]], [[DATABASE/monster/Phasmadaemon (Terror Daemon)|Phasmadaemon]], [[DATABASE/monster/Piscodaemon (Venom Daemon)|Piscodaemon]], [[DATABASE/monster/Purrodaemon (War Daemon)|Purrodaemon]], [[DATABASE/monster/Sordesdaemon (Pollution Daemon)|Sordesdaemon]], [[DATABASE/monster/Thanadaemon (Death Daemon)|Thanadaemon]]

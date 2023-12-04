@@ -19,6 +19,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
@@ -37,12 +38,12 @@ type: Spell
 # Zephyr Slip<span class="item-type">Spell 4</span>
 
 <span class="item-trait">Air</span><span class="item-trait">Manipulate</span><span class="item-trait">Move</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Traditions** arcane, primal
 **Cast** <span class="action-icon">5</span> ; **Trigger** A creature enters a space within 5 feet of you.
 
 ---
-An arresting breeze sweeps you up in an instant and moves you to safety. You [[Fly]] 15 feet directly away from the triggering creature.
+An arresting breeze sweeps you up in an instant and moves you to safety. You [[DATABASE/action/Fly|Fly]] 15 feet directly away from the triggering creature.
 
 ---
 **Heightened (6th)** You and one adjacent ally Fly up to 25 feet directly away from the triggering creature.

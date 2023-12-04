@@ -22,6 +22,7 @@ patron_theme: null
 range: 120 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -42,10 +43,10 @@ type: Spell
 # Unfathomable Song<span class="item-type">Spell 9</span>
 
 <span class="item-trait">Auditory</span><span class="item-trait">Emotion</span><span class="item-trait">Enchantment</span><span class="item-trait">Fear</span><span class="item-trait">Incapacitation</span><span class="item-trait">Mental</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** occult
-**Bloodline** [[Aberrant]]
-**Deity** [[Azathoth]]
+**Bloodline** [[DATABASE/sorcererbloodline/Aberrant|aberrant]]
+**Deity** [[DATABASE/deity/Azathoth|Azathoth]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 120 feet; **Targets** up to 5 creatures
 **Saving Throw** Will; **Duration** sustained up to 1 minute
@@ -59,10 +60,11 @@ Fleeting notes of a strange and unnatural song fill the air, overtaking the mind
 
 ## Unfathomable Song
 
-|   Result | Effect                                                                       |
-|---------:|:-----------------------------------------------------------------------------|
-|        1 | The target is frightened 2.                                                  |
-|        2 | The target is confused for 1 round.                                          |
-|        3 | The target is stupefied 4 for 1 round.                                       |
-|        4 | The target is blinded for 1 round.                                           |
-|        5 | The target is stunned for 1 round and stupefied 1 for an unlimited duration. |
+| 0 | 1 |
+|:-------|:-----------------------------------------------------------------------------|
+| Result | Effect |
+| 1 | The target is frightened 2. |
+| 2 | The target is confused for 1 round. |
+| 3 | The target is stupefied 4 for 1 round. |
+| 4 | The target is blinded for 1 round. |
+| 5 | The target is stunned for 1 round and stupefied 1 for an unlimited duration. |

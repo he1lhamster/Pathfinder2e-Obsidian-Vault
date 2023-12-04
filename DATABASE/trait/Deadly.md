@@ -2,6 +2,7 @@
 id: '174'
 name: Deadly
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Deadly
@@ -10,13 +11,13 @@ type: Trait
 ---
 # Deadly
 
-**Source** [[Core Rulebook]] 
-On a critical hit, the weapon adds a weapon damage die of the listed size. Roll this after doubling the weapon's damage. This increases to two dice if the weapon has a _greater striking rune_ and three dice if the weapon has a _major striking rune_. For instance, a [[Rapier]] with a _greater striking rune_ deals 2d8 extra piercing damage on a critical hit. An ability that changes the size of the weapon's normal damage dice doesn't change the size of its deadly die.
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+On a critical hit, the weapon adds a weapon damage die of the listed size. Roll this after doubling the weapon's damage. This increases to two dice if the weapon has a _greater striking rune_ and three dice if the weapon has a _major striking rune_. For instance, a [[DATABASE/weapon/Rapier|rapier]] with a _greater striking rune_ deals 2d8 extra piercing damage on a critical hit. An ability that changes the size of the weapon's normal damage dice doesn't change the size of its deadly die.
 
 ## Monk Unarmed Attacks
 
-[[Cobra Stance]]
+[[DATABASE/feat/Cobra Stance|Cobra Fang]]
 
 ## Weapons
 
-[[Bow Staff]], [[Claw Blade]], [[Composite Longbow]], [[Composite Shortbow]], [[Elven Branched Spear]], [[Fangwire]], [[Fauchard]], [[Fighting Fan]], [[Filcher's Fork]], [[Forked Bipod]], [[Gakgung]], [[Glaive]], [[Hongali Hornbow]], [[Kalis]], [[Katana]], [[Katar]], [[Kris]], [[Lance]], [[Longbow]], [[Machete]], [[Mambele]], [[Naginata]], [[Nodachi]], [[Ogre Hook]], [[Pantograph Gauntlet]], [[Rapier]], [[Rapier Pistol]], [[Rhoka Sword]], [[Scythe]], [[Shauth Blade]], [[Shauth Lash]], [[Shears]], [[Shield Bow]], [[Shortbow]], [[Starknife]], [[Tamchal Chakram]], [[Taw Launcher]], [[Three-Section Naginata]], [[Urumi]], [[Wakizashi]], [[War Lance]], [[War Razor]], [[Zulfikar]]
+[[DATABASE/weapon/Bow Staff|Bow Staff]], [[DATABASE/weapon/Claw Blade|Claw Blade]], [[DATABASE/weapon/Composite Longbow|Composite Longbow]], [[DATABASE/weapon/Composite Shortbow|Composite Shortbow]], [[DATABASE/weapon/Elven Branched Spear|Elven Branched Spear]], [[DATABASE/weapon/Fangwire|Fangwire]], [[DATABASE/weapon/Fauchard|Fauchard]], [[DATABASE/weapon/Fighting Fan|Fighting Fan]], [[DATABASE/weapon/Filcher's Fork|Filcher's Fork]], [[DATABASE/weapon/Forked Bipod|Forked Bipod]], [[DATABASE/weapon/Gakgung|Gakgung]], [[DATABASE/weapon/Glaive|Glaive]], [[DATABASE/weapon/Hongali Hornbow|Hongali Hornbow]], [[DATABASE/weapon/Kalis|Kalis]], [[DATABASE/weapon/Katana|Katana]], [[DATABASE/weapon/Katar|Katar]], [[DATABASE/weapon/Kris|Kris]], [[DATABASE/weapon/Lance|Lance]], [[DATABASE/weapon/Longbow|Longbow]], [[DATABASE/weapon/Machete|Machete]], [[DATABASE/weapon/Mambele|Mambele]], [[DATABASE/weapon/Naginata|Naginata]], [[DATABASE/weapon/Nodachi|Nodachi]], [[DATABASE/weapon/Ogre Hook|Ogre Hook]], [[DATABASE/weapon/Pantograph Gauntlet|Pantograph Gauntlet]], [[DATABASE/weapon/Rapier|Rapier]], [[DATABASE/weapon/Rapier Pistol|Rapier Pistol]], [[DATABASE/weapon/Rhoka Sword|Rhoka Sword]], [[DATABASE/weapon/Scythe|Scythe]], [[DATABASE/weapon/Shauth Blade|Shauth Blade]], [[DATABASE/weapon/Shauth Lash|Shauth Lash]], [[DATABASE/weapon/Shears|Shears]], [[DATABASE/weapon/Shield Bow|Shield Bow]], [[DATABASE/weapon/Shortbow|Shortbow]], [[DATABASE/weapon/Starknife|Starknife]], [[DATABASE/weapon/Tamchal Chakram|Tamchal Chakram]], [[DATABASE/weapon/Taw Launcher|Taw Launcher]], [[DATABASE/weapon/Three-Section Naginata|Three-Section Naginata]], [[DATABASE/weapon/Urumi|Urumi]], [[DATABASE/weapon/Wakizashi|Wakizashi]], [[DATABASE/weapon/War Lance|War Lance]], [[DATABASE/weapon/War Razor|War Razor]], [[DATABASE/weapon/Zulfikar|Zulfikar]]

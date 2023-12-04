@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -39,7 +40,7 @@ type: Cantrip
 # Wash Your Luck<span class="item-type">Cantrip 1</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Cantrip</span><span class="item-trait">Fortune</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Traditions** divine, occult
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Duration** 1 minute

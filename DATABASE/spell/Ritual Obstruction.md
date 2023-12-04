@@ -22,6 +22,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Pathfinder 182. Graveclaw|Pathfinder #182: Graveclaw]]'
@@ -42,7 +43,7 @@ type: Spell
 # Ritual Obstruction<span class="item-type">Spell 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Abjuration</span><span class="item-trait">Curse</span>
-**Source** [[Pathfinder 182. Graveclaw]]
+**Source** [[DATABASE/source/Pathfinder 182. Graveclaw|Pathfinder #182: Graveclaw]]
 **Traditions** arcane, divine, occult, primal
 **Cast** 1 minute (material, somatic, verbal)
 **Area** 60-foot burst

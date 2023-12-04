@@ -2,6 +2,7 @@
 id: '85'
 name: Half-Elf
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Half-Elf
@@ -10,17 +11,17 @@ type: Trait
 ---
 # Half-Elf
 
-**Source** [[Core Rulebook]] 
-A creature with this trait is part [[Human]] and part [[Elf]]. An ability with this trait can be used or selected only by half-elves.
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+A creature with this trait is part [[DATABASE/ancestry/Human|human]] and part [[DATABASE/ancestry/Elf|elf]]. An ability with this trait can be used or selected only by half-elves.
 
 ## Ancestries
 
-[[Half-Elf]]
+[[DATABASE/ancestry/Half-Elf|Half-Elf]]
 
 ## Feats
 
-[[Earned Glory]], [[Elf Atavism]], [[Inspire Imitation]], [[Pinch Time]], [[Round Ears]], [[Sociable]], [[Supernatural Charm]]
+[[DATABASE/feat/Earned Glory|Earned Glory]], [[DATABASE/feat/Elf Atavism|Elf Atavism]], [[DATABASE/feat/Inspire Imitation|Inspire Imitation]], [[DATABASE/feat/Pinch Time|Pinch Time]], [[DATABASE/feat/Round Ears|Round Ears]], [[DATABASE/feat/Sociable|Sociable]], [[DATABASE/feat/Supernatural Charm|Supernatural Charm]]
 
 ## NPCs
 
-[[Edolpho Phinelli]], [[Wendlyn, Incorrigible Thief]]
+[[DATABASE/npc/Edolpho Phinelli|Edolpho Phinelli]], [[DATABASE/npc/Wendlyn, Incorrigible Thief|Wendlyn]]

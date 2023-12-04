@@ -22,6 +22,7 @@ patron_theme: null
 range: 60 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -38,8 +39,8 @@ type: Focus
 # Winter Bolt<span class="item-type">Focus 1</span>
 
 <span class="item-trait">Attack</span><span class="item-trait">Cold</span><span class="item-trait">Evocation</span>
-**Source** [[Gods & Magic]] 
-**Domain** [[Cold Domain]]
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
+**Domain** [[DATABASE/domain/Cold Domain|cold]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 60 feet; **Targets** 1 creature
 

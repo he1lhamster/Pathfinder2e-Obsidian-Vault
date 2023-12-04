@@ -25,6 +25,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -43,10 +44,10 @@ type: Spell
 # Uncontrollable Dance<span class="item-type">Spell 8</span>
 
 <span class="item-trait">Enchantment</span><span class="item-trait">Incapacitation</span><span class="item-trait">Mental</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult
-**Bloodlines** [[Aberrant]], [[Fey]]
-**Deities** [[Ashava]], [[Hathor]], [[Kofusachi]], [[The Perplexing Jest]]
+**Bloodlines** [[DATABASE/sorcererbloodline/Aberrant|aberrant]], [[DATABASE/sorcererbloodline/Fey|fey]]
+**Deities** [[DATABASE/deity/Ashava|Ashava]], [[DATABASE/deity/Hathor|Hathor]], [[DATABASE/deity/Kofusachi|Kofusachi]], [[DATABASE/deity/The Perplexing Jest|The Perplexing Jest]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** touch; **Targets** 1 creature
 **Saving Throw** Will; **Duration** varies

@@ -22,6 +22,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -37,8 +38,8 @@ type: Focus
 # Swarm Form<span class="item-type">Focus 4</span>
 
 <span class="item-trait">Polymorph</span><span class="item-trait">Transmutation</span>
-**Source** [[Gods & Magic]] 
-**Domain** [[Swarm Domain]]
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
+**Domain** [[DATABASE/domain/Swarm Domain|swarm]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Duration** 5 minutes
 

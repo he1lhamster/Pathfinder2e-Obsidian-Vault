@@ -21,6 +21,7 @@ patron_theme: null
 range: 60 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Transmutation
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
@@ -37,8 +38,8 @@ type: Focus
 # Wish-Twisted Form<span class="item-type">Focus 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Sorcerer</span><span class="item-trait">Transmutation</span>
-**Source** [[Advanced Player's Guide]] 
-**Bloodline** [[Genie]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Bloodline** [[DATABASE/sorcererbloodline/Genie|genie]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 60 feet; **Targets** 1 creature
 **Saving Throw** Will; **Duration** varies

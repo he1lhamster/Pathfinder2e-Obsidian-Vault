@@ -21,6 +21,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Fortitude
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -38,7 +39,7 @@ type: Spell
 # Sound Burst<span class="item-type">Spell 2</span>
 
 <span class="item-trait">Evocation</span><span class="item-trait">Sonic</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** divine, occult
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet; **Area** 10-foot burst

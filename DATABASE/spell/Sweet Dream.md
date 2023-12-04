@@ -23,6 +23,7 @@ patron_theme: null
 range: 30 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -43,8 +44,8 @@ type: Focus
 # Sweet Dream<span class="item-type">Focus 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Auditory</span><span class="item-trait">Cleric</span><span class="item-trait">Enchantment</span><span class="item-trait">Linguistic</span><span class="item-trait">Mental</span><span class="item-trait">Sleep</span>
-**Source** [[Core Rulebook]] 
-**Domain** [[Dreams Domain]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Domain** [[DATABASE/domain/Dreams Domain|dreams]]
 **Cast** <span class="action-icon">3</span> material, somatic, verbal
 **Range** 30 feet; **Targets** 1 willing creature
 **Duration** 10 minutes

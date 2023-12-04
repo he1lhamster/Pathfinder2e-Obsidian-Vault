@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -39,8 +40,8 @@ type: Focus
 # Vibrant Thorns<span class="item-type">Focus 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Cleric</span><span class="item-trait">Morph</span><span class="item-trait">Plant</span><span class="item-trait">Transmutation</span>
-**Source** [[Core Rulebook]] 
-**Domain** [[Nature Domain]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Domain** [[DATABASE/domain/Nature Domain|nature]]
 **Cast** <span class="action-icon">1</span> somatic
 **Duration** 1 minute
 

@@ -23,6 +23,7 @@ patron_theme: null
 range: 120 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -43,10 +44,10 @@ type: Spell
 # Weird<span class="item-type">Spell 9</span>
 
 <span class="item-trait">Death</span><span class="item-trait">Emotion</span><span class="item-trait">Fear</span><span class="item-trait">Illusion</span><span class="item-trait">Mental</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult
-**Bloodlines** [[Shadow]], [[Harrow]]
-**Deities** [[Charon]], [[Nyarlathotep]]
+**Bloodlines** [[DATABASE/sorcererbloodline/Shadow|shadow]], [[DATABASE/sorcererbloodline/Harrow|harrow]]
+**Deities** [[DATABASE/deity/Charon|Charon]], [[DATABASE/deity/Nyarlathotep|Nyarlathotep (The Crawling Chaos)]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 120 feet; **Targets** any number of creatures
 **Saving Throw** Will

@@ -21,6 +21,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -38,7 +39,7 @@ type: Spell
 # Water Walk<span class="item-type">Spell 2</span>
 
 <span class="item-trait">Transmutation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, divine, primal
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** touch; **Targets** 1 creature

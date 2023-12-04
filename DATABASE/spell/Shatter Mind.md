@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: basicWill
 school: Evocation
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
@@ -39,7 +40,7 @@ type: Cantrip
 # Shatter Mind<span class="item-type">Cantrip 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Cantrip</span><span class="item-trait">Evocation</span><span class="item-trait">Mental</span><span class="item-trait">Psychic</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Area** 15-foot cone
 **Saving Throw** basic Will
@@ -51,4 +52,4 @@ You telepathically assail the minds of your foes. You deal mental damage equal t
 **Heightened (+1)** The damage increases by 1d4.
 
 ---
-**Amp** You increase the area of the spell to your choice of a 30-foot cone or 60-foot cone, and the damage dice for the spell change to d10s. Creatures that fail are [[Stupefied]] until the start of your next turn (or stupefied 2 on a critical failure).
+**Amp** You increase the area of the spell to your choice of a 30-foot cone or 60-foot cone, and the damage dice for the spell change to d10s. Creatures that fail are [[DATABASE/condition/Stupefied|stupefied 1]] until the start of your next turn (or stupefied 2 on a critical failure).

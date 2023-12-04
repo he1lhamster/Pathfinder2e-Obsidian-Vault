@@ -25,6 +25,7 @@ patron_theme: null
 range: touch
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -42,9 +43,9 @@ type: Spell
 # Private Sanctum<span class="item-type">Spell 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Abjuration</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult
-**Deities** [[Bastet]], [[Count Ranalc]], [[Nivi Rhombodazzle]]
+**Deities** [[DATABASE/deity/Bastet|Bastet]], [[DATABASE/deity/Count Ranalc|Count Ranalc]], [[DATABASE/deity/Nivi Rhombodazzle|Nivi Rhombodazzle]]
 **Cast** 10 minutes (material, somatic, verbal)
 **Range** touch; **Area** 100-foot burst
 **Duration** until the next time you make your daily preparations.

@@ -21,6 +21,7 @@ patron_theme: null
 range: touch
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Stolen Fate Player''s Guide|Stolen Fate Player''s Guide]]'
@@ -40,8 +41,8 @@ type: Focus
 # Rewrite Possibility<span class="item-type">Focus 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Divination</span><span class="item-trait">Fortune</span><span class="item-trait">Mental</span><span class="item-trait">Prediction</span><span class="item-trait">Sorcerer</span>
-**Source** [[Stolen Fate Player's Guide]]
-**Bloodline** [[Harrow]]
+**Source** [[DATABASE/source/Stolen Fate Player's Guide|Stolen Fate Player's Guide]]
+**Bloodline** [[DATABASE/sorcererbloodline/Harrow|harrow]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** touch; **Targets** 1 creature
 **Duration** 1 minute

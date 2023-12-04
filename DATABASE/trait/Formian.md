@@ -2,6 +2,7 @@
 id: '419'
 name: Formian
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 173. Doorway to the Red Star|Pathfinder #173:
   Doorway to the Red Star]]'
 trait:
@@ -11,9 +12,8 @@ type: Trait
 ---
 # Formian
 
-**Source** [[Pathfinder 173. Doorway to the Red Star]]
-_Note from Nethys: no description was provided for this trait_
+**Source** [[DATABASE/source/Pathfinder 173. Doorway to the Red Star|Pathfinder #173: Doorway to the Red Star]]
 
 ## Monsters
 
-[[Formian Mageslayer]], [[Formian Queen]], [[Formian Worker]]
+[[DATABASE/monster/Formian Mageslayer|Formian Mageslayer]], [[DATABASE/monster/Formian Queen|Formian Queen]], [[DATABASE/monster/Formian Worker|Formian Worker]]

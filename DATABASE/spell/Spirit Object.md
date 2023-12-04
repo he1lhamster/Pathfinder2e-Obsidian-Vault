@@ -21,6 +21,7 @@ patron_theme: '[[DATABASE/witchpatron/Baba Yaga|Baba Yaga]]'
 range: 30 feet
 rarity: Rare
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Legends|Legends]]'
@@ -39,8 +40,8 @@ type: Cantrip
 # Spirit Object<span class="item-type">Cantrip 1</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Cantrip</span><span class="item-trait">Hex</span><span class="item-trait">Necromancy</span><span class="item-trait">Witch</span>
-**Source** [[Legends]]
-**Patron Theme** [[Baba Yaga]]
+**Source** [[DATABASE/source/Legends|Legends]]
+**Patron Theme** [[DATABASE/witchpatron/Baba Yaga|baba yaga]]
 **Cast** <span class="action-icon">1</span> or <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet; **Targets** 1 unattended object up to 1 Bulk
 

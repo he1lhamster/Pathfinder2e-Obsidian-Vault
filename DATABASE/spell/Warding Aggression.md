@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -38,7 +39,7 @@ type: Spell
 # Warding Aggression<span class="item-type">Spell 3</span>
 
 <span class="item-trait">Abjuration</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Traditions** arcane, divine, primal
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Duration** up to 1 minute

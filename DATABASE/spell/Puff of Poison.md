@@ -21,6 +21,7 @@ patron_theme: null
 range: 5 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Fortitude
 school: Evocation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -40,14 +41,14 @@ type: Cantrip
 # Puff of Poison<span class="item-type">Cantrip 1</span>
 
 <span class="item-trait">Cantrip</span><span class="item-trait">Evocation</span><span class="item-trait">Inhaled</span><span class="item-trait">Poison</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Traditions** arcane, primal
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 5 feet; **Targets** 1 creature
 **Saving Throw** Fortitude
 
 ---
-You exhale a shimmering cloud of toxic breath at an enemy's face. The target takes poison damage equal to your spellcasting modifier and 2 [[Persistent Damage]], depending on its Fortitude save.
+You exhale a shimmering cloud of toxic breath at an enemy's face. The target takes poison damage equal to your spellcasting modifier and 2 [[DATABASE/condition/Persistent Damage|persistent poison damage]], depending on its Fortitude save.
 **Critical Success** The creature is unaffected.
 **Success** The target takes half initial and persistent damage.
 **Failure** The target takes full initial and persistent damage.

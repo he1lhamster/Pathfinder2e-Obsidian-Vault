@@ -2,6 +2,7 @@
 id: '1'
 name: Amulet
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 trait: null
 type: Thaumaturge Implement
@@ -9,18 +10,18 @@ type: Thaumaturge Implement
 ---
 # Amulet
 
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 Amulets are items carried for good luck and protection. Your amulet might be a magical diagram, a religious symbol, a preserved body part such as a rabbit's foot, or a lucky coin. Amulet implements are associated with the harrow suit of shields and the astrological signs of the bridge and the ogre.
 
 ## Initiate Benefit
 
 The protective aspects of your amulet can shield you and your allies from harm. You gain the Amulet's Abeyance reaction.
 
-### [[Amulet's Abeyance]] <span class="action-icon">5</span>
+### [[DATABASE/action/Amulet's Abeyance|Amulet's Abeyance]] <span class="action-icon">5</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Magical</span><span class="item-trait">Manipulate</span><span class="item-trait">Thaumaturge</span>
-**Source** [[Dark Archive]]
-**Trigger** The target of your [[Exploit Vulnerability]] would damage you or an ally within 15 feet of you.
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Trigger** The target of your [[DATABASE/action/Exploit Vulnerability|Exploit Vulnerability]] would damage you or an ally within 15 feet of you.
 **Requirements** You're holding your amulet implement and are benefiting from Exploit Vulnerability.
 
 ---

@@ -26,6 +26,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Reflex
 school: Evocation
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -43,9 +44,9 @@ type: Spell
 # Shockwave<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Earth</span><span class="item-trait">Evocation</span>
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Traditions** arcane, primal
-**Deities** [[Ayrzul]], [[Ragdya]], [[Yamatsumi]]
+**Deities** [[DATABASE/deity/Ayrzul|Ayrzul]], [[DATABASE/deity/Ragdya|Ragdya]], [[DATABASE/deity/Yamatsumi|Yamatsumi]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Area** 15-foot cone
 **Saving Throw** Reflex
@@ -53,8 +54,8 @@ type: Spell
 ---
 You create a wave of energy that ripples through the earth. Terrestrial creatures in the affected area must attempt a Reflex save to avoid stumbling as the shockwave shakes the ground.
 **Critical Success** The creature is unaffected.
-**Success** The creature is [[Flat-Footed]] until the start of its next turn.
-**Failure** The creature falls [[Prone]].
+**Success** The creature is [[DATABASE/condition/Flat-Footed|flat-footed]] until the start of its next turn.
+**Failure** The creature falls [[DATABASE/condition/Prone|prone]].
 **Critical Failure** As failure, plus the creature takes 1d6 damage.
 
 ---

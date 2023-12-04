@@ -22,6 +22,7 @@ patron_theme: null
 range: touch
 rarity: Rare
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
@@ -39,8 +40,8 @@ type: Focus
 # Wordsmith<span class="item-type">Focus 4</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Cleric</span><span class="item-trait">Transmutation</span>
-**Source** [[Dark Archive]]
-**Domain** [[Knowledge Domain]] (apocryphal)
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Domain** [[DATABASE/domain/Knowledge Domain|knowledge]] (apocryphal)
 **Cast** <span class="action-icon">3</span> material, somatic, verbal
 **Range** touch; **Targets** 1 document written by a single author and comprised of written text in a single language
 **Duration** until the next time you Refocus

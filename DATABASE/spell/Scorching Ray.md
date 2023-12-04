@@ -21,6 +21,7 @@ patron_theme: null
 range: 60 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -39,7 +40,7 @@ type: Spell
 # Scorching Ray<span class="item-type">Spell 2</span>
 
 <span class="item-trait">Attack</span><span class="item-trait">Evocation</span><span class="item-trait">Fire</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Traditions** arcane, primal
 **Cast** <span class="action-icon">1</span> to <span class="action-icon">3</span> somatic, verbal
 **Range** 60 feet; **Targets** 1 or more creatures

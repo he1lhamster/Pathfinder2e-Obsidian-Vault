@@ -2,6 +2,7 @@
 id: '76'
 name: Fortune
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Fortune
@@ -10,33 +11,33 @@ type: Trait
 ---
 # Fortune
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 A fortune effect beneficially alters how you roll your dice. You can never have more than one fortune effect alter a single roll. If multiple fortune effects would apply, you have to pick which to use. If a fortune effect and a misfortune effect would apply to the same roll, the two cancel each other out, and you roll normally.
 
 ## Actions
 
-[[Call to Axis]], [[Creative Solution]], [[Deliberate Planning]], [[Devise a Stratagem]], [[Supernatural Solution]]
+[[DATABASE/action/Call to Axis|Call to Axis]], [[DATABASE/action/Creative Solution|Creative Solution]], [[DATABASE/action/Deliberate Planning|Deliberate Planning]], [[DATABASE/action/Devise a Stratagem|Devise a Stratagem]], [[DATABASE/action/Supernatural Solution|Supernatural Solution]]
 
 ## Equipment
 
-[[Acrobat's Staff]], [[Beckoning Cat Amulet]], [[Bottled Omen]], [[Devil's Luck]], [[Eye of Apprehension]], [[Fortune's Coin]], [[Fortune's Favor]], [[Hunter's Hagbook]], [[Indomitable Keepsake]], [[Laurel of the Empath]], [[Luck Blade]], [[Lucky Kitchen Witch]], [[Lucky Rabbit's Foot]], [[Matchmaker Fulu]], [[Persona Mask]], [[Reflected Moonlight Fulu]], [[Starsong Nectar]]
+[[DATABASE/equipment/Acrobat's Staff|Acrobat's Staff]], [[DATABASE/equipment/Beckoning Cat Amulet|Beckoning Cat Amulet]], [[DATABASE/equipment/Bottled Omen|Bottled Omen]], [[DATABASE/equipment/Devil's Luck|Devil's Luck]], [[DATABASE/equipment/Eye of Apprehension|Eye of Apprehension]], [[DATABASE/equipment/Fortune's Coin|Fortune's Coin]], [[DATABASE/equipment/Fortune's Favor|Fortune's Favor]], [[DATABASE/equipment/Hunter's Hagbook|Hunter's Hagbook]], [[DATABASE/equipment/Indomitable Keepsake|Indomitable Keepsake]], [[DATABASE/equipment/Laurel of the Empath|Laurel of the Empath]], [[DATABASE/equipment/Luck Blade|Luck Blade]], [[DATABASE/equipment/Lucky Kitchen Witch|Lucky Kitchen Witch]], [[DATABASE/equipment/Lucky Rabbit's Foot|Lucky Rabbit's Foot]], [[DATABASE/equipment/Matchmaker Fulu|Matchmaker Fulu]], [[DATABASE/equipment/Persona Mask|Persona Mask]], [[DATABASE/equipment/Reflected Moonlight Fulu|Reflected Moonlight Fulu]], [[DATABASE/equipment/Starsong Nectar|Starsong Nectar]]
 
 ## Feats
 
-[[Acquired Tolerance]], [[Ally's Shelter]], [[Archaeologist's Luck]], [[Assurance]], [[Avenge Ally]], [[Blessed Medicine]], [[Cat's Luck]], [[Chance Death]], [[Courteous Comeback]], [[Crafter's Instinct]], [[Derring-Do]], [[Diviner Sense]], [[Felicitous Riposte]], [[Focus Ally]], [[Foreseen Failure]], [[Grit and Tenacity]], [[Guided by the Stars]], [[Halfling Luck]], [[Impose Order (Aphorite)]], [[Impose Order (Psychic)]], [[Impossible Technique]], [[Incredible Luck]], [[Inspired Stratagem]], [[It Was Me All Along!]], [[Just One More Thing]], [[Kingdom Assurance]], [[Know Oneself]], [[Loremaster's Etude]], [[Mask of Rejection]], [[Minor Omen]], [[Mistaken Identity]], [[Paired Link]], [[Perfect Clarity]], [[Perfect Finisher]], [[Premonition of Clarity]], [[Reckless Abandon (Goblin)]], [[Redirecting Shot]], [[Scholar's Hunch]], [[Spiritual Guides]], [[Turn Away Misfortune]], [[Turn Back the Clock]], [[Vision of Foresight]], [[Wellspring Control]], [[You're an Embarrassment!]]
+[[DATABASE/feat/Acquired Tolerance|Acquired Tolerance]], [[DATABASE/feat/Ally's Shelter|Ally's Shelter]], [[DATABASE/feat/Archaeologist's Luck|Archaeologist's Luck]], [[DATABASE/feat/Assurance|Assurance]], [[DATABASE/feat/Avenge Ally|Avenge Ally]], [[DATABASE/feat/Blessed Medicine|Blessed Medicine]], [[DATABASE/feat/Cat's Luck|Cat's Luck]], [[DATABASE/feat/Chance Death|Chance Death]], [[DATABASE/feat/Courteous Comeback|Courteous Comeback]], [[DATABASE/feat/Crafter's Instinct|Crafter's Instinct]], [[DATABASE/feat/Derring-Do|Derring-Do]], [[DATABASE/feat/Diviner Sense|Diviner Sense]], [[DATABASE/feat/Felicitous Riposte|Felicitous Riposte]], [[DATABASE/feat/Focus Ally|Focus Ally]], [[DATABASE/feat/Foreseen Failure|Foreseen Failure]], [[DATABASE/feat/Grit and Tenacity|Grit and Tenacity]], [[DATABASE/feat/Guided by the Stars|Guided by the Stars]], [[DATABASE/feat/Halfling Luck|Halfling Luck]], [[DATABASE/feat/Impose Order (Aphorite)|Impose Order (Aphorite)]], [[DATABASE/feat/Impose Order (Psychic)|Impose Order (Psychic)]], [[DATABASE/feat/Impossible Technique|Impossible Technique]], [[DATABASE/feat/Incredible Luck|Incredible Luck]], [[DATABASE/feat/Inspired Stratagem|Inspired Stratagem]], [[DATABASE/feat/It Was Me All Along!|It Was Me All Along!]], [[DATABASE/feat/Just One More Thing|Just One More Thing]], [[DATABASE/feat/Kingdom Assurance|Kingdom Assurance]], [[DATABASE/feat/Know Oneself|Know Oneself]], [[DATABASE/feat/Loremaster's Etude|Loremaster's Etude]], [[DATABASE/feat/Mask of Rejection|Mask of Rejection]], [[DATABASE/feat/Minor Omen|Minor Omen]], [[DATABASE/feat/Mistaken Identity|Mistaken Identity]], [[DATABASE/feat/Paired Link|Paired Link]], [[DATABASE/feat/Perfect Clarity|Perfect Clarity]], [[DATABASE/feat/Perfect Finisher|Perfect Finisher]], [[DATABASE/feat/Premonition of Clarity|Premonition of Clarity]], [[DATABASE/feat/Reckless Abandon (Goblin)|Reckless Abandon (Goblin)]], [[DATABASE/feat/Redirecting Shot|Redirecting Shot]], [[DATABASE/feat/Scholar's Hunch|Scholar's Hunch]], [[DATABASE/feat/Spiritual Guides|Spiritual Guides]], [[DATABASE/feat/Turn Away Misfortune|Turn Away Misfortune]], [[DATABASE/feat/Turn Back the Clock|Turn Back the Clock]], [[DATABASE/feat/Vision of Foresight|Vision of Foresight]], [[DATABASE/feat/Wellspring Control|Wellspring Control]], [[DATABASE/feat/You're an Embarrassment!|You're an Embarrassment!]]
 
 ## Focus Spells
 
-[[Access Lore]], [[Ancestral Defense]], [[Bit of Luck]], [[Counter Performance]], [[Diviner's Sight]], [[Hunter's Luck]], [[Know the Enemy]], [[Loremaster's Etude]], [[Lucky Break]], [[Perfect Strike]], [[Perfected Form]], [[Rewrite Possibility]], [[Scholarly Recollection]], [[String of Fate]], [[Tempt Fate]], [[Unity]], [[Zeal for Battle]]
+[[DATABASE/spell/Access Lore|Access Lore]], [[DATABASE/spell/Ancestral Defense|Ancestral Defense]], [[DATABASE/spell/Bit of Luck|Bit of Luck]], [[DATABASE/spell/Counter Performance|Counter Performance]], [[DATABASE/spell/Diviner's Sight|Diviner's Sight]], [[DATABASE/spell/Hunter's Luck|Hunter's Luck]], [[DATABASE/spell/Know the Enemy|Know the Enemy]], [[DATABASE/spell/Loremaster's Etude|Loremaster's Etude]], [[DATABASE/spell/Lucky Break|Lucky Break]], [[DATABASE/spell/Perfect Strike|Perfect Strike]], [[DATABASE/spell/Perfected Form|Perfected Form]], [[DATABASE/spell/Rewrite Possibility|Rewrite Possibility]], [[DATABASE/spell/Scholarly Recollection|Scholarly Recollection]], [[DATABASE/spell/String of Fate|String of Fate]], [[DATABASE/spell/Tempt Fate|Tempt Fate]], [[DATABASE/spell/Unity|Unity]], [[DATABASE/spell/Zeal for Battle|Zeal for Battle]]
 
 ## Rituals
 
-[[Harrowing]], [[The World's a Stage]]
+[[DATABASE/ritual/Harrowing|Harrowing]], [[DATABASE/ritual/The World's a Stage|The World's a Stage]]
 
 ## Skills
 
-[[Scholarship]], [[Magic]]
+[[DATABASE/skill/Scholarship|Creative Solution]], [[DATABASE/skill/Magic|Supernatural Solution]]
 
 ## Spells
 
-[[Perseis's Precautions]], [[True Strike]], [[True Target]], [[Wash Your Luck]], [[Word of Revision]]
+[[DATABASE/spell/Perseis's Precautions|Perseis's Precautions]], [[DATABASE/spell/True Strike|True Strike]], [[DATABASE/spell/True Target|True Target]], [[DATABASE/spell/Wash Your Luck|Wash Your Luck]], [[DATABASE/spell/Word of Revision|Word of Revision]]

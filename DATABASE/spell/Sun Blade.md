@@ -21,6 +21,7 @@ patron_theme: null
 range: 60 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
@@ -39,7 +40,7 @@ type: Focus
 # Sun Blade<span class="item-type">Focus 2</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Evocation</span><span class="item-trait">Fire</span><span class="item-trait">Light</span><span class="item-trait">Positive</span>
-**Source** [[Character Guide]] 
+**Source** [[DATABASE/source/Character Guide|Character Guide]] 
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 60 feet; **Targets** 1 creature
 

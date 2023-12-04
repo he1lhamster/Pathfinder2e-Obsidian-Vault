@@ -20,6 +20,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
@@ -36,9 +37,9 @@ type: Focus
 # Untwisting Iron Pillar<span class="item-type">Focus 9</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Abjuration</span><span class="item-trait">Earth</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 **Cast** <span class="action-icon">1</span> verbal
 **Duration** 5 rounds
 
 ---
-You call upon the earth and your ki to shield you from your enemies. You gain 50 temporary Hit Points that last for the duration or until you lose them, as well as resistance 5 to all physical damage (except [[Adamantine Weapon]]).
+You call upon the earth and your ki to shield you from your enemies. You gain 50 temporary Hit Points that last for the duration or until you lose them, as well as resistance 5 to all physical damage (except [[DATABASE/equipment/Adamantine Weapon|adamantine]]).

@@ -21,6 +21,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -38,7 +39,7 @@ type: Spell
 # Water Breathing<span class="item-type">Spell 2</span>
 
 <span class="item-trait">Transmutation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, divine, primal
 **Cast** 1 minute (somatic, verbal)
 **Range** 30 feet; **Targets** up to 5 creatures

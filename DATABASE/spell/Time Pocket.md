@@ -22,6 +22,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
@@ -38,7 +39,7 @@ type: Spell
 # Time Pocket<span class="item-type">Spell 3</span>
 
 <span class="item-trait">Transmutation</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Traditions** arcane, occult
 **Cast** 1 minute (material, somatic, verbal)
 **Range** touch; **Targets** one item of 1 Bulk or less that a willing creature is holding

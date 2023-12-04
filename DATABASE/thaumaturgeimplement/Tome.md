@@ -2,6 +2,7 @@
 id: '7'
 name: Tome
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 trait: null
 type: Thaumaturge Implement
@@ -9,12 +10,12 @@ type: Thaumaturge Implement
 ---
 # Tome
 
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 Tome implements embody lost knowledge and otherworldly insights. While a weathered book is most common, tome implements can have as many different form factors as there are ways to store knowledge, from carved clay tablets to bundles of knotted cords. Tome implements are associated with the harrow suit of books and the astrological signs of the stargazer and the underworld dragon.
 
 ## Initiate Benefit
 
-While you hold your tome, lines of text appear on the open pages, revealing useful information. While you hold your tome, you gain a +1 circumstance bonus to all skill checks to [[Recall Knowledge]].
+While you hold your tome, lines of text appear on the open pages, revealing useful information. While you hold your tome, you gain a +1 circumstance bonus to all skill checks to [[DATABASE/action/Recall Knowledge|Recall Knowledge]].
  During your daily preparations, you can gain the trained proficiency rank in two skills of your choice until you prepare again. You retain the benefit as long as the tome is on your person, even if you aren't holding it. At 3rd level, you're an expert in one of the skills and trained in the other, and at 5th level, you're an expert in both skills. Since these proficiencies are temporary, you can't use them as a prerequisite for a skill increase or a permanent character option like a feat.
 
 ## Adept Benefit<span class="item-type">7th</span>
@@ -24,9 +25,9 @@ In addition to the initiate benefits, your tome inscribes insights into creature
 
 ## Intensify Vulnerability<span class="item-type">9th</span>
 
-Your tome's power not only reads a creature's present but even records its future actions. When you use [[Intensify Vulnerability]], roll a d20 and set the result aside. At any time until the start of your next turn, you can use the d20 result you set aside for an attack roll to Strike the target of your [[Exploit Vulnerability]], instead of rolling a new d20; this is a fortune effect.
+Your tome's power not only reads a creature's present but even records its future actions. When you use [[DATABASE/action/Intensify Vulnerability|Intensify Vulnerability]], roll a d20 and set the result aside. At any time until the start of your next turn, you can use the d20 result you set aside for an attack roll to Strike the target of your [[DATABASE/action/Exploit Vulnerability|Exploit Vulnerability]], instead of rolling a new d20; this is a fortune effect.
 
 ## Paragon Benefit<span class="item-type">17th</span>
 
-In addition to the other benefits, your tome's information alerts you to ambushes and attacks from your foes. While holding your tome, you can always roll a skill check for initiative against creatures or haunts using [[Lore]]. If you do, you gain a +3 circumstance bonus to your initiative roll.
+In addition to the other benefits, your tome's information alerts you to ambushes and attacks from your foes. While holding your tome, you can always roll a skill check for initiative against creatures or haunts using [[DATABASE/skill/Lore|Esoteric Lore]]. If you do, you gain a +3 circumstance bonus to your initiative roll.
  The initiate benefit's circumstance bonus to Recall Knowledge from holding your tome increases from +1 to +2. When you succeed at the Recall Knowledge check granted by the tome's adept benefit, the bonus applies to all attack rolls you make before the start of your next turn, not just your next one. Lastly, when you gain temporary skill proficiencies, both are legendary.

@@ -21,6 +21,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -39,7 +40,7 @@ type: Spell
 # Status<span class="item-type">Spell 2</span>
 
 <span class="item-trait">Detection</span><span class="item-trait">Divination</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** divine, occult, primal
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** touch; **Targets** 1 willing living creature

@@ -22,6 +22,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -38,7 +39,7 @@ type: Spell
 # Summon Giant<span class="item-type">Spell 5</span>
 
 <span class="item-trait">Conjuration</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** primal
 **Spell List** elemental
 **Cast** <span class="action-icon">3</span> material, somatic, verbal
@@ -46,7 +47,7 @@ type: Spell
 **Duration** sustained up to 1 minute
 
 ---
-You conjure a giant to fight for you. This works like [[Summon Animal]], except you summon a common creature that has the giant trait and whose level is 5 or lower, such as those below.
+You conjure a giant to fight for you. This works like [[DATABASE/spell/Summon Animal|summon animal]], except you summon a common creature that has the giant trait and whose level is 5 or lower, such as those below.
 
 ---
 **Heightened (6th)** Level 7.
@@ -57,52 +58,52 @@ You conjure a giant to fight for you. This works like [[Summon Animal]], except 
 
 ## Level 3 Giants
 
-[[Ogre Warrior]] (CE)
+[[DATABASE/monster/Ogre Warrior|Ogre Warrior]] (CE)
 
 ## Level 4 Giants
 
-[[Ogre Glutton]] (CE)
+[[DATABASE/monster/Ogre Glutton|Ogre Glutton]] (CE)
 
 ## Level 5 Giants
 
-[[Troll]] (CE)
+[[DATABASE/monster/Troll|Troll]] (CE)
 
 ## Level 6 Giants
 
-[[Cave Giant]] (CE), [[Ettin]] (CE), [[Wood Giant]] (CG)
+[[DATABASE/monster/Cave Giant|Cave Giant]] (CE), [[DATABASE/monster/Ettin|Ettin]] (CE), [[DATABASE/monster/Wood Giant|Wood Giant]] (CG)
 
 ## Level 7 Giants
 
-[[Hill Giant]] (CE), [[Ogre Boss]] (CE)
+[[DATABASE/monster/Hill Giant|Hill Giant]] (CE), [[DATABASE/monster/Ogre Boss|Ogre Boss]] (CE)
 
 ## Level 8 Giants
 
-[[Marsh Giant]] (CE), [[Onidoshi]] (LE), [[Stone Giant]] (N)
+[[DATABASE/monster/Marsh Giant|Marsh Giant]] (CE), [[DATABASE/monster/Onidoshi|Onidoshi]] (LE), [[DATABASE/monster/Stone Giant|Stone Giant]] (N)
 
 ## Level 9 Giants
 
-[[Desert Giant]] (LN), [[Frost Giant]] (CE)
+[[DATABASE/monster/Desert Giant|Desert Giant]] (LN), [[DATABASE/monster/Frost Giant|Frost Giant]] (CE)
 
 ## Level 10 Giants
 
-[[Fire Giant]] (LE), [[Troll King]] (CE)
+[[DATABASE/monster/Fire Giant|Fire Giant]] (LE), [[DATABASE/monster/Troll King|Troll King]] (CE)
 
 ## Level 11 Giants
 
-[[Cloud Giant]] (N)
+[[DATABASE/monster/Cloud Giant|Cloud Giant]] (N)
 
 ## Level 12 Giants
 
-[[Athach]] (CE), [[Taiga Giant]] (CN), [[Tomb Giant]] (NE)
+[[DATABASE/monster/Athach|Athach]] (CE), [[DATABASE/monster/Taiga Giant|Taiga Giant]] (CN), [[DATABASE/monster/Tomb Giant|Tomb Giant]] (NE)
 
 ## Level 13 Giants
 
-[[Ice Yai]] (CE), [[Shadow Giant]] (LE), [[Storm Giant]] (CG)
+[[DATABASE/monster/Ice Yai|Ice Yai]] (CE), [[DATABASE/monster/Shadow Giant|Shadow Giant]] (LE), [[DATABASE/monster/Storm Giant|Storm Giant]] (CG)
 
 ## Level 14 Giants
 
-[[Fire Yai]] (LE), [[Plague Giant]] (NE)
+[[DATABASE/monster/Fire Yai|Fire Yai]] (LE), [[DATABASE/monster/Plague Giant|Plague Giant]] (NE)
 
 ## Level 15 Giants
 
-[[Taiga Yai]] (NE)
+[[DATABASE/monster/Taiga Yai|Taiga Yai]] (NE)

@@ -21,6 +21,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -38,9 +39,9 @@ type: Spell
 # Spirit Link<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Healing</span><span class="item-trait">Necromancy</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** divine, occult
-**Lesson** [[Lesson of Life]]
+**Lesson** [[DATABASE/witchlesson/Lesson of Life|lesson of life]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet; **Targets** 1 willing creature
 **Duration** 10 minutes

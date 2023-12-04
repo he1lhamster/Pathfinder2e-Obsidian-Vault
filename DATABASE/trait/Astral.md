@@ -2,6 +2,7 @@
 id: '14'
 name: Astral
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Astral
@@ -10,13 +11,13 @@ type: Trait
 ---
 # Astral
 
-**Source** [[Core Rulebook]] 
-Astral creatures are native of the [[Astral Plane]]. They can survive the basic environmental effects of the Astral Plane.
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+Astral creatures are native of the [[DATABASE/plane/Astral Plane|Astral Plane]]. They can survive the basic environmental effects of the Astral Plane.
 
 ## Eidolons
 
-[[Construct Eidolon]], [[Dragon Eidolon]]
+[[DATABASE/summonereidolon/Construct Eidolon|Construct]], [[DATABASE/summonereidolon/Dragon Eidolon|Dragon]]
 
 ## Monsters
 
-[[Adachros]], [[Aiudara Wraith]], [[Caulborn]], [[Crownbound Constellation]], [[Ioton]], [[Loreavor]], [[Ouroboros]], [[Shining Child]], [[Shulsaga]], [[Vazgorlu]]
+[[DATABASE/monster/Adachros|Adachros]], [[DATABASE/monster/Aiudara Wraith|Aiudara Wraith]], [[DATABASE/monster/Caulborn|Caulborn]], [[DATABASE/monster/Crownbound Constellation|Crownbound Constellation]], [[DATABASE/monster/Ioton|Ioton]], [[DATABASE/monster/Loreavor|Loreavor]], [[DATABASE/monster/Ouroboros|Ouroboros]], [[DATABASE/monster/Shining Child|Shining Child]], [[DATABASE/monster/Shulsaga|Shulsaga]], [[DATABASE/monster/Vazgorlu|Vazgorlu]]

@@ -28,6 +28,7 @@ patron_theme: null
 range: 60 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -44,9 +45,9 @@ type: Spell
 # Wall of Thorns<span class="item-type">Spell 3</span>
 
 <span class="item-trait">Conjuration</span><span class="item-trait">Plant</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** primal
-**Deities** [[Erastil]], [[Fandarra]], [[Jaidi]], [[Treerazer]], [[Xhamen-Dor]], [[Zon-Kuthon]]
+**Deities** [[DATABASE/deity/Erastil|Erastil]], [[DATABASE/deity/Fandarra|Fandarra]], [[DATABASE/deity/Jaidi|Jaidi]], [[DATABASE/deity/Treerazer|Treerazer]], [[DATABASE/deity/Xhamen-Dor|Xhamen-Dor]], [[DATABASE/deity/Zon-Kuthon|Zon-Kuthon]]
 **Cast** <span class="action-icon">3</span> material, somatic, verbal
 **Range** 60 feet
 **Duration** 1 minute

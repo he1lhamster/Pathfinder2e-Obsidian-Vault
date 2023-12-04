@@ -21,6 +21,7 @@ patron_theme: null
 range: 60 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Necromancy
 source: '[[DATABASE/source/Pathfinder 147. Tomorrow Must Burn|Pathfinder #147: Tomorrow
@@ -40,7 +41,7 @@ type: Spell
 # Spiritual Anamnesis<span class="item-type">Spell 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Mental</span><span class="item-trait">Necromancy</span>
-**Source** [[Pathfinder 147. Tomorrow Must Burn]]
+**Source** [[DATABASE/source/Pathfinder 147. Tomorrow Must Burn|Pathfinder #147: Tomorrow Must Burn]]
 **Traditions** divine, occult
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 60 feet; **Targets** 1 creature
@@ -49,6 +50,6 @@ type: Spell
 ---
 Memories of a past life that seem incredibly real (and may even be) overwhelm the target’s mind. This is especially disorienting for undead and creatures that have lived a previous life (such as celestials, fiends, monitors, and many other extraplanar creatures); if such creatures roll a critical success on their save, they get a success instead, and if they roll a failure, they get a critical failure instead.
 **Critical Success** The creature is unaffected.
-**Success** The creature is [[Slowed]] 1 for 1 round.
+**Success** The creature is [[DATABASE/condition/Slowed|slowed]] 1 for 1 round.
 **Failure** The target is slowed 1 for 1 minute and babbles about the visions, possibly providing information about what they saw.
-**Critical Failure** As failure, but the target is also [[Stunned]] 3.
+**Critical Failure** As failure, but the target is also [[DATABASE/condition/Stunned|stunned]] 3.

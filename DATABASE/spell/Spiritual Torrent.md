@@ -19,6 +19,7 @@ patron_theme: null
 range: 60 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: basicFortitude
 school: Necromancy
 source: '[[DATABASE/source/Pathfinder 186. Ghost King''s Rage|Pathfinder #186: Ghost
@@ -37,7 +38,7 @@ type: Spell
 # Spiritual Torrent<span class="item-type">Spell 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Necromancy</span>
-**Source** [[Pathfinder 186. Ghost King's Rage]]
+**Source** [[DATABASE/source/Pathfinder 186. Ghost King's Rage|Pathfinder #186: Ghost King's Rage]]
 **Traditions** divine, occult
 **Cast** <span class="action-icon">2</span> or <span class="action-icon">3</span> 
 **Range** 60 feet; **Area** varies; **Targets** varies

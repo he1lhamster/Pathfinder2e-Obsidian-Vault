@@ -21,6 +21,7 @@ patron_theme: null
 range: 60 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: basicReflex
 school: Divination
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
@@ -40,7 +41,7 @@ type: Spell
 # Suspended Retribution<span class="item-type">Spell 6</span>
 
 <span class="item-trait">Curse</span><span class="item-trait">Divination</span><span class="item-trait">Mental</span><span class="item-trait">Prediction</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Traditions** divine, occult
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 60 feet; **Targets** 1 creature

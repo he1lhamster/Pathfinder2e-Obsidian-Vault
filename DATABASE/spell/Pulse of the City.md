@@ -23,6 +23,7 @@ patron_theme: null
 range: 25 miles
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -40,8 +41,8 @@ type: Focus
 # Pulse of the City<span class="item-type">Focus 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Cleric</span><span class="item-trait">Divination</span><span class="item-trait">Scrying</span>
-**Source** [[Core Rulebook]] 
-**Domain** [[Cities Domain]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Domain** [[DATABASE/domain/Cities Domain|cities]]
 **Cast** <span class="action-icon">3</span> material, somatic, verbal
 **Range** 25 miles
 
@@ -53,7 +54,7 @@ You tap into the zeitgeist of the nearest settlement in range (if any). You lear
 * **Masses** common folk and merchants (gathering mobs, major sales)
 
 When uttering your word, you can exclude events you already know about, whether you know about them from this spell or from other experiences. If you cast _pulse of the city_ again within 24 hours, you can say “echo” instead of another word to get an update on the event you learned about the last time you Cast the Spell.
- _Pulse of the city_ reveals only publicly available or observable information. You never learn clandestine movements or other details people are specifically trying to hide. The spell is also notoriously bad at overcoming magic meant to avoid detection; it automatically fails to reveal information about events involving creatures, places, or objects affected by spells that could prevent or counteract pulse of the city (such as [[Nondetection]]).
+ _Pulse of the city_ reveals only publicly available or observable information. You never learn clandestine movements or other details people are specifically trying to hide. The spell is also notoriously bad at overcoming magic meant to avoid detection; it automatically fails to reveal information about events involving creatures, places, or objects affected by spells that could prevent or counteract pulse of the city (such as [[DATABASE/spell/Nondetection|nondetection]]).
 
 ---
 **Heightened (5th)** The range increases to 100 miles.

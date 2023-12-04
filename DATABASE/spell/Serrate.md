@@ -20,6 +20,7 @@ patron_theme: null
 range: touch
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
@@ -37,8 +38,8 @@ type: Focus
 # Serrate<span class="item-type">Focus 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Focus</span><span class="item-trait">Manipulate</span><span class="item-trait">Metal</span>
-**Source** [[Rage of Elements]]
-**Domain** [[Metal Domain]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
+**Domain** [[DATABASE/domain/Metal Domain|metal]]
 **Cast** <span class="action-icon">1</span> 
 **Range** touch; **Targets** 1 metal weapon
 

@@ -22,6 +22,7 @@ patron_theme: null
 range: touch
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
@@ -39,11 +40,11 @@ type: Focus
 # Shambling Horror<span class="item-type">Focus 6</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Evil</span><span class="item-trait">Necromancy</span>
-**Source** [[Book of the Dead]]
+**Source** [[DATABASE/source/Book of the Dead|Book of the Dead]]
 **Cast** <span class="action-icon">3</span> material, somatic, verbal
 **Range** touch; **Targets** 1 corpse of a Gargantuan or smaller creature that has a level no greater than your level – 4 and has died since the last sunrise
 **Duration** 10 minutes
 
 ---
-You reanimate the corpse of a fallen creature as an undead minion under your control. The reanimated creature is an undead [[Skeleton]] or [[Zombie]]. Choose a skeleton or zombie stat block of the same size as the original creature and of a level no higher than the creature's original level. The shambling horror keeps Speeds it had in life, as well as melee Strikes that deal only physical damage. These attacks use the highest attack modifier from the skeleton or zombie you choose. Some of the skeleton's or zombie's abilities might not make sense for the shambling horror, and some abilities the creature had in life might not persist in undeath; the GM makes the final choice of what abilities the horror has.
+You reanimate the corpse of a fallen creature as an undead minion under your control. The reanimated creature is an undead [[DATABASE/monsterfamily/Skeleton|skeleton]] or [[DATABASE/monsterfamily/Zombie|zombie]]. Choose a skeleton or zombie stat block of the same size as the original creature and of a level no higher than the creature's original level. The shambling horror keeps Speeds it had in life, as well as melee Strikes that deal only physical damage. These attacks use the highest attack modifier from the skeleton or zombie you choose. Some of the skeleton's or zombie's abilities might not make sense for the shambling horror, and some abilities the creature had in life might not persist in undeath; the GM makes the final choice of what abilities the horror has.
  A shambling horror has the minion trait. You can't control more than one shambling horror at the same time—if you create a new one while one is already under your control, you must choose one to release, causing it to lose the minion trait. Shambling horrors that have been released expire when the spell duration does. After the duration expires, you can cast _shambling horror_ again on the same corpse to animate it once more. However, after the next sunrise, you can no longer animate the corpse as a shambling horror.

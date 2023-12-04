@@ -22,6 +22,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -39,9 +40,9 @@ type: Spell
 # Project Image<span class="item-type">Spell 7</span>
 
 <span class="item-trait">Illusion</span><span class="item-trait">Mental</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult
-**Deity** [[Nyarlathotep]]
+**Deity** [[DATABASE/deity/Nyarlathotep|Nyarlathotep (The Crawling Chaos)]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet
 **Duration** sustained up to 1 minute

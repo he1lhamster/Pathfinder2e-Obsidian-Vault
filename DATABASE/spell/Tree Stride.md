@@ -27,6 +27,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -45,9 +46,9 @@ type: Spell
 # Tree Stride<span class="item-type">Spell 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Conjuration</span><span class="item-trait">Plant</span><span class="item-trait">Teleportation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** primal
-**Deities** [[Elven Pantheon]], [[Erastil]], [[Gendowyn]], [[Yuelral]]
+**Deities** [[DATABASE/deity/Elven Pantheon|Elven Pantheon]], [[DATABASE/deity/Erastil|Erastil]], [[DATABASE/deity/Gendowyn|Gendowyn]], [[DATABASE/deity/Yuelral|Yuelral]]
 **Cast** 1 minute (material, somatic, verbal)
 
 ---

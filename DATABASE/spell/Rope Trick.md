@@ -22,6 +22,7 @@ patron_theme: null
 range: touch
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -40,7 +41,7 @@ type: Spell
 # Rope Trick<span class="item-type">Spell 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Conjuration</span><span class="item-trait">Extradimensional</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult
 **Cast** 10 minutes (material, somatic, verbal)
 **Range** touch; **Targets** 1 touched piece of rope from 5 to 30 feet long

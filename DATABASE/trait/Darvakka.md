@@ -2,6 +2,7 @@
 id: '422'
 name: Darvakka
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 trait:
 - Darvakka
@@ -10,9 +11,9 @@ type: Trait
 ---
 # Darvakka
 
-**Source** [[Book of the Dead]]
-Entropic undead creatures twisted by the [[Shadow Plane]] and [[Negative Energy Plane]].
+**Source** [[DATABASE/source/Book of the Dead|Book of the Dead]]
+Entropic undead creatures twisted by the [[DATABASE/plane/Shadow Plane|Shadow Plane]] and [[DATABASE/plane/Negative Energy Plane|Negative Energy Plane]].
 
 ## Monsters
 
-[[Nasurgeth (Nightwave)]], [[Sykever (Nightwalker)]], [[Darvakka, Umbraex]], [[Urveth (Nightcrawler)]], [[Vanyver (Nightwing)]]
+[[DATABASE/monster/Nasurgeth (Nightwave)|Nasurgeth]], [[DATABASE/monster/Sykever (Nightwalker)|Sykever]], [[DATABASE/monster/Darvakka, Umbraex|Umbraex]], [[DATABASE/monster/Urveth (Nightcrawler)|Urveth]], [[DATABASE/monster/Vanyver (Nightwing)|Vanyver]]

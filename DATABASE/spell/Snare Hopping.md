@@ -21,6 +21,7 @@ patron_theme: null
 range: 10 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
@@ -38,7 +39,7 @@ type: Focus
 # Snare Hopping<span class="item-type">Focus 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Conjuration</span><span class="item-trait">Ranger</span><span class="item-trait">Teleportation</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 10 feet; **Targets** one snare you built
 

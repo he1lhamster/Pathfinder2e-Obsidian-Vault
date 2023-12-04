@@ -20,6 +20,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Conjuration
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -37,7 +38,7 @@ type: Spell
 # Unexpected Transposition<span class="item-type">Spell 6</span>
 
 <span class="item-trait">Conjuration</span><span class="item-trait">Teleportation</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Traditions** arcane, occult
 **Cast** <span class="action-icon">5</span> verbal; **Trigger** You are targeted with an enemy's Strike.
 **Range** 30 feet; **Targets** 1 creature other than the triggering enemy

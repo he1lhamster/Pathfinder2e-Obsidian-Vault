@@ -27,6 +27,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Reflex
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -43,9 +44,9 @@ type: Spell
 # Weapon Storm<span class="item-type">Spell 4</span>
 
 <span class="item-trait">Evocation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, primal
-**Deities** [[Diomazul]], [[Gorum]], [[Raumya]], [[Skode]], [[Szuriel]]
+**Deities** [[DATABASE/deity/Diomazul|Diomazul]], [[DATABASE/deity/Gorum|Gorum]], [[DATABASE/deity/Raumya|Raumya]], [[DATABASE/deity/Skode|Skode]], [[DATABASE/deity/Szuriel|Szuriel]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Area** 30-foot cone or 10-foot emanation
 **Saving Throw** Reflex

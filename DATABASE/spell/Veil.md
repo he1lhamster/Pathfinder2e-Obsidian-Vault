@@ -23,6 +23,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -40,9 +41,9 @@ type: Spell
 # Veil<span class="item-type">Spell 4</span>
 
 <span class="item-trait">Illusion</span><span class="item-trait">Visual</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult
-**Deities** [[Sivanah]], [[Winlas]]
+**Deities** [[DATABASE/deity/Sivanah|Sivanah]], [[DATABASE/deity/Winlas|Winlas]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet; **Targets** up to 10 creatures
 **Duration** 1 hour

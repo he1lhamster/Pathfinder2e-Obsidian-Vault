@@ -21,6 +21,7 @@ patron_theme: null
 range: 60 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: Fortitude
 school: Necromancy
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
@@ -38,8 +39,8 @@ type: Focus
 # Steal Shadow<span class="item-type">Focus 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Necromancy</span><span class="item-trait">Shadow</span><span class="item-trait">Sorcerer</span>
-**Source** [[Advanced Player's Guide]] 
-**Bloodline** [[Shadow]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Bloodline** [[DATABASE/sorcererbloodline/Shadow|shadow]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 60 feet; **Targets** 1 creature
 **Saving Throw** Fortitude; **Duration** sustained up to 1 minute
@@ -47,7 +48,7 @@ type: Focus
 ---
 You steal a creature's shadow, leaving it weakened and vulnerable. The target must attempt a Fortitude save.
 **Critical Success** The target is unaffected.
-**Success** The target is [[Enfeebled]] for 1 round.
+**Success** The target is [[DATABASE/condition/Enfeebled|enfeebled 1]] for 1 round.
 **Failure** The target takes 3d4 negative damage and is enfeebled 1 for the spell's duration as you tear its shadow away, collecting it in your hand. On subsequent rounds, the first time each round you Sustain the Spell, you can throttle the shadow to deal 3d4 negative damage to the target (basic Fortitude save). Until the spell ends, the target doesn't cast a shadow.
 **Critical Failure** As failure, but the target is enfeebled 2.
 

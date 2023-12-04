@@ -23,6 +23,7 @@ patron_theme: null
 range: 120 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -39,9 +40,9 @@ type: Spell
 # Spectral Hand<span class="item-type">Spell 2</span>
 
 <span class="item-trait">Necromancy</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult
-**Deities** [[Abraxas]], [[Monad]]
+**Deities** [[DATABASE/deity/Abraxas|Abraxas]], [[DATABASE/deity/Monad|Monad]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 120 feet
 **Duration** 1 minute

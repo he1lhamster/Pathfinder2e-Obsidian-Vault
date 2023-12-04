@@ -19,6 +19,7 @@ patron_theme: null
 range: 1,000 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
@@ -39,7 +40,7 @@ type: Spell
 # Signal Skyrocket<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Fire</span><span class="item-trait">Manipulate</span><span class="item-trait">Sonic</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Traditions** arcane, occult, primal
 **Cast** <span class="action-icon">3</span> 
 **Range** 1,000 feet; **Area** 30-foot burst
@@ -50,8 +51,8 @@ With a pinch of metallic powder and gunpowder, you call forth blistering red ene
  If the rocket explodes in an enclosed space smaller than the full size of the burst, each creature in the area takes 1d10 sonic damage depending on the result of its Reflex save.
 **Critical Success** The creature is unaffected.
 **Success** The creature takes half damage.
-**Failure** The creature takes full damage and is [[Dazzled]] for 1 round.
-**Critical Failure** The creature takes double damage and is [[Blinded]] for 1 round.
+**Failure** The creature takes full damage and is [[DATABASE/condition/Dazzled|dazzled]] for 1 round.
+**Critical Failure** The creature takes double damage and is [[DATABASE/condition/Blinded|blinded]] for 1 round.
 
 ---
 **Heightened (+1)** The sonic damage increases by 1d10.

@@ -20,6 +20,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -37,7 +38,7 @@ type: Focus
 # Shifting Form<span class="item-type">Focus 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Morph</span><span class="item-trait">Transmutation</span><span class="item-trait">Wizard</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Cast** <span class="action-icon">1</span> somatic
 **Duration** 1 minute
 

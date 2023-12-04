@@ -27,6 +27,7 @@ patron_theme: '[[DATABASE/witchpatron/Night|Night]]'
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -46,11 +47,11 @@ type: Spell
 # Sleep<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Enchantment</span><span class="item-trait">Incapacitation</span><span class="item-trait">Mental</span><span class="item-trait">Sleep</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult
-**Deities** [[Bes]], [[Desna]], [[Kitumu]], [[Lady Jingxi]], [[Luhar]], [[The Prismatic Ray]]
-**Lesson** [[Lesson of Dreams]]
-**Patron Theme** [[Night]]
+**Deities** [[DATABASE/deity/Bes|Bes]], [[DATABASE/deity/Desna|Desna]], [[DATABASE/deity/Kitumu|Kitumu]], [[DATABASE/deity/Lady Jingxi|Lady Jingxi]], [[DATABASE/deity/Luhar|Luhar]], [[DATABASE/deity/The Prismatic Ray|The Prismatic Ray]]
+**Lesson** [[DATABASE/witchlesson/Lesson of Dreams|lesson of dreams]]
+**Patron Theme** [[DATABASE/witchpatron/Night|night]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet; **Area** 5-foot burst
 **Saving Throw** Will

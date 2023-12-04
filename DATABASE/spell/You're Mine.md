@@ -21,6 +21,7 @@ patron_theme: null
 range: 30 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -40,8 +41,8 @@ type: Focus
 # You're Mine<span class="item-type">Focus 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Emotion</span><span class="item-trait">Enchantment</span><span class="item-trait">Incapacitation</span><span class="item-trait">Mental</span><span class="item-trait">Sorcerer</span>
-**Source** [[Core Rulebook]] 
-**Bloodline** [[Hag]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Bloodline** [[DATABASE/sorcererbloodline/Hag|hag]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet; **Targets** 1 creature
 **Saving Throw** Will; **Duration** 1 round

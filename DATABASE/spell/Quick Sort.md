@@ -22,6 +22,7 @@ patron_theme: null
 range: 10 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -40,7 +41,7 @@ type: Spell
 # Quick Sort<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Transmutation</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Traditions** arcane, divine, occult, primal
 **Cast** <span class="action-icon">3</span> material, somatic, verbal
 **Range** 10 feet; **Targets** up to 200 unattended objects in range, each of light Bulk or less

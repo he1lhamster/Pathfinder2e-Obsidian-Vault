@@ -21,6 +21,7 @@ patron_theme: null
 range: 120 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -40,7 +41,7 @@ type: Cantrip
 # Ray of Frost<span class="item-type">Cantrip 1</span>
 
 <span class="item-trait">Attack</span><span class="item-trait">Cantrip</span><span class="item-trait">Cold</span><span class="item-trait">Evocation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, primal
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 120 feet; **Targets** 1 creature

@@ -21,6 +21,7 @@ patron_theme: null
 range: 30 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Enchantment
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
@@ -38,7 +39,7 @@ type: Spell
 # Synchronize Steps<span class="item-type">Spell 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Enchantment</span>
-**Source** [[Knights of Lastwall]]
+**Source** [[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]
 **Access** Knights of Lastwall have access to this spell.
 **Traditions** arcane, occult
 **Cast** <span class="action-icon">2</span> somatic, verbal

@@ -21,6 +21,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -37,7 +38,7 @@ type: Spell
 # Silence<span class="item-type">Spell 2</span>
 
 <span class="item-trait">Illusion</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** divine, occult
 **Cast** <span class="action-icon">2</span> material, somatic
 **Range** touch; **Targets** 1 willing creature

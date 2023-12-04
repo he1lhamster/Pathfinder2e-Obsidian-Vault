@@ -22,6 +22,7 @@ patron_theme: null
 range: 120 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -39,7 +40,7 @@ type: Spell
 # Zero Gravity<span class="item-type">Spell 6</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Evocation</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Traditions** arcane, occult
 **Cast** <span class="action-icon">3</span> material, somatic, verbal
 **Range** 120 feet; **Area** 20-foot radius, 40-foot tall cylinder

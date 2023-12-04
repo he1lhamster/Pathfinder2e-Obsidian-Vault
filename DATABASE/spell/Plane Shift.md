@@ -23,6 +23,7 @@ patron_theme: null
 range: touch
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -44,7 +45,7 @@ type: Spell
 # Plane Shift<span class="item-type">Spell 7</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Conjuration</span><span class="item-trait">Teleportation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, divine, occult, primal
 **Spell List** elemental
 **Cast** 10 minutes (focus, material, somatic, verbal)

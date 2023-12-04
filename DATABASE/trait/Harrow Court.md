@@ -2,6 +2,7 @@
 id: '496'
 name: Harrow Court
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 190. The Choosing|Pathfinder #190: The Choosing]]'
 trait:
 - Harrow Court
@@ -10,9 +11,9 @@ type: Trait
 ---
 # Harrow Court
 
-**Source** [[Pathfinder 190. The Choosing]]
-This trait is associated with the _Deck of Destiny_ and [[The Harrow Court]]. It is limited to the Stolen Fate campaign.
+**Source** [[DATABASE/source/Pathfinder 190. The Choosing|Pathfinder #190: The Choosing]]
+This trait is associated with the _Deck of Destiny_ and [[DATABASE/plane/The Harrow Court|the Harrow Court]]. It is limited to the Stolen Fate campaign.
 
 ## Equipment
 
-[[The Big Sky]], [[The Brass Dwarf]], [[The Carnival]], [[The Empty Throne]], [[The Fiend]], [[The Juggler]], [[The Liar]], [[The Locksmith]], [[The Mountain Man]], [[The Paladin]], [[The Publican]], [[The Rabbit Prince]], [[The Rakshasa]], [[The Silent Hag]], [[The Snakebite]], [[The Theater]], [[The Trumpet]], [[The Vision]]
+[[DATABASE/equipment/The Big Sky|The Big Sky]], [[DATABASE/equipment/The Brass Dwarf|The Brass Dwarf]], [[DATABASE/equipment/The Carnival|The Carnival]], [[DATABASE/equipment/The Empty Throne|The Empty Throne]], [[DATABASE/equipment/The Fiend|The Fiend]], [[DATABASE/equipment/The Juggler|The Juggler]], [[DATABASE/equipment/The Liar|The Liar]], [[DATABASE/equipment/The Locksmith|The Locksmith]], [[DATABASE/equipment/The Mountain Man|The Mountain Man]], [[DATABASE/equipment/The Paladin|The Paladin]], [[DATABASE/equipment/The Publican|The Publican]], [[DATABASE/equipment/The Rabbit Prince|The Rabbit Prince]], [[DATABASE/equipment/The Rakshasa|The Rakshasa]], [[DATABASE/equipment/The Silent Hag|The Silent Hag]], [[DATABASE/equipment/The Snakebite|The Snakebite]], [[DATABASE/equipment/The Theater|The Theater]], [[DATABASE/equipment/The Trumpet|The Trumpet]], [[DATABASE/equipment/The Vision|The Vision]]

@@ -22,6 +22,7 @@ patron_theme: null
 range: 30 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #166:
@@ -41,14 +42,14 @@ type: Spell
 # Return Beacon<span class="item-type">Spell 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Conjuration</span><span class="item-trait">Teleportation</span>
-**Source** [[Pathfinder 166. Despair on Danger Island]]
+**Source** [[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #166: Despair on Danger Island]]
 **Traditions** arcane, occult
 **Cast** 1 minute (material, somatic, verbal)
 **Range** 30 feet
 **Duration** 1 hour
 
 ---
-You create a unique planar beacon somewhere within the spell's range that remains in place. The beacon is invisible except when detected by [[Detect Magic]], in which case it looks like a 10-foot-wide tower of bright light stretching into the sky. At any time during the duration of the beacon, you can complete a 1-minute activity, which has the concentrate and manipulate traits, to focus on the beacon and transport yourself and any items you're wearing and holding from your current space to the location of the beacon. Transporting yourself in this way ends the spell. If this would bring another creature with you—even if you're carrying it in an extradimensional container—the beacon collapses, ending the spell, and the transportation attempt fails.
+You create a unique planar beacon somewhere within the spell's range that remains in place. The beacon is invisible except when detected by [[DATABASE/spell/Detect Magic|detect magic]], in which case it looks like a 10-foot-wide tower of bright light stretching into the sky. At any time during the duration of the beacon, you can complete a 1-minute activity, which has the concentrate and manipulate traits, to focus on the beacon and transport yourself and any items you're wearing and holding from your current space to the location of the beacon. Transporting yourself in this way ends the spell. If this would bring another creature with you—even if you're carrying it in an extradimensional container—the beacon collapses, ending the spell, and the transportation attempt fails.
  Casting _return beacon_ while a beacon is active causes the previous _return beacon_ spell to end. If you are not within 1 mile of the beacon, your attempt to transport yourself to the beacon fails. If a solid object is in the same space as the beacon when you transport yourself, you arrive in the nearest open space to the beacon. If there is not an open space within 30 feet of the beacon, your attempt to transport yourself fails, but the beacon remains intact.
 
 ---

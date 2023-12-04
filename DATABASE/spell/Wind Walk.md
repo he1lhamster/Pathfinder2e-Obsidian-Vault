@@ -23,6 +23,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -39,9 +40,9 @@ type: Spell
 # Wind Walk<span class="item-type">Spell 8</span>
 
 <span class="item-trait">Air</span><span class="item-trait">Transmutation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** primal
-**Deity** [[Isis]]
+**Deity** [[DATABASE/deity/Isis|Isis]]
 **Cast** 10 minutes (material, somatic, verbal)
 **Range** touch; **Targets** you and up to five creatures touched
 **Duration** 8 hours

@@ -2,6 +2,7 @@
 id: '230'
 name: Nymph
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait:
 - Nymph
@@ -10,9 +11,9 @@ type: Trait
 ---
 # Nymph
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 This family of beautiful fey creatures has strong ties to natural locations.
 
 ## Monsters
 
-[[Dryad]], [[Dryad Queen (Hamadryad)]], [[Hesperid]], [[Hesperid Queen]], [[Lampad]], [[Lampad Queen]], [[Naiad]], [[Naiad Queen]], [[Hora]], [[Hora Queen]]
+[[DATABASE/monster/Dryad|Dryad]], [[DATABASE/monster/Dryad Queen (Hamadryad)|Dryad Queen]], [[DATABASE/monster/Hesperid|Hesperid]], [[DATABASE/monster/Hesperid Queen|Hesperid Queen]], [[DATABASE/monster/Lampad|Lampad]], [[DATABASE/monster/Lampad Queen|Lampad Queen]], [[DATABASE/monster/Naiad|Naiad]], [[DATABASE/monster/Naiad Queen|Naiad Queen]], [[DATABASE/monster/Hora|Summer Hora]], [[DATABASE/monster/Hora Queen|Summer Hora Queen]]

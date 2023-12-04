@@ -21,6 +21,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -37,7 +38,7 @@ type: Spell
 # Shrink Item<span class="item-type">Spell 3</span>
 
 <span class="item-trait">Polymorph</span><span class="item-trait">Transmutation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane
 **Cast** 10 minutes (somatic, verbal)
 **Range** touch; **Targets** 1 non-magical object up to 20 cubic feet in volume and up to 80 Bulk

@@ -22,6 +22,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -40,7 +41,7 @@ type: Spell
 # Restyle<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Transmutation</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Traditions** arcane, divine, occult, primal
 **Cast** 1 minute (material, somatic, verbal)
 **Range** touch; **Targets** 1 piece of clothing currently worn by you or an ally

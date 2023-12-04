@@ -24,6 +24,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -40,10 +41,10 @@ type: Spell
 # Reflective Scales<span class="item-type">Spell 4</span>
 
 <span class="item-trait">Abjuration</span>
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Traditions** arcane, primal
-**Bloodline** [[Wyrmblessed]]
-**Deities** [[Abraxas]], [[Nalinivati]], [[Shizuru]]
+**Bloodline** [[DATABASE/sorcererbloodline/Wyrmblessed|wyrmblessed]]
+**Deities** [[DATABASE/deity/Abraxas|Abraxas]], [[DATABASE/deity/Nalinivati|Nalinivati]], [[DATABASE/deity/Shizuru|Shizuru]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Duration** 1 minute
 

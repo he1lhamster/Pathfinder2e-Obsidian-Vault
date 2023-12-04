@@ -31,6 +31,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -50,10 +51,10 @@ type: Spell
 # Suggestion<span class="item-type">Spell 4</span>
 
 <span class="item-trait">Enchantment</span><span class="item-trait">Incapacitation</span><span class="item-trait">Linguistic</span><span class="item-trait">Mental</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult
-**Bloodlines** [[Diabolic]], [[Fey]], [[Harrow]]
-**Deities** [[Ardad Lili]], [[Asmodeus]], [[Dispater]], [[Kols]], [[Nyarlathotep]], [[Pazuzu]], [[The Green Mother]]
+**Bloodlines** [[DATABASE/sorcererbloodline/Diabolic|diabolic]], [[DATABASE/sorcererbloodline/Fey|fey]], [[DATABASE/sorcererbloodline/Harrow|harrow]]
+**Deities** [[DATABASE/deity/Ardad Lili|Ardad Lili]], [[DATABASE/deity/Asmodeus|Asmodeus]], [[DATABASE/deity/Dispater|Dispater]], [[DATABASE/deity/Kols|Kols]], [[DATABASE/deity/Nyarlathotep|Nyarlathotep (The Crawling Chaos)]], [[DATABASE/deity/Pazuzu|Pazuzu]], [[DATABASE/deity/The Green Mother|The Green Mother]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet; **Targets** 1 creature
 **Saving Throw** Will; **Duration** varies

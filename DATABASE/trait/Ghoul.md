@@ -2,6 +2,7 @@
 id: '218'
 name: Ghoul
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait:
 - Ghoul
@@ -10,9 +11,9 @@ type: Trait
 ---
 # Ghoul
 
-**Source** [[Bestiary]]
+**Source** [[DATABASE/source/Bestiary|Bestiary]]
 Ghouls are vile undead creatures that feast on flesh.
 
 ## Monsters
 
-[[Barnacle Ghoul]], [[Ghast]], [[Ghoul]], [[Ghoul Antipaladin]], [[Ghoul Razorclaw]], [[Lacedon]], [[Leng Ghoul]], [[Priest of Kabriri]], [[Straugh]]
+[[DATABASE/monster/Barnacle Ghoul|Barnacle Ghoul]], [[DATABASE/monster/Ghast|Ghast]], [[DATABASE/monster/Ghoul|Ghoul]], [[DATABASE/monster/Ghoul Antipaladin|Ghoul Antipaladin]], [[DATABASE/monster/Ghoul Razorclaw|Ghoul Razorclaw]], [[DATABASE/monster/Lacedon|Lacedon]], [[DATABASE/monster/Leng Ghoul|Leng Ghoul]], [[DATABASE/monster/Priest of Kabriri|Priest of Kabriri]], [[DATABASE/monster/Straugh|Straugh]]

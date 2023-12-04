@@ -21,6 +21,7 @@ patron_theme: null
 range: 120 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -38,8 +39,8 @@ type: Focus
 # Tempt Fate<span class="item-type">Focus 4</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Cleric</span><span class="item-trait">Divination</span><span class="item-trait">Fortune</span>
-**Source** [[Core Rulebook]] 
-**Domain** [[Fate Domain]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Domain** [[DATABASE/domain/Fate Domain|fate]]
 **Cast** <span class="action-icon">5</span> somatic; **Trigger** You or an ally within range attempts a saving throw
 **Range** 120 feet; **Targets** the triggering creature
 

@@ -21,6 +21,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Fortitude
 school: Necromancy
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
@@ -40,7 +41,7 @@ type: Spell
 # Seal Fate<span class="item-type">Spell 4</span>
 
 <span class="item-trait">Curse</span><span class="item-trait">Death</span><span class="item-trait">Necromancy</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Traditions** arcane, divine, occult
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** touch; **Targets** 1 living creature

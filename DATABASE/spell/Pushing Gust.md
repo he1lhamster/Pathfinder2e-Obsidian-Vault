@@ -22,6 +22,7 @@ patron_theme: null
 range: 500 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: Fortitude
 school: Conjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -39,8 +40,8 @@ type: Focus
 # Pushing Gust<span class="item-type">Focus 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Air</span><span class="item-trait">Cleric</span><span class="item-trait">Conjuration</span>
-**Source** [[Core Rulebook]] 
-**Domain** [[Air Domain]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Domain** [[DATABASE/domain/Air Domain|air]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 500 feet; **Targets** 1 creature
 **Saving Throw** Fortitude

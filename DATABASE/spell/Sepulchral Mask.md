@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Divination
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
@@ -40,8 +41,8 @@ type: Focus
 # Sepulchral Mask<span class="item-type">Focus 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Divination</span><span class="item-trait">Emotion</span><span class="item-trait">Mental</span><span class="item-trait">Sorcerer</span><span class="item-trait">Visual</span>
-**Source** [[Advanced Player's Guide]] 
-**Bloodline** [[Psychopomp]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Bloodline** [[DATABASE/sorcererbloodline/Psychopomp|psychopomp]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Area** 5-foot emanation; **Targets** enemies in the area
 **Saving Throw** Will; **Duration** 1 minute

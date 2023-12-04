@@ -2,6 +2,7 @@
 id: '53'
 name: Duergar
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Duergar
@@ -10,9 +11,9 @@ type: Trait
 ---
 # Duergar
 
-**Source** [[Core Rulebook]] 
-Subterranean kin of the [[Dwarf]], duergar typically have [[Darkvision]] and immunity to poison. They are not easily fooled by illusions.
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+Subterranean kin of the [[DATABASE/ancestry/Dwarf|dwarves]], duergar typically have [[DATABASE/monsterability/Darkvision|darkvision]] and immunity to poison. They are not easily fooled by illusions.
 
 ## Monsters
 
-[[Duergar Bombardier]], [[Duergar Sharpshooter]], [[Duergar Taskmaster]], [[Hagegraf Royal Guard]], [[Hryngar Assassin]], [[Hryngar Breccia Squad]], [[Hryngar Forgepriest]], [[Hryngar King's Agent]]
+[[DATABASE/monster/Duergar Bombardier|Duergar Bombardier]], [[DATABASE/monster/Duergar Sharpshooter|Duergar Sharpshooter]], [[DATABASE/monster/Duergar Taskmaster|Duergar Taskmaster]], [[DATABASE/monster/Hagegraf Royal Guard|Hagegraf Royal Guard]], [[DATABASE/monster/Hryngar Assassin|Hryngar Assassin]], [[DATABASE/monster/Hryngar Breccia Squad|Hryngar Breccia Squad]], [[DATABASE/monster/Hryngar Forgepriest|Hryngar Forgepriest]], [[DATABASE/monster/Hryngar King's Agent|Hryngar King's Agent]]

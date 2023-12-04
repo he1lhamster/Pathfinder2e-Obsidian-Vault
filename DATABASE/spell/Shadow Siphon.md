@@ -23,6 +23,7 @@ patron_theme: null
 range: 60 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -40,10 +41,10 @@ type: Spell
 # Shadow Siphon<span class="item-type">Spell 5</span>
 
 <span class="item-trait">Illusion</span><span class="item-trait">Shadow</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult
-**Bloodlines** [[Shadow]], [[Harrow]]
-**Deities** [[Dajermube]], [[Kerkamoth]], [[Sivanah]]
+**Bloodlines** [[DATABASE/sorcererbloodline/Shadow|shadow]], [[DATABASE/sorcererbloodline/Harrow|harrow]]
+**Deities** [[DATABASE/deity/Dajermube|Dajermube]], [[DATABASE/deity/Kerkamoth|Kerkamoth]], [[DATABASE/deity/Sivanah|Sivanah]]
 **Cast** <span class="action-icon">5</span> verbal; **Trigger** A spell or magical effect deals damage
 **Range** 60 feet; **Targets** the triggering spell
 

@@ -22,6 +22,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -39,9 +40,9 @@ type: Spell
 # Tree Shape<span class="item-type">Spell 2</span>
 
 <span class="item-trait">Plant</span><span class="item-trait">Polymorph</span><span class="item-trait">Transmutation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** primal
-**Deity** [[Hathor]]
+**Deity** [[DATABASE/deity/Hathor|Hathor]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Duration** 8 hours
 

@@ -2,6 +2,7 @@
 id: '429'
 name: Psyche
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 trait:
 - Psyche
@@ -10,13 +11,13 @@ type: Trait
 ---
 # Psyche
 
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 Your psyche must be unleashed to use abilities that have the psyche trait, and they end automatically when your unleashed psyche subsides.
 
 ## Actions
 
-[[Calculate Threats]], [[Fade into Daydreams]], [[Recall the Teachings]], [[Restore the Mind]]
+[[DATABASE/action/Calculate Threats|Calculate Threats]], [[DATABASE/action/Fade into Daydreams|Fade into Daydreams]], [[DATABASE/action/Recall the Teachings|Recall the Teachings]], [[DATABASE/action/Restore the Mind|Restore the Mind]]
 
 ## Feats
 
-[[All in your Head]], [[Brain Drain]], [[Cranial Detonation]], [[Dream Guise]], [[Emotional Surge]], [[Impose Order (Psychic)]], [[Psi Burst]], [[Psi Catastrophe]], [[Scour the Library]], [[Wandering Thoughts]]
+[[DATABASE/feat/All in your Head|All in your Head]], [[DATABASE/feat/Brain Drain|Brain Drain]], [[DATABASE/feat/Cranial Detonation|Cranial Detonation]], [[DATABASE/feat/Dream Guise|Dream Guise]], [[DATABASE/feat/Emotional Surge|Emotional Surge]], [[DATABASE/feat/Impose Order (Psychic)|Impose Order (Psychic)]], [[DATABASE/feat/Psi Burst|Psi Burst]], [[DATABASE/feat/Psi Catastrophe|Psi Catastrophe]], [[DATABASE/feat/Scour the Library|Scour the Library]], [[DATABASE/feat/Wandering Thoughts|Wandering Thoughts]]

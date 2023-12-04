@@ -22,6 +22,7 @@ patron_theme: null
 range: 120 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -40,9 +41,9 @@ type: Spell
 # Wall of Ice<span class="item-type">Spell 5</span>
 
 <span class="item-trait">Cold</span><span class="item-trait">Evocation</span><span class="item-trait">Water</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, primal
-**Lesson** [[Lesson of the Frozen Queen]]
+**Lesson** [[DATABASE/witchlesson/Lesson of the Frozen Queen|lesson of the frozen queen]]
 **Cast** <span class="action-icon">3</span> material, somatic, verbal
 **Range** 120 feet
 **Duration** 1 minute

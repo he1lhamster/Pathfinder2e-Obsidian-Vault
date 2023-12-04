@@ -24,6 +24,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -41,9 +42,9 @@ type: Spell
 # Synaptic Pulse<span class="item-type">Spell 5</span>
 
 <span class="item-trait">Enchantment</span><span class="item-trait">Incapacitation</span><span class="item-trait">Mental</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** occult
-**Deities** [[Azathoth]], [[Doloras]], [[Vildeis]]
+**Deities** [[DATABASE/deity/Azathoth|Azathoth]], [[DATABASE/deity/Doloras|Doloras]], [[DATABASE/deity/Vildeis|Vildeis]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Area** 30-foot emanation
 **Saving Throw** Will; **Duration** 1 round

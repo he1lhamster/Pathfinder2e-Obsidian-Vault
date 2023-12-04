@@ -21,6 +21,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -37,14 +38,14 @@ type: Spell
 # Prismatic Armor<span class="item-type">Spell 7</span>
 
 <span class="item-trait">Abjuration</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Traditions** arcane, occult
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** touch; **Targets** 1 willing creature
 **Duration** 1 minute
 
 ---
-You wrap the target in armor made of multicolored light. It functions as [[Chromatic Armor]] that is all colors (granting resistance 5 to acid, electricity, fire, force, mental, poison, and sonic). An attacker that critically fails on its saving throw against the spell is [[Blinded]] rather than [[Dazzled]].
+You wrap the target in armor made of multicolored light. It functions as [[DATABASE/spell/Chromatic Armor|chromatic armor]] that is all colors (granting resistance 5 to acid, electricity, fire, force, mental, poison, and sonic). An attacker that critically fails on its saving throw against the spell is [[DATABASE/condition/Blinded|blinded]] rather than [[DATABASE/condition/Dazzled|dazzled]].
 
 ---
 **Heightened (9th)** The resistances increase to 10 each.

@@ -2,6 +2,7 @@
 id: '119'
 name: Oath
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Oath
@@ -10,9 +11,9 @@ type: Trait
 ---
 # Oath
 
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 Oaths add an additional tenet to your code. You can usually have only one feat with this trait.
 
 ## Feats
 
-[[Dragonslayer Oath]], [[Esoteric Oath]], [[Fiendsbane Oath]], [[Lightslayer Oath]], [[Shining Oath]], [[Vengeful Oath]]
+[[DATABASE/feat/Dragonslayer Oath|Dragonslayer Oath]], [[DATABASE/feat/Esoteric Oath|Esoteric Oath]], [[DATABASE/feat/Fiendsbane Oath|Fiendsbane Oath]], [[DATABASE/feat/Lightslayer Oath|Lightslayer Oath]], [[DATABASE/feat/Shining Oath|Shining Oath]], [[DATABASE/feat/Vengeful Oath|Vengeful Oath]]

@@ -24,6 +24,7 @@ patron_theme: null
 range: 800 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -42,11 +43,11 @@ type: Spell
 # Storm of Vengeance<span class="item-type">Spell 9</span>
 
 <span class="item-trait">Air</span><span class="item-trait">Electricity</span><span class="item-trait">Evocation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** primal
 **Spell List** elemental
-**Bloodline** [[Elemental]]
-**Deities** [[Nalinivati]], [[Sky Keepers]]
+**Bloodline** [[DATABASE/sorcererbloodline/Elemental|elemental]]
+**Deities** [[DATABASE/deity/Nalinivati|Nalinivati]], [[DATABASE/deity/Sky Keepers|Sky Keepers]]
 **Cast** <span class="action-icon">3</span> material, somatic, verbal
 **Range** 800 feet; **Area** 360-foot burst
 **Duration** sustained up to 1 minute

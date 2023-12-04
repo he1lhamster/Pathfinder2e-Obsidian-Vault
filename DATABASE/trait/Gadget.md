@@ -2,6 +2,7 @@
 id: '405'
 name: Gadget
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
 - Gadget
@@ -10,9 +11,9 @@ type: Trait
 ---
 # Gadget
 
-**Source** [[Guns & Gears]]
+**Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
 Gadgets are consumable technological inventions with innovative uses.
 
 ## Equipment
 
-[[Ablative Armor Plating]], [[Ablative Shield Plating]], [[Blast Boots]], [[Cauterizing Torch]], [[Chameleon Suit]], [[Clockwork Goggles]], [[Clockwork Spider Bomb]], [[Cryomister]], [[Electromuscular Stimulator]], [[Etheric Essence Disruptor]], [[Explosive Mine]], [[Flare Beacon]], [[Gadget Skates]], [[Galvasphere]], [[Gecko Pads]], [[Impact Foam Chassis]], [[Instant Spy]], [[Material Essence Disruptor]], [[Periscopic Viewfinder]], [[Smoke Fan]], [[Spring-Loaded Net Launcher]], [[Wind-Up Cart]]
+[[DATABASE/equipment/Ablative Armor Plating|Ablative Armor Plating]], [[DATABASE/equipment/Ablative Shield Plating|Ablative Shield Plating]], [[DATABASE/equipment/Blast Boots|Blast Boots]], [[DATABASE/equipment/Cauterizing Torch|Cauterizing Torch]], [[DATABASE/equipment/Chameleon Suit|Chameleon Suit]], [[DATABASE/equipment/Clockwork Goggles|Clockwork Goggles]], [[DATABASE/equipment/Clockwork Spider Bomb|Clockwork Spider Bomb]], [[DATABASE/equipment/Cryomister|Cryomister]], [[DATABASE/equipment/Electromuscular Stimulator|Electromuscular Stimulator]], [[DATABASE/equipment/Etheric Essence Disruptor|Etheric Essence Disruptor]], [[DATABASE/equipment/Explosive Mine|Explosive Mine]], [[DATABASE/equipment/Flare Beacon|Flare Beacon]], [[DATABASE/equipment/Gadget Skates|Gadget Skates]], [[DATABASE/equipment/Galvasphere|Galvasphere]], [[DATABASE/equipment/Gecko Pads|Gecko Pads]], [[DATABASE/equipment/Impact Foam Chassis|Impact Foam Chassis]], [[DATABASE/equipment/Instant Spy|Instant Spy]], [[DATABASE/equipment/Material Essence Disruptor|Material Essence Disruptor]], [[DATABASE/equipment/Periscopic Viewfinder|Periscopic Viewfinder]], [[DATABASE/equipment/Smoke Fan|Smoke Fan]], [[DATABASE/equipment/Spring-Loaded Net Launcher|Spring-Loaded Net Launcher]], [[DATABASE/equipment/Wind-Up Cart|Wind-Up Cart]]

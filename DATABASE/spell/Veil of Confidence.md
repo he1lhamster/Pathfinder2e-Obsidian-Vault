@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -38,8 +39,8 @@ type: Focus
 # Veil of Confidence<span class="item-type">Focus 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Cleric</span><span class="item-trait">Enchantment</span><span class="item-trait">Mental</span>
-**Source** [[Core Rulebook]] 
-**Domain** [[Confidence Domain]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Domain** [[DATABASE/domain/Confidence Domain|confidence]]
 **Cast** <span class="action-icon">1</span> verbal
 **Duration** 1 minute
 

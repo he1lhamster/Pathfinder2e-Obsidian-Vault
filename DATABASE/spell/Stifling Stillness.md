@@ -19,6 +19,7 @@ patron_theme: null
 range: 120 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: basicFortitude
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
@@ -38,14 +39,14 @@ type: Spell
 # Stifling Stillness<span class="item-type">Spell 4</span>
 
 <span class="item-trait">Air</span><span class="item-trait">Concentrate</span><span class="item-trait">Manipulate</span><span class="item-trait">Poison</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Traditions** arcane, primal
 **Cast** <span class="action-icon">2</span> 
 **Range** 120 feet; **Area** 20-foot burst
 **Defense** basic Fortitude; **Duration** 1 minute
 
 ---
-You make all air in the target area unnaturally still and unyielding, creating a shimmering haze. The stagnant, heavy air becomes an area of difficult terrain. Creatures in the area that breathe air and aren't holding their breath must spend a single action on their turn straining to breathe the stagnant air; once they do, they still mostly breathe their own exhaled air, taking 3d6 poison damage (basic Fortitude save) and becoming [[Fatigued]].
+You make all air in the target area unnaturally still and unyielding, creating a shimmering haze. The stagnant, heavy air becomes an area of difficult terrain. Creatures in the area that breathe air and aren't holding their breath must spend a single action on their turn straining to breathe the stagnant air; once they do, they still mostly breathe their own exhaled air, taking 3d6 poison damage (basic Fortitude save) and becoming [[DATABASE/condition/Fatigued|fatigued]].
 
 ---
 **Heightened (+2)** The damage increases by 3d6.

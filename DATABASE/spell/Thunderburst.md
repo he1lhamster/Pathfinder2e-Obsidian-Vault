@@ -21,6 +21,7 @@ patron_theme: null
 range: 100 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: Fortitude
 school: Evocation
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
@@ -40,8 +41,8 @@ type: Focus
 # Thunderburst<span class="item-type">Focus 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Air</span><span class="item-trait">Cursebound</span><span class="item-trait">Evocation</span><span class="item-trait">Oracle</span><span class="item-trait">Sonic</span>
-**Source** [[Advanced Player's Guide]] 
-**Mystery** [[Tempest]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Mystery** [[DATABASE/oraclemystery/Tempest|tempest]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 100 feet; **Area** 20-foot burst
 **Saving Throw** Fortitude
@@ -50,7 +51,7 @@ type: Focus
 You create a powerful blast of air and a loud peal of thunder, dealing 2d6 bludgeoning damage and 2d6 sonic damage. Each creature in the area must attempt a Fortitude save.
 **Critical Success** The creature is unaffected.
 **Success** The creature takes half damage.
-**Failure** The creature takes full damage and is [[Deafened]] for 1 minute.
+**Failure** The creature takes full damage and is [[DATABASE/condition/Deafened|deafened]] for 1 minute.
 **Critical Failure** The creature takes double damage and is deafened for 1 hour.
 
 ---

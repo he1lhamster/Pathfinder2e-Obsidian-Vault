@@ -21,6 +21,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
@@ -39,9 +40,9 @@ type: Spell
 # Weave Wood<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Manipulate</span><span class="item-trait">Wood</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Traditions** primal, arcane
-**Deity** [[Shumunue]]
+**Deity** [[DATABASE/deity/Shumunue|Shumunue]]
 **Cast** 1 minute
 **Range** touch; **Targets** 1 piece of unprocessed wood, reeds, or plant fiber of 1 Bulk or less
 

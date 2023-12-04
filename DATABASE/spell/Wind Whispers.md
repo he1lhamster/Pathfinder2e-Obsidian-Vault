@@ -22,6 +22,7 @@ patron_theme: null
 range: 1 mile
 rarity: Rare
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Enchantment
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
@@ -40,14 +41,14 @@ type: Focus
 # Wind Whispers<span class="item-type">Focus 4</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Cleric</span><span class="item-trait">Enchantment</span><span class="item-trait">Linguistic</span><span class="item-trait">Mental</span>
-**Source** [[Dark Archive]]
-**Domain** [[Air Domain]] (apocryphal)
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Domain** [[DATABASE/domain/Air Domain|air]] (apocryphal)
 **Cast** 1 hour (material, somatic, verbal)
 **Range** 1 mile
 
 ---
 You call forth numerous breezes in which you weave gossip, whispering subtly into the ears of those around. Choose a rumor or information you wish to spread, which may or may not be true, about a single subject. Those within range of the spell overhear the rumor at some point over the next hour, though they'll be unable to pin it down to a source. Attempt a check with a modifier equal to your spell DC – 10 against a hard DC for your level. The GM might modify the DC depending on how plausible the rumor is. Repeated castings to spread the same rumor or information have no effect unless circumstances have substantially changed, as determined by the GM.
-**Critical Success** Your rumor spreads far and wide, and it's at the tip of people's tongues. For 1 week, anyone who succeeds at a check to [[Gather Information]] on the specific subject learns your rumor in preference to other rumors about the subject. Skill checks to convince people that the rumor is true get a +2 circumstance bonus.
+**Critical Success** Your rumor spreads far and wide, and it's at the tip of people's tongues. For 1 week, anyone who succeeds at a check to [[DATABASE/action/Gather Information|Gather Information]] on the specific subject learns your rumor in preference to other rumors about the subject. Skill checks to convince people that the rumor is true get a +2 circumstance bonus.
 **Success** Enough people take note of the rumor that it begins to spread, though those who heard the rumor aren't necessarily convinced. For 1 week, anyone who succeeds at a check to Gather Information on the specific subject adds your rumor to the list of rumors they could learn about the subject, and skill checks to convince people that the rumor is true get a +1 circumstance bonus.
 **Failure** Most in the area dismiss the rumor as wild gossip and pay it little mind, granting no effect.
 **Critical Failure** The winds' gossip is misinterpreted and spreads information contradictory to the rumor you were attempting to spread. A contradictory rumor spreads, and skill checks to convince others that your original rumor is true take a –2 circumstance penalty.

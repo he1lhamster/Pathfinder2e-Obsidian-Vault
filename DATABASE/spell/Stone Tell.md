@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -39,7 +40,7 @@ type: Spell
 # Stone Tell<span class="item-type">Spell 6</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Earth</span><span class="item-trait">Evocation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** divine, primal
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Duration** 10 minutes

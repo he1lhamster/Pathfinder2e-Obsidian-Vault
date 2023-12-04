@@ -20,6 +20,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/World Guide|World Guide]]'
@@ -35,7 +36,7 @@ type: Focus
 # Untwisting Iron Buffer<span class="item-type">Focus 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Abjuration</span>
-**Source** [[World Guide]] 
+**Source** [[DATABASE/source/World Guide|World Guide]] 
 **Cast** <span class="action-icon">1</span> verbal
 
 ---

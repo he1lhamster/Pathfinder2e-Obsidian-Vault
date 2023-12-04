@@ -20,6 +20,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -39,9 +40,9 @@ type: Spell
 # Shift Blame<span class="item-type">Spell 3</span>
 
 <span class="item-trait">Enchantment</span><span class="item-trait">Mental</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Traditions** arcane, occult
-**Cast** <span class="action-icon">5</span> verbal; **Trigger** You or another creature attacks a creature or fails at a [[Deception]], [[Diplomacy]], or [[Intimidation]] check.
+**Cast** <span class="action-icon">5</span> verbal; **Trigger** You or another creature attacks a creature or fails at a [[DATABASE/skill/Deception|Deception]], [[DATABASE/skill/Diplomacy|Diplomacy]], or [[DATABASE/skill/Intimidation|Intimidation]] check.
 **Range** 30 feet; **Targets** the target of the triggering attack or skill check
 **Saving Throw** Will
 

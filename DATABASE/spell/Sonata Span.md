@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -38,7 +39,7 @@ type: Spell
 # Sonata Span<span class="item-type">Spell 2</span>
 
 <span class="item-trait">Auditory</span><span class="item-trait">Conjuration</span><span class="item-trait">Sonic</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Traditions** occult
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Area** 30-foot line

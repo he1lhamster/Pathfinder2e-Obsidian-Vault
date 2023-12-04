@@ -22,6 +22,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -38,9 +39,9 @@ type: Spell
 # Spell Turning<span class="item-type">Spell 7</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Abjuration</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane
-**Deity** [[Abraxas]]
+**Deity** [[DATABASE/deity/Abraxas|Abraxas]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Duration** 1 hour
 

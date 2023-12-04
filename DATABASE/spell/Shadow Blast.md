@@ -21,6 +21,7 @@ patron_theme: null
 range: varies
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: basicReflex or Will (target's choice)
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -38,7 +39,7 @@ type: Spell
 # Shadow Blast<span class="item-type">Spell 5</span>
 
 <span class="item-trait">Evocation</span><span class="item-trait">Shadow</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** divine, occult
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** varies; **Area** varies

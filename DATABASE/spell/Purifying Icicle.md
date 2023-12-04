@@ -21,6 +21,7 @@ patron_theme: null
 range: 60 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: Fortitude
 school: Evocation
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
@@ -40,7 +41,7 @@ type: Spell
 # Purifying Icicle<span class="item-type">Spell 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Cold</span><span class="item-trait">Evocation</span><span class="item-trait">Positive</span>
-**Source** [[Knights of Lastwall]]
+**Source** [[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]
 **Access** Knights of Lastwall have access to this spell.
 **Traditions** divine, primal
 **Cast** <span class="action-icon">2</span> somatic, verbal

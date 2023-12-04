@@ -2,6 +2,7 @@
 id: '377'
 name: Hantu
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #166:
   Despair on Danger Island]]'
 trait:
@@ -11,9 +12,8 @@ type: Trait
 ---
 # Hantu
 
-**Source** [[Pathfinder 166. Despair on Danger Island]]
-_Note from Nethys: no description was provided for this trait_
+**Source** [[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #166: Despair on Danger Island]]
 
 ## Monsters
 
-[[Hantu Belian]], [[Hantu Denai]]
+[[DATABASE/monster/Hantu Belian|Hantu Belian]], [[DATABASE/monster/Hantu Denai|Hantu Denai]]

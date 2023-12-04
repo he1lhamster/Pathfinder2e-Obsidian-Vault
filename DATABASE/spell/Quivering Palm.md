@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: Fortitude
 school: Necromancy
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -38,7 +39,7 @@ type: Focus
 # Quivering Palm<span class="item-type">Focus 8</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Incapacitation</span><span class="item-trait">Monk</span><span class="item-trait">Necromancy</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Saving Throw** Fortitude; **Duration** 1 month
 

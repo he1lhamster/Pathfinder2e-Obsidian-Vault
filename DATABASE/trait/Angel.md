@@ -2,6 +2,7 @@
 id: '8'
 name: Angel
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Angel
@@ -10,13 +11,13 @@ type: Trait
 ---
 # Angel
 
-**Source** [[Core Rulebook]] 
-This family of celestials is native to the plane of [[Nirvana]]. Most angels are neutral good, have [[Darkvision]], and have a weakness to evil damage.
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+This family of celestials is native to the plane of [[DATABASE/plane/Nirvana|Nirvana]]. Most angels are neutral good, have [[DATABASE/monsterability/Darkvision|darkvision]], and have a weakness to evil damage.
 
 ## Eidolons
 
-[[Angel Eidolon]]
+[[DATABASE/summonereidolon/Angel Eidolon|Angel]]
 
 ## Monsters
 
-[[Astral Deva (Emissary Angel)]], [[Balisse (Confessor Angel)]], [[Cassisian (Archive Angel)]], [[Choral (Choir Angel)]], [[Monadic Deva (Soul Angel)]], [[Movanic Deva (Guardian Angel)]], [[Planetar (Justice Angel)]], [[Solar (Archangel)]]
+[[DATABASE/monster/Astral Deva (Emissary Angel)|Astral Deva]], [[DATABASE/monster/Balisse (Confessor Angel)|Balisse]], [[DATABASE/monster/Cassisian (Archive Angel)|Cassisian]], [[DATABASE/monster/Choral (Choir Angel)|Choral]], [[DATABASE/monster/Monadic Deva (Soul Angel)|Monadic Deva]], [[DATABASE/monster/Movanic Deva (Guardian Angel)|Movanic Deva]], [[DATABASE/monster/Planetar (Justice Angel)|Planetar]], [[DATABASE/monster/Solar (Archangel)|Solar]]

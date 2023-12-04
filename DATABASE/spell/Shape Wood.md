@@ -25,6 +25,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -41,9 +42,9 @@ type: Spell
 # Shape Wood<span class="item-type">Spell 2</span>
 
 <span class="item-trait">Plant</span><span class="item-trait">Transmutation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** primal
-**Deities** [[Elven Pantheon]], [[Hearth and Harvest]], [[Jaidi]], [[Yuelral]]
+**Deities** [[DATABASE/deity/Elven Pantheon|Elven Pantheon]], [[DATABASE/deity/Hearth and Harvest|Hearth and Harvest]], [[DATABASE/deity/Jaidi|Jaidi]], [[DATABASE/deity/Yuelral|Yuelral]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** touch; **Targets** an unworked piece of wood up to 20 cubic feet in volume
 

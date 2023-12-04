@@ -22,6 +22,7 @@ patron_theme: null
 range: 100 feet
 rarity: Rare
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
@@ -40,7 +41,7 @@ type: Spell
 # Summon Irii<span class="item-type">Spell 8</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Conjuration</span><span class="item-trait">Incarnate</span>
-**Source** [[Dark Archive]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
 **Traditions** arcane, occult
 **Cast** <span class="action-icon">3</span> material, somatic, verbal
 **Range** 100 feet

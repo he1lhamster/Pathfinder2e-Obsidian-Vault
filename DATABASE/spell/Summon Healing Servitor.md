@@ -22,6 +22,7 @@ patron_theme: null
 range: 100 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
@@ -42,7 +43,7 @@ type: Spell
 # Summon Healing Servitor<span class="item-type">Spell 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Healing</span><span class="item-trait">Incarnate</span><span class="item-trait">Necromancy</span><span class="item-trait">Positive</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 **Traditions** divine, primal
 **Cast** <span class="action-icon">3</span> material, somatic, verbal
 **Range** 100 feet

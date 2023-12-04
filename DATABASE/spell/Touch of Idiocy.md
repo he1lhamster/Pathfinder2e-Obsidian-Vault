@@ -23,6 +23,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -40,10 +41,10 @@ type: Spell
 # Touch of Idiocy<span class="item-type">Spell 2</span>
 
 <span class="item-trait">Enchantment</span><span class="item-trait">Mental</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult
-**Bloodlines** [[Aberrant]], [[Hag]]
-**Deities** [[Cayden Cailean]], [[Halcamora]]
+**Bloodlines** [[DATABASE/sorcererbloodline/Aberrant|aberrant]], [[DATABASE/sorcererbloodline/Hag|hag]]
+**Deities** [[DATABASE/deity/Cayden Cailean|Cayden Cailean]], [[DATABASE/deity/Halcamora|Halcamora]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** touch; **Targets** 1 living creature
 **Saving Throw** Will; **Duration** 1 minute

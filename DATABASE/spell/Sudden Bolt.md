@@ -21,6 +21,7 @@ patron_theme: null
 range: 60 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: basicReflex
 school: Evocation
 source: '[[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: The
@@ -40,7 +41,7 @@ type: Spell
 # Sudden Bolt<span class="item-type">Spell 2</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Electricity</span><span class="item-trait">Evocation</span>
-**Source** [[Pathfinder 151. The Show Must Go On]]
+**Source** [[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: The Show Must Go On]]
 **Traditions** arcane, primal
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 60 feet; **Targets** 1 creature or object

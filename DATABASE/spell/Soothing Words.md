@@ -21,6 +21,7 @@ patron_theme: null
 range: 30 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -39,8 +40,8 @@ type: Focus
 # Soothing Words<span class="item-type">Focus 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Cleric</span><span class="item-trait">Emotion</span><span class="item-trait">Enchantment</span><span class="item-trait">Mental</span>
-**Source** [[Core Rulebook]] 
-**Domain** [[Family Domain]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Domain** [[DATABASE/domain/Family Domain|family]]
 **Cast** <span class="action-icon">1</span> verbal
 **Range** 30 feet; **Targets** 1 ally
 **Duration** 1 round

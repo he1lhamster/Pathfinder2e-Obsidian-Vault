@@ -25,6 +25,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -41,11 +42,11 @@ type: Spell
 # Shillelagh<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Plant</span><span class="item-trait">Transmutation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** primal
-**Deities** [[Andoletta]], [[Arundhat]], [[Elven Pantheon]]
+**Deities** [[DATABASE/deity/Andoletta|Andoletta]], [[DATABASE/deity/Arundhat|Arundhat]], [[DATABASE/deity/Elven Pantheon|Elven Pantheon]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
-**Range** touch; **Targets** 1 [[Club]] or [[Staff]] you hold
+**Range** touch; **Targets** 1 [[DATABASE/weapon/Club|club]] or [[DATABASE/weapon/Staff|staff]] you hold
 **Duration** 1 minute
 
 ---

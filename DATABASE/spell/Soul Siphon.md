@@ -20,6 +20,7 @@ patron_theme: null
 range: 30 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: Fortitude
 school: Necromancy
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
@@ -38,14 +39,14 @@ type: Focus
 # Soul Siphon<span class="item-type">Focus 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Cursebound</span><span class="item-trait">Necromancy</span><span class="item-trait">Negative</span><span class="item-trait">Oracle</span>
-**Source** [[Advanced Player's Guide]] 
-**Mystery** [[Bones]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Mystery** [[DATABASE/oraclemystery/Bones|bones]]
 **Cast** <span class="action-icon">1</span> somatic
 **Range** 30 feet; **Targets** 1 living creature
 **Saving Throw** Fortitude
 
 ---
-You siphon off a portion of the target's soul to bolster your own vitality. The target must attempt a Fortitude save or take 1d4 negative damage. You gain temporary Hit Points equal to the total amount of HP the target loses, including the HP lost from becoming [[Drained]].
+You siphon off a portion of the target's soul to bolster your own vitality. The target must attempt a Fortitude save or take 1d4 negative damage. You gain temporary Hit Points equal to the total amount of HP the target loses, including the HP lost from becoming [[DATABASE/condition/Drained|drained]].
 **Critical Success** The creature is unaffected.
 **Success** The creature takes half damage.
 **Failure** The creature takes full damage and becomes drained 1.

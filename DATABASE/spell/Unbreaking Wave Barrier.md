@@ -20,6 +20,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: Fortitude
 school: Abjuration
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
@@ -36,7 +37,7 @@ type: Focus
 # Unbreaking Wave Barrier<span class="item-type">Focus 7</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Abjuration</span><span class="item-trait">Water</span>
-**Source** [[Impossible Lands]]
+**Source** [[DATABASE/source/Impossible Lands|Impossible Lands]]
 **Cast** <span class="action-icon">1</span> verbal
 **Area** 5-foot emanation
 **Saving Throw** Fortitude; **Duration** sustained up to 1 minute
@@ -46,4 +47,4 @@ You create a protective circle around yourself that repels your foes. You gain a
 **Critical Success** The creature is unaffected.
 **Success** The creature isn't pushed, but the space within the barrier is difficult terrain for it.
 **Failure** The creature is pushed 10 feet, and the space within the barrier is difficult terrain for it.
-**Critical Failure** The creature is pushed 20 feet and knocked [[Prone]], and the space within the barrier is difficult terrain for it.
+**Critical Failure** The creature is pushed 20 feet and knocked [[DATABASE/condition/Prone|prone]], and the space within the barrier is difficult terrain for it.

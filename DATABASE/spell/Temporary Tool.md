@@ -25,6 +25,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -40,9 +41,9 @@ type: Spell
 # Temporary Tool<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Conjuration</span>
-**Source** [[Gods & Magic]] 
+**Source** [[DATABASE/source/Gods & Magic|Gods & Magic]] 
 **Traditions** arcane
-**Deities** [[Brigh]], [[Jaidi]], [[Magrim]]
+**Deities** [[DATABASE/deity/Brigh|Brigh]], [[DATABASE/deity/Jaidi|Jaidi]], [[DATABASE/deity/Magrim|Magrim]]
 **Cast** 1 minute
 **Duration** until used or 1 minute; see text
 

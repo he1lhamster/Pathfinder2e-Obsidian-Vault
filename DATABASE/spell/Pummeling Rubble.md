@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Reflex
 school: Evocation
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
@@ -38,7 +39,7 @@ type: Spell
 # Pummeling Rubble<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Earth</span><span class="item-trait">Evocation</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Traditions** arcane, primal
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Area** 15-foot cone

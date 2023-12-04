@@ -22,6 +22,7 @@ patron_theme: null
 range: 60 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -40,10 +41,10 @@ type: Spell
 # Replicate<span class="item-type">Spell 4</span>
 
 <span class="item-trait">Illusion</span><span class="item-trait">Shadow</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Traditions** arcane, occult
 **Cast** <span class="action-icon">3</span> material, somatic, verbal
-**Range** 60 feet; **Targets** 1 willing or [[Unconscious]] creature of 8th level or lower
+**Range** 60 feet; **Targets** 1 willing or [[DATABASE/condition/Unconscious|unconscious]] creature of 8th level or lower
 **Duration** sustained
 
 ---

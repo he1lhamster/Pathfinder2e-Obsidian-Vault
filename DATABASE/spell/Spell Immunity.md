@@ -21,6 +21,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -38,9 +39,9 @@ type: Spell
 # Spell Immunity<span class="item-type">Spell 4</span>
 
 <span class="item-trait">Abjuration</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, divine, occult
-**Bloodline** [[Draconic]]
+**Bloodline** [[DATABASE/sorcererbloodline/Draconic|draconic]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** touch; **Targets** 1 creature
 **Duration** until the next time you make your daily preparations.

@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: Fortitude
 school: Transmutation
 source: '[[DATABASE/source/Pathfinder 161. Belly of the Black Whale|Pathfinder #161:
@@ -38,16 +39,16 @@ type: Focus
 # Split the Tongue<span class="item-type">Focus 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Transmutation</span>
-**Source** [[Pathfinder 161. Belly of the Black Whale]]
-**Domain** [[Naga Domain]]
-**Cast** <span class="action-icon">5</span> somatic; **Trigger** A creature within 30 feet fails a [[Deception]] or [[Diplomacy]] check.
+**Source** [[DATABASE/source/Pathfinder 161. Belly of the Black Whale|Pathfinder #161: Belly of the Black Whale]]
+**Domain** [[DATABASE/domain/Naga Domain|naga]]
+**Cast** <span class="action-icon">5</span> somatic; **Trigger** A creature within 30 feet fails a [[DATABASE/skill/Deception|Deception]] or [[DATABASE/skill/Diplomacy|Diplomacy]] check.
 **Saving Throw** Fortitude
 
 ---
 The deceiving creature's tongue splits like a serpent's tongue. The creature takes 1d8 slashing damage and must attempt a Fortitude save.
 **Critical Success** The creature is unaffected.
 **Success** The creature takes half damage.
-**Failure** The creature takes full damage and is [[Stupefied]] for 1d4 rounds.
+**Failure** The creature takes full damage and is [[DATABASE/condition/Stupefied|stupefied 1]] for 1d4 rounds.
 **Critical Failure** As failure, but the creature takes double damage and is stupefied 2 for 1d4 rounds.
 
 ---

@@ -23,6 +23,7 @@ patron_theme: null
 range: 120 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -40,12 +41,12 @@ type: Spell
 # Solid Fog<span class="item-type">Spell 4</span>
 
 <span class="item-trait">Conjuration</span><span class="item-trait">Water</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, primal
-**Deity** [[Hanspur]]
+**Deity** [[DATABASE/deity/Hanspur|Hanspur]]
 **Cast** <span class="action-icon">3</span> material, somatic, verbal
 **Range** 120 feet; **Area** 20-foot burst
 **Duration** 1 minute
 
 ---
-You conjure a bank of fog so thick it impedes movement as well as sight. This functions as [[Obscuring Mist]], except that the area is also difficult terrain. You can Dismiss the spell.
+You conjure a bank of fog so thick it impedes movement as well as sight. This functions as [[DATABASE/spell/Obscuring Mist|obscuring mist]], except that the area is also difficult terrain. You can Dismiss the spell.

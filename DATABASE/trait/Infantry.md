@@ -2,6 +2,7 @@
 id: '455'
 name: Infantry
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - Infantry
@@ -10,9 +11,9 @@ type: Trait
 ---
 # Infantry
 
-**Source** [[Kingmaker Adventure Path]]
+**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
 Infantry consists of soldiers or creatures that move on foot.
 
 ## Actions
 
-[[All-Out Assault]], [[Battlefield Medicine]], [[Counterattack]], [[Covering Fire]], [[Defensive Stance]], [[False Retreat]], [[Feint]]
+[[DATABASE/action/All-Out Assault|All-Out Assault]], [[DATABASE/action/Battlefield Medicine|Battlefield Medicine]], [[DATABASE/action/Counterattack|Counterattack]], [[DATABASE/action/Covering Fire|Covering Fire]], [[DATABASE/action/Defensive Stance|Defensive Stance]], [[DATABASE/action/False Retreat|False Retreat]], [[DATABASE/action/Feint|Feint]]

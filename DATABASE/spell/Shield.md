@@ -20,6 +20,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -40,17 +41,17 @@ type: Cantrip
 # Shield<span class="item-type">Cantrip 1</span>
 
 <span class="item-trait">Abjuration</span><span class="item-trait">Cantrip</span><span class="item-trait">Force</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, divine, occult
 **Spell List** elemental
-**Bloodline** [[Draconic]]
-**Mystery** [[Battle]]
+**Bloodline** [[DATABASE/sorcererbloodline/Draconic|draconic]]
+**Mystery** [[DATABASE/oraclemystery/Battle|battle]]
 **Cast** <span class="action-icon">1</span> verbal
 **Duration** until the start of your next turn
 
 ---
 You raise a magical shield of force. This counts as using the Raise a Shield action, giving you a +1 circumstance bonus to AC until the start of your next turn, but it doesn't require a hand to use.
- While the spell is in effect, you can use the [[Shield Block]] reaction with your magic shield. The shield has Hardness 5. After you use Shield Block, the spell ends and you can't cast it again for 10 minutes. Unlike a normal Shield Block, you can use the spell's reaction against the [[Magic Missile]] spell.
+ While the spell is in effect, you can use the [[DATABASE/feat/Shield Block|Shield Block]] reaction with your magic shield. The shield has Hardness 5. After you use Shield Block, the spell ends and you can't cast it again for 10 minutes. Unlike a normal Shield Block, you can use the spell's reaction against the [[DATABASE/spell/Magic Missile|magic missile]] spell.
  Heightening the spell increases the shield's Hardness.
 
 ---

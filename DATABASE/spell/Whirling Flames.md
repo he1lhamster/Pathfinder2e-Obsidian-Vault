@@ -21,6 +21,7 @@ patron_theme: null
 range: 30 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: basicReflex
 school: Evocation
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
@@ -39,8 +40,8 @@ type: Focus
 # Whirling Flames<span class="item-type">Focus 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Cursebound</span><span class="item-trait">Evocation</span><span class="item-trait">Fire</span><span class="item-trait">Oracle</span>
-**Source** [[Advanced Player's Guide]] 
-**Mystery** [[Flames]]
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
+**Mystery** [[DATABASE/oraclemystery/Flames|flames]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet; **Area** up to two 5-foot bursts that don't overlap
 **Saving Throw** basic Reflex

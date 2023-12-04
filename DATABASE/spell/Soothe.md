@@ -41,6 +41,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -59,9 +60,9 @@ type: Spell
 # Soothe<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Emotion</span><span class="item-trait">Enchantment</span><span class="item-trait">Healing</span><span class="item-trait">Mental</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** occult
-**Deities** [[Ashava]], [[Atreia]], [[Bolka]], [[Immonhiel]], [[Isis]], [[Kofusachi]], [[Korada]], [[Mother Vulture]], [[Naderi]], [[Osiris]], [[Qi Zhong]], [[Selket]], [[The Lost Prince]], [[The Offering Plate]], [[Tlehar]], [[Touch of the Sun]], [[Tsukiyo]], [[Wards of the Pharaoh]]
+**Deities** [[DATABASE/deity/Ashava|Ashava]], [[DATABASE/deity/Atreia|Atreia]], [[DATABASE/deity/Bolka|Bolka]], [[DATABASE/deity/Immonhiel|Immonhiel]], [[DATABASE/deity/Isis|Isis]], [[DATABASE/deity/Kofusachi|Kofusachi]], [[DATABASE/deity/Korada|Korada]], [[DATABASE/deity/Mother Vulture|Mother Vulture]], [[DATABASE/deity/Naderi|Naderi]], [[DATABASE/deity/Osiris|Osiris]], [[DATABASE/deity/Qi Zhong|Qi Zhong]], [[DATABASE/deity/Selket|Selket]], [[DATABASE/deity/The Lost Prince|The Lost Prince]], [[DATABASE/deity/The Offering Plate|The Offering Plate]], [[DATABASE/deity/Tlehar|Tlehar]], [[DATABASE/deity/Touch of the Sun|Touch of the Sun]], [[DATABASE/deity/Tsukiyo|Tsukiyo]], [[DATABASE/deity/Wards of the Pharaoh|Wards of the Pharaoh]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet; **Targets** 1 willing creature
 **Duration** 1 minute

@@ -22,6 +22,7 @@ patron_theme: null
 range: 120 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Reflex
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -38,9 +39,9 @@ type: Spell
 # Volcanic Eruption<span class="item-type">Spell 7</span>
 
 <span class="item-trait">Evocation</span><span class="item-trait">Fire</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** primal
-**Deity** [[Yamatsumi]]
+**Deity** [[DATABASE/deity/Yamatsumi|Yamatsumi]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 120 feet; **Area** 5-foot radius, 80-foot tall cylinder
 **Saving Throw** Reflex

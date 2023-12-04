@@ -19,6 +19,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
@@ -37,14 +38,14 @@ type: Spell
 # Sand Form<span class="item-type">Spell 3</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Earth</span><span class="item-trait">Manipulate</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Traditions** arcane, primal
 **Cast** <span class="action-icon">2</span> 
 **Range** touch; **Targets** 1 willing creature
 **Duration** 10 minutes
 
 ---
-You grant the target's body and gear aspects of sand. The target gains resistance 5 to piercing and slashing damage, has no scent, and can't bleed. In sandy terrain, even when out in the open, the target has enough concealment to attempt to [[Hide]]. Each time the target takes damage to which sand form grants resistance, reduce the duration of the spell by 1 minute.
+You grant the target's body and gear aspects of sand. The target gains resistance 5 to piercing and slashing damage, has no scent, and can't bleed. In sandy terrain, even when out in the open, the target has enough concealment to attempt to [[DATABASE/action/Hide|Hide]]. Each time the target takes damage to which sand form grants resistance, reduce the duration of the spell by 1 minute.
 
 ---
 **Heightened (5th)** The resistance is 10.

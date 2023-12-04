@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -37,8 +38,8 @@ type: Focus
 # Word of Truth<span class="item-type">Focus 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Cleric</span><span class="item-trait">Divination</span>
-**Source** [[Core Rulebook]] 
-**Domain** [[Truth Domain]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Domain** [[DATABASE/domain/Truth Domain|truth]]
 **Cast** <span class="action-icon">1</span> verbal
 **Duration** sustained up to 1 minute
 

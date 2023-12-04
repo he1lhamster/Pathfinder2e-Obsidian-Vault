@@ -23,6 +23,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -39,11 +40,11 @@ type: Spell
 # Unfettered Pack<span class="item-type">Spell 7</span>
 
 <span class="item-trait">Abjuration</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** primal
 **Spell List** elemental
-**Bloodline** [[Nymph]]
-**Deities** [[The Endless Road]], [[Yuelral]]
+**Bloodline** [[DATABASE/sorcererbloodline/Nymph|nymph]]
+**Deities** [[DATABASE/deity/The Endless Road|The Endless Road]], [[DATABASE/deity/Yuelral|Yuelral]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet; **Targets** up to 10 creatures
 **Duration** 1 hour

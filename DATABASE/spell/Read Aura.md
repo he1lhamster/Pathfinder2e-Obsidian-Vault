@@ -21,6 +21,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -42,11 +43,11 @@ type: Cantrip
 # Read Aura<span class="item-type">Cantrip 1</span>
 
 <span class="item-trait">Cantrip</span><span class="item-trait">Detection</span><span class="item-trait">Divination</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, divine, occult, primal
 **Spell List** elemental
-**Bloodline** [[Wyrmblessed]]
-**Mystery** [[Lore]]
+**Bloodline** [[DATABASE/sorcererbloodline/Wyrmblessed|wyrmblessed]]
+**Mystery** [[DATABASE/oraclemystery/Lore|lore]]
 **Cast** 1 minute (somatic, verbal)
 **Range** 30 feet; **Targets** 1 object
 

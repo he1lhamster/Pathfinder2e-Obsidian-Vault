@@ -21,6 +21,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: basicReflex
 school: Necromancy
 source: '[[DATABASE/source/Pathfinder 168. King of the Mountain|Pathfinder #168: King
@@ -40,8 +41,8 @@ type: Focus
 # Rejuvenating Flames<span class="item-type">Focus 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Fire</span><span class="item-trait">Healing</span><span class="item-trait">Necromancy</span><span class="item-trait">Sorcerer</span>
-**Source** [[Pathfinder 168. King of the Mountain]]
-**Bloodline** [[Phoenix]]
+**Source** [[DATABASE/source/Pathfinder 168. King of the Mountain|Pathfinder #168: King of the Mountain]]
+**Bloodline** [[DATABASE/sorcererbloodline/Phoenix|phoenix]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Area** 15-foot cone
 **Saving Throw** basic Reflex

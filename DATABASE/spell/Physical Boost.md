@@ -20,6 +20,7 @@ patron_theme: null
 range: touch
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -36,7 +37,7 @@ type: Focus
 # Physical Boost<span class="item-type">Focus 1</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Transmutation</span><span class="item-trait">Wizard</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Cast** <span class="action-icon">1</span> verbal
 **Range** touch; **Targets** 1 living creature
 **Duration** until the end of the target's next turn

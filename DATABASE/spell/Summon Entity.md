@@ -24,6 +24,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -39,15 +40,15 @@ type: Spell
 # Summon Entity<span class="item-type">Spell 5</span>
 
 <span class="item-trait">Conjuration</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** occult
-**Deities** [[Nyarlathotep]], [[Nyarlathotep]]
+**Deities** [[DATABASE/deity/Nyarlathotep|Nyarlathotep (Haunter in the Dark)]], [[DATABASE/deity/Nyarlathotep|Nyarlathotep (The Crawling Chaos)]]
 **Cast** <span class="action-icon">3</span> material, somatic, verbal
 **Range** 30 feet
 **Duration** sustained up to 1 minute
 
 ---
-You conjure an aberration to fight for you. This works like [[Summon Animal]], except you summon a common creature that has the aberration trait and whose level is 5 or lower, such as those below.
+You conjure an aberration to fight for you. This works like [[DATABASE/spell/Summon Animal|summon animal]], except you summon a common creature that has the aberration trait and whose level is 5 or lower, such as those below.
 
 ---
 **Heightened (6th)** Level 7.
@@ -58,64 +59,64 @@ You conjure an aberration to fight for you. This works like [[Summon Animal]], e
 
 ## Level 0 Aberrations
 
-[[Grindylow]] (CE)
+[[DATABASE/monster/Grindylow|Grindylow]] (CE)
 
 ## Level 1 Aberrations
 
-[[Flumph]] (LG), [[Reefclaw]] (CN), [[Fleshforged Skinskitter]] (CN)
+[[DATABASE/monster/Flumph|Flumph]] (LG), [[DATABASE/monster/Reefclaw|Reefclaw]] (CN), [[DATABASE/monster/Fleshforged Skinskitter|Skinskitter]] (CN)
 
 ## Level 2 Aberrations
 
-[[Choker]] (CE), [[Cobbleswarm]] (N), [[Sinspawn]] (NE)
+[[DATABASE/monster/Choker|Choker]] (CE), [[DATABASE/monster/Cobbleswarm|Cobbleswarm]] (N), [[DATABASE/monster/Sinspawn|Sinspawn]] (NE)
 
 ## Level 3 Aberrations
 
-[[D'ziriak]] (N), [[Grothlut]] (N), [[Rust Monster]] (N), [[Scalescribe]] (N), [[Vampiric Mist]] (NE), [[Web Lurker]] (NE)
+[[DATABASE/monster/D'ziriak|D'ziriak]] (N), [[DATABASE/monster/Grothlut|Grothlut]] (N), [[DATABASE/monster/Rust Monster|Rust Monster]] (N), [[DATABASE/monster/Scalescribe|Scalescribe]] (N), [[DATABASE/monster/Vampiric Mist|Vampiric Mist]] (NE), [[DATABASE/monster/Web Lurker|Web Lurker]] (NE)
 
 ## Level 4 Aberrations
 
-[[Faceless Stalker (Ugothol)]] (CE), [[Mimic]] (N), [[Otyugh]] (N), [[Shanrigol Heap]] (N)
+[[DATABASE/monster/Faceless Stalker (Ugothol)|Faceless Stalker]] (CE), [[DATABASE/monster/Mimic|Mimic]] (N), [[DATABASE/monster/Otyugh|Otyugh]] (N), [[DATABASE/monster/Shanrigol Heap|Shanrigol Heap]] (N)
 
 ## Level 5 Aberrations
 
-[[Cloaker]] (CN), [[Gibbering Mouther]] (N), [[Penanggalan]] (CE)
+[[DATABASE/monster/Cloaker|Cloaker]] (CN), [[DATABASE/monster/Gibbering Mouther|Gibbering Mouther]] (N), [[DATABASE/monster/Penanggalan|Penanggalan]] (CE)
 
 ## Level 6 Aberrations
 
-[[Drider]] (CE), [[Skrik Nettle]] (N), [[Will-o’-Wisp]] (CE)
+[[DATABASE/monster/Drider|Drider]] (CE), [[DATABASE/monster/Skrik Nettle|Skrik Nettle]] (N), [[DATABASE/monster/Will-o’-Wisp|Will-o’-Wisp]] (CE)
 
 ## Level 7 Aberrations
 
-[[Chuul]] (CE)
+[[DATABASE/monster/Chuul|Chuul]] (CE)
 
 ## Level 8 Aberrations
 
-[[Destrachan]] (CE), [[Fleshforged Conformer]] (CN), [[K'nonna]] (NE), [[Manananggal]] (CE), [[Muckish Creep]] (NE)
+[[DATABASE/monster/Destrachan|Destrachan]] (CE), [[DATABASE/monster/Fleshforged Conformer|Fleshforged Conformer]] (CN), [[DATABASE/monster/K'nonna|K'nonna]] (NE), [[DATABASE/monster/Manananggal|Manananggal]] (CE), [[DATABASE/monster/Muckish Creep|Muckish Creep]] (NE)
 
 ## Level 9 Aberrations
 
-[[Blood Painter]] (NE), [[Galvo]] (NE), [[Irnakurse]] (CE)
+[[DATABASE/monster/Blood Painter|Blood Painter]] (NE), [[DATABASE/monster/Galvo|Galvo]] (NE), [[DATABASE/monster/Irnakurse|Irnakurse]] (CE)
 
 ## Level 10 Aberrations
 
-[[Ghonhatine]] (CE), [[Gug]] (CE), [[Nilith]] (NE), [[Ofalth]] (CE)
+[[DATABASE/monster/Ghonhatine|Ghonhatine]] (CE), [[DATABASE/monster/Gug|Gug]] (CE), [[DATABASE/monster/Nilith|Nilith]] (NE), [[DATABASE/monster/Ofalth|Ofalth]] (CE)
 
 ## Level 11 Aberrations
 
-[[Quoppopak]] (NE)
+[[DATABASE/monster/Quoppopak|Quoppopak]] (NE)
 
 ## Level 12 Aberrations
 
-[[Gogiteth]] (CE)
+[[DATABASE/monster/Gogiteth|Gogiteth]] (CE)
 
 ## Level 13 Aberrations
 
-[[Irlgaunt]] (NE)
+[[DATABASE/monster/Irlgaunt|Irlgaunt]] (NE)
 
 ## Level 14 Aberrations
 
-[[Angoyang]] (NE), [[Doprillu]] (NE), [[Grikkitog]] (NE), [[Sickened Doprillu]] (NE)
+[[DATABASE/monster/Angoyang|Angoyang]] (NE), [[DATABASE/monster/Doprillu|Doprillu]] (NE), [[DATABASE/monster/Grikkitog|Grikkitog]] (NE), [[DATABASE/monster/Sickened Doprillu|Sickened Doprillu]] (NE)
 
 ## Level 15 Aberrations
 
-[[Quelaunt]] (CE)
+[[DATABASE/monster/Quelaunt|Quelaunt]] (CE)

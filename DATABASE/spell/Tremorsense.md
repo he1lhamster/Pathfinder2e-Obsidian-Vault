@@ -19,6 +19,7 @@ patron_theme: null
 range: null
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
@@ -38,13 +39,13 @@ type: Spell
 # Tremorsense<span class="item-type">Spell 2</span>
 
 <span class="item-trait">Concentrate</span><span class="item-trait">Earth</span><span class="item-trait">Manipulate</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Traditions** arcane, occult, primal
 **Cast** <span class="action-icon">2</span> 
 **Duration** 10 minutes
 
 ---
-You become aware of vibrations in the ground around you. You gain [[Tremorsense]] as an imprecise sense with a range of 30 feet. As normal for tremorsense, you can detect a creature only if it's on the same surface as you and only if the subject is moving along (or burrowing through) the surface.
+You become aware of vibrations in the ground around you. You gain [[DATABASE/monsterability/Tremorsense|tremorsense]] as an imprecise sense with a range of 30 feet. As normal for tremorsense, you can detect a creature only if it's on the same surface as you and only if the subject is moving along (or burrowing through) the surface.
 
 ---
 **Heightened (3rd)** The spell's duration is 1 hour.

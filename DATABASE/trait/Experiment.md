@@ -2,6 +2,7 @@
 id: '433'
 name: Experiment
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 trait:
 - Experiment
@@ -10,5 +11,4 @@ type: Trait
 ---
 # Experiment
 
-**Source** [[Dark Archive]]
-_Note from Nethys: no description was provided for this trait_
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]

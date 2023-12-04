@@ -21,6 +21,7 @@ patron_theme: null
 range: 120 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: basicFortitude
 school: Necromancy
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
@@ -38,7 +39,7 @@ type: Spell
 # Sudden Blight<span class="item-type">Spell 2</span>
 
 <span class="item-trait">Necromancy</span><span class="item-trait">Negative</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Traditions** divine, primal
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 120 feet; **Area** 20-foot burst

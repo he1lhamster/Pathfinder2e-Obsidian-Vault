@@ -19,6 +19,7 @@ patron_theme: null
 range: 60 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
@@ -38,13 +39,13 @@ type: Cantrip
 # Rousing Splash<span class="item-type">Cantrip 1</span>
 
 <span class="item-trait">Cantrip</span><span class="item-trait">Concentrate</span><span class="item-trait">Manipulate</span><span class="item-trait">Water</span>
-**Source** [[Rage of Elements]]
+**Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
 **Traditions** divine, primal
 **Cast** <span class="action-icon">2</span> 
 **Range** 60 feet; **Targets** 1 creature
 
 ---
-You cause a splash of cold water to descend on an ally's head, granting some temporary vigor. The target gains 1d4 temporary Hit Points, which last for 1 minute. The target is then temporarily immune to the temporary Hit Points from _rousing splash_ for 10 minutes. The target can also attempt an immediate flat check to recover from a single source of [[Persistent Damage]], with the DC reduction from appropriate assistance.
+You cause a splash of cold water to descend on an ally's head, granting some temporary vigor. The target gains 1d4 temporary Hit Points, which last for 1 minute. The target is then temporarily immune to the temporary Hit Points from _rousing splash_ for 10 minutes. The target can also attempt an immediate flat check to recover from a single source of [[DATABASE/condition/Persistent Damage|persistent acid or fire damage]], with the DC reduction from appropriate assistance.
 
 ---
 **Heightened (+1)** The amount of temporary Hit Points granted increases by 1d4.

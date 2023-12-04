@@ -21,6 +21,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
@@ -36,7 +37,7 @@ type: Spell
 # Sculpt Sound<span class="item-type">Spell 3</span>
 
 <span class="item-trait">Illusion</span>
-**Source** [[Advanced Player's Guide]] 
+**Source** [[DATABASE/source/Advanced Player's Guide|Advanced Player's Guide]] 
 **Traditions** occult
 **Cast** <span class="action-icon">2</span> somatic, material
 **Range** touch; **Targets** 1 creature or object
@@ -47,7 +48,7 @@ You change the sounds made by a creature or object. Choose how you're altering t
  Because this spell obscures sound instead of preventing it, using the spell to quiet a creature doesn't prevent that creature from using verbal spell components, though it does prevent most auditory effects that rely on another creature hearing them accurately. An unwilling target can attempt a Will save.
 **Success** The affected sound from the creature isn't altered.
 **Failure** The affected sound from the creature is altered in the way you determine.
-**Critical Failure** The affected sound from the creature is altered and the target becomes [[Stupefied]] for 1 minute as it struggles with the disorienting effects of its altered sound.
+**Critical Failure** The affected sound from the creature is altered and the target becomes [[DATABASE/condition/Stupefied|stupefied 2]] for 1 minute as it struggles with the disorienting effects of its altered sound.
 
 ---
 **Heightened (5th)** You can target up to 6 creatures or 6 objects, altering the sounds of all affected creatures or objects in the same way.

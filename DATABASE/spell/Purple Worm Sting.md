@@ -24,6 +24,7 @@ patron_theme: null
 range: touch
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Fortitude
 school: Necromancy
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -41,9 +42,9 @@ type: Spell
 # Purple Worm Sting<span class="item-type">Spell 6</span>
 
 <span class="item-trait">Necromancy</span><span class="item-trait">Poison</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, primal
-**Deities** [[Ragadahn]], [[Selket]], [[Ydersius]]
+**Deities** [[DATABASE/deity/Ragadahn|Ragadahn]], [[DATABASE/deity/Selket|Selket]], [[DATABASE/deity/Ydersius|Ydersius]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** touch; **Targets** 1 creature
 **Saving Throw** Fortitude
@@ -54,4 +55,4 @@ You replicate the attack of a deadly purple worm. You deal 3d6 piercing damage t
 **Success** The target takes 3d6 poison damage.
 **Failure** The target is afflicted with purple worm venom at stage 1.
 **Critical Failure** The target is afflicted with purple worm venom at stage 2.
-**Purple Worm Venom** (poison); **Level** 11; **Maximum Duration** 6 rounds. **Stage 1** 3d6 poison damage and [[Enfeebled]] (1 round); **Stage 2** 4d6 poison damage and enfeebled 2 (1 round); **Stage 3** 6d6 poison damage and enfeebled 2 (1 round).
+**Purple Worm Venom** (poison); **Level** 11; **Maximum Duration** 6 rounds. **Stage 1** 3d6 poison damage and [[DATABASE/condition/Enfeebled|enfeebled 2]] (1 round); **Stage 2** 4d6 poison damage and enfeebled 2 (1 round); **Stage 3** 6d6 poison damage and enfeebled 2 (1 round).

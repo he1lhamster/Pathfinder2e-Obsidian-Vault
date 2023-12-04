@@ -22,6 +22,7 @@ patron_theme: null
 range: planetary
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -40,7 +41,7 @@ type: Spell
 # Sending<span class="item-type">Spell 5</span>
 
 <span class="item-trait">Divination</span><span class="item-trait">Mental</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, divine, occult
 **Cast** <span class="action-icon">3</span> material, somatic, verbal
 **Range** planetary; **Targets** 1 creature with whom you are familiar

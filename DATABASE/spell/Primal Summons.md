@@ -20,6 +20,7 @@ patron_theme: null
 range: null
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -36,11 +37,11 @@ type: Focus
 # Primal Summons<span class="item-type">Focus 6</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Conjuration</span><span class="item-trait">Druid</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Cast** <span class="action-icon">4</span> verbal
 
 ---
-You enhance a summoned creature with the power of the elements. If your next action is to cast either [[Summon Animal]] or [[Summon Plant or Fungus]], choose air, earth, fire, or water, and the creature you summon gains the corresponding abilities.
+You enhance a summoned creature with the power of the elements. If your next action is to cast either [[DATABASE/spell/Summon Animal|summon animal]] or [[DATABASE/spell/Summon Plant or Fungus|summon plant or fungus]], choose air, earth, fire, or water, and the creature you summon gains the corresponding abilities.
 
 * **Air** The creature gains a fly Speed of 60 feet. 
 * **Earth** The creature gains a burrow Speed of 20 feet, reduces its land Speed by 10 feet (minimum 5 feet), and gains resistance 5 to physical damage. 

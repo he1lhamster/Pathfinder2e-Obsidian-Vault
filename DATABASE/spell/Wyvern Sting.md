@@ -21,6 +21,7 @@ patron_theme: null
 range: touch
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: Fortitude
 school: Necromancy
 source: '[[DATABASE/source/Pathfinder 160. Assault on Hunting Lodge Seven|Pathfinder
@@ -40,14 +41,14 @@ type: Spell
 # Wyvern Sting<span class="item-type">Spell 5</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Necromancy</span><span class="item-trait">Poison</span>
-**Source** [[Pathfinder 160. Assault on Hunting Lodge Seven]]
+**Source** [[DATABASE/source/Pathfinder 160. Assault on Hunting Lodge Seven|Pathfinder #160: Assault on Hunting Lodge Seven]]
 **Traditions** arcane, primal
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** touch; **Targets** 1 creature
 **Saving Throw** Fortitude
 
 ---
-You duplicate the venomous sting of a [[Wyvern]]. You deal 3d4 piercing damage to the touched creature and afflict it with wyvern venom. If the target takes piercing damage, they must attempt a Fortitude save.
+You duplicate the venomous sting of a [[DATABASE/monster/Wyvern|wyvern]]. You deal 3d4 piercing damage to the touched creature and afflict it with wyvern venom. If the target takes piercing damage, they must attempt a Fortitude save.
 **Critical Success** The target is unaffected.
 **Success** The target takes 5d6 poison damage.
 **Failure** The target is afflicted with wyvern venom at stage 1.

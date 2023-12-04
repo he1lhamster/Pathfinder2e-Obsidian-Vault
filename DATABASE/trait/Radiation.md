@@ -2,6 +2,7 @@
 id: '421'
 name: Radiation
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 173. Doorway to the Red Star|Pathfinder #173:
   Doorway to the Red Star]]'
 trait:
@@ -11,5 +12,4 @@ type: Trait
 ---
 # Radiation
 
-**Source** [[Pathfinder 173. Doorway to the Red Star]]
-_Note from Nethys: no description was provided for this trait_
+**Source** [[DATABASE/source/Pathfinder 173. Doorway to the Red Star|Pathfinder #173: Doorway to the Red Star]]

@@ -21,6 +21,7 @@ patron_theme: null
 range: 30 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: Fortitude
 school: Necromancy
 source: '[[DATABASE/source/Pathfinder 186. Ghost King''s Rage|Pathfinder #186: Ghost
@@ -41,7 +42,7 @@ type: Spell
 # Suffocate<span class="item-type">Spell 6</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Incapacitation</span><span class="item-trait">Necromancy</span><span class="item-trait">Nonlethal</span>
-**Source** [[Pathfinder 186. Ghost King's Rage]]
+**Source** [[DATABASE/source/Pathfinder 186. Ghost King's Rage|Pathfinder #186: Ghost King's Rage]]
 **Traditions** arcane, divine
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet; **Targets** 1 living creature that needs to breathe
@@ -52,7 +53,7 @@ You forcefully and cruelly draw the living breath from a creature's lungs, deali
 **Critical Success** The creature is unaffected.
 **Success** The creature takes half damage.
 **Failure** The creature takes full damage. For the duration, the creature must hold its breath or suffocate.
-**Critical Failure** The creature takes double damage, and all the air is pulled from the creature's lungs. The creature falls [[Unconscious]] and starts suffocating for the duration.
+**Critical Failure** The creature takes double damage, and all the air is pulled from the creature's lungs. The creature falls [[DATABASE/condition/Unconscious|unconscious]] and starts suffocating for the duration.
 
 ---
 **Heightened (9th)** You can target up to 5 creatures.

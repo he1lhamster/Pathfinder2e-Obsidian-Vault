@@ -2,6 +2,7 @@
 id: '284'
 name: Microgravity
 rarity: Common
+rus_type_level: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
 - Microgravity
@@ -10,5 +11,5 @@ type: Trait
 ---
 # Microgravity
 
-**Source** [[Gamemastery Guide]]
+**Source** [[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]
 Planes with this trait have little to no gravity.

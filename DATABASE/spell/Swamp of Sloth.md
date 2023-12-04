@@ -21,6 +21,7 @@ patron_theme: null
 range: 120 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: basicFortitude
 school: Conjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -38,8 +39,8 @@ type: Focus
 # Swamp of Sloth<span class="item-type">Focus 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Conjuration</span><span class="item-trait">Olfactory</span><span class="item-trait">Sorcerer</span>
-**Source** [[Core Rulebook]] 
-**Bloodline** [[Demonic]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Bloodline** [[DATABASE/sorcererbloodline/Demonic|demonic]]
 **Cast** <span class="action-icon">1</span> to <span class="action-icon">3</span> somatic, verbal
 **Range** 120 feet; **Area** 5-foot burst or more
 **Saving Throw** basic Fortitude; **Duration** 1 minute

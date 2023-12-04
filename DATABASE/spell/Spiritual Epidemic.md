@@ -21,6 +21,7 @@ patron_theme: null
 range: 120 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Will
 school: Necromancy
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -38,9 +39,9 @@ type: Spell
 # Spiritual Epidemic<span class="item-type">Spell 8</span>
 
 <span class="item-trait">Curse</span><span class="item-trait">Necromancy</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** divine, occult
-**Bloodline** [[Hag]]
+**Bloodline** [[DATABASE/sorcererbloodline/Hag|hag]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 120 feet; **Targets** 1 creature
 **Saving Throw** Will; **Duration** varies

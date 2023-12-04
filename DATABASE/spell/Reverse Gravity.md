@@ -23,6 +23,7 @@ patron_theme: null
 range: 120 feet
 rarity: Uncommon
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -40,9 +41,9 @@ type: Spell
 # Reverse Gravity<span class="item-type">Spell 7</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="item-trait">Evocation</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, occult
-**Deity** [[Otolmens]]
+**Deity** [[DATABASE/deity/Otolmens|Otolmens]]
 **Cast** <span class="action-icon">3</span> material, somatic, verbal
 **Range** 120 feet; **Area** 20-foot radius, 40-foot-tall cylinder
 **Duration** 1 minute

@@ -26,6 +26,7 @@ patron_theme: null
 range: 120 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -43,9 +44,9 @@ type: Spell
 # Wall of Stone<span class="item-type">Spell 5</span>
 
 <span class="item-trait">Conjuration</span><span class="item-trait">Earth</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, primal
-**Deities** [[Anubis]], [[Arqueros]], [[Ashukharma]], [[Mazludeh]]
+**Deities** [[DATABASE/deity/Anubis|Anubis]], [[DATABASE/deity/Arqueros|Arqueros]], [[DATABASE/deity/Ashukharma|Ashukharma]], [[DATABASE/deity/Mazludeh|Mazludeh]]
 **Cast** <span class="action-icon">3</span> material, somatic, verbal
 **Range** 120 feet
 

@@ -22,6 +22,7 @@ patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -37,7 +38,7 @@ type: Spell
 # Summon Anarch<span class="item-type">Spell 5</span>
 
 <span class="item-trait">Conjuration</span>
-**Source** [[Secrets of Magic]] 
+**Source** [[DATABASE/source/Secrets of Magic|Secrets of Magic]] 
 **Traditions** divine
 **Cast** <span class="action-icon">3</span> material, somatic, verbal
 **Range** 30 feet
@@ -55,60 +56,60 @@ You conjure a chaotic celestial, monitor, or fiend to fight on your behalf. You 
 
 ## Level 1 Anarchs
 
-[[Lyrakien (Wanderer Azata)]] (CG), [[Ostovite]] (CE), [[Quasit]] (CE), [[Voidworm]] (CN)
+[[DATABASE/monster/Lyrakien (Wanderer Azata)|Lyrakien]] (CG), [[DATABASE/monster/Ostovite|Ostovite]] (CE), [[DATABASE/monster/Quasit|Quasit]] (CE), [[DATABASE/monster/Voidworm|Voidworm]] (CN)
 
 ## Level 2 Anarchs
 
-[[Dretch (Sloth Demon)]] (CE)
+[[DATABASE/monster/Dretch (Sloth Demon)|Dretch]] (CE)
 
 ## Level 3 Anarchs
 
-[[Akizendri]] (CN), [[Vermlek (Worm Demon)]] (CE), [[Yeth Hound]] (CE)
+[[DATABASE/monster/Akizendri|Akizendri]] (CN), [[DATABASE/monster/Vermlek (Worm Demon)|Vermlek]] (CE), [[DATABASE/monster/Yeth Hound|Yeth Hound]] (CE)
 
 ## Level 4 Anarchs
 
-[[Abrikandilu (Wrecker Demon)]] (CE), [[Barghest]] (CE), [[Gancanagh (Passion Azata)]] (CG)
+[[DATABASE/monster/Abrikandilu (Wrecker Demon)|Abrikandilu]] (CE), [[DATABASE/monster/Barghest|Barghest]] (CE), [[DATABASE/monster/Gancanagh (Passion Azata)|Gancanagh]] (CG)
 
 ## Level 5 Anarchs
 
-[[Azuretzi]] (CN), [[Brimorak (Arson Demon)]] (CE)
+[[DATABASE/monster/Azuretzi|Azuretzi]] (CN), [[DATABASE/monster/Brimorak (Arson Demon)|Brimorak]] (CE)
 
 ## Level 6 Anarchs
 
-[[Babau (Blood Demon)]] (CE), [[Bralani (Wind Azata)]] (CG)
+[[DATABASE/monster/Babau (Blood Demon)|Babau]] (CE), [[DATABASE/monster/Bralani (Wind Azata)|Bralani]] (CG)
 
 ## Level 7 Anarchs
 
-[[Gluttondark Babau]] (CE), [[Invidiak (Shadow Demon)]] (CE), [[Lillend (Muse Azata)]] (CG), [[Naunet]] (CN), [[Succubus (Lust Demon)]] (CE)
+[[DATABASE/monster/Gluttondark Babau|Gluttondark Babau]] (CE), [[DATABASE/monster/Invidiak (Shadow Demon)|Invidiak]] (CE), [[DATABASE/monster/Lillend (Muse Azata)|Lillend]] (CG), [[DATABASE/monster/Naunet|Naunet]] (CN), [[DATABASE/monster/Succubus (Lust Demon)|Succubus]] (CE)
 
 ## Level 8 Anarchs
 
-[[Nabasu (Gluttony Demon)]] (CE)
+[[DATABASE/monster/Nabasu (Gluttony Demon)|Nabasu]] (CE)
 
 ## Level 9 Anarchs
 
-[[Garuda]] (CG), [[Vrock (Wrath Demon)]] (CE)
+[[DATABASE/monster/Garuda|Garuda]] (CG), [[DATABASE/monster/Vrock (Wrath Demon)|Vrock]] (CE)
 
 ## Level 10 Anarchs
 
-[[Bebilith]] (CE), [[Einherji]] (CN), [[Imentesh]] (CN), [[Kalavakus (Slaver Demon)]] (CE)
+[[DATABASE/monster/Bebilith|Bebilith]] (CE), [[DATABASE/monster/Einherji|Einherji]] (CN), [[DATABASE/monster/Imentesh|Imentesh]] (CN), [[DATABASE/monster/Kalavakus (Slaver Demon)|Kalavakus]] (CE)
 
 ## Level 11 Anarchs
 
-[[Hezrou (Toad Demon)]] (CE)
+[[DATABASE/monster/Hezrou (Toad Demon)|Hezrou]] (CE)
 
 ## Level 12 Anarchs
 
-[[Valkyrie]] (CN)
+[[DATABASE/monster/Valkyrie|Valkyrie]] (CN)
 
 ## Level 13 Anarchs
 
-[[Ghaele (Crusader Azata)]] (CG), [[Glabrezu (Treachery Demon)]] (CE), [[Ice Yai]] (CE)
+[[DATABASE/monster/Ghaele (Crusader Azata)|Ghaele]] (CG), [[DATABASE/monster/Glabrezu (Treachery Demon)|Glabrezu]] (CE), [[DATABASE/monster/Ice Yai|Ice Yai]] (CE)
 
 ## Level 14 Anarchs
 
-[[Nalfeshnee (Boar Demon)]] (CE), [[Peri]] (CG)
+[[DATABASE/monster/Nalfeshnee (Boar Demon)|Nalfeshnee]] (CE), [[DATABASE/monster/Peri|Peri]] (CG)
 
 ## Level 15 Anarchs
 
-[[Hegessik]] (CN)
+[[DATABASE/monster/Hegessik|Hegessik]] (CN)

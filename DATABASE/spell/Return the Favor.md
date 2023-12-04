@@ -20,6 +20,7 @@ patron_theme: null
 range: 30 feet
 rarity: Rare
 requirement: null
+rus_type_level: null
 saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
@@ -38,8 +39,8 @@ type: Focus
 # Return the Favor<span class="item-type">Focus 3</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="item-trait">Hex</span><span class="item-trait">Necromancy</span><span class="item-trait">Witch</span>
-**Source** [[Dark Archive]]
-**Lesson** [[Lesson of Favors]]
+**Source** [[DATABASE/source/Dark Archive|Dark Archive]]
+**Lesson** [[DATABASE/witchlesson/Lesson of Favors|lesson of favors]]
 **Cast** <span class="action-icon">5</span> somatic; **Trigger** An ally uses a reaction to grant you a beneficial effect during a combat encounter
 **Range** 30 feet; **Targets** 1 ally
 

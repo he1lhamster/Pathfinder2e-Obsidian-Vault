@@ -22,6 +22,7 @@ patron_theme: '[[DATABASE/witchpatron/Curse|Curse]]'
 range: 30 feet
 rarity: Common
 requirement: null
+rus_type_level: null
 saving_throw: Fortitude
 school: Necromancy
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -40,9 +41,9 @@ type: Spell
 # Ray of Enfeeblement<span class="item-type">Spell 1</span>
 
 <span class="item-trait">Attack</span><span class="item-trait">Necromancy</span>
-**Source** [[Core Rulebook]] 
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 **Traditions** arcane, divine, occult
-**Patron Theme** [[Curse]]
+**Patron Theme** [[DATABASE/witchpatron/Curse|curse]]
 **Cast** <span class="action-icon">2</span> somatic, verbal
 **Range** 30 feet; **Targets** 1 creature
 **Saving Throw** Fortitude; **Duration** 1 minute
