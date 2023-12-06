@@ -104,9 +104,6 @@ Many types of wizard sponge exist, as an individual colony takes on distinctive 
 **Unspecific Lore**: DC 18
 **Specific Lore**: DC 15
 
-## Elite | [[DATABASE/monster/Wizard Sponge|Normal]] | Weak
-Proficiency without Level
-
 # Wizard Sponge<span class="item-type">Creature 5</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Fungus</span><span class="item-trait">Mindless</span><span class="item-trait">Swarm</span>

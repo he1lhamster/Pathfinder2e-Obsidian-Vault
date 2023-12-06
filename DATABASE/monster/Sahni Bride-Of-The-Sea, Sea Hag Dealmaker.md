@@ -105,9 +105,6 @@ When the player characters battle Sahni in Chapter 2, the Graveclaw has been wea
 **Unspecific Lore**: DC 31
 **Specific Lore**: DC 28
 
-## Elite | [[DATABASE/monster/Sahni Bride-Of-The-Sea, Sea Hag Dealmaker|Normal]] | Weak
-Proficiency without Level
-
 # Sahni Bride-Of-The-Sea<span class="item-type">Creature 7</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Amphibious</span><span class="item-trait">Hag</span><span class="item-trait">Humanoid</span>

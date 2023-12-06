@@ -102,9 +102,6 @@ Game Masters may consider the following plot hooks as a means of integrating Che
 **Unspecific Lore**: DC 34
 **Specific Lore**: DC 31
 
-## Elite | [[DATABASE/npc/Chea, Student Of Unfolding Wind|Normal]] | Weak
-Proficiency without Level
-
 # Chea<span class="item-type">Creature 9</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Beast</span><span class="item-trait">Beastkin</span><span class="item-trait">Humanoid</span>

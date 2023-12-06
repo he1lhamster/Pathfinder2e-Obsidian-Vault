@@ -174,9 +174,6 @@ The heroes might see Helg as merely another monster to overcome, but they can al
 **Unspecific Lore**: DC 42
 **Specific Lore**: DC 39
 
-## Elite | [[DATABASE/monster/Helg Eats-The-Eaters|Normal]] | Weak
-Proficiency without Level
-
 # Helg Eats-The-Eaters<span class="item-type">Creature 15</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Aberration</span>

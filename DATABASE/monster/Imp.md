@@ -102,9 +102,9 @@ Imps are infiltrators and corruptors who, despite their diminutive stature, are 
 
 ---
 **AC** 17; **Fort** +5, **Ref** +9, **Will** +7
-**HP** 15; **Immunities** fire
-; **Resistances** physical 3 (except [[DATABASE/equipment/Silver Weapon|silver]]), poison 5
-; **Weaknesses** good 3
+**HP** 15; **Immunities** fire;
+ **Resistances** physical 3 (except [[DATABASE/equipment/Silver Weapon|silver]]), poison 5;
+ **Weaknesses** good 3
 
 ---
 **Speed** 20 feet, fly 30 feet

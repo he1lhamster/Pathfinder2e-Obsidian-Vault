@@ -81,9 +81,6 @@ Although they were ordered to Alkenstar to find a way to profit from a war betwe
 **Unspecific Lore**: DC 35
 **Specific Lore**: DC 32
 
-## Elite | [[DATABASE/npc/Parsus, Macabre Inventor Of Clockwork Abominations|Normal]] | Weak
-Proficiency without Level
-
 # Parsus<span class="item-type">Creature 10</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Dhampir</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>

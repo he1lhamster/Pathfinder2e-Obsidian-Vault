@@ -71,6 +71,8 @@ wisdom: '+2'
 
 ---
 # Mari Lwyd
+
+_Nethys Note: The Mari Lwyd is a creature from the 2021 New Years celebratory blog post._
 **Recall Knowledge - Fey ([[DATABASE/skill/Nature|Nature]])**: DC 30
 **Unspecific Lore**: DC 28
 **Specific Lore**: DC 25

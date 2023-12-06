@@ -104,9 +104,6 @@ Takulu is the first impression of the Magaambya that this campaign offers, servi
 **Unspecific Lore**: DC 27
 **Specific Lore**: DC 24
 
-## Elite | [[DATABASE/monster/Takulu Ot, Kindly Teacher of Incoming Students|Normal]] | Weak
-Proficiency without Level
-
 # Takulu Ot<span class="item-type">Creature 4</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">LG</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>

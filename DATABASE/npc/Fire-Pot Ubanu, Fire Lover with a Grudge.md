@@ -91,9 +91,6 @@ Fire-Pot Ubanu isn't actively malicious, but he has an explosive temper and no r
 **Unspecific Lore**: DC 32
 **Specific Lore**: DC 29
 
-## Elite | [[DATABASE/npc/Fire-Pot Ubanu, Fire Lover with a Grudge|Normal]] | Weak
-Proficiency without Level
-
 # Fire-Pot Ubanu<span class="item-type">Creature 8</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CN</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>

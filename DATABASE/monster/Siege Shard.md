@@ -19,7 +19,7 @@ description: 'Sieges provoke lingering feelings of confinement and desperation. 
   A successful DC 18 check to [[DATABASE/action/Recall Knowledge|Recall Knowledge]]
   is sufficient to identify the conflict that engendered the construct. A creature
   aware of a shard''s generative conflict can attempt the following activity.<div
-  class="viewbox">{{ viewbox(type=action, id=625, name=Prove Peace) }}</div><span
+  class="viewbox">{{ viewbox(type="action", id=625, name="Prove Peace") }}</div><span
   class="trait"> [[DATABASE/trait/Concentrate|Concentrate]] </span><span class="trait">
   [[DATABASE/trait/Manipulate|Manipulate]] </span><br/><b>Source</b> [[DATABASE/source/Pathfinder
   157. Devil at the Dreaming Palace|Pathfinder #157: Devil at the Dreaming Palace]]

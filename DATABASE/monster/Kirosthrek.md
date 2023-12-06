@@ -172,9 +172,6 @@ Kirosthrek is not the heroes' ally, but neither is she an unreasonable zealot. S
 **Unspecific Lore**: DC 48
 **Specific Lore**: DC 45
 
-## Elite | [[DATABASE/monster/Kirosthrek|Normal]] | Weak
-Proficiency without Level
-
 # Kirosthrek<span class="item-type">Creature 20</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Humanoid</span><span class="item-trait">Xulgath</span>

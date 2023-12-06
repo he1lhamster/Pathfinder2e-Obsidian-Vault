@@ -11,5 +11,4 @@ type: Language
 ---
 # Ekujae
 
-**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]] 
-No speakers of this language can be found in the Archives.
+**Source** [[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]

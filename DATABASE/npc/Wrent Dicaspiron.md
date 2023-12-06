@@ -108,9 +108,6 @@ The Skinner can provide a useful clue for the agents to follow: Many of her vict
 **Unspecific Lore**: DC 35
 **Specific Lore**: DC 32
 
-## Elite | [[DATABASE/npc/Wrent Dicaspiron|Normal]] | Weak
-Proficiency without Level
-
 # Wrent Dicaspiron<span class="item-type">Creature 10</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>

@@ -88,9 +88,6 @@ Game Masters may consider the following plot hooks as a means of integrating Duh
 **Unspecific Lore**: DC 30
 **Specific Lore**: DC 27
 
-## Elite | [[DATABASE/npc/Duhgik, Kobold Trapsmith|Normal]] | Weak
-Proficiency without Level
-
 # Duhgik<span class="item-type">Creature 6</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NG</span><span class="trait-size item-trait">Small</span><span class="item-trait">Humanoid</span><span class="item-trait">Kobold</span>

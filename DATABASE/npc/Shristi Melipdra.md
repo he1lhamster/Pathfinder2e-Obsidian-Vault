@@ -132,9 +132,6 @@ The Edgewatch agents meet Shristi in the course of this adventure, and the high-
 **Unspecific Lore**: DC 31
 **Specific Lore**: DC 28
 
-## Elite | [[DATABASE/npc/Shristi Melipdra|Normal]] | Weak
-Proficiency without Level
-
 # Shristi Melipdra<span class="item-type">Creature 7</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">LG</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>

@@ -79,9 +79,6 @@ Kepgeda is the primary villain of this adventure and is unlikely to survive her 
 **Unspecific Lore**: DC 28
 **Specific Lore**: DC 25
 
-## Elite | [[DATABASE/npc/Kepgeda the Hag-Nailed, Three-Fingered Hand Gang Leader|Normal]] | Weak
-Proficiency without Level
-
 # Kepgeda the Hag-Nailed<span class="item-type">Creature 5</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Changeling</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>

@@ -173,9 +173,6 @@ As the current keeper of the _aeon orb_ that the heroes seek, Dyzallin has unwit
 **Unspecific Lore**: DC 47
 **Specific Lore**: DC 44
 
-## Elite | [[DATABASE/monster/Dyzallin Shraen|Normal]] | Weak
-Proficiency without Level
-
 # Dyzallin Shraen<span class="item-type">Creature 19</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Mummy</span><span class="item-trait">Undead</span>

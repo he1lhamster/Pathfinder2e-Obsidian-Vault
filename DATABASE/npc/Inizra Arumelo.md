@@ -152,9 +152,6 @@ Inizra is starting to see evidence of Mengkare's corruption, but she still belie
 **Unspecific Lore**: DC 48
 **Specific Lore**: DC 45
 
-## Elite | [[DATABASE/npc/Inizra Arumelo|Normal]] | Weak
-Proficiency without Level
-
 # Inizra Arumelo<span class="item-type">Creature 20</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">LG</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>

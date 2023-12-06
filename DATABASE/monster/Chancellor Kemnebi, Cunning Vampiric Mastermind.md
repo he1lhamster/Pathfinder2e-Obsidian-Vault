@@ -112,9 +112,6 @@ Kemnebi is chief among the Blood Lords and the main villain of the Blood Lords A
 **Unspecific Lore**: DC 50
 **Specific Lore**: DC 47
 
-## Elite | [[DATABASE/monster/Chancellor Kemnebi, Cunning Vampiric Mastermind|Normal]] | Weak
-Proficiency without Level
-
 # Chancellor Kemnebi<span class="item-type">Creature 21</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Undead</span><span class="item-trait">Vampire</span>

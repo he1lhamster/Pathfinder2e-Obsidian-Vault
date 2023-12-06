@@ -160,9 +160,6 @@ Cavnakash is unlikely to survive his encounter with the heroes. Apart from the b
 **Unspecific Lore**: DC 28
 **Specific Lore**: DC 25
 
-## Elite | [[DATABASE/monster/Cavnakash|Normal]] | Weak
-Proficiency without Level
-
 # Cavnakash<span class="item-type">Creature 5</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Humanoid</span><span class="item-trait">Xulgath</span>

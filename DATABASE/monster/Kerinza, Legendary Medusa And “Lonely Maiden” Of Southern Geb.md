@@ -93,9 +93,6 @@ Kerinza senses an opportunity to charm or trick the characters into dealing with
 **Unspecific Lore**: DC 38
 **Specific Lore**: DC 35
 
-## Elite | [[DATABASE/monster/Kerinza, Legendary Medusa And “Lonely Maiden” Of Southern Geb|Normal]] | Weak
-Proficiency without Level
-
 # Kerinza<span class="item-type">Creature 12</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Humanoid</span>

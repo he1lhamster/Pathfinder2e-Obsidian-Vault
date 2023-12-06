@@ -102,9 +102,6 @@ The King of Biting Ants is the heroes' final foe in this adventure. With Jatembe
 **Unspecific Lore**: DC 47
 **Specific Lore**: DC 44
 
-## Elite | [[DATABASE/monster/The King of Biting Ants, Megalomaniacal Sorcerer|Normal]] | Weak
-Proficiency without Level
-
 # The King of Biting Ants<span class="item-type">Creature 19</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Aberration</span><span class="item-trait">Swarm</span>

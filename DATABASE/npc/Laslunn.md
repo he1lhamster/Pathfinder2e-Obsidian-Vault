@@ -146,9 +146,6 @@ Laslunn is the main antagonist of “Tomorrow Must Burn.” As she sets into mot
 **Unspecific Lore**: DC 39
 **Specific Lore**: DC 36
 
-## Elite | [[DATABASE/npc/Laslunn|Normal]] | Weak
-Proficiency without Level
-
 # Laslunn<span class="item-type">Creature 13</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Gnoll</span><span class="item-trait">Humanoid</span>

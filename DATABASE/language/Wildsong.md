@@ -12,4 +12,3 @@ type: Language
 # Wildsong
 
 **Source** [[DATABASE/source/Rage of Elements|Rage of Elements]]
-No speakers of this language can be found in the Archives.

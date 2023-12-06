@@ -152,9 +152,6 @@ For much of the campaign, Narseigus is a sinister mastermind always several step
 **Unspecific Lore**: DC 36
 **Specific Lore**: DC 33
 
-## Elite | [[DATABASE/npc/Narseigus|Normal]] | Weak
-Proficiency without Level
-
 # Narseigus Wormcaller<span class="item-type">Creature 11</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Duergar</span><span class="item-trait">Dwarf</span><span class="item-trait">Humanoid</span>

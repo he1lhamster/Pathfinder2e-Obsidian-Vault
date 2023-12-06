@@ -131,9 +131,6 @@ The Eldest have sometimes altered certain aspects of the jabberwocks they create
 **Unspecific Lore**: DC 49
 **Specific Lore**: DC 46
 
-## Elite | [[DATABASE/monster/Jabberwock|Normal]] | Weak
-Proficiency without Level
-
 # Jabberwock<span class="item-type">Creature 23</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Huge</span><span class="item-trait">Dragon</span><span class="item-trait">Tane</span>

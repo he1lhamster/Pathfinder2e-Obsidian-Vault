@@ -87,9 +87,6 @@ Raven is the most dangerous member of the Unmatched, and is Stolen Fate's true v
 **Unspecific Lore**: DC 48
 **Specific Lore**: DC 45
 
-## Elite | [[DATABASE/npc/Raven Nicoletta, Thief Of Fate|Normal]] | Weak
-Proficiency without Level
-
 # Raven Nicoletta<span class="item-type">Creature 20</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>

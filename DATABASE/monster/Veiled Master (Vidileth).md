@@ -88,8 +88,8 @@ The powerful vidileths are the insidious veiled masters of the alghollthus. Thes
 
 ---
 **AC** 34; **Fort** +26, **Ref** +22, **Will** +24; +2 status to all saves vs. magic
-**HP** 270; **Immunities** [[DATABASE/condition/Controlled|controlled]], electricity, mental
-; **Resistances** cold 20
+**HP** 270; **Immunities** [[DATABASE/condition/Controlled|controlled]], electricity, mental;
+ **Resistances** cold 20
 
 ---
 **Speed** 10 feet, swim 80 feet

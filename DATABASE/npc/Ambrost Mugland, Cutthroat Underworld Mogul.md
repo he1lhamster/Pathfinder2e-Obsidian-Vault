@@ -97,9 +97,6 @@ Ambrost Mugland, along with Deputy Anjelique Loveless, the crooked high-ranking 
 **Unspecific Lore**: DC 32
 **Specific Lore**: DC 29
 
-## Elite | [[DATABASE/npc/Ambrost Mugland, Cutthroat Underworld Mogul|Normal]] | Weak
-Proficiency without Level
-
 # Ambrost Mugland<span class="item-type">Creature 8</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Small</span><span class="item-trait">Halfling</span><span class="item-trait">Humanoid</span>

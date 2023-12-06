@@ -86,9 +86,9 @@ These shapeless masses of quivering flesh are the least of devilkind. Pathetic c
 
 ---
 **AC** 13; **Fort** +10, **Ref** +5, **Will** +3
-**HP** 20; **Immunities** fire, mental
-; **Resistances** physical 3 (except [[DATABASE/equipment/Silver Weapon|silver]]), poison 5
-; **Weaknesses** good 3
+**HP** 20; **Immunities** fire, mental;
+ **Resistances** physical 3 (except [[DATABASE/equipment/Silver Weapon|silver]]), poison 5;
+ **Weaknesses** good 3
 
 ---
 **Speed** 20 feet

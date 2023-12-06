@@ -116,9 +116,6 @@ Zellara is a guiding figure for the heroes. She's aware of Raven's entire histor
 **Unspecific Lore**: DC 40
 **Specific Lore**: DC 37
 
-## Elite | [[DATABASE/npc/Zellara Esmeranda, Harrowed Soul And Teacher|Normal]] | Weak
-Proficiency without Level
-
 # Zellara Esmeranda<span class="item-type">Creature 14</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CG</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Ghost</span><span class="item-trait">Incorporeal</span><span class="item-trait">Spirit</span><span class="item-trait">Undead</span>

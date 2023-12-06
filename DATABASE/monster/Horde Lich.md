@@ -136,9 +136,6 @@ A horde lich trades frightful presence, Drain Soul Cage, and paralyzing touch fo
 **Unspecific Lore**: DC 37
 **Specific Lore**: DC 34
 
-## Elite | [[DATABASE/monster/Horde Lich|Normal]] | Weak
-Proficiency without Level
-
 # Horde Lich<span class="item-type">Creature 15</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Undead</span>

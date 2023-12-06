@@ -118,8 +118,8 @@ Once a barghest has eaten enough to grow into a greater barghest, it typically s
 
 ---
 **AC** 25; **Fort** +17, **Ref** +15, **Will** +12
-**HP** 105; **Resistances** fire 10, physical 10 (except magical)
-; **Weaknesses** good 5, lawful 5
+**HP** 105; **Resistances** fire 10, physical 10 (except magical);
+ **Weaknesses** good 5, lawful 5
 <span class="in-box-ability">**[[DATABASE/monsterability/Attack of Opportunity|Attack of Opportunity]]** <span class="action-icon">5</span> </span>
 
 ---

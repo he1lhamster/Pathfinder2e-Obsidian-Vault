@@ -93,9 +93,6 @@ From the outset of this adventure, Pakano views the characters as potential riva
 **Unspecific Lore**: DC 27
 **Specific Lore**: DC 24
 
-## Elite | [[DATABASE/npc/Pakano, Broken Tusk Bully And Traitor|Normal]] | Weak
-Proficiency without Level
-
 # Pakano<span class="item-type">Creature 4</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>

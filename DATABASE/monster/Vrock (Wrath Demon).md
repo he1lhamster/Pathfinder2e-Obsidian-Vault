@@ -101,8 +101,8 @@ When the gates to the Abyss swing wide, the first demons through are often vrock
 
 ---
 **AC** 28; **Fort** +20, **Ref** +18, **Will** +15; +1 status to all saves vs. magic
-**HP** 185; **Resistances** electricity 10
-; **Weaknesses** cold iron 10, good 10
+**HP** 185; **Resistances** electricity 10;
+ **Weaknesses** cold iron 10, good 10
 <span class="in-box-ability">**Attack of Opportunity** <span class="action-icon">5</span> If the vrock is flying and a creature triggers an attack of opportunity, the vrock can make 2 Strikes with its talons against that creature instead of 1 Strike.</span><span class="in-box-ability"> **Peace Vulnerability** A vrock’s wrath is the heart of their essence, and forcing peace upon them wrenches at their soul. If they fail a save against [[DATABASE/spell/Calm Emotions|calm emotions]] or a similar effect forcing them to be peaceful, a vrock takes 4d6 mental damage.</span>
 
 ---

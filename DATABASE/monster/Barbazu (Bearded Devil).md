@@ -98,9 +98,9 @@ Barbazus, known also as bearded devils or infantry devils, are murderous fiends 
 
 ---
 **AC** 22; **Fort** +15, **Ref** +11, **Will** +11; +1 status to all saves vs. magic
-**HP** 60; **Immunities** fire
-; **Resistances** physical 5 (except [[DATABASE/equipment/Silver Weapon|silver]]), poison 10
-; **Weaknesses** good 5
+**HP** 60; **Immunities** fire;
+ **Resistances** physical 5 (except [[DATABASE/equipment/Silver Weapon|silver]]), poison 10;
+ **Weaknesses** good 5
 <span class="in-box-ability">**Attack of Opportunity** <span class="action-icon">5</span> </span>
 
 ---

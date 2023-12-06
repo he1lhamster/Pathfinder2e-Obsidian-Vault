@@ -110,9 +110,6 @@ The Prince of Wolves has already gathered some cards from the _Deck of Destiny_ 
 **Unspecific Lore**: DC 47
 **Specific Lore**: DC 44
 
-## Elite | [[DATABASE/npc/The Prince Of Wolves, Abyssal Crime Lord|Normal]] | Weak
-Proficiency without Level
-
 # The Prince Of Wolves<span class="item-type">Creature 19</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Beast</span><span class="item-trait">Beastkin</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>

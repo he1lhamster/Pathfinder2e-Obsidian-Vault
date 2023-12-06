@@ -120,8 +120,8 @@ Pleromas see the multiverse as both eternal and cyclical, doomed and malleable, 
 
 ---
 **AC** 45; **Fort** +32, **Ref** +31, **Will** +37; +1 status to all saves vs. magic
-**HP** 335, regeneration 20 (deactivated by chaotic); **Immunities** negative, positive
-; **Weaknesses** chaotic 20
+**HP** 335, regeneration 20 (deactivated by chaotic); **Immunities** negative, positive;
+ **Weaknesses** chaotic 20
 <span class="in-box-ability">**Reality Twist** <span class="action-icon">5</span> **Trigger** The pleroma critically fails the saving throw. **Effect** The critical failure becomes a normal failure.</span>
 
 ---

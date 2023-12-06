@@ -130,9 +130,6 @@ On the Material Plane, some mortals worship norns as deities, while others, espe
 **Unspecific Lore**: DC 43
 **Specific Lore**: DC 40
 
-## Elite | [[DATABASE/monster/Norn|Normal]] | Weak
-Proficiency without Level
-
 # Norn<span class="item-type">Creature 20</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">LN</span><span class="trait-size item-trait">Large</span><span class="item-trait">Fey</span>

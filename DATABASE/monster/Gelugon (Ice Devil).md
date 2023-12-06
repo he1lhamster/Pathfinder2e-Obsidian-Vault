@@ -92,8 +92,8 @@ Insectile ice devils are strategists and masterminds in Hell’s armies, using t
 
 ---
 **AC** 34; **Fort** +24, **Ref** +24, **Will** +26; +1 status to all saves vs. magic
-**HP** 215; **Immunities** cold, fire; **Resistances** physical 10 (except [[DATABASE/equipment/Silver Weapon|silver]]), poison 10
-; **Weaknesses** good 10
+**HP** 215; **Immunities** cold, fire; **Resistances** physical 10 (except [[DATABASE/equipment/Silver Weapon|silver]]), poison 10;
+ **Weaknesses** good 10
 <span class="in-box-ability">**Frightful Presence** ([[DATABASE/spell/Negate Aroma|aura]], [[DATABASE/spell/Confusion|divine]], [[DATABASE/spell/Darkvision|emotion]], [[DATABASE/spell/Daze|enchantment]], [[DATABASE/spell/Detect Scrying|fear]], [[DATABASE/spell/Fabricated Truth|mental]]) 10 feet, DC 31</span><span class="in-box-ability"> **Attack of Opportunity** <span class="action-icon">5</span> </span>
 
 ---

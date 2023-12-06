@@ -81,9 +81,6 @@ As the leader of the Powderkeg Punks, a gang of arsonists hired to kidnap Vashon
 **Unspecific Lore**: DC 27
 **Specific Lore**: DC 24
 
-## Elite | [[DATABASE/npc/Glaz “Brick Blaster” Nixbrix, Explosive Leader Of The Powderkeg Punks|Normal]] | Weak
-Proficiency without Level
-
 # Glaz “Brick Blaster” Nixbrix<span class="item-type">Creature 4</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CN</span><span class="trait-size item-trait">Small</span><span class="item-trait">Humanoid</span>

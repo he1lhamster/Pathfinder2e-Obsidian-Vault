@@ -93,9 +93,6 @@ Arodeth's Band of Blades has seized the Storval Stairs and serves as the PCs' an
 **Unspecific Lore**: DC 40
 **Specific Lore**: DC 37
 
-## Elite | [[DATABASE/npc/Arodeth, Disillusioned Mercenary Company Leader|Normal]] | Weak
-Proficiency without Level
-
 # Arodeth<span class="item-type">Creature 14</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>

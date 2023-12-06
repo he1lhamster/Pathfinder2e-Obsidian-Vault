@@ -159,9 +159,6 @@ The player characters have a chance to meet Razu during the first chapter of thi
 **Unspecific Lore**: DC 46
 **Specific Lore**: DC 43
 
-## Elite | [[DATABASE/npc/Razu|Normal]] | Weak
-Proficiency without Level
-
 # Razu<span class="item-type">Creature 18</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Humanoid</span><span class="item-trait">Tengu</span>

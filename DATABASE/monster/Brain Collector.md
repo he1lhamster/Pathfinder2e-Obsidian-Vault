@@ -130,8 +130,8 @@ The grotesque brain collectors (or neh-thalggus, as they call themselves) origin
 
 ---
 **AC** 26; **Fort** +15, **Ref** +13, **Will** +18; +1 status to all saves vs. magic
-**HP** 140; **Immunities** [[DATABASE/condition/Confused|confused]]
-; **Weaknesses** brain loss
+**HP** 140; **Immunities** [[DATABASE/condition/Confused|confused]];
+ **Weaknesses** brain loss
 <span class="in-box-ability">**Brain Blisters** A brain collector has seven brain blisters on its back that it uses to house stolen brains. A brain collector without all seven blisters full is stupefied with a value equal to the number of empty blisters.</span><span class="in-box-ability">**Brain Loss** If a brain collector takes 30 damage from a critical hit or takes 25 mental damage, it must succeed at a DC 26 save (Fortitude for critical damage or Will for mental damage) or one of its brain blisters is destroyed.</span>
 
 ---

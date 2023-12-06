@@ -123,9 +123,6 @@ Hegremon never intended to lead his fellows into battle against Hillcross. Rathe
 **Unspecific Lore**: DC 39
 **Specific Lore**: DC 36
 
-## Elite | [[DATABASE/monster/Hegremon, Human Hunter of the Tusk Mountains|Normal]] | Weak
-Proficiency without Level
-
 # Hegremon<span class="item-type">Creature 13</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Cold</span><span class="item-trait">Giant</span><span class="item-trait">Humanoid</span>

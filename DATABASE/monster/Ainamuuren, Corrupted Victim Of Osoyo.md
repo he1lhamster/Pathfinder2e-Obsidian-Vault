@@ -100,9 +100,6 @@ The corrupted Ainamuuren isn't as powerful as his natural form, yet he remains a
 **Unspecific Lore**: DC 38
 **Specific Lore**: DC 35
 
-## Elite | [[DATABASE/monster/Ainamuuren, Corrupted Victim Of Osoyo|Normal]] | Weak
-Proficiency without Level
-
 # Ainamuuren (Corrupted)<span class="item-type">Creature 12</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Cold</span><span class="item-trait">Humanoid</span>

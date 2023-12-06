@@ -143,9 +143,6 @@ Warbal is one of the first NPCs the heroes meet in this adventure, and at that t
 **Unspecific Lore**: DC 23
 **Specific Lore**: DC 20
 
-## Elite | [[DATABASE/npc/Warbal Bumblebrasher|Normal]] | Weak
-Proficiency without Level
-
 # Warbal Bumblebrasher<span class="item-type">Creature 1</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NG</span><span class="trait-size item-trait">Small</span><span class="item-trait">Goblin</span><span class="item-trait">Humanoid</span>

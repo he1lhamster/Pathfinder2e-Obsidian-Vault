@@ -93,8 +93,8 @@ Swarms of centipedes are dangerous indeed, ravenous carpets of skittering hunger
 
 ---
 **AC** 18; **Fort** +8, **Ref** +11, **Will** +5
-**HP** 30; **Immunities** precision, [[DATABASE/monsterability/Swarm Mind|swarm mind]]
-; **Resistances** bludgeoning 5, piercing 5, slashing 2; **Weaknesses** area damage 5, splash damage 5
+**HP** 30; **Immunities** precision, [[DATABASE/monsterability/Swarm Mind|swarm mind]];
+ **Resistances** bludgeoning 5, piercing 5, slashing 2; **Weaknesses** area damage 5, splash damage 5
 
 ---
 **Speed** 30 feet, climb 30 feet

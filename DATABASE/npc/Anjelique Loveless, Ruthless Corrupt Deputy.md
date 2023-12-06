@@ -90,9 +90,6 @@ Deputy Loveless has been a thorn in the player characters' sides since the first
 **Unspecific Lore**: DC 36
 **Specific Lore**: DC 33
 
-## Elite | [[DATABASE/npc/Anjelique Loveless, Ruthless Corrupt Deputy|Normal]] | Weak
-Proficiency without Level
-
 # Anjelique Loveless<span class="item-type">Creature 11</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Changeling</span><span class="item-trait">Elf</span><span class="item-trait">Humanoid</span>

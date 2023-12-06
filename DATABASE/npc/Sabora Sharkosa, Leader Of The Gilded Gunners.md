@@ -81,9 +81,6 @@ The Gilded Gunners have been a recurring threat for the characters since the beg
 **Unspecific Lore**: DC 31
 **Specific Lore**: DC 28
 
-## Elite | [[DATABASE/npc/Sabora Sharkosa, Leader Of The Gilded Gunners|Normal]] | Weak
-Proficiency without Level
-
 # Sabora Sharkosa<span class="item-type">Creature 7</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Elf</span><span class="item-trait">Half-Elf</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>

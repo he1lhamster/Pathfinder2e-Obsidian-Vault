@@ -12,4 +12,3 @@ type: Language
 # Jistka
 
 **Source** [[DATABASE/source/Guns & Gears|Guns & Gears]]
-No speakers of this language can be found in the Archives.

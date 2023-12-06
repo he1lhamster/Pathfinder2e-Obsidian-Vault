@@ -187,9 +187,6 @@ If Voz escapes or the PCs somehow bargain with her, she's likely to remain a thr
 **Unspecific Lore**: DC 28
 **Specific Lore**: DC 25
 
-## Elite | [[DATABASE/npc/Voz Lirayne|Normal]] | Weak
-Proficiency without Level
-
 # Voz Lirayne<span class="item-type">Creature 5</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Elf</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>

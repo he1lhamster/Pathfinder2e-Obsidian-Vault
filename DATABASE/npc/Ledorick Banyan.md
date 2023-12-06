@@ -128,9 +128,6 @@ When Ledorick learns there might be resources available in the sea caves under t
 **Unspecific Lore**: DC 40
 **Specific Lore**: DC 37
 
-## Elite | [[DATABASE/npc/Ledorick Banyan|Normal]] | Weak
-Proficiency without Level
-
 # Ledorick Banyan<span class="item-type">Creature 14</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>

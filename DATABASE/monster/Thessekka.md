@@ -141,9 +141,6 @@ Thessekka is the true mastermind behind the xulgaths in the Swardlands. Once she
 **Unspecific Lore**: DC 40
 **Specific Lore**: DC 37
 
-## Elite | [[DATABASE/monster/Thessekka|Normal]] | Weak
-Proficiency without Level
-
 # Thessekka<span class="item-type">Creature 14</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Humanoid</span><span class="item-trait">Xulgath</span>

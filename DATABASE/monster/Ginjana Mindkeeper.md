@@ -157,9 +157,6 @@ In this adventure, Ginjana operates as a menacing presence behind the scenes. Th
 **Unspecific Lore**: DC 36
 **Specific Lore**: DC 33
 
-## Elite | [[DATABASE/monster/Ginjana Mindkeeper|Normal]] | Weak
-Proficiency without Level
-
 # Ginjana Mindkeeper<span class="item-type">Creature 11</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Small</span><span class="item-trait">Dero</span><span class="item-trait">Humanoid</span>

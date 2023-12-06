@@ -122,9 +122,9 @@ Erinyes exact vengeance and bloody justice for a creature’s crimes, torturing 
 
 ---
 **AC** 27; **Fort** +17, **Ref** +19, **Will** +16; +1 status to all saves vs. magic
-**HP** 120; **Immunities** fire
-; **Resistances** physical 5 (except [[DATABASE/equipment/Silver Weapon|silver]]), poison 10
-; **Weaknesses** good 5
+**HP** 120; **Immunities** fire;
+ **Resistances** physical 5 (except [[DATABASE/equipment/Silver Weapon|silver]]), poison 10;
+ **Weaknesses** good 5
 
 ---
 **Speed** 25 feet, fly 40 feet

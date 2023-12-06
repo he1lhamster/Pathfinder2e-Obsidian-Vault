@@ -152,9 +152,6 @@ As the head of the Bellflower Network in Kintargo, Nolly Peltry is deeply concer
 **Unspecific Lore**: DC 36
 **Specific Lore**: DC 33
 
-## Elite | [[DATABASE/npc/Nolly Peltry|Normal]] | Weak
-Proficiency without Level
-
 # Nolly Peltry<span class="item-type">Creature 11</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CG</span><span class="trait-size item-trait">Small</span><span class="item-trait">Halfling</span><span class="item-trait">Humanoid</span>

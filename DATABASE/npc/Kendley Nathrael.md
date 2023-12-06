@@ -84,9 +84,6 @@ When the heroes first encounter Kendley, she's been incorporated into the _conve
 **Unspecific Lore**: DC 47
 **Specific Lore**: DC 44
 
-## Elite | [[DATABASE/npc/Kendley Nathrael|Normal]] | Weak
-Proficiency without Level
-
 # Convergent Kendley Nathrael <span class="item-type">Creature 19</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">LN</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Elf</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>

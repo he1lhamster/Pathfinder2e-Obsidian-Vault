@@ -101,9 +101,6 @@ In her awful cruelty, Tatterthread represents the dark mirror of Hlakana. Instea
 **Unspecific Lore**: DC 48
 **Specific Lore**: DC 45
 
-## Elite | [[DATABASE/monster/Tatterthread, Evil Reflection of a Compassionate Norn|Normal]] | Weak
-Proficiency without Level
-
 # Tatterthread<span class="item-type">Creature 20</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Fey</span>

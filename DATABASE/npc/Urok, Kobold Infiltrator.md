@@ -84,9 +84,6 @@ Game Masters may consider the following plot hooks as a means of integrating Uro
 **Unspecific Lore**: DC 34
 **Specific Lore**: DC 31
 
-## Elite | [[DATABASE/npc/Urok, Kobold Infiltrator|Normal]] | Weak
-Proficiency without Level
-
 # Urok<span class="item-type">Creature 9</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">LN</span><span class="trait-size item-trait">Small</span><span class="item-trait">Aphorite</span><span class="item-trait">Humanoid</span><span class="item-trait">Kobold</span>

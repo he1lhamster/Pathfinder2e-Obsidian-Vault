@@ -166,9 +166,6 @@ While Ilssrah doesn't bother with revenge for petty slights, she has poured deca
 **Unspecific Lore**: DC 42
 **Specific Lore**: DC 39
 
-## Elite | [[DATABASE/npc/Ilssrah Embermead|Normal]] | Weak
-Proficiency without Level
-
 # Ilssrah Embermead<span class="item-type">Creature 15</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Dwarf</span><span class="item-trait">Humanoid</span>

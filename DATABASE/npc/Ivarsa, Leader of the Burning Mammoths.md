@@ -87,9 +87,6 @@ Ivarsa and her war party have dogged the Broken Tusk for nearly a year. In “Bu
 **Unspecific Lore**: DC 38
 **Specific Lore**: DC 35
 
-## Elite | [[DATABASE/npc/Ivarsa, Leader of the Burning Mammoths|Normal]] | Weak
-Proficiency without Level
-
 # Ivarsa<span class="item-type">Creature 12</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>

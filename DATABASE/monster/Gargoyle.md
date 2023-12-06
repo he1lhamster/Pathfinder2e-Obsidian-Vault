@@ -94,9 +94,6 @@ Kapoacinths dwell not amid cliffs or rooftops, but beneath the sea, using their 
 **Unspecific Lore**: DC 17
 **Specific Lore**: DC 14
 
-## Elite | [[DATABASE/monster/Gargoyle|Normal]] | Weak
-Proficiency without Level
-
 # Gargoyle<span class="item-type">Creature 4</span>
 
 <span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Beast</span><span class="item-trait">Earth</span>

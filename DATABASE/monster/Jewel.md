@@ -65,7 +65,7 @@ wisdom: '+4'
 ---
 # Jewel
 
-This creature was printed without a level. It is shown as one as a placeholder
+_Nethys Note_ This creature was printed without a level. It is shown as one as a placeholder
 **Recall Knowledge - Animal ([[DATABASE/skill/Nature|Nature]])**: DC 25
 **Unspecific Lore**: DC 23
 **Specific Lore**: DC 20

@@ -95,9 +95,6 @@ Andera is the heroes' primary point of contact in Escadar. When the heroes first
 **Unspecific Lore**: DC 35
 **Specific Lore**: DC 32
 
-## Elite | [[DATABASE/npc/Chief Constable Andera Paldreen|Normal]] | Weak
-Proficiency without Level
-
 # Andera Paldreen<span class="item-type">Creature 10</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">LN</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>

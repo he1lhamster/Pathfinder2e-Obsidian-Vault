@@ -100,9 +100,6 @@ If Granny Hu becomes Willowshore's interim governor, she favors Northridge's bus
 **Unspecific Lore**: DC 28
 **Specific Lore**: DC 25
 
-## Elite | [[DATABASE/npc/Ban-Niang "Granny" Hu, Retired Imperial Guard|Normal]] | Weak
-Proficiency without Level
-
 # Ban-Niang "Granny" Hu<span class="item-type">Creature 5</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">LN</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>

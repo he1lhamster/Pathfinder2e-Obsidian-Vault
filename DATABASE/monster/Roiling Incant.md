@@ -99,9 +99,6 @@ Though many spellcasters can harness the forces of magic in a consistent manner,
 
 Each roiling incant is tied to a magic tradition as well as to a school of magic, and thus each has the traits of that tradition and school. Its innate spells must come from that tradition and school of magic, and they are usually related to the accident that caused the roiling incant's creation. The additional damage from their Engulf ability also changes based on their innate cantrip. Variant roiling incants usually have one 4th-level spell, one 3rd-level spell, one 2nd-level spell, and a cantrip, just like the example roiling incant presented below. Evocation roiling incants are the most common, as that school of magic is often the most destructive.
 
-## Elite | [[DATABASE/monster/Roiling Incant|Normal]] | Weak
-Proficiency without Level
-
 # Roiling Incant<span class="item-type">Creature 9</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Arcane</span><span class="item-trait">Evocation</span><span class="item-trait">Mindless</span>

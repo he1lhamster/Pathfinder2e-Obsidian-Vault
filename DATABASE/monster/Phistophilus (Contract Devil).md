@@ -96,8 +96,8 @@ Contract devils are clerks, scribes, and bureaucrats of Hell rarely found outsid
 
 ---
 **AC** 30; **Fort** +18, **Ref** +18, **Will** +23; +1 status to all saves vs. magic
-**HP** 150; **Immunities** fire, ward contract; **Resistances** physical 10 (except [[DATABASE/equipment/Silver Weapon|silver]]), poison 10
-; **Weaknesses** good 10
+**HP** 150; **Immunities** fire, ward contract; **Resistances** physical 10 (except [[DATABASE/equipment/Silver Weapon|silver]]), poison 10;
+ **Weaknesses** good 10
 <span class="in-box-ability">**Ward Contract** A signed contract carried by a living contract devil (including draped over its horns) is immune to damage from all creatures other than that contract devil. A contract devil is immune to mental effects that would make it destroy, nullify, or alter a contract.</span>
 
 ---

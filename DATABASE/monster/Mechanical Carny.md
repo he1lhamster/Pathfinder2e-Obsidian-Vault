@@ -95,9 +95,6 @@ The statistics here represent a relatively simple mechanical carny; the extravag
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
-## Elite | [[DATABASE/monster/Mechanical Carny|Normal]] | Weak
-Proficiency without Level
-
 # Mechanical Carny<span class="item-type">Creature 2</span>
 
 <span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Construct</span><span class="item-trait">Mindless</span>

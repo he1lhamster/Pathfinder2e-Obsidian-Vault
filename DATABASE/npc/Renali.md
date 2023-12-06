@@ -165,9 +165,6 @@ Although the heroes encounter Renali relatively late in the adventure, it's poss
 **Unspecific Lore**: DC 27
 **Specific Lore**: DC 24
 
-## Elite | [[DATABASE/npc/Renali|Normal]] | Weak
-Proficiency without Level
-
 # Renali<span class="item-type">Creature 4</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CG</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Anadi</span><span class="item-trait">Humanoid</span>

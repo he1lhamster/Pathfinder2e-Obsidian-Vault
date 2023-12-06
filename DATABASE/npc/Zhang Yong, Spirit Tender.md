@@ -82,9 +82,6 @@ Game Masters can use the following plot hooks to integrate Zhang Yong into their
 **Unspecific Lore**: DC 40
 **Specific Lore**: DC 37
 
-## Elite | [[DATABASE/npc/Zhang Yong, Spirit Tender|Normal]] | Weak
-Proficiency without Level
-
 # Zhang Yong<span class="item-type">Creature 14</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">LN</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Half-Orc</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span><span class="item-trait">Orc</span>

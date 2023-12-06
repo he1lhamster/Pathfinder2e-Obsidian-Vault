@@ -118,9 +118,6 @@ Game Masters might consider the following plot hooks as a means of integrating G
 **Unspecific Lore**: DC 24
 **Specific Lore**: DC 21
 
-## Elite | [[DATABASE/npc/Gristleburst, Inquisitive Pyromaniac|Normal]] | Weak
-Proficiency without Level
-
 # Gristleburst<span class="item-type">Creature 2</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CN</span><span class="trait-size item-trait">Small</span><span class="item-trait">Goblin</span><span class="item-trait">Humanoid</span>

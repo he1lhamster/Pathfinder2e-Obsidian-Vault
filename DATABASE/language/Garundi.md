@@ -11,8 +11,7 @@ type: Language
 ---
 # Garundi
 
-**Source** [[DATABASE/source/World Guide|World Guide]] 
-No speakers of this language can be found in the Archives.
+**Source** [[DATABASE/source/World Guide|World Guide]]
 
 ## Regions (1)
 

@@ -137,9 +137,6 @@ When the heroes intrude on the xulgath camp, Zashathal calls on his most experie
 **Unspecific Lore**: DC 42
 **Specific Lore**: DC 39
 
-## Elite | [[DATABASE/monster/Zashathal Head-Taker|Normal]] | Weak
-Proficiency without Level
-
 # Zashathal Head-Taker<span class="item-type">Creature 15</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Humanoid</span><span class="item-trait">Xulgath</span>

@@ -77,9 +77,6 @@ Yoh serves as the team's pilot for much of this adventure as the team scours the
 **Unspecific Lore**: DC 42
 **Specific Lore**: DC 39
 
-## Elite | [[DATABASE/npc/Yoh Souran, Ruby Phoenix Fan, Ace Pilot|Normal]] | Weak
-Proficiency without Level
-
 # Yoh Souran<span class="item-type">Creature 15</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CG</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>

@@ -105,9 +105,9 @@ These spherical inevitables are scouts and diplomats. Found throughout the multi
 
 ---
 **AC** 16; **Fort** +5, **Ref** +7, **Will** +7; +1 status to all saves vs. magic
-**HP** 22; **Immunities** death effects, disease, emotion, poison, [[DATABASE/condition/Unconscious|unconscious]]
-; **Resistances** electricity 3
-; **Weaknesses** chaotic 3
+**HP** 22; **Immunities** death effects, disease, emotion, poison, [[DATABASE/condition/Unconscious|unconscious]];
+ **Resistances** electricity 3;
+ **Weaknesses** chaotic 3
 
 ---
 **Speed** 20 feet, fly 40 feet

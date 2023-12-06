@@ -136,9 +136,6 @@ The most commonly encountered of the sinspawn, a wrathspawn has Athletics +12 an
 **Unspecific Lore**: DC 14
 **Specific Lore**: DC 11
 
-## Elite | [[DATABASE/monster/Sinspawn|Normal]] | Weak
-Proficiency without Level
-
 # Sinspawn<span class="item-type">Creature 2</span>
 
 <span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Aberration</span>

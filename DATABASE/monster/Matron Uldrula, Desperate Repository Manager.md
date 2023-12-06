@@ -78,9 +78,6 @@ Although Matron Uldrula is opposed to the PCs' presence in her soul repository, 
 **Unspecific Lore**: DC 47
 **Specific Lore**: DC 44
 
-## Elite | [[DATABASE/monster/Matron Uldrula, Desperate Repository Manager|Normal]] | Weak
-Proficiency without Level
-
 # Matron Uldrula<span class="item-type">Creature 19</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Monitor</span><span class="item-trait">Psychopomp</span>

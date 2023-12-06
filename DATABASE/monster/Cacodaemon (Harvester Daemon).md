@@ -109,8 +109,8 @@ These embodiments of demented violence and spite are spawned from eddies of angr
 
 ---
 **AC** 16; **Fort** +7, **Ref** +8, **Will** +6
-**HP** 22; **Immunities** death effects
-; **Weaknesses** good 3
+**HP** 22; **Immunities** death effects;
+ **Weaknesses** good 3
 
 ---
 **Speed** 5 feet, fly 40 feet

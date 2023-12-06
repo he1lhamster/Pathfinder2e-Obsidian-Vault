@@ -84,9 +84,6 @@ Game Masters might consider the following plot hooks as a means of integrating W
 **Unspecific Lore**: DC 24
 **Specific Lore**: DC 21
 
-## Elite | [[DATABASE/npc/Wendlyn, Incorrigible Thief|Normal]] | Weak
-Proficiency without Level
-
 # Wendlyn<span class="item-type">Creature 2</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CG</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Elf</span><span class="item-trait">Half-Elf</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>

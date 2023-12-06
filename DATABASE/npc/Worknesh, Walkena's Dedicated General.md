@@ -85,9 +85,6 @@ Worknesh serves as the head of Mzali's armies and fully supports Walkena's laws.
 **Unspecific Lore**: DC 43
 **Specific Lore**: DC 40
 
-## Elite | [[DATABASE/npc/Worknesh, Walkena's Dedicated General|Normal]] | Weak
-Proficiency without Level
-
 # Worknesh<span class="item-type">Creature 16</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>

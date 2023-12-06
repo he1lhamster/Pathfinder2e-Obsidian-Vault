@@ -85,9 +85,6 @@ Ghiasi's relationship with the characters can be quite complex. At first, she vi
  Ghiasi has a flair for the dramatic. As someone who has spent the last few years crafting stories and using those stories to build her reputation and influence others, she treats many of her interactions as if they were scenes in a play where she is the star. Yled is the stage she has chosen, and the characters' entrance marks what she sees as a new act in the story of her life.
  While Ghiasi doesn't usually take physical threats seriously, she is wise enough to know that a quick escape is often the best course of action. In combat, she tries to keep her distance while casting spells to subdue enemies. Barring that, she prefers to hit and run in battle.
 
-## Elite | [[DATABASE/monster/Ghiasi The Unraveler, Smuggler Turned Diva|Normal]] | Weak
-Proficiency without Level
-
 # Ghiasi The Unraveler<span class="item-type">Creature 17</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Shadow</span>

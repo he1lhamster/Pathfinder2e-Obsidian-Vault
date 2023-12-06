@@ -116,9 +116,6 @@ Pokmit is the embodiment of the looming threat of the Warmaster Council descendi
 **Unspecific Lore**: DC 46
 **Specific Lore**: DC 43
 
-## Elite | [[DATABASE/monster/Pokmit Bloody-Pike, Unyielding Graveknight Of Yled|Normal]] | Weak
-Proficiency without Level
-
 # Pokmit Bloody-Pike<span class="item-type">Creature 18</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Undead</span>

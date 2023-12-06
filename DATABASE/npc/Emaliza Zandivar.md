@@ -181,9 +181,6 @@ Emaliza spends most of her time during this adventure away from the PCs. She is 
 **Unspecific Lore**: DC 48
 **Specific Lore**: DC 45
 
-## Elite | [[DATABASE/npc/Emaliza Zandivar|Normal]] | Weak
-Proficiency without Level
-
 # Emaliza Zandivar<span class="item-type">Creature 20</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>

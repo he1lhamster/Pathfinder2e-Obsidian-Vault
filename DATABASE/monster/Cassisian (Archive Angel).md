@@ -90,8 +90,8 @@ The weakest of angels, cassisians usually serve as lackey messengers for more po
 
 ---
 **AC** 18 +1 status vs. evil creatures; **Fort** +7, **Ref** +6, **Will** +4; +1 status to all saves vs. evil creatures
-**HP** 20; **Resistances** cold 3, fire 3
-; **Weaknesses** evil 3
+**HP** 20; **Resistances** cold 3, fire 3;
+ **Weaknesses** evil 3
 <span class="in-box-ability">**Transfer Protection** A non-evil creature can wear a willing cassisian as a helmet. While it does, the cassisian can take no actions, but the cassisian extends its +1 status bonus to AC and saves against evil creatures to its wearer. At any time, the cassisian can detach itself from its wearer as an action.</span>
 
 ---

@@ -78,9 +78,6 @@ Once the town of Willowshore is safe at the start of Chapter 3, the PCs can atte
 **Unspecific Lore**: DC 28
 **Specific Lore**: DC 25
 
-## Elite | [[DATABASE/npc/Shou "Old" Matsuki, Popular Local Old-Timer|Normal]] | Weak
-Proficiency without Level
-
 # Shou "Old" Matsuki<span class="item-type">Creature 5</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NG</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>

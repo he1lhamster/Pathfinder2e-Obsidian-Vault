@@ -97,9 +97,6 @@ Like skeletons and zombies, snags can demonstrate variant abilities. You can rem
 **Unspecific Lore**: DC 18
 **Specific Lore**: DC 15
 
-## Elite | [[DATABASE/monster/Arboreal Snag|Normal]] | Weak
-Proficiency without Level
-
 # Arboreal Snag<span class="item-type">Creature 3</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Mindless</span><span class="item-trait">Undead</span>

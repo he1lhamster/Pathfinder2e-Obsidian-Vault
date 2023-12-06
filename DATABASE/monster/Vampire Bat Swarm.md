@@ -95,8 +95,8 @@ Although the typical vampire bat has a wingspan of 7 inches and doesn’t pose a
 
 ---
 **AC** 15; **Fort** +6, **Ref** +9, **Will** +6
-**HP** 11; **Immunities** precision, [[DATABASE/monsterability/Swarm Mind|swarm mind]]
-; **Resistances** bludgeoning 6, piercing 6, slashing 3; **Weaknesses** area damage 3, splash damage 3
+**HP** 11; **Immunities** precision, [[DATABASE/monsterability/Swarm Mind|swarm mind]];
+ **Resistances** bludgeoning 6, piercing 6, slashing 3; **Weaknesses** area damage 3, splash damage 3
 
 ---
 **Speed** 5 feet, fly 30 feet

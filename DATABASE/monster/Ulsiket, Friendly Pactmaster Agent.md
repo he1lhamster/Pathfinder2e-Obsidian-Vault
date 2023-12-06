@@ -90,9 +90,6 @@ Usilket works as a facilitator. Although they might seem generous, all Usilket d
 **Unspecific Lore**: DC 39
 **Specific Lore**: DC 36
 
-## Elite | [[DATABASE/monster/Ulsiket, Friendly Pactmaster Agent|Normal]] | Weak
-Proficiency without Level
-
 # Usilket<span class="item-type">Creature 13</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">LG</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Humanoid</span>

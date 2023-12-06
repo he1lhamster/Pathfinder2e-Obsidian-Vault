@@ -171,9 +171,6 @@ Beyond her role in “Cult of Cinders,” Nketiah acts as the spokesperson for h
 **Unspecific Lore**: DC 30
 **Specific Lore**: DC 27
 
-## Elite | [[DATABASE/npc/Nketiah|Normal]] | Weak
-Proficiency without Level
-
 # Nketiah<span class="item-type">Creature 6</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CG</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Elf</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>

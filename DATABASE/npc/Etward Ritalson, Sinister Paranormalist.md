@@ -97,9 +97,6 @@ Etward Ritalson serves as the mysterious patron for the player characters for th
 **Unspecific Lore**: DC 34
 **Specific Lore**: DC 31
 
-## Elite | [[DATABASE/npc/Etward Ritalson, Sinister Paranormalist|Normal]] | Weak
-Proficiency without Level
-
 # Etward Ritalson<span class="item-type">Creature 9</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>

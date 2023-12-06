@@ -106,8 +106,8 @@ Among the most dangerous cave worms are the fiery crimson worms. In addition to 
 
 ---
 **AC** 40; **Fort** +36, **Ref** +25, **Will** +27
-**HP** 410 (fire healing); **Immunities** fire
-; **Weaknesses** cold 15
+**HP** 410 (fire healing); **Immunities** fire;
+ **Weaknesses** cold 15
 <span class="in-box-ability">**Fire Healing** As long as a crimson worm is in contact with a fire or body of magma at least as large as itself, it gains fast healing 20. When struck by a magical fire effect from anything other than itself, a crimson worm regains Hit Points equal to half the fire damage the effect would otherwise deal.</span><span class="in-box-ability"> **Inexorable** The crimson worm recovers from the paralyzed, slowed, and stunned conditions at the end of its turn. It’s also immune to penalties to its Speeds and the immobilized condition, and it ignores difficult terrain and greater difficult terrain.</span><span class="in-box-ability"> **Shake It Off** <span class="action-icon">5</span> **Frequency** once per day; **Trigger** The crimson worm would be affected by a condition or adverse effect (such as [[DATABASE/spell/Baleful Polymorph|baleful polymorph]]). **Effect** The crimson worm negates the triggering condition or effect. Effects from artifacts, deities, or a similarly powerful source can’t be avoided in this way.</span>
 
 ---

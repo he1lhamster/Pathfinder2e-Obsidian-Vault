@@ -167,9 +167,6 @@ If Veshumirix survives the adventure, he is likely to seek revenge against the P
 **Unspecific Lore**: DC 43
 **Specific Lore**: DC 40
 
-## Elite | [[DATABASE/monster/Veshumirix|Normal]] | Weak
-Proficiency without Level
-
 # Veshumirix<span class="item-type">Creature 16</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Huge</span><span class="item-trait">Dragon</span><span class="item-trait">Fire</span>

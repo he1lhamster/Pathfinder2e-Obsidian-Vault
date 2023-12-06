@@ -87,9 +87,6 @@ You can modify shock zombies with the following zombie abilities, in addition to
 **Unspecific Lore**: DC 22
 **Specific Lore**: DC 19
 
-## Elite | [[DATABASE/monster/Zombie, Shock|Normal]] | Weak
-Proficiency without Level
-
 # Shock Zombie<span class="item-type">Creature 6</span>
 
 <span class="trait-uncommon item-trait">Uncommon</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Electricity</span><span class="item-trait">Mindless</span><span class="item-trait">Undead</span><span class="item-trait">Zombie</span>

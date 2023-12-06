@@ -103,9 +103,6 @@ When a creature returns after death as a mohrg spawn, its flesh decays away save
 **Unspecific Lore**: DC 22
 **Specific Lore**: DC 19
 
-## Elite | [[DATABASE/monster/Mohrg|Normal]] | Weak
-Proficiency without Level
-
 # Mohrg<span class="item-type">Creature 8</span>
 
 <span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Undead</span>

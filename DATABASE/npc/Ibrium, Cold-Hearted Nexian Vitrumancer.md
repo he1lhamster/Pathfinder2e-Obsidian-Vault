@@ -85,9 +85,6 @@ Despite his haughty demeanor and role as one of the chief antagonists for this a
 **Unspecific Lore**: DC 35
 **Specific Lore**: DC 32
 
-## Elite | [[DATABASE/npc/Ibrium, Cold-Hearted Nexian Vitrumancer|Normal]] | Weak
-Proficiency without Level
-
 # Ibrium<span class="item-type">Creature 10</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>

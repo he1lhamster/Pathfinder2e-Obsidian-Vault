@@ -119,8 +119,8 @@ Banshees are the furious, tormented souls of elves bound to the Material Plane b
 
 ---
 **AC** 39; **Fort** +25, **Ref** +29, **Will** +32
-**HP** 250 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** disease, [[DATABASE/condition/Paralyzed|paralyzed]], poison, precision, [[DATABASE/condition/Unconscious|unconscious]]
-; **Resistances** all damage 12 (except force, [[DATABASE/equipment/Ghost Touch|ghost touch]], or positive; double resistance vs. non-magical)
+**HP** 250 ([[DATABASE/monsterability/Negative Healing|negative healing]]); **Immunities** disease, [[DATABASE/condition/Paralyzed|paralyzed]], poison, precision, [[DATABASE/condition/Unconscious|unconscious]];
+ **Resistances** all damage 12 (except force, [[DATABASE/equipment/Ghost Touch|ghost touch]], or positive; double resistance vs. non-magical)
 <span class="in-box-ability">**Vengeful Spite** <span class="action-icon">5</span> (evocation, occult); **Trigger** A foe critically hits the banshee, or the banshee critically fails their save against a foe’s damaging effect. **Effect** The banshee lashes back at their tormentor, dealing 4d10+14 mental damage (DC 38 basic Will save) and applying the effects of terrifying touch based on the results of the same Will save.</span>
 
 ---

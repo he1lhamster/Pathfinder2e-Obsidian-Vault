@@ -84,9 +84,6 @@ Many had fancied Ten Lives to be immortal and her death was a tremendous blow to
 **Unspecific Lore**: DC 35
 **Specific Lore**: DC 32
 
-## Elite | [[DATABASE/npc/Grace “The Rhino” Owano, Incendiary Field Commander|Normal]] | Weak
-Proficiency without Level
-
 # Grace “The Rhino” Owano<span class="item-type">Creature 10</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CN</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>

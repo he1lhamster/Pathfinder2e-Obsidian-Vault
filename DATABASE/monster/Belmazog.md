@@ -169,9 +169,6 @@ Belmazog's sin is primarily one of ambition, fueled by an intense desire to feel
 **Unspecific Lore**: DC 34
 **Specific Lore**: DC 31
 
-## Elite | [[DATABASE/monster/Belmazog|Normal]] | Weak
-Proficiency without Level
-
 # Belmazog<span class="item-type">Creature 9</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Acid</span><span class="item-trait">Amphibious</span><span class="item-trait">Boggard</span><span class="item-trait">Dragon</span><span class="item-trait">Humanoid</span>

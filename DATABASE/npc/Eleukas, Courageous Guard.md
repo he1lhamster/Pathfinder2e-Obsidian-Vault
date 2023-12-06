@@ -91,9 +91,6 @@ Game Masters might consider the following plot hooks as a means of integrating E
 **Unspecific Lore**: DC 24
 **Specific Lore**: DC 21
 
-## Elite | [[DATABASE/npc/Eleukas, Courageous Guard|Normal]] | Weak
-Proficiency without Level
-
 # Eleukas<span class="item-type">Creature 2</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">LG</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>

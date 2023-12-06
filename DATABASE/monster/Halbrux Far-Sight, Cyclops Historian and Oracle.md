@@ -95,9 +95,6 @@ Halbrux is one of the heroes' chief antagonists in the Prison of the Vacant Eye.
 **Unspecific Lore**: DC 36
 **Specific Lore**: DC 33
 
-## Elite | [[DATABASE/monster/Halbrux Far-Sight, Cyclops Historian and Oracle|Normal]] | Weak
-Proficiency without Level
-
 # Halbrux Far-Sight<span class="item-type">Creature 11</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Giant</span><span class="item-trait">Humanoid</span>

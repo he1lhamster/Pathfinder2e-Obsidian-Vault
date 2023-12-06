@@ -86,9 +86,6 @@ In Chapter 3 of this adventure, Foebe Dunsmith pays the characters to figure out
 **Unspecific Lore**: DC 26
 **Specific Lore**: DC 23
 
-## Elite | [[DATABASE/npc/Shoma Lyzerius, Bitter Firebug Rival|Normal]] | Weak
-Proficiency without Level
-
 # Shoma Lyzerius<span class="item-type">Creature 3</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CN</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span><span class="item-trait">Ifrit</span>

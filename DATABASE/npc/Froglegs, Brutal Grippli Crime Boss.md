@@ -146,9 +146,6 @@ The heroes face off against Froglegs when they realize her gang is behind many o
 **Unspecific Lore**: DC 32
 **Specific Lore**: DC 29
 
-## Elite | [[DATABASE/npc/Froglegs, Brutal Grippli Crime Boss|Normal]] | Weak
-Proficiency without Level
-
 # Froglegs<span class="item-type">Creature 8</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Small</span><span class="item-trait">Grippli</span><span class="item-trait">Humanoid</span>

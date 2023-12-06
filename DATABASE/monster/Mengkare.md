@@ -183,9 +183,6 @@ Mengkare is the greatest force standing between the PCs and the manifestation of
 **Unspecific Lore**: DC 54
 **Specific Lore**: DC 51
 
-## Elite | [[DATABASE/monster/Mengkare|Normal]] | Weak
-Proficiency without Level
-
 # Mengkare<span class="item-type">Creature 23</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Gargantuan</span><span class="item-trait">Dragon</span><span class="item-trait">Fire</span>

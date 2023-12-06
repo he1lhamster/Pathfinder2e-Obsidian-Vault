@@ -150,9 +150,6 @@ If Qormintur survives the encounter with the heroes, she tries to warn Dyzallin 
 **Unspecific Lore**: DC 43
 **Specific Lore**: DC 40
 
-## Elite | [[DATABASE/monster/Qormintur|Normal]] | Weak
-Proficiency without Level
-
 # Qormintur<span class="item-type">Creature 16</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Duergar</span><span class="item-trait">Dwarf</span><span class="item-trait">Humanoid</span>

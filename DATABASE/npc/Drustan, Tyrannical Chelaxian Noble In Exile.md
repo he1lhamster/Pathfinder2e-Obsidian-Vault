@@ -79,9 +79,6 @@ Drustan is one of the Unmatched. While he pursues one card, his agent Vharnev co
 **Unspecific Lore**: DC 40
 **Specific Lore**: DC 37
 
-## Elite | [[DATABASE/npc/Drustan, Tyrannical Chelaxian Noble In Exile|Normal]] | Weak
-Proficiency without Level
-
 # Drustan<span class="item-type">Creature 14</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>

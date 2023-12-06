@@ -139,9 +139,6 @@ Hendrid Pratchett is the ultimate villain of this adventure, as he is responsibl
 **Unspecific Lore**: DC 30
 **Specific Lore**: DC 27
 
-## Elite | [[DATABASE/npc/Hendrid Pratchett|Normal]] | Weak
-Proficiency without Level
-
 # Hendrid Pratchett<span class="item-type">Creature 6</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Elf</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>

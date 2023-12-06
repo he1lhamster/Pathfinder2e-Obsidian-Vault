@@ -105,8 +105,8 @@ Kolyarut inevitables are enforcers of bargains and punishers of those who fail t
 
 ---
 **AC** 34; **Fort** +23, **Ref** +24, **Will** +22; +1 status to all saves vs. magic
-**HP** 215, regeneration 15 (deactivated by chaotic); **Immunities** death effects, disease, emotion, poison, [[DATABASE/condition/Unconscious|unconscious]]
-; **Weaknesses** chaotic 15
+**HP** 215, regeneration 15 (deactivated by chaotic); **Immunities** death effects, disease, emotion, poison, [[DATABASE/condition/Unconscious|unconscious]];
+ **Weaknesses** chaotic 15
 
 ---
 **Speed** 25 feet

@@ -44,8 +44,8 @@ description: "Malevolent balls of colored light, will-o\u2019-wisps haunt lonely
   \ induce terror in their prey, to ensure they don\u2019t tire of certain flavors\
   \ of fear.<br/><br/><b><u>Recall Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]]\
   \ )</b>: DC 22<br/><b><u>Unspecific Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>:\
-  \ DC 17<div class=\"viewbox\">{{ viewbox(type=monster, id=414, name=Will-o\u2019\
-  -Wisp) }}</div><h1 class=\"title\">Will-o\u2019-Wisp<span style=\"margin-left:auto;\
+  \ DC 17<div class=\"viewbox\">{{ viewbox(type=\"monster\", id=414, name=\"Will-o\u2019\
+  -Wisp\") }}</div><h1 class=\"title\">Will-o\u2019-Wisp<span style=\"margin-left:auto;\
   \ margin-right:0\">Creature 6</span></h1><span class=\"traitalignment\">CE</span><span\
   \ class=\"traitsize\">Small</span><span class=\"trait\"> [[DATABASE/trait/Aberration|Aberration]]\
   \ </span><span class=\"trait\"> [[DATABASE/trait/Air|Air]] </span><br/><b>Source</b>\

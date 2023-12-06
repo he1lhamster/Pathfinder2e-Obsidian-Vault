@@ -139,9 +139,6 @@ Kharostan is suspicious of intruders within his territory and has instructed the
 **Unspecific Lore**: DC 43
 **Specific Lore**: DC 40
 
-## Elite | [[DATABASE/monster/War Champion Kharostan|Normal]] | Weak
-Proficiency without Level
-
 # War Champion Kharostan<span class="item-type">Creature 16</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Fiend</span><span class="item-trait">Humanoid</span><span class="item-trait">Urdefhan</span>

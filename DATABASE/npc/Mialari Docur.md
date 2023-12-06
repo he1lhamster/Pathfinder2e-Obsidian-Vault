@@ -160,9 +160,6 @@ Mialari's dedication to freedom and self-determination makes her a natural enemy
 **Unspecific Lore**: DC 35
 **Specific Lore**: DC 32
 
-## Elite | [[DATABASE/npc/Mialari Docur|Normal]] | Weak
-Proficiency without Level
-
 # Mialari Docur<span class="item-type">Creature 10</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CN</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Elf</span><span class="item-trait">Humanoid</span>

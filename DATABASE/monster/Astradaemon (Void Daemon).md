@@ -106,8 +106,8 @@ These unnerving, almost reptilian daemons represent death by direct assault agai
 
 ---
 **AC** 39; **Fort** +27, **Ref** +30, **Will** +26; +1 status to all saves vs. magic
-**HP** 240; **Immunities** death effects, negative
-; **Weaknesses** good 15
+**HP** 240; **Immunities** death effects, negative;
+ **Weaknesses** good 15
 <span class="in-box-ability">**Soul Siphon** (aura, divine, force, necromancy) 30 feet. An astradaemon draws power from the souls of the recently slain. If a Small or larger living creature dies within its aura, the astradaemon gains 5 temporary Hit Points and a +1 status bonus to attack and damage rolls for 1 round, unless the creature was slain by an astradaemon’s Devour Soul ability. Incorporeal undead and living spirits traveling outside the body take 1d8 force damage each round within the daemon’s aura from the spiritual pressure as the astradaemon pulls in fragments of their soul.</span><span class="in-box-ability"> **Displacement** (divine, illusion, visual) An astradaemon bends light, appearing shifted from its true position, though still in the same space. Creatures targeting the astradaemon must attempt a DC 11 flat check, as if the astradaemon were hidden, even though it remains observed. Effects such as the Blind-Fight feat and halfling’s keen eyes that apply on the flat check against hidden creatures also apply against a displaced astradaemon.</span>
 
 ---

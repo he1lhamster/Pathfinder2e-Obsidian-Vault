@@ -133,9 +133,6 @@ A runecarved lich trades Drain Soul Cage and paralyzing touch for the arm wands 
 **Unspecific Lore**: DC 42
 **Specific Lore**: DC 39
 
-## Elite | [[DATABASE/monster/Runecarved Lich|Normal]] | Weak
-Proficiency without Level
-
 # Runecarved Lich<span class="item-type">Creature 19</span>
 
 <span class="trait-rare item-trait">Rare</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Undead</span>

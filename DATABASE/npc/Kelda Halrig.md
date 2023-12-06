@@ -157,9 +157,6 @@ Kelda's roots are now firmly planted in Kovlar, so she is unlikely to leave the 
 **Unspecific Lore**: DC 32
 **Specific Lore**: DC 29
 
-## Elite | [[DATABASE/npc/Kelda Halrig|Normal]] | Weak
-Proficiency without Level
-
 # Kelda Halrig<span class="item-type">Creature 8</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">LN</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Dwarf</span><span class="item-trait">Humanoid</span>

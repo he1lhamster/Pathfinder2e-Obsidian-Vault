@@ -161,9 +161,6 @@ Nemmia is the primary villain of the adventure's first chapter. If Nemmia surviv
 **Unspecific Lore**: DC 26
 **Specific Lore**: DC 23
 
-## Elite | [[DATABASE/npc/Nemmia Bramblecloak|Normal]] | Weak
-Proficiency without Level
-
 # Nemmia Bramblecloak<span class="item-type">Creature 3</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Small</span><span class="item-trait">Halfling</span><span class="item-trait">Humanoid</span>

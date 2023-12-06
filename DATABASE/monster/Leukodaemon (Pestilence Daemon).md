@@ -90,8 +90,8 @@ These skull-headed, vulture-winged daemons are harbingers of pestilence and serv
 
 ---
 **AC** 28; **Fort** +15, **Ref** +21, **Will** +19; +1 status to all saves vs. magic
-**HP** 155; **Immunities** death effects, disease
-; **Weaknesses** good 10
+**HP** 155; **Immunities** death effects, disease;
+ **Weaknesses** good 10
 <span class="in-box-ability">**Infectious Aura** (aura, disease) 30 feet. Leukodaemons radiate infection. All creatures within 30 feet of a leukodaemon take a –2 status penalty to saves against disease effects. If a creature within range contracts or progresses a disease, all adjacent creatures are exposed to the same disease, at the same DC.</span>
 
 ---

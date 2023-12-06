@@ -123,9 +123,9 @@ According to the axiomites, their kind rose from the raw mathematical underpinni
 
 ---
 **AC** 26; **Fort** +13, **Ref** +16, **Will** +18; +1 status to all saves vs. magic
-**HP** 155; **Immunities** disease, emotion, fear
-; **Resistances** electricity 10, mental 10
-; **Weaknesses** chaotic 10
+**HP** 155; **Immunities** disease, emotion, fear;
+ **Resistances** electricity 10, mental 10;
+ **Weaknesses** chaotic 10
 
 ---
 **Speed** 25 feet

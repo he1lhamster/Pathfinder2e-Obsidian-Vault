@@ -110,9 +110,6 @@ Syndara is the ultimate villain of this Adventure Path and has been manipulating
 **Unspecific Lore**: DC 52
 **Specific Lore**: DC 49
 
-## Elite | [[DATABASE/npc/Syndara The Sculptor|Normal]] | Weak
-Proficiency without Level
-
 # Syndara The Sculptor<span class="item-type">Creature 22</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">LE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Aeon</span><span class="item-trait">Monitor</span>

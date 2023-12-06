@@ -99,9 +99,6 @@ Thiarvo understands how far a friendly demeanor can go, so he adopts one when he
 **Unspecific Lore**: DC 34
 **Specific Lore**: DC 31
 
-## Elite | [[DATABASE/npc/Thiarvo The Quick, Ruthless Halfling Treasure Seeker|Normal]] | Weak
-Proficiency without Level
-
 # Thiarvo The Quick<span class="item-type">Creature 9</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Small</span><span class="item-trait">Halfling</span><span class="item-trait">Humanoid</span>

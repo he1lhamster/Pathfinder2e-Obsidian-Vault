@@ -105,9 +105,6 @@ Surprisingly, the journey to recover her petrified family members sparked growth
 **Unspecific Lore**: DC 35
 **Specific Lore**: DC 32
 
-## Elite | [[DATABASE/npc/Lasheeli Aminda, Serene Field Commander|Normal]] | Weak
-Proficiency without Level
-
 # Lasheeli Aminda<span class="item-type">Creature 10</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Aasimar</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>

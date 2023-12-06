@@ -98,8 +98,8 @@ Friendly, curious, and eternally optimistic, lantern archons embody the virtue o
 
 ---
 **AC** 16; **Fort** +6, **Ref** +10, **Will** +4
-**HP** 20; **Resistances** fire 3
-; **Weaknesses** evil 3
+**HP** 20; **Resistances** fire 3;
+ **Weaknesses** evil 3
 <span class="in-box-ability">**Retributive Strike** <span class="action-icon">5</span> A lantern archon can also make a Retributive Strike with its light ray.</span>
 
 ---

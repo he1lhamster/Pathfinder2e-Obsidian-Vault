@@ -159,9 +159,6 @@ Mistress Dusklight acts as the ultimate villain of this adventure. As rumors of 
 **Unspecific Lore**: DC 36
 **Specific Lore**: DC 33
 
-## Elite | [[DATABASE/npc/Mistress Dusklight|Normal]] | Weak
-Proficiency without Level
-
 # Mistress Dusklight<span class="item-type">Creature 11</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Catfolk</span><span class="item-trait">Humanoid</span>

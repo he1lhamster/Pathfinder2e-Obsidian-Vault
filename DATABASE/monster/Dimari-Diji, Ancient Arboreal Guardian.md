@@ -109,9 +109,6 @@ As steward of Osibu, Dimari-Diji is intent on defending his city from all potent
 **Unspecific Lore**: DC 58
 **Specific Lore**: DC 55
 
-## Elite | [[DATABASE/monster/Dimari-Diji, Ancient Arboreal Guardian|Normal]] | Weak
-Proficiency without Level
-
 # Dimari-Diji<span class="item-type">Creature 25</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Gargantuan</span><span class="item-trait">Plant</span>

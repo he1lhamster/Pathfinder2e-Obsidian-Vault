@@ -112,9 +112,6 @@ When the characters meet Iron Taviah in Chapter 1, the Graveclaw is at the heigh
 **Unspecific Lore**: DC 30
 **Specific Lore**: DC 27
 
-## Elite | [[DATABASE/monster/Iron Taviah, Shadow-Weaving Annis Hag|Normal]] | Weak
-Proficiency without Level
-
 # Iron Taviah<span class="item-type">Creature 6</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Hag</span><span class="item-trait">Humanoid</span>

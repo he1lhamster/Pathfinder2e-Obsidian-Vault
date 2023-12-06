@@ -79,9 +79,6 @@ Game Masters might consider the following plot hooks as a means of integrating t
 **Unspecific Lore**: DC 27
 **Specific Lore**: DC 24
 
-## Elite | [[DATABASE/npc/Morlibint, Small-Town Bookseller|Normal]] | Weak
-Proficiency without Level
-
 # Morlibint<span class="item-type">Creature 4</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">LN</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Human</span><span class="item-trait">Humanoid</span>

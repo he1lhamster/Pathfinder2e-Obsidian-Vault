@@ -139,9 +139,6 @@ All-Seeing Hajeck is reincarnated at the start of this adventure by the _Deck of
 **Unspecific Lore**: DC 38
 **Specific Lore**: DC 35
 
-## Elite | [[DATABASE/monster/All-Seeing Hajeck, Reincarnated Visionary Charlatan|Normal]] | Weak
-Proficiency without Level
-
 # All-Seeing Hajeck<span class="item-type">Creature 12</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CN</span><span class="trait-size item-trait">Large</span><span class="item-trait">Beast</span>

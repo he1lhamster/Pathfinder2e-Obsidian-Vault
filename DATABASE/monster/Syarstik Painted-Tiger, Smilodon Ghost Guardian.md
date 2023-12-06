@@ -100,9 +100,6 @@ When the characters first meet Syarstik in Chapter 2 of this adventure, he's sti
 **Unspecific Lore**: DC 28
 **Specific Lore**: DC 25
 
-## Elite | [[DATABASE/monster/Syarstik Painted-Tiger, Smilodon Ghost Guardian|Normal]] | Weak
-Proficiency without Level
-
 # Syarstik Painted-Tiger<span class="item-type">Creature 5</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">N</span><span class="trait-size item-trait">Large</span><span class="item-trait">Ghost</span><span class="item-trait">Incorporeal</span><span class="item-trait">Spirit</span><span class="item-trait">Undead</span>

@@ -103,9 +103,6 @@ Kurshkin serves as a secondary villain to the adventure, a somewhat silly antago
 **Unspecific Lore**: DC 26
 **Specific Lore**: DC 23
 
-## Elite | [[DATABASE/monster/Kurshking, Gremlin Trickster|Normal]] | Weak
-Proficiency without Level
-
 # Kurshkin<span class="item-type">Creature 3</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">NE</span><span class="trait-size item-trait">Tiny</span><span class="item-trait">Fey</span><span class="item-trait">Gremlin</span>

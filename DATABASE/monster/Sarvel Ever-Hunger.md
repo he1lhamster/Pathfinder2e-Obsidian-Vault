@@ -149,9 +149,6 @@ Sarvel Ever-Hunger is the final foe of the Extinction Curse Adventure Path. His 
 **Unspecific Lore**: DC 52
 **Specific Lore**: DC 49
 
-## Elite | [[DATABASE/monster/Sarvel Ever-Hunger|Normal]] | Weak
-Proficiency without Level
-
 # Sarvel Ever-Hunger<span class="item-type">Creature 22</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Large</span><span class="item-trait">Fiend</span><span class="item-trait">Humanoid</span><span class="item-trait">Xulgath</span>

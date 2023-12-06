@@ -83,8 +83,8 @@ This creature can be summoned with the spell _[[DATABASE/spell/Unseen Servant|Un
 
 ---
 **AC** 13; **Fort** +0, **Ref** +4, **Will** +0
-**HP** 4; **Immunities** disease, mental, non-magical attacks, [[DATABASE/condition/Paralyzed|paralysis]], poison, precision, [[DATABASE/condition/Unconscious|unconscious]]
-; **Resistances** all damage 5 (except force or [[DATABASE/equipment/Ghost Touch|ghost touch]])
+**HP** 4; **Immunities** disease, mental, non-magical attacks, [[DATABASE/condition/Paralyzed|paralysis]], poison, precision, [[DATABASE/condition/Unconscious|unconscious]];
+ **Resistances** all damage 5 (except force or [[DATABASE/equipment/Ghost Touch|ghost touch]])
 
 ---
 **Speed** fly 30 feet

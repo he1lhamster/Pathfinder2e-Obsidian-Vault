@@ -100,9 +100,6 @@ Hyrune had been a [[DATABASE/monsterfamily/Vampire|vampire]] for well over a cen
 **Unspecific Lore**: DC 42
 **Specific Lore**: DC 39
 
-## Elite | [[DATABASE/monster/Hyrune Loxenna, Blood Lord Of Geb|Normal]] | Weak
-Proficiency without Level
-
 # Hyrune Loxenna<span class="item-type">Creature 15</span>
 
 <span class="trait-unique item-trait">Unique</span><span class="trait-alignment item-trait">CE</span><span class="trait-size item-trait">Medium</span><span class="item-trait">Undead</span><span class="item-trait">Vampire</span>
